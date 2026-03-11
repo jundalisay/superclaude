@@ -1,0 +1,206 @@
+<!-- Tawk.to -->
+<script>
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/6306798e37898912e964f594/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+  })();
+</script>
+
+<script>
+(function() {
+  // ===== DARK MODE TOGGLE =====
+  var themeBtn = document.getElementById('theme-toggle');
+  var sunIcon = themeBtn ? themeBtn.querySelector('.sun-icon') : null;
+  var moonIcon = themeBtn ? themeBtn.querySelector('.moon-icon') : null;
+
+  function updateThemeIcons() {
+    var isDark = document.documentElement.classList.contains('dark');
+    if (sunIcon) sunIcon.style.display = isDark ? 'none' : '';
+    if (moonIcon) moonIcon.style.display = isDark ? '' : 'none';
+  }
+
+  updateThemeIcons();
+
+  if (themeBtn) {
+    themeBtn.addEventListener('click', function() {
+      document.documentElement.classList.toggle('dark');
+      var isDark = document.documentElement.classList.contains('dark');
+      localStorage.setItem('sp-theme', isDark ? 'dark' : 'light');
+      updateThemeIcons();
+    });
+  }
+
+  // ===== LANGUAGE SELECT =====
+  var langSelect = document.getElementById('lang-select');
+  if (langSelect) {
+    langSelect.addEventListener('change', function() {
+      var lang = this.value;
+      var currentPath = window.location.pathname;
+      // Try to navigate to the selected language version
+      var langMap = {
+        'en': '/',
+        'zh': '/zh/',
+        'fr': '/fr/',
+        'es': '/es/',
+        'ar': '/ar/',
+        'hi': '/hi/'
+      };
+      window.location.href = langMap[lang] || '/';
+    });
+  }
+
+  // ===== MOBILE MENU =====
+  var mobileBtn = document.getElementById('mobile-menu-btn');
+  var mobileMenu = document.getElementById('mobile-menu');
+  var desktopNav = document.getElementById('desktop-nav');
+
+  function checkMobile() {
+    if (window.innerWidth < 768) {
+      if (mobileBtn) mobileBtn.style.display = '';
+      if (desktopNav) desktopNav.style.display = 'none';
+    } else {
+      if (mobileBtn) mobileBtn.style.display = 'none';
+      if (desktopNav) desktopNav.style.display = '';
+      if (mobileMenu) mobileMenu.classList.remove('open');
+    }
+  }
+
+  checkMobile();
+  window.addEventListener('resize', checkMobile);
+
+  if (mobileBtn && mobileMenu) {
+    mobileBtn.addEventListener('click', function() {
+      mobileMenu.classList.toggle('open');
+    });
+  }
+
+  // ===== SEARCH =====
+  var searchToggle = document.getElementById('search-toggle');
+  var searchOverlay = document.getElementById('search-overlay');
+  var searchClose = document.getElementById('search-close');
+  var searchInput = document.getElementById('search-input');
+  var searchResults = document.getElementById('search-results');
+
+  var pages = window.__SP_PAGES__ || [];
+
+  // Build search index from all pages via JSON endpoint fallback
+  if (!pages.length) {
+    // Try fetching the site's index
+    fetch('/index.json').then(function(r) {
+      if (r.ok) return r.json();
+    }).then(function(data) {
+      if (data && Array.isArray(data)) pages = data;
+    }).catch(function(){});
+  }
+
+  function openSearch() {
+    if (searchOverlay) {
+      searchOverlay.classList.add('open');
+      setTimeout(function() { if (searchInput) searchInput.focus(); }, 50);
+    }
+  }
+
+  function closeSearch() {
+    if (searchOverlay) searchOverlay.classList.remove('open');
+    if (searchInput) searchInput.value = '';
+    if (searchResults) searchResults.innerHTML = '<p style="color:#64748b;font-size:0.875rem;padding:0.5rem">Type to search...</p>';
+  }
+
+  if (searchToggle) searchToggle.addEventListener('click', openSearch);
+  if (searchClose) searchClose.addEventListener('click', closeSearch);
+
+  if (searchOverlay) {
+    searchOverlay.addEventListener('click', function(e) {
+      if (e.target === searchOverlay) closeSearch();
+    });
+  }
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeSearch();
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      openSearch();
+    }
+  });
+
+  if (searchInput) {
+    searchInput.addEventListener('input', function() {
+      var query = this.value.toLowerCase().trim();
+      if (!query) {
+        searchResults.innerHTML = '<p style="color:#64748b;font-size:0.875rem;padding:0.5rem">Type to search...</p>';
+        return;
+      }
+
+      var matches = pages.filter(function(p) {
+        return (p.title && p.title.toLowerCase().includes(query)) ||
+               (p.description && p.description.toLowerCase().includes(query));
+      }).slice(0, 8);
+
+      if (!matches.length) {
+        searchResults.innerHTML = '<p style="color:#64748b;font-size:0.875rem;padding:0.5rem">No results found.</p>';
+        return;
+      }
+
+      searchResults.innerHTML = matches.map(function(p) {
+        return '<a href="' + p.url + '" class="search-result-item">' +
+          '<div class="search-result-title">' + (p.title || '') + '</div>' +
+          (p.description ? '<div class="search-result-desc">' + p.description + '</div>' : '') +
+          '</a>';
+      }).join('');
+    });
+  }
+
+  // ===== SCROLL TO TOP =====
+  var scrollBtn = document.getElementById('scroll-top');
+  if (scrollBtn) {
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 400) {
+        scrollBtn.classList.add('visible');
+      } else {
+        scrollBtn.classList.remove('visible');
+      }
+    });
+  }
+
+  // ===== NAVBAR SCROLL =====
+  var navbar = document.getElementById('navbar');
+  if (navbar) {
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 10) {
+        navbar.style.boxShadow = '0 4px 20px rgba(0,0,0,0.15)';
+      } else {
+        navbar.style.boxShadow = '';
+      }
+    });
+  }
+
+  // ===== SUBSCRIBE FORM =====
+  var subForm = document.getElementById('subscribe-form');
+  if (subForm) {
+    subForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var email = this.querySelector('input[type="email"]').value;
+      if (email) {
+        alert('Thank you! ' + email + ' has been subscribed.');
+        this.reset();
+      }
+    });
+  }
+
+  // ===== CONTACT FORM =====
+  var contactForm = document.getElementById('contact-form');
+  if (contactForm) {
+    contactForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      alert('Thank you for your message! We will get back to you soon.');
+      this.reset();
+    });
+  }
+
+})();
+</script>

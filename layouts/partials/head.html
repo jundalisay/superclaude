@@ -1,0 +1,149 @@
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+<title>{{ if .IsHome }}{{ i18n "site_name" }} — {{ i18n "site_tagline" }}{{ else }}{{ .Title }} | {{ i18n "site_name" }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}"/>
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}"/>{{ end }}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+<meta property="og:url" content="{{ .Permalink }}"/>
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}"/>
+
+<!-- Multilingual alternates -->
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}"/>
+{{ end }}
+
+<link rel="icon" type="image/png" href="/icons/sp.svg">
+<link rel="apple-touch-icon" href="/icons/sp.svg">
+
+
+<!-- Fonts: Noto Sans TC + Noto Serif TC -->
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet"/>
+
+<!-- Tailwind v4 CDN -->
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+<!-- Dark mode init (before render to prevent flash) -->
+<script>
+  (function() {
+    var stored = localStorage.getItem('sp-theme');
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (stored === 'dark' || (!stored && prefersDark)) {
+      document.documentElement.classList.add('dark');
+    }
+  })();
+</script>
+
+<!-- Custom styles -->
+<link rel="stylesheet" href="/css/custom.css"/>
+
+<!-- Search index JSON -->
+{{ if .IsHome }}
+<link rel="alternate" type="application/json" href="{{ "index.json" | relURL }}"/>
+{{ end }}
+
+<!-- RSS -->
+{{ range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}"/>
+{{ end }}
+
+<style type="text/tailwindcss">
+  @theme {
+    --color-sp-bg: #f8fafc;
+    --color-sp-bg-alt: #f1f5f9;
+    --color-sp-card: #ffffff;
+    --color-sp-text: #1e293b;
+    --color-sp-muted: #64748b;
+    --color-sp-border: #e2e8f0;
+    --color-sp-nav: rgba(248,250,252,0.92);
+    --font-display: 'Noto Sans TC', sans-serif;
+    --font-body: 'Noto Sans TC', sans-serif;
+    --font-code: 'Fira Code', monospace;
+  }
+
+
+  .dark {
+    --color-sp-bg: #0a0f1e;
+    --color-sp-bg-alt: #0f172a;
+    --color-sp-card: #131b2e;
+    --color-sp-text: #e2e8f0;
+    --color-sp-muted: #94a3b8;
+    --color-sp-border: #1e293b;
+    --color-sp-nav: rgba(10,15,30,0.95);
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-sp-bg);
+    color: var(--color-sp-text);
+  }
+
+  h1, h2, h3, h4, h5, h6, nav, button, label, .font-display {
+    font-family: var(--font-display);
+  }
+
+  code, pre, .font-code {
+    font-family: var(--font-code);
+  }
+
+  .bg-sp-bg { background-color: var(--color-sp-bg); }
+  .bg-sp-bg-alt { background-color: var(--color-sp-bg-alt); }
+  .bg-sp-card { background-color: var(--color-sp-card); }
+  .text-sp-text { color: var(--color-sp-text); }
+  .text-sp-muted { color: var(--color-sp-muted); }
+  .border-sp-border { border-color: var(--color-sp-border); }
+  .bg-sp-nav { background-color: var(--color-sp-nav); }
+
+  /* Card reveal animation */
+  .card-reveal {
+    opacity: 0;
+    transform: translateY(32px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .card-reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Article prose */
+  .prose-sp {
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--color-sp-text);
+  }
+  .prose-sp h2 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 600; margin: 2rem 0 0.75rem; color: #0d9488; }
+  .prose-sp h3 { font-family: var(--font-display); font-size: 1.25rem; font-weight: 600; margin: 1.5rem 0 0.5rem; color: #2563eb; }
+  .prose-sp h4 { font-family: var(--font-display); font-size: 1.1rem; font-weight: 600; margin: 1.25rem 0 0.5rem; }
+  .prose-sp p { margin-bottom: 1.25rem; }
+  .prose-sp a { color: #0d9488; text-decoration: underline; text-underline-offset: 3px; }
+  .prose-sp a:hover { color: #2563eb; }
+  .prose-sp blockquote { border-left: 4px solid #0d9488; padding-left: 1.25rem; margin: 1.5rem 0; color: var(--color-sp-muted); font-style: italic; }
+  .prose-sp code { font-family: var(--font-code); font-size: 0.875em; background: var(--color-sp-bg-alt); padding: 0.15em 0.4em; border-radius: 4px; }
+  .prose-sp pre { background: #0a0f1e; border-radius: 0.75rem; padding: 1.25rem; overflow-x: auto; margin: 1.5rem 0; }
+  .prose-sp pre code { background: none; padding: 0; font-size: 0.9em; color: #e2e8f0; }
+  .prose-sp ul { list-style: disc; padding-left: 1.5rem; margin-bottom: 1.25rem; }
+  .prose-sp ol { list-style: decimal; padding-left: 1.5rem; margin-bottom: 1.25rem; }
+  .prose-sp li { margin-bottom: 0.4rem; }
+  .prose-sp table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem; }
+  .prose-sp th { background: var(--color-sp-bg-alt); padding: 0.6rem 1rem; text-align: left; font-family: var(--font-display); font-weight: 600; border-bottom: 2px solid #0d9488; }
+  .prose-sp td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--color-sp-border); }
+  .prose-sp img { border-radius: 0.75rem; max-width: 100%; height: auto; margin: 1.5rem auto; display: block; }
+  .prose-sp hr { border-color: var(--color-sp-border); margin: 2rem 0; }
+
+  /* TOC styles */
+  #toc-nav a { color: var(--color-sp-muted); text-decoration: none; display: block; padding: 0.2rem 0; font-size: 0.85rem; transition: color 0.2s; }
+  #toc-nav a:hover, #toc-nav a.active { color: #0d9488; }
+  #toc-nav ul { list-style: none; padding: 0; }
+  #toc-nav ul ul { padding-left: 1rem; }
+  #toc-nav li { margin: 0; }
+</style>

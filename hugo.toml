@@ -1,0 +1,159 @@
+baseURL = "https://superphysics.org/"
+title = "Superphysics"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+# paginate = 12
+summarylength = 30
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    style = "monokai"
+
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    video = "/v.mp4"
+    contentDir = "content/en"
+
+    # [languages.en.params.hero]
+    #   btn1_text = "Explore Superphysics"
+    #   btn1_url = "/research"
+    #   btn2_text = "Read the Book"
+    #   btn2_url = "https://play.google.com/store/books/details?id=T-H4DwAAQBAJ&pli=1"
+
+    [languages.en.params]
+      rtl = false
+
+    [languages.en.params.quote1]
+      content = "Natural science is divided into physic and metaphysic. Physic should contemplate that which is inherent in matter and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed."
+      icon = "Francis Bacon"
+      author = "Francis Bacon"
+      src = "The Proficience And Advancement Of Learning, Book 2, Part 7"
+
+    [languages.en.params.trio]
+      title = "All Knowledge Can Be Grouped Into Three"
+      video = "/socrates.mp4"
+      icons = [
+        { img = "/icons/tao.png", title = "Metaphysics", sub = "1-50% Replicable: Paradoxical" },
+        { img = "/icons/sp.png", title = "Superphysics", sub = "51-99% Replicable: Subjective" },
+        { img = "/icons/atom.png", title = "Physics", sub = "100% Replicable: Objective" },
+      ]
+
+    [languages.en.params.quote2]
+      content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+
+    [languages.en.params.sciences]
+      title = "Six Sciences That Open Up The Universe"
+      cards = [
+        { img = "/avatars/descartes.jpg", c = "yellow", title = "Material Superphysics", sub = "Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza", url = "/material"},
+        { img = "/graphics/super/yin.jpg", c = "pink", title = "Bio Superphysics", sub = "Biology and Medicine that combines Western and Asian Principles", url = "/bio"},
+        { img = "/avatars/smith.jpg", c = "green", title = "Social Superphysics", sub = "A Society as a Metaphysical Organism with a Life Cycle", url = "/social"},
+        { img = "/avatars/buddha.jpg", c = "indigo", title = "Spiritual Superphysics", sub = "Upgrading Experience beyond Matter and into the Aether or Akasha", url = "/spiritual"},
+        { img = "/photos/meta/om.jpg", c = "gray", title = "Supermath and Qualimath", sub = "Mathematics based on Base-3, Base-6, Shapes, and Qualities", url = "/supermath"},
+        { img = "/avatars/socrates.jpg", c = "blue", title = "Superlogic", sub = "Reasoning based on Dharma or True Nature", url = "/superlogic"},
+      ]
+
+    [languages.en.params.quote3]
+      content = "Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding."
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
+
+    # [languages.en.params.book]
+    #   intro = "Read the Book"
+    #   img = "/books/towards.jpg"
+    #   sub = "Superphysics is explained in the book <i>Superphysics in a Nutshell</i>, available on the Play Store"
+    #   url = "https://play.google.com/store/books/details?id=T-H4DwAAQBAJ&pli=1"
+
+    [languages.en.params.panels]
+      title = "Let's Solve All Problems!"
+      cards = [
+        { img = "/photos/econ/writer.jpg", title = "Evidence", sub = "We test Superphysics in the real world", url = "/evidence" },
+        { img = "/graphics/tech/solar.jpg", title = "Proposed Solutions and Technologies", sub = "Enlightenment ideas can lead to totally new technologies", url = "/solutions" },
+        { img = "/photos/countries/ua/war.jpg", title = "Predictions from Social Cycles", sub = "We test our predictions with actual events", url = "/social/cycles" },
+        { img = "/photos/buy.jpg", title = "Policies from Social Cycles", sub = "A better world needs policies that match Nature", url = "/social/policies" },
+      ]
+
+
+
+
+
+
+  [languages.zh]
+    languageName = "中文"
+    weight = 2
+    contentDir = "content/zh"
+    [languages.zh.params]
+      rtl = false
+  [languages.fr]
+    languageName = "Français"
+    weight = 3
+    contentDir = "content/fr"
+    [languages.fr.params]
+      rtl = false
+  [languages.es]
+    languageName = "Español"
+    weight = 4
+  contentDir = "content/es"
+    [languages.es.params]
+      rtl = false
+  [languages.ar]
+    languageName = "العربية"
+    weight = 5
+    contentDir = "content/ar"
+    languageDirection = "rtl"
+    [languages.ar.params]
+      rtl = true
+  [languages.hi]
+    languageName = "हिन्दी"
+    weight = 6
+    contentDir = "content/hi"
+    [languages.hi.params]
+      rtl = false
+
+[params]
+  author = "Superphysics Team"
+  sections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news","about","help","faqs","tags"]
+  mainSections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news"]
+  commentAction = "https://usebasin.com/f/ac926f8e1f10"
+  nav_sections = [
+    { key = "news", url = "/news" },
+    { key = "research", url = "/research" },
+    { key = "superphysics", url = "/superphysics" },
+    { key = "math", url = "/supermath" },
+    { key = "material", url = "/material" },
+    { key = "bio", url = "/bio" },
+    { key = "society", url = "/social/supersociology" },
+    { key = "economics", url = "/social/economics" },
+    { key = "cycles", url = "/social/cycles" },
+    { key = "spiritual", url = "/spiritual" },
+    { key = "about", url = "/about" },
+    { key = "faqs", url = "/faqs" },
+    { key = "tags", url = "/tags" },
+    { key = "help", url = "/help" }
+  ]
+
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+
+

@@ -1,0 +1,29 @@
+{{ $trio := .Site.Language.Params.trio }}
+<section id="trio">
+  <!-- Background video -->
+  <video class="trio-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true">
+    <source src="/socrates.mp4" type="video/mp4" />
+  </video>
+  <div class="trio-overlay"></div>
+
+  <div class="trio-content">
+    <h2 class="trio-title">{{ $trio.title }}</h2>
+
+    <div class="trio-cards">
+      {{ range $trio.icons }}
+      <div class="trio-card">
+        <img
+          src="{{ .img }}"
+          alt="{{ .title }}"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+        />
+        <div class="trio-card-fallback" style="display:none">
+          {{ if eq .title "Metaphysics" }}☯{{ else if eq .title "Superphysics" }}⚛{{ else }}⚗{{ end }}
+        </div>
+        <div class="trio-card-title">{{ .title }}</div>
+        <div class="trio-card-sub">{{ .sub }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

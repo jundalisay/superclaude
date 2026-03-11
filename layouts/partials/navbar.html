@@ -1,0 +1,102 @@
+{{- $currentLang := .Site.Language.Lang -}}
+{{- $sections := .Site.Params.sections -}}
+
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 bg-sp-nav backdrop-blur-md border-b border-sp-border transition-all duration-300" style="font-family: var(--font-display)">
+  <div class="max-w-[1400px] mx-auto px-4 sm:px-6">
+    <div class="flex items-center h-16 gap-4">
+
+      <!-- Logo -->
+      <a href="{{ "/" | relLangURL }}" class="flex items-center gap-2.5 flex-shrink-0 group">
+          <img src="/icons/sp.svg" class="w-8 h-8">
+        
+        <span class="font-bold text-lg text-sp-text hidden sm:block tracking-tight">{{ i18n "site_name" }}</span>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden lg:flex items-center gap-0.5 flex-1 overflow-x-auto scrollbar-none">
+        {{- range .Site.Params.nav_sections }}
+          {{- $section := . }}
+          {{- $i18nKey := printf "nav_%s" $section.key }}
+          
+          <a href="{{ $section.url | relLangURL }}"
+             class="px-3 py-1.5 text-sm font-medium rounded-lg text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition-colors whitespace-nowrap">
+            {{ i18n $i18nKey }}
+          </a>
+        {{- end }}
+      </div>
+
+      <!-- Right controls -->
+      <div class="flex items-center gap-2 ml-auto flex-shrink-0">
+
+        <!-- Search button -->
+        <button id="openSearch" aria-label="Search"
+          class="w-9 h-9 flex items-center justify-center rounded-xl text-sp-muted hover:text-teal-600 hover:bg-sp-bg-alt transition-colors">
+          <svg class="w-4.5 h-4.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        </button>
+
+        <!-- Dark mode toggle -->
+        <button id="themeToggle" aria-label="Toggle theme"
+          class="w-9 h-9 flex items-center justify-center rounded-xl text-sp-muted hover:text-teal-600 hover:bg-sp-bg-alt transition-colors">
+          <!-- Sun icon (shown in dark mode) -->
+          <svg id="iconSun" class="w-4.5 h-4.5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path stroke-linecap="round" stroke-width="2" d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+          <!-- Moon icon (shown in light mode) -->
+          <svg id="iconMoon" class="w-4.5 h-4.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+
+<!-- Language selector -->
+<div class="relative">
+  <button id="langToggle" aria-label="{{ i18n "select_language" }}"
+    class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-sm font-medium text-sp-muted hover:text-teal-600 hover:bg-sp-bg-alt transition-colors border border-sp-border">
+    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129"/></svg>
+    <span class="uppercase tracking-wide text-xs">{{ $currentLang }}</span>
+    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+  </button>
+  <div id="langDropdown" class="absolute right-0 top-full mt-1.5 w-40 bg-sp-card border border-sp-border rounded-xl shadow-xl overflow-hidden hidden z-50">
+    {{ range .Translations }}
+    <a href="{{ .RelPermalink }}"
+       class="flex items-center gap-2 px-4 py-2.5 text-sm text-sp-text hover:bg-teal-50 dark:hover:bg-teal-950/40 hover:text-teal-600 transition-colors">
+      <span class="text-xs font-mono uppercase text-sp-muted">{{ .Lang }}</span>
+      <span>{{ .Language.LanguageName }}</span>
+    </a>
+    {{ else }}
+      <!-- Fallback to homepage if no translation -->
+      {{ range .Site.Languages }}
+        {{ if ne .Lang $currentLang }}
+        <a href="{{ .Lang | relURL }}"
+           class="flex items-center gap-2 px-4 py-2.5 text-sm text-sp-text hover:bg-teal-50 dark:hover:bg-teal-950/40 hover:text-teal-600 transition-colors">
+          <span class="text-xs font-mono uppercase text-sp-muted">{{ .Lang }}</span>
+          <span>{{ .LanguageName }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+        <!-- Mobile menu button -->
+        <button id="mobileMenuBtn" aria-label="Menu"
+          class="lg:hidden w-9 h-9 flex items-center justify-center rounded-xl text-sp-muted hover:text-teal-600 hover:bg-sp-bg-alt transition-colors">
+          <svg id="hamburgerIcon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+          <svg id="closeMenuIcon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobileMenu" class="hidden lg:hidden border-t border-sp-border bg-sp-nav backdrop-blur-md">
+    <div class="max-w-[1400px] mx-auto px-4 py-3 grid grid-cols-2 sm:grid-cols-3 gap-1">
+      {{- range $sections }}
+      {{- $sectionName := . }}
+      {{- $i18nKey := printf "nav_%s" $sectionName }}
+      <a href="{{ printf "/%s/" $sectionName | relLangURL }}"
+         class="px-3 py-2 text-sm font-medium rounded-lg text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition-colors">
+        {{ i18n $i18nKey }}
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</nav>
+
+<!-- Spacer for fixed navbar -->
+<div class="h-16"></div>

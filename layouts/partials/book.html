@@ -1,0 +1,17 @@
+<section class="py-24 bg-slate-950 z-20 relative border-y border-white/5">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center gap-16">
+        <div class="w-full md:w-1/2 flex justify-center">
+            <img src="{{ .img }}" alt="Book Cover" class="rounded-lg shadow-2xl shadow-teal-500/20 w-64 md:w-80 transform -rotate-2 hover:rotate-0 transition-transform duration-500">
+        </div>
+        <div class="w-full md:w-1/2 text-center md:text-left">
+            <h2 class="text-4xl font-bold text-white mb-6">{{ .intro }}</h2>
+            <p class="text-blue-100/70 text-lg mb-8 italic">
+                {{ .sub | safeHTML }}
+            </p>
+            <a href="{{ .url }}" target="_blank" class="inline-flex items-center gap-3 px-8 py-4 bg-white text-slate-950 font-bold rounded-xl hover:bg-teal-400 transition-colors">
+                Get it on Play Store
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.61 3,21.09 3,20.5M16.81,15.12L18.81,16.26C19.46,16.63 20.03,16.63 20.4,16.26L14.71,13.02L16.81,15.12M20.4,7.74C20.03,7.37 19.46,7.37 18.81,7.74L16.81,8.88L14.71,10.98L20.4,7.74M14,12.31L4.54,21.77L14.54,16.03L14,12.31Z"/></svg>
+            </a>
+        </div>
+    </div>
+</section>

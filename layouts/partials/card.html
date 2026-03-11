@@ -1,0 +1,177 @@
+{{/* Card partial
+   Expects: . = page context
+   Card types:
+   1. image card  (if .Params.image is set)
+   2. avatar card (if .Params.icon is set, no image)
+   3. plain card  (no image, no icon)
+*/}}
+
+{{- $page := . -}}
+{{- $hasImage := .Params.image -}}
+{{- $hasAvatar := .Params.a -}}
+{{- $color := .Params.c | default "darkslategray" -}}
+{{- $showDate := .Params.showdate -}}
+{{- $heading := .Params.heading -}}
+{{- $iconName := .Params.icon -}}
+
+<article class="card-reveal rounded-2xl overflow-hidden group cursor-pointer h-full
+  {{ if $hasImage }}relative{{ else }}flex flex-col bg-sp-card border border-sp-border hover:border-teal-500/50{{ end }}
+  shadow-sm hover:shadow-lg hover:shadow-teal-500/10 transition-all duration-300">
+  <a href="{{ .RelPermalink }}" class="block h-full">
+
+  {{/* ── IMAGE CARD ── */}}
+  {{ if $hasImage }}
+    <div class="relative w-full aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden bg-slate-900">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}"
+           class="w-full h-full object-cover"/>
+      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+      {{ if $heading }}
+      <div class="absolute top-3 left-3">
+        <span class="text-xs font-display font-semibold px-2.5 py-1 rounded-full bg-teal-600/80 text-white backdrop-blur-sm">{{ $heading }}</span>
+      </div>
+      {{ end }}
+      <div class="absolute bottom-0 left-0 right-0 p-4">
+        <h2 class="text-white text-2xl font-display font-semibold text-base leading-snug line-clamp-2
+          bg-black/50 backdrop-blur-sm -mx-4 px-4 py-2">{{ .Title }}</h2>
+        {{ if and $showDate .Date }}
+          <time class="text-xs text-white/60 mt-1 block" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        {{ end }}
+      </div>
+    </div>
+
+
+  {{/* ── AVATAR CARD ── */}}
+  {{ else if $hasAvatar }}
+
+<div class="relative flex flex-row h-full p-5 aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden" 
+     style="background-color: {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }}">
+
+  <div class="relative z-20 flex flex-col justify-between w-2/5 h-full text-left">
+    <div>
+      {{ if $heading }}
+      <div class="mb-3">
+        <span class="text-[10px] md:text-xs font-display font-semibold px-2 py-1 rounded-full whitespace-nowrap"
+          style="background-color: rgba(0,0,0,0.3); color: white; border: 1px solid rgba(255,255,255,0.2);">
+          {{ $heading }}
+        </span>
+      </div>
+      {{ end }}
+      
+      <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-4 drop-shadow-md">
+        {{ .Title }}
+      </h2>
+    </div>
+
+    {{ if and $showDate .Date }}
+    <time class="text-[10px] text-white/80 font-medium tracking-wide uppercase" datetime="{{ .Date.Format "2006-01-02" }}">
+      {{ .Date.Format "Jan 2, 2006" }}
+    </time>
+    {{ end }}
+  </div>
+
+  <div class="absolute top-0 right-0 w-2/3 h-full z-10">
+    <div class="w-full h-full overflow-hidden transition-transform duration-700 group-hover:scale-110">
+      <div class="absolute inset-0 z-10" 
+           style="background: linear-gradient(to right, {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }} 0%, transparent 40%, transparent 100%);">
+      </div>
+      
+      <img src="/icons/{{ $hasAvatar }}.jpg" alt="{{ $iconName }}"
+           class="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all">
+    </div>
+  </div>
+</div>
+
+
+  {{ else if $iconName }}
+
+<div class="relative flex flex-row h-full p-5 aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden" 
+     style="background-color: {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }}">
+
+  <div class="relative z-20 flex flex-col justify-between w-2/5 h-full text-left">
+    <div>
+      {{ if $heading }}
+      <div class="mb-3">
+        <span class="text-[10px] md:text-xs font-display font-semibold px-2 py-1 rounded-full whitespace-nowrap"
+          style="background-color: rgba(0,0,0,0.3); color: white; border: 1px solid rgba(255,255,255,0.2);">
+          {{ $heading }}
+        </span>
+      </div>
+      {{ end }}
+      
+      <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-4 drop-shadow-md">
+        {{ .Title }}
+      </h2>
+    </div>
+
+    {{ if and $showDate .Date }}
+    <time class="text-[10px] text-white/80 font-medium tracking-wide uppercase" datetime="{{ .Date.Format "2006-01-02" }}">
+      {{ .Date.Format "Jan 2, 2006" }}
+    </time>
+    {{ end }}
+  </div>
+
+  <div class="absolute top-0 right-0 w-2/3 h-full z-10">
+    <div class="w-full h-full overflow-hidden transition-transform duration-700 group-hover:scale-110">
+      <div class="absolute inset-0 z-10" 
+           style="background: linear-gradient(to right, {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }} 0%, transparent 40%, transparent 100%);">
+      </div>
+      
+      <img src="/icons/{{ $iconName }}.jpg" alt="{{ $iconName }}"
+           class="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  {{/* ── PLAIN CARD ── */}}
+  {{ else }}
+
+
+<div class="relative flex flex-row h-full p-5 aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden" 
+     style="background-color: {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }}">
+
+  <div class="relative z-20 flex flex-col justify-between w-2/5 h-full text-left">
+    <div>
+      {{ if $heading }}
+      <div class="mb-3">
+        <span class="text-[10px] md:text-xs font-display font-semibold px-2 py-1 rounded-full whitespace-nowrap"
+          style="background-color: rgba(0,0,0,0.3); color: white; border: 1px solid rgba(255,255,255,0.2);">
+          {{ $heading }}
+        </span>
+      </div>
+      {{ end }}
+      
+      <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-4 drop-shadow-md">
+        {{ .Title }}
+      </h2>
+    </div>
+
+    {{ if and $showDate .Date }}
+    <time class="text-[10px] text-white/80 font-medium tracking-wide uppercase" datetime="{{ .Date.Format "2006-01-02" }}">
+      {{ .Date.Format "Jan 2, 2006" }}
+    </time>
+    {{ end }}
+  </div>
+
+  <div class="absolute top-0 right-0 w-2/3 h-full z-10">
+    <div class="w-full h-full overflow-hidden transition-transform duration-700 group-hover:scale-110">
+      <div class="absolute inset-0 z-10" 
+           style="background: linear-gradient(to right, {{ with $color }}{{ . }}{{ else }}#0d9488{{ end }} 0%, transparent 40%, transparent 100%);">
+      </div>
+      
+      <img src="/icons/blank.jpg" alt="{{ $iconName }}"
+           class="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all">
+    </div>
+  </div>
+</div>
+
+
+  {{ end }}
+
+
+
+  </a>
+</article>

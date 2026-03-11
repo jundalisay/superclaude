@@ -1,0 +1,75 @@
+/* Superphysics custom.css */
+
+/* Smooth navbar transition */
+#navbar {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+/* Hide scrollbar on horizontal nav */
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Hugo internal pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 3rem;
+  font-family: var(--font-display);
+}
+.pagination li { list-style: none; }
+.pagination a, .pagination span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-sp-muted);
+  border: 1px solid var(--color-sp-border);
+  background: var(--color-sp-card);
+  text-decoration: none;
+  transition: all 0.15s;
+}
+.pagination a:hover { border-color: #0d9488; color: #0d9488; background: rgba(13,148,136,0.05); }
+.pagination .active a { background: #0d9488; color: white; border-color: #0d9488; }
+
+/* Hugo TOC cleanup */
+#toc-nav nav > ul,
+.toc-list nav > ul { padding: 0; }
+#toc-nav li, .toc-list li { margin: 0; }
+
+/* Code highlight overrides */
+.highlight { border-radius: 0.75rem; overflow: hidden; margin: 1.5rem 0; }
+.highlight pre { margin: 0 !important; border-radius: 0 !important; }
+
+/* RTL adjustments */
+[dir="rtl"] .prose-sp blockquote { border-left: none; border-right: 4px solid #0d9488; padding-left: 0; padding-right: 1.25rem; }
+[dir="rtl"] #toc-nav ul ul { padding-left: 0; padding-right: 1rem; }
+
+/* Scroll to top button */
+#scrollTopBtn { transition: opacity 0.3s ease, transform 0.2s ease; }
+#scrollTopBtn:hover { transform: scale(1.1) translateY(-2px) !important; }
+
+/* Search overlay fade in */
+#searchOverlay { animation: overlayIn 0.15s ease; }
+@keyframes overlayIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Article img captions */
+.prose-sp figure { text-align: center; margin: 2rem 0; }
+.prose-sp figcaption { font-size: 0.85rem; color: var(--color-sp-muted); font-style: italic; margin-top: 0.5rem; font-family: var(--font-display); }
+
+/* TOC sidebar smooth scroll target offset */
+:target { scroll-margin-top: 5rem; }
+
+/* Mark highlight in search */
+mark { background: rgba(13,148,136,0.25); color: inherit; border-radius: 3px; padding: 0 2px; }
+
+/* Video hero */
+.hero-video-wrapper { position: relative; overflow: hidden; }

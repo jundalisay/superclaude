@@ -1,0 +1,153 @@
+---
+heading: Part 4
+title: "The Origin Of Forms, Entelechies Or Souls"
+description: Scientists have had great difficulties over the origin of forms, entelechies or souls
+c: "indigo"
+# date: 2023-02-15
+weight: 28
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
+---
+
+
+
+<sup>74</sup> Scientists have had great difficulties over the origin of forms, entelechies or souls.
+
+But now it has been recognised that naturally organic bodies are never the product of gas or rotting, but always of seeds. These contain some sort of preformation.
+
+It means that:
+- the organic body already exists before conception
+- a soul already exists in this body, in the animal itself.
+
+
+The only function of conception is to precipitate a major transformation, so that the animal becomes an animal of a different species. 
+
+Even outside the process of generation, something similar is observed when maggots become flies, or caterpillars become butterflies.
+
+
+75. ‘Seminal animals’ become macroscopic animals through conception. 
+
+The majority of them remain within their species, and are born, reproduce, and die, just like macroscopic animals.
+
+It is only the chosen few who pass through to a larger theatre.
+
+
+76. But this is only half the truth. My conclusion is that, if the laws of nature mean that animals can never come into being out of nothing, they can no more return to nothing. 
+
+Not only is there no coming into being, but there is no complete going out of being, or death in the strict sense. 
+
+These aposteriori arguments drawn from observations are in perfect agreement with the principles I deduced a priori, above.
+
+
+77. So the soul indestructible as the mirror of an indestructible universe. This is even if the animal dies and loses or acquires organic coverings.
+
+ <!-- itself — although its machine often partially dies,  -->
+
+78. These principles have given me a way of providing a natural explanation of the union (or rather the mutual correspondence) of the soul and the organic body. 
+
+The soul and the body each follow their own laws. They coincide through the pre-established harmony between all substances, since they are all representations of one and the same universe.
+
+
+
+## Pre-established Harmony
+
+79. Souls act in accordance with the laws of final causes, through appetitions, ends, and means. 
+
+Bodies act in accordance with the laws of efficient causes, or motions.
+
+The 2 realms — that of efficient causes, and that of final causes — are in harmony with each other.
+
+
+80. Descartes recognised that **souls could not transfer any energy to bodies since there is always the same quantity of energy in matter**. 
+
+Nevertheless, he believed that the soul could **change the direction of motion of bodies**. 
+
+But this is only because, in his day, no one had yet discovered the law of nature that says that the following are constant:
+- the total quantity of motion in matter
+- the total quantity in a given direction
+
+If he had noticed this, he would have stumbled on my system of pre-established harmony.
+
+
+81. This system means that:
+- bodies act as if there were no souls (even though this impossible)
+- souls act as if there were no bodies
+
+The 2 act as if there were an influence of the one on the other.
+
+
+<sup>82</sup> As for spirits or rational souls, I find that, fundamentally, the same is true of all living beings and animals. 
+
+The animal and the soul come into being at the beginning of the world. No more go out of being than the world itself. 
+
+Nevertheless, rational souls do have a special status. 
+
+As long as their tiny seminal animals continue in their lower status, they have merely ordinary or sensitive souls. 
+
+But as soon as those which are chosen attain human nature through conception, their sensitive souls are elevated to the rank of reason, and to the privileges of spirits.
+
+
+<sup>83</sup> Ordinary souls and spirits differ.
+- Souls are living mirrors or images of the universe of created things
+- Spirits are also images of the divinity itself, or of the Author of Nature himself. 
+
+They can know the system of the universe, and can imitate it to a certain extent through their own small-scale constructions, since each spirit is like a minor deity in its own sphere of authority.
+
+
+<sup>84</sup> This is what makes spirits capable of entering into a kind of social relationship with God.
+
+God’s relation to spirits is not merely that of an engineer to his machine (as is God’s relation to other created beings), but also that of a king to his subjects, and even that of a father to his children.
+
+
+85. The congregation of all spirits constitutes the City of God.
+
+
+86. This City of God is a truly universal monarchy.
+
+It is a moral world within the natural world. 
+
+It is the most sublime and divine of God’s creations. It is what God’s glory truly consists in, since there would be no glory if his greatness and his goodness were not known and admired by spirits. 
+
+It is only in relation to this divine city that God has any goodness, strictly speaking, whereas his wisdom and his power are manifest everywhere.
+
+
+<sup>87</sup> There is a perfect harmony between two natural realms:
+- the realm of efficient causes, and
+- the realm of final causes. 
+
+There is another harmony between:
+- the physical realm of nature, and
+- the moral realm of grace
+
+This is between:
+- God as the designer of the universe, and
+- God as the monarch of the divine city of spirits.
+
+
+<sup>88</sup> This harmony means that things lead to grace by means of nature itself.
+
+For example, the Earth must be destroyed and restored by natural means, as and when it is required by the government of spirits, in order to punish some, and reward others.
+
+
+<sup>89</sup> God as creator includes God as legislator in every respect.
+
+Consequently, sins must carry their punishment with them in accordance with the order of nature, and even by virtue of the mechanical structure of things. 
+
+Similarly, good actions will attract their rewards mechanistically and in the bodily realm, even though this cannot, and does not always have to happen immediately.
+
+
+<sup>90</sup> Under this perfect government:
+- all good deeds have reward
+- all evil deeds have punishment
+
+Everything must come out right for those who are good — that is to say, for those who are not rebels against this great state; who trust in providence after doing their duty; and who love and imitate the Author of all good as they ought to. 
+
+This means deriving pleasure from contemplating his perfections, in accordance with the nature of genuine pure love, which derives pleasure from the happiness of the loved one. 
+
+It is this which makes wise and virtuous people work at everything which seems to conform to the presumptive or antecedent divine will, and yet to be content with what God actually makes happen by his secret will, which is consequent and decisive.
+
+We recognise that, if we could understand the order of the universe well enough, we would find that it surpasses all the wishes of the wisest people, and that it is impossible to make it better than it is — not merely in respect of the whole in general, but also in respect of ourselves in particular. 
+
+However, this is so only if we have a proper relationship to the Author of everything — not merely as the engineer and efficient cause of our being, but also as our master, and the final cause which must constitute the whole aim of our will, and which alone can constitute our happiness.

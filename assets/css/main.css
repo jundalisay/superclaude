@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Custom theme tokens for Superphysics */
+@theme {
+  --color-sp-bg: #f8fafc;
+  --color-sp-bg-alt: #f1f5f9;
+  --color-sp-card: #ffffff;
+  --color-sp-text: #1e293b;
+  --color-sp-muted: #64748b;
+  --color-sp-border: #e2e8f0;
+  --color-sp-nav: rgba(248, 250, 252, 0.92);
+
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Crimson Pro', serif;
+  --font-code: 'Fira Code', monospace;
+}
+
+/* Dark mode theme overrides */
+.dark {
+  /*--color-sp-bg: #0a0f1e;*/
+  --color-sp-bg: #000;
+  --color-sp-bg-alt: #0f172a;
+  --color-sp-card: #131b2e;
+  --color-sp-text: #e2e8f0;
+  --color-sp-muted: #94a3b8;
+  --color-sp-border: #1e293b;
+  --color-sp-nav: rgba(10, 15, 30, 0.95);
+}
+
+/* Custom utility classes */
+@utility bg-sp-bg { background-color: var(--color-sp-bg); }
+@utility bg-sp-bg-alt { background-color: var(--color-sp-bg-alt); }
+@utility bg-sp-card { background-color: var(--color-sp-card); }
+@utility bg-sp-nav { background-color: var(--color-sp-nav); }
+@utility text-sp-text { color: var(--color-sp-text); }
+@utility text-sp-muted { color: var(--color-sp-muted); }
+@utility border-sp-border { border-color: var(--color-sp-border); }

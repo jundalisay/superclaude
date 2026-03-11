@@ -1,0 +1,62 @@
+---
+heading: Section 1
+title: "The 10 Vayus or Animal Spirits"
+# title: "The Circulatory System"
+description: "The vayus control circulation"
+# date: "2020-10-15"
+date: 2024-07-08
+weight: 2
+image: "/photos/bio/taichi.jpg"
+# image: "/photos/bio/bloodlet.jpg"
+icon: "Bio Superphysics"
+---
+
+
+
+Decartes' animal spirits match the vayus and chi in Hinduism and Taoism. 
+
+These facilitate forces internally and externally of the body.
+
+![Tai Chi]("/photos/bio/taichi.jpg")
+
+<!-- Internal Vayu | Jurisdiction | Function 
+--- | --- | --- 
+Prana | navel point to the vocal cord | inhalation and exhalation
+Apana | páyu anus to the navel point | controls the movement of urine and stool
+Samana | navel | maintains adjustment between práńa and apána
+Udana | throat | controls the vocal cord and the voice
+Vyana | | regulates blood circulation and the afferent and efferent nerves
+
+External Vayu | Jurisdiction | Function 
+--- | --- | --- 
+Nága (serpent) | | allows jumping, extending the body, throwing an object
+Kúrma (tortoise) | | allows contraction
+Krkara | | yawning
+Devadatta | | responsible for thirst and hunger
+Dhanaiṋjaya | | causes sleep and drowsiness (tandrá) -->
+
+
+Internal | Description
+--- | ---
+Heart | Blood Circulation and Nerves
+Chest | inhalation and exhalation
+Throat | voice
+Navel | coordinates Base and Chest
+Base | controls urine and stool
+
+
+External | Purpose
+--- | ---
+Expansion | Expansive Muscular activity 
+Contraction | Contractive Muscular activity 
+Yawn | Yawning
+Hunger | Thirst and Hunger
+Sleep | Sleep and drowsiness
+
+
+
+
+## The Animal Spirits and Memory
+
+Why do we get the best ideas in the shower? Why do high ceilings reduce test scores?
+

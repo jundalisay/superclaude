@@ -1,0 +1,23 @@
+{{ $book := .Site.Language.Params.book }}
+<section class="book-section">
+  <h2 class="book-intro">{{ $book.intro }}</h2>
+
+  <a href="{{ $book.url }}" target="_blank" rel="noopener">
+    <img
+      class="book-cover"
+      src="{{ $book.img }}"
+      alt="Superphysics in a Nutshell"
+      loading="lazy"
+      onerror="this.style.display='none'"
+    />
+  </a>
+
+  <p class="book-sub">{{ $book.sub | safeHTML }}</p>
+
+  <a href="{{ $book.url }}" class="btn-primary" target="_blank" rel="noopener" style="display:inline-block">
+    {{ i18n "read_book" }}
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:inline;margin-left:6px;vertical-align:middle">
+      <path d="M7 17L17 7M17 7H7M17 7v10"/>
+    </svg>
+  </a>
+</section>

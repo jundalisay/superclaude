@@ -1,0 +1,81 @@
+<a href="{{ .Permalink }}">
+  <div class="ani hover:scale-105 bg-black rounded-lg overflow-hidden shadow-2xl transition-all duration-300 border border-gray-800">
+    <div class="flex flex-row items-center p-3 h-56 w-full">
+      <div class="w-2/3 h-full flex justify-center items-center overflow-hidden">
+        <svg viewBox="0 0 250 250" class="w-full h-full">
+          <defs>
+            <radialGradient id="nucleusGlow">
+              <stop offset="20%" stop-color="#ff4444" />
+              <stop offset="100%" stop-color="#330000" />
+            </radialGradient>
+          </defs>
+          
+          <!-- Nucleus -->
+          <circle cx="125" cy="125" r="6" fill="url(#nucleusGlow)" class="animate-pulse" />
+          
+          {{ $eTotal := int .Params.e }}
+          {{ $remainingE := $eTotal }}
+          {{ $shellCapacities := slice 2 8 18 32 32 18 8 }}
+          
+          {{ range $index, $capacity := $shellCapacities }}
+            {{ if gt $remainingE 0 }}
+              {{ $electronsInShell := 0 }}
+              {{ if ge $remainingE $capacity }}
+                {{ $electronsInShell = $capacity }}
+                {{ $remainingE = sub $remainingE $capacity }}
+              {{ else }}
+                {{ $electronsInShell = $remainingE }}
+                {{ $remainingE = 0 }}
+              {{ end }}
+              
+              {{ $radius := add 15 (mul $index 18) }}
+              {{ $speed := add 4 (mul $index 1.5) }}
+              
+              <!-- Orbital ring -->
+              <circle cx="125" cy="125" r="{{ $radius }}" fill="none" stroke="#222" stroke-width="1" />
+              
+              <!-- Electrons -->
+              <g class="orbit-anim" style="transform-origin: 125px 125px; animation: rotate {{ $speed }}s linear infinite;">
+                {{ $angleStep := div 360.0 $electronsInShell }}
+                {{ range $i := seq $electronsInShell }}
+                  {{ $angle := mul (sub $i 1) $angleStep }}
+                  {{ $radians := mul $angle 0.0174533 }}
+                  {{ $x := add 125 (mul $radius (math.Cos $radians)) }}
+                  {{ $y := add 125 (mul $radius (math.Sin $radians)) }}
+                  <circle cx="{{ $x }}" cy="{{ $y }}" r="2.5" fill="yellow" style="filter: drop-shadow(0 0 3px #00d4ff);" />
+                {{ end }}
+              </g>
+            {{ end }}
+          {{ end }}
+        </svg>
+      </div>
+      
+      <div class="w-1/3 flex flex-col justify-center pl-4 border-l border-gray-900">
+        <div class="mb-1">
+          <span class="text-3xl font-black text-white block leading-none">{{ .Params.e }}</span>
+          <span class="text-[9px] text-blue-500 font-mono font-bold uppercase tracking-tighter">Atomic Number</span>
+        </div>
+        <h2 class="text-xl font-bold text-white truncate leading-tight">
+          {{ .Title }}
+        </h2>
+        {{ if .Params.aw }}
+        <div class="mt-3">
+          <span class="block text-[9px] text-gray-500 uppercase">Weight</span>
+          <span class="text-xs font-mono text-gray-400">{{ .Params.aw }}</span>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</a>
+
+<style>
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .ani {
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+</style>

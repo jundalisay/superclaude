@@ -1,0 +1,14 @@
+{{ $src := .Get "src" | default "" }}
+{{ $size := .Get "size" | default "" }}
+{{ $alt := .Get "alt" | default "Image" }}
+{{ $cap := .Get "cap" | default "" }}
+
+<!-- inline-block is-visible -->
+<div class="fade-in align-top text-center">
+    <img src="{{ $src }}" alt="{{ $alt }}"
+         class="rounded-lg shadow mx-auto {{ $size }}" 
+         loading="lazy">
+	{{ if $cap }}
+		<figcaption>{{ $cap | markdownify }}</figcaption>
+	{{ end }}         
+</div>

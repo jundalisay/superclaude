@@ -1,0 +1,66 @@
+---
+heading: "Chapter 2c"
+title: "The present moment is sometimes unacceptable, unpleasant, or awful"
+description: ""
+c: "indigo"
+date: 2026-01-15
+weight: 15
+---
+
+
+
+
+## Ego Identification With The Pain-Body
+
+The process that I have just described is profoundly power- ful yet simple. It could be taught to a child, and hopefully one day it will be one of the first things children learn in school. Once you have understood the basic principle of being pres- ent as the watcher of what happens inside you — and you "understand" it by experiencing it - you have at your disposal the most potent transformational tool.
+
+
+aligned with the energy held of the pain-body, you are identi- fied with it and again feeding it with your thoughts.
+
+
+the silent watcher. This is the power of the Now, the power of your own conscious presence. Then see what happens.
+
+
+This is not to deny that you may encounter intense inner resistance to disidentifying from your pain. This will be the case particularly if you have lived closely identified with your emotional pain-body for most of your life and the whole or a large part of your sense of self is invested in it. What this means is that you have made an unhappy self out of your pain-body and believe that this mind-made fiction is who you are. In that case, unconscious fear of losing your identity will create strong resistance to any disidentification. In other words, you would rather be in pain - be the pain-body- than take a leap into the unknown and risk losing the famil- iar unhappy self.
+
+If this applies to you, observe the resistance within yourself. Observe the attachment to your pain. Be very alert. Observe the peculiar pleasure you derive from being unhappy. Ob. serve the compulsion to talk or think about it. The resistance will cease if you make it conscious. You can then take your attention into the pain-body, stay present as the witness, and so initiate its transmutation.
+
+Only you can do this. Nobody can do it for you. But if you are fortunate enough to find someone who is intensely con.
+
+THE ORIGIN OF FEAR
+
+You mentioned fear as being part of our basic underlying emo- tional pain. How does fear arise, and why is there so much of it in people's lives? And isn't a certain amount of fear just healthy self-protection? If I didn't have a fear of fire, I might put my hand in it and get burned.
+
+The reason why you don't put your hand in the fire is not because of fear, it's because you know that you'll get burned. You don't need fear to avoid unnecessary danger - just a minimum of intelligence and common sense. For such prac- tical matters, it is useful to apply the lessons learned in the past. Now if someone threatened you with fire or with physi- cal violence, you might experience something like fear. This is an instinctive shrinking back from danger, but not the psy- chological condition of fear that we are talking about here. The psychological condition of fear is divorced from any con- crete and true immediate danger. It comes in many forms: unease, worry, anxiety, nervousness, tension, dread, phobia,
+
+
+are fortunate enough to find someone who is intensely con. scious, if you can be with them and join them in the state of presence, that can be helpful and will accelerate things. In this way, your own light will quickly grow stronger. When a log that has only just started to burn is placed next to one that is burning fiercely, and after a while they are separated again, the first log will be burning with much greater inten- sity. After all, it is the same fire. To be such a fire is one of the functions of a spiritual teacher. Some therapists may also be able to fulfill that function, provided that they have gone beyond the level of mind and can create and sustain a state of intense conscious presence while they are working with you.
+unease, worry, anxiety, nervousness, tension, dread, phobia, and so on. This kind of psychological fear is always of some- thing that might happen, not of something that is happening now. You are in the here and now, while your mind is in the future. This creates an anxiety gap. And if you are identified with your mind and have lost touch with the power and sim- plicity of the Now, that anxiety gap will be your constant companion. You can always cope with the present moment, but you cannot cope with something that is only a mind pro- jection - you cannot cope with the future.
+
+Moreover, as long as you are identified with your mind, the ego runs your life, as I pointed out earlier. Because of its phantom nature, and despite elaborate defense mechanisms,
+
+
+the ego is very vulnerable and insecure, and it sees itself as constantly under threat. This, by the way, is the case even if the ego is outwardly very confident. Now remember that an emotion is the body's reaction to your mind. What message is the body receiving continuously from the ego, the false, mind-made self? Danger, I am under threat. And what is the emotion generated by this continuous message? Fear, of
+course.
+
+
+Fear seems to have many causes. Fear of loss, fear of failure, fear of being hurt, and so on, but ultimately all fear is the ego's fear of death, of annihilation. To the ego, death is always just around the corner. In this mind-identified state, fear of death affects every aspect of your life. For example, even such a seemingly trivial and "normal" thing as the com- pulsive need to be right in an argument and make the other person wrong-defending the mental position with which you have identified — is due to the fear of death. If you iden- tify with a mental position, then if you are wrong, your mind- based sense of self is seriously threatened with annihilation. So you as the ego cannot afford to be wrong. To be wrong is to die. Wars have been fought over this, and countless rela- tionships have broken down.
+Once you have disidentified from your mind, whether you are right or wrong makes no difference to your sense of self at all, so the forcefully compulsive and deeply unconscious need to be right, which is a form of violence, will no longer be there. You can state clearly and firmly how you feel or what you think, but there will be no aggressiveness or defen- siveness about it. Your sense of self is then derived from a deeper and truer place within yourself, not from the mind. Watch out for any kind of defensiveness within yourself.
+
+
+What are you defending? An illusory identity, an image in your mind, a fictitious entity. By making this pattern con- scious, by witnessing it, you disidentify from it. In the light of your consciousness, the unconscious pattern will then quickly dissolve. This is the end of all arguments and power games, which are so corrosive to relationships. Power over others is weakness disguised as strength. True power is within, and it is available to you now.
+So anyone who is identified with their mind and, therefore, disconnected from their true power, their deeper self rooted in Being, will have fear as their constant companion. The number of people who have gone beyond mind is as yet extremely small, so you can assume that virtually everyone you meet or know lives in a state of fear. Only the intensity of it varies. It fluctuates between anxiety and dread at one end of the scale and a vague unease and distant sense of threat at the other. Most people become conscious of it only when it takes on one of its more acute forms.
+
+THE EGO'S SEARCH FOR WHOLENESS
+
+Another aspect of the emotional pain that is an intrinsic part of the egoic mind is a deep-seated sense of lack or incomplete- ness, of not being whole. In some people, this is conscious, in others unconscious. If it is conscious, it manifests as the unsettling and constant feeling of not being worthy or good enough. If it is unconscious, it will only be felt indirectly as an intense craving, wanting and needing. In either case, people will often enter into a compulsive pursuit of ego-gratification and things to identify with in order to fill this hole they feel within. So they strive after possessions, money, success, power, recognition, or a special relationship, basically so that
+
+
+
+
+
+
+they can feel better about themselves, feel more complete. But even when they attain all these things, they soon find that the hole is still there, that it is bottomless. Then they are really in trouble, because they cannot delude themselves anymore. Well, they can and do, but it gets more difficult.
+As long as the egoic mind is running your life, you cannot truly be at ease; you cannot be at peace or fulfilled except for brief intervals when you obtained what you wanted, when a craving has just been fulfilled. Since the ego is a derived sense of self, it needs to identify with external things. It needs to be both defended and fed constantly. The most common ego identifications have to do with possessions, the work you do, social status and recognition, knowledge and education, physical appearance, special abilities, relationships, personal and family history, belief systems, and often also political, nationalistic, racial, religious, and other collective identifica- tions. None of these is you.
+Do you find this frightening? Or is it a relief to know this? All of these things you will have to relinquish sooner or later. Perhaps you find it as yet hard to believe, and I am certainly not asking you to believe that your identity cannot be found in any of those things. You will know the truth of it for your- self. You will know it at the latest when you feel death approaching. Death is a stripping away of all that is not you. The secret of life is to "die before you die" and find that there is no death.
+- 

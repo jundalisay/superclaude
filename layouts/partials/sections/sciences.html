@@ -1,0 +1,24 @@
+{{ $sciences := .Site.Language.Params.sciences }}
+<section class="sciences-section">
+  <div class="container-lg">
+    <h2 class="section-title">{{ $sciences.title }}</h2>
+
+    <div class="cards-grid">
+      {{ range $sciences.cards }}
+      <a href="{{ .url }}" class="card-img">
+        <img
+          src="{{ .img }}"
+          alt="{{ .title }}"
+          loading="lazy"
+          onerror="this.style.background='linear-gradient(135deg,#0c1a2e,#0a1f1e)';this.style.objectFit='none'"
+        />
+        <div class="card-img-overlay"></div>
+        <div class="card-img-title">
+          {{ .title }}
+          <div class="card-img-sub">{{ .sub }}</div>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>

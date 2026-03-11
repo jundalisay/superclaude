@@ -1,0 +1,42 @@
+---
+heading: Chapter 3
+title: "The proper object-matter of Friendship"
+weight: 11
+writer:
+  name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+c: "indigo"
+description: "What is the proper object-matter of Friendship?"
+icon: "Aristotle"
+---
+
+
+
+What is the proper object-matter of Friendship?
+
+ <!-- for it is thought that not everything indiscriminately, but some peculiar matter alone, is the object of this affection; that is to say, what is good, or pleasurable, or useful.  -->
+
+Now it would seem that that is useful through which accrues any good or pleasure, and so the objects of Friendship, as absolute Ends, are the good and the pleasurable.
+
+A question here arises; whether it is good absolutely or that which is good to the individuals, for which men feel Friendship (these two being sometimes distinct): and similarly in respect of the pleasurable. 
+
+Each individual feels it towards that which is good to himself, and that abstractedly it is the real good which is the object of Friendship, and to each individual that which is good to each. It comes then to this; that each individual feels Friendship not for what is but for that which conveys to his mind the impression of being good to himself. But this will make no real difference, because that which is truly the object of Friendship will also convey this impression to the mind.
+
+There are then 3 causes from which men feel Friendship.
+
+But the term is not applied to the case of fondness for things inanimate because there is no requital of the affection nor desire for the good of those objects.
+
+It certainly savours of the ridiculous to say that a man fond of wine wishes well to it: the only sense in which it is true being that he wishes it to be kept safe and sound for his own use and benefit.
+
+But to the friend they say one should wish all good for his sake. And when men do thus wish good to another (he not reciprocating the feeling), people call them Kindly; because Friendship they describe as being “Kindliness between persons who reciprocate it.” 
+
+But must they not add that the feeling must be mutually known? for many men are kindly disposed towards those whom they have never seen but whom they conceive to be amiable or useful: and this notion amounts to the same thing as a real feeling between them.
+
+These are plainly Kindly-disposed towards one another: but how can one call them friends while their mutual feelings are unknown to one another?
+
+To complete the idea of Friendship, then, it is requisite that:
+- they have kindly feelings towards one another
+- they wish one another good from one of the aforementioned causes
+- these kindly feelings should be mutually known.
+
+

@@ -1,0 +1,107 @@
+{{/* Shortcode: atom-detail.html */}}
+{{/* Usage: {{< atom-detail e="1" n="Hydrogen" w="1.008" m="-259.14°C" b="-252.87°C" >}} */}}
+
+{{ $atomicNumber := int (.Get "e") }}
+{{ $elementName := .Get "n" }}
+{{ $atomicWeight := .Get "w" }}
+{{ $meltingPoint := .Get "m" }}
+{{ $boilingPoint := .Get "b" }}
+
+<div class="atom-card hover:scale-105 bg-black rounded-lg overflow-hidden shadow-2xl transition-all duration-300 border border-gray-800">
+  <div class="flex flex-row items-center p-3 h-64 w-full">
+    <div class="w-2/3 h-full flex justify-center items-center overflow-hidden">
+      <svg viewBox="0 0 250 250" class="w-full h-full">
+        <defs>
+          <radialGradient id="nucleusGlow-{{ $atomicNumber }}">
+            <stop offset="20%" stop-color="#ff4444" />
+            <stop offset="100%" stop-color="#330000" />
+          </radialGradient>
+        </defs>
+        
+        <!-- Nucleus -->
+        <circle cx="125" cy="125" r="6" fill="url(#nucleusGlow-{{ $atomicNumber }})" class="animate-pulse" />
+        
+        {{ $remainingE := $atomicNumber }}
+        {{ $shellCapacities := slice 2 8 18 32 32 18 8 }}
+        
+        {{ range $index, $capacity := $shellCapacities }}
+          {{ if gt $remainingE 0 }}
+            {{ $electronsInShell := 0 }}
+            {{ if ge $remainingE $capacity }}
+              {{ $electronsInShell = $capacity }}
+              {{ $remainingE = sub $remainingE $capacity }}
+            {{ else }}
+              {{ $electronsInShell = $remainingE }}
+              {{ $remainingE = 0 }}
+            {{ end }}
+            
+            {{ $radius := add 15 (mul $index 18) }}
+            {{ $speed := add 4 (mul $index 1.5) }}
+            
+            <!-- Orbital ring -->
+            <circle cx="125" cy="125" r="{{ $radius }}" fill="none" stroke="#222" stroke-width="1" />
+            
+            <!-- Electrons -->
+            <g class="orbit-anim-{{ $atomicNumber }}-{{ $index }}" style="transform-origin: 125px 125px; animation: rotate-{{ $atomicNumber }}-{{ $index }} {{ $speed }}s linear infinite;">
+              {{ $angleStep := div 360.0 $electronsInShell }}
+              {{ range $i := seq $electronsInShell }}
+                {{ $angle := mul (sub $i 1) $angleStep }}
+                {{ $radians := mul $angle 0.0174533 }}
+                {{ $x := add 125 (mul $radius (math.Cos $radians)) }}
+                {{ $y := add 125 (mul $radius (math.Sin $radians)) }}
+                <circle cx="{{ $x }}" cy="{{ $y }}" r="2.5" fill="#00d4ff" style="filter: drop-shadow(0 0 3px #00d4ff);" />
+              {{ end }}
+            </g>
+            
+            <style>
+              @keyframes rotate-{{ $atomicNumber }}-{{ $index }} {
+                from { transform: rotate(0deg); }
+                to { transform: rotate(360deg); }
+              }
+            </style>
+          {{ end }}
+        {{ end }}
+      </svg>
+    </div>
+    
+    <div class="w-1/3 flex flex-col justify-center pl-4 border-l border-gray-900">
+      <div class="mb-2">
+        <span class="text-3xl font-black text-white block leading-none">{{ $atomicNumber }}</span>
+        <span class="text-[9px] text-blue-500 font-mono font-bold uppercase tracking-tighter">Atomic Number</span>
+      </div>
+      
+      <h2 class="text-xl font-bold text-white leading-tight mb-3">
+        {{ $elementName }}
+      </h2>
+      
+      {{ if $atomicWeight }}
+      <div class="mb-2">
+        <span class="block text-[9px] text-gray-500 uppercase tracking-wide">Atomic Weight</span>
+        <span class="text-xs font-mono text-gray-400">{{ $atomicWeight }}</span>
+      </div>
+      {{ end }}
+      
+      {{ if $meltingPoint }}
+      <div class="mb-2">
+        <span class="block text-[9px] text-gray-500 uppercase tracking-wide">Melting Point</span>
+        <span class="text-xs font-mono text-gray-400">{{ $meltingPoint }}</span>
+      </div>
+      {{ end }}
+      
+      {{ if $boilingPoint }}
+      <div>
+        <span class="block text-[9px] text-gray-500 uppercase tracking-wide">Boiling Point</span>
+        <span class="text-xs font-mono text-gray-400">{{ $boilingPoint }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<style>
+  .atom-card {
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+</style>
+
+

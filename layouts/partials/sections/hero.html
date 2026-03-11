@@ -1,0 +1,116 @@
+{{ $hero := .Site.Language.Params.hero }}
+<section id="hero">
+  <canvas id="starfield"></canvas>
+
+  <div class="hero-content">
+    <div class="hero-badge">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+      </svg>
+      <span>Beyond Physics</span>
+    </div>
+
+    <h1 class="hero-title">{{ i18n "hero_title" }}</h1>
+    <p class="hero-subtitle">{{ i18n "hero_subtitle" }}</p>
+
+    <div class="hero-buttons">
+      {{ with $hero }}
+      <a href="{{ .btn1_url }}" class="btn-primary">{{ .btn1_text }}</a>
+      <a href="{{ .btn2_url }}" class="btn-secondary" target="_blank" rel="noopener">{{ .btn2_text }}</a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var canvas = document.getElementById('starfield');
+  if (!canvas) return;
+  var ctx = canvas.getContext('2d');
+
+  var W, H, stars;
+  var STAR_COUNT = 500;
+  var SPEED = 4;
+  var RAF;
+
+  function resize() {
+    W = canvas.width = window.innerWidth;
+    H = canvas.height = window.innerHeight;
+    initStars();
+  }
+
+  function initStars() {
+    stars = [];
+    for (var i = 0; i < STAR_COUNT; i++) {
+      stars.push(makeStar(true));
+    }
+  }
+
+  function makeStar(initial) {
+    return {
+      x: (Math.random() - 0.5) * W,
+      y: (Math.random() - 0.5) * H,
+      z: initial ? Math.random() * W : W,
+      prevX: 0,
+      prevY: 0
+    };
+  }
+
+  function draw() {
+    ctx.fillStyle = 'rgba(2, 6, 23, 0.25)';
+    ctx.fillRect(0, 0, W, H);
+
+    var cx = W / 2, cy = H / 2;
+
+    for (var i = 0; i < stars.length; i++) {
+      var s = stars[i];
+      s.z -= SPEED;
+
+      if (s.z <= 0) {
+        Object.assign(s, makeStar(false));
+        continue;
+      }
+
+      var sx = (s.x / s.z) * W + cx;
+      var sy = (s.y / s.z) * H + cy;
+      var r = Math.max(0.2, (1 - s.z / W) * 2.8);
+
+      // Draw trail
+      if (s.prevX !== 0) {
+        var trail = 1 - s.z / W;
+        var g = ctx.createLinearGradient(s.prevX, s.prevY, sx, sy);
+        g.addColorStop(0, 'rgba(14,165,233,0)');
+        g.addColorStop(1, 'rgba(14,165,233,' + (trail * 0.8) + ')');
+        ctx.beginPath();
+        ctx.strokeStyle = g;
+        ctx.lineWidth = r;
+        ctx.moveTo(s.prevX, s.prevY);
+        ctx.lineTo(sx, sy);
+        ctx.stroke();
+      }
+
+      // Draw star dot
+      var brightness = 1 - s.z / W;
+      ctx.beginPath();
+      var hue = Math.random() > 0.85 ? '180' : Math.random() > 0.7 ? '200' : '220';
+      ctx.fillStyle = 'rgba(255,255,255,' + brightness + ')';
+      ctx.arc(sx, sy, r * 0.6, 0, Math.PI * 2);
+      ctx.fill();
+
+      s.prevX = sx;
+      s.prevY = sy;
+    }
+
+    RAF = requestAnimationFrame(draw);
+  }
+
+  window.addEventListener('resize', resize);
+  resize();
+
+  // Clear to black first
+  ctx.fillStyle = '#020617';
+  ctx.fillRect(0, 0, W, H);
+
+  draw();
+})();
+</script>

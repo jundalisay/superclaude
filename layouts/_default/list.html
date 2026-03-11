@@ -1,0 +1,88 @@
+{{ define "main" }}
+
+{{- $headerColor := .Params.c | default "#0d9488" -}}
+<section class="relative py-16 overflow-hidden" 
+         style="background: linear-gradient(to bottom, color-mix(in srgb, {{ $headerColor }}, black 20%) 0%, #000000 100%);">
+  
+  <div class="absolute inset-0 opacity-[0.1]" 
+       style="background-image: linear-gradient({{ $headerColor }} 1px, transparent 1px), linear-gradient(90deg, {{ $headerColor }} 1px, transparent 1px); background-size: 40px 40px;">
+  </div>
+
+  <div class="relative max-w-[1400px] mx-auto px-6 z-10">
+    <nav class="flex items-center gap-2 text-sm mb-4">
+      <a href="{{ "/" | relLangURL }}" class="text-white/60 hover:text-white transition-colors font-display">{{ i18n "site_name" }}</a>
+      <svg class="w-3 h-3 text-white/40" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span class="text-white font-display font-medium">{{ .Title }}</span>
+    </nav>
+
+    <h1 class="font-display font-bold text-4xl md:text-5xl text-white mb-3">{{ .Title }}</h1>
+    {{ with .Description }}<p class="text-white/80 text-lg max-w-xl">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<section class="py-16 relative z-10">
+  <div class="max-w-[1400px] mx-auto px-6">
+
+    {{- $pages := .Pages }}
+    {{- if gt (len $pages) 0 }}
+      
+      {{- $pinned := where $pages "Params.featured" "==" true }}
+      {{- $regular := where $pages "Params.featured" "!=" true }}
+
+      {{- if gt (len $pinned) 0 }}
+      <div class="mb-12">
+        <div class="flex items-center gap-3 mb-8">
+          <h2 class="text-teal-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "pinned" }}</h2>
+          <div class="flex-1 h-px bg-gradient-to-r from-teal-500/50 to-transparent"></div>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+          {{- range $i, $page := $pinned }}
+            <div class="css-only-reveal opacity-0" 
+                 style="animation-delay: {{ mul (mod $i 4) 50 }}ms; animation-fill-mode: forwards;">
+              {{ partial "card.html" $page }}
+            </div>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+
+      {{- if gt (len $regular) 0 }}
+      <div>
+        {{- if gt (len $pinned) 0 }}
+        <div class="flex items-center gap-3 mb-8">
+          <h2 class="text-slate-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "latest" }}</h2>
+          <div class="flex-1 h-px bg-gradient-to-r from-slate-500/50 to-transparent"></div>
+        </div>
+        {{- end }}
+        
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+          {{- range $i, $page := $regular }}
+            <div class="css-only-reveal opacity-0" 
+                 style="animation-delay: {{ mul (mod $i 12) 50 }}ms; animation-fill-mode: forwards;">
+              {{ partial "card.html" $page }}
+            </div>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+
+    {{- else }}
+      <div class="text-center py-20 text-slate-500">
+         <p>No articles yet.</p>
+      </div>
+    {{- end }}
+  </div>
+</section>
+
+<style>
+  @keyframes slideUpFade {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  .css-only-reveal {
+    animation: slideUpFade 0.5s ease-out;
+  }
+</style>
+
+{{ end }}
+

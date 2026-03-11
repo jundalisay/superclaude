@@ -1,0 +1,90 @@
+<section class="mt-12 pt-8 border-t border-sp-border">
+  <h3 class="font-display text-xl font-semibold text-sp-text mb-6">{{ i18n "comment_title" }}</h3>
+
+  <div id="commentForm" class="bg-sp-card rounded-2xl border border-sp-border p-6 shadow-sm">
+    <div id="commentSuccess" class="hidden text-center py-6">
+      <div class="w-14 h-14 rounded-full bg-teal-100 dark:bg-teal-950/50 flex items-center justify-center mx-auto mb-3">
+        <svg class="w-7 h-7 text-teal-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+      </div>
+      <p class="font-display font-semibold text-sp-text">Thank you for your comment!</p>
+      <p class="text-sp-muted text-sm mt-1">It will appear after review.</p>
+    </div>
+
+    <form id="basinForm" action="{{ .Site.Params.commentAction }}" method="POST" class="space-y-4" novalidate>
+      <input type="hidden" name="current-url" value="{{ .Permalink }}"/>
+      <input type="hidden" name="_redirect" value="false"/>
+
+      <div class="grid sm:grid-cols-2 gap-4">
+        <div>
+          <label class="block text-sm font-display font-medium text-sp-text mb-1.5" for="comment-name">
+            {{ i18n "comment_name" }} <span class="text-teal-500">*</span>
+          </label>
+          <input id="comment-name" name="name" type="text" required
+            class="w-full px-4 py-2.5 rounded-xl bg-sp-bg border border-sp-border text-sp-text text-sm
+                   focus:outline-none focus:ring-2 focus:ring-teal-500/50 focus:border-teal-500 transition-colors
+                   placeholder-sp-muted"
+            placeholder="Your name"/>
+        </div>
+        <div>
+          <label class="block text-sm font-display font-medium text-sp-text mb-1.5" for="comment-email">
+            {{ i18n "comment_email" }} <span class="text-teal-500">*</span>
+          </label>
+          <input id="comment-email" name="email" type="email" required
+            class="w-full px-4 py-2.5 rounded-xl bg-sp-bg border border-sp-border text-sp-text text-sm
+                   focus:outline-none focus:ring-2 focus:ring-teal-500/50 focus:border-teal-500 transition-colors
+                   placeholder-sp-muted"
+            placeholder="you@example.com"/>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-sm font-display font-medium text-sp-text mb-1.5" for="comment-message">
+          {{ i18n "comment_message" }} <span class="text-teal-500">*</span>
+        </label>
+        <textarea id="comment-message" name="message" rows="5" required
+          class="w-full px-4 py-2.5 rounded-xl bg-sp-bg border border-sp-border text-sp-text text-sm
+                 focus:outline-none focus:ring-2 focus:ring-teal-500/50 focus:border-teal-500 transition-colors
+                 placeholder-sp-muted resize-none"
+          placeholder="Share your thoughts..."></textarea>
+      </div>
+
+      <div class="flex justify-end">
+        <button type="submit"
+          class="flex items-center gap-2 px-6 py-2.5 bg-gradient-to-r from-teal-600 to-blue-600 hover:from-teal-500 hover:to-blue-500
+                 text-white font-display font-semibold text-sm rounded-xl transition-all duration-200
+                 hover:shadow-lg hover:shadow-teal-500/25 hover:-translate-y-0.5 active:translate-y-0">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"/></svg>
+          {{ i18n "comment_submit" }}
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+
+<script>
+document.getElementById('basinForm')?.addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const form = this;
+  const btn = form.querySelector('button[type="submit"]');
+  btn.disabled = true;
+  btn.textContent = 'Sending...';
+  try {
+    const res = await fetch(form.action, {
+      method: 'POST',
+      body: new FormData(form),
+      headers: { 'Accept': 'application/json' }
+    });
+    if (res.ok) {
+      form.style.display = 'none';
+      document.getElementById('commentSuccess').classList.remove('hidden');
+    } else {
+      btn.disabled = false;
+      btn.textContent = '{{ i18n "comment_submit" }}';
+      alert('Error sending comment. Please try again.');
+    }
+  } catch(err) {
+    btn.disabled = false;
+    btn.textContent = '{{ i18n "comment_submit" }}';
+  }
+});
+</script>
