@@ -5,4 +5,5 @@ image: /photos/psych/fail.jpg
 c: "firebrick"
 description: ""
 weight: 4
+featured: true
 ---

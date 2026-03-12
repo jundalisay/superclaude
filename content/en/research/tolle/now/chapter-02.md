@@ -2,6 +2,7 @@
 heading: "Chapter 2"
 title: "Create No More Pain In The Present"
 description: ""
+a: "Tolle"
 c: "indigo"
 date: 2026-01-15
 weight: 12

@@ -1,13 +1,18 @@
 {{ define "main" }}
 
 {{- $hasVideo := .Params.v -}}
+{{- $color := .Params.c | default "darkslategray" -}}
 {{- $hasImage := .Params.image -}}
 {{- $heading := .Params.heading -}}
 {{- $iconName := .Params.icon -}}
 {{- $showDate := .Params.showdate -}}
-{{- $description := .Description | default .Summary -}}
+{{- $description := .Description -}}
 
-<section class="relative w-full overflow-hidden bg-slate-950" style="min-height: 520px;">
+
+
+<!-- Hero section with fixed height -->
+<section class="relative w-full min-h-[520px] flex items-stretch overflow-hidden" style="background-color: {{ $color }};">
+  
   {{ if $hasVideo }}
     <video autoplay muted loop playsinline class="w-full h-full object-cover absolute inset-0 opacity-50">
       <source src="{{ $hasVideo }}" type="video/mp4"/>
@@ -18,14 +23,22 @@
   
   <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent"></div>
 
-  <div class="relative flex items-end min-h-[520px] py-16 px-6 max-w-[1400px] mx-auto">
+  <div class="relative flex flex-col justify-end flex-1 pt-32 pb-16 px-6 max-w-[1400px] mx-auto w-full">
     <div class="w-full">
       
       <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 font-display uppercase tracking-wider" aria-label="Breadcrumb">
         <a href="{{ "/" | relLangURL }}" class="hover:text-teal-400 transition-colors">{{ i18n "site_name" }}</a>
         {{ range .Ancestors.Reverse }}
           <span class="opacity-50">/</span>
-          <a href="{{ .RelPermalink }}" class="hover:text-teal-400 transition-colors">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}" class="hover:text-teal-400 transition-colors">
+            {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+          </a>
+        {{ end }}
+        {{ if not .IsHome }}
+          <span class="opacity-50">/</span>
+          <span class="text-teal-400">
+            {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+          </span>
         {{ end }}
       </nav>
 
@@ -33,7 +46,9 @@
         <p class="font-display text-teal-400 font-semibold text-sm mb-3 tracking-widest uppercase">{{ $heading }}</p>
       {{ end }}
 
-      <h1 class="font-display font-bold text-3xl md:text-6xl text-white max-w-5xl leading-tight mb-4">{{ .Title }}</h1>
+      <h1 class="font-display font-bold text-3xl md:text-6xl text-white max-w-5xl leading-tight mb-4">
+        {{ .Title }}
+      </h1>
 
       {{ if $description }}
         <p class="text-lg md:text-xl text-slate-300 max-w-3xl mb-8 leading-relaxed font-light italic">
@@ -42,7 +57,6 @@
       {{ end }}
 
       <div class="flex flex-wrap items-center gap-y-4 gap-x-6 pt-8 border-t border-white/10 text-sm text-slate-300">
-        
         <div class="flex items-center gap-2">
           {{ if $iconName }}
             <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
@@ -84,6 +98,11 @@
   </div>
 </section>
 
+
+
+
+
+<section>
 <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-12">
   <div class="flex flex-col lg:flex-row gap-12">
 
@@ -120,26 +139,30 @@
         {{ .Content }}
       </div>
 
-      <nav class="mt-16 grid grid-cols-1 sm:grid-cols-2 gap-4 border-t border-sp-border pt-10">
-        {{ with .PrevInSection }}
-          <a href="{{ .RelPermalink }}" class="group p-5 rounded-2xl bg-sp-card border border-sp-border hover:border-teal-500/50 transition-all">
-            <p class="text-xs text-sp-muted font-display mb-1 uppercase tracking-tighter">{{ i18n "prev_article" }}</p>
-            <p class="font-display font-bold text-sp-text group-hover:text-teal-600 transition-colors">{{ .Title }}</p>
-          </a>
-        {{ else }}<div></div>{{ end }}
+<nav class="mt-16 grid grid-cols-1 sm:grid-cols-2 gap-4 border-t border-sp-border pt-10">
+  {{ with .PrevInSection }}
+    <a href="{{ .RelPermalink }}" 
+       class="group p-5 rounded-2xl bg-gradient-to-br from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-xl">
+      <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">{{ i18n "prev_article" }}</p>
+      <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
+    </a>
+  {{ else }}<div></div>{{ end }}
 
-        {{ with .NextInSection }}
-          <a href="{{ .RelPermalink }}" class="group p-5 rounded-2xl bg-sp-card border border-sp-border hover:border-teal-500/50 transition-all text-right">
-            <p class="text-xs text-sp-muted font-display mb-1 uppercase tracking-tighter">{{ i18n "next_article" }}</p>
-            <p class="font-display font-bold text-sp-text group-hover:text-teal-600 transition-colors">{{ .Title }}</p>
-          </a>
-        {{ end }}
-      </nav>
+  {{ with .NextInSection }}
+    <a href="{{ .RelPermalink }}" 
+       class="group p-5 rounded-2xl bg-gradient-to-bl from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 text-right transform hover:-translate-y-1 hover:shadow-xl">
+      <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">{{ i18n "next_article" }}</p>
+      <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
+    </a>
+  {{ end }}
+</nav>
 
       {{ partial "comments.html" . }}
     </article>
   </div>
 </div>
+
+</section>
 
 <style>
   details[open] .details-arrow { transform: rotate(180deg); }
@@ -147,7 +170,15 @@
   .toc-sidebar nav ul { list-style: none; padding-left: 0; }
   .toc-sidebar nav ul li a { display: block; padding: 6px 16px; color: var(--tw-text-sp-muted); transition: all 0.2s; border-left: 2px solid transparent; margin-left: -2px; }
   .toc-sidebar nav ul li a:hover { color: #0d9488; }
+  
+  /* Optional: Hide scrollbar for the content if needed */
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
 </style>
 
 {{ end }}
-

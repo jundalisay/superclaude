@@ -1,15 +1,37 @@
+// {
+//   "name": "superphysics",
+//   "version": "1.0.0",
+//   "description": "Superphysics Hugo website",
+//   "scripts": {
+//     "dev": "hugo server --buildDrafts --disableFastRender",
+//     "build": "hugo --minify",
+//     "build:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --minify",
+//     "dev:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --watch"
+//   },
+//   "devDependencies": {
+//     "@tailwindcss/cli": "^4.2.1",
+//     "tailwindcss": "^4.2.1"
+//   },
+//   "dependencies": {
+//     "concurrently": "^9.2.1"
+//   }
+// }
+
+
+
 {
   "name": "superphysics",
   "version": "1.0.0",
-  "description": "Superphysics Hugo website",
   "scripts": {
-    "dev": "hugo server --buildDrafts --disableFastRender",
-    "build": "hugo --minify",
+    "dev": "concurrently \"npm run dev:css\" \"npm run dev:hugo\"",
+    "dev:hugo": "hugo server --buildDrafts --disableFastRender",    
+    "build": "npm run build:css && hugo --minify",
     "build:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --minify",
     "dev:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --watch"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.2.1",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.2.1",
+    "concurrently": "^8.2.2"
   }
 }

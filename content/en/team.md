@@ -2,6 +2,9 @@
 title: "The Superphysics Team"
 description: ""
 image: /covers/solutions.png
+c: "indigo"
+weight: 1
+icon: "Superphysics"
 ---
 
 

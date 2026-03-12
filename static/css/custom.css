@@ -73,3 +73,13 @@ mark { background: rgba(13,148,136,0.25); color: inherit; border-radius: 3px; pa
 
 /* Video hero */
 .hero-video-wrapper { position: relative; overflow: hidden; }
+
+
+
+@layer components {
+  .reveal-on-scroll.show {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+

@@ -1,7 +1,7 @@
 ---
 title: "The Power of Now"
 description: ""
-# a: "Spinoza"
+a: "Tolle"
 c: "Indigo"
 date: 2026-01-15
 weight: 870

@@ -25,7 +25,9 @@ Every saving which can be made from such expenses will be generally added to the
 
 The real expense is the twenty millions, and not the interest which must be paid for it.20 Whether 333the interest be or be not paid, the country will neither be richer nor poorer. Government might at once have required the twenty millions in the shape of taxes; in which case it would not have been necessary to raise annual taxes to the amount of a million. This however would not have changed the nature of the transaction. An individual instead of being called upon to pay 100l. per annum, might have been obliged to pay 2000l. once for all. 
 
-It might also have suited 334his convenience rather to borrow this 2000l., and to pay 100l. per annum for interest to the lender, than to spare the larger sum from his own funds. In one case it is a private transaction between A and B, in the other Government guarantees to B the payment of the interest to be equally paid by A. If the transaction had been of a private nature, no public record would be kept of it, and it would be a matter of comparative indifference to the country whether A faithfully performed his contract to B, or unjustly retained, the 100l. per annum in his own possession.
+It might also have suited 334his convenience rather to borrow this 2000l., and to pay 100l. per annum for interest to the lender, than to spare the larger sum from his own funds. 
+
+In one case it is a private transaction between A and B, in the other Government guarantees to B the payment of the interest to be equally paid by A. If the transaction had been of a private nature, no public record would be kept of it, and it would be a matter of comparative indifference to the country whether A faithfully performed his contract to B, or unjustly retained, the 100l. per annum in his own possession.
 
 The country would have a general interest in the faithful performance of a contract, but with respect to the national wealth, it would have no other interest than whether A or B would make this 100l. most productive, but on this question it would neither have the right nor the ability to decide. 
 

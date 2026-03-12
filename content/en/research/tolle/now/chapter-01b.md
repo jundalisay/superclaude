@@ -2,7 +2,7 @@
 heading: "Chapter 1b"
 title: "Enlightenment: Rising Above Thought"
 description: ""
-# a: "Spinoza"
+a: "Tolle"
 c: "indigo"
 date: 2026-01-15
 weight: 8

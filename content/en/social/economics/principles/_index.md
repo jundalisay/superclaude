@@ -5,6 +5,7 @@ c: "seagreen"
 linkTitle: Principles
 image: /graphics/econ.jpg
 youtube: "S0L13XsbUKs"
+featured: true
 weight: 1
 # date: 2022-08-06
 ---

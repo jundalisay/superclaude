@@ -5,6 +5,7 @@ description: "Bio Superphysics deals with living organisms and the life energy a
 youtube: yhD-Kb_bRBY
 image: /graphics/bio.jpg
 date: 2020-10-31
+featured: true
 aliases:
   /medical
 ---

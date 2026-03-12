@@ -8,10 +8,15 @@ c: "seagreen"
 ---
 
 
+## Persons Of The Dialogue
 
-PERSONS OF THE DIALOGUE: Critias, Hermocrates, Timaeus, Socrates.
+Critias, Hermocrates, Timaeus, Socrates.
 
-TIMAEUS: How thankful I am, Socrates, that I have arrived at last, and, like a weary traveller after a long journey, may be at rest! 
+
+
+TIMAEUS: Thank God that I have arrived at last.
+
+<!-- , and, like a weary traveller after a long journey, may be at rest!  -->
 
 I pray the being who always was of old, and has now been by me revealed, to grant that my words may endure in so far as they have been spoken truly and acceptably to him; but if unintentionally I have said anything wrong, I pray that he will impose upon me a just retribution, and the just retribution of him who errs is that he should be set right. 
 

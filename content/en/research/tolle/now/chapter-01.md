@@ -3,6 +3,7 @@ heading: "Chapter 1"
 title: "You are not your mind"
 description: "The Greatest Obstacle To Enlightenment"
 c: "indigo"
+a: "Tolle"
 date: 2026-01-15
 weight: 4
 ---

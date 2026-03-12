@@ -2,6 +2,7 @@
 heading: "Chapter 2c"
 title: "The present moment is sometimes unacceptable, unpleasant, or awful"
 description: ""
+a: "Tolle"
 c: "indigo"
 date: 2026-01-15
 weight: 15

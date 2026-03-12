@@ -131,23 +131,49 @@ summarylength = 30
   sections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news","about","help","faqs","tags"]
   mainSections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news"]
   commentAction = "https://usebasin.com/f/ac926f8e1f10"
-  nav_sections = [
-    { key = "news", url = "/news" },
-    { key = "research", url = "/research" },
-    { key = "superphysics", url = "/superphysics" },
-    { key = "math", url = "/supermath" },
-    { key = "material", url = "/material" },
-    { key = "bio", url = "/bio" },
-    { key = "society", url = "/social/supersociology" },
-    { key = "economics", url = "/social/economics" },
-    { key = "cycles", url = "/social/cycles" },
-    { key = "spiritual", url = "/spiritual" },
-    { key = "about", url = "/about" },
-    { key = "faqs", url = "/faqs" },
-    { key = "tags", url = "/tags" },
-    { key = "help", url = "/help" }
-  ]
+  # nav_sections = [
+  #   { key = "news", url = "/news" },
+  #   { key = "research", url = "/research" },
+  #   { key = "superphysics", url = "/superphysics" },
+  #   { key = "supermath", url = "/supermath" },
+  #   { key = "material", url = "/material" },
+  #   { key = "bio", url = "/bio" },
+  #   { key = "society", url = "/social/supersociology" },
+  #   { key = "economics", url = "/social/economics" },
+  #   { key = "cycles", url = "/social/cycles" },
+  #   { key = "spiritual", url = "/spiritual" },
+  #   { key = "about", url = "/about" },
+  #   { key = "faqs", url = "/faqs" },
+  #   { key = "tags", url = "/tags" },
+  #   { key = "help", url = "/help" }
+  # ]
 
+  [[params.nav_groups]]
+    title = "Sciences"
+    items = [
+      { key = "superphysics", url = "/superphysics" },
+      { key = "supermath", url = "/supermath" },
+      { key = "material", url = "/material" },
+      { key = "bio", url = "/bio" },
+      { key = "spiritual", url = "/spiritual" },
+      { key = "society", url = "/social/supersociology" },
+      { key = "economics", url = "/social/economics" }
+    ]
+  [[params.nav_groups]]
+    title = "Research"
+    items = [
+      { key = "research", url = "/research" },
+      { key = "cycles", url = "/social/cycles" },
+      { key = "tags", url = "/tags" }
+    ]
+  [[params.nav_groups]]
+    title = "About"
+    items = [
+      { key = "news", url = "/news" },
+      { key = "about", url = "/about" },
+      { key = "faqs", url = "/faqs" },
+      { key = "help", url = "/help" }
+    ]
 
 
 [outputs]

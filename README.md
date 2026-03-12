@@ -9,6 +9,8 @@ A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
         {{ partial "card.html" $page }}
       </div>
 
+git remote add origin https://github.com/username/your-repo.git
+
       
 ## Tech Stack
 
@@ -143,3 +145,9 @@ Built files go to `public/`. Deploy to any static host:
 - Netlify: `hugo --minify` build command, `public` publish dir
 - Vercel: Hugo framework preset
 - GitHub Pages: use Hugo GitHub Action
+
+
+
+
+<style type="text/tailwindcss">
+

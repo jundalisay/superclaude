@@ -28,7 +28,7 @@
       <div>
         <h4 class="font-semibold text-sp-text text-sm mb-3 text-blue-600">Research and Data </h4>
         <ul class="space-y-2 text-sm">
-          {{ range slice "research" "cycles"  }}
+          {{ range slice "research" "cycles" "tags" }}
           <li><a href="{{ printf "/%s/" . | relLangURL }}" class="text-sp-muted hover:text-teal-600 transition-colors">{{ i18n (printf "nav_%s" .) }}</a></li>
           {{ end }}
         </ul>
@@ -38,7 +38,7 @@
       <div>
         <h4 class="font-semibold text-sp-text text-sm mb-3 text-teal-600">Others</h4>
         <ul class="space-y-2 text-sm">
-          {{ range slice "news" "about" "help" "faqs" "tags" }}
+          {{ range slice "news" "about" "help" "faqs" }}
           <li><a href="{{ printf "/%s/" . | relLangURL }}" class="text-sp-muted hover:text-teal-600 transition-colors">{{ i18n (printf "nav_%s" .) }}</a></li>
           {{ end }}
         </ul>

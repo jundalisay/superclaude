@@ -1,24 +1,26 @@
 {{ $a := .Get "a" | default "" }}
-{{ $c := .Get "c" | default "" }}
 {{ $imgName := printf "/icons/%s.jpg" $a }}
 
+<div class="reveal-on-scroll fly-in-left flex justify-start items-start gap-3 px-2 py-4 relative"
+     data-animate="show">
+     
+  <div class="flex-shrink-0">
+    <img class="w-12 h-12 rounded-full shadow-lg border-2 border-white dark:border-gray-700 object-cover" 
+         src="{{ $imgName }}" alt="{{ $a }}" 
+         onerror="this.src='/icons/blank.jpg'">
+  </div>
 
-<div class="fly-in-left flex justify-start items-start gap-2 px-2 py-4 relative">
-  <img class="w-14 h-14 rounded-full shadow-lg -mr-4 z-10 border-2 border-white dark:border-gray-800" 
-       src="{{ $imgName }}" 
-       alt="{{ $a }}" 
-       onerror="this.src='/icons/blank.jpg'">
-
-  <div class="flex flex-col gap-1 max-w-[calc(100%-3.5rem)]">
-    <div class="flex items-center space-x-2 rtl:space-x-reverse">
-      <span class="text-sm font-semibold text-gray-900 dark:text-white pl-4">{{ $a }} {{ $c }}</span>
+  <div class="flex flex-col items-start max-w-[75%] md:max-w-[60%]">
+    <div class="flex items-center mb-1">
+      <span class="text-xs font-semibold text-gray-600 dark:text-gray-400 ml-1">
+        {{ $a }} {{ .Get "c" }}
+      </span>
     </div>
-    <div class="border-2 border-solid border-gray-200 dark:border-gray-600 p-4 bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white rounded-lg shadow-lg rounded-e-xl rounded-es-xl">
-      <div class="font-normal prose-sm dark:prose-invert">
+
+    <div class="border border-gray-400 p-4 shadow-md rounded-2xl rounded-tl-none text-left">
+      <div class="prose-sm dark:prose-invert">
         {{ .Inner | markdownify }}
       </div>
     </div>
   </div>
-
-
 </div>
