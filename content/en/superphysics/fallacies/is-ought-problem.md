@@ -37,18 +37,17 @@ This change is imperceptible, but is of final consequence. This 'should' or 'sho
 
 An easy example is the Ten Commandments. In it, the author writes the 'is' in Exodus 19:3 that the Israelites did leave Egypt, as a matter of fact.
 
-{{< q >}}
-You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself. 
-<cite>Exodus 19:3</cite>
+{{< q a="Bible" c="Exodus 19:3" >}}
+You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself.
 {{< /q >}}
 
 
 But then, the author adds his bias and personality into the fact or 'is' that was stated, in order to create a personal rule or 'ought':
 
-{{< q >}}
-I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me. 
-<cite>Exodus 20:2</cite>
+{{< q a="Bible" c="Exodus 20:2" >}}
+I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me.
 {{< /q >}}
+
 
 According to Hume's principle, this tactic is improper because had the Israelites known that their freedom from Egypt would have a price, as the Ten Commandments, then surely, not all of them would have fled Egypt. 
 

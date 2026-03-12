@@ -4,6 +4,7 @@ date: 2025-01-24
 weight: 4
 description: "The Description of the Human Body talks about the body"
 c: "#DE3163"
+a: "Rene Descartes"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

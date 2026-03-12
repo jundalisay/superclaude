@@ -4,4 +4,5 @@ title: "The Search for Truth by Natural Light"
 weight: 56
 description: ""
 c: "royalblue"
+a: "Rene Descartes"
 ---

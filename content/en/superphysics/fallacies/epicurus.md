@@ -8,7 +8,7 @@ description: "Epicurus believed in gods, but those gods did not control or micro
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+a: "Epicurus"
 ---
 
 

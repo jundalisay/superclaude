@@ -9,8 +9,7 @@ description: "Kant's A Priori is a Fallacy caused by his arbitrary definition of
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-toc: true
+a: "Kant"
 ---
 
 

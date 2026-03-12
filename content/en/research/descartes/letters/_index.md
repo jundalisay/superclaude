@@ -4,4 +4,5 @@ title: "Letters by Descartes"
 weight: 11
 description: "Letters by Descartes explaining his system"
 c: "royalblue"
+a: "Rene Descartes"
 ---

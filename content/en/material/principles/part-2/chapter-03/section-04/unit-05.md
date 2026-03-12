@@ -1,6 +1,6 @@
 ---
 heading: "Unit 5"
-title: "Mirco C Gravity: Surface Tension"
+title: "Micro C Gravity: Surface Tension"
 date: 2023-12-11
 weight: 16
 image: /photos/physics/blow.jpg

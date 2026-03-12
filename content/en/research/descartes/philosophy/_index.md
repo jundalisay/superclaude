@@ -5,4 +5,5 @@ linkTitle: Principles
 weight: 40
 description: "The Principles of Philosophy by Descartes"
 c: "darkgoldenrod"
+a: "Rene Descartes"
 ---

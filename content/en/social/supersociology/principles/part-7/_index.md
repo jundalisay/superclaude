@@ -1,4 +1,5 @@
 ---
+heading: "Part 7"
 title: "The Future of Humanty"
 image: "/photos/psych/freedom.jpg"
 type: "featured"

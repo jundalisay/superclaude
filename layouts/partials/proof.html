@@ -1,0 +1,33 @@
+{{- $color := .color | default "black" -}}
+
+<div class="relative w-full aspect-[4/3] overflow-hidden rounded-lg group cursor-pointer"
+     onclick="window.location='{{ .url }}'">
+  
+  <!-- Background image style="background: linear-gradient(to bottom, {{ $color }} 0%, #000000 100%);-->
+  {{ with .img }}
+  <img src="{{ . }}" alt="{{ $.title }}"
+       class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out opacity-60"
+       onerror="this.style.display='none'"/>
+  {{ end }}
+  
+  <!-- Dark overlay -->
+  <div class="absolute inset-0 bg-black/40"></div>
+  
+  <!-- Category tag -->
+  {{ with .cat }}
+  <div class="absolute top-3 left-3 z-10">
+    <span class="text-xs font-display font-semibold px-2.5 py-1 rounded-full bg-black/60 text-white backdrop-blur-sm" style="background-color: {{ $color }};">{{ . }}</span>
+  </div>
+  {{ end }}
+  
+  <!-- Content -->
+  <div class="absolute bottom-0 left-0 right-0 p-4 z-10">
+    <h2 class="text-white font-display font-semibold text-base leading-snug line-clamp-2
+               bg-black backdrop-blur-sm -mx-4 px-4 py-2 rounded">
+      {{ .title }}
+    </h2>
+    {{ with .sub }}
+    <p class="text-white bg-black/50 text-sm line-clamp-2 mt-2">{{ . }}</p>
+    {{ end }}
+  </div>
+</div>

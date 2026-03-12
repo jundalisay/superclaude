@@ -1,5 +1,5 @@
 ---
-title: "Musicl as Social Musical Expression"
+title: "Music as Social Musical Expression"
 heading: Section 3
 # 2b
 date: 2024-11-17

@@ -1,0 +1,14 @@
+C H A P. IX.
+Of a Ditone, a Third Minor, and Sixths.
+
+THat a Ditone is, by many degrees, more perfect than a Fourth, is manifest from the Premises; to which, nevertheless, we shall adde this; that the Perfection of any Consonance is not to be desumed precisely, from the same, while it is Simple; but also from all the Compounds thereof: the reason whereof is, that it can never be heard alone so jejune and empty, but the resonance of this composed is also heard together with it; since that, in an Unison, the resonance of a more Acute Eighth is contained, we have formerly evicted. Now, that a Ditone, so considered, doth consist of lesser Numbers than a Fourth [31], and is therefore more perfect than a Fourth; is plain from the Second Figure: wherein we, therefore, placed a Ditone before a Fourth, insomuch as we endeavoured, in that Figure, to place all Consonances according to the order of Perfection.
+
+But here we are obliged to explain, why the third Genus of a Ditone is the most perfect, and makes, in the strings of a Lute, a Tremulation perceptible even by the sight; rather than the First, or Second Genus: which we conceive to proceed from hence; that this Third doth consist in a multiplyed Proportion, but the First in a super-particular, the Second in a multiplyed and super-particular, together [32]. And why, from multiplyed proportion, the most perfect Consonances do arise; which we therefore placed in the First order of the First...
+Of MUSICK. (Page 33)
+
+First Figure, we thus demonstrate.
+Let the Line AB be distant from CD, in the Third Genus of a Ditone, howsoever men shall imagine the sound to be perceived by the Hearing; certain it is that it is more easie to distinguish what is the proportion betweene AB and CD, than betweene CF and CD; because it will first bee knowne directly by the application of the sound AB, to the parts of the sound CD, viz. Ce,ef,fg, &c. nor will there be any residue in the end: which falls not alike in the proportion of the sound Cf, to CD; for if Cf be applied to fh, there will be the residue hD, by the reflection of which we ought to know what is the proportion between Cf & CD, which is more difficult or tedious.
+
+By the same way will it be conceived, if any say that a sound doth strike the ears with many percussions or verberations, and that by so much the more swiftly, by how much the more acute the sound is; for then, that the sound AB may arrive at the requisite Uniformity with the sound CD, it ought to strike the ears with only five touches or verberations, while CD strikes only once: but the sound Cf will not so soone returne to an Unisonance, for that cannot be done but after the second stroke of the found CD, as is described in the superior Demonstration. The same will also be explained, however we conceive the sound to be heard.
+
+A Third Minor ariseth from a Ditone, as a Fourth from a Fifth [33], and is therefore more imperfect than...

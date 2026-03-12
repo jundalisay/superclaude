@@ -6,4 +6,5 @@ weight: 33
 # date: 2022-08-08
 description: "The Passions Of The Soul from Descartes explains how animals spirits affect the passions"
 c: "#DE3163"
+a: "Rene Descartes"
 ---

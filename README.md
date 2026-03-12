@@ -5,6 +5,8 @@ A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
 {{- $hasImage := and .Params.image (not .Params.icon) -}}
 
 
+npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/styles.css --watch
+
 BUN_VERSION 1.3.3
 HUGO_VERSION 0.145.0
 
@@ -149,8 +151,6 @@ Built files go to `public/`. Deploy to any static host:
 - Netlify: `hugo --minify` build command, `public` publish dir
 - Vercel: Hugo framework preset
 - GitHub Pages: use Hugo GitHub Action
-
-
 
 
 <style type="text/tailwindcss">

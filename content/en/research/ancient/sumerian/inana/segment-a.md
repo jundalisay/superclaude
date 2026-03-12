@@ -7,9 +7,9 @@ description: "Here we simplify the texts from Sumerian Sources"
 
 
 
-Segment A
+## Segment A
 
-approx. 6 lines missing
+(approx. 6 lines missing)
 
 1-10. She …… of the desert. She put the šu-gura, the desert crown, on her head. …… 
 
@@ -17,10 +17,15 @@ when she went out to the shepherd, to the sheepfold, …… her genitals were re
 
 She praised herself, full of delight at her genitals, she praised herself, full of delight at her genitals. She looked at ……, she looked at ……, she looked at …….
 
-11-27. "When I have gratified the lord ……, when I have made …… brilliant, when I have made …… beautiful, when I have made …… glorious, when I have ……, when I have made …… perfect, when I have made …… luxuriant, when I have made …… exuberant, when I have made …… shining (?), when I have made …… return, when I have made …… brilliant, when I have made …… shimmering, I shall direct my steps to the abzu, to Eridug, I shall direct my steps to Enki, to the abzu, to Eridug, and I myself shall speak coaxingly to him, in the abzu, in Eridug, I myself shall speak coaxingly to Enki, in the abzu, in Eridug. …… had her go out ……."
+11-27. "When I have gratified the lord ……, when I have made …… brilliant, when I have made …… beautiful, when I have made …… glorious, when I have ……, when I have made …… perfect, when I have made …… luxuriant, when I have made …… exuberant, when I have made …… shining (?), when I have made …… return, when I have made …… brilliant, when I have made …… shimmering
+
+I shall direct my steps to the abzu, to Eridug, I shall direct my steps to Enki, to the abzu, to Eridug, and I myself shall speak coaxingly to him, in the abzu, in Eridug, I myself shall speak coaxingly to Enki, in the abzu, in Eridug. …… had her go out ……."
+
+
 approx. 21 lines missing
 
-Segment B
+
+## Segment B
 
 1-5. "Inana, …… it is I who ……. I, Inana, personally {intend to go to the abzu} {(1 ms. has instead:) intend to go to Eridug}. 
 
@@ -33,7 +38,8 @@ On that day, he of exceptional knowledge, who knows the divine powers in heaven 
 
 approx. 2 lines missing
 
-Segment C
+
+## Segment C
 
 1-14. "…… she will drink, …… she will eat. Come here! ……. I will ……, …… do. The maiden …… the abzu and Eridug, Inana …… the abzu and Eridug ……. When the maiden Inana has entered the abzu and Eridug, when Inana has entered the abzu and Eridug, offer her butter cake to eat. 
 
@@ -51,7 +57,8 @@ The bronze aga vessels were filled to the brim, and the two of them started a co
 
 approx. 35 lines missing
 
-Segment D
+
+## Segment D
 
 1-5. "I will give them to holy Inana, my daughter; may …… not ……." Holy Inana received heroism, power, wickedness, righteousness, the plundering of cities, making lamentations, rejoicing. "In the name of my power, in the name of my abzu, I will give them to holy Inana, my daughter; may …… not ……."
 
@@ -66,9 +73,13 @@ Segment D
 18-21. Holy Inana received the bitter-toothed (?) ……, the kindling of fire, the extinguishing of fire, hard work, ……, the assembled family, descendants. "In the name of my power, in the name of my abzu, I will give them to holy Inana, my daughter; may …… not ……."
 
 22-27. Holy Inana received strife, triumph, counselling, comforting, judging, decision-making. "In the name of my power, in the name of my abzu, I will give them to holy Inana, my daughter; may …… not ……." Holy Inana received ……, ……,
-approx. 78 lines missing
+approx. 
 
-Segment E
+
+78 lines missing
+
+
+## Segment E
 
 1-4. "He has given me righteousness. He has given me the plundering of cities. He has given me making lamentations. He has given me rejoicing."
 
@@ -81,5 +92,7 @@ He has given me the craft of the leather-worker. He has given me the craft of th
 18-26. "He has given me wisdom. He has given me attentiveness. He has given me holy purification rites. He has given me the shepherd's hut. He has given me piling up glowing charcoals. He has given me the sheepfold. He has given me respect. He has given me awe. He has given me reverent silence."
 
 27-36. "He has given me the bitter-toothed (?) ……. He has given me the kindling of fire. He has given me the extinguishing of fire. He has given me hard work. He has given me ……. He has given me the assembled family. He has given me descendants. He has given me strife. He has given me triumph. He has given me counselling."
+
+
 approx. 34-35 lines missing
 
