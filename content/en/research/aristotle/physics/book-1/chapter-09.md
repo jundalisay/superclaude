@@ -4,7 +4,8 @@ title: "Matter Versus privation"
 date: 2024-09-08
 weight: 20
 description: "Matter is not-being only in virtue of an attribute which it has, while the privation in its own nature is not-being"
-c: "indigo"
+c: "royalblue"
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

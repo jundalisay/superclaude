@@ -5,6 +5,7 @@ date: 2024-09-08
 weight: 8
 description: "Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the ‘why’"
 c: "indigo"
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

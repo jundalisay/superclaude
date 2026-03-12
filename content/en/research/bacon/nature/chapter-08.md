@@ -12,15 +12,27 @@ writer:
 ---
 
 
-Cicero, the orator, was willing to magnify his own profession. He said that eloquence was not a shop of good words and elegancies. It was a treasury of all knowledges, the type handles and moves the minds and affections of men by speech.
+Cicero was willing to magnify his own orator profession.
 
-He complains of the school of Socrates. Before Socrates, the professors of wisdom in Greece pretended to teach a universal  knowledge both of matter and words.
+He said that eloquence:
+- was not a shop of good words and elegancies. 
+- was a treasury of all knowledges, the type handles and moves the minds and affections of men by speech.
 
-But Socrates divorced them. He withdrew philosophy, and left rhetoric to itself. This made it a barren and unnoble science. 
+He complains of the school of Socrates. 
+
+Before Socrates, the professors of wisdom in Greece pretended to teach a universal  knowledge.
+
+ <!-- both of matter and words. -->
+
+But Socrates divorced them. 
+
+He withdrew philosophy, and left rhetoric to itself.
+- This made it a barren and unnoble science. 
 
 
+If men fail to be an occulist in physics, or perfect in a title of the law, they may be ready and subtle.
 
-If men fail to be an oculist in physic, or perfect in a title of the law, they may be ready and subtle. But they are not deep or sufficient in their subject.
+But they are not deep or sufficient in their subject.
 
 This is because they need the consent of the rest. 
 
@@ -30,11 +42,17 @@ The disincorporation of particular arts and sciences from general knowledge is a
 
 They do not understand that they are talking about one and the same thing. This is what Cicero noted of the Circle-Learning of the Greeks.
 
-For I mean not that use which one science hath of another for ornament or help in practice, as the orator hath of knowledge of affections for moving, or as military science may have use of geometry for fortifications; but I mean it directly of that use by way of supply of light and information, which the particulars and instances of one science do yield and present for the framing or correcting of the axioms of another science in their very truth and notion.
+For I mean not that use which one science hath of another for ornament or help in practice, as the orator hath of knowledge of affections for moving, or as military science may have use of geometry for fortifications; 
 
-Therefore that example of oculist and title lawyers doth come nearer my conceit than the other two; for sciences distinguished have a dependence upon universal knowledge to be augmented and rectified by the superior light thereof; as well as the parts and members of a science have upon the maxims of the same science, and the mutual light and consent which one part receiveth of another. 
+But I mean it directly of that use by way of supply of light and information, which the particulars and instances of one science do yield and present for the framing or correcting of the axioms of another science in their very truth and notion.
 
-Therefore the opinion of Copernicus in astronomy, which astronomy itself cannot correct, because it is not repugnant to any of the appearances, yet natural philosophy doth correct. On the other side, if some of the ancient philosophers had been perfect in the observations of astronomy, and had called them to counsel, when they made their principles and first axioms, they would never have divided their philosophy, as the cosmographers do their descriptions by globes, making one philosophy for heaven, and another for under heaven, as in effect they do.
+Therefore that example of oculist and title lawyers doth come nearer my conceit than the other two.
+
+For sciences distinguished have a dependence upon universal knowledge to be augmented and rectified by the superior light thereof; as well as the parts and members of a science have upon the maxims of the same science, and the mutual light and consent which one part receiveth of another. 
+
+Therefore the opinion of Copernicus in astronomy, which astronomy itself cannot correct, because it is not repugnant to any of the appearances, yet natural philosophy doth correct.
+
+On the other side, if some of the ancient philosophers had been perfect in the observations of astronomy, and had called them to counsel, when they made their principles and first axioms, they would never have divided their philosophy, as the cosmographers do their descriptions by globes, making one philosophy for heaven, and another for under heaven, as in effect they do.
 
 So if the moral philosophers, that have spent such an infinite quantity of debate touching good and the highest good, had cast their eye abroad upon nature, and beheld the appetite that is in all things to receive and to give; the one motion affecting preservation, and the other multiplication; which appetites are most evidently seen in living creatures, in the pleasure of nourishment and generation; and in man do make the aptest and most natural division of all his desires, being either of sense of pleasure, or sense of power; and in the universal frame of the world are figured, the one in the beams of heaven which issue forth, and the other in the lap of the earth which takes in: 
 
@@ -46,10 +64,11 @@ A man should be thought to dally, if he did note how the figures of rhetoric and
 
 In taxing his ignorance in his art, he represented to him the perpetual greatness of his fortune, leaving him no vacant time for so mean a skill. Now in music it is one of the ordinariest flowers to fall from a discord, or hard tune, upon a sweet accord.
 
-The figure that Cicero and the rest commend, as one of the best points of elegancy, which is the fine checking of expectation, is no less well known to the musicians, when they have a special grace in flying the close or cadence. And these are no allusions but direct communities, the same delights of the mind being to be found not only in music, rhetoric, but in moral philosophy, policy, and other knowledges, and that obscure in the one, which is more apparent in the other; yea, and that discovered in the one, which is not found at all in the other; and so one science greatly aiding to the invention and augmentation of another.
+The figure that Cicero and the rest commend, as one of the best points of elegancy, which is the fine checking of expectation, is no less well known to the musicians, when they have a special grace in flying the close or cadence. 
+
+These are no allusions but direct communities, the same delights of the mind being to be found not only in music, rhetoric, but in moral philosophy, policy, and other knowledges, and that obscure in the one, which is more apparent in the other; yea, and that discovered in the one, which is not found at all in the other; and so one science greatly aiding to the invention and augmentation of another.
 
 Without this intercourse, the axioms of sciences will fall out to be neither full nor true; but will be such opinions, as Aristotle in some places doth wisely censure, when he saith, "These are the opinions of persons that have respect but to a few things." 
 
 So then we see, that this note leadeth us to an administration of knowledge in some such order and policy, as the King of Spain, in regard of his great dominions, useth in state: who, though he hath particular councils for several countries and affairs, yet had one council of state, or last resort, that receiveth the advertisements and certificates from all the rest. Hitherto of the diversion, succession, and conference of wits.
-
 

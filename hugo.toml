@@ -127,6 +127,7 @@ summarylength = 30
       rtl = false
 
 [params]
+  image = "/graphics/sp.jpg"
   author = "Superphysics Team"
   sections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news","about","help","faqs","tags"]
   mainSections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news"]

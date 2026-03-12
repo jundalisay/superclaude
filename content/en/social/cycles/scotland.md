@@ -4,7 +4,7 @@ heading: "Install.."
 draft: true
 date: 2017-01-18
 weight: 170
-#image: "/flags/af.png"
+# image: "/flags/af.png"
 description : ".."
 ---
 

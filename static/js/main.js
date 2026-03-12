@@ -258,3 +258,4 @@ document.querySelectorAll('details').forEach(d => {
     if (arrow) arrow.style.transform = this.open ? 'rotate(180deg)' : '';
   });
 });
+

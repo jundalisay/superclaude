@@ -5,6 +5,7 @@ date: 2024-09-08
 weight: 4
 description: "Of things that exist, some exist by nature, some from other causes."
 c: "indigo"
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

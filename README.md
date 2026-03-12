@@ -5,6 +5,10 @@ A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
 {{- $hasImage := and .Params.image (not .Params.icon) -}}
 
 
+BUN_VERSION 1.3.3
+HUGO_VERSION 0.145.0
+
+
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">
         {{ partial "card.html" $page }}
       </div>

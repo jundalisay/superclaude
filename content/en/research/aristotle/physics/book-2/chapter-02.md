@@ -5,7 +5,7 @@ date: 2024-09-08
 weight: 6
 description: "How does the mathematician differs from the physicist?"
 c: "indigo"
-icon: /icons/Aristotle.jpg
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

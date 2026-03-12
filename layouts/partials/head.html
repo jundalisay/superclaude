@@ -1,7 +1,17 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KK1Q2RRQLM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KK1Q2RRQLM');
+</script>
+
+
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-
 <title>{{ if .IsHome }}{{ i18n "site_name" }} — {{ i18n "site_tagline" }}{{ else }}{{ .Title }} | {{ i18n "site_name" }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
 
@@ -87,3 +97,8 @@
   hiddenElements.forEach((el) => observer.observe(el));
 });
 </script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
+     crossorigin="anonymous"></script>
+
+     

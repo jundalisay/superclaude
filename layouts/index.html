@@ -2,321 +2,270 @@
 <canvas id="starfield" class="fixed top-0 left-0 w-full h-full -z-10 bg-black"></canvas>
 
 <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
-    <div class="relative max-w-[1400px] mx-auto px-6 py-12 text-center z-10 -mt-16 md:-mt-24">
-        <!-- Center the logo -->
-        <div class="flex justify-center mb-6">
-            <img src="/icons/sp.svg" class="animate-pulse" style="width: 100px">
-        </div>
-        
-        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-teal-500/10 border border-teal-500/30 text-teal-400 text-xs font-display font-semibold mb-6 tracking-widest uppercase animate-fade-in">
-            {{ i18n "site_tagline" }}
-        </div>
-     <h1 class="font-quicksand font-bold text-6xl md:text-8xl mb-6 leading-tight tracking-tight">
-    <span class="shimmer-text" style="--base-color: #0166a7;">{{ i18n "super" }}</span><span class="shimmer-text" style="--base-color: #01bca4;">{{ i18n "physics" }}</span>
-</h1>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
-
-.font-quicksand {
-    font-family: 'Quicksand', sans-serif;
-}
-
-.shimmer-text {
-    position: relative;
-    /* Create the thin white stroke */
-    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.6);
-    /* Apply subtle outer glow */
-    text-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  <div class="relative max-w-[1400px] mx-auto px-6 py-12 text-center z-10 -mt-16 md:-mt-24">
     
-    /* Setup shimmer gradient */
-    background: linear-gradient(
-        120deg, 
-        var(--base-color) 0%, 
-        var(--base-color) 40%, 
-        #ffffff 50%, 
-        var(--base-color) 60%, 
-        var(--base-color) 100%
-    );
-    background-size: 200% auto;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    
-    /* Animation */
-    animation: shimmer 4s linear infinite;
-}
-
-@keyframes shimmer {
-    to {
-        background-position: 200% center;
-    }
-}
-</style>
-        
-        <p class="text-blue-100/90 text-xl md:text-2xl max-w-3xl mx-auto mb-8 leading-relaxed font-light">
-            {{ i18n "site_description" }}
-        </p>
-        
-        <!-- Center the YouTube iframe -->
-        <div class="flex justify-center mb-8">
-            <iframe width="424" height="238" src="https://www.youtube.com/embed/QyrxLqI9Qcg" title="Superphysics Introduction (Super Physics) #newscience #cartesianscience #enlightenment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="rounded-lg shadow-2xl"></iframe>
-        </div>
-        
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="{{ "/superphysics/" | relLangURL }}" class="px-8 py-4 bg-teal-500 hover:bg-teal-400 text-white font-bold rounded-xl transition-all hover:scale-105 shadow-[0_0_20px_rgba(20,184,166,0.4)]">
-                {{ i18n "hero_cta" }}
-            </a>
-            <a href="{{ "/research/" | relLangURL }}" class="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-bold rounded-xl border border-white/20 backdrop-blur-md transition-all">
-                {{ i18n "hero_secondary" }}
-            </a>
-        </div>
+    <!-- Center the logo -->
+    <div class="flex justify-center mb-6">
+      <img src="/icons/sp.svg" class="animate-pulse" style="width: 100px">
     </div>
     
-    <div class="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-teal-400/60">
-        <span class="text-xs tracking-widest uppercase font-display">{{ i18n "hero.scroll" | default "Scroll" }}</span>
-        <div class="w-px h-10 bg-gradient-to-b from-teal-400 to-teal-400/20 animate-bounce"></div>
-    </div>    
+    <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-teal-500/10 border border-teal-500/30 text-teal-400 text-xs font-display font-semibold mb-6 tracking-widest uppercase animate-fade-in">
+      {{ i18n "site_tagline" }}
+    </div>
+    
+    <h1 class="font-quicksand font-bold text-6xl md:text-8xl mb-6 leading-tight tracking-tight">
+      <span class="shimmer-text" style="--base-color: #0166a7;">{{ i18n "super" }}</span><span class="shimmer-text" style="--base-color: #01bca4;">{{ i18n "physics" }}</span>
+    </h1>
+    
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+      .font-quicksand {font-family: 'Quicksand', sans-serif; }
+      .shimmer-text {position: relative; /* Create the thin white stroke */ -webkit-text-stroke: 1px rgba(255, 255, 255, 0.6); /* Apply subtle outer glow */ text-shadow: 0 0 15px rgba(255, 255, 255, 0.3); /* Setup shimmer gradient */ background: linear-gradient(120deg, var(--base-color) 0%, var(--base-color) 40%, #ffffff 50%, var(--base-color) 60%, var(--base-color) 100% ); background-size: 200% auto; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; /* Animation */ animation: shimmer 4s linear infinite; }
+      @keyframes shimmer {to {background-position: 200% center; } }
+    </style>
+    
+    <p class="text-blue-100/90 text-xl md:text-2xl max-w-3xl mx-auto mb-8 leading-relaxed font-light">
+      {{ i18n "site_description" }}
+    </p>
+    
+    <!-- Center the YouTube iframe -->
+    <div class="flex justify-center mb-8">
+      <iframe width="424" height="238" src="https://www.youtube.com/embed/QyrxLqI9Qcg" title="Superphysics Introduction (Super Physics) #newscience #cartesianscience #enlightenment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="rounded-lg shadow-2xl"></iframe>
+    </div>
+    
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <!-- Hero CTA button scrolls to #sciences -->
+      <a href="#sciences" 
+         class="px-8 py-4 bg-teal-500 hover:bg-teal-400 text-white font-bold rounded-xl transition-all hover:scale-105 shadow-[0_0_20px_rgba(20,184,166,0.4)]">
+        {{ i18n "hero_cta" }}
+      </a>
+      
+      <!-- Hero secondary button scrolls to #solve -->
+      <a href="#solve" 
+         class="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-bold rounded-xl border border-white/20 backdrop-blur-md transition-all">
+        {{ i18n "hero_secondary" }}
+      </a>
+    </div>
+  </div>
+  
+  <div class="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-teal-400/60">
+    <span class="text-xs tracking-widest uppercase font-display">{{ i18n "hero.scroll" | default "Scroll" }}</span>
+    <div class="w-px h-10 bg-gradient-to-b from-teal-400 to-teal-400/20 animate-bounce"></div>
+  </div>
 </section>
 
-{{ with .Site.Language.Params.quote1 }}
-    {{ partial "quoter.html" . }}
-{{ end }}
+<!-- Add smooth scrolling behavior -->
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
 
+{{ with .Site.Language.Params.quote1 }}
+  {{ partial "quoter.html" . }}
+{{ end }}
 
 {{ with .Site.Language.Params.trio }}
 <section class="relative py-24 bg-slate-950 overflow-hidden z-20">
-    <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover opacity-20">
-        <source src="/socrates.mp4" type="video/mp4">
-            <!-- {{ .video | relURL }} -->
-    </video>
-    
-    <div class="relative max-w-6xl mx-auto px-6 z-10 text-center">
-        <h2 class="text-4xl md:text-5xl font-display font-bold text-white mb-16">{{ .title }}</h2>
-        
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
-            {{ range .icons }}
-            <div class="flex flex-col items-center group">
-                <div class="w-24 h-24 mb-6 p-4 rounded-full bg-white/5 border border-white/10 backdrop-blur-sm group-hover:border-teal-400/50 transition-all duration-500">
-                    <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-contain brightness-110">
-                </div>
-                <h3 class="text-2xl font-bold text-white mb-2">{{ .title }}</h3>
-                <p class="text-teal-400 font-mono text-sm">{{ .sub }}</p>
-            </div>
-            {{ end }}
+  <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover opacity-20">
+    <source src="/socrates.mp4" type="video/mp4">
+    <!-- {{ .video | relURL }} -->
+  </video>
+  <div class="relative max-w-6xl mx-auto px-6 z-10 text-center">
+    <h2 class="text-4xl md:text-5xl font-display font-bold text-white mb-16">{{ .title }}</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+      {{ range .icons }}
+      <div class="flex flex-col items-center group">
+        <div class="w-24 h-24 mb-6 p-4 rounded-full bg-white/5 border border-white/10 backdrop-blur-sm group-hover:border-teal-400/50 transition-all duration-500">
+          <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-contain brightness-110">
         </div>
+        <h3 class="text-2xl font-bold text-white mb-2">{{ .title }}</h3>
+        <p class="text-teal-400 font-mono text-sm">{{ .sub }}</p>
+      </div>
+      {{ end }}
     </div>
+  </div>
 </section>
 {{ end }}
-
 
 {{ with .Site.Language.Params.quote2 }}
-    {{ partial "quoter.html" . }}
+  {{ partial "quoter.html" . }}
 {{ end }}
 
-<!-- <section class="py-20 bg-slate-900 z-20 relative">
-    <div class="max-w-[1400px] mx-auto px-6">
-        <div class="text-center mb-12">
-            <h2 class="font-display text-3xl md:text-4xl font-bold text-white mb-3">{{ i18n "home_sections" }}</h2>
-            <div class="w-16 h-1 bg-teal-500 mx-auto"></div>
-        </div>
-        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-            {{- $sections := slice "research" "superphysics" "supermath" "superlogic" "material" "bio" "society" "economics" "cycles" "spiritual" }}
-            {{- range $i, $s := $sections }}
-            <a href="{{ printf "/%s/" $s | relLangURL }}" class="p-6 rounded-2xl bg-white/5 border border-white/10 hover:border-teal-500/50 hover:bg-white/10 transition-all text-center group">
-                <div class="text-3xl mb-3 group-hover:scale-110 transition-transform">
-                    {{ if eq $s "research" }}🔬 {{ else if eq $s "superphysics" }}⚛️ {{ else if eq $s "supermath" }}∑ {{ else if eq $s "superlogic" }}🧠 {{ else if eq $s "material" }}💎 {{ else if eq $s "bio" }}🧬 {{ else if eq $s "society" }}🌐 {{ else if eq $s "economics" }}📊 {{ else if eq $s "cycles" }}🔄 {{ else if eq $s "spiritual" }}✨ {{ end }}
-                </div>
-                <span class="font-semibold text-white group-hover:text-teal-400">{{ i18n (printf "nav_%s" $s) }}</span>
-            </a>
-            {{- end }}
-        </div>
-    </div>
-</section> -->
-
-
-
 {{ with .Site.Language.Params.sciences }}
-<section class="py-24 bg-black relative z-20">
-    <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover opacity-20">
-        <source src="/socrates.mp4" type="video/mp4">
-            <!-- {{ .video | relURL }} -->
-    </video>
-
-    <div class="max-w-[1400px] mx-auto px-6">
-        <div class="text-center mb-16">
-            <!-- <h2 class="font-display text-4xl md:text-5xl font-bold text-sp-text mb-4">{{ .title }}</h2> -->
-            <h2 class="text-4xl md:text-5xl font-display font-bold text-white mb-16">{{ .title }}</h2>
-            <!-- <div class="w-24 h-1.5 bg-gradient-to-r from-teal-500 to-blue-600 rounded-full mx-auto"></div> -->
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {{ range .cards }}
-            {{- $color := .c -}}
-            {{- if eq .c "yellow" }}{{ $color = "#854d0e" }}{{ end }} {{- if eq .c "pink" }}{{ $color = "#831843" }}{{ end }}   {{- if eq .c "green" }}{{ $color = "#064e3b" }}{{ end }}  {{- if eq .c "indigo" }}{{ $color = "#312e81" }}{{ end }} {{- if eq .c "gray" }}{{ $color = "#334155" }}{{ end }}   {{- if eq .c "blue" }}{{ $color = "#1e3a8a" }}{{ end }}   <a href="{{ .url | relLangURL }}" 
-               class="group relative flex flex-row h-full aspect-[4/3] overflow-hidden rounded-2xl transition-all duration-500 hover:scale-[1.03] hover:brightness-110 hover:shadow-2xl hover:shadow-black/50 border border-sp-border"
-               style="background-color: {{ $color }};">
-                
-                <div class="relative z-20 flex flex-col justify-between w-2/5 p-6 text-left">
-                    <div>
-                        <h3 class="text-white text-xl md:text-2xl font-display font-bold leading-tight mb-2 drop-shadow-md">
-                            {{ .title }}
-                        </h3>
-                        <div class="w-8 h-1 bg-white/30 rounded-full mb-4 group-hover:w-12 transition-all"></div>
-                    </div>
-                    <p class="text-white/80 text-xs md:text-sm font-body leading-relaxed line-clamp-4">
-                        {{ .sub }}
-                    </p>
-                </div>
-
-                <div class="absolute top-0 right-0 w-2/3 h-full z-10">
-                    <div class="w-full h-full overflow-hidden">
-                        <div class="absolute inset-0 z-10" 
-                             style="background: linear-gradient(to right, {{ $color }} 0%, transparent 50%);">
-                        </div>
-                        
-                        <img src="{{ .img }}" alt="{{ .title }}" 
-                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 grayscale-[30%] group-hover:grayscale-0">
-                    </div>
-                </div>
-
-                <div class="absolute inset-0 opacity-0 group-hover:opacity-20 transition-opacity duration-500 bg-white pointer-events-none"></div>
-            </a>
-            {{ end }}
-        </div>
+<section id="sciences" class="py-24 bg-black relative z-20">
+  <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover opacity-20">
+    <source src="/socrates.mp4" type="video/mp4">
+    <!-- {{ .video | relURL }} -->
+  </video>
+  <div class="max-w-[1400px] mx-auto px-6">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-5xl font-display font-bold text-white mb-16">{{ .title }}</h2>
     </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {{ range .cards }}
+        {{- $color := .c -}}
+        {{- if eq .c "yellow" }}{{ $color = "#854d0e" }}{{ end }}
+        {{- if eq .c "pink" }}{{ $color = "#831843" }}{{ end }}
+        {{- if eq .c "green" }}{{ $color = "#064e3b" }}{{ end }}
+        {{- if eq .c "indigo" }}{{ $color = "#312e81" }}{{ end }}
+        {{- if eq .c "gray" }}{{ $color = "#334155" }}{{ end }}
+        {{- if eq .c "blue" }}{{ $color = "#1e3a8a" }}{{ end }}
+        <a href="{{ .url | relLangURL }}" class="group relative flex flex-row h-full aspect-[4/3] overflow-hidden rounded-2xl transition-all duration-500 hover:scale-[1.03] hover:brightness-110 hover:shadow-2xl hover:shadow-black/50 border border-sp-border" style="background-color: {{ $color }};">
+          <div class="relative z-20 flex flex-col justify-between w-2/5 p-6 text-left">
+            <div>
+              <h3 class="text-white text-xl md:text-2xl font-display font-bold leading-tight mb-2 drop-shadow-md">
+                {{ .title }}
+              </h3>
+              <div class="w-8 h-1 bg-white/30 rounded-full mb-4 group-hover:w-12 transition-all"></div>
+            </div>
+            <p class="text-white/80 text-xs md:text-sm font-body leading-relaxed line-clamp-4">
+              {{ .sub }}
+            </p>
+          </div>
+          <div class="absolute top-0 right-0 w-2/3 h-full z-10">
+            <div class="w-full h-full overflow-hidden">
+              <div class="absolute inset-0 z-10" style="background: linear-gradient(to right, {{ $color }} 0%, transparent 50%);">
+              </div>
+              <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 grayscale-[30%] group-hover:grayscale-0">
+            </div>
+          </div>
+          <div class="absolute inset-0 opacity-0 group-hover:opacity-20 transition-opacity duration-500 bg-white pointer-events-none"></div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
 </section>
 {{ end }}
 
-
-
-
-
 {{ with .Site.Language.Params.book }}
-    {{ partial "book.html" . }}
+  {{ partial "book.html" . }}
 {{ end }}
 
 {{ with .Site.Language.Params.quote3 }}
-    {{ partial "quoter.html" . }}
+  {{ partial "quoter.html" . }}
 {{ end }}
 
 {{ with .Site.Language.Params.panels }}
-<section class="relative py-24 bg-slate-950">
-    <div class="max-w-7xl mx-auto px-6">
-        <!-- Section Title -->
-        <h2 class="text-4xl md:text-5xl font-display font-bold text-center text-white mb-16">
-            {{ .title }}
-        </h2>
+<section id="solve" class="relative py-24 bg-slate-950">
+  <div class="max-w-7xl mx-auto px-6">
+    <!-- Section Title -->
+    <h2 class="text-4xl md:text-5xl font-display font-bold text-center text-white mb-16">
+      {{ .title }}
+    </h2>
+    
+    <!-- Cards Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {{ range .cards }}
+      <a href="{{ .url }}" class="group relative block overflow-hidden rounded-2xl h-[400px]">
+        <!-- Full background image -->
+        <img src="{{ .img }}" alt="{{ .title }}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
         
-        <!-- Cards Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {{ range .cards }}
-            <a href="{{ .url }}" class="group relative block overflow-hidden rounded-2xl h-[400px]">
-                <!-- Full background image -->
-                <img src="{{ .img }}" alt="{{ .title }}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
-                
-                <!-- Dark overlay for better text contrast -->
-                <div class="absolute inset-0 bg-black/30 group-hover:bg-black/20 transition-colors duration-500"></div>
-                
-                <!-- Black panel at bottom for text -->
-                <div class="absolute bottom-0 left-0 right-0 bg-black p-8">
-                    <h3 class="text-3xl font-display font-bold text-white mb-3 group-hover:text-teal-400 transition-colors">
-                        {{ .title }}
-                    </h3>
-                    <p class="text-gray-300 text-base leading-relaxed">
-                        {{ .sub }}
-                    </p>
-                    
-                    <!-- Subtle arrow indicator -->
-                    <div class="flex justify-end mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
-                        <span class="text-teal-400 text-sm font-display flex items-center gap-2">
-                            Learn more <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
-                            </svg>
-                        </span>
-                    </div>
-                </div>
-            </a>
-            {{ end }}
+        <!-- Dark overlay for better text contrast -->
+        <div class="absolute inset-0 bg-black/30 group-hover:bg-black/20 transition-colors duration-500"></div>
+        
+        <!-- Black panel at bottom for text -->
+        <div class="absolute bottom-0 left-0 right-0 bg-black p-8">
+          <h3 class="text-3xl font-display font-bold text-white mb-3 group-hover:text-teal-400 transition-colors">
+            {{ .title }}
+          </h3>
+          <p class="text-gray-300 text-base leading-relaxed">
+            {{ .sub }}
+          </p>
+          <!-- Subtle arrow indicator -->
+          <div class="flex justify-end mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="text-teal-400 text-sm font-display flex items-center gap-2">
+              Learn more 
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+              </svg>
+            </span>
+          </div>
         </div>
+      </a>
+      {{ end }}
     </div>
+  </div>
 </section>
 {{ end }}
 
-
 <section class="py-20 z-20 relative">
-    <div class="max-w-xl mx-auto px-6 text-center text-white">
-        <h2 class="text-3xl font-bold mb-4">{{ i18n "stay_updated" }}</h2>
-        <p class="text-teal-100 mb-8">{{ i18n "join_newsletter" }}</p>
-        <form action="{{ .Site.Params.commentAction }}" method="POST" class="flex flex-col sm:flex-row gap-3">
-            <input type="email" name="email" placeholder="Your email address" required 
-                   class="flex-1 px-6 py-4 rounded-xl bg-black/20 border border-white/20 text-white placeholder:text-teal-200 focus:outline-none focus:ring-2 focus:ring-white">
-            <button type="submit" class="px-8 py-4 bg-white text-teal-900 font-bold rounded-xl hover:bg-teal-50 transition-colors">
-                {{ i18n "subscribe" }}
-            </button>
-        </form>
-    </div>
+  <div class="max-w-xl mx-auto px-6 text-center text-white">
+    <h2 class="text-3xl font-bold mb-4">{{ i18n "stay_updated" }}</h2>
+    <p class="text-teal-100 mb-8">{{ i18n "join_newsletter" }}</p>
+    <form action="{{ .Site.Params.commentAction }}" method="POST" class="flex flex-col sm:flex-row gap-3">
+      <input type="email" name="email" placeholder="Your email address" required class="flex-1 px-6 py-4 rounded-xl bg-black/20 border border-white/20 text-white placeholder:text-teal-200 focus:outline-none focus:ring-2 focus:ring-white">
+      <button type="submit" class="px-8 py-4 bg-white text-teal-900 font-bold rounded-xl hover:bg-teal-50 transition-colors">
+        {{ i18n "subscribe" }}
+      </button>
+    </form>
+  </div>
 </section>
 
-
-
 <script>
-    const canvas = document.getElementById('starfield');
-    const ctx = canvas.getContext('2d');
-    
-    let w, h, stars = [];
-    const count = 400;
-    const speed = 5;
-
-    function init() {
-        w = window.innerWidth;
-        h = window.innerHeight;
-        canvas.width = w;
-        canvas.height = h;
-        stars = [];
-        for (let i = 0; i < count; i++) {
-            stars.push({
-                x: Math.random() * w - w/2,
-                y: Math.random() * h - h/2,
-                z: Math.random() * w,
-                o: Math.random()
-            });
-        }
-    }
-
-    function draw() {
-        ctx.fillStyle = 'black';
-        ctx.fillRect(0, 0, w, h);
-        
-        ctx.translate(w/2, h/2);
-        
-        for (let s of stars) {
-            s.z -= speed;
-            if (s.z <= 0) s.z = w;
-            
-            const x = s.x * (w / s.z);
-            const y = s.y * (w / s.z);
-            const size = (1 - s.z / w) * 3;
-            
-            ctx.fillStyle = `rgba(255, 255, 255, ${1 - s.z / w})`;
-            ctx.beginPath();
-            ctx.arc(x, y, size, 0, Math.PI * 2);
-            ctx.fill();
-        }
-        
-        ctx.translate(-w/2, -h/2);
-        requestAnimationFrame(draw);
-    }
-
-    window.addEventListener('resize', init);
-    init();
-    draw();
+  const canvas = document.getElementById('starfield');
+  const ctx = canvas.getContext('2d');
+  let w, h, stars = [];
+  const count = 400;
+  const speed = 5;
+  
+  function init() {
+    w = window.innerWidth; 
+    h = window.innerHeight; 
+    canvas.width = w; 
+    canvas.height = h; 
+    stars = []; 
+    for (let i = 0; i < count; i++) {
+      stars.push({
+        x: Math.random() * w - w/2, 
+        y: Math.random() * h - h/2, 
+        z: Math.random() * w, 
+        o: Math.random() 
+      });
+    } 
+  }
+  
+  function draw() {
+    ctx.fillStyle = 'black'; 
+    ctx.fillRect(0, 0, w, h); 
+    ctx.translate(w/2, h/2); 
+    for (let s of stars) {
+      s.z -= speed; 
+      if (s.z <= 0) s.z = w; 
+      const x = s.x * (w / s.z); 
+      const y = s.y * (w / s.z); 
+      const size = (1 - s.z / w) * 3; 
+      ctx.fillStyle = `rgba(255, 255, 255, ${1 - s.z / w})`; 
+      ctx.beginPath(); 
+      ctx.arc(x, y, size, 0, Math.PI * 2); 
+      ctx.fill(); 
+    } 
+    ctx.translate(-w/2, -h/2); 
+    requestAnimationFrame(draw); 
+  }
+  
+  window.addEventListener('resize', init); 
+  init(); 
+  draw(); 
 </script>
 
 <style>
-    @keyframes fade-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    .animate-fade-in { animation: fade-in 0.8s ease-out forwards; }
-    body { background: black; }
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .animate-fade-in { 
+    animation: fade-in 0.8s ease-out forwards; 
+  }
+  
+  body { 
+    background: black; 
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
 </style>
-{{ end }}
 
+{{ end }}

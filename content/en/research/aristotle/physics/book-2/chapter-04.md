@@ -5,6 +5,7 @@ date: 2024-09-08
 weight: 12
 description: "But chance also and spontaneity are reckoned among causes"
 c: "indigo"
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

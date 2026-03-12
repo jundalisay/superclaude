@@ -1,7 +1,7 @@
 ---
 title: "A Tech Monarchy"
 date: 2025-11-01
-image: "/world/us/tech.jpg"
+image: "/photos/objects/king.jpg"
 description : ""
 writer:
   name: Lam

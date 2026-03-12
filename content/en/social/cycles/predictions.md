@@ -32,6 +32,7 @@ Country | Year Prediction was Made | Prediction | Outcome
 World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color color="green" val="Correct" >}}
 World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="green" >}}Semi-correct, split as the US banking Crisis and the fall of cyrpto{{< /c >}}
 World | 2019 | A large scale war will happen between 2025-2030 | {{< color color="orange" val="Pending" >}}
+![Iran flag](/flags/ir.png) | 3/2026 | The Iran war will escalate and merge with the Russia war | Pending
 ![PH flag](/flags/ph.png) | 5/2025 | Duterte and his allies will win in the midterm elections | {{< c v="green" >}}Correct{{< /c >}}
 ![German flag](/flags/de.png) | 12/2024 | [BSW](/social/cycles/germany) (Left) will win more seats than AfD as a result of the Worker Cycle | {{< c v="red" >}}Wrong. This means Germany is in warrior, not worker cycle. The worker Left did get more votes than previously, but not more than the warrior parties{{< /c >}}
 ![US flag](/flags/us.png) | 2024 | The US will participate in a war or large battle towards the end of Trump's term | {{< c v="green" >}}Correct. Trump joined the Israel Iran war, violating his promise of staying away from war{{< /c >}}
@@ -74,7 +75,7 @@ The core of the model is based on David Hume‘s maxim that mentality creates re
 
 This society has its own known dynamics which is explained by the ‘Social Cycle’ model of Socrates and the ‘Moral Sentiments’ model of Adam Smith, Hume's best friend.
 
-![David Hume](/covers/hume.jpg)
+![David Hume](/photos/medieval/hume.jpg)
 
 Each society’s mentality has its own cycles which clash or concur with those of others, creating the events in the news. By knowing the flow of each mentality, then the outcome of regular events or long-running events can be predicted, such as elections, conflicts, or economic recessions. This is somewhat used nowadays in Game Theory. However, instead of creating selfish actors like in game theory, we use a specific range of personality ‘types’ with their own attributes and dynamics. 
 

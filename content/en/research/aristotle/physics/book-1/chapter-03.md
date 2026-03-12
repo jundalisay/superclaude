@@ -5,6 +5,7 @@ date: 2024-09-08
 weight: 4
 description: "The fallacy of Melissus is obvious. He supposes that the assumption ‘what has come into being always has a beginning’ justifies the assumption ‘what has not come into being has no beginning’"
 c: "indigo"
+a: Aristotle
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

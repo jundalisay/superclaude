@@ -4,4 +4,5 @@ linkTitle: "Metaphysics"
 description: "We simplify Metaphysics by Aristotle in order to make it easier to understand"
 c: "indigo"
 weight: 4
+a: Aristotle
 ---
