@@ -41,28 +41,53 @@
     });
   }
 
-  // ===== MOBILE MENU =====
-  var mobileBtn = document.getElementById('mobile-menu-btn');
-  var mobileMenu = document.getElementById('mobile-menu');
-  var desktopNav = document.getElementById('desktop-nav');
+  // // ===== MOBILE MENU =====
+  // var mobileBtn = document.getElementById('mobile-menu-btn');
+  // var mobileMenu = document.getElementById('mobile-menu');
+  // var desktopNav = document.getElementById('desktop-nav');
 
-  function checkMobile() {
-    if (window.innerWidth < 768) {
-      if (mobileBtn) mobileBtn.style.display = '';
-      if (desktopNav) desktopNav.style.display = 'none';
-    } else {
-      if (mobileBtn) mobileBtn.style.display = 'none';
-      if (desktopNav) desktopNav.style.display = '';
-      if (mobileMenu) mobileMenu.classList.remove('open');
-    }
-  }
+  // function checkMobile() {
+  //   if (window.innerWidth < 768) {
+  //     if (mobileBtn) mobileBtn.style.display = '';
+  //     if (desktopNav) desktopNav.style.display = 'none';
+  //   } else {
+  //     if (mobileBtn) mobileBtn.style.display = 'none';
+  //     if (desktopNav) desktopNav.style.display = '';
+  //     if (mobileMenu) mobileMenu.classList.remove('open');
+  //   }
+  // }
 
-  checkMobile();
-  window.addEventListener('resize', checkMobile);
+  // checkMobile();
+  // window.addEventListener('resize', checkMobile);
 
-  if (mobileBtn && mobileMenu) {
-    mobileBtn.addEventListener('click', function() {
-      mobileMenu.classList.toggle('open');
+  // if (mobileBtn && mobileMenu) {
+  //   mobileBtn.addEventListener('click', function() {
+  //     mobileMenu.classList.toggle('open');
+  //   });
+  // }
+
+
+
+  const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+  const mobileMenu = document.getElementById('mobileMenu');
+  const hamburgerIcon = document.getElementById('hamburgerIcon');
+  const closeMenuIcon = document.getElementById('closeMenuIcon');
+
+  mobileMenuBtn.addEventListener('click', () => {
+    // Toggle the menu visibility
+    const isHidden = mobileMenu.classList.toggle('hidden');
+    
+    // Switch between hamburger and close icons
+    hamburgerIcon.classList.toggle('hidden', !isHidden);
+    closeMenuIcon.classList.toggle('hidden', isHidden);
+  });
+
+  // Optional: Language Dropdown Logic
+  const langToggle = document.getElementById('langToggle');
+  const langDropdown = document.getElementById('langDropdown');
+  if(langToggle) {
+    langToggle.addEventListener('click', () => {
+      langDropdown.classList.toggle('hidden');
     });
   }
 

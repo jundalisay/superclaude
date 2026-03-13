@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: "The 2 Affections of Sound"
-weight: 2
+weight: 6
 # date: 2022-08-08
 description: ""
 c: "darkgoldenrod"
@@ -54,12 +54,7 @@ Few have understood, how this Measure can be exhibited to the ears without a per
 
 This we say is effected only by a certain intention of the Spirit or breath, in Vocal Musick; or of the Touch, in Instrumental; so as from the beginning of each stroke, the sound is emitted more distinctly. 
 
-Which all Singers naturally observe, and those who play on Instruments; principally 
-
-
-## A COMPENDIUM
-
-Primarily in tunes, at whole numbers we are wont to dance and leap: for, this Rule is there kept, that we may distinguish every stroke of the Music, with a single motion of our bodies; to the doing of which we are all naturally impelled by Music. 
+Which all Singers naturally observe, and those who play on Instruments; principally in tunes, at whole numbers we are wont to dance and leap: for, this Rule is there kept, that we may distinguish every stroke of the Music, with a single motion of our bodies; to the doing of which we are all naturally impelled by Music. 
 
 For certain it is, that a sound doth concuss, or make all circumjacent bodies, as is exemplified in Thunder, and the ringing of Bells; the reason whereof is to be referred to the disquisition of Physiology. But, inasmuch as the Hwi is confessed by all men, and that the sound is emitted more strongly, and distinctly in the beginning of each Measure, as we have formerly hinted: we may well affirm, that that sound doth more instantly and violently concuss or agitate our Spirits, by which we are excited to motion; as also by consequence, that Beasts may dance to number, or keep time with their Feet, if they be taught and accustomed thereto; because to this nothing more is required, then only a mere natural Impetus, or pleasant violence.
 

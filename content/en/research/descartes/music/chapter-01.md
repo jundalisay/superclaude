@@ -34,6 +34,8 @@ Thus, the voice of a friend is more agreeable than that of an enemy due to the s
 
 In the same way that they say the stretched skin of a drum vibrates when another drum is struck, or a wolf’s skin silences a drum, a similar harmony or dissonance happens in hearing.
 
+
+
 ### Notes (Praenotanda)
 
 1. All the senses are capable of some form of delight
@@ -72,3 +74,5 @@ In the first case, the eye notices the arithmetic progression more clearly.
 For what is easily sensed does not tire the mind, whereas what is hard to perceive either does not fill the mind or fills it only with difficulty, which fatigues the sense.
 
 Therefore, we conclude: In all things, the most pleasing are those that combine variety with order—that is, what is moderately different but still harmonious.
+
+

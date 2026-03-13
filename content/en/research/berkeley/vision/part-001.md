@@ -1,7 +1,9 @@
 ---
-title: "New Theory of Vision"
+title: "Distance is Invisible"
 weight: 7
 description: ""
+a: George Berkeley
+icon: George Berkeley
 c: "steelblue"
 ---
 
@@ -184,16 +186,26 @@ DISTANCE is a Line directed end-wise to the eye. It projects only one point in t
 
 3. Our estimate of the distance of distant OBJECTS is an act of judgment grounded on EXPERIENCE than of SENSE.
 
-For example, when I perceive a great number of intermediate OBJECTS, such as houses, fields, rivers, and the like, which I have experienced to take up a considerable space, I thence form a judgment or conclusion that the OBJECT I see beyond them is at a great distance. 
+For example, I perceive many intermediate OBJECTS, such as houses, fields, rivers, etc, which I have experienced to take up a considerable space.
+- From this I form a conclusion that the OBJECT I see beyond them is far. 
 
-When an OBJECT appears faint and small, which at a near distance I have experienced to make a vigorous and large appearance, I instantly conclude it to be far off: And this, it is evident, is the result of EXPERIENCE; without which, from the faintness and littleness I should not have inferred anything concerning the distance of OBJECTS.
+When an OBJECT appears faint and small, which at a near distance I have EXPERIENCED to make a vigorous and large appearance, I instantly conclude it to be far away.
+
+<!-- : And this, it is evident, is the result of EXPERIENCE; without which, from the faintness and littleness I should not have inferred anything concerning the distance of OBJECTS. -->
 
 
 4. But when an OBJECT is placed at so near a distance as that the interval between the eyes bears any sensible proportion to it, the opinion of speculative men is that the two OPTIC AXES (the fancy that we see only with one eye at once being exploded) concurring at the OBJECT do there make an ANGLE, by means of which, according as it is greater or lesser, the OBJECT is perceived to be nearer or farther off.
 
-5. Betwixt which and the foregoing manner of estimating distance there is this remarkable difference: that whereas there was no apparent, necessary connection between small distance and a large and strong appearance, or between great distance and a little and faint appearance, there appears a very necessary connection between an obtuse angle and near distance, and an acute angle and farther distance. It does not in the least depend upon experience, but may be evidently known by anyone before he had experienced it, that the nearer the concurrence of the OPTIC AXES, the greater the ANGLE, and the remoter their concurrence is, the lesser will be the ANGLE comprehended by them.
+5. Betwixt which and the foregoing manner of estimating distance there is this remarkable difference.
 
-6. There is another way mentioned by optic writers, whereby they will have us judge of those distances, in respect of which the breadth of the PUPIL hath any sensible bigness: And that is the greater or lesser divergency of the rays, which issuing from the visible point do fall on the PUPIL, that point being judged nearest which is seen by most diverging rays, and that remoter which is seen by less diverging rays: and so on, the apparent distance still increasing, as the divergency of the rays decreases, till at length it becomes infinite, when the rays that fall on the PUPIL are to sense parallel. And after this manner it is said we perceive distance when we look only with one eye.
+There was no apparent, necessary connection between small distance and a large and strong appearance, or between great distance and a little and faint appearance, there appears a very necessary connection between an obtuse angle and near distance, and an acute angle and farther distance.
+
+It does not in the least depend upon experience, but may be evidently known by anyone before he had experienced it, that the nearer the concurrence of the OPTIC AXES, the greater the ANGLE, and the remoter their concurrence is, the lesser will be the ANGLE comprehended by them.
+
+6. There is another way mentioned by optic writers, whereby they will have us judge of those distances, in respect of which the breadth of the PUPIL hath any sensible bigness.
+
+That is the greater or lesser divergency of the rays, which issuing from the visible point do fall on the PUPIL, that point being judged nearest which is seen by most diverging rays, and that remoter which is seen by less diverging rays: and so on, the apparent distance still increasing, as the divergency of the rays decreases, till at length it becomes infinite, when the rays that fall on the PUPIL are to sense parallel. And after this manner it is said we perceive distance when we look only with one eye.
+
 
 7. In this case also it is plain we are not beholding to experience: it being a certain, necessary truth that the nearer the direct rays falling on the eye approach to a PARALLELISM, the farther off is the point of their intersection, or the visible point from whence they flow.
 
@@ -205,7 +217,13 @@ When an OBJECT appears faint and small, which at a near distance I have experien
 
 11. Now from sect. 2 it is plain that distance is in its own nature imperceptible, and yet it is perceived by sight. It remains, therefore, that it be brought into view by means of some other IDEA that is itself immediately perceived in the act of VISION.
 
-12. But those LINES and ANGLES, by means whereof some MATHEMATICIANS pretend to explain the perception of distance, are themselves not at all perceived, nor are they in truth ever thought of by those unskilful in optics. I appeal to anyone's experience whether upon sight of an OBJECT he computes its distance by the bigness of the ANGLE made by the meeting of the two OPTIC AXES? Or whether he ever thinks of the greater or lesser divergency of the rays, which arrive from any point to his PUPIL? Everyone is himself the best judge of what he perceives, and what not. In vain shall all the MATHEMATICIANS in the world tell me, that I perceive certain LINES and ANGLES which introduce into my mind the various IDEAS of DISTANCE, so long as I myself am conscious of no such thing.
+12. But those LINES and ANGLES, by means whereof some MATHEMATICIANS pretend to explain the perception of distance, are themselves not at all perceived, nor are they in truth ever thought of by those unskilful in optics. 
+
+I appeal to anyone's experience whether upon sight of an OBJECT he computes its distance by the bigness of the ANGLE made by the meeting of the two OPTIC AXES? 
+
+Or whether he ever thinks of the greater or lesser divergency of the rays, which arrive from any point to his PUPIL? Everyone is himself the best judge of what he perceives, and what not. 
+
+In vain shall all the MATHEMATICIANS in the world tell me, that I perceive certain LINES and ANGLES which introduce into my mind the various IDEAS of DISTANCE, so long as I myself am conscious of no such thing.
+
 
 13. Since, therefore, those ANGLES and LINES are not themselves perceived by sight, it follows from sect. 10 that the mind doth not by them judge of the distance of OBJECTS.
-

@@ -62,7 +62,7 @@
             <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
             <span class="font-semibold text-white">{{ $iconName }}</span>
           {{ else }}
-            <span class="font-semibold text-white">{{ .Site.Params.author }}</span>
+            <span class="font-semibold text-white">{{ .Params.author }}</span>
           {{ end }}
         </div>
 

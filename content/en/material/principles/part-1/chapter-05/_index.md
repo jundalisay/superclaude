@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "The Quantum of Aether: Monads"
+linkTitle: QOA
 # date: 2023-12-10
 date: 2014-08-01
 weight: 14

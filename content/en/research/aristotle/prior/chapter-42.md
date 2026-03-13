@@ -11,7 +11,7 @@ icon: "Aristotle"
 ---
 
 
-### Chapter 42
+## Chapter 42
 
 In the same syllogism not all conclusions are reached through one figure, but one through one figure, another through another. 
 
@@ -21,39 +21,36 @@ Since not every problem is proved in every figure, but certain problems in each 
 sought.
 
 
-### Chapter 43
+## Chapter 43
 
-In reference to those arguments aiming at a definition which have been directed to prove some
-part of the definition, we must take as a term the point to which the argument has been directed,
-not the whole definition: for so we shall be less likely to be disturbed by the length of the term:
+There are arguments aiming at a definition which have been directed to prove some part of the definition.
+
+For these, we must take as a term the point to which the argument has been directed, not the whole definition: for so we shall be less likely to be disturbed by the length of the term:
 
 e.g. if a man proves that water is a drinkable liquid, we must take as terms drinkable and water.
 
 
-### Chapter 44
+## Chapter 44
 
-We must not try to reduce hypothetical syllogisms; for with the given premises it is not
-possible to reduce them. For they have not been proved by syllogism, but assented to by
-agreement. For instance if a man should suppose that unless there is one faculty of contraries,
-there cannot be one science, and should then argue that not every faculty is of contraries, e.g. of what is healthy and what is sickly: for the same thing will then be at the same time healthy and sickly.
+We must not try to reduce hypothetical syllogisms; for with the given premises it is not possible to reduce them. For they have not been proved by syllogism, but assented to by
+agreement.
 
-He has shown that there is not one faculty of all contraries, but he has not proved that
-there is not a science. And yet one must agree. But the agreement does not come from a
-syllogism, but from an hypothesis. This argument cannot be reduced: but the proof that there is
-not a single faculty can. The latter argument perhaps was a syllogism: but the former was an
-hypothesis.
+For instance if a man should suppose that unless there is one faculty of contraries, there cannot be one science, and should then argue that not every faculty is of contraries, e.g. of what is healthy and what is sickly: for the same thing will then be at the same time healthy and sickly.
 
-The same holds good of arguments which are brought to a conclusion per impossibile. These
-cannot be analyzed either; but the reduction to what is impossible can be analyzed since it is
-proved by syllogism, though the rest of the argument cannot, because the conclusion is reached
-from an hypothesis. But these differ from the previous arguments: for in the former a preliminary agreement must be reached if one is to accept the conclusion; e.g. an agreement that if there is proved to be one faculty of contraries, then contraries fall under the same science; whereas in the latter, even if no preliminary agreement has been made, men still accept the reasoning, because the falsity is patent, e.g. the falsity of what follows from the assumption that the diagonal is commensurate, viz. that then odd numbers are equal to evens.
-Many other arguments are brought to a conclusion by the help of an hypothesis; these we ought
-to consider and mark out clearly. We shall describe in the sequel their differences, and the
-various ways in which hypothetical arguments are formed: but at present this much must be
-clear, that it is not possible to resolve such arguments into the figures. And we have explained
-the reason.
+He has shown that there is not one faculty of all contraries, but he has not proved that there is not a science. And yet one must agree. But the agreement does not come from a syllogism, but from an hypothesis. This argument cannot be reduced: but the proof that there is not a single faculty can. The latter argument perhaps was a syllogism: but the former was an hypothesis. 
 
-### Chapter 45
+The same holds good of arguments which are brought to a conclusion per impossibile. 
+
+These cannot be analyzed either; but the reduction to what is impossible can be analyzed since it is proved by syllogism, though the rest of the argument cannot, because the conclusion is reached
+from an hypothesis.
+
+But these differ from the previous arguments: for in the former a preliminary agreement must be reached if one is to accept the conclusion; e.g. an agreement that if there is proved to be one faculty of contraries, then contraries fall under the same science; whereas in the latter, even if no preliminary agreement has been made, men still accept the reasoning, because the falsity is patent, e.g. the falsity of what follows from the assumption that the diagonal is commensurate, viz. that then odd numbers are equal to evens.
+
+Many other arguments are brought to a conclusion by the help of an hypothesis; these we ought to consider and mark out clearly. We shall describe in the sequel their differences, and the
+various ways in which hypothetical arguments are formed: but at present this much must be clear, that it is not possible to resolve such arguments into the figures. And we have explained the reason.
+
+
+## Chapter 45
 
 Whatever problems are proved in more than one figure, if they have been established in one
 figure by syllogism, can be reduced to another figure, e.g. a negative syllogism in the first figure can be reduced to the second, and a syllogism in the middle figure to the first, not all however but some only.
@@ -92,16 +89,16 @@ transition to the other figure is made.
 
 One of the syllogisms in the middle figure can, the other cannot, be resolved into the third figure.
 
-Whenever the universal statement is negative, resolution is possible. For if A belongs to no B
-and to some C, both B and C alike are convertible in relation to A, so that B belongs to no A and
-C to some A. A therefore is middle term. But when A belongs to all B, and not to some C,
-resolution will not be possible: for neither of the premises is universal after conversion.
-Syllogisms in the third figure can be resolved into the middle figure, whenever the negative
-statement is universal, e.g. if A belongs to no C, and B to some or all C. For C then will belong
-to no A and to some B. But if the negative statement is particular, no resolution will be possible: for the particular negative does not admit of conversion.
+Whenever the universal statement is negative, resolution is possible. 
 
-The same syllogisms cannot be resolved in these figures which could not be
-resolved into the first figure, and that when syllogisms are reduced to the first figure these alone are confirmed by reduction to what is impossible.
-It is clear from what we have said how we ought to reduce syllogisms, and that the figures may
-be resolved into one another.
+For if A belongs to no B and to some C, both B and C alike are convertible in relation to A, so that B belongs to no A and C to some A. A therefore is middle term. But when A belongs to all B, and not to some C, resolution will not be possible: for neither of the premises is universal after conversion. 
+
+Syllogisms in the third figure can be resolved into the middle figure, whenever the negative statement is universal, e.g. if A belongs to no C, and B to some or all C. For C then will belong
+to no A and to some B.
+
+But if the negative statement is particular, no resolution will be possible: for the particular negative does not admit of conversion.
+
+The same syllogisms cannot be resolved in these figures which could not be resolved into the first figure, and that when syllogisms are reduced to the first figure these alone are confirmed by reduction to what is impossible. 
+
+We should reduce syllogisms, and that the figures may be resolved into one another.
 

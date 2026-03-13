@@ -26,25 +26,48 @@ Ah! What fruit is this which this tree bears? Is it not wonderful to see how it 
 {{< /r >}}
 
 
-Then the skull which was among the branches of the tree spoke up and said: "What is it you wish? Those round objects which cover the branches of the trees are nothing but skulls." So spoke the head of Hun-Hunahpú turning to the maiden. "Do you, perchance, want them?" it added.
+Then the skull which was among the branches of the tree spoke up and said: 
 
-"Yes, I want them," the maiden answered.
 
-"Very well," said the skull. "Stretch your right hand up
+{{< l a="Skull" >}}
+What is it you wish? Those round objects which cover the branches of the trees are nothing but skulls.
+{{< /l >}}
 
-"Very well," said the maiden, and with her right hand reached toward the skull.
+
+So spoke the head of Hun-Hunahpú turning to the maiden. "Do you, perchance, want them?" it added.
+
+{{< r a="Girl" >}}
+Yes, I want them.
+{{< /r >}}
+
+{{< l a="Skull" >}}
+Very well. Stretch your right hand up
+{{< /l >}}
+
+
+She raised her right hand reached toward the skull.
 
 In that instant the skull let a few drops of spittle fall directly into the maiden's palm. She looked quickly and intently at the palm of her hand, but the spittle of the skull was not there.
 
-"In my saliva and spittle I have given you my descendants," said the voice in the tree. 
+{{< l a="Tree" >}}
+In my saliva and spittle I have given you my descendants.
+{{< /l >}}
 
-"Now my head has nothing on it any more, it is nothing but a skull without flesh. So are the heads of the great princes, the flesh is all which gives them a handsome appearance.
 
-When they die, men are frightened by their bones. So, too, is the nature of the sons, which are like saliva and spittle, they may be sons of a lord, of a wise man, or of an orator. They do not lose their substance when they go, but they bequeath it; the image of the lord, of the wise man, or of the orator does not disappear, nor is it lost, but he leaves it to the daughters and to the sons which he begets. 
 
-I have done the same with you. Go up, then, to the surface of the earth, that you may not die. Believe in my words that it will be so," said the head of Hun-Hunahpú and of Vucub-Hunahpú.
+{{< l a="The head of Hun-Hunahpú and Vucub-Hunahpú" >}}
+Now my head has nothing on it any more. It is nothing but a skull without flesh. So are the heads of the great princes, the flesh is all which gives them a handsome appearance.
 
-And all that they did together was by order of Huracán, Chipi-Caculhá, and Raxa-Caculhá.
+When they die, men are frightened by their bones. So, too, is the nature of the sons, which are like saliva and spittle, they may be sons of a lord, of a wise man, or of an orator. 
+
+They do not lose their substance when they go, but they bequeath it; the image of the lord, of the wise man, or of the orator does not disappear, nor is it lost, but he leaves it to the daughters and to the sons which he begets. 
+
+I have done the same with you. Go up, then, to the surface of the earth, that you may not die. Believe in my words that it will be so.
+{{< /l >}}
+
+
+All that they did together was by order of Huracán, Chipi-Caculhá, and Raxa-Caculhá.
+
 
 After all of the above talking, the maiden returned directly to her home, having immediately conceived the sons in her belly by virtue of the spittle only. Thus Hunahpú and Xbalanqué were begotten.
 

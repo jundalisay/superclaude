@@ -6,7 +6,7 @@ description: "Oplan Katharos is a technical working group within the FDA"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /avatars/jun.jpg
+icon: Juan
 draft: true
 ---
 
