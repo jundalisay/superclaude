@@ -1,10 +1,9 @@
 ---
 title: "Proposed Solutions and Technologies"
 description: "Proposed Solutions and Technologies from Superphysics"
-image: /covers/solutions.pn
+# image: /covers/solutions.pn
 youtube: "0dXvYASaIx4"
 proofs:
-
   - url : "https://pantrypoints.com"
     img: "/photos/econ/barter.jpg"
     title : "Social Superphysics: Moneyless System"
@@ -117,7 +116,7 @@ proofs:
     cat: "Superphysics"
     color: "darkblue"
     
-  - url : "/superphysics/principles/chapter-02d"
+  - url : "/superphysics/principles/chapter-02/section-08"
     img : "/graphics/meta/ngu.jpg"
     title : "The NTCFD Model for Goal Setting"
     sub : "We replace SMART with NTCFD based on the 5 Layers (2023)"

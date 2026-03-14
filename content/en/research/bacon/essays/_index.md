@@ -3,6 +3,7 @@ title: "The Essays Or Counsels, Civil And Moral"
 weight: 2
 description: "Of Francis Ld. Verulam Viscount St. Albans"
 c: "steelblue"
+a: "Francis Bacon"
 ---
 
 

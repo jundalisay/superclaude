@@ -1,153 +1,74 @@
 ---
-title: "Two ways of God-realization"
+title: "Vision of Divine Mother"
 c: "indigo"
 heading: "Chapter 7e"
-weight: 38
-description: "One way of God-realization is the path of discrimination, the other is that of love"
+weight: 37
+description: ""
 ---
 
 
-Sitting on the floor in the room was a young man from Agarpara about 22 years old. Whenever he came to the temple garden, he would take the Master aside, by a sign, and whisper his thoughts to him. He was a new-comer. That day he was sitting on
-the floor near the Master.
 
-MASTER (to the young man): "A man can change his nature by imitating another's
-character. 
+Monday, January 1, 1883
 
-He can get rid of a passion like lust by assuming the feminine mood. He gradually comes to act exactly like a woman. I have noticed that men who take female parts in the theatre speak like women or brush their teeth like women while bathing.
-Come again on a Tuesday or Saturday.
+At 8am, Sri Ramakrishna was seated on a mat spread on the floor of his room at Dakshineswar.
 
-(To Prankrishna) "Brahman and Śakti are inseparable. Unless you accept Śakti, you will find the whole universe unreal-'I', 'you', house, buildings, and family. The world stands solid because the Primordial Energy stands behind it. If there is no supporting pole, no framework can be made, and without the framework there can be no beautiful image of Durga.
+Since it was a cold day, he had wrapped his body in his moleskin shawl. Prankrishna and M. were seated in front of him. Rakhal, too, was in the room.
 
-"Without giving up worldliness a man cannot awaken his spiritual consciousness, nor can he realize God. He cannot but be a hypocrite as long as he has even a trace of worldly desire. God cannot be realized without guilelessness.
+Prankrishna was a high government official and lived in Calcutta. Since he had had no offspring by his first wife, with her permission he had married a second time.
 
-Cherish love within your heart; abandon cunning and deceit: Through service, worship, selflessness, does Rama's blessed
-vision come.
+By the second wife he had a son. Because he was rather stout, the Master addressed him now and then as "the fat brahmin". He had great respect for Sri Ramakrishna.
 
-Even those engaged in worldly activities, such as office work or business, should hold to the truth. Truthfulness alone is the spiritual discipline in the Kaliyuga." 
+Though a householder, Prankrishna studied the Vedanta and had been heard to say: "Brahman alone is real and the world illusory. I am He." The Master used to say to him: "In the Kaliyuga the life of a man depends on food. The path of devotion prescribed by Narada is best for this age."
 
-PRANKRISHNA: "Yes, sir. It is said in the Mahanirvana Tantra: 'O Goddess, this religion enjoins it upon one to be truthful, self-controlled, devoted to the welfare of others, unagitated, and compassionate.'"
+A devotee had brought a basket of jilipi for the Master, which the latter kept by his side.
 
-MASTER: "Yes. But these ideas must be assimilated."
+Eating a bit of the sweets, he said to Prankrishna with a smile: "You see, I chant the name of the Divine Mother; so I get all these good things to eat. (Laughter.) But She doesn't give such fruits as gourd or pumpkin. She bestows the fruit of Amrita, Immortality-knowledge, love, discrimination, renunciation, and so forth."
 
-Sri Ramakrishna was sitting on the small couch. He was in an ecstatic mood and looked at Rakhal. Suddenly he was filled with the tender feeling of parental love toward his young disciple and spiritual child. Presently he went into samādhi. The devotees sat speechless, looking at the Master with wondering eyes.
+A boy six or seven years old entered the room. The Master himself became like a child.
 
-Regaining partial consciousness, the Master said: "Why is my spiritual feeling kindled at the sight of Rakhal? The more you advance toward God, the less you will see of His glories and grandeur. The aspirant at first has a vision of the Goddess with ten arms; there is a great display of power in that image. The next vision is that of the Deity with 2 arms; there are no longer ten arms holding various weapons and missiles. Then the aspirant has a vision of Gopala, in which there is no trace of power. It is the form of a tender child. Beyond that there are other visions also. The aspirant then sees only Light.
+He covered the contents of the basket with the palm or his hand, as a child does to conceal sweets from another child lest the latter should snatch them. Then he put the basket aside.
 
-"Reasoning and discrimination vanish after the attainment of God and communion with Him in samādhi. 
-
-How long does a man reason and discriminate? As long as he is conscious of the manifold, as long as he is aware of the universe, of embodied beings, of 'I' and 'you'. He becomes silent when he is truly aware of Unity. This was the case with Trailanga Swami.
-
-"Have you watched a feast given to the brahmins? At first there is a great uproar. But the noise lessens as their stomachs become more and more filled with food. When the last course of curd and sweets is served, one hears only the sound 'soop, soop' as they scoop up the curd in their hands.
-
-There is no other sound. Next is the stage of sleep- samādhi. There is no more uproar.
-
-(To M. and Prankrishna) "Many people talk of Brahmajnāna, but their minds are always preoccupied with lower things: house, buildings, money, name, and sense pleasures. As long as you stand at the foot of the Monument,10 so long do you see horses, carriages, Englishmen, and Englishwomen.
-
-But when you climb to its top, you behold the sky and the ocean stretching to infinity. Then you do not enjoy buildings, carriages, horses, or men. They look like ants.
-
-"All such things as attachment to the world and enthusiasm for 'woman and gold' disappear after the attainment of the Knowledge of Brahman. Then comes the cessation of all passions. When the log burns, it makes a crackling noise and one sees the flame. 
-
-But when the burning is over and only ash remains, then no more noise is heard. Thirst disappears with the destruction of attachment. Finally comes peace.
-
-"The nearer you come to God, the more you feel peace. Peace, peace, peace-supreme peace! The nearer you come to the Ganges, the more you feel its coolness. You will feel completely soothed when you plunge into the river.
-
-"But the universe and its created beings, and the twenty-four cosmic principles, all exist because God exists. Nothing remains if God is eliminated. 
-
-The number increases if you put many zeros after the figure one; but the zeros don't have any value if the one is not there."
-
-The Master continued: "There are some who come down, as it were, after attaining the Knowledge of Brahman-after samādhi-and retain the 'ego of Knowledge' or the 'ego of Devotion', just as there are people who, of their own sweet will, stay in the market-place after the market breaks up. This was the case with sages like Narada. They kept the 'ego of Devotion' for the purpose of teaching men. Sankaracharya kept the 'ego of Knowledge' for the same purpose.
-
-"God cannot be realized if there is the slightest attachment to the things of the world. A thread cannot pass through the eye of a needle if the tiniest fibre sticks out. "The anger and lust of a man who has realized God are only appearances. They are like a burnt string.
-
-It looks like a string, but a mere puff blows it away. "God is realized as soon as the mind becomes free from attachment. Whatever appears in the Pure Mind is the voice of God. That which is Pure Mind is also Pure Buddhi; that, again, is Pure Ātman, because there is nothing pure but God. But in order to realize God one must go beyond dharma and adharma."
-
-The Master sang in his melodious voice:
-
-Come, let us go for a walk, O mind, to Kāli, the Wish-fulfilling Tree, And there beneath It gather the four fruits of life. . . .
-
-Sri Ramakrishna went out on the southeast verandah of his room and sat down.
-
-Prankrishna and the other devotees accompanied him. Hazra, too, was sitting there.
-
-The Master said to Prankrishna with a smile: "Hazra is not a man to be trifled with. If one finds the big dargah here, then Hazra is the smaller dargah." All laughed at the Master's words. A certain gentleman, Navakumar by name, came to the door and stood there. At sight of the devotees he immediately left. "Oh! Egotism incarnate!" Sri
-Ramakrishna remarked.
-
-About half past nine in the morning Prankrishna took leave of the Master. Soon afterwards a minstrel sang some devotional songs to the accompaniment of a stringed instrument. 
-
-The Master was listening to the songs when Kedār Chatterji, a householder devotee, entered the room clad in his office clothes. He was a man of devotional temperament and cherished the attitude of the gopis of Vrindāvan. Words about God would make him weep.
-
-The sight of Kedār awakened in the Master's mind the episode of Vrindāvan in Sri Krishna's life. Intoxicated with divine love, the Master stood up and sang, addressing
-
-Kedār: Tell me, friend, how far is the grove
-Where Krishna, my Beloved, dwells?
-His fragrance reaches me even here;
-But I am tired and can walk no farther. . . .
-Sri Ramakrishna assumed the attitude of Sri Radha to Krishna and went into deep
-samādhi while singing the song. He stood there, still as a picture on canvas, with tears
-of divine joy running down his cheeks.
-Kedār knelt before the Master. Touching his feet, he chanted a hymn:
-We worship the Brahman-Consciousness in the Lotus of the
-Heart,
-The Undifferentiated, who is adored by Hari, Hara, and
-Brahma;
-
-Who is attained by yogis in the depths of their meditation;
-The Scatterer of the fear of birth and death,
-The Essence of Knowledge and Truth, the Primal Seed of the
-world.
-After a time the Master regained consciousness of the relative world. Soon Kedār took his leave and returned to his office in Calcutta.
-
-At midday Ramlal brought the Master a plate of food that had been offered in the Kāli
-temple. Like a child he ate a little of everything.
-
-Later in the afternoon several Marwari devotees entered the Master's room, where
-Rakhal and M. also were seated.
-
-A MARWARI DEVOTEE: "Sir, what is the way?"
+Suddenly the Master went into samādhi and sat thus a long time. His body was transfixed, his eyes wide open and unwinking, his breathing hardly perceptible. After a long time he drew a deep breath, indicating his return to the world of sense.
 
 
-## Two ways of God-realization
+## Vision of Divine Mother
 
-MASTER: "There are two ways. One is the path of discrimination, the other is that of love. Discrimination means to know the distinction between the Real and the unreal. 
 
-God alone is the real and permanent Substance; all else is illusory and impermanent.
+{{< l a="Ramakrishna" >}}
+(to Prankrishna): "My Divine Mother is not only formless, She has forms as well. 
 
-The magician alone is real; his magic is illusory. This is discrimination.
+One can see Her forms. One can behold Her incomparable beauty through feeling and love. The Mother reveals Herself to Her devotees in different forms. 
 
-"Discrimination and renunciation. Discrimination means to know the distinction between the Real and the unreal. Renunciation means to have dispassion for the things of the world. 
+"I saw Her yesterday. She was clad in a seamless ochre-coloured garment, and She talked with me.
 
-One cannot acquire them all of a sudden. They must be practised every day.
+"She came to me another day as a Mussalman girl six or seven years old. She had a tilak on her forehead and was naked. She walked with me, joking and frisking like a child.
 
-One should renounce 'woman and gold' mentally at first. Then, by the will of God, one can renounce it both mentally and outwardly. It is impossible to ask the people of Calcutta to renounce all for the sake of God. One has to tell them to renounce mentally. 
+"At Hriday's house I had a vision of Gauranga. He wore a black-bordered cloth.
 
-## Constant practice urged
+"Haladhāri used to say that God is beyond both Being and Non-being. I told the Mother about it and asked Her, 'Then is the divine form an illusion?' The Divine Mother appeared to me in the form of Rati's mother and said, 'Do thou remain in Bhāva ' I repeated this to Haladhāri.
 
-Through the discipline of constant practice one is able to give up attachment to 'woman and gold'. That is what the Gita says. By practice one acquires uncommon power of mind. Then one doesn't find it difficult to subdue the sense-organs and to bring anger, lust, and the like under control. Such a man behaves like a tortoise, which, once it has tucked in its limbs, never puts them out. You cannot make the tortoise put its limbs out again, though you chop it to pieces with an axe."
+Now and then I forget Her command and suffer. Once I broke my teeth because I didn't remain in bhava. So I shall remain in bhava unless I receive a revelation from heaven or have a direct experience to the contrary. I shall follow the path of love.
 
-MARWARI DEVOTEE: "Revered sir, you just mentioned two paths. What is the other path?"
+But why should I ask you about it? There is Someone within me who does all these things through me. At times I used to remain in a mood of Godhood and would enjoy no peace of mind unless I was being worshipped.
 
-MASTER: "The path of bhakti, or zealous love of God. Weep for God in solitude, with a restless soul, and ask Him to reveal Himself to you. Cry to your Mother Syama with a real cry, O mind! And how can She hold Herself from you? "
+"I am the machine and God is the Operator. I act as He makes me act. I speak as He makes me speak. Keep your raft, says Ramprasad, afloat on the sea of life, Drifting up with the flood-tide, drifting down with the ebb.
 
-MARWARI DEVOTEE: "Sir, what is the meaning of the worship of the Personal God? And what is the meaning of God without form or attribute?"
+"It is like the cast-off leaf before a gale; sometimes it is blown to a good place and sometimes into the gutter, according to the direction of the wind.
 
-MASTER: "As you recall your father by his photograph, so likewise the worship of the image reveals in a flash the nature of Reality.
+"As the weaver said in the story: 'The robbery was committed by the will of Rama, I was arrested by the police by the will of Rama, and again, by the will of Rama, I was set free.'
 
-"Do you know what God with form is like? Like bubbles rising on an expanse of water, various divine forms are seen to rise out of the Great Ākāśa of Consciousness. The Incarnation of God is one of these forms. The Primal Energy sports, as it were, through the activities of a Divine Incarnation.
+"Hanuman once said to Rama: 'O Rama, I have taken refuge in Thee. Bless me that I may have pure devotion to Thy Lotus Feet and that I may not be caught in the spell of Thy world-bewitching maya.'
 
-"What is there in mere scholarship? God can be attained by crying to Him with a longing heart. There is no need to know many things.
+"Once a dying bullfrog said to Rama: 'O Rama, when caught by a snake I cry for Your protection. But now I am about to die, struck by Your arrow. Hence I am silent.' 
+{{< /l >}}
 
-"He who is an Āchārya has to know different things. One needs a sword and shield to kill others; but to kill oneself, a needle or a nail-knife suffices.
+### God's nature like that of a child
 
-"One ultimately discovers God by trying to know who this 'I' is. Is this 'I' the flesh, the bones, the blood, or the marrow? Is it the mind or the buddhi? Analysing thus, you realize at last that you are none of these. This is called the process of 'Neti, neti', 'Not this, not this'. One can neither comprehend nor touch the Ātman. It is without qualities or attributes.
 
-"But, according to the path of devotion, God has attributes. To a devotee Krishna is Spirit, His Abode is Spirit, and everything about Him is Spirit."
+{{< l a="Ramakrishna" >}}
+"I used to see God directly with these very eyes, just as I see you. Now I see divine visions in trance.
 
-The Marwari devotees saluted the Master and took their leave. 
+"After realizing God a man becomes like a child. One acquires the nature of the object one meditates upon. The nature of God is like that of a child. As a child builds up his toy house and then breaks it down, so God acts while creating, preserving, and destroying the universe.
 
-At the approach of evening Sri Ramakrishna went out to look at the sacred river. The lamp was lighted in his room. The Master chanted the hallowed name of the Divine
-
-Mother and meditated on Her. Then the evening worship began in the various temples.
-
-The sound of gongs, floating on the air, mingled with the murmuring voice of the river.
-
-Peace and blessedness reigned everywhere.
+As the child is not under the control of any guna, so God is beyond the three gunas-sattva, rajas, and tamas. That is why paramahamsas keep five or ten children with them, that they may assume their nature.
+{{< /l >}}
