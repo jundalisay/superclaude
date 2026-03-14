@@ -10,7 +10,7 @@ draft: true
 ---
 
 
-### 2.1 Hyperfine Structure of Hydrogen
+## 2.1 Hyperfine Structure of Hydrogen
 
 The hyperfine structure of the spectral lines is a result of the coupling of J, the total angluar momentum of the electron, and the total angular momentum of the proton I~ to the total angular momentum of the system: F~ = J~ + I.
 

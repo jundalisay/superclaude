@@ -1,10 +1,8 @@
 ---
 heading: Chapter 4
 title: "Act 4: The End Of An Era: The Twelfth Century Bc"
-weight: 64
-# author: Cronin
+weight: 77
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -69,4 +67,5 @@ century BC.
 The kings of Ugarit married princesses from the neighboring polity of Amurru, and probably also from the larger kingdom of the Hittites, in dynastic marriages
 complete with dowries that were quite literally fit for a king,
 though at least one of these marriages ended in a bitter divorce
-that dragged on in the courts for years.5
+that dragged on in the courts for years.
+

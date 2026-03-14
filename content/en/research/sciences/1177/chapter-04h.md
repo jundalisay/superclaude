@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4h
 title: "Destructions On The Greek Mainland"
-weight: 82
+weight: 112
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
@@ -9,18 +9,16 @@ c: darkslategray
 
 
 
-If the Mycenaeans were not involved in the destruction of Troy
-VIIA, it may have been because they were also under attack at
-approximately the same time. It is universally accepted by
-scholars that Mycenae, Tiryns, Midea, Pylos, Thebes, and many
+If the Mycenaeans were not involved in the destruction of Troy VIIA, it may have been because they were also under attack at
+approximately the same time. It is universally accepted by scholars that Mycenae, Tiryns, Midea, Pylos, Thebes, and many
 other Mycenaean sites on the Greek mainland suffered destructions at this same approximate time, at the end of the
-thirteenth century BC, and early in the twelfth.94 
-
-In fact, a recent
-survey published in 2010 by British archaeologist Guy Middleton
+thirteenth century BC, and early in the twelfth.
+ 
+<!-- In fact, a recent survey published in 2010 by British archaeologist Guy Middleton
 presents a stark picture of the devastation on the Greek mainland
-during the period from 1225 to 1190 BC: “In the Argolid and
-Corinthia there were destructions at Mycenae, Tiryns, Katsingri,
+during the period from 1225 to 1190 BC: “ -->
+
+In the Argolid and Corinthia there were destructions at Mycenae, Tiryns, Katsingri,
 Korakou and Iria … in Lakonia at the Menelaion; in Messenia, at
 Pylos; in Achaea, at Teikhos Dymaion; in Boeotia and Phokis, at
 Thebes, Orchomenos, Gla … and Krisa, while the following sites
@@ -157,5 +155,3 @@ he eschews the notion of invasions or other dramatic events, preferring to attri
 following decades to the collapse of the palatial system and of
 long-distance trade. Recent research by other archaeologists may
 prove his thesis to be correct.
-
-

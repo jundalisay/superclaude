@@ -16,22 +16,39 @@
 
   {{/* ── IMAGE CARD ── */}}
   {{ if $hasImage }}
-    <div class="relative w-full aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden bg-slate-900">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover"/>
-      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-      {{ if $heading }}
-      <div class="absolute top-3 left-3">
-        <span class="text-sm font-display font-semibold px-2.5 py-1 rounded-full bg-black text-white backdrop-blur-sm">{{ $heading }}</span>
-         <!-- bg-teal-600/80 text-white  -->
-      </div>
-      {{ end }}
-      <div class="absolute bottom-0 left-0 right-0 p-4">
-        <h2 class="text-white text-xl md:text-2xl font-display font-semibold leading-tight line-clamp-2 bg-black backdrop-blur-sm -mx-4 px-4 py-2">{{ .Title }}</h2>
-        {{ if and $showDate .Date }}
-          <time class="text-xs text-white/60 mt-1 block" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-        {{ end }}
-      </div>
+<div class="relative w-full aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden bg-slate-900">
+  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover"/>
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+  
+  {{ if $heading }}
+  <div class="absolute top-3 left-3 z-10">
+    <span class="text-sm font-display font-semibold px-2.5 py-1 rounded-full bg-black text-white backdrop-blur-sm">{{ $heading }}</span>
+  </div>
+  {{ end }}
+  
+  <!-- Title container that climbs based on content -->
+  <div class="absolute left-0 right-0 p-4 transition-all duration-300" 
+       style="bottom: 0; max-height: calc(100% - 2rem); overflow-y: auto; scrollbar-width: none; -ms-overflow-style: none;">
+    <div class="bg-black/80 backdrop-blur-sm -mx-4 px-4 py-3 rounded-t-lg">
+      <h2 class="text-white text-xl md:text-2xl font-display font-semibold leading-tight line-clamp-4">
+        {{ .Title }}
+      </h2>
     </div>
+    {{ if and $showDate .Date }}
+      <time class="text-xs text-white/60 mt-2 block px-1" datetime="{{ .Date.Format "2006-01-02" }}">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </time>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .absolute.left-0.right-0.p-4::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
 
   {{/* ── AVATAR / ICON / PLAIN CARD ── */}}
   {{ else }}
@@ -49,7 +66,7 @@
           </div>
           {{ end }}
           
-          <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-4 drop-shadow-md">
+          <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-8 drop-shadow-md">
             {{ .Title }}
           </h2>
         </div>

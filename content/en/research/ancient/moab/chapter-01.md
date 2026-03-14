@@ -1,3 +1,11 @@
+---
+title: "Mesha"
+weight: 1
+c: "darkslategray"
+description: ""
+---
+
+
 
 I am Mesha, son of Chemosh-gad,[32] king of Moab, the Dibonite.
 
@@ -33,8 +41,9 @@ I placed therein the men of Siran, and the men of Mochrath.
 
 Chemosh said to me, Go take Nebo against Israel, and I went in the night and I fought against it from the break of day till noon, and I took it: and I killed in all seven thousand men...women and maidens, for I devoted them to Ashtar-Chemosh; and I took from it the vessels of Jehovah, and offered them before Chemosh.
 
-    And the king of Israel fortified Jahaz, and occupied it, when he made war against me, and Chemosh drove him out before me, and I took from Moab two hundred men in all, and placed them in Jahaz, and took it to annex it to Dibon.
 
-    I built Karchah the wall of the forest, and the wall of the Hill. I have built its gates and I have built its towers. I have built the palace of the king, and I made the prisons for the criminals within the wall. And there were no wells in the interior of the wall in Karchah. And I said to all the people, 'Make you every man a well in his house.' And I dug the ditch for Karchah with the chosen men of Israel. I built Aroer, and I made the road across the Arnon. I built Beth-Bamoth for it was destroyed. I built Bezer for it was cut down by the armed men of Daybon, for all Daybon was now loyal; and I reigned from Bikran, which I added to my land. And I built Beth-Gamul, and Beth-Diblathaim...Beth Baal-Meon, and I placed there the poor people of the land.
+The king of Israel fortified Jahaz, and occupied it, when he made war against me, and Chemosh drove him out before me, and I took from Moab two hundred men in all, and placed them in Jahaz, and took it to annex it to Dibon.
 
-    And as to Horonaim, the men of Edom dwelt therein, on the descent from old. And Chemosh said to me, Go down, make war against Horonaim, and take it. And I assaulted it, And I took it, for Chemosh restored it in my days. Wherefore I made.... ...year...and I....
+I built Karchah the wall of the forest, and the wall of the Hill. I have built its gates and I have built its towers. I have built the palace of the king, and I made the prisons for the criminals within the wall. And there were no wells in the interior of the wall in Karchah. And I said to all the people, 'Make you every man a well in his house.' And I dug the ditch for Karchah with the chosen men of Israel. I built Aroer, and I made the road across the Arnon. I built Beth-Bamoth for it was destroyed. I built Bezer for it was cut down by the armed men of Daybon, for all Daybon was now loyal; and I reigned from Bikran, which I added to my land. And I built Beth-Gamul, and Beth-Diblathaim...Beth Baal-Meon, and I placed there the poor people of the land.
+
+And as to Horonaim, the men of Edom dwelt therein, on the descent from old. And Chemosh said to me, Go down, make war against Horonaim, and take it. And I assaulted it, And I took it, for Chemosh restored it in my days. Wherefore I made.... ...year...and I....

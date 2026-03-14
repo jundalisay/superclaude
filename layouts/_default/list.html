@@ -39,7 +39,7 @@
       {{- $regular := where $pages "Params.featured" "!=" true }}
 
       {{/* 1. Pinned Section: Always stays at the top of Page 1 */}}
-      {{- if and (gt (len $pinned) 0) (eq .Paginator.PageNumber 1) }}
+      {{- if and (gt (len $pinned) 0) (eq $.Paginator.PageNumber 1) }}
       <div class="mb-12">
         <div class="flex items-center gap-3 mb-8">
           <h2 class="text-teal-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "pinned" }}</h2>
@@ -56,52 +56,56 @@
       </div>
       {{- end }}
 
-      {{/* 2. Regular Section: Paginated at 16 per page */}}
+      {{/* 2. Regular Section: Paginated at 16 per page - EXCLUDING pinned cards */}}
       {{- if gt (len $regular) 0 }}
-      <div>
-        {{- if gt (len $pinned) 0 }}
-        <div class="flex items-center gap-3 mb-8">
-          <h2 class="text-slate-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "latest" }}</h2>
-          <div class="flex-1 h-px bg-gradient-to-r from-slate-500/50 to-transparent"></div>
-        </div>
-        {{- end }}
-        
         {{- $paginator := .Paginate $regular 16 }}
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-          {{- range $i, $page := $paginator.Pages }}
-            <div class="css-only-reveal opacity-0" 
-                 style="animation-delay: {{ mul (mod $i 12) 50 }}ms; animation-fill-mode: forwards;">
-              {{ partial "card.html" $page }}
-            </div>
+        <div>
+          {{- if and (gt (len $pinned) 0) (eq $.Paginator.PageNumber 1) }}
+          <div class="flex items-center gap-3 mb-8">
+            <h2 class="text-slate-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "latest" }}</h2>
+            <div class="flex-1 h-px bg-gradient-to-r from-slate-500/50 to-transparent"></div>
+          </div>
           {{- end }}
-        </div>
-
-        {{/* 3. Pagination Controls */}}
-        {{- if gt $paginator.TotalPages 1 }}
-        <nav class="mt-16 flex justify-center items-center gap-4" aria-label="Pagination">
-          {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.URL }}" class="p-3 rounded-xl bg-sp-card border border-sp-border hover:border-teal-500 text-teal-500 transition-all">
-              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
-            </a>
-          {{ end }}
-
-          <div class="flex items-center gap-2">
-            {{ range $paginator.Pagers }}
-              <a href="{{ .URL }}" class="w-10 h-10 flex items-center justify-center rounded-xl font-display text-sm font-bold transition-all
-                {{ if eq . $paginator }} bg-teal-600 text-white {{ else }} bg-sp-card border border-sp-border text-sp-text hover:border-teal-500 {{ end }}">
-                {{ .PageNumber }}
-              </a>
-            {{ end }}
+          
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+            {{- range $i, $page := $paginator.Pages }}
+              <div class="css-only-reveal opacity-0" 
+                   style="animation-delay: {{ mul (mod $i 12) 50 }}ms; animation-fill-mode: forwards;">
+                {{ partial "card.html" $page }}
+              </div>
+            {{- end }}
           </div>
 
-          {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}" class="p-3 rounded-xl bg-sp-card border border-sp-border hover:border-teal-500 text-teal-500 transition-all">
-              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
-            </a>
-          {{ end }}
-        </nav>
-        {{- end }}
-      </div>
+          {{/* 3. Pagination Controls */}}
+          {{- if gt $paginator.TotalPages 1 }}
+          <nav class="mt-16 flex justify-center items-center gap-4" aria-label="Pagination">
+            {{ if $paginator.HasPrev }}
+              <a href="{{ $paginator.Prev.URL }}" class="p-3 rounded-xl bg-sp-card border border-sp-border hover:border-teal-500 text-teal-500 transition-all">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+              </a>
+            {{ end }}
+
+            <div class="flex items-center gap-2">
+              {{ range $paginator.Pagers }}
+                <a href="{{ .URL }}" class="w-10 h-10 flex items-center justify-center rounded-xl font-display text-sm font-bold transition-all
+                  {{ if eq . $paginator }} bg-teal-600 text-white {{ else }} bg-sp-card border border-sp-border text-sp-text hover:border-teal-500 {{ end }}">
+                  {{ .PageNumber }}
+                </a>
+              {{ end }}
+            </div>
+
+            {{ if $paginator.HasNext }}
+              <a href="{{ $paginator.Next.URL }}" class="p-3 rounded-xl bg-sp-card border border-sp-border hover:border-teal-500 text-teal-500 transition-all">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+              </a>
+            {{ end }}
+          </nav>
+          {{- end }}
+        </div>
+      {{- else }}
+        <div class="text-center py-10 text-slate-500">
+          <p>{{ i18n "noRegularArticles" | default "No regular articles yet." }}</p>
+        </div>
       {{- end }}
 
     {{- else }}
@@ -123,3 +127,4 @@
 </style>
 
 {{ end }}
+

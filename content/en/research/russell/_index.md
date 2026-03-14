@@ -1,6 +1,7 @@
 ---
 title: "Russell, Walter"
 description: ""
+heading: Weird
 a: "Walter Russell"
 c: "firebrick"
 weight: 740

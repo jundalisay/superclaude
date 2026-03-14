@@ -1,9 +1,8 @@
 ---
 heading: Chapter 5c
 title: Internal Rebellion
-weight: 104
+weight: 134
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -157,18 +156,10 @@ until the sudden end of the city, for there is a letter from the king
 of Beirut sent to an Ugaritic official (the prefect) that arrived after
 the king of Ugarit had already fled the city.
 
-In other words, Ugarit was destroyed by invaders and was never rebuilt, despite
-the fact that the international trade connections were at least
-partially if not still completely intact at the time of destruction.
-In fact, what jumps out from the materials in the Rapanu and
-Urtenu archives is the tremendous amount of international
-interconnection that apparently still existed in the Eastern
-Mediterranean even at the end of the Late Bronze Age. Moreover,
-it is clear from the few texts published from the Urtenu archive
-that these international connections continued right up until
-almost the last moment before Ugarit’s destruction. This seems to
-be a clear indication that the end was probably sudden, rather
-than a gradual decline after trade routes had been cut or because
-of drought and famine, and that Ugarit specifically was destroyed
-by invaders, regardless of whether these forces had also cut the
-international trade routes.
+In other words, Ugarit was destroyed by invaders and was never rebuilt, despite the fact that the international trade connections were at least partially if not still completely intact at the time of destruction.
+
+In fact, what jumps out from the materials in the Rapanu and Urtenu archives is the tremendous amount of international interconnection that apparently still existed in the Eastern Mediterranean even at the end of the Late Bronze Age.
+
+These international connections continued right up until almost the last moment before Ugarit’s destruction. 
+
+This means that the end was sudden, rather than a gradual decline after trade routes had been cut or because of drought and famine, and that Ugarit specifically was destroyed by invaders, regardless of whether these forces had also cut the international trade routes.

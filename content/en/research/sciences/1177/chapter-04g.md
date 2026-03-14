@@ -1,9 +1,8 @@
 ---
 heading: Chapter 4g
 title: "Destructions In Anatolia"
-weight: 79
+weight: 107
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -148,9 +147,13 @@ However, the date of this destruction might make it difficult to
 argue that the Mycenaeans were responsible, as in Homer’s story
 of the Trojan War in the Iliad, unless the Mycenaean palaces back
 on the Greek mainland were being attacked and destroyed
-precisely because all their warriors were away fighting at Troy. In
-fact, Mountjoy suggests that the Sea Peoples, rather than the
-Mycenaeans, destroyed Troy VIIA. This would fit well with the
-mention of the former by Ramses III just three years later, but she
+precisely because all their warriors were away fighting at Troy. 
+
+In fact, Mountjoy suggests that the Sea Peoples, rather than the
+Mycenaeans, destroyed Troy VIIA.
+
+This would fit well with the mention of the former by Ramses 3rd just three years later, but she
 presents no substantial evidence to support her hypothesis, which
-remains speculative.93
+remains speculative.
+
+

@@ -1,8 +1,8 @@
 ---
 title: "Jesus, Shiva"
 weight: 4
-c: "darkslategray"
-# image: "/photos/objects/ufo.jpg"
+c: "indigo"
+a: Jesus
 description: "Bashar answers Questions about Jesus"
 ---
 

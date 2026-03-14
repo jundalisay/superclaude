@@ -1,23 +1,19 @@
 ---
 heading: Chapter 3c
 title: "The Trojan War"
-weight: 59
+weight: 60
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-About the same time as the run-up to the Battle of Qadesh, the
-Hittites were also busy on a second front, in western Anatolia,
+Around the same time as the run-up to the Battle of Qadesh, the Hittites were also busy on a second front, in western Anatolia,
 where they were trying to contain rebellious subjects whose
-activities were apparently being underwritten by the
-Mycenaeans.23 This may be one of the earliest examples that we
+activities were apparently being underwritten by the Mycenaeans.23 This may be one of the earliest examples that we
 have of one government deliberately engaging in activities
 designed to undermine another (think Iranian support for
-Hezbollah in Lebanon, thirty-two hundred years after the Battle of
-Qadesh).
+Hezbollah in Lebanon, 3,200 years after the Battle of Qadesh).
 
 It is during the reign of the Hittite king Muwattalli II, in the
 early- to mid-thirteenth century BC, that we first learn from texts
@@ -28,12 +24,14 @@ Anatolia. He had already successfully defeated a vassal king of the
 Hittites in the same region, a man named Manapa-Tarhunta. It is
 thought that Piyamaradu was probably acting on behalf of, or in
 collusion with, the Ahhiyawans (i.e., the Bronze Age
-Mycenaeans).24
+Mycenaeans).
 
 Piyamaradu’s rebellious activities continued during the reign
 of the next Hittite king, Hattusili III, in the mid-thirteenth century
 BC, as we know from correspondence called by scholars the
-“Tawagalawa Letter.” The Hittite king sent the letter to an
+“Tawagalawa Letter.” 
+
+The Hittite king sent the letter to an
 unnamed king of Ahhiyawa, whom he addresses as “Great King”
 and “brother,” implying a level of equality between the two of
 them. We have already seen that similar terms were employed
@@ -55,7 +53,9 @@ Intriguingly, in an indication that relations between the Hittites
 and the Mycenaeans had previously been better than they were at
 this point, we are told that Tawagalawa had earlier ridden
 (“mounted the chariot”) with the personal charioteer of the
-Hittite king himself.27
+Hittite king himself.
+
+
 The letter also refers to a dispute between the Mycenaeans and
 the Hittites over an area known as Wilusa, located in
 northwestern Anatolia. This region came up in our discussion of
@@ -65,7 +65,8 @@ once again at odds over the territory, which is identified by most
 scholars with Troy and/or the Troad region. Given the date of the
 letter, in the mid-thirteenth century BC, it is certainly reasonable
 to wonder whether there is a link to the later Greek legends
-regarding the Trojan War.28
+regarding the Trojan War.
+
 The tale of the Trojan War, as traditionally related by the blind
 Greek poet Homer in the eighth century BC, and supplemented by
 both the so-called Epic Cycle (fragments of additional epic poems now lost) and later Greek playwrights, is well known. Paris, the
@@ -133,9 +134,10 @@ did not all take place at the exact same time during the Late
 Bronze Age, as will be seen below.
 
 Blegen also thought that the following city, Troy VIIa, was a
-more likely candidate for Priam’s Troy. This city was probably
+more likely candidate for Priam’s Troy.
+
+This city was probably
 destroyed ca. 1180 BC, and may have been overwhelmed by the
 Sea Peoples rather than by the Mycenaeans, although this is by no
 means certain. We shall leave the story here for the moment and pick it up again in the next chapter, when we discuss the events of
-the twelfth century BC.
-
+the 12th century BC.

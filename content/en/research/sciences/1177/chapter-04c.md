@@ -1,10 +1,8 @@
 ---
 heading: Chapter 4c
 title: "Destructions In North Syria"
-weight: 68
-# author: Cronin
+weight: 84
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -158,6 +156,3 @@ from the same origins who had already arrived and settled in the
 Eastern Mediterranean, perhaps during or after the original Sea
 Peoples incursions in the fifth year of Merneptah, back in 1207
 BC.
-
-
-Oh my life is you. But you cancelled me. So please just wish me success in next life with you, as my current life is a total fail now without you

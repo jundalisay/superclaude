@@ -1,45 +1,27 @@
 ---
 heading: Chapter 1f
 title: "The Assuwa Rebellion In Anatolia"
-weight: 26
+weight: 20
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
+Thutmose 3rd was in contact, and perhaps involved in active commercial exchange, with distant areas, including areas located to the north and west of Egypt. 
 
-Thutmose III was in contact, and perhaps involved in active commercial exchange, with distant areas,
-including areas located to the north and west of Egypt. 
+Contact with Assuwa (assuming that is the proper identification for Isy) was initiated by Assuwa rather than by Egypt.
 
-Contact with Assuwa (assuming that is the proper identification for Isy) was initiated by Assuwa rather than by
-Egypt. About 1430 BC, Assuwa launched a rebellion against the
-Hittites of central Anatolia, and one must consider the possibility
-that Assuwa was actively searching for diplomatic contacts with
-other major powers during the decade leading up to the
-rebellion.49
+Around 1430 BC, Assuwa launched a rebellion against the Hittites of central Anatolia, and one must consider the possibility that Assuwa was actively searching for diplomatic contacts with other major powers during the decade leading up to the rebellion.49
 
-The Assuwa Rebellion came to the forefront in 1991, when a bulldozer operator was digging the blade of his machine into the
-shoulder of a road by the ancient site of Hattusa, capital city of
-the Hittites—now a two-hour car ride (208 kilometers) east of
-modern Ankara. The blade struck something metallic. 
+The Assuwa Rebellion came to the forefront in 1991, when a bulldozer operator was digging the blade of his machine into the shoulder of a road by the ancient site of Hattusa, capital city of
+the Hittites—now a two-hour car ride (208 kilometers) east of modern Ankara. The blade struck something metallic. 
 
-Hopping down from his seat on the cab and reaching into the loosened dirt, he pulled out a long, thin, and surprisingly heavy greencolored object. It looked and felt like an ancient sword, an identification that was confirmed when it was cleaned up in the
-local museum by the resident archaeologists.
+Hopping down from his seat on the cab and reaching into the loosened dirt, he pulled out a long, thin, and surprisingly heavy greencolored object. It looked and felt like an ancient sword, an identification that was confirmed when it was cleaned up in the local museum by the resident archaeologists.
 
-However, it wasn’t a typical Hittite sword but rather was a
-type not seen previously in the region. In addition, it had an
-inscription incised into the blade. It initially proved easier to read
-the inscription than to identify the make of the sword, and so the
-translation was done first.
+However, it wasn’t a typical Hittite sword but rather was a type not seen previously in the region. In addition, it had an inscription incised into the blade. It initially proved easier to read the inscription than to identify the make of the sword, and so the translation was done first.
 
-Written in Akkadian—the diplomatic language of the Bronze Age in the ancient Near East—using
-cuneiform (wedge-shaped) signs, the inscription reads as follows:
-i-nu-ma mDu-ut-ha-li-ya LUGAL.GAL KUR URUA-as-su-wa u-hal-liq
-GIRHI.A an-nu-tim a-na D Iskur beli-suu-se-li. For those few readers not conversant with Akkadian, the English translation is: “As
-Duthaliya the Great King shattered the Assuwa country, he
-dedicated these swords to the storm-god, his lord.”50
+Written in Akkadian—the diplomatic language of the Bronze Age in the ancient Near East—using cuneiform (wedge-shaped) signs, the inscription reads as follows: i-nu-ma mDu-ut-ha-li-ya LUGAL.GAL KUR URUA-as-su-wa u-hal-liq GIRHI.A an-nu-tim a-na D Iskur beli-suu-se-li. For those few readers not conversant with Akkadian, the English translation is: “As Duthaliya the Great King shattered the Assuwa country, he dedicated these swords to the storm-god, his lord.”50
 
 The inscription refers to the so-called Assuwa Rebellion, which
 the Hittite king Tudhaliya I/II put down in approximately 1430
@@ -133,14 +115,7 @@ documents from what must have been the official state archives,
 as well as poems, stories, histories, religious rituals, and all kinds
 of other written documents. 
 
-Together they allow us to piece
-together not only the history of the Hittite rulers and their
-interactions with other peoples and kingdoms, but also that of the
-ordinary people, including their daily life and society, belief
-systems, and law codes—one of which contains the rather
-intriguing ruling “If anyone bites off the nose of a free person, he
-shall pay 40 shekels of silver” (one wonders just how frequently
-that happened).
+Together they allow us to piece together not only the history of the Hittite rulers and their interactions with other peoples and kingdoms, but also that of the ordinary people, including their daily life and society, belief systems, and law codes—one of which contains the rather intriguing ruling “If anyone bites off the nose of a free person, he shall pay 40 shekels of silver” (one wonders just how frequently that happened).
 
 
 Mursili I was a Hittite king, grandson and successor of Hattusili I.
@@ -153,22 +128,12 @@ the longest drive-by shooting in history.
 As an unintended consequence of his action, a previously unknown group called the Kassites was able to occupy the city of Babylon and then ruled
 over it for the next several centuries.
 
-While the first half of Hittite history is known as the Old
-Kingdom and is justifiably famous because of exploits by kings
-like Mursili, it is the second half with which we are more
-concerned here. Known during this period as the Hittite Empire, it
-flourished and rose to even greater heights during the Late Bronze
-Age—beginning in the fifteenth century BC and lasting until the
-early decades of the twelfth century BC. 
+While the first half of Hittite history is known as the Old Kingdom and is justifiably famous because of exploits by kings like Mursili, it is the second half with which we are more concerned here. Known during this period as the Hittite Empire, it flourished and rose to even greater heights during the Late Bronze Age—beginning in the fifteenth century BC and lasting until the early decades of the twelfth century BC.
 
-Among its most famous kings is a man named Suppiluliuma I, whom we will meet in the
-next chapter and who led the Hittites to a preeminent position in
-the ancient Near East by conquering a great deal of territory and
-dealing as an equal with the pharaohs of New Kingdom Egypt.
-One recently widowed Egyptian queen even asked Suppiluliuma
-to send her one of his sons as a husband, declaring that he would
+Suppiluliuma 1st led the Hittites by conquering a lot of territory and was an equal with the pharaohs of New Kingdom Egypt.
+
+One recently widowed Egyptian queen even asked Suppiluliuma to send her one of his sons as a husband, declaring that he would
 rule over Egypt with her. It’s not clear which queen it was, or
 whose widow she was, but some well-informed scholars favor
 Ankhsenamen as the queen and King Tut as the dead ruler of
 Egypt, as we shall see.
-

@@ -1,20 +1,18 @@
 ---
 heading: Chapter 5e
 title: Decentralization And The Rise Of The Private Merchant
-weight: 108
+weight: 142
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-The city was destroyed at about the time identified by the excavators, as confirmed by the
-radiocarbon dates, the attribution to the Sea Peoples as the agents
-of the destruction is speculative, although it is certainly quite
-possible. The excavators have not offered any definitive proof
-regarding a role for the Sea Peoples; they simply point out that
-the material culture of the settlement that was established on the
+The city was destroyed at about the time identified by the excavators.
+
+The excavators have not proven a role for the Sea Peoples for its destruction. 
+
+They simply point out that the material culture of the settlement that was established on the
 tell after the destruction includes “the appearance of Aegean-type
 architecture, locally-made Mycenaean IIIC Early pottery, handmade burnished pottery, and Aegean-type loam-weights.”72 As
 they state, “these materials, also known from Philistine
@@ -22,11 +20,6 @@ settlements, are cultural markers of foreign settlers, most
 probably the Sea Peoples.”73 While Tweini could be the best
 example yet of a site possibly destroyed and then resettled by the
 Sea Peoples, we cannot say so with absolute certainty. 
-
-Moreover, as Annie Caubet has noted with regard to Ras Ibn Hani (above),
-one cannot always be sure that the people who resettled a site
-after its destruction are necessarily the same ones who destroyed
-it in the first place.
 
 We can further speculate that in at least some cases groups
 designated as the Sea Peoples might have entered the vacuum
@@ -242,10 +235,11 @@ results of a “perfect storm” that brought down the flourishing
 cultures and peoples of the Bronze Age—from the Mycenaeans and Minoans to the Hittites, Assyrians, Kassites, Cypriots,
 Mitannians, Canaanites, and even Egyptians.94
 
-In my opinion, and Sandars’s before me, none of these
-individual factors would have been cataclysmic enough on their
+I think that none of these individual factors would have been cataclysmic enough on their
 own to bring down even one of these civilizations, let alone all of
-them. However, they could have combined to produce a scenario
+them. 
+
+However, they could have combined to produce a scenario
 in which the repercussions of each factor were magnified, in what
 some scholars have called a “multiplier effect.”95 The failure of
 one part of the system might also have had a domino effect,
@@ -254,4 +248,3 @@ could have led to the disintegration of one society after another,
 in part because of the fragmentation of the global economy and
 the breakdown of the interconnections upon which each
 civilization was dependent.
-

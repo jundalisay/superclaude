@@ -1,14 +1,15 @@
 ---
 title: "How to Help"
 description: "How to Help Superphysics"
-image: /covers/solutions.png
+c: teal
 ---
+
 
 We're building a new science and new systems for a better reality. The core Superphysics team won't live forever so we're focusing on the most pressing problems.
 
 You can help by:
 
-### 1. Doing certain actions
+## 1. Doing certain actions
 
 Actions | Notes
 --- | ---
@@ -38,7 +39,7 @@ Following our **Social Media** | [Facebook](https://www.facebook.com/superphysic
 
 
 
-### 2. Signing up as a volunteer so we can coordinate actions
+## 2. Signing up as a volunteer so we can coordinate actions
 
 
 <div class="flex justify-center items-center min-h-[50vh] p-4">
@@ -104,7 +105,7 @@ Following our **Social Media** | [Facebook](https://www.facebook.com/superphysic
 
 
 
-### 3. Contact Us
+## 3. Contact Us
 
 Domain | Email
 --- | ---
@@ -113,22 +114,22 @@ Pantrpoints | pantrypoints@gmail.com
 
 
 
-### 4. Donate
+## 4. Donate
 
 If you're feeling generous, you can donate via:
 
 
-#### Paypal
+<!-- #### Paypal
 
-[PayPal.me/pantrypoints](https://PayPal.me/pantrypoints)
+[PayPal.me/pantrypoints](https://PayPal.me/pantrypoints) -->
 
 
-#### GCash
+### GCash
 
 {{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
 
 
-#### Momo
+### Momo
 
 {{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For people in Vietnam" >}}
 

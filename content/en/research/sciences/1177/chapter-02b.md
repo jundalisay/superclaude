@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title: "Act Ii An (Aegean) Affair To Remember: The Fourteenth Century BC"
-weight: 38
+weight: 34
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
@@ -14,15 +14,9 @@ c: darkslategray
 3. Knossos and its port city of Amnisos
 4. Phaistos and Kydonia, listed in an order that goes from east to west
 
-All of these either had Minoan palaces or, in the case of Amnisos, functioned as a port for a
-nearby Minoan palace.
+All of these either had Minoan palaces or, in the case of Amnisos, functioned as a port for a nearby Minoan palace.
 
-Next on the list comes the island of Kythera, positioned midway between Crete and mainland Greece,
-and then important Mycenaean sites and regions on mainland
-Greece, including Mycenae and its port city of Nauplion, the
-region of Messenia, and perhaps the city of Thebes in Boeotia.
-Last on the list are more names from Minoan Crete, this time in
-order from west to east and including Amnisos again.
+Next on the list comes the island of Kythera, positioned midway between Crete and mainland Greece, and then important Mycenaean sites and regions on mainland Greece, including Mycenae and its port city of Nauplion, the region of Messenia, and perhaps the city of Thebes in Boeotia. Last on the list are more names from Minoan Crete, this time in order from west to east and including Amnisos again.
 
 The list looks suspiciously like an itinerary of a round-trip
 voyage from Egypt to the Aegean and back again.
@@ -134,18 +128,4 @@ suggests that something unusual in terms of international contact
 had probably taken place during Amenhotep III’s reign.
 
 
-The imported Egyptian and Near Eastern objects found in the
-Aegean form an interesting pattern, perhaps related to the Aegean
-List. Minoan Crete apparently continued to be the principal
-destination within the Aegean of the trade routes from Egypt and
-the Near East during at least the early part of the fourteenth
-century BC. However, since objects from Egypt, Canaan, and
-Cyprus are found in approximately equal quantities on Crete, it
-may be that goods from Egypt were no longer the dominant cargo
-being carried by the merchants and traders sailing between Crete
-and the Eastern Mediterranean, as had been the case during the
-previous centuries. If Egyptian and Minoan envoys and traders
-dominated the routes to the Aegean during the earlier periods,
-they were now most likely either joined, or even replaced, by
-others from Canaan and Cyprus.
-
+The imported Egyptian and Near Eastern objects found in the Aegean form an interesting pattern, perhaps related to the Aegean List. Minoan Crete apparently continued to be the principal destination within the Aegean of the trade routes from Egypt and the Near East during at least the early part of the fourteenth century BC. However, since objects from Egypt, Canaan, and Cyprus are found in approximately equal quantities on Crete, it may be that goods from Egypt were no longer the dominant cargo being carried by the merchants and traders sailing between Crete and the Eastern Mediterranean, as had been the case during the previous centuries. If Egyptian and Minoan envoys and traders dominated the routes to the Aegean during the earlier periods, they were now most likely either joined, or even replaced, by others from Canaan and Cyprus.

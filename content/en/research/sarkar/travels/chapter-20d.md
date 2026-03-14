@@ -93,17 +93,36 @@ We all breathed a sigh of relief, believing He had simply been quoting a poem. N
 
 "After the reporting, Baba talked to me alone in His room. He asked if everyone was inspired, which I confirmed. Then He asked me what they all thought about the poem. I said, 'Baba, it is appropriate, and  really it is happening in each Margi's life.' He nodded His head. 
 
-2-3 weeks ago, Baba said,  'Many people may say, "Baba, I love you." In truth, they may or may not love. But he who loves my ideology really loves me. Because I have merged myself with my ideology.'" 
+
+2-3 weeks ago, Baba said:
+
+{{< l a="Baba" >}}
+Many people may say "Baba, I love you." In truth, they may or may not love. But he who loves my ideology really loves me. Because I have merged myself with my ideology.
+{{< /l >}}
+
 
 Himanshuji, Baba's youngest brother, came to Calcutta a few days ago, together with several other family members. He said: 
 
-"I was in His room on the last night, the 20th, with some of our family. While taking His meal, He spoke to us all, 'Whenever the senior  person of the family or the guru dies, the others must be very careful for one year, because many misfortunes may come.' 
 
-"I didn't accept what He said at face-value, and said, 'Why need it happen like that, Baba? It will all be due only to psychological reasons, which can be overcome.' 
+{{< r a="Himanshu" >}}
+I was in His room on the last night, the 20th, with some of our family. While taking His meal, He spoke to us all:
+{{< /r >}}
 
-"'No,' He said. 'There is no scientific explanation. You have simply got to accept it. Have you heard the phrase Maha Guru Ni Pat? It means the departure of the Great Guru. It means the nearest and most dear one  leaves this world. Do you know what you should do in that case?' 
+{{< l a="Baba" >}}
+Whenever the senior  person of the family or the guru dies, the others must be very careful for one year, because many misfortunes may come.
+{{< /l >}}
 
-"As we didn't know, He continued, 'For one year, one should not make any luxurious function, construct any special lighting or decoration, or arrange any party. Sorrow should be observed for one year. You must be very careful for one year.'
+
+{{< r a="Himanshu" >}}
+I didn't accept what He said at face-value, and said, 'Why need it happen like that, Baba? It will all be due only to psychological reasons, which can be overcome.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+No. There is no scientific explanation. You have simply got to accept it. Have you heard the phrase Maha Guru Ni Pat? It means the departure of the Great Guru. It means the nearest and most dear one  leaves this world. Do you know what you should do in that case? 
+
+For one year, one should not make any luxurious function, construct any special lighting or decoration, or arrange any party. Sorrow should be observed for one year. You must be very careful for one year.'
+{{< /l >}}
+
 
 Baba's exact Bengali while quoting Tagore's poem was: Na'giniira' ca'ridike pheliteche vis'a'kta vishva'sSha'ntir lalita va'n'ii shona'ibe vyartha pariha'sa. Vida'y neba'r a'ge ta'i d'a'k diyeja'i Da'naver sa'the sam'gra'mer tarePrastiita hatecheya'ra' ghareghare. 
 
@@ -143,7 +162,11 @@ Baba became quiet and then said, "I meditate on all of my children throughout th
 
 "And Your mantra, Baba?"
 
-His mood shifted, and some profound emotion swept through His facial muscles as He said, "My mantra is Manus'oham (I am a human being). If I miss ideating on this mantra for even a single breath, My worldly existence becomes jeopardized."
+His mood shifted, and some profound emotion swept through His facial muscles as He said:
+
+{{< l a="Baba" >}}
+My mantra is Manus'oham (I am a human being). If I miss ideating on this mantra for even a single breath, My worldly existence becomes jeopardized.
+{{< /l >}}
 
 With these words, Baba took a deep breath, and His body shivered. 
 

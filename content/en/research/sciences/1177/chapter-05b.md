@@ -1,9 +1,8 @@
 ---
 heading: Chapter 5b
 title: Famines
-weight: 98
+weight: 128
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -14,36 +13,17 @@ There was famine in the Hittite Empire and elsewhere in the Eastern Mediterranea
 They have also correctly noted that the occurrence of famine in this region was not unique to the final
 years of the Late Bronze Age.
 
-For example, decades earlier, during the mid-thirteenth
-century BC, a Hittite queen wrote to the Egyptian pharaoh
-Ramses II, stating, “I have no grain in my lands.” 
+For example, decades earlier, during the mid-13th century BC, a Hittite queen wrote to the Egyptian pharaoh Ramses 2nd stating, “I have no grain in my lands.” 
 
-Soon thereafter, probably in a related move, the Hittites sent a trade embassy to
-Egypt in order to procure barley and wheat for shipment back to
-Anatolia.18 
+Soon thereafter, probably in a related move, the Hittites sent a trade embassy to Egypt in order to procure barley and wheat for shipment back to Anatolia.18 
 
-An inscription of the Egyptian pharaoh Merneptah, in
-which he states that he had “caused grain to be taken in ships, to
-keep alive this land of Hatti,” further confirms famine in the land
-of the Hittites toward the end of the thirteenth century BC.19
+An inscription of the Egyptian pharaoh Merneptah, in which he states that he had “caused grain to be taken in ships, to keep alive this land of Hatti,” further confirms famine in the land of the Hittites toward the end of the thirteenth century BC.
 
-Additional correspondence sent from the Hittite capital city
-attests to the ongoing crisis during the following decades,
-including one letter in which the writer rhetorically asks, “Do you
-not know that there was a famine in the midst of my lands?”20
+Additional correspondence sent from the Hittite capital city attests to the ongoing crisis during the following decades, including one letter in which the writer rhetorically asks, “Do you not know that there was a famine in the midst of my lands?”
 
-Some of the letters found at Ugarit are concerned with the
-immediate shipment of large quantities of grain to the Hittites.
-One missive sent from the Hittite king to the king of Ugarit is
-concerned specifically with a shipment of two thousand units of
-barley (or simply grain).
+Some of the letters found at Ugarit are concerned with the immediate shipment of large quantities of grain to the Hittites. One missive sent from the Hittite king to the king of Ugarit is concerned specifically with a shipment of two thousand units of barley (or simply grain).
 
-The Hittite king ends his letter
-dramatically, stating, “It is a matter of life or death!”21 Another
-letter is similarly concerned with the shipment of grain, but it
-also requests that many boats be sent as well. This led the
-original excavators to hypothesize that it was a reaction to the
-incursions of the Sea Peoples, which it may or may not be.
+The Hittite king ends his letter dramatically, stating, “It is a matter of life or death!”21 Another letter is similarly concerned with the shipment of grain, but it also requests that many boats be sent as well. This led the original excavators to hypothesize that it was a reaction to the incursions of the Sea Peoples, which it may or may not be.
 
 Even the last king of Ugarit, Ammurapi, received several letters from
 the Hittite king Suppiluliuma II in the early twelfth century BC,
@@ -56,7 +36,9 @@ early decades of the twelfth century BC was unprecedented, and
 that it affected far more areas than simply Anatolia. In his
 estimation, the evidence, both textual and archaeological,
 indicates that “climatological cataclysms affected the entire eastern Mediterranean region towards the end of the second
-millennium BCE.”24 He may well have been correct, for one of the
+millennium BCE.”
+
+He may well have been correct, for one of the
 letters found in the House of Urtenu at Ugarit in northern Syria
 refers to a famine ravaging the city of Emar in inland Syria at the
 time that it was destroyed in 1185 BC. The relevant lines in this
@@ -173,36 +155,8 @@ more arid,” the change most likely occurred before 1250–1197
 BC,37 which is precisely the time period under discussion here.
 
 
-He notes also not only that there was a sharp increase in
-Northern Hemisphere temperatures immediately before the
-collapse of the Mycenaean palatial centers, possibly causing
-droughts, but that there was a sharp decrease in temperature
-during the abandonment of these centers, meaning that it first got
-hotter and then suddenly colder, resulting in “cooler, more arid
-conditions during the Greek Dark Ages.” As Drake says, these
-climatic changes, including a decline in the surface temperature
-of the Mediterranean Sea before 1190 BC that resulted in less
-rainfall (or snow), could have dramatically affected the palatial
-centers, especially those that were dependent upon high levels of
-agricultural productivity, such as in Mycenaean Greece.38
+He notes also not only that there was a sharp increase in Northern Hemisphere temperatures immediately before the collapse of the Mycenaean palatial centers, possibly causing droughts, but that there was a sharp decrease in temperature during the abandonment of these centers, meaning that it first got hotter and then suddenly colder, resulting in “cooler, more arid conditions during the Greek Dark Ages.” As Drake says, these climatic changes, including a decline in the surface temperature of the Mediterranean Sea before 1190 BC that resulted in less rainfall (or snow), could have dramatically affected the palatial centers, especially those that were dependent upon high levels of agricultural productivity, such as in Mycenaean Greece.
 
-Israel Finkelstein and Dafna Langgut of Tel Aviv University, in
-conjunction with Thomas Litt at the University of Bonn in
-Germany, have now added additional data to the picture. They
-note that fossil pollen particles from a twenty-meter-long core
-drilled through sediments at the bottom of the Sea of Galilee also
-indicate a period of severe drought beginning ca. 1250 BC in the
-southern Levant. A second core drilled on the western shore of
-the Dead Sea provided similar results, but the two cores also
-indicate that the drought in this region may have ended already
-by ca. 1100 BC, thereby allowing life to resume in the region,
-albeit perhaps with new peoples settling down.
+Israel Finkelstein and Dafna Langgut of Tel Aviv University, in conjunction with Thomas Litt at the University of Bonn in Germany, have now added additional data to the picture. They note that fossil pollen particles from a twenty-meter-long core drilled through sediments at the bottom of the Sea of Galilee also indicate a period of severe drought beginning ca. 1250 BC in the southern Levant. A second core drilled on the western shore of the Dead Sea provided similar results, but the two cores also indicate that the drought in this region may have ended already by ca. 1100 BC, thereby allowing life to resume in the region, albeit perhaps with new peoples settling down.
 
-Nevertheless, exciting as these findings are, at this point we
-must also acknowledge that droughts have been frequent in this
-region throughout history, and that they have not always caused
-civilizations to collapse. Again it would seem that, on their own,
-climate change, drought, and famines, even if they “influenced
-social tensions, and eventually led to competition for limited
-resources,” are not enough to have caused the end of the Late Bronze Age without other mitigating factors having been
-involved, as Drake is careful to point out.40
+Nevertheless, exciting as these findings are, at this point we must also acknowledge that droughts have been frequent in this region throughout history, and that they have not always caused civilizations to collapse. Again it would seem that, on their own, climate change, drought, and famines, even if they “influenced social tensions, and eventually led to competition for limited resources,” are not enough to have caused the end of the Late Bronze Age without other mitigating factors having been involved, as Drake is careful to point out.

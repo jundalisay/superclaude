@@ -1,13 +1,28 @@
 {{ $t := .Get "t" | default "" }}
 
-<details id="{{ $t }}" class="pr-4 pl-6 pb-2 mt-4 mb-2 rounded toc" open>
-  <summary class="flex items-center font-bold py-2 cursor-pointer justify-between select-none">
-      <span>{{ $t | markdownify }}</span>
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<details id="{{ $t }}" class="group relative mt-4 mb-2 border border-gray-400 rounded-lg shadow-md toc overflow-hidden" open>
+  <summary class="flex items-center font-bold py-3 px-5 cursor-pointer justify-between select-none bg-gray-50 hover:bg-gray-100 transition-colors duration-200 list-none [&::-webkit-details-marker]:hidden">
+      <span class="text-gray-600">{{ $t | markdownify }}</span>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down w-5 h-5 transition-transform duration-300 group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
         <polyline points="6 9 12 15 18 9"></polyline>
      </svg>
   </summary>
-  {{ .Inner |  markdownify }}
+  <div class="p-5 border-t border-gray-200 dark:border-gray-700">
+    {{ .Inner | markdownify }}
+  </div>
 </details>
 
+<style>
+/* Hide default details marker across all browsers */
+details summary::-webkit-details-marker {
+  display: none;
+}
+details > summary {
+  list-style: none;
+}
+details > summary::marker,
+details > summary::-webkit-details-marker {
+  display: none;
+}
+</style>

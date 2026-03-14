@@ -16,16 +16,23 @@ GS, ask him how many full-timers he created.
 {{< /l >}}
 
 
-GENERAL SECRETARY: How many full-timers did you create in the 
-last one year? 
+{{< r a="General Secretary" >}}
+How many full-timers did you create in the last one year? 
+{{< /r >}}
 
-MARGI: None. 
+{{< r a="Margi" >}}
+None. 
+{{< /r >}}
+
 
 {{< l a="Baba" >}}
 (to the Margi): How many schools have started due to your own efforts?
 {{< /l >}}
 
-MARGI: None, Baba. 
+{{< r a="Margi" >}}
+None, Baba.
+{{< /r >}}
+
 
 {{< l a="Baba" >}}
 Could you even inspire any Margis to become Block Secretaries within your district? 
@@ -115,35 +122,36 @@ This time I got the line to Seoul. Dada Alok answered:
 Alok, it's absolutely urgent that you do something for the people suffering from the flood in Korea. Baba read about it in the newspapers. 
 {{< /r >}}
 
-ALOK: We already did a bit of relief work. 
+{{< l a="Alok" >}}
+We already did a bit of relief work. 
+{{< /l >}}
 
 {{< r a="Dharmavedananda" >}}
 Great! I'm writing it down. Tell me who did the work? 
 {{< /r >}}
 
 
-ALOK: About a dozen Margis under the guidance of Mahaprajinanandaji and myself.
+{{< l a="Alok" >}}
+About a dozen Margis under the guidance of Mahaprajinanandaji and myself.
+{{< /l >}}
 
 {{< r a="Dharmavedananda" >}}
-Wow! I was just guessing Mahaprajinanandaji was there. 
+Wow! I was just guessing Mahaprajinanandaji was there. How many people did you help? 
 {{< /r >}}
 
-ALOK: What? 
+{{< l a="Alok" >}}
+We gave clothes to about twenty-five families, and food to about 200 people. 
+{{< /l >}}
 
-ME: Nothing. How many people did you help? 
-
-ALOK: We gave clothes to about twenty-five families, and food to 
-about 200 people. 
 
 ME: That's incredible! Absolutely totally Baba Nam Kevalam! Did 
-you, by the way, did you clean out any houses? 
+you, by the way, did you clean out any houses? Was it about four houses? 
 
-ALOK: Yeah. 
 
-ME: Was it about four houses? 
+{{< l a="Alok" >}}
+No, it was three houses. Wait a moment, come to think of it, it  was four houses. How did you know? 
+{{< /l >}}
 
-ALOK: No, it was three houses. Wait a moment, come to think of it, it 
-was four houses. How did you know? 
 
 ME: I love you, Baba! Somehow Baba knew all this even without the 
 telephone call. He's reporting your work to the newspapers already. 
@@ -157,6 +165,3 @@ ALOK: Exactly.
 ME: We should give some more news to the papers. So try to call me with your report tomorrow and the day after also. 
 
 ALOK: Will do. 
-
-
-

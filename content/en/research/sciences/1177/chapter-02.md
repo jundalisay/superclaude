@@ -1,20 +1,12 @@
 ---
 heading: Chapter 2
 title: "Act 2: An Aegean Affair To Remember: 14th Century BC"
-weight: 38
+weight: 31
 c: darkslategray
 ---
 
 
-
-Towering more than sixty feet high and destined to stand guard
-for the next thirty-four hundred years, even as the mortuary
-temple that stood behind them was looted for its magnificent
-stone blocks and slowly crumbled into dust, the two huge statues
-standing at the entrance to Amenhotep III’s mortuary temple at
-Kom el-Hetan were, and still are, erroneously called the Colossi of
-Memnon as a result of a mistaken identification with Memnon, a
-mythological Ethiopian prince killed at Troy by Achilles. 
+Towering more than sixty feet high and destined to stand guard for the next thirty-four hundred years, even as the mortuary temple that stood behind them was looted for its magnificent stone blocks and slowly crumbled into dust, the two huge statues standing at the entrance to Amenhotep III’s mortuary temple at Kom el-Hetan were, and still are, erroneously called the Colossi of Memnon as a result of a mistaken identification with Memnon, a mythological Ethiopian prince killed at Troy by Achilles.
 
 Each statue depicts a seated Amenhotep III, pharaoh of Egypt from
 1391 to 1353 BC. In part because of this erroneous identification,
@@ -40,17 +32,15 @@ The court in which they stood contained almost forty such statues
 and bases in all.
 
 
-## THE AEGEAN LIST OF AMENHOTEP III
+## The Aegean List Of Amenhotep 3Rd
 
-Each of the five bases, as well as many of the others, is inscribed
-with a series of topographical names carved into the stone within
-what the Egyptians called a “fortified oval”—an elongated oval
-carved standing upright, with a series of small protrusions all
+Each of the 5 bases, as well as many of the others, is inscribed with a series of topographical names carved into the stone within
+what the Egyptians called a “fortified oval”—an elongated oval carved standing upright, with a series of small protrusions all
 along its perimeter.
 
-This was meant to depict a fortified city,
-complete with defensive towers (hence the protrusions). Each
-fortified oval was placed on, or rather replaced, the lower body of
+This was meant to depict a fortified city, complete with defensive towers (hence the protrusions). 
+
+Each fortified oval was placed on, or rather replaced, the lower body of
 a bound prisoner, portrayed with his arms behind his back and
 bound together at the elbow, sometimes with a rope tied around
 his neck attaching him to other prisoners in front of and behind
@@ -74,20 +64,11 @@ were titles placed at the head of the list: Keftiu and Tanaja.
 
 What was the meaning of this list and their names?
 
-What modern tourists to the site now see (usually as they are
-passing by the ruins in an air-conditioned bus on their way to the
-nearby Valley of the Kings) are the statue bases, and the statues
-upon them, being reassembled once again, to stand beneath the
-sun-drenched skies for the first time in more than three thousand
-years. In 1998, a multinational team led by Egyptologist Hourig Sourouzian and her husband Rainer Stadelmann, the former
-director of the German Archaeological Institute in Cairo,
-reopened the excavations at Kom el-Hetan. They have been
-excavating there every year since and have recovered the
-fragments of the destroyed Aegean List statue base, as well as
-those of its neighbors. They are now in the process of
-reconstructing and restoring them. The eight hundred pieces from
-the Aegean List alone took more than five years to piece
-together.2
+What modern tourists to the site now see (usually as they are passing by the ruins in an air-conditioned bus on their way to the nearby Valley of the Kings) are the statue bases, and the statues upon them, being reassembled once again, to stand beneath the sun-drenched skies for the first time in more than three thousand years. 
+
+In 1998, a multinational team led by Egyptologist Hourig Sourouzian and her husband Rainer Stadelmann, the former director of the German Archaeological Institute in Cairo, reopened the excavations at Kom el-Hetan.
+
+They have been excavating there every year since and have recovered the fragments of the destroyed Aegean List statue base, as well as those of its neighbors. They are now in the process of reconstructing and restoring them. The eight hundred pieces from the Aegean List alone took more than five years to piece together.2
 
 
 Only two of the names were familiar:
@@ -96,4 +77,3 @@ Only two of the names were familiar:
 2. Tanaja or mainland Greece
 
 The two names ‘Amnisa and Kunusa look uncomfortably like Amniso(s) andKnossos, famous ancient settlements on the north coast of Crete.
-

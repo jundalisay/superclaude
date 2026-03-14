@@ -1,11 +1,10 @@
 ---
 heading: Chapter 1g
 title: "The Assuwa Rebellion And The Ahhiyawa Question"
-weight: 32
+weight: 24
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
-
 
 
 In 1430 BC the Hittites and their king Tudhaliya I/II were dealing with a coalition of renegade states collectively known as Assuwa.
@@ -174,15 +173,14 @@ Akkadian. Simply put, archaeological remains combined with
 textual inscriptions have allowed modern scholars to reconstruct
 ancient history.
 
-The Mycenaean civilization began in the 17th century BC, at approximately the same time as the Minoans on Crete were recovering from the dramatic
-earthquake that marks (according to archaeological terminology)
-the transition from the First to the Second Palatial period on the
+The Mycenaean civilization began in the 17th century BC, at approximately the same time as the Minoans on Crete were recovering from the dramatic earthquake that marks (according to archaeological terminology) the transition from the First to the Second Palatial period on the
 island. Wace and Blegen christened the chronological periods
 belonging to the Mycenaeans as the Late Helladic period, with
 Late Helladic I and II dating to the seventeenth through fifteenth
 centuries BC and Late Helladic III divided into three sections: IIIA
 to the fourteenth century, IIIB to the thirteenth century, and IIIC
-to the twelfth century BC.65
+to the twelfth century BC.
+
 
 The rise of the Mycenaean civilization is thought to come from them helping the Egyptians oust the Hyksos from Egypt.
 
@@ -206,5 +204,4 @@ Mycenaeans, then these peoples are unknown in the texts of the
 Egyptians and the other great powers of the Late Bronze Age in
 the Near East, but this seems unlikely given the quantities of
 Mycenaean vases and vessels found in those regions in contexts
-dating from the fourteenth to the twelfth century BC.66
-
+dating from the fourteenth to the twelfth century BC.

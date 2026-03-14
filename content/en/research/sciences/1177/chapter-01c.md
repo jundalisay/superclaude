@@ -2,9 +2,7 @@
 heading: Chapter 1c
 title: "Back To Egypt"
 weight: 12
-# author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 

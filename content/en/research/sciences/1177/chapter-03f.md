@@ -1,23 +1,18 @@
 ---
 heading: Chapter 3f
 title: "Hittites, Assyrians, Amurru, And Ahhiyawa"
-weight: 59
+weight: 69
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-
-The last kings of the Hittites—especially Tudhaliya IV (1237–
-1209 BC) and Suppiluliuma II (1207–? BC)—were very active
-during the last quarter of the thirteenth century, from ca. 1237
-BC, even as their world and civilization were showing signs of
+The last kings of the Hittites—especially Tudhaliya IV (1237–1209 BC) and Suppiluliuma II (1207–? BC)—were very active
+during the last quarter of the thirteenth century, from ca. 1237 BC, even as their world and civilization were showing signs of
 coming to an end. 
 
-Tudhaliya ordered that an entire pantheon of
-gods and goddesses be carved into the rock of a limestone outcrop
+Tudhaliya ordered that an entire pantheon of gods and goddesses be carved into the rock of a limestone outcrop
 at Yazilikaya (“Inscribed Rock”), along with a representation of
 himself, just a kilometer or so from the Hittite capital city of
 Hattusa.
@@ -135,7 +130,9 @@ have been a fairly recent occurrence, for recall that in the reign of
 Hattusili III, Tudhaliya IV’s father, the king of Ahhiyawa had been
 referred to as a “Great King” and as a “brother” by the Hittite
 ruler. Perhaps a clue can be found in one of the Ahhiyawa texts,
-known as the “Milawata Letter.” Dating most likely to the time of
+known as the “Milawata Letter.” 
+
+Dating most likely to the time of
 Tudhaliya IV, the letter makes it clear that the city of Milawata
 (Miletus) and its surrounding territory on the western coast of
 Anatolia, which had once been the main footprint of the
@@ -146,4 +143,3 @@ of the Hittite king. However, we should consider the possibility that the Hittit
 have been the result of some event of even greater magnitude,
 perhaps something that had happened back in the Aegean—that
 is, on the Greek mainland—as we shall see in the next chapter.
-

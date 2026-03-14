@@ -2,9 +2,10 @@
 title: "Supersociology FAQ"
 date: 2024-07-17
 c: "darkslategray"
-image: /graphics/socio.jpg
+# image: /graphics/socio.jpg
 description: "FAQ on Supersociology"
 icon: "Social Superphysics"
+toc: false
 ---
 
 

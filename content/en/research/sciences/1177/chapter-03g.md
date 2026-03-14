@@ -1,21 +1,22 @@
 ---
 heading: Chapter 3g
 title: "The Hittite Invasion Of Cyprus"
-weight: 59
+weight: 73
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-In the meantime, while all of this was going on, Tudhaliya IV
-decided to attack the island of Cyprus. The island had been a
-major source of copper throughout the second millennium BC,
-and it is possible that the Hittites decided to try to control this
-precious metal, so essential to the creation of bronze. However,
-we are not certain about his motivation for attacking Cyprus. It
-may instead have had something to do with the possible
+While all of this was going on, Tudhaliya 4th attacked the island of Cyprus.
+
+It had been a major source of copper throughout the 2nd millennium BC. 
+
+The Hittites tried to control copper.
+
+However, we are not certain about his motivation for attacking Cyprus. 
+
+It may instead have had something to do with the possible
 appearance of the Sea Peoples in the area or with the drought that
 is thought to have occurred in the Eastern Mediterranean at this
 time, as indicated by new scientific discoveries as well as longknown texts that mention an emergency shipment of grain sent

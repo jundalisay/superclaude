@@ -1,19 +1,18 @@
 ---
 heading: Chapter 5d
 title: Decentralization And The Rise Of The Private Merchant
-weight: 108
+weight: 138
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-Susan Sherratt concluded that the Sea Peoples represent the final step in the replacement of the old centralized politicoeconomic systems present in the Bronze Age with the new decentralized economic systems of the Iron Age—that is, the
-change from kingdoms and empires that controlled the
+Susan Sherratt concluded that the Sea Peoples represent the final step in the replacement of the old centralized politicoeconomic systems present in the Bronze Age with the new decentralized economic systems of the Iron Age—that is, the change from kingdoms and empires that controlled the
 international trade to smaller city-states and individual
-entrepreneurs who were in business for themselves. She suggested
-that the Sea Peoples can “usefully be seen as a structural
+entrepreneurs who were in business for themselves.
+
+She suggested that the Sea Peoples can “usefully be seen as a structural
 phenomenon, a product of the natural evolution and expansion of
 international trade in the 3rd and early 2nd millennium, which
 carried within it the seeds of the subversion of the palace-based
@@ -28,13 +27,13 @@ even who they were or what they did. Far more important is the
 sociopolitical and economic change that they represent, from a
 predominantly palatial-controlled economy to one in which
 private merchants and smaller entities had considerably more
-economic freedom.58
+economic freedom.
 
 Although Sherratt’s argument is elegantly stated, other
 scholars had earlier made similar suggestions. For example, Klaus
 Kilian, excavator of Tiryns, once wrote: “After the fall of the Mycenaean palaces, when ‘private’ economy had been established
 in Greece, contacts continued with foreign countries. The wellorganized palatial system was succeeded by smaller local reigns,
-certainly less powerful in their economic expansion.”59
+certainly less powerful in their economic expansion.”
 
 Michal Artzy, of the University of Haifa, even gave a name to
 some of the private merchants envisioned by Sherratt, dubbing
@@ -47,7 +46,8 @@ instance, respectfully disagrees, saying: “It is simplistic … to view
 the change between the LBA and the Iron Age as the replacement
 of palace administered exchange with entrepreneurial trade. A
 wholesale replacement of one paradigm for another is not a good
-explanation for this change and restructuring.”61
+explanation for this change and restructuring.”
+
 While there is no question that privatization may have begun
 as a by-product of palatial trade, it is not at all clear that this
 privatization then ultimately undermined the very economy from
@@ -185,4 +185,3 @@ weakened power base of empires and kingdoms of the old world,
 and attempted to enter or control the Egyptian territory. The Sea
 Peoples symbolize the last step of a long and complex spiral of
 decline in the ancient Mediterranean world.”71
-

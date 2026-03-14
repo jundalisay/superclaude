@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4f
 title: "The Philistine Pentapolis"
-weight: 76
+weight: 96
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---

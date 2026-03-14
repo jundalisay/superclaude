@@ -1,13 +1,10 @@
 ---
 heading: Chapter 4b
 title: "Economic And Commercial Connections Of Ugarit And Its Merchants"
-weight: 4
-# author: Cronin
+weight: 80
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
-
 
 
 Ugarit was clearly an international entrepôt, with ships of many nations arriving in the harbor of Minet el-Beida. 
@@ -33,23 +30,14 @@ queen, and high officials.
 The “House of Yabninu” located near the southern part of the royal palace had some tablets. 
 - It was 1,000 square meters, so Yabninu must have been a reasonably successful merchant Yabninu. 
 
-The sixty or
-more tablets that were discovered within the ruins of this house
-are thought to have originally been kept on the second floor, and
-include documents written in Akkadian, Ugaritic, and the as-yetundeciphered language known as Cypro-Minoan, chiefly used on
-the island of Cyprus but also found inscribed on vessels at Tiryns
+The over 60 tablets that were discovered within the ruins of this house were originally kept on the second floor. They include documents written in Akkadian, Ugaritic, and the as-yetundeciphered language known as Cypro-Minoan, chiefly used on the island of Cyprus but also found inscribed on vessels at Tiryns
 on the Greek mainland.
+ 
+The House of Rapanu was excavated in 1956 and 1958. The tablets, more than two hundred of them, were quickly studied and then published a decade later, in 1968. They indicate that Rapanu was
+a scribe and high-ranking adviser to the king of Ugarit, most likely Ammistamru II (ca. 1260–1235 BC). 
 
-The House of Rapanu was excavated in 1956 and 1958. The tablets, more than two hundred of them, were quickly studied and then
-published a decade later, in 1968. They indicate that Rapanu was
-a scribe and high-ranking adviser to the king of Ugarit, most likely
-Ammistamru II (ca. 1260–1235 BC). 
-
-Rapanu was apparently
-involved in some sensitive negotiations at the highest levels, as the
-contents of the archive indicate. The texts include a number of
-letters exchanged between the king of Ugarit and the king of
-Cyprus (Alashiya), written at the time that the Sea Peoples
+Rapanu was involved in some sensitive negotiations at the highest levels, as the contents of the archive indicate. The texts include a number of
+letters exchanged between the king of Ugarit and the king of Cyprus (Alashiya), written at the time that the Sea Peoples
 threatened both. There are also letters exchanged with the king of
 nearby Carchemish and with the more-distant Egyptian pharaoh;
 the latter set are concerned with some sort of incident involving
@@ -152,5 +140,4 @@ trading was a state-protected industry in Ugarit at that time. A
 contemporary letter from the Hittite king Tudhaliya IV to
 Ammistamru II, found in Rapanu’s house, states that the Ugarit
 king must not allow horses to be exported to Egypt by Hittite or
-Egyptian messengers/merchants.21
-
+Egyptian messengers/merchants.

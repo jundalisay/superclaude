@@ -1,10 +1,8 @@
 ---
-heading: Chapter 2
+heading: Chapter 2d
 title: "Gold, Fool’S Gold, And High-Level Trade"
 weight: 44
-# author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 

@@ -1,8 +1,7 @@
 ---
 heading: Chapter 2f
 title: "Suppiluliuma And The Zannanza Affair"
-weight: 47
-# author: Cronin
+weight: 51
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
@@ -202,7 +201,7 @@ Suppiluliuma died from this plague—perhaps as much a victim of
 Egyptian-Hittite contretemps as was his son Zannanza.
 
 
-## HITTITES AND MYCENAEANS
+## Hittites And Mycenaeans
 
 One additional note can be made about the Hittites at this time.
 During Suppiluliuma’s reign, there began for the Hittites a period
@@ -219,8 +218,9 @@ all of those countries.
 The exception is the area of the Aegean. Hittite objects are
 close to nonexistent in Bronze Age contexts on mainland Greece,
 Crete, the Cycladic islands, and even Rhodes, despite the latter’s
-close proximity to Turkey. There are only a dozen such objects
-that have been discovered, in contrast to hundreds of Egyptian,
+close proximity to Turkey. 
+
+There are only a dozen such objects that have been discovered, in contrast to hundreds of Egyptian,
 Canaanite, and Cypriot imports that have been found in the same
 contexts in the Aegean. Conversely, almost no Mycenaean or
 Minoan objects were imported into the Hittite homelands in

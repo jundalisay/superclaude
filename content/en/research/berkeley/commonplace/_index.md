@@ -1,21 +1,19 @@
 ---
 title: "Commonplace Book. Mathematical, Ethical, Physical, And Metaphysical"
-heading: "Englightened"
 weight: 7
 description: ""
 c: "steelblue"
+a: "George Berkeley"
 ---
 
 
 No identity (other than perfect likeness) in any individuals besides persons226.
 
-N.
-As well make tastes, smells, fear, shame, wit, virtue, vice, & all thoughts move wth local motion as immaterial spirit.
+N. As well make tastes, smells, fear, shame, wit, virtue, vice, & all thoughts move wth local motion as immaterial spirit.
 
 On account of my doctrine, the identity of finite substances must consist in something else than continued existence, or relation to determined time & place of beginning to exist—the existence of our thoughts (which being combined make all substances) being frequently interrupted, & they having divers beginnings & endings.
 
-S.
-Qu. Whether identity of person consists not in the Will?
+S. Qu. Whether identity of person consists not in the Will?
 
 No necessary connexion between great or little optique angles and great or little extension.
 

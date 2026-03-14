@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2c
 title: "The Amarna Archives"
-weight: 41
+weight: 39
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
@@ -11,7 +11,7 @@ c: darkslategray
 
 An archive of royal records of Amenhotep III was found in Tell el-Amarna, which contains the ruins of the city once called Akhetaten (meaning “Horizon of the Solar Disk”).10 
 
-Amenhotep III’s heretic son, Amenhotep IV, better known as Akhenaten, had built it in the mid-fourteenth century BC as a new capital city.
+Amenhotep 3rd’s heretic son, Amenhotep IV, better known as Akhenaten, had built it in the mid-fourteenth century BC as a new capital city.
 
 Akhenaten was Amenhotep III’s successor, probably serving as
 coruler with his father for a few years before Amenhotep died in
@@ -146,74 +146,16 @@ all were, and not all appreciated this shortcut approach to
 diplomatic relations. The Hittites of Anatolia seem to have been
 especially prickly in this regard, for one Hittite king wrote to
 another king: “Why should I write to you in terms of
-brotherhood? Are we sons of the same mother?”20
+brotherhood? Are we sons of the same mother?”
 
+It is not always clear what relationship merits use of the term “brother,” as opposed to “father” and “son,” but it usually seems to indicate equality in status or in age, with “father/son” being reserved to show respect. The Hittite kings, for instance, use “father” and “son” more frequently in their correspondence than do the rulers of any other major Near Eastern power, while the Amarna Letters employ almost entirely the term “brother,” whether for the mighty king of Assyria or the less-powerful king of Cyprus. It seems that the Egyptian pharaohs regarded the other Near Eastern kings, their trade partners, as members of an international brotherhood, regardless of age or years on the throne.
 
-It is not always clear what relationship merits use of the term
-“brother,” as opposed to “father” and “son,” but it usually seems
-to indicate equality in status or in age, with “father/son” being reserved to show respect. The Hittite kings, for instance, use
-“father” and “son” more frequently in their correspondence than
-do the rulers of any other major Near Eastern power, while the
-Amarna Letters employ almost entirely the term “brother,”
-whether for the mighty king of Assyria or the less-powerful king
-of Cyprus. It seems that the Egyptian pharaohs regarded the other
-Near Eastern kings, their trade partners, as members of an
-international brotherhood, regardless of age or years on the
-throne.21
+In some cases, however, the two kings were actually related by marriage. For instance, in letters from Tushratta of Mitanni to Amenhotep III, Tushratta refers to Amenhotep III’s wife KeluHepa as his sister, which she actually was (his father had given her in marriage to Amenhotep III). Similarly, Tushratta also gave his own daughter, Tadu-Hepa, to Amenhotep III in another arranged marriage, which made Tushratta both brother-in-law (“brother”) and father-in-law (“father”) to Amenhotep.
 
-In some cases, however, the two kings were actually related
-by marriage. For instance, in letters from Tushratta of Mitanni to
-Amenhotep III, Tushratta refers to Amenhotep III’s wife KeluHepa as his sister, which she actually was (his father had given
-her in marriage to Amenhotep III). Similarly, Tushratta also gave
-his own daughter, Tadu-Hepa, to Amenhotep III in another
-arranged marriage, which made Tushratta both brother-in-law
-(“brother”) and father-in-law (“father”) to Amenhotep. Thus, one
-of his letters legitimately starts with “Say to … the king of Egypt,
-my brother, my son-in-law … Thus speaks Tushratta, the king of
-the land of Mitanni, your father-in-law.”22 After Amenhotep III’s
-death, Akhenaten seems to have taken (or inherited) Tadu-Hepu
-as one of his wives, which gave Tushratta the right to call himself
-father-in-law to both Amenhotep III and Akhenaten in different
-Amarna Letters.23
+Thus, one of his letters legitimately starts with “Say to … the king of Egypt, my brother, my son-in-law … Thus speaks Tushratta, the king of the land of Mitanni, your father-in-law.”22 After Amenhotep III’s death, Akhenaten seems to have taken (or inherited) Tadu-Hepu as one of his wives, which gave Tushratta the right to call himself father-in-law to both Amenhotep III and Akhenaten in different Amarna Letters.
 
-In each case, the royal marriage was arranged to cement
-relations and treaties between the two powers, and specifically
-between the two individual kings. This also therefore gave
-Tushratta the right to call Amenhotep III his “brother” (though,
-technically, he was his brother-in-law) and to expect better
-relations with Egypt than he might otherwise have had. The
-marriages were accompanied by elaborate dowries, which are
-recorded in several of the Amarna Letters. For instance, one letter
-from Tushratta to Amenhotep III, which is only partially intact
-and not entirely legible, still lists 241 lines of gifts, of which he himself says: “It is all of these wedding-gifts, of every sort, that
-Tushratta, the king of Mitanni, gave to Nimmureya [Amenhotep
-III], the king of Egypt, his brother and his son-in-law. He gave
-them at the same time that he gave Tadu-Hepa, his daughter, to
-Egypt and to Nimmureya to be his wife.”24
+In each case, the royal marriage was arranged to cement relations and treaties between the two powers, and specifically between the two individual kings. This also therefore gave Tushratta the right to call Amenhotep III his “brother” (though, technically, he was his brother-in-law) and to expect better relations with Egypt than he might otherwise have had. The marriages were accompanied by elaborate dowries, which are recorded in several of the Amarna Letters. For instance, one letter from Tushratta to Amenhotep III, which is only partially intact and not entirely legible, still lists 241 lines of gifts, of which he himself says: “It is all of these wedding-gifts, of every sort, that Tushratta, the king of Mitanni, gave to Nimmureya [Amenhotep III], the king of Egypt, his brother and his son-in-law. He gave them at the same time that he gave Tadu-Hepa, his daughter, to Egypt and to Nimmureya to be his wife.”
 
-Amenhotep III seems to have utilized this diplomatic angle of
-dynastic marriage to a greater extent than did any other king of
-his time, for we know that he married, and had in his harem, the
-daughters of the Kassite kings Kurigalzu I and Kadashman-Enlil I
-of Babylon, Kings Shuttarna II and Tushratta of Mitanni, and King
-Tarkhundaradu of Arzawa (located in southwestern Anatolia).25
-Each marriage undoubtedly cemented yet another diplomatic
-treaty and allowed the kings in question to practice diplomatic
-relations as if between family members.
-Some kings attempted to take advantage of the link between
-dynastic marriage and gift giving right away, forgoing the other
-niceties. For instance, one Amarna Letter, probably from the
-Kassite king Kadashman-Enlil of Babylon to Amenhotep III,
-directly combines the two, when Kadashman-Enlil writes:
-Moreover, you, my brother … as to the gold I wrote you about, send me
-whatever is on hand, as much as possible, before your messenger [comes] to me,
-right now, in all haste … If during this summer, during the months of Tammuz
-or Ab, you send the gold I wrote you about, I will give you my daughter.26
-For this cavalier attitude toward his own daughter,
-Amenhotep III admonished Kadashman-Enlil in another letter: “It
-is a fine thing that you give your daughters in order to acquire a
-nugget of gold from your neighbors!”27 And yet, at some point
-during his reign, the transaction did take place, for we know from
-three other Amarna Letters that Amenhotep III did marry a
-daughter of Kadashman-Enlil, although we do not know her
-name.
+Amenhotep III seems to have utilized this diplomatic angle of dynastic marriage to a greater extent than did any other king of his time, for we know that he married, and had in his harem, the daughters of the Kassite kings Kurigalzu I and Kadashman-Enlil I of Babylon, Kings Shuttarna II and Tushratta of Mitanni, and King Tarkhundaradu of Arzawa (located in southwestern Anatolia).25 Each marriage undoubtedly cemented yet another diplomatic treaty and allowed the kings in question to practice diplomatic relations as if between family members.
+
+Some kings attempted to take advantage of the link between dynastic marriage and gift giving right away, forgoing the other niceties. For instance, one Amarna Letter, probably from the Kassite king Kadashman-Enlil of Babylon to Amenhotep III, directly combines the two, when Kadashman-Enlil writes: Moreover, you, my brother … as to the gold I wrote you about, send me whatever is on hand, as much as possible, before your messenger [comes] to me, right now, in all haste … If during this summer, during the months of Tammuz or Ab, you send the gold I wrote you about, I will give you my daughter.26 For this cavalier attitude toward his own daughter, Amenhotep III admonished Kadashman-Enlil in another letter: “It is a fine thing that you give your daughters in order to acquire a nugget of gold from your neighbors!”27 And yet, at some point during his reign, the transaction did take place, for we know from three other Amarna Letters that Amenhotep III did marry a daughter of Kadashman-Enlil, although we do not know her name.

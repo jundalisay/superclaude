@@ -1,13 +1,10 @@
 ---
 heading: Chapter 5
 title: A Perfect Storm Of Calamities?
-weight: 94
-# author: Cronin
+weight: 123
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
-
 
 
 
@@ -22,8 +19,7 @@ indications that an earthquake had rocked the city in the distant past.
 Photographs from Schaeffer’s excavations, for example, show long stone walls knocked off kilter, which is one of the
 hallmarks of earthquake damage.6
 
-However, current thinking on the subject puts the date of this
-earthquake at Ugarit at 1250 BC or a bit thereafter. Moreover,
+However, current thinking on the subject puts the date of this earthquake at Ugarit at 1250 BC or a bit thereafter. Moreover,
 because there are signs of restoration activities in the decades
 between the earthquake and the final demise of the city, it is now
 thought that the quake only damaged the city and did not
@@ -31,25 +27,25 @@ completely destroy it.7
 
 It is, admittedly, frequently difficult to distinguish between a
 city destroyed by an earthquake and a city destroyed by humans
-and warfare. However, there are several markers that
-characterize a destructive earthquake and which can be noted by
-archaeologists during excavations. These include collapsed,
-patched, or reinforced walls; crushed skeletons, or bodies found
+and warfare. However, there are several markers that characterize a destructive earthquake and which can be noted by
+archaeologists during excavations. 
+
+These include collapsed, patched, or reinforced walls; crushed skeletons, or bodies found
 lying under fallen debris; toppled columns lying parallel to one
 another; slipped keystones in archways and doorways; and walls
 leaning at impossible angles or offset from their original
-position.8 In contrast, a city destroyed during warfare will usually
+position.
+
+In contrast, a city destroyed during warfare will usually
 have weapons of various sorts within the destruction debris. At
 the site of Aphek, in Israel, for example, which was destroyed
 toward the end of the thirteenth century BC, the excavators found
 arrowheads stuck in the walls of the buildings, just as there are in
-Troy VIIA.9
+Troy VIIA.
 
-Thanks to recent research by archaeoseismologists, it is now
-clear that Greece, as well as much of the rest of the Aegean and
-Eastern Mediterranean, was struck by a series of earthquakes,
-beginning about 1225 BC and lasting for as long as fifty years,
-until about 1175 BC. The earthquake at Ugarit identified and
+Greece, and the rest of the Aegean and Eastern Mediterranean, was struck by a series of earthquakes, beginning about 1225 BC and lasting for as long as fifty years, until about 1175 BC.
+
+The earthquake at Ugarit identified and
 described by Schaeffer was not an isolated event; it was just one
 of many such quakes that occurred during this time period. Such
 a series of earthquakes in antiquity is now known as an
@@ -127,10 +123,9 @@ as the British archaeologist Guy Middleton has pointed out, may
 be added the categories of “stay” and “ability”: the factors
 contributing to the desire to stay at home after all, and the factors
 regarding the ability to actually migrate, including knowledge of
-sailing, passable routes, and so on.14
+sailing, passable routes, and so on.
 
-Perhaps the most famous of the arguments in favor of a
-drought as an influential factor in the demise of the Late Bronze
+Perhaps the most famous of the arguments in favor of a drought as an influential factor in the demise of the Late Bronze
 Age in the Aegean was put forth fully fifty years ago, in the mid1960s, by Rhys Carpenter, a professor of archaeology at Bryn
 Mawr College. He published a very short but extremely
 influential book in which he argued that the Mycenaean
@@ -146,6 +141,4 @@ dramatic as Carpenter had thought. Instead, there was a shift in
 population to other areas of Greece during the Iron Age, which
 may have had little to do with a possible drought. And so
 Carpenter’s ingenious theory has now fallen by the wayside,
-although perhaps it should be resurrected in light of new data
-(see below).16
-
+although perhaps it should be resurrected in light of new data.

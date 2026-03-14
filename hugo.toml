@@ -3,7 +3,7 @@ title = "Superphysics"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
-# paginate = 12
+paginate = 12
 summarylength = 30
 
 [markup]

@@ -1,11 +1,11 @@
 ---
 heading: Chapter 3e
 title: "The Exodus And The Israelite Conquest"
-weight: 59
+weight: 66
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
+
 
 
 <!-- For the Trojan War, and the city of Troy, about 1250 BC, we have
@@ -234,15 +234,18 @@ century BC.54
 In summary, although it is clear that Hazor was destroyed in
 the thirteenth or twelfth century BC, and was abandoned for a
 century or more after that, it is not clear exactly when or by
-whom it was destroyed. Similarly, the question of whether the
-Hebrew Exodus from Egypt was an actual event or merely part of
+whom it was destroyed. 
+
+Similarly, the question of whether the Hebrew Exodus from Egypt was an actual event or merely part of
 myth and legend—which is of interest to many people around the
 world—also remains unanswered at the moment. Rehashing the
 available evidence will not yield a final answer. It may be that the
 question will be resolved by a future discovery either from
 painstaking archaeological research or by a fortuitous find. It may
 even be that one of the alternative explanations of the Exodus
-story is correct. These alternatives include the possibility that the
+story is correct. 
+
+These alternatives include the possibility that the
 Israelites took advantage of the havoc caused by the Sea Peoples
 in Canaan to move in and take control of the region; that the
 Israelites were actually part of the larger group of Canaanites
@@ -254,18 +257,13 @@ probably made up centuries later, as several scholars have
 suggested. In the meantime, it will be best to remain aware of the
 potential for fraud, for many disreputable claims have already
 been made about events, people, places, and things connected
-with the Exodus. Undoubtedly more misinformation, whether
-intentional or not, will be forthcoming in the future.55
+with the Exodus. 
+
+More misinformation, whether intentional or not, will be forthcoming in the future.55
 
 
-At the moment, all that we can say for certain is that the
-archaeological evidence, in the form of pottery, architecture, and
-other aspects of material culture, indicates that the Israelites as an
-identifiable group were present in Canaan certainly by the end of
-the thirteenth century BC, and that it is their culture, along with
-that of the Philistines and the Phoenicians, that rises up out of the
-ashes of the destruction of the Canaanite civilization sometime
-during the twelfth century BC. This, in part, is why the question
-of the Exodus is relevant here, for the Israelites are among the
-groups of peoples who will make up a new world order, emerging
-out of the chaos that was the end of the Late Bronze Age.
+The Israelites were present in Canaan by the end of the 13th century BC.
+
+They, along with the Philistines and Phoenicians, rose up out of the ashes of the destruction of the Canaanite civilization sometime during the twelfth century BC. 
+
+This, in part, is why the question of the Exodus is relevant here, for the Israelites are among the groups of peoples who will make up a new world order, emerging out of the chaos that was the end of the Late Bronze Age.

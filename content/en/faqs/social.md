@@ -2,7 +2,7 @@
 title: "Social Superphysics FAQ"
 date: 2024-07-08
 c: "darkslategray"
-image: /graphics/socio.jpg
+# image: /graphics/socio.jpg
 description: "FAQ on Social Superphysics"
 icon: "Social Superphysics"
 draft: true

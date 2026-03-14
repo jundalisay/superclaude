@@ -1,9 +1,8 @@
 ---
 heading: Chapter 3b
 title: "Sinaranu Of Ugarit"
-weight: 52
+weight: 57
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -142,14 +141,15 @@ world—was signed by Ramses II and the current Hittite king
 Hattusili III, for Muwattalli II had died just two years after the
 battle. Known as the “Silver Treaty,” this agreement survives in
 several copies, since two versions were created, one by the
-Hittites and one by the Egyptians. The Hittite version, originally
-written in Akkadian and inscribed on a tablet of solid silver, was
-sent to Egypt, where it was translated into Egyptian and copied onto the walls of the Ramesseum and the temple of Amun at
-Karnak. Similarly, the Egyptian version was translated into
-Akkadian and inscribed on a tablet of solid silver, then sent to
-Hattusa, where archaeologists discovered it just a few decades
-ago.19 The Hittite version inscribed on the walls of the temples in
-Egypt begins:
+Hittites and one by the Egyptians. 
+
+
+The Hittite version, originally was written in Akkadian and inscribed on a tablet of solid silver.
+
+It was sent to Egypt, where it was translated into Egyptian and copied onto the walls of the Ramesseum and the temple of Amun at Karnak.
+
+Similarly, the Egyptian version was translated into Akkadian and inscribed on a tablet of solid silver, then sent to Hattusa, where archaeologists discovered it just a few decades
+ago.19 The Hittite version inscribed on the walls of the temples in Egypt begins:
 
 There came the (three royal envoys of Egypt . . .) together with the first and
 second royal envoys of Hatti, Tili-Teshub, and Ramose, and the envoy of
@@ -159,16 +159,18 @@ Southern and Northern Egypt, Usimare Setepenre, son of Re, Ramses II.20
 Thirteen years later, and possibly after Hattusili had personally
 visited Egypt, Ramses II married a daughter of Hattusili in a royal
 wedding ceremony, thereby cementing the treaty and their
-relationship:21
+relationship:
 
 Then he (Hattusili) caused his eldest daughter to be brought, with magnificent
 tribute (going) before her, of gold, silver, and copper in abundance, slaves, spans
 of horses without limit, cattle, goats, and sheep by ten-thousands—limitless were
 the products which they brought to the King of Southern and Northern Egypt,
 Usimare Setepenre, Son of Re, Ramses II, given life. Then one came to inform His
-Majesty, saying: ‘See, the Great Ruler of Hatti has sent his eldest daughter, with
+Majesty, saying: 
+
+‘See, the Great Ruler of Hatti has sent his eldest daughter, with
 tribute of every kind … the Princess of Hatti, together with all the grandees of
-the Land of Hatti.’22
+the Land of Hatti.’
 
 It was probably just as well that the Hittites and Egyptians
 declared peace and ceased to fight each other, for they likely
@@ -179,4 +181,3 @@ actually took place, both still resonate in the modern world today:
 in Anatolia, the Hittites may have had to contend with the Trojan War, while the Egyptians may have had to deal with the Hebrew
 Exodus. Before we discuss each of these, however, we must set the
 scene.
-

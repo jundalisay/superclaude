@@ -1,11 +1,13 @@
 ---
 title: "Supereconomics FAQ"
 date: 2024-07-17
-c: "darkslategray"
-image: /graphics/econ.jpg
+c: "teal"
+# image: /graphics/econ.jpg
+a: Supereconomics
 description: "FAQ on Supereconomics"
 icon: "Supereconomics"
 weight: 200
+toc: false
 ---
 
 {{< r a="Asker" >}}

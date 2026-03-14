@@ -1,9 +1,8 @@
 ---
 heading: Chapter 1e
 title: "Egypt And Canaan At The Battle Of Megiddo, 1479 Bc"
-weight: 24
+weight: 17
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 

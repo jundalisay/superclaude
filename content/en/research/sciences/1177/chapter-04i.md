@@ -1,20 +1,14 @@
 ---
 heading: Chapter 4i
 title: "Tiryns"
-weight: 86
+weight: 116
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-Just a few kilometers from Mycenae, the excavations at Tiryns in
-the Argolid region of mainland Greece have been ongoing since
-the days of Heinrich Schliemann in the late 1800s. Evidence for
-destructions at the site has been recorded by most of the
-excavators, but most recently by Joseph Maran, of the University
-of Heidelberg.
+Just a few kilometers from Mycenae, the excavations at Tiryns in the Argolid region of mainland Greece have been ongoing since the days of Heinrich Schliemann in the late 1800s. Evidence for destructions at the site has been recorded by most of the excavators, but most recently by Joseph Maran, of the University of Heidelberg.
 
 In 2002 and 2003, Maran continued the excavation of two
 structures, known as Buildings XI and XV within the Lower Citadel
@@ -27,10 +21,9 @@ cuneiform inscription, which was either imported or made/used
 by a foreigner living at Tiryns during this tumultuous period.110
 Maran reports that this destruction was the result of a
 “catastrophe that struck Tiryns … [and which] destroyed the
-palace and the settlement in the Lower Citadel.” He further notes,
-as Kilian had already suggested, that based on “undulating walls”
-visible in some buildings, the probable cause of the destruction
-was a strong earthquake, and that “recent excavations in
+palace and the settlement in the Lower Citadel.” 
+
+Based on “undulating walls” visible in some buildings, the probable cause of the destruction was a strong earthquake, and that “recent excavations in
 neighboring Midea have [now] supported this interpretation.”111
 Kilian had long argued that an earthquake destroyed Tiryns
 and also affected several other sites in the Argolid, such as
@@ -209,5 +202,3 @@ However, Cyprus’s resilience came about only as a result of the
 rather dramatic restructuring of its political and economic
 organization, which allowed the island and its polities to last until
 the end finally came, ca. 1050 BC.
-
-

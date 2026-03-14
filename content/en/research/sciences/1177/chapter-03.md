@@ -1,13 +1,10 @@
 ---
-heading: Chapter 3 x
+heading: Chapter 3
 title: "Act 3: Fighting For Gods And Country: The Thirteenth Century Bc"
-weight: 49
-# author: Cronin
+weight: 54
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
-
 
 
 
@@ -31,7 +28,7 @@ Bass swore to find another Bronze Age ship to prove that his conclusions about t
 This happened with the wreck at Uluburun, dated to 1300 BC, 100 years older than the Gelidonya ship.
 
 
-## THE ULUBURUN SHIP
+## The Uluburun Ship
 
 Current thinking suggests that the Uluburun ship began its journey in Egypt or Canaan and made stops at Ugarit in northern Syria and possibly at a port on Cyprus. It then headed west into the Aegean, following the southern coastline of Anatolia (modern Turkey).
 
@@ -46,19 +43,25 @@ Three Bronze Age ships have now been found, but the wreck at Uluburun is the lar
 
 Perhaps the ship was sent by the Mycenaeans on a “shopping
 expedition” to the Eastern Mediterranean and sank on the return
-voyage. The merchants on board might have acquired the raw
+voyage. 
+
+The merchants on board might have acquired the raw
 materials and other goods not available in Greece itself, such as
 the tin and copper, as well as the ton of terebinth resin (from
 pistachio trees) that could be used in the perfume manufactured
 at Pylos on mainland Greece and then shipped back to Egypt and
-the Eastern Mediterranean. There is obviously no shortage of
+the Eastern Mediterranean. 
+
+There is obviously no shortage of
 possible scenarios. If the Mycenaeans were the intended
 recipients, then they might have been waiting impatiently for the
 cargo on the ship, for it contained enough raw metal to outfit an
 army of three hundred men with bronze swords, shields, helmets,
 and armor, in addition to precious ivory and other exotic items.
-Clearly, when the boat sank that day in approximately 1300 BC,
+
+<!-- Clearly, when the boat sank that day in approximately 1300 BC,
 someone or some kingdom lost a fortune.
+ -->
 
 The Uluburun ship sank in deep water, its stern is currently 140 feet below the surface. 
 
@@ -146,4 +149,3 @@ A tablet found on the ship had its itinerary, or cargo manifest.
 The ship contained a microcosm of the international trade and contacts that were ongoing in the Eastern Mediterranean, and across the Aegean, during the early thirteenth century BC. 
 
 It had goods from at least 7 different areas. There were also at least 2 Mycenaeans on board, even though this seems to have been a Canaanite ship. 
-

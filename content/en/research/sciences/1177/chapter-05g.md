@@ -1,9 +1,8 @@
 ---
 heading: Chapter 5g
 title: Decentralization And The Rise Of The Private Merchant
-weight: 108
+weight: 158
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 

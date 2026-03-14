@@ -1,10 +1,8 @@
 ---
 heading: Chapter 1h
 title: "An Early Trojan War?"
-weight: 34
-# author: Cronin
+weight: 27
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -18,8 +16,7 @@ Rebellion, date to 1430 BC, some two hundred years before the
 generally accepted date for the Trojan War (usually placed
 between 1250 BC and 1175 BC). 
 
-All of the data presented above,
-including the Mycenaean sword with the Akkadian inscription
+All of the data presented above, including the Mycenaean sword with the Akkadian inscription
 found at Hattusa, might be simply a series of unrelated
 phenomena. However, they may possibly be interpreted as
 indicating that warriors from the Bronze Age Aegean were

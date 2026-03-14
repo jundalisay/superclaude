@@ -2,8 +2,9 @@
 title: "Bio Superphysics FAQ"
 date: 2024-07-08
 c: "darkslategray"
-image: /graphics/bio.jpg
+# image: /graphics/bio.jpg
 description: "FAQ on Bio Superphysics"
+a: "Bio Superphysics"
 icon: "Bio Superphysics"
 youtube: "klka8xfvMDY"
 ---

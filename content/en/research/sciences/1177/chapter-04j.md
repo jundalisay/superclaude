@@ -1,26 +1,18 @@
 ---
 heading: Chapter 4j
 title: "Fighting In Egypt And The Harem Conspiracy"
-weight: 89
+weight: 119
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
+The Egyptians had ended the 13th century BC on a high note, having defeated the first wave of Sea Peoples during the reign of Merneptah, in
+1207 BC. 
 
+The 12th century began calmly, under the rule of Seti 2nd and then Queen Twosret, but by the time Ramses III came to the throne in 1184 BC, events were growing tumultuous. 
 
-Returning to Egypt for a moment, we find a picture similar to that
-characterizing sites elsewhere in the Eastern Mediterranean and in
-the Aegean, and yet different. The Egyptians had ended the
-thirteenth century BC on a relatively high note, having defeated
-the first wave of Sea Peoples during the reign of Merneptah, in
-1207 BC. The twelfth century began calmly, under the rule of Seti
-II and then Queen Twosret, but by the time Ramses III came to the
-throne in 1184 BC, events were growing tumultuous. 
-
-In the fifth year of his rule, and again in his eleventh year, he fought major
-wars against the neighboring Libyans.130 In between, in his eighth
+In the 5th year of his rule, and again in his eleventh year, he fought major wars against the neighboring Libyans.130 In between, in his eighth
 year, he fought the battles against the Sea Peoples that we have
 been discussing here. And then, in 1155, after ruling for thirty-two
 years, he was apparently assassinated.

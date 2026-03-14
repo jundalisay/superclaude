@@ -1,9 +1,8 @@
 ---
 heading: Chapter 4e
 title: "Lachish"
-weight: 72
+weight: 92
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -19,46 +18,50 @@ It was one of the largest cities in all of Canaan at that time, with some six th
 
 The Stratum VII city is thought to have been destroyed by fire in about 1200 BC, but the excavators have not speculated as to the nature of the destruction or who might have been responsible. In part, this is because it is unclear how much of the city was actually destroyed. At the moment, evidence for a fiery destruction has been found in only the remains of one temple (the so-called Fosse III Temple) and the domestic quarter in Area S.50 It is conceivable that the destruction could have been caused by the first wave of Sea Peoples, who came through the region in approximately 1207 BC, but there is no proof for such an attribution.
 
-The Stratum VI city has been the major focus of scholarly
-attention to date. It appears that the survivors of the Stratum VII
+The Stratum VI city has been the major focus of scholarly attention to date. It appears that the survivors of the Stratum VII
 conflagration simply rebuilt all or part of the city and continued
-the same material culture that had existed previously. The Stratum
-VI city is thought to have been an even richer and more
+the same material culture that had existed previously. 
+
+The Stratum 6 city is thought to have been an even richer and more
 prosperous city than the one that had just been destroyed, with a
 large public building (the Pillared Building) constructed in Area S
-where domestic structures had previously stood. A new temple
-was also built, in Area P, but little remains of it because of the
+where domestic structures had previously stood. 
+
+A new temple was also built, in Area P, but little remains of it because of the
 destruction that it subsequently suffered. Imported objects from
 Egypt, Cyprus, and the Aegean, primarily pottery vessels, were
 found throughout the city in this level, attesting to its
 international connections.
 
-It is thought that there was an influx of poor refugees into the
-Stratum VI city just before large portions of it were violently
+An influx of poor refugees into the Stratum VI city just before large portions of it were violently
 destroyed.52 One structure in particular, the Pillared Building in
 Area S, “was destroyed suddenly and violently; ash layers and
 fallen mudbricks covered the whole structure, and several
 skeletons of adults, children and babies were found trapped under
-the collapsed wall.”53 Other buildings at Lachish were also
-destroyed at this time, after which there ensued a period of
+the collapsed wall.”
+
+Other buildings at Lachish were also destroyed at this time, after which there ensued a period of
 abandonment lasting up to three hundred years.54 According to
 Ussishkin: “The Level VI city was razed in a violent, fiery destruction, traces of which were detected at every point at which
-remains of Level VI were uncovered…. The destruction was
-complete, the population liquidated or driven out.”55
+remains of Level VI were uncovered…. 
+
+The destruction was complete, the population liquidated or driven out.”
 
 Earlier archaeologists thought that the city had been destroyed
 in the late thirteenth century BC, ca. 1230 BC (with the Stratum
 VII city devastated even earlier),56 but the date of the destruction
 of Stratum VI has now been changed significantly by Ussishkin,
 primarily based on the discovery of a bronze plaque, possibly part
-of a door bolt, with the cartouche of Ramses III. This plaque was
-part of a cache of broken or defective bronze objects lying buried
-and sealed beneath the destruction debris of the Stratum VI city.57
-Just as with the Ramses III pen case at Megiddo, the find
-context of this object at Lachish indicates that the destruction of
+of a door bolt, with the cartouche of Ramses III. 
+
+This plaque was part of a cache of broken or defective bronze objects lying buried
+and sealed beneath the destruction debris of the Stratum VI city.
+
+Just as with the Ramses III pen case at Megiddo, the find context of this object at Lachish indicates that the destruction of
 the city must have taken place during or after the time of Ramses
-III. Ussishkin therefore originally dated the destruction to ca. 1150
-BC, based on the fact that the bronze plaque could not have been
+III.
+
+Ussishkin therefore originally dated the destruction to ca. 1150 BC, based on the fact that the bronze plaque could not have been
 made before the accession of Ramses III to the throne in 1184 BC,
 and his belief that one must allow time for it “to have been used,
 then broken and finally discarded and set aside in this cache of
@@ -68,8 +71,9 @@ He subsequently revised the date to 1130 BC, based upon the
 discovery that a scarab of Ramses IV had been found at the site,
 probably in this level, by the previous British excavators, and
 upon comparison with Megiddo VII: he argued that if Megiddo
-had lasted that long, then so probably had Lachish.59 Another
-scholar has recently noted that there is another possible scarab of
+had lasted that long, then so probably had Lachish.59 
+
+Another scholar has recently noted that there is another possible scarab of
 Ramses IV in Tomb 570 at Lachish, but he has also emphasized
 that the reading of the name on both scarabs is not actually
 certain, and that the stratigraphy for the find-spot of the first one
@@ -134,10 +138,11 @@ human involvement.
 In summary, as with Hazor and Megiddo, it is unclear who
 destroyed Lachish VI or the earlier city of Lachish VII. Both, or
 neither, could have been devastated by the Sea Peoples, or by
-someone—or something—else entirely. As James Weinstein of
+someone—or something—else entirely. 
+
+As James Weinstein of
 Cornell University has said, “while the Sea Peoples may have been
 culpable for the end of Egyptian garrisons in southern and western
 Palestine, we must allow for the possibility that non–Sea Peoples’
 groups were responsible for the ruin of sites in other areas of the
-country.”68
-
+country.”

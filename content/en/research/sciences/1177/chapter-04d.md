@@ -1,9 +1,8 @@
 ---
 heading: Chapter 4d
 title: "Destructions In Southern Syria/Canaan"
-weight: 68
+weight: 89
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 

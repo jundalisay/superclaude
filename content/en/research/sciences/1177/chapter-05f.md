@@ -1,18 +1,18 @@
 ---
 heading: Chapter 5f
 title: Decentralization And The Rise Of The Private Merchant
-weight: 108
+weight: 148
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-In 1987, Mario Liverani, of the University of Rome, laid the
-blame upon the concentration of power and control in the
+In 1987, Mario Liverani, of the University of Rome, laid the blame upon the concentration of power and control in the
 palaces, so that when they collapsed, the extent of the disaster
-was magnified. As he wrote, “the particular concentration in the
+was magnified. 
+
+As he wrote, “the particular concentration in the
 Palace of all the elements of organization, transformation,
 exchange, etc.—a concentration which seems to reach its
 maximum in the Late Bronze Age—has the effect of transforming
@@ -69,9 +69,9 @@ well apply to our current globalized society, which is also feeling
 the effects of climate change.
 
 
-A REVIEW OF POSSIBILITIES AND COMPLEXITY THEORY
+## A Review Of Possibilities And Complexity Theory
 
-Major Observations
+### Major Observations
 
 1. Separate flourishing civilizations during the 15th to 13th centuries BC in the Aegean and Eastern Mediterranean, from the
 Mycenaeans and the Minoans to the Hittites, Egyptians, Babylonians, Assyrians, Canaanites, and Cypriots. 
@@ -85,18 +85,15 @@ East came to an end ca. 1177 BC or soon thereafter.
 3. No unequivocal proof has been offered as to who or what caused this disaster, which resulted in the collapse of these
 civilizations and the end of the Late Bronze Age.
 
-Discussion of Possibilities
 
-A. Clearly there were earthquakes during this period, but
-usually societies can recover from these.
+### Discussion of Possibilities
 
-B. There is textual evidence for famine, and now scientific
-evidence for droughts and climate change, in both the
-Aegean and the Eastern Mediterranean, but again societies
-have recovered from these time and time again.
+A. There were earthquakes during this period, but usually societies can recover from these.
 
-C. There may be circumstantial evidence for internal
-rebellions in Greece and elsewhere, including the Levant,
+B. There is textual evidence for famine, and now scientific evidence for droughts and climate change, in both the
+Aegean and the Eastern Mediterranean, but again societies have recovered from these time and time again.
+
+C. There may be circumstantial evidence for internal rebellions in Greece and elsewhere, including the Levant,
 although this is not certain. Again, societies frequently
 survive such revolts. Moreover, it would be unusual
 (notwithstanding recent experience in the Middle East to
@@ -108,9 +105,4 @@ Anatolia, Cyprus, or all of the above, found in the Levant from Ugarit in the no
 the cities were destroyed and then abandoned; others were
 reoccupied; and still others were unaffected.
 
-E. The international trade routes were affected, if not completely cut, for a period of time, but the extent to
-which this would have impacted the various individual
-civilizations is not altogether clear—even if some were  
-overly dependent upon foreign goods for their survival, as
-has been suggested in the case of the Mycenaeans.
-
+E. The international trade routes were affected, if not completely cut, for a period of time, but the extent to which this would have impacted the various individual civilizations is not altogether clear—even if some were overly dependent upon foreign goods for their survival, as has been suggested in the case of the Mycenaeans.

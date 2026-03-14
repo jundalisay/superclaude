@@ -4,8 +4,8 @@ weight: 2
 image: "/covers/essassani.jpg"
 description: "The Metaphysics followed by the Sassani"
 author: Consolidated from Bashar
+featured: true
 ---
-
 
 
 The Sassani are an advanced 5th dimensional alien species from the planet Essassani in the Shah star system near Orion's belt in a parallel reality.
@@ -28,20 +28,19 @@ Unlike the Sassani, we humans are still very much bound by the Negative force as
 
 Even if you say that the Sassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
 
-We can think of the Sassani as high end quad-core gaming laptops capable of playing EXCITING games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
+We can think of the Sassani as the latest iPhones capable of playing EXCITING games like Call of Duty Mobile. While humans are low tech Nokia 3310s capable only of single-player Snake. Humans who totally follow Sassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Nokia cannot play Call of Duty.
 
-Humans who totally follow Sassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.
+![Game](/photos/stuff/game.jpg)
 
-Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement.
-
-It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be multiplayer. 
+Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake.
 
 The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened ego that is in all humans**. 
 
-Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'. 
+Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'.
 
 Humans can upgrade themselves to Sassani by evolving genetically with each generation while following such general principles.
 {{< /d >}}
+
 
 
 ## Basic Beliefs: Signature Vibration and Synchronicity
@@ -69,16 +68,16 @@ Matter is solidified energy.
 - Matter is spirit-energy vibrating at a slower frequency.
 
 Your body is solidified, crystallized Spirit. 
-- Your body is in your Spirit.
+- Your body is in your Spirit. Your Spirit is NOT in your body. 
 
-Your Spirit is not in your body. As you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit. This makes your reality creation more malleable and easily changeable.
+As you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit. This makes your reality creation more malleable and easily changeable.
 
 All "things" are the same one thing vibrating at different rates.
 
 
 ## You Create Your Reality
 
-Physical reality is your perspective of reality. Your perspective becomes reality. 
+Physical reality is *YOUR* perspective of reality. Your perspective becomes reality. 
 
 This mirrors the quantum mechanics discovery that there is no observation without an observer.
 - Observer and observation create each other simultaneously because time is not real. 
@@ -88,9 +87,7 @@ The observation of reality creates reality. Observer needs the observed.
 
 ### You Support Your Reality. Your Reality Reflects Your Support Back to You
 
-Your reality does not support you. 
-
-Instead, **you support your reality**.
+Your reality does not support you. Instead, **you support your reality**.
 
 If you support your reality, your reality will **reflect** the support that you give it back to you.
 
@@ -139,11 +136,11 @@ The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe
 1. You exist
 2. Everything is Here/Now [Time and Space are illusions]
 3. The All is one, and the One is all. [everything is connected]
-4. What you put out is what you get back*
-5. The only constant in the universe is change -  except for the first 4 postulates, which never change.
+4. What you put out is what you get back
+5. The only constant in the universe is change -  except for the first 4 postulates, which never change*.
 
 
-{{< n n="In Hinduism, this is karma." >}}
+{{< n n="This was added by the Sassani later on. We prefer having only 4 laws" >}}
 
 
 
@@ -154,12 +151,13 @@ I realized it's because the Essassani are already unified and based on 4th densi
 
 ## The Sassani Formula
 
-1. Act on your HIGHEST Excitement, your Passion
+1. **Act on your HIGHEST Excitement, your HIGHEST Passion**
 
 This is whatever is most exciting to you at the moment, in the highest* sense.  Do this every moment that you can.
 
 
-{{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is the drawback of using that word." >}}
+{{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is why Bashar has to clarify that 'highest' will automatically be integrative and self-supporting." >}}
+
 
 2. Do this to the best of your ability. 
 

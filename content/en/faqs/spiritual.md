@@ -1,10 +1,12 @@
 ---
 title: "Spiritual Superphysics FAQ"
 date: 2024-07-08
-c: "darkslategray"
-image: /graphics/spirit.jpg
+c: "indigo"
+a: Spiritual Superphysics
+# image: /graphics/spirit.jpg
 description: "FAQ on Social Superphysics"
 icon: "Spiritual Superphysics"
+toc: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3d
 title: "Foreign Contacts And The Greek Mainland In The Thirteenth Century Bc"
-weight: 59
+weight: 63
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
@@ -59,7 +59,8 @@ shipping wine, olive oil, and other commodities, were marked
 with Cypro-Minoan signs before they were fired. Even though the
 language of Cypro-Minoan has yet to be fully translated, it seems
 clear that these vessels were being manufactured for a specific
-market in Cyprus.34
+market in Cyprus.
+
 
 Surprisingly, the Linear B tablets found at Pylos and various
 other Mycenaean mainland sites do not specifically mention trade
@@ -74,8 +75,9 @@ sumisumi.
 On these tablets are also terms like ku-pi-ri-jo, which
 has been interpreted as meaning “Cypriot.” This appears at least 16 times in the tablets at Knossos, where it is used to describe
 spices, but it is used to directly modify wool, oil, honey, vases,
-and unguent ingredients as well. It is also used at Pylos as an
-ethnic adjective to describe individuals associated with
+and unguent ingredients as well. 
+
+It is also used at Pylos as an ethnic adjective to describe individuals associated with
 sheepherding, bronze working, and mixed commodities including
 wool, cloth, and alum, which might mean that there were ethnic
 Cypriots living at Pylos at the end of the thirteenth century BC.36
@@ -86,8 +88,9 @@ Ugaritic altyy.
 
 There is also a series of ethnic names interpreted as West
 Anatolian, primarily female workers, found in the Linear B texts
-at Pylos. All refer to areas located on the western coast of
-Anatolia, including Miletus, Halikarnassus, Knidus, and Lydia
+at Pylos. 
+
+All refer to areas located on the western coast of Anatolia, including Miletus, Halikarnassus, Knidus, and Lydia
 (Asia). More than one scholar has suggested that there may also
 be Trojan women mentioned on these Pylos tablets. It has been
 hypothesized that all of these women may have been captured
@@ -101,10 +104,10 @@ Canaanite gentilics (personal names). These include Pe-ri-ta =
 and po-ni-ki-jo = “Phoenician (man or spice). In addition, A-ra-dajo = “the man from Arad (Arvad)” is also found only in the
 tablets at Knossos.39 There are names that seem Egyptian in origin
 but may have come via Canaan, namely, mi-sa-ra-jo = “Egyptian”
-and a3-ku-pi-ti-jo = “Memphite” or “Egyptian.” The former term,
-mi-sa-ra-jo, apparently comes from the Semitic word for Egypt,
-Miṣraim, more commonly found in Akkadian and Ugaritic
-documents in Mesopotamia and Canaan. The latter term, a3-ku-piti-jo, may also be derived from a Near Eastern reference to Egypt,
+and a3-ku-pi-ti-jo = “Memphite” or “Egyptian.” 
+
+The former term, mi-sa-ra-jo, apparently comes from the Semitic word for Egypt,
+Miṣraim, more commonly found in Akkadian and Ugaritic documents in Mesopotamia and Canaan. The latter term, a3-ku-piti-jo, may also be derived from a Near Eastern reference to Egypt,
 for an Ugaritic name for both Egypt and the city of Memphis was Ḥikupta. Strangely enough, the word is found in a Linear B tablet
 at Knossos as the name of an individual who was in charge of a
 flock of eighty sheep at a Cretan site; could he have been known
@@ -112,7 +115,9 @@ as “the Egyptian”?40
 
 All of these loanwords and names in the Linear B tablets show
 unambiguously that the Aegean world was in contact with Egypt
-and the Near East during the Late Bronze Age. The fact that we do
+and the Near East during the Late Bronze Age. 
+
+The fact that we do
 not have any records documenting specific data and exchanges
 may or may not be surprising, since we possess only the last year
 of the archives in each case: the tablets that were caught in the
