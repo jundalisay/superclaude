@@ -143,32 +143,46 @@
       </div>
 
 <nav class="mt-16 grid grid-cols-1 sm:grid-cols-2 gap-4 border-t border-sp-border pt-10">
-  {{ with .PrevInSection }}
+  
+  {{/* 1. NEXT ARTICLE (Now on the Left) */}}
+  {{ with .NextInSection }}
     <a href="{{ .RelPermalink }}" 
        class="group p-5 rounded-2xl bg-gradient-to-br from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-xl flex items-center gap-4">
       <svg class="w-5 h-5 text-blue-100 transform group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"/>
       </svg>
       <div>
-        <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">{{ i18n "prev_article" }}</p>
+        <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">
+          {{ .Params.heading | default (i18n "next_article" | default "Next") }}
+        </p>
         <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
       </div>
     </a>
-  {{ else }}<div></div>{{ end }}
+  {{ else }}
+    <div class="hidden sm:block"></div>{{/* Spacer for grid alignment */}}
+  {{ end }}
 
-  {{ with .NextInSection }}
+  {{/* 2. PREVIOUS ARTICLE (Now on the Right) */}}
+  {{ with .PrevInSection }}
     <a href="{{ .RelPermalink }}" 
        class="group p-5 rounded-2xl bg-gradient-to-bl from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 text-right transform hover:-translate-y-1 hover:shadow-xl flex items-center justify-end gap-4">
       <div>
-        <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">{{ i18n "next_article" }}</p>
+        <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">
+          {{ .Params.heading | default (i18n "prev_article" | default "Previous") }}
+        </p>
         <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
       </div>
       <svg class="w-5 h-5 text-blue-100 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/>
       </svg>
     </a>
+  {{ else }}
+    <div class="hidden sm:block"></div>
   {{ end }}
+
 </nav>
+
+
 
       {{ partial "comments.html" . }}
     </article>

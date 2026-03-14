@@ -3,8 +3,11 @@ title = "Superphysics"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
-paginate = 12
 summarylength = 30
+
+[pagination]
+  pagerSize = 12
+  
 
 [markup]
   [markup.tableOfContents]
