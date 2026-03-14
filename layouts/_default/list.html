@@ -38,8 +38,11 @@
       {{- $pinned := where $pages "Params.featured" "==" true }}
       {{- $regular := where $pages "Params.featured" "!=" true }}
 
+      {{/* Initialize the paginator ONCE, here, against $regular only */}}
+      {{- $paginator := .Paginate $regular 16 }}
+
       {{/* 1. Pinned Section: Always stays at the top of Page 1 */}}
-      {{- if and (gt (len $pinned) 0) (eq $.Paginator.PageNumber 1) }}
+      {{- if and (gt (len $pinned) 0) (eq $paginator.PageNumber 1) }}
       <div class="mb-12">
         <div class="flex items-center gap-3 mb-8">
           <h2 class="text-teal-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "pinned" }}</h2>
@@ -58,9 +61,8 @@
 
       {{/* 2. Regular Section: Paginated at 16 per page - EXCLUDING pinned cards */}}
       {{- if gt (len $regular) 0 }}
-        {{- $paginator := .Paginate $regular 16 }}
         <div>
-          {{- if and (gt (len $pinned) 0) (eq $.Paginator.PageNumber 1) }}
+          {{- if and (gt (len $pinned) 0) (eq $paginator.PageNumber 1) }}
           <div class="flex items-center gap-3 mb-8">
             <h2 class="text-slate-400 font-display font-bold text-xl uppercase tracking-widest">{{ i18n "latest" }}</h2>
             <div class="flex-1 h-px bg-gradient-to-r from-slate-500/50 to-transparent"></div>
@@ -127,4 +129,3 @@
 </style>
 
 {{ end }}
-

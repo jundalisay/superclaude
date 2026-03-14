@@ -1,148 +1,143 @@
 ---
-title: "Prasanna and M"
+title: "Nityagopal and Ramakrishna"
 c: "indigo"
 heading: "Chapter 52e"
-weight: 652
+weight: 648
 description: ""
 ---
 
 
-There was a big plot of wooded land to the west of the monastery compound. M. was seated alone under a tree, when suddenly Prasanna appeared. It was about 3pm
 
-{{< l a="M" >}}
-Where have you been all these days? Everyone has been so worried about you. Have you seen the brothers? When did you arrive?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-Just now. Yes, I have seen them.
-{{< /r >}}
-
-{{< l a="M" >}}
-You left a note saying that you were going to Vrindāvan. We were terribly worried about you. How far did you go?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-Only as far as Konnagar.
-{{< /r >}}
-
-Both of them laughed.
-
-{{< l a="M" >}}
-Sit down. Tell me all about it. Where did you stop first?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-At the Dakshineswar temple garden. I spent one night there.
-{{< /r >}}
-
-{{< l a="M" >}}
-(smiling): "What is Hazra's present mood?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-Hazra asked me, 'What do you think of me?'
-{{< /r >}}
-
-Both laughed.
-
-{{< l a="M" >}}
-(smiling): "What did you say?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-I said nothing.
-{{< /r >}}
-
-{{< l a="M" >}}
-Then?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-Then he asked me whether I had brought tobacco for him.
-{{< /r >}}
-
-Both laughed.
-
-{{< r a="Prasanna" >}}
-He wanted me to wait on him.
-{{< /r >}}
+M: "What other things did he say about you?"
 
 
-(Laughter.)
+{{< l a="Narendra" >}}
+Once I said to him, The forms of God and things like that, which you see in your visions, are all figments of your imagination.' He had so much faith in my words that he went to the Divine Mother in the temple and told Her what I had said to him. 
 
+He asked Her, 'Are these hallucinations, then?' Afterwards he said to me, 'Mother told me
+that all these are real.'"Perhaps you remember that he said to me, 'When you sing, He who dwells here
+(touching his heart), like a snake, hisses as it were, and then, spreading His hood,
+quietly holds Himself steady and listens to your music.'
 
-{{< l a="M" >}}
-Where did you go next?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-By degrees I got to Konnagar. I spent the night in the open. I intended to proceed farther and asked some gentlemen whether I could procure enough money there for a railway ticket to the up-country.
-{{< /r >}}
-
-
-{{< l a="M" >}}
-What did they say?
-{{< /l >}}
-
-{{< r a="Prasanna" >}}
-They said, 'You may get a rupee or so; but who will give you the whole fare?'
-{{< /r >}}
-
-Both laughed.
-
-{{< l a="M" >}}
-What did you take with you?
+"He has no doubt said many things about me; but what have I realized?"
 {{< /l >}}
 
 
-{{< r a="Prasanna" >}}
-Oh, one or two pieces of cloth and a picture of the Master. I didn't show the picture to anybody.
-{{< /r >}}
+M: "Now you have put on the garb of Śiva; you cannot touch money. Do you remember the Master's story?"
+
+NARENDRA: "Please tell it to me."
 
 
-Śaśi Śaśi's father came to the Math. He wanted to take his son home. During Sri Ramakrishna's illness Śaśi had nursed the Master for nine months with unswerving zeal.
-
-He had won a scholarship in the Entrance Examination for his academic ability and had
-studied up to the B.A., but he had not appeared at the examination. His father, a poor
-brahmin, was a devout Hindu and spent much of his time in spiritual practice. Śaśi was
-his eldest son. His parents had hoped that, after completing his education, he would
-earn money and remove the family's financial difficulties.
-
-But Śaśi had renounced the
-world for the realization of God. Whenever he thought of his father and mother he felt
-great anguish of heart. Many a time he said to his friends, with tears in his eyes: 
-
-{{< r a="Sasi" >}}
-"I am at a loss as to my duty. 
-
-I could not serve my parents; I could not be of any use to them. What great hope they placed in me! On account of our poverty my mother did not have any jewelry. 
-
-I cherished the desire to buy some for her. But now all my hopes are frustrated; it is impossible for me to return home. My Master asked me to renounce 'woman and gold'. I simply cannot return home.
-{{< /r >}}
+M: "A Bahurupi disguised himself as Śiva and visited a house. The master of the house
+wanted to give him a rupee, but he did not accept it. Then the mendicant went home,
+removed his disguise, came back to the gentleman, and asked for the rupee. 'Why didn't
+you accept it before?' he was asked. He said: 'I was impersonating Śiva, a sannyāsi. I
+couldn't touch money that time.' "
+When Narendra heard the story he laughed a long while.
+M: "You have now put on the garb of a physician, as it were. You have become the
+guardian of these young men. Yours is the entire responsibility. You have to bring up the
+brothers of the monastery."
 
 
-After Sri Ramakrishna's passing away Śaśi's father had hoped that his son would come back to his family. The boy had spent a few days at home, but immediately after the establishment of the new monastery he had begun to frequent it and, after a few days, had decided to remain there as one of the members. Every now and then his father came to the monastery to persuade him to come home; but he had not succeeded. This day, on learning that his father had come, Śaśi fled the monastery by another door. He did not want to meet him.
-
-Śaśi's father knew M. They paced the upper verandah together and talked.
-
-{{< r a="Father of Sasi" >}}
-Who is in charge of this place? Narendra alone is the cause of all the mischief. For a while all these young men returned home and devoted themselves to their studies.
-{{< /r >}}
+{{< l a="Narendra" >}}
+Whatever spiritual disciplines we are practising here are in obedience to the Master's command. But it is strange that Ram Babu criticizes us for our spiritual
+practices. He says: 'We have seen him. What need have we of any such practice?' "
+{{< /l >}}
 
 
-M: "There is no master here. They are all equals. What can Narendra do? Can a man renounce home against his own will? Have we householders, for instance, been able to give up our homes altogether?"
+M: "Let people act according to their faith."
+
+NARENDRA: "But the Master asked us to practise sādhanā ."
 
 
-{{< r a="Father of Sasi" >}}
-You are doing the right thing. You are serving both the world and God. Can't one practise religion after your method? That is exactly what we want Śaśi to do. Let him live at home and come here too. You have no idea how much his mother weeps
-for him.
-{{< /r >}}
+## Master's love for Narendra
+
+Narendra was again telling M. about the Master's love for him.
 
 
-M. became sad and said nothing.
+{{< l a="Narendra" >}}
+How many times he prayed to the Divine Mother for my sake! After my father's death, when I had no food at home and my mother and sisters and brothers were starving too, the Master prayed to the Divine Mother to give me money.
+{{< /l >}}
 
-{{< r a="Father of Sasi" >}}
-If you speak of searching for holy men, I know where to find a good one. Let Śaśi go to him.
-{{< /r >}}
+M: "Yes, I know that. You once told me."
 
+NARENDRA: "But I didn't get any money. The Master told me what the Divine Mother
+had said to him: 'He will get simple food and clothing. He will eat rice and dāl.'
+
+"He loved me so much! But whenever an impure idea crept into my mind he at once knew about it. While going around with Annada, sometime I found myself in the
+company of evil people. On those occasions the Master could not eat any food from my hands.
+
+He could raise his hand only a little, and could not bring it to his mouth. On onesuch occasion, while he was ill, he brought his hand very close to his mouth, but it did not go in. He said to me, 'You are not yet ready.'
+
+"Now and then I feel great scepticism. At Baburam's house it seemed to me that nothing
+existed-as if there were no such thing as God."
+
+M: "The Master used to say that he too had passed through that mood."
+
+Both M. and Narendra remained silent. Then M. said: "You are all indeed blessed! You
+think of the Master day and night."
+
+
+{{< l a="Narendra" >}}
+But how little it is! We don't yet feel like giving up the body because we haven't realized God.
+{{< /l >}}
+
+
+It was night. Niranjan had just returned from Puri The members of the Math, and M.,
+greeted him with great joy. Niranjan was telling them his experiences. He was then
+about twenty-five years old.
+
+The evening worship was over. Some of the brothers were meditating. But many of them
+assembled in the big hall around Niranjan. They were talking. After nine o'clock Śaśi
+offered food to the Deity.
+
+The members of the Math finished their supper, which consisted of home-made bread, a
+little vegetable, and a little hard molasses.
+
+
+
+Saturday, May 7, 1887
+
+It was the full-moon day of the month of Vaiśākh. Narendra and M. were seated on a couch in M.'s study in Calcutta. They were talking. Just before Narendra's arrival, M. had
+been studying The Merchant of Venice, Comus, and Blackie's Self-culture, which he
+taught at school.
+
+Narendra and the other brothers of the monastery were full of yearning for God-
+realization. A fire of intense renunciation raged in their hearts.
+
+
+{{< l a="Narendra" >}}
+I don't care for anything. You see, I am now talking with you, but I feel like getting up this minute and running away.
+{{< /l >}}
+
+Narendra sat in silence a few minutes. Then he said, "I shall fast to death for the
+realization of God."
+
+M: "That is good. One can do anything for God."
+
+NARENDRA: "But suppose I cannot control my hunger."
+
+M: "Then eat something and begin over again."
+
+Narendra remained silent a few minutes.
+
+
+{{< l a="Narendra" >}}
+It seems there is no God. I pray so much, but there is no reply-none whatsoever.
+
+"How many visions I have seen! How many mantrās shining
+in letters of gold! How many visions of the Goddess Kāli! How many other divine forms! But still I have no
+peace. "Will you kindly give me six pice?"
+{{< /l >}}
+
+
+Narendra asked for the money to pay his carriage hire to the Barangore Math. Just then Satkari arrived in a carriage. Of the same age as Narendra, he dearly loved the members of the monastery.
+
+He lived near the Math and worked in Calcutta. The carriage was his own. Narendra returned the money to M. and said that he would go with Satkari in his
+carriage. He asked M. to give them some refreshments. 
+
+M. accompanied the two friends to the Barangore Math. He wanted to see how the brothers spent their time and practised sādhana. He wanted to see how Sri
+Ramakrishna, the Master, was reflected in the hearts of the disciples. Niranjan was not
+at the Math. He had gone home to visit his mother, the only relative he had in the world.
+Baburam, Sarat, and Kāli had gone to Puri. They intended to spend a few days there.
 

@@ -8,7 +8,11 @@ description: ""
 
 
 
-In the twinkling of an eye Sri Ramakrishna goes into deep samādhi. An amazing transformation takes place in the Master before the very eyes of the devotees. His face shines with a heavenly light. His two hands are raised in the posture of granting boons and giving assurance to the devotees; it is the posture one sees in images of the Divine Mother. His body is motionless; he has no consciousness of the outer world.
+In the twinkling of an eye Sri Ramakrishna goes into deep samādhi. An amazing transformation takes place in the Master before the very eyes of the devotees. 
+
+His face shines with a heavenly light. His hands are raised in the posture of granting boons and giving assurance to the devotees, it is the posture one sees in images of the Divine Mother. 
+
+His body is motionless, he has no consciousness of the outer world.
 
 He sits facing the north. Is the Divine Mother of the Universe manifesting Herself through his person? Speechless with wonder, the devotees look intently at Sri Ramakrishna, who appears to them to be the embodiment of the Divine Mother Herself.
 

@@ -1,152 +1,209 @@
 ---
-title: "Rakhal's yearning for God"
+title: "Prasanna's Austere Sādhanā"
 c: "indigo"
-heading: "Chapter 52f"
-weight: 658
+heading: "Chapter 52d"
+weight: 648
 description: ""
 ---
 
 
+Narendra was in charge of the members of the monastery. Prasanna had been practising austere sādhanā for the past few days. Once Narendra had told him of his desire to fast to death for the realization of God.
 
-Rakhal and M. were walking on the verandah to the east of Kāli Tapasvi's room.Rakhal (earnestly): "M., let us practise sādhanā !
+During Narendra's absence in Calcutta, Prasanna had left the monastery for an unknown destination. When Narendra heard about it, he said to the brothers, "Why did Raja allow him to go?" 
 
-We have renounced home for good. When someone says, 'You have not realized God by renouncing home; then why all this
-fuss?', Narendra gives a good retort. He says, 'Because we could not attain Ram, must
-we live with Shyam and beget children?' Ah! Every now and then Narendra says nice
-things. You had better ask him."
-
-
-M: "What you say is right. I see that you too have become restless for God."
-
-{{< r a="Rakhal" >}}
-M., how can I describe the state of my mind? Today at noontime I felt great yearning for the Narmada. M., please practise sādhanā ; otherwise you will not succeed. Even Sukadeva was afraid of this world. That is why immediately after his birth he fled the world. His father asked him to wait, but he ran straight away.
-{{< /r >}}
-
-M: "Yes, the Yogopanishad describes how Sukadeva fled this world of māyā. It also
-describes Vyāsa's conversation with Suka. Vyāsa asked his son to practise religion in the
-world. But Suka said that the one essential thing is the Lotus Feet of God. He also
-expressed his disgust with worldly men for getting married and living with women."
-
-{{< r a="Rakhal" >}}
-Many people think that it is enough not to look at the face of a woman. But what will you gain merely by turning your eyes to the ground at the sight of a woman?
-
-Narendra put it very well last night, when he said:
-{{< /r >}}
+But Rakhal had not been in the monastery at the time, having gone to the Dakshineswar temple for a stroll.
 
 {{< l a="Narendra" >}}
-Woman exists for a man as long as he has lust. Free from lust, one sees no difference between man and woman.
+Just let Raja come back to the monastery! I shall scold him. Why did he allow Prasanna to go away? (To Harish) I am sure you were lecturing him then, standing with your feet apart. Couldn't you prevent his going away?
 {{< /l >}}
 
-
-
-M: "How true it is! Children do not see the difference between man and woman."
-
-Rakhal: "Therefore I say that we must practise spiritual discipline. How can one attain
-Knowledge without going beyond māyā?
-
-"Let's go to the big hall. Some gentlemen have come from Baranagore. Narendra is
-talking with them. Let's go and listen to him."
-M. did not enter the room. As he was pacing outside he overheard some of the
-conversation.
-
-{{< l a="Narendra" >}}
-There is no fixed time or place for the Sandhya and other devotions.
-{{< /l >}}
-
-{{< r a="Someone" >}}
-Sir, can one realize God through spiritual practice alone?
-{{< /r >}}
-
-{{< l a="Narendra" >}}
-Realization depends on God's grace. Sri Krishna says in the Gitā: The Lord, O Arjuna, dwells in the hearts of all beings, causing them, by His māyā, to revolve as if mounted on a machine. Take refuge in Him with all thy heart, O Bharata. By His grace wilt thou attain Supreme Peace and the Eternal Abode.
-
-Without the grace of God mere worship and prayer do not help at all. Therefore one should take refuge in Him.
-{{< /l >}}
-
-<!-- May we come now and then and disturb you?"NARENDRA: "Please come whenever you like. We take our baths in the Ganges at your
-ghat.
-
-GENTLEMAN: "I don't mind that. But please see that others don't use it."
-NARENDRA: "We shall not use your ghat, if that is what you mean"
-GENTLEMAN: "No, I don't mean exactly that. But if you see other people using it, then
-you had better not go." -->
-
-It was dusk. The evening worship was over. The devotees, as usual, sang in chorus, "Jaya Śiva Omkara". Afterwards they assembled in the room of the "Dānās". M., too, was seated there. Prasanna was reading from the Guru Gitā. Narendra sang:
+Harish replied in a very low voice, "Brother Tārak asked him not to go, but still he went away.
 
 
 {{< l a="Narendra" >}}
-I salute the Eternal Teacher, who is the Embodiment of the Bliss of Brahman,
-The Essence of knowledge and liberation, the Giver of Supreme Joy;
+(to M.): "You see what a lot of trouble I am in! Here, too, I am involved in a world of māyā. Who knows where this boy has gone?"
+{{< /l >}}
 
-Who is all-pervading, like the Ākāśa, and is the goal of the Vedānta's teachings; Who is One, eternal, stainless, pure, and is the constant Witness of all things; Who dwells beyond all moods, transcending the three Gunās.
+Rakhal returned from Dakshineswar. Bhavanāth had accompanied him.
 
-There is none, higher than the Guru, none better than the Guru; This is what Śiva has declared. I shall sing of the blessed Guru, the Supreme Brahman; I shall worship the blessed Guru, the Supreme Brahman; I shall meditate on the blessed Guru, the Supreme Brahman; I shall bow down to the blessed Guru, the Supreme Brahman.
+Narendra told Rakhal about Prasanna's going away from the monastery. Prasanna had left a letter for Narendra. This was the substance of the letter: "I am going to Vrindāvan on foot.
+
+It is very risky for me to live here. Here my mind is undergoing a change.
+
+Formerly I used to dream about my parents and other relatives. Then I dreamt of woman, the embodiment of māyā. I have suffered twice; I had to go back to my relatives at home. Therefore I am going far away from them. The Master once told me, 'Your people at home are apt to do anything; never trust them.'
+
+Rakhal said: "These are the reasons for his going away. Once he remarked: 'Narendra often goes home to look after his mother, brothers, and sisters. And he supervises the family's lawsuit. I am afraid that I too may feel like going home, following his example.'"
+
+
+Narendra remained silent.
+
+Rakhal was talking to them about making pilgrimages. He said: "We have achieved nothing by staying here. The Master always exhorted us to realize God. Have we
+succeeded?"
+
+Rakhal lay down. The other devotees were either lying down or sitting.
+
+Rakhal: "Let us go to the Narmada."
+
+NARENDRA: "What will you achieve by wandering about? Can one ever attain jnāna, that you are talking about it so much?"
+
+A DEVOTEE: "Then why have you renounced the world?"
+
+NARENDRA: "Must we live with Shyam because we have not seen Ram? Must we go on begetting children because we have not realized God? What are you talking about?"
+Narendra went out, returning after a few minutes. Rakhal was still lying down.
+
+A member of the monastery who was also lying down said teasingly, feigning great suffering on account of his separation from God: "Ah! Please get me a knife. I have no
+more use for this life. I can't stand this pain any more!"
+
+NARENDRA (feigning seriousness): "It is there. Stretch out your hand and take it."
+
+Everybody laughed.
+
+
+{{< l a="Narendra" >}}
+Even here we are involved in māyā. Why have we become sannyāsis, I wonder?
 {{< /l >}}
 
 
-As Narendra sang these verses from the Guru Gitā in his melodious voice, the minds of
-the devotees became steady, like a candle-flame in a windless place.
-Rakhal was seated in Kāli Tapasvi's room. 
+Rakhal: "I have read in a book that sannyāsis should not live together. The author has described a city of sannyāsis."
 
-Prasanna sat near him. M., too, was there.Rakhal had renounced the world, leaving behind his wife and child. A fire of intense
-renunciation burnt day and night in his heart. He was thinking seriously of going away,
-by himself, to the bank of the Narmada or some other holy place. Still, he was trying to
-persuade Prasanna not to run away from the monastery.
+ŚAŚI: "I don't care about sannyās or any such thing. There is no place where I cannot live."
+
+They were talking of Bhavanāth, whose wife had been seriously ill.
 
 
-{{< r a="Rakhal" >}}
-(to Prasanna): "Where do you want to go, running away from here? Here you are in the company of holy men. Wouldn't it be foolish to run away from this? Where will you find another like Narendra?"
-{{< /r >}}
-
-
-Prasanna: "My parents live in Calcutta. I am afraid of being drawn by their love: That
-is why I want to flee to a distant place."
-
-{{< r a="Rakhal" >}}
-Can our parents love us as intensely as Gurumaharaj [meaning Sri Ramakrishna] did? What have we done for him, to deserve all this love? Why was he so eager for our welfare in body, mind, and soul? What have we done for him, to deserve 
-all this?
-{{< /r >}}
-
-
-{{< l a="M" >}}
-Ah! Rakhal is right. Therefore a person like Sri Ramakrishna is described as the 'Ocean of Mercy without any reason'.
+{{< l a="Narendra" >}}
+Rakhal, I understand that his wife has been snatched from the jaws of death. Is that why he went to Dakshineswar to enjoy the fresh air?"
 {{< /l >}}
 
-{{< r a="Prasanna" >}}
-Don't you yourself feel like running away from here?
-{{< /r >}}
+Ram Babu intended to build a temple in the garden at Kankurgachi, where some of Sri Ramakrishna's ashes were buried.
 
-{{< r a="Rakhal" >}}
-Yes, now and then I have a fancy to spend a few days on the bank of the Narmada. I say to myself, 'Let me go to a place like that and practise sādhanā in a garden.' Again, I feel a strong desire to practise the Panchatapa for three days. But I hesitate to live in a garden that belongs to worldly people.
+NARENDRA (to Rakhal): "Ram Babu has made M. one of the trustees of the garden."
 
-{{< /r >}}
+M. (to Rakhal): "But I don't know anything about it."
 
-Tārak and Prasanna were talking in the room of the "Dānās". Tārak had lost his mother. His father, like Rakhal's father, had married a second time. Tārak himself had married but had lost his wife. Now the monastery was his home. He too was trying to persuade Prasanna to live there.
+It was dusk. Śaśi burnt incense before the picture of Sri Ramakrishna in the worship room and then before the pictures of gods and goddesses in the other rooms.
+The evening worship began. The members of the Math and the other devotees stood with folded hands near the door of the shrine and witnessed the Ārati . Then they all
+sang in chorus the following hymn to Śiva, to the accompaniment of bell and gong:
 
-{{< r a="Prasanna" >}}
-I have neither jnāna nor prema. What have I in the world for a support?
-{{< /r >}}
+Jaya Śiva Omkara, Bhaja Śiva Omkara,
+Brahma Vishnu Sadasiva,
+Hara Hara Hara Mahadeva!
+Narendra had introduced this song for the evening worship. It is sung in the temple of
+Śiva in Benares.
+It was eleven o'clock at night when their supper was over. The brothers prepared a bed
+for M., and all went to sleep.
+It was midnight. M. was wide awake. He said to himself: "Everything is as it was before.
+The same Ayodhya only Rāmā is not there." M. silently left his bed. It was the full-moon
+night of Vaiśākh, the thrice-blessed day of the Buddhists, associated with Buddha's birth,
+realization, and passing away. M. was walking alone on the bank of the Ganges,
+contemplating the Master.
 
-{{< r a="Tarak" >}}
-It is no doubt difficult to attain jnāna; but how can you say you have no prema?
-{{< /r >}}
+It was Sunday. M. had arrived the day before and was planning to stay till Wednesday.
 
-{{< r a="Prasanna" >}}
-I have not yet wept for God. How can I say I have prema? What have I realized in all these days?
-{{< /r >}}
+The householder devotees generally visited the monastery on Sundays.
 
-{{< r a="Tarak" >}}
-But you have seen the Master. And why do you say that you have no jnāna?
-{{< /r >}}
+The Yoga-vāsishta was being studied and explained. M. had heard a little about the teachings of this book from Sri Ramakrishna. It taught the absolute identity of Brahman and the soul, and the unreality of the world. The Master had forbidden him and the other
+householder devotees to practise spiritual discipline following the method of the Advaita
+Vedānta, since the attitude of the oneness of the soul and God is harmful for one still
+identified with the body. For such a devotee, the Master used to say, it was better to
+look on God as the Lord and oneself as His servant.
 
-{{< r a="Prasanna" >}}
-What sort of jnāna are you talking about? Jnāna means Knowledge. Knowledge of what? Certainly of God. But I am not even sure of the existence of God. 
-{{< /r >}}
+The conversation turned to the Yoga-vāsishta.
 
-{{< r a="Tarak" >}}
-Yes, that's true. According to the Jnāni, there is no God.
-{{< /r >}}
+M: "Well, how is Brahmajnana described in the Yoga-vāsishta?"
 
-{{< l a="M" >}}
-Ah! The Master used to say that those who seek God pass through the state that Prasanna is now experiencing. In that state sometimes one doubts the very existence of God. I understand that Tārak is now reading Buddhistic philosophy. That is why he says that according to the Jnāni God does not exist. But Sri Ramakrishna used to say that the Jnāni and the bhakta will ultimately arrive at the same destination. 
-{{< /l >}}
+Rakhal: "Hunger, thirst, pain, pleasure, and so on, are all māyā. The annihilation of the mind is the only means to the realization of Brahman."M: "What remains after the annihilation of the mind is Brahman. Is that not true?"
+
+Rakhal: "Yes."
+
+M: "Sri Ramakrishna used to say that Nangta taught him that way. Have you found in the book that Vasishtha asked Rāma to lead a householder's life?"
+
+Rakhal: "I haven't yet found anything like that in the book. Rāma is not even admitted by the author to be an Incarnation of God."
+
+Presently Narendra, Tārak, and another devotee returned from the bank of the Ganges.
+
+They had intended to go to Konnagar, on the other side of the river, but had been unable to find a ferry-boat. They sat down. The conversation about the Yoga-vāsishta went on.
+
+NARENDRA (to M.): "There are many nice stories in the book. Do you know the incident
+of Lila?"
+M: "Yes, I have read the book here and there. Lila had attained Brahmajnana."
+NARENDRA: "Yes. Do you remember the story of Indra and Ahalyā, and the story of how
+King Viduratha became a chandala?"
+M: "Yes, I remember."
+NARENDRA: "What a wonderful description of the forest!"
+
+Narendra and the other devotees were going to the Ganges to bathe. M. accompanied them. The sun was very hot; so M. took his umbrella. Sarat, a devotee from Barangore,
+was going with them to take his bath. He often visited the monastery.
+
+M. (to Sarat): "It is very hot."
+
+NARENDRA: "Is that your excuse for taking the umbrella?"
+
+M. laughed.
+
+The members of the monastery were clad in Gerruā 
+
+M. (to Narendra): "It is really very hot. One is liable to get a sunstroke."
+NARENDRA: "I see that your body is the obstacle in your path of renunciation. Isn't that
+so? I mean you, Devendra Babu-"
+
+M. laughed and said to himself, "Is it merely the body?"After bathing, the devotees returned to the monastery. They washed their feet and entered the worship room. Saluting the Deity, they offered flowers. Narendra was a little late in coming to the worship room. He found that there was no
+flower on the tray. There were only a few bel-leaves. He sprinkled the leaves with
+sandal-paste and offered them to Sri Ramakrishna. He rang the bell, saluted the Deity
+again, and joined the other brothers in the big hall, which was known as the room of the
+"Dānās".
+
+The members of the Math called themselves the "Dānās" and the "Daityās", which mean the "ghosts" and the "demons", the companions of Śiva. They took these names because of their utter indifference to worldly pleasures and relationships.
+
+The southernmost room of the second floor was used for meditation, contemplation, and study, and was known as Kāli Tapasvi's room, since Kāli used to shut himself in there most of the day. North of this room was the worship room, and north of that, again, was
+the room where the offerings for the worship were prepared. From this room the
+devotees used to watch the evening worship. North of the "offering room" was the room
+of the "Dānās", a very long hall where the members of the Math used to assemble. Here
+the householder devotees and visitors were received. North of this hall was a small room
+where the devotees took their meals. East of the worship room and of Kāli Tapasvi's
+room ran a long verandah, at the south-west corner of which was the library of a society
+of Barangore. Between Kāli Tapasvi's room and this library was a staircase; and north of
+the dining room was another staircase, leading to the roof.
+
+Narendra and the other members of the Math often spent their evenings on this roof.
+
+There they devoted a great deal of time to discussion of the teachings of Sri Ramakrishna, Sankaracharya, Ramanuja, and Jesus Christ, and of Hindu philosophy,
+European philosophy, the Vedas, the Puranas, and the Tantras. 
+
+Narendra, who had a beautiful voice, used to sing in the room of the "Dānās" and teach music to Sarat and a few others. Kāli used to take lessons on the instruments. Many, many happy hours they spent together in that hall, dancing and singing.
+
+Narendra was sitting with the devotees in the room of the "Dānās". The conversation turned to religious preaching.
+Vidyāsāgar's reluctance about preaching 
+
+M. (to Narendra): "Vidyāsāgar says that he does not speak about God to anyone for fear of being caned."
+
+NARENDRA: "For fear of being caned? What does he mean?"
+
+M: "This is what Vidyāsāgar says: 'Suppose that after death we all go to God. The emissaries of Death will have sent Keshab Sen there too. Keshab Sen, no doubt,
+committed sins while he lived on earth. When that is proved, perhaps God will say, "Give
+him 25 stripes." Then suppose I am taken to God. I used to go to Keshab Sen'sBrahmo Samaj in my earthly life. I too have committed many sins; so I too am ordered to be caned. Then suppose I say to God that I acted in that sinful way because I listened to Keshab's preaching. Thereupon God will ask His emissaries to bring Keshab back. 
+
+When he is brought, the Almighty Lord will say to him: "Did you really preach that way?
+
+You yourself knew nothing about spiritual matters and yet you had the hardihood to teach others about God! Emissaries! Give him twenty-five stripes more." ' "
+
+Everybody laughed.
+
+M: "Therefore Vidyāsāgar says: 'I cannot take care of my own self, should I be foolish enough to get an additional caning for misleading others? I myself do not understand God. How shall I lecture to others about Him?' "
+
+NARENDRA: "How has he-who could not understand God-understood other things?"
+
+M: "What other things?"
+
+NARENDRA: "He says that he has not understood God. But how, then, can he understand charity and doing good to others? How can he understand about the school?
+How can he understand about educating boys by establishing schools? How can he understand that it is right to enter the world, marry, and beget children?
+"He who rightly understands one thing understands everything else."
+
+M. (to himself): "Yes, Sri Ramakrishna, too, said that he who knows God knows everything else. Further, he said to Vidyāsāgar that leading a worldly life, establishing
+schools, and so on are the outcome of rajas. The Master also said that Vidyāsāgar's philanthropy was due to the influence of sattva on rajas. Such rajas is not harmful." 
+
+After their meal the brothers of the monastery rested. M. and Chunilal were conversing. Chunilal told M. of his first visit to Sri Ramakrishna at Dakshineswar. He also told him how at one time he had felt disgusted with the world, had renounced it, and had wandered about in holy places. A few minutes later Narendra came and sat by them. He asked the younger Gopal to prepare a smoke for him. The latter had been meditating.
+
+Narendra said to him: "I say! Prepare a smoke. What do you mean by this meditation?
+
+First of all prepare yourself for spiritual life by serving God and holy men; then you will be able to meditate. First of all karma, and then meditation." Everybody laughed.
