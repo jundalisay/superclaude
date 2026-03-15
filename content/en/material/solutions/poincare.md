@@ -16,25 +16,59 @@ In a previous post, we mentioned how Poicare's Law of Relativity can replace Ein
 But how does Einstein's Relativity trap humans on Earth without those new technologies?
 
 
+## Enshrining Limitation
+
+Basically, Einstein limited the 5 Elements of Nature to just 3 Elements as:
+
+1. Earth (Strong Force)
+2. Water (Weak Force, this why neutrinos are only detectable in liquids)
+3. Fire (Electromagnetism)
+
+The 2 other Elements of Air and Aether are invisible and so are invalid in shallow Physics. 
+
+
 ## The History of the Aether
 
 In the 18th century, the wave-based nature of electromagnetism and of space were not well understood.  
 
-In 1816, Augustin Fresnel presented his wave theory which eventually became the luminiferous aether hypothesis. 
+The corruption began in 1816, when Augustin Fresnel presented his wave theory which eventually became the luminiferous aether hypothesis. 
 
-This said that space had an invisible energetic (elastic) aether that propelled light and gave it wave properties. This was also eventually adopted by Maxwell.
+Unlike Huygen's aether which was based on the 2nd Element, Fresnel's aether is based on the 3rd Element. 
+- Huygen's aether was based on vacuum as the space the light goes through in outer space
+- Fresnel's aether was based on solid crystals as the space the light goes through in transparent solids
 
-Since this propulsion was directional, then there should be some drag from the opposite direction as to change the speed of light and make it variable. 
-- This variable speed of light is consistent with Descartes' Physics.
+This is why Fresnel's aether is **STATIC** that somehow gave light its wave properties. This was also eventually adopted by Maxwell.
 
-However, the Michelson-Morley experiment later revealed that the speed of light was constant everywhere and in all directions. 
+So the Fresnel error corrupted the aether to be static outside but dynamic inside. 
 
-- Before this, it was thought that space was constant and light was changing. 
-- After this, physicists realized that space was changing and light was constant.
+
+<!-- - This is totally different from the aether of Huygens which is dynamic.  -->
+
+ <!-- had an invisible energetic (elastic) aether that propelled light and gave it  -->
+
+Since waves are directional, then there should be some drag from the opposite direction as to change the speed of light and make it variable. 
+- This variable speed of light is consistent with Descartes' Physics as proven by superluminal motion.
+
+It means that the speed of light is constant within a vortex, but different outside of it. 
+- Examples of vortices are Sun-vortex, Galaxy-vortex, Cluster-vortex, universe-vortex i.e. superluminal motion shows different speeds of light depending on vortex
+
+ <!-- since the aether is determined by the vortex i.e the sun or galaxy black hole. -->
+
+ 
+The Michelson-Morley experiment correctly revealed that the speed of light was constant within the solar system in all directions.
+- In Descartes, theory c should be a bit different when measured in another star
+
+But since the 19th century had a corrupted aether theory, they misinterpreted the findings. 
+
+<!-- - Before this, it was thought that space was constant and light was changing. 
+- After this, physicists realized that space was changing and light was constant. -->
+
 
 This prompted Lorentz to create length contractions (1892), and Poincare to create the Law of Relativity (1902) in space.
+- This is really the changes in the 1st Element within the 2nd Element
 
-[Poincare's Law of Relativity](/research/poincare/science/chapter-05b) is based on a body's current state compared to its initial state and the current states of other bodies, all referencing the current absolute state of the system.
+
+[Poincare's Law of Relativity](/research/poincare/science/chapter-05b) is based on a body's current state (which we call the aetherspace, which is different from the aether) compared to its initial state and the current states of other bodies, all referencing the current absolute state of the system.
 
 This is consistent with:
 - Descartes' Rule 1 of state-change (since the Cartesian aether is arbitrary)
@@ -47,9 +81,9 @@ This is consistent with:
 For some reason, Einstein comes out of nowhere in 1905 to hack Poincare's Law of Relativity. 
 
 He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times: 
-- Newtonian time
-- Electromagnetic time
-- Mental time
+- Newtonian time (3rd Element)
+- Electromagnetic time (1st Element)
+- Mental time (5th Element)
 
 This flexibility of time is why Poincare wrote: 
 
@@ -104,5 +138,3 @@ The problem is that physicists have been conditioned to think that Einstein was 
 The total refutation of Einstein's Relativity is essential not only in matching the findings of JWST and Hubble. It is also needed to harmonize Classical Mechanics with Quantum Mechanics through the Cartesian Aether as a 'Grand Unifying  Theory'. 
 
 This unification will  create the anti-gravity that is needed for nuclear fusion and space travel that is superior to nuclear fission and Newtonian rockets respectively. 
-
-

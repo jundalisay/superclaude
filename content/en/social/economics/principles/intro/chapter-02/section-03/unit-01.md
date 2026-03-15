@@ -2,8 +2,9 @@
 heading: "Unit 1"
 title: "Use Value and Marginal Utility"
 date: 2025-01-20
-image: /photos/social/pantry.jpg
-weight: 12
+image: /photos/stuff/gauge.jpg
+# image: /photos/social/pantry.jpg
+weight: 16
 description: "We expose the flaws of Marginal Utility"
 writer:
   name: Juan

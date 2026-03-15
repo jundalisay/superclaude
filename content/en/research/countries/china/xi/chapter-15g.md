@@ -9,49 +9,47 @@ c: "firebrick"
 ---
 
 
+{{< l a="Xi Jinping" >}}
+Our party should do a good job in self-construction and truly become the most powerful political party in the world.
+{{< /l >}}
 
-Comrade Xi Jinping pointed out: "Our party should do a good job in self-construction and truly become the most powerful political party in the world."3 This exposition clearly expresses the lofty aspiration and lofty pursuit of the CCP to comprehensively promote the new great project of party building, embodies the firm determination and high self-confidence of the Party Central Committee with Comrade Xi Jinping as the core in managing the party and administering the party, and reflects the broad vision and historical responsibility of a Marxist political party like ours.
 
-Looking at the whole world, no other political party has the courage and self-confidence of the CCP, and has such a sense of mission and responsibility. The reason for building the CCP into the most powerful political party in the world is that our Party is a Marxist political party ruling in a large developing country with a population of 1.4 billion, shouldering the historic heavy task of realizing the great rejuvenation of the Chinese nation and promoting the development of human civilization. Pursuing and realizing communist ideals is the strength for our party to become the most powerful political party.
+<!-- This exposition clearly expresses the lofty aspiration and lofty pursuit of the CCP to comprehensively promote the new great project of party building, embodies the firm determination and high self-confidence of the Party Central Committee with Comrade Xi Jinping as the core in managing the party and administering the party, and reflects the broad vision and historical responsibility of a Marxist political party like ours. -->
 
-Realizing the great rejuvenation of the Chinese nation is the most arduous mission entrusted to our
-Party by history, and opening up a brand-new path of human development of world significance is
-the unswerving goal of our Party. For the sake of lofty ideals, sacred missions, and great causes, we
-must build the Party into the most powerful political party in the world.
+In the whole world, no other political party has:
+- the courage and self-confidence of the CCP
+- such a sense of mission and responsibility
 
-What are the most powerful political parties in the world, what are the hallmark characteristics of
-the most powerful political parties, different angles will have different criteria, and different answers
-will be given to different types of political parties. Obviously, for any political party, innate does
-not equal strong, big does not equal strong, strong in a certain aspect does not equal strong, only
-when it is strong in all aspects can it be called the strongest. As a CCP with
-lofty aspirations, the most basic thing to achieve the goal of becoming the most powerful political
-party in the world is to always walk in the forefront of the times, win the heartfelt support of the
-people, be brave in self-revolution, withstand the tests of various storms, and constantly enhance
-political leadership, ideological leadership, mass organization and social appeal. When these "four
-forces" are strong, the CCP can truly build the most powerful political party
-in the world.
+The reason for building the CCP into the most powerful political party in the world is that our Party is a Marxist political party ruling in a large developing country with a population of 1.4 billion.
 
-1. Continuously enhance political leadership
+It shoulders the historic heavy task of realizing the great rejuvenation of the Chinese nation and promoting the development of human civilization.
 
-Political leadership occupies a primary position in the leadership and governing ability of a political
-party, and is the basic measure of party leadership. Political leadership is composed of factors such
-as the nature, purpose, objectives and behavior of a political party, which is mainly reflected in the
-ability to formulate and implement political programs, political lines, principles and policies, etc.,
-showing the actual state and effect of party building and political capacity operation. The history of
-political parties in ancient and modern China and abroad shows that if a political party is lost in its
-political direction and political pursuit, it will not be able to formulate a correct political program
-and political line, and it will lose its political leadership and inevitably decline. To build the
-CCP into the most powerful political party in the world, we must constantly
-strengthen the party's political leadership.
+Pursuing and realizing communist ideals is the strength for our party to become the most powerful political party.
 
-Demonstrate political leadership in grasping the direction of social progress. The size and level of
-political leadership depend to a large extent on whether a political party can establish a program of
-action that conforms to the general trend of historical development. Marx believed that the formal
-program of a political party is a banner that is publicly erected, a boundary marker by which people
-judge the nature and level of the party's activities.
+Realizing the great rejuvenation of the Chinese nation is the most arduous mission entrusted to our Party by history, and opening up a brand-new path of human development of world significance is the unswerving goal of our Party. For the sake of lofty ideals, sacred missions, and great causes, we must build the Party into the most powerful political party in the world.
 
-The highest program of the CCP is to realize communism, which is the
-direction of social development that the entire human society strives to pursue. At the same time, in
+What are the most powerful political parties in the world, what are the hallmark characteristics of the most powerful political parties, different angles will have different criteria, and different answers will be given to different types of political parties. Obviously, for any political party, innate does not equal strong, big does not equal strong, strong in a certain aspect does not equal strong, only when it is strong in all aspects can it be called the strongest.
+
+As a CCP with lofty aspirations, the most basic thing to achieve the goal of becoming the most powerful political party in the world is to always walk in the forefront of the times, win the heartfelt support of the people, be brave in self-revolution, withstand the tests of various storms, and constantly enhance political leadership, ideological leadership, mass organization and social appeal. When these "four forces" are strong, the CCP can truly build the most powerful political party in the world.
+
+
+### 1. Continuously enhance political leadership
+
+Political leadership:
+- occupies a primary position in the leadership and governing ability of a political party
+- is the basic measure of party leadership
+- is composed of factors such as the nature, purpose, objectives and behavior of a political party
+  - These are mainly reflected in the ability to formulate and implement political programs, political lines, principles and policies, etc., showing the actual state and effect of party building and political capacity operation. 
+
+The history of political parties in ancient and modern China and abroad shows that if a political party is lost in its political direction and political pursuit, it will not be able to formulate a correct political program and political line.
+
+It will lose its political leadership and inevitably decline. To build the CCP into the most powerful political party in the world, we must constantly strengthen the party's political leadership.
+
+Demonstrate political leadership in grasping the direction of social progress. 
+
+The size and level of political leadership depend to a large extent on whether a political party can establish a program of action that conforms to the general trend of historical development. Marx believed that the formal program of a political party is a banner that is publicly erected, a boundary marker by which people judge the nature and level of the party's activities.
+
+The highest program of the CCP is to realize communism, which is the direction of social development that the entire human society strives to pursue. At the same time, in
 different historical periods, the Party has always put forward inspiring goals in accordance with the
 state of social development, the will of the people and the needs of cause development, and united
 and led the people to fight for them. The CCP adheres to the correct political
@@ -96,7 +94,8 @@ stressed: "In today's world, the situation is changing, and what is most needed 
 determination.1 This strategic determination is the determination of political direction and political
 prospects, that is, the unceasing struggle and perseverance that does not achieve the goal.
 
-2. constantly enhance the power of ideological leadership
+
+### 2. constantly enhance the power of ideological leadership
 
 The power of thought is enormous. Napoleon once said that there are only two powers in the world,
 the sword and the mind, and in the long run, the sword always defeats the mind. Correct thinking
@@ -129,6 +128,8 @@ problems in the development and change of the international situation; we must n
 commanding heights of theory and morality, but also always pay attention to enhancing the practical
 character of innovation theory. Only in this way can theoretical innovation have a source of living
 water, and innovation theory can better play its role in ideological leadership.
+
+
 To enhance ideological leadership, we should also attach great importance to the work of arming
 ourselves with theory. Scientific theories do not spontaneously go to the masses, and attention must
 be paid to theoretical indoctrination. During the years of revolution and construction, our Party
@@ -137,7 +138,9 @@ several generations. In the new period and new era of reform and opening up, our
 continuously promoted the study and publicity of Deng Xiaoping Theory, the important thinking of
 "three represents", the scientific outlook on development, and Xi Jinping's thought on socialism with
 Chinese characteristics for a new era, and has given full play to the ideological guide role of the
-party's theoretical innovation achievements. To do a good job in arming ourselves with theory, we
+party's theoretical innovation achievements. 
+
+To do a good job in arming ourselves with theory, we
 must make overall plans to promote theoretical research, theoretical education, and theoretical
 propaganda; on the one hand, we must conduct in-depth study and rational study of the party's
 innovative theory, and profoundly explain the background, basis, rich connotation, essence, and

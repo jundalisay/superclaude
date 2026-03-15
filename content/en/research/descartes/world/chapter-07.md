@@ -36,9 +36,10 @@ Among these Laws of Nature are 3 rules of motion.
 
 <!-- . Whence it follows of necessity that from then on, in beginning to move, they also began to change and diversify their motions by colliding with one another. Thus, if God  That is to say, with  and consequently always producing the same effect in substance, there occur, as by accident, many diversities in that effect. And it is easy to believe that God, who, as everyone must know, is immutable, always acts in the same way. Without, however, involving myself any further in these metaphysical considerations, I will set out here two or three of the principal rules according to which one must think God to cause the nature of this new world to act and which will suffice, I believe, for you to know all the others.[31] -->
 
+
 ## Rule 1: State Continuity
 
-{{< i s="/graphics/physics/rule1.jpg" a="No Void" >}}
+{{< i s="/graphics/physics/rule4.jpg" a="Inertia" >}}
 
 Rule 1: A particle always continues in the same state unless a collision with others causes it to change that state.
 
@@ -68,7 +69,6 @@ These words are so obscure that <!--  I am constrained to leave them here in the
 
 
 {{< n n="In the philosophical motion, the potency is the possibility to be in other states. This actually matches the 1st Rule of Descartes. An example is the motion or movement from sadness to happiness. The motion can only take place if there was a potency of happiness. The act of being in that potency results in motion. Similarly, an immovable thing has no potency for movement and so has no motion." >}}
-
 
 
 On the contrary, the motion which I speak of can be known by geometers based on <!-- themselves, who among all men studied most to conceive very distinctly the things they were considering, judged it simpler and more intelligible than --> their surfaces and lines.
@@ -111,8 +111,8 @@ These two I cannot find in the real world.
 
 ## Rule 2: Motion Transfer
 
+{{< i s="/graphics/physics/rule3.jpg" a="Collisions" >}}
 
-{{< i s="/graphics/physics/rule4.jpg" a="Collisions" >}}
 
 Rule 2: When `Body A` pushes `Body B`, `A` gives to `B` the motion that it has lost at the same time. `B` can only take as much motion from `A` that `B` absorbs from `A`.
 

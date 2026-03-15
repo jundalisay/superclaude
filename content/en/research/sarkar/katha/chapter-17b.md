@@ -6,11 +6,11 @@ description: "Then I heard Baba chanting, Hari, Hari"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
+date: 1955-03-25
 ---
 
 
-25th MARCH 1955
+<!-- 25th MARCH 1955 -->
 
 On the evening of March 25, we went for a walk as usual. But midway, Baba turned and came back to the ashram. 
 
@@ -40,13 +40,20 @@ by the other disciples watching Him.
 
 I entered the room without permission because of my fear.
 
-I rushed into the room and spoke directly to Baba, “It was only 3 days ago that You took a long samkalpa to live and now You are again doing the same thing. I beg You, please stop repeating this mantra!”
+I rushed into the room and spoke directly to Baba:
+
+{{< r a="Nagina" >}}
+It was only 3 days ago that You took a long samkalpa to live and now You are again doing the same thing. I beg You, please stop repeating this mantra!
+{{< /r >}}
 
 But Baba kept on repeating "Hari, Hari".
 
 None of the disciple brothers there had been present on March 22 and so did not understand what I was talking about and stared at me in puzzled disapproval.
 
-“Quick brothers” I said, “everyone must take hold of Him. Start pressing Baba's feet and body and until He takes a samkalpa again, do not to leave Him.” 
+{{< r a="Nagina" >}}
+Quick, everyone must take hold of Him. Start pressing Baba's feet and body and until He takes a samkalpa again, do not to leave Him.
+{{< /r >}}
+
 
 Exhorting them thus, I fell at Baba’s feet and began to massage them and asked the others to do the same whilst explaining briefly what had occurred on the 22nd March.
 
@@ -66,25 +73,51 @@ Except for Bindeshwariji, each one of us was massaging some part of Baba's body.
 
 Bindeshwariji overwhelmed by emotion, was sitting in one corner breathing loud and long. Every one of us was in tears and praying to Baba not to give up His body.
 
-Totally desperate, I said to Baba, "Baba, this is cheating us. You told us that You had taken a samkalpa to remain for a long time and it was only for three days! Do not leave us in this sad and helpless condition."
+Totally desperate, I said to Baba:
 
-Suddenly, Baba said, "Kishanji, your work is done".
+{{< r a="Nagina" >}}
+Baba, this is cheating us. You told us that You had taken a samkalpa to remain for a long time and it was only for three days! Do not leave us in this sad and helpless condition.
+{{< /r >}}
+
+Suddenly, Baba said:
+
+{{< l a="Baba" >}}
+Kishanji, your work is done.
+{{< /l >}}
+
 
 Baba was addressing Kishanji, a disciple who was not there that day. I felt that if Baba is talking in an incoherent manner to absent people, then the end must be near. 
 
-This thought fuelled my anxiety further and weeping all the more I cried out, "Baba, what are you saying? Kishanji is not here!"
+This thought fuelled my anxiety further and weeping all the more I cried out:
+
+{{< r a="Nagina" >}}
+Baba, what are you saying? Kishanji is not here!
+{{< /r >}}
+
 
 Baba only responded with "Hari, Hari." 
 
-I was so confused and desperate at this juncture, that I asked one of the disciple brothers who was sitting pressing Baba’s temples, "Cover Baba’s mouth with your hands and stop Him chanting ‘Hari, Hari’.” 
+I was so confused and desperate at this juncture, that I asked one of the disciple brothers who was sitting pressing Baba’s temples:
+
+{{< r a="Nagina" >}}
+Cover Baba’s mouth with your hands and stop Him chanting ‘Hari, Hari’.
+{{< /r >}}
+
 
 Later I was horrified with myself that I could have suggested such a thing, but then I was in a state of shock.
 
 Then Baba addressed Vishvanathji, who was near His head, "What do you desire?”
 
-He replied, "May you be forever in front of me, Baba!”
 
-Baba said, “Tathastu! May it be as you wish!”, then continued chanting "Hari, Hari".
+{{< r a="Vishvanath" >}}
+May you be forever in front of me, Baba!
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Tathastu! May it be as you wish!
+{{< /l >}}
+
+He then continued chanting "Hari, Hari".
 
 More than 3 decades later, Acarya Vishvanathji could still, whenever and wherever he desired, see Baba and converse with Him. This is the miracle of the infinite grace and blessings of Baba. 
 
@@ -92,24 +125,47 @@ I feel honoured that for this unique blessing, Baba selected my boyhood friend S
 
 But now, in the roo with Baba, we lost all courage and were all weeping bitterly still clutching hold of Him.
 
-Then Baba seemed moved by compassion by our pitiable condition and said, "All right, get me seated, I shall take a samkalpa again."
+Then Baba seemed moved by compassion by our pitiable condition and said:
+
+{{< l a="Baba" >}}
+All right, get me seated, I shall take a samkalpa again.
+{{< /l >}}
+
+
 We all cried out in relief and we supported and lifted Him up as Hesat in the lotus posture. 
 
 Then He asked us to leave the room.
 
-I protested, "Baba, 3 nights ago, you allowed us to remain in the room with You. Why are You asking us to leave the room today?"
+I protested:
 
-Baba said, “Nagina' it will be proper that all of you go out."
+{{< r a="Nagina" >}}
+Baba, 3 nights ago, you allowed us to remain in the room with You. Why are You asking us to leave the room today?
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Nagina' it will be proper that all of you go out.
+{{< /l >}}
+
 
 Thereafter, on Baba's instructions and assurance, we all want out and closed the door. We all come to the inner veranda and began anxiously to wait for Baba to call us back in the room. 
 
 For sometime we waited patiently but as time passed, we began to worry. I told a senior disciple brother that delay could be dangerous and so he should seek Baba’s permission so that we may enter the room.
 
-He called from outside, “Baba - may we come in?”
+He called from outside:
 
-Baba said in a very solemn and clear voice, “Do not disturb me. I am taking a long samkalpa”.
+“Baba - may we come in?”
 
-From the very sound of His voice, we could understand that Baba was now perfectly healthy and we settled down to wait more easy in our minds, After sometime Baba called us in. He was still sitting in padmasana and He held His right foot with both His hands and said. “All is well, all is well.” 
+Baba said in a very solemn and clear voice:
+
+{{< l a="Baba" >}}
+Do not disturb me. I am taking a long samkalpa.
+{{< /l >}}
+
+
+From the very sound of His voice, we could understand that Baba was now perfectly healthy and we settled down to wait more easy in our minds, After sometime Baba called us in. He was still sitting in padmasana and He held His right foot with both His hands and said. 
+
+
+“All is well, all is well.” 
 
 It was a mystery to me what Baba was doing and meant by this, and to whom He was speaking. It remains a mystery to this day.
 
@@ -146,8 +202,8 @@ Not quite understanding this, I sat looking into His face awaiting some explanat
 
 Baba had become very serious, and I knew that He meant what He said about not wishing to continue living on this planet. He still wanted to give up His body. It saddened me that He kept coming back to that subject. But to maintain the conversation, I said, “Baba, what is ‘nirman citta’ person?”
 
-“After intense meditation, when sadhakas attain the final goal of sadhana – absolute perfection – if they have also exhausted all their samskaras, they continue tolive on the planet with the same bodies, or they obtain new bodies in order to serve
-creation. The samkalpa to serve creation for a fixed period of time becomes a new samskara for them. They stay on the planet for that fixed time and then depart. Such perfected beings are called ‘nirman citta’”.
+
+“After intense meditation, when sadhakas attain the final goal of sadhana – absolute perfection – if they have also exhausted all their samskaras, they continue tolive on the planet with the same bodies, or they obtain new bodies in order to serve creation. The samkalpa to serve creation for a fixed period of time becomes a new samskara for them. They stay on the planet for that fixed time and then depart. Such perfected beings are called ‘nirman citta’”.
 
 “Baba do these perfected beings also need to do sadhana?”
 
@@ -160,11 +216,15 @@ I shivered in my heart again, lest Baba leave us too.
 
 On March 28, as Baba and I were crossing the wide bridge over the railway line on the way to the field.
 
-Baba said, “Nagina, if I do not keep my body, get ‘Ananda Marga Elementary Philosop[hy’ translated into Maithili by a native speaker of the language. 
+{{< l a="Baba" >}}
+Nagina, if I do not keep my body, get ‘Ananda Marga Elementary Philosop[hy’ translated into Maithili by a native speaker of the language. 
 
-Mithila badly needs the philosophy and it is an appropriate place for Tantra sadhana. In the past, Tantra sadhana used to be very popular there, but today the practitioners are widely scattered. I desire that Mithila should regain its proper status in this regard”. 
+Mithila badly needs the philosophy and it is an appropriate place for Tantra sadhana. In the past, Tantra sadhana used to be very popular there, but today the practitioners are widely scattered. I desire that Mithila should regain its proper status in this regard”.
+{{< /l >}}
 
-Baba said no more, but His words, ‘I I do not keep my body’, created heart-breaking confusion in my mind. Again I wondered if His samkalpa of March 25th had also been for a short time. 
+
+Baba said no more, but His words, ‘I do not keep my body’, created heart-breaking confusion in my mind. 
+
+Again I wondered if His samkalpa of March 25th had also been for a short time. 
 
 The darkness of gloomy fears surrounded my mind. I felt like asking Baba about it again, but the thought of His leaving the body was so painful that I dared not reinforce it in His mind by bringing it up, so I decided to hold my tongue.
-
