@@ -1,13 +1,13 @@
 ---
-heading: "Section 2"
-linkTitle: 
+heading: "Unit 2"
+linkTitle: Radiation
 title: "Heat Radiation"
 # date: 2023-03-01
 date: 2024-12-29
 weight: 10
 description: ""
-image: /graphics/physics/vmagnet.jpg
-icon: "Juan"
+image: /photos/physics/firepiston.jpg
+# icon: "Juan"
 ---
 
 

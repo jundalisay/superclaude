@@ -7,7 +7,7 @@ description: "Colors are part of the spectrum."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 7
+weight: 9
 icon: "Juan"
 ---
 

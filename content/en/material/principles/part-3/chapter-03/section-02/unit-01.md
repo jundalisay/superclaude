@@ -1,6 +1,6 @@
 ---
 heading: "Unit 1"
-title: "Light"
+title: "What is Light?"
 date: 2024-12-28
 image: /graphics/physics/spectrum.jpg
 description: "Colors are part of the spectrum."
@@ -9,6 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 7
 icon: "Juan"
+draft: true
 ---
-
 

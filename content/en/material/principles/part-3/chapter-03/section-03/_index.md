@@ -1,11 +1,11 @@
 ---
 heading: "Section 3"
-linkTitle: Virtual Photons
-title: "The Media of Radiance: Light, Magnetism, Heat"
+linkTitle: Heat
+title: "Heat"
 date: 2026-01-08
-weight: 6
-image: /photos/objects/magnet.jpg
-description: "The Medium of Radiance facilitates the dynamics of the radiant layer"
-icon: "Juan"
+weight: 8
+image: /photos/physics/nuke.jpg
+description: "Heat is a medium of the Radiant Layer"
+# icon: "Juan"
 ---
 
