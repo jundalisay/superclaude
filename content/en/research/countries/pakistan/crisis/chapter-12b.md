@@ -1,195 +1,148 @@
 ---
-title: "Integrated Energy Planning"
-weight: 84
+title: "Pakistan's Energy Resource Potential"
+weight: 81
 description: "Beyond the 'Crisis State'"
-heading: Chapter 12b
+heading: Chapter 11f
 c: darkgreen
 author: Ziad Alahdad
 ---
 
 
 
-Energy analysts and policy-makers alike agree that energy sector planning and policy formulation need to be carried out on an integrated basis. The appropriate mechanism to achieve this is known by various acronyms.
+Pakistan's energy resource potential is substantial and remains largely unharnessed although not all of it is currently financially or technically exploitable. 
 
-This chapter refers to it as IEP (Integrated Energy Planning). The concept and principles of IEP presented here are those advocated in Integrated National Energy Planning in Developing Countries', amended to reflect conditions in Pakistan. In practice, as is the case in Pakistan, investment planning and pricing are often carried out on an ad hoc, crisis-driven, sub-sector basis. 
+This potential is in the form of depleting fossil fuels (oil, gas, coal) as well as renewables (hydro, solar, wind, wood fuels and agricultural residues). Among fossil fuels, in the petroleum (oil and gas) sub-sector, Pakistan has a large prospective area (or, in geological language, sedimentary basin) covering 830,000 square kilometres. Probable reserves are estimated at twenty-seven billion barrels of oil and 282 trillion cubic feet (TCF) of gas.
 
-Typically, as also happens in Pakistan, electricity and oil sub-sector plans are prepared largely independent of each other, as well as of other energy sub-sectors. Moreover, the powerful electric power sub-sector often dominates policy decisions on pricing, subsidies and investment priorities, which are inevitably skewed in its favour to the detriment of other sub-sectors, and the economy as a whole. In times of cheap energy, the repercussions could be relatively benign. However, with rising and volatile international oil prices and acute energy shortages, as is the case today, IEP
-becomes vital.
+Of this, 936 million barrels of oil had been confirmed and 609 million barrels produced till 2007, leaving 327 million barrels of proven reserves yet to be recovered. The reserves-to-production ratio stands at 14, critically low considering the high and growing level of oil imports, and compared with the worldwide ratio of forty. For natural gas, 53 TCF have been confirmed, of which 23 TCF were produced till 2007, leaving 30 TCF of proven reserves.
 
-IEP, as an integral part of economic planning, enables optimum use of energy resources to achieve socio-economic development. Since energy affects every part of the economy, the energy sector is analogous to the financial sector. Some analysts describe energy as the physical counterpart of money. IEP develops a coherent set of policies covering: energy needs to meet growth and environmental targets; optimum fuels mix; conservation; energy security through diversification and reducing dependence on external sources; energy needs of the poor; foreign exchange savings; trade deficit management and revenue generation to finance sector development. IEP integrates the policies and plans of the energy sector with national economic objectives, while ensuring close coordination and consistency between each of the energy sub-sectors.
+The reserves-to-production ratio is twenty-one— uncomfortably low given Pakistan's heavy dependence on natural gas as the primary commercial fuel, and in comparison with a worldwide ratio of 59.
 
-IEP is a five-stage process (Figure 1):
+Till early 2009, 725 exploratory wells had been drilled which
+resulted in over 219 oil and gas discoveries. This works out to a drilling
+density of 1.99 wells per 1,000 square kilometres—far lower than the
+world average of ten.
 
-1. Establishing the socio-economic background and national objectives
-2. Analysing energy demand
-3. Identifying supply options
-4. Constructing the energy balance
-5. Formulating policy and analysing its impact. 
+However, the success rate of 1:3.3 is much better than the world average of 1:10. The success rate coupled with the large
+sedimentary basin implies that if the exploration level is increased, there
+are good chances of significantly raising the level of proven reserves and,
+consequently, production of oil and gas. 
 
-The energy balance, the core of IEP, assigns specific energy sources to corresponding uses. It stipulates the supply of various forms of energy, its conversion and losses and the net available for consumption, broken down by sector. IEP yields a set of detailed energy policies and plans (including policy tools and investment) for the short, medium, and long term, under various scenarios, tested for impact on the economy. The success of IEP depends upon establishing a separate ministry or department for energy with over­arching responsibility for the sector and access to top policy levels. As an interim measure, an integrated energy cell can be set up in a central agency such as a planning ministry.
+This, however, is proving difficult since vast portions of the sedimentary basin lie in areas where
+security deters any significant exploration—more so as such activity is
+usually carried out by international oil companies with their own
+manpower and risk capital.
 
-'Integration' under IEP does not signify the revival of central planning or building a more intrusive or manifold bureaucracy. On the contrary, the mechanism is designed to facilitate coordination, and the concomitant institutional structure streamlines and considerably reduces bureaucracy and red tape. This can become contentious because of the reluctance of concerned ministries, agencies and individuals to accept realignment of the power structure that must accompany such changes— hence the importance of political will.
+Pakistan's indigenous coal reserves are huge, estimated at 186 billion
+tons, of which the Thar deposit of 175 billion tons is the fifth largest in
+the world. Proven reserves stand at 1,980 million tons and at the present
+249production level the reserves-to-production ratio is well over 400. This
+signals the need to enhance production significantly. However, most of this
+coal is of low quality (high sulphur and ash content) and is located in
+remote areas. Its exploitation therefore requires expensive excavation,
+treatment and transport infrastructure, in areas where security is a concern.
 
+Renewable energy sources are also significant.
 
-### International Experience
+Hydroelectric potential in Pakistan is an impressive 41,700 MW of which only 6,600
+MW or 16% has been harnessed till today. For mini-hydro (units up
+to 5 MW capacity), the potential is about 1500 MW of which only 60 MW
+(4%) has been tapped. Pakistan's almost entirely untapped wind
+energy potential, according to the USAID Renewable Energy Lab, is
+estimated at 41,000 MW of power generation based on areas of favourable
+wind regimes.
 
-The concept of IEP was introduced in the 1970s and successfully
-applied in a wide range of countries, amended to suit individual country
-conditions. However, in the 1990s, in the wake of a major push by
-international development agencies to promote market economies in the
-developing world, it began to wane on the assumption that the free market
-will determine appropriate policy choices. This assumption does not hold
-for most countries in the developing world. It might have been
-ideologically motivated to counter the 'Gosplan' heritage of the newly
-independent states of the former Soviet Union. Fast-forward to today. The
-World Bank is preparing a global energy sector strategy. Feedback from
-countries has identified the absence of long-term energy planning as an
-emerging issue—signalling the importance of reverting to coordinated
-long-term planning for those countries that may have discarded the model
-and suffered as a consequence. Common sense seems to be prevailing over
-ideology to achieve a practical balance.
+Solar energy is abundant and remains unharnessed except for a few
+isolated projects. If only 0.25% of the land area of the province of
+Balochistan were covered by solar panels of 20% efficiency, this
+would be enough to provide electricity to the entire country. 
 
-Through all this, most developing countries maintained some form of integrated energy planning.
+However, the feasibility of generating large quantities of wind and solar power (while
+improving with continuing research) is highly questionable. Estimates for
+non-commercial sources, mainly wood fuels, are less reliable. These
+resources are considerable and constitute 45% of the energy supply
+mix for the country. However, there is ample evidence that in several parts
+of the country, unregulated harvesting of this poorly managed resource is
+severely impairing its sustainability.
 
-Success was characterised by three ingredients: comprehensive coordinated analysis; supporting institutional arrangements at the policy level, and sound implementation. Analytical sophistication varied, but institutional structures have evolved into a central energy policy institution, configured in one of two ways: a stand-alone integrated energy ministry or an integrated energy department/agency within a central ministry. A few examples of countries which fall into one or other of the two arrangements (both supportive of IEP) include: Indonesia, Malaysia, Thailand, Philippines, Poland, Bulgaria, Romania, Hungary, Slovakia, Czech Republic, Cambodia, Viet Nam, Russia, Ukraine, Belarus, Turkey, Tajikistan, Kyrgyzstan, Uzbekistan, Uganda, and Kazakhstan. Two countries with well-managed energy sectors, which can serve as examples for Pakistan are Turkey and Kazakhstan, in terms of an integrated line ministry model and well-coordinated and successfully implemented policies.
+The current state of the energy deficit and its projected growth is even more worrisome for the future. Data from the Planning Commission,
+although ignoring non-commercial energy, illustrates the magnitude of the
+crisis ahead. It projects an annual energy demand increasing from the
+present level of around 60 MTOE to 198 MTOE by the year 2025. 
 
+This is
+based on an annual economic growth of 6.5%. While not consistent
+with recent trends, this could be envisioned over the longer term, with an
+abating global financial crisis and a cautiously optimistic view of
+Pakistan's economic regeneration.
 
-### IEP in Pakistan
+The total indigenous supply over the same period increases from around 40 MTOE to only 75 MTOE. Oil and gas supplies are assumed to
+increase only slightly in line with constraints on future exploration activities.
 
-Many analysts have drawn attention to the lack of energy policy
-coordination. 'The Weight of History: Pakistan's Energy Problem' which
-focuses on commercial energy, emphasises the need for a comprehensive
-approach. On traditional fuels, 'Energy, Poverty Reduction and Equitable
-Development in Pakistan' states: 'it is imperative that government policies and
-strategies recognize' the 'near invisibility of the role of traditional fuels', for
-which it advocates 'better inter-sectoral policy coordination, and integrated
-development approaches' maintaining that 'the costs of inaction are high.'
-The absence of comprehensive integrated energy planning has also
-evoked international comment. Quoting an executive, the New York Times
-wrote: 'There is nobody in Islamabad who is working on a coherent, integrated
-plan. The discussion just keeps going in circles.' USAID's energy assessment
-of Pakistan listed, as the first item, the following shortcoming: 'The ability to
-perform system-wide planning in the electricity and energy sector as a whole,
-both in terms of technical analysis and ability to develop and implement plans
-of action.'
+In contrast, indigenous energy from coal, hydroelectricity, nuclear and non-traditional renewable sources, are assumed to increase
+significantly in an attempt to offset limitations in oil and gas. The resulting
+deficit grows from the already disquieting level of around 20 MTOE to a
+staggering 122 MTOE by 2025. These figures, perhaps more than any
+other, underscore the fragility of the energy sector, implying a long-term
+dependence on external sources. This is neither a viable nor affordable
+scenario.
 
-Building capacity requires coordinated interventions at three levels:
-training at the individual level; building appropriate institutions to
-effectively utilise trained manpower; and establishing a policy environment
-which provides incentives for institutions to function efficiently. In the
-energy sector Pakistan has relatively good access to training both within the
-256country and overseas. Despite the gradual erosion of trained manpower, the
-sector retains a modicum of quality. Weaknesses in the policy environment
-have been discussed. What warrants a closer look is the organisational
-structure of policy institutions especially the lead ministries, main regulatory
-bodies and planning institutions in the energy sector. The Ministry of
-Petroleum and Natural Resources heads the oil, gas and coal sub-sectors. The
-Oil and Gas Regulatory Authority regulates petroleum product distribution
-including CNG for vehicles, sets safety standards and equalises prices across
-the country. Coal exploration and development are undertaken by the Pakistan
-Mineral Development Corporation through leases granted to the private
-sector, administered by provincial governments. The Ministry for Water and
-Power is responsible for the electric power sub-sector. The Pakistan Atomic
-Energy Commission oversees nuclear power generation. The National
-Electric Power Regulatory Authority is charged with ensuring fair
-competition and consumer protection. The Private Power and Infrastructure
-Board was set up to improve investment incentives in the power sector as a
-one-stop facility for investors.
+Three characteristics of Pakistan's energy sector take on special
+significance. First, the indigenous resource potential is substantial, not-
+withstanding some critical exploitation issues. Two, the energy deficit is
+prohibitively large and expanding. Three, nearly half the population,
+mainly the rural poor, is not connected to the commercial grids and relies
+on non-commercial energy. This combination often tempts policymakers to
+promote the harnessing of all forms of energy available. This is a common
+trap, particularly in a severely cash-strapped environment such as
+Pakistan. In this approach, for example, undue priority is given to
+renewable forms such as solar and wind, since they are considered free and
+able to reach poor, remote localities. Such forms of energy are indeed 'free'
+since they are constantly renewable, but they are not necessarily cheap.
+Moreover, they do little to close large deficits. Even compared with
+nuclear power generation, itself an expensive option, wind power is
+around 60 percent more expensive and solar about 30%.
+Nevertheless, to support poverty alleviation objectives under severe
+budgetary constraints, all options should be on the table but a mechanism
+needs to be in place to strike an affordable balance. The degree of
+departure from the optimum can make the difference between success and
+failure of energy policy.
 
-The Ministry of Urban Affairs, Forestry and Wildlife oversees the
-wood fuels sub-sector. The Ministry of Food, Agriculture and Livestock
-handles other biomass including agricultural residues. The Alternative Energy
-Development Board is the central national body for renewable energy and is
-also charged with rural electrification in areas remote from the power grid.
-The SAARC Energy Center is being set up to address regional issues, to
-facilitate energy trade within SAARC and promote more efficient energy use
-within the region. The Ministry of Finance, Planning and Economic Affairs is
-involved in energy pricing and taxation policies. The Ministry of Production
-and the Ministry of Industries deal with industrial energy conservation in the
-public and private sector, respectively.
+How did we get here? How this dire state of affairs came about is
+analysed in a noteworthy work, which traces the history of the downward
+spiral and milestones along the way. The path is characterised by 'stop-go'
+reforms, policy reversals, bureaucratic delays and missed opportunities
+and, over the last decade or so, a growing security crisis. Through all this,
+there were some sound and well-intentioned policy initiatives and
+concerted efforts towards implementation. However, these efforts could
+not yield the desired results in a policy environment, which lacked the
+necessary fundamentals.
 
-Thus, responsibility for the energy sector is highly fragmented and
-there are major overlaps. This is clearly not conducive for IEP, despite the best
-efforts of HDIP to compile and analyse data or of the Planning Commission
-to coordinate plans emerging from so many institutions. IEP is not unknown
-in Pakistan. To trace its history, it is necessary to turn the clock back to the
-early 1980s when it was introduced, albeit partially and briefly. The
-government of the time was firmly committed to establishing IEP and, as an
-interim step, had established a planning unit within the Directorate General
-of Energy Resources (DGER) in the Ministry of Petroleum. Recognising
-that this location strengthened the dominance of the petroleum sub-sector
-over other vital areas such as non-commercial energy, a decision was
-257taken to move the expertise to a central neutral location. The ENERPLAN
-Cell was created in the Planning Division and charged with the national
-energy planning function. Relevant government administrative orders
-were issued and budgets approved. Funding was secured for training and
-technical assistance to start the analytical work. An Energy Policy Board,
-with top-level representation from all energy-related ministries, was
-instituted to provide 'a central coordination forum for policy decisions,
-program guidelines, monitoring and evaluation of all components of
-ENERPLAN'. Integration with national plans was to be carried out at this
-level. Decisions having nation-wide impact were to be referred to the
-National Economic Council or the Cabinet.
+251A few examples illustrate the dilemma. In the early 1980s, there
+were four international oil companies, which had been granted concessions
+for exploration in Pakistan. Such companies commonly deploy their own
+capital for exploration, relying on satisfactory profit sharing or
+production-sharing agreements with the government to recoup their
+expenditures once commercial production begins. Drilling conditions
+were difficult and expensive with deep wells in high-pressure areas but
+discovery prospects were good. However, a major oil company, on the verge
+of a significant discovery, decided to suspend drilling operations and leave the
+country. The net effect was to discourage further exploration at a time when
+at least ten companies were considering the possibility of exploring in
+Pakistan with their own capital for the first time—a possibility that could have
+turned around the country's energy future.
 
-This was a good start. However, the risk was that the location in the
-Planning Division would eventually dilute the importance of the energy
-sector, given the Planning Division's involvement with the whole
-economy. These arrangements were intended as interim measures till a
-ministry of energy emerged. For a while the arrangements worked but then
-began to falter. International institutions such as the World Bank
-continued to provide loans and advice to the energy sector but policy
-reform had slowed down. Emphasis on IEP was lost perhaps because of
-the misplaced notion that market forces would compensate. It is
-significant that the World Bank's last comprehensive energy sector review
-for Pakistan dates to the early 1980s, despite the recognition that energy
-is a critical impediment to economic development. Even the last sub-
-sector (oil and gas) review dates to 2003. USAID did issue an energy
-sector assessment in 2007, identifying the absence of integrated planning
-as a primary weakness. However, it did not elaborate on what steps needed
-to be taken.
+A combination of factors led to the oil company's departure. Among them was the inflexibility of the bureaucracy to address glaring anomalies in the tax structure, which severely eroded the cash flow of the company especially in areas with high exploration costs. 
 
-The unravelling of IEP was inevitable since there was no
-follow through on the necessary organisational changes. Instead of
-moving towards a simple integrated structure, there was a gradual
-expansion of the network of policy institutions, compounding the
-complexity and confusion. So the situation in the energy sector today
-should come as no surprise. Under these conditions, the ineffectiveness of
-seemingly well-conceived and well-intentioned policy initiatives was
-inevitable.
+The second, more significant reason was that, under the prevailing policy regime, oil and gas prices could only be negotiated after commercial discovery. This was a major disincentive for a company deploying its own capital in expensive operations. Rising expenditures in an uncertain post-discovery regime was enough to warrant a pull-out even on the verge of discovery, to the detriment of Pakistan's economy.
 
-IEP now needs to be re-introduced, this time in a comprehensive
-manner, supported by an appropriate institutional framework. The seeds
-of IEP remain in Pakistan and can be revived quite rapidly to restart the
-258process. Documents establishing the various bodies are in the records,
-together with elaborate administrative and technical studies to back them
-up. Moreover, many of the processes and skills already exist, such as
-sophisticated national planning and budget processes and the know-how
-for preparing energy balances. The expertise in HDIP can be transferred
-to an energy planning cell in the Planning Division, strengthened by
-expertise from the Ministry of Forestry, the Ministry of Agriculture and
-Livestock and the Alternative Energy Development Board, to give due
-importance to non-commercial and other renewable forms.
+Pakistan's policymakers failed to understand that the country was competing with others across the world in attracting scarce exploration risk capital. For this, it needed to make its pricing regime as attractive as possible.
 
-The necessary institutional restructuring can take place on a phased
-basis to minimise disruption. The first phase of restructuring, the
-establishment of a planning cell with access to top policy levels, can be
-done very rapidly. At the same time, plans would need to be initiated
-towards forming the ministry of energy with the planning cell at its core,
-and amending the structure, functions and decision-making processes of the
-current energy-related policy bodies to facilitate the initiative. While
-maintaining the independence of regulatory institutions, they should be put
-under one roof to facilitate coordination. To minimise disruption, these
-changes would need to be carefully designed and phased in. A firm
-commitment towards this end, cemented with an up-front public
-announcement, is vital. The cost of not doing so could, once again, result
-in an un-raveling of the process and history will repeat itself.
+If there had been a mechanism to rapidly assess the economic penalty of the policy, which traded immense long-term benefits for short-lived financial gains, the story would have been different. It is a credit to subsequent policy-makers that these retrogressive policies were amended. This is now reflected in the government's exploration promotion and investment promotion documents. However by the time this was done conditions had changed. The security situation became a key deterrent to exploration. This underscores a lost opportunity, one of many policy actions offering too little, too late.
 
-IEP is not the panacea for Pakistan's energy problems. It is the
-essential starting point without which informed policy decisions in this
-sector cannot be made. It provides the ingredients of good data,
-information and analysis, eliminating guesswork and lobbying by special
-interests, which have tended to dominate the scene. Pakistan can finally
-begin to optimise the sustainable exploitation and utilisation of energy
-within its financial constraints and economic aspirations, addressing
-overwhelming issues such as prohibitive and ever-widening energy
-deficits.
+At around the same time, another petroleum company involved in a joint venture with the government had decided to sell to the government its shares in a natural gas field development operation, which provided valuable nitrogen-rich gas feedstock to the fertilizer industry. It took over a year to negotiate the sale price and government inter­locutors were able to reduce the 252purchase price by a significant amount. This could be considered a major gain but for one serious repercussion. Through the protracted negotiations, the field expansion program was put on hold, resulting in immense losses in revenue to the joint venture itself, as well as to the fertilizer industry, and in terms of lost agricultural productivity due to lack of fertilizer. Again, a mechanism to assess the penalty could well have prompted speedier negotiations with less immediate financial gains but with vastly greater financial and economic benefits in the longer term.
+
+Perhaps the most significant example of lost opportunities relates to Central Asia in the early to mid-90s when all six of the newly independent republics, under immense internal economic pressures, were actively seeking avenues to export their surplus energy. Strong consideration was given to the southern corridor through Pakistan to tap the large energy- starved South Asian market as well as gain access to ports on the Arabian Sea for further extending export. This was well before the security situation in Afghanistan had begun to deteriorate. As expected, there were competitors promoting alternative routes. The Great Game was on again, being played with higher stakes and at electronic speed.
+
+Central Asian authorities and international consortia made several attempts to pursue discussions with Pakistani authorities but progress was elusive. One thing was evident. The level of interest and effort of the competitors drowned out the lukewarm response of the Pakistani government and private sector. The rest is history.
+
+One can only surmise how the trade corridors, had they been established, would have transformed the regional scenario. Revenue from trade and from transporting energy across the region would have brought immense benefits to Afghanistan and Pakistan. Both countries, as well as India, would have also benefited from greatly enhanced energy supplies. The resulting prosperity and trade links would certainly have strengthened interdependence among the three countries and helped mitigate the conflict which currently engulfs the region.

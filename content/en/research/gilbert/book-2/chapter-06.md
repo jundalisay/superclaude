@@ -23,7 +23,7 @@ They move towards the magnet, not as *to a centre, nor towards its centre. For t
 But in the intervening spaces they tend obliquely, just as is evident in the following figure, in which it is shown how the influence is extended to the adjoining magneticks within the orbe; in the case of the poles straight out.
 
 
-Oblique Magneticks.
+<!-- Oblique Magneticks. -->
 
 The nearer the parts are to the æquinoctial, the more obliquely are magneticals allured; but the parts nearer the poles appeal more directly, at the poles quite straight. The principle of the turning of all loadstones, of those which are round and those which are long, is the same, but in the case of the long ones the experiment is easier. 
 

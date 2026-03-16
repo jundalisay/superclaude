@@ -6,7 +6,6 @@ description: "In November 1954, Baba started giving demonstrations about the dif
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 

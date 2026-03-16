@@ -40,10 +40,7 @@ Around this as center, let us describe this smaller circle DEFG, representing th
 The terrestrial globe to turn around its own center B from west to east, in the order of the points D, E, F, G, during a period of twenty-four hours. Now here we must carefully note that when a circle revolves around its own center, every part of it must move at different times with contrary motions. 
 
 This is obvious, considering that when the part of the circumference around the point D is moving toward the left (toward E), the opposite parts, around F, go toward the right (toward G); so that when the point D gets to F, its motion will be contrary to what it was originally when it was at D.
-{{< /l >}}
 
-
-{{< l a="Salviati" >}}
 In the same time that the point E descends toward F, G ascends toward D. 
 
 Since this contrariety exists in the motion of the parts of the terrestrial surface when it is turning around its own center, it must happen that in coupling the diurnal motion with the annual, there results an absolute motion of the parts of the surface which is at one time very much accelerated and at another retarded by the same amount.
@@ -104,6 +101,3 @@ In proportion as these stretches of sea were shorter, they would participate les
 Now if in the first place we see experimentally that an acceleration and a retardation shared equally by all parts of the containing vessel may indeed be the cause of the contained water running back and forth, then what must we suppose would happen in a vessel so remarkably situated that a retardation and an acceleration of motion are conferred very unevenly upon its parts? Certainly we cannot help saying that there would necessarily be perceived still greater and more marvelous causes of commotions in the water, and stranger ones.
 
 Though to many people it may seem impossible for us to test the effects of such events in artificial devices and vessels, nevertheless this is not entirely impossible; I have a mechanical model in which the effects of these marvelous compositions of movements may be observed in detail. But so far as our present purpose is concerned, what we have grasped intellectually up to this point is sufficient.
-
-
-

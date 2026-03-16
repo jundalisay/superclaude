@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6
-title: "The proportion of declination to latitude[236], and the cause of it"
+title: "The proportion of declination to latitude, and its cause"
 date: 2024-02-20
 description: "The length of a versorium convenient for declination on a terrella"
 writer:
@@ -61,10 +61,12 @@ The centre of the arc is the region itself or place in which the observation is 
 
 Let any arc of rotation be divided into 90 equal parts from the limit of the arcs of rotation toward the pole; for whatever is the degree of latitude of the place, the part of the arc of rotation which the magnetick pole on or near the terrella or the earth faces in its rotation is to be numbered similarly to this. 
 
-The straight lines in the following larger diagram show this. The magnetick rotation at the middle point in a latitude of 45 degrees is directed toward the æquator, in which case also that arc is a quadrant of a circle from the limit to the pole; but previous to this all the arcs of rotation are greater than a quadrant, whilst after it they are smaller; in the former the needle rotates more quickly, but in the succeeding positions gradually more slowly. 
+The straight lines in the following larger diagram show this.
+
+The magnetic rotation at the middle point in a latitude of 45 degrees is directed toward the æquator, in which case also that arc is a quadrant of a circle from the limit to the pole; but previous to this all the arcs of rotation are greater than a quadrant, whilst after it they are smaller.
+
+In the former, the needle rotates more quickly, but in the succeeding positions gradually more slowly. 
 
 For each several region there is a special arc of rotation, in which the limit to which the needle rotates is according to the number of degrees of latitude of the place in question; so that a straight line drawn from the place to the point on that arc marked with the number of degrees of latitude shows the magnetick direction, and indicates the degree of declination at the intersection of the quadrant of declination which serves the given place. 
 
 Take away the arc of the quadrant of declination drawn from the centre to the line of direction; that which is left is the arc of declination below the horizon. As, for example, in the rotation of the versorium N, whose line respective proceeds to D, from the quadrant of declination, S M, take away its arc R M; that which is left is the arc of declination: how much, that is, the needle dips in the latitude of 45 degrees.
-
-

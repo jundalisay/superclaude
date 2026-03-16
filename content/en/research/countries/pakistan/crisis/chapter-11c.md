@@ -10,31 +10,67 @@ author: Muddassar Mazhar Malik
 
 ### Improve Governance
 
-The problems of governance stem from the inability of governments and public sector institutions to deliver public services in the face of rising demands and expectations. As this is discussed elsewhere in this volume it is sufficient to emphasise that without improved governance, delivery systems and effective implementation, Pakistan will find it difficult to educate its citizens, build infrastructure, increase agricultural output and ensure that the benefits of economic growth are efficiently distributed.
+The problems of governance stem from the inability of governments and public sector institutions to deliver public services in the face of rising demands and expectations.
+
+Without improved governance, delivery systems and effective implementation, Pakistan will find it difficult to:
+- educate its citizens
+- build infrastructure
+- increase agricultural output
+- efficiently distribute the benefits of economic growth
 
 
-### Improve infrastructure
+### Improve Infrastructure
 
-Pakistan's infrastructure constraints are evident in the present power crisis, lack of a modern railroad system, shortage of low—to middle—income housing, congestion on urban roads and main highway systems and an inadequate port capacity. There is grossly inadequate primary, secondary and higher education and healthcare facilities. Pakistani companies suffer as a consequence of these factors, for example, by experiencing production delays in exports due to limited port capacity and cumbersome customs procedures. The lack of availability of a well-trained, healthy and productive work force further inhibits business potential. In addition, poor logistics and transportation also hamper the movement of inventory between farm and market or factory and market.
+The present power crisis shows Pakistan's infrastructure constraints as:
+- the lack of a modern railroad system
+- shortage of low—to middle—income housing
+- congestion on urban roads and main highway systems
+- an inadequate port capacity
 
-If Pakistan's growth continues at an average rate of 7-8 per cent in the coming decade, this will fuel the demand for energy, transport, logistics, communication, healthcare, housing, water, education and communication. Urbanisation is also increasing. Almost a third of the population now lives in four major urban centres. A 2 per cent in- migration rate means that this number will grow by over half in the next twenty-five years. These unprecedented levels of urbanisation present challenges but can also bring opportunities as vast numbers of people can have access to information, services, communication facilities as well as standards of living which do not exist in the rural areas. Official estimates of new infrastructure requirements in terms of ports, railroads, hospitals, schools, low income housing and energy are approximately $30 billion in the next five years just to sustain current levels of growth.
+There is grossly inadequate primary, secondary and higher education and healthcare facilities.
 
-So there is a dual problem: the current infrastructure is inadequate
-and future growth is burdened by lack of resources and poor planning.
-Obvious examples include: the current energy shortage, which is the
-consequence of neglect of the power sector by successive governments, and
-the shortage of trained technical staff and engineers—impediments to any
-rapid infrastructure roll out. Lastly future growth is hampered by the
-challenges of security. Building dams in Khyber Pakhtunkhwa, mining coal
-in Baluchistan or establishing a modern port capacity on the southern
-coastline are all dependent on the security of human capital.
+Pakistani companies suffer as a consequence of these by experiencing production delays in exports due to limited port capacity and cumbersome customs procedures.
+
+The lack of availability of a well-trained, healthy and productive work force further inhibits business potential.
+
+In addition, poor logistics and transportation also hamper the movement of inventory between farm and market or factory and market.
+
+If Pakistan's growth continues at 7-8% in the coming decade, this will fuel the demand for energy, transport, logistics, communication, healthcare, housing, water, education and communication. 
+
+Urbanisation is also increasing. 
+
+Almost 1/3 of the population now lives in 4 major urban centres.
+
+A 2% immigration rate means that this number will grow by over half in the next 25 years.
+
+These unprecedented levels of urbanisation present challenges but can also bring opportunities as vast numbers of people can have access to information, services, communication facilities as well as standards of living which do not exist in the rural areas.
+
+Official estimates of new infrastructure requirements in terms of ports, railroads, hospitals, schools, low income housing and energy are approximately $30 billion in the next five years just to sustain current levels of growth.
+
+So there is a dual problem: the current infrastructure is inadequate and future growth is burdened by lack of resources and poor planning. 
+
+Obvious examples include:
+- the current energy shortage, which is the consequence of neglect of the power sector by successive governments
+- the shortage of trained technical staff and engineers
+
+These are impediments to any rapid infrastructure roll out.
+
+Lastly future growth is hampered by the challenges of security.
+
+Building dams in Khyber Pakhtunkhwa, mining coal in Baluchistan or establishing a modern port capacity on the southern coastline are all dependent on the security of human capital.
 
 What can be done? 
 
-1. Pakistan needs to resolve its financing issues, Pakistan needs to further develop its capital markets as
-well as create market access for long term foreign capital inflows. 
+1. Pakistan needs to resolve its financing issues, Pakistan needs to further develop its capital markets as well as create market access for long term foreign capital inflows. 
 
-A vibrant and liquid corporate bond market, the ability to source fresh equity from the domestic and international equity markets, deregulation of the insurance and pensions markets, and a stable banking system are all areas for greater focus. Previous governments have achieved some measure of success in this regard to the extent that the country was able to tap international markets for debt and also improve its international credit rating.
+Pakistan should focus on:
+- a vibrant and liquid corporate bond market
+- the ability to source fresh equity from the domestic and international equity markets
+- deregulation of the insurance and pensions markets
+- a stable banking system
+
+Previous governments have achieved some success in this regard.
+- The country was able to tap international markets for debt and also improve its international credit rating.
 
 Pakistan has also set up the Infrastructure Project Development Facility (IPDF) that needs to be better utilised to bring about more robust public-private partnerships in energy, health care, transportation, agriculture and education.
 
@@ -44,14 +80,13 @@ Becoming the region's food reservoir. Even though the setback from the floods ma
 
 The country's major agricultural products include cotton, wheat, rice, sugarcane, fruits and vegetables while its livestock and dairy resources provide ample milk, beef, mutton and eggs.
 
-It is, however, essential for Pakistan to improve its agricultural output levels and productivity. Agriculture generates around 22 per cent of the GDP while employing 45 per cent of the labour force. 
+Pakistan should improve its agricultural output levels and productivity. Agriculture generates around 22 per cent of the GDP while employing 45 per cent of the labour force. 
 
-Almost two thirds of the population is dependent on agriculture for their livelihood—hence changing the complexion of the agricultural sector through a focused investment drive would help to radically change the complexion of Pakistan's economy.
+Almost 2/3 of the population is dependent on agriculture for their livelihood—hence changing the complexion of the agricultural sector through a focused investment drive would help to radically change the complexion of Pakistan's economy.
 
-Over the past twenty years land under cultivation has remained
-relatively static and yields per hectare have only improved marginally.
-Intensive farming and environmental degradation have resulted in soil
-erosion. These factors will continue to impede agricultural growth as
+Over the past twenty years land under cultivation has remained relatively static and yields per hectare have only improved marginally.
+
+Intensive farming and environmental degradation have resulted in soil erosion. These factors will continue to impede agricultural growth as
 urbanisation results in a loss of arable land.
 
 To enable Pakistan to become the granary of the region, not only
@@ -121,21 +156,9 @@ the Pakistan Armed Forces. This 'hidden' talent reserve has a demonstrated
 ability to absorb and learn the use of new technologies. This resource
 ought to be leveraged by the private sector to 'leap-frog'. 
 
-Corporate leaders could join hands with leading technology experts in the Armed Forces in a joint effort to identify those areas that could provide the basis for export driven growth in areas where the industrial sector can be transformed. A case in point is Brazil where government policy has over the last three decades helped to make Brazil among the largest exporters of defence 228technologies and equipment by combining technological expertise in their domestic auto sector with defence expertise.
+Corporate leaders could join hands with leading technology experts in the Armed Forces in a joint effort to identify those areas that could provide the basis for export driven growth in areas where the industrial sector can be transformed. A case in point is Brazil where government policy has over the last three decades helped to make Brazil among the largest exporters of defence technologies and equipment by combining technological expertise in their domestic auto sector with defence expertise.
 
-Pakistan must  align its labour market policy with a sound policy for competitiveness in industry, agriculture and the service
-sector. One initiative that attempts to identify indicators on skills and wages
-using labour market force data is the Pakistan Employment Trends Report
-produced by the Ministry of Labour and Manpower in collaboration with the
-International Labour Organisation (ILO). More specifically the report has
-looked at the technical and vocational training capacity in the country and
-how this can improve competitiveness. The key message here is greater
-investment in education and training, particularly for young people and
-women.
+Pakistan must  align its labour market policy with a sound policy for competitiveness in industry, agriculture and the service sector. One initiative that attempts to identify indicators on skills and wages using labour market force data is the Pakistan Employment Trends Report produced by the Ministry of Labour and Manpower in collaboration with the International Labour Organisation (ILO). More specifically the report has looked at the technical and vocational training capacity in the country and how this can improve competitiveness. The key message here is greater investment in education and training, particularly for young people and women.
 
-While government and private sector initiatives are focusing on
-upgrading the infrastructure in both these areas, much more needs to be
-done to create alignment between those industries and sectors which are
-being targeted for export growth and the skills and education levels which
-are required for people entering the labour market to be employed at levels
-which allow them to climb the income curve.
+While government and private sector initiatives are focusing on upgrading the infrastructure in both these areas, much more needs to be done to create alignment between those industries and sectors which are being targeted for export growth and the skills and education levels which are required for people entering the labour market to be employed at levels which allow them to climb the income curve.
+

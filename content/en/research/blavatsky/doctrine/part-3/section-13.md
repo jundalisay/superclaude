@@ -12,17 +12,43 @@ c: "indigo"
 
 Mechanical laws will never be able to prove the homogeneity of Primeval Matter, except inferentially and as a desperate necessity, when there will remain no other issue—as in the case of Ether.
 
-Modern Science is secure only in its own domain and region; within the physical boundaries of our Solar System, beyond which everything, every particle of Matter, is different from the Matter it knows, and where Matter exists in states of which Science can form no idea. This Matter, which is truly homogeneous, is beyond human perception, if perception is tied down merely to the five senses.
+Modern Science is secure only in its own domain and region.
 
-We feel its effects through those Intelligences which are the results of its primeval differentiation, whom we name Dhyân Chohans, called in the Hermetic works the “Seven Governors”; those to whom Pymander, the “Thought Divine,” refers as the “Building Powers,” and whom Asklepios calls the “Supernal Gods.” 
+Within the physical boundaries of our Solar System, beyond which everything, every particle of Matter, is different from the Matter it knows, and where Matter exists in states of which Science can form no idea.
 
-This Matter—the real Primordial Substance, the Noumenon of all the “matter” we know of—some of our Astronomers even have been led to believe in, for they despair of the possibility of ever accounting for rotation, gravitation, and the origin of any mechanical physical laws, unless these Intelligences be admitted by Science. 
+This Matter is:
+- truly homogeneous
+- beyond human perception of the five senses.
 
-In the above-quoted work upon Astronomy by Wolf,1035 the author endorses fully the theory of Kant, and the latter theory, if not in its general aspect, at any rate in some of its features, reminds one strongly of certain Esoteric Teachings. Here we have the world's system “reborn from its ashes,” through a nebula—the emanation from the bodies, dead and dissolved in Space, resultant of the incandescence of the Solar Centre—reänimated by the combustible matter of the Planets. 
+We feel its effects through those Intelligences which are the results of its primeval differentiation.
+- I call them Dhyân Chohans
+- The Hermetic works call them the “Seven Governors”
+- Pymander, the “Thought Divine,” refers as the “Building Powers”
+- Asklepios calls them the “Supernal Gods” 
 
-In this theory, generated and developed in the [pg 659]brain of a young man hardly twenty-five years of age, who had never left his native place, Königsberg, a small town of Northern Prussia, one can hardly fail to recognize either the presence of an inspiring external power, or an evidence of the reïncarnation which the Occultists see in it. 
+This Matter is:
+- the real Primordial Substance
+- the Noumenon of all the “matter” we know of
 
-It fills a gap which Newton, with all his genius, failed to bridge. And surely it is our Primeval Matter, Âkâsha, that Kant had in view, when he postulated a universally pervading primordial Substance, in order to solve Newton's difficulty, and his failure to explain, by natural forces alone, the primitive impulse imparted to the Planets. For, as he remarks in Chapter viii, if it is once admitted that the perfect harmony of the Stars and Planets and the coincidence of their orbital planes prove the existence of a natural Cause, which would thus be the Primal Cause, “that Cause cannot really be the matter which fills to-day the heavenly spaces.” It must be that which filled Space—was Space—originally, whose motion in differentiated Matter was the origin of the actual movements of the sidereal bodies; and which, “in condensing itself in those very bodies, thus abandoned the space that is to-day found void.” In other words, it is of that same Matter that are now composed the Planets, Comets, and the Sun himself, and that Matter, having originally formed itself into those bodies, has preserved its inherent quality of motion; which quality, now centred in their nuclei, directs all motion. A very slight alteration of words in this is needed, and a few additions, to make of it our Esoteric Doctrine.
+<!-- —some of our Astronomers even have been led to believe in, for they despair of the possibility of ever accounting for rotation, gravitation, and the origin of any mechanical physical laws, unless these Intelligences be admitted by Science.  -->
+
+In the above-quoted work upon Astronomy by Wolf, the author endorses fully the theory of Kant, and the latter theory, if not in its general aspect, at any rate in some of its features, reminds one strongly of certain Esoteric Teachings.
+
+Here we have the world's system “reborn from its ashes,” through a nebula—the emanation from the bodies, dead and dissolved in Space, resultant of the incandescence of the Solar Centre—reänimated by the combustible matter of the Planets. 
+
+His theory was developed when he was hardly 25 years old.
+
+He had never left his native place, Königsberg.
+
+<!-- , a small town of Northern Prussia, one can hardly fail to recognize either the presence of an inspiring external power, or an evidence of the reïncarnation which the Occultists see in it.  -->
+
+It fills a gap which Newton, with all his genius, failed to bridge. And surely it is our Primeval Matter, Âkâsha, that Kant had in view, when he postulated a universally pervading primordial Substance, in order to solve Newton's difficulty, and his failure to explain, by natural forces alone, the primitive impulse imparted to the Planets.
+
+For, as he remarks in Chapter viii, if it is once admitted that the perfect harmony of the Stars and Planets and the coincidence of their orbital planes prove the existence of a natural Cause, which would thus be the Primal Cause, “that Cause cannot really be the matter which fills to-day the heavenly spaces.” 
+
+It must be that which filled Space—was Space—originally, whose motion in differentiated Matter was the origin of the actual movements of the sidereal bodies; and which, “in condensing itself in those very bodies, thus abandoned the space that is to-day found void.” 
+
+In other words, it is of that same Matter that are now composed the Planets, Comets, and the Sun himself, and that Matter, having originally formed itself into those bodies, has preserved its inherent quality of motion; which quality, now centred in their nuclei, directs all motion. A very slight alteration of words in this is needed, and a few additions, to make of it our Esoteric Doctrine.
 
 The latter teaches that it is this original, primordial Prima Materia, divine and intelligent, the direct emanation of the Universal Mind, the Daiviprakriti—the Divine Light1036 emanating from the Logos—which formed the nuclei of all the “self-moving” orbs in Kosmos. It is the informing, ever-present moving-power and life-principle, the Vital Soul of the Suns, Moons, Planets, and even of our Earth; the former latent, the latter active—the invisible Ruler and Guide of the gross body attached to, and connected with, its Soul, which is the spiritual emanation, after all, of these respective Planetary Spirits.
 

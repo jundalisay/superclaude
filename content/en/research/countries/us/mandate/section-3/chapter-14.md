@@ -1,5 +1,5 @@
 ---
-title: "DEPARTMENT OF HEALTH AND HUMAN SERVICES"
+title: "Department Of Health And Human Services"
 date: 2024-11-01
 description: ""
 author: "Roger Severino"
@@ -8,57 +8,61 @@ icon: "Heritage Foundation"
 ---
 
 
-### OVERVIEW
+## Overview
 
-HHS consists of 11 operating divisions that have varying degrees of practical
-independence from the Secretary of Health and Human Services and 15 staff
-divisions that are directly under the Office of the Secretary. This chapter’s rec-
-ommendations are limited to those divisions that most need reform and address,
-wherever possible, five cross-cutting goals.
+HHS consists of 11 operating divisions that have varying degrees of practical independence from the Secretary of Health and Human Services and 15 staff divisions that are directly under the Office of the Secretary. 
 
-If the U.S. Department of Health and Human Services (HHS) were a separate coun-
-try, its approximately $1.6 trillion budget would rank as the world’s fifth-largest
+<!-- This chapter’s recommendations are limited to those divisions that most need reform and address,
+wherever possible, five cross-cutting goals. -->
+
+If the U.S. Department of Health and Human Services (HHS) were a separate country, its approximately $1.6 trillion budget would rank as the world’s fifth-largest
 national budget. For good or ill, HHS activities personally impact the lives of more
 Americans than do those of any other federal agency. Under President Trump, HHS
 was dedicated to serving “all Americans from conception to natural death, including
-those individuals and families who face...economic and social well-being challenges.”1
-Under President Biden, the mission has shifted to “promoting equity in everything
-we do” for the sake of “populations sharing a particular characteristic” including race,
+those individuals and families who face...economic and social well-being challenges.”
+
+
+Under President Biden, the mission has shifted to “promoting equity in everything we do” for the sake of “populations sharing a particular characteristic” including race,
 sexuality, gender identification, ethnicity, and a host of other categories.2
-As a result of HHS’s having lost its way, U.S. life expectancy, instead of return-
-ing to normal after the COVID-19 pandemic, continued to drop precipitously to
+
+As a result of HHS’s having lost its way, U.S. life expectancy, instead of returning to normal after the COVID-19 pandemic, continued to drop precipitously to
 levels not seen since 1996 with white populations alone losing 7 percent of their
 expected life span in just one year.3 Nothing less than America’s long-term survival
 is at stake. Accordingly, HHS must return to serving the health and well-being of
 all Americans at all stages of life instead of using social engineering that leaves us
 sicker, poorer, and more divided.﻿
 
-Goal #1: Protecting Life, Conscience, and Bodily Integrity. The Secretary
-should pursue a robust agenda to protect the fundamental right to life, protect con-
+
+### Goal #1: Protecting Life, Conscience, and Bodily Integrity
+
+The Secretary should pursue a robust agenda to protect the fundamental right to life, protect con-
 science rights, and uphold bodily integrity rooted in biological realities, not ideology.
-From the moment of conception, every human being possesses inherent dignity
-and worth, and our humanity does not depend on our age, stage of development,
-race, or abilities. The Secretary must ensure that all HHS programs and activities
-are rooted in a deep respect for innocent human life from day one until natural
+
+From the moment of conception, every human being possesses inherent dignity and worth, and our humanity does not depend on our age, stage of development,
+race, or abilities. The Secretary must ensure that all HHS programs and activities are rooted in a deep respect for innocent human life from day one until natural
 death: Abortion and euthanasia are not health care.
 
-A robust respect for the sacred rights of conscience, both at HHS and among gov-
-ernments and institutions funded by it, increases choices for patients and program
+A robust respect for the sacred rights of conscience, both at HHS and among governments and institutions funded by it, increases choices for patients and program
 beneficiaries and furthers pluralism and tolerance. The Secretary must protect
 Americans’ civil rights by ensuring that HHS programs and activities follow the
 letter and spirit of religious freedom and conscience-protection laws.
+
 Radical actors inside and outside government are promoting harmful identity
 politics that replaces biological sex with subjective notions of “gender identity” and
 bases a person’s worth on his or her race, sex, or other identities. This destructive
 dogma, under the guise of “equity,” threatens American’s fundamental liberties as
-well as the health and well-being of children and adults alike. The next Secretary
-must ensure that HHS programs protect children’s minds and bodies and that
+well as the health and well-being of children and adults alike. 
+
+The next Secretary must ensure that HHS programs protect children’s minds and bodies and that
 HHS programs respect parents’ basic right to direct the upbringing, education,
 and care of their children.
 
-Goal #2: Empowering Patient Choices and Provider Autonomy. Basic eco-
-nomics holds that costs tend to decrease and quality and options tend to increase
+
+### Goal #2: Empowering Patient Choices and Provider Autonomy. 
+
+Basic economics holds that costs tend to decrease and quality and options tend to increase
 when there is robust and free competition in the provision of goods and services.
+
 Health care is no exception. Health care reform should be patient-centered and
 market-based and should empower individuals to control their health care–related
 dollars and decisions.
@@ -70,16 +74,16 @@ ity to discharge their responsibilities or limit their ability to innovate throu
 government pricing controls or irrational Medicare and Medicaid reimburse-
 ment schemes.
 
-Finally, America’s broken insurance system, run largely through confusing pro-
-vider networks and third-party payers (employers), induces overconsumption of
+Finally, America’s broken insurance system, run largely through confusing provider networks and third-party payers (employers), induces overconsumption of
 health care, limits consumer shopping, and hides true costs from patients.
-The federal government should focus reform on reducing burdens of regulatory
-compliance, unleashing innovation in health care delivery, ceasing interference in
+
+The federal government should focus reform on reducing burdens of regulatory compliance, unleashing innovation in health care delivery, ceasing interference in
 the daily lives of patients and providers, allowing alternative insurance coverage
 options, and returning control of health care dollars to patients making decisions
 with their providers about their health care treatments and services.
 
-Goal #3: Promoting Stable and Flourishing Married Families.
+
+### Goal #3: Promoting Stable and Flourishing Married Families.
 
 Families comprised of a married mother, father, and their children are the foundation of
 a well-ordered nation and healthy society. Unfortunately, family policies and

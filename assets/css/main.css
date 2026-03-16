@@ -76,7 +76,7 @@ code, pre, .font-code {
 /* Article prose */
 .prose-sp {
   font-family: var(--font-body);
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   line-height: 1.8;
   color: var(--color-sp-text);
 }
