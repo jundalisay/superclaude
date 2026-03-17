@@ -11,13 +11,24 @@ c: "darkslategray"
 
 Hunbatz and Hunchouén were with their mothers when the woman called Xquic arrived.
 
-When the woman Xquic came before the mother of Hunbatz and Hunchouén, she carried her sons in her belly and it was not long before Hunahpú and Xbalanqué, as they were called, were to be born.
+When the woman Xquic came before the mother of Hunbatz and Hunchouén, she carried her sons in her belly.
 
-When the woman came to the old lady, she said to her: "I have come, mother; I am your daughter-in-law and your daughter, mother." 
+It was not long before Hunahpú and Xbalanqué were to be born.
+
+When the woman came to the old lady, she said to her: 
+
+{{< r a="Woman" >}}
+I have come, mother; I am your daughter-in-law and your daughter, mother."
+{{< /r >}}
+
 
 She said this when she entered the grandmother's house.
 
-"Where did you come from? Where are my sons? Did they, perchance, not die in Xibalba? Do you not see these two who remain, their descendants and blood, and are called Hunbatz and Hunchouén? Go from here! Get out!" the old lady screamed at the girl.
+{{< l a="Old Lady" >}}
+[screaming at the girl] Where did you come from? Where are my sons? Did they, perchance, not die in Xibalba? Do you not see these two who remain, their descendants and blood, and are called Hunbatz and Hunchouén? Go from here! Get out!
+{{< /l >}}
+
+
 
 "Nevertheless, I am your daughter-in-law for a long time. I belong to Hun-Hunahpú. They live in what I carry, Hun-Hunahpú and Vucub-Hunahpú are not dead. They will return to show themselves clearly, my mother-in-law. You shall soon see their image in what I bring to you,"
 
@@ -25,13 +36,25 @@ She said this when she entered the grandmother's house.
 
 Then Hunbatz and Hunchouén became angry. They did nothing but play the flute and sing, paint, and sculpture all day long and were the consolation of the old woman.
 
+
 Then the old woman said:
 
-"I do not wish you to be my daughter-in-law, because what you bear in your womb is fruit of your disgrace. Furthermore, you are an impostor; my sons of whom you speak are already dead."
+{{< l a="Old Lady" >}}
+I do not wish you to be my daughter-in-law, because what you bear in your womb is fruit of your disgrace. Furthermore, you are an impostor; my sons of whom you speak are already dead.
+{{< /l >}}
+
 
 Presently the grandmother added: "This, that I tell you is the truth; but well, it is all right, you are my daughter-in-law, according to what I have heard. Go, then, bring the food for those who must be fed. Go and gather a large net [full of corn] and return at once, since you are my daughter-in-law, according to what I hear," she said to the girl.
 
-"Very well," the girl replied, and she went at once to the cornfield which Hunbatz and Hunchouén had planted. They had opened the road and the girl took it and so came to the cornfield; but she found only one stalk of corn; there were not two or three, and when she saw that there was only one stalk with an ear on it, the girl became very anxious.
+
+{{< r a="Woman" >}}
+Very well
+{{< /r >}}
+
+She went at once to the cornfield which Hunbatz and Hunchouén had planted. 
+
+They had opened the road and the girl took it and so came to the cornfield; but she found only one stalk of corn; there were not two or three, and when she saw that there was only one stalk with an ear on it, the girl became very anxious.
+
 
 "Ah, sinner that I am, unfortunate me! Where must I go to get a net full of corn as she told me to do?" she exclaimed. Immediately she began to beg Chahal for the food which she had to get and must take back.
 
@@ -112,9 +135,16 @@ And as the grandmother saw all of this, she burst into violent laughter; and the
 
 "Only once more shall we call them, grandmother, so that they shall come for the fourth time," said the boys. They began again, then, to play the flute, but [their brothers] did not return the fourth time, instead they fled into the forest as quickly as they could.
 
-The boys said to their grandmother: "We have done everything possible, dear grandmother; they came once, then we tried to call them again. But do not grieve; here we are, your grandchildren; you must look to us, oh, our mother! Oh, our grandmother! to remind you of our elder brothers, those who were called and have the names of Hunbatz and Hunchouén," said Hunahpú and Xbalanqué.
+Hunahpú and Xbalanqué said to their grandmother: 
+
+"We have done everything possible, dear grandmother; they came once, then we tried to call them again. But do not grieve; here we are, your grandchildren; you must look to us, oh, our mother! Oh, our grandmother! to remind you of our elder brothers, those who were called and have the names of Hunbatz and Hunchouén"
 
 They were invoked by the musicians and singers, and by the old people. The painters and craftsmen also invoked them in days gone by. But they were changed into animals and became monkeys because they became arrogant and abused their brothers.
 
-In this way they were disgraced; this was their loss; in this way Hunbatz and Hunchouén were overcome and became animals. They had always lived in their home; they were musicians and singers and also did great things when they lived with their grandmother and with their mother.
+In this way they were disgraced.
 
+This was their loss.
+
+In this way, Hunbatz and Hunchouén were overcome and became animals. 
+
+They had always lived in their home; they were musicians and singers and also did great things when they lived with their grandmother and with their mother.
