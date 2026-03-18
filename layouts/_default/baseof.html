@@ -4,7 +4,7 @@
   {{ partial "head.html" . }}
 </head>
 <body class="bg-sp-bg text-sp-text transition-colors duration-300 min-h-screen flex flex-col">
-  {{ partial "navbar.html" . }}
+  {{ partialCached "navbar.html" . }}
 
   <main class="flex-1">
     {{ block "main" . }}{{ end }}

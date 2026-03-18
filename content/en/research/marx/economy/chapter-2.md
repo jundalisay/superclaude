@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: "Money Or Simple Circulation"
-weight: 5
+weight: 10
 date: 2025-10-05
 description: ""
 c: "firebrick"

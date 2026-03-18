@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
-title: "THE PRECIOUS METALS"
-weight: 5
+title: "The Precious Metals"
+weight: 31
 date: 2025-10-05
 description: ""
 c: "firebrick"

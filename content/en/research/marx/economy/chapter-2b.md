@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title: "Theories of the Standard of Money"
-weight: 5
+weight: 14
 date: 2025-10-05
 description: ""
 c: "firebrick"

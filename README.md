@@ -2,6 +2,9 @@
 
 A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
 
+8pm to 2am is peak time
+3am to 7pm is lean time ok
+
 {{- $hasImage := and .Params.image (not .Params.icon) -}}
 
 
@@ -9,6 +12,11 @@ npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/styles.css --watch
 
 BUN_VERSION 1.3.3
 HUGO_VERSION 0.145.0
+
+"dev:hugo": "hugo server --buildDrafts --disableFastRender",    
+
+Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GMT on weekdays. Now through March 28.
+
 
 
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2c
 title: "Medium of Exchange"
-weight: 5
+weight: 17
 date: 2025-10-05
 description: ""
 c: "firebrick"

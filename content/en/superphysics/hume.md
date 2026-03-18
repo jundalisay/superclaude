@@ -12,6 +12,7 @@ icon: "Juan"
 ---
 
 
+
 David Hume's philosophy is based on impressions and ideas, with impressions being the cause of ideas.
 
 Like Descartes, he goes with the process of `senses --> impression --> reflection --> ideas (desires, perception) --> soul`

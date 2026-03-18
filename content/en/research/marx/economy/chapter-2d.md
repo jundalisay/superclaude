@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2d
 title: "The Circulation of Money"
-weight: 5
+weight: 20
 date: 2025-10-05
 description: ""
 c: "firebrick"

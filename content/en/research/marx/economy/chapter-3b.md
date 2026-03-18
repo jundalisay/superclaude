@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3
 title: "Money"
-weight: 5
+weight: 25
 date: 2025-10-05
 description: ""
 c: "firebrick"

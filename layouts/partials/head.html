@@ -41,12 +41,16 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Varela+Round:ital,wght@0,200..1000;1,200..1000&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
 
 
 <!-- Tailwind v4 CDN -->
-<link rel="stylesheet" href="/css/styles.css" />
+<!-- <link rel="stylesheet" href="/css/styles.css" /> -->
+<link rel="stylesheet" href="/css/tailwind.css">
 <!-- <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script> -->
+<!-- Custom styles -->
+<link rel="stylesheet" href="/css/custom.css"/>
+
 
 <!-- Dark mode init (before render to prevent flash) -->
 <script>
@@ -59,8 +63,7 @@
   })();
 </script>
 
-<!-- Custom styles -->
-<link rel="stylesheet" href="/css/custom.css"/>
+
 
 <!-- Search index JSON -->
 {{ if .IsHome }}

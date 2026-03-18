@@ -1,161 +1,294 @@
 ---
-title: "Worker Voice And Collective Bargaining"
+title: "Protect Small Businesses and Entrepreneurship (Joint Employer)"
 date: 2024-11-01
-description: ""
+description: "America’s religious diversity means that workplaces include people of many faiths and that many employers are faith-based"
 c: "firebrick"
 icon: "Heritage Foundation"
 ---
 
 
 
-Non-Union Worker Voice and Representation. 
+Millions of businesses across America engage in mutually beneficial affiliation arrangements with other businesses. These arrangements include janitorial services, staffing firms, construction contractors and subcontractors, technology support services, and many other vendor and contracting services. They also include the nearly 775,000
+independently owned franchise businesses, which employ 8.2 million workers across the United States. The franchise structure offers a proven business model for
+individuals who want to own and operate their own small business. 
 
-American workers lack a meaningful voice in today’s workplace. Between 50 percent and 60 percent of workers have less influence than they want on critical workplaces issues beyond pay and benefits. Even managers are twice as likely to say their employees have too little influence rather than too much.
+An Obama-era regulation changed the definition of a joint employer to make corporate franchisors jointly liable for employees of individual franchisee owners, even without the
+franchisor exercising any direct control over those employees. 
 
-But America’s one-size-fits-all approach undermines worker representation. Federal labor law offers no alternatives to labor unions whose politicking and adversarial approach appeals to few, whereas most workers report that they prefer a more cooperative model run jointly with management that focuses solely on workplace issues. The next Administration should make new options available to workers and push Congress to pass labor reforms that create non-union “employee involvement organizations” as well as a mechanism for worker representation on corporate boards.
+The Biden Administration is advancing an even more expansive definition of a joint employer that would upend the franchise business model, taking away ownership and income
+opportunities from small-business entrepreneurs, costing jobs, and raising prices. 
 
-Congress should reintroduce and pass the Teamwork for Employees and Managers (TEAM) Act of 2022.18 The TEAM Act:
+Overtime Pay Threshold. Overtime pay is one of the most challenging aspects of the Fair Labor Standards Act rules. “Nonexempt workers” (e.g., workers whose
+job duties fall within the law’s power or whose total pay is low enough) must be
+paid overtime (150 percent of the “regular rate”) for every hour over 40 in a workweek.
 
-1. Reforms the National Labor Relations Act’s (NLRA) Section 8(a)(2) prohibition on formal worker–management cooperative organizations like works councils.
-
-2. Creates an “Employee Involvement Organization” (EIO) to facilitate voluntary cooperation on critical issues like working conditions,
-benefits, and productivity. 
-
-3. Amends labor law to allow EIOs at large, publicly traded corporations to elect a non-voting, supervisory member of their company’s board
-of directors. 
-
-### Alternative View.
-
-While some conservatives lament that workers lack sufficient voice in today’s workplace, others interpret the rise in independent and flexible work opportunities, significant expansion in family-friendly policies like paid family leave, and the decline in private sector unionization as indicators of workers’ increasing competency and control. Another way to help expand workers’ freedom and voices in traditional workplaces is by allowing them to choose who represents them in negotiations with their employer. The Worker’s Choice Act19 would accom- plish this by ending exclusive representation so that unions in right-to-work states are no longer forced to represent workers who do not want to join them.
-
-Union Transparency. 
-
-Private-sector unions must file detailed financial information with DOL—on matters including union spending, income, loans, assets, membership information, and employee salary—but unions composed entirely of state or local employees are exempt from this filing requirement. These disclosure requirements help workers and the public understand how union leaders are raising and spending union dues; they also can serve as a vital source of infor- mation that helps workers decide if the unions they are asked to join are good stewards of the funds they collect. DOL, under both George W. Bush and Donald Trump, tried rulemakings (known as the Intermediate Bodies Rule) that would require some government unions to file the same information that is required of private-sector unions.
-
-Under President Trump, OLMS required unions to disclose involvement in
-trusts that they either own a majority stake in or control. In the past, union trust
-spending has been hidden, and it appears that trust assets have occasionally
-been corruptly spent for the benefit of private interests in union leadership—
-such as $30,000 spent on a private party, $37,500 spent on a Montblanc pen,
-condominiums for those in power, golf outings, and a Ferrari.20 But the Biden
-DOL eliminated a transparency rule requiring the filing of the T-1 Trust
-Annual Report.
-
-More generally, OLMS, which is charged with enforcing the law of union dis-
-closure, has historically been underfunded when compared to other DOL agencies.
-This relative lack of funding has made ensuring disclosure more difficult.
+Overtime requirements may discourage employers from offering certain fringe benefits such as reimbursement for education, childcare, or even free meals
+because the benefits’ value may be included in the “regular rate” that must be
+paid at 150 percent for all overtime hours. And because some of these fringe benefits may be more valuable (and often come with tax preferences that benefit the
+worker), the goal should be to set a threshold to ensure lower-income workers have the protections of overtime pay without discouraging employers from offering
+these benefits.
 
 
-Enact transparency rules. 
+DOL should maintain an overtime threshold that does not punish businesses in lower-cost regions (e.g., the southeast United States). The Trump-era threshold is high enough to capture most line workers in lower-cost regions. One possibility to consider (likely requiring congressional action) would be to automatically update the
+thresholds every five years using the Personal Consumption Expenditures (PCE) as an inflation adjustment. This could reduce the likelihood of
+a future Administration attempting to make significant changes but would also impose more adjustments on businesses as those automatic
+increases take hold.
 
-The substance of the Intermediate Bodies Rule
-should pass into law, either through rulemaking or through legislation. The
-T-1 Trust Annual Report annual filing requirement should be restored.
-Increase funding levels. Congress should expand the funding of the Office
-of Labor-Management Standards.
+Congress should clarify that the “regular rate” for overtime pay is
+based on the salary paid rather than all benefits provided. This would
+enable employers to offer additional benefits to employees without fear that
+those benefits would dramatically increase overtime pay.
 
-Duty of Fair Representation. Unions have a duty of fair representation to
-their members, yet they too often abuse that duty to use their members’ resources
-on left-wing culture-war issues that are unrelated, and in fact often harmful, to
-union members’ own interests.
+Congress should provide flexibility to employers and employees to calculate the overtime period over a longer number of weeks.
 
-The NLRB should take enforcement or amicus action advancing the
-position that political conflicts of interest by union leadership can
-support claims for breach of the duty of fair representation in a
-manner analogous to financial conflicts of interest and analogous to
-breaches of the fiduciary duty of loyalty in other areas of law.
-Interpreting “Protected Concerted Activity.” In an effort to prevent
-employers from retaliating against workers who express a desire to unionize, cer-
-tain activities are deemed “protected concerted activity” (under §7 of the NLRA).
+Specifically, employers and employees should be able to set a two- or four-week period over which to calculate overtime. This would give workers
+greater flexibility to work more hours in one week and fewer hours in the next and would not require the employer to pay them more for that same
+total number of hours of work during the entire period.
 
-The NLRB has issued extreme interpretations of these activities, such as deter-
-mining that a business’s requiring its employees to be courteous to customers and
-one another is an unlawful infringement on the free speech rights implicit in the
-protected concerted activity protections in the NLRA.
+Compliance-Assistance Programming. Labor agencies are often tempted to encourage “over compliance” by companies subject to regulation by pursuing “regulation through enforcement” strategies. Rather than giving regulated entities clear boundaries for what they can and cannot do under the law, the agencies rely on the vagueness of the law to bring enforcement activity against businesses
+that fail to meet an inspector or agency head’s personal standard. This is not fair
+to regulated parties and results in disfavored companies bearing the brunt of the
+agencies’ enforcement efforts even though their behavior may be within the main-
+stream of employer behavior.
 
-Reverse unreasonable interpretations of “protected concerted
-activity.” The NLRB should return to the 2019 Alstate Maintenance
-interpretation of what does and does not constitute protected concerted
-activity, including listing eight instances of lawful actions by employers.
+Labor agencies should provide compliance assistance to help
+businesses and workers better understand the agencies’ position
+on their own rules and should do so in a way that makes it easier
+to follow those rules. This frees people to focus on their work rather
+than slogging through an ever-growing body of laws, rules, and guidance
+documents generated by the agencies.
 
-Increase the use of 10( j) injunctive relief. The NLRB should increase
-its use of 10( j) and should articulate guidelines for situations in which it
-intends to seek injunctive relief; the board should delegate authority to
-pursue such injunctions to the general counsel and the general counsel
-should establish a policy of considering them expeditiously in all retaliation
-cases identified by regional offices.
+DOL should reinstitute the PRO Good Guidance rule via notice
+and comment.
 
-Dues-Funded Worker Centers. Under current law, both labor unions and
-unionized employers must file financial disclosures with DOL on an annual basis
-to ward off potential fraud and corruption of the sort that has been seen recently
-within the United Automobile, Aerospace and Agricultural Implement Workers of
-America (UAW). However, worker centers, which have grown in number and influ-
-ence enormously over the past decade, are not required to file these disclosures.
-
-Investigate worker centers and require financial disclosures. DOL
-should investigate worker centers that look and act like unions and bring
+Congress should amend the Administrative Procedure Act11 to
+explicitly limit the use of guidance documents.
 
 
-Injunctive Relief and Worker Organizing Activities. 
+Clear and Restrictive Rules on Guidance Documents. Federal agencies not only
+issue regulations to fill in gaps left by legislation, but also supplement those reg-
+ulations with “guidance” documents that occupy a unique and often confusing
+area between law and “helpful advice.” Unfortunately, wielded by overzealous
+enforcement agents, such guidance, some of it even hidden from public view,
+morphs into binding law used against unsuspecting employers. Guidance can be
+a tricky thing and can be used for good or bad. It should be used to make compli-
+cated regulations easier to understand, so that businesses can do their actual jobs
+and focus on providing jobs to American workers and value to consumers (really,
+compliance assistance). But guidance is often used to create new rules overnight
+without following legal requirements—like giving the public an opportunity to
+provide valuable input. This wrongful use of guidance hurts workers and those
+who employ them. In October 2019, President Trump signed an executive order
+ending this abusive practice and created a new, fairer system for American busi-
+nesses and their employees. In response, DOL published its PRO Good Guidance
+rule,10 which expressly limits its use of guidance in enforcement actions and gives
+the public the opportunity to submit comments to influence the department’s deci-
+sions on creating, revising, and even rescinding guidance. Under this rule, agencies
+cannot treat guidance as legally binding and must make all guidance documents
+readily accessible on their searchable online databases. This rule was immediately
+rescinded by the Biden Administration.
 
-Within the confines
-of the more reasonable definition of protected concerted activity described above,
-the NLRB should increase its pursuit of reinstatement injunctions. Firing work-
-ers engaged in concerted activity has an immediate chilling effect on organizing,
-but remedies under the NLRA typically come only much later and amount only
-to backpay. In NLRA section 10( j), Congress empowered the NLRB to obtain
-temporary injunctions that immediately reinstate workers to their jobs in these
-circumstances. This provides a more meaningful remedy to the worker and creates
-a significant deterrent to unfair labor practices, because prompt reinstatement will
-tend to reinforce the legitimacy of the organizing effort. The NLRB overwhelmingly
-prevails when pursuing an injunction, succeeding 100 percent of the time in 2020
-and 91 percent of the time in 2021.
-
-Office of Labor-Management Standards Initiative. Currently, the Office of
-Labor-Management Standards (OLMS) may investigate potential employer mal-
-feasance with regard to union funds in the absence of any complaint by a worker
-or union but may not do the same with regard to potential union malfeasance. If
-OLMS has evidence that a union may be violating the law based on information
-available to the agency (such as annual financial disclosure reports, information
-developed during an audit of a union’s books and records, or information obtained
-from other government agencies) it should be permitted to open an investigation.
-It should have the same enforcement tools available for both employers and unions.
+Exemptions from Regulations for Small Business. Burdensome regulations have
+anti-competitive effects. In general, larger, higher-margin businesses are better
+able to absorb the costs of regulatory compliance than are small businesses, and
+under the Biden Administration, big-business lobbies have affirmatively embraced
+certain regulations (such as the COVID vaccine mandate for private employers) to
+reduce competition from smaller businesses. Research suggests that labor regula-
+tions may pose the highest aggregate regulatory cost for small businesses.
 
 
-Revise investigation standards. The Office of Labor-Management
-Standards should revise its investigation standards to authorize
-investigations without receiving a formal complaint.
+The labor agencies should exercise their available discretion and
+duties under the Regulatory Flexibility Act12 to exempt small entities
+from regulations where possible.
 
-Persuader Rule. During the Obama Administration, DOL created significant
-regulatory burdens for employers with respect to the advice that employers receive
-about union activity. As a general matter, employers who hire lawyers or other con-
-sultants to advise employees about union issues must file disclosure forms with the
-department, as must the lawyers and consultants themselves. Prior to the Obama
-Administration, advice provided solely to the employer required no disclosure.
-The Obama Administration attempted to eliminate this “advice exemption” with
-a directive known as the “persuader rule,” which was successfully challenged in
-court. In 2018, the Trump Administration formally rescinded the persuader rule.
+Congress should enact legislation increasing the revenue thresholds
+at which the National Labor Relations Board asserts jurisdiction over
+employers to match changes in inflation that have occurred since
+1935 and better reflect the definition of “small business” used by the
+federal government.
 
-DOL should rescind the persuader rule once again should the Biden
-Administration revive it.
+Congress (and DOL, in its enforcement discretion) should exempt
+small business, first-time, non-willful violators from fines issued by
+the Occupational Health and Safety Administration.
 
-Unionizing the Workplace: Card Check vs. Secret Ballot. Under the
-NLRA, instead of having a secret ballot election about the decision to unionize
-a workplace, a union may instead collect signed pro-union cards from a majority
-of the employees it wishes to represent and then ask the employer and National
-Labor Relations Board for voluntary union recognition. That request gives the
-employer the option to hold a secret-ballot election or to recognize the union with-
-out any such election. This “card check” procedure is likely to induce employees
-to provide their signed cards in ways that do not accurately reflect their true pref-
-erences—ranging from a desire not to offend the signature requestor to a wish to
-avoid intimidation and coercion to signing based on false information provided
-by union organizers. In short, the card check procedure sidesteps many aspects of
-democratic decision-making that free and fair elections conducted by secret ballot
-are supposed to accomplish. Notably, the general counsel of the National Labor
-Relations Board has recently proposed an esoteric legal theory that card-check decision-making is required under the law, basing this theory on an old NLRB
-case, Joy Silk, even though the Supreme Court has repeatedly rejected mandatory
-card-check recognition.
 
-Discard “card check.” Congress should discard “card check” as the basis of
-union recognition and mandate the secret ballot exclusively.
+## Education And Vocational Training
 
+Apprenticeships. The next Administration should return to prior policy and
+implement an industry-recognized apprenticeship program separate from the
+Registered Apprenticeship Program (RAP) and explore how best to modernize,
+streamline, and eliminate duplication in the RAP. For roughly 80 years, the RAP—
+which requires conforming to government standards and includes federal funding,
+tax credits, and other federal resources—has dominated apprenticeship programs
+in the U.S. Organizations across the political spectrum have noted that the overly
+burdensome requirements of RAPs have contributed to limiting them to legacy
+trades, failing to meet growing industry demands such as in health care and tech-
+nology. A 2017 study estimated that the number of occupations commonly filled
+through apprenticeships could nearly triple (from 27 to 74), that the number of
+job openings filled through apprenticeships could expand eightfold (to 3.2 million),
+and that the occupations ripe for apprenticeship expansion could offer 20 percent
+higher wages than traditional apprenticeship occupations.
+
+The Trump Administration expanded apprenticeship options through the cre-
+ation of the Industry-Recognized Apprenticeship Program (IRAP), and more than
+130 IRAPs were created. The Biden Administration rescinded the IRAP regulations.
+
+
+Congress should expand apprenticeship programs outside of the RAP
+model, re-creating the IRAP system by statute and allowing approved
+entities such as trade associations and educational institutions to
+recognize and oversee apprenticeship programs.
+In addition, religious organizations should be encouraged to participate
+in apprenticeship programs. America has a long history of religious
+organizations working to advance the dignity of workers and provide
+them with greater opportunity, from the many prominent Christian and
+Jewish voices in the early labor movement to the “labor priests” who would
+appear on picket lines to support their flocks. Today, the role of religion in
+helping workers has diminished, but a country committed to strengthening
+civil society must ask more from religious organizations and make sure
+that their important role is not impeded by regulatory roadblocks or the
+bureaucratic status quo.
+
+Hazard-Order Regulations. Some young adults show an interest in inherently
+dangerous jobs. Current rules forbid many young people, even if their family is
+running the business, from working in such jobs. This results in worker shortages
+in dangerous fields and often discourages otherwise interested young workers from
+trying the more dangerous job. With parental consent and proper training, certain
+young adults should be allowed to learn and work in more dangerous occupations.
+This would give a green light to training programs and build skills in teenagers who
+may want to work in these fields.
+l
+DOL should amend its hazard-order regulations to permit teenage
+workers access to work in regulated jobs with proper training and
+parental consent.
+Workforce Training Grant Program. The federal government spends more
+than $100 billion per year subsidizing higher education but close to zero supporting
+people on non-college pathways.
+l
+Congress should create an employer grant worth up to $10,000
+per year or pro-rated portion thereof for each worker engaged in
+
+
+Encourage and enable religious organizations to participate in
+apprenticeship programs, etc. Both DOL and NLRB should facilitate
+religious organizations helping to strengthen working families via
+apprenticeship programs, worker organizations, vocational training,
+benefits networks, etc.
+on-the-job training, defined as some share of paid time spent in a
+formal training program.
+
+To qualify, a program—whether run by the employer, an industry
+consortium, a community college, or a union—would need to define program
+length, curriculum, career path, and credential and to report regularly on
+outcomes for participants. Programs that fail to deliver promised results
+would be disqualified from continued funding. Funding for employer grants
+should come from existing higher education subsidies that are currently
+disadvantaging alternative education options.
+
+Federal “BA Box.” The American labor market continues to experience a glut
+of college degrees. The country produces more college graduates than suitable jobs
+for them to fill. Meanwhile, employers exacerbate the problem, fueling demand
+for college by needlessly requiring degrees for many jobs. In 2020, the Trump
+Administration took an important step toward pro-worker, skills-based hiring
+practices. Executive Order 13932, Modernizing and Reforming the Assessment and
+Hiring of Federal Job Candidates,13 directed the Office of Personnel Management
+to reduce degree-based practices in the federal civil service. Maryland’s Governor
+Larry Hogan issued an executive order in 2022 to adopt this rule for Maryland state
+employees, and Utah’s Governor Spencer Cox in December of 2022 announced
+that Utah would do the same. Today, federal civil service job descriptions must
+“be based on the specific skills and competencies required to perform those jobs,”
+and may prescribe a “minimum educational requirement” only if it is otherwise
+legally required. The same policies do not extend beyond the civil service. Federal
+agencies continue to require college degrees for contract employees, and federal
+contractors are rarely able to place workers without four-year degrees on federal
+projects, regardless of their qualifications. Private employers consistently impose
+a BA requirement on jobs even when existing workers in the role do not have one.
+
+Adopt the civil service’s skills-based hiring standards for federal
+contractors. The President should direct the Administrator for Federal
+Procurement Policy to adopt the civil service’s skills-based hiring standards
+for federal contractors and issue waivers from degree-based staffing
+requirements in existing contracts.
+Prohibit the use of a BA requirement in job descriptions. Congress
+should prohibit the inclusion of a BA requirement in job descriptions
+for all private sector employers, or the use of a BA requirement to screen
+applicants using algorithms, except where a BA from a particular type of
+institution or in a particular field is a bona fide requirement of the position.
+— 596 —Department of Labor and Related Agencies
+Alternative View. While the federal government has a duty to promote economy
+and efficiency in federal hiring and contracting, and thus should base decisions on
+skills as opposed to degrees, it is not the federal government’s role to determine
+whether private employers may or may not include degree requirements in job
+descriptions and in their hiring decisions. The inappropriate reverence given to
+degree requirements is a byproduct of the federal government’s heavy subsidi-
+zation of BA degrees. Phasing down federal subsidies would be a better way to
+eliminate barriers to jobs for individuals without BA degrees.
+Federal Workforce Development Programs. Existing federally funded work-
+force development and training programs should be reassessed to ensure they are
+outcome-based and truly deliver value to taxpayers and job seekers.
+As of 2019, the federal government spent approximately $17 billion annually on
+43 federal employment and training programs administered across nine federal
+agencies, many of which overlap with at least one other program. Many of these
+programs track only inputs or individuals served, not outcomes or outputs, and do
+not swiftly identify bad-actor grantees. The federal government should identify
+underperforming programs and eliminate or redirect that funding to programs
+with strong outcome-based metrics.
+
+Review employment and training programs to ensure outcome-
+based metrics. DOL and other federal agencies with jurisdiction over
+employment and training programs should review their programs and
+utilize all available tools and authority to ensure these programs contain
+strong outcome-based metrics. 
+
+To the extent that agencies have this
+authority, they should reevaluate funding for programs that do not meet
+those evidence-based and outcomes-based requirements. Finally, strong
+internal policies should be implemented to ensure bad-actor grantees are
+identified and sanctioned expeditiously.
+
+Federal Unemployment Insurance Program. In the post-pandemic land-
+scape, the federal government should restore the Unemployment Insurance (UI)
+program’s purpose with a particular focus on reestablishing program integrity and
+accountability. The Coronavirus Aid, Relief, and Economic Security (CARES) Act15
+
+
+### Evaluate and streamline workforce development programs, ensuringevidence-based outcomes. 
+
+In its reauthorization of the Workforce Innovation and Opportunity Act (WIOA),14 Congress should evaluate and streamline the existing workforce development programs to ensure there is no overlap or fragmentation between programs. Congress should also ensure strong evidence-based outcomes for each program and tie federal funding for those programs to the outcomes achieved.
+
+unemployment programs were defrauded of hundreds of billions of dollars, including by state-sponsored hacking groups. Not all state agencies are yet through their
+backlogs of appeals and fraud cases; the recovery of lost funds has been minimal;
+
+and fraud has now spilled into the traditional UI programs. The CARES Act era drastically altered the entire UI ecosystem: The federal–state partnership shifted
+toward federal programs and funding, and the social insurance purpose of the
+program was disconnected as benefits were extended, expanded to more typically
+uncovered populations, and made exponentially larger.
+l
+Congress should also develop a framework (through commission of a
+congressional report to serve as a blueprint) of technical standards
+on broader tech topics like usability, state agency cybersecurity
+postures, data taxonomy standardization, and/or identity
+verification standards.
+
+Congress should enact bipartisan commonsense UI program reforms,
+including statutory authority for the Labor Office of Inspector
+General (OIG) to access all state UI records for the purposes of
+investigation and requiring state agencies to crossmatch applicants
+with the National Directory of New Hires.
+
+Congress should provide DOL with more reasonable enforcement
+tools for the UI system. Currently, DOL can either send a strongly worded
+letter or revoke the entire Federal Unemployment Tax Act (FUTA)16 tax
+credit, which would place an immediate 6 percent to 7 percent tax on all
+covered employers.
+
+DOL should review all actual or planned procurements against the $2 billion (under the American Rescue Plan Act)17 for UI fraud detection, accessibility, and equity investments. These funds do not have appropriations timelines and have very minimal statutory descriptions
+of the intended purpose. 
+
+DOL should also review and propose changes to improve state monitoring programs including developing evidence-based
+frameworks for evaluating the technical readiness and security postures of
+the state agencies; strengthen its relationship with the OIG and Government
+Accountability Office (GAO), and support continued development of fraud
+prosecution with DOJ, the Department of Homeland Security (DHS), and
+the financial services community; ensure administrative and IT funding is
+outcome-based; and gather and publish best practices from state officials,
+industry partners, and other vendors who deliver UI services.

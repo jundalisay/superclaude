@@ -4,7 +4,9 @@ heading: "Introduction"
 description: "Shri Shri Anandamurtiji was bom in Jamalpur, Bihar, India, at dawn on the full-moon day in May 1921, the same day that Buddha was born about 2500 years earlier. "
 c: "indigo"
 weight: 2
+icon: "Dharmavedananda"
 author: Dada
+toc: false
 ---
 
  
@@ -15,7 +17,9 @@ Because the sun was rising at the moment of His birth, the baby was named  Arun,
 
 Some days after the baby's birth, a ceremony was performed at which  many of the family members were present. A cotton wick was dipped into a silver pot of milk and then held over the baby's mouth so that the milk could  drip in. At that moment, however, Arun lurched forward, grabbed the wick and  started to drink from it directly. 
 
-Everyone was shocked, especially the grandmother who exclaimed, "He is not a baby, rather he is a grown-up boy! He is Burho!" From that moment, Burho, which means "the ancient one,"  became His nickname. Later on it was shortened to Bubu. Many years later,  when Baba was asked about this incident, He said it was at that time that He realized it would be better for Him to act like a normal child. 
+Everyone was shocked, especially the grandmother who exclaimed, "He is not a baby, rather he is a grown-up boy! He is Burho!" From that moment, Burho, which means "the ancient one,"  became His nickname.
+
+Later on it was shortened to Bubu. Many years later,  when Baba was asked about this incident, He said it was at that time that He realized it would be better for Him to act like a normal child. 
 
 
 When He was only an infant, He narrated strange experiences to His  mother, telling her how all the animals of the universe would enter in one of His ears, and go out the other. Many of the descriptions lit animals which He had never seen or which were extinct. He also narrated how all the planets and galaxies were floating through Him. 
@@ -267,4 +271,3 @@ Who or what is He? I don't know. Occasionally during kiirtan or meditation I get
 back. 
 
 How silly! There's nothing to lose except my selfishness. 
-

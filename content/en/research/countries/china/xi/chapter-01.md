@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: Socialism with Chinese Characteristics Enters a New Era
-weight: 3
+weight: 5
 date: 2025-10-13
 description: ""
 image: /flags/cn.png

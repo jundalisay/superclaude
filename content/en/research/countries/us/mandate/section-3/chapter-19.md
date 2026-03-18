@@ -288,7 +288,7 @@ vehicles as well as pedestrians, bicyclists, and other road users. They should
 account for the potential for radio interference, and they should address security.
 This is why in 1999, in response to a request from Congress, the Federal Com-
 munications Commission allocated the 5.9 GHz band of spectrum to traffic safety
-and intelligent transportation systems (ITS). In 2020, the FCC took away 45 MHz
-of the 75 MHz it had added, leaving only 30 MHz for transportation safety and
-ITS. DOT needs to represent the transportation community and make the case
+and intelligent transportation systems (ITS). 
+
+In 2020, the FCC took away 45 MHz of the 75 MHz it had added, leaving only 30 MHz for transportation safety and ITS. DOT needs to represent the transportation community and make the case
 for needed spectrum to the public and Congress.

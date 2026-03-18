@@ -92,11 +92,6 @@ summarylength = 30
         { img = "/photos/buy.jpg", title = "Policies from Social Cycles", sub = "A better world needs policies that match Nature", url = "/social/policies" },
       ]
 
-
-
-
-
-
   [languages.zh]
     languageName = "中文"
     weight = 2
@@ -185,5 +180,14 @@ summarylength = 30
   section = ["HTML", "RSS"]
   page = ["HTML"]
 
-
-
+[minify]
+  disableXML = false
+  disableJSON = false
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+      keepComments = false
+    [minify.tdewolff.css]
+      decimals = -1
+    [minify.tdewolff.js]
+      precision = 0

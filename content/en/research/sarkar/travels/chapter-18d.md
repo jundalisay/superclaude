@@ -4,7 +4,8 @@ heading: "Chapter 18d"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
 c: "indigo"
 weight: 294
-author: Dada
+author: Dada Dharmavedananda
+icon: Dharmavedananda
 ---
 
 

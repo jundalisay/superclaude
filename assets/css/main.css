@@ -1,7 +1,12 @@
 @import "tailwindcss";
 
-/* Custom theme tokens for Superphysics */
 @theme {
+  /* Font families */
+  --font-display: 'Varela Round', sans-serif;
+  --font-body: 'Varela Round', sans-serif;
+  --font-code: 'Fira Code', monospace;
+  
+  /* Colors */
   --color-sp-bg: #f8fafc;
   --color-sp-bg-alt: #f1f5f9;
   --color-sp-card: #ffffff;
@@ -9,14 +14,17 @@
   --color-sp-muted: #64748b;
   --color-sp-border: #e2e8f0;
   --color-sp-nav: rgba(248, 250, 252, 0.92);
-
-  --font-display: 'Varela Round', sans-serif;
-  --font-body: 'Varela Round', sans-serif;
-  --font-code: 'Fira Code', monospace;
+  
+  /* Dark mode colors */
+  --color-sp-bg-dark: #0f172a;
+  --color-sp-bg-alt-dark: #1e293b;
+  --color-sp-card-dark: #1e293b;
+  --color-sp-text-dark: #f1f5f9;
+  --color-sp-muted-dark: #94a3b8;
+  --color-sp-border-dark: #334155;
+  --color-sp-nav-dark: rgba(15, 23, 42, 0.92);
 }
 
-@source "../../layouts/**/*.html";
-@source "../../content/**/*.md";
 
 
 /* Dark mode theme overrides */
@@ -140,4 +148,18 @@ code, pre, .font-code {
   .group:hover .group-hover\:block {
     display: block !important;
   }
+
+  .nav-btn {
+    @apply flex items-center gap-1 px-3 py-1.5 text-sm font-semibold rounded-lg text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition-all;
+  }
+  
+  .nav-link {
+    @apply block px-4 py-2 text-sm text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 rounded-lg transition-colors;
+  }
+
+  .icon-btn {
+    @apply w-9 h-9 flex items-center justify-center rounded-xl text-sp-muted hover:text-teal-600 hover:bg-sp-bg-alt transition-colors;
+  }
+
 }
+

@@ -35,37 +35,36 @@ mate affinity to algebra. For, if instead of particularising the
 quantities considered, if instead of assigning them numerically,
 we treat them in quite a general way, designating them by let-
 ters, we have algebra.
+
+
 You know what a fraction is. The notion of a fraction is
 slightly more composite than that of whole numbers. In whole
 numbers we consider simply a quantity repeated. To reach the
-notion of a fraction it is necessary to consider the quantity di-
-vided into a certain number of parts. Fractions represent in
+notion of a fraction it is necessary to consider the quantity divided into a certain number of parts. Fractions represent in general ratios, and serve to express one quantity by means of another.
 
-general ratios, and serve to express one quantity by means of an-
-other. In general, nothing measurable can be measured except
+In general, nothing measurable can be measured except
 by fractions expressing the result of the measurement, unless the
 measure be contained an exact number of times in the thing to
 be measured.
-You also know how a fraction can be reduced to its lowest
-terms. When the numerator and the denominator are both di-
+
+You also know how a fraction can be reduced to its lowest terms. When the numerator and the denominator are both di-
 visible by the same number, their greatest common divisor can
 be found by a very ingenious method which we owe to Euclid.
-This method is exceedingly simple and lucid, but it may be
-rendered even more palpable to the eye by the following con-
-sideration. Suppose, for example, that you have a given length,
-and that you wish to measure it. The unit of measure is given,
-and you wish to know how many times it is contained in the
+
+This method is exceedingly simple and lucid, but it may be rendered even more palpable to the eye by the following consideration. Suppose, for example, that you have a given length, and that you wish to measure it. The unit of measure is given, and you wish to know how many times it is contained in the
 length. You first lay off your measure as many times as you can
 on the given length, and that gives you a certain whole number
-of measures. If there is no remainder your operation is finished.
-But if there be a remainder, that remainder is still to be eval-
-uated. If the measure is divided into equal parts, for example,
-into ten, twelve, or more equal parts, the natural procedure is
+of measures. If there is no remainder your operation is finished. 
+
+But if there be a remainder, that remainder is still to be evaluated. 
+
+If the measure is divided into equal parts, for example, into ten, twelve, or more equal parts, the natural procedure is
 to use one of these parts as a new measure and to see how many
-times it is contained in the remainder. You will then have for
+times it is contained in the remainder. 
+
+You will then have for
 the value of your remainder, a fraction of which the numerator is
-the number of parts contained in the remainder and the denom-
-inator the total number of parts into which the given measure
+the number of parts contained in the remainder and the denominator the total number of parts into which the given measure
 is divided.
 I will suppose, now, that your measure is not so divided but
 that you still wish to determine the ratio of the proposed length
