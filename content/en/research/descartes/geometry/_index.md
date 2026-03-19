@@ -1,6 +1,5 @@
 ---
 title: "Geometry"
-# linkTitle: Man
 # date: 2022-01-29
 weight: 8
 description: ""

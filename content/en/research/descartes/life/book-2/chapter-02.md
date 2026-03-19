@@ -25,7 +25,9 @@ He who professed to generally despise all scholars because he had never met any 
 
 He felt a stir of emulation within himself that touched him all the more for these Rose Crosses, as the news had come to him at the time of his greatest embarrassment regarding the means he should take for the search for truth. 
 
-He did not believe he should remain indifferent to them, because (he said to his friend Mydorge) if they were impostors, it was not right to let them enjoy a reputation ill-gotten at the expense of the good faith of the people; and if they brought something new to the world that was worth knowing, it would have been dishonest of him to want to despise all the sciences, among which there might be one whose foundations he was ignorant of. He therefore set out to find one of these new scholars, in order to be able to know them by himself and to confer with them. On which subject I think it is good to say a word about their history, for the satisfaction of those who have not yet heard of it.
+He did not believe he should remain indifferent to them, because (he said to his friend Mydorge) if they were impostors, it was not right to let them enjoy a reputation ill-gotten at the expense of the good faith of the people; and if they brought something new to the world that was worth knowing, it would have been dishonest of him to want to despise all the sciences, among which there might be one whose foundations he was ignorant of.
+
+He therefore set out to find one of these new scholars, in order to be able to know them by himself and to confer with them. On which subject I think it is good to say a word about their history, for the satisfaction of those who have not yet heard of it.
 
 It is claimed that the first founder of this brotherhood was a German born in 1378 of very poor parents, but of gentlemanly extraction.
 

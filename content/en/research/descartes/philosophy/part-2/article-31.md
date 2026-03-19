@@ -1,5 +1,5 @@
 ---
-title: "Vortex Movement"
+title: "Multiple Motions in One Motion"
 heading: Articles 31-32
 weight: 32
 description: "How innumerable diverse motions may be in the same body"
