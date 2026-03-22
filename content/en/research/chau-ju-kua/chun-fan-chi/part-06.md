@@ -3,7 +3,7 @@ title: "Dammar"
 heading: "Part 6"
 weight: 64
 description: "When the Emperor Wu-ti (BC 140-86) 86) had made the conquest of Southern Yue, he sent a mission from Suwon across the sea to reconnoitre Hainan"
-image: "/covers/chun.jpg"
+image: "/photos/stuff/dammar.jpg"
 writer:
   name: Chau Ju Kua
   url: https://en.wikipedia.org/wiki/Zhao_Rukuo
@@ -11,6 +11,8 @@ writer:
 
 
 ## 6. DAMMAR
+
+![Dammar](/photos/stuff/dammar.jpg)
 
 Tu-nau-hiang comes from the country of Cambodia. 
 

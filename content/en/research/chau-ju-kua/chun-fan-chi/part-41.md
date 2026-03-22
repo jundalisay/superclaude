@@ -2,7 +2,7 @@
 title: "Ambergris, Tortoise-shell"
 heading: "Part 41-43"
 weight: 82
-image: "/covers/chun.jpg"
+image: "/photos/stuff/tortoise.jpg"
 description: "Fresh ambergris is white. It turns red when slightly stale, and black when it is old. It is not fragrant nor bad-smelling. It is like pumice-stone but lighter"
 ---
 

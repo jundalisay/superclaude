@@ -2,7 +2,7 @@
 title: "Sandalwood"
 heading: "Part 12"
 weight: 68
-image: "/covers/chun.jpg"
+image: "/photos/stuff/agarwood.jpg"
 description: "The best is from Cambodia (Chon-la). The second quality is from South Vietnam (Champa)"
 ---
 

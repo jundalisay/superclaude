@@ -16,26 +16,15 @@ We arrived in the late evening. Without any experienced local group to help, the
 
 Besides passing along this order, I also had to see to the general security, the kitchen, the program plans, the darshan room, and the workers' rooms—not to mention dealing with the stream of workers and volunteers who bombarded me with questions about their respective responsibilities. 
 
-In the absence of properly experienced security volunteers, I was forced to 
-post a guard at Baba's door who was, well shall we say, more occupied with 
-spiritual than practical concerns. 
+In the absence of properly experienced security volunteers, I was forced to post a guard at Baba's door who was, well shall we say, more occupied with spiritual than practical concerns. 
 
 It was almost time for the workers' meeting when a ruckus occurred. 
-Running to Baba's room, I saw one of the priests stalking out, swearing to God 
-in Spanish, and saying that he would call the police; he wouldn't be restricted 
-within his own quarters. He was at least a bit drunk. The guard looked on 
-helplessly. I glanced into Baba's room. He was sitting calmly, unperturbed by 
-the intrusion. When He saw me He instructed me to call the workers to His 
-room immediately. 
 
-Within a few minutes everyone arrived. He said to us, "It is the duty of the 
-guest to ensure the host's comfort in every possible way. Our presence causes 
-some inconvenience to our host. As gentlemen we are to fulfill our duty in the proper way. We should therefore leave this 
-place immediately. We should not stay here another moment." He turned to me 
-and said, "Please thank the priests for allowing us to be here for this hour." 
+Running to Baba's room, I saw one of the priests stalking out, swearing to God in Spanish, and saying that he would call the police; he wouldn't be restricted within his own quarters. He was at least a bit drunk. The guard looked on helplessly. I glanced into Baba's room. He was sitting calmly, unperturbed by the intrusion. When He saw me He instructed me to call the workers to His room immediately.
 
-I was dumbfounded. It would be difficult enough to find facilities on short 
-notice for such a large group—but add to that Baba's special needs: a room with 
+Within a few minutes everyone arrived. He said to us, "It is the duty of the guest to ensure the host's comfort in every possible way. Our presence causes some inconvenience to our host. As gentlemen we are to fulfill our duty in the proper way. We should therefore leave this place immediately. We should not stay here another moment." He turned to me and said, "Please thank the priests for allowing us to be here for this hour."
+
+I was dumbfounded. It would be difficult enough to find facilities on short notice for such a large group—but add to that Baba's special needs: a room with 
 an attached bath, a nearby room for His personal assistant, a call-bell, space for 
 darshan, a kitchen for Him plus a kitchen for the workers, etc. The challenge 
 was mind-boggling. And it was evening. 
@@ -90,11 +79,7 @@ completeness. They cover three days. These three days' talks were more or less
 typical of His "usual" style, that is if it can be said that He has a usual style . 60 
 Notes from the first field walk follow: 
 
-"Why do oranges grow here?" He asked. No one answered. "It is because 
-of the Mediterranean climate. The flora and fauna are Mediterranean here. The 
-sweet scents here are also due to Mediterranean climate. Roses and sweet peas 
-are only scenting in the north. It may be that there are some medicinal herbs 
-growing here because the climate is so hot. All of them belong to the Calendula 
+"Oranges grow here because of the Mediterranean climate. The flora and fauna are Mediterranean here. The sweet scents here are also due to Mediterranean climate. Roses and sweet peas are only scenting in the north. It may be that there are some medicinal herbs growing here because the climate is so hot. All of them belong to the Calendula 
 family, having yellow flowers.... 
 
 "The name of a small stone or pebble in old Latin is rockin. Similarly a 
@@ -166,5 +151,3 @@ The girls were still singing kiirtan. Someone approached them, and they stopped 
 How could Baba be so cruel? 
 
 For the rest of the day and much of the night the 5 of them sat silently on the steps outside. 
-
-

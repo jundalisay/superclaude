@@ -2,7 +2,7 @@
 title: "Laka Wood"
 heading: "Part 15"
 weight: 70
-image: "/covers/chun.jpg"
+image: "/photos/stuff/agarwood.jpg"
 description: "Kiang-chon-hiang comes from Sumatra, Java, and  P'ong-fong, the districts of Kuang-tung and Kuang-si"
 ---
 

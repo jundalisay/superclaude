@@ -1,14 +1,13 @@
 ---
-title: "Putchuck"
+title: "Pachak"
 heading: "Part 25"
 weight: 74
-image: "/covers/chun.jpg"
-description: "The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-like  furnishing a floss half an inch and more in length, very much like goose-down, and containing some dozens of seeds"
+image: "/photos/stuff/pachak.jpg"
+description: "Mu-hiang comes from the country of Ma-lo-mo of the Arabs. It is also found in Shi-ho and Nu-fa. "
 ---
 
 
-
-Mu-hiang comes from the country of Ma-lo-mo of the Arabs/ It is also found in Shi-ho and Nu-fa. 
+Mu-hiang comes from the country of Ma-lo-mo of the Arabs. It is also found in Shi-ho and Nu-fa. 
 
 The plant resembles the Chinese ssi-kua (Luffa cylindrica, Koem.). 
 
@@ -75,7 +74,7 @@ product, probably because it was 'wood perfume'. In Chinese Buddhist books it -i
 Sanskrit ftwsTii/sa. Bretschneider, loc.cit.,112. See also Yule, Marco Polo, 11,387. -->
 
 
-## 26. CARDAMOMS 
+## 26. CARDAMOMS
 
 Pai-tou-kou come from Cambodia, Java, <!--  Chon-la, Sho-p'o --> and other foreign countries.
 
@@ -348,5 +347,3 @@ shipload of pepper that goes to Alexandria or elsewhere, destined for Christendo
 hundred such, aye and more too, to this haven of Zaytun». Duarte Barbosa, op. cit, 206,
 mentions also the great quantity of pepper used in China. See on the pepper trade in the Middle
 Ages, Heyd, Hist, du Commerce, -->
-
-

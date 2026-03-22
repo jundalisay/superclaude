@@ -2,12 +2,13 @@
 title: "Ivory, Rhinoceros Horns, Castoreum, Civet, Parrots"
 heading: "Part 36"
 weight: 80
-image: "/covers/chun.jpg"
+image: "/photos/stuff/elephant.jpg"
 description: "Siang-ya, or ivory, comes from several Arab countries and the two countries of Chonla India and South Vietnam"
 ---
 
 
-## 36. IVORY
+
+## 36. Ivory
 
 Siang-ya, or ivory, comes from several Arab countries and the two countries of Chonla India and South Vietnam. 
 

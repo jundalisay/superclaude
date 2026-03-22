@@ -2,7 +2,7 @@
 title: "Gharu Wood"
 heading: "Part 11"
 weight: 66
-image: "/covers/chun.jpg"
+image: "/photos/stuff/agarwood.jpg"
 description: "The best is from Cambodia (Chon-la). The second quality is from South Vietnam (Champa)"
 ---
 

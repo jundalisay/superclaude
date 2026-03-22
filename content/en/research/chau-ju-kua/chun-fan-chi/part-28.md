@@ -2,12 +2,13 @@
 title: "Cubebs, Asofatida, Aloes, Coral-tree "
 heading: "Part 28-31"
 weight: 76
-image: "/covers/chun.jpg"
+image: "/photos/stuff/cubebs.jpg"
 description: "Pitongkie come from a plant of creeping habits, which blossoms in the spring and bears fruit in the summer, resembling the kienniutzi. It has a white flower and black seeds, which are packed up after being dried in the sun"
 ---
 
 
-## 28. CUBEBS
+
+## 28. Cubebs
 
 Pitongkie come from a plant of creeping habits, which blossoms in the spring and bears fruit in the summer, resembling the kienniutzi. It has a white flower and black seeds, which are packed up after being dried in the sun. 
 

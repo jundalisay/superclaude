@@ -2,9 +2,10 @@
 title: "Coconuts"
 heading: "Part 19"
 weight: 70
-image: "/covers/chun.jpg"
+image: "/photos/stuff/coconutoil.jpg"
 description: "The ye-tsi, as regards the trunk and leaves, closely resembles the coir-palm and areca-palm. "
 ---
+
 
 
 ## 19. Coconuts

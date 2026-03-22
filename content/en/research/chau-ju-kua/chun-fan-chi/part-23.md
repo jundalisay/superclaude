@@ -2,7 +2,7 @@
 title: "Cotton and Mats"
 heading: "Part 23-24"
 weight: 72
-image: "/covers/chun.jpg"
+image: "/photos/stuff/cotton.jpg"
 description: "The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-like  furnishing a floss half an inch and more in length, very much like goose-down, and containing some dozens of seeds"
 ---
 
