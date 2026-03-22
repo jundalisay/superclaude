@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3
 title: "Being-for-self"
-weight: 14
+weight: 24
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
 icon: "Hegel"
@@ -47,7 +47,12 @@ Consciousness contains the determination of being-for-self because it represents
 
  Being-for-self is the polemical, negative attitude towards the limiting other, and through this negation of the latter is a reflectedness-into-self, although along with this return of consciousness into itself and the ideality of the object, the reality of the object is also still preserved, in that it is at the same time known as an external existence. 
 
- Consciousness thus belongs to the sphere of Appearance, or is the dualism, on the one hand of knowing an alien object external to it, and on the other hand of being for its own self, having the object ideally [ideell] present in it; of being not only in the presence of the other, but therein being in the presence of its own self. Self-consciousness, on the other hand, is being-for-self as consummated and posited; the side of connection with an other, with an external object, is removed. Self-consciousness is thus the nearest example of the presence of infinity; granted, of an infinity which is still abstract, yet which, at the same time, is a very different concrete determination from being-for-self in general, the infinity of which has a determinateness which is still quite qualitative.
+ Consciousness thus belongs to the sphere of Appearance, or is the dualism, on the one hand of knowing an alien object external to it, and on the other hand of being for its own self, having the object ideally [ideell] present in it; of being not only in the presence of the other, but therein being in the presence of its own self.
+
+ Self-consciousness, on the other hand, is being-for-self as consummated and posited; the side of connection with an other, with an external object, is removed. 
+
+ Self-consciousness is thus the nearest example of the presence of infinity; granted, of an infinity which is still abstract, yet which, at the same time, is a very different concrete determination from being-for-self in general, the infinity of which has a determinateness which is still quite qualitative.
+
 
 (a) Determinate Being and Being-for-self
 
@@ -55,7 +60,12 @@ Consciousness contains the determination of being-for-self because it represents
 
 It is determinate being in so far as the negative nature of infinity, which is the negation of negation, is from now on in the explicit form of the immediacy of being, as only negation in general, as simple qualitative determinateness. 
 
-But being, which in such determinateness is determinate being, is also at once distinct from being-for-self, which is only being-for-self in so far as its determinateness is the infinite one above-mentioned; nevertheless, determinate being is at the same time also a moment of being-for-self; for this latter, of course, also contains being charged with negation. Thus the determinateness which in determinate being as such is an other, and a being-for-other, is bent back into the infinite unity of being-for-self, and the moment of determinate being is present in being-for-self as a being-for-one.
+But being, which in such determinateness is determinate being, is also at once distinct from being-for-self, which is only being-for-self in so far as its determinateness is the infinite one above-mentioned.
+
+Nevertheless, determinate being is at the same time also a moment of being-for-self.
+
+For this latter, of course, also contains being charged with negation. Thus the determinateness which in determinate being as such is an other, and a being-for-other, is bent back into the infinite unity of being-for-self, and the moment of determinate being is present in being-for-self as a being-for-one.
+
 
 (b) Being-for-one
 
@@ -69,7 +79,11 @@ But there is as yet nothing present for which it would be-no one, of which it wo
 
 There is nothing of the kind as yet fixed in being-for-self; that for which something (and here there is no something) would be, whatever the other side as such might be, is likewise a moment, is itself only a being-for-one, not yet a one. 
 
-Consequently, what we have before us is still an undistinguishedness of the two sides which may be suggested by being-for-one; there is only one being- orother, and because there is only one, this too is only a being-for-one; there is only the one ideality of that, for which or in which there is supposed to be a determination as moment, and of that which is supposed to be a moment in it. Being-for-one and being-for-self are, therefore, not genuinely opposed determinatenesses. If the difference is assumed for a moment and we speak of a being-for-self, then it is this itself which, as the sublatedness of otherness, relates itself to itself as the sublated other, and is therefore 'for one'; it is related in its other only to its own self.
+Consequently, what we have before us is still an undistinguishedness of the two sides which may be suggested by being-for-one; there is only one being- orother, and because there is only one, this too is only a being-for-one.
+
+There is only the one ideality of that, for which or in which there is supposed to be a determination as moment, and of that which is supposed to be a moment in it. Being-for-one and being-for-self are, therefore, not genuinely opposed determinatenesses.
+
+If the difference is assumed for a moment and we speak of a being-for-self, then it is this itself which, as the sublatedness of otherness, relates itself to itself as the sublated other, and is therefore 'for one'; it is related in its other only to its own self.
 
 Ideal being [Ideelles] is necessarily 'for one', but it is not for an other; the one for which it is, is only itself. 
 
@@ -223,3 +237,5 @@ The reason for the separation of these moments here is that the form of immediac
 Through this immediacy, each moment is posited as a distinct, affirmative determination. Yt they are no less inseparable.
 
 Hence of each determination, the opposite must equally be asserted. It is this contradiction, together with the abstract nature of the moments, which constitutes the difficulty.
+
+

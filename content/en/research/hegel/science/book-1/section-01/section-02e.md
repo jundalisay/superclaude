@@ -2,7 +2,7 @@
 heading: Section 2e
 title: "Determination, Constitution and Limit"
 # b
-weight: 21
+weight: 34
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
 icon: "Hegel"
@@ -119,3 +119,4 @@ But the limit is not abstract negation, but is in this determinate being, is a s
 
 
 <sup>247</sup> Something with its immanent limit posited as the contradiction of itself, through which it is directed and forced out of and beyond itself, is the finite.
+

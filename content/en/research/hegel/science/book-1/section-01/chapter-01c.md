@@ -41,7 +41,9 @@ But thus there arises the further defect that these propositions are not connect
 
 The commonest injustice done to a speculative content is to make it one-sided, that is, to give prominence only to one of the propositions into which it can be resolved. It cannot then be denied that this proposition is asserted; but the statement is just as false as it is true, for once one of the propositions is taken out of the speculative content, the other must at least be equally considered and stated. Particular mention must be made here of that, so to speak, unfortunate word, 'unity'. 
 
-Unity, even more than identity, expresses a subjective reflection; it is taken especially as the relation which arises from comparison, from external reflection. When this reflection finds the same thing in two different objects, the resultant unity is such that there is presupposed the complete indifference to it of the objects themselves which are compared, so that this comparing and unity does not concern the objects themselves and is a procedure and a determining external to them. Unity, therefore, expresses wholly abstract sameness and sounds all the more blatantly paradoxical the more the terms of which it is asserted show themselves to be sheer opposites. So far then, it would be better to, say only unseparatedness and inseparability, but then the affirmative aspect of the relation of the whole would not find expression.
+Unity, even more than identity, expresses a subjective reflection; it is taken especially as the relation which arises from comparison, from external reflection. When this reflection finds the same thing in two different objects, the resultant unity is such that there is presupposed the complete indifference to it of the objects themselves which are compared, so that this comparing and unity does not concern the objects themselves and is a procedure and a determining external to them.
+
+Unity, therefore, expresses wholly abstract sameness and sounds all the more blatantly paradoxical the more the terms of which it is asserted show themselves to be sheer opposites. So far then, it would be better to, say only unseparatedness and inseparability, but then the affirmative aspect of the relation of the whole would not find expression.
 
 <sup>150</sup> Thus the whole true result which we have here before us is becoming, which is not merely the one-sided or abstract unity of being and nothing. 
 
@@ -59,7 +61,9 @@ Let those who insist that being and nothing are different tackle the problem of 
 
 If being and nothing had any determinateness by which they were distinguished from each other then, as has been observed, they would be determinate being and determinate nothing, not the pure being and pure nothing that here they still are.
 
-Their difference is therefore completely empty, each of them is in the same way indeterminate; the difference, then, exists not in themselves but in a third, in subjective opinion. Opinion, however, is a form of subjectivity which is not proper to an exposition of this kind. But the third in which being and nothing subsist must also present itself here, and it has done so; it is becoming.
+Their difference is therefore completely empty, each of them is in the same way indeterminate; the difference, then, exists not in themselves but in a third, in subjective opinion.
+
+Opinion, however, is a form of subjectivity which is not proper to an exposition of this kind. But the third in which being and nothing subsist must also present itself here, and it has done so; it is becoming.
 
 In this being and nothng are distinct moments; becoming only is, in so, in so far as they are distinguished. 
 
@@ -72,9 +76,13 @@ Becoming is as much the subsistence of being as it is of non-being; or, their su
 
 Those who are reluctant to recognise either one or the other as only a transition of the one into the other, and who assert this or that about being and nothing, let them state what it is they are speaking of, that is, put forward a definition of being and nothing and demonstrate its correctness. 
 
-Without having satisfied this first requirement of the ancient science whose logical rules they accept as valid and apply in other cases, all that they maintain about being and nothing amounts only to assertions which are scientifically worthless. If elsewhere it has been said that existence, in so far as this at first is held to be synonymous with being, is the complement to possibility, then this presupposes another determination, possibility, and so being is not enunciated in its immediacy, but in fact as not self-subsistent, as conditioned. 
+Without having satisfied this first requirement of the ancient science whose logical rules they accept as valid and apply in other cases, all that they maintain about being and nothing amounts only to assertions which are scientifically worthless. 
+
+If elsewhere it has been said that existence, in so far as this at first is held to be synonymous with being, is the complement to possibility, then this presupposes another determination, possibility, and so being is not enunciated in its immediacy, but in fact as not self-subsistent, as conditioned. 
 
 For being which is the outcome of mediation we shall reserve the term: Existence. But one pictures being to oneself, perhaps in the image of pure light as the clarity of undimmed seeing, and then nothing as pure night — and their distinction is linked with this very familiar sensuous difference. 
 
-But, as a matter of fact, if this very seeing is more exactly imagined, one can readily perceive that in absolute clearness there is seen just as much, and as little, as in absolute darkness, that the one seeing is as good as the other, that pure seeing is a seeing of nothing. Pure light and pure darkness are two voids which are the same thing. Something can be distinguished only in determinate light or darkness (light is determined by darkness and so is darkened light, and darkness is determined by light, is illuminated darkness), and for this reason, that it is only darkened light and illuminated darkness which have within themselves the moment of difference and are, therefore, determinate being.
+But, as a matter of fact, if this very seeing is more exactly imagined, one can readily perceive that in absolute clearness there is seen just as much, and as little, as in absolute darkness, that the one seeing is as good as the other, that pure seeing is a seeing of nothing. Pure light and pure darkness are two voids which are the same thing.
+
+Something can be distinguished only in determinate light or darkness (light is determined by darkness and so is darkened light, and darkness is determined by light, is illuminated darkness), and for this reason, that it is only darkened light and illuminated darkness which have within themselves the moment of difference and are, therefore, determinate being.
 

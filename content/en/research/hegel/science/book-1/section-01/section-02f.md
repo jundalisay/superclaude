@@ -2,7 +2,7 @@
 heading: Section 2f
 title: "Finitude"
 # b
-weight: 26
+weight: 36
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
 icon: "Hegel"
@@ -10,29 +10,47 @@ c: "steelblue"
 ---
 
 
-(c) Finitude
 
-<sup>248</sup> The being of something is determinate; something has a quality and in it is not only determined but limited; its quality is its limit and, burdened with this, it remains in the first place an affirmative, stable being. 
+
+## (c) Finitude
+
+<sup>248</sup> The being of something is determinate.
+
+Something has a quality of being determined and also limited.
+
+Its quality is its limit. Burdened with this, it remains as an affirmative, stable being. 
 
 But the development of this negation, so that the opposition between its determinate being and the negation as its immanent limit, is itself the being-within-self of the something, which is thus in its own self only a becoming, constitutes the finitude of something.
 
 
-<sup>249</sup> When we say of things that they are finite, we understand thereby that they not only have a determinateness, that their quality is not only a reality and an intrinsic determination, that finite things are not merely limited — as such they still have determinate being outside their limit — but that, on the contrary, non-being constitutes their nature and being. 
+<sup>249</sup> We say a thing is finite if it has:
+- a determinateness
+- a quality that is a reality and an intrinsic determination.
 
-Finite things are, but their relation to themselves is that they are negatively self-related and in this they are negatively self-related and in this very self-relation send themselves away beyond themselves, beyond their being. They are, but the truth of this being is their end. ®
+We say that finite things are not merely limited — as such they still have determinate being outside their limit — but that, on the contrary, non-being constitutes their nature and being. 
+
+Finite things are, but their relation to themselves is that they are negatively self-related and in this they are negatively self-related and in this very self-relation send themselves away beyond themselves, beyond their being. 
+
+They are, but the truth of this being is their end. ®
 
 The finite not only alters, like something in general, but it ceases to be; and its ceasing to be is not merely a possibility, so that it could be without ceasing to be, but the being as such of finite things is to have the germ of decease as their being-within-self: the hour of their birth is the hour of their death.
 
-[a] The Immediacy of Finitude
 
+### [a] The Immediacy of Finitude
 
 <sup>250</sup> The thought of the finitude of things brings this sadness with it because it is qualitative negation pushed to its extreme, and in the singleness of such determination there is no longer left to things an affirmative being distinct from their destiny to perish.
 
-Because of this qualitative singleness of the negation, which has gone back to the abstract opposition of nothing and ceasing-to-be as opposed to being, finitude is the most stubborn category of the understanding; negation in general, constitution and limit, reconcile themselves with their other, with determinate being; and even nothing, taken abstractly as such, is given up as an abstraction; but finitude is the negation as fixed in itself, and it therefore stands in abrupt contrast to its affirmative. 
+Because of this qualitative singleness of the negation, which has gone back to the abstract opposition of nothing and ceasing-to-be as opposed to being, finitude is the most stubborn category of the understanding; negation in general, constitution and limit, reconcile themselves with their other, with determinate being.
 
-The finite, it is true, lest itself be brought into flux, it is itself this, to be determined or destined to its end, but only to its end — or rather, it is the refusal to let itself be brought affirmatively to its affirmative, to the infinite, and to let itself be united with it; it is therefore posited as inseparable from its nothing, and is thereby cut off from all reconciliation with its other, the affirmative. The determination or destiny of finite things takes them no further than their end. 
+Even nothing, taken abstractly as such, is given up as an abstraction; but finitude is the negation as fixed in itself, and it therefore stands in abrupt contrast to its affirmative. 
 
-The understanding persists in this sadness of finitude by making non-being the determination of things and at the same time making it imperishable and absolute. Their transitoriness could only pass away or perish in their other, in the affirmative; their finitude would then be parted from them; but it is their unalterable quality, that is, their quality which does not pass over into its other, that is, into its affirmative; it is thus eternal
+The finite, it is true, lest itself be brought into flux, it is itself this, to be determined or destined to its end, but only to its end — or rather, it is the refusal to let itself be brought affirmatively to its affirmative, to the infinite, and to let itself be united with it; it is therefore posited as inseparable from its nothing, and is thereby cut off from all reconciliation with its other, the affirmative.
+
+The determination or destiny of finite things takes them no further than their end. 
+
+The understanding persists in this sadness of finitude by making non-being the determination of things and at the same time making it imperishable and absolute. 
+
+Their transitoriness could only pass away or perish in their other, in the affirmative; their finitude would then be parted from them; but it is their unalterable quality, that is, their quality which does not pass over into its other, that is, into its affirmative; it is thus eternal
 
 
 <sup>251</sup> This is a very important consideration; but certainly no philosophy or opinion, or understanding, will let itself be tied to the standpoint that the finite is absolute; 
@@ -79,11 +97,12 @@ It is limited through its relation to the limit which is already immanent in the
 <sup>258</sup> What ought to be is, and at the same time is not. If it were, we could not say that it ought merely to be. The ought has, therefore, essentially a limitation. This limitation is not alien to it; that which only ought to be is the determination, which is now posited as it is in fact, namely, as at the same time only a determinateness.
 
 
-<sup>259</sup> The being-in-itself of the something in its determination reduces itself therefore to an ought-to-be through the fact that the same thing which constitutes its in-itself is in one and the same respect a non-being; and that, too, in this way, that in the being-within-self, in the negation of the negation, this in-itself as one of the negations (the one that negates) is a unity with the other, which at the same time is a qualitatively distinct limit, through which this unity is a relation to it. The limitation of the finite is not something external to it; on the contrary, its own determination is also its limitation; and this latter is both itself and also the ought-to-be; it is that which is common to both, or rather that in which both are identical.
+<sup>259</sup> The being-in-itself of the something in its determination reduces itself therefore to an ought-to-be through the fact that the same thing which constitutes its in-itself is in one and the same respect a non-being; and that, too, in this way, that in the being-within-self, in the negation of the negation, this in-itself as one of the negations (the one that negates) is a unity with the other, which at the same time is a qualitatively distinct limit, through which this unity is a relation to it. The limitation of the finite is not something external to it; 
+
+On the contrary, its own determination is also its limitation; and this latter is both itself and also the ought-to-be; it is that which is common to both, or rather that in which both are identical.
 
 
 <sup>260</sup> But now further, the finite as the ought transcends its limitation; the same determinateness which is its negation is also sublated, and is thus its in-itself; its limit is also not its limit.
 
 
 <sup>261</sup> Hence as the ought, something is raised above its limitation, but conversely, it is only as the ought that it has its limitation. The two are inseparable. Something has a limitation in so far as it has negation in its determination, and the determination is also the accomplished sublation of the limitation.
-

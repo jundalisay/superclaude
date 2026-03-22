@@ -1,11 +1,28 @@
+---
+title: "Determinate Being"
+weight: 12
+description: "The oneness of being and nothing is immediate in determinate being."
+author: Hegel
+icon: "Hegel"
+c: "steelblue"
+---
 
 
-(b) Quality
+## (b) Quality
 
 
-<sup>195</sup> Because of the immediacy of the oneness of being and nothing in determinate being, they do not extend beyond each other; so far as determinate being is in the form of being, so far is it non-being, so far is it determinate. Being is not the universal, determinateness not the particular. 
+<sup>195</sup> The oneness of being and nothing is immediate in determinate being.
 
-Determinateness has not yet severed itself from being; and indeed it will no more sever itself from being, for the truth which from now on underlies them as ground is the unity of non-being with being; on this as ground all further determinations are developed. But the relation in which determinateness here stands to being is the immediate unity of both, so that as yet no differentiation of this unity is posited.
+This is why they do not extend beyond each other; so far as determinate being is in the form of being, so far is it non-being, so far is it determinate. 
+
+Being is not the universal, determinateness not the particular. 
+
+Determinateness has not yet severed itself from being.
+
+It will no more sever itself from being, for the truth which from now on underlies them as ground is the unity of non-being with being; on this as ground all further determinations are developed.
+
+But the relation in which determinateness here stands to being is the immediate unity of both, so that as yet no differentiation of this unity is posited.
+
 
 
 <sup>196</sup> Determinateness thus isolated by itself in the form of being is quality — which is wholly simple and immediate.
@@ -15,19 +32,33 @@ Determinateness as such is the more universal term which can equally be further 
 
 <sup>197</sup> Determinate being, however, in which nothing no less than being is contained, is itself the criterion for the one-sidedness of quality as a determinateness which is only immediate or only in the form of being.
 
-It is equally to be posited in the determination of nothing, when it will be posited as a differentiated, reflected determinateness, no longer as immediate or in the form of being. Nothing, as thus the determinate element of a determinateness, is equally something reflected, a negation.
+It is equally to be posited in the determination of nothing, when it will be posited as a differentiated, reflected determinateness, no longer as immediate or in the form of being. 
+
+Nothing, as thus the determinate element of a determinateness, is equally something reflected, a negation.
 
 Quality, taken in the distinct character of being, is reality; as burdened with a negative it is negation in general, likewise a quality but one which counts as a deficiency, and which further on is determined as limit, limitation.
 
 
-<sup>198</sup> Both are determinate being, but in reality as quality with the accent on being, the fact is concealed that it contains determinateness and therefore also negation. Consequently, reality is given the value only of something positive from which negation, limitation and deficiency are excluded. Negation taken as mere deficiency would be equivalent to nothing; but it is a determinate being, a quality, only determined with a non-being.
+<sup>198</sup> Both are determinate being, but in reality as quality with the accent on being, the fact is concealed that it contains determinateness and therefore also negation. 
+
+Consequently, reality is given the value only of something positive from which negation, limitation and deficiency are excluded. Negation taken as mere deficiency would be equivalent to nothing; but it is a determinate being, a quality, only determined with a non-being.
+
 
 
 ## Remark: Quality and Negation
 
-<sup>199</sup> Reality may seem to be a word of various meanings because it is used of different, indeed of opposed determinations. In philosophy one may perhaps speak of a merely empirical reality as of a worthless existence. But when it is said that thoughts, concepts, theories have no reality, this means that they do not possess actuality; in itself or in its notion, the idea of a Platonic Republic, for example, may well be true. Here the worth of the idea is not denied and it is left its place alongside the reality. 
+<sup>199</sup> Reality has different meanings because it is used for different and opposed determinations.
 
-But as against mere ideas, mere notions, the real alone counts as true. The sense in which, on the one hand, outer existence is made the criterion of the truth of a content is no less one-sided than when the idea, essential being, or even inner feeling is represented as indifferent to outer existence and is even held to be the more excellent the more remote it is from reality.
+Mere empirical reality might be seen as a worthless existence.
+
+It is said that thoughts, concepts, and theories have no reality.
+- This means that they do not have actuality.
+
+For example, the idea of a Platonic Republic might be true.
+- Here the worth of the idea is not denied and it is left its place alongside the reality. 
+- But as against mere ideas, mere notions, the real alone counts as true. 
+
+The sense in which, on the one hand, outer existence is made the criterion of the truth of a content is no less one-sided than when the idea, essential being, or even inner feeling is represented as indifferent to outer existence and is even held to be the more excellent the more remote it is from reality.
 
 
 <sup>200</sup> In connection with the term 'reality', mention must be made of the former metaphysical concept of God which, in particular, formed the basis of the so-called ontological proof of the existence of God. 

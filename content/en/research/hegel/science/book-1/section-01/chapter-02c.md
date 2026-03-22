@@ -1,11 +1,34 @@
+---
+title: "Finitude: Something and an Other"
+weight: 14
+description: "Something and other are at first indifferent to one another; an other is also immediately a determinate being, a something."
+author: Hegel
+icon: "Hegel"
+c: "steelblue"
+---
+
+
+
 <!-- (c) Something -->
 
-<sup>208</sup> In determinate being its determinateness has been distinguished as quality; in quality as determinately present, there is distinction — of reality and negation. Now although these distinctions are present in determinate being, they are no less equally void and sublated. Reality itself contains negation, is determinate being, not indeterminate, abstract being. Similarly, negation is determinate being, not the supposedly abstract nothing but posited here as it is in itself, as affirmatively present [als seiend], belonging to the sphere of determinate being. Thus quality is completely unseparated from determinate being, which is simply determinate, qualitative being.
+<sup>208</sup> The determinateness of determinate being is a quality.
+
+This quality is distinguished between reality and negation.
+- These distinctions are in the determinate being.
+- Yet they are no less equally void and sublated.
+
+Reality itself contains negation, is determinate being, not indeterminate, abstract being. 
+
+Similarly, negation is determinate being, not the supposedly abstract nothing but posited here as it is in itself, as affirmatively present [als seiend], belonging to the sphere of determinate being. Thus quality is completely unseparated from determinate being, which is simply determinate, qualitative being.
 
 
 <sup>209</sup> This sublating of the distinction is more than a mere taking back and external omission of it again, or than a simple return to the simple beginning, to determinate being as such.
 
-The distinction cannot be omitted, for it is. What is, therefore, in fact present is determinate being in general, distinction in it, and sublation of this distinction; determinate being, not as devoid of distinction as at first, but as again equal to itself through sublation of the distinction, the simple oneness of determinate being resulting from this sublation. This sublatedness of the distinction is determinate being's own determinateness; it is thus being-within-self: determinate being is a determinate being, a something.
+The distinction cannot be omitted, for it is.
+
+What is, therefore, in fact present is determinate being in general, distinction in it, and sublation of this distinction; determinate being, not as devoid of distinction as at first, but as again equal to itself through sublation of the distinction, the simple oneness of determinate being resulting from this sublation. 
+
+This sublatedness of the distinction is determinate being's own determinateness; it is thus being-within-self: determinate being is a determinate being, a something.
 
 
 <sup>210</sup> Something is the first negation of negation, as simple self-relation in the form of being. 
@@ -14,12 +37,22 @@ Determinate being, life, thought, and so on, essentially determine themselves to
 
 This determination is of supreme importance if we are not to remain at the stage of determinate being, life, thought, and so on — also the Godhead (instead of God) — as generalities. In our ordinary way of thinking, something is rightly credited with reality.
 
-However, something is still a very superficial determination; just as reality and negation, determinate being and its determinateness, although no longer blank being and nothing, are still quite abstract determinations. It is for this reason that they are the most current expressions and the intellect which is philosophically untrained uses them most, casts its distinctions in their mould and fancies that in them it has something really well and truly determined. The negative of the negative is, as something, only the beginning of the subject [Subjekt] — being-within-self, only as yet quite indeterminate. It determines itself further on, first, as a being-for-self and so on, until in the Notion it first attains the concrete intensity of the subject. At the base of all these determinations lies the negative unity with itself. But in all this, care must be taken to distinguish between the first negation as negation in general, and the second negation, the negation of the negation: the latter is concrete, absolute negativity, just as the former on the contrary is only abstract negativity.
+However, something is still a very superficial determination; just as reality and negation, determinate being and its determinateness, although no longer blank being and nothing, are still quite abstract determinations. 
+
+This is why they are the most current expressions and the intellect which is philosophically untrained uses them most, casts its distinctions in their mould and fancies that in them it has something really well and truly determined. The negative of the negative is, as something, only the beginning of the subject [Subjekt] — being-within-self, only as yet quite indeterminate.
+
+It determines itself further on, first, as a being-for-self and so on, until in the Notion it first attains the concrete intensity of the subject. 
+
+At the base of all these determinations lies the negative unity with itself. But in all this, care must be taken to distinguish between the first negation as negation in general, and the second negation, the negation of the negation: the latter is concrete, absolute negativity, just as the former on the contrary is only abstract negativity.
+
 
 
 <sup>211</sup> Something is the negation of the negation in the form of being; for this second negation is the restoring of the simple relation to self.
 
-But with this, something is equally the mediation of itself with itself. Even in the simple form of something, then still more specifically in being-for-self, subject, and so on, self-mediation is present; it is present even in becoming, only the mediation is quite abstract. In something, mediation with self is posited, in so far as something is determined as a simple identity. Attention can be drawn to the presence of mediation in general, as against the principle of the alleged mere immediacy of knowledge, from which mediation is supposed to be excluded; but there is no further need to draw particular attention to the moment of mediation, for it is to be found everywhere, in every Notion.
+But with this, something is equally the mediation of itself with itself. Even in the simple form of something, then still more specifically in being-for-self, subject, and so on, self-mediation is present; it is present even in becoming, only the mediation is quite abstract. 
+
+In something, mediation with self is posited, in so far as something is determined as a simple identity. Attention can be drawn to the presence of mediation in general, as against the principle of the alleged mere immediacy of knowledge, from which mediation is supposed to be excluded; but there is no further need to draw particular attention to the moment of mediation, for it is to be found everywhere, in every Notion.
+
 
 
 <sup>212</sup> This mediation with itself which something is in itself, taken only as negation of the negation, has no concrete determinations for its sides; 

@@ -142,8 +142,9 @@ Remark 1: The Opposition of Being and Nothing in Ordinary Thinking
 
 But the being of something is already determinate and is distinguished from another something.
 
-And so therefore the nothing which is opposed to the something is also the nothing of a particular something, a determinate nothing. Here, however, nothing is to be taken in its indeterminate simplicity. 
+So therefore, the nothing which is opposed to the something is also the nothing of a particular something, a determinate nothing.
+- Here, however, nothing is to be taken in its indeterminate simplicity. 
 
-Should it be held more correct to oppose to being, non-being instead of nothing, there would be no objection to this so far as the result is concerned, for in non-being the relation to being is contained: both being and its negation are enunciated in a single term, nothing, as it is in becoming. But we are concerned first of all not with the form of opposition (with the form, that is, also of relation) but with the abstract, immediate negation: nothing, purely on its own account, negation devoid of any relations — what could also be expressed if one so wished merely by 'not'.
+Should it be held more correct to oppose to being, non-being instead of nothing, there would be no objection to this so far as the result is concerned, for in non-being the relation to being is contained: both being and its negation are enunciated in a single term, nothing, as it is in becoming.
 
-
+But we are concerned first of all not with the form of opposition (with the form, that is, also of relation) but with the abstract, immediate negation: nothing, purely on its own account, negation devoid of any relations — what could also be expressed if one so wished merely by 'not'.

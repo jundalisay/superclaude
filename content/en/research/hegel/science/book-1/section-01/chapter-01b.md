@@ -9,14 +9,16 @@ c: "steelblue"
 
 
 
-<sup>136</sup> It was the Eleatics, above all Parmenides, who first enunciated the simple thought of pure being as the absolute and sole truth.
+<!-- being -->
+<sup>136</sup> The Eleatics, above all Parmenides, first enunciated the simple thought of pure existence as the absolute and sole truth.
 
-- Being exists.
+- Existence exists.
 - Total nothingness does not exist. 
 
  <!-- is, and nothing absolutely is not, and in the surviving fragments of Parmenides this is enunciated with the pure enthusiasm of thought which has for the first time apprehended itself in its absolute abstraction. -->
 
-In the oriental systems, principally in Buddhism, nothing is the void. It is the absolute principle. 
+In the oriental systems, principally in Buddhism, nothing is the void. 
+- It is the absolute principle. 
 
 Against that simple and one-sided abstraction the deep-thinking Heraclitus brought forward the higher, total concept of becoming and said: being as little is, as nothing is, or, all flows, which means, all is a becoming. 
 
@@ -27,13 +29,19 @@ But these expressions have a substratum in which the transition takes place; bei
 
 <sup>137</sup> Ex nihilo nihil fit — is one of those propositions to which great importance was ascribed in metaphysics. 
 
-In it is to be seen either only the empty tautology: nothing is nothing; or, if becoming is supposed to possess an actual meaning in it, then, since from nothing only nothing becomes, the proposition does not in fact contain becoming, for in it nothing remains nothing. Becoming implies that nothing does not remain nothing but passes into its other, into being. 
+In it is to be seen either only the empty tautology: nothing is nothing; or, if becoming is supposed to possess an actual meaning in it, then, since from nothing only nothing becomes, the proposition does not in fact contain becoming, for in it nothing remains nothing.
 
-Later, especially Christian, metaphysics whilst rejecting the proposition that out of nothing comes nothing, asserted a transition from nothing into being; although it understood this proposition synthetically or merely imaginatively, yet even in the most imperfect union there is contained a point in which being and nothing coincide and their distinguishedness vanishes. 
+Becoming implies that nothing does not remain nothing but passes into its other, into being. 
+
+Later, especially Christian, metaphysics whilst rejecting the proposition that out of nothing comes nothing, asserted a transition from nothing into being.
+
+Although it understood this proposition synthetically or merely imaginatively, yet even in the most imperfect union there is contained a point in which being and nothing coincide and their distinguishedness vanishes. 
 
 The proposition: out of nothing comes nothing, nothing is just nothing, owes its peculiar importance to its opposition to becoming generally, and consequently also to its opposition to the creation of the world from nothing.
 
-Those who maintain the proposition: nothing is just nothing, and even grow heated in its defence, are unaware that in so doing they are subscribing to the abstract pantheism of the Eleatics, and also in principle to that of Spinoza. The philosophical view for which 'being is only being, nothing is only nothing', is a valid principle, merits the name of 'system of identity'; this abstract identity is the essence of pantheism.
+Those who maintain the proposition: nothing is just nothing, and even grow heated in its defence, are unaware that in so doing they are subscribing to the abstract pantheism of the Eleatics, and also in principle to that of Spinoza. 
+
+The philosophical view for which 'being is only being, nothing is only nothing', is a valid principle, merits the name of 'system of identity'; this abstract identity is the essence of pantheism.
 
 
 <sup>138</sup> If the result that being and nothing are the same seems startling or paraodoxical in itself, there is nothing more to be said; rather should we wonder at this wondering which shows itself to be such a newcomer to philosophy and forgets that in this science there occur determinations quite different from those in ordinary consciousness and in so-called ordinary common sense-which is not exactly sound understanding but an understanding educated up to abstractions and to a belief, or rather a superstitious belief, in abstractions. 
@@ -86,11 +94,20 @@ But since, furthermore, being is taken as a state of my fortune, the hundred dol
 When, therefore, it is urged against the unity of being and nothing that it is nevertheless not a matter of indifference whether anything (the hundred dollars) is, or is not, we practise the deception of converting the difference between whether I have or have not the hundred dollars into a difference between being and non-being-a deception based, as we have shown, on the one-sided abstraction which ignores the determinate being present in such examples and holds fast merely to being and non-being, just as, conversely, the abstract being and nothing which should be apprehended is transformed into a definite being and nothing, into a determinate being. Determinate being is the first category to contain the real difference of being and nothing, namely, something and other. It is this real difference which is vaguely present in ordinary thinking, instead of abstract being and pure nothing and their only imagined difference.
 
 
-<sup>143</sup> As Kant expresses it, 'through its existence something enters into the context of the whole of experience. ... we obtain thereby an additional object of perception without anything being added to our concept of the object'.
+<sup>143</sup> Kant says: 'through its existence something enters into the context of the whole of experience. ... we obtain thereby an additional object of perception without anything being added to our concept of the object'.
 
-As our explanation has shown, this means simply that something, through its existence, just because it is a determinate existence, is essentially in relationship with others, including also a percipient subject. The concept of the hundred dollars, says Kant, gains nothing by their being perceived. Concept here means the hundred dollars previously noted as thought in isolation. 
+As our explanation has shown, this means simply that something, through its existence, just because it is a determinate existence, is essentially in relationship with others, including also a percipient subject.
 
-As thus isolated they are, it is true, an empirical content, but cut off, having no relationship with any other content and possessing no determinate character relatively to such; the form of identity-with-self strips them of any connection with an other, so that it is a matter of indifference whether they are perceived or not. But this so-called concept of the hundred dollars is a spurious concept; the form of simple self-relation does not belong to such a limited, finite content itself; it is a borrowed form attached to it by the subjective understanding; the being of the hundred dollars is not self-related but alterable and perishable.
+Kant says that the concept of $100 gains nothing by their being perceived.
+
+Concept here means the hundred dollars previously noted as thought in isolation. 
+
+As thus isolated they are, it is true, an empirical content, but cut off, having no relationship with any other content and possessing no determinate character relatively to such; 
+
+The form of identity-with-self strips them of any connection with an other, so that it is a matter of indifference whether they are perceived or not. But this so-called concept of $100 dollars is a spurious concept;
+
+The form of simple self-relation does not belong to such a limited, finite content itself; it is a borrowed form attached to it by the subjective understanding; the being of the hundred dollars is not self-related but alterable and perishable.
+
 
 <sup>144</sup> The thinking or figurate conception which has before it only a specific, determinate being must be referred back to the previously-mentioned beginning of the science made by Parmenides who purified and elevated his own figurate conception, and so, too, that of posterity, to pure thought, to being as such and thereby created the element of the science.
 
@@ -99,15 +116,26 @@ What is the first in the science had of necessity to show itself historically as
 
 <sup>145</sup> The reference back from particular finite being to being as such in its wholly abstract universality is to be regarded not only as the very first theoretical demand but as the very first practical demand too.
 
-When for example a fuss is made about the hundred dollars, that it does make a difference to the state of my fortune whether I have them or not, still more whether I am or not, or whether something else is or is not, then-not to mention that there will be fortunes to which such possession of a hundred dollars will be a matter of indifference-we can remind ourselves that man has a duty to rise to that abstract universality of mood in which he is indeed indifferent to the existence or non-existence of the hundred dollars, whatever may be their quantitative relation to his fortune, just as it ought to be a matter of indifference to him whether he is or is not, that is, in finite life (for a state, a determinate being is meant), and so on — si fractus illabatur orbis, impavidum ferient ruinae was said by a Roman, and still more ought the Christian to possess this indifference.
+When for example a fuss is made about $100, that it does make a difference to the state of my fortune whether I have them or not, still more whether I am or not, or whether something else is or is not, then-not to mention that there will be fortunes to which such possession of a hundred dollars will be a matter of indifference-we can remind ourselves that man has a duty to rise to that abstract universality of mood in which he is indeed indifferent to the existence or non-existence of the hundred dollars, whatever may be their quantitative relation to his fortune, just as it ought to be a matter of indifference to him whether he is or is not, that is, in finite life (for a state, a determinate being is meant), and so on — si fractus illabatur orbis, impavidum ferient ruinae was said by a Roman, and still more ought the Christian to possess this indifference.
 
 
 <sup>146</sup> There remains still to be noted the immediate connection between, on the one hand, the elevation above the hundred dollars and finite things generally, and on the other, the ontological proof and the Kantian criticism of it we have cited.
 
 This criticism, through its popular example, has made itself universally plausible: who does not know that a hundred actual dollars are different from a hundred merely possible ones? 
 
-that they make a difference to the state of my fortune? Because this difference is so obvious with the hundred dollars, therefore the concept, that is, the specific nature of the content as an empty possibility, and being, are different from each other; therefore the Notion of God too is different from his being, and just as little as I can extract from the possibility of the hundred dollars their actuality, just as little can I extract from the Notion of God his existence; but the onotological proof is supposed to consist of this extraction of the existence of God from his Notion.
+that they make a difference to the state of my fortune?
 
-Now though it is of course true that Notion is different from being, there is a still greater difference between God and the hundred dollars and other finite things. It is the definition of finite things that in them the Notion is different from being, that Notion and reality, soul and body, are separable and hence that they are perishable and mortal; the abstract definition of God, on the other hand, is precisely that his Notion and his being are unseparated and inseparable. The genuine criticism of the categories and of reason is just this: to make intellect aware of this difference and to prevent it from applying to God the determinations and relationships of the finite.
+Because this difference is so obvious with the hundred dollars, therefore the concept, that is, the specific nature of the content as an empty possibility, and being, are different from each other; 
 
+Therefore the Notion of God too is different from his being, and just as little as I can extract from the possibility of the hundred dollars their actuality, just as little can I extract from the Notion of God his existence; but the onotological proof is supposed to consist of this extraction of the existence of God from his Notion.
 
+Notion is different from being. But there is a still greater difference between:
+- God
+- 100 dollars
+- other finite things
+
+It is the definition of finite things that in them the Notion is different from being, that Notion and reality, soul and body, are separable and hence that they are perishable and mortal.
+
+The abstract definition of God, on the other hand, is precisely that his Notion and his being are unseparated and inseparable. 
+
+The genuine criticism of the categories and of reason is just this: to make intellect aware of this difference and to prevent it from applying to God the determinations and relationships of the finite.

@@ -5,7 +5,6 @@ weight: 24
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Aristotle defines Part and Whole"
 icon: "Aristotle"
@@ -13,19 +12,33 @@ icon: "Aristotle"
 
 
 
-"'Part' means 
+"'Part' means:
 
-1. 
+1. something that a quantum is divided into. That which is taken from a quantum qua quantum is always called a part of it, e.g. 2 is a part of 3. 
 
-a. that into which a quantum can in any way be divided; for that which is taken from a quantum qua quantum is always called a part of it, e.g. two is called in a sense a part of three. 
+In this case, the parts are only those which measure the whole. This is why 2 is a part of 3. 
 
-b. of the parts in the first sense, only those which measure the whole; this is why two, though in one sense it is, in another is not, called a part of three.
+- In one sense 2 is part 3.
+- But in another sense it is not.
 
-2. The elements into which a kind might be divided apart from the quantity are also called parts of it
+
+2. The element/s into which a kind might be divided, apart from the quantity
 
 This is why we say the species are parts of the genus.
 
-3. The elements into which a whole is divided, or of which it consists-the 'whole' meaning either the form or that which has the form; e.g. of the bronze sphere or of the bronze cube both the bronze-i.e. the matter in which the form is-and the characteristic angle are parts.-(4) The elements in the definition which explains a thing are also parts of the whole; this is why the genus is called a part of the species, though in another sense the species is part of the genus.
+3. The elements into which a whole is divided, or of which it consists.
+
+Here, the 'whole' means either the form or that which has the form.
+
+For example, bronze is a part of:
+- the bronze sphere
+- the bronze cube
+
+ <!-- both the bronze-i.e. the matter in which the form is-and the characteristic angle are parts. -->
+
+4. The elements in the definition which explains a thing are also parts of the whole.
+
+This is why the genus is called a part of the species, though in another sense the species is part of the genus.
 
 
 

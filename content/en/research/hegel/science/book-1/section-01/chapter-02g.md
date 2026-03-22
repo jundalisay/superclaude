@@ -1,7 +1,7 @@
 ---
-heading: Chapter 2c
+heading: Chapter 2g
 title: "Remark 2: Idealism"
-weight: 12
+weight: 21
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
 icon: "Hegel"
@@ -23,6 +23,8 @@ Transition
 Remark 1: The Infinite Progress
 
 Remark 2: Idealism
+
+
 
 <sup>316</sup> Idealism proposes that the finite is ideal. 
 
@@ -62,3 +64,4 @@ Such idealism is [merely] formal because it disregards the content of imaginatio
 In such an idealism nothing is lost, just as much because the reality of such a finite content, the existence filled with finitude, is preserved, as because, in so far as abstraction is made from such finite reality, the content is supposed to be of no consequence in itself; and in it nothing is gained for the same reason that nothing is lost, because the ego, conception, spirit, remains filled with the same content of finitude. 
 
 The opposition of the form of subjectivity and objectivity is of course one of the finitudes; but the content, as taken up in sensation, intuition or even in the more abstract element of conception, of thought, contains finitudes in abundance and with the exclusion of only one of the modes of finitude, namely, of the said form of subjective and objective, these finitudes are certainly not eliminated, still less have they spontaneously fallen away.
+
