@@ -1,5 +1,5 @@
 ---
-title: The Revolution in Germany
+title: Reclaiming Lost Territory
 heading: Chapter 13b
 weight: 242
 description: "Our feckless parliamentarians did not give the people proper training in peacetime."
@@ -11,10 +11,12 @@ icon: "Adolf Hitler"
 ---
 
 
-One must also bear in mind the fact that the restoration of lost districts which were
-formerly parts of the State, both ethnically and politically, must in the first instance be a
-question of winning back political power and independence for the motherland itself,
-and that in such cases the special interests of the lost districts must be
+
+Some districts of the State were lost, both ethnically and politically, 
+
+Restoring them in the first instance must be a question of winning back political power and independence for the motherland itself.
+
+In such cases the special interests of the lost districts must be
 uncompromisingly regarded as a matter of secondary importance in the face of the one
 main task, which is to win back the freedom of the central territory. For the detached
 and oppressed fragments of a nation or an imperial province cannot achieve their
@@ -67,11 +69,14 @@ can be too great when there is question of securing the political freedom of a n
 
 What might have to be deducted from the budget expenses for cultural purposes, in
 order to meet abnormal demands for increasing the military power of the State, can be
-generously paid back later on. Indeed, it may be said that after a State has concentrated
-all its resources in one effort for the purpose of securing its political independence a
+generously paid back later on. 
+
+After a State has concentrated all its resources in one effort for the purpose of securing its political independence a
 certain period of ease and renewed equilibrium sets in. And it often happens that the
 cultural spirit of the nation, which had been heretofore cramped and confined, now
-suddenly blooms forth. Thus Greece experienced the great Periclean era after the
+suddenly blooms forth. 
+
+Thus Greece experienced the great Periclean era after the
 miseries it had suffered during the Persian Wars. And the Roman Republic turned its
 energies to the cultivation of a higher civilization when it was freed from the stress and
 worry of the Punic Wars.
@@ -87,6 +92,7 @@ do it.
 That is why, in pre-War times, the military preparation necessary to enable us to
 conquer new territory in Europe was only very mediocre, so that it was difficult to
 obtain the support of really helpful allies.
+
 Those who directed our foreign affairs would not entertain even the idea of
 systematically preparing for war. They rejected every plan for the acquisition of
 territory in Europe. And by preferring a policy of colonial and trade expansion, they
@@ -94,6 +100,7 @@ sacrificed the alliance with England, which was then possible. At the same time 
 neglected to seek the support of Russia, which would have been a logical proceeding. 
 Finally they stumbled into the World War, abandoned by all except the ill-starred
 Habsburgs.
+
 The characteristic of our present foreign policy is that it follows no discernible or even
 intelligible lines of action. Whereas before the War a mistake was made in taking the
 fourth way that I have mentioned, and this was pursued only in a halfhearted manner,
@@ -147,6 +154,8 @@ occasions minor oscillations in that policy were caused by the growing influence
 America in the commercial markets of the world and also by the increasing political
 power of Russia; but, unfortunately, Germany did not take advantage of these and,
 therefore, the original tendency of British diplomacy was only reinforced.
+
+
 England looked upon Germany as a Power which was of world importance
 commercially and politically and which, partly because of its enormous industrial
 development, assumed such threatening proportions that the two countries already
@@ -156,13 +165,16 @@ who governed our public affairs at that time, represented the highest peak of hu
 wisdom, was just the thing that led English statesmen to adopt a policy of resistance.
 That this resistance assumed the form of an organized aggression on a vast scale was in
 full conformity with a type of statesmanship which did not aim at the maintenance of a
-dubious world peace but aimed at the consolidation of British world-hegemony. In
-carrying out this policy, England allied herself with those countries which had a
+dubious world peace but aimed at the consolidation of British world-hegemony. 
+
+In carrying out this policy, England allied herself with those countries which had a
 definite military importance. And that was in keeping with her traditional caution in
 estimating the power of her adversary and also in recognizing her own temporary
 weakness. That line of conduct cannot be called unscrupulous; because such a
 comprehensive organization for war purposes must not be judged from the heroic point
-of view but from that of expediency. The object of a diplomatic policy must not be to see
+of view but from that of expediency. 
+
+The object of a diplomatic policy must not be to see
 that a nation goes down heroically but rather that it survives in a practical way. Hence
 every road that leads to this goal is opportune and the failure to take it must be looked
 upon as a criminal neglect of duty.

@@ -1,8 +1,8 @@
 ---
-title: The Decline of the German Army and Navy
+title: The Monarchial Government
 heading: Chapter 10l
 weight: 84
-description: "The parliament threw away the weapons which were needed to defend the liberty of our people"
+description: "The statal Monarchial form developed for Germany in modern times"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler

@@ -1,8 +1,8 @@
 ---
-title: Urban Decline from the Industrial Revolution
+title: The religious situation before the War
 heading: Chapter 10h
 weight: 78
-description: "Marriage must serve the greater end -- increasing and maintaining the human species and the race"
+description: "The two Christian denominations maintained missions in Asia and Africa for securing new adherents to the Faith."
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler

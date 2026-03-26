@@ -24,29 +24,33 @@ outward appearance of strength. I was now able to feel and understand how easily
 man in the street succumbs to the hypnotic magic of such a grandiose piece of theatrical
 presentation. 
 
-The bourgeoisie, which as a party neither possesses or stands for any
-WELTANSCHAUUNG, had therefore not a single banner. Their party was composed of
-'patriots' who went about in the colours of the REICH. If these colours were the symbol
-of a definite WELTANSCHAUUNG then one could understand the rulers of the State
-regarding this flag as expressive of their own WELTANSCHAUUNG, seeing that
-through their efforts the official REICH flag was expressive of their own
+The bourgeoisie party neither has or stands for any WELTANSCHAUUNG.
+- It therefore had no single banner.
+
+Their party was composed of 'patriots' who went about in the colours of the REICH.
+- If these colours were the symbol of a definite WELTANSCHAUUNG then one could understand the rulers of the State regarding this flag as expressive of their own WELTANSCHAUUNG, seeing that through their efforts the official REICH flag was expressive of their own
 WELTANSCHAUUNG.
+
 But in reality the position was otherwise.
 
 The REICH was morticed together without the aid of the German bourgeoisie and the
 flag itself was born of the War and therefore merely a State flag possessing no
 importance in the sense of any particular ideological mission.
+
 Only in one part of the German-speaking territory--in German-Austria--was there
 anything like a bourgeois party flag in evidence. Here a section of the national
 bourgeoisie selected the 1848 colours (black, red and gold) as their party flag and
 therewith created a symbol which, though of no importance from a weltanschauliche
 viewpoint, had, nevertheless, a revolutionary character from a national point of view.
 The most bitter opponents of this flag at that time, and this should not be forgotten today, were the Social Democrats and the Christian Socialists or clericals. They, in particular, were the ones who degraded and besmirched these colours in the same way
-as in 1918 they dragged black, white and red into the gutter. Of course, the black, red
-and gold of the German parties in the old Austria were the colours of the year 1848: that
+as in 1918 they dragged black, white and red into the gutter. 
+
+The black, red and gold of the German parties in the old Austria were the colours of the year 1848: that
 is to say, of a period likely to be regarded as somewhat visionary, but it was a period
 that had honest German souls as its representatives, although the Jews were lurking
-unseen as wire-pullers in the background. It was high treason and the shameful
+unseen as wire-pullers in the background. 
+
+It was high treason and the shameful
 enslavement of the German territory that first of all made these colours so attractive to
 the Marxists of the Centre Party; so much so that to-day they revere them as their most
 cherished possession and use them as their own banners for the protection of the flag
@@ -93,18 +97,23 @@ banner the symbol of the new State.
 
 The question of the new flag, that is to say the form and appearance it must take, kept
 us very busy in those days. Suggestions poured in from all quarters, which although
-well meant were more or less impossible in practice. The new flag had not only to
+well meant were more or less impossible in practice. 
+
+The new flag had not only to
 become a symbol expressing our own struggle but on the other hand it was necessary
-that it should prove effective as a large poster. All those who busy themselves with the
-tastes of the public will recognize and appreciate the great importance of these
+that it should prove effective as a large poster. 
+
+All those who busy themselves with the tastes of the public will recognize and appreciate the great importance of these
 apparently petty matters. In hundreds of thousands of cases a really striking emblem
 may be the first cause of awakening interest in a movement.
 
 For this reason we declined all suggestions from various quarters for identifying our
 movement by means of a white flag with the old State or rather with those decrepit
-parties whose sole political objective is the restoration of past conditions. And, apart
-from this, white is not a colour capable of attracting and focusing public attention. It is a 
-colour suitable only for young women's associations and not for a movement that
+parties whose sole political objective is the restoration of past conditions. 
+
+Apart from this, white is not a colour capable of attracting and focusing public attention. 
+
+It is a colour suitable only for young women's associations and not for a movement that
 stands for reform in a revolutionary period.
 
 Black was also suggested--certainly well-suited to the times, but embodying no
@@ -114,11 +123,11 @@ of attracting attention.
 White and blue was discarded, despite its admirable aesthetic appeal--as being the
 colours of an individual German Federal State--a State that, unfortunately, through its
 political attitude of particularist narrow-mindedness did not enjoy a good reputation.
-And, generally speaking, with these colours it would have been difficult to attract
-attention to our movement. The same applies to black and white.
+
+With these colours it would have been difficult to attract attention to our movement. The same applies to black and white.
 Black, red and gold did not enter the question at all.
 
-And this also applies to black, white and red for reasons already stated. At least, not in
+This also applies to black, white and red for reasons already stated. At least, not in
 the form hitherto in use. But the effectiveness of these three colours is far superior to all
 the others and they are certainly the most strikingly harmonious combination to be
 found.
