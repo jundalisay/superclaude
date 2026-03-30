@@ -1,5 +1,5 @@
 ---
-title: "The Soul"
+title: "What is The Soul?"
 # heading: "Unenlightened"
 # date: 2026-03-24
 weight: 3

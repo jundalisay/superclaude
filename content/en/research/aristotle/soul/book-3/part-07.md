@@ -1,4 +1,17 @@
-Part 7
+---
+heading: "Part 7"
+title: "The Thinking Soul"
+# date: 2026-03-24
+weight: 31
+description: ""
+a: "Aristotle"
+c: "indigo"
+writer:
+  name: Aristotle 
+  url: https://en.wikipedia.org/wiki/Aristotle
+---
+
+
 
 Actual knowledge is identical with its object: potential knowledge in the individual is in time prior to actual knowledge but in the universe it has no priority even in time; for all things that come into being arise from what actually is. In the case of sense clearly the sensitive faculty already was potentially what the object makes it to be actually; the faculty is not affected or altered. This must therefore be a different kind from movement; for movement is, as we saw, an activity of what is imperfect, activity in the unqualified sense, i.e. that of what has been perfected, is different from movement.
 
@@ -14,9 +27,13 @@ That too which involves no action, i.e. that which is true or false, is in the s
 
 The so-called abstract objects the mind thinks just as, if one had thought of the snubnosed not as snub-nosed but as hollow, one would have thought of an actuality without the flesh in which it is embodied: it is thus that the mind when it is thinking the objects of Mathematics thinks as separate elements which do not exist separate. In every case the mind which is actively thinking is the objects which it thinks. Whether it is possible for it while not existing separate from spatial conditions to think anything that is separate, or not, we must consider later.
 
-Part 8
 
-Let us now summarize our results about soul, and repeat that the soul is in a way all existing things; for existing things are either sensible or thinkable, and knowledge is in a way what is knowable, and sensation is in a way what is sensible: in what way we must inquire.
+
+## Part 8
+
+The soul is all existing things.
+
+For existing things are either sensible or thinkable, and knowledge is in a way what is knowable, and sensation is in a way what is sensible: in what way we must inquire.
 
 Knowledge and sensation are divided to correspond with the realities, potential knowledge and sensation answering to potentialities, actual knowledge and sensation to actualities. Within the soul the faculties of knowledge and sensation are potentially these objects, the one what is knowable, the other what is sensible. They must be either the things themselves or their forms. The former alternative is of course impossible: it is not the stone which is present in the soul but its form.
 
@@ -25,6 +42,4 @@ It follows that the soul is analogous to the hand; for as the hand is a tool of 
 Since according to common agreement there is nothing outside and separate in existence from sensible spatial magnitudes, the objects of thought are in the sensible forms, viz. both the abstract objects and all the states and affections of sensible things. Hence (1) no one can learn or understand anything in the absence of sense, and (when the mind is actively aware of anything it is necessarily aware of it along with an image; for images are like sensuous contents except in that they contain no matter.
 
 Imagination is different from assertion and denial; for what is true or false involves a synthesis of concepts. In what will the primary concepts differ from images? Must we not say that neither these nor even our other concepts are images, though they necessarily involve them?
-
-
 
