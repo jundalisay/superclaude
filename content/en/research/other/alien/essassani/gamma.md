@@ -46,6 +46,16 @@ Being in the flow or in the zone is a sign you are in the gamma state. There are
 
 
 
+## Memory
+
+Memory is created in the present. 
+
+It is a crosslinking to another reality that you put into a linear spacetime framework for continuity. 
+
+ between different realities.
+
+
+
 ## Using Gamma for Education
 
 3 main principles for gamma state learning:

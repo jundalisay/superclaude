@@ -156,3 +156,16 @@ Then in realizing that your new-preferred belief is just as valid, and just as "
 We can distinguish between what we think we believe and what we actually believe through our actions. 
 - Our actions always indicate what you actually believe
 
+
+
+
+## Lure versus Something Manifestable
+
+Some visions or ideas that we get might be a lure that will get us into the proper state, even if that vision was not meant to become real. 
+
+We should be ok that the vision that we have might not come true. 
+
+An analogy is paining a painting that you want, but you are missing the required colors. 
+
+The correct response is to paint using the colors that you have and see what colors synchroncity brings. 
+

@@ -78,6 +78,8 @@ document.addEventListener('click', (e) => {
   }
 });
 
+
+
 // ── SEARCH ───────────────────────────────────────────────────────────────
 const openSearch = document.getElementById('openSearch');
 const closeSearch = document.getElementById('closeSearch');
@@ -86,6 +88,19 @@ const searchInput = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
 
 let searchIndex = null;
+
+
+// ── CONTENT AREA SEARCH BUTTON ───────────────────────────────────────────
+const contentSearchBtn = document.getElementById('contentSearchBtn');
+
+if (contentSearchBtn) {
+  contentSearchBtn.addEventListener('click', (e) => {
+    e.preventDefault();
+    openSearchModal();
+  });
+}
+
+
 
 async function loadSearchIndex() {
   if (searchIndex) return;
@@ -188,6 +203,8 @@ function escapeHtml(str) {
 function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
+
+
 
 // ── SCROLL TO TOP ─────────────────────────────────────────────────────────
 const scrollTopBtn = document.getElementById('scrollTopBtn');

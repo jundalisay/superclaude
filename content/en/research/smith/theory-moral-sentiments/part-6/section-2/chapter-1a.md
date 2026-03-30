@@ -14,7 +14,7 @@ icon: "Adam Smith"
 
 ## Introduction
 
-{{< s v="4" >}} The Stoics said that every man is first and principally recommended to his own care. Every man= 
+{{< s v="4" >}} The Stoics said that every man is first and principally recommended to his own care. Every man:
 - is fitter and abler to take care of himself than of any other person, and
 - feels his own pleasures and pains more sensibly than those of others.
 

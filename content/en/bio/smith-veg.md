@@ -11,7 +11,10 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: "Lam"
+aliases:
+  /medical/smith-veg/
 ---
+
 
 
 The recent trend in extreme weather, as seen in El Nino, in the drought in California, and in supertyphoons, has proven that climate change is here and that it can get worse if nothing is done.

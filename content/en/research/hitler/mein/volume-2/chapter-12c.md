@@ -14,48 +14,50 @@ icon: "Adolf Hitler"
 
 The trades union is not naturally an instrument of class warfare. 
 
-But the Marxists transformed it into an instrument for use in their own class struggle. They created the economic weapon which the international Jew uses for the purpose of destroying the economic foundations of free and independent national States, for ruining their national industry and trade and thereby enslaving free nations to serve Jewish world-finance, which transcends all State boundaries.
- 
-In contradistinction to this, the National Socialist Trades Union must organize definite
-groups and those who participate in the economic life of the nation and thus enhance
-the security of the national economic system itself, reinforcing it by the elimination of
-all those anomalies which ultimately exercise a destructive influence on the social body
-of the nation, damaging the vital forces of the national community, prejudicing the
-welfare of the State and, by no means as a last consequence, bringing evil and
-destruction on economic life itself.
+But the Marxists transformed it into an instrument for their own class struggle.
 
-Therefore in the hands of the National Socialist Trades Union the strike is not an
-instrument for disturbing and dislocating the national production, but for increasing it
-and making it run smoothly, by fighting against all those annoyances which by reason
-of their unsocial character hinder efficiency in business and thereby hamper the
-existence of the whole nation. For individual efficiency stands always in casual relation
-to the general social and juridical position of the individual in the economic process.
-Individual efficiency is also the sole root of the conviction that the economic prosperity
-of the nation must necessarily redound to the benefit of the individual citizen.
-The National Socialist employee will have to recognize the fact that the economic
-prosperity of the nation brings with it his own material happiness.
-The National Socialist employer must recognize that the happiness and contentment of
-his employees are necessary pre-requisites for the existence and development of his
+They created the economic weapon which the international Jew uses for:
+- destroying the economic foundations of free national States
+- ruining their national industry and trade
+
+This enslaves free nations to serve Jewish world-finance, which transcends all State boundaries.
+ 
+In contradistinction to this, the National Socialist Trades Union must organize groups to enhance the security of the national economic system itself, reinforcing it by the elimination of all those anomalies which:
+- destroy the social body of the nation
+- damage the vital forces of the national community
+- prejudice the welfare of the State
+- bring evil and destroy economic life itself
+
+Therefore, in the hands of the National Socialist Trades Union the strike is not an instrument for disturbing and dislocating the national production, but for increasing it and making it run smoothly by fighting against those annoyances which hinder efficiency in business and thereby hamper the existence of the whole nation.
+
+Individual efficiency:
+- stands always in casual relation to the general social and juridical position of the individual in the economic process.
+- is also the sole root of the conviction that the economic prosperity of the nation must necessarily redound to the benefit of the individual citizen.
+
+The National Socialist employee will have to recognize the fact that the economic prosperity of the nation brings with it his own material happiness.
+
+The National Socialist employer must recognize that the happiness and contentment of his employees are necessary pre-requisites for the existence and development of his
 own economic prosperity.
 
-National Socialist workers and employers are both together the delegates and
-mandatories of the whole national community. The large measure of personal freedom
-which is accorded to them for their activities must be explained by the fact that
+National Socialist workers and employers are both together the delegates and mandatories of the whole national community.
+
+The large measure of personal freedom which is accorded to them for their activities must be explained by the fact that
 experience has shown that the productive powers of the individual are more enhanced
 by being accorded a generous measure of freedom than by coercion from above.
-Moreover, by according this freedom we give free play to the natural process of
-selection which brings forward the ablest and most capable and most industrious. For
+
+By according this freedom we give free play to the natural process of selection which brings forward the ablest and most capable and most industrious. For
 the National Socialist Trades Union, therefore, the strike is a means that may, and
-indeed must, be resorted to as long as there is not a National Socialist State yet. But
-when that State is established it will, as a matter of course, abolish the mass struggle
+indeed must, be resorted to as long as there is not a National Socialist State yet. 
+
+But when that State is established it will, as a matter of course, abolish the mass struggle
 between the two great groups made up of employers and employees respectively, a
 struggle which has always resulted in lessening the national production and injuring
 the national community. In place of this struggle, the National Socialist State will take
 over the task of caring for and defending the rights of all parties concerned. It will be
 the duty of the Economic Chamber itself to keep the national economic system in
 smooth working order and to remove whatever defects or errors it may suffer from.
-Questions that are now fought over through a quarrel that involves millions of people
-will then be settled in the Representative Chambers of Trades and Professions and in
+
+Questions that are now fought over through a quarrel that involves millions of people will then be settled in the Representative Chambers of Trades and Professions and in
 the Central Economic Parliament. Thus employers and employees will no longer find 
 themselves drawn into a mutual conflict over wages and hours of work, always to the
 detriment of their mutual interests. But they will solve these problems together on a
@@ -70,14 +72,13 @@ members to conform to these ideals. That task may be stated as follows: All must
 together for the maintenance and security of our people and the People's State, each one
 according to the abilities and powers with which Nature has endowed him and which
 have been developed and trained by the national community.
+
 Our fourth question was: How shall we establish trades unions for such tasks and aims?
 That is far more difficult to answer.
 
-Generally speaking, it is easier to establish something in new territory than in old
-territory which already has its established institutions. In a district where there is no
-existing business of a special character one can easily establish a new business of this
-character. But it is more difficult if the same kind of enterprise already exists and it is
-most difficult of all when the conditions are such that only one enterprise of this kind
+Generally speaking, it is easier to establish something in new territory than in old territory which already has its established institutions. In a district where there is no existing business of a special character one can easily establish a new business of this character. 
+
+But it is more difficult if the same kind of enterprise already exists and it is most difficult of all when the conditions are such that only one enterprise of this kind
 can prosper. For here the promoters of the new enterprise find themselves confronted
 not only with the problem of introducing their own business but also that of how to
 bring about the destruction of the other business already existing in the district, so that
@@ -162,16 +163,20 @@ The Revolution which took place in November 1918 was not made by the trades unio
 but it was carried out in spite of them. And the people of Germany did not wage any
 political fight for the future of their country because they thought that the future could
 be sufficiently secured by constructive work in the economic field.
+
 We must learn a lesson from this experience, because in our case the same thing must
 happen under the same circumstances. The more the combined strength of our
 movement is concentrated in the political struggle, the more confidently may we count
-on being successful along our whole front. But if we busy ourselves prematurely with
+on being successful along our whole front. 
+
+But if we busy ourselves prematurely with
 trade unionist problems, settlement problems, etc., it will be to the disadvantage of our
 own cause, taken as a whole. For, though these problems may be important, they
 cannot be solved in an adequate manner until we have political power in our hand and
 are able to use it in the service of this idea. Until that day comes these problems can
-have only a paralysing effect on the movement. And if it takes them up too soon they
-will only be a hindrance in the effort to attain its own ideological aims. It may then
+have only a paralysing effect on the movement. 
+
+If it takes them up too soon they will only be a hindrance in the effort to attain its own ideological aims. It may then
 easily happen that trade unionist considerations will control the political direction of
 the movement, instead of the ideological aims of the movement directing the way that
 the trades unions are to take. 
@@ -195,12 +200,14 @@ Therefore there remained only two possible ways. Either to recommend our own par
 members to leave the trades unions in which they were enrolled or to remain in them
 for the moment, with the idea of causing as much destruction in them as possible.
 In general, I recommended the latter alternative.
+
 Especially in the year 1922-23 we could easily do that. For, during the period of
 inflation, the financial advantages which might be reaped from a trades union
 organization would be negligible, because we could expect to enroll only a few
 members owing to the undeveloped condition of our movement. The damage which
 might result from such a policy was all the greater because its bitterest critics and
 opponents were to be found among the followers of the National Socialist Party.
+
 I had already entirely discountenanced all experiments which were destined from the
 very beginning to be unsuccessful. I would have considered it criminal to run the risk of
 depriving a worker of his scant earnings in order to help an organization which,
@@ -212,6 +219,7 @@ may ultimately come to nothing. But the man who pays his dues to a trade union h
 the right to expect some guarantee in return. If this is not done, then the directors of
 such a trade union are swindlers or at least careless people who ought to be brought to
 a sense of their responsibilities.
+
 We took all these viewpoints into consideration before making our decision in 1922.
 Others thought otherwise and founded trades unions. They upbraided us for being 
 short-sighted and failing to see into the future. But it did not take long for these

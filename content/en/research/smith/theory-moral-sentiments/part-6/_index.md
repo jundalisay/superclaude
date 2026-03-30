@@ -1,6 +1,7 @@
 ---
 heading: "Part 6"
-title: "Inherent Morality as Virtue"
+title: The Character of Virtue
+# title: "Inherent Morality as Virtue"
 linkTitle: Part 6
 description: "Part 6 of the Simplified Theory of Moral Sentiments by Adam Smith"
 c: "indigo"

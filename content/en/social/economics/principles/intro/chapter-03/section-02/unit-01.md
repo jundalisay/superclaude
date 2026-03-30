@@ -9,6 +9,8 @@ description: "The previous part explained that exchangeable value has different 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/intro/chapter-04c
 ---
 
 

@@ -59,9 +59,9 @@ In their exterior commerce with Great Britain, gold and silver are used exactly 
 - Where they are necessary, they are generally found.
 
 
-## Sometimes, It's Better to Pay in Kind 
+## Sometimes, It's Better to Pay in Kind
 
-{{< s v="84" >}} In the commerce between Great Britain and the tobacco colonies, the British goods are generally advanced to the colonists at a pretty long credit.
+{{< s v="83" >}} In the commerce between Great Britain and the tobacco colonies, the British goods are generally advanced to the colonists at a pretty long credit.
 - They are afterwards paid for in tobacco at a certain price.
 - **It is more convenient for the colonists to pay in tobacco than in gold and silver.**
 
@@ -91,15 +91,74 @@ A balance must be paid to Great Britain in gold and silver. They generally find 
 - the four governments of New England, etc.
 
 
-{{< s v="85" >}} The sugar colonies export more to Great Britain than they import British goods. <!-- , the value of exports to Great Britain is much greater than the value of all the goods imported. -->
+<!-- The sugar colonies export more to Great Britain than they import British goods.  -->
+<!-- , the value of exports to Great Britain is much greater than the value of all the goods imported. -->
 
-Great Britain would need to send a lot of money annually to the sugar colonies if their sugar and rum were all bought with money in those colonies.
+<!-- Great Britain would need to send a lot of money annually to the sugar colonies if their sugar and rum were all bought with money in those colonies.
 - This would cause politicians to see the West Indies trade as extremely disadvantageous.
 
-But this does not happen because many of the large sugar plantation owners<!--  proprietors --> reside in Great Britain.
+But this does not happen because many of the large sugar plantation owners reside in Great Britain.
 - Their rents are remitted to them in sugar and rum produced in their estates.
 - The sugar and rum bought by the West India merchants in those colonies have a higher value than the British goods that they import. 
 - The difference goes to the owners as gold and silver*.
 
 
-{{< n n="The money of Great Britain stays in Great Britain" >}}
+{{< n n="The money of Great Britain stays in Great Britain" >}} -->
+
+
+{{< s v="85" >}} The difficulty and irregularity of payment from the different colonies towards Great Britain does not correlate with the size of the balances due from them. 
+
+Generally, the payments have been more regular from the northern colonies than from the tobacco colonies.
+
+- The northern colonies have paid a large balance in money.
+- The the tobacco colonies have either paid no balance, or a much smaller one.
+
+The difficulty of getting payment from our sugar colonies is caused by the temptation which the planters have of overtrading.
+- They see a lot of uncultivated land.
+- So they borrow money to develop it beyond the capability of their capitals.
+
+Jamaica still has much uncultivated land.
+
+This is why its returns have been more irregular and uncertain than those from the smaller islands of Barbadoes, Antigua, and St. Christophers.
+- These islands have been completely cultivated for many years and so have afforded less field for the speculations of the planter.
+
+The new acquisitions of Grenada, Tobago, St. Vincents, and Dominica have opened a new field for speculations of this kind.
+- The returns from them have recently been as irregular and uncertain as those from Jamaica.
+
+
+
+
+{{< s v="86" >}} Therefore, it is not the poverty of the colonies which creates the present scarcity of gold and silver money.
+
+Their great demand for active and productive stock:
+- makes it convenient for them to have as little dead stock as possible
+- disposes them to content themselves with a cheaper though less commodious instrument of commerce than gold and silver.
+
+They are thereby convert the value of that gold and silver into:
+- the instruments of trade
+- the materials of clothing
+- household furniture
+- the ironwork for building and extending their settlements and plantations
+
+
+They can always find the necessary metals in businesses which cannot be transacted without gold and silver money.
+- If they do not find it, their failure is the effect of their unnecessary and excessive enterprise, not of their necessary poverty.
+
+**It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.** 
+
+The colonies can acquire the gold and silver needed to pay taxes to Britain. 
+
+However, this would convert their active and productive stock [money for trade] into dead stock [money for tax payments].
+
+<!-- Though all that part of the produce of the colony taxes which was over and above what was necessary for defraying the expence of their own civil and military establishments were to be remitted to Great Britain in gold and silver, the colonies have abundantly wherewithal to purchase the requisite quantity of those metals.  -->
+
+In transacting their domestic business, they would shift to using a costly instrument of commerce instead of a cheap one.
+- The expence of purchasing this costly instrument might dampen economic activity used in developing the land.
+
+But it might not be necessary to remit American taxes in gold and silver.
+
+It might be remitted in bills drawn on and accepted by merchants in Great Britain who receive American products. 
+
+Those merchants would then pay into the treasury the American taxes in money, after receiving their value in goods.
+
+The whole business might frequently be transacted without exporting a single ounce of gold or silver from America.

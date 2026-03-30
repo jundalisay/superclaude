@@ -8,6 +8,8 @@ description: "Here is the Arrangement of Chapters"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/intro/chapter-06b  
 ---
 
 

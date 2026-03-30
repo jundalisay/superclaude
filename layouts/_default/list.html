@@ -9,25 +9,48 @@
   </div>
 
   <div class="relative max-w-[1400px] mx-auto px-6 z-10">
-      <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 font-display uppercase tracking-wider" aria-label="Breadcrumb">
-        {{ range .Ancestors.Reverse }}
-          <span class="opacity-50">/</span>
-          <a href="{{ .RelPermalink }}" class="hover:text-teal-400 transition-colors">
-            {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
-          </a>
-        {{ end }}
-        {{ if not .IsHome }}
-          <span class="opacity-50">/</span>
-          <span class="text-teal-400">
-            {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
-          </span>
-        {{ end }}
-      </nav>
+    <div class="flex flex-col md:flex-row items-center justify-between gap-8 md:gap-12">
+        
+      <div class="flex-1 w-full">
+        <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 font-display uppercase tracking-wider" aria-label="Breadcrumb">
+          {{ range .Ancestors.Reverse }}
+            <span class="opacity-50">/</span>
+            <a href="{{ .RelPermalink }}" class="hover:text-teal-400 transition-colors">
+              {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+            </a>
+          {{ end }}
+          {{ if not .IsHome }}
+            <span class="opacity-50">/</span>
+            <span class="text-teal-400">
+              {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+            </span>
+          {{ end }}
+        </nav>
 
-    <h1 class="font-display font-bold text-4xl md:text-5xl text-white mb-3">{{ .Title }}</h1>
-    {{ with .Description }}<p class="text-white/80 text-lg max-w-xl">{{ . }}</p>{{ end }}
+        <h1 class="font-display font-bold text-4xl md:text-5xl text-white mb-3">{{ .Title }}</h1>
+        {{ with .Description }}<p class="text-white/80 text-lg max-w-xl">{{ . }}</p>{{ end }}
+      </div>
+
+      {{ with .Params.youtube }}
+      <div class="w-full md:w-1/2 max-w-2xl">
+        <div class="aspect-video rounded-2xl overflow-hidden shadow-2xl border border-white/10 bg-black/20">
+          <iframe 
+            class="w-full h-full"
+            src="https://www.youtube.com/embed/{{ . }}" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+          </iframe>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
   </div>
 </section>
+
+
 
 <section class="py-16 relative z-10">
   <div class="max-w-[1400px] mx-auto px-6">
@@ -58,6 +81,8 @@
         </div>
       </div>
       {{- end }}
+
+
 
       {{/* 2. Regular Section: Paginated at 16 per page - EXCLUDING pinned cards */}}
       {{- if gt (len $regular) 0 }}

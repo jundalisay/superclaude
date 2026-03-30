@@ -1,6 +1,6 @@
 ---
 title: "Excessive Ego: Self-esteem, Pride, and Vanity"
-heading: "Chapter 4"
+heading: "Section 3d"
 description: "Adam Smith describes the egotistic man, the proud man, and the vain man"
 weight: 52
 writer:

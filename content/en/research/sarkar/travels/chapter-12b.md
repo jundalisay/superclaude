@@ -57,7 +57,9 @@ He pointed to a concrete slab about 150 meters away.
 {{< l a="Baba" >}}
 Perhaps this is the place, and that monument commemorates the battle.
 
-Strengthen yourselves in north Africa. We will attack from Spain with love. But we shall say to them we are not your born enemies. They will say, 'We hate you.' We will say, 'We love you.' 
+**Strengthen yourselves in north Africa. We will attack from Spain with love.** 
+
+But we shall say to them we are not your born enemies. They will say, 'We hate you.' We will say, 'We love you.' 
 
 From Gibraltar move southward. Gibraltar is actually Spain, but it was given to England as part of a dowry. 
 

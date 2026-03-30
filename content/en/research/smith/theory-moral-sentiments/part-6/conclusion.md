@@ -1,7 +1,7 @@
 ---
 title: "Conclusion on Part 6"
 description: "Prudence Justice Beneficence"
-weight: 44
+weight: 100
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
