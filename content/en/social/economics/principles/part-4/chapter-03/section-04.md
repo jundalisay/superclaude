@@ -8,7 +8,10 @@ description: "The most common suffering imposed by Neoclassical Economics on the
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:  
+  /social/economics/principles/part-4/chapter-03b
 ---
+
 
 
 The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality.

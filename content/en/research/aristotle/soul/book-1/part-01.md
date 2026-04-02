@@ -1,6 +1,5 @@
 ---
-title: "The Soul"
-# heading: "Unenlightened"
+title: "Questions on the Soul"
 # date: 2026-03-24
 weight: 3
 description: "Aristotle was a Greek philosopher who wrote about the different Greek philosophies and advanced his own substance-based beliefs"
@@ -15,16 +14,40 @@ writer:
 
 <!-- Written 350 B.C.E -->
 
+<!-- Holding as we do that, while knowledge of any kind is a thing to be honoured and prized, one kind of it may, either by reason of its greater exactness or of a higher dignity and greater wonderfulness in its objects,
 
-Holding as we do that, while knowledge of any kind is a thing to be honoured and prized, one kind of it may, either by reason of its greater exactness or of a higher dignity and greater wonderfulness in its objects, be more honourable and precious than another, on both accounts we should naturally be led to place in the front rank the study of the soul. The knowledge of the soul admittedly contributes greatly to the advance of truth in general, and, above all, to our understanding of Nature, for the soul is in some sense the principle of animal life. Our aim is to grasp and understand, first its essential nature, and secondly its properties; of these some are taught to be affections proper to the soul itself, while others are considered to attach to the animal owing to the presence within it of soul.
+On be more honourable and  than another, on both accounts we should naturally be led to place in the front rank the study of the soul.  -->
 
-To attain any assured knowledge about the soul is one of the most difficult things in the world. As the form of question which here presents itself, viz. the question 'What is it?', recurs in other fields, it might be supposed that there was some single method of inquiry applicable to all objects whose essential nature (as we are endeavouring to ascertain there is for derived properties the single method of demonstration); in that case what we should have to seek for would be this unique method. But if there is no such single and general method for solving the question of essence, our task becomes still more difficult; in the case of each different subject we shall have to determine the appropriate process of investigation. If to this there be a clear answer, e.g. that the process is demonstration or division, or some known method, difficulties and hesitations still beset us-with what facts shall we begin the inquiry? For the facts which form the starting-points in different subjects must be different, as e.g. in the case of numbers and surfaces.
+The knowledge of the soul is more precious than other knowledge, as it contributes greatly to:
+- the advance of truth in general
+- above all, to our understanding of Nature
 
-First, it is necessary to determine in which of the summa genera soul lies, what it is; is it 'a this-somewhat, 'a substance, or is it a quale or a quantum, or some other of the remaining kinds of predicates which we have distinguished? Further, does soul belong to the class of potential existents, or is it not rather an actuality? Our answer to this question is of the greatest importance.
+The soul is the principle of animal life. 
 
-We must consider also whether soul is divisible or is without parts, and whether it is everywhere homogeneous or not; and if not homogeneous, whether its various forms are different specifically or generically: up to the present time those who have discussed and investigated soul seem to have confined themselves to the human soul. We must be careful not to ignore the question whether soul can be defined in a single unambiguous formula, as is the case with animal, or whether we must not give a separate formula for each of it, as we do for horse, dog, man, god (in the latter case the 'universal' animal-and so too every other 'common predicate'-being treated either as nothing at all or as a later product).
+Our aim is to and understand:
 
-Further, if what exists is not a plurality of souls, but a plurality of parts of one soul, which ought we to investigate first, the whole soul or its parts? (It is also a difficult problem to decide which of these parts are in nature distinct from one another.) Again, which ought we to investigate first, these parts or their functions, mind or thinking, the faculty or the act of sensation, and so on? If the investigation of the functions precedes that of the parts, the further question suggests itself: ought we not before either to consider the correlative objects, e.g. of sense or thought? It seems not only useful for the discovery of the causes of the derived properties of substances to be acquainted with the essential nature of those substances (as in mathematics it is useful for the understanding of the property of the equality of the interior angles of a triangle to two right angles to know the essential nature of the straight and the curved or of the line and the plane) but also conversely, for the knowledge of the essential nature of a substance is largely promoted by an acquaintance with its properties: for, when we are able to give an account conformable to experience of all or most of the properties of a substance, we shall be in the most favourable position to say something worth saying about the essential nature of that subject; in all demonstration a definition of the essence is required as a starting-point, so that definitions which do not enable us to discover the derived properties, or which fail to facilitate even a conjecture about them, must obviously, one and all, be dialectical and futile.
+1. its essential nature
+2. its properties
+
+Of these some are taught to be affections proper to the soul itself, while others are considered to attach to the animal owing to the presence within it of soul.
+
+To attain any assured knowledge about the soul is one of the most difficult things in the world. As the form of question which here presents itself, viz. the question 'What is it?', recurs in other fields, it might be supposed that there was some single method of inquiry applicable to all objects whose essential nature (as we are endeavouring to ascertain there is for derived properties the single method of demonstration); in that case what we should have to seek for would be this unique method. 
+
+But if there is no such single and general method for solving the question of essence, our task becomes still more difficult; in the case of each different subject we shall have to determine the appropriate process of investigation. If to this there be a clear answer, e.g. that the process is demonstration or division, or some known method, difficulties and hesitations still beset us-with what facts shall we begin the inquiry? For the facts which form the starting-points in different subjects must be different, as e.g. in the case of numbers and surfaces.
+
+First, it is necessary to determine in which of the summa genera soul lies, what it is; is it 'a this-somewhat, 'a substance, or is it a quale or a quantum, or some other of the remaining kinds of predicates which we have distinguished? 
+
+Further, does soul belong to the class of potential existents, or is it not rather an actuality? Our answer to this question is of the greatest importance.
+
+Is the soul:
+- divisible or is without parts?
+- everywhere homogeneous or not?
+
+If not homogeneous, whether its various forms are different specifically or generically: up to the present time those who have discussed and investigated soul seem to have confined themselves to the human soul.
+
+Can the soul be defined in a single unambiguous formula, as is the case with animal, or whether we must not give a separate formula for each of it, as we do for horse, dog, man, god (in the latter case the 'universal' animal-and so too every other 'common predicate'-being treated either as nothing at all or as a later product)?
+
+If what exists is not a plurality of souls, but a plurality of parts of one soul, which ought we to investigate first, the whole soul or its parts? (It is also a difficult problem to decide which of these parts are in nature distinct from one another.) Again, which ought we to investigate first, these parts or their functions, mind or thinking, the faculty or the act of sensation, and so on? If the investigation of the functions precedes that of the parts, the further question suggests itself: ought we not before either to consider the correlative objects, e.g. of sense or thought? It seems not only useful for the discovery of the causes of the derived properties of substances to be acquainted with the essential nature of those substances (as in mathematics it is useful for the understanding of the property of the equality of the interior angles of a triangle to two right angles to know the essential nature of the straight and the curved or of the line and the plane) but also conversely, for the knowledge of the essential nature of a substance is largely promoted by an acquaintance with its properties: for, when we are able to give an account conformable to experience of all or most of the properties of a substance, we shall be in the most favourable position to say something worth saying about the essential nature of that subject; in all demonstration a definition of the essence is required as a starting-point, so that definitions which do not enable us to discover the derived properties, or which fail to facilitate even a conjecture about them, must obviously, one and all, be dialectical and futile.
 
 A further problem presented by the affections of soul is this: are they all affections of the complex of body and soul, or is there any one among them peculiar to the soul by itself? 
 

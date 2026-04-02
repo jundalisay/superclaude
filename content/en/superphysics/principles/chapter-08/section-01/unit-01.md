@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /superphysics/principles/chapter-08/section-07
 ---
+
 
 
 

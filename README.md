@@ -18,6 +18,20 @@ HUGO_VERSION 0.145.0
 Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GMT on weekdays. Now through March 28.
 
 
+aether media = amed
+aether particles (monad) = apars
+time media = timed
+aetherspace media = asmed
+space media = spamed
+space particles = spapars
+light media = limed
+light particles = lipar
+magnetic media = magmed
+crude light particle = clipar
+material media = matmed
+matter particles = matpars
+
+
 
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">
         {{ partial "card.html" $page }}

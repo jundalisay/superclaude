@@ -15,14 +15,10 @@ Examples include the People’s Republic of China’s dramatic leaps forward in 
 
 Those reforms still present in the Department of Commerce’s EAR must be reversed. The United States needs stronger rules to protect technology transfer to adversaries while promoting technology integration and interoperability with allies. Further, U.S. export control regulations should be utilized to prevent theft of personally identifiable information and to encourage U.S. companies to shift production out of China and further diversify their supply chains to better advance U.S. national security interests.
 
-For all the below recommendations, BIS needs to move unilaterally while it
-works with allies to implement complementary export control policies. Waiting
-to act until allies are ready to move in lockstep is not an option while America’s
-national security is at risk.
+For all the below recommendations, BIS needs to move unilaterally while it works with allies to implement complementary export control policies. Waiting
+to act until allies are ready to move in lockstep is not an option while America’s national security is at risk.
 
-Emerging and Foundational Technologies. The Export Control Reform Act
-of 2018 (ECRA) gave BIS permanent statutory authority to regulate exports of
-dual-use items (goods, software, and technology). ECRA also mandated that BIS regulate exports of emerging and foundational technologies. 
+Emerging and Foundational Technologies. The Export Control Reform Act of 2018 (ECRA) gave BIS permanent statutory authority to regulate exports of dual-use items (goods, software, and technology). ECRA also mandated that BIS regulate exports of emerging and foundational technologies. 
 
 Although the scope of such technologies is vast, to date BIS has only controlled just over 40 of these
 technologies. This does not meet the clear statutory intent of Congress that ECRA

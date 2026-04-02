@@ -12,6 +12,7 @@ writer:
 toc: false
 aliases:
   /effort-theory
+  /social/economics/principles/part-2/chapter-01c
 ---
 
 

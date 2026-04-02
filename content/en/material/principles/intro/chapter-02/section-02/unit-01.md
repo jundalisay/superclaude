@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 7
 icon: "Juan"
+aliases:
+  /material/principles/intro/chapter-02b
 ---
+
 
 
 
@@ -206,5 +209,3 @@ Such information is esssential to make a teleportation map that is already used 
 
 So you only constrain neutrino mass when you need to make a teleportation map in real-time. We explain here: https://www.youtube.com/shorts/0tCcUN9T4oQ
  -->
-
- 

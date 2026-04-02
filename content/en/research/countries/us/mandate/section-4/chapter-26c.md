@@ -4,18 +4,13 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
+weight: 76
 ---
 
 
-Our country has been behaving like an extraordinarily rich family that possesses an immense farm. In order to consume 4% more than we produce— that’s the trade deficit—we have, day by day, been both selling pieces of the
-farm and increasing the mortgage on what we still own.
+Our country has been behaving like an extraordinarily rich family that possesses an immense farm. In order to consume 4% more than we produce— that’s the trade deficit—we have, day by day, been both selling pieces of the farm and increasing the mortgage on what we still own.
 
-Historically, one line of attack against attempts to implement fair trade policies
-in the name of reducing America’s massive and chronic trade deficit has been the
-claim that “trade deficits don’t matter.” The intellectual tip of this spear has often
-been think tanks that generate reams of analyses in support of a purely free trade
-(and open borders) American posture.38 Yet both common sense and several very
-good reasons tell us that trade deficits matter a great deal.
+Historically, one line of attack against attempts to implement fair trade policies in the name of reducing America’s massive and chronic trade deficit has been the claim that “trade deficits don’t matter.” The intellectual tip of this spear has often been think tanks that generate reams of analyses in support of a purely free trade (and open borders) American posture.38 Yet both common sense and several very good reasons tell us that trade deficits matter a great deal.
 
 
 ### Economic Security
@@ -104,3 +99,5 @@ of Defense James Mattis resisted. Mattis simply did not understand a key tenet o
 the Trump Administration: Economic security is also national security. Without
 vibrant steel and aluminum industries, it will be difficult for America to provide
 the Pentagon with the kind of weapons it needs to defend the homeland.
+
+

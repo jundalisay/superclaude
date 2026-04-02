@@ -4,6 +4,7 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
+weight: 95
 ---
 
 
@@ -41,16 +42,16 @@ than their parents were—more individualistic and open to change.
 
 Effective outreach to the Chinese people will need the same humility that
 other sound trade policies require. Government-directed cultural and
-economic outreach risks being heavy-handed and could backfire. Everyone
-involved needs to know that the process is generational in scope and will
+economic outreach risks being heavy-handed and could backfire. 
+
+Everyone involved needs to know that the process is generational in scope and will
 not work overnight. At the very least, Washington should stay out of the way
 as much as possible when regular people want to contact each other across
 national, language, and cultural divides.
 
 Each of these many components, from tariffs to trade agreements to culture,
 is a small part of a larger China policy. Many are not attention-grabbing
-and cannot be put into sound bites. Cultural engagement is not something
-Washington can plan. China’s own demographic and debt problems, along
+and cannot be put into sound bites. Cultural engagement is not something Washington can plan. China’s own demographic and debt problems, along
 with aging leadership and growing discontent over the zero-COVID policy,
 might even cause an internal collapse. American policy must therefore be
 prepared to face any contingency.
@@ -62,4 +63,3 @@ A conservative trade policy needs a conservative vision. America’s founding in
 
 However, recent departures from those principles have hurt America’s economy and weakened alliances that are necessary to contain threats from Russia and China. Reaffirming those principles through policies of openness, dynamism, and
 free trade will boost America’s economy, make us more resilient against crises, and remove opportunities for progressives and rent-seekers to use the levers of government for their own purposes. Rediscovering conservative principles on trade policy and embracing America’s long history as the world’s leading commercial republic are an important part of restoring a government of, by, and for the people.
-

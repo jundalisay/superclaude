@@ -79,30 +79,39 @@ Beauty itself produces pleasure.
 But it makes us receive a new pain by the contrast with any thing ugly, whose deformity it augments.
 
 The case must be the same with happiness and misery.
-        ◦ The direct survey of another’s pleasure naturally gives us pleasure.
-        ◦ It therefore produces pain when cornpared with our own.
+- The direct survey of another’s pleasure naturally gives us pleasure.
+- It therefore produces pain when cornpared with our own.
 
 His pain, considered in itself, is painful to us.
-        ◦ But it:
-            ▪ augments the idea of our own happiness
-            ▪ gives us pleasure.
+
+But it:
+- augments the idea of our own happiness
+- gives us pleasure.
 
 We might feel a reversed sensation from the happiness and misery of others.
-        ◦ Since the same comparison may:
-            ▪ give us malice against ourselves
-            ▪ make us:
-                • rejoice for our pains
-                • grieve for our pleasures.
-    • Thus, the prospect of past pain is agreeable, when we are satisfied with our present condition.
-        ◦ On the other hand, our past pleasures give us uneasiness when we enjoy nothing at present equal to them.
-    • The comparison being the same, as when we reflect on the sentiments of others, must be attended with the same effects.
-    • A person may:
-        ◦ extend this malice against himself, even to his present fortune
-        ◦ carry this malice so far to:
-            ▪ seek affliction
-            ▪ increase his pains and sorrows.
-    • This may happen on two occasions.
-        ◦ On the distress and misfortune of a friend or person dear to him.
-        ◦ On the feeling any remorse for a crime he has been guilty of.
-            ▪ These irregular appetites for evil arise from the principle of comparison.
+
+Since the same comparison may:
+- give us malice against ourselves
+- make us:
+  - rejoice for our pains
+  - grieve for our pleasures.
+
+Thus, the prospect of past pain is agreeable, when we are satisfied with our present condition.
+
+On the other hand, our past pleasures give us uneasiness when we enjoy nothing at present equal to them.
+
+The comparison being the same, as when we reflect on the sentiments of others, must be attended with the same effects.
+
+A person may:
+- extend this malice against himself, even to his present fortune
+- carry this malice so far to:
+  - seek affliction
+  - increase his pains and sorrows.
+
+This may happen on 2 occasions.
+
+1. On the distress of a friend dear to him.
+2. On the feeling any remorse for a crime he has been guilty of.
+
+These irregular appetites for evil arise from the principle of comparison.
 

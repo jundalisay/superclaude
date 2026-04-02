@@ -71,41 +71,52 @@ In cases of objects of extension and number, the following excite a sensible emo
 - very numerous collection of objects, such as an army, a fleet, a crowd.
 
 The admiration arising from such objects, is one of the most lively pleasures human nature is capable of enjoying.
-        ◦ This admiration changes with the change of the objects.
+
+This admiration changes with the change of the objects.
 
 According to principles in Book 1, Part 3, Sec. 15, a compound effect from the conjunction of the several effects arises from each part of the cause.
 
 Every part of extension and every unite of number has a separate emotion attending it.
-            ▪ Though that emotion is not always agreeable.
-            ▪ Yet it contributes to produce admiration by its:
-                • conjunction with others
-                • agitating the spirits to a just pitch.
+ 
+Though that emotion is not always agreeable.
+ 
+Yet it contributes to produce admiration by its:
+- conjunction with others
+- agitating the spirits to a just pitch.
 
 If this is allowed with respect to extension and number, we can make no difficulty with respect to:
-        ◦ virtue and vice
-        ◦ wit and folly
-        ◦ riches and poverty
-        ◦ happiness and misery
-        ◦ other objects which are always attended with an emotion.
+- virtue and vice
+- wit and folly
+- riches and poverty
+- happiness and misery
+- other objects which are always attended with an emotion.
 
 The second principle is our adherence to general rules.
-        ◦ This has such a mighty influence on the actions and understanding.
-        ◦ It is able to impose on the very senses.
+
+This has such a mighty influence on the actions and understanding.
+- It is able to impose on the very senses.
 
 When an object is always accompanied with another, we naturally conceive the second object when the first object appears, even if the first object is changed in very material circumstances,
-        ◦ We form an idea of it in as lively and strong a way, as if we had inferred its existence by our understanding’s most authentic conclusion.
-        ◦ Nothing can undeceive us, not even our senses.
-        ◦ Instead of our senses correcting this false judgment, they:
-            ▪ are often perverted by it
-            ▪ seem to authorize its errors.
+
+We form an idea of it in as lively and strong a way, as if we had inferred its existence by our understanding’s most authentic conclusion.
+
+Nothing can undeceive us, not even our senses.
+
+Instead of our senses correcting this false judgment, they:
+- are often perverted by it
+- seem to authorize its errors.
 
 My conclusion from these two principles is very short and decisive.
-        ◦ Every object is attended with some emotion proportioned to it.
-        ◦ A great object is attended with a great emotion.
-        ◦ A small object, with a small emotion.
+
+Every object is attended with some emotion proportioned to it.
+
+A great object is attended with a great emotion.
+
+A small object, with a small emotion.
 
 A great object succeeding a small one, therefore makes a great emotion succeed a small one.
-        ◦ A great emotion succeeding a small one:
-            ▪ becomes still greater
-            ▪ rises beyond its ordinary proportion.
+
+A great emotion succeeding a small one:
+- becomes still greater
+- rises beyond its ordinary proportion.
 
