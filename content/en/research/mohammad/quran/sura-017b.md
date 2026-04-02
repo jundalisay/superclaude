@@ -12,25 +12,52 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>46</sup> We drape veils over their hearts, preventing them from understanding it, and heaviness in their ears. And when you mention your Lord alone in the Quran, they turn their backs in aversion.
 
-<sup>47</sup> We know well what they listen to, when they listen to you, as they conspire, when the wrongdoers say, “You only follow a man bewitched.”
+<sup>47</sup> We know well what they listen to, when they listen to you, as they conspire, when the wrongdoers say:
+
+{{< r a="Wrongdoers" >}}
+ “You only follow a man bewitched.”
+{{< /r >}}
+
 
 <sup>48</sup> Note what they compared you to. They are lost, and unable to find a way.
 
-<sup>49</sup> They say, “When we have become bones and fragments, shall we really be resurrected as a new creation?”
+<sup>49</sup> They say:
+
+{{< r a="Wrongdoers" >}}
+When we have become bones and fragments, shall we really be resurrected as a new creation?
+{{< /r >}}
+
 
 <sup>50</sup> Say:
 
-“Even if you become rocks or iron. some substance, which, in your minds, is even harder.” 
+{{< l a="Muslims" >}}
+Even if you become rocks or iron. some substance, which, in your minds, is even harder.
+{{< /l >}}
 
 Then they will say:
 
-“Who will restore us?”
+{{< r a="Wrongdoers" >}}
+Who will restore us?
+{{< /r >}}
 
 Say:
 
-“The One who originated you the first time.” Then they will nod their heads at you, and say, “When will it be?” 
+{{< l a="Mohammad" >}}
+The One who originated you the first time.
+{{< /l >}}
 
-Say, “Perhaps it will be soon.”
+Then they will nod their heads at you, and say:
+
+{{< r a="Wrongdoers" >}}
+“When will it be?
+{{< /r >}}
+
+Say:
+
+{{< l a="Mohammad" >}}
+Perhaps it will be soon.
+{{< /l >}}
+
 
 <sup>52</sup> On the Day when He calls you, you will respond with His praise, and you will realize that you stayed only a little.
 
@@ -42,12 +69,14 @@ Say, “Perhaps it will be soon.”
 
 <sup>56</sup> Say:
 
-“Call on those you claim besides Him. They have no power to relieve your adversity, nor can they change it.”
+{{< l a="Mohammad" >}}
+Call on those you claim besides Him. They have no power to relieve your adversity, nor can they change it.
+{{< /l >}}
+
  
 <sup>57</sup> Those they call upon are themselves seeking means of access to their Lord, vying to be nearer, and hoping for His mercy, and fearing His punishment. The punishment of yourLord is to be dreaded.
 
-<sup>58</sup> There is no city but We will destroy before the Day of Resurrection, or punish it with a
-severe punishment. This is inscribed in the Book.
+<sup>58</sup> There is no city but We will destroy before the Day of Resurrection, or punish it with a severe punishment. This is inscribed in the Book.
 
 <sup>59</sup> Nothing prevents Us from sending miraculous signs, except that the ancients called them lies. 
 
@@ -55,15 +84,33 @@ We gave Thamood the she-camel, a visible sign, but they mistreated her. We do no
 
 <sup>60</sup> We said to you that your Lord encompasses humanity. We did not make the vision We showed you, except as a test for the people, and the tree cursed in the Quran. We frighten them, but that only increases their defiance.
 
-<sup>61</sup> When We said to the angels, “Bow down before Adam,” they bowed down, except for Satan. He said, “Shall I bow down before someone You created from mud?”
+<sup>61</sup> When We said to our agents [the angels]:
 
-<sup>62</sup> He said, “Do You see this one whom You have honored more than me? If You reprieve me until the Day of Resurrection, I will bring his descendants under my sway, except for a few.”
+{{< l a="Anunnaki" >}}
+Bow down before Adam
+{{< /l >}}
 
-<sup>63</sup> He said, “Begone! Whoever of them follows you—Hell is your reward, an ample reward.”
+They bowed down, except for [the Igigi] Satan. 
 
-<sup>64</sup> “And entice whomever of them you can with your voice, and rally against them your cavalry and your infantry, and share with them in wealth and children, and make promises to them.” But Satan promises them nothing but delusion.
+{{< r a="Satan" >}}
+Shall I bow down before someone You created from mud?
 
-<sup>65</sup> “As for My devotees, you have no authority over them.” Your Lord is an adequate Guardian.
+<sup>62</sup> Do You see this one whom You have honored more than me? If You reprieve me until the Day of Resurrection, I will bring his descendants under my sway, except for a few.
+
+<sup>63</sup> Begone! Whoever of them follows you—Hell is your reward, an ample reward.
+
+<sup>64</sup> Entice whomever of them you can with your voice, and rally against them your cavalry and your infantry, and share with them in wealth and children, and make promises to them.
+{{< /r >}}
+
+
+But Satan promises them nothing but delusion.
+
+{{< r a="Satan" >}}
+<sup>65</sup> As for My devotees, you [humans] have no authority over them.
+{{< /r >}}
+
+
+Your Lord is an adequate Guardian.
 
 <sup>66</sup> Your Lord is He who propels for you the ships at sea, that you may seek of His bounty.
 
@@ -93,32 +140,52 @@ The human being is ever thankless.
 
 <sup>77</sup> The tradition of the messengers We sent before you—you will find no change in Our rules.
 
+
 <sup>78</sup> Perform the prayer at the decline of the sun, until the darkness of the night; and the Quran at dawn. The Quran at dawn is witnessed.
 
-<sup>80</sup> Say, “My Lord, lead me in through an entry of truth, and lead me out through an exit of truth, and grant me from You a supporting power.”
+<sup>80</sup> Say:
 
+{{< l a="Mohammad" >}}
+My Lord, lead me in through an entry of truth, and lead me out through an exit of truth, and grant me from You a supporting power.
 
-<sup>81</sup> Say, “The truth has come, and false-hood has withered away; for falsehood is bound to wither away.”
+<sup>81</sup> The truth has come, and false-hood has withered away; for falsehood is bound to wither away.
+{{< /l >}}
+
 
 <sup>82</sup> We send down in the Quran healing and mercy for the believers, but it increases the wrongdoers only in loss.
 
 <sup>83</sup> When We bless the human being, he turns away and distances himself. But when adversity touches him, he is in despair.
 
-<sup>84</sup> Say, “Each does according to his disposition. Your Lord knows best who is better guided in the way.”
+<sup>84</sup> Say:
+
+{{< l a="Mohammad" >}}
+Each does according to his disposition. Your Lord knows best who is better guided in the way.
+{{< /l >}}
+
 
 <sup>85</sup> They ask you about the Spirit. 
 
-Say, “The Spirit belongs to the domain of my Lord; and you were given only little knowledge.”
+Say:
+
+{{< l a="Mohammad" >}}
+The Spirit belongs to the domain of my Lord; and you were given only little knowledge.
+{{< /l >}}
 
 <sup>86</sup> If We willed, We could take away what We revealed to you. Then you will find for yourself no protecting guardian against Us.
 
 <sup>87</sup> Except through a mercy from your Lord. His favors upon you have been great.
 
-<sup>88</sup> Say, “If mankind and jinn came together to produce the like of this Quran, they could never produce the like of it, even if they backed up one another.”
+<sup>88</sup> Say:
+
+{{< l a="Mohammad" >}}
+If mankind and jinn came together to produce the like of this Quran, they could never produce the like of it, even if they backed up one another.
+{{< /l >}}
 
 <sup>89</sup> We have displayed for mankind in this Quran every kind of similitude, but most people insist on denying the truth.
 
-<sup>90</sup> They said, “We will not believe in you unless you make a spring burst from the ground for us.
+<sup>90</sup> They said:
+
+“We will not believe in you unless you make a spring burst from the ground for us.
 
 <sup>91</sup> Or you have a garden of palms and vines; then cause rivers to gush pouring through them.
 
@@ -126,7 +193,11 @@ Say, “The Spirit belongs to the domain of my Lord; and you were given only lit
 
 <sup>93</sup> Or you possess a house of gold. Or you ascend into the sky. Even then, we will not believe in your ascension, unless you bring down for us a book that we can read.” 
 
-Say, “Glory be to my Lord. Am I anything but a human messenger?”
+Say:
+
+{{< l a="Mohammad" >}}
+Glory be to my Lord. Am I anything but a human messenger?
+{{< /l >}}
 
 <sup>94</sup> Nothing prevented the people from believing, when guidance has come to them, except that they said, “Did Enki send a human messenger?”
 
