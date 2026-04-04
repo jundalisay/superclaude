@@ -20,16 +20,32 @@ c: "steelblue"
 In the oriental systems, principally in Buddhism, nothing is the void. 
 - It is the absolute principle. 
 
-Against that simple and one-sided abstraction the deep-thinking Heraclitus brought forward the higher, total concept of becoming and said: being as little is, as nothing is, or, all flows, which means, all is a becoming. 
+Against that simple and one-sided abstraction, the deep-thinking Heraclitus brought forward the higher, total concept of becoming: 
 
-The popular, especially oriental proverbs, that all that exists has the germ of death in its very birth, that death, on the other hand, is the entrance into new life, express at bottom the same union of being and nothing. 
+{{< l a="Hercalitus" >}}
+Being as little is, as nothing is, or, all flows, which means, all is a becoming. 
+{{< /l >}}
 
-But these expressions have a substratum in which the transition takes place; being and nothing are held apart in time, are conceived as alternating in it, but are not thought in their abstraction and consequently, too, not so that they are in themselves absolutely the same. ®
+
+The same union of being and nothing is expressed by the oriental proverbs that:
+- all that exists has the germ of death in its very birth
+- death, on the other hand, is the entrance into new life
+
+But these expressions have a substratum in which the transition takes place.
+
+Being and nothing:
+- are held apart in time
+- are conceived as alternating in it
+- are not thought in their abstraction
+
+Consequently, too, being and nothing are thought not so that they are in themselves absolutely the same. ®
 
 
-<sup>137</sup> Ex nihilo nihil fit — is one of those propositions to which great importance was ascribed in metaphysics. 
+<sup>137</sup> Ex nihilo nihil fit — is one of those very important propositions in metaphysics. 
 
-In it is to be seen either only the empty tautology: nothing is nothing; or, if becoming is supposed to possess an actual meaning in it, then, since from nothing only nothing becomes, the proposition does not in fact contain becoming, for in it nothing remains nothing.
+In it is to be seen either only the empty tautology: nothing is nothing.
+
+Or, if becoming is supposed to possess an actual meaning in it, then, since from nothing only nothing becomes, the proposition does not in fact contain becoming, for in it nothing remains nothing.
 
 Becoming implies that nothing does not remain nothing but passes into its other, into being. 
 
@@ -44,13 +60,17 @@ Those who maintain the proposition: nothing is just nothing, and even grow heate
 The philosophical view for which 'being is only being, nothing is only nothing', is a valid principle, merits the name of 'system of identity'; this abstract identity is the essence of pantheism.
 
 
-<sup>138</sup> If the result that being and nothing are the same seems startling or paraodoxical in itself, there is nothing more to be said; rather should we wonder at this wondering which shows itself to be such a newcomer to philosophy and forgets that in this science there occur determinations quite different from those in ordinary consciousness and in so-called ordinary common sense-which is not exactly sound understanding but an understanding educated up to abstractions and to a belief, or rather a superstitious belief, in abstractions. 
+<sup>138</sup> If the result that being and nothing are the same seems startling or paraodoxical in itself, there is nothing more to be said.
+
+Rather, should we wonder at this wondering which shows itself to be such a newcomer to philosophy and forgets that in this science there occur determinations quite different from those in ordinary consciousness and in so-called ordinary common sense-which is not exactly sound understanding but an understanding educated up to abstractions and to a belief, or rather a superstitious belief, in abstractions. 
 
 It is easy to demonstrate this unity of being and nothing in every example and thought.
 
 The same must be said of being and nothing, as was said above about immediacy and mediation (which latter contains a reference to an other, and hence to negation), that nowhere in heaven or on earth is there anything which does not contain within itself both being and nothing. 
 
-Of course, since we are speaking here of a particular actual something, those determinations are no longer present in it in the complete untruth in which they are as being and nothing; they are in a more developed determination, and are grasped, for example, as positive and negative, the former being posited, reflected being, the latter posited, reflected nothing; the positive contains as its abstract basis being, and the negative, nothing. 
+Since we are speaking here of a particular actual something, those determinations are no longer present in it in the complete untruth in which they are as being and nothing.
+
+They are in a more developed determination, and are grasped, for example, as positive and negative, the former being posited, reflected being, the latter posited, reflected nothing; the positive contains as its abstract basis being, and the negative, nothing. 
 
 Thus in God himself, quality (energy, creation, power, and so forth), essentially involves the determination of the negative-they are the producing of an other. But an empirical elucidation by examples of the said assertion would be altogether superfluous here. 
 
@@ -91,7 +111,9 @@ This determinate content itself, the hundred dollars, also grasped isolatedly in
 
 But since, furthermore, being is taken as a state of my fortune, the hundred dollars stand in relation to this state, as regards which the determinateness which they are is not a matter of indifference; their being or non-being is only an alteration; they are transposed into the sphere of determinate being. 
 
-When, therefore, it is urged against the unity of being and nothing that it is nevertheless not a matter of indifference whether anything (the hundred dollars) is, or is not, we practise the deception of converting the difference between whether I have or have not the hundred dollars into a difference between being and non-being-a deception based, as we have shown, on the one-sided abstraction which ignores the determinate being present in such examples and holds fast merely to being and non-being, just as, conversely, the abstract being and nothing which should be apprehended is transformed into a definite being and nothing, into a determinate being. Determinate being is the first category to contain the real difference of being and nothing, namely, something and other. It is this real difference which is vaguely present in ordinary thinking, instead of abstract being and pure nothing and their only imagined difference.
+When, therefore, it is urged against the unity of being and nothing that it is nevertheless not a matter of indifference whether anything (the hundred dollars) is, or is not, we practise the deception of converting the difference between whether I have or have not the hundred dollars into a difference between being and non-being-a deception based, as we have shown, on the one-sided abstraction which ignores the determinate being present in such examples and holds fast merely to being and non-being, just as, conversely, the abstract being and nothing which should be apprehended is transformed into a definite being and nothing, into a determinate being.
+
+Determinate being is the first category to contain the real difference of being and nothing, namely, something and other. It is this real difference which is vaguely present in ordinary thinking, instead of abstract being and pure nothing and their only imagined difference.
 
 
 <sup>143</sup> Kant says: 'through its existence something enters into the context of the whole of experience. ... we obtain thereby an additional object of perception without anything being added to our concept of the object'.
@@ -111,7 +133,9 @@ The form of simple self-relation does not belong to such a limited, finite conte
 
 <sup>144</sup> The thinking or figurate conception which has before it only a specific, determinate being must be referred back to the previously-mentioned beginning of the science made by Parmenides who purified and elevated his own figurate conception, and so, too, that of posterity, to pure thought, to being as such and thereby created the element of the science.
 
-What is the first in the science had of necessity to show itself historically as the first. And we must regard the Eleatic One or being as the first step in the knowledge of thought; water and suchlike material principles are certainly meant to be the universal, but as material they are not pure thoughts; numbers are neither the first simple, nor the self-communing thought, but the thought which is wholly external to itself. ®
+What is the first in the science had of necessity to show itself historically as the first.
+
+We must regard the Eleatic One or being as the first step in the knowledge of thought; water and suchlike material principles are certainly meant to be the universal, but as material they are not pure thoughts; numbers are neither the first simple, nor the self-communing thought, but the thought which is wholly external to itself. ®
 
 
 <sup>145</sup> The reference back from particular finite being to being as such in its wholly abstract universality is to be regarded not only as the very first theoretical demand but as the very first practical demand too.

@@ -3,8 +3,9 @@ title: "Baba's Death"
 heading: "Chapter 20g"
 description: "The marriage of Baba's adopted son Kinshuk had also been held"
 c: "indigo"
-weight: 346
+weight: 348
 author: Dada
+icon: Dharmavedananda
 ---
 
 

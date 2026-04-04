@@ -4,6 +4,7 @@ description: "Ananda Marga is growing at such speed that our workers must be car
 c: "indigo"
 weight: 400
 author: Dada
+icon: Dharmavedananda
 ---
 
 

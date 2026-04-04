@@ -1,6 +1,6 @@
 ---
 title: "Black Magic"
-heading: "Part 22"
+heading: "Chapter 15f"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
 c: "indigo"
 weight: 250
