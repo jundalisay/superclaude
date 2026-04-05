@@ -31,6 +31,7 @@ crude light particle = clipar
 material media = matmed
 matter particles = matpars
 
+A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems.
 
 
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">

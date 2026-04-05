@@ -58,14 +58,29 @@
         {{ end }}
 
         <div class="flex flex-wrap items-center gap-y-4 gap-x-6 pt-8 border-t border-white/10 text-sm text-slate-300">
-          <div class="flex items-center gap-2">
-            {{ if $iconName }}
-              <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
-              <span class="font-semibold text-white">{{ $iconName }}</span>
-            {{ else }}
-              <span class="font-semibold text-white">{{ .Params.author }}</span>
-            {{ end }}
-          </div>
+
+
+<div class="flex items-center gap-2">
+  {{/* 1. Show the icon image if it exists */}}
+  {{ if $iconName }}
+    <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
+  {{ end }}
+
+  {{/* 2. Determine the display name (Priority: writer.name > iconName > author) */}}
+  {{- $displayName := .Params.writer.name | default $iconName | default .Params.author -}}
+  
+  {{/* 3. Wrap in a link if writer.link is present */}}
+  <span class="font-semibold text-white">
+    {{ if .Params.writer.link }}
+      <a href="{{ .Params.writer.link }}" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition-colors">
+        {{ $displayName }}
+      </a>
+    {{ else }}
+      {{ $displayName }}
+    {{ end }}
+  </span>
+</div>
+
 
           {{ if or $showDate .Date }}
             <div class="flex items-center gap-1.5">
