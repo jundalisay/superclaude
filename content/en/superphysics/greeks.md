@@ -1,6 +1,6 @@
 ---
 title: "Timeline of Greek Philosophers"
-date: 2027-10-04
+date: 2025-10-04
 a: Aristotle
 description: ""
 writer:

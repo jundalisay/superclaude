@@ -22,6 +22,11 @@ summarylength = 30
     style = "monokai"
 
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 
 [languages]
   [languages.en]
@@ -169,7 +174,7 @@ summarylength = 30
   [languages.es]
     languageName = "Español"
     weight = 4
-  contentDir = "content/es"
+    contentDir = "content/es"
     [languages.es.params]
       rtl = false
   [[languages.es.params.nav_groups]]

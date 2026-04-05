@@ -111,7 +111,7 @@ In this sense, nothing will have quantity or quality. The One will:
 The limit is indivisible, but the limited is not.
 
 
-3. ALl things are the same
+3. All things are the same
 
 <!-- But if (c) all things are one in the sense of having the same definition,  -->
 
