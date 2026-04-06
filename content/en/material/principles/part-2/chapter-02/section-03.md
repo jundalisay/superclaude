@@ -4,7 +4,7 @@ title: "The Macro-Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
 weight: 6
 image: /graphics/physics/aetherspaceall.jpg
-description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
+description: "T he macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace. This lets it create dimensions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,7 +15,7 @@ aliases:
 
 
 
-In Material Superphysics, which is based on Cartesian Physics, the macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace.
+In Material Superphysics, which is based on Cartesian Physics, the macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace. This lets it create dimensions
 
 Sublayer | Media | Domain  | Phenomena 
 --- | --- | --- | ---

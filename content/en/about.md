@@ -128,6 +128,7 @@ Date | Event
 April 2021 | The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/trisactions/health) as an implementation of Bio Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/trisactions/banking). Economic and international law systems will be stressed much later.
 July 2022 | The invasion by Russia on Ukraine proves the failure of international law, while the failure of Sri Lanka, and soon Pakistan, proves the failure of economic systems.
 October 2023 | The Israel-Hamas war also proves the failure of international law much more obviously i.e. the powerful really can act arbitrarily. This is a sign of animal morals as survival of the fittest
+March 2026 | The Iran war has made oil prices go haywire, matching our prediction which says the war will spread and escalate
 {{< /dc >}}
 
 

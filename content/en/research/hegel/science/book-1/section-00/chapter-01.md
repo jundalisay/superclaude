@@ -15,7 +15,8 @@ Highlighted text is Lenin's underlining. The ® access his annotations.
 
 <!-- Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy.  -->
 
-What philosophy begins with must be either mediated or immediate. It can be neither the one nor the other.
+Philosophy begins with either the mediated or the immediate.
+- It can neither be the one nor the other.
 
 
 {{< s v="89" >}}  The principle of a philosophy also expresses an objective beginning, the beginning of everything.*
@@ -23,10 +24,11 @@ What philosophy begins with must be either mediated or immediate. It can be neit
 {{< n n="This is only true in Western Philosophy. Asian Philosophy correctly knows that space and time are illusions and so beginning is not correct. Instead, Asian Philosophy is all about the IS or the nature of existence as dharma or true nature and purpose of existence. Western philosophy wasted a lot of effort on being and non-being, logic, apriori aposteriori, etc. But these are all effects of the Negative Force" >}}
 
 
-- This beginning has a particular determinate content — water, the one, nous, idea, substance, monad, etc. 
+This beginning has a particular determinate content — water, the one, nous, idea, substance, monad, etc. 
 <!-- The principle is a  -->
-- If this beginning refers to the nature of cognition, then it is only a criterion instead of being an objective determination
-  - It is thought, intuition, sensation, ego, subjectivity itself.
+
+If this beginning refers to the nature of cognition, then it is only a criterion instead of being an objective determination.
+- It is thought, intuition, sensation, ego, subjectivity itself.
 
 What is the nature of the content?
 
@@ -140,4 +142,3 @@ These are not fit to be examples of immediate knowledge [sensory thoughts].
 Immediate consciousness is also the first and that which is immediate in the science itself, and therefore the presupposition. 
 
 But in logic, the presupposition is that which has proved itself to be the result of that phenomenological consideration — the Idea as pure knowledge.
-
