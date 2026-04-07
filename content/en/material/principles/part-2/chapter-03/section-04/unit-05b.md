@@ -1,6 +1,6 @@
 ---
 heading: "Unit 5b"
-title: "Fine Gravity: Van Der Waals Force"
+title: "Micro Cohesion Gravity: Van Der Waals Force"
 date: 2024-12-11
 weight: 18
 image: /photos/bio/gecko.jpg
@@ -14,13 +14,30 @@ aliases:
 ---
 
 
+{{< b >}}
+### Superphysics Note: We organize gravities according to Descartes 2nd Element
 
-The previous section explained that material or crude gravity comes from the high pressure that arises from low pressure. This is caused by the displacement of space particles by mass.
+This unit is about Micro C Gravity.
+
+Material Superphysics | Physics
+--- | ---
+Micro Displacement Gravity | Newtonian Gravity, Inverse Square Law
+Displacement Gravity | Dark Matter
+Macro Displacement Gravity | Inter-galactic space (Cosmic Web), Baryonic Acoustic Oscillations
+**Micro Cohesion Gravity** | Van der Waals Force, Surface Tension, Dzhanibekov Effect, Gravitational Lensing, Comet Anti-Tails, Comet Non-Gravitational Acceleration
+Cohesion Gravity | Orbits, Galaxy Arms
+Macro Cohesion Gravity | Intra-galactic space (Galaxy Clusters)
+{{< /b >}}
+
+
+
+The previous section explained that material gravity, what we call Micro Displacement Gravity, comes from the high pressure that arises from low pressure. This is caused by the displacement of space particles by mass.
 
 We are pushed down to earth because the Earth displaces space particles. 
+- These go up which then push us down.
 
-Most of these are just above its surface, diminishing the farther you go up and away from the surface. As a result, gravity is weaker as you go up
-
+Most of these space particles are just above the Earth's surface, diminishing the farther you go up and away from the surface.
+- As a result, gravity is weaker as you go up
 
 {{< i s="/graphics/physics/gravityarea.jpg" a="Gravity Territory or Area" >}}
 

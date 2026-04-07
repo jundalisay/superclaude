@@ -141,6 +141,14 @@ We are looking for:
 
  <!-- superphysicsorg@gmail.com.  -->
 
+## Contact 
+
+Feel free to contact us via email at pantrypoints@gmail.com
+
+
+## Team
+
+
 <a href="/team">
 <div style="transition: transform 0.3s ease-in-out;" class="ani hover:scale-110 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
     <div class="aspect-[16/9] w-full overflow-hidden relative">
@@ -157,30 +165,5 @@ We are looking for:
     </div>
 </div>
 </a>
-
-
-
-<!-- dc t="Team (click to expand)" >}}
-
-/dc >}} -->
-
-
-Feel free to contact us via email at pantrypoints@gmail.com
-
-
-<!-- Jing likes to write about agriculture, data science, and the earth sciences -->
-<!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
-Brad | Brad contributes science articles occasionally -->
-
-
-<!-- . | Past Team
---- | ---
-2015 | Buu, Trang
-2016 | Loan, Ha Linh, Phuong, Mike, Huong, Linh, Hue
-2017 | EZGamio -->
-
-<!-- Jing likes to write about agriculture, data science, and the earth sciences -->
-<!-- Michael | Michael focuses on tech, with diverse topics such as blockchain, artificial intelligence   
-Brad | Brad contributes science articles occasionally -->
 
 

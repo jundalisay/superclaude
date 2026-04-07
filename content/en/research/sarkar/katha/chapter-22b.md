@@ -6,7 +6,6 @@ description: "The practice of this japa with the breath should be advanced to an
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -59,7 +58,7 @@ If due to some reason the mind does not concentrate on some days, then given mor
 
 
 
-## THE PROOF OF DIIKS’A AND MANTRA
+## The Proof Of Diiks’a and Mantra
 
 <!-- That day Baba was bent upon explaining to me of dull intellect the specialties of sadhana. Baba knew that my mind was fond of logic and therefore, he was explaining the logic behind most of the process of sadhana. 
 
@@ -101,14 +100,18 @@ As I had little of worldly pleasure I therefore unfortunately do not know the be
 
 
 
-## THE CONSTANT PRACTICE OF IISTA MANTRA
+## The Constant Practice Of Iista Mantra
 
 Baba said about the iista mantra:
 
 {{< l a="Baba" >}}
-A sadhaka should constantly do the japa of iista mantra. The practice of this japa with the breath should be advanced to an extent that the body may be busy in any activity, but the mind will continue to repeat the iista mantra with every breath. When you are doing something. The eyes should remain open. 
+A sadhaka should constantly do the japa of iista mantra. The practice of this japa with the breath should be advanced to an extent that the body may be busy in any activity, but the mind will continue to repeat the iista mantra with every breath when you are doing something. 
 
-Suppose you are going somewhere on foot or on a bicycle or in a car that you are driving yourself, if at that time you do the japa of iista mantra with closed eyes there may be an accident. Therefore while working, you will keep your eyes and japa will continue with the breathing. 
+The eyes should remain open. 
+
+Suppose you are going somewhere on foot or on a bicycle or in a car that you are driving yourself. If at that time you do the japa of iista mantra with closed eyes there may be an accident. 
+
+Therefore while working, you will keep your eyes and japa will continue with the breathing. 
 {{< /l >}}
 
 {{< r a="Nagina" >}}
@@ -116,8 +119,9 @@ When one walks or cycles, the breath becomes irregular and therefore there is a 
 {{< /r >}}
 
 {{< l a="Baba" >}}
-In that situation, adjust the breath on the movement of right and left foot and then do the japa. This will protect the rhythm of the japa. One who is established in the practice of the iista mantra will die at his own wish only, and will
-never die an accidental death.
+In that situation, adjust the breath on the movement of right and left foot and then do the japa. This will protect the rhythm of the japa. 
+
+One who is established in the practice of the iista mantra will die at his own wish only, and will never die an accidental death.
 
 There is nothing like an accident, in the sense that every event is an incident. 
 
@@ -131,8 +135,11 @@ After receiving such detailed guidance, all my difficulties in the process of th
 {{< l a="Baba" >}}
 The sadhana which has been taught to you is quite rational. Therefore, you should understand the logic behind its performance thoroughly.
 
-Sadhana is a must in every one’s life. But before beginning, test it on the scale of reason as to why something should be done in one particular way only. When you completely understand the logic, your concentration will be perfect”.
+Sadhana is a must in every one’s life. But before beginning, test it on the scale of reason as to why something should be done in one particular way only.
+
+When you completely understand the logic, your concentration will be perfect.
 {{< /l >}}
+
 
 In those days, Baba was emphasising the logical aspect very much. 
 
@@ -142,10 +149,10 @@ The mind has 3 stages or layers: conscious, subconscious, and the unconscious.
 
 At the time of doing sadhana, you are hitting the conscious mind, when in this process the layer of the conscious mind becomes subtle. The effect of this hitting of the mantra goes to the subconscious mind. 
 
-In this condition, the sadhaka starts hearing or seeing wonderful experiences and starts
-feeling some kind of peace in the mind. 
+In this condition, the sadhaka starts hearing or seeing wonderful experiences and starts feeling some kind of peace in the mind. 
 
 By further regular practice of iista mantra, the subconscious mind also starts getting subtler, and the strokes of the mantra start affecting the unconscious mind. The sadhaka then starts knowing the events of the future. 
 
-Gradually, as one starts getting established in Iishvara pranidhana, one becomes omniscient”.
+Gradually, as one starts getting established in Iishvara pranidhana, one becomes omniscient.
 {{< /l >}}
+
