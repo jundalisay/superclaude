@@ -3,7 +3,7 @@ title: "Rules on Marriage"
 heading: "Sura 4b "
 weight: 40
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "The Anunnaki give rules on marriage"
 ---
 
 
@@ -124,3 +124,5 @@ Enki does not love the arrogant showoff.
 {{< s v="41" >}} Then how will it be, when We bring a witness from every community, and We bring you as a witness against these?
 
 {{< s v="42" >}} On that Day, those who disbelieved and disobeyed the Messenger will wish that the earth were leveled over them. <!-- They will conceal nothing from Enki. -->
+
+

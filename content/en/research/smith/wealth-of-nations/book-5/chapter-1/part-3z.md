@@ -15,9 +15,9 @@ writer:
 {{< s v="202" >}} There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects.
 
 
-## Remedy 1: {{< s v="203" >}} The study of science and philosophy.
+## Remedy 1: The study of science and philosophy.
 
-The state should make the study of science and philosophy universal among the middle class.
+<sup>203</sup> The state should make the study of science and philosophy universal among the middle class.
 
 It could institute a probationary period for anyone who wished to:
 - exercise any liberal profession, or
@@ -34,9 +34,9 @@ Science is the great antidote to the poison of enthusiasm and superstition.
 If the superior ranks of people were free from superstition, the inferior ranks could not be much exposed to it.
 
 
-## Remedy 2: {{< s v="204" >}} The frequency and gaiety of public diversions.
+## Remedy 2: The frequency and gaiety of public diversions.
 
-The state could easily dissipate the gloom which breeds popular superstition by encouraging proper public amusement through:
+<sup>204</sup> The state could easily dissipate the gloom which breeds popular superstition by encouraging proper public amusement through:
 - painting, poetry, music, dancing, and
 - dramatic representations and exhibitions.
 

@@ -3,7 +3,7 @@ title: "Adam and the Jews"
 heading: "Sura 2b "
 weight: 6
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
 {{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}

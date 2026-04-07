@@ -3,7 +3,7 @@ title: "Muslims"
 heading: "Sura 3e"
 weight: 36
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -214,3 +214,4 @@ For those who emigrated, and were expelled from their homes, and were persecuted
 - Be patient and advocate patience
 - Be united
 - Revere Enki 
+

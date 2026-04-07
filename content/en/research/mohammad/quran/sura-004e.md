@@ -3,8 +3,9 @@ title: "Rules on Treating Disbelievers"
 heading: "Sura 4e "
 weight: 46
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "The Anunnaki give rules on treating Disbelievers"
 ---
+
 
 
 {{< s v="88" >}} You are divided into 2 factions regarding the hypocrites. 

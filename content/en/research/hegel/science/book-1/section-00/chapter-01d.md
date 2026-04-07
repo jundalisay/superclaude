@@ -1,7 +1,7 @@
 ---
-title: "Absolute Truth is a Result of Logic"
+title: "The Beginning is Nothing"
 weight: 6
-description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
+description: "In this general idea of a beginning, there is nothing yet. But this nothing is not a pure nothing, but a nothing from which something comes from."
 author: Hegel
 icon: "Hegel"
 c: "steelblue"
@@ -60,44 +60,76 @@ If pure being is the unity into which knowing has collapsed at the extreme point
 - Nor is there anything else present, any content which could be used to make the beginning more determinate.
 
 
-<sup>109</sup> But the determination of being so far adopted for the beginning could also be omitted, so that the only demand would be that a pure beginning be made. 
+<sup>109</sup> But the determination of being so far adopted for the beginning [starting point for existence] could also be omitted, so that only a pure beginning would be demanded [abstract start instead of a specific start]. 
 
-In that case, we have nothing but the beginning itself, and it remains to be seen what this is. 
+In that case, we have nothing but the beginning itself.
 
-This position could also be suggested for the benefit of those who, on the one hand, are dissatisfied for one reason or another with the beginning with being and still more so with the resulting transition of being into nothing.
+<!-- , and it remains to be seen what this is.  -->
 
-On the other hand, simply know no other way of beginning a science than by presupposing some general idea, which is then analysed, the result of such analysis yielding the first specific concept in the science. 
+Some are dissatisfied with:
+- the beginning of being
+- the resulting transition of being into nothing
 
-If we too were to observe this method, then we should be without a particular object, because the beginning, as the beginning of thought, is supposed to be quite abstract, quite general, wholly form without any content; thus we should have nothing at all beyond the general idea of a mere beginning as such. We have therefore only to see what is contained in such an idea.
+And so establishing an undetermined idea of a beginning would benefit such people. 
 
+<!-- On the other hand, simply know no other way of beginning a science than by presupposing some general idea, which is then analysed, the result of such analysis yielding the first specific concept in the science.  -->
 
-<sup>110</sup> As yet there is nothing and there is to become something the beginning is not pure nothing, but a nothing from which something is to proceed; therefore being, too, is already contained in the beginning. The beginning therefore contains both, being and nothing, is the unity of being and nothing; or is non-being which is at the same time being, and being which is at the same time non-being. ®
+This method creates no particular object. This is because the beginning, as the beginning of thought, is:
+- abstract
+- general
+- wholly form without any content
 
+Thus we should have nothing beyond the general idea of a mere beginning.
 
-<sup>111</sup> Further, in the beginning, being and nothing are present as distinguished from each other; for the beginning points to something else — it is a non-being which carries a reference to being as to an other; that which begins, as yet is not, it is only on the way to being.
-
-That which begins, as yet is not, it is only on the way to being. The being contained in the beginning is, therefore, a being which removed itself from non-being or sublates it as something opposed to it. ®
-
-But again, that which begins already is, but equally, too, is not as yet. The opposites, being and non-being are therefore directly united in it, or, otherwise expressed, it is their undifferentiated unity.
-
-
-<sup>112</sup> The analysis of the beginning would thus yield the notion of the unity of being and nothing — or, in a more reflected form, the unity of differentiatedness and non-differentiatedness, or the identity of identity and non-identity.
-
-This concept could be regarded as the first, purest, that is, most abstract definition of the absolute — as it would in fact be if we were at all concerned with the form of definitions and with the name of the absolute. In this sense, that abstract concept would be the first definition of this absolute and all further determinations and developments only more specific and richer definitions of it.
-
-But let those who are dissatisfied with being as a beginning because it passes over into nothing and so gives rise to the unity of being and nothing, let them see whether they find this beginning which begins with the general idea of a beginning and with its analysis (which, though of course correct, likewise leads to the unity of being and nothing), more satisfactory than the beginning with being.
+We have therefore only to see what is contained in such an idea.
 
 
-<sup>113</sup> The said analysis presupposes as familiar the idea of a beginning, thus following the example of other sciences. 
+<sup>110</sup> In this general idea of a beginning, there is nothing yet. But this nothing is not a pure nothing, but a nothing from which something comes from. 
 
-These presuppose their subject-matter and take it for granted that everyone has roughly the same general idea of it and can find in it the same determinations as those indicated by the sciences which have obtained them in one way or another through analysis, comparison and other kinds of reasoning. 
+Therefore being [existence], too, is already contained in the beginning [nothing].
 
-But that which forms the absolute beginning must likewise be something otherwise known; 
+The beginning therefore:
+- contains both, being [existence] and nothing [emptiness of existence].
+- is the unity of being [existence] and nothing [emptiness of existence]
+- is non-being [emptiness of existence] which is at the same time being [existence]
+- is being [existence] which is at the same time non-being [empty]. ®
 
-Now if it is something concrete and hence is variously determined within itself, then this internal relation is presupposed as something known; it is thus put forward as an immediacy which, however, it is not; for it is a relation only as a relation of distinct moments, and it therefore contains mediation within itself. 
 
-Further, with a concrete object, the analysis and the ways in which it is determined are affected by contingency and arbitrariness. Which determinations are brought out depends on what each person just finds in his own immediate, contingent idea.
+<sup>111</sup> In this beginning, being [existence] and nothing [emptiness of existence] are different. 
 
-The relation contained in something concrete, in a synthetic unity, is necessary only in so far as it is not just given but is produced by the spontaneous return of the moments back into this unity — a movement which is the opposite of the analytical procedure, which is an activity belonging to the subject-thinker and external to the subject matter itself.
+The beginning points to something else.
+- It is a non-being [empty existence] which carries a reference to being [existence] as to an other [non-empty existence].
 
+When this other begins, it is only on the way to being [actual existence].
+
+That which begins, as yet is not [potential existence], is only on the way to being [actual existence].
+
+The being [existence] contained in the beginning is, therefore, a being which removed itself from non-being [empty existence] or sublates it as something opposed to it. ®
+
+But again, that which begins already is, but equally, too, is not as yet. 
+
+The opposites, being [actual existence] and non-being [potential existence] are therefore directly united in it, or, otherwise expressed, it is their undifferentiated unity.*
+
+{{< n n="Here, Hegel confuses people because he changes from empty existence to potential existence, and existence to actual existence via the movement from empty existence to non-empty existence. Aristotle is superior to and more understandable than Hegel by mentioning potential and actual" >}}
+
+
+<sup>112</sup> The analysis of the beginning would thus yield the notion of the unity of:
+- being [existence] and nothing [empty existence] 
+- differentiatedness [specific existence] and non-differentiatedness [general existence] 
+- the identity of identity [discrete existence]  and non-identity [non-discrete existence] 
+
+This beginning is the first, purest, most abstract definition of the absolute.
+
+<!--  — as it would in fact be if we were at all concerned with the form of definitions and with the name of the absolute. In this sense,  -->
+
+That abstract concept would be the first definition of this absolute.
+
+All further determinations and developments are only more specific and richer definitions of it.
+
+Some people are dissatisfied with being [existence] as a beginning because it passes over into nothing [non-existence].
+- This gives rise to the unity of being [existence] and nothing [non-existence].
+
+But let them see whether this [abstract] beginning is more satisfactory than the beginning with being.
+
+ <!-- which begins with the general idea of a beginning and with its analysis (which, though of course correct, likewise leads to the unity of being and nothing),  -->
 

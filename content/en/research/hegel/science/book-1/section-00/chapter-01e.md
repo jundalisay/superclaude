@@ -9,6 +9,20 @@ c: "steelblue"
 
 
 
+<sup>113</sup> The said analysis presupposes as familiar the idea of a beginning, thus following the example of other sciences. 
+
+These presuppose their subject-matter and take it for granted that everyone has roughly the same general idea of it and can find in it the same determinations as those indicated by the sciences which have obtained them in one way or another through analysis, comparison and other kinds of reasoning. 
+
+But that which forms the absolute beginning must likewise be something otherwise known.
+
+Now if it is something concrete and hence is variously determined within itself, then this internal relation is presupposed as something known; it is thus put forward as an immediacy which, however, it is not; for it is a relation only as a relation of distinct moments, and it therefore contains mediation within itself. 
+
+Further, with a concrete object, the analysis and the ways in which it is determined are affected by contingency and arbitrariness. Which determinations are brought out depends on what each person just finds in his own immediate, contingent idea.
+
+The relation contained in something concrete, in a synthetic unity, is necessary only in so far as it is not just given but is produced by the spontaneous return of the moments back into this unity — a movement which is the opposite of the analytical procedure, which is an activity belonging to the subject-thinker and external to the subject matter itself.
+
+
+
 <sup>114</sup> The foregoing shows why the beginning cannot be made with:
 - anything concrete
 - anything containing a relation within itself. 

@@ -15,7 +15,11 @@ O Jesus son of Mary, did you say to the people, `Take me and my mother as gods r
 {{< /l >}}
 
 {{< r a="Jesus" >}}
-Glory be to You! It is not for me to say what I have no right to. Had I said it, You would have known it. You know what is in my soul, and I do not know what is in your soul. {{< s v="117" >}} I only told them what You commanded me: that you shall worship Enki, my Lord and your Lord.  I was a witness over them while I was among them; but when You took me to Yourself, you became the Watcher over them—You are Witness over everything. {{< s v="118" >}} If You punish them, they are Your servants; but if You forgive them, You are the Mighty and Wise.”
+Glory be to You! It is not for me to say what I have no right to. Had I said it, You would have known it. You know what is in my soul, and I do not know what is in your soul. {{< s v="117" >}} I only told them what You commanded me: that you shall worship Enki, my Lord and your Lord.  
+
+I was a witness over them while I was among them; but when You took me to Yourself, you became the Watcher over them—You are Witness over everything. 
+
+<sup>118</sup> If You punish them, they are Your servants; but if You forgive them, You are the Mighty and Wise.
 {{< /r >}}
 
 
@@ -85,4 +89,5 @@ We want to eat from it, so that our hearts may be reassured, and know that you h
 {{< l a="Jesus" >}}
 O Enki, our Lord, send down for us a table from heaven, to be a festival for us, for the first of us, and the last
 {{< /l >}}
+
 

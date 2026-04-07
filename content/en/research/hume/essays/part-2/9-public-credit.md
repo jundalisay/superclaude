@@ -22,11 +22,18 @@ In ancient times, the common practice was to hoard up treasures during peacetime
 - Julius Cæsar seized treasure in Rome during the civil wars. 
 - The wiser emperors, Augustus, Tiberius, Vespasian, Severus, etc. always saved great sums against any public exigency.
 
-On the contrary, our modern way is to mortgage the public revenues and to trust that posterity will pay off the debts contracted by their ancestors. That posterity then also rely on their own posterity out of necessity instead of choice.
+On the contrary, our modern way is to:
+- mortgage the public revenues 
+- trust that posterity will pay off the debts contracted by their ancestors
 
-The ancient maxims are more prudent than our modern ruinous practice. It has been possible to practice peacetime frugality as to discharge the debts from an expensive war.
+That posterity then also rely on their own posterity out of necessity instead of choice.
+
+**The ancient maxims are more prudent than our modern ruinous practice.**
+
+It has been possible to practice peacetime frugality as to discharge the debts from an expensive war.
 
 <!-- Why should the case be so  between the  -->
+
 A society's public debt is not so different from that of an individual. <!-- , as to make us establish different maxims of conduct for each?  -->
 - If the public funds are greater, its expences are also greater.
 <!-- - If its resources are more numerous, they are not infinite. -->
@@ -42,35 +49,76 @@ The abuses of borrowing inevitably leads to poverty, impotence, and subjection t
 
 <!-- to modern policy war is attended with every destructive circumstance; loss of men, encrease of taxes, decay of commerce, dissipation of money, devastation by sea and land.  -->
 
-According to ancient maxims, the public spending and incurring debt temporarily encouraged industry and made up for the calamities of war. Ministers tend to do it as it gives them glory without burdening the people with taxes. 
+According to ancient maxims, the public spending and incurring debt temporarily encouraged industry and made up for the calamities of war.
 
-This practice of contracting debt is almost abused in every government. It is imprudent to give a prodigal son a credit in every banker’s shop in London, just as it is to empower a statesman to contract debt to be paid by future generations. 
+Ministers tend to do it as it gives them glory without burdening the people with taxes. 
 
-The paradox is that debt gives us riches, but it also ruins us. 
+This practice of contracting debt is almost abused in every government.
+
+It is imprudent to give a prodigal son a credit in every banker’s shop in London, just as it is to empower a statesman to contract debt to be paid by future generations. 
+
+**The paradox is that debt gives us riches, but it also ruins us.** 
 
 
 ## Why do creditors lend to government?
 
-Securities are with us become a kind of money, and pass as readily as gold or silver. Wherever any profitable undertaking offers itself, there are always people available to embrace it no matter how expensive it is. A trader who invests in the public stocks is afraid to enter into the most extensive trade since he must have his funds ready to answer the most sudden demand made upon him.  No merchant thinks it necessary to keep any considerable cash by him as he puts them in stocks.
+Securities that are with us:
+- become a kind of money
+- pass as readily as gold or silver.
 
-Bank-stock, or India-bonds, serve the same purposes as public stock. The trader can sell them or pledge them to a banker in 15 minutes. They are not idle even when in his scritoire. These bring him in a constant revenue. 
+**Wherever any profitable undertaking is available, there are always people available to embrace it no matter how expensive it is.**
 
-In short, our national debts furnish merchants with a species of money, that is continually multiplying in their hands. It produces sure gain, besides the profits of their commerce. This enables them to trade on less profit. The small profit of the merchant renders the commodity cheaper. This causes a greater consumption and quickens the labour of the common people. It helps to spread arts and industry throughout the whole society.
+A trader who invests in the public stocks is afraid to enter into the most extensive trade since he must have his funds ready to answer the most sudden demand made upon him.
 
-In England and in all states which have both commerce and public debts, there are men who are half merchants, half stock-holders. They are willing to trade for small profits because commerce is not their principal support. Their revenues in the funds are a sure resource for themselves and their families. 
+No merchant thinks it necessary to keep any considerable cash by him as he puts them in stocks.
 
-Were there no funds, great merchants can only invest in land which has many disadvantages compared to funds. Land requires more care, time, and inspection of the merchant. It is not easily converted into money. It <!-- ; and as it attracts too much, both by the many natural pleasures it affords, and the authority it gives, it --> soon converts the citizen into the country gentleman. 
+Bank-stock, or India-bonds, serve the same purposes as public stock.
+- The trader can sell them or pledge them to a banker in 15 minutes. 
+- They are not idle even when in his scritoire. 
+- These bring him in a constant revenue. 
 
-Men with large stocks and incomes can naturally continue in commerce if there are public debts. This reduces its profits, promotes circulation, and encourages industry. <!-- , in opposition to these two favourable circumstances, perhaps of no very great importance, weigh the many disadvantages which attend our public debts, in the whole interior œconomy of the state: You will find no comparison between the ill and the good which result from them. -->
+In short, our national debts:
+- furnish merchants with a species of money, that is continually multiplying in their hands
+- produces sure gain, besides the profits of their commerce*
+
+{{< n n="The modern system requires **the perpetuity of the state**. The concept of the state did not exist in the ancient times and so they had to resort to treasure. We peg the start of the idea of the European state to Machiavelli who wrote the Prince which is an example-based manual for governance. China had the concept of state much earlier, allowing the Mongols to create the first nationalized banking system thanks to the Song Dynasty" >}}
+
+
+This enables them to trade on less profit. 
+- The small profit of the merchant renders the commodity cheaper.
+- This causes:
+  - greater consumption 
+  - quickens the labour of the common people
+- It helps to spread arts and industry throughout the whole society.
+
+In England and in all states which have both commerce and public debts, there are men who are half merchants, half stock-holders.
+- They are willing to trade for small profits because commerce is not their principal support. 
+- Their revenues in the funds are a sure resource for themselves and their families. 
+
+Were there no funds, great merchants can only invest in land which has many disadvantages compared to funds.
+
+Land requires more care, time, and inspection of the merchant.
+- It is not easily converted into money.\
+- It <!-- ; and as it attracts too much, both by the many natural pleasures it affords, and the authority it gives, it --> soon converts the citizen into the country gentleman. 
+
+Men with large stocks and incomes can naturally continue in commerce if there are public debts.
+
+This reduces its profits, promotes circulation, and encourages industry. <!-- , in opposition to these two favourable circumstances, perhaps of no very great importance, weigh the many disadvantages which attend our public debts, in the whole interior œconomy of the state: You will find no comparison between the ill and the good which result from them. -->
 
 These advantages are offset by the disadvantage of bringing people and riches to the capital, by the great sums, levied in the provinces to pay the interest. It gives an advantage to the merchants in the capital above the rest of the kingdom. 
 
 
-Is it for the public interest, that so many privileges should be conferred on London, which has already arrived at such an enormous size, and seems still encreasing? 
+## Is it for the public interest, that so many privileges should be conferred on London, which is already enormous and is still encreasing?
 
-I think that the head is too large for the body. But London is so happily situated that its excessive bulk causes less inconvenience than a smaller capital to a larger kingdom. 
+**I think that the head is too large for the body.** 
 
-There is more difference between the prices of provisions in Paris and Languedoc, than between those in London and Yorkshire. The immense greatness of London, under a government which admits not of discretionary power, renders the people factious, mutinous, seditious, and even perhaps rebellious. But the national debts themselves tend to remedy this evil. 
+But London is so happily situated that its excessive bulk causes less inconvenience than a smaller capital to a larger kingdom. 
+
+There is more difference between the prices of provisions in Paris and Languedoc, than between those in London and Yorkshire. 
+
+The immense greatness of London, under a government which admits not of discretionary power, renders the people factious, mutinous, seditious, and even perhaps rebellious. 
+
+But the national debts themselves tend to remedy this evil. 
 
 The first visible eruption of public disorders alarms all the stockholders for their property. It will make them fly to the support of government, whether menaced by Jacobitish violence or democratical frenzy. 
 

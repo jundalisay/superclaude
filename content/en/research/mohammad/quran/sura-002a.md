@@ -3,7 +3,7 @@ title: "The Cow (Al-Baqarah)"
 heading: "Sura 2a "
 weight: 4
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
 {{< n n="Here we replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory" >}}
