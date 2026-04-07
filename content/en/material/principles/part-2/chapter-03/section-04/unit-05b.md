@@ -47,17 +47,23 @@ So below you is low pressure space. This creates a high pressure space above you
 We can call this as the material gravity of the Earth or a downward gravity. 
 
 
-### Fine Gravity
+## Micro Cohesion Gravity
 
-Crude gravity, which we call material gravity, is created by displacing space bluntly with mass.
+Crude gravity, which we call Micro Cohesion Gravity, is created by displacing space bluntly with mass.
 
-But gravity can also be produced by displacing space minutely and surgically. We call this fine gravity.
+But gravity can also be produced by displacing space minutely and surgically. This causes the space particles to flow **AROUND** the mass.
 
-This is done by reducing the pressure between 2 surfaces by eliminating or reducing the flow of the space particles between them. 
+We call this Micro Cohesion Gravity as opposed to Micro Displacement Gravity which goes away from the mass. 
+
+This is because the space particles that cause Micro Cohesion Gravity are smaller than those from Micro Displacement.
+
+This makes the high-low pressure difference also finer or smaller. 
+
+ <!-- done by reducing the pressure between 2 surfaces by eliminating or reducing the flow of the space particles between them.  -->
 
 There are 2 easy examples of this:
 
-1. Gauge Blocks
+### 1. Gauge Blocks and Casimir Effect
 
 Gauge Blocks are rectangular blocks that are perfectly smooth. Two blocks together thus can have no space between them. 
 
@@ -80,7 +86,8 @@ The center area formed by the 2 blocks must be either straight or wider at the c
 
 
 
-2. Gecko Feet: Van Der Waals force
+
+### 2. Gecko Feet: Van Der Waals force
 
 This is done by gecko feet which have tiny flexible hairs called spatulae that insert themselves into the tiny holes and depressions on surfaces to push out the empty space.
 - This is similar to fine-grained sand being able to fill a bottle and eliminate all space
