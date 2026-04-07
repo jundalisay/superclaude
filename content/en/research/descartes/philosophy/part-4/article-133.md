@@ -8,8 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-4/section-04b
+aliases:
+  /research/descartes/philosophy/part-4/section-04b
 ---
 
 {{< n n="Here we replace striated particles with virtual photons in order to make it easier to understand" >}}

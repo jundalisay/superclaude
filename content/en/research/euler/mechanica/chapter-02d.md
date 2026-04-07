@@ -1,16 +1,15 @@
 ---
-draft: true
 heading: Chapter 2d
-title: "The Absolute and Relative Force"
+title: "Proposition 16"
 date: 2025-03-20
-weight: 4
+weight: 20
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
 ---
 
 
-PROPOSITION 16. THEOREM
+## Proposition 16. Theorem
 
 136. The force q at the point b has the same effect that the force p has at the point a, if the ratio between the forces and distances is of the form q : p = b : a.
 
@@ -32,8 +31,7 @@ a from the force p.
 
 Corollary 2.
 
-138. In the same manner, it follows that for a point to have a greater speed induced than a
-smaller one, then it is necessary for a larger force, and with that force to be even so much
+138. In the same manner, it follows that for a point to have a greater speed induced than a smaller one, then it is necessary for a larger force, and with that force to be even so much
 greater, with that point so much greater than this one.
 
 Scholium 1.
@@ -44,28 +42,22 @@ Truly the points must be taken amongst themselves as equal to each other, not in
 
 Corollary 3.
 
-140. Therefore two bodies which have been made from the same number of points are
-equal, because each contains the same amount of matter. And two bodies are in the ratio
+140. Therefore two bodies which have been made from the same number of points are equal, because each contains the same amount of matter. And two bodies are in the ratio
 m if n, if the numbers of the points, upon which they agree, keep the ratio m to n.
 Scholium 2.
 
 141. Truly it will be shown in the following propositions that this ratio of the quantity of the matter to be measured for the bodies themselves is to be put to use and to be undertaken in all work. For from the weight of each body it is usual to investigate the mass, and it is agreed that the weight and the quantity of matter are in proportion. Moreover it is agreed by experiments that all bodies in an empty space fall equally, and therefore all are accelerated equally by the force of gravity.
 
-Concerning which it is
-necessary that, in order that the force of gravity acting on individual bodies shall be
+Concerning which it is necessary that, in order that the force of gravity acting on individual bodies shall be
 proportional to their quantity of matter. [p.57] Truly the weight of the body indicates the
 force of gravity, by which that body is acted on. Whereby since that shall be proportional
 to the quantity of matter, with the weight of the quantity of matter known, from that itself
-wt .mass
-22
-considered, that we have divided here for the matter. [Thus, wt .1  mass 1. ]EULER'S MECHANICA VOL. 1.
-Chapter two.
-Translated and annotated by Ian Bruce.
+wt .mass  considered, that we have divided here for the matter. [Thus, wt .1  mass 1. ]EULER'S MECHANICA VOL. 1.
 
 142. The force of inertia of any body is proportional to the quantity of matter, upon
 which it depends.
 
-DEMONSTRATION
+## DEMONSTRATION
 
 The force of inertia is a force in place in any body in its own state of rest or of uniform motion in a direction to be kept the same.(74). That therefore is to be estimated from the strength or the force applied to the body, with the aid of which it is to be disturbed from its state. Truly different bodies equally in their state are disturbed by forces which are as the quantities of material contained in these. Therefore the forces of inertia of these are proportional to these forces. Consequently also the quantities of matter are in proportion. Q. E. D.
 
@@ -181,5 +173,3 @@ non-separated bodies, in the case where the forces are not continuous, but are a
 suddenly exercise their effect. Moreover with this principle admitted, it is clear that there
 are two equal lines upon which the points approach each other and they have to meet in
 the middle.
-
-

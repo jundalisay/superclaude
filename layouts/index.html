@@ -195,6 +195,7 @@
     <p class="text-teal-100 mb-8">{{ i18n "join_newsletter" }}</p>
     <form action="{{ .Site.Params.commentAction }}" method="POST" class="flex flex-col sm:flex-row gap-3">
       <input type="email" name="email" placeholder="Your email address" required class="flex-1 px-6 py-4 rounded-xl bg-black/20 border border-white/20 text-white placeholder:text-teal-200 focus:outline-none focus:ring-2 focus:ring-white">
+      <input type="hidden" name="name" value="From SP Root">
       <button type="submit" class="px-8 py-4 bg-white text-teal-900 font-bold rounded-xl hover:bg-teal-50 transition-colors">
         {{ i18n "subscribe" }}
       </button>

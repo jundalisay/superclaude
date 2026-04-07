@@ -65,7 +65,7 @@ what you are promised.
 
 <sup>28</sup> He feared them.
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Do not fear
 {{< /l >}}
 
@@ -74,7 +74,7 @@ They announced to him the good news of a knowledgeable boy.
 
 <sup>29</sup> His wife came forward crying. She clasped her face, and said, “A barren old woman?”
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 <sup>30</sup> Thus spoke your Lord. He is the Wise, the Knowing.
 {{< /l >}}
 
@@ -113,9 +113,9 @@ We evacuated all the believers who were in it.
 
 <sup>49</sup> We created all things in pairs, so that you may reflect and ponder.
 
-<sup>50</sup> “So flee towards Enki. I am to you from Him a clear warner.”
+<sup>50</sup> “So flee towards Anu. I am to you from Him a clear warner.”
 
-<sup>51</sup> “And do not set up any other god with Enki. I am to you from Him a clear warner.”
+<sup>51</sup> “And do not set up any other god with Anu. I am to you from Him a clear warner.”
 
 <sup>52</sup> Likewise, no messenger came to those before them, but they said, “A sorcerer or a madman.”
 
@@ -129,7 +129,7 @@ We evacuated all the believers who were in it.
 
 <sup>57</sup> I need no livelihood from them, nor do I need them to feed Me.
 
-<!-- 58. Enki is the Provider, the One with Power,
+<!-- 58. Anu is the Provider, the One with Power,
 the Strong.
 59. Those who do wrong will have their turn,
 like the turn of their counterparts, so let them

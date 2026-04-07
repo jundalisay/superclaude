@@ -1,21 +1,21 @@
 ---
-draft: true
 heading: Chapter 2c
-title: "The Absolute and Relative Force"
+title: "The Increment of Speed"
 date: 2025-03-20
-weight: 4
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 18
+description: "For a given increment of the speed, a certain force produces on the point A in the small increment of time dt"
 author: "Euler"
 c: "firebrick"
 ---
 
 
 
-PROPOSITION 15. PROBLEM.
+## PROPOSITION 15. PROBLEM
 
 130. For a given increment of the speed, a certain force produces on the point A in the small increment of time dt.  Find the increment of the speed, that the same force produces on the same point in the time increment dτ.
 
-SOLUTION
+
+### SOLUTION
 
 The point A (Fig. 14) has the speed c in the same direction AB as the force has acting on it, and ao is the small distance, through which the force pulls the point A, if it were at rest, in the small increment of time dt.
 
@@ -49,7 +49,7 @@ ao
 short time dt is dt , it will be produced in this ratio : (increment of the speed acquired in the increment of the time dt) is to (increment of the speed acquired in the time increment d ) as dt is to d . Consequently the increments of the speed are in proportion to the times in which they are produced. Q. E. I.
 
 
-Corollary 1.
+### Corollary 1.
 
 131. This increment of the speed does not depend on the speed c itself, but it will have the same value, however large or small a value is put for c.
 
@@ -61,13 +61,16 @@ Corollary 2.
 
 Corollary 3.
 
-133. If therefore from the start, the speed of the motion acquired in a small time t is called c, and the distance traversed is s, then t = nc. But also t   ds (37). Hence the equation is
-c
-2
-2
+133. If therefore from the start, the speed of the motion acquired in a small time t is called c, and the distance traversed is s, then t = nc. But also t   ds (37). Hence the equation is:
+
+...
+
+
 produced nc   ds
 or ncdc = ds and hence s  nc2  2t n . Therefore the distances
-c
+
+...
+
 described from the start of the motion are in the square ratio of the times or of the speeds
 acquired in that distance. [p. 53; we see that the constant n is the inverse of the
 acceleration.]

@@ -12,7 +12,7 @@ description: "We sent Noah to his people"
 <sup>50</sup> To Aad, their brother Hud said:
 
 {{< l a="Hud" >}}
-O my people, worship Enki. You have no other god besides Him. You do nothing but invent lies. <sup>51</sup> I ask you no wage for it. My wage lies with Him who originated me. 
+O my people, worship Anu. You have no other god besides Him. You do nothing but invent lies. <sup>51</sup> I ask you no wage for it. My wage lies with Him who originated me. 
 
 <sup>52</sup> Ask forgiveness from your Lord. He will release the sky pouring down upon you, and will add strength to your strength. Do not turn away and be wicked.”
 {{< /l >}}
@@ -24,9 +24,9 @@ O my people, worship Enki. You have no other god besides Him. You do nothing but
 
 
 {{< l a="Hud" >}}
-I call Enki to witness, and you to witness, that I am innocent of what you associate.
+I call Anu to witness, and you to witness, that I am innocent of what you associate.
 
-<sup>55</sup> Besides Him. So scheme against me, all of you, and do not hesitate. <sup>56</sup> I have placed my trust in Enki, my Lord and your Lord. 
+<sup>55</sup> Besides Him. So scheme against me, all of you, and do not hesitate. <sup>56</sup> I have placed my trust in Anu, my Lord and your Lord. 
 
 There is not a creature but He holds it by the forelock. My Lord is on a straight path. 
 
@@ -45,7 +45,7 @@ There is not a creature but He holds it by the forelock. My Lord is on a straigh
 <sup>61</sup> To Thamood, their brother Saleh said: 
 
 {{< l a="Saleh" >}}
-O my people, worship Enki. You have no god other than Him. He initiated you from the earth, and settled you in it. So seek His forgiveness. My Lord is Near and Responsive.
+O my people, worship Anu. You have no god other than Him. He initiated you from the earth, and settled you in it. So seek His forgiveness. My Lord is Near and Responsive.
 {{< /l >}}
 
 {{< r a="People" >}}
@@ -54,9 +54,9 @@ O my people, worship Enki. You have no god other than Him. He initiated you from
 
 
 {{< l a="Saleh" >}}
-<sup>63</sup> O my people, If I stand on clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Enki, if I disobeyed Him? You add nothing for me except loss.
+<sup>63</sup> O my people, If I stand on clear evidence from my Lord, and He has given me mercy from Him, who would protect me from Anu, if I disobeyed Him? You add nothing for me except loss.
 
-<sup>64</sup> O my people, this is the she-camel of Enki, a sign for you. Let her graze on Enki’s land, and do not harm her, lest an imminent punishment overtakes you.
+<sup>64</sup> O my people, this is the she-camel of Anu, a sign for you. Let her graze on Anu’s land, and do not harm her, lest an imminent punishment overtakes you.
 {{< /l >}}
 
 
@@ -95,7 +95,7 @@ Alas for me. Shall I give birth, when I am an old woman, and this, my husband, i
 
 
 {{< r a="People" >}}
-<sup>73</sup> Do you marvel at the decree of Enki? The mercy and blessings of Enki are upon you, O people of the house. He is Praiseworthy and Glorious.
+<sup>73</sup> Do you marvel at the decree of Anu? The mercy and blessings of Anu are upon you, O people of the house. He is Praiseworthy and Glorious.
 {{< /r >}}
 
 
@@ -103,7 +103,7 @@ Alas for me. Shall I give birth, when I am an old woman, and this, my husband, i
 
 <sup>75</sup> Abraham was gentle, kind, penitent.
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 O Abraham, refrain from this. The command of your Lord has come; they have incurred an irreversible punishment.
 {{< /l >}}
 

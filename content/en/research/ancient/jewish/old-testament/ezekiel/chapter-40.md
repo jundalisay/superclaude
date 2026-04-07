@@ -1,20 +1,20 @@
 ---
 heading: Ezekiel 40
 title: "The House of the Anunnaki"
-description: "He measured the width of the building as one reed, and the height, as  one reed."
+description: "Superphysics Note -- We replace God with the alien Anu, since the Middle East is Anunnaki territory"
 weight: 140
 c: "firebrick"
 ---
 
 
-1 In the 25th year of our captivity, in the beginning of the year, in the 10th day of the month, in the 14th year after that the city was smitten, in the selfsame day the hand of Enki was upon me, and brought me thither. 
+<sup>1</sup> In the 25th year of our captivity, in the beginning of the year, in the 10th day of the month, in the 14th year after that the city was smitten, in the selfsame day the hand of Enki was upon me, and brought me thither. 
 
 2 In the visions of Enki, he brought me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
 
 3 Behold, there was a man who stood in the gate, whose appearance was like the appearance of brass, with a line of flax in his hand, and a
 measuring reed.
 
-{{< l a="Enki Agent" >}}
+{{< l a="Anu Agent" >}}
 4 Son of man, see and hear and remember all that I shall shew you so that you can tell what you have seen to the Israelites. 
 {{< /l >}}
 

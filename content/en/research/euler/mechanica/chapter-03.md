@@ -1,22 +1,23 @@
 ---
+draft: true
 heading: Chapter 3
 title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
 date: 2025-03-20
-weight: 4
+weight: 31
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
-draft: true
 ---
 
 
 
-PROPOSITION 24. THEOREM.
+## PROPOSITION 24. THEOREM
 
 189. When the directions of the motion and of the force are along the same straight line,
 the motion will be rectilinear.
 
-DEMONSTRATION.
+
+### DEMONSTRATION
 
 Every body by its inertial force tries to continue its motion in the direction that it
 always performs, unless it is impeded (65). Truly there are two effects of a force on the
@@ -25,18 +26,20 @@ other by which the speed is unchanged. But the direction remains unchanged if th
 direction of the force lies in the direction that the point moves (128). Therefore in this
 case the point goes on traveling in a straight line. Q. E. D.
 
-Corollary 1.
 
-190. We will only consider the case in this chapter in which the motion of the point and
-the direction of the force acting are placed on the same straight line.
-Corollary 2.
+### Corollary 1
 
-191. Moreover we see that this consistency can come about in two ways, as clearly either
-both [the inertial force and the applied force] are acting in the same direction, [p. 77] or
+190. We will only consider the case in this chapter in which the motion of the point and the direction of the force acting are placed on the same straight line.
+
+
+### Corollary 2
+
+191. Moreover we see that this consistency can come about in two ways, as clearly either both [the inertial force and the applied force] are acting in the same direction, [p. 77] or
 in opposite directions. In the one case the speed of the point is increased, and in the other
 it is decreased 128).
 
-Scholium.
+
+Scholium
 
 192. There are two things that have to be consider in this rectilinear motion, the first of
 which is the force upon which some point mass is acted, and the other is indeed the speed
@@ -45,15 +48,15 @@ of distance is traversed. Indeed these three variables are thus comparable, sinc
 given the remaining two can always be determined. In the first place therefore we will consider some force as given : then truly on that account we will find either the
 corresponding speed or time from the given force.
 
-PROPOSITION 25.
-PROBLEM.
+
+## PROPOSITION 25. PROBLEM
 
 193. The point A is resting on the line (Fig. 22) AP, and is to be pulled forwards by a
 uniform force, or which acts with the same strength everywhere, and the speed of the
 point is to be determined at any position P.
 
 
-SOLUTION.
+SOLUTION
 
 The mass or the force of inertia of the point is set out by the letter A, and
 the [external] force by the letter g, which is constant since it is the same
@@ -61,10 +64,11 @@ amount everywhere. Let the distance AP = x, and the required speed at P
 is put equal to c. An element of distance Pp is taken, which is equal to dx;
 and the increment of the speed dc is acquired by the point on completing
 the element Pp, acted on by the force g [p. 78]. With these put in place, it
-follows that A
-ngdx
-cdc = (157), since the force constantly pulls downwards,
-and on this account we put the motion to be accelerating.
+follows that 
+
+...
+
+since the force constantly pulls downwards, and on this account we put the motion to be accelerating.
 
 <!-- [This integrated equation corresponds, from our point of view, to the usual
 kinematic equation asuv 222 += where the initial speed u is zero, and the equation can

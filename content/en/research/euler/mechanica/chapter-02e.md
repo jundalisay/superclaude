@@ -1,9 +1,8 @@
 ---
-draft: true
 heading: Chapter 2e
-title: "The Absolute and Relative Force"
+title: "Proposition 19"
 date: 2025-03-20
-weight: 4
+weight: 22
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
@@ -11,7 +10,7 @@ c: "firebrick"
 
 
 
-PROPOSITION 19. THEOREM.
+## PROPOSITION 19. THEOREM.
 
 150. A point can be moved along the direction AM (Fig. 16) and it is acted on, while it
 traverses the small distance Mm, by a force p pulling in the same direction ;the increase

@@ -3,7 +3,7 @@ title: "Muslims"
 heading: "Sura 3e"
 weight: 36
 c: "maroon"
-description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -58,7 +58,7 @@ It is from your own selves.
 
 It was said to them:
 
-{{< r a="Enki Agents" >}}
+{{< r a="Anu Agents" >}}
 Come, fight in the cause of Enki, or contribute.
 {{< /r >}}
 
@@ -134,7 +134,7 @@ Enki is poor, and we are rich.
 
 We will write down what they said. Their wrongful killing of the prophets. We will say:
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Taste the torment of the burning. <sup>182</sup> This is on account of what your hands have forwarded, and because Enki is not unjust towards the creatures.
 {{< /l >}}
 

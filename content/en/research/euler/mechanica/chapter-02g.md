@@ -1,57 +1,56 @@
 ---
-draft: true
 heading: Chapter 2g
-title: "The Absolute and Relative Force"
+title: "Proposition 22"
 date: 2025-03-20
-weight: 4
+weight: 28
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
 ---
 
 
-PROPOSITION 22. THEOREM.
+## PROPOSITION 22. THEOREM.
 
-179. Let there be two parts of a point separated at b and d (Fig. 19); I say that these are
-to be joined together by a force of restitution in the point c, at the centre of gravity of the
+179. Let there be two parts of a point separated at b and d (Fig. 19); I say that these are to be joined together by a force of restitution in the point c, at the centre of gravity of the
 particular b and d.
 
-DEMONSTRATION.
+
+### DEMONSTRATION
 
 In the first place these parts are joined together at A, and these are then pulled apart by the forces AB and AD to the points b and d in the same element of time dt. Truly the force AC is equivalent to these two forces, which in the same element of time act on the point and pull the element to c from A. Therefore it is clear that the parts b and d must be drawn together by the force c, since the force AC has the same effect acting on the whole point A as both AB and AD acting on the two parts of this (149).
 
 Hence it is therefore to be understood that c is the point
 of concurrence, into which the small parts b and d are driven
 together by the resisting force. By which moreover [p. 71] the
-small mass b is pulled forwards by the force AB for the
-element of time dt through the small distance Ab, ought to be
-Ab  n. ABb.dt
-2
-(159) or AB  Ab.b2 . Likewise on account of the
-ratio, AD  Ad .2d and AC 
-ndt
-ndt
-Ac.(b  d )
-ndt 2
-.
+small mass b is pulled forwards by the force AB for the element of time dt through the small distance Ab, ought to be
 
-Hence truly AC is the
-diagonal of the parallelogram, that is constituted from the forces AB and AD, which is
-equivalent to these. Moreover from these equations it can be deduced that
-AB  AD  AC ; truly AB, AD, and AC are between themselves as the sines of the
-Ab
-Ad
-Ac
-DAC  sin BAC  sin BAD , from
+...
+
+
+Likewise on account of the ratio,
+
+...
+
+Hence truly AC is the diagonal of the parallelogram, that is constituted from the forces AB and AD, which is equivalent to these. Moreover from these equations it can be deduced that 
+
+...
+
+truly AB, AD, and AC are between themselves as the sines of the
+
+...
+
+from
 angles DAC, BAC, and BAD. On account of which sin Ab
-Ad
-Ac
+
+...
+
 which property it follows that the points b, c , and d are in the directions given. From
 which, bc : cd  sin BAC. Ab : sin DAC. Ad  AD. Ab : AB. Ad . But AD : AB = Ad.d : Ab.b.
 Consequently it follows that bc:cd = d:b or b.bc = d.dc. From which it is understood that
 the point c is the centre of gravity of the particular b and d. Q. E. D.
 
-Corollary 1.
+
+### Corollary 1.
 
 180. Therefore the point A taken in any place, always falls upon the position of the same point of concurrence c, from which it is apparent that the constant restoring force does not depend either on the position of the point A nor on the particular particles of A b and d acted upon
 
@@ -88,60 +87,15 @@ Through the point O some line KN is
 drawn, and to that line perpendiculars are
 sent from the points A, a; B, b; C, c; D, d; G, g. Moreover, these are given by :
 
-Og .( a  b  c  d )
-OA  Oa.2a , OB  Ob.b2 , OC  Oc.c2 , OD  Od .2d and OA 
+...
+
 (159). But from
-ndt 2
-ndt
-ndt
-ndt
-ndt
+
+...
+
 the similar triangles OAK, Oak; OBL, Obl, etc, it follows that :
-.ak  ak .a , BL  OB.bl  bl .b , CM  OC .cm  cm.c ,
-AK  OA
-2
-2
-2
-Oa
-Ob
-Oc
-ndt
-ndt
-ndt
-.
-.(
-
-
-
-)
-OG
-gs
-gs
-a
-b
-c
-d
-.dn  dn.d , and GS 
-DN  OD
-
-, and
-Od
-Og
-ndt 2
-ndt 2
-.Ok  Ok .a , OL  OB.Ol  Ol .b , OM  OC .om  Om.c ,
-OK  OAOa
-Ob
-Oc
-ndt 2
-ndt 2
-ndt 2
-.On  On.d , and OS  OG.Os  Os.( a  b  c  d ) .
-ON  OD
-Od
-Og
-ndt 2
-ndt 2
+
+...
 
 But since OG is the force equivalent to the forces OA, OB, OC, OD, it is agreed from
 statics that AK + BL + CM + DN = GS, et OK + OL – OM – ON = OS.

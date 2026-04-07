@@ -1,9 +1,8 @@
 ---
-draft: true
 heading: Chapter 2b
 title: "The Absolute and Relative Force"
 date: 2025-03-20
-weight: 4
+weight: 16
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
@@ -157,11 +156,7 @@ Corollary 6.
 One way is in agreement with the change in the speed, and the other with the change in
 the direction of this point. The first gives a change of the speed dc 
 second gives the declination of the sine of the angle kdz
-.
-cdt
-dz (1 kk )
-, the
-dt
+...
 
 
 Corollary 7.
@@ -175,25 +170,28 @@ Corollary 8.
 
 127. If the angle BAC is obtuse or greater than a right angle, then the cosine of this angle
 (1 kk ) is negative, and therefore the increment of the speed dc will be made negative,
-dz (1 kk )
-. Which shows that the speed is diminished by the force.
+
+...
+
+Which shows that the speed is diminished by the force.
+
 dt
 Declination kdz
 remains the same as it was before.
-cdt
+...
 and equal to 
 
 Corollary 9.
 
 128. If the direction of the force AC agrees with the direction AB of the point A, this
-makes k = 0. Therefore in this case [p. 50] the direction of the motion is not changed by
-, if the
-the direction of the force. Truly the increment of the speed dc becomes equal to dz
-dt
+makes k = 0. Therefore in this case [p. 50] the direction of the motion is not changed by ....
+, if the the direction of the force. Truly the increment of the speed dc becomes equal to ....
+
 direction of the force agrees with the direction of the motion. But if moreover it should be
 in the opposite direction, then it becomes dc   dz
 .
-dt
+...
+
 
 Scholium 2.
 
@@ -202,5 +200,4 @@ Scholium 2.
 For if the point A (Fig. 14) has the speed c and is moving along the direction AB; meanwhile truly it is acted upon by a force in the same direction AB, thus so that in the passing of a small interval of time dt it will not be at B that the body will be found, for only with the speed c will the width be traversed, but at b, and the effect of the force will be the small distance Bb.
 
 By the same small distance ao the point A, if it were at rest at a, would have been treated in the same small increment of time dt. Therefore from the motion of the point A by the force the effect of the same force acting on the point at rest will be known, and again hence the effect of the force on any moton of the point.
-
 
