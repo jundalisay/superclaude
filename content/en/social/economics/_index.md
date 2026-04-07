@@ -4,6 +4,8 @@ description: Supereconomics (Economic Superphysics) is based on the four laws of
 heading: Based on the four laws of value
 image: /graphics/econ.jpg
 date: 2020-01-27
-youtube: "S0L13XsbUKs" 
+youtube: "S0L13XsbUKs"
+aliases:
+  /economics
 ---
 

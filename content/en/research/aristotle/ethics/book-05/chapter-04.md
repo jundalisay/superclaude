@@ -5,9 +5,8 @@ weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
-description: "The violator of Law is Unjust. The keeper of the Law is Just"
+description: "There is more than one kind of Justice. "
 icon: "Aristotle"
 ---
 
@@ -44,7 +43,7 @@ By the way, as to individual education, in respect of which a man is simply good
 
 Of the Particular Justice, and the Just involved in it, one species is that which is concerned in the distributions of honour, or wealth, or such other things as are to be shared among the members of the social community (because in these one man as compared with another may have either an equal or an unequal share), and the other is that which is Corrective in the various transactions between man and man.
 
-And of this latter there are two parts: because of transactions some are voluntary and some involuntary; voluntary, such as follow; selling, buying, use, bail, borrowing, deposit, hiring: and this class is called voluntary because the origination of these transactions is voluntary.
+Of this latter there are two parts: because of transactions some are voluntary and some involuntary; voluntary, such as follow; selling, buying, use, bail, borrowing, deposit, hiring: and this class is called voluntary because the origination of these transactions is voluntary.
 
 The involuntary again are either such as effect secrecy; as theft, adultery, poisoning, pimping, kidnapping of slaves, assassination, false witness; or accompanied with open violence; as insult, bonds, death, plundering, maiming, foul language, slanderous abuse.
 

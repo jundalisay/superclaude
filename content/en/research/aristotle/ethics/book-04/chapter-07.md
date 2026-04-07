@@ -1,18 +1,18 @@
 ---
 heading: Chapter 7
 title: "Meekness"
-weight: 12
+weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "The very name of Great-mindedness implies, that great things are its object-matter"
+description: "Meekness is a middle or mean state, having for its object-matter Anger."
 icon: "Aristotle"
 ---
 
 
-Meekness is a middle or mean state, having for its object-matter Anger: 
+Meekness is a middle or mean state, having for its object-matter Anger.
 
 The character in the mean has no name, and we may almost say the same of the extremes, we give the name of Meekness (leaning rather to the defect, which has no name either) to the character in the mean.
 
@@ -64,4 +64,5 @@ The middle or mean state is praiseworthy, in virtue of which we are angry with t
 Thus, we are to hold to the middle or mean state.
 
 This then is to be taken as our account of the various moral states which have Anger for their object-matter.
+
 

@@ -3204,6 +3204,27 @@
       }
     }
   }
+  .hover\:text-\[\#0a66c2\] {
+    &:hover {
+      @media (hover: hover) {
+        color: #0a66c2;
+      }
+    }
+  }
+  .hover\:text-\[\#1877f2\] {
+    &:hover {
+      @media (hover: hover) {
+        color: #1877f2;
+      }
+    }
+  }
+  .hover\:text-black {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-black);
+      }
+    }
+  }
   .hover\:text-blue-600 {
     &:hover {
       @media (hover: hover) {
@@ -3257,6 +3278,13 @@
     &:hover {
       @media (hover: hover) {
         color: var(--color-white);
+      }
+    }
+  }
+  .hover\:opacity-75 {
+    &:hover {
+      @media (hover: hover) {
+        opacity: 75%;
       }
     }
   }

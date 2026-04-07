@@ -5,4 +5,6 @@ description: "This lists the cycle of each country, based on Socrates' Law of So
 image: "/photos/social/protests.jpg"
 youtube: "sxq8vIm4Cwc"
 weight: 1
+aliases:
+  /cycles
 ---

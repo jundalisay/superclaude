@@ -1,13 +1,12 @@
 ---
 heading: Chapter 8
 title: "Over-Complaisance and Contentiousness"
-weight: 14
+weight: 17
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
-description: "The very name of Great-mindedness implies, that great things are its object-matter"
+description: "Over-Complaisant men are those who agree to everything and never oppose."
 icon: "Aristotle"
 ---
 

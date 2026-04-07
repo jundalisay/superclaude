@@ -5,9 +5,8 @@ weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
-description: "The very name of Great-mindedness implies, that great things are its object-matter"
+description: "The mean state which steers clear of Exaggeration has pretty much the same object-matter as the last we described, and likewise has no name appropriated to it. "
 icon: "Aristotle"
 ---
 
@@ -15,11 +14,15 @@ icon: "Aristotle"
 
 The mean state which steers clear of Exaggeration has pretty much the same object-matter as the last we described, and likewise has no name appropriated to it. 
 
-Still it may be as well to go over these states: because, in the first place, by a particular discussion of each we shall be better acquainted with the general subject of moral character, and next we shall be the more convinced that the virtues are mean states by seeing that this is universally the case.
+By a particular discussion of each, we can:
+- be better acquainted with moral character
+- be more convinced that the virtues are mean states by seeing that this is universally the case
 
 In respect then of living in society, those who carry on this intercourse with a view to pleasure and pain have been already spoken of; we will now go on to speak of those who are True or False, alike in their words and deeds and in the claims which they advance.
 
-The Exaggerator is thought to have a tendency to lay claim to things reflecting credit on him, both when they do not belong to him at all and also in greater degree than that in which they really do: whereas the Reserved man, on the contrary, denies those which really belong to him or else depreciates them, while the mean character being a Plain-matter-of-fact person is Truthful in life and word, admitting the existence of what does really belong to him and making it neither greater nor less than the truth.
+The Exaggerator is thought to have a tendency to lay claim to things reflecting credit on him, both when they do not belong to him at all and also in greater degree than that in which they really do.
+
+Whereas the Reserved man, on the contrary, denies those which really belong to him or else depreciates them, while the mean character being a Plain-matter-of-fact person is Truthful in life and word, admitting the existence of what does really belong to him and making it neither greater nor less than the truth.
 
 It is possible of course to take any of these lines either with or without some further view: but in general men speak, and act, and live, each according to his particular character and disposition, unless indeed a man is acting from any special motive.
 
@@ -34,7 +37,9 @@ The Truthful man is true in life and word simply because he is in a certain mora
 This is different from a man who is true in his agreements nor in such matters as amount to justice or injustice (this would come within the province of a different virtue), but, in such as do not involve any such serious difference as this, the man we are describing 
 
 
-And he that is such must be judged to be a good man: for he that has a love for Truth as such, and is guided by it in matters indifferent, will be so likewise even more in such as are not indifferent; for surely he will have a dread of falsehood as base, since he shunned it even in itself: and he that is of such a character is praiseworthy, yet he leans rather to that which is below the truth, this having an appearance of being in better taste because exaggerations are so hateful.
+He that is such must be judged to be a good man: for he that has a love for Truth as such, and is guided by it in matters indifferent, will be so likewise even more in such as are not indifferent.
+
+For surely he will have a dread of falsehood as base, since he shunned it even in itself: and he that is of such a character is praiseworthy, yet he leans rather to that which is below the truth, this having an appearance of being in better taste because exaggerations are so hateful.
 
 As for the man who lays claim to things above what really belongs to him without any special motive, he is like a base man because he would not otherwise have taken pleasure in falsehood, but he shows as a fool rather than as a knave. But if a man does this with a special motive, suppose for honour or glory, as the Braggart does, then he is not so very blameworthy, but if, directly or indirectly, for pecuniary considerations, he is more unseemly.
 
@@ -49,4 +54,3 @@ This very Reserve sometimes shows like Exaggeration; take, for instance, the exc
 But they who practise Reserve in moderation, and in cases in which the truth is not very obvious and plain, give an impression of refinement. 
 
 Here it is the Exaggerator (as being the worst character) who appears to be opposed to the Truthful Man.
-
