@@ -1,8 +1,8 @@
 ---
 heading: Genesis 33
 title: "Jacob Gives Gifts"
-description: "Jacob went on his way, and the agents of Enki met him"
-weight: 50
+description: "We replace God with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
+weight: 66
 c: "firebrick"
 ---
 
@@ -24,7 +24,7 @@ Who are those with you?
 {{< /r >}}
 
 {{< l a="Jacob" >}}
-The children which Enki had graciously given your servant. 6 Then the handmaidens came near, they and their children, and they bowed themselves. 
+The children which Anu had graciously given your servant. 6 Then the handmaidens came near, they and their children, and they bowed themselves. 
 {{< /l >}}
 
 
