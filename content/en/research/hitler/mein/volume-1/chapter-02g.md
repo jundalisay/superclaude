@@ -113,72 +113,68 @@ guard when reading the great Vienna Press.
 
 I had to acknowledge, however, that on such subjects one of the anti-Semitic papers--
 the DEUTSCHE VOLKSBLATT--acted more decently.
-What got still more on my nerves was the repugnant manner in which the big
-newspapers cultivated admiration for France. One really had to feel ashamed of being a
-German when confronted by those mellifluous hymns of praise for 'the great culturenation'. This wretched Gallomania more often than once made me throw away one of
-those 'world newspapers'. I now often turned to the VOLKSBLATT, which was much
-smaller in size but which treated such subjects more decently. I was not in accord with
-its sharp anti-Semitic tone; but again and again I found that its arguments gave me
-grounds for serious thought.
 
-Anyhow, it was as a result of such reading that I came to know the man and the
-movement which then determined the fate of Vienna. These were Dr. Karl Lueger and 
-the Christian Socialist Movement. At the time I came to Vienna I felt opposed to both. I
-looked on the man and the movement as 'reactionary'.
-But even an elementary sense of justice enforced me to change my opinion when I had
-the opportunity of knowing the man and his work, and slowly that opinion grew into
-outspoken admiration when I had better grounds for forming a judgment. To-day, as
-well as then, I hold Dr. Karl Lueger as the most eminent type of German Burgermeister.
-How many prejudices were thrown over through such a change in my attitude towards
-the Christian-Socialist Movement!
+What got still more on my nerves was the repugnant manner in which the big newspapers cultivated admiration for France. One really had to feel ashamed of being a
+German when confronted by those mellifluous hymns of praise for 'the great culturenation'. 
 
-My ideas about anti-Semitism changed also in the course of time, but that was the
-change which I found most difficult. It cost me a greater internal conflict with myself,
-and it was only after a struggle between reason and sentiment that victory began to be
-decided in favour of the former. Two years later sentiment rallied to the side of reasons
-and became a faithful guardian and counsellor.
-At the time of this bitter struggle, between calm reason and the sentiments in which I
-had been brought up, the lessons that I learned on the streets of Vienna rendered me
-invaluable assistance. A time came when I no longer passed blindly along the street of
-the mighty city, as I had done in the early days, but now with my eyes open not only to
-study the buildings but also the human beings.
+This wretched Gallomania more often than once made me throw away one of those 'world newspapers'. I now often turned to the VOLKSBLATT, which was much smaller in size but which treated such subjects more decently. I was not in accord with its sharp anti-Semitic tone; but again and again I found that its arguments gave me grounds for serious thought.
 
-Once, when passing through the inner City, I suddenly encountered a phenomenon in a
-long caftan and wearing black side-locks. My first thought was: Is this a Jew? They
-certainly did not have this appearance in Linz. I watched the man stealthily and
-cautiously; but the longer I gazed at the strange countenance and examined it feature by
-feature, the more the question shaped itself in my brain: Is this a German?
-As was always my habit with such experiences, I turned to books for help in removing
-my doubts. For the first time in my life I bought myself some anti-Semitic pamphlets for
-a few pence. But unfortunately they all began with the assumption that in principle the
-reader had at least a certain degree of information on the Jewish question or was even
-familiar with it. Moreover, the tone of most of these pamphlets was such that I became
-doubtful again, because the statements made were partly superficial and the proofs
-extraordinarily unscientific. For weeks, and indeed for months, I returned to my old
+Anyhow, it was as a result of such reading that I came to know the man and the movement which then determined the fate of Vienna. These were Dr. Karl Lueger and 
+the Christian Socialist Movement. At the time I came to Vienna I felt opposed to both. 
+
+I looked on the man and the movement as 'reactionary'.
+
+But even an elementary sense of justice enforced me to change my opinion when I had the opportunity of knowing the man and his work, and slowly that opinion grew into
+outspoken admiration when I had better grounds for forming a judgment. 
+
+Today, as well as then, I hold Dr. Karl Lueger as the most eminent type of German Burgermeister. 
+
+How many prejudices were thrown over through such a change in my attitude towards the Christian-Socialist Movement!
+
+My ideas about anti-Semitism changed in time, but that was the change which I found most difficult.
+
+It cost me a greater internal conflict with myself, and it was only after a struggle between reason and sentiment that victory began to be decided in favour of the former. Two years later sentiment rallied to the side of reasons and became a faithful guardian and counsellor.
+
+At the time of this bitter struggle, between calm reason and the sentiments in which I had been brought up, the lessons that I learned on the streets of Vienna rendered me invaluable assistance. A time came when I no longer passed blindly along the street of the mighty city, as I had done in the early days, but now with my eyes open not only to study the buildings but also the human beings.
+
+Once, when passing through the inner City, I suddenly encountered a phenomenon in a long caftan and wearing black side-locks. 
+
+I thought: Is this a Jew? They certainly did not look like this in Linz.
+
+I watched the man stealthily. I asked myself: Is this a German?
+
+I then turned to books for help in removing my doubts.
+
+I bought some anti-Semitic pamphlets for a few pence. 
+
+But they all began assumping that the reader knew the Jewish question.
+
+Moreover, the tone of most of these pamphlets was partly superficial and the proofs extraordinarily unscientific. 
+
+<!-- For weeks, and indeed for months, I returned to my old
 way of thinking. The subject appeared so enormous and the accusations were so farreaching that I was afraid of dealing with it unjustly and so I became again anxious and
-uncertain.
+uncertain. -->
 
-Naturally I could no longer doubt that here there was not a question of Germans who
+Naturally I believed that Germans were an entirely different people.
+
+<!--  here there was not a question of Germans who
 happened to be of a different religion but rather that there was question of an entirely
-different people. For as soon as I began to investigate the matter and observe the Jews,
-then Vienna appeared to me in a different light. Wherever I now went I saw Jews, and 
-the more I saw of them the more strikingly and clearly they stood out as a different
-people from the other citizens. Especially the Inner City and the district northwards
-from the Danube Canal swarmed with a people who, even in outer appearance, bore no
-similarity to the Germans.
+different people. -->
+
+As soon as I observed the Jews, Vienna appeared to me in a different light.
+
+Wherever I now went I saw Jews, and  the more I saw of them the more strikingly and clearly they stood out as a different people from the other citizens. Especially the Inner City and the district northwards from the Danube Canal swarmed with a people who, even in outer appearance, bore no similarity to the Germans.
 
 But any indecision which I may still have felt about that point was finally removed by
 the activities of a certain section of the Jews themselves. A great movement, called
 Zionism, arose among them. Its aim was to assert the national character of Judaism, and
 the movement was strongly represented in Vienna.
 
-To outward appearances it seemed as if only one group of Jews championed this
-movement, while the great majority disapproved of it, or even repudiated it. But an
-investigation of the situation showed that those outward appearances were purposely
-misleading. These outward appearances emerged from a mist of theories which had
-been produced for reasons of expediency, if not for purposes of downright deception.
-For that part of Jewry which was styled Liberal did not disown the Zionists as if they
-were not members of their race but rather as brother Jews who publicly professed their
-faith in an unpractical way, so as to create a danger for Jewry itself.
-Thus there was no real rift in their internal solidarity.
+Outwardly, only 1 group of Jews championed this movement. The great majority even repudiated it.
 
+But those outward appearances emerged from a mist of theories which had been produced for reasons of expediency, if not for purposes of downright deception.
+
+For that part of Jewry which was styled Liberal did not disown the Zionists as if they were not members of their race but rather as brother Jews who publicly professed their
+faith in an unpractical way, so as to create a danger for Jewry itself.
+
+Thus there was no real rift in their internal solidarity.
