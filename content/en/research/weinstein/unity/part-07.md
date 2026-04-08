@@ -3,7 +3,7 @@ heading: "Part 7"
 title: "The Augmented or Displaced Torsion"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 36
 date: 2021-04-01
 ---
 
@@ -17,12 +17,10 @@ An important principal of some potential relevance here is seldom stated explici
 
 Our strategy is to think as follows. There are effectively two different ways of
 transforming a connection. One is by gauge transformation and the second is by
-‘translation’ by adding to it an ad-valued 1-form on Y . Because these two group
-actions have been intertwined within the inhomogeneous gauge group, there are
-effectively two separate ways to transform the spin connection inherited from
-the Levi-Civita connection of the metric. Taking their difference is meaningful
-because both transformed connections carry exactly the same global disease that renders them non-gauge covariant. Therefore the ability to generate two separate connections with a common disease from a single group element in G
-which is still a set theoretic if not algebraic product is meaningful.
+‘translation’ by adding to it an ad-valued 1-form on Y.
+
+Because these two group actions have been intertwined within the inhomogeneous gauge group, there are effectively two separate ways to transform the spin connection inherited from
+the Levi-Civita connection of the metric. Taking their difference is meaningful because both transformed connections carry exactly the same global disease that renders them non-gauge covariant. Therefore the ability to generate two separate connections with a common disease from a single group element in G which is still a set theoretic if not algebraic product is meaningful.
 
 Definition 7.1 There is a well defined map from the inhomogeneous gauge
 group G to the space of generalized torsion tensors N viewed as a right Hmodule, given by:

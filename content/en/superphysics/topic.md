@@ -2,6 +2,7 @@
 title: "Mega Topic Index"
 date: 2025-12-13
 c: royalblue
+draft: true
 # description: "David Hume's philosophy is the opposite of that of Kant. Hume already said that there was no such thing as a priori knowledge, but Kant refuted this"
 writer:
   name: Juan

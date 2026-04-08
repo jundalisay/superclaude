@@ -77,7 +77,7 @@ We can discard the names of Air, Fire, Water, Earth in the metaphysical domain a
 
 Instead, we use the abstract descriptive names as follows:
 
-Stratum | Sanskrit Equivalent | Essassani Equivalent
+Stratum | Sanskrit Equivalent | Sassani Equivalent
 --- | --- | ---
 Causal | Hiranmaya | Oversoul (7th density)
 Essential | Vijinanamaya | Soul

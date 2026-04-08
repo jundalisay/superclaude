@@ -1,12 +1,12 @@
 ---
-title: "Definitions by the Essassani"
+title: "Definitions by the Sassani"
 weight: 3
-image: "/photos/psych/consult.jpg"
-description: "Definitions are important to the Essassani because these make up the components of your beliefs and therefore your reality"
+image: "/photos/alien/sassani.jpg"
+description: "Definitions are important to the Sassani because these make up the components of your beliefs and therefore your reality"
 featured: true
 ---
 
-Definitions are very important to the Essassani because these make up the components of your beliefs and belief-systems, and therefore your reality. 
+Definitions are very important to the Sassani because these make up the components of your beliefs and belief-systems, and therefore your reality. 
 
 
 Word | Definition 

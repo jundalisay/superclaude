@@ -1,5 +1,5 @@
 ---
-title:  "Essassani Mathematics"
+title:  "Sassani Mathematics"
 description: ""
 weight: 73
 image: "/graphics/math.jpg"

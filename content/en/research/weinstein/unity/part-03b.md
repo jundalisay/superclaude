@@ -3,7 +3,7 @@ heading: "Part 3.2"
 title: "The Chimeric Bundle"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 16
 date: 2021-04-01
 ---
 
@@ -51,7 +51,11 @@ By passing to Y d however, we can do somewhat better by virtue of the fact
 that spinor representations carry an exponential property. That is, the spinor
 functor converts direct sums of vector spaces as input into tensor products of
 spinor representations as output:
+
+```
 /S(Wa ⊕ Wb) ∼= /S(Wa) ⊗ /S(Wb) (3.12)
+```
+
 At the bundle level, we apply this to the metric Chimeric Bundle at a point
 g ∈ Y to obtain:
 
@@ -129,3 +133,4 @@ The importance of this is that each observation of Y via a choice of metric ג o
 Further, if the problem with much of quantum gravity turns out to be the difficulty of quantizing metrics relative to other fields such as vector potentials, this excercise allows us to move to more conducive variables for those who harbor dreams of quantizing gravitation.
 
 It should be pointed out here that most possible metric on Y are never in play. The subset of metrics that we are considering are incredibly tightly constrained and are equivalent to the space of connections that can arrise on X as Levi-Civita connections, as opposed to the space of all metrics over Y . Thus the issue of what upstairs gravity waves are possible doesn’t arise as the space of relevant fields is downstairs on X.
+

@@ -70,6 +70,6 @@ We can say that:
 The goals of qualimath are:
 - to have a system of processing the aethereal phenomena to get specific answers (ideas)
 - to align with the mathematical systems of advaned aliens.
-  - For example, the Essassani no longer use numbers. Instead, they use shapes, as what was proposed by Pythagoras, Timeaus, and Hinduism as mandalas and yantras.
+  - For example, the Sassani no longer use numbers. Instead, they use shapes, as what was proposed by Pythagoras, Timeaus, and Hinduism as mandalas and yantras.
 
 

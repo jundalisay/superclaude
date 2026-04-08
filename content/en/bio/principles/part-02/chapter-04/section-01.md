@@ -57,7 +57,7 @@ The presence of an antigen called the Rh protein or rhesus factor means the bloo
 - This was first discovered in Rhesus monkeys
 - In our proposed Bio Superphysics, Rh+ means that the person is less capable of advanced ideas as the monkey propensity is stronger
 
-Around 82% of people in the United States have Rh-positive blood, making Rh-negative blood relatively rare. This is why the human species is relativelty backward compared to advanced alien species like the Grays, Anunnaki, and Essassani.
+Around 82% of people in the United States have Rh-positive blood, making Rh-negative blood relatively rare. This is why the human species is relativelty backward compared to advanced alien species like the Grays, Anunnaki, and Sassani.
 
 This creates 8 main blood types:
 

@@ -1,9 +1,10 @@
 ---
 title: "Hybrids"
 weight: 70
-image: "/photos/physics/punch.jpg"
+image: "/photos/alien/sassani.jpg"
 description: "Bashar answers Questions about Health"
 ---
+
 
 
 Race | Description

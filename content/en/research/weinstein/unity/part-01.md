@@ -3,11 +3,13 @@ title: "Abstract"
 description: ""
 c: "darkgoldenrod"
 weight: 4
+a: "Eric Weinstein"
 date: 2021-04-01
 ---
 
 
 technicalfeedback@geometricunity.org
+
 generalfeedback@geometricunity.org
 
 

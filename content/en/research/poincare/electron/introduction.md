@@ -1,7 +1,7 @@
 ---
 title: Introduction
 weight: 2
-# date: 2022-02-28
+date: 2022-02-28
 description: The aberration of light and the related optical and electrical phenomena seems to provide us a means of determining the absolute motion of the Earth
 c: "darkgoldenrod"
 author: "H. Poincare"

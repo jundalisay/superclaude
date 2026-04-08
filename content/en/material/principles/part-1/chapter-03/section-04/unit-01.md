@@ -80,7 +80,7 @@ The only way to make AI truly intelligent is by giving it direct access to the A
 
 We call this Autonomous Natural Intelligence or ANI. This is already done by UFOs which connect to the minds of their alien operators. 
 
-The UFO itself is a computer that uses the flow of light (optical quantum computing) within its frame. This is why Bob Lazar says that there were no wires or circuits in the UFO that he worked on. This is supported by the Essassani who say that their ships have a mental connection to its pilot. 
+The UFO itself is a computer that uses the flow of light (optical quantum computing) within its frame. This is why Bob Lazar says that there were no wires or circuits in the UFO that he worked on. This is supported by the Sassani who say that their ships have a mental connection to its pilot. 
 
 This can be done through channels in metals and glass that uses light, instead of the modern way of using electrons through wires. For example, current quantum computers use electrons via superconductors and nanowires. This wrong approach is why quantum computing, like nuclear fusion are not realized yet.
 

@@ -12,7 +12,7 @@ Sugar is toxic or not depending on the refinement process
 Food should be consumed in moderation.
 
 
-The Essassani no longer need to eat or sleep as:
+The Sassani no longer need to eat or sleep as:
 - they get their energy from their planet and the cosmos. 
 - their own vibrational state amplifies and magnifies the energy that they get, leading to free energy 
 

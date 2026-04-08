@@ -3,17 +3,22 @@ heading: "Part 5.2"
 title: "Infinite Dimensional Function Spaces: A, H, N"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 28
 date: 2021-04-01
 ---
 
 
 The so-called Gauge Group of automorphisms of PH is defined to be:
 
+```
 H = Γ∞(PH ×Ad H) (5.3)
+```
 
 where the space of connections for PH
+
+```
 A = Conn(PH) (5.4)
+```
 
 is an affine space modeled on the right H-module
 
@@ -35,9 +40,8 @@ is an H-equivariant map of right H-spaces.
 
 The reliance on affine Minkowski Space together with its Lorentz and Poincare
 symmetry groups is somewhat curious in the presence of General Relativity.
-Yet given the success of analysis on affine space we are given to speculate that
-fundamental physics may in fact be reliant on an affine space as more than an
-approximation or pedagogical aid.
+
+Yet given the success of analysis on affine space we are given to speculate that fundamental physics may in fact be reliant on an affine space as more than an approximation or pedagogical aid.
 
 
 The gauge group H can be augmented (in analogy to the Lorentz Group
@@ -94,38 +98,25 @@ applied to the inverse element ε
 
 ## 5.5 Fermions and SUSY
 
-Super-symmetry has a curious status within both Mathematics and Physics. It
-is both incredibly natural by some measures, as well as being rather artificial
-by others. It is not a true symmetry, its ‘integrals’ are not real integrals, and
-its ‘dimensions’ are not true dimensions. Nevertheless, the dictionary between
-Bosonic and Fermionic constructions is astounding (at least to us). This is
-interpreted by the author as consistent with a signature of a problem where
-Super-symmetry is likely very important but somehow thoroughly misinstantiated by its often fanatical proponents compensating for its failure to materialize
-in any physical experiment.
+Super-symmetry has a curious status within both Mathematics and Physics. It is both incredibly natural by some measures, as well as being rather artificial by others. 
 
-If super-symmetry is taken to be natural, then surely so-called super-space is
-its most natural representation by an action. Here, it seems that affine nature of
-Galilean transformations gives us an interpretation for super-symmetric charges
-as the square roots of affine translations.
+It is not a true symmetry, its ‘integrals’ are not real integrals, and its ‘dimensions’ are not true dimensions. Nevertheless, the dictionary between Bosonic and Fermionic constructions is astounding (at least to us). This is interpreted by the author as consistent with a signature of a problem where Super-symmetry is likely very important but somehow thoroughly misinstantiated by its often fanatical proponents compensating for its failure to materialize in any physical experiment.
 
-Yet, knowing that Minkowski space is simply an approximation to non-affine
-spaces is somewhat discouraging if we are to build an entire theory that leans
-so heavily on flat translations when both non-trivial geometry and topology
-threaten to significantly complicate the picture. By contrast, the affine space of
-gauge potentials is intrinsically affine in nature no matter what the geometry
-and topology are on which those potentials live. This is why we find it more
-appealing to see Fermionic ν and ζ as potential square roots of the as-if Galilean
-group N = Ω1
-(Y, ad). 
+If super-symmetry is taken to be natural, then surely so-called super-space is its most natural representation by an action. Here, it seems that affine nature of Galilean transformations gives us an interpretation for super-symmetric charges as the square roots of affine translations.
+
+Yet, knowing that Minkowski space is simply an approximation to non-affine spaces is somewhat discouraging if we are to build an entire theory that leans so heavily on flat translations when both non-trivial geometry and topology threaten to significantly complicate the picture. By contrast, the affine space of gauge potentials is intrinsically affine in nature no matter what the geometry and topology are on which those potentials live. This is why we find it more appealing to see Fermionic ν and ζ as potential square roots of the as-if Galilean group N = Ω1 (Y, ad). 
+
+Figure 4: ”Is the Electron a Square Root of a Photon?”
 
 This is also theoretically appealing as the concept of
 electrons and positrons being some kind of square roots of photons is potentially
-very appealing given the role of Feynman diagrams in perturbation theory. The
-Figure 4: ”Is the Electron a Square Root of a Photon?”
-general rubric here is that expressions like (¯ν · ζ) can be given meaning directly
+very appealing given the role of Feynman diagrams in perturbation theory. 
+
+The general rubric here is that expressions like (¯ν · ζ) can be given meaning directly
 as elements of N while expressions like ¯ζa · ζb are harder to directly interpret as
 translations without more machinery as they do not initially land in the proper
 space N and would have to be moved in gauge-covariant fashion.
+
 We may return to this in future work but do not wish to say much more as
 the subject of modern SUSY is rather delicate given the steadfast failure of its
 predicted space-time superpartners to materialize. We note however that the
@@ -135,6 +126,7 @@ In a theory such as GU, there is no internal symmetry. Ergo, the (infinite dimen
 superpartners would not need to have the same internal quantum numbers anymore than they would need to carry the same space-time spins. 
 
 If the universe is GU like rather than Standard-Model like, are the superpartners we seek already here and based on an affine space different from space-time with no-internal symmetry of which to speak?
+
 
 ## 5.6 Relationship of the Inhomogeneous Gauge Group to Standard Analysis
 

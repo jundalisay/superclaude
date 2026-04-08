@@ -4,6 +4,8 @@ title: General Formula Of Dynamics For The Motion Of A System Of Bodies Animated
 description: 
 c: firebrick
 weight: 21
+a: "Lagrange"
+date: 2026-03-18
 ---
 
 

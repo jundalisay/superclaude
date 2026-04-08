@@ -181,4 +181,4 @@ These are natural portals that, when accesssed by timespace, can allow matter to
 
 These can be recreated artificially by electro-aetherically enlarging the aetherspace that is already in matter. 
 
-When enlarged as to wrap around matter, it creates a vortex that can let the matter tunnel through to another spacetime.  This is how UFOs travel vast distances, as explained by Bob Lazar and the Essassani. -->
+When enlarged as to wrap around matter, it creates a vortex that can let the matter tunnel through to another spacetime.  This is how UFOs travel vast distances, as explained by Bob Lazar and the Sassani. -->

@@ -87,7 +87,7 @@ So we pinned it down to **resistance to change**, something that is common in th
 
 In our case, talking to old physicists made us realize how slow or limited their thinking process and scope was. As if they had no more mental energy nor excitement to go through new ideas. 
 
-This is consistent with the resistance to adopting new systems like Buddhism or Taoism, Chinese Medicine or Ayurveda, and alien politics involving Grays, Anunnaki, Essassani, etc.
+This is consistent with the resistance to adopting new systems like Buddhism or Taoism, Chinese Medicine or Ayurveda, and alien politics involving Grays, Anunnaki, Sassani, etc.
 
 The big problem is that global warming, food insecurity, nuclear radation (from Fukushima and a possible nuclear war), and the lack of nuclear fusion are all glaring signs that Physics has failed to deliver. This is different from Computer and Data Science which has brought the internet, mobile devices, and awesome AI. 
 

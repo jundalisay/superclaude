@@ -4,6 +4,8 @@ title: The 4 Principles of Dynamics
 description: 
 c: firebrick
 weight: 7
+a: "Lagrange"
+date: 2026-03-18
 ---
 
 

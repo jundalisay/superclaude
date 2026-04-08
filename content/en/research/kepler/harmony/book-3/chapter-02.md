@@ -59,7 +59,7 @@ Therefore, it is in identical consonance with each one of them, by Proposition 1
 
 Therefore there are 3 consonances*. Hence, by definition the string is divided harmonically.
 
-{{< n n="In Essassani talk, this is the trinity. In Superphysics and Hinduism, this is the 3 gunas or influences" >}}
+{{< n n="In Sassani talk, this is the trinity. In Superphysics and Hinduism, this is the 3 gunas or influences" >}}
 
 
 #### Proposition 10: The division of a string into 2 parts which are in double proportion is harmonic

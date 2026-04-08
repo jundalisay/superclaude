@@ -61,7 +61,7 @@ Material | som2 | Gluon or Strong Force -->
 
 ### The Spatial Layer has Different Dynamics in Other Universes
 
-In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.
+In one of the Sassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.
 
 To explain this, we say that in our galaxy, mos3 are arranged with particles facing outwards. This causes material spheres.
 

@@ -2,7 +2,7 @@
 title: "The Metaphysics of the Reality you Desire"
 weight: 77
 image: "/photos/physics/light.jpg"
-description: "The Metaphysics followed by the Essassani"
+description: "The Metaphysics followed by the Sassani"
 author: Consolidated from Bashar
 ---
 

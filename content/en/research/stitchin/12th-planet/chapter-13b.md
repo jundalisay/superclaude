@@ -99,7 +99,7 @@ Standing to the side is another Great God; we suggest that he was Enlil. His ang
 
 We shall never know what caused this "conflict in the Garden of Eden."* But whatever Enki's motives were, he did succeed in perfecting the Primitive Worker and in creating Homo sapiens, who could have his own offspring. 
 
-{{< n n="The Essassani explain that the Anunnaki were not supposed to have created humans in the first place. That's why Enki and his creations were punished" >}}
+{{< n n="The Sassani explain that the Anunnaki were not supposed to have created humans in the first place. That's why Enki and his creations were punished" >}}
 
 
 After Man's acquisition of "knowing," the Old Testament ceases to refer to him as "the Adam," and adopts as its subject Adam, a specific person, the first patriarch of the line of people with whom the Bible was concerned. 

@@ -6,7 +6,9 @@ c: "darkslategray"
 description: "FAQ on Bio Superphysics"
 a: "Bio Superphysics"
 icon: "Bio Superphysics"
-youtube: "klka8xfvMDY"
+youtube: "yhD-Kb_bRBY"
+# adPQAffGXG8
+# "klka8xfvMDY"
 ---
 
 
@@ -23,8 +25,6 @@ It's the implementation of Superphysics for living beings. It's based on Cartesi
 Both aspects use the 5 Elements model as Aether, Air, Fire, Water, and Earth.  
 {{< /l >}}
 
-
-{{< youtube adPQAffGXG8 >}}
 
 
 {{< r a="Asker" >}}

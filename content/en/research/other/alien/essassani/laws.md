@@ -2,12 +2,12 @@
 title: "The 5 Laws of Existence"
 weight: 68
 image: "/photos/meta/god.jpg"
-description: "The Essassani gave 5 Laws of Existence"
+description: "The Sassani gave 5 Laws of Existence"
 ---
 
 
 
-The Essassani gave 5 Laws of Existence:
+The Sassani gave 5 Laws of Existence:
 
  <!-- which we put into the Superphysics 5 Layer Model: -->
 
@@ -38,7 +38,7 @@ This mirrors the Hindu concept of Karma. We put it in the Convertible Layer whic
 
 ## 5. Everything Changes Except the Four Laws 
 
-This was only added by the Essassani after noticing that the first 4 laws were not enough for some civilizations. 
+This was only added by the Sassani after noticing that the first 4 laws were not enough for some civilizations. 
 
 
 <!-- (Material Layer)

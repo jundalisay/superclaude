@@ -1,17 +1,21 @@
+---
+heading: "Part 10"
+title: "Deformation Complex"
+description: ""
+c: "darkgoldenrod"
+weight: 46
+date: 2025-05-30
+---
 
-10 Deformation Complex
 
-The expected way to have our field equations arise naturally as the obstruction
-to a cohomology theory, is to first ask about the moduli space of solutions to
+The expected way to have our field equations arise naturally as the obstruction to a cohomology theory, is to first ask about the moduli space of solutions to
 the equations. That is, if ω
 
 represents a solution to the equations of motion
 with Υω∗ = 0, in what are essentially different directions, may we perturb ω
 
-to obtain new solutions? To that end we begin first with the purely Bosonic
-fields on Y and linearize our Tedhe action of the gauge group H on the group
-G = H n N via the τ0 homomorphism by linearizing both the groups and the
-exponential map of the action:
+to obtain new solutions? To that end we begin first with the purely Bosonic fields on Y and linearize our Tedhe action of the gauge group H on the group
+G = H n N via the τ0 homomorphism by linearizing both the groups and the exponential map of the action:
 
 <!-- δ
 ω

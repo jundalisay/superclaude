@@ -4,6 +4,7 @@ title: The general law of equilibrium
 description: 
 c: firebrick
 date: 2026-03-18
+a: "Lagrange"
 weight: 15
 ---
 

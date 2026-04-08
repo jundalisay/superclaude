@@ -39,7 +39,7 @@ This does not need to be a house. It has to be beneficial. You have to be able t
 
 You need to have a relationship with someone or something. This something can be animals, plant, a rock, etc. There should be connection with it.  
 
-The Essassani no longer need to eat or sleep because they are always connected to everything. You connect with whatever helps you who you really are. 
+The Sassani no longer need to eat or sleep because they are always connected to everything. You connect with whatever helps you who you really are. 
 
 
 7. Creative Expression 

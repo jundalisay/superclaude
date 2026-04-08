@@ -1,9 +1,9 @@
 ---
-title: "Translating Essassani To Cartesian"
+title: "Translating Sassani To Cartesian"
 date: 2026-01-20
 image: /photos/objects/ufo.jpg
 c: firebrick
-description: "Here we match the 4 Laws of Existence of the Essassani with the 4 Properties of Waves that we derived from Descartes' Physics"
+description: "Here we match the 4 Laws of Existence of the Sassani with the 4 Properties of Waves that we derived from Descartes' Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,12 +14,12 @@ writer:
 
 Our principles are derived from the enlightenment eras of the Greeks, French, British, Arabs, and Asians.
 
-To prove that they are universal, we compare them with those advanced aliens such as the Essassani, Grays, and Anunnaki (from the Bible and Sumerian texts). 
+To prove that they are universal, we compare them with those advanced aliens such as the Sassani, Grays, and Anunnaki (from the Bible and Sumerian texts). 
 
-Here we match the 4 Laws of Existence of the Essassani with the 4 Properties of Waves that we derived from Descartes' Physics:
+Here we match the 4 Laws of Existence of the Sassani with the 4 Properties of Waves that we derived from Descartes' Physics:
  
 
-**Wave Property** | **Essassani Law**
+**Wave Property** | **Sassani Law**
 --- | ---
 Commonality | You exist
 Density | Everything is here and now

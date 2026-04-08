@@ -126,7 +126,7 @@ Kalá is followed by further formation of curvatures one after another.
 
 In fact, the difference goes on increasing as the wavelength continues to decrease.*
 
-{{< n n="This decrease in wavelength leads to the physical expansion of the universe according to Essassani theory">}} 
+{{< n n="This decrease in wavelength leads to the physical expansion of the universe according to Sassani theory">}} 
 
 
 This sequence of curvatures is known as sadrsha parińáma. 

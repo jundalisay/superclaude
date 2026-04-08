@@ -1,13 +1,13 @@
 ---
 title: "Philosopher Timeline"
 date: 2026-03-13
-# image: /photos/objects/mobile.jpg
+image: /photos/people/descartes.jpg
 c: darkslategray
 description: "We plot the lifetimes of Western philosophers, adding Mao and Hirohito"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: "Juan"
+icon: "Juan"
 ---
 
 

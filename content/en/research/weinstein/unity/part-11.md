@@ -1,19 +1,22 @@
+---
+heading: "Part 11"
+title: "Observed Field Content"
+description: ""
+c: "darkgoldenrod"
+weight: 48
+date: 2025-05-30
+---
 
 
-
-11 Observed Field Content
 
 One of the features that arises when doing away with the primary nature of
 space-time and replacing a single metric space with a tension between two separate but related spaces linked by metrics, is that we find ourselves in the novel situation where must relate fields that are native to different spaces. The principal means of doing this is via the pull back operation. 
 
-To interpret differential equations governing fields native to Y back on X means pulling back not only
-bundles but so-called Jets or Sprays of sections on Y . But, to begin with, we
-can simply analyze the zeroth order of the activity on Y by pulling back bundles
-via the ג
+To interpret differential equations governing fields native to Y back on X means pulling back not only bundles but so-called Jets or Sprays of sections on Y . But, to begin with, we can simply analyze the zeroth order of the activity on Y by pulling back bundles via the ג
 
 ∗ operation derived from making a metric observation of Y by X.
-To begin with, let us detach from the spaces TxX to general metric vector
-spaces W in even dimensions to say a few words about direct sums and tensor
+
+To begin with, let us detach from the spaces TxX to general metric vector spaces W in even dimensions to say a few words about direct sums and tensor
 products of defining and spin representations for Spin(W).
 
 

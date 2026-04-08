@@ -3,7 +3,7 @@ heading: "Part 8"
 title: "The Family of Shiab Operators"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 40
 date: 2025-05-30
 ---
 

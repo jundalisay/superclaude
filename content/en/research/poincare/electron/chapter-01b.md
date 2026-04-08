@@ -295,12 +295,14 @@ substantially the same value for all points of the electron. The potentials ψ, 
 position of the electron and also its velocity, because not only ξ1, η1, ζ1 show up in the numerator
 of F, G, H, but the radial component ω shows up in the denominator. It is of course its position
 and its velocity at the instant t1.
+
 The partial derivatives of φ, F, G, H with respect to t, x, y, z (and therefore the electric and
 magnetic fields) will also depend on its acceleration. Moreover, they depend linearly, since the
 acceleration in these derivatives is introduced as a result of a single differentiation.
 Langevin was thus led to distinguish the electric and magnetic field terms which do not depend
 on the acceleration (this is what he calls the velocity wave) and those that are proportional to
 acceleration (that is what he calls the acceleration wave).
+
 The calculation of these two waves is facilitated by the Lorentz transformation. Indeed, we can
 apply this transformation to the system, so that the velocity of the single electron underconsideration becomes zero. We will use for the x-axis the direction of the velocity before the
 transformation, so that, at the instant t1,
@@ -320,6 +322,7 @@ electric field, and the electric field is directed to the point:
 (5)If the electron continues to move in a rectilinear and uniform way with the velocity it had at the
 instant t1, that is to say, with the velocity -ε, 0, 0, the point (5) would be the one occupied at the
 instant t.
+
 Taking the acceleration wave, we can, through the Lorentz transformation, reduce its
 determination to the case of zero velocity. This is the case if we imagine an electron whose
 oscillation amplitude is very small, but very fast, so that the displacements and velocities are
@@ -891,22 +894,9 @@ the order ξ2, that is to say, 10000 times smaller when it were of order ξ, tha
 propagation happens with the speed of light, ceteris non mutatis; it is permissible to hope that it
 will not be too great. But only a thorough discussion will be able to teach it to us.
 Paris, July 1905.
+
 H. Poincaré
 1. Langevin was preceded by M. Bucherer from Bonn, who had put forward the same theory
 before. (See: Bucherer, Mathematische Einführung in die Elektronentheorie; August 1904.
 Teubner, Leipzig).
-This work is a translation and has a separate copyright status to the applicable copyright
-protections of the original content.Original:
-This work was published before January 1, 1927, and is in the public domain
-worldwide because the author died at least 100 years ago.
-This work is released under the Creative Commons Attribution-ShareAlike
-Translation:
-3.0 Unported license, which allows free use, distribution, and creation of
-derivatives, so long as the license is unchanged and clearly noted, and the
-original author is attributed.
-Retrieved from
-"https://en.wikisource.org/w/index.php?
-title=Translation:On_the_Dynamics_of_the_Electron
-_(July)&oldid=10817513"
-Last edited 1 year ago by ShakespeareFan00
-Wikisource
+

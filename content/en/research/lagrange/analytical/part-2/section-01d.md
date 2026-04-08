@@ -1,9 +1,11 @@
 ---
 heading: Section 1d
-title: Daniel Bernoulli; Inertia
+title: "Daniel Bernoulli; Inertia"
 description: 
 c: firebrick
 weight: 16
+a: "Lagrange"
+date: 2026-03-18
 ---
 
 

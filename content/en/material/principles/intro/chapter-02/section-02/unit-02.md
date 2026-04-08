@@ -79,4 +79,4 @@ Living things are 3rd density and so can experience time as the 4th dimension.
 
 Humans are 4th density and so can experience 5th dimension as alternate realities, validated through deja vu, clairvoyance, clairsentience, bilocation, telekinesis, etc. 
 
-Advanced beings, such as the Essassani, are 5th density and so can experience different universes including non physical ones. 
+Advanced beings, such as the Sassani, are 5th density and so can experience different universes including non physical ones. 

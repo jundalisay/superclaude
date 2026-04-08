@@ -2,11 +2,9 @@
 title: "Follow your excitement"
 weight: 47
 image: "/photos/psych/freedom.jpg"
-description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
+description: "The Sassani mantra is to 'Follow your excitement' and 'So what?'"
 author: Consolidated from Bashar
 ---
-
-
 
 
 ## Finding your Purpose in Life

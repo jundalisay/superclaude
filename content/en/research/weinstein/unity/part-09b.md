@@ -1,17 +1,18 @@
+---
+heading: "Part 9"
+title: "Lagrangians"
+description: ""
+c: "darkgoldenrod"
+weight: 44
+date: 2025-05-30
+---
 
 
+## 9.2 Second Order Euler-Lagrange Equations
 
-9.2 Second Order Euler-Lagrange Equations
+One of the Claims of Geometric Unity is that we have been unsuccessful in Unifying the four basic equations for Gravity, Non-Gravitational force, Matter and Higgs phenomena because they belong to a Dirac Pair.
 
-One of the Claims of Geometric Unity is that we have been unsuccessful in
-Unifying the four basic equations for Gravity, Non-Gravitational force, Matter
-and Higgs phenomena because they belong to a Dirac Pair. That is, we believe
-that the Einstein and Dirac equations belong to a unifying equation which is
-in the sense of Dirac something of a square root of a different equation or
-Lagrangian related to the Yang-Mills-Maxwell equation and the Higgs version
-of the Klein-Gordon equation. Thus we should seek to unifying our equations
-and Lagrangians much the way Dirac unified first and second order equations
-with his masterstroke To this end we focus on second Lagrangian of 2nd order:
+That is, we believe that the Einstein and Dirac equations belong to a unifying equation which is in the sense of Dirac something of a square root of a different equation or Lagrangian related to the Yang-Mills-Maxwell equation and the Higgs version of the Klein-Gordon equation. Thus we should seek to unifying our equations and Lagrangians much the way Dirac unified first and second order equations with his masterstroke To this end we focus on second Lagrangian of 2nd order:
 
 <!-- I
 B
@@ -198,4 +199,3 @@ to get a Lagrangian Cohomology theory of at least two steps:
 1 = 0 (9.22) -->
 
 of a geometrically meaningful cohomology complex.
-

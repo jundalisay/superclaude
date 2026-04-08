@@ -132,7 +132,7 @@ Those genealogies that you mentioned are no better than the tales of children be
 
 **But there were many previous ones** *
 
-{{< n n="According to the Essassani, this meteor shower hit the earth twice a year for 20 years until the final main comet hit. This allowed the Atlanteans to emigrate to try to survive. Some of them went to Europe, Africa, the Americas, and Egypt. The Egyptians (and the Jews via Noah) are therefore actually Atlantean survivors" >}}
+{{< n n="According to the Sassani, this meteor shower hit the earth twice a year for 20 years until the final main comet hit. This allowed the Atlanteans to emigrate to try to survive. Some of them went to Europe, Africa, the Americas, and Egypt. The Egyptians (and the Jews via Noah) are therefore actually Atlantean survivors" >}}
 
 
 2. You do not know that there formerly dwelt in your land the fairest and noblest race of men which ever lived*, and that you and your whole city are descended from a small seed or remnant of them which survived. 

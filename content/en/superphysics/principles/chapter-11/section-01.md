@@ -88,7 +88,7 @@ The effects of Islam are very inconsistent, with Arabian countries prospering wi
 
 The only way to explain the weirdness of the Judeo-Christian God is to connect it to the **Anunnaki** which is the alien species that created humans. This connects the Bible, Torah, and Quran to the texts of the Babylonians and Sumerians, since reality is a continuous wave. 
 
-The Anunnaki are physical beings and so are Negative, and has already been explained by both the ancient Sumerian texts and the ['modern' Essassani](https://www.youtube.com/watch?v=ji9rMw37o2M). 
+The Anunnaki are physical beings and so are Negative, and has already been explained by both the ancient Sumerian texts and the ['modern' Sassani](https://www.youtube.com/watch?v=ji9rMw37o2M). 
 
 
 ![Anunnaki](/photos/medieval/anu.jpg)

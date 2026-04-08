@@ -3,7 +3,7 @@ heading: "Part 3.6"
 title: "The Main Principal Bundle"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 20
 date: 2021-04-01
 ---
 
@@ -21,8 +21,7 @@ Gl(64, R)
 Spin(7, 7)
 (3.29) -->
 
-where we are privileging one particular path up the diagram that contains the
-metric and unitary representations:
+where we are privileging one particular path up the diagram that contains the metric and unitary representations:
 
 <!-- Spin(7, 7) −→ SL(64, R) −→ SO(64, 64) −→ U(64, 64) −→ GL(128, C) (3.30) -->
 
@@ -56,18 +55,15 @@ Ad = Ad(PH) = PH ×Ad U(64, 64) = PH ×Ad H (3.35)
 /S = PH ×%D C
 64,64 = PH ×%D /S (3.36) -->
 
-4Note: The symbol H is being used to denote two different objects. A group and a horizontal vector space. This is unfortunate and may be rectified in future drafts.
 
-Now the important thing to notice about this construction is that while it looks
-geometric in nature due to the presence of Spin groups and representations, it
-is in fact purely Topological as no metric has been chosen. In fact, all that has
-been chosen is the signature of a (1, 3)-metric and one can avoid even this by
+Note: The symbol H is being used to denote two different objects. A group and a horizontal vector space. This is unfortunate and may be rectified in future drafts.
+
+The important thing to notice about this construction is that while it looks geometric in nature due to the presence of Spin groups and representations, it is in fact purely Topological as no metric has been chosen. In fact, all that has been chosen is the signature of a (1, 3)-metric and one can avoid even this by
 working over all 5 distinct sectors {(i, 4 − i)}
 
 i=0 on X4 and merely noting that
 
-we happen to appear to exist within one of them carrying a Lorentz signature
-by anthropic reasoning.
+we happen to appear to exist within one of them carrying a Lorentz signature by anthropic reasoning.
 
 We may fairly ask what a topological /S(CY ) Spinor looks like when ‘observed’ from X4. The concept of an observation is of course built into the definition of the Observerse as a map ι observing Y from X via pullback.
 
@@ -146,4 +142,3 @@ diagram, the Levi-Civita Construction, or the splitting diagram above.
 so that its introduction has a fairly violent effect in moving us from topology to true geometry. Curiously, it is the only primary field in the theory that is truly native to X.
 
 As such we will use Hebrew letters gimel (ג (and aleph ℵ and denote our immersion ι in the Einsteinian Observerse by ι = ג and its associated connections by ℵג to remind ourselves of the separation between fields native to X and those arising naturally on Y .
-

@@ -173,7 +173,7 @@ Name | Physical Example
 soc1 (upper neutron) | ?
 soc3 (lower neutron) | Neutron weapons (Lazar from Grays)
 som1 (upper proton) | Element 115 (Lazar from Grays)
-som3 (lower proton) | Indestructible metals (Essassani)
+som3 (lower proton) | Indestructible metals (Sassani)
 
 
 

@@ -67,7 +67,7 @@ Physical instruments and detectors only detect up to the Electromagnetic Force (
 
 The problem is that modern humans have become heartless as to allow colonialism, capitalism, communism, the World Wars, atomic bombs on Japan, the Gaza Genocide, etc.
 
-And so the knowledge of chi and the aether has died out in this heartless environment. Ask any physicist about making the feelings of the heart as the basis for Physics and he will think of you as a crackpot. But this is exactly what advanced alien races like the Essassani and Sirians do, and so they are able to explore the universe, while heartless humans stay stuck on Earth. 
+And so the knowledge of chi and the aether has died out in this heartless environment. Ask any physicist about making the feelings of the heart as the basis for Physics and he will think of you as a crackpot. But this is exactly what advanced alien races like the Sassani and Sirians do, and so they are able to explore the universe, while heartless humans stay stuck on Earth. 
 
 Levitators harness chi for levitation by diverting the chi away from its normal course towards the brain. 
 - Instead, they route it to wherever their soul wants.

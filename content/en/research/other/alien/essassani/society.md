@@ -7,7 +7,7 @@ author: Consolidated from Bashar
 ---
 
 
-{{< n n="The Essassani do have a government and a moneyless economic system that seems to be totally telepathic" >}}
+{{< n n="The Sassani do have a government and a moneyless economic system that seems to be totally telepathic" >}}
   
 
 Unity in a society does not come from conformity.
@@ -29,6 +29,6 @@ There are only 300,000-500,000 oversouls on Earth even if there are billions of 
 
 Governments were created to protect society from danger and was from a fear-based feeling.
 
-The Essassani detect that humans will be less fearful. And so governments will switch from controlling organizations into organizational ones. 
+The Sassani detect that humans will be less fearful. And so governments will switch from controlling organizations into organizational ones. 
 
 

@@ -63,7 +63,7 @@ This has advantages over the Periodic Table:
 
 - It drops arbitrary names such as Einsteinium and Californium for numerical ones like "6" for carbon, so that CO2 is 6-8(2) pronounce six-eight-duo. In this way, people just need to memorize the atomic number. 
 - The relationships of the compounds become more intuitive. For example, the magnetic metals form recurring rings, while the groups form spirals  
-- This associates numbers and shapes in the mind. This is a critical step in transitioning from math to qualimath which aligns with Essassani math which only has shapes and no numbers. This is because the aether is best described as a fluffy vibrating white cloud with no defined edges (that's how I saw it anyway in my meditation). 
+- This associates numbers and shapes in the mind. This is a critical step in transitioning from math to qualimath which aligns with Sassani math which only has shapes and no numbers. This is because the aether is best described as a fluffy vibrating white cloud with no defined edges (that's how I saw it anyway in my meditation). 
 
 
 {{< i s="/graphics/physics/butane.jpg" a="Butane" c="Butane as C4 H10 becomes 6(4)-1(10) or six-quad-one-decad" >}}

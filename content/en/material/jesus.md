@@ -47,7 +47,7 @@ Jesus' Cosmology Model can thus boost Kepler's advocacy to use star-data to pred
 
 ### Update July 2025
 
-The capacity of stars to affect physical reality is also evidenced by the Essassani who talk about the influence of the Orion star system on Earth starting 6,000 years ago that caused the ancient conflicts in the Middle East as well as modern Nazism, and by PR Sarkar who talked about Magha star causing the Nazi oppression and World War 2. And so logically, the Magha star is in the Orion system. 
+The capacity of stars to affect physical reality is also evidenced by the Sassani who talk about the influence of the Orion star system on Earth starting 6,000 years ago that caused the ancient conflicts in the Middle East as well as modern Nazism, and by PR Sarkar who talked about Magha star causing the Nazi oppression and World War 2. And so logically, the Magha star is in the Orion system. 
 
 
 {{< youtube rKCipBinUFw >}}

@@ -8,19 +8,19 @@ featured: true
 ---
 
 
-The Sassani are an advanced 5th dimensional alien species from the planet Essassani in the Shah star system near Orion's belt in a parallel reality.
+The Sassani are an advanced 5th dimensional alien species from the planet Sassani in the Shah star system near Orion's belt in a parallel reality.
 
 They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
-{{< i s="/graphics/bio/essassani.jpg" a="Essassani" c="This symbol is the Essassani phone number that you meditate on before you sleep while thinking of the Orion system so hopefully you will dream about them i.e meet them in the astral dimension" >}}
+{{< i s="/graphics/bio/essassani.jpg" a="Sassani" c="This symbol is the Sassani phone number that you meditate on before you sleep while thinking of the Orion system so hopefully you will dream about them i.e meet them in the astral dimension" >}}
 
 
-<!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
+<!-- Even the Pleiadians look up to the Sassani civilization as being exceptionally spiritually-advanced*. -->
 
 {{< d t="Superphysics Note" >}}
 Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Sassani maxims, such as 'believing is seeing' caught our attention. 
 
-(We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
+(We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Sassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
 
 However, no one seems to be keen enough to notice that **their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans**.
 
@@ -144,9 +144,9 @@ The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe
 
 
 
-<!-- Initially I was confused at how the 7 densities of the Essassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Essassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
+<!-- Initially I was confused at how the 7 densities of the Sassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Sassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
 
-I realized it's because the Essassani are already unified and based on 4th density, making it their frame of reference. On the contrary, humans are still dis-integrated and based on matter (i.e. we need to eat material food instead of getting the pranah from the aether like the Esssassani do). This makes the 1st density as our frame of reference. We are still struggling to discover gravitation and have compassion for all, just as the Essassani are struggling to settle in non-physicality. The massacres in Ukraine and mass extinction are proofs that humans are still far from leaving 1st density. Their theory is that we can rubber band from 1st to 4th, but never explain how it might happen. -->
+I realized it's because the Sassani are already unified and based on 4th density, making it their frame of reference. On the contrary, humans are still dis-integrated and based on matter (i.e. we need to eat material food instead of getting the pranah from the aether like the Esssassani do). This makes the 1st density as our frame of reference. We are still struggling to discover gravitation and have compassion for all, just as the Sassani are struggling to settle in non-physicality. The massacres in Ukraine and mass extinction are proofs that humans are still far from leaving 1st density. Their theory is that we can rubber band from 1st to 4th, but never explain how it might happen. -->
 
 
 ## The Sassani Formula

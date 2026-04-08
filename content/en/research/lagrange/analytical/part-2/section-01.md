@@ -4,6 +4,8 @@ title: Dynamics
 description: 
 c: firebrick
 weight: 4
+a: "Lagrange"
+date: 2026-03-18
 ---
 
 

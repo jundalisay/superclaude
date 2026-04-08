@@ -1,7 +1,7 @@
 ---
 title: "Relationships"
 weight: 106
-image: "/photos/social/family.jpg"
+image: "/photos/alien/telepathy.jpg"
 description: ""
 ---
 

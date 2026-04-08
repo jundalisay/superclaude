@@ -127,7 +127,7 @@ Ancient Greek | The One | The Whole or The Other
 Hindus | Nirguna Brahma | Saguna Brahma
 Buddhists | Sunya | Brahma 
 Taoism | Tao | tao 
-Essassani | The One | All There Is
+Sassani | The One | All There Is
 
 
 

@@ -3,7 +3,7 @@ heading: Section 1c
 title: The Composition of Forces
 description: 
 c: firebrick
-# image: "/covers/lagrange.jpg"
+a: "Lagrange"
 date: 2026-03-18
 weight: 8
 ---

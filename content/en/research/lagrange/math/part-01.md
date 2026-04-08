@@ -1,11 +1,10 @@
 ---
 heading: Lecture 1
-title: ARITHMETIC AND LOGARITHMS
+title: Arithmetic And Logarithms
 description: Arithmetic is divided into 2 parts
-image: "/covers/math.jpg"
+a: "Lagrange"
 date: 2022-06-25
 weight: 120
-draft: true
 ---
 
 
@@ -95,11 +94,15 @@ then have the fraction
 1
 .
 3 + ..
+
 as the expression of your ratio between the proposed length and
 the adopted measure.
+
 Fractions of this form are called continued fractions, and can
 be reduced to ordinary fractions by the common rules. Thus,
 if we stop at the first fraction, i.e., if we consider only the first
 remainder and neglect the second, we shall have 3 + 12 , which is
-equal to 72 . Considering only the first and the second remainders,
+equal to 72. 
+
+<!-- Considering only the first and the second remainders, -->
 
