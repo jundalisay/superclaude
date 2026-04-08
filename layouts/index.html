@@ -189,7 +189,7 @@
 </section>
 {{ end }}
 
-<section class="py-20 z-20 relative">
+<!-- <section class="py-20 z-20 relative">
   <div class="max-w-xl mx-auto px-6 text-center text-white">
     <h2 class="text-3xl font-bold mb-4">{{ i18n "stay_updated" }}</h2>
     <p class="text-teal-100 mb-8">{{ i18n "join_newsletter" }}</p>
@@ -201,7 +201,176 @@
       </button>
     </form>
   </div>
+</section> -->
+
+
+<section class="py-20 z-20 relative">
+  <div class="max-w-xl mx-auto px-6 text-center text-white">
+    <h2 class="text-3xl font-bold mb-4">{{ i18n "stay_updated" }}</h2>
+    <p class="text-teal-100 mb-8">{{ i18n "join_newsletter" }}</p>
+    
+    <!-- Form Container -->
+    <div id="newsletter-container">
+      <form id="newsletter-form" class="flex flex-col sm:flex-row gap-3">
+        <input 
+          type="email" 
+          name="email" 
+          id="newsletter-email"
+          placeholder="Your email address" 
+          required 
+          class="flex-1 px-6 py-4 rounded-xl bg-black/20 border border-white/20 text-white placeholder:text-teal-200 focus:outline-none focus:ring-2 focus:ring-white"
+        />
+        <input type="hidden" name="name" value="From SP Root" />
+        <button 
+          type="submit" 
+          id="newsletter-submit"
+          class="px-8 py-4 bg-white text-teal-900 font-bold rounded-xl hover:bg-teal-50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+        >
+          {{ i18n "subscribe" }}
+        </button>
+      </form>
+      
+      <!-- Loading State (hidden by default) -->
+      <div id="loading-state" class="hidden mt-4 text-center">
+        <div class="inline-flex items-center gap-2 text-teal-200">
+          <svg class="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+          <span>Processing...</span>
+        </div>
+      </div>
+      
+      <!-- Success Message (hidden by default) -->
+      <div id="success-message" class="hidden mt-4 p-4 bg-green-500/20 border border-green-500/50 rounded-xl text-green-300">
+        <div class="flex items-center gap-2 justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          <span>Thank you for subscribing! You'll receive updates soon.</span>
+        </div>
+      </div>
+      
+      <!-- Error Message (hidden by default) -->
+      <div id="error-message" class="hidden mt-4 p-4 bg-red-500/20 border border-red-500/50 rounded-xl text-red-300">
+        <div class="flex items-center gap-2 justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" x2="12" y1="8" y2="12"/>
+            <line x1="12" x2="12.01" y1="16" y2="16"/>
+          </svg>
+          <span id="error-text">Something went wrong. Please try again.</span>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('newsletter-form');
+  const submitBtn = document.getElementById('newsletter-submit');
+  const loadingState = document.getElementById('loading-state');
+  const successMessage = document.getElementById('success-message');
+  const errorMessage = document.getElementById('error-message');
+  const errorText = document.getElementById('error-text');
+  
+  if (!form) return;
+  
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    // Get form data
+    const formData = new FormData(form);
+    const email = formData.get('email');
+    
+    // Basic email validation
+    if (!email || !email.includes('@')) {
+      showError('Please enter a valid email address.');
+      return;
+    }
+    
+    // Hide previous messages
+    hideAllMessages();
+    
+    // Show loading state
+    showLoading(true);
+    
+    try {
+      // Get the action URL from the form or use a default
+      const actionUrl = '{{ .Site.Params.commentAction }}' || 'https://usebasin.com/f/1b4a37bd6049';
+      
+      // Submit the form via AJAX
+      const response = await fetch(actionUrl, {
+        method: 'POST',
+        body: formData,
+        headers: {
+          'Accept': 'application/json'
+        }
+      });
+      
+      // Check if submission was successful
+      if (response.ok || response.status === 200) {
+        showSuccess();
+        form.reset(); // Clear the form
+      } else {
+        throw new Error('Submission failed');
+      }
+      
+    } catch (error) {
+      console.error('Error submitting form:', error);
+      showError('Unable to subscribe. Please try again later.');
+    } finally {
+      showLoading(false);
+    }
+  });
+  
+  function hideAllMessages() {
+    successMessage.classList.add('hidden');
+    errorMessage.classList.add('hidden');
+  }
+  
+  function showLoading(show) {
+    if (show) {
+      loadingState.classList.remove('hidden');
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Subscribing...';
+    } else {
+      loadingState.classList.add('hidden');
+      submitBtn.disabled = false;
+      submitBtn.textContent = '{{ i18n "subscribe" }}';
+    }
+  }
+  
+  function showSuccess() {
+    successMessage.classList.remove('hidden');
+    // Auto-hide success message after 5 seconds
+    setTimeout(() => {
+      successMessage.classList.add('hidden');
+    }, 5000);
+  }
+  
+  function showError(message) {
+    errorText.textContent = message;
+    errorMessage.classList.remove('hidden');
+    // Auto-hide error message after 5 seconds
+    setTimeout(() => {
+      errorMessage.classList.add('hidden');
+    }, 5000);
+  }
+});
+</script>
+
+<style>
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+</style>
+
 
 <script>
   const canvas = document.getElementById('starfield');
