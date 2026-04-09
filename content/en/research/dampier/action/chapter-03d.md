@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3d"
-title: "Dampier in Vietnam"
+title: "Dampier in North Vietnam"
 author: William Clark Russell
 description: "Next day, Dampier and his associates purchased a canoe. They then passed over to the south end of the island, where they victualled their little boat with fruit loaves, cocoa-nuts, and fresh water"
 c: "darkslategray"
@@ -9,39 +9,71 @@ date: 2022-11-30
 
 
 
-Next day, Dampier and his associates purchased a canoe. They then passed over to the south end of the island, where they victualled their little boat with fruit loaves, cocoa-nuts, and fresh water, so that when the monsoon came on to blow they might be in readiness to sail for Acheen. 
+Next day, Dampier and his associates purchased a canoe. 
 
-It is consistent that a man who had traversed on foot the dangerous and poisonous Isthmus of Panama should parallel that accomplishment by a remarkable boat-voyage. The craft was a canoe of the size of a London wherry, deeper but not so broad, sharp after the whaling pattern at both ends, and so thin and light that when empty four men could lift her. She carried a mat-sail, and outriggers to prevent her from capsizing. 
+They then passed over to the south end of the island, where they victualled their little boat with fruit loaves, cocoa-nuts, and fresh water, so that when the monsoon came on to blow they might be ready to sail for Aceh [Indonesia]. 
 
-In this little ark Dampier and his shipmates embarked—eight men, four of whom were Malays—and started for Acheen on May 15th, 1688. 
+<!-- It is consistent that a man who had traversed on foot the dangerous and poisonous Isthmus of Panama should parallel that accomplishment by a remarkable boat-voyage. The craft was a  -->
 
-The breezes were light, the atmosphere sultry. Sometimes they rowed, sometimes left the sail to do its work, but at the end of two days, to their great mortification, they found the Island of Nicobar still in sight a little over twenty miles distant. On the 18th they remarked a great circle round the sun, an appearance that caused Dampier to suppose that bad weather was at hand. His foreboding was true; wind and sea rose, and but for the outriggers the canoe must have been swamped. 
+The canoe was as small as a London wherry, deeper but not so broad, sharp after the whaling pattern at both ends, and so thin and light that when empty four men could lift her. 
+- She carried a mat-sail, and outriggers to prevent her from capsizing. 
 
-Still the gale freshened, and there was nothing for it but to scud. There occurs here a characteristic passage. It reads like an extract from Robinson Crusoe, and nothing in all Dampier so conclusively proves the source whence Defoe drew the colours which he employed in the composition of his chief and most engaging work.
+In this little ark, Dampier and his shipmates embarked—eight men, four of whom were Malays—and started for Aceh on May 15, 1688. 
+
+The breezes were light, the atmosphere sultry.
+
+Sometimes they rowed, sometimes left the sail to do its work. But after 2 days, to their great mortification, they found the Island of Nicobar still in sight a little over 20 miles away.
+
+On the 18th they remarked a great circle round the sun, an appearance that caused Dampier to suppose that bad weather was at hand.
+
+<!-- His foreboding was true; wind and sea rose, and but for the outriggers the canoe must have been swamped. 
+
+Still the gale freshened, and there was nothing for it but to scud. There occurs here a characteristic passage. It reads like an extract from Robinson Crusoe, and nothing in all Dampier so conclusively proves the source whence Defoe drew the colours which he employed in the composition of his chief and most engaging work. -->
 
 “The Evening of this 18th day was very dismal. The Sky looked very black, being covered with dark Clouds, the Wind blew very hard, and the Seas ran very high. The Sea was already roaring in a white foam about us; a dark night coming on and no Land in sight to shelter us, and our little Ark in danger to be swallowed by every Wave; and what was worse for us all, none of us thought ourselves prepared for another World. 
 
-The Reader may better guess, than I can express, the Confusion that we were all in. I have been in many eminent Dangers before now, some of which I have already related, but the worst of them all was but a Play-Game in comparison with this. I must confess that I was in great Conflicts of Mind at this time. Other Dangers came not upon me with such a leisurely and dreadful Solemnity: 
+We were all in confusion. I have been in many eminent Dangers before. But the worst of them all was but a Play-Game compared to this."
 
-A Sudden Skirmish or Engagement, or so, was nothing when one's Blood was up, and push'd forward with eager expectations. But here I had a lingering view of approaching Death, and little or no hopes of escaping it; and I must confess that my Courage which I had hitherto kept up, failed me here; and I made very sad Reflections on my former life; and looked back with Horrour and Detestation on actions which before I disliked, but now I trembled at the remembrance of. I had long before this repented me of that roving course of my life, of which kind, I believe, few Men have met with the like. 
+<!-- I must confess that I was in great Conflicts of Mind at this time. Other Dangers came not upon me with such a leisurely and dreadful Solemnity:  -->
 
-For all these I returned Thanks in a peculiar manner, and this once more desir'd God's assistance, and Composed my Mind as well as I could, in the hopes of it, and as the Event shew'd, I was not disappointed of my hopes.”
+<!-- A Sudden Skirmish or Engagement, or so, was nothing when one's Blood was up, and push'd forward with eager expectations. But here I had a lingering view of approaching Death, and little or no hopes of escaping it; and I must confess that my Courage which I had hitherto kept up, failed me here; and I made very sad Reflections on my former life; and looked back with Horrour and Detestation on actions which before I disliked, but now I trembled at the remembrance of. I had long before this repented me of that roving course of my life, of which kind, I believe, few Men have met with the like. 
+
+For all these I returned Thanks in a peculiar manner, and this once more desir'd God's assistance, and Composed my Mind as well as I could, in the hopes of it, and as the Event shew'd, I was not disappointed of my hopes.” -->
 
 But Dampier was a thoroughbred seaman. The canoe was superbly handled, and after a terrible time of violent storms the low land of Sumatra was descried on the morning of the 20th. 
 
-Fever-stricken by the excessive hardships and fatigues they had endured, insomuch that they were too weak to stand up in their canoe, our adventurers drifted into a river, and were [Pg 73]supported by some natives to an adjacent village. Here Dampier stayed for 12 days in the hope of recovering his health, but finding that he did not improve, he made his way to Acheen, where he was so dosed by a Malay doctor that he came very near to expiring. On regaining his health, he entered with Captain Weldon of the ship Curtana for a voyage to Tonquin. 
+Fever-stricken by the excessive hardships and fatigues they had endured, insomuch that they were too weak to stand up in their canoe, our adventurers drifted into a river, and were supported by some natives to an adjacent village. 
 
-The first part of his second volume is devoted to a description of his travels in Tonquin, Acheen, Malacca, and other places. [13] There is but little narrative, nevertheless the work is singularly interesting, and as literally accurate as a Chinese painting.
+Here, Dampier stayed for 12 days to recover his health. But after it did not improve, he made his way to Aceh, where he was so dosed by a Malay doctor that he came very near to expiring. 
 
-Dampier was very willing to accept Captain Weldon's offer of this voyage, as the vessel carried a surgeon whose advice he was in great need of. Moreover Weldon promised to purchase a sloop at Tonquin and make him master of her for a trading voyage to Cochin China. Nothing noteworthy marked their passage. On their arrival at the Bay of Tonquin they navigated the ship about 20 miles up the river and anchored. 
+On regaining his health, he entered with Captain Weldon of the ship Curtana for a voyage to Tonquin. 
 
-The chief markets and trade of the country were then at Cachao, a city eighty miles distant from the highest point at which the river is navigable by vessels of burthen. Dampier, in company with the captains of [Pg 74]other ships, proceeded in large boats towards Cachao. It was scarcely more than a jaunt for our hero, whose main business in going the journey was to talk over the proposed voyage to Cochin China with the chief of the English factory.
+Part 1 of his volume 2 is devoted to his travels in Tonquin, Aceh, Malacca, and other places. 
 
-Dampier remained for a week with the Englishmen at the factory, and then returned to his own ship, “where,” says he, “I lay on board for a great while, and sickly for the most part; yet not so but that I took a boat and went ashoar one where or other almost every day.” 
+<!-- There is but little narrative, nevertheless the work is singularly interesting, and as literally accurate as a Chinese painting. -->
 
-The result of this intrepid observation is a full and interesting account of Tonquin, the habits and customs of the people, their attire, sports, punishments, religion, and literature. His health hindered him from several undertakings which he might have pursued with advantage. 
+Dampier was very willing to accept Captain Weldon's offer of this voyage, as the vessel carried a surgeon whose advice he was in great need of.
 
-For example, rice being dear at Cachao, Weldon hired a vessel to procure that commodity at adjacent places to supply the markets. It was a speculation by which Dampier might have got money, but he was too ill to bear a part in it. 
+Weldon promised to purchase a sloop at Tonquin and make him master of her for a trading voyage to Cochin China.
+
+On their arrival at the Bay of Tonquin, they navigated the ship about 20 miles up the river and anchored. 
+
+The chief markets and trade of the country were then at Cachao, a city 80 miles from the highest point at which the river is navigable by vessels of burthen.
+
+Dampier, with the captains of other ships, proceeded in large boats towards Cachao.
+
+His main business was to talk over the proposed voyage to Cochin China with the chief of the English factory.
+
+Dampier remained for a week with the Englishmen at the factory. Then he returned to his own ship, “where,” says he, “I lay on board for a great while, and sickly for the most part; yet not so but that I took a boat and went ashoar one where or other almost every day.” 
+
+
+He has interesting accounts of Tonquin, the habits and customs of the people, their attire, sports, punishments, religion, and literature.
+
+His health hindered him from several undertakings which he might have pursued with advantage. 
+
+For example, rice was dear at Cachao. So Weldon hired a vessel to procure that commodity at adjacent places to supply the markets.
+
+It was a speculation by which Dampier might have got money, but he was too ill to bear a part in it. 
 
 He lay 6 weeks in a miserable condition. He then flattered himself that he was sufficiently recovered to go on a walking tour through the country. 
 
@@ -97,5 +129,6 @@ Next morning, he was put ashore a few miles short of Cachao.
 
 There was a good path, and stepping out briskly he entered the city by noon. He immediately repaired to the house of an English merchant with whom Captain Weldon lodged, and stayed with him a few days, but he was so enfeebled by a wasting disorder which had fastened upon him that he was scarcely able to crawl about. 
 
-His illness was exasperated by disappointment, for he now discovered that he had made his walking journey only to learn that Weldon had abandoned his scheme to purchase a sloop to trade to Cochin China. The moment he felt strong enough to travel he returned to his ship, and Captain Weldon shortly afterwards joining the vessel, they weighed anchor and sailed from Tonquin. 
+His illness was exasperated by disappointment, for he now discovered that he had made his walking journey only to learn that Weldon had abandoned his scheme to purchase a sloop to trade to Cochin China.
 
+The moment he felt strong enough to travel he returned to his ship, and Captain Weldon shortly afterwards joining the vessel, they weighed anchor and sailed from Tonquin. 

@@ -1,5 +1,5 @@
 ---
-heading: Genesis 35
+heading: Genesis 36
 title: "The Sons of Esau"
 description: "Jacob went on his way, and the agents of Enki met him"
 weight: 74

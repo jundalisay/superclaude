@@ -31,6 +31,7 @@ Put away the strange idols that are among you. Be clean and change your garments
 <sup>8</sup> But Deborah, Rebekah’s nurse, died. She was buried beneath Bethel under an oak which was called Allon-bachuth.
 
 <sup>9</sup> Anu appeared unto Jacob again, when he came out of Padan-aram, and blessed him.
+{{< /l >}}
 
 
 {{< l a="Anu" >}}

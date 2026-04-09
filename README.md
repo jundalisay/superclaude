@@ -18,6 +18,13 @@ HUGO_VERSION 0.145.0
 Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GMT on weekdays. Now through March 28.
 
 
+
+The Origin of Israel
+
+In Genesis 32:22, Jacob meets a man late at night who wrestles with him. The man is unable to beat Jacob 
+
+
+
 aether media = amed
 aether particles (monad) = apars
 time media = timed
