@@ -1,8 +1,8 @@
 ---
-heading: Genesis 32
+heading: Genesis 32 (Anunnaki Torah)
 title: "Jacob Wrestles With a Nephilim 'god'"
 image: /photos/physics/wrestle.jpg
-description: "We replace Anu with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
+description: "We replace 'God' with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 64
 c: "firebrick"
 ---
