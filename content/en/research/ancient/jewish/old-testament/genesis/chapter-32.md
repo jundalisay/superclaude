@@ -1,6 +1,7 @@
 ---
 heading: Genesis 32
 title: "Jacob Wrestles With a Nephilim 'god'"
+image: /photos/physics/wrestle.jpg
 description: "We replace Anu with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 64
 c: "firebrick"
@@ -94,6 +95,8 @@ For he thought, “I will pacify him with these gifts I am sending on ahead; lat
 <sup>24</sup> When Jacob was left alone, a Nephilim wrestled with him till daybreak.
 
 <sup>25</sup> When the Nephilim saw that he could not overpower Jacob, he touched the socket of Jacob’s hip so that his hip was wrenched as he wrestled.
+
+![Jacob vs Nephilim](/photos/physics/wrestle.jpg)
 
 <sup>26</sup> Then the Nephilim said:
 
