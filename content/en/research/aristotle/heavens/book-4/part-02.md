@@ -6,35 +6,81 @@ weight: 4
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-description: "Book 3 of The Heavens by Aristotle Simplified"
+description: "Aristotle explains the Platonic Theory"
+lastmod: 2026-04-01
 ---
 
 
 
-Those of our predecessors who have entered upon this inquiry have for the most part spoken of light and heavy things only in the sense in which one of two things both endowed with weight is said to be the lighter. 
+Our predecessors have asked this and have mostly spoken of light and heavy things based on weight [property of the object].
 
-And this treatment they consider a sufficient analysis also of the notions of absolute heaviness, to which their account does not apply. This, however, will become clearer as we advance.
+<!-- only in the sense in which one of two things both endowed with weight is said to be the lighter.  -->
 
-One use of the terms 'lighter' and 'heavier' is that which is set forth in writing in the Timaeus, that the body which is composed of the greater number of identical parts is relatively heavy, while that which is composed of a smaller number is relatively light. 
+They consider this a sufficient analysis also of the notions of absolute heaviness, to which their account does not apply.
 
-As a larger quantity of lead or of bronze is heavier than a smaller-and this holds good of all homogeneous masses, the superior weight always depending upon a numerical superiority of equal parts-in precisely the same way, they assert, lead is heavier than wood. 
+<!-- This, however, will become clearer as we advance. -->
 
-All bodies, in spite of the general opinion to the contrary, are composed of identical parts and of a single material. But this analysis says nothing of the absolutely heavy and light. The facts are that fire is always light and moves upward, while earth and all earthy things move downwards or towards the centre.
+The Timaeus uses 'lighter' and 'heavier' in the sense that:
+- the body which is composed of more identical particles is relatively heavy
+- the body which is composed of fewer identical particles is relatively light
 
-It cannot then be the fewness of the triangles (of which, in their view, all these bodies are composed) which disposes fire to move upward. If it were, the greater the quantity of fire the slower it would move, owing to the increase of weight due to the increased number of triangles. 
 
-But the palpable fact, on the contrary, is that the greater the quantity, the lighter the mass is and the quicker its upward movement: and, similarly, in the reverse movement from above downward, the small mass will move quicker and the large slower. 
+A larger quantity of lead or bronze is heavier than a smaller.
 
-Further, since to be lighter is to have fewer of these homogeneous parts and to be heavier is to have more, and air, water, and fire are composed of the same triangles, the only difference being in the number of such parts, which must therefore explain any distinction of relatively light and heavy between these bodies, it follows that there must be a certain quantum of air which is heavier than water. But the facts are directly opposed to this.
+This holds good of all homogeneous masses -- the superior weight always depends on a numerical superiority of equal particles.
+
+This is precisely the same way, they assert, of how lead is heavier than wood. 
+
+All bodies are composed of identical particles and of a single material.
+
+But this analysis says nothing of the absolutely heavy and light.
+
+- Fire is always light and moves upward
+- Earth and all earthy things move downwards or towards the centre
+
+They believe that all these bodies are composed of triangles. 
+
+I do not think that the fewness of these triangles is the cause which disposes fire to move upward.
+
+If it were the cause, then a larger quantity of fire should move slower due to the increase of weight from the increased number of triangles. 
+
+But the fact is that the greater the quantity of fire:
+- the lighter the mass is
+- the quicker its upward movement
+
+Similarly, in the reverse movement from above downward, the small mass will move quicker and the large slower.
+
+
+They believe that:
+- lighter means having fewer of these homogeneous particles
+- heavier means having more
+- air, water, and fire are composed of the same triangles
+
+It follows that the only difference is in the number of such particles.
+- This must explain any distinction of relatively light and heavy between these bodies.
+
+It follows that there must be a certain quantum of air which is heavier than water.
+
+**But the facts are directly opposed to this.**
 
 The larger the quantity of air the more readily it moves upward, and any portion of air without exception will rise up out of the water.
 
 
-Others have a view from an older generation. It is apparent that there are bodies which, when smaller in bulk than others, yet exceed them in weight.
+Others have a view from an older generation. 
 
-It is therefore obviously insufficient to say that bodies of equal weight are composed of an equal number of primary parts: for that would give equality of bulk. Those who maintain that the primary or atomic parts, of which bodies endowed with weight are composed, are planes, cannot so speak without absurdity; but those who regard them as solids are in a better position to assert that of such bodies the larger is the heavier. 
+They think that there are bodies which are smaller but heavier.
 
-But since in composite bodies the weight obviously does not correspond in this way to the bulk, the lesser bulk being often superior in weight (as, for instance, if one be wool and the other bronze), there are some who think and say that the cause is to be found elsewhere. The void, they say, which is imprisoned in bodies, lightens them and sometimes makes the larger body the lighter. The reason is that there is more void. And this would also account for the fact that a body composed of a number of solid parts equal to, or even smaller than, that of another is sometimes larger in bulk than it.
+ <!-- when smaller in bulk than others, yet exceed them in weight. -->
+
+It is therefore obviously insufficient to say that bodies of equal weight are composed of an equal number of primary parts: for that would give equality of bulk. 
+
+Those who maintain that the primary or atomic parts, of which bodies endowed with weight are composed, are planes, cannot so speak without absurdity; but those who regard them as solids are in a better position to assert that of such bodies the larger is the heavier. 
+
+But since in composite bodies the weight obviously does not correspond in this way to the bulk, the lesser bulk being often superior in weight (as, for instance, if one be wool and the other bronze), there are some who think and say that the cause is to be found elsewhere.
+
+The void, they say, which is imprisoned in bodies, lightens them and sometimes makes the larger body the lighter. The reason is that there is more void. 
+
+This would also account for the fact that a body composed of a number of solid parts equal to, or even smaller than, that of another is sometimes larger in bulk than it.
 
 In short, generally and in every case a body is relatively light when it contains a relatively large amount of void. This is the way they put it themselves, but their account requires an addition. Relative lightness must depend not only on an excess of void, but also an a defect of solid: for if the ratio of solid to void exceeds a certain proportion, the relative lightness will disappear. Thus fire, they say, is the lightest of things just for this reason that it has the most void. But it would follow that a large mass of gold, as containing more void than a small mass of fire, is lighter than it, unless it also contains many times as much solid. The addition is therefore necessary.
 

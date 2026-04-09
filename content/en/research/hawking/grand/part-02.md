@@ -5,6 +5,8 @@ description: "IN VIKING MYTHOLOGY, Skoll and Hati chase the sun and the moon. Wh
 weight: 6
 icon: "Stephen Hawking"
 c: "firebrick"
+aliases:
+  /research/hawking/grand/part-01e/
 ---
 
 

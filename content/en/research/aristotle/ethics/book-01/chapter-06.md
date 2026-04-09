@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "The Principle Behind Happiness"
-weight: 14
+weight: 19
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

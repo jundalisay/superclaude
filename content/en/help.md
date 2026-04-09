@@ -51,7 +51,7 @@ Following our **Social Media** | [Facebook](https://www.facebook.com/superphysic
 
 Domain | Email
 --- | ---
-Superphysics | superphyiscsorg@gmail.com
+Superphysics | superphysicsorg@gmail.com
 Pantrypoints | pantrypoints@gmail.com
 
 

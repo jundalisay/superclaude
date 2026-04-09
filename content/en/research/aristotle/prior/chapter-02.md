@@ -3,6 +3,7 @@ heading: Chapters 2
 title: "Universal, Particular, and Indefinite Premises"
 weight: 5
 c: "firebrick"
+lastmod: 2026-04-04
 description: "Every premise states that something that exists or must exist or might exist as the attribute of something else."
 writer:
   name: Aristotle 

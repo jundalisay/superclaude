@@ -1,7 +1,7 @@
 ---
-heading: Chapters 2-3
+heading: Chapters 2
 title: "What is Happiness?"
-weight: 4
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotl

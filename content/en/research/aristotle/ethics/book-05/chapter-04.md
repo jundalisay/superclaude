@@ -6,6 +6,7 @@ writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
+lastmod: 2026-04-01
 description: "There is more than one kind of Justice. "
 icon: "Aristotle"
 ---

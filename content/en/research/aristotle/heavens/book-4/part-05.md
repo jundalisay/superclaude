@@ -2,7 +2,7 @@
 heading: "Part 5"
 title: "The kinds of matter"
 c: "darkgoldenrod"
-weight: 2
+weight: 22
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -4,6 +4,7 @@ linkTitle: Book 1
 title: "Finity and Infinity"
 c: "darkgoldenrod"
 weight: 2
+a: Aristotle
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -24,6 +24,12 @@ What causes the difficulty is this; the Equitable is Just, but not the Just whic
 
 When then the law has spoken in general terms, and there arises a case of exception to the general rule, it is proper, in so far as the lawgiver omits the case and by reason of his universality of statement is wrong, to set right the omission by ruling it as the lawgiver himself would rule were he there present, and would have provided by law had he foreseen the case would arise. And so the Equitable is Just but better than one form of Just; I do not mean the abstract Just but the error which arises out of the universality of statement: and this is the nature of the Equitable, “a correction of Law, where Law is defective by reason of its universality.”
 
-This is the reason why not all things are according to law, because there are things about which it is simply impossible to lay down a law, and so we want special enactments for particular cases. For to speak generally, the rule of the undefined must be itself undefined also, just as the rule to measure Lesbian building is made of lead: for this rule shifts according to the form of each stone and the special enactment according to the facts of the case in question.
+This is why not all things are according to law, because there are things about which it is simply impossible to lay down a law, and so we want special enactments for particular cases. 
 
-It is clear then what the Equitable is; namely that it is Just but better than one form of Just: and hence it appears too who the Equitable man is: he is one who has a tendency to choose and carry out these principles, and who is not apt to press the letter of the law on the worse side but content to waive his strict claims though backed by the law: and this moral state is Equity, being a species of Justice, not a different moral state from Justice.
+Generally, the rule of the undefined must be itself undefined also, just as the rule to measure Lesbian building is made of lead.
+
+This rule shifts according to the form of each stone and the special enactment according to the facts of the case in question.
+
+Equitable is thus that it is Just but better than one form of Just.
+
+Hence, it appears too who the Equitable man is: he is one who has a tendency to choose and carry out these principles, and who is not apt to press the letter of the law on the worse side but content to waive his strict claims though backed by the law: and this moral state is Equity, being a species of Justice, not a different moral state from Justice.

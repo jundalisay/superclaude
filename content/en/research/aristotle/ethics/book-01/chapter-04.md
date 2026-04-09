@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: "What is the Good?"
-weight: 10
+weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

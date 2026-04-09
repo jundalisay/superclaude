@@ -8,6 +8,8 @@ writer:
   name: Isaac Newton
   url: https://en.wikipedia.org/wiki/Isaac_Newton
 description: "Newton enumerates the books of the Old Testament"
+aliases:
+  /research/newton/daniel/chapter-01/
 ---
 
 

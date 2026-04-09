@@ -1,11 +1,12 @@
 ---
 heading: "Book 4"
 linkTitle: Book 4
-title: ""
+title: "Heaviness [Gravity]"
 c: "darkgoldenrod"
 weight: 14
+a: "Aristotle"
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-description: "Book 1 of The Heavens by Aristotle Simplified"
+description: "Book 4 of The Heavens by Aristotle Simplified"
 ---

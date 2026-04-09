@@ -3,6 +3,7 @@ heading: Chapters 3
 title: "Conversion of Premises"
 weight: 6
 c: "firebrick"
+lastmod: 2026-04-04
 description: "The same manner of conversion [from positive to negative and vice versa] will hold good also in respect of necessary premises. "
 writer:
   name: Aristotle 

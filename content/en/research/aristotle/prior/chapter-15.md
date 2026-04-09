@@ -1,7 +1,7 @@
 ---
-heading: Chapter 16
-title: "Minor Premise"
-weight: 18
+heading: Chapter 15
+title: "How Perfect syllogisms result"
+weight: 21
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:

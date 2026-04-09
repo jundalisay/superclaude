@@ -9,7 +9,9 @@ image: "/flags/cn.png"
 description : "China's century of humiliation came from the Song Dynasty"
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay
+  url: https://www.linkedin.com/in/jundalisay 
+aliases:  
+  /social/cycles/china-ancient
 ---
 
 
@@ -23,7 +25,7 @@ The main problem of ancient China manifested as foreign invasion or wars:
 1. Mongol invasion
 2. Opium wars
 
-The root of both problems spring from the Song dyansty which is its most prosperous Golden Age. 
+The root of both problems sprang from the Song dyansty which is its most prosperous Golden Age. 
 
 This is similar to the fall of Rome happening after the prosperity of Pax Romana. 
 

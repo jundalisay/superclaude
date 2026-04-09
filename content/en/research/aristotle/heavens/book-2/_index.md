@@ -4,6 +4,7 @@ linkTitle: Book 2
 title: "The Heavens"
 c: "darkgoldenrod"
 weight: 4
+a: Aristotle
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

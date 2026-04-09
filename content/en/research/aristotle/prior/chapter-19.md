@@ -1,7 +1,7 @@
 ---
 heading: Chapters 19
 title: "Affirmative and Negative Premises"
-weight: 18
+weight: 26
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
 title: "What is the real nature of Happiness?"
-weight: 12
+weight: 17
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

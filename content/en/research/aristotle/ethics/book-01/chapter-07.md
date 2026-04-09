@@ -1,11 +1,10 @@
 ---
 heading: Chapter 7
 title: "How Can We Get Happiness?"
-weight: 16
+weight: 21
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Is Happiness a thing that can be learned?"
 icon: "Aristotle"

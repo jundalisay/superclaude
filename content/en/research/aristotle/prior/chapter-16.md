@@ -1,7 +1,7 @@
 ---
 heading: Chapter 16
-title: "Minor Premise"
-weight: 19
+title: "Perfect Syllogism"
+weight: 23
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:

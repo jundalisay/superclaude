@@ -12,6 +12,7 @@ icon: "Supereconomics"
 aliases:
   /dsit
   /dcit
+  /social/economics/principles/dcti
 ---
 
 
