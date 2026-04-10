@@ -85,7 +85,8 @@ These sentiments are so rooted in our constitution and temper.
 
 
 But 'nature' may also mean not man-made.
-        In this sense, it may be disputed whether the notions of virtue are natural or not.
+
+In this sense, it may be disputed whether the notions of virtue are natural or not.
 
 We readily forget, that men's designs, projects, and views are principles as necessary in their operation as heat and cold, moist and dry.
 
@@ -103,7 +104,8 @@ Based on these definitions of natural and unnatural, the systems which assert th
 If natural means non-miraculous, then vice and virtue are equally natural.
 
 If natural means ordinary, then virtue will perhaps be found to be the most unnatural.
-    Heroic virtue will be found as unusual as the most brutal barbarity.
+
+Heroic virtue will be found as unusual as the most brutal barbarity.
 
 If natural means not man-made, both vice and virtue are equally artificial and out of nature.
 

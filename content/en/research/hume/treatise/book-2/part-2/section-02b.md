@@ -37,9 +37,12 @@ I should not expect that the affections would:
 - never transfuse themselves into any other impression.
 
 The person is the object of my passion through a double relation.
-        ◦ This reasoning leads me to think that the passion will be carried further.
-        ◦ The person has a relation of ideas to myself, according to the supposition that the passion, which he is the object of, has a relation of impressions to pride or humility by being agreeable or uneasy.
-        ◦ Thus, one of these passions must arise from the love or hatred.
+
+This reasoning leads me to think that the passion will be carried further.
+
+The person has a relation of ideas to myself, according to the supposition that the passion, which he is the object of, has a relation of impressions to pride or humility by being agreeable or uneasy.
+
+Thus, one of these passions must arise from the love or hatred.
 
 I form this reasoning to conform to my hypothesis.
 
@@ -68,60 +71,86 @@ Experience shows us that by this change of situation:
 - the whole chain is broken
 - the mind is not conveyed from one passion to another, as in the preceding instance.
 
-We never love or hate a son or brother for the virtue or vice we discern in ourselves.
-        ◦ Though the same qualities in him give us a very sensible pride or humility.
-    • The transition from pride or humility to love or hatred is not so natural as from love or hatred to pride or humility.
-        ◦ Initially, this might be contrary to my hypothesis.
-            ▪ Since the relations of impressions and ideas are precisely the same in both cases.
-    • Pride and humility are impressions related to love and hatred.
-        ◦ I am related to the person.
-        ◦ Like causes must produce like effects.
-        ◦ A perfect transition must arise from the double relation, as in all other cases.
-    • We may easily solve this difficulty by the following reflections.
-    • We are always intimately conscious of ourselves.
-    • The ideas of our sentiments and passions must strike us with greater vivacity than those of other persons.
-    • But everything that strikes us with vivacity and appears in a strong light:
-        ◦ forces itself into our consideration
-        ◦ becomes present to the mind on the smallest hint and most trivial relation.
-    • When present, it:
-        ◦ engages the attention
-        ◦ keeps our attention from wandering to other objects, no matter how strong their relation is to our first object.
-    • The imagination passes:
-        ◦ easily from obscure to lively ideas.
-            ▪ Relation here is aided by another principle.
-        ◦ with difficulty from lively to obscure ones.
-            ▪ Relation here is opposed by another principle.
-    • The imagination and passions assist each other in their operations when:
-        ◦ their propensities are similar
-        ◦ they act on the same object.
-    • The mind always has a propensity to pass from a passion to any other passion related to it.
-        ◦ This propensity is forwarded when the object of the one passion is related to the propensity of the other.
-    • The two impulses:
-        ◦ concur with each other
-        ◦ render the whole transition smoother and easier.
-    • But while the relation of ideas continues the same, its influence in causing a transition of the imagination stops, its influence on the passions must also cease.
-        ◦ Since it is entirely dependent on that transition.
-    • This is why pride or humility is not transfused into love or hatred with the same ease that love or hatred are changed into the pride and humility.
-        ◦ If a person is my brother, I am also his brother.
-    • Though the relations are reciprocal, they have very different effects on the imagination.
-        ◦ The passage is smooth and open from the consideration of any person related to us to that of ourself.
-    • But when the affections are once directed to ourself, the fancy does not pass with the same facility from that object to any other person, how closely so ever connected with us.
-        ◦ This easy or difficult transition of the imagination:
-            ▪ operates on the passions
-            ▪ facilitates or retards their transition.
-        ◦ This is a clear proof that:
-            ▪ the imagination and the passions are connected together
-            ▪ the relations of ideas influence the affections.
-    • Even when the relation remains, if its usual effect on the fancy in producing an association or transition of ideas is prevented, its usual effect on the passions, in conveying us from one to another, is prevented in the same way.
-    • Some might find a contradiction between this phenomenon and that of sympathy.
-        ◦ In sympathy, the mind passes easily from the idea of ourselves to the idea of any other object related to us.
-    • But this difficulty will vanish if we consider that in sympathy:
-        ◦ our own person is not the object of any passion
-        ◦ there is nothing that fixes our attention on ourselves, as in the present case, where we are supposed to be actuated with pride or humility.
-    • Independent of the perception of every other object, ourself is in reality nothing.
-        ◦ This is why we must turn our view to external objects.
-        ◦ It is natural for us to consider most attentively those that resemble us or lie contiguous to us.
-    • But when the self is the object of a passion, it is not natural to quit its consideration until the passion is exhausted.
-        ◦ In such a case, the double relations of impressions and ideas can no longer operate.
+We never love or hate a son or brother for the virtue or vice we discern in ourselves though the same qualities in him give us a very sensible pride or humility.
 
+The transition from pride or humility to love or hatred is not so natural as from love or hatred to pride or humility.
 
+Initially, this might be contrary to my hypothesis since the relations of impressions and ideas are precisely the same in both cases.
+
+Pride and humility are impressions related to love and hatred.
+
+I am related to the person.
+- Like causes must produce like effects.
+- A perfect transition must arise from the double relation, as in all other cases.
+
+We may easily solve this difficulty by the following reflections.
+
+We are always intimately conscious of ourselves.
+
+The ideas of our sentiments and passions must strike us with greater vivacity than those of other persons.
+
+But everything that strikes us with vivacity and appears in a strong light:
+- forces itself into our consideration
+- becomes present to the mind on the smallest hint and most trivial relation.
+
+When present, it:
+- engages the attention
+- keeps our attention from wandering to other objects, no matter how strong their relation is to our first object.
+
+The imagination passes:
+- easily from obscure to lively ideas.
+  - Relation here is aided by another principle.
+- with difficulty from lively to obscure ones.
+  - Relation here is opposed by another principle.
+
+The imagination and passions assist each other in their operations when:
+- their propensities are similar
+- they act on the same object
+
+The mind always has a propensity to pass from a passion to any other passion related to it.
+
+This propensity is forwarded when the object of the one passion is related to the propensity of the other.
+
+The 2 impulses:
+- concur with each other
+- render the whole transition smoother and easier.
+
+But while the relation of ideas continues the same, its influence in causing a transition of the imagination stops, its influence on the passions must also cease since it is entirely dependent on that transition.
+
+This is why pride or humility is not transfused into love or hatred with the same ease that love or hatred are changed into the pride and humility.
+
+If a person is my brother, I am also his brother.
+
+Though the relations are reciprocal, they have very different effects on the imagination.
+
+The passage is smooth and open from the consideration of any person related to us to that of ourself.
+
+But when the affections are once directed to ourself, the fancy does not pass with the same facility from that object to any other person, how closely so ever connected with us.
+
+This easy or difficult transition of the imagination:
+- operates on the passions
+- facilitates or retards their transition.
+
+This is a clear proof that:
+- the imagination and the passions are connected together
+- the relations of ideas influence the affections
+
+Even when the relation remains, if its usual effect on the fancy in producing an association or transition of ideas is prevented, its usual effect on the passions, in conveying us from one to another, is prevented in the same way.
+
+Some might find a contradiction between this phenomenon and that of sympathy.
+
+In sympathy, the mind passes easily from the idea of ourselves to the idea of any other object related to us.
+
+But this difficulty will vanish if we consider that in sympathy:
+- our own person is not the object of any passion
+- there is nothing that fixes our attention on ourselves, as in the present case, where we are supposed to be actuated with pride or humility.
+
+Independent of the perception of every other object, ourself is in reality nothing.
+
+This is why we must turn our view to external objects.
+
+It is natural for us to consider most attentively those that resemble us or lie contiguous to us.
+
+But when the self is the object of a passion, it is not natural to quit its consideration until the passion is exhausted.
+
+In such a case, the double relations of impressions and ideas can no longer operate.

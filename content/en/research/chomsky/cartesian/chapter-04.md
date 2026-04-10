@@ -1,19 +1,19 @@
 ---
-title: "Creative aspect of language use"
+title: "How Language is Acquired and Used"
 weight: 20
-description: "Descartes makes only scant reference to language in his writings"
+description: "As a by-product of this study of langue, and against the background of rationalist theory of mind, certain views emerged as to how language is acquired and used."
 c: "steelblue"
 ---
 
 
-We have so far extracted from “Cartesian linguistics” certain characteristic and
+<!-- We have so far extracted from “Cartesian linguistics” certain characteristic and
 quite important doctrines regarding the nature of language and have, quite
 sketchily, traced their development during the period from Descartes to
-Humboldt. 
+Humboldt.  -->
 
-As a by-product of this study of langue, and against the background
-of rationalist theory of mind, certain views emerged as to how language is
-acquired and used. After a long interlude, these views are once again beginning
+As a by-product of this study of langue, and against the background of rationalist theory of mind, certain views emerged as to how language is acquired and used.
+
+After a long interlude, these views are once again beginning
 to receive the attention that they deserve, although their appearance (like the
 reappearance of the central ideas of transformational grammar) was, in fact, a
 largely independent development.
@@ -115,7 +115,9 @@ and may require external stimulation in order to become active or available to
 introspection, Herbert expressed much of the psychological theory that under-
 lies Cartesian linguistics, just as he emphasized those aspects of cognition that
 were developed by Descartes and, later, by the English Platonists, Leibniz, and
-Kant.110
+Kant.
+
+
 The psychology that develops in this way is a kind of Platonism without
 preexistence. Leibniz makes this explicit in many places. Thus he holds that
 “nothing can be taught us of which we have not already in our minds the idea,”
@@ -125,8 +127,9 @@ and needs only to be reminded (animadverted) to recognize the truths.
 Consequently, it possesses at least the idea upon which these truths depend.
 We may say even that it already possesses those truths, if we consider them as
 the relations of the ideas” (§26).111
-Of course, what is latent in the mind in this sense may often require appro-
-priate external stimulation before it becomes active, and many of the innate
+
+
+Of course, what is latent in the mind in this sense may often require appropriate external stimulation before it becomes active, and many of the innate
 principles that determine the nature of thought and experience may well be 
 
 applied quite unconsciously. This Leibniz emphasizes, in particular, throughout
@@ -227,46 +230,32 @@ this reason, it is often unclear whether what is being discussed is the activity
 the mind in perception or in acquisition – that is, in selecting an already distinct
 idea on the occasion of sense, or in making distinct what was before only
 confused and implicit.
-Descartes’s theory of cognition is clearly summarized in his Comments on a
-Certain Broadsheet (1648):
-...if we bear well in mind the scope of our senses and what it is exactly that reaches our
-faculty of thinking by way of them, we must admit that in no case are the ideas of things
-presented to us by the senses just as we form them in our thinking. So much so that there
-is nothing in our ideas which is not innate to the mind or the faculty of thinking, with the
-sole exception of those circumstances which relate to experience, such as the fact that we
-judge this or that idea which we now have immediately before our mind refers to a certain
-thing situated outside us. We make such a judgement not because these things transmit
-the ideas to our mind through the sense organs, but because they transmit something
-which, at exactly that moment, gives the mind occasion to form these ideas by means of
-the faculty innate to it. Nothing reaches our mind from external objects through the sense
-organs except certain corporeal motions ... But neither the motions themselves nor the
-figures arising from them are conceived by us exactly as they occur in the sense organs ...
-Hence it follows that the very ideas of the motions themselves and of the figures are
-innate in us. The ideas of pain, colours, sounds, and the like must be all the more innate if,
-on the occasion of certain corporeal motions, our mind is to be capable of representing
-them to itself, for there is no similarity between these ideas and the corporeal motions. Is
-it possible to imagine anything more absurd than that all the common notions within our
-mind arise from such motions and cannot exist without them? I would like our author to
-tell me what the corporeal motion is that is capable of forming some common notion to
-the effect that ‘things which are equal to a third thing are equal to each other’, or any other
-he cares to take. For all such motions are particular, whereas the common notions are
-universal and bear no affinity with, or relation to, the motions. (CSM I, 304–305)
-Rather similar ideas are developed at length by Cudworth.116 He distin-
-guished the essentially passive faculty of sense from the active and innate
-“cognoscitive powers” whereby men (and men alone) “are enabled to under-
-stand or judge of what is received from without by sense.” This cognoscitive
-power is not a mere storehouse of ideas, but “a power of raising intelligible ideas
-and conceptions of things from within itself” (p. 425; Cudworth 1996: 75). The
-function of sense is “the offering or presenting of some object to the mind, to
 
+Descartes’s theory of cognition is clearly summarized in his Comments on a Certain Broadsheet (1648):
 
+{{< l a="Rene Descartes" >}}
+...if we bear well in mind the scope of our senses and what reaches our faculty of thinking by way of them, we must admit that in no case are the ideas of things presented to us by the senses just as we form them in our thinking.
 
-give it an occasion to exercise its own activity upon.” Thus, for example, when
-we look into the street and perceive men walking, we are relying, not merely on
-sense (which shows us at most surfaces – i.e., hats and clothes – and, in fact, not
+So much so that there is nothing in our ideas which is not innate to the mind or the faculty of thinking, with the sole exception of those circumstances which relate to experience, such as the fact that we judge this or that idea which we now have immediately before our mind refers to a certain thing situated outside us.
+
+We make such a judgement not because these things transmit the ideas to our mind through the sense organs, but because they transmit something which, at exactly that moment, gives the mind occasion to form these ideas by means of the faculty innate to it. 
+
+Nothing reaches our mind from external objects through the sense organs except certain corporeal motions ... But neither the motions themselves nor the figures arising from them are conceived by us exactly as they occur in the sense organs ...
+
+Hence it follows that the very ideas of the motions themselves and of the figures are innate in us. The ideas of pain, colours, sounds, and the like must be all the more innate if, on the occasion of certain corporeal motions, our mind is to be capable of representing them to itself, for there is no similarity between these ideas and the corporeal motions. 
+
+Is it possible to imagine anything more absurd than that all the common notions within our mind arise from such motions and cannot exist without them? Please tell me what the corporeal motion is that is capable of forming some common notion to the effect that ‘things which are equal to a third thing are equal to each other’, or any other he cares to take. For all such motions are particular, whereas the common notions are universal and bear no affinity with, or relation to, the motions. (CSM I, 304–305)
+{{< /l >}}
+
+Similar ideas were developed at length by Cudworth.
+
+He distinguished the essentially passive faculty of sense from the active and innate “cognoscitive powers” whereby men (and men alone) “are enabled to understand or judge of what is received from without by sense.” 
+
+This cognoscitive power is not a mere storehouse of ideas, but “a power of raising intelligible ideas and conceptions of things from within itself” (p. 425; Cudworth 1996: 75). The
+function of sense is “the offering or presenting of some object to the mind, to give it an occasion to exercise its own activity upon.” Thus, for example, when
+we look into the street and perceive men walking, we are relying, not merely on sense (which shows us at most surfaces – i.e., hats and clothes – and, in fact, not
 even objects), but on the exercise of the understanding, applied to the data of
-sense (pp. 409–410; Cudworth 1996: 57–59).117 The “intelligible forms by
-which things are understood or known, are not stamps or impressions passively
+sense (pp. 409–410; Cudworth 1996: 57–59).117 The “intelligible forms by which things are understood or known, are not stamps or impressions passively
 printed upon the soul from without, but ideas vitally protended or actively
 exerted from within itself.” Thus prior knowledge and set play a large role in
 determining what we see (e.g., a familiar face in a crowd) (pp. 423–424;
@@ -290,6 +279,7 @@ cognoscitive power” that the mind is able to “know and understand all extern
 individual things” (p. 482; Cudworth 1996: 101–128 passim).
 Descartes had discussed the same question in very similar terms, in his Reply
 to Objections V:
+
 Hence, when in our childhood we first happened to see a triangular figure drawn on
 paper, it cannot have been this figure that showed us how we should conceive of the true
 triangle studied by geometers, since the true triangle is contained in the figure only in the
@@ -297,7 +287,8 @@ way in which a statue of Mercury is contained in a rough block of wood. But sinc
 idea of the true triangle was already in us, and could be conceived by our mind more
 easily than the more composite figure of the triangle drawn on paper, when we saw the
 composite figure we did not apprehend the figure we saw, but rather the true triangle.
-(CSM II, 262)
+
+
 For Cudworth, the interpretation of sensory data in terms of objects and their
 relations, in terms of cause and effect, the relations of whole and part, symmetry,
 proportion, the functions served by objects and the characteristic uses to which
@@ -309,14 +300,16 @@ mind (pp. 433f.; Cudworth 1996: 83–100). The same is true of the unity of
 objects (or, for example, of a melody); sense is like a “narrow telescope” that
 provides only piecemeal and successive views, but only the mind can give “one
 comprehensive idea of the whole” with all its parts, relations, proportions, and
-Gestalt qualities. It is in this sense that we speak of the intelligible idea of an
-object as not “stamped or impressed upon the soul from without, but upon
+Gestalt qualities. 
+
+It is in this sense that we speak of the intelligible idea of an object as not “stamped or impressed upon the soul from without, but upon
 occasion of the sensible idea excited and exerted from the inward active and
 comprehensive power of the intellect itself” (p. 439; Cudworth 1996: 91).119
 Ideas of this sort regarding perception were common in the seventeenth
 century but were then swept aside by the empiricist current, to be revived
 again by Kant and the romantics.120 Consider, for example, Coleridge’s remarks
 on active processes in perception:
+
 Instances in which a knowledge given to the mind quickens and invigorates the faculties
 by which such knowledge is attainable independently cannot have escaped the most
 ordinary observer, and this is equally true whether it be faculties of the mind or of the
@@ -326,12 +319,14 @@ foreimagined and how small a deviation or imperfection will render the whole con
 and indistinguishable or mistaken where no such previous intimation has been received.
 Hence all unknown languages appear to a foreigner to be spoken by the natives with
 extreme rapidity and to those who are but beginning to understand it with a distressing
-indistinction.121
+indistinction.
+
 Does nature present objects to us without exciting any act on our part, does she present
 them under all circumstances perfect and as it were ready made? Such may be the notion
 of the most unthinking ... not only must we have some scheme or general outline of the
 object to which we could determine to direct our attention, were it only to have the power
-of recognizing it ...122
+of recognizing it.
+
 It is, once again, with Humboldt that these ideas are applied most clearly to
 the perception and interpretation of speech. He argues that there is a fundamen-
 tal difference between the perception of speech and the perception of unarticu-
@@ -345,17 +340,18 @@ underlying elements that function in the essentially creative act of speech
 production, and therefore it requires the activation of the generative system
 that plays a role in production of speech as well, since it is only in terms of these
 fixed rules that the elements and their relations are defined. The underlying
-“rules of generation” must, therefore, function in speech perception. If it were
-not for its mastery of these, if it were not for its ability “to actualize every 
+“rules of generation” must, therefore, function in speech perception. 
 
-possibility” the mind would no more be able to deal with the mechanisms of
+If it were
+not for its mastery of these, if it were not for its ability “to actualize every  possibility” the mind would no more be able to deal with the mechanisms of
 articulated speech than a blind man is able to perceive colors. It follows, then,
 that both the perceptual mechanisms and the mechanisms of speech production
 must make use of the underlying system of generative rules. It is because of the
 virtual identity of this underlying system in speaker and hearer that communi-
 cation can take place, the sharing of an underlying generative system being
 traceable, ultimately, to the uniformity of human nature (cf. pp. 101–102 above
-and note 115). In brief,
+and note 115). In brief, 
+
 There can be nothing present in the soul, save by one’s own activity, and understanding
 and speaking are but different effects of this power of speech. Conversing together is
 never comparable with a transfer of material. In the understander, as in the speaker, the
@@ -368,19 +364,21 @@ brought forth to understand it, as outer or inner occasion may determine.
 But understanding could not, as we have just found, be based upon inner spontaneity,
 and communal speech would have to be something other than mere mutual arousal of the
 hearer’s speech capacity, did not the diversity of individuals harbor the unity of human
-nature, fragmented only into separate individualities. (p. 70; Humboldt 1999: 57 [with
-modifications])
+nature, fragmented only into separate individualities.
+
 Even in the case of perception of a single word, an underlying system of
 generative rules must be activated. It would be inaccurate, Humboldt maintains,
 to suppose that speaker and hearer share a store of clear and totally formed
 concepts. Rather, the perceived sound incites the mind to generate a correspond-
 ing concept by its own means:
-[People] do not understand one another by actually exchanging signs for things, nor by
+
+People do not understand one another by actually exchanging signs for things, nor by
 mutually occasioning one another to produce exactly and completely the same concept;
 they do it by touching in one another the same link in the chain of their sensory ideas and
 internal conceptualizations, by striking the same note on their mental instrument, where-
-upon matching but not identical concepts are engendered in each. (p. 213; Humboldt
-1999: 152)
+upon matching but not identical concepts are engendered in each.
+
+
 In short, speech perception requires internal generation of a representation both
 of the signal and the associated semantic content.
 Contemporary research in perception has returned to the investigation of the

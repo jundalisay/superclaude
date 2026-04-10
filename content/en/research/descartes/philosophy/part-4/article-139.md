@@ -9,7 +9,7 @@ writer:
 c: "darkgoldenrod"
 icon: "Rene Descartes"
 aliases:
-  /research/descartes/philosophy/part-4/section-04d
+  /research/descartes/philosophy/part-4/section-05c/
 ---
 
 

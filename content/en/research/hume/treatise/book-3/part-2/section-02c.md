@@ -3,7 +3,7 @@ heading: Section 2c
 title: "Property and Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 16
+weight: 14
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

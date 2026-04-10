@@ -35,3 +35,26 @@ try | "Try" implies you are keeping the back-door open for failure. The word "tr
 unconditional love | Unconditional Love is the granting of validity,  for all beings and everything to exist - just as they are.
 worthiness |	The mere fact that you EXIST makes you worthy of anything you want. Your EXISTENCE and WORTHINESS are more fundamental than any beliefs you may have about them.   (They exist prior to any beliefs about them.)
 
+
+
+## Representations
+
+Thing | Meaning or Representation
+--- | ---
+Horse | the new way
+Dragon | 
+Dog |
+13 | Change
+
+
+## Words 
+
+Word | Meaning or Representation
+--- | ---
+Aveyo | In service
+Essassani | Place of living light
+Sassani | Living light
+
+
+
+

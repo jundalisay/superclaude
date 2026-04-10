@@ -1,7 +1,7 @@
 ---
 heading: Chapters 26-27
 title: "Easy and Difficult Problems"
-weight: 26
+weight: 36
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
@@ -10,7 +10,8 @@ writer:
 icon: "Aristotle"
 ---
 
-### Chapter 26
+
+## Chapter 26
 
 We understand:
 - the subjects syllogisms are concerned with
@@ -41,17 +42,15 @@ proved in each figure, and the number of the figures appropriate to each problem
 matters are clear from what has been said.
 
 
-### Chapter 27 
+## Chapter 27 
 
 How we may ourselves always have a supply of syllogisms in reference to the problem proposed and by what road we may reach the principles relative to the problem: for perhaps we ought not only to investigate the construction of syllogisms, but also to have the power of making them.
 
-Of all the things which exist some are such that they cannot be predicated of anything else truly
-and universally, e.g. Cleon and Callias, i.e. the individual and sensible, but other things may be
-predicated of them (for each of these is both man and animal); and some things are themselves
-predicated of others, but nothing prior is predicated of them; and some are predicated of others,
-and yet others of them, e.g. man of Callias and animal of man. It is clear then that some things
-are naturally not stated of anything: for as a rule each sensible thing is such that it cannot be
-predicated of anything, save incidentally: for we sometimes say that that white object is Socrates, or that that which approaches is Callias. 
+Of all the things which exist some are such that they cannot be predicated of anything else truly and universally, e.g. Cleon and Callias, i.e. the individual and sensible, but other things may be
+predicated of them (for each of these is both man and animal); and some things are themselves predicated of others, but nothing prior is predicated of them; and some are predicated of others,
+and yet others of them, e.g. man of Callias and animal of man. 
+
+It is clear then that some things are naturally not stated of anything: for as a rule each sensible thing is such that it cannot be predicated of anything, save incidentally: for we sometimes say that that white object is Socrates, or that that which approaches is Callias. 
 
 We shall explain in another place that there is an upward limit also to the process of predicating: for the present we must assume this. Of these ultimate predicates it is not possible to demonstrate another predicate, save as a matter of opinion, but these may be predicated of other things. Neither can individuals be predicated of other things, though other things can be predicated of them. 
 
@@ -83,10 +82,13 @@ for species being distinct there must be attributes peculiar to each. Nor must w
 which the superior term follows, those things which the inferior term follows, e.g. take as
 subjects of the predicate 'animal' what are really subjects of the predicate 'man'. It is necessary indeed, if animal follows man, that it should follow all these also. But these belong more properly to the choice of what concerns man.
 
-One must apprehend also normal consequents and 
-normal antecedents-, for propositions which obtain normally are established syllogistically from
-premises which obtain normally, some if not all of them having this character of normality. For
-the conclusion of each syllogism resembles its principles. We must not however choose
-attributes which are consequent upon all the terms: for no syllogism can be made out of such
-premises. The reason why this is so will be clear in the sequel.
+One must apprehend also normal consequents and  normal antecedents-, for propositions which obtain normally are established syllogistically from
+premises which obtain normally, some if not all of them having this character of normality. 
+
+For the conclusion of each syllogism resembles its principles. We must not however choose attributes which are consequent upon all the terms: for no syllogism can be made out of such
+premises. 
+
+I give the reason next.
+
+ <!-- why this is so will be clear in the sequel. -->
 

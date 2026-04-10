@@ -4,6 +4,7 @@ heading: Chapter 3b
 description: "In order to give the idea of species has some real foundation, let us look at following points"
 c: "#DE3163"
 date: 2025-09-16
+lastmod: 2026-04-08
 weight: 13
 writer:
   name: Jean-Baptiste Lamarck
@@ -57,34 +58,42 @@ Is not what we observe in this respect in the class of insects alone a thousand 
 
 Nature herself brings about all these wonders.
 
-She has created organic structures, life, even feeling.
+She has:
+- created organic structures, life, even **feeling**.
+- multiplied and diversified within unknown limits the organs and faculties of organic bodies that she supports
+- created in animals, by the sole route of needs, which establish and direct habits.
 
-she has multiplied and diversified within unknown limits the organs and faculties of organic bodies that she supports
+The habits are the source of all actions, all faculties, from the simplest right up to those which make up instinct.
 
-she has created in animals, by the sole route of needs, which establish and direct habits, the source of all actions, all faculties, from the simplest right up to those which make up instinct, work, 
+<!-- , work,  -->
 
-this power of nature is in the order of existing things
-
-It shows the will of her divine Author
+This power of nature is in the order of existing things.
+- It shows the will of her divine Author
 
  <!-- who has been able to will that she has this ability? -->
 
-Will I admire less the grandeur of the power of this first cause of everything if it has pleased Him that things were like this, that if, by so many acts of His will, this power was occupied and still is continually occupied with the details of all the particular things of creation, all the variations, all the developments and improvements, all the destruction and all the renewals, in a word, of all the transformations which universally happen in existing things?
+<!-- Will I admire less the grandeur of the power of this first cause of everything if it has pleased Him that things were like this,
+
+ that if, by so many acts of His will, this power was occupied and still is continually occupied with the details of all the particular things of creation, all the variations, all the developments and improvements, all the destruction and all the renewals, in a word, of all the transformations which universally happen in existing things? -->
+
 
 I will prove that nature can produce by herself what we admire in her.
 
-However, another objection is that everything which we see announces an unalterable constancy in the conservation of form in living things. 
+However, another objection is that everything which we see shows an unalterable constancy in the conservation of form in living things. 
 
 All the animals that we have known in the past 3,000 years:
 - have always been the same
 - have lost nothing
 - have acquired nothing in the improvement of their organs and in the shape of their parts.
 
-To prove this apparent stability over a long time as a verified fact, the Report On the Collections of Natural History Brought Back from Egypt by M. Geoffroy writes:
+To prove this apparent stability over a long time as a verified fact, M. Geoffroy writes:
+
+
 
 <!-- Those writing the report express themselves on this point in the following way: -->
 
-{{< r a="Geoffroy" >}}
+
+{{< q a="Geoffroy" c="The Report On the Collections of Natural History Brought Back from Egypt" >}}
 <!-- First, the collection has this remarkable quality, that we can say it contains animals of all centuries.  -->
 
 People have wanted to know if species change their form through time. 
@@ -94,9 +103,8 @@ The superstition of the ancient Egyptians was inspired by nature, with a view to
 <!-- "It is not possible to control one's imaginative excitement when one sees still preserved with the smallest bones, the smallest hairs, and perfectly recognizable, such an animal which had, 3,000 years ago, priests or altars in Thebes or Memphis.  -->
 
 As a result of this part of Geoffroy's collection, these animals are perfectly similar to today's." 
-
-Annales du Muséum d'Hist. natur., vol. I, p. 235, and 236.
-{{< /r >}}
+<!-- Annales du Muséum d'Hist. natur., vol. I, p. 235, and 236. -->
+{{< /q >}}
 
 
 I do not deny the conformity in the appearance of these animals with individuals of the same species alive today. 
@@ -111,16 +119,20 @@ Moreover, who does not sense that birds, which can so easily move on and choose 
 
 <!-- In fact, there is nothing in the observation mentioned above which contradicts the ideas I have revealed in this matter and, above all, which proves that the animals under discussion have existed for all time in nature. It proves only that they were present in Egypt two or three thousand years ago. And anyone in the habit of thinking about things, while at the same time observing what nature shows us of the monuments to its own antiquity, easily appreciates the value of a duration of two or three thousand years in comparison with that antiquity. -->
 
-This apparent stability of things in nature will always be taken by common opinion as the truth of things, because, in general, people do not judge anything except in relation to themselves.
+People will take this apparent stability of things in nature as truth.
+- **This is because people judge things in relation to themselves.**
 
-The man who judges only according to changes which he perceives himself, the intervals between these mutations are conditions of stability which appear unlimited to him, because of the brevity of the lifetime of the individuals in his species. 
+A man judges only according to changes which he perceives himself.
+- The shortness of human life prevents him from viewing the long periods between these mutations which appear unlimited to him.
 
-His observations and factual notes go back only a few thousand years which is long compared with him.
+<!-- are conditions of stability , because of the brevity of  -->
+
+His observations and factual notes go back only a few thousand years which is long for him.
 - But it is extremely small compared to great changes in the Earth.
 
- <!-- durations which have witnessed the occurrence of the great changes the surface of the earth has undergone, everything appears stable on the planet which he inhabits, and he is encouraged to dismiss the signs presented to him everywhere by the monuments piled up around him or buried in the soil under his feet as he walks. -->
+<!-- durations which have witnessed the occurrence of the great changes the surface of the earth has undergone, everything appears stable on the planet which he inhabits, and he is encouraged to dismiss the signs presented to him everywhere by the monuments piled up around him or buried in the soil under his feet as he walks. -->
 
-Quantities of space and time are relative. 
+**Quantities of space and time are relative.**
 
 <!-- If man really wishes to imagine this truth, then he will be reserved in his judgments about the stability which he attributes in nature to the state of things which he observes. See in my Recherches sur les corps vivans, l'appendice, p. 141. -->
 

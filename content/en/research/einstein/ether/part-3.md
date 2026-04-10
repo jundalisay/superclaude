@@ -2,6 +2,8 @@
 title: "Mach's Ether Principle"
 heading: "Part 3"
 description: "Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference"
+lastmod: 2026-04-01
+c: "firebrick"
 image: "/covers/ether.png"
 icon: "Einstein"
 weight: 8
@@ -97,7 +99,7 @@ But we do not know whether:
 In this case, the universe must of necessity be spatially unbounded and of finite magnitude*. Its magnitude is determined by the value of that mean density.
 {{< /c >}}
 
-![Blah](/icons/einbla.png)
+![Blah](/icons/Einstein.jpg)
 
 
 {{< n n="This is totally wrong as proven by James Webb. " >}}

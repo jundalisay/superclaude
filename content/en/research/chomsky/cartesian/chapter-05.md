@@ -1,7 +1,7 @@
 ---
 title: "Summary"
 weight: 200
-description: "Descartes makes only scant reference to language in his writings"
+description: "The creative aspect of language use is once again a central concern of linguistics."
 c: "steelblue"
 ---
 
@@ -11,7 +11,9 @@ mental processes which in part originated and in part were revitalized in the
 “century of genius” and which were fruitfully developed until well into the
 nineteenth century. 
 
-The creative aspect of language use is once again a central concern of linguistics, and the theories of universal grammar that were outlined in the seventeenth and eighteenth centuries have been revived and elaborated in the theory of transformational generative grammar. 
+The creative aspect of language use is once again a central concern of linguistics.
+
+The theories of universal grammar that were outlined in the seventeenth and eighteenth centuries have been revived and elaborated in the theory of transformational generative grammar. 
 
 With this renewal of the study of universal formal conditions on the system of linguistic rules, it becomes possible to take up once again the search for deeper explanations for the phenomena found in particular languages and observed in actual
 performance. 

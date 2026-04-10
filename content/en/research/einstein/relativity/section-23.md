@@ -3,6 +3,7 @@ title: "Behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 heading: "Section 23"
 weight: 40
 # date: 2022-03-18
+lastmod: 2026-04-06
 description: "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 c: "firebrick"
 icon: "Einstein"
@@ -35,7 +36,6 @@ The force acting on himself, and in fact on all other bodies which are at rest r
 The space-distribution of this gravitational field is of a kind that would not be possible on Newton’s theory of gravitation*.
 
 
-
 {{< f f="*Einstein Note: The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards." >}}
 
 
@@ -65,7 +65,7 @@ This is why it is impossible to obtain a reasonable definition of time with the 
 
 {{< c v="red" >}} A similar difficulty presents itself when we attempt to apply our earlier definition of simultaneity in such a case. But I do not wish to go any farther into this question.{{< /c >}}
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 Moreover, at this stage, the definition of the space coordinates also presents unsurmountable difficulties.
 

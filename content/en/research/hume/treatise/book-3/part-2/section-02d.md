@@ -1,9 +1,9 @@
 ---
 heading: Section 2d
 title: "The State Of Nature; And Common Interest As The Origin Of Justice"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "The poets say that the seasons in that first age of nature were so temperate, that people did not need clothes and houses against the heat and cold."
 c: "steelblue"
-weight: 18
+weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

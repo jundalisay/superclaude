@@ -97,13 +97,13 @@ So when you want to do something and it is not immediately available, TRUST YOUR
 Do not buy into the belief that "I do not get what I want."
 
 
-## Positive Synchronicity
+## Positive (Green Light) Synchronicity 
 
 Positive Synchronicity is when you "follow your excitement" in each "now" moment. 
 - This leads to things "magically" working out in a way that is delightfully & surprisingly pleasing.    
 - "Positive Synchronicity" is the occurrence of events that are perfect reflections of your preferences and desires.
 
-Negative Synchronicity is when you are instead led by your fears and worries. 
+Negative Synchronicity (Red Light) is when you are instead led by your fears and worries. 
 - This leads to upsetting events -- the very things you wished to avoid.
 - "Negative Synchronicity" is the occurrence of events that are perfect reflections of your fears and doubts.
 

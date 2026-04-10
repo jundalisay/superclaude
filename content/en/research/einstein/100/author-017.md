@@ -2,8 +2,8 @@
 heading: "Authors 17-18"
 title: "Lothar Mitis"
 # date: 2024-12-12
-weight: 22
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+weight: 23
+description: "How does Einstein react to all these insights, which to the sober philosopher, physicist and astronomer are presented as plain truisms?"
 c: "darkgoldenrod"
 ---
 
@@ -36,11 +36,10 @@ movement or in another direction. Because the sound is listened to in the same w
 Similarly, nobody should want to optically prove the earth's movement (through earthly rays of
 light). 
 
-Michelson, to whom the heaviness of the ether was still foreign, wanted to provide this visual proof, but achieved no success. The failed attempt proved that earth and earthly ray of light belong to the same system of motion, that the light ether
-is heavy.
+Michelson, to whom the heaviness of the ether was still foreign, wanted to provide this visual proof, but achieved no success. The failed attempt proved that earth and earthly ray of light belong to the same system of motion, that the light ether is heavy.
 
-How does Einstein react to all these insights, which to the sober philosopher, physicist and
-astronomer are presented as plain truisms?
+How does Einstein react to all these insights, which to the sober philosopher, physicist and astronomer are presented as plain truisms?
+
 He denies point 1 (ethereal weight). For him, light is a purely abstract, immaterial and therefore
 Abarian* miracle thing. [*- don’t know translation.]
 
@@ -50,19 +49,20 @@ conclusions from the sentences of Planck and Broglie.He also treats point 3 (bar
 
 This curvature should not take place as a result of attraction, but for reasons that arise based on the fantastic
 concept of curved and finite space.
+
 [*- don’t know translation.]
 
-From his Abarian* attitude regarding point 4 (Michelson experiment), however, the most
-adventurous wonders of the world result, which immediately evaporate when the air and ether are
-carried along evenly. To clarify the "negative" result of the Michelson's experiment - this result is
-positive for the Bariker* - Einstein sets up two “postulates” (unproven assumptions) of the most
+
+From his Abarian* attitude regarding point 4 (Michelson experiment), however, the most adventurous wonders of the world result, which immediately evaporate when the air and ether are carried along evenly.
+
+To clarify the "negative" result of the Michelson's experiment - this result is positive for the Bariker* - Einstein sets up two “postulates” (unproven assumptions) of the most
 peculiar kind, namely:
 
 [*- don’t know translation.]
 
-Postulate 1 describes the speed of light c (= 300,000 km) as ∞ (infinitely large) with all the
-mathematical privileges of this largest size. Now astronomy reckons with countless light years. But
-since c is only a vanishing fraction of a single light year, so is the equation of this tiny path with ∞ an
+Postulate 1 describes the speed of light c (= 300,000 km) as ∞ (infinitely large) with all the mathematical privileges of this largest size. Now astronomy reckons with countless light years. 
+
+But since c is only a vanishing fraction of a single light year, so is the equation of this tiny path with ∞ an
 assassination act on all reason.
 
 Einstein used this sacrilege to set up Postulate 2 "Constancy of the speed of light", which says: ∞ = c
@@ -81,10 +81,9 @@ This RTH is the sick product of a sick time.
 
 ## Dr. VINCENZ NACHREINER / NEUSTADT a. d. Haardt
 
-AGAINST EINSTEIN'S RELATIVITY THEORY Philosophy
+### Against Einstein'S Relativity Theory Philosophy
 
-The "spacetime thing" of the RTH contradicts the undoubted Kant-Schopenhauer theory
-of space, time and matter.
-Analytical mechanics: When changing the law of gravitation, even for spherical celestial bodies, the
-masses cannot be taken into account as being concentrated in the center.
+The "spacetime thing" of the RTH contradicts the undoubted Kant-Schopenhauer theory of space, time and matter.
+
+Analytical mechanics: When changing the law of gravitation, even for spherical celestial bodies, the masses cannot be taken into account as being concentrated in the center.
 

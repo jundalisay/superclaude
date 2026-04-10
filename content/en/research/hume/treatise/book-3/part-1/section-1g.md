@@ -8,6 +8,7 @@ writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
+draft: true
 ---
 
 

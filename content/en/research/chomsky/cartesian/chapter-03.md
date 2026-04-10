@@ -1,58 +1,57 @@
 ---
-title: "Creative aspect of language use"
+title: "General Grammar"
 weight: 18
-description: "Descartes makes only scant reference to language in his writings"
+description: "Within the framework of Cartesian linguistics, a descriptive grammar is concerned with both sound and meaning."
 c: "steelblue"
 ---
 
-Within the framework of Cartesian linguistics, a descriptive grammar is con-
-cerned with both sound and meaning; in our terminology, it assigns to each
-sentence an abstract deep structure determining its semantic content and a
-surface structure determining its phonetic form. A complete grammar, then,
-would consist of a finite system of rules generating this infinite set of paired
-structures and thus showing how the speaker-hearer can make infinite use of
-finite means in expressing his “mental acts” and “mental states.”
-However, Cartesian linguistics was not concerned simply with descriptive
-grammar, in this sense, but rather with “grammaire générale,” that is, with the
-universal principles of language structure. At the very outset of the work under
-review, a distinction was made between general and particular grammar. These
-are characterized by Du Marsais in the following way:
-Some points [observations] of grammar apply to all languages. These form what we call
-general grammar – for example, those we made regarding articulated sounds and the
-letters which are the signs of these sounds, the nature of words and the various ways they
-must be ordered or terminated in order to have meaning. Apart from these general points,
-there are some which are peculiar to one particular language, and these form the special
-grammar of that language.95
-Beauzée elaborates the distinction in the following way:
-Grammar, whose object is the expression of thought with the help of spoken or written
-words, comprises two sorts of principles. One sort, being immutably true and universally
-applicable, derive from the nature of thought itself, following its analysis and being its
-result. The other sort are only hypothetically true and depend on conventions which,
-being accidental, arbitrary and changeable, have given rise to different idioms. The first
+
+
+Within the framework of Cartesian linguistics, a descriptive grammar is concerned with both sound and meaning.
+
+In my terminology, it assigns to each sentence an abstract deep structure determining its semantic content and a surface structure determining its phonetic form.
+
+A complete grammar, then, would consist of a finite system of rules generating this infinite set of paired structures and thus showing how the speaker-hearer can make infinite use of finite means in expressing his “mental acts” and “mental states.” 
+
+However, Cartesian linguistics was not concerned simply with descriptive grammar, in this sense, but rather with “grammaire générale,” that is, with the universal principles of language structure. At the very outset of the work under review, a distinction was made between general and particular grammar. 
+
+These  are characterized by Du Marsais in the following way: 
+
+Some points [observations] of grammar apply to all languages. 
+
+These form what we call general grammar.
+
+Examples are those we made regarding articulated sounds and the letters which are the signs of these sounds, the nature of words and the various ways they must be ordered or terminated in order to have meaning. Apart from these general points, there are some which are peculiar to one particular language, and these form the special grammar of that language.
+
+Beauzée elaborates the distinction in the following way: 
+
+Grammar, whose object is the expression of thought with the help of spoken or written words, comprises two sorts of principles. One sort, being immutably true and universally applicable, derive from the nature of thought itself, following its analysis and being its result. 
+
+The other sort are only hypothetically true and depend on conventions which, being accidental, arbitrary and changeable, have given rise to different idioms. The first
 sort of principles constitute general grammar and the second are the object of various
 particular grammars.
-General grammar is therefore the rational science of the immutable and general
-principles of spoken or written Language [Langage], whatever language [langue] this
+
+General grammar is therefore the rational science of the immutable and general principles of spoken or written Language [Langage], whatever language [langue] this
 may be.
-A particular grammar is the art of applying the arbitrary and usual conventions of a
-particular language to the immutable and general conventions of written or spoken
+
+A particular grammar is the art of applying the arbitrary and usual conventions of a particular language to the immutable and general conventions of written or spoken
 Language. 
 
+General Grammar is a science, because its object is rational speculation on the immutable and general principles of Language.
 
-General Grammar is a science, because its object is rational speculation on the
-immutable and general principles of Language.
-A particular Grammar is an art, because it considers the practical application of the
-arbitrary and usual conventions of a particular language to the general principles of
+A particular Grammar is an art, because it considers the practical application of the arbitrary and usual conventions of a particular language to the general principles of
 Language.
+
 The science of grammar is anterior to all languages in so far as its principles
 presuppose only the possibility of languages and are the same as those which guide
 human reason in its intellectual operations; in short, because they are eternally true.
 The art of grammar, by contrast, is posterior to languages in so far as linguistic usages
 must exist before they can stand in an artificial relation to the general principles of
 Language, and the analogical systems that form this art can be determined only by
-observations made on these pre-existent usages.96
-In his Eloge de du Marsais, D’Alembert gives this account of “philosophical
-grammar”:
+observations made on these pre-existent usages.
+
+In his Eloge de du Marsais, D’Alembert gives this account of “philosophical grammar”:
+
 Grammar is therefore the work of philosophers. Only a philosophical mind can ascend to
 the principles on which its rules are based ... This mind first recognizes, in the grammar
 of each language, the general principles which are common to all of them, and which
@@ -65,13 +64,16 @@ tages; differences in their construction ...; the diversity of their genius ...;
 and freedom, poverty and servitude. The development of these various factors is the true
 metaphysics of grammar. Its object ... is to advance the human mind in the generation of
 its ideas and in the use it makes of words to transmit thoughts to other men.97
+
 The discovery of universal principles would provide a partial explanation for
 the facts of particular languages, in so far as these could be shown to be simply
 specific instances of the general features of language structure formulated in the
 “grammaire générale.” Beyond this, the universal features themselves might be
 explained on the basis of general assumptions about human mental processes or
 the contingencies of language use (for example, the utility of elliptical trans-
-formations). Proceeding in this way, Cartesian linguistics attempts to develop a
+formations).
+
+Proceeding in this way, Cartesian linguistics attempts to develop a
 theory of grammar that is not only “general” but also “explanatory” [raisonnée].
 The linguistics of Port-Royal and its successors developed in part in reaction
 against the prevailing approaches represented, for example, in such work as
@@ -107,6 +109,7 @@ this respect, seems not very different from that of Saussure, Jespersen,
 Bloomfield, and many others who regard innovation as possible only “by
 analogy,” by substitution of lexical items for items of the same category within
 fixed frames (cf. p. 65 above).
+
 The reaction of “philosophical grammar” is not against the descriptivism of
 Vaugelas and others as such101 but against the restriction to pure descriptivism.
 The Port-Royal Grammar takes it as a general maxim for anyone working on a
@@ -154,6 +157,7 @@ point, in the present context, is that this was taken as a paradigm example of t
 necessity for supplementing descriptive statements with a rational explanation,
 if linguistics was to go beyond compilation of facts to true “science” – in the
 terminology of the day, if grammar was to become “philosophical.”
+
 In connection with the rule of Vaugelas and several other cases, the expla-
 nations that are proposed, in universal grammar, have some substance and linguis-
 tic content. All too often, however, they are quite empty, and invoke assumptions
@@ -186,9 +190,9 @@ words, and phrases, remain unsatisfying, and for the same reason. In neither cas
 do we have an underlying hypothesis as to the general nature of language that
 is sufficiently strong as to indicate why just these and not other descriptions are
 selected by the child acquiring the language or the linguist describing it, on the
-basis of the data available to them.105
-What is more, there is little recognition in philosophical grammar of the
-intricacy of the mechanisms that relate deep to surface structure, and, beyond
+basis of the data available to them.
+
+What is more, there is little recognition in philosophical grammar of the intricacy of the mechanisms that relate deep to surface structure, and, beyond
 the general outlines sketched above, there is no detailed investigation of the
 character of the rules that appear in grammars or the formal conditions that they
 satisfy. Concomitantly, no clear distinction is made between the abstract structure
@@ -197,13 +201,14 @@ deep structure consists of actual sentences in a simpler or more natural organ-
 ization and that the rules of inversion, ellipsis, and so on, that form the full range
 of actual sentences simply operate on these already formed simple sentences. This
 point of view is explicit, for example, in Du Marsais’s theory of construction and
-syntax, and it is undoubtedly the general view throughout.106 The totally unwar-
-ranted assumption that a deep structure is nothing other than an arrangement of
+syntax, and it is undoubtedly the general view throughout.106 
+
+The totally unwarranted assumption that a deep structure is nothing other than an arrangement of
 simple sentences can be traced to the Cartesian postulate that, quite generally, the
 principles that determine the nature of thought and perception must be accessible
 to introspection and can be brought to consciousness, with care and attention.
-Despite these shortcomings, the insights into the organization of grammar that
-were achieved in Cartesian linguistics remain quite impressive, and a careful
+
+Despite these shortcomings, the insights into the organization of grammar that were achieved in Cartesian linguistics remain quite impressive, and a careful
 study of this work can hardly fail to prove rewarding to a linguist who approaches
 it without prejudice or preconceptions as to the a priori limitations on permitted
 linguistic investigation. Beyond these achievements, the universal grammarians

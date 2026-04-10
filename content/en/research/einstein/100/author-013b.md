@@ -2,7 +2,7 @@
 heading: "Authors 13b"
 title: "Space and spaces"
 # date: 2024-12-12
-weight: 16
+weight: 19
 description: "General Relativity has a mixture of 2 things which mathematicians wrongly use the same name"
 c: "darkgoldenrod"
 ---
@@ -68,17 +68,24 @@ away from the entirety of the movements of the universe.
 The square shape mentioned is as follows:
 
 In it U denotes a function of the coordinates of the system.
+
 The calculation involves the introduction of an auxiliary variable t, which is defined by the equation
 is determined. This allows the geodetic differential equations to be reduced to the usual form of the
 equations of mechanics. This auxiliary variable t is the canonical time of classical mechanics.
+
 The canonical frame of reference is the one for which the kinetic energy of the observable universe
 is minima.
 
 If one finally determines U according to a minimum requirement for the energy of the accelerations,
 one finds where mi and mk denote the masses of two elements and rik denote their distance. This is
 Newton's first law. The equations of motion then have the form
+
+...
+
+
 These equations contain not only the coordinates of the point under consideration, but also those of
 all other points in the system, which gives the whole thing closed 1).
+
 An interesting fact of relativity, which classical mechanics reveals but escaped Einstein's school, is
 the relative character of the principle of the equality of action and counteraction. This principle does
 not express a property of matter: it is a property that comes from the choice of the frame of

@@ -2,12 +2,12 @@
 title: "Two Systems"
 heading: "Part 2"
 weight: 6
-# date: 2022-04-10
 # linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein Ether is a impotent something"
 icon: "Einstein"
-image: "/covers/epr.png"
+lastmod: 2026-04-06
+c: "firebrick"
 ---
 
 
@@ -168,4 +168,4 @@ This makes the reality of `P` and `Q` depend on the process of measurement done 
 We answer that this is not a reasonable deﬁnition of reality. Therefore, the wave function does not provide a complete description of physical reality. Yet such a theory is possible.
 {{< /c >}}
 
-![Lol](/icons/einbla.png)
+![Lol](/icons/Einstein.jpg)

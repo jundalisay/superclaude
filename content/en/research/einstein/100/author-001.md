@@ -3,7 +3,7 @@ heading: "Authors 1-2"
 title: "Walter Del Negro and Hans Driesch"
 # date: 2024-12-12
 weight: 4
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "The Question Of Relativity"
 c: "darkgoldenrod"
 ---
 

@@ -53,8 +53,12 @@ The universal negative premise does not convert, and the particular does.
 
 This will be plain when we speak about the possible. 
 
-At present we may take this much as clear in addition to what has been said: the statement that it is possible that no B is A or some B is not A is affirmative in form: for the expression 'is possible' ranks along with 'is', and 'is' makes an affirmation always and in every case, whatever the terms to which it is added, in predication, e.g. 'it is not-good' or 'it is not-white' or in a word 'it is not-this'. 
+At present we may take this much as clear in addition to what has been said: 
 
-But this also will be proved in the sequel.
+The statement "it is possible that no `B` is `A` or some `B` is not `A`" is affirmative.
+- The phrase 'is possible' ranks along with 'is'
+- 'Is' makes an affirmation always and in every case, whatever the terms to which it is added, in predication, e.g. 'it is not-good' or 'it is not-white' or in a word 'it is not-this'. 
 
-In conversion these premises will behave like the other affirmative propositions.
+<!-- But this also will be proved in the sequel. -->
+
+In conversion, these premises will behave like the other affirmative propositions.

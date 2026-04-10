@@ -1,88 +1,141 @@
----
-heading: Section 3d
-title: "Judgment on the End Result"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "steelblue"
-weight: 29
-writer:
-  name: David Hume
-  url: https://en.wikipedia.org/wiki/David_Hume
-icon: "David Hume"
----
+It will be easy to solve this objection if we consider the imagination's agility and unsteadiness, with the different views it is continually placing its objects in.
+
+When we attribute to a person a property in two objects, we do not always pass:
+- from the person to one object, and
+- from that object to the other object related to it.
+
+The objects are here to be considered as the person's property.
+
+We are apt to join them together and place them in the same light.
+
+Suppose a great and a small object are related together.
+
+If a person is strongly related to the great object, he will likewise be strongly related to both the objects considered together.
+- Because he is related to the most considerable part.
+
+On the contrary, if he is only related to the small object, he will not be strongly related to both.
+
+Since his relation lies only with the most trivial part, which does not strike us as much.
+
+This is why small objects become accessions to great ones instead of the other way around.
+
+Philosophers and civilians think that the sea is incapable of becoming the property of any nation because it is impossible to:
+- take possession of it, or
+- form any distinct relation with it, as may be the foundation of property.
+
+Where this reason ceases, property immediately takes place.
+
+Thus, the most strenuous advocates for the liberty of the seas universally allow, that friths and hays naturally belong as an accession to the proprietors of the surrounding continent.
+
+These have properly no more bond or union with the land, than the Pacific ocean would have.
+
+But they are regarded as an accession because they:
+- are united in the fancy, and
+- are inferior at the same time.
+
+By the laws of most nations and by the natural turn of our thought, the property of rivers is attributed to the proprietors of their banks, except for vast rivers as the Rhine or the Danube.
+
+These are too large for the imagination to follow the property of the neighbouring fields as an accession.
+
+Yet even these rivers are considered as the property of the nation through which they run through.
+
+The idea of a nation has a suitable size to:
+- correspond with them, and
+- bear them such a relation in the fancy.
 
 
-The most curious of all these kinds of questions is the one which divided the disciples of Proculus and Sabinus for so many ages.
+Civilians say that the accessions made to lands bordering on rivers, follow the land if it is made by alluvion or by a gradual increase by the slow addition of land.
 
-Suppose that:
-- a person makes a cup from another person's metal, or a ship from his wood, and then
-- the proprietor of the metal or wood demands his goods.
+These mightily assist the imagination in the conjunction.
 
-Does he acquire a title to the cup or ship?
+When any considerable portion is torn from one bank and joined to another, it does not become the property of that land:
+- until it unites with the land, and
+- until the trees or plants have spread their roots into both.
 
-Sabinus said yes.
+Before that, the imagination does not sufficiently join them.
 
-He asserted that the matter or substance is:
-- the foundation of all the qualities,
-- incorruptible and immortal, and
-- therefore, superior to the form.
+There are other cases which resemble this case of accession, but are different in the end.
 
-Form is casual and dependent.
+An example is the conjunction of the properties of persons that cannot be separated.
 
-
-Proculus observed that the form is the most obvious and remarkable part.
-
-From the form, bodies are denominated to be of this or that kind.
-            He could have added that the matter or substance is so fluctuating and uncertain in most bodies, that it is impossible to trace it in all its changes.
+The question is, to whom the united mass must belong.
 
 
-I do not know from what principles such a controversy can be certainly determined.
+When this conjunction allows division but not separation, the decision is natural and easy.
 
-But I think that Trebonian's decision seems ingenious:
-- The cup belongs to the proprietor of the metal, because it can be brought back to its first form.
-- But the ship belongs to the shipbuilder because it cannot be brought back.
+The whole mass is supposed to be common between the proprietors.
 
-No matter how ingenious this reason may seem, it plainly depends on the fancy.
+It afterwards must be divided according to the proportions of these parts.
 
-Through the possibility of such a reduction, the imagination finds a closer relation:
-- between a cup and the proprietor of its metal, than
-- between a ship and the proprietor of its wood, where the substance is more fixed and unalterable.
+But I cannot refrain from noticing a remarkable subtlety of the Roman law in distinguishing between confusion and mixture.
 
+Confusion is a union of two bodies, such as different liquors, where the parts become entirely undistinguishable.
 
-Mankind's general interest requires that people's possessions should pass to those dearest to them to render them more industrious and frugal.
+Mixture is the blending of two bodies, such as two bushels of corn, where the parts remain separate in an obvious manner.
 
-The right of succession is a very natural one, coming from:
-- that general interest, and
-- the presumed consent of the parent or near relation.
+In mixture, the imagination does not discover an entire a union as in confusion.
 
-Perhaps these causes are seconded by the influence of relation.
+But it is able to trace and preserve a distinct idea of the property of each.
 
-Relation naturally directs us to:
-- consider the son after the parent's death, and
-- ascribe to him a title to his father's possessions.
+Civil law established an entire community in the case of confusion and a proportional division.
 
-Those goods must become somebody's property.
+This is why in the case of mixture, civil law supposes each of the proprietors to maintain a distinct right, no matter how necessity may force them to submit to the same division.
 
-But of whom is the question.
+Inst. Lib. IL Tit. i. Sect 28:
 
-The person's children naturally present themselves to the mind.
-            They are already connected to those possessions through their deceased parent.
-            Thus, we are apt to connect them further by the relation of property.
-        There are many parallel instances of this.20
+"In case your grain was mixed with Titius' grain, if it was done voluntarily by both of you, it is common property, as if your single grains were combined with your joint consent. If the mixture was accidental, or if Titius mixed it without your consent, it is not common property, as the grains retain their original identity. In this case, the grain does not become common property, any more than a herd of cattle is regarded as common property, if Titius' cattle should have become mixed up with yours. However, if all of the corn is kept by either, this creates a suit to determine the ownership with respect to the amount of corn belonging to each. It is in the judge's discretion to determine which is the corn belonging to either party."
 
 
-{{< b >}}
-## Footnote 20:
 
-Many reasons can convince us that the right of succession of government authority depends on the imagination.
+The properties of two persons might become united and cannot be separated.
+- An example is when one builds a house on another's land.
 
-Suppose that a person dies without children.
-        A dispute arises among his relations concerning his inheritance.
-        If his riches are derived partly from his father and partly from his mother, the most natural way of determining such a dispute is to:
-            divide his possessions, and
-            assign each part to the family it is derived from.
-        The person who died was once the full proprietor of those goods.
-            Only in the imagination can we find a certain equity and natural reason in this partition.
-            His affection to these families does not depend on his possessions.
-                This is why his consent can never be presumed precisely for such a partition.
-            Public interest is not concerned on the one side or the other.
-{{< /b >}}
+In such a case, the whole must belong to one of the proprietors.
+
+I assert that it naturally is conceived to belong to the proprietor of the most considerable part.
+
+The compound object may:
+- have a relation to 2 different persons, and
+- carry our view to both of them at once
+
+**But the most considerable part principally engages our attention.**
+
+By the strict union, it draws the inferior part with it.
+
+This is why the whole:
+- bears a relation to the proprietor of that part, and
+- is regarded as his property.
+
+The only difficulty is what we shall call:
+- the most considerable part, and
+- the most attractive to the imagination.
+
+
+This quality depends on several circumstances which have little connection with each other.
+
+One part of a compound object may become more considerable than another because:
+- it is more constant and durable,
+- it is of greater value,
+- it is more obvious and remarkable,
+- it is larger, or
+- its existence is more separate and independent.
+
+These circumstances may be conjoined and opposed:
+- in all the different ways, and
+- according to all the different degrees imaginable.
+
+There will be many cases where the reasons on both sides are so equally balanced.
+
+It would be impossible for us to give any satisfactory decision.
+
+
+This is the proper business of municipal laws: **to fix what the principles of human nature have left undetermined.**
+
+The civil law says:
+- the superficies yields to the soil,
+- the writing yields to the paper, and
+- the canvas yields to the picture.
+
+These decisions:
+- do not agree well together, and
+- are a proof of the contrariety of the principles they are derived from.

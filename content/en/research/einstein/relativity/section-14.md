@@ -2,6 +2,7 @@
 title: "The Heuristic Value Of The Theory Of Relativity"
 heading: "Section 14"
 # date: 2022-04-04
+lastmod: 2026-04-01
 weight: 22
 description: "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
 c: "firebrick"
@@ -34,7 +35,7 @@ Every general law of nature* is transformed into a law of exactly the same form 
 
 The relation between the ordinary and the accented magnitudes is given by the Lorentz transformation. In other words: **General laws of nature are co-variant with respect to Lorentz transformations.**
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 This is a definite mathematical condition that my theory of relativity demands of a natural law. This makes my theory a valuable heuristic aid in the search for the general laws of nature. If a general law of nature were to be found which did not satisfy this condition, then at least one of the two fundamental assumptions of the theory would have been disproved*.
 

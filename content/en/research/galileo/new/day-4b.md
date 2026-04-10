@@ -13,6 +13,7 @@ writer:
 
 
 
+{{< l a="Salviati" >}}
 Air resistance exhibits itself in 2 ways:
 
 1. By offering greater impedance to less dense than to very dense bodies
@@ -21,10 +22,12 @@ Regarding the first of these, consider the case of two balls having the same dim
 
 Experiment shows that they will reach the earth with slight difference in speed, showing us that in both cases the retardation caused by the air is small; for if both balls start at the same moment and at the same elevation, and if the leaden one be slightly retarded and the wooden one greatly retarded, then the former ought to reach the earth a considerable distance in advance of the latter, since it is ten times as heavy. But this does not happen; indeed, the gain in distance of one over the other does not amount to the hundredth part of the entire fall.
 
-In the case of a ball of stone weighing only a third or half as much as one of lead, the difference in their times of reaching the earth will be scarcely noticeable. Now since the speed [impeto] acquired by a leaden ball in falling from a height of 200 cubits is so great that if the motion remained uniform the ball would, in an interval of time equal to that of the fall, traverse 400 cubits, and since this speed is so considerable in comparison with those which, by use of bows or other machines except fire arms, we are able to give to our projectiles, it follows that we may, without sensible error, regard as absolutely true those propositions which we are about to prove without considering the resistance of the medium.
+In the case of a ball of stone weighing only a third or half as much as one of lead, the difference in their times of reaching the earth will be scarcely noticeable. 
+
+Since the speed [impeto] acquired by a leaden ball in falling from a height of 200 cubits is so great that if the motion remained uniform the ball would, in an interval of time equal to that of the fall, traverse 400 cubits, and since this speed is so considerable in comparison with those which, by use of bows or other machines except fire arms, we are able to give to our projectiles, it follows that we may, without sensible error, regard as absolutely true those propositions which we are about to prove without considering the resistance of the medium.
 
 
-2. by offering greater resistance to a body in rapid motion than to the same body in slow motion.
+2. By offering greater resistance to a body in rapid motion than to the same body in slow motion.
 
 Air resistance for a rapidly moving body is not very much greater than for one moving slowly.
 
@@ -33,26 +36,50 @@ Ample proof is given by the following experiment. Attach to two threads of equal
 In the first place it must be remarked that one pendulum passes through its arcs of 180°, 160°, etc., in the same time that the other swings through its 10°, 8°, etc., from which it follows that the speed of the first ball is 16 and 18 times greater than that of the second. Accordingly, if the air offers more resistance to the high speed than to the low, the frequency of vibration in the large arcs of 180° or 160°, etc., ought to be less than in the small arcs of 10°, 8°, 4°, etc., and even less than in arcs of 2°, or 1°; but this prediction is not verified by experiment; because if two persons start to count the vibrations, the one the large, the other the small, they will discover that after counting tens and even hundreds they will not differ by a single vibration, not even by a fraction of one.
 
 This observation justifies the two following propositions, namely, that vibrations of very large and very small amplitude all occupy the same time and that the resistance of the air does not affect motions of high speed more than those of low speed, contrary to the opinion hitherto generally entertained.
+{{< /l >}}
 
-Sagr.
-On the contrary, since we cannot deny that the air hinders both of these motions, both becoming slower and finally vanishing, we have to admit that the retardation occurs in the same proportion in each case. But how? How, indeed, could the resistance offered to the one body be greater than that offered to the other except by the impartation of more momentum and speed [impeto e velocità] to the fast body than to the slow? And if this is so the speed with which a body moves is at once the cause and measure [cagione e misura] of the resistance which it meets. Therefore, all motions, fast or slow, are hindered and diminished in the same proportion; a result, it seems to me, of no small importance.
 
-Salv.
+{{< r a="Sagredo" >}}
+On the contrary, since we cannot deny that the air hinders both of these motions, both becoming slower and finally vanishing, we have to admit that the retardation occurs in the same proportion in each case.
+
+But how?
+
+How could the resistance offered to the one body be greater than that offered to the other except by the impartation of more momentum and speed [impeto e velocità] to the fast body than to the slow?
+
+If this is so the speed with which a body moves is at once the cause and measure [cagione e misura] of the resistance which it meets. Therefore, all motions, fast or slow, are hindered and diminished in the same proportion; a result, it seems to me, of no small importance.
+{{< /r >}}
+
+
+{{< l a="Salviati" >}}
 We are able, therefore, in this second case to say that the errors, neglecting those which are accidental, in the results which we are about to demonstrate are small in the case of our machines where the velocities employed are mostly very great and the distances negligible in comparison with the semidiameter of the earth or one of its great circles.
+{{< /l >}}
 
-Simp.
+
+{{< r a="Simplicio" >}}
 I would like to hear your reason for putting the projectiles of fire arms, i. e., those using powder, in a different class from the projectiles employed in bows, slings, and crossbows, on the ground of their not being equally subject to change and resistance from the air.
+{{< /r >}}
 
-Salv.
-I am led to this view by the excessive and, so to speak, supernatural violence with which such projectiles are launched; for, indeed, it appears to me that without exaggeration one might say that the speed of a ball fired either from a musket or from a piece of ordnance is supernatural. For if such a ball be allowed to fall from some great elevation its speed will, owing to the resistance of the air, not go on increasing indefinitely; that which happens to bodies of small density in falling through short distances—I mean the reduction of their motion to uniformity—will also happen to a ball of iron or lead after it has fallen a few thousand cubits; this terminal or final speed [terminata velocità] is the maximum which such a heavy body can naturally acquire in falling through the air. This speed I estimate to be much smaller than that impressed upon the ball by the burning powder.
 
-An appropriate experiment will serve to demonstrate this fact. From a height of one hundred or more cubits fire a gun [archibuso] loaded with a lead bullet, vertically downwards upon a stone pavement; with the same gun shoot against a similar stone from a distance of one or two cubits, and observe which of the two balls is the more flattened. Now if the ball which has come from the greater elevation is found to be the less flattened of the two, this will show that the air has hindered and diminished the speed initially imparted to the bullet by the powder, and that the air will not permit a bullet to acquire so great a speed, no matter from what height it falls; for if the speed impressed upon the ball by the fire does not exceed that acquired by it in falling freely [naturalmente] then its downward blow ought to be greater rather than less.
+{{< l a="Salviati" >}}
+I am led to this view by the excessive and supernatural violence with which such projectiles are launched.
+
+I think that the speed of a ball fired either from a musket is supernatural. 
+
+For if such a ball be allowed to fall from some great elevation its speed will, owing to the resistance of the air, not go on increasing indefinitely; that which happens to bodies of small density in falling through short distances—I mean the reduction of their motion to uniformity—will also happen to a ball of iron or lead after it has fallen a few thousand cubits.
+
+This terminal or final speed [terminata velocità] is the maximum which such a heavy body can naturally acquire in falling through the air. This speed I estimate to be much smaller than that impressed upon the ball by the burning powder.
+
+An appropriate experiment will serve to demonstrate this fact. From a height of one hundred or more cubits fire a gun [archibuso] loaded with a lead bullet, vertically downwards upon a stone pavement; with the same gun shoot against a similar stone from a distance of one or two cubits, and observe which of the two balls is the more flattened. 
+
+If the ball which has come from the greater elevation is found to be the less flattened of the two, this will show that the air has hindered and diminished the speed initially imparted to the bullet by the powder, and that the air will not permit a bullet to acquire so great a speed, no matter from what height it falls; for if the speed impressed upon the ball by the fire does not exceed that acquired by it in falling freely [naturalmente] then its downward blow ought to be greater rather than less.
 
 This experiment I have not performed, but I am of the opinion that a musket-ball or cannon-shot, falling from a height as great as you please, will not deliver so strong a blow as it would if fired into a wall only a few cubits distant, i. e., at such a short range that the splitting or rending of the air will not be sufficient to rob the shot of that excess of supernatural violence given it by the powder.
 
-The enormous momentum [impeto] of these violent shots may cause some deformation of the trajectory, making the beginning of the parabola flatter and less curved than the end; but, so far as our Author is concerned, this is a matter of small consequence in practical operations, the main one of which is the preparation of a table of ranges for shots of high elevation, giving the distance attained by the ball as a function of the angle of elevation; and since shots of this kind are fired from mortars [mortari] using small charges and imparting no supernatural momentum [impeto sopranaturale] they follow their prescribed paths very exactly.
+The enormous momentum [impeto] of these violent shots may cause some deformation of the trajectory, making the beginning of the parabola flatter and less curved than the end; but, so far as our Author is concerned, this is a matter of small consequence in practical operations, the main one of which is the preparation of a table of ranges for shots of high elevation, giving the distance attained by the ball as a function of the angle of elevation.
 
-But now let us proceed with the discussion in which the Author invites us to the study and investigation of the motion of a body [impeto del mobile] when that motion is compounded of two others; and first the case in which the two are uniform, the one horizontal, the other vertical.
+Since shots of this kind are fired from mortars [mortari] using small charges and imparting no supernatural momentum [impeto sopranaturale] they follow their prescribed paths very exactly.
+
+The Author investigates the motion of a body when compounded of two other motions. First the case in which the two are uniform, the one horizontal, the other vertical.
 
 
 ## Theorem 2, Proposition 2
@@ -62,6 +89,7 @@ When the motion of a body is the resultant of two uniform motions, one horizonta
 Let us imagine any body urged by two uniform motions and let ab represent the vertical displacement, while bc represents the displacement which, in the same interval of time, takes place in a horizontal direction. If then the distances ab and bc are traversed, during the same time-interval, with uniform motions the corresponding momenta will be to each other as the distances ab and bc are to each other; but the body which is urged by these two motions describes the diagonal ac; its momentum is proportional to ac. Also the square of ac is equal to the sum of the squares of ab and bc. Hence the square of the resultant momentum is equal to the sum of the squares of the two momenta ab and bc.
 
 q. e. d.
+{{< /l >}}
 
 
 Fig. 109

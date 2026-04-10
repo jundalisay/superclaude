@@ -19,7 +19,7 @@ How are syllogisms produced?*
 
 Syllogism should be discussed before demonstration because syllogism is the general. 
 
-The demonstration is a sort of syllogism, but not every syllogism is a demonstration.*
+The demonstration is a sort of syllogism. But not every syllogism is a demonstration.*
 
 {{< n n="A demonstration is when the abstract flow of ideas has a match with reality" >}}
 
@@ -32,14 +32,22 @@ A perfect syllogism is when its 3 inter-related terms, the extremes must be rela
 
 The middle term is itself contained in another and contains another in itself.*
 
-{{< n n="A flow has a start, middle, and end" >}}
+{{< n n="A flow has a start, middle, and end. Syllogism is a statement that has a flow and relation" >}}
 
 
-In position also this comes in the middle. By extremes I mean both that term which is itself contained in another and that in which another is contained. 
+In position also this comes in the middle.
 
-If A is predicated of all B, and B of all C, A must be predicated of all C: This is 'predicated of all'.
+"Extremes" are both:
+- that term which is itself contained in another
+- that term in which another is contained
 
-Similarly also, if A is predicated of no B, and B of all C, it is necessary that no C will be A.
+If `A` is predicated of [part of] all `B`, and `B` is [part of] of all `C`, then `A` must be predicated of [part of] all `C`.
+- This is 'predicated of all' [part of all].
+
+Similarly, if `A` is predicated of no `B`, and `B` of all `C`, it is necessary that no `C` will be `A`.
+
+{{< n n="A is part of non-B. B is part of C. Then A will not be C" >}}
+
 
 But if the first term belongs to all the middle, but the middle to none of the last term, there will be no syllogism in respect of the extremes.*
 
@@ -118,11 +126,21 @@ Consequently there cannot be a syllogism. Again let no B be A, but let some C no
 
 Take the terms inanimate, man, white: then take some white things of which man is not predicated-swan and snow: the term inanimate is predicated of all of the one, of none of the other.
 
-Further since it is indefinite to say some C is not B, and it is true that some C is not B, whether no C is B, or not all C is B, and since if terms are assumed such that no C is B, no syllogism follows (this has already been stated) it is clear that this arrangement of terms will not afford a syllogism: otherwise one would have been possible with a universal negative minor premise. A similar proof may also be given if the universal premise is negative.
+It is indefinite to say that some `C` is not `B`.
+
+It is true that some `C` is not `B`, whether no `C` is `B`, or not all `C` is `B`.
+
+Since if terms are assumed such that no `C` is `B`, no syllogism follows (this has already been stated) then this arrangement of terms will not afford a syllogism.
+
+Otherwise one would have been possible with a universal negative minor premise. 
+
+A similar proof may also be given if the universal premise is negative.
 
 Nor can there in any way be a syllogism if both the relations of subject and predicate are particular, either positively or negatively, or the one negative and the other affirmative, or one indefinite and the other definite, or both indefinite. Terms common to all the above are animal, white, horse: animal, white, stone.
 
-If there is a syllogism in this figure with a particular conclusion, the terms must be related as we have stated: if they are related otherwise, no syllogism is possible anyhow.
+If there is a syllogism in this figure with a particular conclusion, the terms must be related.
+
+If they are related otherwise, no syllogism is possible anyhow.
 
 In this figure:
 - all the syllogisms in this figure are perfect. They are all completed by means of the premises originally taken

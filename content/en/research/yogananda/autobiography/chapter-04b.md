@@ -1,35 +1,53 @@
 ---
 title: "Ananta"
 heading: Chapter 4b
-description: ""
+description: "A clever scheme had been prearranged by Ananta."
 c: "indigo"
 author: "Yogananda"
 weight: 16
 ---
 
 
-A clever scheme had been prearranged by Ananta. Before seeing me at Hardwar, he had stopped in Benares to ask a certain scriptural authority to interview me later. Both the pundit and his son had promised to undertake my dissuasion from the path of a sannyasi . 4-1
+A clever scheme had been prearranged by Ananta. 
 
-Ananta took me to their home. The son, a young man of ebullient manner, greeted me in the courtyard. He engaged me in a lengthy philosophic discourse. Professing to have a clairvoyant knowledge of my future, he discountenanced my idea of being a monk.
+Before seeing me at Hardwar, he had stopped in Benares to ask a certain scriptural authority to interview me later. Both the pundit and his son had promised to undertake my dissuasion from the path of a sannyasi [renunciate]
 
+Ananta took me to their home.
 
-“You will meet continual misfortune, and be unable to find God, if you insist on deserting your ordinary responsibilities! You cannot work out your past karma 4-2 without worldly experiences.”
+The son, a young man of ebullient manner, greeted me in the courtyard.
+
+He engaged me in a lengthy philosophic discourse. Professing to have a clairvoyant knowledge of my future, he discountenanced my idea of being a monk.
+
+{{< r a="Son">}}
+You will meet continual misfortune, and be unable to find God, if you insist on deserting your ordinary responsibilities! You cannot work out your past karma 4-2 without worldly experiences.
+{{< /r >}}
+
 
 Krishna’s immortal words rose to my lips in reply: 
 
-“‘Even he with the worst of karma who ceaselessly meditates on Me quickly loses the effects of his past bad actions. Becoming a high-souled being, he soon attains perennial peace. Arjuna, know this for certain: the devotee who puts his trust in Me never perishes!’” 4-3
+{{< l a="Yogananda" >}}
+‘Even he with the worst of karma who ceaselessly meditates on Me quickly loses the effects of his past bad actions. Becoming a high-souled being, he soon attains perennial peace. Arjuna, know this for certain: the devotee who puts his trust in Me never perishes!’ 4-3
+{{< /l >}}
 
-But the forceful prognostications of the young man had slightly shaken my confidence. With all the fervor of my heart I prayed silently to God:
 
-“Please solve my bewilderment and answer me, right here and now, if Thou dost desire me to lead the life of a renunciate or a worldly man!”
+But his forceful prognostications had slightly shaken my confidence. With all the fervor of my heart I prayed silently to God:
+
+{{< l a="Yogananda" >}}
+Please solve my bewilderment and answer me, right here and now, if Thou dost desire me to lead the life of a renunciate or a worldly man!
+{{< /l >}}
+
 
 I noticed a sadhu of noble countenance standing just outside the compound of the pundit’s house. 
 
 He had overheard the spirited conversation between the self-styled clairvoyant and myself, for the stranger called me to his side. I felt a tremendous power flowing from his calm eyes.
 
-“Son, don’t listen to that ignoramus. In response to your prayer, the Lord tells me to assure you that your sole path in this life is that of the renunciate.”
+{{< r a="Clairvoyant" >}}
+Son, don’t listen to that ignoramus. In response to your prayer, the Lord tells me to assure you that your sole path in this life is that of the renunciate.
+{{< /r >}}
 
-With astonishment as well as gratitude, I smiled happily at this decisive message.
+
+With astonishment and gratitude, I smiled happily at his decisive message.
+
 
 “Come away from that man!” The “ignoramus” was calling me from the courtyard. My saintly guide raised his hand in blessing and slowly departed.
 
@@ -37,17 +55,21 @@ With astonishment as well as gratitude, I smiled happily at this decisive messag
 
 I turned away. To Ananta I remarked that I would not engage in further discussion with our hosts. My brother agreed to an immediate departure; we soon entrained for Calcutta.
 
-ananta
-
 I stand behind my elder brother, Ananta.
 
-festival
+
 
 Last Solstice Festival celebrated by Sri Yukteswar, December, 1935. My Guru is seated in the center; I am at his right, in the large courtyard of his hermitage in Serampore.
 
-“Mr. Detective, how did you discover I had fled with two companions?” I vented my lively curiosity to Ananta during our homeward journey. He smiled mischievously.
+{{< l a="Yogananda" >}}
+Mr. Detective Ananta, how did you discover I had fled with two companions?
+{{< /l >}}
 
-“At your school, I found that Amar had left his classroom and had not returned. I went to his home the next morning and unearthed a marked timetable. Amar’s father was just leaving by carriage and was talking to the coachman.
+
+{{< r a="Ananta">}}
+[smiling mischievously] At your school, I found that Amar had left his classroom and had not returned. I went to his home the next morning and unearthed a marked timetable. Amar’s father was just leaving by carriage and was talking to the coachman.
+{{< /r >}}
+
 
 “‘My son will not ride with me to his school this morning. He has disappeared!’ the father moaned.
 
@@ -55,7 +77,9 @@ Last Solstice Festival celebrated by Sri Yukteswar, December, 1935. My Guru is s
 
 “Thus I had three clues-the timetable, the trio of boys, and the English clothing.”
 
+
 I was listening to Ananta’s disclosures with mingled mirth and vexation. Our generosity to the coachman had been slightly misplaced!
+
 
 “Of course I rushed to send telegrams to station officials in all the cities which Amar had underlined in the timetable. He had checked Bareilly, so I wired your friend Dwarka there. 
 
@@ -68,7 +92,13 @@ He was surrounded by several officers whom I had previously selected for their f
 
 “‘I started for the Himalayas in a buoyant spiritual mood,’ he explained. ‘Inspiration filled me at the prospect of meeting the masters. 
 
-But as soon as Mukunda said, ”During our ecstasies in the Himalayan caves, tigers will be spellbound and sit around us like tame pussies,“ my spirits froze; beads of perspiration formed on my brow. ”What then?“ I thought. ”If the vicious nature of the tigers be not changed through the power of our spiritual trance, shall they treat us with the kindness of house cats?“ In my mind’s eye, I already saw myself the compulsory inmate of some tiger’s stomach-entering there not at once with the whole body, but by installments of its several parts!’”
+But as soon as Mukunda said, ”During our ecstasies in the Himalayan caves, tigers will be spellbound and sit around us like tame pussies,“ my spirits froze; beads of perspiration formed on my brow. 
+
+
+{{< l a="Yogananda" >}}
+What then? If the vicious nature of the tigers be not changed through the power of our spiritual trance, shall they treat us with the kindness of house cats?“ In my mind’s eye, I already saw myself the compulsory inmate of some tiger’s stomach-entering there not at once with the whole body, but by installments of its several parts!’”
+{{< /l >}}
+
 
 My anger at Jatinda’s vanishment was evaporated in laughter. The hilarious sequel on the train was worth all the anguish he had caused me. I must confess to a slight feeling of satisfaction: Jatinda too had not escaped an encounter with the police!
 
@@ -102,6 +132,7 @@ Kebalananda was a noted authority on the ancient shastras or sacred books: his e
 
 “I myself consider Kriya the most effective device of salvation through self-effort ever to be evolved in man’s search for the Infinite.” Kebalananda concluded with this earnest testimony. “Through its use, the omnipotent God, hidden in all men, became visibly incarnated in the flesh of Lahiri Mahasaya and a number of his disciples.”
 
+
 A Christlike miracle by Lahiri Mahasaya took place in Kebalananda’s presence. My saintly tutor recounted the story one day, his eyes remote from the Sanskrit texts before us.
 
 “A blind disciple, Ramu, aroused my active pity. Should he have no light in his eyes, when he faithfully served our master, in whom the Divine was fully blazing? One morning I sought to speak to Ramu, but he sat for patient hours fanning the guru with a hand-made palm-leaf punkha. When the devotee finally left the room, I followed him.
@@ -133,10 +164,8 @@ A Christlike miracle by Lahiri Mahasaya took place in Kebalananda’s presence. 
 I never became a Sanskrit scholar; Kebalananda taught me a diviner syntax.
 
 
+
 ### Footnotes
-
-
-4-1: Literally, “renunciate.” From Sanskrit verb roots, “to cast aside.”
 
 4-2: Effects of past actions, in this or a former life; from Sanskrit kri, “to do.”
 

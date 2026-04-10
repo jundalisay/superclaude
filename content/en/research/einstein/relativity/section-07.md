@@ -2,6 +2,7 @@
 title: "The Apparent Incompatibility Of The Law Of Propagation Of Light with Relativity"
 heading: "Section 7"
 weight: 14
+lastmod: 2026-04-07
 # date: 2022-04-18
 description: "The constancy of the speed of light makes classical mechanics not universal"
 c: "firebrick"
@@ -66,7 +67,7 @@ Prominent theoretical physicists therefore reject my principle of relativity, ev
 
 <!-- As a result of an analysis of the physical conceptions of time and space, it became evident that in reality there is not the least incompatibility between  -->
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 The principle of relativity and the speed of light must be perfectly compatible. <span style="color=  red">I arrive at this by analyzing the physical conceptions of space and time.</span> I call this Special Relativity to distinguish it from General Relativity*.
 

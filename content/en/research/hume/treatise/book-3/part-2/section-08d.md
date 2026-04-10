@@ -3,7 +3,7 @@ heading: Section 8d
 title: "Rebellion"
 description: "The distinction of moral good and evil is founded on the pleasure or pain resulting from the view of any sentiment or character."
 c: "steelblue"
-weight: 72
+weight: 74
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -73,8 +73,10 @@ They would reply that it did not depend on their consent, but that they were bor
 Because of this opinion, we frequently see the people imagine such persons to be their natural rulers.
 
 Their rulers might have come from that line of rulers, from a long time ago.
-        But now they might be deprived of all power and authority.
-        No man would voluntarily choose them today or give them any promise of obedience.
+
+But now they might be deprived of all power and authority.
+
+No man would voluntarily choose them today or give them any promise of obedience.
 
 Does a government then have no authority over the people, because they never consented to it?
 
@@ -85,7 +87,8 @@ The government punishes them very freely for treason and rebellion.
 According to this system, the government reduces itself to common injustice.
 
 If you say that by living in its territory, they in effect consented to the established government, I answer that this can only be true where they think the affair depends on their choice.
-        Besides those philosophers, few or no one has ever yet imagined this.
+
+Besides those philosophers, few or no one has ever yet imagined this.
 
 A rebel never waged war against the sovereign as his first act upon reaching legal age.
 
@@ -98,17 +101,20 @@ There should be some intermediate time for a tacit consent to be supposed in cri
 A man living under an absolute government would owe no allegiance to that government.
 
 Since the nature of the absolute government does not depend on consent.
-        But as an absolute government is as natural and common a government as any, it must occasion some obligation.
-            The men subjected to it always think so.
+
+But as an absolute government is as natural and common a government as any, it must occasion some obligation.
+
+The men subjected to it always think so.
     
-- This is a clear proof that we do not commonly esteem our allegiance to be derived from our consent or promise.
+This is a clear proof that we do not commonly esteem our allegiance to be derived from our consent or promise.
 
 Another poof is that when we make an express promise, we always distinguish between the two obligations.
 
 The promise adds more force to the allegiance, than in a repetition of the same promise.
 
 Where no promise is given, a man does not look on his allegiance as broken.
-        But he keeps those two duties of honour and allegiance perfectly distinct and separate.
+
+But he keeps those two duties of honour and allegiance perfectly distinct and separate.
 
 These philosophers thought that their unity was a very subtle invention.
 

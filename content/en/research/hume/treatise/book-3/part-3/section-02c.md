@@ -45,10 +45,13 @@ They cannot be openly proud more than other people.
 They will be more applauded if they show reserve. -->
 
 That impertinent, and almost universal propensity of men to over-value themselves, has given us a prejudice against self-applause.
-        We are apt to condemn it by a general rule whenever we encounter it.
-        We give a privilege to men of sense with difficulty, even in their most secret thoughts.
+
+We are apt to condemn it by a general rule whenever we encounter it.
+
+We give a privilege to men of sense with difficulty, even in their most secret thoughts.
 
 At least, some disguise in this is absolutely requisite.
+
 
 If we harbour pride, we must still:
 - be outwardly modest
@@ -163,35 +166,36 @@ Men of cool reflection are not so sanguine in their praises of it.
 The infinite confusions and disorder it has caused in the world reduce much of its merit in their eyes.
 
 They always paint out the evils produced by heroism in human society:
-    the subversion of empires,
-    the devastation of provinces, and
-    the sack of cities. 
+- the subversion of empires,
+- the devastation of provinces, and
+- the sack of cities. 
 
 As long as these are present to us, we are more inclined to hate than admire the ambition of heroes.
+
 But when we view the hero himself, there is something so dazzling in his character.
-    Its mere contemplation so elevates the mind, that we cannot refuse to admire it.
-    The pain we receive from its prejudice of society is over-powered by a stronger and more immediate sympathy.
-
-
+- Its mere contemplation so elevates the mind, that we cannot refuse to admire it.
+- The pain we receive from its prejudice of society is over-powered by a stronger and more immediate sympathy.
 
 Thus, our explanation of the merit or demerit which attends pride serves as a strong argument for the preceding hypothesis.
-        It shows the effects of those above-explained principles in all our judgments on pride.
+- It shows the effects of those above-explained principles in all our judgments on pride.
 
 This reasoning will be advantageous to us by:
-    showing that the distinction of vice and virtue arises from:
-        the four principles of the advantage, and
-        the pleasure of the person himself and others.
-    affording us a strong proof of some under-parts of that hypothesis.
+- showing that the distinction of vice and virtue arises from:
+  - the 4 principles of the advantage, and
+  - the pleasure of the person himself and others
+- affording us a strong proof of some under-parts of that hypothesis.
 
 Any in-breeding or expression of pride and haughtiness is displeasing to us merely because it:
-    shocks our own pride, and
-    leads us by sympathy into a comparison which causes humility.
+- shocks our own pride, and
+- leads us by sympathy into a comparison which causes humility.
+
 An insolence of this kind is blamed even in a person:
-    who has always been civil to us, and
-    whose name is only known to us in history.
+- who has always been civil to us, and
+- whose name is only known to us in history.
+
 It follows that our disapprobation proceeds from:
-    a sympathy with others, and
-    the reflection that such a proud person would be highly displeasing to those who converse with him.
+- a sympathy with others, and
+- the reflection that such a proud person would be highly displeasing to those who converse with him.
 
 
 We sympathize with those people in their uneasiness.

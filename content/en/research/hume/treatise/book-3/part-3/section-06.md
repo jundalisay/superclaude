@@ -61,7 +61,7 @@ If the reader could be convinced with bribes or anything but solid arguments, we
 
 We are all lovers of virtue in thought, but we might degenerate in practice.
 
-    We are pleased to see moral distinctions derived from so noble a source, which gives us a just notion of human nature's generosity and capacity.
+We are pleased to see moral distinctions derived from so noble a source, which gives us a just notion of human nature's generosity and capacity.
 
 Very little knowledge of human affairs is needed to perceive that a sense of morals is:
 - a principle inherent in the soul, and

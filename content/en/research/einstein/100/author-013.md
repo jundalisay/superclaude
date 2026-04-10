@@ -2,8 +2,8 @@
 heading: "Authors 13"
 title: "Kuntz, Lasker"
 # date: 2024-12-12
-weight: 16
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+weight: 18
+description: "The Bankruptcy Of Relativity Theory"
 c: "darkgoldenrod"
 ---
 
@@ -76,48 +76,38 @@ S. 21 (Paris 1922). Journal of Mathematics, S. 223 (1922). -->
 
 ### 3. The relativistic explanation of the Michelson experiment
 
-Having drawn incorrect conclusions from the Michelson experiment, the relativistic school tries to explain it. Since the partial derivative equation for the propagation of the waves does not hold up for the analytic transformation, which is
-a rectilinear uniform translation, one changes the meaning of the words. The transformation by
-Voigt-Lorentz, which retains the analytical form of the equation in question, is baptized with the
-name "translation".
+Having drawn incorrect conclusions from the Michelson experiment, the relativistic school tries to explain it. Since the partial derivative equation for the propagation of the waves does not hold up for the analytic transformation, which is a rectilinear uniform translation, one changes the meaning of the words. 
+
+The transformation by Voigt-Lorentz, which retains the analytical form of the equation in question, is baptized with the name "translation".
 
 This is ridiculous sleight of hand. Translation is one thing, Voigt-Lorentz transformation is another.
 
-There is a group of translations like there is a Voigt-Lorentz group. The two groups each have their
-own area and specific meaning in mathematics. Since these are matters of definition, they cannot be
-confused.
+There is a group of translations like there is a Voigt-Lorentz group. The two groups each have their own area and specific meaning in mathematics. Since these are matters of definition, they cannot be confused.
 
-In order to use the Voigt-Lorentz group, Einstein assumes two reference systems; each of them is
-assigned an observer equipped with a full set of measuring instruments and timers. Each of the two
-carries out the length measurements in his own system, namely by shifting the scales according to
-the methods of Euclidean geometry. The observer and the objects have permanent existence and
-can even, it is said, pass from one system to another. Finally, the relationship between
-the coordinates of one and the same event point related to both systems using the formulas of
-Lorentz.
+In order to use the Voigt-Lorentz group, Einstein assumes two reference systems; each of them is assigned an observer equipped with a full set of measuring instruments and timers. 
 
-One notices immediately that these hypotheses have nothing in common with the conditions
-prevailing in the Michelson experiment, where there is only a single observer who neither has to
-measure his timer nor determine the numerical value of the speed of light.
+Each of the 2 carries out the length measurements in his own system, namely by shifting the scales according to the methods of Euclidean geometry. The observer and the objects have permanent existence and can even, it is said, pass from one system to another.
+
+Finally, the relationship between the coordinates of one and the same event point related to both systems using the formulas of Lorentz.
+
+One notices immediately that these hypotheses have nothing in common with the conditions prevailing in the Michelson experiment, where there is only a single observer who neither has to measure his timer nor determine the numerical value of the speed of light.
+
 
 ### 4. Incompatibility of Einstein's requirements. But even more: Einstein's hypotheses are themselves logically incompatible with one another.
 
-Two systems with variables S (x, y, z, t) and S '(x ’, y’, z ’, t’) may correspond to one another according
-to Lorentz's formulas. Should a point in the. System S 'be fixed, so x', y ', z' must be constant, while t’
-remains arbitrary. The equation which determines t' then plays no role.
+Two systems with variables S (x, y, z, t) and S '(x ’, y’, z ’, t’) may correspond to one another according to Lorentz's formulas. Should a point in the. System S 'be fixed, so x', y ', z' must be constant, while t’ remains arbitrary. The equation which determines t' then plays no role.
 
-Under these circumstances, all points bound to S ’suffer a straight, uniform translation with respect
-to S; but the variables x ’, y’, z ’do not mean Cartesian right-angled coordinates in the sense of S. The
-same obviously applies if one assumes x, y, z fixed and t as arbitrary.
+Under these circumstances, all points bound to S ’suffer a straight, uniform translation with respect to S; but the variables x ’, y’, z ’do not mean Cartesian right-angled coordinates in the sense of S. 
+
+The same obviously applies if one assumes x, y, z fixed and t as arbitrary.
 
 Einstein did not differentiate between the fixed instantaneous values and the variable arbitrary values of t and t ’ between a permanent object and a momentary event.
-Now, however, the observers, their yardsticks and timepieces must be viewed as permanent things
-in the system to which they are bound.
 
-According to one of Einstein's basic hypotheses regarding the length measures in one of the systems,
-two identical objects that lie in the same system are related to one another by means of a Euclidean
-transformation made on the variables of this system.On the other hand, according to the hypotheses made, the observers, the yardsticks and the timepieces are mutually related from one system to the other. All of these assumptions would
-require that the transformation of a Euclidean substitution by means of a
-Lorentz transformation still remains a Euclidean substitution - which is not the case.
-Einstein's interpretation of the Lorentz group thus encounters a logical contradiction. The entire
-special RTH rests on this fragile foundation.
+Now, however, the observers, their yardsticks and timepieces must be viewed as permanent things in the system to which they are bound.
+
+According to one of Einstein's basic hypotheses regarding the length measures in one of the systems, two identical objects that lie in the same system are related to one another by means of a Euclidean transformation made on the variables of this system.
+
+On the other hand, according to the hypotheses made, the observers, the yardsticks and the timepieces are mutually related from one system to the other. All of these assumptions would require that the transformation of a Euclidean substitution by means of a Lorentz transformation still remains a Euclidean substitution - which is not the case.
+
+Einstein's interpretation of the Lorentz group thus encounters a logical contradiction. The entire special RTH rests on this fragile foundation.
 

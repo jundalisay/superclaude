@@ -3,7 +3,7 @@ heading: "Author 3"
 title: "Dr. S. Friedlaender"
 # date: 2024-12-12
 weight: 6
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Relativity Finally Refuted By Ernst Marcus"
 c: "darkgoldenrod"
 ---
 
@@ -109,3 +109,4 @@ Why stick to the  previous hypothesis of light propagation?
 It is really enough to relativize only the light movement instead of time and dimensions.
 
 <!-- Cf. v. "The philosopher Ernst Marcus as Kant's successor" . Baedeker, Essen 1930. -->
+

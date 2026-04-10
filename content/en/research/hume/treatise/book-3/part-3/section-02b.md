@@ -78,11 +78,14 @@ Pride is universally blamed and condemned by all mankind because all of us are p
 Pride is blamed as having a natural tendency to cause uneasiness in others by means of comparison.
     
 This effect must follow the more naturally.
-        Those who have an ill-grounded conceit of themselves are forever making those comparisons.
-        They do not have any other method of supporting their vanity.
+
+Those who have an ill-grounded conceit of themselves are forever making those comparisons.
+
+They do not have any other method of supporting their vanity.
 
 A man of sense and merit is pleased with himself, independent of all foreign considerations.
-        But a fool must always find some person more foolish to stay happy with himself.
+
+But a fool must always find some person more foolish to stay happy with himself.
 
 It is most laudable when we value ourselves when we really have valuable qualities.
 
@@ -118,4 +121,3 @@ Our own sensations determine:
 Thus, self-satisfaction and vanity are allowable and requisite in a character.
 
 However, good-breeding and decency require that we avoid all signs and expressions which directly show vanity.
-

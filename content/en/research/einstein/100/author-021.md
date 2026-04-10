@@ -3,15 +3,15 @@ heading: "Authors 21"
 title: "Dr. Arvid Reuterdahl"
 # date: 2024-12-12
 weight: 28
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Einsteinism: Its Faults and Deceptions"
 c: "darkgoldenrod"
 ---
 
 
 
-### Dr. Arvid Reuterdahl @ St. Paul, Minn. USA
+## Dr. Arvid Reuterdahl @ St. Paul, Minn. USA
 
-*Einsteinism: Its Faults and Deceptions*
+### Einsteinism: Its Faults and Deceptions
 
 <!-- (Translated by Dr. E. Ruckhaber) -->
 
@@ -173,11 +173,12 @@ Contrary to the remarks by Dr. Robert Trumpler, I have demonstrated that Soldner
 
 c) Paul Gerber's formula from 1898 was used by Einstein in 1916 to determine the amount of rotation of the plane of the planet Mercury.
 
-d) In 1902, the author of the present document outlined the idea of a unitary field that encompassed all types of force in a lecture called "The Atom of Electrochemistry" and given in the American Electrochemical Society. In 1913 I coined the hyphenated "space-time", which was copyrighted in 1915, occasionally in my lecture (given at Kansas State Agricultural College and the University of Kansas) and titled "The Space-Time Potential, A New View of gravity and electricity ”. 
+d) In 1902, the author of the present document outlined the idea of a unitary field that encompassed all types of force in a lecture called "The Atom of Electrochemistry" and given in the American Electrochemical Society. 
+
+In 1913, I coined the hyphenated "space-time", which was copyrighted in 1915, occasionally in my lecture (given at Kansas State Agricultural College and the University of Kansas) and titled "The Space-Time Potential, A New View of gravity and electricity ”. 
 
 Einstein's mollusk reference system was built according to the plan of my potential zone system, only with the important differences that my reference zone was built on the basis of facts and applied to real physical determinations, while Einstein's mollusk is a mere mythical structure that has no contact with reality.
 
 My space-time kinematics from 1923 encompasses all kinds of effects, those of gravity, electrical, thermal, mechanical etc. This was also used in definitive determinations. 
 
 Einstein's unified field of 1929 - a piece of purely mathematical fiction - has no real applicability, because it is based not on facts but on mathematical speculations, which are subject to deceptive assumptions.
-
