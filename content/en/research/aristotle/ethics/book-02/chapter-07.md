@@ -5,7 +5,6 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "Aristotle"

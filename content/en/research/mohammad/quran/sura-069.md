@@ -3,7 +3,7 @@ title: "The Reality (al-Haqqah)"
 heading: "Sura 69 "
 weight: 210
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -13,7 +13,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - {{< s v="5" >}} The Thamood were annihilated by the Overwhelming.
 - {{< s v="6" >}} The Aad were annihilated by a furious, roaring wind.
 
-{{< s v="7" >}} Enki unleashed it on them for 7 nights and 8 days, in succession. You could see the people tossed around, as though they were stumps of hollow palm-trees.
+{{< s v="7" >}} Anu unleashed it on them for 7 nights and 8 days, in succession. You could see the people tossed around, as though they were stumps of hollow palm-trees.
 
 {{< s v="8" >}} Can you see any remnant of them?
 
@@ -41,7 +41,7 @@ Here, read my record! I was certain that I would be meeting my account.
 
 They will be told: 
 
-{{< r a="Enki Agents" >}}
+{{< r a="Anu Agents" >}}
 Eat and drink in satisfaction for what you put done in the past.
 {{< /r >}}
 
@@ -52,12 +52,12 @@ Eat and drink in satisfaction for what you put done in the past.
 I wish I was never given my book. And never knew what my account was. I wish that there were no eternity. My money and worldly power are gone. 
 {{< /r >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Take him and shackle him. Then burn him in the Blaze. Then tie him up in a chain 70 cubits long. 
 {{< /l >}}
 
 He did not:
-- believe in Enki
+- believe in Anu
 - feed the poor
 
 He does not have any friend here today.
@@ -68,5 +68,3 @@ He does not have any friend here today.
 - It is a revelation from the Lord of the Worlds.
 - If the Prophet Muhammad had made up some false statements about Us, We would have cut his from the aorta causing immediate death. 
 - The Quran is a reminder for the righteous.  
-
-

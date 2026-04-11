@@ -72,55 +72,45 @@ same kind of experiment, but always with the same results.
 
 That was nothing to be wondered at. If one goes to a theatre to see a matinée
 performance and then attends an evening performance of the same play one is
-astounded at the difference in the impressions created. A sensitive person recognizes
-for himself the fact that these two states of mind caused by the matinee and the evening
+astounded at the difference in the impressions created. 
+
+A sensitive person recognizes for himself the fact that these two states of mind caused by the matinee and the evening
 performance respectively are quite different in themselves. The same is true of cinema
-productions. This latter point is important; for one may say of the theatre that perhaps
+productions. 
+
+This latter point is important; for one may say of the theatre that perhaps
 in the afternoon the actor does not make the same effort as in the evening. But surely it
 cannot be said that the cinema is different in the afternoon from what it is at nine
-o'clock in the evening. No, here the time exercises a distinct influence, just as a room
+o'clock in the evening. 
+
+No, here the time exercises a distinct influence, just as a room
 exercises a distinct influence on a person. There are rooms which leave one cold, for
-reasons which are difficult to explain. There are rooms which refuse steadfastly to allow
+reasons which are difficult to explain. 
+
+There are rooms which refuse steadfastly to allow
 any favourable atmosphere to be created in them. Moreover, certain memories and
 traditions which are present as pictures in the human mind may have a determining
 influence on the impression produced. 
 
-Thus, a representation of Parsifal at Bayreuth
-will have an effect quite different from that which the same opera produces in any other
+Thus, a representation of Parsifal at Bayreuth will have an effect quite different from that which the same opera produces in any other
 part of the world. The mysterious charm of the House on the 'Festival Heights' in the
 old city of The Margrave cannot be equalled or substituted anywhere else.
+
 In all these cases one deals with the problem of influencing the freedom of the human
 will. And that is true especially of meetings where there are men whose wills are
 opposed to the speaker and who must be brought around to a new way of thinking. In
 the morning and during the day it seems that the power of the human will rebels with
 its strongest energy against any attempt to impose upon it the will or opinion of
-another. On the other hand, in the evening it easily succumbs to the domination of a
+another. 
+
+On the other hand, in the evening it easily succumbs to the domination of a
 stronger will. Because really in such assemblies there is a contest between two opposite
-forces. The superior oratorical art of a man who has the compelling character of an
-apostle will succeed better in bringing around to a new way of thinking those who have 
-naturally been subjected to a weakening of their forces of resistance rather than in
-converting those who are in full possession of their volitional and intellectual energies.
-The mysterious artificial dimness of the Catholic churches also serves this purpose, the
-burning candles, the incense, the thurible, etc.
+forces. 
 
-In this struggle between the orator and the opponent whom he must convert to his
-cause this marvellous sensibility towards the psychological influences of propaganda
-can hardly ever be availed of by an author. Generally speaking, the effect of the writer's
-work helps rather to conserve, reinforce and deepen the foundations of a mentality
-already existing. All really great historical revolutions were not produced by the written
-word. At most, they were accompanied by it.
+The superior oratorical art of a man who has the compelling character of an apostle will succeed better in bringing around to a new way of thinking those who have naturally been subjected to a weakening of their forces of resistance rather than in converting those who are in full possession of their volitional and intellectual energies. The mysterious artificial dimness of the Catholic churches also serves this purpose, the burning candles, the incense, the thurible, etc.
 
-It is out of the question to think that the French Revolution could have been carried into
-effect by philosophizing theories if they had not found an army of agitators led by
-demagogues of the grand style. These demagogues inflamed popular passion that had
-been already aroused, until that volcanic eruption finally broke out and convulsed the
-whole of Europe. And the same happened in the case of the gigantic Bolshevik
-revolution which recently took place in Russia. It was not due to the writers on Lenin's
-side but to the oratorical activities of those who preached the doctrine of hatred and
-that of the innumerable small and great orators who took part in the agitation.
-The masses of illiterate Russians were not fired to Communist revolutionary
-enthusiasm by reading the theories of Karl Marx but by the promises of paradise made
-to the people by thousands of agitators in the service of an idea.
-It was always so, and it will always be so.
+In this struggle between the orator and the opponent whom he must convert to his cause this marvellous sensibility towards the psychological influences of propaganda can hardly ever be availed of by an author. Generally speaking, the effect of the writer's work helps rather to conserve, reinforce and deepen the foundations of a mentality already existing. All really great historical revolutions were not produced by the written word. At most, they were accompanied by it.
 
+It is out of the question to think that the French Revolution could have been carried into effect by philosophizing theories if they had not found an army of agitators led by demagogues of the grand style. These demagogues inflamed popular passion that had been already aroused, until that volcanic eruption finally broke out and convulsed the whole of Europe. And the same happened in the case of the gigantic Bolshevik revolution which recently took place in Russia. It was not due to the writers on Lenin's side but to the oratorical activities of those who preached the doctrine of hatred and that of the innumerable small and great orators who took part in the agitation.
 
+The masses of illiterate Russians were not fired to Communist revolutionary enthusiasm by reading the theories of Karl Marx but by the promises of paradise made to the people by thousands of agitators in the service of an idea. It was always so, and it will always be so.

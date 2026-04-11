@@ -3,7 +3,7 @@ heading: "Author 4"
 title: "Dr. I. K. Geissler"
 # date: 2024-12-12
 weight: 8
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Enough With The Einstein - Mistake!"
 c: "darkgoldenrod"
 ---
 

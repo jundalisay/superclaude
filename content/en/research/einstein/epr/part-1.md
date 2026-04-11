@@ -2,12 +2,12 @@
 title: "Definition of Complete"
 heading: "Part 1"
 weight: 4
-# date: 2022-04-12
+lastmod: 2026-04-01
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other"
 icon: "Einstein"
-image: "/covers/epr.png"
+c: "firebrick"
 ---
 
 
@@ -48,7 +48,7 @@ These cannot be determined by a priori philosophical considerations. Instead, it
 We do not need a comprehensive deﬁnition of reality. Our criterion for reality is simply if, without disturbing a system, we can predict with certainty (i.e., with probability equal to unity) a physical value, then that value has  physical reality.
 {{< /c >}}
 
-![Lol](/icons/einbla.png)
+![Lol](/icons/Einstein.jpg)
 
 This criterion <!-- is far from exhausting all possible ways of recognizing a physical reality, at least --> provides us with one way of recognizing physical reality. This agrees with both= 
 - quantum mechanics

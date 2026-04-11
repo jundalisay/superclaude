@@ -1,9 +1,10 @@
 ---
 heading: Section 6b
 title: "Argument 2: Property, Right, And Obligation Do Not Admit of Variations"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "All kinds of vice and virtue run insensibly into each other."
 c: "steelblue"
 # date: 2015-x-x
+lastmod: 2026-04-04
 weight: 66
 writer:
   name: David Hume
@@ -89,80 +90,99 @@ The impossibility is often in finding any just medium.
 This obliges us to acknowledge that all property and obligations are entire.
 
 On the other hand, we find that the origin of property and obligation depend on:
-        public utility, and
-        sometimes on the imagination's propensities.
-    We naturally imagine that these moral relations admit of an insensible gradation.
-        In references, the parties' consent leaves the referees as the entire masters of the subject.
-        The referees commonly discover so much equity and justice on both sides.
-            It induces them to strike a medium and divide the difference between the parties.
-        Civil judges do not have this liberty and are obliged to give sentence on one side.
-            They are:
-                often at a loss how to give judgment, and
-                compelled to proceed on the most frivolous reasons.
-            Half rights and obligations seem so natural in common life.
-                These are perfect absurdities in their tribunal.
-                This is why civil judges are often obliged to take half arguments for whole ones, to terminate the affair one way or other.
+- public utility, and
+- sometimes on the imagination's propensities.
+
+We naturally imagine that these moral relations admit of an insensible gradation.
+
+In references, the parties' consent leaves the referees as the entire masters of the subject.
+
+The referees commonly discover so much equity and justice on both sides.
+- It induces them to strike a medium and divide the difference between the parties.
+
+Civil judges:
+- do not have this liberty and are obliged to give sentence on one side
+- often at a loss how to give judgment, and
+- compelled to proceed on the most frivolous reasons
+
+Half rights and obligations seem so natural in common life.
+
+These are perfect absurdities in their tribunal.
+
+This is why civil judges are often obliged to take half arguments for whole ones, to terminate the affair one way or other.
 
 
 ## Argument 3: General Rules Must Be Inflexible
 
 If we consider the ordinary course of human actions, we shall find that the mind does not restrain itself by any general and universal rules.
-        Its actions are usually determined by its present motives and inclination.
+
+Its actions are usually determined by its present motives and inclination.
 
 Each action is a particular individual event.
-        It must proceed from:
-            particular principles, and
-            our immediate situation:
-                within ourselves, and
-                with respect to the rest of the universe.
+
+It must proceed from:
+- particular principles, and
+- our immediate situation:
+  - within ourselves, and
+  - with respect to the rest of the universe.
 
 When we make general rules for our own actions, we see that they are flexible and allow many exceptions.
 
 But the laws of justice are universal and perfectly inflexible.
-        We may thus conclude that the laws of justice can never be:
-            derived from nature, nor
-            the immediate offspring of any natural motive.
+
+We may thus conclude that the laws of justice can never be:
+- derived from nature, nor
+- the immediate offspring of any natural motive.
 
 No action can be morally good or evil, unless there is some natural passion or motive to:
-        impel us to it, or
-        deter us from it.
+- impel us to it, or
+- deter us from it.
 
 Morality must be susceptible of all the same variations natural to that passion.
 
 Two persons dispute for an estate.
-        One is rich, a fool, and a bachelor.
-            He my enemy.
-        The other is poor, a man of sense, and has a big family.
-            He is my friend.
-        I must be induced to do my utmost to procure the estate to the latter, whether I am actuated:
-            by a view to public or private interest, or
-            by friendship or enmity.
-        If I only acted through natural motives, the considerations of right and property would not be able to restrain me.
+
+One is rich, a fool, and a bachelor.
+- He my enemy.
+
+The other is poor, a man of sense, and has a big family.
+- He is my friend.
+
+I must procure the estate to the latter, whether I am actuated:
+- by a view to public or private interest, or
+- by friendship or enmity.
+
+If I only acted through natural motives, the considerations of right and property would not be able to restrain me.
 
 All property depends on morality.
-        All morality depends on the ordinary course of our passions and actions.
-        Our passions and actions are only directed by particular motives.
-        Such a partial conduct:
-            must be suitable to the strictest morality, and
-            could never be a violation of property.
+
+All morality depends on the ordinary course of our passions and actions.
+
+Our passions and actions are only directed by particular motives.
+
+Such a partial conduct:
+- must be suitable to the strictest morality, and
+- could never be a violation of property.
 
 Men would usually conduct themselves by particular judgments if they were free to act with regard to the laws of society.
 
 They would consider:
-            the characters and circumstances of the persons, and
-            the general nature of the question.
-        This would produce an infinite confusion in human society.
-        Men's avidity and partiality would quickly bring disorder into the world, if not restrained by some general and inflexible principles.
+- the characters and circumstances of the persons, and
+- the general nature of the question.
+
+This would produce an infinite confusion in human society.
+
+Men's avidity and partiality would quickly bring disorder into the world, if not restrained by some general and inflexible principles.
 
 Men have established those principles with a view to this inconvenience.
-        Men have agreed to restrain themselves by general rules, which are unchangeable by:
-            spite and favour, and
-            particular views of private or public interest.
+
+Men have agreed to restrain themselves by general rules, which are unchangeable by:
+- spite and favour, and
+- particular views of private or public interest.
 
 These rules, then:
 - are artificially invented for a certain purpose, and
 - are contrary to the common principles of human nature.
-
   - These common principles:
     - accommodate themselves to circumstances, and
     - have no invariable method of operation.

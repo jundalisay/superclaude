@@ -5,8 +5,8 @@ weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
+lastmod: 2026-04-01
 description: "We must distinguish between what is voluntary and what involuntary."
 icon: "Aristotle"
 ---

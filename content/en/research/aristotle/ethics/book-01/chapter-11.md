@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "What is Excellence?"
-weight: 22
+weight: 29
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

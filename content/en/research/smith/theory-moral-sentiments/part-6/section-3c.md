@@ -1,6 +1,6 @@
 ---
 title: "The Principle of Self-estimation"
-heading: "Chapter 3c"
+heading: "Section 3c"
 description: "The principle of self-estimation may be too high or too low"
 weight: 50
 writer:

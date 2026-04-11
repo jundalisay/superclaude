@@ -19,8 +19,16 @@
 <meta property="og:title" content="{{ .Title }}"/>
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
 {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}"/>{{ end }}
+
+
+<meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "/graphics/sp.jpg" | absURL }}{{ end }}"/>
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
 <meta property="og:url" content="{{ .Permalink }}"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+
 
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink }}"/>
@@ -32,6 +40,8 @@
 
 <link rel="icon" type="image/png" href="/icons/sp.svg">
 <link rel="apple-touch-icon" href="/icons/sp.svg">
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 
 
 <!-- Fonts: Noto Sans TC + Noto Serif TC -->
@@ -63,6 +73,20 @@
   })();
 </script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+  "headline": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Superphysics"
+  }
+}
+</script>
+
 
 
 <!-- Search index JSON -->
@@ -75,32 +99,6 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}"/>
 {{ end }}
 
-
-
-<script>
-  // for fly in 
-
-  document.addEventListener("DOMContentLoaded", () => {
-  const observerOptions = {
-    threshold: 0.15, // Trigger when 15% of the element is visible
-    rootMargin: "0px 0px -50px 0px" // Slight offset so it feels like it triggers 'late'
-  };
-
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add("show");
-        // Optional: Unobserve after showing to prevent repeat animations
-        observer.unobserve(entry.target);
-      }
-    });
-  }, observerOptions);
-
-  // Select all elements with our hook class
-  const hiddenElements = document.querySelectorAll(".reveal-on-scroll");
-  hiddenElements.forEach((el) => observer.observe(el));
-});
-</script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
      crossorigin="anonymous"></script>

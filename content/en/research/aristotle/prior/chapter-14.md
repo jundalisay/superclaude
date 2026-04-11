@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14
 title: "The Middle Term"
-weight: 8
+weight: 18
 c: "firebrick"
 description: "A syllogism cannot be perfect anyhow in this figure, but it may be valid whether the terms are related universally or not"
 writer:

@@ -5,23 +5,36 @@ description: "John Law was a gambler turned economist"
 icon: "John Law"
 c: "firebrick"
 date: 2025-04-19
-weight: 12
+weight: 18
 ---
 
 
 The natural advantages the Dutch have for trade, are, their situation at the mouths of the rivers of Germany, and being near the bulky trade.
 
-Their natural disadvantages are, smallness of territory, barrenness of soil, producing little but what’s forc’d; want of mines; long winters; unwholsome air; marishy, so oblig’d to great expence for foundation to their[Pg 208] buildings, in making and keeping up the high-ways, and in draining the country yearly; a dangerous coast; difficult entry to their rivers; the sea to defend against on one side, and powerful neighbours on the other; and heavy taxes, the consequence of these other disadvantages.
+Their natural disadvantages are, smallness of territory, barrenness of soil, producing little but what’s forc’d; want of mines; long winters; unwholsome air; marishy, so oblig’d to great expence for foundation to their buildings, in making and keeping up the high-ways, and in draining the country yearly; a dangerous coast; difficult entry to their rivers; the sea to defend against on one side, and powerful neighbours on the other; and heavy taxes, the consequence of these other disadvantages.
 
-Yet they have so improv’d their few advantages, that they are become a rich and powerful people. what has contributed to their riches and power, was the early protection and favour the government gave to trade; the liberty which was given to people of different religions; the freedom of trade allowed to strangers; the example of their rulers in oeconomy; but chiefly the neglect of trade in other countries, particularly in Spain,[Pg 209] who forced the people and trade of Flanders to Holland.
+Yet they have so improved their few advantages, that they are become a rich and powerful people.
+
+Their riches and power came from:
+- the early protection and favour the government for trade
+- the liberty which was given to people of different religions
+- the freedom of trade allowed to foreigners
+- the example of their rulers in economy
+- chiefly, the neglect of trade in other countries, particularly in Spain, who forced the people and trade of Flanders to Holland.
 
 Scotland has by nature many advantages for trade; a large territory; of easie defence; plenty of people; a wholsome air; mines; a proper situation for the eastern and western trades; near the bulky trade; a safe coast; rivers of easie entry; the seas and rivers stockt with fish.
 
-But numbers of people, the greatest riches of other nations, are a burden to us; the land is not improv’d, the product is not manufactur’d; the fishing and other advantages for foreign trade are neglected: and the reason generally given is, that laziness and want of honesty are natural to us.
+But numbers of people, the greatest riches of other nations, are a burden to us.
 
-If want of honesty and laziness were natural, they would be so to[Pg 210] mankind; or if peculiar to a people, this would be so to the Dutch rather than to us: the air of Holland is grosser which inclines to laziness; and the country not producing wherewith to maintain the inhabitants, would force them to rob or cheat their neighbours, or one another. but it is more reasonable to think laziness and want of honesty are vices, the consequences of poverty; and poverty the consequence of a faulty administration. if the same measures had been taken in Scotland for encouraging trade, as was taken in Holland, we had been a more powerful and richer nation than Holland. if Spain, France and Britain, or any one of them had apply’d to trade, as early, and upon the same measures Holland did; Holland[Pg 211] would not have been inhabited. but by their early application, and the wrong measures of other countries, they have got such great magazines of what’s necessary for their maintenance and defence; of rich commodities to sell to other nations, of materials for shipping, &c. and such a quantity of silver, esteem’d above its value as a metal by being used as money: that in all appearance so long as silver is used as money, the great quantity they have of it, with their great oeconomy, enabling them to under-sell other nations; they will maintain the rank they hold in trade, and consequently in power; notwithstanding their natural disadvantages, the present application, and natural advantages of other nations.
+The land is not improv’d, the product is not manufactur’d; the fishing and other advantages for foreign trade are neglected: and the reason generally given is, that laziness and want of honesty are natural to us.
 
-[Pg 212]
+If lack of honesty and laziness were natural, they would be so to mankind; or if peculiar to a people, this would be so to the Dutch rather than to us.
+
+The air of Holland is grosser which inclines to laziness; and the country not producing wherewith to maintain the inhabitants, would force them to rob or cheat their neighbours, or one another.
+
+But it is more reasonable to think laziness and want of honesty are vices, the consequences of poverty; and poverty the consequence of a faulty administration. if the same measures had been taken in Scotland for encouraging trade, as was taken in Holland, we had been a more powerful and richer nation than Holland. if Spain, France and Britain, or any one of them had apply’d to trade, as early, and upon the same measures Holland did; 
+
+Holland would not have been inhabited. but by their early application, and the wrong measures of other countries, they have got such great magazines of what’s necessary for their maintenance and defence; of rich commodities to sell to other nations, of materials for shipping, &c. and such a quantity of silver, esteem’d above its value as a metal by being used as money: that in all appearance so long as silver is used as money, the great quantity they have of it, with their great oeconomy, enabling them to under-sell other nations; they will maintain the rank they hold in trade, and consequently in power; notwithstanding their natural disadvantages, the present application, and natural advantages of other nations.
 
 This country is more capable of an extended trade than any other country of Europe, yet it is reduc’d to a very low state. trade is ruin’d; the national stock is wasted; the people forsake the country; the rents of land are unpay’d; houses in towns, and farms in the country are thrown upon the owners hands; the creditor cannot have the interest of his money to live upon; and the debitor’s person and estate are expos’d to the law.
 

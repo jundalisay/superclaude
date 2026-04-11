@@ -1,10 +1,11 @@
 ---
 title: "Exclusion principle and quantum mechanics"
 heading: "Part 1"
-weight: 1
+weight: 2
 c: "firebrick"
-description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
+description: "I was awarded the Nobel Prize in 1945 for the discovery of the exclusion principle."
 date: 1946-12-13
+lastmod: 2025-01-01
 ---
 
 
@@ -100,4 +101,3 @@ This helped me to discover the exclusion principle.
 there my inaugural lecture as Privatdozent on the Periodic System of El-
 ements. The contents of this lecture appeared very unsatisfactory to me,
 since  -->
-

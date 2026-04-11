@@ -67,10 +67,13 @@ Distance in space and time has a considerable effect:
 - consequently, on the will and passions, yet the consequence of a removal in space are much inferior to those of a removal in time.
 
 20 years are certainly a small distance of time compared to what history and even the memory of some may inform them of
-        ◦ Yet I doubt if 1,000 leagues, or even the greatest distance this globe can admit of, will so remarkably:
-            ▪ weaken our ideas
-            ▪ reduce our passions.
-    • A West-Indian merchant will tell you that he is concerned with what happens in Jamaica.
-        ◦ Though few extend their views so far into the future, as to dread very remote accidents.
+
+Yet I doubt if 1,000 leagues, or even the greatest distance this globe can admit of, will so remarkably:
+- weaken our ideas
+- reduce our passions.
+
+A West-Indian merchant will tell you that he is concerned with what happens in Jamaica.
+
+Though few extend their views so far into the future, as to dread very remote accidents.
  
 The cause of this phenomenon lies in the different properties of space and time.

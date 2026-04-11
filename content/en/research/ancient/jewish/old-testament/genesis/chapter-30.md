@@ -1,124 +1,179 @@
 ---
 heading: Genesis 30
-title: "Jacob and Rachel"
-description: "Rachel saw that she bare Jacob no children"
+title: "The Sons of Jacob"
+description: "We replace Anu with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 60
 c: "firebrick"
 ---
 
 
 
-<sup>1</sup> Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob:
+<sup>1</sup> Rachel saw that she bare Jacob no children*, Rachel envied her sister. So she said to Jacob:
 
+{{< n n="This is because they are genetically related" >}}
+
+{{< r a="Rachel" >}}
 Give me children, or else I die. 
-
-<sup>2</sup> Jacob’s anger was kindled against Rachel: and he said, 
-
-[Am] I in Enki’s stead, who hath withheld from you the fruit of the womb? 
-
-<sup>3</sup> She said:
-
-Behold my maid Bilhah, go in unto her; and she shall bear upon my knees that I may also have children by her. 
+{{< /r >}}
 
 
-<sup>4</sup> She gave him Bilhah her handmaid to wife: and Jacob went in unto her. 
+<sup>2</sup> Jacob became angry at Rachel. So he said:
 
-<sup>5</sup> Bilhah conceived, and bare Jacob a son. <sup>6</sup> Rachel said, Enki had judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.
+{{< l a="Jacob" >}}
+Am I Anu who has prevented you from having children?
+{{< /l >}}
 
-<sup>7</sup> Bilhah Rachel’s maid conceived again, and bare Jacob a second son. {30:8} And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali. 
+{{< r a="Rachel" >}}
+<sup>3</sup> Here is Bilhah, my servant. Have sex with her so that she can bear children for me and I too can build a family through her.
+{{< /r >}}
 
-{30:9} When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife. {30:10} And Zilpah Leah’s maid bare Jacob a son. 
+<sup>4</sup> She gave him Bilhah her handmaid to wife. So Jacob has sex with her. 
 
-{30:11} And Leah said, A troop cometh: and she called his name Gad. {30:12} And
-Zilpah Leah’s maid bare Jacob a second son. 
+<sup>5</sup> Bilhah conceived, and bare Jacob a son.
 
-{30:13} And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
-
-{30:14} And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray
-you, of your son’s mandrakes. {30:15} And she said unto
-her, [Is it] a small matter that you hast taken my husband?
-and wouldest you take away my son’s mandrakes also?
+{{< r a="Rachel" >}}
+<sup>6</sup> Anu had judged me and had heard my voice and given me a son. So she called him Dan.
+{{< /r >}}
 
 
-Rachel said, Therefore he shall lie with you to night for your son’s mandrakes. {30:16} And Jacob came out of the field in the evening, and Leah went out to meet him, and
-said, Thou must come in unto me; for surely I have hired
-you with my son’s mandrakes. And he lay with her that
-night. 
+<sup>7</sup> Bilhah conceived again with  a second son.
 
-{30:17} Enki hearkened unto Leah, and she conceived, and bare Jacob the fifth son.
 
-{30:18} And Leah said, Enki hath given me my hire, because I have given my
-maiden to my husband: and she called his name Issachar.
+{{< r a="Rachel" >}}
+I have had a great struggle with my sister, and I have won.
+{{< /r >}}
 
-{30:19} Leah conceived again, and bare Jacob the sixth son. {30:20} And Leah said, Enki hath endued me
-[with] a good dowry; now will my husband dwell with me,
-because I have born him six sons: and she called his name
-Zebulun. 
+So she named him Naphtali.
 
-{30:21} Afterwards she bare a daughter, and called her name Dinah.
+<sup>9</sup> When Leah saw that she had stopped having children, she took Zilpah her maid and gave her Jacob to wife.
 
-{30:22} Enki remembered Rachel, and Enki hearkened to her, and opened her womb. {30:23} And she
-conceived, and bare a son; and said, Enki hath taken away
-my reproach: 
+<sup>10</sup> Zilpah Leah’s maid bare Jacob a son.
 
-{30:24} She called him Joseph; and said, Enki shall add to me another son.
+<sup>11</sup> A troop cometh: and she called his name Gad.
 
-{30:25} And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country. {30:26}
+<sup>12</sup> Leah’s servant Zilpah bore Jacob a second son. 
 
-Give [me] my wives and my children, for whom I have served you, and let me go: for you knowest my service which I have done you. 
+{{< r a="Leah" >}}
+<sup>13</sup> How happy I am! The women will call me happy.
+{{< /r >}}
 
-{30:27} And Laban said unto him, I pray you, if I have found favour in thine eyes, [tarry: for] I
-have learned by experience that Enki hath blessed me
-for your sake. 
+So she named him Asher.
 
-{30:28} And he said, Appoint me your wages, and I will give [it. ]{30:29} And he said unto him, Thou
-knowest how I have served you, and how your cattle was
-with me. {30:30} For [it was] little which you hadst before
-I [came,] and it is [now] increased unto a multitude; and the
-LORD hath blessed you since my coming: and now when
-shall I provide for mine own house also? 
+<sup>14</sup> During wheat harvest, Reuben went out into the fields and found some mandrake plants, which he brought to his mother Leah.
 
-{30:31} And he said, What shall I give you? And Jacob said, Thou shalt not
-give me any thing: if you wilt do this thing for me, I will
-again feed [and] keep your flock: {30:32} I will pass through
+{{< l a="Rachel" >}}
+[To Leah] Please give me some of your son’s mandrakes.
+{{< /l >}}
 
-all your flock to day, removing from thence all the speckled
-and spotted cattle, and all the brown cattle among the sheep,
-and the spotted and speckled among the goats: and [of such]
-shall be my hire. 
+{{< r a="Leah" >}}
+<sup>15</sup> Wasn’t it enough that you took away my husband? Will you take my son’s mandrakes too?
+{{< /r >}}
 
-{30:33} So shall my righteousness answer
-for me in time to come, when it shall come for my hire
-before your face: every one that [is] not speckled and spotted
-among the goats, and brown among the sheep, that shall be
-counted stolen with me.
+{{< l a="Rachel" >}}
+Very well. He can have sex with you tonight in return for your son’s mandrakes.
+{{< /l >}}
 
-{30:34} And Laban said, Behold, I would it might be according to your word. 
 
-{30:35} And he
-removed that day the he goats that were ringstraked and
-spotted, and all the she goats that were speckled and
-spotted, [and] every one that had [some] white in it, and all
-the brown among the sheep, and gave [them] into the hand
-of his sons. {30:36} And he set three days journey betwixt
-himself and Jacob: and Jacob fed the rest of Laban’s flocks.
-{30:37} And Jacob took him rods of green poplar, and of
-the hazel and chesnut tree; and pilled white strakes in them,
-and made the white appear which [was] in the rods. {30:38}
-And he set the rods which he had pilled before the flocks in
-the gutters in the watering troughs when the flocks came to
-drink, that they should conceive when they came to drink.
-{30:39} And the flocks conceived before the rods, and
-brought forth cattle ringstraked, speckled, and spotted.
-{30:40} And Jacob did separate the lambs, and set the faces
-of the flocks toward the ringstraked, and all the brown in the
-flock of Laban; and he put his own flocks by themselves,
-and put them not unto Laban’s cattle. {30:41} And it came
-to pass, whensoever the stronger cattle did conceive, that
-Jacob laid the rods before the eyes of the cattle in the
-gutters, that they might conceive among the rods. {30:42}
-But when the cattle were feeble, he put [them] not in: so the
-feebler were Laban’s, and the stronger Jacob’s. {30:43}
-And the man increased exceedingly, and had much cattle,
-and maidservants, and menservants, and camels, and asses.
+<sup>16</sup> So when Jacob came in from the fields that evening, Leah went out to meet him. 
 
+{{< r a="Leah" >}}
+You must have sex with me tonight. I have hired you with my son’s mandrakes.
+{{< /r >}}
+
+
+So they had sex that night.
+
+<sup>17</sup> Anu listened to Leah, and she became pregnant and bore Jacob a 5th son.
+
+{{< r a="Leah" >}}
+<sup>18</sup> Anu has rewarded me for giving my servant to my husband.
+{{< /r >}}
+
+So she named him Issachar.
+
+<sup>19</sup> Leah conceived again and bore Jacob a sixth son.
+
+{{< r a="Leah" >}}
+<sup>20</sup> Anu has presented me with a precious gift. This time my husband will treat me with honor, because I have borne him six sons.
+{{< /r >}}
+
+So she named him Zebulun.
+
+<sup>21</sup> Some time later she gave birth to a daughter and named her Dinah.
+
+<sup>22</sup> Then Anu remembered Rachel; he listened to her and enabled her to conceive. 
+
+<sup>23</sup> She became pregnant and gave birth to a son and said:
+
+{{< l a="Rachel" >}}
+Anu has taken away my disgrace.
+{{< /l >}}
+
+<sup>24</sup> She named him Joseph.
+
+{{< l a="Rachel" >}}
+May the Lord add to me another son.
+{{< /l >}}
+
+
+## Jacob’s Flocks Increase
+
+<sup>25</sup> After Rachel gave birth to Joseph, Jacob said to Laban:
+
+{{< l a="Jacob" >}}
+Send me on my way so I can go back to my own homeland. 26 Give me my wives and children, for whom I have served you, and I will be on my way. You know how much work I’ve done for you.
+{{< /l >}}
+
+{{< r a="Laban" >}}
+<sup>27</sup> If I have found favor in your eyes, please stay. I have learned by divination that the Lord has blessed me because of you. <sup>28</sup> Name your wages, and I will pay them.
+{{< /r >}}
+
+{{< l a="Jacob" >}}
+<sup>29</sup> You know how I have worked for you and how your livestock has fared under my care. 30 The little you had before I came has increased greatly, and the Lord has blessed you wherever I have been. But now, when may I do something for my own household?
+{{< /l >}}
+
+{{< r a="Laban" >}}
+<sup>31</sup> What shall I give you?
+{{< /r >}}
+
+{{< l a="Jacob" >}}
+I will go on tending your flocks and watch over them. 32 Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb and every spotted or speckled goat. They will be my wages. 
+
+<sup>33</sup> My honesty will testify for me in the future, whenever you check on the wages you have paid me. Any goat in my possession that is not speckled or spotted, or any lamb that is not dark-colored, will be considered stolen.
+{{< /l >}}
+
+{{< r a="Laban" >}}
+<sup>34</sup> “Agreed.” 
+{{< /r >}}
+
+<sup>35</sup> That same day, he removed:
+- all the male goats that were streaked or spotted
+- all the speckled or spotted female goats (all that had white on them)
+- all the dark-colored lambs
+
+He placed them in the care of his sons. 
+
+<sup>36</sup> Then he put a three-day journey between Laban and Jacob, while Jacob continued to tend the rest of Laban’s flocks.
+
+<sup>37</sup> Jacob, however, took fresh-cut branches from poplar, almond and plane trees and made white stripes on them by peeling the bark and exposing the white inner wood of the branches. 
+
+<sup>38</sup> Then he placed the peeled branches in all the watering troughs, so that they would be directly in front of the flocks when they came to drink.
+
+When the flocks were in heat and came to drink, <sup>39</sup> they mated in front of the branches. 
+
+They bore young that were streaked or speckled or spotted. 
+
+<sup>40</sup> Jacob set apart the young of the flock by themselves, but made the rest face the streaked and dark-colored animals that belonged to Laban.
+
+Thus he made separate flocks for himself and did not put them with Laban’s animals.
+
+41 Whenever the stronger females were in heat, Jacob would place the branches in the troughs in front of the animals so they would mate near the branches.
+
+42 But if the animals were weak, he would not place them there.
+
+So the weak animals went to Laban and the strong ones to Jacob. 
+
+43 In this way the man grew exceedingly prosperous and came to own large flocks, and female and male servants, and camels and donkeys.
+
+
+{{< n n="This shows the origin of the shrewed and deceptive nature of the Israelites which brought headache to Moses" >}}

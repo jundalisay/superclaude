@@ -54,7 +54,7 @@ Smelting, refining, alloying, and casting need ample supplies of fuels to fire t
 
 Mesopotamia was rich in fuels.*
 
-{{< n n="This proves that the Anunnaki technology was not as advanced as the Essassani because they still used fuels whereas the Essassani use spacetime energy. It also explains why the Anunnaki planet was suffering from global warming" >}} 
+{{< n n="This proves that the Anunnaki technology was not as advanced as the Sassani because they still used fuels whereas the Sassani use spacetime energy. It also explains why the Anunnaki planet was suffering from global warming" >}} 
 
 The ores were brought to the fuels. This explains many early inscriptions describing the bringing of metal ores from afar.
 

@@ -27,52 +27,40 @@ businesses or international competitors over American small businesses—are
 dismantled or do not progress when proposed.
 
 
-### MISSION CREEP AND ENLARGEMENT
+### Mission Creep And Enlargement
 
 The SBA’s request to become a “designated voter agency” in response to
-President Biden’s executive order on “Promoting Access to Voting.”30
-The creation of duplicative channels and “pilot programs” for the delivery of
-business training rather than working through existing counseling partners.
-The programs are largely duplicative of private, state and local government,
-and educational system offerings.31
+President Biden’s executive order on “Promoting Access to Voting.”
+
+
+The creation of duplicative channels and “pilot programs” for the delivery of business training rather than working through existing counseling partners.
+The programs are largely duplicative of private, state and local government, and educational system offerings.
 
 A push to expand direct government lending.32
 
-As noted, Republicans in the U.S. House of Representatives have evidenced con-
-cern about SBA mission creep and the need to make a sprawling, unaccountable
-agency more focused and operationally sound. Moreover, there is unease that the
-agency has moved from being open to any eligible small business searching for sup-
-port to being hyperfocused on “disproportionately impacted,” politically favored,
-or geographically situated small businesses and entrepreneurs.
+As noted, Republicans in the U.S. House of Representatives have evidenced concern about SBA mission creep and the need to make a sprawling, unaccountable
+agency more focused and operationally sound. 
 
-Today, initiatives aimed at “inclusivity” are in fact creating exclusivity and
-stringent selectivity in deciding what types of small businesses and entities can
-use SBA programs. For example, even though the SBA under President Donald
-Trump proposed a rule to remove all of the unconstitutional religious exclusions
-from its regulations29 to conform with Supreme Court decisions that have made
-their unconstitutionality clear, the SBA has not acted on the proposed rule and
-still uses religious exclusions in determining eligibility for business loans. Several
-other specific concerns include but are not limited to:
+Moreover, there is unease that the agency has moved from being open to any eligible small business searching for support to being hyperfocused on “disproportionately impacted,” politically favored, or geographically situated small businesses and entrepreneurs.
+
+Today, initiatives aimed at “inclusivity” are in fact creating exclusivity and stringent selectivity in deciding what types of small businesses and entities can
+use SBA programs. For example, even though the SBA under President Donald Trump proposed a rule to remove all of the unconstitutional religious exclusions
+from its regulations29 to conform with Supreme Court decisions that have made their unconstitutionality clear, the SBA has not acted on the proposed rule and still uses religious exclusions in determining eligibility for business loans. 
+
+Several other specific concerns include but are not limited to:
 
 
-###  THE SBA IN A CONSERVATIVE ADMINISTRATION
+### The Sba In A Conservative Administration
 
-Reforming and restructuring the SBA under a conservative Administration
-would meet the needs of America’s small-business owners and entrepreneurs,
-not special interests in Washington, D.C. Entrepreneurs believe the SBA is fairly
-archaic in its operations and programming and must be transformed to serve
-small businesses in the modern economy effectively.33 Therefore, a restructured
-and reformed SBA would end the long-term deficiencies, practices, and problems
-that have prolonged the decades-long cycle of waste, fraud, and mismanagement.
-Moreover, the SBA Administrator and leadership can provide significant value to
-all small businesses by strongly advocating for their policy needs and fostering an
-agencywide culture that values all small-business owners and does not exclude
-certain groups. Under a conservative Administration, success would yield:
+Reforming and restructuring the SBA under a conservative Administration would meet the needs of America’s small-business owners and entrepreneurs, not special interests in Washington, D.C. Entrepreneurs believe the SBA is fairly archaic in its operations and programming and must be transformed to serve small businesses in the modern economy effectively.
+
+Therefore, a restructured and reformed SBA would end the long-term deficiencies, practices, and problems that have prolonged the decades-long cycle of waste, fraud, and mismanagement. Moreover, the SBA Administrator and leadership can provide significant value to all small businesses by strongly advocating for their policy needs and fostering an agencywide culture that values all small-business owners and does not exclude certain groups. Under a conservative Administration, success would yield:
 
 
 A highly qualified SBA Administrator and leadership team that can
 competently run the agency and enthusiastically advocate for the policy
 issues and needs of small-business owners and entrepreneurs.
+
 A tighter, more focused SBA that concentrates on congressionally
 authorized programs.
 

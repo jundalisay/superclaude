@@ -2,7 +2,7 @@
 heading: Part 5c
 title: The Animal Spirits
 weight: 19
-description: Rene Descartes 1635
+description: The animal spirits are like a very subtle wind. 
 c: "royalblue"
 writer:
   name: Rene Descartes
@@ -16,7 +16,7 @@ icon: "Rene Descartes"
 The animal spirits are like a very subtle wind, or a very pure and vivid flame. 
 - It continually rises in great abundance from the heart to the brain*.
 
-{{< n n="From the external spacetime particles to the heart up to the brain, the animal spirits are pranah or vital energy. The animal spirits get crudified in the brain from where it is sent throughout the body where it manifests as the nerve impulses traveling through the anthakarana. Telekinesis is the channeling of the spacetime particles from the heart directly through the body and back to the external space as to create movement. This requires a breathing technique to energize the heart. Spacetime particles also contain the aether and so extra-sensory information can also be derived from spacetime." >}}
+{{< n n="The animal spirits are space particles which get energized from the heart through pranah or vital energy i.e. the pranah makes the space particles spin faster. This spin lets them get info from the pineal gland as they go up in the brain from where it is sent throughout the body where it manifests as the nerve impulses traveling through the anthakarana (silver cord in Asian and Sassani culture). Telekinesis is the channeling of the spinning space particles from the heart directly through the body and back to external space as to create movement (without going to the brain). This requires a breathing technique to energize the heart. Space particles also contain the pure aether and so extra-sensory information can also be derived from space. This is why the Sassani and various Asian meditation techniques give importance to the heart chakra" >}}
   
 
 From the brain, it penetrates through the nerves into the muscles, and moves all the parts. 

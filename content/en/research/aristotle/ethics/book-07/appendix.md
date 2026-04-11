@@ -1,7 +1,7 @@
 ---
 heading: Appendix
 title: "Vice, Imperfect Self-Control, and Brutishness"
-weight: 4
+weight: 45
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

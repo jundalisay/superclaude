@@ -1,11 +1,10 @@
 ---
 heading: Chapter 8
 title: "Is Death Happiness?"
-weight: 18
+weight: 23
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Are we then to call no man happy while he lives, and, as Solon would have us, look to the end?"
 icon: "Aristotle"

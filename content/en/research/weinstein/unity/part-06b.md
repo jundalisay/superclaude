@@ -3,7 +3,7 @@ heading: "Part 6.2"
 title: "Stabilizer Subgroup"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 32
 date: 2021-04-01
 ---
 

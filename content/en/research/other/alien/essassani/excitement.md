@@ -2,11 +2,9 @@
 title: "Follow your excitement"
 weight: 47
 image: "/photos/psych/freedom.jpg"
-description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
+description: "The Sassani mantra is to 'Follow your excitement' and 'So what?'"
 author: Consolidated from Bashar
 ---
-
-
 
 
 ## Finding your Purpose in Life
@@ -99,13 +97,13 @@ So when you want to do something and it is not immediately available, TRUST YOUR
 Do not buy into the belief that "I do not get what I want."
 
 
-## Positive Synchronicity
+## Positive (Green Light) Synchronicity 
 
 Positive Synchronicity is when you "follow your excitement" in each "now" moment. 
 - This leads to things "magically" working out in a way that is delightfully & surprisingly pleasing.    
 - "Positive Synchronicity" is the occurrence of events that are perfect reflections of your preferences and desires.
 
-Negative Synchronicity is when you are instead led by your fears and worries. 
+Negative Synchronicity (Red Light) is when you are instead led by your fears and worries. 
 - This leads to upsetting events -- the very things you wished to avoid.
 - "Negative Synchronicity" is the occurrence of events that are perfect reflections of your fears and doubts.
 
@@ -155,4 +153,17 @@ Then in realizing that your new-preferred belief is just as valid, and just as "
 
 We can distinguish between what we think we believe and what we actually believe through our actions. 
 - Our actions always indicate what you actually believe
+
+
+
+
+## Lure versus Something Manifestable
+
+Some visions or ideas that we get might be a lure that will get us into the proper state, even if that vision was not meant to become real. 
+
+We should be ok that the vision that we have might not come true. 
+
+An analogy is paining a painting that you want, but you are missing the required colors. 
+
+The correct response is to paint using the colors that you have and see what colors synchroncity brings. 
 

@@ -3,7 +3,7 @@ heading: "Author 9"
 title: "Hugo Keller"
 # date: 2024-12-12
 weight: 14
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "The Relativity Theory"
 c: "darkgoldenrod"
 ---
 

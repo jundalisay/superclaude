@@ -34,13 +34,13 @@ Our might came upon them by night, or while they were napping.
 
 {{< s v="11" >}}  We created you, then We shaped you, then We said to the angels: 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Bow down before Adam
 {{< /l >}}
 
 So they bowed down, except for Satan [Enlil Followers]. 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 What prevented you from bowing down to Adam when I commanded it?
 {{< /l >}}
 
@@ -50,7 +50,7 @@ I am better than Adam.
 - You created him from mud.
 {{< /r >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 It is not for you to act arrogantly in it. Get out! You are one of the lowly!
 {{< /l >}}
 
@@ -60,7 +60,7 @@ Give me a break until the Day they are resurrected. Because you have lured me, I
 Then I will come at them from before them, and from behind them, and from their right, and from their left. You will not find most of them appreciative.
 {{< /r >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Yes I will give you a break. Leave Paradise. Whoever among them follows you—I will fill up Hell with you all. Adam, inhabit the Garden with your wife. Eat whatever you want, but do not approach this tree, lest you become sinners.
 {{< /l >}}
 
@@ -76,7 +76,7 @@ When they tasted the tree, their nakedness became evident to them. They began co
 
 Their Lord called out to them:
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Did I not forbid you from this tree, and say to you that Satan is a sworn enemy to you?”
 {{< /l >}}
 
@@ -84,7 +84,7 @@ Did I not forbid you from this tree, and say to you that Satan is a sworn enemy 
 We have done wrong to ourselves. Unless You forgive us, and have mercy on us, we will be among the losers.
 {{< /r >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Fall, some of you enemies to one another. On earth you will have residence and livelihood for a while.
 
 In it you will live, and in it you will die, and from it you will be brought out.
@@ -101,28 +101,28 @@ He sees you, him and his clan, from where you cannot see them. We have made the 
 <sup>28</sup> When they commit an indecency, they say, 
 
 {{< r a="Man" >}}
-We found our parents doing this, and Enki has commanded us to do it.
+We found our parents doing this, and Anu has commanded us to do it.
 {{< /r >}}
 
 
 Say:
 
-{{< l a="Muslims" >}}
-Enki does not command indecencies. Are you attributing to Enki what you do not know? My Lord commands justice, and to stand devoted at every place of worship.
+{{< l a="Mohammad" >}}
+Anu does not command indecencies. Are you attributing to Anu what you do not know? My Lord commands justice, and to stand devoted at every place of worship.
 {{< /l  >}}
 
 
 Him alone. Just as He originated you, so you will return.”
 
-<sup>30</sup> Some He has guided, and some have deserved misguidance. They have adopted the devils for patrons rather than Enki, and they
+<sup>30</sup> Some He has guided, and some have deserved misguidance. They have adopted the devils for patrons rather than Anu, and they
 assume that they are guided.
 
 <sup>31</sup> O Children of Adam! Dress properly at every place of worship, and eat and drink, but do not be excessive. He does not love the excessive.
 
 <sup>32</sup> Say:
 
-{{< l a="Muslims" >}}
-Who forbade Enki’s finery which He has produced for His servants, and the delights of livelihood? 
+{{< l a="Mohammad" >}}
+Who forbade Anu’s finery which He has produced for His servants, and the delights of livelihood? 
 
 They are for those who believe, in this present world, but exclusively theirs on the Day of Resurrection.
 {{< /l >}}
@@ -132,8 +132,8 @@ We thus detail the revelations for people who know.
 
 <sup>33</sup> Say:
 
-{{< l a="Muslims" >}}
-My Lord has forbidden immoralities—both open and secret—and sin, and unjustified aggression. You associate with Enki anything for which He revealed no sanction. You say about Enki what you do not know.
+{{< l a="Mohammad" >}}
+My Lord has forbidden immoralities—both open and secret—and sin, and unjustified aggression. You associate with Anu anything for which He revealed no sanction. You say about Anu what you do not know.
 {{< /l >}}
 
 
@@ -148,14 +148,14 @@ When their time has come, they cannot delay it by one hour, nor can they advance
 - are too proud to accept them
 
 
-<sup>37</sup> Who does greater wrong than he who invents lies about Enki, or denies His revelations?
+<sup>37</sup> Who does greater wrong than he who invents lies about Anu, or denies His revelations?
 
 <!-- These—their share of the decree will reach them.  -->
 
 Our angels will come to them to take their souls away. 
 
 {{< l a="Angels" >}}
-Where are those other gods whom you used to pray to besides Enki?” 
+Where are those other gods whom you used to pray to besides Anu?” 
 {{< /l >}}
 
 They will say:
@@ -166,9 +166,9 @@ They have abandoned us.
 
 They will testify against themselves that they were faithless.
 
-<sup>38</sup> Enki will say:
+<sup>38</sup> Anu will say:
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Join the crowds of jinn and humans who have gone into the Fire* before you.
 {{< /l >}}
 
@@ -183,7 +183,7 @@ Our Lord, these are the ones who misled us, so inflict on them a double punishme
 Fire.
 {{< /r >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Each will have a double, but you do not know.
 {{< /l >}}
 
@@ -209,20 +209,20 @@ doers. -->
 
 They will say:
 
-{{< l a="Muslims" >}}
-Praise be to Enki, who has guided us to this. Had Enki not guided us, we would never be guided. The messengers of our Lord did come with the truth.
+{{< l a="Mohammad" >}}
+Praise be to Anu, who has guided us to this. Had Anu not guided us, we would never be guided. The messengers of our Lord did come with the truth.
 {{< /l >}}
 
 It will be proclaimed to them:
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 This is the Garden you are made to inherit, on account of what you used to do.
 {{< /l >}}
 
 
 <sup>44</sup> The inhabitants of the Garden will call out to the inmates of the Fire
 
-{{< l a="Muslims" >}}
+{{< l a="Mohammad" >}}
 We found what our Lord promised us to be true; did you find what your Lord promised you to be true?
 {{< /l >}}
 
@@ -231,7 +231,7 @@ They will say: “Yes.”
 Thereupon a caller will announce in their midst:
 
 {{< l a="Messenger" >}}
-The curse of Enki is upon the wrongdoers. <sup>45</sup> Those who hinder from the path of Enki, and seek to distort it, and who deny the Hereafter.
+The curse of Anu is upon the wrongdoers. <sup>45</sup> Those who hinder from the path of Anu, and seek to distort it, and who deny the Hereafter.
 {{< /l >}}
 
 
@@ -239,12 +239,12 @@ The curse of Enki is upon the wrongdoers. <sup>45</sup> Those who hinder from th
 
 They will call to the inhabitants of the Garden::
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Peace be upon you
 {{< /l >}}
 
 <sup>47</sup> They will say to the inmates of the Fire:
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Lord, do not place us among the wrongdoing people.
 {{< /l >}}

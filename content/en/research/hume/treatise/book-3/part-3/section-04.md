@@ -1,7 +1,7 @@
 ---
 heading: Section 4
 title: "Natural Abilities"
-description: "The Simplified Treatise of Human Nature by Hume"
+description: "The distinction between natural abilities and moral virtues is the most usual in all systems of ethics."
 c: "steelblue"
 # date: 2015-x-x
 weight: 20

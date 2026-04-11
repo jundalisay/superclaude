@@ -3,6 +3,7 @@ title: "A Few Inferences From General Relativity"
 heading: "Section 22"
 # date: 2022-03-20
 weight: 38
+lastmod: 2026-04-06
 description: "Einstein separates Special Relativity from General Relativity"
 c: "firebrick"
 icon: "Einstein"
@@ -59,7 +60,7 @@ Since light rays can only curve when light changes position, <!--  the speed of 
 
 {{< c v="red" >}} Opponents of Relativity say that Special Relativity is overthrown by the General Relativity. But they are wrong.{{< /c >}}
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 
 Before the development of electrodynamics, the laws of electrostatics and the laws of electricity were regarded indiscriminately. Nowadays, we know that electric fields can be derived correctly from electrostatic considerations only when  the electrical masses are at rest relative to each other<!-- and the coordinate system -->. But we do not overthrow electrostatics because of Maxwell's field-equations.
@@ -82,7 +83,7 @@ Through the bending of light by gravity, General Relativity enables us to theore
 
 {{< c v="red" >}} General Relativity solves* the gravitational field itself.{{< /c >}}
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 {{< n n="No, it doesn't. It actually makes gravity more confusing because it is totally different from Newton who clearly saw gravity as a force" >}}
 
@@ -99,7 +100,7 @@ According to GR, the general law of the gravitational field applies. <!-- must b
 
 <!--  will be derivable from special kinds of gravitational fields.  -->
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 
 {{< n n="After 100 years, no general law of gravitation has been derived from GR because his gravitation was a sophistry in the first place." >}}

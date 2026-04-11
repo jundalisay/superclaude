@@ -3,7 +3,7 @@ heading: Section 1
 title: The Different Principles Of Statics
 description: 
 c: firebrick
-# image: "/covers/lagrange.jpg"
+a: "Lagrange"
 date: 2026-03-18
 weight: 5
 ---

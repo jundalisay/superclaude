@@ -8,6 +8,8 @@ weight: 20
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
+aliases:
+  /research/ibn-khaldun/muqaddimah/chapter-5/part-08/  
 ---
 
 

@@ -18,59 +18,64 @@ This fictitious conflict between the Zionists and the Liberal Jews soon disguste
 
  <!-- on which that race had always prided itself. -->
 
-Cleanliness, whether moral or of another kind, had its own peculiar meaning for these people. That they were water-shy was obvious on looking at them and, unfortunately, very often also when not looking at them at all. The odour of those people in caftans often used to make me feel ill. Beyond that there were the unkempt clothes and the
-ignoble exterior.
+Cleanliness, whether moral or of another kind, had its own peculiar meaning for these people.
 
-All these details were certainly not attractive; but the revolting feature was that beneath
-their unclean exterior one suddenly perceived the moral mildew of the chosen race.
-What soon gave me cause for very serious consideration were the activities of the Jews
-in certain branches of life, into the mystery of which I penetrated little by little. Was
-there any shady undertaking, any form of foulness, especially in cultural life, in which
-at least one Jew did not participate? On putting the probing knife carefully to that kind
-of abscess one immediately discovered, like a maggot in a putrescent body, a little Jew
-who was often blinded by the sudden light.
+They were obviously water-shy.
 
-In my eyes the charge against Judaism became a grave one the moment I discovered the
-Jewish activities in the Press, in art, in literature and the theatre. All unctuous protests 
-were now more or less futile. One needed only to look at the posters announcing the
-hideous productions of the cinema and theatre, and study the names of the authors who
-were highly lauded there in order to become permanently adamant on Jewish
-questions. Here was a pestilence, a moral pestilence, with which the public was being
-infected. It was worse than the Black Plague of long ago. And in what mighty doses this
-poison was manufactured and distributed. Naturally, the lower the moral and
-intellectual level of such an author of artistic products the more inexhaustible his
-fecundity. Sometimes it went so far that one of these fellows, acting like a sewage
-pump, would shoot his filth directly in the face of other members of the human race. In
-this connection we must remember there is no limit to the number of such people. One
-ought to realize that for one, Goethe, Nature may bring into existence ten thousand
-such despoilers who act as the worst kind of germ-carriers in poisoning human souls. It
+The odour of those people in caftans often used to make me feel ill. Beyond that there were the unkempt clothes and the ignoble exterior.
+
+The revolting feature was that beneath their unclean exterior one suddenly perceived the moral mildew of the chosen race.
+
+What soon gave me cause for very serious consideration were the activities of the Jews in certain branches of life, into the mystery of which I penetrated little by little. 
+
+Was there any shady undertaking, any form of foulness, especially in cultural life, in which at least one Jew did not participate? On putting the probing knife carefully to that kind of abscess one immediately discovered, like a maggot in a putrescent body, a little Jew who was often blinded by the sudden light.
+
+In my eyes, the charge against Judaism became a grave when I discovered the Jewish activities in the Press, in art, in literature and the theatre. 
+
+<!-- All unctuous protests were now more or less futile. One needed only to look at  -->
+
+Their posters announced the hideous productions of the cinema and theatre.
+- Their authors were highly lauded.
+
+ <!-- there in order to become permanently adamant on Jewish questions.  -->
+
+Here was a moral pestilence that was infecting the public.
+
+This poison was manufactured and distributed in mighty doses.
+
+Naturally, the lower the moral and intellectual level of such an author of artistic products the more inexhaustible his fecundity.
+
+Sometimes it went so far that one of these fellows, acting like a sewage pump, would shoot his filth directly in the face of other members of the human race. In
+this connection we must remember there is no limit to the number of such people.
+
+One should realize that for one, Goethe, Nature may bring into existence ten thousand such despoilers who act as the worst kind of germ-carriers in poisoning human souls. It
 was a terrible thought, and yet it could not be avoided, that the greater number of the
 Jews seemed specially destined by Nature to play this shameful part.
 
 And is it for this reason that they can be called the chosen people?
 
-I began then to investigate carefully the names of all the fabricators of these unclean
-products in public cultural life. The result of that inquiry was still more disfavourable to
-the attitude which I had hitherto held in regard to the Jews. Though my feelings might
-rebel a thousand time, reason now had to draw its own conclusions.
+I began then to investigate carefully the names of all the fabricators of these unclean products in public cultural life.
 
-The fact that nine-tenths of all the smutty literature, artistic tripe and theatrical
-banalities, had to be charged to the account of people who formed scarcely one per cent.
-of the nation--that fact could not be gainsaid. It was there, and had to be admitted. Then
-I began to examine my favourite 'World Press', with that fact before my mind.
+<!-- The result of that inquiry was still more disfavourable to
+the attitude which I had hitherto held in regard to the Jews. Though my feelings might
+rebel a thousand time, reason now had to draw its own conclusions. -->
+
+The fact that nine-tenths of all the smutty literature, artistic tripe and theatrical banalities, had to be charged to the account of people who formed scarcely one per cent of the nation--that fact could not be gainsaid. It was there, and had to be admitted. Then I began to examine my favourite 'World Press', with that fact before my mind.
 
 The deeper my soundings went the lesser grew my respect for that Press which I
 formerly admired. Its style became still more repellent and I was forced to reject its
-ideas as entirely shallow and superficial. To claim that in the presentation of facts and
+ideas as entirely shallow and superficial. 
+
+To claim that in the presentation of facts and
 views its attitude was impartial seemed to me to contain more falsehood than truth. The
 writers were--Jews.
 
-Thousands of details that I had scarcely noticed before seemed to me now to deserve
-attention. I began to grasp and understand things which I had formerly looked at in a
+Thousands of details that I had scarcely noticed before seemed to me now to deserve attention. I began to grasp and understand things which I had formerly looked at in a
 different light.
 
-I saw the Liberal policy of that Press in another light. Its dignified tone in replying to
-the attacks of its adversaries and its dead silence in other cases now became clear to me
+I saw the Liberal policy of that Press in another light. 
+
+Its dignified tone in replying to the attacks of its adversaries and its dead silence in other cases now became clear to me
 as part of a cunning and despicable way of deceiving the readers. Its brilliant theatrical
 criticisms always praised the Jewish authors and its adverse, criticism was reserved
 exclusively for the Germans. 
@@ -112,12 +117,16 @@ struggle was at an end.
 
 In my relations with my fellow workmen I was often astonished to find how easily and
 often they changed their opinions on the same questions, sometimes within a few days
-and sometimes even within the course of a few hours. I found it difficult to understand
+and sometimes even within the course of a few hours. 
+
+I found it difficult to understand
 how men who always had reasonable ideas when they spoke as individuals with one
-another suddenly lost this reasonableness the moment they acted in the mass. That 
-phenomenon often tempted one almost to despair. I used to dispute with them for
+another suddenly lost this reasonableness the moment they acted in the mass. 
+
+That  phenomenon often tempted one almost to despair. I used to dispute with them for
 hours and when I succeeded in bringing them to what I considered a reasonable way of
 thinking I rejoiced at my success. But next day I would find that it had been all in vain.
+
 It was saddening to think I had to begin it all over again. Like a pendulum in its eternal
 sway, they would fall back into their absurd opinions.
 
@@ -281,5 +290,3 @@ And so I believe today that my conduct is in accordance with the will of the Alm
 
 <!-- [Note 5. The Phaecians were a legendary people, mentioned in Homer's Odyssey. They were supposed to live on some unknown island in the Eastern Mediterranean, sometimes suggested to be Corcyra, the modern Corfu. They loved good living more
 than work, and so the name Phaecian has come to be a synonym for parasite.]  -->
-
-

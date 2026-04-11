@@ -2,7 +2,7 @@
 heading: "Author 15"
 title: "Dr. Sten Lothigius"
 # date: 2024-12-12
-weight: 20
+weight: 21
 description: "The Classical Principle Of Relativity Is Valid For Physics As A Whole And [For] Large [Scale] And Also For The Optical - Electrical World"
 c: "darkgoldenrod"
 ---

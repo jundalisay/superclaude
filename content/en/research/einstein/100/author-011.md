@@ -2,8 +2,8 @@
 heading: "Authors 11-12"
 title: "Kuntz, Lasker"
 # date: 2024-12-12
-weight: 14
-description: "Relativity, on the other hand, raises relativity itself to the absolute principle, with which itself contradicts. "
+weight: 17
+description: "Einstein's Relativity Cancels Every Objective Validity"
 c: "darkgoldenrod"
 ---
 

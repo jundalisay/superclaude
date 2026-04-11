@@ -21,7 +21,7 @@ aliases:
 
 The Quantum of aether (qoa) is the monad. It is the smallest unit of an aethereal substance which takes the form of the universe.
 
-The best explanation for a qoa is the Prime Radiant of the alien race called the Essassani. However, many people are allergic to the idea of aliens, so we use humans sources as:
+The best explanation for a qoa is the Prime Radiant of the alien race called the Sassani. However, many people are allergic to the idea of aliens, so we use humans sources as:
 - Leibniz
 - Pythagoras
 - Kepler 

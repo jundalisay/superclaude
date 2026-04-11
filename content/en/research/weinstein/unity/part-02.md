@@ -3,7 +3,7 @@ heading: "Part 2"
 title: "From Unified Field Theory to Quantum Gravity and Back"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 10
 date: 2021-04-01
 ---
 

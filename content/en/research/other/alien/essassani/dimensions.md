@@ -2,10 +2,10 @@
 title: "Dimensions and Densitites"
 weight: 30
 image: "/photos/physics/ai.jpg"
-description: "The Essassani has various Dimensions and Densitites"
+description: "The Sassani has various Dimensions and Densitites"
 ---
 
-The Essassani has various Dimensions and Densitites that are usually opposite of what humans think dimensions and densities to be.
+The Sassani has various Dimensions and Densitites that are usually opposite of what humans think dimensions and densities to be.
 
 Name | Manifestation
 --- | ---
@@ -35,7 +35,7 @@ Entity | Cycles per second
 Normal humans | 40k-60k
 Spiritual people | 135k
 4th density and world peace | above 200k
-Essassani |  290k
+Sassani |  290k
 Threshold for physical reality and spirit | 333k 
 
 

@@ -2,7 +2,8 @@
 heading: "Section 1"
 linkTitle: Sublayers
 title: "The Upper, Middle, and Lower Radiance"
-# date: 2023-12-10
+date: 2023-12-10
+lastmod: 2025-01-06
 image: /graphics/physics/magnetboat.jpg
 description: "The Upper Radiant is the realm of the multiverse."
 writer:
@@ -10,6 +11,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 3
 icon: "Juan"
+sitemap:
+  priority: 0.6
 ---
 
 

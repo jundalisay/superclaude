@@ -52,8 +52,9 @@ more because in certain quarters (the Bavarian Government) nothing was done to
 correct this attitude, but it was even welcomed with silent rubbing of hands.
 The Jew was far too shrewd not to understand that the infamous campaign which he
 had organized, under the cloak of War Companies, for plundering the German nation
-would and must eventually arouse opposition. As long as that opposition did not
-spring directly at his own throat he had no reason to be afraid. Hence he decided that
+would and must eventually arouse opposition. 
+
+As long as that opposition did not spring directly at his own throat he had no reason to be afraid. Hence he decided that
 the best way of forestalling an outbreak on the part of the enraged and desperate
 masses would be to inflame their wrath and at the same time give it another outlet.
 Let Bavaria quarrel as much as it liked with Prussia and Prussia with Bavaria. The

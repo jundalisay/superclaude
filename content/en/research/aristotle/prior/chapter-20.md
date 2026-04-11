@@ -1,7 +1,7 @@
 ---
 heading: Chapters 20-23
 title: "Problematic and problematic"
-weight: 20
+weight: 29
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
@@ -14,13 +14,13 @@ icon: "Aristotle"
 ### Chapter 20
 
 
-In the last figure a syllogism is possible whether both or only one of the premises is problematic.
+In the last figure, a syllogism is possible whether both or only one of the premises is problematic.
 
-When the premises are problematic the conclusion will be problematic; and also when one
-premise is problematic, the other assertoric. But when the other premise is necessary, if it is
+When the premises are problematic the conclusion will be problematic; and also when one premise is problematic, the other assertoric. But when the other premise is necessary, if it is
 affirmative the conclusion will be neither necessary or assertoric; but if it is negative the
-syllogism will result in a negative assertoric proposition, as above. In these also we must
-understand the expression 'possible' in the conclusion in the same way as before.
+syllogism will result in a negative assertoric proposition, as above. 
+
+In these also we must understand the expression 'possible' in the conclusion in the same way as before.
 
 First let the premises be problematic and suppose that both A and B may possibly belong to
 every C. Since then the affirmative proposition is convertible into a particular, and B may
@@ -91,11 +91,14 @@ suppose one proposition is affirmative, the other negative, the affirmative bein
 suppose A may possibly belong to no C, but B necessarily belongs to all C. We shall have the
 first figure once more: and-since the negative premise is problematic-it is clear that the
 conclusion will be problematic: for when the premises stand thus in the first figure, the
-conclusion (as we found) is problematic. But if the negative premise is necessary, the conclusion
-will be not only that A may possibly not belong to some B but also that it does not belong to
+conclusion (as we found) is problematic.
+
+But if the negative premise is necessary, the conclusion will be not only that A may possibly not belong to some B but also that it does not belong to
 some B. For suppose that A necessarily does not belong to C, but B may belong to all C. If the
 affirmative proposition BC is converted, we shall have the first figure, and the negative premise
-is necessary. But when the premises stood thus, it resulted that A might possibly not belong to
+is necessary.
+
+But when the premises stood thus, it resulted that A might possibly not belong to
 some C, and that it did not belong to some C; consequently here it follows that A does not belong
 to some B. But when the minor premise is negative, if it is problematic we shall have a syllogism
 by altering the premise into its complementary affirmative, as before; but if it is necessary no
@@ -103,16 +106,19 @@ syllogism can be formed. For A sometimes necessarily belongs to all B, and somet
 possibly belong to any B. To illustrate the former take the terms sleep-sleeping horse-man; to
 illustrate the latter take the terms sleep-waking horse-man.
 
-Similar results will obtain if one of the terms is related universally to the middle, the other in
-part. If both premises are affirmative, the conclusion will be problematic, not pure; and also
-when one premise is negative, the other affirmative, the latter being necessary. But when the
+Similar results will obtain if one of the terms is related universally to the middle, the other in part. 
+
+If both premises are affirmative, the conclusion will be problematic, not pure; and also when one premise is negative, the other affirmative, the latter being necessary. But when the
 negative premise is necessary, the conclusion also will be a pure negative proposition; for the
-same kind of proof can be given whether the terms are universal or not. For the syllogisms must
-be made perfect by means of the first figure, so that a result which follows in the first figure
-follows also in the third. But when the minor premise is negative and universal, if it is 
-problematic a syllogism can be formed by means of conversion; but if it is necessary a syllogism
+same kind of proof can be given whether the terms are universal or not. 
+
+For the syllogisms must be made perfect by means of the first figure, so that a result which follows in the first figure
+follows also in the third.
+
+But when the minor premise is negative and universal, if it is  problematic a syllogism can be formed by means of conversion; but if it is necessary a syllogism
 is not possible. The proof will follow the same course as where the premises are universal; and
 the same terms may be used.
+
 It is clear then in this figure also when and how a syllogism can be formed, and when the
 conclusion is problematic, and when it is pure. It is evident also that all syllogisms in this figure
 are imperfect, and that they are made perfect by means of the first figure.

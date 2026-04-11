@@ -6,76 +6,57 @@
   {{ $img = resources.Get $imgName }}
 {{ end }}
 
-<div class="fade-in px-4 mx-auto py-6">
-  <div class="flex flex-col items-center">
-
-    {{/* ── Speech bubble ── */}}
-    <div class="relative w-full">
-
-      {{/* Opening quote — top left */}}
-      <svg class="absolute -top-3 -left-3 w-7 h-7 text-gray-300 dark:text-gray-600" fill="currentColor" viewBox="0 0 512 512">
+<div class="fade-in max-w-4xl mx-auto py-6 px-4">
+  <div class="flex flex-row items-start gap-6 p-6 rounded-2xl shadow-sm transition-colors duration-300 border bg-sp-card border-sp-border">
+    
+    <div class="relative w-4/5">
+      <svg class="absolute -top-2 -left-2 w-8 h-8 opacity-50 text-sp-muted" fill="currentColor" viewBox="0 0 512 512">
         <path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/>
       </svg>
-
-      {{/* Closing quote — bottom right */}}
-      <svg class="absolute -bottom-3 -right-3 w-7 h-7 text-gray-300 dark:text-gray-600" fill="currentColor" viewBox="0 0 512 512">
-        <path d="M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z"/>
-      </svg>
-
-      <div class="border border-gray-400 rounded-2xl shadow-sm px-5 py-4 shadow-lg">
-        <p class="text-xl text-base font-semibold leading-relaxed">
+      
+      <div class="pl-6">
+        <p class="text-lg md:text-xl font-medium leading-relaxed text-sp-text">
           {{ .Inner | markdownify }}
         </p>
       </div>
-
-      {{/* Outer tail */}}
-      <div class="absolute left-1/2 -translate-x-1/2 -bottom-[10px] w-0 h-0
-                  border-l-[8px]  border-l-transparent
-                  border-r-[8px]  border-r-transparent
-                  border-t-[10px] border-t-gray-200 dark:border-t-gray-700">
-      </div>
-      {{/* Inner tail */}}
-      <div class="absolute left-1/2 -translate-x-1/2 -bottom-[8px] w-0 h-0
-                  border-l-[7px]  border-l-transparent
-                  border-r-[7px]  border-r-transparent
-                  border-t-[9px]  border-t-white dark:border-t-gray-800">
-      </div>
-
     </div>
 
-    {{/* ── Avatar + caption ── */}}
-    <div class="flex flex-col items-center gap-1 mt-4">
-
-      <div class="w-12 h-12 rounded-full ring-2 ring-white dark:ring-gray-800 shadow-md overflow-hidden bg-gradient-to-br from-indigo-400 to-violet-500 flex items-center justify-center">
+    <div class="w-1/5 flex flex-col items-center text-center gap-3 border-l border-sp-border pl-4">
+      
+      <!-- Avatar container -->
+      <div class="w-14 h-14 md:w-16 md:h-16 rounded-full ring-2 ring-white dark:ring-slate-800 shadow-md overflow-hidden bg-sp-bg-alt flex items-center justify-center flex-shrink-0">
         {{ if $a }}
           {{ if $img }}
-            <img class="w-full h-full object-cover"
-                 src="{{ $img.RelPermalink }}" alt="{{ $a }}">
+            <img class="w-full h-full object-cover" src="{{ $img.RelPermalink }}" alt="{{ $a }}">
           {{ else }}
-            <img class="w-full h-full object-cover"
-                 src="/icons/{{ $a }}.jpg" alt="{{ $a }}"
-                 onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-            <span class="hidden w-full h-full items-center justify-center text-white font-bold text-lg select-none">
+            <!-- Try static path fallback -->
+            <img class="w-full h-full object-cover" src="/icons/{{ $a }}.jpg" alt="{{ $a }}" 
+                 onerror="this.style.display='none'; this.parentElement.querySelector('.initials').style.display='flex'">
+            <span class="initials hidden w-full h-full items-center justify-center text-sp-muted font-bold text-xl select-none bg-sp-bg-alt">
               {{ substr $a 0 1 | upper }}
             </span>
           {{ end }}
         {{ else }}
-          <span class="text-white font-bold text-lg select-none">C</span>
+          <span class="flex w-full h-full items-center justify-center text-sp-muted font-bold text-xl select-none bg-sp-bg-alt">
+            C
+          </span>
         {{ end }}
       </div>
 
-      {{ if $a }}
-        <span class="text-sm font-semibold text-center leading-tight">
-          {{ $a }}
-        </span>
-      {{ end }}
-      {{ if gt (len $c) 0 }}
-        <span class="text-[14px] italic text-center leading-tight">
-          {{ $c }}
-        </span>
-      {{ end }}
+      <div class="flex flex-col">
+        {{ if $a }}
+          <span class="text-sm font-bold text-sp-text leading-tight">
+            {{ $a }}
+          </span>
+        {{ end }}
+        
+        {{ if $c }}
+          <span class="text-xs italic text-sp-muted mt-1 leading-tight">
+            {{ $c }}
+          </span>
+        {{ end }}
+      </div>
 
     </div>
-
   </div>
-</div>
+</div> 

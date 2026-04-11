@@ -19,6 +19,22 @@ Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GM
 
 
 
+aether media = amed
+aether particles (monad) = apars
+time media = timed
+aetherspace media = asmed
+space media = spamed
+space particles = spapars
+light media = limed
+light particles = lipar
+magnetic media = magmed
+crude light particle = clipar
+material media = matmed
+matter particles = matpars
+
+A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems.
+
+
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">
         {{ partial "card.html" $page }}
       </div>

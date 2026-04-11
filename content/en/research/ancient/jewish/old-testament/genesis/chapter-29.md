@@ -1,7 +1,7 @@
 ---
 heading: Genesis 29
 title: "Jacob's Travel"
-description: "Then Jacob went on his journey, and came into the land of the people of the east"
+description: "We replace God with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 58
 c: "firebrick"
 ---
@@ -136,18 +136,18 @@ What have you done to me? Did I not serve you so I could make a baby with Rachel
 
 So he served with him yet 7 other years.
 
-<sup>31</sup> When Enki saw that Leah was hated, he opened her womb: but Rachel was barren.
+<sup>31</sup> When Anu saw that Leah was hated, he opened her womb: but Rachel was barren.
 
 <sup>32</sup> Leah conceived, and bare a son she named Reuben.
 
 {{< r a="Leah" >}}
-Surely Enki had looked on my affliction; now therefore my husband will love me.
+Surely Anu had looked on my affliction; now therefore my husband will love me.
 {{< /r >}}
 
 <sup>33</sup> She conceived again, and bare a son and said:
 
 {{< r a="Leah" >}}
-Because Enki had heard that I was hated, he had therefore given me this son also. 
+Because Anu had heard that I was hated, he had therefore given me this son also. 
 {{< /r >}}
 
 She called his name Simeon.
@@ -163,7 +163,7 @@ Therefore was his name called Levi.
 <sup>35</sup> She conceived again, and bare a son. 
 
 {{< r a="Leah" >}}
-Now will I praise Enki
+Now will I praise Anu
 {{< /r >}}
 
 

@@ -1,6 +1,6 @@
 ---
 title: "The Vain Man"
-heading: "Chapter 4b"
+heading: "Section 3e"
 description: "He courts the company of his superiors as much as the proud man shuns it"
 weight: 54
 writer:

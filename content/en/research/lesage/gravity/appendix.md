@@ -50,19 +50,32 @@ For example, several hundred times greater relative to the velocity of the earth
 
 ## Concept, Which Facilitates The Application Of Mathematics To Determine The Mutual Influence Of The Heavy Bodies And The Corpuscles.
 
-First. Decompose all heavy bodies into equal masses so small as to allow them to be treated without sensible error as attractive particles are treated in those theories of gravitation in which no hypothesis is made as to its cause. In such a small mass the effects of unequal distance and position of its particles relative to those of the mass which is conceived to attract it, and to be attracted by it, may be neglected. Such masses will have a diameter no more than one one-hundred-thousandth as great as the mutual distance of the two masses under examination. Thus the apparent semi-diameter of one as viewed from the other does not exceed one second.
+1. Decompose all heavy bodies into equal masses so small as to allow them to be treated without sensible error as attractive particles are treated in those theories of gravitation in which no hypothesis is made as to its cause.
 
-Second. For the surfaces of this mass, accessible but impermeable to the gravitational fluid, substitute a single spherical surface equal to their sum.
+In such a small mass the effects of unequal distance and position of its particles relative to those of the mass which is conceived to attract it, and to be attracted by it, may be neglected. Such masses will have a diameter no more than one one-hundred-thousandth as great as the mutual distance of the two masses under examination. Thus the apparent semi-diameter of one as viewed from the other does not exceed one second.
 
-Third. Decompose these first surfaces into facets sufficiently small to be treated as planes without sensible error.
+2. For the surfaces of this mass, accessible but impermeable to the gravitational fluid, substitute a single spherical surface equal to their sum.
 
-Fourth. Transport all these facets to the spherical surface above mentioned. Each one of the facets should in this transformation occupy that point of the spherical surface at which the tangent plane is parallel to the original position of the facet.
+3. Decompose these first surfaces into facets sufficiently small to be treated as planes without sensible error.
 
-REMARKS.
+4. Transport all these facets to the spherical surface above mentioned. Each one of the facets should in this transformation occupy that point of the spherical surface at which the tangent plane is parallel to the original position of the facet.
 
-First. It is not necessary to be very expert to deduce upon these suppositions all the laws of gravitation, both terrestrial and universal (and consequently those of Kepler and some others), with as much of [160] precision and more as the phenomena themselves furnish, for these laws are the inevitable consequences of the constitutions I have supposed.
 
-Second. Although I here present these constitutions crudely and without proof, as if they were gratuitous hypotheses and adventurous fictions, the fair-minded reader will perfectly comprehend that I have at hand some presumptions, at least, in their favour (independent of the perfect accord with all the phenomena), but which I withhold as too extended for development in this place. These suppositions may then be regarded as theorems published without demonstration.
+## Remarks
 
-Third. Their number is likely to inspire some opposition at first glance; but the attentive mind will not fail to see that they are but details into which I have wished to enter because of the novelty of this doctrine, and that they will be readily understood when it shall have become sufficiently well known that its students may attend under favourable circumstances to the details. If the authors who have written upon hydrodynamics, aeronautics, or optics had had readers who doubted the existence of water, air, and light, and who consequently indulged no tacit supposition upon equalities or compensations of which no express mention was made, they, too, would be obliged to add a great number of explanations to their definitions which instructed or indulgent readers might well dispense with. We do not accept of hints, and sano sensu, except for propositions which are familiar and in whose favour there is a predisposition.
+1. It is not necessary to be very expert to deduce on these suppositions all the laws of gravitation, both terrestrial and universal (and consequently those of Kepler and some others), with as much of precision and more as the phenomena themselves furnish, for these laws are the inevitable consequences of the constitutions I have supposed.
+
+2. I presented these constitutions crudely and without proof.
+
+But you will comprehend that I have at hand some presumptions, at least, in their favour (independent of the perfect accord with all the phenomena), but which I withhold as too extended for development in this place. 
+
+These suppositions may then be regarded as theorems published without demonstration.
+
+3. Their number is likely to inspire some opposition at first glance.
+
+But the attentive mind will not fail to see that they are but details into which I have wished to enter because of the novelty of this doctrine, and that they will be readily understood when it shall have become sufficiently well known that its students may attend under favourable circumstances to the details. 
+
+If the authors who have written upon hydrodynamics, aeronautics, or optics had had readers who doubted the existence of water, air, and light, and who consequently indulged no tacit supposition upon equalities or compensations of which no express mention was made, they, too, would be obliged to add a great number of explanations to their definitions which instructed or indulgent readers might well dispense with.
+
+We do not accept of hints, and sano sensu, except for propositions which are familiar and in whose favour there is a predisposition.
 

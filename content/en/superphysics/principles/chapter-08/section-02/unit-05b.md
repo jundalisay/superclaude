@@ -123,7 +123,7 @@ It is also different from Newton's Calculus which originated from plotting curvi
 
 Superphysics allows teleportation which totally negates curvilinear motion. This is one of the reasons why we had to invent Qualimath for Superphysics, just as Calculus was invented for Physics.
 
-Qualimath is in between the current math and the math of the Essassani which uses shapes instead of numbers.
+Qualimath is in between the current math and the math of the Sassani which uses shapes instead of numbers.
 
 An algorithm is an implementation or processing of a model which is the shape or structure of interconnected ideas that make up a complex idea.
 

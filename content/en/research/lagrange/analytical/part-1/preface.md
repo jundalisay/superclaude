@@ -1,9 +1,9 @@
 ---
-title: Analytical Mechanics
+title: Preface
 description: 
-# image: "/covers/lagrange.jpg"
-# date: 2022-06-25
-weight: 2
+a: "Lagrange"
+date: 2026-03-25
+weight: 4
 ---
 
 
@@ -106,125 +106,34 @@ and tending to increase them, it will suffice to reduce these coordinates to fun
 
 .. and one can substitute, in place of the partial differences 
 
-∂
-Ω
-∂
-ξ
-,
-∂
-Ω
-∂
-ψ
-,
-…
-,
-{\displaystyle {\frac {\partial \Omega }{\partial \xi }},{\frac {\partial \Omega }{\partial \psi }},\dots ,} the respective sums
 
-S
-m
-(
-X
-∂
-x
-∂
-ξ
-+
-Y
-∂
-y
-∂
-ξ
-+
-Z
-∂
-z
-∂
-ξ
-)
-,
-S
-m
-(
-X
-∂
-x
-∂
-ψ
-+
-Y
-∂
-y
-∂
-ψ
-+
-Z
-∂
-z
-∂
-ψ
-)
-,
-…
-,
-{\displaystyle \mathbf {S} m\left(\mathrm {X} {\frac {\partial x}{\partial \xi }}+\mathrm {Y} {\frac {\partial y}{\partial \xi }}+\mathrm {Z} {\frac {\partial z}{\partial \xi }}\right),\quad \mathbf {S} m\left(\mathrm {X} {\frac {\partial x}{\partial \psi }}+\mathrm {Y} {\frac {\partial y}{\partial \psi }}+\mathrm {Z} {\frac {\partial z}{\partial \psi }}\right),\quad \ldots ,}
+...
+
+the respective sums
+
+...
+
 and consequently, in place of 
 Δ
 Ω
 {\displaystyle \Delta \Omega } the quantity
 
-S
-m
-(
-X
-Δ
-x
-+
-Y
-Δ
-y
-+
-Z
-Δ
-z
-)
-,
-{\displaystyle \mathbf {S} m\left(\mathrm {X} \Delta x+\mathrm {Y} \Delta y+\mathrm {Z} \Delta z\right),}
-where the characteristic 
-Δ
-{\displaystyle \Delta } relates to the arbitrary constants; so that one can change 
-∂
-Ω
-∂
-α
-{\displaystyle {\frac {\partial \Omega }{\partial \alpha }}} into
+....
 
-S
-m
-(
-X
-∂
-x
-∂
-α
-+
-Y
-∂
-y
-∂
-α
-+
-Z
-∂
-z
-∂
-α
-)
-,
-{\displaystyle \mathbf {S} m\left(\mathrm {X} {\frac {\partial x}{\partial \alpha }}+\mathrm {Y} {\frac {\partial y}{\partial \alpha }}+\mathrm {Z} {\frac {\partial z}{\partial \alpha }}\right),}
+where the characteristic  ... relates to the arbitrary constants; so that one can change
+
+...
+
+into
+
+...
+
+
 and likewise for the other partial differences of 
-Ω
-.
-{\displaystyle \Omega .} In this manner, the method will be applicable to perturbing forces represented by any variables whatsoever.
+
+...
+
+In this manner, the method will be applicable to perturbing forces represented by any variables whatsoever.
 
 Finally, the sixth Section, which is the last of this Volume, and which corresponds to the first paragraph of the fifth Section of the previous edition, is augmented with various remarks, and especially with the solution of some problems on the very small oscillations of bodies; it ends with the theory of vibrating strings, which I had given in the first Volume of the Memoirs of Turin, and which is presented here in a simpler manner and immune to the objections that d'Alembert had made against this theory, in the first Volume of his Opuscules.
 

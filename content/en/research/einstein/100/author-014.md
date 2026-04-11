@@ -2,7 +2,7 @@
 heading: "Authors 14"
 title: "Professor Dr. P. F. Linke"
 # date: 2024-12-12
-weight: 18
+weight: 20
 description: "My opposition to Relativity begins as soon as it believes it can make philosophical and ideological statements"
 c: "darkgoldenrod"
 ---

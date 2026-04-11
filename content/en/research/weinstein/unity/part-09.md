@@ -3,7 +3,7 @@ heading: "Part 9"
 title: "Lagrangians"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 42
 date: 2025-05-30
 ---
 
@@ -67,10 +67,7 @@ Here, as in Einstein’s case, the Weyl curvature tensor is annihilated by the c
 
 This leads to a model that abstracts the Einstein-Hilbert and Chern-Simons actions to generate linear field equations in the Riemannian and 9We have closely followed the history referred to by Dirac in his 1963 Scientific American Article discussing Schrodinger and the Multiple iterations of Einstein’s (and Grossman’s) introduction of General Relativity and taken from them that an author will have to fine tune the instantiation of a new idea. What we take away from this is that the tiny minority of authors who put forward new physical law have to have the right to explore instantiations of new ideas without the community over indexing on the instance put forward. As with any release, the interested community is welcome to send bug fixes.
 
-10The author used to construct such objects from representation theory concepts like highest
-weights. The Shiab operator that he settled on (but cannot yet now locate) was chosen for its
-properties relative to the Bianchi identity. Even if it can be located, it will be in a different
-language with which the author no longer feels entirely familiar. So it is.
+The author used to construct such objects from representation theory concepts like highest weights. The Shiab operator that he settled on (but cannot yet now locate) was chosen for its properties relative to the Bianchi identity. Even if it can be located, it will be in a different language with which the author no longer feels entirely familiar. So it is.
 
 Ehresmannian curvature tensors via an action I
 1 which for only the Bosonic

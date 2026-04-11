@@ -4,6 +4,9 @@ title: Differential Equations For The Solution Of All Problems Of Dynamics
 description: 
 c: firebrick
 weight: 40
+a: "Lagrange"
+date: 2026-03-18
+draft: true
 ---
 
 

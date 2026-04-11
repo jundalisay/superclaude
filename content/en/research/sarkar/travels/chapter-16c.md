@@ -1,99 +1,132 @@
 ---
-title: "Intervention"
 heading: "Chapter 16c"
-description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
+title: "Who's depending on whom?"
+description: "Today was the second and closing day of a skiing weekend that I had organized here in the Norwegian Alps as part of my regular sports and adventures program. "
 c: "indigo"
-weight: 262
-author: Dada Dharmavedananda
+weight: 259
+author: Dada
 ---
 
 
-This reminds me of a story of a brother who visited Baba in the jail some 
-years ago. 
 
-Rajesh was a mild and quiet Indian. He visited Baba in His cell. After 5 minutes, the guard said. "Time's up. You'll have to leave now." 
+Oslo. Today was the second and closing day of a skiing weekend that I had organized here in the Norwegian Alps as part of my regular sports and adventures program. 
 
-"Rajesh," Baba whispered, "the rule permits you ten minutes. Tell them strongly not to disturb us." 
+This was only the second time I'd been skiing. The first time was earlier this winter when I conducted a one-week outing in the Swiss Alps. 
 
-Looking at the guards, Rajesh said softly, "Please don't disturb us." 
+Norwegians are a people said to be bom with skis on their feet. We held racing competitions. To allow me to participate, they gave me a liberal handicap of one minute on each run. 
 
+Toward the end of the day. in an effort to see how fast 1 could go, I ordered my feet not to turn inward, i.e. I would not allow myself to slow my downhill speed. I was soon moving faster than anyone else on the mountain. It was exhilarating. 
 
-The guards laughed. Then one of them said roughly, "Now get up and get out, young man." 
+The only problem was that I had not yet mastered sharp turning. 
 
-"Rajesh, you have to shout at them," Baba said. 
+Because I could not turn around each of the skiers I was passing, I had to yell at  those in front of me, "Look out! Look out!" Once they saw me they jumped out of the way. A neat, albeit, self-centered system. 
 
-"Please don't disturb us!" Rajesh said in a louder voice. 
+At this time I was working as sectorial secretary of the Spiritualists' Sports and Adventures Club, Two or three times a month we conduct weekend outings in different regions of the sector These programs ranged from mountain climbing, horseback riding, boating, forest hikes, and sports matches on up to full scale training camps teaching relief skills, first-aid, self-defense, survival ski I Is and higher philosophy. 
 
-The guards didn't look pleased. The leader said stiffly, "You have to follow what I say. Now leave!" 
+At last I came to the final turn, sure that I had cut at least two minutes from my previous best time. As I rounded the comer I had a shock. Directly in front of me was a group of about thirty students, surrounding their teacher, who was lecturing them on some subtle point which demanded their full attention. When I yelled "Look out! Look out!" none of them heard. 
 
-"I told you to shout," Baba said. "You've got to do it much louder." 
+Within a moment I was on them. At the last moment they noticed me and scrambled out of the way. One of them, however, was not quite quick enough. My skis latched onto his; my head continued forward while he was thrown down; and then my feet, still wearing the skis, flipped over my head as I flew through the air over a fence. 
 
-"You have no right to stop me now!" Rajesh yelled. "You are violating the rules, and you are infringing on morality!" Later he said that in all his life, he had never raised his voice so loud. 
+While most of the route is open, fences are erected only where the fall is precipatedly steep. Thus, as I merrily winged my way over that fence, thinking of Baba, I was blissfully unaware that I was courting sweet death. What trouble some of us children make for our Father. 
 
-"You cannot criticize us!" said the guard. "Get out now, or we will take 
-physical action against you." 
+He was compelled to save me by arranging my head-down-feet-up fall in a tree in such a way that my skis caught in the branches; I finished my route hanging upside-down with the top of my skull a few centimeters from the ground. 
 
-"Rajesh, you'll have to use all your force and all your anger," said Baba. 
+Throughout the weekend a fourteen year-old lad had taken a special interest in me; we usually skied together. This time, however, I had left him far behind in my flakes. Now, as he caught up, he saw me dangling from the tree, and shouted, "Wow, Dada! How'd you do that?" 
 
-Rajesh stood tall, pointed his finger at the guards, and with burning eyes, 
-and a blasting voice shouted, "Get away, you animals!! Or else you'll have to 
-suffer forever!!" 
+"I'd prefer to tell you a little later," I said. "Now how's about lending me a hand, brother?" 
 
-Without another word, the guards all lowered their heads, turned and 
-slipped away, tripping over each other, leaving Rajesh and Baba alone. 
+It was nearly as dangerous getting me down as it had been getting there, but after a few minutes of nerve-racking efforts, my young friend had me back on my feet. 
 
-"Well done, my boy, well done," Baba said. 
+Unbeknownst to me, the entire escapade, including my brief flight, had happened in plain view of the 200 or so skiers who were waiting for the ski-lift. I was met by loud applause while finally skiing down to the bottom. 
 
+The only explanation I can think of why He bothers to save such zany people like me time and again, is because normal conservative people are unwilling to lead this sort of Tantric lifestyle in which one never knows what will happen next. 
 
-### Intervention 
+Baba simply has no alternative. 
 
-Toronto, Canada. I've been assisting another worker here who is struggling to receive political asylum. I had some doubt if our approach was correct or not, so I called Calcutta two weeks ago. I asked Dada Rama-nanda to explain 
-our strategy to Baba and to let me know His response. 
+Entertainment at government expense 
 
-When I called back a week ago, Ramanandaji said. "I'm sorry. Baba has been too busy, and there was no scope to ask. Call me again in a few days." 
+Paris. Last night, while traveling in a train and sleeping alone in a six-seat compartment, I was woken in an unprecedented manner. A strong flash of light hit me directly in the face. Immediately I opened my eyes, sat up, and saw a man still holding a camera. Without even donating a few francs for the privilege of taking my portrait, and without offering a smile, he turned on his heels and high-tailed it out of the compartment. 
 
-Three days ago I again called Ramanandaji and he said, "There's still been no chance. Please call later." His tone told me that he didn't want to speak to Baba about it. I was desperate, and thought, "Baba, please help..." 
+And I, without any idea as to what I was after, jumped up, and ran in pursuit. As I James- Bonded my way down the corridor, I passed a man walking in the opposite direction. 
 
-Today I called Dada Ramananda, and he said, excitedly, "A funny thing. Honestly, I was hesitating to ask Baba. But just after your last call. Baba came out of His room and asked. Who was that on the phone just now?' In all these years. He has never once inquired about phone calls. I told Him your name, and before I could begin to explain your question. Baba said, 'Yes, I know what they are trying to do there. It is good. Tell them to continue their efforts.'" 
+Arriving at the link between two cars, I suddenly thought. 
 
-It's certainly impressive that Baba knew what we were doing without having any objective information, but I give more importance to the fact that if  He had not personally intervened we would never have received a reply. 
+What a dope I am! That was the camera-man, throwing me off his scent by acting opposite my expectations. I swung around, and raced back, just in time to see him disappear through the door leading to the next car. I rushed forward and turned the door handle, but he had locked the door behind him. 
 
+Well, I'm not so easily deterred, I thought, and dashed back to my room, opened my bag, and took out the key used for the doors between cars. (Because I spend so much time on trains, it is convenient to have this key.) Hurrying back to the locked door, I opened it. and entered the next car. 
 
-Bathroom power 
+Though I looked at everyone in that car, I could hardly guess which of the apparently sleeping suspects was the real spy. 
 
-Oulu, Finland. I am staying in the home of a man to whom I taught meditation only yesterday. This morning, after he took his shower, he approached me and said, "Dada, I felt an extraordinary vibration in the bathroom just now. Did you cause it? Did you practice any special bathroom-meditation?" 
+Full of wonder, but not downcast, I returned to my cabin. Id given it a good try. but once again those fellows had gotten the upper hand. 
 
-"Did you hear anything while I was in the bathroom?" I asked. 
-
-"No. Should I have heard something?" 
-
-"I mean did you hear any sound coming from the bathroom then?" 
-
-"No. I was in my bedroom while you were bathing. It's too far away from the bathroom for me to hear anything." 
-
-"Then I'm surprised. Yes, 1 always chant a special mantra when I finish my shower. But I never expected someone else might notice the after-effects on the bathroom itself." 
-
-"It must be a powerful mantra! What is it? Please teach me!" 
-
-Though I usually only teach this mantra to people who've been meditating for a good while, here was a man who was thirsty for experience, even in the bathroom. 
-
-So I explained, "Whenever we take a shower, it's like a fresh start. 
-
-Incantation of the bath mantra inaugurates our coming day, immerses it in God. 1 love the feeling. While still wet, we face the sun or any other source of light and chant this mantra together with some special hand gestures ." Then I taught 
-him the bath mantra. 77 
-
-77 The bath mantra itself goes like this: Pitri purushe byo ndma/ia, rishi devebyo namaha 
-
-I pay my respect to the ancestors, I pay my respect to the pioneers and wise people B rahmarpandm, Brahma havi 
-
-The offering is Brahma (Infinite Consciousness), the object offered is Brahma Brahmagnao Brahmanahutam 
-
-The One to whom the offering is made is Brahma, the person who is offering is Brahma Brahmaeva tena gantavyam 
-
-The goal of the offering is Brahma 
-
-Brahma karma samadhina. 
-
-When the work of Brahma is done, s amadhi (self-realization) will result. 
+I laughed at what expense and trouble they were going to in building up their files on such a carefree, harmless guy. They  consider me a dangerous radical, not realizing the true nature of the spiritual revolution for which I am struggling. 
 
 
+
+## ERAWS
+
+Calcutta. Today, during reporting, Baba divided the Dadas into 2 groups:
+
+1. ERAWS (Education, relief and welfare section) 
+2. TRIO (a conglomerate of the three other major trades). 
+
+I took my place with the rest of the Trio group. 
+
+Baba instructed each group to condemn the members of the other group for insufficient speed in our work. 
+
+Criticism is a natural lower tendency. So everyone passionately threw themselves into the allotted task. 
+
+I stood directly 2 feet in front of Baba. The other Dadas, all Indian, yelled accusations back and forth in Hindi and Bengali. 
+
+<!-- Since these languages are not my forte, I remained silent, preferring to feast my eyes only on Baba for 10 minutes. -->
+
+Baba's expressions varied throughout, shifting from frowns to smiles to head-nodding to "Here here!" and so on.
+
+All of a sudden He looked straight at me, then pointed and said:
+
+
+{{< l a="Baba" >}}
+And you! What are you looking at?
+{{< /l >}}
+
+{{< r a="Dharmavedananda" >}}
+[after laughing loudly] I'm looking at my favorite person.
+{{< /l >}}
+
+{{< l a="Baba" >}}
+No, no, no. You also have to play the game. You are not exempt.
+{{< /l >}}
+
+
+
+Immediately, without waiting for any further prodding. I turned away from Him, and, looking at the ERAWS workers, I said loudly:
+
+{{< r a="Dharmavedananda" >}}
+You are all just like a bunch of dirty ants, not using a drop of your potentiality. You only swim in the muds of staticity, becoming more and more grimy with each passing day, enjoying your useless existence, and speaking highly of how you moved a few twigs and leaves here and there.
+
+You jump on the nearest sugar cubes and licking and licking until you become sick and have to fast ('well it's fasting day, and we had to fast anyway,' you say), and proud that you move from place to place, diligently making a mess everywhere you go!
+{{< /r >}}
+
+
+
+While I was speaking, everyone was laughing, and Baba said:
+
+
+{{< l a="Baba" >}}
+Just see ... Just see ...
+{{< /l >}}
+
+
+{{< r a="Dharmavedananda" >}}
+In short, the pigs who roll in filth are better than you, because in the end at least they provide a bit of protein to the meat-eaters.
+{{< /r >}}
+
+
+I swung back around to Baba. He stuck out His chin and pursed His lips, saying:
+
+{{< l a="Baba" >}}
+Yesss. Rightly said.
+{{< /l >}}
+
+
+He waved His hand at the others, and again they started up. I was left to return to my silence, and dived even more deeply into my contemplation of Anandamurtiji. 

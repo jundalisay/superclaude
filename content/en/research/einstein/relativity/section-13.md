@@ -2,6 +2,7 @@
 title: "The Experiment Of Fizeau"
 heading: "Section 13"
 # date: 2022-04-06
+lastmod: 2026-04-04
 weight: 22
 description: "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
 c: "firebrick"
@@ -94,7 +95,7 @@ Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my the
 {{< n n="We agree with Lorentz that Lorentz theory only applies to the electromagnetic layer and not to the material layer which works according to Newton's laws. General Relativity therefore does not apply to spacetime. Rather, general relativity merely explains electromagnetism under the influence of spacetime" >}}
 
 
-![Einstein sticking out tongue](/icons/einbla.png)
+![Einstein sticking out tongue](/icons/Einstein.jpg)
 
 
 <div style="color=  red;">

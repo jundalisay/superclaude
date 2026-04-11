@@ -1,20 +1,19 @@
 ---
-draft: true
 heading: Chapter 2f
-title: "The Absolute and Relative Force"
+title: "Proposition 21"
 date: 2025-03-20
-weight: 4
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 24
+description: "Determine the effect of any oblique forces acting on a moving point"
 author: "Euler"
 c: "firebrick"
 ---
 
 
-PROPOSITION 21. PROBLEM
+## PROPOSITION 21. PROBLEM
 
 160. To determine the effect of any oblique forces acting on a moving point.
 
-SOLUTION.
+### SOLUTION
 
 Let the point A (Fig. 13 repeated, [in which BAb is isosceles and the angle BAb is incremental.]) have the speed c in the direction AB. [A also refers to the mass of the body, while np/A is the acceleration in some set of units with constant of proportionality n.] Indeed it is acted on by a force p, the direction of which AC makes an angle with AB, the sine of which is k. It is evident that the point A left to itself unless acted on by a force progresses along the line AB and in an element of time dt travels through the distance AB = cdt (30).
 
@@ -25,43 +24,50 @@ point A, if it should be at rest would be drawn forwards by the force p in the t
 Hence it follows that dz 
 npdt 2
 (159) [Recall that the final speed in the increment is
-A
+
+...
 taken as the speed throughout the increment]. Therefore the sine of the angle BAD which
 has been found, is equal to kdz
-(124) [as sinθ = k and dz / sin BAD  cdt / k ], which is
-cdt
-nkpdt
-. And the increment of the speed dc [= Db/dt] which was equal
-Ac
-npdt (1 kk )
-dz (1 kk )
+
+..
+
+ which is
+
+...
+
+The increment of the speed dc [= Db/dt] which was equal
+
+...
+
 to
-(123),
+
+...
 is
 now
 equal
-to
+to 
+
 . Q. E. I. [p. 66]
-dt
-A
-equal toEULER'S MECHANICA VOL. 1.
-Chapter two.
-page 66
-Translated and annotated by Ian Bruce.
-Corollary 1.
-161. The distance AD is called ds (Fig. 18), and the element of
-time by dt  ds
+
+
+### Corollary 1.
+
+161. The distance AD is called ds (Fig. 18), and the element of time by dt  ds
 , then with ds
 in place of dt above there is
-c
-c
+
+...
 produced dc 
-npds (1 kk )
-. The perpendicular DF is drawn
-Ac
+
+...
+
+The perpendicular DF is drawn
+
 from D to the direction of the force AE; let AF = dy and DF =
 dx, then [the element of the distance squared]
-ds 2  dx 2  dy 2 and k  dx
+
+...
+
 and
 ds
 dy
@@ -91,21 +97,20 @@ ds . The radius of the osculating circle
 c
 npdx
 is taken as AO = r, and hence we have nprdx  Ac 2ds .
-Corollary 4.
+
+
+### Corollary 4.
+
 164. If the direction AE of the force p is incident along the normal AO, then there arises
 AF = dy = 0 and DF = dx = AD = ds. On account of which it follows that cdc = 0, and
 therefore the force does not change the speed.
 
-Corollary 5.
-2
+### Corollary 5
 
 165. Again in this case it follows that npr  Ac 2 on account of dx = ds, and r  Ac
-.
-np
+
 Therefore this force, the direction of which is normal to the direction of the body [p. 67]
-results in the arc of the [equivalent circular] curve, as the body is not able to complete its
-2
-rectilinear motion. [The centripetal force is np  Acr . This situation arises in projectile
+results in the arc of the [equivalent circular] curve, as the body is not able to complete its rectilinear motion. [The centripetal force is np  Acr . This situation arises in projectile
 motion at the highest point, where dy is zero. We should perhaps recall that the force
 always acts downwards, while the initial speed is at any angle we choose, in Euler's
 derivation of the equations governing motion in two dimensions that he has presented here step by step, in a very careful manner, that I have tried to reproduce in this
@@ -180,13 +185,11 @@ express happenings in the world of numbers.]
  -->
 Corollary 12.
 
-172. Again since dt  ds
-, then t   e
-c
-dyds
-  rdx
-ds . Hence therefore it should be noted that
-likewise for the time in which any part of the motion is to be described, only the curve
+172. Again since 
+
+...
+
+Hence therefore it should be noted that likewise for the time in which any part of the motion is to be described, only the curve
 itself and the direction of the force needs to be given.
 
 Corollary 13.
@@ -239,5 +242,4 @@ separated parts are again joined together.
 Scholium.
 
 178. The use of this force of restitution now is clear in a certain way from proposition 18, yet the use of this will be most fully understood when we are to begin investigating the motion of bodies of finite magnitudes in what follows. Truly we will investigate the effect of this here with many separate parts of a point joined together, which will be of great use in what follows. Hence a certain principle of restitution is embraced, with the help of which many questions are easily resolved, that we call the principle of restitution.
-
 

@@ -3,7 +3,7 @@ heading: "Authors 19"
 title: "Dr Petraschek"
 # date: 2024-12-12
 weight: 24
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Special Relativity As A Solution To A Sparkling Problem"
 c: "darkgoldenrod"
 ---
 
@@ -15,7 +15,7 @@ c: "darkgoldenrod"
 The principle of the absolute constancy of the speed of light on which Einstein's special RTH is
 based, which consists in the assumption that the light always travels at the same speed for the
 observer, regardless of whether the observer flees from the incoming light beam or goes towards it
-(p. 2) 1), does not include a contradiction in the formal-logical sense (p. 53), since the assumption
+(p. 2) 1), does not include a contradiction in the formal-logical sense, since the assumption
 that a presupposed objective, i.e. a change in speed occurring in the unconscious body world does
 not need itself also subjectively to manifest as such in the observer's consciousness, does not
 contain any impossibility of thinking, but does in the material-logical or actually epistemological
@@ -91,10 +91,9 @@ light signals are used to determine the simultaneity of two events, this simulta
 taken in the absolute sense, when, on the basis of the ether theory of light, the movement of the
 signal receiver (and the two locations of the event) against the hypothetical light ether and thus the
 exact value of the speed of the two-sided light signals in relation to the signal receiver is not known.
-Here, contrary to the view of the special RTH, the possibility of different speeds of light is reckoned
-with (p. 68 f.) And accordingly a "relativity" of simultaneity and thus of time measures in general is
-assumed, which is actually an introduction to the understanding of the special RTH The intended
-relativity of temporal (and spatial) distances proves to be completely unsuitable (p. 69 f.).
+
+Here, contrary to the view of the special RTH, the possibility of different speeds of light is reckoned with (p. 68 f.) And accordingly a "relativity" of simultaneity and thus of time measures in general is assumed, which is actually an introduction to the understanding of the special RTH The intended relativity of temporal (and spatial) distances proves to be completely unsuitable (p. 69 f.).
 
 9. The special RTH tries to solve a bogus problem. Therefore, with the examination of appearances, it
-must share the fate of the problem of being put aside (p. 76).
+must share the fate of the problem of being put aside.
+

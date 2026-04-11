@@ -12,7 +12,7 @@ Physical Aliens | Description
 --- | ---
 Humans | Genetically manipulated homo erectus by the Anunnaki
 Anunnaki | Creators of humans, from Cygnus. They have blue blood
-Essassani | Hybrid of humans and grays, from Orion
+Sassani | Hybrid of humans and grays, from Orion
 Grays | Genetically modified future humans, from Zeta Reticuli
 Lyrian | Evolved from Anunnaki
 Oneta | DNA experts
@@ -31,7 +31,7 @@ Virgo | Bashar is not allowed to discuss them
 Non-Physical Aliens | Description
 --- | ---
 Consciousness at Center of Milky Way | Creator of Precursors
-Light Beings | More advanced than Essassani
+Light Beings | More advanced than Sassani
 Blue men | Compassionate race of energy beings 
 
 
@@ -92,7 +92,7 @@ Draco constellation is recently awakening.
 Maui will be the sanctuary for the hybrid children
 
 
-The Essassani Agenda is to make the 7th Hybrid Race called the Anu Het or the conclusion of the cycle begun by the Anunnaki.
+The Sassani Agenda is to make the 7th Hybrid Race called the Anu Het or the conclusion of the cycle begun by the Anunnaki.
 
 This is the combination of the 6 hybrid races:
 
@@ -118,21 +118,21 @@ This will help build the 7th hybrid race (Anu Het).
 
 ## Shakana
 
-Shakana is the world spirit of the Essassani.
+Shakana is the world spirit of the Sassani.
 
 It was born after a seven-month gestation period.
 
 Day | Event
 --- | ---
-1 | Everyone (250m Essassani) fell asleep into a single dream
+1 | Everyone (250m Sassani) fell asleep into a single dream
 2 | They were unified in a dream through a spiritual gravity experiencing an energy sea
-3 | The Essassani became a single entity, dreaming as one. 
+3 | The Sassani became a single entity, dreaming as one. 
 
 
-The Essassani discovered they were of one heart and soul and body just with different faces.
+The Sassani discovered they were of one heart and soul and body just with different faces.
 
 After the third day, Shakana went back to energy and everyone woke up.
 
-From that day, the Essassani did not need to sleep anymore.
+From that day, the Sassani did not need to sleep anymore.
 
 

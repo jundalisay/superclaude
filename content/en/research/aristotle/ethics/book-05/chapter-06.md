@@ -5,9 +5,8 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
-description: "The violator of Law is Unjust. The keeper of the Law is Just"
+description: "There is some mean or middle of the unequal. "
 icon: "Aristotle"
 ---
 
@@ -24,9 +23,13 @@ The equal implies two terms at least: it follows then that the Just is both a me
 
 The Just then must imply four terms at least, for those[9] to which it is just are two, and the terms representing the things are two.
 
-There will be the same equality between the terms representing the persons, as between those representing the things: because as the latter are to one another so are the former: for if the persons are not equal they must not have equal shares; in fact this is the very source of all the quarrelling and wrangling in the world, when either they who are equal have and get awarded to them things not equal, or being not equal those things which are equal. Again, the necessity of this equality of ratios is shown by the common phrase “according to rate,” for all agree that the Just in distributions ought to be according to some rate: but what that rate is to be, all do not agree; the democrats are for freedom, oligarchs for wealth, others for nobleness of birth, and the aristocratic party for virtue.
+There will be the same equality between the terms representing the persons, as between those representing the things: because as the latter are to one another so are the former: for if the persons are not equal they must not have equal shares; in fact this is the very source of all the quarrelling and wrangling in the world, when either they who are equal have and get awarded to them things not equal, or being not equal those things which are equal.
 
-The Just, then, is a certain proportionable thing. For proportion does not apply merely to number in the abstract,[10] but to number generally, since it is equality of ratios, and implies four terms at least (that this is the case in what may be called discrete proportion is plain and obvious, but it is true also in continual proportion, for this uses the one term as two, and mentions it twice; thus A:B:C may be expressed A:B::B:C. In the first, B is named twice; and so, if, as in the second, B is actually written twice, the proportionals will be four): and the Just likewise implies four terms at the least, and the ratio between the two pair of terms is the same, because the persons and the things are divided similarly. It will stand then thus, A:B::C:D, and then permutando A:C::B:D, and then (supposing C and D to represent the things) A+C:B+D::A:B. 
+The necessity of this equality of ratios is shown by the common phrase “according to rate,” for all agree that the Just in distributions ought to be according to some rate: but what that rate is to be, all do not agree; the democrats are for freedom, oligarchs for wealth, others for nobleness of birth, and the aristocratic party for virtue.
+
+The Just, then, is a certain proportionable thing. For proportion does not apply merely to number in the abstract,[10] but to number generally, since it is equality of ratios, and implies four terms at least (that this is the case in what may be called discrete proportion is plain and obvious, but it is true also in continual proportion, for this uses the one term as two, and mentions it twice; thus A:B:C may be expressed A:B::B:C.
+
+In the first, B is named twice; and so, if, as in the second, B is actually written twice, the proportionals will be four): and the Just likewise implies four terms at the least, and the ratio between the two pair of terms is the same, because the persons and the things are divided similarly. It will stand then thus, A:B::C:D, and then permutando A:C::B:D, and then (supposing C and D to represent the things) A+C:B+D::A:B. 
 
 The distribution in fact consisting in putting together these terms thus.
 

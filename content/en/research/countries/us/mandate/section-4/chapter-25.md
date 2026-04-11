@@ -35,76 +35,66 @@ would rightly focus on saving small businesses during such a crisis. At the same
 time, however, various SBA programs have generated waste, fraud, and misman-
 agement of taxpayer dollars.
 
-For example, and more recently, more than $1 trillion in COVID-19 relief was
-distributed through the SBA.4 The SBA’s EIDL (Economic Injury Disaster Loan)
-Advance program in particular shows the dangers that can come with direct
-government lending. EIDL Advance provided direct cash grants and loans to
-small businesses. The SBA Office of Inspector General “identified $78.1 billion in
-potentially fraudulent EIDL loans and grants paid to ineligible entities,”5 which
-represented more than half of all funds spent through the program. Although PPP
-worked through private lenders and as a result experienced relatively less fraud
-than EIDL experienced, it is estimated “that at least 70,000 [PPP] loans were
-potentially fraudulent.”6
+For example, and more recently, more than $1 trillion in COVID-19 relief was distributed through the SBA.4 The SBA’s EIDL (Economic Injury Disaster Loan) Advance program in particular shows the dangers that can come with direct government lending. 
+
+EIDL Advance provided direct cash grants and loans to small businesses. The SBA Office of Inspector General “identified $78.1 billion in potentially fraudulent EIDL loans and grants paid to ineligible entities,”5 which represented more than half of all funds spent through the program. Although PPP worked through private lenders and as a result experienced relatively less fraud than EIDL experienced, it is estimated “that at least 70,000 [PPP] loans were potentially fraudulent.”6
 
 
-## ORIGIN, HISTORY, AND CORE FUNCTIONS
+## Origin, History, And Core Functions
 
 In 1954, the agency began to execute such core functions as “making and
 guaranteeing loans for small businesses,” “ensuring that small businesses earn
 a ‘fair proportion’ of government contracts and sales of surplus property,” and
-“provid[ing] business owners with management and business training.”7
-In 1970, President Richard Nixon’s Executive Order 11518 enhanced the agen-
-cy’s advocacy role by providing for the “increased representation of the interests
+“provid[ing] business owners with management and business training.”
+
+
+In 1970, President Richard Nixon’s Executive Order 11518 enhanced the agency’s advocacy role by providing for the “increased representation of the interests
 of small business concerns before departments and agencies of the United States
-Government.”8 This advocacy role was strengthened with the adoption of the Small
-Business Amendments of 1974,9 which established the Chief Counsel for Advocacy,
+Government.”
+
+This advocacy role was strengthened with the adoption of the Small Business Amendments of 1974,9 which established the Chief Counsel for Advocacy,
 and was then reinforced and expanded in 1976 with the creation of the Office of
 Advocacy, providing additional resources to ensure that small businesses had a
 voice in the regulatory process.
 
 In 1980, the Regulatory Flexibility Act (RFA)10 further strengthened the Office
 of Advocacy’s role, providing accountability across federal agencies to ensure that
-they considered the impact of their rulemakings on small businesses. The RFA
-requires federal agencies “to consider the effects of their regulations on small
-businesses and other small entities,”11 and the Office of Advocacy is charged with
+they considered the impact of their rulemakings on small businesses. 
+
+The RFA requires federal agencies “to consider the effects of their regulations on small businesses and other small entities,”11 and the Office of Advocacy is charged with
 ensuring that federal agencies abide by the law and is required to provide an annual
-report to the President and the Senate and House Committees on Small Business.12
-In addition, the Trade Facilitation and Trade Enforcement Act (TFTEA) of 201613
+report to the President and the Senate and House Committees on Small Business.
+
+In addition, the Trade Facilitation and Trade Enforcement Act (TFTEA) of 201613 
 
 established a new role for the Office of Advocacy: “to facilitate greater consider-
-ation of small business economic issues during international trade negotiations.”14
-This small office has been relatively effective over the years—and more produc-
-tive during periods when a strong Chief Counsel for Advocacy has been installed
+ation of small business economic issues during international trade negotiations.”
+
+This small office has been relatively effective over the years—and more productive during periods when a strong Chief Counsel for Advocacy has been installed
 to utilize the Office of Advocacy’s authority aggressively to provide a check on
 regulatory overreach. The office is one of the bright spots within the SBA that a
 conservative Administration could supercharge to dismantle extreme regulatory
 policies and advance limited-government reforms that promote economic freedom
 and opportunity.
+
 Currently, the SBA’s four core functions include:
 
-Entrepreneurial development programs. SBA provides “free” or low-
-cost training at more than 1,800 locations and through online platforms
+Entrepreneurial development programs. SBA provides “free” or low-cost training at more than 1,800 locations and through online platforms
 and webinars.
 
-Government contracting support programs. Through goals established
-by the SBA for federal departments and agencies, the broader goal is to
+Government contracting support programs. Through goals established by the SBA for federal departments and agencies, the broader goal is to
 ensure that small businesses win 23 percent of prime contracts.
-Advocacy. This independent office within the SBA works to ensure
-that federal agencies consider small businesses’ concerns and impact in
+
+Advocacy. This independent office within the SBA works to ensure that federal agencies consider small businesses’ concerns and impact in
 rulemakings. The office also conducts small-business research.
 
 
 
-### BUDGETARY FLUCTUATION
+### Budgetary Fluctuation
 
-SBA’s budget and programs have expanded significantly under some Admin-
-istrations and have been scaled back under others. President Ronald Reagan cut
-the SBA’s budget by more than 30 percent, and his annual budgets regularly pro-
-posed to eliminate the agency altogether.15 Under President George W. Bush, SBA
-Administrator Hector Barreto said that SBA’s goal was “to do more with less,”16
-but this changed because of Hurricane Katrina and a surge in disaster funding.
-In 2016, President Barack Obama considered streamlining and combining SBA
-programs and other business-related agencies and programs under one entity at
+SBA’s budget and programs have expanded significantly under some Administrations and have been scaled back under others. President Ronald Reagan cut the SBA’s budget by more than 30 percent, and his annual budgets regularly proposed to eliminate the agency altogether.15 Under President George W. Bush, SBA Administrator Hector Barreto said that SBA’s goal was “to do more with less,” but this changed because of Hurricane Katrina and a surge in disaster funding.
+
+In 2016, President Barack Obama considered streamlining and combining SBA programs and other business-related agencies and programs under one entity at
 the U.S. Department of Commerce, but opposition within the small-business lobby
 in Washington scuttled the effort.17
 

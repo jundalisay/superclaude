@@ -1,5 +1,5 @@
 ---
-heading: Chapters 13-14
+heading: Chapters 13
 title: "The proof of necessity"
 weight: 16
 c: "firebrick"

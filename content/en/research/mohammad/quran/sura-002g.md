@@ -3,11 +3,9 @@ title: "Rules on Food, Fasting, Gambling, and Revenge"
 heading: "Sura 2g"
 weight: 16
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
-
-{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="168" >}} Eat of what is lawful and good on earth. 

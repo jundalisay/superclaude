@@ -3,7 +3,7 @@ title: "Women (an-Nisa’)"
 heading: "Sura 4a "
 weight: 38
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -91,4 +91,3 @@ great attainment. -->
 {{< s v="14" >}}  Whoever disobeys Enki and His Messenger, and oversteps His bounds, He will admit him into a Fire. <!-- , wherein he abides for-
 ever, and he will have a shameful punish-
 ment. -->
-

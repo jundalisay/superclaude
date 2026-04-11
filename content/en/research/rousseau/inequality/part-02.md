@@ -11,13 +11,25 @@ date: 2025-01-11
 ---
 
 
-The first man who, having enclosed a piece of ground, bethought himself of saying This is mine, and found people simple enough to believe him, was the real founder of civil society. 
+The first man who enclosed a piece of ground thought himself: "This is mine".
 
-From how many crimes, wars and murders, from how many horrors and misfortunes might not any one have saved mankind, by pulling up the stakes, or filling up the ditch, and crying to his fellows, "Beware of listening to this impostor; you are undone if you once forget that the fruits of the earth, belong to us all, and the earth itself to nobody." But there is great probability that things had then already come to such a pitch, that they could no longer continue as they were; for the idea of property depends on many prior ideas, which could only be acquired successively, and cannot have been formed all at once in the human mind.
+He found people simple enough to believe him.
+
+He was the real founder of civil society. 
+
+Many crimes, wars, murders, horrors and misfortunes might have been avoided by:
+- pulling up the stakes
+- filling up the ditch
+- saying to his fellows, "Beware of listening to this impostor; you are undone if you once forget that the fruits of the earth, belong to us all, and the earth itself to nobody."
+
+
+But there is great probability that things had then already come to such a pitch, that they could no longer continue as they were; for the idea of property depends on many prior ideas, which could only be acquired successively, and cannot have been formed all at once in the human mind.
 
 Mankind must have made very considerable progress, and acquired considerable knowledge and industry which they must also have transmitted and increased from age to age, before they arrived at this last point of the state of nature. Let us then go farther back and endeavour to unify under a single point of view that slow succession of events and discoveries in the most natural order.
 
-Man's first feeling was that of his own existence, and his first care that of self-preservation. The produce of the earth furnished him with all he needed, and instinct told him how to use it. Hunger and other appetites made him at various times experience various modes of existence; and among these was one which urged him to propagate his species—a blind propensity that, having nothing to do with the heart, produced a merely animal act. The want once gratified, the two sexes knew each other no more; and even the offspring was nothing to its mother, as soon as it could do without her.
+Man's first feeling was that of his own existence, and his first care that of self-preservation. 
+
+The produce of the earth furnished him with all he needed, and instinct told him how to use it. Hunger and other appetites made him at various times experience various modes of existence; and among these was one which urged him to propagate his species—a blind propensity that, having nothing to do with the heart, produced a merely animal act. The want once gratified, the two sexes knew each other no more; and even the offspring was nothing to its mother, as soon as it could do without her.
 
 Such was the condition of infant man; the life of an animal limited at first to mere sensations, and hardly profiting by the gifts nature bestowed on him, much less capable of entertaining a thought of forcing anything from her. But difficulties soon presented themselves, and it became necessary to learn how to surmount them: the height of the trees, which prevented him from gathering their fruits, the competition of other animals desirous of the same fruits, and the ferocity of those who needed them for their own preservation, all obliged him to apply himself to bodily exercises. He had to be active, swift of foot, and vigorous in light. Natural weapons, stones and sticks, were easily found: he learnt to surmount the obstacles of nature, to contend in case of necessity with other animals, and to dispute for the means of subsistence even with other men, or to indemnify himself for what he was forced to give up to a stronger.
 

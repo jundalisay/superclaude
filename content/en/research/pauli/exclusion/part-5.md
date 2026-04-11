@@ -1,10 +1,11 @@
 ---
 title: "Nuclear spin for the hyperfine-structure"
 heading: "Part 5"
-weight: 12
+weight: 15
 c: "firebrick"
 description: "Which are the symmetry classes for other particles?"
 date: 1946-12-13
+lastmod: 2025-01-01
 ---
 
 
@@ -73,11 +74,23 @@ This consequence made it possible to investigate the logical possibility of part
 
 Wigner and Jordan22 proved that also in this case operators can be defined which are functions of the ordinary space-time coordinates and which can be applied to such a wave function.
 
-These operators do not fulfil any longer commutation rules: instead of the difference, the sum of the two possible products of two operators, which are distinguished by the different order of its factors, is now fixed by the math- ematical conditions the operators have to satisfy. The simple change of the sign in these conditions changes entirely the physical meaning of the formalism. In the case of the exclusion principle there can never exist a limiting case where such operators can be replaced by a classical field. Using this for- malism of Wigner and Jordan I could prove under very general assumptions that a relativistic invariant theory describing systems of like particles with integer spin obeying the exclusion principle would always lead to the non- commutability of physical quantities joined by a spacelike vector23. This would violate a reasonable physical principle which holds good for particles with symmetrical states. In this way, by combination of the claims of rel- ativistic invariance and the properties of field quantization, one step in the direction of an understanding of the connection of spin and symmetry class could be made.
+These operators do not fulfil any longer commutation rules: instead of the difference, the sum of the two possible products of two operators, which are distinguished by the different order of its factors, is now fixed by the mathematical conditions the operators have to satisfy.
+
+The simple change of the sign in these conditions changes entirely the physical meaning of the formalism. In the case of the exclusion principle there can never exist a limiting case where such operators can be replaced by a classical field.
+
+Using this formalism of Wigner and Jordan I could prove under very general assumptions that a relativistic invariant theory describing systems of like particles with integer spin obeying the exclusion principle would always lead to the non-commutability of physical quantities joined by a spacelike vector23. This would violate a reasonable physical principle which holds good for particles with symmetrical states. 
+
+In this way, by combination of the claims of rel- ativistic invariance and the properties of field quantization, one step in the direction of an understanding of the connection of spin and symmetry class could be made.
 
 The quantization of one-valued complex fields with a non-vanishing four-vector of the electric current gives the further result that particles both with positive and negative electric charge should exist and that they can be annihilated and generated in external electromagnetic field22. This pair-gen- eration and annihilation claimed by the theory makes it necessary to dis- tinguish clearly the concept of charge density and of particle density.
 
-The latter concept does not occur in a relativistic wave theory either for fields carrying an electric charge or for neutral fields. This is satisfactory since the use of the particle picture and the uncertainty relations (for instance by analyzing imaginative experiments of the type of the γ-ray microscope) gives also the result that a localization of the particle is only possible with limited accuracy24 . This holds both for the particles with integer and with half-integer spins. In a state with a mean value E of its energy, described by a wave packet with a mean frequency ν = E/h, a particle can only be local- ized with an error x > or x > For photons, it follows that the limit for the localization is the wavelength; for a particle with a finite rest- mass m and a characteristic length this limit is in the rest system of the center of the wave packet that describes the state of the particles given Until now I have mentioned only those results of the application of quan- tum mechanics to classical fields which are satisfactory. We saw that the statements of this theory about averages of field strength over finite space- time regions have a direct meaning while this is not so for the values of the field strength at a certain point.
+The latter concept does not occur in a relativistic wave theory either for fields carrying an electric charge or for neutral fields. This is satisfactory since the use of the particle picture and the uncertainty relations (for instance by analyzing imaginative experiments of the type of the γ-ray microscope) gives also the result that a localization of the particle is only possible with limited accuracy.
+
+This holds both for the particles with integer and with half-integer spins. In a state with a mean value E of its energy, described by a wave packet with a mean frequency ν = E/h, a particle can only be localized with an error x > or x > 
+
+For photons, it follows that the limit for the localization is the wavelength; for a particle with a finite rest- mass m and a characteristic length this limit is in the rest system of the center of the wave packet that describes the state of the particles given Until now I have mentioned only those results of the application of quantum mechanics to classical fields which are satisfactory.
+
+We saw that the statements of this theory about averages of field strength over finite space- time regions have a direct meaning while this is not so for the values of the field strength at a certain point.
 
 Unfortunately in the classical expression of the energy of the field there enter averages of the squares of the field strengths over such regions which cannot be expressed by the averages of the field strengths themselves. This has the consequence that the zero-point energy of the vacuum derived from the quantized field becomes infinite, a result which is directly connected with the fact that the system considered has an infinite number of degrees of freedom.
 
@@ -130,10 +143,7 @@ The quantization of the one-valued fields leading to ensembles of like particles
 
 Still, there is the fundamental difference that, depending on space and time coordinates, for the latter there is no limiting case, where the mathematical operators can be treated like classical fields.
 
-On the other hand, the possibilities and the limitations for the applications of the concepts of space and time find their expression in the different concepts of charge density and particle density,.
-
-
- will be the same for charged particles with integer and with half-integer spins.
+On the other hand, the possibilities and the limitations for the applications of the concepts of space and time find their expression in the different concepts of charge density and particle density, will be the same for charged particles with integer and with half-integer spins.
 
 The difficulties of the present theory become much worse, if the inter- action of the electromagnetic field with matter is taken into consideration, since the well-known infinities regarding the energy of an electron in its own field, the so-called self-energy, then occur as a result of the application of the usual perturbation formalism to this problem. 
 

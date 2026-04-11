@@ -11,7 +11,10 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: "Lam"
+aliases:
+  /superphysics/principles/chapter-02h
 ---
+
 
 
 The 5 Elements of Reality is always useful since it describes how Reality works or is maintained.   

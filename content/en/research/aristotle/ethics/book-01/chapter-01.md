@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "The Ends of Anything"
-weight: 2
+weight: 5
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotl

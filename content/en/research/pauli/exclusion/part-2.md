@@ -1,10 +1,11 @@
 ---
-title: "Exclusion principle and quantum mechanics"
-heading: "Part 1"
-weight: 1
+title: "Classically Non-describable Two-valuedness"
+heading: "Part 2"
+weight: 4
 c: "firebrick"
-description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
+description: "The problem of the closing of the electronic shells was not clear. "
 date: 1946-12-13
+lastmod: 2025-01-01
 ---
 
 

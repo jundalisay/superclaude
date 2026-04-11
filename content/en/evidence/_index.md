@@ -233,7 +233,7 @@ proofs:
     color: "deeppink"
     img: "/graphics/bio/pineal2.jpg"
     title: "The Importance of the Pineal Gland / 7th Chakra"
-    sub: "Cartesian Physics, Asian Physics (Hinduism, Taoism), Alien Physics (Essassani, Anunnaki) are united in the explanation of the pineal gland or 7th chakra"
+    sub: "Cartesian Physics, Asian Physics (Hinduism, Taoism), Alien Physics (Sassani, Anunnaki) are united in the explanation of the pineal gland or 7th chakra"
   - url: "https://www.ox.ac.uk/news/2016-10-11-first-our-three-billion-heartbeats-sooner-we-thought"
     cat: "Bio Superphysics"
     color: "deeppink"
@@ -276,7 +276,7 @@ proofs:
     color: "seagreen"
     img: "/photos/medieval/anu.jpg"
     title : "God/Allah/Yahweh as the Anunnaki"
-    sub : "Merging the Torah and Quran with the Sumerian and Babylonian texts show circumstantial evidence that God/Allah/Yahweh is Enki or his group which was opposed to Enlil and other alien races or gods. This was validated by the Essassani, which explains why Allah no longer intervenes in the Muslim problems like Gaza or Iran"
+    sub : "Merging the Torah and Quran with the Sumerian and Babylonian texts show circumstantial evidence that God/Allah/Yahweh is Enki or his group which was opposed to Enlil and other alien races or gods. This was validated by the Sassani, which explains why Allah no longer intervenes in the Muslim problems like Gaza or Iran"
 
   - url : "/social/supersociology/precrisis-years/"
     cat: "Social Superphysics"

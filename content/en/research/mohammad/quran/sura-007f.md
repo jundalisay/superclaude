@@ -3,7 +3,7 @@ title: "The 12 Tribes of Israel"
 heading: "Sura 7d "
 weight: 70
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -25,21 +25,28 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 And He leaves them blundering in their transgression. -->
 
-<sup>187</sup> They ask you about the Hour: “When will it come?” 
+<sup>187</sup> They ask you about the Hour: 
 
-Say: “Knowledge of it rests with my Lord. None can reveal its coming except He.
+{{< r a="People" >}}
+When will it come?
+{{< /r >}}
 
-It weighs heavily on the heavens and the earth. It will not come upon you except suddenly.” 
+Say: 
 
-They ask you as if you are responsible for it. Say, “Knowledge of it rests with Enki,”
+{{< l a="Mohammad" >}}
+Knowledge of it rests with my Lord. None can reveal its coming except He. It weighs heavily on the heavens and the earth. It will not come upon you except suddenly.
+{{< /l >}}
 
-<sup>188</sup> Say:
 
-“I have no control over any benefit or harm to myself, except as Enki wills. Had I known the future, I would have acquired much good, and no harm would have touched me. I am only a warner, and a herald of good news to a people who believe.”
+They ask you as if you are responsible for it. Say:
+
+{{< l a="Mohammad" >}}
+Knowledge of it rests with Enki. <sup>188</sup> I have no control over any benefit or harm to myself, except as Enki wills. Had I known the future, I would have acquired much good, and no harm would have touched me. I am only a warner, and a herald of good news to a people who believe.
 
 <sup>189</sup> It is He who created you from a single person, and made from it its mate, that he may find comfort with her. Then, when he has covered her, she conceives a light load, and she carries it around. 
 
-But when she has grown heavy, they pray to Enki their Lord, “if You give us a good child, we will be among the thankful.”
+But when she has grown heavy, they pray to Enki their Lord, “if You give us a good child, we will be among the thankful.
+{{< /l >}}
 
 <sup>190</sup> But when He has given them a good child, they attribute partners to Him in what He has given them. Enki is exalted above what they associate.
 
@@ -50,8 +57,7 @@ But when she has grown heavy, they pray to Enki their Lord, “if You give us a 
 If you invite them to guidance, they will not follow you. It is the same for you, whether you invite them, or remain silent.
 
 
-<sup>194</sup> Those you call upon besides Enki are servants like you. So call upon them, and let
-them answer you, if you are truthful.
+<sup>194</sup> Those you call upon besides Enki are servants like you. So call upon them, and let them answer you, if you are truthful.
 
 <sup>195</sup> Do they have feet with which they walk?
 
@@ -60,31 +66,38 @@ see?
 
 Or do they have ears with which they hear? 
 
-Say:
+{{< l a="Mohammad" >}}
+Call upon your partners, then plot against me, and do not wait.
 
-“Call upon your partners, then plot against me, and do not wait.”
+<sup>196</sup> My Master is Enki, He Who sent down the Book, and He takes care of the righteous.
+{{< /l >}}
 
-
-<sup>196</sup> “My Master is Enki, He Who sent down the Book, and He takes care of the righteous.”
 
 <sup>197</sup> Those you call upon besides Him cannot help you, nor can they help themselves.
 
-<sup>198</sup> And if you call them to guidance, they will not hear. And you see them looking at you, yet they do not see.
+<sup>198</sup> If you call them to guidance, they will not hear. And you see them looking at you, yet they do not see.
 
-199. Be tolerant, and command decency, and avoid the ignorant.
+<sup>199</sup> Be tolerant, and command decency, and avoid the ignorant.
 
-200. And when a suggestion from Satan assails you, take refuge with Enki. He is Hearing and Knowing.
+<sup>200</sup> When a suggestion from Satan assails you, take refuge with Enki. He is Hearing and Knowing.
 
-201. Those who are righteous—when an impulse from Satan strikes them, they remind themselves, and immediately see clearly.
+<sup>201</sup> Those who are righteous—when an impulse from Satan strikes them, they remind themselves, and immediately see clearly.
 
-202. But their brethren lead them relentlessly into error, and they never stop short.
+<sup>202</sup> But their brethren lead them relentlessly into error, and they never stop short.
 
-203. If you do not produce a miracle for them, they say, “Why don’t you improvise one.” Say, “I only follow what is inspired to me from my Lord.”
+<sup>203</sup> If you do not produce a miracle for them, they say:
+
+“Why don’t you improvise one.”
+
+Say:
+
+“I only follow what is inspired to me from my Lord.”
+
 
 These are insights from your Lord, and guidance, and mercy, for a people who believe.
 
-204. When the Quran is recited, listen to it, and pay attention, so that you may experience mercy.
+<sup>204</sup> When the Quran is recited, listen to it, and pay attention, so that you may experience mercy.
 
-205.  Remember your Lord within yourself, humbly and fearfully, and quietly, in the morning and the evening, and do not be of the neglectful.
+<sup>205</sup> Remember your Lord within yourself, humbly and fearfully, and quietly, in the morning and the evening, and do not be of the neglectful.
 
-206. Those who are in the presence of your Lord are not too proud to worship Him.
+<sup>206</sup> Those who are in the presence of your Lord are not too proud to worship Him.

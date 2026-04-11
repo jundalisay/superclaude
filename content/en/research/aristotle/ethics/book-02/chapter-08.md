@@ -5,8 +5,8 @@ weight: 19
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
+lastmod: 2026-04-01
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "Aristotle"
 ---
@@ -30,7 +30,17 @@ Again, in some cases an extreme will bear a resemblance to the mean; rashness, f
 
 Further: of the extremes in some cases the excess, and in others the defect, is most opposed to the mean: to courage, for instance, not rashness which is the excess, but cowardice which is the defect; whereas to perfected self-mastery not insensibility which is the defect but absence of all self-control which is the excess.
 
-And for this there are two reasons to be given; one from the nature of the thing itself, because from the one extreme being nearer and more like the mean, we do not put this against it, but the other; as, for instance, since rashness is thought to be nearer to courage than cowardice is, and to resemble it more, we put cowardice against courage rather than rashness, because those things which are further from the mean are thought to be more contrary to it. This then is one reason arising from the thing itself; there is another arising from our own constitution and make: for in each man’s own case those things give the impression of being more contrary to the mean to which we individually have a natural bias. Thus we have a natural bias towards pleasures, for which reason we are much more inclined to the rejection of all self-control, than to self-discipline.
+I give 2 reasons for this:
+
+1. From the nature of the thing itself
+
+This is because from the one extreme being nearer and more like the mean, we do not put this against it but the other; as, for instance, since rashness is thought to be nearer to courage than cowardice is, and to resemble it more, we put cowardice against courage rather than rashness, because those things which are further from the mean are thought to be more contrary to it. 
+
+2. From our own constitution and make
+
+In each man’s own case those things give the impression of being more contrary to the mean to which we individually have a natural bias.
+
+Thus we have a natural bias towards pleasures, for which reason we are much more inclined to the rejection of all self-control, than to self-discipline.
 
 These things then to which the bias is, we call more contrary, and so total want of self-control (the excess) is more contrary than the defect is to perfected self-mastery.
 

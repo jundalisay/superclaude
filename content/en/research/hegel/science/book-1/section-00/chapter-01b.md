@@ -8,6 +8,8 @@ c: "steelblue"
 ---
 
 
+{{< n n="In the previous part, Hegel established a beginning for thought. This is to set up the next step which is logic or the flow of thought" >}}
+
 
 {{< s v="94" >}} Logic is pure [metaphysical] science.
 
@@ -24,7 +26,8 @@ The certainty of truth* no longer has the object over against it.
 Instead, this certainty [between idea and perception]:
 - has internalised the object
 - knows it as its own self
-- has given up the knowledge of itself as of something confronting the object of which it is only the annihilation, has divested itself of this subjectivity and is at one with its self-alienation.
+- has given up the knowledge of itself as of something confronting the object of which it is only the annihilation
+- has divested itself of this subjectivity and is at one with its self-alienation.
 
 
 {{< s v="95" >}} From this, the determination of pure [metaphysical] knowledge begins with:
@@ -42,7 +45,7 @@ Instead, this certainty [between idea and perception]:
 It is thus distinctionless. It is only simple immediacy and stops being knowledge.
 
 
-{{< s v="97" >}} Simple immediacy is itself an expression of reflection.
+{{< s v="97" >}} **Simple immediacy is itself an expression of reflection**.
 
 It references itself with what is mediated.
 
@@ -51,18 +54,18 @@ It references itself with what is mediated.
 This simple immediacy [relation]*, therefore, is pure being [metaphysical existence].
 
 
-{{< n n="This link connects idea and perception">}}
+{{< n n="This link connects idea and perception which are both metaphysical existences" >}}
 
 
-Pure [metaphysical] knowing is to mean abstract [metaphysical] knowing.
+Pure [metaphysical] knowing means abstract [metaphysical] knowing.
 
-Pure [metaphysical] being [existence] is being [existence] in general.
+Pure [metaphysical] being [existence] is [philosophical] being [existence] in general.
 
 <!-- : being, and nothing else, without any further specification and filling. -->
 
 
-{{< s v="98" >}} Here, the beginning is made with being [existence] that exists through mediation.
-- This mediation is also a sublating of itself.
+{{< s v="98" >}} Here, the beginning is made with being [existence] that exists through mediation [relation].
+- This mediation [relation] is also a sublating of itself.
 
 [Metaphysical] knowing is the outcome of finite knowing, of consciousness. 
 
@@ -72,7 +75,7 @@ Pure [metaphysical] being [existence] is being [existence] in general.
 - the beginning itself is taken immediately
 
 
-All that is present is simply the arbitrary resolve to think about thought. 
+All that is present is simply the arbitrary resolve [desire] to think about thought. 
 
  <!-- that we propose to consider thought as such. -->
 
@@ -93,7 +96,7 @@ Rather, the beginning :
   - This is because any such determination or content would be a distinguishing and an inter-relationship of distinct moments.
   - This would turn it into a mediation.
 
-The beginning of logic therefore is pure being [metaphysical existence]
+The beginning of logic therefore is pure being [metaphysical existence].
 
 
 <!-- {{< s v="100" >}} 
@@ -102,38 +105,3 @@ To this simple exposition of what is only directly involved in the simplest of a
 
 Yet these cannot be meant to serve as elucidations and confirmations of that exposition — this is complete in itself — since they are occasioned by preconceived ideas and reflections and these, like all other preliminary prejudices, must be disposed of within the science itself where their treatment should be awaited with patience. -->
 
-
-{{< s v="101" >}} Absolute truth is a result [of logic]. 
-
-Conversely, a result presupposes a prior truth.
-
-THis prior truth is:
-- objectively considered unnecessary
-- subjectively not known
-
-This has led people to think that philosophy can only begin with a hypothetical and problematical truth.
-
-Therefore, philosophising is only a quest. 
-
-Reinhold thinks this way. 
-
-<!-- This view was much stressed by  in his later philosophical work and one must give it credit for the genuine interest on which it is based, an interest which concerns the speculative nature of the philosophical beginning. -->
-
-<!-- The detailed discussion of this view is at the same time an occasion for introducing a preliminary understanding of the meaning of progress in logic generally; for that view has a direct bearing on the advance. -->
-
-He thinks that progress in philosophy is rather:
-- a retrogression
-- an establishing where we first obtain the result that what we began with is not something merely arbitrarily assumed but is in fact the truth, and also the primary truth.
-
-
-{{< s v="102" >}}
-
-<!-- It must be admitted that it is an important consideration — one which will be found in more detail in the logic itself — that  -->
-
-The advance is a retreat into the ground, to what is primary and true, on which depends and, in fact, from which originates, that with which the beginning is made. 
-
-Thus consciousness on its onward path from the immediacy with which it began is led back to absolute knowledge as its innermost truth. This last, the ground, is then also that from which the first proceeds, that which at first appeared as an immediacy. 
-
-This is true in still greater measure of absolute spirit which reveals itself as the concrete and final supreme truth of all being, and which at the end of the development is known as freely externalising itself, abandoning itself to the shape of an immediate being —opening or unfolding itself [sich entschliessend] into the creation of a world which contains all that fell into the development which preceded that result and which through this reversal of its position relatively to its beginning is transformed into something dependent on the result as principle. 
-
-The essential requirement for the science of logic is not so much that the beginning be a pure immediacy, but rather that the whole of the science be within itself a circle in which the first is also the last and the last is also the first.

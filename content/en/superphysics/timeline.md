@@ -1,15 +1,19 @@
 ---
 title: "Philosopher Timeline"
 date: 2026-03-13
-# image: /photos/objects/mobile.jpg
+image: /photos/people/descartes.jpg
 c: darkslategray
-description: "We plot the lifetimes of Western philosophers"
+description: "We plot the lifetimes of Western philosophers, adding Mao and Hirohito"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: "Juan"
+icon: "Juan"
 ---
 
+
+From the chart below, we can see that Western enlightenment began with Francis Bacon and ended with Adam Smith, which is around 200 years. 
+
+After that, darkness crept in with Charles Darwin, John Stuart Mill, and Karl Marx until it reached its peak with Einstein amd Hitler.
 
 
 
@@ -246,32 +250,184 @@ writer:
                     <span>1900</span>
                 </div>
             </div>
-            <!-- Compact Legend -->
-            <div class="mt-6 pt-4 border-t border-gray-100 dark:border-gray-700">
-                <div class="grid grid-cols-3 md:grid-cols-4 gap-x-3 gap-y-2 text-[9px] text-gray-500 dark:text-gray-400">
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-amber-500"></span> Bacon 1561–1626</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-sky-500"></span> Galileo 1564–1642</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-purple-500"></span> Hobbes 1588–1679</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-emerald-500"></span> Descartes 1596–1650</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-pink-500"></span> Maupertuis 1698–1759</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-indigo-500"></span> Huygens 1629–1695</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-violet-500"></span> Spinoza 1632–1677</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-orange-500"></span> Locke 1632–1704</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-rose-500"></span> Jacob B. 1655–1705</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-blue-500"></span> Newton 1643–1727</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-cyan-500"></span> Leibniz 1646–1716</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-teal-500"></span> Johann B. 1667–1748</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-fuchsia-500"></span> Daniel B. 1700–1782</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-lime-500"></span> Hume 1711–1776</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-yellow-500"></span> A. Smith 1723–1790</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-red-500"></span> Euler 1707–1783</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-amber-700"></span> Lagrange 1736–1813</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-sky-700"></span> Gauss 1777–1855</span>
-                    <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-indigo-700"></span> Maxwell 1831–1879</span>
-                </div>
                 <p class="text-[9px] text-gray-400 dark:text-gray-500 mt-3 italic">
                     * Scale: 0.4% per year (350-year span from 1550–1900)
                 </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="bg-gray-50 dark:bg-gray-900 p-4">
+    <div class="max-w-4xl mx-auto">
+        <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl py-6 px-4 border border-gray-100 dark:border-gray-700">
+            <div class="flex items-center gap-3 mb-4 text-xs text-gray-400 dark:text-gray-500 font-mono border-b border-gray-200 dark:border-gray-700 pb-2">
+                <span class="w-28 shrink-0">Person</span>
+                <div class="flex-1 flex justify-between px-2">
+                    <span>1750</span>
+                    <span>1800</span>
+                    <span>1850</span>
+                    <span>1900</span>
+                    <span>1950</span>
+                    <span>2000</span>
+                </div>
+            </div>
+            <div class="space-y-2">
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Napoleon Bonaparte">Napoleon</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[7.6%] w-[20.8%] bg-gradient-to-r from-red-500 to-red-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1769–1821</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="John Stuart Mill">J. S. Mill</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[22.4%] w-[26.8%] bg-gradient-to-r from-emerald-500 to-emerald-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1806–1873</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Charles Darwin">Charles Darwin</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[23.6%] w-[29.2%] bg-gradient-to-r from-green-500 to-green-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1809–1882</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Karl Marx">Karl Marx</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[27.2%] w-[26%] bg-gradient-to-r from-red-600 to-red-700 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1818–1883</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="James Clerk Maxwell">J. C. Maxwell</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[32.4%] w-[19.2%] bg-gradient-to-r from-blue-500 to-blue-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1831–1879</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Léon Walras">Léon Walras</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[33.6%] w-[30.4%] bg-gradient-to-r from-indigo-500 to-indigo-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1834–1910</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Nikola Tesla">Nikola Tesla</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[42.4%] w-[34.8%] bg-gradient-to-r from-cyan-500 to-blue-500 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1856–1943</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Max Planck">Max Planck</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[43.2%] w-[35.6%] bg-gradient-to-r from-violet-500 to-violet-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1858–1947</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Ernest Rutherford">E. Rutherford</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[48.4%] w-[26.4%] bg-gradient-to-r from-sky-500 to-sky-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1871–1937</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Albert Einstein">A. Einstein</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[51.6%] w-[30.4%] bg-gradient-to-r from-blue-600 to-blue-700 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1879–1955</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Niels Bohr">Niels Bohr</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[54%] w-[30.8%] bg-gradient-to-r from-sky-600 to-sky-700 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1885–1962</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Erwin Schrödinger">Schrödinger</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[54.8%] w-[29.6%] bg-gradient-to-r from-indigo-400 to-indigo-500 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1887–1961</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Adolf Hitler">Adolf Hitler</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[55.6%] w-[22.4%] bg-gradient-to-r from-gray-900 to-gray-800 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1889–1945</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Mao Zedong">Mao Zedong</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[57.2%] w-[33.2%] bg-gradient-to-r from-red-700 to-red-800 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1893–1976</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Werner Heisenberg">W. Heisenberg</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[60.4%] w-[30%] bg-gradient-to-r from-purple-500 to-purple-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1901–1976</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Hirohito">Hirohito</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[60.4%] w-[35.2%] bg-gradient-to-r from-orange-500 to-orange-600 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1901–1989</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Paul Dirac">Paul Dirac</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[60.8%] w-[32.8%] bg-gradient-to-r from-blue-700 to-blue-800 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1902–1984</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="John von Neumann">Von Neumann</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[61.2%] w-[21.6%] bg-gradient-to-r from-purple-600 to-purple-700 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1903–1957</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="group flex items-center gap-3 p-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+                    <div class="w-28 text-xs font-medium text-gray-600 dark:text-gray-300 shrink-0 truncate" title="Richard Feynman">R. Feynman</div>
+                    <div class="flex-1 h-6 relative bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                        <div class="absolute h-full left-[67.2%] w-[28%] bg-gradient-to-r from-sky-400 to-blue-400 rounded-full flex items-center justify-center text-[8px] font-bold text-white opacity-90 group-hover:opacity-100 transition-opacity">
+                            <span class="whitespace-nowrap px-1">1918–1988</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

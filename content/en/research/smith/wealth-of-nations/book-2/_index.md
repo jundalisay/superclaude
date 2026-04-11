@@ -8,6 +8,7 @@ writer:
 description: "Stock is divided into fixed, circulating, and for consumption"
 weight: 4
 c: "seagreen"
+icon: "Adam Smith"
 ---
 
 

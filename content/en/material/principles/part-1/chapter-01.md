@@ -82,12 +82,12 @@ Name | Writer | Nuance
 Monad | Leibniz | Dynamics
 Monad | Pythagoras | Number
 Prime Mover | Aristotle | Cause
-Prime Radiant | Essassani | Brahma
+Prime Radiant | Sassani | Brahma
 Substance | Spinoza | Brahma
 Microvita | PR Sarkar | Dynamism
 
 
-The best definition is from the Essassani, which is an alien race in the Orion system. They explain it as the smallest unit of "All There Is" (Brahma) that creates reality by travelling at infinite speeds. 
+The best definition is from the Sassani, which is an alien race in the Orion system. They explain it as the smallest unit of "All There Is" (Brahma) that creates reality by travelling at infinite speeds. 
 
 - the word "Prime" fits our description of the aether as being the highest layer and Aristotle's prime mover
 - the word "Radiant" fits our description of outflow or radiant dynamics (called entropy by Physics) that leads to change and therefore time. This leads to the timespace particle of the Spatial Layer below it as the connector. This radiance also matches the inherent dynamism and arbitrariness of the aether as opposed to the staticity, rigidity, and persistence of matter 
@@ -136,7 +136,7 @@ In the 2 highest layers, the Spatial and Athereal, the force and matter are inte
 
 ## Vibration between Physical and Metaphysical
 
-The Essassani peg the frequency as the following:
+The Sassani peg the frequency as the following:
 
 
 Layer | Cycles per second | Notes

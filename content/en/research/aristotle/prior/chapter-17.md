@@ -1,7 +1,7 @@
 ---
 heading: Chapters 17-18
 title: "Problematic Premises"
-weight: 16
+weight: 24
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:

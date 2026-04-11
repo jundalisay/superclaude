@@ -26,13 +26,15 @@ They, on the other hand, who would not for the world make a joke themselves and 
 
 Now as the ridiculous lies on the surface, and the majority of men take more pleasure than they ought in Jocularity and Jesting, the Buffoons too get this name of Easy Pleasantry, as if refined and gentlemanlike; but that they differ from these, and considerably too, is plain from what has been said.
 
-One quality which belongs to the mean state is Tact: it is characteristic of a man of Tact to say and listen to such things as are fit for a good man and a gentleman to say and listen to: for there are things which are becoming for such a one to say and listen to in the way of Jocularity, and there is a difference between the Jocularity of the Gentleman and that of the Vulgarian; and again, between that of the educated and uneducated man. This you may see from a comparison of the Old and New Comedy: in the former obscene talk made the fun; in the latter it is rather innuendo: and this is no slight difference as regards decency.
+One quality which belongs to the mean state is Tact: it is characteristic of a man of Tact to say and listen to such things as are fit for a good man and a gentleman to say and listen to: for there are things which are becoming for such a one to say and listen to in the way of Jocularity, and there is a difference between the Jocularity of the Gentleman and that of the Vulgarian; and again, between that of the educated and uneducated man. 
+
+This you may see from a comparison of the Old and New Comedy: in the former obscene talk made the fun; in the latter it is rather innuendo: and this is no slight difference as regards decency.
 
 Are we to characterise him who jests well by his saying what is becoming a gentleman, or by his avoiding to pain the object of his wit, or even by his giving him pleasure? 
 
 or will not such a definition be vague, since different things are hateful and pleasant to different men?
 
-Be this as it may, whatever he says such things will he also listen to, since it is commonly held that a man will do what he will bear to hear: this must, however, be limited; a man will not do quite all that he will hear: because jesting is a species of scurrility and there are some points of scurrility forbidden by law; it may be certain points of jesting should have been also so forbidden. So then the refined and gentlemanlike man will bear himself thus as being a law to himself. Such is the mean character, whether denominated the man of Tact or of Easy Pleasantry.
+Whatever he says such things will he also listen to, since it is commonly held that a man will do what he will bear to hear: this must, however, be limited; a man will not do quite all that he will hear: because jesting is a species of scurrility and there are some points of scurrility forbidden by law; it may be certain points of jesting should have been also so forbidden. So then the refined and gentlemanlike man will bear himself thus as being a law to himself. Such is the mean character, whether denominated the man of Tact or of Easy Pleasantry.
 
 But the Buffoon cannot resist the ridiculous, sparing neither himself nor any one else so that he can but raise his laugh, saying things of such kind as no man of refinement would say and some which he would not even tolerate if said by others in his hearing.
 

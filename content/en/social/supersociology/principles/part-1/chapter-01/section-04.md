@@ -10,6 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /social/supersociology/society-nation-state/
 # 1d
 ---
 

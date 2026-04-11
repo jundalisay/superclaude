@@ -22,7 +22,7 @@ We shall do this by story-telling*. Our story shall be the education of our hero
 - Music and literature, both true and false, for the soul.
 {{< /l >}}
 
-{{< n n="This matches the story-structure teaching methodology of the Essassani" >}}
+{{< n n="This matches the story-structure teaching methodology of the Sassani" >}}
 
 
 {{< l a="Socrates" >}}

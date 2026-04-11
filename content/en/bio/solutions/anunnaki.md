@@ -18,7 +18,7 @@ https://mythlok.com/gucumatz/ -->
 
 Our **Anunnaki Hypothesis** states that humans were created by the Anunnaki in order to help them [mine gold](/research/ancient/sumerian/enki/part-04/).
 
-According to the Essassani, the Anunnaki are an alien species from Cygnus constellation. Their planet was heating up and like ours and so they needed atomized gold in their stratosphere to keep it cool. 
+According to the Sassani, the Anunnaki are an alien species from Cygnus constellation. Their planet was heating up and like ours and so they needed atomized gold in their stratosphere to keep it cool. 
 
 
 {{< q a="Enki" c="Enki and Ninhursaja, Part 3" >}}
@@ -72,14 +72,14 @@ A goddess founded your city Athens 1,000 years before ours in order to repulse t
 {{< /q >}}
 
 
-The Essassani clarify that the Minoan civilization was actually an Atlanetan colony. 
+The Sassani clarify that the Minoan civilization was actually an Atlanetan colony. 
 
 
 Because of this aggression from humans, the Anunnaki leader Enlil decided to destroy the human species. 
 
 And so the Anunnaki used the weapons of Tiamat to draw in comets to crash into Atlantis.
 
-The Essassani clarify that:
+The Sassani clarify that:
 - these comets were the Taurid meteor showers which hit the earth twice a year for 20 years around 10,800 BC
 - the comet that crashed was a bigger version of comet Encke
 

@@ -5,6 +5,7 @@ description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
 author: "Kent Lassman"
+weight: 79
 ---
 
 
@@ -110,19 +111,17 @@ it is created on a farm, in a factory, or in an office. A dollar of value create
 manufacturing is neither more nor less valuable than a dollar of value created in
 agriculture or services.
 
-Pursuing Access to Growing Markets. American history holds lessons for
-today’s conservative trade policy. Some modern analysts see a correlation between
-high tariffs and high growth and confuse it for causation,44 but 19th century Amer-
-ica teaches a different lesson.
+Pursuing Access to Growing Markets. American history holds lessons for today’s conservative trade policy. Some modern analysts see a correlation between
+high tariffs and high growth and confuse it for causation,44 but 19th century America teaches a different lesson.
 
-While the Constitution banned internal tariffs in the U.S., international tariffs
-reached their highest levels in U.S. history during the 19th century, beginning with
-the 1828 Tariff of Abominations.45 At their peak in 1830, the average tariff on duti-
-able goods was 62 percent.46 Fortunately, however, the tariffs’ distorting effects
+While the Constitution banned internal tariffs in the U.S., international tariffs reached their highest levels in U.S. history during the 19th century, beginning with
+the 1828 Tariff of Abominations.45 At their peak in 1830, the average tariff on dutiable goods was 62 percent.46 Fortunately, however, the tariffs’ distorting effects
 were outweighed by market growth elsewhere. The 19th century saw Western
 expansion and a growing population (including millions of immigrants) working
 for the American dream. America’s growing internal free trade zone allowed for
 still more specialization and more trade across state borders.
+
+
 America’s geographic expansion ended long ago, but population growth, the
 U.S.-led rules-based international trading system, and the steady 75-year decline
 in tariffs after World War II have made possible decades of continued prosperity.

@@ -24,5 +24,5 @@ This makes everything exist in the same point and time.
 
 This then demands the existnce of parallel realities existing side by side. 
 
-The Essassani discovered parallel realities by starting with the prime radiant that leads to the idea of parallel realities. 
+The Sassani discovered parallel realities by starting with the prime radiant that leads to the idea of parallel realities. 
 

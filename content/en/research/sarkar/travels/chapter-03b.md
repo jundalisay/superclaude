@@ -66,7 +66,7 @@ My fear broke a bit as I wondered about the voice. Again it came, "Just love Me.
 
 I followed its command, and tried to love Baba in the form of that hideous insect*. 
 
-{{< n n="According to the Essassani, insect-beings are normal in the universe. The Mantis beings were created by the Precursor race. So it's possible that Anandamurti incarnated as an insect-being before becoming a human occupying the body of PR Sarkar" >}}
+{{< n n="According to the Sassani, insect-beings are normal in the universe. The Mantis beings were created by the Precursor race. So it's possible that Anandamurti incarnated as an insect-being before becoming a human occupying the body of PR Sarkar" >}}
 
 
 Gradually the insect disappeared and was replaced by a faint white light. My love grew deeper, and the light became bright and warm. 

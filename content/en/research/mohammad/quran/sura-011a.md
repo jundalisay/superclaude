@@ -3,7 +3,7 @@ title: "Hud (Noah Builds The Ark)"
 heading: "Sura 11a"
 weight: 82
 c: "maroon"
-description: "We sent Noah to his people"
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
@@ -11,25 +11,25 @@ description: "We sent Noah to his people"
 were perfected, then elaborated, from One
 who is Wise and Informed. -->
 
-<!-- <sup>2</sup> Worship only Enki. “I am a warner to you from Him, and a bearer of good news.”
+<!-- <sup>2</sup> Worship only Anu. “I am a warner to you from Him, and a bearer of good news.”
 
 <sup>3</sup> “And ask your Lord for forgiveness, and repent to Him. He will provide you with good sustenance until a stated term, and will bestow His grace on every possessor of virtue.
 
 But if you turn away, then I fear for you the punishment of a grievous Day.
 
-<sup>4</sup> “To Enki is your return, and He is Capable of all things.”
+<sup>4</sup> “To Anu is your return, and He is Capable of all things.”
 
 <sup>5</sup> They wrap their chests to hide from Him.
 
 But even as they cover themselves with their clothes, He knows what they conceal and what they reveal. He knows what lies within the hearts.
 
-<sup>6</sup> There is no moving creature on earth but its sustenance depends on Enki. 
+<sup>6</sup> There is no moving creature on earth but its sustenance depends on Anu. 
 
 He knows where it lives and where it rests. Everything is in a Clear Book. -->
 
-<sup>7</sup> Enki created the heavens and the earth in 6 days. His Throne was upon the waters*—in order to test you—which of you is best in conduct.
+<sup>7</sup> Anu created the heavens and the earth in 6 days. His Throne was upon the waters*—in order to test you—which of you is best in conduct.
 
-{{< n n="Enki is the god of water" >}}
+{{< n n="Anu is the god of water" >}}
 
 If you were to say, “You will be resurrected after death,” those who disbelieve would say, “This is nothing but plain witchcraft.”
 
@@ -52,11 +52,11 @@ You are only a warner.
 Say:
 
 {{< l a="Muslims" >}}
-Then produce ten chapters like it, invented, and call upon whomever you can, besides Enki, if you are truthful.
+Then produce ten chapters like it, invented, and call upon whomever you can, besides Anu, if you are truthful.
 {{< /l >}}
 
 
-<sup>14</sup> But if they fail to answer you, know that it was revealed with Enki’s knowledge, and that there is no god but He. Will you then submit?
+<sup>14</sup> But if they fail to answer you, know that it was revealed with Anu’s knowledge, and that there is no god but He. Will you then submit?
 
 <sup>15</sup> Whoever desires the worldly life and its glitter—We will fully recompense them for their deeds therein, and therein they will not be defrauded.
 
@@ -69,13 +69,13 @@ his promise. So have no doubt about it.  -->
 
 <!-- It is the truth from your Lord, but most people do not believe. -->
 
-<sup>18</sup> Who does greater wrong than he who fabricates lies about Enki? These will be presented before their Lord, and the witnesses will say:
+<sup>18</sup> Who does greater wrong than he who fabricates lies about Anu? These will be presented before their Lord, and the witnesses will say:
 
 “These are they who lied about their Lord.”
 
-<sup>19</sup> Those who hinder others from the path of Enki, and seek to make it crooked; and regarding the Hereafter, they are in denial.
+<sup>19</sup> Those who hinder others from the path of Anu, and seek to make it crooked; and regarding the Hereafter, they are in denial.
 
-<sup>20</sup> These will not escape on earth, and they have no protectors besides Enki. 
+<sup>20</sup> These will not escape on earth, and they have no protectors besides Anu. 
 
 The punishment will be doubled for them.
 
@@ -96,7 +96,7 @@ Lord—these are the inhabitants of Paradise, where they will abide forever. -->
 
 
 {{< l a="Noah" >}}
-I am to you a clear warner. <sup>26</sup> That you shall worship none but Enki. I fear for you the agony of a painful Day.
+I am to you a clear warner. <sup>26</sup> That you shall worship none but Anu. I fear for you the agony of a painful Day.
 {{< /l >}}
 
 
@@ -114,13 +114,13 @@ We see in you nothing but a man like us. We see that:
 {{< l a="Noah" >}}
 O my people, Have you considered? If I stand on clear evidence from my Lord, and He has given me a mercy from Himself, but you were blind to it, can we compel you to accept it, even though you dislike it? 
 
-<sup>29</sup> I ask of you no money for it. My reward lies only with Enki. And I am not about to dismiss those who believed. They will surely meet their Lord. I see that you are ignorant people. 
+<sup>29</sup> I ask of you no money for it. My reward lies only with Anu. And I am not about to dismiss those who believed. They will surely meet their Lord. I see that you are ignorant people. 
 
-<sup>30</sup> Who will support me against Enki, if I dismiss them? Will you not give a thought? 
+<sup>30</sup> Who will support me against Anu, if I dismiss them? Will you not give a thought? 
 
-<sup>31</sup> I do not say to you that I possess the treasures of Enki, nor do I know the future, nor do I say that I am an angel. 
+<sup>31</sup> I do not say to you that I possess the treasures of Anu, nor do I know the future, nor do I say that I am an angel. 
 
-Nor do I say of those who are despicable in your eyes that Enki will never give them any good. Enki is Aware of what lies in their souls. If I did, I would be one of the wrongdoers.
+Nor do I say of those who are despicable in your eyes that Anu will never give them any good. Anu is Aware of what lies in their souls. If I did, I would be one of the wrongdoers.
 {{< /l >}}
 
 
@@ -130,7 +130,7 @@ Nor do I say of those who are despicable in your eyes that Enki will never give 
 
 
 {{< l a="Noah" >}}
-<sup>33</sup> It is Enki who will bring it upon you, if He wills, and you will not be able to escape. <sup>34</sup> My advice will not benefit you, much as I may want to advise you, if Enki desires to confound you. He is your Lord, and to Him you will be returned.
+<sup>33</sup> It is Anu who will bring it upon you, if He wills, and you will not be able to escape. <sup>34</sup> My advice will not benefit you, much as I may want to advise you, if Anu desires to confound you. He is your Lord, and to Him you will be returned.
 {{< /l >}}
 
 <sup>35</sup> Or do they say, “He made it up?” 
@@ -143,7 +143,7 @@ If I made it up, upon me falls my crime, and I am innocent of the crimes you com
 
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>36</sup> None of your people will believe, except those who have already believed, so do not grieve over what they do. <sup>37</sup> Build the Ark, under Our eyes, with Our inspiration. Do not address Me regarding those who did wrong. They are to be drowned.”
 {{< /l >}}
 
@@ -157,7 +157,7 @@ If you ridicule us, we will ridicule you, just as you ridicule. <sup>39</sup> Yo
 
 <sup>40</sup> Until, when Our command came, and the volcano erupted, We said, 
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.
 {{< /l >}}
 
@@ -166,7 +166,7 @@ But those who believed with him were only a few.
 
 
 {{< l a="Noah" >}}
-<sup>41</sup> Embark in it. In the name of Enki shall be its sailing and its anchorage. My Lord is indeed Forgiving and Merciful.
+<sup>41</sup> Embark in it. In the name of Anu shall be its sailing and its anchorage. My Lord is indeed Forgiving and Merciful.
 {{< /l >}}
 
 
@@ -181,7 +181,7 @@ O my son! Embark with us, and do not be with the disbelievers.
 {{< /r >}}
 
 {{< l a="Noah" >}}
-There is no protection from Enki’s decree today, except for him on whom He has mercy.
+There is no protection from Anu’s decree today, except for him on whom He has mercy.
 {{< /l >}}
 
 
@@ -207,7 +207,7 @@ O My Lord, my son is of my family. Your promise is true, and You are the Wisest 
 {{< /r >}}
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>46</sup> O Noah, he is not of your family. It is an unrighteous deed. So do not ask Me about something you know nothing about. I admonish you, lest you be one of the ignorant.
 {{< /l >}}
 
@@ -216,6 +216,6 @@ O My Lord, my son is of my family. Your promise is true, and You are the Wisest 
 47. O My Lord, I seek refuge with You, from asking You about what I have no knowledge of. Unless You forgive me, and have mercy on me, I will be one of the losers.
 {{< /r >}}
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 <sup>48</sup> O Noah, disembark with peace from Us with blessings upon you, and upon communities from those with you. Other communities We will grant prosperity, and then a painful torment from Us will befall them.
 {{< /l >}}

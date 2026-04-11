@@ -62,7 +62,7 @@ You can know another person by starting into his/her eyes.
 
 
 
-## Essassani Challenge
+## Sassani Challenge
 
-The Essassani's major challenge is to convert from physical to quasi physical beings. They are getting help from quasi physical Sirius beings.
+The Sassani's major challenge is to convert from physical to quasi physical beings. They are getting help from quasi physical Sirius beings.
 

@@ -7,84 +7,124 @@ description: ""
 ---
 
 
-Bhavanāth had married and was trying to find a job; so he could not visit Sri Ramakrishna frequently at Cossipore. He had said to M.: "I understand that Vidyāsāgar
-wants to start a new school. I have to earn my livelihood. 
+Bhavanāth had married and was trying to find a job. So he could not visit Sri Ramakrishna frequently at Cossipore. He was 23-24 years old.
 
-Will it be possible for me to secure a job in that school?" The Master was much worried about Bhavanāth's being
-entangled in worldly life. 
+{{< r a="Bhavanath" >}}
+[to M]: I understand that Vidyāsāgar wants to start a new school. I have to earn my livelihood. Will it be possible for me to secure a job in that school?
+{{< /r >}}
 
-Bhavanāth was twenty-three or twenty four years old.
 
-MASTER (to Narendra): "Give him a lot of courage."
+The Master was much worried about Bhavanāth's being entangled in worldly life. 
 
-Narendra and Bhavanāth smiled. Sri Ramakrishna said to Bhavanāth, by signs: "Be a great hero. Don't forget yourself when you see her weeping behind her veil. Oh, women
-cry so mucheven when they blow their noses! (Narendra, Bhavanāth, and M. laugh.)
+{{< l a="Ramakrishna" >}}
+(to Narendra): "Give him a lot of courage."
+{{< /l >}}
 
-"Keep your mind firm on God. He who is a hero lives with a woman but does not indulge in physical pleasures. Talk to your wife only about God."
+
+Narendra and Bhavanāth smiled. Sri Ramakrishna said to Bhavanāth, by signs: 
+
+{{< l a="Ramakrishna" >}}
+Be a great hero. Don't forget yourself when you see her weeping behind her veil. Oh, women cry so much even when they blow their noses!
+{{< /l >}}
+
+(Narendra, Bhavanāth, and M. laugh.)
+
+{{< l a="Ramakrishna" >}}
+Keep your mind firm on God. He who is a hero lives with a woman but does not indulge in physical pleasures. Talk to your wife only about God.
+{{< /l >}}
+
+
 A few minutes later Sri Ramakrishna said to Bhavanāth, by a sign, "Take your meal here today."
 
-BHAVANĀTH: "Yes, sir. I am quite all right. Don't worry about me." Surendra came in and took a seat. The devotees offered garlands of flowers to the
-Master every evening. Sri Ramakrishna put these garlands around his neck. 
+
+{{< r a="Bhavanath" >}}
+Yes, sir. I am quite all right. Don't worry about me.
+{{< /r >}}
+
+
+Surendra came in and took a seat. The devotees offered garlands of flowers to the Master every evening. Sri Ramakrishna put these garlands around his neck.
 
 Surendra sat quietly in the room. Sri Ramakrishna was in a very happy mood and gave him two garlands. 
 
 Surendra saluted the Master and put them around his neck.
 
-All sat in silence and looked at Sri Ramakrishna. Surendra saluted the Master again and stood up. He was about to leave. He asked Bhavanāth to hang the straw screens over
-the windows. 
+All sat in silence and looked at Sri Ramakrishna. Surendra saluted the Master again and stood up. He was about to leave. He asked Bhavanāth to hang the straw screens over the windows. 
 
 
 ## Hirananda
 
 Hirananda came in with two of his friends. He was a native of Sindh, about 2200 miles from Calcutta. 
 
-After finishing his college education in Calcutta in 1883, he had returned to Sindh and taken charge of editing two papers, the Sindh Times and the
-Sindh Sudhar. While studying in Calcutta he had often visited Keshab Chandra Sen andhad come to know him intimately. He had met Sri Ramakrishna at the Kāli temple at
-Dakshineswar and had spent an occasional night there with the Master. 
+After finishing his college education in Calcutta in 1883, he had returned to Sindh and taken charge of editing two papers, the Sindh Times and the Sindh Sudhar.
+
+While studying in Calcutta he had often visited Keshab Chandra Sen andhad come to know him intimately. He had met Sri Ramakrishna at the Kāli temple at Dakshineswar and had spent an occasional night there with the Master. 
 
 Hearing of Sri Ramakrishna's illness, he now came to Calcutta from Sindh to see him. The Master himself had been very eager to see Hirananda.
 
-Sri Ramakrishna pointed to Hirananda and said to M., by signs: "A very fine boy. Do you know him?"
+Sri Ramakrishna pointed to Hirananda and said to M., by signs: 
 
-M: "Yes, sir."
+"A very fine boy. Do you know him?"
 
-MASTER (to Hirananda and M.): "Please talk a little. I want to hear you both."
+{{< r a="M" >}}
+Yes, sir.
+{{< /r >}}
 
-When M. remained silent, Sri Ramakrishna asked him: "Is Narendra here? Call him."
+{{< l a="Ramakrishna" >}}
+(to Hirananda and M.): Please talk a little. I want to hear you both.
+{{< /l >}}
+
+When M. remained silent, Sri Ramakrishna asked him:
+
+{{< l a="Ramakrishna" >}}
+Is Narendra here? Call him.
+{{< /l >}}
+
 
 Narendra entered the room and sat near the Master.
 
-MASTER (to Narendra and Hirananda): "I want to hear you two talk."
+{{< l a="Ramakrishna" >}}
+(to Narendra and Hirananda): "I want to hear you two talk.
+{{< /l >}}
+
 
 Hirananda was silent a few moments and then after great hesitation began the conversation.
 
 
-HIRANANDA (to Narendra): "Why does a devotee of God suffer?" His words were sweet as nectar. Everyone in the room could feel that his heart was filled with love.
-NARENDRA: "The plan of the universe is devilish. I could have created a better world."
+{{< r a="Hirananda" >}}
+(to Narendra): "Why does a devotee of God suffer?" 
+{{< /r >}}
 
-HIRANANDA: "Can one feel happiness without misery?"
+His words were sweet as nectar. Everyone in the room could feel that his heart was filled with love.
 
-NARENDRA: "I am not making a plan for a universe, but simply giving my opinion of the present plan.
 
-"But all these problems are solved if we have faith only in one thing, and that is Pantheism. All doubts disappear if one believes that everything is God. God alone is
-responsible for all that happens."
+{{< l a="Narendra" >}}
+The plan of the universe is devilish. I could have created a better world.
+{{< /l >}}
 
-HIRANANDA: "Very easy to say that."
+{{< r a="Hirananda" >}}
+Can one feel happiness without misery?
+{{< /r >}}
+
+{{< l a="Narendra" >}}
+I am not making a plan for a universe, but simply giving my opinion of the present plan. But all these problems are solved if we have faith only in one thing, and that is Pantheism. All doubts disappear if one believes that everything is God. God alone is responsible for all that happens.
+{{< /l >}}
+
+{{< r a="Hirananda" >}}
+Very easy to say that.
+{{< /r >}}
+
 
 Narendra sang Sankara's Six Stanzas on Nirvāna:
 
-Om I am neither mind, intelligence, ego, nor chitta, Neither ears nor tongue nor the senses of smell and
-sight;
+Om I am neither mind, intelligence, ego, nor chitta, Neither ears nor tongue nor the senses of smell and sight.
 
 Nor am I ether, earth, fire, water, or air:
 
 I am Pure Knowledge and Bliss: I am Śiva! I am Śiva!I am neither the Prāna nor the five vital breaths,
 
-Neither the seven elements of the body nor its 5 sheaths, Nor hands nor feet nor tongue, nor the organs of sex
-and voiding:
+Neither the seven elements of the body nor its 5 sheaths, Nor hands nor feet nor tongue, nor the organs of sex and voiding:
 
-I am Pure Knowledge and Bliss: I am Śiva! I am Śiva! Neither loathing nor liking have I, neither greed nor
-delusion; 
+I am Pure Knowledge and Bliss: I am Śiva! I am Śiva! Neither loathing nor liking have I, neither greed nor delusion; 
 
 No sense have I of ego or pride, neither dharma nor moksha;
 
@@ -120,12 +160,22 @@ I am Pure Knowledge and Bliss: I am Śiva! I am Śiva!
 
 HIRANANDA: "Good!"
 
+
+
 SRI RAMAKRISHNA (to Hirananda, by a sign): "Give him an answer."
 
-HIRANANDA: "It is all the same, whether you look at a room from a corner or look at it from the middle. It is the same God-Consciousness that one feels, whether one says, 'O
-God, I am Thy servant', or, 'I am He.' One may enter a room by several doors."
 
-All sat in silence. Hirananda said to Narendra, "Please sing some more."
+{{< r a="Hirananda" >}}
+It is all the same, whether you look at a room from a corner or look at it from the middle. It is the same God-Consciousness that one feels, whether one says, 'O God, I am Thy servant', or, 'I am He.' One may enter a room by several doors.
+{{< /r >}}
+
+
+All sat in silence. 
+
+{{< r a="Hirananda" >}}
+to Narendra: "Please sing some more."
+{{< /r >}}
+
 
 Narendra sang the Five Stanzas on the Kaupina:Roaming ever in the grove of Vedānta, Ever pleased with his beggar's morsel,
 Ever walking with heart free from sorrow, Blest indeed is the wearer of the loin-cloth.
@@ -162,6 +212,8 @@ words:
 He is the Life of life, the Ultimate, the Adorable!
 
 MASTER (to Narendra): "And that one 'All that exists art Thou.' "
+
+
 Narendra sang:
 
 I have joined my heart to Thee: all that exists art Thou;
@@ -192,10 +244,12 @@ As the Master listened, to the line,
 "Thou hast entered every heart", he said by a sign:
 "God dwells in everybody's heart. He is the Inner Guide."
 
-As Narendra sang the line,
-Thou", Hirananda
+As Narendra sang the line, Thou", Hirananda
 
 "I see Thee wherever I look: all that exists art said to him: "Yes, 'All that exists art Thou.' Now you say: 'Thou!
 Thou! Not I, but Thou!'"
 
-NARENDRA: Give me a one and I'll give you a million. Thou art I; I am Thou. Nothing exists but I "
+{{< l a="Narendra" >}}
+Give me a one and I'll give you a million. Thou art I; I am Thou. Nothing exists but I 
+{{< /l >}}
+

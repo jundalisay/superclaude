@@ -76,7 +76,7 @@ This is what I have ready with me. <sup>24</sup> Throw into Hell every stubborn 
 
 <sup>30</sup> On the Day when We will say to Hell:
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Are you full?
 {{< /l >}}
 

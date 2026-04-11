@@ -2,6 +2,7 @@
 title: "The Idea Of Time In Physics"
 heading: "Section 8"
 weight: 16
+lastmod: 2026-04-03
 # date: 2022-04-16
 description: "Einstein uses light as the judge for spacetime itself, instead of spacetime judging light."
 c: "firebrick"
@@ -69,7 +70,7 @@ flashes travels along the length A ~T M with the same velocity as along the leng
 <b>I answer that this simultaneity of time is only used for us to make empirical decisions.</b>  <!-- There is only one demand to be made of the definition of , namely, that in every real case it must supply us with an empirical decision as to whether or not the conception that has to be defined is fulfilled. That my definition satisfies this demand is indisputable.  -->  Light takes the same time to get from `A` to `M` and `B` to `M`. This is has nothing to do with the physical nature of light. It is something that I use to define simultaneity.
 {{< /c >}}
 
-![Einstein Conman](/icons/einbla.png)
+![Einstein Conman](/icons/Einstein.jpg)
 
 This definition can be used to give an exact meaning to as many events as we want, independently of the positions of the scenes of the events with respect to the body of reference* (here the railway embankment). 
 

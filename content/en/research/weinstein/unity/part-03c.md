@@ -3,36 +3,24 @@ heading: "Part 3.5"
 title: "Chimeric Spinors and Heterogeneous Spin Bundles"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 18
 date: 2021-04-01
 ---
 
 
 We have abstractly defined spinor bundles on Y , it behoves us to understand what kind of spinors we may have coaxed into existence.
 
-We should begin by noting that the choice of (1, 3) metric signature (which
-can be mirrored by choice of a (3, 1) and thus is not meaningfully distinguished
+We should begin by noting that the choice of (1, 3) metric signature (which can be mirrored by choice of a (3, 1) and thus is not meaningfully distinguished
 from it) is treated by us as anthropic data. If it were otherwise, there would
 likely be no life to evolve to observe these structures. 
 
-This recognition, forces
-a (3, 6) signature on the space of traceless symmetric two tensors which, when
-combined with the trace portion seen as either a (0, 1) or (1, 0) space, can
-become either a (3, 7) or the (4, 6) metric respectively. Here again, we make an
-anthropic choice and select the latter of the two for two reasons. 
+This recognition, forces a (3, 6) signature on the space of traceless symmetric two tensors which, when combined with the trace portion seen as either a (0, 1) or (1, 0) space, can
+become either a (3, 7) or the (4, 6) metric respectively. Here again, we make an anthropic choice and select the latter of the two for two reasons. 
 
-In the first
-place, we believe that (3, 7) will not be compatible with the observed forces and
-symmetries of the Standard Model. Secondly, we want to leave ourselves room
-for complex techniques and view a real (4, 6)R structure as holding the door
-open for some models we have been playing with favoring reduction to (2, 3)C.
+In the first place, we believe that (3, 7) will not be compatible with the observed forces and symmetries of the Standard Model. Secondly, we want to leave ourselves room
+for complex techniques and view a real (4, 6)R structure as holding the door open for some models we have been playing with favoring reduction to (2, 3)C.
 
-Lastly we must combine these choices of fiber metrics in Y with metrics
-pulled up from the base space of signature (1, 3). These combinations in turn
-could lead to (4, 10) or (8, 6) in the discarded former cases of (7, 3) or (3, 7),
-or (5, 9) or (7, 7) in the case of the latter (4, 6) or (6, 4). We do not know how
-to choose between these however as this is one of the few places in the model
-where choices are made that are not yet forced.
+Lastly we must combine these choices of fiber metrics in Y with metrics pulled up from the base space of signature (1, 3). These combinations in turn could lead to (4, 10) or (8, 6) in the discarded former cases of (7, 3) or (3, 7), or (5, 9) or (7, 7) in the case of the latter (4, 6) or (6, 4). We do not know how to choose between these however as this is one of the few places in the model where choices are made that are not yet forced.
 
 To begin with, we will assume that the metric on Y is split with signature
 (7, 7) (rather than (9, 5) which can be worked out by the interested reader) as
@@ -159,9 +147,9 @@ i=0
 iΛ
 4i+3 ⊂ ClR(7,7) ⊗ C (3.27) -->
 
-corresponding to the Lie Group H = U(64, 64), where the ‘adjoint’ operation
-in the Clifford Algebra is given by the operation of composing the canonical
-automorphism with the reversal of order of all basis vectors.
+corresponding to the Lie Group H = U(64, 64), where the ‘adjoint’ operation in the Clifford Algebra is given by the operation of composing the canonical
+automorphism with the reversal of order of all basis vectors. 
+
 By exponentiation we arrive at a unitary representation
 
 ...
@@ -170,8 +158,6 @@ By exponentiation we arrive at a unitary representation
 
 : Spin(7, 7) ,→ U(64, 64) (3.28) -->
 
-of the Spin group into a space of unitary Dirac Spinors whose corresponding Lie
-Algebra is in canonical correspondence with the exterior algebra inside ClC(7, 7).
-3This decomposition was taken from a decades old file and should be checked by someone
-more current on their “Clifford Checkerboard” yoga as it did not come with a description.
+of the Spin group into a space of unitary Dirac Spinors whose corresponding Lie Algebra is in canonical correspondence with the exterior algebra inside ClC(7, 7).
 
+This decomposition was taken from a decades old file and should be checked by someone more current on their “Clifford Checkerboard” yoga as it did not come with a description.

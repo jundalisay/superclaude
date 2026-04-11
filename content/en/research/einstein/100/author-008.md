@@ -3,7 +3,7 @@ heading: "Author 8"
 title: "Dr. Hans Israel"
 # date: 2024-12-12
 weight: 12
-description: "The mathematical calculation of Relativity by Einstein is so erroneous, that one can only express astonishment at it."
+description: "Mathematical Presentation Of Relativity Theory"
 c: "darkgoldenrod"
 ---
 

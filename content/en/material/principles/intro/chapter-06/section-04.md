@@ -12,6 +12,7 @@ icon: "Juan"
 toc: false
 aliases:
   /signature
+  /material/principles/gravsigs/
 ---
 
 

@@ -2,6 +2,7 @@
 title: "The Gravitational Field"
 heading: "Section 19"
 # date: 2022-03-26
+lastmod: 2026-04-02
 weight: 32
 description: "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
 c: "firebrick"
@@ -49,7 +50,7 @@ From our point of view this means that **the law governing the gravitational fie
 
 The earth produces a field in its immediate neighbourhood directly. {{< c v="red" >}} The field's intensity and direction at farther areas are thence determined by the law which governs the properties of **the space** of the gravitational fields themselves.{{< /c >}}
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 In contrast to electric and magnetic fields, **the gravitational field makes bodies accelerate.** This is of fundamental importance. 
 - **This acceleration does not depend at all on that body's material or its physical state**. A piece of lead and a piece of wood fall in exactly the same way*. <!-- manner in a

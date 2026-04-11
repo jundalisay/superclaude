@@ -31,32 +31,38 @@ There are all sorts of speculative explanations. But no one really understands B
 
 The crowd of about 30,000 was disappointed. 
 
-Two days later. There was no darshan this morning; the program was clearly finished, and most people arranged to leave. We faced the usual problems of secretly removing the overseas Margis. The police want to catch foreign Margis and blacklist them from reentering India. In the past, we hid them inside large trucks. But this time the trucks were delayed, and hadn't come.
+Two days later. There was no darshan this morning; the program was clearly finished, and most people arranged to leave. We faced the usual problems of secretly removing the overseas Margis.
+
+The police want to catch foreign Margis and blacklist them from reentering India. In the past, we hid them inside large trucks. But this time the trucks were delayed, and hadn't come.
 
 Two or three workers made a plan to hustle the overseas Margis into a train during its stop in Pundag (the closest station). This plan was neither announced nor clarified, even when it came time to rush the first batch of Margis to the train. At that time, about two or three thousand Indian Margis were also boarding.
 
-The police spotted the non-Indians, and took up the chase. While most of the foreigners escaped, they succeeded in capturing three sisters and one brother. In the process, they ripped off some of the women's clothing in a most disrespectful manner. In India such behavior toward women is considered outrageous. Within moments the Margis were taken off to the nearby policebox.
+The police spotted the non-Indians, and took up the chase. While most of the foreigners escaped, they succeeded in capturing three sisters and one brother. In the process, they ripped off some of the women's clothing in a most disrespectful manner. In India such behavior toward women is considered outrageous. 
+
+Within moments the Margis were taken off to the nearby policebox.
 
 The Indian Margis were so angry about the behavior of the police that they pulled out one of the track railings, rendering the train immobile. The Margis declared they would not permit the train to leave until the captured Margis were released. 
 
 The few hundred innocent passengers already on the train became the victims of this drama. Two Margis gave them a mass lecture to explain the problem, and all became sympathetic. The Margis brought water and snacks for the stranded passengers.
  
-Meanwhile, back at Ananda Nagar (about two kilometers away), all 
-the overseas workers had long before changed from their orange robes to civilian clothes. Hearing that the police and local communist 
-thugs were preparing for a confrontation, we engaged ourselves in planning and constructing a defense. We began shifting the women and children into more central buildings where they would be safer. 
+Meanwhile, back at Ananda Nagar (about two kilometers away), all the overseas workers had long before changed from their orange robes to civilian clothes. Hearing that the police and local communist thugs were preparing for a confrontation, we engaged ourselves in planning and constructing a defense. 
+
+We began shifting the women and children into more central buildings where they would be safer. 
 
 In this way, several hours passed. The tension increased, and still the train remained. Because it was a fasting day, the strain was not only psychic but also physical. 
 
 At 10:00 p.m., someone yelled:
 
-"I see Baba's car! It's headed toward  the darshan tent!" 
+{{< r a="Margi" >}}
+I see Baba's car! It's headed toward the darshan tent!
+{{< /r >}}
 
-Since the DMC program seemed finished, and as we  were in the midst of a dangerous crisis, we could not believe that Baba 
-would give darshan. But better run to the tent to see! 
+
+Since the DMC program seemed finishe and we were in a dangerous crisis, we could not believe that Baba would give darshan. But better run to the tent to see! 
 
 By the time I entered, Baba was already seated, and a program was underway.
 
-For the first time ever, I sat in the middle instead of  the front for darshan. 
+For the first time ever, I sat in the middle instead of the front for darshan. 
 
 Being in civil clothes, I preferred not to attract the  attention of anyone, including Baba. 
 
@@ -66,7 +72,7 @@ But Baba was in a fine mood, joking and speaking casually. When He finally start
 
 By the time He had half finished, I was so concentrated on Him that I unconsciously shifted from my normal cross-legged position to a strained kneeling pose.
 
-Even though He spoke in Bengali, I became excited. Then I thought
+Even though He spoke in Bengali, I became excited. Then I thought:
 
 "Perhaps He'll give the mudra. How odd if it's so, but..." 
 
@@ -124,12 +130,7 @@ someone's hand here, touched a forehead there—what more could I do?
 The doctors and nurses were caring for them, and I had still to think for 
 the overseas Margis. 
 
-We went back to constructing more defenses, still discussing how to 
-escape, taking care of some Margis who were inexperienced, helping 
-others to adjust who were physically ill—it was late, 3:30 a.m.; we had 
-been fasting in the heat all day; Margis were collapsing, closing their 
-eyes, sleeping. It was enough already. I informed the guards that I, too, 
-would rest until the sun rose, and to wake me if there was news. 
+We went back to constructing more defenses, still discussing how to escape, taking care of some Margis who were inexperienced, helping others to adjust who were physically ill—it was late, 3:30 a.m.; we had been fasting in the heat all day; Margis were collapsing, closing their eyes, sleeping. It was enough already. I informed the guards that I, too, would rest until the sun rose, and to wake me if there was news.
 
 ## Dramatic education 
 
@@ -141,66 +142,81 @@ At sunrise, I awoke. A few workers were talking.
 
 Soon after, the trucks finally arrived. We prepared to leave in our normal secret manner. 
 
-And what about the four imprisoned overseas Margis? After hearing Baba's comment, we decided to deal with their cases through the courts. 
+What about the four imprisoned overseas Margis? After hearing Baba's comment, we decided to deal with their cases through the courts. 
 
 
 Ranchi. The evening papers ran headlines stories about the attack. 
 
 Photos of the dead Dada and the four severely injured workers appeared with long articles condemning the behavior of the police. 
 
-Though this conflict may have technically been inappropriate, I feel it was a part of the Cosmic plan. The Margis now understand better the injustice of this government and the general public has gained further evidence of the persecution of Ananda Marga. We have experienced and learned many things through this incident.
+Though this conflict may have technically been inappropriate, I feel it was a part of the Cosmic plan. 
+- The Margis now understand better the injustice of this government.
+- The general public has gained further evidence of the persecution of Ananda Marga.
 
-Maybe I have no right to make the following comment. Nevertheless: 
-Though Baba's words condemned the Margis' action, I feel He knew it 
-would happen, and perhaps on the psychic level caused it to happen. It 
-was obvious that Baba should have been consulted first; I think He 
-speeded up their minds and made them forget to ask Him. In order to 
-create various circumstances for our growth, the Tantra guru often 
-causes us to commit mistakes, without which the necessary conditions 
-would never develop. 
+We have experienced and learned many things through this incident.
 
-Some people may consider my opinion a heartless one. For me, however, this idea is full of love. I remember Baba's explanation as to why Krishna engineered the Mahabharata war: "It was meant for popu¬ lar education. If Parama Purusha (Cosmic Consciousness) accom¬ plishes everything by mere thought-projection, the lessons would go unnoticed and unlearnt by others....Hence, events like the battle of Kurukshetra had to be conceived and dramatized....Nobody was spared— even Abhimanyu, the nephew of Krishna and son of Aijuna, was not spared. For in war between virtue and vice, the sparks of the fire spread out on all sides."
+Maybe I have no right to make the following comment. Nevertheless: Though Baba's words condemned the Margis' action, I feel He knew it would happen, and perhaps on the psychic level caused it to happen.
+
+Baba should have been consulted first. I think He speeded up their minds and made them forget to ask Him.
+
+In order to create various circumstances for our growth, the Tantra guru often causes us to commit mistakes, without which the necessary conditions would never develop.
+
+Some people may consider my opinion a heartless one.
+
+For me, however, this idea is full of love. 
+
+I remember Baba's explanation as to why Krishna engineered the Mahabharata war: 
+
+{{< l a="Baba" >}}
+It [Mahabharata war] was meant for popular education.
+
+If Parama Purusha (Cosmic Consciousness) accomplishes everything by mere thought-projection, the lessons would go unnoticed and unlearnt by others....
+
+Hence, events like the 	 had to be conceived and dramatized....
+
+Nobody was spared— even Abhimanyu, the nephew of Krishna and son of Aijuna, was not spared. 
+
+For in war between virtue and vice, the sparks of the fire spread out on all sides.
+{{< /l >}}
+
 
 
 ### Conversation on a train 
 
-New Delhi. While coming here by train, I overheard an interesting 
-conversation. Several educated men were discussing world politics. They 
-spoke in English. When their conversation turned to the predicament of 
-communism, one of them said, "The strange fact is that many years ago 
-the guru of Ananda Marga, P.R. Sarkar, predicted in detail the collapse 
-of communism." 
-
-Another man made a few comments about Baba, and finished by 
-saying, "Yes, in every age at least one such great intellectual is there." 
+New Delhi. While coming here by train, I overheard educated men were discussing communism.
 
 
-101 Namami KrsnaSundaram, Ananda M arga Publications, 1981. 
+{{< l a="Man" >}}
+The strange fact is that many years ago the guru of Ananda Marga, P.R. Sarkar, predicted in detail the collapse of communism.
+{{< /l >}}
 
-"But he also prophesied the demise of capitalism," said a third. "I 
-don't know about that." 
 
-"Well, none of us knew about communism's downfall either. Let's wait 
-and see. If I had to wager, I'd bet whatever Sarkar said is correct." 
+Another man made a few comments about Baba, and finished by saying, "Yes, in every age at least one such great intellectual is there." 
 
-They all nodded their heads. I was about to stick my neck out and say 
-something, when they changed the topic. 
+<!-- 101 Namami KrsnaSundaram, Ananda M arga Publications, 1981.  -->
 
-The university 
 
-Tokyo. A Dada returned from India today. The latest news is that 
-Baba has started a new program. A university is being created in Ananda 
-Nagar. 
+{{< l a="Man" >}}
+But he also prophesied the demise of capitalism. I don't know if it will happen.
+{{< /l >}}
 
-Several times daily, jeeps and motorcycles arrive at the Central Of¬ 
-fice piled high with books to be used for the university library. The books 
-are perused by a full-time staff of workers and Margis. One of the largest 
-rooms in the office is being used for planning the university's 
-architecture, courses, staff needs, budgets and so on. They are hoping to 
-open the university before the end of the year, and so, an enormous 
-amount of preparation is required. 102 
 
-Amnesty cooperates 
+"Well, none of us knew about communism's downfall either. Let's wait and see. If I had to wager, I'd bet whatever Sarkar said is correct." 
+
+
+
+### The university 
+
+Tokyo. A Dada returned from India today. The latest news is that  Baba has started a new program. A university is being created in Ananda Nagar. 
+
+Several times daily, jeeps and motorcycles arrive at the Central Office piled high with books to be used for the university library. The books 
+are perused by a full-time staff of workers and Margis. 
+
+One of the largest  rooms in the office is being used for planning the university's architecture, courses, staff needs, budgets and so on. They are hoping to 
+open the university before the end of the year, and so, an enormous amount of preparation is required.
+
+
+### Amnesty cooperates 
 
 A few days ago, while teaching meditation at Waseda University, I met a few student members of Amnesty International. On their initiative, I was introduced to a local Amnesty leader who spoke fluent English. 
 

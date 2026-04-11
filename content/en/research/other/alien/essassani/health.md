@@ -1,11 +1,12 @@
 ---
 title: "Health"
 weight: 68
-image: "/photos/physics/punch.jpg"
+image: "/photos/bio/acu.jpg"
 description: "Bashar answers Questions about Health"
 ---
 
 
+Everything should be taken in moderation. 
 
 Flouride lubricates the molecules in the body to make molecules flow faster. 
 

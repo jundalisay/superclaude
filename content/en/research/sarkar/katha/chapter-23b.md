@@ -6,7 +6,6 @@ description: "Ananda Marga is a philosophy and Shrii Shrii Anandamurtiji it its 
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 

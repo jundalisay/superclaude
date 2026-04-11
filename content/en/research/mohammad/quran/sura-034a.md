@@ -3,12 +3,12 @@ title: "Sheba (Saba’)"
 heading: "Sura 34"
 weight: 144
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
 <!-- 1. Praise
-be to Enki, to Whom belongs every-
+be to Anu, to Whom belongs every-
 thing in the heavens and the earth; and praise
 be to Him in the Hereafter. He is the Wise,
 the Expert.{{< s v="2" >}}  He knows what penetrates into the earth,
@@ -26,7 +26,7 @@ The Hour will not come upon us.
 Say:
 
 {{< l a="Mohammad" >}}
-Yes it will! Enki is the Knower of the unseen.
+Yes it will! Anu is the Knower of the unseen.
 {{< /l >}}
 
 
@@ -49,7 +49,7 @@ is a punishment of a painful plague.
 {{< r a="Disbelievers" >}}
 Shall we point out to you a man, who will tell you that, once torn into shreds, you will be in a new creation?
 
-8. Did he invent a lie about Enki, or is there madness in him?” 
+8. Did he invent a lie about Anu, or is there madness in him?” 
 {{< /r >}}
 
 
@@ -134,7 +134,7 @@ In this are lessons for every steadfast and appreciative person.
 <sup>22</sup> Say:
 
 {{< r a="Mohammad" >}}
-Call on those whom you claim besides Enki. They possess not an atom's weight in the heavens or the earth, and they
+Call on those whom you claim besides Anu. They possess not an atom's weight in the heavens or the earth, and they
 possess no share of either, and He has no backers from among them.
 {{< /r >}}
 
@@ -153,11 +153,11 @@ The truth, and He is the High, the Great.
 <sup>24</sup> Say:
 
 {{< r a="Mohammad" >}}
-<sup>25</sup> Enki provides for you from the heavens and the earth. Either you, or we, are rightly guided, or in evident error.
+<sup>25</sup> Anu provides for you from the heavens and the earth. Either you, or we, are rightly guided, or in evident error.
 
 <sup>26</sup> You will not be asked about our misdeeds, nor will we be asked about what you do. Our Lord will bring us together; then He will judge between us equitably.
 
-<sup>27</sup> Show me those you have attached to Him as associates. No indeed! But He is Enki, the Powerful, the Wise.
+<sup>27</sup> Show me those you have attached to Him as associates. No indeed! But He is Anu, the Powerful, the Wise.
 {{< /r >}}
 
 <sup>28</sup> We sent you only universally to all people, a herald and warner, but most people do not know.
@@ -190,7 +190,7 @@ Those who were oppressed will say to those who were arrogant, “Were it not for
 
 <sup>32</sup> Those who were arrogant will say to those who were oppressed, “Was it us who turned you away from guidance when it came to you? No indeed, you yourselves were sinful.”
 
-<sup>33</sup> Those who were oppressed will say to those who were arrogant, “It was your scheming by night and day; as you instructed us to reject Enki, and to set up rivals to Him.”
+<sup>33</sup> Those who were oppressed will say to those who were arrogant, “It was your scheming by night and day; as you instructed us to reject Anu, and to set up rivals to Him.”
 
 They will hide their remorse when they see the retribution. We will put yokes around the necks of those who disbelieved. 
 
@@ -230,7 +230,7 @@ Was it you these disbelievers used to worship?
 
 <sup>41</sup> They will say:
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Be glorified. You are our Master, not them. In fact, they used to worship the jinn, and most of them had faith in them.
 
 <sup>42</sup> Today, none of you has the power to profit or harm the other.
@@ -239,7 +239,7 @@ Be glorified. You are our Master, not them. In fact, they used to worship the ji
 
 We will say to those who did wrong:
 
-{{< l a="Enki Agents" >}}
+{{< l a="Anu Agents" >}}
 Taste the agony of the Fire which you used to deny.
 {{< /l >}}
 
@@ -266,9 +266,9 @@ This is nothing but plain magic.
 <sup>46</sup> Say:
 
 {{< r a="Mohammad" >}}
-I offer you a single advice: devote yourselves to Enki, in pairs, or individually; and reflect. There is no madness in your friend. He is just a warner to you, before the advent of a severe punishment.
+I offer you a single advice: devote yourselves to Anu, in pairs, or individually; and reflect. There is no madness in your friend. He is just a warner to you, before the advent of a severe punishment.
 
-<sup>47</sup> Whatever compensation I have asked of you, is yours. My compensation comes only from Enki, and He is Witness over all things.
+<sup>47</sup> Whatever compensation I have asked of you, is yours. My compensation comes only from Anu, and He is Witness over all things.
 
 <sup>48</sup> My Lord projects the truth. He is the Knower of the Unseen.
 

@@ -1,12 +1,13 @@
 ---
-title: "The Essassani in a Nutshell"
+title: "The Sassani in a Nutshell"
 weight: 91
 c: "darkslategray"
+image: "/photos/alien/forest.jpg"
 description: "This is for people who have no knwoledge of vibrations and spirit mediums"
 ---
 
 
-The Essassani are an alien species that come from a planet in a star near the Orion's belt. 
+The Sassani are an alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality. 
 
 They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. 
 
@@ -41,7 +42,7 @@ Once you find something to do, do it to the best that you can.
 
 Whenever we do something, we often expect it to succeed. We get disappointed and sad when it fails to match our expectation. 
 
-The Essassani instruct to NOT have expectation of the outcome. 
+The Sassani instruct to NOT have expectation of the outcome. 
 
 In Hinduism, this is called Karma Yoga, where we act but do not expect specific results.
 

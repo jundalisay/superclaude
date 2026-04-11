@@ -18,16 +18,17 @@ aliases:
 
 ## Cartesian Relationality: Animal Spirits and Organic Levitation Hypothesis
 
-{{< youtube _Puf9huY-NI >}}
+{{< youtube 6y3bqvRWRSA >}}
 
 
 In the Treatise on Man, Descartes gave the mechanics on animal spirits, called chi in Taoism, and prana in Hinduism. 
 
 We connect to his vortex theory and relationality to explain organic levitation.
 
-- M is the chosen vortex.
-- H is the height from the ground.
-- g is the force of gravity on the vortex.
+- `M` is the chosen vortex
+- `H` is the height from the ground
+- `g` is the force of gravity on the vortex
+
 
 Assume the woman uses the base chakra to levitate. This leads to a height of around 20 centimeters.
 

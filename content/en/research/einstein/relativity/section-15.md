@@ -2,6 +2,7 @@
 title: "General Results Of The Theory: E=mc2"
 heading: "Section 15"
 weight: 24
+lastmod: 2026-04-07
 # date: 2022-04-02
 description: "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
 c: "firebrick"
@@ -28,7 +29,7 @@ Special Relativity has rendered the Maxwell-Lorentz theory so plausible.<!-- , t
 Examples are the motions of electrons and ions. For slower motions*, the variations from the laws of classical mechanics are too small to be evident. We shall consider the motion of stars later in General Relativity.
 
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 {{< n n="Here, Einstein says his theory only works for fast-moving objects. This is false. In reality, it only works for electromagnetic particles. **Speed has nothing to do with it.** This is proven by the Aharonov-Bohm experiment. Instead, it is the Layer or Element of the particle that decides whether it follows Special Relativity or not. Fast speed or dynamism is a property of Electromagnetism just as slow speed or staticity is a property of the Strong Force." >}}
 

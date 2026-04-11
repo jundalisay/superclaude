@@ -4,6 +4,8 @@ title: Jacques Bernoulli
 description: 
 c: firebrick
 weight: 12
+a: "Lagrange"
+date: 2026-03-18
 ---
 
 

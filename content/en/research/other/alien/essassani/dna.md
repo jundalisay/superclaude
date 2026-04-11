@@ -10,7 +10,7 @@ description: "3 strands of DNA are for physical reality"
 
 2 or 3 strands of DNA are for physical reality.
 
-- The Essassani have 3 strands
+- The Sassani have 3 strands
 - Humans have 2 strands and are developing the 3rd strand as more silicon is in our system which is helping make the 3rd strand
 - The 3rd strand is needed for better sensitivity or antenna for the higher mind
 

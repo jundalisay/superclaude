@@ -1,7 +1,7 @@
 ---
 title:  "Permission Slips"
 weight: 2
-# description: "The Essassani are an advanced alien species in the Shah star system near Orion's belt."
+description: "Permission Slips are mental or social tools that people use to act according to their true nature"
 image: "/covers/essassani.jpg"
 ---
 

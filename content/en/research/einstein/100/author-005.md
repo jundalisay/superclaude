@@ -3,7 +3,7 @@ heading: "Authors 5-7"
 title: "Gimmerthal, Schmidt, De Hartog"
 # date: 2024-12-12
 weight: 10
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Relativity Is Fake. Ignorance And Arbitrariness"
 c: "darkgoldenrod"
 ---
 

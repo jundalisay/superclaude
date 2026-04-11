@@ -3,14 +3,14 @@ heading: Authors 22
 title: "Dr. Gustav Richter"
 # date: 2024-12-12
 weight: 30
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "The Relativization Of The Spatial-Temporal Scale Can Only Be Determined With The Help Of An Absolute Scale"
 c: "darkgoldenrod"
 ---
 
 
 ## Dr. Gustav Richter @ Bozen
 
-*The Relativization Of The Spatial-Temporal Scale Can Only Be Determined With The Help Of An Absolute Scale*
+### The Relativization Of The Spatial-Temporal Scale Can Only Be Determined With The Help Of An Absolute Scale
 
 Einstein's Relativity may play whatever role in science. Philosophically, it is either a banality or nonsense.
 

@@ -23,12 +23,9 @@ Disaster Loan Program and Direct Lending. The SBA’s disaster loan pro-
 gram provides low-interest loans to personal, business, and nonprofit borrowers
 following a federally declared disaster. The program suffers from problems of
 coordination with Federal Emergency Management Administration (FEMA) disas-
-ter assistance. For example, disaster relief applicants have an incentive to avoid
-being approved for SBA disaster loans in order to increase the amount of FEMA
-assistance for which they are eligible. Moreover, the availability of disaster loans
-reduces individuals’ incentives to purchase disaster-related insurance. More than
-90 percent of SBA disaster loans are loans to individuals such as homeowners, not
-to small businesses.
+ter assistance. 
+
+For example, disaster relief applicants have an incentive to avoid being approved for SBA disaster loans in order to increase the amount of FEMA assistance for which they are eligible. Moreover, the availability of disaster loans reduces individuals’ incentives to purchase disaster-related insurance. More than 90 percent of SBA disaster loans are loans to individuals such as homeowners, not to small businesses.
 
 In view of the challenges the SBA has experienced in its administration of this
 program, as well as the fraud and abuse in the EIDL COVID-19–related program
@@ -105,7 +102,9 @@ Domestic Manufacturing and Small Business. Small businesses in the
 manufacturing sector face shortfalls in access to capital.61 As manufacturing
 employment, domestic business investment, and non–information technology
 output have declined,62 expectations for market returns and the capital available
-to small manufacturing enterprises have diminished. This is especially true for
+to small manufacturing enterprises have diminished. 
+
+This is especially true for
 capital-intensive sectors like transportation and energy that require large up-front
 investments and relatively lower-margin sectors like plastics, textiles, furniture,
 and agriculture. Yet these industries and others like them traditionally have been
@@ -113,46 +112,15 @@ the backbone of American manufacturing employment. They also are sources of
 self-sufficiency and resilience at a time when global supply chains are increas-
 ingly uncertain.
 
-The public policy problems that are caused by declining small manufacturing
-are especially acute when it comes to the production of advanced technologies.
-Other agencies and programs invest immense taxpayer resources in basic science
-and research. Over time, that research results in some breakthrough technologies,
-but when it is time to put these breakthroughs into practice by manufacturing
-goods and services, much of the necessary productive capacity is offshore.63 For
-many technologies, the American economy lacks the capacity to “scale up” inno-
-vations that might not be immediately profitable. Instead, those technologies are
-put into practice abroad. In this way, foreign companies and foreign productive
-sites buy and implement taxpayer-funded American technologies.
-The SBA’s existing programs should be reformed to expand the private market
-for capital in small-manufacturer expansion. The next Administration should:
+The public policy problems that are caused by declining small manufacturing are especially acute when it comes to the production of advanced technologies. Other agencies and programs invest immense taxpayer resources in basic science and research. Over time, that research results in some breakthrough technologies, but when it is time to put these breakthroughs into practice by manufacturing goods and services, much of the necessary productive capacity is offshore.
 
-Ask Congress to make available a category of Section 7(a) loans with
-a larger available principal that is used to finance manufacturing
-facility construction and equipment upgrading. The proposed SBA
-Reauthorization and Improvement Act of 2019, for example, would
-have increased the maximum loan principal to $50 million for advanced
-manufacturing construction and upgrading.64 The Section 7(a) loan
-program operates through private lenders and guarantees a portion of
-private-sector loans made to qualifying small businesses. The maximum
-principal available is $5 million, but small businesses in capital-intensive
-sectors require significantly larger amounts of capital to finance up-front
-capital costs.
+For many technologies, the American economy lacks the capacity to “scale up” inno- vations that might not be immediately profitable. Instead, those technologies are put into practice abroad. 
 
-Reform the Small Business Investment Company (SBIC) program
-to refocus its support on small businesses rather than technology
-startups only. The SBIC program operates through private venture capital
-and private equity funds by providing eligible funds with guaranteed debt
-financing to support investments in small businesses. However, the program largely duplicates private-sector venture capital to the extent that the sector receiving much of its support is software and information technology, which
-already receive the lion’s share of venture capital investment.65
-In addition, Congress should reform the SBIC program to make its
-financing more favorable to capital-intense investments and small
-manufacturers. The Health, Economic Assistance, Liability Protection,
-and Schools (HEALS) Act, introduced in 2020,66 and American Innovation
-and Manufacturing Act, introduced in 2021,67 would allow SBIC to offer
-longer-term financing to manufacturers and make the program more
-fiscally sustainable.
+In this way, foreign companies and foreign productive sites buy and implement taxpayer-funded American technologies. The SBA’s existing programs should be reformed to expand the private market for capital in small-manufacturer expansion. The next Administration should:
 
-Encourage Congress to create a “medium-sized business”
-classification with its eligibility for programs confined to access
-to capital programs from projects for which credit elsewhere
+Ask Congress to make available a category of Section 7(a) loans with a larger available principal that is used to finance manufacturing facility construction and equipment upgrading. The proposed SBA Reauthorization and Improvement Act of 2019, for example, would have increased the maximum loan principal to $50 million for advanced manufacturing construction and upgrading.64 The Section 7(a) loan program operates through private lenders and guarantees a portion of private-sector loans made to qualifying small businesses. The maximum principal available is $5 million, but small businesses in capital-intensive sectors require significantly larger amounts of capital to finance up-front capital costs.
+
+Reform the Small Business Investment Company (SBIC) program to refocus its support on small businesses rather than technology startups only. The SBIC program operates through private venture capital and private equity funds by providing eligible funds with guaranteed debt financing to support investments in small businesses. However, the program largely duplicates private-sector venture capital to the extent that the sector receiving much of its support is software and information technology, which already receive the lion’s share of venture capital investment.65 In addition, Congress should reform the SBIC program to make its financing more favorable to capital-intense investments and small manufacturers. The Health, Economic Assistance, Liability Protection, and Schools (HEALS) Act, introduced in 2020,66 and American Innovation and Manufacturing Act, introduced in 2021,67 would allow SBIC to offer longer-term financing to manufacturers and make the program more fiscally sustainable.
+
+Encourage Congress to create a “medium-sized business” classification with its eligibility for programs confined to access to capital programs from projects for which credit elsewhere
 does not exist.

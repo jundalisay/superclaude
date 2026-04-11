@@ -3,7 +3,7 @@ heading: "Part 4.2"
 title: "Pati-Salam"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 24
 date: 2021-04-01
 ---
 
@@ -99,3 +99,4 @@ SU(3) × SU(2) × U(1)
 indicating that the appearance of a phantom 10-dimensional representation is common to both the Georgi-Glashow and Pati-Salam theories and strongly suggests looking for a fundamental explanation. One disadvantage on finding oneself on the Pati-Salam branch of the above tree, is that it suggests non-compact groups bigger than itself which are difficult to accommodate in unitary Bosonic theories with bounded energy.
 
 An advantage however is that it does not lead immediately to proton decay like the original SU(5) model of Georgi-Glashow. Further, by privileging both a compact structure group within Spin(6, 4) and a complex structure on the phantom 10-dimensional representation, the Standard Model group appears to be very close to being at the intersection of those requirements.
+

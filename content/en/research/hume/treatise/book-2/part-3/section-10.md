@@ -33,61 +33,86 @@ This is not desired merely as truth, and that it is not the justness of our conc
 
 
 These conclusions are equally just, when we discover the equality of two bodies by a pair of compasses, as when we learn it by a mathematical demonstration.
-        ◦ In the one case, the proofs are demonstrative.
-        ◦ In the other case, the proofs are only sensible.
-        ◦ Yet the mind acquiesces with equal assurance in the one as in the other.
+- In the one case, the proofs are demonstrative.
+- In the other case, the proofs are only sensible.
+  - Yet the mind acquiesces with equal assurance in the one as in the other.
 
 In an arithmetical operation, both the truth and the assurance are of the same nature, as in the most profound algebraic problem.
-        ◦ In it, the pleasure is very inconsiderable, if it does not degenerate into pain.
-        ◦ This is a proof that our satisfaction from the discovery of truth, does not proceed from its mere discovery, but only as endowed with certain qualities.
+- In it, the pleasure is very inconsiderable, if it does not degenerate into pain.
+- This is a proof that our satisfaction from the discovery of truth, does not proceed from its mere discovery, but only as endowed with certain qualities.
  
 The first and most considerable circumstance needed to render truth agreeable, is the genius and capacity employed in its invention and discovery.
-        ◦ What is easy and obvious is never valued.
-        ◦ Even what is difficult is but little regarded if we come to know it without:
-            ▪ difficulty
-            ▪ any stretch of thought or judgment.
-    • We love to trace the demonstrations of mathematicians.
-        ◦ But we receive small entertainment from a person who barely informs us of the proportions of lines and angles, even if we have the utmost confidence in his judgment and veracity.
-            ▪ In this case, it is enough to have ears to learn the truth.
-    • We are never obliged to fix our attention or exert our genius.
-        ◦ This is the most pleasant and agreeable of all the other exercises of the mind.
+
+What is easy and obvious is never valued.
+
+Even what is difficult is but little regarded if we come to know it without:
+- difficulty
+- any stretch of thought or judgment.
+
+We love to trace the demonstrations of mathematicians.
+
+But we receive small entertainment from a person who barely informs us of the proportions of lines and angles, even if we have the utmost confidence in his judgment and veracity.
+
+In this case, it is enough to have ears to learn the truth.
+
+We are never obliged to fix our attention or exert our genius.
+
+This is the most pleasant and agreeable of all the other exercises of the mind.
  
-    • The exercise of genius is the principal source of the satisfaction we receive from the sciences.
-        ◦ I doubt if it alone is sufficient to give us any considerable enjoyment.
-    • The truth we discover must also be of some importance.
-        ◦ It is easy to multiply algebraic problems to infinity.
-        ◦ There is no end in the discovery of the proportions of conic sections.
-            ▪ Few mathematicians take any pleasure in these researches.
-            ▪ They turn their thoughts to what is more useful and important.
-    • How does this utility and importance operate on us?
-        ◦ In the search of such truths, many philosophers have:
-            ▪ consumed their time
-            ▪ destroyed their health
-            ▪ neglected their fortune.
-        ◦ These truths they have esteemed important and useful to the world.
-        ◦ But it appeared from their whole conduct and behaviour, that they did not have:
-            ▪ any public spirit
-            ▪ any concern for mankind’s interests.
-    • They would entirely lose all relish for their studies if they were convinced that their discoveries:
-        ◦ were of no consequence
-        ◦ had consequences entirely indifferent to them.
-            ▪ This is a contradiction.
+The exercise of genius is the principal source of the satisfaction we receive from the sciences.
+
+I doubt if it alone is sufficient to give us any considerable enjoyment.
+
+The truth we discover must also be of some importance.
+
+It is easy to multiply algebraic problems to infinity.
+
+There is no end in the discovery of the proportions of conic sections.
+
+Few mathematicians take any pleasure in these researches.
+
+They turn their thoughts to what is more useful and important.
+
+How does this utility and importance operate on us?
+
+In the search of such truths, many philosophers have:
+- consumed their time
+- destroyed their health
+- neglected their fortune.
+
+These truths they have esteemed important and useful to the world.
+
+But it appeared from their whole conduct and behaviour, that they did not have:
+- any public spirit
+- any concern for mankind’s interests.
+
+They would entirely lose all relish for their studies if they were convinced that their discoveries:
+- were of no consequence
+- had consequences entirely indifferent to them.
+
+This is a contradiction.
  
-    • To remove this contradiction, we must consider that there are certain desires and inclinations which:
-        ◦ go no farther than the imagination
-        ◦ are rather the faint shadows and images of passions, than any real affections.
-    • A man who surveys a city’s fortifications, considers their strength and advantages, natural or acquired.
-        ◦ He observes the disposition and contrivance of the bastions, ramparts, mines, and other military works.
-        ◦ He will receive a suitable pleasure and satisfaction in proportion as all these are fitted to attain their ends.
-            ▪ This pleasure:
-                • arises from the utility, not the form of the objects.
-                • is only a sympathy with the inhabitants who benefit from the fortifications.
-        ◦ Though it is possible, that he may have no kindness for them or may even hate them, as a stranger or enemy.
+To remove this contradiction, we must consider that there are certain desires and inclinations which:
+- go no farther than the imagination
+- are rather the faint shadows and images of passions, than any real affections.
+
+A man who surveys a city’s fortifications, considers their strength and advantages, natural or acquired.
+
+He observes the disposition and contrivance of the bastions, ramparts, mines, and other military works.
+
+He will receive a suitable pleasure and satisfaction in proportion as all these are fitted to attain their ends.
+
+This pleasure:
+- arises from the utility, not the form of the objects.
+- is only a sympathy with the inhabitants who benefit from the fortifications.
+
+Though it is possible, that he may have no kindness for them or may even hate them, as a stranger or enemy.
  
-    • It may be objected that:
-        ◦ such a remote sympathy is a very slight foundation for a passion
-        ◦ so much industry and application, as we frequently observe in philosophers, can never be derived from so inconsiderable an original.
-    • But the pleasure of study conflicts:
+It may be objected that:
+- such a remote sympathy is a very slight foundation for a passion
+- so much industry and application, as we frequently observe in philosophers, can never be derived from so inconsiderable an original.
+
+But the pleasure of study conflicts:
         ◦ chiefly in the mind’s action
         ◦ the exercise of the genius and understanding in the discovery or comprehension of any truth.
     • If the truth’s importance is needed to complete the pleasure, our enjoyment is not brought by any considerable addition.

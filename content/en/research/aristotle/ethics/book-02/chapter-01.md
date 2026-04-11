@@ -5,7 +5,6 @@ weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Human Excellence is of two kinds"
 icon: "Aristotle"

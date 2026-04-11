@@ -1,10 +1,11 @@
 ---
 title: "Nuclear spin for the hyperfine-structure"
 heading: "Part 4"
-weight: 10
+weight: 13
 c: "firebrick"
 description: "Which are the symmetry classes for other particles?"
 date: 1946-12-13
+lastmod: 2025-01-01
 ---
 
 

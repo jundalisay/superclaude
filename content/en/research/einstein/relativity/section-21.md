@@ -29,7 +29,7 @@ Both in classical mechanics and in special relativity, we differentiate between:
 
 **But why are relativistic viewpoints more important than non-relativistic viewpoints?** * <!-- reference-bodies (or their states of motion) given priority over other reference-bodies (or their states of motion) -->
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 {{< n n="No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!" >}}
 
@@ -40,7 +40,7 @@ A gas range has two identical pots with water. Steam is being emitted continuous
 
 Similarly, I seek in vain for a real something in classical mechanics or special relativity which causes gravity <!--  to which I can attribute --> which creates the different behaviour of bodies from <!-- with respect to the --> viewpoints `K` [inside the box] and `K'`* [outside the box]. 
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 
 {{< f f="**Einstein Note: The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly." >}}
@@ -56,4 +56,3 @@ Newton saw this objection and attempted to invalidate it, but without success*.
 
 
 But E. Mach recognised it most clearly. He claimed that mechanics must be placed on a new basis. It can only be solved by GR since its equations hold for every body of reference, whatever may be its state of motion.
-

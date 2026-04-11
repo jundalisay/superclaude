@@ -6,6 +6,6 @@ description: "Henri Poincare was a French physicist who first proposed gravitati
 a: "Henri Poincare"
 c: "darkgoldenrod"
 weight: 168
-# date: 2022-05-13
+date: 2022-05-13
 ---
 

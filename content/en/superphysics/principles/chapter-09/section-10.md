@@ -64,7 +64,7 @@ The activating (radiating) capacity of the ego determines physical activity (pri
 
 
 
-The Essassani regard the personality as a prism which separates the holistic energy of the Soul into the 3 components of:
+The Sassani regard the personality as a prism which separates the holistic energy of the Soul into the 3 components of:
 
 1. Beliefs (samskaras, lower mind)
 2. Emotions (lower mind)

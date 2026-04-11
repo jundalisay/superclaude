@@ -1,7 +1,7 @@
 ---
-heading: Chapters 25-
+heading: Chapters 25
 title: "Propositions"
-weight: 24
+weight: 34
 c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
@@ -75,7 +75,7 @@ but in either case it follows that the relations of predication are one fewer th
 The premises however will not always be even, the terms odd; but they will alternate-when the premises are even, the terms must be odd; when the terms are even, the premises must be odd: for along with one term one premise is added, if a term is added from any quarter. Consequently since the premises were (as we saw) even, and the terms odd, we must make them alternately even and odd at each
 addition. 
 
-But the conclusions will not follow the same arrangement either in respect to the terms
-or to the premises. For if one term is added, conclusions will be added less by one than the preexisting terms: for the conclusion is drawn not in relation to the single term last added, but in relation to all the rest, e.g. if to ABC the term D is added, two conclusions are thereby added, one in relation to A, the other in relation to B. Similarly with any further additions. And similarly too if the term is inserted in the middle: for in relation to one term only, a syllogism will not be
-constructed. Consequently the conclusions will be much more numerous than the terms or the
+But the conclusions will not follow the same arrangement either in respect to the terms or to the premises. 
+
+For if one term is added, conclusions will be added less by one than the preexisting terms: for the conclusion is drawn not in relation to the single term last added, but in relation to all the rest, e.g. if to ABC the term D is added, two conclusions are thereby added, one in relation to A, the other in relation to B. Similarly with any further additions. And similarly too if the term is inserted in the middle: for in relation to one term only, a syllogism will not be constructed. Consequently the conclusions will be much more numerous than the terms or the
 premises.

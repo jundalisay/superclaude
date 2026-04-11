@@ -3,11 +3,9 @@ title: "Rules for the Direction of Prayer (Qiblah)"
 heading: "Sura 2f"
 weight: 14
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
 ---
 
-
-{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="142">}} The ignorant will say:
@@ -110,5 +108,3 @@ they will not be reprieved. -->
 
 
 {{< s v="166" >}} They will then disown their followers who will say: “If only we can have another chance, we will disown them, as they disowned us.” 
-
-

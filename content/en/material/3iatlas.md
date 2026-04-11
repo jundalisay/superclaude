@@ -7,6 +7,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+sitemap:
+  priority: 0.8
 ---
 
 

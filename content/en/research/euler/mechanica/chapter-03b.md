@@ -1,8 +1,8 @@
 ---
 heading: Chapter 3b
-title: "THE RECTILINEAR MOTION OF A FREE POINT ACTED ON BY ABSOLUTE FORCES"
+title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
 date: 2025-03-20
-weight: 4
+weight: 41
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"

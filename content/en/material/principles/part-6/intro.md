@@ -125,12 +125,12 @@ However, in order to seriously levitate at great speeds, the object must be encl
 
 Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace which he calls Gravity-A Wave which is phase-shifted to normal spacetime or Gravity-B Wave. This phase-shifting is done through active levitation through the 3 gravity-wave emitters at the bottom of the ship.
 
-A more advanced version is passive levitation inside an aetherspace. This is reportedly done by the Essassani civilization which is more advanced than the Grays. 
+A more advanced version is passive levitation inside an aetherspace. This is reportedly done by the Sassani civilization which is more advanced than the Grays. 
 
 
 ### Teleportation
 
-Teleportation is already done by quantum mechanics on particles. Our idea is to use the aetherspace to make objects assume proton qualities, allowing them to be teleported across vast distances. This is already done by the Essassani. 
+Teleportation is already done by quantum mechanics on particles. Our idea is to use the aetherspace to make objects assume proton qualities, allowing them to be teleported across vast distances. This is already done by the Sassani. 
 
 
 ### Galactic Lighthouses

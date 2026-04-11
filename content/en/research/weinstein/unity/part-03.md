@@ -3,7 +3,7 @@ heading: "Part 3"
 title: "The Observerse Recovers Space-Time"
 description: ""
 c: "darkgoldenrod"
-weight: 12
+weight: 14
 date: 2021-04-01
 ---
 
@@ -27,8 +27,13 @@ g
 
 are maps for local open sets U
 n
-x ⊂ Xn about some points x ∈ Xn
-constituting local Riemannian embeddings for neighborhoods U
+x ⊂ Xn 
+
+about some points x ∈ Xn
+
+constituting local Riemannian embeddings for neighborhoods 
+
+U
 n into
 a Riemannian manifold Y
 d of equal or higher dimension inducing a
@@ -40,20 +45,20 @@ T(Y ) with metric and its pull back ι
 ∗
 (Nd−n
 ι
-) over Xn. The main cases
-of this construction correspond to:
-• TRIVIAL: The manifold Y = X and the map ι is the identity.
-• EINSTEINIAN: The manifold Y = Met(X) is the bundle of
-point-wise metric tensors over X and the maps ι = g under
-scrutiny are sections of this bundle representing Riemannian or
-Semi-Riemannian metric fields.
-16
-• AMBIENT: The manifold Y
+) over Xn.
 
-is unconstrained beyond the condition of being an immersion.
+The main cases of this construction correspond to:
+
+• TRIVIAL: The manifold Y = X and the map ι is the identity.
+• EINSTEINIAN: The manifold Y = Met(X) is the bundle of point-wise metric tensors over X and the maps ι = g under scrutiny are sections of this bundle representing Riemannian or Semi-Riemannian metric fields.
+
+• AMBIENT: The manifold Y is unconstrained beyond the condition of being an immersion.
+
 where the first is presented to cover the case of ordinary space-times
 without additional structure, and the last is included so as to allow for
-full generality. In this work we will consider the strongest assumption
+full generality. 
+
+In this work we will consider the strongest assumption
 beyond those of Einstein by working within the Einsteinian Observerse to search for new physics. Note that in this case, Y doesn’t
 usually have a pre-existing metric. Instead the choice of a section ι
 of the metric bundle induces a metric on Y in the portion of Y that
@@ -72,16 +77,13 @@ Definition 3.2 A field χ that originates as the section of a bundle over Xn or 
 (χ) will be called INVASIVE to X if they are pulled back from
 fields or jet bundles χ that are native to Y .
 
-It is our contention in this investigation that physics may actually be happening
-mostly on Y
-d but that it is widely interpreted by physicists via metric pull-back
-as if it were occurring natively on Xn leading to confusion. In fact, in this
-investigation, there will only be one independent field that is truly native to
+It is our contention in this investigation that physics may actually be happening mostly on Y d but that it is widely interpreted by physicists via metric pull-back
+as if it were occurring natively on Xn leading to confusion. In fact, in this investigation, there will only be one independent field that is truly native to
 Xd
 
+This allows for the possibility that in a complete theory one could treat the observing field on X differently from the more readily quantized fields on Y without immediately leading to paradox. 
 
-This allows for the possibility that in a complete theory one could treat the observing field on X differently from the more readily quantized fields on Y without immediately leading to paradox. Different observations via different
-sections ι would pull back different quantized values from Y onto X.
+Different observations via different sections ι would pull back different quantized values from Y onto X.
 
 
 ## 3.1 Proto-Riemannian Geometry
@@ -165,7 +167,7 @@ Conversely, as a fiber bundle, the total space Y carries a vertical sub-bundle
 V ⊂ T(Y ) as the subspace of vectors pointing along the fibers of Y over X.
 
 Here again, the structure of Y as a space of metrics becomes germane.
-18
+
 At a point y ∈ Y , lying in the fiber π
 −1
 (π(y)) let two symmetric two tensors
@@ -174,11 +176,10 @@ At a point y ∈ Y , lying in the fiber π
 V
 y -->
 
-(X) represent a random choice of two elements in the vertical tangent
-space along two different smooth paths of non-degenerate metrics gA(t), gB(t)
-where at time t = 0 we have gA(0) = gB(0) = y with ˙gA(t) = A and ˙gB(t) = B.
-Then, by the symmetry of the metrics, the Frobenius inner product is defined
-by the double contraction against the metric represented by the point y which,
+(X) represent a random choice of two elements in the vertical tangent space along two different smooth paths of non-degenerate metrics gA(t), gB(t)
+where at time t = 0 we have gA(0) = gB(0) = y with ˙gA(t) = A and ˙gB(t) = B. 
+
+Then, by the symmetry of the metrics, the Frobenius inner product is defined by the double contraction against the metric represented by the point y which,
 in an orthonormal basis would look like:
 
 < A, B >y= Try(A

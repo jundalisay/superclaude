@@ -1,5 +1,5 @@
 ---
-title: The Speeches of Lloyd George
+title: The Speeches of Lloyd George versus Bethmann-Hollweg
 heading: Chapter 6d
 weight: 48
 description: "Lloyd George was then Minister of Munitions"
@@ -12,34 +12,44 @@ icon: "Adolf Hitler"
 
 
 
+Our pig-headed intellectuals:
+- live apart from the practical world
+- think that a writer is more intelligent than an orator
 
-Our pig-headed intellectuals live apart from the practical world. They think that a writer is necessarily superior to an orator in intelligence.
-
-This point of view was once exquisitely illustrated by a critique, published in a certain
-National paper which I have already mentioned, where it was stated that one is often
+<!-- This point of view was once exquisitely illustrated by a critique, published in a certain National paper which I have already mentioned, where it was stated that one is often
 disillusioned by reading the speech of an acknowledged great orator in print. 
 
-That reminded me of another article which came into my hands during the War. It dealt with the speeches of Lloyd George, who was then Minister of Munitions, and examined them in a painstaking way under the microscope of criticism. The writer made the brilliant
-statement that these speeches showed inferior intelligence and learning and that,
-moreover, they were banal and commonplace productions. I myself procured some of
-these speeches, published in pamphlet form, and had to laugh at the fact that a normal
-German quill-driver did not in the least understand these psychological masterpieces in
-the art of influencing the masses. This man criticized these speeches exclusively
-according to the impression they made on his own blasé mind, whereas the great British
-Demagogue had produced an immense effect on his audience through them, and in the 
-widest sense on the whole of the British populace. Looked at from this point of view,
-that Englishman's speeches were most wonderful achievements, precisely because they
-showed an astounding knowledge of the soul of the broad masses of the people. For
-that reason their effect was really penetrating. Compare with them the futile
-stammerings of a Bethmann-Hollweg. 
+That reminded me of another article which came into my hands  -->
 
-On the surface his speeches were undoubtedly more intellectual, but they just proved this man's inability to speak to the people, which
-he really could not do. Nevertheless, to the average stupid brain of the German writer,
-who is, of course, endowed with a lot of scientific learning, it came quite natural to
-judge the speeches of the English Minister--which were made for the purpose of
-influencing the masses--by the impression which they made on his own mind, fossilized
-in its abstract learning. And it was more natural for him to compare them in the light of
-that impression with the brilliant but futile talk of the German statesman, which of
+
+During the War, I came upon the speeches of Lloyd George.
+- He was then Minister of Munitions
+
+<!-- I, and examined them in a painstaking way under the microscope of criticism. The writer made the brilliant
+statement that these speeches showed inferior intelligence and learning and that,
+moreover, they were banal and commonplace productions. 
+
+I procured some of these speeches. -->
+
+<!-- , published in pamphlet form, and had to laugh at the fact that a normal German quill-driver did not in the least understand these  -->
+
+His speeches were psychological masterpieces in the art of influencing the masses.
+
+Theobald von Bethmann-Hollweg criticized these speeches.
+
+ <!-- exclusively according to the impression they made on his own blasé mind, whereas the great British Demagogue had produced an immense effect on his audience through them, and in the  widest sense on the whole of the British populace. -->
+
+Lloyd George's speeches were most wonderful achievements because they knew the soul of the masses.
+
+This is why they were really penetrating. 
+
+Compare with them the futile stammerings of a Bethmann-Hollweg. 
+
+On the surface, Bethmann-Hollweg's speeches were more intellectual. But they just proved his inability to speak to the people.
+
+Nevertheless, to the average stupid brain of the German writer, who is, of course, endowed with a lot of scientific learning, it came quite natural to judge the speeches of the English Minister--which were made for the purpose of influencing the masses--by the impression which they made on his own mind, fossilized in its abstract learning. 
+
+And it was more natural for him to compare them in the light of that impression with the brilliant but futile talk of the German statesman, which of
 course appealed to the writer's mind much more favourably. That the genius of Lloyd
 George was not only equal but a thousandfold superior to that of a Bethmann-Hollweg
 is proved by the fact that he found for his speeches that form and expression which
@@ -51,19 +61,17 @@ statesman to his people by the impression which it leaves on the mind of a unive
 professor but by the effect it produces on the people. And this is the sole criterion of the
 orator's genius.
 
-The astonishing development of our movement, which was created from nothing a few
-years ago and is to-day singled out for persecution by all the internal and external
-enemies of our nation, must be attributed to the constant recognition and practical
-application of those principles.
+The astonishing development of our movement, which was created from nothing a few years ago and is to-day singled out for persecution by all the internal and external
+enemies of our nation, must be attributed to the constant recognition and practical application of those principles.
 
-Written matter also played an important part in our movement; but at the stage of
-which I am writing it served to give an equal and uniform education to the directors of
+Written matter also played an important part in our movement; but at the stage of which I am writing it served to give an equal and uniform education to the directors of
 the movement, in the upper as well as in the lower grades, rather than to convert the
-masses of our adversaries. It was only in very rare cases that a convinced and devoted
-Social Democrat or Communist was induced to acquire an understanding of our
-WELTANSCHAUUNG or to study a criticism of his own by procuring and reading one
-of our pamphlets or even one of our books. Even a newspaper is rarely read if it does
-not bear the stamp of a party affiliation. Moreover, the reading of newspapers helps
+masses of our adversaries.
+
+It was only in very rare cases that a convinced and devoted Social Democrat or Communist was induced to acquire an understanding of our WELTANSCHAUUNG or to study a criticism of his own by procuring and reading one of our pamphlets or even one of our books. Even a newspaper is rarely read if it does
+not bear the stamp of a party affiliation. 
+
+Moreover, the reading of newspapers helps
 little; because the general picture given by a single number of a newspaper is so
 confused and produces such a fragmentary impression that it really does not influence
 the occasional reader. And where a man has to count his pennies it cannot be assumed
@@ -71,6 +79,7 @@ that, exclusively for the purpose of being objectively informed, he will become 
 reader or subscriber to a paper which opposes his views. Only one who has already
 joined a movement will regularly read the party organ of that movement, and especially
 for the purpose of keeping himself informed of what is happening in the movement. 
+
 It is quite different with the 'spoken' leaflet. Especially if it be distributed gratis it will be
 taken up by one person or another, all the more willingly if its display title refers to a
 question about which everybody is talking at the moment. Perhaps the reader, after

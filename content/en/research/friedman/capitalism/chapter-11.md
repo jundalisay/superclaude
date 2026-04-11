@@ -9,15 +9,18 @@ description: "Sigmund Freud was the founder of psychoanalysis, a clinical method
 
 
 
-The humanitarian and egalitarian sentiment helped produce the steeply graduated individual income tax has also produced a host of other measures directed at promoting the ''welfare" of particular groups.
+The humanitarian and egalitarian sentiment helped produce:
+- the steeply graduated individual income tax
+- other measures directed at promoting the ''welfare" of particular groups
 
-The most important single set of measures is the bundle misleadingly labeled "social security." Others are public housing, minimum wage laws, farm price supports, medical care for particular groups, special aid programs, and so on.
+The most important single set of measures is the bundle misleadingly labeled "social security."
 
-I shall first discuss briefly a few of the latter, mostly to indicate how
-different their actual effects may be from those intended, and shall then discuss
-at somewhat greater length the largest single component of the social security
-program, old age and survivor's insurance.
-Miscellaneous Welfare Measures
+Others are public housing, minimum wage laws, farm price supports, medical care for particular groups, special aid programs, and so on.
+
+I shall first discuss briefly a few of the latter, mostly to indicate how different their actual effects may be from those intended, and shall then discuss at somewhat greater length the largest single component of the social security program, old age and survivor's insurance.
+
+
+## Miscellaneous Welfare Measures
 
 1. Public Housing 
 
@@ -61,51 +64,28 @@ Its justification is only on grounds of paternalism -- families being helped "ne
 
 The liberal will be inclined to reject this argument for responsible adults. 
 
-He cannot completely reject it in the more indirect form in
-which it affects children; namely, that parents will neglect the welfare of the
-children, who ''need" the better housing. But he will surely demand evidence
-much more persuasive and to the point than the kind usually given before he can
-accept this final argument as adequate justification for large expenditures on
-public housing.
+He cannot completely reject it in the more indirect form in which it affects children; namely, that parents will neglect the welfare of the children, who ''need" the better housing. 
 
- So much could have been said in the abstract, in advance of actual
-experience with public housing. Now that we have had experience, we can go
-much farther. In practice, public housing has turned out to have effects very
-different indeed from those intended.
+But he will surely demand evidence much more persuasive and to the point than the kind usually given before he can accept this final argument as adequate justification for large expenditures on public housing.
 
- Far from improving the housing of the poor, as its proponents expected,
-public housing has done just the reverse. The number of dwelling units
-destroyed in the course of erecting public housing projects has been far larger
-than the number of new dwelling units constructed. But public housing as such
-has done nothing to reduce the number of persons to be housed. The effect of
-public housing has therefore been to raise the number of persons per dwelling
-unit. Some families have probably been better housed than they would otherwise
-have been those who were fortunate enough to get occupancy of the publicly
-built units. But this has only made the problem for the rest all the worse, since
-the average density of all together went up.
+So much could have been said in the abstract, in advance of actual experience with public housing. Now that we have had experience, we can go much farther. In practice, public housing has turned out to have effects very different indeed from those intended.
 
- Of course, private enterprise offset some of the deleterious effect of the
-public housing program by conversion of existing quarters and construction of
-new ones for either the persons directly displaced or, more generally, the
-persons displaced at one or two removes in the game of musical chairs set in
-motion by the public housing projects. However, these private resources would
+Far from improving the housing of the poor, as its proponents expected, public housing has done just the reverse. The number of dwelling units destroyed in the course of erecting public housing projects has been far larger than the number of new dwelling units constructed. 
+
+But public housing as such has done nothing to reduce the number of persons to be housed. The effect of public housing has therefore been to raise the number of persons per dwelling  unit. Some families have probably been better housed than they would otherwise have been those who were fortunate enough to get occupancy of the publicly built units. But this has only made the problem for the rest all the worse, since the average density of all together went up.
+
+Private enterprise offset some of the deleterious effect of the public housing program by conversion of existing quarters and construction of new ones for either the persons directly displaced or, more generally, the persons displaced at one or two removes in the game of musical chairs set in motion by the public housing projects. However, these private resources would
 have been available in the absence of the public housing program.
 
- Why did the public housing program have this effect? For the general
-reason we have stressed time and again. The general interest that motivated
-many to favor instituting the program is diffuse and transitory. Once the program
-was adopted, it was bound to be dominated by the special interests that it could
-serve. 
+The public housing program had this effect because the general interest that motivated many to favor instituting the program is diffuse and transitory. 
 
-In this case, the special interests were those local groups that were
-anxious to have blighted areas cleared and refurbished, either because they
-owned property there or because the blight was threatening local or central
-business districts. 
+Once the program was adopted, it was bound to be dominated by the special interests that it could serve. 
 
-Public housing served as a convenient means to accomplish
-their objective, which required more destruction than construction.
- Even so, "urban blight" is still with us in undiminished force, to judge by
-the growing pressure for federal funds to deal with it.
+In this case, the special interests were those local groups that were anxious to have blighted areas cleared and refurbished, either because they owned property there or because the blight was threatening local or central business districts. 
+
+Public housing served as a convenient means to accomplish their objective, which required more destruction than construction.
+
+Even so, "urban blight" is still with us in undiminished force, to judge by the growing pressure for federal funds to deal with it.
  
 Another gain its proponents expected from public housing was the reduction of juvenile delinquency by improving housing conditions. Here again, the program in many instances had precisely the opposite effect, entirely aside from its failure to improve average housing conditions. 
 

@@ -4,6 +4,7 @@ title: "Definitions for a Demonstrative Science"
 weight: 4
 c: "firebrick"
 description: "A premise is a sentence affirming or denying one thing of another."
+lastmod: 2026-04-01
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -3,6 +3,7 @@ title: "General Relativity Needs the Equality of Inertial and Gravitational Mass
 heading: "Section 20"
 weight: 34
 # date: 2022-03-24
+lastmod: 2026-04-08
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
 c: "firebrick"
 icon: "Einstein"
@@ -53,7 +54,7 @@ admit that  -->
 
  <!-- , and as a result we have gained a powerful argument for a generalised postulate of relativity. --><!--  the “Galileian space” first considered, we can nevertheless regard the chest as being at rest. -->
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 ![WTF](/graphics/wtf.jpg)
 
@@ -103,7 +104,7 @@ We might think that:
 
 {{< c v="red" >}} But in reality, this is only true for special gravitational fields. For example, it is impossible to choose a viewpoint<!--  body of reference such that, as judged from it, --> where the earth's gravitational field totally vanishes. This solves our argument against GR at the end of Section 18.{{< /c >}}
 
-![Einstein Con-man](/icons/einbla.png)
+![Einstein Con-man](/icons/Einstein.jpg)
 
 The observer in the train jerks forwards as a result of the train braking. This shows to him the <!-- , and that he recognises in this the --> non-uniformity of motion <!-- (retardation) --> of the train. But he is compelled by nobody to refer this jerk to a “real” acceleration <!-- (retardation) --> of the train. This is because his viewpoint in the train is at rest*. <!-- He might also interpret his experience thus=  “My body of reference (the carriage) remains permanently at rest. With reference to it, however, there exists (during the period of application of the brakes) --> 
 

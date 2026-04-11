@@ -1,6 +1,6 @@
 ---
 title: "The Properties of Magnets"
-heading: Article 145-
+heading: Article 145
 weight: 40
 description: "Enumeration of properties of magnetic properties"
 writer:
@@ -8,9 +8,10 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-4/section-05
+aliases:
+  /research/descartes/philosophy/part-4/section-05d
 ---
+
 
 
 ## 145. The properties of magnetic force
