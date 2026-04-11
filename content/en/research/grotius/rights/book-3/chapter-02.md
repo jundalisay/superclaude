@@ -20,9 +20,17 @@ The rights accruing from the law of Nations are the points next to be considered
 
 Wars in GENERAL are those, which properly first come under notice.
 
-By the LITERAL law of nature, no one is bound by the actions of another, except the person, who succeeds to his property. For the introduction and establishment of property introduced and established also the power of transferring it with all its incumbrances. The Emperor Zeno however pronounces it repugnant to natural justice for one man to be molested for the debts of another. A principle, which gave rise to the distinctions in the Roman law, that the wife could not be sued for her husband, nor the husband for his wife, nor a son for his father, nor a father or mother for their son. Nor, as Ulpian clearly states it, could individuals be answerable for the debts of the community, and more especially if that community be possessed of property. Indeed if that were not the case individuals could only be obliged to contribute their due proportion, as members of that community.
+By the LITERAL law of nature, no one is bound by the actions of another, except the person, who succeeds to his property. For the introduction and establishment of property introduced and established also the power of transferring it with all its incumbrances. 
 
-Seneca says, "if any one lends money to my country, I am not to be considered as his debtor, nor to take the debt upon myself, though I am bound to pay my due proportion of it." There was a special provision made in the Roman law, that one peasant should not be bound for the debts of another, and it is laid down as a rule,308 that the goods of one person shall not be distrained for the debts of another, even if they be public debts; and in Justinian's Novels, pledges for others are forbidden, and the cause assigned for it is, because it is unreasonable that one person should incur the debt, and another be bound to the payment of it, an exaction to which the name of ODIOUS is given. King Theodoric Cassiodor, calls it a shocking licence for one man to be detained as a pledge for another.
+The Emperor Zeno however pronounces it repugnant to natural justice for one man to be molested for the debts of another. 
+
+A principle, which gave rise to the distinctions in the Roman law, that the wife could not be sued for her husband, nor the husband for his wife, nor a son for his father, nor a father or mother for their son. Nor, as Ulpian clearly states it, could individuals be answerable for the debts of the community, and more especially if that community be possessed of property. 
+
+If that were not the case individuals could only be obliged to contribute their due proportion, as members of that community.
+
+Seneca says, "if any one lends money to my country, I am not to be considered as his debtor, nor to take the debt upon myself, though I am bound to pay my due proportion of it." 
+
+There was a special provision made in the Roman law, that one peasant should not be bound for the debts of another, and it is laid down as a rule, that the goods of one person shall not be distrained for the debts of another, even if they be public debts; and in Justinian's Novels, pledges for others are forbidden, and the cause assigned for it is, because it is unreasonable that one person should incur the debt, and another be bound to the payment of it, an exaction to which the name of ODIOUS is given. King Theodoric Cassiodor, calls it a shocking licence for one man to be detained as a pledge for another.
 
 
 ## Part 2

@@ -1,10 +1,11 @@
 ---
 heading: Section 1d
 title: "Moral judgments Are Not Based On Comparisons Or Relations"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "Morality is supposed to attend certain relations."
 c: "steelblue"
+lastmod: 2026-04-10
 # date: 2015-x-x
-weight: 19
+weight: 10
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

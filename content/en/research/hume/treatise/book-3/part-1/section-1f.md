@@ -4,12 +4,11 @@ title: "Two Objections To This System"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 28
+weight: 14
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
-draft: true
 ---
 
 

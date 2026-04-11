@@ -1,7 +1,7 @@
 ---
 heading: Section 4
 title: "The Causes Of The Violent Passions"
-description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+description: "The causes and effects of the calm and violent passions is a subject of the nicest speculation in philosophy."
 c: "steelblue"
 weight: 24
 writer:

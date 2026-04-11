@@ -14,11 +14,14 @@ icon: "David Hume"
 
 
 With regard to the passions, the human mind is not like a wind-instrument which loses the sound after the breath ceases.
-        ◦ It rather resembles a stringed instrument.
-        ◦ After each stroke, the vibrations still retain some sound which gradually and insensibly decays.
+
+It rather resembles a stringed instrument.
+
+After each stroke, the vibrations still retain some sound which gradually and insensibly decays.
 
 The imagination is extremely quick and agile.
-        ◦ But the passions are slow and restive.
+
+But the passions are slow and restive.
 
 This is why, when any object is presented that affords a variety of views to the one, and emotions to the other, the fancy may change its views very quickly.
 

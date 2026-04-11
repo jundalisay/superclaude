@@ -1,9 +1,9 @@
 ---
 heading: Section 2
 title: "Moral Distinctions Derived From A Moral Sense"
-description: ""
+description: "Vice and virtue are not discoverable merely by reason, or the comparison of ideas."
 c: "steelblue"
-weight: 34
+weight: 24
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

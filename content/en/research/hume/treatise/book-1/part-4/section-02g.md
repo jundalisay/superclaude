@@ -118,8 +118,8 @@ But we shall confine ourselves to the present subject.
 There is such a constancy in almost all the impressions of the senses.
 
 Their interruption:
-produces no alteration on them, and
-does not hinder them from returning the same in appearance and in situation as at their first existence.
+- produces no alteration on them, and
+- does not hinder them from returning the same in appearance and in situation as at their first existence.
 
 I look at the furniture of my room.
 
@@ -130,10 +130,11 @@ I find the new perceptions perfectly resembling those which I had a second ago.
 This resemblance is observed in 1,000 instances.
 
 It naturally:
-connects together our ideas of these interrupted perceptions by the strongest relation, and
-conveys the mind with an easy transition from one to another.
+- connects together our ideas of these interrupted perceptions by the strongest relation, and
+- conveys the mind with an easy transition from one to another.
 
 The mind has almost the same disposition when it easily passes along the ideas of these different and interrupted perceptions and when it considers a constant and uninterrupted perception.
+
 Therefore, it is very natural for us to mistake the one for the other.
 
 

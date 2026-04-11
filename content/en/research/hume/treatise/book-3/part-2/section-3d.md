@@ -1,3 +1,17 @@
+---
+heading: Section 3d
+title: "Addressing the Objection"
+description: "It will be easy to solve this objection if we consider the imagination's agility and unsteadiness"
+c: "steelblue"
+weight: 26
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
+
+
+
 It will be easy to solve this objection if we consider the imagination's agility and unsteadiness, with the different views it is continually placing its objects in.
 
 When we attribute to a person a property in two objects, we do not always pass:
