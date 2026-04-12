@@ -63,7 +63,7 @@
 
 /* Article img captions */
 .prose-sp figure { text-align: center; margin: 2rem 0; }
-.prose-sp figcaption { font-size: 0.85rem; color: var(--color-sp-muted); font-style: italic; margin-top: 0.5rem; font-family: var(--font-display); }
+.prose-sp figcaption { font-size: 0.95rem; color: var(--color-sp-muted); font-style: italic; margin-top: 0.5rem; font-family: var(--font-display); }
 
 /* TOC sidebar smooth scroll target offset */
 :target { scroll-margin-top: 5rem; }
