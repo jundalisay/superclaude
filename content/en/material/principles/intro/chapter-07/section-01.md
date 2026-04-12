@@ -1,6 +1,7 @@
 ---
 heading: "Section 1"
 title: "Spin or Effort"
+lastmod: 2026-04-11
 # date: 2022-01-03
 image: /graphics/super/impact.jpg
 description: "In Superphysics, each layer has specific actions"
@@ -10,12 +11,12 @@ writer:
 weight: 24
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/intro/chapter-07/chapter-07
 ---
 
 
-<!-- 
-
-existence space
+<!-- existence space
 identity space
 perception space
 timespan
