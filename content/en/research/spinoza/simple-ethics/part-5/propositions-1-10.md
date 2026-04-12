@@ -13,81 +13,147 @@ weight: 6
 
 1.  The modifications of body or the images of things are arranged and associated in the body precisely in the same way that the thoughts and the ideas of things are arranged and associated in the mind. 
 
+Proof.—The order and connection of ideas is the same (II. vii.) as the order and connection of things, and vice versâ the order and connection of things is the same (II. vi. Coroll. and vii.) as the order and connection of ideas. Wherefore, even as the order and connection of ideas in the mind takes place according to the order and association of modifications of the body (II. xviii.), so vice versâ (III. ii.) the order and connection of modifications of the body takes place in accordance with the manner, in which thoughts and the ideas of things are arranged and associated in the mind. Q.E.D.
 
-2. If we remove a disturbance of the spirit, or emotion, from the thought of an external cause, and unite it to other thoughts, then will the love or hatred towards that external cause, and also the vacillations of spirit which arise from these emotions, be destroyed. 
 
-3. An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof. Proof=  An emotion, which is a passion, is a confused idea (by the general Def. of the Emotions).
+
+
+## 2. If we remove a disturbance of the spirit, or emotion, from the thought of an external cause, and unite it to other thoughts, then will the love or hatred towards that external cause, and also the vacillations of spirit which arise from these emotions, be destroyed. 
+
+Proof.—That, which constitutes the reality of love or hatred, is pleasure or pain, accompanied by the idea of an external cause (Def. of the Emotions, vi. vii.); wherefore, when this cause is removed, the reality of love or hatred is removed with it; therefore these emotions and those which arise therefrom are destroyed. Q.E.D.
+
+
+## 3. An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof. Proof=  An emotion, which is a passion, is a confused idea (by the general Def. of the Emotions).
+
+Proof.—An emotion, which is a passion, is a confused idea (by the general Def. of the Emotions). 
+
 If, therefore, we form a clear and distinct idea of a given emotion, that idea will only be distinguished from the emotion, in so far as it is referred to the mind only, by reason (2.21, and note).
+
 Therefore (3.3.), the emotion will cease to be a passion. Q.E.D.
 
-Corollary=  An emotion therefore becomes more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us.
+Corollary: An emotion therefore becomes more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us.
 
 
+## 4. There is no modification of the body, whereof we cannot form some clear and distinct conception. Proof=  Properties which are common to all things can only be conceived adequately (2.38).
 
-4. There is no modification of the body, whereof we cannot form some clear and distinct conception. Proof=  Properties which are common to all things can only be conceived adequately (2.38).
 Therefore (2.12. and Lemma 2 after 2.13.) there is no modification of the body, whereof we cannot form some clear and distinct conception. Q.E.D.
 
-Corollary=  Hence it follows that there is no emotion, whereof we cannot form some clear and distinct conception.
+Corollary: Hence it follows that there is no emotion, whereof we cannot form some clear and distinct conception.
+
 For an emotion is the idea of a modification of the body (by the general Def. of the Emotions), and must therefore (by the preceding Prop.) involve some clear and distinct conception.
 
-Note=  Everything is followed by an effect (1.36),.
+Note: Everything is followed by an effect (1.36)
 
 We clearly and distinctly understand whatever follows from an idea, which in us is adequate (2.40.).
+
 It follows that everyone has the power of clearly and distinctly understanding himself and his emotions, if not absolutely, at any rate in part.
+
 Consequently, he should become less subject to them by bringing it about.
+
 Therefore to attain this result, we must chiefly direct our efforts to acquiring , as far as possible, a clear and distinct knowledge of every emotion,so that the mind may thus, through emotion, be determined to think of those things which it clearly and distinctly perceives, and wherein it fully acquiesces.
+
 Thus, the emotion itself may be separated from the thought of an external cause, and may be associated with true thoughts.
-From where it will come to pass that= 
-love, hatred, etc. will be destroyed (5.2.), and
-and the desires, which arise from such emotions, will not be excessive (4.41.).
+
+From where it will come to pass that:
+- love, hatred, etc. will be destroyed (5.2.),
+- the desires, which arise from such emotions, will not be excessive (4.41.).
+
 It must be especially remarked, that a person's active and passive desire is one and the same.
+
 For instance, everyone wants his fellow man to live after his own fashion (3.31. note).
+
 In a man not guided by reason, this appetite is called 'ambition'.
+
 It does not greatly differ from pride.
+
 Whereas in a wise man, it is an activity or virtue called piety (4.37. note. 1. and second proof).
+
 Similarly, all appetites or desires are only passions, as they spring from inadequate ideas.
+
 The same results are accredited to virtue, when they are aroused or generated by adequate ideas.
+
 For all desires, whereby we are determined to any given action, may arise as much from adequate as from inadequate ideas (4.59.).
-Than this remedy for the emotions (to return to the point from which I started), which consists in a true knowledge thereof, nothing more excellent, being within our power, can be devised.
+
+Than this remedy for the emotions (to return to the point from which I started), which consists in a true knowledge thereof, nothing more excellent, being within our  power, can be devised.
+
 For the mind has no other power save that of thinking and of forming adequate ideas, as we have shown above (3.3.).
 
 
-5. An emotion towards a thing, which we conceive simply, and not as necessary, or as contingent, or as possible, is, other conditions being equal, greater than any other emotion. 
+## 5. An emotion towards a thing, which we conceive simply, and not as necessary, or as contingent, or as possible, is, other conditions being equal, greater than any other emotion. 
+
+
+Proof.—An emotion towards a thing, which we conceive to be free, is greater than one towards what we conceive to be necessary (III. xlix.), and, consequently, still greater than one towards what we conceive as possible, or contingent (IV. xi.). But to conceive a thing as free can be nothing else than to conceive it simply, while we are in ignorance of the causes whereby it has been determined to action (II. xxxv. note); therefore, an emotion towards a thing which we conceive simply is, other conditions being equal, greater than one, which we feel towards what is necessary, possible, or contingent, and, consequently, it is the greatest of all. Q.E.D.
+
 
 
 6. The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary. 
-Note=  The more this knowledge, that things are necessary, is applied to particular things, which we conceive more distinctly and vividly, the greater is the power of the mind over the emotions, as experience also testifies.
+
+
+Proof.—The mind understands all things to be necessary (I. xxix.) and to be determined to existence and operation by an infinite chain of causes; therefore (by the foregoing Proposition), it thus far brings it about, that it is less subject to the emotions arising therefrom, and (III. xlviii.) feels less emotion towards the things themselves. Q.E.D.
+
+Note: The more this knowledge, that things are necessary, is applied to particular things, which we conceive more distinctly and vividly, the greater is the power of the mind over the emotions, as experience also testifies.
+
 For we see, that the pain arising from the loss of any good is mitigated, as soon as the man who has lost it perceives, that it could not by any means have been preserved.
+
 So also we see that no one pities an infant, because it cannot speak, walk, or reason, or lastly, because it passes so many years, as it were, in unconsciousness.
+
 Whereas, if most people were born full—grown and only one here and there as an infant, everyone would pity the infants; because infancy would not then be looked on as a state natural and necessary, but as a fault or delinquency in Nature;
 and we may note several other instances of the same sort.
 
 
-7. Emotions which are aroused or spring from reason, if we take account of time, are stronger than those, which are attributable to particular objects that we regard as absent. 
+## 7. Emotions which are aroused or spring from reason, if we take account of time, are stronger than those, which are attributable to particular objects that we regard as absent. 
+
+Proof: We do not regard a thing as absent, by reason of the emotion wherewith we conceive it, but by reason of the body, being affected by another emotion excluding the existence of the said thing (II. xvii.)
+
+Wherefore, the emotion, which is referred to the thing which we regard as absent, is not of a nature to overcome the rest of a man's activities and power (IV. vi.), but is, on the contrary, of a nature to be in some sort controlled by the emotions, which exclude the existence of its external cause (IV. ix.). 
+
+But an emotion which springs from reason is necessarily referred to the common properties of things (see the def. of reason in II. xl. note. ii.), which we always regard as present (for there can be nothing to exclude their present existence), and which we always conceive in the same manner (II. xxxviii.). 
+
+Wherefore an emotion of this kind always remains the same; and consequently (V. Ax. i.) emotions, which are contrary thereto and are not kept going by their external causes, will be obliged to adapt themselves to it more and more, until they are no longer contrary to it; to this extent the emotion which springs from reason is more powerful. Q.E.D.
 
 
 
-8. An emotion is stronger in proportion to the number of simultaneous concurrent causes whereby it is aroused. 
+
+## 8. An emotion is stronger in proportion to the number of simultaneous concurrent causes whereby it is aroused. 
+
+
+Proof.—Many simultaneous causes are more powerful than a few (III. vii.): therefore (IV. v.), in proportion to the increased number of simultaneous causes whereby it is aroused, an emotion becomes stronger. Q.E.D.
+
+Note—This proposition is also evident from V. Ax. ii.
 
 
 
-10. So long as we are not assailed by emotions contrary to our nature, we have the power of arranging and associating the modifications of our body according to the intellectual order. 
+## 9. An emotion, which is attributable to many and diverse causes which the mind regards as simultaneous with the emotion itself, is less hurtful, and we are less subject thereto and less affected towards each of its causes, than if it were a different and equally powerful emotion attributable to fewer causes or to a single cause.
 
-Proof=  The emotions, which are contrary to our nature, that is (4.30.), which are bad, are bad in so far as they impede the mind from understanding (4.27.).
+Proof: An emotion is only bad or hurtful, in so far as it hinders the mind from being able to think (IV. xxvi. xxvii.)
+
+Therefore, an emotion, whereby the mind is determined to the contemplation of several things at once, is less hurtful than another equally powerful emotion, which so engrosses the mind in the single contemplation of a few objects or of one, that it is unable to think of anything else; this was our first point. 
+
+As the mind's essence, in other words, its power (III. vii.), consists solely in thought (II. xi.), the mind is less passive in respect to an emotion, which causes it to think of several things at once, than in regard to an equally strong emotion, which keeps it engrossed in the contemplation of a few or of a single object: this was our second point. Lastly, this emotion (III. xlviii.), in so far as it is attributable to several causes, is less powerful in regard to each of them. Q.E.D.
 
 
-Note=  By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions.
+## 10. So long as we are not assailed by emotions contrary to our nature, we have the power of arranging and associating the modifications of our body according to the intellectual order. 
+
+Proof: The emotions, which are contrary to our nature, that is (4.30.), which are bad, are bad in so far as they impede the mind from understanding (4.27.).
+
+Note: By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions.
 
 For (5.7.) a greater force is needed for controlling the emotions, when they are arranged and associated according to the intellectual order, than when they, are uncertain and unsettled.
+
 Therefore, the best we can do, so long as we do not possess a perfect knowledge of our emotions, is to frame a system of right conduct, or fixed practical precepts.
-These will commit it to memory, and to apply it forthwith[16] to our particular circumstances in life, so that our imagination may= 
-become fully imbued with them, and
-be always ready to our hand.
+
+These will commit it to memory, and to apply it forthwith[16] to our particular circumstances in life, so that our imagination may:
+- become fully imbued with them
+- be always ready to our hand
+
 For instance, we have laid down among the rules of life (4.46. and note), that hatred should be overcome with love or high-mindedness, and not required with hatred in return.
+
 This precept of reason may be always ready to our hand in time of need.
-We should often think over and reflect on= 
-the wrongs generally committed by men, and
-how they may be best warded off by high-mindedness.
+
+We should often think over and reflect on:
+- the wrongs generally committed by men
+- how they may be best warded off by high-mindedness.
+
 We shall thus associate the idea of wrong with the idea of this precept, which accordingly will always be ready for use when a wrong is done to us (2.18.).
 
 The wrong, or the hatred, which commonly arises will occupy a very small part of our imagination and will be easily overcome if= 
@@ -116,15 +182,25 @@ Let him not think of=
 - its emptiness, and
 - mankind's fickleness, and the like.
 
-whereof no man thinks except through a morbidness of disposition.
+Whereof no man thinks except through a morbidness of disposition.
+
 With thoughts like these, the most ambitious most torment themselves, when they despair of gaining the distinctions they hanker after.
+
 They thus give vent to their anger and would fain to appear wise.
+
 Wherefore those, who cry out the loudest against the misuse of honour and the vanity of the world, are those who most greedily covet it.
+
 This is not peculiar to the ambitious, but is common to all who are ill-used by fortune, and who are infirm in spirit.
+
 For a miserly poor man also will talk incessantly of the misuse of wealth and of the vices of the rich.
+
 He merely torments himself in this.
+
+
 He shows the world that he is intolerant of his own poverty and also of other people's riches.
+
 Those who have been ill-received by a woman they love think of nothing but the inconstancy, treachery, and other stock faults of women.
+
 They consign all to oblivion, directly they are again taken into favour by their sweetheart.
 
 Thus he who governs his emotions and desires solely by the love of freedom strives to= 
@@ -132,6 +208,5 @@ Thus he who governs his emotions and desires solely by the love of freedom striv
 - fill his spirit with the joy which arises from their true knowledge.
 
 He will in no wise desire to dwell on men's faults, or to carp at his fellows, or to revel in a false show of freedom.
-Whosoever will diligently observe and practise these precepts (which are not difficult) will verily, in a short time, be mostly able to direct his actions according to the commandments of reason.
 
-[16] Continuo. Rendered "constantly" by Mr. Pollock on the ground that the classical meaning of the word does not suit the context. 
+Whosoever will diligently observe and practise these precepts (which are not difficult) will verily, in a short time, be mostly able to direct his actions according to the commandments of reason.

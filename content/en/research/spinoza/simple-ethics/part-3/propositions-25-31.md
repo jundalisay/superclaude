@@ -3,6 +3,7 @@ title: "Propositions 15 to 24"
 c: "indigo"
 description: "Anything can, accidentally, be the cause of pleasure, pain, or desire"
 icon: Spinoza
+lastmod: 2026-04-11
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

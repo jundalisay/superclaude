@@ -78,7 +78,11 @@ This is the cause of men's pleasure in recalling past evils, and delight in narr
 
 For when men conceive a danger, they conceive it as still future, and are determined to fear it.
 
-This determination is checked afresh by the idea of freedom, which became associated with the idea of the danger when they escaped therefrom=  this renders them secure afresh=  therefore they rejoice afresh.
+This determination is checked afresh by the idea of freedom, which became associated with the idea of the danger when they escaped therefrom.
+
+This renders them secure afresh.
+
+Therefore, they rejoice afresh.
 
 
 ## 48. Love or hatred towards, for instance, Peter is destroyed, if the pleasure involved in the former, or the pain involved in the latter emotion, be associated with the idea of another cause and will be diminished in proportion as we conceive Peter not to have been the sole cause of either emotion. 

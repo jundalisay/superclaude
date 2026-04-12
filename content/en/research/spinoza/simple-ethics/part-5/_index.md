@@ -3,6 +3,7 @@ title: "The Power of the Understanding or of Human Freedom"
 heading: "Part 5"
 c: "indigo"
 description: "Spinoza explains human Understanding"
+a: "Spinoza"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
