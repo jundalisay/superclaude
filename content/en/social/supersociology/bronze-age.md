@@ -126,6 +126,7 @@ The departure of the Anunnaki caused civil wars as humans tried to gain power by
 
 This is evident even in the Old Testament when the Jews exploited the weakness of Egypt and conquered land themselves except those held by Nephilim remnants:
 
+
 {{< q a="Numbers 13:26-33" >}}
 They came back to Moses and Aaron and the whole Israelite community at Kadesh in the Desert of Paran. They reported and showed them the fruit of the land: “We went into the land and it does flow with milk and honey! Here is its fruit. But the people who live there are powerful, and the cities are fortified and very large. We even saw descendants of Anak there (the descendants of Anak come from the Nephilim). The Amalekites live in the Negev; the Hittites, Jebusites and Amorites live in the hill country; and the Canaanites live near the sea and along the Jordan. We can’t attack those people. They are stronger than we are. All the people there are of great size. We saw the Nephilim there. We seemed like grasshoppers to them.
 {{< /q >}}

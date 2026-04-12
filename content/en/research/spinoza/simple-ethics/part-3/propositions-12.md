@@ -11,7 +11,7 @@ weight: 9
 
 
 
-### 12. The mind endeavours as far as it can to conceive things which increases or helps the power of activity in the body. 
+## 12. The mind endeavours as far as it can to conceive things which increases or helps the power of activity in the body. 
 
 Proof: So long as the human body is affected in a mode, which involves the nature of any external body, the human mind will regard that external body as present (2.17).
 
@@ -24,7 +24,7 @@ Consequently, (3.11) the mind's power of thinking is for that period increased o
 Thus (3.6., 3.9) the mind endeavours to imagine such things as far as it can. Q.E.D.
 
 
-### 13. When the mind conceives things which reduce or hinder the body's power of activity, it endeavours to remember things which exclude the existence of the first-named things as far as possible. 
+## 13. When the mind conceives things which reduce or hinder the body's power of activity, it endeavours to remember things which exclude the existence of the first-named things as far as possible. 
 
 Proof: So long as the mind conceives anything of the kind alluded to, the power of the mind and body is reducedc or constrained (cf. 3. 12. Proof).
 

@@ -2,7 +2,7 @@
 title: "Propositions 9 to 14"
 c: "indigo"
 description: "The mind, both in so far as it has clear and distinct ideas, and also in so far as it has confused ideas, endeavours to persist in its being for an indefinite period, and of this endeavour it is conscious"
-icon: /icons/spinoza.png
+icon: Spinoza
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -11,7 +11,7 @@ weight: 8
 
 
 
-### 9. The mind consciously endeavours to persist in its being for an indefinite period
+## 9. The mind consciously endeavours to persist in its being for an indefinite period
 
 <!-- , both in so far as it has clear and distinct ideas, and also in so far as it has confused ideas,  -->
 
@@ -56,7 +56,7 @@ Thus, we never:
 - deem a thing to be good just because we strive for it, wish for it, long for it, or desire it.
 
 
-### 10. We cannot have an idea that excludes the existence of our body.
+## 10. We cannot have an idea that excludes the existence of our body.
 
 <!-- , cannot be postulated in our mind, but is contrary thereto. -->
 
@@ -71,7 +71,7 @@ Thus, an idea, which negatives the existence of our body, is contrary to our min
 
 
 
-### 11. Whatever increases helps the power of activity in our body and the power of thought in our mind. Whatever decreases hinders it.  
+## 11. Whatever increases helps the power of activity in our body and the power of thought in our mind. Whatever decreases hinders it.  
 
 <!-- , the idea thereof increases or diminishes, helps or hinders .  -->
 
@@ -114,5 +114,3 @@ For (by 2.6) the cause, why the mind affirms the existence of the body, is not t
 Therefore, for the same reason, it does not cease to affirm the body's existence, because the body ceases to exist.
 
 But (2.17) this result follows from another idea, which excludes the body's present existence and, consequently, of our mind, and which is therefore contrary to the idea constituting the essence of our mind.
-
-

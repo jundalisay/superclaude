@@ -10,7 +10,7 @@ author: Consolidated from Bashar
 
 ## Soulmates 
 
-Soulmates  are people who you need to interact with at that time. 
+Soulmates are people who you need to interact with at that time. 
 
 
 ## Breakups and Closure
@@ -29,3 +29,13 @@ He or she doesn't have to agree as long as you are honest that the breakup is fo
 
 <!-- How you feel the connection  -->
 
+
+## Love 
+
+Everything is made out of love. 
+
+Love is all there is since love is the vibration of Existence itself.
+
+Fear is love in a negative context, an illusion of disconnection.
+
+There is no lack of love. 

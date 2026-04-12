@@ -2,7 +2,7 @@
 title: "Propositions 20 to 27"
 c: "indigo"
 description: "The more every man endeavours, and is able to seek what is useful to him—in other words, to preserve his own being—the more is he endowed with virtue"
-icon: /icons/spinoza.png
+icon: Spinoza
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

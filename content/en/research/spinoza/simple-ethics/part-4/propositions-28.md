@@ -2,7 +2,7 @@
 title: "Propositions 28 to 71"
 c: "indigo"
 description: "The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God"
-icon: /icons/spinoza.png
+icon: Spinoza
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
