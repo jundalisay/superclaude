@@ -7,7 +7,7 @@ description: ""
 ---
 
 
-### Month 2
+## Month 2
 
 The process of awakening mooladhara chakra is not very difficult. It can be achieved by thousands of different methods, but the easiest of all is the concentration on the tip of the nose. This is because the part of the sensory cortex which represents mooladhara chakra is connected with the nose. At the same time, mooladhara chakra belongs to the earth element, which is directly related to the sense of smell. Therefore, we shall include nasikagra drishti - the practice of nosetip gazing, in this section, as well as moola bandha, which directly stimulates mooladhara chakra. Remember that mooladhara chakra does not have a kshetram.
 
@@ -35,7 +35,7 @@ Key to exact location of contraction points:
 3. Ashwini mudra (anal muscles/sphincters).
 
 
-### Practice 1. Chakra location
+## Practice 1. Chakra location
 
 For men :
 
@@ -84,7 +84,8 @@ upper vagina contract and squeeze the finger. If they can do this without contra
 anus or the front part of the perineum (clitoris and urinary opening), then location of
 mooladhara is correct.
 
-Practice 2: Moola bandba (the permeal lock)
+
+## Practice 2: Moola bandba (the permeal lock)
 
 Stage I:
 
@@ -115,7 +116,8 @@ practice is the same as stage 2, but without physical contraction. Continue for 
 you have time to spare. With practice, you will be able to locate the trigger point of
 mooladhara chakra exactly, merely through thought.
 
-Practice 3: Nasikagra drishti
+
+## Practice 3: Nasikagra drishti
 
 This practice is also called agochari mudra (the gesture of invisibility).
 
@@ -126,6 +128,7 @@ your eyes and relax your whole body for some time. Then open your eyes and focus
 on the nosetip. Do not strain your eyes, but try to fix your gaze on the tip of the nose.
 Respiration should be normal. When the attention of both eyes is focused on the nosetip,
 you will see that the double outlines of the nose merge to become a single solid outline.
+
 You should direct your gaze to the V-shaped point where the two outlines cross each
 other at the very tip of the nose. If you do not see a solid V-shaped outline, then both eyes
 are not fixed on the nosetip. It is then necessary to focus the eyes on your finger, ю
@@ -135,12 +138,16 @@ at will.
 
 At first you may find it difficult to hold your attention on the nosetip for more than a
 few seconds. When you feel discomfort, release the position of the eyes for a few seconds
-and then repeat the practice. Over a period of weeks, as the eyes become accustomed,
+and then repeat the practice. 
+
+Over a period of weeks, as the eyes become accustomed,
 gradually increase the duration of practice. Never strain the eyes. Once you can
 comfortably maintain a steady gaze for a minute or more, become aware of your breath as
 well as the nosetip. Feel the breath moving in and out through the nose. At the same time,
 become aware of the subtle sound the breath makes as it moves through the nasal
-passages. Try to become completely absorbed in the practice, to the exclusion of all other
+passages. 
+
+Try to become completely absorbed in the practice, to the exclusion of all other
 thoughts and external distractions. Be aware of the nosetip, the movement of the breath
 and the accompanying sound. Carry on in this manner for up to 5 minutes.
 

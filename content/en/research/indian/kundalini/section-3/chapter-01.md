@@ -16,13 +16,13 @@ He or she has to be a warrior in life and must seek the guidance of a competent 
 can point the way for the spiritual quest ahead. The kundalini yogi has to be ardent and
 faithful to his practice and his guru's instructions. He will need to devote more time each
 morning to perfect the practices given in this book.
+
 Whatever your personal aim in life, and whatever your commitments and
 responsibilities, kundalini yoga can definitely help you to become more efficient, more
 peaceful and more aware. Seek the instructions of a sannyasin or a qualified yoga teacher,
 learn the techniques in this book, and practise them systematically according to the
 amount of time you are able to spare each day. In this way, your life will be transformed
 into the most exciting adventure ever - the journey to inner experience and unitive life.
-
 
 
 The following rules and regulations apply to both the specific chakra practices and to
@@ -45,7 +45,8 @@ given in our ashrams are accompanied by compulsory food restrictions, therefore,
 should adopt similar restrictions. But please do not starve yourself or become a food
 faddist; only try to adopt sensible eating habits.
 
-Illness
+
+## Illness
 
 If you suffer from any physical illness, we advise you not to start the kundalini
 techniques given in this book. First of all you should take steps to cure your illness by
@@ -58,7 +59,8 @@ very powerful, and if you do not have some degree of mental stability, they may 
 your condition. If in doubt, contact us.
 Sound health is the basic requirement for kundalini yoga practice.
 
-Yogic preparation
+
+## Yogic preparation
 
 Before commencing the kundalini techniques given in this book, you should have
 practised other systems of yoga, especially hatha and raja yoga, for at least a few years.
@@ -67,11 +69,13 @@ In particular, you should be proficient in the following techniques: pawanmuktas
 such as sarvangasana, dhanurasana, shalabhasana, bhujangasana, matsyasana,
 paschimottanasana and ardha matsjendrasana, as well as the shatkarmas and the basic
 practices of pranayama, such as nadi shodhana.
+
 All of these techniques are fully described in the Bihar School of Yoga publication
 Asana Pranayama Mudra Bandha. However, to master these techniques you will need to
 have the regular guidance of a qualified yoga teacher.
 
-Time
+
+## Time
 
 The best time of day to do your sadhana (practice) is early in the morning, within the
 two hours before dawn. This is known as brahmamuhurta in Sanskrit, 'the time divine'.
@@ -79,7 +83,8 @@ At this time spiritual energy is high and there are likely to be fewer disturban
 external and internal, than at any other period of the day. However, if you are unable to
 practise during brahmamuhurta, choose some other time when the stomach is not loaded.
 
-Place of practice
+
+## Place of practice
 
 Try to practise in the same place every day. This will gradually build up a positive
 atmosphere which will be helpful for your sadhana.
@@ -119,4 +124,3 @@ emotions arise without suppression. Watch them with the attitude of a witness an
 continue your practice. Gradually the mind will become one-pointed. Whatever happens,
 your practice should continue. This attitude of witnessing the mind without interfering,
 can be defined as awareness.
-

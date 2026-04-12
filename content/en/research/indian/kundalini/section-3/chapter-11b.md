@@ -15,18 +15,22 @@ where words and definitions fail to reach. This practice will lead to deeper awa
 knowledge of the chakras. It is also a preparatory technique for kriya yoga as it develops
 sensitivity to both the psychic spinal passage and the chakras.
 
-Technique
+
+## Technique
 
 Sit in any comfortable meditative posture. Hold the spine erect and close the eyes.
+
 Breathe deeply. Let the breath become deeper and more subtle. Fix your awareness on the
 rhythmical flow of the breath. Continue for a number of rounds. Mentally synchronize
-the mantra Оm with the breath. The sound "O" should arise with inhalation. The sound
-'m-m-m-m-m' should arise with exhalation. This sound should only be mental. Breathe
+the mantra Оm with the breath. The sound "O" should arise with inhalation. 
+
+The sound 'm-m-m-m-m' should arise with exhalation. This sound should only be mental. Breathe
 through the nose, keeping the mouth closed. Continue in this manner with awareness of
 the flow of breath and the mantra. Now fix your attention at the eyebrow center. Feel
 that you are breathing in through that center with the mental sound "O". Feel you are
 breathing out through that center, mentally chanting 'm-m-m-m-m'. Continue with
 awareness of the breath, mantra and psychic center.
+
 Focus your attention on mooladhara. With inhalation and the sound "O-o-o-o-o", feel
 the breath passing up through the spine, piercing all the chakras - mooladhara,
 swadhisthana, manipura, anahata, vishuddhi, ajna, sahasrara.
@@ -35,18 +39,22 @@ down the spine, piercing all the chakras - sahasrara, ajna, vishuddhi, anahata, 
 swadhisthana, mooladhara.
 
 Continue for a number of rounds. Again fix your attention at the eyebrow center.
-Continue the mental repetition of Оm synchronized with the breath, but do not be aware
-of the breath. Only be aware of the mantra and the psychic center. Feel the "O" and the
-"m-m-m-m-m" sound. Continue in this manner for as long as possible.
 
-Practice 4: Chakra yoga nidra
+Continue the mental repetition of Оm synchronized with the breath, but do not be aware of the breath. Only be aware of the mantra and the psychic center. Feel the "O" and the
+"m-m-m-m-m" sound. Continue in this manner for as long as possible. 
+
+
+## Practice 4: Chakra yoga nidra
 
 Yoga nidra can be used very effectively to develop your awareness of the chakras.
 Here is an example of a yoga nidra/relaxation session which includes visualization and
 rotation of awareness through the psychic centers. Teachers can adopt this practice
 directly for their classes. For personal use, someone can lead you through the practice, or
 you can put the instructions onto a tape.
-Stage 1: Preparation
+
+
+### Stage 1: Preparation
+
 Place a folded blanket on the floor and lie on it in shavasana. Loosen your clothing so
 you feel perfectly comfortable. If necessary, cover yourself with a blanket to keep warm,
 or put a sheet over you to keep insects away. The mouth and eyes should remain closed
@@ -55,29 +63,31 @@ and neck, and that the hips and shoulders are fully relaxed. Keep the feet and l
 apart. The arms should be beside your body but not touching, and the palms should be
 facing up. Adjust your position so that you feel perfectly comfortable. Tell yourself
 firmly that you will not move your body throughout the practice.
-Stage 2: Sinking of the body
+
+### Stage 2: Sinking of the body
+
 Look at the space in front of your closed eyes. Imagine that the space surrounds your
 whole body. Your body is immersed in that space. Simultaneously be aware of your
 body. It feels very light, as light as a leaf falling from a tree. Imagine that your body is
 slowly sinking into the space that you see in front of your closed eyes, like a falling
 leaf. Your body is slowly sinking into the infinite space. Be aware of this
 feeling. Continue in this manner for a few minutes.
-Stage 3: Rhythmical breath awareness
+
+### Stage 3: Rhythmical breath awareness
+
 Become aware of your breathing. Awareness of the rise and fall of the navel with
 each breath. As you breathe in, imagine that you are sucking in air through the navel. As
 you breathe out, imagine that you are pushing air out from the navel. It is a rhythmical
 process. Do not alter the natural breath in any way, just become aware of it.
 
-Stage 4: Sankalpa
+### Stage 4: Sankalpa
 
-Repeat your sankalpa in a short positive sentence. It should be the crystallization of
-your spiritual aspiration and you should not change it. Repeat it with feeling, from the
+Repeat your sankalpa in a short positive sentence. It should be the crystallization of your spiritual aspiration and you should not change it. Repeat it with feeling, from the
 heart, not the lips. Repeat your sankalpa at least 3 times.
 
-Stage 5: Visualization - body awareness
+### Stage 5: Visualization - body awareness
 
-Try to visualize your own body. Imagine that you are viewing it from
-outside. Feel that your perception is outside and your body is an object of study. You may
+Try to visualize your own body. Imagine that you are viewing it from outside. Feel that your perception is outside and your body is an object of study. You may
 find visualization difficult - do not worry, just do your best. If you wish, you can imagine
 that there is a large mirror suspended over your body and that your body is reflected in
 it. Look at your own reflection. See your whole body: feet, knees, thighs, abdomen, chest,
@@ -85,7 +95,7 @@ both hands, arms, shoulders, neck, head, mouth, nose, ears, eyes, eyebrow center
 whole face and your whole body. Combine your rotation of awareness with visualization
 of that part. Continue in this manner for a few minutes.
 
-Stage 6: Psychic centers - rotation of awareness
+### Stage 6: Psychic centers - rotation of awareness
 
 You have to discover the location of the chakras. You have to develop awareness
 of each psychic center in the body. Start from the base of the spine and move your
@@ -94,13 +104,18 @@ the perineum, between the anus and genitals, and in the female body it is locate
 cervix - the mouth of the womb. Try to feel the sensation at mooladhara. It is a very
 specific point which you are trying to isolate. When you have found it, repeat mentally,
 'mooladhara, mooladhara, mooladhara'.
+
 Now move on to the second chakra, swadhisthana. It is located at the base of the
 spine, in the coccyx. Be aware of the sensation at that point and repeat mentally,
 'swadhisthana, swadhisthana, swadhisthana'. The third chakra is manipura. It is located in
 the spine in line with the navel. Feel this point and mentally repeat, 'manipura, manipura,
-manipura'. Then become aware of anahata chakra, located in the spine, directly behind
+manipura'. 
+
+Then become aware of anahata chakra, located in the spine, directly behind
 the center of the chest. Try to locate that point exactly and mentally repeat, 'anahata,
-anahata, anahata'. Now bring your awareness to vishuddhi chakra, situated in the spine,
+anahata, anahata'. 
+
+Now bring your awareness to vishuddhi chakra, situated in the spine,
 directly behind the throat pit. Feel the sensations arising at that point and mentally repeat,
 'vishuddhi, vishuddhi, vishuddhi'. The next chakra is ajna. It is located at the very top of
 the spine in the region of the pineal gland, directly behind the eyebrow center. Fix your
@@ -121,9 +136,11 @@ turn. Practise at least 5 rounds and as many more as time permits.
 
 ### Stage 7: Psychic centers - visualization
 
-Now try to visualize the symbols of each chakra. This is not easy, but try. You can
+Try to visualize the symbols of each chakra. This is not easy, but try. You can
 use your own personal system of psychic symbols or the traditional chakra symbols as
-follows. As each chakra is named, try to feel that point being lightly pressed by the
+follows. 
+
+As each chakra is named, try to feel that point being lightly pressed by the
 thumb, and simultaneously visualize the symbol. The psychic symbol for mooladhara is a
 deep red, four-petalled totus. Inside there is a smoky lingam around which a snake is
 coiled three and a half times with its head facing upward.Try to visualize this symbol to
@@ -136,7 +153,9 @@ Try to visualize this symbol. Move to manipura chakra. It is symbolized by a ten
 petalled yellow lotus, and in the center is a blazing fire. Visualize this symbol, imagining
 that the lotus is actually growing from manipura chakra. Proceed to anahata chakra,
 represented by a twelve-petalled blue lotus. In the center is a solitary flame burning in the
-darkness. Try to visualize this symbol while feeling the exact position in the body. Move
+darkness. 
+
+Try to visualize this symbol while feeling the exact position in the body. Move
 to vishuddhi chakra, symbolized by a sixteen-petalled purple lotus. In the middle there is
 a pure white drop of nectar. Visualize this location in the body. Then proceed to ajna
 chakra which is symbolized by a two-petalled silver-grey lotus. On the left hand petal is
@@ -149,18 +168,24 @@ symbol at the crown of the head. Now visualize all these symbols in the reverse 
 sahasrara, bindu, ajna, vishuddhi, anahata, manipura, swadhisthana and mooladhara. This
 is the end of one round. Spend a few seconds visualizing each center. Do a few more
 rounds according to the amount of time available.
-Stage 8: Eyebrow center awareness
+
+
+### Stage 8: Eyebrow center awareness
+
 Fix your attention at the eyebrow center. Feel your pulse at this point. Become aware
 of its continuous rhythmical beat. Mentally synchronize repetition of the mantra Оm with
 this pulse. Continue for a few minutes.
-Stage 9: Sankalpa and close
+
+
+### Stage 9: Sankalpa and close
+
 Repeat your sankalpa 3 times with full emphasis and feeling. Become aware of your
 natural breath. Become aware of your whole physical body. Become aware of the outer
 sense perceptions. Slowly begin to move your body. When you are fully retuned to the
 external world, slowly sit up and open your eyes.
 
 
-### Practice 5 : Unmani mudra
+## Practice 5 : Unmani mudra
 
 The word unmani means, 'no mind' or 'thoughtlessness', and refers to the state which
 arises during meditation. Therefore, unmani mudra means, 'the gesture of
@@ -176,36 +201,45 @@ Unmani mudra is easy to learn, but not so easy to perfect. The technique is as f
 Sit in any comfortable pose, with the back straight. Open the eyes wide, without
 focusing on anything external. First of all, fix your awareness at bindu. Breathe in
 deeply. Then as you breathe out, imagine your breath going down the
-spine. Simultaneously, let your awareness descend the spine, passing through all the
-chakras : ajna, vishuddhi, atiahata, manipura, swadhisthana, mooladhara, one after the
+spine. 
+
+Simultaneously, let your awareness descend the spine, passing through all the chakras : ajna, vishuddhi, atiahata, manipura, swadhisthana, mooladhara, one after the
 other. At the same time, the eyes should close slowly synchronized with the breath and
 the descent of awareness. Though your eyes are open during the practice, your attention
 should be internalized on the chakras and breath; that is, the eyes are open, but you are
 looking inside. The eyes should have closed at the end of exhalation and by the time your
 awareness reaches mooladhara chakra. This is one round. Breathe in and start the second
 round. Do 11 rounds.
+
 Note: While practising, you should not try too hard. Let it happen spontaneously. The
 practice is more mental than physical. Though the eyelids are slowly closed, the
 important thing is to feel the process mentally, and when the eyes are open, you should
 not perceive anything outside.
-Practice 6: Bija mantra sanchalana
-The word bija means "seed", mantra means "mystic sound" and sanchalana means
-"conduction". Therefore, this practice can be called "the conduction of the seed sound". It
-is one of the techniques of kriya yoga, but is not normally one of the twenty kriyas that
-we teach.
+
+
+## Practice 6: Bija mantra sanchalana
+
+The word bija means "seed", mantra means "mystic sound" and sanchalana means "conduction". 
+
+Therefore, this practice can be called "the conduction of the seed sound". It is one of the techniques of kriya yoga, but is not normally one of the twenty kriyas that
+we teach. 
+
 The practice is concerned with mentally repeating the bija mantra of each kshetram
 and chakra, one after the other, whilst simultaneously moving the awareness through
 each.
 
-Psychic passages
+
+##  Psychic passages
 
 In the following kriya, bija mantra sanchalana, as well as in a number of practices of
 kriya yoga, you will be required to move your awareness through two psychic passages
 called arohan and awarohan. The path of these passages is as follows :
+
 Arohan, the ascending passage, goes from mooladhara chakra, forward to
 swadhisthana kshetram in the pubic area, then follows the curve of the belly to manipura
 kshetram, upward to anahata kshetram and vishuddhi kshetram in the front of the throat,
 then in a straight line to bindu at the top back of the head.
+
 There is also another pathway for the arohan psychic passage that has been taught by
 tradition throughout the ages. On the ascent from mooladhara, swadhisthana kshetram
 and onwards, the awareness is taken from vishuddhi kshetram to lalana chakra in the
@@ -218,6 +252,7 @@ and use whichever one suits you best.
 Awarohan is the descending passage which starts at bindu, travels forward to ajna
 chakra, then down through sushumna in the spine, passing through all the chakras in turn
 to finally terminate at mooladhara.
+
 In the following practice you will have to familiarize yourself with these two psychic
 passages, and this will also be useful as a preparation for the kundalini kriyas.
 
@@ -238,7 +273,9 @@ eyes closed. Throughout the practice there is no physical movement; the kriya is
 mentally. Bring your attention to mooladhara chakra. Repeat the mantra lam mentally,
 once, and try to feel the vibration at mooladhara chakra. Then ascend through arohan. Let
 your attention jump to swadhisthana kshetram and repeat the mantra vam, feeling the
-vibration at that point. Jump to manipura kshetram and repeat the mantra ram. At anahata
+vibration at that point.
+
+Jump to manipura kshetram and repeat the mantra ram. At anahata
 kshetram, yam. At vishuddhi kshetram, ham. At bindu, Оm. Then descend through
 awarohan. Repeat Оm at ajna, in the center of the head. Repeat ham at vishuddhi chakra
 in the spine. At anahata chakra, yam. At manipura chakra, ram. At swadhisthana,
@@ -251,7 +288,7 @@ practise by spending some time (e.g. 5 minutes) at each kshetram or chakra, chan
 mantra aloud on a low key and feeling it vibrating at the chakra.
 
 
-### Practice 7: Drawing the chakras
+## Practice 7: Drawing the chakras
 
 Drawing of mandalas, such as the chakras, is an important part of tantra. Many of the
 practices require that the correct mandalas be constructed first of all. The creation of a
@@ -280,7 +317,9 @@ and artistic impressions of the chakras, with your own colors and symbols, as yo
 to understand them in a personal way. This expands your awareness to the many
 possibilities of experiencing not only the chakras, but life itself.
 The chakras should not be interpreted on just one or two levels, but in many
-dimensions. After drawing and painting the chakras successfully, you can then take the
+dimensions. 
+
+After drawing and painting the chakras successfully, you can then take the
 next step and create the chakras in a three-dimensional form. For this you can use any
 number of materials such as clay, plasticine, wire, fiberglass, copper or stone.
 You must remember, however, that the traditional drawings are as subjective as your

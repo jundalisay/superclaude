@@ -34,7 +34,7 @@ In the descriptions of the kundalini practices, we have stated the best asana fo
 practice. Only use one of the alternative asanas if the recommended asana is not suitable.
 
 
-### Practice 1: Siddhasana
+## Practice 1: Siddhasana
 
 The accomplished pose (for men).
 
@@ -61,7 +61,7 @@ a balanced posture. However, the blanket or cushion should not be too thick. One
 inches in height should be enough. There must be a sustained but comfortable awareness
 of pressure on the perineal trigger point.
 
-### Practice 2: Siddha yoni asana
+## Practice 2: Siddha yoni asana
 
 The accomplished pose (for women)
 
@@ -80,7 +80,7 @@ the pelvis.Fold the other leg and place its foot on top of the other thigh.The s
 be straight, the neck, head and shoulders should be relaxed and the body should be
 steady.
 
-### Practice 4 : Utthan padasana
+## Practice 4 : Utthan padasana
 
 The raised heel pose
 
@@ -89,7 +89,7 @@ body so that you arc sitting on the right foot. The right heel should press the 
 the entrance to the vagina). The left foot remains outstretched. This asana may also be
 performed with the left leg folded into the perineum and the right leg outstretched.
 
-### Practice 5: Bhadrasana
+## Practice 5: Bhadrasana
 
 The gentleman's pose
 

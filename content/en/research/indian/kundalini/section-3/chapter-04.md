@@ -7,7 +7,7 @@ description: ""
 ---
 
 
-### Month 1
+## Month 1
 
 Direct concentration on ajna chakra is very difficult, and for this reason, in tantra
 and yoga the mid-eyebrow center (which in fact is the kshetram of ajna), is used to
@@ -54,7 +54,7 @@ before you commence your other sadhana. For complete details refer to the Bihar 
 of Yoga publication Asana Pranayama Mudra Bandha.\
 
 
-### Practice 1: Anuloma viloma pranayama (the coming and going breath)
+## Practice 1: Anuloma viloma pranayama (the coming and going breath)
 
 Sit in a comfortable meditative posture. Make sure the spine is erect and the body is
 relaxed. The body must become absolutely still. After some minutes, begin to develop
@@ -137,7 +137,7 @@ physical atmosphere, but the mental and psychic atmospheres also. In this stilln
 success in trataka is readily attained.
 
 
-### Other forms of trataka
+## Other forms of trataka
 
 Trataka can be practised on a small dot, the full moon, a shadow, a crystal ball, the
 nosetip, an image in water, a yantra, darkness, a shivalingam and many other things.
@@ -162,7 +162,8 @@ eyes are fixed and unmoving, the mind becomes the same. The thinking process
 automatically ceases as concentration increases. It brings control to the tempestuous
 rnind, and spiritually it awakens ajna chakra.
 
-Practice 3: Shambhavi mudra with Om chanting
+
+## Practice 3: Shambhavi mudra with Om chanting
 
 Eyebrow center gazing
 
@@ -172,6 +173,7 @@ Sit in any meditative pose with the back straight and hands on the knees. Look
 forward at a fixed point, and then look upward as high as possible without moving the
 head. Focus the eyes and concentrate on the eyebrow center. Try to suspend the thought
 processes and meditate on ajna chakra.
+
 Repeat Om, Om, Om, with awareness of the sound vibrations at the eyebrow center
 into which you are gazing. Each Оm should be produced in a soft clear voice, with
 awareness of every vibration of the mantra in the eyebrow center. Each mantra should be
@@ -182,7 +184,9 @@ minutes.
 
 The eyes are closed, but the inner gaze remains in the eyebrow center.Begin to
 chant the mantra more slowly, with full awareness of the sound vibration in the eyebrow
-center. Imagine that the sound is being emitted from within the eyebrow center itself.
+center. 
+
+Imagine that the sound is being emitted from within the eyebrow center itself.
 Gradually and effortlessly increase the duration of each Om, making it long and
 continuous. The sound should be steady and of an even key, ending on completion of the
 breath. Then refill the lungs completely by breathing through the nose, but do not alter
@@ -192,11 +196,14 @@ emerging from the eyebrow center. Practise for 5 minutes.
 ### Stage 3
 
 Continue to chant the mantra Оm, but become aware of the sound reverberating
-throughout the body. Try to be aware of the sound only, listening to its vibration
+throughout the body.
+
+Try to be aware of the sound only, listening to its vibration
 emerging from the eyebrow center and permeating the whole body. Do not be self-
 conscious, but allow the sound to manifest itself fully, maintaining awareness of the
 vibration of the sound only. Practise for 5 minutes. Gradually the duration of the practice
 can be lengthened.
+
 Caution: Do not strain the eye muscles; when they become tired or slightly strained,
 release shambhavi mudra.
 

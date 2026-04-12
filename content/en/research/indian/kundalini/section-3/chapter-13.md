@@ -35,8 +35,7 @@ that you can feel them both physically and mentally.
 You should also know the position of the two psychic pathways known as arohan and
 awarohan. They are explained in the practice called "Bija mantra sanchalana" in chapter
 
-11.
-The following techniques are integral parts of the 20 kriyas:
+11. The following techniques are integral parts of the 20 kriyas:
 
 Name Chapter
 vipareeta karani asana 9
