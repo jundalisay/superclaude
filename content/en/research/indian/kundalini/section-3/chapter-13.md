@@ -124,7 +124,9 @@ maha mudra, maha bheda mudra, tadan kriya, naumukhi and shakti chalini. Regular 
 practice will gradually bring such changes into the mind and body, that after some time,
 you will be able to practise the kriyas almost effortlessly.
 
-2. Do not hold your breath for longer than is comfortable. In many of the kriyas, such
+2. Do not hold your breath for longer than is comfortable.
+
+In many of the kriyas, such
 as maha mudra and maha bheda mudra, most people will initially find difficulty in
 completing a full round in one respiration cycle without strain or suffocation. In the
 beginning, it may be necessary to break in the middle of each round, or to take a short

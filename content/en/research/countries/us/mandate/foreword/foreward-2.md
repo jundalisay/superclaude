@@ -2,6 +2,7 @@
 heading: Foreword 2
 title: "The Conservative Promise"
 weight: 2
+lastmod: 2026-04-11
 # date: 2023-06-17
 description: "Heritage Foundation"
 c: "firebrick"
@@ -81,54 +82,30 @@ Today the Left is threatening the tax-exempt status of churches and charities th
 
 The next conservative President must make the institutions of American civil society hard targets for woke culture warriors. This starts with deleting the terms sexual orientation and gender identity (“SOGI”), diversity, equity, and inclusion
 
-(“DEI”), gender, gender equality, gender equity, gender awareness, gender-sensitive, abortion, reproductive health, reproductive rights, and any other term used to deprive Americans of their First Amendment rights out of every federal rule,
-agency regulation, contract, grant, regulation, and piece of legislation that exists.
+(“DEI”), gender, gender equality, gender equity, gender awareness, gender-sensitive, abortion, reproductive health, reproductive rights, and any other term used to deprive Americans of their First Amendment rights out of every federal rule, agency regulation, contract, grant, regulation, and piece of legislation that exists.
 
-Pornography, manifested today in the omnipresent propagation of transgender
-ideology and sexualization of children, for instance, is not a political Gordian knot
-inextricably binding up disparate claims about free speech, property rights, sexual
-liberation, and child welfare. 
+Pornography, manifested today in the omnipresent propagation of transgender ideology and sexualization of children, for instance, is not a political Gordian knot inextricably binding up disparate claims about free speech, property rights, sexual liberation, and child welfare. 
 
-The people who produce and distribute it should
-be imprisoned. Educators and public librarians who purvey it should be classed
-as registered sex offenders. And telecommunications and technology firms that
-facilitate its spread should be shuttered.
+The people who produce and distribute it should be imprisoned.
 
-In our schools, the question of parental authority over their children’s education
-is a simple one: Schools serve parents, not the other way around. That is, of course,
-the best argument for universal school choice—a goal all conservatives and con-
-servative Presidents must pursue. But even before we achieve that long-term goal,
-parents’ rights as their children’s primary educators should be non-negotiable in
-American schools. States, cities and counties, school boards, union bosses, princi-
-pals, and teachers who disagree should be immediately cut off from federal funds.
-The noxious tenets of “critical race theory” and “gender ideology” should be
-excised from curricula in every public school in the country. 
+Educators and public librarians who purvey it should be classed as registered sex offenders. And telecommunications and technology firms that facilitate its spread should be shuttered.
 
-These theories poison
-our children, who are being taught on the one hand to affirm that the color of their
-skin fundamentally determines their identity and even their moral status while
-on the other they are taught to deny the very creatureliness that inheres in being
-human and consists in accepting the givenness of our nature as men or women.
-Allowing parents or physicians to “reassign” the sex of a minor is child abuse and
-must end. For public institutions to use taxpayer dollars to declare the superiority
-or inferiority of certain races, sexes, and religions is a violation of the Constitu-
-tion and civil rights law and cannot be tolerated by any government anywhere in
-the country.
+In our schools, the question of parental authority over their children’s education is a simple one: Schools serve parents, not the other way around. That is, of course,
+the best argument for universal school choice—a goal all conservatives and conservative Presidents must pursue. But even before we achieve that long-term goal, parents’ rights as their children’s primary educators should be non-negotiable in American schools.
 
-But the pro-family promises expressed in this book, and central to the next
-conservative President’s agenda, must go much further than the traditional, narrow
+States, cities and counties, school boards, union bosses, principals, and teachers who disagree should be immediately cut off from federal funds. 
+
+The noxious tenets of “critical race theory” and “gender ideology” should be excised from curricula in every public school in the country. 
+ 
+These theories poison our children, who are being taught on the one hand to affirm that the color of their skin fundamentally determines their identity and even their moral status while on the other they are taught to deny the very creatureliness that inheres in being human and consists in accepting the givenness of our nature as men or women.
+
+Allowing parents or physicians to “reassign” the sex of a minor is child abuse and must end. For public institutions to use taxpayer dollars to declare the superiority or inferiority of certain races, sexes, and religions is a violation of the Constitution and civil rights law and cannot be tolerated by any government anywhere in the country.
+
+But the pro-family promises expressed in this book, and central to the next conservative President’s agenda, must go much further than the traditional, narrow
 definition of “family issues.” Every threat to family stability must be confronted.
-This resolve should color each of our policies. Consider our approach to Big
-Tech. The worst of these companies prey on children, like drug dealers, to get them
-addicted to their mobile apps. Many Silicon Valley executives famously don’t let
-their own kids have smart phones.2 They nevertheless make billions of dollars
-addicting other people’s children to theirs. 
 
-TikTok, Instagram, Facebook, Twitter,
-and other social media platforms are specifically designed to create the digital dependencies that fuel mental illness and anxiety, to fray children’s bonds with their parents and siblings. Federal policy cannot allow this industrial-scale child
-abuse to continue.
+This resolve should color each of our policies. Consider our approach to Big Tech. The worst of these companies prey on children, like drug dealers, to get them addicted to their mobile apps. Many Silicon Valley executives famously don’t let their own kids have smart phones.2 They nevertheless make billions of dollars addicting other people’s children to theirs. 
 
-Finally, conservatives should gratefully celebrate the greatest pro-family win
-in a generation: overturning Roe v. Wade, a decision that for five decades made a
-mockery of our Constitution and facilitated the deaths of tens of millions of unborn
-children. 
+TikTok, Instagram, Facebook, Twitter, and other social media platforms are specifically designed to create the digital dependencies that fuel mental illness and anxiety, to fray children’s bonds with their parents and siblings. Federal policy cannot allow this industrial-scale child abuse to continue.
+
+Finally, conservatives should gratefully celebrate the greatest pro-family win in a generation: overturning Roe v. Wade, a decision that for five decades made a mockery of our Constitution and facilitated the deaths of tens of millions of unborn children. 
