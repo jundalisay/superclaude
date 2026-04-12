@@ -1,8 +1,8 @@
 ---
-title: The Superiority of the Aryan Race
+title: The Evolution of the Jew
 heading: Chapter 11g
 weight: 100
-description: "The Aryan race has been, and still is, the standard-bearer of human progress."
+description: "The distinctive characteristics which separated them from other races could not be easily overcome."
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
@@ -12,11 +12,21 @@ icon: "Adolf Hitler"
 
 
 
-(h) At this stage a transformation began to take place in the world of Jewry. 
+(h) At this stage, a transformation began to take place in the world of Jewry. 
 
-Up to now they had been Jews--that is to say, they did not hitherto set any great value on pretending to be something else; and anyhow the distinctive characteristics which separated them from other races could not be easily overcome. 
+Up to now they had been Jews. 
 
-Even as late as the time of Frederick the Great nobody looked upon the Jews as other than a 'foreign' people, and Goethe rose up in revolt against the failure legally to prohibit marriage between Christians and Jews. Goethe was certainly no reactionary and no time-server. What he said came from the voice of the blood and the voice of reason.
+<!-- They did not hitherto set any great value on pretending to be something else; and anyhow  -->
+
+The distinctive characteristics which separated them from other races could not be easily overcome. 
+
+Even as late as the time of Frederick the Great, Jews were merely a 'foreign' people.
+
+Goethe:
+- rose up in revolt against the failure legally to prohibit marriage between Christians and Jews. 
+- was no reactionary and no time-server. 
+
+What he said came from the voice of the blood and the voice of reason.
 
 Notwithstanding the disgraceful happenings taking place in Court circles, the people recognized instinctively that the Jew was the foreign body in their own flesh and their attitude towards him was
 directed by recognition of that fact.
@@ -49,7 +59,7 @@ and political rights.
 That was the reason for his emancipation from the Ghetto.
 
 
-(i) And thus the Court Jew slowly developed into the national Jew. But naturally he still remained associated with persons in higher quarters and he even attempted to push his way further into the inner circles of the ruling set. But at the same time some other
+(i) Thus the Court Jew slowly developed into the national Jew. But naturally he still remained associated with persons in higher quarters and he even attempted to push his way further into the inner circles of the ruling set. But at the same time some other
 representatives of his race were currying favour with the people. 
 
 If we remember the crimes the Jew had committed against the masses of the people in the course of so many centuries, how repeatedly and ruthlessly he exploited them and how he sucked out even the very marrow of their substance, and when we further remember how they

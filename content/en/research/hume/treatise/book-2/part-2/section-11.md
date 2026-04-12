@@ -11,7 +11,6 @@ icon: "David Hume"
 ---
 
 
-
 The love between the man and woman, most deserves our attention of all the compound passions arising from a mixture of love and hatred with other affections, because of:
 - its force and violence
 - those curious principles of philosophy behind it.
@@ -26,8 +25,8 @@ The origin of kindness from beauty is explained from the foregoing reasoning.
 The question is how the bodily appetite is excited by it.
 
 The appetite of generation, when confined to a certain degree:
-        ◦ is of the pleasant kind
-        ◦ has a strong connection with all the agreeable emotions.
+- is of the pleasant kind
+- has a strong connection with all the agreeable emotions.
 
 The following all encourage this desire:
 - Joy, mirth, vanity, and kindness
@@ -75,9 +74,12 @@ From these two relations (resemblance and a parallel desire), a connection arise
 These 3 become inseparable.
 
 It is indifferent which of them advances first.
-        ◦ Since any of them is almost sure to be attended with the related affections.
-    • A man inflamed with lust, at least feels a momentary kindness towards its object or woman.
-        ◦ At the same time, he fancies her more beautiful than ordinary.
+
+Since any of them is almost sure to be attended with the related affections.
+
+A man inflamed with lust, at least feels a momentary kindness towards its object or woman.
+
+At the same time, he fancies her more beautiful than ordinary.
 
 There are as many who begin with kindness and esteem for the person’s wit and merit, and advance from that to the other passions.
 

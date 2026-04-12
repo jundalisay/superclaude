@@ -42,25 +42,30 @@ These relations can:
 - convey the vivacity of the latter into the former perfectly as to lose nothing of it in the transition.
 
 We may easily conceive how the relation of cause and effect alone, may serve to strengthen and enliven an idea.
-        ◦ In sympathy, there is an evident conversion of an idea into an impression.
-        ◦ This conversion arises from the relation of objects to our self.
-        ◦ Our self is always intimately present to us.
+
+In sympathy, there is an evident conversion of an idea into an impression.
+
+This conversion arises from the relation of objects to our self.
+
+Our self is always intimately present to us.
 
 If we compare all these circumstances, we shall find that sympathy:
-        ◦ is exactly correspondent to the operations of our understanding.
-        ◦ even contains something more surprising and extraordinary.
+- is exactly correspondent to the operations of our understanding.
+- even contains something more surprising and extraordinary.
 
 We will now view sympathy’s influence on pride and humility, when they arise from:
-        ◦ praise and blame
-        ◦ reputation and infamy.
+- praise and blame
+- reputation and infamy.
 
 No person is ever praised by another for any quality which would not produce a pride in the person who has it.
-        ◦ The praises turn on a person’s power, riches, family, or virtue.
-            ▪ All of these are subjects of vanity.
+
+The praises turn on a person’s power, riches, family, or virtue.
+
+All of these are subjects of vanity.
 
 If a person considered himself in the same light he appears to his admirer, he would:
-        ◦ first receive a separate pleasure
-        ◦ afterwards receive a pride or self-satisfaction, according to the hypothesis above explained.
+- first receive a separate pleasure
+- afterwards receive a pride or self-satisfaction, according to the hypothesis above explained.
 
 Nothing is more natural than for us to embrace the opinions of others in this, from:
 - sympathy
@@ -69,43 +74,64 @@ Nothing is more natural than for us to embrace the opinions of others in this, f
   - It makes us regard their judgment as a kind of argument for what they affirm.
 
 These 2 principles of authority and sympathy influence almost all our opinions.
-        ◦ They must have a peculiar influence when we judge of our own worth and character.
-        ◦ Such judgments are always attended with passion (Book 1, Part 3, Sec. 10).
-    • Nothing tends more to disturb our understanding, and precipitate us into any opinions, however unreasonable, than their connection with passion which:
-        ◦ diffuses itself over the imagination
-        ◦ gives an additional force to every related idea.
-    • Being conscious of great partiality in our own favour, we are:
-        ◦ peculiarly pleased with anything that confirms the good opinion we have of ourselves
-        ◦ easily shocked with whatever opposes it.
-    • All this appears very probable in theory.
-    • But to bestow a full certainty on this reasoning, we must examine the phenomena of the passions and see if they agree with it.
-    • Among these phenomena, is that where we receive more satisfaction from the approbation of people we esteem, than of those we hate and despise.
-        ◦ Similarly, we are:
-            ▪ principally mortified with the contempt of persons, whose judgment we value.
-            ▪ slightly indifferent about the opinions of the rest of mankind.
-    • But if the mind received, from any original instinct, a desire of fame and aversion to infamy:
-        ◦ fame and infamy would influence us without distinction.
-        ◦ every opinion would equally excite that desire or aversion.
-            ▪ A fool’s judgment would be another person’s judgment and that of a wise man.
-            ▪ These would be only inferior in its influence on our own judgment.
-    • We are better pleased with the approbation of a wise man than with that of a fool.
-    • We receive an additional satisfaction from the former, when it is obtained after a long and intimate acquaintance.
-    • The praises of others never give us much pleasure, unless they:
-        ◦ concur with our own opinion
-        ◦ extol us for those qualities we chiefly excel in.
-    • A mere soldier values little eloquence.
-        ◦ A civilian, courage
-        ◦ A bishop, humour, or
-        ◦ A merchant, learning.
-    • The world’s opinions on a quality, which one person does not have, will give that person little pleasure because they never will be able to draw his own opinion after them.
-    • Men of good families but narrow circumstances usually leave their friends and country.
-        ◦ They rather seek their livelihood by mean and mechanical employments among strangers, than among those who are acquainted with their birth and education.
-    • They say, we shall be unknown where we go.
-        ◦ Nobody will suspect from what family we are sprung.
-        ◦ We shall be removed from all our friends and acquaintance.
-        ◦ Our poverty and meanness will sit easier on us.
-    • I find that these sentiments afford very convincing arguments for my present purpose.
-    1. The uneasiness of being contemned depends on sympathy.
+
+They must have a peculiar influence when we judge of our own worth and character.
+
+Such judgments are always attended with passion (Book 1, Part 3, Sec. 10).
+
+Nothing tends more to disturb our understanding, and precipitate us into any opinions, however unreasonable, than their connection with passion which:
+- diffuses itself over the imagination
+- gives an additional force to every related idea.
+
+Being conscious of great partiality in our own favour, we are:
+- peculiarly pleased with anything that confirms the good opinion we have of ourselves
+- easily shocked with whatever opposes it.
+
+All this appears very probable in theory.
+
+But to bestow a full certainty on this reasoning, we must examine the phenomena of the passions and see if they agree with it.
+
+Among these phenomena, is that where we receive more satisfaction from the approbation of people we esteem, than of those we hate and despise.
+
+Similarly, we are:
+- principally mortified with the contempt of persons, whose judgment we value.
+- slightly indifferent about the opinions of the rest of mankind.
+
+But if the mind received, from any original instinct, a desire of fame and aversion to infamy:
+- fame and infamy would influence us without distinction.
+- every opinion would equally excite that desire or aversion.
+
+A fool’s judgment would be another person’s judgment and that of a wise man.
+
+These would be only inferior in its influence on our own judgment.
+
+We are better pleased with the approbation of a wise man than with that of a fool.
+
+We receive an additional satisfaction from the former, when it is obtained after a long and intimate acquaintance.
+
+The praises of others never give us much pleasure, unless they:
+- concur with our own opinion
+- extol us for those qualities we chiefly excel in.
+
+A mere soldier values little eloquence.
+- A civilian, courage
+- A bishop, humour, or
+- A merchant, learning.
+
+The world’s opinions on a quality, which one person does not have, will give that person little pleasure because they never will be able to draw his own opinion after them.
+
+Men of good families but narrow circumstances usually leave their friends and country.
+
+They rather seek their livelihood by mean and mechanical employments among strangers, than among those who are acquainted with their birth and education.
+
+They say, we shall be unknown where we go.
+- Nobody will suspect from what family we are sprung.
+- We shall be removed from all our friends and acquaintance.
+- Our poverty and meanness will sit easier on us.
+
+I find that these sentiments afford very convincing arguments for my present purpose.
+
+1. The uneasiness of being contemned depends on sympathy.
         ◦ That sympathy depends on the relation of objects to ourselves, since we are most uneasy under the contempt of persons related to us by blood and contiguous in place.
         ◦ Hence we seek to reduce this sympathy and uneasiness by:
             ▪ separating these relations

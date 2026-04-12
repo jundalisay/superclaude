@@ -1,8 +1,9 @@
 ---
 heading: Section 1
 title: "Moral Distinctions Not Derived From Reason"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "Do we distinguish between good and bad, vice and virtue through our ideas or impressions?"
 c: "steelblue"
+lastmod: 2026-04-10
 # date: 2015-x-x
 weight: 4
 writer:

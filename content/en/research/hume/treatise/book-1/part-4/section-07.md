@@ -31,6 +31,7 @@ I must employ the wretched condition, weakness, and disorder of the faculties in
 The impossibility of amending or correcting these faculties, reduces me almost to despair.
 
 It makes me resolve to perish on the barren rock where I am at present, rather than venture on that boundless ocean.
+
 This sudden view of my danger strikes me with sadness.
 
 Sadness usually indulges itself.
@@ -59,9 +60,13 @@ I have exposed myself to the enmity of all metaphysicians, logicians, mathematic
 Can I wonder at the insults I must suffer?
 
 I have declared my disapprobation of their systems.
+
 Can I be surprised, if they would hate me and my system?
+
 I see dispute, contradiction, anger, calumny and detraction on every side.
+
 When I look inward, I find nothing but doubt and ignorance.
+
 All the world conspires to oppose and contradict me.
 
 Such is my weakness, that I feel all my opinions loosen and fall by themselves, when unsupported by the approbation of others.
@@ -178,4 +183,3 @@ This question is very difficult.
 It reduces us to a very dangerous dilemma, no matter how we answer it.
 
 Dilemma 1a: If we assent to every trivial suggestion of the fancy, they would lead us into errors, absurdities, and obscurities.
-

@@ -1,7 +1,7 @@
 ---
 heading: Section 9
 title: "The Direct Passions"
-description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+description: "The direct and indirect passions are founded on pain and pleasure."
 c: "steelblue"
 weight: 46
 writer:
@@ -9,7 +9,6 @@ writer:
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
-
 
 
 The direct and indirect passions are founded on pain and pleasure.
@@ -27,8 +26,8 @@ The following direct passions arise naturally from good and evil with the least 
 - hope and fear, along with volition.
 
 By an original instinct, the mind tends to unite itself with the good and to avoid the evil, though they are:
-        ◦ conceived merely in idea
-        ◦ considered to exist in any future period of time.
+- conceived merely in idea
+- considered to exist in any future period of time.
 
 If pride or humility and love or hatred were excited by objects through dormant principles of the human mind, the propensity which unites or separates us from the object would still operate, but in conjunction with the indirect passions arising from a double relation of impressions and ideas.
 

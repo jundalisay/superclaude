@@ -13,15 +13,19 @@ icon: "Adolf Hitler"
 
 What seems an obstacle to many persons is really a preliminary condition of our victory. 
 
-Just because our task is so great and because so many difficulties have to be overcome, the highest probability is that only the best kind of protagonists will join our ranks.
+Our task is so great. So many difficulties have to be overcome. This is why only the best kind of protagonists will join our ranks.
 
-This selection is the guarantee of our success. Nature generally takes certain measures to correct the effect which racial mixture produces in life. She is not much in  favour of the mongrel.
+This selection is the guarantee of our success. 
 
-The later products of cross-breeding have to suffer bitterly, especially the third, fourth and fifth generations. Not only are they deprived of the higher qualities that belonged to the parents who participated in the first mixture, but they also lack definite will-power and vigorous vital energies owing to the lack of harmony in the quality of their blood.
+Nature generally corrects the effect which racial mixture produces in life. She is not much in favour of the mongrel.
 
-At all critical moments in which a person of pure racial blood makes correct decisions, that is to say, decisions that are coherent and
-uniform, the person of mixed blood will become confused and take measures that are
-incoherent. 
+The later products of cross-breeding have to suffer bitterly, especially the third, fourth and fifth generations. 
+
+They are deprived of:
+- the higher qualities that belonged to the parents who participated in the first mixture
+- definite will-power and vigorous vital energies owing to the lack of harmony in the quality of their blood.
+
+At all critical moments in which a person of pure racial blood makes correct decisions, that is to say, decisions that are coherent and uniform, the person of mixed blood will become confused and take measures that are incoherent. 
 
 Hence we see that a person of mixed blood is not only relatively inferior to a person of pure blood, but is also doomed to become extinct more rapidly. 
 
@@ -49,13 +53,11 @@ Such a process may set in automatically among those people where a strong racial
 As soon as this compulsion ceases, that part of the race which has remained intact will tend to marry with its own kind and thus impede
 further intermingling. Then the mongrels recede quite naturally into the background unless their numbers had increased so much as to be able to withstand all serious resistance from those elements which had preserved the purity of their race.
 
-When men have lost their natural instincts and ignore the obligations imposed on them by Nature, then there is no hope that Nature will correct the loss that has been caused, until recognition of the lost instincts has been restored. Then the task of bringing back
-what has been lost will have to be accomplished. 
+When men have lost their natural instincts and ignore the obligations imposed on them by Nature, then there is no hope that Nature will correct the loss that has been caused, until recognition of the lost instincts has been restored. Then the task of bringing back what has been lost will have to be accomplished. 
 
-But there is serious danger that those who have become blind once in this respect will continue more and more to break
-down racial barriers and finally lose the last remnants of what is best in them. What
-then remains is nothing but a uniform mish-mash, which seems to be the dream of our
-fine Utopians. 
+But there is serious danger that those who have become blind once in this respect will continue more and more to break down racial barriers and finally lose the last remnants of what is best in them. 
+
+What then remains is nothing but a uniform mish-mash, which seems to be the dream of our fine Utopians. 
 
 But that mish-mash would soon banish all ideals from the world. 
 
@@ -88,7 +90,9 @@ They talk about the Spirit, but they allow man, as the embodiment of the Spirit,
 To balance this state of affairs they try to convert the Hottentots and the Zulus and the Kaffirs and to bestow on them the blessings of the
 Church. While our European people, God be praised and thanked, are left to become the victims of moral depravity, the pious missionary goes out to Central Africa and establishes missionary stations for negroes. Finally, sound and healthy--though primitive and backward--people will be transformed, under the name of our 'higher civilization', into a motley of lazy and brutalized mongrels.
 
-It would better accord with noble human aspirations if our two Christian denominations would cease to bother the negroes with their preaching, which the negroes do not want and do not understand. It would be better if they left this work alone, and if, in its stead, they tried to teach people in Europe, kindly and seriously, that it is much more pleasing to God if a couple that is not of healthy stock were to show loving kindness to some poor orphan and become a father and mother to him, rather than give life to a sickly child that will be a cause of suffering and unhappiness to all.
+It would better accord with noble human aspirations if our two Christian denominations would cease to bother the negroes with their preaching, which the negroes do not want and do not understand.
+
+It would be better if they left this work alone, and if, in its stead, they tried to teach people in Europe, kindly and seriously, that it is much more pleasing to God if a couple that is not of healthy stock were to show loving kindness to some poor orphan and become a father and mother to him, rather than give life to a sickly child that will be a cause of suffering and unhappiness to all.
 
 In this field the People's State will have to repair the damage that arises from the fact that the problem is at present neglected by all the various parties concerned. It will be the task of the People's State to make the race the centre of the life of the community. It must make sure that the purity of the racial strain will be preserved. It must proclaim the truth that the child is the most valuable possession a people can have. 
 
@@ -96,7 +100,9 @@ It must see to it that only those who are healthy shall beget children; that the
 
 But, on the other hand, it must be considered as reprehensible conduct to refrain from giving healthy children to the nation. In this matter the State must assert itself as the trustee of a millennial future, in face of which the egotistic desires of the individual count for nothing and will have to give way before the ruling of the State. 
 
-In order to fulfil this duty in a practical manner the State will have to avail itself of modern medical discoveries. It must proclaim as unfit for procreation all those who are inflicted with some visible hereditary disease or are the carriers of it; and practical measures must be adopted to have such people rendered sterile. On the other hand, provision must be made for the normally fertile woman so that she will not be restricted in child-bearing through the financial and economic system operating in a political regime that looks upon the blessing of having children as a curse to their parents. 
+In order to fulfil this duty in a practical manner the State will have to avail itself of modern medical discoveries. It must proclaim as unfit for procreation all those who are inflicted with some visible hereditary disease or are the carriers of it; and practical measures must be adopted to have such people rendered sterile. 
+
+On the other hand, provision must be made for the normally fertile woman so that she will not be restricted in child-bearing through the financial and economic system operating in a political regime that looks upon the blessing of having children as a curse to their parents. 
 
 The State will have to abolish the cowardly and even criminal indifference with which the problem of social amenities for large families is treated, and it will have to be the supreme protector of this greatest blessing that a people can boast of. Its attention and care must be directed towards the child rather than the adult.
 
@@ -140,11 +146,15 @@ Either the German youth will one day create a new State founded on the racial id
 
 For if a generation suffers from defects which it recognizes and even admits and is nevertheless quite pleased with itself, as the bourgeois world is to-day, resorting to the cheap excuse that nothing can be done to remedy the situation, then such a generation is doomed to disaster. 
 
-A marked characteristic of our bourgeois world is that they no longer can deny the evil conditions that exist. They have to admit that there is much which is foul and wrong; but they are not able to make up their minds to fight against that evil, which would mean putting forth the energy to mobilize the forces of 60 or 70 million people and thus oppose this menace. They do just the opposite. 
+A marked characteristic of our bourgeois world is that they no longer can deny the evil conditions that exist. 
+
+They have to admit that there is much which is foul and wrong; but they are not able to make up their minds to fight against that evil, which would mean putting forth the energy to mobilize the forces of 60 or 70 million people and thus oppose this menace. They do just the opposite. 
 
 When such an effort is made elsewhere they only indulge in silly comment and try from a safe distance to show that such an enterprise is theoretically impossible and doomed to failure. 
 
-No arguments are too stupid to be employed in the service of their own pettifogging opinions and their knavish moral attitude. If, for instance, a whole continent wages war against alcoholic intoxication, so as to free a whole people from this devastating vice, our bourgeois European does not know better than to look sideways stupidly, shake the head in doubt and ridicule the movement with a superior sneer--a state of mind which is effective in a society that is so ridiculous. 
+No arguments are too stupid to be employed in the service of their own pettifogging opinions and their knavish moral attitude. 
+
+If, for instance, a whole continent wages war against alcoholic intoxication, so as to free a whole people from this devastating vice, our bourgeois European does not know better than to look sideways stupidly, shake the head in doubt and ridicule the movement with a superior sneer--a state of mind which is effective in a society that is so ridiculous. 
 
 But when all these stupidities miss their aim and in that part of the world this sublime and intangible attitude is treated effectively and success attends the movement, then such success is called into question or its importance minimized. Even moral principles are used in this slanderous campaign against a movement which aims at suppressing a great source of immorality.
 
@@ -154,7 +164,9 @@ That is why those political societies which call themselves 'bourgeois parties' 
 
 Their highest aim is to defend their own egoistic interests as best they can. It is obvious that such a guild, consisting of bourgeois politicians, may be considered fit for anything rather than a struggle, especially when the adversaries are not cautious shopkeepers but the proletarian masses, goaded on to extremities and determined not to hesitate before deeds of violence.
 
-If we consider it the first duty of the State to serve and promote the general welfare of the people, by preserving and encouraging the development of the best racial elements, the logical consequence is that this task cannot be limited to measures concerning the birth of the infant members of the race and nation but that the State will also have to adopt educational means for making each citizen a worthy factor in the further propagation of the racial stock.
+If the first duty of the State is to promote the people's general welfare by preserving the development of the best racial elements, then this task cannot be limited to the birth of the infants of the.
+
+The State will also have to adopt educational means for making each citizen a worthy factor in the further propagation of the racial stock.
 
 Just as, in general, the racial quality is the preliminary condition for the mental efficiency of any given human material, the training of the individual will first of all have to be directed towards the development of sound bodily health. 
 

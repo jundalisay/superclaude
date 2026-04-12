@@ -80,9 +80,10 @@ Even Mathematics, Natural Philosophy, and Natural Religion, are in some measure 
 
 It is impossible to tell what changes and improvements we might make in these sciences if we:
 - were thoroughly acquainted with the extent and force of human understanding, and
-could explain the nature of:
-the ideas we employ, and
-the operations we perform in our reasonings
+- could explain the nature of:
+  - the ideas we employ, and
+  - the operations we perform in our reasonings
+
 We can hope for these improvements more in natural religion because religion is not content with instructing us in the nature of superior powers.
 
 It carries its views farther to:
@@ -92,6 +93,7 @@ It carries its views farther to:
 Consequently, we are not only the beings that reason.
 
 We are also one of the objects on which we reason.
+
 Mathematics, Natural Philosophy, and Natural Religion depend so much on the knowledge of man.
 
 The other sciences that are more intimate with human nature depend such knowledge so much more.
@@ -112,16 +114,23 @@ Here, the only expedient for success in our philosophical researches is to leave
 Instead of taking a castle or village on the frontier now and then, we march up directly to the capital or center of these sciences, to human nature itself.
 
 Once we master human nature, we may hope for an easy victory everywhere else.
+
 From here, we may extend our conquests over all those sciences, which more intimately concern human life.
+
 We may afterwards proceed at leisure to discover more fully those which are the objects of curiosity.
+
 All answers to important questions are comprised in the science of man.
 
 No question can be answered with any certainty, before we become acquainted with that science.
+
 In pretending, therefore, to explain the principles of human nature, we in effect propose a complete system of the sciences.
+
 This system is built on an almost entirely new foundation.
+
 This foundation is the only one on which the sciences can be secured.
 
 The science of man is the only solid foundation for the other sciences.
+
 The only solid foundation we can give to this science must be laid on experience and observation.
 
 It is not astonishing for moral philosophy to come after natural philosophy.

@@ -1,8 +1,8 @@
 ---
-title: The Revolution in Germany
+title: Oppose Centralization
 heading: Chapter 10d
 weight: 146
-description: "Our feckless parliamentarians did not give the people proper training in peacetime."
+description: "Sovereign Rights' from Bavaria by the REICH has met with no practical resistance, except for some fatuous barking by way of protest."
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
@@ -12,10 +12,11 @@ icon: "Adolf Hitler"
 
 
 
-We, National Socialists, must not allow the consequences of that truth to pass by us
-unnoticed. In these matters also we must not permit ourselves to be misled by the
-phrases of our so-called national bourgeois parties. I say 'phrases', because these same
-parodies do not seriously believe that it is possible for them to carry out their proposals,
+We, National Socialists, must not:
+- allow the consequences of that truth to pass by us unnoticed
+- misled by the phrases of national bourgeois parties
+
+I say 'phrases', because these same parodies do not seriously believe that it is possible for them to carry out their proposals,
 and because they themselves are the chief culprits and also the accomplices responsible
 for the present state of affairs. 
 
@@ -86,8 +87,9 @@ intellectual centre which even to-day holds Franconia to Bavaria, though the
 Franconians are of quite a different temperament. If Munich had remained as it had
 been earlier, what has happened in Saxony would have been repeated in Bavaria, with
 the difference that Leipzig and Bavarian Nürnberg would have become, not Bavarian
-but Franconian cities. It was not the cry of "Down with Prussia" that made Munich
-great. What made this a city of importance was the King who wished to present it to the 
+but Franconian cities. 
+
+It was not the cry of "Down with Prussia" that made Munich great. What made this a city of importance was the King who wished to present it to the 
 German nation as an artistic jewel that would have to be seen and appreciated, and so it
 has turned out in fact. Therein lies a lesson for the future. The importance of the
 individual states in the future will no longer lie in their political or statal power. I look
@@ -108,7 +110,9 @@ of his own little native province and set him within the broad picture of the na
 youth must learn to know, not the confines of his own region but those of the
 fatherland, because it is the latter that he will have to defend one day. It is therefore
 absurd to have the German youth do his military training in his own native region.
-During that period he ought to learn to know Germany. This is all the more important
+During that period he ought to learn to know Germany. 
+
+This is all the more important
 to-day, since young Germans no longer travel on their own account as they once used
 to do and thus enlarge their horizon. In view of this, is it not absurd to leave the young
 Bavarian recruit at Munich, the recruit from Baden at Baden itself and the

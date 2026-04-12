@@ -1,10 +1,11 @@
 ---
 heading: Section 1c
 title: "Moral judgments Are Not Based On Comparisons Or Relations"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "Thus, moral good and bad cannot be based on reason since reason cannot make that distinction."
 c: "steelblue"
 # date: 2015-x-x
-weight: 18
+weight: 8
+lastmod: 2026-04-10
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

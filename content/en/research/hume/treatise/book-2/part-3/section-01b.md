@@ -94,19 +94,20 @@ We cannot conclude anything from the one irregularity, which will not follow equ
 
 Mad-men have no liberty.
 
-◦ But if we judge their actions, these have less regularity and constancy than the actions of wise-men.
-◦ Consequently, they are farther removed from necessity.
+- But if we judge their actions, these have less regularity and constancy than the actions of wise-men.
+- Consequently, they are farther removed from necessity.
 
 Therefore, our way of thinking in this is absolutely inconsistent.
 
 It is a natural consequence of these confused ideas and undefined terms which we commonly use in our reasonings, especially on the present subject.
 
-• The union between motives and actions has the same constancy as the union in any natural operations.
-        ◦ We must now show that its influence on the understanding is also the same in determining us to infer the existence of one from that of another.
+The union between motives and actions has the same constancy as the union in any natural operations.
 
-• If this appears, then there is no known circumstance that enters into the connection and production of the actions of matter, that is not to be found in all of the mind’s operations.
+We must now show that its influence on the understanding is also the same in determining us to infer the existence of one from that of another.
 
-◦ Consequently, we cannot attribute necessity to the one and refuse into the other.
+If this appears, then there is no known circumstance that enters into the connection and production of the actions of matter, that is not to be found in all of the mind’s operations.
+
+Consequently, we cannot attribute necessity to the one and refuse into the other.
 
 No philosopher has a judgement so riveted to this fantastical system of liberty, to:
 - not acknowledge the force of moral evidence
@@ -141,12 +142,14 @@ Whoever reasons after this manner, does ipso facto believe:
 - the actions of the will to arise from necessity
 - that he does not know what he means when he denies it.
 
-All the objects we call the cause and effect are as distinct and separate from each other as any two things in nature,
-        ◦ We can never infer the existence of the  one from the existence of the other.
+All the objects we call the cause and effect are as distinct and separate from each other as any two things in nature.
+
+We can never infer the existence of the  one from the existence of the other.
 
 
 It is only from experience and the observation of their constant union that we are able to form this inference.
-        ◦ The inference is nothing but the effects of custom on the imagination.
+
+The inference is nothing but the effects of custom on the imagination.
 
 We must not be content with saying that the idea of cause and effect arises from objects constantly united.
 
@@ -194,16 +197,18 @@ His mind runs along a train of ideas:
 
 
 But the mind feels no difference between this chain of natural causes and voluntary actions in passing from one link to another.
-        ◦ nor is it less certain of the future event than if it were connected with the present impressions of the memory and senses by a train of causes cemented together by a physical necessity.
+
+Nor is it less certain of the future event than if it were connected with the present impressions of the memory and senses by a train of causes cemented together by a physical necessity.
 
 The same experienced union has the same effect on the mind, whether the united objects are motives, volitions and actions; or figure and motion.
 
 We may change the names of things.
-        ◦ But their nature and their operation on the understanding never change.
+
+But their nature and their operation on the understanding never change.
 
 No one can ever refute these reasonings than by:
-        ◦ altering my definitions
-        ◦ assigning a different meaning to ’cause’, ‘effect’, ‘necessity’, ‘liberty’, and ‘chance’.
+- altering my definitions
+- assigning a different meaning to ’cause’, ‘effect’, ‘necessity’, ‘liberty’, and ‘chance’.
 
 According to my definitions, necessity makes an essential part of causation; and consequently liberty, by removing necessity, removes also causes, and is the very same thing with chance.
 

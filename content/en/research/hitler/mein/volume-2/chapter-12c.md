@@ -1,8 +1,8 @@
 ---
-title: The Revolution in Germany
+title: The Trades Union
 heading: Chapter 12c
 weight: 202
-description: "Our feckless parliamentarians did not give the people proper training in peacetime."
+description: "The trades union is not naturally an instrument of class warfare."
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler

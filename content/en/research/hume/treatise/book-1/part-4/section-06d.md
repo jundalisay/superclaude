@@ -11,7 +11,6 @@ icon: "David Hume"
 ---
 
 
-
 Two phenomena are remarkable:
 
 1. We are commonly able to distinguish between numerical and specific identity.
@@ -47,18 +46,27 @@ But it stays the same for several ages.
 We expect whatever is natural and essential to anything.
 
 We get a weak impression from observing what is expected.
+
 This breaks the continuity of the thought very little, and has less influence in destroying the identity.
+
 We get a stronger impression from observing the unusual and extraordinary.
+
 This breaks the continuity of the thought more, and has more influence in destroying the identity.
+
 The Idea of Personal Identity is Caused by the Resemblance and Causation of Perceptions
+
 We now explain the nature of personal identity.
 
 Recently in England, this has become so great a question of ill philosophy.
+
 England is where all the more abstruse sciences are studied with ardour and application.
+
 We shall continue the method of reasoning which we successfully applied to explain the identity of plants, animals, ships, houses, and all the compounded and changeable productions of art or nature.
+
 The identity we ascribe to the mind of man, is only a fictitious one.
 
 It is similar to the identity we ascribe to plants and animals.
+
 Therefore, it has the same origin and comes from the similar operation of the mind.
 
 The identity which we attribute to the human mind is not able to:
@@ -68,21 +76,26 @@ The identity which we attribute to the human mind is not able to:
 Every distinct perception that enters into the mind's composition is a distinct existence.
 
 It is different, distinguishable, and separable from every other perception, either contemporary or successive.
+
 This identity of the mind means the unity of that mind's perceptions.
 Does this identity really bind our several perceptions together?
 
 Or does it only associate the ideas created by the perceptions in the imagination?
 
 When we mention a person's identity, do we observe some real bond among his perceptions?
-Or do we feel a bond with the ideas that we create from our perception of his perceptions.
-We can easily answer this question if we remember that:
 
-the understanding never observes any real connection among objects, and
-even the union of cause and effect, when strictly examined, resolves itself into a habitual association of ideas.
+Or do we feel a bond with the ideas that we create from our perception of his perceptions.
+
+We can easily answer this question if we remember that:
+- the understanding never observes any real connection among objects, and
+- even the union of cause and effect, when strictly examined, resolves itself into a habitual association of ideas.
+
 It follows that identity does not really belong to these different perceptions and does not unite them together.
 
 Personal identity is merely a quality which we attribute to those different perceptions, because of the union of their ideas in our imagination, when we think about them.
+
 The only qualities which can unify ideas in the imagination, are the relations of resemblance, contiguity and causation.
+
 These are the uniting principles in the ideal world.
 
 Without them, every distinct object would:
@@ -141,19 +154,27 @@ This gives rise to other persons who propagate the same republic through constan
 The same republic may change its members, laws, and constitutions.
 
 Similarly, a person may vary his character, disposition, impressions and ideas, without losing his identity.
+
 Whatever changes he endures, his parts are still connected by causation.
+
 Our identity is directed by our feelings to corroborate with causation in our imagination:
-by making our distant perceptions influence each other, and
-by giving us a present concern for our past or future pains or pleasures.
+- by making our distant perceptions influence each other, and
+- by giving us a present concern for our past or future pains or pleasures.
+
 We are acquainted with the continuance and extent of this succession of perceptions through our memory alone.
 
 Memory is the source of personal identity.
+
 Had we no memory we would never have any notion of causation.
+
 Consequently, we would have no chain of causes and effects to create our idea of the self.
+
 After we have acquired this notion of causation from the memory, we can extend the same chain of causes.
 
 Consequently, we can extend the identity of ourselves beyond our memory.
+
 We can then comprehend times, circumstances, and actions, which have existed but we have entirely forgotten.
+
 How few of our past actions can we remember?
 
 Who can tell me what were his thoughts and actions on:
@@ -180,13 +201,14 @@ These relations produce identity through that easy transition.
 The relations and the transition's easiness may reduce insensibly.
 
 We have no just standard to decide any dispute on when they acquire or lose the name of 'identity'.
+
 All the disputes on the identity of connected objects are merely verbal, except so far as the relation of parts creates some imaginary principle of union.
 
 The first origin and uncertainty of our notion of the human mind's identity, may be extended with little or no variation to the origin of simplicity.
 
 An object, whose different co-existent parts are bound together by a close relation:
-operates on the imagination in the same way as one perfectly simple and indivisible, and
-does not require a much greater stretch of thought to its conception.
+- operates on the imagination in the same way as one perfectly simple and indivisible, and
+- does not require a much greater stretch of thought to its conception.
 
 From this similarity of operation we:
 - attribute a simplicity to it, and

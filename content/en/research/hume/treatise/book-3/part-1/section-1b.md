@@ -4,7 +4,7 @@ title: "Why Reason Is Not The Basis Of Morality"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 8
+weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

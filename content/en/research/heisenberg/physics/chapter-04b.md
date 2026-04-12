@@ -1,96 +1,6 @@
----
-heading: Chapter 4
-title: "Quantum Theory and the Roots of Atomic Science"
-date: 2025-10-24
-description: ""
-weight: 24
-icon: "Werner Heisenberg"
-c: "firebrick"
----
 
-
-
-
-<!-- The concept of the atom goes back much further than the beginning of modern science in the
-seventeenth century; it has its origin in ancient Greek philosophy and was in that early period the
-central concept of materialism taught by Leucippus and Democritus. On the other hand,  -->
-
-The modern interpretation of atomic events has very little resemblance to materialistic philosophy.
-
-Atomic physics has turned science away from the materialistic trend of the 19th century. 
-
-The idea of the smallest, indivisible ultimate building blocks of matter first came up in
-connection with the elaboration of the concepts of Matter, Being and Becoming which characterized
-the first epoch of Greek philosophy. This started in the 6th century BC with Thales, the founder of the Milesian school.
-
-Aristotle says that he said: `Water is the material cause of all things.' 
-
-This statement, strange as it looks to us, expresses, as Nietzsche has pointed
-out, 3 fundamental ideas of philosophy. 
-
-1. The question as to the material cause of all things
-2. The demand that this question be answered in conformity with reason, without resort to myths or mysticism; third, the postulate that ultimately it must be possible to reduce everything to one principle.
-
-Thales' statement was the first expression of the idea of a fundamental substance, of which all other things were transient forms. The word `substance' in
-this connection was certainly in that age not interpreted in the purely material sense which we
-frequently ascribe to it today. 
-
-Life was connected with or inherent in this `substance' and Aristotle ascribes to Thales also the statement: All things are full of gods. Still the question was put as to the material cause of all things and it is not difficult to
-imagine that Thales took his view primarily from meteorological considerations. Of all things we
-know water can take the most various shapes; it can in the winter take the form of ice and snow,
-it can change into vapor, and it can form the clouds. It seems to turn into earth where the rivers
-form their delta, and it can spring from the earth. 
-
-Water is the condition for life. Therefore, if there was such a fundamental sub-stance, it was natural to think of water first.
-The idea of the fundamental substance was then carried further by Anaximander, who was a
-pupil of Thales and lived in the same town. Anaximander denied the fundamental substance to
-be water or any of the known substances. He taught that the primary substance was infinite,
-eternal and ageless and that it encompassed the world. This primary substance is transformed
-into the various substances with which we are familiar. Theophrastus quotes from Anaximander:
-`Into that from which things take their rise they pass away once more, as is ordained, for they
-make reparation and satisfaction to one another for their injustice according to the ordering of
-time.' In this philosophy the antithesis of Being and Becoming plays the fundamental role. The
-primary substance, infinite and ageless, the undifferentiated Being, degenerates into the various
-forms which lead to endless struggles. The process of Becoming is considered as a sort of
-debasement of the infinite Being – a disintegration into the struggle ultimately expiated by a
-return into that which is without shape or character. The struggle which is meant here is the
-opposition between hot and cold, fire and water, wet and dry, etc. The temporary victory of the
-one over the other is the injustice for which they finally make reparation in the ordering of time.
-According to Anaximander, there is `eternal motion,' the creation and passing away of worlds from 
-infinity to infinity.
-
-
-The problem was whether the primary substance can be one of the known substances or must be something essentially different – occurs in a
-somewhat different form in the most modern part of atomic physics. The physicists today try to
-find a fundamental law of motion for matter from which all elementary particles and their properties can be derived mathematically. This
-fundamental equation of motion may refer either to waves of a known type, to proton and meson
-waves, or to waves of an essentially different character which have nothing to do with any of the
-known waves or elementary particles. In the first case it would mean that all other elementary
-particles can be reduced in some way to a few sorts of `
-fundamental elementary particles.
-
-Actually theoretical physics has during the past two decades mostly followed this line of research. In the
-second case all different elementary particles could be reduced to some universal substance which
-we may call energy or matter, but none of the different particles could be preferred to the others
-as being more fundamental. The latter view of course corresponds to the doctrine of
-Anaximander, and I am convinced that in modern physics this view is the correct one. But let us
-return to Greek philosophy.
-The third of the Milesian philosophers, Anaximenes, an associate of Anaximander, taught that
-air was the primary substance. `
-
-Just as our soul, being air, holds us together, so do breath and air
-encompass the whole world.' Anaximenes introduced into the Milesian philosophy the idea that
-the process of condensation or rarefaction causes the change of the primary substance into the
-other substances. The condensation of water vapor into clouds was an obvious example, and of
-course the difference between water vapor and air was not known at that time.
-In the philosophy of Heraclitus of Ephesus the concept of Becoming occupies the foremost
-place. He regarded that which moves, the fire, as the basic element. The difficulty, to reconcile
-the idea of one fundamental principle with the infinite variety of phenomena, is solved for him by
-recognizing that the strife of the opposites is really a kind of harmony. For Heraclitus the world is
-at once one and many, it is just `the opposite tension'  of the opposites that constitutes the unity of the One. He says: `We must know that war is common to all and strife is justice, and that all
-things come into being and pass away through strife.'
 Looking back to the development of Greek philosophy up to this point one realizes that it has
-been borne from the beginning to this stage by the tension between the One and the Many. For our senses the world consists of an
+been borne from the beginning to thisnstage by the tension between the One and the Many. For our senses the world consists of an
 infinite variety of things and events, colors and sounds. But in order to understand it we have to
 introduce some kind of order, and order means to recognize what is equal, it means some sort
 of unity. From this springs the belief that there is one fundamental principle, and at the same
@@ -345,14 +255,13 @@ elementary pan-tides, not any smaller pieces of them, the masses of these fragme
 from the very large kinetic energy of the two colliding parrticles. In other words, the
 transmutation of energy into matter makes it possible that the fragments of elementary particles
 are again the saame elementary particles.
+
+
 After this comparison of the modern views in atonnic physics with Greek philosophy we have
 to add a warning, that tihis comparison should not be misunderstood. It may seem at first sighit
 that the Greek philosophers have by some kind of ingenious intuitiion come to the same or very
 similar conclusions as we have in modern times only after several centuries of hard labor with
-experimeints and mathematics. This interpretation of our comparison would, however, be a
-38
-complete misunderstanding. There is an enormous difference between modern science and Greek
-philosophy, and that is just the empiristic attitude of modern science. Since the time of Galileo
+experimeints and mathematics. This interpretation of our comparison would, however, be a complete misunderstanding. There is an enormous difference between modern science and Greek philosophy, and that is just the empiristic attitude of modern science. Since the time of Galileo
 and Newton, modern science has been based upon a detailed study of nature and upon the 
 postulate that only such statements should be made, as have been verified or at least can be
 verified by experiment. The idea that one could single out some events from nature by an
@@ -372,6 +281,7 @@ all possible properties of the proton and can check the correctness of the solut
 in every detail. This possibility of checking the correctness of a statement experimentally with
 very high precision and in any number of details gives an enormous weight to the statement that
 could not be attached to the statements of early Greek philosophy.
+
 All the same, some statements of ancient philosophy are rather near to those of modern
 science. This simply shows how far one can get by combining the ordinary experience of nature
 that we have without doing experiments with the untiring effort to get some logical order into this

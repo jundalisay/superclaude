@@ -1,15 +1,15 @@
 ---
 heading: Section 1e
 title: "Two Objections To This System"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "Objection 1: Morality does not come from sympathy"
 c: "steelblue"
 # date: 2015-x-x
-weight: 28
+lastmod: 2026-04-10
+weight: 12
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
-draft: true
 ---
 
 

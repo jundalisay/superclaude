@@ -3,6 +3,7 @@ heading: Section 10
 title: "Curiosity, Or The Love Of Truth"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
+lastmod: 2026-04-10
 weight: 54
 writer:
   name: David Hume
@@ -113,98 +114,151 @@ It may be objected that:
 - so much industry and application, as we frequently observe in philosophers, can never be derived from so inconsiderable an original.
 
 But the pleasure of study conflicts:
-        ◦ chiefly in the mind’s action
-        ◦ the exercise of the genius and understanding in the discovery or comprehension of any truth.
-    • If the truth’s importance is needed to complete the pleasure, our enjoyment is not brought by any considerable addition.
-        ◦ The truth’s importance is only needed in order to fix our attention.
-    • When we are careless and inattentive, the understanding has no effect on us.
-        ◦ It is unable to convey any of that satisfaction from understanding.
+- chiefly in the mind’s action
+- the exercise of the genius and understanding in the discovery or comprehension of any truth.
 
-    • The mind’s action is the principal foundation of that pleasure.
-        ◦ Besides this, we also need a degree of success in:
-            ▪ the attainment of the end, or
-            ▪ the discovery of that truth.
-    • Where the mind pursues any end with passion, we:
-        ◦ acquire a concern for the end itself
-        ◦ are uneasy if we are disappointed with its pursuit.
-            ▪ Even if that passion is not derived originally from the end, but merely from the action and pursuit.
-            ▪ Yet by the natural course of the affections, this proceeds from the relation and parallel direction of the passions above-mentioned.
+If the truth’s importance is needed to complete the pleasure, our enjoyment is not brought by any considerable addition.
+- The truth’s importance is only needed in order to fix our attention.
 
-    • The passions of hunting and philosophy are two passions most nearly resembling each other.
-        ◦ The pleasure of hunting conflicts in the motion, attention, difficulty, and uncertainty of actions of the mind and body.
-        ◦ These actions must be attended with an idea of utility, for them to have any effect on us.
-    • A man of the greatest fortune and the farthest from avarice takes a pleasure in hunting patridges and pheasants.
-        ◦ He feels no satisfaction in shooting crows and magpies because he considers:
-            ▪ patridges and pheasants fit for the table
-            ▪ crows and magpies as useless.
-    • The utility or importance of itself causes no real passion.
-        ◦ It is only needed to support the imagination.
-        ◦ The same person who overlooks a ten times greater profit in any other subject, is pleased to bring home six woodcocks or plovers, after having hunted them for several hours.
-    • To make the parallel between hunting and philosophy more complete, we may observe that in both cases the end of our action may be despised.
-        ◦ Yet in the heat of the action, we acquire such an attention to this end, that we are:
-            ▪ very uneasy under any disappointments
-            ▪ sorry when we:
-                • miss our game or
-                • fall into any error in our reasoning.
+When we are careless and inattentive, the understanding has no effect on us.
+- It is unable to convey any of that satisfaction from understanding.
 
-    • If we want another parallel to these affections, we may consider the passion of gaming.
-        ◦ It affords a pleasure from the same principles as hunting and philosophy.
-    • The pleasure of gaming does not arise from interest alone.
-        ◦ Since many leave a sure gain for this entertainment.
-    • It is not derived from the game alone.
-        ◦ Since the same persons have no satisfaction, when they play for nothing.
-    • It proceeds from both these causes united.
-        ◦ Though separately, they have no effect.
-    • It is here, as in certain chemical preparations, where the mixture of two clear and transparent liquids produces a third opaque and coloured liquid.
+The mind’s action is the principal foundation of that pleasure.
+
+Besides this, we also need a degree of success in:
+- the attainment of the end, or
+- the discovery of that truth.
+
+Where the mind pursues any end with passion, we:
+- acquire a concern for the end itself
+- are uneasy if we are disappointed with its pursuit.
+
+Even if that passion is not derived originally from the end, but merely from the action and pursuit.
+
+Yet by the natural course of the affections, this proceeds from the relation and parallel direction of the passions above-mentioned.
+
+The passions of hunting and philosophy are two passions most nearly resembling each other.
+
+The pleasure of hunting conflicts in the motion, attention, difficulty, and uncertainty of actions of the mind and body.
+
+These actions must be attended with an idea of utility, for them to have any effect on us.
+
+A man of the greatest fortune and the farthest from avarice takes a pleasure in hunting patridges and pheasants.
+
+He feels no satisfaction in shooting crows and magpies because he considers:
+- patridges and pheasants fit for the table
+- crows and magpies as useless.
+
+The utility or importance of itself causes no real passion.
+
+It is only needed to support the imagination.
+
+The same person who overlooks a ten times greater profit in any other subject, is pleased to bring home six woodcocks or plovers, after having hunted them for several hours.
+
+To make the parallel between hunting and philosophy more complete, we may observe that in both cases the end of our action may be despised.
+
+Yet in the heat of the action, we acquire such an attention to this end, that we are:
+- very uneasy under any disappointments
+- sorry when we:
+  - miss our game or
+  - fall into any error in our reasoning.
+
+If we want another parallel to these affections, we may consider the passion of gaming.
+
+It affords a pleasure from the same principles as hunting and philosophy.
+
+The pleasure of gaming does not arise from interest alone.
+
+Since many leave a sure gain for this entertainment.
+
+It is not derived from the game alone.
+
+Since the same persons have no satisfaction, when they play for nothing.
+
+It proceeds from both these causes united.
+
+Though separately, they have no effect.
+
+It is here, as in certain chemical preparations, where the mixture of two clear and transparent liquids produces a third opaque and coloured liquid.
  
-    • Our interest in any game engages our attention, without which we can have no enjoyment.
-    • Once our attention is engaged, the difficulty, variety, and sudden reverses of fortune, further interests us.
-        ◦ Our satisfaction arises from that concern.
-    • Human life is so tiresome a scene.
-        ◦ Men generally are of such indolent dispositions.
-        ◦ Whatever amuses them gives them a sensible pleasure, though by a passion mixed with pain.
-            ▪ This pleasure is increased by the nature of the objects which are sensible and of a narrow compass.
-                • They are:
-                    ◦ entered into with facility
-                    ◦ agreeable to the imagination.
- 
-    • The same theory that accounts for the love of truth in mathematics and algebra may be extended to morals, politics, natural philosophy, and other studies.
-        ◦ In these, we consider the real connections and existence of ideas, not their other abstract relations of ideas.
-    • The love of knowledge displays itself in the sciences.
-        ◦ Besides this, there is a certain curiosity implanted in human nature.
-        ◦ This curiosity is a passion derived from a quite different principle.
-    • Some people have an insatiable desire of knowing the actions and circumstances of their neighbours.
-        ◦ Even if:
-            ▪ their interest is in no way concerned in them
-            ▪ they must entirely depend on others for their information.
-                • In this case, there is no room for study or application.
-    • Let us search for the reason of this phenomenon.
+Our interest in any game engages our attention, without which we can have no enjoyment.
 
-    • It has been proved at large, that the influence of belief is at once to:
-        ◦ enliven and infix any idea in the imagination
-        ◦ prevent all kinds of hesitation and uncertainty about it.
-    • Both these circumstances are advantageous.
-        ◦ By the vivacity of the idea we:
-            ▪ interest the fancy
-            ▪ produce the same pleasure arising from a moderate passion, in a lesser degree.
-    • The vivacity of the idea gives pleasure.
-        ◦ Its certainty prevents uneasiness by:
-            ▪ fixing one particular idea in the mind
-            ▪ keeping it from wavering in the choice of its objects.
-    • The following is a conspicuous quality of human nature that is common to the mind and body.
-        ◦ A change that is too sudden and violent is unpleasant to us.
-        ◦ No matter how objects may be indifferent in themselves, their alteration gives uneasiness.
-    • It is the nature of doubt to:
-        ◦ cause a variation in the thought
-        ◦ transport us suddenly from one idea to another
-    • Consequently, it must bring pain.
-        ◦ This pain chiefly takes place, where interest, relation, or the greatness and novelty of any event interests us.
-        ◦ We do not have the interest nor curiosity to know every matter of fact.
-        ◦ It is enough for the idea to strike us with such force and concern us so nearly, to give us an uneasiness in its instability and inconstancy.
-    • A stranger, who first arrives at any town, may be entirely indifferent about knowing the inhabitants’ history and adventures.
-        ◦ But he acquires the same curiosity as the natives, as he:
-            ▪ becomes more acquainted with them
-            ▪ has lived any considerable time among them.
-    • When we read the history of a nation, we may have an ardent desire to clear up any doubt or difficulty that occurs in it.
-        ◦ But we become careless in such researches when the ideas of these events are obliterated.
+Once our attention is engaged, the difficulty, variety, and sudden reverses of fortune, further interests us.
+
+Our satisfaction arises from that concern.
+
+Human life is so tiresome a scene.
+
+Men generally are of such indolent dispositions.
+
+Whatever amuses them gives them a sensible pleasure, though by a passion mixed with pain.
+
+This pleasure is increased by the nature of the objects which are sensible and of a narrow compass.
+
+They are:
+- entered into with facility
+- agreeable to the imagination.
+ 
+The same theory that accounts for the love of truth in mathematics and algebra may be extended to morals, politics, natural philosophy, and other studies.
+
+In these, we consider the real connections and existence of ideas, not their other abstract relations of ideas.
+
+The love of knowledge displays itself in the sciences.
+- Besides this, there is a certain curiosity implanted in human nature.
+- This curiosity is a passion derived from a quite different principle.
+
+Some people have an insatiable desire of knowing the actions and circumstances of their neighbours.
+
+Even if:
+- their interest is in no way concerned in them
+- they must entirely depend on others for their information.
+ 
+ In this case, there is no room for study or application.
+ 
+ Let us search for the reason of this phenomenon.
+
+ 
+It has been proved at large, that the influence of belief is at once to:
+- enliven and infix any idea in the imagination
+- prevent all kinds of hesitation and uncertainty about it.
+
+Both these circumstances are advantageous.
+
+By the vivacity of the idea we:
+- interest the fancy
+- produce the same pleasure arising from a moderate passion, in a lesser degree.
+
+The vivacity of the idea gives pleasure.
+
+Its certainty prevents uneasiness by:
+- fixing one particular idea in the mind
+- keeping it from wavering in the choice of its objects.
+
+The following is a conspicuous quality of human nature that is common to the mind and body.
+
+A change that is too sudden and violent is unpleasant to us.
+
+No matter how objects may be indifferent in themselves, their alteration gives uneasiness.
+
+It is the nature of doubt to:
+- cause a variation in the thought
+- transport us suddenly from one idea to another
+
+Consequently, it must bring pain.
+
+This pain chiefly takes place, where interest, relation, or the greatness and novelty of any event interests us.
+
+We do not have the interest nor curiosity to know every matter of fact.
+
+It is enough for the idea to strike us with such force and concern us so nearly, to give us an uneasiness in its instability and inconstancy.
+
+A stranger, who first arrives at any town, may be entirely indifferent about knowing the inhabitants’ history and adventures.
+
+But he acquires the same curiosity as the natives, as he:
+- becomes more acquainted with them
+- has lived any considerable time among them.
+
+When we read the history of a nation, we may have an ardent desire to clear up any doubt or difficulty that occurs in it.
+
+But we become careless in such researches when the ideas of these events are obliterated.
 

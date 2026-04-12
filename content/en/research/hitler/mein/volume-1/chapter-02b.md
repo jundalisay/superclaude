@@ -1,8 +1,8 @@
 ---
-title: The Habsburg State
+title: Employment
 heading: Chapter 2b
 weight: 8
-description: "When the Habsburg State crumbled in 1918, the Austrian Germans instinctively cried for union with their German fatherland."
+description: "The uncertainty of earning a regular livelihood was the gloomiest feature in this new life"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
@@ -13,18 +13,31 @@ icon: "Adolf Hitler"
 
 
 
-At that time it was for the most part not very difficult to find work, because I had to seek work not as a skilled tradesman but as a so-called extra-hand ready to take any job that turned up by chance, just for the sake of earning my daily bread.
+Back then, it was not difficult to find work because I had to seek work not as a skilled tradesman but as a so-called extra-hand ready to take any job.
 
-Thus I found myself in the same situation as all those emigrants who shake the dust of Europe from their feet, with the cast-iron determination to lay the foundations of a new existence in the New World and acquire for themselves a new home. 
+Thus I was like those emigrants who leave Europe for the New World. 
+- I accepted any work that came my way
 
-Liberated from all the paralysing prejudices of class and calling, environment and tradition, they enter any service that opens its doors to them, accepting any work that comes their way, filled more and more with the idea that honest work never disgraced anybody, no matter what kind it may be. And so I was resolved to set both feet in what was for me a new
-world and push forward on my own road.
+<!--  filled more and more with the idea that honest work never disgraced anybody, no matter what kind it may be. And so I was resolved to set both feet in what was for me a new
+world and push forward on my own road. -->
 
-I soon found out that there was some kind of work always to be got, but I also learned that it could just as quickly and easily be lost. The uncertainty of being able to earn a  regular daily livelihood soon appeared to me as the gloomiest feature in this new life that I had entered.
+I learned that:
+- there was some kind of work always to be got
+- it could just as quickly be lost
 
-Although the skilled worker was not so frequently thrown idle on the streets as the unskilled worker, yet the former was by no means protected against the same fate; because though he may not have to face hunger as a result of unemployment due to the lack of demand in the labour market, the lock-out and the strike deprived the skilled worker of the chance to earn his bread. Here the element of uncertainty in steadily earning one's daily bread was the bitterest feature of the whole social-economic system itself.
+The uncertainty of earning a regular livelihood was the gloomiest feature in this new life.
 
-The country lad who migrates to the big city feels attracted by what has been described as easy work--which it may be in reality--and few working hours. He is especially entranced by the magic glimmer spread over the big cities. Accustomed in the country to earn a steady wage, he has been taught not to quit his former post until a new one is at least in sight. 
+The skilled worker was not so frequently thrown idle on the streets as the unskilled worker.
+
+Yet the former was by no means protected against the same fate.
+
+He might not have to face hunger from unemployment due to the lack of demand in labour, the lock-out and the strike deprived the skilled worker of the chance to earn his bread. 
+
+Here the element of uncertainty in steadily earning one's daily bread was the bitterest feature of the whole social-economic system itself.
+
+The country lad who migrates to the big city feels attracted by easy work of a few working hours.
+
+He is especially entranced by the magic glimmer spread over the big cities. Accustomed in the country to earn a steady wage, he has been taught not to quit his former post until a new one is at least in sight. 
 
 As there is a great scarcity of agricultural labour, the probability of long unemployment in the country has been very small. 
 
