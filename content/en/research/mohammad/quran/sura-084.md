@@ -3,7 +3,7 @@ title: "The Rupture (al-Inshiqaq)"
 heading: "Sura 84a "
 weight: 236
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu, to represent the Anunnaki Gods who created man"
 ---
 
 
@@ -14,9 +14,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 O mankind! You are laboring towards your Lord, and you will meet Him.
 
 
-<sup>7</sup> He who is given his book in his right hand, he will be judged with an easy account.
-
-{{< s v="9" >}}  And will return to his family delighted.
+<sup>7-8</sup> He who is given his book in his right hand, he will be judged with an easy account. <sup>9</sup> and will return to his family delighted.
 
 {{< s v="10-12" >}} But he who is given his book behind his back, he will:
 - cry out for death and
@@ -25,6 +23,7 @@ O mankind! You are laboring towards your Lord, and you will meet Him.
 He:
 - used to be happy among his family.
 - thought he would never return.
+
 
 {{< s v="15" >}} In fact, his Lord was watching him. 
 
@@ -37,7 +36,7 @@ I swear that you will experience this stage after stage.
 
 <sup>20</sup> So why do they not:
 - believe when the QurÕŒn is recited to them and
-- prostrate to Enki?
+- prostrate to Anu?
 
 <!-- 22. The disbelievers deny,
 23. And AllŒh is most knowing of what they keep within themselves. -->

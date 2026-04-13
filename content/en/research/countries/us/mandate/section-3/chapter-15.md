@@ -9,16 +9,13 @@ icon: "Heritage Foundation"
 
 
 
-### Reset HUD. 
+### Reset HUD
 
-This effort should specifically include a broad reversal of the
-Biden Administration’s persistent implementation of corrosive progressive
+This effort should specifically include a broad reversal of the Biden Administration’s persistent implementation of corrosive progressive
 ideologies across the department’s programs.
 
-Implement an action plan across both process and people. This plan
-should include both the immediate redelegation of authority to a cadre
-of political appointees and the urgent implementation of administrative
-regulatory actions with respect to HUD policy and program eligibility.
+Implement an action plan across both process and people. This plan should include both the immediate redelegation of authority to a cadre
+of political appointees and the urgent implementation of administrative regulatory actions with respect to HUD policy and program eligibility.
 
 The U.S. Department of Housing and Urban Development (HUD) admin-
 isters a web of federal programs with mandates to support access to

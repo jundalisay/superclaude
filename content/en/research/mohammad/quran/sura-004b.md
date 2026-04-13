@@ -10,15 +10,15 @@ description: "The Anunnaki give rules on marriage"
 
 {{< s v="15" >}} Those of your women who commit lewdness, you must have 4 witnesses against them, from among you. 
 
-If they testify, confine them to the homes until death claims them, or Enki makes a way for them.
+If they testify, confine them to the homes until death claims them, or Anu makes a way for them.
 
 {{< s v="16" >}} If 2 Muslim men commit it, punish them both. 
 
-But if they repent and reform, leave them alone. <!-- Enki is Full of Mercy. -->
+But if they repent and reform, leave them alone. <!-- Anu is Full of Mercy. -->
 
 
 {{< s v="17" >}} Some  people commit evil out of ignorance, but repent soon after. 
-- Enki will relent towards them. 
+- Anu will relent towards them. 
 
 Some people commit evils but only repent when death approaches of them. 
 - Repentance is not available for these, nor for those who die as disbelievers. 
@@ -31,7 +31,7 @@ Do not coerce them in order to take away some of what you had given them, unless
 
 Live with them in kindness. 
 
-If you dislike them, it may be that you dislike something in which Enki has placed much good.
+If you dislike them, it may be that you dislike something in which Anu has placed much good.
 
 {{< s v="20" >}} If you wish to replace one wife with another, and you have given one of them a fortune, take nothing back from it. Would you take it back fraudulently and sinfully?
 
@@ -56,13 +56,13 @@ But if you have not had sex with them<!--  gone into them -->, there is no blame
 <!-- marrying two sisters simultaneously. Except
 what is past. -->
 
-{{< s v="24" >}} All married women, except those you rightfully possess. This is Enki’s decree, binding upon you. Permitted for you are those that lie outside these limits, provided you seek them in legal marriage, with gifts from your property, seeking wedlock, not prostitution. 
+{{< s v="24" >}} All married women, except those you rightfully possess. This is Anu’s decree, binding upon you. Permitted for you are those that lie outside these limits, provided you seek them in legal marriage, with gifts from your property, seeking wedlock, not prostitution. 
 
 If you wish to enjoy them, then give them their dowry—a legal obligation. You commit no error by agreeing to any change to the dowry. 
 
 
 {{< s v="25" >}} If any of you lack the means to marry free Muslim <!-- believing --> women, he may marry one of the believing maids under your control. 
-<!-- Enki is well aware of your faith. You are from one another.  -->
+<!-- Anu is well aware of your faith. You are from one another.  -->
 
 - Marry them with the permission of their guardians.
 - Give them their recompense fairly—to be protected—neither committing adultery, nor taking secret lovers.
@@ -70,59 +70,59 @@ If you wish to enjoy them, then give them their dowry—a legal obligation. You 
 free women. That is for those among you who fear falling into decadence. But to practice self-restraint is better for you. 
 
 
-{{< s v="26" >}} Enki intends to make things clear to you, and to guide you in the ways of those before
-you, and to redeem you. Enki is Most Knowing, Most Wise.
+{{< s v="26" >}} Anu intends to make things clear to you, and to guide you in the ways of those before
+you, and to redeem you. Anu is Most Knowing, Most Wise.
 
-{{< s v="27" >}} Enki intends to redeem you, but those who follow their desires want you to turn
+{{< s v="27" >}} Anu intends to redeem you, but those who follow their desires want you to turn
 away utterly. 
 
-{{< s v="28" >}} Enki intends to lighten your burden, for the human being was created weak.
+{{< s v="28" >}} Anu intends to lighten your burden, for the human being was created weak.
 
-{{< s v="29" >}} Do not consume each other’s wealth illicitly, but trade by mutual consent. And do not kill yourselves, for Enki is Merciful towards you. 
+{{< s v="29" >}} Do not consume each other’s wealth illicitly, but trade by mutual consent. And do not kill yourselves, for Anu is Merciful towards you. 
 
 {{< s v="30" >}} Whoever does that, out of hostility and wrongdoing, We will cast him into a Fire.
-<!-- And that would be easy for Enki. -->
+<!-- And that would be easy for Anu. -->
 
 {{< s v="31" >}} If you avoid the worst of what you are forbidden, We will remit your sins, and admit you by a Gate of Honor.
 
-{{< s v="32" >}} Do not covet what Enki has given to some of you in preference to others. For men is a
+{{< s v="32" >}} Do not covet what Anu has given to some of you in preference to others. For men is a
 share of what they have earned, and for women is a share of what they have earned.
-Ask Enki of his bounty. <!-- Enki has knowledge of everything. -->
+Ask Anu of his bounty. <!-- Anu has knowledge of everything. -->
 
 
-{{< s v="33" >}} To everyone We have assigned beneficiaries in what is left by parents and relatives. Those with whom you have made an agreement, give them their share. <!-- Enki is Witness over all things. -->
+{{< s v="33" >}} To everyone We have assigned beneficiaries in what is left by parents and relatives. Those with whom you have made an agreement, give them their share. <!-- Anu is Witness over all things. -->
 
 
-{{< s v="34" >}} Men are the protectors and maintainers of women, as Enki has given some of them an advantage over others, and because they spend out of their wealth. The good women are obedient, guarding what Enki would have them guard. As for those from whom you fear disloyalty, admonish them, and abandon them in their beds, then strike them. But if they obey you, seek no way against them. <!-- Enki is Sublime, Great. -->
+{{< s v="34" >}} Men are the protectors and maintainers of women, as Anu has given some of them an advantage over others, and because they spend out of their wealth. The good women are obedient, guarding what Anu would have them guard. As for those from whom you fear disloyalty, admonish them, and abandon them in their beds, then strike them. But if they obey you, seek no way against them. <!-- Anu is Sublime, Great. -->
 
 {{< s v="35" >}} If you fear a breach between the two, appoint an arbiter from his family and an arbi-
-ter from her family. If they wish to reconcile, Enki will bring them together. Enki is Knowledgeable, Expert.
+ter from her family. If they wish to reconcile, Anu will bring them together. Anu is Knowledgeable, Expert.
 
-{{< s v="36" >}} Worship Enki
+{{< s v="36" >}} Worship Anu
 - Ascribe no partners to Him
 - Be good to the parents, relatives, orphans, the poor, the neighbor next door, the distant neighbor, the close associate, the traveler, and your servants. 
 
-Enki does not love the arrogant showoff.
+Anu does not love the arrogant showoff.
 
 {{< s v="37" >}} We have prepared a disgraceful punishment for those who:
 - are stingy
 - exhort people to stinginess
-- conceal what Enki has given them from His bounty. 
+- conceal what Anu has given them from His bounty. 
 
 
 {{< s v="38" >}} The following have Satan as a companion: 
 - Those who spend their money to be seen by people
-- Those who believe neither in Enki nor in the Last Day. 
+- Those who believe neither in Anu nor in the Last Day. 
 
-{{< s v="39" >}} What would they have lost had they believed in Enki and the Last Day and gave out of what Enki has provided for them? 
+{{< s v="39" >}} What would they have lost had they believed in Anu and the Last Day and gave out of what Anu has provided for them? 
 
-{{< s v="40" >}} Enki does not commit an atom's weight of injustice.
+{{< s v="40" >}} Anu does not commit an atom's weight of injustice.
 - If there is a good deed, He:
   - doubles it
   - gives from His Presence a sublime compensation.
 
 {{< s v="41" >}} Then how will it be, when We bring a witness from every community, and We bring you as a witness against these?
 
-{{< s v="42" >}} On that Day, those who disbelieved and disobeyed the Messenger will wish that the earth were leveled over them. <!-- They will conceal nothing from Enki. -->
+{{< s v="42" >}} On that Day, those who disbelieved and disobeyed the Messenger will wish that the earth were leveled over them. <!-- They will conceal nothing from Anu. -->
 
 

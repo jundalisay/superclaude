@@ -11,7 +11,7 @@
     </div>
 
     <form id="basinForm" action="{{ .Site.Params.commentAction }}" method="POST" class="space-y-4" novalidate>
-      <input type="hidden" name="current-url" value="{{ .Permalink }}"/>
+      <input type="hidden" name="source" value="{{ .Permalink }}"/>
       <input type="hidden" name="_redirect" value="false"/>
 
       <div class="grid sm:grid-cols-2 gap-4">

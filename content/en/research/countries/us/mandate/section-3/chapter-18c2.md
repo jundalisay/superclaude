@@ -7,16 +7,14 @@ icon: "Heritage Foundation"
 ---
 
 
-Cap and phase down the H-2A visa program. Congress should
-immediately cap this program at its current levels and establish a
-schedule for its gradual and predictable phasedown over the subsequent
-10 to 20 years, producing the necessary incentives for the industry to
-invest in raising productivity, including through capital investment in
+### Cap and phase down the H-2A visa program. 
+
+Congress should immediately cap this program at its current levels and establish a schedule for its gradual and predictable phasedown over the subsequent
+10 to 20 years, producing the necessary incentives for the industry to invest in raising productivity, including through capital investment in
 agricultural equipment, and increasing employment for Americans in the
 agricultural sector.
 
-Encourage the establishment of an industry consortium and match
-funding. Congress should also encourage the establishment of an industry
+Encourage the establishment of an industry consortium and match funding. Congress should also encourage the establishment of an industry
 consortium of agricultural equipment producers and other automation and
 robotics firms interested in entering the sector and match funding invested
 by the industry, with intellectual property developed within the consortium
@@ -31,8 +29,9 @@ H-2A workers undercuts American workers in agricultural employment. The H-2A
 program is not subject to any statutory numerical cap and has been expanding in
 recent years, surpassing 200,000 visa issuances for the first time in 2019.
 
-Alternative View. Some conservatives believe that temporary worker programs
-help to fill jobs that Americans will not fill, prevent illegal immigration by giving
+### Alternative View
+
+Some conservatives believe that temporary worker programs help to fill jobs that Americans will not fill, prevent illegal immigration by giving
 farmers and others who hire low-skilled labor access to workers, and keep down
 the prices of food and other products and services produced by the temporary
 workers. Some credibly argue that, absent the H-2A program, many farmers would
@@ -44,16 +43,18 @@ argue that any plan to phase out the program should weigh the program’s curren
 costs (relatively low) and the program’s current benefits (makes American farming
 more profitable and sustainable while keeping down food costs).
 ﻿
-l
-Phase out the H-2B visa program. The H-2B visa, for nonagricultural
-seasonal workers, suffers from many of the same harms and abuses as H-2A,
+### Phase out the H-2B visa program
+
+The H-2B visa, for nonagricultural seasonal workers, suffers from many of the same harms and abuses as H-2A,
 albeit of lesser scope because of its cap and distribution across many sectors.
 Congress should immediately cap this program at its current levels and
 establish a schedule for its gradual and predictable phasedown over no more
 than 10 years.
 
-Alternative View. As with the H-2A program, some conservatives see the H-2B
-program as a valuable program that provides low-cost temporary workers in jobs
+
+### Alternative View
+
+As with the H-2A program, some conservatives see the H-2B program as a valuable program that provides low-cost temporary workers in jobs
 that American companies, by and large, cannot find enough American workers to
 fill (e.g., tourist season childcare providers at ski resorts, swimming instructors at
 summer camps, housekeepers and groundskeepers at amusement parks, and extra
@@ -75,7 +76,6 @@ Congress should mandate that all new federal contracts require at
 least 70 percent of the contractor’s employees to be U.S. citizens, with
 the percentage increasing to at least 95 percent over a 10-year period.
 
-
 Congress must amend the law so that employers can again have the
 freedom to make hiring Americans a priority. Despite the significant
 advantages that preferring citizens over (work-authorized) aliens in hiring
@@ -90,11 +90,13 @@ There may be good reasons to require a certain percentage of American workers on
 federal contracts, but those decisions should be based on economy and efficiency
 as opposed to arbitrary quotas.
 
-Visa Fraud. American businesses that commit visa fraud and hire illegal immi-
-grants should not be the beneficiaries of federal spending. But a 2020 report by
-the Department of Labor’s Office of Inspector General (OIG) examined the depart-
-ment’s process for excluding employers who commit visa fraud and abuse from
+
+### Visa Fraud
+
+American businesses that commit visa fraud and hire illegal immigrants should not be the beneficiaries of federal spending. But a 2020 report by
+the Department of Labor’s Office of Inspector General (OIG) examined the department’s process for excluding employers who commit visa fraud and abuse from
 federal contracts and found much to be desired.
+
 To protect the American workforce from unscrupulous immigration
 lawyers, employers, and labor brokers, the department must
 follow the recommendations of the OIG and institute more robust
@@ -118,24 +120,25 @@ abuses and raise wages. It also established new modes of enforcement.
 For future FTAs, the USTR should replicate the labor provisions of USMCA,
 especially the provisions to:
 
+### Eliminate all forms of forced or compulsory labor.
 
-Eliminate all forms of forced or compulsory labor.
 Protect workers’ rights to organize and participate voluntarily in a
 union without employer interference or discrimination.
 Create a rapid-response mechanism to provide for an independent
 panel investigation of denial of labor rights at covered facilities.
 Shift the burden of proof by presuming that an alleged violation
 affects trade and investment, unless otherwise demonstrated.
-﻿
+
 For future authorizations of Trade Promotion Authority (TPA), the President
 should urge Congress to:
-lCreate mechanisms for supply-chain transparency.
-lInstitute a general prohibition on forced labor conditions.
-Investigate Foreign Labor Violations That Undermine American Work-
-ers. The United States’ embrace of globalization has exposed American workers to
-unfair competition from nations with cheap, abundant, and often exploited labor.
-American workers have, as a consequence, seen their earning power erode. While
-negotiating stronger trade agreements with robust labor provisions should be the
+- Create mechanisms for supply-chain transparency
+- Institute a general prohibition on forced labor conditions
+- Investigate Foreign Labor Violations That Undermine American Workers
+
+The United States’ embrace of globalization has exposed American workers to unfair competition from nations with cheap, abundant, and often exploited labor.
+American workers have, as a consequence, seen their earning power erode. 
+
+While negotiating stronger trade agreements with robust labor provisions should be the
 primary tool with which to regulate international labor competition, the federal
 government can also take steps to identify the worst labor abuses and rule breakers.
 DOL’s Bureau of International Labor Affairs (ILAB) plays a critical role in monitor-
@@ -155,21 +158,23 @@ on other countries, removing existing barriers to American manufacturing, employ
 ment, and commerce can help American workers, entrepreneurs, and families.
 
 
-### ORGANIZATIONAL AGENDA
+## ORGANIZATIONAL AGENDA
 
-Budget
+### Budget
 
 Reduce the agencies’ budgets to the low end of the historical
 average. The Trump Administration’s FY 2020 request, $10.9 billion,
 would provide a workable target for spending reductions for DOL,
 for example.
+
 Spending reductions should occur primarily in the Employment and
 Training Administration (ETA).
+
 Focus health and safety inspections on egregious offenders, as other
 inspections are often abused and usurp state and local government
 prerogatives.
 
-Personnel
+### Personnel
 
 Appoint new EEOC and NLRB general counsels on Day One. The Biden
 Administration broke significant precedent by firing the EEOC and NLRB
@@ -177,9 +182,10 @@ general counsels despite their term appointments. The next Administration
 should do the same and expand on the Biden Administration’s new
 precedent by refusing to acknowledge terms in other offices, where
 applicable, and installing acting or full new officers immediately.
-Implement a hiring freeze for career officials. A hiring freeze imposes
-financial discipline on agencies’ personnel costs and reduces agency bloat.
-Office of Compliance Initiatives
+
+Implement a hiring freeze for career officials. A hiring freeze imposes financial discipline on agencies’ personnel costs and reduces agency bloat.
+
+### Office of Compliance Initiatives
 
 DOL should fully staff the Office of Compliance Initiatives (OCI),
 which was reopened by the Trump Administration after the Obama
@@ -189,13 +195,15 @@ the many statutes, rules, and regulations administered by DOL. Most
 businesses want to follow the law and OCI exists to make knowing the rules
 easier, which leads to increased compliance.
 
+### Maximize hiring of political appointees
 
-Maximize hiring of political appointees. At its best, the Trump
-Administration Department of Labor worked with up to 150 political
+At its best, the Trump Administration Department of Labor worked with up to 150 political
 appointees. That is still a tiny percentage of the department. The number of
 political appointees should be maximized in order to improve the political
 accountability of the department.
-Improve Visa-Related Labor-Market Monitoring
+
+### Improve Visa-Related Labor-Market Monitoring
+
 DOL’s Office of Foreign Labor Certification plays an important role in the
 approval of H-visa applications, but it is currently housed in the Employment and
 Training Administration, which is DOL’s primary grant-making division.
@@ -203,7 +211,8 @@ Training Administration, which is DOL’s primary grant-making division.
 OFLC should be moved out of ETA and made directly accountable to
 the Secretary with a politically accountable Director.
 
-CONCLUSION
+
+## CONCLUSION
 
 The good of the American family is at the heart of conservative labor policy
 recommendations. The longstanding tradition of a strong work ethic in American

@@ -18,7 +18,7 @@ Now and then some of them asked him questions.
 
 ## Love and prayer
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 Sir, what is the way?
 {{< /r >}}
 
@@ -28,7 +28,7 @@ Attachment to God, or, in other words, love for Him. And secondly, prayer.
 {{< /l >}}
 
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 Which one is the way-love or prayer?"
 {{< /r >}}
 
@@ -37,11 +37,11 @@ First love, then prayer.
 {{< /l >}}
 
 
-The Master sang:
-
-Cry to your Mother Syama with a real cry, O mind!
+{{< l a="Ramakrishna" >}}
+[singing]: Cry to your Mother Syama with a real cry, O mind!
 And how can She hold Herself from you?
 How can Syama stay away? . . .
+{{< /l >}}
 
 
 {{< l a="Ramakrishna" >}}
@@ -52,7 +52,9 @@ Further, one must practise discrimination and renunciation; one must be consciou
 {{< /l >}}
 
 
-BRAHMO: "Is it good to renounce the world?"
+{{< r a="Brahmo Devotee" >}}
+Is it good to renounce the world?
+{{< /r >}}
 
 
 {{< l a="Ramakrishna" >}}
@@ -62,7 +64,10 @@ Not for all. Those who have not yet come to the end of their enjoyments should n
 
 ## How to lead a householder's life
 
-BRAHMO: "Then should they lead a worldly life?"
+{{< r a="Brahmo Devotee" >}}
+Then should they lead a worldly life?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 Yes, they should try to perform their duties in a detached way. Before you break the jack-fruit open, rub your hands with oil, so that the sticky milk will not smear them. 
@@ -73,15 +78,19 @@ You should renounce the world only in mind. But a sannyasi should renounce the w
 {{< /l >}}
 
 
-BRAHMO: "What is the meaning of the 'end of enjoyments'?"
+{{< r a="Brahmo Devotee" >}}
+What is the meaning of the 'end of enjoyments'?
+{{< /r >}}
 
 
 {{< l a="Ramakrishna" >}}
-I mean the enjoyment of 'woman and gold'. It is risky to put a typhoid patient in a room where pitchers of water and jugs of pickled tamarind are kept. Most people don't feel any longing for God unless they have once passed through the experience of wealth, name, fame, creature comforts, and the like, that is to say, unless they have seen through these enjoyments.
+I mean the enjoyment of 'woman and gold'. It is risky to put a typhoid patient in a room where pitchers of water and jugs of pickled tamarind are kept. 
+
+Most people don't feel any longing for God unless they have once passed through the experience of wealth, name, fame, creature comforts, and the like, that is to say, unless they have seen through these enjoyments.
 {{< /l >}}
 
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 Who is really bad, man or woman?
 {{< /r >}}
 
@@ -106,7 +115,7 @@ Avidyā-māyā consists of the 5 elements and the objects of the 5 senses:
 These make one forget God.
 {{< /l >}}
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 If the power of avidyā is the cause of ignorance, then why has God created it?"
 {{< /r >}}
 
@@ -120,7 +129,7 @@ Maya in its aspects of vidyā and avidyā may be likened to the skin of the mang
 {{< /l >}}
 
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 Is it good to worship God with form, an image of the Deity made of clay?"
 {{< /r >}}
 
@@ -134,7 +143,7 @@ You should learn from the worshippers of the Personal God their love for their C
 {{< /l >}}
 
 
-{{< r a="Brahmo-Devotee" >}}
+{{< r a="Brahmo Devotee" >}}
 How does one cultivate the spirit of dispassion? Why don't all attain it?"
 {{< /r >}}
 

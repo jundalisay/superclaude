@@ -1,11 +1,11 @@
 ---
 title: "The Collective Consciousness"
-# Individual Consciousness and
-#"Paramátman and Atman"
+# Individual Consciousness an Paramátman and Atman
 heading: "Chapter 6b "
 weight: 30
 description: "'Paramátman' [active collective consciousness] is the collective name for the Macrocosmic Nucleus"
 c: "indigo"
+lastmod: 2026-04-10
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -88,13 +88,17 @@ The physical and psychic clash and the attraction of the Great cause psychic dil
 - Ultimately the unit psychic body can attain its final liberation or mukti by its spiritual sádhaná. 
 
 Different unit minds exist at different levels and experience varying degrees of His love and proximity depending on their progress in the process of subtilification<!--  pratisaiṋcara -->. 
-- Infinite bliss is attained upon liberation wherein all the bondages of Activity are shattered 
+
+Infinite bliss is attained upon liberation wherein all the bondages of Activity are shattered 
 
 <!-- The auspicious day of infinite ánanda descends, and all the bondages of Prakrti shatter down, when Brahmatva is attained. -->
 
-- Such individuals set the ideal for humanity. 
+Such individuals set the ideal for humanity. 
 - In turn, humanity starts paying homage to them. 
-- Only such elevated beings can and should be called <!-- Mahápuruśa, meaning thereby --> elevated psychic beings.
-- Unto their holy feet, one can offer the flowers of devotion and aspiration, but they desire no crude earthly flowers and offerings.
+
+Only such elevated beings can and should be called <!-- Mahápuruśa, meaning thereby --> elevated psychic beings.
+
+Unto their holy feet, one can offer the flowers of devotion and aspiration, but they desire no crude earthly flowers and offerings.
+
 
 
