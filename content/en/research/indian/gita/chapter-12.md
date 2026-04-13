@@ -3,7 +3,7 @@ title: "Devotional Service"
 heading: "Chapter 12"
 weight: 24
 contributors: ['Vyasa']
-description: "Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed"
+description: "Whoever serves Me--as I show Myself-- Constantly true, in full devotion fixed"
 c: "indigo"
 icon: "Vyasa"
 ---
@@ -32,17 +32,38 @@ icon: "Vyasa"
 <sup>11</sup> If, however, you are unable to work in this consciousness of Me, then try to act giving up all results of your work and try to be self-situated.
 
 <sup>12</sup> If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind.
-
-<sup>13-14</sup> One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress, who is tolerant, always satisfied, self-controlled, and engaged in devotional service with determination, his mind and intelligence fixed on Me – such a devotee of Mine is very dear to Me.
-
-<sup>15</sup> He by whom no one is put into difficulty and who is not disturbed by anyone, who is equipoised in happiness and distress, fear and anxiety, is very dear to Me.
-
-<sup>16</sup> My devotee who is not dependent on the ordinary course of activities, who is pure, expert, without cares, free from all pains, and not striving for some result, is very dear to Me.
-
-<sup>17</sup> One who neither rejoices nor grieves, who neither laments nor desires, and who renounces both auspicious and inauspicious things – such a devotee is very dear to Me.
+{{< /l >}}
 
 
-<sup>18-19</sup> One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contaminating association, always silent and satisfied with anything, who doesn’t care for any residence, who is fixed in knowledge and who is engaged in devotional service – such a person is very dear to Me.
+{{< l a="Krishna" >}}
+<sup>13-14</sup> My devotee is One who:
+- is not envious but is a kind friend to all living entities
+- does not think himself a proprietor and is free from false ego
+- is equal in both happiness and distress
+- is tolerant, always satisfied, self-controlled
+- engaged in devotional service with determination, his mind and intelligence fixed on Me
+
+Such a devotee is very dear to Me.
+
+<sup>15</sup> Very dear to me is My devotee who:
+- puts no one into difficulty 
+- is not disturbed by anyone
+- is equipoised in happiness and distress, fear and anxiety
+- <sup>16</sup> is not dependent on the ordinary course of activities
+- is pure, expert, without cares, free from all pains
+- not striving for some result
+- <sup>17</sup> neither rejoices nor grieves
+- neither laments nor desires
+- renounces both auspicious and inauspicious things
+
+<sup>18-19</sup> Very dear to Me is a person who:
+- is equal to friends and enemies
+- is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy
+- is always free from contaminating association
+- always silent and satisfied with anything
+- doesn’t care for any residence
+- is fixed in knowledge 
+- is engaged in devotional service
 
 
 I love such a person who:
@@ -66,56 +87,5 @@ I love such a person who:
 - linked by no ties to earth
 - steadfast in Me
 
-<sup>20</sup> But most of all, I love those who do devotional service and completely engage themselves with faith, making Me the supreme goal.
+<sup>20</sup> But most of all, **I love those who do devotional service and completely engage themselves with faith, making Me the supreme goal.**
 {{< /l >}}
-
-
-
-<!-- Lord! of the men who serve Thee--true in heart--
-As God revealed; and of the men who serve,
-Worshipping Thee Unrevealed, Unbodied, Far, -->
-<!-- Which take the better way of faith and life?
-
-Krishna.
-
-Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed,
-Those hold I very holy. But who serve--
-Worshipping Me The One, The Invisible,
-The Unrevealed, Unnamed, Unthinkable,
-Uttermost, All-pervading, Highest, Sure--
-Who thus adore Me, mastering their sense,
-Of one set mind to all, glad in all good,
-These blessed souls come unto Me.
-
-Yet, hard the travail is for such as bend their minds to reach th' Unmanifest. That viewless path sShall scarce be trod by man bearing the flesh! 
-
-But whereso any doeth all his deeds Renouncing self for Me, full of Me, fixed
-To serve only the Highest, night and day Musing on Me--him will I swiftly lift
-Forth from life's ocean of distress and death, Whose soul clings fast to Me. Cling thou to Me!
-
-Clasp Me with heart and mind! so shalt thou dwell surely with Me on high. But if thy thought
-Droops from such height; if thou be'st weak to set Body and soul upon Me constantly,
-Despair not! Give Me lower service! 
-
-Seek To reach Me, worshipping with steadfast will;
-
-If thou canst not worship steadfastly, work for Me, toil in works pleasing to Me!
-For he that laboureth right for love of Me shall finally attain! 
-
-But, if in this your faint heart fails, bring Me your failure. Find refuge in Me and let fruits of labour go.
-
-Renouncing hope for Me, with lowliest heart, so you shall come. 
-
-To know is more than diligence, yet worship better is than knowing, and renouncing better still.
-
-Very near to renunciation dwells Eternal Peace. 
-
-Who hateth nought
-Of all which lives, living himself benign,
-compassionate, from arrogance exempt,
-Exempt from love of self, unchangeable
-By good or ill; patient, contented, firm
-In faith, mastering himself, true to his word,
-Seeking Me, heart and soul; vowed unto Me,--
-
- -->
