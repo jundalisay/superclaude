@@ -4,7 +4,7 @@ title: "Metalloids or Semimetals"
 # date: 2020-01-27
 image: /photos/objects/gps.jpg
 description: ""
-weight: 26
+weight: 2
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

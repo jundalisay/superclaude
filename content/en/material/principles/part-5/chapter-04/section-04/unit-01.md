@@ -4,7 +4,7 @@ title: "Metals"
 # date: 2020-01-27
 image: /photos/objects/gauge.jpg
 description: ""
-weight: 36
+weight: 3
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

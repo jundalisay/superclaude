@@ -3,12 +3,12 @@
 {{- $color := .Params.c | default "darkslategray" -}}
 {{- $showDate := .Params.showdate -}}
 {{- $heading := .Params.heading -}}
+{{- $electronCount := .Params.e | int -}}
 
 {{/* Consolidate: use 'icon', then 'a', then 'blank' */}}
 {{- $displayIcon := .Params.icon | default .Params.a | default "blank" -}}
 {{- $isAvatarCard := or .Params.icon .Params.a -}}
-<!-- transition-transform duration-700 hover:brightness-110 -->
-
+{{- $hasElectrons := .Params.e -}}
 
 <article class="card-reveal rounded-2xl overflow-hidden group cursor-pointer h-full hover:shadow-2xl hover:-translate-y-2 transition-all duration-500
   {{ if $hasImage }}relative{{ else }}flex flex-col bg-sp-card border border-sp-border {{ end }} ">
@@ -16,7 +16,7 @@
 
   {{/* ── IMAGE CARD ── */}}
   {{ if $hasImage }}
-<div class="relative w-full aspect-[4/3] group-hover:scale-105  ease-out overflow-hidden bg-slate-900">
+<div class="relative w-full aspect-[4/3] group-hover:scale-105 ease-out overflow-hidden bg-slate-900">
   <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover"/>
   <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
   
@@ -49,8 +49,85 @@
   }
 </style>
 
+  {{/* ── AVATAR / ICON / PLAIN CARD WITH ELECTRONS ── */}}
+  {{ else if $hasElectrons }}
+    <div class="relative flex flex-row h-full p-5 aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden" 
+         style="background-color: black;">
 
-  {{/* ── AVATAR / ICON / PLAIN CARD ── */}}
+      <div class="relative z-20 flex flex-col justify-between w-2/5 h-full text-left">
+        <div>
+          {{ if $heading }}
+          <div class="mb-3">
+            <span class="text-[10px] md:text-xs font-display font-semibold px-2 py-1 rounded-full whitespace-nowrap"
+              style="background-color: rgba(0,0,0,0.6); color: white; border: 1px solid rgba(255,255,255,0.2);">
+              {{ $heading }}
+            </span>
+          </div>
+          {{ end }}
+          
+          <h2 class="text-white text-lg md:text-xl font-display font-semibold leading-tight line-clamp-8 drop-shadow-md">
+            {{ .Title }}
+          </h2>
+        </div>
+
+        {{ if and $showDate .Date }}
+        <time class="text-[10px] text-white/80 font-medium tracking-wide uppercase" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </time>
+        {{ end }}
+      </div>
+
+      <div class="absolute top-0 right-0 w-2/3 h-full z-10">
+        <div class="w-full h-full overflow-hidden transition-transform duration-700 group-hover:scale-110">
+          <div class="absolute inset-0 z-10" 
+               style="background: linear-gradient(to right, black 0%, transparent 40%, transparent 100%);">
+          </div>
+          
+          {{/* Atom Animation with Electrons */}}
+          <div class="w-full h-full flex items-center justify-center bg-black">
+            <div class="relative w-32 h-32 md:w-40 md:h-40">
+              <!-- Nucleus -->
+              <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-12 h-12 md:w-16 md:h-16 rounded-full bg-gradient-to-br from-red-500 to-red-700 shadow-lg animate-pulse"></div>
+              
+              <!-- Electron Orbits -->
+              {{ $electrons := $electronCount }}
+              {{ if gt $electrons 0 }}
+                <!-- Orbit rings -->
+                <div class="absolute inset-0 rounded-full border border-yellow-500/30 animate-spin" style="animation-duration: 4s;"></div>
+                <div class="absolute inset-0 rounded-full border border-yellow-500/30 animate-spin" style="animation-duration: 6s; animation-direction: reverse;"></div>
+                <div class="absolute inset-0 rounded-full border border-yellow-500/30 animate-spin" style="animation-duration: 5s; width: 85%; height: 85%; top: 7.5%; left: 7.5%;"></div>
+                
+                <!-- Electron particles -->
+                {{ range $i := seq $electrons }}
+                  {{ $angle := div (mul $i 360) $electrons }}
+                  {{ $delay := mul $i 0.5 }}
+                  <div class="absolute top-1/2 left-1/2 w-3 h-3 md:w-4 md:h-4 -mt-1.5 -ml-1.5 md:-mt-2 md:-ml-2"
+                       style="animation: orbit{{ $i }} {{ add 2 (mod $i 3) }}s linear infinite; animation-delay: {{ $delay }}s;">
+                    <div class="w-full h-full rounded-full bg-yellow-400 shadow-lg shadow-yellow-500/50"></div>
+                  </div>
+                  
+                  <style>
+                    @keyframes orbit{{ $i }} {
+                      0% {
+                        transform: rotate(0deg) translateX({{ if modBool $i 2 }}50{{ else }}45{{ end }}px) rotate(0deg);
+                      }
+                      100% {
+                        transform: rotate(360deg) translateX({{ if modBool $i 2 }}50{{ else }}45{{ end }}px) rotate(-360deg);
+                      }
+                    }
+                  </style>
+                {{ end }}
+              {{ end }}
+              
+              <!-- Glow effect -->
+              <div class="absolute inset-0 rounded-full bg-yellow-500/5 blur-xl"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  {{/* ── REGULAR AVATAR / PLAIN CARD ── */}}
   {{ else }}
     <div class="relative flex flex-row h-full p-5 aspect-[4/3] group-hover:scale-105 transition-transform duration-700 hover:brightness-110 ease-out overflow-hidden" 
          style="background-color: {{ $color }};">

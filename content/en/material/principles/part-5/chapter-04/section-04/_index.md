@@ -3,6 +3,7 @@ heading: Section 4
 title: "Metals"
 description: "The Metals of the Material Layer"
 e: 26
+image: /photos/physics/metals.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
