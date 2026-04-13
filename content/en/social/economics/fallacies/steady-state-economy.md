@@ -7,7 +7,7 @@ description : "The Steady State Economy is a fallacy that leads to draconian pol
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 
@@ -20,7 +20,7 @@ This causes people to look for alternative resource systems that are more sustai
 
 Its founder Herman Daly defines it as:
 
-{{< q >}}
+{{< q a="Herman Daly" >}}
 An economy with constant stocks of people and artifacts, maintained at some desired, sufficient levels by low rates of maintenance ‘throughput’, that is, by the lowest feasible flows of matter and energy from the first stage of production to the last stage of consumption. Immediately, the word 'constant' creates a problem because it must be defined and set. If applied to population, then it would justify imposing a one-chid or two-child policy as seen in China and Vietnam.
 {{< /q >}}
 
@@ -32,10 +32,12 @@ With the absurdity of the first definition, other steady state sites offer alter
 {{< /q >}}
 
 
-Steady state imposes a limit on production. Since you can only produce what is demanded, then you can only do this effectively by stifling demand or human desire in general. This can only be done by draconian or unnatural policies implemented by big governments. If laissez faire were 'no regulation' and high but unstable growth, then steady state would be the opposite 'excessive regulation,' leading to zero growth.
+Steady state imposes a limit on production. Since you can only produce what is demanded, then you can only do this effectively by stifling demand or human desire in general. 
+
+This can only be done by draconian or unnatural policies implemented by big governments. If *laissez-faire* were 'no regulation' with high but unstable growth, then steady state would be the opposite 'excessive regulation,' leading to zero growth, thus a "steady state" economy.
 
 
-### Steady State Policies
+## Steady State Policies
 
 Some of these unnatural policies and their effects are:
 
@@ -66,7 +68,11 @@ China seems to have been long stationary, and had probably long ago acquired tha
 
 From a shallow observation, it would seem that the Earth itself matches Smith's description of a 'country fully peopled' at 7.4 billion. Outsourcing has allowed work to be sent elsewhere, lowering wages, while free trade agreements allow foreign products in, pushing down profits. 
 
-However, like Smith's observation of China, this is only true because the prevailing economic system is unnatural. The ancient Chinese economy was unnaturally dominated by the ruling class as emperors, causing it to stagnate, while the current global economic system is dominated by the merchant class who are called 'capitalists' nowadays, causing 'secular stagnation' and even possible extinction via global warming. 
+However, like Smith's observation of China, this is only true because **the prevailing economic system is unnatural**. 
+- The ancient Chinese economy was unnaturally dominated by the ruling class as emperors, causing it to stagnate
+- The current global economic system is dominated by the merchant class who are called 'capitalists' nowadays, causing 'secular stagnation' and even possible extinction via global warming.
+
+> The prevailing economic system is unnatural
 
 Change the system, balance the classes naturally, then such a situation can be avoided naturally.
 
@@ -76,9 +82,20 @@ Another misinterpretation is the 200-year limit:
 What would it have been had the law given no direct encouragement to agriculture besides what arises indirectly from the progress of commerce, and had left the yeomanry in the same condition as in most other countries of Europe?It is now more than 200 years since the beginning of the reign of Elizabeth,a period as long as the course of human prosperity usually endures.
 {{< /q >}}
 
-That paragraph was taken from a chapter on how commerce contributes to wealth. Smith merely said that with zero agriculture or land investments (fixed capital), commercial wealth (circulating capital) can only last around 200 years. This observation is true when applied to societies that only use commerce or circulating capital -- mercantile companies. 
+That paragraph was taken from a chapter on how commerce contributes to wealth. Smith merely said that with zero agriculture or land investments (fixed capital), commercial wealth (circulating capital) can only last around 200 years. 
+
+This observation is true when applied to societies that only use commerce or circulating capital, such as **mercantile companies**. 
 
 ![Dutch](https://sorasystem.sirv.com/graphics/dutch.jpg)
+
+
+Company | Age at Collapse
+--- | ---
+Lehman Brothers | 158
+Thomas Cook Group | 178
+Barings Bank | 233
+Bowne & Co. | 235
+
 
 Smith's 200 year span holds true for most mercantile companies. It does not usually apply to nations, except maybe for mercantile towns and ports such as Amsterdam, Singapore and Hongkong which have very little land.
 
@@ -90,7 +107,7 @@ Smith's 200 year span holds true for most mercantile companies. It does not usua
 
 
 
-### So What is Steady State Good For?
+## So What is Steady State Good For?
 
 Smith always looked at the good and bad aspects of policies and systems. So on the positive, steady state goes straight into attacking the recklessness of profit maximization and deregulation advanced by Economics and brings up the threat of planetary destruction. 
 
@@ -112,6 +129,19 @@ Like Steady State, it advocates limits to growth but gives more details, such as
 8. Air pollution
 9. Ozone layer depletion 
 
-These are a sort of ecological casuistry and are based on effect instead of the cause. 
+These are a sort of ecological casuistry and are based on effect instead of the cause.
 
-In the next post, we show another strange theory called Resource-based Economy.
+
+## Update 2026: Alternative to Steady State and Doughnut
+
+We peg the fatal flaw of modern economic systems to the increase in greed, which is caused by the increased ego or feeling of the self which always comes with increasing wealth.
+
+This is because wealth is physical and is meant to support and emphasize physical existence. This is opposite of spirituality which bashes and even avoids physicality. Money and gambling support physical wealth and so is deeply linked to the modern economic system.
+
+Our alternative is to go against the self and into others through barter-credits. 
+
+Barter forces people to know what the other party makes and is interested in. 
+
+This builds relationality and economic fellow-feeling. 
+
+<!-- In the next post, we show another strange theory called Resource-based Economy. -->

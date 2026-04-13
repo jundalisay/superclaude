@@ -10,7 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
-  /social/economics/principles/dharma/  
+  /social/economics/principles/dharma/
+  /social/economics/principles/part-1/chapter-01c/
 ---
 
 
@@ -92,3 +93,4 @@ We use the word "personal" instead of "self" in order to point to the personalit
 Recall that:
 - **personality** is the combination of the physical mind, lower mind, and higher mind
 - **personality structure** arises from the accumulated beliefs imposed and samskaras gained. This can be seen as a reality-filter.
+
