@@ -1164,9 +1164,6 @@
   .-rotate-2 {
     rotate: calc(2deg * -1);
   }
-  .rotate-180 {
-    rotate: 180deg;
-  }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
   }
@@ -4136,21 +4133,21 @@ code, pre, .font-code {
 }
 .prose-sp h2 {
   font-family: var(--font-display);
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   font-weight: 800;
   margin: 2rem 0 0.75rem;
   color: #0d9488;
 }
 .prose-sp h3 {
   font-family: var(--font-display);
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
   margin: 1.5rem 0 0.5rem;
   color: #0d9488;
 }
 .prose-sp h4 {
   font-family: var(--font-display);
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: 600;
   margin: 1.25rem 0 0.5rem;
 }

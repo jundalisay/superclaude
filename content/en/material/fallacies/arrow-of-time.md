@@ -12,12 +12,11 @@ toc: false
 ---
 
 
-
 The Arrow of Time is a non-problem arising from the difference between:
 - the nature of the real perception of time, and 
 - the nature of the abstract perception (mathematical) of the real perecption of time
 
-Physicists ask why time only moves forward when, mathematically, it is possible to have time mmove both forward and backward.
+Physicists ask why time only moves forward when, mathematically, time can move both forward and backward (though this backward mathematical movement is fake).
 
 Time moving forward is proven in the real world by entropy which we call "radiance" that "radiates" or increases in 'disorder' e.g. We can never uncook an egg after its molecules have spread or radiated out.
 
@@ -132,10 +131,24 @@ If a person *really* wants to think about the nature of time, then he has to go 
 - If he goes into the nature of his own mind, then his analysis goes into Psychology and leaves Physics
 - If he goes into the nature of mind in general, then his analysis goes into Metaphysics
 
+To succeed in Metaphysics, you must get a direct experience of the Supreme in a state called Samadhi. 
 
-Going into either Psychology or Metaphysics leads to the aetherspace which exposes the spatial nature of the mind and therefore the nature of time.
+In such a state, the mind goes beyond space and time into the 5th Element or Layer called the pure aether. This will give first hand experience of how space and time are illusions. 
+
+That's what the founding team members (Juan and Jose) of Superphysics achieved.
+- Juan used his samadhi experience to create Material and Social Superphysics
+- Jose used his to create Bio Superphysics
+- A younger member Lam recently got onto the spiritual path and used her early (non samadhi) experiences to create Spiritual Superphysics
+
+This means going into either Psychology or Metaphysics which leads to the aetherspace which then exposes the spatial nature of the mind and therefore the nature of time.
 - Material Superphysics deals with physical time travel via UFOs
 - Bio Superhysics deals with mental time travel as clairvoyance
+
+We use the true nature of space and time to:
+- make predictions on social cycles. This is how we predicted the pandemic (Update 2026: and the Iran war)
+- organize our product backlog for Pantrypoints and Superphysics so our milestones remain timely e.g. push for agriculture just before a food crisis
+- stay younger for our age by reducing our consumption of time
+
 
 Physics does not have these things and so we suggest that they should stop thinking about time travel and time problems otherwise they just waste time going in circles with zero progress despite so much effort. 
 
