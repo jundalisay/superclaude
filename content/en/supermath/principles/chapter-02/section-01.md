@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "Vortex Numbers"
+title: "Static Vortex Numbers"
 date: 2025-03-18
 image: "/graphics/super/vortex.jpg"
 description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
@@ -23,6 +23,8 @@ Dead and Alive are key characteristics of the Physics of Descartes, Spinoza, Ber
 **No force is immediately perceived by itself.** It is only known and measured by its effects. But the *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
 {{< /q >}}
 
+
+<!-- 1 9 15 49 -->
 
 
 ## Instance of Identity

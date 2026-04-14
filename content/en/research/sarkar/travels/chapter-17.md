@@ -34,8 +34,7 @@ Yes, I understand. But how useful is it to explain this to others?  -->
 
 Dada Amalvikashananda remembered an experience which he had in front of the same door.
 
-"A few weeks ago," he said, "Baba smashed my ego just beyond this door. I was standing there and talking with Him. He shouted at me about my poor work. I was so embarrassed, thinking that everyone was hearing. So very softly, 
-I said to Him, Baba, excuse me, but maybe it's better you rebuke me inside the 
+"A few weeks ago," he said, "Baba smashed my ego just beyond this door. I was standing there and talking with Him. He shouted at me about my poor work. I was so embarrassed, thinking that everyone was hearing. So very softly, I said to Him, Baba, excuse me, but maybe it's better you rebuke me inside the 
 house; the neighbors are listening, and they may get the wrong idea.' 
 
 "Baba raised His eyebrows and said sharply in English, 'Prestige, huh? Prestige...' 
@@ -43,35 +42,29 @@ house; the neighbors are listening, and they may get the wrong idea.'
 "He let His words sink into my brain. Then without going inside. He went on shouting at me, with only one difference-His voice tripled in volume." 
 
 
-### New cultures: adapt or clash out 
+## New cultures: adapt or clash out 
 
-Tokyo, Japan. After 8 years working in Europe, I've been posted to the Far East Asia sector as the Public Relations Secretary, with additional duties as Medical Secretary and Publications Secretary. 78 Though our head office is in 
-Tokyo, our greatest number of Margis are in Taiwan. 
+Tokyo, Japan. After 8 years working in Europe, I've been posted to the Far East Asia sector as the Public Relations Secretary, with additional duties as Medical Secretary and Publications Secretary. 
 
-This posting is interesting for me from a cultural perspective. It may also have a radical psychological effect on me because Oriental human relations are completely different from what I'm used to. Until now I could get away with 
-being individualistic, forcefully determined, even blunt and ambitious. Not so here. These qualities are generally unacceptable among Japanese, Chinese and Koreans.
+Though our head office is in Tokyo, our greatest number of Margis are in Taiwan. 
+
+The Far East Asia sector consists of Japan, Taiwan, South Korea, Hong Kong, Macao, Mainland China, Tibet, Mongolia, North Korea, AsiaticRussia, and the 5 Asian countries of the previous Soviet Union. Because the last ten countries occupy 90% of the geographical area of the sector, yet were, at this time, under oppressive communist regimes, we were only able to work openly in 10% of the sector. 
+
+This posting is interesting for me from a cultural perspective. It may also have a radical psychological effect on me because Oriental human relations are completely different from what I'm used to. 
+
+Until now I could get away with being individualistic, forcefully determined, even blunt and ambitious. Not so here. These qualities are generally unacceptable among Japanese, Chinese and Koreans.
 
 [Author's note: Such changes in myself did not come as easily as I hoped. 
 
-Though it did not take long for me to properly alter my external behavior, the more important development was a mental one. Orientals rarely directly say what they intend to communicate; most of them are more sensitive on the 
-feeling level. 
+Though it did not take long for me to properly alter my external behavior, the more important development was a mental one. Orientals rarely directly say what they intend to communicate; most of them are more sensitive on the feeling level. 
 
-So the mental change I had to undergo to live and work with them 
-related to becoming more silent and attuning my intuition. It was such a deep 
-process that, even now years later, I don't feel I have completed it.] 
+So the mental change I had to undergo to live and work with them related to becoming more silent and attuning my intuition. It was such a deep process that, even now years later, I don't feel I have completed it.] 
 
 
-8 The Far East Asia sector consists of J apan, Taiwan, South K orea, Hong K ong, M acao, 
-
-M ainland China, Tibet, M ongolia, North K orea, Asiatic Russia, and thefiveAsian countries of 
-theprevious Soviet Union. Because the last ten countries occupy 90% of the geographical area 
-of the sector, yet were, at this time, under oppressive communist regimes, we were only able to 
-work openly in ten percent of the sector. 
+Three months later. Public Home Concert program held for the public in the yoga center this evening. The program included mime, Indian sitar music, and modem dance.
 
 
-Three months later. Public Home Concert program held for the public in the yoga center this evening. The program included mime, Indian sitar music, and modem dance. 79 
-
-Bad stimulates good 
+## Bad stimulates good 
 
 Train from Delhi to Calcutta. A song inspired by yesterday's train journey 
 in an over-crowded second-class wagon: 
@@ -96,24 +89,7 @@ min, or else mankind will be destroyed soon.
 But don't you worry, Jimmy or Joe, 
 there's purpose in this painful show. 
 
-
-79 This was the first of our Home Concert series, which continued on a monthly basis for seven 
-years. Renaissance Artists and Writers Association (RAWA) became well known to much of 
-Tokyo's progressive community because of these special programs. I say special because in all of 
-J apan, R A WA's concerts were the only informal affairs at which there was no smoking or 
-drinking, at which the performers knew they would be watched with full attention, and after 
-which fine vegetarian meals were served during which peoplehad an opportunity to socialize. 
-
-
-
-291 
-
-
-Travels with the Mystic Master 
-
-
-Realization comes out of clash. So pity the 
-man with excessive cash. 
+Realization comes out of clash. So pity the man with excessive cash. 
 
 Refrain 
 
@@ -134,3 +110,10 @@ for Prout. Come out for Prout.
 Do you like It, my boy? 
 
 
+
+79 This was the first of our Home Concert series, which continued on a monthly basis for seven 
+years. Renaissance Artists and Writers Association (RAWA) became well known to much of 
+Tokyo's progressive community because of these special programs. I say special because in all of 
+J apan, R A WA's concerts were the only informal affairs at which there was no smoking or 
+drinking, at which the performers knew they would be watched with full attention, and after 
+which fine vegetarian meals were served during which peoplehad an opportunity to socialize. 

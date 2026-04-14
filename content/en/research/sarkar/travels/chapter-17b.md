@@ -115,16 +115,9 @@ not permitted."
 
 Even in the case of Dadas, boys will be boys. 
 
-[Author's note: This reminds me of an incident that occurred when Baba was in Germany. At 10:00 a.m. on a fasting day. Dada Karunananda and I were waiting for Baba in His house. We were alone when we 
-noticed four glasses, each with a small amount of orange juice. Obviously this 
-was the remains of a pre-dawn drink Baba had taken in preparation for fasting. 
-We grinned at each other, and, without exchanging a word, each picked up a 
-glass and bottomed-up. Then, laughing with glee, we proceeded to the third and 
-fourth glasses—merrily breaking our fasts. Actually, I didn't really feel as if I 
-had broken my fast, since the orange juice was pure prasad— not food. I didn't 
-feel the slightest twinge of conscience. To the contrary, even now looking back 
-so many years, I still derive a certain pleasure from the simple devotion that 
-guided us. ] 
+[Author's note: This reminds me of an incident that occurred when Baba was in Germany. At 10:00 a.m. on a fasting day. Dada Karunananda and I were waiting for Baba in His house. We were alone when we noticed four glasses, each with a small amount of orange juice. 
+
+Obviously this was the remains of a pre-dawn drink Baba had taken in preparation for fasting. We grinned at each other, and, without exchanging a word, each picked up a glass and bottomed-up. Then, laughing with glee, we proceeded to the third and fourth glasses—merrily breaking our fasts. Actually, I didn't really feel as if I  had broken my fast, since the orange juice was pure prasad— not food. I didn't feel the slightest twinge of conscience. To the contrary, even now looking back  so many years, I still derive a certain pleasure from the simple devotion that guided us. ] 
 
 81 Dadas and Didis are not permitted to eat mildly stimulating food like chocolate, non-herbal tea, coffee and Coca Cola. Baba, however, did not follow such a restriction because He wished to provide a living example not only for renunciates but also for family people (who are permitted to eat such things in moderation). For the same reason. He also shaved. However, He fasted 4 times a month like a renunciate, and of course completely refrained from consuming such foods as meat, fish, eggs, onion, garlic, mushroom, alcohol and narcotics. 
 

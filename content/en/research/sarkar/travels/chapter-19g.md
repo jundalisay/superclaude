@@ -1,82 +1,130 @@
 ---
-title: "Pretending to be normal"
-heading: "Chapter 19g"
+title: "The peculiar business of making saints"
+heading: "Chapter 19f"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
 c: "indigo"
-weight: 326
+weight: 322
 author: Dada
 ---
+
  
 
-Baba has a peculiar nasal voice. The public would not consider it appealing or magnificent. 
+<!-- All the other workers were doing meditation, and I alone guessed that Baba's door was wide open. I stood there for half an hour, looking at Him as He talked .  -->
 
-After hearing Baba's voice for more than ten years, today I was surprised hearing His voice becoming beautiful and mellow, like a trained public speaker. 
+Baba was in a fine mood, laughing and joking with Dada Keshavananda. Toward the end, Keshavanandaji gave Him a soft drink. Like a child, Baba wore a napkin tucked in at His neck, and sipped repeatedly at the plastic straw, enjoying Himself. 
 
-The scene was appropriate for this attractive voice, because He spoke to the Prout candidates for state assemblies in India. 
+I felt a change in the air, and knew something was coming.
 
-It was as if He wanted to give them an example how to speak to the public though He did not say it in so many words. 
+<!-- , though they still talked lightly together.  -->
 
-A portion of His speech in English: 
+Suddenly, Baba began shouting loudly, and Keshavanandaji jumped up and ran out of the room, calling the Central workers. 
 
-{{< q a="Baba" >}}
-"Communism was a Utopian idea never to be materialized on this earth. Now most of the countries have recognized this fact. So this is the opportune moment for Prout to come. We have to propagate it among 
-the intellectuals. 
+Baba, alone now, continued shouting. 
 
-The time is come. In each and every corner of the earth. In each and every hearth of human soul. For this we need more Prout cadres. 
+Within seconds, they all clambered into His room. Boiling with rage, He charged them with numerous crimes. They could hardly reply. 
 
-48 new wholetimers in India, and 48 new wholetimers overseas. Help this project. It is not enough, but for the time being it may do something. I said twice before, the time is come. 
+Within no time, punishment was allocated, and all these senior workers rolled onto their backs and into the shoulder stand, their legs pointed up in the air. 
 
-There is no other philosophy to solve the world's problems and quench human thirst. This election proved there is a need and a demand. The world wants you. No time is to be lost. There is dire necessity." 
-{{< /q >}}
+Some of them are old gray haired men. 
 
+As soon as they were so positioned, Baba returned to His drink, as if nothing had happened. He spoke mildly with Keshavanandaji, and paid absolutely no attention to the score of workers so oddly assembled before Him. 
 
-<!-- Perhaps each and every action of Baba is calculated for its effect. He is a full-time unpaid actor.  -->
-
-To imagine that all these years He was speaking in an artificial voice. And why did He pick such a nasal sound? 
-
-I can guess that He wanted us to be attracted only by His way of living, His ideas, and His sacrifice. 
-
-Perhaps this is why He wears glasses, dresses simply, and appears normal. In the early days, before Ananda Marga was well known, it often happened in train stations that non-Margis would approach Dadas to pay their respects, never even noticing Baba. 
-
-I remember a story from many years ago: 
-
-A certain Margi believed that Baba did not need spectacles, but only wore them because His unobstructed gaze was too over-powering. One day, this Margi served Baba His meal. When he entered the room, he saw Baba reading a newspaper without wearing His glasses. But He was holding the paper very close to His eyes.
-
-The shocked Margi thought, My God! Baba does need glasses! He stood there, holding the tray of food, unable to move. Wild thoughts entered his mind: perhaps he had over-estimated Baba; perhaps Baba 
-was not really powerful; perhaps He was not a true guru. 
-
-After thinking this for some time, he noticed that Baba was holding the newspaper upside-down. 
-
-In that moment, Baba lowered the paper, looked at the Margi, and smiled. 
-
-<!-- Going to Ananda Nagar instead of staying with Baba  -->
+The workers smiled at each other, whispered together, and, knowing it would be a long session, secretly leaned their legs against the walls. 
 
 
-### Heart Attack
+### Tears in our eyes 
 
-Everyone is alarmed. Baba has experienced some sort of heart failure, and was admitted to the emergency ward of a private nursing home. 
+Today was the last day of this month's reporting so all the sectorial representatives were holding garlands, hoping to get a chance to place them on Baba. During these last months He had not directly received any garlands, but rather accepted them only through His personal assistant. 
 
-The festive atmosphere of yesterday is now replaced by a gloomy one. 
+Still, we had hope. 
 
-Next day. Workers and Margis have decided to hold continuous kiirtan until Baba is cured. The kiirtan has been super-high. 
+After He returned from field walk, we quickly lined up at the side door. There are two entrances to the main reporting room: the front door, and the side door which Baba uses as He walks upstairs to His room. 
 
-<!-- Now again everyone is feeling inspired.  -->
+He would not enter the reporting room at this late time. Since Fareast Asia — Hong Kong Sector — is always the first to be called, I stood at the front of the line. For some minutes He talked to us. Then He turned to go upstairs. We would not be able to put our garlands on 
+Him... 
 
-Next day. Just after the kiirtan reached the 24-hour mark, Baba sent a message from the nursing home: "All Margis and workers should proceed to Ananda Nagar for the winter program. May it be a grand 
-success. 
+Then abruptly He pivoted, and walked into the reporting room. 
+Within a moment He was seated, and I heard Keshavanandaji yell, 
+"Hong Kong Sector!" 
 
-Keep in mind 3 points:
+The narrow path back around the house to the front was blocked by 26 workers: two Dadas and one Didi from each of the nine sectors. 
 
-1. All Margis should love Ananda Nagar.
+I could not push them aside, but neither could I delay when I was being called before Baba. So I jumped. I wonder how I did it, and still people ask me about it, but I jumped over this entire crowd of workers, and in no time ran through the front door and up to Baba. 
 
-If any don't yet love Ananda Nagar, they should start to love it now.
+Keshavanandaji smiled broadly and tilted his head, also marveling at how I came so fast. 
 
-2. Ananda Nagar is the best place for Margis.
+Without waiting for permission, I placed my garland over Baba's head, and draped it on His neck. His eyes glittered. All my excitement disappeared as I became lost in His affection. 
 
-3. Every Margi's body should touch the soil of Ananda Nagar." 
+"Did you enjoy the program, Dharmavedananda?" 
 
-Though Baba remained away, we had to follow His directives. We stopped the kiirtan, and left for Ananda Nagar. 
+"Too much, Baba." 
 
-Five days later. Ananda Nagar. As Baba foretold, our spiritual festival was "a grand success." About 30,000 Margis attended. 
+"But do you remember our days together in Berlin Sector?" 
 
-65 full-timers and Margis decided to go for acharya training, and 20 pieces of land were donated for making model communities. 
+His tone made me start crying. "Just like... it was yesterday... Baba." 
+
+He smiled at me, and kept His eyes on me, though He said nothing. 
+His eyes also teared. After some time the magic shifted, and He did 
+namaskar to me, tears still shining in our eyes. 
+
+From that moment my state of mind was so altered that I cannot 
+remember anything else that happened. 
+
+Y ou will see 
+
+Dada Mantreshvarananda told me that on a recent field walk he had 
+the following conversation with Baba: 
+
+DADA: Baba, today the materialists have all the power. They have all 
+the manpower, all the wealth, all the technological strength. The spiritual-moralists, on the other hand, are but few in number, having no wealth, and almost no machinery. Excuse me for asking, Baba, but in the face of this reality, how can we expect to see the realization of a 
+Proutist government within any reasonable period of time? 
+
+BABA (abruptly turning toward Mantreshvaranandaji): There is no one who can stop Prout's progress. It will be established within a very short time. (Pointing His finger at Dada) You will see. 
+
+Improving bodies for improved service 
+
+During reporting of Dadas, in the midst of the review of one worker, 
+Baba suddenly interrupted him: 
+
+BABA: There is a dull pain in the lower vertebrae of your spine. Is it 
+not? 
+
+DADA: Yes, Baba. 
+
+BABA: Occasionally it flares into acute pain. Is it not? 
+
+DADA: Yes, Baba. 
+
+BABA: Have you not experienced these symptoms for several years? 
+DADA: Yes, Baba. 
+
+BABA (looking at the General Secretary): GS Da, place your right thumb 
+in my palm. (The General Secretary does so, and Baba rubs his thumb 
+between His two hands.) What is the feeling in your thumb now? 
+GENERAL SECRETARY: It is very hot, Baba. 
+
+BABA: Using that hot thumb, touch the vertebrae in the area of his 
+svadhistana chakra (i.e., area of lower back). (Speaking to first Dada:) 
+
+Is that the area of your pain? 
+
+DADA: Yes, Baba. 
+
+BABA: GS, twist and turn your hot thumb ... move slightly higher ... 
+yes... now move down the spine ... continue ... yes ... that is enough. 
+
+Now, how do you feel, my boy? 
+
+DADA: I feel full of power. 
+
+BABA: And the pain? 
+
+DADA: It is gone, Baba. 
+
+BABA: It will not return. Now, what plan have you chalked out for 
+the use of your improved body? 
+
+DADA: I will do maximum service to the suffering humanity, Baba. 
+BABA: Very good. Very good. 
+
+

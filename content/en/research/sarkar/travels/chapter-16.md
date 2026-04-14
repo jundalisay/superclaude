@@ -10,9 +10,7 @@ author: Dada
 
 Manerbio, Italy. 1982. The Margis have uncovered a major case of graft and corruption, and have organized a movement to try to stop it —Prout in action! 
 
-74 In a few months the local government plans to close the Manerbio hospital and shift its facilities to another town. The only reason for the move is the financial benefit it will bring to the host of companies involved in the 
-construction of the new hospital. The losers will be the people of Manerbio, 
-who will lose their hospital. 
+In a few months the local government plans to close the Manerbio hospital and shift its facilities to another town. The only reason for the move is the financial benefit it will bring to the host of companies involved in the construction of the new hospital. The losers will be the people of Manerbio, who will lose their hospital. 
 
 Sister Damayanti is the leader of this fledgling movement, along with her husband Jiivananda and two other Margis. Over the last few weeks many volunteers have helped them to distribute leaflets and collect petition signatures. 
 
@@ -20,12 +18,14 @@ Today they held their first demonstration. It was a grand success.
 
 Over 4000 people came and joined in the march. 
 
-Two months later. By now, the "Save Our Hospital" movement has had four demonstrations, with up to 8000 participants apiece. A few days ago an incident occurred which showed how much the local people have come to trust the Margis: During a village meeting held in a market place, speakers expressed their opinions about city conditions. At one point, a well-known 
-priest said, "We have to encourage more the involvement by the young people of our city. Just see what good work is 
+Two months later. By now, the "Save Our Hospital" movement has had four demonstrations, with up to 8000 participants apiece. A few days ago an incident occurred which showed how much the local people have come to trust the Margis: During a village meeting held in a market place, speakers expressed their opinions about city conditions. 
+
+At one point, a well-known priest said, "We have to encourage more the involvement by the young people of our city. Just see what good work is 
 being done by those leading the Save Our H ospitat movement."
 
-74 At this point in time, Prout people's movements outside of India were still a novelty, i.e, such work had only just begun. Though M argis were the leaders of these actions, the participants 
-were primarily non-M argis. The actions were of two main types—positive constructive programs and anti-exploitation drives. For example, I had recently participated in initiating a mass-housing action in Holland, and an anti-pornography drive in Norway. 
+74 At this point in time, Prout people's movements outside of India were still a novelty, i.e, such work had only just begun. Though M argis were the leaders of these actions, the participants were primarily non-Margis.
+
+The actions were of two main types—positive constructive programs and anti-exploitation drives. For example, I had recently participated in initiating a mass-housing action in Holland, and an anti-pornography drive in Norway. 
 
 In India, Prout people's movements had already begun many years before. Some had the support of hundreds 
 of thousands of people. 
@@ -113,56 +113,114 @@ While informing Baba of the progress of these cases, one worker asked Baba for g
 
 Baba replied: 
 
-"Ours is a missionary work. You are all working for long and have sufficient experience. Must I give suggestions on each and every petty matter? 
+{{< l a="Baba" >}}
+Ours is a missionary work. You are all working for long and have sufficient experience. Must I give suggestions on each and every petty matter? 
 
-It gives me much pain. If you all are simply sincere with your meditation and 16 Points, you will get the necessary insight and intuition. This applies to all workers." 
+It gives me much pain. If you all are simply sincere with your meditation and 16 Points, you will get the necessary insight and intuition. This applies to all workers.
+{{< /l >}}
+
 
 He requested this statement to be made known to all workers. 
 
-75 Since apparently Baba knew the attack would occur, the question may arise why He allowed the school teachers to fall into the trap. Why does Baba (or for that matter God) allow anyone in the world to suffer or die? I believe that suffering can often be a positive force in the path of spiritual awakening. We are born in order to realize life's lessons. 
+Since apparently Baba knew the attack would occur, the question may arise why He allowed the school teachers to fall into the trap. Why does Baba (or for that matter God) allow anyone in the world to suffer or die? I believe that suffering can often be a positive force in the path of spiritual awakening. We are born in order to realize life's lessons. 
 
-Suffering and death are vital for that realization. Why Baba freed some people from certain suffering, and did not free 
-others, isa far too complicated matter for me. Thedeep psycho-spiritual needsof both 
-individuals and the society are involved. Surely He had His plan, and followed it. 
+Suffering and death are vital for that realization. Why Baba freed some people from certain suffering, and did not free others, isa far too complicated matter for me. Thedeep psycho-spiritual needsof both individuals and the society are involved. Surely He had His plan, and followed it. 
 
 
 
 Ananda Nagar. During afternoon reporting, one-by-one we stood in front of Baba, undergoing His scrutiny. When it was my turn. He exposed some of the defects of my work, and then began beating me with His stick. 
 
-The General Secretary said to me, "Give some explanation." 
+The General Secretary said to me:
 
-Usually workers reply by saying something like, "I will do my work better, Baba," or "I tried my best. Baba, but couldn't get the public's response," or "Baba, Baba, Baba!" or some other unimpressive statement. Generally He continues the beating for some time. 
+{{< l a="General Secretary" >}}
+Give some explanation.
+{{< /l >}}
 
-But I said spontaneously, "I am lazy and selfish!" 
+
+Usually, workers reply by saying something like:
+- "I will do my work better, Baba" or
+- "I tried my best. Baba, but couldn't get the public's response"
+- "Baba, Baba, Baba!" or some other unimpressive statement. 
+
+Generally He continues the beating for some time. 
+
+But I said spontaneously:
+
+{{< r a="Dharmavedananda" >}}
+I am lazy and selfish!
+{{< /r >}}
+
 
 His whopping became softer. 
 
-"I am stupid and insincere!" 
+{{< r a="Dharmavedananda" >}}
+I am stupid and insincere!
+{{< /r >}}
+
 
 The beating stopped. 
 
-"What do you say, my boy?" Baba said. "I will change my ways and not waste a single solitary moment!" I said decidedly. 
+{{< l a="Baba" >}}
+What do you say, my boy?
+{{< /l >}}
 
-"Yesss. Very good."
+{{< r a="Dharmavedananda" >}}
+I will change my ways and not waste a single solitary moment!
+{{< /r >}}
 
-Afterward, one Dada said to me, "Those replies to Baba were very clever." 
+{{< l a="Baba" >}}
+Yesss. Very good.
+{{< /l >}}
 
-"But I meant it," I said. 
+Afterward, one Dada said to me:
 
-During the night reporting that same Dada came under Baba's stick. Immediately he said. "I'm worthless and slothful!" Beat beat beat. 
+{{< l a="Dada" >}}
+Those replies to Baba were very clever.
+{{< /l >}}
 
-"I'm egoistic and not industrious!" Beat beat beat. 
+{{< r a="Dharmavedananda" >}}
+But I meant it.
+{{< /r >}}
 
-"Yes, yes. We know that," said Baba. 
+During the night reporting that same Dada came under Baba's stick. Immediately he said. 
+
+{{< r a="Dada" >}}
+I'm worthless and slothful!
+{{< /r >}}
 
 Beat beat beat. 
 
-"But I'll become a perfect worker, Baba!" Beat beat beat. 
+{{< r a="Dada" >}}
+I'm egoistic and not industrious!
+{{< /r >}}
 
-"Just words. Just words," said Baba. Beat beat beat. 
+
+Beat beat beat. 
+
+{{< l a="Baba" >}}
+Yes, yes. We know that
+{{< /l >}}
+
+Beat beat beat. 
+
+{{< r a="Dada" >}}
+But I'll become a perfect worker, Baba!
+{{< /r >}}
+
+
+Beat beat beat. 
+
+{{< l a="Baba" >}}
+Just words. Just words
+{{< /l >}}
+
+Beat beat beat. 
 
 The Dada looked at me. I shrugged my shoulders. 
 
-"Baba, Baba, Baba!" he said. 
+{{< r a="Dada" >}}
+Baba, Baba, Baba!
+{{< /r >}}
+
 
 The beating went on about double the normal time for him. 

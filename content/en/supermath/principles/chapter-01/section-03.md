@@ -3,7 +3,7 @@ heading: "Section 3"
 title: "The Four Operations of Arithmetic on Instances"
 date: 2025-03-08
 image: "/photos/math/4ops.jpg"
-description: ""
+description: "Arithmetic is the basic core of mathematics that uses 4 operations from the flow which matches the 4 properties of waves"
 weight: 14
 ---
 
@@ -20,15 +20,14 @@ Multiplication | Spread
 
 
 
-
-1. Addition as 1st Property of Waves
+## 1. Addition as 1st Property of Waves
 
 The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
 
 This leads to infinities.
 
 
-2. Division is the 2nd Property of Waves
+## 2. Division is the 2nd Property of Waves
 
 The 2nd Property of Waves is frequency. A sound can be divided into smaller parts.  
 
@@ -45,18 +44,30 @@ The probabilistic part turns the instance into a spiral instead of a static circ
 We call this spiral as a fractal in supermath.
 
 
-3. Subtraction as the 3rd Property of Waves 
+### Square and Cube Roots are Reduction of Dimensions
+
+Roots are the reduction of dimensions.
+
+
+
+## 3. Subtraction as the 3rd Property of Waves 
 
 The 3rd Property of Waves is amplitude. A wave can have positive and negative values as it goes up and down.
 
 This leads to negative numbers.
 
 
-4. Multiplication as the 4th Property of Waves 
+## 4. Multiplication as the 4th Property of Waves 
 
 The 4th Property of Waves is forward movement of the fractal or spiral. Multiplication expands just as division contracts. 
 
 This is why multiplication leads to higher dimensions just as division leads to densities, as probabilities or unit voids. 
+
+
+### Exponents as Increasing Dimensions
+
+Exponents are self-multiplication that represents an increase of dimensions.
+
 
 
 ## Starting Points

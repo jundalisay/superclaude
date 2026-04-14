@@ -1,53 +1,38 @@
 ---
-heading: "Section 4"
-title: "Fractals"
-date: 2025-11-06
-image: "/photos/objects/fractal.jpg"
-description: ""
-weight: 28
+heading: "Section 5"
+title: "Dynamic Vortex (Complex) Numbers"
+date: 2026-04-13
+image: "/graphics/super/vortex.jpg"
+description: "Dynamic Vortex numbers are called complex numbers by math"
+weight: 6
 ---
 
 
+Section 1 explained static vortex numbers, giving importance to bases. 
 
-A fractal is an infinitely complex geometric shape with a repeating pattern that is self-similar across different scales.
+These are used for physical constants which are numbers seen in Nature, and math constants seen in the relationship between ratios.
 
-If you zoom in on a part of a fractal, it will look similar to the whole image. 
+Since the universe is dynamic then all constants are actually never ending. 
 
-Fractals are found in nature, such as in coastlines, snowflakes, and tree branches, and can be generated through repeating a simple mathematical process. 
+Math calls never ending numbers as irrational numbers.
 
+On the other hand, numbers that are never constant or probabilistic are called complex numbers. 
 
-## Dynamic Fractals Versus Static Shapes
+The core mechanism that makes them probabilistic is the imaginary number, which we call a unit void or unit spin.
 
-Chapter 1 Section 3 explained that fractals are spirals caused by relationality as division or the 2nd property of waves (density). 
-
-Instead of looping as static circles, they form 3D spirals because of unit voids (as imaginary numbers or probabilities).
-
-This then is proof of:
-- time being made up of independent moments
-- space being made up of independent slices
+This is because imaginary numbers are aethreal i.e. the cause of the probabilisticness of imaginary numbers is the arbitrary nature of the aether. 
 
 
-In Material Superphysics, this will be used for teleportation. This is embodied in our aethereal Cartesian Plane.
+Complex numbers are the core components of Superfractalization which plots the relational spins of discrete identities. 
 
-In Bio Superphysics, this will be used to get out of the spin or pull of disease. This is embodied in our 10 point model which is version of the aethereal Cartesian Plane.
 
-In Supereconomics, this will be used to drive prosperity and make businesses and economies more efficient, with all productive forces spinning in harmony. This is embodied in our DCIT model which is based on the 4 properties of waves.
+The components of Superfractalization are:
 
-In Supersociology, this will prevent war and lead to a world government that harmonizes national spins.  This is based on the 4 social cycles or spins. 
-
-In Spiritual Superphysics, this will be used to gain higher states of mind. This is based on the 4 paths to yoga. 
+1. A dynamic identity 
+2. Identity space
+3. Another identity
 
 
 
-<!-- They do not 
-
-Superphysics organizes everything into waves and nodes or particles.
-- Waves are dynamic and continuous
-- Nodes are static and discrete
-
-We use shapes such as points, triangles, spheres, and pentagons for the static parts of Nature such as the 5 Elements. 
-
-We use fractals which are repeating patterns within these shapes to show the dynamic effect of the 2 Forces persisting in Nature.
 
 
- -->

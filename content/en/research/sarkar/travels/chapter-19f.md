@@ -1,130 +1,167 @@
 ---
-title: "The peculiar business of making saints"
-heading: "Chapter 19f"
+title: "Society's high expectations"
+heading: "Chapter 18b"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
 c: "indigo"
-weight: 322
+weight: 318
 author: Dada
 ---
-
  
 
-<!-- All the other workers were doing meditation, and I alone guessed that Baba's door was wide open. I stood there for half an hour, looking at Him as He talked .  -->
+(During the meeting of the district incharges from Area West of the 
+Indian Sector. A Margi stands in front of Baba.) 
 
-Baba was in a fine mood, laughing and joking with Dada Keshavananda. Toward the end, Keshavanandaji gave Him a soft drink. Like a child, Baba wore a napkin tucked in at His neck, and sipped repeatedly at the plastic straw, enjoying Himself. 
-
-I felt a change in the air, and knew something was coming.
-
-<!-- , though they still talked lightly together.  -->
-
-Suddenly, Baba began shouting loudly, and Keshavanandaji jumped up and ran out of the room, calling the Central workers. 
-
-Baba, alone now, continued shouting. 
-
-Within seconds, they all clambered into His room. Boiling with rage, He charged them with numerous crimes. They could hardly reply. 
-
-Within no time, punishment was allocated, and all these senior workers rolled onto their backs and into the shoulder stand, their legs pointed up in the air. 
-
-Some of them are old gray haired men. 
-
-As soon as they were so positioned, Baba returned to His drink, as if nothing had happened. He spoke mildly with Keshavanandaji, and paid absolutely no attention to the score of workers so oddly assembled before Him. 
-
-The workers smiled at each other, whispered together, and, knowing it would be a long session, secretly leaned their legs against the walls. 
+{{< l a="Baba" >}}
+GS, ask him how many full-timers he created.
+{{< /l >}}
 
 
-### Tears in our eyes 
+{{< r a="General Secretary" >}}
+How many full-timers did you create in the last one year? 
+{{< /r >}}
 
-Today was the last day of this month's reporting so all the sectorial representatives were holding garlands, hoping to get a chance to place them on Baba. During these last months He had not directly received any garlands, but rather accepted them only through His personal assistant. 
-
-Still, we had hope. 
-
-After He returned from field walk, we quickly lined up at the side door. There are two entrances to the main reporting room: the front door, and the side door which Baba uses as He walks upstairs to His room. 
-
-He would not enter the reporting room at this late time. Since Fareast Asia — Hong Kong Sector — is always the first to be called, I stood at the front of the line. For some minutes He talked to us. Then He turned to go upstairs. We would not be able to put our garlands on 
-Him... 
-
-Then abruptly He pivoted, and walked into the reporting room. 
-Within a moment He was seated, and I heard Keshavanandaji yell, 
-"Hong Kong Sector!" 
-
-The narrow path back around the house to the front was blocked by 26 workers: two Dadas and one Didi from each of the nine sectors. 
-
-I could not push them aside, but neither could I delay when I was being called before Baba. So I jumped. I wonder how I did it, and still people ask me about it, but I jumped over this entire crowd of workers, and in no time ran through the front door and up to Baba. 
-
-Keshavanandaji smiled broadly and tilted his head, also marveling at how I came so fast. 
-
-Without waiting for permission, I placed my garland over Baba's head, and draped it on His neck. His eyes glittered. All my excitement disappeared as I became lost in His affection. 
-
-"Did you enjoy the program, Dharmavedananda?" 
-
-"Too much, Baba." 
-
-"But do you remember our days together in Berlin Sector?" 
-
-His tone made me start crying. "Just like... it was yesterday... Baba." 
-
-He smiled at me, and kept His eyes on me, though He said nothing. 
-His eyes also teared. After some time the magic shifted, and He did 
-namaskar to me, tears still shining in our eyes. 
-
-From that moment my state of mind was so altered that I cannot 
-remember anything else that happened. 
-
-Y ou will see 
-
-Dada Mantreshvarananda told me that on a recent field walk he had 
-the following conversation with Baba: 
-
-DADA: Baba, today the materialists have all the power. They have all 
-the manpower, all the wealth, all the technological strength. The spiritual-moralists, on the other hand, are but few in number, having no wealth, and almost no machinery. Excuse me for asking, Baba, but in the face of this reality, how can we expect to see the realization of a 
-Proutist government within any reasonable period of time? 
-
-BABA (abruptly turning toward Mantreshvaranandaji): There is no one who can stop Prout's progress. It will be established within a very short time. (Pointing His finger at Dada) You will see. 
-
-Improving bodies for improved service 
-
-During reporting of Dadas, in the midst of the review of one worker, 
-Baba suddenly interrupted him: 
-
-BABA: There is a dull pain in the lower vertebrae of your spine. Is it 
-not? 
-
-DADA: Yes, Baba. 
-
-BABA: Occasionally it flares into acute pain. Is it not? 
-
-DADA: Yes, Baba. 
-
-BABA: Have you not experienced these symptoms for several years? 
-DADA: Yes, Baba. 
-
-BABA (looking at the General Secretary): GS Da, place your right thumb 
-in my palm. (The General Secretary does so, and Baba rubs his thumb 
-between His two hands.) What is the feeling in your thumb now? 
-GENERAL SECRETARY: It is very hot, Baba. 
-
-BABA: Using that hot thumb, touch the vertebrae in the area of his 
-svadhistana chakra (i.e., area of lower back). (Speaking to first Dada:) 
-
-Is that the area of your pain? 
-
-DADA: Yes, Baba. 
-
-BABA: GS, twist and turn your hot thumb ... move slightly higher ... 
-yes... now move down the spine ... continue ... yes ... that is enough. 
-
-Now, how do you feel, my boy? 
-
-DADA: I feel full of power. 
-
-BABA: And the pain? 
-
-DADA: It is gone, Baba. 
-
-BABA: It will not return. Now, what plan have you chalked out for 
-the use of your improved body? 
-
-DADA: I will do maximum service to the suffering humanity, Baba. 
-BABA: Very good. Very good. 
+{{< r a="Margi" >}}
+None. 
+{{< /r >}}
 
 
+{{< l a="Baba" >}}
+(to the Margi): How many schools have started due to your own efforts?
+{{< /l >}}
+
+{{< r a="Margi" >}}
+None, Baba.
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Could you even inspire any Margis to become Block Secretaries within your district? 
+{{< /l >}}
+
+
+MARGI: No, Baba. I'm sorry. 
+
+{{< l a="Baba" >}}
+You're sorry. Are you married? 
+{{< /l >}}
+
+
+MARGI: Yes, Baba. 
+
+{{< l a="Baba" >}}
+Then why are you also keeping a secret wife? 
+
+(Some of us gasp in surprise. Most surprised is the Margi, who rolls his eyes and is no longer able to stand still.) 
+
+Haram jada! (You donkey!) 
+
+Because your lifestyle is immoral, of course you could not achieve anything. Due to your illicit behavior you have also contracted some serious disease. Is it not so? 
+{{< /l >}}
+
+
+MARGI: Yes, Baba... 
+
+{{< l a="Baba" >}}
+Do you promise from this very moment to rectify yourself and become an ideal man, serving the society with all of your capacity? 
+{{< /l >}}
+
+MARGI: Yes, Baba. 
+
+{{< l a="Baba" >}}
+Come closer. 
+
+(The Margi moves near Baba, who reaches out and momentarily touches him below the navel area.) 
+
+You are henceforth cured of that disease. Do you understand that we, the members of the collective society, maintain high expectations regarding the contribution that you will make for the universal welfare? 
+{{< /l >}}
+
+
+MARGI: Yes, Baba.
+
+{{< l a="Baba" >}}
+Very good. 
+{{< /l >}}
+
+
+When we spoke to him afterward, he refused to tell what disease he had, saying only that it was something abominable. Then he went to the bathroom. After coming out, he said, "By Baba's grace it is cured!" 
+
+
+### Service beyond party politics 
+
+Today Baba introduced a new program called ARS: All-Round Service. Henceforth it will be a daily-report item. 
+
+ARS consists of basic relief works to be offered to the most needy people, and will be directed primarily at the communist and post-communist countries. Baba explained 4 points:
+
+1. ARS had to be created due to the defective economic subsistence level in the communist countries. 
+2. ARS has nothing to do with party politics.
+3. We have to help the people down to the district level at the time of calamity. 
+4. We should continue cooperation with other service organizations such as Red Cross and Oxfam. 
+
+The Fareast Asia sector has the greatest population of any sector suffering under communism. It includes China, Asiatic Russia, Mongolia, North Korea and Tibet, so this new emphasis will be very 
+important for us. 
+
+An article appeared in the newspaper today about a flood in South Korea. Baba, to whom at least four newspapers are read daily, requested a report within 12 hours about our relief work. I tried to telephone our office in Seoul, but could not get through. 
+
+When the deadline for reporting approached, Baba's personal assistant pressed me for the report. I told him that I couldn't get through, but he wouldn't accept this reply. 
+
+Not knowing what to do, I closed my eyes, meditated on Baba's face, and asked Him for guidance. I imagined what work we should have done in Korea, and accordingly, on opening 
+my eyes wrote the following false report: 
+
+
+"In the aftermath of Typhoon Judy, Seoul Regional Secretary (Dada Alok) and Universal Proutist Intellectual Federation Secretary (Dada Mahaprajinananda) organized a relief team of 12 Margis to help homeless and suffering people in the Seoul area. Already clothes have been given to 25 families, and food to 200 people. The team also helped to clean out and make habitable four houses so far. They will continue their work with accelerating speed." 
+
+Soon after the report was submitted, Baba called a meeting in His bedroom. During that meeting, He praised Hong Kong Sector for responding so quickly to the flood in Korea, and encouraged the representatives of other sectors to follow this example. 
+
+On top of that, He directed the Central Public Relations Secretary to submit the news of our on-going Korean relief work to the Calcutta newspapers.
+
+I was thoroughly embarrassed, but could tell nobody. All this hoopla over a false report. At the end of the session, I immediately took permission to go to the city public telephone office. 
+
+This time I got the line to Seoul. Dada Alok answered: 
+
+{{< r a="Dharmavedananda" >}}
+Alok, it's absolutely urgent that you do something for the people suffering from the flood in Korea. Baba read about it in the newspapers. 
+{{< /r >}}
+
+{{< l a="Alok" >}}
+We already did a bit of relief work. 
+{{< /l >}}
+
+{{< r a="Dharmavedananda" >}}
+Great! I'm writing it down. Tell me who did the work? 
+{{< /r >}}
+
+
+{{< l a="Alok" >}}
+About a dozen Margis under the guidance of Mahaprajinanandaji and myself.
+{{< /l >}}
+
+{{< r a="Dharmavedananda" >}}
+Wow! I was just guessing Mahaprajinanandaji was there. How many people did you help? 
+{{< /r >}}
+
+{{< l a="Alok" >}}
+We gave clothes to about twenty-five families, and food to about 200 people. 
+{{< /l >}}
+
+
+ME: That's incredible! Absolutely totally Baba Nam Kevalam! Did 
+you, by the way, did you clean out any houses? Was it about four houses? 
+
+
+{{< l a="Alok" >}}
+No, it was three houses. Wait a moment, come to think of it, it  was four houses. How did you know? 
+{{< /l >}}
+
+
+ME: I love you, Baba! Somehow Baba knew all this even without the 
+telephone call. He's reporting your work to the newspapers already. 
+
+ALOK: What're you talking about? Really? But it's not such a big deal yet. Anyway you can let Him know that there's a lot of people still suffering, so we'll do more and more work. 
+
+ME: I already told Him you'll work with accelerating speed. 
+
+ALOK: Exactly. 
+
+ME: We should give some more news to the papers. So try to call me with your report tomorrow and the day after also. 
+
+ALOK: Will do. 
