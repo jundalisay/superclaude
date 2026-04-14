@@ -11,35 +11,28 @@ icon: "Socrates"
 ---
 
 
-FOREIGNER: In the case of the body, there are 2 arts which have to do with the 2 bodily states.
+{{< l a="Foreigner" >}}
+In the case of the body, there are 2 arts which have to do with the 2 bodily states.
 
-THEAETETUS: What are they?
+1. There is gymnastic, which has to do with deformity
 
-FOREIGNER: There is gymnastic, which has to do with deformity, and medicine, which has to do with disease.
+2. Medicine, which has to do with disease.
 
-FOREIGNER: And where there is insolence and injustice and cowardice, is not chastisement the art which is most required?
+Where there is insolence and injustice and cowardice, is not chastisement the art which is most required?
 
-THEAETETUS: That certainly appears to be the opinion of mankind.
-
-FOREIGNER: Again, of the various kinds of ignorance, may not instruction be rightly said to be the remedy?
+Of the various kinds of ignorance, may not instruction be rightly said to be the remedy?
 
 And of the art of instruction, shall we say that there is one or many kinds? At any rate there are two principal ones. Think.
 
-THEAETETUS: I will.
+I believe that I can see how we shall soonest arrive at the answer to this question.
 
-FOREIGNER: I believe that I can see how we shall soonest arrive at the answer to this question.
+If we can discover a line which divides ignorance into two halves. For a division of ignorance into two parts will certainly imply that the art of instruction is also twofold, answering to the two divisions of ignorance.
+{{< /l >}}
 
-THEAETETUS: How?
-
-FOREIGNER: If we can discover a line which divides ignorance into two halves. For a division of ignorance into two parts will certainly imply that the art of instruction is also twofold, answering to the two divisions of ignorance.
 
 THEAETETUS: Well, and do you see what you are looking for?
 
-FOREIGNER: I do seem to myself to see one very large and bad sort of ignorance which is quite separate, and may be weighed in the scale against all other sorts of ignorance put together.
-
-THEAETETUS: What is it?
-
-FOREIGNER: When a person supposes that he knows, and does not know; this appears to be the great source of all the errors of the intellect.
+FOREIGNER: I do seem to myself to see one very large and bad sort of ignorance which is quite separate, and may be weighed in the scale against all other sorts of ignorance put together. When a person supposes that he knows, and does not know; this appears to be the great source of all the errors of the intellect.
 
 This is the kind of ignorance which specially earns the title of stupidity.
 
@@ -55,31 +48,20 @@ Of education, one method appears to be rougher, and another smoother.
 
 THEAETETUS: How are we to distinguish the two?
 
-FOREIGNER: There is the time-honoured mode which our fathers commonly practised towards their sons, and which is still adopted by many—either of roughly reproving their errors, or of gently advising them; which varieties may be correctly included under the general term of admonition.
 
-THEAETETUS: True.
+{{< l a="Foreigner" >}}
+There is the time-honoured mode which our fathers commonly practised towards their sons, and which is still adopted by many—either of roughly reproving their errors, or of gently advising them; which varieties may be correctly included under the general term of admonition.
 
-FOREIGNER: But whereas some appear to have arrived at the conclusion that all ignorance is involuntary, and that no one who thinks himself wise is willing to learn any of those things in which he is conscious of his own cleverness, and that the admonitory sort of instruction gives much trouble and does little good—
+But whereas some appear to have arrived at the conclusion that all ignorance is involuntary, and that no one who thinks himself wise is willing to learn any of those things in which he is conscious of his own cleverness, and that the admonitory sort of instruction gives much trouble and does little good—
 
-THEAETETUS: There they are quite right.
+Accordingly, they set to work to eradicate the spirit of conceit in another way.
 
-FOREIGNER: Accordingly, they set to work to eradicate the spirit of conceit in another way.
+They cross-examine a man's words, when he thinks that he is saying something and is really saying nothing, and easily convict him of inconsistencies in his opinions; these they then collect by the dialectical process, and placing them side by side, show that they contradict one another about the same things, in relation to the same things, and in the same respect. He, seeing this, is angry with himself, and grows gentle towards others, and thus is entirely delivered from great prejudices and harsh notions, in a way which is most amusing to the hearer, and produces the most lasting good effect on the person who is the subject of the operation. For as the physician considers that the body will receive no benefit from taking food until the internal obstacles have been removed, so the purifier of the soul is conscious that his patient will receive no benefit from the application of knowledge until he is refuted, and from refutation learns modesty; he must be purged of his prejudices first and made to think that he knows only what he knows, and no more.
 
-THEAETETUS: In what way?
+For all these reasons, Theaetetus, we must admit that refutation is the greatest and chiefest of purifications, and he who has not been refuted, though he be the Great King himself, is in an awful state of impurity; he is uninstructed and deformed in those things in which he who would be truly blessed ought to be fairest and purest.
 
-FOREIGNER: They cross-examine a man's words, when he thinks that he is saying something and is really saying nothing, and easily convict him of inconsistencies in his opinions; these they then collect by the dialectical process, and placing them side by side, show that they contradict one another about the same things, in relation to the same things, and in the same respect. He, seeing this, is angry with himself, and grows gentle towards others, and thus is entirely delivered from great prejudices and harsh notions, in a way which is most amusing to the hearer, and produces the most lasting good effect on the person who is the subject of the operation. For as the physician considers that the body will receive no benefit from taking food until the internal obstacles have been removed, so the purifier of the soul is conscious that his patient will receive no benefit from the application of knowledge until he is refuted, and from refutation learns modesty; he must be purged of his prejudices first and made to think that he knows only what he knows, and no more.
-
-THEAETETUS: That is certainly the best and wisest state of mind.
-
-FOREIGNER: For all these reasons, Theaetetus, we must admit that refutation is the greatest and chiefest of purifications, and he who has not been refuted, though he be the Great King himself, is in an awful state of impurity; he is uninstructed and deformed in those things in which he who would be truly blessed ought to be fairest and purest.
-
-THEAETETUS: Very true.
-
-FOREIGNER: And who are the ministers of this art? I am afraid to say the Sophists.
-
-THEAETETUS: Why?
-
-FOREIGNER: Lest we should assign to them too high a prerogative.
+Who are the ministers of this art? I am afraid to say the Sophists lest we should assign to them too high a prerogative.
+{{< /l >}}
 
 THEAETETUS: Yet the Sophist has a certain likeness to our minister of purification.
 

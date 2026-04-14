@@ -49,20 +49,18 @@ per unit of expenditure is being increased. We “rationalize” an action of ou
 ourselves and others with reasons for it that satisfy our standard of values regardless of what
 our true impulses may be. -->
 
-Can it not
-come out of the trial with flying colors? Does not our own previous
-argument sufficiently show that it has plenty of utilitarian credentials to
-present? Cannot a perfectly good case be made out for it? And those
-industrialists will assuredly not fail to point out that a sensible workman,
-in weighing the pro’s and con’s of his contract with, say, one of the big
-steel or automobile concerns, might well come to the conclusion that,
-everything considered, he is not doing so badly and that the advantages
+Can it not come out of the trial with flying colors? 
+
+Does not our own previous argument sufficiently show that it has plenty of utilitarian credentials to present?
+
+Cannot a perfectly good case be made out for it? 
+
+Those industrialists will assuredly not fail to point out that a sensible workman, in weighing the pro’s and con’s of his contract with, say, one of the big
+steel or automobile concerns, might well come to the conclusion that, everything considered, he is not doing so badly and that the advantages
 of this bargain are not all on one side. Yes—certainly, only all that is
 quite irrelevant.
 
-For, first, it is an error to believe that political attack arises primarily from
-grievance and that it can be turned by justification. Political criticism cannot
-be met effectively by rational argument. From the fact that the criticism of the
+For, first, it is an error to believe that political attack arises primarily from grievance and that it can be turned by justification. Political criticism cannot be met effectively by rational argument. From the fact that the criticism of the
 capitalist order proceeds from a critical attitude of mind, i.e., from an attitude
 which spurns allegiance to extra-rational values, it does not follow that rational
 refutation will be accepted. Such refutation may tear the rational gart of attack
@@ -107,16 +105,12 @@ of society are so entirely lodged with the upper strata of bourgeois society tha
 it is perfectly natural for people to look upon them as the interests of that class
 only. 
 
-For the masses, it is the short-run view that counts. Like Louis XV, they
-feel après nous le déluge, and from the standpoint of individualist
+For the masses, it is the short-run view that counts. Like Louis XV, they feel après nous le déluge, and from the standpoint of individualist
 utilitarianism they are of course being perfectly rational if they feel like that.
-Third, there are the daily troubles and expectations of trouble everyone has
-to struggle with in any social system—the frictions and disappointments, the
-greater and smaller unpleasant events that hurt, annoy and thwart. I suppose
-that every one of us is more or less in the habit of attributing them wholly to
-that part of reality which lies without his skin, and emotional attachment to
-the social order—i.e., the very thing capitalism is constitutionally unable to
-produce—is necessary in order to overcome the hostile impulse by which we
+
+Third, there are the daily troubles and expectations of trouble everyone has to struggle with in any social system—the frictions and disappointments, the greater and smaller unpleasant events that hurt, annoy and thwart. 
+
+I suppose that every one of us is more or less in the habit of attributing them wholly to that part of reality which lies without his skin, and emotional attachment to the social order—i.e., the very thing capitalism is constitutionally unable to produce—is necessary in order to overcome the hostile impulse by which we
 react to them. If there is no emotional attachment, then that impulse has its
 way and grows into a permanent constituent of our psychic setup.
 Fourth, the ever-rising standards of life and particularly the leisure that
@@ -125,4 +119,3 @@ no need for me to finish the sentence or to elaborate one of the truest, oldest
 and most stodgy of all arguments which unfortunately is but too true. Secular
 improvement that is taken for granted and coupled with individual insecurity
 that is acutely resented is of course the best recipe for breeding social unrest.
-

@@ -11,6 +11,7 @@ icon: "Socrates"
 ---
 
 
+
 FOREIGNER: There are 2 kinds of arts:
 
 1. Productive Arts
@@ -62,27 +63,21 @@ Animal hunting has 2 divisions:
   - Fowling is the general term under which the hunting of all birds is included.
 
 
-FOREIGNER: The hunting of animals who live in the water has the general name of fishing.
-
-FOREIGNER: And this sort of hunting may be further divided also into two principal kinds?
+The hunting of animals who live in the water has the general name of fishing. This sort of hunting may be further divided also into two principal kinds?
 
 FOREIGNER: There is one kind which takes them in nets, another which takes them by a blow.
 
 THEAETETUS: What do you mean, and how do you distinguish them?
 
-FOREIGNER: As to the first kind—all that surrounds and encloses anything to prevent egress, may be rightly called an enclosure.
 
-THEAETETUS: Very true.
+{{< l a="Foreigner" >}}
+As to the first kind—all that surrounds and encloses anything to prevent egress, may be rightly called an enclosure. For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
 
-FOREIGNER: For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
+Therefore this first kind of capture may be called by us capture with enclosures, or something of that sort.
 
-THEAETETUS: True.
+The other kind, which is practised by a blow with hooks and three-pronged spears, when summed up under one name, may be called striking, unless you, Theaetetus, can find some better name?
+{{< /l >}}
 
-FOREIGNER: And therefore this first kind of capture may be called by us capture with enclosures, or something of that sort?
-
-THEAETETUS: Yes.
-
-FOREIGNER: The other kind, which is practised by a blow with hooks and three-pronged spears, when summed up under one name, may be called striking, unless you, Theaetetus, can find some better name?
 
 THEAETETUS: Never mind the name—what you suggest will do very well.
 
@@ -112,15 +107,13 @@ One half of all art was acquisitive—half of the acquisitive art was conquest o
 
 THEAETETUS: The result has been quite satisfactorily brought out.
 
-FOREIGNER: And now, following this pattern, let us endeavour to find out what a Sophist is.
 
-THEAETETUS: By all means.
+{{< l a="Foreigner" >}}
+Following this pattern, let us endeavour to find out what a Sophist is. The first question about the angler was, whether he was a skilled artist or unskilled?
 
-FOREIGNER: The first question about the angler was, whether he was a skilled artist or unskilled?
+Shall we call our new friend unskilled, or a thorough master of his craft?
+{{< /l >}}
 
-THEAETETUS: True.
-
-FOREIGNER: And shall we call our new friend unskilled, or a thorough master of his craft?
 
 THEAETETUS: Certainly not unskilled, for his name, as, indeed, you imply, must surely express his nature.
 

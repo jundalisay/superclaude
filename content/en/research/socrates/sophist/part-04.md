@@ -11,21 +11,26 @@ icon: "Socrates"
 ---
 
 
-FOREIGNER: And of disputation, that sort which is only a discussion about contracts, and is carried on at random, and without rules of art, is recognized by the reasoning faculty to be a distinct class, but has hitherto had no distinctive name, and does not deserve to receive one from us.
+
+{{< l a="Foreigner" >}}
+Of disputation, that sort which is only a discussion about contracts, and is carried on at random, and without rules of art, is recognized by the reasoning faculty to be a distinct class, but has hitherto had no distinctive name, and does not deserve to receive one from us.
+{{< /l >}}
+
 
 THEAETETUS: No; for the different sorts of it are too minute and heterogeneous.
 
-FOREIGNER: But that which proceeds by rules of art to dispute about justice and injustice in their own nature, and about things in general, we have been accustomed to call argumentation (Eristic)?
 
-FOREIGNER: Of argumentation, one sort wastes money, and the other makes money. 
+{{< l a="Foreigner" >}}
+But that which proceeds by rules of art to dispute about justice and injustice in their own nature, and about things in general, we have been accustomed to call argumentation (Eristic)?
+
+Of argumentation, one sort wastes money, and the other makes money. 
 
 Suppose we try and give to each of these two classes a name.
 
 The habit which leads a man to neglect his own affairs for the pleasure of conversation, of which the style is far from being agreeable to the majority of his hearers, may be fairly termed loquacity: such is my opinion.
 
-THEAETETUS: That is the common name for it.
-
-FOREIGNER: But now who the other is, who makes money out of private disputation, it is your turn to say.
+But now who the other is, who makes money out of private disputation, it is your turn to say.
+{{< /l >}}
 
 THEAETETUS: There is only one true answer: he is the wonderful Sophist, of whom we are in pursuit, and who reappears again for the fourth time.
 
@@ -133,4 +138,3 @@ And there is the other, which they call ignorance, and which, because existing o
 
 
 THEAETETUS: I certainly admit what I at first disputed—that there are two kinds of vice in the soul, and that we ought to consider cowardice, intemperance, and injustice to be alike forms of disease in the soul, and ignorance, of which there are all sorts of varieties, to be deformity.
-

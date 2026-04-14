@@ -1,0 +1,139 @@
+---
+title: "The Art of Discerning or Discriminating"
+heading: "Part 3b"
+weight: 8
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
+c: "steelblue"
+description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
+icon: "Socrates"
+---
+
+
+{{< l a="Foreigner" >}}
+There are certain menial occupations such as sifting, straining, winnowing, threshing. 
+
+Besides these there are a great many more, such as carding, spinning, adjusting the warp and the woof; and thousands of similar expressions are used in the arts.
+{{< /l >}}
+
+
+THEAETETUS: Of what are they to be patterns, and what are we going to do with them all?
+
+{{< l a="Foreigner" >}}
+I think that in all of these there is implied a notion of division.  Then if, as I was saying, there is one art which includes all of them, ought not that art to have one name?
+
+This is the art of discerning or discriminating. Think whether you cannot divide this.
+
+In all the previously named processes either like has been separated from like or the better from the worse. There is no name for the first kind of separation; of the second, which throws away the worse and preserves the better, I do know a name.
+
+Every discernment or discrimination of that kind, as I have observed, is called a purification.
+
+Any one may see that purification is of two kinds.
+{{< /l >}}
+
+
+THEAETETUS: Perhaps so, if he were allowed time to think; but I do not see at this moment.
+
+FOREIGNER: There are many purifications of bodies which may with propriety be comprehended under a single name.
+
+THEAETETUS: What are they, and what is their name?
+
+
+{{< l a="Foreigner" >}}
+There is the purification of living bodies in their inward and in their outward parts, of which the former is duly effected by medicine and gymnastic, the latter by the not very dignified art of the bath-man; and there is the purification of inanimate substances—to this the arts of fulling and of furbishing in general attend in a number of minute particulars, having a variety of names which are thought ridiculous.
+
+There can be no doubt that they are thought ridiculous, Theaetetus; but then the dialectical art never considers whether the benefit to be derived from the purge is greater or less than that to be derived from the sponge, and has not more interest in the one than in the other; her endeavour is to know what is and is not kindred in all arts, with a view to the acquisition of intelligence; and having this in view, she honours them all alike, and when she makes comparisons, she counts one of them not a whit more ridiculous than another; nor does she esteem him who adduces as his example of hunting, the general's art, at all more decorous than another who cites that of the vermin-destroyer, but only as the greater pretender of the two. 
+
+As to your question concerning the name which was to comprehend all these arts of purification, whether of animate or inanimate bodies, the art of dialectic is in no wise particular about fine words, if she may be only allowed to have a general name for all other purifications, binding them up together and separating them off from the purification of the soul or intellect. For this is the purification at which she wants to arrive, and this we should understand to be her aim.
+{{< /l >}}
+
+
+THEAETETUS: Yes, I understand; and I agree that there are two sorts of purification, and that one of them is concerned with the soul, and that there is another which is concerned with the body.
+
+FOREIGNER: Excellent; and now listen to what I am going to say, and try to divide further the first of the two.
+
+THEAETETUS: Whatever line of division you suggest, I will endeavour to assist you.
+
+{{< l a="Foreigner" >}}
+Do we admit that virtue is distinct from vice in the soul? Purification was to leave the good and to cast out whatever is bad?
+
+Then any taking away of evil from the soul may be properly called purification?
+
+And in the soul there are two kinds of evil.
+
+The one may be compared to disease in the body, the other to deformity.
+{{< /l >}}
+
+
+THEAETETUS: I do not understand.
+
+FOREIGNER: Perhaps you have never reflected that disease and discord are the same.
+
+THEAETETUS: To this, again, I know not what I should reply.
+
+
+{{< l a="Foreigner" >}}
+Do you not conceive discord to be a dissolution of kindred elements, originating in some disagreement?
+
+Deformity is the want of measure, which is always unsightly. 
+
+Do we not see that opinion is opposed to desire, pleasure to anger, reason to pain, and that all these elements are opposed to one another in the souls of bad men?
+
+And yet they must all be akin? Then we shall be right in calling vice a discord and disease of the soul?
+
+When things having motion, and aiming at an appointed mark, continually miss their aim and glance aside, shall we say that this is the effect of symmetry among them, or of the want of symmetry?
+{{< /l >}}
+
+
+THEAETETUS: Clearly of the want of symmetry.
+
+
+{{< l a="Foreigner" >}}
+But surely we know that no soul is voluntarily ignorant of anything?
+
+What is ignorance but the aberration of a mind which is bent on truth, and in which the process of understanding is perverted?
+
+Then we are to regard an unintelligent soul as deformed and devoid of symmetry? Then there are these two kinds of evil in the soul—the one which is generally called vice, and is obviously a disease of the soul...
+
+There is the other, which they call ignorance, and which, because existing only in the soul, they will not allow to be vice.
+{{< /l >}}
+
+
+THEAETETUS: I certainly admit what I at first disputed—that there are two kinds of vice in the soul, and that we ought to consider cowardice, intemperance, and injustice to be alike forms of disease in the soul, and ignorance, of which there are all sorts of varieties, to be deformity.
+
+
+{{< l a="Foreigner" >}}
+In the case of the body are there not two arts which have to do with the two bodily states? There is gymnastic, which has to do with deformity, and medicine, which has to do with disease.
+
+Where there is insolence and injustice and cowardice, is not chastisement the art which is most required?
+{{< /l >}}
+
+
+THEAETETUS: That certainly appears to be the opinion of mankind.
+
+FOREIGNER: Again, of the various kinds of ignorance, may not instruction be rightly said to be the remedy? And of the art of instruction, shall we say that there is one or many kinds? At any rate there are two principal ones. Think.
+
+I believe that I can see how we shall soonest arrive at the answer to this question.
+
+If we can discover a line which divides ignorance into two halves. For a division of ignorance into two parts will certainly imply that the art of instruction is also twofold, answering to the two divisions of ignorance.
+
+THEAETETUS: Well, and do you see what you are looking for?
+
+{{< l a="Foreigner" >}}
+I do seem to myself to see one very large and bad sort of ignorance which is quite separate, and may be weighed in the scale against all other sorts of ignorance put together.
+
+When a person supposes that he knows, and does not know; this appears to be the great source of all the errors of the intellect.
+
+This, if I am not mistaken, is the kind of ignorance which specially earns the title of stupidity.
+
+What name, then, shall be given to the sort of instruction which gets rid of this?
+{{< /l >}}
+
+
+THEAETETUS: The instruction which you mean, FOREIGNER, is, I should imagine, not the teaching of handicraft arts, but what, thanks to us, has been termed education in this part the world.
+
+FOREIGNER: Yes, Theaetetus, and by nearly all Hellenes. But we have still to consider whether education admits of any further division. I think that there is a point at which such a division is possible.
+
+THEAETETUS: Where?
+

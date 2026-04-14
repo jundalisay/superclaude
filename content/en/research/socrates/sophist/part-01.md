@@ -1,5 +1,5 @@
 ---
-title: "The Foreigner"
+title: "The Nature of the Sophist"
 heading: "Part 1"
 weight: 2
 writer:
@@ -55,9 +55,13 @@ FOREIGNER: I prefer to talk with another when he responds pleasantly, and is lig
 
 SOCRATES: Any one of the present company will respond kindly to you, and you can choose whom you like of them; I should recommend you to take a young person—Theaetetus, for example—unless you have a preference for some one else.
 
-FOREIGNER: I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
+
+{{< l a="Foreigner" >}}
+I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
 
 For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
+{{< /l >}}
+
 
 THEAETETUS: But are you sure, FOREIGNER, that this will be quite so acceptable to the rest of the company as Socrates imagines?
 
@@ -65,7 +69,11 @@ FOREIGNER: You hear them applauding, Theaetetus; after that, there is nothing mo
 
 THEAETETUS: I do not think that I shall tire, and if I do, I shall get my friend here, young Socrates, the namesake of the elder Socrates, to help; he is about my own age, and my partner at the gymnasium, and is constantly accustomed to work with me.
 
-FOREIGNER: Very good; you can decide about that for yourself as we proceed. Meanwhile you and I will begin together and enquire into the nature of the Sophist, first of the three: I should like you to make out what he is and bring him to light in a discussion; for at present we are only agreed about the name, but of the thing to which we both apply the name possibly you have one notion and I another; whereas we ought always to come to an understanding about the thing itself in terms of a definition, and not merely about the name minus the definition. Now the tribe of Sophists which we are investigating is not easily caught or defined; and the world has long ago agreed, that if great subjects are to be adequately treated, they must be studied in the lesser and easier instances of them before we proceed to the greatest of all. And as I know that the tribe of Sophists is troublesome and hard to be caught, I should recommend that we practise beforehand the method which is to be applied to him on some simple and smaller thing, unless you can suggest a better way.
+
+{{< l a="Foreigner" >}}
+FOREIGNER: Very good. You and I will begin together and enquire into the nature of the Sophist, first of the three: I should like you to make out what he is and bring him to light in a discussion; for at present we are only agreed about the name, but of the thing to which we both apply the name possibly you have one notion and I another; whereas we ought always to come to an understanding about the thing itself in terms of a definition, and not merely about the name minus the definition. Now the tribe of Sophists which we are investigating is not easily caught or defined; and the world has long ago agreed, that if great subjects are to be adequately treated, they must be studied in the lesser and easier instances of them before we proceed to the greatest of all. And as I know that the tribe of Sophists is troublesome and hard to be caught, I should recommend that we practise beforehand the method which is to be applied to him on some simple and smaller thing, unless you can suggest a better way.
+{{< /l >}}
+
 
 THEAETETUS: Indeed I cannot.
 
@@ -84,5 +92,3 @@ THEAETETUS: Very good.
 FOREIGNER: Let us begin by asking whether he is a man having art or not having art, but some other power.
 
 THEAETETUS: He is clearly a man of art.
-
-
