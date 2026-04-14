@@ -82,7 +82,11 @@ The void, they say, which is imprisoned in bodies, lightens them and sometimes m
 
 This would also account for the fact that a body composed of a number of solid parts equal to, or even smaller than, that of another is sometimes larger in bulk than it.
 
-In short, generally and in every case a body is relatively light when it contains a relatively large amount of void. This is the way they put it themselves, but their account requires an addition. Relative lightness must depend not only on an excess of void, but also an a defect of solid: for if the ratio of solid to void exceeds a certain proportion, the relative lightness will disappear. Thus fire, they say, is the lightest of things just for this reason that it has the most void. But it would follow that a large mass of gold, as containing more void than a small mass of fire, is lighter than it, unless it also contains many times as much solid. The addition is therefore necessary.
+In short, generally and in every case a body is relatively light when it contains a relatively large amount of void. This is the way they put it themselves, but their account requires an addition. 
+
+Relative lightness must depend not only on an excess of void, but also an a defect of solid: for if the ratio of solid to void exceeds a certain proportion, the relative lightness will disappear. 
+
+Thus fire, they say, is the lightest of things just for this reason that it has the most void. But it would follow that a large mass of gold, as containing more void than a small mass of fire, is lighter than it, unless it also contains many times as much solid. The addition is therefore necessary.
 
 Some deny the existence of a void.
 

@@ -25,34 +25,60 @@ I was allowed to stay in the room continuously, so I had the opportunity to witn
 Brother J from the Netherlands, who I've known for 2 years, stepped forward. Baba sat on His couch, looking over His shoulder at the wall. 68 
 
 
-GENERAL SECRETARY (GS): What is his name and posting? 
+{{< l a="General Secretary" >}}
+What is his name and posting? 
+{{< /l >}}
 
-DADA FROM EUROPE: He is J, district in-charge from Holland. GS: Who is your acharya? J: Dada Maetreya. 
 
-GS: What work did you do over the last 6 months? 
+{{< r a="European Dada" >}}
+He is J, district in-charge from Holland. 
+{{< /r >}}
+
+
+{{< l a="General Secretary" >}}
+Who is your acharya?
+{{< /l >}}
+
+{{< r a="J" >}}
+Dada Maetreya
+{{< /r >}}
+
+
+{{< l a="General Secretary" >}}
+What work did you do over the last 6 months?
+{{< /l >}}
+
 
 {{< r a="J" >}}
 (nervously): I arranged 9 initiations, opened one People's Night School, and started one Spiritualists' Sports and Adventurers' Club. 
 {{< /r >}}
 
-“Baba rarely looks directly at anyone. When He does, we feel a special energy or shakti.
+Baba rarely looks directly at anyone. When He does, we feel a special energy or shakti.
 
-A single glance from Him is often enough to satisfy any Margi who may have traveled thousands 
-of miles to meet Him. 
+A single glance from Him is often enough to satisfy any Margi who may have traveled thousands of miles to meet Him. 
 
-GS: Acha. Are you following 16 Points strictly? 
+{{< l a="General Secretary" >}}
+Acha. Are you following 16 Points strictly? 
+{{< /l >}}
+
 
 {{< r a="J" >}}
 Yes. 
 {{< /r >}}
 
-GS: How about your meditation? 
+{{< l a="General Secretary" >}}
+How about your meditation? 
+{{< /l >}}
+
 
 {{< r a="J" >}}
 Yes, Dada. 
 {{< /r >}}
 
-GS: How about fasting? 
+{{< l a="General Secretary" >}}
+How about fasting? 
+{{< /l >}}
+
 
 {{< r a="J" >}}
 Yes, Dada. 
@@ -62,7 +88,9 @@ Yes, Dada.
 GS, ask him about food. 
 {{< /l >}}
 
-GS: Are you taking only sentient food? 69 
+{{< l a="General Secretary" >}}
+Are you taking only sentient food?
+{{< /l >}}
 
 {{< r a="J" >}}
 Yes, Dada. 
@@ -72,7 +100,9 @@ Yes, Dada.
 Eh? What did he say? 
 {{< /l >}}
 
-GS: He said "yes''. Baba. You are not taking any static food? 70 
+{{< l a="General Secretary" >}}
+He said "yes" Baba. You are not taking any static food?
+{{< /l >}}
 
 {{< r a="J" >}}
 No, Dada. 
@@ -146,11 +176,17 @@ Now come close, my boy. (J approaches Baba, who opens His arms, and then embrace
 Oh, Baba! (He starts weeping.) 
 {{< /r >}}
 
-ANOTHER DADA (after a lapse of a few moments, speaking softly): Come, come... 
+{{< l a="Dada" >}}
+(after a lapse of a few moments, speaking softly): Come, come... 
+{{< /l >}}
+
 
 (J leaves Baba's lap. He lies on the floor in front of Baba, hands stretched out toward Him in the traditional position of respect to the guru. After a few seconds, he gets up, and moves toward the door.) 
 
-GS: Next. 
+{{< l a="General Secretary" >}}
+Next
+{{< /l >}}
+
 
 After a few more dharma samikshas, we all left Baba's room. Brother J talked to me.
 
@@ -187,3 +223,4 @@ Really?
 {{< l a="Dharmavedananda" >}}
 Of course. And anybody who's spent much time around Baba gets used to it. This is Tantra. Up a lot and down a little, up a lot and down a little...
 {{< /l >}}
+

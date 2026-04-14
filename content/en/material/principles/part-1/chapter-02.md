@@ -92,7 +92,7 @@ We saw a match with the Greek shapes to the *bagua* of Taoism and the mandala of
 {{< i s="/graphics/meta/bagua.png" a="Ba Gua" c="The Ba Gua has 8 sections each with 3 parts, matching our 8 dimensions and 3 gunas or sublayers" >}}
 
 
-## The Aethereal Internal Boundary
+## The Aethereal Internal Boundary (AIB)
 
 We call the Aethereal Internal Boundary as the edge of identity. This separates identities from other identities and from non-discrete existence. 
 
@@ -100,7 +100,7 @@ As this is purely theoretical, we will discuss this more in Social and Spiritual
 
 
 
-### How I Got Proof for the Aethereal Internal Boundary
+## How I Got Proof for the Aethereal Internal Boundary
 
 After finishing a deep meditation, people usually feel light headed and problem-free which is analogous to feeling subtle instead of crude.
 
@@ -117,6 +117,13 @@ It only acquired a meaning and a known idea when it entered my mind. I assume th
 It was only after reading Descartes' *Treatise on Man* did I understand that the idea-cloud was the aether traveling with space particles, giving it the discrete yet fuzzy cloud shape. And that it was converted by my mind's chi or animal spirits into an aethereal idea-body by going through my brain for a frequency match -- the animal spirits converted themselves into that idea-body upon receiving that idea-cloud. 
 
 The transition between external idea-cloud to internal idea-body meant that there was a boundary to cross within the same aethereal strata and spatial strata. We then integrated this boundary system to the 3 gunas, which is already an established principle. 
+
+
+When I heard Bashar explain a similar mechanism in the brain, then the Superphysics team established it as a principle.
+
+{{< youtube rZSExohe7FQ >}}
+
+(The Sassani explain that the higher mind conceives and creates ideas which are then sent to the brain and interpreted by the lower mind. The boundary between pure idea and interpreted idea we call the AIB, which gives the idea a discrete identity.)
 
 Then we applied it to:
 - the Layer Model of Material Superphysics, and

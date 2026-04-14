@@ -1,13 +1,13 @@
 ---
 heading: Joshua 8
 title: "War with Ai"
-description: "Do to Ai and her king as you did to Jericho and her king: only the spoil thereof"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 18
 c: "firebrick"
 ---
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>1</sup> [To Joshua]: Do not fear nor be dismayed.
 
 Take all your army with you and go up to Ai. I have given into your hand the king of Ai, his people, city, and land.
@@ -30,9 +30,9 @@ Only the spoil thereof, and the cattle thereof, shall you take for a prey unto y
 
  <!-- for they will say, They flee before us, as at the first: therefore we will flee before them. -->
 
-<sup>7</sup> Then you shall rise up from the ambush, and seize the city. Enki will deliver it into your hand. 
+<sup>7</sup> Then you shall rise up from the ambush, and seize the city. Anu will deliver it into your hand. 
 
-<sup>8</sup> After you have taken the city, burn it according to the commandment of Enki.
+<sup>8</sup> After you have taken the city, burn it according to the commandment of Anu.
 {{< /r >}}
 
 
@@ -68,7 +68,7 @@ They left the city open.
 
 <!-- , and pursued after Israel.  -->
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>15</sup> [to Joshua:]  Stretch out the spear in your hand toward Ai. I will give it into your hand. 
 {{< /l >}}
 
@@ -97,7 +97,7 @@ The Israelites killed them all, <sup>23</sup> except for the king of Ai which th
 
 <sup>26</sup> This was because Joshua did not draw his hand back that stretched out the spear, until he had utterly destroyed all the inhabitants of Ai. 
 
-<sup>27</sup> Only the cattle and the spoil of that city Israel took for themselves, as Enki commanded Joshua.
+<sup>27</sup> Only the cattle and the spoil of that city Israel took for themselves, as Anu commanded Joshua.
 
 <sup>28</sup> Joshua burnt Ai, and made it permanent ruin unto this day.
 
@@ -107,11 +107,11 @@ At sunset, Joshua ordered them to take the body from the pole and throw it down 
 
 They raised a large pile of rocks over it, which remains to this day.
 
-<sup>30</sup> Then Joshua built an altar unto Enki in mount Ebal, <sup>31</sup> as Moses commanded the Israelites, as it is written in the book of the law of Moses.
+<sup>30</sup> Then Joshua built an altar unto Anu in mount Ebal, <sup>31</sup> as Moses commanded the Israelites, as it is written in the book of the law of Moses.
 
 It was an altar of uncut stones, on which no iron tool had been used.
 
-On it they offered to Enki burnt offerings and sacrificed fellowship offerings. 
+On it they offered to Anu burnt offerings and sacrificed fellowship offerings. 
 
 <sup>32</sup> There, in the presence of the Israelites, Joshua wrote on stones a copy of the law of Moses.
 

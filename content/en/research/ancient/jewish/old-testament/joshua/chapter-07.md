@@ -1,7 +1,7 @@
 ---
 heading: Joshua 7
-title: "Enki Gets Angry Because of Babylonian Loot"
-description: "Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing."
+title: "Anu Gets Angry Because of Babylonian Loot"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 16
 c: "firebrick"
 ---
@@ -11,7 +11,7 @@ c: "firebrick"
 
 Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing.
 
-This made Enki angry.
+This made Anu angry.
 
 <sup>2</sup> Joshua sent men from Jericho to Ai, which is beside Beth-aven, on the east side of Bethel, and spake unto them, saying, Go up and view the country.
 
@@ -29,10 +29,10 @@ We need only around 3,000 men go up against Ai because they are just a few.
 
 They chased them from before the gate even to Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
 
-<sup>6</sup> Joshua rent his clothes, and fell to the earth on his face before the ark of Enki until the eventide, he and the elders of Israel, and put dust on their heads.
+<sup>6</sup> Joshua rent his clothes, and fell to the earth on his face before the ark of Anu until the eventide, he and the elders of Israel, and put dust on their heads.
 
 {{< r a="Joshua" >}}
-<sup>7</sup> Alas, O Enki, why have you let these people cross the Jordan river, to deliver us into the hand of the Amorites to destroy us?
+<sup>7</sup> Alas, O Anu, why have you let these people cross the Jordan river, to deliver us into the hand of the Amorites to destroy us?
 
 We would have been content to live on the other side of the river Jordan! 
 
@@ -42,7 +42,7 @@ We would have been content to live on the other side of the river Jordan!
 {{< /r >}}
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>10</sup> Get up. Why do you lie on your face? 
 
 <sup>11</sup> Israel had sinned. They have also transgressed my covenant. 
@@ -53,15 +53,15 @@ They have even taken of the accursed thing, and have also stolen, and dissembled
 
 Neither will I be with you any more, until you destroy the accursed from among you. 
 
-<sup>13</sup> Rise up. Sanctify the people, and say: 'Enki God of Israel says: Sanctify yourselves against tomorrow. There is an accursed thing in the midst of you, O Israel. You cannot stand before thine enemies, until you take away the accursed thing from among you. 
+<sup>13</sup> Rise up. Sanctify the people, and say: 'Anu God of Israel says: Sanctify yourselves against tomorrow. There is an accursed thing in the midst of you, O Israel. You cannot stand before thine enemies, until you take away the accursed thing from among you. 
 {{< /l >}}
 
 
 <sup>14</sup> In the morning you shall be brought according to your tribes.
 
-The tribe which Enki chooses shall come according to its families.
+The tribe which Anu chooses shall come according to its families.
 
-The family which Enki chooses shall come forward by person.
+The family which Anu chooses shall come forward by person.
 
 <sup>15</sup> Whoever is caught with the accursed thing shall be burnt with fire, he and all that he has.
 
@@ -86,7 +86,7 @@ Achan was called.
 
 {{< l a="Joshua" >}}
 <sup>19</sup> [To Achan] My son, I pray that you:
-- give glory to Enki God of Israel
+- give glory to Anu God of Israel
 - confess to him
 - tell me what you have done
   - Do not hide it not from me. 
@@ -94,7 +94,7 @@ Achan was called.
 
 
 {{< r a="Achan" >}}
-<sup>20</sup> Yes I have sinned against Enki. <sup>21</sup> I saw among the spoils:
+<sup>20</sup> Yes I have sinned against Anu. <sup>21</sup> I saw among the spoils:
 - a goodly Babylonish garment
 - 200 shekels of silver
 - a wedge of gold* of 50 shekels weight
@@ -103,7 +103,7 @@ I coveted them so I took them.
 {{< /r >}}
 
 
-{{< n n="This is probably symoblism for Enlil which always angers Enki" >}}
+{{< n n="This is probably symoblism for Enlil which always angers Anu" >}}
 
 
 They are buried in the middle of my tent, and the silver under it.
@@ -112,7 +112,7 @@ They are buried in the middle of my tent, and the silver under it.
 
 Behold, it was hidden in his tent, and the silver under it.
 
-<sup>23</sup> They took them out of the midst of the tent, and brought them unto Joshua, and to all the Israelites, and laid them out before Enki.
+<sup>23</sup> They took them out of the midst of the tent, and brought them unto Joshua, and to all the Israelites, and laid them out before Anu.
 
 <sup>24</sup> Joshua, and all Israel with him, took:
 - Achan
@@ -129,11 +129,11 @@ They brought them unto the valley of Achor.
 <sup>25</sup> Joshua said:
 
 {{< l a="Joshua" >}}
-Why have you troubled us? Enki shall trouble you this day.
+Why have you troubled us? Anu shall trouble you this day.
 {{< /l >}}
 
 All Israel stoned him with stones and burned them with fire aftewards. 
 
-<sup>26</sup> They raised over him a great heap of stones unto this day. So Enki turned from the fierceness of his anger. 
+<sup>26</sup> They raised over him a great heap of stones unto this day. So Anu turned from the fierceness of his anger. 
 
 Wherefore the name of that place was called, The valley of Achor, unto this day.

@@ -66,4 +66,8 @@ For example, we implement Hume's metaphysical ideas in re-organizing a news arti
 I've posted the above article on social media and so far most have preferred bullet style as more convenient and quicker for comprehension. 
 
 This style of organizing information will be implemented in our simplifications of enlightenment-era works, such as those of David Hume and Montesquieu in order to make the more understandable.
-  
+
+
+## Update 2022
+
+We now use bullet-style writing for all our content.

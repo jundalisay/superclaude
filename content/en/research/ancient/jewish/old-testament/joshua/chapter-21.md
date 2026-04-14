@@ -1,7 +1,7 @@
 ---
 heading: Joshua 21
 title: "The Distribution of the Urban Areas"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 42
 c: "firebrick"
 ---
@@ -9,9 +9,9 @@ c: "firebrick"
 
 <sup>1</sup> Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the Israelites.
 
-<sup>2</sup> They spake unto them at Shiloh in the land of Canaan, saying, Enkicommanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.
+<sup>2</sup> They spake unto them at Shiloh in the land of Canaan, saying, Anucommanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.
 
-<sup>3</sup> The Israelites gave unto the Levites out of their inheritance, at the commandment of Enki, these cities and their suburbs. 
+<sup>3</sup> The Israelites gave unto the Levites out of their inheritance, at the commandment of Anu, these cities and their suburbs. 
 
 4 The lot came out for the families of the Kohathites: and the children of Aaron the priest, [which were] of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities. 
 
@@ -19,7 +19,7 @@ c: "firebrick"
 
 6 The children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, 13 cities. 
 
-7 The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. 8} And the Israelites gave by lot unto the Levites these cities with their suburbs, as Enki commanded by the hand of Moses.
+7 The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. 8} And the Israelites gave by lot unto the Levites these cities with their suburbs, as Anu commanded by the hand of Moses.
 
 9 They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these
 cities which are [here] mentioned by name, 10} Which
@@ -83,12 +83,12 @@ Merari by their families, which were remaining of the families of the Levites, w
 41} All the cities of the Levites within the possession of the Israelites [were] forty and eight cities with
 their suburbs. 42} These cities were every one with their suburbs round about them: thus [were] all these cities.
 
-43 Enki gave unto Israel all the land which he sware to give unto their fathers; and they
+43 Anu gave unto Israel all the land which he sware to give unto their fathers; and they
 possessed it, and dwelt therein. 
 
-<sup>44</sup> Enki gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their
-enemies before them; Enki delivered all their enemies into their hand.
+<sup>44</sup> Anu gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their
+enemies before them; Anu delivered all their enemies into their hand.
 
-<sup>45</sup> There failed not ought of any good thing which Enki had spoken unto the Israelites;
+<sup>45</sup> There failed not ought of any good thing which Anu had spoken unto the Israelites;
 all came to pass. 
 

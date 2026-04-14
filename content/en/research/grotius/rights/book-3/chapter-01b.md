@@ -9,19 +9,33 @@ icon: "Hugo Grotius"
 ---
 
 
-VIII. A stratagem of a positive kind, when practised in actions, is called a feint.
+8. A stratagem of a positive kind, when practised in actions, is called a feint.
 
 When used in conversation, it receives the name of a lie or falsehood. 
 
-A distinction is made by some, between these two kinds of stratagems, who say, that words are signs of our ideas, but actions are not so. But there is more of truth in the opposite opinion, that words of themselves unaccompanied by the intention of the speaker, signify nothing more than the inarticulate cries would do of any one labouring under grief, or any other passion: which sounds come under the denomination of actions, rather than of speech. 
+This leads to 2 kinds of stratagems and opinions:
 
-But should it be said that being able to convey to others the conceptions of his mind, by words adapted to the purpose, is a peculiar gift of nature, by which man is distinguished from other parts of the animated creation, the truth of this cannot be denied.
+1. Some say that words are signs of our ideas, but actions are not. 
 
-To which we may add that such communication may be made not only by words, but by signs or gestures, like those used to the dumb; it makes no difference, whether those signs or gestures have any natural connection with the thing they are intended to signify, or whether such a connection is only assigned to them by custom. Equivalent to such signs or gestures is handwriting, which may be considered, as a dumb language, deriving its force not merely from the words used, and the particular form of the letters, but from the real intention of the writer, to be gathered from thence:—to be gathered either from the resemblance between the characters and the intentions, as in the Egyptian hieroglyphics, or from pure fancy, as among the Chinese.
+2. Some say that words unaccompanied by intention are merely inarticulate cries of someone in grief or any other passion.
 
-Here likewise another distinction is necessary to be applied in the same manner, as was done before, in order to remove all ambiguity in using the term of the Law of Nations. For it was there said, that the laws established by independent and separate states, whether or no those laws implied any mutual obligations, were denominated297 the Law of Nations.59 
+ <!-- which sounds come under the denomination of actions, rather than of speech.  -->
 
-So that words, gestures, and signs, made use of to convey a meaning, imply an obligation, in all the persons concerned, to receive and employ them in their common acceptation. But the employment of OTHER MEANS, coming under NONE OF THOSE DESCRIPTIONS, cannot be construed into a violation of any social contract, although some may be deceived thereby. 
+Being able to convey conceptions by words is a peculiar gift of nature that separates man from other animals. 
+
+I add that such communication may be made also by signs or gestures, like those used to the dumb.
+
+It makes no difference, whether those signs or gestures have any natural connection with the thing they are intended to signify, or whether such a connection is only assigned to them by custom.
+
+Equivalent to such signs or gestures is handwriting, which may be considered, as a dumb language, deriving its force not merely from the words used, and the particular form of the letters, but from the real intention of the writer, to be gathered from thence:—to be gathered either from the resemblance between the characters and the intentions, as in the Egyptian hieroglyphics, or from pure fancy, as among the Chinese.
+
+Here likewise another distinction is necessary to be applied in the same manner, as was done before, in order to remove all ambiguity in using the term of the Law of Nations.
+
+For it was there said, that the laws established by independent and separate states, whether or no those laws implied any mutual obligations, were called the Law of Nations.
+
+So that words, gestures, and signs, made use of to convey a meaning, imply an obligation, in all the persons concerned, to receive and employ them in their common acceptation. 
+
+But the employment of OTHER MEANS, coming under NONE OF THOSE DESCRIPTIONS, cannot be construed into a violation of any social contract, although some may be deceived thereby. 
 
 It is the REAL NATURE of the actions that is here spoken of, and not the ACCIDENTAL circumstances attending them: such actions for instance, as occasion no mischief; or if they do so, there is no guilt, where there is no treacherous design.
 

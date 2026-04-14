@@ -45,7 +45,9 @@ But even Taste men seem to make little or no use of; for to the sense of Taste b
 
 But men scarcely take pleasure at all in these things, at least those whom we call destitute of self-control do not, but only in the actual enjoyment which arises entirely from the sense of Touch, whether in eating or in drinking, or in grosser lusts. This accounts for the wish said to have been expressed once by a great glutton, “that his throat had been formed longer than a crane’s neck,” implying that his pleasure was derived from the Touch.
 
-The sense then with which is connected the habit of absence of self-control is the most common of all the senses, and this habit would seem to be justly a matter of reproach, since it attaches to us not in so far as we are men but in so far as we are animals. Indeed it is brutish to take pleasure in such things and to like them best of all; for the most respectable of the pleasures arising from the touch have been set aside; those, for instance, which occur in the course of gymnastic training from the rubbing and the warm bath: because the touch of the man destitute of self-control is not indifferently of any part of the body but only of particular parts.
+The sense then with which is connected the habit of absence of self-control is the most common of all the senses, and this habit would seem to be justly a matter of reproach, since it attaches to us not in so far as we are men but in so far as we are animals.
+
+It is brutish to take pleasure in such things and to like them best of all; for the most respectable of the pleasures arising from the touch have been set aside; those, for instance, which occur in the course of gymnastic training from the rubbing and the warm bath: because the touch of the man destitute of self-control is not indifferently of any part of the body but only of particular parts.
 
 Now of lusts or desires some are thought to be universal, others peculiar and acquired; 
 

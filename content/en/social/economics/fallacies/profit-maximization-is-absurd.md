@@ -13,7 +13,7 @@ toc: false
 ---
 
 
-A key fallacy that is inseparably part of Economics, along with equilibrium, is the idea of profit maximization.
+A key fallacy that is inseparably part of Economics, along with equilibrium, is the idea of **profit maximization**.
 
 The idea of maximization has its origins in Newton's Calculus which in turn has its origins in Physics. Smith and Hume never mentioned maximization nor calculus anywhere in their writings on the political economy. In fact, The Wealth of Nations has no equations at all*! 
 
@@ -23,9 +23,9 @@ The idea of maximization has its origins in Newton's Calculus which in turn has 
 
 So how in the world did it enter and be so fundamental to Economics?
 
-We trace its entry into economic thought through the Marginal Revolution, specifically with William Stanley Jevons who combined John Stuart Mill's flawed utilitarianism philosophy (the pursuit of private pleasure) with Calculus.
+We trace its entry into economic thought through the **Marginal Revolution**, specifically with William Stanley Jevons who combined John Stuart Mill's flawed utilitarianism philosophy (the pursuit of private pleasure) with Calculus.
 
-{{< q a="Willam Stanley Jevons" >}}
+{{< q a="William Stanley Jevons" >}}
 PLEASURE and pain are undoubtedly the ultimate objects of the Calculus of Economics. To satisfy our wants to the utmost with the least effort—to procure the greatest amount of what is desirable at the expense of the least that is undesirable—in other words,to maximise pleasure is the problem of Economics. 
 {{< /q >}}
 
@@ -42,25 +42,49 @@ Mathematics applies to physical, unconscious objects which have no free will, an
 
 If a 100% perfect prediction of human behavior were possible, then there would be no such thing as recessions, wars, and terrorism, as humans naturally avoid pain. Philosophically, this would imply that everything in existence is predetermined, which in turn would destroy the concept of free will.
 
-According to [David of Libertas Bella](https://blog.libertasbella.com/John Stuart Mill-quotes/), Mill spent most of his life working for the British East India Company, during which time he championed British imperialism. That company was among the most profitable organizations in the world, so it's not a surprise why he would champion the pleasures from utility, as well as the freedom to pursue that utility. 
+{{< b >}}
+### Update April 2026
+
+We are making a new math for living things called Qualimath.
+{{< /b >}}
+
+
+<!-- Mill spent most of his life working for the British East India Company, during which time he championed British imperialism. That company was among the most profitable organizations in the world, so it's not a surprise why he would champion the pleasures from utility, as well as the freedom to pursue that utility. 
 
 Once a person has tasted pleasures, he wants them more and more, eventually leading to excess:
 
-{{< q a="Adam Smith" >}}
+q a="Adam Smith" >}}
 In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.
-{{< /q >}}
+/q >}} -->
 
 
 ## Why is Profit Maximization Wrong?
 
-To get more pleasures, people of liberal and loose morals advocate profit maximization, as what was predictably done by Mill.
+<!-- To get more pleasures, people of liberal and loose morals advocate profit maximization, as what was predictably done by Mill. -->
 
-According to Adam Smith, profit is one of three kinds of revenue in society, the others being rent and wages. 
+According to Adam Smith, there are 3 kinds of revenue in society to which we add the 4th revenue as donations:
 
-In a healthy society, all revenue is fairly distributed, according to natural rates, by agreements or higgling and bargaining, between:
+<!-- Revenue | Class
+--- | ---
+Wages | Workers
+Profit | Producers and Traders
+Rent | Landlords (Service) -->
+
+
+{{< i s="/graphics/econ/revenuematrix.png" a="Revenue" >}}
+
+
+In a healthy society, all revenue is naturally and fairly distributed, with the most revenue formerly going to the landlord class as taxes. 
+- This was because employment was done personally via apprenticeship, servitude, or exchange.
+
+The establishment of paper money led to banking and therefore regular wages and formal employment. This led to the rise of the business or merchant class over the landlords.
+
+This gave profits a bigger share of the social revenue, compared to taxes. This is why all governments are now in debt. 
+
+<!-- , according to natural rates, by agreements or higgling and bargaining, between:
 - profit earners (we call this the merchant class)
 - rent earners (this is the ruling class)
-- wage earners (this is the working class)
+- wage earners (this is the working class) -->
 
 If more revenue goes to one class than natural, then the other classes get starved of revenue. This then prevents them from doing their role in society well.
 
@@ -72,7 +96,9 @@ This often leads to some kind of crisis which the merchant class can avoid by mo
 
 It would be like a basketball team where all of the salary goes to the star player, such as Lebron James, and the four other members play for food. This would cause the team to fail and Lebron to simply move to another team to continue getting a high salary.
 
-> *Update June 2021: We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
+<!-- d t="June 2021" >}}
+We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
+ /d >}} -->
 
 
 {{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
@@ -101,7 +127,9 @@ For example:
 
 We predict that a future global crisis after 2018 will likewise arise from a small stop.
 
-{{< u d="July 2021" u="The small stop for the current crisis turned out to be the tiny SARS-Cov2 virus" >}}
+{{< d t="July 2021" >}}
+The small stop for the current crisis turned out to be the tiny SARS-Cov2 virus which began on Dec 2019
+{{< /d >}}
 
 
 If profit maximization is allowed, then tax maximization and wage maximization must be allowed too: 
@@ -111,9 +139,18 @@ If profit maximization is allowed, then tax maximization and wage maximization m
 From a philosophical perspective, all these are absurd.
 
 
-## How Can We Get Rid of Profit Maximization?
+## Update April 2026: How Can We Get Rid of Profit Maximization?
 
-Smith's solution was to establish perfect economic democracy for all three classes, through the ruling class (thus the name Political Economy). The government would regulate economics, not to control it, but to ensure that no class dominates the others.
+Profit Maximization is only possible because it is enabled by paper or digital money. Therefore, the silver bullet solution is to offer an alternative to money to circulate real value in society.
+
+We call this alternative as barter credits, which is the foundation of Points Banking. 
+
+{{< youtube ysU-Gda2YX0 >}}
+
+Points Banking will circulate value and ensure that there is no profit maxization. Or rather, that there is maximization of profits, wages, donations, and taxes.
+
+
+Politically, Smith's solution was to establish perfect economic democracy for all three classes, through the ruling class (thus the name Political Economy). The government would regulate economics, not to control it, but to ensure that no class dominates the others.
 
 {{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future. It can turn her capital towards other employments, **though with less profit**. 
@@ -124,7 +161,12 @@ By gradually reducing one industry and increasing the rest, this relaxation can 
  <!-- Opening the colony trade all at once to all nations might create some temporary inconvenience. It might create a great permanent loss to most of those presently engaged in it. Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly. -->
 
 
-This economic democracy would lead to more competition and lower nominal prices, but greater revenue on the whole. Smith advocated lower profits and the regulation of overgrown industries as a solution to Britain's bad situation then. 
+We integrate Points Banking with the ruling class to create the Resource Branch of Government as the 4th branch that will supply resources to the Executive. 
+
+In this way, corruption will be reduced, since the leaders of the Resource Branch are taken from industry and not elected by the people. 
+
+
+<!-- This economic democracy would lead to more competition and lower nominal prices, but greater revenue on the whole. Smith advocated lower profits and the regulation of overgrown industries as a solution to Britain's bad situation then. 
 
 In the current context, this equates to:
 - breaking up big corporations
@@ -139,7 +181,7 @@ To truly solve current economic problems, an alternative science to Economics mu
 
 Supereconomics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or *Science of Man*. Included in this science is the clear definition of perfect liberty as *dharmic liberty* which puts emphasis on:
 - society instead of the self and
-- real happiness instead of temporary pleasures
+- real happiness instead of temporary pleasures -->
 
 <!-- This science is then used to create a "supereconomic" system tasked to implement this liberty and prevent the problems of the old one. -->
 
@@ -147,22 +189,22 @@ Supereconomics is a complete economic science derived entirely from Smith's Poli
 <!-- > *In the absence of splitting up giant corporations, our bottom-up solution is a points-based system that is NOT based on gifts -->
 
 
-Because of the ambiguity of the English language, liberals frequently equate perfect liberty as a free-for-all. This, however, can easily degenerate into a 'survival of the fittest' system as observed in animals which have no respect or 'fellow feeling' for each other. 
+<!-- Because of the ambiguity of the English language, liberals frequently equate perfect liberty as a free-for-all. This, however, can easily degenerate into a 'survival of the fittest' system as observed in animals which have no respect or 'fellow feeling' for each other. 
 
 Some writers, like John Stuart Mill, advocate an 'enlightened' self-interest, but do not define what enlightened is. 
 
 Our concept of 'dharmic liberty' solves this by implying liberty with regard to the invisible hand of human dharma. This liberty is the freedom to act within the common interest, just as svadharma or personal dharmic liberty is to act within one's conscience.
 
-Without dharmic liberty, societies would remain exposed to big socioeconomic problems, since global capital is currently very much centralized in investment banks and institutions, whose singular decisions can crash markets arbitrarily. 
+Without dharmic liberty, societies would remain exposed to big socioeconomic problems, since global capital is currently very much centralized in investment banks and institutions, whose singular decisions can crash markets arbitrarily.  -->
 
 <!-- At the moment [2015], such problems can be seen afflicting the Middle East, through the Arab Spring, which began as socio-economic protests, and ended up with the destabilization of their own governments and the suffering of their own people.  -->
 
-More generally, this centralization manifests as rising inequality. 
+<!-- More generally, this centralization manifests as rising inequality.  -->
  <!-- which will be felt by more and more people very subtly (especially by millenials) as time goes by. -->
 
-{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+<!-- q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 Such are the unfortunate effects of all the regulations of the mercantile system! They introduce very dangerous disorders into the political body. Those disorders are often difficult to remedy without creating greater short term disorders.
-{{< /q >}}
+/q >}} -->
 
 
 {{< dc t="Updates (click to expand)" >}}
@@ -170,4 +212,5 @@ Date | Update
 --- | ---
 2/2017 | added reference to Superphysics
 6/2021 | replaced social liberty with dharmic or taoic liberty
+4/2026 | replaced solution as barter credits
 {{< /dc >}}

@@ -1,7 +1,7 @@
 ---
 heading: Joshua 2
 title: "Joshua Sends 2 Spies to Jericho"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu representing the Anunnaki who created humans"
 weight: 6
 c: "firebrick"
 ---
@@ -34,19 +34,19 @@ Bring forth the men with you  in your house. For they be come to spy on the coun
 
 {{< l a="Rahab" >}}
 <sup>9</sup> [To the 2 spies] I know that:
-- Enki had given you the land
+- Anu had given you the land
 - your terror is fallen upon us
 - all the inhabitants of the land faint because of you
 
 <sup>10</sup> We have heard:
-- how Enki dried up the water of the Red sea for you when you came out of Egypt 
+- how Anu dried up the water of the Red sea for you when you came out of Egypt 
 - what you did to the 2 kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom you utterly destroyed.
 
 <sup>11</sup> As soon as we had heard these things, our hearts melted.
 
-Our men lost their courage because of you: for Enki is God in heaven above, and in earth beneath. 
+Our men lost their courage because of you: for Anu is God in heaven above, and in earth beneath. 
 
-<sup>12</sup> Swear unto me by Enki, since I have shewed you kindness, that:
+<sup>12</sup> Swear unto me by Anu, since I have shewed you kindness, that:
 - you will also shew kindness unto my father’s house, and give me a true token
 <sup>13</sup> you will save my father, mother, brethren, sisters, and all that they have
 - deliver us from death
@@ -54,7 +54,7 @@ Our men lost their courage because of you: for Enki is God in heaven above, and 
 
 
 {{< r a="Spies" >}}
-<sup>14</sup> Our life for yours, if you utter not this our business. When Enki has given us the land, we will deal kindly and truly with you. 
+<sup>14</sup> Our life for yours, if you utter not this our business. When Anu has given us the land, we will deal kindly and truly with you. 
 {{< /r >}}
 
 
@@ -89,6 +89,6 @@ Whoever shall be with you in the house, his blood [shall be] on our head, if [an
 <sup>23</sup> The 2 men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all [things] that befell them: 
 
 {{< r a="Spies" >}}
-<sup>24</sup> Truly Enki had delivered into our hands all the land; for even all the inhabitants of the country do faint because of us. 
+<sup>24</sup> Truly Anu had delivered into our hands all the land; for even all the inhabitants of the country do faint because of us. 
 {{< /r >}}
 

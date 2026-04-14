@@ -28,7 +28,7 @@ The children which Anu had graciously given your servant.
 {{< /l >}}
 
 
-6 Then the handmaidens came near, they and their children, and they bowed themselves. 
+<sup>6</sup> Then the handmaidens came near, they and their children, and they bowed themselves. 
 
 <sup>7</sup> Leah also with her children came near, and bowed.
 
@@ -45,27 +45,36 @@ This is to find grace in your eyes.
 {{< /l >}}
 
 {{< r a="Esau" >}}
-9 I have enough, my brother. Keep that you hast unto yourself.
+<sup>9</sup> I have enough, my brother. Keep that you hast unto yourself.
 {{< /r >}}
 
 
 {{< l a="Jacob" >}}
-10 Please receive my presents. I have seen your face, as though I had seen the face of Anu and you were pleased with me. 
+<sup>10</sup> Please receive my presents. I have seen your face, as though I had seen the face of Anu and you were pleased with me. 
 
-11 Please take my blessing that is brought to you; because Anu hath dealt graciously with me, and because I have enough. 
+<sup>11</sup> Please take my blessing that is brought to you; because Anu hath dealt graciously with me, and because I have enough. 
 {{< /l >}}
 
-Jacob urged Esau, and Esay took it.
+Jacob urged Esau.
+
+<!-- , and Esau took it. -->
 
 
-12 He said, Let us take our journey, and let us go, and I will go before you. 13} And he said unto him, My lord knoweth that the children [are] tender, and the flocks and herds with young [are] with me: and if men should overdrive them one day, all the flock will die.
+{{< l a="Jacob" >}}
+<sup>12</sup> Let us go, and I will go before you.
+{{< /r >}}
 
+{{< r a="Esau" >}}
+13 My lord knows that the children are tender, and the flocks and herds with young are with me. If men should overdrive them one day, all the flock will die.
 
-14 Let my lord, I pray you, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
+14 Please pass over me and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
+{{< /l >}}
+
 
 {{< r a="Esau" >}}
 15 Let me leave with you some of the folk that are with me. 
 {{< /r >}}
+
 
 {{< l a="Jacob" >}}
 What needs it? let me find grace in the sight of my lord.

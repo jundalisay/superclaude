@@ -1,20 +1,20 @@
 ---
 heading: Joshua 13
-title: "Enki's Plan of Conquest"
-description: "Joshua was old and stricken in years. Yet there remains a lot of land to be conquered"
+title: "Anu's Plan of Conquest"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 28
 c: "firebrick"
 ---
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>1</sup> [To Joshua:] You are old and stricken in years. Yet there remains a lot of land to be conquered. 
 
 <sup>2</sup> This [is] the land that yet remains:
 {{< /l >}}
 
 
-### Enki's Plan of Conquest
+### Anu's Plan of Conquest
 
 1. All the borders of the Philistines
 
@@ -34,7 +34,7 @@ c: "firebrick"
 <sup>6</sup> All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, and all the Sidonians
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 I will drive them out before the Israelites. Only divide you it by lot unto the Israelites for an inheritance, as I have commanded you. 
 
 7 Now divide this land for an inheritance unto the 9 tribes, and the half tribe of Manasseh, 8} With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses gave them.
@@ -42,12 +42,12 @@ I will drive them out before the Israelites. Only divide you it by lot unto the 
 9} From Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon; 10} And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon; 
 {{< /l >}}
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 11 Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah; 12} All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.
 
 13 Nevertheless the Israelites expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day. 
 
-14 Only to the tribe of Levi he gave none inheritance; the sacrifices of Enki God of Israel made by fire [are] their inheritance
+14 Only to the tribe of Levi he gave none inheritance; the sacrifices of Anu God of Israel made by fire [are] their inheritance
 {{< /l >}}
 
 
@@ -78,4 +78,4 @@ I will drive them out before the Israelites. Only divide you it by lot unto the 
 
 32 These [are the countries] which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.
 
-<sup>33</sup> But unto the tribe of Levi Moses gave not [any] inheritance: Enki God of Israel [was] their inheritance, as he said unto them.
+<sup>33</sup> But unto the tribe of Levi Moses gave not [any] inheritance: Anu God of Israel [was] their inheritance, as he said unto them.

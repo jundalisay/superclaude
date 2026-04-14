@@ -11,16 +11,30 @@ icon: "Aristotle"
 ---
 
 
-That Wish has for its object-matter the End, has been already stated; but there are two opinions respecting it; some thinking that its object is real good, others whatever impresses the mind with a notion of good.
+That Wish has for its object-matter the End.
 
-Now those who maintain that the object of Wish is real good are beset by this difficulty, that what is wished for by him who chooses wrongly is not really an object of Wish (because, on their theory, if it is an object of wish, it must be good, but it is, in the case supposed, evil). Those who maintain, on the contrary, that that which impresses the mind with a notion of good is properly the object of Wish, have to meet this difficulty, that there is nothing naturally an object of Wish but to each individual whatever seems good to him; now different people have different notions, and it may chance contrary ones.
+But there are 2 opinions respecting it:
 
-But, if these opinions do not satisfy us, may we not say that, abstractedly and as a matter of objective truth, the really good is the object of Wish, but to each individual whatever impresses his mind with the notion of good.[13] And so to the good man that is an object of Wish which is really and truly so, but to the bad man anything may be; just as physically those things are wholesome to the healthy which are really so, but other things to the sick. And so too of bitter and sweet, and hot and heavy, and so on. For the good man judges in every instance correctly, and in every instance the notion conveyed to his mind is the true one.
+1. Some think that its object is real good
+
+Such people have a difficulty that what is wished for by him who chooses wrongly is not really an object of Wish (because, on their theory, if it is an object of wish, it must be good, but it is, in the case supposed, evil). 
+
+2. Others think that its object is whatever impresses the mind with a notion of good.
+
+Such people have a difficulty that there is nothing naturally an object of Wish but to each individual whatever seems good to him; now different people have different notions, and it may chance contrary ones.
+
+
+<!-- Those who maintain, on the contrary, that that which impresses the mind with a notion of good is properly the object of Wish, have to meet this difficulty,  -->
+
+But, if these opinions do not satisfy us, may we not say that, abstractedly and as a matter of objective truth, the really good is the object of Wish, but to each individual whatever impresses his mind with the notion of good.
+
+And so to the good man that is an object of Wish which is really and truly so, but to the bad man anything may be; just as physically those things are wholesome to the healthy which are really so, but other things to the sick. 
+
+And so too of bitter and sweet, and hot and heavy, and so on. For the good man judges in every instance correctly, and in every instance the notion conveyed to his mind is the true one.
 
 For there are fair and pleasant things peculiar to, and so varying with, each state; and perhaps the most distinguishing characteristic of the good man is his seeing the truth in every instance, he being, in fact, the rule and measure of these matters.
 
 The multitude of men seem to be deceived by reason of pleasure, because though it is not really a good it impresses their minds with the notion of goodness, so they choose what is pleasant as good and avoid pain as an evil.
-
 
 
 ## Chapter 7
@@ -45,13 +59,33 @@ But perhaps a man is of such a character that he cannot attend to such things: s
 
 As for the plea, that a man did not know that habits are produced from separate acts of working, we reply, such ignorance is a mark of excessive stupidity.
 
-Furthermore, it is wholly irrelevant to say that the man who acts unjustly or dissolutely does not wish to attain the habits of these vices: for if a man wittingly does those things whereby he must become unjust he is to all intents and purposes unjust voluntarily; but he cannot with a wish cease to be unjust and become just. For, to take the analogous case, the sick man cannot with a wish be well again, yet in a supposable case he is voluntarily ill because he has produced his sickness by living intemperately and disregarding his physicians. There was a time then when he might have helped being ill, but now he has let himself go he cannot any longer; just as he who has let a stone out of his hand cannot recall it,[14] and yet it rested with him to aim and throw it, because the origination was in his power. Just so the unjust man, and he who has lost all self-control, might originally have helped being what they are, and so they are voluntarily what they are; but now that they are become so they no longer have the power of being otherwise.
+It is totally irrelevant to say that the man who acts unjustly or dissolutely does not wish to attain the habits of these vices.
 
-And not only are mental diseases voluntary, but the bodily are so in some men, whom we accordingly blame: for such as are naturally deformed no one blames, only such as are so by reason of want of exercise, and neglect: and so too of weakness and maiming: no one would think of upbraiding, but would rather compassionate, a man who is blind by nature, or from disease, or from an accident; but every one would blame him who was so from excess of wine, or any other kind of intemperance. It seems, then, that in respect of bodily diseases, those which depend on ourselves are censured, those which do not are not censured; and if so, then in the case of the mental disorders, those which are censured must depend upon ourselves.
+For if a man wittingly does those things whereby he must become unjust he is to all intents and purposes unjust voluntarily; but he cannot with a wish cease to be unjust and become just.
 
-But suppose a man to say, “that (by our own admission) all men aim at that which conveys to their minds an impression of good, and that men have no control over this impression, but that the End impresses each with a notion correspondent to his own individual character; that to be sure if each man is in a way the cause of his own moral state, so he will be also of the kind of impression he receives: whereas, if this is not so, no one is the cause to himself of doing evil actions, but he does them by reason of ignorance of the true End, supposing that through their means he will secure the chief good. Further, that this aiming at the End is no matter of one’s own choice, but one must be born with a power of mental vision, so to speak, whereby to judge fairly and choose that which is really good; and he is blessed by nature who has this naturally well: because it is the most important thing and the fairest, and what a man cannot get or learn from another but will have such as nature has given it; and for this to be so given well and fairly would be excellence of nature in the highest and truest sense.”
+For, to take the analogous case, the sick man cannot with a wish be well again, yet in a supposable case he is voluntarily ill because he has produced his sickness by living intemperately and disregarding his physicians.
 
-If all this be true, how will Virtue be a whit more voluntary than Vice? Alike to the good man and the bad, the End gives its impression and is fixed by nature or howsoever you like to say, and they act so and so, referring everything else to this End.
+There was a time then when he might have helped being ill.
+
+But now, he has let himself go he cannot any longer; just as he who has let a stone out of his hand cannot recall it.
+
+And yet it rested with him to aim and throw it, because the origination was in his power.
+
+Just so the unjust man, and he who has lost all self-control, might originally have helped being what they are, and so they are voluntarily what they are; but now that they are become so they no longer have the power of being otherwise.
+
+Mental diseases are voluntary.
+
+The bodily diseases are voluntary in some men, whom we accordingly blame.
+
+For such as are naturally deformed no one blames, only such as are so by reason of want of exercise, and neglect: and so too of weakness and maiming: no one would think of upbraiding, but would rather compassionate, a man who is blind by nature, or from disease, or from an accident; but every one would blame him who was so from excess of wine, or any other kind of intemperance. It seems, then, that in respect of bodily diseases, those which depend on ourselves are censured, those which do not are not censured; and if so, then in the case of the mental disorders, those which are censured must depend upon ourselves.
+
+But suppose a man to say, “that (by our own admission) all men aim at that which conveys to their minds an impression of good, and that men have no control over this impression, but that the End impresses each with a notion correspondent to his own individual character; that to be sure if each man is in a way the cause of his own moral state, so he will be also of the kind of impression he receives: whereas, if this is not so, no one is the cause to himself of doing evil actions, but he does them by reason of ignorance of the true End, supposing that through their means he will secure the chief good.
+
+This aiming at the End is no matter of one’s own choice, but one must be born with a power of mental vision, so to speak, whereby to judge fairly and choose that which is really good; and he is blessed by nature who has this naturally well: because it is the most important thing and the fairest, and what a man cannot get or learn from another but will have such as nature has given it; and for this to be so given well and fairly would be excellence of nature in the highest and truest sense.”
+
+If all this is true, how will Virtue be a whit more voluntary than Vice? 
+
+Alike to the good man and the bad, the End gives its impression and is fixed by nature or howsoever you like to say, and they act so and so, referring everything else to this End.
 
 Whether then we suppose that the End impresses each man’s mind with certain notions not merely by nature, but that there is somewhat also dependent on himself; or that the End is given by nature, and yet Virtue is voluntary because the good man does all the rest voluntarily, Vice must be equally so; because his own agency equally attaches to the bad man in the actions, even if not in the selection of the End.
 

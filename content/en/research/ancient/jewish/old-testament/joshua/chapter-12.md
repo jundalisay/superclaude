@@ -1,7 +1,7 @@
 ---
 heading: Joshua 12
 title: "The kings that the Israelites defeated"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 26
 c: "firebrick"
 ---
@@ -16,7 +16,7 @@ c: "firebrick"
 
 <sup>4</sup> The coast of Og king of Bashan, [which was] of the remnant of the giants, that dwelt at Ashtaroth and at Edrei, 
 
-<sup>5</sup> And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon. 6} Them did Moses the servant of Enki and the Israelites smite: and Moses gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
+<sup>5</sup> And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon. 6} Them did Moses the servant of Anu and the Israelites smite: and Moses gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
 
 <sup>7</sup> These are the kings which Joshua and the Israelites smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel [for] a possession according to  their divisions; 8} In the mountains, and in the valleys,
 and in the plains, and in the springs, and in the wilderness,

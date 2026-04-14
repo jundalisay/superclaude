@@ -1,7 +1,7 @@
 ---
 heading: Joshua 10
 title: "Joshua Takes Makkedah"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 22
 c: "firebrick"
 ---
@@ -37,19 +37,19 @@ Come up to us quickly and save us. All the kings of the Amorites that dwell in t
 
 <sup>7</sup> So Joshua ascended from Gilgal with his entire army.
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>8</sup> Do not fear them. I have delivered them into your hand. There shall not a man of them stand before you. 
 {{< /l >}}
 
 <sup>9</sup> So Joshua came unto them suddenly, and went up from Gilgal all night. 
 
-<sup>10</sup> Enki discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Beth-horon, and smote them to Azekah, and unto Makkedah. 
+<sup>10</sup> Anu discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Beth-horon, and smote them to Azekah, and unto Makkedah. 
 
-<sup>11</sup> As they fled from before Israel, and were in the going down to Beth-horon, that Enki cast down great stones from heaven upon them unto Azekah, and they died.
+<sup>11</sup> As they fled from before Israel, and were in the going down to Beth-horon, that Anu cast down great stones from heaven upon them unto Azekah, and they died.
 
 They were more which died with hailstones than they whom the Israelites slew with the sword.
 
-<sup>12</sup> Then spake Joshua to Enki in the day when Enki delivered up the Amorites before the children of Israel:
+<sup>12</sup> Then spake Joshua to Anu in the day when Anu delivered up the Amorites before the children of Israel:
 
 <!-- and he said in the sight of Israel,  -->
 
@@ -64,7 +64,7 @@ Sun, stand still on Gibeon. Moon, stand still in the valley of Ajalon.
 
 So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 
-<sup>14</sup> There was no day like that before it or after it, that Enki hearkened unto the voice of a man: for Enki fought for Israel.
+<sup>14</sup> There was no day like that before it or after it, that Anu hearkened unto the voice of a man: for Anu fought for Israel.
 
 <sup>15</sup> Joshua returned with his entire army unto the camp to Gilgal. 
 
@@ -78,7 +78,7 @@ So the sun stood still in the midst of heaven, and hasted not to go down about a
 {{< l a="Joshua" >}}
 <sup>18</sup> Roll great stones upon the mouth of the cave, and set men by it for to keep them.
 
-<sup>19</sup> Stay you not, [but] pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for Enki hath delivered them into your hand. 
+<sup>19</sup> Stay you not, [but] pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for Anu hath delivered them into your hand. 
 {{< /l >}}
 
 
@@ -96,7 +96,7 @@ So the sun stood still in the midst of heaven, and hasted not to go down about a
 {{< l a="Joshua" >}}
 Come near, put your feet upon the necks of these kings. 
 
-<sup>25</sup> Fear not, nor be dismayed, be strong and of good courage: for thus shall Enki do to all your enemies against whom you fight.
+<sup>25</sup> Fear not, nor be dismayed, be strong and of good courage: for thus shall Anu do to all your enemies against whom you fight.
 {{< /l >}}
 
 
@@ -111,12 +111,12 @@ He utterly destroyed its king and all the souls in it.
 <!-- [that were] therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho. -->
 
 
-29 Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah: 30} And Enki delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that [were]
+29 Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah: 30} And Anu delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that [were]
 therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho.
 '
 31 Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it: 
 
-32 Enki delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
+32 Anu delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
 
 33 Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.
 
@@ -128,11 +128,11 @@ therein; he let none remain in it; but did unto the king thereof as he did unto 
 
 <sup>39</sup> He took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that [were] therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.
 
-<sup>40</sup> So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as Enki God of Israel commanded.
+<sup>40</sup> So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as Anu God of Israel commanded.
 
 <sup>41</sup> Joshua smote them from Kadesh-barnea even unto Gaza, and all the country of Goshen, even unto Gibeon. 
 
-<sup>42</sup> All these kings and their land did Joshua take at one time, because Enki God of Israel fought for Israel. 
+<sup>42</sup> All these kings and their land did Joshua take at one time, because Anu God of Israel fought for Israel. 
 
 <sup>43</sup> Joshua returned, and all Israel with him, unto the camp to Gilgal.
 

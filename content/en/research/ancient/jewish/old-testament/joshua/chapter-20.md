@@ -1,13 +1,13 @@
 ---
 heading: Joshua 12
 title: "More Rules"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 40
 c: "firebrick"
 ---
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 1-2 [To Joshua:] Tell the Israelites to appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses: 
 
 3 That the slayer that killeth [any] person unawares [and] unwittingly may flee thither: and they shall be your refuge from the avenger of blood. 

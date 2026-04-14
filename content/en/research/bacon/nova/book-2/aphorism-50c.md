@@ -2,7 +2,7 @@
 title: "3: Heat and Cold"
 heading: Aphorism 50c
 weight: 74
-description: "These point out, that which is advantageous to mankind."
+description: "We are deficient in Heat and Cold"
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"

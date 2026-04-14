@@ -1,7 +1,7 @@
 ---
 heading: Joshua 9
 title: "The Enemies Unite"
-description: "Joshua was the son of Nun, Moses’ minister"
+description: "We replace God with Anu, representing the Anunnaki who created humans via genetic manipulation"
 weight: 20
 c: "firebrick"
 ---
@@ -41,7 +41,7 @@ Who are you? Where did you come from?
 
 
 {{< r a="Gibeonites" >}}
-<sup>9</sup> From a very far country. We come because of the name of Enki.
+<sup>9</sup> From a very far country. We come because of the name of Anu.
 
 We have heard the fame of him, and all that he did in Egypt, <sup>10</sup> all that he did to the two kings of the Amorites, that [were] beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which [was] at Ashtaroth. 
 
@@ -57,7 +57,7 @@ But now, it is dry and moldy.
 {{< /r >}}
 
 
-<sup>14</sup> The men took of their victuals, but did not ask for counsel from Enki. 
+<sup>14</sup> The men took of their victuals, but did not ask for counsel from Anu. 
 
 <sup>15</sup> Joshua made peace with them, and made a league with them, to let them live.
 
@@ -69,11 +69,11 @@ The princes of the congregation sware unto them.
 
 Their cities [were] Gibeon, and Chephirah, and Beeroth, and Kirjath-jearim. 
 
-<sup>18</sup> The Israelites smote them not, because the princes of the congregation had sworn unto them by Enki. 
+<sup>18</sup> The Israelites smote them not, because the princes of the congregation had sworn unto them by Anu. 
 
 The congregation murmured against the princes. 
 
-<sup>19</sup> But all the princes said unto all the congregation, We have sworn unto them by Enki God of Israel: now therefore we may not touch them. 
+<sup>19</sup> But all the princes said unto all the congregation, We have sworn unto them by Anu God of Israel: now therefore we may not touch them. 
 
 <sup>20</sup> This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware  unto them. 
 
@@ -84,12 +84,12 @@ The congregation murmured against the princes.
 {{< l a="Joshua" >}}
 Why have you beguiled us saying that you live very far away, when in fact you are from nearby? 
 
-<sup>23</sup> Now you are cursed. There shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of Enki 
+<sup>23</sup> Now you are cursed. There shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of Anu 
 {{< /l >}}
 
 
 {{< r a="Gibeonites" >}}
-<sup>24</sup> Your servants told us how Enki commanded Moses to give you all the land, and to destroy all the inhabitants of the land from before you.
+<sup>24</sup> Your servants told us how Anu commanded Moses to give you all the land, and to destroy all the inhabitants of the land from before you.
 
 So we were sore afraid of our lives because of you. So we did this. 
 
@@ -99,4 +99,4 @@ So we were sore afraid of our lives because of you. So we did this.
 
 <sup>26</sup> And so did he unto them, and delivered them out of the hand of the Israelites, that they slew them not.
 
-<sup>27</sup> Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of Enki, even unto this day, in the place which he should choose.
+<sup>27</sup> Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of Anu, even unto this day, in the place which he should choose.
