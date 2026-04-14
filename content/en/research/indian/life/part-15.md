@@ -5,6 +5,8 @@ c: "indigo"
 weight: 28
 author: "Swāmi Nikhilānanda"
 description: "Shri Ramakrishna taught the steep path of renunciation to the young men destined to be monks."
+aliases:
+  /research/indian/gospel/intro/part-15/
 ---
 
 
@@ -31,8 +33,9 @@ He:
 
 The Master said to him: 
 
-"God really exists. You don't see the stars in the daytime, but that doesn't mean that the stars do not exist. There is butter in milk. But can anybody see it by merely looking at the milk? To get butter you must churn milk in a quiet and cool place. You cannot realize God by a mere wish; you must go through some mental disciplines." By degrees the Master awakened Rām's spirituality and the latter became one of his foremost lay disciples. It was Rām who introduced Narendranāth to
-Sri Ramakrishna. Narendra was a relative of Rām.
+"God really exists. You don't see the stars in the daytime, but that doesn't mean that the stars do not exist. There is butter in milk. But can anybody see it by merely looking at the milk? To get butter you must churn milk in a quiet and cool place. You cannot realize God by a mere wish; you must go through some mental disciplines." 
+
+By degrees the Master awakened Rām's spirituality and the latter became one of his foremost lay disciples. It was Rām who introduced Narendranāth to Sri Ramakrishna. Narendra was a relative of Rām.
 
 
 2. Manomohan Mitra
@@ -186,17 +189,14 @@ met the Master long before the arrival of the other disciples.
 
 He had had the intention of leading a spiritual life, but a strong desire to acquire name and fame was his weakness. He claimed to have been initiated by Totāpuri and used to say that he had been following the path of knowledge according to his guru's instructions. He possessed a large library of English and Sanskrit books.
 
-But though he pretended to have read them, most of the leaves were uncut. The Master knew all his limitations, yet enjoyed listening to him recite from the Vedas and other scriptures. He would always exhort Mahimā to meditate
-on the meaning of the scriptural texts and to practise spiritual discipline.
+But though he pretended to have read them, most of the leaves were uncut. The Master knew all his limitations, yet enjoyed listening to him recite from the Vedas and other scriptures. He would always exhort Mahimā to meditate on the meaning of the scriptural texts and to practise spiritual discipline.
+
 Pratāp Hazra, a middle-aged man, hailed from a village near Kāmārpukur. He was not
 altogether unresponsive to religious feelings.
 
-On a moment's impulse he had left his home, aged mother, wife, and children, and had found shelter in the temple garden at
-Dakshineśwar, where he intended to lead a spiritual life. He loved to argue, and the
-Master often pointed him out as an example of barren argumentation. He was
-hypercritical of others and cherished an exaggerated notion of his own spiritual
-advancement. He was mischievous and often tried to upset the minds of the Master's
-young disciples, criticizing them for their happy and joyous life and asking them to
+On a moment's impulse he had left his home, aged mother, wife, and children, and had found shelter in the temple garden at Dakshineśwar, where he intended to lead a spiritual life. He loved to argue, and the Master often pointed him out as an example of barren argumentation. 
+
+He was hypercritical of others and cherished an exaggerated notion of his own spiritual advancement. He was mischievous and often tried to upset the minds of the Master's young disciples, criticizing them for their happy and joyous life and asking them to
 devote their time to meditation. The 
 
 Master teasingly compared Hazra to Jatila and Kutila, the two women who always created obstructions in Krishna's sport with the gopis,

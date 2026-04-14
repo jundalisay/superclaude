@@ -11,6 +11,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Bio Superphysics"
+aliases:
+  /bio/principles/intro/chapter-02b
 ---
 
 
@@ -62,3 +64,5 @@ Superphysics explains the nature of the Positive Force.
 It is the task of Bio Superphysics to explain how matter becomes organic and how to combine all 3 requirements to create a happy life. 
 
 Organic matter will be explained in the Chapter on Elementals. 
+
+

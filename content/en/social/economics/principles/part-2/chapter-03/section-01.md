@@ -5,6 +5,8 @@ weight: 5
 date: 2018-06-03
 description : "The Six Types of Effort in Superphysics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
 image: /photos/econ/singer.jpg
+aliases:
+  /social/economics/principles/part-3/chapter-02c
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -182,5 +184,3 @@ This classification system allows our supereconomy to be automated in order to f
 
 
 A rich country can use its skilled labor to code the AI that can be used by poor countries to help them rise to wealth faster, bypassing the usual corrupt rent-seekers that made them poor in the first place. 
-
-

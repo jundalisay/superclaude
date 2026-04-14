@@ -8,6 +8,8 @@ writer:
 icon: "Leibniz"
 c: "firebrick"
 weight: 6
+aliases:
+  /research/leibniz/theodicy/part-01/part-06/
 ---
 
 
@@ -92,7 +94,10 @@ And this intelligent cause ought to be infinite in all ways, and absolutely perf
 
 Its understanding is the source of essences, and its will is the origin of existences. There in few words is the proof of one only God with his perfections, and through him of the origin of things.
 
-8. Now this supreme wisdom, united to a goodness that is no less infinite, cannot but have chosen the best. For as a lesser evil is a kind of good, even so a lesser good is a kind of evil if it stands in the way of a greater good; and there would be something to correct in the actions of God if it were possible to do better.
+
+8. This supreme wisdom, united to a goodness that is no less infinite, cannot but have chosen the best. 
+
+For as a lesser evil is a kind of good, even so a lesser good is a kind of evil if it stands in the way of a greater good; and there would be something to correct in the actions of God if it were possible to do better.
 
 As in mathematics, when there is no maximum nor minimum, in short nothing distinguished, everything is done equally, or when that is not possible nothing at all is done: so it may be said likewise in respect of perfect wisdom, which is no less orderly than mathematics, that if there were not the best (optimum) among all possible worlds, God would not have produced any. 
 
@@ -117,10 +122,10 @@ Often, an evil brings forth a good whereto one would not have attained without t
 
 Et si fata volunt, bina venena juvant.
 
-Even so two liquids sometimes produce a solid, witness the spirit of wine and spirit of urine mixed by Van Helmont; or so do two cold and dark bodies produce a great fire, witness an acid solution and an aromatic oil combined by Herr Hoffmann. A general makes sometimes a fortunate mistake which brings about the winning of a great battle; and do they not sing on the eve of Easter, in the churches of the Roman rite:
+Even so two liquids sometimes produce a solid, witness the spirit of wine and spirit of urine mixed by Van Helmont; or so do two cold and dark bodies produce a great fire, witness an acid solution and an aromatic oil combined by Herr Hoffmann.
+
+A general makes sometimes a fortunate mistake which brings about the winning of a great battle; and do they not sing on the eve of Easter, in the churches of the Roman rite:
 
 O certe necessarium Adae peccatum, quod Christi morte deletum est!
 
 O felix culpa, quae talem ac tantum meruit habere Redemptorem!
-
-

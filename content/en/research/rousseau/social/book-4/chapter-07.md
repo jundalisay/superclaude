@@ -8,6 +8,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 14
 date: 2025-01-11
+aliases:
+  /research/rousseau/social/book-4/chapter-07b/
 ---
 
 
@@ -60,5 +62,3 @@ An actual punishment would not have been so severe as such an impunity. When Spa
 [1] I merely call attention in this chapter to a subject with which I have dealt at greater length in my Letter to M. d'Alembert.
 
 [2] They were from another island, which the delicacy of our language forbids me to name on this occasion.
-
-

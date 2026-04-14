@@ -6,6 +6,8 @@ description: We explain the aether
 image: "/photos/meta/occult.jpg"
 # date: 2022-10-21
 weight: 48
+aliases:
+  /bio/principles/part-05/chapter-07b
 ---
 
  

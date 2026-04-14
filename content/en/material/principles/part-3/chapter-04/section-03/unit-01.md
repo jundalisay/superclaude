@@ -9,7 +9,10 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:  
+  /material/principles/part-3/chapter-04e
 ---
+
 
 
 <!-- 
@@ -27,8 +30,7 @@ sustainer
 fuel
  -->
 
-
-### How Fire Forms
+## How Fire Forms
 
 Fire is the 3rd substance of radiance. It is ignited from matter whenever qosts are ejected from matter instantly in large amounts.
 
@@ -81,7 +83,7 @@ In nuclear fission, the increase is done through enrichment wherein fissile Uran
 We can say that Uranium-235 is more fissile because it has less neutrons (soc in Superphysics) and therefore has a better fire-earth ratio. 
 
 
-### Suppressing Fire By Adding Qosts
+## Suppressing Fire By Adding Qosts
 
 Since the ejection of spacetime particles in flammable materials is one of the two mechanisms for heat and explosions, then it follows that the addition of space particles will retard or extinguish fire. 
 
@@ -95,7 +97,7 @@ Another way to add space is seen in sonic fire extinguishers which use a low fre
 - This is because sound is a property of the pure aether, which is superior to the spatial layer. 
 
 
-#### Experiment
+### Experiment
 
 On a flame, we pass dried fig twigs (control) and fig twigs compressed by hammering (variable) to see which ones will light more easily and can stay lit longer. 
 
@@ -109,7 +111,7 @@ We then pass the flame through 3 speakers to see which one can extinguish it:
 We find that the 60Hz extinguishes it, corroborating the experiment by Robertson and Tran. 
 
 
-### Using Superphysics to Disable Nuclear War 
+## Using Superphysics to Disable Nuclear War 
 
 Superphysics uses the principles of Nature to solve both small and big problems. One of the biggest problems regarding explosions is the one from nuclear weapons.
 

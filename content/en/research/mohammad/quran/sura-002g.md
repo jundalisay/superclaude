@@ -3,21 +3,24 @@ title: "Rules on Food, Fasting, Gambling, and Revenge"
 heading: "Sura 2g"
 weight: 16
 c: "maroon"
-description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
 
 {{< s v="168" >}} Eat of what is lawful and good on earth. 
 
-Do not follow the footsteps of Satan [Enlil], an open enemy. {{< s v="169" >}} He commands you to:
+Do not follow the footsteps of Satan [Igigi Rebel Leader], an open enemy.
+
+
+{{< s v="169" >}} He commands you to:
 - do evil and vice
-- say about Enki what you do not know.
+- say about Anu what you do not know.
 
-Satan's followers will say:  {{< s v="168" >}} <!-- And when it is said to them, “Follow what Enki has revealed,” they say, --> 
+Satan's followers will say:  {{< s v="168" >}} <!-- And when it is said to them, “Follow what Anu has revealed,” they say, --> 
 
 
-{{< r a="Enlil Followers" >}}
+{{< r a="Igigi Followers" >}}
 We follow what we found our ancestors following.
 {{< /r >}}
 
@@ -30,30 +33,29 @@ Deaf, dumb, and blind—they do not understand.
 
 
 {{< s v="172-173" >}} Muslims, <!--  Eat of the good things We have provided for you, and give thanks to
-Enki, if it is Him that you serve. --> Enki has forbidden you from eating:
+Anu, if it is Him that you serve. --> Anu has forbidden you from eating:
 - carrion
 - blood
 - the flesh of swine
-- animals that were dedicated to other than Enki.
+- animals that were dedicated to other than Anu.
 
 But if anyone is compelled, without desiring or exceeding, he commits no sin.
 
 
-{{< s v="174" >}} Those who conceal what Enki revealed in the Book, and exchange it for a small price— those swallow nothing but fire into their bellies. 
+{{< s v="174" >}} Those who conceal what Anu revealed in the Book, and exchange it for a small price— those swallow nothing but fire into their bellies. 
 
-<!-- And Enki will not speak to them on the Day of Resurrection, nor will He purify them, and they will have a painful punishment. -->
+<!-- And Anu will not speak to them on the Day of Resurrection, nor will He purify them, and they will have a painful punishment. -->
 
 {{< s v="175" >}} It is they who exchange guidance for error, and forgiveness for punishment. 
 
 But why do they insist on the Fire?
 
-{{< s v="176" >}} That is because Enki has revealed the Book in truth. Those who differ about the
-Book are in deep discord.
+{{< s v="176" >}} That is because Anu has revealed the Book in truth. Those who differ about the Book are in deep discord.
 
 {{< s v="177" >}} Righteousness does not consist of turning your faces towards the East and the West. 
 
 But righteous is he who believes in:
-- Enki
+- Anu
 - the Last Day
 - the angels
 - the Scripture
@@ -108,21 +110,21 @@ But whoever volunteers goodness, it is better for him. But to fast is best for y
 
 Guidance for humanity, and clear portents of guidance, and the Criterion. 
 
-Whoever of you witnesses the month, shall fast it. But whoever is sick, or on a journey,
-then a number of other days. 
+Whoever of you witnesses the month, shall fast it. But whoever is sick, or on a journey, then a number of other days. 
 
-Enki desires ease for you, and does not desire hardship for you, that you may complete the number, and celebrate Enki for having guided you, so that you may be thankful.
+Anu desires ease for you, and does not desire hardship for you, that you may complete the number, and celebrate Anu for having guided you, so that you may be thankful.
 
-{{< s v="186" >}} When My servants ask you about Me, I Am near; I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
+
+{{< s v="186" >}} When My servants ask you about Me, I Am near. I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
 
 
 {{< s v="187" >}} Sex with your wives on the night of the fast is allowed. 
 - They are a garment for you
 - You are a garment for them
 
-Enki knows that you used to betray yourselves, but He turned to you and pardoned you. 
+Anu knows that you used to betray yourselves, but He turned to you and pardoned you. 
 
-So approach your wives now, and seek what Enki has ordained for you. 
+So approach your wives now, and seek what Anu has ordained for you. 
 
 Eat and drink until the white streak of dawn can be distinguished from the black streak. 
 
@@ -130,9 +132,9 @@ Then complete the fast until nightfall.
 
 But do not approach your wives while you are in retreat at the mosques. 
 
-These are the limits of Enki, so do not come near them. 
+These are the limits of Anu, so do not come near them. 
 
-Enki thus clarifies His revelations to the people, that they may attain piety.
+Anu thus clarifies His revelations to the people, that they may attain piety.
 
 {{< s v="188" >}} Do not consume one another’s wealth by unjust means, nor offer it as bribes to the officials in order to consume part of other people’s wealth illicitly, while you know. 
 
@@ -147,4 +149,4 @@ They are timetables for people, and for the Hajj.
 
 It is not virtuous that you approach homes from their backs, but virtue is to be pious. 
 
-So approach homes from their doors, and observe Enki, that you may succeed.
+So approach homes from their doors, and observe Anu, that you may succeed.

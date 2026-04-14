@@ -11,6 +11,8 @@ writer:
 weight: 26
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-2/chapter-09
 ---
 
 

@@ -12,7 +12,10 @@ writer:
 icon: "Supereconomics"
 weight: 13
 toc: false
+aliases:
+  /social/economics/principles/part-4/chapter-01/unit-02/
 ---
+
 
 
 <!-- Commercial system focuses on self-interest 
@@ -86,3 +89,4 @@ The resulting concepts from the Fourth  Law of Value are:
 - Retail, Imports, Exports
 <!-- - The Grain Index -->
 - The Merchant class or cycle
+

@@ -33,7 +33,21 @@ Again, this alone would seem to be rested in for its own sake, since nothing res
 
 Happiness is thought to stand in perfect rest. 
 
-For we toil that we may rest, and war that we may be at peace. Now all the Practical Virtues require either society or war for their Working, and the actions regarding these are thought to exclude rest; those of war entirely, because no one chooses war, nor prepares for war, for war’s sake: he would indeed be thought a bloodthirsty villain who should make enemies of his friends to secure the existence of fighting and bloodshed. The Working also of the statesman excludes the idea of rest, and, beside the actual work of government, seeks for power and dignities or at least Happiness for the man himself and his fellow-citizens: a Happiness distinct[16] from the national Happiness, which we evidently seek as being different and distinct.
+We:
+- toil so that we may rest
+- wage war so that we may be at peace
+
+All the Practical Virtues require either society or war for their Working.
+
+The actions regarding these are thought to exclude rest.
+
+Those of war entirely exclude rest because no one chooses war, nor prepares for war, for war’s sake.
+
+Only a bloodthirsty villain would make enemies of his friends to secure fighting and bloodshed. 
+
+The Working also of the statesman excludes the idea of rest. Beside the actual work of government, their working seeks for power and dignities or at least Happiness for the man himself and his fellow-citizens.
+
+It is a Happiness distinct from the national Happiness, which we evidently seek as being different and distinct.
 
 If then of all the actions in accordance with the various virtues those of policy and war are pre-eminent in honour and greatness, and these are restless, and aim at some further End and are not choice-worthy for their own sakes, but the Working of the Intellect, being apt for contemplation, is thought to excel in earnestness, and to aim at no End beyond itself and to have Pleasure of its own which helps to increase the Working, and if the attributes of Self-Sufficiency, and capacity of rest, and unweariedness (as far as is compatible with the infirmity of human nature), and all other attributes of the highest Happiness, plainly belong to this Working, this must be perfect Happiness, if attaining a complete duration of life, which condition is added because none of the points of Happiness is incomplete.
 

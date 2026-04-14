@@ -12,7 +12,7 @@ writer:
 icon: "Juan"
 aliases:
   /social/supersociology/society-nation-state/
-# 1d
+  /social/supersociology/principles/part-1/chapter-01d
 ---
 
 

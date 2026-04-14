@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 6
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-05c
 ---
+
 
 
 The Subtlifying Monad upgrades particles to go up the Layers.

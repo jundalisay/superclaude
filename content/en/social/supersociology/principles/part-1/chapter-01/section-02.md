@@ -12,6 +12,7 @@ icon: "Juan"
 # 1b
 aliases:
   /social/supersociology/principles/social-networkism/
+  /social/supersociology/principles/part-1/chapter-01b
 ---
 
 

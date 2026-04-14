@@ -16,7 +16,6 @@ aliases:
 
 
 
-
 The creation of nominal value is the start of organized economic activity which is only made possible because of relationality.
 
 Relationality is each person accepting a relation with others. 

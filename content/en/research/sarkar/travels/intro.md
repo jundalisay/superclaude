@@ -6,7 +6,6 @@ c: "indigo"
 weight: 2
 icon: "Dharmavedananda"
 author: Dada
-toc: false
 ---
 
  
