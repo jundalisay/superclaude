@@ -76,19 +76,35 @@ And we shall naturally go on to say to him,—You, Tyrtaeus, as it seems, praise
 {{< /l >}}
 
 
-ATHENIAN: They are good; but we say that there are still better men whose virtue is displayed in the greatest of all battles. And we too have a poet whom we summon as a witness, Theognis, citizen of Megara in Sicily:
+
+{{< l a="Athenian" >}}
+They are good; but we say that there are still better men whose virtue is displayed in the greatest of all battles. And we too have a poet whom we summon as a witness, Theognis, citizen of Megara in Sicily:
 
 'Cyrnus,' he says, 'he who is faithful in a civil broil is worth his weight in gold and silver.'
 
 And such an one is far better, as we affirm, than the other in a more difficult kind of war, much in the same degree as justice and temperance and wisdom, when united with courage, are better than courage only; for a man cannot be faithful and good in civil strife without having all virtue. But in the war of which Tyrtaeus speaks, many a mercenary soldier will take his stand and be ready to die at his post, and yet they are generally and almost without exception insolent, unjust, violent men, and the most senseless of human beings. You will ask what the conclusion is, and what I am seeking to prove: I maintain that the divine legislator of Crete, like any other who is worthy of consideration, will always and above all things in making laws have regard to the greatest virtue; which, according to Theognis, is loyalty in the hour of danger, and may be truly called perfect justice. Whereas, that virtue which Tyrtaeus highly praises is well enough, and was praised by the poet at the right time, yet in place and dignity may be said to be only fourth rate (i.e., it ranks after justice, temperance, and wisdom.).
+{{< /l >}}
 
-CLEINIAS: Stranger, we are degrading our inspired lawgiver to a rank which is far beneath him.
 
-ATHENIAN: Nay, I think that we degrade not him but ourselves, if we imagine that Lycurgus and Minos laid down laws both in Lacedaemon and Crete mainly with a view to war.
+CLEINIAS: Foreigner, we are degrading our inspired lawgiver to a rank which is far beneath him.
+
+
+{{< l a="Athenian" >}}
+I think that we degrade not him but ourselves, if we imagine that Lycurgus and Minos laid down laws both in Lacedaemon and Crete mainly with a view to war.
+{{< /l >}}
+
 
 CLEINIAS: What ought we to say then?
 
-ATHENIAN: What truth and what justice require of us, if I am not mistaken, when speaking in behalf of divine excellence;—that the legislator when making his laws had in view not a part only, and this the lowest part of virtue, but all virtue, and that he devised classes of laws answering to the kinds of virtue; not in the way in which modern inventors of laws make the classes, for they only investigate and offer laws whenever a want is felt, and one man has a class of laws about allotments and heiresses, another about assaults; others about ten thousand other such matters. But we maintain that the right way of examining into laws is to proceed as we have now done, and I admired the spirit of your exposition; for you were quite right in beginning with virtue, and saying that this was the aim of the giver of the law, but I thought that you went wrong when you added that all his legislation had a view only to a part, and the least part of virtue, and this called forth my subsequent remarks. Will you allow me then to explain how I should have liked to have heard you expound the matter?
+
+{{< l a="Athenian" >}}
+What truth and what justice require of us, if I am not mistaken, when speaking in behalf of divine excellence.
+
+The legislator when making his laws had in view not a part only, and this the lowest part of virtue, but all virtue.
+
+He devised classes of laws answering to the kinds of virtue; not in the way in which modern inventors of laws make the classes, for they only investigate and offer laws whenever a want is felt, and one man has a class of laws about allotments and heiresses, another about assaults; others about ten thousand other such matters. 
+
+But we maintain that the right way of examining into laws is to proceed as we have now done, and I admired the spirit of your exposition; for you were quite right in beginning with virtue, and saying that this was the aim of the giver of the law, but I thought that you went wrong when you added that all his legislation had a view only to a part, and the least part of virtue, and this called forth my subsequent remarks. Will you allow me then to explain how I should have liked to have heard you expound the matter?
 
 You should to have said: Cretan laws are with reason famous among the Hellenes.
 
@@ -96,7 +112,16 @@ They fulfil the object of laws, which is to make those who use them happy; and t
 
 Wisdom is chief and leader of the divine class of goods, and next follows temperance; and from the union of these two with courage springs justice, and fourth in the scale of virtue is courage. All these naturally take precedence of the other goods, and this is the order in which the legislator must place them, and after them he will enjoin the rest of his ordinances on the citizens with a view to these, the human looking to the divine, and the divine looking to their leader mind. 
 
-Some of his ordinances will relate to contracts of marriage which they make one with another, and then to the procreation and education of children, both male and female; the duty of the lawgiver will be to take charge of his citizens, in youth and age, and at every time of life, and to give them punishments and rewards; and in reference to all their intercourse with one another, he ought to consider their pains and pleasures and desires, and the vehemence of all their passions; he should keep a watch over them, and blame and praise them rightly by the mouth of the laws themselves. Also with regard to anger and terror, and the other perturbations of the soul, which arise out of misfortune, and the deliverances from them which prosperity brings, and the experiences which come to men in diseases, or in war, or poverty, or the opposite of these; in all these states he should determine and teach what is the good and evil of the condition of each. In the next place, the legislator has to be careful how the citizens make their money and in what way they spend it, and to have an eye to their mutual contracts and dissolutions of contracts, whether voluntary or involuntary: he should see how they order all this, and consider where justice as well as injustice is found or is wanting in their several dealings with one another; and honour those who obey the law, and impose fixed penalties on those who disobey, until the round of civil life is ended, and the time has come for the consideration of the proper funeral rites and honours of the dead. And the lawgiver reviewing his work, will appoint guardians to preside over these things,—some who walk by intelligence, others by true opinion only, and then mind will bind together all his ordinances and show them to be in harmony with temperance and justice, and not with wealth or ambition. This is the spirit, Stranger, in which I was and am desirous that you should pursue the subject. And I want to know the nature of all these things, and how they are arranged in the laws of Zeus, as they are termed, and in those of the Pythian Apollo, which Minos and Lycurgus gave; and how the order of them is discovered to his eyes, who has experience in laws gained either by study or habit, although they are far from being self-evident to the rest of mankind like ourselves.
+Some of his ordinances will relate to contracts of marriage which they make one with another, and then to the procreation and education of children, both male and female; the duty of the lawgiver will be to take charge of his citizens, in youth and age, and at every time of life, and to give them punishments and rewards; and in reference to all their intercourse with one another, he ought to consider their pains and pleasures and desires, and the vehemence of all their passions; he should keep a watch over them, and blame and praise them rightly by the mouth of the laws themselves. 
+
+
+Also with regard to anger and terror, and the other perturbations of the soul, which arise out of misfortune, and the deliverances from them which prosperity brings, and the experiences which come to men in diseases, or in war, or poverty, or the opposite of these; in all these states he should determine and teach what is the good and evil of the condition of each. 
+
+In the next place, the legislator has to be careful how the citizens make their money and in what way they spend it, and to have an eye to their mutual contracts and dissolutions of contracts, whether voluntary or involuntary: he should see how they order all this, and consider where justice as well as injustice is found or is wanting in their several dealings with one another; and honour those who obey the law, and impose fixed penalties on those who disobey, until the round of civil life is ended, and the time has come for the consideration of the proper funeral rites and honours of the dead.
+
+The lawgiver reviewing his work, will appoint guardians to preside over these things,—some who walk by intelligence, others by true opinion only, and then mind will bind together all his ordinances and show them to be in harmony with temperance and justice, and not with wealth or ambition. This is the spirit, Foreigner, in which I was and am desirous that you should pursue the subject. 
+
+I want to know the nature of all these things, and how they are arranged in the laws of Zeus, as they are termed, and in those of the Pythian Apollo, which Minos and Lycurgus gave; and how the order of them is discovered to his eyes, who has experience in laws gained either by study or habit, although they are far from being self-evident to the rest of mankind like ourselves.
 
 We must first consider the habit of courage.
 
@@ -105,7 +130,7 @@ Then we will discuss other virtues.
 In this way we shall have a model of the whole.
 
 Then we will see that the institutions of which I was speaking look to virtue.
-
+{{< /l >}}
 
 
 MEGILLUS: Very good. First criticize this praiser of Zeus and the laws of Crete.

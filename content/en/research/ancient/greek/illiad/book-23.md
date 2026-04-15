@@ -1,13 +1,14 @@
 ---
 heading: Book 23
-title: "The quarrel between Agamemnon and Achilles"
-weight: 4
+title: "The funeral of Patroclus"
+weight: 59
 c: "darkslategray"
-description: "Texts from ancient civilizations"
+icon: Homer
+date: 2026-04-15
+description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
 
-The funeral of Patroclus, and the funeral games.
 
 Thus did they make their moan throughout the city, while the Achaeans when they reached the Hellespont went back every man to his own ship. But Achilles would not let the Myrmidons go, and spoke to his brave comrades saying, “Myrmidons, famed horsemen and my own trusted friends, not yet, forsooth, let us unyoke, but with horse and chariot draw near to the body and mourn Patroclus, in due honour to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here.”
 

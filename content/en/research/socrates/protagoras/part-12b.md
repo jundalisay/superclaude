@@ -12,7 +12,11 @@ icon: "Socrates"
 
 
 {{< l a="Socrates" >}}
-Protagoras, when you asked me, I certainly did say that the courageous are the confident; but I was never asked whether the confident are the courageous; if you had asked me, I should have answered 'Not all of them': and what I did answer you have not proved to be false, although you proceeded to show that those who have knowledge are more courageous than they were before they had knowledge, and more courageous than others who have no knowledge, and were then led on to think that courage is the same as wisdom. 
+Protagoras, when you asked me, I certainly did say that the courageous are the confident.
+
+But I was never asked whether the confident are the courageous; if you had asked me, I should have answered 'Not all of them'
+
+What I did answer you have not proved to be false, although you proceeded to show that those who have knowledge are more courageous than they were before they had knowledge, and more courageous than others who have no knowledge, and were then led on to think that courage is the same as wisdom. 
 
 But in this way of arguing you might come to imagine that strength is wisdom. You might begin by asking whether the strong are able, and I should say 'Yes'; and then whether those who know how to wrestle are not more able to wrestle than those who do not know how to wrestle, and more able after than before they had learned, and I should assent. 
 {{< /l >}}
@@ -70,7 +74,9 @@ You should take the lead as you are the author of the discussion.
 
 Suppose someone who is enquiring into the health or some other bodily quality of another:—he looks at his face and at the tips of his fingers, and then he says, Uncover your chest and back to me that I may have a better view:
 
-that is the sort of thing which I desire in this speculation. Having seen what your opinion is about good and pleasure, I am minded to say to you: Uncover your mind to me, Protagoras, and reveal your opinion about knowledge, that I may know whether you agree with the rest of the world. Now the rest of the world are of opinion that knowledge is a principle not of strength, or of rule, or of command: their notion is that a man may have knowledge, and yet that the knowledge which is in him may be overmastered by anger, or pleasure, or pain, or love, or perhaps by fear,—just as if knowledge were a slave, and might be dragged about anyhow. Now is that your view? or do you think that knowledge is a noble and commanding thing, which cannot be overcome, and will not allow a man, if he only knows the difference of good and evil, to do anything which is contrary to knowledge, but that wisdom will have strength to help him?
+that is the sort of thing which I desire in this speculation. Having seen what your opinion is about good and pleasure, I am minded to say to you: Uncover your mind to me, Protagoras, and reveal your opinion about knowledge, that I may know whether you agree with the rest of the world.
+
+The rest of the world are of opinion that knowledge is a principle not of strength, or of rule, or of command: their notion is that a man may have knowledge, and yet that the knowledge which is in him may be overmastered by anger, or pleasure, or pain, or love, or perhaps by fear,—just as if knowledge were a slave, and might be dragged about anyhow. Now is that your view? or do you think that knowledge is a noble and commanding thing, which cannot be overcome, and will not allow a man, if he only knows the difference of good and evil, to do anything which is contrary to knowledge, but that wisdom will have strength to help him?
 
 {{< r a="Protagoras" >}}
 I agree with you. I, above all other men, am bound to say that wisdom and knowledge are the highest of human things.

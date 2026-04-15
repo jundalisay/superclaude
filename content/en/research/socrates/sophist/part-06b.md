@@ -11,403 +11,351 @@ icon: "Socrates"
 ---
 
 
-FOREIGNER: Do not expect clearness from me. For I, who maintain that not-being has no part either in the one or many, just now spoke and am still speaking of not-being as one; for I say 'not-being.' 
 
-FOREIGNER: And a little while ago I said that not-being is unutterable, unspeakable, indescribable.
+{{< l a="Foreigner" >}}
+Do not expect clearness from me. For I, who maintain that not-being has no part either in the one or many, just now spoke and am still speaking of not-being as one; for I say 'not-being.' 
 
-FOREIGNER: When I introduced the word 'is'. I contradicted what I said before.
+A little while ago I said that not-being is unutterable, unspeakable, indescribable.
 
-FOREIGNER: And in using the singular verb, I spoke of not-being as one
+When I introduced the word 'is'. I contradicted what I said before.
 
-FOREIGNER: And when I spoke of not-being as indescribable and unspeakable and unutterable, in using each of these words in the singular, did I not refer to not-being as one?
+In using the singular verb, I spoke of not-being as one
 
-FOREIGNER: And yet we say that, strictly speaking, it should not be defined as one or many, and should not even be called 'it,' for the use of the word 'it' would imply a form of unity.
+When I spoke of not-being as indescribable and unspeakable and unutterable, in using each of these words in the singular, did I not refer to not-being as one?
 
-FOREIGNER: How, then, can any one put any faith in me? For now, as always, I am unequal to the refutation of not-being. And therefore, as I was saying, do not look to me for the right way of speaking about not-being; but come, let us try the experiment with you.
+Yet we say that, strictly speaking, it should not be defined as one or many, and should not even be called 'it,' for the use of the word 'it' would imply a form of unity.
 
-THEAETETUS: What do you mean?
+How, then, can any one put any faith in me? For now, as always, I am unequal to the refutation of not-being. And therefore, as I was saying, do not look to me for the right way of speaking about not-being; but come, let us try the experiment with you.
 
-FOREIGNER: Make a noble effort, as becomes youth, and endeavour with all your might to speak of not-being in a right manner, without introducing into it either existence or unity or plurality.
+Make a noble effort, as becomes youth, and endeavour with all your might to speak of not-being in a right manner, without introducing into it either existence or unity or plurality.
+{{< /l >}}
+
 
 THEAETETUS: It would be a strange boldness in me which would attempt the task when I see you thus discomfited.
 
-FOREIGNER: Say no more of ourselves; but until we find some one or other who can speak of not-being without number, we must acknowledge that the Sophist is a clever rogue who will not be got out of his hole.
+{{< l a="Foreigner" >}}
+Say no more of ourselves; but until we find some one or other who can speak of not-being without number, we must acknowledge that the Sophist is a clever rogue who will not be got out of his hole.
 
-THEAETETUS: Most true.
+If we say to him that he professes an art of making appearances, he will grapple with us and retort our argument upon ourselves; and when we call him an image-maker he will say, 'Pray what do you mean at all by an image?'—and I should like to know, Theaetetus, how we can possibly answer the younker's question?
+{{< /l >}}
 
-FOREIGNER: And if we say to him that he professes an art of making appearances, he will grapple with us and retort our argument upon ourselves; and when we call him an image-maker he will say, 'Pray what do you mean at all by an image?'—and I should like to know, Theaetetus, how we can possibly answer the younker's question?
 
 THEAETETUS: We shall doubtless tell him of the images which are reflected in water or in mirrors; also of sculptures, pictures, and other duplicates.
 
-FOREIGNER: I see, Theaetetus, that you have never made the acquaintance of the Sophist.
 
-THEAETETUS: Why do you think so?
+{{< l a="Foreigner" >}}
+I see, Theaetetus, that you have never made the acquaintance of the Sophist.
 
-FOREIGNER: He will make believe to have his eyes shut, or to have none.
+He will make believe to have his eyes shut, or to have none.
 
-THEAETETUS: What do you mean?
+When you tell him of something existing in a mirror, or in sculpture, and address him as though he had eyes, he will laugh you to scorn, and will pretend that he knows nothing of mirrors and streams, or of sight at all; he will say that he is asking about an idea.
 
-FOREIGNER: When you tell him of something existing in a mirror, or in sculpture, and address him as though he had eyes, he will laugh you to scorn, and will pretend that he knows nothing of mirrors and streams, or of sight at all; he will say that he is asking about an idea.
+The common notion pervading all these objects, which you speak of as many, and yet call by the single name of image, as though it were the unity under which they were all included. How will you maintain your ground against him?
+{{< /l >}}
 
-THEAETETUS: What can he mean?
-
-FOREIGNER: The common notion pervading all these objects, which you speak of as many, and yet call by the single name of image, as though it were the unity under which they were all included. How will you maintain your ground against him?
 
 THEAETETUS: How, Stranger, can I describe an image except as something fashioned in the likeness of the true?
 
-FOREIGNER: And do you mean this something to be some other true thing, or what do you mean?
+{{< l a="Foreigner" >}}
+Do you mean this something to be some other true thing, or what do you mean?
+{{< /l >}}
+
 
 THEAETETUS: Certainly not another true thing, but only a resemblance.
 
-FOREIGNER: And you mean by true that which really is?
+{{< l a="Foreigner" >}}
+You mean by true that which really is?
 
-THEAETETUS: Yes.
+The not true is that which is the opposite of the true?
 
-FOREIGNER: And the not true is that which is the opposite of the true?
+A resemblance, then, is not really real, if, as you say, not true?
 
-THEAETETUS: Exactly.
+It is in reality only an image.
 
-FOREIGNER: A resemblance, then, is not really real, if, as you say, not true?
+Then what we call an image is in reality really unreal.
+{{< /l >}}
 
-THEAETETUS: Nay, but it is in a certain sense.
-
-FOREIGNER: You mean to say, not in a true sense?
-
-THEAETETUS: Yes; it is in reality only an image.
-
-FOREIGNER: Then what we call an image is in reality really unreal.
 
 THEAETETUS: In what a strange complication of being and not-being we are involved!
 
-FOREIGNER: Strange! I should think so. See how, by his reciprocation of opposites, the many-headed Sophist has compelled us, quite against our will, to admit the existence of not-being.
 
-THEAETETUS: Yes, indeed, I see.
+{{< l a="Foreigner" >}}
+Strange! I should think so. See how, by his reciprocation of opposites, the many-headed Sophist has compelled us, quite against our will, to admit the existence of not-being.
 
-FOREIGNER: The difficulty is how to define his art without falling into a contradiction.
+The difficulty is how to define his art without falling into a contradiction.
+{{< /l >}}
+
 
 THEAETETUS: How do you mean? And where does the danger lie?
 
-FOREIGNER: When we say that he deceives us with an illusion, and that his art is illusory, do we mean that our soul is led by his art to think falsely, or what do we mean?
 
-THEAETETUS: There is nothing else to be said.
+{{< l a="Foreigner" >}}
+When we say that he deceives us with an illusion, and that his art is illusory, do we mean that our soul is led by his art to think falsely, or what do we mean?
 
-FOREIGNER: Again, false opinion is that form of opinion which thinks the opposite of the truth:—You would assent?
+Again, false opinion is that form of opinion which thinks the opposite of the truth:—You would assent?
 
-THEAETETUS: Certainly.
+You mean to say that false opinion thinks what is not?
 
-FOREIGNER: You mean to say that false opinion thinks what is not?
+Does false opinion think that things which are not are not, or that in a certain sense they are?
+{{< /l >}}
 
-THEAETETUS: Of course.
-
-FOREIGNER: Does false opinion think that things which are not are not, or that in a certain sense they are?
 
 THEAETETUS: Things that are not must be imagined to exist in a certain sense, if any degree of falsehood is to be possible.
 
-FOREIGNER: And does not false opinion also think that things which most certainly exist do not exist at all?
+{{< l a="Foreigner" >}}
+Does not false opinion also think that things which most certainly exist do not exist at all?
 
-THEAETETUS: Yes.
+Here, again, is falsehood.
 
-FOREIGNER: And here, again, is falsehood?
+In like manner, a false proposition will be deemed to be one which asserts the non-existence of things which are, and the existence of things which are not.
+{{< /l >}}
 
-THEAETETUS: Falsehood—yes.
-
-FOREIGNER: And in like manner, a false proposition will be deemed to be one which asserts the non-existence of things which are, and the existence of things which are not.
 
 THEAETETUS: There is no other way in which a false proposition can arise.
 
-FOREIGNER: There is not; but the Sophist will deny these statements. And indeed how can any rational man assent to them, when the very expressions which we have just used were before acknowledged by us to be unutterable, unspeakable, indescribable, unthinkable? Do you see his point, Theaetetus?
+{{< l a="Foreigner" >}}
+There is not; but the Sophist will deny these statements. And indeed how can any rational man assent to them, when the very expressions which we have just used were before acknowledged by us to be unutterable, unspeakable, indescribable, unthinkable? Do you see his point, Theaetetus?
+{{< /l >}}
+
 
 THEAETETUS: Of course he will say that we are contradicting ourselves when we hazard the assertion, that falsehood exists in opinion and in words; for in maintaining this, we are compelled over and over again to assert being of not-being, which we admitted just now to be an utter impossibility.
 
-FOREIGNER: How well you remember! And now it is high time to hold a consultation as to what we ought to do about the Sophist; for if we persist in looking for him in the class of false workers and magicians, you see that the handles for objection and the difficulties which will arise are very numerous and obvious.
 
-THEAETETUS: They are indeed.
+{{< l a="Foreigner" >}}
+How well you remember! And now it is high time to hold a consultation as to what we ought to do about the Sophist; for if we persist in looking for him in the class of false workers and magicians, you see that the handles for objection and the difficulties which will arise are very numerous and obvious.
 
-FOREIGNER: We have gone through but a very small portion of them, and they are really infinite.
+We have gone through but a very small portion of them, and they are really infinite.
+{{< /l >}}
+
 
 THEAETETUS: If that is the case, we cannot possibly catch the Sophist.
 
-FOREIGNER: Shall we then be so faint-hearted as to give him up?
+{{< l a="Foreigner" >}}
+Shall we then be so faint-hearted as to give him up?
+{{< /l >}}
+
 
 THEAETETUS: Certainly not, I should say, if we can get the slightest hold upon him.
 
-FOREIGNER: Will you then forgive me, and, as your words imply, not be altogether displeased if I flinch a little from the grasp of such a sturdy argument?
 
-THEAETETUS: To be sure I will.
+{{< l a="Foreigner" >}}
+Will you then forgive me, and, as your words imply, not be altogether displeased if I flinch a little from the grasp of such a sturdy argument?
 
-FOREIGNER: I have a yet more urgent request to make.
+I have a yet more urgent request to make.
 
-THEAETETUS: Which is—?
+That you will promise not to regard me as a parricide.
 
-FOREIGNER: That you will promise not to regard me as a parricide.
+Because, in self-defence, I must test the philosophy of my father Parmenides, and try to prove by main force that in a certain sense not-being is, and that being, on the other hand, is not.
+{{< /l >}}
 
-THEAETETUS: And why?
-
-FOREIGNER: Because, in self-defence, I must test the philosophy of my father Parmenides, and try to prove by main force that in a certain sense not-being is, and that being, on the other hand, is not.
 
 THEAETETUS: Some attempt of the kind is clearly needed.
 
 FOREIGNER: Yes, a blind man, as they say, might see that, and, unless these questions are decided in one way or another, no one when he speaks of false words, or false opinion, or idols, or images, or imitations, or appearances, or about the arts which are concerned with them; can avoid falling into ridiculous contradictions.
 
-THEAETETUS: Most true.
-
-FOREIGNER: And therefore I must venture to lay hands on my father's argument; for if I am to be over-scrupulous, I shall have to give the matter up.
+Therefore I must venture to lay hands on my father's argument; for if I am to be over-scrupulous, I shall have to give the matter up.
 
 THEAETETUS: Nothing in the world should ever induce us to do so.
 
-FOREIGNER: I have a third little request which I wish to make.
 
-THEAETETUS: What is it?
+{{< l a="Foreigner" >}}
+I have a third little request which I wish to make.
 
-FOREIGNER: You heard me say what I have always felt and still feel—that I have no heart for this argument?
+You heard me say what I have always felt and still feel—that I have no heart for this argument?
 
-THEAETETUS: I did.
+I tremble at the thought of what I have said, and expect that you will deem me mad, when you hear of my sudden changes and shiftings; let me therefore observe, that I am examining the question entirely out of regard for you.
+{{< /l >}}
 
-FOREIGNER: I tremble at the thought of what I have said, and expect that you will deem me mad, when you hear of my sudden changes and shiftings; let me therefore observe, that I am examining the question entirely out of regard for you.
 
 THEAETETUS: There is no reason for you to fear that I shall impute any impropriety to you, if you attempt this refutation and proof; take heart, therefore, and proceed.
 
-FOREIGNER: And where shall I begin the perilous enterprise? I think that the road which I must take is—
 
-THEAETETUS: Which?—Let me hear.
+{{< l a="Foreigner" >}}
+Where shall I begin the perilous enterprise? I think that the road which I must take is—
 
-FOREIGNER: I think that we had better, first of all, consider the points which at present are regarded as self-evident, lest we may have fallen into some confusion, and be too ready to assent to one another, fancying that we are quite clear about them.
+I think that we had better, first of all, consider the points which at present are regarded as self-evident, lest we may have fallen into some confusion, and be too ready to assent to one another, fancying that we are quite clear about them.
 
-THEAETETUS: Say more distinctly what you mean.
+I think that Parmenides, and all ever yet undertook to determine the number and nature of existences, talked to us in rather a light and easy strain.
 
-FOREIGNER: I think that Parmenides, and all ever yet undertook to determine the number and nature of existences, talked to us in rather a light and easy strain.
+As if we had been children, to whom they repeated each his own mythus or story;—one said that there were three principles, and that at one time there was war between certain of them; and then again there was peace, and they were married and begat children, and brought them up; and another spoke of two principles,—a moist and a dry, or a hot and a cold, and made them marry and cohabit. 
 
-THEAETETUS: How?
+The Eleatics, however, in our part of the world, say that all things are many in name, but in nature one; this is their mythus, which goes back to Xenophanes, and is even older. 
 
-FOREIGNER: As if we had been children, to whom they repeated each his own mythus or story;—one said that there were three principles, and that at one time there was war between certain of them; and then again there was peace, and they were married and begat children, and brought them up; and another spoke of two principles,—a moist and a dry, or a hot and a cold, and made them marry and cohabit. The Eleatics, however, in our part of the world, say that all things are many in name, but in nature one; this is their mythus, which goes back to Xenophanes, and is even older. Then there are Ionian, and in more recent times Sicilian muses, who have arrived at the conclusion that to unite the two principles is safer, and to say that being is one and many, and that these are held together by enmity and friendship, ever parting, ever meeting, as the severer Muses assert, while the gentler ones do not insist on the perpetual strife and peace, but admit a relaxation and alternation of them; peace and unity sometimes prevailing under the sway of Aphrodite, and then again plurality and war, by reason of a principle of strife. Whether any of them spoke the truth in all this is hard to determine; besides, antiquity and famous men should have reverence, and not be liable to accusations so serious. Yet one thing may be said of them without offence—
+Then there are Ionian, and in more recent times Sicilian muses, who have arrived at the conclusion that to unite the two principles is safer, and to say that being is one and many, and that these are held together by enmity and friendship, ever parting, ever meeting, as the severer Muses assert, while the gentler ones do not insist on the perpetual strife and peace, but admit a relaxation and alternation of them; peace and unity sometimes prevailing under the sway of Aphrodite, and then again plurality and war, by reason of a principle of strife. Whether any of them spoke the truth in all this is hard to determine; besides, antiquity and famous men should have reverence, and not be liable to accusations so serious. Yet one thing may be said of them without offence—
 
-THEAETETUS: What thing?
+That they went on their several ways disdaining to notice people like ourselves; they did not care whether they took us with them, or left us behind them.
 
-FOREIGNER: That they went on their several ways disdaining to notice people like ourselves; they did not care whether they took us with them, or left us behind them.
+When they talk of one, two, or more elements, which are or have become or are becoming, or again of heat mingling with cold, assuming in some other part of their works separations and mixtures,—tell me, Theaetetus, do you understand what they mean by these expressions? When I was a younger man, I used to fancy that I understood quite well what was meant by the term 'not-being,' which is our present subject of dispute; and now you see in what a fix we are about it.
 
-THEAETETUS: How do you mean?
+Very likely we have been getting into the same perplexity about 'being,' and yet may fancy that when anybody utters the word, we understand him quite easily, although we do not know about not-being. But we may be; equally ignorant of both.
 
-FOREIGNER: I mean to say, that when they talk of one, two, or more elements, which are or have become or are becoming, or again of heat mingling with cold, assuming in some other part of their works separations and mixtures,—tell me, Theaetetus, do you understand what they mean by these expressions? When I was a younger man, I used to fancy that I understood quite well what was meant by the term 'not-being,' which is our present subject of dispute; and now you see in what a fix we are about it.
+The same may be said of all the terms just mentioned.
 
-THEAETETUS: I see.
+The consideration of most of them may be deferred; but we had better now discuss the chief captain and leader of them.
+{{< /l >}}
 
-FOREIGNER: And very likely we have been getting into the same perplexity about 'being,' and yet may fancy that when anybody utters the word, we understand him quite easily, although we do not know about not-being. But we may be; equally ignorant of both.
 
-THEAETETUS: I dare say.
-
-FOREIGNER: And the same may be said of all the terms just mentioned.
-
-THEAETETUS: True.
-
-FOREIGNER: The consideration of most of them may be deferred; but we had better now discuss the chief captain and leader of them.
 
 THEAETETUS: Of what are you speaking? You clearly think that we must first investigate what people mean by the word 'being.'
 
-FOREIGNER: You follow close at my heels, Theaetetus. For the right method, I conceive, will be to call into our presence the dualistic philosophers and to interrogate them. 'Come,' we will say, 'Ye, who affirm that hot and cold or any other two principles are the universe, what is this term which you apply to both of them, and what do you mean when you say that both and each of them "are"? How are we to understand the word "are"? Upon your view, are we to suppose that there is a third principle over and above the other two,—three in all, and not two? For clearly you cannot say that one of the two principles is being, and yet attribute being equally to both of them; for, if you did, whichever of the two is identified with being, will comprehend the other; and so they will be one and not two.'
 
-THEAETETUS: Very true.
+{{< l a="Foreigner" >}}
+You follow close at my heels, Theaetetus. For the right method, I conceive, will be to call into our presence the dualistic philosophers and to interrogate them. 'Come,' we will say, 'Ye, who affirm that hot and cold or any other two principles are the universe, what is this term which you apply to both of them, and what do you mean when you say that both and each of them "are"? 
 
-FOREIGNER: But perhaps you mean to give the name of 'being' to both of them together?
+How are we to understand the word "are"? Upon your view, are we to suppose that there is a third principle over and above the other two,—three in all, and not two? For clearly you cannot say that one of the two principles is being, and yet attribute being equally to both of them; for, if you did, whichever of the two is identified with being, will comprehend the other; and so they will be one and not two.'
 
-THEAETETUS: Quite likely.
+But perhaps you mean to give the name of 'being' to both of them together?
 
-FOREIGNER: 'Then, friends,' we shall reply to them, 'the answer is plainly that the two will still be resolved into one.'
+'Then, friends,' we shall reply to them, 'the answer is plainly that the two will still be resolved into one.'
 
-THEAETETUS: Most true.
+'Since, then, we are in a difficulty, please to tell us what you mean, when you speak of being; for there can be no doubt that you always from the first understood your own meaning, whereas we once thought that we understood you, but now we are in a great strait. Please to begin by explaining this matter to us, and let us no longer fancy that we understand you, when we entirely misunderstand you.' There will be no impropriety in our demanding an answer to this question, either of the dualists or of the pluralists?
 
-FOREIGNER: 'Since, then, we are in a difficulty, please to tell us what you mean, when you speak of being; for there can be no doubt that you always from the first understood your own meaning, whereas we once thought that we understood you, but now we are in a great strait. Please to begin by explaining this matter to us, and let us no longer fancy that we understand you, when we entirely misunderstand you.' There will be no impropriety in our demanding an answer to this question, either of the dualists or of the pluralists?
+What about the assertors of the oneness of the all—must we not endeavour to ascertain from them what they mean by 'being'?
 
-THEAETETUS: Certainly not.
+Then let them answer this question: One, you say, alone is? 'Yes,' they will reply.
 
-FOREIGNER: And what about the assertors of the oneness of the all—must we not endeavour to ascertain from them what they mean by 'being'?
+There is something which you call 'being'?
 
-THEAETETUS: By all means.
+Is being the same as one, and do you apply two names to the same thing?
 
-FOREIGNER: Then let them answer this question: One, you say, alone is? 'Yes,' they will reply.
+He who asserts the unity of being will find a difficulty in answering this or any other question.
 
-THEAETETUS: True.
+To admit of two names, and to affirm that there is nothing but unity, is surely ridiculous?
 
-FOREIGNER: And there is something which you call 'being'?
+Equally irrational to admit that a name is anything?
 
-THEAETETUS: 'Yes.'
+To distinguish the name from the thing, implies duality.
 
-FOREIGNER: And is being the same as one, and do you apply two names to the same thing?
+Yet he who identifies the name with the thing will be compelled to say that it is the name of nothing, or if he says that it is the name of something, even then the name will only be the name of a name, and of nothing else.
 
-THEAETETUS: What will be their answer, Stranger?
+The one will turn out to be only one of one, and being absolute unity, will represent a mere name.
 
-FOREIGNER: It is clear, Theaetetus, that he who asserts the unity of being will find a difficulty in answering this or any other question.
+Would they say that the whole is other than the one that is, or the same with it?
+{{< /l >}}
 
-THEAETETUS: Why so?
-
-FOREIGNER: To admit of two names, and to affirm that there is nothing but unity, is surely ridiculous?
-
-THEAETETUS: Certainly.
-
-FOREIGNER: And equally irrational to admit that a name is anything?
-
-THEAETETUS: How so?
-
-FOREIGNER: To distinguish the name from the thing, implies duality.
-
-THEAETETUS: Yes.
-
-FOREIGNER: And yet he who identifies the name with the thing will be compelled to say that it is the name of nothing, or if he says that it is the name of something, even then the name will only be the name of a name, and of nothing else.
-
-THEAETETUS: True.
-
-FOREIGNER: And the one will turn out to be only one of one, and being absolute unity, will represent a mere name.
-
-THEAETETUS: Certainly.
-
-FOREIGNER: And would they say that the whole is other than the one that is, or the same with it?
 
 THEAETETUS: To be sure they would, and they actually say so.
 
-FOREIGNER: If being is a whole, as Parmenides sings,—
+
+{{< l a="Foreigner" >}}
+If being is a whole, as Parmenides sings,—
 
 'Every way like unto the fullness of a well-rounded sphere, Evenly balanced from the centre on every side, And must needs be neither greater nor less in any way, Neither on this side nor on that—'
 
 then being has a centre and extremes, and, having these, must also have parts.
 
-THEAETETUS: True.
+Yet that which has parts may have the attribute of unity in all the parts, and in this way being all and a whole, may be one?
 
-FOREIGNER: Yet that which has parts may have the attribute of unity in all the parts, and in this way being all and a whole, may be one?
+But that of which this is the condition cannot be absolute unity?  Because, according to right reason, that which is truly one must be affirmed to be absolutely indivisible.
 
-THEAETETUS: Certainly.
+But this indivisible, if made up of many parts, will contradict reason.
 
-FOREIGNER: But that of which this is the condition cannot be absolute unity?
+Shall we say that being is one and a whole, because it has the attribute of unity? Or shall we say that being is not a whole at all?
+{{< /l >}}
 
-THEAETETUS: Why not?
-
-FOREIGNER: Because, according to right reason, that which is truly one must be affirmed to be absolutely indivisible.
-
-THEAETETUS: Certainly.
-
-FOREIGNER: But this indivisible, if made up of many parts, will contradict reason.
-
-THEAETETUS: I understand.
-
-FOREIGNER: Shall we say that being is one and a whole, because it has the attribute of unity? Or shall we say that being is not a whole at all?
 
 THEAETETUS: That is a hard alternative to offer.
 
-FOREIGNER: Most true; for being, having in a certain sense the attribute of one, is yet proved not to be the same as one, and the all is therefore more than one.
 
-THEAETETUS: Yes.
+{{< l a="Foreigner" >}}
+Most true; for being, having in a certain sense the attribute of one, is yet proved not to be the same as one, and the all is therefore more than one.
 
-FOREIGNER: And yet if being be not a whole, through having the attribute of unity, and there be such a thing as an absolute whole, being lacks something of its own nature?
+Yet if being be not a whole, through having the attribute of unity, and there be such a thing as an absolute whole, being lacks something of its own nature?
 
-THEAETETUS: Certainly.
+Upon this view, again, being, having a defect of being, will become not-being?
 
-FOREIGNER: Upon this view, again, being, having a defect of being, will become not-being?
+The all becomes more than one, for being and the whole will each have their separate nature.
 
-THEAETETUS: True.
+But if the whole does not exist at all, all the previous difficulties remain the same, and there will be the further difficulty, that besides having no being, being can never have come into being.
 
-FOREIGNER: And, again, the all becomes more than one, for being and the whole will each have their separate nature.
+Because that which comes into being always comes into being as a whole, so that he who does not give whole a place among beings, cannot speak either of essence or generation as existing.
 
-THEAETETUS: Yes.
+How can that which is not a whole have any quantity? For that which is of a certain quantity must necessarily be the whole of that quantity.
 
-FOREIGNER: But if the whole does not exist at all, all the previous difficulties remain the same, and there will be the further difficulty, that besides having no being, being can never have come into being.
+There will be innumerable other points, each of them causing infinite trouble to him who says that being is either one or two.
+{{< /l >}}
 
-THEAETETUS: Why so?
-
-FOREIGNER: Because that which comes into being always comes into being as a whole, so that he who does not give whole a place among beings, cannot speak either of essence or generation as existing.
-
-THEAETETUS: Yes, that certainly appears to be true.
-
-FOREIGNER: Again; how can that which is not a whole have any quantity? For that which is of a certain quantity must necessarily be the whole of that quantity.
-
-THEAETETUS: Exactly.
-
-FOREIGNER: And there will be innumerable other points, each of them causing infinite trouble to him who says that being is either one or two.
 
 THEAETETUS: The difficulties which are dawning upon us prove this; for one objection connects with another, and they are always involving what has preceded in a greater and worse perplexity.
 
-FOREIGNER: We are far from having exhausted the more exact thinkers who treat of being and not-being. But let us be content to leave them, and proceed to view those who speak less precisely; and we shall find as the result of all, that the nature of being is quite as difficult to comprehend as that of not-being.
 
-THEAETETUS: Then now we will go to the others.
+{{< l a="Foreigner" >}}
+We are far from having exhausted the more exact thinkers who treat of being and not-being. But let us be content to leave them, and proceed to view those who speak less precisely; and we shall find as the result of all, that the nature of being is quite as difficult to comprehend as that of not-being.
 
-FOREIGNER: There appears to be a sort of war of Giants and Gods going on amongst them; they are fighting with one another about the nature of essence.
+There appears to be a sort of war of Giants and Gods going on amongst them; they are fighting with one another about the nature of essence.
 
-THEAETETUS: How is that?
+Some of them are dragging down all things from heaven and from the unseen to earth, and they literally grasp in their hands rocks and oaks; of these they lay hold, and obstinately maintain, that the things only which can be touched or handled have being or essence, because they define being and body as one, and if any one else says that what is not a body exists they altogether despise him, and will hear of nothing but body.
+{{< /l >}}
 
-FOREIGNER: Some of them are dragging down all things from heaven and from the unseen to earth, and they literally grasp in their hands rocks and oaks; of these they lay hold, and obstinately maintain, that the things only which can be touched or handled have being or essence, because they define being and body as one, and if any one else says that what is not a body exists they altogether despise him, and will hear of nothing but body.
 
 THEAETETUS: I have often met with such men, and terrible fellows they are.
 
-FOREIGNER: And that is the reason why their opponents cautiously defend themselves from above, out of an unseen world, mightily contending that true essence consists of certain intelligible and incorporeal ideas; the bodies of the materialists, which by them are maintained to be the very truth, they break up into little bits by their arguments, and affirm them to be, not essence, but generation and motion. Between the two armies, Theaetetus, there is always an endless conflict raging concerning these matters.
 
-THEAETETUS: True.
+{{< l a="Foreigner" >}}
+That is why their opponents cautiously defend themselves from above, out of an unseen world, mightily contending that true essence consists of certain intelligible and incorporeal ideas; the bodies of the materialists, which by them are maintained to be the very truth, they break up into little bits by their arguments, and affirm them to be, not essence, but generation and motion. Between the two armies, Theaetetus, there is always an endless conflict raging concerning these matters.
 
-FOREIGNER: Let us ask each party in turn, to give an account of that which they call essence.
+Let us ask each party in turn, to give an account of that which they call essence.
+{{< /l >}}
+
 
 THEAETETUS: How shall we get it out of them?
 
-FOREIGNER: With those who make being to consist in ideas, there will be less difficulty, for they are civil people enough; but there will be very great difficulty, or rather an absolute impossibility, in getting an opinion out of those who drag everything down to matter. Shall I tell you what we must do?
+{{< l a="Foreigner" >}}
+With those who make being to consist in ideas, there will be less difficulty, for they are civil people enough; but there will be very great difficulty, or rather an absolute impossibility, in getting an opinion out of those who drag everything down to matter. Shall I tell you what we must do?
 
-THEAETETUS: What?
+Let us, if we can, really improve them; but if this is not possible, let us imagine them to be better than they are, and more willing to answer in accordance with the rules of argument, and then their opinion will be more worth having; for that which better men acknowledge has more weight than that which is acknowledged by inferior men. Moreover we are no respecters of persons, but seekers after truth.
 
-FOREIGNER: Let us, if we can, really improve them; but if this is not possible, let us imagine them to be better than they are, and more willing to answer in accordance with the rules of argument, and then their opinion will be more worth having; for that which better men acknowledge has more weight than that which is acknowledged by inferior men. Moreover we are no respecters of persons, but seekers after truth.
+Then now, on the supposition that they are improved, let us ask them to state their views, and do you interpret them.
 
-THEAETETUS: Very good.
+Let them say whether they would admit that there is such a thing as a mortal animal.
 
-FOREIGNER: Then now, on the supposition that they are improved, let us ask them to state their views, and do you interpret them.
+Do they not acknowledge this to be a body having a soul?
 
-THEAETETUS: Agreed.
+Meaning to say that the soul is something which exists?
 
-FOREIGNER: Let them say whether they would admit that there is such a thing as a mortal animal.
+Do they not say that one soul is just, and another unjust, and that one soul is wise, and another foolish?
 
-THEAETETUS: Of course they would.
+The just and wise soul becomes just and wise by the possession of justice and wisdom, and the opposite under opposite circumstances?
 
-FOREIGNER: And do they not acknowledge this to be a body having a soul?
+But surely that which may be present or may be absent will be admitted by them to exist?
 
-THEAETETUS: Certainly they do.
+Allowing that justice, wisdom, the other virtues, and their opposites exist, as well as a soul in which they inhere, do they affirm any of them to be visible and tangible, or are they all invisible?
+{{< /l >}}
 
-FOREIGNER: Meaning to say that the soul is something which exists?
-
-THEAETETUS: True.
-
-FOREIGNER: And do they not say that one soul is just, and another unjust, and that one soul is wise, and another foolish?
-
-THEAETETUS: Certainly.
-
-FOREIGNER: And that the just and wise soul becomes just and wise by the possession of justice and wisdom, and the opposite under opposite circumstances?
-
-THEAETETUS: Yes, they do.
-
-FOREIGNER: But surely that which may be present or may be absent will be admitted by them to exist?
-
-THEAETETUS: Certainly.
-
-FOREIGNER: And, allowing that justice, wisdom, the other virtues, and their opposites exist, as well as a soul in which they inhere, do they affirm any of them to be visible and tangible, or are they all invisible?
 
 THEAETETUS: They would say that hardly any of them are visible.
 
-FOREIGNER: And would they say that they are corporeal?
+
+{{< l a="Foreigner" >}}
+Would they say that they are corporeal?
+{{< /l >}}
+
 
 THEAETETUS: They would distinguish: the soul would be said by them to have a body; but as to the other qualities of justice, wisdom, and the like, about which you asked, they would not venture either to deny their existence, or to maintain that they were all corporeal.
 
-FOREIGNER: Verily, Theaetetus, I perceive a great improvement in them; the real aborigines, children of the dragon's teeth, would have been deterred by no shame at all, but would have obstinately asserted that nothing is which they are not able to squeeze in their hands.
 
-THEAETETUS: That is pretty much their notion.
+{{< l a="Foreigner" >}}
+Verily, Theaetetus, I perceive a great improvement in them; the real aborigines, children of the dragon's teeth, would have been deterred by no shame at all, but would have obstinately asserted that nothing is which they are not able to squeeze in their hands.
 
-FOREIGNER: Let us push the question; for if they will admit that any, even the smallest particle of being, is incorporeal, it is enough; they must then say what that nature is which is common to both the corporeal and incorporeal, and which they have in their mind's eye when they say of both of them that they 'are.' Perhaps they may be in a difficulty; and if this is the case, there is a possibility that they may accept a notion of ours respecting the nature of being, having nothing of their own to offer.
+Let us push the question; for if they will admit that any, even the smallest particle of being, is incorporeal, it is enough; they must then say what that nature is which is common to both the corporeal and incorporeal, and which they have in their mind's eye when they say of both of them that they 'are.' Perhaps they may be in a difficulty; and if this is the case, there is a possibility that they may accept a notion of ours respecting the nature of being, having nothing of their own to offer.
+{{< /l >}}
+
 
 THEAETETUS: What is the notion? Tell me, and we shall soon see.
 
-FOREIGNER: My notion would be, that anything which possesses any sort of power to affect another, or to be affected by another, if only for a single moment, however trifling the cause and however slight the effect, has real existence; and I hold that the definition of being is simply power.
+
+{{< l a="Foreigner" >}}
+My notion would be, that anything which possesses any sort of power to affect another, or to be affected by another, if only for a single moment, however trifling the cause and however slight the effect, has real existence; and I hold that the definition of being is simply power.
+{{< /l >}}
+
 
 THEAETETUS: They accept your suggestion, having nothing better of their own to offer.
 
 FOREIGNER: Very good; perhaps we, as well as they, may one day change our minds; but, for the present, this may be regarded as the understanding which is established with them.
 
-THEAETETUS: Agreed.
+Let us now go to the friends of ideas; of their opinions, too, you shall be the interpreter.
 
-FOREIGNER: Let us now go to the friends of ideas; of their opinions, too, you shall be the interpreter.
-
-THEAETETUS: I will.
-
-FOREIGNER: To them we say—You would distinguish essence from generation?
+To them we say—You would distinguish essence from generation?
 
 THEAETETUS: 'Yes,' they reply.
 
@@ -629,43 +577,29 @@ THEAETETUS: Certainly.
 
 FOREIGNER: And two out of these three suppositions have been found to be impossible.
 
-THEAETETUS: Yes.
+Every one then, who desires to answer truly, will adopt the third and remaining hypothesis of the communion of some with some.
 
-FOREIGNER: Every one then, who desires to answer truly, will adopt the third and remaining hypothesis of the communion of some with some.
+This communion of some with some may be illustrated by the case of letters; for some letters do not fit each other, while others do.
 
-THEAETETUS: Quite true.
+The vowels, especially, are a sort of bond which pervades all the other letters, so that without a vowel one consonant cannot be joined to another.
 
-FOREIGNER: This communion of some with some may be illustrated by the case of letters; for some letters do not fit each other, while others do.
+But does every one know what letters will unite with what? Or is art required in order to do so?
 
-THEAETETUS: Of course.
 
-FOREIGNER: And the vowels, especially, are a sort of bond which pervades all the other letters, so that without a vowel one consonant cannot be joined to another.
 
-THEAETETUS: True.
+THEAETETUS: The Art of grammar is required.
 
-FOREIGNER: But does every one know what letters will unite with what? Or is art required in order to do so?
 
-THEAETETUS: Art is required.
+{{< l a="Foreigner" >}}
+Is not this also true of sounds high and low?—Is not he who has the art to know what sounds mingle, a musician, and he who is ignorant, not a musician?
 
-FOREIGNER: What art?
+We shall find this to be generally true of art or the absence of art.
 
-THEAETETUS: The art of grammar.
-
-FOREIGNER: And is not this also true of sounds high and low?—Is not he who has the art to know what sounds mingle, a musician, and he who is ignorant, not a musician?
-
-THEAETETUS: Yes.
-
-FOREIGNER: And we shall find this to be generally true of art or the absence of art.
-
-THEAETETUS: Of course.
-
-FOREIGNER: And as classes are admitted by us in like manner to be some of them capable and others incapable of intermixture, must not he who would rightly show what kinds will unite and what will not, proceed by the help of science in the path of argument? And will he not ask if the connecting links are universal, and so capable of intermixture with all things; and again, in divisions, whether there are not other universal classes, which make them possible?
+As classes are admitted by us in like manner to be some of them capable and others incapable of intermixture, must not he who would rightly show what kinds will unite and what will not, proceed by the help of science in the path of argument? And will he not ask if the connecting links are universal, and so capable of intermixture with all things; and again, in divisions, whether there are not other universal classes, which make them possible?
 
 THEAETETUS: To be sure he will require science, and, if I am not mistaken, the very greatest of all sciences.
 
 FOREIGNER: How are we to call it? By Zeus, have we not lighted unwittingly upon our free and noble science, and in looking for the Sophist have we not entertained the philosopher unawares?
-
-THEAETETUS: What do you mean?
 
 FOREIGNER: Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
 

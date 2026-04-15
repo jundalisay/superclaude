@@ -74,12 +74,26 @@ Well said, Critias.
 
 Those who are present at such discussions ought to be impartial hearers of both the speakers; remembering, however, that impartiality is not the same as equality, for both sides should be impartially heard, and yet an equal meed should not be assigned to both of them; but to the wiser a higher meed should be given, and a lower to the less wise.
 
-And I as well as Critias would beg you, Protagoras and Socrates, to grant our request, which is, that you will argue with one another and not wrangle; for friends argue with friends out of good-will, but only adversaries and enemies wrangle. And then our meeting will be delightful; for in this way you, who are the speakers, will be most likely to win esteem, and not praise only, among us who are your audience; for esteem is a sincere conviction of the hearers' souls, but praise is often an insincere expression of men uttering falsehoods contrary to their conviction. And thus we who are the hearers will be gratified and not pleased; for gratification is of the mind when receiving wisdom and knowledge, but pleasure is of the body when eating or experiencing some other bodily delight. Thus spoke Prodicus, and many of the company applauded his words.
+Critias and I would beg you, Protagoras and Socrates, to grant our request. 
+
+Please argue with one another and not wrangle. Friends argue with friends out of good-will, but only adversaries and enemies wrangle. 
+
+Then our meeting will be delightful; for in this way you, who are the speakers, will be most likely to win esteem, and not praise only, among us who are your audience; for esteem is a sincere conviction of the hearers' souls, but praise is often an insincere expression of men uttering falsehoods contrary to their conviction.
+
+Thus we who are the hearers will be gratified and not pleased; for gratification is of the mind when receiving wisdom and knowledge, but pleasure is of the body when eating or experiencing some other bodily delight. Thus spoke Prodicus, and many of the company applauded his words.
 {{< /r >}}
 
 
 {{< r a="Hippias-the-Sage" >}}
-All of you who are here present I reckon to be kinsmen and friends and fellow-citizens, by nature and not by law; for by nature like is akin to like, whereas law is the tyrant of mankind, and often compels us to do many things which are against nature. How great would be the disgrace then, if we, who know the nature of things, and are the wisest of the Hellenes, and as such are met together in this city, which is the metropolis of wisdom, and in the greatest and most glorious house of this city, should have nothing to show worthy of this height of dignity, but should only quarrel with one another like the meanest of mankind! I do pray and advise you, Protagoras, and you, Socrates, to agree upon a compromise. Let us be your peacemakers. And do not you, Socrates, aim at this precise and extreme brevity in discourse, if Protagoras objects, but loosen and let go the reins of speech, that your words may be grander and more becoming to you. Neither do you, Protagoras, go forth on the gale with every sail set out of sight of land into an ocean of words, but let there be a mean observed by both of you. Do as I say. And let me also persuade you to choose an arbiter or overseer or president; he will keep watch over your words and will prescribe their proper length.
+All of you who are here present I reckon to be kinsmen and friends and fellow-citizens, by nature and not by law; for by nature like is akin to like, whereas law is the tyrant of mankind, and often compels us to do many things which are against nature. 
+
+How great would be the disgrace then, if we, who know the nature of things, and are the wisest of the Hellenes, and as such are met together in this city, which is the metropolis of wisdom, and in the greatest and most glorious house of this city, should have nothing to show worthy of this height of dignity, but should only quarrel with one another like the meanest of mankind! I do pray and advise you, Protagoras, and you, Socrates, to agree upon a compromise. Let us be your peacemakers. 
+
+Do not you, Socrates, aim at this precise and extreme brevity in discourse, if Protagoras objects, but loosen and let go the reins of speech, that your words may be grander and more becoming to you. 
+
+Neither do you, Protagoras, go forth on the gale with every sail set out of sight of land into an ocean of words, but let there be a mean observed by both of you. Do as I say.
+
+Let me also persuade you to choose an arbiter or overseer or president; he will keep watch over your words and will prescribe their proper length.
 {{< /r >}}
 
 

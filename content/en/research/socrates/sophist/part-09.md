@@ -11,7 +11,7 @@ icon: "Socrates"
 ---
 
 
-{{< q a="Foreigner" >}}
+{{< l a="Foreigner" >}}
 We said that being was an active or passive energy, arising out of a certain power which proceeds from elements meeting with one another. Perhaps your ears, Theaetetus, may fail to catch their answer, which I recognize because I have been accustomed to hear it.
 
 They deny the truth of what we were just now saying to the aborigines about existence.
@@ -19,34 +19,33 @@ They deny the truth of what we were just now saying to the aborigines about exis
 Any power of doing or suffering in a degree however slight was held by us to be a sufficient definition of being?
 
 They deny this, and say that the power of doing or suffering is confined to becoming, and that neither power is applicable to being.
-{{< /q >}}
+{{< /l >}}
 
-{{< q a="Theaetetus" >}}
+{{< l a="Theaetetus" >}}
 is there not some truth in what they say?
-{{< /q >}}
+{{< /l >}}
 
 
-FOREIGNER: Yes; but our reply will be, that we want to ascertain from them more distinctly, whether they further admit that the soul knows, and that being or essence is known.
+{{< l a="Foreigner" >}}
+Yes; but our reply will be, that we want to ascertain from them more distinctly, whether they further admit that the soul knows, and that being or essence is known.
 
-THEAETETUS: There can be no doubt that they say so.
+Is knowing and being known doing or suffering, or both, or is the one doing and the other suffering, or has neither any share in either?
+{{< /l >}}
 
-FOREIGNER: And is knowing and being known doing or suffering, or both, or is the one doing and the other suffering, or has neither any share in either?
 
 THEAETETUS: Clearly, neither has any share in either; for if they say anything else, they will contradict themselves.
 
-FOREIGNER: I understand; but they will allow that if to know is active, then, of course, to be known is passive. And on this view being, in so far as it is known, is acted upon by knowledge, and is therefore in motion; for that which is in a state of rest cannot be acted upon, as we affirm.
 
-THEAETETUS: True.
+{{< l a="Foreigner" >}}
+I understand; but they will allow that if to know is active, then, of course, to be known is passive. And on this view being, in so far as it is known, is acted upon by knowledge, and is therefore in motion; for that which is in a state of rest cannot be acted upon, as we affirm.
 
-FOREIGNER: And, O heavens, can we ever be made to believe that motion and life and soul and mind are not present with perfect being? Can we imagine that being is devoid of life and mind, and exists in awful unmeaningness an everlasting fixture?
+O heavens, can we ever be made to believe that motion and life and soul and mind are not present with perfect being? Can we imagine that being is devoid of life and mind, and exists in awful unmeaningness an everlasting fixture?
+{{< /l >}}
+
 
 THEAETETUS: That would be a dreadful thing to admit, FOREIGNER.
 
-FOREIGNER: But shall we say that has mind and not life?
-
-THEAETETUS: How is that possible?
-
-FOREIGNER: Or shall we say that both inhere in perfect being, but that it has no soul which contains them?
+FOREIGNER: But shall we say that has mind and not life? Or shall we say that both inhere in perfect being, but that it has no soul which contains them?
 
 THEAETETUS: And in what other way can it contain them?
 
@@ -74,23 +73,20 @@ FOREIGNER: Can you see how without them mind could exist, or come into existence
 
 THEAETETUS: No.
 
-FOREIGNER: And surely contend we must in every possible way against him who would annihilate knowledge and reason and mind, and yet ventures to speak confidently about anything.
 
-THEAETETUS: Yes, with all our might.
+{{< l a="Foreigner" >}}
+Surely we must contend in every possible way against him who would annihilate knowledge and reason and mind, and yet ventures to speak confidently about anything.
 
-FOREIGNER: Then the philosopher, who has the truest reverence for these qualities, cannot possibly accept the notion of those who say that the whole is at rest, either as unity or in many forms: and he will be utterly deaf to those who assert universal motion. As children say entreatingly 'Give us both,' so he will include both the moveable and immoveable in his definition of being and all.
+Then the philosopher, who has the truest reverence for these qualities, cannot possibly accept the notion of those who say that the whole is at rest, either as unity or in many forms: and he will be utterly deaf to those who assert universal motion. As children say entreatingly 'Give us both,' so he will include both the moveable and immoveable in his definition of being and all.
 
-THEAETETUS: Most true.
+We have gained a fair notion of being.
 
-FOREIGNER: And now, do we seem to have gained a fair notion of being?
+Alas, Theaetetus, methinks that we are now only beginning to see the real difficulty of the enquiry into the nature of it.
 
-THEAETETUS: Yes truly.
+Do you not see that nothing can exceed our ignorance, and yet we fancy that we are saying something good?
+{{< /l >}}
 
-FOREIGNER: Alas, Theaetetus, methinks that we are now only beginning to see the real difficulty of the enquiry into the nature of it.
 
-THEAETETUS: What do you mean?
-
-FOREIGNER: O my friend, do you not see that nothing can exceed our ignorance, and yet we fancy that we are saying something good?
 
 THEAETETUS: I certainly thought that we were; and I do not at all understand how we never found out our desperate case.
 
@@ -100,19 +96,13 @@ THEAETETUS: What were they? Will you recall them to my mind?
 
 FOREIGNER: To be sure I will, and I will remind you of them, by putting the same questions to you which I did to them, and then we shall get on.
 
-THEAETETUS: True.
-
-FOREIGNER: Would you not say that rest and motion are in the most entire opposition to one another?
-
-THEAETETUS: Of course.
+Would you not say that rest and motion are in the most entire opposition to one another?
 
 FOREIGNER: And yet you would say that both and either of them equally are?
 
 THEAETETUS: I should.
 
 FOREIGNER: And when you admit that both or either of them are, do you mean to say that both or either of them are in motion?
-
-THEAETETUS: Certainly not.
 
 FOREIGNER: Or do you wish to imply that they are both at rest, when you say that they are?
 
@@ -122,87 +112,73 @@ FOREIGNER: Then you conceive of being as some third and distinct nature, under w
 
 THEAETETUS: Truly we seem to have an intimation that being is some third thing, when we say that rest and motion are.
 
-FOREIGNER: Then being is not the combination of rest and motion, but something different from them.
 
-THEAETETUS: So it would appear.
+{{< l a="Foreigner" >}}
+Then being is not the combination of rest and motion, but something different from them.
 
-FOREIGNER: Being, then, according to its own nature, is neither in motion nor at rest.
+Being, then, according to its own nature, is neither in motion nor at rest.
 
-THEAETETUS: That is very much the truth.
+Where, then, is a man to look for help who would have any clear or fixed notion of being in his mind?
 
-FOREIGNER: Where, then, is a man to look for help who would have any clear or fixed notion of being in his mind?
+I scarcely think that he can look anywhere; for that which is not in motion must be at rest, and again, that which is not at rest must be in motion; but being is placed outside of both these classes. This is impossible.
 
-THEAETETUS: Where, indeed?
+Here, then, is another thing which we ought to bear in mind.
 
-FOREIGNER: I scarcely think that he can look anywhere; for that which is not in motion must be at rest, and again, that which is not at rest must be in motion; but being is placed outside of both these classes. Is this possible?
-
-THEAETETUS: Utterly impossible.
-
-FOREIGNER: Here, then, is another thing which we ought to bear in mind.
-
-THEAETETUS: What?
-
-FOREIGNER: When we were asked to what we were to assign the appellation of not-being, we were in the greatest difficulty:—do you remember?
-
-THEAETETUS: To be sure.
+When we were asked to what we were to assign the appellation of not-being, we were in the greatest difficulty.
 
 FOREIGNER: And are we not now in as great a difficulty about being?
+{{< /l >}}
+
 
 THEAETETUS: I should say, FOREIGNER, that we are in one which is, if possible, even greater.
 
-FOREIGNER: Then let us acknowledge the difficulty; and as being and not-being are involved in the same perplexity, there is hope that when the one appears more or less distinctly, the other will equally appear; and if we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
 
-THEAETETUS: Very good.
+{{< l a="Foreigner" >}}
+Then let us acknowledge the difficulty; and as being and not-being are involved in the same perplexity, there is hope that when the one appears more or less distinctly, the other will equally appear; and if we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
 
-FOREIGNER: Let us enquire, then, how we come to predicate many names of the same thing.
+Let us enquire, then, how we come to predicate many names of the same thing.
 
-THEAETETUS: Give an example.
+I mean that we speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
 
-FOREIGNER: I mean that we speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
+Thus we provide a rich feast for tyros, whether young or old; for there is nothing easier than to argue that the one cannot be many, or the many one; and great is their delight in denying that a man is good; for man, they insist, is man and good is good. I dare say that you have met with persons who take an interest in such matters—they are often elderly men, whose meagre sense is thrown into amazement by these discoveries of theirs, which they believe to be the height of wisdom.
 
-THEAETETUS: That is true.
+Then, not to exclude any one who has ever speculated at all upon the nature of being, let us put our questions to them as well as to our former friends.
 
-FOREIGNER: And thus we provide a rich feast for tyros, whether young or old; for there is nothing easier than to argue that the one cannot be many, or the many one; and great is their delight in denying that a man is good; for man, they insist, is man and good is good. I dare say that you have met with persons who take an interest in such matters—they are often elderly men, whose meagre sense is thrown into amazement by these discoveries of theirs, which they believe to be the height of wisdom.
+Shall we refuse to attribute being to motion and rest, or anything to anything, and assume that they do not mingle, and are incapable of participating in one another? Or shall we gather all into one class of things communicable with one another? Or are some things communicable and others not?—Which of these alternatives, Theaetetus, will they prefer?
+{{< /l >}}
 
-THEAETETUS: Certainly, I have.
-
-FOREIGNER: Then, not to exclude any one who has ever speculated at all upon the nature of being, let us put our questions to them as well as to our former friends.
-
-THEAETETUS: What questions?
-
-FOREIGNER: Shall we refuse to attribute being to motion and rest, or anything to anything, and assume that they do not mingle, and are incapable of participating in one another? Or shall we gather all into one class of things communicable with one another? Or are some things communicable and others not?—Which of these alternatives, Theaetetus, will they prefer?
 
 THEAETETUS: I have nothing to answer on their behalf. Suppose that you take all these hypotheses in turn, and see what are the consequences which follow from each of them.
 
-FOREIGNER: Very good, and first let us assume them to say that nothing is capable of participating in anything else in any respect; in that case rest and motion cannot participate in being at all.
 
-THEAETETUS: They cannot.
+{{< l a="Foreigner" >}}
+Very good, and first let us assume them to say that nothing is capable of participating in anything else in any respect; in that case rest and motion cannot participate in being at all.
 
-FOREIGNER: But would either of them be if not participating in being?
+But would either of them be if not participating in being?
+{{< /l >}}
+
 
 THEAETETUS: No.
 
-FOREIGNER: Then by this admission everything is instantly overturned, as well the doctrine of universal motion as of universal rest, and also the doctrine of those who distribute being into immutable and everlasting kinds; for all these add on a notion of being, some affirming that things 'are' truly in motion, and others that they 'are' truly at rest.
 
-THEAETETUS: Just so.
+{{< l a="Foreigner" >}}
+Then by this admission everything is instantly overturned, as well the doctrine of universal motion as of universal rest, and also the doctrine of those who distribute being into immutable and everlasting kinds; for all these add on a notion of being, some affirming that things 'are' truly in motion, and others that they 'are' truly at rest.
 
-FOREIGNER: Again, those who would at one time compound, and at another resolve all things, whether making them into one and out of one creating infinity, or dividing them into finite elements, and forming compounds out of these; whether they suppose the processes of creation to be successive or continuous, would be talking nonsense in all this if there were no admixture.
+Those who would at one time compound, and at another resolve all things, whether making them into one and out of one creating infinity, or dividing them into finite elements, and forming compounds out of these; whether they suppose the processes of creation to be successive or continuous, would be talking nonsense in all this if there were no admixture.
 
-THEAETETUS: True.
+Most ridiculous of all will the men themselves be who want to carry out the argument and yet forbid us to call anything, because participating in some affection from another, by the name of that other.
 
-FOREIGNER: Most ridiculous of all will the men themselves be who want to carry out the argument and yet forbid us to call anything, because participating in some affection from another, by the name of that other.
+This is because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse; and therefore they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
 
-THEAETETUS: Why so?
+If we suppose that all things have the power of communion with one another—what will follow?
+{{< /l >}}
 
-FOREIGNER: Why, because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse; and therefore they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
-
-THEAETETUS: Precisely so; a very true and exact illustration.
-
-FOREIGNER: And now, if we suppose that all things have the power of communion with one another—what will follow?
 
 THEAETETUS: Even I can solve that riddle. THEAETETUS: Why, because motion itself would be at rest, and rest again in motion, if they could be attributed to one another.
 
-FOREIGNER: But this is utterly impossible. Then only the third hypothesis remains.
+
+{{< l a="Foreigner" >}}
+But this is utterly impossible. Then only the third hypothesis remains.
 
 For, surely, either all things have communion with all; or nothing with any other thing; or some things communicate with some things and others not.
 
@@ -214,48 +190,51 @@ This communion of some with some may be illustrated by the case of letters; for 
 
 The vowels, especially, are a sort of bond which pervades all the other letters, so that without a vowel one consonant cannot be joined to another.
 
+But does every one know what letters will unite with what? Or is art required in order to do so?
+{{< /l >}}
 
-FOREIGNER: But does every one know what letters will unite with what? Or is art required in order to do so?
 
 THEAETETUS: Art is required. The art of grammar.
 
 
-FOREIGNER: And is not this also true of sounds high and low?—Is not he who has the art to know what sounds mingle, a musician, and he who is ignorant, not a musician?
+{{< l a="Foreigner" >}}
+Is not this also true of sounds high and low?—Is not he who has the art to know what sounds mingle, a musician, and he who is ignorant, not a musician?
 
 We shall find this to be generally true of art or the absence of art.
 
 Classes are admitted by us in like manner to be some of them capable and others incapable of intermixture, must not he who would rightly show what kinds will unite and what will not, proceed by the help of science in the path of argument? And will he not ask if the connecting links are universal, and so capable of intermixture with all things; and again, in divisions, whether there are not other universal classes, which make them possible?
+{{< /l >}}
+
 
 THEAETETUS: To be sure he will require science, and, if I am not mistaken, the very greatest of all sciences.
 
-FOREIGNER: How are we to call it? By Zeus, have we not lighted unwittingly upon our free and noble science, and in looking for the Sophist have we not entertained the philosopher unawares?
 
-THEAETETUS: What do you mean?
+{{< l a="Foreigner" >}}
+How are we to call it? By Zeus, have we not lighted unwittingly upon our free and noble science, and in looking for the Sophist have we not entertained the philosopher unawares?
 
-FOREIGNER: Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
+Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
 
-THEAETETUS: That is what we should say.
+Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. This is the knowledge of classes which determines where they can have communion with one another and where not.
 
-FOREIGNER: Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. This is the knowledge of classes which determines where they can have communion with one another and where not.
+The art of dialectic would be attributed by you only to the philosopher pure and true?
+{{< /l >}}
 
-THEAETETUS: Quite true.
-
-FOREIGNER: And the art of dialectic would be attributed by you only to the philosopher pure and true?
 
 THEAETETUS: Who but he can be worthy?
 
-FOREIGNER: In this region we shall always discover the philosopher, if we look for him; like the Sophist, he is not easily discovered, but for a different reason.
 
-THEAETETUS: For what reason?
+{{< l a="Foreigner" >}}
+In this region we shall always discover the philosopher, if we look for him; like the Sophist, he is not easily discovered, but for a different reason.
 
-FOREIGNER: Because the Sophist runs away into the darkness of not-being, in which he has learned by habit to feel about, and cannot be discovered because of the darkness of the place. Is not that true?
+Because the Sophist runs away into the darkness of not-being, in which he has learned by habit to feel about, and cannot be discovered because of the darkness of the place. Is not that true?
 
-THEAETETUS: It seems to be so.
+The philosopher, always holding converse through reason with the idea of being, is also dark from excess of light; for the souls of the many have no eye which can endure the vision of the divine.
+{{< /l >}}
 
-FOREIGNER: And the philosopher, always holding converse through reason with the idea of being, is also dark from excess of light; for the souls of the many have no eye which can endure the vision of the divine.
 
 THEAETETUS: Yes; that seems to be quite as true as the other.
 
-FOREIGNER: Well, the philosopher may hereafter be more fully considered by us, if we are disposed; but the Sophist must clearly not be allowed to escape until we have had a good look at him.
 
-THEAETETUS: Very good.
+{{< l a="Foreigner" >}}
+Well, the philosopher may hereafter be more fully considered by us, if we are disposed; but the Sophist must clearly not be allowed to escape until we have had a good look at him.
+{{< /l >}}

@@ -1,0 +1,229 @@
+
+
+I will repeat a sentence to you in which a thing and an action are combined, by the help of a noun and a verb; and you shall tell me of whom the sentence speaks.
+
+'Theaetetus sits'—not a very long sentence.
+
+Of whom does the sentence speak, and who is the subject? that is what you have to tell.
+{{< /l >}}
+
+THEAETETUS: Of me; I am the subject.
+
+{{< l a="Foreigner" >}}
+'Theaetetus, with whom I am now speaking, is flying.'
+{{< /l >}}
+
+
+THEAETETUS: That also is a sentence which will be admitted by every one to speak of me, and to apply to me.
+
+{{< l a="Foreigner" >}}
+We agreed that every sentence must necessarily have a certain quality.
+
+What is the quality of each of these two sentences?
+{{< /l >}}
+
+
+THEAETETUS: The one, as I imagine, is false, and the other true.
+
+FOREIGNER: The true says what is true about you?
+
+The false says what is other than true?
+
+Therefore speaks of things which are not as if they were?
+
+Say that things are real of you which are not; for, as we were saying, in regard to each thing or person, there is much that is and much that is not.
+
+The second of the two sentences which related to you was first of all an example of the shortest form consistent with our definition.
+
+THEAETETUS: Yes, this was implied in recent admission.
+
+
+{{< l a="Foreigner" >}}
+In the second place, is it related to a subject?
+
+Who must be you, and can be nobody else?
+
+It would be no sentence at all if there were no subject, for, as we proved, a sentence which has no subject is impossible.
+
+When other, then, is asserted of you as the same, and not-being as being, such a combination of nouns and verbs is really and truly false discourse.
+
+Therefore thought, opinion, and imagination are now proved to exist in our minds both as true and false.
+
+You will know better if you first gain a knowledge of what they are, and in what they severally differ from one another.
+{{< /l >}}
+
+
+THEAETETUS: Give me the knowledge which you would wish me to gain.
+
+
+{{< l a="Foreigner" >}}
+Are not thought and speech the same, with this exception, that what is called thought is the unuttered conversation of the soul with herself?
+
+But the stream of thought which flows through the lips and is audible is called speech?
+
+We know that there exists in speech... Affirmation.
+
+When the affirmation or denial takes Place in silence and in the mind only, have you any other name by which to call it but opinion?
+
+When opinion is presented, not simply, but in some form of sense, would you not call it imagination?
+
+Seeing that language is true and false, and that thought is the conversation of the soul with herself, and opinion is the end of thinking, and imagination or phantasy is the union of sense and opinion, the inference is that some of them, since they are akin to language, should have an element of falsehood as well as of truth?
+
+Do you perceive, then, that false opinion and speech have been discovered sooner than we expected?—For just now we seemed to be undertaking a task which would never be accomplished.
+
+Then let us not be discouraged about the future; but now having made this discovery, let us go back to our previous classification.
+
+We divided image-making into two sorts; the one likeness-making, the other imaginative or phantastic.
+
+We said that we were uncertain in which we should place the Sophist.
+
+And our heads began to go round more and more when it was asserted that there is no such thing as an image or idol or appearance, because in no manner or time or place can there ever be such a thing as falsehood.
+
+Since there has been shown to be false speech and false opinion, there may be imitations of real existences, and out of this condition of the mind an art of deception may arise.
+
+We have already admitted, in what preceded, that the Sophist was lurking in one of the divisions of the likeness-making art?
+
+Let us, then, renew the attempt, and in dividing any class, always take the part to the right, holding fast to that which holds the Sophist, until we have stripped him of all his common properties, and reached his difference or peculiar. Then we may exhibit him in his true nature, first to ourselves and then to kindred dialectical spirits.
+
+You may remember that all art was originally divided by us into creative and acquisitive.
+
+The Sophist was flitting before us in the acquisitive class, in the subdivisions of hunting, contests, merchandize, and the like.
+
+But now that the imitative art has enclosed him, it is clear that we must begin by dividing the art of creation; for imitation is a kind of creation—of images, however, as we affirm, and not of real things.
+
+In the first place, there are two kinds of creation.
+
+One of them is human and the other divine.
+
+Every power, as you may remember our saying originally, which causes things to exist, not previously existing, was defined by us as creative.
+
+Looking, now, at the world and all the animals and plants, at things which grow upon the earth from seeds and roots, as well as at inanimate substances which are formed within the earth, fusile or non-fusile, shall we say that they come into existence—not having existed previously—by the creation of God, or shall we agree with vulgar opinion about them?
+
+The opinion that nature brings them into being from some spontaneous and unintelligent cause. Or shall we say that they are created by a divine reason and a knowledge which comes from God?
+{{< /l >}}
+
+
+THEAETETUS: I dare say that, owing to my youth, I may often waver in my view, but now when I look at you and see that you incline to refer them to God, I defer to your authority.
+
+
+{{< l a="Foreigner" >}}
+Nobly said, Theaetetus, and if I thought that you were one of those who would hereafter change your mind, I would have gently argued with you, and forced you to assent; but as I perceive that you will come of yourself and without any argument of mine, to that belief which, as you say, attracts you, I will not forestall the work of time. Let me suppose, then, that things which are said to be made by nature are the work of divine art, and that things which are made by man out of these are works of human art. And so there are two kinds of making and production, the one human and the other divine.
+
+Then, now, subdivide each of the two sections which we have already.
+
+I mean to say that you should make a vertical division of production or invention, as you have already made a lateral one.
+
+Then, now, there are in all four parts or segments—two of them have reference to us and are human, and two of them have reference to the gods and are divine.
+
+Again, in the division which was supposed to be made in the other way, one part in each subdivision is the making of the things themselves, but the two remaining parts may be called the making of likenesses; and so the productive art is again divided into two parts.
+{{< /l >}}
+
+
+THEAETETUS: Tell me the divisions once more.
+
+
+{{< l a="Foreigner" >}}
+I suppose that we, and the other animals, and the elements out of which things are made—fire, water, and the like—are known by us to be each and all the creation and work of God.
+
+There are images of them, which are not them, but which correspond to them; and these are also the creation of a wonderful skill.
+
+The appearances which spring up of themselves in sleep or by day, such as a shadow when darkness arises in a fire, or the reflection which is produced when the light in bright and smooth objects meets on their surface with an external light, and creates a perception the opposite of our ordinary sight.
+{{< /l >}}
+
+
+THEAETETUS: Yes; and the images as well as the creation are equally the work of a divine hand.
+
+FOREIGNER: And what shall we say of human art? Do we not make one house by the art of building, and another by the art of drawing, which is a sort of dream created by man for those who are awake?
+
+Other products of human creation are also twofold and go in pairs; there is the thing, with which the art of making the thing is concerned, and the image, with which imitation is concerned.
+
+THEAETETUS: Now I begin to understand, and am ready to acknowledge that there are two kinds of production, and each of them twofold; in the lateral division there is both a divine and a human production; in the vertical there are realities and a creation of a kind of similitudes.
+
+FOREIGNER: And let us not forget that of the imitative class the one part was to have been likeness-making, and the other phantastic, if it could be shown that falsehood is a reality and belongs to the class of real being.
+
+This appeared to be the case; and therefore now, without hesitation, we shall number the different kinds as two.
+
+Then, now, let us again divide the phantastic art.
+
+
+
+THEAETETUS: Where shall we make the division?
+
+
+{{< l a="Foreigner" >}}
+There is one kind which is produced by an instrument, and another in which the creator of the appearance is himself the instrument.
+{{< /l >}}
+
+
+THEAETETUS: What do you mean?
+
+FOREIGNER: When any one makes himself appear like another in his figure or his voice, imitation is the name for this part of the phantastic art.
+
+THEAETETUS: Yes.
+
+FOREIGNER: Let this, then, be named the art of mimicry, and this the province assigned to it; as for the other division, we are weary and will give that up, leaving to some one else the duty of making the class and giving it a suitable name.
+
+THEAETETUS: Let us do as you say—assign a sphere to the one and leave the other.
+
+FOREIGNER: There is a further distinction, Theaetetus, which is worthy of our consideration, and for a reason which I will tell you.
+
+THEAETETUS: Let me hear.
+
+FOREIGNER: There are some who imitate, knowing what they imitate, and some who do not know. And what line of distinction can there possibly be greater than that which divides ignorance from knowledge?
+
+THEAETETUS: There can be no greater.
+
+FOREIGNER: Was not the sort of imitation of which we spoke just now the imitation of those who know? For he who would imitate you would surely know you and your figure?
+
+THEAETETUS: Naturally.
+
+FOREIGNER: And what would you say of the figure or form of justice or of virtue in general? Are we not well aware that many, having no knowledge of either, but only a sort of opinion, do their best to show that this opinion is really entertained by them, by expressing it, as far as they can, in word and deed?
+
+THEAETETUS: Yes, that is very common.
+
+FOREIGNER: And do they always fail in their attempt to be thought just, when they are not? Or is not the very opposite true?
+
+THEAETETUS: The very opposite.
+
+
+{{< l a="Foreigner" >}}
+Such a one, then, should be described as an imitator—to be distinguished from the other, as he who is ignorant is distinguished from him who knows?
+
+Can we find a suitable name for each of them? 
+
+This is clearly not an easy task; for among the ancients there was some confusion of ideas, which prevented them from attempting to divide genera into species; wherefore there is no great abundance of names. Yet, for the sake of distinctness, I will make bold to call the imitation which coexists with opinion, the imitation of appearance—that which coexists with science, a scientific or learned imitation.
+
+The former is our present concern, for the Sophist was classed with imitators indeed, but not among those who have knowledge.
+
+Let us, then, examine our imitator of appearance, and see whether he is sound, like a piece of iron, or whether there is still some crack in him.
+
+There is a very considerable crack; for if you look, you find that one of the two classes of imitators is a simple creature, who thinks that he knows that which he only fancies; the other sort has knocked about among arguments, until he suspects and fears that he is ignorant of that which to the many he pretends to know.
+{{< /l >}}
+
+
+THEAETETUS: There are certainly the two kinds which you describe.
+
+FOREIGNER: Shall we regard one as the simple imitator—the other as the dissembling or ironical imitator?
+
+Shall we further speak of this latter class as having one or two divisions?
+
+Upon consideration, then, there appear to me to be two; there is the dissembler, who harangues a multitude in public in a long speech, and the dissembler, who in private and in short speeches compels the person who is conversing with him to contradict himself.
+
+Who is the maker of the longer speeches? Is he the statesman or the popular orator?
+
+THEAETETUS: The latter.
+
+
+{{< l a="Foreigner" >}}
+What shall we call the other? Is he the philosopher or the Sophist?
+{{< /l >}}
+
+
+THEAETETUS: The philosopher he cannot be, for upon our view he is ignorant; but since he is an imitator of the wise he will have a name which is formed by an adaptation of the word sophos. What shall we name him? I am pretty sure that I cannot be mistaken in terming him the true and very Sophist.
+
+
+{{< l a="Foreigner" >}}
+Shall we bind up his name as we did before, making a chain from one end of his genealogy to the other?
+
+He, then, who traces the pedigree of his art as follows—who, belonging to the conscious or dissembling section of the art of causing self-contradiction, is an imitator of appearance, and is separated from the class of phantastic which is a branch of image-making into that further division of creation, the juggling of words, a creation human, and not divine—any one who affirms the real Sophist to be of this blood and lineage will say the very truth.
+{{< /l >}}

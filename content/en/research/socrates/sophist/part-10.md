@@ -12,92 +12,56 @@ icon: "Socrates"
 
 
 
+{{< l a="Foreigner" >}}
+Let us acknowledge the difficulty; and as being and not-being are involved in the same perplexity, there is hope that when the one appears more or less distinctly, the other will equally appear; and if we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
 
-FOREIGNER: Then let us acknowledge the difficulty; and as being and not-being are involved in the same perplexity, there is hope that when the one appears more or less distinctly, the other will equally appear; and if we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
+Let us enquire, then, how we come to predicate many names of the same thing.
 
-THEAETETUS: Very good.
+I mean that we speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
 
-FOREIGNER: Let us enquire, then, how we come to predicate many names of the same thing.
+Thus we provide a rich feast for tyros, whether young or old; for there is nothing easier than to argue that the one cannot be many, or the many one; and great is their delight in denying that a man is good; for man, they insist, is man and good is good. I dare say that you have met with persons who take an interest in such matters—they are often elderly men, whose meagre sense is thrown into amazement by these discoveries of theirs, which they believe to be the height of wisdom.
 
-THEAETETUS: Give an example.
+Then, not to exclude any one who has ever speculated at all upon the nature of being, let us put our questions to them as well as to our former friends.
 
-FOREIGNER: I mean that we speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
+Shall we refuse to attribute being to motion and rest, or anything to anything, and assume that they do not mingle, and are incapable of participating in one another? Or shall we gather all into one class of things communicable with one another? Or are some things communicable and others not?—Which of these alternatives, Theaetetus, will they prefer?
+{{< /l >}}
 
-THEAETETUS: That is true.
-
-FOREIGNER: And thus we provide a rich feast for tyros, whether young or old; for there is nothing easier than to argue that the one cannot be many, or the many one; and great is their delight in denying that a man is good; for man, they insist, is man and good is good. I dare say that you have met with persons who take an interest in such matters—they are often elderly men, whose meagre sense is thrown into amazement by these discoveries of theirs, which they believe to be the height of wisdom.
-
-THEAETETUS: Certainly, I have.
-
-FOREIGNER: Then, not to exclude any one who has ever speculated at all upon the nature of being, let us put our questions to them as well as to our former friends.
-
-THEAETETUS: What questions?
-
-FOREIGNER: Shall we refuse to attribute being to motion and rest, or anything to anything, and assume that they do not mingle, and are incapable of participating in one another? Or shall we gather all into one class of things communicable with one another? Or are some things communicable and others not?—Which of these alternatives, Theaetetus, will they prefer?
 
 THEAETETUS: I have nothing to answer on their behalf. Suppose that you take all these hypotheses in turn, and see what are the consequences which follow from each of them.
 
 FOREIGNER: Very good, and first let us assume them to say that nothing is capable of participating in anything else in any respect; in that case rest and motion cannot participate in being at all.
 
-THEAETETUS: They cannot.
-
-FOREIGNER: But would either of them be if not participating in being?
+But would either of them be if not participating in being?
 
 THEAETETUS: No.
 
 FOREIGNER: Then by this admission everything is instantly overturned, as well the doctrine of universal motion as of universal rest, and also the doctrine of those who distribute being into immutable and everlasting kinds; for all these add on a notion of being, some affirming that things 'are' truly in motion, and others that they 'are' truly at rest.
 
-THEAETETUS: Just so.
+Those who would at one time compound, and at another resolve all things, whether making them into one and out of one creating infinity, or dividing them into finite elements, and forming compounds out of these; whether they suppose the processes of creation to be successive or continuous, would be talking nonsense in all this if there were no admixture.
 
-FOREIGNER: Again, those who would at one time compound, and at another resolve all things, whether making them into one and out of one creating infinity, or dividing them into finite elements, and forming compounds out of these; whether they suppose the processes of creation to be successive or continuous, would be talking nonsense in all this if there were no admixture.
+Most ridiculous of all will the men themselves be who want to carry out the argument and yet forbid us to call anything, because participating in some affection from another, by the name of that other.
 
-THEAETETUS: True.
+Why, because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse; and therefore they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
 
-FOREIGNER: Most ridiculous of all will the men themselves be who want to carry out the argument and yet forbid us to call anything, because participating in some affection from another, by the name of that other.
+If we suppose that all things have the power of communion with one another—what will follow?
 
-THEAETETUS: Why so?
-
-FOREIGNER: Why, because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse; and therefore they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
-
-THEAETETUS: Precisely so; a very true and exact illustration.
-
-FOREIGNER: And now, if we suppose that all things have the power of communion with one another—what will follow?
 
 THEAETETUS: Even I can solve that riddle.
 
-FOREIGNER: How?
+Because motion itself would be at rest, and rest again in motion, if they could be attributed to one another.
 
-THEAETETUS: Why, because motion itself would be at rest, and rest again in motion, if they could be attributed to one another.
 
-FOREIGNER: But this is utterly impossible.
+FOREIGNER: But this is utterly impossible. Then only the third hypothesis remains. Surely, either all things have communion with all; or nothing with any other thing; or some things communicate with some things and others not.
 
-THEAETETUS: Of course.
+Two out of these three suppositions have been found to be impossible.
 
-FOREIGNER: Then only the third hypothesis remains.
+Every one then, who desires to answer truly, will adopt the third and remaining hypothesis of the communion of some with some.
 
-THEAETETUS: True.
+This communion of some with some may be illustrated by the case of letters; for some letters do not fit each other, while others do.
 
-FOREIGNER: For, surely, either all things have communion with all; or nothing with any other thing; or some things communicate with some things and others not.
+The vowels, especially, are a sort of bond which pervades all the other letters, so that without a vowel one consonant cannot be joined to another.
 
-THEAETETUS: Certainly.
-
-FOREIGNER: And two out of these three suppositions have been found to be impossible.
-
-THEAETETUS: Yes.
-
-FOREIGNER: Every one then, who desires to answer truly, will adopt the third and remaining hypothesis of the communion of some with some.
-
-THEAETETUS: Quite true.
-
-FOREIGNER: This communion of some with some may be illustrated by the case of letters; for some letters do not fit each other, while others do.
-
-THEAETETUS: Of course.
-
-FOREIGNER: And the vowels, especially, are a sort of bond which pervades all the other letters, so that without a vowel one consonant cannot be joined to another.
-
-THEAETETUS: True.
-
-FOREIGNER: But does every one know what letters will unite with what? Or is art required in order to do so?
+But does every one know what letters will unite with what? Or is art required in order to do so?
 
 THEAETETUS: Art is required.
 

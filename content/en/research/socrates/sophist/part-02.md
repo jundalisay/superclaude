@@ -31,9 +31,14 @@ These arts are productive.  -->
 - Learning and Cognitive arts
 - Trade arts
 - Fighting
-- Hhunting
+- Hunting
 
-And since none of these produces anything, but is only engaged in conquering by word or deed, or in preventing others from conquering, things which exist and have been already produced—in each and all of these branches there appears to be an art which may be called acquisitive.
+
+None of these produces anything, but is only engaged in conquering by word or deed, or in preventing others from conquering.
+
+Thus, things which exist and have been already produced—in each and all of these branches there appears to be an art which may be called acquisitive.*
+
+{{< n n="In the Wealth of Nations, this is called unproductive labor" >}}
 
 
 FOREIGNER: A fisherman is part of the acquisitive class.
@@ -62,73 +67,58 @@ Animal hunting has 2 divisions:
   - Fowling is the general term under which the hunting of all birds is included.
 
 
-FOREIGNER: The hunting of animals who live in the water has the general name of fishing.
+{{< l a="Foreigner" >}}
+The hunting of animals who live in the water has the general name of fishing.
 
-FOREIGNER: And this sort of hunting may be further divided also into two principal kinds?
+This sort of hunting may be further divided also into 2 principal kinds?
 
-FOREIGNER: There is one kind which takes them in nets, another which takes them by a blow.
+There is one kind which takes them in nets, another which takes them by a blow.
 
-THEAETETUS: What do you mean, and how do you distinguish them?
+The first kind is enclosure. 
+- This is all that surrounds and encloses anything to prevent egress
 
-FOREIGNER: As to the first kind—all that surrounds and encloses anything to prevent egress, may be rightly called an enclosure.
+For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
 
-THEAETETUS: Very true.
+Therefore this first kind of capture may be called by us capture with enclosures, or something of that sort?
 
-FOREIGNER: For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
+The other kind, which is practised by a blow with hooks and three-pronged spears, when summed up as striking.
 
-THEAETETUS: True.
+Firing is one mode of striking done at night by the light of a fire. Hunters also call it spearing by firelight.
 
-FOREIGNER: And therefore this first kind of capture may be called by us capture with enclosures, or something of that sort?
+The fishing by day is called by the general name of barbing, because the spears, too, are barbed at the point.
 
-THEAETETUS: Yes.
+Of this barb-fishing, that which strikes the fish who is below from above is called spearing, because this is the way in which the three-pronged spears are mostly used.
 
-FOREIGNER: The other kind, which is practised by a blow with hooks and three-pronged spears, when summed up under one name, may be called striking, unless you, Theaetetus, can find some better name?
+Then now there is only one kind remaining.
 
-THEAETETUS: Never mind the name—what you suggest will do very well.
+When a hook is used, and the fish is not struck in any chance part of his body, as he is with the spear, but only about the head and mouth, and is then drawn out from below upwards with reeds and rods.
 
-FOREIGNER: There is one mode of striking, which is done at night, and by the light of a fire, and is by the hunters themselves called firing, or spearing by firelight.
+What is the right name of that mode of fishing, Theaetetus?
+{{< /l >}}
 
-THEAETETUS: True.
 
-FOREIGNER: And the fishing by day is called by the general name of barbing, because the spears, too, are barbed at the point.
-
-THEAETETUS: Yes, that is the term.
-
-FOREIGNER: Of this barb-fishing, that which strikes the fish who is below from above is called spearing, because this is the way in which the three-pronged spears are mostly used.
-
-THEAETETUS: Yes, it is often called so.
-
-FOREIGNER: Then now there is only one kind remaining.
-
-THEAETETUS: What is that?
-
-FOREIGNER: When a hook is used, and the fish is not struck in any chance part of his body, as he is with the spear, but only about the head and mouth, and is then drawn out from below upwards with reeds and rods:—What is the right name of that mode of fishing, Theaetetus?
 
 THEAETETUS: I suspect that we have now discovered the object of our search.
 
-FOREIGNER: Then now you and I have come to an understanding not only about the name of the angler's art, but about the definition of the thing itself. 
+
+{{< l a="Foreigner" >}}
+Then now you and I have come to an understanding not only about the name of the angler's art, but about the definition of the thing itself. 
 
 One half of all art was acquisitive—half of the acquisitive art was conquest or taking by force, half of this was hunting, and half of hunting was hunting animals, half of this was hunting water animals—of this again, the under half was fishing, half of fishing was striking; a part of striking was fishing with a barb, and one half of this again, being the kind which strikes with a hook and draws the fish from below upwards, is the art which we have been seeking, and which from the nature of the operation is denoted angling or drawing up (aspalieutike, anaspasthai).
 
-THEAETETUS: The result has been quite satisfactorily brought out.
+Following this pattern, let us endeavour to find out what a Sophist is.
 
-FOREIGNER: And now, following this pattern, let us endeavour to find out what a Sophist is.
+The first question about the angler was, whether he was a skilled artist or unskilled?
 
-THEAETETUS: By all means.
+Shall we call our new friend unskilled, or a thorough master of his craft?
+{{< /l >}}
 
-FOREIGNER: The first question about the angler was, whether he was a skilled artist or unskilled?
-
-THEAETETUS: True.
-
-FOREIGNER: And shall we call our new friend unskilled, or a thorough master of his craft?
 
 THEAETETUS: Certainly not unskilled, for his name, as, indeed, you imply, must surely express his nature.
 
 FOREIGNER: Then he must be supposed to have some art.
 
-THEAETETUS: What art?
-
-FOREIGNER: By heaven, they are cousins! it never occurred to us.
+By heaven, they are cousins! it never occurred to us.
 
 THEAETETUS: Who are cousins?
 
@@ -136,35 +126,35 @@ FOREIGNER: The angler and the Sophist.
 
 THEAETETUS: In what way are they related?
 
-FOREIGNER: They both appear to me to be hunters.
+FOREIGNER: They both are hunters.
 
-THEAETETUS: How the Sophist? Of the other we have spoken.
+We divided hunting, into hunting after swimming animals and land animals.
 
-FOREIGNER: You remember our division of hunting, into hunting after swimming animals and land animals?
+We subdivided the swimming and left the land animals, saying that there were many kinds of them.
 
-THEAETETUS: Yes.
+Thus, the Sophist and the angler, starting from the art of acquiring, take the same road.
 
-FOREIGNER: And you remember that we subdivided the swimming and left the land animals, saying that there were many kinds of them?
+Their paths diverge when they reach the art of animal hunting.
 
-THEAETETUS: Certainly.
+The one going to the sea-shore, and to the rivers and to the lakes, and angling for the animals which are in them. 
 
-FOREIGNER: Thus far, then, the Sophist and the angler, starting from the art of acquiring, take the same road?
+While the other goes to land and water of another sort—rivers of wealth and broad meadow-lands of generous youth; and he also is intending to take the animals which are in them.
 
-THEAETETUS: So it would appear.
+Of hunting on land there are two principal divisions.
 
-FOREIGNER: Their paths diverge when they reach the art of animal hunting; the one going to the sea-shore, and to the rivers and to the lakes, and angling for the animals which are in them. While the other goes to land and water of another sort—rivers of wealth and broad meadow-lands of generous youth; and he also is intending to take the animals which are in them.
+One is the hunting of tame, and the other of wild animals.
+{{< /l >}}
 
-THEAETETUS: What do you mean?
-
-FOREIGNER: Of hunting on land there are two principal divisions.
-
-THEAETETUS: What are they?
-
-FOREIGNER: One is the hunting of tame, and the other of wild animals.
 
 THEAETETUS: But are tame animals ever hunted?
 
-FOREIGNER: Yes, if you include man under tame animals. But if you like you may say that there are no tame animals, or that, if there are, man is not among them; or you may say that man is a tame animal but is not hunted—you shall decide which of these alternatives you prefer.
+
+{{< l a="Foreigner" >}}
+Yes, if you include man under tame animals. 
+
+But if you like you may say that there are no tame animals, or that, if there are, man is not among them; or you may say that man is a tame animal but is not hunted—you shall decide which of these alternatives you prefer.
+{{< /l >}}
+
 
 THEAETETUS: I should say, FOREIGNER, that man is a tame animal, and I admit that he is hunted.
 
