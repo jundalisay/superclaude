@@ -4,6 +4,8 @@ title: "Lying Dream"
 weight: 6
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
+image: /graphics/history/illiad.jpg
 description: "Texts from ancient civilizations"
 ---
 

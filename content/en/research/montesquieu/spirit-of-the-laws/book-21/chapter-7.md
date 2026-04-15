@@ -55,9 +55,17 @@ But here religion finished the corruption, which their opulence began. They erec
 
 In Homer’s time, the opulence of Greece centered in Rhodes, Corinth, and Orchomenus. 
 
-He says: “Jupiter loved the Rhodians and made them a very wealthy nation.” 
+
+He says: 
+
+
+{{< q a="Homer" >}}
+Jupiter loved the Rhodians and made them a very wealthy nation.
+{{< /q >}}
+
 He calls Corinth as rich. 
-manner, when he speaks of cities that have plenty of gold, he mentions Orchomenus, to which he joins Thebes in Egypt. 
+
+<!-- manner, when he speaks of cities that have plenty of gold, he mentions Orchomenus, to which he joins Thebes in Egypt.  -->
 
 Rhodes and Corinth preserved their power, but Orchomenus lost hers. 
 

@@ -4,6 +4,7 @@ title: "Achilles Fights"
 weight: 49
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 date: 2026-04-15
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---

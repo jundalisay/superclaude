@@ -4,6 +4,7 @@ title: "Hector is Wounded"
 weight: 39
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 

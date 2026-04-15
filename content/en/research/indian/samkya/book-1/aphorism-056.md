@@ -1,10 +1,11 @@
 ---
 headings: Aphorisms 56
-title: "Book 1"
-weight: 8
+title: "Bondage"
+weight: 11
 date: 2025-05-23
 description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
 author: Kapila
+icon: Kapila
 c: "indigo"
 ---
 

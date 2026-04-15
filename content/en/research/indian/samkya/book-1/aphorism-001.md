@@ -1,5 +1,5 @@
 ---
-title: "Book 1"
+title: "Pain"
 weight: 4
 date: 2025-05-23
 description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
@@ -7,17 +7,17 @@ c: "indigo"
 ---
 
 
-Aph. 1. The complete cessation of pain [which is] of three kinds is the complete end of man.
+<sup>1</sup> The complete cessation of pain [which is] of three kinds is the complete end of man.
 
-Aph. 2. The effectuation of this [complete cessation of pain] is not [to be expected] by means of the visible [such as wealth, &c.]; for we see [on the loss of wealth, &c.,] the restoration [of the misery and evil,] after [its temporary] cessation.
+<sup>2</sup> The effectuation of this [complete cessation of pain] is not [to be expected] by means of the visible [such as wealth, &c.]; for we see [on the loss of wealth, &c.,] the restoration [of the misery and evil,] after [its temporary] cessation.
 
-Aph. 3.* [Let us consider the doubt] that the soul's desire [the cessation of pain, may result] from exertions for the obviation [of pain], as is the case with the obviation of daily hunger
+<sup>3</sup> [Let us consider the doubt] that the soul's desire [the cessation of pain, may result] from exertions for the obviation [of pain], as is the case with the obviation of daily hunger
 
-Aph. 4.* This [method of palliatives (§ 3)] is to be rejected by those who are versed in evidence; because it is not everywhere possible [to employ it at all], and because, even if this were possible, there would be an impossibility as regards [ensuring] the perfect fitness [of the agents employed].
+<sup>4</sup> This [method of palliatives (§ 3)] is to be rejected by those who are versed in evidence; because it is not everywhere possible [to employ it at all], and because, even if this were possible, there would be an impossibility as regards [ensuring] the perfect fitness [of the agents employed].
 
-Aph. 5.* Also [an inferior method ought not to be adopted] because of the preeminence of Liberation [as proved] by the text [of Scripture declaratory] of its preeminence above all else.
+<sup>5</sup> Also [an inferior method ought not to be adopted] because of the preeminence of Liberation [as proved] by the text [of Scripture declaratory] of its preeminence above all else.
 
-Aph. 6.* And there is no difference between the two.
+<sup>6</sup> There is no difference between the two.
 
 Aph. 7.* There would be no rule in the enjoining of means for the liberation of one bound essentially.
 

@@ -2,7 +2,7 @@
 title: "Methods of Awakening"
 heading: "Chapter 5"
 date: 2025-10-16
-weight: 55
+weight: 56
 description: ""
 ---
 

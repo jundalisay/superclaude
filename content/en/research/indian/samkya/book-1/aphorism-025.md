@@ -1,5 +1,5 @@
 ---
-title: "Book 1"
+title: "Reality"
 weight: 8
 date: 2025-05-23
 description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
@@ -8,16 +8,15 @@ c: "indigo"
 ---
 
 
-Aph. 25.* [Possibly the Vedántí may remonstrate] 'We are not asserters of any Six Categories, like the Vaiśeshikas and others.'
+<sup>25</sup> [Possibly the Vedántí may remonstrate] 'We are not asserters of any Six Categories, like the Vaiśeshikas and others.'
 
-Aph. 26.* Even although this be not compulsory [that the categories be six, or sixteen], there is no acceptance of the inconsistent; else we come to the level of children, and madmen, and the like.
+<sup>26</sup> Even although this be not compulsory [that the categories be six, or sixteen], there is no acceptance of the inconsistent; else we come to the level of children, and madmen, and the like.
 
-Aph. 27.* [The bondage] thereof moreover, is not caused by any influence of objects from all eternity.
+<sup>27</sup> [The bondage] thereof moreover, is not caused by any influence of objects from all eternity.
 
+<sup>28</sup> Also [in my opinion, as well as in yours, apparently], between the external and the internal there is not the relation of influenced and influencer; because there is a local separation; as there is between him that stays at Srughna and him that stays at Páṭaliputra.
 
-Aph. 28.* Also [in my opinion, as well as in yours, apparently], between the external and the internal there is not the relation of influenced and influencer; because there is a local separation; as there is between him that stays at Srughna and him that stays at Páṭaliputra.
-
-Aph. 29.* [It is impossible that the soul's bondage should arise] from an influence received in the same place [where the object is; because, in that case], there would be no distinction between the two, [the bond and the free].
+<sup>29</sup> [It is impossible that the soul's bondage should arise] from an influence received in the same place [where the object is; because, in that case], there would be no distinction between the two, [the bond and the free].
 
 
 Aph. 30.* If [the heretic, wishing to save his theory suggests that a difference between the two cases (see § 29) does exist] in virtue of the unseen, [i.e., of merit and demerit, then he will find his answer in the next aphorism].

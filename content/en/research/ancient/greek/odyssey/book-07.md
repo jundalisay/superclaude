@@ -4,6 +4,7 @@ title: "RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS."
 weight: 16
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 date: 2026-04-15
 description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---

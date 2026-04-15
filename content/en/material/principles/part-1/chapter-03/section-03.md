@@ -16,7 +16,7 @@ aliases:
 
 
 
-## Separtion Leading to Identity
+## Separation Leading to Identity
 
 An identity is a result of the crudification and separation caused by the Negative Fore. 
 

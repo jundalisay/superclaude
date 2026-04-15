@@ -1,45 +1,25 @@
-Sacred-Texts Hindu Index Previous Next
+---
+heading: "Aphorisms 1-"
+title: "The Lord"
+weight: 4
+date: 2025-05-23
+# description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
+c: "indigo"
+author: Kapila
+icon: Kapila
+---
 
- 
 
-p. 312
+   <!-- a. The tenets of his Institute are completed. Next is begun a Fifth Book, in order to set aside the primâ facie notions of others in regard to his Institute. Among those, in the first place he disposes of the objection that the Benediction implied by the expression 'Well,' in the first Aphorism [of Book I.], is purposeless: -->
 
-BOOK V.
-   a. The tenets of his Institute are completed. Next is begun a Fifth Book, in order to set aside the primâ facie notions of others in regard to his Institute. Among those, in the first place he disposes of the objection that the Benediction implied by the expression 'Well,' in the first Aphorism [of Book I.], is purposeless:
 
- 
+<sup>1</sup> The [use of a] Benediction [is justified] by the practice of the good, by our seeing its fruit, and by Scripture.
 
-   Reasons for a Benedictory Opening.
-   Aph. 1.* The [use of a] Benediction [is justified] by the practice of the good, by our seeing its fruit, and by Scripture.
+<sup>2</sup> Not from its [the world's,] being governed by a Lord is there the effectuation of fruit: for it is by works [i.e., by merit and demerit,] that this is accomplished.
 
-   a. The [use of a] Benediction, which we made, is proved to be proper to be made, by these proofs; such is the p. 313 meaning. The word iti is intended to preclude the expectation of any other reasons.
+Aph. 3.* [If a Lord were governor, then] from intending his own benefit, his government [would be selfish], as is the case [with ordinary governors] in the world.
 
-   b. He repels those who entertain the primâ facie view, that what was asserted in the expression, 'because it is not proved that there is a Lord' [see Book I., Aph. 92], is not made out; because [forsooth,] his existence is proved by his being the giver of the fruits of works:3
-
- 
-
-   Needlessness of a Lord.
-   Aph. 2.* Not from its [the world's,] being governed by a Lord is there the effectuation of fruit: for it is by works [i.e., by merit and demerit,] that this is accomplished.
-
-   a. That is to say: it is not proper [to suppose] the effectuation of the change [of the elements] into the shape of the [appropriate] fruit of works, on the ground that the cause is 'governed by a Lord;' because it is possible for p. 314 the fruit to be effected by the works [i.e., the merit and demerit,] alone, which are indispensable; [and, if we do make the additional and cumbrous supposition of a Lord, he cannot reward a man otherwise than according to his works].2
-
-   b. He declares, further, in [several] aphorisms, that it is not the case that the Lord is the giver of fruit:
-
- 
-
-   The supposed Lord would be selfish.
-   Aph. 3.* [If a Lord were governor, then] from intending his own benefit, his government [would be selfish], as is the case [with ordinary governors] in the world.
-
-   a. If the Lord were the governor, then his government would be only for his own benefit; as is the case [with ordinary rulers] in the world: such is the meaning.
-
-p. 315
-
-   b. In reply to the doubt, 'grant that the Lord, also, be benefited: what harm?' he says:
-
- 
-
-   And, therefore, not the Lord spoken of.
-   Aph. 4.* [He must, then, be] just like a worldly lord, [and] otherwise [than you desire that we should conceive of him].
+Aph. 4.* [He must, then, be] just like a worldly lord, [and] otherwise [than you desire that we should conceive of him].
 
    a. If we agree that the Lord, also, is benefited, he, also, must be something mundane, 'just like a worldly lord;' because, since his desires are [on that supposition,] not [previously] satisfied, he must be liable to grief, &c.: such is the meaning.
 

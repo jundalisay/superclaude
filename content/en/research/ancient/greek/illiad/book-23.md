@@ -4,13 +4,19 @@ title: "The funeral of Patroclus"
 weight: 59
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 date: 2026-04-15
+image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
 
 
-Thus did they make their moan throughout the city, while the Achaeans when they reached the Hellespont went back every man to his own ship. But Achilles would not let the Myrmidons go, and spoke to his brave comrades saying, “Myrmidons, famed horsemen and my own trusted friends, not yet, forsooth, let us unyoke, but with horse and chariot draw near to the body and mourn Patroclus, in due honour to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here.”
+Thus did they make their moan throughout the city, while the Achaeans when they reached the Hellespont went back every man to his own ship. 
+
+But Achilles would not let the Myrmidons go, and spoke to his brave comrades:
+
+“Myrmidons, famed horsemen and my own trusted friends, not yet, forsooth, let us unyoke, but with horse and chariot draw near to the body and mourn Patroclus, in due honour to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here.”
 
 On this they all joined in a cry of wailing and Achilles led them in their lament. Thrice did they drive their chariots all sorrowing round the body, and Thetis stirred within them a still deeper yearning. The sands of the sea-shore and the men’s armour were wet with their weeping, so great a minister of fear was he whom they had lost. Chief in all their mourning was the son of Peleus: he laid his blood-stained hand on the breast of his friend. “Fare well,” he cried, “Patroclus, even in the house of Hades. I will now do all that I erewhile promised you; I will drag Hector hither and let dogs devour him raw; twelve noble sons of Trojans will I also slay before your pyre to avenge you.”
 

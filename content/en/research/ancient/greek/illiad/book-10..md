@@ -4,6 +4,7 @@ title: "Ulysses and Diomed"
 weight: 28
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 

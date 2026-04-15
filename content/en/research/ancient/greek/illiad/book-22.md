@@ -4,6 +4,7 @@ title: "The death of Hector"
 weight: 59
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 

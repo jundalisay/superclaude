@@ -1,8 +1,15 @@
+---
+title: "The Soul"
+weight: 28
+date: 2025-05-23
+# description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
+icon: Kapila
+author: Kapila
+c: "indigo"
+---
 
 
-
-
-Aph. 139.* Soul is something else than the body, &c.
+<sup>139</sup> Soul is something else than the body, &c.
 
 
 Aph. 140.* Because that which is combined [and is, therefore, discerptible,] is for the sake of some other, [not discerptible].

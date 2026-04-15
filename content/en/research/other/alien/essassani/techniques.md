@@ -68,3 +68,20 @@ Do not prevent your Higher Mind from giving you something profoundly-better than
 
 <!-- Remember to Give the visualization to your Higher Mind, and then Let go of the need that it manifest in the form you were visualizing. -->
 
+
+
+## 1-3-5 No Risk Formula
+
+
+1. Vision
+
+2. Timing
+
+3. Knowledge
+
+4. Resources
+
+Acknowledge the help from others that come synchronistically. Meet and talk to people. 
+
+5. Absolute Commitment Faith 
+

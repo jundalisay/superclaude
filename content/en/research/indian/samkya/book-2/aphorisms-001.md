@@ -1,24 +1,26 @@
 ---
-title: "The Sánkhya Aphorisms Of Kapila"
-weight: 47
+title: "The Parts of the Mind"
+weight: 7
 date: 2025-05-23
-description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
+description: ""
 c: "indigo"
+icon: Kapila
 author: Kapila
 ---
 
 
-Aph. 1.* Of Nature [the agency, or the being a maker, is] for the emancipation of what is [really, though not apparently,] emancipated, or else for [the removal of] itself.
 
-Aph. 2.* Because this [Emancipation] is [only] of him that is void of passion.
+<sup>1</sup>  Of Nature [the agency, or the being a maker, is] for the emancipation of what is [really, though not apparently,] emancipated, or else for [the removal of] itself.
 
-Aph. 3.* It is not effected by the mere hearing; because of the forcibleness of the impressions4 from eternity.
+<sup>2</sup> Because this [Emancipation] is [only] of him that is void of passion.
 
-Aph. 4.* Or as people have, severally, many dependants.
+<sup>3</sup> It is not effected by the mere hearing; because of the forcibleness of the impressions4 from eternity.
 
-Aph. 5.* And, since it [the character of creator,] belongs, really, to Nature, it follows that it is fictitiously attributed to Soul.
+<sup>4</sup> Or as people have, severally, many dependants.
 
-Aph. 6.* Since it is proved from the products.
+<sup>5</sup> Since it [the character of creator,] belongs, really, to Nature, it follows that it is fictitiously attributed to Soul.
+
+<sup>6</sup> Since it is proved from the products.
 
 Aph. 7.* The rule is with reference to one knowing; just as escape from a thorn.
 

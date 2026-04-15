@@ -4,6 +4,7 @@ title: "CALYPSO—ULYSSES REACHES SCHERIA ON A RAFT"
 weight: 12
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 date: 2026-04-15
 description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---

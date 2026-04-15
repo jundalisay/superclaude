@@ -4,6 +4,8 @@ title: "The quarrel between Agamemnon and Achilles"
 weight: 4
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
+image: /graphics/history/illiad.jpg
 description: "Texts from ancient civilizations"
 ---
 

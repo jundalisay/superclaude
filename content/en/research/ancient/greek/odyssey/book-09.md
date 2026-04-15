@@ -1,17 +1,18 @@
 ---
 heading: Book 9
-title: "ULYSSES DECLARES HIMSELF AND BEGINS HIS STORY—-THE CICONS, LOTOPHAGI, AND CYCLOPES."
+title: "Ulysses Declares Himself And Begins His Story—-The Cicons, Lotophagi, And Cyclopes."
 weight: 14
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 date: 2026-04-15
 description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
 
+Ulysses answered:
 
-
-And Ulysses answered, “King Alcinous, it is a good thing to hear a bard with such a divine voice as this man has. There is nothing better or more delightful than when a whole people make merry together, with the guests sitting orderly to listen, while the table is loaded with bread and meats, and the cup-bearer draws wine and fills his cup for every man. This is indeed as fair a sight as a man can see. Now, however, since you are inclined to ask the story of my sorrows, and rekindle my own sad memories in respect of them, I do not know how to begin, nor yet how to continue and conclude my tale, for the hand of heaven has been laid heavily upon me.
+“King Alcinous, it is a good thing to hear a bard with such a divine voice as this man has. There is nothing better or more delightful than when a whole people make merry together, with the guests sitting orderly to listen, while the table is loaded with bread and meats, and the cup-bearer draws wine and fills his cup for every man. This is indeed as fair a sight as a man can see. Now, however, since you are inclined to ask the story of my sorrows, and rekindle my own sad memories in respect of them, I do not know how to begin, nor yet how to continue and conclude my tale, for the hand of heaven has been laid heavily upon me.
 
 “Firstly, then, I will tell you my name that you too may know it, and one day, if I outlive this time of sorrow, may become my guests though I live so far away from all of you. I am Ulysses son of Laertes, renowned among mankind for all manner of subtlety, so that my fame ascends to heaven. I live in Ithaca, where there is a high mountain called Neritum, covered with forests; and not far from it there is a group of islands very near to one another—Dulichium, Same, and the wooded island of Zacynthus. It lies squat on the horizon, all highest up in the sea towards the sunset, while the others lie away from it towards dawn.[75] It is a rugged island, but it breeds brave men, and my eyes know none that they better love to look upon. The goddess Calypso kept me with her in her cave, and wanted me to marry her, as did also the cunning Aeaean goddess Circe; but they could neither of them persuade me, for there is nothing dearer to a man than his own country and his parents, and however splendid a home he may have in a foreign country, if it be far from father or mother, he does not care about it. Now, however, I will tell you of the many hazardous adventures which by Jove’s will I met with on my return from Troy.
 

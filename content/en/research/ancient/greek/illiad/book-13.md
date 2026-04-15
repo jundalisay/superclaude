@@ -4,6 +4,7 @@ title: "Neptune helps the Achaeans"
 weight: 35
 c: "darkslategray"
 icon: Homer
+image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 

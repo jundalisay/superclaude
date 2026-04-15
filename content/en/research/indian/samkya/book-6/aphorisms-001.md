@@ -1,50 +1,37 @@
-Sacred-Texts Hindu Index Previous
+---
+heading: "Aphorisms 1-"
+title: "The Soul"
+weight: 4
+date: 2025-05-23
+# description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
+c: "indigo"
+author: Kapila
+icon: Kapila
+---
+
 
  
 
-p. 419
+<!-- BOOK VI.
+   HAVING explained, in four Books, all the matter of the Institute, and having, in the Fifth Book, thoroughly established it, by refuting the opinions of opponents, now, in a Sixth Book, he recapitulates the same matter, which is the essence of the Institute, while condensing it. For, in addition [to what has preceded], an enumeration of the matters before mentioned, namely, a summary, having been composed, learners acquire an undoubting, accurate, and more solid knowledge; so that, therefore, reiteration is not here to be imputed as a fault; because the method is that of fixing a stake, [viz., by repeated blows], and because arguments, &c., not previously stated, are adduced. -->
 
-BOOK VI.
-   HAVING explained, in four Books, all the matter of the Institute, and having, in the Fifth Book, thoroughly established it, by refuting the opinions of opponents, now, in a Sixth Book, he recapitulates the same matter, which is the essence of the Institute, while condensing it. For, in addition [to what has preceded], an enumeration of the matters before mentioned, namely, a summary, having been composed, learners acquire an undoubting, accurate, and more solid knowledge; so that, therefore, reiteration is not here to be imputed as a fault; because the method is that of fixing a stake, [viz., by repeated blows], and because arguments, &c., not previously stated, are adduced.
 
-p. 420
+<sup>1</sup> The Soul is; for there is no proof that it is not.
 
- 
+<!--    a. Soul really is existent, generically; since we are aware of this, that 'I think;' because there is no evidence to defeat this. Therefore, all that is to be done is to discriminate it [from things in general]. Such is the meaning.
 
-   The existence of Soul.
-   Aph. 1.* Soul is; for there is no proof that it is not.
-
-   a. Soul really is existent, generically; since we are aware of this, that 'I think;' because there is no evidence to defeat this. Therefore, all that is to be done is to discriminate it [from things in general]. Such is the meaning.
-
-   b. The discrimination of it he establishes by means of two proofs:
+   b. The discrimination of it he establishes by means of two proofs: -->
 
  
-
-   Soul is not Body, &c.
-   Aph. 2.* This [Soul,] is different from the Body, &c.; because of heterogeneousness, [or complete difference between the two].
+<sup>2</sup> This [Soul,] is different from the Body, &c.; because of heterogeneousness, [or complete difference between the two].
 
  
+<sup>3</sup> Also because it [Soul,] is expressed by means of the sixth [or possessive,] case.
 
-   The usage of language is evidence for this.
-   Aph. 3.* Also because it [Soul,] is expressed by means of the sixth [or possessive,] case.
 
-   a. That is to say: Soul is different from Body, &c., also because the learned express it by the possessive case, in p. 421 such examples as, 'This [is] my body,' 'This [is] my understanding;' for the possessive case would be unaccountable, if there were absolute non-difference [between the Body, or the like, and the Soul, to which it is thus attributed as a possession].
+Aph. 4.* It is not as in the case of the statue; because there is [there] a contradiction to the evidence which acquaints us with the thing.
 
-   b. But then, suppose that this, also, is like the expressions, 'The Soul's Thought' [Soul and Thought being identical], 'Ráhu's head' [the trunkless Ráhu being all head], 'The statue's body,' &c. To this he replies:
-
- 
-
-   An objection disposed of.
-   Aph. 4.* It is not as in the case of the statue; because there is [there] a contradiction to the evidence which acquaints us with the thing.
-
-   a. This expression by means of the possessive case, p. 422 [viz., 'My body' (§ 3)] is not like 'The statue's body,' &c. In such a case as 'The statue's body,' there is a mere fiction; 'for it is contradicted by the evidence which acquaints is with the thing;' [sense being the evidence that there is here no body other than the statue]. But, in such an expression as 'My body,' there is no contradiction by evidence; for the contradiction, by Scripture and other evidences, is only in supposing the Body to be the Soul. Such is the meaning.
-
-   b. Having settled that Soul is different from Body, &c., he settles its emancipation:
-
- 
-
-   Soul's aim how accomplished.
-   Aph. 5.* Through the entire cessation of pain there is done what was to be done.
+Aph. 5.* Through the entire cessation of pain there is done what was to be done.
 
    a. But then, since there is an equality of gain and loss, inasmuch as, through the cessation of Pain there is the p. 423 ceasing of Pleasure, also, that cannot be Soul's aim. To this he replies:
 

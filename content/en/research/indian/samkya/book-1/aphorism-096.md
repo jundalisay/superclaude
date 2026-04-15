@@ -1,8 +1,17 @@
+---
+title: "Nature"
+weight: 15
+date: 2025-05-23
+description: "Indian philosophy as Hinduism and Buddhism is the metaphysical foundation of Superphysics"
+author: Kapila
+icon: Kapila
+c: "indigo"
+---
 
 
-Aph. 96.* The governorship [thereof, i.e., of Soul over Nature] is from [its] proximity thereto, [not from its resolving to act thereon]; as is the case with the gem, [the lodestone, in regard to iron].
+<sup>96</sup> The governorship [thereof, i.e., of Soul over Nature] is from [its] proximity thereto, [not from its resolving to act thereon]; as is the case with the gem, [the lodestone, in regard to iron].
 
-Aph. 97.* In the case of individual products, also, [the apparent agency] of animal souls [is solely through proximity].
+<sup>97</sup> In the case of individual products, also, [the apparent agency] of animal souls [is solely through proximity].
 
 Aph. 98.* The declaration of the texts or sense [of the Veda, by Brahmá, for example], since he knows the truth, [is authorative evidence].
 

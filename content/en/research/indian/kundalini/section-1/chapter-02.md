@@ -2,7 +2,7 @@
 title: "What is Kundalini?"
 heading: "Chapter 2"
 date: 2025-10-16
-weight: 15
+weight: 11
 description: ""
 ---
 
