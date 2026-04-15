@@ -40,15 +40,15 @@ Take heart, my child, Trito-born; I am not really in earnest, and I wish to be k
 {{< /l >}}
 
 
-With this he yoked his fleet horses, with hoofs of bronze and manes of glittering gold.
+With this he yoked his fleet horses, with hoofs of bronze and manes of glittering gold [light-based propulsion].
 
 He girded himself also with gold about the body, seized his gold whip and took his seat in his chariot. 
 
-Thereon he lashed his horses and they flew forward nothing loth midway twixt earth and starry heaven.
+Thereon he lashed his horses and they flew forward between earth and the starry heaven.
 
-After a while he reached many-fountained Ida, mother of wild beasts, and Gargarus, where are his grove and fragrant altar. 
+After a while he reached mount Ida and its peak Gargarus, where are his grove and fragrant altar. 
 
-There, Jove men stayed his horses, took them from the chariot, and hid them in a thick cloud.
+There, Jove men stayed his horses [propulsion], took them from the chariot, and hid them in a thick cloud.
 - Then he took his seat all glorious upon the topmost crests, looking down on the city of Troy and the ships of the Achaeans.
 
 The Achaeans took their morning meal hastily at the ships, and then put on their armour.
@@ -182,7 +182,7 @@ What now, lord of the earthquake? Can you find no compassion in your heart for t
 
 King Neptune was greatly troubled and answered:
 
-{{< r a="Hector" >}}
+{{< r a="Neptune" >}}
 Juno, rash of tongue, what are you talking about? We other gods must not set ourselves against Jove, for he is far stronger than we are.
 {{< /r >}}
 
