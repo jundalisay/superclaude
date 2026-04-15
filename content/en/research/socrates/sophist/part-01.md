@@ -1,5 +1,5 @@
 ---
-title: "The Foreigner"
+title: "The Nature of the Sophist"
 heading: "Part 1"
 weight: 2
 writer:
@@ -62,6 +62,7 @@ I prefer to talk with another when he responds pleasantly, and is light in hand;
 {{< /l >}}
 
 
+<<<<<<< HEAD
 {{< r a="Younger Socrates" >}}
 I recommend a young person—Theaetetus
 {{< /r >}}
@@ -72,6 +73,14 @@ I feel ashamed, Socrates, being a new-comer into your society, instead of talkin
 For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
 /l >}}
  -->
+=======
+{{< l a="Foreigner" >}}
+I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
+
+For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
+{{< /l >}}
+
+>>>>>>> 1137be5f35c0295c7ba3b684f1ecd8ce7db41b6d
 
 
 THEAETETUS: But are you sure, FOREIGNER, that this will be acceptable to the rest of the company as Socrates imagines?

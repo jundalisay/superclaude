@@ -80,7 +80,6 @@ FOREIGNER: Yes, my friend. The art of disputation is a power of disputing about 
 But oh! my dear youth, do you suppose this possible? for perhaps your young eyes may see things which to our duller sight do not appear.
 
 Can anybody understand all things?
-{{< /l >}}
 
 
 SOCRATES: Any one who is ignorant cannot dispute in a rational manner against him who knows.

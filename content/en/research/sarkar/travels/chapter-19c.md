@@ -99,7 +99,7 @@ You are only a student, and couldn't afford these sweets. I'll give you the mone
 
 {{< r a="Svarupanandaji" >}}
 No,  Baba, it wasn't my money... I stole it from You.
-
+{{< /r >}}
 
 Baba looked at me sternly and said:
 

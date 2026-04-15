@@ -11,10 +11,28 @@ icon: "Socrates"
 ---
 
 
+{{< l a="Foreigner" >}}
+<!-- Then let us acknowledge the difficulty; and as  -->
+
+Being and not-being are involved in the same perplexity. And so there is hope that when the one appears more or less distinctly, the other will equally appear. If we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
+
+Let us enquire, then, how we come to predicate many names of the same thing.
+
+We speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
+
+Thus we provide a rich feast for tyros, whether young or old; for there is nothing easier than to argue that the one cannot be many, or the many one; and great is their delight in denying that a man is good; for man, they insist, is man and good is good. 
+
+You have met with persons who take an interest in such matters—they are often elderly men, whose meagre sense is thrown into amazement by these discoveries of theirs, which they believe to be the height of wisdom.
+
+Then, not to exclude any one who has ever speculated at all upon the nature of being, let us put our questions to them as well as to our former friends.
+
+Shall we refuse to attribute being to motion and rest, or anything to anything, and assume that they do not mingle, and are incapable of participating in one another? Or shall we gather all into one class of things communicable with one another? Or are some things communicable and others not?—Which of these alternatives, Theaetetus, will they prefer?
+{{< /l >}}
 
 {{< l a="Foreigner" >}}
 Let us acknowledge the difficulty; and as being and not-being are involved in the same perplexity, there is hope that when the one appears more or less distinctly, the other will equally appear; and if we are able to see neither, there may still be a chance of steering our way in between them, without any great discredit.
 
+<<<<<<< HEAD
 Let us enquire, then, how we come to predicate many names of the same thing.
 
 I mean that we speak of man, for example, under many names—that we attribute to him colours and forms and magnitudes and virtues and vices, in all of which instances and in ten thousand others we not only speak of him as a man, but also as good, and having numberless other attributes, and in the same way anything else which we originally supposed to be one is described by us as many, and under many names.
@@ -30,6 +48,23 @@ Shall we refuse to attribute being to motion and rest, or anything to anything, 
 THEAETETUS: I have nothing to answer on their behalf. Suppose that you take all these hypotheses in turn, and see what are the consequences which follow from each of them.
 
 FOREIGNER: Very good, and first let us assume them to say that nothing is capable of participating in anything else in any respect; in that case rest and motion cannot participate in being at all.
+
+
+
+
+
+{{< r a="Theaetetus" >}}
+I have nothing to answer on their behalf. Suppose that you take all these hypotheses in turn, and see what are the consequences which follow from each of them.
+{{< /r >}}
+
+
+{{< l a="Foreigner" >}}
+Very good, and first let us assume them to say that nothing is capable of participating in anything else in any respect; in that case rest and motion cannot participate in being at all.
+{{< /l >}}
+
+
+
+
 
 But would either of them be if not participating in being?
 
@@ -81,19 +116,21 @@ FOREIGNER: And as classes are admitted by us in like manner to be some of them c
 
 THEAETETUS: To be sure he will require science, and, if I am not mistaken, the very greatest of all sciences.
 
-FOREIGNER: How are we to call it? By Zeus, have we not lighted unwittingly upon our free and noble science, and in looking for the Sophist have we not entertained the philosopher unawares?
+{{< l a="Foreigner" >}}
+How are we to call it? By Zeus, have we not lighted unwittingly upon our free and noble science, and in looking for the Sophist have we not entertained the philosopher unawares?
 
-THEAETETUS: What do you mean?
+Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
+{{< /l >}}
 
-FOREIGNER: Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
 
 THEAETETUS: That is what we should say.
 
-FOREIGNER: Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. This is the knowledge of classes which determines where they can have communion with one another and where not.
+{{< l a="Foreigner" >}}
+Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. This is the knowledge of classes which determines where they can have communion with one another and where not.
 
-THEAETETUS: Quite true.
+And the art of dialectic would be attributed by you only to the philosopher pure and true?
+{{< /l >}}
 
-FOREIGNER: And the art of dialectic would be attributed by you only to the philosopher pure and true?
 
 THEAETETUS: Who but he can be worthy?
 
@@ -110,5 +147,3 @@ FOREIGNER: And the philosopher, always holding converse through reason with the 
 THEAETETUS: Yes; that seems to be quite as true as the other.
 
 FOREIGNER: Well, the philosopher may hereafter be more fully considered by us, if we are disposed; but the Sophist must clearly not be allowed to escape until we have had a good look at him.
-
-THEAETETUS: Very good.

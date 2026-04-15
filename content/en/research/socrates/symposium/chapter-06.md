@@ -51,7 +51,7 @@ Alcibiades  turned round and starting up as he caught sight of Socrates.
 
 {{< r a="Alcibiades" >}}
 By Heracles, what is this? here is Socrates always lying in wait for me, and always, as his way is, coming out at all sorts of unsuspected places: and now, what have you to say for yourself, and why are you lying here, where I perceive that you have contrived to find a place, not by a joker or lover of jokes, like Aristophanes, but by the fairest of the company?
-{{< r a="Alcibiades" >}}
+{{< /r >}}
 
 {{< l a="Socrates" >}}
 Please protect me, Agathon; for the passion of this man has grown quite a serious matter to me. 

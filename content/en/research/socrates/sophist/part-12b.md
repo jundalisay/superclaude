@@ -1,5 +1,18 @@
+---
+title: "The Subject"
+heading: "Part 12b"
+weight: 32
+writer:
+  name: Plato
+  url: https://en.wikipedia.org/wiki/Plato
+c: "steelblue"
+description: ""
+icon: "Socrates"
+---
 
 
+
+{{< l a="Foreigner" >}}
 I will repeat a sentence to you in which a thing and an action are combined, by the help of a noun and a verb; and you shall tell me of whom the sentence speaks.
 
 'Theaetetus sits'—not a very long sentence.

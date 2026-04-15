@@ -596,6 +596,8 @@ Is not this also true of sounds high and low?—Is not he who has the art to kno
 We shall find this to be generally true of art or the absence of art.
 
 As classes are admitted by us in like manner to be some of them capable and others incapable of intermixture, must not he who would rightly show what kinds will unite and what will not, proceed by the help of science in the path of argument? And will he not ask if the connecting links are universal, and so capable of intermixture with all things; and again, in divisions, whether there are not other universal classes, which make them possible?
+{{< /l >}}
+
 
 THEAETETUS: To be sure he will require science, and, if I am not mistaken, the very greatest of all sciences.
 

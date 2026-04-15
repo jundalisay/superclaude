@@ -11,6 +11,7 @@ icon: "Socrates"
 ---
 
 
+
 FOREIGNER: There are 2 kinds of arts:
 
 1. Productive Arts
@@ -67,6 +68,7 @@ Animal hunting has 2 divisions:
   - Fowling is the general term under which the hunting of all birds is included.
 
 
+
 {{< l a="Foreigner" >}}
 The hunting of animals who live in the water has the general name of fishing.
 
@@ -76,6 +78,8 @@ There is one kind which takes them in nets, another which takes them by a blow.
 
 The first kind is enclosure. 
 - This is all that surrounds and encloses anything to prevent egress
+
+
 
 For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
 
@@ -90,6 +94,18 @@ The fishing by day is called by the general name of barbing, because the spears,
 Of this barb-fishing, that which strikes the fish who is below from above is called spearing, because this is the way in which the three-pronged spears are mostly used.
 
 Then now there is only one kind remaining.
+
+
+
+
+As to the first kind—all that surrounds and encloses anything to prevent egress, may be rightly called an enclosure. For which reason twig baskets, casting-nets, nooses, creels, and the like may all be termed 'enclosures'?
+
+Therefore this first kind of capture may be called by us capture with enclosures, or something of that sort.
+
+The other kind, which is practised by a blow with hooks and three-pronged spears, when summed up under one name, may be called striking, unless you, Theaetetus, can find some better name?
+
+
+
 
 When a hook is used, and the fish is not struck in any chance part of his body, as he is with the spear, but only about the head and mouth, and is then drawn out from below upwards with reeds and rods.
 
@@ -143,7 +159,7 @@ While the other goes to land and water of another sort—rivers of wealth and br
 Of hunting on land there are two principal divisions.
 
 One is the hunting of tame, and the other of wild animals.
-{{< /l >}}
+
 
 
 THEAETETUS: But are tame animals ever hunted?

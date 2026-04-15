@@ -26,13 +26,14 @@ The moon was shining brightly overhead. It was the red path sprinkled with brick
 {{< /r >}}
 
 
-NARENDRA: "I didn't see it."
+{{< l a="Narendra" >}}
+I didn't see it.
+{{< /l >}}
 
 
 {{< r a="M" >}}
 Further, the Master used to say, 'Gopal is in the state of a paramahamsa.' But I also distinctly remember his forbidding Gopal to be intimate with woman devotees. Many a time he warned him about it.
 {{< /r >}}
-
 
 
 {{< l a="Narendra" >}}
@@ -51,15 +52,15 @@ Friday, April 8, 1887
 
 About 8am, 2 devotees, one a householder and the other a monk, were conversing in a room in the Barangore monastery, when M. came in. 
 
-The devotees were of the same age 24-25 years old. M. intended to spend 3 days at the monastery. He went to the shrine and saluted the Deity. After
-visiting Narendra, Rakhal, and the other brothers, he at last came into the room where the two devotees were engaged in conversation. The householder devotee wanted to renounce the world, The monk was trying to persuade him not to do so.
+The devotees were of the same age 24-25 years old. M. intended to spend 3 days at the monastery. He went to the shrine and saluted the Deity. 
+
+After visiting Narendra, Rakhal, and the other brothers, he at last came into the room where the two devotees were engaged in conversation. The householder devotee wanted to renounce the world, The monk was trying to persuade him not to do so.
 
 
 {{< l a="Monk" >}}
 Why don't you finish the few duties you have in the world? Very soon they will be left behind,"A man was told that he would go to hell. He asked a friend, 'What is hell like?' 
 
-Thereupon the friend began to draw a picture of hell on the ground with a piece of chalk. No sooner was the picture drawn than the man rolled over it and said, 'Now I have gone
-through hell!'"
+Thereupon the friend began to draw a picture of hell on the ground with a piece of chalk. No sooner was the picture drawn than the man rolled over it and said, 'Now I have gone through hell!'"
 {{< /l >}}
 
 
@@ -88,18 +89,21 @@ the big hall. M. also was there.
 
 Rakhal warned one of the brothers to be careful about the food to he offered to the Master in the shrine.
 
+{{< r a="Rakhal" >}}
+(to Śaśi and the others): One day I ate part of his [meaning the Master's] refreshments before he took them. At this he said: 'I cannot look at you. How could you do such a thing?' I burst into tears.
+{{< /r >}}
 
-Rakhal (to Śaśi and the others): "One day I ate part of his [meaning the Master's] refreshments before he took them. At this he said: 'I cannot look at you. How could you
-do such a thing?' I burst into tears."
 
 THE ELDER GOPAL: "One day at Cossipore I breathed hard on his food. At this he said, 'Take that food away.' "
-
 
 
 M. and Narendra were pacing the verandah and recalling old times.
 
 
-NARENDRA: "I did not believe in anything. At first I did not accept most of what the Master said. One day he asked me, 'Then why do you come here?' I replied, 'I come here to see you, not to listen to you.' He was very much pleased."
+{{< l a="Narendra" >}}
+I did not believe in anything. At first I did not accept most of what the Master said. One day he asked me, 'Then why do you come here?' I replied, 'I come here to see you, not to listen to you.' He was very much pleased.
+{{< /l >}}
+
 
 
 Saturday, April 9, 1887
@@ -107,13 +111,15 @@ Saturday, April 9, 1887
 
 ## The Master and Narendra
 
-The members of the Math were resting a little after their meal. Narendra and M. sat
-under a tree in the garden to the west of the monastery. It was a solitary place and no
-one else was present. Narendra was recounting to M. his various experiences with Sri
-Ramakrishna, Narendra was about twenty-four years old, and M. thirty-two.
+The members of the Math were resting a little after their meal. Narendra and M. sat under a tree in the garden to the west of the monastery. It was a solitary place and no one else was present.
 
-M: "You must remember vividly your first visit to him."
+Narendra was recounting to M. his various experiences with Sri Ramakrishna, Narendra was about 24 years old, and M. 32.
 
 
-NARENDRA: "Yes. It was at the temple garden at Dakshineswar, in his own room. That
-day I sang two songs."
+{{< r a="M" >}}
+You must remember vividly your first visit to him.
+{{< /r >}}
+
+{{< l a="Narendra" >}}
+Yes. It was at the temple garden at Dakshineswar, in his own room. That day I sang two songs.
+{{< /l >}}
