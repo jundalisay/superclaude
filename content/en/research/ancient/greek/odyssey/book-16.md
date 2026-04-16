@@ -35,7 +35,7 @@ I am very much distressed by what you have just told me. How can I take this str
 My mother cannot make up her mind whether to stay where she is and look after the house out of respect for public opinion and the memory of her husband, or whether the time is now come for her to take the best man of those who are wooing her, and the one who will make her the most advantageous offer; still, as the stranger has come to your station I will find him a cloak and shirt of good wear, with a sword and sandals, and will send him wherever he wants to go. 
 
 Or if you like you can keep him here at the station, and I will send him clothes and food that he may be no burden on you and on your men; but I will not have him go near the suitors, for they are very insolent, and are sure to ill treat him in a way that would greatly grieve me; no matter how valiant a man may be he can do nothing against numbers, for they will be too strong for him.
-{{< r a="Telemachus" >}}
+{{< /r >}}
 
 
 {{< l a="Ulysses" >}}
