@@ -1,6 +1,17 @@
-BOOK XIX
+---
+heading: Book 19
+title: "Telemachus And Ulysses Remove The Armour"
+weight: 350
+c: "darkslategray"
+icon: Homer
+image: /graphics/history/illiad.jpg
+date: 2026-04-15
+description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
+---
 
-TELEMACHUS AND ULYSSES REMOVE THE ARMOUR—ULYSSES INTERVIEWS PENELOPE—EURYCLEA WASHES HIS FEET AND RECOGNISES THE SCAR ON HIS LEG—PENELOPE TELLS HER DREAM TO ULYSSES.
+
+
+## ULYSSES INTERVIEWS PENELOPE—EURYCLEA WASHES HIS FEET AND RECOGNISES THE SCAR ON HIS LEG—PENELOPE TELLS HER DREAM TO ULYSSES
 
 Ulysses was left in the cloister, pondering on the means whereby with Minerva’s help he might be able to kill the suitors. Presently he said to Telemachus, “Telemachus, we must get the armour together and take it down inside. Make some excuse when the suitors ask you why you have removed it. Say that you have taken it to be out of the way of the smoke, inasmuch as it is no longer what it was when Ulysses went away, but has become soiled and begrimed with soot. Add to this more particularly that you are afraid Jove may set them on to quarrel over their wine, and that they may do each other some harm which may disgrace both banquet and wooing, for the sight of arms sometimes tempts people to use them.”
 

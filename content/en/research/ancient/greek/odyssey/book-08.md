@@ -1,7 +1,7 @@
 ---
 heading: Book 8
 title: "BANQUET IN THE HOUSE OF ALCINOUS—THE GAMES."
-weight: 14
+weight: 19
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg

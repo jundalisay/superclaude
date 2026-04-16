@@ -1,6 +1,17 @@
-BOOK XX
+---
+heading: Book 20
+title: "Ulysses Cannot Sleep"
+weight: 360
+c: "darkslategray"
+icon: Homer
+image: /graphics/history/illiad.jpg
+date: 2026-04-15
+description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
+---
 
-ULYSSES CANNOT SLEEP—PENELOPE’S PRAYER TO DIANA—THE TWO SIGNS FROM HEAVEN—EUMAEUS AND PHILOETIUS ARRIVE—THE SUITORS DINE—CTESIPPUS THROWS AN OX’S FOOT AT ULYSSES—THEOCLYMENUS FORETELLS DISASTER AND LEAVES THE HOUSE.
+
+
+## PENELOPE’S PRAYER TO DIANA—THE TWO SIGNS FROM HEAVEN—EUMAEUS AND PHILOETIUS ARRIVE—THE SUITORS DINE—CTESIPPUS THROWS AN OX’S FOOT AT ULYSSES—THEOCLYMENUS FORETELLS DISASTER AND LEAVES THE HOUSE.
 
 Ulysses slept in the cloister upon an undressed bullock’s hide, on the top of which he threw several skins of the sheep the suitors had eaten, and Eurynome[156] threw a cloak over him after he had laid himself down. There, then, Ulysses lay wakefully brooding upon the way in which he should kill the suitors; and by and by, the women who had been in the habit of misconducting themselves with them, left the house giggling and laughing with one another. This made Ulysses very angry, and he doubted whether to get up and kill every single one of them then and there, or to let them sleep one more and last time with the suitors. His heart growled within him, and as a bitch with puppies growls and shows her teeth when she sees a stranger, so did his heart growl with anger at the evil deeds that were being done: but he beat his breast and said, “Heart, be still, you had worse than this to bear on the day when the terrible Cyclops ate your brave companions; yet you bore it in silence till your cunning got you safe out of the cave, though you made sure of being killed.”
 

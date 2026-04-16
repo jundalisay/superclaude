@@ -1,6 +1,6 @@
 ---
 heading: Book 2
-title: "ASSEMBLY OF THE PEOPLE OF ITHACA"
+title: "Assembly Of The People Of Ithaca"
 weight: 6
 c: "darkslategray"
 icon: Homer

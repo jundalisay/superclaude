@@ -1,6 +1,15 @@
-BOOK X
+---
+heading: Book 10
+title: "AEOLUS, THE LAESTRYGONES, CIRCE"
+weight: 24
+c: "darkslategray"
+icon: Homer
+image: /graphics/history/illiad.jpg
+date: 2026-04-15
+description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
+---
 
-AEOLUS, THE LAESTRYGONES, CIRCE.
+
 
 “Thence we went on to the Aeolian island where lives Aeolus son of Hippotas, dear to the immortal gods. It is an island that floats (as it were) upon the sea,[83] iron bound with a wall that girds it. Now, Aeolus has six daughters and six lusty sons, so he made the sons marry the daughters, and they all live with their dear father and mother, feasting and enjoying every conceivable kind of luxury. All day long the atmosphere of the house is loaded with the savour of roasting meats till it groans again, yard and all; but by night they sleep on their well made bedsteads, each with his own wife between the blankets. These were the people among whom we had now come.
 

@@ -1,6 +1,6 @@
 ---
 heading: Book 3
-title: "TELEMACHUS VISITS NESTOR AT PYLOS"
+title: "Telemachus Visits Nestor At Pylos"
 weight: 8
 c: "darkslategray"
 icon: Homer

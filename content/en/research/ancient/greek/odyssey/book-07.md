@@ -1,6 +1,6 @@
 ---
 heading: Book 7
-title: "RECEPTION OF ULYSSES AT THE PALACE OF KING ALCINOUS."
+title: "Reception Of Ulysses At The Palace Of King Alcinous."
 weight: 16
 c: "darkslategray"
 icon: Homer
@@ -15,9 +15,15 @@ Thus, then, did Ulysses wait and pray; but the girl drove on to the town. When s
 
 Presently Ulysses got up to go towards the town; and Minerva shed a thick mist all round him to hide him in case any of the proud Phaeacians who met him should be rude to him, or ask him who he was. Then, as he was just entering the town, she came towards him in the likeness of a little girl carrying a pitcher. She stood right in front of him, and Ulysses said:
 
-“My dear, will you be so kind as to show me the house of king Alcinous? I am an unfortunate foreigner in distress, and do not know one in your town and country.”
 
-Then Minerva said, “Yes, father stranger, I will show you the house you want, for Alcinous lives quite close to my own father. I will go before you and show the way, but say not a word as you go, and do not look at any man, nor ask him questions; for the people here cannot abide strangers, and do not like men who come from some other place. They are a sea-faring folk, and sail the seas by the grace of Neptune in ships that glide along like thought, or as a bird in the air.”
+{{< l a="Ulysses" >}}
+“My dear, will you be so kind as to show me the house of king Alcinous? I am an unfortunate foreigner in distress, and do not know one in your town and country.”
+{{< /l >}}
+
+{{< r a="Minerva" >}}
+Yes, father stranger, I will show you the house you want, for Alcinous lives quite close to my own father. I will go before you and show the way, but say not a word as you go, and do not look at any man, nor ask him questions; for the people here cannot abide strangers, and do not like men who come from some other place. They are a sea-faring folk, and sail the seas by the grace of Neptune in ships that glide along like thought, or as a bird in the air.”
+{{< /r >}}
+
 
 On this she led the way, and Ulysses followed in her steps; but not one of the Phaeacians could see him as he passed through the city in the midst of them; for the great goddess Minerva in her good will towards him had hidden him in a thick cloud of darkness. He admired their harbours, ships, places of assembly, and the lofty walls of the city, which, with the palisade on top of them, were very striking, and when they reached the king’s house Minerva said:
 

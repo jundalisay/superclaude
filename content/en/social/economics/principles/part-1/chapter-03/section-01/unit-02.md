@@ -11,9 +11,9 @@ description: "Economics uses money both as a store of value and tool of trade. S
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/part-1/chapter-03b  
 ---
-
-
 
 
 Gradually, as humans became more civilized, they chose precious coins as their tool. The preciousness is the qualitative way. 
@@ -96,3 +96,4 @@ Society can spend for the cost of getting that qualitative information about its
 Supereconomics uses both qualitative and quantitative information to get a more accurate valuation of goods, services, and living things in a supereconomy. 
 
 Information overload can be addressed by artificial intelligence. -->
+

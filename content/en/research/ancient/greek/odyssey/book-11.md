@@ -1,6 +1,16 @@
-BOOK XI
+---
+heading: Book 11
+title: "The Visit To The Dead"
+weight: 27
+c: "darkslategray"
+icon: Homer
+image: /graphics/history/illiad.jpg
+date: 2026-04-15
+description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
+---
 
-THE VISIT TO THE DEAD.[88]
+
+
 
 “Then, when we had got down to the sea shore we drew our ship into the water and got her mast and sails into her; we also put the sheep on board and took our places, weeping and in great distress of mind. Circe, that great and cunning goddess, sent us a fair wind that blew dead aft and staid steadily with us keeping our sails all the time well filled; so we did whatever wanted doing to the ship’s gear and let her go as the wind and helmsman headed her. All day long her sails were full as she held her course over the sea, but when the sun went down and darkness was over all the earth, we got into the deep waters of the river Oceanus, where lie the land and city of the Cimmerians who live enshrouded in mist and darkness which the rays of the sun never pierce neither at his rising nor as he goes down again out of the heavens, but the poor wretches live in one long melancholy night. When we got there we beached the ship, took the sheep out of her, and went along by the waters of Oceanus till we came to the place of which Circe had told us.
 
@@ -106,6 +116,12 @@ And Ulysses answered, “King Alcinous, if you were to bid me to stay here for a
 
 “And I saw Sisyphus at his endless task raising his prodigious stone with both his hands. With hands and feet he tried to roll it up to the top of the hill, but always, just before he could roll it over on to the other side, its weight would be too much for him, and the pitiless stone[98] would come thundering down again on to the plain. Then he would begin trying to push it up hill again, and the sweat ran off him and the steam rose after him.
 
-“After him I saw mighty Hercules, but it was his phantom only, for he is feasting ever with the immortal gods, and has lovely Hebe to wife, who is daughter of Jove and Juno. The ghosts were screaming round him like scared birds flying all whithers. He looked black as night with his bare bow in his hands and his arrow on the string, glaring around as though ever on the point of taking aim. About his breast there was a wondrous golden belt adorned in the most marvellous fashion with bears, wild boars, and lions with gleaming eyes; there was also war, battle, and death. The man who made that belt, do what he might, would never be able to make another like it. Hercules knew me at once when he saw me, and spoke piteously, saying, ‘My poor Ulysses, noble son of Laertes, are you too leading the same sorry kind of life that I did when I was above ground? I was son of Jove, but I went through an infinity of suffering, for I became bondsman to one who was far beneath me—a low fellow who set me all manner of labours. He once sent me here to fetch the hell-hound—for he did not think he could find anything harder for me than this, but I got the hound out of Hades and brought him to him, for Mercury and Minerva helped me.’
+“After him I saw mighty Hercules, but it was his phantom only, for he is feasting ever with the immortal gods, and has lovely Hebe to wife, who is daughter of Jove and Juno.
+
+The ghosts were screaming round him like scared birds flying all whithers. He looked black as night with his bare bow in his hands and his arrow on the string, glaring around as though ever on the point of taking aim. About his breast there was a wondrous golden belt adorned in the most marvellous fashion with bears, wild boars, and lions with gleaming eyes; there was also war, battle, and death. The man who made that belt, do what he might, would never be able to make another like it. 
+
+Hercules knew me at once when he saw me, and spoke piteously, saying, ‘My poor Ulysses, noble son of Laertes, are you too leading the same sorry kind of life that I did when I was above ground? 
+
+I was son of Jove, but I went through an infinity of suffering, for I became bondsman to one who was far beneath me—a low fellow who set me all manner of labours. He once sent me here to fetch the hell-hound—for he did not think he could find anything harder for me than this, but I got the hound out of Hades and brought him to him, for Mercury and Minerva helped me.’
 
 “On this Hercules went down again into the house of Hades, but I stayed where I was in case some other of the mighty dead should come to me. And I should have seen still other of them that are gone before, whom I would fain have seen—Theseus and Pirithous—glorious children of the gods, but so many thousands of ghosts came round me and uttered such appalling cries, that I was panic stricken lest Proserpine should send up from the house of Hades the head of that awful monster Gorgon. On this I hastened back to my ship and ordered my men to go on board at once and loose the hawsers; so they embarked and took their places, whereon the ship went down the stream of the river Oceanus. We had to row at first, but presently a fair wind sprang up.

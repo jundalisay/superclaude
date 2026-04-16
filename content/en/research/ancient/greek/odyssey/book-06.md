@@ -1,6 +1,6 @@
 ---
 heading: Book 6
-title: "THE MEETING BETWEEN NAUSICAA AND ULYSSES."
+title: "The Meeting Between Nausicaa And Ulysses."
 weight: 14
 c: "darkslategray"
 icon: Homer

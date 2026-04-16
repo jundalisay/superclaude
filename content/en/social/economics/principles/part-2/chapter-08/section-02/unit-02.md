@@ -5,6 +5,8 @@ date: 2018-06-03
 weight: 58
 image: /graphics/econ/is.jpg
 description: "Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics"
+aliases:
+  /social/economics/principles/part-2/chapter-08b
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

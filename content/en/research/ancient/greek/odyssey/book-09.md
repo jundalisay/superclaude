@@ -1,7 +1,7 @@
 ---
 heading: Book 9
-title: "Ulysses Declares Himself And Begins His Story—-The Cicons, Lotophagi, And Cyclopes."
-weight: 14
+title: "Ulysses Declares Himself And Begins His Story"
+weight: 22
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
@@ -9,6 +9,8 @@ date: 2026-04-15
 description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
+
+## The Cicons, Lotophagi, And Cyclops
 
 Ulysses answered:
 

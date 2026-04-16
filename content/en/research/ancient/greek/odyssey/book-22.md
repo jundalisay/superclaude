@@ -1,6 +1,18 @@
-BOOK XXII
+---
+heading: Book 22
+title: "The Killing Of The Suitors"
+weight: 390
+c: "darkslategray"
+icon: Homer
+image: /graphics/history/illiad.jpg
+date: 2026-04-15
+description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
+---
 
-THE KILLING OF THE SUITORS—THE MAIDS WHO HAVE MISCONDUCTED THEMSELVES ARE MADE TO CLEANSE THE CLOISTERS AND ARE THEN HANGED.
+
+
+
+## THE MAIDS WHO HAVE MISCONDUCTED THEMSELVES ARE MADE TO CLEANSE THE CLOISTERS AND ARE THEN HANGED.
 
 Then Ulysses tore off his rags, and sprang on to the broad pavement with his bow and his quiver full of arrows. He shed the arrows on to the ground at his feet and said, “The mighty contest is at an end. I will now see whether Apollo will vouchsafe it to me to hit another mark which no man has yet hit.”
 

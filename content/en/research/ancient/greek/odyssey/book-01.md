@@ -1,6 +1,6 @@
 ---
 heading: Book 1
-title: "THE GODS IN COUNCIL"
+title: "The Gods In Council"
 weight: 4
 c: "darkslategray"
 icon: Homer

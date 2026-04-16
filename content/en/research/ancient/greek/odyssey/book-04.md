@@ -1,7 +1,7 @@
 ---
 heading: Book 4
-title: "THE VISIT TO KING MENELAUS, WHO TELLS HIS STORY"
-weight: 8
+title: "The Visit To King Menelaus, Who Tells His Story"
+weight: 11
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
@@ -9,7 +9,8 @@ date: 2026-04-15
 description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
-—MEANWHILE THE SUITORS IN ITHACA PLOT AGAINST TELEMACHUS.
+
+## THE SUITORS IN ITHACA PLOT AGAINST TELEMACHUS
 
 they reached the low lying city of Lacedaemon, where they drove straight to the abode of Menelaus[36] [and found him in his own house, feasting with his many clansmen in honour of the wedding of his son, and also of his daughter, whom he was marrying to the son of that valiant warrior Achilles. He had given his consent and promised her to him while he was still at Troy, and now the gods were bringing the marriage about; so he was sending her with chariots and horses to the city of the Myrmidons over whom Achilles’ son was reigning. For his only son he had found a bride from Sparta,[37] the daughter of Alector. This son, Megapenthes, was born to him of a bondwoman, for heaven vouchsafed Helen no more children after she had borne Hermione, who was fair as golden Venus herself.
 

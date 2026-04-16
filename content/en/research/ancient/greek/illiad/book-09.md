@@ -144,13 +144,49 @@ Are the sons of Atreus the only men in the world who love their wives?
 
 Any man of common right feeling will love and cherish her who is his own, as I this woman, with my whole heart, though she was but a fruitling of my spear. 
 
-Agamemnon has taken her from me; he has played me false; I know him; let him tempt me no further, for he shall not move me. Let him look to you, Ulysses, and to the other princes to save his ships from burning. He has done much without me already. He has built a wall; he has dug a trench deep and wide all round it, and he has planted it within with stakes; but even so he stays not the murderous might of Hector. 
+Agamemnon has taken her from me; he has played me false.
 
-So long as I fought the Achaeans Hector suffered not the battle range far from the city walls; he would come to the Scaean gates and to the oak tree, but no further. Once he stayed to meet me and hardly did he escape my onset: now, however, since I am in no mood to fight him, I will to-morrow offer sacrifice to Jove and to all the gods; I will draw my ships into the water and then victual them duly; to-morrow morning, if you care to look, you will see my ships on the Hellespont, and my men rowing out to sea with might and main. If great Neptune vouchsafes me a fair passage, in three days I shall be in Phthia. I have much there that I left behind me when I came here to my sorrow, and I shall bring back still further store of gold, of red copper, of fair women, and of iron, my share of the spoils that we have taken; but one prize, he who gave has insolently taken away. Tell him all as I now bid you, and tell him in public that the Achaeans may hate him and beware of him should he think that he can yet dupe others for his effrontery never fails him.
+I know him. Let him tempt me no further, for he shall not move me.
 
-“As for me, hound that he is, he dares not look me in the face. I will take no counsel with him, and will undertake nothing in common with him. He has wronged me and deceived me enough, he shall not cozen me further; let him go his own way, for Jove has robbed him of his reason. I loathe his presents, and for himself care not one straw. He may offer me ten or even twenty times what he has now done, nay—not though it be all that he has in the world, both now or ever shall have; he may promise me the wealth of Orchomenus or of Egyptian Thebes, which is the richest city in the whole world, for it has a hundred gates through each of which two hundred men may drive at once with their chariots and horses; he may offer me gifts as the sands of the sea or the dust of the plain in multitude, but even so he shall not move me till I have been revenged in full for the bitter wrong he has done me. I will not marry his daughter; she may be fair as Venus, and skilful as Minerva, but I will have none of her: let another take her, who may be a good match for her and who rules a larger kingdom. If the gods spare me to return home, Peleus will find me a wife; there are Achaean women in Hellas and Phthia, daughters of kings that have cities under them; of these I can take whom I will and marry her. Many a time was I minded when at home in Phthia to woo and wed a woman who would make me a suitable wife, and to enjoy the riches of my old father Peleus. My life is more to me than all the wealth of Ilius while it was yet at peace before the Achaeans went there, or than all the treasure that lies on the stone floor of Apollo’s temple beneath the cliffs of Pytho. Cattle and sheep are to be had for harrying, and a man buy both tripods and horses if he wants them, but when his life has once left him it can neither be bought nor harried back again.
+Let him look to you, Ulysses, and to the other princes to save his ships from burning. He has done much without me already. 
 
-“My mother Thetis tells me that there are two ways in which I may meet my end. If I stay here and fight, I shall not return alive but my name will live for ever: whereas if I go home my name will die, but it will be long ere death shall take me. To the rest of you, then, I say, ‘Go home, for you will not take Ilius.’ Jove has held his hand over her to protect her, and her people have taken heart. Go, therefore, as in duty bound, and tell the princes of the Achaeans the message that I have sent them; tell them to find some other plan for the saving of their ships and people, for so long as my displeasure lasts the one that they have now hit upon may not be. As for Phoenix, let him sleep here that he may sail with me in the morning if he so will. But I will not take him by force.”
+He has built a wall; he has dug a trench deep and wide all round it, and he has planted it within with stakes; but even so he stays not the murderous might of Hector. 
+
+So long as I fought the Achaeans Hector suffered not the battle range far from the city walls; he would come to the Scaean gates and to the oak tree, but no further. 
+
+Once he stayed to meet me and hardly did he escape my onset: now, however, since I am in no mood to fight him, I will to-morrow offer sacrifice to Jove and to all the gods.
+
+I will draw my ships into the water and then victual them duly; to-morrow morning, if you care to look, you will see my ships on the Hellespont, and my men rowing out to sea with might and main.
+
+If great Neptune vouchsafes me a fair passage, in 3 days I shall be in Phthia. I have much there that I left behind me when I came here to my sorrow, and I shall bring back still further store of gold, of red copper, of fair women, and of iron, my share of the spoils that we have taken; but one prize, he who gave has insolently taken away. 
+
+Tell him all as I now bid you, and tell him in public that the Achaeans may hate him and beware of him should he think that he can yet dupe others for his effrontery never fails him.
+
+As for me, hound that he is, he dares not look me in the face.
+
+I will take no counsel with him, and will undertake nothing in common with him. He has wronged me and deceived me enough, he shall not cozen me further; let him go his own way, for Jove has robbed him of his reason.
+
+I loathe his presents, and for himself care not one straw. He may offer me ten or even twenty times what he has now done, nay—not though it be all that he has in the world, both now or ever shall have; he may promise me the wealth of Orchomenus or of Egyptian Thebes, which is the richest city in the whole world, for it has a hundred gates through each of which two hundred men may drive at once with their chariots and horses.
+
+He may offer me gifts as the sands of the sea or the dust of the plain in multitude, but even so he shall not move me till I have been revenged in full for the bitter wrong he has done me.
+
+I will not marry his daughter; she may be fair as Venus, and skilful as Minerva, but I will have none of her: let another take her, who may be a good match for her and who rules a larger kingdom.
+
+If the gods spare me to return home, Peleus will find me a wife; there are Achaean women in Hellas and Phthia, daughters of kings that have cities under them; of these I can take whom I will and marry her. Many a time was I minded when at home in Phthia to woo and wed a woman who would make me a suitable wife, and to enjoy the riches of my old father Peleus. 
+
+My life is more to me than all the wealth of Ilius while it was yet at peace before the Achaeans went there, or than all the treasure that lies on the stone floor of Apollo’s temple beneath the cliffs of Pytho. Cattle and sheep are to be had for harrying, and a man buy both tripods and horses if he wants them, but when his life has once left him it can neither be bought nor harried back again.
+
+My mother Thetis tells me that there are two ways in which I may meet my end.
+
+If I stay here and fight, I shall not return alive but my name will live for ever: whereas if I go home my name will die, but it will be long ere death shall take me. 
+
+To the rest of you, then, I say, ‘Go home, for you will not take Ilius.’ Jove has held his hand over her to protect her, and her people have taken heart. 
+
+Go, therefore, as in duty bound, and tell the princes of the Achaeans the message that I have sent them; tell them to find some other plan for the saving of their ships and people, for so long as my displeasure lasts the one that they have now hit upon may not be. 
+
+As for Phoenix, let him sleep here that he may sail with me in the morning if he so will. 
+
+But I will not take him by force.”
 {{< /l >}}
 
 
