@@ -46,15 +46,17 @@ praise all my life. I hope Baba will grant me this.
 After the commotion had setteld, we had out lunch. I told my wife that Baba has
 only given a warning to us, but if we don't apply the treatment shown by Him, there
 would certainly be a chance for calamity in future. While thus talking we saw the maid
-taking the cleaned utensils inside the house. Amongst them was one utensil of brass
+taking the cleaned utensils inside the house. 
+
+Amongst them was one utensil of brass
 which had no handle and was like a tub. I suggested that Mainju could sit in this and be
 bathed. If the edge will pain her outstretched legs we will put a towel on the edge to
-protect her. My wife agreed with my suggestion. From that day on we bathed Mainju as
-per Baba's instructions, in that utensil. We did not use the doctor's medicines. By
-Baba's Grace Mainju never got that kind of fit against after this.
+protect her.
 
-After this incident, my wife also insisted on being initiated. How can I bring
-within the fold of language the description of his compassion? Hie whose description the Vedas failed to achieve and finally came to the statements of 'Not this, not this!’ 
+My wife agreed with my suggestion. From that day on we bathed Mainju as
+per Baba's instructions, in that utensil. We did not use the doctor's medicines. By Baba's Grace Mainju never got that kind of fit against after this.
+
+After this incident, my wife also insisted on being initiated. How can I bring within the fold of language the description of his compassion? Hie whose description the Vedas failed to achieve and finally came to the statements of 'Not this, not this!’ 
 
 I can only silently say that Baba is extremely compassionate and He showers Hisblessings equally on His disciples as well as those who are not. He is ever ready to take them under His shelter.
 When I visited Baba's place next, I requested for my wife's initiation and Baba
@@ -92,14 +94,18 @@ The kundalinii of children below 5 is in a fluid state. It gets aggravated by my
 
 Therefore, when we came next time the young girl was with us but we tried to
 lull her to sleep before going to Baba and by Baba's Grace she did go to sleep. After
-this, we handed her over to Bindeshwariji and I took my wife to Baba for initiation. Only
+this, we handed her over to Bindeshwariji and I took my wife to Baba for initiation. 
+
+Only
 when we returned after my wife's initiation did my daughter wake up. It was His Grace
 that until we returned she remained asleep. This was the same girl who was declared
 dead some days ago by the doctors.
 
 This time I also brought a list of those who were desirous of taking initiation and
 I submitted that list to Baba. Baba thought for a moment and allowed some of them and
-some names of the list were not allowed. Along with this for each person the date and
+some names of the list were not allowed.
+
+Along with this for each person the date and
 time of initiation was also fixed. I informed the people about the date and time and gave
 their addresses to Bindeshwariji, who took them to Baba's lotus feet at the appointed
 time. I had already requested Bindeshwariji to take these persons to Baba and he
@@ -114,9 +120,7 @@ The motivation inculcated by reference to the guru will not be permanent. Guru w
 {{< /l >}}
 
 
-Following His instructions we were always talking about the ideals and
-spreading it through personal contact. Up to that time Ananda Marga had not come into
-existence - nor was there any book containing a philosophy or code of conduct.
-Whatever we heard from Baba was our philosophy and code of conduct, and we were
-taking only its help for our propagation of the philosophy and practice Baba had given.
+Following His instructions we were always talking about the ideals and spreading it through personal contact. Up to that time Ananda Marga had not come into existence - nor was there any book containing a philosophy or code of conduct.
+
+Whatever we heard from Baba was our philosophy and code of conduct, and we were taking only its help for our propagation of the philosophy and practice Baba had given.
 

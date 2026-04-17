@@ -6,7 +6,6 @@ description: "My boss, Asthanaji asked us to stay for tea"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -35,14 +34,20 @@ When the topic of sadhana was being discussed, he jumped into the discussion in 
 
 I told him that I was not well versed in the scriptures, but as far as common sense prevailed I contradicted this theory by repeating arguments which I picked up from Baba's conversations from time to time. 
 
-As my approach was logical, all present agreed with it in their heart of hearts; but in order to incite the pandit to further discussion, they outwardly supported the pandit's statements. Panditji was also garrulous mostly to please our boss, Shri Asthanaji. All realised this. Shri Asthanaji also recognised this fact and therefore he told me that I was defeated and thus he pumped up the pandit further.
+As my approach was logical, all present agreed with it in their heart of hearts; but in order to incite the pandit to further discussion, they outwardly supported the pandit's statements. 
 
-The pandit in his excitement began to criticize yoga sadhana. I
-therefore thought of silencing him.
+Panditji was also garrulous mostly to please our boss, Shri Asthanaji. All realised this. Shri Asthanaji also recognised this fact and therefore he told me that I was defeated and thus he pumped up the pandit further.
 
-I said, ”Panditji, it is but natural that you do not like yoga sadhana as it would
-mean you being compelled to follow yama and niyama (the ten principles of morality)”.
+The pandit in his excitement began to criticize yoga sadhana. I therefore thought of silencing him.
+
+
+{{< r a="Nagina" >}}
+Panditji, it is but natural that you do not like yoga sadhana as it would mean you being compelled to follow yama and niyama (the ten principles of morality)
+{{< /r >}}
+
+
 As the reply was sharp he kept quiet.
+
 However, our boss wanted to appease the pandit, therefore he said that he
 agreed with panditji that one must eat, drink and be merry in this world and also
 remember God from time to time. He said that he disapproved of total dedication to
@@ -66,7 +71,9 @@ He told me that it was very good that I could not go as he had some work with me
 
 I reached Asthanaji’s office at about nine and found that he was waiting for me.
 
-After the exchange of greetings, he asked me to be seated and enquired as to how yesterday I could know what was in his mind. I could not catch the point and asked him as to what he was the referring. He then told me that he began to take interest in my arguments when I was discussing with panditji and in actual fact he wanted to ask me where to learn yoga sadhana. I told him that I was no mind reader and I only said spontaneously what came to my mind about him. 
+After the exchange of greetings, he asked me to be seated and enquired as to how yesterday I could know what was in his mind. I could not catch the point and asked him as to what he was the referring. 
+
+He then told me that he began to take interest in my arguments when I was discussing with panditji and in actual fact he wanted to ask me where to learn yoga sadhana. I told him that I was no mind reader and I only said spontaneously what came to my mind about him. 
 
 That day he repeated again and again that he was quite keen to learn yoga sadhana and he was ready to do everything for this. I told him that I was unable to commit anything without Baba's prior permission. 
 
@@ -75,13 +82,24 @@ He was ready for this.
 Jamalpur was on my route to my office and therefore, I finished my office work in the afternoon and came by the evening train to Jamalpur. In the evening I went to Baba's residence for darshan. After Baba's darshan I accompanied Him on His walk. 
 
 On the way I put in my request regarding giving initiation to my boss.
-Baba said, "His time has not yet arrived".
-I kept quiet and informed my boss about it. After some days I again met this
-officer and he again insisted for diiksa. I told him that when I meet Baba next I shall put
-in another request on his behalf for initiation. I got an opportunity to meet Baba after
-some days.
 
-Baba smiled and asked, "Are you insisting again and again because he is your boss?"
+
+Baba said:
+
+{{< l a="Baba" >}}
+His time has not yet arrived.
+{{< /l >}}
+
+
+I kept quiet and informed my boss about it. After some days I again met this officer and he again insisted for diiksa. I told him that when I meet Baba next I shall put in another request on his behalf for initiation. 
+
+I got an opportunity to meet Baba after some days.
+
+Baba smiled and asked:
+
+{{< l a="Baba" >}}
+Are you insisting again and again because he is your boss?
+{{< /l >}}
 
 {{< r a="Nagina" >}}
 It is not so. Whenever he meets me like one desirous of knowledge he insists on my requesting You that he may get permission. If I do not convey his feelings to You, my mind feels guilty. Hence, whenever he insists, I convey the same to You

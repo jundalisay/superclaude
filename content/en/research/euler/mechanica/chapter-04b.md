@@ -12,14 +12,15 @@ c: "firebrick"
 
 ## DEFINITION 19
 
-376. The exponent of the resistance is the height corresponding to its speed, which if the body has this speed, then the resistance experienced is equal to the force of gravity. It is clear that in this case the body is slowed down by the resistance to the same extent as it
-would be slowed in moving up under the force of gravity. 
+376. The exponent of the resistance is the height corresponding to its speed, which if the body has this speed, then the resistance experienced is equal to the force of gravity. 
 
-[The exponent of the resistance
-is hence a constant associated with that resistive force, indicating its strength. In certain
+In this case the body is slowed down by the resistance to the same extent as it would be slowed in moving up under the force of gravity. 
+
+[The exponent of the resistance is hence a constant associated with that resistive force, indicating its strength. In certain
 circumstances where the resistance varies with position, then it is not a constant, as
-explained below. For uniform resistance it is constant. The resistance is given as a
-negative acceleration of the form − ( kv ) , where v is the height the body falls under n constant unit acceleration due to gravity, corresponding to the speed
+explained below. For uniform resistance it is constant.
+
+The resistance is given as a negative acceleration of the form − ( kv ) , where v is the height the body falls under n constant unit acceleration due to gravity, corresponding to the speed
 whole number power.]
 v , and n is a
 

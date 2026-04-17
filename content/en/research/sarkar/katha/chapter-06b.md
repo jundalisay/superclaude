@@ -87,11 +87,19 @@ His wife was also there. She told me that since the morning after his bath he ha
 When I looked at him, I found that his hair was dishevelled. His wife appeared worried and he had forbidden anyone from outside be told about his
 condition.
 
-He asked his wife also to go out of the room for some time. When she had left and we were alone, he told me his story. He said that after taking his bath he had come out of the bathroom and approached the dressing table to do his hair. He stood in front of the mirror, which was big enough to reflect his whole body, and saw that Baba was standing in the mirror. He was standing in front of the mirror, and normally the mirror should have reflected his own image, but instead, he saw Baba there and was extremely surprised at it. He could not rely on his own eyes, and several times rubbed his eyes to see clearly, but he found that Baba was still standing in the mirror. At this, he felt such a pleasant sensation that he lost the consciousness of his body and began to shed tears of joy incessantly.
+He asked his wife also to go out of the room for some time. When she had left and we were alone, he told me his story. He said that after taking his bath he had come out of the bathroom and approached the dressing table to do his hair. He stood in front of the mirror, which was big enough to reflect his whole body, and saw that Baba was standing in the mirror. 
+
+He was standing in front of the mirror, and normally the mirror should have reflected his own image, but instead, he saw Baba there and was extremely surprised at it. 
+
+He could not rely on his own eyes, and several times rubbed his eyes to see clearly, but he found that Baba was still standing in the mirror. 
+
+At this, he felt such a pleasant sensation that he lost the consciousness of his body and began to shed tears of joy incessantly.
 
 Hearing him and looking at him, I myself began to feel a sensation of ecstasy and began to wonder at the infinite liila of Baba. How compassionate He is to His devotees. Wherever His devotees may be, Baba is always with them. When Asthanaji took time to come out of the dressing room, his wife came in, and when she saw his condition she was amazed. She questioned him, but got no reply. She therefore became worried.
 
-I enquired whether he was feeling any strain due to the constant weeping. He informed me that along with the flow of tears he was feeling a sweet sensation in his heart and was thus enjoying bliss. But his difficulty was how to show himself to people outside in this condition. Saying this, he again began to weep profusely and his wife came into the room when she heard his weeping. I told her not to worry at all and only advised her to remain indoors to avoid any embarrassment.
+I enquired whether he was feeling any strain due to the constant weeping. He informed me that along with the flow of tears he was feeling a sweet sensation in his heart and was thus enjoying bliss. 
+
+But his difficulty was how to show himself to people outside in this condition. Saying this, he again began to weep profusely and his wife came into the room when she heard his weeping. I told her not to worry at all and only advised her to remain indoors to avoid any embarrassment.
 
 {{< r a="Nagina" >}}
 [To Asthanaji] In the evening when I go for Baba's darshan I shall inform Him about you.

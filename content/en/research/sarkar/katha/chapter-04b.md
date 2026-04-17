@@ -2,11 +2,10 @@
 title: "The Defeat Of An Enemy And Baba’S Lesson On The Enemy Within"
 heading: Chapter 4b
 weight: 10
-description: "Baba said: You must use a muffler during winters"
+description: "Enmity is not with a person. Enmity is with the person’s conduct. Therefore to feel happy at the defeat of a person is mean"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -26,27 +25,38 @@ However, I knew nothing of all this, at the time that I learned about his downfa
 
 Although, he tried to keep this news secret from me, still somehow I came to know of it. I felt happy at his downfall and threw a party for some of my friends to celebrate. I thoroughly enjoyed the news of his misfortune and laughed heartily about it.
 
-About this time, Chandranathji was going home on leave and as Jamalpur was on the way, he detrained there for a day or two for Baba's darshan. Baba said to him,
+About this time, Chandranathji was going home on leave and as Jamalpur was on the way, he detrained there for a day or two for Baba's darshan. Baba said to him:
 
-"These days Nagina is suffering from mean mentality. Tell him not to give quarter to such feelings in his mind."
+{{< l a="Baba" >}}
+These days Nagina is suffering from mean mentality. Tell him not to give quarter to such feelings in his mind.
+{{< /l >}}
 
-As Chandranathji was not returning to Bhagalpur, he communicated Baba's instructions to me through a letter. I sought over and over in my mind as to when I had harboured such feelings, but could not locate the answer within. I therefore, took some time off and went to Baba.When I mentioned Chandranathji's letter to Baba, He said, "Yes! Chandranath is right. 
 
-It is your duty to fight your enemy for self-protection, but to celebrate his defeat
-is the sign of mean mentality."
+As Chandranathji was not returning to Bhagalpur, he communicated Baba's instructions to me through a letter. I sought over and over in my mind as to when I had harboured such feelings, but could not locate the answer within.
 
-I said, “Baba, is it not but natural to feel happy at the defeat of an adversary, so
-how is it mean?”
+So I took some time off and went to Baba. When I mentioned Chandranathji's letter to Baba, He said:
 
-Baba replied, ”Enmity is not with a person. Enmity is with the person’s conduct.
-Therefore to feel happy at the defeat of a person is mean."
+{{< l a="Baba" >}}
+Yes! Chandranath is right. It is your duty to fight your enemy for self-protection, but to celebrate his defeat is the sign of mean mentality.
+{{< /l >}}
 
-Baba's teachings made a great impression on my mind and I found in them the
-heighest of ideals and generosity of spirit. Now my contaminated and mean mind
-began to repent and feel remorse. I saw that I had behaved very badly and
-unbecomingly with respect to Ajit Singh and his demotion and had also earned a
-rebuke from Baba. But I felt a little relieved thinking of Baba’s teachings. I prostrated
-myself at Baba's feet and returned to Bhagalpur.
+{{< r a="Nagina" >}}
+Baba, is it not but natural to feel happy at the defeat of an adversary, so how is it mean?
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Enmity is not with a person. Enmity is with the person’s conduct. Therefore to feel happy at the defeat of a person is mean.*
+{{< /l >}}
+
+
+{{< n n="In Sassani philosophy, enmity is part of behavior which is caused by belief which is samskara in yoga philosophy. So the policy to deal with conduct is the same as the policy to deal with the belief." >}}
+
+Baba's teachings made a great impression on my mind and I found in them the heighest of ideals and generosity of spirit. 
+
+My contaminated and mean mind began to repent and feel remorse. I saw that I had behaved very badly and unbecomingly with respect to Ajit Singh and his demotion and had also earned a rebuke from Baba.
+
+But I felt a little relieved thinking of Baba’s teachings. I prostrated myself at Baba's feet and returned to Bhagalpur.
 
 It took sometime to wipe out this burden of guilt from my mind. But by Baba's
 infinite grace I was able to get free from this mental agony ultimately.

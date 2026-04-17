@@ -83,7 +83,9 @@ The day I do not walk, I don't take my dinner. Therefore my mother likes me to g
 {{< /l >}}
 
 
-As long as I was with Baba, I was absorbed in His enlightening talk. As Baba walked and sat on the grave, the sky turned more and more black. Simultaneously, lightening and thunder were also becoming more frequent. It appeared as if someone was holding the rain and the clouds were bursting with thunder to show their determination to rain. Baba was sitting peacefully on the grave, as if nothing happened while all the time I was apprehensive that if it rained, I should be completely drenched and would be quite unfit to travel with these clothes tomorrow.
+As long as I was with Baba, I was absorbed in His enlightening talk. As Baba walked and sat on the grave, the sky turned more and more black. 
+
+Simultaneously, lightening and thunder were also becoming more frequent. It appeared as if someone was holding the rain and the clouds were bursting with thunder to show their determination to rain. Baba was sitting peacefully on the grave, as if nothing happened while all the time I was apprehensive that if it rained, I should be completely drenched and would be quite unfit to travel with these clothes tomorrow.
 
 At about nine, Baba looked at the sky and said:
 
@@ -104,14 +106,10 @@ Double up from here Nagina, and rush. Now the rain can no longer be held back.
 I ran and reached Bindeshwariji’s hoouse. As I reached the house and came
 indoors, it started raining heavily. 
 
-Big drops were falling and I saw from the porch that
-Baba was holding the umbrella in one hand and holding up His dhoti to the ankles with
-the other hand while walking in that heavy rain. How kind Baba is. He did not allow
-even a drop of rain to fall on me and He Himself was walking in the pouring rain with an
-umbrella in His hand. 
+Big drops were falling and I saw from the porch that Baba was holding the umbrella in one hand and holding up His dhoti to the ankles with the other hand while walking in that heavy rain. How kind Baba is. 
 
-Now I understood how Baba protects His spiritual sons. He sees
-the difficulties Himself and protects His devotees. I was fortunate to experience it in my
-own case. Praise be to Baba and His Greatness!
+He did not allow even a drop of rain to fall on me and He Himself was walking in the pouring rain with an umbrella in His hand. 
+
+Now I understood how Baba protects His spiritual sons. He sees the difficulties Himself and protects His devotees. I was fortunate to experience it in my own case. Praise be to Baba and His Greatness!
 
 
