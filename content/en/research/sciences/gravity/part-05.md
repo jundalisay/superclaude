@@ -1,9 +1,10 @@
 ---
 title: Discussion
-weight: 5
+weight: 51
 author: Hossenfelder
 description: ""
 c: "firebrick"
+icon: Hossenfelder
 ---
 
 
@@ -60,7 +61,9 @@ branches has mixed terms that essentially describe part of a
 particle in one place with a gravitational field sourced from
 another place. This happens exactly because the rest of the
 particle must be somewhere.
-I know that I did not, in fact, put forward the mathematics for these statements. That is because it would just add assumptions that are unnecessary to arrive at the phenomenological consequences which were the focus of this paper. However, I wanted to provide this explanation as motivation.
+
+I did not put forward the mathematics for these statements. That is because it would just add assumptions that are unnecessary to arrive at the phenomenological consequences which were the focus of this paper. However, I wanted to provide this explanation as motivation.
+
 It is also worth mentioning that the estimate presented here
 does not rest on the product state assumption. By order of
 magnitude one would expect most deviations from canonically quantised gravity to give a similar result.
@@ -97,14 +100,5 @@ these end states with the eigenstates of the measurement device. This new model 
 seem to ‘collapse’ into eigenstates of the measurement observable, and how this can happen while preserving locality.
 Since the collapse process is governed by quantum gravitational contributions whose strength is known, the resulting model is parameter free. 
 
-Collapse happens in this model whenever the accumulated phase difference between
-dislocated branches, τm|Φ12|, exceeds ∼ 1. The model’s
-phenomenology—notably the collapse itself—can be tested in
-roughly the same parameter range as other tests of the weak
+Collapse happens in this model whenever the accumulated phase difference between dislocated branches, τm|Φ12|, exceeds ∼ 1. The model’s phenomenology—notably the collapse itself—can be tested in roughly the same parameter range as other tests of the weak
 field limit of quantum gravity.
-
-Acknowledgements
-
-I acknowledge help from ChatGPT 5 for literature research as well as checking this manuscript. I swear I actually wrote
-it myself.
-

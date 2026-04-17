@@ -1,24 +1,25 @@
 ---
 heading: Part 3
-title: MODEL PROPERTIES
-weight: 5
+title: Penrose Case
+weight: 9
 author: Hossenfelder
 description: ""
 c: "firebrick"
+icon: Hossenfelder
 ---
 
 
-Having formulated the mathematical framework of the new
-model, I now want to explain what it is good for.
+Having formulated the mathematical framework of the new model, I now want to explain what it is good for.
 
-A. The Penrose Case
+## A. The Penrose Case
 
 The case I want to look at first is one in which we generate
 a particle of mass m and with wavefunction |χ⟩ in a superposition of two places (in the following called branches), ⃗x1 and
 ⃗x2 that we will call |χ1⟩ and |χ2⟩. That is, the wavefunction
 of the particle is |χ⟩ = α1|χ1⟩ + α2|χ2⟩.
 
-A The Penrose Case 4
+
+### A The Penrose Case 4
 
 Strictly speaking, the particle’s wavefunction in each location has its own gravitational field. For simplicity, we will
 use the Newtonian limit, in which the branches each have
@@ -98,15 +99,8 @@ S because |Ψ⟩ is not in the energy gauge. Integrating φ˙ =
 2
 |Φ12|, and so the minimal norm
 
-becomes
-p
-|⟨R|R⟩| =
-1
-2
-m|α1α2||Φ12|
-p
-2 − 4|α1α2|
-2 . (25)
+becomes ... (25)
+
 The value of the square root in Eq. (25) is ∈ [1,
 √
 2] and just
@@ -138,7 +132,7 @@ I will in the following refer to this estimate as the “Penrosephase”.
 We will now turn to the question of what to do with this
 estimate.
 
-B. The Collapse
+## B. The Collapse
 
 Since the integrand of Eq. (3) is strictly positive, it is clear
 that the absolute minimum of the action is equal to zero. This
@@ -153,13 +147,15 @@ However, if we consider a situation in which the state is
 measured (otherwise, what are we to predict?), then the different branches of the wavefunction will become amplified by
 the detector. This is what makes a detector a detector: It correlates a quantum state with increasingly more other particles,
 
-B The Collapse 5
+### B The Collapse 5
+
 so that we can eventually read out the result. This means that
 the total mass that is in a superposition of two places will increase due to the measurement.
 Consider for example that we create a superposition of a
 photon with a beam splitter and then measure the photon with
-a photomultiplier. In branch 1, the photon will create a cascade of electrons in photomultiplier 1, whereas photomultiplier 2 remains untouched. For the photon on branch 2, it
-is instead electrons in photomultiplier 2 that move. Eventually these electrons will create a current and text on a screen
+a photomultiplier. In branch 1, the photon will create a cascade of electrons in photomultiplier 1, whereas photomultiplier 2 remains untouched. 
+
+For the photon on branch 2, it is instead electrons in photomultiplier 2 that move. Eventually these electrons will create a current and text on a screen
 that will be read by a human. As that happens, the total mass
 and energy in a superposition of two locations increases. This
 is sometimes called a “Schrodinger’s cat state” or just a “cat ¨
@@ -170,12 +166,9 @@ state”.
 It is rather that between
 detector 1 that has detected a particle and detector 1 that has
 not detected a particle, and similar for detector 2. Let me
-denote the states of the detector on branch 1/2 with |Don
-1/2
-⟩
-and |Doff
-1/2
-⟩. Then we start with the (matter) state
+denote the states of the detector on branch 1/2 with |Don ...⟩. 
+
+Then we start with the (matter) state
 |Doff
 1
 ⟩|Doff
@@ -265,6 +258,7 @@ general such a transition can only proceed locally if it happens within an inter
 possible value that the action can take on for any such transition because we can always choose the basis vectors so that
 we have a two-state system, and this rotation is the shortest
 path between the start and end point.
+
 Why does the state not collapse once the superposition
 reaches the detector? Because there is no local interaction
 which can make this happen. If the particle really were to go
@@ -276,7 +270,8 @@ to the detector, as we did in [21]. Such a model can be locally causal in
 Bell’s sense if one is only concerned with the measurement outcome, but
 generically it still has to propagate energy densities outside the lightcone.
 
-C Born’s Rule 6
+
+### C Born’s Rule 6
 
 What this means is that if the system minimises the action,
 it will locally collapse into a branch that results in a measurement outcome which is to good accuracy a product state
@@ -296,7 +291,7 @@ the exact same path and hit the detector at the same location.
 The difference in the gravitational potentials will then come
 from the necessarily distinct detector response that must eventually reach a macroscopic level, not from having detectors in
 different locations.
+
 The only problem is that this, of course, is not what we actually observe. In reality, the outcome of a quantum measurement is not always the pointer state with the largest amplitude.
 What is missing here is a probabilistic element. We will turn
 to this next.
-

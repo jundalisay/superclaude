@@ -1,22 +1,22 @@
 ---
-title: How Gravity Can Explain the Collapse of the Wavefunction
+heading: Part 1
+title: Model Definition
 weight: 5
 author: Hossenfelder
+icon: Hossenfelder
 description: ""
 c: "firebrick"
 ---
 
-
-
-How Gravity Can Explain the Collapse of the Wavefunction
-Sabine Hossenfelder1
+<!-- How Gravity Can Explain the Collapse of the Wavefunction
+Sabine Hossenfelder1 -->
 
 
 I present a simple argument for why a fundamental theory that unifies matter and gravity gives rise to what
 seems to be a collapse of the wavefunction. The resulting model is local, parameter-free and makes testable
 predictions.
 
-I. INTRODUCTION
+## I. INTRODUCTION
 
 The measurement problem in quantum physics is why we do not observe the outcome of the Schrodinger evolution, but merely one eigenstate of the measurement observable with a probability that can be computed from the wavefunction. 
 
@@ -127,4 +127,3 @@ serves to show that we cannot assume a product state! But
 as I will argue below, this might be the reason why we do
 not have a physical description of the measurement process in
 quantum mechanics.
-

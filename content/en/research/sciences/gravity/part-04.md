@@ -1,10 +1,11 @@
 ---
 heading: Part 4
 title: Tests
-weight: 5
+weight: 17
 author: Hossenfelder
 description: ""
 c: "firebrick"
+icon: Hossenfelder
 ---
 
 
@@ -36,20 +37,19 @@ from the Newtonian potential. I will therefore here, as usual,
 assume that the mass-density is smeared out over a radius that
 roughly scales like the width of the wave-packet.
 
-A. Estimates
+
+### A. Estimates
 
 The great benefit of this model is that since the collapse is
 caused by a known entity—gravity—the process has no free
 parameters. Let us therefore make some order-of-magnitude
 estimates for when the effects of the model proposed here
 should become relevant.
+
 In the best case (near a maximally localised particle), we
-can estimate Φ12 ∼ (m/mp)
-2
-, where mp is the Planck mass.
-This gives us a Penrose phase ∼ τm3/m2
-p
-. 
+can estimate Φ12 ∼ (m/mp) ., where mp is the Planck mass.
+
+This gives us a Penrose phase ∼ τm3/m2 p . 
 
 Our task is now
 to find cases where the collapse induced by this phase is not
@@ -68,6 +68,7 @@ What about quantum computers? At first, this sounds like
 a promising idea because quantum computers are designed to
 produce massive amounts of entanglement while keeping decoherence at bay. However, in a quantum computer the masses
 that move are tiny.
+
 Consider for example a superconducting circuit that will
 move something like Ne = 106
 electrons. To get a collapse
@@ -77,7 +78,9 @@ other extreme, if we just have a product of qubits, each of
 which is in a superposition (of electron locations), then we
 have to use the √
 n scaling from subsection II D and we need
-∼ 1035 qubits. In a realistic setting the number would be
+∼ 1035 qubits. 
+
+In a realistic setting the number would be
 somewhere in between but probably closer to the latter estimate. In any case, clearly, this is not going to happen any time
 soon. The situation is even worse for other types of qubits,
 such as ion traps, neutral atoms, or photon states, because they
@@ -90,7 +93,8 @@ hold. This is not much. We just need to displace e.g. atomic
 nuclei by more than the typical diameter of the nucleus, that
 is, some femtometres.
 
-B. Existing Proposals
+
+## B. Existing Proposals
 
 Experimental setups which are in the parameter range of
 testing the model proposed here (maybe not so surprisingly)

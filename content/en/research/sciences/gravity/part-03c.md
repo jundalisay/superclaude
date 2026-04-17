@@ -1,15 +1,15 @@
 ---
-heading: Part 3D
+heading: Part 3c
 title: Interpretation
-weight: 50
+weight: 15
 author: Hossenfelder
+icon: Hossenfelder
 description: ""
 c: "firebrick"
 ---
 
 
-
-D. Interpretation
+## D. Interpretation
 
 In this framework, a massive object that is in a superposition of two different locations is somewhat like a virtual
 particle-antiparticle pair in a Feynman diagram. It can exist
@@ -17,8 +17,7 @@ temporarily but will not appear in outgoing states, just that
 here the “outgoing” states are detector eigenstates that must
 be, to good precision, product states of matter and metric. 
 
-The
-required precision is given by the accumulated Penrose phase.
+The required precision is given by the accumulated Penrose phase.
 
 However, the temporal and spatial extension of these intermediate superpositions much exceeds those of virtual particles
 because quantum gravitational effects are so small. They can
@@ -44,7 +43,8 @@ why, in this approach, we do not need to integrate the residual
 all the way to infinity. This is because for practical purposes
 we can chop the time evolution apart into disconnected diagrams at any sufficiently localised and near classical (think “real”) final state, that is the end of a measurement process.
 
-E. Weak Measurements
+
+## E. Weak Measurements
 
 Once we have the probabilistic formulation, we can deal
 with weak measurements. One of the standard definitions for
@@ -52,19 +52,13 @@ weak measurements is loosely speaking a detector that only
 sometimes makes a detection. Concretely, let us consider a
 weak measurement that answers the question “Is the system
 in state |q⟩?” The detector can then be described by two operators Mˆ+ and Mˆ−, the former describing a positive, the latter
-a negative (no) detection. These operators can be defined as
-Mˆ+ :=
-√
-p |q⟩⟨q| , (43)
-Mˆ− := 11 −
-
-1 −
-p
-1 − p
-
-|q⟩⟨q| , (44)
+a negative (no) detection. 
+
+These operators can be defined as ... (44)
+
 with some detection probability p ≪ 1. That is, we reformulate the weak measurement as a collapse that happens only
 with a small probability [26].
+
 There is a simple way to interpret such a device in the model
 presented here. A weak measurement detector is one that only
 sometimes maintains the residual ||R|| and sometimes washes
@@ -79,13 +73,12 @@ A second definition of weak measurement which is frequently used [27] is that th
 state |M⟩ that changes only mildly to a state |M′
 ⟩ with large
 overlap, i.e. |⟨M|M′
-⟩| ∼ 1. In this case, the ‘weakness’ of the
-measurement lies in the difficulty of reading out the difference
+⟩| ∼ 1. 
+
+In this case, the ‘weakness’ of the measurement lies in the difficulty of reading out the difference
 between the two states, which only sometimes works.
 The distinction between the two definitions of a weak measurement is therefore about what one calls the “measurement”
-and not the actual mechanism. I think that the imprint in |M′
-⟩
-would better be referred to as a pre-measurement and the term
+and not the actual mechanism. I think that the imprint in |M′ would better be referred to as a pre-measurement and the term
 measurement be reserved for a successful amplification. 
 
 In any case, both definitions mean that the record of the observable is only sometimes amplified to macroscopic scales,

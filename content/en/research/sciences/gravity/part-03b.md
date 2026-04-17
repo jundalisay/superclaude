@@ -1,9 +1,10 @@
 ---
 title: Born’s Rule
-weight: 50
+weight: 12
 author: Hossenfelder
 description: ""
 c: "firebrick"
+icon: Hossenfelder
 ---
 
 
@@ -219,13 +220,7 @@ when the forward evolution of the Schrodinger solution is not ¨
 a product state between matter and geometry that the product
 states become the stationary solutions.
 
-In case you noticed that (35) could be equal to zero for
-α1/2 = α
-′
-1/2
-, |α1| = |α2| =
-p
-1/2, and a suitably chosen
+In case you noticed that (35) could be equal to zero for ... and a suitably chosen
 phase, do not worry. This path is not stationary since any
 nudge towards smaller |α1| or |α2| will decrease the residual,
 and there always must be a local path for this, since otherwise the state that we actually measure could not come about
