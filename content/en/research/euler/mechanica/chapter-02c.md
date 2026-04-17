@@ -2,7 +2,7 @@
 heading: Chapter 2c
 title: "The Increment of Speed"
 date: 2025-03-20
-weight: 18
+weight: 28
 description: "For a given increment of the speed, a certain force produces on the point A in the small increment of time dt"
 author: "Euler"
 c: "firebrick"

@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Effect Of Forces Acting On A Free Point"
 date: 2025-03-20
-weight: 14
+weight: 26
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"

@@ -2,26 +2,28 @@
 heading: Chapter 4e
 title: "Proposition 52"
 date: 2025-03-20
-weight: 78
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 100
+description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
-PROPOSITION 52. PROBLEM.
+## PROPOSITION 52. PROBLEM
 
 408. A body that is moving in some medium with resistance, is acted on by some absolute
 force; to determine the increase or decrease of the speed, while it runs through any
 element Pp (Fig. 39).
 
-SOLUTION.
+
+### SOLUTION
 
 Let the speed of the body at P correspond to the altitude v and the element to be
 traversed be Pp = dx. Again let the absolute force or rather the accelerating strength of
 this at P = p and the exponent of the resistance is equal to q. V designates that function of
-v, to which the resistance is proportional, and Q is such a function of q, as V is of v. From
-these put in place the body is slowed down, as it is moved through the element Pp, by
+v, to which the resistance is proportional, and Q is such a function of q, as V is of v. 
+
+From these put in place the body is slowed down, as it is moved through the element Pp, by
 the strength of the resistance VQ (383); meanwhile likewise it is accelerated by the
 absolute force [i.e. acceleration or force per unit mass] p. On account of which the body
 is accelerated in travelling through the element Pp by a strength of force equal to p - VQ .
@@ -138,11 +140,12 @@ Hence γ = 1α-α . Whereby if the law of the resistance is vα , then the absol
 α
 be equal to Bx 1-α , where the equation defining the speed can be reduced to the
 homogeneous case.
-Scholium 4.
+
+
+## Scholium 4
+
 418. Thus we are about to explore these rectilinear motions in resistive mediums, as first
 we are to put in place an absolute constant force, and then we progress to several
 centripetal forces. And with these explained we contemplate inverse questions, as we did
 in the preceding chapter, and from the given properties of the motion so we elicit the
 absolute force and then the resistive force. [p. 175]
-
-

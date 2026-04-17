@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1n
+heading: Chapter 1b
 title: "Proposition 1"
 date: 2025-03-20
 weight: 6
@@ -42,21 +42,21 @@ along Mm with a speed, which is to the former speed as Mm to Mv; whereby the spe
 Since truly with which the body describes the element of the curve Mm, is equal to Mm
 Mv Mvm is the triangle for the rectangle mn, thus Mm < Mv, [p. 6] this speed is less than the
 previous speed c and the decrease in the speed is equal to
-( Mv − Mm )c
-. For the value of
-Mv
+( Mv − Mm )c. For the value of
+
+...
+
 this can be found MO, the radius of osculation of the curve at M which is equal to r and
 the element Mm is equal to ds; and this is, on account of the angle O = angle mMv,
-MO : Mm = Mm : mv , from which there comes about mv = dsr and
-2
-From this the decrement in the speed can now be obtained, while the element of the curve
-ds is traversed, equal to cds2 , of which with the whole gives the decrement of the speed,
-2
-2r
+MO : Mm = Mm : mv , from which there comes about mv = dsr and ...
 
-2
+From this the decrement in the speed can now be obtained, while the element of the curve
+ds is traversed, equal to cds2 , of which with the whole gives the decrement of the speed, ..
+
 while the body traverses the finite portion of the curve AM. But the expression cds2 is
-2r
+
+..
+
 equivalent to a differential of the second order ; therefore the integral of this is a
 differential of the first order. On account of which the decrease of the speed, after the
 body has traversed an arc of some given size, is infinitely small and the body is carried
@@ -76,11 +76,7 @@ friction.
 
 ### Corollary 2
 
-14. If the radius osculation is infinitely small, then cds2 is either a finite quantity or is a
-2
-2r
-differential of the first order. [p. 7] In the first case the body parts with a finite change in
-the speed, in the other truly it is infinitely small.
+14. If the radius osculation is infinitely small, then cds2 is either a finite quantity or is a .. differential of the first order. [p. 7] In the first case the body parts with a finite change in the speed, in the other truly it is infinitely small. 
 
 
 ### Corollary 3
@@ -129,17 +125,14 @@ describes the element AB, by the force of inertia,
 previous speed which was c, this motion is taken
 in two parts, the one in the direction BC, and the
 other in the direction normal to BC, which
-cannot be effected. Therefore by sending the perpendicular DC from D to BC, the body
-moves along BC with another motion, with a speed which is to the first speed as BC to
+cannot be effected. 
+
+Therefore by sending the perpendicular DC from D to BC, the body moves along BC with another motion, with a speed which is to the first speed as BC to
 BD, i. e. as ( 1 − dz 2 ) to 1. Therefore the speed along BC is equal to c ( 1 − dz 2 )
 or c − cdz
+
 ; whereby the decrement of the speed is cdz
-, which is equivalent to a
-2
-2
-2
-2
-differential of the second order. From which it is understood, as long as the angle CBD of
+, which is equivalent to a  ... differential of the second order. From which it is understood, as long as the angle CBD of
 the curve is infinitely small, the motion of the body progresses at a steady rate. But on the
 curve the angle CBD is either infinitely small or the angle ABC itself is infinitely small,
 when the point falls on cusps. Consequently only cusps disturb the uniformity of the

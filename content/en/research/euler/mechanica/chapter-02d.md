@@ -2,7 +2,7 @@
 heading: Chapter 2d
 title: "Proposition 16"
 date: 2025-03-20
-weight: 20
+weight: 30
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"
@@ -13,7 +13,8 @@ c: "firebrick"
 
 136. The force q at the point b has the same effect that the force p has at the point a, if the ratio between the forces and distances is of the form q : p = b : a.
 
-DEMONSTRATION
+
+### DEMONSTRATION
 
 [To establish this, if] q is put equal to np; i. e. q = np, then b = na. Now it is
 understood that the point na is divided into n equal parts, any of which is equal to a; [p.

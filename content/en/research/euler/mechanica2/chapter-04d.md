@@ -1,8 +1,8 @@
 ---
 heading: Chapter 4d
-title: "PROPOSITION 94 Problem."
+title: "PROPOSITION 94"
 date: 2025-03-20
-weight: 106
+weight: 236
 description: ""
 author: "Euler"
 c: "firebrick"

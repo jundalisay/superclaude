@@ -2,8 +2,8 @@
 heading: Chapter 4g
 title: "Proposition 98"
 date: 2025-03-20
-weight: 112
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 242
+description: ""
 author: "Euler"
 c: "firebrick"
 ---

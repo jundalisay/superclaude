@@ -2,21 +2,20 @@
 heading: Chapter 4b
 title: "The Exponent of Resistance"
 date: 2025-03-20
-weight: 73
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 93
+description: "The exponent of the resistance is the height corresponding to its speed, which if the body has this speed, then the resistance experienced"
 author: "Euler"
+a: "Euler"
 c: "firebrick"
 ---
 
 
-
-
 ## DEFINITION 19
 
-376. The exponent of the resistance is the height corresponding to its speed, which if the
-body has this speed, then the resistance experienced is equal to the force of gravity. It is
-clear that in this case the body is slowed down by the resistance to the same extent as it
-would be slowed in moving up under the force of gravity. [The exponent of the resistance
+376. The exponent of the resistance is the height corresponding to its speed, which if the body has this speed, then the resistance experienced is equal to the force of gravity. It is clear that in this case the body is slowed down by the resistance to the same extent as it
+would be slowed in moving up under the force of gravity. 
+
+[The exponent of the resistance
 is hence a constant associated with that resistive force, indicating its strength. In certain
 circumstances where the resistance varies with position, then it is not a constant, as
 explained below. For uniform resistance it is constant. The resistance is given as a

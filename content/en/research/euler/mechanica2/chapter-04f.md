@@ -2,21 +2,20 @@
 heading: Chapter 4f
 title: "Proposition 96"
 date: 2025-03-20
-weight: 110
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 240
+description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
-
-PROPOSITION 96. Problem.
+## PROPOSITION 96. Problem
 
 864. According to the hypothesis of gravity g acting downwards uniformly, to determine
 the line that a body projected on some surface in vacuo describes.
 
 
-## Solution
+### Solution
 
 Let APQ (Fig. 92) be a horizontal plane and the point
 M is given both on the surface, and on the line described

@@ -1,16 +1,16 @@
 ---
 heading: Chapter 6a
-title: "The Curvilinear Motion Of A Free Point In A Resistive Medium"
+title: "Proposition 104"
 date: 2025-03-20
-weight: 4
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 214
+description: ""
 author: "Euler"
+a: "Euler"
 c: "firebrick"
-draft: true
 ---
 
 
-PROPOSITION 104. THEOREM.
+## PROPOSITION 104. THEOREM.
 
 860. If a body is moving in a medium with resistance acted on by some number of
 absolute forces, the resistive force does not disturb the action of the other absolute

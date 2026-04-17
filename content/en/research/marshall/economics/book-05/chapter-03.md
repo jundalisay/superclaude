@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "Equilibrium Of Normal Demand And Supply"
 description: ""
 c: "firebrick"
-weight: 9
+weight: 7
 ---
 
 
@@ -106,13 +106,8 @@ and though each may have incidents of its own which will require separate treatm
 in the complete solution of any problem connected with it, yet all such incidents may
 be ignored, so far as the general reasonings of this Book are concerned.
 
-In calculating the expenses of production of a commodity we must take account of the
-fact that changes in the amounts produced are likely, even when there is no new invention, to be accompanied by changes in the relative quantities of its several
-factors of production. For instance, when the scale of production increases, horse or
-steam power is likely to be substituted for manual labour; materials are likely to be
-brought from a greater distance and in greater quantities, thus increasing those
-expenses of production which correspond to the work of carriers, middlemen and
-traders of all kinds.
+In calculating the expenses of production of a commodity we must take account of the fact that changes in the amounts produced are likely, even when there is no new invention, to be accompanied by changes in the relative quantities of its several
+factors of production. For instance, when the scale of production increases, horse or steam power is likely to be substituted for manual labour; materials are likely to be brought from a greater distance and in greater quantities, thus increasing those expenses of production which correspond to the work of carriers, middlemen and traders of all kinds.
 
 As far as the knowledge and business enterprise of the producers reach, they in each
 case choose those factors of production which are best for their purpose; the sum of
@@ -122,7 +117,8 @@ whenever it appears to the producers that this is not the case, they will, as a 
 work to substitute the less expensive method. And further on we shall see how in a
 somewhat similar way society substitutes one undertaker for another who is less
 efficient in proportion to his charges. We may call this, for convenience of reference,
-The principle of substitution.
-The applications of this principle extend over almost every field of economic
-inquiry13 .
 
+The principle of substitution.
+
+The applications of this principle extend over almost every field of economic
+inquiry1.

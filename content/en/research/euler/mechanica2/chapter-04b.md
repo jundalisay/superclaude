@@ -1,19 +1,20 @@
 ---
 heading: Chapter 4b
-title: "PROPOSITION 91. Problem."
+title: "PROPOSITION 91. Problem"
 date: 2025-03-20
-weight: 102
+weight: 233
 description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
+## PROPOSITION 91. Problem
 
 833. In any given surface to determine the line, that the body describes in that motion,
 acted on by no forces either in a vacuum or in a medium with some kind of resistance.
 
-## Solution
+### Solution
 
 Because the body put in place is not acted on by any absolute forces, the line described
 by that on the surface is the shortest line in vacuo (62). But the force of resistance in a

@@ -1,0 +1,226 @@
+---
+heading: Chapter 3zb
+title: "Proposition 83"
+date: 2025-03-20
+weight: 205
+description: ""
+author: "Euler"
+a: Euler
+c: "firebrick"
+---
+
+
+## PROPOSITION 83. Problem
+
+751. According to the hypothesis of a uniform force acting downwards and a uniform
+medium that resists in the square ratio of the speeds, for the given curve MA (Fig. 84)
+to find the other curve AN of this kind joined to that at A, in order that the body
+descending on some arc MA on the given curve by ascending on the curve sought
+completes the arc AN which is equal to the arc MA.
+
+
+### Solution
+
+On putting the force acting g,
+with the exponent of the
+resistance k and with the speed at
+A, that it has acquired from the
+descent on the given curve, on
+each sought curve the ascent AN
+begins, corresponding to the
+height b, for the given curve let
+the abscissa AP = x, the arc
+AM = s ; for the sought curve
+now let the abscissa AQ = t and
+the arc AN = r. With these in
+place the height corresponding to
+the speed of the descending body at M is equal to :
+and the height corresponding to the speed of the ascending body at N is equal to :
+Therefore the descent of the whole arc comes about from this equation :
+now the whole arc of the ascending body comes from this equation 
+
+Therefore between the arc of the descent and the arc of the ascent, we have this
+equation :
+or the differential of this :
+
+But since the curve MA is given, the equation is given between s and x; from which, if
+in place of dx the value of this replaced by s and ds, the equation is produced between
+t and s or between t and r since r = s; which determines the nature of the curve sought
+AN. Q.E.I.
+
+### Corollary 1
+
+752. If the lower part of the given curve MA is expressed by the equation x = αs n ,
+then for the lower part of the curve AN there is this equation :
+dt = αne k s n −1ds ,
+
+Because the smallest arc s is given by : ...
+
+thus it becomes :
+
+or only t = αs n . Therefore the smallest parts of each curve are similar to each other.
+
+
+### Corollary 2
+
+753. From the equation e dx = dt it is understood that always dt < dx or t < x.
+Therefore the point N is always put lower than the corresponding point M. From which
+it follows that the curve AN bends less towards AB than the curve AM.
+
+### Corollary 3
+
+754. On this account the curve ANC cannot be similar and equal to the curve AM,
+since in this case the points M and N are equal to the arcs AM and AN with the ends to
+be placed at the same height.
+
+### Corollary 4
+
+755. If the body on the curve MA descends from an infinite height, since at A it has
+acquired only a finite speed, then it is able to ascend to a finite altitude only. Therefore
+in this case, since the curve AM is extended to infinity, the curve ANC is unable to
+ascend beyond a certain height, or has a horizontal asymptote BC. Is also apparent
+from this that if one puts s =∝ ; then indeed there is produced dt = 0.
+
+## Scholium 1
+
+756. As it is understood from this proposition, how the curve of ascent AN can be
+found from the given curve of descent MA, thus hence in turn it is easy from the given
+curve AN to define the other. If indeed the equation is given between t and s, then ...
+
+### Corollary 5
+
+757. Since the curve of the ascents AN corresponds to the curve of the descents MA,
+the equation of this is :
+..
+
+thus, if this curve AN is taken for the curve of the descents, the corresponding abscissa
+of the curve of the ascents is equal to
+
+### Corollary 6
+
+758. If in this manner further corresponding curves are sought, then the following
+series of equations :
+Abscissa of the curve corresponding to the arc s
+
+### Corollary 7
+
+759. Therefore two contiguous curves of this series have this property, that for these
+connected at the lowest point A the body descending on the first curve ascends on the
+other an arc equal to the descending arc. Moreover, the smallest of this series of curves
+s vanishes, and thus is the
+is the horizontal straight line, on putting n =∝ , since e −∝
+k
+abscissa of the curve itself.
+
+### Example 1
+
+760. Let the given line be the right vertical line ; then we have x = s. Hence ANE is
+sought for the curve of the ascension (Fig.
+85) on assuming AQ = t and AN = s this
+equation is obtained :
+
+
+With the exponential quantity
+eliminated, then the equation is :
+From which equation it is evident that the curve ANE is a tractrix arising from a string
+of length 12 k upon the asymptote to the horizontal BD. Whereby the height AB of the
+asymptote is then equal to 12 k . Now if this tractrix ANE is itself taken for the curve of
+descent then to that there corresponds the curve sought, the abscissa of this
+∫
+−4 s
+corresponding to the arc s is equal to e k ds ; [p. 418] which curve therefore is again
+a tractrix having a horizontal asymptote, of which the asymptote has been raised by
+the interval 14 k above A, to which the length of the string is equal. Now all the curves
+of the above series are tractrices which are generated by strings of which the lengths
+constitute this series : k0 , k2 , k4 , k6 etc. Clearly the vertical straight line is to be
+considered as the tractrix of which the generating string is k0 or infinite. Moreover the
+last of this series of tractrices becomes the horizontal straight line drawn through A.
+
+
+### Example 2
+
+761. If the line of the descents is a straight line MA inclined in some manner to the
+horizontal (Fig. 85), thus in order that MA (s): AP (x) = α :1 or dx = ds
+, this equation
+α
+is obtained for the curve sought AN :
+−2 s
+αdt = e k ds ,
+and the integral of this is :
+
+From which equations for the adjoining curve arises 
+
+Which is also the equation for generating the above tractrix, with a string of
+length k2 with the horizontal asymptote BD , on taking AB = 2kα ; and this tractrix must
+pass through A. The following curves of the series are all tractrices also, as in the
+preceding example, of which the generating strings are k0 , k2 , k4 , k6 etc. , now of these
+asymptotes the distances from the point A are held in this progression [p.
+419] 0kα , 2kα , 4kα , 6kα etc. Clearly all these tractrices make an angle with the vertical
+axis AB equal to the angle PAM.
+
+### Corollary 8
+
+762. Of these tractrices that, which first or precedes the line MA, hence has this
+property that the body descending on that afterwards ascending on the line AM
+traverses equal distances.
+
+### Corollary 9
+
+763. Therefore according to the curve of the
+descents CA (Fig. 86) to be found, to that
+corresponds the right inclined line AM, above
+the asymptote to the horizontal, the tractrix
+CA is described by a string of length k2 and on
+that the applied line Ab = 2kα is taken, and
+from A the right inclined line AM is
+constructed ; and then CA is the curve of the
+descents, to which there corresponds the line
+AM for the ascents.
+
+## Scholium 2
+
+764. Here the counterpart case can be of service, examples of the inverse problem, in
+which from a given curve of the ascents the curve of the descents is required.
+
+### Example 3
+
+765. Let the curve of the descents be the given cycloid MA (Fig. 84), the nature of
+which can be expressed by the equation
+
+2ax = s 2
+or the diameter of the generating circle is equal to a2 . Hence it follows that
+dx = sds
+,
+a
+and thus the equation is found for the other curve of the ascents AN
+−2 s
+adt = e k sds ,
+the integral of this is 
+
+which on account of
+
+goes into this equation :
+This curve at A, as has now been said, has a horizontal tangent. Now also it has a
+horizontal asymptote BC; the height BA of this is found if s becomes equal to ∝ .
+
+Moreover in this case making e k = 0 ; whereby it then follows that t = AB = 4k a .
+From this it is understood that the curve must have a point of inflection somewhere ;
+which can be found, if on putting dt constant there is placed dds = 0. Hence now there
+is produced 1 = 2ks or s = k2 . Whereby if the arc is taken AN = k2 , then N is the point of
+
+inflection; to which there corresponds the abscissa AQ = 4k a − 4kae or BQ = 2kae .
+Concerning which is always the case that AB : BQ = e : 2 = 2,71828 : 2.
+
+## Scholium 3
+
+766. This problem was proposed anonymously in the Act. Lips. A. 1728 [Problema
+geometris propositum, p. 528.] and the solution of this was given in the Comment.
+Acad. Petrop.A. 1729 by the most distinguished D. Bernoulli who used another
+method. [Dan. Bernoulli, A theorem concerning the curvilinear motion of bodies that
+experience resistance in proportion to the squares of their speed, Comment. Acad. sc.
+Petrop.4 (1730/1), 1735, p. 136.] [p. 421] Now beside this condition, that anonymous
+person required chiefly a single continuous curve, one branch of which was for the
+descent, and the other serving for the ascent, and innumerable curves of this kind are
+given, which we uncover in the following proposition.
+
+

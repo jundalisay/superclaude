@@ -2,7 +2,7 @@
 heading: Chapter 2e
 title: "Proposition 19"
 date: 2025-03-20
-weight: 22
+weight: 32
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"

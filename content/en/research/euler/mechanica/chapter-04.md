@@ -1,9 +1,10 @@
 ---
 heading: Chapter 4
-title: "The Motion Of Free Points In A Medium With Resistance"
+title: "The law of the resistance"
 date: 2025-03-20
-weight: 71
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 91
+lastmod: 2026-04-16
+description: "The law of the resistance is the force or function of the speed of the body, to which the resistance is in proportion"
 author: "Euler"
 c: "firebrick"
 ---
@@ -11,8 +12,7 @@ c: "firebrick"
 
 ## DEFINITION 18
 
-367. The law of the resistance is the force or function of the speed of the body, to which
-the resistance is in proportion. Thus if the resistance is proportional to the square of the
+367. The law of the resistance is the force or function of the speed of the body, to which the resistance is in proportion. Thus if the resistance is proportional to the square of the
 speed, the law of the resistance is the square of the speed.
 
 ### Corollary 1
@@ -22,27 +22,27 @@ forwards with different speeds, how their motions diminish between themselves. A
 from the given decrease in the speed of one point the decreases in the speeds of the rest
 can also be found.
 
-Corollary 2.
+### Corollary 2
 
 369. If therefore from one step in the speed given for the ratio of the resistance to the
 force of gravity, for all the other steps too the ratio between the resistance and the force
 of gravity can be found from the law of the resistance. And from this the effect of the
 resistance on the motion of the body can be found.
 
-Scholium 1.
+## Scholium 1
 
-370. Certainly the strength of the resistance extends as far as the general idea of force and
-thus it is homogeneous with the force of gravity, as this will become apparent when the
-motion of bodies in fluids is treated. Therefore an absolute force can always be assigned
-to produce the same effect on the body as resistance. Truly this absolute force will always
+370. The strength of the resistance extends as far as the general idea of force and thus it is homogeneous with the force of gravity, as this will become apparent when the motion of bodies in fluids is treated.
+
+Therefore an absolute force can always be assigned to produce the same effect on the body as resistance. Truly this absolute force will always
 depend on the speed of the body, since on this account, in the expression of this, the
-speed or the height corresponding to the speed will be present. Therefore in this way the
-motion of the body in a medium with resistance is reduced to the motion of a body acted
+speed or the height corresponding to the speed will be present.
+
+Therefore in this way the motion of the body in a medium with resistance is reduced to the motion of a body acted
 on by an absolute force, since the laws will have been set out as in the second chapter
 above, from which all the questions can be resolved. [Thus, one assumes that the
 medium is at rest, so that absolute forces are acting.]
 
-Scholium 2.
+## Scholium 2
 
 371. The direction of the force of the resistance in this tract of ours will always be in
 agreement with the motion of the body and in the opposite direction (117). On account of
@@ -53,21 +53,21 @@ that motion is one of being accelerated. Indeed it is not possible to have this 
 body at rest at a point in a fluid, but yet in the calculation this often occurs for the given
 motion of the body in the fluid investigated.
 
-Corollary 3.
+### Corollary 3
 
 372. Therefore the motion of a body in a fluid with resistance, if not acted on by any
 other force, must be to move in a straight line. For since the direction of the motion is not
 changed by a resistive force, the motion of the body, that naturally peruses a straight line,
 must always by necessity be made in the same straight line.
 
-Corollary 4.
+### Corollary 4
 
 373. If in addition an absolute force is acting, the direction of which is always in the same
 direction as the motion, then the body in the resistive medium also proceeds in a straight
 line. For neither will this absolute force nor the resistive force change the direction of the
 motion.
 
-Scholium 3.
+## Scholium 3
 
 374. Therefore in this chapter, in which we have only established for rectilinear motion to be explained, we do not join other absolute forces with the resistive force, except when
 their directions agrees with the direction of the motion. On account of this, it is possible
@@ -75,8 +75,9 @@ to consider all the forces that we have used in the preceding chapter with resis
 included. Moreover before we go forwards to absolute forces, it will be convenient to put
 the motion of bodies impeded by a single resistive force under scrutiny, from which it
 will be easier for us to progress from simpler to more complex situations.
-[p. 156]
-Scholium 4.
+
+
+## Scholium 4
 
 375. In the expression of the law of resistance or in that function of the speed, besides the
 height corresponding to the speed v there can be constant quantities present, but we

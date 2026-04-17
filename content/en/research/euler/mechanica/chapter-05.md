@@ -1,32 +1,29 @@
 ---
 heading: Chapter 5
-title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
+title: "The Tangential Force"
+# Rectilinear Motion Of A Free Point Acted On By Absolute Forces
 date: 2025-03-20
-weight: 4
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 114
+description: "A body describes the curved line AMB (Fig. 47) when acted upon by a force. The tangential force on the body is the component of the force along the direction of the tangent TMt to the curve at the point M"
 author: "Euler"
 c: "firebrick"
-draft: true
+a: Euler
 ---
 
 
-THE CURVILINEAR MOTION OF FREE POINTS ACTED ON BY ABSOLUTE FORCES OF ANY KIND
+<!-- THE CURVILINEAR MOTION OF FREE POINTS ACTED ON BY ABSOLUTE FORCES OF ANY KIND -->
 
-DEFINITION 21.
+## DEFINITION 21. 
 
-543. A body describes the curved line AMB (Fig. 47) when acted upon by a force. The
-tangential force on the body is the component of the force along the direction of the
-tangent TMt to the curve at the point M.
+543. A body describes the curved line AMB (Fig. 47) when acted upon by a force. The tangential force on the body is the component of the force along the direction of the tangent TMt to the curve at the point M.
 
 Corollary 1.
 
-544. Therefore the tangential force exerts no other
-effect on the body while the element Mm is
-traversed, except that the motion of the body is
-either accelerated or retarded, since clearly the body
+544. Therefore the tangential force exerts no other effect on the body while the element Mm is
+traversed, except that the motion of the body is either accelerated or retarded, since clearly the body
 is pulled either following the direction of MT or Mt.
 
-Corollary 2.
+### Corollary 2.
 
 545. Therefore when a body is moving along a
 curved line, the tangential force continually changes
@@ -78,18 +75,16 @@ resolve the individual forces into two parts, for these are required to be resol
 three parts, on account of the three dimensions in which the body is moving.
 
 
-PROPOSITION 70.PROBLEM. 
 
+## PROPOSITION 70.PROBLEM
 
 552. If a body, as it traverses the element Mm (Fig. 47) in a plane, is acted on by two
 forces, the one normal and the other tangential, to determine the effect of each in altering
 the motion of the body.
 
-SOLUTION.
+### SOLUTION
 
-Let the speed of the body describing the element
-Mm correspond to the height v, the force pulling
-along the normal MR is equal to N, and the
+Let the speed of the body describing the element Mm correspond to the height v, the force pulling along the normal MR is equal to N, and the
 tangential force pulling along MT is equal to T, the
 element Mm = ds and the radius of osculation at M
 = r. [Which we now usually call the radius of
@@ -97,8 +92,8 @@ curvature.]
 
 To determine the effect of the force N, since the
 direction of this is along the normal at Mm, we use
-the formula (165), which is npr = Ac 2 . [p. 228]
-p
+the formula (165), which is npr = Ac 2
+
 This becomes pr = 2 Av (209). But here N has been put in place of A for us ; for we
 understand by N not only the impression of the force N on the body, but the strength of
 the acceleration or the absolute force divided by the mass of the body, [which is A] (213).
@@ -145,5 +140,3 @@ Nr .
 product of the tangential acceleration and the element of distance traversed by the body
 [p. 229]. Or the element of v is to the element of distance described ds as the tangential
 acceleration is to the acceleration of gravity.
-
-

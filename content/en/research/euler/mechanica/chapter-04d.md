@@ -1,8 +1,8 @@
 ---
 heading: Chapter 4d
-title: "The Exponent of Resistance"
+title: "Proposition 51"
 date: 2025-03-20
-weight: 75
+weight: 97
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"

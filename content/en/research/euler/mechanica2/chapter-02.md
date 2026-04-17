@@ -10,7 +10,7 @@ c: "firebrick"
 
 
  
-PROPOSITION 12. Problem.
+## PROPOSITION 12. Problem.
 
 83. A body which is moving on the curve AM (Fig.12) is acted on everywhere by a force
 MF, the direction of which is parallel to the axis AP; to determine the speed of the body
@@ -27,25 +27,17 @@ resolved into the sides, clearly the normal MN and the
 tangent MT; there is ds : dx = MF : MT and ds : dy = MF : MN .
 
 Therefore there is hence produced the tangential force
-pdx
-pdy
-MT = ds and the normal force MN = ds . It is evident
-∫
-∫
-here that dv = − pdx and v = C − pdx (42). Moreover with the integral thus taken pdx ,
-∫
-in order that it vanishes with x = 0, we have v = b − pdx ; [p. 40] from which equation
-the speed of the body is known at individual points. From the same equation it is found
-also the time in which the arc AM is completed; for with the time put as t, there results
-pdy
-The normal force MN = ds is completely devoted to pressing the body to the curve
-along MN (39), therefore it increases the pressing force arising from the centrifugal force,
-since MN falls in the region opposite to the radius of osculation MO. Whereby, with the radius of osculation put as MO = r , the centrifugal force is equal to 2rv (20), and the total
-pdy
+pdx pdy MT = ds and the normal force MN = ds . It is evident  here that dv = − pdx and v = C − pdx (42). Moreover with the integral thus taken pdx ,∫
+in order that it vanishes with x = 0, we have v = b − pdx ; [p. 40] from which equation the speed of the body is known at individual points. From the same equation it is found also the time in which the arc AM is completed; for with the time put as t, there results ...pdy
+
+The normal force MN = ds is completely devoted to pressing the body to the curve along MN (39), therefore it increases the pressing force arising from the centrifugal force, since MN falls in the region opposite to the radius of osculation MO. Whereby, with the radius of osculation put as MO = r , the centrifugal force is equal to 2rv (20), and the total
+
+...
+
 force pressing on the curve next to MN = ds + 2rv . Q.E.I.
 
-### Corollary 1
 
+### Corollary 1
 
 84. The speed at M is therefore of such a size as it would be at P, if the body rises with
 the same initial speed b along AP to the particular heights acted on by the same force.

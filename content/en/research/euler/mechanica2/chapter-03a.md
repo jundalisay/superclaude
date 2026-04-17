@@ -1,30 +1,27 @@
 ---
 heading: Chapter 3a
-title: "The Motion Of A Point On A Given Line In A Medium With Resistance"
+title: "Proposition 53"
+# title: "The Motion Of A Point On A Given Line In A Medium With Resistance"
 date: 2025-03-20
-weight: 4
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 113
+description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
+## PROPOSITION 53. Problem
 
-PROPOSITION 53. Problem.
+465. If a body is acted on by a given force g in a medium with whatever resistance, to determine the motion of the body descending on a given curve AM (Fig.57), and the compressive force sustained by the curve at particular points.
 
-465. If a body is acted on by a given force g in a medium with whatever resistance, to
-determine the motion of the body descending on a given curve AM (Fig.57), and the
-compressive force sustained by the curve at particular points.
-
-Solution.
+### Solution
 
 The abscissa AP = x is placed along the vertical
 AP , the applied line PM = y and the arc AM = s; let
 the height corresponding to the speed of the body at
 M be equal to v, and the resistance at M is equal to R.
-Therefore it is evident from the previous chapter,
-(93), that if there is no resistance, then [the
-differential of the height becomes]
+
+Therefore, if there is no resistance, then [the differential of the height becomes]
 dv = gdx.
 
 The resistance has lessened this increment of the
@@ -48,7 +45,9 @@ such as gdx and – Rds may be viewed in the modern context as the increments of
 some papers on what was then termed the vis viva.
 
 Euler did not enter into this matter, and adhered to experimental facts when setting
-down his equations. Thus we should not view these equations from the modern
+down his equations. 
+
+Thus we should not view these equations from the modern
 physicist's conventional viewpoint, but rather from the mathematician's viewpoint. The
 idea that a moving body had something in common with the same body at rest at a greater
 height could perhaps best be explained at the time by referring to Galileo's experiments
@@ -58,7 +57,9 @@ of the descent.
 
 This gave Euler the idea of replacing squares of speeds with heights : he
 had no hesitation in ascribing such a function v equal to the height above the earth, for
-which v was related to the speed of the body. In the first equation above, the force g is
+which v was related to the speed of the body. 
+
+In the first equation above, the force g is
 the force of gravity somewhere, while on the earth's surface it has the value g = 1. Thus,
 1.dv = gdx is simply a proportionality between two forces or accelerations per unit mass,
 while dv = dx for vertical motion near the surface or the earth. Such a proportionality is
@@ -68,13 +69,14 @@ V 2 = 2 gx = 2.1.v gives VΔV = gΔx = 1.Δv , here assumed at rest initially. I
 have seen that even horizontal speeds are ascribed by such heights, which is thus little
 more than a mathematical convenience.
 
-
 If we view such equations as energy equations,
 then a factor of 2 or 12 is missing; hence these are not energy equations, for instead they
 are equations used to relate accelerations, and to transform squares of speeds into
 corresponding heights under the earth's gravity, and which has the great advantage of
 removing all speed and hence time dependence from the equations, which are thus
-rendered homogeneous for integration, etc. When the need arises, as in centripetal force
+rendered homogeneous for integration, etc. 
+
+When the need arises, as in centripetal force
 below, the factor of 2 is inserted to deal with the absolute acceleration. In other places,
 where actual numbers are required, Euler referred to Huygens pendulum experiments to
 get the correct length of the pendulum for a swing of one second.
@@ -89,16 +91,10 @@ And if the body descends from rest at A, the integration is thus to be put in pl
 that on placing x = 0 the height v = 0 also. Now if the body starts the descent at A with a
 given speed, on putting x = 0 in the integration, v must be made equal to the height of that
 initial speed. Moreover since the speed of the body is found, likewise the time is
-obtained, in which any arc AM you please is completed, by taking ds . As for the force
-∫ v
-sustained by the curve at M, it is observed that the curve at M is pressed on by two forces,
-clearly the centrifugal force and the normal force. We put the curve to be convexEULER'S MECHANICA VOL. 2.
-Chapter 3a.
-Translated and annotated by Ian Bruce.
-page 372
-downwards and the element dx constant; the length of the radius of osculation directed
-along the opposite normal MN is equal to
-ds 3 ,
+obtained, in which any arc AM you please is completed, by taking ds . 
+
+As for the force ∫ v .. sustained by the curve at M, it is observed that the curve at M is pressed on by two forces,
+clearly the centrifugal force and the normal force. We put the curve to be convex  downwards and the element dx constant; the length of the radius of osculation directed along the opposite normal MN is equal to ds 3 ,
 dxddy
 and thus the centrifugal force is equal to
 2vdxddy
@@ -112,13 +108,7 @@ ds
 for the normal force arises only from the absolute force acting g, since the direction of the
 force of resistance is placed along the tangent and thus does not generate a normal force.
 Consequently the total force, which presses on the curve at M along the direction of the
-normal MN , is equal to
-gdy 2vdxddy
-+
-.
-ds
-ds 3
-Q.E.I.
+normal MN , is equal to .. Q.E.I
 
 ### Corollary 1
 
@@ -128,7 +118,7 @@ resistance by the same force as in a vacuum on account of the speed, upon which 
 centrifugal force depends, which is not varies by the resistance of the medium.
 
 
-Corollary 2.
+### Corollary 2
 
 467. In this descent the body does not have the maximum speed as in a vacuum in which
 the tangent is horizontal at the point B, but at the place where dv = 0 at which it has the
@@ -137,25 +127,21 @@ in that point, where the sine of the angle, that the tangent to the curve makes 
 to the horizontal, is to the whole sine as the absolute force g to the resistance R at that
 place.
 
-Corollary 3.
+### Corollary 3
 
 468. Therefore the speed of the body is increased as far as this point, in which the speed
 is a maximum; now beyond this point the speed decreases again since then Rds exceeds
 gdx and on this account makes dv negative.
 
-Corollary 4
+### Corollary 4
 
 469. If the resistance is as some power of the speed of which the exponent is 2m, and if
 the resisting medium is uniform, the exponent of this is k, where k is the height
 corresponding to the speed with which the body is moving, the resistance is allowed be
 made equal to the force of gravity; in this case
 
+..
 
-
-m
-R = vm
-k
-page 373
 and this equation is obtained defining the motion [note : the speed corresponds to the
 square root of the height always, hence vm is proportional to the speed] : p. 236]
 m
@@ -178,7 +164,9 @@ along MN, that the curve sustains, is equal to ds −
 2vdxddy
 .
 ds 3
-Corollary 6.
+
+### Corollary 6.
+
 471. If the medium is uniform, and the exponent of this is k, the resistance is now
 proportional to some function of v, which is V, and such a function K of k is taken, as V
 is of v; the resistance is given by R = VK and thus this equation is obtained :
@@ -186,7 +174,7 @@ dv = − gdx + Vds
 K
 with the axis BQ taken.
 
-Scholium 1.
+## Scholium 1
 
 472. I have given this formula twice for the increment of the speed for the two axes AP
 and BQ, since that is soon to be used in what follows. [p. 237] Clearly when the descent
@@ -195,7 +183,7 @@ on the same curve several descents as far as the fixed point B are to be conside
 usually comes about in oscillatory motion, we use the second formula, in which BQ is
 had for the axis.
 
-Scholium 2.
+## Scholium 2
 
 473. Since the formula, from which the motion of the body on the given line must be
 determined, has thus been prepared, in order that a few indeterminate cases can be
@@ -222,7 +210,9 @@ the previous separation of the indeterminates. Comment. acad. sc. Petrop. 1 (172
 comes about, if Vds is a single power of v and x. Besides these there are two other cases
 that permit integration, but these are not relevant here. [p. 238] The first is, if the
 resistance vanishes, which case has indeed been set out sufficiently in the previous
-chapter. The other case is, if the force g vanishes; concerning which there is no need that
+chapter. 
+
+The other case is, if the force g vanishes; concerning which there is no need that
 we treat this, since the motion on any given line agrees with the motion on a straight line,
 about which enough has been said in the previous book. Besides also the equation can be
 separated in many more cases if it is the case that V = v 2 , clearly whenever the equation
@@ -234,7 +224,7 @@ solution of a problem may be required, in addition to these three cases set out,
 immediately afterwards we explain this case also, in which the resistance is proportional
 to the fourth power of the speed.
 
-Scholium 3.
+## Scholium 3
 
 474. Since this tract on the motion in a resisting medium is by all accounts difficult and
 complex, we will not apply ourselves to many hypotheses of the forces acting, as we did

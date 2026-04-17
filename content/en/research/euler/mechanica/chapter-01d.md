@@ -3,7 +3,7 @@ heading: Chapter 1d
 title: "Proposition 3-4"
 date: 2025-03-20
 weight: 10
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+description: "In motion with any non-uniformity, the smallest elements of the distance are considered to be traversed by uniform motions"
 author: "Euler"
 c: "firebrick"
 ---

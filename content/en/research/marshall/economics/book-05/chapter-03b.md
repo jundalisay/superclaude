@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Chapter 3b
 title: "Equilibrium Of Normal Demand And Supply"
 description: ""
 c: "firebrick"
@@ -164,14 +164,13 @@ appears now to be their full and complete work. The fact that the general condit
 life are not stationary is the source of many of the difficulties that are met with in
 applying economic doctrines to practical problems.
 Of course Normal does not mean Competitive. Market prices and Normal prices are
-alike brought about by a multitude of influences, of which some rest on a moral basis and some on a physical; of which some are competitive and some are not. It is to the
-persistence of the influences considered, and the time allowed for them to work out
+alike brought about by a multitude of influences, of which some rest on a moral basis and some on a physical; of which some are competitive and some are not. It is to the persistence of the influences considered, and the time allowed for them to work out
 their effects that we refer when contrasting Market and Normal price, and again when
-contrasting the narrower and the broader use of the term Normal price21 .
-§ 7. The remainder of the present volume will be chiefly occupied with interpreting
-and limiting this doctrine that the value of a thing tends in the long run to correspond
-to its cost of production. In particular the notion of equilibrium, which has been
-treated rather slightly in this chapter, will be studied more carefully in chapters V. and
+contrasting the narrower and the broader use of the term Normal price.
+
+§ 7. The remainder of the present volume will be chiefly occupied with interpreting and limiting this doctrine that the value of a thing tends in the long run to correspond to its cost of production.
+
+In particular the notion of equilibrium, which has been treated rather slightly in this chapter, will be studied more carefully in chapters V. and
 XII. of this Book: and some account of the controversy whether "cost of production"
 or "utility" governs value will be given in Appendix I. But it may be well to say a
 word or two here on this last point.
@@ -184,8 +183,9 @@ second; but the statement is not strictly accurate, and is to be excused only so
 it claims to be merely a popular and not a strictly scientific account of what happens.
 In the same way, when a thing already made has to be sold, the price which people
 will be willing to pay for it will be governed by their desire to have it, together with
-the amount they can afford to spend on it. Their desire to have it depends partly on the
-chance that, if they do not buy it, they will be able to get another thing like it at as low
+the amount they can afford to spend on it.
+
+Their desire to have it depends partly on the chance that, if they do not buy it, they will be able to get another thing like it at as low
 a price: this depends on the causes that govern the supply of it, and this again upon
 cost of production. But it may so happen that the stock to be sold is practically fixed.
 This, for instance, is the case with a fish market, in which the value of fish for the day
@@ -209,22 +209,17 @@ In such a case, if a person chooses to neglect market fluctuations, and to take 
 granted that there will anyhow be enough demand for the commodity to insure that
 some of it, more or less, will find purchasers at a price equal to this cost of
 production, then he may be excused for ignoring the influence of demand, and
-speaking of (normal) price as governed by cost of production—provided only he does not claim scientific accuracy for the wording of his doctrine, and explains the
-influence of demand in its right place.
+speaking of (normal) price as governed by cost of production—provided only he does not claim scientific accuracy for the wording of his doctrine, and explains the influence of demand in its right place.
 
 Thus we may conclude that, as a general rule, the shorter the period which we are
 considering, the greater must be the share of our attention which is given to the
 influence of demand on value; and the longer the period, the more important will be
 the influence of cost of production on value. For the influence of changes in cost of
 production takes as a rule a longer time to work itself out than does the influence of
-changes in demand. The actual value at any time, the market value as it is often
-called, is often more influenced by passing events and by causes whose action is fitful
-and short lived, than by those which work persistently. But in long periods these fitful
-and irregular causes in large measure efface one another's influence; so that in the
-long run persistent causes dominate value completely. Even the most persistent causes
-are however liable to change. For the whole structure of production is modified, and
-the relative costs of production of different things are permanently altered, from one
-generation to another.
+changes in demand. The actual value at any time, the market value as it is often called, is often more influenced by passing events and by causes whose action is fitful and short lived, than by those which work persistently. 
+
+
+But in long periods these fitful and irregular causes in large measure efface one another's influence; so that in the long run persistent causes dominate value completely. Even the most persistent causes are however liable to change. For the whole structure of production is modified, and the relative costs of production of different things are permanently altered, from one generation to another.
 
 When considering costs from the point of view of the capitalist employer, we of
 course measure them in money; because his direct concern with the efforts needed for

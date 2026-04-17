@@ -2,7 +2,8 @@
 heading: Chapter 2g
 title: "Proposition 22"
 date: 2025-03-20
-weight: 28
+weight: 35
+a: "Euler"
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
 c: "firebrick"

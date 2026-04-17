@@ -1,6 +1,5 @@
 ---
-title: "Marshall, Alfred"
-heading: Unenlightened
+title: "Principles of Economics"
 description: ""
 a: "Marshall"
 c: "firebrick"

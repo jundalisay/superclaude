@@ -11,23 +11,53 @@ description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nep
 
 
 
-## ULYSSES AND HIS MEN GO TO THE HOUSE OF LAERTES—THE PEOPLE OF ITHACA COME OUT TO ATTACK ULYSSES, BUT MINERVA CONCLUDES A PEACE.
+<!-- ## ULYSSES AND HIS MEN GO TO THE HOUSE OF LAERTES—THE PEOPLE OF ITHACA COME OUT TO ATTACK ULYSSES, BUT MINERVA CONCLUDES A PEACE. -->
 
-Then Mercury of Cyllene summoned the ghosts of the suitors, and in his hand he held the fair golden wand with which he seals men’s eyes in sleep or wakes them just as he pleases; with this he roused the ghosts and led them, while they followed whining and gibbering behind him. As bats fly squealing in the hollow of some great cave, when one of them has fallen out of the cluster in which they hang, even so did the ghosts whine and squeal as Mercury the healer of sorrow led them down into the dark abode of death. When they had passed the waters of Oceanus and the rock Leucas, they came to the gates of the sun and the land of dreams, whereon they reached the meadow of asphodel where dwell the souls and shadows of them that can labour no more.
+Then Mercury of Cyllene summoned the ghosts of the suitors.
+
+In his hand, he held the fair golden wand with which he seals men’s eyes in sleep or wakes them just as he pleases./
+
+With this, he roused the ghosts and led them, while they followed whining and gibbering behind him. 
+
+As bats fly squealing in the hollow of some great cave, when one of them has fallen out of the cluster in which they hang, even so did the ghosts whine and squeal as Mercury the healer of sorrow led them down into the dark abode of death. When they had passed the waters of Oceanus and the rock Leucas, they came to the gates of the sun and the land of dreams, whereon they reached the meadow of asphodel where dwell the souls and shadows of them that can labour no more.
 
 Here they found the ghost of Achilles son of Peleus, with those of Patroclus, Antilochus, and Ajax, who was the finest and handsomest man of all the Danaans after the son of Peleus himself.
 
-They gathered round the ghost of the son of Peleus, and the ghost of Agamemnon joined them, sorrowing bitterly. Round him were gathered also the ghosts of those who had perished with him in the house of Aegisthus; and the ghost of Achilles spoke first.
+They gathered round the ghost of Achilles, and the ghost of Agamemnon joined them, sorrowing bitterly.
 
-“Son of Atreus,” it said, “we used to say that Jove had loved you better from first to last than any other hero, for you were captain over many and brave men, when we were all fighting together before Troy; yet the hand of death, which no mortal can escape, was laid upon you all too early. Better for you had you fallen at Troy in the hey-day of your renown, for the Achaeans would have built a mound over your ashes, and your son would have been heir to your good name, whereas it has now been your lot to come to a most miserable end.”
+Round him were gathered also the ghosts of those who had perished with him in the house of Aegisthus; and the ghost of Achilles spoke first.
 
-“Happy son of Peleus,” answered the ghost of Agamemnon, “for having died at Troy far from Argos, while the bravest of the Trojans and the Achaeans fell round you fighting for your body. There you lay in the whirling clouds of dust, all huge and hugely, heedless now of your chivalry. We fought the whole of the livelong day, nor should we ever have left off if Jove had not sent a hurricane to stay us. Then, when we had borne you to the ships out of the fray, we laid you on your bed and cleansed your fair skin with warm water and with ointments. The Danaans tore their hair and wept bitterly round about you. Your mother, when she heard, came with her immortal nymphs from out of the sea, and the sound of a great wailing went forth over the waters so that the Achaeans quaked for fear. They would have fled panic-stricken to their ships had not wise old Nestor whose counsel was ever truest checked them saying, ‘Hold, Argives, fly not sons of the Achaeans, this is his mother coming from the sea with her immortal nymphs to view the body of her son.’
+{{< l a="Achilles" >}}
+Son of Atreus, we used to say that Jove had loved you better from first to last than any other hero, for you were captain over many and brave men, when we were all fighting together before Troy; yet the hand of death, which no mortal can escape, was laid upon you all too early. Better for you had you fallen at Troy in the hey-day of your renown, for the Achaeans would have built a mound over your ashes, and your son would have been heir to your good name, whereas it has now been your lot to come to a most miserable end.
+{{< /l >}}
 
-“Thus he spoke, and the Achaeans feared no more. The daughters of the old man of the sea stood round you weeping bitterly, and clothed you in immortal raiment. The nine muses also came and lifted up their sweet voices in lament—calling and answering one another; there was not an Argive but wept for pity of the dirge they chaunted. Days and nights seven and ten we mourned you, mortals and immortals, but on the eighteenth day we gave you to the flames, and many a fat sheep with many an ox did we slay in sacrifice around you. You were burnt in raiment of the gods, with rich resins and with honey, while heroes, horse and foot, clashed their armour round the pile as you were burning, with the tramp as of a great multitude. But when the flames of heaven had done their work, we gathered your white bones at daybreak and laid them in ointments and in pure wine. Your mother brought us a golden vase to hold them—gift of Bacchus, and work of Vulcan himself; in this we mingled your bleached bones with those of Patroclus who had gone before you, and separate we enclosed also those of Antilochus, who had been closer to you than any other of your comrades now that Patroclus was no more.
 
-“Over these the host of the Argives built a noble tomb, on a point jutting out over the open Hellespont, that it might be seen from far out upon the sea by those now living and by them that shall be born hereafter. Your mother begged prizes from the gods, and offered them to be contended for by the noblest of the Achaeans. You must have been present at the funeral of many a hero, when the young men gird themselves and make ready to contend for prizes on the death of some great chieftain, but you never saw such prizes as silver-footed Thetis offered in your honour; for the gods loved you well. Thus even in death your fame, Achilles, has not been lost, and your name lives evermore among all mankind. But as for me, what solace had I when the days of my fighting were done? For Jove willed my destruction on my return, by the hands of Aegisthus and those of my wicked wife.”
+{{< l a="Agamemnon" >}}
+You died at Troy far from Argos, while the bravest of the Trojans and the Achaeans fell around you fighting for your body.
+
+There you lay in the whirling clouds of dust, all huge and hugely, heedless now of your chivalry. We fought the whole of the livelong day, nor should we ever have left off if Jove had not sent a hurricane to stay us.
+
+Then, when we had borne you to the ships out of the fray, we laid you on your bed and cleansed your fair skin with warm water and with ointments.
+
+The Danaans tore their hair and wept bitterly round about you. Your mother, when she heard, came with her immortal nymphs from out of the sea, and the sound of a great wailing went forth over the waters so that the Achaeans quaked for fear. 
+
+They would have fled panic-stricken to their ships had not wise old Nestor whose counsel was ever truest checked them saying, ‘Hold, Argives, fly not sons of the Achaeans, this is his mother coming from the sea with her immortal nymphs to view the body of her son.’
+{{< /l >}}
+
+
+
+“Thus he spoke, and the Achaeans feared no more. The daughters of the old man of the sea stood round you weeping bitterly, and clothed you in immortal raiment. The nine muses also came and lifted up their sweet voices in lament—calling and answering one another; there was not an Argive but wept for pity of the dirge they chaunted. 
+
+Days and nights seven and ten we mourned you, mortals and immortals, but on the eighteenth day we gave you to the flames, and many a fat sheep with many an ox did we slay in sacrifice around you.
+
+You were burnt in raiment of the gods, with rich resins and with honey, while heroes, horse and foot, clashed their armour round the pile as you were burning, with the tramp as of a great multitude. But when the flames of heaven had done their work, we gathered your white bones at daybreak and laid them in ointments and in pure wine. Your mother brought us a golden vase to hold them—gift of Bacchus, and work of Vulcan himself; in this we mingled your bleached bones with those of Patroclus who had gone before you, and separate we enclosed also those of Antilochus, who had been closer to you than any other of your comrades now that Patroclus was no more.
+
+“Over these the host of the Argives built a noble tomb, on a point jutting out over the open Hellespont, that it might be seen from far out upon the sea by those now living and by them that shall be born hereafter. Your mother begged prizes from the gods, and offered them to be contended for by the noblest of the Achaeans. 
+
+You must have been present at the funeral of many a hero, when the young men gird themselves and make ready to contend for prizes on the death of some great chieftain, but you never saw such prizes as silver-footed Thetis offered in your honour; for the gods loved you well. Thus even in death your fame, Achilles, has not been lost, and your name lives evermore among all mankind. But as for me, what solace had I when the days of my fighting were done? For Jove willed my destruction on my return, by the hands of Aegisthus and those of my wicked wife.”
 
 Thus did they converse, and presently Mercury came up to them with the ghosts of the suitors who had been killed by Ulysses. The ghosts of Agamemnon and Achilles were astonished at seeing them, and went up to them at once. The ghost of Agamemnon recognised Amphimedon son of Melaneus, who lived in Ithaca and had been his host, so it began to talk to him.
+
 
 “Amphimedon,” it said, “what has happened to all you fine young men—all of an age too—that you are come down here under the ground? One could pick no finer body of men from any city. Did Neptune raise his winds and waves against you when you were at sea, or did your enemies make an end of you on the mainland when you were cattle-lifting or sheep-stealing, or while fighting in defence of their wives and city? Answer my question, for I have been your guest. Do you not remember how I came to your house with Menelaus, to persuade Ulysses to join us with his ships against Troy? It was a whole month ere we could resume our voyage, for we had hard work to persuade Ulysses to come with us.”
 
@@ -79,13 +109,22 @@ On this pale fear laid hold of them, and old Halitherses, son of Mastor, rose to
 
 This was what he said, and more than half raised a loud shout, and at once left the assembly. But the rest stayed where they were, for the speech of Halitherses displeased them, and they sided with Eupeithes; they therefore hurried off for their armour, and when they had armed themselves, they met together in front of the city, and Eupeithes led them on in their folly. He thought he was going to avenge the murder of his son, whereas in truth he was never to return, but was himself to perish in his attempt.
 
-Then Minerva said to Jove, “Father, son of Saturn, king of kings, answer me this question—What do you propose to do? Will you set them fighting still further, or will you make peace between them?”
+Then Minerva said to Jove:
 
-And Jove answered, “My child, why should you ask me? Was it not by your own arrangement that Ulysses came home and took his revenge upon the suitors? Do whatever you like, but I will tell you what I think will be most reasonable arrangement. Now that Ulysses is revenged, let them swear to a solemn covenant, in virtue of which he shall continue to rule, while we cause the others to forgive and forget the massacre of their sons and brothers. Let them then all become friends as heretofore, and let peace and plenty reign.”
+{{< r a="Minerva" >}}
+Father, what do you propose to do? Will you set them fighting still further, or will you make peace between them?
+{{< /r >}}
+
+{{< l a="Jove" >}}
+My child, why should you ask me? Was it not by your own arrangement that Ulysses came home and took his revenge upon the suitors? Do whatever you like, but I will tell you what I think will be most reasonable arrangement. Now that Ulysses is revenged, let them swear to a solemn covenant, in virtue of which he shall continue to rule, while we cause the others to forgive and forget the massacre of their sons and brothers. Let them then all become friends as heretofore, and let peace and plenty reign.
+{{< /l >}}
+
 
 This was what Minerva was already eager to bring about, so down she darted from off the topmost summits of Olympus.
 
-Now when Laertes and the others had done dinner, Ulysses began by saying, “Some of you go out and see if they are not getting close up to us.” So one of Dolius’s sons went as he was bid. Standing on the threshold he could see them all quite near, and said to Ulysses, “Here they are, let us put on our armour at once.”
+Now when Laertes and the others had done dinner, Ulysses began by saying:
+
+“Some of you go out and see if they are not getting close up to us.” So one of Dolius’s sons went as he was bid. Standing on the threshold he could see them all quite near, and said to Ulysses, “Here they are, let us put on our armour at once.”
 
 They put on their armour as fast as they could—that is to say Ulysses, his three men, and the six sons of Dolius. Laertes also and Dolius did the same—warriors by necessity in spite of their grey hair. When they had all put on their armour, they opened the gate and sallied forth, Ulysses leading the way.
 
@@ -95,10 +134,29 @@ Then Jove’s daughter Minerva came up to them, having assumed the form and voic
 
 Laertes was delighted when he heard this. “Good heavens,” he exclaimed, “what a day I am enjoying: I do indeed rejoice at it. My son and grandson are vying with one another in the matter of valour.”
 
-On this Minerva came close up to him and said, “Son of Arceisius—-best friend I have in the world—pray to the blue-eyed damsel, and to Jove her father; then poise your spear and hurl it.”
+On this Minerva came close up to him:
 
-As she spoke she infused fresh vigour into him, and when he had prayed to her he poised his spear and hurled it. He hit Eupeithes’ helmet, and the spear went right through it, for the helmet stayed it not, and his armour rang rattling round him as he fell heavily to the ground. Meantime Ulysses and his son fell upon the front line of the foe and smote them with their swords and spears; indeed, they would have killed every one of them, and prevented them from ever getting home again, only Minerva raised her voice aloud, and made every one pause. “Men of Ithaca,” she cried, “cease this dreadful war, and settle the matter at once without further bloodshed.”
+{{< r a="Minerva" >}}
+Son of Arceisius—-best friend I have in the world—pray to the blue-eyed damsel, and to Jove her father; then poise your spear and hurl it.
+{{< /r >}}
 
-On this pale fear seized every one; they were so frightened that their arms dropped from their hands and fell upon the ground at the sound of the goddess’ voice, and they fled back to the city for their lives. But Ulysses gave a great cry, and gathering himself together swooped down like a soaring eagle. Then the son of Saturn sent a thunderbolt of fire that fell just in front of Minerva, so she said to Ulysses, “Ulysses, noble son of Laertes, stop this warful strife, or Jove will be angry with you.”
+As she spoke she infused fresh vigour into him, and when he had prayed to her he poised his spear and hurled it. 
 
-Thus spoke Minerva, and Ulysses obeyed her gladly. Then Minerva assumed the form and voice of Mentor, and presently made a covenant of peace between the two contending parties.
+He hit Eupeithes’ helmet, and the spear went right through it, for the helmet stayed it not, and his armour rang rattling round him as he fell heavily to the ground. 
+
+Meantime, Ulysses and his son fell upon the front line of the foe and smote them with their swords and spears; indeed, they would have killed every one of them, and prevented them from ever getting home again, only Minerva raised her voice aloud, and made every one pause.
+
+{{< r a="Minerva" >}}
+Men of Ithaca! Cease this dreadful war, and settle the matter at once without further bloodshed!
+{{< /r >}}
+
+
+On this pale fear seized every one; they were so frightened that their arms dropped from their hands and fell upon the ground at the sound of the goddess’ voice, and they fled back to the city for their lives. But Ulysses gave a great cry, and gathering himself together swooped down like a soaring eagle. Then the son of Saturn sent a thunderbolt of fire that fell just in front of Minerva, so she said to Ulysses:
+
+{{< r a="Minerva" >}}
+Ulysses, noble son of Laertes, stop this warful strife, or Jove will be angry with you.
+{{< /r >}}
+
+Thus spoke Minerva, and Ulysses obeyed her gladly. 
+
+Then Minerva assumed the form and voice of Mentor, and presently made a covenant of peace between the two contending parties.

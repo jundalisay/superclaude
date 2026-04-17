@@ -3,18 +3,16 @@ heading: Chapter 5
 title: "Equilibrium Of Normal Demand And Supply With Reference To Long And Short Periods."
 description: ""
 c: "firebrick"
-weight: 9
+weight: 19
 ---
 
 
 
-§ 1. The variations in the scope of the term Normal, according as the periods of time under discussion are long or short, were indicated in Chapter III. We are now ready to
-study them more closely. 
+§ 1. The variations in the scope of the term Normal, according as the periods of time under discussion are long or short, were indicated in Chapter III. We are now ready to study them more closely. 
 
-In this case, as in others, the economist merely brings to light difficulties that are
-latent in the common discourse of life, so that by being frankly faced they may be
-thoroughly overcome. For in ordinary life it is customary to use the word Normal in
-different senses, with reference to different periods of time; and to leave the context to
+In this case, as in others, the economist merely brings to light difficulties that are latent in the common discourse of life, so that by being frankly faced they may be thoroughly overcome.
+
+For in ordinary life it is customary to use the word Normal in different senses, with reference to different periods of time; and to leave the context to
 explain the transition from one to another. The economist follows this practice of
 every-day life: but, by taking pains to indicate the transition, he sometimes seems to
 have created a complication which in fact he has only revealed.
@@ -126,17 +124,16 @@ The price, the expectation of which just induced persons to enter the trade, mus
 sufficient to cover in the long run the cost of building up a trade connection; and a
 proportionate share of it must be added in to make up the total cost of production.]
 In a stationary state then the plain rule would be that cost of production governs value.
-Each effect would be attributable mainly to one cause; there would not be much
-complex action and reaction between cause and effect. Each element of cost would be
-governed by "natural" laws, subject to some control from fixed custom. There would
-be no reflex influence of demand; no fundamental difference between the immediate
+
+Each effect would be attributable mainly to one cause; there would not be much complex action and reaction between cause and effect. Each element of cost would be governed by "natural" laws, subject to some control from fixed custom. 
+
+There would be no reflex influence of demand; no fundamental difference between the immediate
 and the later effects of economic causes. There would be no distinction between long-
 period and short-period normal value, at all events if we supposed that in that
 monotonous world the harvests themselves were uniform: for the representative firm
 being always of the same size, and always doing the same class of business to the
 same extent and in the same way, with no slack times, and no specially busy times, its
-normal expenses by which the normal supply price is governed would be always the same. The demand lists of prices would always be the same, and so would the supply
-lists; and normal price would never vary.
+normal expenses by which the normal supply price is governed would be always the same. The demand lists of prices would always be the same, and so would the supply lists; and normal price would never vary.
 
 But nothing of this is true in the world in which we live. Here every economic force is
 constantly changing its action, under the influence of other forces which are acting
@@ -146,8 +143,6 @@ the character and the extent of demand. Further all these mutual influences take
 to work themselves out, and, as a rule, no two influences move at equal pace. In this
 world therefore every plain and simple doctrine as to the relations between cost of
 production, demand and value is necessarily false: and the greater the appearance of
-lucidity which is given to it by skilful exposition, the more mischievous it is. A man is
-likely to be a better economist if he trusts to his common sense, and practical
-instincts, than if he professes to study the theory of value and is resolved to find it
-easy.
+lucidity which is given to it by skilful exposition, the more mischievous it is. 
 
+A man is likely to be a better economist if he trusts to his common sense, and practical instincts, than if he professes to study the theory of value and is resolved to find it easy.

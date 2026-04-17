@@ -2,14 +2,14 @@
 heading: Chapter 4h
 title: "Proposition 99"
 date: 2025-03-20
-weight: 114
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 244
+description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
-PROPOSITION 99. Problem.
+## PROPOSITION 99. Problem
 
 896. Pendulums are set in motion in rotational motion ; to determine the motion and the
 curved line described on the surface of a sphere.

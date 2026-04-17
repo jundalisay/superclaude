@@ -3,7 +3,7 @@ heading: Chapter 1b
 title: "Absolute and Relative Motion"
 date: 2025-03-20
 weight: 6
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+description: "Every body that is carried from one place to another place by relative or absolute motion, passes through all the intermediate positions"
 author: "Euler"
 c: "firebrick"
 ---

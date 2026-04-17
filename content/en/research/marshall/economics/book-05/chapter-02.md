@@ -3,52 +3,48 @@ heading: Chapter 2
 title: "Temporary Equilibrium Of Demand And Supply"
 description: ""
 c: "firebrick"
-weight: 9
+weight: 5
 ---
 
 
 
-§ 1. The simplest case of balance or equilibrium between desire and effort is found
-when a person satisfies one of his wants by his own direct work. When a boy picks
-blackberries for his own eating, the action of picking is probably itself pleasurable for
-a while; and for some time longer the pleasure of eating is more than enough to repay
-the trouble of picking. But after he has eaten a good deal, the desire for more
-diminishes; while the task of picking begins to cause weariness, which may indeed be
+§ 1. The simplest case of balance or equilibrium between desire and effort is found when a person satisfies one of his wants by his own direct work. When a boy picks blackberries for his own eating, the action of picking is probably itself pleasurable for a while; and for some time longer the pleasure of eating is more than enough to repay the trouble of picking.
+
+But after he has eaten a good deal, the desire for more diminishes; while the task of picking begins to cause weariness, which may indeed be
 a feeling of monotony rather than of fatigue. Equilibrium is reached when at last his
 eagerness to play and his disinclination for the work of picking counterbalance the
-desire for eating. The satisfaction which he can get from picking fruit has arrived at its
+desire for eating. 
+
+The satisfaction which he can get from picking fruit has arrived at its
 maximum: for up to that time every fresh picking has added more to his pleasure than
 it has taken away; and after that time any further picking would take away from his
-pleasure more than it would add7 .
+pleasure more than it would add.
 
-In a casual bargain that one person makes with another, as for instance when two
-backwoodsmen barter a rifle for a canoe, there is seldom anything that can properly
-be called an equilibrium of supply and demand: there is probably a margin of
-satisfaction on either side; for probably the one would be willing to give something
-besides the rifle for the canoe, if he could not get the canoe otherwise; while the other
+In a casual bargain that one person makes with another, as for instance when two backwoodsmen barter a rifle for a canoe, there is seldom anything that can properly be called an equilibrium of supply and demand: there is probably a margin of satisfaction on either side; for probably the one would be willing to give something besides the rifle for the canoe, if he could not get the canoe otherwise; while the other
 would in case of necessity give something besides the canoe for the rifle.
-It is indeed possible that a true equilibrium may be arrived at under a system of barter;
-but barter, though earlier in history than buying and selling, is in some ways more
-intricate; and the simplest cases of a true equilibrium value are found in the markets
+
+It is indeed possible that a true equilibrium may be arrived at under a system of barter; but barter, though earlier in history than buying and selling, is in some ways more intricate; and the simplest cases of a true equilibrium value are found in the markets
 of a more advanced state of civilization.
 
 We may put aside as of little practical importance a class of dealings which has been
-much discussed. They relate to pictures by old masters, rare coins and other things,
-which cannot be "graded" at all. The price at which each is sold, will depend much on
+much discussed. 
+
+They relate to pictures by old masters, rare coins and other things, which cannot be "graded" at all. The price at which each is sold, will depend much on
 whether any rich persons with a fancy for it happen to be present at its sale. If not, it
 will probably be bought by dealers who reckon on being able to sell it at a profit; and
 the variations in the price for which the same picture sells at successive auctions,
 great as they are, would be greater still if it were not for the steadying influence of
 professional purchasers.
 
+
 § 2. Let us then turn to the ordinary dealings of modern life; and take an illustration
 from a corn-market in a country town, and let us assume for the sake of simplicity that
-all the corn in the market is of the same quality. The amount which each farmer or
-other seller offers for sale at any price is governed by his own need for money in
+all the corn in the market is of the same quality.
+
+The amount which each farmer or other seller offers for sale at any price is governed by his own need for money in
 hand, and by his calculation of the present and future conditions of the market with
 which he is connected. There are some prices which no seller would accept, some
-which no one would refuse. There are other intermediate prices which would be accepted for larger or smaller amounts by many or all of the sellers. Everyone will try
-to guess the state of the market and to govern his actions accordingly. Let us suppose
+which no one would refuse. There are other intermediate prices which would be accepted for larger or smaller amounts by many or all of the sellers. Everyone will try to guess the state of the market and to govern his actions accordingly. Let us suppose
 that in fact there are not more than 600 quarters, the holders of which are willing to
 accept as low a price as 35s.; but that holders of another hundred would be tempted
 by 36s.; and holders of yet another three hundred by 37s. Let us suppose also that a
@@ -152,17 +148,12 @@ practice often very important.
 The theory of buying and selling becomes therefore much more complex when we
 take account of the dependence of marginal utility on amount in the case of money as
 well as of the commodity itself. The practical importance of this consideration is not
-very great. But a contrast is drawn in Appendix F between barter and dealings in
-which one side of each exchange is in the form of general purchasing power. In barter
-a person's stock of either commodity exchanged needs to be adjusted closely to his
-individual wants. If his stock is too large he may have no good use for it. If his stock
-is too small he may have some difficulty in finding any one who can conveniently
-give him what he wants and is also in need of the particular things of which he
-himself has a superfluity. But any one who has a stock of general purchasing power,
-can obtain any thing he wants as soon as he meets with any one who has a superfluity
-of that thing: he needs not to hunt about till he comes across "the double coincidence"
-of a person who can spare what he wants, and also wants what he can spare.
-Consequently every one, and especially a professional dealer, can afford to keep
-command over a large stock of money; and can therefore make considerable
-purchases without depleting his stock of money or greatly altering its marginal value.
+very great. 
 
+But a contrast is drawn in Appendix F between barter and dealings in which one side of each exchange is in the form of general purchasing power. In barter
+a person's stock of either commodity exchanged needs to be adjusted closely to his
+individual wants. If his stock is too large he may have no good use for it. 
+
+If his stock is too small he may have some difficulty in finding any one who can conveniently give him what he wants and is also in need of the particular things of which he himself has a superfluity. But any one who has a stock of general purchasing power, can obtain any thing he wants as soon as he meets with any one who has a superfluity of that thing: he needs not to hunt about till he comes across "the double coincidence" of a person who can spare what he wants, and also wants what he can spare.
+
+Consequently every one, and especially a professional dealer, can afford to keep command over a large stock of money; and can therefore make considerable purchases without depleting his stock of money or greatly altering its marginal value.

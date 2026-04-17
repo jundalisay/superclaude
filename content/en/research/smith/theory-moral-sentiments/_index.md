@@ -5,10 +5,7 @@ description: "In order to easily navigate the Theory of Moral Sentiments, we've 
 c: "indigo"
 weight: 12
 # date: 2022-04-23
-menu:
-  research:
-    parent: "smith"
-    identifier: "tms"
+icon: "Adam Smith"
 # This simplified version aims to guide decision-makers faced with moral dilemmas so that their decisions will more likely benefit society instead of causing harm. The main difference between our moral system from those of Kantianism, Objectivism, Utilitarianism, Christianity, Islam, etc. is that ours is based on feelings, as stated by David Hume    
 ---
 

@@ -2,38 +2,34 @@
 heading: Chapter 1f
 title: "Proposition 8"
 date: 2025-03-20
-weight: 14
+weight: 16
 description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
-
-PROPOSITION 8. Theorem.
+## PROPOSITION 8. Theorem.
 
 62. The path DMm (Fig. 7), which the body moving on some given surface ABC
 describes, is the shortest line that can be drawn between the two terminal points D and
 M, clearly if the body is moving in a vacuum and is acted on by no forces.
 
-Demonstration.
+## Demonstration
 
 The body now describes the curve DM; it is evident that the body will be moving
-along the tangent Mn from M unless it is forced to
-persevere on the surface. Therefore, since the
-motion along Mn cannot be made, it is resolved into
-two components, of which the one is set out on the
-surface, and the other now is in a direction
-perpendicular to the surface, and thus removed from
-the surface it is not in effect possible to be deduced.
-On this account, the perpendicular nm is sent from n
-to the surface; Mm is the element of the line along
-which the body progresses from M . Hence the
-plane nMm is normal to the surface, in which are
-placed both the element mM and that previous element which has just been described.
+along the tangent Mn from M unless it is forced to persevere on the surface. 
+
+Therefore, since the motion along Mn cannot be made, it is resolved into two components, of which the one is set out on the
+surface, and the other now is in a direction perpendicular to the surface, and thus removed from the surface it is not in effect possible to be deduced.
+On this account, the perpendicular nm is sent from n to the surface; Mm is the element of the line along
+which the body progresses from M . 
+
+Hence the plane nMm is normal to the surface, in which are placed both the element mM and that previous element which has just been described.
 But the shortest line drawn on any surface has this property, that the plane on which any
 two contiguous elements are placed is normal to the surface. On account of which the line
 DMm, which is described by the body, is the shortest line on the surface ABC. Q.E.D.
+
 
 24] [Note that Dn is in effect the previous element transposed, according to Newton's
 First Law, and the whole proposition is a generalization of the linear case presented
@@ -45,7 +41,7 @@ above.]
 following the direction of the motion, the path is obtained, along which the body is
 moving uniformly.
 
-Corollary 2.
+### Corollary 2
 
 64. Since the tense thread on the surface designates the shortest path, the tense thread also
 shows the path along which a body on that surface will move uniformly.
@@ -55,26 +51,29 @@ Corollary 3.
 would be straight, since in the plane this is the shortest line. And on the surface of a
 sphere the body moves on a great circle.
 
-Corollary 4.
+### Corollary 4
 
 66. Since the plane in which the two adjoining elements of the curve DMm are placed is
 normal to the surface, then the normal to this plane lies on the surface, and the radius of
 osculation MO of the described curve is now put in the same plane, normal to the surface.
 
-Scholion.
+## Scholion
 
 67. As the shortest line to be found on any given surface has been demonstrated by me in
-Book III Comment. Acad. Imp. Petrop. [Concerning the shortest line joining any two
+Book 3 Comment. Acad. Imp. Petrop. 
+
+[Concerning the shortest line joining any two
 given points on any surface: linea brevissima in superficie quacunque duo quaelibet
 puncta iungente. See E09 in this series of translations.] Moreover there I determined the
 shortest length from another principle, and the elements of that matter shall not yet be put
 in place: the shortest line or that which is described by a body that I have decided to
-determine in the following proposition. [p. 26]
+determine in the following proposition.
+
 [We should note that the motion of a body on a surface is a dynamics problem, while the
 shortest distance between two points on a given surface is a purely geometrical problem.]
 
 
-PROPOSITION 9. Problem.
+## PROPOSITION 9. Problem
 
 68. On any given surface, to determine the line described by a body moving on the
 surface, acted on by no forces.
@@ -90,16 +89,20 @@ surface the perpendicular MQ sent to this plane and
 from Q the perpendicular QP is sent to the axis AP.
 Now on putting AP = x, PQ = y and QM = z the
 nature of the surface is given an equation between
-these three variables x, y, z and constants. Let the
+these three variables x, y, z and constants. 
+
+Let the
 differential equation of this surface be given by :
 dz = Pdx + Qdy ,
 from which the shortest line on this surface or the
 line that the body describes must be determined.
-Now this line is determined from this consideration, that the radius of osculation is
+
+
+This line is determined from this consideration, that the radius of osculation is
 declared to be perpendicular to the surface. On this account, first the normal to the
 surface is drawn, and then we determine the radius of osculation of that curve drawn in
 this plane, in which later from the coincidence of these lines the nature of the line sought
-can be inferred. [p. 27]
+can be inferred.
 
 In order to find the normal to the surface, first the surface is cut by the plane MQB,
 with the line BQ proving to be in the plane APQ [the xy plane] parallel to the axis AP, and
@@ -142,6 +145,9 @@ other crossed the normal rn to the plane APQ in n, [p. 28] and as Pp = pπ
 qr = Qq and mn = Mm , also πr = y + 2dy , and rn = z + 2dz .
 Now the normal mS is drawn to the element Mm in the plane Qm, crossing Qq produced
 at S; hence we have
+
+...
+
 [Note : The triangles with hypotenuse Mm and mS are similar; the original equation
 below has QS rather than qS as the subject of the formula, which is incorrect; this mistake
 is perpetuated in the O.O. version as well. If QS is required, then it is given by :
@@ -194,29 +200,16 @@ curvature that they can be considered as straight, and according to Euler's habi
 equal length can be considered as an element of a tangent line at n in the direction Mn.
 The normal to the plane Mmμ is the vector N formed from the cross product of the
 vectors representing Mn and mμ :
-i
-j
-k
-= i( dyddz − dzddy ) − jdxddz + kdxddy , where i, j, and k are
-N = dx
-dy
-dz
-dx dy + ddy dz + ddz
+
+...
+
 unit vectors along the x, y, and z axes. Now, the direction of the radius of curvature RM is
 perpendicular to both N and to the line TM, which acts in the direction (dx, dy, dz). Thus,
-the direction ratios of RM, or d.r.RM are found from the cross product of N with (dx,
-i
-j
-k
-dy, dz) : i. e. d .r .RM =
-dx
-dy
-dz .
-dyddz − dzddy − dxddz dxddy
+the direction ratios of RM, or d.r.RM are found from the cross product of N with (dx, ...
 
-MR hence has the direction ratios
-dx( dyddy + dzddz ), dydzddz − ( dx 2 + dz 2 )ddy , ( dx 2 + dy 2 )ddz − dydzddz .
+MR hence has the direction ratios dx( dyddy + dzddz ), dydzddz − ( dx 2 + dz 2 )ddy , ( dx 2 + dy 2 )ddz − dydzddz .
 Any point on the line MR can hence be represented by :
+
 x + t .dx( dyddy + dzddz ); y + t [ dydzddz − ( dx 2 + dz 2 )ddy ], and z + t [( dx 2 + dy 2 )ddz − dydzddz ].
 for different values of the parameter t. The point R is taken to lie in the z = 0 plane, and
 hence t = z /[( dx 2 + dy 2 )ddz − dydzddz ] , from which the corresponding x and y values can
@@ -230,25 +223,22 @@ which is the equation setting out the nature of the surface itself. Therefore ei
 equations solved with this equation dz = Pdx + Qdy gives the curve traversed by the body
 on the proposed surface. Q.E.I.
 
-Corollary 1.
+### Corollary 1
 
 69. Therefore for the proposed line described on the surface, we have from the above equations :
 
-But since dz = Pdx + Qdy , this becomes
-or
+But since dz = Pdx + Qdy , this becomes ... or ...
 
-Corollary 2. 
+### Corollary 2
 
 70. If the other equation is taken and from both sides is subtracted
-there is obtainedEULER'S MECHANICA VOL. 2.
-Chapter one.
-Translated and annotated by Ian Bruce.
-page 24
-Which is the actual equation given for the shortest line described in any surface in the
-Transactions of the St. Petersburg Academy of Sciences [Comm. Acad. Petr. E009], Vol.
-III.
+there is obtained
 
-Scholium 1.
+
+Which is the actual equation given for the shortest line described in any surface in the
+Transactions of the St. Petersburg Academy of Sciences [Comm. Acad. Petr. E009], Vol. III.
+
+## Scholium 1
 
 71. As in this case in which the body is not acted on by any forces, the direction of the
 radius of curvature must agree with the normal to the surface, thus in the other cases,
@@ -256,33 +246,43 @@ when the body is acted on by forces, these lines must constitute a given angle :
 On account of which the angle is generally found between MN the normal to the surface
 and MR the direction of the radius of osculation ; that is, as we may now either put in
 place or as we have found (Fig. 10),
-and
-With NR drawn from N and the perpendicular NO is sent to MR ; there is produced
-and NO with the whole sine put equal
-[p. 31] Now the tangent of the angle RMN is equal to MO
-to 1. Moreover with the assumed variables substituted above and with the equation called
+and With NR drawn from N and the perpendicular NO is sent to MR ; there is produced
+and NO with the whole sine put equal.
+
+Now the tangent of the angle RMN is equal to MO
+to 1. 
+
+Moreover with the assumed variables substituted above and with the equation called
 upon
 dz = Pdx + Qdy
 the tangent of the angle NMR becomes equal to
 Hence with the angle vanishing the equation becomes
 as above (69).
-Scholium 2.
+
+
+## Scholium 2
+
 72. Now the length of the radius of osculating MO (Fig. 9) is found from the angle
 nmμ with the aid of this ratio : as the sine of the angle nmμ is to the total sine, thus Mm is
-to MO. Now we have
-hence the perpendicular from n in mμ produced is equal to
+to MO. 
+
+Now we have hence the perpendicular from n in mμ produced is equal to
 Whereby this perpendicular is to ( dx 2 + dy 2 + dz 2 ) as ( dx 2 + dy 2 + dz 2 ) is to MO,
 and thus the radius of osculation is produced :
+
 Moreover this formula for the radius of osculation is of help in the following proposition,
 in which we investigate the force that the body exercises on the surface. [p. 32]
-Scholium 3.
+
+## Scholium 3
+
 73. From this general expression for the radius of curvature there arises an expression for
-the shortest line, if it is solved with this equation :EULER'S MECHANICA VOL. 2.
-Chapter one.
-Translated and annotated by Ian Bruce.
-page 26
+the shortest line, if it is solved with this equation 
+
+...
+
 Moreover the radius of osculation is produced :
-And this expression gives the radius of osculation of the curve described on the proposed
+
+This expression gives the radius of osculation of the curve described on the proposed
 surface by a body acted on by no forces.
 
 

@@ -11,22 +11,40 @@ description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nep
 
 
 
-Ulysses now left the haven, and took the rough track up through the wooded country and over the crest of the mountain till he reached the place where Minerva had said that he would find the swineherd, who was the most thrifty servant he had. He found him sitting in front of his hut, which was by the yards that he had built on a site which could be seen from far.
+Ulysses left the haven and went through the wooded country and over the crest of the mountain until he arrived where Minerva had said that he would find the swineherd, who was the most thrifty servant he had.
 
-He had made them spacious and fair to see, with a free run for the pigs all round them; he had built them during his master’s absence, of stones which he had gathered out of the ground, without saying anything to Penelope or Laertes, and he had fenced them on top with thorn bushes. Outside the yard he had run a strong fence of oaken posts, split, and set pretty close together, while inside he had built 12 styes near one another for the sows to lie in.
+He found him sitting in front of his hut, which was by the yards that he had built on a site which could be seen from far.
 
-There were fifty pigs wallowing in each stye, all of them breeding sows; but the boars slept outside and were much fewer in number, for the suitors kept on eating them, and the swineherd had to send them the best he had continually. There were three hundred and sixty boar pigs, and the herdsman’s four hounds, which were as fierce as wolves, slept always with them.
+He had made them spacious and fair to see, with a free run for the pigs all round them.
 
-The swineherd was at that moment cutting out a pair of sandals from a good stout ox hide. Three of his men were out herding the pigs in one place or another, and he had sent the fourth to town with a boar that he had been forced to send the suitors that they might sacrifice it and have their fill of meat.
+He had built them during his master’s absence, of stones which he had gathered out of the ground, without saying anything to Penelope or Laertes, and he had fenced them on top with thorn bushes. 
 
-When the hounds saw Ulysses they set up a furious barking and flew at him, but Ulysses was cunning enough to sit down and loose his hold of the stick that he had in his hand: still, he would have been torn by them in his own homestead had not the swineherd dropped his ox hide, rushed full speed through the gate of the yard and driven the dogs off by shouting and throwing stones at them. Then he said to Ulysses, “Old man, the dogs were likely to have made short work of you, and then you would have got me into trouble. The gods have given me quite enough worries without that, for I have lost the best of masters, and am in continual grief on his account.
+Outside the yard he had run a strong fence of oaken posts, split, and set pretty close together, while inside he had built 12 styes near one another for the sows to lie in.
+
+There were 50 pigs wallowing in each stye, all of them breeding sows.
+
+But the boars slept outside and were much fewer in number, for the suitors kept on eating them, and the swineherd had to send them the best he had continually. There were 360 boar pigs, and the herdsman’s 4 hounds, which were as fierce as wolves, slept always with them.
+
+The swineherd was at that moment cutting out a pair of sandals from a good stout ox hide.
+
+Three of his men were out herding the pigs in one place or another, and he had sent the fourth to town with a boar that he had been forced to send the suitors that they might sacrifice it and have their fill of meat.
+
+When the hounds saw Ulysses they set up a furious barking and flew at him, but Ulysses was cunning enough to sit down and loose his hold of the stick that he had in his hand.
+
+Still, he would have been torn by them in his own homestead had not the swineherd dropped his ox hide, rushed full speed through the gate of the yard and driven the dogs off by shouting and throwing stones at them. Then he said to Ulysses, “Old man, the dogs were likely to have made short work of you, and then you would have got me into trouble.
+
+The gods have given me quite enough worries without that, for I have lost the best of masters, and am in continual grief on his account.
 
 I have to attend swine for other people to eat, while he, if he yet lives to see the light of day, is starving in some distant land. But come inside, and when you have had your fill of bread and wine, tell me where you come from, and all about your misfortunes.”
 
 
 On this the swineherd led the way into the hut and bade him sit down. He strewed a good thick bed of rushes upon the floor, and on the top of this he threw the shaggy chamois skin—a great thick one—on which he used to sleep by night. Ulysses was pleased at being made thus welcome, and said “May Jove, sir, and the rest of the gods grant you your heart’s desire in return for the kind way in which you have received me.”
 
-To this you answered, O swineherd Eumaeus, “Stranger, though a still poorer man should come here, it would not be right for me to insult him, for all strangers and beggars are from Jove. You must take what you can get and be thankful, for servants live in fear when they have young lords for their masters; and this is my misfortune now, for heaven has hindered the return of him who would have been always good to me and given me something of my own—a house, a piece of land, a good looking wife, and all else that a liberal master allows a servant who has worked hard for him, and whose labour the gods have prospered as they have mine in the situation which I hold. If my master had grown old here he would have done great things by me, but he is gone, and I wish that Helen’s whole race were utterly destroyed, for she has been the death of many a good man. It was this matter that took my master to Ilius, the land of noble steeds, to fight the Trojans in the cause of king Agamemnon.”
+To this you answered, O swineherd Eumaeus, “Stranger, though a still poorer man should come here, it would not be right for me to insult him, for all strangers and beggars are from Jove.
+
+You must take what you can get and be thankful, for servants live in fear when they have young lords for their masters; and this is my misfortune now, for heaven has hindered the return of him who would have been always good to me and given me something of my own—a house, a piece of land, a good looking wife, and all else that a liberal master allows a servant who has worked hard for him, and whose labour the gods have prospered as they have mine in the situation which I hold. If my master had grown old here he would have done great things by me, but he is gone, and I wish that Helen’s whole race were utterly destroyed, for she has been the death of many a good man. 
+
+It was this matter that took my master to Ilius, the land of noble steeds, to fight the Trojans in the cause of king Agamemnon.”
 
 As he spoke he bound his girdle round him and went to the styes where the young sucking pigs were penned. He picked out two which he brought back with him and sacrificed. He singed them, cut them up, and spitted them; when the meat was cooked he brought it all in and set it before Ulysses, hot and still on the spit, whereon Ulysses sprinkled it over with white barley meal. The swineherd then mixed wine in a bowl of ivy-wood, and taking a seat opposite Ulysses told him to begin.
 
@@ -66,13 +84,39 @@ Ulysses answered, “I see that you are of an unbelieving mind; I have given you
 
 Thus did they converse, and presently the swineherds came up with the pigs, which were then shut up for the night in their styes, and a tremendous squealing they made as they were being driven into them. But Eumaeus called to his men and said, “Bring in the best pig you have, that I may sacrifice him for this stranger, and we will take toll of him ourselves. We have had trouble enough this long time feeding pigs, while others reap the fruit of our labour.”
 
-On this he began chopping firewood, while the others brought in a fine fat five year old boar pig, and set it at the altar. Eumaeus did not forget the gods, for he was a man of good principles, so the first thing he did was to cut bristles from the pig’s face and throw them into the fire, praying to all the gods as he did so that Ulysses might return home again. Then he clubbed the pig with a billet of oak which he had kept back when he was chopping the firewood, and stunned it, while the others slaughtered and singed it. Then they cut it up, and Eumaeus began by putting raw pieces from each joint on to some of the fat; these he sprinkled with barley meal, and laid upon the embers; they cut the rest of the meat up small, put the pieces upon the spits and roasted them till they were done; when they had taken them off the spits they threw them on to the dresser in a heap. The swineherd, who was a most equitable man, then stood up to give every one his share. He made seven portions; one of these he set apart for Mercury the son of Maia and the nymphs, praying to them as he did so; the others he dealt out to the men man by man. He gave Ulysses some slices cut lengthways down the loin as a mark of especial honour, and Ulysses was much pleased. “I hope, Eumaeus,” said he, “that Jove will be as well disposed towards you as I am, for the respect you are showing to an outcast like myself.”
+On this, he began chopping firewood while the others brought in a fine fat 5 year old boar pig, and set it at the altar.
+
+Eumaeus did not forget the gods, for he was a man of good principles.
+
+So the first thing he did was to cut bristles from the pig’s face and throw them into the fire, praying to all the gods as he did so that Ulysses might return home again.
+
+Then he clubbed the pig with a billet of oak which he had kept back when he was chopping the firewood, and stunned it, while the others slaughtered and singed it.
+
+Then they cut it up, and Eumaeus began by putting raw pieces from each joint on to some of the fat; these he sprinkled with barley meal, and laid upon the embers.
+
+They cut the rest of the meat up small, put the pieces upon the spits and roasted them till they were done; when they had taken them off the spits they threw them on to the dresser in a heap.
+
+The swineherd was a most equitable man. He stood up to give every one his share.
+
+He made 7 portions. One of these he set apart for Mercury the son of Maia and the nymphs, praying to them as he did so; the others he dealt out to the men man by man. 
+
+He gave Ulysses some slices cut lengthways down the loin as a mark of especial honour, and Ulysses was much pleased. 
+
+“I hope, Eumaeus,” said he, “that Jove will be as well disposed towards you as I am, for the respect you are showing to an outcast like myself.”
 
 To this you answered, O swineherd Eumaeus, “Eat, my good fellow, and enjoy your supper, such as it is. God grants this, and withholds that, just as he thinks right, for he can do whatever he chooses.”
 
-As he spoke he cut off the first piece and offered it as a burnt sacrifice to the immortal gods; then he made them a drink-offering, put the cup in the hands of Ulysses, and sat down to his own portion. Mesaulius brought them their bread; the swineherd had brought this man on his own account from among the Taphians during his master’s absence, and had paid for him with his own money without saying anything either to his mistress or Laertes. They then laid their hands upon the good things that were before them, and when they had had enough to eat and drink, Mesaulius took away what was left of the bread, and they all went to bed after having made a hearty supper.
+As he spoke he cut off the first piece and offered it as a burnt sacrifice to the immortal gods; then he made them a drink-offering, put the cup in the hands of Ulysses, and sat down to his own portion. 
 
-Now the night came on stormy and very dark, for there was no moon. It poured without ceasing, and the wind blew strong from the West, which is a wet quarter, so Ulysses thought he would see whether Eumaeus, in the excellent care he took of him, would take off his own cloak and give it him, or make one of his men give him one. “Listen to me,” said he, “Eumaeus and the rest of you; when I have said a prayer I will tell you something. It is the wine that makes me talk in this way; wine will make even a wise man fall to singing; it will make him chuckle and dance and say many a word that he had better leave unspoken; still, as I have begun, I will go on. Would that I were still young and strong as when we got up an ambuscade before Troy. Menelaus and Ulysses were the leaders, but I was in command also, for the other two would have it so. When we had come up to the wall of the city we crouched down beneath our armour and lay there under cover of the reeds and thick brushwood that grew about the swamp. It came on to freeze with a North wind blowing; the snow fell small and fine like hoar frost, and our shields were coated thick with rime. The others had all got cloaks and shirts, and slept comfortably enough with their shields about their shoulders, but I had carelessly left my cloak behind me, not thinking that I should be too cold, and had gone off in nothing but my shirt and shield. When the night was two-thirds through and the stars had shifted their places, I nudged Ulysses who was close to me with my elbow, and he at once gave me his ear.
+Mesaulius brought them their bread; the swineherd had brought this man on his own account from among the Taphians during his master’s absence, and had paid for him with his own money without saying anything either to his mistress or Laertes. 
+
+They then laid their hands upon the good things that were before them, and when they had had enough to eat and drink, Mesaulius took away what was left of the bread, and they all went to bed after having made a hearty supper.
+
+The night came on stormy and very dark, for there was no moon. It poured without ceasing, and the wind blew strong from the West, which is a wet quarter, so Ulysses thought he would see whether Eumaeus, in the excellent care he took of him, would take off his own cloak and give it him, or make one of his men give him one. 
+
+“Listen to me, Eumaeus and the rest of you; when I have said a prayer I will tell you something. It is the wine that makes me talk in this way; wine will make even a wise man fall to singing.
+
+It will make him chuckle and dance and say many a word that he had better leave unspoken; still, as I have begun, I will go on. Would that I were still young and strong as when we got up an ambuscade before Troy. Menelaus and Ulysses were the leaders, but I was in command also, for the other two would have it so. When we had come up to the wall of the city we crouched down beneath our armour and lay there under cover of the reeds and thick brushwood that grew about the swamp. It came on to freeze with a North wind blowing; the snow fell small and fine like hoar frost, and our shields were coated thick with rime. The others had all got cloaks and shirts, and slept comfortably enough with their shields about their shoulders, but I had carelessly left my cloak behind me, not thinking that I should be too cold, and had gone off in nothing but my shirt and shield. When the night was two-thirds through and the stars had shifted their places, I nudged Ulysses who was close to me with my elbow, and he at once gave me his ear.
 
 “‘Ulysses,’ said I, ‘this cold will be the death of me, for I have no cloak; some god fooled me into setting off with nothing on but my shirt, and I do not know what to do.’
 

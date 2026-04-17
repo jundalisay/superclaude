@@ -3,55 +3,36 @@ heading: Chapter 1
 title: "Introdcution: Markets"
 description: ""
 c: "firebrick"
-weight: 9
+weight: 3
 ---
 
 
 
-§ 1. A BUSINESS firm grows and attains great strength, and afterwards perhaps
-stagnates and decays; and at the turning point there is a balancing or equilibrium of
-the forces of life and decay: the latter part of Book IV. has been chiefly occupied with
+§ 1. A BUSINESS firm grows and attains great strength, and afterwards perhaps stagnates and decays; and at the turning point there is a balancing or equilibrium of the forces of life and decay: the latter part of Book IV. has been chiefly occupied with
 such balancing of forces in the life and decay of a people, or of a method of industry
 or trading. And as we reach to the higher stages of our work, we shall need ever more
-and more to think of economic forces as resembling those which make a young man
-grow in strength, till he reaches his prime; after which he gradually becomes stiff and
-inactive, till at last he sinks to make room for other and more vigorous life. But to
-prepare the way for this advanced study we want first to look at a simpler balancing of
-forces which corresponds rather to the mechanical equilibrium of a stone hanging by
+and more to think of economic forces as resembling those which make a young man grow in strength, till he reaches his prime; after which he gradually becomes stiff and inactive, till at last he sinks to make room for other and more vigorous life. 
+
+But to prepare the way for this advanced study we want first to look at a simpler balancing of forces which corresponds rather to the mechanical equilibrium of a stone hanging by
 an elastic string, or of a number of balls resting against one another in a basin.
-We have now to examine the general relations of demand and supply; especially those
-which are connected with that adjustment of price, by which they are maintained in
-"equilibrium." This term is in common use and may be used for the present without
-special explanation. But there are many difficulties connected with it, which can only
-be handled gradually: and indeed they will occupy our attention during a great part of
+
+We have now to examine the general relations of demand and supply; especially those which are connected with that adjustment of price, by which they are maintained in "equilibrium." This term is in common use and may be used for the present without special explanation. But there are many difficulties connected with it, which can only be handled gradually: and indeed they will occupy our attention during a great part of
 this Book.
 
-Illustrations will be taken now from one class of economic problems and now from
-another, but the main course of the reasoning will be kept free from assumptions
-which specially belong to any particular class.
+Illustrations will be taken now from one class of economic problems and now from another, but the main course of the reasoning will be kept free from assumptions
+which specially belong to any particular class. 
 
-Thus it is not descriptive, nor does it deal constructively with real problems. But it
-sets out the theoretical backbone of our knowledge of the causes which govern value,
-and thus prepares the way for the construction which is to begin in the following
-Book. It aims not so much at the attainment of knowledge, as at the power to obtain
-and arrange knowledge with regard to two opposing sets of forces, those which impel
+
+Thus it is not descriptive, nor does it deal constructively with real problems. But it sets out the theoretical backbone of our knowledge of the causes which govern value, and thus prepares the way for the construction which is to begin in the following Book. It aims not so much at the attainment of knowledge, as at the power to obtain and arrange knowledge with regard to two opposing sets of forces, those which impel
 man to economic efforts and sacrifices, and those which hold him back.
 
 We must begin with a short and provisional account of markets: for that is needed to
 give precision to the ideas in this and the following Books. But the organization of
 markets is intimately connected both as cause and effect with money, credit, and
-foreign trade; a full study of it must therefore be deferred to a later volume, where it will be taken in connection with commercial and industrial fluctuations, and with
-combinations of producers and of merchants, of employers and employed.
+foreign trade; a full study of it must therefore be deferred to a later volume, where it will be taken in connection with commercial and industrial fluctuations, and with combinations of producers and of merchants, of employers and employed.
 
-§ 2. When demand and supply are spoken of in relation to one another, it is of course
-necessary that the markets to which they refer should be the same. As Cournot says,
-"Economists understand by the term Market, not any particular market place in which
-things are bought and sold, but the whole of any region in which buyers and sellers
-are in such free intercourse with one another that the prices of the same goods tend to
-equality easily and quickly1 ." Or again as Jevons says:—"Originally a market was a
-public place in a town where provisions and other objects were exposed for sale; but
-the word has been generalized, so as to mean any body of persons who are in intimate
-business relations and carry on extensive transactions in any commodity. A great city
+
+§ 2. When demand and supply are spoken of in relation to one another, it is of course necessary that the markets to which they refer should be the same. As Cournot says, "Economists understand by the term Market, not any particular market place in which things are bought and sold, but the whole of any region in which buyers and sellers are in such free intercourse with one another that the prices of the same goods tend to equality easily and quickly1 ." Or again as Jevons says:—"Originally a market was a public place in a town where provisions and other objects were exposed for sale; but the word has been generalized, so as to mean any body of persons who are in intimate business relations and carry on extensive transactions in any commodity. A great city
 may contain as many markets as there are important branches of trade, and these
 markets may or may not be localized. The central point of a market is the public
 exchange, mart or auction rooms, where the traders agree to meet and transact

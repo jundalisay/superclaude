@@ -7,9 +7,10 @@ description: "Here we explain how comets can lead to climate change"
 weight: 41
 icon: "Juan"
 draft: true
+aliases:
+  /material/principles/part-2/chapter-08b
 # linked to public
 ---
-
 
 
 [Comets](https://en.wikipedia.org/wiki/Comet) are small objects that traverse a stellar system with or without an orbit, producing a 'tail' from 'outgassing'. 

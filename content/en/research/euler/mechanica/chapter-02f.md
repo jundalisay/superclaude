@@ -2,7 +2,7 @@
 heading: Chapter 2f
 title: "Proposition 21"
 date: 2025-03-20
-weight: 24
+weight: 34
 description: "Determine the effect of any oblique forces acting on a moving point"
 author: "Euler"
 c: "firebrick"

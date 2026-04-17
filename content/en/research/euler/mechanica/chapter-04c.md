@@ -1,19 +1,19 @@
 ---
 heading: Chapter 4b
-title: "The Exponent of Resistance"
+title: "Proposition 50"
 date: 2025-03-20
-weight: 75
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+weight: 95
+description: ""
 author: "Euler"
 c: "firebrick"
+draft: true
 ---
 
 
 
-PROPOSITION 50. PROBLEM.
+## PROPOSITION 50. PROBLEM
 
-387. In a medium with uniform resistance, that offers resistance in some power of the
-speed, to define the speed of the moving body at particular places.
+387. In a medium with uniform resistance, that offers resistance in some power of the speed, to define the speed of the moving body at particular places.
 
 SOLUTION.
 

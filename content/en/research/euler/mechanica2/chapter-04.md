@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Motion Of A Point On A Given Surface"
 date: 2025-03-20
-weight: 100
+weight: 230
 description: ""
 author: "Euler"
 c: "firebrick"

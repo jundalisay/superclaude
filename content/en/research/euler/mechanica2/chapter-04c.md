@@ -1,19 +1,20 @@
 ---
 heading: Chapter 4b
-title: "PROPOSITION 92. Problem."
+title: "PROPOSITION 92"
 date: 2025-03-20
-weight: 104
+weight: 234
 description: ""
 author: "Euler"
 c: "firebrick"
 ---
 
 
+## PROPOSITION 92. Problem
 
 845. To determine the effect of the pressing force on the body moving on any surface,
 that is not acted on by any additional forces.
 
-## Solution
+### Solution
 
 Because this pressing force is normal to the surface and thus the direction of this is in
 the direction MN, this affects neither the speed nor the direction, as the whole force is
@@ -97,5 +98,3 @@ determined. Q.E.I.
 
 850. Since resistance is to be referred to the tangential force, from these it is understood,
 how the effect is to be determined. For if the resistance is equal to R, then
-
-
