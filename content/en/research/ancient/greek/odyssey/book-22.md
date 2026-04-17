@@ -107,7 +107,7 @@ The fault, father, is mine, and mine only. I left the store room door open, and 
 
 Meanwhile, Melanthius was again going to the store room to fetch more armour, but the swineherd saw him and said to Ulysses who was beside him:
 
-{{< r a="Swineherd >}}
+{{< r a="Swineherd" >}}
 Ulysses, noble son of Laertes, it is that scoundrel Melanthius, just as we suspected, who is going to the store room. Say, shall I kill him, if I can get the better of him, or shall I bring him here that you may take your own revenge for all the many wrongs that he has done in your house?
 {{< /r >}}
 
