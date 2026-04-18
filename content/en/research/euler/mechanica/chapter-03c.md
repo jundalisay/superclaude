@@ -10,10 +10,9 @@ c: "firebrick"
 ---
 
 
-## PROPOSITION 26. THEOREM
+## Proposition 26. Theorem
 
-210. The heights, by which equal small bodies fall to acquire equal speeds, vary
-inversely as the forces, under the hypothesis of different uniform [gravitational] forces.
+210. The heights, by which equal small bodies fall to acquire equal speeds, vary inversely as the forces, under the hypothesis of different uniform [gravitational] forces.
 
 ### DEMONSTRATION
 

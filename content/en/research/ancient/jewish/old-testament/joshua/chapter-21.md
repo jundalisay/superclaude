@@ -13,82 +13,71 @@ c: "firebrick"
 
 <sup>3</sup> The Israelites gave unto the Levites out of their inheritance, at the commandment of Anu, these cities and their suburbs. 
 
-4 The lot came out for the families of the Kohathites: and the children of Aaron the priest, [which were] of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities. 
+<sup>4</sup> The lot came out for the families of the Kohathites: and the children of Aaron the priest, [which were] of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities. 
 
 <sup>5</sup> The rest of the children of Kohath [had] by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities. 
 
-6 The children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, 13 cities. 
+<sup>6</sup> The children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, 13 cities. 
 
-7 The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. 8} And the Israelites gave by lot unto the Levites these cities with their suburbs, as Anu commanded by the hand of Moses.
+<sup>7</sup> The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, 12 cities.
 
-9 They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these
-cities which are [here] mentioned by name, 10} Which
-the children of Aaron, [being] of the families of the
-Kohathites, [who were] of the children of Levi, had: for
+<sup>8</sup> The Israelites gave by lot unto the Levites these cities with their suburbs, as Anu commanded by the hand of Moses.
+
+<sup>9</sup> They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are [here] mentioned by name, 10} Which the children of Aaron, [being] of the families of the Kohathites, [who were] of the children of Levi, had: for
 theirs was the first lot. 
 
-11 They gave them the city of Arba the father of Anak, which [city is] Hebron, in the
-hill [country] of Judah, with the suburbs thereof round about
-it. 12} But the fields of the city, and the villages
-thereof, gave they to Caleb the son of Jephunneh for his
+<sup>11</sup> They gave them the city of Arba the father of Anak, which [city is] Hebron, in the hill [country] of Judah, with the suburbs thereof round about it.
+
+<sup>12</sup> But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his
 possession.
 
-13 Thus, they gave to the children of Aaron the priest Hebron with her suburbs, [to be] a city of refuge for the
-slayer; and Libnah with her suburbs, 14} And Jattir with her suburbs, and Eshtemoa with her suburbs, 15}
-And Holon with her suburbs, and Debir with her suburbs,
-16} And Ain with her suburbs, and Juttah with her
-suburbs, [and] Beth-shemesh with her suburbs; nine cities
+<sup>13</sup> Thus, they gave to the children of Aaron the priest Hebron with her suburbs, [to be] a city of refuge for the slayer; and Libnah with her suburbs, 14} And Jattir with her suburbs, and Eshtemoa with her suburbs, <sup>15</sup> And Holon with her suburbs, and Debir with her suburbs,
+16} And Ain with her suburbs, and Juttah with her suburbs, [and] Beth-shemesh with her suburbs; nine cities
 out of those two tribes. 
 
-17 Out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs, 18 Anathoth with her suburbs, and Almon with her suburbs; 4 cities. 
+<sup>17</sup> Out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs, 18 Anathoth with her suburbs, and Almon with her suburbs; 4 cities. 
 
-19 All the cities of the children of Aaron, the priests, [were] thirteen cities with their suburbs.
-20} And the families of the children of Kohath, the
-Levites which remained of the children of Kohath, even
-they had the cities of their lot out of the tribe of Ephraim.
+<sup>19</sup> All the cities of the children of Aaron, the priests, [were] thirteen cities with their suburbs.
 
+<sup>20</sup> The families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.
 
-21 For they gave them Shechem with her suburbs in mount Ephraim, [to be] a city of refuge for the slayer; and
-Gezer with her suburbs, 22} And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities.
-23} And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs, 24} Aijalon with
-her suburbs, Gath- rimmon with her suburbs; four cities.
+<sup>21</sup> For they gave them Shechem with her suburbs in mount Ephraim, [to be] a city of refuge for the slayer; and Gezer with her suburbs, <sup>22</sup> And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities.
 
-25} And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities.
-26} All the cities [were] ten with their suburbs for the families of the children of Kohath that remained.
-27} And unto the children of Gershon, of the families of the Levites, out of the [other] half tribe of Manasseh
-[they gave] Golan in Bashan with her suburbs, [to be] a city
-of refuge for the slayer; and Beesh-terah with her suburbs;
+<sup>23</sup> Out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs, <sup>24</sup> Aijalon with her suburbs, Gath- rimmon with her suburbs; four cities.
+
+<sup>25</sup> And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities. 
+
+<sup>26</sup> All the cities [were] ten with their suburbs for the families of the children of Kohath that remained. 
+
+<sup>27</sup> Unto the children of Gershon, of the families of the Levites, out of the [other] half tribe of Manasseh [they gave] Golan in Bashan with her suburbs, [to be] a city of refuge for the slayer; and Beesh-terah with her suburbs;
 two cities. 
 
-28 Out of the tribe of Issachar, Kishon
-with her suburbs, Dabareh with her suburbs, 29} Jarmuth with her suburbs, En-gannim with her suburbs; four
-cities. 30} And out of the tribe of Asher, Mishal with
-her suburbs, Abdon with her suburbs, 31} Helkath with
-her suburbs, and Rehob with her suburbs; four cities.
+<sup>28</sup> Out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs, 29} Jarmuth with her suburbs, En-gannim with her suburbs; 4 cities.
 
-32 Out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, [to be] a city of refuge for the slayer; and
-Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities. 33} All the cities of the
-Gershonites according to their families [were] thirteen cities
-with their suburbs. 
+<sup>30</sup> Out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs, 31} Helkath with her suburbs, and Rehob with her suburbs; four cities.
 
-34} And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam
-with her suburbs, and Kartah with her suburbs, 35} Dimnah with her suburbs, Nahalal with her suburbs; four
-cities. 
+<sup>32</sup> Out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, [to be] a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities. 
 
-36 Out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs, 37}
-Kedemoth with her suburbs, and Mephaath with her suburbs; four cities. 38} And out of the tribe of Gad, Ramoth in Gilead with her suburbs, [to be] a city of refuge for the slayer; and Mahanaim with her suburbs, 39}
-Heshbon with her suburbs, Jazer with her suburbs; four cities in all. 40} So all the cities for the children of
-Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities.
+<sup>33</sup> All the cities of the Gershonites according to their families [were] 13 cities with their suburbs. 
 
-41} All the cities of the Levites within the possession of the Israelites [were] forty and eight cities with
-their suburbs. 42} These cities were every one with their suburbs round about them: thus [were] all these cities.
+<sup>34</sup> Unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs, 35} Dimnah with her suburbs, Nahalal with her suburbs; 4 cities. 
 
-43 Anu gave unto Israel all the land which he sware to give unto their fathers; and they
-possessed it, and dwelt therein. 
+<sup>36</sup> Out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs, 37} Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.
+
+<sup>38</sup> Out of the tribe of Gad, Ramoth in Gilead with her suburbs, [to be] a city of refuge for the slayer; and Mahanaim with her suburbs, 39} Heshbon with her suburbs, Jazer with her suburbs; four cities in all.
+
+<sup>40</sup> So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot 12 cities.
+
+<sup>41</sup> All the cities of the Levites within the possession of the Israelites [were] forty and eight cities with
+their suburbs.
+
+<sup>42</sup> These cities were every one with their suburbs round about them: thus [were] all these cities.
+
+<sup>43</sup> Anu gave unto Israel all the land which he sware to give unto their fathers.
+
+They possessed it, and dwelt therein. 
 
 <sup>44</sup> Anu gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their
 enemies before them; Anu delivered all their enemies into their hand.
 
-<sup>45</sup> There failed not ought of any good thing which Anu had spoken unto the Israelites;
-all came to pass. 
-
+<sup>45</sup> There failed not ought of any good thing which Anu had spoken unto the Israelites; all came to pass. 

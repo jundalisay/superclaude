@@ -1,9 +1,10 @@
 ---
 heading: Genesis 35
 title: "Jacob Goes to Bethel"
-description: "Jacob went on his way, and the agents of Anu met him"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 70
 c: "firebrick"
+a: "Anu"
 ---
 
 

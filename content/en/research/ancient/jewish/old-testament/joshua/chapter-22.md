@@ -15,14 +15,14 @@ c: "firebrick"
 {{< l a="Joshua" >}}
 <sup>2</sup> You have kept all that Moses commanded you, and have obeyed my voice in all that I commanded you.
 
-3 You have not left your brethren these many days unto this day, but have kept the charge of the commandment of Anu.
+<sup>3</sup> You have not left your brethren these many days unto this day, but have kept the charge of the commandment of Anu.
 
-4 Anu had given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of Anu gave you on the other side Jordan.
+<sup>4</sup> Anu had given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of Anu gave you on the other side Jordan.
 
-5 But take diligent heed to do the commandment and the law, which Moses the servant of Anu charged you, to love Anu, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul. 
+<sup>5</sup> But take diligent heed to do the commandment and the law, which Moses the servant of Anu charged you, to love Anu, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul. 
 {{< /l >}}
 
-6 So Joshua blessed them, and sent them away into their tents.
+<sup>6</sup> So Joshua blessed them, and sent them away into their tents.
 
 7 Moses had given possession of Bashan to half of the tribe of Manasseh.
 
@@ -85,18 +85,18 @@ that man perished not alone in his iniquity.
 
 28 So that if they said that to us or to our future generations, we may say again: Behold the pattern of the altar of Anu, which our fathers made, not for burnt offerings, nor for sacrifices. But it is a witness between us and you.
 
-29 God forbid that we should rebel against Anu, and turn this day from following Anu, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of Anu our God that is before his tabernacle.
+<sup>29</sup> God forbid that we should rebel against Anu, and turn this day from following Anu, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of Anu our God that is before his tabernacle.
 {{< /r >}}
 
-30 Phinehas and his group were pleased by what they heard. 
+<sup>30</sup> Phinehas and his group were pleased by what they heard. 
 
 {{< l a="Phinehas" >}}
-31 This day we perceive that Anu is among us, because you have not committed this trespass against Anu: now you have delivered the Israelites out of the hand of Anu.
+<sup>31</sup> This day we perceive that Anu is among us, because you have not committed this trespass against Anu: now you have delivered the Israelites out of the hand of Anu.
 {{< /l >}}
 
-32 Phinehas the son of Eleazar the priest, and the princes, returned from Gilead back into Canaan to the Israelites to relay the message.
+
+<sup>32</sup> Phinehas the son of Eleazar the priest, and the princes, returned from Gilead back into Canaan to the Israelites to relay the message.
 
 <sup>33</sup> This pleased the Israelites who then blessed Anu, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
 
 <sup>34</sup> The children of Reuben and Gad called the altar "Ed" for it shall be a witness between us that Anu is God.
-

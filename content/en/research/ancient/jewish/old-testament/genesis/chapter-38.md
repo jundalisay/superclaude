@@ -1,9 +1,10 @@
 ---
 heading: Genesis 38
 title: "Judah and Tamar"
-description: ""
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 80
 c: "firebrick"
+a: "Anu"
 ---
 
 
@@ -126,3 +127,4 @@ And he did not sleep with her again.
 He was named Perez.
 
 30 Then his brother, who had the scarlet thread on his wrist, came out. And he was named Zerah.
+

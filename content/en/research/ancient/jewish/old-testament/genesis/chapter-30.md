@@ -4,6 +4,7 @@ title: "The Sons of Jacob"
 description: "We replace Anu with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 60
 c: "firebrick"
+a: "Anu"
 ---
 
 

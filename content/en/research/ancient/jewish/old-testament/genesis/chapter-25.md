@@ -1,9 +1,10 @@
 ---
 heading: Genesis 25
 title: "Jacob and the Start of Israel"
-description: "Abimelech king of Gerar sent, and took Sarah"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 50
 c: "firebrick"
+a: "Anu"
 ---
 
 
@@ -25,7 +26,7 @@ c: "firebrick"
 
 <sup>10</sup> The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife. 
 
-<sup>11</sup> After the death of Abraham, Enki blessed his son Isaac who then dwelt by the well
+<sup>11</sup> After the death of Abraham, Anu blessed his son Isaac who then dwelt by the well
 Lahai-roi. 
 
 <sup>12-13</sup> The sons of Ishmael are the firstborn Nebajoth and Kedar, and Adbeel, and Mibsam, <sup>14</sup> Mishma, and Dumah, and Massa, <sup>15</sup> Hadar, and Tema, Jetur, Naphish, and Kedemah: 
@@ -39,13 +40,13 @@ their castles; twelve princes according to their nations -->.
 
 <sup>19</sup> Isaac, Abraham’s son was 40 years old when he married Rebekah, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian. 
 
-<sup>21</sup> Isaac intreated Enki for his wife, because she was barren and so she conceived.
+<sup>21</sup> Isaac intreated Anu for his wife, because she was barren and so she conceived.
 
 <sup>22</sup> The children struggled together within her. She said:
 
-If [it be] so, why [am] I thus? And she went to enquire of Enki. 
+If [it be] so, why [am] I thus? And she went to enquire of Anu. 
 
-<sup>23</sup> Enki said to her:
+<sup>23</sup> Anu said to her:
 
 Two nations [are] in your womb, and two manner of people shall be separated from your bowels; and [the one] people shall be stronger than [the other] people; and the elder shall serve the younger.
 
@@ -60,8 +61,7 @@ Isaac was 60 years old when she bare them.
 
 <sup>27</sup> Esau became a cunning hunter, a man of the field. Jacob was a plain man, dwelling in tents. 
 
-<sup>28</sup> Isaac loved Esau, because he did eat of [his] venison: but Rebekah loved
-Jacob.
+<sup>28</sup> Isaac loved Esau, because he did eat of [his] venison: but Rebekah loved Jacob.
 
 <sup>29</sup> Jacob sod pottage: and Esau came from the field, and he [was] faint: 
 

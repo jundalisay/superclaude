@@ -12,7 +12,7 @@ c: "firebrick"
 
 <!-- EULER'S MECHANICA VOL. 1. -->
 
-### Definition 1: Motion
+## Definition 1: Motion
 
 1. Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place. 
 

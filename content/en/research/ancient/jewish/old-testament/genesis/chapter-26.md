@@ -2,9 +2,10 @@
 heading: Genesis 26
 title: "Jacob and King Abimelech"
 # description: "Abimelech was the king of Gerar"
-description: "We replace God with the alien Anu of the Anunnaki"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 52
 c: "firebrick"
+a: "Anu"
 ---
 
 
@@ -127,4 +128,5 @@ Why did you come you to me, seeing you hate me, and have sent me away from you?
 - Bashemath the daughter of Elon the Hittite
 
 <sup>35</sup> This was a grief to Isaac and to Rebekah.
+
 

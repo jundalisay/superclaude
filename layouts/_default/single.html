@@ -69,10 +69,10 @@
             {{/* 2. Determine the display name (Priority: writer.name > iconName > author) */}}
             {{- $displayName := .Params.writer.name | default $iconName | default .Params.author -}}
             
-            {{/* 3. Wrap in a link if writer.link is present */}}
+            {{/* 3. Wrap in a link if writer.url is present */}}
             <span class="font-semibold text-white">
-              {{ if .Params.writer.link }}
-                <a href="{{ .Params.writer.link }}" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition-colors">
+              {{ if .Params.writer.url }}
+                <a href="{{ .Params.writer.url }}" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition-colors">
                   {{ $displayName }}
                 </a>
               {{ else }}

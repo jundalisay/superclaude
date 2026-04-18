@@ -6,7 +6,6 @@ weight: 36
 description: ""
 author: "Euler"
 a: "Euler"
-draft: true
 c: "firebrick"
 ---
 
@@ -57,15 +56,12 @@ uniform force, or which acts with the same strength everywhere, and the speed of
 point is to be determined at any position P.
 
 
-SOLUTION
+### SOLUTION
 
-The mass or the force of inertia of the point is set out by the letter A, and
-the [external] force by the letter g, which is constant since it is the same
-amount everywhere. Let the distance AP = x, and the required speed at P
-is put equal to c. An element of distance Pp is taken, which is equal to dx;
-and the increment of the speed dc is acquired by the point on completing
-the element Pp, acted on by the force g [p. 78]. With these put in place, it
-follows that 
+The mass or the force of inertia of the point is set out by the letter A, and the [external] force by the letter g, which is constant since it is the same amount everywhere. 
+
+Let the distance AP = x, and the required speed at P is put equal to c. An element of distance Pp is taken, which is equal to dx;
+and the increment of the speed dc is acquired by the point on completing the element Pp, acted on by the force g [p. 78]. With these put in place, it follows that 
 
 ...
 
@@ -84,62 +80,45 @@ to relate the two sides of the equation, which otherwise are proportional quanti
 according to Galileo's ideas. Thus, all the differential equations presented, that can be
 integrated, rely on proportions.] -->
 
-From this equation, if it is integrated, there arises .Const
-2 += A
-ngx
-cc , which constant
-must be determined from the condition that the speed of the point vanishes at A.
+From this equation, if it is integrated, there arises ...  which constant must be determined from the condition that the speed of the point vanishes at A.
+
 Therefore from this it follows that c = 0, and x = 0, gives the constant as zero. On account
-of which we have A
-ngx
-A
-ngx ccc 22 or == . Q. E. I.
-Corollary I.
-194. Therefore the point A always falls along the straight line AP, and the speed at any
-point is as the square root of the distance now traversed.
+of which we have A ..  Q. E. I.
+
+### Corollary 1
+
+194. Therefore the point A always falls along the straight line AP, and the speed at any point is as the square root of the distance now traversed.
 
 ### Corollary 2
 
-195. From these also, the descents of many points acted on by uniform or constant forces
-can be compared; for the speeds are in the ratio directly of the square root of the forces
-and the distances traversed, and inversely as the square root of the masses.
+195. From these also, the descents of many points acted on by uniform or constant forces can be compared; for the speeds are in the ratio directly of the square root of the forces and the distances traversed, and inversely as the square root of the masses.
 
 ## Scholium 1
 
-196. This case agrees above all with the fall of bodies on the earth : for the force of
-gravity, which in turn takes the place of the force, is uniform for not too great distances
-from the surface of the earth. In so much as the weight of any body from the highest
-mountain to the deepest valley is found to be the same ; moreover from the weight the
-force of gravity is found. Therefore in the free fall of weights the speeds are as the square
-roots of the distances traversed. This is the proposal of Galileo himself, that he
-discovered first from experiment and then by reasoning [p. 79]. Moreover the descent
-should be made in a space from which the air has been evacuated, since the air resists the
-motion and this effect is avoided.
+196. This case agrees above all with the fall of bodies on the earth : for the force of gravity, which in turn takes the place of the force, is uniform for not too great distances from the surface of the earth. 
+
+In so much as the weight of any body from the highest mountain to the deepest valley is found to be the same ; moreover from the weight the force of gravity is found. 
+
+Therefore in the free fall of weights the speeds are as the square roots of the distances traversed. This is the proposal of Galileo himself, that he discovered first from experiment and then by reasoning. 
+
+Moreover, the descent should be made in a space from which the air has been evacuated, since the air resists the motion and this effect is avoided.
 
 ## Scholium 2
 
-197. In an empty space, which can be effected with the help of pneumatic pumps, it has
-been shown by many experiments that any bodies fall equally. From which it follows, if
-there should be no air, all bodies that fall from equal heights gain equal speeds. On
-account of this, if g designates the force of gravity, by which any body A is moved, then
-A
-g is always the same constant. Hence the force of gravity is proportional to the quantity
-of matter in the body on which it acts. But that force is none other than the weight of the
-body ; whereby the weight in the Princip. Phil. confirms this too, and that besides is in
+197. In an empty space, which can be effected with the help of pneumatic pumps, it has been shown by many experiments that any bodies fall equally. From which it follows, if there should be no air, all bodies that fall from equal heights gain equal speeds. On
+account of this, if g designates the force of gravity, by which any body A is moved, then .. g is always the same constant. Hence the force of gravity is proportional to the quantity of matter in the body on which it acts. 
+
+But that force is none other than the weight of the body ; whereby the weight in the Princip. Phil. confirms this too, and that besides is in
 agreement with pendulum experiments.
 
 
 ### Corollary 3
 
-198. Therefore any body on the surface of the earth fallen from a given height will
-acquire a step of the speed. Therefore with the height known, from which the body
-descended, [the speed] acquired from the descent will be known likewise.
+198. Therefore any body on the surface of the earth fallen from a given height will acquire a step of the speed. Therefore with the height known, from which the body descended, [the speed] acquired from the descent will be known likewise.
 
 ## Scholium 3
 
-199. Therefore in order that we can measure these speeds, these heights are to put in
-place from which a weight falling to the surface of the earth acquires an equal speed [p.
-80]. Indeed this height cannot be substituted in place of the speed itself, since the speeds
-are in the square root ratio to the height. Yet truly it will be possible for the height to
-denote the square of the speed.
+199. Therefore in order that we can measure these speeds, these heights are to put in place from which a weight falling to the surface of the earth acquires an equal speed.
+
+This height cannot be substituted in place of the speed itself, since the speeds are in the square root ratio to the height. Yet truly it will be possible for the height to denote the square of the speed.
 

@@ -5,6 +5,7 @@ description: "We replace God with the alien Anu of the Anunnaki"
 # description: "When Isaac was old, and his eyes were dim, so that he could not see"
 weight: 54
 c: "firebrick"
+a: "Anu"
 ---
 
 

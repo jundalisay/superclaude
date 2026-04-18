@@ -6,18 +6,15 @@ weight: 64
 description: ""
 author: "Euler"
 c: "firebrick"
-draft: true
 ---
 
 
 ## PROPOSITION 37. PROBLEM
 
-297. To determine the time of descent through AC (Fig. 28) to the centre of force C, if the
-centripetal force varies inversely with the reciprocal of the distance, the exponent of
-which is raised to the power mm−1 , with m denoting some positive integer.
-+1 .]
-[This may be compared with the previous proposition, for which the power is 22m
-m −1
+297. To determine the time of descent through AC (Fig. 28) to the centre of force C, if the centripetal force varies inversely with the reciprocal of the distance, the exponent of which is raised to the power mm−1 , with m denoting some positive integer.
+
+<!-- [This may be compared with the previous proposition, for which the power is 22m
+m −1 -->
 
 ### SOLUTION
 
@@ -86,10 +83,9 @@ whole distance AC ...
 
 ### Corollary 4
 
-301. With the same interpolations used as above (294) the times of descent can be
-assigned, if m is any positive integer + 12 . Clearly for m = 12 , in which case n = 1; the
-time of descent is equal to π2 2 f , in short as in § 283, where the same case, in which
-n = 1 or the centripetal force is proportional to the distance, has been explored.
+301. With the same interpolations used as above (294) the times of descent can be assigned, if m is any positive integer + 12 . 
+
+For m = 12 , in which case n = 1; the time of descent is equal to π2 2 f , in short as in § 283, where the same case, in which n = 1 or the centripetal force is proportional to the distance, has been explored.
 
 
 ### Corollary 5
@@ -112,11 +108,6 @@ Besides these cases I doubt that any other is given. Then the cases also appear 
 ...
 
 
-with m denoting as above positive integer. Indeed nor are these all the cases which can be
-deduced from the quadrature of the circle, for there is the singular case, for which n = –1,
-which depends on the quadrature of the circle too, as we will show in the following
-proposition. For indeed this is a different case from these, since here in the expression for
-the time not π but π occurs; and besides also only the whole time of descent can be
-shown involving π , since the time for any indefinite interval can be shown except for
-the quadrature of the whole transcendental curve
+with m denoting as above positive integer. Indeed nor are these all the cases which can be deduced from the quadrature of the circle, for there is the singular case, for which n = –1, which depends on the quadrature of the circle too, as we will show in the following proposition. 
 
+For this is a different case from these, since here in the expression for   the time not π but π occurs; and besides also only the whole time of descent can be shown involving π , since the time for any indefinite interval can be shown except for the quadrature of the whole transcendental curve

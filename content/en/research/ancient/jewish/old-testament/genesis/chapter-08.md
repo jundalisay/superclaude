@@ -1,15 +1,16 @@
 ---
 heading: Genesis 8
 title: "After The Flood"
-description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense"
 weight: 14
 c: "firebrick"
+a: "Anu"
 ---
 
 
-<sup>1</sup> Enki remembered Noah, and every living thing, and all the cattle that was with him in the ark: 
+<sup>1</sup> Anu remembered Noah, and every living thing, and all the cattle that was with him in the ark: 
 
-Enki made a wind pass over the earth, and the waters asswaged; 
+Anu made a wind pass over the earth, and the waters asswaged.
 
 <sup>2</sup> The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained.
 
@@ -42,10 +43,12 @@ Noah removed the covering of the ark, and looked, and, behold, the face of the g
 
 <sup>14</sup> In month 2, day 27, the earth dried.
 
-<sup>15</sup> Enki told Noah:
+<sup>15</sup> Anu told Noah:
 
-{{< l a="Enki" >}}
-<sup>16</sup> Go out of the ark with your wife, sons, their wives. <sup>17</sup> Bring forth with you every living thing that is with you, of all flesh, both of bird and cattle and of every creeping thing that creepeth on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
+{{< l a="Anu" >}}
+<sup>16</sup> Go out of the ark with your wife, sons, their wives. 
+
+<sup>17</sup> Bring forth with you every living thing that is with you, of all flesh, both of bird and cattle and of every creeping thing that creepeth on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. 
 {{< /l >}}
 
 
@@ -53,12 +56,12 @@ Noah removed the covering of the ark, and looked, and, behold, the face of the g
 
 <sup>19</sup> Every beast, every creeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
 
-<sup>20</sup> Noah built an altar for Enki. He took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
+<sup>20</sup> Noah built an altar for Anu. He took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
 
-<sup>21</sup> Enlil smelled a sweet savour and said in his heart:
+<sup>21</sup> Anu smelled a sweet savour and said in his heart:
 
-{{< l a="Enlil" >}}
-I will not again curse the ground any more for man’s sake. For the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.  <sup>22</sup> While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
+{{< l a="Anu" >}}
+I will not again curse the ground any more for man’s sake. For the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.  
+
+<sup>22</sup> While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 {{< /l >}}
-
-

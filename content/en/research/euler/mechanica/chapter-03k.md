@@ -3,7 +3,7 @@ heading: Chapter 3k
 title: "Proposition 35"
 date: 2025-03-20
 weight: 61
-description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+description: ""
 author: "Euler"
 c: "firebrick"
 draft: true

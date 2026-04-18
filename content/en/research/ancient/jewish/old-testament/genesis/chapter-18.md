@@ -1,19 +1,21 @@
 ---
 heading: Genesis 18
 title: "Anu eats with Abraham"
-description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 34
 c: "firebrick"
+a: "Anu"
 ---
 
 
 <sup>1</sup> Anu appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
 
-<sup>2</sup> 3 men stood by Anu. So Abraham ran to meet them from the tent door, and bowed himself toward the ground <sup>3</sup> and said:
+<sup>2</sup> Three men stood by Anu. So Abraham ran to meet them from the tent door, and bowed himself toward the ground <sup>3</sup> and said:
 
 {{< l a="Abraham" >}}
-My Lord, if now I have found favour in your sight, pass not away, I pray you, from your
-servant: <sup>4</sup> Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
+My Lord, if now I have found favour in your sight, pass not away, I pray you, from your servant.
+
+<sup>4</sup> Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree.
 
 <sup>5</sup> I will fetch a morsel of bread, and comfort you your hearts; after that you shall pass on: for therefore are you come to your servant.
 {{< /l >}}

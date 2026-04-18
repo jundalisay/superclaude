@@ -1,9 +1,10 @@
 ---
 heading: Genesis 37
 title: "Joseph's Dreams"
-description: ""
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 74
 c: "firebrick"
+a: "Anu"
 ---
 
 

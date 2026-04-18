@@ -1,15 +1,16 @@
 ---
 heading: Genesis 7
 title: "Before and During the Flood"
-description: "Come you and all your house into the ark. I have seen you righteous before me in this generation"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense"
 weight: 12
 c: "firebrick"
+a: "Anu"
 ---
 
 
-<sup>1</sup> Enki said to Noah:
+<sup>1</sup> Anu said to Noah:
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 Come you and all your house into the ark. I have seen you righteous before me in this generation. 
 
 <sup>2</sup> Of every clean beast you shalt take by sevens, the male and his female: and of beasts that [are] not clean by two, the male and his female. <sup>3</sup> Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
@@ -17,13 +18,13 @@ Come you and all your house into the ark. I have seen you righteous before me in
 <sup>4</sup> Im 7 days, I will cause rain on the earth 40 days and 40 nights. Every living substance that I have made I will destroy from the face of the earth. 
 {{< /l >}}
 
-<sup>5</sup> Noah did according unto all that Enki commanded. <sup>6</sup> Noah was 600 years old when the flood hit the earth.
+<sup>5</sup> Noah did according unto all that Anu commanded. <sup>6</sup> Noah was 600 years old when the flood hit the earth.
 
 <sup>7</sup> The following went into the ark because of the waters of the flood:
 - Noah, his sons, his wife, his sons’ wives
 - <sup>8</sup> The clean and unclean beasts
 - birds and every thing that creeps on the earth
-- <sup>9</sup> two and two, the male and the female, as Enki had commanded Noah. 
+- <sup>9</sup> two and two, the male and the female, as Anu had commanded Noah. 
 
 <sup>10</sup> After 7 days, the waters of the flood were upon the earth.
 
@@ -40,7 +41,7 @@ his kind, and every fowl after his kind, every bird of every
 sort. {7:15} And they went in unto Noah into the ark, two
 and two of all flesh, wherein [is] the breath of life. {7:16}
 And they that went in, went in male and female of all flesh,
-as God had commanded him: and Enki shut him in. -->
+as God had commanded him: and Anu shut him in. -->
 
 <sup>17</sup> The flood was 40 days on the earth. The waters increased, and bare up the ark, and it was lift up above the earth. 
 

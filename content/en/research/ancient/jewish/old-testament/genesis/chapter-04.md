@@ -1,42 +1,43 @@
 ---
 heading: Genesis 4
 title: "Cain and Abel"
-description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense"
 weight: 8
 c: "firebrick"
+a: "Anu"
 ---
 
 
 <sup>1</sup> Adam had sex with Eve his wife. She conceived and gave birth to Cain.
 
 {{< r a="Eve" >}}
-I have gotten a man from Enlil.
+I have gotten a man from Anu.
 {{< /r >}}
 
 <sup>2</sup> She again gave birth to his brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.
 
-<sup>3</sup> In time, Cain brought of the fruit of the ground an offering for Enlil. 
+<sup>3</sup> In time, Cain brought of the fruit of the ground an offering for Anu. 
 
 <sup>4</sup> Abel, he also brought of the firstlings of his flock and of the fat thereof.
 
-Enlil had respect for Abel and his offering, <sup>5</sup> but not for Cain and his offering. This made Cain very angry. He looked despondent. 
+Anu had respect for Abel and his offering, <sup>5</sup> but not for Cain and his offering. This made Cain very angry. He looked despondent. 
 
-<sup>6</sup> Enlil said to Cain:
+<sup>6</sup> Anu said to Cain:
 
-{{< l a="Enlil" >}}
+{{< l a="Anu" >}}
 Why are you angry? Why do you look despondent? <sup>7</sup> If you do [your offering] well, then you will be accepted. If not, then sin is at the door. Its desire is for you, but you must overcome it.
 {{< /l >}}
 
 
 <sup>8</sup> Cain talked with Abel. When they were in the field, Cain rose up against Abel and slew him.
 
-<sup>9</sup> Enlil asked Cain where Abel is. He said:
+<sup>9</sup> Anu asked Cain where Abel is. He said:
 
 {{< r a="Cain" >}}
 I do not know: Am I my brother’s keeper? 
 {{< /r >}}
 
-{{< l a="Enlil" >}}
+{{< l a="Anu" >}}
 <sup>10</sup> What have you done? The voice of your brother’s blood cried to me from the ground. <sup>11</sup> Now you are cursed from the earth, which had opened her mouth to receive your brother’s blood from your hand. <sup>12</sup> When you till the ground, it shall not yield to you her strength. You will be a fugitive and vagabond on the earth. 
 {{< /l >}}
 
@@ -45,11 +46,11 @@ I do not know: Am I my brother’s keeper?
 {{< /r >}}
 
 
-{{< l a="Enlil" >}}
+{{< l a="Anu" >}}
 <sup>15</sup> Whoever slays Cain, vengeance shall be taken on him sevenfold.
 {{< /l >}}
 
-Enlil set a mark upon Cain, lest anyone finding him should kill him.
+Anu set a mark upon Cain, lest anyone finding him should kill him.
 
 <sup>16</sup> So Cain went out from the presence of Enki, and dwelt in the land of Nod, on the east of Eden. 
 
@@ -77,7 +78,7 @@ hurt. {4:24} If Cain shall be avenged sevenfold, truly Lamech seventy and sevenf
 
 
 r a="Eve" 
-Enlil had appointed me another seed to replace Abel, whom Cain slew. 
+Anu had appointed me another seed to replace Abel, whom Cain slew. 
 /r  -->
 <!-- 
 {4:26} Seth later had a son named Enos. 

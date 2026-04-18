@@ -1,14 +1,14 @@
 ---
 heading: Genesis 14
 title: "Abram Leaves Egypt"
-description: "Abram left Egypt with his wife, Lot, and all that he had, and Lot with him going south"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 26
 c: "firebrick"
+a: "Anu"
 ---
 
 
-<sup>1</sup> In the days of Amraphel king of Sumer, Arioch king of Ellasar, Chedorlaomer king of
-Elam, and Tidal king of nations; 
+<sup>1</sup> In the days of Amraphel king of Sumer, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations.
 
 <sup>2</sup> These made war with Bera, king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. 
 
@@ -46,22 +46,29 @@ They joined battle with them in the valley of Siddim.
 
 <sup>16</sup> He brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.
 
-<sup>17</sup> The king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which [is] the king’s dale.
+<sup>17</sup> The king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king’s dale.
 
 <sup>18</sup> Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God. 
 
-<sup>19</sup> He blessed him, and said, Blessed be Abram of Enki, possessor of heaven and earth: 
+<sup>19</sup> He blessed Abram, and said:
 
-<sup>20</sup> Blessed be Enki which had delivered your enemies into your hand.
+{{< r a="Melchizedek" >}}
+Blessed be Abram of Anu, possessor of heaven and earth.
+
+<sup>20</sup> Blessed be Anu which had delivered your enemies into your hand.
 
 He gave him tithes of all. 
+{{< /r >}}
+
 
 <sup>21</sup> The king of Sodom said to Abram:
 
+{{< r a="King" >}}
 Give me the persons, and take the goods to yourself. 
+{{< /r >}}
 
-<sup>22</sup> Abram replied:
-
-I have lifted up my hand to Enki, the possessor of heaven and earth <sup>23</sup> so that I will not take from a thread even to a shoelatchet, and that I will not take any thing that is yours, lest you shoulde say, I have made Abram rich: 
+{{< l a="Abram" >}}
+<sup>22</sup>  I have lifted up my hand to Anu, the possessor of heaven and earth <sup>23</sup> so that I will not take from a thread even to a shoelatchet, and that I will not take any thing that is yours, lest you shoulde say, I have made Abram rich.
 
 <sup>24</sup> Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
+{{< /l >}}

@@ -45,11 +45,7 @@ infinite ; and thus if + 1 is crossed, the time will be infinite.
 
 ### Corollary 2
 
-316. Moreover it is agreed from the nature of things, that if n is a positive number, then
-the body would never be leaving C (313) [Thus, on physical grounds, the initial force
-must be zero at C, otherwise the body has a finite speed at this point, in contradiction
-with the formula for the speed, which is zero at C]. On this account it is necessary that the
-calculation fails, although n is contained between 0 and + 1, and in this calculation used it
+316. Moreover it is agreed from the nature of things, that if n is a positive number, then the body would never be leaving C (313) [Thus, on physical grounds, the initial force must be zero at C, otherwise the body has a finite speed at this point, in contradiction with the formula for the speed, which is zero at C]. On this account it is necessary that the calculation fails, although n is contained between 0 and + 1, and in this calculation used it
 is clear that a finite time is considered to have passed, [whereas only an elemental time is
 allowed]. 
 
@@ -82,15 +78,10 @@ in the beginning of the motion has without doubt been established,
 and this other universal law in place concerning the increment of
 the speed produced from the forces is wrongly used.
 
-Since indeed, as now we have noticed (313), this law is only put
-in place when the body has a finite speed, and this is always
-rashly used at the beginning of the motion. Moreover since that
-error only belongs to the first element, and generally is infinitely
-small and on this account is not required to be considered. 
+This law is only put in place when the body has a finite speed, and this is always rashly used at the beginning of the motion. Moreover since that
+error only belongs to the first element, and generally is infinitely small and on this account is not required to be considered. 
 
-Truly it is infinitely small, just as the first element of distance is traversed in an infinitely small
-length of time, then indeed neither the increment in the speed nor the increment in the
-time will be able to produce an examinable distinction. This happens, if the force, which
+It is infinitely small, just as the first element of distance is traversed in an infinitely small length of time, then indeed neither the increment in the speed nor the increment in the time will be able to produce an examinable distinction. This happens, if the force, which
 the body in the beginning of its motion is acted upon, is either of finite or even infinite
 magnitude ; indeed this is evident in the case of the first element of time for the point to
 pass through. 

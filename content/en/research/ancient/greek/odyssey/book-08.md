@@ -1,6 +1,6 @@
 ---
 heading: Book 8
-title: "BANQUET IN THE HOUSE OF ALCINOUS—THE GAMES."
+title: "Banquet In The House Of Alcinous"
 weight: 19
 c: "darkslategray"
 icon: Homer
@@ -11,13 +11,38 @@ description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nep
 
 
 
-Now when the child of morning, rosy-fingered Dawn, appeared, Alcinous and Ulysses both rose, and Alcinous led the way to the Phaeacian place of assembly, which was near the ships. When they got there they sat down side by side on a seat of polished stone, while Minerva took the form of one of Alcinous’ servants, and went round the town in order to help Ulysses to get home. She went up to the citizens, man by man, and said, “Aldermen and town councillors of the Phaeacians, come to the assembly all of you and listen to the stranger who has just come off a long voyage to the house of King Alcinous; he looks like an immortal god.”
+When Dawn appeared, Alcinous and Ulysses both rose.
 
-With these words she made them all want to come, and they flocked to the assembly till seats and standing room were alike crowded. Every one was struck with the appearance of Ulysses, for Minerva had beautified him about the head and shoulders, making him look taller and stouter than he really was, that he might impress the Phaeacians favourably as being a very remarkable man, and might come off well in the many trials of skill to which they would challenge him. Then, when they were got together, Alcinous spoke:
+Alcinous led the way to the Phaeacian place of assembly, which was near the ships.
 
-“Hear me,” said he, “aldermen and town councillors of the Phaeacians, that I may speak even as I am minded. This stranger, whoever he may be, has found his way to my house from somewhere or other either East or West. He wants an escort and wishes to have the matter settled. Let us then get one ready for him, as we have done for others before him; indeed, no one who ever yet came to my house has been able to complain of me for not speeding on his way soon enough. Let us draw a ship into the sea—one that has never yet made a voyage—and man her with two and fifty of our smartest young sailors. Then when you have made fast your oars each by his own seat, leave the ship and come to my house to prepare a feast.[65] I will find you in everything. I am giving these instructions to the young men who will form the crew, for as regards you aldermen and town councillors, you will join me in entertaining our guest in the cloisters. I can take no excuses, and we will have Demodocus to sing to us; for there is no bard like him whatever he may choose to sing about.”
+When they got there they sat down side by side on a seat of polished stone, while Minerva took the form of one of Alcinous’ servants, and went round the town in order to help Ulysses to get home.
 
-Alcinous then led the way, and the others followed after, while a servant went to fetch Demodocus. The fifty-two picked oarsmen went to the sea shore as they had been told, and when they got there they drew the ship into the water, got her mast and sails inside her, bound the oars to the thole-pins with twisted thongs of leather, all in due course, and spread the white sails aloft. They moored the vessel a little way out from land, and then came on shore and went to the house of King Alcinous. The out houses,[66] yards, and all the precincts were filled with crowds of men in great multitudes both old and young; and Alcinous killed them a dozen sheep, eight full grown pigs, and two oxen. These they skinned and dressed so as to provide a magnificent banquet.
+She went up to the citizens, man by man, and said:
+
+{{< l a="Minerva" >}}
+“Aldermen and town councillors of the Phaeacians, come to the assembly all of you and listen to the stranger who has just come off a long voyage to the house of King Alcinous; he looks like an immortal god.
+{{< /l >}}
+
+
+With these words she made them all want to come, and they flocked to the assembly till seats and standing room were alike crowded. 
+
+Every one was struck with the appearance of Ulysses, for Minerva had beautified him about the head and shoulders, making him look taller and stouter than he really was, that he might impress the Phaeacians favourably as being a very remarkable man, and might come off well in the many trials of skill to which they would challenge him. 
+
+Then, when they were got together, Alcinous spoke:
+
+
+{{< r a="Alcinous" >}}
+Hear me aldermen and town councillors of the Phaeacians, that I may speak even as I am minded. 
+
+This stranger, whoever he may be, has found his way to my house from somewhere or other either East or West. He wants an escort and wishes to have the matter settled. Let us then get one ready for him, as we have done for others before him; indeed, no one who ever yet came to my house has been able to complain of me for not speeding on his way soon enough.
+
+Let us draw a ship into the sea—one that has never yet made a voyage—and man her with two and fifty of our smartest young sailors. Then when you have made fast your oars each by his own seat, leave the ship and come to my house to prepare a feast.[65] I will find you in everything. I am giving these instructions to the young men who will form the crew, for as regards you aldermen and town councillors, you will join me in entertaining our guest in the cloisters. I can take no excuses, and we will have Demodocus to sing to us; for there is no bard like him whatever he may choose to sing about.
+{{< /r >}}
+
+
+Alcinous then led the way, and the others followed after, while a servant went to fetch Demodocus. The fifty-two picked oarsmen went to the sea shore as they had been told, and when they got there they drew the ship into the water, got her mast and sails inside her, bound the oars to the thole-pins with twisted thongs of leather, all in due course, and spread the white sails aloft. They moored the vessel a little way out from land, and then came on shore and went to the house of King Alcinous. 
+
+The out houses,[66] yards, and all the precincts were filled with crowds of men in great multitudes both old and young; and Alcinous killed them a dozen sheep, eight full grown pigs, and two oxen. These they skinned and dressed so as to provide a magnificent banquet.
 
 A servant presently led in the famous bard Demodocus, whom the muse had dearly loved, but to whom she had given both good and evil, for though she had endowed him with a divine gift of song, she had robbed him of his eyesight. Pontonous set a seat for him among the guests, leaning it up against a bearing-post. He hung the lyre for him on a peg over his head, and showed him where he was to feel for it with his hands. He also set a fair table with a basket of victuals by his side, and a cup of wine from which he might drink whenever he was so disposed.
 
@@ -37,7 +62,15 @@ Ulysses answered, “Laodamas, why do you taunt me in this way? my mind is set r
 
 Then Euryalus reviled him outright and said, “I gather, then, that you are unskilled in any of the many sports that men generally delight in. I suppose you are one of those grasping traders that go about in ships as captains or merchants, and who think of nothing but of their outward freights and homeward cargoes. There does not seem to be much of the athlete about you.”
 
-“For shame, Sir,” answered Ulysses, fiercely, “you are an insolent fellow—so true is it that the gods do not grace all men alike in speech, person, and understanding. One man may be of weak presence, but heaven has adorned this with such a good conversation that he charms every one who sees him; his honeyed moderation carries his hearers with him so that he is leader in all assemblies of his fellows, and wherever he goes he is looked up to. Another may be as handsome as a god, but his good looks are not crowned with discretion. This is your case. No god could make a finer looking fellow than you are, but you are a fool. Your ill-judged remarks have made me exceedingly angry, and you are quite mistaken, for I excel in a great many athletic exercises; indeed, so long as I had youth and strength, I was among the first athletes of the age. Now, however, I am worn out by labour and sorrow, for I have gone through much both on the field of battle and by the waves of the weary sea; still, in spite of all this I will compete, for your taunts have stung me to the quick.”
+
+{{< l a="Ulysses" >}}
+For shame, Sir you are an insolent fellow—so true is it that the gods do not grace all men alike in speech, person, and understanding. One man may be of weak presence, but heaven has adorned this with such a good conversation that he charms every one who sees him; his honeyed moderation carries his hearers with him so that he is leader in all assemblies of his fellows, and wherever he goes he is looked up to. Another may be as handsome as a god, but his good looks are not crowned with discretion.
+
+This is your case. No god could make a finer looking fellow than you are, but you are a fool. Your ill-judged remarks have made me exceedingly angry, and you are quite mistaken, for I excel in a great many athletic exercises; indeed, so long as I had youth and strength, I was among the first athletes of the age. 
+
+Now, however, I am worn out by labour and sorrow, for I have gone through much both on the field of battle and by the waves of the weary sea; still, in spite of all this I will compete, for your taunts have stung me to the quick.
+{{< /l >}}
+
 
 So he hurried up without even taking his cloak off, and seized a disc, larger, more massive and much heavier than those used by the Phaeacians when disc-throwing among themselves.[68] Then, swinging it back, he threw it from his brawny hand, and it made a humming sound in the air as he did so. The Phaeacians quailed beneath the rushing of its flight as it sped gracefully from his hand, and flew beyond any mark that had been made yet. Minerva, in the form of a man, came and marked the place where it had fallen. “A blind man, Sir,” said she, “could easily tell your mark by groping for it—it is so far ahead of any other. You may make your mind easy about this contest, for no Phaeacian can come near to such a throw as yours.”
 

@@ -10,7 +10,7 @@ draft: true
 ---
 
 
-## PROPOSITION 36. PROBLEM
+## Proposition 36. Problem
 
 290. To determine the times of descent through the distance AC to the centre of the force C (Fig. 28),if the centripetal force is proportional to the reciprocal of the distances +1 , with the number m denoting a
 considered, and the exponent of this distance is 22m

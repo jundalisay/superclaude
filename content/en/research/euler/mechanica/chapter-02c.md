@@ -5,6 +5,7 @@ date: 2025-03-20
 weight: 28
 description: "For a given increment of the speed, a certain force produces on the point A in the small increment of time dt"
 author: "Euler"
+a: "Euler"
 c: "firebrick"
 ---
 
@@ -30,23 +31,19 @@ Therefore in the following small time dt, the body travels a distance bC = Ab wi
 
 In the same manner in the third increment of the time dt it will traverse the distance de = dE + Ee, where again dE = Cd and Ee = ao. Indeed we have :
 
-Ab  AB  ao; bc  AB  2ao; cd  AB  3ao; de  AB  4ao.
-ao is the is the increment of the speed produced by the force in the time dt ; 2dt
-Hence ao dt
+...  Ab  AB  ao; bc  AB  2ao; cd  AB  3ao; de  AB  4ao.
 
-ao increment in the small
-increment of the speed acquired in the time 2dt ; similarly 3dt
-time 3dt
+ao is the is the increment of the speed produced by the force in the time dt ; 2dt .. 
 
-Generally in the short time ndt the speed c of the point will increase by the element nao
-. 
+Hence ao dt .. ao increment in the small increment of the speed acquired in the time 2dt ; similarly 3dt .. time 3dt ..
 
-Put ndt  d , then n  ddt . Therefore the increment of the speed acquired
-dt
-in the time increment d will be ao.d2 . Since indeed the increment of the speed in the
-dt
-ao
-short time dt is dt , it will be produced in this ratio : (increment of the speed acquired in the increment of the time dt) is to (increment of the speed acquired in the time increment d ) as dt is to d . Consequently the increments of the speed are in proportion to the times in which they are produced. Q. E. I.
+Generally in the short time ndt the speed c of the point will increase by the element nao .. . 
+
+Put ndt  d , then n  ddt . 
+
+Therefore the increment of the speed acquired in the time increment d will be ao.d2.. 
+
+Since the increment of the speed in the short time dt is dt , it will be produced in this ratio : (increment of the speed acquired in the increment of the time dt) is to (increment of the speed acquired in the time increment d ) as dt is to d . Consequently the increments of the speed are in proportion to the times in which they are produced. Q. E. I.
 
 
 ### Corollary 1.

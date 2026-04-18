@@ -12,20 +12,15 @@ c: "firebrick"
 
 ## PROPOSITION 33. PROBLEM
 
-274. With the attraction from the centre C (Fig. 26) to be in some ratio of a multiple of
-the distances, the body at D now has a given speed ; the point A is required on the line
-CD produced, from which the descent of the body towards C begins, so that it has
-acquired this speed when it arrives at D. [p. 110]
+274. With the attraction from the centre C (Fig. 26) to be in some ratio of a multiple of the distances, the body at D now has a given speed ; the point A is required on the line CD produced, from which the descent of the body towards C begins, so that it has acquired this speed when it arrives at D. [p. 110]
 
 
 ### SOLUTION
 
-With n denoting as above the exponent of the ratio of multiplication,
-in what shall be the centripetal force, and f the distance at which the
-centripetal force is equal to the force of gravity; let CD = b, the speed at
-D corresponding to the height h, and the distance CA sought which is put
-equal to q. Since here therefore q denotes that same distance as a [i. e.
-CA] in the above proposition, and b likewise that of y [i. e. CP], and h
+With n denoting as above the exponent of the ratio of multiplication, in what shall be the centripetal force, and f the distance at which the
+centripetal force is equal to the force of gravity; let CD = b, the speed at D corresponding to the height h, and the distance CA sought which is put equal to q. 
+
+Since here therefore q denotes that same distance as a [i. e. CA] in the above proposition, and b likewise that of y [i. e. CP], and h
 likewise here represents v, this equation is formed: n ... = above.] 
 
 From which ... 
@@ -35,10 +30,9 @@ which is unity. Q. E. I.
 
 ### Corollary 1
 
-275. If the centripetal force varies directly as the distance, then n = 1 and
-)2( 2 fhbq += . Which is always a finite quantity, but only if b, f and h are such.
-Likewise it arises, provided n + 1 is a positive number. And also in the case n = - 1 the
-distance q is never infinite.
+275. If the centripetal force varies directly as the distance, then n = 1 and )2( 2 fhbq += . Which is always a finite quantity, but only if b, f and h are such.
+
+Likewise it arises, provided n + 1 is a positive number. And also in the case n = - 1 the distance q is never infinite.
 
 ### Corollary 2
 
@@ -126,10 +120,9 @@ time to traverse PC becomes = a
 fEM 2. . The time therefore of the total descent through
 AC will be a
 fAME 2. . Hence the time of descent through AP = a
-fAM 2. . From these
-therefore the time of descent through any distance travelled through can become known,
-and that in seconds, if these expressions are divided by 250 and the length f is shown in
-thousandth parts of Rhenish feet. Q. E. I.
+fAM 2. . 
+
+From these therefore the time of descent through any distance travelled through can become known, and that in seconds, if these expressions are divided by 250 and the length f is shown in thousandth parts of Rhenish feet. Q. E. I.
 
 ### Corollary 1
 
@@ -138,27 +131,17 @@ thousandth parts of Rhenish feet. Q. E. I.
 π=a
 AME . Hence on account of this, the time of descent through
 AC is equal to f22
-π . [p. 114] Since that does not depend on the height dropped or
-travelled through a, but whatever amount this shall be, it keeps the same value. Therefore
-all bodies, which are released towards this centre, reach that in equal amounts of time.
+π . [p. 114] Since that does not depend on the height dropped or travelled through a, but whatever amount this shall be, it keeps the same value. 
+
+Therefore all bodies, which are released towards this centre, reach that in equal amounts of time.
 
 ## Scholium
 
 284. This equality of the time follows from the expression for the time f
 ... in
-which a and y are required to have one dimension. Indeed the amount comes about, the
-times, in which any distances a are travelled through, must be equal to each other. (46).
+which a and y are required to have one dimension. Indeed the amount comes about, the times, in which any distances a are travelled through, must be equal to each other. (46).
 
 
 ### Corollary 2
 
-285. If besides there should be another of centre of force of this kind, but with a different
-effectiveness provided, thus in order that the distance at which the centripetal force is
-equal to the force of gravity is F, the times of the descents shall be to each other as
-Ff ad . But the effectiveness of each are themselves in this case in the inverse ratio
-of the distances f : F; indeed these are as the forces, which these forces exercise at equal
-distances. Wherefore the times of descent to the different centres of force are in the
-inverse ratio of the square roots of their effectiveness. Which ratio indeed holds in all
-similar centres of force in place, if the distances traversed are equal to each other, as will
-be taught in what follows.
-
+285. If besides there should be another of centre of force of this kind, but with a different effectiveness provided, thus in order that the distance at which the centripetal force is equal to the force of gravity is F, the times of the descents shall be to each other as Ff ad . But the effectiveness of each are themselves in this case in the inverse ratio of the distances f : F; indeed these are as the forces, which these forces exercise at equal distances. Wherefore the times of descent to the different centres of force are in the inverse ratio of the square roots of their effectiveness. Which ratio indeed holds in all similar centres of force in place, if the distances traversed are equal to each other, as will be taught in what follows.

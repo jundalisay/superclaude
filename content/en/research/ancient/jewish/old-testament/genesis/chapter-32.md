@@ -5,6 +5,7 @@ image: /photos/physics/wrestle.jpg
 description: "We replace 'God' with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 64
 c: "firebrick"
+a: "Anu"
 ---
 
 

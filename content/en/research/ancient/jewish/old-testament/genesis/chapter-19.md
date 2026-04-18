@@ -1,9 +1,10 @@
 ---
 heading: Genesis 18
 title: "Sodom's Destruction"
-description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 36
 c: "firebrick"
+a: "Anu"
 ---
 
 

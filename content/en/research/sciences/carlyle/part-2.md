@@ -8,29 +8,156 @@ weight: 93
 
 
 
-The West India islands are still full of waste fertility, produce abundant pumpkins; pumpkins.
+The West India islands are still full of waste fertility, produce abundant pumpkins.
 
  <!-- however, you will please to observe, are not the sole requisite for human well-being.  -->
 
-No! for a pig they are the one thing needful -- but for a man, they are only the first of several things needful. And now, as to the right of chief management in cultivating those West India lands -- as to the "right of property" so called, and of doing what you like with your own. The question is abstruse enough. Who it may be that has a right to raise pumpkins and other produce on those islands, perhaps none can, except temporarily, decide. 
+For a pig they are the one thing that it needs. 
 
-The islands are good withal for pepper, for sugar, for sago, arrowroot, for coffee, perhaps for cinnamon and precious spices-things far nobler than pumpkins, and leading toward commerces, arts, politics, and social developments, which, alone, are the noble product, where men (and not pigs with pumpkins) are the parties concerned! Well, all this fruit, too, fruit spicy and commercial, fruit spiritual and celestial, so far beyond the merely pumpkinish and grossly terrene, lies in the West India lands; and the ultimate "proprietorship" of them -- why, I suppose, it will vest in him who can the best educe from them, whatever of noble produce they were created fit for yielding. He, I compute, is the real [p.533] "Vicegerent of the Maker" there; in him, better and better chosen, and not in another, is the "property" vested by decree of Heaven's chancery itself! 
+But for a man, they are only the first of several things needed.
 
-Up to this time, it is the Saxon British mainly; they hitherto have cultivated with some manfulness; and when a manfuller class of cultivators, stronger, worthier to have such land, abler to bring fruit from  it, shall make their appearance, they, doubt it not, by fortune of war, and other confused negotiation and vicissitude, will be declared by nature and fact to be the worthier, and will become proprietors, perhaps, also, only for a time. That is the law, I take it, ultimate supreme, for all lands, in all countries, under this sky. The one perfect, Eternal Proprietor, is the Maker who created them; the temporary, better or worse proprietor, is he whom the Maker has sent on that mission; he who the best hitherto can educe from said lands the beneficent gifts the Maker endowed them with -- or, which is but another definition of the same person, he who leads hitherto the manfullest life on that bit of soil, doing better than another yet found can do, the Eternal Purpose and Supreme Will there. And now observe, my friends. it was not Black Quashee, or those he represents, that made those West India islands what they are, or can, by any hypothesis, be considered to have the right of growing pumpkins there.
+Regarding the right of property for cultivating those West India lands, no one can decide who has a right to raise pumpkins and other produce on those islands. 
 
-For countless ages, since they first mounted oozy on the back of earthquakes, from their dark bed in the ocean deeps, and reeking, saluted the tropical sun, and ever onward, till the European white man first saw them, some three short centuries ago, those islands had produced mere jungle, savagery, poison reptiles and swamp malaria till the white European first saw them, they were, as if not yet created; their noble elements of cinnamon -- sugar, coffee, pepper, black and gray, lying all asleep, waiting the white Enchanter, who should say to them, awake! Till the end of human history, and the sounding of the trump of doom, they might have lain so, had Quashee, and the like of him, been the only artists in the game. 
+The islands are:
+- good for pepper, sugar, sago, arrowroot, coffee, perhaps for cinnamon and precious spices-things far nobler than pumpkins
+- leading toward commerces, arts, politics, and social developments
 
-Swamps, fever-jungles, maneating caribs, rattle-snakes, and reeking waste and putrefaction: this had been the produce of them under the incompetent caribal (what we call cannibal) possessors till that time; and Quashee knows, himself, whether ever he could have introduced an improvement. Him, had he, by a miraculous chance, been wafted thither, the caribals would have eaten, rolling him as a fat morsel under their tongue-for him, till the sounding of the trump of doom, the rattlesnakes and savageries would have held on their way. 
+ <!-- which, alone, are the noble product, where men (and not pigs with pumpkins) are the parties concerned!  -->
 
-It was not he, then -- it was another than he! Never, by art of his, could one pumpkin have grown there, to solace any human throat; nothing but savagery, and reeking putrefaction could have grown there! These plentiful pumpkins, I say, therefore, are not his; no, they are another's; they are only his under conditions -- conditions which Exeter Hall, for the present, has forgotten; but which nature, and the Eternal Powers, have, by no manner of means, forgotten, but do, at all moments, keep in mind; and, at the right moment, will, with the due impressiveness, perhaps in rather a terrible manner, bring again to our mind also! If Quashee will not honestly aid in bringing out those sugars, cinnamons, and nobler products of the West India islands, for the benefit [p.534] of all mankind, then, I say, neither will the powers permit Quashee to continue growing pumpkins there for his own lazy benefit, but will sheer him out, by and by, like a lazy gourd overshadowing rich ground -- him, and all that partake with him -- perhaps in a very terrible manner.
+<!-- Well, all this fruit, too, fruit spicy and commercial, fruit spiritual and celestial, so far beyond the merely pumpkinish and grossly terrene, lies in the West India lands; and  -->
 
-For, under favor of Exeter Hall, the "terrible manner" is not yet quite extinct with the destinies in this universe; nor will it quite cease, I apprehend, for soft-sawder or philanthropic stump-oratory, now, or henceforth. No! the gods wish, besides pumpkins, that spices and valuable products be grown in their West Indies; thus much they have declared in so making the West Indies; infinitely more they wish -- that manful, industrious men occupy their West Indies, not indolent, two-legged cattle, however "happy" over their abundant pumpkins! Both these things, we may be assured, the immortal gods have decided upon -- passed their eternal act of parliament for; and both of them, though all terrestial parliaments and entities oppose it to the death, shall be done. Quashee, if he will not help in bringing out the spices, will get himself made a slave again (which state will be a little less ugly than his present one), and with beneficient whip, since other methods avail not, will be compelled to work. Or, alas, let him look across to Hayti, and trace a far sterner prophecy! Let him, by his ugliness, idleness, rebellion, banish all white men from the West Indies, and make it all one Hayti, with little or no sugar-growing, black Peter exterminating black Paul, and, where a garden of the Hesperides might be, nothing but a tropical dog-kennel and pestiferous jungle -- does he think that will forever continue pleasant to gods and men? I see men, the rose-pink cant all peeled away from them, land one day on those black coasts; men sent by the laws of this universe, and the inexorable course of things; men hungry for gold, remorseless, fierce as old buccaneers were -- and a doom for Quashee, which I had rather not contemplate! The gods are long-suffering; but the law, from the beginning, was, He that will not work shall perish from the earth -- and the patience of the gods has limits! 
+The ultimate "proprietorship" of them will vest in him who can the best educe from them, whatever of noble produce they were created fit for yielding. 
 
-Before the West Indies could grow a pumpkin for any negro, how much European heroism had to spend itself in obscure battle; to sink, in mortal agony, before the jungles, the putrescences and waste savageries could become arable, and the devils be, in some measure, chained there! The West Indies grow pineapples, and sweet fruits, and spices; we hope they will, one day, grow beautiful, heroic human lives too, which is surely the ultimate object they were made for; beautiful souls and brave; sages, poets, what not -- making the earth nobler round them, as their kindred from of old have been doing; true "splinters of the old Hartz Rock;" heroic white men, worthy to be called old Saxons, browned with a mahogany tint in those new climates and conditions. But under the soil of Jamaica, before it could even produce spices, or any pumpkin, the bones of many thousand British men had to be laid. Brave Colonel Fortescue, brave Colonel Sedgwick, brave Colonel Brayne -- the dust of many thousand strong old English hearts lies there, worn down swiftly in frightful travail, chaining the devils, which were manifold. Heroic Blake contributed a bit of his life to that Jamaica. A bit of the great Protector's own life lies there -- beneath those pumpkins lies a bit of the life that was Oliver Cromwell's. How [p.535] the great Protector would have rejoiced, to think that all this was to issue in growing pumpkins, to keep Quashee in a comfortably idle condition! No, that is not the ultimate issue, not that! 
+<!-- He, I compute, is the real [p.533] "Vicegerent of the Maker" there; in him, better and better chosen, and not in another, is the "property" vested by decree of Heaven's chancery itself!  -->
 
-The West Indian whites, so soon as this bewilderment of philanthropic and other jargon abates from them, and their poor eyes get to discern a little what the facts are and what the laws are, will strike into another course, I apprehend! I apprehend they will, as a preliminary, resolutely refuse to permit the black man any privilege whatever of pumpkins till he agrees for work in return. Not a square inch of soil in those fruitful isles, purchased by British blood, shall any black man hold to grow pumpkins for him, except on terms that are fair toward Britain. Fair; see that they be not unfair, not toward ourselves, and still more, not toward him. For injustice is forever accursed; and precisely our unfairness toward the enslaved black man has -- by inevitable revulsion and fated turn of the wheel -- brought about these present confusions. Fair toward Britain it will be, that Quashee give work for privilege to grow pumpkins. Not a pumpkin, Quashee, not a square yard of soil, till you agree to do the state so many days of service. Annually that soil will grow you pumpkins; but annually also without fail, shall you, for the owner thereof, do your appointed days of labor. The state has plenty of waste soil; but the state will religiously give you none of it on other terms. The state wants sugar from these islands, and means to have it; wants virtuous industry in these islands, and must have it. The state demands of you such service as will bring these results, this latter result which includes all. Not a black Ireland, by immigration, and boundless black supply for the demand; not that -- may the gods forbid! -- but a regulated West Indies, with black working population in adequate numbers; all "happy,"' if they find it possible; and not entirely unbeautifutl to gods and men, which latter result they must find possible! All "happy" enough; that is to say, all working according to the faculty they have got; making a little more divine this earth which the gods have given them. Is there any other "happiness" -- if it be not that of pigs fattening daily to the slaughter? So will the state speak by and by. 
+Up to this time, the best proprietor is the Saxon British mainly.
 
-Any poor, idle black man, any idle white man, rich or poor, is a mere eye-sore to the state; a perpetual blister on the skin of the state. The state is taking measures. some of them rather extensive, in Europe at this very time, and already, is in Paris, Berlin, and elsewhere, rather tremendous measures, to get its rich white then set to work; for, alas. they also have sat, negro-like, up to the ears in pumpkin, regardless of "work," and of a world all going to waste for their idleness! Extensive measures, I say; and already (as, in all European lands, this scandalous fear of street-barricades and fugitive sham-kings exhibits) tremendous measures for the thing is instant to be done. 
+They hitherto have cultivated with some manfulness.
+
+A more manly, stronger class of cultivators is worthier to have such land if they are abler to bring fruit from it.
+- Those fruits will be nature's declaration of them being worthier as proprietors. 
+
+<!-- , shall make their appearance, they, doubt it not, by fortune of war, and other confused negotiation and vicissitude, will be declared by nature and fact to be the worthier, and will become proprietors, perhaps, also, only for a time. -->
+
+I believe that is the law for all lands in all countries.*
+
+{{< n n="The increased cultivation is just a declaration of ego. In alien Sassani culture, the Sassani leave their planet alone and do not cultivate it as their respect for Nature. This is consistent with Native American, indigenous non Western culture which does not seek to dominate." >}}
+
+The Eternal Proprietor created them.
+
+The temporary proprietor is he whom the Maker has sent on that mission.*
+
+{{< n n="This makes domination a divine command, consistent with the negative and the Anunnaki vibration" >}}
+
+He who the best hitherto can make the land produce the beneficent gifts which the Maker endowed them is going with the Eternal Purpose and Supreme Will.
+
+ <!-- with -- or, which is but another definition of the same person, he who leads hitherto the manfullest life on that bit of soil, doing better than another yet found can do,  -->
+
+It was not Black Quashee who made those West India islands what they are.
+
+ <!-- or can, by any hypothesis, be considered to have the right of growing pumpkins there. -->
+
+For countless ages, those islands had produced mere jungle, savagery, poison reptiles and swamp malaria till the white European first saw them.
+
+ <!-- since they first mounted oozy on the back of earthquakes, from their dark bed in the ocean deeps, and reeking, saluted the tropical sun, and ever onward, till the European white man first saw them, some three short centuries ago, those  -->
+
+<!-- They were, as if not yet created; -->
+
+Their noble elements of cinnamon -- sugar, coffee, pepper, black and gray, lying all asleep, waiting the white Enchanter who should say to them, awake! 
+
+<!-- Till the end of human history, and the sounding of the trump of doom, they might have lain so, had Quashee, and the like of him, been the only artists in the game.  -->
+
+Swamps, fever-jungles, maneating caribs, rattle-snakes, and reeking waste and putrefaction: this had been the produce of them under the incompetent cannibal possessors till that time.
+
+ <!-- Quashee knows, himself, whether ever he could have introduced an improvement. Him, had he, by a miraculous chance, been wafted thither, the caribals would have eaten, rolling him as a fat morsel under their tongue-for him, till the sounding of the trump of doom, the rattlesnakes and savageries would have held on their way.  -->
+
+The Quashee art:
+- could never grow even one pumpkin there.
+- is nothing but savagery, and reeking putrefaction could have grown there!
+
+These plentiful pumpkins therefore, are not his.
+
+ <!-- no, they are another's; they are only his under conditions -- conditions which Exeter Hall, for the present, has forgotten; but which nature, and the Eternal Powers, have, by no manner of means, forgotten, but do, at all moments, keep in mind; and, at the right moment, will, with the due impressiveness, perhaps in rather a terrible manner, bring again to our mind also!  -->
+
+If Quashee will not aid in bringing out those sugars, cinnamons, and nobler products of the West India islands for the benefit of all mankind, then neither will the powers permit Quashee to continue growing pumpkins there for his own lazy benefit.
+
+Instead, it will sheer him out like a lazy gourd overshadowing rich ground.
+
+ <!-- -- him, and all that partake with him -- perhaps in a very terrible manner. -->
+
+Under favor of Exeter Hall, the "terrible manner" is not yet quite extinct. Nor will it quite cease for soft-sawder or philanthropic stump-oratory, now, or henceforth.
+
+No! the gods wish, besides pumpkins, that spices and valuable products be grown in their West Indies.
+
+Thus, the gods have declared that manful, industrious men occupy their West Indies, not indolent, two-legged cattle.
+
+ <!-- however "happy" over their abundant pumpkins! Both these things, we may be assured, the immortal gods have decided upon -- passed their eternal act of parliament for; and both of them, though all terrestial parliaments and entities oppose it to the death, shall be done. -->
+
+If Quashee will not help in bringing out the spices, he will be made a slave again (slavery will be a little less ugly than his present one).
+
+<!-- , and with beneficient whip, since other methods avail not, will be compelled to work.  -->
+
+Or, alas, let him look across to Haiti, and trace a far sterner prophecy!  
+
+His ugliness, idleness, rebellion will:
+- banish all white men from the West Indies.
+- make it all one Haiti:
+  - with little or no sugar-growing
+  - black Peter exterminating black Paul
+  - where a garden of the Hesperides might be, nothing but a tropical dog-kennel and pestiferous jungle
+
+   <!-- -- does he think that will forever continue pleasant to gods and men?  -->
+
+I see men, the rose-pink cant all peeled away from them, land one day on those black coasts.
+
+Men sent by the laws of this universe, and the inexorable course of things; men hungry for gold, remorseless, fierce as old buccaneers were -- and a doom for Quashee, which I had rather not contemplate! 
+
+The gods are long-suffering; but the law, from the beginning, was, He that will not work shall perish from the earth -- and the patience of the gods has limits! 
+
+Before the West Indies could grow a pumpkin for any negro, how much European heroism had to spend itself in obscure battle; to sink, in mortal agony, before the jungles, the putrescences and waste savageries could become arable, and the devils be, in some measure, chained there! 
+
+The West Indies grow:
+- pineapples
+- sweet fruits
+- spices
+
+We hope they will one day grow beautiful, heroic humans too -- heroic white men, worthy to be called old Saxons, browned with a mahogany tint in those new climates and conditions.
+
+<!-- , which is surely the ultimate object they were made for; beautiful souls and brave; sages, poets, what not -- making the earth nobler round them, as their kindred from of old have been doing; true "splinters of the old Hartz Rock;"  -->
+
+But under the soil of Jamaica, before it could even produce spices, or any pumpkin, the bones of many thousand British men had to be laid. 
+
+Brave Colonel Fortescue, brave Colonel Sedgwick, brave Colonel Brayne -- the dust of many thousand strong old English hearts lies there, worn down swiftly in frightful travail, chaining the devils, which were manifold. Heroic Blake contributed a bit of his life to that Jamaica. 
+
+A bit of the great Protector's own life lies there -- beneath those pumpkins lies a bit of the life that was Oliver Cromwell's. 
+
+How the great Protector would have rejoiced, to think that all this was to issue in growing pumpkins, to keep Quashee in a comfortably idle condition! 
+
+No, that is not the ultimate issue, not that! 
+
+The West Indian whites, as soon as this philanthropy abates from them and their poor eyes realize the facts and laws, will change course!
+
+I think they will initially resolutely refuse to permit the black man any privilege until he agrees for work in return.
+ 
+Not a square inch of soil in those fruitful isles, purchased by British blood, shall any black man hold to grow pumpkins for him, except on terms that are fair toward Britain.
+
+Fair; see that they be not unfair, not toward ourselves, and still more, not toward him. 
+
+For injustice is forever accursed; and precisely our unfairness toward the enslaved black man has -- by inevitable revulsion and fated turn of the wheel -- brought about these present confusions. 
+
+Fair toward Britain it will be, that Quashee give work for privilege to grow pumpkins. Not a pumpkin, Quashee, not a square yard of soil, till you agree to do the state so many days of service. Annually that soil will grow you pumpkins; but annually also without fail, shall you, for the owner thereof, do your appointed days of labor. The state has plenty of waste soil; but the state will religiously give you none of it on other terms.
+
+The state wants sugar from these islands, and means to have it; wants virtuous industry in these islands, and must have it. The state demands of you such service as will bring these results, this latter result which includes all. 
+
+Not a black Ireland, by immigration, and boundless black supply for the demand; not that -- may the gods forbid! -- but a regulated West Indies, with black working population in adequate numbers; all "happy,"' if they find it possible; and not entirely unbeautifutl to gods and men, which latter result they must find possible! 
+
+All "happy" enough; that is to say, all working according to the faculty they have got; making a little more divine this earth which the gods have given them. Is there any other "happiness" -- if it be not that of pigs fattening daily to the slaughter? So will the state speak by and by. 
+
+Any poor, idle black man, any idle white man, rich or poor, is a mere eye-sore to the state; a perpetual blister on the skin of the state. The state is taking measures. some of them rather extensive, in Europe at this very time, and already, is in Paris, Berlin, and elsewhere, rather tremendous measures, to get its rich white then set to work.
+
+They also have sat, negro-like, up to the ears in pumpkin, regardless of "work," and of a world all going to waste for their idleness! 
+
+Extensive measures and already (as, in all European lands, this scandalous fear of street-barricades and fugitive sham-kings exhibits) tremendous measures for the thing is instant to be done. 
 
 The thing must be done everywhere: must is the word. Only it is so terribly difficult to do; and will take generations yet, this of getting our rich European white men "set to work!'" 
 

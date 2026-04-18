@@ -4,6 +4,7 @@ title: "Nimrod the Great"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 28
 c: "firebrick"
+a: "Anu"
 ---
 
 

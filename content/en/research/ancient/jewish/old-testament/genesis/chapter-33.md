@@ -4,6 +4,7 @@ title: "Jacob Gives Gifts to Esau"
 description: "We replace Anu with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 66
 c: "firebrick"
+a: "Anu"
 ---
 
 

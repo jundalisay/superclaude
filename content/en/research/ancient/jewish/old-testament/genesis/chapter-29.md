@@ -4,6 +4,7 @@ title: "Jacob's Travel"
 description: "We replace God with the alien Anu of the Anunnaki who had an agenda to keep Isaac's genetic line pure"
 weight: 58
 c: "firebrick"
+a: "Anu"
 ---
 
 

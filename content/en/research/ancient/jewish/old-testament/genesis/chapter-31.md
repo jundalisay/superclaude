@@ -1,9 +1,10 @@
 ---
 heading: Genesis 31
 title: "Jacob and Laban"
-description: "Jacob heard the words of Laban’s sons"
+description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 62
 c: "firebrick"
+a: "Anu"
 ---
 
 

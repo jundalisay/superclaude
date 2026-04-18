@@ -5,12 +5,13 @@ date: 2025-03-20
 weight: 6
 description: "Every body that is carried from one place to another place by relative or absolute motion, passes through all the intermediate positions"
 author: "Euler"
+a: Euler
 c: "firebrick"
 ---
 
 
 
-## PROPOSITION 1. Theorem.
+## PROPOSITION 1. Theorem
 
 13. Every body that is carried from one place to another place by relative or absolute motion, passes through all the intermediate positions.
 

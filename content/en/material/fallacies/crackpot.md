@@ -2,7 +2,7 @@
 title: The Crackpot Index Dissected
 date: 2025-05-16
 # weight: 7
-image: /photos/objects/asteroid.jpg
+image: /photos/people/einstein.jpg
 description: ""
 writer:
   name: Juan

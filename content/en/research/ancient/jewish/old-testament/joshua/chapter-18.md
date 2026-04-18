@@ -56,7 +56,7 @@ The goings out thereof were at the wilderness of Beth-aven.
 
 <sup>15</sup> The south quarter was from the end of Kirjath-jearim, and the border went out on the west, and went out to the well of waters of Nephtoah
 
-<sup>16</sup> The border came down to the end of the mountain that [lieth] before the valley of the son of Hinnom, [and] which [is] in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to En-rogel, 17 and was drawn from the north, and went forth to En-shemesh, and went forth toward Geliloth, which [is] over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben, {18:18} And passed along toward the side over against Arabah northward, and went down unto Arabah:
+<sup>16</sup> The border came down to the end of the mountain that lies before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to En-rogel, 17 and was drawn from the north, and went forth to En-shemesh, and went forth toward Geliloth, which [is] over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben, {18:18} And passed along toward the side over against Arabah northward, and went down unto Arabah:
 
 <sup>19</sup> The border passed along to the side of Beth-hoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan.
 
@@ -66,7 +66,7 @@ This was the south coast.
 
 This was the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families. 
 
-<sup>21</sup> The cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth-hoglah, and the valley of Keziz, {18:22} And Beth-arabah, and Zemaraim, and Bethel, {18:23} And Avim, and Parah, and Ophrah, {18:24} And Chephar- haammonai, and Ophni, and Gaba; 
+<sup>21</sup> The cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth-hoglah, and the valley of Keziz, 22 And Beth-arabah, and Zemaraim, and Bethel, {18:23} And Avim, and Parah, and Ophrah, {18:24} And Chephar- haammonai, and Ophni, and Gaba; 
 
 12 cities with their villages: 
 

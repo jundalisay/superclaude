@@ -55,38 +55,34 @@ the point c is the centre of gravity of the particular b and d. Q. E. D.
 
 180. Therefore the point A taken in any place, always falls upon the position of the same point of concurrence c, from which it is apparent that the constant restoring force does not depend either on the position of the point A nor on the particular particles of A b and d acted upon
 
-Scholium.
+
+## Scholium
 
 181. This force of restitution agrees uncommonly well with the effect of an elastic force, that it is permitted to put in its place. For an elastic string bd can join together the small parts b and d, that by acting together make b and d meet in c. Moreover this force acts to draw the particles b and d together equally, since each is trying to contract equally.
 
 For truly the distance, by which b and d are drawn together in the same time, vary inversely as the sizes of the particles themselves (159), since they are affected by the same force. Whereby if the point of concurrence is c, bc and dc will vary inversely as b to d or b.bc = d.cd. From which also it is understood that the point c is the centre of gravity of the particular masses b and d.
 
 
-Corollary 2.
+### Corollary 2
 
-182. Therefore although the force of restitution is imaginary and only exists in the form
-of thoughts, yet the effect of this follows the real laws of motion. And from this we can
-be more sure with the aid of this principle of restitution to always arrive at the truth.
-[Note that this is not to be confused with the coefficient of restitution that is a more
-modern concept involving elastic and inelastic collisions.]
+182. Therefore although the force of restitution is imaginary and only exists in the form of thoughts, yet the effect of this follows the real laws of motion. And from this we can be more sure with the aid of this principle of restitution to always arrive at the truth.
 
-PROPOSITION 23. THEOREM.
+[Note that this is not to be confused with the coefficient of restitution that is a more modern concept involving elastic and inelastic collisions.]
+
+## PROPOSITION 23. THEOREM
 
 183. Let a, b, c, and d be parts of a point mutually separated, which are to be joined together again by the force of restitution, and these are in agreement with a common centre of gravity g.
 
-DEMONSTRATION.
+
+### DEMONSTRATION
 
 Initially we put the whole mass at some point O (Fig. 20), from which these individual parts a, b, c, and d in the element of time dt by the forces OA, OB, OC, OD are to be drawn out into a, b, c, d.
 
-OG is taken as the equivalent of these
-forces, which in the same element of time,
-pulls the whole point mass forwards from
-O to g; and g is the point at which all the
-parts a, b, c, and d will be drawn together
-by the force of restitution (149). [p. 73]
-Through the point O some line KN is
-drawn, and to that line perpendiculars are
-sent from the points A, a; B, b; C, c; D, d; G, g. Moreover, these are given by :
+OG is taken as the equivalent of these forces, which in the same element of time, pulls the whole point mass forwards from
+O to g; and g is the point at which all the parts a, b, c, and d will be drawn together
+by the force of restitution (149).
+
+Through the point O some line KN is drawn, and to that line perpendiculars are sent from the points A, a; B, b; C, c; D, d; G, g. Moreover, these are given by :
 
 ...
 
@@ -98,28 +94,23 @@ the similar triangles OAK, Oak; OBL, Obl, etc, it follows that :
 
 ...
 
-But since OG is the force equivalent to the forces OA, OB, OC, OD, it is agreed from
-statics that AK + BL + CM + DN = GS, et OK + OL – OM – ON = OS.
+But since OG is the force equivalent to the forces OA, OB, OC, OD, it is agreed from statics that AK + BL + CM + DN = GS, et OK + OL – OM – ON = OS. 
+
 Hence we find ak .a  bl.b  cm.c  dn.d  gs.(a  b  c  d ) and
 Ok .a  Ol.b  Om.c  On.d  Os.(a  b  c  d ).
 
-From which properties it is understood that the point g is the centre of gravity of the
-particles a, b, c, d. Hence the force restoring these particles agrees with the common
-centre of gravity g. Q. E. D.
+From which properties it is understood that the point g is the centre of gravity of the particles a, b, c, d. Hence the force restoring these particles agrees with the common centre of gravity g. Q. E. D.
 
-Corollary 1.
 
-184. Therefore the effect of the force of restitution is in agreement with this, that bodies
-separated into any number of parts can be brought together at the common centre of
-gravity. [p. 74]
+### Corollary 1
 
-Corollary 2.
+184. Therefore the effect of the force of restitution is in agreement with this, that bodies separated into any number of parts can be brought together at the common centre of gravity.
 
-185. Therefore in this manner, the motion of a point acted on by many forces can be
-determined without considering equivalent forces, provided that from the individual
-forces some number of parts are put in place to be affected for any short time interval,
-and to be brought together again by the restituting force.
-Scholium.
+### Corollary 2
+
+185. Therefore in this manner, the motion of a point acted on by many forces can be determined without considering equivalent forces, provided that from the individual forces some number of parts are put in place to be affected for any short time interval, and to be brought together again by the restituting force.
+
+## Scholium
 
 186. The demonstration of this theorem with the help of contracting elastic strings can be done in the same manner as we did before (181). 
 
@@ -127,13 +118,13 @@ For let the separate particles (Fig. 21) be at a, b, c, and d, and in the first 
 
 We consider the particles a and b located at e to be joined with the particle at c, it will be the point of concurrence f, which is the centre of gravity of the three points a, b, and c. Now these three placed at f are joined to the fourth particle located at d, and it will be the point of concurrence g, the centre of gravity of the four points a, b, c and d. Whereby from the force of restitution all the particles come together at the common centre of gravity.
 
-Corollary 3.
+### Corollary 3
 
 187. Therefore it is agreed once more correctly that the restoring force arising from the
 contraction of elastic fibers can be used to represent the join between each two particles.
 
 
-General Scholium
+## General Scholium
 
 188. Therefore from these principles put in place, from which the motion of a free point can be determined from the action of some number of forces, we will progress to the motion of free points that have to be investigated. Indeed it will be convenient to separate this tract into two parts, in the first of which only rectilinear motion will be examined, and in the other any kind of curvilinear motion. 
 

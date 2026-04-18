@@ -4,6 +4,7 @@ title: "Simeon and Levi Betray Hamor"
 description: "Dinah was the daughter of Leah and Jacob"
 weight: 68
 c: "firebrick"
+a: "Anu"
 ---
 
 

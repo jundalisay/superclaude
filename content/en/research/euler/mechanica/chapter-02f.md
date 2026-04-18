@@ -5,6 +5,7 @@ date: 2025-03-20
 weight: 34
 description: "Determine the effect of any oblique forces acting on a moving point"
 author: "Euler"
+a: "Euler"
 c: "firebrick"
 ---
 
@@ -156,7 +157,7 @@ dc
 In which equation neither n, A, nor p is present, and this prevails for any motion of the
 body whatsoever, and for any force to be acting.
 
-Corollary 11
+### Corollary 11
 
 171. Nevertheless however, although the force p itself is not to be found in this equation,
 yet the direction of this, upon which the relation of the elements dx et dy depends, still
@@ -183,7 +184,8 @@ adoption of the symbol made it popular. You find in Euler's work a sort of 'lovi
 for symbols and numbers; he occasionally used verbs associated with human emotions to
 express happenings in the world of numbers.]
  -->
-Corollary 12.
+
+### Corollary 12
 
 172. Again since 
 
@@ -192,7 +194,8 @@ Corollary 12.
 Hence therefore it should be noted that likewise for the time in which any part of the motion is to be described, only the curve
 itself and the direction of the force needs to be given.
 
-Corollary 13.
+
+### Corollary 13
 
 173. If from O the perpendicular OE is sent to the direction of the force AE, then
 ds : dx  AO : AE. [See Fig. 18.] Hence with the position
@@ -212,34 +215,32 @@ q and dy = 0 and we have circular motion with c given by a
 constant. Again, for motion vertically downwards (166), dx
 = 0 and dy = ds, which is a degenerate case.]
 
-Scholium.
+## Scholium
 
 174. From the solution of this problem it appears to be possible to determine the motion of a small body, acted on by any kind of forces. For the motion is defined by two equations : both the speed of the body anywhere, and the curvature or the radius of osculation of the curve traversed.
 
 With these known, likewise the time can be found, in which the motion along some part of the curve is completed, which is sufficient for the motion to be determined. [As no examples are provided here, we are to imagine that Euler has just come across this result, and has not yet followed through with any consequences. He now moves on to another 'pet theory'.]
 
 
-Definition 13.
+## Definition 13
 
-175. The force of restitution is that imaginary infinite force, which restores the separate
-parts of the body again to their previous state. We considered a force of this kind to be
-present in the solution of Prop. 18 (146), by which the two parts of the small body,
+175. The force of restitution is that imaginary infinite force, which restores the separate parts of the body again to their previous state. We considered a force of this kind to be present in the solution of Prop. 18 (146), by which the two parts of the small body,
 which momentarily we considered to be free, recombined again.
 
-Corollary 1
+### Corollary 1
 
 176. If a point is considered to be divided into two points and these were separated by
 forces, the restoring force draws these into the middle line, as was shown (146) with
 sufficient explanation at the start.
 
-Corollary 2
+### Corollary 2
 
 177. Since the effect of the restoring force must be produced instantaneously, the
 restoring force must be considered as provided by an infinite elastic force, by which the
 separated parts are again joined together.
 
 
-Scholium.
+## Scholium
 
 178. The use of this force of restitution now is clear in a certain way from proposition 18, yet the use of this will be most fully understood when we are to begin investigating the motion of bodies of finite magnitudes in what follows. Truly we will investigate the effect of this here with many separate parts of a point joined together, which will be of great use in what follows. Hence a certain principle of restitution is embraced, with the help of which many questions are easily resolved, that we call the principle of restitution.
 
