@@ -3,7 +3,7 @@
 {{ $a := .Get "a" | default "Image" }}
 {{ $c := .Get "c" | default "" }}
 
-<figure class="text-center">
+<figure class="text-center pb-5">
 	<img src="{{ $s }}" alt="{{ $a }}" class="rounded-lg shadow mx-auto {{ $size }}" loading="lazy">
 	{{ if $c }}
 		<figcaption>{{ $c | markdownify }}</figcaption>

@@ -52,7 +52,7 @@ Soon, the inspired person comes to regard himself as a distinguished favourite o
 
 These two species of false religion have the following influence on government and society:
 
-> 1. Superstition is favourable to priestly power, and enthusiasm is rather contrary to it, than sound reason and philosophy.
+## 1. Superstition is favourable to priestly power, and enthusiasm is rather contrary to it, than sound reason and philosophy.
 
 Superstition is founded on fear, sorrow, and a depression of spirits. It shows man as despicable to himself. It makes him unworthy, in his own eyes, of approaching divinity. Thus, he must recourse to any other person who is favoured by Divinity either by sanctity or impudence and cunning.  The superstitious entrust their devotions, petitions, sacrifices, and prayers to him. 
 
@@ -77,9 +77,8 @@ Enthusiasm arises from a presumptuous pride and confidence.
 
 The fanatic consecrates himself, and bestows on his own person a sacred character, much superior to what forms and ceremonious institutions can confer.
 
-<br>
 
-> 2. The enthusiastic religions are initially more furious and violent than the superstitious ones. 
+## 2. The enthusiastic religions are initially more furious and violent than the superstitious ones. 
 
 But in time, they become more gentle and moderate. Their initial violence is excited by novelty and animated by opposition. This is seen in:
 - the anabaptists in Germany
@@ -106,9 +105,8 @@ The Roman church smoothly advanced in her acquisition of power. But she also thr
 
 On the other hand, our sectaries, who were formerly such dangerous bigots, are now very free reasoners. The Quakers seem to approach nearly the only regular body of deists in the universe, the literati, or the disciples of Confucius in China.
 
-<br>
 
-> 3. Superstition is an enemy to civil liberty, and enthusiasm a friend to it
+## 3. Superstition is an enemy to civil liberty, and enthusiasm a friend to it
 
 Enthusiasm:
 - destroys all ecclesiastical power

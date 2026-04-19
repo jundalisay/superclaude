@@ -8,7 +8,7 @@ description: "Toward the end of 1866 he began to practise Islam"
 ---
 
 
-## Islām
+## Islam
 
 Toward the end of 1866 he began to practise Islām. Under the direction of his Muslim guru, he abandoned himself to his new sādhana. He dressed as a Muslim and repeated the name of Allah.
 
@@ -36,13 +36,20 @@ barriers of creed and religion, he entered a new realm of ecstasy. Christ posses
 
 For 3 days he did not set foot in the Kāli temple. 
 
-On the fourth day, in the afternoon, as he was walking in the Panchavati, he saw coming toward him a person with beautiful large eyes, serene countenance, and fair skin. As the two faced each other, a voice rang out in the depths of Sri Ramakrishna's soul: "Behold the Christ who shed His heart's blood for the redemption of the world, who suffered a sea of anguish for love of men. It is He, the Master Yogi, who is in eternal union with God. It is Jesus, Love Incarnate." 
+On the fourth day, in the afternoon, as he was walking in the Panchavati, he saw coming toward him a person with beautiful large eyes, serene countenance, and fair skin. 
+
+As the two faced each other, a voice rang out in the depths of Sri Ramakrishna's soul:
+
+
+{{< l a="Ramakrishna" >}}
+Behold the Christ who shed His heart's blood for the redemption of the world, who suffered a sea of anguish for love of men. It is He, the Master Yogi, who is in eternal union with God. It is Jesus, Love Incarnate.
+{{< /l >}}
 
 The Son of Man embraced the Son of the Divine Mother and merged in him.
 
-Sri Ramakrishna realized his identity with Christ, as he had already realized his identity with Kāli, Rāmā, Hanuman, Rādhā, Krishna, Brahman, and Mohammed. The Master went
-into Samādhi and communed with the Brahman with attributes. Thus he experienced the truth that Christianity, too, was a path leading to God-Consciousness. Till the last
-moment of his life he believed that Christ was an Incarnation of God. 
+Sri Ramakrishna realized his identity with Christ, as he had already realized his identity with Kāli, Rāmā, Hanuman, Rādhā, Krishna, Brahman, and Mohammed. 
+
+The Master went into Samādhi and communed with the Brahman with attributes. Thus he experienced the truth that Christianity, too, was a path leading to God-Consciousness. Till the last moment of his life he believed that Christ was an Incarnation of God. 
 
 But Christ, for him, was not the only Incarnation; there were others - Buddha, for instance, and Krishna.
 
@@ -71,9 +78,9 @@ But they never reflect that He who is called Krishna is also called Śiva, and b
 At one, the Hindus take water in pitchers and call it 'Jal' ; at another the Muslims take water in leather bags and call it 'pāni' . At a third the Christians call it 'water' . Can we imagine that it is not 'jal', but only 'pāni' or
 'water'? 
 
-How ridiculous! The substance is One under different names, and everyone is seeking the same substance; only climate, temperament, and name create differences. Let each man follow his own path. If he sincerely and ardently wishes to know God,
-peace be unto him! He will surely realize Him.
+How ridiculous! The substance is One under different names, and everyone is seeking the same substance; only climate, temperament, and name create differences. Let each man follow his own path. If he sincerely and ardently wishes to know God, peace be unto him! He will surely realize Him.
 {{< /l >}}
+
 
 
 In 1867, Sri Ramakrishna returned to Kāmārpukur to recuperate from the effect of his austerities. The peaceful countryside, the simple and artless companions of his boyhood, and the pure air did him much good. 
@@ -111,28 +118,42 @@ Again Mathur had to give in. Sri Ramakrishna's sympathy for the poor sprang from
 
 The party entered holy Banāras by boat along the Ganges. When Sri Ramakrishna's eyes fell on this city of Śiva, where had accumulated for ages the devotion and piety of countless worshippers, he saw it to be made of gold, as the scriptures declare. He was visibly moved. 
 
-During his stay in the city he treated every particle of its earth with utmost respect. At the Manikarnikā Ghāt, the great cremation ground of the city, he actually saw Śiva, with ash-covered body and tawny matted hair, serenely approaching
-each funeral pyre and breathing into the ears of the corpses the mantra of liberation; and then the Divine Mother removing from the dead their bonds. 
+During his stay in the city he treated every particle of its earth with utmost respect. 
+
+At the Manikarnikā Ghāt, the great cremation ground of the city, he actually saw Śiva, with ash-covered body and tawny matted hair, serenely approaching each funeral pyre and breathing into the ears of the corpses the mantra of liberation; and then the Divine Mother removing from the dead their bonds. 
 
 Thus he realized the significance of the scriptural statement that anyone dying in Banāras attains salvation through the grace of Śiva. He paid a visit to Trailanga Swāmi, the celebrated monk, whom he later declared to be a real paramahamsa, a veritable image of Śiva.
 
 Sri Ramakrishna visited Allahābad, at the confluence of the Ganges and the Jamuna, and then proceeded to Vrindāvan and Mathura, hallowed by the legends, songs, and dramas about Krishna and the gopis. Here he had numerous visions and his heart overflowed with divine emotion. 
 
-He wept and said: "O Krishna! Everything here is as it was in the olden days. You alone are absent." 
+He wept and said: 
+
+{{< l a="Ramakrishna" >}}
+O Krishna! Everything here is as it was in the olden days. You alone are absent.
+{{< /l >}}
 
 He visited the great woman saint Gangāmāyi, regarded by Vaishnava devotees as the reincarnation of an intimate attendant of Rādhā.
 
-She was sixty years old and had frequent trances. She spoke of Sri Ramakrishna as an incarnation of Rādhā. With great difficulty he was persuaded to leave her.
+She was 60 years old and had frequent trances. She spoke of Sri Ramakrishna as an incarnation of Rādhā. With great difficulty he was persuaded to leave her.
 
 On the return journey Mathur wanted to visit Gayā, but Sri Ramakrishna declined to go.
 
-He recalled his father's vision at Gayā before his own birth and felt that in the temple of Vishnu he would become permanently absorbed in God. Mathur, honouring the Master's
-wish, returned with his party to Calcutta. 
+He recalled his father's vision at Gayā before his own birth and felt that in the temple of Vishnu he would become permanently absorbed in God. Mathur, honouring the Master's wish, returned with his party to Calcutta. 
 
-From Vrindāvan the Master had brought a handful of dust. Part of this he scattered in the Panchavati; the rest he buried in the little hut where he had practised meditation.
-"Now this place", he said, "is as sacred as Vrindāvan."
+From Vrindāvan the Master had brought a handful of dust. Part of this he scattered in the Panchavati; the rest he buried in the little hut where he had practised meditation. 
 
-In 1870 the Master went on a pilgrimage to Nadia, the birth-place of Sri Chaitanya. As the boat by which he travelled approached the sand-bank close to Nadia, Sri Ramakrishna had a vision of the "two brothers", Sri Chaitanya and his companion
-Nityānanda, "bright as molten gold" and with haloes, rushing to greet him with uplifted hands. "There they come! There they come!" he cried. They entered his body and he went into a deep trance.
+{{< l a="Ramakrishna" >}}
+Now this place is as sacred as Vrindāvan.
+{{< /l >}}
 
 
+In 1870, the Master went on a pilgrimage to Nadia, the birth-place of Sri Chaitanya. 
+
+As the boat by which he travelled approached the sand-bank close to Nadia, Sri Ramakrishna had a vision of the "two brothers", Sri Chaitanya and his companion Nityānanda, "bright as molten gold" and with haloes, rushing to greet him with uplifted hands. 
+
+{{< l a="Ramakrishna" >}}
+There they come! There they come!
+{{< /l >}}
+ 
+
+They entered his body and he went into a deep trance.

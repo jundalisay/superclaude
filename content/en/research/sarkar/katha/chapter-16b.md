@@ -11,7 +11,14 @@ icon: Nagina
 
 ## My Father Meets Baba
 
-The same month of March 1955, I went to Bhagalpur for some work. I had to stay there for two days. During my absence, my father came to see me at Jamalpur. I had not gone home after leaving Begusarai, nor had I inquired about the well being of my family. Hence, he himself had taken the trouble to come to Jamalpur. The fact is that from worldly point of view, I was always a burden on my family. Father, was worried and concerned about how I lived. In my absence, my brother-in-law and Bindeshwariji looked after him well. When I returned, I was surprised to find my father there.
+The same month of March 1955, I went to Bhagalpur for some work. I had to stay there for two days. 
+
+During my absence, my father came to see me at Jamalpur. I had not gone home after leaving Begusarai, nor had I inquired about the well being of my family. 
+
+Hence, he himself had taken the trouble to come to Jamalpur. The fact is that from worldly point of view, I was always a burden on my family. 
+
+Father, was worried and concerned about how I lived. In my absence, my brother-in-law and Bindeshwariji looked after him well. When I returned, I was surprised to find my father there.
+
 
 {{< r a="Father" >}}
 You have not written any letters since leaving Begusarai. I have therefore, come to see you.
@@ -20,9 +27,7 @@ You have not written any letters since leaving Begusarai. I have therefore, come
 
 After sometime, I came to know that Bindeshwariji had somehow persuaded my father to take initiation and with Baba's permission, had taken him to Baba's place. 
 
-Baba put one condition prior to initiation, and it was that he should
-not ask any other question except relating to initiation. Bindeshwariji informed him the
-condition.
+Baba put one condition prior to initiation, and it was that he should not ask any other question except relating to initiation. Bindeshwariji informed him the condition.
 
 At the appointed time, Bindeshwariji took my father to Baba's place. They arrived early, and waited in the courtyard. When the door of Baba's house opened, Bindeshwariji took my father in and he came out. 
 
@@ -113,4 +118,3 @@ By this time, "Ananda Marga Elementary Philosophy" was printed in Bengali, and i
 
 Everyone realised that Baba was shaping a new human society. Today, of course the organisation vigorously projects His ideals
 worldwide, but at that time we only envisioned some of the glimpses.
-

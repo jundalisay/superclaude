@@ -1,5 +1,5 @@
 ---
-title: The Start of Ananda Marga on January 5, 1955
+title: "The Start of Ananda Marga on January 5, 1955"
 # title: "I RECEIVE MY DEMOTION ‘WHEN I WILL IT’"
 heading: Chapter 13
 weight: 30
@@ -73,9 +73,19 @@ Now, you can choose to withdraw one of them
 
 So far I had not learnt gurupuja lesson. I, therefore, did not know how it was done and what it was, so I requested for permission to touch Him. 
 
-Baba hesitated and asked, "So you want only the permission to touch." I replied in the affirmative.
 
-I came to know later on that had I asked for gurupuja, it would have meant the withdrawal of both the punishments simultaneously. But due to my ignorance about gurupuja, I could not do so. 
+Baba hesitated and asked:
+
+{{< l a="Baba" >}}
+So you want only the permission to touch
+{{< /l >}}
+
+
+I replied in the affirmative.
+
+I came to know later on that had I asked for gurupuja, it would have meant the withdrawal of both the punishments simultaneously. 
+
+But due to my ignorance about gurupuja, I could not do so. 
 
 When Baba permitted me to touch Him, I immediately placed my head on His lotus feet and fell prostrate before Him in sastaung pranam. 
 
@@ -89,33 +99,53 @@ Even at other times a month would sometimes elapse before I could come to Baba a
 
 I lay at His feet for quite some time. I was not willing to leave His feet. But when Baba said, "Uttishtha" (get up), again and again, I got up and sat down at His feet.
 
-Even after that the tears continued to flow. By now it was time for Baba to go, but He continued to stay for my sake. I did not want to go, out with tears in my eyes. When Baba asked me to leave, I said "Baba, I am weeping how can I go out. 
+Even after that the tears continued to flow. By now it was time for Baba to go, but He continued to stay for my sake. I did not want to go, out with tears in my eyes. 
 
-The world will only understand that I was weeping because of my demotion, while they would not know the truth, which is quite different”.Baba sat for some more time and I continued to sit with Him. 
+When Baba asked me to leave, I said:
 
-When the flow of tears subsided somewhat I came out and silently went to Bindeshwariji's residence along with Deep Narayanji. My tears had stopped but the sweet sensation in the heart continued almost for the whole day. I could not go to the office at Begusarai that day and applied for a day’s casual leave.
+{{< r a="Nagina" >}}
+Baba, I am weeping how can I go out. The world will only understand that I was weeping because of my demotion, while they would not know the truth, which is quite different
+{{< /r >}}
+
+
+<!-- Baba sat for some more time and I continued to sit with Him.  -->
+
+When the flow of tears subsided somewhat I came out and silently went to Bindeshwariji's residence along with Deep Narayanji. 
+
+My tears had stopped but the sweet sensation in the heart continued almost for the whole day. I could not go to the office at Begusarai that day and applied for a day’s casual leave.
 
 That evening I also went to that house in the railway colony which had been converted into an ashram. Deep Narayanji was also with me. As Baba was to come here, we waited for Him. Baba came in the evening and every one present did sastaunga pranam to Him.
 
 That day Baba talked of philosophy and said that this school of philosophy will be called ‘Ananda Marga'. 
 
-He said, “The philosophy and the object of sadhana is ‘ananda’ or 'absolute bliss'. Therefore this has been named Ananda Marga”.
+
+{{< l a="Baba" >}}
+The philosophy and the object of sadhana is ‘ananda’ or 'absolute bliss'. Therefore this has been named Ananda Marga
+{{< /l >}}
+
 
 Then Baba said about the practice of Sahaj Yoga, "’Saha Jayate Iti Sahaj’, that which is inborn, that which is natural or easy, is 'Sahaj Yoga'. 
 
 To get bliss is the natural aim of everyone that is why it is called ‘Ananda Marga’”. Baba stopped after saying this.
 
-I commented at this point, "Baba, though it is called ‘Sahaj Yoga’, that is, a simple practice, but in effect Ananda Marga is a very difficult path”. 
+I commented at this point:
 
-As I said this, Baba's body vibrated somewhat and He immediately went into samadhi and we began to look after Him. When Baba came back to normal, He returned to His residence.
+{{< r a="Nagina" >}}
+Baba, though it is called ‘Sahaj Yoga’, that is, a simple practice. But in effect Ananda Marga is a very difficult path. 
+{{< /r >}}
 
 
-Thus for the first time the name ‘Ananda Marga’ was announced on 5 January 1955 in the evening. 
+As I said this, Baba's body vibrated somewhat and He immediately went into samadhi.
 
-He may have given this name before but the announcement came on that day. That day it was also declared that there would be a Dharma Maha Cakra on January 9 1955 and that day all the disciples would perform gurupuja in His presence.
+We began to look after Him. When Baba came back to normal, He returned to His residence.
 
-On January 6 1955 I returned to Begusarai. In the afternoon a gentleman, who had been my subordinate earlier, came to take charge of my post. I was ready to hand over, but he considered that as inauspicious somehow. So he wanted to defer the matter. 
+
+Thus for the first time the name ‘Ananda Marga’ was announced on January 5, 1955 in the evening. 
+
+He may have given this name before but the announcement came on that day.
+
+That day it was also declared that there would be a Dharma Maha Cakra on January 9 1955 and that day all the disciples would perform gurupuja in His presence.
+
+On January 6, 1955 I returned to Begusarai. In the afternoon a gentleman, who had been my subordinate earlier, came to take charge of my post. I was ready to hand over, but he considered that as inauspicious somehow. So he wanted to defer the matter. 
 
 He took over charge from me on 7 January.
-
-

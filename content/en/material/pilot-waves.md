@@ -33,7 +33,7 @@ The main difference is that the Pilot-wave theory is more inclined towards the S
 
 The Aethereal Layer is superior to the Spatial Layer and so Bohr's theory is naturally superior to that of De Broglie.
 
-Moreover, the aether is superior to spacetime. This is why the aether can move arbitrily and instantaneously and does not obey logic or any sequence. 
+Moreover, the aether is superior to spacetime. This is why the aether can move arbitrarily and instantaneously and does not obey logic or any sequence. 
 
 An aethereal object can move from `Point A` to `Point B` instantly. An example is an aethereal idea which you have now, but suddenly lose or forget the next moment.
 

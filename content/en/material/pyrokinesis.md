@@ -20,9 +20,15 @@ This is in contrast with the modern definition which calls it a psychic or menta
 
 In Descartes’ 17th-century physics, the universe is a plenum—a space entirely filled with subtle matter. He divided this substance into 3 elements:
 
-1. **First Element:** Heat particles (luminous, ultra-fine matter)
-2. **Second Element:** Celestial globules (space particles, which transmit light and pressure)
-3. **Third Element:** Ordinary visible matter
+
+Element | Physics Equivalent | Superphysics Name
+--- | --- | ---
+**First Element:** | Electromagnetism | Heat particles (luminous, ultra-fine matter)
+**Second Element:** | Graviton, Vacuum Energy | Space particles which transmit light and pressure
+**Third Element:** | Atomic Space, Gluons | Micro Aetherspace as Ordinary visible matter
+
+<!-- Celestial globules () -->
+
 
 What many Eastern traditions call **chi** or **vayu**—the life force or breath of life—aligns precisely with Descartes’ **Second Element**: space particles.
 
@@ -32,6 +38,12 @@ This chi primarily facilitates our emotions. This is why it is so central in yog
 
 
 In this Cartesian framework, **combustion occurs when space particles are violently and rapidly ejected from matter.**
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 4, Article 81" >}}
+To generate fire, the air-aether globules must be expelled by force from the gaps between some earth-aether particles.
+{{< /q >}}
+
 
 This sudden expulsion creates a local void, allowing **heat particles (First Element)** to rush in and dominate—manifesting as fire and intense heat.
 

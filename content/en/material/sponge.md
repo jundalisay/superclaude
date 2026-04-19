@@ -23,6 +23,17 @@ Moreover, this emphasizes the liquid nature of space which has been proven by LI
 
 This sponge analogy came first from Descartes who connected the expansion and contraction of space to the expansion and contraction of our own abstract minds (souls). This variability then leads to the variations in the idea-objects that our minds can accomodate, such as small ideas and big ideas.
 
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 6" >}}
+We should not think that the space that expands the body is extension. Instead, that space is another body [as the virtual space particles]
+
+Similarly, a sponge full of water expands. But its extension [aetherspace] stays the same. It is really the gaps or spaces within the body that become larger. It is different from a dry sponge because the wet sponge has wider pores. 
+- This makes its body more diffused over a larger physical space.
+- But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry
+{{< /q >}}
+
+
 George Berkeley built on this to say that nothing exists without being observed by mind, something proven by quantum mechanics.
 
 Instead of a cosmic web, it would be better to call the universe as a cosmic sponge. This sponge is made up of 2 kinds of spaces: spacetime and aetherspace (Gravity B waves and Gravity A waves to Bob Lazar).

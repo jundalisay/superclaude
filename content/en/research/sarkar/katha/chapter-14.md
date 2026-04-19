@@ -1,12 +1,11 @@
 ---
-title: "BHAGALPUR DMC : FEBRUARY 1955"
+title: "Bhagalpur DMC : February 1955"
 heading: Chapter 14
 weight: 32
 description: "The DMC was being held in a big room in the house of respectful Chandranathji"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -38,9 +37,12 @@ I was in the meanwhile called in by Baba. I left Bindeshwariji to the care of ot
 
 When I was left alone with Baba, He said to me: 
 
-{{< q a="PR Sarkar" >}}
-At that time Bindeshwariji was dying, but as the place and time were not proper I had given him another lease of life. Also his body is old, but I have just given him pranah and mind, therefore he will behave like an infant. From today you will have to look after him just as one looks after a small child”. Don't tell Bindeshwariji that he was dying and I have deferred the moment.
-{{< /q >}}
+{{< l a="Baba" >}}
+At that time Bindeshwariji was dying, but as the place and time were not proper I had given him another lease of life. Also his body is old, but I have just given him pranah and mind, therefore he will behave like an infant. 
+
+From today you will have to look after him just as one looks after a small child”. Don't tell Bindeshwariji that he was dying and I have deferred the moment.
+{{< /l >}}
+
 
 In my whole life, I had not looked even after my own children. How was I to look after him?
 
@@ -50,16 +52,24 @@ In this confused state of mind I reached Bindeshwariji and saw that he was surro
 
 While lying sometimes he was laughing and sometimes he was calling the name of his wife and saying that today her husband has been saved from the jaws of death. 
 
-His eyes were still closed, as they were when he was removed from Baba's presence and he was still breathing heavily. In that condition again he was again and again mentioning about his wife's good fortune that her
-husband has survived.
+His eyes were still closed, as they were when he was removed from Baba's presence and he was still breathing heavily. In that condition again he was again and again mentioning about his wife's good fortune that her husband has survived.
 
-I asked him "What are you saying? What has happened to you?"
+{{< r a="Nagina" >}}
+What are you saying? What has happened to you?
+{{< /r >}}
 
 At this he told me, "Today Baba has given me life back only on account of you and that is why my wife has been saved from widowhood. Had you not forcibly brought me here, my death was sure to take place at that time”.
 
-I thought, “Baba had said that Bindeshwariji should not know this, but he is talking on his own about his death and the granting of new life to him. What has happened?”
+{{< r a="Nagina" >}}
+Baba had said that Bindeshwariji should not know this, but he is talking on his own about his death and the granting of new life to him. What has happened?
+{{< /r >}}
 
-I immediately returned to Baba and told Him, "Baba you said that Bindeshwariji should not know about his death but he himself is talking about his death and grant of life and about the good fortune of his wife."
+I immediately returned to Baba and told Him:
+
+{{< r a="Nagina" >}}
+Baba, you said that Bindeshwariji should not know about his death but he himself is talking about his death and grant of life and about the good fortune of his wife
+{{< /r >}}
+
 
 {{< l a="Baba" >}}
 How did it happen?
@@ -70,12 +80,18 @@ I pleaded innocence and said that as I reached him he was already talking in thi
 Baba closed his eyes for a moment and then opened them and said:
 
 {{< l a="Baba" >}}
-When he was dying I gave a portion of my mind and pranah to him and therefore he knows My mind. Anyway, let him say so, you will always tell him forcefully that he was talking nonsense. You will have to be very cautious and careful in this matter
+When he was dying I gave a portion of my mind and pranah to him and therefore he knows My mind. 
+
+Anyway, let him say so, you will always tell him forcefully that he was talking nonsense. You will have to be very cautious and careful in this matter
 {{< /l >}}
 
 
 Now it was a second problem for me that Bindeshwariji would tell the truth and I would again and again tell him that he was wrong. 
 
-Even otherwise it was difficult to take care of such an old child and now I was to go on telling him that he was not correct in his thought. On my own I could not manage this, therefore, I left everything on Baba and as ordered by Baba, began to look after him. In Bhagalpur when ever he would talk of the gift of life to him and about the saving of his wife's marital life, I would call his talk that of a mad man or say that he was talking nonsense, thus trying to quieten him. 
+Even otherwise it was difficult to take care of such an old child and now I was to go on telling him that he was not correct in his thought. 
+
+On my own I could not manage this, therefore, I left everything on Baba and as ordered by Baba, began to look after him. 
+
+In Bhagalpur when ever he would talk of the gift of life to him and about the saving of his wife's marital life, I would call his talk that of a mad man or say that he was talking nonsense, thus trying to quieten him. 
 
 Sometimes Bindeshwariji would laugh away my statements and sometimes he would show his irritation at them. Although we did not stay long at Bhagalpur after the DMC, still this news spread amongst all the Margii brothers there.

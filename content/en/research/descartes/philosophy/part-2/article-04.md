@@ -89,7 +89,7 @@ Similarly, a sponge full of water expands.
 - But its aetherspace [extension] stays the same.
 - It is really the gaps or spaces within the body that become larger
 
-is different from a dry sponge because the wet sponge has wider pores. 
+This is different from a dry sponge because the wet sponge has wider pores. 
 - This makes its body more diffused over a larger physical space.
 - But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry
 

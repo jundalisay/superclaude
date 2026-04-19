@@ -1,5 +1,5 @@
 ---
-title: "DMC IN JAMALPUR JANUARY 1955"
+title: "DMC In Jamalpur January 1955"
 heading: Chapter 13b
 weight: 31
 description: "On 9 January, the day of the Dharma Maha Cakra, I reached Jamalpur along with my wife. "
