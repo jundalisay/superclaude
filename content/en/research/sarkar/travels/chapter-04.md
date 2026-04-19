@@ -1,9 +1,10 @@
 ---
 title: "The Curtain Opens On A Great Drama"
 heading: "Chapter 4"
-description: ""
+description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
 c: "indigo"
 weight: 28
+icon: Dada Dharmavedananda
 author: Dada Dharmavedananda
 ---
 

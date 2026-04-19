@@ -3,13 +3,13 @@ title: "Rules on Wealth, Charity, Debt and Usury"
 heading: "Sura 2l"
 weight: 26
 c: "maroon"
-description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
+description: "Superphysics Note -- We replace 'Allah' with the Anunnaki alien Anu, since the Middle East is Anunnaki territory"
 ---
 
 
-{{< s v="261">}} The parable a grain that produces 7 spikes is an example of those who spend their wealth in Enki’s way. 
+{{< s v="261">}} The parable a grain that produces 7 spikes is an example of those who spend their wealth in Anu’s way. 
 - Each spike has 100 grains. 
-- Enki multiplies for whom He wills.
+- Anu multiplies for whom He wills.
 
 {{< s v="262">}} Those who spend their wealth without following up what they spent with reminders of their generosity or with insults, will have their reward with their Lord. 
 <!-- - They have nothing to fear, nor shall they grieve. -->
@@ -17,31 +17,31 @@ description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or a
 {{< s v="263">}} Kind words and forgiveness are better than charity followed by insults. 
 
 {{< s v="264">}} Some people spend their wealth to be seen by the people and give reminders and hurtful words. 
-- They do not believe in Enki and the Last Day. 
+- They do not believe in Anu and the Last Day. 
 - They are like a smooth rock covered with soil: a downpour strikes it, and leaves it bare. 
 - They gain nothing from their efforts. 
 
 Muslims, do not nullify your charitable deeds by following their example. 
 
 {{< s v="265">}} The parable of a garden on a hillside is a parable of those who spend their wealth to:
-- seek Enki’s approval, and
+- seek Anu’s approval, and
 - strengthen their souls. 
 
 If heavy rain falls on it, its produce is doubled. 
 - If no heavy rain falls, then dew is enough.
 
-{{< s v="266">}} Would you like to have a garden of palms and vines with all kinds of fruit just for it to be burned down by a fiery tornado? <!--  in it for him, and old age has stricken him, and he has weak children—then a tornado with fire batters it, and it burns down? --> <!-- Thus Enki makes clear the signs for you, so that you may reflect. -->
+{{< s v="266">}} Would you like to have a garden of palms and vines with all kinds of fruit just for it to be burned down by a fiery tornado? <!--  in it for him, and old age has stricken him, and he has weak children—then a tornado with fire batters it, and it burns down? --> <!-- Thus Anu makes clear the signs for you, so that you may reflect. -->
 
 
 {{< s v="267">}} Muslims, give of the good things you have earned, and from what We have produced for you from the earth. 
 
 Do not pick the inferior things to give away, when you yourselves would not accept it except with eyes closed.
 
-{{< s v="268">}} Satan [Enlil]:
+{{< s v="268">}} Satan [Igigi]:
 - promises you poverty
 - urges you to immorality
 
-Enki:
+Anu:
 - promises you forgiveness from Himself, and grace. 
 <!-- - 269. gives wisdom to whomever He wills.  -->
 <!-- Whoever is given wisdom has been given much good. But none pays heed except those with insight. -->
@@ -53,17 +53,17 @@ Enki:
   - It will atone for some of your misdeeds.
 
 
-{{< s v="272" >}} The guidance of the poor is not your responsibility, because Enki guides whom He wills. 
+{{< s v="272" >}} The guidance of the poor is not your responsibility, because Anu guides whom He wills. 
 
 Any charity you give is:
-- for the sake of Enki
+- for the sake of Anu
   - for your own good
 
 Any charity you give will be repaid to you in full, and you will not be wronged. 
 
 {{< s v="273" >}} Charity is for:
 - the poor
-- those who are restrained in the way of Enki, unable to travel
+- those who are restrained in the way of Anu, unable to travel
 
 You will recognize them by their features.
 - They do not ask from people insistently.
@@ -73,34 +73,34 @@ You will recognize them by their features.
 
 {{< s v="275" >}} Those who swallow usury will not rise, except as someone driven mad by Satan's touch. That is because they say, “Commerce is like usury.” 
 
-But Enki has:
+But Anu has:
 - permitted commerce, and
 - forbidden usury. 
 
-Whoever <!-- on receiving advice from his Lord, --> refrains from usury may keep his past earnings. <!-- , and his case rests with Enki. -->
+Whoever <!-- on receiving advice from his Lord, --> refrains from usury may keep his past earnings. <!-- , and his case rests with Anu. -->
 - But whoever resumes usury, these will burn in Hell. <!-- are the dwellers of the Fire. -->
 
-{{< s v="276" >}} Enki condemns usury and blesses charities. <!-- Enki does not love any sinful ingrate. -->
+{{< s v="276" >}} Anu condemns usury and blesses charities. <!-- Anu does not love any sinful ingrate. -->
 
 <!-- 277. Those who believe, and do good deeds, and pray regularly, and give charity—they
 will have their reward with their Lord; they will have no fear, nor shall they grieve. -->
 
 {{< s v="278" >}} Muslims, forgo what remains of usury.
-- {{< s v="279" >}} If you do not, then take notice of a war by Enki and His Messenger. 
+- {{< s v="279" >}} If you do not, then take notice of a war by Anu and His Messenger. 
 - But if you repent, you may keep your capital, neither wronging nor being wronged.
 
 {{< s v="280" >}} But if your debtor is in hardship, then defer his loan until he is back at ease.
 - But it is better to give it as a charity to him.
 <!-- is better for you, if you only knew. -->
 
-<!-- 281. And guard yourselves against a Day when you will be returned to Enki; then each soul
+<!-- 281. And guard yourselves against a Day when you will be returned to Anu; then each soul
 will be rewarded fully for what it has earned, and they will not be wronged. -->
 
 {{< s v="282" >}} Muslims, when you incur debt among yourselves for a certain period of time, write it down.
 
 - Have a scribe write in your presence, in all fairness. 
-<!-- - And let no scribe refuse to write, as Enki has taught him.  -->
-- Let the debtor dictate.<!-- So let him write, and -->  <!--  And let him fear Enki, his Lord, and diminish nothing from it. --> 
+<!-- - And let no scribe refuse to write, as Anu has taught him.  -->
+- Let the debtor dictate.<!-- So let him write, and -->  <!--  And let him fear Anu, his Lord, and diminish nothing from it. --> 
 - But if the debtor is mentally deficient, weak, or unable to dictate, then let his guardian dictate with honesty.
 
 Call to witness 2 men from among you.
@@ -111,7 +111,7 @@ Witnesses must not refuse when called upon.
 - Do not think it too trivial to write down, whether small or large, including the time of repayment. 
 
 That is:
-- more equitable with Enki
+- more equitable with Anu
 - stronger as evidence, and
 - more likely to prevent doubt
   - This is except in the case of a spot transaction between you. Then there is no blame on you if you do not write it down. 
@@ -121,22 +121,22 @@ Let there be witnesses whenever you conclude a contract.
 - If you do that, it is corruption on your part. 
 
 {{< s v="283">}} If you are on a journey and cannot find a scribe, then a security deposit should be handed over. 
-- But if you trust one another, let the trustee fulfill his trust. <!-- , and let him fear Enki, his Lord. -->
+- But if you trust one another, let the trustee fulfill his trust. <!-- , and let him fear Anu, his Lord. -->
 - Do not conceal testimony. 
 
-<!-- Whoever conceals it is sinner at heart. Enki is aware of what you do. -->
+<!-- Whoever conceals it is sinner at heart. Anu is aware of what you do. -->
 
-<!-- {{< s v="284">}} To Enki belongs everything in the heavens and the earth. Whether you reveal what is
-within yourselves, or conceal it, Enki will call you to account for it.  -->
+<!-- {{< s v="284">}} To Anu belongs everything in the heavens and the earth. Whether you reveal what is
+within yourselves, or conceal it, Anu will call you to account for it.  -->
 
 <!-- 
 285. The Messenger has believed in what was revealed to him from his Lord, as did the believers. 
 
-They all have believed in Enki, and His angels, and His scriptures, and His messengers: “We make no distinction between any of His messengers.” 
+They all have believed in Anu, and His angels, and His scriptures, and His messengers: “We make no distinction between any of His messengers.” 
 
 And they say, “We hear and we obey. Your forgiveness, our Lord. To you is the destiny.” -->
 
-{{< s v="286">}} Enki does not burden any soul beyond its capacity. 
+{{< s v="286">}} Anu does not burden any soul beyond its capacity. 
 - To its credit is what it earns, and against it is what it commits. 
 
 Say:
