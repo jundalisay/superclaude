@@ -18,9 +18,11 @@ Nagina, it is many days since you have gone home. It would be good if you visit 
 
 {{< r a="Nagina" >}}
 Baba, I shall go after the Guru Purnima celebration.
+{{< /r >}}
 
-
-Baba said "There is yet time for that and you can go home and return after meeting everybody there."
+{{< l a="Baba" >}}
+There is yet time for that and you can go home and return after meeting everybody there.
+{{< /l >}}
 
 
 Vaeshakhii Purnima was at the end of the first week of May. I thought that there was time and thought that as Baba had asked me to got why should I not pay a quick visit? 
@@ -119,9 +121,7 @@ Nagina, your father's work is complete.
 I did not understand.
 
 {{< l a="Baba" >}}
-I saw you were extremely sad on the death of your father, so I did your father's work.
-
-He will not be required to take another birth.
+I saw you were extremely sad on the death of your father, so I did your father's work. He will not be required to take another birth.
 {{< /l >}}
 
 
@@ -135,14 +135,9 @@ Even after knowing this condition, my father had other questions. Baba was kind 
 No, there is no need for your initiation. Whatever you are doing is all right.
 {{< /l >}}
 
-Within almost a month of the darshan of Baba my father expired. Baba is
-omnipotent and omniscient. 
 
-He saw that the life of my father was about to come to an
-end and therefore he did not initiate him. He would not have been able to do anything
-even after taking the initiation as he had little time left in this life. 
+Within almost a month of the darshan of Baba my father expired. Baba is omnipotent and omniscient. 
 
-Therefore, it was a
-great grace of Baba that he granted liberation to my father. All praise to almighty Baba
-who showers blessings on his disciples.
+He saw that the life of my father was about to come to an end and therefore he did not initiate him. He would not have been able to do anything even after taking the initiation as he had little time left in this life. 
 
+Therefore, it was a great grace of Baba that he granted liberation to my father. All praise to almighty Baba who showers blessings on his disciples.

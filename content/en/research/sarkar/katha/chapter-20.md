@@ -76,26 +76,44 @@ After this, there was some tremour in her body and thereafter, she became quiet 
 
 Thus saying, Baba fell silent again.
 
-"Baba, why there was a tremour in the body of the cow after You patted her?”
 
-Baba revealed, "When I touched her on the back, her kulakundalinii was awakened and due to this vibration she began to tremble".
+{{< l a="Baba" >}}
+Baba, why there was a tremour in the body of the cow after You patted her?
 
-I then enquired, “Then do even animals have kulakundalinii and can it also be awakened?”
+When I touched her on the back, her kulakundalinii was awakened and due to this vibration she began to tremble
+{{< /l >}}
 
-Baba replied, "All creatures with a vertebra have kulakundalinii and it can be awakened. After this incident, that cow now began to stand in front of my house everyday at about the time I would go to the office.
 
-When I came out of the house, the cow would look at me and then leave. Similarly she would wait for my return from the
-office also. She would wait till I returned and entered the gate, then she would go away again.
+{{< r a="Nagina" >}}
+Then do even animals have kulakundalinii and can it also be awakened?
+{{< /r >}}
 
-This routine continued for some days regularly. But one day I say that she had a wound on her body. This pained me and I asked her why she was incurring such hurts from people.
+
+{{< l a="Baba" >}}
+All creatures with a vertebra have kulakundalinii and it can be awakened. 
+
+After this incident, that cow now began to stand in front of my house everyday at about the time I would go to the office.
+
+When I came out of the house, the cow would look at me and then leave. 
+
+Similarly, she would wait for my return from the office also. She would wait till I returned and entered the gate, then she would go away again.
+
+This routine continued for some days regularly. But one day, I saw that she had a wound on her body. 
+
+This pained me and I asked her why she was incurring such hurts from people.
 
 She stood there listening to my words.
 
 I told her, ‘Do you know that now you are worthy of respect and people should salute you. If someone in ignorance or by mistake hurts you, they will be committing a sin. Why do you give such opportunities to people? Your work is over. Why should you keep the body now?’
 
-I left her there after telling her this and did not see her later that day. The next day I came to know that she had given up the body.”
+I left her there after telling her this and did not see her later that day. The next day I came to know that she had given up the body.
+{{< /l >}}
 
-By the grace of Baba who is so compassionate this cow attained that supreme status which great yogiis and saints covet so much. It is my prayer that Baba may take a similar compassionate view of all His mental progeny.Salutations to Baba who is the Cause of this Universe and who Exists in the Shape of this Universe
+
+
+By the grace of Baba who is so compassionate this cow attained that supreme status which great yogiis and saints covet so much. 
+
+It is my prayer that Baba may take a similar compassionate view of all His mental progeny.Salutations to Baba who is the Cause of this Universe and who Exists in the Shape of this Universe
 
 
 ## Baba Recounts His Previous Lives
@@ -112,11 +130,19 @@ I was surprised as to why even after attaining enlightenment he took rebirth.
 
 <!-- while in Varanasi,  were that of a Vedic scholar -->
 
-Baba replied that when he was Shri Ram Chandra Upadhyaya, a Muslim came to Him for initiation. But He refused him because He was a Vedic scholar and so He was averse to giving initiation to a Muslim. This refusal became a samskara that became the cause of His rebirth into a Muslim family.
+Baba replied that when he was Shri Ram Chandra Upadhyaya, a Muslim came to Him for initiation. 
 
-I said, "Then Baba, in childhood You must have eaten, “Karimeb baraksayebar heleme ke hastam aseera kamande have”.
+But He refused him because He was a Vedic scholar and so He was averse to giving initiation to a Muslim. This refusal became a samskara that became the cause of His rebirth into a Muslim family.
 
-Baba began to smile and while giving a loving slap on my cheeks and said, "You have become quite mischievous".
+{{< r a="Nagina" >}}
+Then Baba, in childhood You must have eaten, “Karimeb baraksayebar heleme ke hastam aseera kamande have"
+{{< /r >}}
+
+Baba began to smile and while giving a loving slap on my cheeks and said:
+
+{{< l a="Baba" >}}
+You have become quite mischievous
+{{< /l >}}
 
 Baba then told me that He had become a faqir (Muslim mystic) in that body.
 

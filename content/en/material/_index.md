@@ -1,5 +1,6 @@
 ---
 title: "Material Superphysics"
+linkTitle: "Material"
 # image: "/photos/physics/quasar.jpg"
 c: "darkgoldenrod"
 weight: 6
