@@ -1,7 +1,7 @@
 ---
 heading: Chapter 9
-title: "Fargard"
-description: "Avesta is the main Zoroastrian texts"
+title: "Cleaning the Body"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:
@@ -12,7 +12,7 @@ weight: 29
 
 
 
-I a (1-11). Description of the place for cleansing the unclean (the Barashnûm-gâh).
+<!-- I a (1-11). Description of the place for cleansing the unclean (the Barashnûm-gâh).
 
 I b (12-36). Description of the cleansing.
 
@@ -20,112 +20,136 @@ II (37-44). Fees of the cleanser.
 
 III (47-57). The false cleanser; his punishment.
 
-§§ 45, 46 belong better to the following Fargard.
+§§ 45, 46 belong better to the following Fargard. -->
 
 <!-- The ceremony described in this Fargard is known among the Parsis as Barashnûm nû shaba, or 'nine nights’ Barashnûm,' because it lasts for nine nights (see § 35) 2. It is the great purification, the most efficacious of all; it not only makes the defiled man clean, but it opens to him the heavens (see Farg. XIX, 33; cf. Introd. V, 16). So, although it was formerly intended only for the man defiled by the dead, it became, during the Parsi period, a pious work which might be performed without any corpse having been touched; nay, its performance was prescribed, once at least, at the time of the Nû zûdî (at the age of fifteen, when the young Parsi becomes a member of the community), in order to wash away the natural uncleanness that has been contracted in the maternal womb (Saddar 36, Hyde 40) 3. -->
 
-I a.
-1. Zarathustra asked Ahura Mazda: 'O most beneficent Spirit, Maker of the material world, thou Holy One! How shall they manage here below; who want to cleanse the body of one defiled by the dead?'
 
-2 (4). Ahura Mazda answered: ‘A godly man, O Spitama Zarathustra! who speaks truth, who learns the Holy Word, and who knows best the rites of cleansing according to the law of Mazda 1, such a man shall fell the trees off the surface of the ground on a space of nine Vîbâzus 2 square.
+## 1a
+
+{{< r a="Zoroaster" >}}
+1. O Holy One! How shall they manage here below; who want to cleanse the body of one defiled by the dead?
+{{< /r >}}
+
+
+
+{{< l a="Ahura Mazda" >}}
+2 (4). A godly man, O Spitama Zarathustra! who speaks truth, who learns the Holy Word, and who knows best the rites of cleansing according to the law of Mazda 1, such a man shall fell the trees off the surface of the ground on a space of nine Vîbâzus square.
 
 3 (9). 'It should be the part of the ground where there is least water and where there are fewest trees, the part which is the cleanest and driest, and the least passed through by sheep and oxen, and by Fire, the son of Ahura Mazda, by the consecrated bundles of baresma, and by the faithful.'
+{{< /l >}}
 
+
+{{< r a="Zoroaster" >}}
 4 (11). How far from the fire? How far from the water? How far from the consecrated bundles of baresma? How far from the faithful?
+{{< /r >}}
 
-5 (12). Ahura Mazda answered: ‘Thirty paces from the fire, thirty paces from the water, thirty paces from the consecrated bundles of baresma, three paces from the faithful.
 
-6 (13). ‘Then thou shalt dig a hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come 3.
+{{< l a="Ahura Mazda" >}}
+5 (12). Thirty paces from the fire, thirty paces from the water, thirty paces from the consecrated bundles of baresma, three paces from the faithful.
 
-7 (14). ‘Thou shalt dig a second hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
+6 (13). Dig a hole, 2 fingers deep if the summer has come, 4 fingers deep if the winter and ice have come.
 
-‘Thou shalt dig a third hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
+7 (14). Dig a second hole, 2 fingers deep if the summer has come, 4 fingers deep if the winter and ice have come.
 
-‘Thou shalt dig a fourth hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
+Dig a third hole, 2 fingers deep if the summer has come, four fingers deep if the winter and ice have come.
 
-‘Thou shalt dig a fifth hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
+Dig a fourth hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
 
-'Thou shalt dig a sixth hole 1, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.'
+Dig a fifth hole, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
 
+Dig a sixth hole 1, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.'
+{{< /l >}}
+
+
+{{< r a="Zoroaster" >}}
 8 (14). How far from one another?
+{{< /r >}}
+
 
 'One pace.'
 
+{{< r a="Zoroaster" >}}
 How much is the pace?
+{{< /r >}}
 
-‘As much as three feet.
 
-9 (16). 'Then thou shalt dig three holes more 2, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.'
+{{< l a="Ahura Mazda" >}}
+As much as three feet.
 
+9 (16). 'Then thou shalt dig three holes more 2, two fingers deep if the summer has come, four fingers deep if the winter and ice have come.
+{{< /l >}}
+
+
+{{< r a="Zoroaster" >}}
 How far from the former six?
+{{< /r >}}
 
 'Three paces.'
 
+{{< r a="Zoroaster" >}}
 What sort of paces?
+{{< /r >}}
+
 
 'Such as are taken in walking.'
 
+{{< r a="Zoroaster" >}}
 How much are those (three) paces?
+{{< /r >}}
 
+{{< l a="Ahura Mazda" >}}
 ‘As much as nine feet.
 
-10 (22). 'Then thou shalt draw a furrow all around with a metal knife.'
+10 (22). 'Then draw a furrow all around with a metal knife.
+{{< /l >}}
 
+
+{{< r a="Zoroaster" >}}
 How far from the holes?
-
-'Three paces.'
-
-What sort of paces?
-
-'Such as are taken in walking.'
+{{< /r >}}
 
 
+'Three paces. Such as are taken in walking.'
 
-p. 122
-
+{{< r a="Zoroaster" >}}
 How much are those (three) paces?
-
-‘As much as nine feet.
-
-11 (24). 'Thou shalt draw twelve furrows 1; three of which thou shalt draw around (the first) three holes; three thou shalt draw around (the first) six holes; three thou shalt draw around the nine holes; three thou shalt draw around the three holes, outside the six holes 2. At each of the three times nine feet 3, thou shalt place stones as steps to the holes; or potsherds, or stumps, or clods, or any hard matter 4.'
-
-I b.
-12 (31). 'Then the unclean one shall walk to the holes; thou, O Zarathustra! shalt stand outside by the furrow, and thou shalt recite, Nemaskâ yâ
+{{< /r >}}
 
 
+{{< l a="Ahura Mazda" >}}
+As much as nine feet.
+
+11 (24). Draw 12 furrows, 3 of which thou shalt draw around (the first) three holes; three thou shalt draw around (the first) six holes; three thou shalt draw around the nine holes; three thou shalt draw around the three holes, outside the six holes. 
+
+At each of the three times nine feet 3, thou shalt place stones as steps to the holes; or potsherds, or stumps, or clods, or any hard matter
+{{< /l >}}
 
 
+## 1b
 
-p. 123
 
-ârmaitis îzâkâ 1; and the unclean one shall repeat, Nemaskâ yâ ârmaitis îzâkâ.
+12 (31). 'Then the unclean one shall walk to the holes; thou, O Zarathustra! shalt stand outside by the furrow, and thou shalt recite, Nemaskâ yâ ârmaitis îzâkâ 1; and the unclean one shall repeat, Nemaskâ yâ ârmaitis îzâkâ.
 
 13 (35). ‘The Drug becomes weaker and weaker at every one of those words which are to smite the fiend Angra Mainyu, to smite Aêshma of the bloody spear 2, to smite the Mâzainya fiends 3, to smite all the fiends.
 
-14 (40). ‘Then thou shalt sprinkle him with gômêz from a spoon of brass or of lead; thou shalt take a stick with nine knots 4, O Spitama Zarathustra! and thou shalt fasten the leaden spoon to the upper part of the stick.
+14 (40). ‘Then sprinkle him with gômêz from a spoon of brass or of lead; thou shalt take a stick with nine knots 4, O Spitama Zarathustra! and thou shalt fasten the leaden spoon to the upper part of the stick.
 
-15 (43). ‘They shall wash his hands first. If his hands be not washed first, he makes his whole body unclean. When he has washed his hands three times, after his hands have been washed, thou shalt sprinkle the forepart of his skull; then the Drug Nasu rushes in front, between his brows 5.
+15 (43). ‘They shall wash his hands first. If his hands be not washed first, he makes his whole body unclean. When he has washed his hands three times, after his hands have been washed, thou shalt sprinkle the forepart of his skull; then the Drug Nasu rushes in front, between his brows.
 
-16 (50). ‘Thou shalt sprinkle him in front between the brows; then the Drug Nasu rushes upon the back part of the skull.
+16 (50). Sprinkle him in front between the brows. Then the Drug Nasu rushes upon the back part of the skull.
 
-‘Thou shalt sprinkle the back part of the skull; then the Drug Nasu rushes upon the jaws.
+Sprinkle the back part of the skull; then the Drug Nasu rushes upon the jaws.
 
-‘Thou shalt sprinkle the jaws; then the Drug Nasu rushes upon the right ear.
+Sprinkle the jaws; then the Drug Nasu rushes upon the right ear.
 
-17 (56). ‘Thou shalt sprinkle the right ear; then the Drug Nasu rushes upon the left ear.
+17 (56). Sprinkle the right ear; then the Drug Nasu rushes upon the left ear.
 
-‘Thou shalt sprinkle the left ear; then the Drug Nasu rushes upon the right shoulder.
+Sprinkle the left ear; then the Drug Nasu rushes upon the right shoulder.
 
+Sprinkle the right shoulder; then the Drug Nasu rushes upon the left shoulder.
 
-
-
-
-
-p. 124
-
-‘Thou shalt sprinkle the right shoulder; then the Drug Nasu rushes upon the left shoulder.
-
-‘Thou shalt sprinkle the left shoulder; then the Drug Nasu rushes upon the right arm-pit.
+Sprinkle the left shoulder; then the Drug Nasu rushes upon the right arm-pit.
 
 18 (64). ‘Thou shalt sprinkle the right armpit; then the Drug Nasu rushes upon the left arm-pit.
 
@@ -152,8 +176,6 @@ p. 124
 22 (88). ‘Thou shalt sprinkle the right thigh; then the Drug Nasu rushes upon the left thigh.
 
 ‘Thou shalt sprinkle the left thigh; then the Drug Nasu rushes upon the right knee.
-
-p. 125
 
 ‘Thou shalt sprinkle the right knee; then the Drug Nasu rushes upon the left knee.
 
@@ -268,7 +290,8 @@ Ahura Mazda answered: 'The worshippers of Mazda shall bind him; they shall bind 
 
 57 (196). 'Then sweetness and fatness will come back again to that land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass.'
 
-Footnotes
+
+<!-- Footnotes
 119:2 As to the word Barashnûm, it seems not to refer to the ceremony itself, and to be nothing more than the Zend word bareshnûm, 'the top of the head, the skull,' the part of the body that is first to be washed (§ 15).
 
 119:3 For the plan of the Barashnûm-gâh, see Anquetil II, p. 450.
@@ -316,3 +339,4 @@ Footnotes
 131:1 'The cleanser who has not performed the cleansing according to the rites, shall be taken to a desert place; there they shall nail him with four nails, they shall take off the skin from his body, and cut off his head. If he has performed Patet for his sin, he shall be holy (that is, he shall go to paradise); if he has not performed Patet, he shall stay in hell till the day of resurrection' (Fraser Ravaet, p. 398). Cf. Farg. III, 20 seq.
 
 132:4 The so-called zanda ravân, 'the sacrifice that makes the soul living,' that is to say, that makes it enter heaven. It is probably to be performed only in case the sinner has performed the Patet (see the note to § 49).
+ -->

@@ -1,6 +1,6 @@
 ---
-title: "Vendidad"
-description: "Avesta is the main Zoroastrian texts"
+title: "Anunnaki Vendidad"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:

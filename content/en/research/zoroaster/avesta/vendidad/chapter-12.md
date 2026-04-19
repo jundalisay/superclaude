@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12
 title: "House Rules"
-description: "Avesta is the main Zoroastrian texts"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:

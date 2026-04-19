@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "How to Clean the House"
-description: "Avesta is the main Zoroastrian texts"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:

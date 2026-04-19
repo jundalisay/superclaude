@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8c
 title: "Policies for Funeral Pyres"
-description: "Avesta is the main Zoroastrian texts"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:

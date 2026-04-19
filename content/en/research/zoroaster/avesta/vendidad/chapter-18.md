@@ -1,7 +1,7 @@
 ---
 heading: Chapter 18
 title: "The holiness of the Cock"
-description: "Avesta is the main Zoroastrian texts"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
 c: "indigo"
 icon: "Zoroaster"
 writer:
@@ -180,5 +180,3 @@ IV.
 75 (149). ‘This is the atonement, this is the penalty that he shall pay to atone for the deed that he has done.
 
 76 (150). 'If he shall pay it, he shall enter the world of the holy ones; if he shall not pay it, he shall fall down into the world of the wicked, into that dark world, made of darkness, the offspring of darkness 4.'
-
-
