@@ -1,12 +1,17 @@
 ---
 heading: Chapter 8
-title: "Contracts and Outrages"
+title: "Policies for Funerals"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 23
 ---
 
-III (14-22). Purification of the ways along which the corps-has been carried.
+
+<!-- III (14-22). Purification of the ways along which the corps-has been carried.
 
 IV (23-25). No clothes to be wasted on a corpse.
 
@@ -20,7 +25,7 @@ VIII (73-80). Purification of the fire defiled by the dead.
 
 IX (81-96). The Bahrâm fire.
 
-X (97-107). Purification in the wilderness.
+X (97-107). Purification in the wilderness. -->
 
 <!-- This chapter, putting aside section V, may be entitled: Funerals and Purification. Logical order may easily be introduced into it, by arranging the sections as follows: I, IV, II, III, VI, VII, X, VIII, IX. -->
 
@@ -57,7 +62,9 @@ X (97-107). Purification in the wilderness.
 
 13 (35). Ahura Mazda answered: 'It is of sheep or of oxen; not of man nor of woman, except these two: the nearest kinsman (of the dead) or his nearest kinswoman. The worshippers of Mazda shall therefore procure the urine wherewith the corpse-bearers shall wash their hair and their bodies 1.'
 
-III.
+
+## 3
+
 14 (38). O Maker of the material world, thou Holy One! Can the way, whereon the carcases of dogs or corpses of men have been carried, be passed through again by flocks and herds, by men and women, by Fire, the son of Ahura Mazda, by the consecrated bundles of baresma, and by the faithful?
 
 15 (40). Ahura Mazda answered: ‘It cannot be passed through again by flocks and herds, nor by men and women, nor by Fire, the son of Ahura Mazda, nor by the consecrated bundles of baresma, nor by the faithful.
@@ -81,7 +88,7 @@ III.
 'The worshippers of Mazda may afterwards 3 prepare meals with meat and wine in that house; it shall be clean, and there will be no sin, as before.'
 
 
-IV.
+## 4
 
 23 (65). O Maker of the material world, thou Holy One! If a man shall throw clothes, either of skin or woven, upon a dead body, enough to cover the feet, what is the penalty that he shall pay 1?
 

@@ -1,21 +1,27 @@
 ---
 heading: Chapter 10
-title: "Fargard"
+title: "Prayers"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 32
 ---
 
 
-During the process of cleansing, the voice works with the hand. The spells which must be recited while the unclean one is cleansing himself have already been mentioned in the preceding Fargard, but we find here a detailed list of spells which are to be spoken twice, or thrice, or four times. The exact time when they are to be uttered is not mentioned, and we do not know whether they are to accompany those prescribed in the last Fargard, and are, therefore, to be repeated as often as the unclean one is washed, or whether they are only intended to close the whole ceremony.
+<!-- During the process of cleansing, the voice works with the hand. The spells which must be recited while the unclean one is cleansing himself have already been mentioned in the preceding Fargard, but we find here a detailed list of spells which are to be spoken twice, or thrice, or four times. The exact time when they are to be uttered is not mentioned, and we do not know whether they are to accompany those prescribed in the last Fargard, and are, therefore, to be repeated as often as the unclean one is washed, or whether they are only intended to close the whole ceremony.
 
-These spells, like the former ones, are taken from the hymns or Gâthas, the oldest and holiest part of the Avesta. They were not written for this particular purpose, but, as happens in all religions, advantage was taken of whatever there might be in the old sacred hymns which could be more or less easily applied to the special circumstances of the case. The recitation of these lines is followed by an exorcism, written in the ordinary language of the Avesta, which has been expressly composed for the occasion.
+These spells, like the former ones, are taken from the hymns or Gâthas, the oldest and holiest part of the Avesta. They were not written for this particular purpose, but, as happens in all religions, advantage was taken of whatever there might be in the old sacred hymns which could be more or less easily applied to the special circumstances of the case. The recitation of these lines is followed by an exorcism, written in the ordinary language of the Avesta, which has been expressly composed for the occasion. -->
+
+
 
 1. Zarathustra asked Ahura Mazda: 'O Ahura Mazda! most beneficent spirit, Maker of the material world, thou Holy One! How shall I fight against that Drug who from the dead rushes upon the living? How shall I fight against that Drug who from the dead defiles the living?'
 
 2 (3). Ahura Mazda answered: 'Say aloud those words in the Gâthas that are to be said twice 1; say aloud those words in the Gâthas that are to be said thrice 1; say aloud those words in the Gâthas that are to be said four times 2.'
 
-3 (7). O Maker of the material world, thou Holy One! Which are those words in the Gâthas that are to be said twice?
+3 (7). O Holy One! Which are those words in the Gâthas that are to be said twice?
 
 4 (10). Ahura Mazda answered: ‘These are the words in the Gâthas that are to be said twice, and thou shalt twice say them aloud:--
 
@@ -44,7 +50,7 @@ vahistâ îstis . . . skyaothanâkâ (Yas. LIII, 1).
 
 6 (12). '"I drive away the Nasu, I drive away direct defilement, I drive away indirect defilement, from this house, from this borough, from this town, from this land; from the very body of the man defiled by the dead, from the very body of the woman defiled by the dead; from the master of the house, from the lord of the borough, from the lord of the town, from the lord of the land; from the whole of the holy world."'
 
-7 (13). O Maker of the material world, thou Holy One! Which are those words in the Gâthas that are to be said thrice?
+7 (13). O Holy One! Which are those words in the Gâthas that are to be said thrice?
 
 8 (16). Ahura Mazda answered: ‘These are the words in the Gâthas that are to be said thrice, and thou shalt thrice say them aloud:--
 
@@ -61,7 +67,7 @@ duzvarenâis . . . vahyô (Yas. LIII, 9).
 
 10 (18). '"I drive away Tauru 2, I drive away Zairi 2, from this house, from this borough, from this town, from this land; from the very body of the man defiled by the dead, from the very body of the woman defiled by the dead; from the master of the house, from the lord of the borough, from the lord of the town, from the lord of the land; from the whole of the holy world."'
 
-11 (19). O Maker of the material world, thou Holy One! Which are those words in the Gâthas that are to be said four times?
+11 (19). O Holy One! Which are those words in the Gâthas that are to be said four times?
 
 12 (22). Ahura Mazda answered: ‘These are the words in the Gâthas that are to be said four times, and thou shalt four times say them aloud:--
 

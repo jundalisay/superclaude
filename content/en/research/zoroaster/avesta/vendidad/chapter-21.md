@@ -3,11 +3,15 @@ heading: Chapter 21
 title: "Angra Mainyu attempts to kill Zarathustra"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 62
 ---
 
 
-Waters and Light.
+## Waters and Light.
 
 <!-- I (1). Praise of the holy bull.
 
@@ -22,15 +26,16 @@ III c (12-17). Joint invocation addressed to the waters and to the light of the 
 IV (18-21). Spells against disease. -->
 
 
-I.
+## 1
 
-1. Hail, holy bull 1! Hail to thee, beneficent bull! Hail to thee, who makest increase! Hail to thee, who makest growth! Hail to thee, who dost bestow thy gifts upon the excellent faithful, and who wilt bestow them on the faithful yet unborn! Hail to thee, whom the Gahi kills 2, and the ungodly Ashemaogha, and the wicked tyrant.
+<sup>1</sup> Hail, holy bull!  Hail to thee, who makest growth! Hail to thee, who dost bestow thy gifts upon the excellent faithful, and who wilt bestow them on the faithful yet unborn! 
 
-II.
+Hail to thee, whom the Gahi kills, and the ungodly Ashemaogha, and the wicked tyrant.
 
-2 (3). 'Come, come on, O clouds, along the sky, through the air, down on the earth, by thousands of drops, by myriads of drops:' thus say, O holy Zarathustra! ‘to destroy sickness altogether, to destroy death altogether, to destroy altogether the sickness made by the Gaini 3, to destroy altogether the death made by the Gaini, to destroy altogether Gadha and Apagadha 4.
 
-3 (9). ‘If death come at eve, may healing come at daybreak!
+<sup>2</sup> (3). 'Come, come on, O clouds, along the sky, through the air, down on the earth, by thousands of drops, by myriads of drops:' thus say, O holy Zarathustra! ‘to destroy sickness altogether, to destroy death altogether, to destroy altogether the sickness made by the Gaini 3, to destroy altogether the death made by the Gaini, to destroy altogether Gadha and Apagadha 4.
+
+<sup>3</sup> (9). ‘If death come at eve, may healing come at daybreak!
 
 ‘If death come at daybreak, may healing come at night!
 
@@ -38,9 +43,10 @@ II.
 
 ‘Let showers shower down new waters, new earth, new trees, new health, and new healing powers.
 
-III a.
 
-4 (15). ‘As the sea Vouru-kasha is the gathering place of waters 1, rise up, go up the aerial way and go down on the earth; go down on the earth and go up the aerial way 2. Rise up and roll along! thou in whose rising and growing Ahura Mazda made the aerial way 3.
+## 2 
+
+<sup>4</sup> (15). ‘As the sea Vouru-kasha is the gathering place of waters 1, rise up, go up the aerial way and go down on the earth; go down on the earth and go up the aerial way 2. Rise up and roll along! thou in whose rising and growing Ahura Mazda made the aerial way 3.
 
 5 (20). ‘Up! rise up and roll along! thou swift-horsed sun, above Hara Berezaiti, and produce light for the world (and mayst thou O man! rise up there, if thou art to abide in Garô-nmânem 4) 5, along the path made by Mazda, along the way made by the gods, the watery way they opened.
 
@@ -80,7 +86,7 @@ IV.
 20. ‘May the much-desired Airyaman come here, for the men and women of Zarathustra to rejoice, for the faithful to rejoice; with the desirable reward that is won by means of the law, and with that boon for holiness that is vouchsafed by Ahura!
 
 
-21. ‘May the much-desired Airyaman smite all manner of diseases and deaths, all the Yâtus and Pairikas, and all the wicked Gainis.
+<sup>21</sup> ‘May the much-desired Airyaman smite all manner of diseases and deaths, all the Yâtus and Pairikas, and all the wicked Gainis.
 
 22. ‘Yathâ ahû vairyô:--the will of the Lord . . .  1.
 
@@ -88,4 +94,4 @@ IV.
 
 ‘Ke verethrem gâ:--who is he who will smite the fiend . . .  1?
 
-23. 'Keep us from our hater, O Mazda and Ârmaiti Spenta! Perish, O fiendish Drug! Perish, O brood of the fiend! Perish, O world of the fiend! Perish away, O Drug! Perish, away to the regions of the north, never more to give unto death the living world of the holy spirit!']
+<sup>23</sup> 'Keep us from our hater, O Mazda and Ârmaiti Spenta! Perish, O fiendish Drug! Perish, O brood of the fiend! Perish, O world of the fiend! Perish away, O Drug! Perish, away to the regions of the north, never more to give unto death the living world of the holy spirit!']

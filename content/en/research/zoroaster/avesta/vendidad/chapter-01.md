@@ -3,6 +3,10 @@ heading: Chapter 1
 title: "Ahura Mazda and Angra Mainyu"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 4
 ---
 

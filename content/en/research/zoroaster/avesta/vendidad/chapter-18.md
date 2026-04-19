@@ -3,6 +3,10 @@ heading: Chapter 18
 title: "The holiness of the Cock"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 54
 ---
 
@@ -12,13 +16,13 @@ weight: 54
 IV (61-71). On unlawful lusts. -->
 
 
-I. 
+## 1 
 
-1. 'There is many a one, O holy Zarathustra!' said Ahura Mazda, 'who wears a Paitidâna 2 but who has not girded his loins with the law 3; when such a man says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
+<sup>1</sup> 'There is many a one, O holy Zarathustra!' said Ahura Mazda, 'who wears a Paitidâna 2 but who has not girded his loins with the law 3; when such a man says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
 
-2 (5). 'He holds a Khrafstraghna 4 in his hand, but he has not girded his loins with the law; when he says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
+<sup>2</sup> (5). 'He holds a Khrafstraghna 4 in his hand, but he has not girded his loins with the law; when he says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
 
-3 (7). 'He holds a twig 1 in his hand, but he has not girded his loins with the law; when he says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
+<sup>3</sup> (7). 'He holds a twig 1 in his hand, but he has not girded his loins with the law; when he says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
 
 4 (9). 'He wields the Astra mairya 2, but he has not girded his loins with the law; when he says, "I am an Âthravan," he lies; do not call him an Âthravan, O holy Zarathustra!' thus said Ahura Mazda.
 
@@ -34,32 +38,20 @@ thou mayst be the better, that thou mayst be the happier 1.'
 
 9 (22). Ahura Mazda answered: ‘It is the man that teaches a wrong law 2; it is the man who continues for three years 3 without wearing the sacred girdle 4, without chanting the Gâthas, without worshipping the good waters.
 
-10 (25). ‘And he who should set that man at
-
-
-
-
-
-p. 192
-
-liberty, when bound in prison 1, does no better deed than if he should flay a man alive and cut off his head 2.
+<sup>10</sup> (25). ‘And he who should set that man at liberty, when bound in prison 1, does no better deed than if he should flay a man alive and cut off his head 2.
 
 11 (27). ‘The blessing uttered on a wicked, ungodly Ashemaogha does not go past the mouth (of the blesser); the blessing for two Ashemaoghas does not go past his tongue; the blessing for three is no word at all; the blessing for four is a curse against himself.
 
 12 (29). ‘Whosoever should give some Haoma juice to a wicked, ungodly Ashemaogha, or some Myazda consecrated with blessings, does no better deed than if he should lead a thousand horse against the cities of the worshippers of Mazda, and should slaughter the men thereof, and drive off the cattle as plunder.
 
-II.
+
+## 2
+
 13 (32). 'Demand of me, thou upright one! of me, who am the Maker, the best of all beings, the most knowing, the most pleased in answering what is asked of me; demand of me, that thou mayst be the better, that thou mayst be the happier.'
 
 14 (33). Zarathustra asked Ahura Mazda: 'Who is the Sraosha-varez 3 of Sraosha 4? the holy, strong Sraosha, who is the incarnate Word, a mighty-speared and lordly god.'
 
-
-
-
-
-p. 193
-
-15 (34). Ahura Mazda answered: ‘It is the bird named Parôdars 1, which ill-speaking people call Kahrkatâs 2, O holy Zarathustra! the bird that lifts up his voice against the mighty dawn:
+<sup>15</sup> (34). Ahura Mazda answered: ‘It is the bird named Parôdars 1, which ill-speaking people call Kahrkatâs 2, O holy Zarathustra! the bird that lifts up his voice against the mighty dawn:
 
 16 (37). ‘“Arise, O men! recite the Ashem yad vahistem that smites down the Daêvas 3. Lo! here is Bûshyãsta, the long-handed 4, coming upon you, who lulls to sleep again the whole living world, as soon as it has awoke: ‘Sleep!’ she says, ‘sleep on, O man! the time 5 is not yet come.’”
 
@@ -67,16 +59,7 @@ p. 193
 
 18 (43). ‘In the first part of the night, Fire, the son of Ahura Mazda, calls the master of the house for help, saying:
 
-19 (43). ‘"Up! arise, thou master of the house! put on thy girdle on thy clothes, wash thy hands, take wood, bring it unto me, and let me burn bright
-
-
-
-
-
-
-p. 194
-
-with the clean wood, carried by thy well-washed hands 1. Here comes Âzi 2, made by the Daêvas, who is about to strive against me, and wants to put out my life."
+19 (43). ‘"Up! arise, thou master of the house! put on thy girdle on thy clothes, wash thy hands, take wood, bring it unto me, and let me burn bright with the clean wood, carried by thy well-washed hands 1. Here comes Âzi 2, made by the Daêvas, who is about to strive against me, and wants to put out my life."
 
 20 (46). ‘In the second part of the night, Fire, the son of Ahura Mazda, calls the husbandman for help, saying:
 
@@ -86,14 +69,7 @@ with the clean wood, carried by thy well-washed hands 1. Here comes Âzi 2, made
 
 23 (50). ‘And then the holy Sraosha wakes up the bird named Parôdars, which ill-speaking people call Kahrkatâs, and the bird lifts up his voice against the mighty dawn:
 
-24 (52). ‘“Arise, O men! recite the Ashem yad vahistem that smites down the Daêvas. Lo! here is Bûshyãsta, the long-handed, coming upon you, who lulls to sleep again the whole living world as
-
-
-
-
-p. 195
-
-soon as it has awoke: ‘Sleep!’ she says, ‘sleep on, O man! the time is not yet come.’”
+24 (52). ‘“Arise, O men! recite the Ashem yad vahistem that smites down the Daêvas. Lo! here is Bûshyãsta, the long-handed, coming upon you, who lulls to sleep again the whole living world as soon as it has awoke: ‘Sleep!’ she says, ‘sleep on, O man! the time is not yet come.’”
 
 25 (52). ‘"For the three excellent things be never slack, namely, good thoughts, good words, and good deeds; for the three abominable things be ever slack, namely, bad thoughts, bad words, and bad deeds."
 
@@ -105,14 +81,11 @@ soon as it has awoke: ‘Sleep!’ she says, ‘sleep on, O man! the time is not
 
 28 (64). ‘And whosoever will kindly and piously present one of the faithful with a pair of these my Parôdars birds, a male and a female, it is as though he had given 1 a house with a hundred columns, a thousand beams, ten thousand large windows, ten thousand small windows.
 
-29 (67). 'And whosoever shall give to my Parôdars bird his fill of meat, I, Ahura Mazda, need not
+29 (67). 'And whosoever shall give to my Parôdars bird his fill of meat, I, Ahura Mazda, need not interrogate him any longer; he shall directly go to paradise.'
 
 
-p. 196
+## 3
 
-interrogate him any longer; he shall directly go to paradise.'
-
-III.
 30 (70). The holy Sraosha asked the Drug, with his club uplifted against her: 'O thou wretched and wicked Drug! Thou then, alone in the material world, dost bear offspring without any male coming unto thee?'
 
 31 (74). Then the Drug demon, the guileful one, answered: ‘O holy, tall-formed Sraosha! It is not so, nor do I, alone in the material world, bear offspring without any male coming unto me.
@@ -129,12 +102,7 @@ III.
 
 36 (83). The holy Sraosha asked the Drug, with his club uplifted against her: 'O thou wretched and wicked Drug! What is the thing that can counteract that?'
 
-37 (84). Then the Drug demon, the guileful one, answered: ‘O holy, tall-formed Sraosha! This is
-
-
-p. 197
-
-the thing that counteracts it, namely, when a man unasked, kindly and piously, gives to one of the faithful something, be it ever so little, of the riches he has treasured up.
+37 (84). Then the Drug demon, the guileful one, answered: ‘O holy, tall-formed Sraosha! This is the thing that counteracts it, namely, when a man unasked, kindly and piously, gives to one of the faithful something, be it ever so little, of the riches he has treasured up.
 
 38 (87). 'He does thereby as thoroughly destroy the fruit of my womb as a four-footed wolf does, who tears the child out of a mother's womb.'
 
@@ -148,10 +116,7 @@ the thing that counteracts it, namely, when a man unasked, kindly and piously, g
 
 43 (94). Then the Drug demon, the guileful one, answered: ‘O holy, tall-formed Sraosha! This is the thing that counteracts it, namely, when the man rising up 1 and stepping three steps further off, shall say three Ahuna-Vairya, two humatanãm, three hukhshathrôtemãm, and then chant the Ahuna-Vairya and offer up one Yênhê hâtãm.
 
-
-p. 198
-
-44 (98). 'He does thereby as thoroughly destroy the fruit of my womb as a four-footed wolf does, who tears the child out of a mother's womb.'
+<sup>44</sup>  (98). 'He does thereby as thoroughly destroy the fruit of my womb as a four-footed wolf does, who tears the child out of a mother's womb.'
 
 45 (99). The holy Sraosha asked the Drug, with his club uplifted against her: 'O thou wretched and wicked Drug! Who is the third of those males of thine?'
 
@@ -165,12 +130,7 @@ p. 198
 
 50 (107). 'He does thereby as thoroughly destroy the fruit of my womb as a four-footed wolf does who tears the child out of a mother's womb.'
 
-51 (108). Then he shall speak unto Spenta Ârmaiti 1, saying: ‘O Spenta Ârmaiti, this man do I deliver unto thee; this man deliver thou back unto me, against the mighty day of resurrection; deliver him back as one who knows the Gâthas, who
-
-
-p. 199
-
-knows the Yasna, and the revealed law 1, a wise and clever man, who is the Word incarnate.
+51 (108). Then he shall speak unto Spenta Ârmaiti 1, saying: ‘O Spenta Ârmaiti, this man do I deliver unto thee; this man deliver thou back unto me, against the mighty day of resurrection; deliver him back as one who knows the Gâthas, who knows the Yasna, and the revealed law 1, a wise and clever man, who is the Word incarnate.
 
 52 (112). 'Then thou shalt call his name "Fire-creature, Fire-seed, Fire-offspring, Fire-land," or any name wherein is the word Fire 2.'
 
@@ -184,14 +144,7 @@ knows the Yasna, and the revealed law 1, a wise and clever man, who is the Word 
 
 57 (118). Then the Drug demon, the guileful one, answered: ‘O holy, tall-formed Sraosha! There is no means of counteracting it;
 
-
-
-
-
-
-p. 200
-
-58 (120). ‘When a man or a woman, being more than fifteen years of age, walks without wearing the sacred girdle or the sacred shirt.
+<sup>58</sup> (120). ‘When a man or a woman, being more than fifteen years of age, walks without wearing the sacred girdle or the sacred shirt.
 
 59 (120). 'At the fourth step we Daêvas, at once, wither him even to the tongue and the marrow, and he goes thenceforth with power to destroy the world of the holy spirit, and he destroys it like the Yâtus and the Zandas.'
 
@@ -202,49 +155,25 @@ IV.
 
 62 (124). Ahura Mazda answered: ‘It is the Gahi 1, O Spitama Zarathustra! who goes a-whoring after the faithful and the unfaithful, after the worshippers of Mazda and the worshippers of the Daêvas, after the wicked and the righteous 2.
 
-6 3 (12 5). ‘Her look dries up one third of the mighty floods that run from the mountains; her look withers one third of the beautiful, golden hued, growing plants;
+63 (12 5). ‘Her look dries up one third of the mighty floods that run from the mountains; her look withers one third of the beautiful, golden hued, growing plants;
 
-64 (12 7). ‘Her look withers one third of the grass
-
-
-
-p. 201
-
-wherewith Spenta Ârmaiti 1 is clad 2, and her touch withers in the faithful one third of his good thoughts, of his good words, of his good deeds, one third of his strength, of his fiend-killing power, and of his holiness 3.
+64 (12 7). ‘Her look withers one third of the grass wherewith Spenta Ârmaiti 1 is clad 2, and her touch withers in the faithful one third of his good thoughts, of his good words, of his good deeds, one third of his strength, of his fiend-killing power, and of his holiness 3.
 
 65 (129). 'Verily I say unto thee, O Spitama Zarathustra! such creatures ought to be killed even more than gliding snakes 4, than howling wolves, than the wild she-wolf that falls upon the fold, or than the she-frog that falls upon the waters with her thousandfold brood.'
 
 66 (133). Demand of me, thou upright one! of me who am the Maker, the best of all beings, the most knowing, the most pleased in answering what is asked of me; demand of me that thou mayst be the better, that thou mayst be the happier.
 
-67-68 (133). Zarathustra asked Ahura Mazda: 'If a man shall come unto a woman who has an issue of blood, either out of the ordinary course or at the usual period, and he does so wittingly and knowingly 5, and she allows it wilfully, wittingly, and
+67-68 (133). Zarathustra asked Ahura Mazda: 'If a man shall come unto a woman who has an issue of blood, either out of the ordinary course or at the usual period, and he does so wittingly and knowingly 5, and she allows it wilfully, wittingly, and knowingly, what is the atonement for it, what is the penalty that he shall pay to atone for the deed they have done?'
 
+<sup>69</sup> (136). Ahura Mazda answered: ‘If a man shall come unto a woman who has an issue of blood, either out of the ordinary course or at the usual period, and he does so wittingly and knowingly, and she allows it wilfully, wittingly, and knowingly;
 
-
-
-
-
-p. 202
-
-knowingly, what is the atonement for it, what is the penalty that he shall pay to atone for the deed they have done?'
-
-69 (136). Ahura Mazda answered: ‘If a man shall come unto a woman who has an issue of blood, either out of the ordinary course or at the usual period, and he does so wittingly and knowingly, and she allows it wilfully, wittingly, and knowingly;
-
-70 (137). ‘He shall slay a thousand head of small cattle; he shall godly and piously offer up to the fire 1 the entrails 2 thereof together with Zaothra-libations; he shall bring the shoulder bones to the good waters 3.
+<sup>70</sup> (137). ‘He shall slay a thousand head of small cattle; he shall godly and piously offer up to the fire 1 the entrails 2 thereof together with Zaothra-libations; he shall bring the shoulder bones to the good waters 3.
 
 71 (140). ‘He shall godly and piously bring unto the fire a thousand loads of soft wood, of Urvâsna, Vohu-gaona, Vohu-kereti, Hadhâ-naêpata, or of any sweet-scented plant 4.
 
 72 (142). ‘He shall tie and consecrate a thousand bundles of baresma; he shall godly and piously offer up to the good waters a thousand Zaothra-libations, together with the Haoma and the meat, cleanly prepared and well strained by a pious man, together with the roots of the tree known as Hadhâ-naêpata 5.
 
-73 (144). ‘He shall kill a thousand snakes of
-
-
-
-
-
-
-p. 203
-
-those that go upon the belly, two thousand of the other kind 1: he shall kill a thousand land frogs and two thousand water frogs; he shall kill a thousand corn-carrying ants and two thousand of the other kind 2.
+73 (144). ‘He shall kill a thousand snakes of those that go upon the belly, two thousand of the other kind 1: he shall kill a thousand land frogs and two thousand water frogs; he shall kill a thousand corn-carrying ants and two thousand of the other kind 2.
 
 74 (147). ‘He shall throw thirty bridges over canals; he shall undergo a thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana 3.
 

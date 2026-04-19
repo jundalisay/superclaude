@@ -3,11 +3,15 @@ heading: Chapter 5
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 15
 ---
 
 
-This chapter and the following ones, to the end of the twelfth, deal chiefly with uncleanness arising from the dead, and with the means of removing it from men and things.
+<!-- This chapter and the following ones, to the end of the twelfth, deal chiefly with uncleanness arising from the dead, and with the means of removing it from men and things.
 
 The subjects treated in this Fargard are as follows:
 
@@ -26,30 +30,40 @@ VI (27-38). On the defiling power of the Nasu being greater or less, according t
 VII (39-44). On the management of sacrificial implements defiled by the dead.
 
 VIII (45-62). On the treatment of a woman who has been delivered of a still-born child; and what is to be done with her clothes.
+ -->
 
-I a.
 
-1. There dies a man in the depths of the vale: a bird takes flight from the top of the mountain down into the depths of the vale, and it eats up the corpse of the dead man there: then, up it flies from the depths of the vale to the top of the mountain: it flies to some one of the trees there, of the hard-wooded or the soft-wooded, and upon that tree it vomits, it deposits dung, it drops pieces from the corpse.
+## 1a
 
-2 (7). Now, lo! here is a man coming up from the depths of the vale to the top of the mountain; he comes to the tree whereon the bird is sitting; from that tree he wants to take wood for the fire. He fells the tree, he hews the tree, he splits it into logs, and then he lights it in the fire, the son of Ahura Mazda. What is the penalty that he shall pay 1?
+<sup>1</sup> There dies a man in the depths of the vale: a bird takes flight from the top of the mountain down into the depths of the vale, and it eats up the corpse of the dead man there.
+
+Then, up it flies from the depths of the vale to the top of the mountain: it flies to some one of the trees there, of the hard-wooded or the soft-wooded, and upon that tree it vomits, it deposits dung, it drops pieces from the corpse.
+
+<sup>2</sup> (7). Now, lo! here is a man coming up from the depths of the vale to the top of the mountain; he comes to the tree whereon the bird is sitting; from that tree he wants to take wood for the fire. He fells the tree, he hews the tree, he splits it into logs, and then he lights it in the fire, the son of Ahura Mazda. What is the penalty that he shall pay 1?
 
 3 (11). Ahura Mazda answered: ‘There is no sin upon a man for any dead matter that has been brought by dogs, by birds, by wolves, by winds, or by flies.
 
 4 (12). 'For were there sin upon a man for any dead matter that might have been brought by dogs, by birds, by wolves, by winds, or by flies, how soon this material world of mine would have in it only Peshôtanus 2, shut out from the way of holiness, whose souls will cry and wail 1! so numberless are the beings that die upon the face of the earth.'
 
-I b.
+
+## 1b
+
 5 (15). O Maker of the material world, thou Holy One! Here is a man watering a corn field. The water streams down the field; it streams again; it streams a third time; and the fourth time, a dog, a fox, or a wolf carries a corpse into the bed of the stream: what is the penalty that the man shall pay 2?
 
 6 (19). Ahura Mazda answered: ‘There is no sin upon a man for any dead matter that has been brought by dogs, by birds, by wolves, by winds, or by flies.
 
 7 (20). 'For were there sin upon a man for any dead matter that might have been brought by dogs, by birds, by wolves, by winds, or by flies, how soon this material world of mine would have in it only Peshôtanus, shut out from the way of, holiness, whose souls will cry and wail! so numberless are the beings that die upon the face of the earth.'
 
-II a.
+
+## 2a
+
 8 (23). O Maker of the material world, thou Holy One! Does water kill 3?
 
 Ahura Mazda answered: 'Water kills no man: Astô-vîdhôtu 1 ties the noose around his neck, and, thus tied, Vaya 2 carries him off: then the flood takes him up 3, the flood takes him down 4, the flood throws him ashore; then birds feed upon him, and chance brings him here, or brings him there 5.'
 
-II b.
+
+## 2b
+
 9 (29). O Maker of the material world, thou Holy One! Does fire kill?
 
 Ahura Mazda answered: 'Fire kills no man: Astô-vîdhôtu ties the noose around his neck, and, thus tied, Vaya carries him off. The fire burns up life and limb, and then chance brings him here, or brings him there 6.'
@@ -58,7 +72,7 @@ Ahura Mazda answered: 'Fire kills no man: Astô-vîdhôtu ties the noose around 
 
 Ahura Mazda answered: 'In every house? in every borough 1, they shall raise three small houses for the dead 2.'
 
-11 (37). O Maker of the material world, thou Holy One! How large shall be those houses for the dead?
+<sup>11</sup> (37). O Maker of the material world, thou Holy One! How large shall be those houses for the dead?
 
 Ahura Mazda answered: ‘Large enough not to strike the skull, or the feet, or the hands of the man, if he 3 should stand erect, and hold out his feet, and stretch out his hands: such shall be, according to the law, the houses for the dead.
 
@@ -68,7 +82,9 @@ Ahura Mazda answered: ‘Large enough not to strike the skull, or the feet, or t
 
 14 (46). 'If the worshippers of Mazda have not, within a year, laid down the dead (on the Dakhma), his eyes towards the sun, thou shalt prescribe for that trespass the same penalty as for the murder of one of the faithful. And there shall it lie until the corpse has been rained on, until the Dakhma has been rained on, until the unclean remains have been rained on, until the birds have eaten up the corpse.'
 
-IV.
+
+## 4
+
 15 (49). O Maker of the material world, thou Holy One! Is it true that thou, Ahura Mazda, sendest the waters from the sea Vouru-kasha 1 down with the wind and with the clouds?
 
 16 (51). That thou, Ahura Mazda, makest them flow down to the corpses 2? that thou, Ahura Mazda, makest them flow down to the Dakhmas? that thou, Ahura Mazda, makest them flow down to the unclean remains? that thou, Ahura Mazda, makest them flow down to the bones? and that then thou, Ahura Mazda, makest them flow back unseen? that thou, Ahura Mazda, makest them flow back to the sea Pûitika 3?
@@ -82,7 +98,8 @@ IV.
 20(60). 'Those plants, I, Ahura Mazda, rain down upon the earth 2, to bring food to the faithful, and fodder to the beneficent cow; to bring food to my people that they may live on it, and fodder to the beneficent cow.'
 
 
-V
+## 5
+
 21 (63). 'This 1 is the best of all things, this is the fairest of all things, even as thou hast said, O righteous Zarathustra!'
 
 With these words the holy Ahura Mazda rejoiced the holy Zarathustra 2: 'Purity is for man, next to life, the greatest good 3, that purity that is procured by the law of Mazda to him who cleanses his own self with good thoughts, words, and deeds 4.'
@@ -99,7 +116,9 @@ With these words the holy Ahura Mazda rejoiced the holy Zarathustra 2: 'Purity i
 
 'Therefore, when the Ratu has been applied to 1 when the Sraoshâ-varez has been applied to 2; whether for a draona-service 3 that has been undertaken 4, or for one that has not been undertaken 5; whether for a draona that has been offered up, or for one that has not been offered up; whether for a draona that has been shared, or for one that has not been shared 6; the Ratu has power to remit him 1/3 of the penalty he had to pay 1: if he has committed any other evil deed, it is remitted by his repentance; if he has committed, no other evil deed, he is absolved by his repentance for ever and ever 2.'
 
-VI.
+
+## 6
+
 27 (82). O Maker of the material world, thou Holy One! If there be a number of men resting in the same place, on adjoining carpets, on adjoining pillows, be there two men near one another, or five, or fifty, or a hundred, close by one another; and of those people one happens to die; how many of them does the Drug Nasu envelope with infection, pollution, and uncleanness 3?
 
 28 (86). Ahura Mazda answered: ‘If the dead one be a priest, the Drug-Nasu rushes forth 4, O Spitama Zarathustra! she falls on the eleventh and defiles the ten 5.
@@ -136,7 +155,10 @@ VI.
 
 38 (120). 'Whilst alive, indeed, O Spitama Zarathustra! that wicked, two-legged ruffian, that ungodly Ashemaogha, never ceases depriving the faithful man of his food, of his clothing, of his house, of his bed, of his vessels 5; not so will he do when dead.'
 
-VII.
+
+
+## 7
+
 39 (122). O Maker of the material world, thou Holy One! When into our houses here below we have brought the fire, the baresma, the cups, the Haoma, and the mortar 6, O holy Ahura Mazda! if it come to pass that either a dog or a man dies there, what shall the worshippers of Mazda do?
 
 40 (125). Ahura Mazda answered: 'Out of the house, O Spitama Zarathustra! shall they take the fire, the baresma, the cups, the Haoma, and the mortar; they shall take the dead one out to the proper place 7 whereto, according to the law, corpses must be brought, to be devoured there.'
@@ -149,7 +171,9 @@ VII.
 
 44 (134). Ahura Mazda answered: 'They shall be Peshôtanus: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana.'
 
-VIII.
+
+## 8
+
 45 (135) 1. O Maker of the material world, thou Holy One! If in the house of a worshipper of Mazda there be a woman with child, and if being a month gone, or two, or three, or four, or five, or six, or seven, or eight, or nine, or ten months gone, she bring forth a still-born child, what shall the worshippers of Mazda do?
 
 40 (139). Ahura Mazda answered: 'The place in that Mazdean house whereof the ground is the cleanest and the driest, and the least passed through by flocks and herds, by Fire, the son of Ahura Mazda, by the consecrated bundles of baresma, and by the faithful;'--

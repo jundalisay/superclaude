@@ -3,11 +3,15 @@ heading: Chapter 19
 title: "Angra Mainyu attempts to kill Zarathustra"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 57
 ---
 
 
-I (1-11). Angra Mainyu attempts to kill Zarathustra, and, when he fails, tempts him. Zarathustra withstands both assaults with weapons both material and spiritual.
+<!-- I (1-11). Angra Mainyu attempts to kill Zarathustra, and, when he fails, tempts him. Zarathustra withstands both assaults with weapons both material and spiritual.
 
 II (I1-43). Zarathustra applies to Ahura Mazda for a revelation of the law. He is taught how the fiend may be repelled, how the creation of Mazda is to be worshipped, how uncleanness is to be washed away, and what becomes of the soul after death.
 
@@ -15,13 +19,16 @@ III (43-47). Angra Mainyu and his host, driven to despair, and feeling themselve
 
 This chapter may be entitled 'The Revelation,' and considered as the frame-work of the Vendîdâd, the remainder of which should have its place between the first and the third part; as the first part shows the fiend's struggles to prevent the revelation, and the third shows the effects of it; the second being, as it were, an abstract of the law, an abridged Vendîdâd.
 
-The text and the Pahlavi commentary of this Fargard are translated in Haug's Essays, p. 253 seq., p. 333 seq., and p. 379 seq.
+The text and the Pahlavi commentary of this Fargard are translated in Haug's Essays, p. 253 seq., p. 333 seq., and p. 379 seq. -->
 
-I.
 
-1. From the region of the north, from the regions of the north 1, forth rushed Angra Mainyu, the deadly, the Daêva of the Daêvas 2. And thus spake the guileful one, he the evil-doer Angra Mainyu, the deadly: 'Drug, rush down upon him! destroy the holy Zarathustra!' The Drug came rushing along, the demon Bûiti 3, the unseen death, the hell-born.
+## 1
 
-2 (5). Zarathustra chanted aloud the Ahuna-Vairya 4: 'The will of the Lord is the law of holiness; the riches of Vohu-manô shall be given to him who works in this world for Mazda, and wields according to the will of Ahura the power he gave to him to relieve the poor.'
+<sup>1</sup> From the region of the north, from the regions of the north 1, forth rushed Angra Mainyu, the deadly, the Daêva of the Daêvas.
+
+Thus spake the guileful one, he the evil-doer Angra Mainyu, the deadly: 'Drug, rush down upon him! destroy the holy Zarathustra!' The Drug came rushing along, the demon Bûiti 3, the unseen death, the hell-born.
+
+<sup>2</sup> (5). Zarathustra chanted aloud the Ahuna-Vairya 4: 'The will of the Lord is the law of holiness; the riches of Vohu-manô shall be given to him who works in this world for Mazda, and wields according to the will of Ahura the power he gave to him to relieve the poor.'
 
 (He added): ‘Offer up prayers to the good waters of the good Dâitya 5!
 
@@ -29,18 +36,17 @@ I.
 
 The Drug dismayed, rushed away, the demon Bûiti, the unseen death, the hell-born.
 
-
-3 (7). And the Drug, the guileful one, said unto Angra Mainyu: 'O baneful Angra Mainyu! I see no way to kill him, so great is the glory of the holy Zarathustra.'
+<sup>3</sup> (7). And the Drug, the guileful one, said unto Angra Mainyu: 'O baneful Angra Mainyu! I see no way to kill him, so great is the glory of the holy Zarathustra.'
 
 Zarathustra saw (all this) from within his soul: 'The evil-doing Daêvas and Drvants 1 (thought he) take counsel together for my death.'
 
-4 (11). Up started Zarathustra, forward went Zarathustra, unshaken by the evil spirit, by the hardness of his malignant riddles 2, swinging stones in his hand, stones as big as a house 3, which he obtained from the Maker, Ahura Mazda, he the holy Zarathustra.
+<sup>4</sup> (11). Up started Zarathustra, forward went Zarathustra, unshaken by the evil spirit, by the hardness of his malignant riddles 2, swinging stones in his hand, stones as big as a house 3, which he obtained from the Maker, Ahura Mazda, he the holy Zarathustra.
 
 'At what on this wide, round earth, whose ends lie afar, at what dost thou swing (those stones), thou who standest by the river Darega 4, upon the mountains, in the mansion of Pourusaspa 5?'
 
-5 (16). Thus Zarathustra answered Angra Mainyu: 'O evil-doer, Angra Mainyu! I will smite the creation of the Daêva; I will smite the Nasu, a creature of the Daêva; I will smite the Pairika Knãthaiti 6, till the fiend-smiter Saoshyant come up to life out of the lake Kãsava, from the region of the dawn, from the regions of the dawn 1.'
+<sup>5</sup> (16). Thus Zarathustra answered Angra Mainyu: 'O evil-doer, Angra Mainyu! I will smite the creation of the Daêva; I will smite the Nasu, a creature of the Daêva; I will smite the Pairika Knãthaiti 6, till the fiend-smiter Saoshyant come up to life out of the lake Kãsava, from the region of the dawn, from the regions of the dawn 1.'
 
-6 (20). Again to him said the guileful one, the Maker of the evil world, Angra Mainyu: 'Do not destroy my creatures, O holy Zarathustra! Thou art the son of Pourusaspa 2, just born of thy mother 3. Renounce the good law of the worshippers of Mazda, and thou shalt gain such a boon as the murderer 4 gained, the ruler of the nations.'
+<sup>6</sup> (20). Again to him said the guileful one, the Maker of the evil world, Angra Mainyu: 'Do not destroy my creatures, O holy Zarathustra! Thou art the son of Pourusaspa 2, just born of thy mother 3. Renounce the good law of the worshippers of Mazda, and thou shalt gain such a boon as the murderer 4 gained, the ruler of the nations.'
 
 7 (24). Thus in answer to him said Spitama Zarathustra: 'No! never will I renounce the good law of the worshippers of Mazda, though my body, my life, my soul should burst!'
 
@@ -51,13 +57,13 @@ Zarathustra saw (all this) from within his soul: 'The evil-doing Daêvas and Drv
 10 (35). Zarathustra chanted aloud the Ahuna-Vairya. The holy Zarathustra said aloud 'This I ask thee: teach me the truth, O Lord 1! . . .'
 
 
-II.
+## 2
 
-11 (37). Zarathustra asked Ahura Mazda: ‘O Ahura Mazda, most beneficent spirit, Maker of the material world, thou Holy One! [he was sitting by the Darega, on the mountain 2, praying to Ahura Mazda, to the good Vohu-manô, to Asha Vahista, Khshathra Vairya, and Spenta. Ârmaiti;]
+<sup>11</sup> (37). Zarathustra asked Ahura Mazda: ‘O Ahura Mazda, most beneficent spirit, Maker of the material world, thou Holy One! [he was sitting by the Darega, on the mountain 2, praying to Ahura Mazda, to the good Vohu-manô, to Asha Vahista, Khshathra Vairya, and Spenta. Ârmaiti;]
 
-12 (39). 'How shall I make the world free from that Drug, from the evil-doer Angra Mainyu? How shall I drive away direct defilement? How indirect defilement? How shall I drive the Nasu from the house of the worshippers of Mazda? How shall I cleanse the faithful man? How shall I cleanse the faithful woman?'
+<sup>12</sup> (39). 'How shall I make the world free from that Drug, from the evil-doer Angra Mainyu? How shall I drive away direct defilement? How indirect defilement? How shall I drive the Nasu from the house of the worshippers of Mazda? How shall I cleanse the faithful man? How shall I cleanse the faithful woman?'
 
-13 (42). Ahura Mazda answered. ‘Invoke, O Zarathustra! the good law of Mazda.
+<sup>13</sup> (42). Ahura Mazda answered. ‘Invoke, O Zarathustra! the good law of Mazda.
 
 ‘Invoke, O Zarathustra! the Amesha Spentas who rule over the seven Karshvares of the earth 3.
 
@@ -65,8 +71,7 @@ II.
 
 ‘Invoke, O Zarathustra! the powerful Wind, made by Mazda, and Spenta Ârmaiti 1, the fair daughter of Ahura Mazda.
 
-
-14 (46). ‘Invoke, O Zarathustra! my Fravashi 2, who am Ahura Mazda, the greatest, the best, the fairest of all beings, the most solid 3, the most intelligent, the best shapen, the highest in holiness, and whose soul is the holy Word 4!
+<sup>14</sup> (46). ‘Invoke, O Zarathustra! my Fravashi 2, who am Ahura Mazda, the greatest, the best, the fairest of all beings, the most solid 3, the most intelligent, the best shapen, the highest in holiness, and whose soul is the holy Word 4!
 
 'Invoke, O Zarathustra! this creation of mine, who am Ahura Mazda.'
 

@@ -3,6 +3,10 @@ heading: Chapter 12
 title: "House Rules"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 39
 ---
 
@@ -12,11 +16,11 @@ The directions in the preceding chapter are general, and do not depend on the re
 
 On the other hand, the house is unclean too, at least with regard to the relatives; for the time of 'staying' is followed by a purification of the house, that is not to be confounded with that described in the eighth Fargard, which takes place directly after the death and, as it appears, opens the house again only to those who were not connected with the dead man. Even nowadays, in Persia, the house where a relative has died is unlucky, and is looked upon with even more repugnance than is shown in the Avesta. The son deserts the house where his father has died; he could not live and walk in it, 'the unlucky step,' the bad qadîm is in it; 'every man's house must die with him;' therefore, he lets it fall into ruin, and builds another house farther off 1; a custom to which there seems to be some allusion in the Pahlavi Commentary (ad I, 9). -->
 
-1. If one's father or mother dies, how long shall they stay 2, the son for the father, the daughter for her mother? How long for the righteous? How long for the sinners 3?
+<sup>1</sup> If one's father or mother dies, how long shall they stay 2, the son for the father, the daughter for her mother? How long for the righteous? How long for the sinners 3?
 
 Ahura Mazda answered: 'They shall stay thirty days for the righteous, sixty days for the sinners.'
 
-2 (5). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+2 (5). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter 4, O Spitama Zarathustra!'
 
@@ -24,7 +28,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay thirty days for the righteous, sixty days for the sinners.'
 
-4 (13). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+4 (13). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -32,7 +36,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay thirty days for the righteous, sixty days for the sinners.'
 
-6 (21). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+6 (21). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -40,7 +44,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They 2 shall stay six months for the righteous, a year for the sinners.'
 
-8 (28). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+8 (28). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -48,7 +52,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay twenty-five days for the righteous, fifty days for the sinners.'
 
-10 (34). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+10 (34). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies 3 times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -56,7 +60,7 @@ Ahura Mazda answered: 'They shall wash their bodies 3 times, they shall wash the
 
 Ahura Mazda answered: 'They shall stay twenty-five days for the righteous, fifty days for the sinners.'
 
-12 (40). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+12 (40). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters-may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -64,7 +68,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay twenty days for the righteous, forty days for the sinners.'
 
-14 (45). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+14 (45). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -72,7 +76,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay fifteen days for the righteous, thirty days for the sinners.'
 
-16 (50). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+16 (50). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -80,7 +84,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay ten days for the righteous, twenty days for the sinners.'
 
-18 (55). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+18 (55). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall, offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 
@@ -88,7 +92,7 @@ Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash
 
 Ahura Mazda answered: 'They shall stay five days for the righteous, ten days for the sinners.'
 
-20 (60). O Maker of the material world, thou Holy One! How shall I cleanse the house? How shall it be clean again?
+20 (60). O Holy One! How shall I cleanse the house? How shall it be clean again?
 
 Ahura Mazda answered: 'They shall wash their bodies three times, they shall wash their clothes three times, they shall chant the Gâthas three times; they shall offer up a sacrifice to my Fire, they shall offer up the bundles of baresma, they shall bring libations to the good waters; then the house shall be clean, and then the waters may enter, then the fire may enter, and then the Amesha-Spentas may enter, O Spitama Zarathustra!'
 

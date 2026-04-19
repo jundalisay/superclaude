@@ -3,6 +3,10 @@ heading: Chapter 16
 title: "The uncleanness of women during their sickness"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 48
 ---
 
@@ -13,11 +17,17 @@ II (11-12). How it can be removed.
 
 III (13-18). Sundry laws relating to the same matter. See Introd. V, 12. -->
 
-I.
 
-1. O Maker of the material world, thou Holy One! If there be in the house of a worshipper of Mazda a woman who has an issue of blood, either out of the ordinary course or at the usual period, what shall the worshippers of Mazda do?
+## 1
 
-2 (3). Ahura Mazda answered: 'They shall clear the way 1 of the wood there, both in growing trees and in logs 2; they shall strew dry dust on the ground 3; and they shall erect a building there 4, higher than the house by a half, or a third, or a fourth, or a fifth part, lest her look should fall upon the fire 5.'
+{{< r a="Zoroaster" >}}
+<sup>1</sup> O Maker of the material world, thou Holy One! If there be in the house of a worshipper of Mazda a woman who has an issue of blood, either out of the ordinary course or at the usual period, what shall the worshippers of Mazda do?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+2 (3). They shall clear the way 1 of the wood there, both in growing trees and in logs 2; they shall strew dry dust on the ground 3; and they shall erect a building there 4, higher than the house by a half, or a third, or a fourth, or a fifth part, lest her look should fall upon the fire 5.
+{{< /l >}}
+
 
 3 (9). O Maker of the material world, thou Holy One! How far from the fire? How far from the water? How far from the consecrated bundles of baresma? How far from the faithful?
 
@@ -51,7 +61,9 @@ In what kind of vessels shall he bring the food? In what kind of vessels shall h
 
 11. 'If she still see blood after nine nights have passed, this is a work of the Daêvas which they have performed for the worship and glorification of the Daêvas 1.'
 
-II.
+
+
+## 2
 
 ‘The worshippers of Mazda shall clear the way 2 of the wood there, both in growing trees and in logs;
 
@@ -60,7 +72,7 @@ II.
 'They shall kill Khrafstras, to wit: two hundred corn-carrying ants, if it be summer; two hundred of any other sort of the Khrafstras made by Angra Mainyu, if it be winter 1.'
 
 
-III.
+## 3
 
 13 (30). If a worshipper of Mazda shall suppress the issue of a woman who has an issue of blood, either out of the ordinary course or at the usual period, what is the penalty that he shall pay?
 

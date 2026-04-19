@@ -3,10 +3,12 @@ heading: Chapter 17
 title: "The uncleanness of women during their sickness"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 51
 ---
-
-
 
 
 <!-- Hair and Nails.
@@ -17,9 +19,11 @@ This chapter, which has given full scope to the ironical humour of many, is an i
 
 Not only in Bombay, but all over the world, people are found who believe that hair and nails are weapons in the hands of the evil one. The Esthonians, on the shores of the Baltic, take the utmost care not to drop the parings of their nails on the ground, lest the devil should pick them up, to make a visor to his cap, which will give him full power to injure men, unless the sign of the cross has been made over them 1. The Gauchos in the Chilian pampas fear to throw their hair to the winds, but deposit it in holes dug in a wall 2. In Liége good people are advised not to throw away their hair, nor to leave it in the teeth of the comb, lest a witch take hold of it and cast a spell over them 3. -->
 
-I.
 
-1. Zarathustra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! Which is the most deadly deed whereby a man increases most the baleful strength of the Daêvas, as he would do by offering them a sacrifice?'
+
+## 1
+
+<sup>1</sup> Zarathustra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! Which is the most deadly deed whereby a man increases most the baleful strength of the Daêvas, as he would do by offering them a sacrifice?'
 
 2 (3). Ahura Mazda answered: ‘It is when a man here below combing his hair or shaving it off, or paring off his nails drops them 4 in a hole or in a crack 5.
 
@@ -31,7 +35,9 @@ I.
 
 6 (17). ‘Thereupon thou shalt draw three furrows with a knife of metal around the hole, or six furrows or nine, and thou shall chant the Ahuna-Vairya three times, or six, or nine.
 
-II.
+
+## 2
+
 7 (19). ‘For the nails, thou shalt dig a hole, out of the house, as deep as the top joint of the little finger; thou shalt take the nails down there and thou shalt say aloud these fiend-smiting words: "The words that are heard from the pious in holiness and good thought 1."
 
 8 (24). ‘Then thou shalt draw three furrows with a knife of metal around the hole, or six furrows or nine, and thou shalt chant the Ahuna-Vairya three times, or six, or nine.

@@ -3,6 +3,10 @@ heading: Chapter 19
 title: "Thrita, the First Healer"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 59
 ---
 
@@ -18,43 +22,29 @@ On the other hand, we see that Thraêtaona fulfilled the same functions as Thrit
 We see from this passage that disease was understood as coming from the serpent; in other words, that it was considered a sort of poisoning 6, and this is the reason why the killer of the serpent was invoked to act against it. Thus Thrita-Thraêtaona had a double right to the title of the first of the healers, both as a priest of Haoma and as the conqueror of the serpent 1.
 
 
-1. Zarathustra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! Who was he who first of the healthful 2, the wise, the happy, the wealthy, the glorious, the strong men of yore 3, drove back sickness to sickness, drove back death to death 4, and first turned away the point of the poniard and the fire of fever from the bodies of mortals.'
+<sup>1</sup> Zarathustra asked Ahura Mazda: 
 
-2 (11). Ahura Mazda answered: ‘Thrita it was who first of the healthful, the wise, the happy, the wealthy, the glorious, the strong man of yore, drove back sickness to sickness, drove back death to death, and first turned away the point of the poniard and the fire of fever from the bodies of mortals.
+'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! Who was he who first of the healthful 2, the wise, the happy, the wealthy, the glorious, the strong men of yore 3, drove back sickness to sickness, drove back death to death 4, and first turned away the point of the poniard and the fire of fever from the bodies of mortals.'
 
-3 (12). ‘He asked for a source of remedies 5; 
-
-he obtained it from Khshathra-Vairya 6, to withstand sickness and to withstand death, to withstand pain and fever, to withstand the disease 7, rottenness and
+<sup>2</sup> (11). Ahura Mazda answered: ‘Thrita it was who first of the healthful, the wise, the happy, the wealthy, the glorious, the strong man of yore, drove back sickness to sickness, drove back death to death, and first turned away the point of the poniard and the fire of fever from the bodies of mortals.
 
 
+<sup>3</sup> (12). ‘He asked for a source of remedies 5; 
+
+he obtained it from Khshathra-Vairya 6, to withstand sickness and to withstand death, to withstand pain and fever, to withstand the disease 7, rottenness and infection which Angra Mainyu had created witchcraft against the bodies of mortals 1.
+
+<sup>4</sup> (15). ‘And I Ahura Mazda brought down the healing plants that, by many hundreds, by many thousands, by many myriads, grow up all around the one Gaokerena 2.
+
+<sup>5</sup> (18). ‘All this (health) do we call by our blessing-spells, by our prayers, by our praises, upon the bodies of mortals.
+
+<sup>7</sup> (19) 4. ‘To thee, O Sickness, I say avaunt! to thee, O Death, I say avaunt! to thee, O Pain, I say avaunt! to thee, O Fever, I say avaunt! to thee, O Disease, I say avaunt 5!
 
 
+<sup>8</sup> (21). ‘By their might may we smite down the Drug! By their might may we smite the Drug! May they give to us strength and power, O Ahura 1!
 
+<sup>9</sup> (23). ‘I drive away sickness, I drive away death, I drive away pain and fever 3, I drive away the disease, rottenness, and infection which Angra Mainyu has created by his witchcraft against the bodies of mortals.
 
-
-
-p. 221
-
-infection which Angra Mainyu had created witchcraft against the bodies of mortals 1.
-
-4 (15). ‘And I Ahura Mazda brought down the healing plants that, by many hundreds, by many thousands, by many myriads, grow up all around the one Gaokerena 2.
-
-5 (18). ‘All this (health) do we call by our blessing-spells, by our prayers, by our praises, upon the bodies of mortals 3.
-
-7 (19) 4. ‘To thee, O Sickness, I say avaunt! to thee, O Death, I say avaunt! to thee, O Pain, I say avaunt! to thee, O Fever, I say avaunt! to thee, O Disease, I say avaunt 5!
-
-
-
-
-
-
-p. 222
-
-8 (21). ‘By their might may we smite down the Drug! By their might may we smite the Drug! May they give to us strength and power, O Ahura 1!
-
-9 2 (23). ‘I drive away sickness, I drive away death, I drive away pain and fever 3, I drive away the disease, rottenness, and infection which Angra Mainyu has created by his witchcraft against the bodies of mortals.
-
-10 (25). ‘I drive away all manner of diseases and deaths, all the Yâtus and Pairikas 4, and all the wicked Gainis 5.
+<sup>10</sup> (25). ‘I drive away all manner of diseases and deaths, all the Yâtus and Pairikas 4, and all the wicked Gainis 5.
 
 11 (26). ‘May the much-desired Airyaman 6; come here, for the men and women of Zarathustra to rejoice, for the faithful to rejoice; with the desirable reward that is won by means of the law, and with that boon for holiness that is vouchsafed by Ahura!
 

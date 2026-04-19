@@ -1,13 +1,17 @@
 ---
 heading: Chapter 6
-title: "Contracts and Outrages"
+title: "Policies for the Dead" 
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 19
 ---
 
 
-FARGARD VI
+<!-- FARGARD VI
 
 I (1-9). How long the earth remains unclean, when defiled by the dead.
 
@@ -17,9 +21,11 @@ III (26-41). Purification of the different sorts of water, when defiled by the d
 
 IV (42-43). Purification of the Haoma.
 
-V (44-51). The place for corpses; the Dakhmas.
+V (44-51). The place for corpses; the Dakhmas. -->
 
-I.
+
+## 1
+
 1. How long shall the ground lie fallow whereon dogs or men have died?
 
 Ahura Mazda answered: ‘A year long shall the ground lie fallow whereon dogs or men have died, O holy Zarathustra!
@@ -40,7 +46,9 @@ Ahura Mazda answered: ‘A year long shall the ground lie fallow whereon dogs or
 
 9 (15). Ahura Mazda answered: 'They are Peshôtanus: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana.'
 
-II.
+
+## 2
+
 10. (16). O Maker of the material world, thou Holy One! If a man shall throw on the ground a bone of a dead dog, or of a dead man, as large as the top joint of the little finger, and if grease or marrow flow from it on to the ground, what penalty shall he pay?
 
 11 (18). Ahura Mazda answered: 'Thirty stripes with the Aspahê-astra, thirty stripes with the Sraoshô-karana.'
@@ -61,7 +69,7 @@ II.
 
 19 (39). Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana.'
 
-20 (40). O Maker of the material world, thou Holy One! If a man shall throw on the ground a bone of a dead dog, or of a dead man, as large as an arm-bone or as a thigh-bone, and if grease or marrow flow from it on to the ground, what penalty shall he pay?
+20 (40). O Maker of the material world! If a man shall throw on the ground a bone of a dead dog, or of a dead man, as large as an arm-bone or as a thigh-bone, and if grease or marrow flow from it on to the ground, what penalty shall he pay?
 
 21 (44). Ahura Mazda answered: 'Four hundred stripes with the Aspahê-astra, four hundred stripes with the Sraoshô-karana.'
 

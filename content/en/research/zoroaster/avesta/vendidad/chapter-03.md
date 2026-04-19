@@ -1,13 +1,18 @@
 ---
 heading: Chapter 3
-title: "Fargard"
+title: "The Happiest"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 9
 ---
 
 
-I.
+
+## 1
 
 {{< r a="Zoroaster" >}}
 <sup>1</sup> O Maker of the material world, Holy One! Which is the first place where the Earth feels most happy?
@@ -23,130 +28,142 @@ It is the place whereon one of the faithful steps forward! with the holy wood in
 {{< /r >}}
 
 
-Ahura Mazda answered: 'It is the place whereon one of the faithful erects a house with a priest within, with cattle, with a wife, with children, and good herds within; and wherein afterwards the cattle go on thriving, holiness is thriving 3, fodder is thriving, the dog is thriving, the wife is thriving, the child is thriving, the fire is thriving, and every blessing of life is thriving.'
+{{< l a="Ahura Mazda" >}}
+It is the place whereon one of the faithful erects a house with a priest within, with cattle, with a wife, with children, and good herds within.
+
+Wherein afterwards the cattle go on thriving, holiness is thriving 3, fodder is thriving, the dog is thriving, the wife is thriving, the child is thriving, the fire is thriving, and every blessing of life is thriving.
+{{< /l >}}
+
 
 {{< r a="Zoroaster" >}}
-4 (11). Which is the third place where the Earth feels most happy?
+<sup>4</sup> (11). Which is the third place where the Earth feels most happy?
 {{< /r >}}
 
 
-Ahura Mazda answered: 'It is the place where one of the faithful cultivates most corn, grass, and fruit, O Spitama Zarathustra! where he waters ground that is dry, or dries ground that is too wet.'
+{{< l a="Ahura Mazda" >}}
+It is the place where one of the faithful cultivates most corn, grass, and fruit, O Spitama Zarathustra! where he waters ground that is dry, or dries ground that is too wet.
+{{< /l >}}
+
 
 {{< r a="Zoroaster" >}}
 5 (15). Which is the fourth place where the Earth feels most happy?
 {{< /r >}}
 
 
-Ahura Mazda answered: 'It is the place where there is most increase of flocks and herds.'
+{{< l a="Ahura Mazda" >}}
+It is the place where there is most increase of flocks and herds.
+{{< /l >}}
+
 
 {{< r a="Zoroaster" >}}
 6 (18). Which is the fifth place where the Earth feels most happy?
 {{< /r >}}
 
-Ahura Mazda answered: 'It is the place where flocks and herds yield most dung.'
+{{< l a="Ahura Mazda" >}}
+It is the place where flocks and herds yield most dung.
+{{< /l >}}
 
-II.
+
+
+## 2
 
 {{< r a="Zoroaster" >}}
 7 (21). Which is the first place where the Earth feels sorest grief?
 {{< /r >}}
 
 
-Ahura Mazda answered: 'It is the neck of Arezûra 1, whereon the hosts of fiends rush forth from the burrow of the Drug 2.'
-
-8 (25). O Maker of the material world, thou Holy One! Which is the second place where the Earth feels sorest grief?
-
-Ahura Mazda answered: 'It is the place wherein most corpses of dogs and of men lie buried 3.'
-
-9 (28). O Maker of the material world, thou Holy One! Which is the third place where the Earth feels sorest grief?
-
-Ahura Mazda answered: 'It is the place whereon stand most of those Dakhmas on which corpses of men are deposited 4.'
-
-10. (31). O Maker of the material world, thou
+{{< l a="Ahura Mazda" >}}
+It is the neck of Arezûra 1, whereon the hosts of fiends rush forth from the burrow of the Drug.
+{{< /l >}}
 
 
+8 (25). O Holy One! Which is the second place where the Earth feels sorest grief?
+
+{{< l a="Ahura Mazda" >}}
+It is the place wherein most corpses of dogs and of men lie buried.
+{{< /l >}}
 
 
+9 (28). O Holy One! Which is the third place where the Earth feels sorest grief?
 
-p. 25
+{{< l a="Ahura Mazda" >}}
+It is the place whereon stand most of those Dakhmas on which corpses of men are deposited.
+{{< /l >}}
 
-[paragraph continues]Holy One! Which is the fourth place where the Earth feels sorest grief?
+10. (31). O Holy One! Which is the fourth place where the Earth feels sorest grief?
 
-Ahura Mazda answered: 'It is the place wherein are most burrows of the creatures of Angra Mainyu 1.'
+{{< l a="Ahura Mazda" >}}
+It is the place wherein are most burrows of the creatures of Angra Mainyu.
+{{< /l >}}
 
-11 (34). O Maker of the material world, thou Holy One! Which is the fifth place where the Earth feels sorest grief?
+11 (34). O Holy One! Which is the fifth place where the Earth feels sorest grief?
 
-Ahura Mazda answered: 'It is the place whereon the wife and children of one of the faithful 2, O Spitama Zarathustra! are driven along the way of captivity, the dry, the dusty way, and lift up a voice of wailing.'
-
-III.
-12 (38). O Maker of the material world, thou Holy One! Who is the first that rejoices the Earth with greatest joy?
-
-Ahura Mazda answered: 'It is he who digs out of it most corpses of dogs and men 3.'
-
-13 (41). O Maker of the material world, thou
-
-
+{{< l a="Ahura Mazda" >}}
+It is the place whereon the wife and children of one of the faithful 2, O Spitama Zarathustra! are driven along the way of captivity, the dry, the dusty way, and lift up a voice of wailing.
+{{< /l >}}
 
 
-p. 26
+## 3
 
-[paragraph continues]Holy One! Who is the second that rejoices the Earth with greatest joy?
+12 (38). O Holy One! Who is the first that rejoices the Earth with greatest joy?
 
-Ahura Mazda answered: 'It is he who pulls down most of those Dakhmas on which corpses of men are deposited.'
+{{< l a="Ahura Mazda" >}}
+It is he who digs out of it most corpses of dogs and men.
+{{< /l >}}
 
-__________________________
+
+13 (41). O Holy One! Who is the second that rejoices the Earth with greatest joy?
+
+{{< l a="Ahura Mazda" >}}
+It is he who pulls down most of those Dakhmas on which corpses of men are deposited.
+{{< /l >}}
+
 
 14 (44). Let no man alone by himself carry a corpse 1. If a man alone by himself carry a corpse, the Nasu 2 rushes upon him, to defile him, from the nose of the dead, from the eye, from the tongue, from the jaws, from the sexual organ, from the hinder parts. This Drug, this Nasu, falls upon him, stains him even to the end of the nails, and he is unclean, thenceforth, for ever and ever.
 
-15 (49). O Maker of the material world, thou Holy One! What shall be the place of that man who has carried a corpse alone 3?
+15 (49). O Holy One! What shall be the place of that man who has carried a corpse alone 3?
 
-Ahura Mazda answered: 'It shall be the place on this earth wherein is least water and fewest plants, whereof the ground is the cleanest and the driest and the least passed through by flocks and herds, by Fire, the son of Ahura Mazda, by the consecrated bundles of baresma, and by the faithful.'
-
-
-
-
-p. 27
-
-6 (55). O Maker of the material world, thou Holy One! How far from the fire? How far from the water? How far from the consecrated bundles of baresma? How far from the faithful?
-
-17 (5 7). Ahura Mazda answered: ‘Thirty paces from the fire, thirty paces from the water, thirty paces from the consecrated bundles of baresma, three paces from the faithful.
-
-18, 19 (58-63). ‘There, on that place, shall the Worshippers of Mazda erect an enclosure 1, and therein shall they establish him with food, therein shall they establish him with clothes, with the coarsest food and with the most worn-out clothes. That food he shall live on, those clothes he shall wear, and thus shall they let him live, until he has grown to the age of a Hana, or of a Zaurura, or of a Pairista-khshudra 2.
-
-20, 21 (64-71). 'And when he has grown to the age of a Hana, or of a Zaurura, or of a Pairista-khshudra, then the worshippers of Mazda shall order a man strong, vigorous, and skilful 3, to flay the skin off his body and cut the head off his neck 4, on the top of the mountain: and they shall deliver his corpse unto the greediest of the corpse-eating creatures made by Ahura Mazda, to the greedy ravens, with these words: "The man here has repented of all his evil thoughts, words, and deeds.
+{{< l a="Ahura Mazda" >}}
+It shall be the place on this earth wherein is least water and fewest plants, whereof the ground is the cleanest and the driest and the least passed through by flocks and herds, by Fire, the son of Ahura Mazda, by the consecrated bundles of baresma, and by the faithful.
+{{< /l >}}
 
 
+16 (55). O Holy One! How far from the fire? How far from the water? How far from the consecrated bundles of baresma? How far from the faithful?
 
 
+{{< l a="Ahura Mazda" >}}
+17 (5 7) 30 paces from the fire, 30 paces from the water, 30 paces from the consecrated bundles of baresma, three paces from the faithful.
 
-p. 28
+18, 19 (58-63). ‘There, on that place, shall the Worshippers of Mazda erect an enclosure 1, and therein shall they establish him with food, therein shall they establish him with clothes, with the coarsest food and with the most worn-out clothes. That food he shall live on, those clothes he shall wear, and thus shall they let him live, until he has grown to the age of a Hana, or of a Zaurura, or of a Pairista-khshudra
 
-[paragraph continues]If he has committed any other evil deed, it is remitted by his repentance 1: if he has committed no other evil deed, he is absolved by his repentance, for ever and ever 2."'
+20, 21 (64-71). When he has grown to the age of a Hana, or of a Zaurura, or of a Pairista-khshudra, then the worshippers of Mazda shall order a man strong, vigorous, and skilful 3, to flay the skin off his body and cut the head off his neck 4, on the top of the mountain: and they shall deliver his corpse unto the greediest of the corpse-eating creatures made by Ahura Mazda, to the greedy ravens, with these words: "The man here has repented of all his evil thoughts, words, and deeds.
 
-22 (72). O Maker of the material world, thou Holy One! Who is the third that rejoices the Earth with greatest joy?
+If he has committed any other evil deed, it is remitted by his repentance 1: if he has committed no other evil deed, he is absolved by his repentance, for ever and ever 2.
+{{< /l >}}
 
-Ahura Mazda answered: 'It is he who fills up most burrows of the creatures of Angra Mainyu.'
 
-23 (75). O Maker of the material world, thou Holy One! Who is the fourth that rejoices the Earth with greatest joy?
+22 (72). O Holy One! Who is the third that rejoices the Earth with greatest joy?
+
+{{< l a="Ahura Mazda" >}}
+It is he who fills up most burrows of the creatures of Angra Mainyu
+{{< l a="Ahura Mazda" >}}
+
+
+23 (75). O Holy One! Who is the fourth that rejoices the Earth with greatest joy?
+
 
 Ahura Mazda answered: ‘It is he who cultivates most corn, grass, and fruit, O Spitama Zarathustra! who waters ground that is dry, or dries ground that is too wet 3.
 
 24 (79). ‘Unhappy is the land that has long lain unsown with the seed of the sower and wants a good husbandman, like a well-shapen maiden who has long gone childless and wants a good husband.
 
-25 (84). ‘He who would till the earth, O Spitama Zarathustra! with the left arm and the right, with the right arm and the left, unto him will she bring
+25 (84). ‘He who would till the earth, O Spitama Zarathustra! with the left arm and the right, with the right arm and the left, unto him will she bring forth plenty, like a loving bride on her bed, unto her beloved; the bride will bring forth children, the earth will bring forth plenty of fruit.
 
-
-
-
-p. 29
-
-forth plenty, like a loving bride on her bed, unto her beloved; the bride will bring forth children, the earth will bring forth plenty of fruit.
 
 26, 27 (87-90). ‘He who would till the earth, O Spitama Zarathustra! with the left arm and the right, with the right arm and the left, unto him thus says the Earth: "O thou man! who dost till me with the left arm and the right, with the right arm and the left hither shall people ever come and beg (for bread 1), here shall I ever go on bearing, bringing forth all manner of food, bringing forth profusion of corn 2."
 
 28, 29 (91-95). 'He who does not till the earth, O Spitama Zarathustra! with the left arm and the right, with the right arm and the left, unto him thus says the Earth: "O thou man I who dost not till me with the left arm and the right, with the right arm and the left, ever shalt thou stand at the door of the stranger, among those who beg for bread; ever shalt thou wait there for the refuse that is brought unto thee 3, brought by those who have profusion of wealth."'
 
-30 (96). O Maker of the material world, thou Holy One! What is the food that fills the law of Mazda 4?
+30 (96). O Holy One! What is the food that fills the law of Mazda 4?
 
 Ahura Mazda answered: ‘It is sowing corn again and again, O Spitama Zarathustra!
 
@@ -164,7 +181,7 @@ makes the law of Mazda grow higher and higher: he makes the law of Mazda as fat 
 
 33 (111). 'Then let (the priest) teach people this holy saying: "No one who does not eat, has strength to do works of holiness, strength to do works of husbandry, strength to beget children. By eating every material creature lives, by not eating it dies away 6."'
 
-34 (116). O Maker of the material world, thou Holy One! Who is the fifth that rejoices the Earth with greatest joy?
+34 (116). O Holy One! Who is the fifth that rejoices the Earth with greatest joy?
 
 
 
@@ -179,41 +196,28 @@ Ahura Mazda answered: ‘[It is he who tilling the earth, O Spitama Zarathustra!
 35 (118). 'He who tilling the earth, O Spitama Zarathustra! would not kindly and piously give to one of the faithful, he shall fall down into the darkness of Spenta Ârmaiti 2, down into the world of woe, the dismal realm, down into the house of hell.'
 
 IV.
-36 (122). O Maker of the material world, thou Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within half a year, what is the penalty that he shall pay?
+36 (122). O Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within half a year, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'Five hundred stripes with the Aspahê-astra 3, five hundred stripes with the Sraoshô-karana.'
+{{< l a="Ahura Mazda" >}}Five hundred stripes with the Aspahê-astra 3, five hundred stripes with the Sraoshô-karana.'
 
-37 (126). O Maker of the material world, thou Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within a year, what is the penalty that he shall pay?
+37 (126). O Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within a year, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana.'
+{{< l a="Ahura Mazda" >}}A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana.'
 
-38 (130). O Maker of the material world, thou Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within the second year, what
+38 (130). O Holy One! If a man shall bury in the earth either the corpse of a dog or the corpse of a man, and if he shall not disinter it within the second year, what is the penalty for it? What is the atonement for it? What is the cleansing from it?
 
+39 (135). {{< l a="Ahura Mazda" >}}
+For that deed there is nothing that can pay, nothing that can atone, nothing that can cleanse from it; it is a trespass for which there is no atonement, for ever and ever.'
+{{< /l >}}
 
-
-
-p. 32
-
-is the penalty for it? What is the atonement for it? What is the cleansing from it?
-
-39 (135). Ahura Mazda answered: 'For that deed there is nothing that can pay, nothing that can atone, nothing that can cleanse from it; it is a trespass for which there is no atonement, for ever and ever.'
 
 40 (137). When is it so?
 
 ‘It is so, if the sinner be a professor of the law of Mazda, or one who has been taught in it 1. But if he be not a professor of the law of Mazda, nor one who has been taught in it 2, then this law of Mazda takes his sin from him, if he confesses it 3 and resolves never to commit again such forbidden deeds.
 
-41 (142). ‘The law of Mazda indeed, O Spitama Zarathustra! takes away from him who confesses it the bonds of his sin 4; it takes away (the sin of) breach of trust 5; it takes away (the sin of) murdering one of the faithful 6; it takes away (the sin of) burying a corpse 7; it takes away (the sin of)
+41 (142). ‘The law of Mazda indeed, O Spitama Zarathustra! takes away from him who confesses it the bonds of his sin 4; it takes away (the sin of) breach of trust 5.
 
-
-
-
-
-
-
-
-p. 33
-
-deeds for which, there is no atonement; it takes away the heaviest penalties of sin 1; it takes away any sin that may be sinned.
+It takes away (the sin of) murdering one of the faithful 6; it takes away (the sin of) burying a corpse 7; it takes away (the sin of) deeds for which, there is no atonement; it takes away the heaviest penalties of sin 1; it takes away any sin that may be sinned.
 
 42 (149). ‘In the same way the law of Mazda, O Spitama Zarathustra! cleanses the faithful from every evil thought, word, and deed, as a swift-rushing mighty wind cleanses the plain 2.
 

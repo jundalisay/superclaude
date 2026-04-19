@@ -3,11 +3,15 @@ heading: Chapter 4
 title: "Contracts and Outrages"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 12
 ---
 
 
-1-16. Contracts (see Introd. V, 17):--
+<!-- 1-16. Contracts (see Introd. V, 17):--
 
 2. Classification of contracts;
 
@@ -35,24 +39,30 @@ weight: 12
 
 46, 49 (bis)-55. False oaths.
 
-Clauses 44-45 refer to contracts, and ought to be placed after § 16. Clauses 47-49, which are in praise of physical weal, have been probably misplaced here from the preceding Fargard (see Farg. III, 33). The right order of this chapter would, therefore, seem to be as follows: 1-16; 44-45 17-43; 46; 49 (bis)-55.
+Clauses 44-45 refer to contracts, and ought to be placed after § 16. Clauses 47-49, which are in praise of physical weal, have been probably misplaced here from the preceding Fargard (see Farg. III, 33). The right order of this chapter would, therefore, seem to be as follows: 1-16; 44-45 17-43; 46; 49 (bis)-55. -->
 
-I.
+## 1 
+
 1. He that does not restore (a thing lent), when it is asked for back again, steals the thing; he robs the man 1. So he does every day, every night, as long as he keeps in his house his neighbour's property, as. though it were his own 2.
 
-II a.
+
+## 2a
+
 2 (4). O Maker of the material world, thou Holy One! How many in number are thy contracts, O Ahura Mazda?
 
 Ahura Mazda answered: 'They are six in number 3. The first is the word-contract 4; the second
 
 is the hand-contract 1; the third is the contract to the amount of a sheep 2; the fourth is the contract to the amount of an ox 3 the fifth is the contract to the amount of a man 4 the sixth is the contract to the amount of a field 5, a field in good land, a fruitful one, in good bearing 6.'
 
-II b.
+
+## 2b
+
 3 (13). If a man make the word-contract a mere word 7, it shall be redeemed by the hand-contract; he shall give in pledge 8 the amount of the hand-contract.
 
 4 (16). The hand-contract 9 shall be redeemed by the sheep-contract; he shall give in pledge the amount of the sheep-contract. The sheep-contract shall be redeemed by the ox-contract; he shall give in pledge the amount of the ox-contract. The ox-contract shall be redeemed by the man-contract; he shall give in pledge the amount of the man-contract. The man-contract shall be redeemed by the field-contract; he shall give in pledge the amount of the field-contract.
 
-II c.
+## 2c
+
 5 (24). O Maker of the material world, thou Holy One! If a man break the word-contract, how many are involved in his sin 1?
 
 Ahura Mazda answered: 'His sin makes, his Nabânazdistas 2 answerable for the 3 three hundred-fold atonement.'
@@ -77,7 +87,7 @@ Ahura Mazda answered: 'His sin makes his Nabânazdistas answerable for the nine 
 
 Ahura Mazda answered: 'His sin makes his Nabânazdistas answerable for the thousand-fold atonement 4.'
 
-II d.
+## 2d
 
 11 (36). O Maker of the material world, thou Holy One! If a man break the word-contract, what is the penalty that he shall pay?
 
@@ -103,7 +113,9 @@ Ahura Mazda answered: 'Nine hundred stripes with the Aspahê-astra, nine hundred
 
 Ahura Mazda answered: 'A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana 1.'
 
-III a.
+
+
+## 3a
 
 17 (54). If a man rise up to smite a man, it is an Âgerepta 2. If a man come upon a man to smite him, it is an Avaoirista. If a man actually smite a man with evil aforethought, it is an Aredus. Upon the fifth Aredus 3 he becomes a Peshôtanu 4.
 
@@ -144,8 +156,6 @@ Ahura Mazda answered: ‘Fifteen stripes with the Aspahê-astra, fifteen stripes
 
 28. O Maker of the material world, thou Holy One! If a man commit an Aredus for the sixth time, without having atoned for the preceding, what penalty shall he pay?
 
-p. 42
-
 Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana.'
 
 29 (82). O Maker of the material world, thou Holy One! If a man commit an Aredus, and refuse to atone for it, what penalty shall he pay?
@@ -164,11 +174,7 @@ Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-
 
 Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana.'
 
-34 (93). O Maker of the material world, thou Holy One! If a man smite another so that the
-
-p. 43
-
-blood comes, what is the penalty that he shall pay?
+34 (93). O Maker of the material world, thou Holy One! If a man smite another so that the blood comes, what is the penalty that he shall pay?
 
 Ahura Mazda answered: 'Fifty stripes with the Aspahê-astra, fifty stripes with the Sraoshô-karana; the second time, seventy stripes with the Aspahê-astra, seventy stripes with the Sraoshô-karana; the third time, ninety stripes with the Aspahê-astra, ninety stripes with the Sraoshô-karana.'
 
@@ -208,14 +214,15 @@ Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-
 
 43 (115). And they shall thenceforth in their doings walk after the way of holiness, after the word of holiness, after the ordinance of holiness.
 
-p. 45
+## 2e
 
-II e 1.
-44 (118). If men of the same faith, either friends or brothers, come to an agreement together, that one may obtain from the other, either goods 2, or a wife 3, or knowledge 4, let him who wants to have goods have them delivered to him; let him who wants to have a wife receive and wed her; let him who wants to have knowledge be taught the holy word.
+<sup>44</sup> (118). If men of the same faith, either friends or brothers, come to an agreement together, that one may obtain from the other, either goods 2, or a wife 3, or knowledge 4, let him who wants to have goods have them delivered to him; let him who wants to have a wife receive and wed her; let him who wants to have knowledge be taught the holy word.
 
 45 (123). He shall learn on, during the first part of the day and the last, during the first part of the night and the last, that his mind may be increased in knowledge and wax strong in holiness: so shall he sit up, giving thanks and praying to the gods, that he may be increased in knowledge: he shall rest during the middle part of the day, during the middle part of the night, and thus shall he continue until he can say all the words which former Aêthrapaitis 5 have said.
 
-III b.
+
+## 3b
+
 46 (128). Before the water and the blazing fire 6,
 
 [paragraph continues]O Spitama Zarathustra! let no one make bold to deny having received from his neighbour the ox or the garment (he has received from him).
@@ -245,7 +252,7 @@ _____________
 Ahura Mazda answered: 'Seven hundred stripes with the Aspahê-astra, seven hundred stripes with the Sraoshô-karana.'
 
 
-## Footnotes
+<!-- ## Footnotes
 
 34:1 'He is a thief when he takes with a view not to restore; he is a robber when, being asked to restore, he answers, I will not' (Comm.)
 
@@ -335,3 +342,4 @@ Aredus is when a man actually smites another with a weapon, but without wounding
 
 46:3 'There are people who strive to pass a day without eating, and who abstain from any meat; we strive too and abstain, namely, from any sin in deed, thought, or word: . . . in other religions, they fast from bread; in ours, we fast from sin' (Saddar 83; Hyde 25).
 
+ -->

@@ -3,12 +3,16 @@ heading: Chapter 13
 title: "The Dog"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 42
 ---
 
 
 
-I (1-7). The dog of Ormazd and the dog of Ahriman.
+<!-- I (1-7). The dog of Ormazd and the dog of Ahriman.
 
     (a. 1-4). The dog Vanghâpara ('the hedge-hog').
 
@@ -33,9 +37,11 @@ IX (49-50). Praise of the dog.
 
 X (50-54). The water dog.
 
-See Introd. IV, 35.
+See Introd. IV, 35. -->
 
-I a.
+
+## 1a
+
 1. Which is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit?
 
 2 (3). Ahura Mazda answered: ‘The dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara 1, which evil-speaking people call the Duzaka 2; this is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit.
@@ -46,14 +52,18 @@ I a.
 
 Ahura Mazda answered: 'A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana.'
 
-I b.
+
+## 1b
+
 5 (13). Which is the evil creature among the creatures of the evil spirit that from midnight till the sun is up goes and kills thousands of the creatures of the good spirit?
 
 6 (15). Ahura Mazda answered: ‘The daêva Zairimyangura 1, which evil-speaking people call the Zairimyâka 2, this is the evil creature among the creatures of the evil spirit that from midnight till the sun is up goes and kills thousands of the creatures of the good spirit.
 
 7 (18). ‘And whosoever, O Zarathustra! shall kill the daêva Zairimyangura, which evil-speaking people call the Zairimyâka, his sins in thought, word, and deed are redeemed as they would be by a Patet; his sins in thought, word, and deed are atoned for.
 
-II.
+
+## 2
+
 8 (21). ‘Whosoever shall smite either a shepherd's dog, or a house dog, or a Vohunazga dog 3, or a trained dog 1, his soul when passing to the other world, shall fly 2 amid louder howling and fiercer pursuing than the sheep does when the wolf rushes upon it in the lofty forest.
 
 9 (24). ‘No soul will come and meet his departing soul and help it through the howls and pursuit 3 in the other world; nor will the dogs that keep the Kinvad bridge 4 help his departing soul through the howls and pursuit in the other world.
@@ -81,7 +91,8 @@ Ahura Mazda answered: 'Five hundred stripes with the Aspahê-astra, five hundred
 16 (48). 'This is the penalty for the murder of a Gazu dog, of a Vîzu dog 2, of a Sukuruna dog 3, of a sharp-toothed Urupi dog 4, of a swift-running Raopi 5 dog; this is the penalty for the murder of any kind of dog but the water dog 6'
 
 
-III.
+## 3
+
 17 (49). O Maker of the material world, thou Holy One! Which is the dog that must be called a shepherd's dog?
 
 Ahura Mazda answered: 'It is the dog who goes a Yugyêsti 1 round about the fold, watching for the thief and the wolf.'
@@ -94,7 +105,9 @@ Ahura Mazda answered: 'It is the dog who goes a Hâthra round about the house, w
 
 Ahura Mazda answered: 'It is the dog who claims none of those talents, and only seeks for his subsistence 2.'
 
-IV.
+
+## 4
+
 20 (55). O Maker of the material world, thou Holy One! If a man give bad food to a shepherd's dog, of what sin is he guilty?
 
 Ahura Mazda answered: 'It is the same guilt as though he should serve bad food to a master of a house of the first rank 3.'
@@ -129,7 +142,9 @@ Ahura Mazda answered: ‘Fifty stripes with the Aspahê-astra, fifty stripes wit
 
 28 (75). 'For it is the dog, of all the creatures of the good spirit, that most quickly decays into age, while not eating near eating people, and watching goods none of which it receives. Bring ye unto him milk and fat with meat; this is the right food for the dog 1.'
 
-V.
+
+## 5
+
 29 (80). O Maker of the material world, thou Holy One! If there be in the house of a worshipper of Mazda a mad dog, or one that bites without barking, what shall the worshippers of Mazda do?
 
 30 (82). Ahura Mazda answered: ‘They shall put a wooden collar around his neck, and they shall tie him to a post, an asti 1 thick if the wood be hard, two astis thick if it be soft. To that post they shall tie him; by the two sides 2 of the collar they shall tie him.
@@ -159,7 +174,9 @@ VI.
 
 40 (112). 'And whosoever shall awake at his voice, neither shall the thief nor the wolf steal anything from his house, without his being warned, the wolf shall be smitten and torn to pieces; he is driven away, he flees away.'
 
-VII.
+
+## 7
+
 41 (115). O Maker of the material world, thou Holy One! Which, of the two wolves deserves more to be killed, the one that is born of a he-dog and of a she-wolf, or the one that is born of a she-dog and of a he-wolf?
 
 Ahura Mazda answered: ‘Of these two wolves, the one that is born of a he-dog and of a she-wolf deserves more to be killed than the one that is born of a she-dog and of a he-wolf.
@@ -169,7 +186,8 @@ Ahura Mazda answered: ‘Of these two wolves, the one that is born of a he-dog a
 43 (121). ‘And there are born of a he-dog and of a she-wolf such wolves as fall on the shepherd's dog, on the house dog, on the Vohunazga dog, on the trained dog, and destroy the folds; such wolves are born as are more murderous, more mischievous, more destructive to the folds than any other wolves.
 
 
-VIII.
+## 8
+
 44 (124). ‘A dog has the characters of eight different sorts of people:--
 
 ‘He has the character of a priest,
@@ -204,12 +222,16 @@ VIII.
 
 ‘He likes sleeping, like a child; he is apt to run away 3, like a child; he is full of tongue, like a child; he goes on all fours 4, like a child; in these things he is like unto a child.
 
-IX.
+
+## 9
+
 49 (163). ‘If those two dogs of mine, the shepherd's dog and the house dog, pass by the house of any of my faithful people, let them never be kept away from it.
 
 'For no house could subsist on the earth made by Ahura, but for those two dogs of mine, the shepherd's dog and the house dog 5.'
 
-X.
+
+## 10
+
 50 (166). O Maker of the material world, thou Holy One! When a dog dies, with marrow and seed 1 dried up, whereto does his ghost go?
 
 51 (167). Ahura Mazda answered: ‘It passes to the spring of the waters 2, O Spitama Zarathustra! and there out of every thousand dogs and every thousand she-dogs, two water dogs are formed, a water dog and a water she-dog 3.

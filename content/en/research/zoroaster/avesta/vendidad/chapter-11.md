@@ -1,15 +1,21 @@
 ---
 heading: Chapter 11
-title: "Fargard"
+title: "How to Clean the House"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 35
 ---
 
 
-This chapter, like the preceding, is composed of spells intended to drive away the Nasu. But they are of a more special character, as they refer to the particular objects to be cleansed, such as the house, the fire, the water, &c. Each incantation consists of two parts, a line from the Gâthas which alludes, or rather is made to allude, to the particular object, and a general exorcism, in the usual dialect, which is the same for all the objects.
+<!-- This chapter, like the preceding, is composed of spells intended to drive away the Nasu. But they are of a more special character, as they refer to the particular objects to be cleansed, such as the house, the fire, the water, &c. Each incantation consists of two parts, a line from the Gâthas which alludes, or rather is made to allude, to the particular object, and a general exorcism, in the usual dialect, which is the same for all the objects. -->
 
-1. Zarathustra asked Ahura Mazda: 'O Ahura Mazda! most beneficent spirit, Maker of the material world, thou Holy One! How shall I cleanse the house? how the fire? how the water? how the earth? how the cow? how the tree? how the faithful man and the faithful woman? how the stars? how the moon? how the sun? how the boundless light? how all good things, made by Mazda, the offspring of the holy principle?'
+1. Zarathustra asked Ahura Mazda: 'O Ahura Mazda! How shall I cleanse the house? 
+
+how the fire? how the water? how the earth? how the cow? how the tree? how the faithful man and the faithful woman? how the stars? how the moon? how the sun? how the boundless light? how all good things, made by Mazda, the offspring of the holy principle?'
 
 2 (4). Ahura Mazda answered: ‘Thou shalt chant the cleansing words, and the house shall be clean; clean shall be the fire, clean the water, clean the earth, clean the cow, clean the tree, clean the faithful man. and the faithful woman, clean the stars, clean the moon, clean the sun, clean the boundless light, clean all good things, made by Mazda, the offspring of the holy principle.
 

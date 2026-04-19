@@ -1,72 +1,108 @@
 ---
 heading: Chapter 14
-title: "Fargard"
+title: "Penalties for Those who smite the water dogs"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
-weight: 9
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
+weight: 44
 ---
 
 
-1. Zarathustra asked Ahura Mazda: 'O Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! He who smites one of those water dogs that are born one from a thousand dogs and a thousand she-dogs 4, so that he gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?'
 
-2 (4). Ahura Mazda answered: ‘He shall pay ten thousand stripes with the Aspahê-astra, ten thousand stripes with the Sraoshô-karana 5.
+<sup>1</sup> Zarathustra asked Ahura Mazda: 'O Ahura Mazda, Maker of the material world! He who smites one of those water dogs that are born one from a thousand dogs and a thousand she-dogs 4, so that he gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?'
 
-‘He shall godly and piously bring unto the fire of Ahura Mazda 1 ten thousand loads of hard, well dried, well examined 2 wood, as an atonement unto the soul (of the water dog).
+2 (4). Ahura Mazda answered: ‘He shall pay 10,000 stripes with the Aspahê-astra, 10,000 stripes with the Sraoshô-karana 5.
 
-3 (6). ‘He shall godly and piously bring unto the fire of Ahura Mazda ten thousand loads of soft wood, of Urvâsna, Vohu-gaona, Vohu-kereti, Hadhâ-naêpata 3, or any sweet-scented plant, as an atonement unto the soul (of the water dog).
+‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of hard, well dried, well examined wood, as an atonement unto the soul (of the water dog).
 
-4 (7). ‘He shall godly and piously tie and consecrate ten thousand bundles of baresma; he shall offer up to the good waters ten thousand Zaothra libations with the Haoma and the sacred meat 4, cleanly prepared and well strained, cleanly prepared and well strained by a pious man 5, as an atonement unto the soul (of the water dog).
+3 (6). ‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of soft wood, of Urvâsna, Vohu-gaona, Vohu-kereti, Hadhâ-naêpata, or any sweet-scented plant, as an atonement unto the soul (of the water dog).
 
-5 (9). ‘He shall kill ten thousand snakes of those that go upon the belly; he shall kill ten thousand snakes of those that have the shape of a dog 1; he shall kill ten thousand tortoises; he shall kill ten thousand land frogs 2; 
+4 (7). ‘He shall godly and piously tie and consecrate 10,000 bundles of baresma.
 
-He shall kill ten thousand water frogs; he shall kill ten thousand corn-carrying ants 3; he shall kill ten thousand ants of those that bite and dig holes and work mischief 4.
+He shall offer up to the good waters 10,000 Zaothra libations with the Haoma and the sacred meat, cleanly prepared and well strained, cleanly prepared and well strained by a pious man, as an atonement unto the soul (of the water dog).
 
-6 (16). ‘He shall kill ten thousand earth worms; he shall kill ten thousand horrid flies 5.
+5 (9). ‘He shall kill:
+- 10,000 snakes of those that go upon the belly
+- 10,000 snakes of those that have the shape of a dog
+- 10,000 tortoises
+- 10,000 land frogs
+- 10,000 water frogs
+- 10,000 corn-carrying ants
+- 10,000 ants of those that bite and dig holes and work mischief
+- 6 (16) 10,000 earth worms
+- 10,000 horrid flies
 
-‘He shall fill up ten thousand holes for the unclean 6.
+‘He shall fill up 10,000 holes for the unclean.
 
 ‘He shall godly and piously give to godly men twice seven sets of implements for the fire, as an atonement unto the soul (of the water dog), namely:
 
-7 (20). ‘Two (loads of the) proper materials for fire 1; a broom 2; a pair of tongs; a pair of round bellows 3 extended at the bottom, contracted at the top; an adze with a sharp edge and a sharp-pointed handle 4, a saw with sharp teeth and a sharp-pointed handle, by means of which the worshippers of Mazda procure wood for the fire of Ahura Mazda.
+- 7 (20). ‘Two (loads of the) proper materials for fire
+- a broom
+- a pair of tongs
+- a pair of round bellows extended at the bottom, contracted at the top
+- an adze with a sharp edge and a sharp-pointed handle
+- a saw with sharp teeth and a sharp-pointed handle, by means of which the worshippers of Mazda procure wood for the fire of Ahura Mazda.
 
-8 (26). ‘He shall godly and piously give to godly men a set of the priestly instruments of which the priests make use, as an atonement unto the soul (of the water dog), namely: The Astra 5, the meat-vessel 6, the Paitidâna 7, the Khrafstraghna 8, the
+8 (26). ‘He shall godly and piously give to godly men a set of the priestly instruments of which the priests make use, as an atonement unto the soul (of the water dog), namely: 
 
+- The Astra
+- the meat-vessel
+- the Paitidâna
+- the Khrafstraghna
+- the Sraoshô-karana
+- the cup for the Myazda
+- the cups for the juice
+- the mortar made according to the rules
+- the Haoma cups
+- the baresma
 
-[paragraph continues]Sraoshô-karana 1, the cup for the Myazda 2, the cups for the juice 3, the mortar made according to the rules, the Haoma cups 4, and the baresma.
+9 (32). ‘He shall godly and piously give to godly men a set of all the war implements of which the warriors make use 5, as an atonement unto the soul (of the water dog):
 
-9 (32). ‘He shall godly and piously give to godly men a set of all the war implements of which the warriors make use 5, as an atonement unto the soul (of the water dog); the first being a javelin 6, the second a knife 7, the third a club, the fourth a bow 8, the fifth a quiver 9 with shoulder-belt and thirty brass-headed arrows 10, the sixth a sling with arm-string and with thirty sling stones, the seventh a cuirass 11, the eighth a hauberk 12, the ninth a tunic 13, the tenth a helmet, the eleventh a girdle, the twelfth a pair of greaves 14.
+1. a javelin
+2. a knife
+3. a club
+4. a bow
+5. a quiver with shoulder-belt and 30 brass-headed arrows
+6. a sling with arm-string and with 30 sling stones
+7. a cuirass
+8. a hauberk
+9. a tunic
+10. a helmet
+11. a girdle
+12. a pair of greaves
 
 
 10 (41). ‘He shall godly and piously give to godly men a set of all the implements of which the husbandmen make use, as an atonement unto the soul (of the water dog), namely: A plough with share and yoke 1, an ox whip 2, a mortar of stone, a hand-mill for grinding corn,
 
 11 (48). 'A spade for digging and tilling; one measure of silver and one measure of gold.'
 
-O Maker of the material world, thou Holy One! How much silver?
+O Holy One! How much silver?
 
 Ahura Mazda answered: 'The price of a stallion:'
 
-O Maker of the material world, thou Holy One! How much gold?
+O Holy One! How much gold?
 
 Ahura Mazda answered: ‘The price of a camel.
 
-12 (54). 'He shall godly and piously procure a rill of running water for godly husbandmen, as an atonement unto the soul (of the water dog).'
 
-O Maker of the material world, thou Holy One! How large is the rill?
+<sup>12</sup> (54). 'He shall godly and piously procure a rill of running water for godly husbandmen, as an atonement unto the soul (of the water dog).'
 
-Ahura Mazda answered: ‘The depth of a dog, and the breadth of a dog 3.
+O Holy One! How large is the rill?
 
-13 (57). 'He shall godly and piously give a piece of arable land to godly men, as an atonement unto the soul (of the water dog).'
+Ahura Mazda answered: ‘The depth of a dog, and the breadth of a dog.
 
-O Maker of the material world, thou Holy One! How large is the piece of land?
+<sup>13</sup> (57). 'He shall godly and piously give a piece of arable land to godly men, as an atonement unto the soul (of the water dog).'
 
-Ahura Mazda answered: ‘As much as can be watered with such a rill on both sides 4.
+O Holy One! How large is the piece of land?
 
-14 (60). 'He shall godly and piously procure for godly men a house with ox-stalls, with nine
+Ahura Mazda answered: ‘As much as can be watered with such a rill on both sides.
 
+14 (60). 'He shall godly and piously procure for godly men a house with ox-stalls, with 9 hâthras and 9 nematas, as an atonement unto the soul (of the water dog).'
 
-hâthras and nine nematas 1, as an atonement unto the soul (of the water dog) 2.'
-
-O Maker of the material world, thou Holy One I How large is the house?
+O Holy One I How large is the house?
 
 Ahura Mazda answered: ‘Twelve Vîtâras 3 in the largest part of the house, nine Vîtâras in the middle part, six Vîtâras in the smallest part.
 
@@ -74,7 +110,7 @@ Ahura Mazda answered: ‘Twelve Vîtâras 3 in the largest part of the house, ni
 
 15 (64). 'He shall godly and piously give to a godly man a virgin maid, whom no man has known, as an atonement unto the soul (of the water dog).'
 
-O Maker of the material world, thou Holy One! What maid?
+O Holy One! What maid?
 
 Ahura Mazda answered: ‘A sister or a daughter of his, at the age of puberty, with ear-rings in her ears, and past her fifteenth year.
 

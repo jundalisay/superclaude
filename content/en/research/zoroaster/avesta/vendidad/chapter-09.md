@@ -3,6 +3,10 @@ heading: Chapter 9
 title: "Fargard"
 description: "Avesta is the main Zoroastrian texts"
 c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
 weight: 29
 ---
 
