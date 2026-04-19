@@ -1,7 +1,7 @@
 ---
 title: "Danger of the third stage"
 heading: "Chapter 5h"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "The Four Stages of spiritual development"
 c: "indigo"
 weight: 65
 author: Dada Dharmavedananda
@@ -20,17 +20,32 @@ While departing, he announced his intention to get married. It seems that he's b
 
 The Dada who had tried the most to help him commented to me:
 
-
-"Many times I told him not to engage in self-aggrandizement. He had such a bloated ego—he thought he knew more than anyone. 
+{{< r a="Dada" >}}
+Many times I told him not to engage in self-aggrandizement. He had such a bloated ego—he thought he knew more than anyone. 
 
 In Tantra, such people either see their mistake, or they make even bigger blunders. 
 
 For a short time he'll be sky-high happy. But when he comes down on his feet again, he'll feel he cheated himself. He won't be content unless he does full-steam meditation and social service.
 
 That sort of lifestyle is a full-time commitment. It can't be adjusted with a family. His only path is to be a monk." 25
+{{< /r >}}
+
+{{< b >}}
+### Author's afternote
+
+Many persons come and go on the spiritual path. Even after a few years of effort some Margis may give up their spiritual practices. 
+
+They may continue to accept Ananda Marga as an excellent way. But they do not have the strength to continue. 
+
+What is the cause?* Some believe our most important practice is meditation. 
+
+Others think it is service. Still others think that the key lies in the balance between these two. 
+
+There are others who say that the only guarantee lies in following all the disciplines, though I do not know anyone who does that.
+{{< /b >}}
 
 
-(Author's afternote: Many persons come and go on the spiritual path. Even after a few years of effort some Margis may give up their spiritual practices. They may continue to accept Ananda Marga as an excellent way. but they do not have the strength to continue. What is the cause? Some believe our most important practice is meditation. Others think it is service. Still others think that the key lies in the balance between these two. And there are others who say that the only guarantee lies in following all the disciplines, though I do not know anyone who does that.
+{{< n n="The reason is that not everyone has the immediate path for moksha, but instead want to experience physical reality. The Tantric path is the fast lane for moksha. But most people just use it to make physical existence better i.e. leave at the first exit instead of reaching the final destination" >}}
 
 
 <!-- 25 The fact that a senior Dada engaged in deception and violated his vows is no cause for doubting spiritual ideology. The way of Tantra is sometimes very difficult. The path cuts deeply through narrow-mindedness and selfishness. 
@@ -39,9 +54,7 @@ While self-realization and strength to serve the society grow ever greater, the 
 
 That humility does not allow superiority or inferiority feelings to develop. By thinking T know myself. I shall never fall from my path', aspirants fool themselves. They are in great danger because they depend upon ego. Whereas those who think—I know nothing, I only want to do what Guru or God wants me to do—they rise higher and higher after getting up from each fall. But these humble ones do not know they are higher. They know nothing. -->
 
-The Tantric organization provides the structure for everyone to try their best, and allows 
-aspirants to err again and again if they are willing to admit their mistakes and try to rectify 
-themselves.
+The Tantric organization provides the structure for everyone to try their best, and allows aspirants to err again and again if they are willing to admit their mistakes and try to rectify themselves.
 
 My trainer had entered the "third stage" of spiritual development at the time of his downfall. 
 
@@ -92,7 +105,11 @@ By meditation or by social work one may develop the ego of accomplishment or of 
 
 Whereas kiirtan, the singing and dancing to Baba nam kevalam, is free of egoistic ambition. It is a purely devotional practice. It is a dance of surrender to Guru and God.
 
-My trainer hardly ever sang kiirtan. He used to say, "Only those who are weak-minded need kiirtan. My meditation is very powerful, so I don't require such singing." 
+My trainer hardly ever sang kiirtan. He used to say:
+
+{{< r a="Trainer" >}}
+Only those who are weak-minded need kiirtan. My meditation is very powerful, so I don't require such singing.
+{{< /r >}}
 
 
 But Baba says otherwise: 
@@ -104,7 +121,13 @@ If you want to develop devotion, when you have 30 minutes time for spiritual pra
 {{< /l >}}
 
 
-Some say, "It's alright to do kiirtan. But it should be natural and unforced. I do it whenever I feel like it." I think that is a mistake. 
+Some say:
+
+{{< r a="Dada" >}}
+It's alright to do kiirtan. But it should be natural and unforced. I do it whenever I feel like it.
+{{< /r >}}
+
+I think that is a mistake. 
 
 Kiirtan is the means to receive inspiration.
 

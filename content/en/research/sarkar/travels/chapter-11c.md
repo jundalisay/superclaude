@@ -1,15 +1,15 @@
 ---
 title: "DMC Night"
 heading: "Chapter 11c"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "Tonight's tandava will be performed by 100 brothers!"
 c: "indigo"
 weight: 168
 author: Dada Dharmavedananda
+icon: Dada Dharmavedananda
 ---
 
 
-This morning, during the daily meeting of our 35 security cadres, I had the uncomfortable task of asking for a volunteer to stay and guard Baba's house during the DMC speech and varabhaya mudra . 51 
-
+This morning, during the daily meeting of our 35 security cadres, I had the uncomfortable task of asking for a volunteer to stay and guard Baba's house during the DMC speech and varabhaya mudra.
 
 {{< l a="Dharmavedanda" >}}
 Whoever sacrifices himself for the welfare of others is guaranteed Baba's special grace. I know you've all come here looking forward to the DMC speech. Nevertheless, I'm sure at least one of you will selflessly relinquish his rights for the sake of the others.
@@ -26,33 +26,51 @@ Thank you, Sundara
 
 Honestly, I felt sorry for the lad. 
 
-Usually on DMC day Baba holds a special meeting of avadhutas to discuss some interesting matters and to bless us. This evening the answer to one question was, for me, especially imbued with mystical significance. 
+Usually on DMC day Baba holds a special meeting of avadhutas to discuss some interesting matters and to bless us. 
 
-By then twenty minutes of the meeting had passed and the air was electric. 
+This evening, the answer to one question was, for me, especially imbued with mystical significance. 
 
-"Each avadhuta has a singularly extraordinary role to play," He said. 
-He paused and then asked, "What is the purpose of the avadhuta?" 
+By then, 20 minutes of the meeting had passed and the air was electric. 
 
-"The purpose of an avadhuta... is ... to exist." 
+{{< l a="Baba" >}}
+Each avadhuta has a singularly extraordinary role to play. What is the purpose of the avadhuta?
+
+The purpose of an avadhuta... is ... to exist.
+{{< /l >}}
+
 
 As all the nuances of this statement gradually sunk into my heart, my spine shivered, then shook strongly. 
 
 
-DMC is an abbreviation for Dharma Mahachakra. Maha means “great," and "dharma-chakra" means group meditation, so DMC literally means "the great group meditation." 
+DMC is an abbreviation for Dharma Mahachakra. 
+- Maha means “great"
+- "Dharma-chakra" means group meditation
 
-It consisted of a series of formal darshans by Baba over a few days. On the last evening of the gathering, Baba would end His discourse with a special mudra, His varabhaya mudra. 
+So DMC literally means "the great group meditation." 
 
-"Vara" means boon, and "abhaya" means fearlessness due to feeling completely protected. So "Varabhaya" can be said to mean "blessing of fearlessness, or blessing with protection and without fear," and mudra means 
-"meaningful hand gesture." 
+It consisted of a series of formal darshans by Baba over a few days. 
 
-This was the greatest attraction to Dharma Mahachakras. Almost everyone felt their consciousness expand dramatically as an immediate result of this mudra, and Margis often became absorbed in the supreme state, losing awareness of the external world or experiencing ecstatic bliss. 
+On the last evening of the gathering, Baba would end His discourse with a special mudra, His varabhaya mudra. 
+
+- "Vara" means boon
+- "abhaya" means fearlessness due to feeling completely protected
+
+So "Varabhaya" can be said to mean "blessing of fearlessness, or blessing with protection and without fear".
+
+Mudra means "meaningful hand gesture." 
+
+This was the greatest attraction to Dharma Mahachakras. 
+
+Almost everyone felt their consciousness expand dramatically as an immediate result of this mudra, and Margis often became absorbed in the supreme state, losing awareness of the external world or experiencing ecstatic bliss. 
 
 
-Immediately before Baba gives the daily darshan speech, kaoshiki is demonstrated by a few sisters, and then both kaoshiki and tandava by a few brothers. 52 
+Immediately before Baba gives the daily darshan speech, kaoshiki is demonstrated by a few sisters, and then both kaoshiki and tandava by a few brothers.
 
 Because it was DMC night I felt something special in the air. Nevertheless, the announcement in the dark surpassed my expectation: 
 
-"Tonight's tandava will be performed by 100 brothers!" 
+{{< l a="Dada" >}}
+Tonight's tandava will be performed by 100 brothers!
+{{< /l >}}
 
 Within a single shocking moment 100 torches burst in flames—the dancers leapt high in the eerie light, chanting BABA NAM KEVALAM at ear-splitting volume. 
 
@@ -60,24 +78,41 @@ Guru's lips curled slightly in pleasure. His eyes burned, and His body shifted i
 
 Late at night, standing outside Baba's house, I heard fragments of several Margis' discussions about the DMC. 
 
-"Never before was my mind so concentrated"... "I thought my head would break, it throbbed so strongly"... "Well, I felt nothing, but somehow was still inspired" ... "He was beautiful" ... "These things are too subtle to be analyzed" ... and so on. 
+{{< r a="Margi" >}}
+Never before was my mind so concentrated
+{{< /r >}}
 
-Just before I went inside, Amita, a middle-aged lady from Norway, said, "And none of you saw it?" 
+{{< r a="Margi" >}}
+I thought my head would break, it throbbed so strongly
+{{< /r >}}
 
-"What?" they said in chorus. 
+{{< r a="Margi" >}}
+Well, I felt nothing, but somehow was still inspired
+{{< /r >}}
 
-"I was sure everyone saw it..." she said. 
+{{< r a="Margi" >}}
+He was beautiful
+{{< /r >}}
 
-"Saw what?" 
+{{< r a="Margi" >}}
+These things are too subtle to be analyzed
+{{< /r >}} 
 
-"The smoke coming out of His hands during the mudra. It completely filled the hall." 
 
-Kaoshikii is a yogic dance which helps cure over thirty diseases, while generally exercising and 
-energizing the body, it is especially beneficial to women, but also valuable for men. 
+And so on. 
 
-Tandava, a powerful jumping dance, stimulates the male hormones—it should not be done by women. It 
-was invented by Shiva 7000 years ago. Statues and paintings of Shiva often depict him in this 
-dancing pose. 
+Just before I went inside, Amita, a middle-aged lady from Norway, said:
+
+{{< r a="Amita" >}}
+None of you saw the smoke* coming out of His hands during the mudra. It completely filled the hall.
+{{< /r >}}
+
+{{< n n="This is chi or vayu which in Descartes' Physics has aerial properties" >}}
+
+
+Kaoshikii is a yogic dance which helps cure over thirty diseases, while generally exercising and energizing the body, it is especially beneficial to women, but also valuable for men. 
+
+Tandava, a powerful jumping dance, stimulates the male hormones—it should not be done by women. It was invented by Shiva 7000 years ago. Statues and paintings of Shiva often depict him in this dancing pose. 
 
 Tandava is the only yogic exercise which stimulates all the body's glands. It even 
 invigorates the brain. Shiva encouraged his warriors to perform tandava because it also helped 

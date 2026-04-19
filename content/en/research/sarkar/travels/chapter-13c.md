@@ -1,14 +1,17 @@
 ---
 title: "Lost in His shoes"
 heading: "Chapter 13c"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "Brother Jyotishvar from America"
 c: "indigo"
 weight: 208
+icon: "Dada Dharmavedananda"
 author: Dada Dharmavedananda
 ---
 
 
 Today was DMC day. Brother Jyotishvar from America had an interesting experience:
+
+
 
 "I arrived in Iceland 3 weeks before DMC. Together with a few others, I worked everyday to prepare for the great event. We worked hard painting, cleaning, organizing, and furnishing Baba's quarters. 
 

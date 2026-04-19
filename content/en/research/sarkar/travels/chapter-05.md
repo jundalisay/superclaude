@@ -2,7 +2,7 @@
 # title: "Sickness and Depression: Catalytic Agents"
 title: Ananda Nagar
 heading: "Chapter 5"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 40
 author: Dada Dharmavedananda

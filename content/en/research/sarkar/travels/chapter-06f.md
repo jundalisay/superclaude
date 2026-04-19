@@ -1,7 +1,7 @@
 ---
 title: "Tropical Fever"
 heading: "Chapter 6f"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 85
 author: Dada Dharmavedananda

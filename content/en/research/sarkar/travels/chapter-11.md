@@ -1,7 +1,7 @@
 ---
 title: "Eye of the Hurricane "
 heading: "Chapter 11"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 160
 author: Dada Dharmavedananda
@@ -31,7 +31,10 @@ Frankfurt, Germany. Today Dada Kamnananda phoned with news that
 Baba's party has left Calcutta for Bombay and were out of touch; there was still 
 no official word about their program. 
 
-"So are they coming to Switzerland or not?" I asked. 
+{{< l a="Dada Dharmavedananda" >}}
+So are they coming to Switzerland or not?
+{{< /l >}}
+
 
 "I guess so, but, but..." 
 
@@ -41,27 +44,36 @@ no official word about their program.
 
 "What about the Central Office?" 
 
+"They also don't know what's going on. But dare we tell that to the Margis? If maximum Margis are to meet Baba in Geneva they need to start traveling  now." 
 
-"They also don't know what's going on. But dare we tell that to the Margis? 
-If maximum Margis are to meet Baba in Geneva they need to start traveling 
-now." 
-
-"Yet another cosmic clash. Thanks, Baba." 
+{{< l a="Dada Dharmavedananda" >}}
+Yet another cosmic clash. Thanks, Baba.
+{{< /l >}}
 
 For a few seconds neither of us spoke as we weighed the alternatives. 
 
-"We've got to announce that Baba's definitely coming," I said. "Right." 
+{{< l a="Dada Dharmavedananda" >}}
+We've got to announce that Baba's definitely coming. Right.
 
-"It's the only practical thing to do. If we're wrong, that's His problem." "Yah," 
-said Karunanandaji, "and maybe about 1000 Margis' problem too..." 
+It's the only practical thing to do. If we're wrong, that's His problem.
+{{< /l >}}
 
-"Anyway, if we guessed right, nobody will ever know." "And if we guessed 
-wrong, I'll say it was your fault," he said, laughing. "Thanks." Though I didn't 
-know whether or not he was really joking, I also laughed. Why not? 
 
-" I always keep my word" 
+Yah, said Karunanandaji, "and maybe about 1000 Margis' problem too..." 
 
-Geneva, Switzerland. 6 May. Hundreds of Margi brothers and sisters swarmed throughout the Geneva airport today, seething with anticipation, their paper-thin patience stretched taut, waiting for a man who was not only the center of their lives, but who most had never yet even seen. Some sang 
+"Anyway, if we guessed right, nobody will ever know." 
+
+{{< r a="Dada Karunanda" >}}
+(laughing) And if we guessed wrong, I'll say it was your fault.
+{{< /r >}}
+
+"Thanks." Though I didn't  know whether or not he was really joking, I also laughed. Why not?" I always keep my word" 
+
+
+
+Geneva, Switzerland. 6 May.
+
+Hundreds of Margi brothers and sisters swarmed throughout the Geneva airport today, seething with anticipation, their paper-thin patience stretched taut, waiting for a man who was not only the center of their lives, but who most had never yet even seen. Some sang 
 devotional songs, some danced, while others gossiped but there was no way to 
 disguise the tension. 
 
@@ -69,16 +81,16 @@ Three brothers scaled a wall up to a large window sill, and stared through the w
 
 For the umpteenth time I rehearsed the security. 
 
-"Volunteers, attennnntion!" I yelled. 
+{{< l a="Dada Dharmavedananda" >}}
+Volunteers, attennnntion!!!
+{{< /l >}}
 
-Sixteen uniformed cadets-eight brothers and eight sisters in two perfect 
-lines—snapped their backbones straight and thumped their staffs on the floor. 
-Though some could barely speak English, all clearly understood the martial 
-commands. 
 
-None of them, however, understood one thing: perhaps Baba was not 
-coming. I caught Karunanandaji's eye, which flickered as he cast a thin grin in 
-my direction. He could still afford to smile. 
+Sixteen uniformed cadets-eight brothers and eight sisters in two perfect  lines—snapped their backbones straight and thumped their staffs on the floor.  
+
+Though some could barely speak English, all clearly understood the martial  commands. 
+
+None of them, however, understood one thing: perhaps Baba was not coming. I caught Karunanandaji's eye, which flickered as he cast a thin grin in  my direction. He could still afford to smile. 
 
 If Baba was coming today, the plane now arriving was the only possible 
 flight. I stood toward the back of my volunteers, confident that at least these 16 would play their role properly if He came. But would He? 

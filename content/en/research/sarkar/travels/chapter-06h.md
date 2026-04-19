@@ -1,7 +1,7 @@
 ---
 title: "The violins test a new (already strong) Margi "
 heading: "Chapter 6h"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 87
 author: Dada Dharmavedananda

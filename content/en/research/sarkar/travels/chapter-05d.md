@@ -1,7 +1,7 @@
 ---
 title: "Going down"
 heading: "Chapter 5d"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 52
 author: Dada Dharmavedananda

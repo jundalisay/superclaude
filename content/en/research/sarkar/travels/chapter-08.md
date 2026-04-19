@@ -1,7 +1,7 @@
 ---
 title: "Personal Contact"
 heading: "Chapter 8"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 104
 author: Dada Dharmavedananda

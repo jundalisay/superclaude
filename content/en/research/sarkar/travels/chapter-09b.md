@@ -1,7 +1,7 @@
 ---
 title: "A special kind of attention"
 heading: "Chapter 9b"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 144
 author: Dada Dharmavedananda

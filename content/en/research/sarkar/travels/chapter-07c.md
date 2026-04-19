@@ -1,7 +1,7 @@
 ---
 title: "Mr. Eklof"
 heading: "Chapter 7c"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 96
 author: Dada Dharmavedananda

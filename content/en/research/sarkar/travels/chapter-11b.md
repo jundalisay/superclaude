@@ -1,7 +1,7 @@
 ---
 title: "Daily Dramas"
 heading: "Chapter 11b"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "The greatest meticulousness is demanded in the security for Baba's twice daily field walks"
 c: "indigo"
 weight: 164
 author: Dada Dharmavedananda
@@ -98,13 +98,21 @@ to add sister volunteers to the security arrangements.
 
 ### Hiding His knowledge 
 
-This morning, on the way to the field walk, I asked Abaniish of Norway, who until five days ago had never before seen Baba, "Brother, what do you  think of Baba now?" 
+This morning, on the way to the field walk, I asked Abaniish of Norway, who until five days ago had never before seen Baba:
 
-"It's funny," he said. "I don't know why... He hasn't done anything at all special... He looks and acts just like a sweet old man... I don't know why, but I love Him." 
+{{< l a="Dada Dharmavedananda" >}}
+Brother, what do you  think of Baba now?
+{{< /l >}}
+
+{{< r a="Abaniish" >}}
+It's funny. I don't know why... He hasn't done anything at all special... He looks and acts just like a sweet old man... I don't know why, but I love Him.
+{{< /r >}}
 
 He gave a big smile like a child. "I feel... I feel love for Him—just like a father. No, even more than for my father." 
 
-"It's a normal reaction," I said. "Absolutely normal." 
+{{< l a="Dada Dharmavedananda" >}}
+It's a normal reaction, absolutely normal.
+{{< /l >}}
 
 We drove high into the snow covered Alps. While walking, Baba said:
 
@@ -117,20 +125,30 @@ Life began only up in the mountains at zero degrees centrigrade—the necessary 
 
 After walking in silence for a few moments, Dada Abhidevananda asked, 
 
+{{< r a="Dada Abhidevananda" >}}
+Baba, is it possible that life came to the earth from another planet?
+{{< /r >}}
 
-"Baba, is it possible that life came to the earth from another planet?" 
 
-
-{{< q a="Baba" >}}
+{{< l a="Baba" >}}
 Why not? I think life came from Mars. Today Mars is a dying planet.
-{{< /q >}}
+{{< /l >}}
 
 
 Later He commented that **the first human civilization was also in the Alps.** 
 
-We returned to the cars and started back. Just after turning a corner, we saw several uniformed persons putting away a big parabolic-shaped machine. One of the Margis in my car, an engineer, said. "That's a sound-detection device used over long distances by the secret police to pick up conversations." 
+We returned to the cars and started back. Just after turning a corner, we saw several uniformed persons putting away a big parabolic-shaped machine.
 
-Another Margi added, "Do you think it's possible that Baba specifically intended that interplanetary talk to be overheard by them?" 
+One of the Margis in my car, an engineer, said:
+
+{{< r a="Engineer" >}}
+That's a sound-detection device used over long distances by the secret police to pick up conversations.
+{{< /r >}}
+
+
+{{< r a="Margi" >}}
+Do you think it's possible that Baba specifically intended that interplanetary talk to be overheard by them?
+{{< /r >}}
 
 During evening darshan, after a devotional song, one brother suddenly stood up in the middle of the crowd. In the otherwise silent room, his words in Italian had a shocking effect. 
 
@@ -142,31 +160,42 @@ In the momentary excitement. Baba looked at Dada Ramananda and me.
 
 (Ramanandaji was sitting next to Baba, while I was standing. After the security fiasco at the airport, I had decided to remain close to Baba whenever He was out of His room, directly rather than indirectly supervising the volunteers - though admittedly I took this decision not solely out of consideration for security.) 
 
-He looked at us and asked, "What is it? What's happening?" 
 
-"Nothing, Baba," Ramanandaji said. "The man is crazy." 
+{{< l a="Baba" >}}
+What is it? What's happening?
+{{< /l >}}
 
-"What do you mean 'crazy'?" Baba said. "Let him come to the front. Come 
-on, my boy," He said, waving Parimal forward. 
 
-As he hobbled forward, everyone could see his balding, deformed skull. He 
-launched excitedly into an Italian soliloquy. 
+{{< r a="Ramananda" >}}
+Nothing, Baba. The man is crazy.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+What do you mean 'crazy'? Let him come to the front. Come on, my boy
+{{< /l >}}
+
+He waved Parimal forward. 
+
+As he hobbled forward, everyone could see his balding, deformed skull. He launched excitedly into an Italian soliloquy. 
 
 Baba knows all the world's languages. We should be able to see first hand how He replies to a tongue that He hadn't been exposed to before. 
 
-But it was not to be as we hoped. Instead, Baba spoke to the Dada posted in 
-Italy: 
+But it was not to be as we hoped. Instead, Baba spoke to the Dada posted in Italy: 
 
-"Japasiddhananda, give me the translation in English." 
+{{< l a="Baba" >}}
+Japasiddhananda, give me the translation in English.
+{{< /l >}}
 
 Though everyone was silent, many looked disappointed. They may have been thinking. Was it only fiction, this story that Baba knows all languages? 
 
-Japasiddhanandaji started the translation, "Baba, he says the title of his story is titled Baba with the Baby on the Farm." 
+{{< l a="Japasiddhananda" >}}
+Baba, he says the title of his story is titled Baba with the Baby on the Farm.
+{{< /l >}}
 
 Parimal appeared inspired as he spoke, enthusiastically dramatizing his discourse. I observed that some of the Germans and Dutch looked disillusioned, seeing Baba's apparent dependence on the translation. 
 
 But the Italians and those who understood Italian (including me) could not help but notice that each time Parimal spoke a humorous line. Baba smiled before the translation was delivered. 
 
-[Author's note: Some months later when I visited Parma, Italy, I found a changed Parimal. Previous to this experience with Baba, he had been in a near¬constant state of confusion. While I was in Parma, however, I saw that he was still excited about Baba—that he was always talking about Baba. Instead of being in a state of confusion, I felt he was in a spiritual state. A few months after that he died.] 
 
+[Author's note: Some months later when I visited Parma, Italy, I found a changed Parimal. Previous to this experience with Baba, he had been in a near¬constant state of confusion. While I was in Parma, however, I saw that he was still excited about Baba—that he was always talking about Baba. Instead of being in a state of confusion, I felt he was in a spiritual state. A few months after that he died.] 
 

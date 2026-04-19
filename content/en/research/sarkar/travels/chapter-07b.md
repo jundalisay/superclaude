@@ -1,7 +1,7 @@
 ---
 title: "Making the impossible possible"
 heading: "Chapter 7b"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 92
 author: Dada Dharmavedananda

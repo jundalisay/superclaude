@@ -1,7 +1,7 @@
 ---
 title: "Spiritual motivation only"
 heading: "Chapter 13b"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 204
 author: Dada Dharmavedananda
@@ -11,7 +11,10 @@ author: Dada Dharmavedananda
 
 Two days later. Even though we had 2 days to prepare, we were still anxiously making last minute arrangements when Ramanandaji called.
 
-"There's been another change," he said. "We will come tomorrow." 
+
+{{< r a="Ramananda" >}}
+There's been another change. We will come tomorrow.
+{{< /r >}}
 
 [Author's note: I later heard the story behind Baba's delay. That morning, Baba and His entourage were in transit at the Copenhagen airport. Without visas, they could not come out to meet the Margis. By the goodwill of the immigration authorities, however, a special exception was granted, and the Margis were able to enter the transit area to enjoy His darshan for two hours. 
 
@@ -25,19 +28,35 @@ Of course, the group had no visas to enter Norway. All the Dadas expected to eit
 
 Baba, however, was of a different mind. Without consulting any of them, He headed for immigration. 
 
-One of the workers said, "Baba, excuse me, we have no visas for Norway, so it will be of no use to go through immigration. 
+One of the workers said:
 
-We might try to speak to the highest authority here." But Baba paid no attention. He simply stood in the passport line. Their protests unheard, the others also fell into line. When they saw the officer stamping an entry permit in Baba's passport everyone was astonished. They could hardly suppress their laughter as one by one they were all similarly admitted into Norway. 
+{{< r a="Dada" >}}
+Baba, excuse me, we have no visas for Norway, so it will be of no use to go through immigration.
+
+We might try to speak to the highest authority here.
+{{< /r >}}
+
+But Baba paid no attention. He simply stood in the passport line.
+
+Their protests unheard, the others also fell into line. When they saw the officer stamping an entry permit in Baba's passport everyone was astonished. They could hardly suppress their laughter as one by one they were all similarly admitted into Norway. 
 
 Just after the last Dada's passport was stamped, however, the officer seemed to wake up. 
 
-"Wait a moment," he said. "Let me see your passport again. ... What's this?
+{{< r a="Officer" >}}
+Wait a moment. Let me see your passport again. ... What's this?
 
-There's no Norwegian visa! No no, this is very bad. All of you Indians, give me your passports back." 
+There's no Norwegian visa! No no, this is very bad. All of you Indians, give me your passports back.
+{{< /r >}}
 
-"Ah, but we have friends here in Oslo," said Dada Ramananda. "Before you cancel the visas, allow us first to call our friends. Perhaps this can be straightened out." 
 
-"This is highly irregular," said the officer. "Wait here." 
+{{< l a="Ramananda" >}}
+Ah, but we have friends here in Oslo. Before you cancel the visas, allow us first to call our friends. Perhaps this can be straightened out.
+{{< /l >}}
+
+
+{{< r a="Officer" >}}
+This is highly irregular. Wait here.
+{{< /r >}}
 
 
 A higher official was approached, telephone calls were made, and several unbelieving, shocked Margis came to the airport. As the negotiations proceeded. Baba sat with the Margis and gave a mini-darshan. 
@@ -76,21 +95,39 @@ Upon returning from field walk Ramanandaji noticed some blood on Baba's foot whe
 
 "Baba, what is this? When did You get injured?" 
 
-"It has been troubling me for several days." 
+{{< l a="Baba" >}}
+It has been troubling me for several days.
+{{< /l >}}
 
-"But Baba, You didn't mention it before." 
+{{< l a="Ramananda" >}}
+But Baba, You didn't mention it before.
+{{< /l >}}
 
-Baba did not reply. Ramanandaji picked up the shoe and looked inside. He 
-found a nail protruding from the sole. 
+Baba did not reply. Ramanandaji picked up the shoe and looked inside. He found a nail protruding from the sole. 
 
-"Baba, look at this nail! Why didn't You tell me? We could have fixed it or 
-gotten new shoes." 
+{{< l a="Ramananda" >}}
+Baba, look at this nail! Why didn't You tell me? We could have fixed it or  gotten new shoes.
+{{< /l >}}
 
-He smiled. "I did not want to disturb you." 
+{{< l a="Baba" >}}
+(smiling) I did not want to disturb you.
+{{< /l >}}
 
-"So You destroyed Your foot! Oh, look at it! There must have been so much pain. Now You disturb me anyway! You should have told me the moment the problem came!" 
+{{< l a="Ramananda" >}}
+So You destroyed Your foot! Oh, look at it! There must have been so much pain. Now You disturb me anyway! You should have told me the moment the problem came!
+{{< /l >}}
 
-Still smiling. He said. "Recently I absorbed a large quantity of samskaras while giving personal contacts. 61 It was necessary that Prakriti 62 express at least a little something in the balance. If I had informed you of the nail in my shoe, you surely would have eliminated my discomfiture. But then Prakriti would have had to devise another form of compensation." 
+Still smiling. He said:
+
+{{< l a="Baba" >}}
+Recently, I absorbed a large quantity of samskaras while giving personal contacts. It was necessary that Prakriti express at least a little something in the balance. 
+
+If I had informed you of the nail in my shoe, you surely would have eliminated my discomfiture. But then Prakriti would have had to devise another form of compensation.
+{{< /l >}}
+
+61 Here Baba refers to the fact that during personal contact He relieves disciples of certain samskaras, (reactive momenta or unexpressed reactions) which most impede the individual's spiritual development. 
+
+62 Prakriti is commonly defined as "Nature." More precisely it is the operational principle causing Cosmic Consciousness to express itself. 
 
 
 ### Secret connection 
@@ -102,17 +139,9 @@ At one point. He looked at Dada Rudreshvarananda, who is French by birth, and st
 Rudreshvaranandaji literally rolled on the floor in laughter. Later I came to 
 know that Baba was making absurd comparisons between the objects and the people in the room. This French session went on for perhaps 10 minutes.
 
-61 Here Baba refers to the fact that during personal contact He relieves disciples of 
-certain samskaras, (reactive momenta or unexpressed reactions) which most impede 
-the individual's spiritual development. 
-
-62 Prakriti is commonly defined as "Nature." More precisely it is the operational prin¬ 
-ciple causing Cosmic Consciousness to express itself. 
-
 Afterward I asked Rudreshvaranandaji, "How was Baba's French pronunciation?" 
 
-"Better than my own. Baba spoke with a perfect Paris accent, whereas I 
-was raised far outside of Paris. I think even His vocabulary exceeds mine." 
+"Better than my own. Baba spoke with a perfect Paris accent, whereas I was raised far outside of Paris. I think even His vocabulary exceeds mine." 
 
 "But how could He know so much French?" 
 

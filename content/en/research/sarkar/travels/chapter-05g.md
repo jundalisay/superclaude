@@ -1,7 +1,7 @@
 ---
 title: "Passing by Chance "
 heading: "Chapter 5g"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: ""
 c: "indigo"
 weight: 60
 author: Dada Dharmavedananda

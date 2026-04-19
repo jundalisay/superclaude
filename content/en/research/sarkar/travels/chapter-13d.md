@@ -2,14 +2,17 @@
 title: In Germany
 # title: "Ever grateful"
 heading: "Chapter 13d"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "Because Germany was not in the original tour plan, no visas had been arranged"
 c: "indigo"
 weight: 212
+icon: "Dada Dharmavedananda"
 author: Dada Dharmavedananda
 ---
 
 
-Frankfurt airport. Because Germany was not in the original tour plan, no visas had been arranged. This time Baba did not try to slip through Immigration. Instead. He suggested we approach the authorities to grant an exception.
+Frankfurt airport. Because Germany was not in the original tour plan, no visas had been arranged. This time Baba did not try to slip through Immigration. 
+
+Instead, He suggested we approach the authorities to grant an exception.
 
 Though an application seemed unlikely to succeed, the guru suggested it, so we proceeded. The authorities in the airport immediately transferred our request to a higher government body. While waiting for the reply, they kindly arranged a VIP lounge for Baba's rest. 
 
@@ -97,44 +100,30 @@ Everyone laughed. But we carried on with our kneading.
 Is His apparent pleasure sometimes not real pleasure, but rather just a 
 means to allow us to increase our relationship with Him? 
 
-Failure becomes success 
+
+## Failure becomes success 
 
 Other than laughing at His joke, I hardly smiled during that massage. 
 
-I was feeling melancholy; this was the last day of Baba's tour. Most of the 
-time in Iceland, and here in Germany, I had been busy arranging security, 
-darshans, field walks, transportation etc etc. Though I was often with Baba, it 
-was usually together with other Margis and workers. I wanted to be alone with 
-Him. 
+I was feeling melancholy; this was the last day of Baba's tour. 
 
-That's why today I decided to stay near His room as much as possible, to 
-catch whatever chance might come—even if it meant neglecting my duty. 
+Most of the time in Iceland, and here in Germany, I had been busy arranging security, darshans, field walks, transportation etc etc. Though I was often with Baba, it was usually together with other Margis and workers. I wanted to be alone with  Him. 
 
-Most of the morning and afternoon I was present just outside His door, 
-which was almost always open, permitting me to see Him. As the hours went 
-by, however, I was slowly consumed with an awkward feeling. On one hand I 
-wanted to be alone with Him, but couldn't manage it. On the other hand I was 
-disregarding my duties and had no idea what problems might be arising. 
+That's why today I decided to stay near His room as much as possible, to catch whatever chance might come—even if it meant neglecting my duty. 
 
-Finally it was time for the last field walk. I hoped it had been organized 
-properly without my supervision. But when I accompanied Baba outside I 
-found a complete mess. Not only were minor details out of order—even a car 
-and several guards were missing. I moved into high gear to make emergency arrangements, hoping that Baba would not notice the chaos. Of course He had to notice—it was obvious to everyone. Today's 
-lack of arrangement was a singular fiasco. 
+Most of the morning and afternoon I was present just outside His door, which was almost always open, permitting me to see Him. As the hours went by, however, I was slowly consumed with an awkward feeling. 
 
-Yet He criticized nothing. In this worst of circumstances. He pretended 
-everything was normal. He was even kind to me. 
+On one hand I  wanted to be alone with Him, but couldn't manage it. On the other hand I was disregarding my duties and had no idea what problems might be arising. 
 
-Was He generous because I was already despondent over His imminent 
-departure? Perhaps. But one thing surely contributed to His magnanimity: He 
-understood that I was deeply affected by the failure; and that I was determined 
-never again to neglect my duty for the sake of a personal desire—no matter 
-how sublime that desire might be. 
+Finally it was time for the last field walk. I hoped it had been organized properly without my supervision. But when I accompanied Baba outside I found a complete mess. Not only were minor details out of order—even a car  and several guards were missing. I moved into high gear to make emergency arrangements, hoping that Baba would not notice the chaos. 
 
-On the outside, failure. On the inside, success. Every mistake can be so— 
-should be so. But when it's your mistake, it's not too wise to tell anybody about 
-your inner success. 
+Of course He had to notice—it was obvious to everyone. Today's lack of arrangement was a singular fiasco. 
 
+Yet He criticized nothing. In this worst of circumstances. He pretended everything was normal. He was even kind to me. 
+
+Was He generous because I was already despondent over His imminent departure? Perhaps. But one thing surely contributed to His magnanimity: He understood that I was deeply affected by the failure; and that I was determined never again to neglect my duty for the sake of a personal desire—no matter how sublime that desire might be. 
+
+On the outside, failure. On the inside, success. Every mistake can be so— should be so. But when it's your mistake, it's not too wise to tell anybody about your inner success. 
 
 
 Frankfurt airport. After we checked in we found out that our flight was 

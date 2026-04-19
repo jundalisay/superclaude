@@ -1,9 +1,10 @@
 ---
 title: "Conscious Sleep "
 heading: "Chapter 11d"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "About 200 Margis are collected for Baba's 3-day program in Timmern"
 c: "indigo"
 weight: 170
+icon: Dada Dharmavedananda
 author: Dada Dharmavedananda
 ---
 
@@ -131,12 +132,7 @@ ego attachments to the guru.
 56 Afterward I came to know that the last, and perhaps only time that Baba had personally held a DMS was in 1962 in Begusarai, Bihar, India. So it is clear that Baba considered this Timmern program something special. While Baba was in jail, a few avadhutas had the duty to conduct DMS. Since Baba's passing, DMSs have been conducted only by the President. 
 
 
-When I went upstairs, I found all the Margis in an exuberant state, singing 
-songs and dancing kiirtan. I climbed on the stage, took the microphone, and 
-told everyone that I had a message from Baba. After a minute or two they 
-calmed down and I repeated Baba's words. 
+When I went upstairs, I found all the Margis in an exuberant state, singing  songs and dancing kiirtan. I climbed on the stage, took the microphone, and  told everyone that I had a message from Baba. After a minute or two they  calmed down and I repeated Baba's words. 
 
-They didn't care—no one seemed to be affected by my announcement. As 
-soon as I finished speaking they immediately resumed their celebration— 
-singing and dancing in spiritual ecstasy. 
+They didn't care—no one seemed to be affected by my announcement. As soon as I finished speaking they immediately resumed their celebration— singing and dancing in spiritual ecstasy. 
 

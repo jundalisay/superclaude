@@ -1,9 +1,10 @@
 ---
 title: "At a Military Base"
 heading: "Chapter 14b"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "I am staying with a family whose daughter works on the American military base"
 c: "indigo"
 weight: 220
+icon: "Dada Dharmavedananda"
 author: Dada Dharmavedananda
 ---
 
@@ -17,8 +18,7 @@ So this morning at 7:00 I donned civilian clothes and walked alone to an unmarke
 
 The bus cleared the check-point at the main gate of the military complex. 
 
-Inside the base, it made a number of stops, dropped off passengers, and negotiated 2 more security posts. At its final stop, deep within this strange land within a strange land (treeless Iceland itself reminds me of nothing short of 
-the moon), I stepped down. 
+Inside the base, it made a number of stops, dropped off passengers, and negotiated 2 more security posts. At its final stop, deep within this strange land within a strange land (treeless Iceland itself reminds me of nothing short of the moon), I stepped down. 
 
 I looked around, wondering where I might find my destination. Picking the area where the buildings were packed together most densely, I maneuvered between jeeps, top brass and sentries. 
 
@@ -100,6 +100,8 @@ They mix with the general population, breathing in and out the problems of the c
 
 "Sure." 
 
-When he came back, he had a two-foot pile of books in his hands. We spoke a bit more, he praised me again, and ordered a jeep to return me to the main gate. From there I took a taxi. Once inside the cab I started looking through the titles of the books he had given me. 
+When he came back, he had a two-foot pile of books in his hands.
+
+We spoke a bit more, he praised me again, and ordered a jeep to return me to the main gate. From there I took a taxi. Once inside the cab I started looking through the titles of the books he had given me. 
 
 Great! I thought. Books on discipline, morale, understanding guerrilla warfare, physical training, collective psychology—perfect. But what's this? He must have become over-enthusiastic when I said I wanted to help our cadres kill their undisciplined habits—he included a book titled Rifle Training. 

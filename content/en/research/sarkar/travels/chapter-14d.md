@@ -1,9 +1,10 @@
 ---
 title: "Greatest hindrance to universalism"
 heading: "Chapter 14d"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "The first and foremost change they should execute is the elimination of the passport and visa system."
 c: "indigo"
 weight: 228
+icon: "Dada Dharmavedananda"
 author: Dada Dharmavedananda
 ---
  
@@ -14,78 +15,123 @@ Someone lit a candle. Baba spoke of mystical matters, and then of the future.
 
 At one point He asked us a question:
 
-"When the spiritual-moralists gain power, when they are in a position to directly influence the society, what is the first major initiative they should implement ?" 
+{{< l a="Baba" >}}
+When the spiritual-moralists gain power, when they are in a position to directly influence the society, what is the first major initiative they should implement?
 
 The first and foremost change they should execute is the elimination of the passport and visa system. 
 
-This system is the greatest hindrance to the establishment of universal kinship." 
+**This system is the greatest hindrance to the establishment of universal kinship.**
+{{< /l >}}
 
 
-### Making ideal humans 
+## Making ideal humans 
 
 In today's reporting session all the district in-charges of the north area of the Indian Sector were present. 
 
 A district in-charge who was about 35 years old stood in the front. 
 
-Baba asked him, "Do you know you are suffering from tuberculosis?" 
+Baba asked him:
+
+{{< l a="Baba" >}}
+Do you know you are suffering from tuberculosis?
+{{< /l >}}
 
 "Yes, Baba." 
 
-"Did you seek diagnosis and treatment by a medical doctor?" "Yes, Baba." 
+{{< l a="Baba" >}}
+Did you seek diagnosis and treatment by a medical doctor?
+{{< /l >}}
 
-"And did it help?" "No, Baba." 
+Yes, Baba." 
 
-"Why didn't you take the help of any Dada? And why do you still secretly continue your nasty habit with that lady?" 
+{{< l a="Baba" >}}
+Did it help?
+{{< /l >}}
+
+No, Baba." 
+
+{{< l a="Baba" >}}
+Why didn't you take the help of any Dada? And why do you still secretly continue your nasty habit with that lady?
+{{< /l >}}
+
 
 Baba's words sent a shock through the room. The Margi quickly shuffled his feet and simultaneously sighed. He was so embarrassed that he looked ready to die. 
 
-"Do you think Baba cannot see?"
+
+{{< l a="Baba" >}}
+Do you think Baba cannot see?
+{{< /l >}}
 
 "No, Baba ... Baba knows everything." 
 
-"Do you deserve punishment." 
+{{< l a="Baba" >}}
+Do you deserve punishment?
+{{< /l >}}
 
 "Yes, Baba." 
 
-"Take off your shirt. Yes. Now come closer." 
+{{< l a="Baba" >}}
+Take off your shirt. Yes. Now come closer.
+{{< /l >}}
 
-Baba raised His stick in the air and brought it down with a snapping sound 
-below the ribs on the right side of the man. Once, twice, three times. The Margi 
-winced slightly.
+Baba raised His stick in the air and brought it down with a snapping sound below the ribs on the right side of the man. Once, twice, three times. The Margi  winced slightly.
 
-"Turn in the other direction." 
+{{< l a="Baba" >}}
+Turn in the other direction.
+{{< /l >}}
 
 He beat him now thrice on the left side. 
 
-"If you correct yourself, and reinvest that misutilized energy in social work, you will become a new man. An ideal man. What do you say?" 
+{{< l a="Baba" >}}
+If you correct yourself, and reinvest that misutilized energy in social work, you will become a new man. An ideal man. What do you say?
+{{< /l >}}
 
 He stood up a little straighter and said, "Baba, I will be an ideal man." 
 
-"Eh, what did you say?" 
+<!-- "Eh, what did you say?" 
 
-In a forceful voice he said, "Baba, I will be an ideal man!" "Have you all heard his words?" We all said, "Yes, Baba." 
+In a forceful voice he said, "Baba, I will be an ideal man!"  -->
 
-"GS Dada, take my stick. Now, touch it to his chest. Yes, and twist it back and forth." 
+<!-- "Have you all heard his words?" We all said, "Yes, Baba."  -->
+
+
+{{< l a="Baba" >}}
+GS Dada, take my stick. Now, touch it to his chest. Yes, and twist it back and forth.
+{{< /l >}}
 
 As the General Secretary turned the stick, the man suddenly took a deep and long breath. 
 
-"Now do the same at the opposite point of his back." 
+{{< l a="Baba" >}}
+Now do the same at the opposite point of his back.
+{{< /l >}}
 
 Again the Margi took a strong breath. 
 
-"How do you feel now, my boy?" 
+{{< l a="Baba" >}}
+How do you feel now, my boy?
+{{< /l >}}
 
 "I feel very good, Baba!" 
 
-"Have you had any x-rays taken?" 
+{{< l a="Baba" >}}
+Have you had any x-rays taken?
+{{< /l >}}
+
 
 "Yes, Baba." 
 
-"Tomorrow go to the hospital and have another x-ray made. You will see that your disease is now 80% cured. It will soon become completely cured if you strictly follow the Sixteen Points (of physical, mental and spiritual health). What do you say?" 
+{{< l a="Baba" >}}
+Tomorrow go to the hospital and have another x-ray made. You will see that your disease is now 80% cured. It will soon become completely cured if you strictly follow the Sixteen Points (of physical, mental and spiritual health). What do you say?
+{{< /l >}}
+
 
 "I will be the ideal son of Baba!" 
 
-"Yesss." Baba gave a slight wave of His hand. 
+{{< l a="Baba" >}}
+Yesss.
+{{< /l >}}
+
+Baba gave a slight wave of His hand. 
 
 After paying his respect, the Margi stepped back into his place. 
 
@@ -95,7 +141,8 @@ Tonight as I sit here writing, I think back that after reporting we all left for
 
 For us it is no miracle—it is simply one of Baba's ways to increase our commitment to Sixteen Points and guru. And for that Margi, well, who can say why he attracted Baba's grace? 
 
-### The world is the mind 
+
+## The World is the Mind 
 
 Goteborg, Sweden. This morning, while taking the ferry from Alborg, Denmark, I read one of the Don Juan books by Carlos Castaneda. Though I have some doubt about how completely factual his books are. they at least partially reflect the mystic teachings of the native Mexicans. 
 

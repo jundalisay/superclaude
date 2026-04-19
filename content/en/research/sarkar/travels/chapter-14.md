@@ -1,9 +1,10 @@
 ---
 title: "Become an Ideal Person"
 heading: "Chapter 14"
-description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
+description: "As the car screeched in, I threw the door open, sprinted to the train, and jumped in, out of breath."
 c: "indigo"
 weight: 216
+icon: "Dada Dharmavedananda"
 author: Dada Dharmavedananda
 ---
 
