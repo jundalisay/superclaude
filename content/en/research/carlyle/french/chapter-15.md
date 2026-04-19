@@ -1,5 +1,14 @@
-Chapter 1.3.III.
-The Notables.
+---
+heading: Chapter 15
+title: "The Notables"
+weight: 29
+a: "Thomas Carlyle"
+description: ""
+c: "darkslategray"
+---
+
+
+<!-- Chapter 1.3.III. -->
 
 
 The Œil-de-Bœuf dolorously grumbles.

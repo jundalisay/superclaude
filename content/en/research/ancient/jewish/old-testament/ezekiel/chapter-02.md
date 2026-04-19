@@ -1,14 +1,14 @@
 ---
 heading: Ezekiel 2
 title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+description: "We replace God with Anu of the Anunnaki"
 weight: 6
 c: "firebrick"
 ---
 
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>1</sup> [To Ezekiel] Son of man, stand up. 
 {{< /l >}}
 
@@ -18,7 +18,7 @@ c: "firebrick"
 
 <!-- , that I heard him that spake unto me.  -->
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>3</sup> Son of man, I send you to the Israelites, to a rebellious nation that had rebelled against me.
 
 They and their fathers have transgressed against me, even to this very day. 

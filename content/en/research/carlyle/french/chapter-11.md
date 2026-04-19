@@ -2,7 +2,8 @@
 heading: Chapter 11
 title: "Social Contract"
 weight: 29
-# description: "He wrote the history of trading cities from 960 AD -- On the Chinese and Arab Trade in the 12th and 13th Centuries."
+description: ""
+icon: "Thomas Carlyle"
 c: "darkslategray"
 ---
 
@@ -11,7 +12,9 @@ c: "darkslategray"
 <!-- Chapter 1.2.VII. -->
 
 
-In such succession of singular prismatic tints, flush after flush suffusing our horizon, does the Era of Hope dawn on towards fulfilment. Questionable! As indeed, with an Era of Hope that rests on mere universal Benevolence, victorious Analysis, Vice cured of its deformity; and, in the long run, on Twenty-five dark savage Millions, looking up, in hunger and weariness, to that Ecce-signum of theirs “forty feet high,”—how could it but be questionable?
+In such succession of singular prismatic tints, flush after flush suffusing our horizon, does the Era of Hope dawn on towards fulfilment. 
+
+Questionable! As indeed, with an Era of Hope that rests on mere universal Benevolence, victorious Analysis, Vice cured of its deformity; and, in the long run, on Twenty-five dark savage Millions, looking up, in hunger and weariness, to that Ecce-signum of theirs “forty feet high,”—how could it but be questionable?
 
 Through all time, if we read aright, sin was, is, will be, the parent of misery. This land calls itself most Christian, and has crosses and cathedrals; but its High-priest is some Roche-Aymon, some Necklace-Cardinal Louis de Rohan. The voice of the poor, through long years, ascends inarticulate, in Jacqueries, meal-mobs; low-whimpering of infinite moan: unheeded of the Earth; not unheeded of Heaven. Always moreover where the Millions are wretched, there are the Thousands straitened, unhappy; only the Units can flourish; or say rather, be ruined the last. Industry, all noosed and haltered, as if it too were some beast of chase for the mighty hunters of this world to bait, and cut slices from,—cries passionately to these its well-paid guides and watchers, not, Guide me; but, Laissez faire, Leave me alone of your guidance! What market has Industry in this France? For two things there may be market and demand: for the coarser kind of field-fruits, since the Millions will live: for the fine kinds of luxury and spicery,—of multiform taste, from opera-melodies down to racers and courtesans; since the Units will be amused. It is at bottom but a mad state of things.
 

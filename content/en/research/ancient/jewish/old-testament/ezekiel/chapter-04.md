@@ -1,14 +1,14 @@
 ---
 heading: Ezekiel 4
 title: "Instructions to Lay Seige"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+description: "We replace God with Anu of the Anunnaki"
 weight: 10
 c: "firebrick"
 ---
 
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>1</sup> [To Ezekiel] Son of man, take a tile, and lay it before you.
 
 Pourtray upon it the city, [even] Jerusalem.  
@@ -52,8 +52,10 @@ From my youth up to now have I not eaten that which died of itself, or is torn i
 {{< /r >}}
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>15</sup> I have given you cow’s dung for man’s dung. You shall prepare your bread with it.
 
-<sup>16</sup> I will break the staff of bread in Jerusalem: They shall eat bread by weight, and with care. They shall drink water by measure, and with astonishment. 17 So that they may want bread and water, and be astonied one with another, and consume away for their iniquity.
+<sup>16</sup> I will break the staff of bread in Jerusalem: They shall eat bread by weight, and with care. They shall drink water by measure, and with astonishment. 
+
+17 So that they may want bread and water, and be astonied one with another, and consume away for their iniquity.
 {{< /l >}}

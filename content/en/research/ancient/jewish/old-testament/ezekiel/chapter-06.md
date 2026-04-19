@@ -1,21 +1,21 @@
 ---
 heading: Ezekiel 6
-title: "Enki Orders"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: "Anu Orders"
+description: "We replace God with Anu of the Anunnaki"
 weight: 14
 c: "firebrick"
 ---
 
 
-<sup>1</sup> The word of Enki came unto me, saying:
+<sup>1</sup> The word of Anu came unto me, saying:
 
 
-{{< l a="Enki" >}}
+{{< l a="Anu" >}}
 <sup>2</sup> Son of man, face towards the mountains of Israel, and prophesy against them
 
-<sup>3</sup> Say, You mountains of Israel, hear the word of Enki.
+<sup>3</sup> Say, You mountains of Israel, hear the word of Anu.
 
-<!-- Thus saith Enki to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, [even]  -->
+<!-- Thus saith Anu to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, [even]  -->
 
 I will bring a sword on you, and destroy your high places. 
 

@@ -1,13 +1,13 @@
 ---
 heading: Ezekiel 7
 title: "The Coming of the End"
-description: "You son of man, the end is come upon the four corners of the land."
+description: "We replace God with Anu of the Anunnaki"
 weight: 16
 c: "firebrick"
 ---
 
 
-<sup>1</sup> The word of Enki came unto me, saying:
+<sup>1</sup> The word of Anu came unto me, saying:
 
 
 <sup>2</sup> You son of man, the end is come upon the four corners of the land. 
@@ -61,7 +61,7 @@ But none goes to the battle: for my wrath [is] on all the multitude thereof.
 
 <sup>19</sup> They shall cast their silver in the streets, and their gold shall be removed.
 
-Their silver and their gold shall not be able to deliver them in the day of the wrath of Enki: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
+Their silver and their gold shall not be able to deliver them in the day of the wrath of Anu: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
 
 <sup>20</sup> As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations [and] of their detestable things therein: therefore have I set it far from them.
 

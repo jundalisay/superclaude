@@ -2,7 +2,8 @@
 heading: Chapter 10
 title: "Windbags"
 weight: 29
-# description: "He wrote the history of trading cities from 960 AD -- On the Chinese and Arab Trade in the 12th and 13th Centuries."
+a: "Thomas Carlyle"
+description: ""
 c: "darkslategray"
 ---
 
@@ -29,13 +30,18 @@ On the other hand, what a day, not of laughter, was that, when he threatened, fo
 
 What will not mortals attempt? From remote Annonay in the Vivarais, the Brothers Montgolfier send up their paper-dome, filled with the smoke of burnt wool.[45] The Vivarais provincial assembly is to be prorogued this same day: Vivarais Assembly-members applaud, and the shouts of congregated men. Will victorious Analysis scale the very Heavens, then?
 
-Paris hears with eager wonder; Paris shall ere long see. From Reveilion’s Paper-warehouse there, in the Rue St. Antoine (a noted Warehouse),—the new Montgolfier air-ship launches itself. Ducks and poultry are borne skyward: but now shall men be borne.[46] Nay, Chemist Charles thinks of hydrogen and glazed silk. Chemist Charles will himself ascend, from the Tuileries Garden; Montgolfier solemnly cutting the cord. By Heaven, he also mounts, he and another? Ten times ten thousand hearts go palpitating; all tongues are mute with wonder and fear; till a shout, like the voice of seas, rolls after him, on his wild way. He soars, he dwindles upwards; has become a mere gleaming circlet,—like some Turgotine snuff-box, what we call “Turgotine Platitude;” like some new daylight Moon! Finally he descends; welcomed by the universe. Duchess Polignac, with a party, is in the Bois de Boulogne, waiting; though it is drizzly winter; the 1st of December 1783. The whole chivalry of France, Duke de Chartres foremost, gallops to receive him.[47]
+Paris hears with eager wonder; Paris shall ere long see. From Reveilion’s Paper-warehouse there, in the Rue St. Antoine (a noted Warehouse),—the new Montgolfier air-ship launches itself. Ducks and poultry are borne skyward: but now shall men be borne.[46] Nay, Chemist Charles thinks of hydrogen and glazed silk. Chemist Charles will himself ascend, from the Tuileries Garden; Montgolfier solemnly cutting the cord.
+
+By Heaven, he also mounts, he and another? Ten times ten thousand hearts go palpitating; all tongues are mute with wonder and fear; till a shout, like the voice of seas, rolls after him, on his wild way. He soars, he dwindles upwards; has become a mere gleaming circlet,—like some Turgotine snuff-box, what we call “Turgotine Platitude;” like some new daylight Moon! 
+
+Finally he descends; welcomed by the universe. Duchess Polignac, with a party, is in the Bois de Boulogne, waiting; though it is drizzly winter; the 1st of December 1783. The whole chivalry of France, Duke de Chartres foremost, gallops to receive him.[47]
 
 Beautiful invention; mounting heavenward, so beautifully,—so unguidably! Emblem of much, and of our Age of Hope itself; which shall mount, specifically-light, majestically in this same manner; and hover,—tumbling whither Fate will. Well if it do not, Pilatre-like, explode; and demount all the more tragically!—So, riding on windbags, will men scale the Empyrean.
 
-Or observe Herr Doctor Mesmer, in his spacious Magnetic Halls. Long-stoled he walks; reverend, glancing upwards, as in rapt commerce; an Antique Egyptian Hierophant in this new age. Soft music flits; breaking fitfully the sacred stillness. Round their Magnetic Mystery, which to the eye is mere tubs with water,—sit breathless, rod in hand, the circles of Beauty and Fashion, each circle a living circular Passion-Flower: expecting the magnetic afflatus, and new-manufactured Heaven-on-Earth. O women, O men, great is your infidel-faith! A Parlementary Duport, a Bergasse, D’Espréménil we notice there; Chemist Berthollet too,—on the part of Monseigneur de Chartres.
+Or observe Herr Doctor Mesmer, in his spacious Magnetic Halls. Long-stoled he walks; reverend, glancing upwards, as in rapt commerce; an Antique Egyptian Hierophant in this new age. Soft music flits; breaking fitfully the sacred stillness. 
 
-Had not the Academy of Sciences, with its Baillys, Franklins, Lavoisiers, interfered! But it did interfere. (Lacretelle, 18me Siecle, iii.258.) Mesmer may pocket his hard money, and withdraw. Let him walk silent by the shore of the Bodensee, by the ancient town of Constance; meditating on much. For so, under the strangest new vesture, the old great truth (since no vesture can hide it) begins again to be revealed: That man is what we call a miraculous creature, with miraculous power over men; and, on the whole, with such a Life in him, and such a World round him, as victorious Analysis, with her Physiologies, Nervous-systems, Physic and Metaphysic, will never completely name, to say nothing of explaining. Wherein also the Quack shall, in all ages, come in for his share.[48]
+Round their Magnetic Mystery, which to the eye is mere tubs with water,—sit breathless, rod in hand, the circles of Beauty and Fashion, each circle a living circular Passion-Flower: expecting the magnetic afflatus, and new-manufactured Heaven-on-Earth. O women, O men, great is your infidel-faith! A Parlementary Duport, a Bergasse, D’Espréménil we notice there; Chemist Berthollet too,—on the part of Monseigneur de Chartres.
 
+Had not the Academy of Sciences, with its Baillys, Franklins, Lavoisiers, interfered! But it did interfere. (Lacretelle, 18me Siecle, iii.258.) Mesmer may pocket his hard money, and withdraw. Let him walk silent by the shore of the Bodensee, by the ancient town of Constance; meditating on much. For so, under the strangest new vesture, the old great truth (since no vesture can hide it) begins again to be revealed: 
 
-
+That man is what we call a miraculous creature, with miraculous power over men; and, on the whole, with such a Life in him, and such a World round him, as victorious Analysis, with her Physiologies, Nervous-systems, Physic and Metaphysic, will never completely name, to say nothing of explaining. Wherein also the Quack shall, in all ages, come in for his share.[48]

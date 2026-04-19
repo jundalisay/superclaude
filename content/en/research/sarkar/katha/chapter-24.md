@@ -47,16 +47,13 @@ So Shrii Puneet Narain Singhji opposed them in mild sarcastic tones.
 
 So far only Mithilii language was famous for its double edged sweet satires. But after hearing Puneet Baba, one  believed that Angika was not lagging behind in this respect. In fact it appeared superior.
 
-Whenever I would send someone who wanted to take initiation to Jamalpur and
-he came searching for Bindeshwariji’s house, Puneet Baba would make an effort to
-dissuade him or confuse him but somehow every-time he did not succeed and mostly
-people would go ahead with their resolve to take initiation. 
+Whenever I would send someone who wanted to take initiation to Jamalpur and he came searching for Bindeshwariji’s house, Puneet Baba would make an effort to dissuade him or confuse him but somehow every-time he did not succeed and mostly people would go ahead with their resolve to take initiation. 
 
-Such gentlemen would mention to me their encounter with Puneet Baba after they returned from Jamalpur and
-the younger brother of Bindeshwariji also mentioned this to me.
+Such gentlemen would mention to me their encounter with Puneet Baba after they returned from Jamalpur and the younger brother of Bindeshwariji also mentioned this to me.
 
-Puneet Baba would on many occasions cut very civilized jokes about sadhana when he would talk with me. One day in this context I told him that he was doing a fine job in Jamalpur for the Marga. He enquired as to how. I replied that when he tried to dissuade someone from taking sadhana, he was in fact testing his sincerity, and when
-he takes initiation in spite of this criticism of the Marga, the new sadhakas would really
+Puneet Baba would on many occasions cut very civilized jokes about sadhana when he would talk with me. One day in this context I told him that he was doing a fine job in Jamalpur for the Marga. 
+
+He enquired as to how. I replied that when he tried to dissuade someone from taking sadhana, he was in fact testing his sincerity, and when he takes initiation in spite of this criticism of the Marga, the new sadhakas would really
 establish themselves firmly in spirituality and sadhana.
 
 Due to his failures in his effort to dissuade people from the Marga, he created a small opposition group which would freely criticize the Marga and Margiis everywhere.
@@ -66,20 +63,23 @@ During this period when Bindeshwariji returned from Bhagalpur DMC in absolutely 
 But as the opposition and the critics increased so the growth of the Marga also increased simultaneously.
 
 
-## OPPOSITION TO ANANDA MARGA
+## Opposition To Ananda Marga
 
 Due to the spread of the Marga and the growth of its popularity; seeing the way in which Baba was being respected and liked; and seeing His non availability due to his busy schedule, some of the neighbours and colleagues of Baba began to envy and oppose him for no rhyme or reason. 
 
 But their opposition was restricted to only verbal caustic comments. In the meanwhile a journalist of Jamalpur took initiation. He was the reporter of a Hindi magazine.
 
-In the beginning he was all praise for the Marga and its process of meditation, but when he was asked to be strict about his moral code, he began to lose interest in sadhana. He gradually severed his ties with Marga. Not only that, he also began to express his negative feelings through his dispatches in that Hindi paper. On this
-account the Margiis of Muzaffarpur filed a case against him and the paper wherein
-these things were published.
+In the beginning he was all praise for the Marga and its process of meditation, but when he was asked to be strict about his moral code, he began to lose interest in sadhana. 
+
+He gradually severed his ties with Marga. Not only that, he also began to express his negative feelings through his dispatches in that Hindi paper. 
+
+On this account the Margiis of Muzaffarpur filed a case against him and the paper wherein these things were published.
 
 These days Baba was putting all emphasis on sadhana and the following of the moral code. All the disciples were therefore busy with these activities. 
 
-When the news of opposition reached Baba, He said, “The higher your objective the greater will be the obstacles in the way. Obstacles are auspicious signals and denote success. Sadhana really means struggle. You will, therefore, not be afraid of obstacles, but thinking that the realization of the objectives is near, will face them
-with enthusiasm and caution. 
+When the news of opposition reached Baba, He said, “The higher your objective the greater will be the obstacles in the way. Obstacles are auspicious signals and denote success. 
+
+Sadhana really means struggle. You will, therefore, not be afraid of obstacles, but thinking that the realization of the objectives is near, will face them with enthusiasm and caution. 
 
 Keeping a peaceful mind all the time, march ahead keeping your objective in front of you – victory is surely yours. “ 
 

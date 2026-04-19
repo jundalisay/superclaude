@@ -1,12 +1,11 @@
 ---
 title: "A Devotee"
 heading: Chapter 16
-weight: 38
+weight: 36
 description: "I went in after doing pranam. I told Baba that a gentleman was waiting outside for diiksa"
 c: "indigo"
 author: Nagina
 icon: Nagina
-
 ---
 
 
@@ -77,7 +76,9 @@ I came out and began talking to that gentleman. When Baba came out, he pointed t
 He is my Baba, my Supreme Father! Are you my Father, Baba?
 {{< /r >}}
 
-Baba said, "Yes, I am your Baba."
+{{< l a="Baba" >}}
+Yes, I am your Baba.
+{{< /l >}}
 
 Then Baba asked me whether I could take him to the field for a walk. I agreed.
 
@@ -93,8 +94,10 @@ For some time, he was silent then he asked Baba:
 Will you do me a favour?
 {{< /r >}}
 
+{{< l a="Baba" >}}
+Yes, certainly.
+{{< /l >}}
 
-Baba replied "Yes, certainly."
 
 As Baba said this, he put his head on Baba's lap and lay down. Baba began to rub his back and arm. Sometimes Baba was also massaging his arms. 
 
@@ -106,11 +109,19 @@ I will never forget this experience of witnessing Baba's divine love. Blessed is
 
 How pure must his previous life's karma be, that in the first darshan itself he had God realization on Baba and was getting such affection from Him. 
 
-On return, Baba said, "Nagina, take him with you and look after his needs."
+On return, Baba said:
+
+{{< l a="Baba" >}}
+Nagina, take him with you and look after his needs.
+{{< /l >}}
+
 
 I asked, "Baba, will he be able to travel today?”
 
-Baba said, "Yes."
+
+{{< l a="Baba" >}}
+Yes.
+{{< /l >}}
 
 I took him along to Bindeshwariji’s house, and after taking care of everything, I took him to the railway station and saw him off.
 
@@ -118,16 +129,29 @@ Many times after that when he came for Baba's darshan, that gentleman would beco
 
 In that condition he would normally say, “Hare Ram Hare Krishna”, and then would become quiet again.
 
-I once asked Baba, “Why does he speak like this in Your presence?”
+I once asked Baba:
 
-Baba gently smiled and said, "He sees me sometimes as Rama and sometimes as Krishna and so speaks like this."
+{{< r a="Nagina" >}}
+Why does he speak like this in Your presence?
+{{< /r >}}
+
+Baba gently smiled and said:
+
+{{< l a="Baba" >}}
+He sees me sometimes as Rama and sometimes as Krishna and so speaks like this.
+{{< /l >}}
 
 One day, while the man was crying and was in ecstasy, Baba asked me:
 
-"Nagina, do you recall that chapter of Bhagavad Giita where Arjuna says, ‘My body perspires and trembles. My mouth is dry, my hair stands on end due to overwhelming bliss’?
+{{< l a="Baba" >}}
+Nagina, do you recall that chapter of Bhagavad Giita where Arjuna says, ‘My body perspires and trembles. My mouth is dry, my hair stands on end due to overwhelming bliss’?
+{{< /l >}}
 
-I said, "Yes, Baba."
+{{< r a="Nagina" >}}
+Yes, Baba.
+{{< /r >}}
 
-Baba said, "This is the state of this sadhaka." 
-
+{{< l a="Baba" >}}
+This is the state of this sadhaka.
+{{< /l >}}
 

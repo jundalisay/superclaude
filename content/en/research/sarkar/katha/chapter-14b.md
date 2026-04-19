@@ -18,21 +18,23 @@ But next morning his brother and other relatives began to enquire about his abno
 He is not well. Please leave him alone.
 {{< /r >}}
 
-Bindeshwariji was always in Baba bhava or Brahma bhava. Whenever anyone questioned him, he will either feel irritated or start weeping. It became his nature to laugh one moment and weep another. Sometimes his whole body would start trembling, his face would turn red and he would again become quiet and breathe heavily. All the times he was saying Baba! Baba! In the night he would sleep with me and liked to curl up in my lap. 
+Bindeshwariji was always in Baba bhava or Brahma bhava. Whenever anyone questioned him, he will either feel irritated or start weeping. It became his nature to laugh one moment and weep another.
+
+Sometimes his whole body would start trembling, his face would turn red and he would again become quiet and breathe heavily. All the times he was saying Baba! Baba! In the night he would sleep with me and liked to curl up in my lap. 
 
 In this way, I spent 2 days and 2 nights without sleep and somehow looked after him, but my misery increased when his brother and relations began to blame me for what they called his madness, as it was I who had
 insisted on his going to Jamalpur.
 
 Bindeshwariji was constantly abnormal and his irritation increased all the more
-when he heard them. And as he felt irritated his abnormality would increase. I got
-highly perplexed and disturbed at having to bear the caustic comments ofBindeshwariji's brother and relations. I requested one of the disciple brothers to inform
+when he heard them. 
+
+As he felt irritated his abnormality would increase. I got highly perplexed and disturbed at having to bear the caustic comments ofBindeshwariji's brother and relations. I requested one of the disciple brothers to inform
 Baba about it.
 
-Baba sent me word through him that in the evening I should to Him along with
-Bindeshwariji. Accordingly we reached there. There Bindeshwariji again became
-abnormal as soon as he did his sastaunga pranam to Him. Baba rebuked him and also
-educated him. After a long time he became somewhat normal.
-Baba then told him, 
+Baba sent me word through him that in the evening I should to Him along with Bindeshwariji. Accordingly we reached there. There Bindeshwariji again became abnormal as soon as he did his sastaunga pranam to Him. Baba rebuked him and also
+educated him.
+
+After a long time he became somewhat normal. Baba then told him, 
 
 {{< l a="Baba" >}}
 Look what you have done to Nagina! He cannot sleep well in the night and looking at your condition all your relatives also blame him. All this is because of you
@@ -69,38 +71,37 @@ with a quilt over his face. I asked the cook whether Bindeshwariji had taken his
 before going to bed and then I washed and sat on my cot next to Bindeshwariji's bed.
 The cook gave me my milk and I started drinking it.
 
-Then I heard Bindeshwariji weeping like a child. When I asked him the reason
-he was crying, he said tearfully, that I was drinking all the milk without sharing it with
-him. I asked the cook whether he had given milk to Bindeshwariji. He replied that he
-had taken his milk before going to bed. I enquired whether more milk was available. He
-replied in the negative and informed me that it was not possible to get milk so late in
-the night.
+Then I heard Bindeshwariji weeping like a child. When I asked him the reason he was crying, he said tearfully, that I was drinking all the milk without sharing it with him. I asked the cook whether he had given milk to Bindeshwariji. 
 
-Now I wondered also how to pacify Bindeshwari. When all efforts to persuade
-him to keep quiet failed, I asked him also what I should do to pacify him. At this he got
-up from his bed and told me to give the milk that remained in my cup. I said that it was
-left over after my drink and I hesitated to give it to him. He insisted on drinking the
-same milk and began to cry for it again. In the end I have him the same milk. He drunk
-it and laughed heartily like a child. After some time he slept. But after about half an
-hour he began to weep like this again. I got up and enquired as to what he wanted. He
-said he would like to sleep with me on my bed. I pleaded and persuaded in vain. In theend he had to be taken on my bed. I had to keep awake the whole night as I was not
-accustomed to sleep like this.
+He replied that he had taken his milk before going to bed. I enquired whether more milk was available. He replied in the negative and informed me that it was not possible to get milk so late in the night.
 
-Thereafter for a day or two he was normal and one night at about two in the
-morning he said he wanted water to drink. There was water and jug in the room on a
-table. I gave him a glass full but he refused to drink. I enquired as to what he wanted.
+Now I wondered also how to pacify Bindeshwari. When all efforts to persuade him to keep quiet failed, I asked him also what I should do to pacify him. 
+
+At this he got up from his bed and told me to give the milk that remained in my cup. I said that it was left over after my drink and I hesitated to give it to him. He insisted on drinking the same milk and began to cry for it again. 
+
+In the end I have him the same milk. He drunk it and laughed heartily like a child. After some time he slept. But after about half an hour he began to weep like this again. 
+
+I got up and enquired as to what he wanted. He
+said he would like to sleep with me on my bed. I pleaded and persuaded in vain. In theend he had to be taken on my bed. I had to keep awake the whole night as I was not accustomed to sleep like this.
+
+Thereafter for a day or two he was normal and one night at about two in the morning he said he wanted water to drink. There was water and jug in the room on a table. 
+
+I gave him a glass full but he refused to drink. I enquired as to what he wanted. 
+
 He kept quiet. After many enquiries he said that he would not drink that water. He
 needs fresh water.
 
-After hearing our talk their domestic servant came into our room and stood
-there. He went to the well and brought fresh water. Even so he refused to drink it. By
-now some of his relatives had also awakened and when everyone enquired what he
-wanted, he told me in a commanding tone to go and bring the water myself from the
-well. When I got up to do this one of his relative s forbade me quietly.
-At this Bindeshwariji flared up and said to me that I should go and fetch the
-water or he would break my head with a stick.
+After hearing our talk their domestic servant came into our room and stood there.
 
-“You seem to feel you are a big officer and show me the status of a superintendent”.
+He went to the well and brought fresh water. Even so he refused to drink it. By now some of his relatives had also awakened and when everyone enquired what he wanted, he told me in a commanding tone to go and bring the water myself from the well. 
+
+When I got up to do this one of his relative s forbade me quietly. At this Bindeshwariji flared up and said to me that I should go and fetch the water or he would break my head with a stick.
+
+
+{{< r a="Bindeshwariji" >}}
+You seem to feel you are a big officer and show me the status of a superintendent
+{{< /r >}}
+
 
 I listened to him quietly. When one of his relatives wanted to intervene, I
 forbade him to do so. I brought the water from the well and gave it to him to drink. After

@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 5
 title: "The Death of People"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+description: "We replace God with Anu of the Anunnaki"
 weight: 12
 c: "firebrick"
 ---
@@ -46,13 +46,13 @@ I will:
 
 I will cause my fury to rest on them and I will be comforted.
 
-They shall know that I Enki have spoken it in my zeal, when I have accomplished my fury in them. 
+They shall know that I Anu have spoken it in my zeal, when I have accomplished my fury in them. 
 
 <sup>14</sup> I will make you waste, and a reproach among the nations that are round about you, in the sight of all that pass by.
 
 <sup>15</sup> So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about you, when I shall execute judgments in you in anger and in fury and in furious rebukes. 
 
-I Enki have spoken it.
+I Anu have spoken it.
 
 <sup>16</sup> When I shall send upon them the evil arrows of famine, which shall be for their destruction, [and] which I will send to destroy you.
 
@@ -60,5 +60,5 @@ I will increase the famine on you, and will break your staff of bread:
 
 <sup>17</sup> So will I send upon you famine and evil beasts, and they shall bereave you; and pestilence and blood shall pass through you and I will bring the sword upon you. 
 
-I Enki have spoken it.
+I Anu have spoken it.
 

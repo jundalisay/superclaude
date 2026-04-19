@@ -86,8 +86,12 @@ Salutation to BABA the Lord of the Gods and the Supreme
 Divine
 
 PATNA DMC 1956
+
+
 Thus while in Muzaffarpur, in the minds of Margii brothers, my own troubled
 personal life had an easy flow. Those days pracar was going strong throughout Bihar.
+
+
 Those in Patna were doing Marga work with great sincerity and speed. Many
 individuals came within the fold of the Marga.
 

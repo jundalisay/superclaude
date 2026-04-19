@@ -32,9 +32,11 @@ Baba
 
 All the members of the family of Ram Bahadurji were overjoyed having had Baba’s darshan and having received his blessing. While describing this unbounded grace and kindness of Baba, Ram Bahadurji becomes so sentimental that he moves even the stony hearts to devotion and faith. How fortunate are Ram Bahadurji and his wife.
 
-Only a few days must have passed when Baba’s car again reached in front of
-Shri Ram Bahadurji’s house and the Lord called Ram Bahadurji. Shri Ram Bahadur,
-his wife and children all ran and came and fell at Baba’s feet.Really fortunate is this family that the lord comes Himself again and again to give them darshan. This was the third such fortunate occasion. This time Baba remained in His car, gave blessings to him and the members of his family and resumed his journey towards place where he was going.
+Only a few days must have passed when Baba’s car again reached in front of Shri Ram Bahadurji’s house and the Lord called Ram Bahadurji. 
+
+Shri Ram Bahadur, his wife and children all ran and came and fell at Baba’s feet.Really fortunate is this family that the lord comes Himself again and again to give them darshan. 
+
+This was the third such fortunate occasion. This time Baba remained in His car, gave blessings to him and the members of his family and resumed his journey towards place where he was going.
 
 Seeing the simplicity and the pure hearts of this family. Baba graced them with still greater proximity and Shri Ram Bahadurji was transferred to Jamalpur. He remained in Jamalpur for nearly three years as D.S.P. in the Bihar Military Police.
 
@@ -69,7 +71,8 @@ his devotional songs and kiirtan. There is no fixed tune for his singing and kii
 
 Due to the grace and contact with Baba, he became quite prosperous and was transferred to Dhanbad. There he did yeoman’s work to spread the philosophy and idealism of the mission and in the month of October 1968 with the help of local Margiis and after obtaining Baba’s permission he arranged DMG at Dhanbad.
 
-### DHANBAD DMC
+
+### Dhanbad DMC
 
 This DMC was most successful. He had made preparation for taking out, agrand procession. However, it began to rain just when the procession was to start. 
 
@@ -80,21 +83,27 @@ The rains stopped and the Margiis took out the procession with great enthusiasm.
 That he has gone to their residence and looked at it from outside and come back. How kind and graceful in Baba and how fortunate are Mr. and Mrs. Ram Bahadurji whom Baba has granted such devotion and faith.
 
 
-### BABA LISTENS TO THE PRAYERS OF RAM BAHADURJI THE GREAT DEVOTEE
+### Baba Listens To The Prayers Of Ram Bahadurji The Great Devotee
 
-Only recently on 27 December 1981 I was going to Ananda Nagar, for the DMC along with my family. Shri Ram Bahadur was also travelling by the same train along with his family. Our train was more than eight hours late and so we missed the connection in Dhandbad. We decided to hire a tax but as we discovered, neither the taxi driver nor we knew the way.
+Only recently on 27 December 1981 I was going to Ananda Nagar, for the DMC along with my family. Shri Ram Bahadur was also travelling by the same train along with his family.
 
-At about six in the evening our taxi reached the Chas police post and the taxi driver and the owner were not prepared to go any further that night. The night was dark and the way was unknown. The unmetalled road passed through a dense forest. Our
+Our train was more than eight hours late and so we missed the connection in Dhandbad. We decided to hire a tax but as we discovered, neither the taxi driver nor we knew the way.
+
+At about six in the evening our taxi reached the Chas police post and the taxi driver and the owner were not prepared to go any further that night. 
+
+The night was dark and the way was unknown. The unmetalled road passed through a dense forest. Our
 difficulty was that ladies and children were with us and there was so place where we could stay.
 
-Under the circumstances, it seemed that pressing on and reaching Ananda Nagar somehow, was the only course open to us. Even the police officers requested the taxi-driver to proceed, but he was adamant. Feeling completely helpless, I requested Shri Ram Bahadurji to pray for Baba’s help. At first he made several excuses, but when I reminded him about the saying of the great saint Vyaas, who wrote the Mahabharat and many Puranas:
+Under the circumstances, it seemed that pressing on and reaching Ananda Nagar somehow, was the only course open to us. Even the police officers requested the taxi-driver to proceed, but he was adamant. Feeling completely helpless, I requested Shri Ram Bahadurji to pray for Baba’s help.
 
-“There are two truths embedded in the eighteen Puranas-one is that virtue
-means helping the needy and vice means causing pain to others”.
+At first he made several excuses, but when I reminded him about the saying of the great saint Vyaas, who wrote the Mahabharat and many Puranas:
 
-I asked him to help us in our hour of need by asking Baba for help. Looking at our difficulties he fell silent for sometime and remembered Baba and asked Him to remove our difficulty. And lo, a miracle happened in a few minutes. Three persons on a
-motorcycle reached the spot where we were, and enquired what the trouble was, while
-we and the policemen were talking to the taxi-man.
+
+“There are two truths embedded in the eighteen Puranas-one is that virtue means helping the needy and vice means causing pain to others”.
+
+I asked him to help us in our hour of need by asking Baba for help. Looking at our difficulties he fell silent for sometime and remembered Baba and asked Him to remove our difficulty. 
+
+And lo, a miracle happened in a few minutes. Three persons on a motorcycle reached the spot where we were, and enquired what the trouble was, while we and the policemen were talking to the taxi-man.
 
 “What is the trouble?” they enquired.
 
@@ -103,9 +112,7 @@ Shri Ram Bahadur pointed out that we were going to Ananda Nagar, but due to our 
 
 The riders on the motor cycle said, “We too are going to Ananda Nagar” and they asked the driver to follow them without any worry.
 
-The driver pleaded that he might lose his way on the way back but the riders on
-the motorcycle informed him that they were coming from Dhanbad as contractors to
-erect the pandal at Ananda Nagar. 
+The driver pleaded that he might lose his way on the way back but the riders on the motorcycle informed him that they were coming from Dhanbad as contractors to erect the pandal at Ananda Nagar. 
 
 Their truck with the goods had gone ahead and when they reach Ananda Nagar, the truck would return to Dhanbad. They suggested
 that the taxi might return with the truck from Ananda Nagar to Dhanbad.Now the driver was left with no excuse and when the police officers pressed him further, he had to carry us to Ananda Nagar. From there for the entire way, Shri

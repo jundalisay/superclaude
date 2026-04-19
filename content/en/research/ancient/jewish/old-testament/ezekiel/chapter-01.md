@@ -1,12 +1,11 @@
 ---
 heading: Ezekiel 1
 title: "The Anunnaki Visit"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+description: "We replace God with Anu of the Anunnaki"
+# description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 4
 c: "firebrick"
 ---
-
-{{< n n="Here, we replace 'God' with 'Anunnaki'" >}}
 
 
 <sup>1</sup> In year 30, month 4, day 5, I was among the captives by the river of Chebar.
@@ -17,8 +16,8 @@ The heavens were opened, and I saw visions of the Anunnaki.
 
 <sup>3</sup> Ezekiel the priest was the son of Buzi. 
 
-The word of Enki came expressly to him in the land of the Chaldeans by the river Chebar.
-- The hand of Enki was there upon him. 
+The word of Anu came expressly to him in the land of the Chaldeans by the river Chebar.
+- The hand of Anu was there upon him. 
 
 <sup>4</sup> I looked, and, behold, a whirlwind came out of the north.
 
@@ -113,6 +112,6 @@ There was a bright fire around his loins going down.
 
 This was the appearance of the Anunnaki. 
 
- <!-- likeness of the glory of Enki. And -->
+ <!-- likeness of the glory of Anu. And -->
 
 When I saw them I fell on my face, and I heard a voice of one that spoke.

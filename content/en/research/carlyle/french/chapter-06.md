@@ -2,13 +2,23 @@
 heading: Chapter 6
 title: "Petition in Hieroglyphs"
 weight: 12
-# description: "He wrote the history of trading cities from 960 AD -- On the Chinese and Arab Trade in the 12th and 13th Centuries."
+a: "Thomas Carlyle"
+description: ""
 c: "darkslategray"
 ---
 
 
 
-With the working people, again it is not so well. Unlucky! For there are twenty to twenty-five millions of them. Whom, however, we lump together into a kind of dim compendious unity, monstrous but dim, far off, as the canaille; or, more humanely, as “the masses.” Masses, indeed: and yet, singular to say, if, with an effort of imagination, thou follow them, over broad France, into their clay hovels, into their garrets and hutches, the masses consist all of units. Every unit of whom has his own heart and sorrows; stands covered there with his own skin, and if you prick him he will bleed. O purple Sovereignty, Holiness, Reverence; thou, for example, Cardinal Grand-Almoner, with thy plush covering of honour, who hast thy hands strengthened with dignities and moneys, and art set on thy world watch-tower solemnly, in sight of God, for such ends,—what a thought: that every unit of these masses is a miraculous Man, even as thyself art; struggling, with vision, or with blindness, for his infinite Kingdom (this life which he has got, once only, in the middle of Eternities); with a spark of the Divinity, what thou callest an immortal soul, in him!
+With the working people, again it is not so well. Unlucky! 
+
+There are 25 millions of them.
+
+Whom, however, we lump together into a kind of dim compendious unity, monstrous but dim, far off, as the canaille; or, more humanely, as “the masses.” 
+
+Masses, indeed: and yet, singular to say, if, with an effort of imagination, thou follow them, over broad France, into their clay hovels, into their garrets and hutches, the masses consist all of units. Every unit of whom has his own heart and sorrows; stands covered there with his own skin, and if you prick him he will bleed.
+
+O purple Sovereignty, Holiness, Reverence; thou, for example, Cardinal Grand-Almoner, with thy plush covering of honour, who hast thy hands strengthened with dignities and moneys, and art set on thy world watch-tower solemnly, in sight of God, for such ends,—what a thought: that every unit of these masses is a miraculous Man, even as thyself art; struggling, with vision, or with blindness, for his infinite Kingdom (this life which he has got, once only, in the middle of Eternities); with a spark of the Divinity, what thou callest an immortal soul, in him!
+
 
 Dreary, languid do these struggle in their obscure remoteness; their hearth cheerless, their diet thin. For them, in this world, rises no Era of Hope; hardly now in the other,—if it be not hope in the gloomy rest of Death, for their faith too is failing. Untaught, uncomforted, unfed! A dumb generation; their voice only an inarticulate cry: spokesman, in the King’s Council, in the world’s forum, they have none that finds credence. At rare intervals (as now, in 1775), they will fling down their hoes and hammers; and, to the astonishment of thinking mankind,[29] flock hither and thither, dangerous, aimless; get the length even of Versailles. Turgot is altering the Corn-trade, abrogating the absurdest Corn-laws; there is dearth, real, or were it even “factitious;” an indubitable scarcity of bread. And so, on the second day of May 1775, these waste multitudes do here, at Versailles Château, in wide-spread wretchedness, in sallow faces, squalor, winged raggedness, present, as in legible hieroglyphic writing, their Petition of Grievances. The Château gates have to be shut; but the King will appear on the balcony, and speak to them. They have seen the King’s face; their Petition of Grievances has been, if not read, looked at. For answer, two of them are hanged, on a “new gallows forty feet high;” and the rest driven back to their dens,—for a time.
 
