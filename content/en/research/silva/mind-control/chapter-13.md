@@ -3,6 +3,7 @@ title: "Form Your Own Practice Group"
 heading: "Chapter 13"
 weight: 26
 c: "steelblue"
+icon: "Silva"
 description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
 contributors: ['Silva']
 ---

@@ -3,7 +3,8 @@ title: "Speed Learning"
 heading: "Chapter 6"
 weight: 12
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "When you learn the memory techniques in the last chapter you will be well on your way to our next step, Speed Learning."
 contributors: ['Silva']
 ---
 

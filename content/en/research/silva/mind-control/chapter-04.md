@@ -3,7 +3,8 @@ title: "Dynamic Meditation"
 heading: "Chapter 4"
 weight: 8
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "The passive meditation you have just read about (and I hope are about to experience) can be accomplished in other ways."
 contributors: ['Silva']
 ---
 

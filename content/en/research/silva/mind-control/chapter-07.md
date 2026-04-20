@@ -3,7 +3,8 @@ title: "Creative Sleep"
 heading: "Chapter 7"
 weight: 14
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "How free we are when we dream!"
 contributors: ['Silva']
 ---
 

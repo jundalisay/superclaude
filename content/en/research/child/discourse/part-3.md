@@ -3,6 +3,7 @@ heading: "Part 3"
 title: "The Interest Rates Overseas"
 weight: 8
 c: "firebrick"
+icon: "Child"
 description: "Our customs are very much improved, to the ratio of 6:1; which is not so much in advance of the rates of goods, as by increase of the bulk of trade"
 ---
 

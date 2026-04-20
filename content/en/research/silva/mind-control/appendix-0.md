@@ -3,6 +3,7 @@ title: "The Mind Control Course And The Organization Behind It"
 heading: "APPENDIX 1"
 weight: 200
 c: "steelblue"
+icon: "Silva"
 description : "The Mind Control movement is so widespread and fast-growing. "
 contributors: ['Silva']
 ---
@@ -41,9 +42,11 @@ experience, or "high," you have read about. However, when
 you conscientiously learn all the exercises I have guided
 you through, you will be able to do everything a Mind
 Control graduate can do.
+
 The reason some parts of the course are left out is not
 to deliberately withhold anything from you, but simply
 that they require a trained lecturer.
+
 Many graduates find that the exercises and mental train-
 ing become powerfully reinforced when they repeat the
 course long after taking it the first time. They are encour-
@@ -53,14 +56,18 @@ peaters. Many say the experience is even more intense the
 second time. If you go on to take the course, your first
 time will be a deeper experience because of your mastery
 of the techniques in this book.
+
 Here, in outline, is everything Mind Control students go
-through in their classes:174 / THE SILVA MIND CONTROL METHOD
-Morning of the FtrU Day
+through in their classes: Morning of the FtrU Day
+
 9:00 The day begins with a lecture to give students
 a general preview of the entire course.
+
 10:20 Coffee break.
+
 10:40 Questions, answers, and discussion, then a de-
 tailed preview of the first meditation.
+
 11:30 The lecturer leads students for the first time to
 a meditative, or Alpha, level of mind. They
 may squirm or scratch as they wish, though at
@@ -68,13 +75,18 @@ this and deeper levels the body requires less
 attention as it becomes more relaxed, particular-
 ly while experiencing the "ideal place of relax-
 ation."
+
 12:00 Coffee break.
+
 12:20 Lecturer leads the students again into medita-
 tion, at a deeper level, though still within the
 Alpha range.
+
 12:50 Questions and answers and a general sharing
 of experiences by the students.
-1:00 Lunch break.
+
+1:00 Lunch break
+
 Afternoon of the First Day
 2:00 Lecturer discusses the Building Blocks of Mat-
 ter—atomic, molecular, and cellular—and the

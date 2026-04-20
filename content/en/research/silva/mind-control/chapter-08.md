@@ -3,15 +3,15 @@ title: "Your Words Have Power"
 heading: "Chapter 8"
 weight: 16
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description: "Imagine that you are standing in your kitchen holding a lemon that you have just taken from the refrigerator"
 contributors: ['Silva']
 ---
 
 
 The Introduction suggested that you not practice any of the exercises on first reading. 
 
-The following is an exception; try it right now. Bring all of your
-imagination to bear on it Let's consider the implications of this.
+The following is an exception; try it right now. Bring all of your imagination to bear on it Let's consider the implications of this.
 
 Imagine that you are standing in your kitchen holding a lemon that you have just taken from the refrigerator. 
 

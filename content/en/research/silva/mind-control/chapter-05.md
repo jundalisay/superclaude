@@ -3,7 +3,8 @@ title: "Improving Memory"
 heading: "Chapter 5"
 weight: 10
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "The memory techniques taught in Mind Control can reduce our use of telephone directories and tremendously impress our friends."
 contributors: ['Silva']
 ---
 

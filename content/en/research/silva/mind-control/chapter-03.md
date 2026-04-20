@@ -3,15 +3,17 @@ title: "How To Meditate"
 heading: "Chapter 3"
 weight: 6
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "This chapter and others through Chapter 16, by Josi Silva, may very well be among the most important you have ever read. Josi will be teaching you the basic elements of his Silva Mind Control course. To benefit fully from Josffs chapters, be sure you have well in mind the way to read them. You will find this in the Introduction."
 contributors: ['Silva']
 ---
 
 
+<!-- (Note: This chapter and others through Chapter 16, by Josi Silva, may very well be among the most important you have ever read. Josi will be teaching you the basic elements of his Silva Mind Control course. To benefit fully from Josffs chapters, be sure you have well in mind the way to read them. You will find this in the Introduction.) -->
 
-(Note: This chapter and others through Chapter 16, by Josi Silva, may very well be among the most important you have ever read. Josi will be teaching you the basic elements of his Silva Mind Control course. To benefit fully from Josffs chapters, be sure you have well in mind the way to read them. You will find this in the Introduction.)
+I am going to help you learn to meditate. 
 
-I am going to help you learn to meditate. When you learn to do this, you will be at a level of mind where you will be able to free your imagination for solving problems. 
+When you learn to do this, you will be at a level of mind where you will be able to free your imagination for solving problems. 
 
 But for now we will be concerned only with meditation. Problem solving will come later on.
 
@@ -112,20 +114,15 @@ alization. This is central to Mind Control.
 The better you learn to visualize, the more powerful will be your
 experience with Mind Control.
 
-The first step is to create a tool for visualization, a mental screen. It should be like a large movie screen
-but should not quite fill your mental vision. Imagine it
-not behind your eyelids but about six feet in front of
-you. You will project onto this screen whatever you
-choose to concentrate on. Later there will be other
+The first step is to create a tool for visualization, a mental screen. It should be like a large movie screen but should not quite fill your mental vision. 
+
+Imagine it not behind your eyelids but about six feet in front of
+you. You will project onto this screen whatever you choose to concentrate on. Later there will be other
 uses for it.
-Once you have built this screen in your mind, pro-
-How to Meditate I 33
-ject onto it something familiar and simple, like an
-orange or an apple. Each time you go to your level, stay
-with just one image; you may change it the next time.
-Concentrate on making it more and more real—in three
-dimensions, in full color, in all its details. Think of
-nothing else.
+
+Once you have built this screen in your mind, project onto it something familiar and simple, like an orange or an apple. Each time you go to your level, stay with just one image; you may change it the next time.
+
+Concentrate on making it more and more real—in 3 dimensions, in full color, in all its details. Think of nothing else.
 
 The brain is like a drunken monkey. It lurches willy-nilly from one thing to an-
 other. It is surprising how little command we have
@@ -137,12 +134,11 @@ then a rash, then an ulcer to top things off.
 
 This brain is too powerful to leave out of control. 
 
-Once we learn to use our minds to train it, it will
-do some astounding things for us, as you will soon see.
+Once we learn to use our minds to train it, it will do some astounding things for us, as you will soon see.
+
 In the meantime, be patient with this simple exercise.
-Using your mind, train your brain to go quietly into
-Alpha and to attend exclusively to the job of creating a
-simple image more and more vividly. In the beginning, as thoughts intrude, be gently forgiving. Slowly push them away and return to the single object at hand. Becoming irritated or tense will bring you right out of Alpha.
+
+Using your mind, train your brain to go quietly into Alpha and to attend exclusively to the job of creating a simple image more and more vividly. In the beginning, as thoughts intrude, be gently forgiving. Slowly push them away and return to the single object at hand. Becoming irritated or tense will bring you right out of Alpha.
 
 This, then, is meditation as it is widely practiced throughout the world. If you do this and nothing else,
 you will experience what William Wordsworth called "A happy stillness of mind," and more, a deep and durable inner peace. This will come as an exciting experience as you reach deeper levels of mind; then you will take it more and more for granted and the excitement will pass.

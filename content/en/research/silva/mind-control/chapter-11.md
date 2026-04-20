@@ -3,14 +3,14 @@ title: "An Intimate Exercise For Lovers"
 heading: "Chapter 11"
 weight: 22
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description : "In her address before the Mind Control group, Mrs. Simonton spoke of the many stresses in life which, if not handled properly, can lead to illness"
 contributors: ['Silva']
 ---
 
 
 
-In her address before the Mind Control group, Mrs. Simonton spoke of the many stresses in life which, if not
-handled properly, can lead to illness.
+In her address before the Mind Control group, Mrs. Simonton spoke of the many stresses in life which, if not handled properly, can lead to illness.
 
 "It is so uncommon in our patients for them to have a good marriage," she said. "When there is a good
 marriage wkh a cancer patient, it is one of the greatest

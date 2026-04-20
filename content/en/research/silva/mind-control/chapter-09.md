@@ -3,7 +3,8 @@ title: "The Power Of Imagination"
 heading: "Chapter 9"
 weight: 18
 c: "steelblue"
-description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
+icon: "Silva"
+description: "Willpower needs an enemy to overcome before it reaches its goal."
 contributors: ['Silva']
 ---
 

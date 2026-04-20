@@ -11,6 +11,8 @@ writer:
 weight: 18
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-4/chapter-04b
 ---
 
 

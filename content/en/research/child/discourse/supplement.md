@@ -4,6 +4,7 @@ title: "Further Objections"
 weight: 14
 description: "He wrote the history of trading cities from 960 AD."
 c: "firebrick"
+icon: "Child"
 ---
 
 
@@ -55,31 +56,29 @@ I answer that Holland has no law to limit usury to the present rate it is now.
 Many years since, there was a law that did limit it to  or  at most: and by consequence, there would be a renewing of that law to a lesser rate, were it necessary at this time; it having always been the policy of that people to keep down the interest of their money,  or  per cent. under the rate of what is usually paid in their
 neighbouring countries, which, being now naturally done, it is needless to use the artiﬁcial stratagem of a law to establish.A New Discourse
 
-Answ. . Although they have no law expresly limiting interest at pres-
-ent, yet they have other laws which we cannot yet arrive to, and those do
+Answer.
+
+Although they have no law expresly limiting interest at present, yet they have other laws which we cannot yet arrive to, and those do
 eﬀect the same thing among them, and would do the like among us, if
 we could have them: one of which, is their ascertaining real securities by
-their public registers: for we see evidently, money is not so much want-
-ing in England as securities, which men account infallible; a remarkable
-instance of which is, the east-India company, who can and do take up
-what money they please, for  per cent. at any time.
-Another law is, their constitutions of Banks and Lumbards, whereby
-private persons that have but tolerable credit may be supplied at easy
+their public registers: 
+
+Money is not so much wanting in England as securities, which men account infallible; a remarkable instance of which is, the east-India company, who can and do take up what money they please, for  per cent. at any time. 
+
+Another law is, their constitutions of Banks and Lumbards, whereby private persons that have but tolerable credit may be supplied at easy
 rates from the state.
 
 A third, and very considerable one, is, their law for transferring bills
 of debt, mentioned in the beginning of this discourse.
 
 A fourth, which is a custom, and in eﬀect may be here to our purpose
-accounted as a law, is the extraordinary frugality used in all their public affirs, which in their greatest extremities have been such, as not to com-
-pel them to give above four per cent for the loan of money. Whereas it is said, his majesty in some cases of exigency, when the national supplies
+accounted as a law, is the extraordinary frugality used in all their public affirs, which in their greatest extremities have been such, as not to  compel them to give above four per cent for the loan of money. Whereas it is said, his majesty in some cases of exigency, when the national supplies
 have not come in to answer the present emergencies of aﬀairs, has been enforced to give above the usual rates to goldsmiths; and that encouraged
-them to take up great sums from private persons at the full rate of  per
-cent. whereas formerly they usually gave but  per cent. 
+them to take up great sums from private persons at the full rate of  per cent. whereas formerly they usually gave but  per cent. 
 
 Otherwise, in human probability money would have fallen of itself to  per cent.
-But again, to conclude, every nation does proceed according to the pe-
-culiar methods of their own in the transactions of their public aﬀairs and
+
+But again, to conclude, every nation does proceed according to the peculiar methods of their own in the transactions of their public aﬀairs and
 law-making: 
 
 In Britain, it has always been the custom to reduce the rate of interest by a law, when nature had prepared the matter
@@ -88,8 +87,9 @@ In Britain, it has always been the custom to reduce the rate of interest by a la
 By a law it was reduced from an unlimited rate, to ; and afterwards from  to ; and after that from
  to . And through the blessing of almighty God, this kingdom has
 found, as I think I have fully proved, and every man’s experience will
-witness, prodigious success and advantage thereby. And I doubt not,
-through the like blessing of God almighty, but this generation will ﬁnd
-the like great and good eﬀects, by the reduction of it from  to , which
-is now at the birth. And that the next generation will yet see far greater
-advantages by bringing it from  to  per cent.
+witness, prodigious success and advantage thereby.
+
+This generation will ﬁnd the like great and good eﬀects, by the reduction of it from  to , which
+is now at the birth. 
+
+The next generation will yet see far greater advantages by bringing it from  to  per cent.
