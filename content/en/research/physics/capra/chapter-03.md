@@ -15,9 +15,9 @@ inadequate to describe the atomic and subatomic reality.
 
 Quantum theory and relativity theory, the two bases of modern physics, have made it clear that this reality transcends classical logic and that we cannot talk about it in ordinary language. Thus Heisenberg writes :
 
-{{< q a="Heisenberg" }}
+{{< q a="Heisenberg" >}}
 The most difficult problem . . . concerning the use of the language arises in quantum theory. Here we have at first no simple guide for correlating the mathematical symbols with concepts of ordinary language; and the only thing we know from the start is the fact that our common concepts cannot be applied to the structure of the atoms.
-{{< /q }}
+{{< /q >}}
 
 From a philosophical point of view, this has certainly been the most interesting development in modern physics, and here lies one of the roots of its relation to Eastern philosophy. 
 
