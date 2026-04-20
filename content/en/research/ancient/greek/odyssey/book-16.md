@@ -11,23 +11,64 @@ description: "The Odyssey Simplified with the gods as Anunnaki and heroes as Nep
 
 
 
-Meanwhile Ulysses and the swineherd had lit a fire in the hut and were were getting breakfast ready at daybreak, for they had sent the men out with the pigs. When Telemachus came up, the dogs did not bark but fawned upon him, so Ulysses, hearing the sound of feet and noticing that the dogs did not bark, said to Eumaeus:
+Meanwhile Ulysses and the swineherd had lit a fire in the hut.
 
-“Eumaeus, I hear footsteps; I suppose one of your men or some one of your acquaintance is coming here, for the dogs are fawning upon him and not barking.”
+They were getting breakfast ready at daybreak, for they had sent the men out with the pigs.
 
-The words were hardly out of his mouth before his son stood at the door. Eumaeus sprang to his feet, and the bowls in which he was mixing wine fell from his hands, as he made towards his master. He kissed his head and both his beautiful eyes, and wept for joy. A father could not be more delighted at the return of an only son, the child of his old age, after ten years’ absence in a foreign country and after having gone through much hardship. He embraced him, kissed him all over as though he had come back from the dead, and spoke fondly to him saying:
+When Telemachus came up, the dogs fawned on him, so Ulysses, hearing the sound of feet and noticing that the dogs did not bark, said to Eumaeus:
 
-“So you are come, Telemachus, light of my eyes that you are. When I heard you had gone to Pylos I made sure I was never going to see you any more. Come in, my dear child, and sit down, that I may have a good look at you now you are home again; it is not very often you come into the country to see us herdsmen; you stick pretty close to the town generally. I suppose you think it better to keep an eye on what the suitors are doing.”
 
-“So be it, old friend,” answered Telemachus, “but I am come now because I want to see you, and to learn whether my mother is still at her old home or whether some one else has married her, so that the bed of Ulysses is without bedding and covered with cobwebs.”
+{{< l a="Ulysses" >}}
+Eumaeus, I hear footsteps. I suppose one of your men or some one of your acquaintance is coming here, for the dogs are fawning upon him and not barking.
+{{< /l >}}
 
-“She is still at the house,” replied Eumaeus, “grieving and breaking her heart, and doing nothing but weep, both night and day continually.”
 
-As he spoke he took Telemachus’ spear, whereon he crossed the stone threshold and came inside. Ulysses rose from his seat to give him place as he entered, but Telemachus checked him; “Sit down, stranger,” said he, “I can easily find another seat, and there is one here who will lay it for me.”
+The words were hardly out of his mouth before his son stood at the door. 
 
-Ulysses went back to his own place, and Eumaeus strewed some green brushwood on the floor and threw a sheepskin on top of it for Telemachus to sit upon. Then the swineherd brought them platters of cold meat, the remains from what they had eaten the day before, and he filled the bread baskets with bread as fast as he could. He mixed wine also in bowls of ivy-wood, and took his seat facing Ulysses. Then they laid their hands on the good things that were before them, and as soon as they had had enough to eat and drink Telemachus said to Eumaeus, “Old friend, where does this stranger come from? How did his crew bring him to Ithaca, and who were they?—for assuredly he did not come here by land.”
+Eumaeus sprang to his feet and kissed his head and both his beautiful eyes, and wept for joy.
 
-To this you answered, O swineherd Eumaeus, “My son, I will tell you the real truth. He says he is a Cretan, and that he has been a great traveller. At this moment he is running away from a Thesprotian ship, and has taken refuge at my station, so I will put him into your hands. Do whatever you like with him, only remember that he is your suppliant.”
+A father could not be more delighted at the return of an only son, the child of his old age, after ten years’ absence in a foreign country and after having gone through much hardship. 
+
+He embraced him, kissed him all over as though he had come back from the dead, and spoke fondly to him saying:
+
+
+{{< l a="Eumaeus" >}}
+You have come, Telemachus! You are the light of my eyes. 
+
+When I heard you had gone to Pylos I made sure I was never going to see you any more. 
+
+Come in, my dear child, and sit down. It is not very often you come into the country to see us herdsmen; you stick pretty close to the town generally. I suppose you think it better to keep an eye on what the suitors are doing.
+{{< /l >}}
+
+
+{{< r a="Telemachus" >}}
+So be it, old friend. But I come now because I want to learn whether my mother is still at her old home or whether some one else has married her, so that the bed of Ulysses is without bedding and covered with cobwebs.
+{{< /r >}}
+
+
+{{< l a="Eumaeus" >}}
+She is still at the house grieving and breaking her heart, and doing nothing but weep, both night and day continually.
+{{< /l >}}
+
+
+As he spoke he took Telemachus’ spear, whereon he crossed the stone threshold and came inside. 
+
+Ulysses rose from his seat to give him place as he entered, but Telemachus checked him; 
+
+{{< r a="Telemachus" >}}
+Sit down, stranger. I can easily find another seat, and there is one here who will lay it for me.
+{{< /r >}}
+
+Ulysses went back to his own place, and Eumaeus strewed some green brushwood on the floor and threw a sheepskin on top of it for Telemachus to sit upon. 
+
+Then the swineherd brought them platters of cold meat, the remains from what they had eaten the day before, and he filled the bread baskets with bread as fast as he could. He mixed wine also in bowls of ivy-wood, and took his seat facing Ulysses. Then they laid their hands on the good things that were before them, and as soon as they had had enough to eat and drink Telemachus said to Eumaeus:
+
+“Old friend, where does this stranger come from? How did his crew bring him to Ithaca, and who were they?—for assuredly he did not come here by land.”
+
+
+To this you answered, O swineherd Eumaeus:
+
+“My son, I will tell you the real truth. He says he is a Cretan, and that he has been a great traveller. At this moment he is running away from a Thesprotian ship, and has taken refuge at my station, so I will put him into your hands. Do whatever you like with him, only remember that he is your suppliant.”
 
 {{< r a="Telemachus" >}}
 I am very much distressed by what you have just told me. How can I take this stranger into my house? I am as yet young, and am not strong enough to hold my own if any man attacks me.
@@ -44,13 +85,33 @@ Sir, it is right that I should say something myself. I am much shocked about wha
 If they were too many for me—I being single-handed—I would rather die fighting in my own house than see such disgraceful sights day after day, strangers grossly maltreated, and men dragging the women servants about the house in an unseemly way, wine drawn recklessly, and bread wasted all to no purpose for an end that shall never be accomplished.
 {{< /l >}}
 
-And Telemachus answered, “I will tell you truly everything. There is no enmity between me and my people, nor can I complain of brothers, to whom a man may look for support however great his quarrel may be. Jove has made us a race of only sons. Laertes was the only son of Arceisius, and Ulysses only son of Laertes. I am myself the only son of Ulysses who left me behind him when he went away, so that I have never been of any use to him. Hence it comes that my house is in the hands of numberless marauders; for the chiefs from all the neighbouring islands, Dulichium, Same, Zacynthus, as also all the principal men of Ithaca itself, are eating up my house under the pretext of paying court to my mother, who will neither say point blank that she will not marry, nor yet bring matters to an end, so they are making havoc of my estate, and before long will do so with myself into the bargain. The issue, however, rests with heaven. But do you, old friend Eumaeus, go at once and tell Penelope that I am safe and have returned from Pylos. Tell it to herself alone, and then come back here without letting any one else know, for there are many who are plotting mischief against me.”
 
-“I understand and heed you,” replied Eumaeus; “you need instruct me no further, only as I am going that way say whether I had not better let poor Laertes know that you are returned. He used to superintend the work on his farm in spite of his bitter sorrow about Ulysses, and he would eat and drink at will along with his servants; but they tell me that from the day on which you set out for Pylos he has neither eaten nor drunk as he ought to do, nor does he look after his farm, but sits weeping and wasting the flesh from off his bones.”
+{{< r a="Telemachus" >}}
+I will tell you everything. 
 
-“More’s the pity,” answered Telemachus, “I am sorry for him, but we must leave him to himself just now. If people could have everything their own way, the first thing I should choose would be the return of my father; but go, and give your message; then make haste back again, and do not turn out of your way to tell Laertes. Tell my mother to send one of her women secretly with the news at once, and let him hear it from her.”
+There is no enmity between me and my people, nor can I complain of brothers, to whom a man may look for support however great his quarrel may be. Jove has made us a race of only sons. Laertes was the only son of Arceisius, and Ulysses only son of Laertes. 
 
-Thus did he urge the swineherd; Eumaeus, therefore, took his sandals, bound them to his feet, and started for the town. Minerva watched him well off the station, and then came up to it in the form of a woman—fair, stately, and wise. She stood against the side of the entry, and revealed herself to Ulysses, but Telemachus could not see her, and knew not that she was there, for the gods do not let themselves be seen by everybody. Ulysses saw her, and so did the dogs, for they did not bark, but went scared and whining off to the other side of the yards. She nodded her head and motioned to Ulysses with her eyebrows; whereon he left the hut and stood before her outside the main wall of the yards. Then she said to him:
+I am the only son of Ulysses who left me behind him when he went away, so that I have never been of any use to him. 
+
+Hence it comes that my house is in the hands of numberless marauders; for the chiefs from all the neighbouring islands, Dulichium, Same, Zacynthus, as also all the principal men of Ithaca itself, are eating up my house under the pretext of paying court to my mother, who will neither say point blank that she will not marry, nor yet bring matters to an end, so they are making havoc of my estate, and before long will do so with myself into the bargain. 
+
+The issue, however, rests with heaven. But do you, old friend Eumaeus, go at once and tell Penelope that I am safe and have returned from Pylos. Tell it to herself alone, and then come back here without letting any one else know, for there are many who are plotting mischief against me.
+{{< /r >}}
+
+
+{{< l a="Eumaeus" >}}
+I understand and heed you. Yyou need instruct me no further, only as I am going that way say whether I had not better let poor Laertes know that you are returned. He used to superintend the work on his farm in spite of his bitter sorrow about Ulysses, and he would eat and drink at will along with his servants; but they tell me that from the day on which you set out for Pylos he has neither eaten nor drunk as he ought to do, nor does he look after his farm, but sits weeping and wasting the flesh from off his bones.
+{{< /l >}}
+
+
+{{< r a="Telemachus" >}}
+More’s the pity. I am sorry for him, but we must leave him to himself just now. If people could have everything their own way, the first thing I should choose would be the return of my father; but go, and give your message; then make haste back again, and do not turn out of your way to tell Laertes. Tell my mother to send one of her women secretly with the news at once, and let him hear it from her.
+{{< /r >}}
+
+
+Thus did he urge the swineherd; Eumaeus, therefore, took his sandals, bound them to his feet, and started for the town. Minerva watched him well off the station, and then came up to it in the form of a woman—fair, stately, and wise. She stood against the side of the entry, and revealed herself to Ulysses, but Telemachus could not see her, and knew not that she was there, for the gods do not let themselves be seen by everybody. 
+
+Ulysses saw her, and so did the dogs, for they did not bark, but went scared and whining off to the other side of the yards. She nodded her head and motioned to Ulysses with her eyebrows; whereon he left the hut and stood before her outside the main wall of the yards. Then she said to him:
 
 “Ulysses, noble son of Laertes, it is now time for you to tell your son: do not keep him in the dark any longer, but lay your plans for the destruction of the suitors, and then make for the town. I will not be long in joining you, for I too am eager for the fray.”
 
@@ -65,6 +126,7 @@ I am no god, why should you take me for one? I am your father, on whose account 
 
 
 As he spoke he kissed his son, and a tear fell from his cheek on to the ground, for he had restrained all tears till now. But Telemachus could not yet believe that it was his father, and said:
+
 
 “You are not my father, but some god is flattering me with vain hopes that I may grieve the more hereafter; no mortal man could of himself contrive to do as you have been doing, and make yourself old and young at a moment’s notice, unless a god were with him. A second ago you were old and all in rags, and now you are like some god come down from heaven.”
 
@@ -119,18 +181,37 @@ Thus did he speak, and his words pleased them well, so they rose forthwith and w
 
 Then Penelope resolved that she would show herself to the suitors. She knew of the plot against Telemachus, for the servant Medon had overheard their counsels and had told her; she went down therefore to the court attended by her maidens, and when she reached the suitors she stood by one of the bearing-posts supporting the roof of the cloister holding a veil before her face, and rebuked Antinous saying:
 
-“Antinous, insolent and wicked schemer, they say you are the best speaker and counsellor of any man your own age in Ithaca, but you are nothing of the kind. Madman, why should you try to compass the death of Telemachus, and take no heed of suppliants, whose witness is Jove himself? It is not right for you to plot thus against one another. Do you not remember how your father fled to this house in fear of the people, who were enraged against him for having gone with some Taphian pirates and plundered the Thesprotians who were at peace with us? They wanted to tear him in pieces and eat up everything he had, but Ulysses stayed their hands although they were infuriated, and now you devour his property without paying for it, and break my heart by wooing his wife and trying to kill his son. Leave off doing so, and stop the others also.”
+{{< r a="Penelope" >}}
+Antinous, you insolent and wicked schemer! They say you are the best speaker and counsellor of any man your own age in Ithaca, but you are nothing of the kind. Madman, why should you try to compass the death of Telemachus, and take no heed of suppliants, whose witness is Jove himself? 
 
-To this Eurymachus son of Polybus answered, “Take heart, Queen Penelope daughter of Icarius, and do not trouble yourself about these matters. The man is not yet born, nor never will be, who shall lay hands upon your son Telemachus, while I yet live to look upon the face of the earth. I say—and it shall surely be—that my spear shall be reddened with his blood; for many a time has Ulysses taken me on his knees, held wine up to my lips to drink, and put pieces of meat into my hands. Therefore Telemachus is much the dearest friend I have, and has nothing to fear from the hands of us suitors. Of course, if death comes to him from the gods, he cannot escape it.” He said this to quiet her, but in reality he was plotting against Telemachus.
-
-Then Penelope went upstairs again and mourned her husband till Minerva shed sleep over her eyes. In the evening Eumaeus got back to Ulysses and his son, who had just sacrificed a young pig of a year old and were helping one another to get supper ready; Minerva therefore came up to Ulysses, turned him into an old man with a stroke of her wand, and clad him in his old clothes again, for fear that the swineherd might recognise him and not keep the secret, but go and tell Penelope.
-
-Telemachus was the first to speak. “So you have got back, Eumaeus,” said he. “What is the news of the town? Have the suitors returned, or are they still waiting over yonder, to take me on my way home?”
-
-
-{{< r a="Eumaeus" >}}
-I did not think of asking about that when I was in the town. I thought I would give my message and come back as soon as I could. I met a man sent by those who had gone with you to Pylos, and he was the first to tell the news to your mother, but I can say what I saw with my own eyes; I had just got on to the crest of the hill of Mercury above the town when I saw a ship coming into harbour with a number of men in her. They had many shields and spears, and I thought it was the suitors, but I cannot be sure.
+It is not right for you to plot thus against one another. Do you not remember how your father fled to this house in fear of the people, who were enraged against him for having gone with some Taphian pirates and plundered the Thesprotians who were at peace with us? They wanted to tear him in pieces and eat up everything he had, but Ulysses stayed their hands although they were infuriated, and now you devour his property without paying for it, and break my heart by wooing his wife and trying to kill his son. Leave off doing so, and stop the others also.
 {{< /r >}}
+
+{{< l a="Eurymachus" >}}
+Take heart, Queen Penelope daughter of Icarius. Do not trouble yourself about these matters. The man is not yet born, nor never will be, who shall lay hands upon your son Telemachus, while I yet live to look upon the face of the earth. 
+
+I say—and it shall surely be—that my spear shall be reddened with his blood; for many a time has Ulysses taken me on his knees, held wine up to my lips to drink, and put pieces of meat into my hands. Therefore Telemachus is much the dearest friend I have, and has nothing to fear from the hands of us suitors. 
+
+If death comes to him from the gods, he cannot escape it.
+{{< /l >}}
+
+
+He said this to quiet her, but in reality he was plotting against Telemachus.
+
+Then Penelope went upstairs again and mourned her husband till Minerva shed sleep over her eyes. In the evening Eumaeus got back to Ulysses and his son, who had just sacrificed a young pig of a year old and were helping one another to get supper ready.
+
+Minerva therefore came up to Ulysses, turned him into an old man with a stroke of her wand, and clad him in his old clothes again, for fear that the swineherd might recognise him and not keep the secret, but go and tell Penelope.
+
+{{< r a="Telemachus" >}}
+So you have got back, Eumaeus. What is the news of the town? Have the suitors returned, or are they still waiting over yonder, to take me on my way home?
+{{< /r >}}
+
+
+{{< l a="Eumaeus" >}}
+I did not think of asking about that when I was in the town. I thought I would give my message and come back as soon as I could. I met a man sent by those who had gone with you to Pylos, and he was the first to tell the news to your mother, but I can say what I saw with my own eyes.
+
+I had just got on to the crest of the hill of Mercury above the town when I saw a ship coming into harbour with a number of men in her. They had many shields and spears, and I thought it was the suitors, but I cannot be sure.
+{{< /l >}}
 
 
 On hearing this Telemachus smiled to his father, but so that Eumaeus could not see him.
