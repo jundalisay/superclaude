@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "Quanta of Radiance"
-# title: "Electric Potential"
+linkTitle: Quanta
 # date: 2023-11-10
 weight: 15
 image: /photos/physics/elec.jpg

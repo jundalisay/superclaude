@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "The Substance of Aether"
+linkTitle: Substance
 # date: 2020-01-31
 image: "/photos/physics/galaxy.jpg"
 description: "A universe is a substance of the aether"

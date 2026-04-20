@@ -128,26 +128,72 @@ defaultContentLanguageInSubdir = false
     contentDir = "content/zh"
     [languages.zh.params]
       rtl = false
-  [[languages.zh.params.nav_groups]]
-    title = "Sciences"
-    items = [
-      { key = "superphysics", url = "/superphysics" },
-      { key = "supermath", url = "/supermath" },
-      { key = "material", url = "/material" },
-      { key = "bio", url = "/bio" },
-      { key = "spiritual", url = "/spiritual" },
-      { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
-    ]
-  [[languages.zh.params.nav_groups]]
-    title = "About"
-    items = [
-      { key = "news", url = "/news" },
-      { key = "about", url = "/about" },
-      { key = "faqs", url = "/faqs" },
-      { key = "help", url = "/help" }
-    ]
+    [[languages.zh.params.nav_groups]]
+      title = "Sciences"
+      items = [
+        { key = "superphysics", url = "/superphysics" },
+        { key = "supermath", url = "/supermath" },
+        { key = "material", url = "/material" },
+        { key = "bio", url = "/bio" },
+        { key = "spiritual", url = "/spiritual" },
+        { key = "society", url = "/social/supersociology" },
+        { key = "economics", url = "/social/economics" }
+      ]
+    [[languages.zh.params.nav_groups]]
+      title = "About"
+      items = [
+        { key = "news", url = "/news" },
+        { key = "about", url = "/about" },
+        { key = "faqs", url = "/faqs" },
+        { key = "help", url = "/help" }
+      ]
 
+    [languages.zh.params.quote1]
+      content = "自然科学分为物理学与形而上学。物理学应研究内在于物质之中、因而具有暂时性的事物；形而上学则应研究被抽象出来且恒定不变的本质。"
+      author = "弗朗西斯·培根"
+      src = "《学术的增进》第二卷，第七部分"
+      icon = "Francis Bacon"
+
+    [languages.zh.params.trio]
+      title = "一切知识可归为三类"
+      video = "/socrates.mp4"
+      icons = [
+        { img = "/icons/tao.png", title = "形而上学", sub = "1-50% 可复现：悖论性" },
+        { img = "/icons/sp.png", title = "超物理学", sub = "51-99% 可复现：主观性" },
+        { img = "/icons/atom.png", title = "物理学", sub = "100% 可复现：客观性" },
+      ]
+
+    [languages.zh.params.quote2]
+      content = "三大主要科学为：力学、医学与伦理学"
+      icon = "Rene Descartes"
+      author = "勒内·笛卡尔"
+      src = "《哲学原理》序言"
+
+    [languages.zh.params.sciences]
+      title = "开启宇宙的六大学科"
+      cards = [
+        { img = "/avatars/descartes.jpg", c = "yellow", title = "物质超物理学", sub = "以笛卡尔与斯宾诺莎的体系取代牛顿与爱因斯坦的物理学", url = "/material"},
+        { img = "/graphics/super/yin.jpg", c = "pink", title = "生命超物理学", sub = "融合西方与东方原理的生物学与医学", url = "/bio"},
+        { img = "/avatars/smith.jpg", c = "green", title = "社会超物理学", sub = "将社会视为具有生命周期的形而上有机体", url = "/social"},
+        { img = "/avatars/buddha.jpg", c = "indigo", title = "精神超物理学", sub = "将体验从物质提升至以太或阿卡西领域", url = "/spiritual"},
+        { img = "/photos/meta/om.jpg", c = "gray", title = "超数学与质数学", sub = "基于三进制、六进制、形态与性质的数学体系", url = "/supermath"},
+        { img = "/avatars/socrates.jpg", c = "blue", title = "超逻辑", sub = "基于达摩（真实本性）的推理方式", url = "/superlogic"},
+      ]
+
+    [languages.zh.params.quote3]
+      content = "事物若脱离被感知的关系，便无法具有绝对的存在。没有感知它们的心灵，它们便无法存在。我认为奇怪的是，人们竟认为房屋、山川及一切可感之物，具有独立于被理解之外的真实存在。"
+      icon = "George Berkeley"
+      author = "乔治·贝克莱"
+      src = "《人类知识原理》第三节"
+
+    [languages.zh.params.panels]
+      title = "让我们解决所有问题！"
+      cards = [
+        { img = "/photos/econ/writer.jpg", title = "实证", sub = "我们在现实世界中检验超物理学", url = "/evidence" },
+        { img = "/graphics/tech/solar.jpg", title = "方案与技术", sub = "启蒙思想能够催生全新的技术", url = "/solutions" },
+        { img = "/photos/countries/ua/war.jpg", title = "社会周期的预测", sub = "我们以真实事件检验预测", url = "/social/cycles" },
+        { img = "/photos/buy.jpg", title = "社会周期的政策", sub = "更美好的世界需要符合自然的政策", url = "/social/policies" },
+      ]
 
   [languages.fr]
     languageName = "Français"

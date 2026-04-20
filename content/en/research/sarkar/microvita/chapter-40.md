@@ -201,45 +201,62 @@ If you have devotion, you can call Parama Puruśa to you; He will certainly com
 
 Regarding prema or selfless love, it is said:
 
-Samyauṋmasrńito shánto mamatvátishayáunkitah;
-Bháva sá eva sándrátmá budhaeh prema nigadyate.
+> Samyauṋmasrńito shánto mamatvátishayáunkitah; Bháva sá eva sándrátmá budhaeh prema nigadyate.
 
-“The attitude which makes the mind smooth and placid, and radiant with the deepest love for the Lord, is called “bháva”. Wise people call this “prema” or “divine love”.
+*“The attitude which makes the mind smooth and placid, and radiant with the deepest love for the Lord, is called “bháva”. Wise people call this “prema” or “divine love”.*
 
-Prema is the attraction for Parama Puruśa overcoming the attraction for all other finite objects. 
 
-Those who are endowed with such divine love are bound to receive the grace of Parama Puruśa – they need not worry about it. If they practise the spiritual cult regularly, positive microvita are sure to help them. 
+**Prema is the attraction for Parama Puruśa overcoming the attraction for all other finite objects.** 
+
+Those who are endowed with such divine love are bound to receive the grace of Parama Puruśa – they need not worry about it.
+
+If they practise the spiritual cult regularly, positive microvita are sure to help them. 
 
 Those who arouse devotion through action and knowledge are certain to attain the grace of Parama Puruśa. This grace need not be huge in quantity – even a wee bit of it will be enough.
 
-Mahatkrpayaeva bhagavatkrpáleshádvá.
+> Mahatkrpayaeva bhagavatkrpáleshádvá.
 
-“One can attain the supreme stance by the blessings of the exalted ones, as well as a wee bit of Macrocosmic grace.”
+*“One can attain the supreme stance by the blessings of the exalted ones, as well as a wee bit of Macrocosmic grace.”*
 
 Only such people endowed with the grace of the supreme are in the best position to render maximum service to this universe.
 
-While practising spiritual cult, it should be remembered that spiritual aspirants must not practise in order to acquire these occult powers. The goal of spiritual practice is to realize the Supreme Entity. To search for any other thing is wrong. 
+While practising spiritual cult, it should be remembered that spiritual aspirants must not practise in order to acquire these occult powers. 
 
-Occult powers are just like the dust on the roadside. The attraction for Parama Puruśa is the most valuable object – all else is only the dust of the earth.
+The goal of spiritual practice is to realize the Supreme Entity. To search for any other thing is wrong. 
 
-Hence the spiritual aspirant must not run after these inconsequential occult powers, although while prasticing spiritual cult they may develop. You must not forget that all your achievements must maintain adjustment with the main propensities of the mind, and in the process of adjustment, all these eight types of occult powers present themselves to the spiritual aspirant.
+Occult powers are just like the dust on the roadside.
 
-Sádhaná starts in the plane of physicality and moves towards the physico-psychic plane. This first phase of sádhaná is performed by the “doer I”. Then from the physico-psychic plane to the pure psychic plane, and from the pure psychic plane to the psycho-spiritual plane – this portion of sádhaná is done by the “knower I”.
+The attraction for Parama Puruśa is the most valuable object – all else is only the dust of the earth.
 
-In the final stage of sádhaná, the pure spiritual phase, none of these can help the spiritual aspirant; even positive and negative microvita cannot function above the psycho-spiritual level, beyond the pituitary gland. No vibration is of any help. In such circumstances, finally you will have to depend on the grace of the supreme and nothing else. One is obliged to declare, Brahmakrpáhi kevalam, that is, the grace of Parama Puruśa is everything.
+Hence, the spiritual aspirant must not run after these inconsequential occult powers, although while prasticing spiritual cult, they may develop. 
+
+You must not forget that all your achievements must maintain adjustment with the main propensities of the mind, and in the process of adjustment, all these eight types of occult powers present themselves to the spiritual aspirant.
+
+Sádhaná starts in the plane of physicality and moves towards the physico-psychic plane.
+
+This first phase of sádhaná is performed by the “doer I”. Then from the physico-psychic plane to the pure psychic plane, and from the pure psychic plane to the psycho-spiritual plane – this portion of sádhaná is done by the “knower I”.
+
+In the final stage of sádhaná, the pure spiritual phase, none of these can help the spiritual aspirant.
+
+Even positive and negative microvita cannot function above the psycho-spiritual level, beyond the pituitary gland. 
+
+No vibration is of any help. In such circumstances, finally you will have to depend on the grace of the supreme and nothing else. 
+
+One is obliged to declare, **Brahmakrpáhi kevalam**, that is, the grace of Parama Puruśa is everything.
 
 Everything in this universe is created, everything survives and everything ultimately dissolves in and through Him. Regarding this Supreme Entity, the scriptures say,
 
-Yato vishvaḿ samudhútaḿ
-Yena játaiṋca tiśthati;
-Yasmin sarváni liiyanta
-Jineyam tadbrama lakśanach.
+> Yato vishvaḿ samudhútaḿ Yena játaiṋca tiśthati; Yasmin sarváni liiyanta Jineyam tadbrama lakśanach.
 
-“Out of the grace of the supreme, the universe has emerged; due to His grace, the universe preserves its existence; and because of His grace, everything will finally dissolve in Him.”
+*“Out of the grace of the supreme, the universe has emerged; due to His grace, the universe preserves its existence; and because of His grace, everything will finally dissolve in Him.”*
 
-So the final word in the realm of spirituality is the supreme grace of Parama Puruśa. Intelligent people will understand this supreme truth and move accordingly. It is true not only in the physical level, nor in the physico-psychic level, nor in the psychic, nor in the psycho-spiritual level, but in all levels.
+So the final word in the realm of spirituality is the supreme grace of Parama Puruśa. Intelligent people will understand this supreme truth and move accordingly. 
 
-Finally, whatever you say or think, everything is finally embedded in the grace of Parama Puruśa. The sooner this fundamental truth is realized, the better it will be for all.
+It is true not only in the physical level, nor in the physico-psychic level, nor in the psychic, nor in the psycho-spiritual level, but in all levels.
+
+Finally, whatever you say or think, everything is finally embedded in the grace of Parama Puruśa. 
+
+The sooner this fundamental truth is realized, the better it will be for all.
+
 
 4 June 1989 DMC, Anandanagar
-Published in:

@@ -129,9 +129,12 @@ In fact, the mentality of those artists and litterateurs who depict only this ty
 
 Whatever be the profound, philosophical implications of the word prema, or love, the true characteristic of prema is supra-physical – beyond the bondage of any limitation.
 
-When artists, absorbed in the essence of love, try to convey it to the people through their language, rhetoric and subtle suggestions, the sweetness of their artistic genius reaches the apex of expression. But then this creation of the artist cannot be regarded as popular literature or art, because the subtle sense which is capable of comprehending that transcendental feeling is, indeed, undeveloped in most people. 
+When artists, absorbed in the essence of love, try to convey it to the people through their language, rhetoric and subtle suggestions, the sweetness of their artistic genius reaches the apex of expression. 
 
-The literature of Rabindranath Tagore has some semblances of this pure, supra-physical love. But whenever Rabindranath tried to give expression to it, he became unintelligible to the mass. 
+But then, this creation of the artist cannot be regarded as popular literature or art, because the subtle sense which is capable of comprehending that transcendental feeling is undeveloped in most people. 
+
+The literature of Rabindranath Tagore has some semblances of this pure, supra-physical love. 
+- But whenever Rabindranath tried to give expression to it, he became unintelligible to the masses. 
 
 The transcendental thoughts and ideas of the sweet, graceful shlokas of the Upaniśads are also incomprehensible to the common people.
 
@@ -141,17 +144,29 @@ Infinite love is the ultimate ecstatic expression of finite love.
 
 This very sense that artists try to awaken in the popular mind – when they devote themselves to the task of establishing the link between the finite and the infinite, between the mundane and the transcendental – this very awareness though not purely transcendental, verily bears the highest importance in the realm of art.
 
-Through expressions which are comprehensible to ordinary intelligence, it gradually leads the sweetness of the human mind to a supra-sensible dreamland. Rabindranath’s poem “Urvashii” is a composition of this type. There is no dearth of physicality in the poem, nor is it difficult to understand; and yet its crude materiality gradually expands into a subtlety beyond understanding.
+Through expressions which are comprehensible to ordinary intelligence, it gradually leads the sweetness of the human mind to a supra-sensible dreamland. 
 
-Love that is completely physical is not love at all in terms of philosophy. Therefore philosophy will not, and perhaps should not, entertain such love at all. But can an artist ignore it? 
+Rabindranath’s poem “Urvashii” is a composition of this type. 
 
-It is in every great or small incident of life that an ordinary person feels pleasure or pain. Even love concerned with the body is not something completely cut off from pleasure and pain. 
+There is no dearth of physicality in the poem, nor is it difficult to understand.
+
+Yet its crude materiality gradually expands into a subtlety beyond understanding.
+
+**Love that is completely physical is not love at all in terms of philosophy.** 
+
+Therefore philosophy will not, and perhaps should not, entertain such love at all. 
+
+But can an artist ignore it? 
+
+It is in every great or small incident of life that an ordinary person feels pleasure or pain. 
+
+Even love concerned with the body is not something completely cut off from pleasure and pain. 
 
 How then can the artist, given to delineating human happiness and sorrow – sworn to giving form to the impact of human grief and pain, hopes and desires – neglect this physical love? 
 
-Here it must be noted that artists must seek to exhibit before people the simple form of truth, sweetened with the sweetness of their hearts. 
+Artists must seek to exhibit before people the simple form of truth, sweetened with the sweetness of their hearts. 
 
-But it is a matter of great regret that a class of modern artists, in the realms of poetry, novels, cinema, drama, etc., employ all their artistic talents for the sole purpose of kindling people’s crude sensuality, instead of portraying human propensities with the idealistic outlook of a true artist.
+But it is greatly regretful that a class of modern artists employ their artistic talents for the sole purpose of kindling people’s crude sensuality in the realms of poetry, novels, cinema, drama, etc, instead of portraying human propensities with the idealistic outlook of a true artist.
 
  <!-- – what to speak of portraying their subtle human feelings. Without giving indulgence to conservatism,  -->
 
