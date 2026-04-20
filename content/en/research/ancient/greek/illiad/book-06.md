@@ -5,7 +5,6 @@ weight: 18
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
-image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
@@ -88,4 +87,3 @@ He took his plumed helmet from the ground, and his wife went back again to her h
 Paris did not remain long in his house. He donned his goodly armour overlaid with bronze, and hasted through the city as fast as his feet could take him. As a horse, stabled and fed, breaks loose and gallops gloriously over the plain to the place where he is wont to bathe in the fair-flowing river—he holds his head high, and his mane streams upon his shoulders as he exults in his strength and flies like the wind to the haunts and feeding ground of the mares—even so went forth Paris from high Pergamus, gleaming like sunlight in his armour, and he laughed aloud as he sped swiftly on his way. Forthwith he came upon his brother Hector, who was then turning away from the place where he had held converse with his wife, and he was himself the first to speak. “Sir,” said he, “I fear that I have kept you waiting when you are in haste, and have not come as quickly as you bade me.”
 
 “My good brother,” answered Hector, “you fight bravely, and no man with any justice can make light of your doings in battle. But you are careless and wilfully remiss. It grieves me to the heart to hear the ill that the Trojans speak about you, for they have suffered much on your account. Let us be going, and we will make things right hereafter, should Jove vouchsafe us to set the cup of our deliverance before ever-living gods of heaven in our own homes, when we have chased the Achaeans from Troy.”
-

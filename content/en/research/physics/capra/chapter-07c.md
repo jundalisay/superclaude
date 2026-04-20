@@ -1,0 +1,135 @@
+---
+heading: "Chapter 7c"
+title: "The I Ching"
+weight: 49
+description: "At the centre of the Confucian commentaries, as of the entire I Ching, is the emphasis on the dynamic aspect of all phenomena"
+c: "firebrick"
+icon: "Capra"
+---
+
+
+
+
+At the centre of the Confucian commentaries, as of the entire I Ching, is the emphasis on the dynamic aspect of all phenomena. The ceaseless transformation of all things and
+situations is the essential message of the Book of Changes:
+
+
+The Changes is a book
+From which one may not hold aloof.
+Its tao is forever changing-
+Alteration, movement without rest,
+Flowing through the six empty places,
+Rising and sinking without fixed law,
+Firm and yielding transform each other
+They cannot be confined within a rule,
+It is only change that is at work here.14
+
+
+<!-- greatest and most significant in the three thousand years
+of Chinese cultural history has either taken its inspiration
+from this book, or has exerted’an influence on the inter-
+pretation of its text. Therefore it may safely be said that
+the seasoned wisdom of thousands of years has gone into
+the making of the I Ching.l* -->
+
+The Book of Changes is thus a work that has grown organically
+over thousands of years and consists of many layers stemming
+from the most important periods of Chinese thought. The
+starting point of the book was a collection of sixty-four figures,
+or ‘hexagrams’, of the following type, which are based on the
+yin-yang symbolism and were used as oracles. Each hexagram
+consists of six lines which may be either broken (yin) or un-
+broken (yang), the sixty-four of them constituting all possible
+combinations of that kind. These hexagrams, which will be
+-
+-
+discussed in greater detail later on, were considered as cosmic
+archetypes representing the patterns of the Tao in nature and
+in human situations. Each of them was given a title and was
+supplemented with a brief text, called the Judgement, to in-
+dicate the course of action appropriate to the cosmic pattern
+in question. The so-called Image is another brief text, added at
+a later date, which elaborates the meaning of the hexagram
+in a few, often extremely poetic lines. A third text interprets
+each of the hexagram’s six lines in a language charged with
+mythical images which are often difficult to understand.
+These three categories of texts form the basic parts of the
+book which were used for divination. An elaborate ritual
+involving fifty yarrow stalks Was used to determine the hexagram
+corresponding to the personal situation of the questioner. The
+idea was to make the cosmic pattern of that moment visible
+in the hexagram and to learn from the oracle which course of
+action was appropriate to it:
+
+sions of the interplay between yin and yang, between the cold
+and dark winter and the bright and hot summer. The seasonal
+interplay of the two opposites is also reflected in the food we
+eat which contains elements of yin and yang. A healthy diet
+consists, for the Chinese, in balancing these yin and yang
+elements.
+
+Traditional Chinese medicine, too, is based on the balance
+of yin and yang in the human body, and any illness is seen as a
+disruption of this balance. The body is divided into yin and yang
+parts. Globally speaking, the inside of the body is yang, the
+body surface is yin; the back is yang, the front is yin; inside
+the body, there are yin and yang organs. The balance between
+all these parts is maintained by a continuous flow of ch’i, or
+vital energy, along a system of ‘meridians’ which contain the
+acupuncture points. Each organ has a meridian associated
+with it in such a way that yang meridians belong to yin organs
+and vice versa. Whenever the flow between the yin and yang
+is blocked, the body falls ill, and the illness is cured by sticking
+needles into the acupuncture points to stimulate and restore
+the flow of ch’i.
+
+The interplay of yin and yang, the primordial pair of opposites,
+appears thus as the principle that guides all the movements
+of the Tao, but the Chinese did not stop there. They went on
+to study various combinations of yin and yang which they
+developed into a system of cosmic archetypes. This system is
+elaborated in the I Ching, or Book of Changes.
+The Book of Changes is the first among the six Confucian
+Classics and must be considered as a work which lies at the very
+heart of Chinese thought and culture. The authority and esteem
+it has enjoyed in China throughout thousands of years is
+comparable only to those of sacred scriptures, like the Vedas
+or the Bible, in other cultures. The noted sinologue Richard
+Wilhelm begins the introduction to his translation of the book
+with the following words:
+
+
+
+The Book of Changes-/ Ching in Chinese-is unquestionably one of the most important books in the world’s
+literature. Its origin go&back to mythical antiquity, and it has occupied the attention of the most eminent
+scholars of China down to the- present day. Nearly all that is Greatest and most significant in the three
+thousand years of Chinese cultural history has either taken its inspiration from this book, or has
+exerted’an influence on the interpretation of its text. Therefore it may safely be said that the seasoned
+wisdom of thousands of years has gone into the making of the I Ching.l*
+
+
+The Book of Changes is thus a work that has grown organically over thousands of years and consists of many layers stemming from the most important periods of Chinese thought. 
+
+The starting point of the book was a collection of sixty-four figures, or ‘hexagrams’, of the following type, which are based on the yin-yang symbolism and were used as oracles. Each hexagram consists of six lines which may be either broken (yin) or unbroken (yang), the sixty-four of them constituting all possible combinations of that kind. These hexagrams, which will be discussed in greater detail later on, were
+considered as cosmic archetypes representing the patterns of the Tao in nature and in human situations.
+
+Each of them was given a title and was supplemented with a brief text, called the Judgement, to indicate the course of action appropriate to the cosmic pattern in question. The so-called Image is another brief text, added at a later date, which elaborates the meaning of the hexagram in a few, often extremely poetic lines.
+
+A third text interprets each of the hexagram’s six lines in a language charged with mythical images which are often difficult to understand. These three categories of texts form the basic parts of the book which were used for divination. An elaborate ritual involving fifty yarrow stalks Was used to determine the hexagram corresponding to the personal situation of the questioner. The idea was to make the cosmic pattern of that moment visible in the hexagram and to learn from the oracle which course of action was appropriate to it:
+
+In the Changes there are images to reveal, there are judgements appended in order to interpret, good
+fortune and misfortune are determined in order to decide. The purpose of consulting the I Ching was thus
+not merely to know the future, but rather to discover the disposition of the present situation so that proper
+action could be taken. This attitude lifted the I Ching above the level of an ordinary book of soothsaying
+and made it a book of wisdom. The use of the I Ching as a book of wisdom is, in fact, of far greater
+importance than its use as an oracle. It has inspired the leading minds of China throughout the ages, among
+them Lao Tzu, who drew some of his profoundest aphorisms from this source. Confucius studied it
+intensively and most of the commentaries on the text which make up the later strata of the book go back to
+his school. These commentaries, the so-called Ten Wings, combine the structural interpretation of the
+hexagrams with philosophical explanations. At the centre of the Confucian commentaries, as of the entire I
+Ching, is the emphasis on the dynamic aspect of all phenomena. The ceaseless transformation of all things
+and situations is the essential message of the Book of Changes:
+The Changes is a book From which one may not hold aloof.
+Its tao is forever changing-Alteration, movement without rest, Flowing through the six empty places,
+Rising and sinking without fixed law, Firm and yielding transform each other
+They cannot be confined within a rule, It is only change that is at work here.

@@ -1,8 +1,10 @@
 ---
+heading: "Chapter 10"
 title: "Unity in All Things"
-weight: 70
+weight: 60
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
 c: "firebrick"
+icon: "Capra"
 ---
 
 <!-- Although the  described in the last five
@@ -84,4 +86,53 @@ that the constituents of matter and the basic phenomena
 involving them are all interconnected, interrelated and inter-
 dependent; that they cannot be understood as isolated entities,
 but only as integrated parts of the whole.
+
+
+
+In this chapter, I shall discuss how the notion of the basic interconnectedness of nature arises in quantum
+theory, the theory of atomic phenomena, through a careful analysis of Physics the process of observation.*
+Before entering this discussion, I haveto come back to thedistinction between the mathematical framework
+of a theory and its verbal interpretation. The mathematical framework of quantum theory has passed
+countless successful tests and is now universally accepted as a consistent and accurate description of all
+atomic phenomena. The verbal interpretation, on the other hand-i.e. the metaphysics of quantum theory-is
+on far less solid ground. In fact, in more than forty years physicists have not been able to provide a clear
+metaphysical model.
+
+The following discussion is based on the so-called Copenhagen interpretation of quantum theory which
+was developed by Bohr and Heisenberg in the late 1920s and is still the most
+widely accepted model. In my discussion I shall follow the presentation given by Henry Stapp of the
+University of California which concentrates on certain aspects of the theory and on a certain type of
+experimental situation that is frequently encountered in subatomic physics.** Stapp’s presentation shows
+most clearly how quantum theory implies an essential interconnectedness of nature, and it also puts the
+theory in a framework that can readily be extended to the relativistic models of subatomic particles to be
+discussed later on. The starting point of the Copenhagen interpretation is the division of the physical world
+into an observed system (‘object’) and an observing system. The observed system can be an atom, a
+subatomic particle, an atomic process, etc. The observing system consists of the experimental apparatus
+and will include one or several human observers. A serious difficulty now arises from the fact that the two
+systems are treated in different ways. The observing system is described in the terms *Although I have
+suppressed all the mathematics and simplified the analysis considerably, the following discussion may
+nevertheless appear to be rather dry and technical. It should perhaps be taken as ‘yogic’ exercise whichlike many exercises in the spiritual training of the Eastern traditions-may not be much fun, but may lead to
+a profound and beautiful insight into the essential nature of things.
+
+
+
+**Other aspects of quantum theory will be discussed in subsequent chapters, of classical physics, but these
+terms cannot be used consistently for the description of the observed ‘object’. We know that classical
+concepts are inadequate at the atomic level, yet we have to use them to describe our experiments and to
+state the results. There is no way we can escape this paradox. The technical language of classical physics is
+just a refinement of our everyday language and it is the only language we have to communicate our
+experimental results. The observed systems are described in quantum theory in terms of probabilities. This
+means that we can never predict with certainty where a subatomic particle will be at a certain time, or how
+an atomic process will occur. All we can do is predict the odds. For example, most of the subatomic
+particles known today are unstable, that is, they distintegrate-or ‘decay’-into other particles after a certain
+time. It is not possible, however, to predict this time exactly. We can only predict the probability of decay
+after a certain time or, in other words, the average lifetime of a great number of particles of the same kind.
+The same applies to the ‘mode’ of decay. In general, an unstable particle can decay into various
+combinations of other particles, and again we cannot predict which combination a particular particle will
+choose. All we can predict is that out of a large number of particles 60 per cent, say, will decay in one way,
+30 per cent in another way, and 10 per cent in a third way. It is clear that such statistical predictions need
+many measurements to be verified. Indeed, in the collision experiments of high-energy physics tens of
+thousands of particle collisions are recorded and analysed to determine the probability for a particular
+process.
+
 

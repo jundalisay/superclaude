@@ -5,13 +5,13 @@ weight: 14
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
-image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 
 
 <!-- BOOK V.
 The exploits of Diomed, who, though wounded by Pandarus, continues fighting—He kills Pandarus and wounds AEneas—Venus rescues AEneas, but being wounded by Diomed, commits him to the care of Apollo and goes to Olympus, where she is tended by her mother Dione—Mars encourages the Trojans, and AEneas returns to the fight cured of his wound—Minerva and Juno help the Achaeans, and by the advice of the former Diomed wounds Mars, who returns to Olympus to get cured. -->
+
 
 Then Pallas Minerva put valour into the heart of Diomed, son of Tydeus, that he might excel all the other Argives, and cover himself with glory. 
 
@@ -154,4 +154,3 @@ Jove looked angrily at him and said, “Do not come whining here, Sir Facing-bot
 He then bade Paeeon heal him, whereon Paeeon spread pain-killing herbs upon his wound and cured him, for he was not of mortal mould. As the juice of the fig-tree curdles milk, and thickens it in a moment though it is liquid, even so instantly did Paeeon cure fierce Mars. Then Hebe washed him, and clothed him in goodly raiment, and he took his seat by his father Jove all glorious to behold.
 
 But Juno of Argos and Minerva of Alalcomene, now that they had put a stop to the murderous doings of Mars, went back again to the house of Jove.
-

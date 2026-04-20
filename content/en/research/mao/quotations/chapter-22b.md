@@ -83,16 +83,18 @@ To negate everything is to think, without having made any analysis, that nothing
 Although there is a difference between the many people who hold such views and those who are hostile to the socialist system, these views are very mistaken and harmful and can only dishearten people. It is wrong to appraise our work either from the viewpoint that everything is positive, or from the viewpoint that everything is negative.
 <cite>Speech at the Chinese Communist Party's National Conference on Propaganda Work (March 12, 1957), 1st pocket ed., pp. 16-17.*</cite>
 
-In approaching a problem a Marxist should see the whole as well as the parts. A frog in a well says, "The sky is no bigger than the mouth of the well." That is untrue, for the sky is not just the size of the mouth of the well. If it said, "A
-part of the sky is the size of the mouth of a well", that would be true, for it
-tallies with the facts.
+
+In approaching a problem a Marxist should see the whole as well as the parts. A frog in a well says, "The sky is no bigger than the mouth of the well." That is untrue, for the sky is not just the size of the mouth of the well. If it said, "A part of the sky is the size of the mouth of a well", that would be true, for it tallies with the facts.
+
 <cite>On Tactics Against Japanese Imperialism" (December 27, 1935), Selected Works, Vol. I, p. 159</cite>
 
 We must learn to look at problems allsidedly, seeing the reverse as well as the obverse side of things. In given conditions, a bad thing can lead to good results and a good thing to bad results.
+
 <cite>The Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., pp. 66-67.*</cite>
 
 
 While we recognize that in the general development of history the material determines the mental and social being determines social consciousness, we also - and indeed must - recognize the reaction of mental on material things, of social consciousness on social being and of the superstructure on the economic base. This does not go against materialism; on the contrary, it avoids mechanical materialism and firmly upholds dialectical materialism.
+
 <cite>"On Contradiction" (August 1937), Selected Works, Vol. I, p. 336.*</cite>
 
 In seeking victory, those who direct a war cannot overstep the limitations imposed by the objective conditions; within these limitations, however, they can and must play a dynamic role in striving for victory. The stage of action for commanders in a war must be built upon objective possibilities, but on that stage they can direct the performance of many a drama, full of sound and colour, power and grandeur.
@@ -106,28 +108,30 @@ We should always use our brains and think everything over carefully. A common sa
 In other words much thinking yields wisdom. In order to get rid of the blindness which exists to a serious extent in our Party, we must encourage our comrades to think, to learn the method of analysis and to cultivate the habit of analysis.
 <cite>Our Study and the Current Situation" (April 12, 1944), Selected Works, Vol. III, pp. 174-75.*</cite>
 
-If in any process there are a number of contradictions, one of them must be
-the principal contradiction playing the leading and decisive role, while the
-rest occupy a secondary and subordinate position. Therefore, in studying any
-complex process in which there are two or more contradictions, we must
-devote every effort to finding its principal contradiction. Once this principal
-contradiction is grasped, all problems can be readily solved.
-"On Contradiction" (August 1937), Selected Works, Vol. I, p. 332.*
+
+If in any process there are a number of contradictions, one of them must be the principal contradiction playing the leading and decisive role, while the rest occupy a secondary and subordinate position. 
+
+Therefore, in studying any complex process in which there are two or more contradictions, we must devote every effort to finding its principal contradiction. Once this principal contradiction is grasped, all problems can be readily solved. 
+
+<cite>On Contradiction (August 1937), Selected Works, Vol. I, p. 332.</cite>
 
 Of the two contradictory aspects, one must be principal and the other secondary. The principal aspect is the one playing the leading role in the contradiction. 
 
 The nature of a thing is determined mainly by the principal aspect of a contradiction, the aspect which has gained the dominant position. But this situation is not static; the principal and the non-principal aspects of a contradiction transform themselves into each other and the nature of the thing changes accordingly.
-Ibid., p. 333.
+<cite class="mb-5">  Ibid., p. 333.</cite>
 
 
-It is not enough to set tasks, we must also solve the problem of the methods for carrying them out. If our task is to cross a river, we cannot cross it without a bridge or a boat. Unless the bridge or boat problem is solved, it is idle to speak of crossing the river. Unless the problem of method is solved, talk about the task is useless.
+It is not enough to se t tasks, we must also solve the problem of the methods for carrying them out. If our task is to cross a river, we cannot cross it without a bridge or a boat. Unless the bridge or boat problem is solved, it is idle to speak of crossing the river. Unless the problem of method is solved, talk about the task is useless.
+
 <cite>Be Concerned with the Well-Being of the Masses, Pay Attention to Methods of Work" (January 27, 1934), Selected Works, Vol. I, p. 150</cite>
 
 In any task, if no general and widespread call is issued, the broad masses cannot be mobilized for action. But if persons in leading positions confine themselves to a general call - if they do not personally, in some of theorganizations, go deeply and concretely into the work called for, make a break-through at some single point, gain experience and use this experience for guiding other units - then they will have no way of testing the correctness or of enriching the content of their general call, and there is the danger that nothing may come of it.
+
 <cite>Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works, Vol. III, p. 117</cite>
 
 
 No one in a leading position is competent to give general guidance to all the units unless he derives concrete experience from particular individuals and events in particular subordinate units. This method must be promoted everywhere so that leading cadres at all levels learn to apply it.
+
 <cite>Ibid., p. 118.</cite>
 
 In any given place, there cannot be a number of central tasks at the same time. At any one time there can be only one central task, supplemented by other tasks of a second or third order of importance. 
@@ -137,15 +141,20 @@ Consequently, the person with over-all responsibility in the locality must take 
 Nor should a higher organization simultaneously assign many tasks to a lower organization without indicating their relative importance and urgency or without specifying which is central, for that will lead to confusion in the steps to be taken by the lower organizations in their work and thus no definite results will be achieved. 
 
 It is part of the art of leadership to take the whole situation into account and plan accordingly in the light of the historical conditions and existing circumstances of each locality, decide correctly on the centre of gravity and the sequence of the work for each period, steadfastly carry through the decision, and make sure that definite results are achieved.
+
 <cite>Ibid., p. 121</cite>
 
 
 It [a regional or sub-regional bureau of the Central Committee of the Party] should constantly have a grip on the progress of the work, exchange experience and correct mistakes; it should not wait several months, half a year or a year before holding summing-up meetings for a general check-up and a general correction of mistakes. Waiting leads to great loss, whilecorrecting mistakes as soon as they occur reduces loss.
+
 <cite>The Policy Concerning Industry and Commerce" (February 27, 1948), Selected Works, Vol. IV, p. 204.</cite>
 
+
 Don't wait until problems pile up and cause a lot of trouble before trying to solve them. Leaders must march ahead of the movement, not lag behind it. 
+
 <cite>Introductory note to "Contract on a Seasonal Basis" (1955), The Socialist Upsurge in China's Countryside, Chinese ed., Vol. III</cite>
 
 
 What we need is an enthusiastic but calm state of mind and intense but orderly work.
+
 <cite>Problems of Strategy in China 's Revolutionary War" (December 1936), Selected Works, Vol. I, p. 211.</cite>

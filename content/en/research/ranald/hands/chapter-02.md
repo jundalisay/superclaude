@@ -5,8 +5,7 @@ title: "The Fingers"
 weight: 10
 contributors: ['Ranald']
 c: "#DE3163"
-description: ""
-draft: true
+description: "Most hands are of the mixed type. Each finger must be considered separately."
 ---
 
 
@@ -118,7 +117,7 @@ This is why I have found it extremely important to decide, quite early in the pr
 
 Size, both length and thickness, and the general contours of a hand will indicate which finger is the dominant one.
 
-A finger which is larger than normal in proportion to the others, 
+<!-- A finger which is larger than normal in proportion to the others, 
 
 
 or one toward which the others appear
@@ -128,3 +127,4 @@ one.
 to lean, usually
 shows the
 
+ -->

@@ -1,10 +1,10 @@
 ---
-title: "The Tao of Physics"
-heading: Capra
-author: "Capra"
+title: "A massive interacting galaxy"
+# 510 million years after the Big Bang
+# heading: Capra
+# author: "Capra"
 weight: 20
-description: "Physicist talking about Taoism."
-draft: true
+description: ""
 c: "firebrick"
 ---
 

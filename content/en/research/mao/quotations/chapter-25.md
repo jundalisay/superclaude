@@ -23,7 +23,6 @@ It is only through the unity of the Communist Party that the unity of the whole 
 
 We shall solidly unite all the forces of our Party on democratic centralist principles of organization and discipline. We shall unite with any comrade if he abides by the Party's Programme, Constitution and decisions.
 
-
 <cite>"On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 317.*</cite>
 
 

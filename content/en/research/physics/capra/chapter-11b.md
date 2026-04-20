@@ -1,8 +1,9 @@
 ---
 title: "Tantric Buddhism"
-weight: 21
+weight: 73
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
 c: "firebrick"
+icon: "Capra"
 ---
 
 

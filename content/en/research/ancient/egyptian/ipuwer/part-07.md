@@ -86,8 +86,9 @@ Behold, no craftsmen work, for the enemies of the land have impoverished its cra
 [Behold, he who once recorded] the harvest now knows nothing about it, while he who never ploughed [for himself is now the owner of corn; the reaping] takes place but is not reported. The scribe [sits in his office], but his hands [are idle] in it.
 Destroyed is [. . .] in that time, and a man looks [on his friend as] an adversary. The infirm man brings coolness [to what is hot . . .] fear [. . .. . .]. Poor men [. . . the land] is not bright because of it.	 	-priests: king's men (Wilson)
 -everyone fetches for himself those that are branded with his name: Wilson: Every man takes for himself and brands (them) with his name.
- 
-X
+
+## Part 10
+
 Destroyed is [. . .] their food is taken from them [. . . through] fear of his terror. The commoner begs [. . .] messenger, but not [. . .] time. He is captured laden with goods and [all his property] is taken away. [. . .] men pass by his door [. . .] the outside of the wall, a shed, and rooms containing falcons. It is the common man who will be vigilant, the day having dawned on him without his dreading it. Men run because of [. . . for] the temple of the head, strained through a woven cloth within the house. What they make are tents, just like the desert folk.
 Destroyed is the doing of that for which men are sent by retainers in the service of their masters; they have no readiness.
 Behold, they are five men, and they say: "Go on the road you know, for we have arrived."
@@ -98,7 +99,8 @@ Destroy the enemies of that erstwhile august Residence [. . .] none can stand [.
 Destroy the enemies of that erstwhile august Residence, manifold of offices; indeed [. . .].
 Remember to immerse [. . .] him who is in pain when he is sick in his body; show respect [. . .] because of his god that he may guard the utterance [. . .] his children who are witnesses of the surging of the flood.	 	
  
-XI
+## Part 11
+
 Remember to [. . . . . .]. . . shrine, to fumigate with incense and to offer water in a jar in the early morning.
 Remember [to bring] fat r-geese, trp-geese, and ducks and to offer god's offerings to the gods.
 Remember to chew natron and to prepare white bread; a man [should do it] on the day of wetting the head.
@@ -115,7 +117,7 @@ Behold, why does he seek to fashion [men . . .]? The frightened man is not disti
 -he: the creator god
  
 
- ## Part 12
+## Part 12
 
 He brings coolness upon heat; men say: "He is the herdsman of mankind, and there is no evil in his heart." Though his herds are few, yet he spends a day to collect them, their hearts being on fire.
 
@@ -157,7 +159,7 @@ Everyone fights for his sister and saves his own skin. Is it Nubians? Then will 
 ## Part 15
 
 How comes it that every man kills his brother? The troops whom we marshaled for ourselves have turned into foreigners and have taken to ravaging. What has come to pass through it is informing the Asiatics of the state of the land; all the desert folk are possessed with the fear of it. What the plebs have tasted [. . .] without giving Egypt over [to] the sand. It is strong [. . .] speak about you after years [. . .] devastate itself, it is the threshing floor which nourishes their houses [. . .] to nourish his children [. . .] said by the troops [. . . . . .] fish [. . .] gum, lotus leaves [. . .] excess of food.	 	-foreigners and have taken to ravaging: Wilson: barbarians, beginning to destroy that from which they took their being. Foreigners were seen as agents of chaos.
--What the plebs have tasted [. . .] without giving Egypt over [to] the sand: Lichtheim: The experience of the people is that they say: "Egypt will not be given over <to> sand!"
+-What the plebs have tasted [. . .] without giving Egypt over [to] the sand: Lichtheim: The experience of the people is that they say: "Egypt will not be given over sand!"
 
 
 ## Part 16 
@@ -170,4 +172,3 @@ That is how a man grows old before he dies, while his son is a lad of understand
 
 If men call to [. . .] weep [. . .] them, who break into the tombs and burn the statues [. . .] the corpses of the nobles [. . .. . .] of directing work.	 	
 [1] Influenced by the revisionist historians of the second half of the 20th century who could not find any archaeological proofs for the historicity of the earlier Bible stories, their value as historical records came to be doubted. Before that time most Egyptologists, having grown up in the Christian West, accepted these accounts as being, at least in part, historically correct.
-

@@ -12,15 +12,71 @@ description: "The Illiad Simplified with the gods as Anunnaki and heroes as Neph
 The fight around the body of Patroclus. -->
 
 
-Brave Menelaus son of Atreus now came to know that Patroclus had fallen, and made his way through the front ranks clad in full armour to bestride him. As a cow stands lowing over her first calf, even so did yellow-haired Menelaus bestride Patroclus. He held his round shield and his spear in front of him, resolute to kill any who should dare face him. But the son of Panthous had also noted the body, and came up to Menelaus saying, “Menelaus, son of Atreus, draw back, leave the body, and let the blood-stained spoils be. I was first of the Trojans and their brave allies to drive my spear into Patroclus, let me, therefore, have my full glory among the Trojans, or I will take aim and kill you.”
+Brave Menelaus:
+- now came to know that Patroclus had fallen
+- made his way through the front ranks
 
-To this Menelaus answered in great anger “By father Jove, boasting is an ill thing. The pard is not more bold, nor the lion nor savage wild boar, which is fiercest and most dauntless of all creatures, than are the proud sons of Panthous. Yet Hyperenor did not see out the days of his youth when he made light of me and withstood me, deeming me the meanest soldier among the Danaans. His own feet never bore him back to gladden his wife and parents. Even so shall I make an end of you too, if you withstand me; get you back into the crowd and do not face me, or it shall be worse for you. Even a fool may be wise after the event.”
+Yellow-haired Menelaus bestride Patroclus just as a cow stands lowing over her first calf. 
 
-Euphorbus would not listen, and said, “Now indeed, Menelaus, shall you pay for the death of my brother over whom you vaunted, and whose wife you widowed in her bridal chamber, while you brought grief unspeakable on his parents. I shall comfort these poor people if I bring your head and armour and place them in the hands of Panthous and noble Phrontis. The time is come when this matter shall be fought out and settled, for me or against me.”
+He held his round shield and his spear in front of him, resolute to kill any who should dare face him.
 
-As he spoke he struck Menelaus full on the shield, but the spear did not go through, for the shield turned its point. Menelaus then took aim, praying to father Jove as he did so; Euphorbus was drawing back, and Menelaus struck him about the roots of his throat, leaning his whole weight on the spear, so as to drive it home. The point went clean through his neck, and his armour rang rattling round him as he fell heavily to the ground. His hair which was like that of the Graces, and his locks so deftly bound in bands of silver and gold, were all bedrabbled with blood. As one who has grown a fine young olive tree in a clear space where there is abundance of water—the plant is full of promise, and though the winds beat upon it from every quarter it puts forth its white blossoms till the blasts of some fierce hurricane sweep down upon it and level it with the ground—even so did Menelaus strip the fair youth Euphorbus of his armour after he had slain him. Or as some fierce lion upon the mountains in the pride of his strength fastens on the finest heifer in a herd as it is feeding—first he breaks her neck with his strong jaws, and then gorges on her blood and entrails; dogs and shepherds raise a hue and cry against him, but they stand aloof and will not come close to him, for they are pale with fear—even so no one had the courage to face valiant Menelaus. The son of Atreus would have then carried off the armour of the son of Panthous with ease, had not Phoebus Apollo been angry, and in the guise of Mentes chief of the Cicons incited Hector to attack him. “Hector,” said he, “you are now going after the horses of the noble son of Aeacus, but you will not take them; they cannot be kept in hand and driven by mortal man, save only by Achilles, who is son to an immortal mother. Meanwhile Menelaus son of Atreus has bestridden the body of Patroclus and killed the noblest of the Trojans, Euphorbus son of Panthous, so that he can fight no more.”
+But Euphorbus had also noted the body, and came up to Menelaus saying:
 
-The god then went back into the toil and turmoil, but the soul of Hector was darkened with a cloud of grief; he looked along the ranks and saw Euphorbus lying on the ground with the blood still flowing from his wound, and Menelaus stripping him of his armour. On this he made his way to the front like a flame of fire, clad in his gleaming armour, and crying with a loud voice. When the son of Atreus heard him, he said to himself in his dismay, “Alas! what shall I do? I may not let the Trojans take the armour of Patroclus who has fallen fighting on my behalf, lest some Danaan who sees me should cry shame upon me. Still if for my honour’s sake I fight Hector and the Trojans single-handed, they will prove too many for me, for Hector is bringing them up in force. Why, however, should I thus hesitate? When a man fights in despite of heaven with one whom a god befriends, he will soon rue it. Let no Danaan think ill of me if I give place to Hector, for the hand of heaven is with him. Yet, if I could find Ajax, the two of us would fight Hector and heaven too, if we might only save the body of Patroclus for Achilles son of Peleus. This, of many evils would be the least.”
+{{< r a="Euphorbus" >}}
+Menelaus, draw back. Leave the body and let the blood-stained spoils be.
+
+I was first of the Trojans and their brave allies to drive my spear into Patroclus. So let me have my full glory among the Trojans, or I will take aim and kill you.
+{{< /r >}}
+
+
+{{< l a="Menelaus" >}}
+[angrily] Boasting is an ill thing. The pard is not more bold, nor the lion nor savage wild boar, which is fiercest and most dauntless of all creatures, than are the proud sons of Panthous.
+
+Yet Hyperenor did not see out the days of his youth when he made light of me and withstood me, deeming me the meanest soldier among the Danaans. 
+
+His own feet never bore him back to gladden his wife and parents. Even so shall I make an end of you too, if you withstand me; get you back into the crowd and do not face me, or it shall be worse for you. Even a fool may be wise after the event.
+{{< /l >}}
+
+
+{{< r a="Euphorbus" >}}
+Shall you pay for the death of my brother over whom you vaunted, and whose wife you widowed in her bridal chamber, while you brought grief unspeakable on his parents. 
+
+I shall comfort these poor people if I bring your head and armour and place them in the hands of Panthous and noble Phrontis. The time is come when this matter shall be fought out and settled, for me or against me.
+{{< /r >}}
+
+
+As he spoke, he struck Menelaus on the shield, but the spear did not go through.
+
+Menelaus then took aim, praying to father Jove as he did so.
+
+Euphorbus was drawing back, and Menelaus struck him about the roots of his throat, leaning his whole weight on the spear, so as to drive it home.
+
+The point went clean through his neck, and his armour rang rattling round him as he fell heavily to the ground.
+
+His hair which was like that of the Graces, and his locks so deftly bound in bands of silver and gold, were all bedrabbled with blood. 
+
+As one who has grown a fine young olive tree in a clear space where there is abundance of water—the plant is full of promise, and though the winds beat upon it from every quarter it puts forth its white blossoms till the blasts of some fierce hurricane sweep down upon it and level it with the ground—even so did Menelaus strip the fair youth Euphorbus of his armour after he had slain him. 
+
+Or as some fierce lion upon the mountains in the pride of his strength fastens on the finest heifer in a herd as it is feeding—first he breaks her neck with his strong jaws, and then gorges on her blood and entrails; dogs and shepherds raise a hue and cry against him, but they stand aloof and will not come close to him, for they are pale with fear—even so no one had the courage to face valiant Menelaus. 
+
+The son of Atreus would have then carried off the armour of the son of Panthous with ease, had not Phoebus Apollo been angry, and in the guise of Mentes chief of the Cicons incited Hector to attack him. 
+
+
+{{< r a="Apollo" >}}
+Hector, you are now going after the horses of the noble son of Aeacus, but you will not take them; they cannot be kept in hand and driven by mortal man, save only by Achilles, who is son to an immortal mother. 
+
+Meanwhile Menelaus son of Atreus has bestridden the body of Patroclus and killed the noblest of the Trojans, Euphorbus son of Panthous, so that he can fight no more.
+{{< /r >}}
+
+The god then went back into the toil and turmoil.
+
+But Hector was darkened with grief.
+
+He looked along the ranks and saw Euphorbus lying on the ground with the blood still flowing from his wound, and Menelaus stripping him of his armour. 
+
+He made his way to the front like a flame of fire, clad in his gleaming armour, and crying with a loud voice. 
+
+When the son of Atreus heard him, he said to himself in his dismay, “Alas! what shall I do? I may not let the Trojans take the armour of Patroclus who has fallen fighting on my behalf, lest some Danaan who sees me should cry shame upon me. Still if for my honour’s sake I fight Hector and the Trojans single-handed, they will prove too many for me, for Hector is bringing them up in force. Why, however, should I thus hesitate? When a man fights in despite of heaven with one whom a god befriends, he will soon rue it. Let no Danaan think ill of me if I give place to Hector, for the hand of heaven is with him. Yet, if I could find Ajax, the two of us would fight Hector and heaven too, if we might only save the body of Patroclus for Achilles son of Peleus. This, of many evils would be the least.”
 
 While he was thus in two minds, the Trojans came up to him with Hector at their head; he therefore drew back and left the body, turning about like some bearded lion who is being chased by dogs and men from a stockyard with spears and hue and cry, whereon he is daunted and slinks sulkily off—even so did Menelaus son of Atreus turn and leave the body of Patroclus. When among the body of his men, he looked around for mighty Ajax son of Telamon, and presently saw him on the extreme left of the fight, cheering on his men and exhorting them to keep on fighting, for Phoebus Apollo had spread a great panic among them. He ran up to him and said, “Ajax, my good friend, come with me at once to dead Patroclus, if so be that we may take the body to Achilles—as for his armour, Hector already has it.”
 

@@ -97,7 +97,7 @@ Conversely, if the proposal is not feasible for the part but is feasible in the 
 <cite>The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 201</cite>
 
 
-### Pleasure-seeking
+## Pleasure-seeking
 
 In the Red Army there are also quite a few people whose individualism finds expression in pleasure-seeking. They always hope that their unit will march into big cities. They want to go there not to work but to enjoy themselves. The last thing they want is to work in the Red areas where life is hard.
 

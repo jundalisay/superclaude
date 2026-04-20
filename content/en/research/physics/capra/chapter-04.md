@@ -1,13 +1,14 @@
 ---
+heading: "Chapter 4"
 title: "The New Physics"
-weight: 12
-description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+weight: 24
+description: "According to the Eastern mystics, the direct mystical experience of reality is a momentous event which shakes the very foundations of one’s world view."
 c: "firebrick"
+icon: "Capra"
 ---
 
 
-According to the Eastern mystics, the direct mystical experience of reality is a momentous event which shakes the
-very foundations of one’s world view. 
+According to the Eastern mystics, the direct mystical experience of reality is a momentous event which shakes the very foundations of one’s world view. 
 
 D. T. Suzuki has called it ‘the most startling event that could ever happen in the realm of human consciousness . . . upsetting every form of standardised experience’. He has illustrated the shocking character of this experience with the words of a Zen master who described it as ‘the bottom of a pail breaking through’.
 

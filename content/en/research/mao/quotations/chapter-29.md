@@ -55,14 +55,11 @@ It is on these cadres and leaders that the Party relies for its links with the m
 Such cadres and leaders must be free from selfishness, from individualistic heroism, ostentation, sloth, passivity, and arrogant sectarianism, and they must be selfless national and class heroes; such are the qualities and the style of work demanded of the members, cadres and leaders of our Party.
 
 {{< cite >}}
-"Win the Masses in Their Millions for the Anti-Japanese National United Front" (May
-7, 1937), Selected Works, Vol. I, p. 291.*
+"Win the Masses in Their Millions for the Anti-Japanese National United Front" (May 7, 1937), Selected Works, Vol. I, p. 291.*
 {{< /cite >}}
 
-Cadres are a decisive factor, once the political line is determined. 
 
-Therefore, it is our fighting task to train large numbers of new cadres in a planned way.
-
+Cadres are a decisive factor, once the political line is determined. Therefore, it is our fighting task to train large numbers of new cadres in a planned way.
 
 <cite>"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.</cite>
 

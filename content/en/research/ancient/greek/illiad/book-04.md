@@ -1,10 +1,9 @@
 ---
 heading: Book 4
 title: "Minerva and Pandarus"
-weight: 6
+weight: 10
 c: "darkslategray"
 icon: Homer
-image: /graphics/history/illiad.jpg
 image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
@@ -143,7 +142,14 @@ But Apollo looked down from Pergamus and called aloud to the Trojans, for he was
 
 Thus spoke the mighty god, crying to them from the city, while Jove’s redoubtable daughter, the Trito-born, went about among the host of the Achaeans, and urged them forward whenever she beheld them slackening.
 
-Then fate fell upon Diores, son of Amarynceus, for he was struck by a jagged stone near the ancle of his right leg. He that hurled it was Peirous, son of Imbrasus, captain of the Thracians, who had come from Aenus; the bones and both the tendons were crushed by the pitiless stone. He fell to the ground on his back, and in his death-throes stretched out his hands towards his comrades. But Peirous, who had wounded him, sprang on him and thrust a spear into his belly, so that his bowels came gushing out upon the ground, and darkness veiled his eyes. As he was leaving the body, Thoas of Aetolia struck him in the chest near the nipple, and the point fixed itself in his lungs. Thoas came close up to him, pulled the spear out of his chest, and then drawing his sword, smote him in the middle of the belly so that he died; but he did not strip him of his armour, for his Thracian comrades, men who wear their hair in a tuft at the top of their heads, stood round the body and kept him off with their long spears for all his great stature and valour; so he was driven back. Thus the two corpses lay stretched on earth near to one another, the one captain of the Thracians and the other of the Epeans; and many another fell round them.
+Then fate fell upon Diores, son of Amarynceus, for he was struck by a jagged stone near the ancle of his right leg. He that hurled it was Peirous, son of Imbrasus, captain of the Thracians, who had come from Aenus; the bones and both the tendons were crushed by the pitiless stone. 
 
-And now no man would have made light of the fighting if he could have gone about among it scatheless and unwounded, with Minerva leading him by the hand, and protecting him from the storm of spears and arrows. For many Trojans and Achaeans on that day lay stretched side by side face downwards upon the earth.
+He fell to the ground on his back, and in his death-throes stretched out his hands towards his comrades. But Peirous, who had wounded him, sprang on him and thrust a spear into his belly, so that his bowels came gushing out upon the ground, and darkness veiled his eyes. 
 
+As he was leaving the body, Thoas of Aetolia struck him in the chest near the nipple, and the point fixed itself in his lungs. 
+
+Thoas came close up to him, pulled the spear out of his chest, and then drawing his sword, smote him in the middle of the belly so that he died; but he did not strip him of his armour, for his Thracian comrades, men who wear their hair in a tuft at the top of their heads, stood round the body and kept him off with their long spears for all his great stature and valour; so he was driven back.
+
+Thus the two corpses lay stretched on earth near to one another, the one captain of the Thracians and the other of the Epeans; and many another fell round them.
+
+No man would have made light of the fighting if he could have gone about among it scatheless and unwounded, with Minerva leading him by the hand, and protecting him from the storm of spears and arrows. For many Trojans and Achaeans on that day lay stretched side by side face downwards upon the earth.

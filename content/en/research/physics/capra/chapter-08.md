@@ -1,9 +1,10 @@
 ---
 heading: "Chapter 8"
 title: "Taoism"
-weight: 49
+weight: 52
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
 c: "firebrick"
+icon: "Capra"
 ---
 
 
@@ -11,17 +12,13 @@ Taoism is mystically oriented and thus more relevant for our comparison with mod
 
 Like Hinduism and Buddhism, Taoism is interested in intuitive wisdom, rather than in rational knowledge. 
 
-Acknowledging
-the limitations and the relativity of the world of rational
-thinking, Taoism is, basically, a way of liberation from this
-world and is, in this respect, comparable to the ways of Yoga
-or Vedanta in Hinduism, or to the Eightfold Path of the Buddha.
-In the context of Chinese culture, the Taoist liberation meant,
-more specifically, a liberation from the strict rules of convention.
-Mistrust of conventional knowledge and reasoning is stronger
-in Taoism than in any other school of Eastern philosophy. It is
-based on the firm belief that the human intellect can never
-comprehend the Tao. In the words of Chuang Tzu,
+Acknowledging the limitations and the relativity of the world of rational thinking, Taoism is, basically, a way of liberation from this
+world and is, in this respect, comparable to the ways of Yoga or Vedanta in Hinduism, or to the Eightfold Path of the Buddha.
+
+In the context of Chinese culture, the Taoist liberation meant, more specifically, a liberation from the strict rules of convention.
+Mistrust of conventional knowledge and reasoning is stronger in Taoism than in any other school of Eastern philosophy. 
+
+It is based on the firm belief that the human intellect can never comprehend the Tao. In the words of Chuang Tzu,
 The most extensive knowledge does not necessarily know
 it; reasoning will not make men wise in it. The sages
 have decided against both these methods.’
@@ -195,9 +192,7 @@ principle throughout Chinese culture, but is also reflected in
 the two dominant trends of Chinese thought. Confucianism
 was rational, masculine, active and dominating.
 
-Taoism, on
-the other hand, emphasized all that was intuitive, feminine,
-mystical and yielding. ‘Not knowing that one knows is best,’
+Taoism, on the other hand, emphasized all that was intuitive, feminine, mystical and yielding. ‘Not knowing that one knows is best,’
 says Lao Tzu, and ‘The sage carries on his business without
 action and gives his teachings without words.“’ The Taoists
 believed that by displaying the feminine, yielding qualities of
@@ -205,15 +200,9 @@ human nature, it was easiest to lead a perfectly balanced life in harmony with t
 passage from the Chuang-tzu which describes a kind of Taoist
 paradise:
 
-The men of old, while the chaotic condition was yet
-undeveloped, shared the placid tranquillity which be-
-longed to the whole world. At that time the yin and yang
-were harmonious and still; their resting and movement
-proceeded without any disturbance; the four seasons
-had their definite times; not a single thing received any
-injury, and no living being came to a premature end.
+The men of old, while the chaotic condition was yet undeveloped, shared the placid tranquillity which belonged to the whole world. At that time the yin and yang were harmonious and still; their resting and movement proceeded without any disturbance; the four seasons had their definite times; not a single thing received any injury, and no living being came to a premature end.
+
 Men might be possessed of the faculty of knowledge,
 but they had no occasion for its use. This was what is
 called the state of perfect unity. At this time, there was
-no action on the part of anyone-but a constant mani-
-festation of spontaneity.18
+no action on the part of anyone-but a constant manifestation of spontaneity.

@@ -158,9 +158,8 @@ I think that the international situation has now reached a new turning point. Th
 There is a Chinese saying:
 
 {{< q >}}
-"Either the East Wind prevails over the West Wind or the West Wind prevails over the East Wind." 
+Either the East Wind prevails over the West Wind or the West Wind prevails over the East Wind.
 {{< /q >}}
 
 
 The East Wind is prevailing over the West Wind. The forces of socialism have become overwhelmingly superior to the forces of imperialism.
-

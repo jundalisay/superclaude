@@ -5,7 +5,6 @@ weight: 21
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
-image: /graphics/history/illiad.jpg
 description: "The Illiad Simplified with the gods as Anunnaki and heroes as Nephilim"
 ---
 

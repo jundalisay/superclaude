@@ -1,8 +1,10 @@
 ---
+heading: "Chapter 6"
 title: "Buddhism"
-weight: 44
+weight: 40
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
 c: "firebrick"
+icon: "Capra"
 ---
 
 
