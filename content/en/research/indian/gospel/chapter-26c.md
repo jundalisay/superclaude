@@ -2,6 +2,7 @@
 heading: "Chapter 26c"
 title: "Master in ecstasy"
 c: "indigo"
+a: "M"
 weight: 230
 author: M
 icon: M

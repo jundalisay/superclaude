@@ -2,6 +2,7 @@
 heading: "Chapter 39b"
 title: "A false teacher"
 c: "indigo"
+a: "M"
 weight: 404
 author: M
 icon: M

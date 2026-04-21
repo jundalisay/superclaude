@@ -1,6 +1,7 @@
 ---
 title: "The Purpose of the scriptures"
 c: "indigo"
+a: "M"
 heading: "Chapter 38c"
 weight: 387
 description: ""

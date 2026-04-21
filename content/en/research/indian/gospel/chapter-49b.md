@@ -1,6 +1,7 @@
 ---
 title: "Different Classes Of Devotees And The Great Visions"
 c: "indigo"
+a: "M"
 heading: "Chapter 49b"
 weight: 602
 description: ""

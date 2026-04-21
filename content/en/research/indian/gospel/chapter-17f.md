@@ -2,6 +2,7 @@
 heading: "Chapter 17f"
 title: Different manifestations of the Absolute
 c: "indigo"
+a: "M"
 weight: 158
 author: M
 icon: M

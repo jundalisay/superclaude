@@ -1,6 +1,7 @@
 ---
 title: "Parable of the Tigress"
 c: "indigo"
+a: "M"
 heading: "Chapter 11b"
 weight: 68
 description: "Once a tigress attacked a flock of goats. As she sprang on her prey, she gave birth to a cub and died"

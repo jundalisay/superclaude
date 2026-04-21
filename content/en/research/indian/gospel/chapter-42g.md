@@ -2,6 +2,7 @@
 heading: "Chapter 42g"
 title: Two kinds of samādhi
 c: "indigo"
+a: "M"
 weight: 468
 author: M
 icon: M

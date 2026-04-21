@@ -1,6 +1,7 @@
 ---
 title: "Keshab At Dakshineswar"
 c: "indigo"
+a: "M"
 heading: "Appendix A"
 weight: 700
 description: "Keshab listened to the Master's words with wonder in his eyes"

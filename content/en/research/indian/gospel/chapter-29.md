@@ -2,6 +2,7 @@
 heading: Chapter 29
 title: The Durga Puja Festival
 c: "indigo"
+a: "M"
 weight: 263
 description: "The Master was sitting in his room at Dakshineswar."
 ---

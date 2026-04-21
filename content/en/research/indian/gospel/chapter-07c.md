@@ -1,6 +1,7 @@
 ---
 title: "Seven planes of the mind"
 c: "indigo"
+a: "M"
 heading: "Chapter 7b"
 weight: 36
 description: "Vijay Goswami was a paid preacher in the Sadharan Brahmo Samaj"
@@ -23,7 +24,10 @@ into samādhi."
 
 ## Indescribability of highest plane
 
-VIJAY: "What does a man see when he attains the Knowledge of Brahman after reaching the seventh plane?"
+{{< r a="Vijay" >}}
+What does a man see when he attains the Knowledge of Brahman after reaching the seventh plane?
+{{< /r >}}
+
 
 MASTER: "What happens when the mind reaches the seventh plane cannot be described.
 
@@ -104,7 +108,10 @@ this -->
 "One can attain the Knowledge of Brahman, too, by following the path of bhakti. God is all-powerful. He may give His devotee Brahmajnāna also, if He so wills. But the devotee generally doesn't seek the Knowledge of the Absolute. He would rather have the consciousness that God is the Master and he the servant, or that God is the Divine
 Mother and he the child."
 
-VIJAY: "But those who discriminate according to the Vedanta philosophy also realize Him in the end, don't they?"
+{{< r a="Vijay" >}}
+But those who discriminate according to the Vedanta philosophy also realize Him in the end, don't they?
+{{< /r >}}
+
 
 ## Path of bhakti is easy
 

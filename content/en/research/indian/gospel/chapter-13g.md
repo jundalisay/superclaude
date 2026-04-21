@@ -1,6 +1,7 @@
 ---
 title: "Om Satchidananda Śiva"
 c: "indigo"
+a: "M"
 heading: "Chapter 13g"
 weight: 105
 description: ""

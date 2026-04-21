@@ -2,6 +2,7 @@
 heading: "Chapter 46c"
 title: Guilelessness of the young devotees
 c: "indigo"
+a: "M"
 weight: 535
 author: M
 icon: M

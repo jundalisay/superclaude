@@ -1,6 +1,7 @@
 ---
 title: "Master And Disciple"
 c: "indigo"
+a: "M"
 heading: "Chapter 32e"
 weight: 316
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"

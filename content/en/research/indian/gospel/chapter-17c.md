@@ -2,6 +2,7 @@
 heading: "Chapter 17c"
 title: "Divine Incarnations"
 c: "indigo"
+a: "M"
 weight: 153
 author: M
 icon: M

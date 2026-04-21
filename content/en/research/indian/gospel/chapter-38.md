@@ -1,6 +1,7 @@
 ---
 title: "With The Devotees In Calcutta"
 c: "indigo"
+a: "M"
 heading: "Chapter 38"
 weight: 383
 description: ""

@@ -2,6 +2,7 @@
 heading: "Chapter 51e"
 title: A teacher must renounce the world
 c: "indigo"
+a: "M"
 weight: 192
 author: M
 icon: M

@@ -1,6 +1,7 @@
 ---
 title: "Disciplines during the Sādhanā period"
 c: "indigo"
+a: "M"
 heading: "Chapter 31b"
 weight: 292
 description: ""

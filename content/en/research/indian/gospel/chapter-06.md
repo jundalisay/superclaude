@@ -1,6 +1,7 @@
 ---
 title: "The Master With The Brahmo Devotees"
 c: "indigo"
+a: "M"
 heading: "Chapter 6"
 weight: 27
 description: "The semi-annual Brahmo festival, celebrated each autumn and spring, was held in Benimadhav Pal's house at Sinthi"
@@ -9,15 +10,13 @@ description: "The semi-annual Brahmo festival, celebrated each autumn and spring
 
 October 28, 1882
 
-IT WAS SATURDAY. The semi-annual Brahmo festival, celebrated each autumn and spring, was being held in Benimadhav Pal's beautiful garden house at Sinthi, about three
-miles north of Calcutta. The house stood in a secluded place suited for contemplation.
+IT WAS SATURDAY. The semi-annual Brahmo festival, celebrated each autumn and spring, was being held in Benimadhav Pal's beautiful garden house at Sinthi, about 3 miles north of Calcutta.
 
-Trees laden with flowers, artificial lakes with grassy banks, and green arbours enhanced
-the beauty of the grounds. Just as the fleecy clouds were turning gold in the light of the
-setting sun, the Master arrived.
+The house stood in a secluded place suited for contemplation.
 
-Many devotees had attended the morning devotions, and in the afternoon people from Calcutta and the neighbouring villages joined them. Shivanath, the great Brahmo
-devotee whom the Master loved dearly, was one of the large gathering of members of the Brahmo Samaj who had been eagerly awaiting Sri Ramakrishna's arrival.
+Trees laden with flowers, artificial lakes with grassy banks, and green arbours enhanced the beauty of the grounds. Just as the fleecy clouds were turning gold in the light of the setting sun, the Master arrived.
+
+Many devotees had attended the morning devotions, and in the afternoon people from Calcutta and the neighbouring villages joined them. Shivanath, the great Brahmo devotee whom the Master loved dearly, was one of the large gathering of members of the Brahmo Samaj who had been eagerly awaiting Sri Ramakrishna's arrival.
 
 
 When the carriage bringing the Master and a few devotees reached the garden house, the assembly stood up respectfully to receive him. There was a sudden silence, like that which comes when the curtain in a theatre is about to be rung up. People who had been conversing with one another now fixed their attention on the Master's serene face, eager not to lose one word that might fall from his lips.
@@ -120,10 +119,10 @@ Charity, vows, and giving of gifts do not appeal to Madan's mind;
 
 The Blissful Mother's Lotus Feet are his whole prayer and
 sacrifice.
-Who could ever have conceived the power Her name
-possesses?
-Śiva Himself, the God of Gods, sings Her praise with His five
-mouths!
+
+Who could ever have conceived the power Her name possesses?
+
+Śiva Himself, the God of Gods, sings Her praise with His five mouths!
 
 The Master was beside himself with love for the Divine Mother. He sang with fiery enthusiasm:
 

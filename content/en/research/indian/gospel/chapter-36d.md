@@ -2,6 +2,7 @@
 heading: "Chapter 36d"
 title: "Selfless divine love"
 c: "indigo"
+a: "M"
 weight: 363
 author: M
 icon: M

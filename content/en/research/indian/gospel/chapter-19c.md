@@ -1,6 +1,7 @@
 ---
 title: "Master's Impatience"
 c: "indigo"
+a: "M"
 heading: "Chapter 19c"
 weight: 175
 description: "Sri Ramakrishna began to talk to them about his health and his injured arm"

@@ -1,6 +1,7 @@
 ---
 title: "Prema-bhakti"
 c: "indigo"
+a: "M"
 heading: "Chapter 7b"
 weight: 37
 description: "Vijay Goswami was a paid preacher in the Sadharan Brahmo Samaj"

@@ -2,6 +2,7 @@
 heading: "Chapter 44f"
 title: Jesus and Lazarus
 c: "indigo"
+a: "M"
 weight: 498
 author: M
 icon: M

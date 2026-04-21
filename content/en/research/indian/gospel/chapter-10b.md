@@ -1,6 +1,7 @@
 ---
 title: "The Need of a Guru"
 c: "indigo"
+a: "M"
 heading: "Chapter 10b"
 weight: 55
 description: "Is spiritual knowledge impossible without a guru?"

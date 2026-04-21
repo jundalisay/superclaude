@@ -1,6 +1,7 @@
 ---
 title: "I-consciousness"
 c: "indigo"
+a: "M"
 heading: "Chapter 33f"
 weight: 333
 description: ""

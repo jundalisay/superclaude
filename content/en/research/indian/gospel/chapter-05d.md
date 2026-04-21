@@ -1,6 +1,7 @@
 ---
 title: "Difficulty of Preaching"
 c: "indigo"
+a: "M"
 heading: "Chapter 5d"
 weight: 26
 description: "It is extremely difficult to teach others. A man can teach only if God reveals Himself to him"
@@ -40,14 +41,17 @@ He alone is doing everything. I am doing nothing.' Man's sufferings and worries 
 You people speak of doing good to the world. Is the world such a small thing? And who are you, pray, to do good to the world? First realize God, see Him by means of spiritual discipline. If He imparts power, then you can do good to others; otherwise not." 
 
 
-A BRAHMO DEVOTEE: "Then, sir, we must give up our activities until we realize God?"
+{{< r a="Brahmo Devotee" >}}
+Then, sir, we must give up our activities until we realize God?
+{{< /r >}}
 
 {{< l a="Ramakrishna" >}}
 No. Why should you? You must engage in such activities as contemplation, singing His praises, and other daily devotions."
 {{< /l >}}
 
-
-BRAHMO: "But what about our worldly duties-duties associated with our earning money, and so on?"
+{{< r a="Brahmo Devotee" >}}
+But what about our worldly duties-duties associated with our earning money, and so on?
+{{< /r >}}
 
 {{< l a="Ramakrishna" >}}
 Yes, you can perform them too, but only as much as you need for your livelihood. At the same time, you must pray to God in solitude, with tears in your eyes, that you may be able to perform those duties in an unselfish manner. 
@@ -83,9 +87,10 @@ You don't call the world a dream like the non-dualists. You are not Brahmajnanis
 
 The boat cast anchor at Kayalaghat and the passengers prepared to disembark. On coming outside they noticed that the full moon was up. The trees, the buildings, and the boats on the Ganges were bathed in its mellow light. A carriage was hailed for the Master, and M. and a few devotees got in with him. The Master asked for Keshab.
 
-Presently the latter arrived and inquired about the arrangements made for the Master's return to Dakshineswar. Then he bowed low and took leave of Sri Ramakrishna. The carriage drove through the European quarter of the city. The Master enjoyed the
-sight of the beautiful mansions on both sides of the well lighted streets. Suddenly he
-said: "I am thirsty. What's to be done?" 
+Presently the latter arrived and inquired about the arrangements made for the Master's return to Dakshineswar. Then he bowed low and took leave of Sri Ramakrishna. The carriage drove through the European quarter of the city. The Master enjoyed the sight of the beautiful mansions on both sides of the well lighted streets. 
+
+
+Suddenly he said: "I am thirsty. What's to be done?" 
 
 Nandalal, Keshab's nephew, stopped the carriage before the India Club and went upstairs to get some water. The Master inquired
 whether the glass had been well washed. On being assured that it had been, he drank the water.
@@ -106,8 +111,13 @@ On the wall hung an oil painting especially painted for Surendra, in which Sri R
 
 Sri Ramakrishna was talking joyously with the devotees, when Narendra arrived. This made the Master doubly happy. He said to his young disciple, "We had a boat trip with Keshab today. Vijay and many other Brahmo devotees were there. (Pointing to M.) 
 
-Ask him what I said to Keshab and Vijay about the mother and daughter observing their religious fast on Tuesdays, each on her own account, though the welfare of the one meant the welfare of the other. I also said to Keshab that trouble-makers like jatila and Kutila were necessary to lend zest to the play. (To M.) Isn't that so?"
+Ask him what I said to Keshab and Vijay about the mother and daughter observing their religious fast on Tuesdays, each on her own account, though the welfare of the one meant the welfare of the other. I also said to Keshab that trouble-makers like jatila and Kutila were necessary to lend zest to the play. 
 
-M: "Yes, sir. Quite so."
+(To M.) Isn't that so?"
+
+{{< r a="M" >}}
+Yes, sir. Quite so.
+{{< /r >}}
+
 
 It was late. Surendra had not yet returned. The Master had to leave for the temple garden, and a cab was brought for him. M. and Narendra saluted him and took their leave. Sri Ramakrishna's carriage started for Dakshineswar through the moonlit streets.

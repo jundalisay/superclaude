@@ -1,6 +1,7 @@
 ---
 title: "Is it necessary to have a guru?"
 c: "indigo"
+a: "M"
 heading: "Chapter 11e"
 weight: 74
 description: "Many need a guru. But a man must have faith in the guru's words"

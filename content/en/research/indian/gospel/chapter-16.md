@@ -2,6 +2,7 @@
 heading: "Chapter 16"
 title: "Chaitanya's exalted state"
 c: "indigo"
+a: "M"
 weight: 135
 author: M
 icon: M

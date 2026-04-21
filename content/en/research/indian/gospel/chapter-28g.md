@@ -2,6 +2,7 @@
 heading: "Chapter 28g"
 title: "Identity of Brahman and Śakti"
 c: "indigo"
+a: "M"
 weight: 259
 author: M
 icon: M

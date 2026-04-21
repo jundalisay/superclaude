@@ -1,6 +1,7 @@
 ---
 title: "Advice to householders"
 c: "indigo"
+a: "M"
 heading: "Chapter 24c"
 weight: 214
 description: ""

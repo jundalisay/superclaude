@@ -1,6 +1,7 @@
 ---
 title: "Synthesis of Sankara and Ramanuja"
 c: "indigo"
+a: "M"
 heading: "Chapter 33d"
 weight: 328
 description: ""

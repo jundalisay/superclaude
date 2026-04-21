@@ -2,6 +2,7 @@
 heading: "Chapter 17b"
 title: "The 'seven planes' of the Vedās"
 c: "indigo"
+a: "M"
 weight: 151
 author: M
 icon: M

@@ -2,6 +2,7 @@
 heading: "Chapter 46b"
 title: Soul is different from body
 c: "indigo"
+a: "M"
 weight: 533
 author: M
 icon: M

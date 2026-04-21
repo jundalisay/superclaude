@@ -1,6 +1,7 @@
 ---
 title: "Master's adherence to truth"
 c: "indigo"
+a: "M"
 heading: "Chapter 41c"
 weight: 435
 description: ""

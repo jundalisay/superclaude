@@ -2,6 +2,7 @@
 heading: "Chapter 48g"
 title: Master blesses Dr. Sarkar
 c: "indigo"
+a: "M"
 weight: 594
 author: M
 icon: M

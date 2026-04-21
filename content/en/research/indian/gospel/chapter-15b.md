@@ -2,6 +2,7 @@
 heading: "Chapter 15b"
 title: "Signs of a true devotee"
 c: "indigo"
+a: "M"
 weight: 129
 author: M
 icon: M

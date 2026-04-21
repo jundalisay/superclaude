@@ -1,6 +1,7 @@
 ---
 title: "Two ways of God-realization"
 c: "indigo"
+a: "M"
 heading: "Chapter 7e"
 weight: 38
 description: "One way of God-realization is the path of discrimination, the other is that of love"

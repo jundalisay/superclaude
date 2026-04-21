@@ -2,6 +2,7 @@
 heading: "Chapter 50e"
 title: About Rakhal
 c: "indigo"
+a: "M"
 weight: 621
 author: M
 icon: M

@@ -2,6 +2,7 @@
 heading: "Chapter 42d"
 title: Spiritual fervour of Gopal Ma
 c: "indigo"
+a: "M"
 weight: 460
 author: M
 icon: M

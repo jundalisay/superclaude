@@ -1,6 +1,7 @@
 ---
 title: "Vidyā-māyā and Avidyā-māyā"
 c: "indigo"
+a: "M"
 heading: "Chapter 40f"
 weight: 427
 description: ""

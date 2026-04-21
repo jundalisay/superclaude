@@ -1,6 +1,7 @@
 ---
 title: "Vision of Divine Mother"
 c: "indigo"
+a: "M"
 heading: "Chapter 7e"
 weight: 37
 description: ""

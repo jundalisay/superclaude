@@ -1,6 +1,7 @@
 ---
 title: "Rules For Householders And Monks"
 c: "indigo"
+a: "M"
 heading: "Chapter 20"
 weight: 179
 description: ""

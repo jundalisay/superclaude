@@ -1,6 +1,7 @@
 ---
 title: "Spiritual Inspiration Comes from God"
 c: "indigo"
+a: "M"
 heading: "Chapter 10d"
 weight: 61
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"

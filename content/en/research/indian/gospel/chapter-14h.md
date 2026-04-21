@@ -2,6 +2,7 @@
 heading: "Chapter 14h"
 title: "More Advice to householders"
 c: "indigo"
+a: "M"
 weight: 123
 author: M
 icon: M

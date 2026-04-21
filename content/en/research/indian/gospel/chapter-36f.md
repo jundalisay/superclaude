@@ -2,6 +2,7 @@
 heading: "Chapter 36f"
 title: "The peacock and the opium"
 c: "indigo"
+a: "M"
 weight: 368
 author: M
 icon: M

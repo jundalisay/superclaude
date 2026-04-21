@@ -2,6 +2,7 @@
 heading: "Chapter 45b"
 title: Master praises doctor's son
 c: "indigo"
+a: "M"
 weight: 515
 author: M
 icon: M

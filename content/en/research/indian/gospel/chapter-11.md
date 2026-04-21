@@ -1,6 +1,7 @@
 ---
 title: "With The Devotees At Dakshineswar (I)"
 c: "indigo"
+a: "M"
 heading: "Chapter 11"
 weight: 66
 description: "Sri Ramakrishna was sitting on the porch of his room facing the Ganges"

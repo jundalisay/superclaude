@@ -1,6 +1,7 @@
 ---
 title: "Encouraging Bhavanāth"
 c: "indigo"
+a: "M"
 heading: "Chapter 51c"
 weight: 632
 description: ""

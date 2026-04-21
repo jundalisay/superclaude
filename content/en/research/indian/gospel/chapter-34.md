@@ -1,6 +1,7 @@
 ---
 title: "Bankim Chandra"
 c: "indigo"
+a: "M"
 heading: "Chapter 34"
 weight: 336
 description: ""

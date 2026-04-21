@@ -2,6 +2,7 @@
 heading: "Chapter 28e"
 title: "Master praises Narayan"
 c: "indigo"
+a: "M"
 weight: 255
 author: M
 icon: M

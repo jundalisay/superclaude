@@ -1,6 +1,7 @@
 ---
 title: "Parable of the homa bird"
 c: "indigo"
+a: "M"
 heading: "Chapter 36e"
 weight: 365
 description: ""

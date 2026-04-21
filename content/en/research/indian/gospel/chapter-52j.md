@@ -1,6 +1,7 @@
 ---
 title: Narendra's longing for God-vision
 c: "indigo"
+a: "M"
 heading: "Chapter 52h"
 weight: 662
 description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"

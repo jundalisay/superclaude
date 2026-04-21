@@ -1,6 +1,7 @@
 ---
 title: "The Hatha Yogi"
 c: "indigo"
+a: "M"
 heading: "Chapter 20c"
 weight: 184
 description: "Sri Ramakrishna was sitting in his room after his midday meal, with Rakhal, Ram, and some other devotees. He was not quite well"

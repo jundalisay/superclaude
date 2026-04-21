@@ -1,6 +1,7 @@
 ---
 title: The Story Of The Wood-Cutter
 c: "indigo"
+a: "M"
 heading: "Chapter 23c"
 weight: 208
 description: "Once upon a time a wood-cutter went into a forest to chop wood. There suddenly he met a brahmachari."

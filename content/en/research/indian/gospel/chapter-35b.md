@@ -1,6 +1,7 @@
 ---
 title: "Restlessness for God-vision"
 c: "indigo"
+a: "M"
 heading: "Chapter 35b"
 weight: 347
 description: ""

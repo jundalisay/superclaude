@@ -1,6 +1,7 @@
 ---
 title: "Different Classes of Men"
 c: "indigo"
+a: "M"
 heading: "Chapter 11g"
 weight: 79
 description: "Rakhal's father's father-in-law was a devotee of God"

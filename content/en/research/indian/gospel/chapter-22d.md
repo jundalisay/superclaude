@@ -1,6 +1,7 @@
 ---
 title: "Surendra"
 c: "indigo"
+a: "M"
 heading: "Chapter 22d"
 weight: 202
 description: "Surendra's younger brother and his nephews were present. The brother worked in an office and one of the nephews was studying law"

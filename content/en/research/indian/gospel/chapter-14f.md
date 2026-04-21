@@ -2,6 +2,7 @@
 heading: "Chapter 14f"
 title: "Unwavering devotion to God"
 c: "indigo"
+a: "M"
 weight: 119
 author: M
 icon: M

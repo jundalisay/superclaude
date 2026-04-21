@@ -1,6 +1,7 @@
 ---
 title: "The Master's Birthday Celebration At Dakshineswar"
 c: "indigo"
+a: "M"
 heading: "Chapter 8"
 weight: 39
 description: "SRI RAMAKRISHNA arrived at Govinda Mukherji's house at Belgharia, near Calcutta."

@@ -2,6 +2,7 @@
 heading: "Chapter 16b"
 title: "Story of a Vaishnava devotee"
 c: "indigo"
+a: "M"
 weight: 137
 author: M
 icon: M

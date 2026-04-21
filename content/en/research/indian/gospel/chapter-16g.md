@@ -2,6 +2,7 @@
 heading: "Chapter 16g"
 title: "Divine Mother is the Universal Consciousness"
 c: "indigo"
+a: "M"
 weight: 146
 author: M
 icon: M

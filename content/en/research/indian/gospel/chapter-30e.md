@@ -2,6 +2,7 @@
 heading: Chapter 30e
 title: Various forms of divine love
 c: "indigo"
+a: "M"
 weight: 280
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---

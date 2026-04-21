@@ -2,6 +2,7 @@
 heading: "Chapter 12d"
 title: "Master's visits to various devotees"
 c: "indigo"
+a: "M"
 weight: 85
 author: M
 icon: M

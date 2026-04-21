@@ -1,6 +1,7 @@
 ---
 title: "Brahman and Śakti are Identical"
 c: "indigo"
+a: "M"
 heading: "Chapter 3e"
 weight: 15
 description: "The path of love also leads to the Truth."

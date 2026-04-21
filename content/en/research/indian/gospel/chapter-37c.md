@@ -1,6 +1,7 @@
 ---
 title: "The Vedantist"
 c: "indigo"
+a: "M"
 heading: "Chapter 37c"
 weight: 375
 description: ""

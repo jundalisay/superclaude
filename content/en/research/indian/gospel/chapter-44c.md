@@ -1,6 +1,7 @@
 ---
 title: Master about himself
 c: "indigo"
+a: "M"
 heading: "Chapter 44c"
 weight: 489
 description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"

@@ -1,6 +1,7 @@
 ---
 title: "Master exhorts Ishan"
 c: "indigo"
+a: "M"
 heading: "Chapter 31e"
 weight: 299
 description: ""

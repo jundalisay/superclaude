@@ -2,6 +2,7 @@
 heading: "Chapter 46f"
 title: Vijay Goswami
 c: "indigo"
+a: "M"
 weight: 542
 author: M
 icon: M

@@ -2,6 +2,7 @@
 heading: "Chapter 13e"
 title: "Nature of the Divine Incarnation"
 c: "indigo"
+a: "M"
 weight: 100
 author: M
 icon: M

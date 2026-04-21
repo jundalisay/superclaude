@@ -1,6 +1,7 @@
 ---
 title: "Sri Ramakrishna At Syampukur"
 c: "indigo"
+a: "M"
 heading: "Chapter 45"
 weight: 511
 description: ""

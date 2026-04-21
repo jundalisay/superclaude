@@ -2,6 +2,7 @@
 heading: "Chapter 21d"
 title: "Harmony of religions"
 c: "indigo"
+a: "M"
 weight: 193
 author: M
 icon: M

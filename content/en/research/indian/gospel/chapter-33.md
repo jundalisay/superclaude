@@ -1,6 +1,7 @@
 ---
 title: "With Various Devotees"
 c: "indigo"
+a: "M"
 heading: "Chapter 33"
 weight: 322
 description: ""

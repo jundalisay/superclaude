@@ -1,6 +1,7 @@
 ---
 title: "Samādhi Described"
 c: "indigo"
+a: "M"
 heading: "Chapter 25c"
 weight: 220
 description: "Samādhi is the complete merging of the mind in God-Consciousness"

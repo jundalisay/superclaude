@@ -1,6 +1,7 @@
 ---
 title: "Master's Prayer"
 c: "indigo"
+a: "M"
 heading: "Chapter 5c"
 weight: 25
 description: "To my Divine Mother I prayed only for pure love."
@@ -49,8 +50,9 @@ And, if they will not listen, drown them in Wisdom's sea.
 {{< /l >}}
 
 
-Says Ramprasad: If you do as I say,
-You can submit a good account, O mind, to the King of Death,
+Says Ramprasad: 
+
+If you do as I say, You can submit a good account, O mind, to the King of Death,
 And I shall be well pleased with you and call you my darling.
 "Why shouldn't one be able to realize God in this world? King Janaka had such
 realization. Ramprasad described the world as a mere 'framework of illusion'. But if one

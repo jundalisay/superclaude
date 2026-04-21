@@ -2,6 +2,7 @@
 heading: "Chapter 28f"
 title: "Divine madness"
 c: "indigo"
+a: "M"
 weight: 257
 author: M
 icon: M

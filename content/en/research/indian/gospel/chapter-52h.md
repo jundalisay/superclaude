@@ -1,6 +1,7 @@
 ---
 title: "Rakhal's yearning for God"
 c: "indigo"
+a: "M"
 heading: "Chapter 52f"
 weight: 658
 description: ""

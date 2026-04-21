@@ -1,6 +1,7 @@
 ---
 title: "Master teaches Narendra Brahmajnana"
 c: "indigo"
+a: "M"
 heading: "Chapter 49e"
 weight: 605
 description: ""

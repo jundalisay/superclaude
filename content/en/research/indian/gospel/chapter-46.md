@@ -1,6 +1,7 @@
 ---
 title: "The Master And Dr. Sarkar"
 c: "indigo"
+a: "M"
 heading: "Chapter 46"
 weight: 531
 description: ""

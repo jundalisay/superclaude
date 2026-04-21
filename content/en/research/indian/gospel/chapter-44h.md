@@ -2,6 +2,7 @@
 heading: "Chapter 44h"
 title: The guru and the Chosen Ideal
 c: "indigo"
+a: "M"
 weight: 505
 author: M
 icon: M

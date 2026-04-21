@@ -2,6 +2,7 @@
 heading: "Chapter 17"
 title: "Obstacles to samādhi"
 c: "indigo"
+a: "M"
 weight: 149
 author: M
 icon: M

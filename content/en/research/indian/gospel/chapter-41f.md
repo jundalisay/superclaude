@@ -1,6 +1,7 @@
 ---
 title: "Harmless ego"
 c: "indigo"
+a: "M"
 heading: "Chapter 41f"
 weight: 445
 description: ""

@@ -2,6 +2,7 @@
 heading: "Chapter 46e"
 title: Mahima's 3 paths
 c: "indigo"
+a: "M"
 weight: 539
 author: M
 icon: M

@@ -1,6 +1,7 @@
 ---
 title: "Master's Great Suffering"
 c: "indigo"
+a: "M"
 heading: "Chapter 49d"
 weight: 605
 description: ""

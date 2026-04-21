@@ -1,6 +1,7 @@
 ---
 title: "Master's love for Narayan"
 c: "indigo"
+a: "M"
 heading: "Chapter 38b"
 weight: 385
 description: ""

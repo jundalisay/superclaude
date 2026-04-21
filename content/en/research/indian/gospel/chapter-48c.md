@@ -1,6 +1,7 @@
 ---
 title: "Master's advice to Shyam Basu"
 c: "indigo"
+a: "M"
 heading: "Chapter 48c"
 weight: 580
 description: ""

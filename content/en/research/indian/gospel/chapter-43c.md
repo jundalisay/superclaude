@@ -1,6 +1,7 @@
 ---
 title: "The after-life"
 c: "indigo"
+a: "M"
 heading: "Chapter 43c"
 weight: 477
 description: ""

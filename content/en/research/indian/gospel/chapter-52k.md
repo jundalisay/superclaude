@@ -1,6 +1,7 @@
 ---
 title: About Rabindra
 c: "indigo"
+a: "M"
 heading: "Chapter 52k"
 weight: 670
 description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"

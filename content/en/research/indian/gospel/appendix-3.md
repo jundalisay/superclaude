@@ -1,6 +1,7 @@
 ---
 title: "Maya obstructs vision of God"
 c: "indigo"
+a: "M"
 heading: "Appendix A3"
 weight: 708
 description: ""

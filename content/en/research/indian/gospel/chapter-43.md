@@ -1,6 +1,7 @@
 ---
 title: "Visit To Nanda Bose′S House"
 c: "indigo"
+a: "M"
 heading: "Chapter 43"
 weight: 471
 description: ""

@@ -1,6 +1,7 @@
 ---
 title: "Manifestation of the Divine Mother through the Master"
 c: "indigo"
+a: "M"
 heading: "Chapter 48i"
 weight: 598
 description: ""

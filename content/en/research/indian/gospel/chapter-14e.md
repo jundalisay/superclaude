@@ -2,6 +2,7 @@
 heading: "Chapter 14e"
 title: "Master's harmony of religions"
 c: "indigo"
+a: "M"
 weight: 117
 author: M
 icon: M

@@ -2,6 +2,7 @@
 heading: "Chapter 9d"
 title: "Worldly people’s lack perseverance"
 c: "indigo"
+a: "M"
 weight: 49
 author: M
 icon: M

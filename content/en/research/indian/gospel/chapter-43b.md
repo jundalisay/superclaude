@@ -1,6 +1,7 @@
 ---
 title: "Master's prayer"
 c: "indigo"
+a: "M"
 heading: "Chapter 43b"
 weight: 474
 description: ""

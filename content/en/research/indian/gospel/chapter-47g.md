@@ -2,6 +2,7 @@
 heading: "Chapter 47g"
 title: Master scolds Shyam Basu
 c: "indigo"
+a: "M"
 weight: 568
 author: M
 icon: M

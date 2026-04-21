@@ -2,6 +2,7 @@
 heading: "Chapter 27g"
 title: "Glory of God's name"
 c: "indigo"
+a: "M"
 weight: 245
 author: M
 icon: M

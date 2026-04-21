@@ -2,6 +2,7 @@
 heading: "Chapter 52g"
 title: The will of God
 c: "indigo"
+a: "M"
 weight: 560
 author: M
 icon: M

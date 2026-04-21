@@ -1,6 +1,7 @@
 ---
 title: "Free Will"
 c: "indigo"
+a: "M"
 heading: "Chapter 18e"
 weight: 169
 description: "It is God alone who has planted in man's mind what the 'Englishman' calls free will"

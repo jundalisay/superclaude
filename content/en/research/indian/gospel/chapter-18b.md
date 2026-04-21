@@ -1,6 +1,7 @@
 ---
 title: "The Monkey and Kitten"
 c: "indigo"
+a: "M"
 heading: "Chapter 18b"
 weight: 161
 description: "There are 2 kinds of aspirants"

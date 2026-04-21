@@ -2,6 +2,7 @@
 title: "A Chronology Of Sri Ramakrishna's Life"
 heading: Appendix C
 c: "indigo"
+a: "M"
 weight: 730
 description: ""
 ---

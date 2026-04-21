@@ -1,6 +1,7 @@
 ---
 title: "Various Monks"
 c: "indigo"
+a: "M"
 heading: "Chapter 14"
 weight: 111
 description: ""

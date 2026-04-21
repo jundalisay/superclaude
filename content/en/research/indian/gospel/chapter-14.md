@@ -1,6 +1,7 @@
 ---
 title: "Instruction To Vaishnavās And Brāhmos"
 c: "indigo"
+a: "M"
 heading: "Chapter 14"
 weight: 109
 description: ""

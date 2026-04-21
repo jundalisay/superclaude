@@ -1,6 +1,7 @@
 ---
 title: "About Hazra"
 c: "indigo"
+a: "M"
 heading: "Chapter 40c"
 weight: 420
 description: ""
@@ -10,29 +11,36 @@ description: ""
 
 NARENDRA (to the Master): "Hazra has now become a good man."
 
-MASTER: "You don't know. There are people who repeat Rāma's name with their tongues
-but hide stones under their arms to throw at others."
+{{< l a="Ramakrishna" >}}
+You don't know. There are people who repeat Rāma's name with their tongues but hide stones under their arms to throw at others.
+{{< /l >}}
+
 
 NARENDRA: "I don't agree with you, sir. I asked him about the things people complain
 of. He denied them."
 
-MASTER: "He is steadfast in his devotions. He practises japa a little. But he also behaves
-in a queer way. He doesn't pay the coachman his fare."
+{{< l a="Ramakrishna" >}}
+He is steadfast in his devotions. He practises japa a little. But he also behaves in a queer way. He doesn't pay the coachman his fare.
+{{< /l >}}
 
 NARENDRA: "That isn't true, sir. He said he had paid it."
 
-MASTER: "Where did he get the money?"
+
+{{< l a="Ramakrishna" >}}
+Where did he get the money?
+{{< /l >}}
+
 
 NARENDRA: "From Ramlal or someone else."
 
-MASTER: "Did you ask him all these things in detail? Once I prayed to the Divine Mother,
+{{< l a="Ramakrishna" >}}
+Did you ask him all these things in detail? Once I prayed to the Divine Mother,
 
 'O Mother, if Hazra is a hypocrite then please remove him from here.' Later on I told him of my prayer. After a few days he came to me and said, 'You see, I am still here.' (The Master and the others laugh.) But soon afterwards he left.
 
-"Hazra's mother begged me through Ramlal to ask Hazra to come home. She was almost
-blind with weeping. I tried in various ways to persuade him to visit her. I said: 'Your
-mother is old. Go and see her once.' I couldn't make him go. Afterwards the poor mother
+"Hazra's mother begged me through Ramlal to ask Hazra to come home. She was almost blind with weeping. I tried in various ways to persuade him to visit her. I said: 'Your mother is old. Go and see her once.' I couldn't make him go. Afterwards the poor mother
 died weeping for him."
+{{< /l >}}
 
 NARENDRA: "This time he will go home."
 

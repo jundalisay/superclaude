@@ -1,6 +1,7 @@
 ---
 title: "Advice To The Brahmos"
 c: "indigo"
+a: "M"
 heading: "Chapter 9"
 weight: 42
 description: ""

@@ -1,6 +1,7 @@
 ---
 title: "Bankim"
 c: "indigo"
+a: "M"
 heading: "Chapter 34d"
 weight: 343
 description: ""

@@ -2,6 +2,7 @@
 heading: "Chapter 52g"
 title: Tārak and Prasanna
 c: "indigo"
+a: "M"
 weight: 660
 author: M
 icon: M

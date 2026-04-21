@@ -1,6 +1,7 @@
 ---
 title: "Different kinds of samādhi"
 c: "indigo"
+a: "M"
 heading: "Chapter 32f"
 weight: 317
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"

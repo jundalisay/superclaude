@@ -2,6 +2,7 @@
 heading: "Chapter 9b"
 title: "Trailanga Swami and Bhāskarānanda"
 c: "indigo"
+a: "M"
 weight: 43
 author: M
 icon: M

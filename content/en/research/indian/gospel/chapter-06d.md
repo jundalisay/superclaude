@@ -1,6 +1,7 @@
 ---
 title: "Reincarnation of soul & Inscrutability of God's ways"
 c: "indigo"
+a: "M"
 heading: "Chapter 6d"
 weight: 30
 description: "Many people have spoken about reincarnation; therefore I cannot disbelieve it"

@@ -2,6 +2,7 @@
 heading: Chapter 28
 title: At The Star Theatre
 c: "indigo"
+a: "M"
 weight: 246
 description: "The Master was sitting in his room at Dakshineswar."
 ---

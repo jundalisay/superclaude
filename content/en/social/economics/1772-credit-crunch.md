@@ -16,14 +16,30 @@ In 1772, a credit crisis originating in London hit and spread over Europe and af
 
 The cause was the creation and over-circulation of bounced checks then known as redrawn bills of exchange. Speculators used these bills to gamble with bank money and the deposits of other people. 
 
-The end result was a loss of capital, creating a credit crunch, which led to an economic downturn hitting Europe and too-big-to-fail companies. One of them was the East India Company which had to be bailed out with taxpayer money, specifically from the tea trade.
+The end result was a loss of capital. This created a credit crunch which led to an economic downturn hitting Europe and too-big-to-fail companies. 
+
+One of them was the East India Company which had to be bailed out with taxpayer money, specifically from the tea trade.
 
 {{< i s="/photos/econ/banknote.jpg" c="According to Montesquieu, the Jews invented paper bills after they were expelled from France, so that they could use it to access their wealth which remained stuck in France" >}}
 
 
-Sound familiar? This is because the Credit Crisis of 1772 was essentially the same as the Credit Crunch of 2008 and even similar to the 1997 Asian Financial Crisis. 
+Sound familiar? This is because the Credit Crisis of 1772 was essentially the same as the Credit Crunch of 2008 and even similar to the 1997 Asian Financial Crisis.
 
-Both were caused by the overtrading by speculators and both given the wrong solutions:
+Simply put, the bankers thought that they were using their money to create more money. In reality, they merely used their money under the ILLUSION that they were making more money. 
+
+- The 2008 Financial Crisis was caused by investment banks pooling debt and turning it into insurance. This collapsed when all the investees claimed insurance at the same time.
+- The 1997 Asian Crisis was caused by foreign banks giving money to Asian corporations who used it for speculation. This led to unproductive large projects that ended up creating non performing loans.
+- The 1772 Credit Crisis was caused by Ayr Bank givng a lot of loans to European mercantile companies, most of which collapsed because they were not credit worthy. 
+
+
+All three were caused by the speculation mentality. 
+
+{{< q a="Adam Smith" >}}
+The debtors of such a bank..were likely..chimerical projectors, the drawers and re-drawers of circulating bills of exchange, who would employ the money in extravagant undertakings..
+{{< /q >}}
+
+
+<!-- Both were caused by the overtrading by speculators and both given the wrong solutions:
 
 _ | 1772 Credit Crisis | 1997 Asian Crisis | 2007 Credit Crunch
 --- | --- | --- | ---
@@ -32,29 +48,94 @@ Paper or Tool Used | Checks Or Bills Of Exchange, Backed By Estate | Hot Money |
 Immediate Losses | ￡3m Wiped Out | $9b ASEAN GDP, $170b South Korea GDP Decline | $300b Wiped Out 
 Cause | Speculators Who Wanted To Get Rich Quick | Local And Foreign Speculators, Such As Forex Traders | Bankers Who Wanted To Get Rich Quick
 Solution | 1773 Tea Act | IMF Bailout | Troubled Asset Relief Program And QE
-Immediate Effect | The American Colonies Revolt | Toppled Governments in ASEAN, Riots Against Chinese Occupy Wall Street | Update Nov 2025: Arab Spring, Rise of Tech Startups and Chinese Globalization to use easy money
+Immediate Effect | The American Colonies Revolt | Toppled Governments in ASEAN, Riots Against Chinese Occupy Wall Street | Update Nov 2025: Arab Spring, Rise of Tech Startups and Chinese Globalization to use easy money -->
 
-
-The 1773 Tea Act was used to bail out the East India Company, IMF loans were used to bailout the Asian banking system, and the TARP was used to bail out the investment banks. These solutions addressed the effect and not the cause of the crisis which were the big companies, or what Adam Smith calledprojectors.
-
-
-{{< q a="Adam Smith" >}}
-The debtors of such a bank..were likely..chimerical projectors, the drawers and re-drawers of circulating bills of exchange, who would employ the money in extravagant undertakings..
-{{< /q >}}
-
-
-The projectors of 1772 were the mercantile companies involved in the commodities trade. The projectors of 1997 were speculators such as George Soros involved in the forex trade, while the projectors of 2008 were the investment banks involved in the housing trade.
 
 
 ## Same Problem, Same Wrong Solutions
 
-Since the solutions did not address the root causes, more problems emerged. 
+The solution to all three cases was the same: bailouts. 
 
+Good money was sacrificed in order to get the economy running again. 
+
+- The 2008 Financial Crisis was 'solved' by TARP to bail out the investment banks
+- The 1997 Asian Crisis was 'solved' by the IMF giving loans to those who suffered from the crisis
+- The 1772 Credit Crunch was 'solved' by the 1773 Tea Act which bailed out the East India Company
+
+<!-- , IMF loans were used to bailout the Asian banking system, and the . These solutions addressed the effect and not the cause of the crisis which were the big companies, or what Adam Smith calledprojectors. -->
+
+
+<!-- The projectors of 1772 were the mercantile companies involved in the commodities trade. The projectors of 1997 were speculators such as George Soros involved in the forex trade, while the projectors of 2008 were the investment banks involved in the housing trade. -->
+
+Since those solutions did not address the root causes, more problems emerged. 
+
+- TARP and quantitative easing (QE) created the huge American debt without increasing GDP, in a phenomenon known as secular stagnation
+- The Asian Crisis led to protests which toppled governments in Thailand, Indonesia, and the Philippines. Update 2025: In Thailand, this led to the rise of the monary and the military which is now causing the Thailand-Cambodia conflict
 - The Tea Act angered colonists, helping fuel the American Revolution, leading to the loss of the American colonies for Britain.
-- The Asian Crisis led to protests which caused politicians to get replaced. 
-- TARP and quantitative easing (QE) created the huge but unproductive American debt without increasing GDP, in a phenomenon known assecular stagnation.
 
-The QE solution is bit unique because it is arbitrary. 
+![Protests](/photos/social/protests.jpg)
+
+
+## The Quantitative Easing Monster
+
+The 2008 Financial Crisis led to Quantitative Easing (QE) which floods the financial industry with wholesale money -- money from central banks that goes to commercial banks. 
+
+This is different from retail money which is the money from the banks that is lent or circulated into the general economy.
+
+The big problem is that that wholesale money does not leave the financial industry into the general economy to create employment. 
+
+Instead, it stays within the financial industry and the money markets, such as in the finance between corporations. 
+
+This is why economies still do not grow despite massive QE stimulus. Japan is a clear example of this. 
+
+
+Credit Crises are caused by violation of the 3rd Law of Value which is balance. 
+
+The imbalance happens when investors, capitalists, and speculators have a lot of money and want to earn more. 
+
+Credit Crises do not usually happen during a growth period when economies still have not achieved maximum economy. 
+
+It usually happens when a society has become quite wealthy.
+
+The problem is that money gets its value from being spent or invested, and cannot be left idle. This forces rich people to find new ways to invest their money.
+
+But they are naturally unable to find new opportunities -- if people already have homes, cars, cellphones, etc that they need, they don't want to buy more. 
+
+This lack of demand reduces investment opportunities. 
+
+And so investors tend to speculate -- they create unsustainable projects that use the excess wealth of society. 
+
+- The Japanese QE merely puffed up Japanese corporations
+- The US QE also puffed up tech companies like Apple and Tesla, and led to the tech startup boom where unproven business models like WeWork received a lot of investment
+
+
+## Update April 2026: The Supereconomic Solution 
+
+Since Credit Crises are caused by imbalance during periods of wealth, Supereconomics advocates for barter credits both as prevention and cure . 
+
+### Prevention
+
+Barter credits prevent speculation and bubbles by raising interest rates on a nation's clearing fund and weakening the currency in order to spur exports (goods) or tourism (services). 
+
+This will:
+- divert the nation's productivity towards serving foreign countries that are in need of goods and services
+- prevent speculation into things that have no demand by sucking such hot money
+
+
+### Cure
+
+If a society is already suffering a crisis, then barter credits can revive the economy without going through QE. 
+
+The money for operating capital and salaries can be done on barter credit so that companies can continue operating. 
+
+People with mortgages can pay them off in kind through the points banking system. 
+
+This will remove the need for TARP and financial bailouts by tapping productvity directly. 
+
+
+
+
+<!-- The QE solution is bit unique because it is arbitrary. 
 
 Unlike the 1773 Tea Act which took money from the colonies and the IMF bailouts which come from its member countries, the money from QE is just created arbitrarily. While the sourcing of funds for the first two are felt immediately by the suppliers of those funds, the effects of QE have a long delay. 
 
@@ -63,9 +144,9 @@ The pain from the Tea Act and IMF bailouts created instant protests, but the pai
 An easy proof is Japan which has been doing QE since the 90s and now has a huge public debt for little gain.
 
 
-{{< q a="Adam Smith" >}}
+q a="Adam Smith" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
-{{< /q >}}
+/q >}}
 
 
 The QE of the US, like Japan, also has created a huge public debt without raising GDP proportionally. This is because the money is merely circulating between dealers and dealers, and not between dealers and consumers.Every economy has two levels of circulation:
@@ -73,10 +154,11 @@ The QE of the US, like Japan, also has created a huge public debt without raisin
 - The one between dealers and dealers. In Economics, this is M3
 - The one between dealers and consumers. In Economics, this is M0 to M2, best represented by M1
 
-![Money supply](https://sorasystem.sirv.com/graphics/m1m3djia.jpg)
+![Money supply](https://sorasystem.sirv.com/graphics/m1m3djia.jpg) -->
 
 
 
+<!-- 
 ## Hijacked By Profit Maximization
 
 QE gives money to the banking system in order to mobilize productive labor, as a consequence of Keynes' idea of liquidity preference. 
@@ -98,8 +180,6 @@ This lack of inflation and employment then prompts central bankers to further in
 Sooner or later, the inequality becomes unbearable and people begin to riot and rebel when the people have to pay for that very inequality. The 1772 Credit Crunch led to new taxation that made the Americans revolt. The Asian Crisis led to devaluation which raised the prices of imports, causing Asian countries to revolt. In the US, the inequality from QE leads to high costs of education, rent, and healthcare which raise the incidence of protests and even riots.
 
 ![Battle of Monmouth](https://upload.wikimedia.org/wikipedia/commons/9/9f/BattleofMonmouth.jpg)
-
-![Protests](/photos/social/protests.jpg)
 
 ![Protests](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20200529-_DSC8322_%2849950975626%29.jpg/1024px-20200529-_DSC8322_%2849950975626%29.jpg)
 
@@ -127,5 +207,4 @@ The QE money was supposed to spur the US economy. But capitalists used it to cir
 3. Tech Startups
 
 The mantra of Profit maximization is "buy low, sell high". So the QE money goes to buying cheap startups that can be sold for a high prices via IPOs. This is best seen in Wework which began in 2010 which was absurdly valued at $47 billion. 
-
-
+ -->

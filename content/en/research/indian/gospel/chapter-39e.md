@@ -2,6 +2,7 @@
 heading: "Chapter 39e"
 title: Trailokya
 c: "indigo"
+a: "M"
 weight: 411
 author: M
 icon: M

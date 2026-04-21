@@ -2,6 +2,7 @@
 heading: "Chapter 45g"
 title: Discussion about Divine Incarnation
 c: "indigo"
+a: "M"
 weight: 528
 author: M
 icon: M

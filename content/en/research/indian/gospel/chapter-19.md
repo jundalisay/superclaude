@@ -1,6 +1,7 @@
 ---
 title: "The Master And His Injured Arm"
 c: "indigo"
+a: "M"
 heading: "Chapter 19"
 weight: 171
 description: ""

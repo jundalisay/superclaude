@@ -2,6 +2,7 @@
 heading: "Chapter 17e"
 title: "God, incarnated as man, acts like a man"
 c: "indigo"
+a: "M"
 weight: 157
 author: M
 icon: M

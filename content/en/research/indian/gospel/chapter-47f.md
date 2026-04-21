@@ -2,6 +2,7 @@
 heading: "Chapter 47f"
 title: Egotism condemned
 c: "indigo"
+a: "M"
 weight: 565
 author: M
 icon: M

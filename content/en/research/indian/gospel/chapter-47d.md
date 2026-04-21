@@ -2,6 +2,7 @@
 heading: "Chapter 47d"
 title: Dr. Sarkar on duty
 c: "indigo"
+a: "M"
 weight: 561
 author: M
 icon: M

@@ -1,6 +1,7 @@
 ---
 title: "Master And Disciple"
 c: "indigo"
+a: "M"
 heading: "Chapter 1"
 weight: 3
 author: M

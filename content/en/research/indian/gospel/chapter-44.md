@@ -1,6 +1,7 @@
 ---
 title: "The Master On Himself And His Experiences"
 c: "indigo"
+a: "M"
 heading: "Chapter 44"
 weight: 482
 description: ""

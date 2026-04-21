@@ -2,6 +2,7 @@
 heading: "Chapter 44g"
 title: Purna's letter
 c: "indigo"
+a: "M"
 weight: 502
 author: M
 icon: M

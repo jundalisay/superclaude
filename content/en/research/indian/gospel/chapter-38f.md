@@ -1,6 +1,7 @@
 ---
 title: "About Purna"
 c: "indigo"
+a: "M"
 heading: "Chapter 38f"
 weight: 395
 description: ""

@@ -1,6 +1,7 @@
 ---
 title: "The Samkhya philosophy"
 c: "indigo"
+a: "M"
 heading: "Chapter 40e"
 weight: 426
 description: ""

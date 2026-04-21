@@ -1,6 +1,7 @@
 ---
 title: "The State of a Vijnāni"
 c: "indigo"
+a: "M"
 heading: "Chapter 21b"
 weight: 191
 description: ""

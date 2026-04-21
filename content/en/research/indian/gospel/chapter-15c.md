@@ -2,6 +2,7 @@
 heading: "Chapter 15c"
 title: "Master's own illness"
 c: "indigo"
+a: "M"
 weight: 131
 author: M
 icon: M

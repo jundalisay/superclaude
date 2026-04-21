@@ -2,6 +2,7 @@
 heading: "Chapter 14f"
 title: "Chanting God's holy name"
 c: "indigo"
+a: "M"
 weight: 121
 author: M
 icon: M

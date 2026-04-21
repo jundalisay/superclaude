@@ -2,6 +2,7 @@
 heading: "Chapter 16f"
 title: "Nature of Brahman"
 c: "indigo"
+a: "M"
 weight: 144
 author: M
 icon: M

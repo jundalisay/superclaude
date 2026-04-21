@@ -2,6 +2,7 @@
 heading: "Chapter 50d"
 title: Master's love for Girish
 c: "indigo"
+a: "M"
 weight: 619
 author: M
 icon: M

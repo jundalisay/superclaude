@@ -1,6 +1,7 @@
 ---
 title: Secret of Divine Communion
 c: "indigo"
+a: "M"
 heading: "Chapter 4"
 weight: 16
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"

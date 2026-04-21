@@ -1,6 +1,7 @@
 ---
 title: "A Letter"
 c: "indigo"
+a: "M"
 heading: "Appendix B"
 weight: 720
 description: "Written to M. from by Ashwini Kumar Dutta"

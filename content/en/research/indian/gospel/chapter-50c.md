@@ -2,6 +2,7 @@
 heading: "Chapter 50c"
 title: Power of God's name
 c: "indigo"
+a: "M"
 weight: 616
 author: M
 icon: M

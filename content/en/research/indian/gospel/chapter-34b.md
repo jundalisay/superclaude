@@ -1,6 +1,7 @@
 ---
 title: "Duties of life"
 c: "indigo"
+a: "M"
 heading: "Chapter 34b"
 weight: 339
 description: ""

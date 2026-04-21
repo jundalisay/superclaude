@@ -2,6 +2,7 @@
 heading: "Chapter 39f"
 title: Worldly man's charity
 c: "indigo"
+a: "M"
 weight: 413
 author: M
 icon: M

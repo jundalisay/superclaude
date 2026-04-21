@@ -2,6 +2,7 @@
 heading: "Chapter 47b"
 title: Depth of Sri Ramakrishna's experiences
 c: "indigo"
+a: "M"
 weight: 559
 author: M
 icon: M

@@ -1,6 +1,7 @@
 ---
 title: "Pundit Shashadhar"
 c: "indigo"
+a: "M"
 heading: "Chapter 24"
 weight: 212
 description: ""

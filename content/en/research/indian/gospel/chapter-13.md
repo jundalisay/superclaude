@@ -1,6 +1,7 @@
 ---
 title: "Law of Karma"
 c: "indigo"
+a: "M"
 heading: "Chapter 13"
 weight: 90
 description: ""

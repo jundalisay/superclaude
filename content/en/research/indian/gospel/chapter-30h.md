@@ -2,6 +2,7 @@
 heading: Chapter 30h
 title: Master and Nilkantha
 c: "indigo"
+a: "M"
 weight: 286
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---

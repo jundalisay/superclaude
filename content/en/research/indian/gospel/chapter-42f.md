@@ -2,6 +2,7 @@
 heading: "Chapter 42f"
 title: Master's love for young disciples
 c: "indigo"
+a: "M"
 weight: 465
 author: M
 icon: M

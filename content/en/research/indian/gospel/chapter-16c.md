@@ -1,6 +1,7 @@
 ---
 title: "Work and worship"
 c: "indigo"
+a: "M"
 heading: "Chapter 16c"
 weight: 139
 description: "At 9AM Sri Ramakrishna was standing on the southeast veranda near the door of his room, with Ramlal by his side"

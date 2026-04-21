@@ -1,6 +1,7 @@
 ---
 title: "Spirituality and book-learning"
 c: "indigo"
+a: "M"
 heading: "Chapter 34c"
 weight: 341
 description: ""

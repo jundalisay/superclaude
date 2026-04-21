@@ -1,6 +1,7 @@
 ---
 title: "Signs of God-realization"
 c: "indigo"
+a: "M"
 heading: "Chapter 41g"
 weight: 447
 description: ""

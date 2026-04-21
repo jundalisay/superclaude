@@ -2,6 +2,7 @@
 heading: "Chapter 38e"
 title: "Kāli and Brahman"
 c: "indigo"
+a: "M"
 weight: 393
 author: M
 icon: M

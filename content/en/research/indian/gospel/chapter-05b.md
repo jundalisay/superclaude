@@ -1,6 +1,7 @@
 ---
 title: "Divine Mother's Sport"
 c: "indigo"
+a: "M"
 heading: "Chapter 5b"
 weight: 24
 description: "The Divine Mother is always playful and sportive"

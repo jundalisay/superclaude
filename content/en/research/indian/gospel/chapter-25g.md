@@ -2,6 +2,7 @@
 heading: "Chapter 25g"
 title: "Three kinds of bhakti"
 c: "indigo"
+a: "M"
 weight: 226
 author: M
 icon: M

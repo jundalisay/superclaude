@@ -1,6 +1,7 @@
 ---
 title: "Master sharply reprimands Dr. Sarkar"
 c: "indigo"
+a: "M"
 heading: "Chapter 48b"
 weight: 579
 description: ""

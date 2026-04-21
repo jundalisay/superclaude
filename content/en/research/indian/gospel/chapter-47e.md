@@ -2,6 +2,7 @@
 heading: "Chapter 47e"
 title: Narendra's Poverty
 c: "indigo"
+a: "M"
 weight: 564
 author: M
 icon: M

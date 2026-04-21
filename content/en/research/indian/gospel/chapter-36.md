@@ -1,6 +1,7 @@
 ---
 title: "The Master'S Birthday"
 c: "indigo"
+a: "M"
 heading: "Chapter 36"
 weight: 354
 description: ""

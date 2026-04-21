@@ -1,6 +1,7 @@
 ---
 title: "Master at Devendra's house"
 c: "indigo"
+a: "M"
 heading: "Chapter 38g"
 weight: 398
 description: ""

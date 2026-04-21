@@ -1,6 +1,7 @@
 ---
 title: "Meditation on God with form"
 c: "indigo"
+a: "M"
 heading: "Chapter 4f"
 weight: 21
 description: "The mind cannot be fixed all of a sudden on the formless aspect of God. It is wise to think of God with form during the primary stages"

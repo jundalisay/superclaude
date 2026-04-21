@@ -2,6 +2,7 @@
 heading: "Chapter 27e"
 title: "Signs of a real devotee"
 c: "indigo"
+a: "M"
 weight: 241
 author: M
 icon: M

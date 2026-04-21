@@ -2,6 +2,7 @@
 heading: "Chapter 15d"
 title: "Advice to the worldly-minded"
 c: "indigo"
+a: "M"
 weight: 133
 author: M
 icon: M

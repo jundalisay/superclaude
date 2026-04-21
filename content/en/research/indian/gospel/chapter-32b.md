@@ -1,6 +1,7 @@
 ---
 title: "Futility of mere study"
 c: "indigo"
+a: "M"
 heading: "Chapter 32b"
 weight: 309
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"

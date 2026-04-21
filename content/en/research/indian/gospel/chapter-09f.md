@@ -2,6 +2,7 @@
 heading: "Chapter 9f"
 title: "Difficulty of overcoming vanity"
 c: "indigo"
+a: "M"
 weight: 51
 author: M
 icon: M

@@ -2,6 +2,7 @@
 heading: "Chapter 44e"
 title: Brahman is the innermost Reality
 c: "indigo"
+a: "M"
 weight: 495
 author: M
 icon: M

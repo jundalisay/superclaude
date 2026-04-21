@@ -1,6 +1,7 @@
 ---
 title: Religious Quarrels Condemned
 c: "indigo"
+a: "M"
 heading: "Chapter 10b"
 weight: 59
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"

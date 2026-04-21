@@ -1,6 +1,7 @@
 ---
 title: "Yearning for God"
 c: "indigo"
+a: "M"
 heading: "Appendix A2"
 weight: 703
 description: ""

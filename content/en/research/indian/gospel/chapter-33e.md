@@ -1,6 +1,7 @@
 ---
 title: "God supplies the needs of devotees"
 c: "indigo"
+a: "M"
 heading: "Chapter 33e"
 weight: 330
 description: ""

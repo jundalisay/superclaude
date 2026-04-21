@@ -1,6 +1,7 @@
 ---
 title: "Life of Worldliness"
 c: "indigo"
+a: "M"
 heading: "Chapter 8b"
 weight: 40
 description: "SRI RAMAKRISHNA arrived at Govinda Mukherji's house at Belgharia, near Calcutta."

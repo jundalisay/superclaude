@@ -1,6 +1,7 @@
 ---
 title: "Advice To Pundit Shashadhar"
 c: "indigo"
+a: "M"
 heading: "Chapter 25"
 weight: 216
 description: ""

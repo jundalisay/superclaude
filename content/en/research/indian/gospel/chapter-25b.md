@@ -1,6 +1,7 @@
 ---
 title: "The nature of jnanis and vijnanis"
 c: "indigo"
+a: "M"
 heading: "Chapter 25b"
 weight: 218
 description: ""

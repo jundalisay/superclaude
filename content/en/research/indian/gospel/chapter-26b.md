@@ -2,6 +2,7 @@
 heading: Chapter 26b
 title: God's Love
 c: "indigo"
+a: "M"
 weight: 228
 description: ""
 ---

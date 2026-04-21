@@ -1,6 +1,7 @@
 ---
 title: "The Master At The Houses Of Balarām And Girish"
 c: "indigo"
+a: "M"
 heading: "Chapter 40"
 weight: 415
 description: ""
@@ -20,7 +21,9 @@ may be cured? (In a worried tone) They served pickled mango with the meal. I ate
 {{< /l >}}
 
 
-M: "Green coconut milk, sir?"
+{{< r a="M" >}}
+Green coconut milk, sir?
+{{< /r >}}
 
 
 {{< l a="Ramakrishna" >}}
@@ -28,11 +31,20 @@ Yes. A drink made of sugar candy is also good."
 {{< /l >}}
 
 
-M: "Since last Sunday I have been living at our house with my parents."
+{{< r a="M" >}}
+Since last Sunday I have been living at our house with my parents.
+{{< /r >}}
 
-MASTER: "You have done well. It will be convenient for you to live at home. Since your parents live there, you won't have to worry so much about the family."
+
+
+MASTER: "You have done well. It will be convenient for you to live at home. Since your parents live there, you won't have to worry so much about  the family."
+
 While Sri Ramakrishna was talking, his mouth became dry. He said to M., like a child: "I feel a dryness in my mouth. Do you all feel that way?"
-M. (to Jogin): "Is your mouth also drying up?" 
+
+{{< r a="M" >}}
+(to Jogin): "Is your mouth also drying up?
+{{< /r >}}
+
 
 JOGIN: "No. Perhaps it is due to the heat."
 
@@ -47,6 +59,8 @@ I look like a mother nursing her babies. (All laugh.) Well, my tongue is drying 
 
 BABURAM: "Let me get a jamrul for you."
 
+
+
 MASTER: "You don't have to go out in this sun."
 
 
@@ -54,15 +68,16 @@ M was still fanning the Master.
 
 MASTER: "You may stop now. You have been fanning a long time."
 
-M: "I am not tired, sir."
 
-MASTER (tenderly): "No?"
+{{< r a="M" >}}
+I am not tired, sir.
+{{< /r >}}
 
-M taught in a school in the neighbourhood. He had a little recess at one o'clock, during
-which he visited Sri Ramakrishna. It was time for him to go back to the school. He
-saluted the Master.
+M taught in a school in the neighbourhood. He had a little recess at one o'clock, during which he visited Sri Ramakrishna. It was time for him to go back to the school. He saluted the Master.
+
 
 MASTER (to M.): "Must you go now?"
+
 
 A DEVOTEE: "School is not over yet. He came here during recess."
 
@@ -138,6 +153,8 @@ to the union of Radha and Krishna."
 
 
 The musician sang:
+
+
 My Gora, my treasure, the jewel among men,
 Weeps as he chants Sri Radha's name
 And rolls on the ground; with fervent love

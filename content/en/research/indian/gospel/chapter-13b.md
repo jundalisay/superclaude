@@ -1,6 +1,7 @@
 ---
 title: "Ideals of Jnāni and bhakta"
 c: "indigo"
+a: "M"
 heading: "Chapter 13b"
 weight: 94
 description: ""

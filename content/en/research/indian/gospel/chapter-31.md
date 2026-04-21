@@ -1,6 +1,7 @@
 ---
 title: "Advice To Ishan"
 c: "indigo"
+a: "M"
 heading: "Chapter 31"
 weight: 289
 description: ""

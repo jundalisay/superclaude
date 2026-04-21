@@ -2,6 +2,7 @@
 title: "Rabindranath Tagore"
 # title: "The Master With The Brahmo Devotees and Tagore"
 c: "indigo"
+a: "M"
 heading: "Chapter 10c"
 weight: 57
 description: "All 3 Gunas are robbers. They rob man of all his treasures and make him forget his true nature."

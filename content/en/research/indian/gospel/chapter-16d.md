@@ -2,6 +2,7 @@
 heading: "Chapter 16d"
 title: "Image worship"
 c: "indigo"
+a: "M"
 weight: 140
 author: M
 icon: M

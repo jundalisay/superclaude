@@ -2,6 +2,7 @@
 heading: "Chapter 13f"
 title: "Krishnakishore's faith in God"
 c: "indigo"
+a: "M"
 weight: 102
 author: M
 icon: M

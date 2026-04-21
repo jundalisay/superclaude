@@ -2,6 +2,7 @@
 heading: Chapter 30c
 title: Nature of Brahman
 c: "indigo"
+a: "M"
 weight: 275
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---

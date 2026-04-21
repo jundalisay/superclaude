@@ -1,6 +1,7 @@
 ---
 title: "The Master At Cossipore"
 c: "indigo"
+a: "M"
 heading: "Chapter 49"
 weight: 600
 description: ""

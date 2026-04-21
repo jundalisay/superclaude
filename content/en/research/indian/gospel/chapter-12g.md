@@ -1,6 +1,7 @@
 ---
 title: "Parable of the four friends"
 c: "indigo"
+a: "M"
 heading: "Chapter 12e"
 weight: 88
 description: "Once four friends, in the course of a walk, saw a place enclosed by a wall. The wall was very high. They all became eager to know what was inside."

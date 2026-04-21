@@ -2,6 +2,7 @@
 heading: "Chapter 27b"
 title: "M teaches Physics to Ramakrishna"
 c: "indigo"
+a: "M"
 weight: 235
 author: M
 icon: M

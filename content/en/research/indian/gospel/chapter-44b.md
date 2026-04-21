@@ -1,6 +1,7 @@
 ---
 title: Different kinds of samādhi
 c: "indigo"
+a: "M"
 heading: "Chapter 44b"
 weight: 486
 description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"

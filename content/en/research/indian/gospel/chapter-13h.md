@@ -1,6 +1,7 @@
 ---
 title: "Faith in the Guru"
 c: "indigo"
+a: "M"
 heading: "Chapter 13h"
 weight: 107
 description: ""

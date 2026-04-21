@@ -2,6 +2,7 @@
 heading: "Chapter 44d"
 title: Brahman and Śakti
 c: "indigo"
+a: "M"
 weight: 492
 author: M
 icon: M

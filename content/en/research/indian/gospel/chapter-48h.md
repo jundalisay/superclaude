@@ -2,6 +2,7 @@
 heading: "Chapter 45b"
 title: About Hriday
 c: "indigo"
+a: "M"
 weight: 595
 author: M
 icon: M

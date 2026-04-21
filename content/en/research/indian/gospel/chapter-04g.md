@@ -1,10 +1,13 @@
 ---
 title: "Balaram"
 c: "indigo"
-heading: "Chapter 4d"
+a: "M"
+heading: "Chapter 4g"
 weight: 22
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"
+icon: Ramakrishna
 ---
+
 
 
 Tuesday, October 24,1882
@@ -37,7 +40,19 @@ Sometimes he stays here 2 or 3 days without going to his office. Can you guess h
 He owns much property in Orissa and has built temples to Radha-Krishna in Kothar, Vrindāvan, and other places, establishing free guest-houses as well. 
 
 
-(To Balaram) "A certain person came here the other day. I understand he is the slave of that black hag of a wife. Why is it that people do not see God? It is because of the barrier of 'woman and gold'. How impudent he was to say to you the other day, 'A paramahamsa came to my father, who fed him with chicken curry!' "In my present of my mind I can eat a little fish soup if it has been offered to the Divine Mother beforehand. I can't eat any meat, even if it is offered to the Divine Mother; but I taste it with the end of my finger lest She should be angry. (Laughter.) "Well, can you explain this state of my mind? Once I was going from Burdwan to Kamarpukur in a bullock-cart, when a great storm arose. Some people gathered near the cart. My companions said they were robbers. So I began to repeat the names of God, calling sometimes on Kāli, sometimes on Rama, sometimes on Hanuman. What do you think of that?"
+{{< l a="Ramakrishna" >}}
+(To Balaram) A certain person came here the other day. I understand he is the slave of that black hag of a wife. Why is it that people do not see God? It is because of the barrier of 'woman and gold'. 
+
+How impudent he was to say to you the other day, 'A paramahamsa came to my father, who fed him with chicken curry!' "In my present of my mind I can eat a little fish soup if it has been offered to the Divine Mother beforehand. I can't eat any meat, even if it is offered to the Divine Mother; but I taste it with the end of my finger lest She should be angry.
+{{< /l >}}
+
+
+(Laughter.) 
+
+{{< l a="Ramakrishna" >}}
+"Well, can you explain this state of my mind? Once I was going from Burdwan to Kamarpukur in a bullock-cart, when a great storm arose. Some people gathered near the cart. My companions said they were robbers. So I began to repeat the names of God, calling sometimes on Kāli, sometimes on Rama, sometimes on Hanuman. What do you think of that?"
+{{< /l >}}
+
 
 Was the Master hinting that God is one but is addressed differently by different sects?
 
@@ -45,7 +60,13 @@ Was the Master hinting that God is one but is addressed differently by different
 {{< l a="Ramakrishna" >}}
 (to Balaram): Maya is nothing but 'woman and gold'. A man living in its midst gradually loses his spiritual alertness. He thinks all is well with him. The scavenger carries a tub of night-soil on his head, and in course of time loses his repulsion to it. 
 
-One gradually acquires love of God through the practice of chanting God's name and glories. (To M.) One should not be ashamed of chanting God's holy name. As the saying goes, 'One does not succeed so long as one has these three: shame, hatred,
+One gradually acquires love of God through the practice of chanting God's name and glories. 
+{{< /l >}}
+
+
+
+{{< l a="Ramakrishna" >}}
+(To M.) One should not be ashamed of chanting God's holy name. As the saying goes, 'One does not succeed so long as one has these three: shame, hatred,
 and fear.'
 
 At Kamarpukur they sing kirtan very well. The devotional music is sung to the accompaniment of drums.

@@ -1,6 +1,7 @@
 ---
 title: "The Master In Various Moods"
 c: "indigo"
+a: "M"
 heading: "Chapter 30"
 weight: 271
 description: ""

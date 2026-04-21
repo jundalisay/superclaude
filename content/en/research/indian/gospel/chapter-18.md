@@ -2,6 +2,7 @@
 heading: "Chapter 18"
 title: "Brahman and Śakti are Identical"
 c: "indigo"
+a: "M"
 weight: 159
 author: M
 icon: M

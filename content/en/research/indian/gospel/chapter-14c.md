@@ -2,6 +2,7 @@
 heading: "Chapter 14c"
 title: "Divine grace removes bondage"
 c: "indigo"
+a: "M"
 weight: 113
 author: M
 icon: M

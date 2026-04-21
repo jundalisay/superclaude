@@ -1,6 +1,7 @@
 ---
 title: "Hazra's Selfishness"
 c: "indigo"
+a: "M"
 heading: "Chapter 40d"
 weight: 424
 icon: Ramakrishna

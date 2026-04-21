@@ -1,6 +1,7 @@
 ---
 title: "The Evil of 'I' and 'mine'"
 c: "indigo"
+a: "M"
 heading: "Chapter 3d"
 weight: 14
 description: "The path of love also leads to the Truth."

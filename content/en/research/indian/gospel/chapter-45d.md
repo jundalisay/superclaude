@@ -2,6 +2,7 @@
 heading: "Chapter 45d"
 title: Master praises the true householder
 c: "indigo"
+a: "M"
 weight: 521
 author: M
 icon: M

@@ -1,6 +1,7 @@
 ---
 title: "Different Attitudes Toward God"
 c: "indigo"
+a: "M"
 heading: "Chapter 18d"
 weight: 167
 description: "Sri Ramakrishna was sitting in his room. M. was still staying with the Master."

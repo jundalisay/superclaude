@@ -1,6 +1,7 @@
 ---
 title: "Revelation about himself"
 c: "indigo"
+a: "M"
 heading: "Chapter 37f"
 weight: 381
 description: ""

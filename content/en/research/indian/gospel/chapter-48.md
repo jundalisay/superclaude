@@ -1,6 +1,7 @@
 ---
 title: "In The Company Of Devotees At Syampukur"
 c: "indigo"
+a: "M"
 heading: "Chapter 48"
 weight: 574
 description: ""

@@ -2,6 +2,7 @@
 heading: "Chapter 12e"
 title: "Various classes of devotees"
 c: "indigo"
+a: "M"
 weight: 86
 author: M
 icon: M

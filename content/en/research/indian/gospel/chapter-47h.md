@@ -2,6 +2,7 @@
 heading: "Chapter 47h"
 title: The Cause of Master's illness
 c: "indigo"
+a: "M"
 weight: 571
 author: M
 icon: M

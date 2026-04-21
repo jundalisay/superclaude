@@ -2,6 +2,7 @@
 heading: "Chapter 36b"
 title: "Goal of scriptural study"
 c: "indigo"
+a: "M"
 weight: 357
 author: M
 icon: M

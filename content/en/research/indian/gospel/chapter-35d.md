@@ -1,6 +1,7 @@
 ---
 title: "Master's spiritual experiences"
 c: "indigo"
+a: "M"
 heading: "Chapter 35b"
 weight: 351
 description: ""

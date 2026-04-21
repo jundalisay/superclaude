@@ -2,6 +2,7 @@
 heading: "Chapter 46g"
 title: Use of scriptures
 c: "indigo"
+a: "M"
 weight: 545
 author: M
 icon: M

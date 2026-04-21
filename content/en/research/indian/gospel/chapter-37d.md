@@ -1,6 +1,7 @@
 ---
 title: "Master's eagerness for a spiritual companion"
 c: "indigo"
+a: "M"
 heading: "Chapter 37d"
 weight: 377
 description: ""

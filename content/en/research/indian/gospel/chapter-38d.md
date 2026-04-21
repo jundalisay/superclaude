@@ -2,6 +2,7 @@
 heading: "Chapter 38d"
 title: "How to cultivate longing for God"
 c: "indigo"
+a: "M"
 weight: 390
 author: M
 icon: M

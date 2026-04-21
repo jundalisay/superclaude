@@ -2,6 +2,7 @@
 heading: "Chapter 25f"
 title: "Balarām's father"
 c: "indigo"
+a: "M"
 weight: 225
 author: M
 icon: M

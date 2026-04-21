@@ -2,6 +2,7 @@
 heading: "Chapter 48e"
 title: Uselessness of mere scholarship
 c: "indigo"
+a: "M"
 weight: 584
 author: M
 icon: M

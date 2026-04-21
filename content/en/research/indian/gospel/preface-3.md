@@ -1,6 +1,7 @@
 ---
 title: "The Story of M"
 c: "indigo"
+a: "M"
 heading: "Preface 3"
 weight: 2
 author: M

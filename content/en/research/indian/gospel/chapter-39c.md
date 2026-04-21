@@ -2,6 +2,7 @@
 heading: "Chapter 39c"
 title: The Power of woman and gold
 c: "indigo"
+a: "M"
 weight: 407
 author: M
 icon: M

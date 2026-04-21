@@ -1,6 +1,7 @@
 ---
 title: "The Three Gunas"
 c: "indigo"
+a: "M"
 heading: "Chapter 22c"
 weight: 199
 description: "The three gunas―sattva, rajas, and tamas―have men under their control"

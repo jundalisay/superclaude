@@ -1,6 +1,7 @@
 ---
 title: "Brahman is indescribable"
 c: "indigo"
+a: "M"
 heading: "Chapter 48f"
 weight: 589
 description: ""

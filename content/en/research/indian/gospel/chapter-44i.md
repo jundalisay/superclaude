@@ -2,6 +2,7 @@
 heading: "Chapter 44i"
 title: Master's renunciation
 c: "indigo"
+a: "M"
 weight: 508
 author: M
 icon: M

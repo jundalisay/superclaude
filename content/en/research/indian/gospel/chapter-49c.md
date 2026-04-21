@@ -1,6 +1,7 @@
 ---
 title: "Devotees' Detachment From The World"
 c: "indigo"
+a: "M"
 heading: "Chapter 49c"
 weight: 604
 description: ""

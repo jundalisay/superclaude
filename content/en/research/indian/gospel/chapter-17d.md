@@ -2,6 +2,7 @@
 heading: "Chapter 17d"
 title: "Master's childlike mood"
 c: "indigo"
+a: "M"
 weight: 155
 author: M
 icon: M

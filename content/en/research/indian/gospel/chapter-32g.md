@@ -1,6 +1,7 @@
 ---
 title: "Ramakrishna and the Host"
 c: "indigo"
+a: "M"
 heading: "Chapter 32g"
 weight: 319
 description: "Sri Ramakrishna bowed down to the host and said, with folded hands"

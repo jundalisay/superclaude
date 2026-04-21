@@ -2,6 +2,7 @@
 heading: "Chapter 28d"
 title: "Advice to Hazra - Scriptures and sadhana"
 c: "indigo"
+a: "M"
 weight: 252
 author: M
 icon: M

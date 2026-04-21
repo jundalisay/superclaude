@@ -2,6 +2,7 @@
 heading: "Chapter 13d"
 title: "Master's deep spiritual experiences"
 c: "indigo"
+a: "M"
 weight: 98
 author: M
 icon: M

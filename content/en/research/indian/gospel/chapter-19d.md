@@ -1,6 +1,7 @@
 ---
 title: "Trailokya's Songs"
 c: "indigo"
+a: "M"
 heading: "Chapter 19d"
 weight: 177
 description: "There are 4 Stages of Life"

@@ -1,6 +1,7 @@
 ---
 title: "Preface by Swāmi Nikhilānanda"
 c: "indigo"
+a: "M"
 # heading: "Chapter 49"
 weight: 1
 description: ""
@@ -97,6 +98,7 @@ the three hundred millions of Hindus for the last two thousand years. Mahatma Ga
 has written: "His life enables us to see God face to face. . . . Ramakrishna was a living
 embodiment of godliness." He is being recognized as a compeer of Krishna, Buddha, and
 Christ.
+
 The life and teachings of Sri Ramakrishna have redirected the thoughts of the
 denationalized Hindus to the spiritual ideals of their forefathers. During the latter part of
 the nineteenth century his was the time-honoured role of the Saviour of the Eternal
@@ -106,6 +108,7 @@ spiritual destiny of India. His great disciple, Swami Vivekananda, was the first
 missionary to preach the message of Indian culture to the enlightened minds of Europe
 and America. The full consequence of Swami Vivekānandā work is still in the womb of
 the future.
+
 May this translation of the first book of its kind in the religious history of the world, being
 the record of the direct words of a prophet, help stricken humanity to come nearer to the
 Eternal Verity of life and remove dissension and quarrel from among the different faiths!

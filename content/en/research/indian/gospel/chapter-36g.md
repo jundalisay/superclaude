@@ -1,6 +1,7 @@
 ---
 title: "Sannyāsi's discipline"
 c: "indigo"
+a: "M"
 heading: "Chapter 36g"
 weight: 367
 description: ""

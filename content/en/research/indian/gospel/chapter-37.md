@@ -1,6 +1,7 @@
 ---
 title: "The Master And Narendra"
 c: "indigo"
+a: "M"
 heading: "Chapter 37"
 weight: 370
 description: ""

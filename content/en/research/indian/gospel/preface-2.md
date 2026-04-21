@@ -2,6 +2,7 @@
 heading: "Preface 2"
 title: Mahendranāth Gupta
 c: "indigo"
+a: "M"
 weight: 2
 author: M
 icon: M

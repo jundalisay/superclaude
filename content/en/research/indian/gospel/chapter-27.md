@@ -2,6 +2,7 @@
 heading: Chapter 27
 title: At Dakshineswar
 c: "indigo"
+a: "M"
 weight: 232
 description: "The Master was sitting in his room at Dakshineswar."
 ---

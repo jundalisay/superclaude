@@ -1,6 +1,7 @@
 ---
 title: "Nityagopal and Ramakrishna"
 c: "indigo"
+a: "M"
 heading: "Chapter 52e"
 weight: 648
 description: ""

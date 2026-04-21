@@ -1,6 +1,7 @@
 ---
 title: "The Master's Training Of His Disciples"
 c: "indigo"
+a: "M"
 heading: "Chapter 47"
 weight: 558
 description: ""

@@ -1,6 +1,7 @@
 ---
 title: "Visit To The Sinthi Bramo Samaj"
 c: "indigo"
+a: "M"
 heading: "Chapter 32"
 weight: 306
 description: ""

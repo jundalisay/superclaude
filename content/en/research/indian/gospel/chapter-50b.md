@@ -2,6 +2,7 @@
 heading: "Chapter 50b"
 title: Master's vision of God
 c: "indigo"
+a: "M"
 weight: 614
 author: M
 icon: M

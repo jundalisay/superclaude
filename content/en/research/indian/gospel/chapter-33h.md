@@ -1,6 +1,7 @@
 ---
 title: "Advantage of a householder's life"
 c: "indigo"
+a: "M"
 heading: "Chapter 33g"
 weight: 335
 description: ""

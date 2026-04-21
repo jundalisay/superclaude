@@ -1,6 +1,7 @@
 ---
 title: "Sin and God's name"
 c: "indigo"
+a: "M"
 heading: "Chapter 32c"
 weight: 311
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"

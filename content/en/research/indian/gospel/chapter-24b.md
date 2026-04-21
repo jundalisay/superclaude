@@ -1,6 +1,7 @@
 ---
 title: "Three Yogas "
 c: "indigo"
+a: "M"
 heading: "Chapter 24b"
 weight: 214
 description: ""

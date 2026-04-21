@@ -1,6 +1,7 @@
 ---
 title: "Master reprimands Captain"
 c: "indigo"
+a: "M"
 heading: "Chapter 41d"
 weight: 440
 description: ""

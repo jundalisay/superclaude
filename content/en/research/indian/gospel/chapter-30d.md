@@ -2,6 +2,7 @@
 heading: Chapter 30d
 title: Liberation
 c: "indigo"
+a: "M"
 weight: 277
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---

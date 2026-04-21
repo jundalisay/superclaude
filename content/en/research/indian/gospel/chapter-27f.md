@@ -2,6 +2,7 @@
 heading: "Chapter 27f"
 title: "Futility of mere study of scriptures"
 c: "indigo"
+a: "M"
 weight: 243
 author: M
 icon: M

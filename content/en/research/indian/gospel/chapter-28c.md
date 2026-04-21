@@ -2,6 +2,7 @@
 heading: Chapter 28c
 title: Bondage and freedom are of the mind
 c: "indigo"
+a: "M"
 weight: 250
 description: "The Master was sitting in his room at Dakshineswar."
 ---

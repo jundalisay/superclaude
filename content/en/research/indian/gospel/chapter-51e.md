@@ -2,6 +2,7 @@
 heading: "Chapter 51e"
 title: Good Friday
 c: "indigo"
+a: "M"
 weight: 638
 author: M
 icon: M

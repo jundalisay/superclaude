@@ -1,6 +1,7 @@
 ---
 title: "Explanation of evil"
 c: "indigo"
+a: "M"
 heading: "Chapter 2c"
 weight: 10
 description: "Why does a man have evil tendencies?"

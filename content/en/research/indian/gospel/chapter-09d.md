@@ -2,6 +2,7 @@
 heading: "Chapter 9d"
 title: "Traits of bound souls"
 c: "indigo"
+a: "M"
 weight: 47
 author: M
 icon: M

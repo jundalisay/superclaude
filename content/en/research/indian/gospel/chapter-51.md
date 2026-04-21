@@ -1,6 +1,7 @@
 ---
 title: "The Master'S Love For His Devotees"
 c: "indigo"
+a: "M"
 heading: "Chapter 51"
 weight: 630
 description: ""

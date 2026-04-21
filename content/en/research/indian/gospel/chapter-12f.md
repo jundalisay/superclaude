@@ -1,6 +1,7 @@
 ---
 title: "Difficulty of the Vedantic method"
 c: "indigo"
+a: "M"
 heading: "Chapter 12d"
 weight: 87
 description: "Taking advantage of the holiday, many householder devotees visited Sri Ramakrishna in his room at the Dakshineswar temple garden"

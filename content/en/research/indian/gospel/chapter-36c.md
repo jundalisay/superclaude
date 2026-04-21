@@ -2,6 +2,7 @@
 heading: "Chapter 36c"
 title: "Duties of householders"
 c: "indigo"
+a: "M"
 weight: 360
 author: M
 icon: M

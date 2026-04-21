@@ -1,6 +1,7 @@
 ---
 title: "Festival at Pānihāti"
 c: "indigo"
+a: "M"
 heading: "Chapter 12"
 weight: 80
 description: "The Festival of the Flattened Rice is for Sri Chaitanya"

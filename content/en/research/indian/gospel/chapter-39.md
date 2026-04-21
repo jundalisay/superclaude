@@ -1,6 +1,7 @@
 ---
 title: "Master's own reminiscences"
 c: "indigo"
+a: "M"
 heading: "Chapter 39"
 weight: 402
 description: "SRI RAMAKRISHNA was sitting with the devotees in Balarām's drawing room in Calcutta."

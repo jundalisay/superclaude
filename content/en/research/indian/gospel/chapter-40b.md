@@ -1,6 +1,7 @@
 ---
 title: "Radha and Krishna"
 c: "indigo"
+a: "M"
 heading: "Chapter 40b"
 weight: 418
 description: ""
@@ -38,12 +39,12 @@ Tell us why your golden skin has taken the ashy hue of cinders.
 
 From your body the scarlet cloth has dropped unheeded to the ground;
 
-Ah! Your eyes are red with tears; your lovely lotus face has
-withered.
-Tell us what it is that ails you, lest our hearts should break with
-grief.
+Ah! Your eyes are red with tears; your lovely lotus face has withered.
+
+Tell us what it is that ails you, lest our hearts should break with grief.
 
 Radha says to her friends:
+
 I long for the sight of Krishna's face.
 
 The musician sang again.
@@ -61,10 +62,10 @@ With restless mind and streaming eyes, alas! I can scarcely
 breathe:
 
 How He plays His magic flute, whose music thrills my soul!
-Because He is out of my sight, my heart expires; I cannot stay
-home.
-My soul yearns for Him; racked with pain, it longs to see Him
-once more.
+
+Because He is out of my sight, my heart expires; I cannot stay home.
+
+My soul yearns for Him; racked with pain, it longs to see Him once more.
 
 Says Uddhava Das: But you will die, O Radha, when you
 behold Him!

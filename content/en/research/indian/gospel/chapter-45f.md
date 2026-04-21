@@ -2,6 +2,7 @@
 heading: "Chapter 45f"
 title: Ego of old age
 c: "indigo"
+a: "M"
 weight: 526
 author: M
 icon: M

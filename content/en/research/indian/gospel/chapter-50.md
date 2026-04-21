@@ -1,6 +1,7 @@
 ---
 title: "The Master And Buddha"
 c: "indigo"
+a: "M"
 heading: "Chapter 50"
 weight: 608
 description: ""

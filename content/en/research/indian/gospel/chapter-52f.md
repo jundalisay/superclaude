@@ -1,6 +1,7 @@
 ---
 title: "Prasanna's Austere Sādhanā"
 c: "indigo"
+a: "M"
 heading: "Chapter 52d"
 weight: 648
 description: ""

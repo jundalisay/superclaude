@@ -2,6 +2,7 @@
 heading: "Chapter 39d"
 title: Mahendra
 c: "indigo"
+a: "M"
 weight: 409
 author: M
 icon: M

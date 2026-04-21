@@ -2,6 +2,7 @@
 heading: "Chapter 42c"
 title: Nitya and Lila
 c: "indigo"
+a: "M"
 weight: 458
 author: M
 icon: M

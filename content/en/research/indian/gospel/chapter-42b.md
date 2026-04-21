@@ -2,6 +2,7 @@
 heading: "Chapter 42b"
 title: God dwelling in the Master
 c: "indigo"
+a: "M"
 weight: 453
 author: M
 icon: M

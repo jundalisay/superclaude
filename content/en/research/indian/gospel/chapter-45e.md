@@ -2,6 +2,7 @@
 heading: "Chapter 45e"
 title: Personal God and Impersonal Truth
 c: "indigo"
+a: "M"
 weight: 524
 author: M
 icon: M
