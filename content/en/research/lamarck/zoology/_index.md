@@ -1,5 +1,6 @@
 ---
 title: Zoological Philosophy
+linkTitle: Zoological 
 heading: Enlightened
 description: 
 c: "#DE3163"

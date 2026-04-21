@@ -1,280 +1,155 @@
 ---
-title: "The Samkhya philosophy"
+title: "Unreality of all worldly relationships"
 c: "indigo"
-heading: "Chapter 40e"
-weight: 426
+heading: "Chapter 40d"
+weight: 425
 description: ""
+icon: Ramakrishna
 ---
 
 
+A guru said to his disciple: 
 
-The Samkhya philosophy says that God does not exit, because there is no proof of His existence. Again, the same philosophy says that one must accept the Vedas and that they are eternal. 
+{{< l a="Guru" >}}
+'The world is illusory. Come away with me.'
+{{< /l >}}
 
-"But I don't say that these are not true. I simply don't understand them. Please explain them to me. People have explained the scriptures according to their fancy. Which explanation shall we accept? White light coming through a red medium appears red, through a green medium, green."
+{{< r a="Disciple" >}}
+But, revered sir, my people at home-my father, my mother, my wife-love me so much. How can I give them up?
+{{< /r >}}
 
-A DEVOTEE:' "The Gitā contains the words of God."
-
-MASTER: "Yes, the Gitā is the essence of all scriptures. A sannyāsi may or may not keep with him another book, but he always carries a pocket Gitā."
-
-A DEVOTEE: "The Gitā contains the words of Krishna."
-
-NARENDRA: "Yes, Krishna or any fellow for that matter!"
-
-Sri Ramakrishna was amazed at these words of Narendra.
-
-MASTER: "This is a fine discussion. There are two interpretations of the scriptures: the literal and the real. 'One should accept the real meaning alone-what agrees with the words of God. There is a vast difference between the words written in a letter and the direct words of its writer. The scriptures are like the words of the letter; the words of God are direct words. I do not accept anything unless it agrees with the direct words of the Divine Mother."
-
-The conversation again turned to Divine Incarnation.
-
-NARENDRA: "It is enough to have faith in God. I don't care about what He is doing or what He hangs from. Infinite is the universe; infinite are the Incarnations." 
-
-As Sri Ramakrishna heard the words, "Infinite is the universe; infinite are the
-Incarnations", he said with folded hands, "Ah!"
-
-M whispered something to Bhavanāth.
-
-BHAVANĀTH: "M. says: 'As long as I have not seen the elephant, how can I know whether it can pass through the eye of a needle? I do not, know God; how can I
-understand through reason whether or not He can incarnate Himself as man?" 
-
-
-{{< l a="Ramakrishna" >}}
-Everything is possible for God. It is He who casts the spell. The magician swallows the knife and takes it out again; he swallows stones and bricks."
+{{< l a="Guru" >}}
+You now have this feeling of "I" and "mine" and say that they love you; but this is all an illusion of your mind. I shall teach you a trick, and you will know whether they love you truly or not.' 
 {{< /l >}}
 
 
-A DEVOTEE: "The Brahmos say that a man should perform his worldly duties. He must
-not renounce them."
-
-GIRISH: "Yes, I saw something like that in their paper, the Sulabha Samachar. But a
-man cannot even finish all the works that are necessary for him in order to know God,
-and still he speaks of worldly duties."
-
-Sri Ramakrishna smiled a little, looked at M., and made a sign with his eye, as if to say,
-
-"What he says is right."
-
-M understood that this question of performing duties was an extremely difficult one.
-Purna arrived.
-
-MASTER: "Who told you about our being here?"
-
-PURNA: "Sarada."
-
-MASTER (to the woman devotees): "Give him some refreshments."
-
-
-### Narendra's music
-
-Narendra was preparing to sing. The Master and the devotees were eager to hear his
-music. Narendra sang:
-
-Śiva, Thy ready thunderbolt rules over meadows, hills, and sky!
-O God of Gods! O Slayer of Time! Thou the Great Void, the
-
-King of Dharma!
-
-Śiva, Thou Blessed One, redeem me; take away my grievous sin.
+Saying this, the teacher gave the disciple a pill and said to him: 
 
-He sang again:
-
-Sweet is Thy name, O Refuge of the humble!
-It falls like sweetest nectar on our ears
-And comforts us, Beloved of our souls! . . .
+{{< l a="Guru" >}}
+Swallow this at home. You will appear to be a corpse, but you will not lose consciousness. You will see everything and hear everything. Then I shall come to your house and gradually you will regain your normal state.'
+{{< /l >}}
 
-Again:
 
-Why, O mind, do you never call on Him Who takes away all fear of danger?
-Tricked by delusion you forget yourself,
-Enamoured of the world's bleak wilderness.
-Alas, what mockery is here!
-Comrades and wealth you cannot always keep;
-Take care lest you forget Him quite.
-Give up the false, O mind! Adore the Real;
-And all the grief will vanish from your life.
-Keep my good counsel in your heart.
-With sounding voice proclaim Lord Hari's name
-And cast away your false desires,
-If you would cross the ocean of this life;
-Surrender to Him body, mind, and soul,
-And worship Him with trusting love.
-PALTU: "Won't you sing that one?"
-NARENDRA: "Which one?"
+The disciple followed the teacher's instructions and lay on his bed like a dead person: The house was filled with loud wailing. His mother, his wife, and the others lay on the ground weeping bitterly. 
 
-PALTU: "'When I behold Thy peerless face.' "
+Just then a brahmin entered the house and said to them, 
 
-Narendra sang:
 
-When I behold Thy peerless face, beaming with love, a Lord,
-What fear have I of earthly woe or of the frown of sorrow?
-As the first ray of the dawning sun dispels the dark,
-So too, Lord, when Thy blessed light bursts forth within the
-heart, It scatters all our grief and pain with sweetest balm.
-When on Thy love and grace I ponder, in my heart's deepest
-depths, Tears of joy stream down my cheeks beyond restraining.
-Hail, Gracious Lord! Hail, Gracious One! I shall proclaim Thy
-love. 
+{{< l a="Brahmin" >}}
+What is the matter with you?' 
+{{< /l >}}
 
+'This boy is dead', they replied. The brahmin felt his pulse and said:
 
-May my life-breath depart from me as I perform Thy works!
+{{< l a="Brahmin" >}}
+No, he is not dead. I have a medicine for him that will cure him completely.
+{{< /l >}}
 
-At M.'s request Narendra sang again, M. and many of the devotees listening with folded
-hands:
+The joy of the relatives was unbounded; it seemed to them that heaven itself had come down into their house. 
 
-Be drunk, O mind, be drunk with the Wine of Heavenly Bliss!
-Roll on the ground and weep, chanting Hari's sweet name! . . .
-Narendra sang again:
-Meditate, O my mind, on the Lord Hari,
-The Stainless One, Pure Spirit through and through.
-How peerless is the light that in Him shines!
-How soul-bewitching is His wondrous form!
-How dear is He to all His devotees! . . .
-He sang another song:
-This universe, wondrous and infinite,
-O Lord, is Thy handiwork;
-And the whole world is a treasure-house
-Full of Thy beauty and grace
-The stars glisten innumerable,
-Like gems on a necklace of gold;
-How can the myriad suns and moons
-Ever be numbered above?
-The earth is glowing with grain and gold,
-Thine ever brimming store;
-Uncounted stars, O God, sing forth:
-Blessed, blessed art Thou!
 
-Upon the tray of the sky blaze bright
-The lamps of sun and moon;
-Like diamonds shine the glittering stars
-To deck Thy wondrous form. . . .
-Fasten your mind, O man, on the Primal Purusha,
-Who is the Cause of all causes,
-The Stainless One, the Beginningless Truth
-As Prāna He pervades the infinite universe;
-The man of faith beholds Him
-Living, resplendent, the Root of all. . . .
+{{< l a="Brahmin" >}}
+But another person must take some of this medicine first and then the boy must swallow the rest. But the other person will die. 
 
-At Narayan's request Narendra sang:
+I see he has so many dear relatives here. One of them will certainly agree to take the medicine. I see his wife and mother crying bitterly. Surely they will not hesitate to take it.'
+{{< /l >}}
 
-Come! Come, Mother! Doll of my soul! My heart's Delight!
-In my heart's lotus come and sit, that I may see Thy face.
-Alas! Sweet Mother, even from birth I have suffered much;
-But I have borne it all, Thou knowest, gazing at Thee.
-Open the lotus of my heart, dear Mother! Reveal Thyself there.
 
-Then Narendra sang a song of his own choice:
+At once the weeping stopped and all sat quiet. The mother said: 
 
-In dense darkness, O Mother, Thy formless beauty sparkles;
-Therefore the yogis meditate in a dark mountain cave. . . .
+{{< r a="Mother" >}}
+This is a big family. Suppose I die; then who will look after the family?' 
+{{< /r >}}
 
-As Sri Ramakrishna heard this soul-enthralling song, he went into samādhi. Narendra
-again sang:
 
-Be drunk, O mind, be drunk with the Wine 'Of Heavenly Bliss!
+She fell into a reflective mood. The wife, who had been crying a minute before and bemoaning her ill luck, said: 'Well, he has gone the way of mortals. I have these two or three young children. Who will look after them if I die?'
 
-The Master was in samādhi. He was sitting on a pillow, dangling his feet, facing the north
-and leaning against the wall. The devotees were seated around him.
+The disciple saw everything and heard everything. He stood up at once and said to the teacher: 
 
-In an ecstatic mood Sri Ramakrishna talked to the Divine Mother. He said: "I shall take
-my meal now. Art Thou come? Hast Thou found Thy lodging and left Thy baggage there
-and then come out?" He continued: "I don't enjoy anybody's company now. Why should
 
-I listen to the music, Mother? That diverts part of my mind to the outside world."
+{{< r a="Disciple" >}}
+Let us go, revered sir. I will follow you.
+{{< /r >}}
 
-The Master was gradually regaining consciousness of the outer world. Looking at the devotees he said: "Years ago I used to be amazed to see people keeping kai fish alive in a pot of water. I would say: 'How cruel these people are! They will finally kill the fish.' 
 
-But later, as changes came over my mind, I realized that bodies are like pillow-cases. It
-doesn't matter whether they remain or drop off."
+(All laugh.)
 
-BHAVANĀTH: "Then may one injure a man without incurring sin? Kill him?"
 
-MASTER: "Yes, it is permissible if one has achieved that state of mind. But not everyone has it. It is the state of Brahmajnana. 
+Another disciple said to his teacher: 
 
-"By coming down a step or two from samādhi I enjoy bhakti and bhakta.
+'Revered sir, my wife takes great care of me. It is for her sake that I cannot give up the world.' The disciple practised hathayoga. 
 
+The teacher taught him, too, a trick to test his wife's love. One day there was a great wailing in his house. The neighbours came running and saw the hathayogi seated in a posture, his limbs paralysed and distorted. They thought he was dead. His wife fell on the ground, weeping piteously: 'Oh, what has befallen me? How have you provided for our future?
 
-## Vidyā-māyā and Avidyā-māyā
+Oh, friends, I never dreamt I should meet such a fate!'
 
-"There exist in God both vidyā and avidyā. Vidyā-māyā leads one to God, and Avidyā-māyā away from Him. Knowledge, devotion, compassion, and renunciation belong to the realm of vidyā. With the help of these a man comes near God. One step more and he
-attains God, Knowledge of Brahman. 
+"In the mean time the relatives and friends had brought a cot to take the corpse out. But suddenly a difficulty arose as they started to move it. 
 
-In that state he clearly feels and sees that it is God
-who has become everything. He has nothing to give up and nothing to accept. It is
-impossible for him to be angry with anyone.
+Since the body was twisted and stiff, it could not be taken out through the door. A neighbour quickly brought an axe and began to chop away the door-frame. The wife was crying bitterly, when she heard the
+sound of the axe. She ran to the door. 'What are you doing, friends?' she asked, still
+weeping. The neighbour said, 'We can't take the body out; so we are chopping away the
+door-frame.'
 
-"One day I was riding in a carriage. I saw two prostitutes standing on a verandah. They appeared to me to be embodiments of the Divine Mother Herself. I saluted them. 
+"'Please', said the wife, 'don't do any such thing. I am a widow now; I have no one to
+look after me. I have to bring up these young children. If you destroy this door, I shall
+not be able to replace it. Friends, death is inevitable for all, and my husband cannot be
+called back to life. You had better cut his limbs.' 
 
-"When I first attained this exalted state I could not worship Mother Kāli or give Her the food offering. Haladhāri and Hriday told me that on account of this the temple officer had slandered me. But I only laughed; I wasn't in the least angry. 
+The hathayogi at once stood up. The effect of the medicine had worn off. He said to his wife: 'You evil one! You want to cut off
+my hands and feet, do you?' So saying, he renounced home and followed his teacher.
 
-Attain Brahmajnana and then roam about enjoying God's lila. A holy man came to a town and went about seeing the sights. He met another sādhu, an acquaintance. The latter said: 'I see you are gadding about. Where is your baggage? I hope no thief has stolen it.' 
+(All laugh.)
 
-The first sādhu said: 'Not at all. First I found a lodging, put my things in the room in proper order, and
-locked the door. Now I am enjoying the fun of the city.' "(All laugh.)
-BHAVANĀTH: "These are very lofty words."
+"Many women make a show of grief. Knowing beforehand that they will have to weep,
+they first take off their nose-rings and other ornaments, put them securely in a box, and
+lock it. Then they fall on the ground and weep, O friends, what has befallen us?'"
 
-M (to himself): "Tasting God's lila after Brahmajnana! Climbing down to the ordinary plane of consciousness after the attainment of samādhi!" Knowledge of Brahman
 
+NARENDRA: "How can I believe, without proof, that God incarnates Him self as a man?"
 
-MASTER (to M. and the others): "Is it an easy thing to obtain the Knowledge of  Brahman? It is not possible unless the mind is annihilated. The guru said to the disciple, 'Give me your mind and I shall give you Knowledge.' In this state one enjoys only spiritual talk and the company of devotees.
+GIRISH: "Faith alone is sufficient. What is the proof that these objects exist here? Faith
+alone is the proof."
 
-(To Ram) "You are a physician. You know that medicine works only when it mixes with the patient's blood and becomes one with it. Likewise, in the state of Brahmajnana one sees God both within and without. One sees that it is God Himself who has become the body, mind, life, and soul."
+A DEVOTEE: "Have philosophers been able to prove that the external world exists outside us? But they say we have an irresistible belief in it."
 
+GIRISH (to Narendra): "You wouldn't believe, even if God appeared before you. God Himself might say that He was God born as a man, but perhaps you would say that He
+was a liar and a cheat." 
 
-M (to himself): "Assimilation!"
+The conversation turned to the immortality of the gods.
 
-MASTER: "A man attains Brahmajnana as soon as his mind is annihilated. With the annihilation of the mind dies the ego, which says 'I', 'I'. 
+NARENDRA: "What is the proof of their immortality?"
 
-One also attains the knowledge of Brahman by following the path of devotion. One also attains it by following the path of knowledge, that is to say, discrimination. The jnanis discriminate, saying, 'Neti, neti', that is, 'All this is illusory, like a dream.' They analyse the world through the process of 'Not this, not this'; it is māyā. When the world vanishes, only the jivas, that is to say, so many egos, remain.
+GIRISH: "You wouldn't believe it even if the gods appeared before you."
 
-"Each ego may be likened to a pot. Suppose there are ten pots filled with water, and the
-sun is reflected in them. How many suns do you see?"
+NARENDRA: "That the immortals existed in the past requires proof."
 
-A DEVOTEE: "Ten reflections. Besides, there certainly exists the real Sun."
+M whispered something to Paltu.
 
-MASTER: "Suppose you break one pot. How many suns do you see now?"
+PALTU (smiling, to Narendra): "What need is there for the immortals to be without beginning? To be immortal one need only be without end."
+MASTER (smiling): "Narendra is the son of a lawyer, but Paltu of a deputy magistrate."
+(All laugh.)
 
-DEVOTEE: "Nine reflected suns. But there certainly exists the real sun."
+All kept silent awhile.
 
-MASTER: "All right. Suppose you break nine pots. How many suns do you see now?"
+JOGIN (smiling): "He: [meaning the Master] doesn't accept Narendra's words any more."
 
-DEVOTEE: "One reflected sun. But there certainly exists the real sun."
+MASTER (smiling); "One day I remarked that the chatak bird doesn't drink any water except that which falls from the sky. Narendra said, 'The chatak drinks ordinary water as well.' 
 
-MASTER (to Girish): "What remains when the last pot is broken?"
+Then I said to the Divine Mother, 'Mother, then are my words untrue?' I was greatly worried about it. Another day, later on, Narendra was here. Several birds were flying about in the room. He exclaimed, 'There! There!' 'What is there?' I asked. He said,
 
-GIRISH: "That real sun, sir."
+There is your chatak!' I found they were only bats. Since that day I don't accept what he
+says. (All laugh.)
 
-MASTER: "No. What remains cannot be described. What is remains. How will you know there is a real sun unless there is a reflected sun? 'I-consciousness' is destroyed in
-samādhi. A man climbing down from samādhi to the lower plane cannot describe what
-he has seen there." It was late in the evening. Lamps were burning in the drawing-room.
-Sri Ramakrishna was in a spiritual mood. The devotees sat around him.
+At Jadu Mallick's garden house Narendra said to me, The forms of God that you see are the fiction of your mind.' I was amazed and said to him, 'But they speak too! 
 
-MASTER (in the ecstatic mood): "There is no one else here; so I am telling you this. He who from the depth of his soul seeks to know God will certainly realize Him. He must. He alone who is restless for God and seeks nothing but Him will certainly realize Him. 
+'Narendra answered, 'Yes, one may think so.' I went to the temple and wept before the Mother. 'O Mother,' I said, 'what is this? 
 
-"Those who belong to this place have already come. Those who will come from now on are outsiders. Such people will come now and then. The Divine Mother will tell them: 'Do this. Call on God in this way.'
+Then is this all false? How could Narendra say that?'
+Instantly I had a revelation. I saw Consciousness-Indivisible Consciousness-and a divine being formed of that Consciousness. The divine form said to me, 'If your words are
+untrue, how is that they tally with the facts? Thereupon I said to Narendra: 'You rogue! You created unbelief in my mind. Don't come here any more.'
 
-"Why doesn't man's mind dwell on God? You see, more powerful than God is His
-Mahamaya, His Power of Illusion. More powerful than the judge is his orderly. (All
-laugh.)
+The discussion continued. Narendra was arguing. He was then slightly Over 22 years of age.
 
-The all-powerful māyā
+Narendra (to Girish, M., and others): "How am I to believe in the Words of scripture? The Mahanirvana Tantra says, in one place, that unless a man attains the Knowledge of Brahman he goes to hell; and the same book says, in another place, that there is no salvation without the worship of Parvathi, the Divine Mother. Manu writes about himself
+in the Manusamhita; Moses describes his own death in Pentateuch.
 
-"Rāma said to Nārada: 'I am very much pleased with your prayer. Ask a boon of Me.'
-Nārada replied, 'O Rāma, may I have pure devotion to Your Lotus Feet, and may I not be
-deluded by Your world-bewitching māyā!' Rāma said, 'Be it so: ask for something else.'
-Nārada replied, 'No, Rāma, I do not want any other boon.'
-
-"Everyone is under the spell of this world-bewitching māyā. When God assumes a human body, He too comes under the spell. Rāma wandered about weeping for Sita. 'Brahman weeps entangled in the snare of the five elements.' But you must remember this: God, by His mere will, can liberate Himself from this snare."
-
-BHAVANĀTH: "The guard of a railway train shuts himself of his own will in a carriage;
-but he can get out whenever he wants to.'
-
-MASTER: 'The Isvarakotis-Divine Incarnations, for instance-can liberate themselves
-whenever they want to; but the jivakotis cannot. Jivas are imprisoned by 'woman and
-gold'. When the doors and windows of a room are fastened with screws, how can a man
-get out?"
-
-BHAVANĀTH (smiling): "Ordinary men are like the third-class passengers on a railway
-train. When the doors of their compartments are locked, they have no way to get out."
-
-GIRISH: "If a man is so strongly tied hand and foot, then what is his way?"
-
-MASTER: "He has nothing to fear if God Himself, as the guru cuts the chain of māyā."

@@ -1,6 +1,7 @@
 ---
 title: Lamarck, Jean-Baptiste
 heading: Enlightened
+linkTitle: Lamarck
 description: 
 a: "Lamarck"
 c: "#DE3163"
