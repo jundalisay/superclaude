@@ -1,5 +1,5 @@
 ---
-title: "A Devotee's Dream"
+title: "His ecstasy in Kirtan"
 c: "indigo"
 a: "M"
 heading: "Chapter 4d"
@@ -9,127 +9,147 @@ description: "Chaitanya had several householders among his devotees, but they we
 
 
 
-When the song was over, the Master walked up and down the northeast verandah, where Hazra was seated with M. 
+Late in the afternoon Narendra sang. Rakhal, Lātu, M., Hazra, and Priya, Narendra's Brahmo friend, were present. The singing was accompanied by the drum:
 
-{{< l a="Ramakrishna" >}}
-[to a devotee] Do you ever have dreams?
+Meditate, O my mind, on the Lord Hari,
+The Stainless One, Pure Spirit through and through.
+
+How peerless is the light that in Him shines!
+How soul-bewitching is His wondrous form!
+How dear is He to all His devotees!
+
+After this song Narendra sang:
+
+Oh, when will dawn for me that day of blessedness 
+When He who is all Good, all Beauty, and all Truth,
+Will light the inmost shrine of my heart?
+When shall I sink at last, ever beholding Him,
+Into that Ocean of Delight?
+
+Lord, as Infinite Wisdom Thou shalt enter my soul,
+And my unquiet mind, made speechless by Thy sight,
+Will find a haven at Thy feet.
+
+In my heart's firmament, O Lord, Thou wilt arise
+As Blissful Immortality;
+
+And as, when the chakora beholds the rising moon,
+It sports about for very joy,
+So, too, shall I be filled with heavenly happiness
+When Thou appearest unto me.
+
+Thou One without a Second, all Peace, the King of Kings!
+At Thy beloved feet I shall renounce my life
+And so at last shall gain life's goal;
+1 shall enjoy the bliss of heaven while yet on earth!
+Where else is a boon so rare bestowed?
+
+Then shall I see Thy glory, pure and untouched by stain;
+As darkness flees from 1ight, so will my darkest sins
+Desert me at Thy dawn's approach.
+Kindle in me, O Lord, the blazing fire of faith
+To be the pole-star of my life;
+
+O Succour of the weak, fulfil my one desire!
+Then shall I bathe both day and night
+In the boundless bliss of Thy Love, and utterly forget
+Myself, O Lord, attaining Thee.
+
+
+Narendra sang again:
+
+With beaming face chant the sweet name of God
+Till in your heart the nectar overflows.
+Drink of it ceaselessly and share it with all!
+If ever your heart runs dry, parched by the flames
+Of worldly desire, chant the sweet name of God,
+And heavenly love will moisten your arid soul.
+Be sure, O mind, you never forget to chant
+His holy name: when danger stares in your face,
+Call on Him, your Father Compassionate;
+With His name's thunder, snap the fetters of sin!
+Come, let us fulfil our hearts' desires
+By drinking deep of Everlasting Joy,
+Made one with Him in Love's pure ecstasy.
+Now Narendra and the devotees began to sing kirtan, accompanied by the drum and
+cymbals. They moved round and round the Master as they sang:
+Immerse yourself for evermore, O mind,
+In Him who is Pure Knowledge and Pure Bliss.
+
+Next they sang:
+
+Oh, when will dawn for me that day of blessedness When He who is all Good, all Beauty, and all Truth
+Will light the inmost shrine of my heart? At last Narendra himself was playing on the drums, and he sang with the Master, full of joy:
+
+With beaming face chant the sweet name of God When the music was over, Sri Ramakrishna held Narendra in his arms a long time and said, "You have made us so happy today!" The flood-gate of the Master's heart was open so wide, that night, that he could hardly contain himself for joy. It was 8pm. 
+
+Intoxicated with divine love, he paced the long verandah north of his room. Now and then he could be heard talking to the Divine Mother. Suddenly he said in an excited voice, "What can you do to me?" Was the Master hinting that maya was
+helpless before him, since he had the Divine Mother for his support?
+
+Narendra, M., and Priya were going to spend the night at the temple garden. This pleased the Master highly, especially since Narendra would be with him. The Holy Mother, who was living in the nahabat, had prepared the supper. Surendra bore the greater part of the Master's expenses. The meal was ready, and the plates were set out on the southeast verandah of the Masters room.
+
+Near the east door of his room Narendra and the other devotees were gossiping.
+
+
+{{< l a="Narendra" >}}
+How do you find the young men nowadays?
 {{< /l >}}
 
-
-{{< r a="Devotee" >}}
-Yes, sir. The other day I dreamt a strange dream. I saw the whole world enveloped in water. There was water on all sides. A few boats were visible, but suddenly huge waves appeared and sank them. I was about to board a ship with a few others, when we saw a brahmin walking over that expanse of water. 
-
-I asked him, 'How can you walk over the deep?' 
+{{< r a="M" >}}
+They are not bad; but they don't receive any religious instructions
 {{< /r >}}
 
-{{< r a="Brahmin" >}}
-(smiling): 'Oh, there is no difficulty about that. There is a bridge under the water. I am going to Bhawanipur, the city of the Divine Mother
+{{< l a="Narendra" >}}
+But from my experience I feel they are going to the dogs. They smoke cigarettes, indulge in frivolous talk, enjoy foppishness, play truant, and do everything of that sort. I have even seen them visiting questionable places.
+{{< /l >}}
+
+{{< r a="M" >}}
+I didn't notice such things during our student days.
 {{< /r >}}
 
-{{< r a="Devotee" >}}
-Wait! I shall accompany you.
-{{< /r >}}
-
-
-{{< l a="Ramakrishna" >}}
-Oh. I am thrilled to hear the story!"
+{{< l a="Narendra" >}}
+Perhaps you didn't mix with the students intimately. I have even seen them talking with people of immoral character. Perhaps they are on terms of intimacy with them.  I know that many of them form bad habits. It would be proper if the guardians of the boys, and the authorities, kept their eyes on these matters.
 {{< /l >}}
 
 
-{{< r a="Brahmin" >}}
-I am in a hurry. It will take you some time to get out of the boat. Good-bye. Remember this path and come after me.
-{{< /r >}}
+They Were talking thus when Sri Ramakrishna came to them and asked with a smile, "Well, what are you talking about?"
 
-{{< l a="Ramakrishna" >}}
-My hair is standing on end! Please be initiated by a guru as soon as possible.
+{{< l a="Narendra" >}}
+I have been asking M. about the boys in the schools. The conduct of students nowadays isn't all that it should be."
 {{< /l >}}
 
 
-Shortly before midnight Narendra and the other devotees lay down on a bed made on the floor of the Master's room.
+The Master became grave and said to M. rather seriously: "This kind of conversation is not good. It isn't desirable to indulge in any talk but talk of God. You are their senior, and you are intelligent. You should not have encouraged them to talk about such matters."
 
-At dawn some of the devotees were up. They saw the Master, naked as a child, pacing up and down the room, repeating the names of the various gods and goddesses. 
+Narendra was then around 19, M. around 28. 
 
-<!-- His voice was sweet as nectar. Now he would look at the Ganges, now stop in front of the pictures hanging on the wall and bow down before them, chanting all the while the holy names in his sweet voice. He chanted:  -->
+Thus admonished, M. felt embarrassed, and the others also fell silent.
 
-{{< l a="Ramakrishna" >}}
-Veda, Purana, Tantra; Gita, Gayatri; Bhagavata, Bhakta, Bhagavan
-{{< /l >}}
+While the devotees were enjoying their meal, Sri Ramakrishna stood by and watched them with intense delight. That night the Master's joy was very great.
 
+After supper the devotees rested on the mat spread on the floor of the Master's room.
 
-Referring to the Gita, he repeated many times, "Tagi, tagi, tagi."
+They began to talk with him. It was indeed a mart of joy. The Master asked Narendra to sing the song beginning with the line: "In Wisdom's firmament the moon of Love is rising full."
 
-Now and then he would say: 
+Narendra sang, and other devotees played the drums and cymbals:
 
-{{< l a="Ramakrishna" >}}
-O Mother, you are verily Brahman and Śakti. You are Purusha and Prakriti. You are Virat. You are the Absolute, and You manifest Yourself as the Relative. You are verily the 24 cosmic principles.
-{{< /l >}}
+In Wisdom's firmament the moon of Love is rising full,
+And Love's flood-tide, in surging waves, is flowing everywhere.
+O Lord, how full of bliss Thou art! Victory unto Thee!
+On every side shine devotees, like stars around the moon;
+Their Friend, the Lord All-merciful, joyously plays with them.
+Behold! the gates of paradise today are open wide.
+The soft spring wind of the New Day raises fresh waves of joy;
+Gently it carries to the earth the fragrance of God's Love,
+Till all the yogis, drunk with bliss, are lost in ecstasy.
+Upon the sea of the world unfolds the lotus of the New Day,
+And there the Mother sits enshrined in blissful majesty.
+See how the bees are mad with joy, sipping the nectar there!
+Behold the Mother's radiant face, which so enchants the heart
+And captivates the universe! About Her Lotus Feet
+Bands of ecstatic holy men are dancing in delight.
+What matchless loveliness is Hers! What infinite content
+Pervades the heart when She appears! O brothers, says
+Premdas, I humbly beg you, one and all, to sing the Mother's praise!
 
-
-In the mean time the morning service had begun in the temples of Kāli and Radhakanta.
-
-Sounds of conch-shells and cymbals were carried on the air. The devotees came outside the room and saw the priests and servants gathering flowers in the garden for the divine service in the temples. 
-
-From the nahabat floated the sweet melody of musical instruments, befitting the morning hours.
-
-Narendra and the other devotees finished their morning duties and came to the Master.
-
-With a sweet smile on his lips Sri Ramakrishna was standing on the northeast verandah, close to his own room.
-
-{{< r a="Narendra" >}}
-We noticed several sannyasis belonging to the sect of Nanak in the Panchavati.
-{{< /r >}}
-
-
-{{< l a="Ramakrishna" >}}
-Yes, they arrived here yesterday. (To Narendra) I'd like to see you all sitting together on the mat."
-{{< /l >}}
-
-
-As they sat there the Master looked at them with evident delight. He then began to talk with them. Narendra asked about spiritual discipline. 
-
-{{< l a="Ramakrishna" >}}
-Bhakti, love of God, is the essence of all spiritual discipline. Through love one acquires renunciation and discrimination naturally.
-{{< /l >}}
-
-
-## Disciplines of Tantra
-
-{{< r a="Narendra" >}}
-Isn't it true that the Tantra prescribes spiritual discipline in the company of woman?
-{{< /r >}}
-
-
-{{< l a="Ramakrishna" >}}
-That is not desirable. It is a very difficult path and often causes the aspirant's downfall. There are three such kinds of discipline. One may regard woman as one's mistress or look on oneself as her handmaid or as her child. I look on woman as my mother. To look on oneself as her handmaid is also good; but it is extremely difficult to practise spiritual discipline looking on woman as one's mistress. To regard oneself as her child is a very pure attitude.
-{{< /l >}}
-
-
-The sannyasis belonging to the sect of Nanak entered the room and greeted the Master, saying, "Namo Narayanaya." Sri Ramakrishna asked them to sit down.
-
-
-## All is Possible with God
-
-{{< l a="Ramakrishna" >}}
-Nothing is impossible for God. Nobody can describe His nature in words. Everything is possible for Him. 
-
-There were 2 yogis practising spiritual discipline. The sage Narada was passing that way one day. Realizing who he was, one of the yogis said:
-{{< /l >}}
-
-
-{{< r a="Yogi" >}}
-You have just come from God. What is He doing now?
-{{< /r >}}
-
-{{< l a="Narada" >}}
-I saw Him making camels and elephants pass and repass through the eye of a needle.
-{{< /l >}}
-
-{{< r a="Yogi" >}}
-Is that anything to wonder at? Everything is possible for God.
-{{< /r >}}
-
-{{< r a="Other Yogi" >}}
-What? Making elephants pass through the eye of a needle - is that ever possible? You have never been to the Lord's dwelling-place.
-{{< /r >}}
-
-
+Sri Ramakrishna sang and danced, and the devotees danced around him.

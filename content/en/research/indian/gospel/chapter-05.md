@@ -136,7 +136,9 @@ contemplating', still you are moving in the realm of Śakti, within Its power.
 
 ## Identity of Brahman and Śakti
 
-Thus Brahman and Śakti are identical. If you accept the one, you must accept the other. It is like fire and its power to burn. If you see the fire, you must recognize its power to burn also. You cannot think of fire without its power to burn, nor can you think of the power to burn without fire. You cannot conceive of the sun's rays without the sun,
+Thus Brahman and Śakti are identical. If you accept the one, you must accept the other. It is like fire and its power to burn. If you see the fire, you must recognize its power to burn also. 
+
+You cannot think of fire without its power to burn, nor can you think of the power to burn without fire. You cannot conceive of the sun's rays without the sun,
 nor can you conceive of the sun without its rays.
 
 What is milk like? Oh, you say, it is something white. You cannot think of the milk without the whiteness, and again, you cannot think of the whiteness without the milk. 
@@ -154,7 +156,10 @@ The Muslims at another place call it 'pani'. And the English at a third place ca
 
 ## Different manifestations of Kāli 
 
-KESHAB (with a smile): "Describe to us, sir, in how many ways Kāli, the Divine Mother, sports in this world."
+{{< r a="Keshab" >}}
+(with a smile): "Describe to us, sir, in how many ways Kāli, the Divine Mother, sports in this world."
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 (with a smile): "Oh, She plays in different ways. It is She alone who is known as Maha-Kāli, Nitya-Kāli, Smasana-Kāli, Raksha-Kāli, and Syama-Kāli. Maha-Kāli and Nitya-Kāli are mentioned in the Tantra philosophy. When there were neither the creation, nor the sun, the moon, the planets, and the earth and when darkness was enveloped in darkness, then the Mother, the Formless One, Maha-Kāli, the Great Power, was one with Maha-Kala, the Absolute.
@@ -192,5 +197,6 @@ The Naked One, of blackest hue,
 Lights the Lotus of the Heart. . . .
 
 
-The Master continued: "Bondage and liberation are both of Her making. By Her Maya worldly people become entangled in 'woman and gold', and again, through Her grace they attain their liberation. She is called Saviour, and the remover of the bondage that
-binds one to the world."
+{{< l a="Ramakrishna" >}}
+Bondage and liberation are both of Her making. By Her Maya worldly people become entangled in 'woman and gold', and again, through Her grace they attain their liberation. She is called Saviour, and the remover of the bondage that binds one to the world.
+{{< /l >}}
