@@ -1,4 +1,4 @@
-/*! tailwindcss v4.2.2 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.2.4 | MIT License | https://tailwindcss.com */
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
@@ -4382,6 +4382,19 @@ code, pre, .font-code {
       }
     }
   }
+}
+.video-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 12px;
+  line-height: 0;
+}
+.video-container video {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 @property --tw-translate-x {
   syntax: "*";

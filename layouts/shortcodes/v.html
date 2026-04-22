@@ -1,0 +1,7 @@
+{{ $src := .Get "s" }}
+<div class="video-container">
+    <video autoplay muted loop playsinline {{ if .Get "controls" }}controls{{ end }}>
+        <source src="{{ $src | relURL }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>

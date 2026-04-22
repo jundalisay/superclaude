@@ -15,6 +15,7 @@ aliases:
 
 
 
+
 Physical Identity is the main substance of Existence that within physical existence. 
 
 Existence with capital E is made up of:
@@ -52,19 +53,40 @@ This is done by our aethereal Cartesian Plane.
 
 ## Particle Spin
 
-Chapter 3 will explain the MSQ model. 
+Chapter 3 will explain media and the MSQ model. 
 
 The media are force particles that go into substances and quanta (which are non force particles).
 - The force particles are bolts
 - The non force particles are nuts
 
-The force particles have a length relative to the non force particles. 
+Descartes analogy are corkscrews that drill through matter in order to create channels.
+
+{{< i s="/graphics/physics/corkscrew2.jpg" >}}
+
+
+These corkscrewing media are now validated and called as orbital angular momentum of photons. 
+
+{{< i s="/graphics/physics/corkscrew.jpg" >}}
+
+
+A more robust analogy for spin is a liquid vortex which is made up of a lot of smaller spins. 
+- These smaller spins are like the individual musical instrument-sounds mentioned earlier
+- The big spin is the resulting orchestra sound
+
+
+{{< v s="/v/whirlpool.mp4" >}}
+
+
+
+## The Force-Receiver Ratio or Relationality
+
+The force or media particles have a length relative to the non force or receiver particles. 
 
 We call this the force-receiver ratio. 
 
-- A 1:1 force-receiver ratio means that it takes 1 force particle to fully rotate a receiver particle. An analogy is a bolt that fully fits a nut 
-- A 1:2 ratio means that 1 force particle can rotate 2 receivers. An analogy is a long bolt that fully fits 2 nuts
-- A 2:1 ratio means that 2 force particle are needed to rotate 1 receiver. This is a short bolt that goes into half a nut 
+- A **1:1** force-receiver ratio means that it takes 1 force particle to fully rotate a receiver particle. An analogy is a bolt amd its threads that fully fit a nut 
+- A **1:2** ratio means that 1 force particle can rotate 2 receivers. An analogy is a long bolt that fully fits 2 nuts
+- A **2:1** ratio means that 2 force particles are needed to rotate 1 receiver. This is a short bolt that goes into half a nut 
 <!-- - A 0:1 ration means that 1 force particle does not spin a receiver -->
 
 In Modern Physics, these ratios are known as particle spin: 0, 1, 1/2
@@ -79,7 +101,7 @@ Spin | Sample Particle
 
 ### The Big Problem with Quantum Spin of Physics
 
-Instead of being a force-nonforce ratio, Physics interprets this principle as quantum spin, as how fast a particle comes back to its original state upon being rotated in space.
+Instead of being a force-nonforce or receiver ratio, Physics interprets this principle as quantum spin, as how fast a particle comes back to its original state upon being rotated in space.
 
 - A spin 0 does not change its state when its space changes
   - This is a point
@@ -90,8 +112,7 @@ Instead of being a force-nonforce ratio, Physics interprets this principle as qu
 - A spin 1/2 means its state changes half as fast
   - These are called "Fermions" 
 
-Focus particles have an "integer" spin, while Non-force particles have a "half-integer" spin.
-
+Force particles have an "integer" spin, while Non-force particles have a "half-integer" spin.
 
 Modern Physics | Material Superphysics
 --- | ---
@@ -107,7 +128,7 @@ This is one of the dogmas created by Einstein's Relativity.
 <!-- and is why Einstein is such an evil person in the intellectual sense. -->
 
 
-## Force-Nonforce Ratio
+## Force-Receiver Ratio Versus Speed of Light
 
 We explain that the electron spins within the speed of light because it needs 2 virtual photons to actually reach a complete spin. 
 - 1 virtual photon travels at the speed of light
@@ -200,6 +221,4 @@ However, negating this effect by spacetime will lead to teleportation of matter.
 
 All particles move forward in space. Heliity is whether they move forward anticlockwise (right-handed) or clockwise (left-handed).
 
-Helicity is relevant mostly for the weak force and particle decay. There are only left-handed neutrinos because W boson are huge relative to it, forcing it to move bottom-first. 
-                                                   
-  -->
+Helicity is relevant mostly for the weak force and particle decay. There are only left-handed neutrinos because W boson are huge relative to it, forcing it to move bottom-first. -->

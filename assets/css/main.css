@@ -163,3 +163,20 @@ code, pre, .font-code {
 
 }
 
+
+
+.video-container {
+    width: 100%;
+    max-width: 800px; /* Adjust to your preference */
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 12px;
+    line-height: 0;   /* Removes tiny gap at bottom of video */
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+

@@ -19,13 +19,26 @@ concerning God, his attributes, and the human mind.' -->
 
 Nature only has substances and their modes.
 
-So one should not here expect us to say anything about substantial forms and real accidents, for these and thing. of this type are plainly absurd. We then divided substances into two general kinds, extension
-and thought, and we divided thought into created thought (i.e., the human mind) and uncreated thought (i.e., God). 
+So one should not here expect us to say anything about substantial forms and real accidents, for these and thing. of this type are plainly absurd. 
 
-The existence of God we have demonstrated 1 [In thiS section God's eXIStence IS explained In a way quite different from that in which men commonly understand It, for they confuse God's eXistence with thetr own, with the result that they umgine God to be somethmg like a man, and they fall to note the true idea of God that they possess, or
-are qUite unconsciOUS of possessmg It. 
+I then divided substances into 2 general kinds:
 
-And so It comes about that they can neither prove nor conceive God's existence either a pnori (I.e., from hIS true defmdion or essence) or a postenorl, from the Idea of him Insofar as d IS lD us. Therefore m thIS sechon we shall try to show as clearly as we can that God's eXistence IS completely different from the existence of created things more than adequately both a posteriori, from the idea we have of him, and a priori, from his essence as being the cause of his existence. 
+1. Extension
+2. Thought
+
+I divided thought into:
+
+1. Created thought (i.e., the human mind)
+2. Uncreated thought (i.e., God). 
+
+I have demonstrated the existence of God.
+
+In this section, God's existence is explained differently from how men commonly understand It, for they confuse God's existence with their own. They imagine God to be like a man. They fail to note their true idea of God and are unconscious of possessmg It." >}}
+
+
+And so they can neither prove nor conceive God's existence either a priori (I.e., from hIS true essence) or a posterioro, from the Idea of him Insofar as It is with us. 
+
+So I shall show clearly that God's existence IS completely different from the existence of created things more than adequately both a posteriori, from the idea we have of him, and a priori, from his essence as being the cause of his existence. 
 
 But because we have treated certain of his attributes more briefly than the importance of the subject requires, we have decided to return to them here, to explain them more fully and
 also to provide answers to some problems.
@@ -82,20 +95,17 @@ it through duration See Part 1, 4 -PRJ  -->
 
 ## What is Eternity?
 
-To better understand what eternity is, and how it cannot be conceived without the divine essence, attention must be given to what we have said already, namely, that created thing.- that is, all things besides
-God -always exist solely by the force or essence of God, and not by their own force. 
+To better understand what eternity is, and how it cannot be conceived without the divine essence, attention must be given to what we have said already, namely, that created thing.- that is, all things besides God -always exist solely by the force or essence of God, and not by their own force. 
 
 Hence it follows that the present existence of thing. is not the cause of their future existence. Only God's immutability is the cause, which compels us to say
 that when God has created a thing in the first place, he will thereafter continuously preserve it, that is, he will continue the same action of creating it. From this
 we conclude:
 
-1. That a created thing can be said to enjoy existence, on the grounds that existence is not of its essence. But God cannot be said to enjoy existence,
-for God's existence is God himself, just as is his essence. Hence it follows
-that created things enjoy existence, but this is not so with God.
+1. That a created thing can be said to enjoy existence, on the grounds that existence is not of its essence. 
 
-2. That all created thing., wh ile enjoying present duration and existence, are entirely lacking in future duration and existence, because this has to be
-continuously attributed to them, whereas nothing of the sort can be said of their essence. But because God's existence is of his essence, we cannot
-attribute future existence to him. 
+But God cannot be said to enjoy existence, for God's existence is God himself, just as is his essence. Hence it follows that created things enjoy existence, but this is not so with God.
+
+2. That all created thing while enjoying present duration and existence, are entirely lacking in future duration and existence, because this has to be continuously attributed to them, whereas nothing of the sort can be said of their essence. But because God's existence is of his essence, we cannot attribute future existence to him. 
 
 For the same existence that he would then have must even now be attributed to h im in actual ity; or, to speak more properly, infinite actual existence pertains to God in the same way
 as infinite actual intellect pertains to him. Now this infinite existence I call eternity, which is to be attributed to God alone and not to any created
