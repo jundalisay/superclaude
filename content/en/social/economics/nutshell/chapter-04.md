@@ -7,7 +7,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 date: 2025-01-27
-icon: "Juan"
+# icon: "Juan"
 ---
 
 
