@@ -5,71 +5,69 @@ weight: 239
 date: 2025-10-13
 description: ""
 c: "firebrick"
+icon: "China"
 ---
 
 
-2. Promote employment and entrepreneurship. Employment is the economic foundation and basic guarantee for people's survival, as well as the basic condition for integration into society.
+## 2. Promote employment and entrepreneurship. Employment is the economic foundation and basic guarantee for people's survival, as well as the basic condition for integration into society.
 
-Comrade Xi Jinping pointed out that "employment is the biggest project of people's livelihood,
-people's heart, and foundation.”
+Comrade Xi Jinping pointed out that "employment is the biggest project of people's livelihood, people's heart, and foundation.”
 
 Since the 18th National Congress of the CCP, China's employment work has
-made great achievements, with an average of 13 million new jobs created every year, and the urban
-survey unemployment rate has been maintained within 5%, achieving relatively full employment
-nationwide.
+made great achievements, with an average of 13 million new jobs created every year, and the urban survey unemployment rate has been maintained within 5%, achieving relatively full employment nationwide.
 
 Facing the new situation of employment and entrepreneurship in the new era, we must strive to
-achieve higher quality and fuller employment. It is necessary to put the employment priority strategy
-at the macro policy level, take the employment priority strategy and the active employment policy
-as the guide, and make joint efforts in full employment, decent employment and harmonious
-employment. In terms of full employment, establish a linkage mechanism for economic
-development and employment expansion, and improve the government's responsibility system for
+achieve higher quality and fuller employment. It is necessary to put the employment priority strategy at the macro policy level, take the employment priority strategy and the active employment policy as the guide, and make joint efforts in full employment, decent employment and harmonious employment. 
+
+In terms of full employment, establish a linkage mechanism for economic development and employment expansion, and improve the government's responsibility system for
 promoting employment. 
 
-Entrepreneurship is the main channel for creating new jobs. It is necessary to continuously improve the support policies for entrepreneurship, and form a new mechanism for the government to encourage entrepreneurship, social support for entrepreneurship, and workers to have the courage to start a business by continuing to promote "mass entrepreneurship and innovation", and promote multi-channel employment and entrepreneurship of young groups such as college graduates and migrant workers. Carry out large-scale vocational skills training, comprehensively improve the quality of workers, and pay attention to solving structural employment contradictions. Improve employment services, improve the public employment and entrepreneurship service system that equalizes urban and rural areas, and strengthen the unemployment insurance system's function of preventing unemployment and promoting employment. In terms of decent employment and harmonious employment, we will eliminate the shortcomings of the system and mechanism that hinder the social mobility of labor and talent, so that everyone has the opportunity to achieve their own development through hard work. Improve the consultation and coordination mechanism for the government, trade unions and enterprises to participate in the consultation, smooth the channels for employees to express their reasonable demands, build harmonious labor relations, advocate the spirit of model workers and craftsmen, and enable everyone to engage in a dignified job.
+Entrepreneurship is the main channel for creating new jobs. 
 
-3. Narrow the income gap. 
+It is necessary to:
+- continuously improve the support policies for entrepreneurship
+- form a new mechanism for the government to encourage:
+  - entrepreneurship
+  - social support for entrepreneurship
+  - workers to have the courage to start a business by continuing to promote "mass entrepreneurship and innovation"
+- promote multi-channel employment and entrepreneurship of young groups such as college graduates and migrant workers
+- carry out large-scale vocational skills training
+- comprehensively improve the quality of workers
+- pay attention to solving structural employment contradictions
+- Improve employment services
+- improve the public employment and entrepreneurship service system that equalizes urban and rural areas
+- strengthen the unemployment insurance system's function of preventing unemployment and promoting employment
 
-Income is the source of people's livelihood, and it is the most
-important and direct way to improve people's livelihood and realize that the fruits of development
-are shared by the people. Since the 18th National Congress of the CCP, the
-income gap between urban and rural residents, the income gap between regional residents, and the
-average wage gap of the national industry have narrowed to a certain extent, the Gini coefficient has
-declined, the growth rate of urban and rural residents' income is significantly faster than the growth
-rate of 00?, and the growth rate of per capita disposable income of rural residents is significantly
-faster than the growth rate of per capita disposable income of urban residents, indicating that China's
-income gap has shown a good trend of continuous narrowing.
-The reform of the income distribution system concerns the vital interests of the broad masses and
-must be properly grasped and steadily promoted
+In terms of decent and harmonious employment, we will:
+- eliminate the shortcomings of the system and mechanism that hinder the social mobility of labor and talent, so that everyone has the opportunity to achieve their own development through hard work.
+- Improve the consultation and coordination mechanism for the government, trade unions and enterprises to participate in the consultation
+- smooth the channels for employees to express their reasonable demands
+- build harmonious labor relations
+- advocate the spirit of model workers and craftsmen
+- enable everyone to engage in a dignified job.
 
-It is necessary to persist in deepening the reform of the income distribution system, rationally adjust
-the income distribution relationship between the government, enterprises and residents,
-continuously narrow the gap between urban and rural areas, regions and rich and poor, and further
-promote more reasonable and orderly income distribution. In terms of primary distribution,
-emphasis should be placed on protecting labor income, striving to synchronize the growth of labor
-remuneration with the increase in labor productivity, and increasing the proportion of labor
-remuneration in primary distribution; improving the mechanism for determining wages and normal
-growth, improving the minimum wage and wage payment guarantee system, and improving the
-system of collective wage negotiation in enterprises; improving the remuneration mechanism
-determined by the factor market such as capital, knowledge, technology, and management; and
-increasing residents' property income through multiple channels. In terms of redistribution, improve
-the redistribution adjustment mechanism with taxation, social security, and transfer payments as the
-main means, and increase the intensity of tax regulation. In terms of regulating the order of income
-distribution, establish an information system for personal income and property, protect legitimate
-income, regulate excessive income, clean up and regulate hidden income, ban illegal income,
-increase the income of low-income people, expand the scale of middle-income groups, gradually
-form an olive-shaped distribution pattern, and ultimately achieve common prosperity.
 
-4. Strengthen the construction of the social security system. Social security is a basic livelihood
-system, a social safety net and stabilizer. Since the 18th National Congress of the Communist Party
-of China, the social security system covering urban and rural residents has been basically established,
-the development concept, development mode and governance mechanism of social security work
-have been continuously reformed, innovated, transformed and improved, and new progress has been
-made in the construction of social assistance, social insurance and social welfare, and the sense of
+## 3. Narrow the income gap
+
+Income is the source of people's livelihood, and it is the most important and direct way to improve people's livelihood and realize that the fruits of development are shared by the people. 
+
+Since the 18th National Congress of the CCP, the income gap between urban and rural residents, the income gap between regional residents, and the average wage gap of the national industry have narrowed to a certain extent, the Gini coefficient has declined, the growth rate of urban and rural residents' income is significantly faster than the growth rate of 00?, and the growth rate of per capita disposable income of rural residents is significantly faster than the growth rate of per capita disposable income of urban  residents, indicating that China's income gap has shown a good trend of continuous narrowing.
+
+The reform of the income distribution system concerns the vital interests of the broad masses and must be properly grasped and steadily promoted.
+
+It is necessary to persist in deepening the reform of the income distribution system, rationally adjust the income distribution relationship between the government, enterprises and residents, continuously narrow the gap between urban and rural areas, regions and rich and poor, and further promote more reasonable and orderly income distribution. In terms of primary distribution, emphasis should be placed on protecting labor income, striving to synchronize the growth of labor remuneration with the increase in labor productivity, and increasing the proportion of labor remuneration in primary distribution; improving the mechanism for determining wages and normal growth, improving the minimum wage and wage payment guarantee system, and improving the system of collective wage negotiation in enterprises; improving the remuneration mechanism determined by the factor market such as capital, knowledge, technology, and management; and increasing residents' property income through multiple channels. 
+
+In terms of redistribution, improve the redistribution adjustment mechanism with taxation, social security, and transfer payments as the main means, and increase the intensity of tax regulation. 
+
+In terms of regulating the order of income distribution, establish an information system for personal income and property, protect legitimate income, regulate excessive income, clean up and regulate hidden income, ban illegal income, increase the income of low-income people, expand the scale of middle-income groups, gradually form an olive-shaped distribution pattern, and ultimately achieve common prosperity.
+
+
+## 4. Strengthen the construction of the social security system. 
+
+Social security is a basic livelihood system, a social safety net and stabilizer. Since the 18th National Congress of the CCP, the social security system covering urban and rural residents has been basically established, the development concept, development mode and governance mechanism of social security work have been continuously reformed, innovated, transformed and improved, and new progress has been made in the construction of social assistance, social insurance and social welfare, and the sense of
 gain of the broad masses of the people has been significantly enhanced.
 
-China's social security system has been basically established, which is a remarkable achievement,
-but there are still imbalances and insufficient contradictions between different security systems,
+China's social security system has been basically established, which is a remarkable achievement, but there are still imbalances and insufficient contradictions between different security systems,
 between different regions and between different groups of people in terms of security scope, security
 level, service capacity and service quality. In accordance with the requirements of the 19th National
 Congress of the CCP to build a bottom-line, dense network and mechanism,
@@ -133,7 +131,4 @@ the universal medical insurance system, accelerate the improvement of the medica
 assistance system for serious and extraordinarily serious diseases, and encourage the society to run
 medical services. Implement food safety strategies to make people feel at ease. In terms of
 population aging, actively respond to the aging of the population, build a policy system and social
-environment for the elderly, filial piety and respect for the elderly, accelerate the development of
-enterprise annuities, occupational annuities, commercial endowment insurance, etc. in addition to
-the basic pension system, and work together in economic support, daily life care and psychological
-comfort, so as to fully realize the elderly and enjoy the elderly.
+environment for the elderly, filial piety and respect for the elderly, accelerate the development of enterprise annuities, occupational annuities, commercial endowment insurance, etc. in addition to the basic pension system, and work together in economic support, daily life care and psychological comfort, so as to fully realize the elderly and enjoy the elderly.

@@ -115,6 +115,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params.panels]
       title = "Let's Solve All Problems!"
+      sub = "Problems come from the mind. Superphysics deals directly with the mind."
       cards = [
         { img = "/photos/econ/writer.jpg", title = "Evidence", sub = "We test Superphysics in the real world", url = "/evidence" },
         { img = "/graphics/tech/solar.jpg", title = "Proposed Solutions and Technologies", sub = "Enlightenment ideas can lead to totally new technologies", url = "/solutions" },

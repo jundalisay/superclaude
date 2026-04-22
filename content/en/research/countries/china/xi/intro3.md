@@ -4,29 +4,23 @@ weight: 3
 date: 2025-12-11
 description: "Xi Jinping Thought"
 c: "firebrick"
+icon: "China"
 ---
 
 
 (2) It has deepened the understanding of the law governing socialist construction 
 
-Over the past 500 years, socialism has undergone the evolution from utopia to science, from theory
-to practice, and from the practice of one country to the practice of many countries, which has
-profoundly changed the development process of world history. In the late 80s and early 90s of the
-20th century, with the drastic changes in Eastern Europe and the disintegration of the Soviet Union,
-world socialism suffered serious setbacks. Once upon a time, the so-called "conclusion of the end
-of history," "theory of the defeat of socialism," and "theory of the collapse of China" were very
-popular. Thirty years have passed, with the vigorous development of the cause of socialism with
-Chinese characteristics, the world has witnessed the end of the "conclusion of the end of history",
-the collapse of the "theory of the collapse of China", and the failure of the "theory of the defeat of
-socialism"; the contest between the two roads, two systems and two isms in the world is undergoing
-profound changes in favor of socialism and Marxism, and scientific socialism has radiated strong
-vitality in China in the 21st century. Xi Jinping Thought on Socialism with Chinese Characteristics
-for a New Era uses Marx's position and viewpoint method, adheres to what we are doing as the
-center, adheres to problem awareness and problem orientation, condenses the essence of the times,
-and summarizes practical experience.
+Over the past 500 years, socialism has undergone the evolution from utopia to science, from theory to practice, and from the practice of one country to the practice of many countries, which has profoundly changed the development process of world history. In the late 80s and early 90s of the 20th century, with the drastic changes in Eastern Europe and the disintegration of the Soviet Union,  world socialism suffered serious setbacks. 
 
-He has put forward many important ideas, important viewpoints, and important theories in reform,
-development, and stability, internal and foreign affairs, national defense, and the management of the
+Once upon a time, the so-called "conclusion of the end of history," "theory of the defeat of socialism," and "theory of the collapse of China" were very
+popular. 
+
+Thirty years have passed, with the vigorous development of the cause of socialism with
+Chinese characteristics, the world has witnessed the end of the "conclusion of the end of history", the collapse of the "theory of the collapse of China", and the failure of the "theory of the defeat of socialism".
+
+The contest between the two roads, two systems and two isms in the world is undergoing profound changes in favor of socialism and Marxism, and scientific socialism has radiated strong vitality in China in the 21st century. Xi Jinping Thought uses Marx's position and viewpoint method, adheres to what we are doing as the center, adheres to problem awareness and problem orientation, condenses the essence of the times, and summarizes practical experience.
+
+He has put forward many important ideas, important viewpoints, and important theories in reform, development, and stability, internal and foreign affairs, national defense, and the management of the
 party and the country, and the army, systematically answering the major questions of the times about
 what kind of socialism with Chinese characteristics to uphold and develop in the new era and how
 to uphold and develop socialism with Chinese characteristics, raising the understanding of socialism
@@ -50,30 +44,24 @@ Chinese characteristics.
 
 In terms of the value stand of socialism, this ideology clearly puts forward the need to always adhere
 to the fundamental position of taking the people as the center, always put the people in the highest
-position in our hearts, take the people's yearning for a better life as the party's goal, constantly
-promote the all-round development of people, and gradually realize the common prosperity of all
-the people. This has established the CPC's outlook on the people in the new era, further demonstrated
+position in our hearts, take the people's yearning for a better life as the party's goal, constantly promote the all-round development of people, and gradually realize the common prosperity of all the people.
+
+This has established the CPC's outlook on the people in the new era, further demonstrated
 the fundamental value stand of Marxism for the interests of the people, and deepened the
 understanding of socialist values and goals.
 
-In the stage of socialist development, this thinking has made a major political conclusion on the
-basis of accurately judging that the main contradiction in our society has been transformed into the
-contradiction between the people's growing need for a better life and unbalanced and inadequate
-development. This has further enriched and developed the Marxist outlook on the times and injected
+In the stage of socialist development, this thinking has made a major political conclusion on the basis of accurately judging that the main contradiction in our society has been transformed into the contradiction between the people's growing need for a better life and unbalanced and inadequate development. 
+
+This has further enriched and developed the Marxist outlook on the times and injected
 a new connotation of the times into the CPC's theory of the initial stage of socialism.
 
-In terms of the development goal of socialism, this idea puts forward that the goal of adhering to
-and developing socialism with Chinese characteristics in the new era is to realize the great
-rejuvenation of the Chinese nation; it puts forward that the Chinese dream is the dream of the country,
-the national dream, and the dream of every Chinese sons and daughters; and points out that to realize
-the Chinese dream, we must follow the Chinese road, carry forward the Chinese spirit, and unite
-China's strength. This organically combines the class mission of realizing socialism and communism
-with the national mission of realizing the great rejuvenation of the Chinese nation, embodies the
+In terms of the development goal of socialism, this idea puts forward that the goal of adhering to and developing socialism with Chinese characteristics in the new era is to realize the great rejuvenation of the Chinese nation; it puts forward that the Chinese dream is the dream of the country, the national dream, and the dream of every Chinese sons and daughters; and points out that to realize the Chinese dream, we must follow the Chinese road, carry forward the Chinese spirit, and unite China's strength. 
+
+This organically combines the class mission of realizing socialism and communism with the national mission of realizing the great rejuvenation of the Chinese nation, embodies the
 dual mission and distinctive characteristics of the CCP, finds the greatest
-common divisor of the unity and struggle of the Chinese nation, and deepens the understanding of
-the common ideal of socialism with Chinese characteristics and the lofty ideal of communism.
-In terms of the socialist development concept, this idea puts forward a new development concept of
-innovation, coordination, green, openness and sharing, which epitomizes the party's profound
+common divisor of the unity and struggle of the Chinese nation, and deepens the understanding of the common ideal of socialism with Chinese characteristics and the lofty ideal of communism.
+
+In terms of the socialist development concept, this idea puts forward a new development concept of innovation, coordination, green, openness and sharing, which epitomizes the party's profound
 insight and scientific grasp of the basic characteristics of social development in the new era. This
 has raised the CPC's understanding of the law of economic and social development to a new height
 and enriched and developed Marxist political economy.
@@ -443,20 +431,13 @@ responsibility, Comrade Xi Jinping has solved many difficult problems that he ha
 for a long time but has not solved, accomplished many major things that he wanted to do but failed
 to do in the past, and promoted socialism with Chinese characteristics into a new era.
 
-Comrade Xi Jinping has superb political wisdom. He has established a clear understanding of
-China's national conditions in various fields and at multiple levels, accumulated rich political
-experience, cultivated a broad vision pattern through persistent and unremitting study and thinking,
+Xi Jinping has superb political wisdom. 
+
+He has established a clear understanding of China's national conditions in various fields and at multiple levels, accumulated rich political experience, cultivated a broad vision pattern through persistent and unremitting study and thinking,
 and mastered scientific thinking methods and working methods. These practical accumulations and
 theoretical reflections have been transformed into the superb political wisdom of Marxist politicians,
 theorists, and strategists. In order to realize the great rejuvenation of the Chinese nation, he made
 overall plans to promote the overall layout of the "five-in-one" and coordinated the promotion of
 the "four comprehensive" strategic layout; he kept the overall situation in mind and grasped the key
-points, not only persisted in comprehensively deepening reform, but also emphasized that the reform
-of the economic system was the focus, and both insisted that the party would always be on the road
-to administering the party strictly in an all-round way, and also stressed that the party's political
-construction should lead the party's building in all aspects; he was not shocked and resolute in every
-situation, so as to see Ye Zhiqiu's keenness. Scientific and rigorous deployment, command and
-response to a series of major risks and challenges such as the new crown pneumonia epidemic; he
-led the rudder and strategized, from the strategic arrangement of building a modern socialist power
-in an all-round way to the implementation of the new development principle, building a world-class
-army, and launching great power diplomacy in the new era, and so on.
+points, not only persisted in comprehensively deepening reform, but also emphasized that the reform of the economic system was the focus, and both insisted that the party would always be on the road to administering the party strictly in an all-round way, and also stressed that the party's political construction should lead the party's building in all aspects; he was not shocked and resolute in every situation, so as to see Ye Zhiqiu's keenness. Scientific and rigorous deployment, command and
+response to a series of major risks and challenges such as the new crown pneumonia epidemic; he led the rudder and strategized, from the strategic arrangement of building a modern socialist power in an all-round way to the implementation of the new development principle, building a world-class army, and launching great power diplomacy in the new era, and so on.

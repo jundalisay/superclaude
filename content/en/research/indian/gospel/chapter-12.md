@@ -43,6 +43,7 @@ intense with spiritual fervour. The devotees felt that Gaurānga himself was bei
 manifested in the person of Sri Ramakrishna. Flowers were showered from all sides on
 his feet and head. The shouting of the name of Hari was heard even at a distance, like
 the rumbling of the ocean.
+
 Sri Ramakrishna entered by turn into all the moods of ecstasy. In deep samādhi he
 stood still, his face radiating a divine glow. In the state of partial consciousness he
 danced, sometimes gently and sometimes with the vigour of a lion. Again, regaining
@@ -163,6 +164,7 @@ Friends of Mani Sen gave the money to Rakhal , requesting him to buy some mangoe
 and sweets for the Master. Sri Ramakrishna said to M.: "I have definitely said to Mani
 that I would not accept the money. I feel free now. But Rakhal has accepted it. His is
 now the responsibility."
+
 Sri Ramakrishna, accompanied by the devotees, took a carriage to return to
 Dakshineswar. They were going to pass the temple garden of Mati Seal on the way. For
 a long time the Master had been asking M. to take him to the reservoir in the garden in

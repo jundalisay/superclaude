@@ -4,7 +4,7 @@ weight: 2
 date: 2025-12-11
 description: "Research about specific countries"
 c: "firebrick"
-youtube: "S0L13XsbUKs"
+icon: "China"
 ---
 
 
@@ -12,10 +12,7 @@ youtube: "S0L13XsbUKs"
 (2) Today, China is in a critical period from becoming rich to strong When the world is in a major change unprecedented in a century, China's development is in the best
 period since modern times.
 
-Socialism with Chinese characteristics has entered a new era. After the sustained development since the founding of New China, especially since the reform and opening up, China's social productive forces, comprehensive national strength, and people's living standards have achieved a historic leap,
-and its economic strength, scientific and technological strength, and national defense strength have
-entered the forefront of the world, and it has become the world's second largest economy, the largest manufacturing country, the largest country in goods trade, the second largest country in commodity consumption, and the second largest country in the flow of foreign capital, and its foreign exchange
-reserves have ranked first in the world for many consecutive years. 
+Socialism with Chinese characteristics has entered a new era. After the sustained development since the founding of New China, especially since the reform and opening up, China's social productive forces, comprehensive national strength, and people's living standards have achieved a historic leap, and its economic strength, scientific and technological strength, and national defense strength have entered the forefront of the world, and it has become the world's second largest economy, the largest manufacturing country, the largest country in goods trade, the second largest country in commodity consumption, and the second largest country in the flow of foreign capital, and its foreign exchange reserves have ranked first in the world for many consecutive years. 
 
 Today's China has long bid farewell to the era of poverty and weakness and the era of material shortage; the people's living
 standards have achieved a great leap from insufficient food and clothing to moderate prosperity; the

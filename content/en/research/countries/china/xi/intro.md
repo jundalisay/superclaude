@@ -4,6 +4,7 @@ weight: 1
 date: 2025-12-11
 description: "Xi Jinping Thought"
 c: "firebrick"
+icon: "China"
 ---
 
 
@@ -186,25 +187,13 @@ it alone or alone, and the world's expectations for a new global architecture ar
 more urgent.
 
 With a history of more than 5,000 years of civilization, China is the world's largest developing
-country and the largest socialist country. Since the founding of New China, especially since the
-reform and opening up, China has gradually moved towards the world. The process of going global
-is also a process of China's sustained and rapid development. With the development and growth of
-economic strength and scientific and technological strength, China's international status has been
-significantly improved, its international influence has been significantly enhanced, and it has
-increasingly approached the center of the world stage. Since the international financial crisis in 2008,
+country and the largest socialist country. Since the founding of New China, especially since the reform and opening up, China has gradually moved towards the world. The process of going global is also a process of China's sustained and rapid development. With the development and growth of economic strength and scientific and technological strength, China's international status has been significantly improved, its international influence has been significantly enhanced, and it has increasingly approached the center of the world stage. Since the international financial crisis in 2008,
 
 
 China has contributed more than 30% to world economic growth for many consecutive years,
 becoming the main source of world economic growth. China has become a decisive factor in the
 changes in the world pattern and an important stabilizing force in the world's great uncertainty.
-At this time of great development, great change and great adjustment, China is changing, the world
-is changing, and the relationship between China and the world is also changing. How should China
-better develop itself and how should it make new and greater contributions to human society? The
-questions of the times arising from the great changes require scientific answers from contemporary
-Chinese communists. Standing at the height of world history and human civilization, Comrade Xi
-Jinping accurately grasps the pulse of the world's general trend with a correct view of history, the
-overall situation and the role, deeply analyzes the law of the evolution of the international pattern,
-and puts forward a series of pioneering new concepts, ideas and strategies around the questions of
-the times, providing Chinese wisdom, Chinese ideas and Chinese solutions for the better future of
-the world.
 
+At this time of great development, great change and great adjustment, China is changing, the world is changing, and the relationship between China and the world is also changing. How should China better develop itself and how should it make new and greater contributions to human society? 
+
+The questions of the times arising from the great changes require scientific answers from contemporary Chinese communists. Standing at the height of world history and human civilization, Comrade Xi Jinping accurately grasps the pulse of the world's general trend with a correct view of history, the overall situation and the role, deeply analyzes the law of the evolution of the international pattern, and puts forward a series of pioneering new concepts, ideas and strategies around the questions of the times, providing Chinese wisdom, Chinese ideas and Chinese solutions for the better future of the world. 

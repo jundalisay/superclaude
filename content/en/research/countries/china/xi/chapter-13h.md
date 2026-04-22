@@ -5,31 +5,20 @@ weight: 300
 date: 2025-10-13
 description: ""
 c: "firebrick"
+icon: "China"
 ---
 
 
 ### 3. Maintain the long-term prosperity and stability of Hong Kong and Macao
 
-Since the return of Hong Kong and Macao, the practice of "one country, two systems" has achieved
-universally recognized success. For more than 20 years, "one country, two systems" has been
-successfully practiced in Hong Kong and Macao, and has grown vigorously and yielded fruitful
-results in the storm. 
+Since the return of Hong Kong and Macao, the practice of "one country, two systems" has achieved universally recognized success. For more than 20 years, "one country, two systems" has been successfully practiced in Hong Kong and Macao, and has grown vigorously and yielded fruitful results in the storm. 
 
 Since Hong Kong's return to the motherland, Hong Kong's economic growth
-rate has been in the forefront of developed economies, and its status as an international financial,
-shipping and trade center has been further consolidated, and it has become one of the most dynamic
-cities in Asia, one of the freest economies in the world and one of the most competitive economies
-in the world. Since Macao's return to the motherland, Macao has enjoyed social stability, economic
-development, residents living and working in peace and contentment, and multiculturalism has
-developed well, and is striving to achieve its goal of becoming a world center of tourism and leisure.
-The development of Hong Kong and Macao has fully proved that the principle of "one country, two
-systems" is correct and that the practice of "one country, two systems" is successful.
+rate has been in the forefront of developed economies, and its status as an international financial, shipping and trade center has been further consolidated, and it has become one of the most dynamic cities in Asia, one of the freest economies in the world and one of the most competitive economies in the world. Since Macao's return to the motherland, Macao has enjoyed social stability, economic development, residents living and working in peace and contentment, and multiculturalism has developed well, and is striving to achieve its goal of becoming a world center of tourism and leisure. 
 
-To maintain the long-term prosperity and stability of Hong Kong and Macao, it is necessary to fully
-and accurately implement the principles of "one country, two systems", "Hong Kong people
-administering Hong Kong", "Macao people administering Macao" and a high degree of autonomy,
-improve the system for the central authorities to exercise overall jurisdiction over the SAR in
-accordance with the Constitution and the Basic Law, improve the system and mechanism for the
+The development of Hong Kong and Macao has fully proved that the principle of "one country, 2 systems" is correct and that the practice of "one country, two systems" is successful.
+
+To maintain the long-term prosperity and stability of Hong Kong and Macao, it is necessary to fully and accurately implement the principles of "one country, two systems", "Hong Kong people administering Hong Kong", "Macao people administering Macao" and a high degree of autonomy, improve the system for the central authorities to exercise overall jurisdiction over the SAR in accordance with the Constitution and the Basic Law, improve the system and mechanism for the
 appointment and removal of the chief executive and principal officials of the SAR, the system of
 interpretation of the Basic Law by the Standing Committee of the National People's Congress, and
 exercise the powers entrusted to the Central Committee by the Constitution and the Basic Law in
@@ -164,14 +153,5 @@ the development of the cause of "one country, two systems.”
 Since the reform and opening up, especially after the return of Hong Kong and Macao to the
 motherland, the cooperation between Guangdong, Hong Kong and Macao has been continuously
 deepened, the economic strength and regional competitiveness of the Guangdong-Hong Kong-
-Macao Greater Bay Area have been significantly enhanced, and the basic conditions for building a
-world-class bay area and a world-class city cluster have been met. The Hong Kong-Zhuhai-Macao
-Bridge spans the Lingding Ocean, connects Hong Kong to the east, Zhuhai and Macao to the west,
-connecting the world's most dynamic economic circle, and is of far-reaching significance to the
-integration of Hong Kong, Macao and Zhuhai. Relying on the advantages of Hong Kong and Macao
-as free and open economies and Guangdong as the vanguard of reform and opening up, we should
-continue to deepen reform and expand opening up, lead the country in building an institutional
-mechanism for high-quality economic development, play an exemplary and leading role, accelerate
-institutional innovation and pilot projects, build a modern economic system, better integrate into the
-global market system, build a base for emerging industries, advanced manufacturing and modern
+Macao Greater Bay Area have been significantly enhanced, and the basic conditions for building a world-class bay area and a world-class city cluster have been met. The Hong Kong-Zhuhai-Macao Bridge spans the Lingding Ocean, connects Hong Kong to the east, Zhuhai and Macao to the west, connecting the world's most dynamic economic circle, and is of far-reaching significance to the integration of Hong Kong, Macao and Zhuhai. Relying on the advantages of Hong Kong and Macao as free and open economies and Guangdong as the vanguard of reform and opening up, we should continue to deepen reform and expand opening up, lead the country in building an institutional mechanism for high-quality economic development, play an exemplary and leading role, accelerate institutional innovation and pilot projects, build a modern economic system, better integrate into the global market system, build a base for emerging industries, advanced manufacturing and modern
 service industries in the world, and build a world-class city cluster.
