@@ -45,3 +45,12 @@ There is no more spins at 5th density and up.
 
 
 
+## Densities (Elan)
+
+Density | Examples and Notes
+--- | ---
+1st | Minerals as dense consciousness
+2nd | Plans and animals - no self reflection
+3rd | humans = physical relity as self imposed limitation to experience a reality
+4th | be less limited in physicality 
+5th | non physical -- loses the need for physical acts 

@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Business Cycle"
 date: 2026-01-18
-weight: 19
+weight: 3
 image: "/photos/buy.jpg"
 description: ""
 writer:
