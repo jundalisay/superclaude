@@ -3,6 +3,7 @@ heading: Chapter 4
 title: "THE ORDER AND AIMS OF ECONOMIC STUDIES"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 9
 ---
 

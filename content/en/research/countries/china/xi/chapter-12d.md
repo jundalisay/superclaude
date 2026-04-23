@@ -9,25 +9,20 @@ icon: "China"
 ---
 
 
-5. Rule of law protects the ecological environment with the strictest system
+### 5. Rule of law protects the ecological environment with the strictest system
 
-The ecological environment is the most inclusive public good, and it is also the field most prone to
-"tragedy of the commons.” Therefore, the protection of the ecological environment must rely on
-institutions and the rule of law. Comrade Xi Jinping has repeatedly stressed that the protection of
-the ecological environment must rely on the system and the rule of law, and in practice has
-continuously promoted ecological legislation and strengthened ecological law enforcement, forming
-an ecological rule of law concept that protects the ecological environment with the strictest system
-and the strictest rule of law.
+The ecological environment is the most inclusive public good, and it is also the field most prone to "tragedy of the commons.” 
 
-Most of the outstanding problems in China's ecological environmental protection are related to the
-imperfect system, the lack of strict system, the lack of strict rule of law, the lack of implementation,
-and the ineffective punishment. Since the 18th National Congress of the CCP,
-the Party Central Committee with Comrade Xi Jinping as the core has written the construction of
-ecological civilization into the Party Constitution and Constitution, giving it an important status in
-the form of the fundamental law of the Party and the country;
+Therefore, the protection of the ecological environment must rely on
+institutions and the rule of law.
 
-The "Overall Plan for the Reform of the Ecological Civilization System" has been promulgated,
-building the "four beams and eight pillars" of the ecological civilization system and consolidating
+Xi Jinping has repeatedly stressed that the protection of the ecological environment must rely on the system and the rule of law, and in practice has continuously promoted ecological legislation and strengthened ecological law enforcement, forming an ecological rule of law concept that protects the ecological environment with the strictest system and the strictest rule of law.
+
+Most of the outstanding problems in China's ecological environmental protection are related to the imperfect system, the lack of strict system, the lack of strict rule of law, the lack of implementation, and the ineffective punishment. 
+
+Since the 18th National Congress of the CCP, the Party Central Committee with Comrade Xi Jinping as the core has written the construction of ecological civilization into the Party Constitution and Constitution, giving it an important status in the form of the fundamental law of the Party and the country;
+
+The "Overall Plan for the Reform of the Ecological Civilization System" has been promulgated, building the "four beams and eight pillars" of the ecological civilization system and consolidating
 the institutional foundation for the construction of ecological civilization; adopted the "strictest
 revision of the Environmental Protection Law in history", formulated the "Soil Pollution Prevention
 and Control Law", revised the "Air Pollution Prevention and Control Law", "Water Pollution
@@ -36,16 +31,18 @@ regulations such as the "Opinions of the General Office of the State Council on 
 Ecological Protection Compensation Mechanism", so that the construction of ecological civilization
 has entered the rule of law. The institutionalized track has promoted the continuous improvement
 of the quality of the ecological environment. At the same time, we must also see that the construction
-of the ecological civilization system is not once and for all, there is still a long way to go, and it is
-necessary to accelerate institutional innovation, increase institutional supply, improve institutional
-support, strengthen institutional implementation, and make the system a rigid constraint and an
-untouchable high-voltage line.
+of the ecological civilization system is not once and for all, there is still a long way to go, and it is necessary to accelerate institutional innovation, increase institutional supply, improve institutional support, strengthen institutional implementation, and make the system a rigid constraint and an untouchable high-voltage line.
 
-The vitality of laws and regulations lies in their implementation. No matter how perfect the system
-design is, if it is not implemented, it can only be a "toothless tiger.” The key to implementing laws
-and regulations lies in truly grasping them, relying on strict management. Comrade Xi Jinping
-stressed: "Our ecological and environmental problems have reached a very serious level, and we
-must take the most severe measures." 1 The rigidity and authority of the system must be firmly
+The vitality of laws and regulations lies in their implementation. 
+
+No matter how perfect the system design is, if it is not implemented, it can only be a "toothless tiger.” 
+
+The key to implementing laws
+and regulations lies in truly grasping them, relying on strict management. 
+
+Xi Jinping stressed: "Our ecological and environmental problems have reached a very serious level, and we must take the most severe measures." 1 
+
+The rigidity and authority of the system must be firmly
 established, and no choices, no adaptations, and no discounts must be made. It is necessary to grasp
 the key minority, strengthen assessment and accountability, strictly use the system management
 power to govern officials, protect the blue and increase the green, have the right to be responsible,
@@ -186,7 +183,4 @@ atmosphere for a green and low-carbon life, and enhance the people's consciousne
 action to live a green and low-carbon life; strengthen citizens' awareness of the environment, guide
 residents to change their consumption concepts, and advocate thrift and green and low-carbon
 consumption. Starting from the small details of life, advocate water saving, energy saving and
-electricity saving, encourage residents to use environmental protection products, advocate reuse and
-recycling, and actively advocate green and low-carbon travel; widely carry out activities to create
-energy-saving institutions, green families, green schools, and green communities, and force the
-green transformation of production methods through the green revolution of lifestyle.
+electricity saving, encourage residents to use environmental protection products, advocate reuse and recycling, and actively advocate green and low-carbon travel; widely carry out activities to create energy-saving institutions, green families, green schools, and green communities, and force the green transformation of production methods through the green revolution of lifestyle.

@@ -3,6 +3,7 @@ heading: Chapter 2
 title: "Wealth"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 6
 ---
 

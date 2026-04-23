@@ -44,6 +44,16 @@ In a civilization:
 - the Legislative and Executive branch have the father roles 
 - the Judicial and Resources branch have the mother roles 
 
+The 4 Branches also match the Social Cycles of Socrates and Hindu Varnas:
+
+Branch | Socrates | Hindu
+--- | --- | ---
+Legislative | Demos (Masses) | Shudra
+Executive | Tyrant |  Ksattriya (Warriors)
+Justice | Aristocrat (Philosophers) | Brahmin (Intellectuals)
+Resources | Oligarchs | Vaesyas (Traders)
+
+
 The Europeans only instituted 3 brances after the French Revolution. The Resources branch took the form of non-free enterprises:
 
 Civilization | State-run Organization

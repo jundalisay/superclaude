@@ -3,6 +3,7 @@ heading: Chapter 5
 title: "Equilibrium Of Normal Demand And Supply With Reference To Long And Short Periods."
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 19
 ---
 

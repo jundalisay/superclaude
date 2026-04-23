@@ -3,6 +3,7 @@ heading: Chapter 5c
 title: "The Investment And Distribution Of Resources"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 24
 ---
 

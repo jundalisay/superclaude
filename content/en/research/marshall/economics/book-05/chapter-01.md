@@ -3,6 +3,7 @@ heading: Chapter 1
 title: "Introdcution: Markets"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 3
 ---
 

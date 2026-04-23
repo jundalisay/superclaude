@@ -3,6 +3,7 @@ heading: Chapter 2
 title: "Temporary Equilibrium Of Demand And Supply"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 5
 ---
 

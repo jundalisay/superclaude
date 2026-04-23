@@ -3,6 +3,7 @@ heading: Chapter 3b
 title: "Equilibrium Of Normal Demand And Supply"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 9
 icon: Alfred Marshall
 ---

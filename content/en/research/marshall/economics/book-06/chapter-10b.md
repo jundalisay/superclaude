@@ -1,3 +1,14 @@
+---
+title: "The Proprietor"
+heading: Chapter 10b
+description: ""
+c: "firebrick"
+a: "Alfred Marshall"
+weight: 14
+---
+
+
+
 § 5. The position of a peasant proprietor has great attractions. He is free to do what he
 likes, he is not worried by the interference of a landlord, and the anxiety lest another
 should reap the fruits of his work and self-denial. His feeling of ownership gives him
@@ -64,12 +75,7 @@ in Europe which obtains nearly so high returns in proportion to the labour expen
 getting them116 .
 The chief merit of the system is that it enables the landlord to keep in his own hands
 the responsibility for that part and only that part of the property which he can look
-after with but little trouble to himself, and little vexation to his tenant; and the
-PLL v6.0 (generated September, 2011)
-372
-http://oll.libertyfund.org/title/1676Online Library of Liberty: Principles of Economics (8th ed.)
-investment of which, though requiring both enterprise and judgment, does not demand
-constant supervision of minor details. His part consists of land, buildings and
+after with but little trouble to himself, and little vexation to his tenant; and the investment of which, though requiring both enterprise and judgment, does not demand constant supervision of minor details. His part consists of land, buildings and
 permanent improvements, and averages in England five times that which the farmer
 has to supply himself; and he is willing to supply his part in the enterprise with this
 great capital at a net rent which seldom gives interest at as much as three per cent. on
@@ -77,6 +83,7 @@ its cost. There is no other business in which a man can borrow what capital he w
 at so low a rate, or can often borrow so large a part of his capital at any rate at all. The
 metayer indeed may be said to borrow an even larger share, but at a much higher
 rate117 .
+
 The second merit of the English system, which partly follows from the first, is that it
 gives the landlord considerable freedom in the selection of an able and responsible
 tenant. So far as the management of land, as opposed to its ownership, goes, the
@@ -87,6 +94,7 @@ professions and even to skilled manual trades. And it counts for somewhat more i
 English agriculture: for the good and bad qualities of landlords combine to prevent
 their selecting tenants on strictly commercial principles, and they do not very often go
 far afield for a new tenant118 .
+
 § 7. The number of people who have the opportunity of making a step forward in the
 arts of agriculture is very great. And since the different branches of agriculture differ
 from one another in general character less than do those of manufacture, it might have
@@ -100,6 +108,7 @@ copying a plan that has worked well with his neighbour in the same trade, a farm
 not: for every farm has slight peculiarities of its own, so that the blind adoption of a
 plan, that has worked well close by, is likely to fail; and its failure encourages others
 in the belief that old and tried ways are the best.
+
 Again, the variety in agricultural detail makes the proper keeping of farming accounts
 very difficult. There are so many joint products and so many by-products, so many
 complex and shifting relations of debtor and creditor between the several crops and
@@ -109,14 +118,10 @@ a semi-instinctive guess, what is the price that will just pay him to raise a ce
 amount of extra produce. He may know its prime cost with fair certainty, but he
 seldom knows its true total cost; and this increases the difficulty of reading quickly
 the teachings of experience and making progress by their aid119 .
-And there is another difference between the mode of action of competition in
-agriculture and in manufacture. If one manufacturer is unenterprising, others may be
-able to step into the opening which he leaves vacant: but when one landowner does
-PLL v6.0 (generated September, 2011)
-373
-http://oll.libertyfund.org/title/1676Online Library of Liberty: Principles of Economics (8th ed.)
-not develop the resources of his land in the best way, others cannot make up for the
-deficiency without calling into play the tendency to diminishing return; so that his
+
+
+There is another difference between the mode of action of competition in agriculture and in manufacture. If one manufacturer is unenterprising, others may be
+able to step into the opening which he leaves vacant: but when one landowner does not develop the resources of his land in the best way, others cannot make up for the deficiency without calling into play the tendency to diminishing return; so that his
 want of wisdom and enterprise makes the (marginal) supply price a little higher than it
 otherwise would be120 . It is however true that the difference between the two cases
 is only one of degree; since the growth of any branch of manufacture may be retarded
@@ -124,11 +129,13 @@ perceptibly by any falling-off in the ability and enterprise of the leading firm
 engaged in it. The chief agricultural improvements have been made by landlords who
 have themselves been townsmen or at least have associated a good deal with
 townsmen, and by manufacturers in trades subsidiary to agriculture121 .
+
 § 8. Though nature yields generally a less than proportionate return to an increased
 amount of labour of a given efficiency; man's part conforms generally to the law of
 increasing return (i.e. it increases in aggregate efficiency more than in proportion to
 the number of workers), in agriculture as well as in manufacture122 . But yet the
 economies of production on a large scale are not quite similar in the two cases.
+
 Firstly, agriculture must be spread over the broad land: raw material can be brought to
 the manufacturer for him to work on; but the agriculturist must seek his work. Again,
 the workers on the land must adapt their work to the seasons, and can seldom confine
@@ -140,6 +147,7 @@ machines, for most of which a small farmer can find employment during only a ver
 short time. He may hire some of them; but there are many the use of which he can get
 only by cooperation with his neighbours; and the uncertainties of the weather prevent
 this plan from working very smoothly in practice123 .
+
 Again, the farmer must go beyond the results of his own and his father's experience in
 order to keep abreast of the changes of the day. He should be able to follow the
 movements of agricultural science and practice closely enough to see their chief
@@ -157,9 +165,7 @@ men to enter the business of farming; the best enterprise and ability of the cou
 generally avoid agriculture and go to trades in which there is room for a man of first-
 rate ability to do nothing but high class work, to do a great deal of it, and therefore to
 get high earnings of management124 .
-PLL v6.0 (generated September, 2011)
-374
-http://oll.libertyfund.org/title/1676Online Library of Liberty: Principles of Economics (8th ed.)
+
 If it be assumed, as is the modern fashion, that the farmer is not to work habitually
 with his men and to encourage them by his presence, it seems best for the economy of
 production that farms should be as large as is practicable under the existing conditions
@@ -186,6 +192,7 @@ plants, that machinery is out of place. But modern applications of scientific me
 are giving an increasing importance to that economy of technical skill which can be
 attained in a large nursery for choice flowers and fruits, with several highly paid
 assistants.
+
 § 9. We may next consider how far landlords will in their own interest adjust the size
 of holdings to the real needs of the people. Small holdings often require more
 expensive buildings, roads and fences, and involve greater trouble and incidental

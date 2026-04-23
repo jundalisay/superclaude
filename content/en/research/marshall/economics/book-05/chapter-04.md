@@ -3,6 +3,7 @@ heading: Chapter 4
 title: "The Investment And Distribution Of Resources"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 11
 ---
 

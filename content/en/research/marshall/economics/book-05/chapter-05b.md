@@ -3,6 +3,7 @@ heading: Chapter 5b
 title: "The Stationary State"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 21
 ---
 

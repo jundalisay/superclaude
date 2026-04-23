@@ -3,6 +3,7 @@ heading: Chapter 3
 title: "ECONOMIC GENERALIZATIONS OR LAWS"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 9
 ---
 

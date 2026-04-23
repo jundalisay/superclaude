@@ -10,15 +10,15 @@ icon: "Socrates"
 
 Persons Of The Dialogue:
 
-| Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![Phaedo](/icons/g02.png) |
+| Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![Phaedo](/icons/g02.jpg) |
 | --- | --- |
-| Echecrates | ![Echecrates avatar](/icons/g01.png) |
+| Echecrates | ![Echecrates avatar](/icons/Echecrates.jpg) |
 | Socrates | ![Socrates avatar](/icons/Socrates.jpg) |
-| Apollodorus | ![Apollodorus avatar](/icons/g04.png) |
-| Simmias | ![Simmias avatar](/icons/g09.png) |
-| Cebes | ![Cebes avatar](/icons/g08.png) |
-| Crito | ![Crito avatar](/icons/g01.png) |
-| Attendant of the Prison | ![Attendant avatar](/icons/g10.png) |
+| Apollodorus | ![Apollodorus avatar](/icons/Apollodorus.jpg) |
+| Simmias | ![Simmias avatar](/icons/Simmias.jpg) |
+| Cebes | ![Cebes avatar](/icons/Cebes.jpg) |
+| Crito | ![Crito avatar](/icons/Crito.jpg) |
+| Attendant of the Prison | ![Attendant avatar](/icons/Attendant.jpg) |
 | Scene | The Prison of Socrates |
 | Place of Narration | Phlius |
 

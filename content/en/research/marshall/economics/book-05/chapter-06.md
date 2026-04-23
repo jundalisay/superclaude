@@ -3,6 +3,7 @@ heading: Chapter 6
 title: "Joint And Composite Demand. Joint And Composite Supply"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 29
 ---
 

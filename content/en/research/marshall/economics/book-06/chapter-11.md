@@ -3,7 +3,8 @@ title: "General View Of Distribution"
 heading: Chapter 11
 description: ""
 c: "firebrick"
-weight: 4
+a: "Alfred Marshall"
+weight: 24
 ---
 
 

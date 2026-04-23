@@ -3,13 +3,15 @@ title: "Land Tenure"
 heading: Chapter 10
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 4
 ---
 
 
 
-§ 1. In early times, and in some backward countries even in our own age, all rights to property depend on general understandings rather than on precise laws and
-documents. In so far as these understandings can be reduced to definite terms and 
+§ 1. In early times, and in some backward countries even in our own age, all rights to property depend on general understandings rather than on precise laws and documents. 
+
+In so far as these understandings can be reduced to definite terms and 
 expressed in the language of modern business, they are generally to the following
 effect:—The ownership of land is vested, not in an individual, but in a firm of which
 one member or group of members is the sleeping partner, while another member or
@@ -104,13 +106,13 @@ protested against any attempt on the part of his landlord to make a sudden and v
 increase in the payments and dues, the tolls and fines which were recognized as usual;
 and thus custom rounded off the edges of change.
 
-It is moreover true that these vague and variable elements of rent were generally but a
-small part of the whole; and that in those not very rare cases in which the money rent
+These vague and variable elements of rent were generally but a small part of the whole; and that in those not very rare cases in which the money rent
 remained fixed for very long periods together, the tenant had a kind of partnership in
 the soil, which he owed partly to the forbearance of his landlord if it happened that the
 true net value of the land had risen, but partly also to the constraining force of custom
-and public opinion. This force in some measure resembled the force which holds
-raindrops on the lower edge of a window frame: the repose is complete till the
+and public opinion.
+
+This force in some measure resembled the force which holds raindrops on the lower edge of a window frame: the repose is complete till the
 window is violently shaken, and then they fall together; and in like way the legal
 rights of the landlord which had long lain latent were sometimes brought suddenly
 into action in a period of great economic change.
@@ -139,17 +141,16 @@ by piece-work112 . But though the metayer has more freedom than the hired labour
 he has less than the English farmer. His landlord has to spend much time and trouble,
 either of his own or of a paid agent, in keeping the tenant to his work; and he must
 charge for these a large sum, which, though going by another name, is really earnings
-of management. For, when the cultivator has to give to his landlord half of the returns
-to each dose of capital and labour that he applies to the land, it will not be to his interest to apply any doses the total return to which is less than twice enough to
+of management. 
+
+For, when the cultivator has to give to his landlord half of the returns to each dose of capital and labour that he applies to the land, it will not be to his interest to apply any doses the total return to which is less than twice enough to
 reward him. If, then, he is free to cultivate as he chooses, he will cultivate far less
 intensively than on the English plan; he will apply only so much capital and labour as
 will give him returns more than twice enough to repay himself: so that his landlord
 will get a smaller share even of those returns than he would have on the plan of a
 fixed payment.
 
-This is the case in many parts of Europe, in which the tenant has practical fixity of
-tenure; and then it is only by constant interference that the landlord can keep up the
-amount of labour he puts on his farm, and keep down the use he makes of the farm
+This is the case in many parts of Europe, in which the tenant has practical fixity of tenure; and then it is only by constant interference that the landlord can keep up the amount of labour he puts on his farm, and keep down the use he makes of the farm
 cattle for outside work, the fruits of which he does not share with his landlord.
 But even in the most stationary districts the amount and quality of the stock which
 custom requires the landlord to provide are being constantly, though imperceptibly,
@@ -157,9 +158,8 @@ modified to suit the changing relations of demand and supply. And if the tenant 
 fixity of tenure, the landlord can deliberately and freely arrange the amount of capital
 and labour supplied by the tenant and the amount of capital supplied by himself to suit
 the exigencies of each special case114 .
-It is obvious then that the advantages of the metayer system are considerable when the
-holdings are very small, the tenants poor, and the landlords not averse to taking much
+
+The advantages of the metayer system are considerable when the holdings are very small, the tenants poor, and the landlords not averse to taking much
 trouble about small things: but that it is not suitable for holdings large enough to give
 scope to the enterprise of an able and responsible tenant. It is commonly associated
 with the system of peasant proprietorship; and we may consider that next.
-

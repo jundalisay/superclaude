@@ -136,3 +136,13 @@ After the third day, Shakana went back to energy and everyone woke up.
 From that day, the Sassani did not need to sleep anymore.
 
 
+## Maldekians (from Elan)
+
+The asteroid belt was formerly a planet Maldek
+
+They created weaponry that cracked their own planet apart. 
+
+These created vibrations that exploded their planet. 
+
+This led to the infusion of consciounsess on Earth causing the start of humans (Homo erecuts?) on Earth. 
+

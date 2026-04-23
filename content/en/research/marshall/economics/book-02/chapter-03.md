@@ -3,6 +3,7 @@ heading: Chapter 3
 title: "Production. Consumption. Labour. Necessaries"
 description: ""
 c: "firebrick"
+a: "Alfred Marshall"
 weight: 9
 ---
 

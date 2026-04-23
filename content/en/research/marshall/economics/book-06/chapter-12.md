@@ -1,9 +1,10 @@
 ---
-title: "GENERAL INFLUENCES OF ECONOMIC PROGRESS"
+title: "General Influences Of Economic Progress"
 heading: Chapter 11
 description: ""
 c: "firebrick"
-weight: 4
+a: "Alfred Marshall"
+weight: 34
 ---
 
 

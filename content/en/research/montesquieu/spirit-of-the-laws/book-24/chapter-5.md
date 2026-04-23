@@ -34,8 +34,31 @@ Each of these two religions was believed to be the most perfect. The Calvinist j
 
 ### Chapter 6= Another Paradox of Mr. Bayle
 
-MR. BAYLE abused all religions including Christianity. He boldly asserts that true Christians cannot form a government of any duration. Why not? 
+MR. BAYLE abused all religions including Christianity. 
 
-Citizens of this profession being infinitely enlightened with respect to the various duties of life, and having the warmest zeal to fulfil them, must be perfectly sensible of the rights of natural defence. The more they believe themselves indebted to religion, the more they would think due to their country. The principles of Christianity, deeply engraved on the heart, would be infinitely more powerful than the false honour of monarchies, than the humane virtues of republics, or the servile fear of despotic states.
+He boldly asserts that true Christians cannot form a lasting government. Why not? 
 
-He is unable to distinguish between the orders for the establishment of Christianity and Christianity itself. He does not know the spirit of his own religion. When the legislator gives counsels instead of laws, this is because he knows that if these counsels were ordained as laws, they would be contrary to the spirit of the laws themselves.
+I think that Christians:
+- are infinitely enlightened with the various duties of life
+- have the warmest zeal to fulfil them
+
+And so they are perfectly sensible of the rights of natural defence.
+
+The more they believe themselves indebted to religion, the more they would think due to their country. 
+
+The principles of Christianity are deeply engraved on the heart.
+
+These would be infinitely more powerful than:
+- the false honour of monarchies or
+- the humane virtues of republics
+- the servile fear of despotic states
+
+He:
+- is unable to distinguish between the orders for the establishment of Christianity and Christianity itself.
+- does not know the spirit of his own religion
+
+When the legislator gives counsels instead of laws, this is because he knows that if these counsels were ordained as laws, they would be contrary to the spirit of the laws themselves.
+
+
+
+

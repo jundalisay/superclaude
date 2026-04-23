@@ -4,7 +4,7 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
-heading: Chapter 16c
+heading: Chapter 16d
 # weight:
 ---
 
@@ -13,7 +13,12 @@ When Alaska was admitted to the Union in 1959, nearly its entire landmass was fe
 
 So Alaska was granted the right to select 104 million acres (out of 375 million acres) to manage for the benefit of its residents.48 
 
-In less than eight years, Alaska selected 26 million acres. Then-Interior Secretary Stewart Udall—who served during the Kennedy and Johnson Administrations—put a freeze on further land selections to protect any claims that might be asserted by Native Alaskans.49 Alaska Native Claims Settlement Act. 
+In less than 8 years, Alaska selected 26 million acres. 
+
+Then-Interior Secretary Stewart Udall—who served during the Kennedy and Johnson Administrations—put a freeze on further land selections to protect any claims that might be asserted by Native Alaskans.49
+
+
+## Alaska Native Claims Settlement Act
 
 The discovery of oil at Prudhoe Bay in 1968 made resolution of the issue by Congress a matter of urgency. As a result, in 1971, Congress passed the Alaska Native Claims Settlement Act (ANCSA), which allowed the Native community to select 44 million acres.50
 
@@ -21,31 +26,27 @@ Environmentalists, upset that too much of the land they coveted would be selecte
 by the state and Native Alaskans for development, demanded the inclusion in the act
 of a provision—Section 17(d)(2)—that ordered the Interior Secretary to withdraw 80
 million acres for future designation by Congress as parks, refuges, wild and scenic
-rivers, and national forests.51 The deadline for this congressional action was 1978,
-and as it neared, the Carter Administration, impatient and worried, decided to force
-Congress’s hand. The Administration unilaterally withdrew 100 million acres from
-any use by the state or Native Alaskans.52 Alaska promptly sued, charging that the
-Administration had failed to comply with the National Environmental Policy Act.53
-In a lame duck session at the end of 1980, Congress passed (over the objections of the Alaskan delegation) the Alaska National Interest Lands Conservation Act, which revoked all of the withdrawals of the Carter Administration and sub-
-stituted congressional designations that put 100 million acres permanently in
-federal enclaves, doubled the acreage of national parks and refuges, and tripled the
-amount of land declared to be wilderness.54 Through all of this, Alaska pressed for
-the DOI to convey the lands to which Alaska was entitled by federal law, but the
-department grudgingly transferred only portions of that land.
+rivers, and national forests.
 
-By the time Ronald Reagan took office, Alaska had received less than half the
-lands to which it was entitled after its admission into the Union, and Native Alas-
-kans had received only one-third of the land due to them.55 From January of 1981
-through 1983, however, under Reagan, Alaska received 30 million acres and a com-
-mitment of land transfers at the rate of 13 million acres annually. In the same
-period, Native Alaskans received 11 million acres, which constituted nearly 60
-percent of their entitlement, and an additional 15 million acres were transferred
+The deadline for this congressional action was 1978, and as it neared, the Carter Administration, impatient and worried, decided to force  Congress’s hand. The Administration unilaterally withdrew 100 million acres from any use by the state or Native Alaskans.52 
+
+Alaska promptly sued, charging that the Administration had failed to comply with the National Environmental Policy Act.53 
+
+In a lame duck session at the end of 1980, Congress passed (over the objections of the Alaskan delegation) the Alaska National Interest Lands Conservation Act, which revoked all of the withdrawals of the Carter Administration and substituted congressional designations that put 100 million acres permanently in federal enclaves, doubled the acreage of national parks and refuges, and tripled the amount of land declared to be wilderness.54 Through all of this, Alaska pressed for the DOI to convey the lands to which Alaska was entitled by federal law, but the department grudgingly transferred only portions of that land.
+
+By the time Ronald Reagan took office, Alaska had received less than half the lands to which it was entitled after its admission into the Union, and Native Alaskans had received only one-third of the land due to them.55 
+
+From January of 1981 through 1983, however, under Reagan, Alaska received 30 million acres and a commitment of land transfers at the rate of 13 million acres annually. 
+
+In the same period, Native Alaskans received 11 million acres, which constituted nearly 60% of their entitlement, and an additional 15 million acres were transferred
 by the end of 1988.56
 
 Despite the passage of nearly 40 years since the end of the Reagan Adminis-
 tration, the federal government has yet to fulfill its statutory obligation to Alaska
 and Alaska Natives—specifically, each group has 5 million acres of entitlement
-remaining. Standing in the way are Public Land Orders (PLOs) issued by the BLM
+remaining. 
+
+Standing in the way are Public Land Orders (PLOs) issued by the BLM
 seizing that land for the agency. Those PLOs must be lifted to permit Alaska and
 Alaska Natives to select what was promised by Congress.
 
@@ -102,16 +103,17 @@ and wildlife management matters.63
 Issue a secretarial order declaring navigable waters in Alaska to be owned
 by the state so that the lands beneath these waters belong to Alaska. This
 will force the BLM to prove that water is not navigable, since in the case of
-non-navigability, any submerged lands belong to the BLM. Currently, BLM
-requires Alaska to prove navigability at its own expense—including the
+non-navigability, any submerged lands belong to the BLM. 
+
+Currently, BLM requires Alaska to prove navigability at its own expense—including the
 BLM’s preposterous assertion that the mighty Yukon River is non-navigable.
 Reinstate President Trump’s 2020 Alaska Roadless Rule64 for the Tongass
 National Forest in Alaska, which was replaced by a Biden Roadless Rule
 that continues a 2001 Clinton rule affecting 9.37 million of the forest’s 16.7
-million acres.65 The Clinton rule affects an area where communities are in
-small islands with no road access. It has prevented multiple infrastructure
-projects, including roads, electric transmission lines, and water and sewer
-projects, and it forces residents to use a heavily subsidized ferry system.
+million acres.65 
+
+The Clinton rule affects an area where communities are in small islands with no road access. It has prevented multiple infrastructure projects, including roads, electric transmission lines, and water and sewer projects, and it forces residents to use a heavily subsidized ferry system. 
+
 Logging has been shut down to the extent that New York harvests more
 timber than does all of Alaska.
 

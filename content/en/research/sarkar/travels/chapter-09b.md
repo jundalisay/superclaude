@@ -8,7 +8,9 @@ author: Dada Dharmavedananda
 ---
  
 
-Delhi. Although it was only two months since I last saw Baba, it seemed like two eons. I had an extreme desire to see Him again. Because there were only about fifteen persons this morning when He walked into the room to give His talk, it seemed almost a private audience. 
+Delhi. Although it was only 2 months since I last saw Baba, it seemed like 2 eons. 
+
+I had an extreme desire to see Him again. Because there were only about fifteen persons this morning when He walked into the room to give His talk, it seemed almost a private audience. 
 
 He sat in the chair which was immediately in front of me. We all sat on the floor looking up at Him expectantly. He gazed at each of us before speaking, with one exception: me. 
 
@@ -20,11 +22,7 @@ But He didn't look at me.
 
 Why? I thought. Did I do something wrong? 
 
-Although He spoke in English, I was so perturbed by His behavior that I 
-couldn't understand a single word. His tender, doe-like eyes rested 
-momentarily on each and every face, but when He turned His gaze toward the 
-center, He either lowered or raised His eyes just when He was about to look at 
-me. 
+Although He spoke in English, I was so perturbed by His behavior that I  couldn't understand a single word. His tender, doe-like eyes rested momentarily on each and every face, but when He turned His gaze toward the center, He either lowered or raised His eyes just when He was about to look at me. 
 
 I Ve done some horrible sin, I thought. The anxiety made my head warm. 
 
@@ -36,36 +34,45 @@ It went on and on: everyone thrilling to the play of His eyes, His refusing
 to look at me, and my speculations continuing to bubble, heating my spine, 
 tensing my body. What great offense had I committed in these last two 
 months? My thoughts tripped over each other, trying to find the answer. 
+
+
 Though the air wasn't hot, and everyone was comfortable in the fan's breeze, I 
-was sweating and shaking, feeling hotter and more confused with each passing moment. My thinking galloped at such a pace that it went out of control. My head burned and my heart ached as I stared at this indifferent Baba, tears coming out of my eyes, wondering, wondering. 
+was sweating and shaking, feeling hotter and more confused with each passing moment. My thinking galloped at such a pace that it went out of control. 
+
+My head burned and my heart ached as I stared at this indifferent Baba, tears coming out of my eyes, wondering, wondering. 
 
 Suddenly a single thought burst out through the forest of confusion (and these 
-were the exact words): That H e ignores me is in itself a special kind of attention. 
+were the exact words): 
 
-Before the meaning of this sentence could even register in my brain, Baba 
-interrupted His speech, sharply swiveled His head around, turned His face directly 
-toward mine, and smiled. I distinctly heard Him say, "Yes," though His lips didn't 
-form the word. He kept His eyes glued on mine for a long moment—perhaps five 
-or ten seconds. 
+**He ignoring me is in itself a special kind of attention.** 
+
+Before the meaning of this sentence could even register in my brain, Baba  interrupted His speech, sharply swiveled His head around, turned His face directly toward mine, and smiled. 
+
+I distinctly heard Him say, "Yes," though His lips didn't  form the word. 
+
+He kept His eyes glued on mine for 5-10 seconds. 
 
 Gradually the significance of His message sunk into me, and I smiled back, 
 mentally telling Him. Oh it's beautiful, Baba. Thank you. By the time He resumed 
 His speech, my soul was swimming in relief and joy. 
 
 After Baba left the room, several of the workers and Margis who noticed what 
-had happened came to me, and asked, "Why did Baba treat you like that today?" 
+had happened came to me, and asked:
 
-I told them what I had experienced, then added, "As to why I was graced with 
-this lesson today, I don't know. But I hope to remember forever that when I'rn 
-feeling alone and neglected, even then, especially then. He is giving me exactly 
-what I need." 
+"Why did Baba treat you like that today?" 
 
-Dada Shraddhananda's dry smile 
+{{< l a="Dharmavedananda">}}
+I don't know. But I hope to remember forever that when I'm feeling alone and neglected, even then, especially then. He is giving me exactly  what I need.
+{{< /l >}}
+
+
+## Dada Shraddhananda's dry smile 
 
 During an official workers' meeting at which Baba was not present, a serious 
 discussion was held concerning the twenty-eight departments of "Ananda Marga 
-General". Eventually we came to Tribal & Backward People's Welfare Section 
-(TBPW). 
+General". 
+
+Eventually we came to Tribal & Backward People's Welfare Section (TBPW). 
 
 One Dada from Berlin Sector said, "In my sector there are very few countries 
 having tribal people. Yet we receive general targets from Center applicable for all 
@@ -80,9 +87,13 @@ people."
 
 
 In that sober atmosphere, it took a few moments for us to catch his point. 
-Then we all roared with laughter. 45 
+Then we all roared with laughter.
 
-Wise, wiser, wisest 
+This entry is included to give a glimpse into a lesser known aspect of Dada Shraddha-nanda, who later became Ananda M arga president in 1990. He once told me that Baba personally taught  him many things on the science of humor, and that he was thinking to compose a booklet on the subject. Over the years, I occasionally asked him when he would write that booklet, but he never 
+had time. 
+
+
+## Wise, wiser, wisest 
 
 Patna. After completing the Delhi workers' meeting. Baba traveled to Patna, 
 and we four followed Him. We are still waiting for confirmation on the kapalika 
@@ -107,11 +118,7 @@ offices were increased by seven... rather... yesterday there were 186 block-leve
 tri-offices ... and today there are 194, ah ... excuse me 192 ... and regarding bi¬ 
 offices ..." 
 
-45 This entry is included to give a glimpse into a lesser known aspect of Dada Shraddha-nanda, 
-who later became Ananda M arga president in 1990. He once told me that Baba personally taught 
-him many things on the science of humor, and that he was thinking to compose a booklet on the 
-subject. Over the years, I occasionally asked him when he would write that booklet, but he never 
-had time. 
+
 
 Some months ago, 1 again asked him about writing that booklet, but he avoided responding. 
 
