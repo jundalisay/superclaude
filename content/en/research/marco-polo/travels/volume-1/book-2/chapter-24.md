@@ -11,17 +11,25 @@ weight: 24
 
 ## The First Central Bank in the World
 
-Now that I have told you in detail of the splendour of this City of the Emperor’s, I shall proceed to tell you of the Mint which he hath in the same city, in the which he hath his money coined and struck.
+<!-- Now that I have told you in detail of the splendour of this City of the ,  -->
 
-And in doing so I shall make manifest to you how it is that the Great Lord may well be able to accomplish even much more than I have told you, or am going to tell you, in this Book. For, tell it how I might, you never would be satisfied that I was keeping within truth and reason!
+I shall now tell you of the Mint in the Emperor’s city where he has his money coined and struck.
+
+This allows him to accomplish even much more than I have told you.
+
+<!-- , or am going to tell you, in this Book. For, tell it how I might, you never would be satisfied that I was keeping within truth and reason! -->
 
 The Emperor’s Mint is in this same City of Cambaluc.
 
-and the way it is wrought is such that you might say he hath the Secret of Alchemy in perfection, and you would be right! For he makes his money after this fashion.
+The way it is wrought is such that you might say he hath the Secret of Alchemy in perfection, and you would be right! 
 
-He makes them take of the bark of a certain tree, in fact of the Mulberry Tree, the leaves of which are the food of the silkworms,—these trees being so numerous that whole districts are full of them. 
+For he makes his money in the following way. 
 
-What they take is a certain fine white bast or skin which lies between the wood of the tree and the thick outer bark, and this they make into something resembling sheets of paper, but black. 
+He makes them take of the bark of the Mulberry Tree, the leaves of which are the food of the silkworms. These trees are so numerous that whole districts are full of them. 
+
+What they take is a certain fine white bast or skin which lies between the wood of the tree and the thick outer bark.
+
+This they make into something resembling sheets of paper, but black. 
 
 When these sheets have been prepared, they are cut up into pieces of different sizes.
 

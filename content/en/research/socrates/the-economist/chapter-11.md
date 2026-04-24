@@ -7,7 +7,7 @@ description: "My habit is to rise from bed betimes, when I may still expect to f
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 

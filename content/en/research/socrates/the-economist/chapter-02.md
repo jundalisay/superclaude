@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 c: "seagreen"
 description: "Wealth is anything that provides utilitiy and benefit for living"
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 
@@ -21,7 +21,7 @@ But perhaps, Socrates, you have already passed sentence on us—we are rich enou
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Socrates= I am rich enough already. But you, Critobulus, are poor, and at times I feel a downright compassion for you in my soul.
+I am rich enough already. But you, Critobulus, are poor, and at times I feel a downright compassion for you in my soul.
 {{< /l >}}
 
 {{< r a="Critobulus" >}}

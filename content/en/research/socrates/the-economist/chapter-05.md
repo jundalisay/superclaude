@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 c: "seagreen"
 description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 
@@ -107,3 +107,4 @@ I am sure you will have noted the behaviour of men engaged in war; how on the ve
 
 Be well assured (he added) the wise and prudent will pay service to the gods on behalf of moist fruits and dry, (25) on behalf of cattle and horses, sheep and goats; nay, on behalf of all their possessions, great and small, without exception. (25) "Every kind of produce, succulent (like the grape and olive) or dry (like wheat and barley, etc.)" 
 {{< /l >}}
+

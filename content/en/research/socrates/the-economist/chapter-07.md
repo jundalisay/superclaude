@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 c: "seagreen"
 description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 {{< l a="Socrates" >}}

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 c: "seagreen"
 description: "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 
@@ -155,4 +155,5 @@ I believe that a good wife, being as she is the partner in a common estate, must
 
 So with regard to the remaining arts and sciences, I think I can point out to you the ablest performers in each case, if you feel you have any further need of help. 
 {{< /l >}}
+
 

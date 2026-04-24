@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 c: "seagreen"
 description: "Socrates talks about excellent Persian policies and Cyrus the Great"
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 
@@ -120,7 +120,7 @@ It clearly shows that Cyrus took as great a pride in fostering the productive en
 
 
 {{< l a="Socrates" >}}
-Socrates= Yes, had Cyrus lived, he would have been the best of rulers.
+Yes, had Cyrus lived, he would have been the best of rulers.
 
 He marched to do battle for the sovereignty of Persia with his brother. Tens of thousands deserted the king for Cyrus.
 
@@ -145,3 +145,4 @@ Then Lysander, regarding earnestly the speaker, when he saw the beauty of his ap
 
 On hearing this," said Lysander to his friend, "I could not help seizing him by the hand and exclaiming, 'Cyrus, you have indeed good right to be a happy man, (22) since you are happy in being a good man.'"
 {{< /l >}}
+

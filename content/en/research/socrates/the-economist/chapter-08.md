@@ -7,7 +7,7 @@ description: "How different is an army well organised in battle order: a splendi
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icon: "/icons/Xenophon.jpg"
+icon: "Xenophon"
 ---
 
 
@@ -102,9 +102,7 @@ I boarded the great Phoenician merchantman as a sightseer. I saw <!-- , (15) and
 
 I need scarce remind you (he said, continuing his narrative) what 
 
-A ship needs a vast amount of wooden spars and cables (17) to get to moorings. 
-
-; or again, in putting out to sea; (18) you know the host of sails and cordage, rigging (19) as they call it, she requires for sailing.
+A ship needs a vast amount of wooden spars and cables (17) to get to moorings. Or again, in putting out to sea; (18) you know the host of sails and cordage, rigging (19) as they call it, she requires for sailing.
 
 The quantity of engines and machinery of all sorts she is armed with in case she should encounter any hostile craft; the infinitude of arms she carries, with her crew of fighting men aboard. 
 
