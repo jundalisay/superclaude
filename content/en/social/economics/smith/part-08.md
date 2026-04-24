@@ -72,3 +72,13 @@ Cash	1,000,000	Long Term Debt	5,000,000
 Fixed Assets	9,000,000	Equity	5,000,000
 Total Assets	10,000,000	Total Liabilities	10,000,000
 Table 2. The Assets (Value) and Liabilities (Trade) of a Company (Society) are precisely of the same value
+
+
+The current US-Iran War validates my model regarding the crisis years, which it predicted to begin in 2020 would get worse and culminate in a global conflict. The cause is the Negative Force called Yin or Shakti which regularly overpowers the Positive Force called Yang or Shiva, leading to wars, crisis, and the decline of society. This was most spectacular in the fall of the Roman Empire which was very Negative, compared to the Chinese and Indian civilizations which survived intact because of their knowledge of the Tao or Dharma. 
+
+The alarming thing is that not only are policymakers ignorant of the cause and so are unable to give a lasting solution, but that they are embracing ignorance which makes them naively hope that things will get better. They are not preparing for the escalation of the current conflicts and the worsening of global warming. In fact, the Iran war had undone and reversed key sustainable development goals of the United Nations for 2030 as Goal 1, 2, 6, 7 13, 16 
+
+most of the progress aiming for sabotaging the UN's 2030 agenda
+
+
+I update the 

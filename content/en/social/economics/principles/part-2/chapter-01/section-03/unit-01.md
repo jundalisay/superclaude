@@ -29,7 +29,7 @@ This valuation is based on one's feelings of need or desire for that thing. The 
 
 
 {{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
-The real price of everything.. is the toil and trouble of acquiring it ourselves. To save us from toil and trouble, we exchange goods or money [that other people want to aqcuire] for those other people to acquire it for us. 
+The real price of everything.. is the toil and trouble of acquiring it ourselves. To save us from toil and trouble, we exchange goods or money [that other people want to acquire] for those other people to acquire it for us. 
 {{< /q >}}
 
 This valuation manifests as the real price, which is different from the market price.
@@ -192,7 +192,8 @@ This is the same reasoning behind the Hindu varna system wherein a family of far
 To prevent this, one of the features of our proposed system is for the classification of careers to be done by artificial intellgence based on personality instead of heredity, so that society can have economic balance and higher quality of goods and services.
 
 
-{{< img alt="Sorting hat" src="https://ik.imagekit.io/sora/cards/sorting_oIPhW50VG.jpg" cap="ISAIAH suggests the best career or educational path for workers and students to align them with their natural Tao or Dharma" >}}
+{{< img alt="Sorting hat" src="https://ik.imagekit.io/sora/cards/sorting_oIPhW50VG.jpg" cap="Our system called Pantrypoints Match suggests the best career or educational path for workers and students to align them with their natural Tao or Dharma, similar to how the Sorting Hat in Harry Potter matches students to each Hogwarts House" >}}
+
 <!-- In theory, it would be able to predict who would be rich and who would be poor so that the societal imbalances that trigger jealousy can be prevented in advance in order to then preserve the happiness and unity of society. -->
 
 

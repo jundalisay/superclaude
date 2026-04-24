@@ -90,3 +90,15 @@ This is different from normal math which uses 'deltas'.
 - Those deltas compare the object with itself at different states.
 - This is because math focuses on the object itself, and not on the totality of the reality where that object is in.
 
+
+### The First Law of Vale
+
+This relationality is implemented in the First Law of Value of Supereconomics (Economic Superphysics):
+
+<b>V<sub>A1</sub> : V<sub>B1</sub> : V<sub>C1</sub> : V<sub>D1</sub> : V<sub>E1</sub></b> ..
+
+<ul>
+<li><b>V<sub>A1</sub></b>: value perception of identity A at time 1</li>
+<li><b>V<sub>B1</sub></b>: value perception of identity B at time 1</li>
+</ul>
+

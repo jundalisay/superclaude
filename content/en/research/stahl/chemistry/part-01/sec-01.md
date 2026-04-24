@@ -1,7 +1,7 @@
 ---
 heading: Section 1
 title: "The General Theory of Chemistry"
-# description: "The 12th Planet by Stitchin"
+description: ""
 c: "darkgoldenrod"
 weight: 4
 # date: 2022-04-12
@@ -80,44 +80,61 @@ the
 
 
 
-15. This makes ufe of the lefs principal, wh is local motion, as an inftrument, that by its effet applies and joins together things difpofed to co bine: which conjunction, either abfolutely or fpectively (by means of contiguous bodies) it ve ftrictly preferves. Some will have Fire to be t inftrumental caufe of this Motion; and not wit out reafon, if they diftinguifh between the Inftr ments of Art and Natures and between the mea of original Mixture and the fecondary, which Compofition.
+15. This makes use of the less principal, as local motion, as an instrument, that by its effect applies and joins together things diffused to combine.
 
-16. The chemical and phyfical Operations of A and Nature, differ as to time and place. Natur produces where it finds the Principles; but th Chemift collects his Principles, and produce where he pleases: Nature produces when th Principles meet one another, as it were by acci dent; but the Chemist brings these Principles to gether, at the time he wou'd produce: In short, Nature acts by the means of general motion; but the Artist applies particular motions to his Sub- jects, at a certain time, in a certain place, and fo can operate where and when he pleases; but Nature only when and where opportunity fpon- taneously allows.
+This conjunction it strictly preserves.
 
-17. If Water alone be acknowledged the first Principle, Fire alone may be properly supposed the inftrumental Efficient of Art.
+Some think that Fire is the cause of this Motion.
 
-18. The Form of Mixts is either generical, viz.? that of Mixture itself; or Specifical, viz. that of' Mixts fpecifically different. The Generical is the combination of Principles numerically and effen- tially different, tho' not neceffarily oppofites. The Specifical, being unknown to the understand- ing, depends upon the different figure, number and fituation of the material Principles. Thus,
-:f
-›mpounds
-The Structure of Matter. Part I. if, according to Becher, there were in reality four Principles, viz. Water, and three kinds of Earth, each capable of changing its fituation, with its change of place; as the number four added to four makes eight, and as eight may be transposed forty thousand three hundred and twenty ways, it follows, that four Principles, thus alter'd in fi tuation, and tranfpofed, might form forty thou fand three hundred and twenty Mixts, effentially differing from each other.
-19. But as, according to what was before ob ferved t, the primary Mixts muft of neceffity b very few, with regard to fuch a large number fo à pofteriori this hypothefis alfo, of four Prin ciples, is not ftrictly true. We may however ve ry well allow it as the most probable; and til time fhall make farther difcoveries, retain it fo the better explanation of chemical Operations an Phænomena.
+ <!-- and not wit out reafon, if they diftinguifh between the Inftr ments of Art and Natures and between the mea of original Mixture and the fecondary, which Compofition. -->
+
+16. The chemical and phyfical Operations of A and Nature, differ as to time and place. 
+
+Nature produces where it finds the Principles.
+
+But the Chemist:
+- collects his Principles
+- produces where he pleases
+
+Nature produces when the Principles meet one another by accident.
+
+But the Chemist brings these Principles together whenever he wants.
+
+In short:
+- Nature acts by general motion
+  - Nature only operates when and where opportunity spontaneously allows
+- the Artist applies particular motions to his Subjects, at a certain time and place
+  - This lets him operate where and when he pleases
+
+
+17. If Water alone were the first Principle, Fire alone could be the instrumental Efficient of Art.
+
+18. The Form of Mixtures is either:
+- generical, as the Mixture itself or
+  - The Generical is the combination of Principles numerically and effentially different, though not neceffarily oppofites.
+- specific as that of Mixts specifically different
+  - The Specifical, being unknown to the understand- ing, depends upon the different figure, number and fituation of the material Principles. 
+
+<!-- Thus, compounds  -->
+
+<!-- The Structure of Matter. Part I.  -->
+
+
+According to Becher, there were 4 Principles: Water, and three kinds of Earth.
+
+Each is capable of changing its situation, with its change of place.
+
+4 + 4 = 8. Eight may be transposed 40,320 ways. It follows, that 4 Principles, thus altered in situation, and transposed, might form 40,329 Mixtures, effentially differing from each other.
+
+19. But the primary Mixts must be very few, with regard to fuch a large number fo à pofteriori this hypothefis also, of four Prin ciples, is not ftrictly true. 
+
+We may however ve ry well allow it as the most probable; and til time fhall make farther difcoveries, retain it fo the better explanation of chemical Operations an Phænomena.
+
 20. We have already obferved, that a primar Mixt refults immediately from Principles; a fe condary one immediately from primary Mixt and an Aggregate from feveral mix'd or eve fimple matters together; without any regard t the quality of the component Atoms, whether i number, weight or measure II.
-21. We are farther to obferve of fecondar to be Mixts or Compounds, (which vulgarly pass unde
 
+21. We are farther to obferve of fecondar to be Mixts or Compounds, (which vulgarly pass unde ..
 
-
-
-
-According to Becher, there are 4 Principles: Water, and three kinds of Earth", each capable of changing its fituation, with its change of place; as the number four added to four makes eight, and as eight may be transposed forty thousand three hundred and twenty ways.
-
-It follows, that four Principles, thus alter'd in fi tuation, and tranfpofed, might form forty thou fand three hundred and twenty Mixts, effentially differing from each other.
-
-19. But as, according to what was before ob' ferved +, the primary Mixts muft of neceffity b very few, with regard to fuch a large number fo à pofteriori this hypothefis alfo, of four Prin ciples, is not ftrictly true. We may however ve ry well allow it as the moft probable; and til time fhall make farther difcoveries, retain it fo the better explanation of chemical Operations an Phænomena.
-
-20. A primar Mixt refults immediately from Principles; a fe condary one immediately from primary Mixt and an Aggregate from feveral mix'd or eve fimple matters together; without any regard t the quality of the component Atoms, whether i number, weight or measure II.
-
-21. We are farther to obferve of fecondar Mixts or Compounds, (which vulgarly pass unde
-
-Let it be here particularly obferved, that an Aggrega may confift of homogeneous particles, provided they are b numerous enough: which neither a Mixt, nor al Compou can do, for both thefe require that their component ato be he.erogeneous. Thus then according to Becher, Bo general is divided into Principles, Mixts and Compounds from a different combination of Mixes and Compour" ceed Decompounds and even Super-decompounds. I See §. 1. 9. 2. pag. 7. note.
-
-1. The Structure of Matter. the general name of Mixts) that as they à priori, fo they do alfo à pofteriori. They be known by this property, that they prefe and with cafe feparate into heterogeneous.par
-
-22. For fuch is the firmnefs of Mixture and riginal Mixts, that fome efteem it an impoffibi in Chemistry to feparate their Principles y judge that these can only be made appear by mentation: but Compounds, as they are caf diffolved, fo are they readily united by Art.
-
-23. An Aggregate is diftinguifh'd from an tom, in that an Atom is one numerical individual but an Aggregate feveral Atoms combined togeth by contiguity.
-24. The perplext Doctrine of Continuity an Contiguity may be cleared up by obferving tha Mixture is nothing but a Conjunction of Principl by Contiguity. For as Principles are fimple things and not compounded of others, they muft necef farily have their proper and determinate figure (whereon their Form depends) and probably their determinate fize, or the fmalleft dimenfion; fc that if any thing be taken from their bulk, they lofe fo much of their Effence. That, therefore, which is circumfcribed by a certain figure, under
-
-
+An Aggregate may confift of homogeneous particles, provided they are b numerous enough: which neither a Mixt, nor al Compou can do, for both thefe require that their component ato be he.erogeneous. Thus then according to Becher, Bo general is divided into Principles, Mixts and Compounds from a different combination of Mixes and Compour" ceed Decompounds and even Super-decompounds. I See §. 1. 9. 2. pag. 7. note.
 
 
 the general name of Mixts) that as they à priori, fo they do alfo à pofteriori. They be known by this property, that they prefe and with cafe feparate into heterogeneous.par
@@ -133,7 +150,6 @@ As being Corpufcles of the utmoft poffible phyfical Subtili- ty, and confequentl
 Hence there are but fimall hopes of refolving perfect Mixts by any Methods of the vulgar Chemiftry: but for this purpose re- courfe must be had to more powerful Inftruments; of which more in due time.
 
 to be bad in
-
 
 Pa tuation of Principles makes Contiguity: and ever affects this, affects Continuity alfo. when common Sulphur and Quick-filver, i compofition of Cinnabar, are moved from place and feparated, the effential Continu Cinnabar is destroyed, by the Deftruction o Contiguity. In fine, Contiguity regards the junction of Principles; but Continuity their c vation in this ftate, when join'd.
 
@@ -242,7 +258,3 @@ j-
 42. We are to obferve that fome of thefe Principles are found more copiously in fome parts of Animals than in others. They are the most grofs in the coarfe and folid parts, if taken in that form; but thinner and more abundant in the finer; which then contain the greatest quan- tity of all, when they are refolved by putrefac- tion, and treated by a combining operation.
 
 43. The groffer parts are, (1.) Bones, Hor and Hoofs. (2.) The next in order
-
-
-
-
