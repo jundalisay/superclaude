@@ -27,10 +27,14 @@ There the Brahmo devotees sang their devotional music. Vijay and the Brahmo devo
 MASTER (to Vijay, with a smile): "I was told that you had put up a 'signboard' here that people belonging to other faiths are not allowed to come in. Narendra, too, said to me:
 'You shouldn't go to the Brahmo Samiij. You had better visit Shivanath's house.'
 
-Master's catholicity
+
+
+## Master's Catholicity
 
 But I say that we are all calling on the same God. Jealousy and malice need not be. Some say that God is formless,and some that God has form. I say, let one man meditate on God with form if he believes in form, and let another meditate on the formless Deity if
-he does not believe in form. What I mean is that dogmatism is not good. It is not good
+he does not believe in form.
+
+What I mean is that dogmatism is not good. It is not good
 to feel that my religion alone is true and other religions are false. The correct attitude is
 this: My religion is right, but I do not know whether other religions are right or wrong,
 true or false. I say this because one cannot know the true nature of God unless one
@@ -38,13 +42,18 @@ realizes Him. Kabir used to say: 'God with form is my Mother, the Formless is my
 Which shall I blame? Which shall I praise? The two pans of the scales are equally heavy.'
 
 Hindus, Muslims, Christians, Saktas, Saivas, Vaishnavas, the Brahmajnanis of the time of the rishis, and you, the Brahmajnanis of modern times, all seek the same object. THE DURGA PUJA FESTIVALA mother prepares dishes to suit the stomachs of her children. Suppose a mother has
-608five children and a fish is bought for the family. She doesn't cook pilau or kalia for all of
-them. All have not the same power of digestion; so she prepares a simple stew for
+608five children and a fish is bought for the family. She doesn't cook pilau or kalia for all of them. 
+
+All have not the same power of digestion; so she prepares a simple stew for
 some. But she loves all her children equally.
+
 "Do you know my attitude? I love all the preparations of fish. I have a womanly nature
-(all laugh). I feel myself at home with every dish-fried fish, fish cooked with turmeric
+(all laugh). 
+
+I feel myself at home with every dish-fried fish, fish cooked with turmeric
 powder, pickled fish. And further, I equally relish rich preparations like fish-head, kalia,
 and pilau. (all laugh)
+
 "Do you know what the truth is? God has made different religions to suit different
 aspirants, times, and countries. All doctrines are only so many paths; but a path is by no
 means God Himself. Indeed, one can reach God if one follows any of the paths with
@@ -54,11 +63,16 @@ has set out with a sincere desire to visit Jagannath at Puri and by mistake has 
 north instead of south; then certainly someone meeting him on the way will tell him: 'My
 good fellow, don't go that way. Go to the south.' And the man will reach Jagannath
 sooner or later.
+
 "If there are errors in other religions, that is none of our business. God, to whom the
 world belongs, takes care of that. Our duty is somehow to visit Jagannath. (To the
 Brahmos) The view you hold is good indeed. You describe God as formless. That is fine.
 One may eat a cake with icing, either straight or sidewise. It will taste sweet either way.
-Dogmatism condemned
+
+
+## Dogmatism condemned
+
+
 "But dogmatism is not good. You have no doubt heard the story of the chameleon. A
 man entered a wood and saw a chameleon on a tree. He reported to his friends, 'I have
 seen a red lizard.' He was firmly convinced that it was nothing but red. Another person,
@@ -71,16 +85,21 @@ Him as without form only. That is one-sided. But never mind. If you know one of 
 aspects truly, you will be able to know His other aspects too. God Himself will tell you all
 about them. (Pointing to two or three Brahmo devotees) Those who come to your Samaj
 know both this gentleman and that."
+
 Encouragement to Vijay
+
 Vijay still belonged to the Sadharan Brahmo Samaj. He was a salaried preacher of that
 organization but could not obey all its rules and regulations. He mixed with those who
 believed in God with form. This was creating a misunderstanding between him and the
 Brahmo authorities. Many Brahmos disapproved of his conduct. The Master suddenly
 looked at Vijay and began to talk to him.
+
 MASTER (to Vijay, smiling): "I understand that they have been finding fault with you for
 mixing with those who believe in God with form. Is that true? He who is a devotee of
 609God must have an understanding that cannot be shaken under any conditions. He must
-be like the anvil in a blacksmith's shop. It is constantly being struck by the hammer; still
+be like the anvil in a blacksmith's shop. 
+
+It is constantly being struck by the hammer; still
 it is unshaken. Bad people may abuse you very much and speak ill of you; but you must
 bear with them all if you sincerely seek God. Isn't it possible to think of God in the midst
 of the wicked? Just think of the rishis of ancient times. They used to meditate on God in
@@ -128,7 +147,8 @@ these words Keshab and the others burst out laughing.
 "Never mind. One can realize God in the world, too, if only one is sincere. 'I' and 'mine'-
 that is ignorance. But, 'O God! Thou and Thine'-that is knowledge.
 
-Advice to householders
+
+## Advice to householders
 
 Live in the world like a maidservant in a rich man's house. She performs all the household duties, brings up her master's child, and speaks of him as 'my Hari'. But in
 her heart she knows quite well that neither the house nor the child belongs to her. 

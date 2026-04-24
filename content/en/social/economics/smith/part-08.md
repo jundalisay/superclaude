@@ -76,9 +76,10 @@ Table 2. The Assets (Value) and Liabilities (Trade) of a Company (Society) are p
 
 The current US-Iran War validates my model regarding the crisis years, which it predicted to begin in 2020 would get worse and culminate in a global conflict. The cause is the Negative Force called Yin or Shakti which regularly overpowers the Positive Force called Yang or Shiva, leading to wars, crisis, and the decline of society. This was most spectacular in the fall of the Roman Empire which was very Negative, compared to the Chinese and Indian civilizations which survived intact because of their knowledge of the Tao or Dharma. 
 
-The alarming thing is that not only are policymakers ignorant of the cause and so are unable to give a lasting solution, but that they are embracing ignorance which makes them naively hope that things will get better. They are not preparing for the escalation of the current conflicts and the worsening of global warming. In fact, the Iran war had undone and reversed key sustainable development goals of the United Nations for 2030 as Goal 1, 2, 6, 7 13, 16 
+The alarming thing is that not only are policymakers ignorant of the cause and so are unable to give a lasting solution, but that they are embracing ignorance which makes them naively hope that things will get better. They are not preparing for the escalation of the current conflicts and the worsening of global warming. In fact, the Iran war had undone and reversed 6 of the 17 sustainable development goals of the United Nations for 2030 as Goal 1, 2, 6, 7, 13, 16.
 
+Our proposed science of Supereconomics rebuilds economic science on the foundation of Dharma and the Tao, instead of selfishness, money, and materialism, through the Four Laws of Value similar to how Newton's Laws established Physics.
+
+Such goals are addressed dire
 most of the progress aiming for sabotaging the UN's 2030 agenda
 
-
-I update the 

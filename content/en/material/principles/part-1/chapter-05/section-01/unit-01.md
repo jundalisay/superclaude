@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:  
   /material/principles/part-1/chapter-05e
+  /material/principles/qoa
 ---
 
 

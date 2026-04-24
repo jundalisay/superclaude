@@ -1,167 +1,193 @@
 ---
 heading: "Chapter 27g"
-title: "Glory of God's name"
+title: "Futility of mere study of scriptures"
 c: "indigo"
 a: "M"
-weight: 245
+weight: 243
 author: M
 icon: M
-description: ""
+description: "Mother, I won't listen to any more argument. The rogues force it on me. What a bother! I shall shake it off."
 ---
 
 
+After a long time the Master regained partial consciousness of the world and sat down on the mat. Narendra finished his singing, and the Tānpura was put back in its place. 
 
-The conversation turned to the glory of God's name.
+{{< l a="Ramakrishna" >}}
+"Mother, tell me what this is. They want someone to extract the butter for them and hold it to their mouths. They won't throw the spiced bait into the lake. 
 
-BHAVANATH: "I feel such relief while chanting the name of Hari."
+They won't even hold the fishing-rod. Someone must catch the fish and put it into their hands! How troublesome! 
 
-MASTER: "He who relieves us of sin is Hari. He relieves us of our three afflictions in the
-world. Chaitanya preached the glory of Hari's name; so it must be good. You see, he was
-such a great scholar, and an Incarnation too. Since he preached that name, it must be
-good. 
+Mother, I won't listen to any more argument. The rogues force it on me. What a bother! I shall shake it off. 
 
-(Smiling) Once some peasants were invited to a feast. They were asked if they
-would eat a preparation of hog plum. They answered: 'You may give it to us if the
-gentlemen have eaten it. If they enjoyed it, then it must be good.' 
+God is beyond the Vedas and their injunctions. Can one realize Him by studying the scriptures, the Vedas, and the Vedānta? 
+{{< /l >}}
 
-(All laugh.)
 
-(To the Mukherji brothers) "I should like to visit Shivanath; I won't have to hire a
-carriage if you take me in yours."
+{{< l a="Ramakrishna" >}}
+(To Narendra) Do you understand this? The Vedas give only a hint."
+{{< /l >}}
 
-MUKHERJI: "All right, sir, we shall set a day."
 
-MASTER (to the devotees): "Do you think the Brahmos will like me? They criticize those
-who believe in God with form."
+Narendra wanted the Tānpura again.
 
-Mahendra Mukherji wanted to go on a pilgrimage. He told Sri Ramakrishna so.
+{{< l a="Ramakrishna" >}}
+I want to sing.
+{{< /l >}}
 
-MASTER (smiling): "How is that? Do you want to go when the sprout of divine love has
-hardly corne up? First comes the sprout, then the tree, then the fruit. We are so happy
-to have you here to talk to."
 
-MAHENDRA: "I feel like visiting the holy places a little. I shall return soon."
+He was still in an ecstatic mood and sang:
 
-It was about five o'clock in the afternoon. Sri Ramakrishna left his room. The devotees
-were walking in the garden. Many of them were about to leave.
+Mother, this is the grief that sorely grieves my heart,
+That even with Thee for Mother, and though I am wide awake,
+There should be robbery in my house. . .
 
-The Master was conversing with Hazra on the north verandah. They were talking of
-Narendra's frequent visits to Annada, the eldest son of the Guhas.
+{{< l a="Ramakrishna" >}}
+"Mother, why do You make me argue?"
+{{< /l >}}
 
-HAZRA: "I hear that Annada is now practising austerity. He lives on very little food and
-eats rice once every four days."
+He sang again:
 
-MASTER: "Is that so? 'Who knows? One may realize God even by means of a religious
-garb.'"
+Once for all, this time, I have thoroughly understood;
+From One who knows it well, I have learnt the secret of bhava…
 
-HAZRA: "Narendra sang the Āgamani ."
+{{< l a="Ramakrishna" >}}
+"I am quite conscious."
+{{< /l >}}
 
-MASTER (eagerly): "How did he sing it?"
+But he was still groggy with divine fervour. He sang once more:
 
-Kishori stood close by. The Master said to him, "Are you well?"
+I drink no ordinary wine, but Wine of Everlasting Bliss,
+As I repeat my Mother Kāli's name;
+It so intoxicates my mind that people take me to be drunk!
 
-A little later the Master was standing on the west porch. Since it was autumn, he had put
-on a flannel shirt dyed with ochre. He asked Narendra, "Is it true that you sang the
-Āgamani ?"
 
-Accompanied by Narendra and M., Sri Ramakrishna walked to the embankment of the
-Ganges.
+## Futility of reasoning
 
-Narendra sang the Āgamani :
+{{< l a="Ramakrishna" >}}
+Mother, I won't listen to any more argument.
+{{< /l >}}
 
-Tell me, my Uma, how have you fared, alone in the Stranger's
-house?
 
-People speak so much ill of us! Alas, I die of shame!
+Narendra sang:
 
-My Son-in-law smears His body with ashes from the funeral pyre
-And roams about in great delight;
-You too, along with Him, cover with ash your golden skin.
-He begs the food that He eats! How can I bear it, being your
-mother?
+O Mother, make me mad with Thy love!
+What need have I of knowledge or reason? . . .
 
-This time, when He returns to claim you, I shall say to Him,
-"My daughter Umā is not at home."
+{{< l a="Ramakrishna" >}}
+(with a smile): "O Mother, make me mad! God cannot be realized through knowledge and reasoning, through the arguments in the scriptures."
+{{< /l >}}
 
-Sri Ramakrishna stood listening to the song and went into samādhi. The sun was still
-above the horizon as the Master stood on the embankment in the ecstatic mood. On one
-side of him was the Ganges, flowing north with the flood-tide. Behind him was the flower
-garden. 
+He had been pleased with the singing of the musician from Konnagar and said to him humbly: "Please sing about the Divine Mother. Please — one song."
 
-To his right one could see the nahabat and the Panchavati. Narendra stood by
-his side and sang. Gradually the darkness of evening fell upon the earth.
-After Narendra and several other devotees had saluted the Master and left for Calcutta,
-Sri Ramakrishna returned to his room. He was absorbed in meditation on the Divine
+{{< r a="Musician" >}}
+"You must excuse me, sir."
+{{< /r >}}
 
-Mother and was chanting Her holy name.
+{{< l a="Ramakrishna" >}}
+(bowing with folded hands): "No, sir. I can enforce this demand."
+{{< /l >}}
 
-## Master at Jadu's garden
+Saying this, Sri Ramakrishna sang a few lines from a kirtan, assuming the attitude of a gopi:
 
-Jadu Mallick had arrived at his garden house next to the Kāli temple. He sent for the
-Master. Adhar, too, had arrived from Calcutta, and he saluted Sri Ramakrishna. The
-Master asked Lātu to light the lantern and accompany him to Jadu's garden.
+Radha has every right to say it;
+She has kept awake for Krishna.
+She has stayed awake all night,
+And she has every right to be piqued.
 
-MASTER (to M.): "Why didn't you bring Naran with you?"
+Then he said to the musician: 
 
-M: "Shall I come with you?"
+{{< l a="Ramakrishna" >}}
+"My dear sir, you are a child of the Divine Mother. She dwells in all beings. Therefore I have every right to enforce my demand. A farmer said to his guru, 'I shall get my mantra from you by beating you, if I have to.'"
+{{< /l >}}
 
-MASTER: "Do you want to come? Adhar and the others are here. All right, you may
-come. Will the Mukherjis also come with us? (To the Mukherjis) Come along. Then we
-can leave Jadu-Mallick quickly."
 
-The Master went to Jadu's drawing-room. It was a well furnished room, with everything
-spick and span. The lamps were lighted. Jadu was sitting with his friends and was
-playing with the children. Servants were in attendance. Smiling, Jadu welcomed Sri
-Ramakrishna, but he did not get up. He treated the Master as a friend of long
-acquaintance.
+{{< r a="Musician" >}}
+(smiling): "By a shoe-beating?"
+{{< /r >}}
 
-Jadu was a devotee of Gaurānga. He had just seen a performance of Gaurānga's life at
-the Star Theatre and told the Master about it. The Master listened to his account joyfully
-and played with the children. M. and the Mukherji brothers sat near him. 
+{{< l a="Ramakrishna" >}}
+(smiling): "No! I won't go that far."
+{{< /l >}}
 
-In the course of
-the conversation Sri Ramakrishna told Jadu that Adhar had not been able to secure the post of vice-chairman of the Calcutta Municipality. Jadu said that Adhar was still young
-and could try for it again. At his request the Master sang a few songs about Gaurānga.
+Again in an abstracted mood Sri Ramakrishna said: 
 
-After the music was over, the Mukherjis were about to take their leave. The Master, too, was ready to go, but he was in an ecstatic mood. On coming to the porch he went into samādhi. The gate-keeper of the garden house was a pious man. Now and then he invited the Master to his house and fed him. Sri Ramakrishna stood there in samādhi and the gate-keeper fanned him with a large fan. Ratan, the manager of the garden house, saluted the Master, and Sri Ramakrishna, returning to the consciousness of the relative world, greeted the manager and the gate-keeper, saying, "Narayana". 
+{{< l a="Ramakrishna" >}}
+"The beginner, the struggling, the perfect, and the supremely perfect. Which are you — perfect or supremely perfect? Come along! Sing for us."
+{{< /l >}}
 
-Then,  accompanied by the devotees, he went back to the temple- garden through the main gate.
 
-MASTER (to the Mukherjis, pointing to M.): "Please visit him often."
+The musician complied. He sang just a melody.
 
-MUKHERJI (smiling): "Yes, henceforth he will be our teacher."
+{{< l a="Ramakrishna" >}}
+"My dear sir, that too makes me happy."
+{{< /l >}}
 
-MASTER: "It is the nature of the hemp-smoker to make merry in the company of another
-hemp-smoker. He will not talk even to an amir, but he will embrace a wretched hemp-
-smoker if he happens to meet one." (All laugh.)
+The musician then sang a song. When the music was over, the devotees from Konnagar saluted the Master and took their leave.
 
-It was about nine o'clock. The Mukherji brothers saluted the Master and went away.
-Adhar and M. sat on the floor in the Master's room while he talked to Adhar about Rakhal
+The sadhaka bowed before him with folded hands and said, "Holy man, let me say good-bye."
 
-## His worry over Rakhal 's illness
+Sri Ramakrishna, still in an ecstatic mood, was talking to the Divine Mother.
 
-Rakhal was staying in Vrindāvan with Balarām. The Master had learnt from a letter
-about Rakhal 's illness. He was so worried about him that two or three days earlier he
-had wept before Hazra like a child. Adhar had sent a registered letter to Rakhal but had
-received no reply.
+{{< l a="Ramakrishna" >}}
+"Mother, is it You or I? Do I do anything? No, no! It is You. Was it You who heard the arguments all this time, or was it I? No, not I. It was You."
+{{< /l >}}
 
-MASTER (to Adhar): "Naran has received a letter from Vrindāvan. Why haven't you
-received a reply to yours?"
+Sri Ramakrishna became conscious of the outer world and began to converse with Narendra, Bhavanath, and the other devotees.
 
-ADHAR: "I haven't yet heard from Vrindāvan."
+They were talking about the sadhaka.
 
-MASTER: "M. has also received a letter from Vrindāvan."
+{{< r a="Bhavanath" >}}
+(smiling): "What kind of man is he?"
+{{< /r >}}
 
-They began to talk of Sri Ramakrishna's seeing a play, at the Star Theatre, about the life
-of Cauranga.
+{{< l a="Ramakrishna" >}}
+"He is a tamasic devotee."
+{{< /l >}}
 
-MASTER (smiling): "Jadu told me that one could see the play very well from a one-rupee
-seat. Very cheap! Once we were talking about going to Panihati. Jadu wanted me to go
-in a country boat with a whole crowd of passengers. (All laugh.)
+{{< r a="Bhavanath" >}}
+"He can certainly recite Sanskrit verses."
+{{< /r >}}
 
-"Formerly he liked to hear a little about God. But I don't see Jadu much nowadays. He is
-always surrounded by flatterers. They have spoiled him. He is a man of a very calculating nature. I would no sooner set foot in his house than he would ask me,. 
+{{< l a="Ramakrishna" >}}
+"Once I said to a man about a sādhu: 'He is a rajasic sādhu. Why should one give him food and other presents?'
 
-'How much is the carriage hire?' I would say: 'You don't have to bother about it. You may give
-two and a half rupees.' That would keep him quiet." (All laugh.)
-It was late. Adhar was about to depart. The Master asked M. to bring Naran with him.
+At this another sādhu taught me a lesson by saying to me: 'Don't say that. There are three classes of holy men: sattvic, rajasic, and tamasic.' Since that day I have respected holy men of all classes."
+{{< /l >}}
+
+{{< r a="Narendra" >}}
+(smiling): "What? Is it like the 'elephant God'? All, indeed, are God."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+(smiling): "It is God Himself who sports in the world as both vidyā and avidyā. Therefore I salute both. It is written in the Chandi: 
+
+'The Divine Mother is the good fortune of the blessed and the ill fortune of the unlucky.' (To Bhavanath) Is that mentioned in the Vishnu Purana?"
+{{< /l >}}
+
+{{< r a="Bhavanath" >}}
+(smiling): "I don't know, sir. The devotees from Konnagar did not understand your samādhi and were about to leave the room."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"Who was it that asked them to remain?"
+{{< /l >}}
+
+{{< r a="Bhavanath" >}}
+(smiling): "It was I."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"My child, you are equally good in bringing people here and in driving them away."
+{{< /l >}}
+
+The conversation turned to the argument that Narendra had had with the musician from Konnagar.
+
+{{< r a="Mukherji" >}}
+"Narendra didn't spare him."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"That's right. One needs such grit. This is called the influence of tamas on sattva. Must a man listen to everything another man says? Should one say to a prostitute, 'All right, you may do whatever you like'? Must one listen to her? 
+
+At one time Radha was piqued. A friend said, 'Her ego has been roused.' Brinde, another friend, said: 'Whose is this ego? Her ego belongs to Krishna alone. She is proud in the pride of Krishna.'"
+{{< /l >}}

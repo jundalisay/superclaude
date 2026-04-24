@@ -1,139 +1,198 @@
 ---
-heading: "Chapter 27f"
-title: "Futility of mere study of scriptures"
+heading: "Chapter 27e"
+title: "The Sadhaka from Konnagar"
 c: "indigo"
 a: "M"
-weight: 243
+weight: 241
 author: M
 icon: M
-description: ""
+description: "Sir, what is the way?"
 ---
 
 
 
-After a long time the Master regained partial consciousness of the world and sat down on
-the mat. Narendra finished his singing, and the Tānpura was put back in its place. The
-Master was still in a spiritual mood and said: "Mother, tell me what this is. They want
-someone to extract the butter for them and hold it to their mouths. They won't throw the
-spiced bait into the lake. They won't even hold the fishing-rod. Someone must catch the
-fish and put it into their hands! How troublesome! Mother, I won't listen to any more
-argument.
+Pointing to the sadhaka from Konnagar, a devotee said to the Master:
 
-The rogues force it on me. What a bother! I shall shake it off. God is beyond the Vedas
-and their injunctions. Can one realize Him by studying the scriptures, the Vedas, and the
-Vedānta? (To Narendra) Do you understand this? The Vedas give only a hint"
-Narendra wanted the Tānpura again. The Master said, "I want to sing." He was still in an
-ecstatic mood and sang:
+{{< r a="Devotee" >}}
+"Sir, he has come to visit you. He has some questions to ask."
+{{< /r >}}
 
-Mother, this is the grief that sorely grieves my heart,
-That even with Thee for Mother, and though I am wide awake,
-There should be robbery in my house. . .
+The sadhaka was seated erect, his chin up.
 
-The Master said, "Mother, why do You make me argue?" He sang again:
-Once for all, this time, I have thoroughly understood;
-From One who knows it well, I have learnt the secret of
-bhava…
+{{< r a="Sadhaka" >}}
+"Sir, what is the way?"
+{{< /r >}}
 
-The Master said, "I am quite conscious." But he was still groggy with divine fervour. He
-sang once more:
+{{< l a="Ramakrishna" >}}
+"Faith in the guru's words. One attains God by following the guru's instructions step by step. It is like reaching an object by following the trail of a thread."
+{{< /l >}}
 
-I drink no ordinary wine, but Wine of Everlasting Bliss,
-As I repeat my Mother Kāli's name;
-It so intoxicates my mind that people take me to be drunk!...
+{{< r a="Sadhaka" >}}
+"Is it possible to see God?"
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"He is unknowable by the mind engrossed in worldliness. One cannot attain God if one has even a trace of attachment to 'woman and gold'. 
+
+But He is knowable by the pure mind and the pure intelligence — the mind and intelligence that have not the slightest trace of attachment. Pure Mind, Pure Intelligence, Pure Ātman are one and the same thing."
+{{< /l >}}
+
+{{< r a="Sadhaka" >}}
+"But the scriptures say, 'From Him words and mind return baffled.' He is unknowable by mind and words."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"Oh, stop! One cannot understand the meaning of the scriptures without practising spiritual discipline. 
+
+What will you gain by merely uttering the word 'siddhi'? 
+
+The pundits glibly quote the scriptures; but what will that accomplish? 
+
+A man does not become intoxicated even by rubbing siddhi on his body; he must swallow it. What is the use of merely repeating, 'There is butter in the milk'? Turn the milk into curd and churn it. Only then will you get butter."
+{{< /l >}}
+
+{{< r a="Sadhaka" >}}
+"You talk about churning butter. But you too are quoting the scriptures."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"What will one gain by merely quoting or hearing the scriptures? One must assimilate them. 
+
+The almanac makes a forecast of the rainfall for the year, but you won't get a drop by squeezing its pages."
+{{< /l >}}
+
+{{< r a="Sadhaka" >}}
+"You talk about churning butter. Have you done it yourself?"
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"You don't have to bother about what I have or haven't done. Besides, it is very difficult to explain these things to others.
+
+Suppose someone asks you, 'What does ghee taste like?' Your answer will be, 'Ghee tastes like ghee.'
+
+"To understand these things one needs to live with holy men, just as to understand the pulse of bile, of phlegm, and so on, one needs to live with a physician."
+{{< /l >}}
+
+{{< r a="Sadhaka" >}}
+"There are some people who are irritated by others' company."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"That happens only after the attainment of Knowledge, after the realization of God. Shouldn't a beginner live in the company of holy men?"
+{{< /l >}}
+
+The sadhaka sat in silence a few moments.
+
+Then he said with some irritation: 
+
+{{< r a="Sadhaka" >}}
+"Please tell me whether you have realized God either directly or intuitively. You may answer me if you are able, or you may keep silent if you wish." 
+{{< /r >}}
+
+The Master said with a smile: 
+
+{{< l a="Ramakrishna" >}}
+"What shall I say? One can only give a hint."
+{{< /l >}}
 
 
-## Futility of reasoning
+{{< r a="Sadhaka" >}}
+"Then tell us that much."
+{{< /r >}}
 
-Sri Ramakrishna had said, "Mother, I won't listen to any more argument."
+Narendra was going to sing. He said:
+
+{{< l a="Narendra" >}}
+"No one has brought a pakhoaj."
+{{< /l >}}
+
+
+{{< r a="The Younger Gopal" >}}
+"Mahimacharan has one."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+(interrupting): "No, we don't want anything of his here."
+{{< /l >}}
+
+A devotee from Konnagar sang a song. Every now and then Sri Ramakrishna glanced at the sadhaka. 
+
+The singer and Narendra became engaged in a furious discussion about musical technique. The sadhaka said to the singer:
+
+{{< r a="Sadhaka" >}}
+"What is the use of such discussions?"
+{{< /r >}}
+
+Referring to another man who had joined in the discussion, Sri Ramakrishna said to the sadhaka, 
+
+{{< l a="Ramakrishna" >}}
+"Why didn't you scold him, too?" 
+{{< /l >}}
+
+
+It could be seen that the sadhaka was not on friendly terms with his companions from Konnagar.
+
 Narendra sang:
 
-O Mother, make me mad with Thy love!
-What need have I of knowledge or reason? . . .
+O Lord, must all my days pass by so utterly in vain?
+Down the path of hope I gaze with longing, day and night. . . .
+
+The sadhaka closed his eyes in meditation as he listened to the song. It was four o'clock in the afternoon. The rays of the setting sun fell on his body. Sri Ramakrishna quickly opened an umbrella and placed it near the door so that the sun might not disturb the sadhaka.
+
+Narendra sang again:
+
+How shall I call on Thee, O Lord, with such a stained and worldly mind?
+Can a straw remain unharmed, cast in a pit of burning coals?
+Thou, all goodness, art the fire, and I, all sin, am but a straw:
+How shall I ever worship Thee?
+
+The glory of Thy name, they say, redeems those even past redeeming;
+Yet, when I chant Thy sacred name, alas! my poor heart quakes with fright.
+I spend my life a slave to sin; how can I find a refuge, then,
+O Lord, within Thy holy way?
+
+In Thine abounding kindliness, rescue Thou this sinful wretch;
+Drag me off by the hair of my head and give me shelter at Thy feet.
+
+Again he sang:
+
+Sweet is Thy name, O Refuge of the humble!
+It falls like sweetest nectar on our ears
+And comforts us, Beloved of our souls!
+The priceless treasure of Thy name alone
+Is the abode of Immortality,
+
+And he who chants Thy name becomes immortal.
+Falling upon our ears, Thy holy name
+Instantly slays the anguish of our hearts,
+Thou Soul of our souls, and fills our hearts with bliss!
+
+As Narendra sang the line, "And he who chants Thy name becomes immortal", the Master went into samādhi. 
+
+At first his fingers, especially the thumbs, began to tremble. The devotees from Konnagar had never seen the Master in samādhi. Seeing him silent, they were about to leave the room. 
+
+Bhavanath said to them: 
+
+{{< r a="Bhavanath" >}}
+"Why are you going away? This is his samādhi." 
+{{< /r >}}
 
 
-Sri Ramakrishna said with a smile: "O Mother, make me mad! God cannot be realized
-through knowledge and reasoning, through the arguments in the scriptures." He had
-been pleased with the singing of the musician from Konnagar and said to him humbly:
-"Please sing about the Divine Mother. Please - one song."
+The devotees resumed their places.
 
-MUSICIAN: "You must excuse me, sir."
+Narendra sang:
 
-MASTER (bowing with folded hands): "No, sir. I can enforce this demand."
-Saying this, Sri Ramakrishna sang a few lines from a kirtan, assuming the attitude of a
-gopi:
+I have laboured day and night
+To make Thy seat within my heart;
+Wilt Thou not be kind to me,
+O Lord of the World, and enter there?
 
-Radha has every right to say it;
-She has kept awake for Krishna.
-She has stayed awake all night,
-And she has every right to be piqued.
+Sri Ramakrishna, still in the ecstatic mood, came down from his couch to the floor and sat by Narendra. The beloved disciple sang again:
 
-Then he said to the musician: "My dear sir, you are a child of the Divine Mother. She
-dwells in all beings. Therefore I have every right to enforce my demand. A farmer said to
-his guru, 'I shall get my mantra from you by beating you, if I have to.' "
+In Wisdom's firmament the moon of Love is rising full,
+And Love's flood-tide, in surging waves, is flowing everywhere.
+O Lord, how full of bliss Thou art! Victory unto Thee! . . .
 
-MUSICIAN (smiling): "By a shoe-beating?"
+As Narendra sang the last line, Sri Ramakrishna stood up, still absorbed in samādhi.
 
-MASTER (smiling): "No! I won't go that far."
 
-Again in an abstracted mood Sri Ramakrishna said: "The beginner, the struggling, the
-perfect, and the supremely perfect. Which are you―perfect or supremely perfect? Come
-along! Sing for us."
-
-The musician complied. He sang just a melody.
-
-MASTER: "My dear sir, that too makes me happy."
-The musician then sang a song. When the music was over, the devotees from Konnagar
-saluted the Master and took their leave.
-
-The sadhaka bowed before him with folded hands and said, "Holy man, let me say good-
-bye."
-
-Sri Ramakrishna, still in an ecstatic mood, was talking to the Divine Mother.
-
-MASTER: "Mother, is it You or I? Do I do anything? No. no! It is You.
-Was it You who heard the arguments all this time, or was it I? No, not I. It was You.".
-Sri Ramakrishna became conscious of the outer world and began to converse with
-Narendra, Bhavanath, and the other devotees.
-
-They were talking about the sadhaka.
-
-BHAVANATH (smiling): "What kind of man is he?"
-
-MASTER: "He is a tamasic devotee."
-
-BHAVANATH: "He can certainly recite Sanskrit verses."
-
-MASTER: "Once I said to a man about a sādhu: 'He is a rajasic sādhu. Why should one
-give him food and other presents?' At this another sādhu taught me a lesson by saying
-to me: 'Don't say that. There are three classes of holy men: sattvic, rajasic, and
-tamasic.' Since that day I have respected holy men of all classes."
-
-NARENDRA (smiling): "What? Is it like the 'elephant God'? All, indeed, are God."
-
-MASTER (smiling): "It is God Himself who sports in the world as both vidyā and avidyā.
-
-Therefore I salute both. It is written in the Chandi: 'The Divine Mother is the good
-fortune of the blessed and the ill fortune of the unlucky.' (To Bhavanath) Is that
-mentioned in the Vishnu Purana?"
-
-BHAVANATH (smiling): "I don't know, sir. The devotees from Konnagar did not
-understand your samādhi and were about to leave the room."
-
-MASTER: "Who was it that asked them to remain?"
-
-BHAVANATH (smiling): "It was I."
-
-MASTER: "My child, you are equally good in bringing people here and in driving them
-away."
-
-The conversation turned to the argument that Narendra had had with the musician from
-Konnagar.
-
-MUKHERJI: "Narendra didn't spare him."
-
-MASTER: "That's right. One needs such grit. This is called the influence of tamas on
-sattva. Must a man listen to everything another man says? Should one say to a
-prostitute, 'All right, you may do whatever you like'? Must one listen to her? At one time
-Radha was piqued. A friend said, 'Her ego has been roused.' Brinde, another friend, said:
-'Whose is this' ego? Her ego belongs to Krishna alone. She is proud in the pride of
-Krishna.' "
