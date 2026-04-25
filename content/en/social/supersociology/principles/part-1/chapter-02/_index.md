@@ -2,9 +2,9 @@
 heading: "Chapter 2"
 title: "Aspects of Society"
 # date2022-01-31
-image: /photos/socio.jpg
+image: /photos/econ/singer.jpg
 weight: 4
-description: "We list the principles of Supersociology"
+description: ""
 c: "steelblue"
 ---
 

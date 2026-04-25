@@ -16,6 +16,10 @@ aliases:
 
 
 
+
+The Usufruct Economy and Net Domestic Product
+
+<!-- 
 ## Third law
 
 The Usufruct Economy makes private property temporary and conditional, instead of absolute.
@@ -28,3 +32,4 @@ This prevents an economy from being static.
 Grain-bsed Valuation and Net Domestic Product
 
 
+ -->

@@ -1,6 +1,6 @@
 ---
+heading: "Section 4"
 title: "The Development of Society"
-heading: "Chapter 2b"
 date: 2019-12-17
 weight: 18
 image: "/photos/tech/phone.jpg"

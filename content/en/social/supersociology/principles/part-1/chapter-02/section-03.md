@@ -4,8 +4,8 @@ heading: Section 3
 # 2b
 date: 2024-11-17
 weight: 14
-image: "/graphics/social/lang.png"
-description: "Societies develop in different stages"
+image: "/photos/econ/singer.jpg"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -21,5 +21,3 @@ This will help us get into the gravitational signature or essence of each societ
 This will then help us create the best social policies for criminal law, civil law, economics, religion, education, conscription, diet, holidays and events, etc. 
 
 This is known as social engineering. 
-
-
