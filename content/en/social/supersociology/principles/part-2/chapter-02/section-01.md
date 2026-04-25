@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "The Culture of Society"
+title: "The Worker Culture"
 date: 2019-12-17
 # date: 2021-06-29
 weight: 6

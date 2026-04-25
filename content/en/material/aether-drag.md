@@ -25,7 +25,12 @@ Earth or Matter | Strong Force
 
 ## The Subjectivity of the Aether
 
-This model is confusing for materialists because it makes the aether as the supreme Element and matter or mass as the lowest and most inferior.
+The aether model is confusing for materialists because they believe that matter is the supreme Element.
+- Extreme materialists like Einstein regard the aether as insignificant.
+
+In reality, the aether is supreme, and matter is insignificant, since physicality is an illusion.
+
+ <!-- makes the aether as the  and matter or mass as the lowest and most inferior. -->
 
 We define the **aether** as the **substance** of ideas, feelings, and the abstract minds that have those ideas and feelings. 
 
@@ -97,12 +102,19 @@ So why do physicists say that it debunked the aether? -->
 
 
 
-Einstein only really doubled down on the non existence of the aether, called the 'aether drag', when he had to formalize General Relativity. 
+<!-- Einstein only really doubled down on the non existence of the aether, called the 'aether drag', when he had to formalize General Relativity. 
+
+ -->
+
+Physicists stupidly think that Einstein successfully debunked the aether, when he wrote:
 
 
 {{< q a="Einstein" c="Relativity" >}}
 There is no such thing as a “specially favoured” (unique) coordinate system that allows the æther-idea. Hence, there can be no æther-drift nor any experiment with which to demonstrate it.
-{{< /q >}}
+{{<  /q >}}
+
+But since the aether is really the supreme Element, then all he really did was stop the progress of Physics. 
+
 
 
 ## The Huygens Ether, Frensel Ether, and Descartes Aether are Different
@@ -112,13 +124,20 @@ Einstein's statement shows the confusion of physicists on the aether idea.
 Aether | Superphysics Equivalent
 --- | ---
 Descartes | Aether
-Huygens | Pure Spacetime via Light
+Huygens and Leibniz | Pure Spacetime via Light
 Fresnel | Spacetime in Material Layer via Light
 Stokes | Spacetime in Material Layer via Matter
 Maxwell | Spacetime in Radiant Layer via Light
 Helmholtz and Kelvin | Aetherspace in Material Layer via Heat
 
-As you can see there were many aether ideas. The modern luminiferous aether theory is from Fresnel who described light moving in a crystal, making it variant and directional. 
+As you can see, there were many aether ideas which is really just a representative idea or variable to something invisible that causes an real phenomenon.
+
+{{< q a="Leibniz" >}}
+Let there be assumed at the beginning a Solar Globe, a Terrestrial Globe, and an intermediate space which is at rest. This space we shall call aether.
+{{< /q >}}
+
+
+The modern luminiferous aether theory is from Fresnel who described light moving in a crystal, making it variant and directional. 
 
 {{< q a="Fresnel" c="Memoir On The Diffraction Of Light, Section 2" >}}
 The intensity of light is proportional to the square of the speeds of the particles. The intensity of vibration, on the other hand, is the speed of an ether particle during its oscillation.
@@ -141,7 +160,7 @@ Fresnel's aether is based on matter and so it is variant. This applies to light 
 
 Unlike rotating matter, a spatial vortex spins through time in independent moments. This makes it subjective or invariant. 
 
-Physisists then used this invariance to create failed gauge theories:
+Physicists then used this invariance to create failed gauge theories:
 
 {{< youtube UBNU-wKk5Mg >}}
 
@@ -180,6 +199,12 @@ The movement of light coming from the luminous body is propagated through what I
 <!-- **Huygen's ether is actually Descartes' 2nd Element** -- the invisible space-time particles that create vortices. These are consistent with malleable spacetime that warps according to mass.  -->
 
 {{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 5th Element. The 2nd Element is also virtual but not totally aethereal as we can clearly see the space around us (the aetherspace and timespace are aethereal)" >}}
+
+
+The original name of Descartes for space media or space particles is "subtle air" as the 2nd Element which we can equate to "virtual air" as opposed to physical (material) air which is really the 3rd Element or matter.
+- This is consistent with Timeaus' virtual air, Hindu virtual air or vayu, and Chinese virtual air as chi.
+
+The aether name is reserved for the 5th Element which is called aether by Timaeus, akasha by Hindus, and water by Taoists.
 
 
 <!-- The 2nd Element, as empty space, propagates light, while the 3rd Element, as air or matter, propagates sound. -->
@@ -278,3 +303,17 @@ We fix this with [Cartesian Relationality](/material/fallacies/general-relativit
 
 {{< n n="In Dioptrique, Descartes already explained that the nature of light is determined by its light source (which is light-vortex) and not the space that it goes through. Therefore it is invariant according to its source." >}}
  -->
+
+
+ ## Our Naming Solution: Crude verus Subtle Aether
+
+ Since the aether name has been thrown around by physicists from Hugyens to Leibniz to Fresnel to Einstein, it would be futle to rename it as "virtual air" which is its traditional name.
+
+ Instead, we stick with the aether name, but add a qualifier as it being the **crude** aether, as opposed to the **pure** aether as the 5th Element. 
+ - The crude aether is the stuff of empty space which leads to vacuum energy, black holes, dark matter
+ - The pure aether is the stuff of the soul or abstrct mind that perceives empty space and the stuff in empty space.
+
+ For example, the abstract mind creats a perception of a material ball (3rd Element) floating in outerspace (2nd Element) because of the light (1st Element) bouncing off of the ball that is seen by the eye and recreated in the abstract mind (5th Element).
+ 
+
+

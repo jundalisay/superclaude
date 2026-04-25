@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Origin of the Human Species"
+title: "The Supersociology Plan for Humanity"
 date: 2024-12-10
 image: "/photos/psych/freedom.jpg"
 description: "This book sets the vision for the human species"
@@ -10,15 +10,14 @@ writer:
 weight: 2
 icon: Juan
 toc: false
-draft: true
 ---
 
 
-### The Anunnaki Hypothesis
+We create a plan for humanity in order to guide its development towards the goals in that plan. 
 
-The origin of the human species is the homo erectus which was genetically modified by the Anunnaki.
+This will be divided into:
 
- work is inspired by the feedback from my book Towards Maharlika which uses Supersociology to 
-
-
+1. Origin of the Human Species
+2. Dharma of the Human Species
+3. Anu Het: The Way Forward
 

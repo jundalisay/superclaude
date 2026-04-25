@@ -1,17 +1,23 @@
 ---
 heading: Chapter 2
-title: "The Essence or Dharma of Humanity"
+title: "The Anunnaki Hypothesis"
 date: 2024-12-10
-image: "/photos/psych/freedom.jpg"
-description: "This book sets the vision for the human species"
+image: "/photos/medieval/anu.jpg"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 2
+weight: 5
 icon: Juan
 toc: false
-draft: true
 ---
 
 
-From the previous chapter we can 
+
+
+The origin of the human species is the homo erectus which was genetically modified by the Anunnaki.
+
+<!-- work is inspired by the feedback from my book Towards Maharlika which uses Supersociology to  -->
+
+
+
