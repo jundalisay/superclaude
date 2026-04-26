@@ -161,14 +161,9 @@ I called my higher authority today and told him:
 
 {{< l a="Dharmavedananda" >}}
 Dada, 10 of the 11 full-timers in my region want to go for acharya training. 
-{{< /l >}}
-
-
-<!-- Very good. -->
 
 So I am planning to send all of them to acharya training this week.
 {{< /l >}}
-
 
 
 <!-- "All of them?" "Yes. Why not?"  -->
