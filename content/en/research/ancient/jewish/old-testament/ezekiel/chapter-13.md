@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 13
 title: "The Vanity of the Israelites"
-description: "Woe unto the foolish prophets, that follow their own spirit, and have seen nothing!"
+description: "We replace God with Anu of the Anunnaki"
 weight: 28
 c: "firebrick"
 ---

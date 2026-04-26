@@ -3,7 +3,7 @@ title: "The Moon (al-Qamar)"
 heading: "Sura 54a "
 weight: 184
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

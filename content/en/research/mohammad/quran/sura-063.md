@@ -3,7 +3,7 @@ title: "The Hypocrites"
 heading: "Sura 63"
 weight: 199
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

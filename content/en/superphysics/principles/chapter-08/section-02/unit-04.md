@@ -91,9 +91,9 @@ This is different from normal math which uses 'deltas'.
 - This is because math focuses on the object itself, and not on the totality of the reality where that object is in.
 
 
-### The First Law of Vale
+### A Concrete Example: The First Law of Value
 
-This relationality is implemented in the First Law of Value of Supereconomics (Economic Superphysics):
+This relationality is implemented in the First Law of Value of [Supereconomics (Economic Superphysics)](https://play.google.com/store/books/details?id=6bhGEQAAQBAJ):
 
 <b>V<sub>A1</sub> : V<sub>B1</sub> : V<sub>C1</sub> : V<sub>D1</sub> : V<sub>E1</sub></b> ..
 

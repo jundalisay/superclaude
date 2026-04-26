@@ -24,20 +24,20 @@ Prior to commercialization, the universal method was barter. For example, the Mo
 ## How The Commercial System Spread
 
 According to Adam Smith, coined money began in the West with Servius Tullius. 
-
-In China, paper money began with the Song dynasty. The Yuan upgraded it to create the first central bank. 
-
-In Europe, metal money was reestablished by the Spanish who conquered Europe.
+- In China, paper money began with the Song dynasty. The Yuan upgraded it to create the first central bank. 
+- In Europe, metal money was reestablished by the Spanish who conquered Europe.
 
 This political control allowed economic control through minted money.
 
-This is why politics is prior to economics, and is why Supersociology, as morals, is prior to Supereconomics, as valuation.
+This is why **politics is prior to economics**.
+- This is why Supersociology, as morals, is prior to Supereconomics, as valuation.
+
+Update April 2026: the economic impact from the US-Iran war began with the **political** decision of the US and Israel to attack Iran.
 
 The main difference between the economic system of China and Spain was that Spain had no central banking. 
-
-Instead it outsourced its banking to merchants, as mercantile companies which merely paid taxes to the King. 
-
-In contrast, the Yuan did commercial projects through its vassals, with the emperor having ultimate control. 
+- Instead it outsourced its banking to merchants, as mercantile companies which merely paid taxes to the King. 
+- In contrast, the Yuan did commercial projects through its vassals, with the emperor having ultimate control.
+- This carries over in modern China where its economy is controlled by the Communist Party (politicians), whereas the economy of the Western world is controlled by its rich people (businessmen)  
 
 
 ## Morality-based Imperial System Vs Money-based Commercial System
@@ -48,9 +48,16 @@ The first 'colonizers' were the Indian Gupta dynasty which established the moder
 
 In contrast, European colonization was done to strengthen Europe at the expense of the colonies. This was even true for the American colonies which were supposed to strengthen Britain. 
 
-Because of colonization, all countries adopted precious metals. This allowed the commercial money-only system to monopolize all buying and selling transactions.
+Western colonization introduced silver money as the common tool of trade for the world. 
+- This allowed the commercial money-only system to monopolize all buying and selling transactions.
 
-The showdown between the commercial and the imperial systems manifested as the Opium Wars wherein the Chinese imperial system was defeated.
+The showdown between the commercial and the imperial systems manifested as:
+- the Opium Wars wherein the Chinese imperial system was defeated
+- World 2 wherein militaristic Germany and Japan were defeated, leading to the imposition of the Bretton Woods system
+
+
+
+## Problems with the Commercial System
 
 However, the commercial system also created problems:
 
@@ -88,7 +95,7 @@ Money allows economic control which can have both good and bad effects.
 - One one hand, it keeps some stability through a central bank as the wholesaler of money.
 - However, this same control also creates volatility when that money is hoarded by retailers such as banks and financiers.   
 
-To solve these problems, Adam Smith suggested grains and precious metals as the store of value: 
+To solve these problems, Adam Smith suggested grains and precious metals as the store of value:
 
 {{< q a="Adam Smith" c="The Wealth of Nations Book 1 Chapter 5" >}}
 Labour.. is the only universal and the only standard by which we can compare the values of different commodities at all times and at all places. From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.

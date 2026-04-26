@@ -3,7 +3,7 @@ title: "Clot (al-’Alaq)"
 heading: "Sura 96 "
 weight: 250
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

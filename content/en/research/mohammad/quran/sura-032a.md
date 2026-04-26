@@ -3,7 +3,7 @@ title: "Prostration (as-Sajdah)"
 heading: "Sura 32a "
 weight: 140
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

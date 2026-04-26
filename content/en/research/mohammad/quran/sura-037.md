@@ -3,7 +3,7 @@ title: "The Aligners (as-Saffat)"
 heading: "Sura 37 "
 weight: 150
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

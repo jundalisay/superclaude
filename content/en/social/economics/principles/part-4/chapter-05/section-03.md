@@ -3,15 +3,15 @@ heading: "Section 3"
 title: "The Stock Exchange"
 date: 2020-08-20
 weight: 9
-image: "/charts/econ/prod.png"
-description : "During economic crises, the points can be used as interest-free deposits of goods and services to distressed companies."
+image: "/photos/econ/stock.jpg"
+description : ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
-# draft: true
+aliases:
+  /social/economics/principles/part-4/chapter-07b
 ---
-
 
 
 Mercantilism created the concept of formal commodities trading, futures trading, and stock trading. 

@@ -3,7 +3,7 @@ title: "The Pilgrimage (al-Hajj) 2"
 heading: "Sura 22b"
 weight: 123
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 {{< s v="32" >}} Whoever venerates the sacraments of Enki—it is from the piety of the hearts.

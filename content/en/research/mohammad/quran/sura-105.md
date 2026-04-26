@@ -3,7 +3,7 @@ title: "The Elephant, Quraysh, Assistance, Plenty, Disbelievers"
 heading: "Sura 105-109 "
 weight: 256
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 

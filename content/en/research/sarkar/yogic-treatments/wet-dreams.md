@@ -11,7 +11,11 @@ icon: "PR Sarkar"
 
 ## Symptoms
 
-Occurrence of nocturnal emission more than four times a month; weakness on awakening, especially weakness of the knees; voice becoming rasping for one’s age, or cracking; swelling of cheeks and neck; frequent colds; etc., are symptoms of this disease.
+- Occurrence of nocturnal emission more than four times a month
+- weakness on awakening, especially weakness of the knees
+- voice becoming rasping for one’s age, or cracking
+- swelling of cheeks and neck
+- frequent colds; etc.
 
 ![Woman shocked](/photos/oops.jpg)
 
@@ -26,7 +30,7 @@ But if the discharge becomes greater than this, or if one does not enjoy any ner
 
 ## Causes
 
-Generally nocturnal emission is a disease of adolescence and early youth. It can have various causes –
+Generally nocturnal emission is a disease of adolescence and early youth. It can have various causes:
 
 1. If due to the bad habit of masturbation a large amount of semen is wasted or the semen becomes thin, one will contract this disease.
 2. If the genital organ is not kept clean, a particular kind of microbe can start breeding and cause nocturnal emission.

@@ -4,7 +4,7 @@ title: Moses Versus the Pharaoh (ash-Shu’ara’)
 heading: "Sura 26 "
 weight: 130
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 <!-- 1. Ta, Seen, Meem. -->{{< s v="2" >}}  These are the Verses of the Clarifying Book.

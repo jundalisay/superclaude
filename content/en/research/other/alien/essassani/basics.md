@@ -187,7 +187,7 @@ This activates synchronicity which is the organizing principle of the entire uni
 
 By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.
 
-{{< n n="Our acronym is APEnPI or Act, Push, Expect-none, Positive, Investigate" >}}
+<!-- n n="Our acronym is APEnPI or Act, Push, Expect-none, Positive, Investigate" >}} -->
 
 
 ## Short Version of the Formula

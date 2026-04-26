@@ -3,7 +3,7 @@ title: "Ways Of Ascent (al-Ma’arij)"
 heading: "Sura 70a "
 weight: 212
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 {{< s v="1" >}}  Someone asked about the imminent torment. 

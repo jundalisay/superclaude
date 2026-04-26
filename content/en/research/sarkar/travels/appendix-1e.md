@@ -7,8 +7,6 @@ weight: 426
 author: Dada
 ---
 
-{{< img src="/photos/medieval/cave.jpg" alt="Cavemen talking" >}}
-
 
 Calcutta, 1989. 
 

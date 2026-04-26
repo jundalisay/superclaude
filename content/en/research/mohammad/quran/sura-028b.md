@@ -4,7 +4,7 @@ title: The Story of Moses (in al-Qasas)
 heading: "Sura 28 "
 weight: 132
 c: "maroon"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "We replace Allah with Anu (or Enki) of the Anunnaki"
 ---
 
 
