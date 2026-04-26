@@ -11,19 +11,38 @@ icon: "Adolf Hitler"
 ---
 
 
-THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence. It does not suffice to know what aspect such a State would present. 
+THE PEOPLE'S State will not become a reality simply because we know the indispensable conditions of its existence. 
 
-The problem of its foundation is far more important. The parties which exist at present and which draw their profits from the State as it now is cannot be expected to bring about a radical change in the regime or to change their attitude on their own initiative. 
+<!-- It does not suffice to know what aspect such a State would present.  -->
 
-This is rendered all the more impossible because the forces which now have the direction of affairs in their hands are Jews here and Jews there and Jews everywhere. The trend of development which we are now experiencing would, if allowed to go on unhampered, lead to the realization of the Pan-Jewish prophecy that the Jews will one day devour the other nations and become lords of the earth.
+The problem of its foundation is far more important. 
 
-In contrast to the millions of 'bourgeois' and 'proletarian' Germans, who are stumbling to their ruin, mostly through timidity, indolence and stupidity, the Jew pursues his way persistently and keeps his eye always fixed on his future goal. 
+Because of how parties exist now and draw their profits from the State, we cannot expect:
+- a radical change in the regime or
+- a change their attitude on their own initiative. 
+
+This is because the affairs are directed by the Jews everywhere.
+
+<!-- This is rendered all the more impossible because the forces which now have the direction of affairs in their hands are Jews here and Jews there and Jews everywhere.  -->
+
+<!-- The trend of development which we are now experiencing would, if allowed to go on unhampered, -->
+
+This would lead to the realization of the Pan-Jewish prophecy that the Jews will one day devour the other nations and become lords of the earth.
+
+<!-- In contrast to  -->
+
+The millions of 'bourgeois' and 'proletarian' Germans are stumbling to their ruin, mostly through timidity, indolence and stupidity.
+
+But the Jew:
+- pursues his way persistently
+- keeps his eye always fixed on his future goal. 
 
 
-Any party that is led by him can fight for no other interests than his, and his interests certainly have nothing in
-common with those of the Aryan nations.
+Any party that is led by him can fight for no other interests than his, and his interests certainly have nothing in common with those of the Aryan nations.
 
-If we would transform our ideal picture of the People's State into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal. For a fight it will have to be, since the first objective will not be to build up the idea of the People's State but rather to wipe out the Jewish State which is now in existence. 
+If we would transform our ideal picture of the People's State into a reality we shall have to keep independent of the forces that now control public life and seek for new forces that will be ready and capable of taking up the fight for such an ideal. 
+
+For a fight it will have to be, since the first objective will not be to build up the idea of the People's State but rather to wipe out the Jewish State which is now in existence. 
 
 As so often happens in the course of history, the main difficulty is not to establish a new order of things but to clear the ground for its establishment. Prejudices and egotistic interests join together in forming a common front against the new idea and in trying by every means to prevent its triumph, because it is disagreeable to them or threatens their existence.
 
@@ -90,4 +109,4 @@ new philosophy of life will bring its ideas to victory only if the most courageo
 active elements of its epoch and its people are enrolled under its standards and grouped
 firmly together in a powerful fighting organization. 
 
-To achieve this purpose it is absolutely necessary to select from the general system of doctrine a certain number of ideas which will appeal to such individuals and which, once they are expressed in a precise and clear-cut form, will serve as articles of faith for a new association of men. 
+To achieve this, it is absolutely necessary to select from the general system of doctrine a certain number of ideas which will appeal to such individuals and which, once they are expressed in a precise and clear-cut form, will serve as articles of faith for a new association of men. 

@@ -3,7 +3,7 @@ heading: "Section 4"
 title: "Intermolecular Forces"
 date: 2024-12-28
 image: /photos/objects/water.jpg
-description: "Intermolecular Forces."
+description: "Intermolecular Forces come from the Inter-aetherspace of the Convertible Layer"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -16,9 +16,13 @@ aliases:
 
 
 
-## Intermolecular Forces
+In Material Superphysics, which is based on Descartes' Physics, Intermolecular Forces are caused by the Inter-aetherspace which is the Convertible Layer of the Micro-Aethersace (atomic space). 
 
-These are weak attractions such as hydrogen bonds that keep molecultes together.
+
+{{< i s="/graphics/physics/msq.svg" a="MSQ" >}}
+
+
+These are weak attractions such as hydrogen bonds that keep molecules together.
 
 Sublayer | Name | Examples
 --- | --- | ---

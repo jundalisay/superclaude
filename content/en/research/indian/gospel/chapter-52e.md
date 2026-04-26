@@ -1,144 +1,144 @@
 ---
-title: "Nityagopal and Ramakrishna"
+title: "About Nityagopal"
 c: "indigo"
 a: "M"
-heading: "Chapter 52e"
-weight: 648
+heading: "Chapter 52d"
+weight: 647
 description: ""
 ---
 
 
 
-M: "What other things did he say about you?"
+Narendra sang them for M.:
+
+Let us go back once more, O mind, to our own abode!
+Here in this foreign land of earth
+Why should we wander aimlessly in stranger's guise?
+These living beings round about, and the five elements;
+Are strangers to you, all of them; none is your own.
+Why do you thus forget yourself,
+In love with strangers, O my mind?
+Why do you thus forget your own?
+Ascend the path of Truth, O mind! Unflaggingly climb,
+With Love as the lamp to light your way.
+As your provision for the journey, bring with you
+The virtues, carefully concealed; for, like two
+highwaymen,
+Greed and delusion wait to rob you of your wealth.
+And keep beside you constantly,
+As guards to shelter you from harm,
+Calmness of mind and self-control.
+Companionship with holy men will be for you
+A welcome rest-house by the road;
+There rest your weary limbs awhile, asking your way,
+If ever you should be in doubt, of him who watches
+there.
+
+If anything along the path should frighten you,
+Then loudly shout the name of the Lord;
+
+For He is Ruler of that road,
+And even Death must bow to Him.
+
+O Lord, must all my days pass by so utterly in vain?
+
+Down the path of hope I gaze with longing, day andnight.
+
+Thou art the Lord of all the worlds, and I but a beggar
+here;
+
+How can I ask of Thee to come and dwell within my
+heart?
+
+My poor heart's humble cottage door is standing open
+wide;
+Be gracious, Lord, and enter there but once, and quench
+its thirst!
+
+
+{{< r a="M" >}}
+What did he say after listening to your songs?
+{{< /r >}}
+
+NARENDRA: "He went into samādhi. He said to Ram Babu: 'Who is this boy? How well he sings!' He asked me to come again."
+
+
+{{< r a="M" >}}
+Where did you see him next?
+{{< /r >}}
+
+NARENDRA: "At Rājmohan's house. The third visit was at Dakshineswar again. During that visit he went into samādhi and began to praise me as if I were God. He said to me,
+'O Narayana, you have assumed this body for my sake.' But please don't tell this to
+anybody else."
+
+
+{{< r a="M" >}}
+What else did he say?
+{{< /r >}}
 
 
 {{< l a="Narendra" >}}
-Once I said to him, The forms of God and things like that, which you see in your visions, are all figments of your imagination.' He had so much faith in my words that he went to the Divine Mother in the temple and told Her what I had said to him. 
+"He said: 'You have assumed this body for my sake. I asked the Divine Mother, "Mother, unless I enjoy the company of some genuine devotees completely free from 'woman and gold', how shall I live on earth?" '
 
-He asked Her, 'Are these hallucinations, then?' Afterwards he said to me, 'Mother told me
-that all these are real.'"Perhaps you remember that he said to me, 'When you sing, He who dwells here
-(touching his heart), like a snake, hisses as it were, and then, spreading His hood,
-quietly holds Himself steady and listens to your music.'
-
-"He has no doubt said many things about me; but what have I realized?"
+Then he said to me, 'You came to me at night woke me up, and said, "Here I am!"' But I did not know anything of this. I was sound asleep in our Calcutta house."
 {{< /l >}}
 
 
-M: "Now you have put on the garb of Śiva; you cannot touch money. Do you remember the Master's story?"
-
-NARENDRA: "Please tell it to me."
-
-
-M: "A Bahurupi disguised himself as Śiva and visited a house. The master of the house
-wanted to give him a rupee, but he did not accept it. Then the mendicant went home,
-removed his disguise, came back to the gentleman, and asked for the rupee. 'Why didn't
-you accept it before?' he was asked. He said: 'I was impersonating Śiva, a sannyāsi. I
-couldn't touch money that time.' "
-When Narendra heard the story he laughed a long while.
-M: "You have now put on the garb of a physician, as it were. You have become the
-guardian of these young men. Yours is the entire responsibility. You have to bring up the
-brothers of the monastery."
+{{< r a="M" >}}
+In other words, you may be both present and absent at the same time. It is like God, who is both formless and endowed with form.
+{{< /r >}}
 
 
 {{< l a="Narendra" >}}
-Whatever spiritual disciplines we are practising here are in obedience to the Master's command. But it is strange that Ram Babu criticizes us for our spiritual
-practices. He says: 'We have seen him. What need have we of any such practice?' "
+But you must not tell this to anyone else. At Cossipore he transmitted his power to me.
 {{< /l >}}
 
 
-M: "Let people act according to their faith."
-
-NARENDRA: "But the Master asked us to practise sādhanā ."
-
-
-## Master's love for Narendra
-
-Narendra was again telling M. about the Master's love for him.
+M: "Didn't it happen when you used to meditate before a lighted fire under a tree at the Cossipore garden house?"
 
 
 {{< l a="Narendra" >}}
-How many times he prayed to the Divine Mother for my sake! After my father's death, when I had no food at home and my mother and sisters and brothers were starving too, the Master prayed to the Divine Mother to give me money.
+Yes. One day, while meditating, I asked Kāli to hold my hand. Kāli said to me, 'When I touched your body I felt something like an electric shock coming to my body.'
+"But you must not tell this to anybody here. Give me your promise."
 {{< /l >}}
 
-M: "Yes, I know that. You once told me."
 
-NARENDRA: "But I didn't get any money. The Master told me what the Divine Mother
-had said to him: 'He will get simple food and clothing. He will eat rice and dāl.'
-
-"He loved me so much! But whenever an impure idea crept into my mind he at once knew about it. While going around with Annada, sometime I found myself in the
-company of evil people. On those occasions the Master could not eat any food from my hands.
-
-He could raise his hand only a little, and could not bring it to his mouth. On onesuch occasion, while he was ill, he brought his hand very close to his mouth, but it did not go in. He said to me, 'You are not yet ready.'
-
-"Now and then I feel great scepticism. At Baburam's house it seemed to me that nothing
-existed-as if there were no such thing as God."
-
-M: "The Master used to say that he too had passed through that mood."
-
-Both M. and Narendra remained silent. Then M. said: "You are all indeed blessed! You
-think of the Master day and night."
+M: "There is a special purpose in his transmission of power to you. He will accomplish much work through you. One day the Master, wrote on a piece of paper, 'Naren will teach people.'"
 
 
 {{< l a="Narendra" >}}
-But how little it is! We don't yet feel like giving up the body because we haven't realized God.
+But I said to him, 'I won't do any such thing.' Thereupon he said, 'Your very bones will do it.' He has given me charge of Sarat. Sarat is now yearning for God; the Kundalini is awakened in him.
 {{< /l >}}
 
 
-It was night. Niranjan had just returned from Puri The members of the Math, and M.,
-greeted him with great joy. Niranjan was telling them his experiences. He was then
-about twenty-five years old.
+M: "He must be careful that dead leaves do not accumulate there. Perhaps you remember what the Master used to say: 'In a lake the fish make holes so that they may rest there. But if dead leaves accumulate in the holes, the fish do not go there.' "
 
-The evening worship was over. Some of the brothers were meditating. But many of them
-assembled in the big hall around Niranjan. They were talking. After nine o'clock Śaśi
-offered food to the Deity.
-
-The members of the Math finished their supper, which consisted of home-made bread, a
-little vegetable, and a little hard molasses.
+{{< l a="Narendra" >}}
+The Master used to call me Narayana. When he was ill he would not allow me to pour water to wash his hands. At Cossipore he said: 'Now the key is in my hands. He will give up his body when he knows who he is.'
+{{< /l >}}
 
 
-
-Saturday, May 7, 1887
-
-It was the full-moon day of the month of Vaiśākh. Narendra and M. were seated on a couch in M.'s study in Calcutta. They were talking. Just before Narendra's arrival, M. had
-been studying The Merchant of Venice, Comus, and Blackie's Self-culture, which he
-taught at school.
-
-Narendra and the other brothers of the monastery were full of yearning for God-
-realization. A fire of intense renunciation raged in their hearts.
+M; "Didn't he say it when you were in nirvikalpa samādhi?"
 
 
 {{< l a="Narendra" >}}
-I don't care for anything. You see, I am now talking with you, but I feel like getting up this minute and running away.
+Yes. At the time it seemed to me I had no body. I felt only my face. "I was studying law at home to prepare for the examinations. Suddenly I said to myself,
+'What am I doing?' "
 {{< /l >}}
 
-Narendra sat in silence a few minutes. Then he said, "I shall fast to death for the
-realization of God."
 
-M: "That is good. One can do anything for God."
-
-NARENDRA: "But suppose I cannot control my hunger."
-
-M: "Then eat something and begin over again."
-
-Narendra remained silent a few minutes.
+M: "Didn't it happen when the Master was at Cossipore?"
 
 
 {{< l a="Narendra" >}}
-It seems there is no God. I pray so much, but there is no reply-none whatsoever.
-
-"How many visions I have seen! How many mantrās shining
-in letters of gold! How many visions of the Goddess Kāli! How many other divine forms! But still I have no
-peace. "Will you kindly give me six pice?"
+Yes. Like an insane person I ran out of our house. 
 {{< /l >}}
 
+He asked me, 'What do you want?' I replied, 'I want to remain immersed in samādhi.' He said: 'What a small mind you have! Go beyond samādhi! Samādhi is a very trifling thing.' "
 
-Narendra asked for the money to pay his carriage hire to the Barangore Math. Just then Satkari arrived in a carriage. Of the same age as Narendra, he dearly loved the members of the monastery.
+M: "Yes, he used to say that vijnāna is the stage after jnāna. It is like going up and
+down the stairs after reaching the roof."
 
-He lived near the Math and worked in Calcutta. The carriage was his own. Narendra returned the money to M. and said that he would go with Satkari in his
-carriage. He asked M. to give them some refreshments. 
-
-M. accompanied the two friends to the Barangore Math. He wanted to see how the brothers spent their time and practised sādhana. He wanted to see how Sri
-Ramakrishna, the Master, was reflected in the hearts of the disciples. Niranjan was not
-at the Math. He had gone home to visit his mother, the only relative he had in the world.
-Baburam, Sarat, and Kāli had gone to Puri. They intended to spend a few days there.
-
+{{< l a="Narendra" >}}
+Kāli has a craving for knowledge. I scold him for that. Is knowledge so easy to get? Let his bhakti first mature. The Master told Tārak at Dakshineswar that emotion and bhakti are by no means the last word.
+{{< /l >}}

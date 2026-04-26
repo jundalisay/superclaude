@@ -11,7 +11,7 @@ icon: "Adam Smith"
 --- 
 
 
-{{< s v="16" >}}} Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market.
+{{< s v="16" >}} Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market.
 
 The high duties on foreign wheat amount to a prohibition in times of moderate plenty.
 - These duties, with the prohibition on the importation of foreign cattle and salt, are not so advantageous to British graziers and farmers as other prohibitions are to British merchants and manufacturers.
@@ -142,8 +142,9 @@ They are generally fond of communicating and extending to their neighbours any n
 
 Old Cato says:
 
-{{< q a="Old-Cato" >}}
-Pius quaestus, stabilissimusque, minimeque invidiosus; minimeque male cogitantes sunt, qui in eo studio occupati sunt. [Farming is the most pious livelihood, the one least likely to provoke envy, and those engaged in it are the least dissatisfied.]
+{{< q a="Cato" >}}
+<!-- Pius quaestus, stabilissimusque, minimeque invidiosus; minimeque male cogitantes sunt, qui in eo studio occupati sunt.  -->
+Farming is the most pious livelihood, the one least likely to provoke envy, and those engaged in it are the least dissatisfied.
 {{< /q >}}
 
 

@@ -87,9 +87,9 @@ What? Has the ship come from Delos, on the arrival of which I am to die?
 
 
 {{< r a="Crito" >}}
-No, the ship has not actually arrived. But she will probably be here today, as persons who have come from Sunium tell me that they have left her there.
+No, the ship has not actually arrived. But she will probably be here today, as persons who have come from Sunium tell me.
 
-And so tomorrow, will be the last day of your life.
+So tomorrow will be the last day of your life.
 {{< /r >}}
 
 
@@ -105,13 +105,15 @@ There appeared to me the likeness of a woman, fair and comely, clothed in bright
 
 
 {{< r a="Crito" >}}
-Yes; the meaning is only too clear. 
+Yes. But please take my advice and escape.
 
-But my beloved Socrates! Please take my advice and escape. If you die I shall lose a friend who can never be replaced. 
+If you die I shall lose a friend who can never be replaced. 
 
 People who do not know us will think that I might have saved you if I had been willing to give money, but that I did not care. 
 
-That would be the worst disgrace -- that I should be thought to value money more than the life of a friend! People will not be persuaded that I wanted you to escape, and that you refused.
+That would be the worst disgrace -- that I should be thought to value money more than the life of a friend! 
+
+People will not be persuaded that I wanted you to escape, and that you refused.
 {{< /r >}}
 
 
@@ -130,7 +132,9 @@ But you see, that the opinion of the many must be regarded, for what is now happ
 {{< l a="Socrates" >}}
 I only wish it were so, and that the many could do the greatest evil. 
 
-For then they would also be able to do the greatest good—and what a fine thing this would be! But in reality they can do neither; for they cannot make a man either wise or foolish; and whatever they do is the result of chance.
+For then they would also be able to do the greatest good—and what a fine thing this would be! 
+
+But in reality they can do neither; for they cannot make a man either wise or foolish; and whatever they do is the result of chance.
 {{< /l >}}
 
 

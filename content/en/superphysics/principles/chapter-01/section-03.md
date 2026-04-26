@@ -2,7 +2,6 @@
 heading: "Section 3"
 title: "The 3 Abstract Spaces"
 date: 2024-12-28
-# 2020-01-04
 weight: 14
 image: /photos/physics/space.jpg
 description: "Reality has 3 Operational Divisions"
@@ -74,3 +73,5 @@ This is the space that results from the perception of the identities within Exis
 This is called Citta in Buddhism and Hinduism.
 
 {{< youtube Nx9P2e2JVUc >}}
+
+

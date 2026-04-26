@@ -2,143 +2,125 @@
 title: "About Nityagopal"
 c: "indigo"
 a: "M"
-heading: "Chapter 52d"
-weight: 647
+heading: "Chapter 52c"
+weight: 646
 description: ""
 ---
 
 
-
-Narendra sang them for M.:
-
-Let us go back once more, O mind, to our own abode!
-Here in this foreign land of earth
-Why should we wander aimlessly in stranger's guise?
-These living beings round about, and the five elements;
-Are strangers to you, all of them; none is your own.
-Why do you thus forget yourself,
-In love with strangers, O my mind?
-Why do you thus forget your own?
-Ascend the path of Truth, O mind! Unflaggingly climb,
-With Love as the lamp to light your way.
-As your provision for the journey, bring with you
-The virtues, carefully concealed; for, like two
-highwaymen,
-Greed and delusion wait to rob you of your wealth.
-And keep beside you constantly,
-As guards to shelter you from harm,
-Calmness of mind and self-control.
-Companionship with holy men will be for you
-A welcome rest-house by the road;
-There rest your weary limbs awhile, asking your way,
-If ever you should be in doubt, of him who watches
-there.
-
-If anything along the path should frighten you,
-Then loudly shout the name of the Lord;
-
-For He is Ruler of that road,
-And even Death must bow to Him.
-
-O Lord, must all my days pass by so utterly in vain?
-
-Down the path of hope I gaze with longing, day andnight.
-
-Thou art the Lord of all the worlds, and I but a beggar
-here;
-
-How can I ask of Thee to come and dwell within my
-heart?
-
-My poor heart's humble cottage door is standing open
-wide;
-Be gracious, Lord, and enter there but once, and quench
-its thirst!
-
-
 {{< r a="M" >}}
-What did he say after listening to your songs?
-{{< /r >}}
-
-NARENDRA: "He went into samādhi. He said to Ram Babu: 'Who is this boy? How well he sings!' He asked me to come again."
-
-
-{{< r a="M" >}}
-Where did you see him next?
-{{< /r >}}
-
-NARENDRA: "At Rājmohan's house. The third visit was at Dakshineswar again. During that visit he went into samādhi and began to praise me as if I were God. He said to me,
-'O Narayana, you have assumed this body for my sake.' But please don't tell this to
-anybody else."
-
-
-{{< r a="M" >}}
-What else did he say?
+Gopal is in an exalted state of mind, isn't he? So much emotion, so much weeping and such exaltation in the name of God!
 {{< /r >}}
 
 
 {{< l a="Narendra" >}}
-"He said: 'You have assumed this body for my sake. I asked the Divine Mother, "Mother, unless I enjoy the company of some genuine devotees completely free from 'woman and gold', how shall I live on earth?" '
-
-Then he said to me, 'You came to me at night woke me up, and said, "Here I am!"' But I did not know anything of this. I was sound asleep in our Calcutta house."
+Does mere emotion make a man spiritually great? Youngsters like Kāli, Sarat, Śaśi, and Sarada are more spiritual than Gopal. How great their renunciation is! Gopal does not accept the Master, does he?
 {{< /l >}}
 
 
 {{< r a="M" >}}
-In other words, you may be both present and absent at the same time. It is like God, who is both formless and endowed with form.
+True. The Master remarked that Gopal did not belong to the circle of his devotees. But I saw him show great reverence for Sri Ramakrishna.
+
+At that time I was just becoming acquainted with Sri Ramakrishna. One day after the meeting of the devotees in his room had broken up, I came out and saw Gopal on the foot-path, kneeling with folded hands before the Master.
+
+The moon was shining brightly overhead. It was the red path sprinkled with brick-dust, just outside the long verandah north of the Master's room. Nobody else was there. It appeared to me that Gopal had taken shelter at Sri Ramakrishna's feet and the Master was encouraging him.
 {{< /r >}}
 
 
 {{< l a="Narendra" >}}
-But you must not tell this to anyone else. At Cossipore he transmitted his power to me.
+I didn't see it.
 {{< /l >}}
 
 
-M: "Didn't it happen when you used to meditate before a lighted fire under a tree at the Cossipore garden house?"
+{{< r a="M" >}}
+Further, the Master used to say, 'Gopal is in the state of a paramahamsa.' But I also distinctly remember his forbidding Gopal to be intimate with woman devotees. Many a time he warned him about it.
+{{< /r >}}
 
 
 {{< l a="Narendra" >}}
-Yes. One day, while meditating, I asked Kāli to hold my hand. Kāli said to me, 'When I touched your body I felt something like an electric shock coming to my body.'
-"But you must not tell this to anybody here. Give me your promise."
+Speaking to me about Gopal, the Master asked why, if Gopal was a real Paramahamsa, he should hanker after money.'He doesn't belong to this place', the Master said.'Those who are my own will always come here.' He used to be angry with T - because he was Gopal's constant companion and didn't come to the Master more often.
+
+'Gopal has spiritual realizations, no doubt,' the Master said to me, 'but he has attained them all of a sudden, without the necessary preparations. He is not one of my own. If he is, why haven't I wept for him?'
+
+"Some are proclaiming Gopal as the reincarnation of Nityananda. But times without
+number the Master said to me: 'In me alone are embodied Advaita, Chaitanya, and
+Nityananda. I am all these three.'"
 {{< /l >}}
 
 
-M: "There is a special purpose in his transmission of power to you. He will accomplish much work through you. One day the Master, wrote on a piece of paper, 'Naren will teach people.'"
+
+Friday, April 8, 1887
+
+About 8am, 2 devotees, one a householder and the other a monk, were conversing in a room in the Barangore monastery, when M. came in. 
+
+The devotees were of the same age 24-25 years old. M. intended to spend 3 days at the monastery. He went to the shrine and saluted the Deity. 
+
+After visiting Narendra, Rakhal, and the other brothers, he at last came into the room where the two devotees were engaged in conversation. The householder devotee wanted to renounce the world, The monk was trying to persuade him not to do so.
 
 
-{{< l a="Narendra" >}}
-But I said to him, 'I won't do any such thing.' Thereupon he said, 'Your very bones will do it.' He has given me charge of Sarat. Sarat is now yearning for God; the Kundalini is awakened in him.
+{{< l a="Monk" >}}
+Why don't you finish the few duties you have in the world? Very soon they will be left behind,"A man was told that he would go to hell. He asked a friend, 'What is hell like?' 
+
+Thereupon the friend began to draw a picture of hell on the ground with a piece of chalk. No sooner was the picture drawn than the man rolled over it and said, 'Now I have gone through hell!'"
 {{< /l >}}
 
 
-M: "He must be careful that dead leaves do not accumulate there. Perhaps you remember what the Master used to say: 'In a lake the fish make holes so that they may rest there. But if dead leaves accumulate in the holes, the fish do not go there.' "
+{{< r a="Householder" >}}
+I don't relish worldly life, Ah, how happy you are here!
+{{< /r >}}
 
-{{< l a="Narendra" >}}
-The Master used to call me Narayana. When he was ill he would not allow me to pour water to wash his hands. At Cossipore he said: 'Now the key is in my hands. He will give up his body when he knows who he is.'
+
+
+{{< l a="Monk" >}}
+Why don't you renounce the world, if you want to? Why do you talk about it so much? But I repeat, why don't you enjoy the fun once for all?" 
 {{< /l >}}
 
 
-M; "Didn't he say it when you were in nirvikalpa samādhi?"
+Śaśi finished the regular worship in the worship hall. About 11, the brothers of the Math returned from the Ganges after taking their baths. They put on clean cloths, went to the shrine, prostrated themselves before the Deity, and meditated there a little while.
+
+After the food was offered to the Deity they had their meal. M. ate with them.
+
+It was evening. 
+
+Incense was burnt before the pictures of gods and goddesses and the evening service was performed. Rakhal, Śaśi, the elder Gopal, and Harish were seated in
+the big hall. M. also was there. 
+
+
+## Rakhal's reminiscences of the Master
+
+Rakhal warned one of the brothers to be careful about the food to he offered to the Master in the shrine.
+
+{{< r a="Rakhal" >}}
+(to Śaśi and the others): One day I ate part of his [meaning the Master's] refreshments before he took them. At this he said: 'I cannot look at you. How could you do such a thing?' I burst into tears.
+{{< /r >}}
+
+
+THE ELDER GOPAL: "One day at Cossipore I breathed hard on his food. At this he said, 'Take that food away.' "
+
+
+M. and Narendra were pacing the verandah and recalling old times.
 
 
 {{< l a="Narendra" >}}
-Yes. At the time it seemed to me I had no body. I felt only my face. "I was studying law at home to prepare for the examinations. Suddenly I said to myself,
-'What am I doing?' "
+I did not believe in anything. At first I did not accept most of what the Master said. One day he asked me, 'Then why do you come here?' I replied, 'I come here to see you, not to listen to you.' He was very much pleased.
 {{< /l >}}
 
 
-M: "Didn't it happen when the Master was at Cossipore?"
 
+Saturday, April 9, 1887
+
+
+## The Master and Narendra
+
+The members of the Math were resting a little after their meal. Narendra and M. sat under a tree in the garden to the west of the monastery. It was a solitary place and no one else was present.
+
+Narendra was recounting to M. his various experiences with Sri Ramakrishna, Narendra was about 24 years old, and M. 32.
+
+
+{{< r a="M" >}}
+You must remember vividly your first visit to him.
+{{< /r >}}
 
 {{< l a="Narendra" >}}
-Yes. Like an insane person I ran out of our house. 
-{{< /l >}}
-
-He asked me, 'What do you want?' I replied, 'I want to remain immersed in samādhi.' He said: 'What a small mind you have! Go beyond samādhi! Samādhi is a very trifling thing.' "
-
-M: "Yes, he used to say that vijnāna is the stage after jnāna. It is like going up and
-down the stairs after reaching the roof."
-
-{{< l a="Narendra" >}}
-Kāli has a craving for knowledge. I scold him for that. Is knowledge so easy to get? Let his bhakti first mature. The Master told Tārak at Dakshineswar that emotion and bhakti are by no means the last word.
+Yes. It was at the temple garden at Dakshineswar, in his own room. That day I sang two songs.
 {{< /l >}}

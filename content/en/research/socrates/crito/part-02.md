@@ -12,43 +12,58 @@ icon: "Socrates"
 
 
 {{< r a="Crito" >}}
-Fear not—there are persons who are willing to get you out of prison at no great cost. 
+Fear not—there are persons willing to get you out of prison at no great cost. 
 
-The informers are far from being exorbitant in their demands—a little money will satisfy them. 
+The informers will be satisfied with a little money. 
 
-My means are certainly ample. They are at your service. If you have a scruple about spending all mine, here are foreigners who will give you the use of theirs. 
+I can certainly pay them. 
+
+If you have a scruple about spending all of mine, here are foreigners who will give you the use of theirs. 
 
 One of them, Simmias the Theban, has brought a large sum of money for this very purpose. 
 
 Cebes and many others are prepared to spend their money in helping you to escape. 
 
-Do not hesitate on our account, and do not say, as you did in the court that you will have a difficulty in knowing what to do with yourself anywhere else.
+Do not hesitate on our account. Do not say, as you did in the court that you will have a difficulty in knowing what to do with yourself anywhere else.
 
 Men will love you in other places to which you may go, and not in Athens only. 
 
 I have friends in Thessaly who will value and protect you. No Thessalian will give you any trouble. 
 
-Nor can I think that you are at all justified, Socrates, in betraying your own life when you might be saved; in acting thus you are playing into the hands of your enemies, who are hurrying on your destruction. 
+You are betraying your own life since you can be saved.
+
+In acting thus, you are playing into the hands of your enemies, who are hurrying on your destruction. 
 {{< /r >}}
 
 
 {{< r a="Crito" >}}
-You are deserting your own children. You might bring them up and educate them; instead of which you go away and leave them, and they will have to take their chance; and if they do not meet with the usual fate of orphans, there will be small thanks to you. 
+You are deserting your own children. You should bring them up and educate them.
+
+Instead of which you go away and leave them. They will have to take their chance. 
+
+If they do not meet with the usual fate of orphans, there will be small thanks to you. 
 
 No man should bring children into the world who is unwilling to persevere to the end in their nurture and education. 
 
-But you appear to be choosing the easier part, not the better and manlier, which would have been more becoming in one who professes to care for virtue in all his actions, like yourself. 
+But you appear to be choosing the easier part, not the better and manlier.
 
-I am ashamed not only of you, but of us who are your friends, when I reflect that the whole business will be attributed entirely to our want of courage. 
-{{< /r >}}
+ <!-- which would have been more becoming in one who professes to care for virtue in all his actions, like yourself.  -->
 
+I am ashamed of you and your friends when I reflect that the whole business will be attributed entirely to our lack of courage. 
 
-{{< r a="Crito" >}}
-The trial need never have come on, or might have been managed differently; and this last act, or crowning folly, will seem to have occurred through our negligence and cowardice, who might have saved you, if we had been good for anything; and you might have saved yourself, for there was no difficulty at all. 
+The trial need never have come on, or might have been managed differently.
 
-See now, Socrates, how sad and discreditable are the consequences, both to us and you. Make up your mind then, or rather have your mind already made up, for the time of deliberation is over. 
+This last act, or crowning folly, will seem to have occurred through our negligence and cowardice, who might have saved you, if we had been good for anything.
 
-There is only one thing to be done, which must be done this very night, and, if we delay at all, will be no longer practicable or possible; I beseech you therefore, Socrates, be persuaded by me, and do as I say.
+You might have saved yourself, for there was no difficulty at all. 
+
+See how sad and discreditable are the consequences to us and you.
+
+<!-- Make up your mind then, or rather have your mind already made up, for the time of deliberation is over.  -->
+
+<!-- There is only one thing to be done, which must be done this very night, and, if we delay at all, will be no longer practicable or possible;  -->
+
+I beseech you therefore, Socrates, do as I say.
 {{< /r >}}
 
 
@@ -68,9 +83,13 @@ For I am and always have been one of those natures who must be guided by reason,
 {{< l a="Socrates" >}}
 <!-- What will be the fairest way of considering the question? Shall I return to your old argument about the opinions of men?—we were saying that some of them are to be regarded, and others not. Now were we right in maintaining this before I was condemned? And has the argument which was once good now proved to be talk for the sake of talking—mere childish nonsense?  -->
 
-That is what I want to consider with your help, Crito:—whether, under my present circumstances, the argument appears to be in any way different or not; and is to be allowed by me or disallowed. That argument, which, as I believe, is maintained by many persons of authority, was to the effect, as I was saying, that the opinions of some men are to be regarded, and of other men not to be regarded. 
+That is what I want to consider with your help, Crito:—whether, under my present circumstances, the argument appears to be in any way different or not; and is to be allowed by me or disallowed. 
 
-Now you, Crito, are not going to die tomorrow. Therefore you are disinterested and not liable to be deceived by the circumstances in which you are placed. 
+That argument, which, as I believe, is maintained by many persons of authority, was to the effect, as I was saying, that the opinions of some men are to be regarded, and of other men not to be regarded. 
+
+You are not going to die tomorrow. 
+
+Therefore you are disinterested and not liable to be deceived by the circumstances in which you are placed. 
 
 Good opinions of the wise are to be valued. Bad opinions of the unwise should not valued.
  <!-- and the opinions of some men only, are to be valued, and that other opinions, and the opinions of other men, are not to be valued.  -->
@@ -79,10 +98,7 @@ Good opinions of the wise are to be valued. Bad opinions of the unwise should no
 <!-- The good are to be regarded, and not the bad.
 
 The opinions of the wise are good, and the opinions of the unwise are evil. -->
-{{< /l >}}
 
-
-{{< l a="Socrates" >}}
 The serious gymnastics student should attend to the praise and blame and opinion of his physician or trainer, and not that of everyone.
 
 He should fear the censure and welcome the praise of that one only, and not of the many. 

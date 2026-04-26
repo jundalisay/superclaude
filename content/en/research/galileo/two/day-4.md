@@ -26,39 +26,86 @@ I believe it is only your imagination that has made the time drag, rather than a
 
 <!-- But in order not to stretch it still further it will be good for us to get to the matter in hand without wasting any more words. -->
 
-Let us see, then, how nature has allowed (whether the facts are actually such, or whether at a whim and as if to play upon our fancies) -- has allowed, I say, the movements that have long been attributed to the earth for every reason except as an explanation of the ocean tides to be found now to serve that purpose too, with equal precision; and how, reciprocally, this ebb and flow itself cooperates in confirming. the earth's mobility. Up to this point the indications of that mobility have been taken from celestial phenomena, seeing that nothing which takes place on the earth has been powerful enough to establish the one position any more than the other.
+How has Nature allowed the movements for the ocean tides?
 
-This we have already examined at length by showing that all terrestrial events from which it is ordinarily held that the earth stands still and the sun and the fixed stars are moving would necessarily appear just the same to us if the earth moved and the others stood still. Among all sublunary things it is only in the element of water (as something which is very vast and is not joined and linked with the terrestrial. globe as are all its solid parts, but is rather, because of its fluidity, free and separate and a law unto itself) that we may recognize some trace or indication of the earth's behavior in regard to motion and rest.
+<!-- that have long been attributed to the earth for every reason except as an explanation of  to be found now to serve that purpose too, with equal precision; and how, reciprocally,  -->
 
-After having many times examined for myself the effects and events, partly seen and partly heard ; from other people, which are observed in the movements of the water; after, moreover, having read and listened to the great follies which many people have put forth as causes for these events, I have arrived at two conclusions which were not lightly to be drawn and granted.
+How does this ebb and flow itself cooperates in confirming the earth's mobility?
 
-Certain necessary assumptions having been made, these are that if the terrestrial globe were immovable, the ebb and flow of the oceans could not occur naturally; and that when we confer upon the globe the movements just assigned to it, the seas are necessarily subjected to an ebb and flow agreeing in all respects with what is to be observed in them.
+Up to this point, this mobility have been taken from celestial phenomena. This is because people saw that nothing on the earth has been powerful enough to establish the one position any more than the other.
+
+People ordinarily believe that the earth stands still and the sun and the fixed stars are moving. We have said that terrestrial phenomena would appear the same to us if the earth moved and the others stood still.
+
+<!-- Among all sublunary things it is only in  -->
+
+The element of water is:
+- very vast and not joined with the terrestrial globe.
+- free and separate because of its fluidity and a law to itself
+
+From it, we may recognize some trace of the earth's behavior in regard to motion and rest.
+
+<!-- After having many times examined for myself the effects and events, partly seen and partly heard ; from other people, which are observed in the movements of the water; after, moreover, having read and listened to the great follies which many people have put forth as causes for these events, I have arrived at two conclusions which were not lightly to be drawn and granted. -->
+
+Some assume that:
+- if the terrestrial globe were immovable, then the ebb and flow of the oceans could not occur naturally.
+- if we give to the globe the movements assigned to it, the seas would be subjected to an ebb and flow agreeing to what is observed.
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-The proposition is crucial, both in itself and in what follows as a consequence; therefore I shall be so much the more attentive in listening to its explanation and verification.
+The proposition is crucial, both in itself and in what follows as a consequence. So please explain it.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-In questions of natural science like this one at hand, I a knowledge of the effects is what leads to an investigation and discovery of the causes. Without this, ours would be a blind journey, or one even more uncertain than that; for we should not know where we wanted to come out, whereas the blind at least know where they wish to arrive.
+In questions of natural science like this one at hand, the knowledge of the effects is what leads to an investigation and discovery of the causes. 
 
-Hence before all else it is necessary to have a knowledge of the effects whose causes we are seeking. Of those effects you, Sagredo, must be more fully and surely informed than I am, since besides being born in Venice and having long resided here where the tides are famous for their size, you have also sailed to Syria, and, having a clever and curious mind, you must have made many observations. 
+Without this, ours would be a blind journey, or one even more uncertain than that; for we should not know where we wanted to come out, whereas the blind at least know where they wish to arrive.
+
+Hence before all else it is necessary to have a knowledge of the effects whose causes we are seeking. 
+
+Of those effects you, Sagredo, must be more fully and surely informed than I am, since besides being born in Venice and having long resided here where the tides are famous for their size, you have also sailed to Syria, and, having a clever and curious mind, you must have made many observations. 
 
 But I, who have only been able to observe for rather a short time what happens here at this end of the Adriatic Gulf, and in our lower sea on the shores of the Tyrrhenian, must often depend upon what others tell me -- which, being for the most part not in good agreement and accordingly rather unreliable, may contribute confusion rather than confirmation to our reflections.
 
 Still, from those accounts which we are sure of, and which happen to cover the principal events, it seems to me possible to arrive at the true and primary causes. I do not presume to be able to adduce all the proper and sufficient causes of those effects which are new to me and which consequently I have had no chance to think about; what I am about to say, I propose merely as a key to open portals to a road never before trodden by anyone, in a firm hope that minds more acute than mine will broaden this road and penetrate further along it than I have done in my first revealing of it. 
 
 Though in other seas remote from us events may take place which do not occur in our Mediterranean, nevertheless the reason and the cause which I shall produce will still be true, provided that it is verified and fully satisfied by the events which do take place in our sea; for ultimately one single true and primary cause must hold good for effects which are similar in kind.
+{{< /l >}}
 
-I shall, then, tell you the story of the effects which I know to exist, and assign to them the cause that is believed by me to be true; and you, gentlemen, shall produce others noticed by you in addition to these of mine, and then we shall see whether the cause I am about to adduce can account for them also.
 
-I say, then, that three periods are observed in the flow and ebb of the ocean waters. The first and principal one is the great and conspicuous daily tide, in accordance with which the waters rise and fall at intervals of some hours; these intervals in the Mediterranean are for the most part about six hours each -- that is, six hours of rising and six more of falling. The second period is monthly, and seems to originate from the motion of the moon; it does not introduce other movements, but merely alters the magnitude of those already mentioned, with a striking difference according as the moon is full, new, or at quadrature with the sun. The third period is annual, and appears to depend upon the sun; it also merely alters the daily movements by rendering them of different sizes at the solstices from those occurring at the equinoxes.
+{{< l a="Salviati" >}}
+I shall tell you:
+- the effects which I know
+- the cause for them
 
-We shall speak first about the diurnal period, as it is the principal one, and the one upon which the actions of the moon and the sun are exercised secondarily in their monthly and annual alterations. Three varieties of these hourly changes are observed; in some places the waters rise and fall without making any forward motion; in others, without rising or falling they move now toward the east and again run back toward the west; and in still others, the height and the course both vary. 
+You, gentlemen, shall produce others noticed by you in addition to these of mine. Then we shall see whether the cause I am about to adduce can account for them also.
 
-This occurs here in Venice, where the waters rise in entering and fall in departing. They do this at the end of a gulf extending east I and west and terminating on open shores where the water '. has room to spread out upon rising; if their course were interrupted by mountains or by very high dikes, they would rise and sink against these without any forward motion.
+Three periods are observed in the flow and ebb of the ocean waters.
+
+1. The principal one is the great and conspicuous daily tide.
+
+This is in accordance with which the waters rise and fall at intervals of some hours.
+
+These intervals in the Mediterranean are for the most part about six hours each -- that is, six hours of rising and six more of falling.
+
+2. The monthly one which originates from the motion of the moon
+
+It does not introduce other movements, but merely alters the magnitude of those already mentioned, with a striking difference according as the moon is full, new, or at quadrature with the sun.
+
+3. The annual one which depends on the sun.
+
+It also merely alters the daily movements by rendering them of different sizes at the solstices from those occurring at the equinoxes.
+
+We shall speak first about the diurnal period, as it is the principal one, and the one upon which the actions of the moon and the sun are exercised secondarily in their monthly and annual alterations. 
+
+Three varieties of these hourly changes are observed:
+
+1. In some places the waters rise and fall without making any forward motion
+2. In others, without rising or falling they move now toward the east and again run back toward the west
+3. In still others, the height and the course both vary. 
+
+This occurs here in Venice, where the waters rise in entering and fall in departing. They do this at the end of a gulf extending east I and west and terminating on open shores where the water has room to spread out upon rising; if their course were interrupted by mountains or by very high dikes, they would rise and sink against these without any forward motion.
 
 Elsewhere the water runs to and fro in its central parts without changing height, as happens notably in the Straits of Messina between Scylla and Charybdis, where the currents are very swift because of the narrowness of the channel. But in the open Mediterranean and around its islands, such as the Balearics, Corsica, Sardinia, Elba, Sicily (on the African side), Malta, Crete, etc., the alterations of height are very small but the currents are quite noticeable, especially where the sea is restrained between islands, or between these and the continent.
 
@@ -77,11 +124,19 @@ From this text, he deduces that the true cause of these movements stems from the
 
 The deepest waters, being more abundant and therefore heavier, . expel the waters of lesser depth; these, being raised up, then try to descend, and from this continual strife the tides are derived.
 
-Then there are many who refer the tides to the moon, saying that this has a particular dominion over the water. Lately a certain prelate has published a little tract wherein he says that the moon, wandering through the sky, attracts and draws up toward itself a heap of water which goes along following it, so that the high sea is always in that part which lies under the moon. And since when the moon is below the horizon, this rising nevertheless returns, he tells us that he can say nothing to account for this effect except that the moon not only retains this faculty naturally in itself, but in this case has also the power to confer it upon the opposite sign of the zodiac. Others, as I think you know, say that the moon also has power to rarefy the water by its temperate heat, and that thus rarefied, it is lifted up. Nor are those lacking who . . .
+Then there are many who refer the tides to the moon, saying that this has a particular dominion over the water. Lately a certain prelate has published a little tract wherein he says that the moon, wandering through the sky, attracts and draws up toward itself a heap of water which goes along following it, so that the high sea is always in that part which lies under the moon. 
+
+Since when the moon is below the horizon, this rising nevertheless returns, he tells us that he can say nothing to account for this effect except that the moon not only retains this faculty naturally in itself, but in this case has also the power to confer it upon the opposite sign of the zodiac. 
+
+Others, as I think you know, say that the moon also has power to rarefy the water by its temperate heat, and that thus rarefied, it is lifted up. Nor are those lacking who . . .
 {{< /r >}}
 
 
-SAGR. Please, Simplicio, spare us the rest; I do not think there is any profit in spending the time to recount them, let alone the words to refute them. If you should give assent to any of these or to similar triflings, you would be wronging your own judgment -- just when, as we know, it has been, much unburdened of error.
+{{< r a="Sagredo" >}}
+Please, Simplicio, spare us the rest.
+<!-- ; I do not think there is any profit in spending the time to recount them, let alone the words to refute them. If you should give assent to any of these or to similar triflings, you would be wronging your own judgment -- just when, as we know, it has been, much unburdened of error. -->
+{{< /r >}}
+
 
 {{< l a="Salviati" >}}
 Simplicio, waters which have their external surfaces higher expel those that are lower, but not that those which are deeper do so; and the higher waters, having driven away the lower, quickly come to rest and equilibrium. 
@@ -92,6 +147,7 @@ As for those who make the temperate heat of the moon able to swell the water, yo
 
 Let us just say that there are two sorts of poetical minds -- one kind apt at inventing fables, and the other disposed to believe them.
 {{< /l >}}
+
 
 {{< r a="Simplicio" >}}
 I do not think that anyone believes fables when he knows them to be such; and as to the opinions about the cause of the tides (which are numerous), since I know that there is only one true and primary cause for one effect, I understand perfectly that at most one can be true, and all the rest must be false and fabulous. Perhaps the true one is not even among those which have been produced up to date. I rather believe this to be so, since it would be remarkable if the true cause should shed so little light as not to show through the darkness of so many false ones. But I must say, with that frankness which is permitted here among ourselves, that to introduce the motion of the earth and make it the cause of the tides seems to me thus far to be a concept no less fictitious than all the rest I have heard. If no reasons more agreeable to natural phenomena were presented to me, I should pass on unhesitatingly to the belief that the tide is a supernatural effect, and accordingly miraculous and inscrutable to the human mind -- as are so many others which depend directly upon the omnipotent hand of God.
@@ -140,10 +196,19 @@ We are here in Venice, where the waters are now low; the sea is quiet, the air t
 Now you tell me how and whence it came here. Are there perchance hereabouts some abysses or openings in the bottom of the sea through which the earth draws in and expels the water, breathing like some immense and monstrous whale? If so, why does the water not rise likewise over a space of six hours at Ancona, Dubrovnik (Ragugia), and Corfu, where the increase is small or even imperceptible? Who will find a way to pour new water into an immovable vessel and have it rise only in one definite place and not in others?
 
 Do you perhaps say that this new water is borrowed from the ocean, carried in through the Straits of Gibraltar? This will not remove the difficulties mentioned; it will only make them greater. In the first place, tell me what must be the course of that water which, entering by the strait, is conducted in six hours clear to the extreme coast of the Mediterranean, a distance of tWo or three thousand miles, and retraces the same space on its retUrn? What would become of the ships scattered about on the sea? And what of those in the strait, on a continual watery precipice of immense bulk, entering through a channel no more than eight miles wide -- a channel which must in six hours give passage to enough water to inundate a space hundreds of miles wide and thousands long? Where is the tiger or falcon that ever ran or flew with such speed? A speed, I mean, of 400 miles an hour or better.
+{{< /l >}}
 
-It cannot be denied that there are currents running the length of the gulf, but they are so slow that a rowboat can outrun them, though not without losing headway. Besides, if this water comes in through the strait, there is another difficulty: How does it cause so much of a rise here, at so remote a place, without first raising the closer parts by a similar or greater amount? To sum up, I do not believe that either obstinacy or subtleness of wit could ever discover a reply to these difficulties and thereby be able to maintain the fixity of the earth against them, while remaining within natural limitations.
 
-These effects must be consequences of the motions which belong naturally to the earth it is not only necessary that they encounter no obstacle or impediment, but that they follow easily. Nor must they merely follow easily; they must follow necessarily, in such a way that it would be impossible for them to take place in any other manner For such is the property and condition of things which are natural and true.
+{{< l a="Salviati" >}}
+There are currents running the length of the gulf, but they are so slow that a rowboat can outrun them, though not without losing headway. 
+
+Besides, if this water comes in through the strait, there is another difficulty: How does it cause so much of a rise here, at so remote a place, without first raising the closer parts by a similar or greater amount? 
+
+I do not believe that either obstinacy or subtleness of wit could ever discover a reply to these difficulties and thereby be able to maintain the fixity of the earth against them, while remaining within natural limitations.
+
+These effects must be consequences of the motions which belong naturally to the earth it is not only necessary that they encounter no obstacle or impediment, but that they follow easily.
+
+Nor must they merely follow easily; they must follow necessarily, in such a way that it would be impossible for them to take place in any other manner For such is the property and condition of things which are natural and true.
 
 Having established that it is impossible to explain the movements perceived in the waters and at the same time maintain the immovability of the vessel which contains them, let us pass on to considering whether the mobility of the container could produce the required effect in I the way in which it is observed to take place. 
 
@@ -161,7 +226,9 @@ But if on the other hand the same barge noticeably increases its speed in the mi
 
 The first is that in order to make the water rise at one extremity of the vessel, there is no need of new water, nor need the water run there from the other end.
 
-The second is that the water near the middle does not rise or sink noticeably unless the course of the barge happens to be very fast to begin with, and the object struck or other hindrance which checks it is very strong and unyielding. In such an event this might not only make all the water run forward, but cause most of it to jump right out of the barge; the same would also happen if a very violent impulse were suddenly given to it when it was traveling very slowly. But if to a gentle motion of its own there were added a moderate retardation or acceleration, the parts in the middle (as I said) would rise and sink imperceptibly, and the other parts would rise the less according as they were closer to the middle, and the more according as they were farther from it.
+The second is that the water near the middle does not rise or sink noticeably unless the course of the barge happens to be very fast to begin with, and the object struck or other hindrance which checks it is very strong and unyielding. 
+
+In such an event this might not only make all the water run forward, but cause most of it to jump right out of the barge; the same would also happen if a very violent impulse were suddenly given to it when it was traveling very slowly. But if to a gentle motion of its own there were added a moderate retardation or acceleration, the parts in the middle (as I said) would rise and sink imperceptibly, and the other parts would rise the less according as they were closer to the middle, and the more according as they were farther from it.
 
 The third thing is that whereas the parts around the center make little change as to rising or sinking with respect to the water at the ends, yet they run to and fro a great deal in comparison with the water at the extremities.
 

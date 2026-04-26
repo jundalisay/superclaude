@@ -70,3 +70,11 @@ For example: The chair you are sitting on is not actually "real". But your EXPER
 Reincarnation is not linear.
 - Your past life is different in each moment as you change in each moment.
 
+
+
+## Palm Reading is Arbitrary (Elan)
+
+Palm Reading is Arbitrary based on beliefs. Palms can change.
+
+A reader might say a person has a short life. But if the subject person does not believe in it then he can have a long life. 
+

@@ -1,5 +1,4 @@
 ---
-heading: "Chapter 8"
 title: "'The Butterfly Effect"
 # date: 2015-09-09
 date: 2020-12-24
