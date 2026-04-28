@@ -145,36 +145,80 @@ This does not confine people to a particular territory, but instead pervades a p
 
 That is, instead of thinking about the welfare of a particular geographical area, people think about the well-being of a group, even to the exclusion of all other groups.
 
-And in the process, while they concern themselves with the interest of a particular group, they do not hesitate to violate the interests and natural growth of other groups. Perhaps this socio-sentiment is a bit better than geo-sentiment, but it is not altogether ideal; it is not free from defects.
+In the process, while they concern themselves with the interest of a particular group, they do not hesitate to violate the interests and natural growth of other groups. 
 
-Socio-sentiment has, in the past, caused much bloodshed and created enormous division and mutual distrust among human groups, separating one group from another and throwing them into the dark dungeons of petty dogmas. Humanity’s movement is then no longer like a broad and flowing river, but like a stagnant pool.
+Perhaps this socio-sentiment is a bit better than geo-sentiment, but it is not altogether ideal. It is not free from defects.
 
-There is still another sentiment – human sentiment. Many persons were born in the past who shed copious tears for suffering humanity. But strangely enough, after their eloquent speeches were over, they sat down comfortably at a dinner table and treated themselves to a delicious meal of hilsa and kaimách fish(1) – as if those fish had not suffered pain and death. This human sentiment has expressly violated the interests of non-human creatures, but its proponents have found nothing wrong with it.
+Socio-sentiment has, in the past:
+- caused much bloodshed 
+- created enormous division and mutual distrust among human groups
+ 
+This:
+- separated one group from another
+- threw them into the dark dungeons of petty dogmas
 
-Once I read in a certain book that a great saint used to live only on locusts dipped in honey. That saint did not seriously consider that those little locusts also had vital life force throbbing in them.
+Humanity’s movement is then no longer like a broad and flowing river, but like a stagnant pool.
 
-Obviously human beings will have to behave rationally; they must maintain their existence while adjusting with the external environment. It is true that living creatures are the food for other living beings (jiivah jiivasya bhojanam); and indeed, the vegetables that we eat every day also have living cells in them. But regarding food, I have expressed my opinion in some of my books.(2)
+There is still another sentiment – human sentiment. 
 
-This concern for the vital rhythm throbbing in other human creatures has driven people to the fold of humanism, has made them humanists. Now, if the same human sentiment is extended to include all creatures of this universe, then and only then can human existence be said to have attained its final consummation. And in the process of expanding one’s inner love to other creatures, there should be another sentiment behind this human sentiment, which will vibrate human sentiment in all directions, which will touch the innermost recesses of the hearts of all creatures, and lead one and all to the final stage of supreme blessedness.
+Many persons were born in the past who shed copious tears for suffering humanity. 
 
+But strangely enough, after their eloquent speeches were over, they sat down comfortably at a dinner table and treated themselves to a delicious meal of hilsa and kaimách fish(1) – as if those fish had not suffered pain and death.
+
+This human sentiment has expressly violated the interests of non-human creatures, but its proponents have found nothing wrong with it.
+
+Once I read that a great saint used to live only on locusts dipped in honey. 
+
+That saint did not seriously consider that those little locusts also had vital life force throbbing in them.
+
+Human beings will have to behave rationally.
+
+They must maintain their existence while adjusting with the external environment. 
+
+It is true that living creatures are the food for other living beings (jiivah jiivasya bhojanam).
+
+The vegetables that we eat every day also have living cells in them. But regarding food, I have expressed my opinion in some of my books.(2)
+
+This concern for the vital rhythm throbbing in other human creatures has driven people to the fold of humanism, has made them humanists.
+
+If the same human sentiment is extended to include all creatures of this universe, then and only then can human existence be said to have attained its final consummation. 
+
+In the process of expanding one’s inner love to other creatures, there should be another sentiment behind this human sentiment, which will vibrate human sentiment in all directions, which will touch the innermost recesses of the hearts of all creatures, and lead one and all to the final stage of supreme blessedness.
+
+
+{{< q a="Viśńupuráńa" >}}
 Vistárah sarvabhútasya Viśńorvishvamidaḿ jagat;
 Draśt́avyamátmavattasmádabhedena vicakśańaeh.
 
-–Viśńupuráńa
-
 [This manifested universe is the expression of Viśńu, the latent All-Pervading Entity. Therefore a wise person should look upon everything as his or her own, from an integral viewpoint.]
+{{< /q >}}
+
 
 
 ## Humanity’s Greatest Treasure
 
-All molecules, atoms, electrons, protons, positrons and neutrons are the veritable expressions of the same Supreme Consciousness. Those who remember this reality, who keep this realization ever alive in their hearts, are said to have attained perfection in life. They are the real bhaktas [devotees]. When this devotional cult(3) does not remain confined to a mere practice, but instead is elevated to a devotional sentiment, a devotional mission, to the realm of devotional ideation – when the underlying spirit of humanism is extended to everything, animate and inanimate, in this universe – I have designated this as “Neohumanism”. This Neohumanism will elevate humanism to universalism, the cult of love for all created beings of this universe.
+All molecules, atoms, electrons, protons, positrons and neutrons are the veritable expressions of the same Supreme Consciousness. 
 
-So the actual task of human beings is to maintain a subjective approach – that is, they will advance psycho-spiritually towards the Supreme Consciousness, inspired by Neohumanistic ideals – while at the same time they must strive for the expansion of humanistic principles and thus establish a social structure based on universalism. Otherwise, their inner psycho-spiritual rhythms will not be able to properly maintain equilibrium with narrow sentiments such as geo-sentiment, and this will have a disastrous effect on society.
+Those who remember this reality, who keep this realization ever alive in their hearts, are said to have attained perfection in life. They are the real bhaktas [devotees]. 
 
-As we have already said, the greatest human treasure is devotional sentiment, devotional wonts. This devotional wealth must be preserved; otherwise humanity will lose its most valuable possession. The people of the present-day world have made considerable progress, so now they must not permit this highest human treasure to be destroyed. Whenever we see that the pressure of external circumstances threatens this life essence, we should appeal to the Supreme: “O Lord, please be kind enough to protect our inner vitality from total destruction. Save us from the agony of total loss.”
+When this devotional cult(3) does not remain confined to a mere practice, but instead is elevated to a devotional sentiment, a devotional mission, to the realm of devotional ideation – when the underlying spirit of humanism is extended to everything, animate and inanimate, in this universe – I have designated this as “Neohumanism”. 
+
+This Neohumanism will elevate humanism to universalism, the cult of love for all created beings of this universe.
+
+So the actual task of human beings is to maintain a subjective approach – that is, they will advance psycho-spiritually towards the Supreme Consciousness, inspired by Neohumanistic ideals – while at the same time they must strive for the expansion of humanistic principles and thus establish a social structure based on universalism. 
+
+Otherwise, their inner psycho-spiritual rhythms will not be able to properly maintain equilibrium with narrow sentiments such as geo-sentiment, and this will have a disastrous effect on society.
+
+The greatest human treasure is devotional sentiment, devotional wonts. This devotional wealth must be preserved; otherwise humanity will lose its most valuable possession. 
+
+The people of the present-day world have made considerable progress, so now they must not permit this highest human treasure to be destroyed. 
+
+Whenever we see that the pressure of external circumstances threatens this life essence, we should appeal to the Supreme: “O Lord, please be kind enough to protect our inner vitality from total destruction. Save us from the agony of total loss.”
 
 21 February 1982, Calcutta
-Footnotes
+
+
+## Footnotes
 
 (1) Expensive fish dishes usually enjoyed by the rich in India. –Trans.
 

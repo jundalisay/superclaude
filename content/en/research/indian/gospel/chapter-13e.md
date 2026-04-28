@@ -11,22 +11,22 @@ description: ""
 
 
 
+In the same state he said, addressing the devotees: 
 
+{{< l a="Ramakrishna" >}}
+"That which is Brahman is verily Śakti. I address That, again, as the Mother. I call It Brahman when It is inactive, and Śakti when It creates, preserves, and destroys. 
 
-In the same state he said, addressing the devotees: "That which is Brahman is verily
-Śakti. I address That, again, as the Mother. I call It Brahman when It is inactive, and
-Śakti when It creates, preserves, and destroys. It is like water, sometimes still and
-sometimes covered with waves. The Incarnation of God is a part of the lila of Śakti. The
-purpose of the Divine Incarnation is to teach man ecstatic love for God. The Incarnation
+It is like water, sometimes still and sometimes covered with waves. The Incarnation of God is a part of the lila of Śakti. The purpose of the Divine Incarnation is to teach man ecstatic love for God. The Incarnation
 is like the udder of the cow, the only place milk is to be got. God incarnates Himself as
 man.
 
 There is a great accumulation of divinity in an Incarnation, like the accumulation
 of fish in a deep hollow in a lake."
+{{< /l >}}
 
-Some of the devotees wondered, "Is Sri Ramakrishna an Incarnation of God, like
 
-Krishna, Chaitanya, and Christ?"
+Some of the devotees wondered, "Is Sri Ramakrishna an Incarnation of God, like Krishna, Chaitanya, and Christ?"
+
 
 Sunday, September 9, 1883
 

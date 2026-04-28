@@ -18,8 +18,6 @@ Tsz-chang asked: Is it possible to forecast the state of the country 10 generati
 
 Since the 2008 from the US Presidential elections and 2013 from the Greek Debt Crisis, we've been making predictions on society and economics as an implentation of Supersociology.
 
-{{< youtube aBb6eqh5fsU >}}
-
 <!-- We are now confident that it works and have since begana paid prediction service. -->
 
 
@@ -40,7 +38,7 @@ World | 2019 | A large scale war will happen between 2025-2030 | {{< color color
 ![Russian flag](/flags/ru.png) | 2023 | Russia will step up its offensives against Ukraine despite the lack of resources | {{< color color="green" val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2023 | The Gaza war will continue well beyond 12 months. | {{< c v="Green" >}}Correct{{< /c >}}
 ![Philippine flag](/flags/ph.png) | 2022 | Bongbong Marcos will win the elections | {{< color val="Correct" >}}
-![Cuba flag](/flags/cu.png) | 2022 | The US will reduce sanctions during its mid-Thinker cycle | {{< c v="orange" >}}Pending (This has partly come true with Biden easing some sanctions in 2024){{< /c >}}
+![Cuba flag](/flags/cu.png) | 2022 | The US will reduce sanctions during its mid-Thinker cycle | {{< c v="orange" >}}Mostly Wrong. This has partly come true with Biden easing some sanctions in 2024. But was reversed by Trump's blockade. This exposes the fact that the US was in a Warrior Cycle (which was strengthened by Harris' loss){{< /c >}}
 ![Hungary flag](/flags/hu.png) | 2022 | Hungary: Orban will win the elections | {{< color val="Correct" >}}
 ![Japan flag](/flags/jp.png) | 2021 | Probing prediction--Kono will be Prime Minister. In reality, Kishida won. This proves that Japanese political system is [a society within a society](/social/cycles/japan/) that represents itself and not the people, just like China's Communist party. To predict Japan's elections, the model has to be applied to the LDP | {{< color color="Navy" val="Null" >}}
 ![US flag](/flags/us.png) | 2008 & 2012 | Obama will win the elections, 2016 Clinton will win the popular vote, 2020 Biden will win the popular vote | {{< color val="Correct" >}}
@@ -92,6 +90,10 @@ For example, Ukraine already knew the aggressiveness of Russia from 2014-2019 in
 
 Historical events are used as ‘markers’ for plotting the flow of this mentality, which can be used as training data for Artificial Intelligence to better crunch all events together to form more accurate mentalities and therefore predictions.
 
+
+This is the basis for our prediction app:
+
+{{< youtube aBb6eqh5fsU >}}
 
 ## Social Years, Months, Weeks, Days
 

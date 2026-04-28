@@ -108,7 +108,9 @@ Even the least question regarding propriety or impropriety does not arise in the
 
 Now as a human being, what should one do? One should follow the path of rationality. Rationality is a treasure of humanity that no animal possesses. And those who possess the inner asset of devotion within their hearts and follow the path of rationality in dealing with the external world, must be victorious. They alone can accomplish worthy deeds in this world.
 
-Those who are motivated by sentiment may earn temporary applause, but ultimately people realize, “No, they committed a mistake, they did not follow the path of rationality. They themselves were caught in the current of sentiment, and they drifted the society also in that current. As a result society has been destroyed.” From then on, people start forming bad opinions about them. So those who once earned the highest positions of respect in different fields of life, later find that their thrones of glory lie shattered in the dust. This is the lesson which history teaches us.
+Those who are motivated by sentiment may earn temporary applause, but ultimately people realize, “No, they committed a mistake, they did not follow the path of rationality. They themselves were caught in the current of sentiment, and they drifted the society also in that current. 
+
+As a result society has been destroyed.” From then on, people start forming bad opinions about them. So those who once earned the highest positions of respect in different fields of life, later find that their thrones of glory lie shattered in the dust. This is the lesson which history teaches us.
 
 At a particular time, people treat someone with great respect, give him or her great importance, and elevate him or her to a throne of glory; but a time comes when the same people drag him or her down to the dust, saying, “Your days are finished. You have done much harm.” Those who follow the path of rational judgement may perform great and glorious deeds, or mediocre deeds, or perhaps they do not even do anything worthy of mention at all – but at least they do no harm to society. So whatever degree of respect they have earned, remains unaffected, because they did not injure society at all.
 
@@ -239,5 +241,6 @@ And – what is more harmful – different groups become violent towards each ot
 
 (1) The holiest of places associated with Lord Krśńa. –Trans.
 
-Published in:
+<!-- Published in:
 The Liberation of Intellect: Neohumanism
+ -->

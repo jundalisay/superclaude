@@ -1,9 +1,6 @@
 ---
-title: Philippines
-# linkTitle: "Philippines"
-description: The Constitution Of The Republic Of The Philippines
+title: "The 1987 Constitution"
+linkTitle: "1987 Constitution"
 image: "/flags/ph.png"
-weight: 18
-# aliases:
-#   /en/constitutions
+weight: 1
 ---

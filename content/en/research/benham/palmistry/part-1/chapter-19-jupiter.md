@@ -9,6 +9,14 @@ icon: "William Benham"
 ---
 
 
+{{< b >}}
+We have put up our palm reading app at: https://palm.pantrypoints.com
+
+![Palm Reading Service](/graphics/palm/palm.jpg)
+{{< /b >}}
+
+
+
 The following strengthen a Mount or line as single signs, or in combination with each other:
 - star
 - triangle

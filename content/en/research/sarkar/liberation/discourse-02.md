@@ -46,7 +46,11 @@ At present, cynicism is becoming rampant in most countries.
 
 All the factors that cause this imbalance in the external world, the primary one is geo-sentiment, which concerns itself with the interests of one’s own locality at the expense of other localities.
 
-People will have to fight against geo-sentiment in their individual lives in order to direct their inner beings towards perfection, to develop their latent humanity along the proper channels, and to elevate the demi-humans, or half-humans, and the quarter-humans to the level of fully-developed human beings.
+People will have to fight against geo-sentiment in their individual lives in order to:
+- direct their inner beings towards perfection
+- develop their latent humanity along the proper channels
+- elevate the demi-humans, or half-humans, and the quarter-humans to the level of fully-developed human beings.
+
 
 At the same time, intelligent people should no longer remain silent, but rather exhort the people to oppose this geo-sentiment.
 
@@ -63,11 +67,14 @@ All these sentiments certainly hinder the inner growth of human beings.
 
 So people must remain vigilant, lest this precious treasure, their inner asset, be destroyed. It is said:
 
+
+{{< q >}}
 Pát́hato násti múrkhatvaḿ jagato násti pátakam;
 Maonináḿ kalaho násti na bhayaḿ cásti jágratah.
 
-
 “O clever human being, if you want to be a fool, give up studying. If you want to be a sinner, avoid feelings of sympathy for others. If you want just to live a peaceful life and never be disturbed, then keep silent. If you hope to completely avoid danger, then you must never close your eyes.”
+{{< /q >}}
+
 
 Rationalistic mentality is the most powerful weapon to fight this geo-sentiment.
 

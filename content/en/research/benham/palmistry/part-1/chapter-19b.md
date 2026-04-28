@@ -9,6 +9,14 @@ icon: "William Benham"
 ---
 
 
+{{< b >}}
+We have put up our palm reading app at: https://palm.pantrypoints.com
+
+![Palm Reading Service](/graphics/palm/palm.jpg)
+{{< /b >}}
+
+
+
 The consistency of the hand will show whether:
 - energy will back the ambition, or
 - soft or flabby qualities will cause the ambition to be only unfulfilled desire. 
