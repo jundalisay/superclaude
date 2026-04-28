@@ -69,6 +69,11 @@ The intensity of the fire therefore depends on how the matter particles or 3rd E
 We can define the Magnitude of Fire Intensity ($I$) as the balance between the outward momentum of ejected space particles and the inward momentum of densified space particles.
 
 ```
+I = K ((v<sub>e</sub> • f<sub>e</sub>) / v<sub>i</sub> • f<sub>i</sub> + s ) •🔺A
+```
+
+<!-- 
+```
 I = u(∑(m<sub>e</sub> • v<sub>e</sub>) - ∑(m<sub>s</sub> • v<sub>s</sub>)
 ```
 
@@ -79,7 +84,7 @@ I = u(∑(m<sub>e</sub> • v<sub>e</sub>) - ∑(m<sub>s</sub> • v<sub>s</sub>
 - v<sub>e</sub> (Velocity of Ejection): The speed at which these particles are being "thrown" out by the internal agitation.
 - m<sub>s</sub> (Mass of Imposed Particles): The density of space particles being forced back into the body (This can be densified by sound apparatus).
 - v<sub>s</sub> (Velocity of Imposition): The speed at which the sound waves/pressure drive these particles into the burning mass.
-
+ -->
 
 
 <!-- In Descartes Physics, the combustion of matter relies on the ejection of space particles rapidly from a body that has molecules that are loose and movable such as wood, leaves, cotton, etc. This is because the presence of a lot of space particles or high volume of space particles prevent heat particles from interacting with matter particles. Matter is ignited when space is removed suddenly such as in friction of wood or striking flint. Therefore, the injection of space particles back into a burning mass will extinguish the fire. This is done by water which has a high density of space particles which gives it liquid properties. We propose a non water way to extinguish fire by using sound to densify space particles. Make an equation wherein fire magnitude of intensity is directly affected by the ejection or imposition of space particles. The speed of the addition or ejection should be there. Also it should explain why wood does not burn until it is struck with friction or its matter is agitated and made to move by externa fire which already has a lot of moving heat particles -->
