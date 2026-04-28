@@ -19,7 +19,10 @@ aliases:
 
 Part 3 explained that a particle's gender (male for negative charge, female for positive) stands for its rotation direction. This assumes that the particle is staying still while rotating. 
 
-Spin is another concept that shows the orientation direction.
+Spin is another concept that shows the orientation direction. This was explained by Descartes as corkscrewing striated particles which are now called virtual photons"
+
+![Corkscrew](/graphics/physics/corkscrew2.jpg)
+
 
 Helicity is how the particle moves forward: 
 

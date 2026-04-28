@@ -52,9 +52,10 @@ Dog |
 Word | Meaning or Representation
 --- | ---
 Aveyo | In service
+Bashar | Messenger
 Essassani | Place of living light
 Sassani | Living light
-
+Elan | Eagerness for Action; One that represents the whole
 
 
 

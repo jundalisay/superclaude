@@ -21,6 +21,9 @@ Since the 2008 from the US Presidential elections and 2013 from the Greek Debt C
 <!-- We are now confident that it works and have since begana paid prediction service. -->
 
 
+{{< n n="Because of the rise of prediction-gambling apps like Kalshi and Polymarket, we have stopped publicizing our predictions. Instead we use them for policy advocacy, such as how to end the Iran war ASAP by using the Intellectual class to overpower the Warrior class" >}}
+
+
 ## Prediction List 
 
 Here are the results so far:

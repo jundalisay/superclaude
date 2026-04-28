@@ -1,89 +1,79 @@
 ---
 heading: "Unit 2"
-linkTitle: Electromagnetism
-title: "Electromagnetism or Vortex Magnetism"
-# date: 2023-03-01
+linkTitle: "Magnetism from Channels and Dipoles"
+title: "Dipoles"
 date: 2024-12-29
-weight: 9
-description: "Magnetism is facilitated by virtual photons which have a columnar shape"
-image: /graphics/physics/vmagnet.jpg
+weight: 8
+image: /photos/objects/channel.jpg
+description: "Virtual photons facilitate magnetic force when they are concentrated into channels."
 icon: "Juan"
-aliases:
-  /material/principles/part-3/chapter-03d
 ---
 
 
-There are 2 kinds of magnetism based on layer:
 
-1. Vortexless or Material Magnetism 
+Virtual photons facilitate magnetic force when they are concentrated into channels. 
 
-This is natural magnets in the material layer caused by natural channels in metals.
+This is because they are very small, much smaller than the space particles that cause spatial forces like gravity. 
+- We can say that magnetism is gravity facilitated by virtual photons and directed by channels.
 
-This is created by:
-- the natural channels in ferromagnets
-  - Ferromagnets have channels because they do not close 
-- the alignment of magnetic domains in metals
-  - A channel can align by putting it through a strong magnetic field. 
+Each channel has an entrance and exit, called poles. 
 
+A material magnet always has two poles, as dipoles, because that is the nature of a channel.
 
-2. Vortex Magnetism or Electromagnetism
+A radiant magnet, called a magnetic moment, also has diploes. 
 
-This is created by:
-- the magnetic moment of particle
-  - This is from the channels formed by the spinning particle
-- the orbital magnetism of atoms
-  - This is from the channels formed by orbital movement
-
-
-
-Object | Mechanism
+Layer | Effect of Virtual Photon on Channel
 --- | ---
-Magnetic Moment | Hole or Gap in Particles
-Electromagnet | Channels created by electricity
-Superconductors | Channels created by coldness
-Cling wrap | Static electricity acting as channels
-Gecko feet | Electron density acting as channels
+Radiant, Convertible, Material Quanta| Spin
+Material vom | North and South Poles
 
 
-{{< i s="/graphics/physics/vmagnet.jpg" a="Magnet" >}}
+A monopole cannot exist just as a channel must always have an entrance and an exit. 
 
 
+## How Virtual Photons Cause Magnetism
 
-## Magnetic Fields: Divergence and Curl
+Virtual Photons Cause Magnetism whether as:
+- material magnetism as static channels in matter
+- electromagnetism as dynamic channels in electron flow
+  - The spinning electrons create the channels on the fly
 
-A magnetic field is created by a channel in matter. The entrance and exit of the channel are the 2 poles. 
+The entrance of the channel creates an inflow of virtual photons. 
 
-This channel allows virtual photons to enter from one side and exit the other. This creates:
-- a low pressure at the entrance, called a negative divergence, and inside the channel
-- a high pressure at the exit, called a positive divergence
+This flow drags space particles with them. This creates the spatial force called magnetism. 
 
-The virtual photons at the exit go back the lowest pressure at the entrance in order to equalize the imbalance the pressures. 
-- This creates a flowing circular pattern called 'curl' that is part of a magnetic field in Physics.
-- a positive curl is a clockwise rotation in the field
-- a negative curl is an anticlockwise rotation
+This is the same drag caused by space particles that are ejected by matter than then causes a flow that drags matter back to that matter. 
 
 
 
-## The Lesser Magnetic Forces
+<!-- This is consistent with:
+- material gravity coming from simple displacement of space particles
+- orbital gravity coming from the dynamic rotation of a stellar-vortex -->
 
-The attractive and repulsive forces done through virtual photons and electrons of the Radiant Layer produce the following foces:
 
-Force | Description 
---- | --- 
-Electromotive Force (EMF) | Conversion of energy to electrical energy via electrons
-Van der Waals Force | The magnetic effect by static electricity 
+Type | Radiant | Spatial
+--- | --- | ---
+Dynamic Vortex | Electromagnetism | Orbital Gravity
+Static Vortex | Material Magnetism | Material Gravity 
 
-<!-- gives the direction for thloops back or 'curls' around that entrance or exit.  -->
 
-<!-- 1. Quantum Level
-2. Substance Level
-3. Version (chemical element) Level 
-4. Material Level
+All magnetic forces, even material magnetism, originates from vortex magnetism. 
 
-In Cartesian Physics, the mechanism for magnetism is similar to that of light: There has to be straight, continuous channels which the virtual photons can pass through unimpeded. 
-- An alignment for virtual photons leads to magnetic bodies
-- An alignment for photons leads to transparent bodies -->
+Natural magnets are an example of material magnetism. These were magnetized when they were struck by lightning. This drilled channels into the ore, creating vortices.
 
-<!-- {{< youtube pQyy7W41Dkg >}} -->
+Another example is the superconductor which are metals that have very straight channels.
 
-<!-- https://youtu.be/ww92Q0tGL5s -->
+
+### Magnetic Attraction and Repulsion
+
+Repulsion happens when the channels are opposed to each other. For example, when:
+- an exit faces an exit
+- an entrance faces and an entrance 
+
+Attraction happens when the chanels are aligned like when an exit is next to an entrance. This allows the virtual photons to keep on flowing.
+
+This increases the magnetism by increasing the low pressure to a larger area.  
+
+We call:
+- the exit as the male pole
+- the entrance as the female pole

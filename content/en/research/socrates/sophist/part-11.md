@@ -1,112 +1,112 @@
 ---
-title: "Motion and Rest"
-heading: "Part 11"
-weight: 26
+title: "The Foreigner"
+heading: "Part 12"
+weight: 29
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "steelblue"
-description: "But, surely, motion and rest are neither the other nor the same"
+description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "Socrates"
 ---
 
 
 
-
 {{< l a="Foreigner" >}}
-Since, then, we are agreed that some classes have a communion with one another, and others not, and some have communion with a few and others with many, and that there is no reason why some should not have universal communion with all, let us now pursue the enquiry, as the argument suggests, not in relation to all ideas, lest the multitude of them should confuse us, but let us select a few of those which are reckoned to be the principal ones, and consider their several natures and their capacity of communion with one another, in order that if we are not able to apprehend with perfect clearness the notions of being and not-being, we may at least not fall short in the consideration of them, so far as they come within the scope of the present enquiry, if peradventure we may be allowed to assert the reality of not-being, and yet escape unscathed.
+Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye—it may or may not be, and may or may not be capable of definition.
 
-The most important of all the genera are those which we were just now mentioning—being and rest and motion. And two of these are, as we affirm, incapable of communion with one another.
+But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. 
 
-Whereas being surely has communion with both of them, for both of them are. That makes up three of them. Each of them is other than the remaining two, but the same with itself.
+And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
 
-But then, what is the meaning of these two words, 'same' and 'other'? Are they two new kinds other than the three, and yet always of necessity intermingling with them, and are we to have five kinds instead of three; or when we speak of the same and other, are we unconsciously speaking of one of the three first kinds?
+He who is sceptical of this contradiction, must think how he can find something better to say; or if he sees a puzzle, and his pleasure is to drag words this way and that, the argument will prove to him, that he is not making a worthy use of his faculties; for there is no charm in such puzzles, and there is no difficulty in detecting them; but we can tell him of something else the pursuit of which is noble and also difficult.
 
-But, surely, motion and rest are neither the other nor the same.
+A thing of which I have already spoken;—letting alone these puzzles as involving no difficulty, he should be able to follow and criticize in detail every argument, and when a man says that the same is in a manner other, or that other is the same, to understand and refute him from his own point of view, and in the same respect in which he asserts either of these affections. But to show that somehow and in some sense the same is other, or the other same, or the great small, or the like unlike; and to delight in always bringing forward such contradictions, is no real refutation, but is clearly the new-born babe of some one who is only beginning to approach the problem of being.
 
-Whatever we attribute to motion and rest in common, cannot be either of them. This is because motion would be at rest and rest in motion, for either of them, being predicated of both, will compel the other to change into the opposite of its own nature, because partaking of its opposite.
+For certainly, my friend, the attempt to separate all existences from one another is a barbarism and utterly unworthy of an educated or philosophical mind.
 
-Yet they surely both partake of the same and of the other. Then we must not assert that motion, any more than rest, is either the same or the other.
+The attempt at universal separation is the final annihilation of all reasoning; for only by the union of conceptions with one another do we attain to discourse of reason.
 
-But we are to conceive that being and the same are identical. But if they are identical, then again in saying that motion and rest have being, we should also be saying that they are the same.
-
-Then being and the same cannot be one. Then we may suppose the same to be a fourth class, which is now to be added to the three others. We shall call the other a fifth class Or being and other are two names of the same class.
-
-Existences are relative as well as absolute. And the other is always relative to other. But this would not be the case unless being and the other entirely differed; for, if the other, like being, were absolute as well as relative, then there would have been a kind of other which was not other than other. And now we find that what is other must of necessity be what it is in relation to some other.
-
-Then we must admit the other as the fifth of our selected classes. The fifth class pervades all classes, for they all differ from one another, not by reason of their own nature, but because they partake of the idea of the other. Then let us now put the case with reference to each of the five.
-
-First there is motion, which we affirm to be absolutely 'other' than rest. And therefore is not rest. And yet is, because partaking of being. Motion is other than the same and is therefore not the same. Yet, surely, motion is the same, because all things partake of the same.
-
-Then we must admit, and not object to say, that motion is the same and is not the same, for we do not apply the terms 'same' and 'not the same,' in the same sense; but we call it the 'same,' in relation to itself, because partaking of the same; and not the same, because having communion with the other, it is thereby severed from the same, and has become not that but other, and is therefore rightly spoken of as 'not the same.'
-
-If absolute motion in any point of view partook of rest, there would be no absurdity in calling motion stationary.
+Observe that we were only just in time in making a resistance to such separatists, and compelling them to admit that one thing mingles with another.
 {{< /l >}}
 
 
-THEAETETUS: Quite right,—that is, on the supposition that some classes mingle with one another, and others not.
-
 {{< l a="Foreigner" >}}
-That such a communion of kinds is according to nature, we had already proved before we arrived at this part of our discussion. Motion is other than the other, having been also proved by us to be other than the same and other than rest. Then, according to this view, motion is other and also not other. 
-
-What is the next step? Shall we say that motion is other than the three and not other than the fourth,—for we agreed that there are five classes about and in the sphere of which we proposed to make enquiry?
+Why, that we might be able to assert discourse to be a kind of being; for if we could not, the worst of all consequences would follow; we should have no philosophy. Moreover, the necessity for determining the nature of discourse presses upon us at this moment; if utterly deprived of it, we could no more hold discourse; and deprived of it we should be if we admitted that there was no admixture of natures at all.
 {{< /l >}}
 
 
-THEAETETUS: Surely we cannot admit that the number is less than it appeared to be just now.
+THEAETETUS: Very true. But I do not understand why at this moment we must determine the nature of discourse.
 
 {{< l a="Foreigner" >}}
-Then we may without fear contend that motion is other than being?
+Perhaps you will see more clearly by the help of the following explanation.
 
-The plain result is that motion, since it partakes of being, really is and also is not. Then not-being necessarily exists in the case of motion and of every class; for the nature of the other entering into them all, makes each of them other than being, and so non-existent; and therefore of all of them, in like manner, we may truly say that they are not; and again, inasmuch as they partake of being, that they are and are existent.
+Not-being has been acknowledged by us to be one among many classes diffused over all being.
 
-Every class, then, has plurality of being and infinity of not-being. And being itself may be said to be other than the other kinds. Then we may infer that being is not, in respect of as many other things as there are; for not-being these it is itself one, and is not the other things, which are infinite in number.
+Thence arises the question, whether not-being mingles with opinion and language.
 
-We must not quarrel with this result, since it is of the nature of classes to have communion with one another; and if any one denies our present statement [viz., that being is not, etc.], let him first argue with our former conclusion [i.e., respecting the communion of ideas], and then he may proceed to argue with what follows.
+If not-being has no part in the proposition, then all things must be true; but if not-being has a part, then false opinion and false speech are possible, for to think or to say what is not—is falsehood, which thus arises in the region of thought and in speech.
 
-When we speak of not-being, we speak, I suppose, not of something opposed to being, but only different. When we speak of something as not great, the expression seems to imply what is little any more than what is equal.
+Where there is falsehood surely there must be deceit.
 
-The negative particles, you and me, when prefixed to words, do not imply opposition, but only difference from the words, or more correctly from the things represented by the words, which follow them.
+If there is deceit, then all things must be full of idols and images and fancies.
 
-The nature of the other appears to me to be divided into fractions like knowledge. Knowledge, like the other, is one; and yet the various parts of knowledge have each of them their own particular name, and hence there are many arts and kinds of knowledge. The same is true with the parts of the other, which is also one.
+Into that region the Sophist, as we said, made his escape, and, when he had got there, denied the very possibility of falsehood; no one, he argued, either conceived or uttered falsehood, inasmuch as not-being did not in any way partake of being.
+
+Not-being has been shown to partake of being, and therefore he will not continue fighting in this direction, but he will probably say that some ideas partake of not-being, and some not, and that language and opinion are of the non-partaking class; and he will still fight to the death against the existence of the image-making and phantastic art, in which we have placed him, because, as he will say, opinion and language do not partake of not-being, and unless this participation exists, there can be no such thing as falsehood. And, with the view of meeting this evasion, we must begin by enquiring into the nature of language, opinion, and imagination, in order that when we find them we may find also that they have communion with not-being, and, having made out the connexion of them, may thus prove that falsehood exists; and therein we will imprison the Sophist, if he deserves it, or, if not, we will let him go again and look for him in another class.
 {{< /l >}}
 
 
-THEAETETUS: Very likely; but will you tell me how?
-
-
-
-FOREIGNER: There is some part of the other which is opposed to the beautiful.
-
-THEAETETUS: Whatever we call not-beautiful is other than the beautiful, not than something else.
+THEAETETUS: Certainly, Stranger, there appears to be truth in what was said about the Sophist at first, that he was of a class not easily caught, for he seems to have abundance of defences, which he throws up, and which must every one of them be stormed before we can reach the man himself. And even now, we have with difficulty got through his first defence, which is the not-being of not-being, and lo! here is another; for we have still to show that falsehood exists in the sphere of language and opinion, and there will be another and another line of defence without end.
 
 
 {{< l a="Foreigner" >}}
-The not-beautiful is anything but this—an existence parted off from a certain kind of existence, and again from another point of view opposed to an existing something.
+Any one, Theaetetus, who is able to advance even a little ought to be of good cheer, for what would he who is dispirited at a little progress do, if he were making none at all, or even undergoing a repulse? Such a faint heart, as the proverb says, will never take a city: but now that we have succeeded thus far, the citadel is ours, and what remains is easier.
 
-Then the not-beautiful turns out to be the opposition of being to being. But upon this view, the beautiful is a more real and the not-beautiful a less real existence. And the not-great exists equally with the great.
+Then, as I was saying, let us first of all obtain a conception of language and opinion, in order that we may have clearer grounds for determining, whether not-being has any concern with them, or whether they are both always true, and neither of them ever false.
 
-In the same way, the just must be placed in the same category with the not-just—the one cannot be said to have any more existence than the other. The same may be said of other things; seeing that the nature of the other has a real existence, the parts of this nature must equally be supposed to exist.
-
-So the opposition of a part of the other, and of a part of being, to one another, is, if I may venture to say so, as truly essence as being itself, and implies not the opposite of being, but only what is other than being.
-
-What then shall we call it?
+Then, now, let us speak of names, as before we were speaking of ideas and letters; for that is the direction in which the answer may be expected.
 {{< /l >}}
 
 
-THEAETETUS: Clearly, not-being; and this is the very nature for which the Sophist compelled us to search.
+THEAETETUS: And what is the question at issue about names?
 
 
 {{< l a="Foreigner" >}}
-Has not this, as you were saying, as real an existence as any other class? May I not say with confidence that not-being has an assured existence, and a nature of its own? Just as the great was found to be great and the beautiful beautiful, and the not-great not-great, and the not-beautiful not-beautiful, in the same manner not-being has been found to be and is not-being, and is to be reckoned one among the many classes of being. Do you, Theaetetus, still feel any doubt of this?
-
-Our scepticism has carried us beyond the range of Parmenides' prohibition. We have advanced to a further point, and shown him more than he forbad us to investigate. This is because he says—
-
-'Not-being never is, and do thou keep thy thoughts from this way of enquiry.'
-
-Whereas, we have not only proved that things which are not are, but we have shown what form of being not-being is; for we have shown that the nature of the other is, and is distributed over all things in their relations to one another, and whatever part of the other is contrasted with being, this is precisely what we have ventured to call not-being.
+The question at issue is whether all names may be connected with one another, or none, or only some of them.
 {{< /l >}}
 
+THEAETETUS: Clearly the last is true.
 
-THEAETETUS: And surely, Stranger, we were quite right.
+FOREIGNER: I understand you to say that words which have a meaning when in sequence may be connected, but that words which have no meaning when in sequence cannot be connected?
+
+THEAETETUS: What are you saying?
+
+FOREIGNER: What I thought that you intended when you gave your assent; for there are two sorts of intimation of being which are given by the voice.
+
+One of them is called nouns, and the other verbs.
+
+That which denotes action we call a verb.
+
+The other, which is an articulate mark set on those who do the actions, we call a noun.
+
+A succession of nouns only is not a sentence, any more than of verbs without nouns.
+
+I see that when you gave your assent you had something else in your mind. But what I intended to say was, that a mere succession of nouns or of verbs is not discourse.
+
+I mean that words like 'walks,' 'runs,' 'sleeps,' or any other words which denote action, however many of them you string together, do not make discourse.
+
+Or, again, when you say 'lion,' 'stag,' 'horse,' or any other words which denote agents—neither in this way of stringing words together do you attain to discourse; for there is no expression of action or inaction, or of the existence of existence or non-existence indicated by the sounds, until verbs are mingled with nouns; then the words fit, and the smallest combination of them forms language, and is the simplest and least form of discourse.
+
+When any one says 'A man learns,' should you not call this the simplest and least of sentences?
+
+Yes, for he now arrives at the point of giving an intimation about something which is, or is becoming, or has become, or will be. And he not only names, but he does something, by connecting verbs with nouns; and therefore we say that he discourses, and to this connexion of words we give the name of discourse.
+
+As there are some things which fit one another, and other things which do not fit, so there are some vocal signs which do, and others which do not, combine and form discourse.
+
+A sentence must and cannot help having a subject and must be of a certain quality.
+
+Let us mind what we are about.
+
+
 
