@@ -63,46 +63,72 @@ He who thinks that, by following this method, he can reach an infinite number of
 
 If this process were followed to (37) eternity there would still remain finite parts which were undivided. 
 
-By such a method one is very far from reaching the goal of indivisibility; on the contrary he recedes from it and while he thinks that, by continuing this division and by multiplying the multitude of parts, he will approach infinity, he is, in my opinion, getting farther and farther away from it.
+By such a method one is very far from reaching the goal of indivisibility. 
 
-My reason is this.
+On the contrary, he recedes from it and while he thinks that, by continuing this division and by multiplying the multitude of parts, he will approach infinity.
 
-In the preceding discussion we concluded that, in an infinite number, it is necessary that the squares and cubes should be as numerous as the totality of the natural numbers [tutti i numeri], because both of these are as numerous as their roots which constitute the totality of the natural numbers.
+I think that he is getting farther and farther away from it because of the following.
+{{< /l >}}
 
-Next we saw that the larger the numbers taken the more sparsely distributed were the squares, and still more sparsely the cubes; therefore it is clear that the larger the numbers to which we pass the farther we recede from the infinite number; hence it follows [83] that, since this process carries us farther and farther from the end sought, if on turning back we shall find that any number can be said to be infinite, it must be unity.
 
-Here indeed are satisfied all those conditions which are requisite for an infinite number; I mean that unity contains in itself as many squares as there are cubes and natural numbers [tutti i numeri]. 
+{{< l a="Salviati" >}}
+This is because, in an infinite number, the squares and cubes should be as numerous as the totality of the natural numbers.
 
-Unity is at once a square, a cube, a square of a square and all the other powers [dignità]; nor is there any essential peculiarity in squares or cubes which does not belong to unity.
+This is because both of these are as numerous as their roots which constitute the totality of the natural numbers.
 
-For example, the property of 2 square numbers that they have between them a mean proportional; take any square number you please as the first term and unity for the other, then you will always find a number which is a mean proportional.
+The larger the numbers taken, the more sparsely distributed were the squares, and still more sparsely the cubes.
+
+Therefore, the larger the numbers to which we pass the farther we recede from the infinite number.
+
+Hence it follows that, since this process carries us farther and farther from the end sought, if on turning back we shall find that any number can be said to be infinite, it must be unity.
+
+This satisfies all those conditions which are requisite for an infinite number -- **Unity contains in itself as many squares as there are cubes and natural numbers.** 
+
+Unity is at once a square, a cube, a square of a square and all the other powers. Nor is there any essential peculiarity in squares or cubes which does not belong to unity.
+
+For example, the property of 2 square numbers that they have between them a mean proportional.
+
+Take any square number as the first term and unity for the other. Then you will always find a number which is a mean proportional.
 
 Consider the 2 square numbers, 9 and 4.
 
 Then 3 is the mean proportional between 9 and 1; while 2 is a mean proportional between 4 and 1; between 9 and 4 we have 6 as a mean proportional.  
 
-A property of cubes is that they must have between them two mean proportional numbers; take 8 and 27; between them lie 12 and 18; while (38) between 1 and 8 we have 2 and 4 intervening; and between 1 and 27 there lie 3 and 9.  
+A property of cubes is that they must have between them two mean proportional numbers.
 
-Therefore, unity is the only infinite number.
+Take 8 and 27; between them lie 12 and 18, while between 1 and 8 we have 2 and 4 intervening. Between 1 and 27 there lie 3 and 9.  
 
-These are some of the marvels which our imagination cannot grasp and which should warn us against the serious error of those who attempt to discuss the infinite by assigning to it the same properties which we employ for the finite, the natures of the two having nothing in common. 
+**Therefore, unity is the only infinite number.**
 
+<!-- These are some of the marvels which our imagination cannot grasp and which should warn us against the  -->
+
+Some people attempt to discuss the infinite by assigning to it the same properties which we employ for the finite.
+- **They are commiting a serious error.**
+- The natures of the finite and infinite have nothing in common. 
+{{< /l >}}
+
+
+{{< l a="Salviati" >}}
 There is a vast change of character which a finite quantity would undergo in passing to infinity.
 
 Draw the straight line `AB`.
 
 Let the point `C` divide it into 2 unequal parts.
 
-If pairs of lines be drawn, one from each of the terminal points A and B, and if the ratio between the lengths of these lines is the same as that between AC and CB, their points of intersection will all lie upon the circumference of one and the same circle.  
+If pairs of lines be drawn, one from each of the terminal points A and B, and if the ratio between the lengths of these lines is the same as that between AC and CB, their points of intersection will all lie on the circumference of one and the same circle.  
 
 Thus, for example, `AL` and `BL` drawn from `A` and `B`, meeting at the point `L`, bearing to one another the same ratio as AC to BC, and the pair AK and BK meeting at K also bearing to one another the same ratio.
 
 Likewise, the pairs AI, BI, AH, BH, AG, BG, AF, BF, AE, BE, have their points of intersection L, K, I, H, G, F, E, all lying upon the circumference of one and the same circle.
 
 Accordingly if we imagine the point C to move continuously in such a manner that the lines drawn from it to the fixed terminal points, A and B, always maintain the same ratio between their lengths as exists between the original parts, AC and CB, then the point C will, as I shall presently prove, describe a circle.
+{{< /l >}}
+
 
 Fig 7 
 
+
+{{< l a="Salviati" >}}
 The circle thus described will increase in size without limit as the point C approaches the middle point which we may call O; but it will diminish in size as C approaches the end B.  
 
 So that the infinite number of points located in the line OB will, if the motion be as explained above, describe circles of every size, some smaller than the pupil of the eye of a flea, others larger than the celestial equator.

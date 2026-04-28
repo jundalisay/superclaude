@@ -25,6 +25,21 @@ A dimension is like a country
 A density is like a state within country
 
 
+## Big Bang
+
+{{< r a="Asker" >}}
+Who created the universe and multiverses?
+{{< /r >}}
+
+{{< l a="Elan" >}}
+Physical reality is finite, it has a beginning, middle, and ending. 
+
+Nonphysical reality is infinite, it has no beginning, middle, and ending. 
+
+All There Is created you. You created your reality.
+{{< /l >}}
+
+
 
 ## Cycles per second
 
@@ -54,3 +69,4 @@ Density | Examples and Notes
 3rd | humans = physical relity as self imposed limitation to experience a reality
 4th | be less limited in physicality 
 5th | non physical -- loses the need for physical acts 
+

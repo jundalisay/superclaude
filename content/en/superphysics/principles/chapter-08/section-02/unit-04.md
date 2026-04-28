@@ -1,104 +1,143 @@
 ---
-heading: "Unit 1"
-title: "Relationality as the Ratio Sign"
-# Math for Qualities and Ratios" more than Quantities and Equalities"  Qualimath: The Maths for Superphysics
-date: 2020-12-27
-weight: 494
-image: "/graphics/physics/math.jpg" 
-description: "Qualimath is Math for operating on Qualities instead of Quantities"
-icon: "Juan"
-math: true
+heading: "Unit 4"
+title: "What is Superlogic or Socratic Dialectics?"
+date: 2019-01-02
+weight: 8
+image: "/photos/meta/superlogic.jpg"
+description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
 aliases:
-  /superphysics/principles/chapter-08d  
-  /qualimath
+  /dialectics
+  /superphysics/principles/chapter-10
 ---
 
 
 
 {{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
+Principle | Assertion
 --- | ---
-Each Idea is Unique | Cause and Effect are in Relation to each other
-. | Supermath Ratios Denote this Relational Cause and Effect
+The Positive Force is Superior to the Negative | Socratic Dialectics uses the Positive Force to sort through the belligerence of the Positive and Negative within the 5 Layers
 {{< /dc >}}
 
 
+The previous section explained dialectics to expose fallacies and conclude debates with a positive and united answer or position.
 
-## Spin (State) 🠮 Action
-
-Chapter 6 explained that reality is made up of perception-relations between identities. 
-
-These then allow long chains of causes and effects, called by the Hindus as ''karma-samskara-karma' or action-pending_reaction-reaction
-
-A long series of chains gains the dynamics of a wave. This wave we can split into 3 states, matching the 3 Gunas or Influences:
-
-1. Karma-Action, as State 1 or Spin 1
-2. Samskara-Pending, as Pseudo-State
-3. Karma-Reaction, as State 2 or Spin 2
-
-We can extend this wave to have more states or spins.
-
-{{< img src="/graphics/super/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+Dialectics is a method from the Positive Force of using philosophical logical dialogue in order to discover the truth, dharma, or to arrive at a solution.
+- logic is the connection of related ideas
+- reason is the connection of cause and effect
 
 
-We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
+Dialectics is needed because the Negative Force clouds all phenomena in varying extents. The bigger the problem, the stronger or more stubborn the Negative Force, as the Maya that hides the answer or solution to the problem. 
 
-```elixir
-State 1 : State 2 : State 3 :: State 4
-```
+The solution is arrived at by finding the dharma or wave-signature in a mess of confusing waves which have come from external influences or from internal samskara that is arriving to cause negative karma or reaction.
 
+An analogy is a messy room that is cleaned often by making a bigger mess as all the things are taken out for classification and sorting.   
 
-We do not notate the pseudostates that are in between:
-- state 1 and 2
-- state 2 and 3
-- state 3 and 4
+{{< i s="/graphics/meta/messy.jpg" a="Before and After" c="The messy room is like a stressful situation with internal conflicts and disharmonies. The clean room is removes the stress by restoring harmony" >}}
 
-This is because they are pending reactions and have no objective manifestation in reality YET.  
+Disagreements arise from minds taking different positions from the differences between their wave-patterns. These differences can be many and strong (wave-strength is a 3rd property of waves). 
 
+Perpetual disagreements can arise from these waves being perpetually strong, allowing no compromise or absorption of the rival waves. This is seen in conflicts between:
+- Jews and Muslims
+- Liberals and Convervatives
+- Science and Religion  
+- Countries fighting for the same territory 
 
-## Relationality
-
-The colon means 'relative to' or 'compared to', and is a fundamental part of our proposed 'Supermath'. 
-
-This is a combination of the ideas from:
-- The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one (i.e. we can connect everything with a relational chain)
-- Socratic philosophy which explains about the One and the Other
-- Descartes' theory of gravity which says that gravity is a relation between bodies
-- Poincare's Law of Relativity which is based on changing states of bodies in a system
+The solution by wise philosophers such as Socrates, Archytas, and Plato was to use the Positive Force to naturally peel away the Negative influence in order to find out the dharma or true wave nature of the minds that are having the problem.  
 
 
-{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
-I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
+{{< q a="Socrates" c="Meno, Chapter 2" >}}
+A dialectician would answer to speak the truth and use premises which the person interrogated would admit.
 {{< /q >}}
 
+This is done by Positive-Minded questioning to reveal the Negative-minded response.
 
-{{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
+The negativity in the response is then exposed, cleaning up the Negativity from that wave. This then exposes other supporting Negative waves (as negative beliefs, ideas, or impositions) which are also questioned, repeating the process. 
 
-We call this Cartesian [relationality](/relationality), which depends on point of view:
+{{< i s="/graphics/logic/solution.jpg" a="Solution from Dialectics" c="Dialectics uses opposing thinking forces, through question and answer, to probe for the dharma, tao, or solution which represents the signature of the situation or issue" >}}
 
-{{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
-Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
-{{< /q >}}
+In time, the negative waves are cleaned up to reveal the causal wave or mentality that is agreeable to all, since dharma is always Positive.  
+
+For example, a couple might be arguing where to eat:
+
+- the woman wants to eat at a Chinese restaurant
+- the man wants to  eat at a French restaurant
+
+If there were no Positive Force between them, then they would eat separately. This would fix the Negative Problem with a Negative Solution by destroying the loving relationship. 
+
+But since the Socratic dialectician can sense the Positive Love between them, then he will unify their negativity, as their opposing desires, by splitting up that negativity into 2 times: the couple could eat at Chinese restaurant today, and eat at a French restaurant tomorrow. Note how this solution includes the cultural context of appeasing or satisfying the woman first. 
+
+{{< i s="/graphics/logic/dialectic.jpg" a="Debate vs Dialectics" c="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
+
+More organized and formal processes that include dialectics are:
+
+- Dialectical Behavior Therapy (DBT) in psycho-therapy
+- Peer reviews in Academia
+- Team feedback
+- Root cause analysis
+- Mentoring 
+- etc
 
 
-In this way, relationality is built into even the most elementary equations, such as those taught for kids. Rather, it is baked into Descartes' 2nd Rule of Motion which is about state-change instead of inertia. And so we can safely throw away everything that Einstein made.
+The main difference between dialectics and Socratic dialectics is that the latter has timeless principles in mind that are aligned with the universe or are dharmic. 
 
-This is different from normal math which uses 'deltas'.
-- Those deltas compare the object with itself at different states.
-- This is because math focuses on the object itself, and not on the totality of the reality where that object is in.
+Academia, organized teams, mentors, companies might not have their mentalities aligned with the true nature of things. In such cases, they use dialectics to align others into their own mentality. 
+
+For example:
+- academic journals accept only the papers that match their beliefs, which shows their mentality.
+- Japanese companies accept the work and leadership styles that match Japanese culture over foreign cultures.
 
 
-### A Concrete Example: The First Law of Value
+<!-- Nowadays, this manifests as peer reviews where new theories and interpretations are filtered out by senior academics* who are supposed to have a better grasp of principles.  
 
-This relationality is implemented in the First Law of Value of [Supereconomics (Economic Superphysics)](https://play.google.com/store/books/details?id=6bhGEQAAQBAJ):
+{{< f f="*In contrast to scientific peer reviews where the academic is a master of material principles, dialectical peer reviews are done by senior metaphysicians (dialecticians) who have a solid grasp of both Eastern and Western metaphysics. Unlike the academic who is verified by a man-made PhD, the seniority of a Socratic dialectician is verified by his track record of predicting things correctly (ideas matching reality)." >}} -->
 
-<b>V<sub>A1</sub> : V<sub>B1</sub> : V<sub>C1</sub> : V<sub>D1</sub> : V<sub>E1</sub></b> ..
 
-<ul>
-<li><b>V<sub>A1</sub></b>: value perception of identity A at time 1</li>
-<li><b>V<sub>B1</sub></b>: value perception of identity B at time 1</li>
-</ul>
+
+You could say that:
+- Dialectics is from the perspective of the limited self
+- Socratic Dialectics is from the perspective of the Universe or Existence or the Totality of Selves (which the self is a part of). The Hindus call this totality as Brahma.
+
+
+<!-- - Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force
+- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self which is also a result of the Negative Force
+
+These two are used to solve problems. 
+- Critical thinking is usually for intellectual and physical problems
+- Critical feeling is usually for social and psychological ones
+ -->
+
+Superphysics solves these isolated or siloed mentalities by applying Socartic dialectics from a mentality that is truly aligned with Nature.
+
+
+## Socratic Dialectics Steps
+
+The steps can be distilled to 3:
+
+1. Identify the Problem
+
+Problems are just going out of Dharma. Some problems are non-problems that actually come from a person or thing adopting the Dharma of another. 
+
+
+2. Probe for the Dharma
+
+This is the laborious part and is the main part of Socratic Dialectics. 
+
+
+3. Restore to the Dharma
+
+This is the solutions part. Implementing a solution frequently uncovers more smaller problems that actually led to the big problem. 
+
+In this case, the step 1 is repeated for every small problem that crops up. 
+
+A good framework for this is the 5-step Stanford Design Thinking model as it iterates quickly.
+
+
+
+## Superlogic as Socratic Dialectics
+
+We update Socratic Dialectics with Superphysics principles and call it as Superlogic.
 

@@ -1,9 +1,9 @@
 ---
 heading: "Unit 4"
-title: "Critical Thinking is from the Upper Part of the Lower Mind"
+title: "Logic as the Flow of the Mind"
 date: 2020-12-27
-weight: 490
-image: "/graphics/psych/know.jpg"  
+weight: 11
+image: /photos/people/aristotle.jpg
 description: "The goal of thinking is knowledge which the mind achieves through intuition, cognition, or realization."
 icon: "Juan"
 math: true
@@ -75,30 +75,3 @@ There are 2 ways of teaching: by Syllogism and by Induction. Induction is the so
 {{< /q >}}
 
 
-
-## Critical Thinking
-
-Usually, we use logic and our intellect whenever we need to solve a problem. 
-
-For example, when want to go to a certain place, we check the map so we can trace a logical path towards it and use our intellect to find the most efficient or least expensive or fastest way to get there. 
-
-If we were omniscient, we would be able to reach our destination without using any map. However, in reality, our intellect is limited and obstructed by the Negative Force.
-
- <!-- as opposition to our desire, from the Positive Force, for that destination.  -->
-
-And so not all of us reach our destination in the perfect way that we planned.
-
-**Ordinary thinking is the application of intellect in the ordinary way within this limitation.** 
-
-Critical thinking is the application of intellect with an added Positive effort to push against or break through such limitation.
-- This is why it is commonly called out-of-the-box thinking which happens when we apply more energy or effort in our thinking process. 
-
-The big misconception is to critical thinking needs more brain power. 
-
-But brain power is of the lower or physical mind and uses electromagnetism instead of the aether. 
-
-Positive effort does not mean more negative or material force like amps or volts. 
-
-Instead, it needs more subtlety and refinement to breach the limitation imposed by the Negative Force. 
-
-Therefore the key component of Critical Thinking is the Positive Force, just as the key component of ignorance is the Negative.

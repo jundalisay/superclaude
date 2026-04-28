@@ -2,7 +2,7 @@
 heading: "Unit 3"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
-image: /photos/psych/think.jpg
+image: "/photos/math/ops.jpg"
 weight: 8
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
@@ -20,7 +20,9 @@ The previous section explained the 3 Actions of the Mind from the 3 Influences o
 2. Force
 3. Memory
 
-The thinking process combines the actions of flow and force, with emphasis on force. Its opposite is inuition which uses Flow from the Higher Mind. 
+The thinking process combines the actions of flow and force, with emphasis on force. 
+
+Its opposite is inuition which uses Flow from the Higher Mind. 
 - With thinking, you have to exert mental force
 - Intution comes easily even without you thinking about it. An example is an idea that suddenly enters your mind out of the blue
 - Thinking uses force to arrive at cognition, intuition, or realization
@@ -41,13 +43,15 @@ All simple ideas may be separated and united by the imagination as it pleases. T
 
 We thus establish the flowing nature of the thinking process. But what directions does it take?
 
-
 Since the actions of the mind are from the 3 Gunas or Influences, and since thinking is a flow, then it follows that thinking has 4 Properties which we can most easily see in arithmetical operations.
 
 
 ## The Four Operations of Arithmetic on Instances
 
 Arithmetic is the basic core of mathematics that uses 4 operations from the flow which matches the 4 properties of waves:
+
+![Wave Properties](/graphics/super/waveprops.jpg)
+
 
 1. Addition as 1st Property of Waves
 

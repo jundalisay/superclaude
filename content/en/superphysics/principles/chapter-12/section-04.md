@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Causes of Error in Science and Philosophy"
 date: 2025-10-26
-image: "/photos/wtf.jpg"
+image: "/graphics/wtf.jpg"
 description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe. "
 weight: 752
 writer:

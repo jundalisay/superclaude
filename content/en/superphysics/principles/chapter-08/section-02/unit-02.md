@@ -1,182 +1,106 @@
 ---
 heading: "Unit 2"
-title: "Instance"
-date: 2025-03-08
-image: "/graphics/math/math.jpg"
-description: "Supermath"
-weight: 8
-aliases:
-  /superphysics/principles/chapter-08k/
+title: "Dharma, Tao, and Relationality"
+date: 2019-01-02
+weight: 5
+image: "/photos/meta/yinyang.jpg"
+description: ""
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
 ---
- 
 
 
-A number is an instance of an identity. 
+The previous unit explained how Dialectics is based on Dharma, Tao, or True Nature. 
+- "Dharma" is the  passive version. An analogy is source code before it is deployed.
+- "The Tao" is the active 'flowing' version. An analogy is the logic in the app after it is deployed or is online.
 
-"Instance" is Latin *instantia*, meaning presence. This is consistent with our perception-based Superphysics. 
+Both have reference to metaphysical causes or the Supreme Entity. 
+- "dharma" and "tao" are the ordinary version in nature. 
 
-We use 'vortex' number since in Cartesian Physics, absolutely everything is a spinning vortex. And so each instance automatically has a spin. 
+Similarly, 'True Nature' is anchored in something Divine and invisible, while 'nature' is what is ordinarily inherent.
 
-This makes it 'alive' but not expressive. This concept is totally absent in Mathematics which just thinks of instances as dead quantities. 
+Problems begin when something does not keep in line with its nature. For example:
+- loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems
+- eating too much too fast will lead to stomach problems
+- installing an app that requires 2GB RAM on a device with only 1GB RAM will lead to errors
 
-Dead and Alive are key characteristics of the Physics of Descartes, Spinoza, Berkeley for an infinite living universe with dormant sections:
 
-{{< q a="George Berkeley" >}}
-**No force is immediately perceived by itself.** It is only known and measured by its effects. But the *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect.  But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
+Superphysics aims to solve real-world problems by using Socratic Dialectics:
+- to probe the true nature, dharma, or tao of the elements of the problem
+- to trace the events or circumstances that caused those elements to veer off of its nature  
+- to suggest ways to get back to that 'natural' or proper state
+
+
+## Probing with Socratic Dialectics
+
+This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. 
+
+You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
+- speaking
+- drawing
+- acting out 
+- writing, etc  
+
+
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
+Dialectic alone goes directly to the first principle. It is the only science which does away with hypotheses in order to make her ground secure. By her gentle aid, she lifts up the eye of the soul which is literally buried in an outlandish slough. She uses as handmaids and helpers the sciences in the work of conversion. Custom calls them sciences. But they should have some other name implying greater clearness than opinion and less clearness than science. We called this "understanding".
 {{< /q >}}
 
 
+## The Socratic Dialogue as Relationality Implemented
 
-## Instance of Identity
+Probing is done by:
+- back-and-forth dialogue for living organisms
+- trial and error for non-living organisms
 
-We can say that:
-- 1 potato is one instance of a thing having the essence of a potato. 
-- 4 potatoes are 4 instances of that thing. 
+For example, we probe:
+- a rock by tapping it with a metal rod
+- a body of water by dipping our feet in
+- a fruit by pressing it with our fingers
+- our spouse by asking where he or she went last night 
 
-There 4 potatoes share 1 essence. 
+This exposes the relationality between the 'prober' and the 'probee'.  
 
-{{< i s="/photos/objects/potatoes.jpg" a="Potatoes" >}}
+<!-- Cartesian Relationality is a key concept in Superphysics which focuses on the relation or relativity between 2 identities.  -->
 
-Sometimes, numbers are used by themselves without any physical object. 
+<!-- This relationality is the effect of the differences or similarities between the gravitational signature or dharma of 2 identities. 
 
-For example `1 + 1 = 2` uses pure instances. It adds 1 instance to another instance to come up with 2 instances. 
+Identities interact with each other because they have some wave in common. For example, in our physical reality, every single thing that we experience has some physicality coded in one of its many waves, since every identity is a compound idea. 
 
-The mind assigns a new identity or name to this "2-instance instance" as the number 2. 
+This means there are other perceptions that we cannot have because they do not have physicality in their waves. 
 
-Putting this under our Medium-Substance-Quantum Model, we say that:
+The fact that things come into our perception means that they have some thing in common with us and our own bunch of waves. 
 
-- 1 is the quantum
-- `+` and `=` are the media
-- 2 is the substance
+We know how such things are related to us by observing them. We call this passively getting the waves from that identity. 
 
-
-## Groupings as Solution to Limitation
-
-There are an infinite number of instances, and so the mind would have to assign new identities to each instance, which is then has to remember.
-
-Since the mind's memory capacity is finite, it groups the identities into repeatable patterns using the same base identities.
-
-- This is also why **Supermath** is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.
-- **Qualimath** is for instances that represent the metaphysical domain such as ideas and feelings, including the idea of infinity. This uses base-3 grouping.
-
-Humans have settled for base-10 as its grouping. 
-
-For example, instead of writing arbitrary symbols up to infinity such as:
-
-```
-1, 2, 3, 4, 5, 6, 7, 8, 9, 𝄞, 𝄢, 𝄬, 𝄮, 𝅘𝅥,..
-```
-
-we could simply reuse the names of the identities by grouping them into 10:
-
-```
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15..
-```
-
-This makes sense since humans have 10 fingers. So each finger represents an instance of identity.
+The problem is that some waves are deep and need effort to be revealed. Ths is where probing comes into the picture. -->
 
 
-### Base 6
+These probing actions inject contact or impact between us with the other identity or object. 
+- This then evokes an action or feedback from it. 
 
-But since there are 5 Elements and not 10, it's better to use base-6
+<!-- This contact then creates a feedback to our own minds that creates am aethereal relation between us and the identity.  -->
 
-```
-1, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15, 20, 21..
-```
+For physical things, we use physical objects like a metal rod, our feet and fingers. 
 
-But this is confusing to people who have been used to base-10. So we use totally different symbols for the numbers based on the keyboard:
+For metaphysical things such as souls, we use our own souls. For example, we talk to a person to get feedback from his mind or soul. 
 
-```
-!, @, #, $, %, !0, !@, !#, !$, !%, @0, @1..
-```
+If we try to talk to a rock, we will not get any feedback because the soul of the rock is undeveloped and cannot make independent expressions. 
 
-In this way, `! + ! = @`.
+So talking to another man lets us build the relation between him and our own soul. We can probe this relation better if we ask him questions. 
 
-Vortex numbers are base-6 instances that can:
-- make geometry easier and less irrational
-- explain the relationship between the constants
-
-This will be explained in the concept of division, which is based on density or the 2nd property of waves. 
+{{< i s="/photos/social/family.jpg" a="Dinner" c="Talking to other humans builds relations" >}}
 
 
+## Built to Solve Problems
 
-### Base-6 Instance Names (Numbers)
+Unlike spiritual theories which are often useless, Socratic Dialectics is meant to solve real world problems. This makes it more in line with science and technology than philosophy. 
 
-Number | Name | Base 10 name
---- | --- | ---
-! | Won | 1
-@ | Too | 2
-`#` | Three | 3
-$ | Foor | 4
-% | Five | 5
-!0 | Wonty | 6 
-!! | Wonty-won | 7
-!@ | Wonty-two | 8
-!# | Wonty-three | 9
-!$ | Wonty-foor | 10
-!% | Wonty-five | 11
-@0 | Tooty | 12
-@! | Tooty-won | 13
-@@ | Tooty-too | 14
-@# | Tooty-three | 15
-@$ | Tooty-foor | 16
-@% | Tooty-five |17
-`#0` | Threety | 18
-`#!` | Threety-won | 19
-`#@` | Threety-too | 20
-`##` | Threety-three | 21
-`#$` | Threety-foor | 22
-`#%` | Threety-five | 23
-$0 | Foorty | 24
-$! | Foorty-won | 25
-$@ | Foorty-too | 26
-$# | Foorty-three | 27
-$$ | Foorty-foor | 28
-$% | Foorty-five | 29
-%0 | Fivety | 30
-%! | Fivety-won | 31
-%@ | Fivety-too | 32
-%# | Fivety-three | 33
-%$ | Fivety-four | 34
-%% | Fivety-five | 35
-!00 | Won-oh | 36
-!00 | Won-oh-won | 37 
-!00 | Won-oh-too | 38
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
+The Pythagoreans who have enquired about harmony are as wrong as the astronomers.
+They investigate the numbers of the harmonies which are heard. But they never apply them to problems. They never reach the natural harmonies of number, or reflect why some numbers are harmonious and others are not.. Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
+{{< /q >}}
 
-
-An easy way to scale the numbers was one of the innovations of the metric system. 
-
-However, you will notice that there are missing names for some groupings such as between picometer and femtometer. 
-
-We fill these gaps with prefixes that use the numbers. In this way, people don't have to memorize arbitrary names such as milli, micro, kilo, mega, etc.
-
-
-### Prefixes or Groupings
-
-Number | Name | Base 10 name | Base 10 | Example
---- | --- | --- | --- | ---
-!0 | Ty | Tens | 6 | 2 Tyspan
-!00 | oh | Hundreds | 36 | 2 Ohspan
-!000 | tri | Thousands | | 2 trispan
-!0000 | far | Ten Thousands | | 2 farspan
-!00000 | fai | Hundred Thousands | | 2 faispan
-!000000 | ty-oh | Millions | | 2 ty-ohspan
-!0000000 | tytoo | Ten Millions | | 2 tytoospan
-!00000000 | tytri | Hundred Millions | | 2 tytrispan
-!000000000 | tyfar | Billions | | 2 tyfarspan
-!0000000000 | tyfai | 10 Billions | | 2 tyfaispan
-!00000000000 | too-oh | 100 Billions | | 2 too-ohspan
-!000000000000 | tootoo | Trillion | | 2 tootoospan
-0.! | Un | Deci | 6 | 2 unspan
-0.0! | Unwon | Centi | 36 | 2 unwonspan
-0.00! | untoo | Milli | | 2 untoospan
-0.000! | untri |  | | 2 untrispan
-0.0000! | unfar |  | | 2 unfarspan
-0.00000! | unfai | Micro | | 2 unfaispan
-0.000000! | unty |  | | 2 untyspan
-0.0000000! | unty-oh |  | | 2 unty-ohspan
-0.00000000! | unty-too | Nano | | 2 untytoospan
-0.000000000! | unty-tri |  | | 2 untytrispan
-0.0000000000! | unty-far | | | 2 untyfarspan
-0.00000000000! | unty-fai | Pico | | 2 untyfaispan
 

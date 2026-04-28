@@ -62,36 +62,35 @@ I prefer to talk with another when he responds pleasantly, and is light in hand;
 {{< /l >}}
 
 
-<<<<<<< HEAD
-{{< r a="Younger Socrates" >}}
+
+{{< r a="Socrates" >}}
 I recommend a young person—Theaetetus
 {{< /r >}}
 
-<!-- l a="Foreigner" >}}
-I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
 
-For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
-/l >}}
- -->
-=======
 {{< l a="Foreigner" >}}
-I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
+<!-- I feel ashamed, Socrates, being a new-comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. 
 
-For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
+For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said.  -->
+
+I certainly cannot object to your proposal.
+<!-- , that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him. -->
 {{< /l >}}
 
->>>>>>> 1137be5f35c0295c7ba3b684f1ecd8ce7db41b6d
 
+{{< r a="Theatus" >}}
+But are you sure, FOREIGNER, that this will be acceptable to the rest of the company as Socrates imagines?
+{{< /r >}}
 
-THEAETETUS: But are you sure, FOREIGNER, that this will be acceptable to the rest of the company as Socrates imagines?
 
 {{< l a="Foreigner" >}}
 Yes, for they are applauding, Theaetetus. I am to argue with you. If you tire of the argument, you may complain of your friends and not of me.
 {{< /l >}}
 
 
-THEAETETUS: I do not think that I shall tire, and if I do, I shall get my friend here, young Socrates, the namesake of the elder Socrates, to help; he is about my own age, and my partner at the gymnasium, and is constantly accustomed to work with me.
-
+{{< r a="Theatus" >}}
+I do not think that I shall tire, and if I do, I shall get my friend here, young Socrates, the namesake of the elder Socrates, to help; he is about my own age, and my partner at the gymnasium, and is constantly accustomed to work with me.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 Very good; you can decide about that for yourself as we proceed. 
@@ -117,8 +116,9 @@ What is there which is well known and not great, and is yet as susceptible of de
 Shall I say an angler? He is familiar to all of us, and not a very interesting or important person.
 {{< /l >}}
 
-
-THEAETETUS: He is not.
+{{< r a="Theatus" >}}
+He is not.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 Yet I suspect that he will furnish us with the sort of definition and line of enquiry which we want.
@@ -127,4 +127,6 @@ Let us begin by asking whether he is a man having art or not having art, but som
 {{< /l >}}
 
 
-THEAETETUS: He is clearly a man of art.
+{{< r a="Theatus" >}}
+He is clearly a man of art.
+{{< /r >}}

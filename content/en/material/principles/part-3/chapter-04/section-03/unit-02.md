@@ -69,8 +69,20 @@ The intensity of the fire therefore depends on how the matter particles or 3rd E
 We can define the Magnitude of Fire Intensity ($I$) as the balance between the outward momentum of ejected space particles and the inward momentum of densified space particles.
 
 ```
-I = K ((v<sub>e</sub> • f<sub>e</sub>) / v<sub>i</sub> • f<sub>i</sub> + s ) •🔺A
+I = K ((v<sub>e</sub> • f<sub>e</sub>) / v<sub>i</sub> • f<sub>i</sub> + s ) • 🔺A
 ```
+
+
+- I (Intensity): The total agitation of matter. If I less than the threshold of matter, the fire is extinguished
+- v<sub>e</sub> (Speed of Ejection): The speed at which space particles are being flung out of the matter
+- f<sub>e</sub> (Ejection Flux): The volume/density of space particles currently escaping.
+- v<sub>i</sub> (Speed of Imposition): The velocity of the incoming "extinguishing" particles (driven by sound or water)
+- f<sub>i</sub> (Imposition Flux): The density of space particles being forced into the body.
+- K (Porosity Constant): How "loose" or "movable" the molecules of the body are (e.g., high for cotton, low for stone)
+- 🔺A (Agitation State): The current mechanical motion of the matter particles themselves.
+- s: A minimal constant representing the ambient pressure of the plenum to prevent division by zero.
+
+
 
 <!-- 
 ```

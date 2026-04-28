@@ -219,10 +219,11 @@ Instead, it uses the shadows of the objects to have a hypothesis of those object
 Clinging to this hypothesis, she descends by successive steps without the aid of any sensible object*.
 
 She begins with ideas, goes through ideas, and ends in ideas.
-
-> *Translator's note= In data science this is finding patterns in data through repeated interpolation and extrapolation
-
 {{< /l >}}
+
+
+{{< n n="In data science this is finding patterns in data through repeated interpolation and extrapolation" >}}
+
 
 
 {{< r a="Glaucon" >}}

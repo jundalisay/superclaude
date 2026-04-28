@@ -68,7 +68,8 @@ This takes the form of notation.
 
 We call these 3 the operations of the mind.
 
-{{< i s="/photos/meta/read.jpg" a="Reading" >}}
+
+{{< i s="/graphics/super/actions.jpg" a="3 Actions" >}}
 
 
 

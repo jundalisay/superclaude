@@ -1,13 +1,9 @@
 ---
 heading: "Section 2"
-title: "Thinking"
-date: 2026-01-10
-image: /photos/meta/read.jpg
+title: "Superlogic"
+date: 2020-01-02
 weight: 4
-description: "Everything in existence is an idea of the Creator of that existence"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
+image: "/photos/meta/superlogic.jpg"
+description: ""
 ---
 

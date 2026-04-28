@@ -2,8 +2,8 @@
 heading: "Unit 2"
 title: "The Flow and Force of Thinking Versus Knowing"
 date: 2026-01-10
-image: /photos/meta/read.jpg
-weight: 4
+image: /photos/meta/think.jpg
+weight: 6
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
@@ -40,20 +40,28 @@ But if you know, from memory, what it is then your mind will associate "gnomon" 
 - The learning process was your mind storing "gnomon" = "pointer of sundial" into memory.
 - The memorization process is to store the spelling or sound of "gnomon" as is
 
-These actions show the actios of flow, force, and memory to lead to knowledge.
+**These actions show how the actions of flow, force, and memory to lead to knowledge, from ignorance**.
 
-Knowledge in turn validates the manifested idea. This completes the loop from the Supreme having an idea for a gnomon which pre-existed and actually became realized and validated upon the invention and use of an actual gnomon. The fact that it has a name means that it has value enough to be assigned a unique name. 
+Knowledge in turn validates the manifested idea. 
+
+This completes the loop from the Supreme having an idea for a gnomon which pre-existed and actually became realized and validated upon the invention and use of an actual gnomon. 
+
+The fact that it has a name means that it has value enough to be assigned a unique name. 
 
 This is similar to the idea of Covid being validated by getting a name Covid-19, and further validated in the invention of vaccines against Covid-19. 
 
 <!-- as `g-n-o-m-o-n` without any learning of how those letters or sounds -->
 
 
+{{< i s="/graphics/super/knowing.jpg" a="The Loop of Knowing" a="The Loop of Ignorance and Knowing" >}}
+
+
 
 ## Thinking, Instinct, Thought, Cognition, Intuition, Learning, Memory, Cognition
 
 Therefore, **thinking** is the process of integrating external idea-nodes within the Lower mind (node) to the actual pre-existing idea in the Higher Mind.
-- This uses 2 actions, as Flow and Force with emphasis on Force, is the job of the upper part of the Lower Mind
+- This uses 2 actions, as Flow and Force with emphasis on Force
+- This is the job of the upper part of the Lower Mind
 
 **Instinct** is mechanical thinking action of the lower part of the lower mind to maintain a connection with the body.
 - This is as an automatic flow, with force, similar to mechanics. 

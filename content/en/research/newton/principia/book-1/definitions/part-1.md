@@ -2,10 +2,9 @@
 heading: Part 1
 title: "Definitions"
 weight: 4
-image: /covers/principia.jpg
 description: "Newton defines mass, inertia, force, and motion"
 author: Isaac Newton
-icon: /icons/newton.png
+icon: "Newton"
 ---
 
 

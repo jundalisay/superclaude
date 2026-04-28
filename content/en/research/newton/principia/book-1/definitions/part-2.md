@@ -2,10 +2,9 @@
 heading: Part 2
 title: "Scholium"
 weight: 5
-image: /covers/principia.jpg
 description: "Newton classifies time, space, place, and motion as absolute and relative, true and apparent, mathematical and common"
 author: Isaac Newton
-icon: /icons/newton.png
+icon: "Newton"
 ---
 
 
@@ -103,6 +102,3 @@ The parts of space cannot be seen nor distinguished from one another by our sens
 We define places based on immovable bodies. From there, we estimate all motions, considering bodies as transferred from place to place. 
 
 And so, instead of absolute places and motions, we use relative ones.
-
-
-

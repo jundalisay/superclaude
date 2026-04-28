@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "The Chakras as the Enabler of Ideas and Feelings"
 date: 2023-12-08
-weight: 612
+weight: 6
 image: /photos/meta/chakras.jpg
 description: "Chakras"
 writer:
