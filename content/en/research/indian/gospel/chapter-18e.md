@@ -34,11 +34,21 @@ To the devotees: "Always sing devotional songs. To love God and live in the comp
 When Krishna went to Mathura, Yaśoda came to Radha, who was absorbed in meditation. 
 
 Afterwards Radha said to Yaśoda: 
+{{< /l >}}
 
 
-'I am the Primordial Energy. Ask a boon of Me.' 'What other boon shall I ask of You?' said Yaśoda. 
+{{< l a="Radha" >}}
+'I am the Primordial Energy. Ask a boon of Me.'
+{{< /l  >}}
 
-'Only bless me that I may serve God with my body, mind, and tongue; that I may behold His devotees with these eyes, that I may meditate on Him with this mind, and that I may chant His name and glories with this tongue.'
+{{< r a="Yashoda" >}}
+'I only ask to bless me that I may:
+- serve God with my body, mind, and tongue
+- behold His devotees with these eyes
+- meditate on Him with this mind
+- chant His name and glories with this tongue.'
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 But those who are firmly established in God may do as well without the devotees. This is true of those who feel the presence of God both within and without. 
@@ -160,3 +170,4 @@ At the Master's request, Ramlal sang again, this time about Gaurānga.
 {{< l a="Ramakrishna" >}}(to M.): "The Nitya and the Lila are the two aspects of the Reality. God plays in the world as man for the sake of His devotees. They can love God only if they see Him in a human form; only then can they show their affection for Him as their Brother, Sister, Father, Mother, or Child.
 
 It is just for this love of the devotees that God contracts Himself into a human form and descends on earth to play His lila."{{< /l >}}
+
