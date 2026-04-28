@@ -1,8 +1,8 @@
 ---
-heading: "Section 2"
-title: "The Superphysics Direction"
+heading: "Unit 1"
+title: "The Superphysics Direction and Roadmap"
 date: 2022-01-22
-image: "/photos/tech/space.jpg"
+image: /photos/meta/road.jpg
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
 weight: 750
 writer:
@@ -91,7 +91,6 @@ It also pushes for:
 
 
 
-
 ## Supersociology 
 <!-- Social Superphysics -->
 
@@ -99,7 +98,8 @@ Supersociology is Superphysics applied to Sociology, Politics (Government), and 
 
 It advocates federalism for national governments that are connected to a world government with its own constitution that coordinates issues between themselves.
 
-{{< i s="/photos/team.jpg" a="Teamwork" >}}
+
+![Pantry](/photos/social/pantry.jpg)
 
 It also pushes for:
 - a constitution template for nations

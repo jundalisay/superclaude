@@ -3,7 +3,7 @@ heading: "Section 2"
 title: "Socialism and Democracy"
 # date: 2022-07-30
 weight: 15
-image: /photos/team.jpg
+image: /photos/psych/freedom.jpg
 description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
 writer:
   name: Juan

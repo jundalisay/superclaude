@@ -2,8 +2,8 @@
 heading: "Section 3"
 title: "Employment for Englightenment"
 date: 2025-10-26
-image: "/photos/tech/space.jpg"
-description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe. "
+image: "/photos/psych/salute.jpg"
+description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe."
 weight: 752
 writer:
   name: Juan
@@ -27,6 +27,3 @@ We counter them with natural truths like:
 - life being an expression of will or desire (according to Lamarck)
 - gravity coming from spirit (according to Isaac Newton) or the aether (according to Rene Descartes and Spinoza)
 - Einstein being a genius scammer (according to Nikola Telsa)
-
-
-

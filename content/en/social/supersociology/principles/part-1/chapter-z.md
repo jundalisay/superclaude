@@ -1,7 +1,7 @@
 ---
 title: "Personality Archetypes"
 heading: "Chapter z"
-image: "/photos/team.jpg"
+image: "/photos/psych/salute.jpg"
 date: 2021-07-01
 weight: 60
 description : "A society is three or more entities working towards a common interest or goal"

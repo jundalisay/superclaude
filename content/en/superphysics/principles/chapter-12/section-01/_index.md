@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 12"
-title: "Superphysics"
+heading: "Section 1"
+title: "What is Superphysics?"
 date: 2020-01-02
-weight: 54
+weight: 4
 image: /graphics/sora.jpg
 description: ""
 ---

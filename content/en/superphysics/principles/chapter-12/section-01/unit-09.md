@@ -1,10 +1,10 @@
 ---
-heading: "Section 4"
+heading: "Unit 9"
 title: "Causes of Error in Science and Philosophy"
 date: 2025-10-26
 image: "/graphics/wtf.jpg"
 description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe. "
-weight: 752
+weight: 21
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

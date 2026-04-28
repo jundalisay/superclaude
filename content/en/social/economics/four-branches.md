@@ -38,7 +38,7 @@ This is measured by the Demand factor in the DCTI model. <!-- It  manifests as t
 
 ### 2. Social Economy from The Second Law
 
-![Team high-fiving](/photos/team.jpg)
+![Team high-fiving](/photos/social/pantry.jpg)
 
 This provides the valuation system, as the Effort Theory of Value, which is based on the common food grain. This monitors the real price of everything, which is the key to preventing poverty, inequality, and crises, while maximizing productivity and personal and social happiness within the limits of the natural environment.  
 
