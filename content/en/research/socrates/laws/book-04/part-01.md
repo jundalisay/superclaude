@@ -1,12 +1,12 @@
 ---
 heading: "Part 1"
 title: "Economics"
-weight: 14
+weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "seagreen"
-description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
+description: ""
 ---
 
 
@@ -15,32 +15,36 @@ description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zen
 What will this city be? Is it on the sea or on land?
 {{< /l >}}
 
-
-
-CLEINIAS: I should imagine, Stranger, that the city of which we are speaking is about eighty stadia distant from the sea.
+{{< r a="Cleinias" >}}
+I should imagine, Stranger, that the city of which we are speaking is about eighty stadia distant from the sea.
+{{< /r >}}
 
 {{< l a="Athenian" >}}
 Are there harbours on the seaboard?
 {{< /l >}}
 
-CLEINIAS: Excellent harbours, Stranger; there could not be better.
+{{< r a="Cleinias" >}}
+Excellent harbours, Stranger; there could not be better.
+{{< /r >}}
 
 {{< l a="Athenian" >}}
 What a prospect! Is the surrounding country productive, or in need of importations? Is there any neighbouring State?
 {{< /l >}}
 
+{{< r a="Cleinias" >}}
+It is self-sufficient and has no neighbors. That is why that place was selected. In days of old, there was a migration and the region has been deserted from time immemorial.
+{{< /r >}}
 
-CLEINIAS: It is self-sufficient and has no neighbors. That is why that place was selected. In days of old, there was a migration and the region has been deserted from time immemorial.
+{{< l a="Athenian" >}}
+And has the place a fair proportion of hill, and plain, and wood?
+{{< /l >}}
 
-ATHENIAN: And has the place a fair proportion of hill, and plain, and wood?
+{{< r a="Cleinias" >}}
+Like the rest of Crete in that.
+{{< /r >}}
 
-CLEINIAS: Like the rest of Crete in that.
-
-ATHENIAN: You mean to say that there is more rock than plain?
-
-CLEINIAS: Exactly.
-
-ATHENIAN: Then there is some hope that your citizens may be virtuous.
+{{< l a="Athenian" >}}
+You mean to say that there is more rock than plain. Then there is some hope that your citizens may be virtuous.
 
 Had you been on the sea, and well provided with harbours, and an importing rather than a producing country, some mighty saviour would have been needed, and lawgivers more than mortal, if you were ever to have a chance of preserving your state from degeneracy and discordance of manners (compare Ar. Pol.). 
 
@@ -51,14 +55,17 @@ The sea is pleasant enough as a daily companion, but has indeed also a bitter an
 There is a consolation, therefore, in the country producing all things at home; and yet, owing to the ruggedness of the soil, not providing anything in great abundance. Had there been abundance, there might have been a great export trade, and a great return of gold and silver; which, as we may safely affirm, has the most fatal results on a State whose aim is the attainment of just and noble sentiments: this was said by us, if you remember, in the previous discussion.
 
 
-ATHENIAN: How is the country supplied with timber for ship-building?
+How is the country supplied with timber for ship-building?
+{{< /l >}}
 
-CLEINIAS: There is no fir of any consequence, nor pine, and not much cypress.
+{{< r a="Cleinias" >}}
+There is no fir of any consequence, nor pine, and not much cypress.
 
 There is very little stone-pine or plane-wood, which shipwrights always require for the interior of ships.
+{{< /r >}}
 
-
-ATHENIAN: But these are also natural advantages because no city ought to be easily able to imitate its enemies in what is mischievous.
+{{< l a="Athenian" >}}
+But these are also natural advantages because no city ought to be easily able to imitate its enemies in what is mischievous.
 
 The Cretan laws looked to one thing only: war.
 
@@ -77,19 +84,24 @@ There were good reasons, and plenty of them, for a man throwing away his arms, a
 'Who, at a time when the battle is in full cry, biddest to drag the well-benched ships into the sea, that the prayers of the Trojans may be accomplished yet more, and high ruin fall upon us. For the Achaeans will not maintain the battle, when the ships are drawn into the sea, but they will look behind and will cease from strife; in that the counsel which you give will prove injurious.'
 
 You see that he quite knew triremes on the sea, in the neighbourhood of fighting men, to be an evil;—lions might be trained in that way to fly from a herd of deer. Moreover, naval powers which owe their safety to ships, do not give honour to that sort of warlike excellence which is most deserving of it. For he who owes his safety to the pilot and the captain, and the oarsman, and all sorts of rather inferior persons, cannot rightly give honour to whom honour is due. But how can a state be in a right condition which cannot justly award honour?
+{{< /l >}}
 
-CLEINIAS: It is hardly possible, I admit; and yet, Stranger, we Cretans are in the habit of saying that the battle of Salamis was the salvation of Hellas.
+{{< r a="Cleinias" >}}
+It is hardly possible, I admit; and yet, Stranger, we Cretans are in the habit of saying that the battle of Salamis was the salvation of Hellas.
+{{< /r >}}
 
-
-ATHENIAN: Why, yes; and that is an opinion which is widely spread both among Hellenes and barbarians. But Megillus and I say rather, that the battle of Marathon was the beginning, and the battle of Plataea the completion, of the great deliverance, and that these battles by land made the Hellenes better; whereas the sea-fights of Salamis and Artemisium—for I may as well put them both together—made them no better, if I may say so without offence about the battles which helped to save us. And in estimating the goodness of a state, we regard both the situation of the country and the order of the laws, considering that the mere preservation and continuance of life is not the most honourable thing for men, as the vulgar think, but the continuance of the best life, while we live; and that again, if I am not mistaken, is a remark which has been made already.
+{{< l a="Athenian" >}}
+Why, yes; and that is an opinion which is widely spread both among Hellenes and barbarians. But Megillus and I say rather, that the battle of Marathon was the beginning, and the battle of Plataea the completion, of the great deliverance, and that these battles by land made the Hellenes better; whereas the sea-fights of Salamis and Artemisium—for I may as well put them both together—made them no better, if I may say so without offence about the battles which helped to save us. And in estimating the goodness of a state, we regard both the situation of the country and the order of the laws, considering that the mere preservation and continuance of life is not the most honourable thing for men, as the vulgar think, but the continuance of the best life, while we live; and that again, if I am not mistaken, is a remark which has been made already.
 
 Then we have only to ask, whether we are taking the course which we acknowledge to be the best for the settlement and legislation of states.
 
 Who are to be the colonists? 
 
 May any one come out of all Crete; and is the idea that the population in the several states is too numerous for the means of subsistence? For I suppose that you are not going to send out a general invitation to any Hellene who likes to come. And yet I observe that to your country settlers have come from Argos and Aegina and other parts of Hellas. Tell me, then, whence do you draw your recruits in the present enterprise?
+{{< /l >}}
 
-CLEINIAS: They will come from all Crete.
+{{< r a="Cleinias" >}}
+They will come from all Crete.
 
 Of other Hellenes, Peloponnesians will be most acceptable.
 
@@ -97,9 +109,10 @@ There are Cretans of Argive descent.
 
 The Gortynian is the race of Cretans which has the highest character at the present day.
 - They have come from Gortys in the Peloponnesus.
+{{< /r >}}
 
-
-ATHENIAN: Cities find colonization in some respects easier if the colonists are one race, which like a swarm of bees is sent out from a single country, either when friends leave friends, owing to some pressure of population or other similar necessity, or when a portion of a state is driven by factions to emigrate.
+{{< l a="Athenian" >}}
+Cities find colonization in some respects easier if the colonists are one race, which like a swarm of bees is sent out from a single country, either when friends leave friends, owing to some pressure of population or other similar necessity, or when a portion of a state is driven by factions to emigrate.
 
 There have been whole cities which have taken flight when utterly conquered by a superior power in war. This, however, which is in one way an advantage to the colonist or legislator, in another point of view creates a difficulty. 
 
@@ -134,9 +147,17 @@ The legislator would do likewise.
 We say to him: 'Come, legislator what are the conditions which you require in a state before you can organize it?'
 
 He will say—'Give me a state which is governed by a tyrant, and let the tyrant be young and have a good memory; let him be quick at learning, and of a courageous and noble nature; let him have that quality which, as I said before, is the inseparable companion of all the other parts of virtue, if there is to be any good in them.'
+{{< /l >}}
 
+{{< r a="Cleinias" >}}
+I suppose, Megillus, that this companion virtue of which the Stranger speaks, must be temperance?
+{{< /r >}}
 
-CLEINIAS: I suppose, Megillus, that this companion virtue of which the Stranger speaks, must be temperance?
+{{< l a="Athenian" >}}
+Yes, temperance in the vulgar sense; not that which in the forced and exaggerated language of some philosophers is called prudence, but that which is the natural gift of children and animals.
 
-ATHENIAN: Yes, temperance in the vulgar sense; not that which in the forced and exaggerated language of some philosophers is called prudence, but that which is the natural gift of children and animals, of whom some live continently and others incontinently, but when isolated, was, as we said, hardly worth reckoning in the catalogue of goods. I think that you must understand my meaning.
+Some of whom some live continently and others incontinently, but when isolated, was, as we said, hardly worth reckoning in the catalogue of goods. 
+
+I think that you must understand my meaning.
+{{< /l >}}
 

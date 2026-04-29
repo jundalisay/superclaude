@@ -100,7 +100,10 @@ This corrupted the definition of time by making the 2 other times as electromagn
 
 **The arrow of time problem actually begins when mathematicians think about it.** This action confounds *physical* changes as physical time with *mental* time.
 
-This then leads to the notion of 'emergent time'. This is the exact sign that physical time and mental time have been mixed up by some mathematician or physicist who has nothing better to do.
+
+> The arrow of time problem actually begins when mathematicians think about it. 
+
+This then leads to the notion of 'emergent time'. This is the exact sign that physical time and mental time have been mixed up by some mathematician or physicist **who has nothing better to do**.
 
 
 {{< q a="David Hume" c="Treatise of Human Nature, Book 1 Part 2 Section 5" >}}

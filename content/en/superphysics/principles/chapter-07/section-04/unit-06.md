@@ -1,8 +1,8 @@
 ---
-heading: "Section 7"
+heading: "Unit 6"
 title: "Humans"
 date: 2025-10-19
-weight: 469
+weight: 16
 image: /photos/medieval/cave.jpg
 description: "Humas were genetically engineered by the Anunnaki"
 writer:

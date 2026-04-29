@@ -1,8 +1,8 @@
 ---
-heading: "Section 9"
+heading: "Unit 7"
 title: "Advanced Alien Life"
 date: 2025-10-06
-weight: 470
+weight: 17
 image: /photos/medieval/anu.jpg
 description: "The Anunnaki are the origin of religions"
 writer:
@@ -10,9 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 aliases:
-  /superphysics/principles/chapter-07i
+  /superphysics/principles/chapter-07h
 ---
-
 
 
 The previous section explained "paranormal" life forms such as:

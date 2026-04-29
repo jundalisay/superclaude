@@ -1,5 +1,5 @@
 ---
-heading: "Section 4"
+heading: "Unit 2"
 title: "The Academy of Sages"
 date: 2025-01-18
 # date: 2020-11-20

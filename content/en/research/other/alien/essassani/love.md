@@ -39,3 +39,9 @@ Love is all there is since love is the vibration of Existence itself.
 Fear is love in a negative context, an illusion of disconnection.
 
 There is no lack of love. 
+
+
+
+## Relationships
+
+You must be complete to attract the proper relationship.

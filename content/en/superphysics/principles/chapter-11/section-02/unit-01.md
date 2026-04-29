@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "The 4 Paths to Yoga"
 date: 2025-10-07
 weight: 720
@@ -12,6 +12,7 @@ icon: "Juan"
 aliases:
   /superphysics/principles/chapter-11b
 ---
+
 
 
 Instead, of specific religions, we come up with 4 paths to yoga which is consistent with:

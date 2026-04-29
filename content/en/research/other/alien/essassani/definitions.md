@@ -34,7 +34,7 @@ trust | Trust is the same as "what you believe". You are always totally trusting
 try | "Try" implies you are keeping the back-door open for failure. The word "try" presumes you are believing there is a large possibility of NOT achieving your goal. "Trying to do" something is totally different than "doing" that something.
 unconditional love | Unconditional Love is the granting of validity,  for all beings and everything to exist - just as they are.
 worthiness |	The mere fact that you EXIST makes you worthy of anything you want. Your EXISTENCE and WORTHINESS are more fundamental than any beliefs you may have about them.   (They exist prior to any beliefs about them.)
-
+obsession | a desire that is unattainable
 
 
 ## Representations

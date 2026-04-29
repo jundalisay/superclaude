@@ -1,8 +1,8 @@
 ---
-heading: Section 3
+heading: Unit 1
 title: The Occult
 date: "2019-07-21"
-weight: 725
+weight: 5
 image: /photos/meta/occult.jpg
 description: "Consciousness is the perception of ideas and feelings"
 writer:
@@ -51,4 +51,5 @@ This is done by reorganizing your abstract mind to have the same shape and vibra
 ## Perceiving Elementals 
 
 This requires developing the heart, throat, and third eye chakras. 
+
 

@@ -1,8 +1,8 @@
 ---
-heading: "Section 4"
+heading: "Unit 2"
 title: "Elementals"
 date: 2025-10-06
-weight: 460
+weight: 6
 image: /photos/bio/naga.jpg
 description: "Elementals are metaphysical beings that can materialize"
 writer:
@@ -141,12 +141,3 @@ Buddhist devas are not omniscient nor omnipotent. Their powers tend to be limite
 Buddhist devas are not morally perfect. The devas of the worlds of the Rūpadhātu do lack human passions and desires, but some of them are capable of ignorance, arrogance and pride. The devas of the lower worlds of the Kāmadhātu experience the same kind of passions that humans do, including (in the lowest of these worlds) lust, jealousy, and anger. It is, indeed, their imperfections in the mental and moral realms that allegedly cause them to be reborn in these worlds.
 Buddhist devas are not to be considered as equal to a Buddhist refuge. While some individuals among the devas may be beings of great moral authority and prestige and thus deserving of a high degree of respect and veneration (in some cases, even being enlightened practitioners of the Dharma), no deva can ultimately be taken as the way of escape from saṃsāra or control one's rebirth. The highest honors are reserved to the Three Jewels: Buddha, Dharma, and Saṅgha -->
 
-
-## Bacteria
-
-
-Simple Elementals that have crossed over to full physical expression manifest as bacteria or single-celled organisms
-
-
-
- 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 2"
 title: "Employment for Englightenment"
 date: 2025-10-26
 image: "/photos/psych/salute.jpg"
