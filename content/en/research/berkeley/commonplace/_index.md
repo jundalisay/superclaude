@@ -1,10 +1,12 @@
 ---
 title: "Commonplace Book. Mathematical, Ethical, Physical, And Metaphysical"
+linkTitle: "Commonplace Book"
 weight: 7
 description: ""
 c: "steelblue"
 a: "George Berkeley"
 ---
+
 
 
 No identity (other than perfect likeness) in any individuals besides persons226.

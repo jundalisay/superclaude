@@ -1,12 +1,13 @@
 ---
+heading: "Articles 1-5"
 title: "The Method of Fluxions"
-# heading: "Englightened"
 weight: 7
 description: ""
-c: "steelblue"
+c: "gray"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
+
 
 <!-- It is examined whether the Object, Principles, and Inferences of the modern Analysis are more distinctly conceived, or more evidently deduced, than Religious Mysteries and Points of Faith.
 

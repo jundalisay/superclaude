@@ -1,5 +1,6 @@
 ---
 title: "Berkeley, George"
+linkTitle: "Berkeley"
 heading: "Englightened"
 weight: 7
 description: ""

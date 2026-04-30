@@ -3,7 +3,7 @@ heading: "Unit 3"
 title: "Bacteria"
 date: 2025-10-06
 weight: 8
-image: /photos/bio/naga.jpg
+image: /photos/bio/bacteria.jpg
 description: ""
 writer:
   name: Juan

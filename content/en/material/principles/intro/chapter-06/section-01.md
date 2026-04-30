@@ -7,9 +7,10 @@ description: "Each identity has a gravitational signature which explains its pur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 2
 icon: "Juan"
 ---
+
 
 
 Each of the 5 Layers (Elements in Cartesian Physics) implements a Conservation Law in order to maintain the balance in the universe because:
@@ -92,5 +93,6 @@ It is the wetness of water and liquids that allows both:
 This operates in the material layer and is already well known in Physics. 
 
 Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
+
 
 

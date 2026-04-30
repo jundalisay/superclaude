@@ -152,7 +152,7 @@ The problem is change is qualitative and not quantitative, but Physics is all ab
 
 We explain why change is qualitative [here](/superphysics/principles/chapter-04/).
 
-The crudify mental aethereal time into physical versions of the lower layers. 
+Physicists crudify mental aethereal time into physical versions of the lower layers. 
 
 Layer | Time | Example
 --- | --- | ---
@@ -166,9 +166,11 @@ Material | Contact Force Time | Swinging of pendulum
 
 The fallacy of objective or 'simultaneous' time is seen:
 - in jobs where older people are supposed to be more skilled than younger people
+  - This is false since some younger people are more skilled than older people
 - in healthcare where older people are supposed to have worse health than young people
+  - This is false since some younger people have more diseases than older people
 - in age ranges where old people are supposed to be earning higher than young people
-
+  - This is false since some old people are earning far less
 
 The subjectivity of time was common sense knowledge before Einstein. This is why no one was dumb enough to make it objective or simultaneous.
 
@@ -207,14 +209,14 @@ This has led to the precise measuring of:
 
 For some weird reason, physicists feel that the higher precision of General Relativity makes it better than Newtonian Mechanics, when all it does is to dig Physics into a deeper hole. 
 
-This is similar to a blockchain scam where you can precisely mine a lot of cryptocurrency that are essentially worthless. Having billions of scam coins makes you feel richer even if in reality, you are poorer because of the wasted electricity. 
+This is similar to a blockchain scam where you can precisely mine a lot of cryptocurrency that are essentially worthless. Having billions of scam-coins makes you feel richer even if in reality, you are poorer because of the wasted electricity. 
 
 By making so many theories based on Relativity, Physics thinks it's making huge progress when in fact is really just staying more stuck at zero, as proven by the failures of:
 - Supersymmetry
 - String Theory
 - Loop Quantum Gravity
 
-{{< i s="/graphics/physics/einstein.jpg" a="Einstein" c="David Hume's system of critical thinking involves chasing the train of ideas to find the origin idea" >}}
+{{< i s="/graphics/physics/einstein.jpg" a="Einstein" c="David Hume's system of critical thinking involves chasing the train of ideas to find the origin idea. We use his tecnique to hunt down the mastermind of the demise of Physics as the scammer Einstein from 1905" >}}
 
 This is the exact same fallacy that afflicts artificial intelligence (AI). Tech companies wrongly believe that throwing more energy and CPU into AI will magically make it sentient or naturally intelligent. They do not know that it is the aether, not electromagnetism, that is key to make AI sentient.
 
@@ -229,6 +231,7 @@ Relativity is a false theory because it does not explain:
 All the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. 
 
 It would have been better for physicists to sleep for 100 years achieving nothing than waste so much time and effort achieving the same nothing. This is because like the blockchain example, the wasted effort is actually a negative. It follows that the funding for the Large Hadron Collider, for example, is really a loss to society since the Higgs boson is totally useless.
+- From the 5 Elements model, we can assume that the future collider will reveal another worthless particle of 482 GeV mass. 
 
 
 <!-- Lorentz and Poincare were wise to keep time psychological, avoiding the temptation to use physical light as the basis for psychological time:
@@ -252,13 +255,17 @@ The most accurate measure of time is aethereal **idea**, and not light.
 
 You can close your eyes and cover your ears and still be able to count mental time. 
 
+{{< i s="/photos/physics/time.jpg" a="True Time" c="Time is best experienced non-physically, as change" >}}
+
+
 The use of idea as a universal measure for time also solves the measurement problem in Quantum Mechanics.
 
 Therefore, idea and the aether (as substance of idea)  unites both Classical and Quantum Mechanics, while totally flushing Einstein's scam Relativity down the toilet. 
 
 In the next part, we explain the fallacy of the constant speed of light which will lead to the causal mechanism as the aether.
 
-This will free Physics and allow the development of technologies for levitation and faster-than-light travel, as teleportation.
+This will free Physics and allow the development of technologies for levitation and faster-than-light travel (i.e. travel that takes no time), as teleportation.
+
 
 <!-- The fallacy of simultaneity is caused by us measuring mental time with material tools such as:
 - the ticking of the clock

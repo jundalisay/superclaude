@@ -2,7 +2,6 @@
 title: "The Damage Einstein Has Done" 
 description: "The damage that Einstein has done to humanity may be ranked as follows"
 image: /photos/physics/einstein.jpg
-# image: /photos/physics/priest.jpg
 date: 2024-12-25
 ---
 

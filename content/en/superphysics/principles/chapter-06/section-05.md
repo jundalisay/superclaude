@@ -2,8 +2,7 @@
 heading: "Section 5"
 title: "Relationality"
 date: 2020-12-26
-weight: 415
-# date: 2021-06-23
+weight: 25
 image: "/photos/physics/push.jpg"
 description: "Relationality is based on Descartes' Relativity"
 icon: "Juan"
@@ -144,3 +143,5 @@ Relationality uses Poincare’s Law of Relativity which uses state-change, which
 {{< q a="Henri Poincare" c="Science and Hypothesis, Chapter 5" >}}
 The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
 {{< /q >}}
+
+

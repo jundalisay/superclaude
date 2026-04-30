@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 1"
 title: "Physical Identity SOA2: Quantum Spin"
 # date: 2020-01-01
 image: "/photos/physics/skates.jpg"

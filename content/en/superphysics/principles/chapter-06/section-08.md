@@ -1,94 +1,58 @@
 ---
 heading: "Section 8"
-title: "Gravitational Territories"
-date: 2023-11-26
-image: "/graphics/physics/territories.jpg"
-description: "Gravitational Territories are the area of a gravitational signature"
+title: "Choice and Reasonable Versus Unreasonable"
+linkTitle: Choice
+date: 2020-05-26
+weight: 40
+image: "https://sorasystem.sirv.com/graphics/datascience.png"
+description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
+draft: true
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 402
-draft: true
-icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-06h
 ---
 
 
+past and present change depending on the now
+for every decision there is more than one reason 
 
-The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of an identity, as a particle, thing, person, place, etc.
+Why did you eat eggs for breakfast?
+- It was easy to cook
+- I love the taste of eggs
+- It has nutrients that I need 
+- It goes well with the bread that I bought
+These waves one is more the dominance varies relative to other feelings in other times. 
 
-<!-- Chapter 4c explained the concept of Gravitational Signatures which represent the inherent true nature of an identity -->
 
-<!-- That signature is a purely metaphysical concept and has no direct physical manifestation. No one will be able to see or hear it. 
+## Reasonable Versus Unreasonable
 
-Its dynamics in the real world creates the idea of a gravitational territory which is the area where the gravitational signature can express itself and detect or interact with other signatures. -->
+The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable. 
 
+The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge. 
 
-Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
+This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
 
-{{< q a="Rene Descartes" c="The World, Chapter 8" >}}
-When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
+The problem is that these definitions only account for logic or the connection of ideas, and not the feeling that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+
+- A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
+- A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
+
+![Taliban fighters](/countries/af/taliban.jpg)
+
+Anti-terrorists and anti-dictators would then blame them as unreasonable and thus be subject to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
+
+Thus, when someone says 'be reasonable' it really means:
+
+{{< q >}}
+Please have a desire to project your consicousness onto a mental thought-experiment of the future where the bad consequences of your current improper actions will lead to the suffering of either yourself or others, or both, and then feel that suffering and then decide if that future suffering is worth whatever you imagine to gain from your current improper action.
 {{< /q >}}
 
+This requires:
+- the desire of the person to feel about consequences or to even think about it
+- the mental ability and energy to project his mind onto those consequences 
+- the emtional ability to feel the suffering as bad enough to stop the immoral action
 
-{{< f f="Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
+For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
 
-
-Each territory has parts, each with different properties:
-
-1. Inner
-2. Middle
-3. Outer
-4. Edge
-
-
-{{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
-
-
-## The Inner Area
-
-This is the safe zone for the identity.
-
-
-## The Middle Area
-
-This is the protective zone that helps nurture the safe zone.
-
-
-## The Outer Area
-
-This is the zone with a lot of clash from other identities.
-
-
-## The Edge
-
-This is the zone which has direct contact with other territories. 
-
-
-
-These have different manifestations depending on the type of identity. 
-
-Identity | Inner | Middle | Outer | Edge | Science
---- |  --- | --- | --- | --- | --- 
-Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo | Material Superphysics
-Person | Unconscious | Subconscious | Conscious | Interactions | Bio Superphysics
-Society | Religion / Philosophy | Politics | Economy | Interactions | Social Superphysics
-
-
-In human life, this territory is the aethereal aura that radiates from people.   
-
-Some people radiate a strong aura which manifest as a strong personality or X-factor, just as a large star or galaxy has a large gravitational field or influence.
-
-In Physics, a comet or asterod that enters a star's gravitational field will get a tendency to be attracted towards that star. 
-
-Likewise, when we see or come close to a person, we might get a tendency to talk to that person if we feel a curiosity or common interest with that person.
-
-Seeing or being that person is therefore being within that person's gravitational territory just as a body is attracted to a  bigger body that enters its gravitational field.
-
-<!-- This is explained in detail in Material Superphysics.  -->
-
-In other words, the quality of a vortex and its territory leads to attraction or repulsion movement, as explained by our Theory of Dynamism.
-
-This movement is the foundation of the Elastic Theory of Gravity, to be explained next. 
-
+However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 

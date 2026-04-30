@@ -1,9 +1,9 @@
 ---
 heading: "Section 3"
-title: "Physical Identity"
+title: "Physical Identity (SOA2)"
 # date: 2020-01-01
 image: "/photos/physics/skates.jpg"
-description: "Waves can be seen as identity or as flow"
+description: "Physical Identity is aethereal"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

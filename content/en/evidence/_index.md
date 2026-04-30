@@ -14,10 +14,9 @@ proofs:
   - url: "https://youtube.com/shorts/gILkEY2vRFI?si=OYcy7Z40DsV-gGyc"
     cat: "Material Superphysics"
     color: "darkgoldenrod"
-    img: "/photos/physics/priest.jpg"
+    img: "/photos/people/einstein.jpg"
     title: "Relativity is a SCAM"
-    sub: "The failure to find dark matter, prove quantum gravity, find wormholes/white holes are clear proofs of the fallacy of Relativity which we replace with Descartes' Relationality"   
-    
+    sub: "The failure to find dark matter, prove quantum gravity, find wormholes/white holes are clear proofs of the fallacy of Relativity which we replace with Descartes' Relationality"
   - url: "https://youtu.be/OiRaNbbOGUs?si=iPP6ewlLSETi-xd5"
     cat: "Material Superphysics"
     color: "darkgoldenrod"

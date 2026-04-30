@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1b"
+heading: "Section 3"
 title: "Elementals and Superstition"
 date: 2023-12-08
-weight: 40
-image: "/covers/hume.jpg"
+weight: 10
+image: "/photos/meta/occult.jpg"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
 icon: "Superphysics"
 draft: true

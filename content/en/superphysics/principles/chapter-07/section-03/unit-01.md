@@ -1,9 +1,9 @@
 ---
-heading: "Section 3"
+heading: "Unit 1"
 title: "How Life Begins From Matter"
 date: 2025-10-06
 image: /photos/physics/comet.jpg
-weight: 455
+weight: 4
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
@@ -135,4 +135,3 @@ In Cartesian science, the programming of the entire body is sourced from the cro
 This chakra rotates, creating the twisted double helix shape of the DNA. The twist is easily seen in quasar jets that also have a double helix shape.
 
 {{< i s="/photos/physics/messier87.jpg" a="Messier" c="Rotating vortices create double helixes" >}} 
-

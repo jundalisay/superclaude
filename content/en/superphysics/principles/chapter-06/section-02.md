@@ -2,7 +2,7 @@
 heading: "Section 2"
 title: "Action"
 date: 2025-10-05
-weight: 405
+weight: 14
 image: "/photos/social/pantry.jpg"
 description: "Action is the effect of Relational Spin"
 icon: "Juan"

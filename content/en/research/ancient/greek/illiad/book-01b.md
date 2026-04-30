@@ -5,23 +5,37 @@ weight: 4
 c: "darkslategray"
 icon: Homer
 image: /graphics/history/illiad.jpg
-image: /graphics/history/illiad.jpg
 description: "Texts from ancient civilizations"
 ---
 
 
-Then uprose smooth-tongued Nestor, the facile speaker of the Pylians, and the words fell from his lips sweeter than honey. 
+Then rose smooth-tongued Nestor, the facile speaker of the Pylians.
 
-Two generations of men born and bred in Pylos had passed away under his rule, and he was now reigning over the third. With all sincerity and goodwill, therefore, he addressed them thus:
+ <!-- and the words fell from his lips sweeter than honey.  -->
+
+Two generations of men born and bred in Pylos had passed away under his rule.
+
+He was now reigning over the third. 
+
+<!-- With all sincerity and goodwill, therefore, he addressed them thus: -->
 
 {{< r a="Nestor" >}}
-Of a truth, a great sorrow has befallen the Achaean land. Surely Priam with his sons would rejoice, and the Trojans be glad at heart if they could hear this quarrel between you two, who are so excellent in fight and counsel. 
+Truthfully, a great sorrow has befallen the Achaean land.
 
-I am older than either of you; therefore be guided by me. Moreover I have been the familiar friend of men even greater than you are, and they did not disregard my counsels. 
+Surely Priam with his sons would rejoice, and the Trojans be glad if they could hear this quarrel between you two.
+ <!-- who are so excellent in fight and counsel.  -->
+
+I am older than either of you. So be guided by me. Moreover I have been the familiar friend of men even greater than you are, and they did not disregard my counsels. 
 
 Never again can I behold such men as Pirithous and Dryas shepherd of his people, or as Caeneus, Exadius, godlike Polyphemus, and Theseus son of Aegeus, peer of the immortals. 
 
-These were the mightiest men ever born upon this earth: mightiest were they, and when they fought the fiercest tribes of mountain savages they utterly overthrew them. I came from distant Pylos, and went about among them, for they would have me come, and I fought as it was in me to do. Not a man now living could withstand them, but they heard my words, and were persuaded by them. 
+These were the mightiest men ever born upon this earth.
+
+When they fought the fiercest tribes of mountain savages, they utterly overthrew them.
+
+I came from distant Pylos, and went about among them, for they would have me come.
+
+I fought as it was in me to do. Not a man now living could withstand them, but they heard my words, and were persuaded by them. 
 
 So be it also with yourselves, for this is the more excellent way. Therefore, Agamemnon, though you be strong, take not this girl away, for the sons of the Achaeans have already given her to Achilles; 
 
@@ -91,4 +105,6 @@ As he spoke, he took a double cup of nectar, and placed it in his mother’s han
 Juno smiled at this, and as she smiled she took the cup from her son’s hands. Then Vulcan drew sweet nectar from the mixing-bowl, and served it round among the gods, going from left to right; and the blessed gods laughed out a loud applause as they saw him bustling about the heavenly mansion.
 
 Thus through the livelong day to the going down of the sun they feasted, and every one had his full share, so that all were satisfied. Apollo struck his lyre, and the Muses lifted up their sweet voices, calling and answering one another. But when the sun’s glorious light had faded, they went home to bed, each in his own abode, which lame Vulcan with his consummate skill had fashioned for them. So Jove, the Olympian Lord of Thunder, hied him to the bed in which he always slept; and when he had got on to it he went to sleep, with Juno of the golden throne by his side.
+
+
 

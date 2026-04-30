@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Spin as Effort"
 date: 2025-10-05
-weight: 410
+weight: 20
 image: "/photos/physics/skates.jpg" 
 description: "Spin energy comes from outside"
 icon: "Juan"

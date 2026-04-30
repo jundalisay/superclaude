@@ -1,17 +1,22 @@
 ---
-title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
-# heading: "Englightened"
+heading: "Articles 24-29"
+title: "The Infinitesimal Quantity"
 weight: 27
 description: ""
-c: "steelblue"
+c: "gray"
+icon: "George Berkeley"
 ---
+
+
 
 
 24. For the fuller illustration of this Point, I shall consider it in another light, and proceeding in finite Quantities to the Conclusion, I shall only then make use
 
 <!-- P37 diagram for Berkeley's 'The Analyst'.png -->
 
-of one Infinitesimal. Suppose the straight Line MQ cuts the Curve AT in the Points R and S. Suppose LR a Tangent at the Point R, AN the Abscisse, NR and OS Ordinates. Let AN be produced to O, and RP be drawn parallel to NO. Suppofe AN = x, NR = y, NO = v, PS = z, the subsecant MN = S, Let the Equation y = xx express the nature of the Curve: and supposing y and x increased by their finite Increments, we get y + z = xx + 2xv + vv: whence the former Equation being subducted there remains z = 2xv + vv. And by reason of similar Triangles PS : PR :: NR : NM, i.e. z : v :: y : s = 
+of one Infinitesimal. 
+
+Suppose the straight Line MQ cuts the Curve AT in the Points R and S. Suppose LR a Tangent at the Point R, AN the Abscisse, NR and OS Ordinates. Let AN be produced to O, and RP be drawn parallel to NO. Suppofe AN = x, NR = y, NO = v, PS = z, the subsecant MN = S, Let the Equation y = xx express the nature of the Curve: and supposing y and x increased by their finite Increments, we get y + z = xx + 2xv + vv: whence the former Equation being subducted there remains z = 2xv + vv. And by reason of similar Triangles PS : PR :: NR : NM, i.e. z : v :: y : s = 
 
 wherein if for y and z we substitute their values, we get 
 

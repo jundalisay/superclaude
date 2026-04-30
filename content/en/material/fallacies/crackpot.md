@@ -23,7 +23,6 @@ So we dissect the Crackpot Index that Redditors claim is the basis for such bran
 
 {{< i s="/photos/people/einstein.jpg" a="Priest" c="A common pattern with Physics-defenders is their blind admiration for Einstein even if he was the one who caused Physics to get stuck in the first place with his Simultaneity of Time scam" >}}
 
-<!-- ![Einstein Priest](/photos/physics/priest.jpg) -->
 
 This gives us an understanding of the actual shape of that dogma based on the weights given to each idea. Here, we list the essence of each item in the index to see how dogmatic it is
 

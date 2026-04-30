@@ -1,10 +1,12 @@
 ---
-title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
-# heading: "Englightened"
+heading: "Articles 37-49"
+title: "Measures and Signs of Fluxions"
 weight: 47
 description: ""
-c: "steelblue"
+c: "gray"
+icon: "George Berkeley"
 ---
+
 
 
 
@@ -102,14 +104,16 @@ Is not this the Case, when just after the Fluxions of flowing Quantities were sa
 
 But it will not be found so easy to conceive a Series, either of mere Velocities or of mere nascent Increments, distinct therefrom and corresponding thereunto.
 
-Some perhaps may be led to think the Author intended a Series of Ordinates, wherein each Ordinate was the Fluxion of the preceding and Fluent of the following, i. e. that the Fluxion of one Ordinate was it self the Ordinate of another Curve; and the Fluxion of this last Ordinate was the Ordinate of yet another Curve; and so on ad infinitum. But who can conceive how the Fluxion (whether Velocity or nascent Increment) of an Ordinate should be it self an Ordinate?
+Some perhaps may be led to think the Author intended a Series of Ordinates, wherein each Ordinate was the Fluxion of the preceding and Fluent of the following, i. e. that the Fluxion of one Ordinate was it self the Ordinate of another Curve.
+
+The Fluxion of this last Ordinate was the Ordinate of yet another Curve; and so on ad infinitum. But who can conceive how the Fluxion (whether Velocity or nascent Increment) of an Ordinate should be it self an Ordinate?
 
 Or more than that each preceding Quantity or Fluent is related to its Subsequent or Fluxion, as the Area of a curvilinear Figure to its Ordinate; agreeably to what the Author remarks, that each preceding Quantity in such Series is as the Area of a curvilinear Figure, whereof the Absciss is z, and the Ordinate is the following Quantity.
 
 
 <sup>47</sup> Upon the whole it appears that the Celerities are dismissed, and instead thereof Areas and Ordinates are introduced. But however expedient such Analogies or such Expressions may be found for facilitating the modern Quadratures, yet we shall not find any light given us thereby into the original real nature of Fluxions; or that we are enabled to frame from thence just Ideas of Fluxions considered in themselves.
 
-In all this the general ultimate drift of the Author is very clear, but his Principles are obscure. 
+The general ultimate drift of the Author is very clear, but his Principles are obscure. 
 
 But perhaps those Theories of the great Author are not minutely considered or canvassed by his Disciples; who seem eager, as was before hinted, rather to operate than to know, rather to apply his Rules and his Forms, than to understand his Principles and enter into his Notions. It is nevertheless certain, that in order to follow him in his Quadratures, they must find Fluents from Fluxions; and in order to this, they must know to find Fluxions from Fluents; and in order to find Fluxions, they must first know what Fluxions are.
 

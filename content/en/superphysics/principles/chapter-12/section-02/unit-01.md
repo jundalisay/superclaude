@@ -4,7 +4,7 @@ title: "The Superphysics Direction and Roadmap"
 date: 2022-01-22
 image: /photos/meta/road.jpg
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
-weight: 750
+weight: 4
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

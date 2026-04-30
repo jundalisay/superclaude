@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1"
+heading: "Section 1"
 title: "What are Elementals?"
 date: 2024-03-14
 weight: 2
@@ -190,3 +190,5 @@ You may Google what you don't understand.
 P.S. we will respect all Gods worshiped in any form.
 
  -->
+
+ 

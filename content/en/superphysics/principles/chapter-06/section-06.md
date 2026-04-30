@@ -2,7 +2,7 @@
 heading: Section 6
 title: "Constants"
 date: 2025-10-05
-weight: 430
+weight: 27
 image: "/photos/balancerock.jpg"
 description: "Constants show the relationality between and within Elements"
 icon: "Juan"
@@ -64,4 +64,3 @@ Maxwell's `c = 1 / √ u0 e0` is full of constants, saying: the consumption of s
 ## Planck
 
 Planck's equation `E = hf` is the Effort (spin speed) per timespan of light being based on the qualitatve aetherspace being converted into time i.e. effort is the qualitative aetherspace.  
-

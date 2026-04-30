@@ -9,7 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 23
 icon: "Juan"
-toc: false
 aliases:
   /signature
   /material/principles/gravsigs/
@@ -193,3 +192,4 @@ Convertible | antineutrino :: -a(c)
 Material | antihydrogen :: -a(H)
 
 {{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}} -->
+

@@ -4,7 +4,7 @@ title: "Employment for Englightenment"
 date: 2025-10-26
 image: "/photos/psych/salute.jpg"
 description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe."
-weight: 752
+weight: 6
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

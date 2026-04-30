@@ -1,5 +1,5 @@
 ---
-heading: "Section 4"
+heading: "Section 3"
 title: "Constants as Ratios Between Layers"
 # date: 2022-01-03
 image: /photos/physics/neutrino.jpg
@@ -7,7 +7,7 @@ description: "Constants as Ratios Between Layers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 12
 icon: "Juan"
 # was 6b
 ---
@@ -81,3 +81,5 @@ Finding the Exact Frequency:
     The frequency that causes the maximum transition is determined to be 9,192,631,770 Hz.
 
     This means one second is defined as the time it takes for cesium-133 to oscillate exactly 9,192,631,770 times. -->
+
+

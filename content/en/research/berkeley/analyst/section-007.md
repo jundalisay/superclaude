@@ -1,14 +1,16 @@
 ---
+heading: "Articles 7-14"
 title: "Mathematicians Deceived"
-heading: "Article 7"
 weight: 11
 description: ""
-c: "steelblue"
+c: "gray"
+author: "George Berkeley"
+icon: "George Berkeley"
 ---
 
 
 
-7. All these Points are believed by Men who believe only what they see. 
+<sup>7</sup> All these Points are believed by Men who believe only what they see. 
 
 <!-- certain rigorous Exactors of Evidence in Religion,  who pretend to believe no further than they can see.  -->
 
@@ -28,8 +30,7 @@ So what is impossible and repugnant to one person is presumed to be impossible a
 But with what appearance of Reason shall any Man presume to say, that Mysteries may not be Objects of Faith, at the same time that he himself admits such obscure Mysteries to be the Object of Science?
 
 
-
-8. Modern Mathematicians do not consider these Points as Mysteries, but as clearly conceived and mastered by their comprehensive Minds. 
+<sup>8</sup> Modern Mathematicians do not consider these Points as Mysteries, but as clearly conceived and mastered by their comprehensive Minds. 
 
 They scruple not to say, that by the help of these new Analytics they can penetrate into Infinity it self: That they can even extend their Views beyond Infinity: that their Art comprehends not only Infinite, but Infinite of Infinite (as they express it) or an Infinity of Infinites.
 
@@ -46,7 +47,7 @@ But if we remove the Veil and look underneath and see what they represent, we se
  <!-- if laying aside the Expressions we set our selves attentively to consider the things themselves, which are supposed to be expressed or marked thereby, we shall discover  -->
 
 
-9. What are the Principles of this new Analysis by Momentums, Fluxions, or Infinitesimals?
+<sup>9</sup> What are the Principles of this new Analysis by Momentums, Fluxions, or Infinitesimals?
 
 Their capital Points, upon which the rest are supposed to depend, include Error and false Reasoning.
 
@@ -106,7 +107,8 @@ A man might establish certain Rules as Truths which he demostrates subtley.
 - His Disciples might confound a Rule as a Truth in order to save themselves the trouble of thinking, especially if they are used to computing instead of thinking. 
 
 
-11. The Points or meer Limits of nascent Lines are undoubtedly equal, as having no more magnitude one than another, a Limit as such being no Quantity. 
+
+<sup>11</sup> The Points or meer Limits of nascent Lines are undoubtedly equal, as having no more magnitude one than another, a Limit as such being no Quantity. 
 
 If by a Momentum you mean more than the very initial Limit, it must be either a finite Quantity or an Infinitesimal.
 
@@ -127,7 +129,7 @@ It is said, the Magnitude of Moments is not considered: And yet these same Momen
 This is not easy to conceive, no more than it is why we should take Quantities less than A and B in order to obtain the Increment of AB, of which proceeding it must be owned the final Cause or Motive is very obvious; but it is not so obvious or easy to explain a just and legitimate Reason for it, or shew it to be Geometrical.
 
 
-12. From the foregoing Principle so demonstrated, the general Rule for finding the Fluxion of any Power of a flowing Quantity is derived[4]. 
+<sup>12</sup> From the foregoing Principle so demonstrated, the general Rule for finding the Fluxion of any Power of a flowing Quantity is derived[4]. 
 
 But I have shown its defect in the foregoing Demonstration.
 
@@ -165,7 +167,8 @@ Letting the Increments vanish also destroys the former Supposition that the Incr
 Which, by the foregoing Lemma, is a false way of reasoning. Certainly when we suppose the Increments to vanish, we must suppose their Proportions, their Expressions, and every thing else derived from the Supposition of their Existence to vanish with them.
 
 
-14. To make this Point plainer, I shall unfold the reasoning, and propose it in a fuller light to your View. It amounts therefore to this, or may in other Words be thus expressed. I suppose that the Quantity x flows, and by flowing is increased, and its Increment I call o, so that by flowing it becomes x + o. 
+
+<sup>14</sup> To make this Point plainer, I shall unfold the reasoning, and propose it in a fuller light to your View. It amounts therefore to this, or may in other Words be thus expressed. I suppose that the Quantity x flows, and by flowing is increased, and its Increment I call o, so that by flowing it becomes x + o. 
 
 And as x increaseth, it follows that every Power of x is likewise increased in a due Proportion. Therefore as x becomes x + o, xn will become ..: that is, according to the Method of infinite Series, .. &c.
 

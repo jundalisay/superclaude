@@ -1,15 +1,16 @@
 ---
+heading: "Articles 15-23"
 title: "Mathematicians Deceived"
-# heading: "Englightened"
 weight: 17
 description: ""
-c: "steelblue"
+c: "gray"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
 
 
-15. No just Conclusion can be directly drawn from 2 inconsistent Suppositions.
+
+<sup>15</sup> No just Conclusion can be directly drawn from 2 inconsistent Suppositions.
 
 You cannot suppose any thing that destroys what you first supposed. If you do, you must begin de novo.
 

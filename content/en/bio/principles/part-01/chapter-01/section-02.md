@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Section 2"
 title: "Classifying Elementals"
 date: 2024-07-22
 weight: 4

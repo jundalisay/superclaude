@@ -1,7 +1,7 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "The Substance of Aether"
-# # date: 2020-01-31
+# date: 2020-01-31
 image: "/photos/physics/galaxy.jpg"
 description: "A universe is a substance of the aether"
 writer:
@@ -40,5 +40,3 @@ In a nutshell:
 The Existence is theoretical as Pre-Existence. 
 
 It becomes actual existence as SOA3 or reality.
-
-

@@ -1,8 +1,8 @@
 ---
-heading: "Section 10"
+heading: "Unit 2"
 title: "Desire-based Evolution"
 date: 2025-10-06
-weight: 474
+weight: 7
 image: /photos/bio/flatfish.jpg
 description: "Superphysics sources evolution from the will or desire"
 writer:
@@ -137,4 +137,4 @@ So the minimum effect is empowerment.
 
 On a policy-level, it would encourage interracial marriages in order for the children to the gain benefits of genetic diversity. 
 
- 
+
