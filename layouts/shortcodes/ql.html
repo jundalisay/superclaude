@@ -1,0 +1,71 @@
+{{ $c := .Get "c" | default "" }}
+{{ $a := .Get "a" | default "" }}
+{{ $img := "" }}
+{{ if $a }}
+  {{ $imgName := printf "icons/%s.jpg" $a }}
+  {{ $img = resources.Get $imgName }}
+{{ end }}
+
+<div class="fade-in max-w-4xl mx-auto py-6 px-4">
+  <div class="flex flex-col gap-6 p-6 rounded-2xl shadow-sm transition-colors duration-300 border bg-sp-card border-sp-border">
+    
+    <!-- Avatar and attribution section - above quote border-b border-sp-border-->
+    <div class="flex flex-row items-center justify-center gap-3 pb-2">
+      
+      <!-- Avatar container -->
+      <div class="w-12 h-12 md:w-14 md:h-14 rounded-full ring-2 ring-white dark:ring-slate-800 shadow-md overflow-hidden bg-sp-bg-alt flex items-center justify-center flex-shrink-0">
+        {{ if $a }}
+          {{ if $img }}
+            <img class="w-full h-full object-cover" src="{{ $img.RelPermalink }}" alt="{{ $a }}">
+          {{ else }}
+            <!-- Try static path fallback -->
+            <img class="w-full h-full object-cover" src="/icons/{{ $a }}.jpg" alt="{{ $a }}" 
+                 onerror="this.style.display='none'; this.parentElement.querySelector('.initials').style.display='flex'">
+            <span class="initials hidden w-full h-full items-center justify-center text-sp-muted font-bold text-xl select-none bg-sp-bg-alt">
+              {{ substr $a 0 1 | upper }}
+            </span>
+          {{ end }}
+        {{ else }}
+          <span class="flex w-full h-full items-center justify-center text-sp-muted font-bold text-xl select-none bg-sp-bg-alt">
+            C
+          </span>
+        {{ end }}
+      </div>
+
+      <div class="flex flex-col items-start">
+        {{ if $a }}
+          <span class="text-sm font-bold text-sp-text leading-tight">
+            {{ $a }}
+          </span>
+        {{ end }}
+        
+        {{ if $c }}
+          <span class="text-xs italic text-sp-muted leading-tight">
+            {{ $c }}
+          </span>
+        {{ end }}
+      </div>
+
+    </div>
+
+    <!-- Quote section - full width -->
+    <div class="relative w-full">
+      <!-- Opening quote SVG -->
+      <svg class="absolute -top-2 -left-2 w-8 h-8 opacity-50 text-sp-muted" fill="currentColor" viewBox="0 0 512 512">
+        <path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/>
+      </svg>
+      
+      <div class="pl-6">
+        <p class="text-lg md:text-xl font-medium leading-relaxed text-sp-text">
+          {{ .Inner | markdownify }}
+        </p>
+      </div>
+      
+      <!-- Closing quote SVG -->
+      <svg class="absolute -bottom-2 -right-2 w-8 h-8 opacity-50 text-sp-muted" fill="currentColor" viewBox="0 0 512 512" transform="rotate(180)">
+        <path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/>
+      </svg>
+    </div>
+
+  </div>
+</div>

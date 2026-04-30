@@ -15,69 +15,44 @@ icon: "China"
 
 ###  3. Promote the study and implementation of Xi Jinping Thought and continuously achieve practical results
 
-The party's historical experience and actual development tell us that without the great study of the
-whole party, there will be no great development of the cause. "The Chinese Communists have relied
-on study to get to this day, and they must also rely on study to move into the future.1 In the new era,
-studying and implementing Xi Jinping Thought on Socialism with Chinese Characteristics for a
-New Era is the primary political task of the whole party and the whole country. 
+The party's historical experience and actual development tell us that without the great study of the whole party, there will be no great development of the cause. 
 
-It is necessary to
-pay attention to learning, understanding, understanding and doing practical work, adhere to
-comprehensive and systematic study, timely follow-up study, in-depth thinking, and practical study,
-and effectively unify thinking and action with Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era. The party's leading cadres at all levels should take the lead in studying, put themselves, their duties, and their work into it, so as to ensure that study and thinking are
-thoroughly applied, knowledge and belief are unified, and they can truly learn to be loyal to the
-party.
+"The Chinese Communists have relied on study to get to this day, and they must also rely on study to move into the future.1 
 
-We should study and truly understand the true faith and apply them to promote the whole party to
-achieve better and more practical study results.
+In the new era, studying and implementing Xi Jinping Thought is the primary political task of:
+- the whole party and
+- the whole country. 
 
-"The highest virtue in the world is greater than loyalty." "Loyalty to the party is an excellent
-character that communists must have, and it is also an important value position and spiritual
-background that runs through Xi Jinping Thought on Socialism with Chinese Characteristics for a
-New Era." Loyalty to the party is not abstract but concrete, not conditional but unconditional.
-Learning to be loyal to the Party must be embodied in loyalty to the Party's beliefs. It is necessary
-to strengthen our faith in Marxism and in socialism and communism, build a solid foundation of
-faith, replenish the calcium of the spirit, stabilize the rudder of thinking, refine the "body of King
-Kong", and truly become firm believers and loyal practitioners of the lofty ideal of communism and
-the common ideal of socialism with Chinese characteristics. Learning to be loyal to the Party must
-be reflected in loyalty to the Party organization. It is necessary to firmly establish the "four
-consciousnesses", resolutely safeguard the core position of General Secretary Xi Jinping of the Party
-Central Committee and the whole Party, resolutely safeguard the authority and centralized and
-unified leadership of the Party Central Committee, strictly abide by the Party's political discipline
-and political rules, and maintain a high degree of consistency with the Party Central Committee in
-ideology, politics, and action; and always "remember that your first identity is a member of the
-Communist Party and your first duty is to work for the Party",1 always put the party in the highest
-position in the heart, and at all times be of one heart and one mind with the party. Learning to be
-loyal to the party must be embodied in loyalty to the party's theories, lines, principles, and policies.
-It is necessary to consciously arm the mind, guide practice, and promote work with the achievements
-of the party's theoretical innovations, and earnestly transform the results of study into conscious
-action and social practice; it is necessary to comprehensively implement the party's line, principles,
-and policies, so as to ensure that the party Central Committee's call is resolutely responded to, the
-requirements are resolutely complied with, the prohibitions are resolutely refused, and the
-arrangements are resolutely implemented, so as to ensure the unimpeded implementation of the
-central decrees.
+It is necessary to:
+- pay attention to learning, understanding, understanding and doing practical work
+- adhere to comprehensive and systematic study, timely follow-up study, in-depth thinking, and practical study
+- effectively unify thinking and action with Xi Jinping Thought
 
-Learn the feelings of the people. The people's will is the greatest politics, and the people's position
-is the most fundamental position. Xi Jinping Thought on Socialism with Chinese Characteristics for
-a New Era comes from, for, and relies on the people, vividly interprets the fundamental purpose of
-serving the people wholeheartedly, fully demonstrates the value orientation of people-oriented and
-people-oriented, and deeply practices the ruling philosophy of building the party for the public and
-ruling for the people, which is a scientific theory truly written in the hearts of hundreds of millions
-of people. To deeply understand the feelings of the people that run through them, it is necessary to
-put the people in the highest position ideologically, adhere to the people's dominant position, respect
-the people's initiative, and pay attention to drawing wisdom and strength from the masses of the
-people.
+The party's leading cadres at all levels should take the lead in studying, put themselves, their duties, and their work into it, so as to ensure that study and thinking are thoroughly applied, knowledge and belief are unified, and they can truly learn to be loyal to the party.
 
-"Whether the people support or disapprove , whether they approve or disapprove, whether they are
-happy or unhappy, and whether they agree or not agree are the fundamental criteria for measuring
-the gains and losses of all work"1 To deeply understand the people's feelings that run through it, it
-is necessary to implement the people-centered development thinking in terms of policy
-arrangements, adhere to the principle that development is for the people, development depends on
-the people, and the fruits of development are shared by the people, do more things that are
-convenient for the people, benefit the people and benefit the people, and embody the people-
-centered value scale in all links of economic and social development and implement it in various
-specific policies. To profoundly understand the people's feelings that run through them, it is
-necessary to always conform to the people's yearning for a better life in terms of the implementation
+<!-- We should study and truly understand the true faith and apply them to promote the whole party to
+achieve better and more practical study results. -->
+
+"The highest virtue in the world is greater than loyalty." "Loyalty to the party is an excellent character that communists must have, and it is also an important value position and spiritual
+background that runs through Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era." 
+
+Loyalty to the party is not abstract but concrete, not conditional but unconditional. 
+
+Learning to be loyal to the Party must be embodied in loyalty to the Party's beliefs. It is necessary to strengthen our faith in Marxism and in socialism and communism, build a solid foundation of
+faith, replenish the calcium of the spirit, stabilize the rudder of thinking, refine the "body of King Kong", and truly become firm believers and loyal practitioners of the lofty ideal of communism and the common ideal of socialism with Chinese characteristics. Learning to be loyal to the Party must be reflected in loyalty to the Party organization. It is necessary to firmly establish the "four consciousnesses", resolutely safeguard the core position of General Secretary Xi Jinping of the Party Central Committee and the whole Party, resolutely safeguard the authority and centralized and unified leadership of the Party Central Committee, strictly abide by the Party's political discipline and political rules, and maintain a high degree of consistency with the Party Central Committee in ideology, politics, and action; and always "remember that your first identity is a member of the Communist Party and your first duty is to work for the Party",1 always put the party in the highest position in the heart, and at all times be of one heart and one mind with the party. Learning to be loyal to the party must be embodied in loyalty to the party's theories, lines, principles, and policies. 
+
+It is necessary to consciously arm the mind, guide practice, and promote work with the achievements of the party's theoretical innovations, and earnestly transform the results of study into conscious action and social practice; it is necessary to comprehensively implement the party's line, principles, and policies, so as to ensure that the party Central Committee's call is resolutely responded to, the requirements are resolutely complied with, the prohibitions are resolutely refused, and the arrangements are resolutely implemented, so as to ensure the unimpeded implementation of the central decrees.
+
+Learn the feelings of the people. The people's will is the greatest politics, and the people's position is the most fundamental position. Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era comes from, for, and relies on the people, vividly interprets the fundamental purpose of serving the people wholeheartedly, fully demonstrates the value orientation of people-oriented and people-oriented, and deeply practices the ruling philosophy of building the party for the public and ruling for the people, which is a scientific theory truly written in the hearts of hundreds of millions of people. 
+
+To deeply understand the feelings of the people that run through them, it is necessary to put the people in the highest position ideologically, adhere to the people's dominant position, respect
+the people's initiative, and pay attention to drawing wisdom and strength from the masses of the people.
+
+"Whether the people support or disapprove , whether they approve or disapprove, whether they are happy or unhappy, and whether they agree or not agree are the fundamental criteria for measuring
+the gains and losses of all work"1 To deeply understand the people's feelings that run through it, it is necessary to implement the people-centered development thinking in terms of policy
+arrangements, adhere to the principle that development is for the people, development depends on the people, and the fruits of development are shared by the people, do more things that are
+convenient for the people, benefit the people and benefit the people, and embody the people-centered value scale in all links of economic and social development and implement it in various
+specific policies. To profoundly understand the people's feelings that run through them, it is necessary to always conform to the people's yearning for a better life in terms of the implementation
 of work, realize, safeguard, and develop well the fundamental interests of the broadest masses of
 the people, think about what the people think, be anxious about the people's concerns, and worry
 about the people's worries, strive to solve the problems of the people's vital interests, and constantly
@@ -171,28 +146,20 @@ building will be advanced, and the party's theory will also develop. Party build
 process of dynamic development, which determines that the Party's theoretical innovation is always
 on the road. 
 
-Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era is a
-scientific theoretical guidance and action guide for realizing the long-term rule of the Party and the
-long-term peace and stability of the country. It is bound to be constantly enriched and developed
-along with new explorations in party building. The 19th National Congress of the Communist Party
-of China put forward the general requirements and key tasks of party building in the new era, and
+Xi Jinping Thought is a scientific theoretical guidance and action guide for realizing the long-term rule of the Party and the long-term peace and stability of the country. It is bound to be constantly enriched and developed along with new explorations in party building. 
+
+The 19th National Congress of the Communist Party of China put forward the general requirements and key tasks of party building in the new era, and
 made top-level design and strategic arrangements for promoting party building.
 
-These requirements and tasks are not only an important part of Xi Jinping Thought on Socialism with Chinese
-Characteristics for a New Era, but also constitute the practical foundation and practical source for
-the continuous innovation and development of this thought itself. The Party Central Committee with
-Comrade Xi Jinping as the core has consistently promoted the new great project of Party building,
-and will certainly continue to deeply answer and solve the historical issues of the Party in managing
-the Party under the condition of long-term ruling in the process of studying new situations and
-solving new problems, and continue to improve the Party's politics and ideology. New theoretical
-creations have been made in various aspects such as organization, work style, discipline, anti-
-corruption and clean government, systems, and ruling capacity building, and constantly deepened
-the understanding of the ruling law of the Communist Party, so as to provide useful reference for
-the governance of major parties and major countries and the political development of political
-parties in the world.
+These requirements and tasks:
+- are an important part of Xi Jinping Thought
+- constitute the practical foundation and practical source for the continuous innovation and development of this thought itself.
 
-We will continue to enrich and develop the cause of adhering to and developing socialism with
-Chinese characteristics. 
+The Party Central Committee with Comrade Xi Jinping as the core has consistently promoted the new great project of Party building, and will certainly continue to deeply answer and solve the historical issues of the Party in managing the Party under the condition of long-term ruling in the process of studying new situations and solving new problems, and continue to improve the Party's politics and ideology. 
+
+New theoretical creations have been made in various aspects such as organization, work style, discipline, anti-corruption and clean government, systems, and ruling capacity building, and constantly deepened the understanding of the ruling law of the Communist Party, so as to provide useful reference for the governance of major parties and major countries and the political development of political parties in the world.
+
+<!-- We will continue to enrich and develop the cause of adhering to and developing socialism with Chinese characteristics.  -->
 
 "Marxism must continue to develop with the development of the times, practice, and science, and cannot remain static, and socialism has always advanced in exploration.1
 
@@ -203,8 +170,9 @@ theoretical perspective.
 
 Standing at a new historical starting point, the Party Central Committee with Comrade Xi Jinping as the core will certainly continue to base itself on China's reality, examine the contemporary development of Marxism with a high degree of theoretical consciousness and theoretical self-confidence, and respond to the new expectations for theoretical innovation in the further development of socialism with Chinese characteristics. 
 
-On the basis of refining and sublimating practical experience, new ideas, new viewpoints and new theories are put forward, and the understanding of the law of socialist construction is continuously deepened with new visions, new words and new creations, and continues to inject new era content into the theoretical system of socialism with Chinese characteristics. It can be said that the process of winning the great victory of socialism with Chinese characteristics in the new era is the process of realizing the great rejuvenation of the Chinese nation on the road of socialism with Chinese characteristics, the process
-of ushering in bright prospects for the scientific socialist movement, and the process of continuous
+On the basis of refining and sublimating practical experience, new ideas, new viewpoints and new theories are put forward, and the understanding of the law of socialist construction is continuously deepened with new visions, new words and new creations, and continues to inject new era content into the theoretical system of socialism with Chinese characteristics. 
+
+It can be said that the process of winning the great victory of socialism with Chinese characteristics in the new era is the process of realizing the great rejuvenation of the Chinese nation on the road of socialism with  Chinese characteristics, the process of ushering in bright prospects for the scientific socialist movement, and the process of continuous
 enrichment and development of the party's theory.
 
 <!-- It has been continuously enriched and developed in the process of promoting the construction of a
@@ -214,5 +182,3 @@ problems and putting forward a large number of theoretical topics that need to b
 Continuously contributing Chinese wisdom and Chinese solutions to better advance the cause of
 human progress is itself an important content of Xi Jinping Thought on Socialism with Chinese
 Characteristics for a New Era. -->
-
-

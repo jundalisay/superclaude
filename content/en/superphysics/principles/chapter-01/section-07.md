@@ -96,7 +96,7 @@ Cartesian Physics calls nodes as spinning vortices, and idea from Anaxagoras tha
 The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
 {{< /q >}}
 
-{{< q a="Leucippus" >}}
+{{< ql  a="Leucippus" >}}
 The elements, and the worlds which are derived from them, are infinite, and are dissolved again into them.
 
 The worlds are produced in this way: many bodies, of various kinds and shapes, are separated from the infinite, into a vast vacuum.
@@ -130,7 +130,7 @@ On the other side, there is produced another enveloping membrane which increases
 As it is itself animated by a circular movement, drags with it, and adds to itself, everything it meets with.
 
 Some of these bodies thus enveloped re-unite again and form compounds, which are at first moist and clayey, but soon becoming dry, and being drawn on in the universal movement of the circular vortex, they catch fire, and constitute the substance of the stars. 
-{{< /q >}}
+{{< /ql >}}
 
 
 

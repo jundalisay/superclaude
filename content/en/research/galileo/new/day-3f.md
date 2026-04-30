@@ -62,7 +62,9 @@ But since the time along `AB` is to that along `AC` as the length `AB` is to the
 
 The times of descent along planes of the same length but of different inclinations are to each other in the inverse ratio of the square roots of their heights
 
-From a single point B draw the planes BA and BC, having the same length but different inclinations; let AE and CD be horizontal lines drawn to meet the perpendicular BD; and let BE represent the height of the plane AB, and BD the height of BC; also let BI be a mean proportional to BD and BE; then the ratio of BD to BI is equal to the square root of the ratio of BD to BE. Now, I say, the ratio of the times of descent along BA and BC is the ratio of BD to BI; so that the time of descent along BA is related to the height of the other plane BC, namely BD as the time along BC is related to the height BI. Now it must be proved that the time of descent along BA is to that along BC as the length BD is to the length BI.
+From a single point B draw the planes BA and BC, having the same length but different inclinations; let AE and CD be horizontal lines drawn to meet the perpendicular BD; and let BE represent the height of the plane AB, and BD the height of BC; also let BI be a mean proportional to BD and BE; then the ratio of BD to BI is equal to the square root of the ratio of BD to BE. 
+
+The ratio of the times of descent along BA and BC is the ratio of BD to BI; so that the time of descent along BA is related to the height of the other plane BC, namely BD as the time along BC is related to the height BI. Now it must be proved that the time of descent along BA is to that along BC as the length BD is to the length BI.
 
 
 Fig. 54
@@ -104,7 +106,11 @@ The ratio of these times is therefore unity. Hence follows our proposition.
 
 Fig. 56
 
-By use of the principles of mechanics [ex mechanicis] one may obtain the same result, namely, that a falling body will require equal times to traverse the distances CA and DA, indicated in the following figure. Lay off BA equal to DA, and let fall the perpendiculars BE and DF; it follows from the principles of mechanics that the component of the momentum [momentum ponderis] acting along the inclined plane ABC is to the total momentum [i. e., the momentum of the body falling freely] as BE is to BA; in like manner the momentum along the plane AD is to its total momentum [i. e., the momentum of the body falling freely] as DF is to DA, or to BA. Therefore the momentum of this same weight along the plane DA is to that along the plane ABC as the length DF is to the length BE; for this reason, this same weight will in equal times according to the second proposition of the first book, traverse spaces along the planes CA and DA which are to each other as the lengths BE and DF. But it can be shown that CA is to DA as BE is to DF. Hence the falling body will traverse the two paths CA and DA in equal times.
+By use of the principles of mechanics [ex mechanicis] one may obtain the same result, namely, that a falling body will require equal times to traverse the distances CA and DA, indicated in the following figure.
+
+Lay off BA equal to DA, and let fall the perpendiculars BE and DF; it follows from the principles of mechanics that the component of the momentum [momentum ponderis] acting along the inclined plane ABC is to the total momentum [i. e., the momentum of the body falling freely] as BE is to BA; in like manner the momentum along the plane AD is to its total momentum [i. e., the momentum of the body falling freely] as DF is to DA, or to BA. Therefore the momentum of this same weight along the plane DA is to that along the plane ABC as the length DF is to the length BE; for this reason, this same weight will in equal times according to the second proposition of the first book, traverse spaces along the planes CA and DA which are to each other as the lengths BE and DF. 
+
+But it can be shown that CA is to DA as BE is to DF. Hence the falling body will traverse the two paths CA and DA in equal times.
 
 
 Fig. 57
@@ -113,37 +119,56 @@ Moreover the fact that CA is to DA as BE is to DF may be demonstrated as follows
 
 e. d.
 
-The same proposition may be more easily demonstrated as follows: On the horizontal line AB draw a circle whose diameter DC is vertical. From the upper end of this diameter draw any inclined plane, DF, extending to meet the circumference; then, I say, a body will occupy the same time in falling along the plane DF as along the diameter DC. For draw FG parallel to AB and perpendicular to DC; join FC; and since the time of fall along DC is to that along DG as the mean proportional between CD and GD is to GD itself; and since also DF is a mean proportional between DC and DG, the angle DFC inscribed in a semicircle being a right-angle, and FG being perpendicular to DC, it follows that the time of fall along DC is to that along DG as the length FD is to GD. But it has already been demonstrated that the time of descent along DF is to that along DG as the length DF is to DG; hence the times of descent along DF and DC each bear to the time of fall along DG the same ratio; consequently they are equal.
+The same proposition may be more easily demonstrated as follows: On the horizontal line AB draw a circle whose diameter DC is vertical. From the upper end of this diameter draw any inclined plane, DF, extending to meet the circumference.
+
+Then a body will occupy the same time in falling along the plane DF as along the diameter DC. For draw FG parallel to AB and perpendicular to DC; join FC; and since the time of fall along DC is to that along DG as the mean proportional between CD and GD is to GD itself; and since also DF is a mean proportional between DC and DG, the angle DFC inscribed in a semicircle being a right-angle, and FG being perpendicular to DC, it follows that the time of fall along DC is to that along DG as the length FD is to GD. 
+
+But it has already been demonstrated that the time of descent along DF is to that along DG as the length DF is to DG; hence the times of descent along DF and DC each bear to the time of fall along DG the same ratio; consequently they are equal.
 
 
 Fig. 58
 
 In like manner it may be shown that if one draws the chord CE from the lower end of the diameter, also the line EH parallel to the horizon, and joins the points E and D, the time of descent along EC,will be the same as that along the diameter, DC.
 
-## COROLLARY 1
+
+## Corollary 1
 
 From this it follows that the times of descent along all chords drawn through either C or D are equal one to another.
 
-## COROLLARY 2
+
+## Corollary 2
 
 It also follows that, if from any one point there be drawn a vertical line and an inclined one along which the time of descent is the same, the inclined line will be a chord of a semicircle of which the vertical line is the diameter.
 
-## COROLLARY 3
+
+## Corollary 3
 
 Moreover the times of descent along inclined planes will be equal when the vertical heights of equal lengths of these planes are to each other as the lengths of the planes themselves; thus it is clear that the times of descent along CA and DA, in the figure just before the last, are equal, provided the vertical height of AB (AB being equal to AD), namely, BE, is to the vertical height DF as CA is to DA.
 
 
 
 {{< r a="Sagredo" >}}
-Please allow me to interrupt the lecture for a moment in order that I may clear up an idea which just occurs to me; one which, if it involve no fallacy, suggests at least a freakish and interesting circumstance, such as often occurs in nature and in the realm of necessary consequences.
+Please allow me to interrupt the lecture so that I may clear up an idea which just occurs to me.
 
-If, from any point fixed in a horizontal plane, straight lines be drawn extending indefinitely in all directions, and if we imagine a point to move along each of these lines with constant speed, all starting from the fixed point at the same instant and moving with equal speeds, then it is clear that all of these moving points will lie upon the circumference of a circle which grows larger and larger, always having the aforesaid fixed point as its center; this circle spreads out in precisely the same manner as the little waves do in the case of a pebble allowed to drop into quiet water, where the impact of the stone starts the motion in all directions, while the point of impact remains the center of these ever-expanding circular waves. 
+ <!-- one which, if it involve no fallacy, suggests at least a freakish and interesting circumstance, such as often occurs in nature and in the realm of necessary consequences. -->
+
+From any point fixed in a horizontal plane, draw straight lines extending indefinitely in all directions. 
+
+Imagine a point to move along each of these lines with constant speed, all starting from the fixed point at the same instant and moving with equal speeds.
+
+Then all of these moving points will lie on the circumference of a circle which grows larger and larger, always having the fixed point as its center.
+
+This circle spreads out in precisely the same manner as the little waves do in the case of a pebble allowed to drop into quiet water, where the impact of the stone starts the motion in all directions, while the point of impact remains the center of these ever-expanding circular waves. 
 
 But imagine a vertical plane from the highest point of which are drawn lines inclined at every angle and extending indefinitely; imagine also that heavy particles descend along these lines each with a naturally accelerated motion and each with a speed appropriate to the inclination of its line. 
 
-If these moving particles are always visible, what will be the locus of their positions at any instant? Now the answer to this question surprises me, for I am led by the preceding theorems to believe that these particles will always lie upon the circumference of a single circle, ever increasing in size as the particles recede farther and farther from the point at which their motion began. 
+If these moving particles are always visible, what will be the locus of their positions at any instant? 
 
-To be more definite, let A be the fixed point from which are drawn the lines AF and AH inclined at any angle whatsoever. On the perpendicular AB take any two points C and D about which, as centers, circles are described passing through the point A, and cutting the inclined lines at the points F, H, B, E, G, I. From the preceding theorems it is clear that, if particles start, at the same instant, from A and descend along these lines, when one is at E another will be at G and another at I; at a later instant they will be found simultaneously at F, H and B; these, and indeed an infinite number of other particles travelling along an infinite number of different slopes will at successive instants always lie upon a single ever-expanding circle. 
+The answer to this question surprises me, for I am led by the preceding theorems to believe that these particles will always lie upon the circumference of a single circle, ever increasing in size as the particles recede farther and farther from the point at which their motion began. 
+
+To be more definite, let A be the fixed point from which are drawn the lines AF and AH inclined at any angle whatsoever. On the perpendicular AB take any two points C and D about which, as centers, circles are described passing through the point A, and cutting the inclined lines at the points F, H, B, E, G, I. 
+
+From the preceding theorems it is clear that, if particles start, at the same instant, from A and descend along these lines, when one is at E another will be at G and another at I; at a later instant they will be found simultaneously at F, H and B; these, and indeed an infinite number of other particles travelling along an infinite number of different slopes will at successive instants always lie upon a single ever-expanding circle. 
 
 The 2 kinds of motion occurring in nature give rise therefore to 2 infinite series of circles, at once resembling and differing from each other; the one takes its rise in the center of an infinite number of concentric circles; the other has its origin in the contact, at their highest points, of an infinite number of eccentric circles; the former are produced by motions which are equal and uniform; the latter by motions which are neither uniform nor equal among themselves, but which vary from one to another according to the slope.
 {{< /r >}}
@@ -154,15 +179,19 @@ Fig. 59
 Further, if from the two points chosen as origins of motion, we draw lines not only along horizontal and vertical planes but in all directions then just as in the former cases, beginning at a single point ever-expanding circles are produced, so in the latter case an infinite number of spheres are produced about a single point, or rather a single sphere which expands in size without limit; and this in two ways, one with the origin at the center, the other on the surface of the spheres.
 
 
-Salv.
+{{< l a="Salviati" >}}
 The idea is really beautiful and worthy of the clever mind of Sagredo.
-
+{{< /l >}}
 
 Simp.
 The 2 kinds of natural motions give rise to the circles and spheres. Yet as to the production of circles by accelerated motion and its proof, I am not entirely clear; but the fact that one can take the origin of motion either at the inmost center or at the very top of the sphere leads one to think that there may be some great mystery hidden in these true and wonderful results, a mystery related to the creation of the universe (which is said to be spherical in shape), and related also to the seat of the first cause [prima causa].
 
-Salv.
-I have no hesitation in agreeing with you. But profound considerations of this kind belong to a higher science than ours [a più alte dottrine che le nostre]. We must be satisfied to belong to that class of less worthy workmen who procure from the quarry the marble out of which, later, the gifted sculptor produces those masterpieces which lay hidden in this rough and shapeless exterior. Now, if you please, let us proceed.
+{{< l a="Salviati" >}}
+I agree. But profound considerations of this kind belong to a higher science than ours.
+
+We must be satisfied to belong to that class of less worthy workmen who procure from the quarry the marble out of which, later, the gifted sculptor produces those masterpieces which lay hidden in this rough and shapeless exterior. Now, if you please, let us proceed.
+{{< /l >}}
+
 
 
 ## Theorem 7, Proposition 7

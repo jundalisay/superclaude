@@ -1,10 +1,8 @@
 ---
 heading: "Unit 2"
 title: Nominal Price
-# linkTitle: "Effective Demand"
-weight: 6
+weight: 7
 # date: 2022-08-30
-# date: 2022-03-27
 date: 2026-01-20
 image: /photos/econ/prices.jpg
 description: ""
