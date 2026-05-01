@@ -3,40 +3,33 @@ title: "Port-Royal Grammar"
 weight: 16
 description: "Descartes makes only scant reference to language in his writings"
 c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 
-Turning from the general conception of grammatical structure to specific
-cases of grammatical analysis, we find many other attempts in the
-Port-Royal Grammar to develop the theory of deep and surface structure.
+Turning from the general conception of grammatical structure to specific cases of grammatical analysis, we find many other attempts in the Port-Royal Grammar to develop the theory of deep and surface structure.
 
-Thus adverbs are analyzed as (for the most part) arising from “the desire that
-men have to abbreviate discourse,” thus as being elliptical forms of
-preposition-noun constructions, for example, “wisely” for “with wisdom” or
-“today” for “on this day” (p. 88; PRG 121). Similarly, verbs are analyzed as
+Thus adverbs are analyzed as (for the most part) arising from “the desire that men have to abbreviate discourse,” thus as being elliptical forms of
+preposition-noun constructions, for example, “wisely” for “with wisdom” or “today” for “on this day” (p. 88; PRG 121). Similarly, verbs are analyzed as
 containing implicitly an underlying copula that expresses affirmation; thus,
 once again, as arising from the desire to abbreviate the actual expression of
-thought. The verb, then, is “a word whose principal use77 is to signify affirma-
-tion or assertion, that is, to indicate that the discourse where this word is
-employed is the discourse of a man who not only conceives things, but who
-judges and affirms them” (p. 90; PRG 122). To use a verb, then, is to perform the
+thought. The verb, then, is “a word whose principal use77 is to signify affirmation or assertion, that is, to indicate that the discourse where this word is
+employed is the discourse of a man who not only conceives things, but who judges and affirms them” (p. 90; PRG 122). To use a verb, then, is to perform the
 act of affirming, not simply to refer to affirmation as an “object of our thought,”
 as in the use of “a number of nouns which also mean affirmation, such as
-‘affirmans’ and ‘affirmatio’” (p. 90; PRG 122). Thus the Latin sentence “Petrus
-vivit” has the meaning “Peter is living” (p. 90; PRG 123), and in the sentence
-“Petrus affirmat” “‘affirmat’ is the same as ‘est affirmans’” (p. 98; PRG 128).
-It follows, then, that in the sentence “Affirmo” (in which subject, copula, and
-attribute are all abbreviated in a single word), two affirmations are expressed:
+‘affirmans’ and ‘affirmatio’”. 
+
+Thus the Latin sentence “Petrus vivit” has the meaning “Peter is living” (p. 90; PRG 123), and in the sentence “Petrus affirmat” “‘affirmat’ is the same as ‘est affirmans’” (p. 98; PRG 128).
+It follows, then, that in the sentence “Affirmo” (in which subject, copula, and attribute are all abbreviated in a single word), two affirmations are expressed:
 one regarding the act of the speaker in affirming, the other the affirmation that
 he attributes (to himself, in this case). Similarly, “the verb ‘nego’ ... contains an
 affirmation and a negation” 
 
-Formulating these observations in the framework outlined above, what the
-Port-Royal grammarians are maintaining is that the deep structure underlying a
-sentence such as “Peter lives” or “God loves mankind” (Logic, p. 108; PRL 83)
-contains a copula, expressing the affirmation, and a predicate (“living,” “loving
-mankind”) attributed to the subject of the proposition. Verbs constitute a sub-
-category of predicates; they are subject to a transformation that causes them to
+Formulating these observations in the framework outlined above, what the Port-Royal grammarians are maintaining is that the deep structure underlying a
+sentence such as “Peter lives” or “God loves mankind” contains a copula, expressing the affirmation, and a predicate (“living,” “loving
+mankind”) attributed to the subject of the proposition. 
+
+Verbs constitute a subcategory of predicates; they are subject to a transformation that causes them to
 coalesce with the copula into a single word.
 
 The analysis of verbs is extended in the Logic, where it is maintained (p. 117)

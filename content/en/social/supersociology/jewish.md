@@ -1,6 +1,6 @@
 ---
 title: A Story of Jewish Politics
-heading: Chapter 11
+# heading: Chapter 11
 weight: 12
 date: 2021-07-21
 image: /photos/medieval/arab.jpg
@@ -8,12 +8,8 @@ description: "Jesus was Defeated by the Pharisees because of their connection to
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
-aliases:
-  /social/supersociology/principles/part-3/chapter-11
+icon: "Juan"
 ---
-
-
 
 
 The Jews at the time of Moses were torn between two sides: 

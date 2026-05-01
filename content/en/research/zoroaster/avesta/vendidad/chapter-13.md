@@ -42,20 +42,35 @@ See Introd. IV, 35. -->
 
 ## 1a
 
-1. Which is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit?
 
-2 (3). Ahura Mazda answered: ‘The dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara 1, which evil-speaking people call the Duzaka 2; this is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit.
+{{< r a="Zarathustra" >}}
+1. Which is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+2 (3). The dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara 1, which evil-speaking people call the Duzaka 2; this is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit.
 
 3 (6). 'And whosoever, O Zarathustra! shall kill, the dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara, which evil-speaking people call the Duzaka, kills his own soul for nine generations, nor shall he find a way over the Kinvad bridge 3, unless he has, while alive, atoned for his sin by offering up a sacrifice to Sraosha 4.'
+{{< /l >}}
 
-4 (10). O Maker of the material world, thou Holy One! If a man kill the dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara, which evil-speaking people call the Duzaka, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana.'
+{{< r a="Zarathustra" >}}
+4 (10).  If a man kill the dog with the prickly back, with the long and thin muzzle, the dog Vanghâpara, which evil-speaking people call the Duzaka, what is the penalty that he shall pay?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+A thousand stripes with the Aspahê-astra, a thousand stripes with the Sraoshô-karana.
+{{< /l >}}
 
 
 ## 1b
 
+
+{{< r a="Zarathustra" >}}
 5 (13). Which is the evil creature among the creatures of the evil spirit that from midnight till the sun is up goes and kills thousands of the creatures of the good spirit?
+{{< /r >}}
+
 
 6 (15). Ahura Mazda answered: ‘The daêva Zairimyangura 1, which evil-speaking people call the Zairimyâka 2, this is the evil creature among the creatures of the evil spirit that from midnight till the sun is up goes and kills thousands of the creatures of the good spirit.
 
@@ -72,177 +87,272 @@ Ahura Mazda answered: 'A thousand stripes with the Aspahê-astra, a thousand str
 
 11 (31). 'If a man shall smite a house dog so that it becomes unfit for work, if he shall cut off its ear or its paw, and thereupon a thief or a wolf break in and carry away goods from the house, without the dog giving any warning, the man shall pay for the lost goods, and he shall pay for the wound of the dog as for wilful wounding.'
 
-12 (36). O Maker of the material world, thou Holy One! If a man shall smite a shepherd's dog. so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'Eight hundred stripes with the Aspahê-astra, eight hundred stripes with the Sraoshô-karana.'
 
-13 (39). O Maker of the material world, thou Holy One! If a man shall smite a house dog so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'Seven hundred stripes with the Aspahê-astra, seven hundred stripes with the Sraoshô-karana.'
 
-14 (42). O Maker of the material world, thou Holy One! If a man shall smite a Vohunazga dog so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
 
-Ahura Mazda answered: 'Six hundred stripes with the Aspahê-astra, six hundred stripes with the Sraoshô-karana.'
 
-15 (45). O Maker of the material world, thou Holy One! If a man shall smite a young dog 1 so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
+{{< r a="Zarathustra" >}}
+12 (36).  If a man shall smite a shepherd's dog so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
+{{< /r >}}
 
-Ahura Mazda answered: 'Five hundred stripes with the Aspahê-astra, five hundred stripes with the Sraoshô-karana.'
+{{< l a="Ahura Mazda" >}}
+800 stripes with the Aspahê-astra, eight hundred stripes with the Sraoshô-karana.
+{{< /l >}}
 
+{{< r a="Zarathustra" >}}
+13 (39). If a man shall smite a house dog so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+700 stripes with the Aspahê-astra, seven hundred stripes with the Sraoshô-karana.
+{{< /l >}}
+
+{{< r a="Zarathustra" >}}
+14 (42). If a man shall smite a Vohunazga dog so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+600 stripes with the Aspahê-astra, six hundred stripes with the Sraoshô-karana.'
+{{< /l >}}
+
+{{< r a="Zarathustra" >}}
+15 (45). If a man shall smite a young dog 1 so that it gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+500 stripes with the Aspahê-astra, five hundred stripes with the Sraoshô-karana.'
+{{< /l >}}
+
+{{< l a="Ahura Mazda" >}}
 16 (48). 'This is the penalty for the murder of a Gazu dog, of a Vîzu dog 2, of a Sukuruna dog 3, of a sharp-toothed Urupi dog 4, of a swift-running Raopi 5 dog; this is the penalty for the murder of any kind of dog but the water dog 6'
-
+{{< /l >}}
 
 ## 3
 
-17 (49). O Maker of the material world, thou Holy One! Which is the dog that must be called a shepherd's dog?
+{{< r a="Zarathustra" >}}
+17 (49). Which is the dog that must be called a shepherd's dog?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the dog who goes a Yugyêsti 1 round about the fold, watching for the thief and the wolf.'
+{{< l a="Ahura Mazda" >}}
+'It is the dog who goes a Yugyêsti 1 round about the fold, watching for the thief and the wolf.'
+{{< /l >}}
 
-18 (51). O Maker of the material world, thou Holy One! Which is the dog that must be called a house dog?
+{{< r a="Zarathustra" >}}
+18 (51). Which is the dog that must be called a house dog?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the dog who goes a Hâthra round about the house, watching for the thief and the wolf.'
+{{< l a="Ahura Mazda" >}}
+'It is the dog who goes a Hâthra round about the house, watching for the thief and the wolf.'
+{{< /l >}}
 
-19 (53). O Maker of the material world, thou Holy One! Which is the dog that must be called a Vohunazga dog?
+{{< r a="Zarathustra" >}}
+19 (53). Which is the dog that must be called a Vohunazga dog?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the dog who claims none of those talents, and only seeks for his subsistence 2.'
-
+{{< l a="Ahura Mazda" >}}
+'It is the dog who claims none of those talents, and only seeks for his subsistence 2.'
+{{< /l >}}
 
 ## 4
 
-20 (55). O Maker of the material world, thou Holy One! If a man give bad food to a shepherd's dog, of what sin is he guilty?
+{{< r a="Zarathustra" >}}
+20 (55).  If a man give bad food to a shepherd's dog, of what sin is he guilty?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the same guilt as though he should serve bad food to a master of a house of the first rank 3.'
+{{< l a="Ahura Mazda" >}}
+'It is the same guilt as though he should serve bad food to a master of a house of the first rank 3.'
+{{< /l >}}
 
-21 (57). O Maker of the material world, thou Holy One! If a man give bad food to a house dog, of what sin is he guilty?
+{{< r a="Zarathustra" >}}
+21 (57).  If a man give bad food to a house dog, of what sin is he guilty?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the same guilt as though he should serve bad food to a master of a house of middle rank.'
+{{< l a="Ahura Mazda" >}}
+'It is the same guilt as though he should serve bad food to a master of a house of middle rank.'
+{{< /l >}}
 
-22 (59). O Maker of the material world, thou Holy One! If a man give bad food to a Vohunazga dog, of what sin is he guilty?
+{{< r a="Zarathustra" >}}
+22 (59).  If a man give bad food to a Vohunazga dog, of what sin is he guilty?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the same guilt as though he should serve bad food to a holy man, in the character of a priest 1, who should come to his house.'
+{{< l a="Ahura Mazda" >}}
+'It is the same guilt as though he should serve bad food to a holy man, in the character of a priest 1, who should come to his house.'
+{{< /l >}}
 
-23 (61). O Maker of the material world, thou Holy One! If a man give bad food to a young dog, of what sin is he guilty?
+{{< r a="Zarathustra" >}}
+23 (61).  If a man give bad food to a young dog, of what sin is he guilty?
+{{< /r >}}
 
-Ahura Mazda answered: 'It is the same guilt as though he should serve bad food to a young man, born of pious parents, and who can answer for himself 2.'
+{{< l a="Ahura Mazda" >}}
+'It is the same guilt as though he should serve bad food to a young man, born of pious parents, and who can answer for himself 2.'
+{{< /l >}}
 
-24 (63). O Maker of the material world, thou Holy One! If a man shall give bad food to a shepherd's dog, what is the penalty that he shall pay?
+{{< r a="Zarathustra" >}}
+24 (63).  If a man shall give bad food to a shepherd's dog, what is the penalty that he shall pay?
+{{< /r >}}
 
-Ahura Mazda answered: 'He is a Peshôtanu: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana 3.'
+{{< l a="Ahura Mazda" >}}
+'He is a Peshôtanu: two hundred stripes with the Aspahê-astra, two hundred stripes with the Sraoshô-karana 3.'
+{{< /l >}}
 
-25 (66). O Maker of the material world, thou Holy One! If a man shall give bad food to a house dog, what is the penalty that he shall pay?
+{{< r a="Zarathustra" >}}
+25 (66).  If a man shall give bad food to a house dog, what is the penalty that he shall pay?
+{{< /r >}}
 
-Ahura Mazda answered: 'Ninety stripes with the Aspahê-astra, ninety stripes with the Sraoshô-karana.'
+{{< l a="Ahura Mazda" >}}
+'Ninety stripes with the Aspahê-astra, ninety stripes with the Sraoshô-karana.'
+{{< /l >}}
 
-26 (69). O Maker of the material world, thou Holy One! If a man shall give bad food to a Vohunazga dog, what is the penalty that he shall pay?
+{{< r a="Zarathustra" >}}
+26 (69).  If a man shall give bad food to a Vohunazga dog, what is the penalty that he shall pay?
+{{< /r >}}
 
-Ahura Mazda answered: 'Seventy stripes with the Aspahê-astra, seventy stripes with the Sraoshô-karana.'
+{{< l a="Ahura Mazda" >}}
+'Seventy stripes with the Aspahê-astra, seventy stripes with the Sraoshô-karana.'
+{{< /l >}}
 
-27 (72). O Maker of the material world, thou Holy One! If a man shall give bad food to a young dog, what is the penalty that he shall pay?
+{{< r a="Zarathustra" >}}
+27 (72).  If a man shall give bad food to a young dog, what is the penalty that he shall pay?
+{{< /r >}}
 
-Ahura Mazda answered: ‘Fifty stripes with the Aspahê-astra, fifty stripes with the Sraoshô-karana.
+{{< l a="Ahura Mazda" >}}
+'Fifty stripes with the Aspahê-astra, fifty stripes with the Sraoshô-karana.
 
 28 (75). 'For it is the dog, of all the creatures of the good spirit, that most quickly decays into age, while not eating near eating people, and watching goods none of which it receives. Bring ye unto him milk and fat with meat; this is the right food for the dog 1.'
-
+{{< /l >}}
 
 ## 5
 
-29 (80). O Maker of the material world, thou Holy One! If there be in the house of a worshipper of Mazda a mad dog, or one that bites without barking, what shall the worshippers of Mazda do?
+{{< r a="Zarathustra" >}}
+29 (80).  If there be in the house of a worshipper of Mazda a mad dog, or one that bites without barking, what shall the worshippers of Mazda do?
+{{< /r >}}
 
-30 (82). Ahura Mazda answered: ‘They shall put a wooden collar around his neck, and they shall tie him to a post, an asti 1 thick if the wood be hard, two astis thick if it be soft. To that post they shall tie him; by the two sides 2 of the collar they shall tie him.
+{{< l a="Ahura Mazda" >}}
+30 (82). 'They shall put a wooden collar around his neck, and they shall tie him to a post, an asti 1 thick if the wood be hard, two astis thick if it be soft. To that post they shall tie him; by the two sides 2 of the collar they shall tie him.
 
-31 (86). ‘If they shall not do so, and the mad dog, or the dog that bites without barking, smite a sheep or wound a man, the dog shall pay for it as for wilful murder 3.
+31 (86). 'If they shall not do so, and the mad dog, or the dog that bites without barking, smite a sheep or wound a man, the dog shall pay for it as for wilful murder 3.
 
-32 (88). ‘If the dog shall smite a sheep or wound a man, they shall cut off his right ear. If he shall smite another sheep or wound another man, they shall cut off his left ear.
+32 (88). 'If the dog shall smite a sheep or wound a man, they shall cut off his right ear. If he shall smite another sheep or wound another man, they shall cut off his left ear.
 
-33 (90). ‘If he shalt smite a third sheep or wound a third man, they shall cut off his right foot 4. If he shall smite a fourth sheep or wound a fourth man, they shall cut off his left foot.
+33 (90). 'If he shall smite a third sheep or wound a third man, they shall cut off his right foot 4. If he shall smite a fourth sheep or wound a fourth man, they shall cut off his left foot.
 
-34 (92). ‘If he shall for the fifth time smite a sheep or wound a man, they shall cut off his tail.
+34 (92). 'If he shall for the fifth time smite a sheep or wound a man, they shall cut off his tail.
 
 'Therefore they shall tie him to the post; by the two sides of the collar they shall tie him. If they shall not do so, and the mad dog, or the dog that bites without barking, smite a sheep or wound a man, he shall pay for it as for wilful murder.'
+{{< /l >}}
 
-35 (97). O Maker of the material world, thou Holy One! If there be in the house of a worshipper of Mazda a scentless dog, or a mad dog, what shall the worshippers of Mazda do?
+{{< r a="Zarathustra" >}}
+35 (97).  If there be in the house of a worshipper of Mazda a scentless dog, or a mad dog, what shall the worshippers of Mazda do?
+{{< /r >}}
 
-Ahura Mazda answered: 'They shall attend him to heal him, in the same manner as they would do for one of the faithful.'
+{{< l a="Ahura Mazda" >}}
+'They shall attend him to heal him, in the same manner as they would do for one of the faithful.'
+{{< /l >}}
 
-36 (100). O Maker of the material world, thou Holy One! If they try to heal him and fail, what shall the worshippers of Mazda do?
+{{< r a="Zarathustra" >}}
+36 (100).  If they try to heal him and fail, what shall the worshippers of Mazda do?
+{{< /r >}}
 
-37 (102). Ahura Mazda answered: ‘They shall put a wooden collar around his neck, and they shall tie him to a post, an asti thick if the wood be hard, two astis thick if it be soft. To that post they shall tie him; by the two sides of the collar they shall tie him.
+{{< l a="Ahura Mazda" >}}
+37 (102). 'They shall put a wooden collar around his neck, and they shall tie him to a post, an asti thick if the wood be hard, two astis thick if it be soft. To that post they shall tie him; by the two sides of the collar they shall tie him.
 
-38 (102). ‘If they shall not do so, and the scentless dog fall into a hole, or a well, or a precipice, or a river, or a canal, and he be wounded and die thereof, they shall be Peshôtanus.
+38 (102). 'If they shall not do so, and the scentless dog fall into a hole, or a well, or a precipice, or a river, or a canal, and he be wounded and die thereof, they shall be Peshôtanus.'
+{{< /l >}}
 
-VI.
-39 (106). ‘The dog, O Spitama Zarathustra! I, Ahura Mazda, have made self-clothed and self-shod, watchful, wakeful, and sharp-toothed, born to take his food from man and to watch over man's goods. I, Ahura Mazda, have made the dog strong of body against the evil-doer, and watchful over your goods, when he is of sound mind.
+## VI
 
-40 (112). 'And whosoever shall awake at his voice, neither shall the thief nor the wolf steal anything from his house, without his being warned, the wolf shall be smitten and torn to pieces; he is driven away, he flees away.'
+{{< l a="Ahura Mazda" >}}
+39 (106). 'The dog, O Spitama Zarathustra! I have made self-clothed and self-shod, watchful, wakeful, and sharp-toothed, born to take his food from man and to watch over man's goods. 
 
+I have made the dog strong of body against the evil-doer, and watchful over your goods, when he is of sound mind.
+
+40 (112). 'Whoever shall awake at his voice, neither shall the thief nor the wolf steal anything from his house, without his being warned, the wolf shall be smitten and torn to pieces; he is driven away, he flees away.'
+{{< /l >}}
 
 ## 7
 
-41 (115). O Maker of the material world, thou Holy One! Which, of the two wolves deserves more to be killed, the one that is born of a he-dog and of a she-wolf, or the one that is born of a she-dog and of a he-wolf?
+{{< r a="Zarathustra" >}}
+41 (115).  Which, of the two wolves deserves more to be killed, the one that is born of a he-dog and of a she-wolf, or the one that is born of a she-dog and of a he-wolf?
+{{< /r >}}
 
-Ahura Mazda answered: ‘Of these two wolves, the one that is born of a he-dog and of a she-wolf deserves more to be killed than the one that is born of a she-dog and of a he-wolf.
+{{< l a="Ahura Mazda" >}}
+42 (117). 'Of these two wolves, the one that is born of a he-dog and of a she-wolf deserves more to be killed than the one that is born of a she-dog and of a he-wolf.
 
-42 (117). ‘For there are born of a he-dog and of a she-wolf such dogs as fall on the shepherd's dog, on the house dog, on the Vohunazga dog, on the trained dog, and destroy the folds; such dogs are born as are more murderous, more mischievous, more destructive to the folds than any other dogs.
+'For there are born of a he-dog and of a she-wolf such dogs as fall on the shepherd's dog, on the house dog, on the Vohunazga dog, on the trained dog, and destroy the folds; such dogs are born as are more murderous, more mischievous, more destructive to the folds than any other dogs.
 
-43 (121). ‘And there are born of a he-dog and of a she-wolf such wolves as fall on the shepherd's dog, on the house dog, on the Vohunazga dog, on the trained dog, and destroy the folds; such wolves are born as are more murderous, more mischievous, more destructive to the folds than any other wolves.
-
+43 (121). There are born of a he-dog and of a she-wolf such wolves as fall on the shepherd's dog, on the house dog, on the Vohunazga dog, on the trained dog, and destroy the folds; such wolves are born as are more murderous, more mischievous, more destructive to the folds than any other wolves.
+{{< /l >}}
 
 ## 8
 
-44 (124). ‘A dog has the characters of eight different sorts of people:--
+{{< l a="Ahura Mazda" >}}
+44 (124). 'A dog has the characters of eight different sorts of people:--
 
-‘He has the character of a priest,
+'He has the character of a priest,
 
-‘He has the character of a warrior,
+'He has the character of a warrior,
 
-‘He has the character of a husbandman,
+'He has the character of a husbandman,
 
-‘He has the character of a strolling singer,
+'He has the character of a strolling singer,
 
-‘He has the character of a thief,
+'He has the character of a thief,
 
-‘He has the character of a wild beast,
+'He has the character of a wild beast,
 
-‘He has the character of a courtezan,
+'He has the character of a courtezan,
 
-‘He has the character of a child.
+'He has the character of a child.
 
-45 (126). ‘He eats broken food, like a priest 1; he is grateful, like a priest; he is easily satisfied 2, like a priest; he wants only a small piece of bread, like a priest; in these things he is like unto a priest.
+45 (126). 'He eats broken food, like a priest 1; he is grateful, like a priest; he is easily satisfied 2, like a priest; he wants only a small piece of bread, like a priest; in these things he is like unto a priest.
 
-‘He marches in front, like a warrior; he fights for the beneficent cow, like a warrior 3; he goes first out of the house, like a warrior 4; in these things he is like unto a warrior.
+'He marches in front, like a warrior; he fights for the beneficent cow, like a warrior 3; he goes first out of the house, like a warrior 4; in these things he is like unto a warrior.
 
-46 (135). ‘He is watchful and sleeps lightly, like a husbandman; he goes first out of the house, like a husbandman 5; he returns last into the house, like a husbandman 6; in these things he is like unto a husbandman.
+46 (135). 'He is watchful and sleeps lightly, like a husbandman; he goes first out of the house, like a husbandman 5; he returns last into the house, like a husbandman 6; in these things he is like unto a husbandman.
 
-‘He sings like a strolling singer; he is intrusive 7, like a strolling singer; he is meagre, like a strolling singer; he is poor, like a strolling singer; in these things he is like unto a strolling singer.
+'He sings like a strolling singer; he is intrusive 7, like a strolling singer; he is meagre, like a strolling singer; he is poor, like a strolling singer; in these things he is like unto a strolling singer.
 
-47 (143). ‘He likes darkness, like a thief; he prowls about in darkness, like a thief; he is a shameless eater, like a thief;. he is an unfaithful keeper, like a thief 1; in these things he is like unto a thief
+47 (143). 'He likes darkness, like a thief; he prowls about in darkness, like a thief; he is a shameless eater, like a thief; he is an unfaithful keeper, like a thief 1; in these things he is like unto a thief
 
-‘He likes darkness, like a wild beast 2; he prowls about in darkness, like a wild beast; he is a shameless eater, like a wild beast; he is an unfaithful keeper, like a wild beast; in these things he is like unto a wild beast.
+'He likes darkness, like a wild beast 2; he prowls about in darkness, like a wild beast; he is a shameless eater, like a wild beast; he is an unfaithful keeper, like a wild beast; in these things he is like unto a wild beast.
 
-48 (153). ‘He sings, like a courtezan; he is intrusive, like a courtezan; he walks about the roads, like a courtezan; he is meagre, like a courtezan; he is poor, like a courtezan; in these things he is like unto a courtezan.
+48 (153). 'He sings, like a courtezan; he is intrusive, like a courtezan; he walks about the roads, like a courtezan; he is meagre, like a courtezan; he is poor, like a courtezan; in these things he is like unto a courtezan.
 
-‘He likes sleeping, like a child; he is apt to run away 3, like a child; he is full of tongue, like a child; he goes on all fours 4, like a child; in these things he is like unto a child.
-
+'He likes sleeping, like a child; he is apt to run away 3, like a child; he is full of tongue, like a child; he goes on all fours 4, like a child; in these things he is like unto a child.
+{{< /l >}}
 
 ## 9
 
-49 (163). ‘If those two dogs of mine, the shepherd's dog and the house dog, pass by the house of any of my faithful people, let them never be kept away from it.
+{{< l a="Ahura Mazda" >}}
+49 (163). 'If those two dogs of mine, the shepherd's dog and the house dog, pass by the house of any of my faithful people, let them never be kept away from it.
 
 'For no house could subsist on the earth made by Ahura, but for those two dogs of mine, the shepherd's dog and the house dog 5.'
-
+{{< /l >}}
 
 ## 10
 
-50 (166). O Maker of the material world, thou Holy One! When a dog dies, with marrow and seed 1 dried up, whereto does his ghost go?
+{{< r a="Zarathustra" >}}
+50 (166).  When a dog dies, with marrow and seed 1 dried up, whereto does his ghost go?
+{{< /r >}}
 
-51 (167). Ahura Mazda answered: ‘It passes to the spring of the waters 2, O Spitama Zarathustra! and there out of every thousand dogs and every thousand she-dogs, two water dogs are formed, a water dog and a water she-dog 3.
+
+{{< l a="Ahura Mazda" >}}
+51 (167). 'It passes to the spring of the waters 2, O Spitama Zarathustra! and there out of every thousand dogs and every thousand she-dogs, two water dogs are formed, a water dog and a water she-dog 3.
 
 52 (170). 'He who kills a water dog brings about a drought that dries up pastures. Before that time, O Spitama Zarathustra! sweetness and fatness would flow out from that land and from those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass.'
+{{< /l >}}
 
-53 (171). O Maker of the material world, thou Holy One! When are sweetness and fatness to come back again to that land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass?
+{{< r a="Zarathustra" >}}
+53 (171).  When are sweetness and fatness to come back again to that land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass?
+{{< /r >}}
 
-54, 55 (172). Ahura Mazda answered: ‘Sweetness and fatness will never come back again to that land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass, until the murderer of the water dog has been smitten to death and the holy soul of the dog has been offered up a sacrifice, for three days and 3 nights with fire blazing, with baresma tied up, and with Haoma uplifted 1.
+{{< l a="Ahura Mazda" >}}
+54, 55 (172). 'Sweetness and fatness will never come back again to that land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass, until the murderer of the water dog has been smitten to death and the holy soul of the dog has been offered up a sacrifice, for three days and three nights with fire blazing, with baresma tied up, and with Haoma uplifted 1.
 
 56 (174). ['Then sweetness and fatness will come back again to the land and to those fields, with health and healing, with fulness and increase and growth, and a growing of corn and grass 2.']
+{{< /l >}}
 
 
 

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9"
-title: Supply Problems
-description: Supply Problems
+title: Capital Problems
+description: Capital Problems are caused by Underspending or Overspending
 image: /photos/econ/stocks.jpg
 weight: 80
 ---

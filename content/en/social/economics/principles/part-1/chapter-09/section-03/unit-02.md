@@ -1,8 +1,8 @@
 ---
-heading: "Section 1"
+heading: "Unit 2"
 title: "Ponzi Scheme"
 # date: 2022-07-30
-weight: 3
+weight: 9
 image: /photos/people/ponzi.jpg
 description: "A Ponzi scheme is a type of investment scam that affects the Worker Class because of its attractive and easy appearances"
 icon: Juan

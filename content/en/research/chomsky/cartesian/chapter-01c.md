@@ -3,6 +3,7 @@ title: "Herder"
 weight: 8
 description: "Descartes argued that there must be a thinking substance"
 c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 

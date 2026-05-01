@@ -2,7 +2,8 @@
 title: "General Grammar"
 weight: 18
 description: "Within the framework of Cartesian linguistics, a descriptive grammar is concerned with both sound and meaning."
-c: "steelblue"
+c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 
@@ -211,10 +212,11 @@ to introspection and can be brought to consciousness, with care and attention.
 Despite these shortcomings, the insights into the organization of grammar that were achieved in Cartesian linguistics remain quite impressive, and a careful
 study of this work can hardly fail to prove rewarding to a linguist who approaches
 it without prejudice or preconceptions as to the a priori limitations on permitted
-linguistic investigation. Beyond these achievements, the universal grammarians
+linguistic investigation. 
+
+Beyond these achievements, the universal grammarians
 of the seventeenth and eighteenth centuries have made a contribution of lasting
 value by the very fact that they posed so clearly the problem of changing the
 orientation of linguistics from “natural history” to “natural philosophy” and by
 stressing the importance of the search for universal principles and for rational
 explanation of linguistic fact, if progress is to be made toward this goal.
-

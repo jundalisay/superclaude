@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "Gambling"
 date: 2024-11-20
 weight: 6

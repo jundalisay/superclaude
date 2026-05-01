@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 9b"
+heading: "Unit 2"
 title: "Pool Clearing and Clearing Funds"
 date: 2022-12-24
 # date: 2024-08-20
-weight: 46
+weight: 4
 image: /photos/econ/pool.jpg
 description: "Instead of world trade being done in an unregulated way, all in US dollars, each country joins the global pool"
 writer:

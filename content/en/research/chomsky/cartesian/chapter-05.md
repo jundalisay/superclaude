@@ -2,7 +2,8 @@
 title: "Summary"
 weight: 200
 description: "The creative aspect of language use is once again a central concern of linguistics."
-c: "steelblue"
+c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 

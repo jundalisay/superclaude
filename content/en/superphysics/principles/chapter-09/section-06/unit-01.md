@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 10"
+heading: "Unit 1"
 title: "The Personality Structure"
 date: 2020-12-15
-weight: 660
-image: /photos/psych/schizo.jpg
+weight: 6
+image: /photos/psych/face.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
   name: Juan

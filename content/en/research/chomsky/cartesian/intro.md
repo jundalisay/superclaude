@@ -2,7 +2,8 @@
 title: "Introduction"
 weight: 2
 description: "Descartes makes only scant reference to language in his writings"
-c: "steelblue"
+c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 

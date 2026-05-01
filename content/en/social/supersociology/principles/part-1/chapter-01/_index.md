@@ -1,5 +1,5 @@
 ---
-heading: "Part 1"
+heading: "Chapter 1"
 title: "Basic Principles"
 linkTitle: "Basics"
 # date2022-01-31
@@ -11,8 +11,8 @@ c: "steelblue"
 
 
 
-Topic | Worker | Warrior | Thinker | Trader
+<!-- Topic | Worker | Warrior | Thinker | Trader
 --- | --- | --- | --- | ---
 Qualities | Culture | Hierarchies | Religion | 
 Dept | Legislature | Executive | Judiciary | Resources
-Political Government | Democracy | Autocracy | Theocracy | Oligarchy  
+Political Government | Democracy | Autocracy | Theocracy | Oligarchy   -->

@@ -1,8 +1,8 @@
 ---
-heading: "Section 4"
-title: "Universal Basic Income and Microfinance are Wrong"
+heading: "Unit 2"
+title: "Universal Basic Income and Microfinance"
 date: 2017-04-26
-weight: 98
+weight: 5
 image: /photos/econ/ubi.jpg
 description: "Universal Basic Income and Microfinance both create more problems than they solve"
 writer:

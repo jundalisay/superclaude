@@ -1,10 +1,9 @@
 ---
 title: "Diogenes"
-# heading: "Enlightened Except with Animals"
-# linkTitle: Descartes
 date: 2025-08-21
 weight: 27
 description: ""
+icon: "Diogenes"
 c: "darkslategray"
 ---
 

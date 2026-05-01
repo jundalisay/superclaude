@@ -1,10 +1,10 @@
 ---
 heading: "Section 1"
-title: "The Thinker Class"
+title: "Solutions"
 date: 2022-01-11
-weight: 50
+weight: 5
 image: /photos/econ/writer.jpg
-description: "In the process of the evolution of a society, the thinking class emerges from the worker and warrior classes"
+description: ""
 draft: true
 writer:
   name: Juan

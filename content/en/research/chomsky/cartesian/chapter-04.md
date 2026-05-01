@@ -2,7 +2,8 @@
 title: "How Language is Acquired and Used"
 weight: 20
 description: "As a by-product of this study of langue, and against the background of rationalist theory of mind, certain views emerged as to how language is acquired and used."
-c: "steelblue"
+c: "firebrick"
+icon: "Noah Chomsky"
 ---
 
 

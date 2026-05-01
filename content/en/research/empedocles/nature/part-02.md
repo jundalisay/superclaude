@@ -4,6 +4,7 @@ description: "The ways of knowing lie scattered through their narrow members"
 c: "purple"
 weight: 6
 # date: 1939-08-02
+icon: "Empedocles"
 writer:
   name: Empedocles
   url: https://en.wikipedia.org/wiki/Empedocles

@@ -24,7 +24,7 @@ You could say that:
 - the 3rd milestone will keep the wheel turning
 
 
-## THe Last Milestone
+## The Last Milestone
 
 We can the last milestone as the "Anu Het" goal. 
 

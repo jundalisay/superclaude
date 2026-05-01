@@ -12,11 +12,17 @@ weight: 44
 
 
 
-<sup>1</sup> Zarathustra asked Ahura Mazda: 'O Ahura Mazda, Maker of the material world! He who smites one of those water dogs that are born one from a thousand dogs and a thousand she-dogs 4, so that he gives up the ghost and the soul parts from the body, what is the penalty that he shall pay?'
+{{< r a="Zarathustra" >}}
+<sup>1</sup> O Ahura Mazda, Maker of the material world! 
 
-2 (4). Ahura Mazda answered: ‘He shall pay 10,000 stripes with the Aspahê-astra, 10,000 stripes with the Sraoshô-karana 5.
+What is the penalty of a person who smites one of those water dogs that are born one from a thousand dogs and a thousand she-dogs so that he gives up the ghost and the soul parts from the body?
+{{< /r >}}
 
-‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of hard, well dried, well examined wood, as an atonement unto the soul (of the water dog).
+
+{{< l a="Ahura Mazda" >}}
+2 (4). He shall pay 10,000 stripes with the Aspahê-astra, 10,000 stripes with the Sraoshô-karana 
+
+5. ‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of hard, well dried, well examined wood, as an atonement unto the soul (of the water dog).
 
 3 (6). ‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of soft wood, of Urvâsna, Vohu-gaona, Vohu-kereti, Hadhâ-naêpata, or any sweet-scented plant, as an atonement unto the soul (of the water dog).
 
@@ -45,7 +51,11 @@ He shall offer up to the good waters 10,000 Zaothra libations with the Haoma and
 - a pair of round bellows extended at the bottom, contracted at the top
 - an adze with a sharp edge and a sharp-pointed handle
 - a saw with sharp teeth and a sharp-pointed handle, by means of which the worshippers of Mazda procure wood for the fire of Ahura Mazda.
+{{< /l >}}
 
+
+
+{{< l a="Ahura Mazda" >}}
 8 (26). ‘He shall godly and piously give to godly men a set of the priestly instruments of which the priests make use, as an atonement unto the soul (of the water dog), namely: 
 
 - The Astra
@@ -78,42 +88,75 @@ He shall offer up to the good waters 10,000 Zaothra libations with the Haoma and
 10 (41). ‘He shall godly and piously give to godly men a set of all the implements of which the husbandmen make use, as an atonement unto the soul (of the water dog), namely: A plough with share and yoke 1, an ox whip 2, a mortar of stone, a hand-mill for grinding corn,
 
 11 (48). 'A spade for digging and tilling; one measure of silver and one measure of gold.'
+{{< /l >}}
 
+
+{{< r a="Zarathustra" >}}
 O Holy One! How much silver?
+{{< /r >}}
 
-Ahura Mazda answered: 'The price of a stallion:'
+{{< l a="Ahura Mazda" >}}
+The price of a stallion.
+{{< /l >}}
 
+{{< r a="Zarathustra" >}}
 O Holy One! How much gold?
+{{< /r >}}
 
-Ahura Mazda answered: ‘The price of a camel.
 
+{{< l a="Ahura Mazda" >}}
+The price of a camel.
 
 <sup>12</sup> (54). 'He shall godly and piously procure a rill of running water for godly husbandmen, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
 
+
+{{< r a="Zarathustra" >}}
 O Holy One! How large is the rill?
+{{< /r >}}
 
-Ahura Mazda answered: ‘The depth of a dog, and the breadth of a dog.
+
+{{< l a="Ahura Mazda" >}}
+The depth of a dog, and the breadth of a dog.
 
 <sup>13</sup> (57). 'He shall godly and piously give a piece of arable land to godly men, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
 
+
+{{< r a="Zarathustra" >}}
 O Holy One! How large is the piece of land?
+{{< /r >}}
 
-Ahura Mazda answered: ‘As much as can be watered with such a rill on both sides.
+
+{{< l a="Ahura Mazda" >}}
+As much as can be watered with such a rill on both sides.
 
 14 (60). 'He shall godly and piously procure for godly men a house with ox-stalls, with 9 hâthras and 9 nematas, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
 
+
+{{< r a="Zarathustra" >}}
 O Holy One I How large is the house?
+{{< /r >}}
 
-Ahura Mazda answered: ‘Twelve Vîtâras 3 in the largest part of the house, nine Vîtâras in the middle part, six Vîtâras in the smallest part.
+
+{{< l a="Ahura Mazda" >}}
+Twelve Vîtâras 3 in the largest part of the house, nine Vîtâras in the middle part, six Vîtâras in the smallest part.
 
 ‘He shall godly and piously give to godly men godly beds with cushions, as an atonement unto the soul (of the water dog),
 
 15 (64). 'He shall godly and piously give to a godly man a virgin maid, whom no man has known, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
 
+
+{{< r a="Zarathustra" >}}
 O Holy One! What maid?
+{{< /r >}}
 
-Ahura Mazda answered: ‘A sister or a daughter of his, at the age of puberty, with ear-rings in her ears, and past her fifteenth year.
 
+{{< l a="Ahura Mazda" >}}
+A sister or a daughter of his, at the age of puberty, with ear-rings in her ears, and past her fifteenth year.
+  
 16 (67). ‘He shall godly and piously give to holy men twice seven head of small cattle, as an atonement unto the soul (of the water dog).
 
 ‘He shall bring up twice seven whelps.
@@ -129,3 +172,5 @@ Ahura Mazda answered: ‘A sister or a daughter of his, at the age of puberty, w
 18 (73). ‘This is the atonement, this is the penalty that he shall undergo to atone for the deed that he has done.
 
 'If he shall undergo it, he shall enter the world of the holy ones: if he shall not undergo it, he shall fall down into the world of the wicked, into that dark world, made of darkness, the offspring of darkness 1.'
+{{< /l >}}
+

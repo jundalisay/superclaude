@@ -3,12 +3,14 @@ title: "The Skyscraper Curse of Economics"
 heading: "Why the Kingdom Tower Will Not be Finished on Time"
 description: "We Predict the Kingdom Tower will not be finished on time because of a coming crisis"
 date: 2015-04-28
-image: /photos/city.jpg
+lastmod: 2026-05-01
+image: /graphics/econ/curse.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
+
 
 
 <!-- ADD CONDO SPECULATION -->
@@ -18,9 +20,16 @@ icon: "Supereconomics"
 A question was posed: "*Does this frenzy of building augur badly for the world economy?*", to which we answer "Yes, because of Economics".
 
 
-![Skyscraper curse](/skyscraper.jpg)
+![Skyscraper curse](/graphics/econ/curse.jpg)
 
-To explain why skyscraper booms are generally bad, we explain their nature using our Dialectical method, or by finding out the metaphysical causes to physical economic effects, as used by David Hume and Adam Smith.
+
+In Supereconomics, the curse is a violation of the Third Law of Value. 
+
+To explain it, we need to explain the natuare of skyscrapers and the real value of real estate.
+
+
+
+ <!-- why skyscraper booms are generally bad, we explain their nature using our Dialectical method, or by finding out the metaphysical causes to physical economic effects, as used by David Hume and Adam Smith. -->
 
 
 ## What is the basic nature of skyscrapers?
@@ -109,4 +118,3 @@ Nov 2019 | The Jeddah Tower is still delayed
 {{< youtube pdXP7iGnnLE >}}
 
 {{< /d >}}
-
