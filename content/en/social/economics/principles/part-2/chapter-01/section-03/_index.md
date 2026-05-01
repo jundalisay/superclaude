@@ -1,8 +1,9 @@
 ---
 heading: "Section 3"
 title: The Effort Theory of Value
-description: The Second Law of Value in Supereconomics
-image: /graphics/econ/law2.png
-weight: 4
+description: The Effort Theory of Value is the invisible hand of dharma
+image: /photos/bio/muscle.jpg
+weight: 8
 ---
+
 

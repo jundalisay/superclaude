@@ -150,8 +150,15 @@ Let us just say that there are two sorts of poetical minds -- one kind apt at in
 
 
 {{< r a="Simplicio" >}}
-I do not think that anyone believes fables when he knows them to be such; and as to the opinions about the cause of the tides (which are numerous), since I know that there is only one true and primary cause for one effect, I understand perfectly that at most one can be true, and all the rest must be false and fabulous. Perhaps the true one is not even among those which have been produced up to date. I rather believe this to be so, since it would be remarkable if the true cause should shed so little light as not to show through the darkness of so many false ones. But I must say, with that frankness which is permitted here among ourselves, that to introduce the motion of the earth and make it the cause of the tides seems to me thus far to be a concept no less fictitious than all the rest I have heard. If no reasons more agreeable to natural phenomena were presented to me, I should pass on unhesitatingly to the belief that the tide is a supernatural effect, and accordingly miraculous and inscrutable to the human mind -- as are so many others which depend directly upon the omnipotent hand of God.
+I do not think that anyone believes fables when he knows them to be such; and as to the opinions about the cause of the tides (which are numerous), since I know that there is only one true and primary cause for one effect, I understand perfectly that at most one can be true, and all the rest must be false and fabulous. Perhaps the true one is not even among those which have been produced up to date.
+
+I rather believe this to be so, since it would be remarkable if the true cause should shed so little light as not to show through the darkness of so many false ones. 
+
+But to introduce the motion of the earth and make it the cause of the tides seems to me thus far to be a concept no less fictitious than all the rest I have heard.
+
+If no reasons more agreeable to natural phenomena were presented to me, I should pass on unhesitatingly to the belief that the tide is a supernatural effect, and accordingly miraculous and inscrutable to the human mind -- as are so many others which depend directly upon the omnipotent hand of God.
 {{< /r >}}
+
 
 {{< l a="Salviati" >}}
 You argue very prudently, and also in agreement with Aristotle's doctrine.
@@ -164,7 +171,6 @@ For neither by the light of the moon or sun, nor by temperate heat, nor by diffe
 
 But if, by simply setting the vessel in motion, I can represent for you without any artifice at all precisely those changes which are perceived in the waters of the sea, why should you reject this cause and take refuge in miracles?
 {{< /l >}}
-
 
 
 {{< r a="Simplicio" >}}
@@ -189,13 +195,21 @@ Let us suspend judgment for a while as to the folly of the new opinion which Sal
 {{< l a="Salviati" >}}
 That is the way I feel about it, and saying that the natural cause of the tides is the motion of the earth does not exclude this operation from being miraculous.
 
-Now, returning to our discussion, I reply and reaffirm that it has never previously been known how the waters contained in our Mediterranean basin can make those movements which they are seen to make, so long as this basin and containing vessel rests motionless. What renders the matter puzzling is daily observed, as I am about to describe; therefore, listen carefully.
+I reaffirm that it has never previously been known how the waters contained in our Mediterranean basin can make those movements which they are seen to make, so long as this basin and containing vessel rests motionless. What renders the matter puzzling is daily observed, as I am about to describe; therefore, listen carefully.
 
-We are here in Venice, where the waters are now low; the sea is quiet, the air tranquil; the water is commencing to rise, and at the end of five or six hours it will have gone up ten spans or more. This rise is not made by the original water being rarefied, but by water newly arriving here -- water of the same kind as the original water, with the same salinity, the same density, the same weight. Ships float in it, Simplicio, without submerging a hair's-breadth further; a barrel of it weighs not a grain more or less than the same quantity of the other; it keeps the same coldness entirely unchanged; in short, it is water which has recently and visibly entered through the channels and mouths of the Lido.
+We are here in Venice, where the waters are now low; the sea is quiet, the air tranquil; the water is commencing to rise, and at the end of five or six hours it will have gone up ten spans or more. 
 
-Now you tell me how and whence it came here. Are there perchance hereabouts some abysses or openings in the bottom of the sea through which the earth draws in and expels the water, breathing like some immense and monstrous whale? If so, why does the water not rise likewise over a space of six hours at Ancona, Dubrovnik (Ragugia), and Corfu, where the increase is small or even imperceptible? Who will find a way to pour new water into an immovable vessel and have it rise only in one definite place and not in others?
+This rise is not made by the original water being rarefied, but by water newly arriving here -- water of the same kind as the original water, with the same salinity, the same density, the same weight.
 
-Do you perhaps say that this new water is borrowed from the ocean, carried in through the Straits of Gibraltar? This will not remove the difficulties mentioned; it will only make them greater. In the first place, tell me what must be the course of that water which, entering by the strait, is conducted in six hours clear to the extreme coast of the Mediterranean, a distance of tWo or three thousand miles, and retraces the same space on its retUrn? What would become of the ships scattered about on the sea? And what of those in the strait, on a continual watery precipice of immense bulk, entering through a channel no more than eight miles wide -- a channel which must in six hours give passage to enough water to inundate a space hundreds of miles wide and thousands long? Where is the tiger or falcon that ever ran or flew with such speed? A speed, I mean, of 400 miles an hour or better.
+Ships float in it, Simplicio, without submerging a hair's-breadth further; a barrel of it weighs not a grain more or less than the same quantity of the other; it keeps the same coldness entirely unchanged; in short, it is water which has recently and visibly entered through the channels and mouths of the Lido.
+
+Now you tell me how and whence it came here. 
+
+Are there perchance hereabouts some abysses or openings in the bottom of the sea through which the earth draws in and expels the water, breathing like some immense and monstrous whale? If so, why does the water not rise likewise over a space of six hours at Ancona, Dubrovnik (Ragugia), and Corfu, where the increase is small or even imperceptible? Who will find a way to pour new water into an immovable vessel and have it rise only in one definite place and not in others?
+
+Do you perhaps say that this new water is borrowed from the ocean, carried in through the Straits of Gibraltar? This will not remove the difficulties mentioned; it will only make them greater. In the first place, tell me what must be the course of that water which, entering by the strait, is conducted in 6 hours clear to the extreme coast of the Mediterranean, a distance of tWo or three thousand miles, and retraces the same space on its retUrn? What would become of the ships scattered about on the sea?
+
+What of those in the strait, on a continual watery precipice of immense bulk, entering through a channel no more than eight miles wide -- a channel which must in six hours give passage to enough water to inundate a space hundreds of miles wide and thousands long? Where is the tiger or falcon that ever ran or flew with such speed? A speed, I mean, of 400 miles an hour or better.
 {{< /l >}}
 
 
@@ -216,7 +230,9 @@ Two sorts of movement may be conferred upon a vessel so that the : water contain
 
 But since this rising and sinking is I nothing but a retreat from and an approach toward the center of the earth, this sort of movement cannot be attributed to concavities in the earth itself as containing vessels of the waters, For such containers could not have parts I able to approach toward or retreat from the center of the ~ terrestrial globe by any motion whatever that might be assigned to the latter.
 
-The other sort of motion would occur when the vessel was moved without being tilted, advancing not uniformly but with a changing velocity, being sometimes accelerated and sometimes retarded. From this variation it would follow that the water (being contained within the vessel but not firmly adhering to it as do its solid parts) would because of its fluidity be almost separate and free, and not compelled to follow all the changes of its container. Thus the vessel being retarded, the water would retain apart of the impetus already received, so that it would run toward the forward end, where it would necessarily rise. On the other hand, when the vessel was speeded up, the water would retain apart of its slowness and would fall somewhat behind while becoming accustomed to the new impetus, remaining toward the back end, where it would rise somewhat.
+The other sort of motion would occur when the vessel was moved without being tilted, advancing not uniformly but with a changing velocity, being sometimes accelerated and sometimes retarded. From this variation it would follow that the water (being contained within the vessel but not firmly adhering to it as do its solid parts) would because of its fluidity be almost separate and free, and not compelled to follow all the changes of its container.
+
+Thus the vessel being retarded, the water would retain apart of the impetus already received, so that it would run toward the forward end, where it would necessarily rise. On the other hand, when the vessel was speeded up, the water would retain apart of its slowness and would fall somewhat behind while becoming accustomed to the new impetus, remaining toward the back end, where it would rise somewhat.
 
 These effects can be very clearly explained and made evident to the senses by means of the example of those barges which are continually arriving from Fusina filled with water for the use of this city.
 
@@ -232,10 +248,11 @@ In such an event this might not only make all the water run forward, but cause m
 
 The third thing is that whereas the parts around the center make little change as to rising or sinking with respect to the water at the ends, yet they run to and fro a great deal in comparison with the water at the extremities.
 
-Now, gentlemen, what the barge does with regard to the water it contains, and what the water does with respect to the barge containing it, is precisely the same as what the Mediterranean basin does with regard to the water contained within it, and what the water contained does with respect to the Mediterranean basin, its container. The next thing is for us to prove that it is true, and in what manner it is true, that the Mediterranean and all other sea basins (in a word, that all parts of the earth) move with a conspicuously uneven motion, even though nothing but regular and uniform motions may happen to be assigned to the globe itself.
+What the barge does with regard to the water it contains, and what the water does with respect to the barge containing it, is precisely the same as what the Mediterranean basin does with regard to the water contained within it, and what the water contained does with respect to the Mediterranean basin, its container. The next thing is for us to prove that it is true, and in what manner it is true, that the Mediterranean and all other sea basins (in a word, that all parts of the earth) move with a conspicuously uneven motion, even though nothing but regular and uniform motions may happen to be assigned to the globe itself.
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
 At first sight this looks like a great paradox to me, though I am no mathematician or astronomer. If it is true that the motion of the whole maybe regular, and that of the parts which always remain attached to it may be irregular, then this is a paradox destroying the axiom which affirms tandem esse rationem totius et partium.
 {{< /r >}}
+

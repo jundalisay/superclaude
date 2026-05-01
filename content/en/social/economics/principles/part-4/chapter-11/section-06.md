@@ -5,7 +5,7 @@ linkTitle: Oligarchy
 # date: 2015-07-24
 date: 2025-01-02
 weight: 80
-image: /photos/city.jpg
+image: /photos/econ/monopoly.jpg
 description: "In Socrates' Law of Social Cycles, the Oligarchy follows after the Aristocratic cycle. "
 writer:
   name: Juan

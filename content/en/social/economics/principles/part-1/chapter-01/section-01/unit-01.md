@@ -1,12 +1,12 @@
 ---
 heading: "Unit 1"
-title: "The First Law of Value: Effective Demand"
-# linkTitle: "Effective Demand"
+title: "The 1st Law of Value: Nominal Price and Effective Demand"
+linkTitle: "Effective Demand"
 weight: 6
 # date: 2022-03-27
 date: 2026-01-20
 lastmod: 2026-04-30
-image: /photos/econ/barter.jpg
+image: /graphics/econ/law1.jpg
 description: "Exchangeable value is based on relational desire."
 writer:
   name: Juan

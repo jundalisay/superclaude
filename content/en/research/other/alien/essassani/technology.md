@@ -1,5 +1,5 @@
 ---
-title: "Technology"
+title: "Sassani Technology"
 weight: 410
 image: "/photos/psych/mirror.jpg"
 # description: "Here are 2 Quick Techniques for Manifesting your Preferred Reality"
@@ -37,3 +37,32 @@ Then infuse the powder form of the other elements.
 
 Argon will inject itself into the mix while cooling into the silicon.
 
+
+
+## Sassani Motherships (Elan)
+
+Sassani Motherships are cylindrical 1-10 miles long and hundreds of feet wide.
+
+Elan's ship 1 mile (1,609 meters) long and 600 feet (183 meters) wide. 
+
+They are a tube within a tube within a tube.
+
+The outer tube is for the artificial enviroments for vistors.
+
+The scout craft are outside attached to the mothership. 
+
+There can be tens of thousands Sassani in the largest motherships. 
+
+Length depends on:
+- the region being explored. 
+- the Sassani to be transported 
+
+
+Mothercraft are:
+- to explore distant regions 
+- to transport smaller craft
+
+Sassani have a population of 250m
+- 2/3 are on their craft
+
+Triangle shape is for smaller craft and is designed for stability for interdimensional travel.

@@ -1,12 +1,12 @@
 ---
-heading: "Chapter 11c"
+heading: "Section 4"
 title: "Neoclassical Macroeconomics"
 # How Profit Maximization Disrupted The Natural Balance of Economies"
 # date: 2022-03-27
 date: 2021-12-17
 weight: 68
 # date: 2022-08-08
-image: /photos/buy.jpg
+image: /photos/people/keynes.jpg
 description: "The industrial revolution in Europe allowed mass production which then allowed huge profits for those who invested in them."
 writer:
   name: Juan

@@ -1,10 +1,10 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "Real Price"
 date: 2015-10-30
 weight: 6
 image: "/photos/econ/prices.jpg"
-description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
+description: ""
 icon: "Supereconomics"
 writer:
   name: Juan

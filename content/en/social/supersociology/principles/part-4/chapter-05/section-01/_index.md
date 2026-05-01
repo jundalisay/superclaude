@@ -1,8 +1,8 @@
 ---
-heading: Section 1
-title: "The Judicial Branch"
+heading: Chapter 5
+title: "Thinking Institutions"
 date: 2024-11-21
-weight: 4
+weight: 12
 image: "/photos/objects/gavel.jpg"
 description: "The Judicial Branch Represents the Thinkers"
 writer:
@@ -10,7 +10,3 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Social Superphysics"
 ---
-
-
-The Judicial Branch Represents the Thinkers.
-

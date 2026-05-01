@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "The Second Law of Value"
 # date: 2022-01-03
 # date: 2022-01-31
@@ -96,5 +96,3 @@ The resulting concepts from the Second Law of Value are:
 - Primary arbitrage
 - Wholesale
 - The Philosopher class or cycle
-
-

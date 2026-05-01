@@ -3,7 +3,7 @@ heading: The Einstein Scam Part 3
 title: "The Fallacy of Superluminal Motion"
 weight: 4
 # date: 2025-10-16
-image: /photos/physics/messier87.jpg
+image: /photos/physics/scam.jpg
 description: "The universe is ageless since the Big Bang is false"
 writer:
   name: Juan
@@ -58,6 +58,7 @@ Evidence from quasars, pulsars, and nova shows that light travels faster than c.
 
 
 
+![Scam](/photos/physics/scam.jpg)
 
 
  <!-- fact that only white people win their contest becomes proof that only white people are beautiful. -->

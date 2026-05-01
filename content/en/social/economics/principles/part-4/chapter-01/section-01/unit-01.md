@@ -1,6 +1,6 @@
 ---
-heading: "Section 1"
-title: "The Fourth Law of Value"
+heading: "Unit 1"
+title: "The 4th Law of Value Market Price and Competition"
 date: 2021-12-31
 # date: 2022-01-03
 dateorig: Originally written in 2016
@@ -9,8 +9,8 @@ description: "The Fourth Law of Value states that value is circulated through th
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
-weight: 13
+icon: "Juan"
+weight: 5
 toc: false
 aliases:
   /social/economics/principles/part-4/chapter-01/unit-02/

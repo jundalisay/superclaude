@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 2"
 title: "The 4 Main Schools of Post-Smith Economics"
 date: 2015-01-01
 weight: 18

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 8"
-title: Supply Efficiency
-description: The Second Law of Value in Supereconomics
+title: "Ratios: Supply Efficiency"
+description: Capital and Supply Ratios
 image: /photos/econ/pool.jpg
 weight: 38
 ---

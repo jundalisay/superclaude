@@ -3,7 +3,7 @@ heading: "Unit 2"
 title: "Ways to Get the NDP"
 date: 2020-12-14
 weight: 16
-image: /photos/grains.jpg
+image: /photos/econ/bigmac.jpg
 description : "Supereconomics uses 2 measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
 writer:
   name: Juan
@@ -13,6 +13,7 @@ icon: "Juan"
 
 
 
+The previous unit explained that the NDP allows people to compare societies more fairly, just like how the Big Mac Index compares cost. 
 
 There are 2 ways to get the NDP, just as there are 2 ways to get the GDP:
 

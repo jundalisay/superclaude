@@ -41,6 +41,9 @@ In this way, the person in `A1` who hears a thunder in `B2` will know its locati
 
 This method does away with the use of light as the measuring rod, and so it can throw away `c` and `lambda` while still being within the nature of the universe. 
 
+
+![Scam](/photos/physics/scam.jpg)
+
 <!-- In Western philosophy, the obsession with light comes from Aristotle who put sight as the supreme sense. This is opposite of the sightless observations proposed by Pythagoras and Socrates (as well as Hinduism, Buddhism, and Taoism) which we are advancing. -->
 
 <!-- It would be like removing the training wheels of a kid's bicycle so that the bicycle can run faster. 

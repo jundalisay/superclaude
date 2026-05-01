@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "NDP: The Alternative to GDP"
 # /part-3/7d
 date: 2020-12-14
@@ -246,7 +246,7 @@ To simplify this system, we will use a platform called [Pantrypoints](https://pa
 
 Machine learning will then plot and project economic growth to help policymakers decide how to shape the economy.  
 
-{{< img cap="The Big Mac index  has some of the basic ideas of Smith's commodity-based valuation system, explained in the Digression, as it uses a real, useful thing to valuate a mere piece of paper with a number written on it" alt="Big Mac Index" src="https://socioecons.files.wordpress.com/2017/01/072415bigmac550.png" >}}
+{{< img cap="The Big Mac index  has some of the basic ideas of Smith's commodity-based valuation system, explained in the Digression, as it uses a real, useful thing to valuate a mere piece of paper with a number written on it" alt="Big Mac Index" src="/graphics/econ/bigmac.jpg" >}}
 
 
 

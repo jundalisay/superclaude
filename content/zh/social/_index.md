@@ -1,6 +1,8 @@
 ---
 title: Social Superphysics
-description: "In Vedic Philsophy, the soul (atman) is part of the oversoul (paramatman). We use this to explain how a society is a soul-orgnism made up of individual souls as its citizens or people. Social Superphysics is divided into Supersociology (Non-Economic Social Superphysics) based on Socrates and Ibn Khaldun, and Supereconomics (Economic Superphysics) based on Socrates and Adam Smith."
+description: "社会超物理学分为两个分支：超社会学（非经济类社会超物理学），以苏格拉底和伊本·赫勒敦为理论基础；以及超经济学（经济超物理学），以苏格拉底和亚当·斯密为理论基础"
 c: "seagreen"
 youtube: Xw6tWGAIe04
 ---
+
+
