@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 18"
-title: "DHARMA CAKRA"
-weight: 8
+title: "Dharma Cakra"
+weight: 48
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
@@ -25,9 +25,7 @@ Cakra‑Cakra'ntara Japa, which you call Cakra Shodhana, is also Japa based on D
 
 
 
-
-
-CH 19 ‑ IMPORTANT INSTRUCTIONS:
+## Chapter 19 ‑ IMPORTANT INSTRUCTIONS:
 
 1. If there is some difficulty in deciding the Cakra for Iishvara Pran'idha'na or Pra'n'a'ya'ma, A'jina' Cakra can be easily allotted.
 

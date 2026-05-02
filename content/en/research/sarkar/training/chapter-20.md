@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 21"
+heading: "Chapter 20"
 title: "Mudra"
-weight: 8
+weight: 52
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"

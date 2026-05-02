@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 2x"
+heading: "Chapter 21"
 title: "Asana"
-weight: 8
+weight: 54
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
@@ -135,3 +135,5 @@ This A'sana affects the pancreas by reverting its normal position and as a resul
 1. Matsya Mudra' and Jina'na'sana are best for developing memory. 
 
 2. Generally, do not sit for Dhya'na and other subtler processes of your Sa'dhana', just after doing A'sanas, either take some rest after you have done the A'sanas or do them after Dhya'na. 
+
+

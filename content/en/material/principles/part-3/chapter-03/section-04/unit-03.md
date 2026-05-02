@@ -2,11 +2,12 @@
 heading: "Unit 3"
 title: "Spin"
 date: 2024-12-29
-weight: 8
-image: /graphics/physics/vphoton.jpg
+weight: 12
+image: /graphics/physics/whitehole.jpg
 description: "The Source of All Movement is Internal configuration, powered Externally"
 icon: "Juan"
 ---
+
 
 
 The virtual photons transfer their spinning or corkscrewing energy to the channels that they pass through. 

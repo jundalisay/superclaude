@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 14"
 title: "Shuddhis"
-weight: 21
+weight: 36
 c: "indigo"
 description: ""
 icon: "PR Sarkar"

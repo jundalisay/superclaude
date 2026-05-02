@@ -75,17 +75,22 @@ This is seen in either extremely Negative experiences that lead to trauma, or Po
 
 {{< i s="/photos/psych/schizo.jpg" a="Mental Issue" >}}
 
+The alien Sassani species no longer uses physical memory. Instead, their minds flow directly to the information within the aether (i.e. akashic records). This is why we regard memory as the crudest of the 3 actions of the feeling-mind:
+
+{{< youtube 6vOo4r8fASs >}}
+
 
 
 ## The 4 Operations of Feeling
 
-Chapter 8b explained the 4 operations of thinking-mind based on David Hume’s Relations which we distilled into 4. We use the same 4 for the feeling-mind.
+Chapter 8 explained the 4 operations of thinking-mind based on David Hume’s Relations which we distilled into 4. We use the same 4 for the feeling-mind.
 
-1. Identity
+
+### 1. Identity
 
 This is Property 1 of waves as commonality. This packages our feelings into emotions as explained in the previous section.
 
-2. Resemblance
+### 2. Resemblance
 
 This is Property 2 of waves as frequency or vibration. This is the affinity or discord between ideas to those in the personality.
 
@@ -101,12 +106,12 @@ This also leads to the variations between the different feelings such as:
 
 {{< i s="/photos/psych/friend.jpg" a="Friend" >}}
 
+### 3. Quantity and Quality
 
-3. Quantity and Quality
+This is Property 3 as strength or balance. This manifests as the ego which has a configuration called a personality. This actually processes feelings according to our beliefs.
 
-This is Property 3 as strength. This manifests as the ego which has a configuration called a personality. This actually processes feelings according to our beliefs.
 
-4. Space and Time
+### 4. Space and Time
 
 This is Property 4 as spread. This makes the feelings connect to other feeling-entities automatically. This connects to the 1st Action as Commonality.
 

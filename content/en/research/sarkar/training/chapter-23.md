@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 23"
 title: "Pratyahara"
-weight: 8
+weight: 58
 c: "indigo"
 description: "Every entity, which has a mind, has a basic psychology and is always propelled by these fundamentals of basic psychology. "
 icon: "PR Sarkar"

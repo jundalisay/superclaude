@@ -8,43 +8,105 @@ weight: 70
 ---
 
 
-“You are strong enough now to travel. I will accompany you to Kashmir,” Sri Yukteswar informed me two days after my miraculous recovery from Asiatic cholera.
+Sri Yukteswar told me 2 days after my miraculous recovery from Asiatic cholera:
 
-That evening our party of six entrained for the north. Our first leisurely stop was at Simla, a queenly city resting on the throne of Himalayan hills. We strolled over the steep streets, admiring the magnificent views.
 
-“English strawberries for sale,” cried an old woman, squatting in a picturesque open market place.
+{{< r a="Sri Yukteswar" >}}
+You are strong enough now to travel. I will accompany you to Kashmir.
+{{< /r >}}
+
+
+That evening, our party of six entrained for the north. 
+
+Our first leisurely stop was at Simla, a queenly city resting on the throne of Himalayan hills. We strolled over the steep streets, admiring the magnificent views.
+
+{{< r a="Old Woman" >}}
+English strawberries for sale!
+{{< /r >}}
+
 
 Master was curious about the strange little red fruits. He bought a basketful and offered it to Kanai and myself, who were near-by. I tasted one berry but spat it hastily on the ground.
 
-“Sir, what a sour fruit! I could never like strawberries!”
 
-My guru laughed. “Oh, you will like them-in America. At a dinner there, your hostess will serve them with sugar and cream. After she has mashed the berries with a fork, you will taste them and say: ‘What delicious strawberries!’ Then you will remember this day in Simla.”
+{{< l a="Yogananda" >}}
+Sir, what a sour fruit! I could never like strawberries!
+{{< /l >}}
 
-Sri Yukteswar’s forecast vanished from my mind, but reappeared there many years later, shortly after my arrival in America. I was a dinner guest at the home of Mrs. Alice T. Hasey (Sister Yogmata) in West Somerville, Massachusetts. When a dessert of strawberries was put on the table, my hostess picked up her fork and mashed my berries, adding cream and sugar. “The fruit is rather tart; I think you will like it fixed this way,” she remarked.
 
-I took a mouthful. “What delicious strawberries!” I exclaimed. At once my guru’s prediction in Simla emerged from the fathomless cave of memory. It was staggering to realize that long ago Sri Yukteswar’s God-tuned mind had sensitively detected the program of karmic events wandering in the ether of futurity.
+My guru laughed.
+
+
+{{< r a="Sri Yukteswar" >}}
+Oh, you will like them-in America. At a dinner there, your hostess will serve them with sugar and cream. After she has mashed the berries with a fork, you will taste them and say: ‘What delicious strawberries!’ Then you will remember this day in Simla.
+{{< /r >}}
+
+
+Sri Yukteswar’s forecast vanished from my mind, but reappeared there many years later, shortly after my arrival in America.
+
+I was a dinner guest at the home of Mrs. Alice T. Hasey (Sister Yogmata) in West Somerville, Massachusetts. When a dessert of strawberries was put on the table, my hostess picked up her fork and mashed my berries, adding cream and sugar. 
+
+
+{{< r a="Alice Hasey" >}}
+The fruit is rather tart; I think you will like it fixed this way.
+{{< /r >}}
+
+{{< l a="Yogananda" >}}
+What delicious strawberries!
+{{< /l >}}
+
 
 Our party soon left Simla and entrained for Rawalpindi. There we hired a large landau, drawn by two horses, in which we started a seven-day trip to Srinagar, capital city of Kashmir. The second day of our northbound journey brought into view the true Himalayan vastness. As the iron wheels of our carriage creaked along the hot, stony roads, we were enraptured with changing vistas of mountainous grandeur.
 
-“Sir,” Auddy said to Master, “I am greatly enjoying these glorious scenes in your holy company.”
 
-I felt a throb of pleasure at Auddy’s appreciation, for I was acting as host on this trip. Sri Yukteswar caught my thought; he turned to me and whispered:
+{{< r a="Auddy" >}}
+Sir, I am greatly enjoying these glorious scenes in your holy company.
+{{< /r >}}
 
-“Don’t flatter yourself; Auddy is not nearly as entranced with the scenery as he is with the prospect of leaving us long enough to have a cigaret.”
+I felt a throb of pleasure at Auddy's appreciation, for I was acting as host on this trip. Sri Yukteswar caught my thought; he turned to me and whispered:
 
-I was shocked. “Sir,” I said in an undertone, “please do not break our harmony by these unpleasant words. I can hardly believe that Auddy is hankering for a smoke.” 21-1 I looked apprehensively at my usually irrepressible guru.
 
-“Very well; I won’t say anything to Auddy.” Master chuckled. “But you will soon see, when the landau halts, that Auddy is quick to seize his opportunity.”
+{{< r a="Sri Yukteswar" >}}
+Don't flatter yourself; Auddy is not nearly as entranced with the scenery as he is with the prospect of leaving us long enough to have a cigaret.
+{{< /r >}}
 
-The carriage arrived at a small caravanserai. As our horses were led to be watered, Auddy inquired, “Sir, do you mind if I ride awhile with the driver? I would like to get a little outside air.”
+{{< l a="Yogananda" >}}
+Sir, please do not break our harmony by these unpleasant words. I can hardly believe that Auddy is hankering for a smoke.
+{{< /l >}}
 
-Sri Yukteswar gave permission, but remarked to me, “He wants fresh smoke and not fresh air.”
+{{< r a="Sri Yukteswar" >}}
+Very well; I won't say anything to Auddy. But you will soon see, when the landau halts, that Auddy is quick to seize his opportunity.
+{{< /r >}}
 
-The landau resumed its noisy progress over the dusty roads. Master’s eyes were twinkling; he instructed me, “Crane up your neck through the carriage door and see what Auddy is doing with the air.”
+
+The carriage arrived at a small caravanserai. As our horses were led to be watered, Auddy inquired:
+
+
+{{< r a="Auddy" >}}
+Sir, do you mind if I ride awhile with the driver? I would like to get a little outside air.
+{{< /r >}}
+
+
+Sri Yukteswar gave permission, but remarked to me:
+
+
+{{< r a="Sri Yukteswar" >}}
+He wants fresh smoke and not fresh air.
+{{< /r >}}
+
+
+The landau resumed its noisy progress over the dusty roads. Master's eyes were twinkling; he instructed me:
+
+{{< r a="Sri Yukteswar" >}}
+Crane up your neck through the carriage door and see what Auddy is doing with the air.
+{{< /r >}}
 
 I obeyed, and was astounded to observe Auddy in the act of exhaling rings of cigaret smoke. My glance toward Sri Yukteswar was apologetic.
 
-“You are right, as always, sir. Auddy is enjoying a puff along with a panorama.” I surmised that my friend had received a gift from the cab driver; I knew Auddy had not carried any cigarets from Calcutta.
+{{< l a="Yogananda" >}}
+You are right, as always, sir. Auddy is enjoying a puff along with a panorama.
+{{< /l >}}
+
+I surmised that my friend had received a gift from the cab driver; I knew Auddy had not carried any cigarets from Calcutta.
 
 We continued on the labyrinthine way, adorned by views of rivers, valleys, precipitous crags, and multitudinous mountain tiers. Every night we stopped at rustic inns, and prepared our own food. Sri Yukteswar took special care of my diet, insisting that I have lime juice at all meals. I was still weak, but daily improving, though the rattling carriage was strictly designed for discomfort.
 
@@ -58,15 +120,19 @@ Our strenuous race was rewarded by a breath-taking view. For the first time in t
 
 I rolled merrily with my young companions, all wearing overcoats, on the sparkling white slopes. On our downward trip we saw afar a vast carpet of yellow flowers, wholly transfiguring the bleak hills.
 
-Our next excursions were to the famous royal “pleasure gardens” of the Emperor Jehangir, at Shalimar and Nishat Bagh. The ancient palace at Nishat Bagh is built directly over a natural waterfall. Rushing down from the mountains, the torrent has been regulated through ingenious contrivances to flow over colorful terraces and to gush into fountains amidst the dazzling flower-beds. The stream also enters several of the palace rooms, ultimately dropping fairy like into the lake below. The immense gardens are riotous with color- roses of a dozen hues, snapdragons, lavender, pansies, poppies. An emerald enclosing outline is given by symmetrical rows of chinars , 21-2 cypresses, cherry trees; beyond them tower the white austerities of the Himalayas.
+Our next excursions were to the famous royal “pleasure gardens” of the Emperor Jehangir, at Shalimar and Nishat Bagh. The ancient palace at Nishat Bagh is built directly over a natural waterfall. Rushing down from the mountains, the torrent has been regulated through ingenious contrivances to flow over colorful terraces and to gush into fountains amidst the dazzling flower-beds. The stream also enters several of the palace rooms, ultimately dropping fairy like into the lake below. The immense gardens are riotous with color — roses of a dozen hues, snapdragons, lavender, pansies, poppies. An emerald enclosing outline is given by symmetrical rows of chinars, cypresses, cherry trees; beyond them tower the white austerities of the Himalayas.
 
 Kashmir grapes are considered a rare delicacy in Calcutta. Rajendra, who had been promising himself a veritable feast on reaching Kashmir, was disappointed to find there no large vineyards. Now and then I chaffed him jocosely over his baseless anticipation.
 
-“Oh, I have become so much gorged with grapes I can’t walk!” I would say. “The invisible grapes are brewing within me!” Later I heard that sweet grapes grow abundantly in Kabul, west of Kashmir. We consoled ourselves with ice cream made of rabri , a heavily condensed milk, and flavored with whole pistachio nuts.
+{{< l a="Yogananda" >}}
+Oh, I have become so much gorged with grapes I can’t walk! The invisible grapes are brewing within me!
+{{< /l >}}
 
-We took several trips in the shikaras or houseboats, shaded by red- embroidered canopies, coursing along the intricate channels of Dal Lake, a network of canals like a watery spider web. Here the numerous floating gardens, crudely improvised with logs and earth, strike one with amazement, so incongruous is the first sight of vegetables and melons growing in the midst of vast waters. Occasionally one sees a peasant, disdaining to be “rooted to the soil,” towing his square plot of “land” to a new location in the many-fingered lake.
+Later I heard that sweet grapes grow abundantly in Kabul, west of Kashmir. We consoled ourselves with ice cream made of rabri, a heavily condensed milk, and flavored with whole pistachio nuts.
 
-In this storied vale one finds an epitome of all the earth’s beauties. The Lady of Kashmir is mountain-crowned, lake-garlanded, and flower- shod. In later years, after I had toured many distant lands, I understood why Kashmir is often called the world’s most scenic spot. It possesses some of the charms of the Swiss Alps, and of Loch Lomond in Scotland, and of the exquisite English lakes. An American traveler in Kashmir finds much to remind him of the rugged grandeur of Alaska and of Pikes Peak near Denver.
+We took several trips in the shikaras or houseboats, shaded by red-embroidered canopies, coursing along the intricate channels of Dal Lake, a network of canals like a watery spider web. Here the numerous floating gardens, crudely improvised with logs and earth, strike one with amazement, so incongruous is the first sight of vegetables and melons growing in the midst of vast waters. Occasionally one sees a peasant, disdaining to be “rooted to the soil,” towing his square plot of “land” to a new location in the many-fingered lake.
+
+In this storied vale one finds an epitome of all the earth’s beauties. The Lady of Kashmir is mountain-crowned, lake-garlanded, and flower-shod. In later years, after I had toured many distant lands, I understood why Kashmir is often called the world’s most scenic spot. It possesses some of the charms of the Swiss Alps, and of Loch Lomond in Scotland, and of the exquisite English lakes. An American traveler in Kashmir finds much to remind him of the rugged grandeur of Alaska and of Pikes Peak near Denver.
 
 As entries in a scenic beauty contest, I offer for first prize either the gorgeous view of Xochimilco in Mexico, where mountains, skies, and poplars reflect themselves in myriad lanes of water amidst the playful fish, or the jewel-like lakes of Kashmir, guarded like beautiful maidens by the stern surveillance of the Himalayas. These two places stand out in my memory as the loveliest spots on earth.
 
@@ -78,23 +144,35 @@ Most of the Hindus of Kashmir, world-famed for their beauty, are as white as Eur
 
 After spending happy weeks in Kashmir, I was forced to return to Bengal for the fall term of Serampore College. Sri Yukteswar remained in Srinagar, with Kanai and Auddy. Before I departed, Master hinted that his body would be subject to suffering in Kashmir.
 
-“Sir, you look a picture of health,” I protested.
+{{< l a="Yogananda" >}}
+Sir, you look a picture of health.
+{{< /l >}}
 
-“There is a chance that I may even leave this earth.”
+{{< r a="Sri Yukteswar" >}}
+There is a chance that I may even leave this earth.
+{{< /r >}}
 
-“Guruji!” I fell at his feet with an imploring gesture. “Please promise that you won’t leave your body now. I am utterly unprepared to carry on without you.”
+{{< l a="Yogananda" >}}
+Guruji! Please promise that you won’t leave your body now. I am utterly unprepared to carry on without you.
+{{< /l >}}
 
 Sri Yukteswar was silent, but smiled at me so compassionately that I felt reassured. Reluctantly I left him.
 
 “Master dangerously ill.” This telegram from Auddy reached me shortly after my return to Serampore.
 
-“Sir,” I wired my guru frantically, “I asked for your promise not to leave me. Please keep your body; otherwise, I also shall die.”
+{{< l a="Yogananda" >}}
+Sir, I asked for your promise not to leave me. Please keep your body; otherwise, I also shall die.
+{{< /l >}}
 
 “Be it as you wish.” This was Sri Yukteswar’s reply from Kashmir.
 
 A letter from Auddy arrived in a few days, informing me that Master had recovered. On his return to Serampore during the next fortnight, I was grieved to find my guru’s body reduced to half its usual weight.
 
-Fortunately for his disciples, Sri Yukteswar burned many of their sins in the fire of his severe fever in Kashmir. The metaphysical method of physical transfer of disease is known to highly advanced yogis. A strong man can assist a weaker one by helping to carry his heavy load; a spiritual superman is able to minimize his disciples’ physical or mental burdens by sharing the karma of their past actions. Just as a rich man loses some money when he pays off a large debt for his prodigal son, who is thus saved from dire consequences of his own folly, so a master willingly sacrifices a portion of his bodily wealth to lighten the misery of disciples. 21-3
+Fortunately for his disciples, Sri Yukteswar burned many of their sins in the fire of his severe fever in Kashmir. The metaphysical method of physical transfer of disease is known to highly advanced yogis. 
+
+A strong man can assist a weaker one by helping to carry his heavy load; a spiritual superman is able to minimize his disciples’ physical or mental burdens by sharing the karma of their past actions. 
+
+Just as a rich man loses some money when he pays off a large debt for his prodigal son, who is thus saved from dire consequences of his own folly, so a master willingly sacrifices a portion of his bodily wealth to lighten the misery of disciples.
 
 By a secret method, the yogi unites his mind and astral vehicle with those of a suffering individual; the disease is conveyed, wholly or in part, to the saint’s body. Having harvested God on the physical field, a master no longer cares what happens to that material form. Though he may allow it to register a certain disease in order to relieve others, his mind is never affected; he considers himself fortunate in being able to render such aid.
 
@@ -102,33 +180,49 @@ The devotee who has achieved final salvation in the Lord finds that his body has
 
 The spiritual law does not require a master to become ill whenever he heals another person. Healings ordinarily take place through the saint’s knowledge of various methods of instantaneous cure in which no hurt to the spiritual healer is involved. On rare occasions, however, a master who wishes to greatly quicken his disciples’ evolution may then voluntarily work out on his own body a large measure of their undesirable karma.
 
-Jesus signified himself as a ransom for the sins of many. With his divine powers, 21-4 his body could never have been subjected to death by crucifixion if he had not willingly cooperated with the subtle cosmic law of cause and effect. He thus took on himself the consequences of others’ karma, especially that of his disciples. In this manner they were highly purified and made fit to receive the omnipresent consciousness which later descended on them.
+Jesus signified himself as a ransom for the sins of many. With his divine powers, his body could never have been subjected to death by crucifixion if he had not willingly cooperated with the subtle cosmic law of cause and effect. He thus took on himself the consequences of others’ karma, especially that of his disciples. In this manner they were highly purified and made fit to receive the omnipresent consciousness which later descended on them.
 
-Only a self-realized master can transfer his life force, or convey into his own body the diseases of others. An ordinary man cannot employ this yogic method of cure, nor is it desirable that he should do so; for an unsound physical instrument is a hindrance to God- meditation. The Hindu scriptures teach that the first duty of man is to keep his body in good condition; otherwise his mind is unable to remain fixed in devotional concentration.
+Only a self-realized master can transfer his life force, or convey into his own body the diseases of others. An ordinary man cannot employ this yogic method of cure, nor is it desirable that he should do so; for an unsound physical instrument is a hindrance to God-meditation. The Hindu scriptures teach that the first duty of man is to keep his body in good condition; otherwise his mind is unable to remain fixed in devotional concentration.
 
 A very strong mind, however, can transcend all physical difficulties and attain to God-realization. Many saints have ignored illness and succeeded in their divine quest. St. Francis of Assisi, severely afflicted with ailments, healed others and even raised the dead.
 
-I knew an Indian saint, half of whose body was once festering with sores. His diabetic condition was so acute that under ordinary conditions he could not sit still at one time for more than fifteen minutes. But his spiritual aspiration was undeterrable. “Lord,” he prayed, “wilt Thou come into my broken temple?” With ceaseless command of will, the saint gradually became able to sit daily in the lotus posture for eighteen continuous hours, engrossed in the ecstatic trance.
+I knew an Indian saint, half of whose body was once festering with sores. His diabetic condition was so acute that under ordinary conditions he could not sit still at one time for more than fifteen minutes. But his spiritual aspiration was undeterrable.
 
-“And,” he told me, “at the end of three years, I found the Infinite Light blazing within my shattered form. Rejoicing in the joyful splendour, I forgot the body. Later I saw that it had become whole through the Divine Mercy.”
+{{< r a="Indian saint" >}}
+Lord, wilt Thou come into my broken temple?
+{{< /r >}}
+
+With ceaseless command of will, the saint gradually became able to sit daily in the lotus posture for eighteen continuous hours, engrossed in the ecstatic trance.
+
+{{< r a="Indian saint" >}}
+And at the end of three years, I found the Infinite Light blazing within my shattered form. Rejoicing in the joyful splendour, I forgot the body. Later I saw that it had become whole through the Divine Mercy.
+{{< /r >}}
 
 A historical healing incident concerns King Baber (1483-1530), founder of the Mogul empire in India. His son, Prince Humayun, was mortally ill. The father prayed with anguished determination that he receive the sickness, and that his son be spared. After all physicians had given up hope, Humayun recovered. Baber immediately fell sick and died of the same disease which had stricken his son. Humayun succeeded Baber as Emperor of Hindustan.
 
 Many people imagine that every spiritual master has, or should have, the health and strength of a Sandow. The assumption is unfounded. A sickly body does not indicate that a guru is not in touch with divine powers, any more than lifelong health necessarily indicates an inner illumination. The condition of the physical body, in other words, cannot rightfully be made a test of a master. His distinguishing qualifications must be sought in his own domain, the spiritual.
 
-Numerous bewildered seekers in the West erroneously think that an eloquent speaker or writer on metaphysics must be a master. The rishis, however, have pointed out that the acid test of a master is a man’s ability to enter at will the breathless state, and to maintain the unbroken samadhi of nirbikalpa . 21-5 Only by these achievements can a human being prove that he has “mastered” maya or the dualistic Cosmic Delusion. He alone can say from the depths of realization: “Ekam sat ,”-“Only One exists.”
+Numerous bewildered seekers in the West erroneously think that an eloquent speaker or writer on metaphysics must be a master. The rishis, however, have pointed out that the acid test of a master is a man’s ability to enter at will the breathless state, and to maintain the unbroken samadhi of nirbikalpa. Only by these achievements can a human being prove that he has “mastered” maya or the dualistic Cosmic Delusion. He alone can say from the depths of realization:
 
-“The Vedas declare that the ignorant man who rests content with making the slightest distinction between the individual soul and the Supreme Self is exposed to danger,” Shankara the great monist has written. “Where there is duality by virtue of ignorance, one sees all things as distinct from the Self. When everything is seen as the Self, then there is not even an atom other than the Self. . . .
-
-“As soon as the knowledge of the Reality has sprung up, there can be no fruits of past actions to be experienced, owing to the unreality of the body, in the same way as there can be no dream after waking.”
+{{< r a="Shankara" >}}
+Ekam sat — “Only One exists.” The Vedas declare that the ignorant man who rests content with making the slightest distinction between the individual soul and the Supreme Self is exposed to danger. Where there is duality by virtue of ignorance, one sees all things as distinct from the Self. When everything is seen as the Self, then there is not even an atom other than the Self. As soon as the knowledge of the Reality has sprung up, there can be no fruits of past actions to be experienced, owing to the unreality of the body, in the same way as there can be no dream after waking.
+{{< /r >}}
 
 Only great gurus are able to assume the karma of disciples. Sri Yukteswar would not have suffered in Kashmir unless he had received permission from the Spirit within him to help his disciples in that strange way. Few saints were ever more sensitively equipped with wisdom to carry out divine commands than my God-tuned Master.
 
 When I ventured a few words of sympathy over his emaciated figure, my guru said gaily:
 
-“It has its good points; I am able now to get into some small ganjis (undershirts) that I haven’t worn in years!”
+{{< r a="Sri Yukteswar" >}}
+It has its good points; I am able now to get into some small ganjis (undershirts) that I haven’t worn in years!
+{{< /r >}}
 
-Listening to Master’s jovial laugh, I remembered the words of St. Francis de Sales: “A saint that is sad is a sad saint!”
+Listening to Master’s jovial laugh, I remembered the words of St. Francis de Sales:
+
+{{< r a="St. Francis de Sales" >}}
+A saint that is sad is a sad saint!
+{{< /r >}}
+
+
 
 <!-- 21-1: It is a mark of disrespect, in India, to smoke in the presence of one’s elders and superiors.
 

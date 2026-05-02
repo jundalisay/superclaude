@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 15"
 title: "Shvasa"
-weight: 8
+weight: 38
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"

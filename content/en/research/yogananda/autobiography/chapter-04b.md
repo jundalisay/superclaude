@@ -102,66 +102,83 @@ What then? If the vicious nature of the tigers be not changed through the power 
 
 My anger at Jatinda’s vanishment was evaporated in laughter. The hilarious sequel on the train was worth all the anguish he had caused me. I must confess to a slight feeling of satisfaction: Jatinda too had not escaped an encounter with the police!
 
-“Ananta, 4-4 you are a born sleuthhound!” My glance of amusement was not without some exasperation. “And I shall tell Jatinda I am glad he was prompted by no mood of treachery, as it appeared, but only by the prudent instinct of self-preservation!”
 
-At home in Calcutta, Father touchingly requested me to curb my roving feet until, at least, the completion of my high school studies. In my absence, he had lovingly hatched a plot by arranging for a saintly pundit, Swami Kebalananda, 4-5 to come regularly to the house.
+{{< l a="Yogananda" >}}
+Ananta, you are a born sleuthhound! And I shall tell Jatinda I am glad he was prompted by no mood of treachery, as it appeared, but only by the prudent instinct of self-preservation!
+{{< /l >}}
 
-“The sage will be your Sanskrit tutor,” my parent announced confidently.
+At home in Calcutta, Father touchingly requested me to curb my roving feet until, at least, the completion of my high school studies. In my absence, he had lovingly hatched a plot by arranging for a saintly pundit, Swami Kebalananda, to come regularly to the house.
 
-Father hoped to satisfy my religious yearnings by instructions from a learned philosopher. But the tables were subtly turned: my new teacher, far from offering intellectual aridities, fanned the embers of my God-aspiration. Unknown to Father, Swami Kebalananda was an exalted disciple of Lahiri Mahasaya. The peerless guru had possessed thousands of disciples, silently drawn to him by the irresistibility of his divine magnetism. I learned later that Lahiri Mahasaya had often characterized Kebalananda as rishi or illumined sage.
+{{< r a="Father" >}}
+The sage will be your Sanskrit tutor.
+{{< /r >}}
 
-Luxuriant curls framed my tutor’s handsome face. His dark eyes were guileless, with the transparency of a child’s. All the movements of his slight body were marked by a restful deliberation. Ever gentle and loving, he was firmly established in the infinite consciousness. Many of our happy hours together were spent in deep Kriya meditation.
+My parent announced confidently. Father hoped to satisfy my religious yearnings by instructions from a learned philosopher. But the tables were subtly turned: my new teacher, far from offering intellectual aridities, fanned the embers of my God-aspiration.
 
-Kebalananda was a noted authority on the ancient shastras or sacred books: his erudition had earned him the title of “Shastri Mahasaya,” by which he was usually addressed. But my progress in Sanskrit scholarship was unnoteworthy. I sought every opportunity to forsake prosaic grammar and to talk of yoga and Lahiri Mahasaya. My tutor obliged me one day by telling me something of his own life with the master.
+Unknown to Father, Swami Kebalananda was an exalted disciple of Lahiri Mahasaya. The peerless guru had possessed thousands of disciples, silently drawn to him by the irresistibility of his divine magnetism. I learned later that Lahiri Mahasaya had often characterized Kebalananda as rishi or illumined sage.
 
-“Rarely fortunate, I was able to remain near Lahiri Mahasaya for ten years. His Benares home was my nightly goal of pilgrimage. The guru was always present in a small front parlor on the first floor. As he sat in lotus posture on a backless wooden seat, his disciples garlanded him in a semicircle. His eyes sparkled and danced with the joy of the Divine. They were ever half closed, peering through the inner telescopic orb into a sphere of eternal bliss. He seldom spoke at length. Occasionally his gaze would focus on a student in need of help; healing words poured then like an avalanche of light.
+Luxuriant curls framed my tutor's handsome face. His dark eyes were guileless, with the transparency of a child's. All the movements of his slight body were marked by a restful deliberation. Ever gentle and loving, he was firmly established in the infinite consciousness. Many of our happy hours together were spent in deep Kriya meditation.
 
-“An indescribable peace blossomed within me at the master’s glance. I was permeated with his fragrance, as though from a lotus of infinity. To be with him, even without exchanging a word for days, was experience which changed my entire being. If any invisible barrier rose in the path of my concentration, I would meditate at the guru’s feet. There the most tenuous states came easily within my grasp. Such perceptions eluded me in the presence of lesser teachers. The master was a living temple of God whose secret doors were open to all disciples through devotion.
+Kebalananda was a noted authority on the ancient shastras or sacred books: his erudition had earned him the title of "Shastri Mahasaya," by which he was usually addressed. But my progress in Sanskrit scholarship was unnoteworthy. I sought every opportunity to forsake prosaic grammar and to talk of yoga and Lahiri Mahasaya. My tutor obliged me one day by telling me something of his own life with the master.
 
-“Lahiri Mahasaya was no bookish interpreter of the scriptures. Effortlessly he dipped into the ‘divine library.’ Foam of words and spray of thoughts gushed from the fountain of his omniscience. He had the wondrous clavis which unlocked the profound philosophical science embedded ages ago in the Vedas. 4-6 If asked to explain the different planes of consciousness mentioned in the ancient texts, he would smilingly assent.
+{{< r a="Swami Kebalananda" >}}
+Rarely fortunate, I was able to remain near Lahiri Mahasaya for ten years. His Benares home was my nightly goal of pilgrimage. The guru was always present in a small front parlor on the first floor. 
 
-“‘I will undergo those states, and presently tell you what I perceive.’ He was thus diametrically unlike the teachers who commit scripture to memory and then give forth unrealized abstractions.
+As he sat in lotus posture on a backless wooden seat, his disciples garlanded him in a semicircle. His eyes sparkled and danced with the joy of the Divine. They were ever half closed, peering through the inner telescopic orb into a sphere of eternal bliss. He seldom spoke at length. Occasionally his gaze would focus on a student in need of help; healing words poured then like an avalanche of light.
 
-“‘Please expound the holy stanzas as the meaning occurs to you.’ The taciturn guru often gave this instruction to a near-by disciple. ‘I will guide your thoughts, that the right interpretation be uttered.’ In this way many of Lahiri Mahasaya’s perceptions came to be recorded, with voluminous commentaries by various students.
+An indescribable peace blossomed within me at the master's glance. I was permeated with his fragrance, as though from a lotus of infinity. To be with him, even without exchanging a word for days, was experience which changed my entire being. If any invisible barrier rose in the path of my concentration, I would meditate at the guru's feet. There the most tenuous states came easily within my grasp. Such perceptions eluded me in the presence of lesser teachers. The master was a living temple of God whose secret doors were open to all disciples through devotion.
 
-“The master never counseled slavish belief. ‘Words are only shells,’ he said. ‘Win conviction of God’s presence through your own joyous contact in meditation.’
+Lahiri Mahasaya was no bookish interpreter of the scriptures. Effortlessly he dipped into the 'divine library.' Foam of words and spray of thoughts gushed from the fountain of his omniscience. He had the wondrous clavis which unlocked the profound philosophical science embedded ages ago in the Vedas. If asked to explain the different planes of consciousness mentioned in the ancient texts, he would smilingly assent.
 
-“No matter what the disciple’s problem, the guru advised Kriya Yoga for its solution.
+'I will undergo those states, and presently tell you what I perceive.' He was thus diametrically unlike the teachers who commit scripture to memory and then give forth unrealized abstractions.
 
-“‘The yogic key will not lose its efficiency when I am no longer present in the body to guide you. This technique cannot be bound, filed, and forgotten, in the manner of theoretical inspirations. Continue ceaselessly on your path to liberation through Kriya, whose power lies in practice.’
+'Please expound the holy stanzas as the meaning occurs to you.' The taciturn guru often gave this instruction to a near-by disciple. 'I will guide your thoughts, that the right interpretation be uttered.' In this way many of Lahiri Mahasaya's perceptions came to be recorded, with voluminous commentaries by various students.
 
-“I myself consider Kriya the most effective device of salvation through self-effort ever to be evolved in man’s search for the Infinite.” Kebalananda concluded with this earnest testimony. “Through its use, the omnipotent God, hidden in all men, became visibly incarnated in the flesh of Lahiri Mahasaya and a number of his disciples.”
+The master never counseled slavish belief. 'Words are only shells,' he said. 'Win conviction of God's presence through your own joyous contact in meditation.'
 
+No matter what the disciple's problem, the guru advised Kriya Yoga for its solution.
 
-A Christlike miracle by Lahiri Mahasaya took place in Kebalananda’s presence. My saintly tutor recounted the story one day, his eyes remote from the Sanskrit texts before us.
+'The yogic key will not lose its efficiency when I am no longer present in the body to guide you. This technique cannot be bound, filed, and forgotten, in the manner of theoretical inspirations. Continue ceaselessly on your path to liberation through Kriya, whose power lies in practice.'
 
-“A blind disciple, Ramu, aroused my active pity. Should he have no light in his eyes, when he faithfully served our master, in whom the Divine was fully blazing? One morning I sought to speak to Ramu, but he sat for patient hours fanning the guru with a hand-made palm-leaf punkha. When the devotee finally left the room, I followed him.
+I myself consider Kriya the most effective device of salvation through self-effort ever to be evolved in man's search for the Infinite. Through its use, the omnipotent God, hidden in all men, became visibly incarnated in the flesh of Lahiri Mahasaya and a number of his disciples.
+{{< /r >}}
 
-“‘Ramu, how long have you been blind?’
+A Christlike miracle by Lahiri Mahasaya took place in Kebalananda's presence. My saintly tutor recounted the story one day, his eyes remote from the Sanskrit texts before us.
 
-“‘From my birth, sir! Never have my eyes been blessed with a glimpse of the sun.’
+{{< r a="Swami Kebalananda" >}}
+A blind disciple, Ramu, aroused my active pity. Should he have no light in his eyes, when he faithfully served our master, in whom the Divine was fully blazing? One morning I sought to speak to Ramu, but he sat for patient hours fanning the guru with a hand-made palm-leaf punkha. When the devotee finally left the room, I followed him.
 
-“‘Our omnipotent guru can help you. Please make a supplication.’
+'Ramu, how long have you been blind?'
 
-“The following day Ramu diffidently approached Lahiri Mahasaya. The disciple felt almost ashamed to ask that physical wealth be added to his spiritual superabundance.
+'From my birth, sir! Never have my eyes been blessed with a glimpse of the sun.'
 
-“‘Master, the Illuminator of the cosmos is in you. I pray you to bring His light into my eyes, that I perceive the sun’s lesser glow.’
+'Our omnipotent guru can help you. Please make a supplication.'
 
-“‘Ramu, someone has connived to put me in a difficult position. I have no healing power.’
+The following day Ramu diffidently approached Lahiri Mahasaya. The disciple felt almost ashamed to ask that physical wealth be added to his spiritual superabundance.
 
-“‘Sir, the Infinite One within you can certainly heal.’
+'Master, the Illuminator of the cosmos is in you. I pray you to bring His light into my eyes, that I perceive the sun's lesser glow.'
 
-“‘That is indeed different, Ramu. God’s limit is nowhere! He who ignites the stars and the cells of flesh with mysterious life- effulgence can surely bring luster of vision into your eyes.’
+'Ramu, someone has connived to put me in a difficult position. I have no healing power.'
 
-“The master touched Ramu’s forehead at the point between the eyebrows. 4-7 ”‘Keep your mind concentrated there, and frequently chant the name of the prophet Rama 4-8 for seven days. The splendor of the sun shall have a special dawn for you.’
+'Sir, the Infinite One within you can certainly heal.'
 
-“Lo! in one week it was so. For the first time, Ramu beheld the fair face of nature. The Omniscient One had unerringly directed his disciple to repeat the name of Rama, adored by him above all other saints. Ramu’s faith was the devotionally ploughed soil in which the guru’s powerful seed of permanent healing sprouted.” Kebalananda was silent for a moment, then paid a further tribute to his guru.
+'That is indeed different, Ramu. God's limit is nowhere! He who ignites the stars and the cells of flesh with mysterious life-effulgence can surely bring luster of vision into your eyes.'
 
-“It was evident in all miracles performed by Lahiri Mahasaya that he never allowed the ego-principle 4-9 to consider itself a causative force. By perfection of resistless surrender, the master enabled the Prime Healing Power to flow freely through him.
+The master touched Ramu's forehead at the point between the eyebrows. 'Keep your mind concentrated there, and frequently chant the name of the prophet Rama for seven days. The splendor of the sun shall have a special dawn for you.'
 
-“The numerous bodies which were spectacularly healed through Lahiri Mahasaya eventually had to feed the flames of cremation. But the silent spiritual awakenings he effected, the Christlike disciples he fashioned, are his imperishable miracles.”
+Lo! in one week it was so. For the first time, Ramu beheld the fair face of nature. The Omniscient One had unerringly directed his disciple to repeat the name of Rama, adored by him above all other saints. Ramu's faith was the devotionally ploughed soil in which the guru's powerful seed of permanent healing sprouted.
+{{< /r >}}
+
+Kebalananda was silent for a moment, then paid a further tribute to his guru.
+
+{{< r a="Swami Kebalananda" >}}
+It was evident in all miracles performed by Lahiri Mahasaya that he never allowed the ego-principle to consider itself a causative force. By perfection of resistless surrender, the master enabled the Prime Healing Power to flow freely through him.
+
+The numerous bodies which were spectacularly healed through Lahiri Mahasaya eventually had to feed the flames of cremation. But the silent spiritual awakenings he effected, the Christlike disciples he fashioned, are his imperishable miracles.
+{{< /r >}}
 
 I never became a Sanskrit scholar; Kebalananda taught me a diviner syntax.
+
 
 
 

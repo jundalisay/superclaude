@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 17"
 title: "Mantra Svabhava"
-weight: 8
+weight: 45
 c: "indigo"
 description: ""
 icon: "PR Sarkar"

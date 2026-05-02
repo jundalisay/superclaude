@@ -1,16 +1,17 @@
 ---
-heading: "Unit 2"
+heading: "Unit 5"
 linkTitle: Electromagnetism
 title: "Electromagnetism or Vortex Magnetism"
 # date: 2023-03-01
 date: 2024-12-29
-weight: 9
+weight: 19
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vmagnet.jpg
 icon: "Juan"
 aliases:
   /material/principles/part-3/chapter-03d
 ---
+
 
 
 There are 2 kinds of magnetism based on layer:
@@ -87,3 +88,5 @@ In Cartesian Physics, the mechanism for magnetism is similar to that of light: T
 <!-- {{< youtube pQyy7W41Dkg >}} -->
 
 <!-- https://youtu.be/ww92Q0tGL5s -->
+
+

@@ -97,9 +97,10 @@ Only Hiero, the king of Syracuse, seems to have understood the balance of power 
 
 Polybius says:
 
-{{< q >}}
+{{< q a="Polybius" >}}
 Hiero acted with great wisdom and prudence when he retained his dominions in Sicily so that Carthage would be safe while preserving the Roman friendship. If Carthage fell, the Romans without contrast or opposition would be able to act at will. Such a force should never to be thrown into one hand, as to incapacitate the neighbouring states from defending their rights against it.
 {{< /q >}}
+
 
 <!-- Here is the aim of modern politics pointed out in express terms. -->
 
@@ -127,7 +128,8 @@ She still maintains her station. Beside her advantages of riches and situation, 
 
 The British are so nationalistic and know the blessings of their government. This is proven by the following. <!-- , that we may hope their vigour never will languish in so necessary and so just a cause. On the contrary, if we may judge by the past, their passionate ardour seems rather to require some [339] moderation; and they have oftener erred from a laudable excess than from a blameable deficiency. -->
 
-1. We have the the ancient Greek spirit of jealous emulation instead of prudence. 
+
+### 1. We have the the ancient Greek spirit of jealous emulation instead of prudence. 
 
 Our wars with France began <!-- with justice --> from necessity. But they have always been too far pushed because of obstinacy and passion. 
 
@@ -140,7 +142,7 @@ We could have given at Frankfort in 1743 the same terms which we were glad to ac
 Over half of our wars with France, and all our public debts, are due to our own imprudent vehemence than to our neighbours' ambition.
 
 
-2. We oppose the French power and defend our allies so much that they always depend on our forces like their own. 
+### 2. We oppose the French power and defend our allies so much that they always depend on our forces like their own. 
 
 They expect to carry on war at our expence and refuse all reasonable terms of accommodation. <!-- Habent subjectos, tanquam suos; viles, ut alienos.  -->
 
@@ -149,7 +151,7 @@ At the start of the last parliament, <!-- the factious vote of  -->the House of 
 - prevent that agreement with Prussia which would immediately restore the peace in Europe.
 
 
-3. We are such true combatants, that, when once engaged, we lose all concern for ourselves and our posterity, and consider only how we may best annoy the enemy. 
+### 3. We are such true combatants, that, when once engaged, we lose all concern for ourselves and our posterity, and consider only how we may best annoy the enemy. 
 
 It is most fatal to mortgage our revenues at so deep a rate in wars where we were only accessories. A huge, poisonous debt should only be incurred as the last resort. These excesses are prejudicial and can become worse by rendering us totally careless and supine with regard to the fate of Europe. 
 

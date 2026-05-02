@@ -3,7 +3,7 @@ heading: "Unit 2"
 linkTitle: "Magnetism from Channels and Dipoles"
 title: "Dipoles"
 date: 2024-12-29
-weight: 8
+weight: 10
 image: /photos/objects/channel.jpg
 description: "Virtual photons facilitate magnetic force when they are concentrated into channels."
 icon: "Juan"

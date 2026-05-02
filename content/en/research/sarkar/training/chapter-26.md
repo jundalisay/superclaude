@@ -1,30 +1,77 @@
+---
+heading: "Chapter 26"
+title: "Dhyana"
+weight: 65
+c: "indigo"
+description: ""
+icon: "PR Sarkar"
+draft: true
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
+---
 
 
-CH 26 ‑ D H Y A' N A
 
-In Dha'ran'a' a static force prevails i.e. mind during this process, is required to be concentrated at a fixed place. But in Dhya'na, the mind is made to proceed towards the mental object in a never ending manner (continuously). To put it more easily, the mind will continue to flow in an unbroken way till it gets suspended in its object. But there is also a close relation between Dha'ran'a' and Dhya'na. While doing Dhya'na, mind must be brought to a specific point, from where it will meditate. For instance, while you do Dhya'na, you should elevate your mind and fix it up in the Karn'ika' (seed vessel of a lotus) of the Sahasra'ra Kamala (Guru Cakra). 
+In Dharana a static force prevails i.e. mind during this process, is required to be concentrated at a fixed place. But in Dhya'na, the mind is made to proceed towards the mental object in a never ending manner (continuously). 
 
-The way you take your mind to that aforesaid point, comes within the scope of Dha'ran'a', next only starts the Dhya'na process. The process of Dha'ran'a' invariably precedes that of the Dhya'na. That is why, it is impossible for one to be perfectly established in Dhya'na who has not sufficient knowledge of Dha'ran'a' Prakaran'a or its practice. For this reason, before imparting lessons of Dhya'na to anybody, he must be taught how to practise Dha'ran'a' because Dha'ran'a' is the initial stage of Dhya'na. The very process of taking the mind to a particular Cakra is Dha'ran'a'.
+To put it more easily, the mind will continue to flow in an unbroken way till it gets suspended in its object. But there is also a close relation between Dharana and Dhya'na. While doing Dhya'na, mind must be brought to a specific point, from where it will meditate. For instance, while you do Dhya'na, you should elevate your mind and fix it up in the Karn'ika' (seed vessel of a lotus) of the Sahasrara Kamala (Guru Cakra). 
 
-Before practising Dhya'na, one needs a good deal of mental preparation. Just as a novice, while appearing on the stage for the first time in his life plays the role of a dead soldier for his mental preparation. Later on, when he overcomes the stage‑fright, he plays the role of a hero. Three items help in mental preparation for Dhya'na ‑ Shravan'a, Manana and Nidhidhya'sana. Just as one is to establish oneself in Dha'ran'a' step by step, so also in Dhya'na, one has to adopt ways of mental preparation for Dhya'na. What does Shravan'a (hearing) imply?
+The way you take your mind to that aforesaid point, comes within the scope of Dharana, next only starts the Dhya'na process. The process of Dharana invariably precedes that of the Dhya'na. That is why, it is impossible for one to be perfectly established in Dhya'na who has not sufficient knowledge of Dharana Prakaran'a or its practice. For this reason, before imparting lessons of Dhya'na to anybody, he must be taught how to practise Dharana because Dharana is the initial stage of Dhya'na. The very process of taking the mind to a particular Cakra is Dharana.
+
+Before practising Dhya'na, one needs a good deal of mental preparation. Just as a novice, while appearing on the stage for the first time in his life plays the role of a dead soldier for his mental preparation.
+
+Later on, when he overcomes the stage‑fright, he plays the role of a hero. Three items help in mental preparation for Dhya'na ‑ Shravan'a, Manana and Nidhidhya'sana. Just as one is to establish oneself in Dharana step by step, so also in Dhya'na, one has to adopt ways of mental preparation for Dhya'na. What does Shravan'a (hearing) imply?
 
 "If at all I am to hear anything, I must hear only Hari‑Katha' (discourses on the glories of Parama Purus'a) and never the evil discussions." 
 
-What is Manana? Unit mind always thinks of something or other. Manana means to think or say something mentally. Thought is the mental repetition of the same idea. When that internal thought comes out of the vocal cord, it is called `word or sound'. Mental repetition of the same word is Japa and mental repetition of the same idea is Manana. When the same idea repeatedly occurs in the mind ‑ "I will do this, I will do this etc." ‑ this is called Manana. In Manana, there prevails in the mind only a single idea whereas in Japa, there remains the same idea along with the same word. 
 
-To continue to repeat, "Ra'ma, Ra'ma, Ra'ma" is Japa, and to continue to repeat, "Ra'ma, Hari, Iishvara, Na'ra'yan'a" is Manana. "If at all I am to do Manana, I must do only of Parama'tma'." The key point behind Shravan'a and Manana is Nidhidhya'sana (contemplation). To make the mind free from other objectives, from other mental pabulum and to make it ready for spiritual Sa'dhana' is Nidhidhya'sana. To prepare the mind for spiritual ideation after withdrawing the same from various psycho‑physical occupations is Nidhidhya'sana. Before imparting lessons of Dhya'na to anyone, you must verify that he has been perfectly habituated with the Dha'ran'a' and also he has developed a special aptitude for Shravan'a, Manana and Nidhidhya'sana. 
+## What is Manana? 
 
-Dhya'na implies, to direct all the mental propensities towards the goal in an endless flow. This point towards which the mind is led on, may be of various nature. You may receive or transmit the Tanma'tras. Suppose, there is an image made of wood or silver or gold. It may be 5/10 yards long. If you meditate on this image, it means, you are meditating on material objects with Ru'pa Tanma'tras. As a result of continuous meditation on the matter, the conscious mind, with the help of will‑force takes the form of crude objects. 
+Unit mind always thinks of something or other. Manana means to think or say something mentally. Thought is the mental repetition of the same idea. When that internal thought comes out of the vocal cord, it is called `word or sound'. 
 
-Thus in this process, the subconscious mind, with the help of will‑force and conscious mind, takes the form of the object of meditation and ultimately becomes converted into the same. This process of Dhya'na is called Ta'nma'trika Dhya'na and through the practice of this Dhya'na, one attains Ta'nma'trika Sama'dhi. One can concentrate one's mind on something through the Indriyas. For instance, a boy is reading a book. In common parlance it may be said one is reading with attention (Dhya'na) i.e. one is paying attention (Dhya'na) to the lines or scripts of the book. An intelligent boy is said to have attained Dhya'na Siddhi (deep attention leading to success). On the contrary, if a boy sits with a book opened but with mind roaming in the football ground, he cannot learn anything.
+Mental repetition of the same word is Japa and mental repetition of the same idea is Manana. When the same idea repeatedly occurs in the mind ‑ "I will do this, I will do this etc." ‑ this is called Manana. In Manana, there prevails in the mind only a single idea whereas in Japa, there remains the same idea along with the same word. 
 
-BHA'VA'TMAKA DHYA'NA: To contemplate on the unfathomable greatness of Parama Purus'a is also a process of Dhya'na. In it, all your energy will be consumed in the thought of Parama Purus'a In Bha'va'tmaka Dhya'na, the origin of Dhya'na is internal. There is another kind of Dhya'na known as Rasa'nanda Yoga Dhya'na. Here the Sa'dhaka feels that he is surrounded by God on all sides ‑ east, west, north and south. He feels, as it were, His touch. The entire body of the Sa'dhaka becomes vibrated. The entire existence of the microcosm becomes vibrated. The entire existence of the microcosm becomes vibrated by the Cosmic Vibrations.
- So far as the proper spirit of Dhya'na is concerned, only Anudhya'na should be accepted as the real Dhya'na. "Anu" means "Pashca't" or `following' i.e. to chase Parama'tma' along with His ideation. This chasing after Him is a never‑ending flow. Dha'ran'a' is the stabilization of mind while in Dhya'na mind is made to flow towards Him. A'nanda Ma'rga method of Dhya'nam is Anudhya'na and others processes of Dhya'nam are but different stages of Dhya'na. And the best way of Dhya'na is Dhya'na Prakriya'. 
- Dhya'na, according to scripture is Abhidhya'na which has two parts 1. Pran'idha'na, and 2. Anudhya'na. In Pran'idha'na, the Sa'dhaka directs all his mental propensities towards the Supreme desideratum. In Anudhya'na, the Sa'dhaka first takes the ideation of Parama Purus'a and begins to chase him, makes earnest attempts to merge into Him. This effort will continue till the mind is merged into the Cosmic Desideratum ‑ till the mind is suspended into its Dhyeya. The Sahasra'ra Cakra is located above all the Cakras. The pineal secretion invigorates all the lower Cakras. Dhya'na should be done only on Sahasra'ra Cakra. The Dhya'na, which is practised at this Cakra is Anudhya'na. 
- Anudhya'na means `to make the mind run after'. As a result thereof, the subconscious mind will get devoted forcibly. Whether in Dhya'nam or in Iishvara Pran'idha'na or in Japa‑Kriya', two entities, you and your object of ideation are always existent. In all those cases you are to catch hold of your Dhyeya by vigorous mental efforts. When you apply all your mental force to do that, there will be created a psycho‑spiritual vacuum ‑ a clear gap. Consequently, the Kula Kun'd'alinii rises up quickly. (Kula Kun'd'alinii is a vibrational expression). To fill up the above‑mentioned gap, she rises upwards. Supposing she rises up to Sva'dhis't'ha'na or Man'ipura, she got a permanently natural passage up to that point. 
+To continue to repeat, "Rama, Rama, Rama" is Japa, and to continue to repeat, "Rama, Hari, Iishvara, Na'ra'yan'a" is Manana. 
+
+"If at all I am to do Manana, I must do only of Parama'tma'." The key point behind Shravan'a and Manana is Nidhidhya'sana (contemplation). To make the mind free from other objectives, from other mental pabulum and to make it ready for spiritual Sa'dhana' is Nidhidhya'sana. To prepare the mind for spiritual ideation after withdrawing the same from various psycho‑physical occupations is Nidhidhyasana.
+
+Before imparting lessons of Dhya'na to anyone, you must verify that he has been perfectly habituated with the Dharana and also he has developed a special aptitude for Shravan'a, Manana and Nidhidhya'sana. 
+
+Dhyana implies to direct all the mental propensities towards the goal in an endless flow. 
+
+This point towards which the mind is led on, may be of various nature. You may receive or transmit the Tanma'tras. Suppose, there is an image made of wood or silver or gold. It may be 5/10 yards long. 
+
+If you meditate on this image, it means, you are meditating on material objects with Ru'pa Tanma'tras. As a result of continuous meditation on the matter, the conscious mind, with the help of will‑force takes the form of crude objects. 
+
+Thus in this process, the subconscious mind, with the help of will‑force and conscious mind, takes the form of the object of meditation and ultimately becomes converted into the same. This process of Dhyana is called Ta'nma'trika Dhya'na and through the practice of this Dhya'na, one attains Ta'nma'trika Sama'dhi. One can concentrate one's mind on something through the Indriyas. For instance, a boy is reading a book.
+
+In common parlance it may be said one is reading with attention (Dhya'na) i.e. one is paying attention (Dhya'na) to the lines or scripts of the book. An intelligent boy is said to have attained Dhya'na Siddhi (deep attention leading to success). On the contrary, if a boy sits with a book opened but with mind roaming in the football ground, he cannot learn anything.
+
+
+## BHAVATMAKA DHYANA
+
+To contemplate on the unfathomable greatness of Parama Purus'a is also a process of Dhya'na. In it, all your energy will be consumed in the thought of Parama Purus'a In Bha'va'tmaka Dhya'na, the origin of Dhya'na is internal. There is another kind of Dhya'na known as Rasa'nanda Yoga Dhya'na. Here the Sa'dhaka feels that he is surrounded by God on all sides ‑ east, west, north and south. He feels, as it were, His touch. The entire body of the Sa'dhaka becomes vibrated. The entire existence of the microcosm becomes vibrated. The entire existence of the microcosm becomes vibrated by the Cosmic Vibrations.
+
+So far as the proper spirit of Dhya'na is concerned, only Anudhya'na should be accepted as the real Dhya'na. "Anu" means "Pashca't" or `following' i.e. to chase Parama'tma' along with His ideation. 
+
+This chasing after Him is a never‑ending flow. Dharana is the stabilization of mind while in Dhya'na mind is made to flow towards Him. A'nanda Ma'rga method of Dhya'nam is Anudhya'na and others processes of Dhya'nam are but different stages of Dhya'na. And the best way of Dhya'na is Dhya'na Prakriya'. 
+
+Dhya'na, according to scripture is Abhidhya'na which has two parts 1. Pran'idha'na, and 2. Anudhya'na. In Pran'idha'na, the Sa'dhaka directs all his mental propensities towards the Supreme desideratum.
+
+In Anudhya'na, the Sa'dhaka first takes the ideation of Parama Purus'a and begins to chase him, makes earnest attempts to merge into Him. This effort will continue till the mind is merged into the Cosmic Desideratum ‑ till the mind is suspended into its Dhyeya. The Sahasra'ra Cakra is located above all the Cakras. The pineal secretion invigorates all the lower Cakras. Dhya'na should be done only on Sahasra'ra Cakra. 
+
+The Dhya'na, which is practised at this Cakra is Anudhya'na. 
+
+Anudhya'na means `to make the mind run after'. As a result thereof, the subconscious mind will get devoted forcibly. Whether in Dhya'nam or in Iishvara Pran'idha'na or in Japa‑Kriya', two entities, you and your object of ideation are always existent. 
+
+In all those cases you are to catch hold of your Dhyeya by vigorous mental efforts. When you apply all your mental force to do that, there will be created a psycho‑spiritual vacuum ‑ a clear gap. Consequently, the Kula Kun'd'alinii rises up quickly. (Kula Kun'd'alinii is a vibrational expression). To fill up the above‑mentioned gap, she rises upwards. Supposing she rises up to Sva'dhis't'ha'na or Man'ipura, she got a permanently natural passage up to that point. 
 
 If next time one practises intense meditation, the natural passage will extend up to the higher Cakras. Thus in the process of extension of the natural passage step by step, it will extend up to Sahasra'ra ‑ the Kun'd'alinii Shakti will merge into the controlling point of the Sahasra'ra Cakra; the Shakti becomes identified with Shiva. While doing Dhya'na and Iishvara Pran'idha'na, the earnest desire to get at Him, to catch hold of Him with an intense urge must be conspicuously present, otherwise the perfect success in Dhya'na is never possible. First, you should see Him, next you should try to run after Him vigorously; otherwise, you will follow a wrong track and dash against a wall.
- Whether in Dha'ran'a' or in Dhya'na, mind must be concentrated at a fixed place. Inside the Sus'umna' Na'd'ii, different Cakras are located at different junctures. Dha'ran'a' or Dhya'na is done on these Cakras. In each of these Cakras, there is a lotus or Kamala. These Kamalas may face front, or behind, upwards or downwards. When the Kamala faces front, it is called `Jiivana Kamala', the one facing behind in Maran'a Kamala. One, who meditates on Maran'a Kamala loses longevity; he dies soon after. Many Yogiis accept "Iccha' Mrtyu" by meditating on the Maran'a Kamala. Hence, meditation on this Kamala is strictly prohibited for both family men and Sannya'siis. 
+
+Whether in Dharana or in Dhya'na, mind must be concentrated at a fixed place. Inside the Sus'umna' Na'd'ii, different Cakras are located at different junctures. Dharana or Dhya'na is done on these Cakras. 
+
+In each of these Cakras, there is a lotus or Kamala. These Kamalas may face front, or behind, upwards or downwards. When the Kamala faces front, it is called `Jiivana Kamala', the one facing behind in Maran'a Kamala. One, who meditates on Maran'a Kamala loses longevity; he dies soon after. Many Yogiis accept "Iccha' Mrtyu" by meditating on the Maran'a Kamala. Hence, meditation on this Kamala is strictly prohibited for both family men and Sannya'siis. 
 
 The Kamala facing downwards is Adho Kamala. If one meditates on this Kamala, one's mental propensities flow towards crude objects, one becomes degraded. This is also to be avoided. According to Avidya' Tantra, if one wishes to harm anybody, one should meditate on Adhokamala. It is harmful for a Sa'dhaka. You who are the followers of Vidya' Sa'dhana', must not follow the Avidya' Tantra. But anybody can practise meditation on U'rdhva Kamala and Jiivana kamala. 
 

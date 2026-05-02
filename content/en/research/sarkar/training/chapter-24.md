@@ -1,6 +1,18 @@
+---
+heading: "Chapter 24"
+title: "Dharana"
+weight: 60
+c: "indigo"
+description: ""
+icon: "PR Sarkar"
+draft: true
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
+---
 
 
-CH 24 ‑ D H A' R A N' A'
+
 
 To make the mind firmly located in an area or region, is Dha'ran'a'. Herein a Static Power works. You check the mind which is ever‑flowing. It is better to make the mind still at different Cakras (plexii) or joints of glands. Why is it better?
 

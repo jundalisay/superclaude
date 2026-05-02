@@ -5,13 +5,13 @@ title: "Virtual Photons and Material Magnetism"
 # date: 2023-03-01
 date: 2024-12-29
 weight: 8
-# description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vphoton.jpg
 description: "The Source of All Movement is Internal configuration, powered Externally"
 icon: "Juan"
 aliases:
   /material/principles/part-3/chapter-03c/
 ---
+
 
 
 
@@ -59,5 +59,3 @@ Unlike the force of material gravity which is caused by flowing space particles 
 Both photons and virtual photons travel in straight lines.
 
 {{< youtube ww92Q0tGL5s >}}
-
-

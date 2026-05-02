@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 16"
 title: "Siddha Mantra"
-weight: 18
+weight: 41
 c: "indigo"
 description: "When your endeavour has brought the desired result, you call it Siddhi."
 icon: "PR Sarkar"
