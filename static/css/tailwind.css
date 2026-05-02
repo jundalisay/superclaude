@@ -4243,7 +4243,7 @@ code, pre, .font-code {
   width: 100%;
   border-collapse: collapse;
   margin: 1.5rem 0;
-  font-size: 0.95rem;
+  font-size: 1.1 rem;
 }
 .prose-sp th {
   background: var(--color-sp-bg-alt);

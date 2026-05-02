@@ -5,7 +5,6 @@ weight: 58
 c: "indigo"
 description: "Every entity, which has a mind, has a basic psychology and is always propelled by these fundamentals of basic psychology. "
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

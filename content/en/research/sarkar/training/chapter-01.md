@@ -5,7 +5,6 @@ weight: 4
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -38,11 +37,10 @@ The Sa'dhakas of introvertive intuitional practice have also to engage themselve
 Disciplined conduct (Sam'yama) is essential for introvertive intuitional practice. One has to discipline oneself in relation to external environments as well as against one's own extrovertial expressed sentiments (Pravrtti). The former is Yama and the latter Niyama. The root verb `Yama' is common to both and it means to control. The word `Yantra' (machine) is derived from the same rootverb `Yam' and means a machine which works under control and is capable of output. Controlled contact with others is Yama and conduct relating to self for purification is Niyama.
 
 
-## CHAPTER 1: 
-
-YAMA SA’DHANA’:
+## CHAPTER 1:  YAMA SADHANA
 	
-Yama, in Sam'skrta, means that which controls. 
+
+Yama, in Samskrta, means that which controls. 
 
 All worldly actions, such as creation, destruction, etc. are said to be controlled by Yamara'ja ‑ a mythological deity. Yam'‑trae+d'a = Yantra. Because of its especial figure and design, the Yantra renders especial type of service. Hammers and scissors because of their especial figures render specific services. In physical and mental spheres too, their especial services are available. 
 
@@ -85,3 +83,4 @@ All these parts constitute the Yantra (Yama). In a particular state a machine wi
 Yama has 5 Upayantras.
 
 Your internal entity comes in contact with external objects. Under such circumstances, actions performed by your body or mind are fully controlled by these five Upayantras.
+
