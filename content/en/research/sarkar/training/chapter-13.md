@@ -1,8 +1,21 @@
+---
+heading: "Chapter 13"
+title: "Iishvara Pranidhana"
+weight: 34
+c: "indigo"
+description: ""
+icon: "PR Sarkar"
+draft: true
+writer:
+  name: PR Sarkar
+  url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
+---
 
 
-CHAPTER 13 ‑ IISHVARA PRAN'IDHA'NA
 
-"Iishati yah sah Iishvarah" i.e. He who controls is Iishvara. Pra‑ni‑dha'+anat' form the word Pran'idha'na in Sam'skrta. "Prakrs't'a ru'pena nidha'na ityarthe Pran'idha'na". When the flow of all the propensities of mind is channelized towards One, it is Iishvara Pran'idha'na. First, let us see what is Iishvara? Philosophers have given several meanings for the word Iishvara. One is "Iishati yah sah Iishvarah" i.e. He who controls is Iishvara. A second meaning is "Sa Iishvarah anirvacaniiyah parama premasvaru'pa". Every object has its original form, original rank. The original form, the original status of Prema is its Svaru'pa. Iishvara is Parama Prema Svaru'pa and its Svaru'pa is "Anirvacaniiya" i.e. inexplicable, can not be expressed through the media of organs. Eyes, ears, nose, hands and feet can not explain Him. A‑nih‑vac+aniiya form the Sam'skrta word Anirvacaniiya.
+"Iishati yah sah Iishvarah" i.e. He who controls is Iishvara. Pra‑ni‑dha'+anat' form the word Pranidhana in Sam'skrta. "Prakrs't'a ru'pena nidha'na ityarthe Pranidhana". 
+
+When the flow of all the propensities of mind is channelized towards One, it is Iishvara Pranidhana. First, let us see what is Iishvara? Philosophers have given several meanings for the word Iishvara. One is "Iishati yah sah Iishvarah" i.e. He who controls is Iishvara. A second meaning is "Sa Iishvarah anirvacaniiyah parama premasvaru'pa". Every object has its original form, original rank. The original form, the original status of Prema is its Svaru'pa. Iishvara is Parama Prema Svaru'pa and its Svaru'pa is "Anirvacaniiya" i.e. inexplicable, can not be expressed through the media of organs. Eyes, ears, nose, hands and feet can not explain Him. A‑nih‑vac+aniiya form the Sam'skrta word Anirvacaniiya.
 
 Another meaning is "Klesha karma vipa'ka'shayaerapara'mrs't'ah purus'a vishes'a Iishvarah". He who remains unassailed, unaffected by Klesha (affliction), Karma (action), Vipa'ka (reactive momenta) and A'shaya (A'bhoga or pabulum is Iishvara).
 
@@ -10,7 +23,7 @@ Yet another meaning is that He who possesses Aeshvarya is Iishvara. He who posse
 
 Philosophy has no importance for Sa'dhaka and therefore Sa'dhaka accepts the first explanation i.e. He who controls is Iishvara. He controls A'brahmastamba. A'brahma‑stamba means from the Creator to the blade of grass. Brahma here means Brahma'. Here A' is removed. Who was in the beginning? The creator. According to old thinking Brahma' is the creator. Stamba means a blade of grass in Sam'skrta. The controller from the Creator to the blade of grass is called Iishvara. If He does not desire, even a blade of grass cannot move. Then what is the meaning of Iishvara for Sa'dhaka or Bhakta? The meaning is that He is the controller of everything, the Supreme Controller.
 
-When one does Pran'idha'na i.e. detaches all one's propensities from objects and then channelizes them towards Parama Purus'a, the Supreme Controller, this is called Iishvara Pran'idha'na.
+When one does Pranidhana i.e. detaches all one's propensities from objects and then channelizes them towards Parama Purus'a, the Supreme Controller, this is called Iishvara Pranidhana.
 
 What is its name (pointing at a place in the figure hanging on the wall)? This is called Kula. Then Sahasra'ra was pointed out. The sleeping divinity is in Kula. What is Jiiva? A manifestation of Parama Purus'a. Jiiva came from fundamental positivity to the fundamental negativity in the beginning of the creation. When it moves up from Kula to Sahasra'ra, it comes in contact with Shiva. This Jiiva Bha'va is in its crudest form in Kula. This is the sleeping divinity.
 Mu'la'dha're baset shaktih
@@ -50,9 +63,15 @@ Another name of Diipanii is Diipa‑jina'na. Diipa means Pradiipa (lamp). The sa
 Diipa jina'nam yato dadya't, kurya't pa'paks'ayam tatha'
 Tasma't diiks'eti sa' prokta', sarva tantrasya sammata'
 
-What is Diiks'a'? It is that which initiates one in Diipanii and enables one to have Diipa‑Jina'na, and also which causes annihilation of Pa'pa (reactive momenta). Diiks'a' also causes Mantra'gha'ta and Mantra Caetanya. Diipanii is the first item. You have to do Diipanii before Mantra'gha'ta. Diipanii has a very great significance. You get Diipanii and thereafter Pa'pa gets annihilated by Sa'dhana'. You know well that in the life of a Sa'dhaka, so many worldly worries and problems crop up. It is only because of the fact that the annihilation of Pa'pa has started, then and there. Pa'pa means past Sam'ska'ras, be they good or bad. Chain is after all a chain, be it of gold or iron; even if you are tied to a golden chain, it is a bondage. Will you find pleasure if the rope of the jail be made of gold? To a prisoner, chains of gold and iron have equal significance. He wants to get relieved from both of them. 
+What is Diiks'a'? It is that which initiates one in Diipanii and enables one to have Diipa‑Jina'na, and also which causes annihilation of Pa'pa (reactive momenta). Diiks'a' also causes Mantra'gha'ta and Mantra Caetanya. Diipanii is the first item. You have to do Diipanii before Mantra'gha'ta. Diipanii has a very great significance. You get Diipanii and thereafter Pa'pa gets annihilated by Sa'dhana'. 
+
+You know well that in the life of a Sa'dhaka, so many worldly worries and problems crop up. It is only because of the fact that the annihilation of Pa'pa has started, then and there. Pa'pa means past Sam'ska'ras, be they good or bad. Chain is after all a chain, be it of gold or iron; even if you are tied to a golden chain, it is a bondage. Will you find pleasure if the rope of the jail be made of gold? To a prisoner, chains of gold and iron have equal significance. He wants to get relieved from both of them. 
+
+
 When annihilation of Pa'pa has started, a Sa'dhaka must not be puzzled. Rather, he should think that it is only because Sa'dhana' is going on well. Annihilation of Sam'ska'ras is a sign of good Sa'dhana'. That which causes annihilation is Diiks'a, according to all of the Tantras, which have no difference of opinion, on this point. The first letter of Diipanii is Dii and of Ks'ayam is "Ks'a", the two combined form the word Diiks'a and as feminine gender it becomes Diiks'a'. So Diiks'a' is that which provides one with Diipanii and causes the annihilation of all Sam'ska'ras.
+
 What should occur first, Diipanii or Mantra'gha'ta? The first item is Mantra'gha'ta, thereafter comes Diipanii. After awakening the sleeping divinity by Mantra'gha'ta, arises the need of Diipanii, to show the path to the awakened divinity. What shall be the need of Diipanii, if the divine energy (Kula Kun'd'alinii) is still in the sleeping state?
+
 Suppose she is awakened and has also been shown the path, but you are not striving to elevate her. Will she get elevated of her own self? The chief characteristic of a Sa'dhaka is to have endurance and go on endeavouring constantly. Sa'dhana' necessitates endurance in the very beginning and also till the last.
 
 To continue striving with undaunted endurance is the characteristic of a great man.
@@ -61,23 +80,45 @@ Dhiirvidya' satyamakrodhah dashakam dharma laks'an'am
 
 These are the ten characteristics of Dharma as well of family (Kula). These are ten whether it is good or bad. They also depict the spiritual character of the man. Both have, Dhrti (endurance); Ks'ama' (forgiveness), Asteya (descendants of a noble family shall never steal, the spiritualists also shall never steal), Shaoca ‑ they will have physical and psychic purity, shall be never dirty; Damah ‑ they will have a control over the evil and the evil doers and shall fight against all evils; Indriya‑nigraha ‑ they shall be men of moral character; Dhiir Vidya' ‑ they shall be intelligent, (Vidya' means knowledge); Satyam ‑ they shall be established in Satyam; Akrodhah ‑ they shall not get angry over everything. These are the ten characteristics of Dharma. They shall have to endeavour with proper endurance. In Sa'dhana', at the first stage, a Yogii is called Yatama'na, at the second stage he is called Vyatireka, at the third stage he is known as ekendriya and at the last, Vashiika'ra. Vashiika'ra are they who have full control over the entire structure. What shall the Yatama'na do? They shall awaken the sleeping divinity and elevate Her through the Sus'umna' Na'd'ii.
 
-What is Mantra Caetanya?
 
-Sus'umna' Na'd'ii, is just like a pipe having a passage within it, which is more psychic than physical. This is also known as Sus'umna' Ka'n'd'a. It is loosely called Sus'umna' Na'd'ii, but actually it is Ka'n'd'a, which means trunk or main portion. Within Sus'umna'lies another pipe of smaller diameter, known as Citra'n'ii. Within the latter lies another pipe, of still smaller diameter, which is entirely spiritual. It is known as Brahma'n'ii. Sus'umna' fluid lies within this Brahma'n'ii through which Kula Kun'd'alinii goes up and down. You have to elevate the Kun'd'alinii, through Brahma'n'ii with the help of Is't'a Mantra, vibrating within every drop of your blood, and pervading through all the atoms, molecules and ions of your entire structure. But if you do not know the meaning of the mantra, there shall be no ideation, as a consequence, your Iccha' Shakti shall remain unaffected, and without Iccha' Shakti , Kula Kun'd'alinii shall not get elevated. As such one must understand the meaning of the Mantra. Knowing the meaning of Mantra, is called Mantra Caetanya.
+## What is Mantra Caetanya?
+
+Sus'umna' Na'd'ii, is just like a pipe having a passage within it, which is more psychic than physical. This is also known as Sus'umna' Kanda. It is loosely called Sus'umna' Na'd'ii, but actually it is Kanda, which means trunk or main portion. Within Sus'umna'lies another pipe of smaller diameter, known as Citra'n'ii. Within the latter lies another pipe, of still smaller diameter, which is entirely spiritual. 
+
+It is known as Brahma'n'ii. 
+
+Susumna fluid lies within this Brahma'n'ii through which Kula Kun'd'alinii goes up and down. You have to elevate the Kun'd'alinii, through Brahma'n'ii with the help of Is't'a Mantra, vibrating within every drop of your blood, and pervading through all the atoms, molecules and ions of your entire structure. 
+
+But if you do not know the meaning of the mantra, there shall be no ideation, as a consequence, your Iccha' Shakti shall remain unaffected, and without Iccha' Shakti , Kula Kun'd'alinii shall not get elevated. As such one must understand the meaning of the Mantra. Knowing the meaning of Mantra, is called Mantra Caetanya.
 
 Caetanyarahitah' mantrah' proktavarn'astu kevalam
 Phalam naeva prayacchanti laks'akot'i japaerapi.
 
-Mantra without Mantra Caetanya is ineffective and fruitless. The absence of Mantra Caetanya from the Mantra makes the latter meaningless, it shall only be a composition of words. Without knowing its meaning, Mantra is simply two syllables. You are just repeating it like a parrot, and when misery befalls, you forget the same, like the parrot caught by the cat. If you repeat the Mantra without understanding the meaning, say for thousands and millions of times, it shall have no result. Mantra Caetanya of the Mantra means that the ideation of the Mantra has been imbibed, and Kun'd'alinii has been awakened by catching hold of her tail, but in Sahaja Yoga sa'dhana' she should get elevated, without catching her tail and elevating her. 
-How does it occur? Mantra Caetanya causes the emergence of an urge for spiritual elevation, which means that Bhakti (devotion) has been aroused. Bhakti alone is the ultimate shelter in any Sa'dhana', be it Iishvara Pran'idha'na or Dhya'na. Bhakti means emergence of the intense feeling "I will not remain separate from Him. I will reach Him by any means, I will embrace Him, I will merge in Him, I will be one with Him". As a consequence of this intense urge, mind shall get elevated. When you are doing Dhya'na lesson, the feeling shall be "I will catch hold of my Dhyeya (on whom I am meditating), I will not leave Him." 
+Mantra without Mantra Caetanya is ineffective and fruitless. The absence of Mantra Caetanya from the Mantra makes the latter meaningless, it shall only be a composition of words. Without knowing its meaning, Mantra is simply two syllables. You are just repeating it like a parrot, and when misery befalls, you forget the same, like the parrot caught by the cat. 
 
-Iishvara Pran'idha'na is also a kind of Dhya'na. It is not Japa‑Kriya' (mere repetition). Your Arddha Iishvara Pran'idha'na is Japa‑Kriya', your Cakra‑Cakra'ntara Japa, in which you go from one Cakra to another (as in Cakra Shodhana) is also Japa‑Kriya'. But Iishvara Pran'idha'na is not Japa‑Kriya', it is Dhya'na. Japa has been associated with it to help you in Dhya'na. The process of Dhya'na is always Sa'biija and never Nirbiija. In the latter case, it shall bear no fruit. In your Dhya'na, or Dha'ran'a'‑ Dhya'na, you have to repeat the Mantra physically, Nirbiija will have no effect. All aspects of your Sa'dhana' (Dha'ran'a or Dhya'na) must always be Sabiija. In both the cases that is, be it in the reference of Nirgun'a or Sagun'a, your Dhya'na Kriya' has to be Sabiija. If it is not Sabiija, it shall not be able to inspire ideation. Sabiija means based on Mantra, that, which is associated with Biija‑Mantra, is called Sabiija.
-
-The realization of the Dhyeya (goal) necessitates intense and exclusive urge. "Thou art my Supreme Love. I must realize Thee and I will". This intense urge is a must for a Sa'dhaka. It means that, in the end Sa'dhana' exclusively stands on Bhakti and Bhakti alone Jina'na (knowledge) and Karma (action) remain at the lower stages. At times some people complain of not having progress in Sa'dhana'. It is only because that Bhakti has not yet been inspired in them. The moment you will have this feeling "I will realize Him, and definitely I will find Him, and find Him I must", the moment your devotion shall become strong, then and there your work will be done. It does not require even a day or two. 
-You do your Iishvara Pran'idha'na with aforesaid firm determination and Bhakti, you will instantly have sentient expression of uttering "Hum', hum'". Mind will have an ideational elevation. Your strong Iccha' Shakti will help you in having this ideational elevation. As a consequence, there shall be a vacuum in the Sus'umna' Ka'n'd'a, since your ectoplasmic stuff is also going up under the influence of Iccha' Shakti. Automatically Kun'd'alinii shall get elevated. You need not do the same by catching hold of Her tail. In Vishes'a Yoga, the Sa'dhaka will do it, by catching the tail as well, but in Sahaja Yoga, it shall be a natural consequence. Creation of vacuum at the upper portions of Sus'umna' shall make the elevation of Kun'd'alinii a natural phenomenon, just as water goes up in a tube‑well.
-What is then the second meaning of Mantra‑Caetanya? One of the meanings is to understand the meaning of Is't'a Mantra, and the other implies, elevation of Kun'd'alinii. The moment Bhakti is inspired, no extra endeavour is required for it since Bhakti causes the creation of a vacuum in Sus'umna'. Even Sham'kara'ca'rya, who was a great Jina'na Ma'rgii (follower of the path of knowledge), and not a Bhakti Ma'rgii had to accept ‑
-Moks'aka'ran'a samagra'm bhaktireva gariiyase.
- Bhakti lies superior to all the other means of achieving liberation, since Bhakti resides at the highest sphere (near Sahasra'ra). The Sam'skrta word `gariiyasii' means `above all'.
+If you repeat the Mantra without understanding the meaning, say for thousands and millions of times, it shall have no result. Mantra Caetanya of the Mantra means that the ideation of the Mantra has been imbibed, and Kun'd'alinii has been awakened by catching hold of her tail, but in Sahaja Yoga sa'dhana' she should get elevated, without catching her tail and elevating her. 
 
 
+How does it occur? Mantra Caetanya causes the emergence of an urge for spiritual elevation, which means that Bhakti (devotion) has been aroused. Bhakti alone is the ultimate shelter in any Sa'dhana', be it Iishvara Pranidhana or Dhya'na. Bhakti means emergence of the intense feeling "I will not remain separate from Him. I will reach Him by any means, I will embrace Him, I will merge in Him, I will be one with Him".
 
+As a consequence of this intense urge, mind shall get elevated. When you are doing Dhya'na lesson, the feeling shall be "I will catch hold of my Dhyeya (on whom I am meditating), I will not leave Him." 
+
+Iishvara Pranidhana is also a kind of Dhya'na. It is not Japa‑Kriya' (mere repetition). Your Arddha Iishvara Pranidhana is Japa‑Kriya', your Cakra‑Cakra'ntara Japa, in which you go from one Cakra to another (as in Cakra Shodhana) is also Japa‑Kriya'.
+
+But Iishvara Pranidhana is not Japa‑Kriya', it is Dhya'na. Japa has been associated with it to help you in Dhya'na. The process of Dhya'na is always Sa'biija and never Nirbiija. In the latter case, it shall bear no fruit. In your Dhya'na, or Dha'ran'a'‑ Dhya'na, you have to repeat the Mantra physically, Nirbiija will have no effect. All aspects of your Sa'dhana' (Dha'ran'a or Dhya'na) must always be Sabiija. 
+
+In both the cases that is, be it in the reference of Nirgun'a or Sagun'a, your Dhya'na Kriya' has to be Sabiija. If it is not Sabiija, it shall not be able to inspire ideation. Sabiija means based on Mantra, that, which is associated with Biija‑Mantra, is called Sabiija.
+
+The realization of the Dhyeya (goal) necessitates intense and exclusive urge. "Thou art my Supreme Love. I must realize Thee and I will". This intense urge is a must for a Sa'dhaka. It means that, in the end Sa'dhana' exclusively stands on Bhakti and Bhakti alone Jina'na (knowledge) and Karma (action) remain at the lower stages. At times some people complain of not having progress in Sa'dhana'. 
+
+It is only because that Bhakti has not yet been inspired in them. The moment you will have this feeling "I will realize Him, and definitely I will find Him, and find Him I must", the moment your devotion shall become strong, then and there your work will be done. It does not require even a day or two. 
+
+You do your Iishvara Pranidhana with aforesaid firm determination and Bhakti, you will instantly have sentient expression of uttering "Hum', hum'". Mind will have an ideational elevation. Your strong Iccha' Shakti will help you in having this ideational elevation. 
+
+As a consequence, there shall be a vacuum in the Sus'umna' Kanda, since your ectoplasmic stuff is also going up under the influence of Iccha' Shakti. Automatically Kun'd'alinii shall get elevated. You need not do the same by catching hold of Her tail. In Vishes'a Yoga, the Sa'dhaka will do it, by catching the tail as well, but in Sahaja Yoga, it shall be a natural consequence. Creation of vacuum at the upper portions of Sus'umna' shall make the elevation of Kun'd'alinii a natural phenomenon, just as water goes up in a tube‑well.
+
+What is then the second meaning of Mantra‑Caetanya? 
+
+One of the meanings is to understand the meaning of Is't'a Mantra, and the other implies, elevation of Kun'd'alinii. The moment Bhakti is inspired, no extra endeavour is required for it since Bhakti causes the creation of a vacuum in Sus'umna'. Even Sham'kara'ca'rya, who was a great Jina'na Ma'rgii (follower of the path of knowledge), and not a Bhakti Ma'rgii had to accept ‑ Moks'aka'ran'a samagra'm bhaktireva gariiyase.
+
+Bhakti lies superior to all the other means of achieving liberation, since Bhakti resides at the highest sphere (near Sahasra'ra). The Sam'skrta word `gariiyasii' means `above all'.

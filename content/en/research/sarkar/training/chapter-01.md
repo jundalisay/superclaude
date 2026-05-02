@@ -1,8 +1,9 @@
 ---
-title: "Training"
-weight: 8
-c: "#DE3163"
-description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
+heading: Chapter 1
+title: "Yama Sadhana"
+weight: 4
+c: "indigo"
+description: ""
 icon: "PR Sarkar"
 draft: true
 writer:
@@ -55,10 +56,32 @@ You know, there are Kaos'ikii, Bhaeravii and Bhava’nii Shaktis. Bhaeravii Shak
 
 The Yantra or the machine, the very property of which is to control, is derived from the root verb `Yam' (to control) and has external expression also.
 
-Man is distinguished by his Karma (actions). His psychic activities, thoughts and ideas are also known by the nature of his actions. His external actions will also reflect his ideas and thoughts. If one is a Sa'dhu (saint) internally, it cannot remain hidden. It is bound to be expressed externally also. Yama Sa'dhana' cannot be kept concealed internally, it will be expressed externally. Its abode is internal but its expression is external. It is intro‑extroversal because it has its external expression, though its inspiration lies within. It is a happy link between the inner world and the outer world. So Sa'dhana' begins with Yama because it establishes the relationship of the inner world with the outer world.
+Man is distinguished by his Karma (actions). 
 
-Yama has external expressions but its abode is internal. The outer expression of Yama Sa'dhana' needs internal preparation. Man's external activity is controlled by his mind which again is guided by certain principles, in absence of which confusion as to what to do and what not to do, arises in the mind. One has to win over this confusion, and that which accomplishes such a psychic state is known as Yantra in Tantra. Yama is a bigger Yantra (machine) having certain Upayantras ‑ smaller parts in it. All these parts constitute the Yantra (Yama). In a particular state a machine will work in a particular way.
+His psychic activities, thoughts and ideas are also known by the nature of his actions.
 
-Yama has five Upayantras. Your internal entity comes in contact with external objects. Under such circumstances, actions performed by your body or mind are fully controlled by these five Upayantras.
+His external actions will also reflect his ideas and thoughts. If one is a Sa'dhu (saint) internally, it cannot remain hidden. It is bound to be expressed externally also. 
 
+Yama Sa'dhana' cannot be kept concealed internally, it will be expressed externally. 
 
+Its abode is internal but its expression is external. It is intro‑extroversal because it has its external expression, though its inspiration lies within. It is a happy link between the inner world and the outer world.
+
+So Sa'dhana' begins with Yama because it establishes the relationship of the inner world with the outer world.
+
+Yama has external expressions. But its abode is internal.
+
+The outer expression of Yama Sadhana needs internal preparation. 
+
+Man's external activity is controlled by his mind which again is guided by certain principles.
+
+In absence of these, confusion arises in the mind as to what to do and what not to do.
+
+One has to win over this confusion, and that which accomplishes such a psychic state is known as Yantra in Tantra. 
+
+Yama is a bigger Yantra (machine) having certain Upayantras ‑ smaller parts in it. 
+
+All these parts constitute the Yantra (Yama). In a particular state a machine will work in a particular way.
+
+Yama has 5 Upayantras.
+
+Your internal entity comes in contact with external objects. Under such circumstances, actions performed by your body or mind are fully controlled by these five Upayantras.

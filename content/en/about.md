@@ -44,7 +44,25 @@ Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists alread
 
 Its external implementation is Western science since the West already knows how physical things work as the **effects**. This mastery of cause and effect, East and West, makes it a tool for solving anything.
 
-It is divided into four:
+It is divided into five:
+
+{{< dc t="Superphysics (click to expand)" >}}
+Superphysics has the core principles used in all subsciences.  
+
+## Superlogic
+
+This is the nuts and bolts of Superphysics, based on Socratic Dialectics
+
+## Supermath
+
+This is Superlogic that is confined to numerical instances. 
+
+## Qualimath
+
+This is Superlogic that is applied to qualitative perceptions. We use Sassani math as the example i.e. it should unify with Sassani math eventually since metaphysics is just one.
+{{< /dc >}}
+
+
 
 {{< dc t="Material Superphysics (click to expand)" >}}
 Material Superphysics implements the principles of Superphysics in order to overhaul Newtonian Physics and put it under the Physics or Descartes and Spinoza. This introduces the aethereal monad as the smallest particle in existence.  
@@ -95,7 +113,7 @@ This plots the history of the human species, as split into societies. This serve
 
 
 {{< dc t="Spiritual Superphysics (click to expand)" >}}
-Spiritual Superphysics implements the principles of Superphysics to systematize philosophy, religion, and spirituality
+In one of our pitches, we were asked how did we get Superphysics. Juan replied that he and Jose had gotten samadhi or a direct experience of the Supreme, as a feeling of how the universe works. So we made Spiritual Superphysics to explain how to get samadhi by following their dharma. 
 
 What | Details
 --- | --- 
@@ -139,11 +157,11 @@ We are looking for:
 - publishers interested in our books, and 
 - companies and angels that would like to support a points-based economic system that will preserve their own businesses and capital during such a prolonged crisis. 
 
- <!-- superphysicsorg@gmail.com.  -->
+ <!-- .  -->
 
 ## Contact 
 
-Feel free to contact us via email at pantrypoints@gmail.com
+Feel free to contact us via email at superphysicsorg@gmail.com
 
 
 ## Team

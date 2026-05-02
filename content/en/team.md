@@ -28,7 +28,7 @@ _ | _
 _ | _
 --- | ---
 ![Jose](/photos/jose.jpg) | Jose is an alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
-![Ehmil](/photos/ehmil.jpg) | Ehmil is a geologist. He is an Evangelical and also doesn't care about samadhi. But he is a believer in "manifestation" and the Law of Attraction. He is also  interested in Cartesian Physics for geological applications such as earthquake detection.
+![Ehmil](/photos/ehmil.jpg) | Ehmil is a geologist and a licensed researcher. He suggests ways to make Superphysics palatable to the scientific community, such as by adding equations. He is an Evangelical and also doesn't care about samadhi. But he is a believer in "manifestation" and the Law of Attraction. He is also  interested in Cartesian Physics for geological applications such as earthquake detection.
 ![Adrian](/photos/adrian.jpg) | Adrian is a mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
 
 

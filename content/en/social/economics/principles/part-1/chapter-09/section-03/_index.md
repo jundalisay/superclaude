@@ -1,8 +1,8 @@
 ---
-heading: "Section 2"
+heading: "Section 3"
 title: Overdemand
-description: Problems in Demand are caused by wrong desires
-image: /photos/social/poverty.jpg
+description: Overdemand is going beyond the common interest
+image: /photos/econ/gamble.jpg
 weight: 8
 ---
 

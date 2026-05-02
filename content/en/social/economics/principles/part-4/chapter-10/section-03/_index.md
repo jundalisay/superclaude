@@ -1,9 +1,9 @@
 ---
 heading: "Section 3"
-title: "Solutions to Trade"
+title: "Solutions to Overtrading"
 date: 2015-01-17
-weight: 4
-image: /photos/social/leader.jpg
+weight: 14
+image: /photos/objects/money.jpg
 description: ""
 writer:
   name: Juan

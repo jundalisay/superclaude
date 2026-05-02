@@ -4,7 +4,7 @@ title: "The Usufruct Economy-as-a-Service"
 date: 2025-01-18
 image: "/photos/social/family.jpg"
 description: "We explain how the Usufruct Economy will work and how it integrates with a moneyless points-based system"
-weight: 7
+weight: 4
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,6 +13,8 @@ aliases:
   /social/economics/principles/part-1/chapter-10b
 ---
 
+
+The general Supereconomics solution to demand is the Usufruct Economy, deployed as a service. Thus we call it Economy-as-a-Service or EaaS.
 
 The main problem of unaddressed demand stems from the Negative Force of materialism that blocks the flow of creativity, production, and transportation. 
 
