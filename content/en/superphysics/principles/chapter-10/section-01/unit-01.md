@@ -2,8 +2,8 @@
 heading: "Unit 1"
 title: "Society, Nation, State, Civilization"
 date: 2025-10-07
-weight: 680
-image: /photos/social/team.jpg
+weight: 6
+image: /photos/medieval/spartan.jpg
 description: ""
 writer:
   name: Juan

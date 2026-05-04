@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Group Feeling, Morality, and Justice"
 date: 2025-10-07
 weight: 6
-image: /photos/social/lawmaker.jpg
+image: /photos/social/judge.jpg
 description: 
 writer:
   name: Juan

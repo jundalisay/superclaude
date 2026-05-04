@@ -2,8 +2,8 @@
 heading: "Unit 2"
 title: "Systems of Morality"
 date: 2025-10-07
-weight: 6
-image: /photos/social/lawmaker.jpg
+weight: 7
+image: /photos/social/pass.jpg
 description: 
 writer:
   name: Juan

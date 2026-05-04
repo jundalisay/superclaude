@@ -4,7 +4,7 @@ title: "Entity Rights"
 date: "2022-05-13"
 image: /photos/physics/ai.jpg
 description: ""
-weight: 695
+weight: 6
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

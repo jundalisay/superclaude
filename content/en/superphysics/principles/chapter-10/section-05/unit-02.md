@@ -1,9 +1,9 @@
 ---
-heading: "Section 5"
+heading: "Unit 2"
 title: "The Four Laws of Value and DCIT Model"
 # Flow of Resources within and between Societies"
 date: 2025-10-07
-weight: 697
+weight: 6
 image: /photos/econ/prices.jpg
 description: Supereconomics deals with the sustainable flow of resources within and between societies
 writer:

@@ -2,8 +2,8 @@
 heading: "Unit 2"
 title: "The Common Interest and Jig-Society"
 date: 2025-10-07
-weight: 6
-image: /photos/social/team.jpg
+weight: 7
+image: /photos/objects/jigsaw.jpg
 description: ""
 writer:
   name: Juan
