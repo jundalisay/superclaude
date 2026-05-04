@@ -1,7 +1,7 @@
 ---
 title: "Gymnastics and Medicine"
-heading: "Part 3c"
-weight: 9
+heading: "Part 5"
+weight: 11
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

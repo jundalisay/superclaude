@@ -1,8 +1,8 @@
 ---
 title: "The Doctrine Of Fascism"
-heading: "Part 2"
+heading: "Part 1"
 description: ""
-weight: 146
+weight: 4
 a: "Mussolini"
 c: "firebrick"
 ---
@@ -11,27 +11,43 @@ c: "firebrick"
 <!-- ## BENITO MUSSOLINI (1932) -->
 
 
-Like all sound political conceptions, Fascism is action and it is thought; action in which doctrine is immanent, and doctrine arising from a given system of historical forces in which it is inserted, and working on them from within (1).
+Like all sound political conceptions, Fascism is action and thought.
+- It is action in which doctrine is immanent
+- It is doctrine arising from a given system of historical forces in which it is inserted, and working on them from within.
 
-It has therefore a form correlated to contingencies of time and space; but it has also an ideal content which makes it an expression of truth in the higher region of the history of thought (2).
+It has therefore a form correlated to contingencies of time and space.
 
-There is no way of exercising a spiritual influence in the world as a human will dominating the will of others, unless one has a conception both of the transient and the specific reality on which that action is to be exercised, and of the permanent and universal reality in which the transient dwells and has its being.
+But it has also an ideal content which makes it an expression of truth in the higher region of the history of thought.
 
-To know men one must know man; and to know man one must be acquainted with reality and its laws. There can be no conception of the State which is not fundamentally a conception of life: philosophy or intuition, system of ideas evolving within the framework of logic or concentrated in a vision or a faith, but always, at least potentially, an organic conception of the world.
+There is no way of exercising a spiritual influence in the world as a human will dominating the will of others, unless one has a conception both of:
+- the transient and the specific reality on which that action is to be exercised 
+- the permanent and universal reality in which the transient dwells and has its being
+
+To know men, one must know man.
+
+To know man, one must be acquainted with reality and its laws.
+
+A conception of the State is fundamentally a conception of life.
+- It is philosophy or intuition, system of ideas evolving within the framework of logic or concentrated in a vision or a faith.
+- It is, at least potentially, an organic conception of the world.
 
 
-## SPIRITUAL VIEW OF LIFE
+## Spiritual View Of Life
 
 Thus many of the practical expressions of Fascism such as party organization, system of education, and discipline can only be understood when considered in relation to its general attitude toward life.
 
 
-### A spiritual attitude
+
+### A Spiritual Attitude
 
 Fascism sees in the world not only those superficial, material aspects in which man appears as an individual, standing by himself, self-centered, subject to natural law, which instinctively urges him toward a life of selfish momentary pleasure; 
 
 It sees not only the individual but the nation and the country; individuals and generations bound together by a moral law, with common traditions and a mission which suppressing the instinct for life closed in a brief circle of pleasure, builds up a higher life, founded on duty, a life free from the limitations of time and space, in which the individual, by self-sacrifice, the renunciation of self-interest, by death itself, can achieve that purely spiritual existence in which his value as a man consists.
 
-The conception is therefore a spiritual one, arising from the general reaction of the century against the materialistic positivism of the XIXth century. 
+The conception is therefore a spiritual* one, arising from the general reaction of the century against the materialistic positivism of the XIXth century. 
+
+{{< n n="Mussolini's 'spiritual' here really means abstract or metaphysical. He calls it spiritual to impose it as a dogma that must be followed" >}}
+
 
 Anti-positivistic but positive; neither skeptical nor agnostic; neither pessimistic nor supinely optimistic as are, generally speaking, the doctrines (all negative) which place the center of life outside man; whereas, by the exercise of his free will, man can and must create his own world.
 

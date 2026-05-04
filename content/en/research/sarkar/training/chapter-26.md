@@ -5,7 +5,6 @@ weight: 65
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -65,17 +64,25 @@ The Dhya'na, which is practised at this Cakra is Anudhya'na.
 
 Anudhya'na means `to make the mind run after'. As a result thereof, the subconscious mind will get devoted forcibly. Whether in Dhya'nam or in Iishvara Pran'idha'na or in Japa‑Kriya', two entities, you and your object of ideation are always existent. 
 
-In all those cases you are to catch hold of your Dhyeya by vigorous mental efforts. When you apply all your mental force to do that, there will be created a psycho‑spiritual vacuum ‑ a clear gap. Consequently, the Kula Kun'd'alinii rises up quickly. (Kula Kun'd'alinii is a vibrational expression). To fill up the above‑mentioned gap, she rises upwards. Supposing she rises up to Sva'dhis't'ha'na or Man'ipura, she got a permanently natural passage up to that point. 
+In all those cases you are to catch hold of your Dhyeya by vigorous mental efforts. When you apply all your mental force to do that, there will be created a psycho‑spiritual vacuum ‑ a clear gap. Consequently, the Kula Kundalinii rises up quickly. (Kula Kundalinii is a vibrational expression). To fill up the above‑mentioned gap, she rises upwards. Supposing she rises up to Svadhisthana or Man'ipura, she got a permanently natural passage up to that point. 
 
-If next time one practises intense meditation, the natural passage will extend up to the higher Cakras. Thus in the process of extension of the natural passage step by step, it will extend up to Sahasra'ra ‑ the Kun'd'alinii Shakti will merge into the controlling point of the Sahasra'ra Cakra; the Shakti becomes identified with Shiva. While doing Dhya'na and Iishvara Pran'idha'na, the earnest desire to get at Him, to catch hold of Him with an intense urge must be conspicuously present, otherwise the perfect success in Dhya'na is never possible. First, you should see Him, next you should try to run after Him vigorously; otherwise, you will follow a wrong track and dash against a wall.
+If next time one practises intense meditation, the natural passage will extend up to the higher Cakras. Thus in the process of extension of the natural passage step by step, it will extend up to Sahasrara ‑ the Kundalinii Shakti will merge into the controlling point of the Sahasra'ra Cakra; the Shakti becomes identified with Shiva. While doing Dhya'na and Iishvara Pran'idha'na, the earnest desire to get at Him, to catch hold of Him with an intense urge must be conspicuously present, otherwise the perfect success in Dhya'na is never possible. First, you should see Him, next you should try to run after Him vigorously; otherwise, you will follow a wrong track and dash against a wall.
 
 Whether in Dharana or in Dhya'na, mind must be concentrated at a fixed place. Inside the Sus'umna' Na'd'ii, different Cakras are located at different junctures. Dharana or Dhya'na is done on these Cakras. 
 
-In each of these Cakras, there is a lotus or Kamala. These Kamalas may face front, or behind, upwards or downwards. When the Kamala faces front, it is called `Jiivana Kamala', the one facing behind in Maran'a Kamala. One, who meditates on Maran'a Kamala loses longevity; he dies soon after. Many Yogiis accept "Iccha' Mrtyu" by meditating on the Maran'a Kamala. Hence, meditation on this Kamala is strictly prohibited for both family men and Sannya'siis. 
+In each of these Cakras, there is a lotus or Kamala. These Kamalas may face front, or behind, upwards or downwards. When the Kamala faces front, it is called `Jiivana Kamala', the one facing behind in Maran'a Kamala. One, who meditates on Marana Kamala loses longevity; he dies soon after. Many Yogiis accept "Iccha' Mrtyu" by meditating on the Maran'a Kamala. Hence, meditation on this Kamala is strictly prohibited for both family men and Sannya'siis. 
 
 The Kamala facing downwards is Adho Kamala. If one meditates on this Kamala, one's mental propensities flow towards crude objects, one becomes degraded. This is also to be avoided. According to Avidya' Tantra, if one wishes to harm anybody, one should meditate on Adhokamala. It is harmful for a Sa'dhaka. You who are the followers of Vidya' Sa'dhana', must not follow the Avidya' Tantra. But anybody can practise meditation on U'rdhva Kamala and Jiivana kamala. 
 
-In case of Guru Cakra and Sahasra'ra, one should meditate on U'rdhva Kamala only and in other cases, only the Jiivana Kamala should be used. But the world‑renouncing Sannya'siis, if they so desire, may meditate on U'rdhva Kamala. But, preferably, only the Jiivana Kamala should be used as a rule. The difference in results of Sa'dhana' on U'rdhva Kamala and Jiivana Kamala is that the worldly mindedness of concerning practitioner vanishes from his mind. But if one does on Jiivana Kamala, people may adjust between family life and spiritual life.
+In case of Guru Cakra and Sahasrara, one should meditate on U'rdhva Kamala only and in other cases, only the Jiivana Kamala should be used. But the world‑renouncing Sannya'siis, if they so desire, may meditate on U'rdhva Kamala. 
 
-In Guru Cakra & Sahasra'ra Cakra, there is only U'rdhva Kamala. Some persons hold that those two Cakras are separate, while others hold that they belong to the same Cakra. Actually speaking, Guru Cakra is the internal side of the Sahasra'ra Cakra. The Karn'ika' of the Sahasra'ra Cakra contains within it the Guru Cakra. In Sahaja Yoga, no mention has been made of any Kamala. While actually there is a one thousand petalled lotus. Each layer contains 50 petals in 20 layers. While the Guru Cakra is 100 petalled lotus. Guru Cakra is within the Sahasra'ra Cakra. That is why, the Guru Cakra is called the internal side of the Sahasra'ra Cakra.
+But, preferably, only the Jiivana Kamala should be used as a rule. The difference in results of Sa'dhana' on U'rdhva Kamala and Jiivana Kamala is that the worldly mindedness of concerning practitioner vanishes from his mind. But if one does on Jiivana Kamala, people may adjust between family life and spiritual life.
+
+In Guru Cakra & Sahasrara Cakra, there is only Urdhva Kamala. 
+
+Some persons hold that those two Cakras are separate, while others hold that they belong to the same Cakra. Actually speaking, Guru Cakra is the internal side of the Sahasra'ra Cakra. 
+
+The Karnika of the Sahasrara Cakra contains within it the Guru Cakra. In Sahaja Yoga, no mention has been made of any Kamala. While actually there is a one thousand petalled lotus. Each layer contains 50 petals in 20 layers. 
+
+While the Guru Cakra is 100 petalled lotus. Guru Cakra is within the Sahasra'ra Cakra. That is why, the Guru Cakra is called the internal side of the Sahasra'ra Cakra.
 

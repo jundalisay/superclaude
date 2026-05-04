@@ -1,7 +1,7 @@
 ---
 title: "The Method of Education"
 heading: "Part 3c"
-weight: 9
+weight: 7
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

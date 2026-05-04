@@ -4,6 +4,7 @@ title: "The Divine Powers"
 description: "The 3 Internal Limbs are Dharana, Dhyana, and Samadhi"
 c: "indigo"
 weight: 8
+icon: "Patanjali"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 56
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -121,7 +121,7 @@ As a consequence men sleep during the night under the influence of Dhananjaya, a
 
 Pranayama physically affects the glands, nerves, nerve‑ fibres, sub‑glands and also the flow of all fluids (Rasa, Rakta urine etc.), that is, all the liquid matter of the entire body. 
 
-Pranayama is always done after having the mind concentrated over some Cakra which gets affected directly. In ordinary Pranayama more importance is paid to Ana'hata, but under especial circumstances and at particular times, you concentrate your mind over other Cakras as well, even on Mu'la'dha'ra and Sva'dhis't'ha'na. In Vishes'a Yoga mind is concentrated on several more Cakras during Pranayama, as a consequence all these Cakras get benefited. 
+Pranayama is always done after having the mind concentrated over some Cakra which gets affected directly. In ordinary Pranayama more importance is paid to Ana'hata, but under especial circumstances and at particular times, you concentrate your mind over other Cakras as well, even on Mu'la'dha'ra and Svadhisthana. In Vishes'a Yoga mind is concentrated on several more Cakras during Pranayama, as a consequence all these Cakras get benefited. 
 
 In spiritual practice you find that on the physical side Ana'hata gets the first chance, since Pra'n'a'‑Va'yu is basically concerned with the lungs and heart, whose controlling point lies in Ana'hata. But you will also find that the controlling point is also affected in spiritual Pranayama. This directly affects the A'jina' Cakra (Pituitary), that is, the conscious mind. 
 
@@ -129,7 +129,7 @@ You will find with a Sa'dhaka who practises Pranayama a very basic characteristi
 
 It also affects the entire body, since the controlling rhythm is the same. The first Pa'n'd'ava, Yudhis't'hira suggested that concentrating the mind on controlling points Lam', Vam', Ram', Yam', Ham', T'ham' etc. would bring better results. 
 
-Yogiis experienced practically that this had a better impact. Since then, it has been decided that the point of concentration during Pranayama should be the controlling point of a particular Cakra ‑ if in Mu'la'dha'ra, it should be Lam', for Sva'dhis't'ha'na ‑ Vam', for Man'ipura ‑ Ram', for Ana'hata ‑ Yam', for Vishuddha‑Ham' and for A'jina' ‑ T'ham'. since then it is known as `Yudhis't'hira Vidya'.
+Yogiis experienced practically that this had a better impact. Since then, it has been decided that the point of concentration during Pranayama should be the controlling point of a particular Cakra ‑ if in Mu'la'dha'ra, it should be Lam', for Svadhisthana ‑ Vam', for Man'ipura ‑ Ram', for Ana'hata ‑ Yam', for Vishuddha‑Ham' and for A'jina' ‑ T'ham'. since then it is known as `Yudhis't'hira Vidya'.
 
 If somebody is practising Pranayama to have control over five internal and five external va'yus, with no aim to have its impact on the mind and spirit, he/she achieves control over the respiratory organs and the limbs. If he is pracising Kumbhaka Pranayama (Shu'nya or Pu'rn'a) and is able to do this is Pranayama for a longer time, he can live beneath the earth for 10, 20 or 30 days or can live without food. Under such circumstances, body is just like a dead body, since Pra'n'a ‑ Shakti has been suspended. 
 

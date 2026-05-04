@@ -5,7 +5,6 @@ weight: 60
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -26,7 +25,7 @@ To make the mind firmly located in an area or region, is Dha'ran'a'. Herein a St
 
 When you concentrate your mind in some Cakra, subconscious directly associates itself with  those Cakras and affects the conscious mind with the help of Iccha' Shakti, and you are able to perform Dha'ran'a'. Suppose you have concentrated at the controlling point of A'jina' Cakra (T'ham').
 
-Mind will go behind at the centre of subconscious and from there it shall control Lalana', Vishuddha, Ana'hata, Man'ipura, Sva'dhis't'ha'na and Mula'dha'ra Cakras, thus mind associates itself with all the lower Cakras.
+Mind will go behind at the centre of subconscious and from there it shall control Lalana', Vishuddha, Ana'hata, Man'ipura, Svadhisthana and Mula'dha'ra Cakras, thus mind associates itself with all the lower Cakras.
 
 Suppose you are doing Dha'ran'a' at the controlling point of Mu'la'dha'ra Cakra (Lam'), which is closely connected with Sus'umna' Ka'n'd'a, and thereby having an effective association with A'jina' Cakra and mind.
 

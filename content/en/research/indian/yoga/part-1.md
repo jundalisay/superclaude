@@ -6,6 +6,7 @@ writer:
   name: Patanjali translated by Juan
   url: https://www.linkedin.com/in/jundalisay/
 c: "indigo"
+icon: "Patanjali"
 weight: 4
 ---
 

@@ -1,14 +1,17 @@
 ---
-heading: Proposition 7  Theorem 5 
-title: "Projecticle"
+heading: Proposition 7 Theorem 5 
+title: "The Motion of Bodies Resisted in the Duplicate Ratio of Their Velocities"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 icon: "Newton"
-weight: 4
+weight: 7
 writer:
   name: Isaac Newton
   url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
+
+
+## Proposition 7 Theorem 5
 
 
 If spherical bodies are resisted in the duplicate ratio of their velocities, in times which are as the first motions directly, and the first resistances inversely, they will lose parts of their motions proportional to the wholes, and will describe spaces proportional to those times and the first velocities conjunctly.

@@ -5,7 +5,6 @@ weight: 77
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -13,20 +12,28 @@ writer:
 
 
 
+## Samskaras
 
-13 Sam'ska'ras. Then after getting sufficient happiness you feel that more of that is not needed: it is called Tos'a. So hapiness and contentment are not one and the same thing. The wicked and the sinners used to catch-hold of the ----------
+After getting sufficient happiness you feel that more of that is not needed: it is called Tosa.
 
-15 Sama'ja Sha'stra will vary. If it is an A'ptava'kya or [according to the order] on the authority
-of the A'ptava'kya, the Sama'ja Sha'stra will be accepted as Pra'ptava'kya. If it is accepted as 
+So hapiness and contentment are not one and the same thing. The wicked and the sinners used to catch-hold of the ----------
+
+15 Sama'ja Sha'stra will vary. 
+
+If it is an A'ptava'kya or [according to the order] on the authority of the A'ptava'kya, the Sama'ja Sha'stra will be accepted as Pra'ptava'kya. If it is accepted as 
 -----------
 
 23 named after the same. The Pra'n'a Shakti with whose help, people expand or contract their limbs, is known as Ku'rm [a'sana] > -va'yu. This is also known as Kurma'sana.
 
-18. SAHAJA UTKAT'A'SANA: It helps in having a balance of the body. 19. SHALABHA'SANA: It streng ----------
+
+18. SAHAJA UTKAT'A'SANA: It helps in having a balance of the body. 
+
+19. SHALABHA'SANA: It streng ----------
 31 established. 
 
 Jina'tr Shakti is transcendental, omnipresent and [ervading.] > all-pervading.
 His absolute speed has got no difference with the absolute pause but the flow of Kriya' 
+
 -----------
 
 31 Dhya'na'sana. Those who were imparted the lesson of Dhya'na were told to sit in Siddha'sana and those who [knew] > were not, were told to sit in Padma'sana. All were then told to fix up their minds at the prescribed "Is't'a Cakra" but Class on Senior Acarya Diary by Ac Ragunathji ANANDA NAGAR,3,4,5 JAN 1992
@@ -100,9 +107,6 @@ Satya is essential for Iccha Shakti or will power.
 Asteya can be physical or mental,direct or indirect.
 Indirect is when I am not giving what is due to someone.
 
-
-
-
 The controlling point of iccha shakti, lies in the subconscious.
 With Rjuta it will be stronger.
 
@@ -123,4 +127,3 @@ When a wrong objects comes, must be diverted into psycho-spiritual:
 1.Visulalize the color and smell of the object
 2.Make a lotus flower of that color and smell
 3.Surrender it into Baba's feet and forget about it
- 

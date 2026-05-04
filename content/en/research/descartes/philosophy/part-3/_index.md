@@ -6,6 +6,7 @@ heading: "Part 3"
 weight: 12
 description: "This part talks about the principles of macro-phenomena such as heavenly bodies"
 c: "darkgoldenrod"
+icon: "Rene Descartes"
 ---
 
 

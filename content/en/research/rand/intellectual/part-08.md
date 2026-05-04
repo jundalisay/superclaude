@@ -44,20 +44,17 @@ they were functioning in a philosophical vacuum and that the currency they were
 passing was rubber checks which would bounce, some day, wrecking their
 culture.
 
-One can never know, only surmise, what tragedies, despair and silent
-devastation have been going on for over a century in the invisible underground
-of the intellectual professions—in the souls of their practitioners—nor what
-incalculable potential of human ability and integrity perished in those hidden,
+One can never know, only surmise, what tragedies, despair and silent devastation have been going on for over a century in the invisible underground
+of the intellectual professions—in the souls of their practitioners—nor what incalculable potential of human ability and integrity perished in those hidden,
 lonely conflicts. The young minds who came to the field of the intellect with the
 inarticulate sense of a crusade, seeking rational answers to the problems of
-achieving a meaningful human existence, found a philosophical con game in
-place of guidance and leadership. Some of them gave up the field of ideas, in
+achieving a meaningful human existence, found a philosophical con game in place of guidance and leadership. Some of them gave up the field of ideas, in
 hopeless, indignant frustration, and vanished into the silence of subjectivity.
-Others gave in, and saw their eagerness turn into bitterness, their quest into
-apathy, their crusade into a cynical racket. They condemned themselves to the
-chronic anxiety of a con man dreading exposure when they accepted the roles of
-enlightened leaders, while knowing that their knowledge rested on nothing but
+
+Others gave in, and saw their eagerness turn into bitterness, their quest into apathy, their crusade into a cynical racket. They condemned themselves to the
+chronic anxiety of a con man dreading exposure when they accepted the roles of enlightened leaders, while knowing that their knowledge rested on nothing but
 fog and that its only validation was somebody’s feelings.
+
 They, the standard bearers of the mind, found themselves dreading reason as
 an enemy, logic as a pursuer, thought as an avenger. They, the proponents of
 ideas, found themselves clinging to the belief that ideas were impotent: their
@@ -118,8 +115,9 @@ no further distinctions or inquiries necessary.
 With their eyes still fixed on the Middle Ages, they were maintaining this in
 the midst of a period when a greater amount of wealth than had ever before
 existed in the world was being brought into existence all around them. If the men
-who produced that wealth were thieves, from whom had they stolen it? Under all
-the shameful twists of their evasions, the intellectuals’ answer was: from those
+who produced that wealth were thieves, from whom had they stolen it? 
+
+Under all the shameful twists of their evasions, the intellectuals’ answer was: from those
 who had not produced it. They were refusing to acknowledge the industrial
 revolution (they are still refusing today). They were refusing to admit into their
 universe what neither Attila nor the Witch Doctor can afford to admit: the
@@ -133,10 +131,8 @@ guns, they called him an autocrat. Evading the difference between trade and
 force, they called him a tyrant. The most crucial issue they had to evade was the
 difference between the earned and the unearned.
 
-Ignoring the existence of the faculty they were betraying, the faculty of
-discrimination, the intellect, they refused to identify the fact that industrial
-wealth was the product of man’s mind: that an incalculable amount of
-intellectual power, of creative intelligence, of disciplined energy, of human
+Ignoring the existence of the faculty they were betraying, the faculty of discrimination, the intellect, they refused to identify the fact that industrial
+wealth was the product of man’s mind: that an incalculable amount of intellectual power, of creative intelligence, of disciplined energy, of human
 genius had gone into the creation of industrial fortunes. They could not afford to
 identify it, because they could not afford to admit the fact that the intellect is a
 practical faculty, a guide to man’s successful existence on earth, and that its task

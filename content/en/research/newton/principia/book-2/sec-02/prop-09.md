@@ -1,10 +1,10 @@
 ---
 heading: Proposition 9
-title: "Projecticle"
+title: "Theorem on the Time of Ascent and Descent in a Resisting Medium"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 c: "firebrick"
 icon: "Newton"
-weight: 11
+weight: 13
 writer:
   name: Isaac Newton
   url: https://en.wikipedia.org/wiki/Isaac_Newton

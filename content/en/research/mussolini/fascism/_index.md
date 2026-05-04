@@ -1,5 +1,5 @@
 ---
-title: "The Doctrine of Fascis,"
+title: "The Doctrine of Fascism"
 heading: "Unenlightened"
 description: ""
 weight: 146

@@ -1,9 +1,9 @@
 ---
-heading: Proposition 8
-title: "Projecticle"
+heading: Proposition 8 Theorem 6
+title: "The Geometrical Progression of Absolute Forces in a Resisting Medium"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 author: Newton
-weight: 4
+weight: 11
 writer:
   name: Isaac Newton
   url: https://en.wikipedia.org/wiki/Isaac_Newton
@@ -12,7 +12,7 @@ writer:
 
 
 
-## PROPOSITION 8 THEOREM 6
+## Proposition 8 Theorem 6
 
 
 If a body in an uniform medium, being uniformly acted upon by the force of gravity, ascends or descends in a right line; and the whole space described be distinguished into equal parts, and in the beginning of each of the parts (by adding or subducting the resisting force of the medium to or from the force of gravity, when the body ascends or descends] you collect the absolute forces; I say, that those absolute forces are in a geometrical progression.

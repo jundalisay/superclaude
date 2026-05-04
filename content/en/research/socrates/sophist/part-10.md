@@ -1,6 +1,6 @@
 ---
 title: "Motion and Rest"
-heading: "Part 11"
+heading: "Part 10"
 weight: 26
 writer:
   name: Plato

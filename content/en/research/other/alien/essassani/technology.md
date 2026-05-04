@@ -12,6 +12,20 @@ author: Consolidated from Bashar
 Sassani clothing is nano tech that is programmed for many things.
 
 
+## Spacetime Antenna
+
+Make a Sierpiński gasket made out of copper.
+
+Add energy into it so that it will amplify the energy. It acts as a step down transformer that taps high energies.
+
+A wishing machine needs a gravity well. 
+
+
+## Pyramids
+
+The King's chamber or box is the power point of the pyramid. It focuses the vibrations to experience out of body travel. This was used by priests to develop tech.
+
+
 
 ## Light based communication will replace Radio
 

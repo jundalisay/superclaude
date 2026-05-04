@@ -4,6 +4,7 @@ title: "The Path To Realization"
 description: "The Path To Realization is achieved through yama and niyama"
 c: "indigo"
 weight: 6
+icon: "Patanjali"
 ---
 
 

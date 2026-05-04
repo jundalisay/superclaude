@@ -1,7 +1,7 @@
 ---
 title: "Debates and Arguments"
 heading: "Part 4"
-weight: 8
+weight: 9
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

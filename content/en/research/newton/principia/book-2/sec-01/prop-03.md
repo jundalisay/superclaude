@@ -1,7 +1,7 @@
 ---
-heading: Proposition 3 Problem 1
+heading: Proposition 3
 linkTitle: Prop 3
-title: "Proposition 3 Problem 1"
+title: "The Motion of a Falling Body"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"

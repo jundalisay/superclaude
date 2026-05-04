@@ -5,7 +5,7 @@ weight: 52
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -46,11 +46,11 @@ Satsaunga leads to liberation and Asatsaunga causes bondage. Leaving Asatsaunga 
 
 Physical Mudra's can be innumerable since one can express one's innumerable ideations through innumerable modes, everyone of which can be called a Mudra'. Indian dance is based on Mudra' which the dancer employs to express his/her different ideations. Thus oriental dance is based on Mudra', whereas the occidental one is basically rhythmic. Mudra' is a strong medium of expressing Bha'va, where as rhythm is a very weak medium.
 
-In the field of Sa'dhana', only those Mudra's have been accepted which have a psycho‑spiritual importance. Some of the ancient Ta'ntrikas did not understand the meaning of Madya. Hormone secretion from the pineal gland is divine Madya or nectar, which is extremely internal and not at all external. But those who were evil‑minded, started drinking wine, in the name of Tantra. Kun'd'alinii is sleeping divinity and Kun'd'alinii also means something coiled. Due to utter ignorance, some of them would eat Jilebii (Coiled Sweet) and feel that they are doing Kun'd'alinii Sa'dhana'. Id'a', Piungala' and Sus'umna' are also known as Gaunga', Yamuna' and Sarasvatii. They meet at Mu'la'dhara and change direction from A'jina. Mu'la'dha'ra is known as Yukta Triven'ii and A'jina' as Mukta Triven'ii, to which the Sa'dhakas elevate their Kula Kun'd'alinii.
+In the field of Sa'dhana', only those Mudra's have been accepted which have a psycho‑spiritual importance. Some of the ancient Ta'ntrikas did not understand the meaning of Madya. Hormone secretion from the pineal gland is divine Madya or nectar, which is extremely internal and not at all external. But those who were evil‑minded, started drinking wine, in the name of Tantra. Kundalinii is sleeping divinity and Kundalinii also means something coiled. Due to utter ignorance, some of them would eat Jilebii (Coiled Sweet) and feel that they are doing Kundalinii Sa'dhana'. Id'a', Piungala' and Sus'umna' are also known as Gaunga', Yamuna' and Sarasvatii. They meet at Mu'la'dhara and change direction from A'jina. Mu'la'dha'ra is known as Yukta Triven'ii and A'jina' as Mukta Triven'ii, to which the Sa'dhakas elevate their Kula Kundalinii.
 
 (IN SUPPLEMENT TO CARYA'CARYA III)
 
-1. UD'D'AYANA: It affects the pancreas, kidney, lower belly, Sva'dhis't'ha'na and Man'ipura Cakra, and helps in curing the diseases of the region e.g. hydrocele, hernia, piles, and also stomach diseases like dysentery, Diarrhoea; especially incurable dysentry can be cured if practised for longer duration.
+1. UD'D'AYANA: It affects the pancreas, kidney, lower belly, Svadhisthana and Man'ipura Cakra, and helps in curing the diseases of the region e.g. hydrocele, hernia, piles, and also stomach diseases like dysentery, Diarrhoea; especially incurable dysentry can be cured if practised for longer duration.
 
 Persons having disease in the upper portion of body should not do it, since while pushing the lower belly and belly, upper portion is affected. So persons suffering from advanced stage of T.B. should not do this A'sana. But after they are cured they should do it, since it keeps the stomach in a sound condition which shall help a patient of T.B.
 
@@ -107,6 +107,6 @@ All the above three have to be practised together otherwise the purpose is not s
 
 a) One is difficult and includes Netti, Dhaotii and Vasti.
 
-b) Sit in Utkat'a'sana. Catch your waist, with your hands. Pull in mentally Mu'la'dha'ra, Sva'dhis't'ha'na and Mani'ipura, simultaneously. Pull out, again pull in, pull out, till you feel some pain, after which lie down in Shava'sana, you will have no pain just after.
+b) Sit in Utkat'a'sana. Catch your waist, with your hands. Pull in mentally Mu'la'dha'ra, Svadhisthana and Mani'ipura, simultaneously. Pull out, again pull in, pull out, till you feel some pain, after which lie down in Shava'sana, you will have no pain just after.
 
 It affects the belly and lower belly.

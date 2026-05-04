@@ -3,8 +3,6 @@ title: Puja
 description: "Taoism came from Tantra from Tibet"
 image: "/photos/meta/yinyang.jpg"
 draft: true
-# image: "/graphics/meta/shivashakti.jpg"
-# youtube: 6R4PY3kPQD8
 ---
 
 

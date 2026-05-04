@@ -34,7 +34,7 @@ Key findings include:
 - **Coordinated timing**: Multiple transposable elements activated simultaneously in response to cellular conditions
 - **Self-regulation**: Organisms appeared to control when and where genetic reorganization occurred
 
-McClintock's work suggested that organisms actively modify their own heredity—a form of biological agency that contradicts the passive, random mutation model of neo-Darwinism.
+McClintock's work suggested that organisms **actively** modify their own heredity—a form of biological agency that contradicts the passive, random mutation model of neo-Darwinism.
 
 
 ## The Problem and the Solution of Descartes and Asia
@@ -65,8 +65,8 @@ In Descartes' framework:
 
 This concept directly parallels:
 - **Chi (氣)** in Taoism—the vital energy flowing through meridians
-- **Vayu** in Hinduism—the life force circulating through the body
-- **Prana** in yogic traditions—the organizing principle of life
+- **Vayu** in Hinduism—the life force circulating through the body (In Bio Superphysics, this is part of the Air Element)
+- **Prana** in yogic traditions—the vital energy (In Bio Superphysics, this is part of the Fire Element)
 
 
 ## The Pineal Gland and Evolutionary Control
@@ -90,24 +90,28 @@ This framework explains why Asian healing techniques that work with chi and chak
 - **Qigong and tai chi**: Cultivate and direct chi for health and vitality
 - **Yoga**: Works with prana through breath and posture to influence bodily processes
 
-These aren't merely psychological—they represent conscious engagement with the same mechanisms that direct cellular modification and, potentially, evolutionary change.
+This consistent with Descartes' mechanistic physics and in mechanistic yoga where doing **PHYSICAL** yoga poses affects **METAPHYSICAL** feelings and behavioral change.
+- Accumulated, sustained, and intense behavioral changes lead to physical changes as evolution
+
+<!-- where 
+These aren't merely psychological—they represent conscious engagement with the same mechanisms that direct cellular modification and, potentially, evolutionary change. -->
+
+{{< i s="/photos/medieval/sentinelese.jpg" a="Savages" c="Some humans don't have the desire to evolve. Nature lets them be." >}}
 
 
 ## Reclaiming Agency: Descartes + Lamarck
 
 The synthesis of Descartes' animal spirits with Lamarck's self-modification presents an empowering positive alternative to neo-Darwinian randomness, negativity, and helplessness:
 
-**Neo-Darwinian view**: 
-- Random mutations occur by chance
-- Natural selection filters variants
-- Organisms are passive recipients of change
-- Control is external (environmental pressure)
 
-**Descartes-Lamarck synthesis**:
-- Organisms actively modify themselves
-- Animal spirits/chi direct cellular and genetic changes
-- Organisms respond purposively to challenges
-- Control is internal (organismal self-direction)
+
+Neo-Darwinian View 🇬🇧 (Negative Force) | Descartes-Lamarck synthesis 🇫🇷 (Positive Force)
+--- | ---
+Random mutations occur by chance | Organisms actively modify themselves by desire or willpower
+Natural selection filters variants | Animal spirits/chi direct cellular and genetic changes
+Organisms are passive recipients of change | Organisms respond purposively to challenges
+Control is external (environmental pressure) | Control is internal (organismal self-direction)
+
 
 This returns **agency to the organism itself**. Evolution becomes something organisms *do* rather than something that *happens to them*.
 
@@ -116,19 +120,25 @@ This returns **agency to the organism itself**. Evolution becomes something orga
 
 This perspective suggests:
 
-1. **Top-down causation**: Organismal state influences genetic organization, not just bottom-up from DNA
+1. **Top-down causation**: Abstract Mental state influences genetic organization, with DNA being the physical manifestation of that mental state or pattern (called as a template in the pineal gland by the Sassani)
 2. **Purposive adaptation**: Organisms can direct their own modification toward functional ends
 3. **Consciousness and evolution**: Awareness and intention may influence biological change
 4. **Healing and transformation**: We may have more control over our biology than modern medicine assumes
 
 
-## The Path Forward
+## Bye Bye, Negativity!
 
 Modern biology has accumulated vast molecular detail since McClintock's work, but it has not explained the *mechanism* she observed. 
 
 The answer is not in more molecular reduction, but in recognizing the metaphysical principles described by Descartes, Lamarck, and ancient wisdom traditions.
 
 This is in line with a core Superhysics principle that physicality is directed ultimately by metaphysicality. 
+
+
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1 Part 2 Section 2" >}}
+It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence. In other words, **nothing we imagine is absolutely impossible**.
+{{< /q >}}
+
 
 You get out of your bed to go to work because you BELIEVE you need to go to work to earn money to live. 
 
@@ -140,7 +150,7 @@ So we use Positive, spiritual feelings to get positive ideas and push them to di
 
 In this case, we push Descartes-Lamarck over Darwin so that people can choose how to evolve, change, and heal themselves instead of being slaves to chance and uncertainty. 
 
-While Darwin corrupted human mentality into dog-eat-dog and survival of the fittest, Descartes-Lamarck purifies and revitalizes it by giving empowerment to finding one's passion and purpose in physical existence.
+While Darwin corrupted human mentality into dog-eat-dog and survival of the fittest, Descartes-Lamarck purifies and revitalizes it by giving empowerment to finding one's passion and purpose in physical existence -- if you don't like your current state, then change and evolve!
 
 
 

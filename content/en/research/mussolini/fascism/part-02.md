@@ -2,7 +2,7 @@
 title: "Fascist State As A Spiritual Force"
 heading: "Part 2"
 description: "The Fascist State, as a higher and more powerful expression of personality, is a force, but a spiritual one. It sums up all the manifestations of the moral and intellectual life of man. "
-weight: 146
+weight: 14
 c: "firebrick"
 a: "Mussolini"
 ---

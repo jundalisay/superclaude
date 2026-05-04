@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 29"
-title: "Guru Mantra"
+title: "Videhii Samskara (Unembodied Samskara)"
 weight: 74
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -13,9 +13,7 @@ writer:
 
 
 
-## VIDEHII SAM'SKA'RA (UNEMBODIED SAM'SKA'RA)
-
-Spoken by Ba'ba' at Ranchi Jagrti on 16th May 1969
+Spoken by Baba at Ranchi Jagrti on 16th May 1969
 
 Physical death is when the Atma and mind are detached from the body.
 
@@ -56,7 +54,7 @@ But if Parama Purus'a gives some power of expression, they can express very litt
 
 ## Videhii Mana (Unembodied Mind)
 
-Spoken by Ba'ba' on 17 May 1969 at Ranchi Jagrti: 
+Spoken by Baba on 17 May 1969 at Ranchi Jagrti: 
 
 In a living body, Atma functions as a witness to whatever the mind does with the help of brain and Indriyas. When the mind thinks in terms of stealing and accordingly hands actually steal something, Atma immediately comes to know of it. 
 
@@ -71,9 +69,9 @@ It is the mind that controls the nerve-cells and nerve-fibres. But with death, o
 But in case of actual death, this link is also cut off. At that time, the A'tma' which remains associated with the roaming Videhii Mana is called Sutratma and Parama'tma' who witnesses the Sutratma is known as Sutreshvara. 
 
 
-## SECRET OF BLESSING
+## Secret Of Blessing
 
-(Spoken by Ba'ba' on 30th May, 1969 at Ranchi Ja'grti): 
+(Spoken by Baba on 30th May, 1969 at Ranchi Ja'grti): 
 
 **The mental and spiritual progress of a Sadhaka depends on the degrees of control, he possesses over the 50 Vrttis.** 
 
@@ -106,9 +104,9 @@ This should not be done in all cases.
 Hence, it is not desirable to accept Pranamas of everybody. 
 
 
-## HORMONE SECRETION 
+## Hormone Secretion 
 
-(Spoken by Ba'ba' on 29th May, 1969 at Ranchi Jagrti) 
+(Spoken by Baba on May 29, 1969 at Ranchi Jagrti) 
 
 A few glands, when joined together, form a plexus. 
 
@@ -124,8 +122,8 @@ As a rule, the higher Cakra controls the lower Cakras.
 
 Thus:
 - the Svadhisthana Cakra controls the Muladhara
-- the Manipura controls the Sva'dhis't'ha'na and Mu'la'dha'ra
-- the Anahata controls the Man'ipura, Sva'dhis't'ha'na and Mu'la'dha'ra
+- the Manipura controls the Svadhisthana and Mu'la'dha'ra
+- the Anahata controls the Man'ipura, Svadhisthana and Mu'la'dha'ra
 - the Vishuddha controls the four lower Cakras
 - the Ajina controls the lower 5 Cakras and finally the Pineal Gland (Sahasrara Cakra) controls all the Cakras
 
@@ -136,5 +134,3 @@ If the mind, at that time, remains full of divine thoughts, the secretion goes d
 If the Sadhaka's mind remains pure due to constant Cosmic Ideation, the extra amount is absorbed in his body and all the nerve-cells and nerve-fibres assimilate that hormone. He enjoys divine bliss. 
 
 This is called God-intoxication. 
-
-

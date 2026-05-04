@@ -3,7 +3,7 @@ heading: Proposition 6 Theorem 5
 title: "Projecticle"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 icon: "Newton"
-weight: 4
+weight: 5
 writer:
   name: Isaac Newton
   url: https://en.wikipedia.org/wiki/Isaac_Newton

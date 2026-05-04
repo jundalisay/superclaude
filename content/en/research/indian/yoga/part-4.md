@@ -4,7 +4,9 @@ title: "The Freedom of Pure Consciousness"
 description: "Pure consciousness, with the gunas eliminated, reverses the flow of bondage and gets the freedom and power to see its own true form"
 c: "indigo"
 weight: 14
+icon: "Patanjali"
 ---
+
 
 
 <sup>1</sup> Such powers can be attained:

@@ -5,7 +5,7 @@ weight: 11
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -52,7 +52,7 @@ It prevents mind from being crudified. Mind gets a smooth scope for progress. Wi
 
 Unless one cherishes ideas of the welfare of others, one cannot perfectly practice Asteya. Satya and Asteya are closely related to each other. A thief cannot observe Asteyam. Is it possible for him to follow Asteyam? A thief steals and is arrested by the police. The police ask him, "Did you steal?" If he is a truthful person, he will confess his guilt that will put him to a great trouble. Hence without Satya, the observance of Asteya is not possible.
 
-Those who wish to observe Asteya, those who desire to establish themselves in Asteya, will have to be necessarily Satya'shrayii. A thief can not be Satyava'dii because being truthful will lead him into difficulties. Persons who indulge in stealing are always cowards. The influence of Satya is just the opposite. Satya imparts Ojah. The especial power that nerve‑cells get from mental effulgence derived from the increase in mental strength due to observance of Satya is called Ojah or Ojas in Sam'skrta, just as a spiritual speech is described as Ojasvii Bha's'an'a. That is why one who gets Ojah, can never be Mithya'va'dii (liar) while a thief will have to depend on Mithya' (lies). To establish oneself in Asteya, to be Satya'shrayii is obligatory. Satyava'dii is not afraid of anyone, it would be contradicting its nature if he becomes a coward.
+Those who wish to observe Asteya, those who desire to establish themselves in Asteya, will have to be necessarily Satya'shrayii. A thief can not be Satyava'dii because being truthful will lead him into difficulties. Persons who indulge in stealing are always cowards. The influence of Satya is just the opposite. Satya imparts Ojah. The especial power that nerve‑cells get from mental effulgence derived from the increase in mental strength due to observance of Satya is called Ojah or Ojas in Sanskrit, just as a spiritual speech is described as Ojasvii Bha's'an'a. That is why one who gets Ojah, can never be Mithya'va'dii (liar) while a thief will have to depend on Mithya' (lies). To establish oneself in Asteya, to be Satya'shrayii is obligatory. Satyava'dii is not afraid of anyone, it would be contradicting its nature if he becomes a coward.
 
 (1)Satyen a'sti bhayam' kimcit
 Satyameva jayate na'nrtam

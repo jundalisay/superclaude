@@ -15,7 +15,7 @@ aliases:
 ---
 
 
-Recently, physicist Rajendra Gupta of the University of Ottawa tried to update the age of the universe from 13.8 billion years to 26.7 because of the recent finding of the [James Webb Telescope](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
+Recently, physicist Rajendra Gupta of the University of Ottawa tried to update the age of the universe from 13.8 billion years to 26.7 because of the recent finding of the [James Webb Telescope](https://webbtelescope.org/files/live/sites/webb/files/ho/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
 
 1. The universe was spread out more evenly than expected
 2. The oldest galaxies were smaller compared to our younger Milky Way and were [more than expected](https://www.pnas.org/doi/10.1073/pnas.2311963120)
@@ -127,3 +127,13 @@ Therefore, **the age of a universe depends on the star, galaxy, or layer where t
 The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-03e/) on it.
 
 <!-- As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. Even plants and animals have to struggle to survive, proving the confinement of the Negative on them.  -->
+
+
+## So What does 13.8 billion years Represent?
+
+The age of the physical universe is technically the length of time that it took for human consciousness (ie. the template of human abstract mind) from intial deployment into physical reality until it reached its current form as humans who are able to measure red shift accurately.
+
+Since the Earth is only 4.6 billion years old then it follows that the human oversoul (main template) is older (has experienced more of physical reality) than the soul of the Earth (ie. Gaia). 
+
+Other advanced alien species would be able to detect farther and more of the universe than us. And so they would measure it as 50 billion or 100 billion years old, making their oversouls older than us. It is this more mature age that allows them to detect more of the universe. 
+

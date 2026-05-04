@@ -5,7 +5,7 @@ weight: 8
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -47,7 +47,7 @@ Representation of actual happenings is Rtam. Whatever you utter verbally, or wri
 
 What is Hita?
 
-There are 4 terms in Sam'skrta ‑ Hitam, Shubham, Kalya'n'am and Ks'emam.
+There are 4 terms in Sanskrit ‑ Hitam, Shubham, Kalya'n'am and Ks'emam.
 
 The terms Kalya'n'am and Ks'emam imply good wishes for others' spiritual well‑being. Shubham for both intellectual and spiritual elevation and Hitam for physical, intellectual and spiritual well being. Whatever you have said, or done or thought for others' good in these three levels is termed Satya. Hitam, Shubham, Kalya'n'am (Ks'emam) ‑ this is the order. Va'un represents all ten Indriyas  (not only Va'k Indriya), i.e. Va'k, Pa'n'i, Pa'da, Pa'yu, Upastha, Karn'a, Tvak, Caks'u, Jihva' and Ghra'n'a. When they are represented by a single word, it is Va'un. Va'un does not only mean language but all the Indriyas as well. Va'un manasi, that means the feeling of Hita should also be in the mind, otherwise expressions of the Indriyas shall not be able to manifest Hitam (welfare).
 

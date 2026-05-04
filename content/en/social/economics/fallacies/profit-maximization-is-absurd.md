@@ -2,7 +2,8 @@
 title: "Profit Maximization is Absurd"
 heading: "Why is there no rent and wage maximization in Economics?"
 date: 2015-07-09
-image: /graphics/econ/profit.jpg
+image: /photos/meta/devil.jpg
+# image: /photos/econ/monopoly.jpg
 type: "featured"
 description: "Profit Maximization is Absurd just as Wage Maximization and Tax Maximization are"
 writer:
@@ -30,7 +31,7 @@ PLEASURE and pain are undoubtedly the ultimate objects of the Calculus of Econom
 {{< /q >}}
 
 
-{{< img src="/graphics/econ/profit.jpg" alt="Man wanting money" cap="Modern Economics has the love of pleasure as its moral basis" >}}
+{{< img src="/photos/meta/devil.jpg" alt="Evil woman" cap="Modern Economics has the love of pleasure and profits as its moral basis" >}}
 
 
 

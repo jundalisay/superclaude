@@ -5,7 +5,7 @@ weight: 36
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -306,7 +306,7 @@ I will get Him, I must get Him. I will catch hold of Him with all the strength i
 
 As a consequence, your mind will get elevated, since the actual abode of Parama Purusa lies in Sahasrara. 
 
-At that moment there will be an intense psychic ideation. As a consequence, your mind will get elevated, since the actual abode of Parama Purus'a lies in Sahasra'ra. The moment there will be an intense urge to catch hold of Him, mind will go up towards Sahasra'ra. Consequently, there shall be a vacuum in the Sus'umna' Ka'n'd'a and Kula Kun'd'alinii will automatically rise up, just as water rises in the tube‑well.
+At that moment there will be an intense psychic ideation. As a consequence, your mind will get elevated, since the actual abode of Parama Purus'a lies in Sahasra'ra. The moment there will be an intense urge to catch hold of Him, mind will go up towards Sahasra'ra. Consequently, there shall be a vacuum in the Sus'umna' Ka'n'd'a and Kula Kundalinii will automatically rise up, just as water rises in the tube‑well.
  
 
 You will find with several persons that they have their different glands and plexii more active.
@@ -325,6 +325,6 @@ In case Is't'a Cakra happens to be other than A'jina', how will you bring the mi
 
 If you go down internally, the control established at the A'jina', Lalana' or other Cakras through which you are coming down to your Is't'a Cakra, shall get disturbed. This means that the control from the conscious and subconscious has been completely destroyed, and one cannot do Sa'dhana' in such a state. As such, when you have to come down from A'jina' to your Is't'a Cakra, come down externally, let the mind come out (psychically) from the A'jina' and be seated on the Is't'a Cakra. It must not be done internally, i.e. within the body.
 
-Allotment of Is't'a Cakra to a Sa'dhaka is always done at Ana'hata and above and not below Ana'hata, since Muladhara, Sva'dhis't'ha'na are static‑dominated and Man'ipura is mutative, but is always being affected by the Static Principle. (I have made the formulae for the determination of Is't'a‑Cakra).
+Allotment of Is't'a Cakra to a Sa'dhaka is always done at Ana'hata and above and not below Ana'hata, since Muladhara, Svadhisthana are static‑dominated and Man'ipura is mutative, but is always being affected by the Static Principle. (I have made the formulae for the determination of Is't'a‑Cakra).
 
 N.B.: You know that all physical expressions are controlled by Ham', it being the controlling point of A'ka'sha‑Tattva, and the controlling point of mind is T'ham'. Ham' is affected by Su'rya Na'd'ii (Piungala') and T'ham is affected by Candra Na'd'ii (Id'a'). When there is an endeavour to establish control over mind (T'ham') by appliance of physical force (Ham') with the help of mental power, it is Hat'ha Yoga; since he is controlling "T'ha" with the help of "ha" and "T'ha" whereas the Sa'dhana' should be done with the help of "Tha" and "T'ha" alone.

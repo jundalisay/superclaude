@@ -71,7 +71,7 @@ Unlike money which quantifies **utility**, our points system quantifies [the eff
 
 Our science, called Supereconomics, thus focuses on the cause. This is different from Modern Economics which focuses on the effect. 
 
-In our family-dinner example, the points can be assigned by the children as follows:
+In our family-dinner example, the points can be assigned by the child as follows:
 
 Meal | Points 
 --- | ---
@@ -79,17 +79,42 @@ Dinner July-31-2022 | 9/10
 Breakfast August-1-2022 | 6/10
 Lunch August-1-2022 | 8/10
 Dinner August-1-2022 | 7/10
-Average | 7.5
+Average rating by Child | 7.5
+
+The husband can also assign points:
+
+Meal | Points 
+--- | ---
+Dinner July-31-2022 | 8/10
+Breakfast August-1-2022 | 10/10
+Lunch August-1-2022 | 8/10
+Dinner August-1-2022 | 9/10
+Average rating by Husband | 8.75
 
 
-The changing points then plot the changing quality or quantity of the meals and serve as a record of actual meal-events. The mother can then fairly demand from her children to excel in their own tasks, such as in their chores or in grades in school, in exchange for the benefits that they get from her.
+- The 8.75 represents the average relational "spin" between the husband's perception of the wife's cooking, and the wife's effort in cooking
+- The 7.5 represents the average  relational "spin" between the child's perception of the mother's cooking, and the mother's effort in cooking
 
-Since the points are quantification of past events, **their values do not inflate over time**.  The system also requires its members to be tightly-knit, having common interest.  
+The changing points then plot the changing quality or quantity of the meals and serve as a record of actual meal-events. 
 
-An economic system based on points is therefore **inflation-resistant and far less volatile than a money-based system**. It also creates a **tighter, more integrated, and responsive local economy** that is organized into hubs and spokes.
-- In our dinner example, the mother is the hub and the children are her spokes.  
+- The points embodies the concept of commonality of the 1st Law of Value
+- The comparison of them embodies the concept of relationality 
 
-The money system, on the contrary, is arbitrary, disorganized, and fragmented since it relies on selfish-interest instead of the common-interest. These qualities cause prices to rise and fall wildly, with economic damage spreading uncontrollably. This is beneficial for speculators who buy and sell things to take advantage of price movements, following the maxim of 'buy low, sell high'. 
+The mother can then fairly demand from her child to excel in his own tasks, such as in their chores or in grades in school, in exchange for the benefits that they get from her.
+
+Since the points are quantification of past events, **their values do not inflate over time**.  
+
+<!-- The system also requires its members to be tightly-knit, having common interest, as commonality. -->
+
+
+An economic system based on points is therefore **inflation-resistant and far less volatile than a money-based system**. 
+
+It also creates a **tighter, more integrated, and responsive local economy** that is organized into hubs and spokes.
+- In our dinner example, the mother is the hub and the child and husband are her spokes.  
+
+The money system, on the contrary, is arbitrary, disorganized, and fragmented since it relies on selfish-interest instead of the common-interest.
+
+These qualities cause prices to rise and fall wildly, with economic damage spreading uncontrollably. This is beneficial for speculators who buy and sell things to take advantage of price movements, following the maxim of 'buy low, sell high'. 
 
 
 ### The Balance Sheet in a Capitalist System
@@ -105,7 +130,7 @@ Cash | Loans Payable
 Property, Plant, Equipment | **Stockholder's Equity**
 
 
-### The Balance Sheet in a Points-based System
+## The Balance Sheet in a Points-based System
 
 Under a points-based system, equity and long-term debt are converted into points. 
 
@@ -126,7 +151,10 @@ Cash | Money Loans Payable
 Property, Plant, Equipment | **Long-term Points Payable**
 
 
-In the beginning, a company will have very few points-receivables and points-payables. But as the new 	system catches on, and the cost savings* become evident, a balance sheet will have more points values until money becomes a smaller part of company and every local economy.
+### Static Owner's Equity Replaced by Flowing Long-Term Payables
+
+In the beginning, a company will have very few points-receivables and points-payables. But as the new	system catches on, and the cost savings* become evident, a balance sheet will have more points values until money becomes a smaller part of company and every local economy.
+
 
 {{< b >}}
 ### Why is a Points-system so much cheaper?
@@ -174,13 +202,12 @@ The use of debt and elimination of equity is evident in:
 - *The Wealth of Nations* where Adam Smith bashes the equity system and advocates the use of loans to serve as capital to build a factory<!--  can be sourced from loans from rich men who can live off of the interest of that money. -->
 - Socrates being in debt even up to his last breath
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 2, Chapter 2" >}}
 A bank could still less afford to lend the fixed capital needed by an iron forge owner for his smelting-house, workhouses, warehouses, etc..
 
 Such entrepreneurs may properly do most of their projects with money borrowed upon bond of private people who can live on the interest of their money without taking the trouble to employ the capital themselves. 
 
 The borrowed money, which would not be repaid for several years, should not be borrowed from a bank.
-<cite>The Wealth of Nations Simplified, Book 2, Chapter 2</cite>
 {{< /q >}}
 
 
@@ -197,7 +224,5 @@ If equity will no longer be a thing, then what will rich people do with their mo
 
 For example, an Arab sheik has 100 million dollars and personally knows very few worthy entrepreneurs. How can he use his money so that it preserves their value, at least?
 
-The cash saved by the points-system will be used to grow the global economy. 
-
-This is explained [here](/social/economics/principles/part-3/chapter-09b).
+The cash saved by the points-system will be used to grow the global economy via Pool Clearing.
 

@@ -70,3 +70,11 @@ I deny the existence of gravity inside any body. Gravity is a quality that depen
 The job of Space particles is to separate identities. This makes them cause the weathering and the wear and tear of physical things, including mountains, cars, electronics, and human bodies. 
 
 For example, friction is from the space particles giving movement to 2 objects that grind away at each other.
+
+
+The aethereal layer is above the spaital layer and so aethereal ideas and feelings do not have wear and tear. 
+
+For example:
+- an old man might remember his first love as strongly as he had it the first time
+- an old or ancient might be revived and have traction like a new idea
+

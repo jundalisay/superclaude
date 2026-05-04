@@ -6,5 +6,6 @@ heading: "Part 4"
 weight: 13
 description: "The principles of phenomena on Earth according to Descartes"
 c: "darkgoldenrod"
+icon: "Rene Descartes"
 ---
 

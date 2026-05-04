@@ -9,8 +9,7 @@ icon: "George Berkeley"
 
 
 
-
-24. For the fuller illustration of this Point, I shall consider it in another light, and proceeding in finite Quantities to the Conclusion, I shall only then make use
+<sup>24</sup> For the fuller illustration of this Point, I shall consider it in another light, and proceeding in finite Quantities to the Conclusion, I shall only then make use
 
 <!-- P37 diagram for Berkeley's 'The Analyst'.png -->
 
@@ -30,14 +29,14 @@ For in the first place, it was supposed, that when NO is infinitely diminished o
 
 But this is a plain mistake, for it is evident, that as a Secant cannot be a Tangent, so a Subsecant cannot be a Subtangent. Be the Difference ever so small, yet still there is a Difference. 
 
-And if NO be infinitely small, there will even then be an infinitely small Difference between NM and NL. 
+If NO be infinitely small, there will even then be an infinitely small Difference between NM and NL. 
 
 Therefore NM or S was too little for your supposition, (when you supposed it equal to NL) and this error was compensated by a second error in throwing out v, which last error made s bigger than its true value, and in lieu thereof gave the value of the Subtangent.
 
 This is the true State of the Case, however it may be disguised. And to this in reality it amounts, and is at bottom the same thing, if we should pretend to find the Subtangent by having first found, from the Equation of the Curve and similar Triangles, a general Expression for all Subsecants, and then reducing the Subtangent under this general Rule, by considering it as the Subsecant when v vanishes or becomes nothing.
 
 
-25. Upon the whole I observe the following:
+<sup>25</sup> Upon the whole I observe the following:
 
 1. `v` can never be nothing so long as there is a secant. 
 
@@ -83,7 +82,7 @@ And as it is illegitimate to reduce an Equation, by subducting from one Side a Q
 This is a true Reason why no Error is at last produced by the rejecting of o. Which therefore must not be ascribed to the Doctrine of Differences, or Infinitesimals, or evanescent Quantities, or Momentums, or Fluxions.
 
 
-28. Suppose the Case to be general, and that xn is equal to the Area ABC whence by the Method of Fluxions the Ordinate is found 
+<sup>28</sup> Suppose the Case to be general, and that xn is equal to the Area ABC whence by the Method of Fluxions the Ordinate is found 
 
 which we admit for true, and shall inquire how it is arrived at. Now if we are content to come at the Conclusion in a summary way, by supposing that the Ratio of the Fluxions of x and xn are found [10] to be 1 and 
 
@@ -107,11 +106,11 @@ For those Quantities which by the Analysts are said to be neglected, or made to 
 equal I say to the finite Remainder of a finite Increment.
 
 
-29. Therefore, be the Power what you please, there will arise on one Side an algebraical Expression, on the other a geometrical Quantity, each of which naturally divides it self into three Members: 
+
+<sup>29</sup> Therefore, be the Power what you please, there will arise on one Side an algebraical Expression, on the other a geometrical Quantity, each of which naturally divides it self into three Members: 
 
 The algebraical or fluxionary Expression, into one which includes neither the Expression of the Increment of the Absciss nor of any Power thereof, another which includes the Expression of the Increment it self, and a third including the Expression of the Powers of the Increment. 
 
 The geometrical Quantity also or whole increased Area consists of three Parts or Members, the first of which is the given Area, the second a Rectangle under the Ordinate and the Increment of the Absciss, and the third a curvilinear Space, And, comparing the homologous or correspondent Members on both Sides, we find that as the first Member of the Expression is the Expression of the given Area, so the second Member of the Expression will express the Rectangle or second Member of the geometrical Quantity; and the third, containing the Powers of the Increment, will express the curvilinear Space, or third Member of the geometrical Quantity. 
 
 This hint may, perhaps, be further extended and applied to good purpose, by those who have leisure and curiosity for such Matters. The use I make of it is to shew, that the Analysis cannot obtain in Augments or Differences, but it must also obtain in finite Quantities, be they ever so great, as was before observed.
-

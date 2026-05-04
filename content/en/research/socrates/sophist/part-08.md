@@ -1,29 +1,34 @@
 ---
-title: "The Foreigner"
-heading: "Part 1"
+title: "The Nature of Being"
+heading: "Part 8"
 weight: 20
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "steelblue"
-description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
+description: ""
 icon: "Socrates"
 ---
+
 
 
 {{< l a="Foreigner" >}}
 Promise me not to regard me as a parricide. Because, in self-defence, I must test the philosophy of my father Parmenides, and try to prove by main force that in a certain sense not-being is, and that being, on the other hand, is not.
 {{< /l >}}
 
+{{< r a="Theaetetus" >}}
+Some attempt of the kind is clearly needed.
+{{< /r >}}
 
-THEAETETUS: Some attempt of the kind is clearly needed.
-
-FOREIGNER: Yes, a blind man, as they say, might see that, and, unless these questions are decided in one way or another, no one when he speaks of false words, or false opinion, or idols, or images, or imitations, or appearances, or about the arts which are concerned with them; can avoid falling into ridiculous contradictions.
+{{< l a="Foreigner" >}}
+Yes, a blind man, as they say, might see that, and, unless these questions are decided in one way or another, no one when he speaks of false words, or false opinion, or idols, or images, or imitations, or appearances, or about the arts which are concerned with them; can avoid falling into ridiculous contradictions.
 
 Therefore I must venture to lay hands on my father's argument; for if I am to be over-scrupulous, I shall have to give the matter up.
+{{< /l >}}
 
-
-THEAETETUS: Nothing in the world should ever induce us to do so.
+{{< r a="Theaetetus" >}}
+Nothing in the world should ever induce us to do so.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 I have a third little request which I wish to make.
@@ -33,8 +38,9 @@ You heard me say what I have always felt and still feel—that I have no heart f
 I tremble at the thought of what I have said, and expect that you will deem me mad, when you hear of my sudden changes and shiftings; let me therefore observe, that I am examining the question entirely out of regard for you.
 {{< /l >}}
 
-
-THEAETETUS: There is no reason for you to fear that I shall impute any impropriety to you, if you attempt this refutation and proof; take heart, therefore, and proceed.
+{{< r a="Theaetetus" >}}
+There is no reason for you to fear that I shall impute any impropriety to you, if you attempt this refutation and proof; take heart, therefore, and proceed.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 Where shall I begin the perilous enterprise? I think that the road which I must take is—
@@ -42,8 +48,9 @@ Where shall I begin the perilous enterprise? I think that the road which I must 
 I think that we had better, first of all, consider the points which at present are regarded as self-evident, lest we may have fallen into some confusion, and be too ready to assent to one another, fancying that we are quite clear about them.
 {{< /l >}}
 
-THEAETETUS: Say more distinctly what you mean.
-
+{{< r a="Theaetetus" >}}
+Say more distinctly what you mean.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 I think that Parmenides, and all ever yet undertook to determine the number and nature of existences, talked to us in rather a light and easy strain.
@@ -63,11 +70,18 @@ The same may be said of all the terms just mentioned.
 The consideration of most of them may be deferred; but we had better now discuss the chief captain and leader of them.
 {{< /l >}}
 
-
-THEAETETUS: Of what are you speaking? You clearly think that we must first investigate what people mean by the word 'being.'
+{{< r a="Theaetetus" >}}
+Of what are you speaking? You clearly think that we must first investigate what people mean by the word 'being.'
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
-You follow close at my heels, Theaetetus. For the right method, I conceive, will be to call into our presence the dualistic philosophers and to interrogate them. 'Come,' we will say, 'Ye, who affirm that hot and cold or any other two principles are the universe, what is this term which you apply to both of them, and what do you mean when you say that both and each of them "are"? How are we to understand the word "are"? Upon your view, are we to suppose that there is a third principle over and above the other two,—three in all, and not two? For clearly you cannot say that one of the two principles is being, and yet attribute being equally to both of them; for, if you did, whichever of the two is identified with being, will comprehend the other; and so they will be one and not two.'
+You follow close at my heels, Theaetetus. 
+
+I think that the right method will be to call into our presence the dualistic philosophers and to interrogate them. 
+
+'Come,' we will say, 'Ye, who affirm that hot and cold or any other two principles are the universe, what is this term which you apply to both of them, and what do you mean when you say that both and each of them "are"? 
+
+How are we to understand the word "are"? Upon your view, are we to suppose that there is a third principle over and above the other two,—three in all, and not two? For clearly you cannot say that one of the two principles is being, and yet attribute being equally to both of them; for, if you did, whichever of the two is identified with being, will comprehend the other; and so they will be one and not two.'
 
 But perhaps you mean to give the name of 'being' to both of them together?
 
@@ -114,8 +128,9 @@ But this indivisible, if made up of many parts, will contradict reason.
 Shall we say that being is one and a whole, because it has the attribute of unity? Or shall we say that being is not a whole at all?
 {{< /l >}}
 
-
-THEAETETUS: That is a hard alternative to offer.
+{{< r a="Theaetetus" >}}
+That is a hard alternative to offer.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 Most true; for being, having in a certain sense the attribute of one, is yet proved not to be the same as one, and the all is therefore more than one.
@@ -135,27 +150,27 @@ How can that which is not a whole have any quantity? For that which is of a cert
 There will be innumerable other points, each of them causing infinite trouble to him who says that being is either one or two.
 {{< /l >}}
 
-
-THEAETETUS: The difficulties which are dawning upon us prove this; for one objection connects with another, and they are always involving what has preceded in a greater and worse perplexity.
+{{< r a="Theaetetus" >}}
+The difficulties which are dawning upon us prove this; for one objection connects with another, and they are always involving what has preceded in a greater and worse perplexity.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 We are far from having exhausted the more exact thinkers who treat of being and not-being. But let us be content to leave them, and proceed to view those who speak less precisely; and we shall find as the result of all, that the nature of being is quite as difficult to comprehend as that of not-being.
 {{< /l >}}
 
-
-THEAETETUS: Then now we will go to the others.
-
-FOREIGNER: There appears to be a sort of war of Giants and Gods going on amongst them; they are fighting with one another about the nature of essence.
-
-THEAETETUS: How is that?
+{{< r a="Theaetetus" >}}
+Then now we will go to the others.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
+There appears to be a sort of war of Giants and Gods going on amongst them; they are fighting with one another about the nature of essence.
+
 Some of them are dragging down all things from heaven and from the unseen to earth, and they literally grasp in their hands rocks and oaks; of these they lay hold, and obstinately maintain, that the things only which can be touched or handled have being or essence, because they define being and body as one, and if any one else says that what is not a body exists they altogether despise him, and will hear of nothing but body.
 {{< /l >}}
 
-
-THEAETETUS: I have often met with such men, and terrible fellows they are.
-
+{{< r a="Theaetetus" >}}
+I have often met with such men, and terrible fellows they are.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 That is the reason why their opponents cautiously defend themselves from above, out of an unseen world, mightily contending that true essence consists of certain intelligible and incorporeal ideas; the bodies of the materialists, which by them are maintained to be the very truth, they break up into little bits by their arguments, and affirm them to be, not essence, but generation and motion. Between the two armies, Theaetetus, there is always an endless conflict raging concerning these matters.
@@ -163,9 +178,9 @@ That is the reason why their opponents cautiously defend themselves from above, 
 Let us ask each party in turn, to give an account of that which they call essence.
 {{< /l >}}
 
-
-THEAETETUS: How shall we get it out of them?
-
+{{< r a="Theaetetus" >}}
+How shall we get it out of them?
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 With those who make being to consist in ideas, there will be less difficulty, for they are civil people enough; but there will be very great difficulty, or rather an absolute impossibility, in getting an opinion out of those who drag everything down to matter. Shall I tell you what we must do?
@@ -189,14 +204,17 @@ But surely that which may be present or may be absent will be admitted by them t
 Allowing that justice, wisdom, the other virtues, and their opposites exist, as well as a soul in which they inhere, do they affirm any of them to be visible and tangible, or are they all invisible?
 {{< /l >}}
 
+{{< r a="Theaetetus" >}}
+They would say that hardly any of them are visible.
+{{< /r >}}
 
+{{< l a="Foreigner" >}}
+And would they say that they are corporeal?
+{{< /l >}}
 
-THEAETETUS: They would say that hardly any of them are visible.
-
-FOREIGNER: And would they say that they are corporeal?
-
-THEAETETUS: They would distinguish: the soul would be said by them to have a body; but as to the other qualities of justice, wisdom, and the like, about which you asked, they would not venture either to deny their existence, or to maintain that they were all corporeal.
-
+{{< r a="Theaetetus" >}}
+They would distinguish: the soul would be said by them to have a body; but as to the other qualities of justice, wisdom, and the like, about which you asked, they would not venture either to deny their existence, or to maintain that they were all corporeal.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 I perceive a great improvement in them; the real aborigines, children of the dragon's teeth, would have been deterred by no shame at all, but would have obstinately asserted that nothing is which they are not able to squeeze in their hands.
@@ -204,17 +222,17 @@ I perceive a great improvement in them; the real aborigines, children of the dra
 Let us push the question; for if they will admit that any, even the smallest particle of being, is incorporeal, it is enough; they must then say what that nature is which is common to both the corporeal and incorporeal, and which they have in their mind's eye when they say of both of them that they 'are.' Perhaps they may be in a difficulty; and if this is the case, there is a possibility that they may accept a notion of ours respecting the nature of being, having nothing of their own to offer.
 {{< /l >}}
 
-
-
-THEAETETUS: What is the notion? Tell me, and we shall soon see.
-
+{{< r a="Theaetetus" >}}
+What is the notion? Tell me, and we shall soon see.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 My notion would be, that anything which possesses any sort of power to affect another, or to be affected by another, if only for a single moment, however trifling the cause and however slight the effect, has real existence; and I hold that the definition of being is simply power.
 {{< /l >}}
 
-
-THEAETETUS: They accept your suggestion, having nothing better of their own to offer.
+{{< r a="Theaetetus" >}}
+They accept your suggestion, having nothing better of their own to offer.
+{{< /r >}}
 
 {{< l a="Foreigner" >}}
 For now, this may be regarded as the understanding which is established with them.
@@ -224,15 +242,22 @@ Let us now go to the friends of ideas; of their opinions, too, you shall be the 
 To them we say—You would distinguish essence from generation?
 {{< /l >}}
 
+{{< r a="Theaetetus" >}}
+'Yes,' they reply.
+{{< /r >}}
 
-THEAETETUS: 'Yes,' they reply.
+{{< l a="Foreigner" >}}
+And you would allow that we participate in generation with the body, and through perception, but we participate with the soul through thought in true essence; and essence you would affirm to be always the same and immutable, whereas generation or becoming varies?
+{{< /l >}}
 
-FOREIGNER: And you would allow that we participate in generation with the body, and through perception, but we participate with the soul through thought in true essence; and essence you would affirm to be always the same and immutable, whereas generation or becoming varies?
+{{< r a="Theaetetus" >}}
+Yes; that is what we would affirm.
+{{< /r >}}
 
-THEAETETUS: Yes; that is what we should affirm.
+{{< l a="Foreigner" >}}
+Well, fair sirs, we say to them, what is this participation, which you assert of both? Do you agree with our recent definition?
+{{< /l >}}
 
-FOREIGNER: Well, fair sirs, we say to them, what is this participation, which you assert of both? Do you agree with our recent definition?
-
-THEAETETUS: What definition?
-
-
+{{< r a="Theaetetus" >}}
+What definition?
+{{< /r >}}

@@ -7,7 +7,7 @@ description : "To prove that Kant's system is useless, let's translate his defin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+a: "Kant"
 ---
 
 
@@ -65,9 +65,12 @@ Much easier, huh?
 With geometry, you can think of whatever shapes inside your mind and it would be fine. But you can't do the same with geology or chemistry. But why did Kant end up having to create so many weird new concepts anyway?
 
 
-### A Natural Consequence of Denying Experience, Feeling, and Reality
+## A Natural Consequence of Denying Experience, Feeling, and Reality
 
-![Ayn Rand vs Kant](https://sorasystem.sirv.com/graphics/randkant.jpg)
+{{< q a="Ayn Rand" c="For the New Intellectual" >}}
+Ever since Kant divorced reason from reality, his intellectual descendants have been diligently widening the breach
+{{< /q >}}
+
 
 <!-- who inspired Kant to write his work, -->
 According to David Hume, all thinking is based on feelings. 
@@ -91,9 +94,10 @@ It's similar to Islam banning interest on loans, which causes it to be transferr
 Kant bans reality and so he has to recreate everything himself. This is why Kant must have the highest regard for his own mind (since it's the one that powers everything in his Kant-only-reality):
 <!-- Transcendental Analytic, Transcendental Dialectic, and Transcendental Idealism -->
 
-{{< q a="kant" >}}
+{{< q a="Kant" >}}
 The reality of the object of our internal sense (that is, myself and my internal state) is clear immediately through consciousness. External objects in space might be a mere delusion. But the object of my internal perception is undeniably real.
 {{< /q >}}
+
 
 
 ### Probably a German Thing
@@ -142,7 +146,7 @@ Like Kant, Einstein used his own mind to assign reality to spacetime by turning 
 - Penrose created a cyclical universe as Conformal Cyclic Cosmology 
 
 
-### Useless Kant, Useless Einstein, Useless Physics
+## Useless Kant, Useless Einstein, Useless Theoretical Physics
 
 Some of those physicists then get Nobel prizes for theories that have no reality. This is similar to:
 - academics who peddle useless courses or degrees that students pay for with real money

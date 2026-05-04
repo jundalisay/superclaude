@@ -1,5 +1,5 @@
 ---
-title: "The Foreigner"
+title: "The Doctrine of Universal Motion"
 heading: "Part 9"
 weight: 22
 writer:
@@ -105,48 +105,16 @@ I certainly thought that we were; and I do not at all understand how we never fo
 {{< /r >}}
 
 {{< l a="Foreigner" >}}
-Reflect: after having made these admissions, may we not be justly asked the same questions which we ourselves were asking of those who said that all was hot and cold?
-{{< /l >}}
+Reflect: after having made these admissions, we may be asked the same questions which we ourselves were asking of those who said that all was hot and cold.
 
-{{< r a="Theaetetus" >}}
-What were they? Will you recall them to my mind?
-{{< /r >}}
+Rest and motion are in the most entire opposition to one another.
 
-{{< l a="Foreigner" >}}
-To be sure I will, and I will remind you of them, by putting the same questions to you which I did to them, and then we shall get on.
+Yet both and either of them equally are.
 
-Would you not say that rest and motion are in the most entire opposition to one another?
-{{< /l >}}
+But this does not mean that both or either of them are in motion.
 
-{{< r a="Theaetetus" >}}
-Yes.
-{{< /r >}}
+Nor does this imply that they are both at rest, when you say that they are at rest.
 
-{{< l a="Foreigner" >}}
-And yet you would say that both and either of them equally are?
-{{< /l >}}
-
-{{< r a="Theaetetus" >}}
-I should.
-{{< /r >}}
-
-{{< l a="Foreigner" >}}
-And when you admit that both or either of them are, do you mean to say that both or either of them are in motion?
-{{< /l >}}
-
-{{< r a="Theaetetus" >}}
-No.
-{{< /r >}}
-
-{{< l a="Foreigner" >}}
-Or do you wish to imply that they are both at rest, when you say that they are?
-{{< /l >}}
-
-{{< r a="Theaetetus" >}}
-Of course not.
-{{< /r >}}
-
-{{< l a="Foreigner" >}}
 Then you conceive of being as some third and distinct nature, under which rest and motion are alike included; and, observing that they both participate in being, you declare that they are.
 {{< /l >}}
 
@@ -171,7 +139,7 @@ And are we not now in as great a difficulty about being?
 {{< /l >}}
 
 {{< r a="Theaetetus" >}}
-I should say, Foreigner, that we are in one which is, if possible, even greater.
+We are in one which is, if possible, even greater.
 {{< /r >}}
 
 {{< l a="Foreigner" >}}

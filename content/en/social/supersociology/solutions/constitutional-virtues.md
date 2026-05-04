@@ -156,3 +156,25 @@ This is different from the current United Nations which is merely a council that
 A world government, on the other hand, is a union based on fellow-feelings and morals. Its members can better implement its policies because there is a common interest to do so. This is not built overnight, but through many generations through regular communication and exchange.
 
 <!-- War is prevented by the world government actually intervening way before the trouble escalates. For example, in the case of      -->
+
+
+### Update April 2026: Iran ❤️ USA 
+
+We can apply constitutional virtues to create harmony between Iran and the US by focusing on their common ideals:
+
+
+Iran Virtues | US Virtues
+--- | --- | ---
+Faith | Life
+**Independence** | **Liberty**
+Justice | Happiness
+
+
+As you can see, independence and liberty are the 2 common virtues or beliefs or ideals of Iran and the US.
+
+Howver, there is a big difference in their beliefs of faith-justice, versus life-happiness. 
+
+This can be fixed by converting:
+- Iranian faith and American life into spirtuality and spiritual life
+- Iranian justice and American happiness into general fairness and collective happiness (as opposed to personal happiness)
+

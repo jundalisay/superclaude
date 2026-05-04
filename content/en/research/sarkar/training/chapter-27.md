@@ -5,7 +5,7 @@ weight: 68
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

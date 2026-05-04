@@ -139,4 +139,8 @@ I would not be understood to infer, that your Notions are false or vain because 
 
 Although this obscurity and incomprehensibility of your Metaphysics had been alone sufficient, to allay your Pretensions to Evidence; yet it hath, if I mistake not, been further shewn, that your Inferences are no more just than your Conceptions are clear, and that your Logics are as exceptionable as your Metaphysics. 
 
-Your Conclusions are not attained by just Reasoning from clear Principles; consequently that the Employment of modern Analysts, however useful in mathematical Calculations, and Constructions, doth not habituate and qualify the Mind to apprehend clearly and infer justly; and consequently, that you have no right in Virtue of such Habits, to dictate out of your proper Sphere, beyond which your Judgment is to pass for no more than that of other Men.
+Your Conclusions are not attained by just Reasoning from clear Principles.
+
+Consequently, that the Employment of modern Analysts, however useful in mathematical Calculations, and Constructions, doth not habituate and qualify the Mind to apprehend clearly and infer justly.
+
+Consequently, that you have no right in Virtue of such Habits, to dictate out of your proper Sphere, beyond which your Judgment is to pass for no more than that of other Men.

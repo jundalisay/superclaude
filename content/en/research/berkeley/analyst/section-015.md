@@ -25,7 +25,7 @@ But then which of these soever you make it signify, you must argue consistently 
 Whether you argue in Symbols or in Words, the Rules of right Reason are still the same. Nor can it be supposed, you will plead a Privilege in Mathematics to be exempt from them.
 
 
-16. If you assume at first a Quantity increased by nothing, and in the Expression x + o, stands for nothing, upon this Supposition as there is no Increment of the Root, so there will be no Increment of the Power; and consequently there will be none except the first, of all those Members of the Series constituting the Power of the Binomial; 
+<sup>16</sup> If you assume at first a Quantity increased by nothing, and in the Expression x + o, stands for nothing, upon this Supposition as there is no Increment of the Root, so there will be no Increment of the Power; and consequently there will be none except the first, of all those Members of the Series constituting the Power of the Binomial; 
 
 You will therefore never come at your Expression of a Fluxion legitimately by such Method.
 

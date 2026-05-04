@@ -10,8 +10,9 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /social/economics/mars/
 ---
-
 
 
 Supereconomics and its sister science called Material Superphysics will work together to help each other in 2 ways:

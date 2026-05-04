@@ -1,5 +1,5 @@
 ---
-heading: Proposition 4 Problem 2
+heading: Proposition 4
 title: "The Force of Gravity"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"

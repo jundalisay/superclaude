@@ -60,47 +60,55 @@ And whether it would not be righter to measure large Polygons having finite Side
 
 #### Query  13. Whether Geometrical Quantity hath coexistent Parts? And whether all Quantity be not in a flux as well as Time and Motion?
 
-Query  14. Whether Extension can be supposed an Attribute of a Being immutable and eternal?
+#### Query  14. Whether Extension can be supposed an Attribute of a Being immutable and eternal?
 
-Query  15. Whether to decline examining the Principles, and unravelling the Methods used in Mathematics, would not shew a bigotry in Mathematicians?
+#### Query  15. Whether to decline examining the Principles, and unravelling the Methods used in Mathematics, would not shew a bigotry in Mathematicians?
 
-Query  16. Whether certain Maxims do not pass current among Analysts, which are shocking to good Sense? And whether the common Assumption that a finite Quantity divided by nothing is infinite be not of this Number?
+#### Query  16. Whether certain Maxims do not pass current among Analysts, which are shocking to good Sense?
 
-Query  17. Whether the considering Geometrical Diagrams absolutely or in themselves, rather than as Representatives of all assignable Magnitudes or Figures of the same kind, be not a principal Cause of the supposing finite Extension infinitely divisible; and of all the Difficulties and Absurdities consequent thereupon?
+Whether the common Assumption that a finite Quantity divided by nothing is infinite be not of this Number?
 
-Query  18. Whether from Geometrical Propositions being general, and the Lines in Diagrams being therefore general Substitutes or Representatives, it doth not follow that we may not limit or consider the number of Parts, into which such partiticular Lines are divisible?
+#### Query  17. Whether the considering Geometrical Diagrams absolutely or in themselves, rather than as Representatives of all assignable Magnitudes or Figures of the same kind, be not a principal Cause of the supposing finite Extension infinitely divisible; and of all the Difficulties and Absurdities consequent thereupon?
 
-Query  19. When it is said or implied, that such a certain Line delineated on Paper contains more than any assignable number of Parts, whether any more in truth ought to be understood, than that it is a Sign indifferently representing all finite Lines, be they ever so great. In which relative Capacity it contains, i. e. stands for more than any assignable number of Parts? And whether it be not altogether absurd to suppose a finite Line, considered in it self or in its own positive Nature, should contain an infinite number of Parts?
+#### Query  18. Whether from Geometrical Propositions being general, and the Lines in Diagrams being therefore general Substitutes or Representatives, it doth not follow that we may not limit or consider the number of Parts, into which such partiticular Lines are divisible?
 
-Query  20. Whether all Arguments for the infinite Divisibility of finite Extension do not suppose and imply, either general abstract Ideas or absolute external Extension to be the Object of Geometry? And, therefore, whether, along with those Suppositions, such Arguments also do not cease and vanish?
+#### Query  19. When it is said or implied, that such a certain Line delineated on Paper contains more than any assignable number of Parts, whether any more in truth ought to be understood, than that it is a Sign indifferently representing all finite Lines, be they ever so great.
 
-Query  21. Whether the supposed infinite Divisibility of finite Extension hath not been a Snare to Mathematicians, and a Thorn in their Sides? And whether a Quantity infinitely diminished and a Quantity infinitely small are not the same thing?
+In which relative Capacity it contains, i. e. stands for more than any assignable number of Parts? And whether it be not altogether absurd to suppose a finite Line, considered in it self or in its own positive Nature, should contain an infinite number of Parts?
 
-Query  22. Whether it be necessary to consider Velocities of nascent or evanescent Quantities, or Moments, or Infinitesimals? And whether the introducing of Things so inconceivable be not a reproach to Mathematics?
+#### Query  20. Whether all Arguments for the infinite Divisibility of finite Extension do not suppose and imply, either general abstract Ideas or absolute external Extension to be the Object of Geometry? And, therefore, whether, along with those Suppositions, such Arguments also do not cease and vanish?
 
-Query  23. Whether Inconsistencies can be Truths? Whether Points repugnant and absurd are to be admitted upon any Subject, or in any Science? And whether the use of Infinites ought to be allowed, as a sufficient Pretext and Apology, for the admitting of such Points in Geometry?
+#### Query  21. Whether the supposed infinite Divisibility of finite Extension hath not been a Snare to Mathematicians, and a Thorn in their Sides? And whether a Quantity infinitely diminished and a Quantity infinitely small are not the same thing?
 
-Query  24. Whether a Quantity be not properly said to be known, when we know its Proportion to given Quantities? And whether this Proportion can be known, but by Expressions or Exponents, either Geometrical, Algebraical, or Arithmetical? And whether Expressions in Lines or Species can be useful but so far forth as they are reducible to Numbers?
+#### Query  22. Whether it be necessary to consider Velocities of nascent or evanescent Quantities, or Moments, or Infinitesimals? And whether the introducing of Things so inconceivable be not a reproach to Mathematics?
 
-25. Whether the finding out proper Expressions or Notations of Quantity be not the most general Character and Tendency of the Mathematics? And Arithmetical Operation that which limits and defines their Use?
+#### Query  23. Whether Inconsistencies can be Truths? Whether Points repugnant and absurd are to be admitted upon any Subject, or in any Science? And whether the use of Infinites ought to be allowed, as a sufficient Pretext and Apology, for the admitting of such Points in Geometry?
 
-Query  26. Whether Mathematicians have sufficiently considered the Analogy and Use of Signs? And how far the specific limited Nature of things corresponds thereto?
+#### Query  24. Whether a Quantity be not properly said to be known, when we know its Proportion to given Quantities? And whether this Proportion can be known, but by Expressions or Exponents, either Geometrical, Algebraical, or Arithmetical? And whether Expressions in Lines or Species can be useful but so far forth as they are reducible to Numbers?
 
-Query  27. Whether because, in stating a general Case of pure Algebra, we are at full liberty to make a Character denote, either a positive or a negative Quantity, or nothing at all, we may therefore in a geometrical Case, limited by Hypotheses and Reasonings from particular Properties and Relations of Figures, claim the same Licence?
+#### Query 25. Whether the finding out proper Expressions or Notations of Quantity be not the most general Character and Tendency of the Mathematics? And Arithmetical Operation that which limits and defines their Use?
 
-Query  28. Whether the Shifting of the Hypothesis, or (as we may call it) the fallacia Suppositionis be not a Sophism, that far and wide infects the modern Reasonings, both in the mechanical Philosophy and in the abstruse and fine Geometry?
+#### Query  26. Whether Mathematicians have sufficiently considered the Analogy and Use of Signs? And how far the specific limited Nature of things corresponds thereto?
 
-Query  29. Whether we can form an Idea or Notion of Velocity distinct from and exclusive of its Measures, as we can of Heat distinct from and exclusive of the Degrees on the Thermometer, by which it is measured? And whether this be not supposed in the Reasonings of modern Analysts?
+#### Query  27. Whether because, in stating a general Case of pure Algebra, we are at full liberty to make a Character denote, either a positive or a negative Quantity, or nothing at all, we may therefore in a geometrical Case, limited by Hypotheses and Reasonings from particular Properties and Relations of Figures, claim the same Licence?
 
-Query  30. Whether Motion can be conceived in a Point of Space? And if Motion cannot, whether Velocity can? And if not, whether a first or last Velocity can be conceived in a mere Limit, either initial or final, of the described Space?
+#### Query  28. Whether the Shifting of the Hypothesis, or (as we may call it) the fallacia Suppositionis be not a Sophism, that far and wide infects the modern Reasonings, both in the mechanical Philosophy and in the abstruse and fine Geometry?
 
-Query  31. Where there are no Increments, whether there can be any Ratio of Increments? Whether Nothings can be considered as proportional to real Quantities? Or whether to talk of their Proportions be not to talk Nonsense? Also in what Sense we are to understand the Proportion of a Surface to a Line, of an Area to an Ordinate? And whether Species or Numbers, though properly expressing Quantities which are not homogeneous, may yet be said to express their Proportion to each other?
+#### Query  29. Whether we can form an Idea or Notion of Velocity distinct from and exclusive of its Measures, as we can of Heat distinct from and exclusive of the Degrees on the Thermometer, by which it is measured? And whether this be not supposed in the Reasonings of modern Analysts?
 
-Query  32. Whether if all assignable Circles may be squared, the Circle is not, to all intents and purposes, squared as well as the Parabola? Or whether a parabolical Area can in fact be measured more accurately than a Circular?
+#### Query  30. Whether Motion can be conceived in a Point of Space? And if Motion cannot, whether Velocity can? And if not, whether a first or last Velocity can be conceived in a mere Limit, either initial or final, of the described Space?
 
-Query  33. Whether it would not be righter to approximate fairly, than to endeavour at Accuracy by Sophisms?
+#### Query  31. Where there are no Increments, whether there can be any Ratio of Increments? 
 
-Query  34. Whether it would not be more decent to proceed by Trials and Inductions, than to pretend to demonstrate by false Principles?
+Whether Nothings can be considered as proportional to real Quantities? Or whether to talk of their Proportions be not to talk Nonsense? 
+
+Also in what Sense we are to understand the Proportion of a Surface to a Line, of an Area to an Ordinate? And whether Species or Numbers, though properly expressing Quantities which are not homogeneous, may yet be said to express their Proportion to each other?
+
+#### Query  32. Whether if all assignable Circles may be squared, the Circle is not, to all intents and purposes, squared as well as the Parabola? Or whether a parabolical Area can in fact be measured more accurately than a Circular?
+
+#### Query  33. Whether it would not be righter to approximate fairly, than to endeavour at Accuracy by Sophisms?
+
+#### Query  34. Whether it would not be more decent to proceed by Trials and Inductions, than to pretend to demonstrate by false Principles?
 
 #### Query  35. Whether there be not a way of arriving at Truth, although the Principles are not scientific, nor the Reasoning just? And whether such a way ought to be called a Knack or a Science?
 
@@ -113,4 +121,3 @@ Whether a Man can have Science of the Principles, without understanding them? An
 #### Query  38. Whether tedious Calculations in Algebra and Fluxions be the likliest Method to improve the Mind? And whether Mens being accustomed to reason altogether about Mathematical Signs and Figures, doth not make them at a loss how to reason without them?
 
 #### Query  39. Whether, whatever readiness Analysts acquire in stating a Problem, or finding apt Expressions for Mathematical Quantities, the same doth necessarily infer a proportionable ability in conceiving and expressing other Matters?
-

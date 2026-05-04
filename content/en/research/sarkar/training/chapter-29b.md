@@ -5,16 +5,12 @@ weight: 74
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
-
-
-## PRANAVA DHVANI
 
 Baba was sitting as usual very graciously on the cot and started with these words:
 
@@ -157,7 +153,7 @@ Then another young Sadhaka of Midnapore stood in front of Baba.
 "Everything of this universe is an open-book, nothing can be kept secret", Baba said. 
 
 
-## DEMONSTRATION ON VIBHU'TI
+## DEMONSTRATION ON VIBHUTI
 
 Man can attain by dint of his Sa'dhana' at least seven Vibhu'ti (An'ima', Laghima, Mahima', Iishitva, Vashitva, Pra'pti & Praka'mya), but not the 8th one i.e. Antaraya'mitva which can only be given by Parama'tma'. 
 
@@ -168,6 +164,7 @@ But Sa'dhaka should always say, "I do not want Vibhu'ti. I want Parama Purus'a".
 Then "A" came to the mind and saw black, blue, red, green and smoky colours. The boy became frightened to hear about a T.B. attack, that is why there was blue colour, the boy had ego of his intellect that is why his mental colour is green and smoky colour represents reckless character. Then Baba explained that only one who has "Bhaga" can see Sam'ska'ra. 
 
 Then Baba asked "A" to see the Sam'ska'ra of the boy before 18 days. His mental set-up was that of a goat. The boy confessed that before 18 days, his mental thinking was very low. Then Baba converted the physical body of the boy to that of a goat, "A" saw it a goat. Later on everything was made normal by Him. 
+
 
 
 ## EGO - THE GREATEST ENEMY 
@@ -229,4 +226,4 @@ But before blessing anybody, Guru Mantra should be properly uttered. Then only t
 
 (13/1/70 at Ranchi Jagrti) 
 
-• THE END – 
+THE END

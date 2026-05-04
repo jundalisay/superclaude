@@ -5,7 +5,7 @@ weight: 6
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -32,13 +32,15 @@ What should be the nature of Dharma Deshana’? It should be such that on every 
 
 ## What is Dharma? 
 
-That which preserves your existence is Dharma. That principle which goes against your very existence cannot be called Dharma. Dharma will never dictate you to die of hunger. Dharma will tell you, "Select your food properly so as to be conducive to your body, mind and spirit." 
+That which preserves your existence is Dharma. That principle which goes against your very existence cannot be called Dharma. 
+
+Dharma will never dictate you to die of hunger. Dharma will tell you, "Select your food properly so as to be conducive to your body, mind and spirit." 
 
 Dharma gives clear directions for development, it will never instruct you for suicide, because committing suicide is Adharma (sin) since it goes against your very existence. 
 
 Dharma helps in maintaining your existence. Committing suicide is Adharma. Is it essential to go in for a scriptural interpretation of it? This is Dharma deshana'. 
 
-According to Sam'skrta grammar "Dhr + Man = Dharma" i.e. which sustains your existence is Dharma. In Sam'skrta, the root verb `Dish’ means to demonstrate, to point out just as if I say ‑ this is the boundary of Bengal.
+According to Sanskrit grammar "Dhr + Man = Dharma" i.e. which sustains your existence is Dharma. In Sanskrit, the root verb `Dish’ means to demonstrate, to point out just as if I say ‑ this is the boundary of Bengal.
 
 The area which you demonstrate in the map is 'desha'. The place about which you can demonstrate is Bengal. This is Bengal, this is Andhra Pradesha. You can demonstrate it. Dharma deshana' means "the clear idea of what Dharma points out."
 
@@ -48,7 +50,7 @@ That action is called Him’sa’ by which one's physical, mental and spiritual 
 
 You went against the spirit of its physical expression. Here you committed Him'sa'. Suppose, somebody is reciting God's name or taking good thoughts mentally. 
 
-You start beating him up, you are destroying his mental expressions. When somebody is trying for spiritual progress, you are making noise by his side by singing film songs. You stopped his spiritual development. Here again you committed Him'sa'. You should never commit Him'sa'. The opposite of Him'sa' is Ahim'sa'. The English synonym of Him'sa' is not `violence'. Violence in Sam'skrta means Can'd'a Shakti or Can'd'ika' Shakti.
+You start beating him up, you are destroying his mental expressions. When somebody is trying for spiritual progress, you are making noise by his side by singing film songs. You stopped his spiritual development. Here again you committed Him'sa'. You should never commit Him'sa'. The opposite of Him'sa' is Ahim'sa'. The English synonym of Him'sa' is not `violence'. Violence in Sanskrit means Can'd'a Shakti or Can'd'ika' Shakti.
 
 Canda Shakti means appliance of physical force. For preservation of your physical existence, the appliance of Can'd'a Shakti is essential. If you do not apply it, how did you reach here from the office?
 

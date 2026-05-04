@@ -17,6 +17,10 @@ Metaphysics, as a subset of philosophy, was corrupted into Epistemology because 
 - This fallacy is a non-problem that was solved by the useless tool called Epistemology. 
 
 This is similar to how Aristotle corrupted logic into Ontology through the invention of syllogism. 
+- Syllogism is just the flow of mind from one related idea to another.
+- David Hume explained the dynamics of this flow by using Descartes' animal spirits which flow. 
+- The animal spirits are called chi in Taoism and vayu in Hinduism
+- Syllogism is the effect of the flow of the animal spirits -- it is wrong to build a system around effects instead of causes
 
 
 {{< q a="Adam Smith" c="Wealth of Nations, Book 5" >}}
@@ -43,6 +47,8 @@ Physics was gradually extended and divided into Physics and Metaphysics or Pneum
 
 Pneumatics is the study of the invisible aerial *pneuma* which is the same as chi in Taoism and Vayu in Yoga.
 
+Kant has nothing on pneuma or animal spirits or chi or vayu. 
+
 
 <!-- Dialectics was the most important part of Socrates' philosophy, of which the Socratic dialogue is the only part that is understood by academics. 
 
@@ -62,7 +68,7 @@ Nowadays, people think of dialectics as merely an exercise in logic, without any
 
 ## Kant Corrupts the Science of Knowledge
 
-Like the 18th century philosophers, Kant divides all knowledge as experiential (a posteriori), and non-experiential (a priori). 
+Like most shallow 18th century philosophers, Kant divides all knowledge as experiential (a posteriori), and non-experiential (a priori). 
 
 Traditionally:
 - **a priori** means 'before experience'
@@ -169,9 +175,13 @@ This makes something non-empirical as somewhat empirical. Refering to our man-wo
 
 ## Kant's Corruption of How the Mind Thinks: Mathematics
 
-The big problem was that both Aristotle and Kant were intellectuals. It is the nature of intellectuals to keep on thinking. 
+The big problem was that both Aristotle and Kant were intellectuals. It is the nature of intellectuals to keep on thinking. This is why the thinking path to knowlege and spirituality is frowned upon by Asian science. 
 
-So instead of realizing the existence of a Supreme Mind that can end the thiking process, both Kant and Aristotle enshrine logic as the top science: 
+The best way to knowledge is by combining love (passion for knowledge as curiosity), real world action (experimentation), and thinking (logic and analysis).  
+
+So instead of a holistic science of knowledge, both Kant and Aristotle enshrine logic as the top science: 
+
+ <!-- realizing the existence of a Supreme Mind that can end the thinking process,  -->
 
 
 Correct Science or Mechanism | Aristotle | Kant
@@ -258,6 +268,9 @@ To solve this non-problem, academics had to create "Epistemology" which is suppo
 The mix-up could be prevented by simply classifying which metaphysical object was sensory and which was not.
 - To further strengthen this classification process, the ancient Greek invented the tool of dialectics. 
 
+
+## An Example
+
 Let's say you get an idea to increase sales in your company. You are not sure whether it is correct or not. 
 
 - A common-sense person would ask his colleague immediately whether his idea would work. The colleague would then answer 'yes' or 'no' as a fact
@@ -301,3 +314,5 @@ But Kant, fueled by ego, foolishly pushes forward and enshrines imagination as t
 
 The overstrength of the ego is addressed by spirituality which is the expertise of the Asian sciences, not of Western religion.  
  -->
+
+ 

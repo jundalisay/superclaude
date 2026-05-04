@@ -5,7 +5,7 @@ weight: 54
 c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -13,25 +13,41 @@ writer:
 
 
 
-Sthirasukhama'sana - the position in which one is comfortable, having physical comfort and mental composure, is called A'sana. In A'sanas glands, nerves, tissues, muscles and all portions of the body get operated. 
+Sthirasukhama'sana - the position in which one is comfortable, having physical comfort and mental composure, is called A'sana. 
 
-We find in nature, creatures and animals possessing glands nerves, muscles and tissues having specific qualities. Their glands secrete differently, as a consequence, each one of them has a different character of Svabha'va. For example, locust have immense group feeling, they perform all actions collectively. If man imbibes the qualities possessed by the different glands of the locust, by some process, they will also be able to inculcate some of habits of locust.
+In A'sanas glands, nerves, tissues, muscles and all portions of the body get operated. 
 
-On this basis, an A'sana was made, in which the posture of the body resembles that of a locust, and it is called Shalabha'sana. Shalabha' means Locust. 
-Visualizing different habits in different animals, ancient Rs'is invented several A'sanas. 
+We find in nature, creatures and animals possessing glands nerves, muscles and tissues having specific qualities. 
 
-Later on, many more A'sanas were made to affect the different glands of the body. For example, Matsyendra Na'tha, a prince of Bengal, made an A'sana, which would affect the whole body, and the A'sana has been named after him as Matsyendra'sana. 
+Their glands secrete differently. As a consequence, each one of them has a different character of Svabhava. 
+
+For example, locusts:
+- have immense group feeling
+- perform all actions collectively
+
+If man imbibes the qualities possessed by the different glands of the locust, by some process, they will also be able to inculcate some of habits of locust.
+
+On this basis, the Shalabhasana Asana was invented in which the posture of the body resembles that of a locust. 
+- Shalabha' means Locust. 
+
+Visualizing different habits in different animals, ancient Rsis invented several Asanas. 
+
+Later on, many more Asanas were made to affect the different glands of the body.
+
+For example, Matsyendra Natha, a prince of Bengal, made an A'sana, which would affect the whole body, and the A'sana has been named after him as Matsyendra'sana. 
 
 The A'sana in which Viira'ca'rii Sa'dhaka used to sit in Shava-Sa'-dhana' in the burial ground has been named as Viira'sana. The A'sana in which head is kept downwards, is known as Shiirs'a'sana. We do not approve this A'sana since it causes an increase in the blood pressure and control of the temper is lost. This A'sana keeps the hair black, but the blackness will not remain if the A'sana is left. 
 
 Everything has merits and demerits both. You must know them. You must follow the rules of A'sanas, as mentioned in Carya'carya part III
 
 
-In Supplement to Carya'carya part – III
+## In Supplement to Carya'carya part 3
 
-Vya’paka Shaoca: Root of the penis, and three joints of the trunk connected with two hands and feet should be kept cool. By your system of bathing keep the body cool, and calm, and enable it to be operated as you please. The lower portion of the body should be supported tightly, because if this lower portion of your body e.g. penis and testicles are loose, there is a chance of their veins being adversely affected, and also of hydrocele. 
+Vya’paka Shaoca: Root of the penis, and 3 joints of the trunk connected with 2 hands and feet should be kept cool.
 
-Ta'masika food strengthens the lower Cakras Mu'la'dha'ra and Sva'dhis't'ha'na) which are also Ta'masika in character, Ra'jasika food will strengthen navel-Cakra, increase energy in the body, but the upper Cakras (Ana'hata and Vishuddha)will not be developed. As such, Sa'ttvika food is prescribed for those who practise A'sanas. Ra'jasika food should also be avoided in the night. Those who have not got strict control over their food, should take myrobalan in the night, if they have taken Ra'jasika food. But the amount of myrobalan must not be more than 1/4 of one myrobalan, in a day. Myrobalan must not be taken by those who are suffering from ulcer, and by ladies having menses. Myrobalan, if taken more, affects the power of procreation. Massaging, after A'sanas helps in the proper distribution of hormones secreted by the A'sanas. Suppose at times (not generally) some vital elements of the body also come out with the sweat, massaging will enable their absorption as well.
+By your system of bathing keep the body cool, and calm, and enable it to be operated as you please. The lower portion of the body should be supported tightly, because if this lower portion of your body e.g. penis and testicles are loose, there is a chance of their veins being adversely affected, and also of hydrocele. 
+
+Tamasika food strengthens the lower Cakras Muladhara and Svadhisthana) which are also Ta'masika in character, Ra'jasika food will strengthen navel-Cakra, increase energy in the body, but the upper Cakras (Ana'hata and Vishuddha)will not be developed. As such, Sa'ttvika food is prescribed for those who practise A'sanas. Ra'jasika food should also be avoided in the night. Those who have not got strict control over their food, should take myrobalan in the night, if they have taken Ra'jasika food. But the amount of myrobalan must not be more than 1/4 of one myrobalan, in a day. Myrobalan must not be taken by those who are suffering from ulcer, and by ladies having menses. Myrobalan, if taken more, affects the power of procreation. Massaging, after A'sanas helps in the proper distribution of hormones secreted by the A'sanas. Suppose at times (not generally) some vital elements of the body also come out with the sweat, massaging will enable their absorption as well.
 
 When the temperature outside the room where you were doing A'sanas happens to be much different than the room, inhale before coming out, so that it takes sometime in inhaling again, when you are outside, after exhaling the breath you had taken within the room, and during this short span of time, your body will have adjusted with the outside atmosphere. 
 
@@ -41,7 +57,7 @@ A'sanas are of two categories - Sva'sthya'sana and Dhya'na'sana. Sva'sthya'sana 
 
 Sahasra'ra, pituitary and thyroid invigorates the Cakras lower to them through secretions, while Mu'la'dha'ra invigorates none. During the period of this A'sana, Sahasra'ra, being at the lowest place, has to invigorate none, and gets rest, similarly other Cakras find some rest. Of course Mu'la'dha'ra gets more activated, but normally it is always at the lowest position. Provision of comparative rest to most of the glands in hormone-secretion, enables the body-machine to have some rest. As such, this A'sana has been said as Sarvarogahara (that which cures all diseases). It also helps in increasing longevity. 
 
-At times you may feel some pain in Mu'la'dha'ra, Sva'dhis't'ha'na and Man'ipura, since their positions were reversed. This will be relieved in Shava'sana. After the age of 60, there is some change in blood pressure, and so those who get high blood pressure, must not do this. But below 60 years of age, one can do it, even if there is some change in the blood pressure. 
+At times you may feel some pain in Mu'la'dha'ra, Svadhisthana and Man'ipura, since their positions were reversed. This will be relieved in Shava'sana. After the age of 60, there is some change in blood pressure, and so those who get high blood pressure, must not do this. But below 60 years of age, one can do it, even if there is some change in the blood pressure. 
 
 If the amount of salt taken is lessened, this A'sana will give better results. But it does not mean that one should not take salt. 
 
@@ -61,7 +77,7 @@ This A'sana affects the pancreas by reverting its normal position and as a resul
 
 7. NAOKA'SANA or DHANURA'SANA: The position of body, with reference to the navel, is just the opposite to the previous one. If both of these are done side by side this becomes a good exercise for the navel, which happens to be the controlling point of the entire body. An exercise of the same is very much advantageous to the physical, but has got little psycho-spiritual value. There are diseases which appear because of defect in Sapta Dha'tus (Rasa, Rakta, Ma'm'sa, Meda, Asthi, Majja' & Shukra). It helps in such diseases (e.g. syphilis, leprosy). 
 
-8. UTKAT'A PASHCIMOTTA'NA'SANA: In Sam'skrta, Pashcima means back, as such this A'sana has been named Pashcimotta'na. This A'sana affects the 3 lower Cakras (Man'ipura, Sva'dhis't'ha'na and Mu'la'dha'ra) by exerting pressure over them. This helps in syphilis, also in sciatica if the disease is at the preliminary stage. It also helps if acidity in blood has increased. 
+8. UTKAT'A PASHCIMOTTA'NA'SANA: In Sanskrit, Pashcima means back, as such this A'sana has been named Pashcimotta'na. This A'sana affects the 3 lower Cakras (Man'ipura, Svadhisthana and Mu'la'dha'ra) by exerting pressure over them. This helps in syphilis, also in sciatica if the disease is at the preliminary stage. It also helps if acidity in blood has increased. 
 
 9.PARVATA'SANA or HALA'SANA: This exercises pressure over Ana'hata and Vishuddha. Doing this A'sana for a longer duration may cause pain in chest, which is only due to the exercise involved, and is not harmful. 
 
@@ -69,13 +85,13 @@ This A'sana affects the pancreas by reverting its normal position and as a resul
 
 11. VAJRA'SANA'": The position of the body being like lightening, it is called Vajra'sana. It helps those ladies and males who have become impotent in an early age. Both will have similar advantages, but the Utkat'a Vajra'sana is a bit more advantageous. 
 
-12. SIDDHA'SANA: Put your left leg below at the Lam' point of Mu'la'dha'ra, and right leg above at Vam' point of Sva'dhis't'ha'na, eyes fixed at the A'jina' Cakra. It is the best A'sana for Sa'dhana', since by putting pressure over the controlling points of the two lowermost Cakras, which are Tamogun'ii, their activity has been suspended. This helps in concentrating the mind in Sa'dhana'. The lesson of Dhya'na must be practised while in it, and of course it can also be done while doing Iishvara Pran'idha'na. 
+12. SIDDHA'SANA: Put your left leg below at the Lam' point of Mu'la'dha'ra, and right leg above at Vam' point of Svadhisthana, eyes fixed at the A'jina' Cakra. It is the best A'sana for Sa'dhana', since by putting pressure over the controlling points of the two lowermost Cakras, which are Tamogun'ii, their activity has been suspended. This helps in concentrating the mind in Sa'dhana'. The lesson of Dhya'na must be practised while in it, and of course it can also be done while doing Iishvara Pran'idha'na. 
 
 13. BADDHA PADMA'SANA: Since Sus'umna' Ka'n'd'a remains in its actual position while doing this A'sana, this posture is the controlling A'sana of all other A'sanas, as it helps in doing them correctly. 
 
 14. KUKKUT'A'SANA: When you start Sa'dhana', you should let the hands lie within the legs before coming in Padma'sana, After some practice you shall be able to put your hands within the legs, even in Padma'sana. When you are in this A'sana, your posture resembles that of a hen, hence this is Kukkut'a'sana. A hen rarely suffers from T.B., that is, from lack of calcium, similarly this A'sana also saves one from the deficiency in calcium. But after the disease has appeared, it does not help. 
 
-15. GOMUKHA'SANA: This A'sana exercises an outer pressure on Mu'la'dha'ra and Sva'dhis't'hana, as a result it helps those who suffer from semenal loss. It helps in curing the diseases cropping up due to the weakness of Sva'dhis't'ha'na Cakra, which controls the seven Dha'tus of the body. It helps in the diseases of kidney, testicles including hydrocele. It shall help them who desire to keep semen in the body. It also helps ladies to build up their health, if they have lost it. This is named as Gomukha'sana, since knees during the A'sana appear like a cow from a distance. 
+15. GOMUKHA'SANA: This A'sana exercises an outer pressure on Mu'la'dha'ra and Sva'dhis't'hana, as a result it helps those who suffer from semenal loss. It helps in curing the diseases cropping up due to the weakness of Svadhisthana Cakra, which controls the seven Dha'tus of the body. It helps in the diseases of kidney, testicles including hydrocele. It shall help them who desire to keep semen in the body. It also helps ladies to build up their health, if they have lost it. This is named as Gomukha'sana, since knees during the A'sana appear like a cow from a distance. 
 
 16. MAYU'RA'SANA: During this A'sana the pressure of entire body falls on the navel and the elbows are pressing it. It exercises a great pressure on the pancreas, and helps in curing  also known as Kurma'sana.
 

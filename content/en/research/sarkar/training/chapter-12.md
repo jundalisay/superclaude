@@ -5,7 +5,7 @@ weight: 31
 c: "indigo"
 description: ""
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -20,9 +20,9 @@ The method of this subjectivization is known as Adhyayana or study. Root Adhi+Ay
 Adhyaya name an store ad something, understanding its proper meaning. If you read only without knowing the proper meaning, it does not come in the scope of Sva'dhya'ya. You might have seen a man reading Hanuma'na Ca'liisa' without stop. But he pays no attention to its meaning. It also happens that if he does not get time to read anyday, he will bid Pran'a'ma to the scripture just touching it with his head three times. These are all useless. 
 You have to read with proper understanding of the meaning. Here the `meaning' does not indicate the meaning of the word, lying within. If you yourself cannot understand the spirit, the underlying meaning of any subject, you should go to other persons who can help you. It is a must for you to know the meaning.
 
-Therefore, the first item of Sva'dhya'ya is to know the meaning. If you are reading Giita' only by reciting the Sam'skrta aphorisms, but you do not understand the meaning, then your study of Giita' is useless. Therefore, I say, the scripture should be written in the people's language. 
+Therefore, the first item of Sva'dhya'ya is to know the meaning. If you are reading Giita' only by reciting the Sanskrit aphorisms, but you do not understand the meaning, then your study of Giita' is useless. Therefore, I say, the scripture should be written in the people's language. 
 
-In Ananda Marga, books and scriptures are written in the people'slanguage. A'nandaSu'tram is written in Sam'skrta but its purport is in the people's language. Now the second item is Sha'stra. 
+In Ananda Marga, books and scriptures are written in the people'slanguage. A'nandaSu'tram is written in Sanskrit but its purport is in the people's language. Now the second item is Sha'stra. 
 
 
 ## What is Sha'stra?

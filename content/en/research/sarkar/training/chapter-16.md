@@ -5,7 +5,7 @@ weight: 41
 c: "indigo"
 description: "When your endeavour has brought the desired result, you call it Siddhi."
 icon: "PR Sarkar"
-draft: true
+
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -65,7 +65,7 @@ They aspire not only for occult powers, but also for Parama Purus'a.
 
 They dwell in a confusion. These Siddhas, often help the Sadhaka in Sadhana. 
 
-Spiritual aspirants who have liberated themselves from the effect of the two lower Cakras (Mu'la'dha'ra and Sva'dhis't'ha'na) can very easily see these Siddhas, they are luminous bodies comprising of three Tattvas (Tejas, Marut and Gagana), whereas a human body consists of 5 Bhu'tas.
+Spiritual aspirants who have liberated themselves from the effect of the two lower Cakras (Mu'la'dha'ra and Svadhisthana) can very easily see these Siddhas, they are luminous bodies comprising of three Tattvas (Tejas, Marut and Gagana), whereas a human body consists of 5 Bhu'tas.
 
 They can receive or emit through the vibration of their bodies.
 

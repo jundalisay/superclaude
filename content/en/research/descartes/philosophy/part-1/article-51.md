@@ -9,7 +9,10 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
+aliases:
+  /research/descartes/philosophy/part-1/section-05/
 ---
+
 
 
 ## 51. What is substance?
@@ -121,4 +124,5 @@ God is conceived as superior to change.
 - Therefore it is not proper to say that there are modes or qualities in him, but simply attributes.
  <!-- and even in created things that which is found in them always in the same mode,  -->
 - Similarly, the existence and duration in the thing which exists and endures should be called "attribute" and not "mode" or "quality" [because it is an independent mode].
+
 

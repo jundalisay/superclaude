@@ -1,5 +1,6 @@
 ---
-heading: Proposition 1 Theory 1
+heading: Proposition 1 
+# Theory 1
 title: "Resistance"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"

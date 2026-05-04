@@ -1,14 +1,16 @@
 ---
 title: "The Subject"
-heading: "Part 12b"
+heading: "Part 12"
 weight: 32
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "steelblue"
-description: ""
+description: "I will repeat a sentence to you in which a thing and an action are combined, by the help of a noun and a verb; and you shall tell me of whom the sentence speaks."
 icon: "Socrates"
 ---
+
+
 
 {{< l a="Foreigner" >}}
 I will repeat a sentence to you in which a thing and an action are combined, by the help of a noun and a verb; and you shall tell me of whom the sentence speaks.
@@ -236,7 +238,10 @@ Shall we regard one as the simple imitator—the other as the dissembling or iro
 
 Shall we further speak of this latter class as having one or two divisions?
 
-Upon consideration, then, there appear to me to be two; there is the dissembler, who harangues a multitude in public in a long speech, and the dissembler, who in private and in short speeches compels the person who is conversing with him to contradict himself.
+I think there are two:
+
+1. The dissembler who harangues a multitude in public in a long speech
+2. The dissembler who in private and in short speeches compels the person who is conversing with him to contradict himself
 
 Who is the maker of the longer speeches? Is he the statesman or the popular orator?
 {{< /r >}}
@@ -250,12 +255,16 @@ What shall we call the other? Is he the philosopher or the Sophist?
 {{< /l >}}
 
 {{< r a="Theaetetus" >}}
-The philosopher he cannot be, for upon our view he is ignorant; but since he is an imitator of the wise he will have a name which is formed by an adaptation of the word sophos. What shall we name him? I am pretty sure that I cannot be mistaken in terming him the true and very Sophist.
+He cannot be the philosopher, because on our view, he is ignorant. But since he is an imitator of the wise, he will have a name which is formed by an adaptation of the word sophos. So I call him a Sophist.
+
+<!-- What shall we name him? 
+
+I am pretty sure that I cannot be mistaken in terming him the true and very Sophist. -->
 {{< /r >}}
+
 
 {{< l a="Foreigner" >}}
 Shall we bind up his name as we did before, making a chain from one end of his genealogy to the other?
 
 He, then, who traces the pedigree of his art as follows—who, belonging to the conscious or dissembling section of the art of causing self-contradiction, is an imitator of appearance, and is separated from the class of phantastic which is a branch of image-making into that further division of creation, the juggling of words, a creation human, and not divine—any one who affirms the real Sophist to be of this blood and lineage will say the very truth.
 {{< /l >}}
-
