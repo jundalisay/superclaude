@@ -1,14 +1,16 @@
 ---
-title: "Evolution and Jumping Genes"
-heading: Section 1b
+title: "Proof for Lamarck's Evolution Theory: Jumping Genes"
+heading: Unit 2
 date: 2020-01-27
-weight: 12
+weight: 14
 image: /photos/med/sperm.jpg
 description: "Jumping Genes are caused by chi"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
+aliases:
+  /bio/principles/part-02/chapter-05/section-01b
 ---
 
 

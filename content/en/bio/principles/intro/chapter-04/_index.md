@@ -1,9 +1,10 @@
 ---
 heading: Chapter 4
-title: The Subtle and Convertible
-image: "/photos/physics/water.jpg"
-# description: The Radiant and Astral layer
+title: The Astral and Fire Layer
+linkTitle: Essential-Aerial
+image: "/photos/objects/telescope.jpg"
+description: The Astral and Fire Layer
 # date: 2020-10-31
-weight: 14
+weight: 12
 ---
 

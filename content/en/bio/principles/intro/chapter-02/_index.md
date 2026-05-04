@@ -1,9 +1,11 @@
 ---
 heading: Chapter 2
-title: The Essential and Aerial
-image: "/photos/physics/space.jpg"
-# description: We explain the engineering of living organisms done by Nature using the Superphysics paradigm
+title: The Causal and Aethereal Layer
+linkTitle: The Causal and Aethereal Layer
+image: "/photos/meta/occult.jpg"
+description: The Causal and Aethereal Layer
 # date: 2020-10-31
-weight: 6
+weight: 3
 ---
+
 

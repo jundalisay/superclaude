@@ -3,7 +3,7 @@ title: "Chromosomes as Organic Vortices"
 heading: Section 1
 date: 2020-01-27
 weight: 12
-image: /photos/med/sperm.jpg
+image: /photos/bio/dna.jpg
 description: "Genes are vortex"
 writer:
   name: Juan

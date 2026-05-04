@@ -1,9 +1,9 @@
 ---
-heading: Chapter 6
+heading: Chapter 7
 title: "Part and Chapter Arrangement"
 description: "Based on 5 Elements and 7 Chakras"
 date: 2024-07-07
-weight: 17
+weight: 37
 image: "/photos/meta/read.jpg"
 writer:
   name: Juan
