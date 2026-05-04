@@ -1,8 +1,8 @@
 ---
 title: "The System of Government"
-heading: "Section 3"
+heading: "Unit 1"
 date: "2022-05-13"
-image: /graphics/social/branches.jpg
+image: /photos/econ/land.jpg
 description: ""
 weight: 3
 writer:

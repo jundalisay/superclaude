@@ -1,10 +1,9 @@
 ---
 heading: "Section 6"
 title: "The Usufruct Economy and Net Domestic Product"
-# Flow of Resources within and between Societies"
 date: 2025-10-07
 weight: 699
-image: /photos/econ/tax.jpg
+image: /photos/econ/land.jpg
 description: The Usufruct Economy makes private property temporary and conditional, instead of absolute.
 writer:
   name: Juan
