@@ -60,11 +60,22 @@ This neesd a whole new math which we call qualimath which measures chanigng aete
 
 An idea is qualitative, not quantitive. 
 
-For example, the idea of demoracy has similar qualities to the idea of liberalism and the opposite qualities of tyranny.  
+Even you say: "I have an idea!" and then you actually look into that idea, you will find that that idea is made up of other ideas.
 
-The idea of demoracy is closer to the idea of economy than the idea of a potato. There is no way to quantify the difference between democracy and potato, or democracy as a system of government versus democracy as freedom. 
+Let's say you have an idea to write a song.
+- The idea of a song is made up of ideas of music, lyrics, instruments, etc. 
+- The idea of instruments are made up of type of instrument, size, weight, price, etc. 
+- The idea of size has small, medium, large, etc.
 
-We thus assign qualities to our deconstructed equations. 
+Small, medium, large are qualities. 
+
+<!-- For example, the idea of democracy has similar qualities to the idea of liberalism and the opposite qualities of tyranny.  
+
+The idea of demoracy is closer to the idea of economy than the idea of a potato. There is no way to quantify the difference between democracy and potato, or democracy as a system of government versus democracy as freedom.  -->
+
+We say that idea quanta are made up of qualities. Processing them with logic, staying within a specific quality-category, then makes up a qualitative math which we call Qualimath.
+
+We thus assign qualities to our deconstructed supermath equations. 
 
 <!-- This is also because waves are more qualitative than quantitative in nature.    -->
 
