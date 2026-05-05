@@ -4,8 +4,7 @@ weight: 2
 # date: 2022-01-31
 description: The Magna Carta
 author: "King John"
-image: "/covers/magna.jpg"
-icon: gb
+icon: England
 aliases:
   /research/england/magna-carta/article-1/
 ---

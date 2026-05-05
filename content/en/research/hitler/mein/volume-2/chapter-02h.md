@@ -1,8 +1,8 @@
 ---
-title: The Intellectual Class and Valuing Manual Labor
-heading: Chapter 2i
-weight: 26
-description: "Our intellectual class, particularly in Germany, is so shut up in itself and fossilized that it lacks living contact with the classes beneath it"
+title: "Third Modification in the Educational System: Indoctrination"
+heading: Chapter 2h
+weight: 24
+description: "The People's State must realize that the sciences can also promote a spirit of pride in the nation"
 writer:
   name: Adolf Hitler
   url: https://en.wikipedia.org/wiki/Adolf_Hitler
@@ -12,133 +12,126 @@ icon: "Adolf Hitler"
 
 
 
-<!-- There is still another reason why the State should provide for this situation.  -->
 
-Our intellectual class, particularly in Germany, is so shut up in itself and fossilized that it lacks living contact with the classes beneath it. Two evil consequences result from this:
+<!-- Therefore the third point which will have to be considered in relation to our educational
+system is the following: -->
 
-1. The intellectual class neither understands nor sympathizes with the broad masses.
+The People's State must realize that the sciences can also promote a spirit of pride in the nation. The history of the world and of civilization as a whole must be taught in the light of this principle. 
 
-It has been so long cut off from them that it does not have the necessary psychological ties to understand them. It has become estranged from the people.
+An inventor must appear great not only as an inventor but also, and even more so, as a member of the nation.
 
-2. The intellectual class lacks the necessary willpower.
+The admiration aroused by the contemplation of a great achievement must be transformed into a feeling of pride and satisfaction that a man of one's own race has been chosen to accomplish it. But out of the abundance of great names in German history the greatest will have to be selected and presented to our young generation in such a way as to become solid pillars of strength to support the national spirit. 
 
-Willpower is always weaker in cultivated circles, which live in seclusion, than among the primitive masses.
+The subject matter should be systematically organized from the standpoint of this principle.
 
-We Germans have never been lacking in abundant scientific culture. But we have always had a lack of willpower and the capacity for making decisions.
+The teaching should be orientated so that the boy or girl, after leaving school, will be a whole-hearted German, not:
+- a semi-pacifist
+- a democrat or something of that kind. 
 
-For example, the more 'intellectual' our statesmen have been, the more lacking they have been in practical achievement. 
+This national feeling should be sincere from the very beginning and not a mere pretence. The following fundamental and inflexible principle should be impressed on the young brain while it is yet malleable.
 
-Our political preparation and our technical equipment for the World War were defective because the men who directed our public affairs were overeducated. They were overflowing with knowledge and intelligence, yet without any sound instinct, energy, or any spirit of daring. 
+The man who loves his nation can prove the sincerity of this sentiment only by being ready to make sacrifices for the nation's welfare.
 
-Our nation had to fight for its existence under a Chancellor who was a dillydallying philosopher. 
+There is no such thing as a national sentiment which is directed towards personal interests. And there is no such thing as a nationalism that embraces only certain classes. 
 
-If instead of a Bethmann von Hollweg, we had had a rough man of the people as our leader, the heroic blood of the common grenadier would not have been shed in vain. 
+Hurrahing proves nothing and does not confer the right to call oneself national if behind that shout there is no sincere preoccupation for the
+conservation of the nation's well-being. One can be proud of one's people only if there is no class left of which one need to be ashamed. 
 
-The exaggeratedly intellectual leaders were the best ally of the scoundrels who carried out the November revolution. 
+When one half of a nation is sunk in misery and worn out by hard distress, or even depraved or degenerate, that nation presents such an unattractive picture that nobody can feel proud to belong to it. 
 
-These intellectuals safeguarded the national wealth in a miserly fashion, instead of launching it forth and risking it. This led to the success of our enemy.
+It is only when a nation is sound in all its members, physically and morally, that the joy of belonging to it can properly be intensified to the supreme feeling which we call national pride. 
 
-Here the Catholic Church presents an instructive example. Clerical celibacy forces the Church to recruit its priests not from their own ranks but progressively from the masses. 
+But this pride, in its highest form, can be felt only by those who know the greatness of their nation.
 
-<!-- Yet there are not many who recognize the significance of celibacy in this relation.  -->
+The spirit of nationalism and a feeling for social justice must be fused into one sentiment in the hearts of the youth. Then a day will come when a nation of citizens will arise which will be welded together through a common love and a common pride that shall be invincible and indestructible for ever.
 
-But that recruitmen provides the inexhaustible vigour of the Church. It lets the Church:
-- maintain contact with the masses
-- draw upon that fund of energy in the popular masses. 
+The dread of chauvinism, which is a symptom of our time, is a sign of its impotence. 
 
-This is the cause of that gigantic organism's surprising:
-- youthfulness
-- mental flexibility
-- iron will-power.
+Since our epoch not only lacks everything in the nature of exuberant energy but even finds such a manifestation disagreeable, fate will never elect it for the accomplishment of any great deeds.
 
-The educational system of the Peoples' State will furnish the the existing intellectual class with a constant supply of fresh blood from beneath. 
+For the greatest changes that have taken place on this earth would have been inconceivable if they had not been inspired by ardent and even hysterical passions, but only by the bourgeois virtues of peacefulness and order.
 
-From this bulk, the State must:
-- sift out with careful scrutiny those persons who have natural talents
-- see that they are employed in the service of the community.
+One thing is certain: our world is facing a great revolution. The only question is whether the outcome will be propitious for the Aryan portion of mankind or whether the everlasting Jew will profit by it.
 
-The State itself should not furnish the revenues for members of a special class. Instead, it should fulfill the tasks allotted to them. 
+By educating the young generation along the right lines, the People's State will have to see to it that a generation of mankind is formed which will be adequate to this supreme combat that will decide the destinies of the world.
 
-This will be possible, however, only if the State trains individuals specially for these offices. 
+That nation will conquer which will be the first to take this road.  
 
-Such individuals must have the necessary fundamental capabilities and willpower. 
+The whole organization of education and training which the People's State is to build up must take as its crowning task the work of instilling into the hearts and brains of the youth entrusted to it the racial instinct and understanding of the racial idea. No boy or girl must leave school without having attained a clear insight into the meaning of racial purity and the importance of maintaining the racial blood unadulterated. 
 
-The principle does not hold true only in regard to the civil service but also in regard to all those who are to take part in the intellectual and moral leadership of the people, no matter in what sphere they may be employed. 
+Thus the first indispensable condition for the preservation of our race will have been established and thus the future cultural progress of our people will be assured. 
 
-The greatness of a people is partly dependent on the condition that it must succeed in training the best brains for those branches of the public service for which they show a special natural aptitude and in placing them in the offices where they can do their best work for the good of the community.
+For in the last analysis all physical and mental training would be in vain unless it served an entity which is ready and determined to carry on its own existence and maintain its own characteristic qualities.
 
-If two nations of equal strength and quality fight each other, then:
-- the winner will be the one that has entrusted its intellectual and moral leadership to its best talents
-- the loser will be the one led by privileged groups or classes and where the inner talents of its individual members are not availed of.
+If it were otherwise, something would result which we Germans have cause to regret already, without perhaps having hitherto recognized the extent of the tragic calamity. 
 
-Such a reform seems impossible today.
+We should be doomed to remain also in the future only manure for civilization. And that not in the banal sense of the contemporary bourgeois mind, which sees in a lost fellow member of our people only a lost citizen, but in a sense which we should have painfully to recognize: namely, that our racial blood would be destined to disappear. 
 
-It might be too much to expect from the favourite son of a highly-placed civil servant to work diligently simply because a poorer candidate might be more capable for a job. 
+By continually mixing with other races we might lift them from their former lower level of civilization to a higher grade; but we ourselves should descend for ever from the heights we had reached.
 
-That argument is valid as long as manual work is looked upon as it is looked upon today.
+Finally, from the racial standpoint this training also must find its culmination in the military service. The term of military service is to be a final stage of the normal training which the average German receives.
 
-Hence the Peoples' State will have to appreciate manual labour.
+While the People's State attaches the greatest importance to physical and mental training, it has also to consider, and no less importantly, the task of selecting men for the service of the State itself.
 
- <!-- which will be fundamentally different from that which now exists.  will have to organize a persistent system of teaching which -->
+This important matter is passed over lightly at the present time. Generally the children of parents who are for the time being in higher situations are in their turn considered worthy of a higher education. Here talent plays a
+subordinate part. 
 
-If necessary, its educational system will abolish the present-day stupid habit of looking down on physical labour as shameful.
- <!-- an occupation to be ashamed of. -->
+But talent can be estimated only relatively. Though in general culture he may be inferior to the city child, a peasant boy may be more talented than the son of a family that has occupied high positions through many generations. But the superior culture of the city child has in itself nothing to do with a greater or lesser degree of talent; for this culture has its roots in the more copious mass of impressions which arise from the more varied education and the surroundings among which this child lives. 
 
-The individual will have to be valued, not by the class of work he does but by:
-- the way he does it
-- its usefulness to the community. 
+If the intelligent son of peasant parents were educated from childhood in similar surroundings his intellectual accomplishments would be quite otherwise. In our day there is only one sphere where the family in which a person has been born means less
+than his innate gifts. 
 
-This statement may sound monstrous in an epoch when the most brainless newspaper columnist is more esteemed than the most expert mechanic, merely because the former pushes a pen. 
+That is the sphere of art. Here, where a person cannot just 'learn,' but must have innate gifts that later on may undergo a more or less happy development (in the sense of a wise development of what is already there), money and parental  property are of no account. This is a good proof that genius is not necessarily connected with the higher social strata or with wealth.
 
-But this false valuation does not correspond to the nature of things. 
+Not rarely the greatest artists come from poor families. And many a boy from the country village has eventually become a celebrated master.
 
-It has been artificially introduced, arising from our materialistic epoch. There was a time when it did not exist at all.
+It does not say much for the mental acumen of our time that advantage is not taken of this truth for the sake of our whole intellectual life. The opinion is advanced that this principle, though undoubtedly valid in the field of art, has not the same validity in regard to what are called the applied sciences. 
 
-<!-- The present unnatural state of affairs is one of those general morbid phenomena that have
-arisen.  -->
+A man can be trained to a certain amount of mechanical dexterity, just as a poodle can be taught incredible tricks by a clever master. 
 
-## The Material Versus the Ideal
+But such training does not bring the animal to use his intelligence in order to carry out those tricks. And the same holds good in regard to man. It is possible to teach men, irrespective of talent or no talent, to go through certain scientific exercises,
+but in such cases the results are quite as inanimate and mechanical as in the case of the
+animal. 
 
-Fundamentally, every kind of work has a double value:
-- the material
-- the ideal.
+It would even be possible to force a person of mediocre intelligence, by means of a severe course of intellectual drilling, to acquire more than the average amount of knowledge; but that knowledge would remain sterile. The result would be a man who
+might be a walking dictionary of knowledge but who will fail miserably on every
+critical occasion in life and at every juncture where vital decisions have to be taken.
 
-The material value depends on the practical importance of the work to the life of the community.
+Such people need to be drilled specially for every new and even most insignificant task and will never be capable of contributing in the least to the general progress of mankind. 
 
-The more the persons who benefit from the work, the higher will be its material value. This value is expressed in the material recompense 
- which the individual receives for his labour. 
+Knowledge that is merely drilled into people can at best qualify them to fill government positions under our present regime.
 
-The ideal value on the other hand is judged by how it answers a necessity.
+It goes without saying that, among the sum total of individuals who make up a nation,
+gifted people are always to be found in every sphere of life. It is also quite natural that
+the value of knowledge will be all the greater the more vitally the dead mass of learning
+is animated by the innate talent of the individual who possesses it. Creative work in this
+field can be done only through the marriage of knowledge and talent.
 
-The material utility of an invention may be greater than that of the service rendered by an everyday workman.
+One example will suffice to show how much our contemporary world is at fault in this matter. From time to time our illustrated papers publish, for the edification of the German philistine, the news that in some quarter or other of the globe, and for the first
+time in that locality, a Negro has become a lawyer, a teacher, a pastor, even a grand
+opera tenor or something else of that kind. 
 
-**But the community needs each of those small daily services just as much as the greater services.** 
+While the bourgeois blockhead stares with amazed admiration at the notice that tells him how marvellous are the achievements of
+our modern educational technique, the more cunning Jew sees in this fact a new proof
+to be utilized for the theory with which he wants to infect the public, namely that all
+men are equal. 
 
-From the material point of view, a distinction can be made in the evaluation of different kinds of work according to their utility to the community.
-- This distinction is expressed by the differentiation in the scale of recompense.
+It does not dawn on the murky bourgeois mind that the fact which is published for him is a sin against reason itself, that it is an act of criminal insanity to train a being who is only an anthropoid by birth until the pretence can be made that he has been turned into a lawyer; while, on the other hand, millions who belong to the most civilized races have to remain in positions which are unworthy of their cultural level. 
 
-But on the ideal or abstract plans, all workmen become equal the moment each strives to do his best in his own field, no matter what that field may be. 
-- It is on this that a man's value must be estimated, and not on the amount of recompense received. 
+The bourgeois mind does not realize that it is a sin against the will of the eternal Creator to allow hundreds of thousands of highly gifted people to remain floundering in the swamp of proletarian misery while Hottentots and Zulus are drilled to fill positions in the intellectual professions. For here we have the product only of a drilling technique, just as in the case of the performing dog. If the same amount of care and effort were applied among intelligent races each individual would become a thousand times more capable in such matters.
 
-In a reasonably directed State care must be taken that each individual is given the kind of work which corresponds to his capabilities. 
+This state of affairs would become intolerable if a day should arrive when it no longer refers to exceptional cases. But the situation is already intolerable where talent and natural gifts are not taken as decisive factors in qualifying for the right to a higher education. It is indeed intolerable to think that year after year hundreds of thousands of
+young people without a single vestige of talent are deemed worthy of a higher
+education, while other hundreds of thousands who possess high natural gifts have to go
+without any sort of higher schooling at all. 
 
-People will be trained for the positions indicated by their natural endowments. These endowments or faculties are innate and cannot be acquired by any amount of training, being a gift from Nature and not merited by men. 
+The practical loss thus caused to the nation is incalculable. If the number of important discoveries which have been made in America has grown considerably in recent years one of the reasons is that the number of gifted persons belonging to the lowest social classes who were given a higher education in that country is proportionately much larger than in Europe.
 
-Therefore, men should not be measured according to the kind of work that they do. This is because that work has been assigned to them. 
+A stock of knowledge packed into the brain will not suffice for the making of discoveries. What counts here is only that knowledge which is illuminated by natural talent. But with us at the present time no value is placed on such gifts. Only good school
+reports count.
 
-<!-- Seeing that the kind of work in which the individual is employed is to be accounted to his inborn gifts and the resultant training which he has received from the community,  -->
+Here is another educative work that is waiting for the People's State to do. It will not be its task to assure a dominant influence to a certain social class already existing, but it
+will be its duty to attract the most competent brains in the total mass of the nation and promote them to place and honour. 
 
-He should be judged by how he performs the work entrusted to him by the community.
-
-For the work which the individual performs is not the purpose of his existence, but only a means. His real purpose in life is to better himself and raise himself to a higher level as a human being. But this he can only do in and through the community whose cultural life he shares. 
-
-This community must always exist on the foundations on which the State is based.
-
-He should contribute to the conservation of those foundations. Nature determines the form of this contribution. It is the duty of the individual to return to the community, zealously and honestly, what the community has given him. 
-
-He who does this deserves the highest respect and esteem. Material remuneration may be given to him whose work has a corresponding utility for the community; but the ideal recompense must lie in the esteem to which everybody has a claim who serves his people with whatever powers Nature has bestowed upon him and which have been developed by the training he has received from the national community.
-
-Then it will no longer be dishonourable to be an honest craftsman; but it will be a cause of disgrace to be an inefficient State official, wasting God's day and filching daily bread from an honest public. Then it will be looked upon as quite natural that positions should not be given to persons who of their very nature are incapable of filling them.
-
-Furthermore, this personal efficiency will be the sole criterion of the right to take part on an equal juridical footing in general civil affairs.
+It is not merely the duty of the State to give to the average child a certain definite education in the primary school, but it is also its duty to open the road to talent in the proper direction. And above all, it must open the doors of the higher schools under the State to talent of every sort, no matter in what social class it may appear. This is an imperative necessity; for thus alone will it be possible to develop a talented body of public leaders from the class which represents learning that in itself is only a dead mass.
 

@@ -6,7 +6,9 @@ title: "The Substance of Spacetime: Black Holes"
 weight: 20
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
-icon: /icons/spmat.p
+icon: Juan
+aliases:
+  /material/principles/part-2/chapter-04d/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -145,3 +147,12 @@ When enlarged as to wrap around matter, it creates a vortex that can let the mat
 
 {{< i s="/graphics/physics/tunnels.jpg" >}}
 
+
+
+<!-- ## Validated by Sassani
+black holes are used to tunnel into new dimensions 
+wormhole vortex top of vortex is another vortex 
+the center of that vortex is a neutral space that can be programmed as the template level where information can be encoded that is connected to the neutral zone when you meditate upon infinity. 
+finite beings has infinite variations 
+
+As al -->

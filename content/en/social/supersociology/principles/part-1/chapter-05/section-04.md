@@ -1,6 +1,6 @@
 ---
 title: "The Ideology Matrix-Vector"
-heading: Chapter 5
+heading: Section 4
 date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
 weight: 38

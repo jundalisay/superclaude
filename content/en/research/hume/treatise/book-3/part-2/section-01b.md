@@ -1,7 +1,7 @@
 ---
 heading: Section 1b
 title: " The Private and Public Interests Are Not The Motive To Justice Or Morality"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: "We need to find some motive to acts of justice and honesty, distinct from our regard to the honesty."
 c: "steelblue"
 # date: 2015-x-x
 weight: 6
@@ -9,7 +9,10 @@ writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
+aliases:
+  /research/hume/treatise/book-3/part-2/section-01b/
 ---
+
 
 
 
@@ -127,7 +130,7 @@ It is dependent on the preceding notions of justice and property.
 A man's property is supposed to be fenced against every mortal.
 
 But private benevolence is weaker in some persons than in others.
-<<<<<<< HEAD:content/en/research/hume/treatise/book-3/part-2/section-1b.md
+
 - In most persons, it must absolutely fail.
 
 Therefore, private benevolence is not the original motive of justice.
@@ -141,6 +144,46 @@ Since no action can be equitable or meritorious if it cannot come from some sepa
 The sense of justice and injustice is not derived from nature unless we allow that nature has:
 - established a sophistry, and
 - rendered it necessary and unavoidable.
+
+
+No action can be good or bad without some motives or impelling passions, distinct from the sense of morals.
+
+This means that these distinct passions have a great influence on the sense of morals. 
+
+We blame or praise an action according to the general force of those passions.
+
+We view the economy of an animal species when we judge the beauty of animal bodies.
+- We call them handsome and beautiful if their limbs and features observe that proportion which is common to their species
+
+Similarly, we always consider the natural and usual force of the passions, when we determine concerning vice and virtue.
+
+If the passions depart very much from the common measures on either side, they are always disapproved of as vicious.
+
+Where everything else is equal, a man naturally loves:
+- his children better than his nephews
+- his nephews better than his cousins
+- his cousins better than strangers
+
+Hence arise our common measures of duty, in preferring the one to the other. 
+
+Our sense of duty always follows the common and natural course of our passions.
+
+When I say that I deny justice to be a natural virtue, I mean "natural" only as opposed to artificial.
+
+The sense of virtue is the most natural principle of the human mind.
+- Therefore, justice is the most natural virtue.
+
+Mankind is an inventive species.
+
+Where an invention is obvious and absolutely necessary, then it is as natural as anything that proceeds immediately from original principles, without the intervention of thought or reflection. 
+
+The rules of justice are:
+- artificial, but not arbitrary
+- not the Laws of Nature if "natural" means something that is common to or inseparable from any species.
+
+
+{{< n n="We say justice is artificial but dharmic. The Laws of Nature are non-artificial but also dharmic. The problem is that English uses the sane word nature for dharma and Nature (the crude aspect of the Supreme. Dharma takes account of the Positive and Negative flow, but Nature only focuses on the flow." >}}
+
 
 
 <!-- =======
@@ -157,13 +200,12 @@ The sense of justice and injustice is not derived from nature unless we allow th
         established a sophistry, and
         rendered it necessary and unavoidable.
 
->>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886:content/en/research/hume/treatise/book-3/part-2/section-01b.md
+
 It instead arises artificially, though necessarily, from education and human conventions.
 
 In addition, no action can be laudable or blameable without some motives distinct from the sense of morals.
         Thus, these motives must have a great influence on the sense of morals.
-<<<<<<< HEAD:content/en/research/hume/treatise/book-3/part-2/section-1b.md
-======= -->
+
 
 We blame or praise according to their general force in human nature.
 
@@ -179,7 +221,8 @@ Where everything else is equal, a man naturally loves:
         his cousins better than strangers.
     Our common measures of duty in preferring the one to the other, comes from this.
         Our sense of duty always follows the common and 'natural' course of our passions.
->>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886:content/en/research/hume/treatise/book-3/part-2/section-01b.md
+
+
 
 We blame or praise according to their general force in human nature.
 
@@ -214,3 +257,4 @@ Though the rules of justice are artificial, they are not arbitrary.
 It is proper to call them Laws of Nature if we mean 'natural' as something:
 - common to any species, or
 - something inseparable from the species.
+-->

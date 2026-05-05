@@ -8,6 +8,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 27
+aliases:
+  /social/supersociology/principles/part-1/chapter-05c/
 ---
 
 

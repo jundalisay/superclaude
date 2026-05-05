@@ -9,6 +9,7 @@ writer:
 c: "steelblue"
 aliases:
   /research/euclid/book-1/part-01/
+  /research/euclid/elements/book-1/part-01/
 ---
 
 
