@@ -3,7 +3,7 @@ heading: "Section 2"
 linkTitle: Demand Efficiency
 title: "Demand Efficiency and Inefficiency"
 date: 2025-01-27
-weight: 62
+weight: 8
 image: /photos/psych/eat.jpg
 description: "The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system"
 writer:

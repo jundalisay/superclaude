@@ -1,9 +1,9 @@
 ---
-heading: "Section 6"
-title: "The Usufruct Economy and Net Domestic Product"
+heading: "Unit 4"
+title: "The Usufruct Economy"
 date: 2025-10-07
-weight: 699
-image: /photos/econ/land.jpg
+weight: 12
+image: "/graphics/econ/usufruct.jpg"
 description: The Usufruct Economy makes private property temporary and conditional, instead of absolute.
 writer:
   name: Juan
@@ -16,7 +16,16 @@ aliases:
 
 
 
-The Usufruct Economy and Net Domestic Product
+## The Usufruct Economy Strategy within GNH
+
+
+
+
+
+## The Usufruct Economy Tactics as Economy-as-a-Service
+
+
+
 
 <!-- 
 ## Third law

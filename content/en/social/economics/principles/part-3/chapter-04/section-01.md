@@ -4,7 +4,7 @@ title: "The Usufruct Economy"
 weight: 4
 date: 2018-06-03
 description : "The Usufruct Economy"
-image: "/photos/econ/land.jpg"
+image: "/graphics/econ/usufruct.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

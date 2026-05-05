@@ -1,6 +1,5 @@
 ---
-heading: "Chapter 7"
-linkTitle: Chapter 7
+heading: "Section 1"
 title: "Grain Index"
 weight: 70
 date: 2025-01-19

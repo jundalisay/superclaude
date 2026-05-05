@@ -18,6 +18,18 @@ HUGO_VERSION 0.145.0
 Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GMT on weekdays. Now through March 28.
 
 
+# GHN
+Good Governance
+Culture
+Community Vitality
+Time Use
+Education
+Health
+Mental Health
+Environment
+Living Standards
+
+
 
 aether media = amed
 aether particles (monad) = apars

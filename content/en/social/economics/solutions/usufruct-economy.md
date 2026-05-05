@@ -1,7 +1,8 @@
 ---
 title: "The Usufruct Economy-as-a-Service"
 date: 2024-07-02
-image: "/graphics/econ/circular.jpg"
+# image: "/graphics/econ/circular.jpg"
+image: "/graphics/econ/usufruct.jpg"
 description: "We explain how the Usufruct Economy will work and how it integrates with a moneyless points-based system"
 # writer:
 #   name: Juan

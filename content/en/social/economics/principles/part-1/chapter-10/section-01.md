@@ -1,8 +1,8 @@
 ---
-heading: Unit 1
+heading: Section 1
 title: "The Usufruct Economy-as-a-Service"
 date: 2025-01-18
-image: "/photos/social/family.jpg"
+image: "/graphics/econ/usufruct.jpg"
 description: "We explain how the Usufruct Economy will work and how it integrates with a moneyless points-based system"
 weight: 4
 writer:
