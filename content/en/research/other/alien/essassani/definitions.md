@@ -44,7 +44,9 @@ Thing | Meaning or Representation
 Horse | the new way
 Dragon | 
 Dog |
-13 | Change
+13 | Change (to the Sassani)
+water | flow of emotions
+
 
 
 ## Words 

@@ -1,7 +1,6 @@
 ---
-title: "Nova"
+title: "Hypothesis Physica Nova"
 # linkTitle: Leibniz
-# heading: Dogmatic
 description: ""
 a: "Leibniz"
 c: "darkgoldenrod"

@@ -32,9 +32,11 @@ We can think of the Sassani as the latest iPhones capable of playing EXCITING ga
 
 ![Game](/photos/stuff/game.jpg)
 
-Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake.
+Proof of this is the many questions of people using the formula but **STILL** unable to get the money they need. Some even quit their jobs, being drawn by the powerful Sassani high vibration to chase their dreams, and end up miserable when they realize they are still stuck in low vibration, with bad finances. 
 
-The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened ego that is in all humans**. 
+Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams.
+
+The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened negative ego that is in all humans**. 
 
 Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'.
 

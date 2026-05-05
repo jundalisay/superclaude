@@ -41,6 +41,18 @@ Fear is love in a negative context, an illusion of disconnection.
 There is no lack of love. 
 
 
+## Unconditional Love
+
+Unconditional Love is the vibration of Existence itself. 
+
+It has little do with human expression of love.
+
+It is a state of being that is pure unto itself. It allows a compassionate relationship in an observable way, regardless of the human interaction.
+
+1. It is a pure of compassion and allowance. 
+
+2. It is to see whether you have uncondtional love when conditions are imposed by your beliefs. 
+
 
 ## Relationships
 
