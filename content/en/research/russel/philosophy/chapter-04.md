@@ -2,7 +2,7 @@
 title: "Idealism"
 heading: "Chapter 4"
 description: "The word 'idealism' is used by different philosophers in different senses"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 12
 # date: 1912
 ---

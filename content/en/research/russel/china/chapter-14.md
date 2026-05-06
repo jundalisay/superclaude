@@ -2,7 +2,7 @@
 title: "Industrialism In China"
 heading: "Chapter 14"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

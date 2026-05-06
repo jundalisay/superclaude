@@ -2,7 +2,7 @@
 title: "Our Knowledge Of Universals"
 heading: "Chapter 10"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 44
 # date: 1912
 ---

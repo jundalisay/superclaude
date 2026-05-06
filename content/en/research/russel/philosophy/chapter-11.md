@@ -2,7 +2,7 @@
 title: "Intuitive Knowledge"
 heading: "Chapter 11"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 48
 # date: 1912
 ---

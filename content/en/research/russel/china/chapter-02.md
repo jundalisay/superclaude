@@ -2,7 +2,7 @@
 title: "China Before The 19th Century"
 heading: "Chapter 2"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

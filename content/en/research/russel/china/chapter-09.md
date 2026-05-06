@@ -2,7 +2,7 @@
 title: "The Washington Conference"
 heading: "Chapter 9"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

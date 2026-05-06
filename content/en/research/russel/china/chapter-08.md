@@ -2,7 +2,7 @@
 title: "Japan And China During The War"
 heading: "Chapter 8"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

@@ -2,7 +2,7 @@
 title: "The Nature Of Ideas"
 heading: "Chapter 4b"
 description: "The word 'idealism' is used by different philosophers in different senses"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 13
 # date: 1912
 ---

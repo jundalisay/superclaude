@@ -2,7 +2,7 @@
 title: "The Outlook For China"
 heading: "Chapter 15"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

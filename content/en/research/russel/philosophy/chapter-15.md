@@ -2,11 +2,10 @@
 title: "The Value Of Philosophy"
 heading: "Chapter 15"
 description: "What is the value of philosophy and why should it be studied?"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 64
 # date: 1912
 ---
-
 
 
 

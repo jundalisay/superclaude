@@ -2,7 +2,7 @@
 title: "Kant's System"
 heading: "Chapter 8b"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 36
 # date: 1912
 ---

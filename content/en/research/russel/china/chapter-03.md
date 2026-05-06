@@ -2,7 +2,7 @@
 title: "China And The Western Powers"
 heading: "Chapter 3"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

@@ -2,7 +2,7 @@
 title: "Japan Before The Restoration"
 heading: "Chapter 5"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

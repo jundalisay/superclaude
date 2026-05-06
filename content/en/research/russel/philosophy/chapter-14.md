@@ -2,7 +2,7 @@
 title: "The Limits Of Philosophical Knowledge"
 heading: "Chapter 14"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 60
 # date: 1912
 ---

@@ -2,7 +2,7 @@
 title: "Knowledge By Acquaintance"
 heading: "Chapter 5b"
 description: "We have acquaintance in sensation with the data of the outer senses, and in introspection with the data of what may be called the inner sense—thoughts, feelings, desires, etc"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 17
 # date: 1912
 ---

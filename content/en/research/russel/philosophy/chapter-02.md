@@ -2,7 +2,7 @@
 title: "The Existence Of Matter"
 heading: "Chapter 2"
 description: "Does matter exist?"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 6
 # date: 1912
 ---

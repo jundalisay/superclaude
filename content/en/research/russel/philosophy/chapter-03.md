@@ -2,7 +2,7 @@
 title: "The Nature Of Matter"
 heading: "Chapter 3"
 description: "What is the nature of this real table, which persists independently of my perception of it?"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 10
 # date: 1912
 ---

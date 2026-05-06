@@ -2,7 +2,7 @@
 title: "Appearance And Reality"
 heading: "Chapter 1"
 description: "Is there any knowledge in the world which is so certain that no reasonable man could doubt it?"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 2
 # date: 1912
 ---

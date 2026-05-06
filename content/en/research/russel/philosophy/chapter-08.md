@@ -2,7 +2,7 @@
 title: "How A Priori Knowledge Is Possible"
 heading: "Chapter 8"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 32
 # date: 1912
 ---
@@ -31,21 +31,23 @@ Such propositions are trivial, and would never be enunciated in real life except
 
 They are called 'analytic' because the predicate is obtained by merely analysing the subject*. 
 
-> *Superphysics Note: We define 'analytic' as passive-thinking and 'synthetic' as active-thinking. Thus, 'a bald man is a man' is a product of lazy, passive thinking. Somehow, Russel redefines 'analytic' as analyzing the idea when there is zero analysis in 'a bald man is a man'.
+{{< n n="We define 'analytic' as passive-thinking and 'synthetic' as active-thinking. Thus, 'a bald man is a man' is a product of lazy, passive thinking. Somehow, Russel redefines 'analytic' as analyzing the idea when there is zero analysis in 'a bald man is a man'." >}}
+
 
 
 Before Kant's time, people thought that all judgements of which we could be certain a priori were analytic*. In all of them there was a predicate which was only part of the subject of which it was asserted. If this were so, we should be involved in a definite contradiction if we attempted to deny anything that could be known a priori. 
 
 'A bald man is not bald' would assert and deny baldness of the same man, and would therefore contradict itself*. 
 
-> *Superphysics Note: In Kant's defintion, a priori is 'confined to the mind' and analytic is 'passive-thinking'. So prior to Kant, imagination is passive and is destroyed when thought of. But somehow Russel mixes up the Kant's defintions with Aristotle's defintions, leading to absurdities like 'a bald man is not bald'
+{{< n n="In Kant's defintion, a priori is 'confined to the mind' and analytic is 'passive-thinking'. So prior to Kant, imagination is passive and is destroyed when thought of. But somehow Russel mixes up the Kant's defintions with Aristotle's defintions, leading to absurdities like 'a bald man is not bald'" >}}
+
 
 
 The law of contradiction asserts that nothing can at the same time have and not have a certain property.
 
 Thus, according to the philosophers before Kant, the law of contradiction sufficed to establish the truth of all a priori knowledge*.
 
-> *Superphysics Note: In Kant's defintion, a priori is 'confined to the mind' and analytic is 'passive-thinking'. So prior to Kant, imagination is passive and is destroyed when thought of. But somehow Russel mixes up the Kant's defintions with Aristotle's defintions, leading to absurdities like 'a bald man is not bald'
+{{< n n="In Kant's defintion, a priori is 'confined to the mind' and analytic is 'passive-thinking'. So prior to Kant, imagination is passive and is destroyed when thought of. But somehow Russel mixes up the Kant's defintions with Aristotle's defintions, leading to absurdities like 'a bald man is not bald'" >}}
 
 
 Hume (1711-76) preceded Kant. He accepted the usual view as to what makes knowledge a priori. He discovered that, in many cases which had previously been supposed analytic, and notably in the case of cause and effect, the connection was really synthetic.
@@ -88,4 +90,3 @@ This apparent power of anticipating facts about things of which we have no exper
 It is, however, very difficult, and is differently understood by different philosophers. 
 
 We can, therefore, only give the merest outline of it, and even that will be thought misleading by many exponents of Kant's system.
-

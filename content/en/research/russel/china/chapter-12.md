@@ -2,7 +2,7 @@
 title: "The Chinese Character"
 heading: "Chapter 12"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

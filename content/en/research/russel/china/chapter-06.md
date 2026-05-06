@@ -2,7 +2,7 @@
 title: "Modern Japan"
 heading: "Chapter 6"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

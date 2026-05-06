@@ -2,7 +2,7 @@
 title: "The Problem of China"
 # heading: "Unenlightened"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 87
 author: Russell
 ---

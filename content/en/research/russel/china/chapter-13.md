@@ -2,7 +2,7 @@
 title: "Higher Education In China"
 heading: "Chapter 13"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

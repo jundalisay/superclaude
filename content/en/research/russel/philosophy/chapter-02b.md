@@ -2,7 +2,7 @@
 title: "The Existence Of Other People"
 heading: "Chapter 2b"
 description: "Do people exist?"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 8
 # date: 1912
 ---

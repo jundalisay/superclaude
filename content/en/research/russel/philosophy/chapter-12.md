@@ -2,7 +2,7 @@
 title: "Truth And Falsehood"
 heading: "Chapter 12"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 52
 # date: 1912
 ---

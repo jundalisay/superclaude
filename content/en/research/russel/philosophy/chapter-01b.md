@@ -2,7 +2,7 @@
 title: "Sense-Data"
 heading: "Chapter 1b"
 description: "'Sense-data' are the things that are immediately known in sensation. Examples are colours, sounds, smells, hardnesses, roughnesses, and so on"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 4
 # date: 1912
 ---

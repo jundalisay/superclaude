@@ -2,7 +2,7 @@
 title: "Induction"
 heading: "Chapter 6"
 description: "What things are there in the universe whose existence is known to us owing to our being acquainted with them? "
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 18
 # date: 1912
 ---

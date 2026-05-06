@@ -2,7 +2,7 @@
 title: "Knowledge By Acquaintance, Knowledge By Description"
 heading: "Chapter 5"
 description: "This is essentially simpler than any knowledge of truths, and logically independent of knowledge of truths, though it would be rash to assume that human beings ever"
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 16
 # date: 1912
 ---

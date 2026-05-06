@@ -2,7 +2,7 @@
 title: "The 3 Requisites for China"
 heading: "Chapter 15b"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

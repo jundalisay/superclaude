@@ -2,7 +2,7 @@
 title: "The World Of Universals"
 heading: "Chapter 9"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 40
 # date: 1912
 ---

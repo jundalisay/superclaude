@@ -2,7 +2,7 @@
 title: "Japan And China Before 1914"
 heading: "Chapter 7"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

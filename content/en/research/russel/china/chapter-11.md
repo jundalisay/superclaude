@@ -2,7 +2,7 @@
 title: "Chinese And Western Civilization Contrasted"
 heading: "Chapter 11"
 description: ""
-image: "/covers/china.jpg"
+icon: "Russel"
 weight: 4
 author: Russell
 ---

@@ -2,7 +2,7 @@
 title: "Knowledge, Error, And Probable Opinion"
 heading: "Chapter 13"
 description: ""
-image: "/covers/problems.jpg"
+icon: "Russel"
 weight: 56
 # date: 1912
 ---
