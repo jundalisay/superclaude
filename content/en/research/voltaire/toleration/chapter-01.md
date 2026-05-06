@@ -11,7 +11,7 @@ weight: 4
 ---
 
 
-In Connection with the Death of Jean Calas 	1
+<!-- In Connection with the Death of Jean Calas 	1
 On Superstition 	88
 On the Interpretation of the Old Testament 	102
 On the Interpretation of the New Testament 	118
@@ -20,7 +20,7 @@ Epistle to the Romans 	126
 The Sermon of the Fifty 	160
 The Questions of Zapata 	183
 We Must Take Sides; or, The Principal of Action 	206
-Poem on the Lisbon Disaster 	255
+Poem on the Lisbon Disaster 	255 -->
 
 
 

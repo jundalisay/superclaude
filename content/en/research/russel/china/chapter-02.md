@@ -3,7 +3,7 @@ title: "China Before The 19th Century"
 heading: "Chapter 2"
 description: ""
 icon: "Russel"
-weight: 4
+weight: 6
 author: Russell
 ---
 
@@ -144,7 +144,8 @@ In spite of the many good things that may be said to the credit of Hung Wu, he w
 
 These are the words of a Chinese patriot of the present day, and no doubt, as a modern system, the "Eight Legs" deserve all the hard things that he says about them. But in the fourteenth century, when one considers the practicable alternatives, one can see that there was probably much to be said for such a plan. At any rate, for good or evil, the examination system profoundly affected the civilization of China. Among its good effects were: A widely-diffused respect for learning; the possibility of doing without a hereditary aristocracy; the selection of administrators who must at least have been capable of industry; and the preservation of Chinese civilization in spite of barbarian conquest. But, like so much else in traditional China, it has had to be swept away to meet modern needs. I hope nothing of greater value will have to perish in the struggle to repel the foreign exploiters and the fierce and cruel system which they miscall civilization.
 
-FOOTNOTES:
+
+<!-- FOOTNOTES:
 
 [1]
 Legge's Shu-King, p. 15. Quoted in Hirth, Ancient History of China, Columbia University Press, 1911—a book which gives much useful critical information about early China.
@@ -217,3 +218,4 @@ Translated by the Bureau of Economic Information, Peking, 1920.
 [23]
 Op. cit. p. 233.
 
+ -->

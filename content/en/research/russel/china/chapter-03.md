@@ -3,10 +3,9 @@ title: "China And The Western Powers"
 heading: "Chapter 3"
 description: ""
 icon: "Russel"
-weight: 4
+weight: 8
 author: Russell
 ---
-
 
 
 In order to understand the international position of China, some facts concerning its nineteenth-century history are indispensable. 
@@ -83,7 +82,8 @@ It is useless to deny that the Chinese have brought these troubles upon themselv
 
 I have described briefly in this chapter what the Christian Powers did to China while they were able to act independently of Japan. But in modern China it is Japanese aggression that is the most urgent problem. Before considering this, however, we must deal briefly with the rise of modern Japan—a quite peculiar blend of East and West, which I hope is not prophetic of the blend to be ultimately achieved in China. But before passing to Japan, I will give a brief description of the social and political condition of modern China, without which Japan's action in China would be unintelligible.
 
-FOOTNOTES:
+
+<!-- FOOTNOTES:
 
 [24]
 In 1691 the Emperor Kang Hsi issued an edict explaining his attitude towards various religions. Of Roman Catholicism he says: "As to the western doctrine which glorifies Tien Chu, the Lord of the Sky, that, too, is heterodox; but because its priests are thoroughly conversant with mathematics, the Government makes use of them—a point which you soldiers and people should understand." (Giles, op. cit. p. 252.)
@@ -105,3 +105,4 @@ If you lived in a town where the burglars had obtained possession of the Town Co
 
 [30]
 The Times of November 26, 1921, had a leading article on Mr. Wellington Koo's suggestion, at Washington, that China ought to be allowed to recover fiscal autonomy as regards the tariff. Mr. Koo did not deal with the Customs administration, nevertheless The Times assumed that his purpose was to get the administration into the hands of the Chinese on account of the opportunities of lucrative corruption which it would afford. I wrote to The Times pointing out that they had confused the administration with the tariff, and that Mr. Koo was dealing only with the tariff. In view of the fact that they did not print either my letter or any other to the same effect, are we to conclude that their misrepresentation was deliberate and intentional?
+ -->

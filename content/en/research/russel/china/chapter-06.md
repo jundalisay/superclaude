@@ -3,7 +3,7 @@ title: "Modern Japan"
 heading: "Chapter 6"
 description: ""
 icon: "Russel"
-weight: 4
+weight: 17
 author: Russell
 ---
 

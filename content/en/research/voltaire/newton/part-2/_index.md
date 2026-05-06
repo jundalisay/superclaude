@@ -1,6 +1,7 @@
 ---
-heading: Part 1
-title: "Elements of Newtonian Philosophy"
+heading: Part 2
+title: "Light"
+weight: 4
 description: ""
 c: firebrick
 writer:

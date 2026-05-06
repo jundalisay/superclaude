@@ -3,7 +3,7 @@ title: "Modern China"
 heading: "Chapter 4"
 description: ""
 icon: "Russel"
-weight: 4
+weight: 11
 author: Russell
 ---
 

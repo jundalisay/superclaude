@@ -30,6 +30,11 @@ So we use Enki to replace:
 - Allah in the Quran through the [Anunnaki Quran](/research/mohammad/quran/sura-002a/)
 - Yahweh in the Old Testament, as the [Anunnaki Old Testament](/research/ancient/jewish)
 
+
+
+{{< n n="Update April 2026: We replace Enki with Anu to emphasize the power of the Anunnaki over humans instead of the creation event" >}}
+
+
 In this way, one can read the Sumerian, Babylonian, Jewish texts, and then the Quran to find the story of the Middle Eastern people consistent. 
 
 
@@ -85,7 +90,14 @@ They died out naturally, allowing humans to rule the Earth.
 
 The last ones though, helped the Jews, who were always allied with Enki, escape from Egypt which was allied with Enlil.
 
-The Anunnaki remotely connect to Prophet Mohammad, as Allah, in order to remind the Arabs and their Jewish brothers about their covenant. 
+The total exit of the Anunnaki triggered the Bronze Age collapse, creating a political free-for-all that later established the Iron age which represents humans ruling themselves:
+- Greeks
+- Phoenicians
+- Israelites
+- Celts
+- Etruscans
+
+The Anunnaki then remotely connected to Prophet Mohammad, as Allah, in order to remind the Arabs and their Jewish brothers about their covenant. 
 
 Allah tells Mohammad to defeat the Romans (which were allied with Enlil) who earlier defeated the Jews and destroyed the Temple.
 

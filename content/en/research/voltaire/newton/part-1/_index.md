@@ -2,6 +2,7 @@
 heading: Part 1
 title: "Metaphysics"
 description: ""
+weight: 2
 c: firebrick
 writer:
   name: Voltaire

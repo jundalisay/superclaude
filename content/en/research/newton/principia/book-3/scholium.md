@@ -1,7 +1,7 @@
 ---
 title: "General Scholium"
 weight: 200
-image: /covers/principia.jpg
+icon: Newton
 description: "The hypothesis of vortices is problematic.  It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description"
 author: Isaac Newton
 icon: "Newton"
@@ -26,7 +26,7 @@ It says that:
 
 I have explained that the motions of the comets are very regular*. These:
 - are governed by the same laws with the motions of the planets
-- cannot be accounted for by the hypothesis of vortices as axes because coments have very elliptical orbits
+- cannot be accounted for by the hypothesis of vortices as axes because comets have very elliptical orbits
 - have a freedom that is incompatible with the notion of a vortex
 
 
