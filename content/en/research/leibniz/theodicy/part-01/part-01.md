@@ -1,5 +1,5 @@
 ---
-heading: Part 1
+heading: Articles 1-10
 title: "The Truths of Reason"
 description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
 writer:

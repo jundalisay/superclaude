@@ -1,5 +1,5 @@
 ---
-heading: Part 30
+heading: Articles 30-32
 title: "The Truths of Reason"
 description: The celebrated Kepler and Descartes have spoken of the 'natural inertia of bodies'
 writer:

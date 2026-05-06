@@ -1,5 +1,5 @@
 ---
-heading: Part 87
+heading: Articles 87-106
 title: "Forms and Entelechy"
 description: "'Entelechy' apparently takes its origin from the Greek word signifying 'perfect'"
 writer:
@@ -125,8 +125,14 @@ This is often the case, and this expedient, among those which make man distingui
 
 Those reasons are too diverse to become known to us; and it may be that God at times shows the power of his grace by overcoming the most obstinate resistance, to the end that none may have cause either to despair or to be puffed up. St. Paul, as it would seem, had this in mind when he offered himself as an example. God, he said, has had mercy upon me, to give a great example of his patience.
 
-105. It may be that fundamentally all men are equally bad, and consequently incapable of being distinguished the one from the other through their good or less bad natural qualities; but they are not bad all in the same way: for there is an inherent individual difference between souls, as the Pre-established Harmony proves.
 
-Some are more or less inclined towards a particular good or a particular evil, or towards their opposites, all in accordance with their natural dispositions. But since the general plan of the universe, chosen by God for superior reasons, causes men to be in different circumstances, those who meet with such as are more favourable to their nature will become more readily the least wicked, the most virtuous, the most happy; yet it will be always by aid of the influence of that inward grace which God unites with the circumstances. Sometimes it even comes to pass, in the progress of human life, that a more excellent nature succeeds less, for lack of cultivation or opportunities. One may say that men are chosen and ranged not so much according to their excellence as according to their conformity with God's plan. Even so it may occur that a stone of lesser quality is made use of in a building or in a group because it proves to be the particular one for filling a certain gap.
+105. It may be that fundamentally all men are equally bad, and consequently incapable of being distinguished the one from the other through their good or less bad natural qualities.
 
-106. But, in fine, all these attempts to find reasons, where there is no need to adhere altogether to certain hypotheses, serve only to make clear to us that there are a thousand ways of justifying the conduct of God. All the disadvantages we see, all the obstacles we meet with, all the difficulties one may raise for oneself, are no hindrance to a belief founded on reason, even when it cannot stand on conclusive proof, as has been shown and will later become more apparent, that there is nothing so exalted as the wisdom of God, nothing so just as his judgements, nothing so pure as his holiness, and nothing more vast than his goodness.
+But they are not bad all in the same way: for there is an inherent individual difference between souls, as the Pre-established Harmony proves.
+
+Some are more or less inclined towards a particular good or a particular evil, or towards their opposites, all in accordance with their natural dispositions. But since the general plan of the universe, chosen by God for superior reasons, causes men to be in different circumstances, those who meet with such as are more favourable to their nature will become more readily the least wicked, the most virtuous, the most happy; yet it will be always by aid of the influence of that inward grace which God unites with the circumstances. Sometimes it even comes to pass, in the progress of human life, that a more excellent nature succeeds less, for lack of cultivation or opportunities.
+
+One may say that men are chosen and ranged not so much according to their excellence as according to their conformity with God's plan. Even so it may occur that a stone of lesser quality is made use of in a building or in a group because it proves to be the particular one for filling a certain gap.
+
+
+106. But all these attempts to find reasons, where there is no need to adhere altogether to certain hypotheses, serve only to make clear to us that there are a thousand ways of justifying the conduct of God. All the disadvantages we see, all the obstacles we meet with, all the difficulties one may raise for oneself, are no hindrance to a belief founded on reason, even when it cannot stand on conclusive proof, as has been shown and will later become more apparent, that there is nothing so exalted as the wisdom of God, nothing so just as his judgements, nothing so pure as his holiness, and nothing more vast than his goodness.

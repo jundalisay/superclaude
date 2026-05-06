@@ -1,5 +1,5 @@
 ---
-heading: Part 34
+heading: Articles 34-50
 title: "The Truths of Reason"
 description: The physical co-operation of God and of creatures with the will contributes also to the difficulties existing in regard to freedom.
 writer:
@@ -148,9 +148,34 @@ This is therefore not a defect where God and the saints are concerned: on the co
 
 47. Thus we have no need to resort, in company with some new Thomists, to a new immediate predetermination by God, such as may cause the free creature to abandon his indifference, and to a decree of God for predetermining the creature, making it possible for God to know what the creature will do: for it suffices that the creature be predetermined by its preceding state, which inclines it to one course more than to the other. Moreover, all these connexions of the actions of the creature and of all creatures were represented in the divine understanding, and known to God through the knowledge of mere intelligence, before he had decreed to give them existence. Thus we see that, in order to account for the foreknowledge of God, one may dispense with both the mediate knowledge of the Molinists and the predetermination which a Bañez or an Alvarez (writers otherwise of great profundity) have taught.
 
-48. By this false idea of an indifference of equipoise the Molinists were much embarrassed. They were asked not only how it was possible to know in what direction a cause absolutely indeterminate would be determined, but also how it was possible that there should finally result therefrom a determination for which there is no source: to say with Molina that it is the privilege of the free cause is to say nothing, but simply to grant that cause the privilege of being chimerical. It is pleasing to see their harassed efforts to emerge from a labyrinth whence there is absolutely no means of egress. Some teach that the will, before it is determined formally, must be determined virtually, in order to emerge from its state of equipoise; and Father Louis of Dole, in his book on the Co-operation of God, quotes Molinists who attempt to take refuge [150]in this expedient: for they are compelled to acknowledge that the cause must needs be disposed to act. But they gain nothing, they only defer the difficulty: for they will still be asked how the free cause comes to be determined virtually. They will therefore never extricate themselves without acknowledging that there is a predetermination in the preceding state of the free creature, which inclines it to be determined.
 
-49. In consequence of this, the case also of Buridan's ass between two meadows, impelled equally towards both of them, is a fiction that cannot occur in the universe, in the order of Nature, although M. Bayle be of another opinion. It is true that, if the case were possible, one must say that the ass would starve himself to death: but fundamentally the question deals in the impossible, unless it be that God bring the thing about expressly. For the universe cannot be halved by a plane drawn through the middle of the ass, which is cut vertically through its length, so that all is equal and alike on both sides, in the manner wherein an ellipse, and every plane figure of the number of those I term 'ambidexter', can be thus halved, by any straight line passing through its centre. Neither the parts of the universe nor the viscera of the animal are alike nor are they evenly placed on both sides of this vertical plane. There will therefore always be many things in the ass and outside the ass, although they be not apparent to us, which will determine him to go on one side rather than the other. And although man is free, and the ass is not, nevertheless for the same reason it must be true that in man likewise the case of a perfect equipoise between two courses is impossible. Furthermore it is true that an angel, or God certainly, could always account for the course man has adopted, by assigning a cause or a predisposing reason which has actually induced him to adopt it: yet this reason would often be complex and incomprehensible to ourselves, because the concatenation of causes linked together is very long.
+48. By this false idea of an indifference of equipoise, the Molinists were much embarrassed.
+
+They were asked not only how it was possible to know in what direction a cause absolutely indeterminate would be determined, but also how it was possible that there should finally result therefrom a determination for which there is no source: to say with Molina that it is the privilege of the free cause is to say nothing, but simply to grant that cause the privilege of being chimerical. 
+
+It is pleasing to see their harassed efforts to emerge from a labyrinth whence there is absolutely no means of egress. Some teach that the will, before it is determined formally, must be determined virtually, in order to emerge from its state of equipoise; 
+
+Father Louis of Dole, in his book on the Co-operation of God, quotes Molinists who attempt to take refuge in this expedient.
+
+They are compelled to acknowledge that the cause must needs be disposed to act. But they gain nothing, they only defer the difficulty: for they will still be asked how the free cause comes to be determined virtually. 
+
+They will therefore never extricate themselves without acknowledging that there is a predetermination in the preceding state of the free creature, which inclines it to be determined.
+
+
+49. In consequence of this, the case also of Buridan's ass between two meadows, impelled equally towards both of them, is a fiction that cannot occur in the universe, in the order of Nature, although M. Bayle be of another opinion. 
+
+It is true that, if the case were possible, one must say that the ass would starve himself to death: but fundamentally the question deals in the impossible, unless it be that God bring the thing about expressly.
+
+For the universe cannot be halved by a plane drawn through the middle of the ass, which is cut vertically through its length, so that all is equal and alike on both sides, in the manner wherein an ellipse, and every plane figure of the number of those I term 'ambidexter', can be thus halved, by any straight line passing through its centre.
+
+Neither the parts of the universe nor the viscera of the animal are alike nor are they evenly placed on both sides of this vertical plane. 
+
+There will therefore always be many things in the ass and outside the ass, although they be not apparent to us, which will determine him to go on one side rather than the other. 
+
+Although man is free, and the ass is not, nevertheless for the same reason it must be true that in man likewise the case of a perfect equipoise between two courses is impossible. 
+
+Furthermore it is true that an angel, or God certainly, could always account for the course man has adopted, by assigning a cause or a predisposing reason which has actually induced him to adopt it: yet this reason would often be complex and incomprehensible to ourselves, because the concatenation of causes linked together is very long.
+
 
 50. Hence, Descartes' assertion that our free actions are independent is wrong.
 
