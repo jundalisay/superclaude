@@ -7,6 +7,8 @@ writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 c: "firebrick"
+draft: true
+draft: true
 ---
 
 

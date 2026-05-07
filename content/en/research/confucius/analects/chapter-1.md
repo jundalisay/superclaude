@@ -5,6 +5,8 @@ description: "To learn, and then to practise opportunely what one has learned, b
 weight: 1
 icon: "Confucius"
 c: "firebrick"
+draft: true
+draft: true
 ---
 
 
@@ -99,26 +101,17 @@ He who, after 3 years' observation of the will of his father when alive, or of h
 {{< /l >}}
 
 
-## Confucius is Anti-Natural, The Opposite of Taoism
 
 {{< r a="Yen-Yu" >}}
-For the practice of the Rules of Propriety*, one excellent way is to be natural. This naturalness became a great grace in the practice of kings of former times. Everyone, small or great, should be natural like them.
+In practicing the rites, seeking harmony is what matters most. 
+
+This was the beauty of the ancient kings' way — they followed it in everything, great and small. 
+
+Yet there will be times when this approach fails. If you focus only on harmony for its own sake, without letting the rites regulate it, even that won't work.
 {{< /r >}}
 
 
 {{< f f="An important part of a education. The text-book, The Li Ki contains rules for behavior and propriety for the whole life, from the cradle to the grave" >}}
-
-
-{{< l a="Confucius" >}}
-But being natural is not always practicable because it might lead to the neglect of the Rules. 
-
-<!-- It is not so in the case of a person who does things naturally, knowing that he should act so, and yet who neglects to regulate his acts according to the Rules. -->
-
-- When truth and right are hand in hand, a statement will bear repetition. 
-- When respectfulness and propriety go hand in hand, disgrace and shame are kept away. 
-
-You will be able to resort to your close ties if you do not alienate them.
-{{< /l >}}
 
 
 <!-- Remove all occasion for alienating those to whom you are bound by close ties, and you have them still to resort to. -->
