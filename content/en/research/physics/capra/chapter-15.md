@@ -1,7 +1,7 @@
 ---
 title: "The Phenomenon of Waves"
-weight: 22
-description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+weight: 82
+description: ""
 c: "firebrick"
 icon: "Capra"
 ---
@@ -391,6 +391,7 @@ perties, but are also created and destroyed by the vacuum.
 Thus, not only matter, but also the void, participates in the
 cosmic dance, creating and destroying energy patterns without
 end.
+
 For the modern physicists, then, Shiva’s dance is the dance
 of subatomic matter. As in Hindu mythology, it is a continual
 dance of creation and destruction involving the whole cosmos;
@@ -406,4 +407,3 @@ artists in beauty and profound significance. The metaphor of
 the cosmic dance thus unifies ancient mythology, religious art,
 and modern physics. It is indeed, as Coomaraswamy has said,
 ‘poetry, but none the less science’.
-

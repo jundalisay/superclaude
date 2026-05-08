@@ -1,5 +1,13 @@
-The information about the particle’s state of motion is
-contained in the wavelength and frequency of the wave. The
+---
+title: "Wavelength"
+weight: 76
+description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+c: "firebrick"
+icon: "Capra"
+---
+
+
+The information about the particle’s state of motion is contained in the wavelength and frequency of the wave. The
 wavelength is inversely proportional to the momentum of the
 particle, which means that a wave with a small wavelength
 corresponds to a particle moving with a high momentum (and
@@ -27,12 +35,10 @@ must be zero. This can be achieved by a wave pattern like the
 one in the following diagram which corresponds to a particle
 confined to the region X. Such a pattern is called a wave
 packet.* It is composed of several wave trains with various
-157
-Beyond
-the World
-of Opposites
-a wave packet corresponding to a particle
-located somewhere in the region X
+
+<!-- a wave packet corresponding to a particle
+located somewhere in the region X -->
+
 wavelengths which interfere with each other destructively**
 outside the region X, so that the total amplitude-and thus the
 probability of finding the particle there-is zero, whereas they
@@ -45,6 +51,7 @@ centre where the probability amplitudes are large, and less
 likely near the ends of the wave packet where the amplitudes
 are small.) The length of the wave packet represents therefore
 the uncertainty in the location of the particle.
+
 The important property of such a wave packet now is that
 it has no definite wavelength, i.e. the distances between two
 successive crests are not equal throughout the pattern. There

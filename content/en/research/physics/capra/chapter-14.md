@@ -1,6 +1,6 @@
 ---
 title: "Emptiness and Form"
-weight: 22
+weight: 80
 description: "The classical mechanistic world view was based on the notion of solid, indestructible particles moving in the void"
 c: "firebrick"
 icon: "Capra"

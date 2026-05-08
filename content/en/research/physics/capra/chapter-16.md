@@ -1,7 +1,7 @@
 ---
 title: "The Phenomenon of Waves"
-weight: 22
-description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+weight: 85
+description: ""
 c: "firebrick"
 icon: "Capra"
 ---

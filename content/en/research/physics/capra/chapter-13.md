@@ -1,6 +1,6 @@
 ---
 title: "The Dynamic Universe"
-weight: 22
+weight: 79
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
 c: "firebrick"
 icon: "Capra"
@@ -21,9 +21,10 @@ which come into being and disintegrate, transforming them-
 selves into one another without end. In its phenomenal aspect,
 the cosmic One is thus intrinsically dynamic, and the appre-
 hension of its dynamic nature is basic to all schools of Eastern
-mysticism. Thus D. T. Suzuki writes about the Kegon school of
-Mahayana Buddhism,
-The central idea of Kegon is to grasp the universe dynamic-
+mysticism. 
+
+Thus D. T. Suzuki writes about the Kegon school of
+Mahayana Buddhism, The central idea of Kegon is to grasp the universe dynamic-
 ally whose characteristic is always to move onward, to be
 forever in the mood of moving, which is life.’
 This emphasis on movement, flow and change is not only
@@ -45,6 +46,7 @@ suggestive of life, motion and progress.‘3 The &an&ha& refer
 to Brahman as ‘this unformed, immortal, moving’,4 thus
 associating it with motion even though it transcends all
 forms.
+
 The Rig Vecfa uses another term to express the dynamic
 nature of the universe, the term Rita. This word comes from
 the root ri-to move; its original meaning in the Rig Veda
@@ -62,6 +64,7 @@ were later brought down from their original cosmic level to
 the human level and were interpreted in a moral sense; Rita
 as the universal law which all gods and men must obey, and
 Tao as the right way of life.
+
 The Vedic concept of Rita anticipates the idea of karma
 which was developed later to express the dynamic interplay
 of all things and events. The word karma means ‘action’ and
@@ -94,10 +97,7 @@ world arises from our trying to cling to fixed forms-objects,
 people or ideas-instead of accepting the world as it moves
 and changes. The dynamic world view lies thus at the very
 root of Buddhism. In the words of S. Radhakrishnan:
-191
-The
-Dynamic
-Universe
+
 A wonderful philosophy of dynamism was formulated by
 Buddha 2,500 years ago . . . Impressed with the transitori-
 ness of objects, the ceaseless mutation and transformation
@@ -105,6 +105,7 @@ of things, Buddha formulated a philosophy of change. He
 reduces substances, souls, monads, things to forces,
 movements, sequences and processes, and adopts a
 dynamic conception of reality.’
+
 Buddhists call this world of ceaseless change samsara,
 which means, literally, ‘incessantly in motion’; and they affirm
 that there is nothing in it which is worth clinging to. So for the
@@ -112,17 +113,16 @@ Buddhists, an enlightened being is one who does not resist
 the flow of life, but keeps moving with it. When the Ch’an
 monk’ Yin-men was asked, What is the Tao?’ he answered
 simply, Walk on!’ Accordingly, Buddhists also call the Buddha
-the Tathagata, or ‘the one who comes and goes thus’. In
-Chinese philosophy, the flowing and ever-changing reality is
+the Tathagata, or ‘the one who comes and goes thus’. 
+
+In Chinese philosophy, the flowing and ever-changing reality is
 called the Tao and is seen as a cosmic process in which all
 things are involved. Like the Buddhists, the Taoists say that one
 should not resist the flow, but should adapt one’s actions to it.
 This, again, is characteristic of the sage-the enlightened
-being. If the Buddha is one who ‘comes and goes thus’, the
-
-
-Taoist sage is one who ‘flows’, as Huai Nan Tzu says,* ‘in the
+being. If the Buddha is one who ‘comes and goes thus’, the Taoist sage is one who ‘flows’, as Huai Nan Tzu says,* ‘in the
 current of the Tao’.
+
 The more one studies the religious and philosophical texts of
 the Hindus, Buddhists and Taoists, the more it becomes
 apparent that in all of them the world is conceived in terms of
@@ -133,8 +133,9 @@ whose interconnections are dynamic and not static. The cosmic
 web is alive; it moves, grows and changes continually. Modern
 physics, too, has come to conceive of the universe as such a
 web of relations and, like Eastern mysticism; has recognized
-that this web is intrinsically dynamic. The dynamic aspect of
-matter arises in quantum theory as a consequence of the
+that this web is intrinsically dynamic. 
+
+The dynamic aspect of matter arises in quantum theory as a consequence of the
 wave-nature of subatomic particles, and is even more essential
 in relativity theory, as we shall see, where the unification of
 space and time implies that the being of matter cannot be
@@ -144,41 +145,31 @@ terms of movement, interaction and transformation.
 According to quantum theory, particles are also waves, and
 this implies that they behave in a very peculiar way. Whenever
 a subatomic particle is confined to a small region of space, it
-reacts to this confinement by moving around. The smaller the
-region of confinement, the faster will the particle ‘jiggle’ around
-in it. This behaviour is a typical ‘quantum effect’, a feature of
-the subatomic world which has no macroscopic analogy. To
-see how it comes about, we have to remember that particles
-are represented, in quantum theory, by wave packets. As
+reacts to this confinement by moving around. 
+
+The smaller the region of confinement, the faster will the particle ‘jiggle’ around in it. This behaviour is a typical ‘quantum effect’, a feature of
+the subatomic world which has no macroscopic analogy. 
+
+To see how it comes about, we have to remember that particles are represented, in quantum theory, by wave packets. As
 discussed previously,** the length of such a wave packet
 represents the uncertainty in the location of the particle. The
 following wave pattern, for example, corresponds to a particle
 located somewhere in the region X; where exactly we cannot
 say with certainty. If we want to localize the particle more
 precisely, i.e. if we want to confine it to a smaller region, we
-have to squeeze its wave packet into this region (see diagram
+have to squeeze its wave packet into this region (see diagram below ). This, however, will affect the wavelength of the wave
+packet, and consequently the velocity of the particle. 
 
-
-below ). This, however, will affect the wavelength of the wave
-packet, and consequently the velocity of the particle. As a result,
-the particle will move around; the more it is confined, the faster
-it will move.
+As a result, the particle will move around; the more it is confined, the faster it will move.
 
 The tendency of particles to react to confinement with
 motion implies a fundamental ‘restlessness’ of matter which is
 characteristic of the subatomic world. In this world, most of
 the material particles are bound to the molecular, atomic and
-nuclear structures, and therefore are not at rest but have an
-inherent tendency to move about-they are intrinsically
-restless. According to quantum theory, matter is thus never
-quiescent, but always in a state of motion. Macroscopically,
-the material objects around us may seem passive and inert,
-but when we magnify such a ‘dead’ piece of stone or metal
+nuclear structures, and therefore are not at rest but have an inherent tendency to move about-they are intrinsically restless. According to quantum theory, matter is thus never
+quiescent, but always in a state of motion. 
 
-
-we see that it is full of activity. The closer we look at it, the
-more alive it appears. All the material objects in our environ-
-ment are made of atoms which link up with each other in
+Macroscopically, the material objects around us may seem passive and inert, but when we magnify such a ‘dead’ piece of stone or metal we see that it is full of activity. The closer we look at it, the more alive it appears. All the material objects in our environment are made of atoms which link up with each other in
 various ways to form an enormous variety of molecular
 structures which are not rigid and motionless, but oscillate
 according to their temperature and in harmony with the

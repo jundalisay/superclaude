@@ -1,40 +1,41 @@
-The Eastern religious philosophies are concerned with timeless
-mystical knowledge which lies beyond reasoning and cannot
-be adequately expressed in words. The relation of this knowledge
-to modern physics is but one of its many aspects and, like all
-the others, it cannot be demonstrated conclusively but has to
-be experienced in a direct intuitive way. What I hope to have
-achieved, to some extent, therefore, is not a rigorous demonstra-
-tion, but rather to have given the reader an opportunity to
-relive, every now and then, an experience which has become
-for me a source of continuing joy and inspiration; that the
+---
+title: "Epilogue"
+weight: 79
+description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
+c: "firebrick"
+icon: "Capra"
+---
+
+
+The Eastern religious philosophies are concerned with timeless mystical knowledge which lies beyond reasoning and cannot
+be adequately expressed in words. The relation of this knowledge to modern physics is but one of its many aspects and, like all
+the others, it cannot be demonstrated conclusively but has to be experienced in a direct intuitive way. What I hope to have
+achieved, to some extent, therefore, is not a rigorous demonstration, but rather to have given the reader an opportunity to
+relive, every now and then, an experience which has become for me a source of continuing joy and inspiration; that the
 principal theories and models of modern physics lead to a
 view of the world which is internally consistent and in perfect
 harmony with the views of Eastern mysticism.
-For those who have experienced this harmony, the sig-
-nificance of the parallels between the world views of physicists
+
+For those who have experienced this harmony, the significance of the parallels between the world views of physicists
 and mystics is beyond any doubt. The interesting question,
 then, is not whether these parallels exist, but why; and, further-
 more, what their existence implies.
-In trying to understand the mystery of Life, man has followed
-many different approaches. Among them, there are the ways
+
+In trying to understand the mystery of Life, man has followed many different approaches. Among them, there are the ways
 of the scientist and mystic, but there are many more; the ways
 of poets, children, clowns, shamans, to name but a few. These
 ways have resulted in different descriptions of the world, both
 verbal and non-verbal, which emphasize different aspects.
-All are valid and useful in the context in which they arose. All
-of them, however, are only descriptions, or representations, of
+
+All are valid and useful in the context in which they arose. All of them, however, are only descriptions, or representations, of
 reality and are therefore limited. None can give a complete
-picture of the world.
-The mechanistic world view of classical physics is useful for
+picture of the world. 
 
-
-the description of the kind of physical phenomena we en-
+The mechanistic world view of classical physics is useful for the description of the kind of physical phenomena we en-
 counter in our everyday life and thus appropriate for dealing
 with our daily environment, and it has also proved extremely
 successful as a basis for technology. It is inadequate, however,
-for the description of physical phenomena in the submicro-
-scopic realm. Opposed to the mechanistic conception of the
+for the description of physical phenomena in the submicroscopic realm. Opposed to the mechanistic conception of the
 world is the view of the mystics which may be epitomized by
 the word ‘organic’, as it regards all phenomena in the universe
 as integral parts of an inseparable harmonious whole. This
@@ -46,6 +47,7 @@ scientific description of macroscopic phenomena. The organic
 world view is not advantageous for constructing machines,
 nor for coping with the technical problems in an overpopulated
 world.
+
 In everyday life, then, both the mechanistic and the organic
 views of the universe are valid and useful; the one for science
 and technology, the other for a balanced and fulfilled spiritual
@@ -108,12 +110,10 @@ wisdom that Brahman, the ultimate reality without, is identical
 to Atman, the reality within.
 A further similarity between the ways of the physicist and
 mystic is the fact that their observations take place in realms
-which are inaccessible to the ordinary senses. In modern physics,
+which are inaccessible to the ordinary senses. 
 
-these are the realms of the atomic and subatomic world; in
-mysticism they are non-ordinary states of consciousness in
-which the sense world is transcended. Mystics often talk about
-experiencing higher dimensions in which impressions of
+In modern physics, these are the realms of the atomic and subatomic world; in mysticism they are non-ordinary states of consciousness in
+which the sense world is transcended. Mystics often talk about experiencing higher dimensions in which impressions of
 different centres of consciousness are integrated into a
 harmonious whole. A similar situation exists in modern physics
 where a four-dimensional ‘space-time’ formalism has been
@@ -122,6 +122,7 @@ to different categories in the ordinary three-dimensional world.
 In both fields, the multi-dimensional experiences transcend the
 sensory world and are therefore almost impossible to express
 in ordinary language.
+
 We see that the ways of the modern physicist and the
 Eastern mystic, which seem at first totally unrelated, have, in
 fact, much in common. It should not be too surprising, there-
@@ -134,8 +135,8 @@ wisdom, known to the Eastern sages for thousands of years?
 Should physicists, therefore, abandon the scientific method
 and begin to meditate? Or can there be a mutual influence
 between science and mysticism; perhaps even a synthesis?
-I think all these questions have to be answered in the
-negative. I see science and mysticism as two complementary
+
+I think all these questions have to be answered in the negative. I see science and mysticism as two complementary
 manifestations of the human mind; of its rational and intuitive
 faculties. The modern physicist experiences the world through
 an extreme specialization of the rational mind; the mystic
@@ -149,24 +150,26 @@ one another for a fuller understanding of the world. To para-
 phrase an old Chinese saying, mystics understand the roots of
 the Tao but not its branches; scientists understand its branches
 but not its roots. Sciencedoes not need mysticism and mysticism
-does not need science; but man needs both. Mystical experi-
+does not need science; but man needs both.
 
-ence is necessary to understand the deepest nature of things,
+Mystical experience is necessary to understand the deepest nature of things,
 and science is essential for modern life. What we need, there-
 ,fore, is not a synthesis but a dynamic interplay between
 mystical intuition and scientific analysis.
+
 So far, this has not been achieved in our society. At present,
-our attitude is too yang-to use again Chinese phraseology-
-too rational, male and aggressive. Scientists themselves are a
+our attitude is too yang-to use again Chinese phraseology-too rational, male and aggressive. Scientists themselves are a
 typical example. Although their theories are leading to a world
 view which is similar to that of the mystics, it is striking how
-littlethis hasaffected theattitudesof most scientists. In mysticism,
-knowledge cannot be separated from a certain way of life
-which becomes its living manifestation. To acquire mystical
+littlethis hasaffected theattitudesof most scientists. 
+
+In mysticism, knowledge cannot be separated from a certain way of life which becomes its living manifestation. To acquire mystical
 knowledge means to undergo a transformation; one could
 even say that the knowledge is the transformation. Scientific
 knowledge, on the other hand, can often stay abstract and
-theoretical. Thus most of today’s physicists do not seem to
+theoretical. 
+
+Thus most of today’s physicists do not seem to
 realize the philosophical, cultural and spiritual implications of
 their theories. Many of them actively support a society which
 is still based on the mechanistic, fragmented world view,
@@ -178,9 +181,8 @@ our present society, which does not reflect the harmonious
 interrelatedness we observe in nature. To achieve such a state
 of dynamic balance, a radically different social and economic
 structure will be needed: a cultural revolution in the true sense
-of the word. The survival of our whole civilization may depend
-on whether we can bring about such a change. It will depend,
-ultimately, on our ability to adopt some of the yin attitudes of
-Eastern mysticism; to experience the wholeness of nature and
-the art of living with it in harmony.
+of the word.
 
+The survival of our whole civilization may depend on whether we can bring about such a change. It will depend,
+ultimately, on our ability to adopt some of the yin attitudes of
+Eastern mysticism; to experience the wholeness of nature and the art of living with it in harmony.

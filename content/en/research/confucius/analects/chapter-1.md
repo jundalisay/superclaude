@@ -6,21 +6,26 @@ weight: 1
 icon: "Confucius"
 c: "firebrick"
 draft: true
-draft: true
 ---
 
 
 
 {{< l a="Confucius" >}}
-To learn, and then to practise opportunely what one has learned, brings satisfaction. To have associates in study coming to one from distant gives means pleasure. The superior order of men are those who still remain pleased even if they do not comprehend this.
-<!-- And are not those who, while not comprehending all that is said, still remain not unpleased to hear, men of ?" -->
+It is:
+- pleasant to learn with a constant perseverance and application
+- delightful to have friends coming from afar
+
+A man of complete virtue feels no discomposure though men may take no note of him.
 {{< /l >}}
 
 
 <!-- r a="Scholar Yu" -->
 {{< r a="Yen-Yu" >}}
-True people who are dutiful to their parents and elder brothers rarely turn currishly on their superiors. Such a desire not to commit that offence prevents anarchy or disorder.
+Few filial and fraternal people are fond of offending their superiors.
+
+There have been none, who, not liking to offend against their superiors, have been fond of stirring up confusion. The superior man bends his attention to what is radical. That being established, all practical courses naturally grow up. Filial piety and fraternal submission! - are they not the root of all benevolent actions?"
 {{< /r >}}
+
 
 {{< l a="Confucius" >}}
 Men of superior mind busy themselves first in getting at the root of things. When they have succeeded in this the right course is open to them.

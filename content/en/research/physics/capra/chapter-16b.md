@@ -1,3 +1,10 @@
+---
+title: "The Strong Force"
+weight: 88
+description: ""
+c: "firebrick"
+icon: "Capra"
+---
 
 
 
@@ -11,8 +18,7 @@ extremely useful for expressing the regularities in the particle
 world.
 
 
-It is surprising that most of these regularities can be repre-
-sented in a very simple way if one assumes that all hadrons are
+It is surprising that most of these regularities can be represented in a very simple way if one assumes that all hadrons are
 made of a small number of elementary entities which have so
 far eluded direct observation. These entities have been given
 the fanciful name ‘quarks’ by Murray Cell-Mann who referred
