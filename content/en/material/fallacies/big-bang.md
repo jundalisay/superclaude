@@ -84,12 +84,27 @@ Once the tracks have connected to both stations (star and telescope), then the b
 
 In fact, Descartes extends this motion of the aether as it goes from the telescope into our eyes, brain, and lastly into the aethereal soul that experiences it. 
 
-This is why Descartes said that the speed of light was instant. He really meant the aether that travelled through light. 
+This is why Descartes said that the speed of light was instant. He really meant the pure aether that travelled through light. 
 
 This means that the distant galaxies that JWST observes are close to their current age instead of being billions of years old. This explains why they are already so massive and bright. (This also explains why entangled particles can teleport instantly.) 
 
+## Aether Versus Pure Aether
 
-### Matches the CMB as well
+Technically, the aether is the 5th element which is the same as citta or mind-stuff.
+
+When you close your eyes and imagine a pink elephant, you will see that it has a background which is usually black.
+
+The aether is the material of the elephant and background. 
+
+Unfortunately, Huygens and Leibniz called empty space as the aether when techncally, its name is air or vayu or 2nd Element. 
+
+So now, aether means both 2nd and 5th Elements. 
+
+To fix this we call the 5th Element as pure aether. 
+
+
+
+## Matches the CMB as well
 
 {{< i s="/graphics/physics/sponge.jpg" a="CMB" >}}
 

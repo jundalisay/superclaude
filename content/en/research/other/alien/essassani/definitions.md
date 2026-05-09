@@ -43,9 +43,10 @@ Thing | Meaning or Representation
 --- | ---
 Horse | the new way
 Dragon | 
-Dog |
-13 | Change (to the Sassani)
-water | flow of emotions
+Dog | service
+13 | change (to the Sassani)
+salt | neutralizer
+water | (in dreams) flow of emotions
 
 
 
