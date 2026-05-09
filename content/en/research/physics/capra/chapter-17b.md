@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 17b"
 title: "Hadron Reactions"
 weight: 94
 description: ""

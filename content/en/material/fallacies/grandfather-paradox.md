@@ -76,7 +76,17 @@ Such a perspective necessarily abandons the current perception of the identities
 
 This is exactly what the scientific method does, each time it makes experiments and records data -- giving past data a reality while hoping for a reality for its future predictions. 
 
-And so science itself unsolves what has been solved. 
+**And so science itself unsolves what has been solved.**
+
+This is exactly the same as time problems being created whenever you think of it -- **so the solution is not to think of time as a problem**. 
+- When a person thinks of time as a problem, or thinks of infinities, then it means he has nothing better to do, which means he is out of dharma.
+- The proper step in such a case is to find out why he is out of dharma instead of going into his rabbit hole. 
+- David Hume did this when he encountered mathematicians explaining time and space.
+- This is also why:
+  - Socrates said that mathematicians are farthest from the true nature of things. 
+  - Ramakrishna was allergic to mathematics
+- This is why we create Supermath and Qualimath that are based on real perceptions (ideas derived from reality) instead of abstract ideas (ideas derived from ideas) so that math can go with the dharma again
+
 
 The Asian sciences of Hinduism, Buddhism, and Taoism avoids this by keeping not attached to the illusions of the past and future. 
 
@@ -89,3 +99,14 @@ Instead of basing time on entropy of space, Descartes' physics bases time on the
 Instead of order and disorder, time is based on unity and disunity of spacetime slices as they are glued or unglued by the flow of cognition.  
 
 This will allow time to be mastered so that time travel can be done and predictions will be more accurate, as a new breed of time-technologies which are a different class from electromagnetic technologies (TV, radio, internet, smartphones).
+
+
+
+## Solving Probelms by Exposing Non-Problems
+
+This is an example of how Superhysics solves ALL problems since all problems are created by the mind, and Superphysics deals with mind directly. 
+
+In this case, the unregulated mind created problems by diverting its direction into something adharmic. 
+
+So our solution was to divert it back to the dharma. 
+

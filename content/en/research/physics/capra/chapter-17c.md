@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 17c"
 title: "S-Matrix Advantages"
 weight: 97
 description: ""
@@ -7,46 +8,23 @@ icon: "Capra"
 ---
 
 
-A particular advantage of the S-matrix formalism is the fact
-that it is able to describe the ‘exchange’ of a whole family of
-hadrons. As mentioned in the previous chapter, all hadrons
-seem to fall into sequences whose members have identical
-properties except for their masses and spins. A formalism
-proposed originally by Tullio Regge makes it possible to treat
-each of these sequences as a single hadron existing in various
-excited states. In recent years, it has been possible to incorporate
-the Regge formalism into the S-matrix framework where it has
-been used very successfully for the description of hadron
-reactions. This has been one of the most important develop-
-ments in S-matrix theory and can be seen as a first step towards
-a dynamic explanation of particle patterns.
+The S-matrix formalism can describe the ‘exchange’ of a whole family of hadrons.
 
-The framework of the S matrix, then, is able to describe the
-structure of hadrons, the forces through which they mutually
-interact, and some of the patterns they form, in a thoroughly
+All hadrons fall into sequences whose members have identical properties except for their masses and spins. A formalism proposed originally by Tullio Regge makes it possible to treat each of these sequences as a single hadron existing in various excited states.
+
+In recent years, it has been possible to incorporate the Regge formalism into the S-matrix framework where it has been used very successfully for the description of hadron reactions. This has been one of the most important developments in S-matrix theory and can be seen as a first step towards a dynamic explanation of particle patterns.
+
+The framework of the S matrix, then, is able to describe the structure of hadrons, the forces through which they mutually interact, and some of the patterns they form, in a thoroughly
 dynamic way in which each hadron is understood as an integral part of an inseparable network of reactions. The main
-challenge, and so far unsolved problem, in S-matrix theory is
-to use this dynamic description to account for the symmetries
-which give rise to the hadron patterns and conservation laws
-discussed in the previous chapter. In such a theory, the hadron
-symmetries would be reflected in the mathematical structure
-of the S matrix in such a way that it contains only elements
-which correspond to reactions allowed by the conservation
-laws. These laws would then no longer have the status of
-empirical regularities but would be a consequence of the
-S-matrix structure, and thus a consequence of the dynamic
-nature of hadrons.
+challenge, and so far unsolved problem, in S-matrix theory is to use this dynamic description to account for the symmetries
+which give rise to the hadron patterns and conservation laws discussed in the previous chapter. In such a theory, the hadron symmetries would be reflected in the mathematical structure
+of the S matrix in such a way that it contains only elements which correspond to reactions allowed by the conservation laws. These laws would then no longer have the status of empirical regularities but would be a consequence of the S-matrix structure, and thus a consequence of the dynamic nature of hadrons.
 
-At present, physicists are trying to achieve this ambitious
-aim by postulating several general principles which restrict the
-mathematical possibilities of constructing S-matrix elements
-and thus give the S matrix a definite structure. So far, three of these general principles have been established. The first is
-suggested by relativity theory and by our macroscopic experience of space and time. It says that the reaction probabilities
-(and thus the S-matrix elements) must be independent of displacements of the experimental apparatus in space and time,
-independent of its orientation in space, and independent of
-the state of motion of the observer. As discussed in the previous
-chapter, the independence of a particle reaction with regard
-to changes of orientation and displacements in space and time
+At present, physicists are trying to achieve this ambitious aim by postulating several general principles which restrict the mathematical possibilities of constructing S-matrix elements
+and thus give the S matrix a definite structure. So far, three of these general principles have been established. 
+
+The first is suggested by relativity theory and by our macroscopic experience of space and time. It says that the reaction probabilities (and thus the S-matrix elements) must be independent of displacements of the experimental apparatus in space and time independent of its orientation in space, and independent of
+the state of motion of the observer. As discussed in the previous chapter, the independence of a particle reaction with regard to changes of orientation and displacements in space and time
 implies the conservation of the total amount of rotation,
 momentum and energy involved in the reaction. 
 

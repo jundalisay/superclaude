@@ -137,3 +137,6 @@ Since the Earth is only 4.6 billion years old then it follows that the human ove
 
 Other advanced alien species would be able to detect farther and more of the universe than us. And so they would measure it as 50 billion or 100 billion years old, making their oversouls older than us. It is this more mature age that allows them to detect more of the universe. 
 
+
+This implies that the Earth is only affected by physical phenomena that is within that 4.6 billion year age, just as we (our lower minds) are only affected by the unvierse that our strongest telescopes can see. This then puts a limit on astrological range.
+

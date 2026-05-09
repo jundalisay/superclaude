@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 13"
 title: "The Dynamic Universe"
 weight: 79
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"

@@ -54,22 +54,28 @@ Kepler tried to harmonize the traditional geocentric with the new heliocentric t
 
 But he wrongly tried to rearrange the 5 elements to fit astronomical data -- the same mistake that the ancients made. 
 
+{{< n n="We actually wasted a few weeks sincerely trying to understand Kepler's harmonies and make it work with experiments on reducing the weight of a 1kg mass by sound using his system. But we could not. This is because we are not musicians and reading about music is totally ineffective as compared to actually hearing the musical consonances. Instead, we were able to make it work by using traditional Buddhist knowledge since we are practicing Buddhists" >}}
+
+
 
 ### The Rise of Matter
 
-Newton solved this confusion by throwing away the 5 Elements model and merely basing all of the universe on the earth element, as matter, with visible mass as the cornerstone.
+Newton solved this confusion by throwing away the Greek 5 Elements model and merely basing all of the universe on the earth element, as matter, with visible mass as the cornerstone.
 
-From there, 'science' clawed its way back to 'discovering' the 5 Elements as the 'Standard Model' of strong, weak, electromagnetism, etc.
+From there, 'science' clawed its way back to 'discovering' the true 5 Elements as the 'Standard Model' of strong, weak, electromagnetism, etc.
 
 The big problem with this is that the earth element (strong force), although the most obvious, **is also the most inferior**. In the hierarchy, it is the effect that is farthest from the ultimate cause.
-
-The proper basis of physics should be the aether (Hindu akasha) as the 'boss' of the 5 Elements.
+- The proper basis of physics should be the aether (Hindu akasha) as the 'boss' of the 5 Elements.
 
 Because of this wrong basis, Newtonian Physics is forever stuck. It can never know the real cause of phenomena but is so familiar with obvious effects.
 
 Before Newton came along, the Physics of Descartes was the mainstream and proper one, as it correctly knew 3 of the 5 Elements and applied it to physical and astronomical phenomena.
+- In Descartes' model, aether is superior to matter.
 
 Descartes, with his aethereal vortices, therefore is the key to fixing all the problems with the Newtonian system.
 
 You would think that seeing galaxies in a spiral shape and DNA with a helix shape would prompt people to bring back Descartes' vortices. But it seems that Newton has totally destroyed Cartesian Physics that people nowadays just know Descartes for abstract philosophy, as "I think therefore I am". 
+- Notice how English translations of Descartes' Principles of Philosophy avoid translating the essential parts of Descartes' Physics in Part 3:
+  - [https://www.earlymoderntexts.com/assets/pdfs/descartes1644.pdf](https://www.earlymoderntexts.com/assets/pdfs/descartes1644.pdf)
+  - [https://www.gutenberg.org/cache/epub/4391/pg4391-images.html](https://www.gutenberg.org/cache/epub/4391/pg4391-images.html)
 

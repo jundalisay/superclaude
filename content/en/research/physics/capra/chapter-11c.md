@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 11c"
 title: "The Phenomenon of Waves"
 weight: 74
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"

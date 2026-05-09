@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 11d"
 title: "Wavelength"
 weight: 76
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"

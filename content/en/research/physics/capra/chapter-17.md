@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 17"
 title: "The Bootstrap Hypothesis"
 weight: 91
 description: "Its originator and main advocate is Geoffrey Chew"
