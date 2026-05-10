@@ -69,9 +69,15 @@ They earn their money by falsehood. I can't eat their offerings.
 
 (to the Marwaris): "You see, one can't strictly adhere to truth in business. There are ups and downs in business. 
 
-Nanak once said, 'I was about to eat the food of unholy people, when I found it stained with blood.' A man should offer only pure things to holy men. He shouldn't give them food earned by dishonest means. God is realized by following the path of truth. 
+Nanak once said, 
+{{< /l >}}
+
+
+'I was about to eat the food of unholy people, when I found it stained with blood.'
+
+
+A man should offer only pure things to holy men. He shouldn't give them food earned by dishonest means. God is realized by following the path of truth. 
 
 One should always chant His name. Even while one is performing one's duties, the mind should be left with God. Suppose I have a carbuncle on my back. I perform my duties, but the mind is drawn to the carbuncle. It is good to repeat the name of Rama.
 
 'The same Rama who was the son of King Dasaratha has created this world. Again, as Spirit, He pervades all beings. He is very near us; He is both within and without.'
-{{< /l >}}

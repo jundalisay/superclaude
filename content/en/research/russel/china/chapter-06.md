@@ -12,13 +12,19 @@ Modern Japan is unique, not only in this age, but in the history of the world.
 
 It combines elements which most Europeans would have supposed totally incompatible, and it has realized an original plan to a degree hardly known in human affairs. 
 
-The Japan which now exists is almost exactly that which was intended by the leaders of the Restoration in 1867. Many unforeseen events have happened in the world: American has risen and Russia has fallen, China has become a Republic and the Great War has shattered Europe. But throughout all these changes the leading statesmen of Japan have gone along the road traced out for them at the beginning of the Meiji era, and the nation has followed them with ever-increasing faithfulness. One single purpose has animated leaders and followers alike: the strengthening and extension of the Empire. 
+The Japan which now exists is almost exactly that which was intended by the leaders of the Restoration in 1867. 
+
+Many unforeseen events have happened in the world: American has risen and Russia has fallen, China has become a Republic and the Great War has shattered Europe. 
+
+But throughout all these changes the leading statesmen of Japan have gone along the road traced out for them at the beginning of the Meiji era, and the nation has followed them with ever-increasing faithfulness. One single purpose has animated leaders and followers alike: the strengthening and extension of the Empire. 
 
 To realize this purpose a new kind of policy has been created, combining the sources of strength in modern America with those in Rome at the time of the Punic Wars, uniting the material organization and scientific knowledge of pre-war Germany with the outlook on life of the Hebrews in the Book of Joshua.
 
 The transformation of Japan since 1867 is amazing, and people have been duly amazed by it. But what is still more amazing is that such an immense change in knowledge and in way of life should have brought so little change in religion and ethics, and that such change as it has brought in these matters should have been in a direction opposite to that which would have been naturally expected. 
 
-Science is supposed to tend to rationalism; yet the spread of scientific knowledge in Japan has synchronized with a great intensification of Mikado-Worship, the most anachronistic feature in the Japanese civilization. For sociology, for social psychology, and for political theory, Japan is an extraordinarily interesting country. The synthesis of East and West which has been effected is of a most peculiar kind. There is far more of the East than appears on the surface; but there is everything of the West that tends to national efficiency. How far there is a genuine fusion of Eastern and Western elements may be doubted; the nervous excitability of the people suggests something strained and artificial in their way of life, but this may possibly be a merely temporary phenomenon.
+Science is supposed to tend to rationalism; yet the spread of scientific knowledge in Japan has synchronized with a great intensification of Mikado-Worship, the most anachronistic feature in the Japanese civilization. For sociology, for social psychology, and for political theory, Japan is an extraordinarily interesting country. 
+
+The synthesis of East and West which has been effected is of a most peculiar kind. There is far more of the East than appears on the surface; but there is everything of the West that tends to national efficiency. How far there is a genuine fusion of Eastern and Western elements may be doubted; the nervous excitability of the people suggests something strained and artificial in their way of life, but this may possibly be a merely temporary phenomenon.
 
 Throughout Japanese politics since the Restoration, there are two separate strands, one analogous to that of Western nations, especially pre-war Germany, the other inherited from the feudal age, which is more analogous to the politics of the Scottish Highlands down to 1745. It is no part of my purpose to give a history of modern Japan; I wish only to give an outline of the forces which control events and movements in that country, with such illustrations as are necessary. 
 
