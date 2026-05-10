@@ -22,6 +22,8 @@ Tydeus | Diomed
 Neleus | Nestor
 Euaemon | Eurypylus
 Menoetius | Patroclus
+Glaucus | Hippolochus
+
 
 
 <!-- Achilles withdraws from the war, and sends his mother Thetis to ask Jove to help the Trojans—Scene between Jove and Juno on Olympus. -->
