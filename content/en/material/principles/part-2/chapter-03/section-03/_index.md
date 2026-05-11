@@ -4,7 +4,7 @@ title: "Aetherspace"
 description: "The Aetherspace is the Middle SubLayer of the Spatial Layer"
 image: "/photos/physics/blow.jpg"
 # # date: 2020-10-31
-weight: 6
+weight: 9
 ---
 
 

@@ -2,9 +2,9 @@
 heading: "Unit 3"
 title: "Displacement Gravity: Dark Matter"
 date: 2024-12-11
-weight: 18
+weight: 8
 c: yellow
-# mage: /photos/bio/gecko.jpg
+image: /photos/physics/quasar.jpg
 #description: "We are pushed down to earth because the Earth displaces space particles."
 writer:
   name: Juan

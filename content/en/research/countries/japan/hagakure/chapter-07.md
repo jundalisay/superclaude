@@ -10,37 +10,31 @@ a: Japan
 
 
 
-Narutomi Hyogo said, “What is called winning is
-defeating one’s allies. Defeating one’s allies is defeating oneself, and defeating oneself is vigorously
-overcoming one’s own body.
+Narutomi Hyogo said, “What is called winning is defeating one’s allies. Defeating one’s allies is defeating oneself, and defeating oneself is vigorously overcoming one’s own body.
 
-“It is as though a man were in the midst of ten thousand
-allies but not a one were following him. If one hasn’t previously
+“It is as though a man were in the midst of ten thousand allies but not a one were following him. If one hasn’t previously
 mastered his mind and body, he will not defeat the enemy.”
-During the Shimabara Rebellion, his armor being still at the
-encampment, Shugyo Echizen no kami Tanenao participated in
-the fight dressed only in hakama and haori. It is said that he died in battle in this attire.
 
-At the time of the attack on the castle at Shimabara, Tazaki Geki was wearing very resplendent armor. Lord Katsushige was
-not pleased by this, and after that every time he saw something
-showy he would say, “That’s just like Geki’s armor.”
-In the light of this story, military armor and equipment that
-are showy can be seen as being weak and having no strength.
+During the Shimabara Rebellion, his armor being still at the encampment, Shugyo Echizen no kami Tanenao participated in
+the fight dressed only in hakama and haori. 
+
+He died in battle in this attire.
+
+At the time of the attack on the castle at Shimabara, Tazaki Geki was wearing very resplendent armor. Lord Katsushige was not pleased by this, and after that every time he saw something
+showy he would say, “That’s just like Geki’s armor.” 
+
+In the light of this story, military armor and equipment that are showy can be seen as being weak and having no strength.
 By them one can see through the wearer’s heart.
 
-When Nabeshima wizen no kami Tadanao died, his attendant Ezoe Kinbei took his remains and had them consecrated
-at Mt. Kola. Then, confining himself in a hermitage, he carved
+When Nabeshima wizen no kami Tadanao died, his attendant Ezoe Kinbei took his remains and had them consecrated at Mt. Kola. Then, confining himself in a hermitage, he carved
 a statue of his master and another of himself doing reverence before the master. On the first anniversary of Tadanao’s death, he
-returned to his home and committed tsuifuku. Later the statue
-was taken from Mt. Koya and was placed at the Kodenji.
+returned to his home and committed tsuifuku. 
 
-In the generation of Lord Mitsushige, Oishi Kosuke was at
-first a foot soldier serving at the side of his master. Whenever Lord Mitsushige was making the trip for his alternate- year
-residence in Edo, Kosuke would make the rounds around the
-sleeping quarters of his master, and if he thought a certain area
-to be insecure, he would spread a straw mat and pass through
-the night awake by himself. In rainy weather he would simply
-wear a bamboo hat and an oilpaper raincoat and would stand watch while being pelted by the rain. It is said that to the end
+Later the statue was taken from Mt. Koya and was placed at the Kodenji.
+
+In the generation of Lord Mitsushige, Oishi Kosuke was at first a foot soldier serving at the side of his master. Whenever Lord Mitsushige was making the trip for his alternate- year
+residence in Edo, Kosuke would make the rounds around the sleeping quarters of his master, and if he thought a certain area to be insecure, he would spread a straw mat and pass through
+the night awake by himself. In rainy weather he would simply wear a bamboo hat and an oilpaper raincoat and would stand watch while being pelted by the rain. It is said that to the end
 he never spent a single night in negligence .
 
 When Oishi Kosuke was an uchitonin, a mysterious person

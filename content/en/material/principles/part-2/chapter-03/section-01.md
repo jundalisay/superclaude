@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Media of the Spatial Layer"
 # date: 2023-11-27
-weight: 10
+weight: 4
 image: /graphics/physics/slices.jpg
 # was 1b
 description: "The Media of the Spatial Layer creates the common forces of gravity and magnetism"

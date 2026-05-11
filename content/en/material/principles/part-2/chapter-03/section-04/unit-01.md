@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Virtual Space Particles: Displacement and Cohesion"
 # date: 2024-07-22
-weight: 14
+weight: 4
 image: /photos/physics/whitehole.jpg
 description: "How do space vortices form?"
 writer: 

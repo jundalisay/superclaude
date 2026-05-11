@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Section 4
 title: "Spacespan (Space Particles)"
 linkTitle: Spacespan
 description: "The Spatial Layer Media"

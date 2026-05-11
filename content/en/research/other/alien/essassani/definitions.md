@@ -44,7 +44,8 @@ Thing | Meaning or Representation
 Horse | the new way
 Dragon | 
 Dog | service
-13 | change (to the Sassani)
+9 | border (to the Sassani, the speed of light reduces to nine)
+13 | change or transformation (to the Sassani)
 salt | neutralizer
 water | (in dreams) flow of emotions
 

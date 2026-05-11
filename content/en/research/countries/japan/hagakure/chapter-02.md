@@ -206,10 +206,9 @@ affairs. It would have been best for stopping the man in this
 recent event, too. When the situation is too much, one may
 either cut the man down, or, if the man is escaping, yell something like, “Don’t run I Only cowards run !” and thus, according
 to what the situation demands, achieve one’s goals by the influence of words. There was a certain man who was said to be
-good at judging men’s dispositions and formerly had everyone’s
-61
-attention, and he was able to handle such cases. This is proof
-that “right now” is no different from “when the time comes.”
+good at judging men’s dispositions and formerly had everyone’s attention, and he was able to handle such cases. This is proof
+that “right now” is no different from “when the time comes.” 
+
 The position of yokoza no yari is another example of this.* It is
 something that should be made one’s aim beforehand.
 The things to be deeply considered beforehand are many. If
@@ -221,6 +220,7 @@ blamed later in an investigation as a confederate of the killer, or
 as someone who had a grudge against him. But at that time one
 should think only of cutting the man down and not anticipate
 later blame.
+
 Even if one’s head were to be suddenly cut off, he should be
 able to do one more action with certainty. The last moments of
 Nitta Yoshisada are proof of this. Had his spirit been weak, he
@@ -230,12 +230,10 @@ because of simple determination. With martial valor, if one
 becomes like a revengeful ghost and shows great determination,
 though his head is cut off, he should not die.
 Whether people be of high or low birth, rich or poor, old or
-young, enlightened or confused, they are all alike in that they
-62
-will one day die. It is not that we don’t know that we are going
-to die, but we grasp at straws. While knowing that we will die
-someday, we think that all the others will die before us and that
+young, enlightened or confused, they are all alike in that they will one day die. It is not that we don’t know that we are going
+to die, but we grasp at straws. While knowing that we will die someday, we think that all the others will die before us and that
 we will be the last to go. Death seems a long way oft.
+
 Is this not shallow thinking? It is worthless and is only a joke
 within a dream. It will not do to think in such a way and be
 negligent. Insofar as death is always at one’s door, one should
@@ -412,10 +410,11 @@ bearing ill will and falling out with people–these things come
 from a heart that lacks compassion. If one wraps up everything
 with a heart of compassion, there will be no coming into conflict
 with people.
+
 A person who knows but a little will put on an air of knowledpe. This is a matter of inexperience. When someone knows
 something well, it will not be seen in his manner. This person
 is genteel.
-70
+
 When going someplace for a talk or something similar, it is
 best to let the person know ahead of time, and then go. To
 go without knowing whether the other party is busy, or when
@@ -423,36 +422,46 @@ he has some particular anxiety, is awkward. There is nothing that surpasses not 
 Good friends are rare. Even if someone is invited somewhere,
 he should use understanding. It is difficult to feel deeply the
 sensitivities of people other than those who go out only rarely.
+
 Fiascos at pleasure gatherings are numerous.
 However, you should not be brusque towards a person who
 has come to visit, even if you are busy.
 It is bad to carry even a good thing too far. Even concerning
 things such as Buddhism, Buddhist sermons, and moral lessons,
 talking too much will bring harm.
+
 The late Jin’emon said that it is better not to bring up
 daughters. They are a blemish to the family name and a shame
 to the parents. The eldest daughter is special, but it is better
 to disregard the others.
+
 The priest Keiho related that Lord Aki once said that martial
 valor is a matter of becoming a fanatic. I thought that this
 was surprisingly in accord with my own resolve and thereafter
 became more and more extreme in my fanaticism.
-The late Nakano Kazuma said that the original purpose of
-71
-the Tea Ceremony is to cleanse the six senses. For the eyes
-there are the hanging scroll and flower arrangement. For the
+
+The late Nakano Kazuma said that the original purpose of the Tea Ceremony is to cleanse the six senses. 
+
+For the eyes there are the hanging scroll and flower arrangement. For the
 nose there is the incense. For the ears there is the sound of the
-hot water. For the mouth there is the taste of the tea. And
+hot water. 
+
+For the mouth there is the taste of the tea. And
 for the hands and feet there is the correctness of term. When
 the five senses have thus been cleansed, the mind will of itself
-be purified. The Tea Ceremony will cleanse the mind when the
-mind is clogged up. I do not depart from the heart of the Tea
-Ceremony for twenty-four hours a day, yet this is absolutely
-not a matter of tasteful living. Moreover, the tea utensils are
+be purified.
+
+The Tea Ceremony will cleanse the mind when the mind is clogged up. I do not depart from the heart of the Tea
+Ceremony for 24 hours a day, yet this is absolutely
+not a matter of tasteful living. 
+
+Moreover, the tea utensils are
 something that should be in accord with one’s social position.
+
 In the poem, “Under the deep snows in the last village/
 Last night numerous branches of plum blossomed,” the opulence of the phrase “numerous branches” was changed to “a single branch.” It is said that this “single branch” contains true
 tranquillity.
+
 When intimate friends, allies, or people who are indebted
 to you have done some wrong, you should secretly reprimand
 them and intervene between them and society in a good manner.
@@ -474,6 +483,7 @@ blade, and then placing it in its scabbard again.
 If a person has his sword out all the time, he is habitually
 swinging a naked blade; people will not approach him and he
 will have no allies.
+
 If a sword is always sheathed, it will become rusty, the blade
 will dull, and people will think as much of its owner.
 One cannot accomplish things simply with cleverness. One
@@ -481,36 +491,40 @@ must take a broad view. It will not do to make rash judgments
 concerning good and evil. However, one should not be sluggish.
 It is said that one is not truly a samurai if he does not make his
 decisions quickly and break right through to completion.
+
 Once, when a group of five or six pages were traveling to the
 capital together in the same boat, it happened that their boat
-struck a regular ship late at night. Five or six seamen from the
-73
-ship leapt aboard and loudly demanded that the pages give up
+struck a regular ship late at night. Five or six seamen from the ship leapt aboard and loudly demanded that the pages give up
 their boat’s anchor, in accord with the seaman’s code. Hearing
 this, the pages ran forward yelling, “The seaman’s code is something for people like you! Do you think that we samurai are
 going to let you take equipment from a boat carrying warriors?
+
 We will cut you down and throw you into the sea to the last
 man!” With that, all the seamen fled back to their own ship.
+
+
 At such a time, one must act like a samurai. For trifling
 occasions it is better to accomplish things simply by yelling. By
 making something more significant than it really is and missing
 one’s chance, an affair will not be brought to a close and will be
 no accomplishment at all.
-A certain person who came up with a cash shortage when
-closing out an account book sent a letter to his section leader
+
+A certain person who came up with a cash shortage when closing out an account book sent a letter to his section leader
 saying, “It is regrettable to have to commit seppuku over a matter of money. As you are my section leader, please send some
 funds.” Since this was reasonable, the balance was provided and
 the matter was closed. It is said that even wrongdoings can be
 managed without detection.
+
 By being impatient, matters are damaged and great works
 cannot be done. If one considers something not to be a matter of
-time, it will be done surprisingly quickly. Times change. Think
-about the world fifteen years from now. It should be rather
-74
-different, but if one were to look into a book of prophecies,
+time, it will be done surprisingly quickly. Times change. 
+
+Think
+about the world fifteen years from now. It should be rather different, but if one were to look into a book of prophecies,
 I imagine that it would not be that different. In the passing
-fifteen years, not one of the useful men of today will be left.
-And even if men who are young now come forth, probably less
+15 years, not one of the useful men of today will be left.
+
+Even if men who are young now come forth, probably less
 than half will make it. Worth gradually wanes. For example,
 if there were a shortage of gold, silver would become treasure,
 and if there were a shortage of silver, copper would be valued.
@@ -522,6 +536,7 @@ his purpose and will be a valuable person. Certainly in a period
 when masters are many, one must put forth considerable effort.
 But at the time when the world is sliding into a decline, to excel
 is easy.
+
 To put forth great effort in correcting a person’s bad habits
 is the way it should be done. One should be like the digger
 wasp. It is said that even with an adopted child, if you teach
@@ -529,9 +544,9 @@ him continually so that he will resemble you, he surely will.
 If your strength is only that which comes from vitality, your
 words and personal conduct will appear to be in accord with the
 Way, and you will be praised by others. But when you question
-yourself about this, there will be nothing to be said. The last
-75
-line of the poem that goes, “When your own heart asks,” is the
+yourself about this, there will be nothing to be said. 
+
+The last line of the poem that goes, “When your own heart asks,” is the
 secret principle of all the arts. It is said that it is a good censor.
 When you are listening to the stories of accomplished men
 and the like, you should listen with deep sincerity, even if it’s
@@ -539,5 +554,3 @@ something about which you already know. If in listening to the
 same thing ten or twenty times it happens that you come to an
 unexpected understanding, that moment will be very special.
 Within the tedious talk of old folks are their meritorious deeds.
-
-

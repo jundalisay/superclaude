@@ -2,7 +2,7 @@
 heading: "Unit 4b"
 title: "Bob Lazar's Gravity-A Waves"
 # date: 2024-07-22
-weight: 19
+weight: 9
 image: /graphics/physics/bob.jpg
 description: "Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51"
 writer:

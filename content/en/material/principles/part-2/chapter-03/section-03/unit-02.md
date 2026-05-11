@@ -2,7 +2,7 @@
 heading: "Unit 2"
 title: "Macro Aetherspace: Dark Energy"
 # date: 2023-03-10
-weight: 9
+weight: 14
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even the space of your own atoms."
 icon: "Juan"

@@ -1,8 +1,8 @@
 ---
-heading: "Unit 2"
+heading: "Unit 4"
 title: "Micro D Gravity: Gravitational Constant"
 date: 2024-12-11
-weight: 17
+weight: 11
 image: /graphics/physics/grav.jpg
 description: "Newton's Universal Law is based on the idea that the force of gravity comes from matter"
 writer:

@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Fixing Gravity: From Newton to Einstein to Descartes"
 date: 2025-12-19
-weight: 6
+weight: 61
 image: /graphics/physics/aetherspaceall.jpg
 description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:

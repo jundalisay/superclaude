@@ -1,7 +1,7 @@
 ---
 title: Japanese Texts
 weight: 23
-linkTitle: Countries
+linkTitle: Japanese
 # date: 2023-06-17
 description: ""
 c: "darkslategray"
