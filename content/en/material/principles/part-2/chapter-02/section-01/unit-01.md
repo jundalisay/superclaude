@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "The Upper, Middle, and Lower Spatial Sublayers"
 # date: 2020-01-31
 image: /graphics/physics/disk.jpg

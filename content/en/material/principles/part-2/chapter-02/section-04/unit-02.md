@@ -1,5 +1,5 @@
 ---
-heading: "Section 4b"
+heading: "Unit 2"
 title: "Distance and Second"
 # date: 2023-03-10
 weight: 7
@@ -56,3 +56,5 @@ We call this a "distance" which be expanded or shrunk so that 1 nanodistance is 
 When a human goes to another star or galaxy, he measures the time for cesium to get 40 trillion oscillations to establish a second, then uses that to measure the distance light travels to establish a nanodistance. 
 
 This convention creates standard units for space and time that are universal.
+
+

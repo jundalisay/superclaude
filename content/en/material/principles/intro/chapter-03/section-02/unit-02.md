@@ -13,4 +13,4 @@ icon: "Juan"
 
 
 
-The 1st Rule is implemented in displacement gravity. 
+The 2nd Rule is implemented by cohesion gravity. 

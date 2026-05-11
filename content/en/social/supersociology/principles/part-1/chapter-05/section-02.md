@@ -1,14 +1,14 @@
 ---
+heading: Section 2
 title: "The Combination of Classes"
-heading: Chapter 5b
 date: 2021-07-21
-weight: 38
+weight: 26
 image: "/photos/social/protests.jpg"
 description: "There are 3 combintions of social cycles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 
@@ -44,7 +44,7 @@ This is seen as Liberal versus Conservative.
 In ancient times, this happened as Marius (Warriors) versus Sulla (Traders).
 
 
-## 2. Worker + Thinker Versus  Warrior + Trader
+## 3. Worker + Thinker Versus  Warrior + Trader
 
 
 ![wWtT](/graphics/social/mix2.png)

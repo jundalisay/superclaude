@@ -1,6 +1,7 @@
 ---
 heading: "Section 1"
 title: "1st Rule of Motion"
+linkTitle: Rule 1
 # date: 2023-11-26
 date: 2025-12-05
 image: "/graphics/physics/rule1.jpg"

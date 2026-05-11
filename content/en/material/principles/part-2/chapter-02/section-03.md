@@ -2,7 +2,7 @@
 heading: "Section 3"
 title: "The Macro-Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
-weight: 6
+weight: 8
 image: /graphics/physics/aetherspaceall.jpg
 description: "T he macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace. This lets it create dimensions"
 writer:

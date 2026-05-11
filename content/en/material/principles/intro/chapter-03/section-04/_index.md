@@ -1,6 +1,7 @@
 ---
 heading: "Section 4"
 title: "4th Rule of Motion"
+linkTitle: "Rule 4"
 # date: 2023-11-26
 date: 2025-12-05
 image: "/graphics/physics/rule4.jpg"

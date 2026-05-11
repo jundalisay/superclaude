@@ -7,7 +7,7 @@ description: "The practical use of qors is to light-based technologies"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 11
 icon: "Juan"
 ---
 

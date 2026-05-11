@@ -8,7 +8,7 @@ description: "Heat particles are of medium size. Like virtual photons, this allo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 19
 icon: "Juan"
 ---
 

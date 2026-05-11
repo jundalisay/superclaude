@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Section 2"
 title: "The Properties of Time"
 # date: 2023-03-10
 weight: 6
@@ -24,7 +24,7 @@ A perception is new or different from a pervious perception if it has something 
 > Time is an effect of change
 
 
-### 3 Kinds of Time
+## 3 Kinds of Time
 
 A universe that has zero changes does not have time since a mind or detector observing it will have a single perception without any gaps.
 

@@ -48,8 +48,12 @@ This was because:
 
 Proof of Descartes' comet mechanics only came with Comet 3I/ATLAS which showed anomalies unexplainable by Newtonian Physics but are totally explainable by Descartes' aether theory. 
 
-
 {{< i s="/photos/physics/atlas.jpg" a="ATLAS" c="Comet 3I/ATLAS proves Descartes' Physics just as Haley's comet proved Newton's Physics" >}}
+
+For example, the forward facing tail and bright light after leaving perihelion is clearly explained as refraction by the aether i.e. it's just another form of gravitational lensing. 
+
+{{< i s="/graphics/physics/world15c.gif" a="Refraction" c="Descartes explained the forward facing tail as refraction, now called gravitational lensing" >}}
+
 
 
 

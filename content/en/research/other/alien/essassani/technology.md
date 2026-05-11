@@ -80,3 +80,26 @@ Sassani have a population of 250m
 - 2/3 are on their craft
 
 Triangle shape is for smaller craft and is designed for stability for interdimensional travel.
+
+
+## UFOs 
+
+### Physical
+
+Manufactured:
+
+1. Gray
+
+2. Anunnaki
+
+
+Advanced Manufactured:
+
+1. Hybrids (Yahyel?)
+
+Tictac submarines 
+
+2. 
+
+
+### Non-Physical

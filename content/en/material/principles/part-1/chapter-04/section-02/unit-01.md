@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "The Multiverse as Nonliving Physical Existence (soa1)"
 # # date: 2020-01-31
 image: "/photos/physics/galaxy.jpg"
@@ -7,7 +7,7 @@ description: "A universe is a substance of the aether"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 6
 icon: "Juan"
 ---
 
@@ -187,5 +187,3 @@ Material | Classical Physics
 
 However, we use the term aether in order to separate our system from the assumptions in Quantum Physics. 
  -->
- 
- 

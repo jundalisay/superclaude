@@ -62,7 +62,7 @@ EPITOME
 7. Odyssey & Telegonia
 
 
-THE LIBRARY BOOK 1, TRANSLATED BY J. G. FRAZER
+
 [1.1.1] Sky was the first who ruled over the whole world.1 And having wedded Earth, he begat first the Hundred-handed, as they are named: Briareus, Gyes, Cottus, who were unsurpassed in size and might, each of them having a hundred hands and fifty heads.2
 
 [1.1.2] After these, Earth bore him the Cyclopes, to wit, Arges, Steropes, Brontes3 of whom each had one eye on his forehead. But them Sky bound and cast into Tartarus, a gloomy place in Hades as far distant from earth as earth is distant from the sky.4
@@ -101,5 +101,8 @@ THE LIBRARY BOOK 1, TRANSLATED BY J. G. FRAZER
 
 [1.3.5] Hera gave birth to Hephaestus without intercourse with the other sex,48 but according to Homer he was one of her children by Zeus.49 Him Zeus cast out of heaven, because he came to the rescue of Hera in her bonds.50 For when Hercules had taken Troy and was at sea, Hera sent a storm after him; so Zeus hung her from Olympus.51 Hephaestus fell on Lemnos and was lamed of his legs,52 but Thetis saved him.53
 
-[1.3.6] Zeus had intercourse with Metis, who turned into many shapes in order to avoid his embraces. When she was with child, Zeus, taking time by the forelock, swallowed her, because Earth said that, after giving birth to the maiden who was then in her womb, Metis would bear a son who should be the lord of heaven. From fear of that Zeus swallowed her.54 And when the time came for the birth to take place, Prometheus or, as others say, Hephaestus, smote the head of Zeus with an axe, and Athena, fully armed, leaped up from the top of his head at the river Triton.55
+[1.3.6] Zeus had intercourse with Metis, who turned into many shapes in order to avoid his embraces. 
 
+When she was with child, Zeus, taking time by the forelock, swallowed her, because Earth said that, after giving birth to the maiden who was then in her womb, Metis would bear a son who should be the lord of heaven. 
+
+From fear of that Zeus swallowed her.54 And when the time came for the birth to take place, Prometheus or, as others say, Hephaestus, smote the head of Zeus with an axe, and Athena, fully armed, leaped up from the top of his head at the river Triton.

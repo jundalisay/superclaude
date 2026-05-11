@@ -1,6 +1,7 @@
 ---
 heading: "Section 2"
 title: "2nd Rule of Motion"
+linkTitle: Rule 2
 # date: 2023-11-26
 date: 2025-12-05
 image: "/graphics/physics/rule2.jpg"

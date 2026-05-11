@@ -1,5 +1,5 @@
 ---
-heading: "Section 4"
+heading: "Unit 2"
 title: "The Edge of the Universe"
 # date: 2024-07-22
 weight: 6

@@ -1,5 +1,5 @@
 ---
-heading: "Section 2c"
+heading: "Unit 2"
 title: "The Creation of the Universe: Baryonic Acoustic Oscillations"
 # date: 2020-01-31
 image: "/graphics/flipbook.gif"
@@ -7,9 +7,10 @@ description: "According to Physics, the universe was created through a Big Bang 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 28
+weight: 8
 icon: "Juan"
 ---
+
 
 
 The universe is created from the aethereal ideas of the Supreme in the aethereal layer (5th Element in Cartesian Physics).
@@ -226,5 +227,3 @@ Accordingly, they could not find lensing in Jupiter.  -->
 The qosts compress the star just as it compresses the other vortices within the star's territory to create planets. 
 
 The next phase is the Creation of Life and Matter.
-
-

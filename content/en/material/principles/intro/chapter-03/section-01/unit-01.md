@@ -8,11 +8,17 @@ description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 3
+weight: 4
 icon: "Juan"
 ---
 
 
 
 The 1st Rule says:
+
+> No identity moves into the place of another identity unless at the same time that other identity moves into the place of another identity.
+
+We call this the no void rule.
+
+This is most obvious in liquid dynamics and aerodynamics.
 

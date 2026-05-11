@@ -7,7 +7,7 @@ description: "Physical reality is from collapse of the aether into matter"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 12
 icon: "Juan"
 ---
 

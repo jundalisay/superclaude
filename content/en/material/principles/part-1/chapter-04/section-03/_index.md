@@ -7,7 +7,7 @@ description: "Physical Identity is aethereal"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 7
 icon: "Juan"
 # 4c
 ---

@@ -9,7 +9,7 @@ description: "The Ideology Matrix-Vector helps visualize the morality of a socie
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 aliases:
   /superphysics/solutions/ideology-matrix
 ---
@@ -51,9 +51,9 @@ By doing so, we:
 - show that both had the same core observations of human society and the human species, but using different terminologies
 
 
-{{< me d="December 2021" >}}
+<!-- d t="December 2021" >}}
 We have now systematized this as the [Four Laws of Value](/social/economics/principles/intro/chapter-04)
-{{< /me >}}
+/d >}} -->
 
 {{< q a="Socrates" c="The Republic, Book 8" >}}
 The four governments are those of Crete and Sparta, which are generally applauded. Oligarchy comes next; this is not equally approved. It is a form of government which teems with evils. Democracy, which naturally follows oligarchy, although very different. Lastly comes tyranny, great and famous, which differs from them all and is the fourth and worst State. 

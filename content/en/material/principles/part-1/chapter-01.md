@@ -35,7 +35,7 @@ Quality | Most Subtle, Highest Control
 
 
 
-### Definition of the Aethereal Layer
+## Definition of the Aethereal Layer
 
 The aether is the substance of ideas, feelings, and of the abstract mind or soul that has those ideas and feelings. 
 
@@ -147,7 +147,7 @@ Matter | 20,000-25,000 | Threshold between physical and non physical reality. Th
 
 
 
-## Topic List
+<!-- ## Topic List
 
 MSQ | Sub |  Topic
 --- | --- | --- 
@@ -159,4 +159,4 @@ Identity 4-2 | |
 Reality 4-3 | | 
 Subtlifying 5-1 | | 
 Transforming 8 | | 
-Crudfying 9 | | 
+Crudfying 9 | |  -->
