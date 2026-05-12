@@ -33,6 +33,7 @@ Country | Year Prediction was Made | Prediction | Outcome
 World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color color="green" val="Correct" >}}
 World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="green" >}}Semi-correct, split as the US banking Crisis and the fall of cyrpto because of the pandemic in 2020 (instead of 2019) {{< /c >}}
 World | 2019 | A large scale war will happen between 2025-2030 | {{< color color="orange" val="Pending (update may 2026: nearly correct, just waiting for a China war. We initially predicted a Saudi-Iran war, which turned out to be an Israel-Iran war (US is included of course)." >}}
+![PH flag](/flags/ph.png) | 4/2026 | Sara Duterte or her ally will become President in 2028 | {{< c v="orange" >}}Pending{{< /c >}}
 ![Iran flag](/flags/ir.png) | 3/2026 | The Iran war will escalate and merge with the Russia war | Pending
 ![PH flag](/flags/ph.png) | 5/2025 | Duterte and his allies will win in the midterm elections | {{< c v="green" >}}Correct{{< /c >}}
 ![German flag](/flags/de.png) | 12/2024 | [BSW](/social/cycles/germany) (Left) will win more seats than AfD as a result of the Worker Cycle | {{< c v="red" >}}Wrong. This means Germany is in warrior, not worker cycle. The worker Left did get more votes than previously, but not more than the warrior parties{{< /c >}}

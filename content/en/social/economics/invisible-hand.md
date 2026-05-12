@@ -127,7 +127,7 @@ More resources are given to productive people just as a better watch costs more.
 
 But to be productive, one must focus his entire time and effort towards his craft. But to spend so much time in something, a person must first **be passionate about it**. 
 
-Therefore passion in one's craft is the key in the natural economic system. This is our [third law of value](/social/economics/principles/part-2/chapter-01)
+Therefore passion in one's craft is the key in the natural economic system. This is our [2nd law of value](/social/economics/principles/part-2/chapter-01)
 
 > To spend so much time in something, a person must first be passionate about it
 
@@ -233,6 +233,4 @@ In all Polytheistic religions.. only the irregular events of nature are ascribed
 The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning.  Savages only knew the designing power of man. 
 {{< /q >}}
 
-
-This dharma is further explained [here](/social/economics/principles/part-3/chapter-01b/)
 
