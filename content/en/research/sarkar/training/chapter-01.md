@@ -37,8 +37,7 @@ The Sa'dhakas of introvertive intuitional practice have also to engage themselve
 Disciplined conduct (Sam'yama) is essential for introvertive intuitional practice. One has to discipline oneself in relation to external environments as well as against one's own extrovertial expressed sentiments (Pravrtti). The former is Yama and the latter Niyama. The root verb `Yama' is common to both and it means to control. The word `Yantra' (machine) is derived from the same rootverb `Yam' and means a machine which works under control and is capable of output. Controlled contact with others is Yama and conduct relating to self for purification is Niyama.
 
 
-## CHAPTER 1:  YAMA SADHANA
-	
+## Chapter 1:  Yama Sadhana
 
 Yama, in Samskrta, means that which controls. 
 
@@ -50,7 +49,9 @@ In human psychic level too, mind takes a form which is known as Ma’nasa Yantra
 
 U'rdhva Trikon'a (of our Pratiika) symbolizes the human mind in its relation to physical energies and Adhah Trikon’a symbolizes the mind in its relation to the Prajina'. The latter one guides all the subtler energies of human beings. The more the adjustment between these two triangles, i.e. the more the adjustment with this entire figure (Bhaeravii Cakra), the more one will be able to utilize one's mental potentialities.
 
-You know, there are Kaos'ikii, Bhaeravii and Bhava’nii Shaktis. Bhaeravii Shakti generally determines the relation between the spiritual stratum and physical stratum. The Kaos’ikii is the causal matrix i.e. the trivalent and the A'dya' Shakti and then the physical world is created with all its objects and vibrations which are physical. The Bhaeravii Shakti establishes the relation between the causal matrix and the physical vibrations and that is why this Cakra is called Bhaeravii Cakra. It is Bhaeravii Cakra, which is instrumental for elevating, guiding and inspiring the mind in all possible ways towards the higher stratum. In practical Tantra, the mind gets inspiration always from Bhaeravii Cakra. This is why the Sa'dhakas, to get inspiration from this Cakra, seat themselves in the same while doing Sa’dhana’ in a burial ground. This is the method. Sitting in this Cakra they attain and imbibe the ideation which this Cakra carries. This Cakra also controls the mind just as the structure of the physical body controls the physical activities.
+You know, there are Kaos'ikii, Bhaeravii and Bhava’nii Shaktis. Bhaeravii Shakti generally determines the relation between the spiritual stratum and physical stratum. The Kaos’ikii is the causal matrix i.e. the trivalent and the A'dya' Shakti and then the physical world is created with all its objects and vibrations which are physical. The Bhaeravii Shakti establishes the relation between the causal matrix and the physical vibrations and that is why this Cakra is called Bhaeravii Cakra. It is Bhaeravii Cakra, which is instrumental for elevating, guiding and inspiring the mind in all possible ways towards the higher stratum. 
+
+In practical Tantra, the mind gets inspiration always from Bhaeravii Cakra. This is why the Sa'dhakas, to get inspiration from this Cakra, seat themselves in the same while doing Sa’dhana’ in a burial ground. This is the method. Sitting in this Cakra they attain and imbibe the ideation which this Cakra carries. This Cakra also controls the mind just as the structure of the physical body controls the physical activities.
 
 The Yantra or the machine, the very property of which is to control, is derived from the root verb `Yam' (to control) and has external expression also.
 

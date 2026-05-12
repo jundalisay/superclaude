@@ -63,13 +63,45 @@ But proper control is no doubt greatly needed, not only over food and sleep, but
 
 A bath is refreshing, but in absence of control over bath, i.e., a long-continued bath, would make one catch cold. Similarly, marriage has its function but the absence of restraint in married life would cause various diseases in body and mind.
 
-Marriage is slightly different from other natural functions in life, such as eating, sleeping, etc. Marriage is not so essential for life as are food and sleep.
 
-The need for marriage differs with individuals. That is why in the opinion of Ananda Marga every individual has complete freedom in matters of marriage. For example, marriage of those persons who suffer from some physical or mental disease, or who are not financially well off, or whose present circumstances are not favourable for marriage (i.e., where marriage can cause unhappiness), is not desirable. Those who are constantly engaged in the fulfilment of an ideal, or those who have to spend the greater part of their day in earning their livelihood or some mental occupations, should not marry, because they will not find it possible to fulfil their family commitments properly. 
+Marriage is slightly different from other natural functions in life, such as eating, sleeping, etc. 
+- Marriage is not so essential for life as are food and sleep.
 
-The marriages of such people are harmful to the society in many cases. Although marriage is not desirable for those who are suffering from some disease or whose circumstances are not favourable to getting married, there remains a possibility of their indulging in vices stealthily if they are not married. To avoid this, they should work for the attainment of some high ideals or do rigorous spiritual practices. The psychological degeneration which is inherent in the suppression of psychic tendencies can be avoided only by an effort to fulfil a lofty ideal.
+The need for marriage differs with individuals. 
 
-It has been said earlier, and it is being repeated, that one has to exercise control in every sphere of life, whether big or small. Such control does not imply killing the desire but controlling it. Desires and tendencies are natural attributes of a living being. Therefore, those who want to kill the desires should better adopt some easy method of committing suicide instead of pursuing any difficult method of spiritual practices. I do not find any reason to support the so-called Brahmacarya for those who are Shaeva, Shákta, Vaeśńava, or who believe in Puráńas, because their deities, Shiva, Viśńu, Krśńa and others, were what is commonly known as worldly people. In Puráńa the names of their wives and children are also mentioned.
+That is why in Ananda Marga, every individual has complete freedom in matters of marriage. 
+
+For example, marriage of these persons are not desirable, those who:
+- suffer from some physical or mental disease
+- **are not financially well off**
+- have present circumstances that are not favourable for marriage (i.e., where marriage can cause unhappiness)
+- are constantly engaged in the fulfilment of an ideal
+- have to spend most of their day in earning their livelihood or some mental occupations
+
+Such people will not be able to fulfill their family commitments properly. 
+
+The marriages of such people are harmful to the society in many cases.
+
+Although marriage is not desirable for those who are suffering from some disease or whose circumstances are not favourable to getting married, there remains a possibility of their indulging in vices stealthily if they are not married. 
+
+To avoid this, they should work for the attainment of some high ideals or do rigorous spiritual practices. 
+
+The suppression of psychic tendencies leads to psychological degeneration.
+- This can be avoided only by an effort to fulfill a lofty ideal.
+
+I repeat that one has to exercise control in every sphere of life, whether big or small.
+
+**Such control does not imply killing the desire but controlling it. **
+
+
+Desires and tendencies are natural attributes of a living being.
+
+Therefore, those who want to kill the desires should better adopt some easy method of committing suicide instead of pursuing any difficult method of spiritual practices. 
+
+I do not support the so-called Brahmacarya for those who are Shaeva, Shákta, Vaeśńava, or who believe in Puráńas.
+- This is because their deities, Shiva, Viśńu, Krśńa and others were worldly people.
+
+In Puráńa the names of their wives and children are also mentioned.
 
 <!-- Dharma is based on Satya, “Dharma sah na yatra na satyamasti.” “Where there is no satya there is no dharma.” This peculiar interpretation of Brahmacarya may contain anything and everything save except satya. Hence there is no dharma or Brahma in it.
 
