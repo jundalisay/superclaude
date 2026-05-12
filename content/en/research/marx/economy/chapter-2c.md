@@ -13,9 +13,13 @@ icon: "Karl Marx"
 
 
 
-When, as a result of the establishing of prices, commodities have acquired the form in which they are able to enter circulation and gold has assumed its function as money, the contradictions latent in the exchange of commodities are both exposed and resolved by circulation.
+The establishing of prices lets commodities acquire the form that lets them enter circulation.
+- This circulation exposes the contradictions latent in the exchange of commodities.
 
-The real exchange of commodities, that is the social metabolic process, constitutes a transformation in which the dual nature of the commodity – commodity as use-value and as exchange-value – manifests itself; but the transformation of the commodity itself is, at the same time, epitomised in certain forms of money. 
+<!-- Gold has assumed its function as money,  are  -->
+
+The real exchange of commodities is the social metabolic process.
+- It constitutes a transformation in which the dual nature of the commodity – commodity as use-value and as exchange-value – manifests itself; but the transformation of the commodity itself is, at the same time, epitomised in certain forms of money.
 
 To describe this transformation is to describe circulation. Commodities, as we have seen, constitute fully developed exchange-value only when a world of commodities and consequently a really developed system of division of labour is presupposed; in the same manner circulation presupposes that acts of exchange are taking place everywhere and that they are being continuously renewed. 
 

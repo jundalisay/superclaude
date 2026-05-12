@@ -57,7 +57,7 @@ World | 2019 | A large scale war will happen between 2025-2030 | {{< color color
 ![Venezuela flag](/flags/ve.png) | 2017 | The economic crisis in Venezuela will remain until a certain future year | {{< color color="Navy" val="Null (No way to prove or disprove. For example, Maduro lost the 2024 elections but still won) " >}}
 ![Philippines flag](/flags/ph.png) | 2017 | Duterte allies will win in 2018 | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2017 | Israeli Crypto Bancor will crash | {{< color val="Correct" >}}
-![Philippine flag](/flags/ph.png) | 2016 | Roxas will win the elections | {{< color color="red" val="Wrong" >}}
+![Philippine flag](/flags/ph.png) | 2016 | Roxas will win the elections | {{< color color="orange" val="Partially Wrong. Poe caused anti-warrior votes to be split. Combining Poe and Roxas gives 19m votes over Duterte's 17m" >}}
 ![Iran flag](/flags/ir.png) | 2016 | The US will slowly lift more sanctions | {{< c v="red" >}}Wrong. In reality, Trump imposed new sanctions{{< /c >}}
 ![Great Britain flag](/flags/gb.png) | 2016 | Scotland will want to leave the UK | {{< color val="Semi-correct" >}}
 ![Syria flag](/flags/sy.png) | 2015 | Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia)) | {{< color color="red" val="Wrong. In reality, Assad fell in 2024. At best, the prediction would be half-cycle correct." >}}
