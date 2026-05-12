@@ -3,8 +3,8 @@ heading: "Unit 2"
 title: "Properties of the Aetherspace"
 # date: 2024-07-22
 weight: 8
-image: /graphics/physics/aetherspaceall.jpg
-description: "T he macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace. This lets it create dimensions"
+image: /photos/physics/sparks.jpg
+description: "The macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace. This lets it create dimensions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -66,3 +66,16 @@ You can know another person by starting into his/her eyes.
 
 The Sassani's major challenge is to convert from physical to quasi physical beings. They are getting help from quasi physical Sirius beings.
 
+
+
+## You are One
+
+You exist as an idea unto Itself. 
+
+**Even when you become one with the One, you will still experience yourself as the One.**
+
+
+The imagination is the conduit between the physical mind and the higher mind. 
+
+Put your mind one with the wall. Then imagine whatever to make you one with that wall. 
+

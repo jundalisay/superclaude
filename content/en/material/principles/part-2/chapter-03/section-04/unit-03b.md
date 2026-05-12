@@ -1,15 +1,14 @@
 ---
 heading: "Unit 4b"
-title: "Bob Lazar's Gravity-A Waves"
+title: "Bob Lazar's Gravity-A Waves as Dark Energy"
 # date: 2024-07-22
 weight: 9
-image: /graphics/physics/bob.jpg
+image: /photos/objects/ufo.jpg
 description: "Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
@@ -17,7 +16,7 @@ draft: true
 
 Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51. 
 
-{{< youtube cJWzBCV0ksc >}}
+{{< youtube 0dXvYASaIx4 >}}
 
 In Material Superphysics, this is the same as the aetherspace which surrounds the quarks in a proton. 
 
@@ -25,15 +24,20 @@ The Gray UFO's mechanism is to use Element-115 that has a large aetherspace that
 
 That aetherspace is then amplified to repel gravity and to push the craft where it wants to go. 
 
-In human levitation, this aetherspace is known as chi which is propelled downwards to resist gravity. 
+- The ordinary aetherspace is atomic space which facilitates contact forces
+- The marco-aetherspace is atomic space amplified to expand that contact force ability beyond material contact
+
+
+<!-- In human levitation, this aetherspace is known as chi which is propelled downwards to resist gravity.  -->
+
 
 The aetherspace can be harnessed without Element 115. The Grays probably only use it because it is a compact source of ready-aetherspace.
 
-Our preferred theoretical way to generate the aetherspace is through an external electro-aetheric field-force that replicates the natural aetherspace in atoms through Cartesian Relativity (see superpositioon and decoherence video).
+Our preferred theoretical way to amplify the aetherspace is through an external electro-aetheric field-force that replicates the natural aetherspace in atoms through Cartesian Relativity (see superpositioon and decoherence video).
 
 This requires more power than what can be carried in the small craft of the Grays and is what is used by larger UFO craft.
 
-This is because the aetherspace naturally repels spacetime.
+<!-- This is because the aetherspace naturally repels spacetime. -->
 
 
 <!-- https://youtu.be/cJWzBCV0ksc -->

@@ -39,6 +39,7 @@ According to Descartes, a galaxy forms when mosts (which he calls the 2nd Elemen
 - The weaker and smaller ones revolve around the larger and stronger ones. 
 - These larger ones are naturally separated by their mutual repulsion from the need to retain their uniqueness.  
 
+
 {{< q a="Rene Descartes" c="The World Simplified" >}}
 At the beginning, God placed every sort of inequality among these particles. They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions. But that does not prevent them afterwards from having been rendered almost all fairly equal, especially those that remained an equal distance from the centers around which they were turning.
 

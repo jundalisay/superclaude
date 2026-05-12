@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Timespace as Holder of Gravitational Signatures"
 # date: 2024-07-22
 weight: 11
-image: /photos/objects/clock.jpg
+image: /photos/physics/neutrino.jpg
 description: "Timespace is the sublayer where time predominates and space is minimal."
 writer:
   name: Juan

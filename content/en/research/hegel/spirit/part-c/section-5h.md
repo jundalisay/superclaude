@@ -9,13 +9,20 @@ weight: 11
 
 
 
-{{< s v='279' >}}  If we see the difference between this way of framing laws and previous forms, it will clear up its nature completely.
+{{< s v='279' >}}  
 
-The process of perceiving and understanding (intelligence) reflects itself into itself, and by so doing determines its object.
+<!-- If we see the difference between this way of framing laws and previous forms, it will clear up its nature completely. -->
+
+The process of perceiving and understanding (intelligence) reflects itself into itself.
+- This lets it determine its object.
 
 Understanding does not there have before itself in its object the relation of these abstract determinations, universal and individual, essential and external.
 
-On the contrary, understanding is itself the actual transition, the relational process, and to itself this transition does not become objective.
+On the contrary, understanding is itself:
+- the actual transition
+- the relational process
+
+This transition to itself does not become objective.
 
 Here, the organic unity, i.e. just the relation of those opposites, is itself the object. This relation is a pure process of transition. 
 
@@ -95,17 +102,30 @@ This other appears in the first instance as its outer inorganic nature.
 If these two are looked at in relation to a law, the inorganic nature cannot, as we saw before, constitute the aspect of a law beside the organic being, because the latter exists absolutely for itself, and assumes a universal and free relation to inorganic nature.
 
 
-{{< s v='285' >}} To define more exactly, however, the relation of these two aspects in the case of the organic form, this form, in which the organism is embodied, is in one aspect turned against inorganic nature, while in an other it is for itself and reflected into itself. The real organic being is the mediating agency, which brings together and unites the self-existence of life [its being for itself], with the outer in general, with what simply and inherently is.
+{{< s v='285' >}} To define more exactly, however, the relation of these two aspects in the case of the organic form, this form, in which the organism is embodied, is in one aspect turned against inorganic nature, while in an other it is for itself and reflected into itself. 
 
-The one extreme, self-existence, is, however, the inner in the sense of an infinite “one”, which takes the moments of the embodied shape itself out of their subsistence and connexion with outer nature and withdraws these moments back into itself; it is that which, having no content, looks to the embodied form of the organism to provide its content, and appears there as the process of that form.
+The real organic being is the mediating agency which brings unites the self-existence of life [its being for itself], with the outer in general, with what simply exists.
+ <!-- and inherently is. -->
 
-In this extreme where it is mere negativity, or pure individual existence, the organism possesses its absolute freedom, whereby it is made quite secure and indifferent towards the fact of its being relative to another and towards the specific character belonging to the moments of the form of the organism. This free detachment is at the same time a freedom of the moments themselves; it is the possibility of their appearing and of being apprehended as existent. 
+The one extreme, self-existence, is, however, the inner in the sense of an infinite “one”, which takes the moments of the embodied shape itself out of their subsistence and connexion with outer nature and withdraws these moments back into itself.
 
-And just as they are therein detached and indifferent in regard to what is outer, so too are they towards one another; for the simplicity of this freedom is being or is their simple substance. This notion or pure freedom is one and the same life, no matter how varied and diverse the ways in which the shape assumed by the organism, its “being, for another”, may disport itself; it is a matter of indifference to this stream of life what sort of mills it drives.
+It is that which, having no content, looks to the embodied form of the organism to provide its content, and appears there as the process of that form.
+
+In this extreme:
+- it is mere negativity, or pure individual existence.
+- the organism possesses its absolute freedom, whereby it is made quite secure and indifferent towards the fact of its being relative to another and towards the specific character belonging to the moments of the form of the organism. 
+
+This free detachment is at the same time a freedom of the moments themselves; it is the possibility of their appearing and of being apprehended as existent. 
+
+And just as they are therein detached and indifferent in regard to what is outer, so too are they towards one another; for the simplicity of this freedom is being or is their simple substance. 
+
+This notion or pure freedom is one and the same life, no matter how varied and diverse the ways in which the shape assumed by the organism, its “being, for another”, may disport itself; it is a matter of indifference to this stream of life what sort of mills it drives.
 
 In the first place, we must now note that this notion is not to be taken here, as it was formerly when we were considering the inner proper, in its character as the process or development of its moments; we must take it in its form as simple “inner”, which constitutes the purely universal aspect as against the concrete living reality; it is the element in which the existing members of the organic shape find their subsistence. 
 
-For it is this shape we are considering here, and in it the essential nature of life appears as the simple fact of subsistence. In the next place, the existence for another, the specific character of the real embodied form, is taken up into this simple universality, in which its nature lies, a specificity that is likewise of a simple universal non-sensuous kind, and can only be that which finds expression in number. Number is the middle term of the organic form, which links indeterminate life with actual concrete life, simple like the former and determinate like the latter.
+For it is this shape we are considering here.
+
+ and in it the essential nature of life appears as the simple fact of subsistence. In the next place, the existence for another, the specific character of the real embodied form, is taken up into this simple universality, in which its nature lies, a specificity that is likewise of a simple universal non-sensuous kind, and can only be that which finds expression in number. Number is the middle term of the organic form, which links indeterminate life with actual concrete life, simple like the former and determinate like the latter.
 
 That which in the case of the former, the inner, would have the sense of number, the outer would require to express after its manner as multiform reality — kinds of life, colour, and so on, in general as the whole host of differences which are developed as phenomena of life.
 
@@ -146,9 +166,13 @@ The self-conservation of the inorganic element in its relation lies however, as 
 
 It is a simple sense property standing on one side over against the free and detached moment of otherness, which lies dispersed into a plurality of properties indifferent to and apart from one another, and which itself comes under this (cohesion) as does specific gravity. 
 
-The multiplicity of properties together, then, constitutes the other side to cohesion. In its case, however, as in the case of the multiplicity, number is the only characteristic feature. which not merely does not bring out a relation and a transition from one to another of these properties, but consists essentially in having no necessary relation; its nature is rather to make manifest the absence of all conformity to law, for it expresses the determinate character as one that is non-essential. 
+The multiplicity of properties together, then, constitutes the other side to cohesion.
 
-Thus we see that a series of bodies, whose difference is expressed as a numerical difference of their specific weights, by no means runs parallel to a series where the difference is constituted by the other properties, even if, for purposes of simplification, we select merely one or some of them. For, as a matter of fact, it could only be the tout ensemble of the properties which would have to constitute the other parallel aspect here. 
+In its case, however, as in the case of the multiplicity, number is the only characteristic feature which not merely does not bring out a relation and a transition from one to another of these properties, but consists essentially in having no necessary relation; its nature is rather to make manifest the absence of all conformity to law, for it expresses the determinate character as one that is non-essential. 
+
+Thus we see that a series of bodies, whose difference is expressed as a numerical difference of their specific weights, by no means runs parallel to a series where the difference is constituted by the other properties, even if, for purposes of simplification, we select merely one or some of them.
+
+For, as a matter of fact, it could only be the tout ensemble of the properties which would have to constitute the other parallel aspect here. 
 
 To bring this into orderly shape and to make it a connected single whole, observation finds at hand the quantitative determinations of these various properties; on the other hand, however, their differences come to light as qualitative. 
 
