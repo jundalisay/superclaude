@@ -6,6 +6,6 @@ description: "The Sublayers of the Spatial Layer"
 image: /graphics/physics/sponge.jpg
 youtube: "1exx_yijcJo"
 # # date: 2020-10-31
-weight: 6
+weight: 7
 ---
 

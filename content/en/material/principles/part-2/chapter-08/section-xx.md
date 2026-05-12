@@ -5,7 +5,7 @@ heading: Chapter 1
 linkTitle: "Spatial Layer"
 image: "/graphics/physics/spacetime.jpg"
 description: "The spatial layer is the spacetime in Physics"
-weight: 2
+weight: 211
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

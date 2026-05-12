@@ -1,20 +1,25 @@
 ---
-heading: "Section 1"
-title: "Spatial Territories"
-# date: 2024-07-22
-weight: 35
-image: /photos/physics/whitehole.jpg
-description: "Chapter 5 gave 3 qost types. Here, we match them to their gravitational territories"
-icon: Juan
-draft: true
+heading: "Unit 3"
+title: "Densities and Territories"
+# date: 2020-01-31
+image: /photos/physics/bao.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+weight: 14
+icon: "Juan"
 ---
 
 
+Material Superphysics uses densities instead of fields. 
 
-Chapter 5 gave 3 qost types. Here, we match them to their spatial territories or the space around each type:
+{{< youtube cEfWR_jdQd4 >}}
+
+
+
+These densities are bounded into spatial territories as the scope of the identity space of the central body. 
+
 
 <!-- Atom | Nucleaon | Inner Shells | Outer Shells |  
 

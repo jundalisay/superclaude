@@ -1,6 +1,6 @@
 ---
 heading: "Unit 1"
-title: "Virtual Space Particles: Displacement and Cohesion"
+title: "Displacement and Cohesion"
 # date: 2024-07-22
 weight: 4
 image: /photos/physics/whitehole.jpg
@@ -118,8 +118,3 @@ He used the simplistic concept of inertia to explain rotational gravity since he
 Einstein discovered Rotational or Vortex Gravity by adopting Mach's Principle. 
 
 <!-- The innovation of Einstein was to -->
-
-
-
-
-

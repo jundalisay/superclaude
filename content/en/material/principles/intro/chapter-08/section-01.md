@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8"
+heading: "Section 1"
 title: "Cartesian Relationality"
 # date: 2022-01-03 ~~Relativity~~
 image: /graphics/physics/relationality.jpg

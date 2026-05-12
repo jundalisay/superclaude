@@ -22,9 +22,10 @@ Reptilians | Genetically manipulated dinosaurs
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
 Tall Whites | Nordics
 Marbles | 10 feet spheres 12 tentacles roll around
+Wanderers | Helps with the hybridization agenda
 Virgo | Bashar is not allowed to discuss them
 
- 
+
 <!-- The inside out universe  -->
 
 
@@ -104,7 +105,7 @@ This is the combination of the 6 hybrid races:
 4. Shayael 
 5. Yayael or Shalanaya
 6. Enanika (Human + Shalanaya)
-7. Anu Het (conclusion of a cycle begun by the Anunnaki)
+7. Anu Het (conclusion of a cycle begun by the Anunnaki, combination of the 6 races)
 
 
 

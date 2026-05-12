@@ -1,8 +1,8 @@
 ---
-heading: "Section 2"
-title: "Radiant-Radiant Relationality"
+heading: "Unit 1"
+title: "Radiant Relationality"
 date: 2024-12-19
-weight: 43
+weight: 3
 image: /graphics/physics/light.gif
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: "Juan"

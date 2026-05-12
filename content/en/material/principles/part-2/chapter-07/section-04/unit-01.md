@@ -1,18 +1,19 @@
 ---
-heading: "Section 3"
-title: "High and Low Spatial Pressure"
+heading: "Unit 1"
+title: "Flow: High and Low Pressure"
 date: 2024-12-19
-weight: 40
+weight: 4
 image: /photos/physics/blow.jpg
 description: "High and Low Spatial Pressure are vortexless polarities in the Spatial layer"
 icon: "Juan"
-draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
 
 
+
+Flow is the most obvious action of space particles. 
 
 
 The polarities in the Spatial Layer are:
@@ -28,11 +29,5 @@ The chapter on sosts and qosts already explained the concept of clockwise and an
 Here we explain high and low pressure that causes spatial phenomena such as surface tension and gravity.  
 
 
-
-## Coriolis Force
-
-
-
-## Bernoulli effect 
 
 

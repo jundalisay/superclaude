@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 7"
 title: "The Actions of the Spatial Layer"
+linkTitle: Actions
 date: 2025-03-14
 image: /graphics/physics/waveflow.jpg
 description: "The actions of the c Layer are 3"
