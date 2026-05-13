@@ -1,7 +1,6 @@
 ---
+heading: Unit 6
 title: "The Moral Sense"
-heading: Chapter 4d
-# heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
 weight: 19
 image: "/photos/meta/buddhism.jpg"

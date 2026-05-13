@@ -1,6 +1,6 @@
 ---
+heading: Unit 1
 title: "What is Morality?"
-heading: Section 1
 # heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
 weight: 4
@@ -106,22 +106,3 @@ By forcing the mind to think into the future and into other entities, the mind w
 This would force backward humans to get their minds out of the monkey-state where the mind does not think and the heart does not feel. This then will replace the animal morals of mere eating, sleeping, having sex, marking territory, etc.
 
 
-## How is Superphysics Morals Different The Greatest Happiness Principle?
-
-The John Stuart Mill also advocated a principle of happiness similar to Epicurus and Benhtam:
-
-{{< q a="John Stuart Mill" c="Utilitarianism Simplified" >}}
-The Greatest Happiness Principle says that actions which promote happiness are moral, actions which produce the reverse of happiness are immoral.
-{{< /q >}}
-
-The two main differences between Superphysics Morals and such Utilitarian Morals is that the latter is:
-- based on pleasure from shallow sensory perceptions, usually from the material layer 
-- based on such pleasure as a short-term effect or instance of pleasure
-
-Superphysics Morals, on the other hand, is based on the higher pleasures, specifically from the spatial (mental) and aethereal layers (spiritual). It is also 'emergent', meaning that it is based on the spatial layer or space and time which always changes. 
-
-![Science versus Superphysics](/graphics/meta/science.png)
-
-The spatial layer is why Superphysics morals:
-- is not fixed
-- focuses on maximum people and maximum length of time. 

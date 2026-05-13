@@ -1,9 +1,8 @@
 ---
+heading: Unit 3
 title: "Morality as an Effect of the Positive Force"
-heading: Chapter 4b
-# heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
-weight: 17
+weight: 9
 image: "/photos/medieval/anu.jpg"
 description: "Action and Reaction applies not only in the physical domain, but also in the metaphysical"
 writer:
@@ -143,3 +142,4 @@ The formalization of Western science, economics, and medicine in the 19th centur
 Despite having the intellect to warn about global warming and pandemics, science lacks the knowledge of the critical feeling that is needed to actually implement the 'scientific' solutions to them.  
 
 Superphysics focuses on the Positive, while using the Negative force, in order to correct the mistakes of the 19th century by adding metaphysics and feelings to science. In this way, science can be more complete and be more able to conclusively solve problems and create a better Existence for all.
+

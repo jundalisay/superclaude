@@ -1,9 +1,9 @@
 ---
+heading: Unit 2
 title: "How Modern Education Corrupts Knowledge with Shallow Reasoning"
 linkTitle: Bad Education
-heading: Section 1
 # date: 2019-06-29
-weight: 4
+weight: 14
 date: 2013-10-21
 image: "/photos/psych/bore.jpg"
 description: "The Enlightened philosophers wrote against sophistry by the merchants and by fake scientists"

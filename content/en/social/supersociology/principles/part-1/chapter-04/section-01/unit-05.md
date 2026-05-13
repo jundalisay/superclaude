@@ -1,7 +1,6 @@
 ---
+heading: Unit 5
 title: "Virtue and the Impartial Spectator"
-heading: Chapter 4c
-# heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2024-11-17
 weight: 18
 image: "/photos/medieval/spartan.jpg"

@@ -1,8 +1,7 @@
 ---
 heading: "Chapter 5"
-title: "Basic Principles"
-linkTitle: "Basics"
-image: /graphics/socio.jpg
+title: "Social Cycles"
+image: /photos/medieval/spartan.jpg
 weight: 10
 description: ""
 c: "steelblue"

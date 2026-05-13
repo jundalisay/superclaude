@@ -12,6 +12,8 @@ weight: 12
 ---
 
 
+
+
 The lashing of Hurricane Ida, the floods in China, and forest fires in Siberia and Europe has made the impact of global warming obvious to all. Unfortunately, policymakers seem to have no other solution to it other than:
 
 - reducing CO2 emissions through a carbon tax, anti-emission regulations, or green energy 
@@ -56,7 +58,29 @@ But nowadays, because of the mercantile system, society’s interests are made s
  -->
 
 
-## Supereconomics Sustainability Versus Neo-classical Economic Destruction
+## The Solution by Other Alien Races
+
+We can look at how alien races solved their global warming with the examples of the Anunnaki and Sassani.
+
+The Anunnaki's solution was to deflect their sun's heat away by putting atomized gold into their atmosphere. 
+- This is why they had to go to other planets to mine gold
+
+The Sasssani's solution was to not build structure on their planet at all. Instead, they live on their ships. 
+- This allows their planet to have their natural environment and avoid global warming.
+
+This is in line with our solution of bringing back the natural environment that was destroyed by humans. 
+
+Though Western civilization has most of the blame, large empires such as Angkor Wat also destroyed forests to plant large-scale agriculture. 
+
+We correct the destruction caused by civilization by pushing for the Gross National Happiness Index which pushes for environmental protection. 
+- This is part of the implementation of the 1st law of value of supereconomics
+
+{{< youtube 8Sm27gMzLGg >}}
+
+
+
+
+<!-- ## Supereconomics Sustainability Versus Neo-classical Economic Destruction
 
 Supereconomics is the revival of Classical Economics integrated with Modern Data Science.
 
@@ -67,3 +91,4 @@ Neo-classical Economics, on the other hand, was created after the Marginal Revol
 In Classical Economics, a forest has use for its plant-and-animal citizens, and so it will be protected. 
 
 But in Neoclassical Economics, a forest has no obvious use to humans and would be more useful as a parking lot which can be monetized, and so it is bulldozed. 
+ -->

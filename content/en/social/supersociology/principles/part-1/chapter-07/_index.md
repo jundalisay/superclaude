@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 7"
 title: "Social Engineering"
-image: /graphics/socio.jpg
+image: /photos/objects/chess.jpg
 weight: 12
-description: "We list the principles of Supersociology"
+description: ""
 c: "steelblue"
 ---
 

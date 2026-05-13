@@ -1,11 +1,9 @@
 ---
-heading: "Chapter 6"
+heading: "Section 1"
 title: "Social Engineering"
-image: /avatars/socrates.jpg
-weight: 12
+image: /photos/objects/chess.jpg
+weight: 2
 description: ""
 c: "steelblue"
 ---
-
-
 

@@ -1,58 +1,55 @@
 ---
-heading: "Unit 5"
-title: "How to Prevent Logical Fallacies"
-date: 2019-01-02
-weight: 14
-image: "/photos/psych/bore.jpg" 
-description: "An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-09
+title: What's the Difference Between Reasonable vs Unreasonable?
+linkTitle: Reasonable
+heading: "Chapter 4e"
+description: "Being reasonable means to project one's own ego onto the future as to feel the consequences of a proposed action"
+date: 2019-02-20
+weight: 20
+image: /photos/psych/facepalm.jpg
+icon: "Superphysics"
 ---
 
 
+The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable. 
 
-## An Easy Way to Prevent Errors 
+The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge. 
 
-An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes.
+This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
 
-{{< q a="Rene Descartes" >}}
-Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error.
+The problem is that these definitions only account for logic or the connection of ideas, and not the **feeling** that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+
+- A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
+- A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
+
+
+![Iraqi soldiers](/photos/countries/iq/troops.jpg)
+
+Anti-terrorists and anti-dictators would then blame them as unreasonable and thus subject them to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
+
+Thus, when someone says 'be reasonable' it really means:
+
+{{< q >}}
+Please have a desire to project your consicousness onto a mental thought-experiment of the future where the bad consequences of your current improper actions will lead to the suffering of either yourself or others, or both, and then feel that suffering and then decide if that future suffering is worth whatever you imagine to gain from your current improper action.
 {{< /q >}}
 
-For example, if your spouse or partner does not reply to your messages or answer your calls, do not let your mind jump to a false conclusion that he or she is cheating on you. Instead, calm your feelings down and get more information. 
+This requires:
+- the desire of the person to feel about consequences or to even think about it
+- the mental ability and energy to project his mind onto those consequences 
+- the emtional ability to feel the suffering as bad enough to stop the immoral action
+
+For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
+
+However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 
 
 
-## How to Counter Sophistry
+### Critical Feeling Needed
 
-All of these then imply that all sophistries and fallacies are caused by humans having different or uncontrolled feelings.
-- “He advocates children’s programs because he loves children.”
-- “Einstein created hidden variables theory because he felt that God shouldn’t play dice with the world.”
+In these cases, we use the concept of critical feeling to absorb the concepts mentioned:
+- openness to feel consequences
+- mental ability of project one's mind into those consequences
+- emotional ability to feel the suffering or joy of those consequences 
 
-Since all sophistries arise from the natural variation in feelings among all humans, does this mean that more and more arguments, and subsequently more and more chaos will arise as time passes? 
+All of these require more metaphysical energy than usual and is why these are not usually done.
 
-If people feel the desire for chaos, then it will. 
+Our system is a system of discreet morality-checking that will facilitate the critical feeling between people and groups.    
 
-An example of growing chaos is the Seven Years’ War leading to the Napoleonic wars, which led to World War 1 and then World War 2, each with more deaths than the war that came before.
-
-But if people feel the need for peace and order, then they can create a solution to sophistry, perpetual arguments, and chaos.
-
-Socrates' solution is called **dialectics** — a system of logic that has a goal that everyone agrees to. With dialectics, the parties don’t push their own egos and argue endlessly. 
-
-In the non-dialectic system of debate, people just push their own egos without coming to any synthesis of ideas. But with dialectics, they agree to surrender their egos from the very beginning in order to eventually synhesize their minds and come up with a real solution.
-
-{{< img src="/graphics/logic/dialectics.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
-
-
-So if you’re arguing with someone endlessly without any compromise, it simply means that his ego only feels for himself and his own ideas and has no desire to reduce itself. Normally, this is solved by disconnecting from that person in order to avoid his toxic ego. 
-
-But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore, it would make sense for stability-loving people to advocate dialectics as early as possible. 
-
-Socrates suggests it be taught to people 30 years old and above:
-
-{{< q a="Socrates" c="Republic Book 7" >}}
-Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 
-{{< /q >}}

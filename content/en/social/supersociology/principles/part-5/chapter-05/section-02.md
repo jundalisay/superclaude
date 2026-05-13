@@ -1,6 +1,6 @@
 ---
-heading: Section 1
-title: "The Fourth Branch of Government"
+heading: Section 2
+title: "Logistics"
 date: 2017-04-26
 weight: 4
 image: "/photos/objects/gavel.jpg"

@@ -1,7 +1,7 @@
 ---
-title: "What is Social Topographic Behavior?"
-linkTitle: Social Topographic Behavior
-heading: "Chapter 6"
+heading: "Unit 2"
+title: "Social Topographic Behavior"
+# linkTitle: Social Topographic Behavior
 date: 2021-08-21
 weight: 44
 image: "/photos/objects/egypt.jpg"
@@ -9,8 +9,9 @@ description: "The general behavior of a people that arises from the topography o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
+
 
 
 ## The Influence of Nature

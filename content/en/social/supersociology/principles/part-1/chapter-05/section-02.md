@@ -2,7 +2,7 @@
 heading: Section 2
 title: "The Combination of Classes"
 date: 2021-07-21
-weight: 26
+weight: 6
 image: "/photos/social/protests.jpg"
 description: "There are 3 combintions of social cycles"
 writer:
