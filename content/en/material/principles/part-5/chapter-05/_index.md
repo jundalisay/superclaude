@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 5"
-title: "Quantum of Matter: Quarks"
+# title: "Quantum of Matter: Quarks"
+title: Quanta
 # date: 2023-10-14
 image: /graphics/physics/quark.jpg
 description: "Quarks are the quantum of matter"

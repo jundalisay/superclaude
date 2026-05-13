@@ -57,3 +57,10 @@ It is a state of being that is pure unto itself. It allows a compassionate relat
 ## Relationships
 
 You must be complete to attract the proper relationship.
+
+
+Green is the color of the heart chakra and is used in the contact crystal, with the saying: 
+
+{{< q a="Bashar" >}}
+Though minds may be different, though bodies may be different,  it is through the heart that we recognize that our spirits are one
+{{< /q >}}

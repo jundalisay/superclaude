@@ -1,13 +1,13 @@
 ---
-heading: "Section 3"
-title: "Solidity"
-date: 2025-03-14
-image: /photos/physics/mars.jpg
+heading: "Section 1"
+title: "Levitation"
+date: 2026-05-11
+image: "/photos/physics/warp.jpg"
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 62
+weight: 4
 icon: "Juan"
 toc: false
 ---

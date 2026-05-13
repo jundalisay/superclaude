@@ -3,7 +3,7 @@ heading: Chapter 5
 # title: "The Quantum of Conversion"
 title: Quantum
 description: ""
-image: "/photos/physics/lab.jpg"
+image: "/photos/objects/neutrino.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

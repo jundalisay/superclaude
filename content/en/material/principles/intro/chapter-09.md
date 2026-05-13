@@ -1,186 +1,158 @@
 ---
 heading: "Chapter 9"
-title: "Reorganizing the Subsciences according to the MSQ Model "
-# date: 2023-11-26
-image: "/graphics/physics/sciences.jpg"
-description: "We notate MSQ differently"
+title: "Technologies"
+# date: 2020-01-27
+image: /photos/physics/warp.jpg
+description: "Material Superphysics will lead to so many new applications and technologies"
+weight: 33
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 31
 icon: "Juan"
+toc: false
 ---
 
 
-The ignorance of Physics on the nature of the universe leads to the Standard Model of Physics which is very flawed, unable to account for gravity, dark matter, and dark energy. 
 
-{{< i s="/graphics/physics/sciences.jpg" a="" c="The physical sciences are organized in a messy way" >}}
+Material Superphysics perfects science by completing the 5 Elements, as Earth, Water, Fire, Air, and Aether, that make up reality. 
 
+- Newton systematized the Earth Element (Matter) as Classical Mechanics based on mass or the amount of matter in a body
+- Maxwell systematized the Fire Element (Electromagnetism) as Maxwell's equations that lead to electricity and magnetism
+- Feynman systematized the Water Element (Weak Force) through his diagrams and spin
+- Lorentz-Poincare systematized the Air Element (Spacetime) with Poincare's Law of Relativity and Lorentz' length contraction 
+- Descartes-Spinoza systematized the Aether with their Substance, via aethereal animal spirits
 
-Material Superphysics solves this through the 5 Layers Model derived from the ancient Greeks, Hindus, and Taoists. 
+This aethereal Substance then connects to the Asian sciences:
 
-{{< i s="/graphics/physics/mechanics.jpg" a="" c="Material Superphysics reorganizes the major physical subsciences" >}}
+- Taoism's animal spirits are called chi and are fundamental to chi gong and Traditional Chinese medicine
+- Hinduism's animal spirits are called prana and are fundamental in Ayurveda and yoga, as well as levitating monks and clairvoyance (i.e. bringing the mind to a future spacetime) 
 
-
-Name | Physics Counterpart | Layer | Description 
---- | --- | --- | ---
-Abstract mechanics | Theoretical Physics | Aether | This replaces theoretical physics which is stuck with imaginary mathematics
-Quantum mechanics | same | Aether | This puts quantum mechanics under aether principles to remove its 'spookiness'
-Radiant mechanics | Optics, Mechanical Engineering | This focuses on the radiant (entropic) media of light and heat
-Electron mechanics | Electrical Engineering | This focuses on electrons and its effects as electricity and magnetism
-Neutrino mechanics | Particle Physics | This focuses on neutrinos as supplemental information about the universe
-Reactive mechanics | Chemistry, Nuclear Physics | This focuses on chemical and particle reactions 
-Particle mechanics | Nuclear Physics | This focuses on proton and quark dynamics
-Material mechanics | Material Sciences | This focuses on lattice structures of molecules
-
-<!-- ### Organizes the Subsciences
-
-The MSQ model organizes the scopes of each sub science such as optics, astrophysics, chemistry, particle physics, theoretical physics, etc.  -->
+Below are the proposed technologies to be developed, arrnaged by Element or Layer:
 
 
-<!-- ### Differences Between MSQ and Standard Model Particles 
+## Earth Element / Material Layer 
 
-The MSQ model also exposes some differences between Particle Physics and Particle Superphysics regarding neutrons and neutrinos.
-- Physics classifies neutrinos under Electromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neutrons have quarks.
-- Superphysics, on the contrary, classifies both under the Convertible Layer or Weak Force. This is because they facilitate change or the conversion of matter just like the W and Z Bosons.
- -->
+### Anti-Matter Power
 
+This can be achieved by creating a new element that is readily unstable upon the addition of a single proton or neutron.
 
-This also leads to the arrangement of topics in Material Superhysics
+This requires a mastery of the aetherspace of an atom. 
 
+This is inspired by the anti-matter reactor of the Bob Lazar UFO which was said to use Element 115. 
 
+{{< img src="/graphics/physics/drone.jpg" alt="UFO Design" >}}
 
-## Aether 
+In the beginning, we hypothesized that such an Element could be created in a nuclear fusion reactor through brute force, similar to how centrifuges distill Uranium 238 into 235. 
 
-- Media
-  - Existence
-  - Identity
-  - Perception
-- Substance
-  - Multiverse
-  - Universe
-  - Reality
-- Quantum (Gravitational Signature)
-  - Subtlifying
-  - Transformative
-  - Crudifying 
-- Conservation + Constants (Relationality)
-  - Spin 
-- Relationality + Equations with constants
+However, upon learning of the properties of the aetherspace, we realized it needed far more sophisticated control of the lower aether.
+
+In other words, this is more difficult than nuclear fusion.
 
 
-## Spatial
+### Precision Fabrication / Metallurgy
 
-- Media
-  - Timespam
-    - Time Operator
-    - Time Dilation
-  - Aetherspace 
-    - dark energy
-  - Spacespan
-    - macro d intergalactic
-    - displacement dark matter
-    - micro d material
-    - macro c intragalactic
-    - cohesion dark matter, orbits
-    - micro c Van der Waals Force, Surface Tension, Dzhanibekov Effect
-- Substance 
-  - Multiverse 
-    - alternate realities
-  - Universe
-    - sponge
-  - Reality
-    - collapse
-    - entanglement? 
-- Quantum (Gravitational Signature)
-  - Universal
-  - Galactic
-  - Stellar 
-- Conservation + Constants (Relationality)
-  - Spin 
-- Relationality + Equations with constants
-  - Newton 
-  - Relativity
+Current fabrication techniques require abrasives, drills, and contact cutters that damage the parts and create imperfections. Even cutting by liquids might not create perfect parts.
+
+Our idea is to use spacetime particles for fabrication since they, by nature, travel in straight lines.   
+
+{{< img src="/graphics/physics/droplet.jpg" alt="Crystal Computers" >}}
+
+
+## Water Element / Convertible Layer
+
+### Nuclear Fusion
+
+Currently, prototype fusion reactors use magnetic confinement which uses more electricity than the reactor generates. Our idea is to use anti-gravity to levitate and confine the plasma.   
+
+{{< img src="/graphics/physics/reactor.jpg" alt="Descartes' Fusion Reactor" >}}
+
+
+### Nuclear Negation
+
+There have been experiments on using sound to extinguish fires. Our idea is that they can be used to extinguish nuclear chain reactions in reactors that have had meltdown. 
+
+The first step to this is to prove that a nuclear explosion, or even a nuclear reactor produces a specific sound.
+
+
+## Fire Element / Radiant Layer (Electromagnetic)
+
+### Crystal Computers
+
+While modern science seems to be going for quantum computers, our idea is to go for crystal computers based on Descartes' *Dioptrique*. 
+
+Light travels faster than electrons. Crystals allow light and so this can solve the problem with Moore's Law which is estimated to end by 2036.
+
+Light-based computers use less energy and produce less heat than electron-based computers. 
+
+The mechanism to control light is the aetherspce just as it is used to control gravity. 
+
+Physics is ignorant on the aetherspace since Einstein killed the aether and so many technologies are out of reach of Physics.
+
+{{< img src="/graphics/physics/solareye.jpg" alt="Crystal Computers" >}}
 
 
 
-## Radiant
+## Air Element / Spatial Layer
 
-- Media
-  - Light
-  - Heat
-    - rediation
-    - convection
-    - conduction
-  - Virtual Photon
-    - magnetism channel
-    - electromagnetism flow channel
-    - superconductors vibrating channel
-- Substance
-  - Spectrum colors
-  - Fire 
-    - fire piston?
-  - Electricity
-    - ac dc phase
-- Quantum (Gravitational Signature)
-  - Electron
-  - Muon 
-  - Tau
-- Conservation + Constants (Relationality)
-  - Spin
-- Relationality + Equations with constants
-  - Maxwell
-  - Ampere
-  - Ohm
+### Spacetime Power
+
+This will bring back Nikola Tesla's idea to harness energy from space. 
+
+We add to this by clearing up the mechanism as the invisible spacetime particles which zip through reality. 
+
+{{< q a="Nikola Tesla" >}}
+Throughout space there is kinetic energy.. Crookes came the nearest to harnessing the kinetic energy in space. 
+{{< /q >}}
 
 
+### Prelevitation
 
-## Convertible
+The imposition of the aether onto the timespace of the object can help its reaction to the spacetime particles emitted by the Earth. This will reduce its weight.
 
-- Media
-  - Weak Force
-  - Intramolecular
-  - Intermolecular
-- Substance
-  - ANITA
-  - Neutron
-  - Reality
-- Quantum (Gravitational Signature)
-  - Electron Neutrinos
-  - Muon Neutrinos
-  - Tau Neutrinos
-- Conservation + Constants (Relationality)
-  - Chirality
-- Relationality + Equations with constants
+We call this passive prelevitation. 
+
+This can be useful for the construction industry and was used by ancient Egyptians for that purpose. 
+
+Active prelevitation will be done by organic bodies, and is the topic for Bio Superphysics. 
 
 
-## Material
+### Levitation
 
-- Media
-  - Gas
-  - Liquid
-    - Navier Stokes
-    - Buoyant Pressure
-  - Solid
-    - Normal Contact Force
-    - Friction
-    - Tension
-- Substance
-  - Atomic Space (Mesons)
-  - Gluon
-  - Lattice 
-- Quantum (Gravitational Signature)
-  - 1st Quarks
-  - 2nd Quarks
-  - 3rd Quarks
-- Conservation + Constants (Relationality)
-  - Anti Matter
-- Relationality + Equations with constants
+In order to shallowly levitate, prelevitation can be increased. 
+
+{{< img src="/graphics/physics/francis.jpg" alt="Floating Monk" >}}
+
+However, in order to seriously levitate at great speeds, the object must be enclosed in an aetherspace so that it will be isolated from the external spacetime. In other words, the object gains the quantum properties of a  proton when inside its own aetherspace.
+
+Evidence of this being possible is from the Bob Lazar UFO of the Grays which had a heart-shaped aetherspace which he calls Gravity-A Wave which is phase-shifted to normal spacetime or Gravity-B Wave. This phase-shifting is done through active levitation through the 3 gravity-wave emitters at the bottom of the ship.
+
+A more advanced version is passive levitation inside an aetherspace. This is reportedly done by the Sassani civilization which is more advanced than the Grays. 
 
 
- | | intermolecular bonds | hellfire atherspace
-gauge theory | time dilation | |  | 
-. | buga sphere | | | 
-. | superluminal | | | 
-. | | photoelectric | | 
+### Teleportation
+
+Teleportation is already done by quantum mechanics on particles. Our idea is to use the aetherspace to make objects assume proton qualities, allowing them to be teleported across vast distances. This is already done by the Sassani. 
+
+
+### Galactic Lighthouses
+
+Teleportation to other stars will require a pre-set navigation system. For this, our idea is a network of crystal computers called "Stellar Eyes" that act as beacons for teleporting spaceships.  
+
+{{< img src="/graphics/physics/l2.jpg" alt="Stellar Eyes" >}}
+
+
+
+## Aethereal Element / Layer
+
+### Autonomous Natural Intelligence (ANI)
+
+Unlike current artificial intelligence which uses large amounds of data and processing power, ANI will use two things:
+
+1. Timespace of the producers of the data
+2. Cartesian Relativity 
+
+In theory, this will produce machine learning models that will allow near-sentience. 
+
+
+Future chapters will explain the methodology, project plan, or proposed sprints for each one.  
 

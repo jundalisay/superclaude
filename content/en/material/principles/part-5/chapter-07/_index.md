@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: "The Actions of the Material Layer"
+title: "Actions"
 date: 2025-03-14
 image: /photos/physics/punch.jpg
 description: "The actions of the Material Layer are "

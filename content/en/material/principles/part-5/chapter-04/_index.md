@@ -1,9 +1,8 @@
 ---
 heading: Chaoter 4
-title: "Substances of the Material Layer"
-linkTitle: Substance
+# title: "Substances of the Material Layer"
+title: Substances
 description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
-# youtube: "0jVMiF4nKoA"
 image: "/photos/objects/fractal.jpg"
 writer:
   name: Juan

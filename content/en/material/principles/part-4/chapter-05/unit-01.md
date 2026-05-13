@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "The Quantum of Conversion: Neutrinos"
 linkTitle: Quantum
 date: 2024-10-07
-image: /graphics/physics/neutrinos.jpg
+image: "/photos/objects/neutrino.jpg"
 description: "Quantum of Conversion: Neutrinos"
 writer:
   name: Juan

@@ -1,14 +1,12 @@
 ---
 heading: "Section 3"
-title: "Solidity"
-date: 2025-03-14
-image: /photos/physics/mars.jpg
+title: "Stellar Vortices"
+# date: 2023-11-10
+weight: 8
+image: /photos/physics/star.jpg
 description: ""
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 62
-icon: "Juan"
-toc: false
 ---
-

@@ -1,5 +1,5 @@
 ---
-heading: "Section 8"
+heading: "Chapter 8"
 title: "Relationalities"
 date: 2024-12-19
 weight: 42

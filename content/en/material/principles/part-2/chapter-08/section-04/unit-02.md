@@ -1,37 +1,53 @@
 ---
+heading: "Unit 2 Cohesion"
 title: "Planetary orbits"
-heading: Chapter 1
 # date: 2020-01-31
 linkTitle: "Spatial Layer"
-image: "/graphics/physics/spacetime.jpg"
+image: "/photos/physics/tension.jpg"
 description: "The spatial layer is the spacetime in Physics"
-weight: 211
+weight: 4
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
 
-In Principia Philosophia Part 4 Article 202, Descartes denounces the belief of Democritus that gravity comes from matter, a belief later adopted by Newton. 
+<!-- In Principia Philosophia Part 4 Article 202, Descartes denounces the belief of Democritus that gravity comes from matter, a belief later adopted by Newton. 
 
-Instead, Descartes attributes gravity to the relation or relativity between bodies, facilitated by a virtual substance called the 2nd Element, now called spacetime.
+Instead, Descartes attributes  -->
 
-Descartes describes them as globules that are very flexible and mobile, giving them liquid properties.
+ <!-- a virtual substance called the 2nd Element, . -->
 
-Instead of globules, we assign to them a teardrop shape. These facilitate space phenomena from gravity to dark energy.
+Gravity is caused by the relation or relativity between bodies, facilitated by space particles, now called spacetime.
 
-For example, all planets revolve around the sun anticlockwise because the sun rotates anticlockwise. 
+As cohesion gravity, it manifets most commonly as planetary orbits. 
 
-Likewise, most planets rotate anticlockwise because there are more space particles outside of an orbital field than within.
+You could say that the planets and oort cloud are sticking to the sun's gravitational territory just as water sticks to a leaf a surface tension. 
 
-An exception is Venus which was hit by another body, causing it to flip. This made its rotation seem to go clockwise just as a clock seems to run in reverse when you view it from behind. 
+![Surface Tension](/photos/physics/tension.jpg)
 
-This makes its rotation go against the natural motion of the solar system, causing it to lose speed. This is why 1 Venus rotation takes 243 Earth-rotations. 
+
+<!-- Descartes describes them as globules that are very flexible and mobile, giving them liquid properties.
+
+Instead of globules, we assign to them a teardrop shape. These facilitate space phenomena from gravity to dark energy. -->
+
+This sticking is caused by the rotation of the sun which has an anticlockwise direction by default, which we call the Positive Direction. 
+
+This causes all planets to revolve around the sun anticlockwise along with the sun, since they swim in the gravitational territory of the sun. 
+
+<!-- Likewise, most planets rotate anticlockwise because there are more space particles outside of an orbital field than within. -->
+
+
+## Why Venus is Different
+
+An exception is Venus which was hit by another body, causing it to flip.
+- This made its rotation seem to go clockwise just as a clock seems to run in reverse when you view it from behind. 
+- This makes its rotation go against the natural motion of the solar system, causing it to lose speed. This is why 1 Venus rotation takes 243 Earth-rotations. 
 
 This matches the findings of the Venus Express satellite which showed that Venus was rotating 6.5 minutes slower in 2012 than in 1996.
+
 
 So we can safely throw away Relativity, dark matter, dark energy, Lambda CDM, and MOND because Cartesian Physics already explains how space phenomena, from torsion balances to microlensing and the expanding universe, are explained by a single principle.
 

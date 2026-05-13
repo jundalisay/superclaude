@@ -1,8 +1,7 @@
 ---
 heading: Chapter 8
-title: "Material Relationalities"
-linkTitle: Relationalities
-description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
+title: "Relationalities"
+description: ""
 # youtube: "0jVMiF4nKoA"
 image: "/photos/physics/push.jpg"
 writer:

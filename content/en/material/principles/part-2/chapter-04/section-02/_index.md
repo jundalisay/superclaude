@@ -1,13 +1,12 @@
 ---
 heading: "Section 2"
-title: "Identity"
-date: 2025-03-14
-image: /photos/physics/earth.jpg
+title: "Spatial Vortices"
+# date: 2023-11-10
+weight: 5
+image: /photos/physics/quasar.jpg
 description: ""
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 62
-icon: "Juan"
 ---
-

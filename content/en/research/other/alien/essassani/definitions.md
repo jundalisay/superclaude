@@ -44,6 +44,7 @@ Thing | Meaning or Representation
 Horse | the new way
 Dragon | 
 Dog | service
+green | color of heart chakra
 9 | border (to the Sassani, the speed of light reduces to nine)
 13 | change or transformation (to the Sassani)
 salt | neutralizer

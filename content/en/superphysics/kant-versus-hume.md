@@ -20,7 +20,7 @@ Hume was very much against shallow, unenlightened philosophers who wrote a lot o
 
 Kant is one such philosopher.
 
-Hume already said that there was no such thing as apriori knowledge, but Kant refuted this by saying some were apriori. In reality, Kant was referring to belief and not knowledge.
+Hume already said that there was no such thing as apriori knowledge, but Kant refuted this by saying some were apriori. In reality, Kant was referring to **belief** and not knowledge.
 
 
 ## Major Difference 1: Apriori-Belief Versus Knowledge
@@ -36,7 +36,7 @@ Holding for true, or the subjective validity of a judgement in relation to convi
 {{< /q >}}
 
 
-But apriori or innate beliefs creates a problem because Person 1's innate beliefs might be opposite the innate beliefs of Person 2. 
+But apriori or **innate beliefs** creates a problem because Person 1's innate beliefs might be opposite the innate beliefs of Person 2. 
 
 The proper and traditional solution is **dialectics** which takes into account the feelings and viewpoints of all parties, since all parties are a cognition-unit of everything in existence. 
 
@@ -44,7 +44,8 @@ Examples of dialectics are:
 - The prosecution and defense questioning each others' witnesses, with the judge overseeing
 - An academic submitting a paper for peer review wherein the peers debate with each other on whether to publish the paper or not
 
-But since Kant is shallow, he creates a concept of synthetical judgment and cites the mathematical way of how all the beliefs of mathematicians agree. 
+But since Kant is shallow, he creates a concept of *synthetical judgment* (Active-Connective-Thinking).
+- He then cites the mathematical way of how all of the beliefs of mathematicians agree. 
 
 The problem with synthetical judgements is that math deals with non-feeling, non-thinking objects.
 
@@ -52,7 +53,7 @@ The problem with synthetical judgements is that math deals with non-feeling, non
 - Everyone can agree to call 10 raised to 100 as a googol because a googol has no choice but to accept it.
 
 
-I can make a synthetic judgment that “Donald is an idiot” and under Kant’s system I would see him as an idiot forever. 
+I can make a synthetic judgment that “Donald is an idiot” and under Kant’s system I would see him as an idiot forever.
 
 But under Socrates' dialectics, Donald can argue with me and prove that he is not an idiot, which would then correct my belief and harmonize our ideas and feelings. 
 
@@ -89,7 +90,8 @@ Hitler thought of himself as pure and righteous too and used his pure and practi
 
 The shallowness of Kant leads to his moral system being based on the categorical imperative or the golden rule: Do unto others as what others would do for you. Doing this would be rational or reasonable. 
 
-In contrast, Hume believed that morality is not based on reason. To him reason is just the effect, and feelings are the real cause.
+In contrast, Hume believed that morality is not based on reason. To him reason is just the effect, and **feelings** are the real cause.
+- Adam Smith then built on this in this Theory of Moral ~~Feelings~~ Sentiments
 
 The flaw in Kant's categorical imperative is that if a person has low morals from the start, then he can spread low morals to all*. 
 
@@ -99,13 +101,14 @@ Kant failed to dig deeper into his own reasoning and did not realize that the go
 
 
 
-Adam Smith explained this fully in his Theory of Moral Sentiments, which itself is his addition to the moral system began by Hume. 
+<!-- Adam Smith explained this fully in his Theory of Moral Sentiments, which itself is his addition to the moral system began by Hume.  -->
 
-We add to their reasoning <!--  on to Smith and Hume and go further to --> by saying that this tendency to hurt others is caused by the fact that humans have to get energy by ingesting other living entities. 
+<!-- We add to their reasoning by saying that this tendency to hurt others is caused by the fact that humans have to get energy by ingesting other living entities. 
 
 Plants do not have this tendency as they get energy from the sun which they use to suck in water and minerals.
 
-This is why religions practice fasting. Hindus, Buddhists, and Muslims fast during certain moons — to reduce the immoral effects of the ego.
+This is why religions practice fasting. Hindus, Buddhists, and Muslims fast during certain moons — to reduce the immoral effects of the ego. -->
+
 
 Hume explained that ego is merely a feeling of the self (a collection of perceptions by consciousness). So if you exhaustively chase down Kant’s reasoning, it will still end up into Hume’s maxims.
 
@@ -120,7 +123,10 @@ Thus, a Humist would find ways to relieve such hurt in a better way, eliminating
 
 This prevention of hurt will prevent the cycle of violence. For example, the Germans were hurt by their defeat in World War I so they simply created World War II to relieve themselves of the hurt and humiliation that they carry in their hearts.
 
-Update Feb 2025: Russia's feelings were hurt when Ukraine chose the EU at Euromaidan in 2014. This led to the Ukraine war from 2022. 
+
+{{< d t="Update Feb 2025" >}}
+Russia's feelings were hurt when Ukraine chose the EU at Euromaidan in 2014. This led to the Ukraine war from 2022
+{{< /d >}}
 
 
 World peace is not possible with Kant, but it is possible with Hume and Smith, because the latter's policies are based on pure metaphysics.
