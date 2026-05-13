@@ -145,7 +145,8 @@ When you pay more English money, it is said you are giving a premium.
 When you pay less English money, it is said you are getting a premium.
 - The exchange is against France and in favour of England.
 
-9 But we cannot always judge of the value of the money of different countries by the standard of their respective mints.
+
+<sup>9</sup> But we cannot always judge of the value of the money of different countries by the standard of their respective mints.
 
 In some, it is more degraded from that standard.
 - In others, it is less worn, clipt, and degenerated.

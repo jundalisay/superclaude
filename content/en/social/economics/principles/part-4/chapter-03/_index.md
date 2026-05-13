@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 3"
-title: "Mechanisms for Circulating Capital"
+title: "Manifestation"
+# Mechanisms for Circulating Capital"
 date: 2015-01-17
 weight: 7
 image: /photos/econ/receipt.jpg

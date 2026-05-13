@@ -1,96 +1,132 @@
 ---
 heading: "Section 2"
-title: "Socialism and Democracy"
+title: "Liberalism and Socialism"
 # date: 2022-07-30
-weight: 15
-image: /photos/psych/freedom.jpg
+weight: 5
+image: /photos/social/liberal.jpg
 description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
-draft: true
 ---
 
 
-<!-- ### Liberalism
+The First Law is aligned with the Worker class. 
 
-This began right after the French Revolution.
+This is called the Shudra in Hinduism. In the Republc by Plato, this is called the Democrats.
 
-Socialism.
+These are people who live by manual work or service. These people work to satisfy their own demands.  
 
-   - **Core Ideas**:
-     - **Emphasis on Individual Rights and Equality**: Liberalism is a political and moral philosophy that emphasizes the protection of individual rights, **freedom**, and **equality**. It has evolved over time and has two primary strands: **classical liberalism** and **social liberalism**.
-     - **Classical Liberalism**: Focuses on individual freedom, limited government, and free-market economics. It advocates for minimal government interference, similar to libertarianism, but is more accepting of certain government functions, such as maintaining a social safety net.
-     - **Social Liberalism**: This strand supports a **welfare state**, with more active government involvement in the economy to ensure social justice and reduce inequality. Social liberals argue that the government should play a role in regulating markets, providing public goods (like healthcare and education), and redistributing wealth to ensure fairness.
+In the beginning of a society, more people are manual workers. This is true whether for nations, tribes, organizations, or businesses.
 
-   - **Key Principles**:
-     - **Freedom of speech**
-     - **Equality before the law**
-     - **Social justice**
-     - **Democratic governance**
-
-   - **Modern Liberalism** (especially in the U.S. and Europe) tends to favor a **regulated market economy**, **universal healthcare**, and **progressive taxation**.
-
----
+A startup company, for example, would need a lot of workers to get it up and running quickly amidst the competition from established rivals. 
 
 
- - **Core Ideas**:
-     - **Individual Liberty**: Central to liberalism is the idea of individual freedom, both in terms of personal rights and economic opportunities.
-     - **Market Economy**: Liberals generally support a market-driven economy where private individuals and companies own the means of production, but with some regulation by the state to ensure fair competition and prevent abuses (e.g., anti-trust laws).
-     - **Rule of Law**: Advocates for the protection of individual rights through a system of laws that apply equally to all people.
-     - **Limited Government**: Liberalism supports a government that exists primarily to protect individuals' rights and freedoms, and maintain order, but without excessive interference in personal and economic affairs.
-     - **Social Justice**: While classic liberalism emphasizes individual freedom, modern liberalism (especially in social democracies) also supports policies to ensure social welfare, including healthcare, education, and economic security for citizens.
 
-   - **Economic Characteristics**:
-     - Support for **free markets**, but with **some regulation** to prevent monopolies and ensure fairness.
-     - Emphasis on **property rights** and individual entrepreneurship.
-     - Belief in **social safety nets** (welfare, unemployment benefits, etc.) to protect citizens from economic hardship.
+ <!-- This primary stage of nature’s brute laws is the Shúdra Age because all were .  -->
 
-   - **Examples**:
-     - Classical Liberalism: Advocated by thinkers like John Locke and Adam Smith.
-     - Modern Liberalism: Seen in social democratic systems like those in the Scandinavian countries.
+<!-- The reliance on physical power gradually led a chosen few to lead the rest by physical strength. They were the leaders of the shúdras.
+
+Simultaneously, the family developed. 
+ -->
 
 
-Key Features: Anarchism emerged as a reaction to both the state and capitalism in the wake of the French Revolution. Anarchists rejected centralized authority and sought to create societies based on voluntary cooperation and mutual aid, without government or hierarchical structures.
-Key Figures: Early anarchist thinkers such as Pierre-Joseph Proudhon (who famously declared "Property is theft") critiqued both state power and private property, advocating for federations of communes and direct action.
+
+The dominance of the Worker Class usually leads to the following economic ideologies:
+
+1. Socialism
+2. Liberalism
+3. Anarchism
+
+ <!-- system of economy and the Democratic system of politics.     -->
+
+<!-- This happened most notable in Ancient Greece.  -->
+
+{{< i s="/graphics/econ/liberal.jpg" a="Ideologies" >}}
 
 
-### Anarchism
 
-This also began after the French Revolution. This opposed all forms of hierarchical authority, including the state, capitalism, and other systems that impose power and control over individuals.
+## Liberalism
 
-It:
-- requires voluntary cooperation where individuals and communities organize themselves without the need for government or centralized control.
-- favors:
-  - direct action such as protests, strikes, boycotts
-  - self-management such as worker-run cooperatives, community self-governance).
+Liberalism came as an effect of Mercantilism.
 
-Most anarchists seek:
-- the abolition of capitalism
-- decentralized decision-making, where power is distributed at the local level, and communities have autonomy over their own affairs
-seeing it as an economic system that exploits workers and reinforces inequality. -->
-     
+Foreign trade brought a lot of wealth to Europe, creating a sense of empowerment and desire for freedom. Prior to this, the Church was dominant and imposed modestry, austerity, and frugality.  
+
+The increase in sensory desires led to the fall of the Church through the French Revolution which separated the Church from the State. 
+
+From that time onwards, the austere policy was abandoned in favor of wealth and economic growth.
 
 
-It rejects private property in favor of collective ownership or communal resources.
+{{< i s="/photos/social/liberal.jpg" a="French Revolution" >}}
 
-Advocacy for **self-managed cooperatives** and workers’ control of production.
-- Anti-capitalist and anti-state, seeking to replace both with decentralized and voluntary systems of cooperation.
-- **Free Markets** in some forms of anarchism (e.g., anarcho-capitalism), but usually combined with strong anti-authoritarian principles.
 
-<!--      - **Anarcho-syndicalism**: A branch of anarchism focusing on direct worker control of industries through unions or syndicates.
-     - **Anarcho-communism**: Advocates for a stateless, classless society with common ownership of the means of production.
-     - **Anarcho-capitalism**: A controversial form that blends anarchism with free-market capitalism. -->
----
 
-<!-- ### Summary of Key Differences:
+The main proponents of liberalism are:
 
-| **Ideology**         | **Role of State**             | **Market & Economy**                                  | **View on Property**          | **Goal**                      |
-|----------------------|-------------------------------|-------------------------------------------------------|-------------------------------|-------------------------------|
-| **Liberalism**        | Limited government, rule of law | Free markets with some regulation                     | Private ownership, rights protected | Individual freedom, limited intervention |
-| **Neoliberalism**     | Minimal state intervention     | Market-driven economy, privatization, deregulation    | Private ownership, market-based allocation | Globalization, reduced government role |
-| **Anarchism**         | No state, complete autonomy    | Anti-capitalist, self-managed economy, decentralized   | Collective ownership or abolition of private property | Stateless, egalitarian society |
-| **Socialism**         | State ownership or control of key sectors | Collective or state control of production, wealth redistribution | Public ownership or collective ownership | Economic equality, social welfare |
-| **Communism**         | Abolition of the state, full collective control | Centralized planning, no private property             | Collective ownership, no markets | Classless, stateless society |
-| **Capitalism**        | Minimal government involvement | Free markets, private ownership, competition          | Private ownership, wealth accumulation | Profit-driven economic growth |
-| **Fascism**           | Authoritarian, state-controlled economy | State-directed economy, corporatism                   | Private ownership but subordinated to the state | Nationalism, centralized power | -->
+1. John Locke (1632–1704)
+
+His writings on natural rights, including life, liberty, and property, are central to liberal thought.
+
+He argued that individuals have inalienable rights and that government exists to protect these rights, with its power being derived from the consent of the governed.
+
+Locke's social contract theory greatly influenced liberal democratic thought and the principles of limited government, equality, and individual freedom.
+
+2. Jean-Jacques Rousseau (1712–1778)
+
+He also pushed for a social contract theory, as well as corporate organization. 
+
+
+3. John Stuart Mill (1806-1873) 
+
+He created the concept of Utilitarianism which is really based on material pleasures. 
+
+His moral rule is for everyone to pursue his happiness. The flaw in Mill's philosophy is that **personal happiness is subjective**. If pursued without thinking of others, then it becomes arbitrary. 
+
+For example, it might bring happiness to a rich country to invade a poorer country for oil as the former would think that it would bring happiness and progress to both countries.
+
+Conversely, it might bring happiness to terrorists to attack a rich, extravagant country thinking that it would bring it closer to simplicity and austerity which are foundations for religious happiness. Even Jesus himself said it will be difficult for the rich to enter the Kingdom of God.
+
+{{< i s="/photos/countries/af/taliban.jpg" a="Taliban" c="The Taliban are doing what they feel is moral, just as what the US is doing" >}} 
+
+**Utilitarianism is useful only when one is alone.** 
+
+It, however, creates problems when one comes into society because people have diverse experiences, opinions, and moral standards. 
+
+It's the type of thing that works only in thought experiments but fails in the real world. 
+
+
+
+### Socialism
+
+Socialism started gaining ground in the 19th century through the inequality that went with the rise of wealth of Europe from the Mercantile system.
+
+This led to moral decline.
+
+We can say that Socialism is the natural effect of Liberalism. 
+
+The French economists Henri de Saint-Simon pushed this as an alternative to the unregulated freedom after the French Revolution had destroyed the controlling power of the monarchy and the church.
+
+Socialism advocates for collective or governmental control over the means of production to ensure wealth and resources are distributed more equally. 
+
+It emphasizes:
+- social welfare
+- economic equality
+- workers’ rights
+- state or collective ownership of major industries
+- progressive taxation
+- wealth redistribution to reduce inequality
+
+Examples are The Soviet Union, Cuba, and modern social democracies (e.g., Sweden).
+
+
+
+### Democratic Socialism
+
+Unlike Socialism which has strong central control, democratic socialism combines emphasizes the democratic political system.
+
+It advocates for the **public ownership** of essential industries and services (e.g., healthcare, education) while allowing private ownership in other sectors.
+
+It has High taxation, wealth redistribution, universal public services, and workers' rights protection.
+
+Examples are the Modern Scandinavian countries (e.g., Denmark, Norway), as well as the UK under Labour governments.
+

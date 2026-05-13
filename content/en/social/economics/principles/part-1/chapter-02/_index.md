@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 2"
-title: "Human Needs"
+# title: "Human Needs"
+title: "Core Concepts"
 linkTitle: Needs
 description: The 1st Law manifests as human needs
 image: /photos/psych/eat.jpg

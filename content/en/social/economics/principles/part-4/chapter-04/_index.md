@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 4"
-title: "The Circulation of Value"
+title: "Dynamics"
+# The Circulation of Value"
 date: 2015-01-17
 weight: 9
 image: /photos/econ/banknote.jpg

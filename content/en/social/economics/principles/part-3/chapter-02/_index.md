@@ -1,9 +1,10 @@
 ---
 heading: "Chapter 2"
-title: "Balance via Governance"
+title: "Core Concepts"
+# Balance via Governance"
 date: 2020-01-02
 weight: 8
-image: /photos/meta/read.jpg
+image: /photos/medieval/socrates.jpg
 description: ""
 ---
 

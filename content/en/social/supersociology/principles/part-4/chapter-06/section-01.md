@@ -1,18 +1,16 @@
 ---
 heading: "Chapter 1"
-title: "The Working Class and Worker Cycle"
-date: 2019-12-17
-# date: 2021-06-29
+title: "Scientific Advancement"
+date: 2026-05-11
 weight: 6
-image: "/photos/econ/worker.jpg"
+image: "/photos/physics/entanglement.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 
-The Workers are the most numerous of any population. 
 
-The Worker Cycle is the beginning of a society.
 
+Number and rank of Universities, papers published, number of high degree graduates

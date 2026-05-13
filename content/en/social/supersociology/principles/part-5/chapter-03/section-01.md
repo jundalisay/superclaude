@@ -1,18 +1,14 @@
 ---
 heading: "Section 1"
-title: "The Working Class and Worker Cycle"
+title: "Trade and Business"
 date: 2019-12-17
 # date: 2021-06-29
 weight: 6
-image: "/photos/econ/worker.jpg"
+image: "/photos/econ/barter.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
-
-The Workers are the most numerous of any population. 
-
-The Worker Cycle is the beginning of a society.
 

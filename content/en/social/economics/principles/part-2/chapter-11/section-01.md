@@ -3,7 +3,8 @@ heading: "Section 1"
 title: Feudalism
 date: 2022-01-09
 weight: 3
-image: /photos/medieval/hitler.jpg
+image: /photos/medieval/knight.jpg
+# image: /photos/medieval/hitler.jpg
 description: "The Feudal System arose from the fall of the Roman system which collapsed after the Romans lost their dharma or martial spirit"
 writer:
   name: Juan

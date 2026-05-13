@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 3"
-title: "Regulations"
+title: "Manifestation"
+# Regulations"
 date: 2015-01-17
 weight: 12
 image: "/photos/social/lawmaker.jpg"
