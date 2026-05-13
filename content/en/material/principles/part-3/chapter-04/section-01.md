@@ -1,16 +1,18 @@
 ---
 heading: "Section 1"
-linkTitle: Substance of Radiance
-title: "Substance of Radiance: Spectrum, Electricity, Fire"
+linkTitle: Substance
+title: "Substance of Radiance"
+# Spectrum, Electricity, Fire
 # date: 2024-02-13
-image: /graphics/physics/lightprops.jpg
+image: /photos/objects/sponge.jpg
 description: "The substance of radiance are spectra, electricity, and fir"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 2
 icon: "Juan"
 ---
+
 
 
 The substance of radiance are spectra, electricity, and fire. 

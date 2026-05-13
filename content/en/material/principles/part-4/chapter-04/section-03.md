@@ -1,6 +1,6 @@
 ---
 heading: "Section 3"
-title: "Substance of Conversion 2: Neutrons"
+title: "Neutrons"
 # linkTitle: "Acids and Bases"
 # # date: 2024-03-17
 image: /photos/physics/elec.jpg
@@ -8,7 +8,7 @@ description: "Neutrons facilitate Decay and atomic change"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 11
 icon: "Juan"
 toc: false
 aliases:

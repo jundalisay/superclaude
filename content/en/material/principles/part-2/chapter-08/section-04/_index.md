@@ -1,6 +1,6 @@
 ---
 heading: "Section 4"
-title: "Space Relationalities"
+title: "Spacetime Relationalities"
 date: 2024-12-19
 weight: 42
 image: /photos/medieval/bacon.jpg

@@ -1,11 +1,10 @@
 ---
-heading: "Section 4"
+heading: "Unit 4"
 title: "Piezo Electricity"
 # title: "Electric Potential"
 # date: 2023-11-10
-draft: true
 weight: 14
-image: /covers/maxwell.jpg
+image: /photos/objects/alarm.jpg
 description: "Electricity is the main substance of radiance"
 icon: "Juan"
 writer:
@@ -14,8 +13,3 @@ writer:
 ---
 
 
-Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
-
-
-
-Lightning is caused by ions in the clouds. 

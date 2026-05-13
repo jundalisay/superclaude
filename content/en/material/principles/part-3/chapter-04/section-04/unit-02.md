@@ -1,12 +1,12 @@
 ---
-heading: "Section 3"
+heading: "Unit 2"
 title: "Electric Current"
 # title: "Electric Potential"
 # date: 2023-11-10
 draft: true
-weight: 14
-image: /covers/maxwell.jpg
-description: "Electricity is the main substance of radiance"
+weight: 6
+image: /photos/physics/hall.jpg
+description: ""
 icon: "Juan"
 writer:
   name: Juan
@@ -19,6 +19,8 @@ Maxwell's Treatise on Electricity starts with the description of static electric
 
 
 Lightning is caused by ions in the clouds.  -->
+
+
 
 
 1. DC

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 6"
-title: "The Law of Conservation of Energy"
-linkTitle: Conservation
+# title: "The Law of Conservation of Energy"
+title: Conservation
 date: 2024-12-28
 image: /photos/physics/firepiston.jpg
 description: "Particle spin is the orientation direction of a particle."

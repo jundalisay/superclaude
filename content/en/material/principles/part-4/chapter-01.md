@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 linkTitle: Convertible
-title: "The Convertible Layer of Superphysics"
+title: "Convertible Layer"
 # date: 2020-01-28
 image: "/photos/physics/lab.jpg"
 description: "The Convertible Layer deals with fusion and the conversion of particles into different material types"
@@ -68,3 +68,5 @@ The ability of this layer to facilitate between the static material layer and th
 This is seen in gunpowder (which Taoist science attributed to the water element) and in Element 115 which according to Bob Lazar converts to Element 116 which then converts into antimatter for portable energy.  
 
 <!-- This layer is also the least known by Physics because, like spacetime, it is dynamic and hard to detect.  -->
+
+

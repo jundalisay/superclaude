@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
-linkTitle: Actions
-title: "Actions of the Convertible Layer"
+title: Actions
+# title: "Actions of the Convertible Layer"
 date: 2024-11-17
 image: /photos/psych/face.jpg
 description: ""

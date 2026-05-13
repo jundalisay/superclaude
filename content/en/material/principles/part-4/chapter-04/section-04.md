@@ -1,6 +1,6 @@
 ---
 heading: "Section 4"
-title: "Substance of Conversion 3: Acids and Bases "
+title: "Acids and Bases"
 linkTitle: "Acids and Bases (SOC3)"
 # date: 2024-03-17
 image: /graphics/physics/acids.jpg
@@ -8,9 +8,8 @@ description: "Acids are Female, Bases are Male"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 15
 icon: "Juan"
-toc: false
 aliases:
   /material/principles/part-4/chapter-04c
 ---
@@ -97,3 +96,4 @@ Acids and Bases are extremely important in the physical aspects of Bio Superphys
 
 <!-- hydrogen ion
 m001(1sor -->
+

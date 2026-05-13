@@ -3,8 +3,8 @@ heading: "Unit 1"
 title: "Electricity"
 date: 2023-11-10
 lastmod: 2026-04-04
-weight: 14
-image: /covers/maxwell.jpg
+weight: 4
+image: /photos/physics/electricity.jpg
 description: "Electricity is the main substance of radiance"
 icon: "Juan"
 writer:

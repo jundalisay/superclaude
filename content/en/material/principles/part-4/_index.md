@@ -1,6 +1,7 @@
 ---
 heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
+# title: "The Convertible Layer (Weak Conversion Force)"
+title: Convertible Layer
 linkTitle: Convertible
 description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
 image: "/photos/physics/lab.jpg"

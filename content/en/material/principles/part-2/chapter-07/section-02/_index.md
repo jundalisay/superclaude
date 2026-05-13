@@ -1,6 +1,6 @@
 ---
 heading: "Section 2"
-title: "Separation"
+title: "Separation and Cohesion"
 linkTitle: Separation
 date: 2025-03-14
 image: /photos/physics/sparks.jpg
@@ -12,8 +12,4 @@ weight: 4
 icon: "Juan"
 toc: false
 ---
-
-
-
-## Weathering
 

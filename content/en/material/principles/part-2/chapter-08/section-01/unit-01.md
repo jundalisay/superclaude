@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Spatial Relationality"
 date: 2024-12-19
 weight: 4
-image: /graphics/physics/traf.png
+image: /photos/physics/edge.jpg
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: "Juan"
 writer:

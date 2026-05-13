@@ -1,10 +1,10 @@
 ---
 heading: Section 2
-title: "The Substance of Conversion 1: High Energy Neutrinos"
+title: "High Energy Neutrinos"
 # date: 2024-07-14
 image: /photos/physics/quasar.jpg
 description: "Neutrons are the Substance of Convertibility"
-weight: 16
+weight: 8
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

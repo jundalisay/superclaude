@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "The Actions of Convertion"
+title: "The Actions of Conversion"
 date: 2024-12-28
 image: /graphics/physics/decay.jpg
 description: "The Conservation of the aether leads to the aether content."
@@ -23,9 +23,9 @@ This makes it act as a middleman between radiance and matter.
 
 Sublayer | Action
 --- | ---
-Higher | Change particles 
-Middle | Dynamism
-Lower | Diversity
+Higher | Bonding
+Middle | Conversion (Decay)
+Lower | Affinity flow
 
 
 <!-- Middle | Conversion

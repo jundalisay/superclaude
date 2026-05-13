@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 7"
-title: "Actions of the Aether"
+title: "Actions"
 date: 2024-12-10
 weight: 23
-image: /graphics/physics/fabric.jpg
+image: /graphics/physics/flux.gif
 description: "Aethereal Territory is the equivalent of the quantum fields in Modern Physics"
 icon: Juan
 writer:

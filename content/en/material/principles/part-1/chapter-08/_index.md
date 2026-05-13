@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 8"
-title: "Aether Relationality"
+title: "Relationality"
 date: 2024-12-10
 weight: 23
-image: /graphics/physics/fabric.jpg
-description: "Aethereal Territory is the equivalent of the quantum fields in Modern Physics"
+image: /photos/physics/edge.jpg
+description: ""
 icon: Juan
 writer:
   name: Juan

@@ -3,7 +3,7 @@ heading: "Unit 2"
 title: "Combustion: Fire Barrier and Fire Triangle"
 date: 2026-04-26
 weight: 14
-image: /photos/objects/firepiston.jpg
+image: /graphics/physics/triangle.jpg
 description: ""
 icon: "Juan"
 writer:
@@ -100,3 +100,4 @@ I = u(∑(m<sub>e</sub> • v<sub>e</sub>) - ∑(m<sub>s</sub> • v<sub>s</sub>
 
 
 <!-- In Descartes Physics, the combustion of matter relies on the ejection of space particles rapidly from a body that has molecules that are loose and movable such as wood, leaves, cotton, etc. This is because the presence of a lot of space particles or high volume of space particles prevent heat particles from interacting with matter particles. Matter is ignited when space is removed suddenly such as in friction of wood or striking flint. Therefore, the injection of space particles back into a burning mass will extinguish the fire. This is done by water which has a high density of space particles which gives it liquid properties. We propose a non water way to extinguish fire by using sound to densify space particles. Make an equation wherein fire magnitude of intensity is directly affected by the ejection or imposition of space particles. The speed of the addition or ejection should be there. Also it should explain why wood does not burn until it is struck with friction or its matter is agitated and made to move by externa fire which already has a lot of moving heat particles -->
+

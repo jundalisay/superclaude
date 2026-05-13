@@ -1,7 +1,6 @@
 ---
 heading: Chapter 3
-title: "The Spatial Media"
-linkTitle: Media
+title: "Media"
 description: "The Spatial Layer Media"
 image: "/photos/physics/blow.jpg"
 youtube: "1exx_yijcJo"

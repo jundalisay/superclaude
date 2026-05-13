@@ -1,6 +1,6 @@
 ---
 heading: "Section 8"
-title: "Spatial Relationalities"
+title: "Relationalities"
 date: 2024-12-19
 weight: 42
 image: /photos/medieval/bacon.jpg

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 5"
+heading: "Section 1"
 title: "Quanta of Radiance"
 # title: "Electric Potential"
 # date: 2023-11-10

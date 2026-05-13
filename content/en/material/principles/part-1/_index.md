@@ -1,6 +1,6 @@
 ---
 heading: Part 1
-title: "The Aethereal Layer"
+title: "Aethereal Layer"
 linkTitle: Aethereal
 # subtitle: "We replace Einstein Physics and some aspects of Newtonian Physics"
 description: "The aethereal layer is the highest and most subtle layer of reality"

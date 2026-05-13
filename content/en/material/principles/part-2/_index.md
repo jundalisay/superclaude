@@ -1,6 +1,7 @@
 ---
 heading: Part 2
-title: "The Spatial Layer (Space-Time)"
+title: "Spatial Layer"
+# (Space-Time)
 linkTitle: Spatial
 description: "Space-Time is different from the spacetime of Einstein"
 image: "/photos/physics/blow.jpg"

@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 1"
-title: "The Radiant Layer (Electro-light)"
+title: "Radiant Layer"
+#  (Electro-light)
 linkTitle: Properties
 description: "The Radiant Layer is called electromagnetism in Physics"
 image: "/photos/physics/light.jpg"

@@ -29,7 +29,11 @@ Mental Health
 Environment
 Living Standards
 
-
+aether action are: probability, materialization, forward movement
+spatial action are: separation, expansion, flow
+radiant action are: info, radiance, linear movement
+conversion action are: bonding, conversion, affinity flow
+material action are: identity, solidity, stability
 
 aether media = amed
 aether particles (monad) = apars

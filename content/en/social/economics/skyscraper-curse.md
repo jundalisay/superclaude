@@ -51,20 +51,49 @@ Thus, Calcutta has few tall buildings, while Hongkong has many.
 
 ## Skyscrapers are the manifestation of the engrossment of nominal capital, created by profit maximization
 
-Skyscraper construction needs a lot of nominal capital* as money, which is used to mobilize work to convert ore and rock into real capital, such as steel and concrete. Raising this nominal capital is done by financiers by pooling money from various sources. A mercantile port, turned financial hub, like Hongkong has money flowing through it regularly and has no problem pooling money to build tall structures sustainably.
+Skyscraper construction needs a lot of nominal capital* as money, which is used to mobilize work to convert ore and rock into real capital, such as steel and concrete. Raising this nominal capital is done by financiers by pooling money from various sources. 
 
-{{< n n="*Nominal capital is based on Smith's nominal value (based on currency), which is different from Real Value (based on corn). This concept does not exist in Economics which only measures value nominally. For non-mercantile cities however, this money is easier pooled through big funds like sovereign wealth funds like that of Saudi Arabia or Singapore's GIC (which invests in tall buildings overseas)." >}}
+As a financial hub, Hongkong has a lot of money flowing through it and has no problem pooling money to build tall structures sustainably.
+
+Update May 2026: This was also done by Dubai as it transitioned from oil exporter to financial hub where rich people park their money.
 
 
+<!-- n="*Nominal capital is based on Smith's nominal value (based on currency), which is different from Real Value (based on corn). This concept does not exist in Economics which only measures value nominally. For non-mercantile cities however, this money is easier pooled through big funds like sovereign wealth funds like that of Saudi Arabia or Singapore's GIC (which invests in tall buildings overseas)." -->
+
+
+### The Force of Capital
+
+Adam Smith said that money is dead stock -- you need to spend it for it to get value. 
+
+
+{{< q a="Adam Smith" c="Lectures On Jurisprudence" >}}
+Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
+{{< /q >}}
+
+
+Having a lot of money therefore adds pressure to spend it. We call this the force of capital. 
+
+This force is not confined to money, since we define capital as anything that creates value.
+
+Capital can be a beautiful face, a great voice, tall athletic height, etc. 
+
+People with such capital have a natural pressure to use their advantages. 
+- Some beautiful people go to showbiz only to get burned by gossip and controversy. 
+- Some atheletes join professional sports only to get injuries and are forced to quit
+
+Likewise, rich people are forced to invest their money.
 
 
 ### The Danger of Having too Much Capital
 
-From these, we can say that the engrossment of nominal capital leads to its own destruction through:
+This unnatural volume of money, together with the pressure to spend it, leads to its own destruction through:
 - overtrading
 - a gradual reduction of real capital via recessions
 
-With the increase in money and funds, those-who-live-by-profits see more probability of satisfying their hidden desires. Using Smith's terminology, their minds start to convert their absolute (imaginary) demand into an effectual (real) demand. The most common absolute demand is the desire of the ego, which is always impractical and never makes good business sense, and shows itself during prosperous and profitable times:
+The monied people think of the best ways of spending that will match the volume of money that they have. This leads to vanity projects that appeal to other monied people. 
+
+
+<!-- With the increase in money and funds, those-who-live-by-profits see more probability of satisfying their hidden desires. Using Smith's terminology, their minds start to convert their absolute (imaginary) demand into an effectual (real) demand. The most common absolute demand is the desire of the ego, which is always impractical and never makes good business sense, and shows itself during prosperous and profitable times: -->
 
 {{< q a="Adam Smith" c="Simple Wealth Of Nations Book 4" >}}
 The high rate of profit seems every where to destroy that parsimony natural to the character of the merchant.When profits are high, parsimony seems unsuitable to the affluence of his situation. But the owners of the great mercantile capitals are the leaders and conductors of the industry of every nation.. if the master is dissolute and disorderly, the servant will follow his master’s example..
@@ -80,11 +109,11 @@ But there are two causes of the deterioration of the arts: Wealth and Poverty. W
 {{< /q >}}
 
 
-Thus, high profits opens up the desires of the ego and the imagination, manifesting a 'irrational behaviour', just as a person who has no control over his desires seems crazy to others. This, combined with theuselessness of idle money, pushes those handling those huge funds to spend it immediately:
+Thus, high profits opens up the desires of the ego and the imagination, manifesting a 'irrational behaviour'.
 
-{{< q a="Adam Smith" c="Lectures On Jurisprudence" >}}
-Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
-{{< /q >}}
+<!-- , just as a person who has no control over his desires seems crazy to others. This, combined with theuselessness of idle money, pushes those handling those huge funds to spend it immediately: -->
+
+
 
 
 {{< img src="/photos/objects/egypt.jpg" alt="Egyptian pyramids" cap="The great wealth of Egypt naturally brought them towards irrational behavior that split Egypt into the Upper and Lower Kingdoms, just as the power of the Rome led to the East and Western Roman empire and its eventual decline" >}}
@@ -100,10 +129,13 @@ Because of globalization, this nominal capital was able to flow outside of the U
 
 Skyscraper booms are therefore an indicator of the engrossment of nominal capital into some fund which, when integrated with the profit maximization doctrine of business and economic sciences, must eventually create some kind of bubble or economic crisis. 
 
-Usually, the crash of nominal capital happens first, followed by a crash in real capital. In other words, a recession hits first or the bubble bursts before the skyscraper/s or huge projects are finished, simply because it is quicker to move money around than to convert rock and ore into a tall building. In fact, this graphic by the Economist fits very well with our prediction of a global stagflation hitting before 2020*.
+Usually, the crash of nominal capital happens first, followed by a crash in real capital. 
+
+In other words, a recession hits first or the bubble bursts before the skyscraper/s or huge projects are finished, simply because it is quicker to move money around than to convert rock and ore into a tall building. In fact, this graphic by the Economist fits very well with our prediction of a global stagflation hitting before 2020*.
 
 
-{{< u d="May 2020" u="The stagflation did hit as Covid" >}}
+{{< u d="May 2020" u="The stagflation did hit as the downturn from Covid" >}}
+
 
 By extending the relationship between crisis and skyscrapers, we add into our predictions that this new crisis will hit before the Kingdom Tower will be built in November 2019. As the root cause of all of these is high profits, the inevitability of this crisis can be attributed to the profit maximization doctrine, which although seemingly permanently ingrained in current business and economic sciences, was not present in the political economy of Smith and Hume.
 

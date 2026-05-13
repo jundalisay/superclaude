@@ -1,12 +1,11 @@
 ---
 heading: "Chapter 7"
-title: "Actions of the Radiant Layer"
-linkTitle: Actions
+# title: "Actions of the Radiant Layer"
+title: Actions
 # date: 2024-07-22
 date: 2025-03-14
 weight: 26
-image: /graphics/physics/waveflow.jpg
-# image: /graphics/physics/klm.jpg
+image: /photos/physics/firepiston.jpg
 description: "Radiant Actions"
 icon: Juan
 writer:

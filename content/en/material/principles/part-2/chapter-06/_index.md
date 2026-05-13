@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 6"
-title: "Conservation of Momentum: The 4 Rules of True Motion"
+# title: "Conservation of Momentum: The 4 Rules of True Motion"
+title: "Conservation"
 # date: 2024-07-22
 weight: 16
 image: /graphics/physics/rule1.jpg

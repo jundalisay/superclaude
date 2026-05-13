@@ -3,8 +3,8 @@ heading: "Section 1"
 title: "Actions of the Radiant Layer"
 # date: 2024-07-22
 date: 2025-03-14
-weight: 26
-image: /graphics/physics/waveflow.jpg
+weight: 2
+image: /photos/physics/firepiston.jpg
 # image: /graphics/physics/klm.jpg
 description: "Radiant Actions"
 icon: Juan

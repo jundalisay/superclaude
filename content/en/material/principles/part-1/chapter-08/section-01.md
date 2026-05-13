@@ -1,6 +1,7 @@
 ---
 heading: "Section 1"
-title: "Aethereal Relationality: Motion is Internal"
+title: "Aethereal Relationality"
+# : Motion is Internal"
 # date: 2023-12-10
 weight: 6
 image: /photos/meta/heart.jpg

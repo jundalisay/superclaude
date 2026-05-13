@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "Quanta of Radiance"
-linkTitle: Quanta
+title: "Quanta"
 # date: 2023-11-10
 weight: 15
 image: /photos/physics/elec.jpg

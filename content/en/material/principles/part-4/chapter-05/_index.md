@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
-title: "The Quantum of Conversion"
-linkTitle: Quantum
+# title: "The Quantum of Conversion"
+title: Quantum
 description: ""
 image: "/photos/physics/lab.jpg"
 writer:

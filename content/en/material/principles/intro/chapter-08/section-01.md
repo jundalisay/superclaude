@@ -7,9 +7,10 @@ description: "We replace Einstein's Relativity with Descartes' Relationality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 28
+weight: 2
 icon: "Juan"
 ---
+
 
 
 The spins of particles and vortices create either friction or harmony in the environment. For example, 

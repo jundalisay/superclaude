@@ -19,7 +19,7 @@ All Layers and Sublayers have unique actions that show the division of labor of 
 
 The main action of the Spatial Layer is:
 
-1. Separation
+1. Separation and Force
 2. Expansion and Contraction
 3. Flow
 

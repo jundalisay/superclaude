@@ -1,5 +1,6 @@
 ---
-title: "The Spatial Layer of Material Superphysics"
+# title: "The Spatial Layer of Material Superphysics"
+title: "Spatial Layer"
 heading: Chapter 1
 # date: 2020-01-31
 linkTitle: "Spatial Layer"

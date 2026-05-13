@@ -4,7 +4,7 @@ title: "The Substance of Conversion"
 # date: 2024-07-14
 image: /photos/countries/south.jpg
 description: "Neutrons are the Substance of Convertibility"
-weight: 16
+weight: 4
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
