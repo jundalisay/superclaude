@@ -18,12 +18,12 @@ For millennia, two powerful educational models existed separately:
 
 Here, the children live with and serve their teachers or gurus.
 
-2. The State system of the West
+2. The State system of the West as the university
 
-Here, the teachers are paid for their service. 
+Here, the teachers are paid for their service. This really originated from the Church University. 
 
 
-The Japanese system has a hybrid of both, where the students clean their schools as if it were their own home. 
+The Japanese system has a hybrid of both, where the students clean their schools as if it were their own home and the teacher has a more power and authority. 
 
 
 
@@ -45,7 +45,7 @@ Unlike traditional boarding schools that emphasize obedience, the Socratic Guruk
 
 Children are not told *what* to think; they are trained to tear arguments apart and see what works for them.
 
-Every evening features the *Agni-Prasna* (Fire Questioning), a two-hour seminar where the guru demolishes logical fallacies, emotional pleas, and unearned authority. Lying, cowardice, and intellectual laziness are punished not with detention, but with public refutation.
+Every evening features the *Agni-Prasna* (Fire Questioning), an hour where the guru demolishes logical fallacies, emotional pleas, and unearned authority. Lying, cowardice, and intellectual laziness are punished not with detention, but with public refutation.
 
 The goal is not a compliant worker, but someone who can realize the true nature of things on the fly, since he is armed with a clear mind (via meditation) and a thinking mind (via dialectics). 
 
@@ -64,6 +64,9 @@ To prevent abuse and ensure quality, the state government administers a mandator
 
 Crucially, **gurus are ranked publicly** based on their students' average scores. A guru whose cohort consistently fails logic or acts unethically in simulations loses state funding and is decertified. A guru whose students excel receives higher pay, larger dormitories, and the right to select from the best applicants.
 
+In Chinese movies, this is seen in the students of martial arts schools competing with each other to see which technique or school is best. 
+- There is no central school and so there is a variety and diversity of techniques that constantly improve and evolve.
+
 
 ## The Guardians: A Political Class Destined to Rule
 
@@ -72,9 +75,11 @@ The best of the gurus and their students then form a Guardian School, which has 
 
 ## The Objections: Parenting, Freedom, and Caste
 
-Opponents raise three immediate alarms:
+Opponents raise objections:
 
-1.  **Parental alienation.** Returning only on weekends reduces parents to "recreational guardians"—providers of fun, not formative influence. 
+1.  **Parental alienation.** 
+
+Returning only on weekends reduces parents to "recreational guardians"—providers of fun, not formative influence. 
 
 We reply that the parents can visit their children after school hours. 
 
@@ -83,6 +88,7 @@ We reply that the parents can visit their children after school hours.
 
 Critics fear the Guardians will become a higher caste.
 
-We reply that the Guardians also compete with each other. 
+We reply that the Guardians also compete with each other. Like in martial arts, there might be a superior style. But this will eventually be challenged. 
 
+Even Musashi's superior two-handed sword system was not adopted simply because it was so difficult to master. 
 
