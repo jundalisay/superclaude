@@ -11,7 +11,16 @@ weight: 11
 
 [34]
 
-...Whence also [arise] rarity and the gathering of homogeneous things. **On the contrary, cold**, which constricts, arises from a motion that is indeed strong and straight, but thick; whence, by blunting rather than penetrating, and consequently not dissolving but constricting. Most cold things are hard or otherwise densified and crowded, like marble, metal, and mercury, because their pores are narrow, through which air or wind passes: whence a refrigerating wind is constricted and collected, exactly as in cities narrow alleys are always accustomed to have the most cold. I add one thing for greater clarity: the impressions of hot and cold differ almost as a puncture made on the same spear by a very sharp point differs from a blow struck by a rough wooden handle to pierce. To enter into other innumerable varieties of the qualities of touch is not for this time, since most arise more from the superficial than the central constitution of things; nevertheless, we have touched upon the sources to be explained below in section 59. Let us pass to the **extraordinary or physical motions of bodies**, which do not arise from gravity or mechanical principles, insofar as it appears to the sense.
+...Whence also [arise] rarity and the gathering of homogeneous things. **On the contrary, cold**, which constricts, arises from a motion that is indeed strong and straight, but thick; whence, by blunting rather than penetrating, and consequently not dissolving but constricting. 
+
+Most cold things are hard or otherwise densified and crowded, like marble, metal, and mercury, because their pores are narrow, through which air or wind passes: whence a refrigerating wind is constricted and collected, exactly as in cities narrow alleys are always accustomed to have the most cold. 
+
+I add one thing for greater clarity: the impressions of hot and cold differ almost as a puncture made on the same spear by a very sharp point differs from a blow struck by a rough wooden handle to pierce. 
+
+
+To enter into other innumerable varieties of the qualities of touch is not for this time, since most arise more from the superficial than the central constitution of things; nevertheless, we have touched upon the sources to be explained below in section 59. 
+
+Let us pass to the **extraordinary or physical motions of bodies**, which do not arise from gravity or mechanical principles, insofar as it appears to the sense.
 
 
 <sup>33</sup> These I divide in passing into *sympathetic* and *antipathic***. 
