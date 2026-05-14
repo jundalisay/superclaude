@@ -70,7 +70,7 @@ Let the weight, whether of the glass or the water, which by hypothesis is the sa
 
 
 
-### **Page [26]**
+[26]**
 
 ...let us suppose air to be a thousand times lighter than water.[cite: 1] Now let there be a glass bubble made of glass of equal thickness, a thousand times larger than the previous one, or whose semi-diameter is $1000a$.[cite: 1] Its spherical surface, or the glass container, will be greater than the glass of the measuring bubble in the duplicate ratio of the radius, and consequently will weigh $1,000,000b$.
 
@@ -101,7 +101,7 @@ Therefore, the **GRAVITY** of the aerial cylinder and the **ELATER**, or the for
 
 
 
-### **Page [28]**
+[28]**
 
 
 <sup>27</sup> The same reasoning applies to compressed air** collected as happens in loading pneumatic guns; for that phenomenon cannot be explained by the gravity of the air, but must therefore be explained by *Elatere* [elasticity], or the "appetite" for expanding itself.
@@ -115,7 +115,7 @@ But why is the circulation thus disturbed? Because when air is exhausted, aether
 Hence, wherever you transfer an exhausted or distended vessel, even if you go a thousand leagues away (see below § 48), if you remain only in the same Circle, or at approximately the same distance from the center of the earth, there will persist (indeed, if you move closer to the center, it will be increased) the effort of the aether to restore its circulation to the proper density. Nor does it matter that we feel no constriction of air or aether around an exhausted vessel; for...
 
 
-### **Page [29]**
+[29]**
 
 ...this happens for the same reason that prevents divers from feeling the weight of the sea, and us from feeling the motion of the aether, due to the mutual resistance of parts in a liquid, or the effort supported from both sides, which holds stones together in arched work and generally in spherical things. 
 
@@ -124,7 +124,7 @@ Nor does it seem probable what the most diligent **Boyle** thought: that the par
 **28. This is the reason for Exhalations** being raised upward against natural gravity: The sea, as **Becher** ingeniously thinks, perpetually distills its more bituminous and heavier part through the spongy bottom toward the center of the earth, or into a certain interior receptacle or universal estuary of our globe. There, this sulfurous and bituminous mass having been digested and as if fermented, it emits through the earth vapors—that is, things rarer and therefore lighter than what the state and circulation of that sphere, closer to the center and thus denser, carries: from which [vapors] those that are aqueous, being subtler, light, and empty, go out higher...
 
 
-### **Page [30]**
+[30]**
 
 ...they go out, and are partly resolved into springs, captured by suitable silt as if in an alembic, or they depart through an open exit into the air and constitute meteors[cite: 1].
 
@@ -141,7 +141,7 @@ Since the sun and air, the universal agents and patients, are varied if you add 
 Furthermore, the phenomena of species are either sensible qualities or motions: even if all those qualities are insensible motions[cite: 1]. Sensible qualities are either sight, or hearing, or smell, or taste, or touch[cite: 1]. The qualities of...
 
 
-### **Page [31]**
+[31]**
 
 ...sight are **Light** and **Colors**. **Light** is a very swift rectilinear motion of the aether toward the sense, propagated everywhere around every sensible point[cite: 1]. See above section 7 and below section 6. 
 
@@ -157,7 +157,7 @@ He said that he perceived by touch the very rough surface of white and black, an
 
 
 
-### **Page [32]**
+[32]**
 
 ...to present more convexity, and black more concavity: whence the former reflects light, and the latter hides it; and the surface of black will have less flatness and more of "stings" or prickles. 
 
@@ -175,7 +175,7 @@ Add also that colors in most things arise not from reflection alone, but also fr
 When vessels are exhausted and closed in any way, a bell struck inside can be heard from the outside[cite: 1]. **Sound consists, therefore, in the motion of the aether**, but a moderate motion that goes out in circles, as we see when a stone is cast into water; whereas light consists in a strong and straight motion of a more subtle part[cite: 1].
 
 
-### **Page [33]**
+[33]**
 
 **But odor consists in the air:** For since air is subtle water, it happens that by its flow it dissolves the subtle parts of salts no less than thick water dissolves thick ones[cite: 1]. Just as, therefore, we perceive saltiness in water by taste, so we perceive subtle salts dissolved in the air by smell: so that the nostrils are as it were the place where we "taste" the air[cite: 1]. By "salt," however—lest there be a question about the word in this place (for below "voice" is used in a far different sense)—I mean with Geber whatever is soluble in any liquor[cite: 1].
 

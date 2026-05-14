@@ -34,15 +34,20 @@ For example, if you wish to separate two highly polished tablets in a way other 
 * **Tenacious** (*Tenax*) is that which strongly resists a transfiguring force but does not react against it.
 * **Tense** (*Tensum*) is that which resists a transfiguring force and reacts against it, and even restores itself when dismissed.
 
+The notion of a liquid is easy by itself, since its parts are freely mixed together. Of a hard body: when it is composed like flat, congruent boards at every sensible point or surface, from which a board is not lifted at all from another board, or if it is lifted a little, the whole board is lifted. Similarly, hard things either are not bent perceptibly (although I would believe that a subtle bending exists in most of them), or when bent, they break completely.
 
-[63]
+**Soft** and **tough** differ in degree; therefore, the cause of both is the same.
 
-...**Soft** and **Tenacious** differ in degree, and therefore the cause of both is the same. **Tenacious** is at the same time **Tensible**, or restoring itself, or is only simply **Ductile**, like wax or pitch.
+**Tough (or stretchable)** is either self-restoring or merely simply ductile, like wax or pitch. Simple ductility consists of a perpetual interweaving and insertion into one another, at every sensible point, of little cords, little tubes, little pipes, little boxes, coils, vessels, and other such things, which indeed do not oppose being pulled apart, yet they differ—provided they do not resist due to excessive intertwining. In some things, one can understand this as the cause of hardness, like threads entangled in a mass, a knot having been made, so that soon they are loosened only by breaking.
 
-**Simple Ductility** consists in the perpetual sensible implication and insertion into each other of little cords, tubes, pipes, boxes, coils, vessels, and other things at every point, which do not indeed fight against being drawn apart, but differ in manner...
+But in simply ductile things, no confusion ever follows. When drawn out, ever smaller tubes are inserted into one another—equally in all directions, both concavely and convexly, through countless doublings—until, by excessive drawing and excessive thinning, a break occurs.
+
+Nor should this insertion seem marvelous to anyone, since nearly every subtle growth occurs fiber-wise through these doublings and through internal tube-like absorption rather than through external application to the surface of what is being nourished.
+
+**Tension** adds to the insertion... 
 
 
-**[Page 64]**
+[64]
 
 ...they are introduced, open: once this is done, they will perform the function of infinite pistons (piston-rods), for although the piston in this place is hollow and open, where it is turned toward the vessel exhausting air, it nevertheless suffices for it to be sealed on the part where it opposes the vessel.
 
@@ -52,7 +57,7 @@ When the force of the one drawing apart a tense thing relaxes, it is necessary f
 
 Nothing is clearer, nothing easier, nothing more agreeable to our hypothesis as the cause of this tension propagated through all the insensible pistons continuously inserted into one another—though unequally, according to distance.
 
-And it is credible that in bodies, just as a force diffused circularly from broken bubbles occurs, so a force extended in length, breadth, or depth happens from these tubes or pistons. For every one of them is a tube to the preceding one and a piston to the following one.
+In bodies, just as a force diffused circularly from broken bubbles occurs, so a force extended in length, breadth, or depth happens from these tubes or pistons. For every one of them is a tube to the preceding one and a piston to the following one.
 
 Beyond what the state of the air allows, a circulation of aether follows, either as we have said, by being led out, or even by being pushed in from one side and led out from the other, just as happens in bows which are bent from concavity to convexity or vice versa. There, too, the effort of some fluid within the passages—already compressed on one side and dilated on the other—cannot fail to restore itself. 
 

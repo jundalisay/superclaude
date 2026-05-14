@@ -58,14 +58,14 @@ If these progress to infinity, which is certainly possible since the continuous 
 **44. From this now appears the reconciliation** of a certain Anaxagorean infinite *homoiomery* [homogeneity of parts] with our opinion of the few elements of things[cite: 1]: for even if it were true that putrefaction is an insensible vermination [infestation of worms], and growth an insensible sprouting, and that air is...[cite: 1]
 
 
-### **Page [43]**
+[43]**
 
 ...insensible water, and cold is congealed subtle air, and fire is subtle sulfur, and water is subtle nitre, and that those putrefying animalcules are resolved again into other smaller ones, and so on, as you please, to infinity[cite: 1]; these things, I say, even if they were true—as perhaps they are in part—would nevertheless not suffice for rendering the causes of things, since an example or analogy is offered rather than a cause[cite: 1]. For everywhere the question will remain without end, nor will it be any less hindered, as to why second or subtle nitre fights with subtle sulfur, than why the first or thick [nitre fights] with the thick [sulfur][cite: 1]. We, however, have rendered reasons that would suffice even for those, if they exist, in replications to infinity[cite: 1].
 
 **45. But from the Anaxagoreans** (for so, by their leave, we may call those most learned Micrographers) we must return to our chemists[cite: 1]. And indeed we have spoken of the **cortex**, which to the sense is neither empty nor full of air and aether, but almost indifferent and therefore inert (even if something of forces always lies hidden in it also), earth, and of which water mostly consists[cite: 1]; but the **Nucleus** demonstrates its impregnation by sensible effects[cite: 1]. Where it can easily be settled with those who are content with two principles, as almost all ancient chemists were with **Sulfur and Mercury** (or male and female), or as Tachenius and others call them, **Acid and Alkali**[cite: 1]. For a bubble exhausted of air (and conversely distended by aether) is alkali, the female, and (in the sense of the ancient chemists)...[cite: 1]
 
 
-### **Page [44]**
+[44]**
 
 ...mercury; [whereas] a bubble distended with air (and conversely exhausted of aether) is **acid, sulfur, male**. For that which is full only of aether is empty to the senses: I believe **Glauber**, **Tachenius**, and others would easily agree with me that vacuum is to be ascribed to alkali rather than to acid. Since those things which they themselves call alkalis are mostly transparent, thin, light, fluid, and helpful to vitrification, like nitre, like salt of tartar, like bones; [whereas] acids are opaque, or rather saturated with color, dense, and heavy, like oil of sulfur or vitriol, like wine, like blood. 
 
@@ -75,7 +75,7 @@ But these things nevertheless vary by a certain admirable implication of things 
 
 
 
-### **Page [45]**
+[45]**
 
 ...to be a bit more than just a hypothesis. For first, the most subtle corpuscles cannot be coerced [contained] except by bubbles and vessels. It is necessary, therefore, that there be two highest genera of bodies: the containing and the contained, or the contentful (for I would not deny that some things fly outside of bubbles, even if they themselves perhaps consist of smaller bubbles; see below section 60). [These are] **solids & liquids, bubbles & masses**.
 
@@ -85,7 +85,7 @@ But these things nevertheless vary by a certain admirable implication of things 
 
 
 
-### **Page [46]**
+[46]**
 
 ...are broken, however, they carry with them the force of exerting some extraordinary motion, and of rupture: exactly like vessels exhausted of or distended with air, which, being carried about here and there, whenever they are opened, either discharge aether and absorb air, or discharge air and absorb aether; see above section 27.
 
