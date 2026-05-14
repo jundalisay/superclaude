@@ -92,7 +92,12 @@ It pervades all things within, and is intercepted here and there into bubbles [b
 
 Since comets are transient meteors—that is, transitory bodies or consistent globes (whichever is more true must be judged by recurring to experiments)—their motion can perhaps be explained by the action of the other globes upon them. That tailed light [the comet's tail], turned away from the sun, is illustrated by the example of a glass bowl full of liquid.
 
-**9. Our Earth**, to return to it, although split into heterogeneous parts by rays of light, is nevertheless everywhere penetrated by the most subtle **aether**. That aether receives an action proportioned to itself by the subtlety of the parts of the rays of light. Therefore, since the earth is driven around its own center from west to east by hypothesis, the most subtle aether surrounding the earth moves in a contrary motion—not only of retardation but of resistance—following the Light from east to west, traces of which are even detected in the Ocean.
+<sup>9</sup> Our Earth is split into heterogeneous parts by rays of light. But it is nevertheless everywhere penetrated by the most subtle **aether**. 
 
-**10. And here is that universal motion** in our Earth-water-air globe, from which, rather than from the figures of atoms or the varieties of scrapings and vortices, things must be sought.
+That aether receives an action proportioned to itself by the subtlety of the parts of the rays of light. 
+
+Therefore, since the earth is driven around its own center from west to east by hypothesis, the most subtle aether surrounding the earth moves in a contrary motion—not only of retardation but of resistance—following the Light from east to west, traces of which are even detected in the Ocean.
+
+
+<sup>10</sup> Here is that universal motion** in our Earth-water-air globe, from which, rather than from the figures of atoms or the varieties of scrapings and vortices, things must be sought.
 

@@ -27,5 +27,13 @@ Bring an electromagnetic detector in that area when you pass between large rock 
 
 Sedona
 
-Mt. Sashta
+Mt. Sashta -- Crown Chakra
+
+Hawaii -- Heart Chakra
+
+Mt. Fuji --
+
+
+
+The mountains have an invisible upside-down mountain on top that acts like a vortex. 
 

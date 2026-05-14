@@ -1,6 +1,6 @@
 ---
 heading: Unit 1
-title: "Legal Processes"
+title: "Thinking Institutions"
 date: 2024-11-21
 weight: 12
 image: "/photos/objects/gavel.jpg"
@@ -11,3 +11,10 @@ writer:
 icon: "Social Superphysics"
 draft: true
 ---
+
+
+
+Judiciary
+
+Education
+

@@ -70,3 +70,5 @@ Density | Examples and Notes
 4th | be less limited in physicality 
 5th | non physical -- loses the need for physical acts 
 
+
+
