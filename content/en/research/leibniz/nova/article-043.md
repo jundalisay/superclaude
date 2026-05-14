@@ -1,11 +1,53 @@
 ---
-heading: Articles 43-
-title: "The Creation"
+heading: Articles 36-49
+title: "Antipathic Motion"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
 weight: 17
 ---
+
+
+
+
+
+**36. Antipathic motion** (I speak of sense and appearance, for if you look at the interiors, there is in bodies neither antipathy nor sympathy) is **reaction**, by whose most subtle varieties most things in the nature of things are performed...[cite: 1]
+
+
+[40]
+
+...Only two types of reactions were generally known to the ancients: **deflagration** (to which belongs the battle of fire and water) and **fermentation**.[cite: 1] But our chemists have not only uncovered that very powerful reaction of gold-producing powder, as well as that of sulfur and nitre mentioned before, but have also detected innumerable others, and they acknowledge that reaction is the most powerful instrument of nature.[cite: 1]
+
+**37. From this now arises that "embrace of the white and the red"** (or of the male and female) of the ancient chemists; hence the "fighters" of **Basil Valentine**; hence the chanted three principles of **Isaac Hollandus**, **Brother Basil**, and **Paracelsus**; the *Gas*, *Blas*, and *Archaeus* of **Helmont**; the *Triumviral Humor* of **Sylvius**; the *perfect and imperfect* of **Glauber**; the *Acid and Alkali* of **Tachenius**; and the *acid and salt* of **Travagini**—all of which certainly fall back to the same thing.[cite: 1]
+
+**38. Hence that saying of Basil:**
+
+> *What are two, what are three, are reduced to the same one,*[cite: 1]
+> *Which if you do not grasp, they are all nothing to you.*[cite: 1]
+
+But most of these things are proposed so intricately and ambiguously that it has hardly been possible, or not even hardly, to obtain constant definitions of the terms until now.[cite: 1] The most learned **Robert Boyle** egregiously attacked this variation in his *Sceptical Chymist*.[cite: 1]
+
+**39. Therefore, in truth, there is only the reaction of two things in our globe:** of the **Exhausted and the Distended**, or, to speak with **Democritus**, of the **void and the full**...[cite: 1]
+
+[41]
+
+...full: and this is the unique origin of all fermentation, all deflagration, all explosion, and every battle between fire and water, acid and alkali, sulfur and nitre.[cite: 1]
+
+
+**40. There is no need to seek the cause for long** after our previously established hypotheses.[cite: 1] For in sections 26 and 27, the reason was given as to why compressed air restores itself to liberty with such force; and conversely, why a place exhausted of air reabsorbs it with such impetus.[cite: 1] Since, therefore, **water** is nothing but a collection of innumerable exhausted bubbles, and **fire** is a substance entirely distended, they will be broken by being mixed and by their very fall, motion, or gravity colliding; and with the greatest impetus, one will be discharged and the other will absorb.[cite: 1] The same must be said of all other reactions, varying only in the magnitude, multitude, position, and figure of the bubbles, and the quantity of exhaustion and compression as the case may be.[cite: 1]
+
+**41. For if the bubbles are evanescent**, and (so to speak) aqueous or aerial, as in imperfectly mixed things, no sensible mixture results from the reaction, but all are dispersed.[cite: 1] But if the bubbles are earthy or glassy, a certain new flux is excited by the very heat of the reaction, or a fusion inflated by those insensible "bellows"; and from the fragments of the bursting bubbles, others—but dissimilar ones—are recast, whence arises the **birth of a new species** and a central mutation of things.[cite: 1]
+
+**42. These things are now reconciled without difficulty with the principles of the chemists.** For it is known that they...[cite: 1]
+
+
+
+[42]
+
+...to divide them into **nucleus** and **cortex**.
+
+The nucleus consists of those celebrated "Triumvirs": the cortex of dead earth and phlegm[cite: 1]. The cortex itself is entirely composed of bubbles, as are all sensible bodies, but smaller and more dispersed than those that produce sensible effects[cite: 1]; yet it matures gradually—that is, by certain subtle fusions, whether from the sun or elsewhere—and from many smaller bubbles (which experience teaches also happens in watery things approaching one another) fewer larger ones are made, from which the nucleus arises out of the cortex and is slowly nourished[cite: 1].
+
 
 
 
@@ -49,93 +91,4 @@ But these things nevertheless vary by a certain admirable implication of things 
 
 **49. Each genus of bubbles**, whether **ordinary** and **extraordinary**, or **exhausted** and **distended**, is divided into **thick** and **thin**, or **aqueous** and **earthy** or **glassy**. And although from the observations of the Micrographers some [bubbles] are continuously found smaller than others, the same proportion will always remain: since aqueous bubbles compared to aerial ones are as earthy ones [to something else], and aerial ones have the same proportion to aetherial ones; and nothing prohibits there being another aether—of which it is not even permitted to us to suspect—superior to that aether which we collect by reason and experiments by as much as water is to earth, or air to water. But these things cannot come into our calculation because the Phenomena are not varied by them. From this it now appears that bubbles in general—ordinary, exhausted, distended—are discerned again not only into **weak** and **firm**, but also, if you like, **medium**; and into **large** and **small**, and again, if you like, **medium** (for there is a multiple latitude here between extremes). The varieties of figures and multitude are innumerable, and they contribute nothing to the sum of things.
 
----
 
-### **Page [47]**
-
-**50. From this now that absolute *Quintessence* or *Trinity* of the Paracelsians** is rendered very suspect. For as concerning the inert parts—**phlegm** and **dead earth**—which consist of ordinary bubbles (phlegm of aqueous ones, dead earth of glassy ones), or of extraordinary ones that are too small, or however large yet few, or wrapped in ordinary ones, or flowing together, I shall repeat nothing; perhaps that third **mercurial principle** is now alkali, now volatile acid; add below section 60. So that I might fear we are about to have a **quaternion** [group of four] of useful principles:
-*   **Larger exhausted bubbles**, or **alkali** or **fixed salt**;
-*   **Larger distended bubbles**, or **acid** or **fixed sulfur**;
-*   **Smaller exhausted bubbles**, or **volatile alkali**;
-*   **Smaller distended bubbles**, or **volatile acid**.
-
-Whether there is some **medium** between fixed and volatile—which would make even three, as they call it, of the variety of kingdoms—must be judged by experiments, and not a few, nor just any, but by many great ones compared among themselves.
-
-**51. Nor do I wish to prostitute myself in this place** with a preposterous divination; for how much variety can there be again in the constipation of exhaustion and in its degrees? And here certainly, for one about to build a Hypothesis, unless he affects to be considered rash, he must stop; for a more special application depends upon experience. I have always believed, however, that the admirable wisdom of the Founder so established things that many things are generated from a few.
-
-
-
-### **Page [48]**
-
-...[are generated]. Whence, if one were to dream [speculate], I would say that of these two instruments of nature, the distended and the exhausted, there are three times three variations in total: each being minimally, moderately, or maximally exhausted or distended; and of these, each is again subtle, medium, or thick. Let this be the Schema:
-
-#### THE BUBBLE
-
-Page [49]: The Schema of the Bubble**
-
-The page contains a complex branching diagram (bracketed taxonomy) that classifies all matter based on the physical state of these microscopic "bubbles."
-
-#### **Upper Classification (Brackets)**
-*   **Weak or aqueous:** Variation of the container in thickness.
-*   **Firm, or earthy, or glassy:** Variation of the container in thickness.
-*   **Small, light, subtle:** Variation of the container in magnitude.
-*   **Thick, large, heavy:** Variation of the container in magnitude.
-*   **Ordinary:** Variation of the content in fullness and emptiness is null.
-*   **Extraordinary:** Variation of the content in greater or lesser fullness and emptiness.
-*   **Exhausted / Distended:** Minimally, moderately, or maximally.
-
-#### **Lower Definitions (Matched Pairs)**
-*   **Weak is — imperfectly mixed** } *Differ in passive quality*.
-*   **Firm is — perfectly mixed** } *Differ in passive quality*.
-*   **Subtle — of the animal kingdom** } *Differ in quantity or mass*.
-*   **Medium — of the vegetable kingdom** } *Differ in quantity or mass*.
-*   **Thick — of the mineral kingdom** } *Differ in quantity or mass*.
-*   **Ordinary — indifferent, sterile** } *Differ in active quality*.
-*   **Extraordinary — active, fecund, or feminine** } *Differ in active quality*.
-*   **Ordinary weak — of phlegm** } *Differ in quality*.
-*   **Ordinary firm — of "dead earth"** } *Differ in quality*.
-*   **Extraordinary exhausted — Alkali, dyeable, feminine** } *Seed [Semen]; differ in mode of acting*.
-*   **Extraordinary distended — Acid, tinged, masculine** } *Seed [Semen]; differ in mode of acting*.
-*   **Distended / Exhausted:**
-    *   **Minimally — saline or most blunt** } *Differ in degree of action*.
-    *   **Moderately — sulphurous or medium** } *Differ in degree of action*.
-    *   **Maximally — mercurial or most active** } *Differ in degree of action*.
-
-
-
-### **Page [50]**
-
-**52. Therefore, there are four larger masses or elements**, infinite replications or homoeomeries; the component principles are indeterminate due to the variety of degrees, and then because of the impossibility of Analysis through itself. Whence, mostly from the solvent—fire, menstruum, etc.—they become decomposed along with the solute. Indeed, those component parts can scarcely be had, by the rejoining of which a thing is regenerated; for these parts themselves are also usually destroyed by that conjunction and generated by the solution. Nevertheless, there remain two useful principles, three degrees of useful principles *broadly speaking*, and three kingdoms. The Kingdoms differ by the solution, subtlety, and variety of parts; the degrees [differ] by elevation, concoction, and virtue. Although, for the most part, those things which are increased in virtue are also increased in subtlety: whence also in the animal kingdom, activity is greater, but more evanescent.
-
-**53. The method of healing**, with these things thus positioned, if it is permitted to continue by conjecturing, returns to this: that acids should be cured by alkalis and vice versa, but by those similar in degree. Therefore, a **mercurial acid** will be cured by a **mercurial alkali**; a **sulphurous acid** by a **sulphurous alkali**; a **saline acid** by a **saline alkali**. The highest cold or alkalized poison [is cured] by the highest warm or acid balsam, and vice versa: thus, contrary substances are cured by contraries, and similar things by similars in degree. And because perhaps those three degrees of Mercury, Sulfur, and Salt again have great latitude, both in themselves and among each other, some things are more mercurial than others, or...
-
-
-### **Page [51]**
-
-...or more saline. Hence, now not just any acids [react] with any alkalis, nor any distended [bubbles] with any exhausted ones, but with proportioned ones (whence those sympathetic, or antipathic, or specific powers of certain medications are discerned by experience). Exactly as in two glass receivers, one full and the other exhausted, joined by orifices: unless there is a just quantity in the full one, upon opening the common stopcock to refill the exhausted one, a rupture will follow. For the rest, the Kingdoms provide nourishment for themselves through a scale: minerals for vegetables, these for animals, and back again; all [provide] medicine for all, even through salts.
-
-**54. But all this application thus far is divinatory**, and if it displeases anyone, let it not be said. It suffices to have rendered a cause that will suffice for explaining all motions; it suffices to have deduced theories from the simplest and most liquid things, and those easiest for the intellect, all the way to this gate of experience—theories which otherwise are volatile and irreconcilable to the use of life and practical analysis. It suffices to have brought forward those things which can almost be reconciled with all domestic opinions, with them remaining safe.
-
-**55. He who denies the motion of the earth** can be content with the motion of the aether with the sun or light around the earth. But whether he affirms or denies a **Vacuum**, it is all the same, since I freely confess that whatever is exhausted of air is refilled with aether; in short, once inanities are left behind, it adds nothing to the sum of the hypothesis. Neither Aristotle nor his genuine interpreter...
-
-
-
-### **Page [52]**
-
-...the illustrious **Digby** might be indignant with me. They [the Peripatetics] have four elements: **Earth, Water, Air, Fire**; I, in place of fire, have **Aether**, from which it differs only in name. For the pure fire of Aristotle—such as is supposed by him to exist under the concavity of the Moon, or above the air—is conceded by me (who believes aether to be superior to air). Even by Aristotle’s own testimony, it does not burn; yet it is rightly called fire, since our fire is produced from the collection and explosion of a river of aether. Nevertheless, I preferred the name of aether because I ascribe to it many other great effects unobserved by them. For the familiar meaning of "fire" is something far different, and my aether is the cause of common fire rather than its matter: although, against the original use of the word, the Greek *aether* is the same as the Latin *ignis* [fire]. But custom brings it about that we name a body subtler than air itself "aether".
-
-**56. Furthermore, "rare" and "dense"** are indeed rightly for Digby the highest difference of bodies, for even those [qualities] which the Peripatetics call "primary" are deduced from them. Since **heat** is rarefying, **cold** is densifying, **moist** is rare, and **dry** is dense; the former are active, the latter passive. And warm things, through a strong internal motion, both eject subtle rays and reject and repel the air resting upon them by its own gravity; which ventilation—reaching other bodies equally as radiation—then opens their pores and provides for the particles, previously constricted by density, a free similar motion or field...
-
-
-### **Page [53]**
-
-...it provides, or a tendency [conatus], if they do not yet have an impression. Whence also the gathering of homogenous things follows, just as metals variedly confused with dross, being liberated by the rarefying flow of the fire’s heat, then collect into a "regulus" by natural gravity. 
-
-But so that "rare" and "dense" may perform what our "exhausted" and "distended" [bubbles] do—that is, the force of restoring oneself from dilation or compression—something else must be added: namely, the motion of the aether. For to that excellent man [Digby], the remains of Metaphysical notions had clung, whence he ascribes that force of compressed or distracted things restoring themselves to I-know-not-what innate appetite; as if a mass of given matter, even if it can fill more or less space, might return by its own effort to its prescribed extension. 
-
-But I judge that these things have spontaneously yielded in minds by the increasing light of Philosophy: since it is certain, as **Hobbes** rightly taught along with **Descartes**, that the same mass cannot fill more or less space. For even if a discontinued thing can be extended longer and wider, it does not therefore fill whatever it embraces, but rather, as another thing succeeds it, it is subdivided into subtler parts having separate motions. For that is what it means to be "rarer" (although in the end, it may not find a thing existing without any vacuum, because it is impossible for there to be any motion acting entirely in a plenum outside its own body, and not returning upon itself in a line). Aristotle, as [I noted] in the preface to **Nizolius** regarding true principles...
-
-
-### **Page [54]**
-
-...principles, and the true method of philosophizing recently republished, I have shown that it would be far easier to reconcile [them]; for he [Aristotle] says almost nothing of what the Scholastics impose upon him. Certainly, he established heaven as the cause of all things, and that heaven acts through motion. And rightly so, for even **Light** is nothing other than the internal agitation of a thing, so strong that its efforts [conatus] tending outward from any and every sensible point strike the eye directly and reflexively. Who would wonder that from such a strong agitation heat and rarefaction arise, and in the opposite part of the globe, condensation? And that from these—with the motion of the aether added, impressed by the circulation of solar light—bubbles, gravity, and elasticity [elaterem], and the rest arise from these? Certainly, that **substantial forms** (except for the mind) were not an absolute being even to Aristotle, but only *logos* (reason), proportion, *desmos* (bond), and the intimate structure of parts—whatever the Scholastics might have imposed on him—was taught long ago by **Honoré Fabri** and **Giovanni Rauei**, men of ingenious and solid freedom in philosophizing beyond all-encompassing erudition.

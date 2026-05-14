@@ -7,7 +7,7 @@ description: "Quantum Tunneling and Nuclear Fusion are made possible by the most
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 27
+weight: 4
 icon: "Juan"
 aliases:
   /material/principles/part-3/chapter-07b

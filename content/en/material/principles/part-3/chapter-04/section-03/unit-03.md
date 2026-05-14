@@ -1,12 +1,11 @@
 ---
-heading: "Chapter 4d"
+heading: "Unit 3"
 title: "Plasma Superphysics"
 # date: 2023-11-10
 weight: 20
 image: /graphics/tokamak.jpg
 description: "Plasma turbulence happens in a fusion reactor"
 icon: "Juan"
-draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

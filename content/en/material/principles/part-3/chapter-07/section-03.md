@@ -2,7 +2,7 @@
 heading: "Section 3"
 title: "Maxwell's Equations"
 # date: 2024-07-22
-weight: 29
+weight: 7
 image: /photos/physics/maxwell.jpg
 description: "Radiant Territories are the electromagentic fields of Physics."
 icon: Juan

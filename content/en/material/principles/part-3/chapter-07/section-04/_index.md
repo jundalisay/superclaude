@@ -1,9 +1,9 @@
 ---
 heading: "Section 4"
-title: "Linear Movement"
+title: "Fast Linear Movement"
 linkTitle: Movement
 date: 2024-12-28
-image: /photos/physics/push.jpg
+image: /photos/physics/laser.jpg
 description: ""
 writer:
   name: Juan
