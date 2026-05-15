@@ -1,6 +1,6 @@
 ---
-heading: Articles 34-
-title: "The Creation"
+heading: Articles 33b-
+title: "Magnetism"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
@@ -9,9 +9,7 @@ weight: 11
 
 
 
-[34]
-
-...Whence also [arise] rarity and the gathering of homogeneous things. **On the contrary, cold**, which constricts, arises from a motion that is indeed strong and straight, but thick; whence, by blunting rather than penetrating, and consequently not dissolving but constricting. 
+<!-- ...Whence also [arise] rarity and the gathering of homogeneous things. **On the contrary, cold**, which constricts, arises from a motion that is indeed strong and straight, but thick; whence, by blunting rather than penetrating, and consequently not dissolving but constricting. 
 
 Most cold things are hard or otherwise densified and crowded, like marble, metal, and mercury, because their pores are narrow, through which air or wind passes: whence a refrigerating wind is constricted and collected, exactly as in cities narrow alleys are always accustomed to have the most cold. 
 
@@ -20,19 +18,63 @@ I add one thing for greater clarity: the impressions of hot and cold differ almo
 
 To enter into other innumerable varieties of the qualities of touch is not for this time, since most arise more from the superficial than the central constitution of things; nevertheless, we have touched upon the sources to be explained below in section 59. 
 
-Let us pass to the **extraordinary or physical motions of bodies**, which do not arise from gravity or mechanical principles, insofar as it appears to the sense.
+Let us pass to the **extraordinary or physical motions of bodies**, which do not arise from gravity or mechanical principles, insofar as it appears to the sense. -->
 
 
-<sup>33</sup> These I divide in passing into *sympathetic* and *antipathic***. 
+<sup>33-b</sup> Reactions are either:
+
+1. Sympathetic
+
+This is:
+
+- verticity 
+  - a curve
+  - directed to a certain point of a globe around its center
+
+- attraction
+  - a straight line
+  - directed to a certain thing
 
 
-The sympathetic are **verticity** [the tendency to turn toward a pole] and **attraction**. 
+Verticity is found in the magnet and in most things, though in unequal degree.
 
-The former is in a circular line, the latter in a straight one; the former is toward a certain point of the globe around its center, the latter toward a certain thing: **Verticity** is not only in the magnet, but in most other things, though in an unequal degree; for some are more pervasive to the aether than others, and their pores are proportioned to its motion...
+For some are more permeable to aether than others, as their pores are proportioned to its motion.
+
+The magnet and iron excel the rest, owing to their innate love of cold and their long position in the mine towards the poles. 
+
+But this love of the north cannot suffice for a direction so constant and so universal unless a universal cause everywhere present – that is, the circulation of the aether – comes into play. 
+
+Verticity, therefore, or the property by which bodies establish their extremities balanced between the poles of our globe, seems to arise from the motion of the aether from east to west (above, §9, 10); which prevents their extremities from being turned directly or obliquely towards east or west; north and south therefore remain. But to examine the particular phenomena that present themselves in this matter of verticity is foreign to our present brevity.
+
+2. Antipathetic
+
+
+
+
+**34**
+Nevertheless, I cannot omit this: that all consistency or cohesion of bodies arises from motion. Bodies at rest in their whole arise from the motion of their parts returning upon themselves (lest they fly away), that is, circular motion, or rather, due to compression, sometimes elliptical, according to the abstract theory of motion; hence bodies so exercise that motion that they may do so most conveniently. They can do so most conveniently in that direction in which the motion of the aether does not obstruct them – therefore towards the poles of the terrestrial globe, because the motion of the aether is not towards the poles but around the poles. Moreover, the motion of the parts thus constitutes its own poles for the body, and antipathies of different poles and of poles affected by other poles. The poles of a magnet are so called because the poles of the earth...
+
+---
+
+
+
+
+
+[34]
+33. Thus, by means of rare, sparse, and similar congregating-together. On the contrary, for cold, because it tightens, it arises from a powerful and straight motion, but thick, whence dulling, not penetrating, and therefore not dissolving, but tightening. However, hard or densely-compacted things are mostly cold, as are marble, metal, and mercury, because their pores are narrow, through which air or wind passes: whence the cooling wind is condensed, tightened, gathered together, completely in the same way as in cities, alleys that very often are accustomed to have great cold. I add one thing for greater clarity, that the impression of heat and cold differ, as if in that same shaft, a puncture made by a very sharp point, is driven by a rough wooden shaft to penetrate. It is not of this time to enter into other, countless varieties of the sense of touch, when most arise from surface [phenomena] rather than the central composition of things, however, we will touch upon the sources to be explained below, Section 59. Let us pass over to the extraordinary or physical motions of bodies, which arise from weight or mechanical principles, as they are not perceived by sense.
+
+33. These, in passing, I divide into sympathetic and antipathetic. The sympathetic are vertical and attractive. This is in a circular line, this in a straight line; this to a certain point of the globe, around the center of the sum, this to a certain matter: Vertical is not only in a magnet, but in most other things, although of unequal degree, for some are more pervious to the ether than others, and proportionate to their pores, to its motion.
+nat...
 
 [35]
+nata sunt, and iron more than others, with the innate love of cold, during the course of which in the mine it is positioned toward the poles. But this love of the north wind, in its direction so constant, so universal, unless a universal ubiquitous cause is present, that is, the etherial circulation supervenes, cannot suffice: Therefore, the vertical, or so to speak, balanced between the poles of our globe, making its extreme ends consistent, seems to come about from the motion of the ether from east to west above Sections 9, 10: which prohibits it from pointing to the East or West, but that it must necessarily turn itself toward the North and South. But those things that offer particular phenomena in this matter of verticality, it is foreign to our present brevity to examine.
 
-...born [of that], the magnet and iron above others, on account of a native love of cold and long duration in a mine situated toward the poles. But this love of the North [Boreas] cannot suffice for a direction so constant and so universal unless a universal cause, everywhere present—that is, the **circulation of the aether**—is added: **verticity** therefore, or so that [bodies] balanced between the poles of our globe constitute their extremes, seems to happen from the motion of the aether from east to west (see above sections 9, 10): which, since it prohibits the extremes from turning directly or obliquely toward the East or West, there remains consequently the North and South. What particular phenomena, however, offer themselves in this business of verticity, it is foreign to examine given the present brevity.
+34. However, I cannot omit this, when all consistency or cohesion of bodies arises from motion, of bodies resting as a whole, that it arises from the motion of parts returning into themselves (lest they should flee) that is, in a circular motion, or rather on account of confinement, sometimes elliptical, through the abstract theory of motion; hence bodies exercise that motion so that they can most conveniently; but they can most conveniently [do so] in that direction in which the etheral motion does not obstruct, therefore toward the poles of the globe, not that the etheral motion is towards the poles, but around the poles. Furthermore, the motion of the parts establishes the poles appropriate for the bodies themselves, of the poles of the diverse and of the poles of the affected [ones], the antipathies. They are called magnetic poles because they [are] to the poles...
+terr..
+
+
+
+
 
 
 <sup>34</sup> Nevertheless, I cannot omit this**, since all consistency or cohesion of bodies must arise from motion.

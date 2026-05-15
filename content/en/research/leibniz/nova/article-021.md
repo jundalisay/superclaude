@@ -1,10 +1,10 @@
 ---
 heading: Articles 21
-title: "Elasticity"
+title: "Reflection and Refraction"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 7
+weight: 11
 ---
 
 

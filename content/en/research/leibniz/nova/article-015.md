@@ -1,10 +1,10 @@
 ---
-heading: Articles 15-21
+heading: Articles 15-20
 title: "Gravity"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 7
+weight: 9
 ---
 
 

@@ -1,15 +1,13 @@
 ---
 heading: Section 1
-title: "The Fourth Branch of Government"
+title: "Trading Insitutions"
 date: 2017-04-26
 weight: 4
-image: "/photos/objects/gavel.jpg"
-description: "We propose a Fourth Branch of Government called the Resources branch to make procurement and audit more systematic"
+image: "/photos/econ/barter.jpg"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
-aliases:
-  /social/supersociology/principles/part-5/fourth-branch
+icon: "Juan"
 ---
 

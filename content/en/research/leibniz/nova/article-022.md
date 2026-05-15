@@ -1,10 +1,10 @@
 ---
-heading: Articles 22-
-title: "The Creation"
+heading: Articles 22-24
+title: "Levity"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 9
+weight: 13
 ---
 
 
@@ -21,7 +21,7 @@ This is because the impediment was objectified only to the body, not to the air 
 
 Just as two lights, on account of their rarity, penetrate each other without being confused, so those two aethers of the concurring bodies carry their own bodies along and are mutually transferred into the other.
 
-From this comes that permutation of motions and regions after a concurrence[cite: 1]. 
+From this comes that permutation of motions and regions after a concurrence. 
 
 The same is the cause of the **Vibration of Pendulums**, so many times repeated and gradually vanishing: the impetus of the impelling aether—collected by a particular condensation and dilation and restoring itself—carries the seized object even beyond the endeavor of its own gravity. 
 
@@ -81,8 +81,7 @@ Whence, by the **benefit of division**, things not to be despised can be achieve
 Wood is lighter than water because wood has more aether than earth. 
 
 
-**Page [25]**
-
+[25]
 
 Wood ascends in water because liquids have imaginary cylinders that are affected by gravitation in innumerable assignable ways. The aether in the wood cancels this gravity, and the liquid is arranged parallel to the horizon.
 
@@ -127,32 +126,3 @@ Therefore, if this bubble is not filled with water, but with air, since air is a
 If the air is exhausted from the bubble as much as possible, it will weigh approximately as much as an equal space of air.[cite: 1] And if a bubble of radius $1500a$ is taken and exhausted, it will be notably lighter than an equal space of air, and consequently, it will ascend in it.[cite: 1] If the proportion of air to water were greater, the bubble should be made correspondingly larger.
 
 But whether bubbles of such great magnitude can be conveniently made, and exhausted within, and remain without rupture and endure, I do not take it upon myself to say.
-
-
-<sup>25</sup> Among the species of gravity, therefore, is aerostatics**, upon which depends that entire apparatus of siphons, pumps, and baroscopes; and if **Elater** [elasticity/spring force] is added, of which we shall speak soon.(Section 27)
-
-Whatever stupendous things are performed with exhausted and compressed air.[cite: 1] To be sure, heavy things remain in suspension, and heavy things are raised upward, not from a "fear of a vacuum" (*metu Vacui*)..
-
-
-[27]**
-
-...otherwise they could be raised to infinity, which experience refutes, but only until there is equilibrium with the aerial cylinder of the entire atmosphere.[cite: 1] For when water does not follow in a pump, it will follow the aerial cylinder equal to the width of the pump's piston, or it must be compressed, or raised so far into the liquid aether from its own sphere as is the length of the pump.
-
-Because only that much space in the pump is left as a vacuum, or certainly greatly exhausted, even if the most subtle aether enters it.
-
-The ratio of the baroscope is similar.
-
-
-<sup>26</sup> But from where does air rush into exhausted vessels with such force?
-
-I ask in the same way: if you place a closed vessel in the middle of water and then open it with a large hole, why will the water rush in?
-
-By the force (*nisu*) of its own gravity.
-
-Therefore, the same applies to air.[cite: 1] Water, however, rushes in more slowly and not without resistance, because the air which has a difficult exit must be expelled.
-
-But air rushing into a vacuum, which is full of aether thrust into that place by force, is not only not impeded by the aether, but is even helped; because the aether, collected there in a pool beyond its usual manner, is impeded in its circulation and cannot exit, even if pores are open.[cite: 1] For although a vacuum is given, a great vacuum is not given: the place deserted by the air must therefore be replenished.
-
-Therefore, the **GRAVITY** of the aerial cylinder and the **ELATER**, or the force of the aether dispersing itself into its proper circulation, concur![cite: 1]
-
-
