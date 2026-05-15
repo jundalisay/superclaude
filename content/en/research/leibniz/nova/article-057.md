@@ -46,7 +46,7 @@ The reason for that speed with which a bow restores itself and shoots an arrow, 
 Every impetus arises from speed, and it is also certain that from many slow motions (unless there is a maximum distance from the center of the thing, which is not the case here) or even from the insensible motions of insensible parts, however fast, such a swift and violent motion of the whole cannot arise.
 
 
-[57]**
+[57]
 
 Motion is usually increased by constriction, just as the density of bodies is by compression; but this depends on the economy of the system in which all motion of the aether is incorporated as if in its own *primum mobile* [prime mover], so to speak. 
 
@@ -83,6 +83,8 @@ All recent physicists desire things to be explained mechanically: here it is per
 
 From **gravity** depend all those clocks in which the weight of some natural pound is slowed by levers, wheels, pulleys, and screws; and these indeed have the advantage of being durable, constant, and accurate, because the natural impetus for descending is never exhausted. 
 
-They can also be exhibited as easily in a large work as in a small model; but the disadvantage is that they cannot be tossed about or transferred from place to place without a loss of gravity, because the tossing makes them sometimes sit on a plane inclined to the horizon, in which case they gravitate less; hence their use at sea is disturbed. From the **elastic force** depend those smaller portable clocks [watches] that must be wound up by some means: these have a reasoning contrary to the former; for they have the advantage that they can be transferred here and there without loss of gravity; but on the other hand, they have the disadvantage that because even if left in their original place, they eventually grow weary, just as a bow long bent [is weakened]; and they vary according to the inequality of the tension and even the mutations of the air.
+They can also be exhibited as easily in a large work as in a small model; but the disadvantage is that they cannot be tossed about or transferred from place to place without a loss of gravity, because the tossing makes them sometimes sit on a plane inclined to the horizon, in which case they gravitate less; hence their use at sea is disturbed. 
+
+From the **elastic force** depend those smaller portable clocks [watches] that must be wound up by some means: these have a reasoning contrary to the former; for they have the advantage that they can be transferred here and there without loss of gravity; but on the other hand, they have the disadvantage that because even if left in their original place, they eventually grow weary, just as a bow long bent [is weakened]; and they vary according to the inequality of the tension and even the mutations of the air.
 
 Machines which flowing water rules depend on gravity; those which wind [rules], partly on gravity and partly on the Elasticity (*Elatere*) of the air; those which smoke or fire [rule], on a gravity less than that of the air; those which men or animals [rule], on elasticity. Nor will any motion, natural or artificial, easily be found whose reasoning cannot be deduced from the circulation of light around the earth.

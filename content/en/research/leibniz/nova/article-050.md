@@ -10,7 +10,8 @@ weight: 17
 
 [47]
 
-**50. From this now that absolute *Quintessence* or *Trinity* of the Paracelsians** is rendered very suspect.
+
+<sup>50</sup> From this now that absolute *Quintessence* or *Trinity* of the Paracelsians** is rendered very suspect.
 
 For as concerning the inert parts—**phlegm** and **dead earth**—which consist of ordinary bubbles (phlegm of aqueous ones, dead earth of glassy ones), or of extraordinary ones that are too small, or however large yet few, or wrapped in ordinary ones, or flowing together, I shall repeat nothing; perhaps that third **mercurial principle** is now alkali, now volatile acid; add below section 60. 
 
@@ -25,11 +26,9 @@ So that I might fear we are about to have a **quaternion** [group of four] of us
 Whether there is some **medium** between fixed and volatile—which would make even three, as they call it, of the variety of kingdoms—must be judged by experiments, and not a few, nor just any, but by many great ones compared among themselves.
 
 
-**51. Nor do I wish to prostitute myself in this place** with a preposterous divination; for how much variety can there be again in the constipation of exhaustion and in its degrees? 
+<sup>51</sup> Nor do I wish to prostitute myself in this place** with a preposterous divination; for how much variety can there be again in the constipation of exhaustion and in its degrees? 
 
 Here certainly, for one about to build a Hypothesis, unless he affects to be considered rash, he must stop; for a more special application depends upon experience. I have always believed, however, that the admirable wisdom of the Founder so established things that many things are generated from a few.
-
-
 
 [48]
 
