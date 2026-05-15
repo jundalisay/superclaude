@@ -40,9 +40,9 @@ frequency like
 4 spread  -->
 
 
-{{< q a="PR Sarkar" c="Human Society Is One and Indivisible" >}}
+<!-- q a="PR Sarkar" c="Human Society Is One and Indivisible" >}}
 From atoms and molecules to human beings with developed consciousness, all entities feel attraction for one another.. This is why attraction is the law of nature. Repulsion is negative attraction. The so-called differences that between human beings in the external world are merely expressions of negative attraction. For differences to occur, people must enter into some sort of relationship with each other. Without close proximity, there cannot be any friction. A serious difference of opinion today may be changed into friendship tomorrow. Thus, instead of reacting to apparent differences, one should seek internal unity. The points of affinity have got to be encouraged, the differences must be discouraged. No difference lasts long.
-{{< /q >}}
+/q >}} -->
 
 
 This concept of Attraction beyond physical magnetism and gravity became popular through the 2006 movie [The Secret](https://en.wikipedia.org/wiki/The_Secret_(2006_film)) by Australian Rhonda Byrne. It was driven globally by Youtube which was a relatively new platform in 2006.
@@ -76,3 +76,4 @@ The proper solution is to add effort both in quality and quantity. This would be
 Thats why action is very important in either the Law of Attractiion, Christianity, or any belief system. 
 
 The enemy is all cases is the staticity of mind which is from the Negative Force, the same force that caused the problem
+

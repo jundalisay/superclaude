@@ -29,10 +29,9 @@ The other Elements -- **spacetime and aether -- are not objective nor precise**.
 Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises.
 
 
-{{< q a="PR Sarkar" c="Civilization, Science and Spiritual Progress" >}}
+<!-- q a="PR Sarkar" c="Civilization, Science and Spiritual Progress" >}}
 Science teaches the proper use of material things. When the development of civilization is utterly negligible and science gradually attains the apogee of development, science leads the way for destruction instead of doing any good to humanity. And so, the study and practice of science, though unavoidable, **should not be given a higher place than civilization.**
-{{< /q >}}
-
+/q >}} -->
 
 
 Instead of demanding objectivity and precision, a superior requirement is for a system of reasoning to **answer questions or solve problems about real phenomena conclusively**. 

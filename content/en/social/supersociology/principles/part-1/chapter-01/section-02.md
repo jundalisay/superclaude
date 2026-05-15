@@ -85,7 +85,9 @@ For example, we sometimes go to Meetups about the food, technology, artists, and
 
 ## Facebook is a Personal Network, Not a Social Network
 
-Unfortunately, some social apps group people not to build the common interest, but merely funnel advertisements more effectively. An example is Facebook which lets its users add other users that they like, creating a **personal network** instead of a proper social network.  
+Unfortunately, some social apps group people not to build the common interest, but merely funnel advertisements more effectively. 
+
+An example is Facebook which lets its users add other users that they like, creating a **personal network** instead of a proper social network.  
 
 Those users can then post whatever is in their personal interest which then creates a personal bubble or echo chamber that might go against other bubbles. If left unchecked, it can lead to online conflict, followed by real physical conflict or harm.
 
@@ -104,7 +106,16 @@ In addition, Facebook has no active regulator to keep its users united or preven
 
 In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it earns primarily from a tax, as [Pointtax](https://www.pantrypoints.com/services/tax/), and only secondarily from advertising.
 
-A true social network therefore is one that encourages personal interest as long as it is within the common interest. This necessitates a regulator, just as an early society has a chieftain and a modern society has a President or Prime Minister. 
+A true social network therefore is one that encourages personal interest as long as it is within the common interest.
+- Facebook only promotes personal interest.
+
+Supereconomics facilitates the common interest as Relationality via the 1st Law of Value.
+
+Supersociology facilitates the common interest via Entity Rights which respects the physical existence and expressions of living beings. 
+- The Entity Rights of harmful beings such as bad viruses and bacteria, are implemented by putting them away -- changing their spatial placement in Existence instead of destroying their Existence.
+
+
+This necessitates a regulator or a "placer" (someone to put people and things in their proper place), just as an early society has a chieftain and a modern society has a President or Prime Minister. 
 
 The key qualification of this regulator is his understanding of the common interest as to keep the society unified and whole. His whole moral authority depends on this. 
 
@@ -123,11 +134,16 @@ In future posts, we will explain how this moral authority can be implemented by 
  -->
 
 
-We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed points-based economic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
+We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed points-based economic network which implements our concept of social networkism desribed here. ISAIAH is an implementation of ANI or Autonomous Natural Intelligence.
 
-- The soul of society being made up of individual souls that merge and dissociate flexibly
-- A common interest that unifies such souls together into a society 
-- A moral leader or regulator to protect and grow that common interest
+
+Thus, social networkism is made up of the following ideas:
+
+- The oversoul of society: Society is made up of individual souls that merge and dissociate flexibly
+- Relationality: Common interest unifies such souls together into a society 
+- ANI: A moral leader or regulator to protect and grow that common interest.
+
+In other words, the natural intelligence of the oversoul creates relationalities to keep itself intact.
 
 It is similar to the dynamics of a Republic or Aristocracy as described by Socrates and Spinoza. It is not a wild democracy as is in force in the United States and in most countries that allow free elections. 
 
@@ -135,3 +151,7 @@ It is similar to the dynamics of a Republic or Aristocracy as described by Socra
 {{< q a="Spinoza" c="Political Treatise, Chapter 11" >}}
 In democracies, it is not the best men who are appointed to govern, but those who happen to be wealthy or to be eldest sons.
 {{< /q >}}
+
+
+> The natural intelligence of the oversoul creates relationalities to keep itself intact.
+

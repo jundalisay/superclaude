@@ -30,9 +30,10 @@ The One itself, then, having been broken up into parts by being, is many and inf
 {{< /q >}}
 
 
-{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 1" >}}
+
+<!-- q a="PR Sarkar" c="Idea and Ideology, Chapter 1" >}}
 Since the mind exists, the mental plate exists, and the reflection of Paramatman must remain. The Átman, therefore, remains associated with the jiivátman. The ultimate knowership, doership and base of existence lie in the átman.
-{{< /q >}}
+/q >}} -->
 
 
 

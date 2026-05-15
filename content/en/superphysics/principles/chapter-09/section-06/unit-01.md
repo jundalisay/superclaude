@@ -55,9 +55,9 @@ A **personality structure** is cause of the manifest personality arising from th
 <!-- Determines the DNA patterns of the body in order to reinforce the belief system  -->
 
 
-{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 5" >}}
+<!-- q a="PR Sarkar" c="Idea and Ideology, Chapter 5" >}}
 The activating (radiating) capacity of the ego determines physical activity (primarily) and one’s personality. The more developed the radiating power, the more glaring will be one’s personality.
-{{< /q >}}
+/q >}} -->
 
 
 {{< i s="/graphics/psych/person.jpg" a="Personality" c="A personality can give rise to one of 3 identities at a time, depending on whether the mind" >}}

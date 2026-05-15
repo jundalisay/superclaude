@@ -119,14 +119,14 @@ Material | Earth, Pritvi, 金 (solid metal) | Strong | smell
 5 | Material | Earth, Pritvi | 金 (solid metal) | Strong | Nuclear force | Gluons (effective qom) | qom (quarks) | Do -->
 
 
-{{< q a="PR Sarkar" >}}
+<!-- q a="PR Sarkar" >}}
 The category of the physical elements an object belongs to is determined by the tanmátra emanating from that object.
 - The ethereal factor has the capacity of imbibing or carrying the sound tanmátra.
 - The aerial factor has the capacity of imbibing or carrying the sound and touch tanmátra.
 - The luminous factor, of the sound, touch, and form tanmátras.
 - The liquid factor, of the sound, touch, form and taste tanmátras.
 - The solid factor has the capacity of imbibing or carrying all five tanmátras: sound, touch, form, taste and smell.
-{{< /q >}}
+/q >}} -->
 
 
 {{< i s="/graphics/super/operative.svg" alt="Five layers of Superphysics" c="The 5 Layers have slightly different properties depending on the influence of the positive and negative forces" >}}

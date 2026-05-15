@@ -171,8 +171,8 @@ For now, we hypothesize 2 additional versions of protons and neutrons to fill th
 Name | Physical Example 
 --- | --- 
 soc1 (upper neutron) | ?
-soc3 (lower neutron) | Neutron weapons (Lazar from Grays)
-som1 (upper proton) | Element 115 (Lazar from Grays)
+soc3 (lower neutron) | Neutron weapons (Bob Lazar from Grays)
+som1 (upper proton) | Element 115 (Bob Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Sassani)
 
 

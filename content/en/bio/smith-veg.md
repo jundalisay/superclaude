@@ -89,10 +89,11 @@ They come from the poorest people in Ireland who eat potatoes. This proves the n
 {{< /q >}}
 
 
-Indian philosopher PR Sarkar also praises potatoes for its nutrition and ease of cultivation. 
+<!-- Indian philosopher PR Sarkar also praises potatoes for its nutrition and ease of cultivation. 
 
-{{< q a="PR Sarkar" c="Ideal Farming" >}}
+q a="PR Sarkar" c="Ideal Farming" >}}
 Potato is one of the most common vegetable crops. It is high in carbohydrates, contains many vitamins and is very satisfying. In emergency conditions it can be eaten instead of rice. Potato is especially beneficial when:
 - little land is available for cultivation
 - many people must be fed economically.
-{{< /q >}}
+/q >}} -->
+
