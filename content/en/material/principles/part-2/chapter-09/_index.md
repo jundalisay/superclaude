@@ -10,5 +10,7 @@ writer:
 weight: 400
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-6/chapter-01/section-01/
 ---
 

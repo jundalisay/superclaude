@@ -2,6 +2,7 @@
 title: "The Non Constancy of G"
 date: 2026-05-09
 image: /graphics/physics/codata.jpg
+weight: 4
 description: ""
 writer:
   name: Juan

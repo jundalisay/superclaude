@@ -10,7 +10,10 @@ writer:
 weight: 59
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-5/chapter-06/section-03b/
 ---
+
 
 
 The duality of the Material Layer, as the expression of the Positive and Negative Forces, is seen as matter and antimatter. 

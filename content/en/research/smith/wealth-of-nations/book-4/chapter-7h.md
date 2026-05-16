@@ -8,6 +8,8 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
+aliases:
+  /research/smith/wealth-of-nations/book-4/chapter-7hh/
 ---
 
 
@@ -151,3 +153,5 @@ They supposed that the importation of the second kind of commodities might be ma
 By duties, those commodities from America might be dearer than those from Britain, but cheaper than those from foreign countries.
 
 By confining such commodities to the home market, it proposed to discourage the produce of foreign countries which would create an unfavourable balance of trade to Great Britain.
+
+

@@ -8,15 +8,33 @@ weight: 14
 
 
 
-[23]**
+[23]
 
-**10.** Hence every motion in a plenum is **circular**, or returns into itself in a closed line. For if body **A** moves into the place of **B**, then **B** must move into the place of **C**, and so on, until some body moves into the place vacated by **A**. **11.** From this it follows that no body is moved alone, but the whole system of the plenum is affected by the motion of any single part. **12.** The swiftest motion is that of the **Aether**, which, because of the smallness of its parts and the frequency of its endeavors, penetrates all things and acts as the universal motor.
+<sup>10</sup> Hence every motion in a plenum is **circular**, or returns into itself in a closed line.
 
-**13.** From the different circulations of the aether, different species of things arise, such as gravity, light, and magnetism. **14.** Gravity is nothing other than the pressure of the aether tending toward the center of the earth, as was explained in the *Theory of Concrete Motion*. **15.** Light is the most rapid vibration or endeavor of the aether propagated in straight lines. **16.** All these things are performed mechanically, without any need for "occult qualities" or "substantial forms," which are but names for our ignorance. **17.** If two bodies of the same magnitude and speed strike each other from opposite directions, they both rest; for their endeavors are extinguished by equality.
+For if body **A** moves into the place of **B**, then **B** must move into the place of **C**, and so on, until some body moves into the place vacated by **A**.
 
 
+<sup>11</sup> It follows that no body is moved alone, but the whole system of the plenum is affected by the motion of any single part.
 
-[24]**
+
+<sup>12</sup> The swiftest motion is that of the **Aether**, which, because of the smallness of its parts and the frequency of its endeavors, penetrates all things and acts as the universal motor.
+
+<sup>13</sup> From the different circulations of the aether, different species of things arise, such as gravity, light, and magnetism. 
+
+
+<sup>14</sup> Gravity is nothing other than the pressure of the aether tending toward the center of the earth, as was explained in the *Theory of Concrete Motion*. 
+
+<sup>15</sup> Light is the most rapid vibration or endeavor of the aether propagated in straight lines. 
+
+
+<sup>16</sup> All these things are performed mechanically, without any need for "occult qualities" or "substantial forms," which are but names for our ignorance. 
+
+
+<sup>17</sup> If two bodies of the same magnitude and speed strike each other from opposite directions, they both rest; for their endeavors are extinguished by equality.
+
+
+[24]
 
 ...if they are unequal, the smaller is moved by the larger; if equal, both are moved.
 
@@ -59,8 +77,7 @@ This is the **Supreme Law of Mechanics**, which is also the Law of Divine Wisdom
 
 
 
-
-26]**
+26
 
 Some people that it is in vain to seek the quadrature of the circle and so many other things which, even if found, would bring no relief to human affairs; since we already have more exact mechanical proportions than those which can be attained with instruments. 
 

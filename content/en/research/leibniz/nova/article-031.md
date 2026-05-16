@@ -4,7 +4,7 @@ title: "Colors"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 11
+weight: 17
 ---
 
 

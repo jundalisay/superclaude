@@ -1,7 +1,8 @@
 ---
 title: "The Lettuce Fad"
 date: 2022-01-20
-c: "deepping"
+c: "deeppink"
+image: "/photos/bio/lettuce.jpg"
 description: ""
 icon: "Juan"
 ---

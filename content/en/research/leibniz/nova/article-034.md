@@ -4,7 +4,7 @@ title: "Magnetism"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 11
+weight: 19
 ---
 
 

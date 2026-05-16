@@ -65,13 +65,36 @@ In Citys of great Trade, there are publick Banks of Credit, as at Amsterdam and 
 
 Publick Banks are of so great a Concern in Trade, that the Merchants of London, for want of such a Bank, have been forced to Carry their Cash to Goldsmiths, and have thereby Raised such a Credit upon Goldsmiths Notes, that they pass in Payments from one to another like Notes upon the Bank; And although by this way of Credit, there hath been very Vast Sums of Mony lost, not less then too Millions within five and Twenty Years, yet the Dispatch and Ease in Trade is so great by such Notes, that the Credit is still in some Measure kept up.
 
-Therefore, it is much to be wondered at, that since the City of London is the Largest, Richest, and Chiefest City in the World, for Trade; Since there is so much Ease, Dispatch, and Safety in a Publick Bank; and since such vast Losses has Happened for want of it; That the Merchant and Traders of London have not long before this time Addressed themselves, to the Government, for the Establishing of a Publick Bank.
+<!-- Therefore, it is much to be wondered at, that since  -->
 
-The Common Objection, that a Publick Bank cannot be safe in a Monarchy, is not worth the Answering; As if Princes were not Governed by the same Rules of Policy, as States are, To do all things for the Well-fair of the Subjects, wherein their own Interest is concerned.
 
-It is True, in a Government wholly Dispotical, whose Support is altogether in it's Millitary Forces; where Trade hath no Concern in the Affaires of the State; Brings no Revenue, There might be a Jealousy, that such a Bank might tempt a Prince to Seize it; when by doing it, he doth not Prejudice the Affairs of his Government: 
+The Merchant and Traders of London have not long before this time addressed the Government to establish a Publick Bank since:
+- the City of London is the Largest, Richest, and Chiefest City in the World for Trade
+- there is so much Ease, Dispatch, and Safety in a Public Bank
+- such vast Losses has Happened for lack of it
 
-But in England, where the Government is not Dispotical; but the People Free; and have as great a Share in the soveraign Legislative Power, as the Subjects of any States have, or ever had; where the Customs makes great Figures, in the Kings Exchequer; where Ships are the Bullworks of the Kingdom; and where the Flourish of Trade is as much the Interest of the King as of the People, There can be no such Cause of Fear: 
+
+The Common Objection was that a Public Bank cannot be safe in a Monarchy.
+
+I think this is not worth answering.
+
+As if Princes were not Governed by the same Rules of Policy, as States are, To do all things for the Well-fair of the Subjects, wherein their own Interest is concerned.
+
+A despotic Government:
+- is Supported by its Millitary.
+- has no concern for Trade 
+- brings no trade Revenue
+
+There might be a Jealousy, that such a Bank might tempt a Prince to Seize it.
+
+ <!-- when by doing it, he doth not Prejudice the Affairs of his Government:  -->
+
+But in England:
+- the Government is not Dispotical
+- the People are Free and have as great a Share in the soveraign Legislative Power, as the Subjects of any States have, or ever had
+- the Customs makes great Figures, in the Kings Exchequer
+- Ships are the Bullworks of the Kingdom
+- the Flourish of Trade is as much the Interest of the King as of the People, There can be no such Cause of Fear
 
 For, What Objections can any Man make, that his Mony in the Bank, may not be as well secured by a Law, as his Property is? Or; Why he should be more afraid of Losing his Mony, than his Land or Goods?
 
@@ -102,7 +125,8 @@ Thus in Holland, where Mony is at 3% by reckoning how many times 3 is in 100 Pou
 
 By the same Rule, interest at 6% in England means that Land is worth but 20 Years Purchase. In Ireland, land is worth but 13 because interest there is at 10%.*
 
-> *Superphysics note: This shows the invese correlation of land-value and money-interest, arising from the certainty of land and the uncertainty of the other
+
+{{< n n="This shows the invese correlation of land-value and money-interest, arising from the certainty of land and the uncertainty of the other" >}}
 
 
 <!-- : so that, according to the Rate of Interest, is that Value of the Land in the Country. -->

@@ -4,7 +4,7 @@ title: "The Cohesion of Things"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 17
+weight: 29
 ---
 
 
@@ -17,9 +17,15 @@ Because when two things move away from each other so that at the first moment of
 
 [61]
 
-...lifted or compressed by a certain concurrence of gravity and elasticity: for whichever you call upon, it is the same. And so it is credible that in hard or thin bodies a secondary consistency very often arises, since it is probable that most things fit together more broadly than at mere points. But nevertheless, this consistency presupposes another prior one, as I said. For when a surface is to be torn away from a surface in a line not parallel to the congruence, it is manifest that this is done not by a push, but by traction—that is, by the pulsing of a thing connected elsewhere, namely through a handle or some other prominence curved in the opposite direction. But this connection already presupposes consistency.
+...lifted or compressed by a certain concurrence of gravity and elasticity: for whichever you call upon, it is the same. And so it is credible that in hard or thin bodies a secondary consistency very often arises, since it is probable that most things fit together more broadly than at mere points. 
 
-For example, if you wish to separate two highly polished tablets in a way other than by a parallel push (which is easy), it is necessary that a handle connected to it, or something else by which you can grasp it, should project from the overlying one. The reason why it is connected must be given. The ultimate reason for consistency, therefore, cannot be sought with **Democritus** from that congruence, or—as some of another school speak—from a flight from a vacuum (which nevertheless arises least from the thing itself, but rather from gravity and elasticity); much less with **Descartes** from rest alone, but from the motion of the thing (see above sections 2 & 11). Even if sensible consistencies from composites of this kind—tablets of every shape—are seen to arise not rarely except by the departure [of surfaces] overcoming the gravity and elasticity of the air impressed by that [motion]. Certainly, from the principle of gravity and elasticity...
+But nevertheless, this consistency presupposes another prior one, as I said. For when a surface is to be torn away from a surface in a line not parallel to the congruence, it is manifest that this is done not by a push, but by traction—that is, by the pulsing of a thing connected elsewhere, namely through a handle or some other prominence curved in the opposite direction. But this connection already presupposes consistency.
+
+For example, if you wish to separate two highly polished tablets in a way other than by a parallel push (which is easy), it is necessary that a handle connected to it, or something else by which you can grasp it, should project from the overlying one. 
+
+The reason why it is connected must be given. 
+
+The ultimate reason for consistency, therefore, cannot be sought with **Democritus** from that congruence, or—as some of another school speak—from a flight from a vacuum (which nevertheless arises least from the thing itself, but rather from gravity and elasticity); much less with **Descartes** from rest alone, but from the motion of the thing (see above sections 2 & 11). Even if sensible consistencies from composites of this kind—tablets of every shape—are seen to arise not rarely except by the departure [of surfaces] overcoming the gravity and elasticity of the air impressed by that [motion]. Certainly, from the principle of gravity and elasticity...
 
 
 [62] ...the restorative force in bodies, the explanation of compression; the reduction of things drawn apart to themselves must be led partly by spontaneous sense, partly by things remembered, and partly by things to be noted. We perceive this force not only in liquids in closed vessels, such as water, air, etc., but also in those things which are vessels unto themselves—that is, in consistencies of such a kind that are neither absolutely hard nor absolutely soft, but hold a certain middle ground.

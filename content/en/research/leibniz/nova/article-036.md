@@ -1,13 +1,11 @@
 ---
 heading: Articles 36-49
 title: "Antipathic Motion"
-description: 
+description: "Only 2 types of reactions were generally known to the ancients"
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 17
+weight: 20
 ---
-
-
 
 
 
@@ -109,6 +107,12 @@ But these things nevertheless vary by a certain admirable implication of things 
 
 ...are broken, however, they carry with them the force of exerting some extraordinary motion, and of rupture: exactly like vessels exhausted of or distended with air, which, being carried about here and there, whenever they are opened, either discharge aether and absorb air, or discharge air and absorb aether; see above section 27.
 
-**49. Each genus of bubbles**, whether **ordinary** and **extraordinary**, or **exhausted** and **distended**, is divided into **thick** and **thin**, or **aqueous** and **earthy** or **glassy**. And although from the observations of the Micrographers some [bubbles] are continuously found smaller than others, the same proportion will always remain: since aqueous bubbles compared to aerial ones are as earthy ones [to something else], and aerial ones have the same proportion to aetherial ones; and nothing prohibits there being another aether—of which it is not even permitted to us to suspect—superior to that aether which we collect by reason and experiments by as much as water is to earth, or air to water. But these things cannot come into our calculation because the Phenomena are not varied by them. From this it now appears that bubbles in general—ordinary, exhausted, distended—are discerned again not only into **weak** and **firm**, but also, if you like, **medium**; and into **large** and **small**, and again, if you like, **medium** (for there is a multiple latitude here between extremes). The varieties of figures and multitude are innumerable, and they contribute nothing to the sum of things.
+**49. Each genus of bubbles**, whether **ordinary** and **extraordinary**, or **exhausted** and **distended**, is divided into:
+- **thick** and **thin**, or 
+- **aqueous** and **earthy** or **glassy**. 
 
+Although from the observations of the Micrographers some bubbles are continuously found smaller than others, the same proportion will always remain: since aqueous bubbles compared to aerial ones are as earthy ones [to something else], and aerial ones have the same proportion to aetherial ones;
 
+Nothing prohibits there being another aether—of which it is not even permitted to us to suspect—superior to that aether which we collect by reason and experiments by as much as water is to earth, or air to water. 
+
+But these things cannot come into our calculation because the Phenomena are not varied by them. From this it now appears that bubbles in general—ordinary, exhausted, distended—are discerned again not only into **weak** and **firm**, but also, if you like, **medium**; and into **large** and **small**, and again, if you like, **medium** (for there is a multiple latitude here between extremes). The varieties of figures and multitude are innumerable, and they contribute nothing to the sum of things.

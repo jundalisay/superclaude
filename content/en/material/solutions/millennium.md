@@ -2,13 +2,12 @@
 title: "Solutions to the Millennium Prize Problems"
 date: 2024-03-12
 image: /graphics/physics/prize.jpg
-description: "We use Superphysics and Qualimath to solve the Millennium Prize Problems"
+description: "We use Superphysics and Qualimath to solve the Millennium Prize Problems by exposing most of them as non-problems"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 weight: 1
-draft: true
 ---
 
 

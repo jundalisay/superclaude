@@ -4,7 +4,7 @@ title: "Absolute Quintessence"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 17
+weight: 22
 ---
 
 

@@ -1,12 +1,11 @@
 ---
 heading: Articles 25
-title: "Levity"
-description: 
+title: "Aerostatics"
+description: "Aerostatics is the species of gravity that depends entirely on the apparatus of siphons, pumps, and baroscopes"
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 13
+weight: 15
 ---
-
 
 
 

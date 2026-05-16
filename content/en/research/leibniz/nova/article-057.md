@@ -1,10 +1,10 @@
 ---
 heading: Articles 57-58
-title: "The Creation"
+title: "The Elastic Force"
 description: 
 a: "Leibniz"
 c: "darkgoldenrod"
-weight: 17
+weight: 27
 ---
 
 
@@ -14,7 +14,6 @@ weight: 17
 I agree. However, I believe that even this restorative force of those springs must be sought from a higher principle from the **circulation of the aether**. 
 
 I believe that he would acknowledge this.
-
 
 This is why:
 - air, other things being equal, enters narrow spaces with more difficulty than water.
@@ -33,7 +32,7 @@ The followers of the great men Descartes and Gassendi, and whoever teaches in su
 Whatever is said of atoms being variously shaped—of vortices, shavings, branches, hooks, or globes and such other apparatus—is more a play of wit, further removed from the simplicity of nature and from experiments, or too meager to be clearly connected with the Phenomena.
 
 
-[56]**
+[56]
 
 <sup>58</sup> But my Hypothesis:
 - unites vague and slipping corpuscles among themselves through bubbles
@@ -72,12 +71,13 @@ The same will be true if you explain muscle motion with the most learned **Lower
 
 
 
+[59]
+
 <sup>58</sup> From this it is established what the force, origin, and reason is for increasing those three powers in bodies, or the foundations of lifting the heavy by the light: **distance from the center**, **impetus from a fall**, and finally an **effort (*nisus*)** exerted by a certain species of things, such as animal, pyric powder [gunpowder], magnet, or poison; by which, as if by a miracle, the greatest things are carried out by the smallest, as discussed above in section 20. 
 
-For just as those former powers arise from the speed of gravity, so these latter arise from the force of Elasticity (*Elateris*); yet again, both gravity and elasticity arise from the disturbed **circulation of the aether**. They differ only in this: in effecting gravity, the aether moves the thing; in elasticity, it moves itself...
+For just as those former powers arise from the speed of gravity, so these latter arise from the force of Elasticity (*Elateris*); yet again, both gravity and elasticity arise from the disturbed **circulation of the aether**. 
 
-
-[59] ...in gravity, it restores itself into its place; in elasticity—which is more—it restores itself into its degree, its state and rank of rarity, from which it had been disturbed. For the aether, by its circulation, either scatters things denser than is just, or, when it cannot, it depresses them: from this arises **gravity**, and from the former, **Elasticity**. 
+They differ only in this: in effecting gravity, the aether moves the thing; in elasticity, it moves itself in gravity, it restores itself into its place; in elasticity—which is more—it restores itself into its degree, its state and rank of rarity, from which it had been disturbed. For the aether, by its circulation, either scatters things denser than is just, or, when it cannot, it depresses them: from this arises **gravity**, and from the former, **Elasticity**. 
 
 All recent physicists desire things to be explained mechanically: here it is perfectly performed. For just as all things of nature [depend on it] according to our hypothesis, so also all things of art, **clocks** and machines, depend by common consent either on gravity or elasticity (*Elatere*), or both joined together.
 
@@ -85,6 +85,8 @@ From **gravity** depend all those clocks in which the weight of some natural pou
 
 They can also be exhibited as easily in a large work as in a small model; but the disadvantage is that they cannot be tossed about or transferred from place to place without a loss of gravity, because the tossing makes them sometimes sit on a plane inclined to the horizon, in which case they gravitate less; hence their use at sea is disturbed. 
 
-From the **elastic force** depend those smaller portable clocks [watches] that must be wound up by some means: these have a reasoning contrary to the former; for they have the advantage that they can be transferred here and there without loss of gravity; but on the other hand, they have the disadvantage that because even if left in their original place, they eventually grow weary, just as a bow long bent [is weakened]; and they vary according to the inequality of the tension and even the mutations of the air.
+From the **elastic force** depend those smaller portable clocks [watches] that must be wound up by some means: these have a reasoning contrary to the former; for they have the advantage that they can be transferred here and there without loss of gravity; but on the other hand, they have the disadvantage that because even if left in their original place, they eventually grow weary, just as a bow long bent [is weakened].
+
+They vary according to the inequality of the tension and even the mutations of the air.
 
 Machines which flowing water rules depend on gravity; those which wind [rules], partly on gravity and partly on the Elasticity (*Elatere*) of the air; those which smoke or fire [rule], on a gravity less than that of the air; those which men or animals [rule], on elasticity. Nor will any motion, natural or artificial, easily be found whose reasoning cannot be deduced from the circulation of light around the earth.
