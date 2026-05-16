@@ -12,6 +12,7 @@ writer:
 icon: Juan
 aliases:
   /bio/principles/chapter-01
+  /bio/principles/intro/chapter-03/section-02b/
 ---
 
 

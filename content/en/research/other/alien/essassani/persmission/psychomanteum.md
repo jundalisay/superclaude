@@ -1,7 +1,7 @@
 ---
 title: "Psychomanteum"
 weight: 441
-image: /photos/physics/mirror.jpg
+image: /photos/psych/mirror.jpg
 description: "Psychomanteum"
 ---
 

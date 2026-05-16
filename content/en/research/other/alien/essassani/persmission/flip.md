@@ -1,7 +1,7 @@
 ---
 title: "Flipping the Switch"
 weight: 4
-# image: /graphics/meta/sirius.jpg
+image: /photos/meta/ideal.jpg
 c: "darkslategray"
 description: ""
 ---

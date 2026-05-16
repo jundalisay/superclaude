@@ -1,7 +1,7 @@
 ---
 title: "Most Powerful Mantra"
 weight: 44
-image: /photos/physics/mirror.jpg
+image: /photos/meta/creed.jpg
 description: "I am who I am, and that is enough"
 ---
 

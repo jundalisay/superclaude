@@ -6,6 +6,8 @@ description: ""
 ---
 
 
+## The Levels
+
 1. Oversoul (Non-Physical / 7th Density / highest vibration )
 
 This is a collection of many Individual Souls; a multi-dimensional, simultaneous awareness.
@@ -44,7 +46,7 @@ The final output/materialization of the previous eight levels.
 
 
 
-**beliefs --> feelings --> thoughts --> behavior --> reality**
+`beliefs --> feelings --> thoughts --> behavior --> reality`
 
 
 

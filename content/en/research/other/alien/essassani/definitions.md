@@ -42,7 +42,6 @@ obsession | a desire that is unattainable
 Thing | Meaning or Representation
 --- | ---
 Horse | the new way
-Dragon | 
 Dog | service
 green | color of heart chakra
 9 | border (to the Sassani, the speed of light reduces to nine)
@@ -50,6 +49,7 @@ green | color of heart chakra
 salt | neutralizer
 water | (in dreams) flow of emotions
 
+<!-- Dragon |  -->
 
 
 ## Words 
@@ -61,6 +61,7 @@ Bashar | Messenger
 Essassani | Place of living light
 Sassani | Living light
 Elan | Eagerness for Action; One that represents the whole
+Enani | Humans (to the Sassani)
 
-
+ 
 
