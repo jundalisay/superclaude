@@ -12,12 +12,6 @@ toc: false
 ---
 
 
-
-
-
-
-
-
 <!-- ## Rent Cycle
 
 ## Donation Cycle

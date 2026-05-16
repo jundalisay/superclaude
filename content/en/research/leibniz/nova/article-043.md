@@ -11,21 +11,41 @@ weight: 17
 
 
 
-**36. Antipathic motion** (I speak of sense and appearance, for if you look at the interiors, there is in bodies neither antipathy nor sympathy) is **reaction**, by whose most subtle varieties most things in the nature of things are performed...[cite: 1]
+**36. Antipathic motion** 
+
+(I speak of sense and appearance, for if you look at the interiors, there is in bodies neither antipathy nor sympathy) is **reaction**, by whose most subtle varieties most things in the nature of things are performed...[cite: 1]
 
 
 [40]
 
-...Only two types of reactions were generally known to the ancients: **deflagration** (to which belongs the battle of fire and water) and **fermentation**.[cite: 1] But our chemists have not only uncovered that very powerful reaction of gold-producing powder, as well as that of sulfur and nitre mentioned before, but have also detected innumerable others, and they acknowledge that reaction is the most powerful instrument of nature.[cite: 1]
+Only 2 types of reactions were generally known to the ancients:
 
-**37. From this now arises that "embrace of the white and the red"** (or of the male and female) of the ancient chemists; hence the "fighters" of **Basil Valentine**; hence the chanted three principles of **Isaac Hollandus**, **Brother Basil**, and **Paracelsus**; the *Gas*, *Blas*, and *Archaeus* of **Helmont**; the *Triumviral Humor* of **Sylvius**; the *perfect and imperfect* of **Glauber**; the *Acid and Alkali* of **Tachenius**; and the *acid and salt* of **Travagini**—all of which certainly fall back to the same thing.[cite: 1]
+1. **Deflagration** 
 
-**38. Hence that saying of Basil:**
+(to which belongs the battle of fire and water) 
+
+2. **Fermentation**
+
+But our chemists have not only uncovered that very powerful reaction of gold-producing powder, as well as that of sulfur and nitre mentioned before, but have also detected innumerable others, and they acknowledge that reaction is the most powerful instrument of nature.
+
+
+<sup>37</sup> From this now arises that "embrace of the white and the red"** (or of the male and female) of the ancient chemists; hence the "fighters" of **Basil Valentine**.
+
+Hence the chanted 3 principles of **Isaac Hollandus**, **Brother Basil**, and **Paracelsus**
+
+The *Gas*, *Blas*, and *Archaeus* of **Helmont**; the *Triumviral Humor* of **Sylvius**.
+
+The *perfect and imperfect* of **Glauber**; the *Acid and Alkali* of **Tachenius**; and the *acid and salt* of **Travagini**—all of which certainly fall back to the same thing.[cite: 1]
+
+
+<sup>38</sup> Hence that saying of Basil:
 
 > *What are two, what are three, are reduced to the same one,*[cite: 1]
 > *Which if you do not grasp, they are all nothing to you.*[cite: 1]
 
 But most of these things are proposed so intricately and ambiguously that it has hardly been possible, or not even hardly, to obtain constant definitions of the terms until now.[cite: 1] The most learned **Robert Boyle** egregiously attacked this variation in his *Sceptical Chymist*.[cite: 1]
+
+
 
 **39. Therefore, in truth, there is only the reaction of two things in our globe:** of the **Exhausted and the Distended**, or, to speak with **Democritus**, of the **void and the full**...[cite: 1]
 

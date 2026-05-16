@@ -3,7 +3,7 @@ heading: "Unit 4"
 title: "Corporations"
 # date: 2022-01-22
 weight: 12
-image: /photos/econ/computer.jpg
+image: /photos/econ/stock.jpg
 description: ""
 writer:
   name: Juan
