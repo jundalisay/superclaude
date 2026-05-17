@@ -2,6 +2,7 @@
 title: The Motion of Bodies
 heading: "Propositions 32-35"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "Body B, under the same conditions as previously, cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion"
 writer:
   name: Spinoza

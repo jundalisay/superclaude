@@ -12,7 +12,7 @@ description: "We can only have a very inadequate knowledge of the duration of pa
 
 
 
-### 43. A person who has a true idea simultaneously knows that he has a true idea, and cannot doubt of the truth of the thing perceived.
+## 43. A person who has a true idea simultaneously knows that he has a true idea, and cannot doubt of the truth of the thing perceived.
 
 Proof: A true idea in us is an idea which is adequate in God, in so far as he is displayed through the nature of the human mind (2.11. Coroll.).
 
@@ -73,7 +73,7 @@ We may add that our mind, as it perceives things truly, is part of the infinite 
 Therefore, the mind's clear and distinct ideas are as necessarily true as God's ideas. -->
 
 
-### 44. It is not in the nature of reason to regard things as contingent, but as necessary.
+## 44. It is not in the nature of reason to regard things as contingent, but as necessary.
 
 Proof: It is in the nature of reason to perceive things truly (2.41), namely (1. Ax. 6.), as they are in themselves—that is (1.29.), not as contingent, but as necessary. Q.E.D.  -->
 

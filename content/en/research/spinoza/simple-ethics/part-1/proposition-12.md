@@ -10,7 +10,7 @@ description: "Intellect, in function (actu) finite, or in function infinite, mus
 ---
 
 
-### 12. No attribute of substance can be conceived from which it would follow that substance can be divided. 
+## 12. No attribute of substance can be conceived from which it would follow that substance can be divided. 
 
 Proof:  The parts into which substance as thus conceived would be divided either will retain the nature of substance, or they will not.
 
@@ -21,7 +21,7 @@ Moreover, the parts (by Prop. 2) would have nothing in common with their whole, 
 If we adopt the second alternative—namely, that the parts will not retain the nature of substance—then, if the whole substance were divided into equal parts, it would lose the nature of substance, and would cease to exist, which (by Prop. 7) is absurd. -->
 
 
-### 13. Substance absolutely infinite is indivisible.
+## 13. Substance absolutely infinite is indivisible.
 
 Proof: If it could be divided, the parts into which it was divided would either retain the nature of absolutely infinite substance, or they would not.
 
@@ -52,7 +52,7 @@ Corollary 1: Clearly, therefore=  1. God is one, that is (by Def. 6) only one su
 Corollary 2: It follows 2. That extension and thought are either attributes of God or (by Axiom 1) accidents (affectiones) of the attributes of God.
 
 
-### 15. Whatsoever is, is in God, and without God nothing can be, or be conceived.
+## 15. Whatsoever is, is in God, and without God nothing can be, or be conceived.
 
 Proof: Besides God, no substance is granted or can be conceived (by Prop. 14), that is (by Def. 3) nothing which is in itself and is conceived through itself.
 
@@ -61,11 +61,15 @@ But modes (by Def. 5) can neither be, nor be conceived without substance; wheref
 But substances and modes form the sum total of existence (by Axiom 1), therefore, without God nothing can be, or be conceived. Q.E.D.
 
 Note: Some assert that God, like a man, consists of body and mind, and is susceptible of passions.
+
 How far such persons have strayed from the truth is sufficiently evident from what has been said.
+
 But these I pass over.
 
 For all who have in anywise reflected on the divine nature deny that God has a body.
+
 Of this they find excellent proof in the fact that we understand by body a definite quantity, so long, so broad, so deep, bounded by a certain shape, and it is the height of absurdity to predicate such a thing of God, a being absolutely infinite.
+
 But meanwhile by other reasons with which they try to prove their point, they show that they think corporeal or extended substance wholly apart from the divine nature, and say it was created by God.
 
 Wherefrom the divine nature can have been created, they are wholly ignorant; thus they clearly show, that they do not know the meaning of their own words.
@@ -149,12 +153,19 @@ I answer that quantity is conceived by us in two ways:
 - as substance, as we conceive it solely by the intellect.
 
 If, then, we regard quantity as it is represented in our imagination, which we often and more easily do, we shall find that it is finite, divisible, and compounded of parts;
-but if we regard it as it is represented in our intellect, and conceive it as substance, which it is very difficult to do, we shall then, as I have sufficiently proved, find that it is infinite, one, and indivisible.
+
+But if we regard it as it is represented in our intellect, and conceive it as substance, which it is very difficult to do, we shall then, as I have sufficiently proved, find that it is infinite, one, and indivisible.
+
 This will be plain enough to all who make a distinction between the intellect and the imagination, especially if it be remembered, that matter is everywhere the same, that its parts are not distinguishable, except in so far as we conceive matter as diversely modified, whence its parts are distinguished, not really, but modally.
+
 For instance, we conceive water, as it is water, to be divided.
+
 Its parts are separated from one another, but not in so far as it is extended substance.
+
 From this point of view, it is neither separated nor divisible.
+
 Further, water, as it is water, is produced and corrupted.
+
 But, as it is substance, it is neither produced nor corrupted.
 
 I have now answered the second argument.
@@ -167,7 +178,8 @@ All things are in God.
 
 All things which come to pass:
 - come to pass solely through the laws of the infinite nature of God, and
-follow from the necessity of his essence.
+- follow from the necessity of his essence.
+
 Wherefore it can in nowise be said, that God is passive in respect to anything other than himself, or that extended substance is unworthy of the Divine nature, even if it be supposed divisible, so long as it is granted to be infinite and eternal.
 
 

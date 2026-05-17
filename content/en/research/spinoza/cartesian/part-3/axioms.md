@@ -2,6 +2,7 @@
 heading: Axioms
 title: "Spinoza's Assumptions"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "We must devise such principles that are the simplest and easiest to know"
 writer:
   name: Spinoza

@@ -2,6 +2,7 @@
 heading: Chapter 9b
 title: "Taxes in an Aristocracy"
 c: "seagreen"
+icon: "Spinoza"
 description: "No taxes are to be imposed by the senate on the subjects"
 writer:
   name: Spinoza

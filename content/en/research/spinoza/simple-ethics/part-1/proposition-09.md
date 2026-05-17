@@ -10,9 +10,9 @@ description: "Intellect, in function (actu) finite, or in function infinite, mus
 ---
 
 
-### 9. The more reality or being a thing has, the greater the number of its attributes (Def. 4). 
+## 9. The more reality or being a thing has, the greater the number of its attributes (Def. 4). 
 
-### 10. Each particular attribute of the one substance must be conceived through itself.
+## 10. Each particular attribute of the one substance must be conceived through itself.
 
 Proof: An attribute is that which the intellect perceives of substance, as constituting its essence (Def. 4), and, therefore, must be conceived through itself (Def. 3). Q.E.D. 
 
@@ -36,7 +36,7 @@ If anyone now ask, by what sign shall he be able to distinguish different substa
 {{< /box >}}
 
 
-### 11. God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists.
+## 11. God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists.
     
 Proof 1: If this is denied, think that God does not exist and therefore his essence does not involve existence. But Prop. 7 says this is absurd.
 Therefore, God necessarily exists.

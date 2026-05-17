@@ -3,6 +3,7 @@
 heading: Propositions 16-21 
 title: "The Temporal and Spatial Properties of God"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -2,6 +2,7 @@
 heading: "Propositions 19-24"
 title: "The Laws of Motion"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "Motion, regarded in itself, is different from its determination toward a certain direction"
 writer:
   name: Spinoza

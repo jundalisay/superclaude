@@ -2,6 +2,7 @@
 heading: Chapter 3
 title: "Sovereign Powers"
 c: "seagreen"
+icon: "Spinoza"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

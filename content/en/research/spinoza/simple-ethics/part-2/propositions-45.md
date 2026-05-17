@@ -12,7 +12,7 @@ description: "We can only have a very inadequate knowledge of the duration of pa
 
 
 
-### 45. Every idea of every body, or of every particular thing actually existing, necessarily involves God's eternal and infinite essence. 
+## 45. Every idea of every body, or of every particular thing actually existing, necessarily involves God's eternal and infinite essence. 
 
 Proof: The idea of a particular thing actually existing necessarily involves both the existence and the essence of the said thing (2.8).
 
@@ -29,14 +29,14 @@ I am speaking of the very existence of particular things, in so far as they are 
 For although each particular thing be conditioned by another particular thing to exist in a given way, yet the force whereby each particular thing perseveres in existing follows from the eternal necessity of God's nature (cf. 1.24. Coroll.).
 
 
-### 46. The knowledge of the eternal and infinite essence of God which every idea involves is adequate and perfect. 
+## 46. The knowledge of the eternal and infinite essence of God which every idea involves is adequate and perfect. 
 
 Proof: The proof of the last proposition is universal; and whether a thing be considered as a part or a whole, the idea thereof, whether of the whole or of a part (by the last Prop.), will involve God's eternal and infinite essence.
 
 Wherefore, that, which gives knowledge of the eternal and infinite essence of God, is common to all, and is equally in the part and in the whole; therefore (2.38) this knowledge will be adequate. Q.E.D
 
 
-### 47. The human mind has an adequate knowledge of the eternal and infinite essence of God.
+## 47. The human mind has an adequate knowledge of the eternal and infinite essence of God.
 
 Proof: The human mind has ideas (2.22), from which (2.23) it perceives itself and its own body (2.19.) and external bodies (2.16. Coroll. i. and II. xvii.) as actually existing;
 
@@ -67,7 +67,7 @@ As a matter of fact, they flatly contradict themselves.
 They assume now one side, now another, of the argument, so as to oppose the opinions, which they consider mistaken and absurd in their opponents.
 
 
-### 48. In the mind there is no absolute or free will. But the mind is determined to wish this or that by a cause, which has also been determined by another cause, and this last by another cause, and so on to infinity.
+## 48. In the mind there is no absolute or free will. But the mind is determined to wish this or that by a cause, which has also been determined by another cause, and this last by another cause, and so on to infinity.
 
 Proof: The mind is a fixed and definite mode of thought (2.11), therefore it cannot be the free cause of its actions (1.17 Coroll. 2).
 
@@ -94,7 +94,7 @@ On which subject see the following proposition, and 2. Def. 3, lest the idea of 
 For by ideas, I do not mean images such as are formed at the back of the eye, or in the midst of the brain, but the conceptions of thought.
 
 
-### 49. There is no volition or affirmation and negation in the mind, save that which an idea, as it is an idea, involves. 
+## 49. There is no volition or affirmation and negation in the mind, save that which an idea, as it is an idea, involves. 
 
 Proof: There is no absolute faculty of positive or negative volition in the mind.
 

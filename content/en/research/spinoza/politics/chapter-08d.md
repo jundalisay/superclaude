@@ -2,6 +2,7 @@
 heading: Chapter 8d
 title: "The Supreme Council and Syndics"
 c: "seagreen"
+icon: "Spinoza"
 description: "To ensure that all patricians stand on equal terms in making decisions and in electing ministers of state"
 writer:
   name: Spinoza

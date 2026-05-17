@@ -2,6 +2,7 @@
 # heading: Axioms
 title: "Axioms and Lemmas"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "To nothing there belong no properties"
 writer:
   name: Spinoza

@@ -2,6 +2,7 @@
 heading: "Propositions 1-5"
 title: There are no vacuums nor atoms
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "The nature of body or matter consists only in extension"
 writer:
   name: Spinoza

@@ -2,6 +2,7 @@
 heading: Introduction 2
 title: "Liberation from All Doubts"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "To remove all doubt, Descartes asks into the nature of the most perfect Being, and whether such exists"
 writer:
   name: Spinoza

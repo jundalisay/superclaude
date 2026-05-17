@@ -2,6 +2,7 @@
 heading: Chapter 10
 title: "Aristocracy: Its Organisation"
 c: "seagreen"
+icon: "Spinoza"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
@@ -77,12 +78,12 @@ months. While Machiavelli (Discourses J, 34) held that thiS was highly beneficia
 ChapteT 10 749
  -->
 
-[3J Now at Rome the tribunes of the people were also in continuous office.5
+[3] At Rome the tribunes of the people were also in continuous office.5
+
 But they were not equal to the task of restraining the power of a Scipio; and furthermore, such measures as they thought salutary they were obliged to submit to
-the senate, who often frustrated their efforts by ensuring that the tribune from
-whom the senators had less to fear would be the one most in favour with the commons 6 In addition, the authority of the tribunes as against the patricians depended on the support of the commons, and whenever the tribunes summoned
-a meeting of the commons they appeared to be raising a revolt rather than convoking a council. Troubles of this kind, naturally, have no place in the state we
+the senate, who often frustrated their efforts by ensuring that the tribune from whom the senators had less to fear would be the one most in favour with the commons 6 In addition, the authority of the tribunes as against the patricians depended on the support of the commons, and whenever the tribunes summoned a meeting of the commons they appeared to be raising a revolt rather than convoking a council. Troubles of this kind, naturally, have no place in the state we
 have described in the last two Chapters.
+
 [4 J However, the authority of the syndics can effect only this, that the form of
 the state is preserved, thus ensuring that the laws are not broken and that no one
 is permitted to profit from transgression. But it will certainly not be able to prevent the proliferation of vices that cannot be forbidden by law, such as those to
@@ -92,6 +93,7 @@ cultured, and from being cultured they become soft and sluggish, seeking to outd
 one another not in virtue but in arrogance and extravagance. Hence they begin
 to despise the ways of their ancestors and to adopt foreign ways; that is, they begin
 to be slaves.8
+
 [5J To prevent these evils, many attempts have been made to establish sumptuary laws, but in vain 9 For all laws that can be broken without injury to another
 become a laughingstock, and far from restraining the desires and lusts of men,
 they even stimulate them, because "we are ever eager for what is forbidden and
@@ -100,4 +102,3 @@ to deal with things that cannot be absolutely forbidden, such things as banquets
 gaming, personal adornment, and so forth, which are bad only when excessive
 and should be be judged in relation to the individual's fortune, and thus cannot
 be the subject of a general law.
-

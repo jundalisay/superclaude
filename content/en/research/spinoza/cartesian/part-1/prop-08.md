@@ -2,6 +2,7 @@
 heading: Propositions 8-14
 title: "The Properties of God"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "God is a supremely understanding being"
 writer:
   name: Spinoza

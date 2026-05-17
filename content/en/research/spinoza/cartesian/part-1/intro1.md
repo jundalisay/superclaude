@@ -2,6 +2,7 @@
 heading: Introduction 1
 title: "Doubt Concerning All Things"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "Why did Descartes doubt everything?"
 writer:
   name: Spinoza

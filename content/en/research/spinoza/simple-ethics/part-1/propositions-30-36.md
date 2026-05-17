@@ -11,7 +11,7 @@ description: "Intellect, in function (actu) finite, or in function infinite, mus
 
 
 
-### 30. Intellect, in function (actu) finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else.
+## 30. Intellect, in function (actu) finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else.
 
 Proof: A true idea must agree with its object (Axiom 6).
 
@@ -22,7 +22,7 @@ But in nature (by Prop. 14, Coroll. 1) there is no substance save God, nor any m
 Therefore the intellect, in function finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else. Q.E.D.
 
 
-### 31. The intellect in function, whether finite or infinite, as will, desire, love, etc., should be referred to passive nature and not to active nature. 
+## 31. The intellect in function, whether finite or infinite, as will, desire, love, etc., should be referred to passive nature and not to active nature. 
 
 Proof: By the intellect we do not (obviously) mean absolute thought, but only a certain mode of thinking, differing from other modes, such as love, desire, etc., and therefore (Def. 5) requiring to be conceived through absolute thought.
 
@@ -41,7 +41,7 @@ For we cannot perceive anything without adding to our knowledge of the act of un
 {{< /box >}}
 
 
-### 32. Will cannot be called a free cause, but only a necessary cause. 
+## 32. Will cannot be called a free cause, but only a necessary cause. 
 
 Proof: Will is only a particular mode of thinking, like intellect; therefore (by Prop. 28) no volition can exist, nor be conditioned to act, unless it be conditioned by some cause other than itself, which cause is conditioned by a third cause, and so on to infinity.
 
@@ -67,7 +67,7 @@ But God cannot on that account be said to act from freedom of the will, any more
 This is why 'will' no more appertains to God than does anything else in nature, but stands in the same relation to him as motion, rest, and the like, which we have shown to follow from the necessity of the divine nature, and to be conditioned by it to exist and act in a particular manner.
 
 
-### 33. Things could not have been brought into being by God in any manner or in any order different from that which has in fact obtained. 
+## 33. Things could not have been brought into being by God in any manner or in any order different from that which has in fact obtained. 
 
 Proof: All things necessarily follow from the nature of God (Prop. 16), and by the nature of God are conditioned to exist and act in a particular way (Prop. 29).
 
@@ -147,19 +147,19 @@ For these latter persons seem to set up something beyond God, which does not dep
 This is only another name for subjecting God to the dominion of destiny, an utter absurdity in respect to God, whom we have shown to be the first and only free cause of the essence of all things and also of their existence. I need, therefore, spend no time in refuting such wild theories.
 
 
-### 34. God's power is identical with his essence. 
+## 34. God's power is identical with his essence. 
 
 Proof: From the sole necessity of the essence of God it follows that God is the cause of himself (Prop. 11) and of all things (Prop. 16 and Coroll.).
 
 Wherefore the power of God, by which he and all things are and act, is identical with his essence. Q.E.D.
 
 
-### 35. Whatsoever we conceive to be in the power of God, necessarily exists. 
+## 35. Whatsoever we conceive to be in the power of God, necessarily exists. 
 
 Proof: Whatsoever is in God's power, must (by the last Prop.) be comprehended in his essence in such a manner, that it necessarily follows therefrom, and therefore necessarily exists. Q.E.D. 
 
 
-### 36. There is no cause from whose nature some effect does not follow. 
+## 36. There is no cause from whose nature some effect does not follow. 
 
 Proof: Whatsoever exists expresses God's nature or essence in a given conditioned manner (by Prop. 25, Coroll.). That is, (by Prop. 34), whatsoever exists, expresses in a given conditioned manner God's power, which is the cause of all things, therefore an effect must (by Prop. 26) necessarily follow. Q.E.D.
 

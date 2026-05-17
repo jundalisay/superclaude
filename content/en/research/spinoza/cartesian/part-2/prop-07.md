@@ -2,6 +2,7 @@
 heading: "Propositions 7-11"
 title: "There is No Void in Nature"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "No body moves into the place of another body unless that other body moves into the place of another body at the same time"
 writer:
   name: Spinoza

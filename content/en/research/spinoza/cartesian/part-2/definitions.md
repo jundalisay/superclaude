@@ -1,6 +1,7 @@
 ---
 title: "Definitions by Spinoza"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "Here the only requirement is that everyone should attend to his perceptions as accurately as possible"
 writer:
   name: Spinoza

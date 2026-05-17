@@ -2,6 +2,7 @@
 heading: Chapter 8d
 title: "The Supreme Council and Syndics"
 c: "seagreen"
+icon: "Spinoza"
 description: "The right to summon the supreme council and submit matters for its decision lies with the syndics"
 writer:
   name: Spinoza

@@ -2,6 +2,7 @@
 title: How to Prove the Existence of God
 heading: Proposition 7
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "The existence of God is also proved from the fact that we ourselves exist while having the idea of him"
 writer:
   name: Spinoza

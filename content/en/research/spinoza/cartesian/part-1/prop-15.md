@@ -2,6 +2,7 @@
 heading: Proposition 15
 title: "Error is Caused by our Lack of Will or Desire"
 c: "darkgoldenrod"
+icon: "Spinoza"
 description: "The will is never more perfect and more free than when it completely determines itself"
 writer:
   name: Spinoza

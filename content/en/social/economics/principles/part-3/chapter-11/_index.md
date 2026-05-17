@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 11"
-title: The Thinker Class
+title: Thinker Economic Systems
 linkTitle: Thinkers
-description: The Third Law of Value in Supereconomics is from the thinker class
+description: 
 image: /photos/stuff/lhc.jpg
 date: 2022-01-28
 weight: 108
