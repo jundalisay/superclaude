@@ -59,17 +59,19 @@ Finally, if the boundaries of the striking and receiving things are compared, th
 
 21. One body is constituted by parts which are to remain contiguous to themselves for some time.
 
-22. Parts cohere** of which, when one is moved, the others are moved.
+22. Parts cohere of which, when one is moved, the others are moved.
 
-23. Flexion** is a mutation concerning rectitude and curvature. **(24.) A face** is every extremity of a thing which can be touched by another in one region, or which can be cut off entirely by a straight line. 
+23. Flexion is a mutation concerning rectitude and curvature. **(24.) A face** is every extremity of a thing which can be touched by another in one region, or which can be cut off entirely by a straight line. 
 
-25. Hardness** is a cohesion not superable by a small motion. **(26.) A simple figure** is one of which any face is closed by one line or surface. 
+25. Hardness is a cohesion not superable by a small motion.
+
+26. A simple shape is one of which any face is closed by one line or surface. 
 
 27. One line or surface** is that which can be made by one motion.
 
 28. Motion is one**, prior and posterior, if the continuation is made spontaneously, or through itself, even if no extrinsic impulse is added. 
 
-29. A wheel-shaped body** is that which can be moved so that it does not leave its place—that is, so that it comes into no part of itself where some part of it has not already been—such as the motion of the **Celestial Orbs** believed by the ancients, and which can only exist in a plenum.
+29. A wheel-shaped body is that which can be moved so that it does not leave its place—that is, so that it comes into no part of itself where some part of it has not already been—such as the motion of the **Celestial Orbs** believed by the ancients, and which can only exist in a plenum.
 
 
 
