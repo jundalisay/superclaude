@@ -77,7 +77,10 @@ The striking thing and that into which it has struck, as far as...
 
 [20]**
 
-...the same direction, with the prior speed of the striking body being preserved. **3.** If a body strikes another which is moving more slowly in the same direction, it increases the speed of the other so that they both proceed with the speed of the striking body. **4. If a body strikes another resting body of the same magnitude, it gives its whole motion to it and itself rests**, provided they are both in a plenum and there is no other obstacle. This is the reason why motion is transferred through a series of contiguous globes.
+...the same direction, with the prior speed of the striking body being preserved. 
+
+
+**3.** If a body strikes another which is moving more slowly in the same direction, it increases the speed of the other so that they both proceed with the speed of the striking body. **4. If a body strikes another resting body of the same magnitude, it gives its whole motion to it and itself rests**, provided they are both in a plenum and there is no other obstacle. This is the reason why motion is transferred through a series of contiguous globes.
 
 <sup>5</sup> Reflection is not a motion through itself, but is composed of a new impulse**. For when a body strikes an obstacle that it cannot move, the aether, which is compressed between the body and the obstacle, restores itself with a swifter motion and repels the body in the opposite direction. Hence it follows that in the absolute geometry of motion, there is no reflection without an external elastic cause. **6.** Every body which is moved in a plenum carries with it a part of the surrounding matter, and thus forms a certain "vortex" or "sphere of activity" around itself.
 
