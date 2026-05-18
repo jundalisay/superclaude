@@ -147,3 +147,9 @@ These created vibrations that exploded their planet.
 
 This led to the infusion of consciounsess on Earth causing the start of humans (Homo erecuts?) on Earth. 
 
+
+
+
+Ra oversees the genetic programs
+
+Thoth oversees the education of the created humans

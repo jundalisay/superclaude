@@ -82,6 +82,34 @@ Sassani have a population of 250m
 Triangle shape is for smaller craft and is designed for stability for interdimensional travel.
 
 
+
+## Spacetime Antennae
+
+The copper coils should be:
+- insulated
+- connected at both ends. 
+
+The shape of the thing will produce energy. 
+
+Connect a battery to the 2 coils with graphene (that will short it) or use a powerful inductive field. This will create a radiant field in the antenna. 
+
+
+## Advanced Fusion Level: Spinning Noble Gas Plasma
+
+Make an ovoid torus container filled with noble gas plasma.
+
+The container is an by an alloy of  aluminum, boron, Neodynimum, copper in a nanoglass matrix suspended with double layer graphene.
+
+Introduce a powerful induction currrent.
+
+This will create an electromagentic field around the torus. 
+
+Nanoglass -- can change form and absorb energies and shift in real time to handle the fluctuations in energy field. It's a new kind of containment of the plasma. 
+
+
+<!-- 33 cm with 33 turns? -->
+
+
 ## UFOs 
 
 ### Physical
@@ -103,3 +131,13 @@ Tictac submarines
 
 
 ### Non-Physical
+
+
+
+
+## Crystal Skulls
+
+Connected to Draco energy.
+
+
+

@@ -3,13 +3,96 @@ heading: "Section 1"
 title: "The Shariah Economy"
 date: 2022-01-11
 weight: 3
-image: /photos/econ/writer.jpg
+image: /photos/medieval/arab.jpg
 description: "In the process of the evolution of a society, the thinking class emerges from the worker and warrior classes"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
+
+
+The economic system derived from **Shariah** (Islamic law) is rooted in:
+- the Quran
+- the Sunnah (teachings of Prophet Muhammad)
+- centuries of Islamic jurisprudence
+
+This makes it a product of the Thinker class.
+
+
+Unlike capitalism (which prioritizes individual accumulation) or socialism (which prioritizes state distribution), Shariah economics aims for **moral and social justice** by aligning financial activity with religious principles.
+
+
+
+## Core Principles
+
+1. **Prohibition of Interest (Riba)**
+
+The most distinctive feature is the absolute ban on *riba* — charging or paying interest on loans. In Islamic finance, money is not a commodity to be rented; it is merely a medium of exchange. Earning money from money alone (without risk or labor) is considered exploitative.
+
+This matches the 4th Law of Value as fair exchange
+
+
+2. **Risk-Sharing (Mudarabah and Musharakah)**
+
+Instead of debt, Shariah economics encourages profit-and-loss sharing. In a *mudarabah* contract, one party provides capital, the other provides expertise, and profits are shared according to a pre-agreed ratio. Losses are borne solely by the capital provider. In *musharakah*, all partners contribute capital and share profits or losses proportionally.
+
+This matches the 1st Law of Value
+
+3. **Asset-Backing (Tangibility)**
+
+Every financial transaction must be backed by a real, identifiable asset (goods, services, property). Pure speculation (*gharar* — excessive uncertainty) and gambling (*maysir*) are forbidden. Derivatives, short-selling, and many conventional insurance products are prohibited.
+
+This matches the 2nd Law of Value
+
+
+4. **Prohibition of Harmful Industries**
+
+Investment is forbidden in businesses involving alcohol, pork, pornography, gambling, conventional weapons of mass destruction, and interest-based financial institutions. Commerce must be ethical and socially beneficial.
+
+This matches the 3rd Law of Value.
+
+
+5. **Zakat (Wealth Redistribution)**
+
+A mandatory annual levy (typically 2.5% of idle wealth) is collected from the wealthy and distributed to eight specified categories, including the poor, the needy, debtors, and travelers in distress. This functions as a divinely mandated wealth tax.
+
+This matches the 3rd Law of Value
+
+
+## Effects of the Shariah Economic System
+
+**Positive Effects**
+- **Financial stability:** The ban on interest and speculation reduces leverage, debt bubbles, and systemic crises similar to the 2008 global financial crash. Islamic banks remained comparatively resilient during that period.
+- **Real-economy focus:** Capital is directed toward productive trade, construction, and manufacturing rather than financial engineering.
+- **Reduced inequality:** Zakat institutionalizes redistribution, while inheritance laws disperse wealth across heirs rather than allowing dynastic hoarding.
+- **Ethical discipline:** Investors avoid socially destructive industries, aligning commerce with community welfare.
+
+**Challenges and Criticisms**
+- **Limited liquidity:** Without a conventional interbank lending market, Islamic banks can face liquidity shortages.
+- **Higher transaction costs:** Structuring Shariah-compliant products (e.g., *sukuk* bonds instead of conventional bonds) requires more legal and clerical work.
+- **Risk of formalism:** Some modern “Islamic” financial products mimic conventional loans through legal artifices (e.g., *murabaha* — cost-plus financing), leading critics to question whether the spirit or only the letter of Shariah is followed.
+- **Slower growth potential:** Conservative risk-taking may underperform in high-growth, credit-driven economies.
+
+
+## Historical and Contemporary Examples
+
+**The Ottoman Empire (14th–20th centuries)** operated state finances, trade, and waqf (charitable trust) systems under Shariah principles for centuries. The *waqf* system funded schools, hospitals, and public fountains without government debt or interest-bearing bonds.
+
+**The Ottoman Empire (14th–20th centuries)** operated state finances, trade, and waqf (charitable trust) systems under Shariah principles for centuries. The *waqf* system funded schools, hospitals, and public fountains without government debt or interest-bearing bonds.
+
+**Modern Islamic Banking (from 1970s)** – The Dubai Islamic Bank (1975) and the Islamic Development Bank (1975) institutionalized Shariah-compliant finance. Today, over 500 Islamic financial institutions operate across 60 countries, with assets exceeding $2 trillion.
+
+**Malaysia** has developed the most sophisticated dual banking system (conventional and Islamic), issuing *sukuk* (Islamic bonds) that represent partial ownership of an asset, not interest-bearing debt.
+
+**Iran and Sudan** adopted full Shariah-based economies constitutionally, though their isolation from global markets and political factors complicate assessment.
+
+**Sukuk (Islamic bonds)** – Instead of paying interest, a *sukuk* holder owns a proportionate share of a leased asset (e.g., a building or highway) and earns rental income. The largest *sukuk* markets exist in Saudi Arabia, Malaysia, Indonesia, and the UAE.
+
+
+<!-- ## Conclusion
+
+The Shariah economic system is not a relic of the past but a living alternative to interest-based capitalism. Its principles of asset-backing, risk-sharing, and mandatory charity produce greater stability and ethical constraint at the cost of financial complexity and slower expansion. Whether viewed as a moral framework or a practical model, Shariah economics demonstrates that religious law and commerce can be integrated without surrendering either justice or profitability. -->
 
 <!-- In the process of the evolution of a society, the thinking class emerges from the worker and warrior classes. This class excels in learning, medicine, organization, and administration, so essential for the maintenance of any society. 
 

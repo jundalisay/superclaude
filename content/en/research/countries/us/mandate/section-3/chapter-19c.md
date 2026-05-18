@@ -16,48 +16,37 @@ Remove or reform rules and regulations that hamper state governments.
 
 Reduce the amount of federal involvement in local infrastructure decisions.
 
-The Federal Highway Administration (FHWA) has jurisdiction over the inter-
-state highway system, which is vital for the transportation of goods and people
-throughout the country. The FHWA, in conjunction with state DOTs, works to
-ensure the quality and safety of highways and bridges.
+The Federal Highway Administration (FHWA) has jurisdiction over the interstate highway system, which is vital for the transportation of goods and people throughout the country. The FHWA, in conjunction with state DOTs, works to ensure the quality and safety of highways and bridges.
 
-However, over the course of decades, presidential Administrations and Con- gress have caused the FHWA to go beyond its original mission. The variety of infrastructure projects now eligible for funding through the FHWA include fer- ryboat terminals, hiking trails, bicycle lanes, and local sidewalks. In many cases, such projects should be the sole responsibility of local or state governments, not dependent on FHWA funding. For local projects, federal involvement adds red tape and bureaucratic delays rather than value.
+However, over decades, presidential Administrations and Congress have caused the FHWA to go beyond its original mission.
 
-The Biden Administration has broadened the FHWA’s scope by emphasizing the priorities of progressive activists instead of pursuing practical goals. These policies include a focus on “equity,” a nebulous concept that in practice means awarding grants to favored identity groups, as well as imposing obligations on states concern- ing carbon dioxide emissions from highway traffic—areas not encompassed within FHWA’s statutory authorities.
+The variety of infrastructure projects now eligible for funding through the FHWA include ferryboat terminals, hiking trails, bicycle lanes, and local sidewalks.
 
-Furthermore, the Biden Administration’s embrace of the “Vision Zero” approach to safety often means actively seeking congestion for automobiles to reduce speeds. Finally, the Administration has sought to use a “guidance memo” to impose policies not enacted by Congress, most notably to make it harder for growing states to expand highway capacity. Instead, the next Administration should:
+In many cases, such projects should be the sole responsibility of local or state governments, not dependent on FHWA funding. For local projects, federal involvement adds red tape and bureaucratic delays rather than value.
+
+The Biden Administration:
+- has broadened the FHWA’s scope by emphasizing the priorities of progressive activists instead of pursuing practical goals. These policies include a focus on “equity,” a nebulous concept that in practice means awarding grants to favored identity groups, as well as imposing obligations on states concerning carbon dioxide emissions from highway traffic—areas not encompassed within FHWA’s statutory authorities.
+- embraced the “Vision Zero” approach to safety which often means actively seeking congestion for automobiles to reduce speeds.
+- has sought to use a “guidance memo” to impose policies not enacted by Congress, most notably to make it harder for growing states to expand highway capacity. Instead, the next Administration should:
 
 
 ### AVIATION
 
-Americans value the ability to travel safely and inexpensively by air. In the
-United States, the private sector has developed the world’s safest, most effective
-passenger and cargo air transport networks. Current policies threaten to undo that
-legacy and to strangle the development of new technologies such as drones and
-“advanced air mobility,” including small aircraft to serve as air taxis or to conduct
-quiet vertical flights.
+Americans value the ability to travel safely and inexpensively by air. 
 
-Starting in the 1970s, deregulation and increased competition turned air travel
-from a luxury to an affordable travel option enjoyed by most Americans. The United
-States has four major airlines, each with roughly 20 percent of the domestic market.
-They compete with each other over the vast majority of routes. Several smaller
-carriers provide additional competition and other options for travelers.
-The current Administration’s policies are self-contradictory. In order to pla-
-cate specific labor groups, the Biden Administration not only opposes the growth
-of the major airlines, which would reduce the price of air travel, but also opposes
-measures—such as low-fare foreign competition and joint ventures of smaller U.S.
-carriers—that would increase competition.
+In the United States, the private sector has developed the world’s safest, most effective passenger and cargo air transport networks. Current policies threaten to undo that legacy and to strangle the development of new technologies such as drones and “advanced air mobility,” including small aircraft to serve as air taxis or to conduct quiet vertical flights.
 
-Another problematic area is aviation consumer protection. Congress has autho-
-rized DOT to prohibit specific “unfair and deceptive practices” in the airline industry
-after undertaking a hearing process—authority exercised by the Office of Aviation
-Consumer Protection within the General Counsel’s Office. Beginning with the Obama
-Administration, this authority has been used to justify broad new regulations—in the
-name of achieving “fair” competition—that would impose burdensome disclosure
-mandates and other costly requirements without a sufficient process for gathering
-supporting evidence. The Trump Administration reformed the process for issuing
-such “unfair and deceptive practices” rules,9 but the Biden Administration promptly
-reversed those reforms.10 A new Administration should restore them.
+Starting in the 1970s, deregulation and increased competition turned air travel from a luxury to an affordable travel option enjoyed by most Americans. The United States has four major airlines, each with roughly 20 percent of the domestic market.
+
+They compete with each other over the vast majority of routes. Several smaller carriers provide additional competition and other options for travelers.
+The current Administration’s policies are self-contradictory. 
+
+In order to placate specific labor groups, the Biden Administration not only opposes the growth of the major airlines, which would reduce the price of air travel, but also opposes
+measures—such as low-fare foreign competition and joint ventures of smaller U.S. carriers—that would increase competition.
+
+Another problematic area is aviation consumer protection. Congress has authorized DOT to prohibit specific “unfair and deceptive practices” in the airline industry after undertaking a hearing process—authority exercised by the Office of Aviation Consumer Protection within the General Counsel’s Office. 
+
+Beginning with the Obama Administration, this authority has been used to justify broad new regulations—in the name of achieving “fair” competition—that would impose burdensome disclosure mandates and other costly requirements without a sufficient process for gathering supporting evidence. The Trump Administration reformed the process for issuing such “unfair and deceptive practices” rules,9 but the Biden Administration promptly reversed those reforms.10 A new Administration should restore them.
 
 In general, the next Administration should focus its efforts on making air
 travel more affordable and abundant, increasing safety, increasing competition
@@ -107,9 +96,9 @@ age airports in lower-served areas of the nation.
 
 International air travel is regulated and restricted by individual treaties between
 the United States and other countries. The new Administration should remain
-committed to the laudatory goal of “Open Skies.” However, many of the largest
-emerging markets are not fully open, and our aviation policies should reflect that
-reality and ensure that U.S. air carriers compete on a level playing field. Specifically,
+committed to the laudatory goal of “Open Skies.” 
+
+However, many of the largest emerging markets are not fully open, and our aviation policies should reflect that reality and ensure that U.S. air carriers compete on a level playing field. Specifically,
 so long as U.S. carriers are not able to fly over Russian airspace, the U.S. should not
 allow foreign carriers serving markets in East Asia and South Asia to enjoy a com-
 petitive advantage by continuing to allow them to fly to the U.S. China has failed to
@@ -117,8 +106,4 @@ put in place several of the policies to which it has already agreed; the U.S. sh
 not offer additional negotiations until the Chinese implement the agreements
 they have already signed.
 
-The current Administration’s policies in several areas that affect aviation and
-limit America’s future opportunities for growth are internally inconsistent. In
-addition to a New Entry Initiative, the new Administration should establish an
-interagency clearinghouse to drive consistent policies across the government on
-spectrum, drones, and advanced air mobility.
+The current Administration’s policies in several areas that affect aviation and limit America’s future opportunities for growth are internally inconsistent. In addition to a New Entry Initiative, the new Administration should establish an interagency clearinghouse to drive consistent policies across the government on spectrum, drones, and advanced air mobility.

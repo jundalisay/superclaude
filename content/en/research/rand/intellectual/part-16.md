@@ -13,61 +13,47 @@ writer:
 
 
 
-This is the speech that Howard Roark makes in his own defense, while on trial
-for having dynamited a government housing project under construction; he had
-designed the project for another architect, Peter Keating, on the agreement that
-it would be built exactly as he designed it; the agreement was broken by the
-government agency; the two architects had no recourse to law, not being
-permitted to sue the government.
+This is the speech that Howard Roark makes in his own defense, while on trial for having dynamited a government housing project under construction.
+
+He had designed the project for another architect, Peter Keating, on the agreement that it would be built exactly as he designed it.
+
+The agreement was broken by the government agency. The 2 architects had no recourse to law, not being permitted to sue the government.
 
 
-“Thousands of years ago, the first man discovered how to make fire. He was
-probably burned at the stake he had taught his brothers to light. He was
-considered an evildoer who had dealt with a demon mankind dreaded. But
-thereafter men had fire to keep them warm, to cook their food, to light their
-caves. He had left them a gift they had not conceived and he had lifted darkness
-off the earth. Centuries later, the first man invented the wheel. He was probably
-torn on the rack he had taught his brothers to build. He was considered a
-transgressor who ventured into forbidden territory. But thereafter, men could
+“Thousands of years ago, the first man discovered how to make fire. He was probably burned at the stake he had taught his brothers to light. He was considered an evildoer who had dealt with a demon mankind dreaded. 
+
+But thereafter men had fire to keep them warm, to cook their food, to light their caves. 
+
+He had left them a gift they had not conceived and he had lifted darkness off the earth. Centuries later, the first man invented the wheel. He was probably
+torn on the rack he had taught his brothers to build. He was considered a transgressor who ventured into forbidden territory. But thereafter, men could
 travel past any horizon. He had left them a gift they had not conceived and he
 had opened the roads of the world.
 
-“That man, the unsubmissive and first, stands in the opening chapter of every
-legend mankind has recorded about its beginning. Prometheus was chained to a
+“That man, the unsubmissive and first, stands in the opening chapter of every legend mankind has recorded about its beginning. Prometheus was chained to a
 rock and torn by vultures—because he had stolen the fire of the gods. Adam was
 condemned to suffer—because he had eaten the fruit of the tree of knowledge.
-Whatever the legend, somewhere in the shadows of its memory mankind knew
-that its glory began with one and that that one paid for his courage.
-“Throughout the centuries there were men who took first steps down new
-roads armed with nothing but their own vision. Their goals differed, but they all
-had this in common: that the step was first, the road new, the vision unborrowed,
-and the response they received—hatred. The great creators—the thinkers, the
-artists, the scientists, the inventors—stood alone against the men of their time.
-Every great new thought was opposed. Every great new invention was
-denounced. The first motor was considered foolish. The airplane was considered
-impossible. The power loom was considered vicious. Anesthesia was considered
-sinful. But the men of unborrowed vision went ahead. They fought, they suffered
-and they paid. But they won.
 
-“No creator was prompted by a desire to serve his brothers, for his brothers
-rejected the gift he offered and that gift destroyed the slothful routine of their
-lives. His truth was his only motive. His own truth, and his own work to achieve
-it in his own way. A symphony, a book, an engine, a philosophy, an airplane or a
-building—that was his goal and his life. Not those who heard, read, operated,
-believed, flew or inhabited the thing he had created. The creation, not its users.
-The creation, not the benefits others derived from it. The creation which gave
-form to his truth. He held his truth above all things and against all men.
-“His vision, his strength, his courage came from his own spirit. A man’s spirit,
-however, is his self. That entity which is his consciousness. To think, to feel, to
-judge, to act are functions of the ego.
+Whatever the legend, somewhere in the shadows of its memory mankind knew that its glory began with one and that that one paid for his courage.
 
-“The creators were not selfless. It is the whole secret of their power—that it
-was self-sufficient, self-motivated, self-generated. A first cause, a fount of
-energy, a life force, a Prime Mover. The creator served nothing and no one. He
-lived for himself.
+“Throughout the centuries there were men who took first steps down new roads armed with nothing but their own vision. Their goals differed, but they all had this in common: that the step was first, the road new, the vision unborrowed, and the response they received—hatred. 
 
-“And only by living for himself was he able to achieve the things which are
-the glory of mankind. Such is the nature of achievement.
+The great creators—the thinkers, the artists, the scientists, the inventors—stood alone against the men of their time. Every great new thought was opposed. Every great new invention was
+denounced. The first motor was considered foolish. The airplane was considered impossible. The power loom was considered vicious. Anesthesia was considered
+sinful. But the men of unborrowed vision went ahead. They fought, they suffered and they paid. But they won.
+
+“No creator was prompted by a desire to serve his brothers, for his brothers rejected the gift he offered and that gift destroyed the slothful routine of their lives. His truth was his only motive. His own truth, and his own work to achieve it in his own way. 
+
+A symphony, a book, an engine, a philosophy, an airplane or a building—that was his goal and his life. Not those who heard, read, operated, believed, flew or inhabited the thing he had created. The creation, not its users. 
+
+The creation, not the benefits others derived from it. The creation which gave form to his truth. He held his truth above all things and against all men. 
+
+“His vision, his strength, his courage came from his own spirit. A man’s spirit, however, is his self. That entity which is his consciousness. To think, to feel, to judge, to act are functions of the ego.
+
+“The creators were not selfless. It is the whole secret of their power—that it was self-sufficient, self-motivated, self-generated. A first cause, a fount of
+energy, a life force, a Prime Mover. The creator served nothing and no one. He lived for himself.
+
+“And only by living for himself was he able to achieve the things which are the glory of mankind. Such is the nature of achievement.
+
 “Man cannot survive except through his mind. He comes on earth unarmed.
 His brain is his only weapon. Animals obtain food by force. Man has no claws,
 no fangs, no horns, no great strength of muscle. He must plant his food or hunt
@@ -76,11 +62,13 @@ make weapons—a process of thought. From this simplest necessity to the highest
 religious abstraction, from the wheel to the skyscraper, everything we are and
 everything we have comes from a single attribute of man—the function of his
 reasoning mind.
+
+
 “But the mind is an attribute of the individual. There is no such thing as a
-collective brain. There is no such thing as a collective thought. An agreement
-reached by a group of men is only a compromise or an average drawn upon
-many individual thoughts. It is a secondary consequence. The primary act—the
-process of reason—must be performed by each man alone. We can divide a meal
+collective brain. There is no such thing as a collective thought. An agreement reached by a group of men is only a compromise or an average drawn upon
+many individual thoughts. It is a secondary consequence. 
+
+The primary act—the process of reason—must be performed by each man alone. We can divide a meal
 among many men. We cannot digest it in a collective stomach. No man can use
 his lungs to breathe for another man. No man can use his brain to think for
 another. All the functions of body and spirit are private. They cannot be shared
