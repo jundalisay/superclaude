@@ -57,7 +57,7 @@ This was fully and exhaustively explained by David Hume.
 {{< /q >}}
 
 
-{{< i s="/graphics/super/grand.jpg" a='Grandfather' c="If you went to the 'past' and killed your baby-self, you are actually going to the future and killing another baby that is different from your original baby-self. So you stay alive but cancel the future life of that other baby" >}}
+{{< i s="/graphics/super/grandfather.jpg" a='Grandfather' c="If you went to the 'past' and killed your baby-self, you are actually going to the future and killing another baby that is different from your original baby-self. So you stay alive but cancel the future life of that other baby" >}}
 
 In other words:
 - only the current perceptions are real
