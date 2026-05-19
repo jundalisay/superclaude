@@ -16,9 +16,9 @@ aliases:
 
 
 
-The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the Third Law of Value](/social/economics/principles/part-2/chapter-01). 
+The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the 2nd Law of Value](/social/economics/principles/part-2/chapter-01/section-01/unit-01/). 
 
-This Third Law leads to [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which then replaces marginal utility. Without marginal utility, the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Second Law of Value](/social/economics/principles/part-4/chapter-01/) which is the concept of **Natural Price**.
+This Law leads to [the effort theory of value](/social/economics/principles/part-2/chapter-01/section-03/unit-01/) which then replaces marginal utility. Without marginal utility, the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [3rd Law of Value](/social/economics/principles/part-3/chapter-01/section-01/) which is the concept of **Natural Price**.
 
 
 Unfortunately, such a fundamental concept has been thoroughly corrupted by Paul Samuelson in order to advance his selfish "neoclassical synthesis". Since then, it has been unjustly blamed for bad things about the economy and has even been denounced:
@@ -236,5 +236,5 @@ The invisible hand of Jupiter was never perceived in those matters. But the more
 {{< /q >}}
 
 
-In Sassani philosophhy, this is regarded as synchronicity. 
+In Sassani philosophhy, this is regarded as synchronicity, as things falling into place as if by magic. 
 
