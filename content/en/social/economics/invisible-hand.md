@@ -4,8 +4,7 @@ title: "The Invisible Hand of Dharma or the Tao"
 # date: 2015-09-09
 date: 2021-09-09
 image: /photos/objects/hand.jpg
-description: A crisis-proof economic system isn't based on static equilibrium or marginal pricing"
-# Instead, it's based on the true nature of reality, which Socrates calls true nature, the Chinese call the Tao, and the Hindus call dharma.
+description: "The Invisible Hand is dharma to the Hindus, tao to the Taoists, dikya to the Greeks, and synchronicity to the Sassani"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -141,7 +140,7 @@ We are not all alike. There are diversities of natures among us which are adapte
 
 ## Fair Exchange
 
-With everyone finding their passion in life, a nation's products and services becomes of higher quality and quantity. This is then exchanged for those of other countries. This makes up our [Fourth Law of value](/social/economics/principles/part-3/chapter-01)
+With everyone finding their passion in life, a nation's products and services becomes of higher quality and quantity. This is then exchanged for those of other countries. This makes up our [Fourth Law of value](/social/economics/principles/part-4/chapter-01/section-01/unit-01/)
 
 {{< q a="Socrates" c="The Republic Simplified, Book 2, Chapter 2" >}}
 They will need a marketplace to exchange their productions. If a husbandman or an artisan brings some product to market, and no one is available to exchange with him, he will not sit idle. He will find people there who, seeing the want, be salesmen.
@@ -189,7 +188,7 @@ Every individual can, in his local situation [svadharma or personal interest], j
 > Personal interests should be in line with the common interest
 
 
-{{< i s="/photos/econ/singer.jpg" a="Singer" c="People passionate in singing should pursue singing and earn better revenue from inferior singers" >}}
+{{< i s="/photos/econ/singer.jpg" a="Singer" c="People passionate in singing should pursue singing and earn better revenue than inferior singers" >}}
 
 
 People passionate in singing should pursue singing just as people passionate about money-trading should pursue money-trading. However, it does not mean that society should be ruled by songs or by money. 
@@ -221,9 +220,12 @@ Those institutions which promote the public welfare have the same principle, the
 
 Human institutions should stamp out the dangers of both poverty and wealth, such as inequality, environmental destruction, 
 
-If the invisible hand is a natural phenomena, then other societies should have noticed it as to describe it. Fortunately, Ancient India and Greece have such words:
-- In Greek, the invisible hand is called δίκαιος 
-- In Sanskrit, it is called dharma
+
+## The Invisible Hand is Natural
+
+If the invisible hand is a natural phenomenon, then other societies should have noticed it. Fortunately, Ancient India and Greece have such words:
+- In Greek, the invisible hand is called *δίκαιος* 
+- In Sanskrit, it is called *dharma*
 
 Both the Indians and Greeks define dharma as being a part or aspect of the Supreme Entity, exactly as Adam Smith described the invisible hand.  
 
@@ -233,4 +235,6 @@ In all Polytheistic religions.. only the irregular events of nature are ascribed
 The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning.  Savages only knew the designing power of man. 
 {{< /q >}}
 
+
+In Sassani philosophhy, this is regarded as synchronicity. 
 
