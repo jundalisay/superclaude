@@ -22,7 +22,7 @@ The inelastic supply curve is the child-idea of the sophistry called the [Equili
 {{< f f="*Samuelson refers to it as the inelastic supply curve, while Case and Fair, and Roger Miller refer to it as the inelastic demand curve" >}}
 
 
-![Inelastic Supply Curve](https://sorasystem.sirv.com/charts/inelastic.png)
+![Inelastic Supply Curve](/graphics/econ/inelastic.png)
 
 
 {{< q a="Paul Samuelson" c="Economics, Chapter 20: Determination Of Price By Supply And Demand" >}}
@@ -56,7 +56,7 @@ The Covid outbreak gives us an excellent opportunity to see the sophistry of the
 
 First, let's create a scatterplot for the prices and quantity supplied for Britain and get the trend. This creates a downward-sloping supply curve, consistent with Superphysics:
 
-![Covid supply Britain](https://sorasystem.sirv.com/charts/vac/covidsupply-britain.png)
+![Covid supply Britain](/graphics/econ/britain.jpg)
 
 However, it also shows that there are three makers selling 60,000 doses at varying prices. These three, representing around 50% of the supply, match the 'perfectly inelastic supply curve' of Economics. Thus, we can say that in this natural, real-world example:
 - The perfectly inelastic supply curve of Economics is true for only around 50% of the supply
@@ -71,7 +71,7 @@ Those arguments were partly solid and partly sophistical.. However, they convinc
 
 To see if this pattern is replicable, we check out the supply curve of vaccines for Belgium:
 
-![Covid Supply Belgium](https://sorasystem.sirv.com/charts/vac/covidsupply-belgium.png)
+![Covid Supply Belgium](/graphics/econ/belgium.jpg)
 
 We see the same pattern of a downward-sloping supply curve, as well as an 'inelastic' supply curve for around 40% of the supply.
 
@@ -97,9 +97,8 @@ Combining the actual supply with the actual demand by Britain and Belgium as rep
 The supply shows a consistent shortage and clearly slopes downward, different from the assertion of modern Economics. The only solution to make the supply curve shift to the right, and quench all the demand, is to open-source the technology and production techniques so that supply can be increased at a lower cost in order to meet the demand and save lives. However, this would go against the profit-maximization motive taught by Economics which prefers money over life, as explained by Samuelson:
 
 
-{{< q a="Paul Samuelson" >}}
+{{< q a="Paul Samuelson" c="Economics" >}}
 When the rich man's dog gets the milk that the poor man's child needs to avoid rickets, is the system working badly? No. It is working as it is designed to do - putting goods in the hands of those with the most money or dollar votes.
-<cite>Economics</cite>
 {{< /q >}}
 
 
