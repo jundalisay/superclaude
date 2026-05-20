@@ -124,3 +124,12 @@ We plan to apply this to chemical and electron reactions in Physics in order to 
 <!-- We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. 
 
 The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds. -->
+
+
+
+## Proof as Spatiodynamics
+
+Postive and Negative direction is most obviously seen in postive and negative poles of a magnet. Subtly it is also seen in positive and negative charges. 
+
+This is more obvious in the vacuum of outer space when we test 2 spinning balls next to each other in zero gravity. 
+

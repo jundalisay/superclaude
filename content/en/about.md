@@ -133,6 +133,13 @@ Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-
 Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Socratic Dialectics](/superphysics/principles/chapter-11).
 
 
+## Vision Mission
+
+Vision: To bring reality back within the Dharma
+
+Mission: To create the sciences and system that bring reality back within the Dharma
+
+
 ## The Crisis Years as a Huge Opportunity
 
 Smith's [Digression on Silver](/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1/) talks about a 500-year pattern of prices which we extended to modern times. We found that all great crises in the 20th century followed the extended pattern.
