@@ -4,7 +4,7 @@ title: "Teaching Spirituality"
 date: 2025-01-18
 # date: 2020-11-20
 weight: 23
-image: /photos/meta/shifu.jpg
+image: /photos/meta/buddhism.jpg
 description: "Academy of Sages is an institution for advancing true knowledge"
 writer:
   name: Juan

@@ -2,8 +2,8 @@
 heading: "Unit 3"
 title: "Conceptions About God"
 date: 2020-01-02
-weight: 7
-image: /photos/meta/chakras.jpg
+weight: 17
+image: /photos/medieval/anu.jpg
 description: ""
 ---
 
