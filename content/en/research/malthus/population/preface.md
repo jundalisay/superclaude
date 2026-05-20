@@ -1,9 +1,9 @@
 ---
-title: "Essay on the Principle of Population"
-# heading: Unenlightened
+title: "Preface"
 description: Malthus' Essay arose from a conversation with a friend about Mr Godwin's essay on avarice and profusion
 c: "firebrick"
 weight: 3
+a: Malthus
 date: 2025-03-20
 ---
 
@@ -36,3 +36,4 @@ The view which he has given of human life has a melancholy hue, but he feels con
 If he should succeed in drawing the attention of more able men to what he conceives to be the principal difficulty in the way to the improvement of society and should, in consequence, see this difficulty removed, even in theory, he will gladly retract his present opinions and rejoice in a conviction of his error.
 
 7 June 1798
+

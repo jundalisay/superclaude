@@ -1,9 +1,10 @@
 ---
 heading: Chapter 3
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "The Rude State"
+description: 
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 12
 date: 2025-04-04
 ---
@@ -93,3 +94,4 @@ Where there is any inequality of conditions, and among nations of shepherds this
 But without knowing enough of the minute and intimate history of these people, to point out precisely on what part the distress for want of food chiefly fell, and to what extent it was generally felt, I think we may fairly say, from all the accounts that we have of nations of shepherds, that population invariably increased among them whenever, by emigration or any other cause, the means of subsistence were increased, and that a further population was checked, and the actual population kept equal to the means of subsistence, by misery and vice.
 
 For, independently of any vicious customs that might have prevailed amongst them with regard to women, which always operate as checks to population, it must be acknowledged, I think, that the commission of war is vice, and the effect of it misery, and none can doubt the misery of want of food.
+

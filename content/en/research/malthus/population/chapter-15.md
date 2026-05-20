@@ -1,17 +1,19 @@
 ---
 heading: Chapter 15
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "Benevolence vs. Self-Love"
+description: ""
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 110
 date: 2025-04-04
 ---
 
 
+
 <!-- Models too perfect may sometimes rather impede than promote improvement—Mr Godwin's essay on 'Avarice and Profusion'—Impossibility of dividing the necessary labour of a society amicably among all—Invectives against labour may produce present evil, with little or no chance of producing future good—An accession to the mass of agricultural labour must always be an advantage to the labourer. -->
 
-Mr Godwin in the preface to his Enquirer, drops a few expressions which seem to hint at some change in his opinions since he wrote the Political Justice; and as this is a work now of some years standing, I should certainly think that I had been arguing against opinions which the author had himself seen reason to alter, but that in some of the essays of the Enquirer, Mr Godwin's peculiar mode of thinking appears in as striking a light as ever.
+Godwin in the preface to his Enquirer, drops a few expressions which seem to hint at some change in his opinions since he wrote the Political Justice; and as this is a work now of some years standing, I should certainly think that I had been arguing against opinions which the author had himself seen reason to alter, but that in some of the essays of the Enquirer, Mr Godwin's peculiar mode of thinking appears in as striking a light as ever.
 
 We cannot be perfecti in anything. Yet it is always good to have the most perfect models. 
 
@@ -86,7 +88,15 @@ The extensive misery that such an event would produce in the present state of so
 
 He does not really lock up these articles, but he locks up the power of producing them, which is virtually the same. These things are certainly used and consumed by his contemporaries, as truly, and to as great an extent, as if he were a beggar; but not to as great an extent as if he had employed his wealth in turning up more land, in breeding more oxen, in employing more tailors, and in building more houses. But supposing, for a moment, that the conduct of the miser did not tend to check any really useful produce, how are all those who are thrown out of employment to obtain patents which they may shew in order to be awarded a proper share of the food and raiment produced by the society? This is the unconquerable difficulty.
 
-I am perfectly willing to concede to Mr Godwin that there is much more labour in the world than is really necessary, and that, if the lower classes of society could agree among themselves never to work more than six or seven hours in the day, the commodities essential to human happiness might still be produced in as great abundance as at present. But it is almost impossible to conceive that such an agreement could be adhered to. From the principle of population, some would necessarily be more in want than others. Those that had large families would naturally be desirous of exchanging two hours more of their labour for an ampler quantity of subsistence. How are they to be prevented from making this exchange? it would be a violation of the first and most sacred property that a man possesses to attempt, by positive institutions, to interfere with his command over his own labour.
+I concede to Mr Godwin that:
+- there is much more labour in the world than is really necessary
+- if the lower classes of society could agree among themselves never to work more than six or seven hours in the day, the commodities essential to human happiness might still be produced in as great abundance as at present.
+
+But it is impossible to conceive that such an agreement could be adhered to.
+
+From the principle of population, some would necessarily be more in want than others. Those that had large families would naturally be desirous of exchanging two hours more of their labour for an ampler quantity of subsistence. 
+
+How are they to be prevented from making this exchange? it would be a violation of the first and most sacred property that a man possesses to attempt, by positive institutions, to interfere with his command over his own labour.
 
 Till Mr Godwin, therefore, can point out some practical plan according to which the necessary labour in a society might be equitably divided, his invectives against labour, if they were attended to, would certainly produce much present evil without approximating us to that state of cultivated equality to which he looks forward as his polar star, and which, he seems to think, should at present be our guide in determining the nature and tendency of human actions. A mariner guided by such a polar star is in danger of shipwreck.
 
@@ -99,4 +109,3 @@ If the accession of work be of this kind, so far is it from being true that the 
 The labour created by luxuries is useful in distributing the produce of the country without vitiating the proprietor by power, or debasing the labourer by dependence, has not, indeed, the same beneficial effects on the state of the poor. 
 
 A great accession of work from manufacturers, though it may raise the price of labour even more than an increasing demand for agricultural labour, yet, as in this case the quantity of food in the country may not be proportionably increasing, the advantage to the poor will be but temporary, as the price of provisions must necessarily rise in proportion to the price of labour. Relative to this subject, I cannot avoid venturing a few remarks on a part of Dr Adam Smith's Wealth of Nations, speaking at the same time with that diffidence which I ought certainly to feel in differing from a person so justly celebrated in the political world.
-

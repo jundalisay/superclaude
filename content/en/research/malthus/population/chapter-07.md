@@ -1,9 +1,10 @@
 ---
 heading: Chapter 7
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "Plague and Famine"
+description: "By great attention to cleanliness, the plague was completely expelled from London."
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 30
 date: 2025-04-04
 ---
@@ -120,6 +121,3 @@ Must it not then be acknowledged by an attentive examiner of the histories of ma
 That the increase of population is necessarily limited by the means of subsistence.
 
 That population does invariably increase when the means of subsistence increase. And that the superior power of population it repressed, and the actual population kept equal to the means of subsistence, by misery and vice?
-
-
-

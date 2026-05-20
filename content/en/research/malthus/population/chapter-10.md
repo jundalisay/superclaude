@@ -1,9 +1,10 @@
 ---
 heading: Chapter 10
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "Godwin's Work"
+description: ""
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 60
 date: 2025-04-04
 ---
@@ -96,6 +97,3 @@ And thus it appears, that a society constituted according to the most beautiful 
 In the supposition I have made, I have undoubtedly taken the increase of population smaller, and the increase of produce greater, than they really would be. No reason can be assigned why, under the circumstances I have supposed, population should not increase faster than in any known instance. If then we were to take the period of doubling at fifteen years, instead of twenty-five years, and reflect upon the labour necessary to double the produce in so short a time, even if we allow it possible, we may venture to pronounce with certainty that if Mr Godwin's system of society was established in its utmost perfection, instead of myriads of centuries, not thirty years could elapse before its utter destruction from the simple principle of population.
 
 I have taken no notice of emigration for obvious reasons. If such societies were instituted in other parts of Europe, these countries would be under the same difficulties with regard to population, and could admit no fresh members into their bosoms. If this beautiful society were confined to this island, it must have degenerated strangely from its original purity, and administer but a very small portion of the happiness it proposed; in short, its essential principle must be completely destroyed, before any of its members would voluntarily consent to leave it, and live under such governments as at present exist in Europe, or submit to the extreme hardships of first settlers in new regions. We well know, from repeated experience, how much misery and hardship men will undergo in their own country, before they can determine to desert it; and how often the most tempting proposals of embarking for new settlements have been rejected by people who appeared to be almost starving.
-
-
-

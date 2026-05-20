@@ -28,20 +28,18 @@ This allows us to:
 
 Entity | Positive Force | Negative Force | Absolute (Neither Positive nor Negative)
 --- | --- | --- | ---
-Christian God |  | :heavy_check_mark: | 
-Islamic Allah |  | :heavy_check_mark: |
-Jewish Yahweh |  | :heavy_check_mark: |
-Buddhist Sunya |  | | :heavy_check_mark:
-Chinese Quan Yin | :heavy_check_mark: | |
-Japanese Amaterasu | :heavy_check_mark: | | 
-Ancient Greek 'The One' | | | :heavy_check_mark:
-Hindu Brahma | :heavy_check_mark: | | 
-Hindu Nirguna Brahma |  | | :heavy_check_mark: 
-Hindu Shiva, Narayana, Ganesha | :heavy_check_mark: | | 
-Hindu Shakti, Kali, Durga | | :heavy_check_mark: |
+Christian God |  | ✅ | 
+Islamic Allah |  | ✅ |
+Jewish Yahweh |  | ✅ |
+Buddhist Sunya |  | | ✅
+Chinese Quan Yin | ✅ | |
+Japanese Amaterasu | ✅ | | 
+Ancient Greek 'The One' | | | ✅
+Hindu Brahma | ✅ | | 
+Hindu Nirguna Brahma |  | | ✅ 
+Hindu Shiva, Narayana, Ganesha | ✅ | | 
+Hindu Shakti, Kali, Durga | | ✅ |
 
 
-
-
-## God as Brahma
+<!-- ## God as Brahma -->
 

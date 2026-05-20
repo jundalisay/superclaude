@@ -1,9 +1,10 @@
 ---
 heading: Chapter 11
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "The Impossibility of Godwin's Supposition"
+description: ""
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 70
 date: 2025-04-04
 ---

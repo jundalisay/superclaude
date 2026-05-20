@@ -1,9 +1,10 @@
 ---
 heading: Chapter 5
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "The positive checks to population"
+description: 
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 20
 date: 2025-04-04
 ---
@@ -11,31 +12,59 @@ date: 2025-04-04
 
 <!-- The second, or positive check to population examined, in England—The true cause why the immense sum collected in England for the poor does not better their condition—The powerful tendency of the poor laws to defeat their own purpose—Palliative of the distresses of the poor proposed—The absolute impossibility, from the fixed laws of our nature, that the pressure of want can ever be completely removed from the lower classes of society—All the checks to population may be resolved into misery or vice. -->
 
-The positive check to population, by which I mean the check that represses an increase which is already begun, is confined chiefly, though not perhaps solely, to the lowest orders of society.
+The positive check to population that represses an increase which is already begun, is confined chiefly to the lowest orders of society.
 
 This check is not so obvious to common view as the other I have mentioned, and, to prove distinctly the force and extent of its operation would require, perhaps, more data than we are in possession of. 
 
 But I believe it has been very generally remarked by those who have attended to bills of mortality that of the number of children who die annually, much too great a proportion belongs to those who may be supposed unable to give their offspring proper food and attention, exposed as they are occasionally to severe distress and confined, perhaps, to unwholesome habitations and hard labour. This mortality among the children of the poor has been constantly taken notice of in all towns. It certainly does not prevail in an equal degree in the country, but the subject has not hitherto received sufficient attention to enable anyone to say that there are not more deaths in proportion among the children of the poor, even in the country, than among those of the middling and higher classes. 
 
-It seems difficult to suppose that a labourer's wife who has six children, and who is sometimes in absolute want of bread, should be able always to give them the food and attention necessary to support life. The sons and daughters of peasants will not be found such rosy cherubs in real life as they are described to be in romances. It cannot fail to be remarked by those who live much in the country that the sons of labourers are very apt to be stunted in their growth, and are a long while arriving at maturity. Boys that you would guess to be fourteen or fifteen are, upon inquiry, frequently found to be eighteen or nineteen. And the lads who drive plough, which must certainly be a healthy exercise, are very rarely seen with any appearance of calves to their legs: a circumstance which can only be attributed to a want either of proper or of sufficient nourishment.
+It seems difficult to suppose that a labourer's wife who has 6 children, and who is sometimes in absolute want of bread, should be able always to give them the food and attention necessary to support life. 
+
+The sons and daughters of peasants will not be found such rosy cherubs in real life as they are described to be in romances. It cannot fail to be remarked by those who live much in the country that the sons of labourers are very apt to be stunted in their growth, and are a long while arriving at maturity. 
+
+Boys that you would guess to be 14-15 are, upon inquiry, frequently found to be eighteen or nineteen.
+
+The lads who drive plough, which must certainly be a healthy exercise, are very rarely seen with any appearance of calves to their legs: a circumstance which can only be attributed to a want either of proper or of sufficient nourishment.
 
 To remedy the frequent distresses of the common people, the poor laws of England have been instituted; but it is to be feared, that though they may have alleviated a little the intensity of individual misfortune, they have spread the general evil over a much larger surface.
 
-It is a subject often started in conversation and mentioned always as a matter of great surprise that, notwithstanding the immense sum that is annually collected for the poor in England, there is still so much distress among them. Some think that the money must be embezzled, others that the church-wardens and overseers consume the greater part of it in dinners. All agree that somehow or other it must be very ill-managed. 
+It is a subject often started in conversation and mentioned always as a matter of great surprise that, notwithstanding the immense sum that is annually collected for the poor in England, there is still so much distress among them.
 
-In short the fact that nearly three millions are collected annually for the poor and yet that their distresses are not removed is the subject of continual astonishment. But a man who sees a little below the surface of things would be very much more astonished if the fact were otherwise than it is observed to be, or even if a collection universally of eighteen shillings in the pound, instead of four, were materially to alter it. I will state a case which I hope will elucidate my meaning.
+Some think that the money must be embezzled, others that the church-wardens and overseers consume the greater part of it in dinners. All agree that somehow or other it must be very ill-managed. 
 
-Suppose that by a subscription of the rich the eighteen pence a day which men earn now was made up five shillings, it might be imagined, perhaps, that they would then be able to live comfortably and have a piece of meat every day for their dinners. But this would be a very false conclusion. The transfer of three shillings and sixpence a day to every labourer would not increase the quantity of meat in the country. 
+Nearly 3 millions are collected annually for the poor. Yet their distresses are not removed.
+
+But a man who sees a little below the surface of things would be very much more astonished if the fact were otherwise than it is observed to be, or even if a collection universally of eighteen shillings in the pound, instead of four, were materially to alter it. I will state a case which I hope will elucidate my meaning.
+
+Suppose that by a subscription of the rich the eighteen pence a day which men earn now was made up five shillings, it might be imagined, perhaps, that they would then be able to live comfortably and have a piece of meat every day for their dinners. 
+
+But this would be a very false conclusion. The transfer of three shillings and sixpence a day to every labourer would not increase the quantity of meat in the country. 
 
 There is not at present enough for all to have a decent share. What would then be the consequence? The competition among the buyers in the market of meat would rapidly raise the price from sixpence or sevenpence, to two or three shillings in the pound, and the commodity would not be divided among many more than it is at present. 
 
-When an article is scarce, and cannot be distributed to all, he that can shew the most valid patent, that is, he that offers most money, becomes the possessor. If we can suppose the competition among the buyers of meat to continue long enough for a greater number of cattle to be reared annually, this could only be done at the expense of the corn, which would be a very disadvantagous exchange, for it is well known that the country could not then support the same population, and when subsistence is scarce in proportion to the number of people, it is of little consequence whether the lowest members of the society possess eighteen pence or five shillings. They must at all events be reduced to live upon the hardest fare and in the smallest quantity.
+When an article is scarce, and cannot be distributed to all, he that can shew the most valid patent, that is, he that offers most money, becomes the possessor. 
 
-It will be said, perhaps, that the increased number of purchasers in every article would give a spur to productive industry and that the whole produce of the island would be increased. This might in some degree be the case. But the spur that these fancied riches would give to population would more than counterbalance it, and the increased produce would be to be divided among a more than proportionably increased number of people. All this time I am supposing that the same quantity of work would be done as before. But this would not really take place. The receipt of five shillings a day, instead of eighteen pence, would make every man fancy himself comparatively rich and able to indulge himself in many hours or days of leisure. This would give a strong and immediate check to productive industry, and, in a short time, not only the nation would be poorer, but the lower classes themselves would be much more distressed than when they received only eighteen pence a day.
+If we can suppose the competition among the buyers of meat to continue long enough for a greater number of cattle to be reared annually, this could only be done at the expense of the corn, which would be a very disadvantagous exchange, for it is well known that the country could not then support the same population, and when subsistence is scarce in proportion to the number of people, it is of little consequence whether the lowest members of the society possess eighteen pence or five shillings. They must at all events be reduced to live upon the hardest fare and in the smallest quantity.
 
-A collection from the rich of eighteen shillings in the pound, even if distributed in the most judicious manner, would have a little the same effect as that resulting from the supposition I have just made, and no possible contributions or sacrifices of the rich, particularly in money, could for any time prevent the recurrence of distress among the lower members of society, whoever they were. Great changes might, indeed, be made. The rich might become poor, and some of the poor rich, but a part of the society must necessarily feel a difficulty of living, and this difficulty will naturally fall on the least fortunate members.
+It will be said that the increased number of purchasers in every article would give a spur to productive industry and that the whole produce of the island would be increased. This might in some degree be the case.
 
-It may at first appear strange, but I believe it is true, that I cannot by means of money raise a poor man and enable him to live much better than he did before, without proportionably depressing others in the same class. If I retrench the quantity of food consumed in my house, and give him what I have cut off, I then benefit him, without depressing any but myself and family, who, perhaps, may be well able to bear it. If I turn up a piece of uncultivated land, and give him the produce, I then benefit both him and all the members of the society, because what he before consumed is thrown into the common stock, and probably some of the new produce with it. But if I only give him money, supposing the produce of the country to remain the same, I give him a title to a larger share of that produce than formerly, which share he cannot receive without diminishing the shares of others. It is evident that this effect, in individual instances, must be so small as to be totally imperceptible; but still it must exist, as many other effects do, which, like some of the insects that people the air, elude our grosser perceptions.
+But the spur that these fancied riches would give to population would more than counterbalance it, and the increased produce would be to be divided among a more than proportionably increased number of people.
+
+I suppose that the same quantity of work would be done as before.
+
+But this would not really take place. The receipt of five shillings a day, instead of eighteen pence, would make every man fancy himself comparatively rich and able to indulge himself in many hours or days of leisure.
+
+This would give a strong and immediate check to productive industry, and, in a short time, not only the nation would be poorer, but the lower classes themselves would be much more distressed than when they received only eighteen pence a day.
+
+A collection from the rich of eighteen shillings in the pound, even if distributed in the most judicious manner, would have a little the same effect as that resulting from the supposition I have just made, and no possible contributions or sacrifices of the rich, particularly in money, could for any time prevent the recurrence of distress among the lower members of society, whoever they were.
+
+Great changes might be made. 
+
+The rich might become poor, and some of the poor rich, but a part of the society must necessarily feel a difficulty of living, and this difficulty will naturally fall on the least fortunate members.
+
+It might seem strange, but I think it is true, that I cannot by means of money raise a poor man and enable him to live much better than he did before, without proportionably depressing others in the same class. If I retrench the quantity of food consumed in my house, and give him what I have cut off, I then benefit him, without depressing any but myself and family, who, perhaps, may be well able to bear it. 
+
+If I turn up a piece of uncultivated land, and give him the produce, I then benefit both him and all the members of the society, because what he before consumed is thrown into the common stock, and probably some of the new produce with it. But if I only give him money, supposing the produce of the country to remain the same, I give him a title to a larger share of that produce than formerly, which share he cannot receive without diminishing the shares of others. It is evident that this effect, in individual instances, must be so small as to be totally imperceptible; but still it must exist, as many other effects do, which, like some of the insects that people the air, elude our grosser perceptions.
 
 Supposing the quantity of food in any country to remain the same for many years together, it is evident that this food must be divided according to the value of each man's patent, or the sum of money that he can afford to spend on this commodity so universally in request. (Mr Godwin calls the wealth that a man receives from his ancestors a mouldy patent. It may, I think, very properly be termed a patent, but I hardly see the propriety of calling it a mouldy one, as it is an article in such constant use.) It is a demonstrative truth, therefore, that the patents of one set of men could not be increased in value without diminishing the value of the patents of some other set of men. If the rich were to subscribe and give five shillings a day to five hundred thousand men without retrenching their own tables, no doubt can exist, that as these men would naturally live more at their ease and consume a greater quantity of provisions, there would be less food remaining to divide among the rest, and consequently each man's patent would be diminished in value or the same number of pieces of silver would purchase a smaller quantity of subsistence.
 
@@ -80,5 +109,3 @@ Notwithstanding, then, the institution of the poor laws in England, I think it w
 To these two great checks to population, in all long occupied countries, which I have called the preventive and the positive checks, may be added vicious customs with respect to women, great cities, unwholesome manufactures, luxury, pestilence, and war.
 
 All these checks may be fairly resolved into misery and vice. And that these are the true causes of the slow increase of population in all the states of modern Europe, will appear sufficiently evident from the comparatively rapid increase that has invariably taken place whenever these causes have been in any considerable degree removed.
-
-

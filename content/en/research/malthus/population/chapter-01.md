@@ -1,9 +1,10 @@
 ---
 heading: Chapter 1
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "The question on the future of mankind"
+description: 
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 3
 date: 2025-04-04
 ---

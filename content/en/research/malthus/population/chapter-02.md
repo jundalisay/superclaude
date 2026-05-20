@@ -1,9 +1,10 @@
 ---
 heading: Chapter 2
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "Unchecked Population Rises Geometrically"
+description: "Population, when unchecked, increased in a geometrical ratio. Subsistence for man increases in an arithmetical ratio."
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 8
 date: 2025-04-04
 ---
@@ -112,15 +113,31 @@ The effects of this check on man are more complicated. Impelled to the increase 
 
 These considerations are calculated to prevent, and certainly do prevent, a very great number in all civilized nations from pursuing the dictate of nature in an early attachment to one woman. And this restraint almost necessarily, though not absolutely so, produces vice. Yet in all societies, even those that are most vicious, the tendency to a virtuous attachment is so strong that there is a constant effort towards an increase of population. This constant effort as constantly tends to subject the lower classes of the society to distress and to prevent any great permanent amelioration of their condition.
 
-The way in which, these effects are produced seems to be this. We will suppose the means of subsistence in any country just equal to the easy support of its inhabitants. The constant effort towards population, which is found to act even in the most vicious societies, increases the number of people before the means of subsistence are increased. The food therefore which before supported seven millions must now be divided among seven millions and a half or eight millions. The poor consequently must live much worse, and many of them be reduced to severe distress. The number of labourers also being above the proportion of the work in the market, the price of labour must tend toward a decrease, while the price of provisions would at the same time tend to rise. The labourer therefore must work harder to earn the same as he did before. During this season of distress, the discouragements to marriage, and the difficulty of rearing a family are so great that population is at a stand. In the mean time the cheapness of labour, the plenty of labourers, and the necessity of an increased industry amongst them, encourage cultivators to employ more labour upon their land, to turn up fresh soil, and to manure and improve more completely what is already in tillage, till ultimately the means of subsistence become in the same proportion to the population as at the period from which we set out. The situation of the labourer being then again tolerably comfortable, the restraints to population are in some degree loosened, and the same retrograde and progressive movements with respect to happiness are repeated.
+The way in which, these effects are produced seems to be this. We will suppose the means of subsistence in any country just equal to the easy support of its inhabitants. The constant effort towards population, which is found to act even in the most vicious societies, increases the number of people before the means of subsistence are increased.
+
+The food therefore which before supported seven millions must now be divided among seven millions and a half or eight millions. The poor consequently must live much worse, and many of them be reduced to severe distress.
+
+The number of labourers also being above the proportion of the work in the market, the price of labour must tend toward a decrease, while the price of provisions would at the same time tend to rise. 
+
+The labourer therefore must work harder to earn the same as he did before. During this season of distress, the discouragements to marriage, and the difficulty of rearing a family are so great that population is at a stand. 
+
+In the mean time the cheapness of labour, the plenty of labourers, and the necessity of an increased industry amongst them, encourage cultivators to employ more labour upon their land, to turn up fresh soil, and to manure and improve more completely what is already in tillage, till ultimately the means of subsistence become in the same proportion to the population as at the period from which we set out.
+
+The situation of the labourer being then again tolerably comfortable, the restraints to population are in some degree loosened, and the same retrograde and progressive movements with respect to happiness are repeated.
 
 This sort of oscillation will not be remarked by superficial observers, and it may be difficult even for the most penetrating mind to calculate its periods. Yet that in all old states some such vibration does exist, though from various transverse causes, in a much less marked, and in a much more irregular manner than I have described it, no reflecting man who considers the subject deeply can well doubt.
 
 Many reasons occur why this oscillation has been less obvious, and less decidedly confirmed by experience, than might naturally be expected.
 
-One principal reason is that the histories of mankind that we possess are histories only of the higher classes. We have but few accounts that can be depended upon of the manners and customs of that part of mankind where these retrograde and progressive movements chiefly take place. A satisfactory history of this kind, on one people, and of one period, would require the constant and minute attention of an observing mind during a long life. Some of the objects of inquiry would be, in what proportion to the number of adults was the number of marriages, to what extent vicious customs prevailed in consequence of the restraints upon matrimony, what was the comparative mortality among the children of the most distressed part of the community and those who lived rather more at their ease, what were the variations in the real price of labour, and what were the observable differences in the state of the lower classes of society with respect to ease and happiness, at different times during a certain period.
+One principal reason is that the histories that we possess are histories only of the higher classes.
 
-Such a history would tend greatly to elucidate the manner in which the constant check upon population acts and would probably prove the existence of the retrograde and progressive movements that have been mentioned, though the times of their vibrations must necessarily be rendered irregular from the operation of many interrupting causes, such as the introduction or failure of certain manufactures, a greater or less prevalent spirit of agricultural enterprise, years of plenty, or years of scarcity, wars and pestilence, poor laws, the invention of processes for shortening labour without the proportional extension of the market for the commodity, and, particularly, the difference between the nominal and real price of labour, a circumstance which has perhaps more than any other contributed to conceal this oscillation from common view.
+We have but few accounts that can be depended upon of the manners and customs of that part of mankind where these retrograde and progressive movements chiefly take place. 
+
+A satisfactory history of this kind, on one people, and of one period, would require the constant and minute attention of an observing mind during a long life.
+
+Some of the objects of inquiry would be, in what proportion to the number of adults was the number of marriages, to what extent vicious customs prevailed in consequence of the restraints upon matrimony, what was the comparative mortality among the children of the most distressed part of the community and those who lived rather more at their ease, what were the variations in the real price of labour, and what were the observable differences in the state of the lower classes of society with respect to ease and happiness, at different times during a certain period.
+
+Such a history elucidates how the constant check on population acts and would probably prove the existence of the retrograde and progressive movements that have been mentioned, though the times of their vibrations must necessarily be rendered irregular from the operation of many interrupting causes, such as the introduction or failure of certain manufactures, a greater or less prevalent spirit of agricultural enterprise, years of plenty, or years of scarcity, wars and pestilence, poor laws, the invention of processes for shortening labour without the proportional extension of the market for the commodity, and, particularly, the difference between the nominal and real price of labour, a circumstance which has perhaps more than any other contributed to conceal this oscillation from common view.
 
 It very rarely happens that the nominal price of labour universally falls, but we well know that it frequently remains the same, while the nominal price of provisions has been gradually increasing. 
 
@@ -138,9 +155,6 @@ That population cannot increase without the means of subsistence is a propositio
 
 That population does invariably increase where there are the means of subsistence, the history of every people that have ever existed will abundantly prove.
 
-And that the superior power of population cannot be checked without producing misery or vice, the ample portion of these too bitter ingredients in the cup of human life and the continuance of the physical causes that seem to have produced them bear too convincing a testimony.
+The superior power of population cannot be checked without producing misery or vice, the ample portion of these too bitter ingredients in the cup of human life and the continuance of the physical causes that seem to have produced them bear too convincing a testimony.
 
 But, in order more fully to ascertain the validity of these three propositions, let us examine the different states in which mankind have been known to exist. Even a cursory review will, I think, be sufficient to convince us that these propositions are incontrovertible truths.
-
-
-

@@ -1,26 +1,52 @@
 ---
 heading: Chapter 9
-title: "Essay on the Principle of Population"
-description: The question on the future of mankind
+title: "Boundary of Human Improvement"
+description: ""
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 50
 date: 2025-04-04
 ---
 
 
 
-Mr Condorcet's conjecture concerning the organic perfectibility of man, and the indefinite prolongation of human life—Fallacy of the argument, which infers an unlimited progress from a partial improvement, the limit of which cannot be ascertained, illustrated in the breeding of animals, and the cultivation of plants.
+Condorcet's conjecture on the organic perfectibility of man, and the indefinite prolongation of human life are false. 
 
-The last question which Mr Condorcet proposes for examination is the organic perfectibility of man. He observes that if the proofs which have been already given and which, in their development will receive greater force in the work itself, are sufficient to establish the indefinite perfectibility of man upon the supposition of the same natural faculties and the same organization which he has at present, what will be the certainty, what the extent of our hope, if this organization, these natural faculties themselves, are susceptible of amelioration?
+He infers an unlimited progress from a partial improvement, the limit of which cannot be ascertained as illustrated in the breeding of animals, and the cultivation of plants.
 
-From the improvement of medicine, from the use of more wholesome food and habitations, from a manner of living which will improve the strength of the body by exercise without impairing it by excess, from the destruction of the two great causes of the degradation of man, misery, and too great riches, from the gradual removal of transmissible and contagious disorders by the improvement of physical knowledge, rendered more efficacious by the progress of reason and of social order, he infers that though man will not absolutely become immortal, yet that the duration between his birth and natural death will increase without ceasing, will have no assignable term, and may properly be expressed by the word 'indefinite'. He then defines this word to mean either a constant approach to an unlimited extent, without ever reaching it, or an increase. In the immensity of ages to an extent greater than any assignable quantity.
+He lastly:
+- proposes to examine the organic perfectibility of man. 
+- observes that if the proofs which have been already given and which, in their development will receive greater force in the work itself, are sufficient to establish the indefinite perfectibility of man upon the supposition of the same natural faculties and the same organization which he has at present, what will be the certainty, what the extent of our hope, if this organization, these natural faculties themselves, are susceptible of amelioration?
 
-But surely the application of this term in either of these senses to the duration of human life is in the highest degree unphilosophical and totally unwarranted by any appearances in the laws of nature. Variations from different causes are essentially distinct from a regular and unretrograde increase. The average duration of human life will to a certain degree vary from healthy or unhealthy climates, from wholesome or unwholesome food, from virtuous or vicious manners, and other causes, but it may be fairly doubted whether there is really the smallest perceptible advance in the natural duration of human life since first we have had any authentic history of man. The prejudices of all ages have indeed been directly contrary to this supposition, and though I would not lay much stress upon these prejudices, they will in some measure tend to prove that there has been no marked advance in an opposite direction.
 
-It may perhaps be said that the world is yet so young, so completely in its infancy, that it ought not to be expected that any difference should appear so soon.
+He infers that man's lifespan will increase without ceasing and be 'indefinite' because of:
+- the improvement of medicine
+- the use of more wholesome food and habitations
+- a manner of living which improves the body by exercise
+- the destruction of misery and excess wealth, the two great causes of the degradation of man
+- the gradual removal of transmissible and contagious disorders
+- the progress of reason and of social order
 
-If this be the case, there is at once an end of all human science. The whole train of reasonings from effects to causes will be destroyed. We may shut our eyes to the book of nature, as it will no longer be of any use to read it. The wildest and most improbable conjectures may be advanced with as much certainty as the most just and sublime theories, founded on careful and reiterated experiments. We may return again to the old mode of philosophising and make facts bend to systems, instead of establishing systems upon facts. The grand and consistent theory of Newton will be placed upon the same footing as the wild and eccentric hypotheses of Descartes. In short, if the laws of nature are thus fickle and inconstant, if it can be affirmed and be believed that they will change, when for ages and ages they have appeared immutable, the human mind will no longer have any incitements to inquiry, but must remain fixed in inactive torpor, or amuse itself only in bewildering dreams and extravagant fancies.
+<!-- He then defines this word to mean either a constant approach to an unlimited extent, without ever reaching it, or an increase. In the immensity of ages to an extent greater than any assignable quantity. -->
+
+But surely 'indefinite' human life is unphilosophical and totally unwarranted by any appearances in the laws of nature.
+
+Variations from different causes are essentially distinct from a regular and unretrograde increase.
+
+The average duration of human life will to a certain degree vary from healthy or unhealthy climates, from wholesome or unwholesome food, from virtuous or vicious manners, and other causes.
+
+But it may be fairly doubted whether there is really the smallest perceptible advance in the natural duration of human life since first we have had any authentic history of man.
+
+The prejudices of all ages have indeed been directly contrary to this supposition, and though I would not lay much stress upon these prejudices, they will in some measure tend to prove that there has been no marked advance in an opposite direction.
+
+The world is yet so young, so completely in its infancy, that it no differences are expected soon.
+
+If this be the case, there is at once an end of all human science. The whole train of reasonings from effects to causes will be destroyed. We may shut our eyes to the book of nature, as it will no longer be of any use to read it.
+
+The wildest and most improbable conjectures may be advanced with as much certainty as the most just and sublime theories, founded on careful and reiterated experiments. We may return again to the old mode of philosophising and make facts bend to systems, instead of establishing systems upon facts. 
+
+The grand and consistent theory of Newton will be placed upon the same footing as the wild and eccentric hypotheses of Descartes. In short, if the laws of nature are thus fickle and inconstant, if it can be affirmed and be believed that they will change, when for ages and ages they have appeared immutable, the human mind will no longer have any incitements to inquiry, but must remain fixed in inactive torpor, or amuse itself only in bewildering dreams and extravagant fancies.
 
 The constancy of the laws of nature and of effects and causes is the foundation of all human knowledge, though far be it from me to say that the same power which framed and executes the laws of nature may not change them all 'in a moment, in the twinkling of an eye.' Such a change may undoubtedly happen. All that I mean to say is that it is impossible to infer it from reasoning. If without any previous observable symptoms or indications of a change, we can infer that a change will take place, we may as well make any assertion whatever and think it as unreasonable to be contradicted in affirming that the moon will come in contact with the earth tomorrow, as in saying that the sun will rise at its usual time.
 
@@ -61,6 +87,3 @@ On the contrary, a candid investigation of these subjects, accompanied with a pe
 The present rage for wide and unrestrained speculation seems to be a kind of mental intoxication, arising, perhaps, from the great and unexpected discoveries which have been made of late years, in various branches of science. To men elate and giddy with such successes, every thing appeared to be within the grasp of human powers; and, under this illusion, they confounded subjects where no real progress could be proved with those where the progress had been marked, certain, and acknowledged. Could they be persuaded to sober themselves with a little severe and chastised thinking, they would see, that the cause of truth, and of sound philosophy, cannot but suffer by substituting wild flights and unsupported assertions for patient investigation, and well authenticated proofs.
 
 Mr Condorcet's book may be considered not only as a sketch of the opinions of a celebrated individual, but of many of the literary men in France at the beginning of the Revolution. As such, though merely a sketch, it seems worthy of attention.
-
-
-

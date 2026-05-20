@@ -4,6 +4,7 @@ title: "Essay on the Principle of Population"
 description: The question on the future of mankind
 c: "firebrick"
 author: Malthus
+icon: Malthus
 weight: 140
 date: 2025-04-04
 ---
