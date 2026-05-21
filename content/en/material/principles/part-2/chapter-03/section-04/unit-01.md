@@ -77,45 +77,23 @@ Rotational Gravity | Einstein's warping of Spacetime
 Aetherspace Expansion-Contraction | Dark Energy
 Aetherspace | Strong Force -->
 
-The properties of space particles also give the following phenoemena:
+<!-- The properties of space particles also give the following phenoemena:
 
 Property | Physics
 --- | ---
 Liquid Nature of Space Particles | Gravitational Waves, Equivalence and Weak Equivalence Principles
-Straight Line Motion | 
+Straight Line Motion |  -->
 
 
-These 2 gravities are different from radiant-gravities as magnetism, and aetherspace-gravities as inter/intramolecular and contat forces and strong force 
+Displacement and Cohesion gravities are different from the forces exerted by:
+- magnetism (even if it is also caused by space particles that are directed by radiant virtual photons)
+- intermolecular bonds (which come from atomic space)
+
+<!-- These 2 gravities are different from radiant-gravities as magnetism, and aetherspace-gravities as inter/intramolecular and contat forces and strong force 
 
 Physics usually calls:
 - radiant-gravities as forces such as magnetic force 
-- aetherspace-gravities as bonds such as the hydrogen bond
-
-
-
-## Rotational Gravity: How Vortices Form in Space
-
-Vortices form when there are energetic space particles caused by an increase in aether in a location. 
-
-{{< youtube cQtvHmgQtng >}}
-
-An easy analogy is a hurricane which is formed from the invisible hot air.
-
-The eye is where the hottest part of the air that gets a spin from the heat (agitation) that then affects the cooler air around it.
-
-This makes the air spin around it. 
-
-The eye only becomes visible when there is so much air clumping and spinning with it. 
-
-But materialists accept only what they can see. 
-
-And so they think that the cause of a hurricane is the visible clouds around eye, and the cause of a galaxy is the visible mass around its vortex.
-
-Newtonian Physics bases its principles on material effects. 
-
-Cartesian Physics bases its principles on aethreal causes. 
-
-It is more solid to create a science based on causes instead of effects.
+- aetherspace-gravities as bonds such as the hydrogen bond -->
 
 
 

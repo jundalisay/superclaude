@@ -2,7 +2,7 @@
 heading: "Unit 5 Micro Cohesion"
 title: "Casimir Effect"
 date: 2024-12-11
-weight: 16
+weight: 14
 image: /photos/physics/casimir.jpg
 description: ""
 writer:

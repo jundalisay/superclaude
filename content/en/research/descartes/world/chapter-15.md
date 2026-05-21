@@ -19,7 +19,7 @@ How do the inhabitants of the aethereal Earth see their stellar gravitational te
 
 They see the `sun` as completely full of light and like our sun. It sends rays from all points of its surface toward their eyes. Because it is much closer to them than the stars, it must appear much larger to them. 
 
-{{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
+{{< img src="/graphics/physics/orbit.jpg" alt="Orbits" >}}
 
 The planetary gravitational territory `ABCD` turns around the Earth. 
 - Its air-aether offers some resistance to those rays from the sun. 

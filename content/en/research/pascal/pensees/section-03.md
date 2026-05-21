@@ -279,7 +279,10 @@ In glory we shall know His nature. Now, I have already shown that we may well kn
 
 Let us now speak according to natural lights.
 
-If there is a God, He is infinitely incomprehensible, since, having neither parts nor limits, He has no affinity to us. We are then incapable of knowing either what He is or if He is. This being so, who will dare to undertake the decision of the question? Not we, who have no affinity to Him.
+
+If there is a God, He is infinitely incomprehensible, since, having neither parts nor limits, He has no affinity to us. 
+
+We are then incapable of knowing either what He is or if He is. This being so, who will dare to undertake the decision of the question? Not we, who have no affinity to Him.
 
 Who then will blame Christians for not being able to give a reason for their belief, since they profess a religion for which they cannot give a reason?
 
@@ -288,6 +291,7 @@ They declare, in expounding it to the world, that it is a foolishness and then y
 If they proved it, they would not keep their word; it is in lacking proofs, that they are not lacking in sense. 
 
 "Yes, but although this excuses those who offer it as such, and takes away from them the blame of putting it forward without reason, it does not excuse those who receive it." 
+
 
 Let us then examine this point, and say, "God is, or He is not." 
 
@@ -299,7 +303,9 @@ A game is being played at the extremity of this infinite distance where heads or
 
 What will you wager? 
 
-According to reason, you can do neither the one thing nor the other; according to reason, you can defend neither of the propositions.
+According to reason you can:
+- do neither the one thing nor the other
+- defend neither of the propositions.
 
 Do not then reprove for error those who have made a choice; for you know nothing about it. 
 
@@ -313,7 +319,11 @@ Which will you choose then?
 
 Let us see. Since you must choose, let us see which interests you least. 
 
-You have two things to lose, the true and the good; and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to shun, error and misery. 
+You have:
+- two things to lose, the true and the good
+- two things to stake, your reason and your will, your knowledge and your happiness
+
+Your nature has two things to shun, error and misery. 
 
 Your reason is no more shocked in choosing one rather than the other, since you must of necessity choose. 
 

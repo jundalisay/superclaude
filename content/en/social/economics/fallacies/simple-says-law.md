@@ -9,8 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+image: /photos/people/say.jpg
 toc: false
 ---
+
 
 
 To prove the sophistry of capitalism, we must trace the roots of its core ideas. Among its core ideas is the production motive, or the sophistical belief that what is good for the producers or sellers, or those who live by profits, is good for the nation. 
@@ -34,7 +36,8 @@ In this chapter, Say sounds like a lobbyist for manufacturers. If Mercantilism i
 
 The lines in red below indicate his sophistry.
 
-![JB Say](/covers/say.jpg)
+![JB Say](/photos/people/say.jpg)
+
 
 
 ## Book 1, Chapter 15: The Demand or Market for Products

@@ -4,11 +4,13 @@ heading: How Keynes Messed-up Things
 date: 2021-01-15
 c: "firebrick"
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
+image: "/graphics/econ/interest.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 ---
+
 
 
 The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
@@ -20,7 +22,7 @@ The judicious operations of banking can increase a industry, not by augmenting t
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
 
 
-{{< q a="Keynes" c="Simplified General Theory, Chapter 14 Appendix" >}}
+{{< q a="John Maynard Keynes" c="Simplified General Theory, Chapter 14 Appendix" >}}
 The interest rate policy of the central bank can alter the money supply. This makes it a real determinant of the economic scheme.
 {{< /q >}}
 
@@ -38,14 +40,18 @@ Keynes | ..the reward for letting go of cash | Neo-Classical
 
 These differing definitions expose the different biases of the minds of their originators: 
 
-- The minds of Classical economists such as Smith, Ricardo, and Pigou viewed interest from the perspective of society. This led them into welfare economics. This appeals to compassionate minds.
-- The mind of Marginalists, such as Marshall (and Samuelson), viewed interest from the perspective of seller and buyer of capital. This is consistent with the equilibrium concept of the Marginal Revolution and Game Theory. This appeals to mathematical minds. 
-- The mind of Mises-Hayek view it from the perspective of an individual, either as a consumer or producer. This appeals to selfish minds who care only for themselves.
-- The mind of Keynes views it from the perspective of a government or bank that serves all. This necessarily leads him to advocate deficit spending, open market operations which later became quantitative easing. This appeals to socialist minds or those that want everyone to follow them. The main difference between Keynes and Marx is their definition of value and money
+- The minds of Classical economists such as Smith, Ricardo, and Pigou viewed interest from **the perspective of society**. This led them into welfare economics. This appeals to compassionate minds.
+- The mind of Marginalists, such as Marshall (and Samuelson), viewed interest from the perspective of **the seller and buyer of capital**. This is consistent with the equilibrium concept of the Marginal Revolution and Game Theory. This appeals to mathematical minds. 
+- The mind of Mises-Hayek view it from the perspective of an individual, either as **a consumer or producer**. This appeals to selfish minds who care only for themselves.
+- The mind of Keynes views it from the perspective of **a government or bank that serves all**. This necessarily leads him to advocate deficit spending, open market operations which later became quantitative easing. This appeals to socialist minds or those that want everyone to follow them. The main difference between Keynes and Marx is their definition of value and money
 
 From here, we can explain the affinities and oppositions of different beliefs and mindsets:
 - Classical economics is the polar opposite of Marginalism which enshrines math and science. Xenophon and Smith have no equations at all, which makes them unacceptable as the basis of Economic 'science'* which currently has econometrics, derivative equations, and stochastic calculus
 - Keynesian economics** and Marxism are the opposite of the Austrian economics of Von Mises, Hayek, and Lbertarianism
+
+
+{{< i s="/graphics/econ/interest.jpg" a="Ideology Matrix" c="Economic philosophies in the ideology matrix" >}}
+
 
 
 {{< f f="*Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/supersociology/principles/part-1/chapter-01). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy" >}}
@@ -65,7 +71,10 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 ## How did interest rates suddenly become so important to Economics?
 
-From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics as today. <!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
+From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics compared to how it is today.
+
+<!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
+
 
 {{< q a="Adam Smith" c="The Simple Wealth of Nations Book 4, Chapter 1" >}}
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
@@ -79,19 +88,28 @@ The interest of money is not regulated by the rate at which the Bank will lend, 
 
 This is **directly opposite** the belief of Keynes who established the love of cash as being fundamental to Economics, as liquidity-preference:
 
-{{< q a="Keynes" c="Simplified General Theory" >}}
+{{< q a="John Maynard Keynes" c="Simplified General Theory" >}}
 The psychological time-preferences of an individual need two sets of decisions.<br>1. The time-preference which I call the "propensity to consume" -- this determines for each individual how much of his income he will consume and save.<br>2. His liquidity preference -- How long does he intend to have his money savings and not spend it?<br>The mistake of previous theories on the rate of interest is that they neglect the liquidity preference. This neglect is what we are repairing.
 {{< /q >}}
 
-Keynes made people believe that money supply and banking were the solutions to the problems of poverty*, inequality, recessions, bubbles, etc. The stagflation of the 1970's and the failure of quantitative easing after 2008 are double proofs that Keynes' understanding was wrong.
+
+Instead of solving poverty*, inequality, recessions, bubbles, etc. by balancing productivity, Keynes' solution was to use money -- as money supply and banking.  The stagflation of the 1970's and the failure of quantitative easing after 2008 are double proofs that Keynes was wrong.
 
 
-To Keynes, this thirst for cash naturally is quenched by banks which provide such cash. This then leads to the dominance of interest rates which leads to open market operations and quantitative easing by those banks.
+This was because Keynes shallowly believed that poverty and unemployment were caused by the thirst for cash.
+- This was naturally quenched by banks.
+- This then logically led to the dominance of interest rates.
+- This leads to open market operations and quantitative easing.
+
 
 {{< f f="*A proof of this is the current obsession by banks to 'bank the unbanked'. This sophistry is just another way for bankers to find more customers and keep themselves employed, as opposed to letting those customers spend their savings themselves or move over into crypto (the competition of banks)." >}}
 
 
-If Thomas Mun's book, [England's Treasure on Foreign Trade](/research/mun/englands-treasure), transferred economic power from monarchs onto merchants, then Keynes' General Theory transferred it from merchants into merchant-banks which trade paper instruments on the 'money market', just as merchants traded commodities in the commodities market.
+
+We can say that:
+- Thomas Mun's book, [England's Treasure on Foreign Trade](/research/mun/englands-treasure), transferred economic power from monarchs onto merchants
+- Keynes' General Theory transferred economic power from merchants into merchant-banks which trade paper instruments on the 'money market', just as merchants traded commodities in the commodities market
+
 
 These then make financial crises bigger than natural, as proven by the 1997 Asian Crisis and the 2008 Financial and Eurozone crisis. 
 

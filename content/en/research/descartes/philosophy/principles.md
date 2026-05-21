@@ -4,6 +4,7 @@ title: "Cartesian Principles"
 weight: 240
 description: "The Principles of Philosophy by Descartes"
 c: "darkgoldenrod"
+icon: "Rene Descartes"
 ---
 
 

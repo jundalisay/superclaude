@@ -15,12 +15,19 @@ aliases:
 
 
 
-The materialist Physics of Newton and Democritus believes that gravity comes from matter.
+Micro Displacement Gravity is the most common and obvious of the 6 spatial gravities. 
+
+This is called Newtonian Gravity in Modern Physics. 
+
+The main difference between Newtonian Gravity and Micro Displacement Gravity is that Newtonian Gravity believes that gravity comes from matter whereas Micro Displacement Gravity believes that it comes from the immediate space, as the space particles outside of the matter. 
+
+
+<!-- The materialist Physics of Newton and Democritus believes that gravity comes from matter.
 
 On the contrary, Material Superphysics, which is based on the Physics of Descartes and Plato, believes that all forces come from outside of bodies or matter. This is the non-materialist paradigm. 
 
 Space is filled with qosts that become mosts whenever matter occupies a space and displaces the qosts. 
-- These mosts constantly stream out of that matter in straight lines, creating a gravitational territory which Physics calls a gravitational field. 
+- These mosts constantly stream out of that matter in straight lines, creating a gravitational territory which Physics calls a gravitational field.  -->
 
 An analogy is a ball that displaces the sand, with the most sand being at its surface. 
 
@@ -67,6 +74,20 @@ The `g` of earth is different from the `g` of Jupiter because their som and qost
 
 From this we can see how material gravity is from space wanting to reduce the displacements and keep everything neat and flat. 
 
+
+
+
+## The Inconstancy of Newton's G
+
+Newton’s gravitational constant G is not constant because the microaetherspace (atomic space):
+- expands and contracts
+- is always in flux
+
+This proves a dynamic and subjective universe.
+
+![Inconstant G](/graphics/physics/codata.jpg)
+
+{{< i s="/graphics/physics/flux.gif" c="The inconstancy of G is caused by the micro aetherspace being in flux" a="mirco aetherspace" >}}
 
 
 
