@@ -21,9 +21,11 @@ Chapter 3 explained the 3 media of the Spatial layer:
 
 Media | Description 
 --- | ---
-Timespace | Quasi-aethereal 
+Timespace (timespan) | Quasi-aethereal 
 Aetherspace | Connector to the aether via timespace and other spacetimes
-Spacetime | Slices of reality
+Spacetime (spacespan) | Slices of reality
+
+{{< n n="We use the words Timespace and Spacetime to match modern Physics. But internally we use Timespan and Spacespan">}}
 
 
 These media are matched by substances:
@@ -136,8 +138,7 @@ Galaxy | Quasar
 
 ## Vortices as Tunnels
 
-Spacetime slices are separated by the aetherspace. 
-Some areas of spacetime have high concentrations of the aether that allow aetherspace to exist as holes or vortices that can allow matter to tunnel through. 
+Spacetime slices are separated by the macro-aetherspace (dark energy). Some areas of spacetime have high concentrations of the aether that allow aetherspace to exist as holes or vortices that can allow matter to tunnel through. 
 
 These are natural portals that, when accesssed by timespace, can allow matter to jump between spacetimes. 
 
@@ -150,7 +151,6 @@ When enlarged as to wrap around matter, it creates a vortex that can let the mat
 {{< i s="/graphics/physics/tunnels.jpg" >}}
 
 
-
 <!-- ## Validated by Sassani
 black holes are used to tunnel into new dimensions 
 wormhole vortex top of vortex is another vortex 
@@ -158,4 +158,3 @@ the center of that vortex is a neutral space that can be programmed as the templ
 finite beings has infinite variations 
 
 As al -->
-

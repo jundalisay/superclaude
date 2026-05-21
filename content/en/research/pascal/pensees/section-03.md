@@ -10,38 +10,49 @@ icon: "Pascal"
 
 
 
-A letter to incite to the search after God.
+A letter to incite to the search after God and then to make people seek Him among the philosophers, sceptics, and dogmatists, who disquiet him who inquires of them.
 
-And then to make people seek Him among the philosophers, sceptics, and dogmatists, who disquiet him who inquires of them.
+<sup>185</sup> The conduct of God:
+- disposes all things kindly
+- puts religion into the mind by reason and into the heart by grace.
 
-185
-The conduct of God, who disposes all things kindly, is to put religion into the mind by reason, and into the heart by grace. But to will to put it into the mind and heart by force and threats is not to put religion there, but terror, terorrem potius quam religionem.
+But to put it into the mind and heart by force and threats is terrorism. 
 
-186
-Nisi terrerentur et non docerentur, improba quasi dominatio videretur (Aug., Ep. 48 or 49), Contra Mendacium ad Consentium.
+ <!-- not to put religion there, but terror, terorrem potius quam religionem. -->
 
-187
-Order.—Men despise religion; they hate it, and fear it is true. To remedy this, we must begin by showing that religion is not contrary to reason; that it is venerable, to inspire respect for it; then we must make it lovable, to make good men hope it is true; finally, we must prove it is true.
+<!-- 186
+Nisi terrerentur et non docerentur, improba quasi dominatio videretur (Aug., Ep. 48 or 49), Contra Mendacium ad Consentium. -->
 
-Venerable, because it has perfect knowledge of man; lovable, because it promises the true good.
 
-188
-In every dialogue and discourse, we must be able to say to those who take offence, "Of what do you complain?"
+<sup>187</sup> Men despise religion and fear it is true.
 
-189
-To begin by pitying unbelievers; they are wretched enough by their condition. We ought only to revile them where it is beneficial; but this does them harm.[Pg 53]
+To remedy this, I show that religion:
+- is not contrary to reason
+- is venerable
 
-190
-To pity atheists who seek, for are they not unhappy enough? To inveigh against those who make a boast of it.
+To inspire respect for it, we must:
+- make it lovable
+- make good men hope it is true
+- prove it is true
+
+<!-- Venerable, because it has perfect knowledge of man; lovable, because it promises the true good. -->
+
+
+<sup>188</sup> In every dialogue and discourse, we must be able to say to those who take offence, "Of what do you complain?"
+
+<sup>189</sup> To begin by pitying unbelievers; they are wretched enough by their condition. 
+
+We should only revile them where it is beneficial; but this does them harm.
+
+<sup>190</sup> To pity atheists who seek, for are they not unhappy enough? To inveigh against those who make a boast of it.
 
 191
 And will this one scoff at the other? Who ought to scoff? And yet, the latter does not scoff at the other, but pities him.
 
-192
-To reproach Miton[85] with not being troubled, since God will reproach him.
+192 To reproach Miton with not being troubled, since God will reproach him.
 
-193
-Quid fiet hominibus qui minima contemnunt, majora non credunt?
+<!-- 193
+Quid fiet hominibus qui minima contemnunt, majora non credunt? -->
 
 194
 ... Let them at least learn what is the religion they attack, before attacking it. If this religion boasted of having a clear view of God, and of possessing it open and unveiled, it would be attacking it to say that we see nothing in the world which shows it with this clearness. But since, on the contrary, it says that men are in darkness and estranged from God, that He has hidden Himself from their knowledge, that this is in fact the name which He gives Himself in the Scriptures, Deus absconditus;[86] and finally, if it endeavours equally to establish these two things: that God has set up in the Church visible signs to make Himself known to those who should seek Him sincerely, and that He has nevertheless so disguised them that He will only be perceived by those who seek Him with all their heart; what advantage can they obtain, when, in the negligence with which they make profession of being in search of the truth, they cry out that nothing reveals it to them; and since that darkness in which they are, and with which they upbraid the Church, establishes only one of the things which she affirms, without touching the other, and, very far from destroying, proves her doctrine?
@@ -228,8 +239,7 @@ Let this effect of nature, which previously seemed to you impossible, make you k
 232
 Infinite movement, the point which fills everything, the moment of rest; infinite without quantity, indivisible and infinite.
 
-233
-Infinite—nothing.—Our soul is cast into a body, where it finds number, time, dimension. 
+<sup>233</sup> Infinite—nothing.—Our soul is cast into a body, where it finds number, time, dimension. 
 
 Thereupon it reasons, and calls this nature, necessity, and can believe nothing else.
 

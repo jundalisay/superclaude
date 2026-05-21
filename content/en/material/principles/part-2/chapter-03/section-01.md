@@ -59,6 +59,36 @@ Material | mos3 + mom3 | Gravity
 Material | som2 | Gluon or Strong Force -->
 
 
+
+### Macro-Aetherspace Particles Versus Space Particles
+
+There are only 2 general kinds of spaces in the physical universe:
+
+1. Space
+
+This manifets as empty space, dark matter, gravity, vacuum energy
+
+2. Aetherspace
+
+This manifests as the gluon field (as micro-aetherspace), atomic space (as aetherspace), dark energy (as macro-aetherspace).
+
+
+
+In Descartes' Physics, space particles are speed changers, while aetherspace particles are shape changers:
+
+{{< q a="Rene Descartes" c="Principia, Part 2, Article 35" >}}
+There might be 2 kinds of particles:
+1. Shape-changers bend themselves in various ways and change their shapes.
+2. Speed-changers change their speed to occupy space accurately. These 2 jointly fit together and occupy all the space.
+{{< /q >}}
+
+
+Examples of shape changing of the aetherspace are:
+- The gluon field being in flux
+- Dark energy expansion being variable
+
+
+
 ### The Spatial Layer has Different Dynamics in Other Universes
 
 In one of the Sassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.

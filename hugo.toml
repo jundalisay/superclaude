@@ -63,7 +63,8 @@ defaultContentLanguageInSubdir = false
       { key = "news", url = "/news" },
       { key = "about", url = "/about" },
       { key = "faqs", url = "/faqs" },
-      { key = "help", url = "/help" }
+      { key = "help", url = "/help" },
+      { key = "tags", url = "/tags" }
     ]
 
     [languages.en.params]
@@ -146,7 +147,8 @@ defaultContentLanguageInSubdir = false
         { key = "news", url = "/news" },
         { key = "about", url = "/about" },
         { key = "faqs", url = "/faqs" },
-        { key = "help", url = "/help" }
+        { key = "help", url = "/help" },
+        { key = "tags", url = "/tags" }
       ]
 
     [languages.zh.params.quote1]

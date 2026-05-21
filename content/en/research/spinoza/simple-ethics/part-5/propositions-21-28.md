@@ -66,19 +66,27 @@ Proof.—This is evident from I. xxv. Coroll.
 
 ## 25. The highest endeavour of the mind, and the highest virtue is to understand things by the third kind of knowledge. 
 
-Proof.—The third kind of knowledge proceeds from an adequate idea of certain attributes of God to an adequate knowledge of the essence of things (see its definition II. xl. note. ii.); and, in proportion as we understand things more in this way, we better understand God (by the last Prop.); therefore (IV. xxviii.) the highest virtue of the mind, that is (IV. Def. viii.) the power, or nature, or (III. vii.) highest endeavour of the mind, is to understand things by the third kind of knowledge. Q.E.D.
+Proof.—The third kind of knowledge proceeds from an adequate idea of certain attributes of God to an adequate knowledge of the essence of things (see its definition II. xl. note. ii.).
+
+ As we understand things more in this way, we better understand God (by the last Prop.).
+
+ Therefore (4.28.) the highest virtue of the mind, that is (4. Def. 8) the power, or nature, or (3.7) highest endeavour of the mind, is to understand things by the third kind of knowledge. Q.E.D.
 
 
 
 ## 26. In proportion as the mind is more capable of understanding things by the third kind of knowledge, it desires more to understand things by that kind. 
 
-Proof—This is evident. For, in so far as we conceive the mind to be capable of conceiving things by this kind of knowledge, we, to that extent, conceive it as determined thus to conceive things; and consequently (Def. of the Emotions, i.), the mind desires so to do, in proportion as it is more capable thereof. Q.E.D.
+Proof: This is evident. 
+
+For, in so far as we conceive the mind to be capable of conceiving things by this kind of knowledge, we, to that extent, conceive it as determined thus to conceive things.
+
+Consequently, (Def. of the Emotions, i.), the mind desires so to do, in proportion as it is more capable thereof. Q.E.D.
 
 
 
 ## 27. From this third kind of knowledge arises the highest possible mental acquiescence. 
 
-Proof.—The highest virtue of the mind is to know God (IV. xxviii.), or to understand things by the third kind of knowledge (V. xxv.), and this virtue is greater in proportion as the mind knows things more by the said kind of knowledge (V. xxiv.).
+Proof: The highest virtue of the mind is to know God (4.28), or to understand things by the third kind of knowledge (V. xxv.), and this virtue is greater in proportion as the mind knows things more by the said kind of knowledge (5.24).
 
 Consequently, he who knows things by this kind of knowledge passes to the summit of human perfection, and is therefore (Def. of the Emotions, ii.) affected by the highest pleasure, such pleasure being accompanied by the idea of himself and his own virtue.
 

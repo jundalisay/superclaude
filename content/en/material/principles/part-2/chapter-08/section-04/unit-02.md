@@ -22,11 +22,17 @@ Instead, Descartes attributes  -->
 
 Gravity is caused by the relation or relativity between bodies, facilitated by space particles, now called spacetime.
 
-As cohesion gravity, it manifets most commonly as planetary orbits. 
+As cohesion gravity, it manifets most commonly as planetary orbits which are material-stellar vortices.
 
 You could say that the planets and oort cloud are sticking to the sun's gravitational territory just as water sticks to a leaf a surface tension. 
 
 ![Surface Tension](/photos/physics/tension.jpg)
+
+
+
+## Circular Orbits
+
+Chapter 4 explained that spatial vortices
 
 
 <!-- Descartes describes them as globules that are very flexible and mobile, giving them liquid properties.

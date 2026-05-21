@@ -68,14 +68,6 @@ Both qos and mos are made up of 4 aether particles that are flat, except for aet
 {{< i s="/graphics/physics/space.jpg" a="Spatial Shapes" c="The Spatial Layer particles have 4 aether particles" >}}
 
 
-qos are speed changers while mos are shape changers (since mos are waves, and qos are particles):
-
-{{< q a="Rene Descartes" c="Principia, Part 2, Article 35" >}}
-There might be 2 kinds of particles:
-1. Shape-changers bend themselves in various ways and change their shapes.
-2. Speed-changers change their speed to occupy space accurately. These 2 jointly fit together and occupy all the space.
-{{< /q >}}
-
 
 Since there is nothing static in the spatial layer, then a most3 (gravity) can convert to qoss and vice versa. 
 

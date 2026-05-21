@@ -1,6 +1,7 @@
 ---
 heading: "Section 4"
 title: "Spacetime Relationalities"
+linkTitle: Spatial
 date: 2024-12-19
 weight: 42
 image: /photos/physics/messier87.jpg
