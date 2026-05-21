@@ -1,12 +1,12 @@
 ---
 heading: "Section 2"
-title: "Galaxies and Quasars"
+title: "Galactic Vortices"
 image: "/photos/physics/messier87.jpg"
 description: "A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 23
+weight: 5
 # date: 2020-01-31
 icon: "Juan"
 aliases:

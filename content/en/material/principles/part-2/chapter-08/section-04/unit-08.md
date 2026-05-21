@@ -16,16 +16,18 @@ icon: "Juan"
 Galactic Gravitational Lensing is the bending of light caused by the intervention of a galactic vortex.
 
 
-
 ### Bullet Cluster: Separation by Collision and Cohesion
 
-Physicists cite the Bullet Cluster as as proof of matter-less lensing. 
+This is most famously seen in the Bullet Cluster, which is cited by physicists as proof of dark matter. 
+
+
+<!-- Physicists cite the Bullet Cluster as as proof of matter-less lensing. 
 - This leads them to invent dark matter since Newtonian Physics believes that lensing is caused by gravity, and gravity comes from matter. 
 - So dark matter is invisible matter
 
 But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space particles called the 2nd Element which is totally different from matter, which Descartes called the 3rd Element.
 - This difference of 2nd and 3rd Elements explains why they can be separated in the Bullet Cluster
-- Normally, they are united in planets, stars, and most galaxies.
+- Normally, they are united in planets, stars, and most galaxies. -->
 
 
 <!-- - So the invisibility of the lensing source matches this knowledge exactly -->

@@ -7,7 +7,7 @@ description: "The Quantum of Spacetime is the fundamental particle in the Spatia
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 2
 icon: "Juan"
 aliases:
   /material/principles/qos
@@ -22,9 +22,9 @@ These black holes are made up of quanta called quanta of spacetime (qos) as invi
 
 qos |  Examples
 --- | ---
-Universal | Universes
-Galactic | Galacies and Quasars
-Stellar | Stars and Planets
+Galactic | Galaxies and Quasars
+Stellar | Stars
+Planetary | Planets
 
 
 - The gaps between qos manifest as the Planck length. 
@@ -108,4 +108,5 @@ The properties of qots' are detected through the reaction of the body itself (th
 
 However, the best method is to do active observation through probing. 
  -->
+
 
