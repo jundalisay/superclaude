@@ -123,5 +123,44 @@ Like anything above the Physical Radiant Layer, these can be triggered by sound 
 
 
 
+## Node-Based Classification: Naming as They are Detected
+
+Unlike the naming system of Lamarck which is based on complexity of structure, the naming of Elementals and aliens are based on the temporal order of detection. 
+
+For example, the Anunnaki aliens were the first detected or noted down by humans, which they called:
+- God in the Bible
+- gods in the Sumerian, Mayan, Babylonian, Greek texts
+
+So we put Anunnaki as the representative of aliens that have a mix of human and bull features with wings.
+- Humans are then evolved from Anunnaki. 
+
+This gives us a flowchart:
+
+![Nodes](/graphics/bio/node.jpg)
+
+Humans are thus from the Anunnaki-Homo Erectus family, notated with Qualimath as `Anunnaki : Homo Erectus`. 
+
+We put the Anunnaki side as superior just as we regard human intelligence superior to animal intelligence, as opposed to the "environment-loving" nature of humans.
+
+
+## Elemental Classification is the Least Developed
+
+As the Superphysics team has almost no detection ability of Elementals, the classification sytem of Elementals is the least developed.
+
+![Nodes](/graphics/bio/cer.jpg)
+
+For example, the Sassani mention Cernunnos as a winter spirit that looks like a stag-human. This matches historical depictions in Europe and so is a valid node. However, it is not clear:
+- how Cernunnos is connected to other Elementals
+- what Element he is primarily in
+
+
+
+<!-- Anunnaki
+- Humans
+  - Grays
+    - Sassani
+    - Yahyel -->
+
+
 
 <!-- These eight living creatures were deva, naga, yaksha, gandharva, asura, garuda, kinnara and mahoraga. -->

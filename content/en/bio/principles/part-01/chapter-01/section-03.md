@@ -4,14 +4,13 @@ title: "Elementals and Superstition"
 date: 2023-12-08
 weight: 10
 image: "/photos/meta/occult.jpg"
-description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
+description: ""
 icon: "Superphysics"
 draft: true
 ---
 
 
-Limitations and superstition afflics the lower minds. 
-
+Buddhist monk Kukai classified 10 mental levels:
 
 Level of Mind | Behavior | Layer | Chakra
 --- | --- | --- | --- 
@@ -26,6 +25,8 @@ Level of Mind | Behavior | Layer | Chakra
 2. Mind of ultimate no-self-nature | penetrates all things but still dualistic | Aethereal | Ajna
 1. Secret sublime mind | breaks through duality | Aethereal | Top
 
+
+Limitations and superstition afflics the lower minds. 
 
 
 ## Find your own superstition
