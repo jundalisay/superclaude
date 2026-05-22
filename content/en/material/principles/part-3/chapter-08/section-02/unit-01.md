@@ -26,11 +26,15 @@ toc: false
 Spectral Relationalities expose the displacement action of the Spatial Layer. 
 
 
-Micro Displacement: Photo electric effect 
+1. Micro Displacement
 
-Displacement
+Examples are Photo electric effect
 
-Macro Displacement: Blackbody Radiation
+2. Displacement
+
+3. Macro Displacement
+
+Examples are Blackbody Radiation
 
 
 

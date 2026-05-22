@@ -1,7 +1,7 @@
 ---
-title: "Economic Democracy"
+title: "British policy on the Colony Trade"
 heading: "Chapter 7j"
-description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
+description: "British policy on the colony trade was more liberal and less oppressive,"
 c: "seagreen"
 weight: 746
 writer:
@@ -93,5 +93,3 @@ The English sugar colonies enjoy a free government as those in English colonies 
 But the French sugar colonies are not discouraged from refining their own sugar.
 
 More importantly, the genius of the French colonial government naturally introduces a better management of their negro slaves.
-
-

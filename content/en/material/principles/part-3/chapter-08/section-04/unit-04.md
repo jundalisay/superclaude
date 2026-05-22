@@ -1,6 +1,6 @@
 ---
-heading: "Unit 3"
-title: "Moving Electromagnetic Field: Faraday's Law"
+heading: "Unit 4 Cohesion"
+title: "Moving Electromagnetic Field: Overhauled Faraday's Law"
 date: 2023-10-31
 image: "/photos/physics/wire.jpg"  
 description: ""
@@ -26,13 +26,6 @@ This called Faraday's Law of Induction which says that the electric flux through
 ```
 𝜵x E = - 𝛅B / 𝛅t
 ```
-
-
-![Faraday]("/photos/physics/faraday.jpg")
-
-
-
-
 
 
 
@@ -61,65 +54,104 @@ Setup | Descartes Expectation | Actual Result
 
 
 
-<!-- 
-19th century Physics was stumped by the fact that a wire produced electricity when it was moved across a magnet, but did not produce electricity when it was at rest
+## Faraday's Paradox Solution
 
-{{< i s="/photos/physics/wire.jpg" a="Wire" >}}
-
-
-This led to Faraday's Law of Induction. His idea was that the movement caused a magnetic flux, which in Cartesian Physics is a magentic vortex.
-
-This flux then caused an electromotive force (EMF) which then created the electricity.
-- The EMF increases when the flux decreases and vice versa.
-
-In Cartesian Physics:
-- the EMF would be the ingress force that produces the electron vortex. 
-- the Lorentz Force would be the egress force that produces a magnetic field.
-
-{{< i s="/photos/physics/faraday.jpg" a="Faraday" >}}
+We fix Faraday's Paradox by basing the mechanism on channels instead of relative motion. 
 
 
-The flaw with Faraday was that he did not know that magnetism is caused by virtual photons going through straight channels.
-- The concept of channels is from Descartes in the 1630s
-- The concept of virtual photons are from Feynman in the 1940s via QED
+`V = Γ · (vwire × Ψfield)`
+
+- Γ (Gamma): the Unity Factor of the electron flow (how perfectly their flow is aligned)
+- vwire: the Absolute Velocity of the physical wire matrix
+- Ψfield: (Psi) is the structural density of the incoming virtual photons
+
+
+We then apply this to the examples above.
+
+
+<!-- <p>Let the base density of the striated magnetic particles be <strong>Ψ = 1.4</strong>. We define the state of the system using binary state variables where 1 represents spinning (active) and 0 represents stationary:</p>
+
+<ul>
+    <li><strong>ω<sub>w</sub></strong>: Rotational state of the wire disc.</li>
+    <li><strong>ω<sub>m</sub></strong>: Rotational state of the magnet.</li>
+</ul>
+
+<p>The general operational equation for the voltage output is:</p>
+<p><strong>V = (ω<sub>w</sub>) · Ψ · (1 - <sup>3</sup>/<sub>14</sub> ω<sub>m</sub>)</strong></p> -->
+
+### Scenario 1: Wire Disc Spinning (ω<sub>w</sub> = 1), Magnet Stationary (ω<sub>m</sub> = 0)</h4>
+
+Because the wire spins, the electrons achieve maximum unity (Γ = 1) allowing channels. 
+
+Because the magnet is static, the virtual photons enter with zero rotational alignment shear.
+
+<strong>V<sub>1</sub> = 1 · 1.4 · (1 - <sup>3</sup>/<sub>14</sub>(0)) = 1.4 V</strong>
+
+
+### Scenario 2: Wire Disc Stationary (ω<sub>w</sub> = 0), Magnet Spinning (ω<sub>m</sub> = 1)</h4>
+
+Because the wire is stationary, the electrons remain scattered. The unity factor is zero (Γ = 0), meaning no channels are possible.
+
+Even though the spinning magnet throws off virtual photon streams, they are unable to funnel into non-existent channels.
+
+<strong>V<sub>2</sub> = 0 · 1.4 · (1 - <sup>3</sup>/<sub>14</sub>(1)) = 0 V</strong>
+
+
+### Equation 3: Wire Disc Spinning (ω<sub>w</sub> = 1), Magnet Spinning (ω<sub>m</sub> = 1)
+
+The spinning wire successfully creates channels (Γ = 1). 
+
+However, because the magnet is also spinning, the incoming streams of virtual photons hit the wire at an angle, introducing a rotational alignment shear factor of <sup>3</sup>/<sub>14</sub> (or 21.43% loss) which slightly throttles the vortex stream.
+
+<strong>V<sub>3</sub> = 1 · 1.4 · (1 - <sup>3</sup>/<sub>14</sub>(1)) = 1.1 V</strong>
 
 
 
-Cartesian Physics explains that electromagnetism is caused by channels whether by matter (Material Layer or 3rd Element) or by electrons (Radiant Layer or 1st Element).
-- Magnetism is caused by virtual photons going through material channels
-- Electromagnetism is caused by virtual photons going through channels formed by electrons.
-  - Electrons line up when they flow, just like water in a plastic bottle lines up as a stream when you bore a hole at the bottom of the bottle. 
-
-When a wire is at rest in a magnetic field, its electrons do not flow and so there is no channel.
-
-But when the wire is moved, the electrons experience a shift in the virtual photons. This nudges them together to create a channel.
-
-{{< i s="/graphics/physics/induction.jpg" a="Induction" >}}
 
 
-This is why the speed and angle of the wire relative to the magnet are important. 
+<!-- <p>To absorb your operational model into the differential form of Maxwell’s third equation, we have to replace the abstract time-derivative of magnetic flux (<strong>−∂B/∂t</strong>) entirely.</p>
 
-Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, which is resolved by Cartesian channels.
+<p>In standard physics, the term <strong>−∂B/∂t</strong> represents a change in the field over time. This is exactly what causes the paradox: when a symmetrical cylindrical magnet spins on its axis, the field doesn't change over time (<strong>∂B/∂t = 0</strong>), leaving standard physics completely unable to account for the voltage without switching to a completely different mathematical rule (Lorentz motional EMF).</p>
 
-Physics concept | Cartesian equivalent
---- | ---
-flux | vortex
-charge | entrance or exit of channel
-divergence | vortex direction flow of virtual photons in or out
-curl | vortex rotational flow of virtual photons clockwise or anticlockwise
-electromotive force | the ingress force that produces the electron vortex 
-Lorentz Force | the egress force that produces a magnetic field
+<p>By shifting to Descartes' mechanical framework, we recognize that the curl of the induced electric field (<strong>∇ × E</strong>) isn't caused by time-varying metaphysics, but by the spatial vorticity created when a moving wire matrix zips open a channel through a stream of striated particles.</p> -->
 
 
-## The Ignorance of Maxwell Allows the Scam of Relativity
 
-Instead of adding channels, Maxwell merely adds divergence and curl to the flux. His ignorance allows the scammer Einstein to offer a false explanation as Special Relativity.  
+## Overhauling Faraday's Law
 
-Instead of simply combining moving electrons + virtual photons, this Relativity scam unites matter + electromagnetism. It mandates that everything is moving and mass-energy has equivalence.
+We modify the differential equation to absorb continuous variables:
 
-This hilarious theory says that electromagnetism is created by the length contraction of the electrons relative to the wire even if the electrons move very slowly.
+```
+∇ × E = ∇ × (Γ · S_alignment · (v_wire × Ψ_field))
+```
 
-The knowledge of channels not only solves Faraday's Paradox and makes Relativity unnecessary. It is also essential in deriving free energy from space since channels are needed to harness those virtual photons that are everywhere. 
+Instead of tracking an abstract <strong>B</strong> field, the right-hand side now calculates the spatial curl of the real-time physical interactions inside the conductor:
 
-Virtual photons are like money floating everywhere. But they can only be grabbed by a special claw.
+- **Ψ_field** (Virtual Photon Direction): The directional density vector of the incoming magnetic particle streams
+- **v_wire** (Absolute Speed Direction): The structural velocity of the physical wire matrix relative to the absolute ether
+- **Γ** (Unity Factor): A local scalar density (0 ≤ Γ ≤ 1) determined by the compression of electrons into channels
+- **S_alignment** (Alignment Scalar): The structural shear modifier (1 − 3/14 ω_m) that throttles the vortex stream if the incoming virtual photons are twisting
+
+By placing the entire mechanical interaction inside a spatial curl operator (<strong>∇ ×</strong>), the induced electric field inherits its structure directly from the physical motion and alignment of the matter involved.
+
+
+<!-- <h4>How this Resolves the Paradox in the 3 Scenarios</h4>
+
+<h5>Scenario 1: Wire Disc Spinning, Magnet Stationary</h5>
+<p><strong>Vector States:</strong> v_wire > 0, which compresses the electron minutiae to activate the channels (Γ = 1). The magnet is static, so there is zero rotational shear (S_alignment = 1).</p>
+<p><strong>Differential Outcome:</strong></p>
+<p><strong>∇ × E = ∇ × (1 · 1 · (v_wire × Ψ_field))</strong></p>
+<p>Because v_wire varies across the radius of the spinning disc, it creates a powerful spatial gradient. The curl is highly active, opening the zippers cleanly to output <strong>1.4 V</strong>.</p>
+
+<h5>Scenario 2: Wire Disc Stationary, Magnet Spinning</h5>
+<p><strong>Vector States:</strong> The wire matrix is dead still (v_wire = 0). Because there is no mechanical velocity to compress the electron minutiae, the unity factor collapses to zero (Γ = 0).</p>
+<p><strong>Differential Outcome:</strong></p>
+<p><strong>∇ × E = ∇ × (0 · S_alignment · (0 × Ψ_field)) = 0</strong></p>
+<p>The entire right-hand side drops to absolute zero. Even though the spinning magnet is throwing off a twisting particle stream (Ψ_field is active and rotating), it calculates to <strong>0 V</strong>. The lack of absolute wire motion means no structural channels are anchored in the conductor to generate a curl.</p>
+
+<h5>Scenario 3: Wire Disc Spinning, Magnet Spinning</h5>
+<p><strong>Vector States:</strong> The wire is spinning (v_wire > 0 ⇒ Γ = 1), meaning the structural channels are open. However, the magnet's simultaneous rotation introduces a twisting misalignment to the particle stream, triggering the shear penalty (S_alignment = 11/14 ≈ 0.7857).</p>
+<p><strong>Differential Outcome:</strong></p>
+<p><strong>∇ × E = ∇ × (1 · 11/14 · (v_wire × Ψ_field))</strong></p>
+<p>The spatial gradient is still present due to the wire's rotation, but the magnitude of the interacting vortex stream is uniformly throttled by the structural alignment shear. The resulting curl drops down proportionally, outputting exactly <strong>1.1 V</strong>.</p>
  -->

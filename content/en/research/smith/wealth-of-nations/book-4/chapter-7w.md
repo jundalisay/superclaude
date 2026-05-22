@@ -4,6 +4,7 @@ heading: "Chapter 7w"
 description: "Monopolies by country always attract more of the society's stock than what would go to that trade of its own accord"
 c: "seagreen"
 weight: 786
+icon: Adam Smith
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
