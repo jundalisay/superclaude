@@ -62,13 +62,17 @@ Material | som2 | Gluon or Strong Force -->
 
 ### Macro-Aetherspace Particles Versus Space Particles
 
-There are only 2 general kinds of spaces in the physical universe:
+There are only 2 general kinds of spaces in the physical universe. This representing the first 2 rules of motion:
 
 1. Space
+
+This is from the 1st rule of motion as no void -- space particles fill all of Existence.  
 
 This manifets as empty space, dark matter, gravity, vacuum energy
 
 2. Aetherspace
+
+This is from the 2nd rule of motion as relational spin and action. Densities within space create discrete identities through the Negative force. 
 
 This manifests as the gluon field (as micro-aetherspace), atomic space (as aetherspace), dark energy (as macro-aetherspace).
 

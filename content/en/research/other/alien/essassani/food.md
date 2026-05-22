@@ -29,3 +29,4 @@ They vibrate at a multiple of the energy that is coming in.
 98% of human bodily diseases is caused by toxins ingested over so many years. Opportunistic organisms then take advantage of this. 
 
 The best solution is to detoxify. 
+

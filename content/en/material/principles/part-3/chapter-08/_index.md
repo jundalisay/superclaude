@@ -8,7 +8,7 @@ description: "Particle spin is the orientation direction of a particle."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 470
+weight: 390
 icon: "Juan"
 toc: false
 ---

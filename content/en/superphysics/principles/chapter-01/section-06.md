@@ -74,8 +74,8 @@ Supermath | This manifests as the action of division
 > When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker
 
 This emphasizes the phenomenon of balance and natural limits and is given by the equation: `v1′ = [ Θ(2 - α) - 1 ]v1 + ΘαVc` where:
-- the left side is the original state activation
-- the right side is the shared state activation
+- the left side is the original state activation (This is displacement)
+- the right side is the shared state activation (This is rotation)
 
 
 {{< i s="/photos/physics/punch.jpg" a="Punch" >}}

@@ -1,6 +1,7 @@
 ---
 heading: Section 3
-title: "Macro Aetherspace (Dark Energy)"
+title: "Macro Aetherspace"
+# linkTitle: "Macro Aetherspace"
 description: "The Marco Aetherspace is the Middle SubLayer of the Spatial Layer"
 image: "/photos/physics/blow.jpg"
 # # date: 2020-10-31

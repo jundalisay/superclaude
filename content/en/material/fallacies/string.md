@@ -91,19 +91,19 @@ Therefore, both Einstein and Ptolemy are fallacies peddled as truth, covering up
 
 The solution is to get rid of Einstein's Relativity which carries the false idea of the simultaneity of time. 
 
-Instead of being light-based, time can be split into 3 kinds:
+Instead of being light-based, time can be split into 3 kinds which really just exposes 3 kinds of changes:
 
-1. Mental Time
+1. Mental Time (Quantum)
 
-This is timespace based on the Aether layer (5th Element to Cartesian Physics)
+This measures mental changes. This is timespace based on the Aether layer (5th Element to Cartesian Physics), and is opened up by quantum mechanics where the observer is important. 
 
-2. Electromagnetic Time
+2. Electromagnetic Time (Einstein or Modern)
 
-This is timespace based on the Radiant layer (1st Element to Cartesian Physics). This is known as relativistic time in Einstein's Physics.
+This measures visible changes facilitated by light. This is timespace based on the Radiant layer (1st Element to Cartesian Physics). This is known as relativistic time in Einstein's Physics.
 
-3. Material Time
+3. Material Time (Newtonian or Classical)
 
-This is timespace based on the Material layer (3rd Element to Cartesian Physics). This is known as absolute time in  Classical mechanics 
+This measures tangible changes facilitated by touch. This is timespace based on the Material layer (3rd Element to Cartesian Physics). This is known as absolute time in  Classical mechanics 
 
 {{< i s="/photos/objects/clock.jpg" a="String Theory and Supersymmetry are wrong" >}}
 

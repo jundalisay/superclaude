@@ -1,65 +1,46 @@
 ---
-heading: "Unit 2"
-title: "Maxwell's Equations"
+heading: "Unit 2 Micro Cohesion"
+title: "Maxwell's 1st Equation"
 # date: 2024-07-22
-weight: 4
-image: /photos/physics/maxwell.jpg
-description: "Radiant Territories are the electromagentic fields of Physics."
+weight: 7
+image: /photos/objects/magnet.jpg
+description: ""
 icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
-  /material/principles/part-3/chapter-07c  
+  /material/principles/part-3/chapter-07c
 ---
 
 
-Physics uses the concept of Quantum Electrodynamics (QED) to explain the dynamics of the Radiant Layer.
+<!-- Physics uses the concept of Quantum Electrodynamics (QED) to explain the dynamics of the Radiant Layer.
 
 Our medium-substance-quantum classification is a simpler version of the QED system which is based on sublayers and vortices.
 
-We can use Maxwell's Equations to notate these vortices as fluxes. 
+We can use Maxwell's Equations to notate these vortices as fluxes.  -->
 
 
-{{< i s="/photos/physics/maxwell.jpg" a="Maxwell's equations" >}}
+Micro Cohesion is caused by the 2nd Rule of Motion. 
 
-### Equation 1
+In the Radiant Layer, this manifests as divergence or flux. 
 
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
-
-```
-𝜵ꞏD = Pv
-```
-
-
-
-### Equation 2
-
-Gauss's Law with Magnetic Flux
+This is described by Maxwell's 2nd Equation which is Gauss's Law with Magnetic Flux
 
 ```
 𝜵ꞏB  = 0
 ```
 
-### Equation 3
-
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
-
-```
-𝜵x E = - 𝛅B / 𝛅t
-```
-
-
-This is a version of Faradays Law of Induction. 
+{{< i s="/photos/physics/maxwell.jpg" a="Maxwell's equations" >}}
 
 
 
-### Equation 4
+## What is a Magnetic Flux?
 
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
+A Magnetic Flux is a virtual photon vortex created with matter of the Material Layer.
 
-𝜵x H  = (𝛅B / 𝛅t) + J
+It begins when a void is created in the matter which manifests as a straight channel.
 
+This allows virtual photons to pass through. 
 
-<!-- Amperes Law  -->
 
