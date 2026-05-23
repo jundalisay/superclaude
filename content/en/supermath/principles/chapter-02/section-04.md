@@ -4,7 +4,7 @@ title: "The Periodic Table of Elements as Qualitative Instances"
 date: 2025-03-18
 image: "/graphics/physics/pentagonic.jpg"
 description: ""
-weight: 21
+weight: 9
 # was chapter 2b
 ---
 

@@ -4,7 +4,7 @@ title: "Dynamic Vortex (Complex) Numbers"
 date: 2026-04-13
 image: "/graphics/super/vortex.jpg"
 description: "Dynamic Vortex numbers are called complex numbers by math"
-weight: 6
+weight: 11
 ---
 
 

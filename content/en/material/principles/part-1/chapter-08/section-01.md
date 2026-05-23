@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "Aethereal Relationality"
 # : Motion is Internal"
 # date: 2023-12-10
-weight: 6
+weight: 3
 image: /photos/meta/heart.jpg
 description: "Aethereal Relationality deals with the movement of qoa"
 icon: "Juan"
