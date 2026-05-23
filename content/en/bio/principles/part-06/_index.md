@@ -1,8 +1,8 @@
 ---
 heading: Part 6
-title: "Technologies from Bio Superphysics"
-image: "/photos/med/meds.jpg"
-# date: 2023-12-10
+title: "The Alien Domain"
+image: "/photos/alien/treaty.jpg"
+date: 2026-05-21
 weight: 10
 ---
 

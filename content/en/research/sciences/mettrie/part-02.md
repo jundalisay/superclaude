@@ -1,9 +1,10 @@
 ---
-title: "Man as a Machine"
+title: "Man vs Animals"
 c: "firebrick"
 description: 
 date: 2025-09-04
 weight: 6
+icon: Mettrie
 ---
 
 

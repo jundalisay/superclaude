@@ -121,6 +121,9 @@ The virtual photons are elongated and pass very rapidly between those air-aether
 
 {{< i s="/graphics/physics/striated.jpg" a="Striated particle" >}}
 
+{{< i s="/graphics/physics/corkscrew.jpg" a="Virtual photon" c="The corkscrew striated pattern is now seen in the orbital angular momentum of photons" >}}
+
+
 This is why those virtual photons must have screw-threads to pass through those rotating globules very quickly.
 
 They would be more twisted the closer they are to the axis of the vortex and less twisted the farther away. 

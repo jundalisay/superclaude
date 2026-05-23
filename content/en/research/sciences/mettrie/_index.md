@@ -1,7 +1,8 @@
 ---
 title: "Man a Machine"
 c: "firebrick"
-description: Science Papers
+a: Mettrie
+description: "Paper by Julien Offray de La Mettrie"
 date: 2025-10-05
 weight: 44
 ---

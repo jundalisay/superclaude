@@ -16,16 +16,16 @@ aliases:
 Chapter | Archetype | Description
 --- | --- | --- 
 1 | Basic Philosophy | price
-2 | Wave Manifestation | How we see that Wave based on Smith's system
-3 | Wave Origin | The formalisms or ideas humans have created 
-4 | Wave Movement | The implementation of those ideas
-5 | Wave Institution | The systemization of those applied ideas
-6 | Wave Model | The science behind those ideas
-7 | Wave Measure | The dynamics, as charts, equations
-8 | Wave Efficiency | How to tweak those dynamics to get the desired effect
+2 | Wave Concepts | Unique qualities of the wave
+3 | Wave Manifestation | How it manifests in social reality
+4 | Wave Dynamics | How it moves
+5 | Wave Systems | The systems it creates
+6 | Wave Model | The patterns it creates
+7 | Wave Measure | The nuts and bolts of perception of the wave, as charts, equations
+8 | Wave Ratios | How the waves affects other waves
 9 | Wave Problem | Results from wrong dynamics
-10 | Wave Policy | To fix the problems
-11 | Class, Philosophy | Wave-influences on the mind 
+10 | Wave Solutions | To fix the problems
+11 | Economic Systems | Wave-influences on the mind 
 
 
 ## Part 1

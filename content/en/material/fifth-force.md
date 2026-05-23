@@ -2,7 +2,7 @@
 title: "The Muon G-2 Experiment: The CIB (X17)"
 date: 2022-04-13
 image: /graphics/physics/bands.jpg
-description: "The muon-G2 experiment is accounted for by Spacetime Quanta we call Aetherspace" 
+description: "The muon-G2 experiment is accounted for by X17" 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

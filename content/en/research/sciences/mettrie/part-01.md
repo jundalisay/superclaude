@@ -3,6 +3,7 @@ title: "Two Systems of Philosophy"
 c: "firebrick"
 description: 
 date: 2025-09-04
+icon: Mettrie
 weight: 4
 ---
 

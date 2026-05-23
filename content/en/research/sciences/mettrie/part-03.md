@@ -1,9 +1,10 @@
 ---
-title: "Man as a Machine"
+title: "How do animals learn?"
 c: "firebrick"
 description: 
 date: 2025-09-04
-weight: 6
+weight: 7
+icon: Mettrie
 ---
 
 
