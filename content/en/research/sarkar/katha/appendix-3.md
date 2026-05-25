@@ -4,6 +4,7 @@ heading: Appendix 3
 weight: 204
 description: "An Editor’s note in Prajina Bharati October 1983"
 c: "indigo"
+icon: Nagina
 author: Santosananda Avadhuta
 ---
 

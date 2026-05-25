@@ -1,7 +1,8 @@
 ---
 title: "The Social Cycles of Palestine"
 linkTitle: Palestine
-heading: "Positive Thinker"
+# heading: "Positive Thinker"
+heading: Negative Warrior
 # date: 2021-07-27
 date: 2024-01-27
 image: "/flags/ps.png"
@@ -32,7 +33,7 @@ You can trace this cycle backwards in time and it will match the Arab-Israeli Wa
 
 Palestine is currently at the latter parts of its Warrior Cycle. This is reflected in the massive planning for Al-Aqsa flood which took some years before its actual implementation in October 2023. 
 
-The secret to Hamas' victory of Fatah is that it can successfully match Palestine's social cycles, while Fatah and the PLO seem out of sync with it. 
+The secret to Hamas' victory over Fatah is that Hamas can successfully match Palestine's social cycles, while Fatah and the PLO seem out of sync with it. 
 
 {{<  youtube GOOqHQL-s8A >}}
 

@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 1"
 title: "The Third Law of Value"
+linkTitle: Law 3
 weight: 4
 # dateorig: Originally written in 2016
 image: /graphics/econ/law3.jpg

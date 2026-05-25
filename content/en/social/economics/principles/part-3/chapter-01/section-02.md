@@ -139,14 +139,30 @@ Trump reduced environmental rules to make the US wealthier in 2017 | Nature foug
 <!-- Those policies were created to increase wealth rapidly, but ended up destroying it. The more people study Smith and his ideas, the better will be humanity's chances in avoiding bad economic karma from selfish motives. -->
 
 
-{{< dc t="Luck vs Karma" >}}
+## Luck vs Karma
+
 According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
 
 If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
 
-The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
+Superphysics explains that is is because:
+- good deeds can only be done by good or Positive feelings, which can only come from a Positive Mind
+- bad deeds can only be done by bad or Negative feelings, which can only come from a Negative Mind. 
 
-So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
+And so doing more good deeds means your mind has a more positive vibration or mentality.
+
+Since mentality creates reality then:
+- the persistent positive vibration will create good effects, usually experienced as good luck
+- the persistent negative vibration will create bad effects, usually experienced as bad luck
+
+
+The problem is that such reactions do not happen in a fixed nor predictable time period. 
+
+A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
+
+So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. 
+
+Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
 
 This is why Asian philosophies have certain policy suggestions:
 
@@ -154,10 +170,19 @@ This is why Asian philosophies have certain policy suggestions:
 
 According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future.
 
-However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
+However, according to Superphysics, this is not 100% technically correct. 
+
+Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain Positive shape or mentality. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
+
 
 2. **Learn the techniques to burn karma faster, whether good or bad. **
 
-This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
-{{< /dc >}}
+This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. 
 
+Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
+
+Superphysics explains this as the ironing out of the bad or incompatible waves within your total wave mentality. 
+
+This is like combimg very long messy hair. You might feel resistance or even pain from the tangled parts, and you have to expert more effort on the most tangled ones. 
+
+But after your hair is neat again, the comb can flow easily. This manifests as an easier or lighter life. 

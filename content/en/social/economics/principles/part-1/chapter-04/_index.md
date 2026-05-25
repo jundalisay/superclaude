@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: Dynamics 
 # Labor Types
-description: The Dynamics of Need is adddressed by the 1st Law
+description: "This is patterned on the classification of passengers in a ship"
 image: /photos/econ/rider.jpg
 weight: 12
 ---

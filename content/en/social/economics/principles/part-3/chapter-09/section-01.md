@@ -1,9 +1,8 @@
 ---
 heading: "Section 1"
 title: "Underregulation and Overregulation"
-# date: 2022-12-24
-date: 2021-12-17
-weight: 48
+date: 2026-04-17
+weight: 4
 image: /photos/countries/capcom.jpg
 description: ""
 writer:
@@ -19,6 +18,9 @@ The government has the burden of balancing the various forces in society.
 Sometimes, it fails at this important task.
 - Sometimes, it underregulates, as in Capitalist countries.
 - Sometimes, it overregulates, as in Communist countries. 
+
+
+
 
 <!-- We give the problems that arise from such failures of government and economic systems.  -->
 

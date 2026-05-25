@@ -1,10 +1,10 @@
 ---
 heading: "Section 1"
-title: "Demand Services: Direct and Interect"
+title: "Essential Services"
 date: 2024-11-20
-weight: 8
-image: /photos/econ/pool.jpg
-description: "Demand is readily addressed by retail, as opposed to wholesale which trades items in bulk"
+weight: 3
+image: /photos/econ/power.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
@@ -14,7 +14,7 @@ aliases:
 
 
 
-Exchangeable Value is addressed in 2 ways:
+<!-- Exchangeable Value is addressed in 2 ways:
 
 1. Directly through service
 
@@ -25,3 +25,4 @@ If you are hungry, you can eat directly in a restaurant. Here, the service is th
 
 You can also buy food from a store or grocery which was already made elsewhere. Here, the service is the storage and display of the food items.
 
+ -->
