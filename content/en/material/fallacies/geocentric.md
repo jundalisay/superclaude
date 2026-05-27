@@ -79,3 +79,31 @@ You would think that seeing galaxies in a spiral shape and DNA with a helix shap
   - [https://www.earlymoderntexts.com/assets/pdfs/descartes1644.pdf](https://www.earlymoderntexts.com/assets/pdfs/descartes1644.pdf)
   - [https://www.gutenberg.org/cache/epub/4391/pg4391-images.html](https://www.gutenberg.org/cache/epub/4391/pg4391-images.html)
 
+
+### Update May 2026: What is the Geocentric Theory Good for?
+
+A lot of effort has been made by Aristotle and Ptolemy on the geocentric theory and so it must have some use somewhere.
+
+This is similar to Flat Earthers making a lot of effort to prove the Earth is flat. They are merely expressing the Physics of other universes where space particles have different shapes or programming that causes planets to become flat. 
+
+But the geocentric theory is based on real observations or our galaxy at least, and so it should be discarded so easily as the flat earth theory. 
+
+The real use of the geocentric theory is in **astrology**. 
+
+The stars are so far away that the sun and earth can be merged and treated as one central location. 
+
+Both Aristotle and Ptolemy were astrologists aside from being astronomers. 
+
+Astrology relies on the behavioral impact of starlight on the organisms that it lands on.
+
+This is why we regard sunlight as part of astrology. 
+- It makes people stay away in the daytime, yet some humans stay awake at night -- therefore sunlight causing wakefulness is subjective and not an absolute fact. 
+- Some animals are nocturnal
+
+
+Superphysics astrology is based on Kepler who used real data from planet positions and correctly had the concept of vayu that facilitates the action of light. 
+
+The Sassani no longer use astrology as they can manipulate their vayu by themselves, and are already going into non physical 5th density.
+
+
+

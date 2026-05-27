@@ -1,6 +1,6 @@
 ---
-title:  "A Theory Of Metallic Reflexion"
-heading:  "Chapter 5i"
+title: "A Theory Of Metallic Reflexion"
+heading: "Chapter 5i"
 weight: 48
 writer:
   name: Edmund Whittaker
@@ -37,31 +37,47 @@ On these principles mathematical formulae were devised by MacCullagh[71] and Cau
 
 To explain their method, we shall suppose the incident light to be polarized in the plane of incidence. According to Fresnel's sinc-law, the amplitude of the light (polarized in this way) reflected from a transparent body is to the amplitude of the incident light in the ratio
 
+....
+
 where i denotes the angle of incidence and r is determined from the equation
 
+...
 
 MacCullagh and Cauchy assumed that these equations hold good also for reflexion at a metallic surface, provided the refractive index μ is replaced by a complex quantity
+
+...
 
 where ν and κ are to be regarded as two constants characteristic of the metal. We have therefore
 
 If then we write
 
+...
+
 so that equations defining U and ν are obtained by equating separately the real and the imaginary parts of this equation, we have
+
+...
 
 and this may be written in the form
 
+...
+
 where
 
+...
 
 The quantities 
 
- mean the ratio of the intensities of the reflected and incident light, while δ measures the change of phase experienced by the light in reflexion.
+...
+
+mean the ratio of the intensities of the reflected and incident light, while δ measures the change of phase experienced by the light in reflexion.
 
 The case of light polarized at right angles to the plane of incidence may be treated in the same way.
 
 When the incidence is perpendicular, U evidently reduces to ν(1 + κ2)
 
-, and ν reduces to -tan-1κ. For silver at perpendicular incidence almost all the light is reflected, so 
+...
+
+and ν reduces to -tan-1κ. For silver at perpendicular incidence almost all the light is reflected, so 
 
 ...
 
@@ -77,32 +93,46 @@ We have therefore to modify Green's theory in such a way as to obtain a complex 
 
 Take the plane of incidence as plane of xy, and the metallic surface as plane of yz. If the light is polarized in the plane of incidence, so that the light-vector is parallel to the axis of z, the incident light may be taken to be a function of the argument
 
-Χ
+...
 
 where
 
-here i denotes the angle of incidence, ρ the inertia of the aether, and n its rigidity.
+...
+
+Here, i denotes the angle of incidence, ρ the inertia of the aether, and n its rigidity.
 
 Let the reflected light be a function of the argument
 
+...
+
+
 where, in order to secure continuity at the boundary, b and c must have the same values as before. Since Green's formulae are to be still applicable, we must have
+
+...
 
 where 
 
-{\displaystyle \sin i=\mu \sin r}, but μ has now a complex value. This equation may be written in the form
+...
 
+but μ has now a complex value. This equation may be written in the form
+
+...
 
 Let the complex value of μ2 be written
 
+...
 
 the real part being written ρ1/ρ in order to exhibit the analogy with Green's theory of transparent media: then we have
 
+...
 
 But an equation of this kind must (as in Green's theory) represent the condition to be satisfied in order that the quantity
 
+...
 
 may satisfy the differential equation of motion of the aether; from which we see that the equation of motion of the aether in the metallic medium is probably of the form
 
+...
 
 This equation of motion differs from that of a Greenian elastic solid by reason of the occurrence of the term in 
 

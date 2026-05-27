@@ -13,26 +13,36 @@ description: "Does a bar-magnet which is rotated on its own axis carries its lin
 
 A curious question which arose out of Faraday's theory was whether a bar-magnet which is rotated on its own axis carries its lines of magnetic force in rotation with it. 
 
-Faraday believed that the lines of force do not rotate[15]: on this view a revolving magnet like the earth is to be regarded as moving through its own lines of force, so that it must become charged at the equator and poles with electricity of opposite signs, and if a wire not partaking in the earth's rotation were to have sliding contact with the earth at a pole and at the equator, a current would steadily flow through it. 
+Faraday believed that the lines of force do not rotate: on this view a revolving magnet like the earth is to be regarded as moving through its own lines of force, so that it must become charged at the equator and poles with electricity of opposite signs, and if a wire not partaking in the earth's rotation were to have sliding contact with the earth at a pole and at the equator, a current would steadily flow through it. 
 
-Experiments confirmatory of these views were made by Faraday himself;[16] but they do not strictly prove his hypothesis that the lines of force remain at rest; for it is easily seen[17] that, if they were to rotate, that part of the electromotive force which would be produced by their rotation would be derivable from a potential, and so would produce no effect in closed circuits such as Faraday used.
+Experiments confirmatory of these views were made by Faraday himself.
+
+But they do not strictly prove his hypothesis that the lines of force remain at rest; for it is easily seen[17] that, if they were to rotate, that part of the electromotive force which would be produced by their rotation would be derivable from a potential, and so would produce no effect in closed circuits such as Faraday used.
 
 Three years after the commencement of Faraday's researches on induced currents he was led to an important extension of them by an observation which was communicated to him by another worker. 
 
-William Jenkin had noticed that an electric shock may be obtained with no more powerful source of electricity than a single cell, provided the wire through which the current passes is long and coiled; the shock being felt when contact is broken.[18] 
+William Jenkin had noticed that an electric shock may be obtained with no more powerful source of electricity than a single cell, provided the wire through which the current passes is long and coiled; the shock being felt when contact is broken.
 
-Jenkin did not choose to investigate the matter further. So Faraday took it up, and showed[19] that the powerful momentary current, which was observed when the circuit was interrupted, was really an induced current governed by the same laws as all other induced currents, but with this peculiarity, that the induced and inducing currents now flowed in the same circuit. In fact, the current in its steady state establishes in the surrounding region a magnetic field, whose lines of force are linked with the circuit; and the removal of these lines of force when the circuit is broken originates an induced current, which greatly reinforces the primary current just before its final extinction. To this phenomenon the name of self-induction has been given.
+Jenkin did not choose to investigate the matter further.
+
+So Faraday took it up, and showed[19] that the powerful momentary current, which was observed when the circuit was interrupted, was really an induced current governed by the same laws as all other induced currents, but with this peculiarity, that the induced and inducing currents now flowed in the same circuit. 
+
+In fact, the current in its steady state establishes in the surrounding region a magnetic field, whose lines of force are linked with the circuit; and the removal of these lines of force when the circuit is broken originates an induced current, which greatly reinforces the primary current just before its final extinction. To this phenomenon the name of self-induction has been given.
 
 The circumstances attending the discovery of self-induction occasioned a comment from Faraday on the number of suggestions which were continually being laid before him. He remarked that although at different times a large number of authors had presented him with their ideas, this case of Jenkin was the only one in which any result had followed. "The volunteers are serious embarrassments generally to the experienced philosopher."[20]
 
 The discoveries of Oersted, Ampère, and Faraday had shown the close connexion of magnetic with electric science. 
 
-But the connexion of the different branches of electric science with each other was still not altogether clear. Although Wollaston's experiments of 1801 had in effect proved the identity in kind of the currents derived from frictional and voltaic sources, the question was still regarded as open thirty years afterwards,[21] no satisfactory explanation being forthcoming of the fact that frictional electricity appeared to be a surface-phenomenon, whereas voltaic electricity was conducted within the interior substance of bodies. To this question Faraday now applied himself; and in 1833 he succeeded[22] in showing that every known effect of electricity-physiological, magnetic, luminous, calorific, chemical, and mechanical-may be obtained indifferently either with the electricity which is obtained by friction or with that obtained from a voltaic battery. Henceforth the identity of the two was beyond dispute.
+But the connexion of the different branches of electric science with each other was still not altogether clear. Although Wollaston's experiments of 1801 had in effect proved the identity in kind of the currents derived from frictional and voltaic sources, the question was still regarded as open thirty years afterwards, no satisfactory explanation being forthcoming of the fact that frictional electricity appeared to be a surface-phenomenon, whereas voltaic electricity was conducted within the interior substance of bodies.
+
+To this question Faraday now applied himself; and in 1833 he succeeded in showing that every known effect of electricity-physiological, magnetic, luminous, calorific, chemical, and mechanical-may be obtained indifferently either with the electricity which is obtained by friction or with that obtained from a voltaic battery. Henceforth the identity of the two was beyond dispute.
 
 
 Some misapprehension, however, has existed among later writers as to the conclusions which may be drawn from this identification. 
 
-What Faraday proved is that the process which goes on in a wire connecting the terminals of a voltaic cell is of the same nature as the process which for a short time goes on in a wire by which a condenser is discharged. He did not prove, and did not profess to have proved, that this process consists in the actual movement of a quasi-substance, electricity, from one plate of the condenser to the other, or of two quasi-substances, the resinous and vitreous electricities, in opposite directions. The process had been pictured in this way by many of his predecessors, notably by Volta; and it has since been so pictured by most of his successors: but from such assumptions Faraday himself carefully abstained.
+What Faraday proved is that the process which goes on in a wire connecting the terminals of a voltaic cell is of the same nature as the process which for a short time goes on in a wire by which a condenser is discharged. He did not prove, and did not profess to have proved, that this process consists in the actual movement of a quasi-substance, electricity, from one plate of the condenser to the other, or of two quasi-substances, the resinous and vitreous electricities, in opposite directions. 
+
+The process had been pictured in this way by many of his predecessors, notably by Volta; and it has since been so pictured by most of his successors: but from such assumptions Faraday himself carefully abstained.
 
 What is common to all theories, and is universally conceded, is that the rate of increase in the total quantity of electrostatic charge within any volume-element is equal to the excess of the influx over the efflux of current from it. This statement may be represented by the equation
 

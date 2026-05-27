@@ -136,18 +136,37 @@ Those countries which seeded the Marginal Revolution, eventually reaped World Wa
 
 However, it might seem absurd to blame Economics as the cause of World Wars. Economics has spread around the world through APEC, NAFTA, and the WTO, yet where is World War III? <!-- The suffering from Cold War is still far less than that from World War II. -->
 
-In reality, the formalization of its curves came as **an effect of a wave of selfishness** that seemed to spread in Europe, as well as Japan, during the late 19th century. It would be like a greed virus that started silently spreading from the 1870's in Europe and Asia that started killing its hosts by 1917 through war. 
+
+## Update May 2026: World War 3 took its time
+
+Our model predicted World War 3 to begin during [the crisis years](/social/supersociology/precrisis-years/) between 2020-2035 just as the Great Crash to the End of WWII took roughly 15 years. 
+
+As you can see the carriers of the Negative selfishness virus as Europe and the US did create wars within the timeframe predicted.
+
+- Europe (via Ukraine) 2022
+- US (via Israel) 2026
+
+
+All that is needed to make it World War is for China to start being as selfish too. 
+
+This wave of selfishness was preceded or marked by the same pattern of crises:
+
+Year | Economic Crisis
+--- | ---
+1980s | The Latin American Debt Crisis
+1997 | The Asian Crisis
+2008 | Financial Crisis
+2021 | Covid Recession
+
+
+<!-- In reality, the formalization of its curves came as **an effect of a wave of selfishness** that seemed to spread in Europe, as well as Japan, during the late 19th century. It would be like a greed virus that started silently spreading from the 1870's in Europe and Asia that started killing its hosts by 1917 through war. 
 
 When you are infected by a virus, you act abnormally, coughing or sweating beyond your control. Similarly, the humans infected by the greed virus find themselves killing others for land and property, and gambling in stocks and commodities leading to a crash. 
 
 Therefore, while it is true that there has been no World War III (the non-nuclear Cold War isn't it), the lethality of the greed virus manifested instead as:
 
-- The Latin American Debt Crisis
-- The Asian Crisis
-- The 2008 Financial Crisis
-- The current Covid Recession
 
-The miniscule effect of the Panics of the 1890s are nowhere near the damage inflicted by those crises. 
+The miniscule effect of the Panics of the 1890s are nowhere near the damage inflicted by those crises.  -->
 
 
 

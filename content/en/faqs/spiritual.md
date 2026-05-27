@@ -43,7 +43,8 @@ Samadhi is an experience. Moksha and mukti are states.
 
 So samadhi is like a graduation ceremony. Moksha is like getting a masters degree, while mukti is getting a bachelor's degree. 
 
-You can get samadhi many times just as you can recreate your graduation ceremony. But the first one is usually the most striking. Mukti is the state of realizing the Supreme, while Moksha is the state of realizing the Absolute. 
+You can get samadhi many times just as you can recreate your graduation ceremony. But the first one is usually the most striking. Mukti is the state of realizing the Supreme, while Moksha is the state of realizing the Absolute. The Sassani call the Supreme as "All There Is" and the Absolute as "The One". 
+<!-- The Hindus call It "Saguna Brahma" and "Nirguna Brahma" respectively. -->
 {{< /l >}}
 
 
@@ -72,6 +73,10 @@ Yes, ideally. This is because ideas (particles) are driven by feelings (waves). 
 The farther from that time, the weaker the feeling becomes. We recreate those feelings by reading through the works from those times (or watching videos if videos were already available). 
 
 For example, if we consider *The Wealth of Nations* as the bible of Supereconomics, you will find it strange that it has a long chapter on the military. But by going through the biography of Adam Smith, you will discover that establishing a Scottish militia was a major feeling back then, to protect Scotland from England. So this feeling makes its way into that book as a long chapter. 
+
+But if you were dogmatic, you would wrongly think that an Adam Smith-based economic system prioritizes military spending. 
+
+Similarly, selfish liberals feel a lot for making money for themselves and so they weirdly reinterpret The Wealth of Nations to justify high profits and free markets even if Adam Smith clearly said low profits and economic justice via the invisible hand was the goal of his system. 
 {{< /l >}}
 
 {{< r a="Muslim" >}}
@@ -96,6 +101,8 @@ What is consciousness?
 We use Cartesian mechanistic physics to explain it as a hole for a mind. Information then flows into that hole. This either expands of constricts the mind. This is similar to how water can expand a rubber hose, and how it can be shrunk via Bernoulli's principle.  
 - Crudity and materialism is when the mind is constricted more than average. This makes it perceive less of the universe and more of its limited physical aspects. 
 - Englightenment is when it is expanded. This makes it perceive so much more beyond the physical.
+
+Note that while we (as 4th density) emphasize mind over consciousness, the Sassani (as 5th density) emphasize consciousness over mind. 
 {{< /l >}}
 
 
@@ -109,6 +116,17 @@ Yes. The 6-sense ability to expand and go beyond physicality is inherent in all 
 
 
 {{< r a="Muslim" >}}
+What is the 6th sense?
+{{< /r >}}
+
+{{< l a="Spiritual Superphysics" >}}
+The 6th sense is a blanket term for the perceptions enabled by chakras 5, 6, 7, as opposed to the lower perceptions enabled by chakras 1, 2, 3, 4. Chakras are aethereal vortices that let the aether flow from the upper layers or dimensions. 
+
+We are constantly trying to tap the upper chakras to complete the principles of Bio and Spiritual Superphysics which are the most deficient parts. In contrast, the principles of Material and Social Superphysics are relatively easy to discover as humans have been detecting low vibrations since ancient times.
+{{< /l >}}
+
+
+{{< r a="Muslim" >}}
 So how would you lead people to samadhi in a physics-way or scientific-way instead of a religious-way without telling people to 'follow this' or 'follow that'?  
 {{< /r >}}
 
@@ -116,14 +134,17 @@ So how would you lead people to samadhi in a physics-way or scientific-way inste
 By explaining the principles of the Supreme Entity, then finding how the person can best match those principles. For example, if you want to cook an egg, you can:
 - keep it in the eggshell, then steam or boil it
 - remove the eggshell, then fry or boil it
+  - if you fry it you can choose whether to keep it sunny side up or scrambled
 
 A person with no water but has oil will logically fry the egg. Another person that has no oil but has water will boil it.
 {{< /l >}}
 
 {{< l a="Spiritual Superphysics" >}}
-Similarly, some people are born into Asian families which are tolerant of the idea of spirits. For them, we recommend those esoteric paths. Others are born into Western families that want money and wealth. For them, we recommend the New Agey Law of Attraction type paths.
+Similarly, some people are born into Asian families which are tolerant of the idea of spirits. For them, we recommend those esoteric paths that promote restraint and discipline. Others are born into Western families that want money and wealth. For them, we recommend the New Agey Law of Attraction type paths that tell them how to get what they want. 
 
-So instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions. This is what **Socratic Dialectics** does. 
+So these are two very different paths that lead to the same thing. 
+
+Instead of 'Do this, Do that', ours is 'If this then that' -- we try to know the person's mentality and situation first, instead of making blanket impositions. This is what **Socratic Dialectics** does. 
 {{< /l >}}
 
 {{< r a="Muslim" >}}
@@ -143,38 +164,47 @@ But all this sounds like New Agey woo made to sound scientific. No one has seen 
 <!-- The Law of Attraction and positive thinking are just mental, not spiritual. -->
 
 {{< l a="Spiritual Superphysics" >}}
-Sight is facilitated by electromagnetism. The soul is aethereal and is 2 layers above electromagnetism and 1 layer above spacetime. This is why the properties of the soul can only be detected by comparing the object or person to itself and others throughout space and time, as a pattern just as a wave is a pattern. 
+The soul is aethereal which is 2 layers or elements above the Fire Element which allows light and sight. 
+
+This is why the properties of the soul can only be detected indirectly by the heart which is at the Air Element just under the Aethereal Element. 
+
+So people who say that the soul does not exist and cannot be proven are merely exposing that they have no heart, or have an undeveloped heart because of the dominance of the Negative Force, as Yin or Shakti. 
+
+This is consistent with selfishness and the pursuit of money and shallow empirical evidence. Such people usually spend all their energies on the brain, leading to an undeveloped heart and consequently, no detection ability of the aether. This makes them think that everything happens by mere chance. 
+<!-- comparing the object or person to itself and others throughout space and time, as a pattern just as a wave is a pattern.  -->
 {{< /l>}}
 
 
-{{< r a="Muslim" >}}
-But space and time are just mental constructs. How can it lead to spirituality?
-{{< /r >}}
+<!-- But space and time are just mental constructs. How can it lead to spirituality?
 
-<!-- Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year. -->
-{{< l a="Spiritual Superphysics" >}}
+
+Mentalities have a lot of levels just as school has levels. You can't expect a pre-school student to upgrade to high school immediately. Normally, they should go to elementary school next and not stay stuck in pre-school year after year.
+
 Analyzing events and phenomena in totally different places and times, while keeping with the dharma, makes the mind more expanded and therefore subtle (without dharma it becomes crazy/floating/ungrounded). This is because space-time is closer to the nature of the aether instead of matter. Spirituality becomes easier to grasp and detect when the mind becomes subtle (i.e. the focus is on the heart more than the brain).
 
 Likewise, the human species seems to stay stuck in materialism and its many problems generation after generation. We want to drive an upgrade towards the more subtle levels, even if it is not totally spiritual.    
-{{< /l >}}
+ -->
 
 {{< r a="Muslim" >}}
-What is spirituality anyway?
+What is the Positive and Negative Force?
 {{< /r >}}
 
 {{< l a="Spiritual Superphysics" >}}
-Spirituality is when the mind becomes more aligned with the cause of existence instead of being the effect. This can only be done through metaphysics which, according to Aristotle, is the study of first causes. When you are the cause then you can make any effect that you want. 
+Those 2 Forces create Existence. The Positive Force leads to Spirituality, while the Negative Force leads to Materialism. Both the Asian esoteric and Western Law of Attraction paths use the 2 Forces to get their desired effect, such as manifestation.
+
+<!-- Spirituality is when the mind becomes more aligned with the cause of existence instead of being the effect. This can only be done through metaphysics which, according to Aristotle, is the study of first causes. When you are the cause then you can make any effect that you want.  -->
 {{< /l >}}
 
 
 {{< r a="Asker" >}}
-Oh that's great! I want to "effect" my prince charming and a lot of money to enjoy my existence.
+Oh that's great! I want to manifest my prince charming and a lot of money to enjoy my existence.
 {{< /r >}}
 
 <!-- A lot of people get conned by those Law of Attraction scams. I tried it but my prince charming hasn't come yet. Can you help me manifest my knight in shining armor? -->
 
 {{< l a="Spiritual Superphysics" >}}
 But that will just trap you into effects even more. The closer you are to the cause, the less you will give importance to effects such as the perceptions and feelings that you used to have. Instead, you will have totally new feelings and perceptions that matches an expanding mind. 
+
 <!-- We focus on using such "Laws" to discover more of the Supreme. Perhaps if you get closer to the Supreme, you might get a  prince charming if that is really destined for you by your *dharma*. But most often, such ideas are impositions by the Negative Ego and not from the Supreme.    -->
 {{< /l >}}
 
@@ -203,7 +233,7 @@ To be promoted under Spiritual Superphysics, a belief-system should:
 - those principles should lead to samadhi as evidenced by consistent explanations of it
 - have some concepts about true nature (dharma), the Positive and Negative Forces, and/or the 5 Elements
 
-So far, the ones that meet these criteria are Hinduism (Yoga, Tantra, Vedanta), Buddhism, and Taoism. 
+So far, the ones that meet these criteria are Hinduism (Yoga, Tantra, Vedanta), Buddhism, Taoism, and Sikhism (though it is deficient in the 2 Forces). 
 {{< /r >}}
 
 
@@ -246,12 +276,26 @@ The goal is to raise your frequency by shortening your wavelength. This will mak
 Carnivores such as wolves and vultures are designed to ingest lower wavelength, while herbivores ingest shorter. 
 
 <!-- Plants get energy directly as solar wavelengths which they use to absorb nutrients from the soil. -->
-{{< /l >}}
 
-{{< l a="Spiritual Superphysics" >}}
-Samadhi requires very short wavelengths. So we recommend a plant-based diet for those aiming for samadhi. 
+Samadhi requires very short wavelengths as faster spin. The Sassani already gave the ideal spiritual spin as 333,000 cycles per second. Currently, most humans are at around 40,000-80,000 cycles per second.
+
+So we recommend a plant-based diet for those aiming for samadhi. 
 
 For the rest, science advocates a planetary health diet which is mostly short wavelength, which might be good enough for some spiritual experiences. But at least, it will make the mind subtler. 
+<!-- If you must eat meat, at least imagine the animal you're eating being killed just to be food for you. It would be an exercise to expand your mind to think and feel beyond your self and into others. -->
+{{< /l >}}
 
-If you must eat meat, at least imagine the animal you're eating being killed just to be food for you. It would be an exercise to expand your mind to think and feel beyond your self and into others.  
+
+{{< r a="Banker" >}}
+What is actually spinning at 40,000-80,000 cycles per second?
+{{< /r >}}
+
+
+
+{{< l a="Spiritual Superphysics" >}}
+The Sassani explain that the body's electrons are the ones spinning. 
+
+But since this does not create any electromagnetism, we revise this to mean Yogananda's lifetrons which are part of the Fire Element. This creates the aura of various colors.
+
+A slow spin will show a red aura and a fast spin will show a blue or violet aura.
 {{< /l >}}

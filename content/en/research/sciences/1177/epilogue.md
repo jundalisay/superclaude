@@ -7,71 +7,60 @@ c: darkslategray
 ---
 
 
+From the time of Hatshepsut’s reign around 1500 BC until when everything collapsed after 1200 BC—the Mediterranean hosted Minoans, Mycenaeans, Hittites, Assyrians, Babylonians, Mitannians, Canaanites, Cypriots, and Egyptians.
 
-For more than 300 years during the Late Bronze Age—from about the time of Hatshepsut’s reign beginning about 1500 BC until the time that everything collapsed
-after 1200 BC—the Mediterranean region played host to a complex international world in which Minoans, Mycenaeans, Hittites, Assyrians, Babylonians, Mitannians, Canaanites, Cypriots, and Egyptians all interacted, creating a cosmopolitan and globalized world system such as has only rarely been seen before the current day.
+This very internationalism that contributed to the apocalyptic disaster that ended the Bronze Age. 
 
-This very internationalism that contributed to the apocalyptic disaster that ended the Bronze Age. The cultures of the Near East, Egypt, and
-Greece seem to have been so intertwined and interdependent by 1177 BC that the fall of one ultimately brought down the others,
-as, one after another, the flourishing civilizations were destroyed
-by acts of man or nature, or a lethal combination of both.
+The cultures of the Near East, Egypt, and Greece seem were so intertwined and interdependent by 1177 BC that the fall of one ultimately brought down the others, one after another.
 
-However, even after all that has been said, we must acknowledge our inability to determine with certainty the precise
+The flourishing civilizations were destroyed by acts of man or nature, or a  combination of both.
+
+<!-- However, even after all that has been said, we must acknowledge our inability to determine with certainty the precise
 cause (or multitude of causes) for the collapse of civilizations and
 the transition from the end of the Late Bronze Age to the Iron Age
 in the Aegean and Eastern Mediterranean, or even to definitively
-identify the origins and motivations of the Sea Peoples.
-Nevertheless, if we pull together the threads of evidence that
-have been presented throughout our discussions, there are some things that we can say about this pivotal period with relative confidence.
+identify the origins and motivations of the Sea Peoples. -->
 
-For instance, we have reasonably good evidence that at least
-some international contacts and perhaps trade continued right up
-until the sudden end of the era, and possibly even beyond (if
-recent studies are any indication).1 This is shown, for instance, by
-the last letters in the Ugarit archives documenting contacts with
-Cyprus, Egypt, the Hittites, and the Aegean, as well as by the gifts
-sent by the Egyptian pharaoh Merneptah to the king of Ugarit just
-a few decades, at most, before the city was destroyed. At the very
-least, there is no evidence of a discernible decrease in contact and
-trade—except perhaps for momentary fluctuations in intensity—
-across the Aegean and Eastern Mediterranean until the troubles
-began.
+But we are not certain about:
+- this
+- the idenitity and motivations of the Sea Peoples
 
-But then, the world as they had known it for more than three
-centuries collapsed and essentially vanished. As we have seen, the
-end of the Late Bronze Age in the Aegean and Eastern
-Mediterranean regions, an area that extended from Italy and
-Greece to Egypt and Mesopotamia, was a fluid event, taking place
-over the course of several decades and perhaps even up to a
-century, not an occurrence tied to a specific year. But the eighth
-year of the reign of the Egyptian pharaoh Ramses III—1177 BC,
-to be specific, according to the chronology currently used by most
-modern Egyptologists—stands out and is the most representative
-of the entire collapse. For it was in that year, according to the
-Egyptian records, that the Sea Peoples came sweeping through
-the region, wreaking havoc for a second time. It was a year when
-great land and sea battles were fought in the Nile delta; a year
-when Egypt struggled for its very survival; a year by which time
-some of the high-flying civilizations of the Bronze Age had
-already come to a crashing halt.
-In fact, one might argue that 1177 BC is to the end of the Late
-Bronze Age as AD 476 is to the end of Rome and the western
-Roman Empire. That is to say, both are dates to which modern
-235
-scholars can conveniently point as the end of a major era. Italy
-was invaded and Rome was sacked several times during the fifth
-century AD, including in AD 410 by Alaric and the Visigoths and
-in AD 455 by Geiseric and the Vandals. There were also many
-other reasons why Rome fell, in addition to these attacks, and the
-story is much more complex, as any Roman historian will readily
-attest. However, it is convenient, and considered acceptable
-academic shorthand, to link the invasion by Odoacer and the
+Nevertheless, based on evidence, I am confident about the following.
+
+Some international contacts and trade continued right up until the sudden end of the era, and possibly even beyond.
+
+This is shown, for instance, by the last letters in the Ugarit archives documenting contacts with Cyprus, Egypt, the Hittites, and the Aegean, as well as by the gifts
+sent by the Egyptian pharaoh Merneptah to the king of Ugarit just a few decades, at most, before the city was destroyed. 
+
+At the very least, there is no evidence of a discernible decrease in contact and trade—except perhaps for momentary fluctuations in intensity—across the Aegean and Eastern Mediterranean until the troubles began.
+
+But then, the world as they had known it for more than 300 years collapsed and vanished.
+
+The end of the Late Bronze Age in the Aegean and Eastern Mediterranean regions, an area that extended from Italy and Greece to Egypt and Mesopotamia, was a fluid event, taking place
+over the course of several decades and perhaps even up to a century, not an occurrence tied to a specific year.
+
+1177 BC was the 8th year of pharaoh Ramses 3rd's reign.
+- It represents the entire collapse.
+
+In that year:
+- the Sea Peoples came sweeping through the region, wreaking havoc for a second time.
+- great land and sea battles were fought in the Nile delta
+- Egypt struggled for its very survival
+- some of the high-flying civilizations of the Bronze Age had already come to a crashing halt
+
+In fact, 1177 BC is the end of the Late Bronze Age just as AD 476 is the end of Rome and the western Roman Empire.
+
+Italy was invaded and Rome was sacked several times during the fifth century AD, including in AD 410 by Alaric and the Visigoths and in AD 455 by Geiseric and the Vandals. There were also many
+other reasons why Rome fell, in addition to these attacks, and the story is much more complex, as any Roman historian will readily attest.
+
+However, it is convenient, and considered acceptable academic shorthand, to link the invasion by Odoacer and the
 Ostragoths in AD 476 with the end of Rome’s glory days.
-The end of the Late Bronze Age and the transition to the Iron
-Age is a similar case, insofar as the collapse and transition was a
+
+The end of the Late Bronze Age and the transition to the Iron Age is a similar case, insofar as the collapse and transition was a
 rolling event, taking place between approximately 1225 and 1175
-BC or, in some places, as late as 1130 BC. However, the second
-invasion by the Sea Peoples, ending in their cataclysmic fight
+BC or, in some places, as late as 1130 BC.
+
+However, the second invasion by the Sea Peoples, ending in their cataclysmic fight
 against the Egyptians under Ramses III during the eighth year of
 his reign, in 1177 BC, is a reasonable benchmark and allows us to
 put a finite date on a rather elusive pivotal moment and the end
@@ -84,6 +73,7 @@ city-states during the following Early Iron Age. Consequently, our
 picture of the Mediterranean and Near Eastern world of 1200 BC
 is quite different from that of 1100 BC and completely different
 from that of 1000 BC.
+
 We have firm evidence that it took decades, and even
 centuries in some areas, for the people in these regions to rebuild
 and reclaim their societies, and to forge new lives that would
@@ -91,9 +81,9 @@ bring them back up out of the darkness into which they had been
 plunged. Jack Davis of the University of Cincinnati has pointed
 out, for instance, that “the destruction to the Palace of Nestor ca.
 1180 BC was so devastating that neither the palace nor the
-community subsequently recovered…. The area of the Mycenaean
-236
-kingdom of Pylos remained, as a whole in fact, severely
+community subsequently recovered…. 
+
+The area of the Mycenaean kingdom of Pylos remained, as a whole in fact, severely
 depopulated for nearly a millennium.”2 Joseph Maran, of the
 University of Heidelberg, has further noted that, although we
 don’t know how contemporaneous the final destructions actually
@@ -106,7 +96,9 @@ the same holds true for Ugarit and the other entities that had
 flourished in the Eastern Mediterranean during the Late Bronze
 Age, for with their end came also the end of cuneiform writing in
 the Levant, replaced by other, perhaps more useful or convenient,
-writing systems.4
+writing systems.
+
+
 In addition to the artifacts, it is through writing that we have
 tangible, concrete evidence for the interconnectedness and
 globalization of these regions during those years, particularly in

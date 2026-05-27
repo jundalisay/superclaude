@@ -7,10 +7,9 @@ icon: "Capra"
 ---
 
 
-The Eastern religious philosophies are concerned with timeless mystical knowledge which lies beyond reasoning and cannot
-be adequately expressed in words. The relation of this knowledge to modern physics is but one of its many aspects and, like all
-the others, it cannot be demonstrated conclusively but has to be experienced in a direct intuitive way. What I hope to have
-achieved, to some extent, therefore, is not a rigorous demonstration, but rather to have given the reader an opportunity to
+The Eastern religious philosophies are concerned with timeless mystical knowledge which lies beyond reasoning and cannot be adequately expressed in words.
+
+The relation of this knowledge to modern physics is but one of its many aspects and, like all the others, it cannot be demonstrated conclusively but has to be experienced in a direct intuitive way. What I hope to have achieved, to some extent, therefore, is not a rigorous demonstration, but rather to have given the reader an opportunity to
 relive, every now and then, an experience which has become for me a source of continuing joy and inspiration; that the
 principal theories and models of modern physics lead to a
 view of the world which is internally consistent and in perfect
@@ -186,3 +185,5 @@ of the word.
 The survival of our whole civilization may depend on whether we can bring about such a change. It will depend,
 ultimately, on our ability to adopt some of the yin attitudes of
 Eastern mysticism; to experience the wholeness of nature and the art of living with it in harmony.
+
+
