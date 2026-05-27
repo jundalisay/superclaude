@@ -8,11 +8,18 @@ c: "firebrick"
 ---
 
 
+
 SIR,
 
-§. 1. Non-electric bodies, that have electric fire thrown into them, will retain it 'till other non-electrics, that have less, approach; and then 'tis communicated by a snap, and becomes equally divided.
+1. Non-electric bodies that have electric fire thrown into them will retain it until other non-electrics, that have less, approach.
 
-2. Electrical fire loves water, is strongly attracted by it, and they can subsist together.
+This is communicated by a snap and becomes equally divided.
+
+2. Electrical fire:
+- loves water
+- is strongly attracted by water
+
+They can subsist together.
 
 3. Air is an electric per se.
 
@@ -24,11 +31,11 @@ This is because it the body were attempted to be:
 - charged positively, the air would immediately remove the overplus.
 - charged negatively, the air would supply what was lacking.
 
-4. Water being electrified, the vapours arising from it will be equally electrified.
+4. When water is electrified, the vapours arising from it will be equally electrified.
 
-Floating in the air as clouds, it will retain that quantity of electrical fire until they meet with other clouds or bodies not so much electrified, and then will communicate as before mentioned.
+As clouds, they will retain that quantity of electrical fire until they meet with other clouds or bodies not so much electrified, and then will communicate as before mentioned.
 
-5. Every particle of matter electrified is repelled by every other particle equally electrified.
+5. **Every particle of matter electrified is repelled by every other particle equally electrified.**
 
 Thus the dense and continual stream of a fountain when electrified will separate and spread in the form of a brush.
 
@@ -48,7 +55,7 @@ When any particle is by any means disengaged, 'tis immediately repelled, and so 
 When the surface of water has the least motion, particles are continually pushed into the situation represented by Fig. 6.
 
 
-8. Friction between a non-electric and an electric per se, will produce electrical fire by collecting it,  not by creating it.
+8. **Friction between a non-electric and an electric will produce electrical fire by collecting it,  not by creating it.**
 
 This is because it is equally diffused in our walls, floors, earth, and in common matter.
 
@@ -56,9 +63,15 @@ Thus the whirling glass globe, during its friction against the cushion, draws fi
 
 Cut off the communication by thick glass or wax placed under the cushion, and no fire can be produced, because it cannot be collected.
 
-9. The Ocean is a compound of water, a non-electric, and salt an electric per se.
+9. The Ocean is a compound of:
+- water, a non-electric, and
+- salt an electric.
 
-10. When there is a friction among the parts near its surface, the electrical fire is collected from the parts below. It is then plainly visible in the night; it appears at the stern and in the wake of every sailing vessel; every dash of an oar shows it, and every surff and spray: in storms the whole sea seems on fire.—The detach'd particles of water then repelled from the electrified surface, continually carry off the fire as it is collected; they rise, and form clouds, and those clouds are highly electrified, and retain the fire 'till they have an opportunity of communicating it.
+10. When there is a friction among the parts near its surface, the electrical fire is collected from the parts below. 
+
+It is then plainly visible in the night. It appears at the stern and in the wake of every sailing vessel.
+
+Every dash of an oar shows it, and every surff and spray: in storms the whole sea seems on fire.—The detach'd particles of water then repelled from the electrified surface, continually carry off the fire as it is collected; they rise, and form clouds, and those clouds are highly electrified, and retain the fire 'till they have an opportunity of communicating it.
 
 11. The particles of water rising in vapours, attach themselves to particles of air.
 

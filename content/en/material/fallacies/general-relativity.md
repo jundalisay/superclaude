@@ -35,6 +35,10 @@ Socrates is clearly against having any fixed ratio or absoluteness in the univer
 Absolute space has no regard to anything external. It remains always similar and immovable.
 {{< /q >}}
 
+
+{{< u d="May 2026" u="The [non-constancy of G](material/newtons-g/) is proof that Socrates was correct." >}}
+
+
 However, he also mentioned that light (through sight) is not the measure of cosmic objects:
 
 {{< q a="Socrates">}}
@@ -133,6 +137,13 @@ Cartesian Physics meets Socrates' requirements of:
 - working even without light
 
 This is why it makes up most of Material Superphysics, with minor tweaks from the Asian sciences of Hinduism, Taoism, and Buddhism in order to explain how the physical universe works.
+
+
+## Update May 2026: Displacement and Rotation
+
+We have updated the relationality of gravity with displacement and rotation:
+
+{{< youtube 1MoWYX3t0Pw >}}
 
 
 
