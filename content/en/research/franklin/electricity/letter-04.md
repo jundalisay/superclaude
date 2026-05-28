@@ -75,7 +75,7 @@ Every dash of an oar shows it, and every surff and spray: in storms the whole se
 
 11. The particles of water rising in vapours, attach themselves to particles of air.
 
-12. The particles of air are said to be hard, round, separate and distant from each other; every particle strongly {39}repelling every other particle, whereby they recede from each other, as far as common gravity will permit.
+12. The particles of air are said to be hard, round, separate and distant from each other; every particle strongly repelling every other particle, whereby they recede from each other, as far as common gravity will permit.
 
 13. The space between any three particles equally repelling each other, will be an equilateral triangle.
 

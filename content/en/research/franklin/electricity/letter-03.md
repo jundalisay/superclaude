@@ -3,7 +3,7 @@ heading: Letter 3
 title: "Experiment"
 date: 2024-12-29
 weight: 31
-description: EXPERIMENTS AND OBSERVATIONS ON ELECTRICITY, MADE AT Philadelphia in America
+description: Experiments And Observations On Electricity, Made At Philadelphia In America
 c: "firebrick"
 ---
 
@@ -18,16 +18,17 @@ Farther Experiments and Observations in ELECTRICITY.
 
 SIR,
 
-§ 1. There will be the same explosion and shock, if the electrified phial is held in one hand by the hook, and the coating touch'd with the other, as when held by the coating, and touch'd at the hook.
+<sup>1</sup> There will be the same explosion and shock, if the electrified phial is held in one hand by the hook, and the coating touch'd with the other, as when held by the coating, and touch'd at the hook.
 
-2. To take the charged phial safely by the hook, and not at the same time diminish its force, it must first be set down on an electric per se.
+<sup>2</sup> To take the charged phial safely by the hook, and not at the same time diminish its force, it must first be set down on an electric per se.
 
-3. The phial will be electrified as strongly, if held by the hook, and the coating apply'd to the globe or tube; as when held by the coating, and the hook apply'd.
+<sup>3</sup> The phial will be electrified as strongly, if held by the hook, and the coating apply'd to the globe or tube; as when held by the coating, and the hook apply'd.
 
-{20}
-4. But the direction of the electrical fire being different in the charging, will also be different in the explosion. The bottle charged thro' the hook, will be discharged thro' the hook; the bottle charged thro' the coating, will be discharged thro' the coating, and not other ways: for the fire must come out the same way it went in.
+<sup>4</sup> But the direction of the electrical fire being different in the charging, will also be different in the explosion. The bottle charged thro' the hook, will be discharged thro' the hook; the bottle charged thro' the coating, will be discharged thro' the coating, and not other ways: for the fire must come out the same way it went in.
 
-5. To prove this; take two bottles that were equally charged thro' the hooks, one in each hand; bring their hooks near each other, and no spark or shock will follow; because each hook is disposed to give fire, and neither to receive it. Set one of the bottles down on glass, take it up by the hook, and apply its coating to the hook of the other; then there will be an explosion and shock, and both bottles will be discharged.
+5. To prove this: take 2 bottles that were equally charged through the hooks, one in each hand.
+
+Bring their hooks near each other, and no spark or shock will follow; because each hook is disposed to give fire, and neither to receive it. Set one of the bottles down on glass, take it up by the hook, and apply its coating to the hook of the other; then there will be an explosion and shock, and both bottles will be discharged.
 
 6. Vary the experiment, by charging two phials equally, one thro' the hook, the other thro' the coating: hold that by the coating which was charged thro' the hook; and that by the hook which was charg'd thro' the coating: apply the hook of the first to the coating of the other, and there will be no shock or spark. Set that down on glass which you held by the hook, take it up by the coating, and bring the two hooks together: a spark and shock will follow, and both phials be discharged.
 
@@ -55,7 +56,16 @@ For if, on the explosion, the electrical fire came out of the bottle by one part
 
 16. Thus, the whole force of the bottle, and power of giving a shock, is in the GLASS ITSELF; the non-electrics in contact with the two surfaces, serving only to give and receive to and from the several parts of the glass; that is, to give on one side, and take away from the other.
 
-17. This was discovered here in the following manner. Purposing to analyse the electrified bottle, in order to find wherein its strength lay, we placed it on glass, and drew out the cork and wire which for that purpose had been loosely put in. Then taking the bottle in one hand, and bringing a finger of the other near its mouth, a strong spark came from the water, and the shock was as violent as if the wire had remained in it, which shewed that the force did not lie in the wire. Then to find if it resided in the water, being crouded into and condensed in it, as connfi'd by the glass, which had been our former opinion, we electrify'd the bottle again, and placing it on glass, drew out the wire and cork as before; then taking up the bottle we decanted all its water into an empty bottle, which likewise stood on {25}glass; and taking up that other bottle, we expected if the force resided in the water, to find a shock from it; but there was none. We judged then, that it must either be lost in decanting, or remain in the first bottle. The latter we found to be true: for that bottle on trial gave the shock, though filled up as it stood with fresh unelectrified water from a tea-pot.—To find then, whether glass had this property merely as glass, or whether the form contributed any thing to it; we took a pane of sash-glass, and laying it on the stand, placed a plate of lead on its upper surface; then electrify'd that plate, and bringing a finger to it, there was a spark and shock. We then took two plates of lead of equal dimensions, but less than the glass by two inches every way, and electrified the glass between them, by electrifying the uppermost lead; then separated the glass from the lead, in doing which, what little fire might be in the lead was taken out and the glass being touched in the electrified parts with a finger, afforded only very small pricking sparks, but a great number of them might be taken from different places. Then dexterously placing it again between the leaden plates, and compleating a circle between the two surfaces, a violent shock ensued.—Which demonstrated the power to reside in glass as glass, and that the non-electrics in contact served only, like the armature of a loadstone, to unite the force of the several parts, and bring them at once to any point desired: it being a property of a non-electric, that {26}the whole body instantly receives or gives what electrical fire is given to or taken from any one of its parts.
+17. This was discovered here in the following manner. Purposing to analyse the electrified bottle, in order to find wherein its strength lay, we placed it on glass, and drew out the cork and wire which for that purpose had been loosely put in. 
+
+Then taking the bottle in one hand, and bringing a finger of the other near its mouth, a strong spark came from the water, and the shock was as violent as if the wire had remained in it, which shewed that the force did not lie in the wire. 
+
+Then to find if it resided in the water, being crouded into and condensed in it, as connfi'd by the glass, which had been our former opinion, we electrify'd the bottle again, and placing it on glass, drew out the wire and cork as before; then taking up the bottle we decanted all its water into an empty bottle, which likewise stood on {25}glass; and taking up that other bottle, we expected if the force resided in the water, to find a shock from it; but there was none. We judged then, that it must either be lost in decanting, or remain in the first bottle. The latter we found to be true: for that bottle on trial gave the shock, though filled up as it stood with fresh unelectrified water from a tea-pot.—To find then, whether glass had this property merely as glass, or whether the form contributed any thing to it; we took a pane of sash-glass, and laying it on the stand, placed a plate of lead on its upper surface; then electrify'd that plate, and bringing a finger to it, there was a spark and shock. 
+
+We then took two plates of lead of equal dimensions, but less than the glass by two inches every way, and electrified the glass between them, by electrifying the uppermost lead; then separated the glass from the lead, in doing which, what little fire might be in the lead was taken out and the glass being touched in the electrified parts with a finger, afforded only very small pricking sparks, but a great number of them might be taken from different places. Then dexterously placing it again between the leaden plates, and compleating a circle between the two surfaces, a violent shock ensued.
+
+Which demonstrated the power to reside in glass as glass, and that the non-electrics in contact served only, like the armature of a loadstone, to unite the force of the several parts, and bring them at once to any point desired: it being a property of a non-electric, that {26}the whole body instantly receives or gives what electrical fire is given to or taken from any one of its parts.
+
 
 18. Upon this, we made what we call'd an electrical-battery, consisting of eleven panes of large sash-glass, arm'd with thin leaden plates pasted on each side, placed vertically, and supported at two inches distance on silk cords, with thick hooks of leaden wire, one from each side, standing upright, distant from each other, and convenient communications of wire and chain, from the giving side of one pane, to the receiving side of the other; that so the whole might be charged together, and with the same labour as one single pane; and another contrivance to bring the giving sides, after charging, in contact with one long wire, and the receivers with another, which two long wires would give the force of all the plates of glass at once through the body of any animal forming the circle with them. The plates may also be discharged separately, or any number together that is required. But this machine is not much used, as not perfectly answering our intention with regard to the ease of charging, for the reason given § 10. We made also of large glass panes, magical pictures, and self-moving animated wheels, presently to be described.
 
@@ -98,11 +108,8 @@ Which shews that bodies having less than the common quantity of Electricity, rep
 
 Chagrined a little that we have hitherto been able to produce nothing in this way of use to mankind; and the hot weather coming on, when electrical experiments are not so agreeable, 'tis proposed to put an end to them for this season, somewhat humorously, in a party of pleasure, on the banks of Skuylkill.[4] 
 
-Spirits, at the same time, are to be fired by a spark sent from side to side through the river, without any other conductor than the water; an experiment which we some time since performed, to the {35}amazement of many. 
+Spirits, at the same time, are to be fired by a spark sent from side to side through the river, without any other conductor than the water; an experiment which we some time since performed, to the amazement of many. 
 
 A turkey is to be killed for our dinner by the electrical shock, and roasted by the electrical jack, before a fire kindled by the electrified bottle; when the healths of all the famous electricians in England, Holland, France, and Germany, are to be drank in [5]electrified bumpers, under the discharge of guns from the electrical battery.
 
-
-April 29,
-
-1749.
+April 29, 1749.
