@@ -46,7 +46,7 @@ It will have to link itself to the gravitational territory of the larger and rev
 
 The air-aethers at `A` move faster than the planet `e`. They push `e` towards `Z`. 
 
-{{< img src="/graphics/physics/orbits.jpg" alt="Orbits" >}}
+{{< img src="/graphics/physics/orbit.jpg" alt="Orbits" >}}
 
 
 `e` in return pushes the air-aethers towards `B` instead of towards `D`.  This is because the air-aethers are inclined to continue their motion in a straight line. And so they must go outside of the orbit `ACZN` which they create, rather than towards the `sun`.
