@@ -75,20 +75,21 @@ Descartes, on the other hand, was sensible enough to think of the relative rotat
 
 ## Vortex Energy Quality
 
-There are 3 qualities of of sos':
+There are 3 qualities of of sos2's as quanta:
 
-SOS | Examples 
+QOS | Examples 
 --- | ---
-Stellar (sos3) | Stars, Pulsars, Neutron Stars
-Galactic (sos2) | Galaxies, Quasars, Nebulae
-Universal (sos1) | Universes
+Galactic (qos1) | Galaxies, Quasars, Nebulae
+Stellar (qos2) | Stars, Pulsars, Neutron Stars
+Planetary (qos3) | Planets
 
 
-A stellar sos commonly manifests as stars and planets. This is because planets are sos that failed to become stars.
+A planetary qos is a failed stellar qos that has run out of aethereal energy.
 
-A galactic sos commonly manifests as galaxies and quasars. These are larger than stellar. 
+A stellar qos commonly manifests as a star. 
+<!-- This is because planets are sos that failed to become stars. -->
 
-A universal sos is a universe. Our sos is evidenced by the cosmic microwave background radiation. 
+A galactic qos commonly manifests as a galaxy or quasar. These are larger than stellar. 
 
 
 ### The Difference Between Stellar and Galactic Vortices
@@ -114,7 +115,7 @@ This outside light predicted by Descartes is now seen as the bright accretion di
 
 ## Vortex Energy Quantity
 
-A sos can have have a lot of energy of low energy. A high energy vortex can manifest as a large spiral galaxy or a spinning pulsar. 
+A sos2 can have have a lot of energy of low energy. A high energy vortex can manifest as a large spiral galaxy or a spinning pulsar. 
 
 
 {{< i s="/photos/physics/quasar.jpg" a="Vortex" >}}
@@ -138,7 +139,9 @@ Galaxy | Quasar
 
 ## Vortices as Tunnels
 
-Spacetime slices are separated by the macro-aetherspace (dark energy). Some areas of spacetime have high concentrations of the aether that allow aetherspace to exist as holes or vortices that can allow matter to tunnel through. 
+Spacetime slices (mos3) are separated by the macro-aetherspace (mos2 or dark energy). 
+
+Some areas of spacetime have high concentrations of the aether (moa3) that allow aetherspace (mos2) to exist as holes or vortices via timespace (mos1) that can allow matter to tunnel through. 
 
 These are natural portals that, when accesssed by timespace, can allow matter to jump between spacetimes. 
 
