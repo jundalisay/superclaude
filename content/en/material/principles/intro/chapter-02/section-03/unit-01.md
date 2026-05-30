@@ -45,14 +45,14 @@ Sensory ideas must be produced by some substance other than me. This substance a
 
 Both physical things such as rocks, and metaphysical things such as a soul, have substance or essence in common. 
 
-**Quantum** is the smallest part of substance.
+**Quantum** is the smallest part of substance or medium.
 
 {{< q a="Hegel" c="Science of Logic, Book 2, Article 814" >}}
 In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation [*essence is unlimited*]. But quantity is this indifference in an **immediate** determination. It gains a limit due to its immediate external determinateness and becomes a quantum [*quantum is limited essence or substance. Quantum is created when the mind forcibly quantizes the inherently-illogical or arbitrary substance so that the mind can use logic on the naturally-illogical*].
 {{< /q >}}
 
 
-Substance is free whereas quantum is confined. 
+Substance and Medium are free whereas quantum is confined. 
 - Substance is general
 - Quantum is specific
 
@@ -62,14 +62,17 @@ Substance is free whereas quantum is confined.
 If knowledge is not an instrument, but is instead a kind of passive medium through which the light of the truth reaches us, then here too we do not receive the Absolute as It is. Instead, we get the medium-version of the Absolute.
 {{< /q >}}
 
-To transmit these substances and quanta, this medium must be dynamic and therefore have inherent force. This is why we regard:
+To transmit these substances, this medium must be dynamic and therefore have inherent force. This is why we regard:
 - force as media
-- matter and identity as substance and quanta
+- matter as substance
+- identity as quanta
 
 Therfore, everything in the universe is either a Medium or a Substance.
 - **Medium** is where force works through.
 - **Substance** is the discrete identity that reacts to the force.
-- **Quantum** is the smallest perceivable unit of Substance. This contains the gravitational signature. 
+- **Quantum** is the smallest perceivable unit of Substance or Media. This contains the gravitational signature. 
+  - A quantum of substance is like an unbreakable stone in a heap of unbreakable stones
+  - A quantum of medium is like a strand of hair in your head of hair
 
 We can say that:
 - media are force particles
@@ -174,7 +177,6 @@ soc1 (upper neutron) | ?
 soc3 (lower neutron) | Neutron weapons (Bob Lazar from Grays)
 som1 (upper proton) | Element 115 (Bob Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Sassani)
-
 
 
 
