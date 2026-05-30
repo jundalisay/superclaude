@@ -47,7 +47,7 @@ The beginning is the most important part of any work.
 
 
 Basically, it means that before you start something, you should know:
-- the true intention or motivation behind it. This is the miro part
+- the true intention or motivation behind it. This is the micro part
 - whether that intention matches the flow of reality or environment. This is the macro part
 
 In our case, the universal pains and protests from the Financial Crisis of 2008 led us to realize that humans want a flow towards real solutions. This matched our inherent micro-flow towards finding solutions. 
