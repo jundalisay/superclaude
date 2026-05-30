@@ -1,24 +1,22 @@
 ---
-heading: Unit 1
-title: "The Material Planets in Space"
-# date: 2024-07-26
-image: /photos/physics/mars.jpg
-description: "The material planets compared"
-linkTitle: "Material Layer"
-weight: 58
+heading: "Unit 1"
+title: "Black Holes"
+date: 2026-05-30
+weight: 4
+image: /photos/physics/blackhole.jpg
+description: ""
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
 ---
 
 
-Unlike Newtonian Physics where mass is so important, other factors such as rotation, orbital speed, and distance from sun are important in understanding the gravity of different planets.  
+
+## Hawking Radiation as Friction
+
+In Descartes' Physics blackholes are spatial vortices or sos2. These are made up of space particles going around a crude timespace particle. 
 
 
-Name | Gravity Speed in m/s2 | Diameter in km | Density in g/cm3
---- | --- | --- | ---
-Ceres | 0.27 (3% of earth) | 940 | 2.2
-Earth | 9.81 | 12,742 | 5.5 
-Jupiter | 23.1 | 142,800 | 1.3
+
 

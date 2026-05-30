@@ -1,12 +1,14 @@
 ---
 heading: "Section 3"
-title: "Stellar Vortices"
-# date: 2023-11-10
+title: "Spatial Vortices or Black Holes"
+date: 2026-05-30
 weight: 8
-image: /photos/physics/star.jpg
+image: /photos/physics/blackhole.jpg
 description: ""
 icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+

@@ -1,11 +1,11 @@
 ---
 heading: "Section 1"
-title: "Large-Scale Vortices"
+title: "Spatial Substances"
 linkTitle: "Vortices"
 # date: 2023-11-10
 weight: 2
 image: /graphics/physics/vortex.jpg
-description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
+description: ""
 icon: Juan
 writer:
   name: Juan

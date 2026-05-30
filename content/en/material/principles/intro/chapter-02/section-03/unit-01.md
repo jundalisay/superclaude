@@ -179,8 +179,12 @@ som1 (upper proton) | Element 115 (Bob Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Sassani)
 
 
+The same system applies to other sciences like Bio Superphysics. We have very few consistent perceptions of the aether as to make an MSQ for Spiritual Superphysics.
 
-## MSQ (hover for popup info)
+{{< img src="/graphics/bio/msqbio.svg" alt="MSQ Model for BioSuperphysics" cap="The MSQ Model applied for Bio Superphysics" >}}
+
+
+<!-- ## MSQ (hover for popup info)
 
 <div class="overflow-x-auto">
   <table class="w-full border-collapse border-2 border-gray-800 rounded-lg">
@@ -193,7 +197,6 @@ som3 (lower proton) | Indestructible metals (Sassani)
       </tr>
     </thead>
     <tbody id="tableBody">
-      <!-- Aethereal -->
       <tr class="hover:bg-blue-50 transition-colors">
         <td class="text-center border border-gray-300 p-4 bg-blue-100 font-semibold relative cursor-pointer hover:bg-blue-200" data-popover="Allows  physical existence">Aethereal</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="The medium of physical reality">existence space<br><span class="my-2 text-sm text-gray-600">moa1</span></td>
@@ -212,7 +215,6 @@ som3 (lower proton) | Indestructible metals (Sassani)
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="soa3 - Static aether (matter): Stable aether that forms physical matter">reality (probability)<br><span class="text-sm text-gray-600">soa3</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qoa3 - Crudifying: Quantum state of becoming more dense/material">crudifying<br><span class="text-sm text-gray-600">qoa3</span></td>
       </tr>
-      <!-- Spatial -->
       <tr class="hover:bg-green-50 transition-colors border-t-4 border-green-600">
         <td class="text-center border border-gray-300 p-4 bg-green-200 font-semibold relative cursor-pointer hover:bg-green-300" data-popover="Spectral Level - The domain of space and time">Spatial</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mots - Timespace (change): Medium of temporal change and spacetime variation">timespace (change)<br><span class="text-sm text-gray-600">mos1</span></td>
@@ -231,7 +233,6 @@ som3 (lower proton) | Indestructible metals (Sassani)
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="sos - Space: The substance of spatial dimensions">space<br><span class="text-sm text-gray-600">sos</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qost3 - Stellar: Quantum state at stellar scale">stellar<br><span class="text-sm text-gray-600">qost3</span></td>
       </tr>
-      <!-- Radiant -->
       <tr class="hover:bg-orange-50 transition-colors border-t-4 border-orange-600">
         <td class="text-center border border-gray-300 p-4 bg-orange-200 font-semibold relative cursor-pointer hover:bg-orange-300" data-popover="Radiant Level - The domain of energy and electromagnetic phenomena">Radiant</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mor - Photons (info): Medium of electromagnetic radiation and information transfer">photons (info)<br><span class="text-sm text-gray-600">mor1</span></td>
@@ -250,7 +251,6 @@ som3 (lower proton) | Indestructible metals (Sassani)
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="sor3 - Electricity: The substance of electric charge and current">electricity ♂<br><span class="text-sm text-gray-600">sor3</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover=" 1.777 GeV ♂">tau<br><span class="text-sm text-gray-600">qor3</span></td>
       </tr>
-      <!-- Convertible -->
       <tr class="hover:bg-purple-50 transition-colors border-t-4 border-purple-600">
         <td class="text-center border border-gray-300 p-4 bg-purple-200 font-semibold relative cursor-pointer hover:bg-purple-300" data-popover="Convertible Level - Particles that can transform between types">Convertible</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc - W- boson 80.4 GeV: Weak force carrier with negative charge">w+- z boson 80.4 GeV.. ♂<br><span class="text-sm text-gray-600">moc</span></td>
@@ -269,7 +269,6 @@ som3 (lower proton) | Indestructible metals (Sassani)
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="soc3">Acids Bases<br><span class="text-sm text-gray-600">soc3</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qoc3 - Tau neutrino 23 MeV: Third generation neutral lepton">tau neutrino 23 MeV ⚲<br><span class="text-sm text-gray-600">qoc3</span></td>
       </tr>
-      <!-- Material -->
       <tr class="hover:bg-red-50 transition-colors border-t-4 border-red-600">
         <td class="text-center border border-gray-300 p-4 bg-red-200 font-semibold relative cursor-pointer hover:bg-red-300" data-popover="Material Level - The domain of solid, tangible matter">Material</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mom - Gas, bose condensate: Dispersed matter and quantum condensed states">gas, bose condensate<br><span class="text-sm text-gray-600">mom</span></td>
@@ -292,3 +291,4 @@ som3 (lower proton) | Indestructible metals (Sassani)
   </table>
 </div>
 
+ -->

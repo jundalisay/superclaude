@@ -3,7 +3,7 @@ heading: "Unit 1"
 linkTitle: "Spatial Vortices (Black Holes)"
 title: "The Substance of Spacetime: Black Holes"
 # date: 2023-11-10
-weight: 2
+weight: 4
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
 icon: Juan
