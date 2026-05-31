@@ -1,0 +1,9 @@
+{{ if eq .Type "block" }}
+  <div class="math math-block">
+    {{ transform.ToMath .Inner (dict "displayMode" true) }}
+  </div>
+{{ else }}
+  <span class="math math-inline">
+    {{ transform.ToMath .Inner (dict "displayMode" false) }}
+  </span>
+{{ end }}
