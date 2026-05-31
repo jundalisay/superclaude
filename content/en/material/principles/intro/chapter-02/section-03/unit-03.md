@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 10"
+heading: "Unit 3"
 title: "Reorganizing the Subsciences according to the MSQ Model "
 # date: 2023-11-26
 image: "/graphics/physics/sciences.jpg"
@@ -10,6 +10,7 @@ writer:
 weight: 37
 icon: "Juan"
 ---
+
 
 
 The ignorance of Physics on the nature of the universe leads to the Standard Model of Physics which is very flawed, unable to account for gravity, dark matter, and dark energy. 
@@ -178,9 +179,10 @@ This also leads to the arrangement of topics in Material Superhysics
 - Relationality + Equations with constants
 
 
- | | intermolecular bonds | hellfire atherspace
+<!--  | | intermolecular bonds | hellfire atherspace
 gauge theory | time dilation | |  | 
 . | buga sphere | | | 
 . | superluminal | | | 
 . | | photoelectric | | 
 
+ -->

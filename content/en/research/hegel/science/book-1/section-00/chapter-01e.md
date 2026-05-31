@@ -63,7 +63,7 @@ When pure knowing is characterised as ego, it acts as a perpetual reminder of th
 This confusion, far from clarifying the problem of a beginning, only adds to the difficulties involved and tends completely to mislead; among the uninitiated it has given rise to the crudest misunderstandings.
 
 
-<sup>119</sup>  Further, as regards the subjective determinateness of the ego in general, it is true that pure knowing frees the ego from the restricted meaning imposed on it by the insuperable opposition of its object.
+<sup>119</sup>  As regards the subjective determinateness of the ego in general, pure [metaphysical] knowing frees the ego from the restricted meaning imposed on it by the insuperable opposition of its object.
 
 But for this reason it would be superfluous at least to retain this subjective attitude and the determination of pure knowing as ego.
 
@@ -72,71 +72,100 @@ This determination, however, not only introduces the disturbing ambiguity mentio
 The actual development of the science which starts from the ego shows that in that development the object has and retains the perennial character of an other for the ego, and that the ego which formed the starting point is, therefore, still entangled in the world of appearance ® and is not the pure knowing which has in truth overcome the opposition of consciousness.
 
 
-<sup>120</sup> In this connection a further essential observation must be made, namely that although the ego could in itself or in principle [an sich] be characterised as pure knowing or as intellectual intuition and asserted as the beginning, we are not concerned in the science of logic with what is present only in principle or as something inner, but rather with the determinate reality in thought of what is inner and with the determinateness possessed by such an inner in this reality. 
+<sup>120</sup> The ego could in itself be pure [metaphysical] knowing or as intellectual intuition and asserted as the beginning.
 
-But what, at the beginning of the science, is actually present of intellectual intuition – or of the eternal, the divine, the absolute, if its object be so named – cannot be anything else than a first, immediate, simple determination. 
+But the science of logic is:
+- not concerned with what is present only in principle or as something inner.
+- concered with:
+  - the determinate reality in thought of what is inner and
+  - the determinateness possessed by such an inner in this reality.
 
-Whatever richer name be given to it than is expressed by mere being, the consideration of such absolute must be restricted solely to the way in which it enters into our knowing as thought and is enunciated as such.
+But at the beginning of the science, what is actually present of intellectual intuition (or of the eternal, the divine, the absolute) cannot be anything else than a first, immediate, simple determination.
 
-True, intellectual intuition is the forcible rejection of mediation and the ratiocinative, external reflection; but what it enunciates above and beyond simple immediacy is something concrete, something which contains within itself diverse determinations. 
+Whatever richer name be given to it than is expressed by mere being, the consideration of such absolute must be restricted solely to the way in which it enters into our knowing as thought and is called as such.
 
-However, as we have remarked, the enunciation and exposition of such concrete beginning is a process of mediation which starts from one of the determinations and advances to the other, even though the latter returns to the first; it is a movement which at the same time may not be arbitrary or assertoric. Consequently, it is not the concrete something itself with which that exposition begins but only the simple immediacy from which the movement starts. And further, if something concrete is taken as the beginning, the conjunction of the determinations contained in it demand proof, and this is lacking.
+True, intellectual intuition is the forcible rejection of mediation and the ratiocinative, external reflection.
+
+But what it enunciates above and beyond simple immediacy is something concrete.
+- It is something which contains within itself diverse determinations. 
+
+However, the exposition of such concrete beginning is a process of mediation which starts from one of the determinations and advances to the other, even though the latter returns to the first.
+
+It is a movement which at the same time may not be arbitrary or assertoric. 
+
+Consequently, it is not the concrete something itself with which that exposition begins but only the simple immediacy from which the movement starts.
+
+If something concrete is taken as the beginning, the conjunction of the determinations contained in it demand proof, and this is lacking.
 
 
-<sup>121</sup> If, therefore, in the expression of the absolute, or eternal, or God (and God has the absolutely undisputed right that the beginning be made with him) — if in the intuition or thought of these there is implied more than pure being — then this more must make its appearance in our knowing only as something thought, not as something imagined or figurately conceived; let what is present in intuition or figurate conception be as rich as it may, the determination which first emerges in knowing is simple, for only in what is simple is there nothing more than the pure beginning; only the immediate is simple, for only in the immediate has no advance yet been made from a one to an other. 
+<sup>121</sup> If, therefore, in the expression of the absolute, or eternal, or God (and God has the absolutely undisputed right that the beginning be made with him) — if in the intuition or thought of these there is implied more than pure being — then this more must make its appearance in our knowing only as something thought, not as something imagined or figurately conceived.
+
+Let what is present in intuition or figurate conception be as rich as it may, the determination which first emerges in knowing is simple, for only in what is simple is there nothing more than the pure beginning.
+
+Only the immediate is simple, for only in the immediate has no advance yet been made from a one to an other. 
 
 Consequently, whatever is intended to be expressed or implied beyond being, in the richer forms of representing the absolute or God, this is in the beginning only an empty word and only being; this simple determination which has no other meaning of any kind, this emptiness, is therefore simply as such the beginning of philosophy.
+
 
 
 <sup>122</sup> This insight is itself so simple that this beginning as such requires no preparation or further introduction; and, indeed, these preliminary, external reflections about it were not so much intended to lead up to it as rather to eliminate all preliminaries.
 
 
-## General Division of Being
+## General Division of Being [Existence]
 
-{{< s v="123" >}}
+{{< s v="123" >}} Being [Existence] is determined:
 
-Being is determined:
+- first, as against another [Existence] in general
+- second, as immanently self-determining
+- third, as abstract indeterminateness and immediacy from the start 
 
-1. As against another in general
-2. As immanently self-determining
-3. Setting aside the preliminary character of this division, it is the abstract indeterminateness and immediacy in which it must be the beginning.
-
-
-{{< s v="124" >}}
-
-According to the first determination, being is classified as distinct from essence, for later in its development it proves to be in its totality only one sphere of the Notion and to this sphere as moment, it opposes another sphere.
+<!-- 3. Setting aside the preliminary character of this division, it is the  in which it must be the beginning. -->
 
 
-{{< s v="125" >}}
+{{< s v="124" >}} The first determination makes being [existence] distinct from essence.
 
-According to the second determination, it is the sphere within which fall the determinations and the entire movement of its reflection. Here, being will posit itself in three determinations:
+This is because later in the development of being [existence], being [existence] is only one sphere of the Notion [idea].
+- As a being [existence] sphere, it opposes another sphere through [the concept of] moment.
+
+
+{{< s v="125" >}} The second determination, being [existence] is the sphere where:
+- all the determinations fall into
+- the entire movement of its reflection happens.
+
+In this sphere, being [existence] will posit itself in 3 determinations:
 
 1. Quality -- as determinateness as such
 2. Quantity, Magnitude -- as sublated determinateness
 3. Measure -- as qualitatively determined quantity 
 
 
-{{< s v="126" >}} At this stage, this division is, as was remarked of these divisions generally in the Introduction, a preliminary statement; its determinations have first to arise from the movement of being itself and in so doing define and justify themselves. 
+<!-- as was remarked of these divisions generally in the Introduction, -->
+{{< s v="126" >}} At this stage, this division is a preliminary statement.
 
-As regards the divergence of this classification from the usual presentation of the categories, namely, as quantity, quality, relation and modality — these moreover with Kant are supposed to be only titles for his categories though they are, in fact, themselves categories, only more general ones — this calls for no special comment here, as the entire exposition will show a complete divergence from the usual arrangement and significance of the categories.
+Its determinations have first to arise from **the movement of being [existence] itself** and in so doing define and justify themselves. 
+
+The categories are quantity, quality, relation and modality. The usual presentation of these creates a divergence that Kant supposed to be only titles for his categories.
+
+But they are, in fact, themselves categories, only more general ones.
+- This calls for no special comment here, as the entire exposition will show a complete divergence from the usual arrangement and significance of the categories.
 
 
-{{< s v="127" >}} This only perhaps can be remarked, that hitherto the determination of quantity has been made to precede quality and this as is mostly the case — for no given reason. 
+{{< s v="127" >}} My only comment is that hitherto, the determination of quantity has been made to precede quality and this as is mostly the case — for no given reason. 
 
-The beginning is made with being as such, therefore, with qualitative being. It is easily seen from a comparison of quality with quantity that the former by its nature is first. For quantity is quality which has already become negative; 
+The beginning is made with being as such, therefore, with qualitative being.
+
+It is easily seen from a comparison of quality with quantity that the former by its nature is first. For quantity is quality which has already become negative.
 
 Magnitude is the determinateness which is no longer one with being but is already differentiated from it, sublated quality which has become indifferent. 
 
-It includes the alterableness of being, although the category itself, namely Being, of which it is the determination, is not altered by it. The qualitative determinateness, on the other hand, is one with its being: it neither goes beyond it nor is internal to it, but is its immediate limitedness. Quality therefore, as the immediate determinateness, is primary and it is with it that the beginning must be made.
+It includes the alterableness of being, although the category itself, namely Being, of which it is the determination, is not altered by it. The qualitative determinateness, on the other hand, is one with its being: it neither goes beyond it nor is internal to it, but is its immediate limitedness. 
+
+Quality therefore, as the immediate determinateness, is primary and it is with it that the beginning must be made.
 
 
-{{< s v="128" >}}
-
-Measure is a relation, but not relation in general, for it is the specific relation between quality and quantity; the categories which Kant includes under relation will come up for consideration in quite another place. 
+{{< s v="128" >}} Measure is a relation, but not relation in general, for it is the specific relation between quality and quantity; the categories which Kant includes under relation will come up for consideration in quite another place. 
 
 Measure can also, if one wishes, be regarded as a modality; but since with Kant modality is supposed no longer to constitute a determination of the content, but to concern only the relation of the content to thought, to the subjective element, it is a quite heterogeneous relation and is not pertinent here.
 
 
-{{< s v="129" >}}
-
-The third determination of being falls within the section Quality, for as abstract immediacy it reduces itself to a single determinateness in relation to its other determinatenesses within its sphere.
+{{< s v="129" >}} The third determination of being falls within the section Quality, for as abstract immediacy it reduces itself to a single determinateness in relation to its other determinatenesses within its sphere.
