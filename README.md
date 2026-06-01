@@ -51,6 +51,20 @@ matter particles = matpars
 A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems.
 
 
+{{ if eq .Type "block" }}
+  <div class="math math-block">
+    {{ transform.ToMath .Inner (dict "displayMode" true) }}
+  </div>
+{{ else }}
+  <span class="math math-inline">
+    {{ transform.ToMath .Inner (dict "displayMode" false) }}
+  </span>
+{{ end }}
+
+
+explain how schrodinger equation predicts color for gold and mercury and their states at room temp
+
+
 <div class="card-reveal" style="animation-delay: {{ mul (mod $i 8) 10 }}ms">
         {{ partial "card.html" $page }}
       </div>

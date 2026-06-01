@@ -1,9 +1,24 @@
 {{ if eq .Type "block" }}
   <div class="math math-block">
-    {{ transform.ToMath .Inner (dict "displayMode" true) }}
+    {{ with try (transform.ToMath .Inner (dict "displayMode" true)) }}
+      {{ with .Err }}
+        <pre class="math-raw">$${{ $.Inner }}$$</pre>
+      {{ else }}
+        {{ .Value }}
+      {{ end }}
+    {{ end }}
   </div>
 {{ else }}
   <span class="math math-inline">
-    {{ transform.ToMath .Inner (dict "displayMode" false) }}
+    {{ with try (transform.ToMath .Inner (dict "displayMode" false)) }}
+      {{ with .Err }}
+        <code class="math-raw">${{ $.Inner }}$</code>
+      {{ else }}
+        {{ .Value }}
+      {{ end }}
+    {{ end }}
   </span>
 {{ end }}
+
+
+
