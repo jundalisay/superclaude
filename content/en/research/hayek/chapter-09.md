@@ -1,21 +1,26 @@
+---
+heading: Chapter 9
+title: "Security And Freedom"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 28
+icon: "Hayek"
+c: "firebrick"
+---
 
-9
-SECURITY AND FREEDOM
 
-The whole of society will have become a single office and a
-single factory with equality of work and equality of pay.
+The whole of society will have become a single office and a single factory with equality of work and equality of pay.
 I. Lenin, 1917.
 
-In a country where the sole employer is the State, opposition
-means death by slow starvation. The old principle: who does
-not work shall not eat, has been replaced by a new one: who
-does not obey shall not eat.
+
+In a country where the sole employer is the State, opposition means death by slow starvation. The old principle: who does
+not work shall not eat, has been replaced by a new one: who does not obey shall not eat.
 L. Trotsky, 1937.
 
-Like the spurious "economic freedom", and with more justice,
-economic security is often represented as an indispensable condition of real liberty. In a sense this is both true and important.
-Independence of mind or strength of character are rarely found
-among those who cannot be confident that they will make their
+
+Like the spurious "economic freedom", and with more justice, economic security is often represented as an indispensable condition of real liberty. In a sense this is both true and important. 
+
+Independence of mind or strength of character are rarely found among those who cannot be confident that they will make their
 way by their own effort. Yet the idea of economic security is no
 less vague and ambiguous than most other terms in this field;
 and because ofthis the general approval given to the demand for
@@ -23,22 +28,31 @@ security may become a danger to liberty. Indeed, when security
 is understood in too absolute a sense, the general striving for it, far from increasing the chances offreedom, becomes the gravest
 threat to it.
 
-It will be well to contrast at the outset the two kinds ofsecurity: the limited one, which can be achieved for all, and which is
-therefore no privilege but a legitimate object of desire; and the
-absolute security which in a free society cannot be achieved for
-all and which ought not to be given as a privilege-except in a
+I contrast the 2 kinds ofsecurity:
+
+1. The limited one
+
+This:
+- can be achieved for all
+- no privilege but a legitimate object of desire
+
+2. The absolute security
+
+This in a free society cannot be achieved for all and which ought not to be given as a privilege-except in a
 few special instances such as that of the judges, where complete
-independence is of paramount importance. These two kinds of
-security are, first, security against severe physical privation, the
-certainty of a given minimum of sustenance for all; and, secondly, the security of a given standard of life, or of the relative
-position which one person or group enjoys compared with
-others; or, as we may put it briefly, the security of a minimum
-income and the security of the particular income a person is
+independence is of paramount importance. 
+
+These 2 kinds of security are:
+
+1. Security against severe physical privation, the certainty of a given minimum of sustenance for all
+2. The security of a given standard of life, or of the relative position which one person or group enjoys compared with others.
+  - It is the security of a minimum income and the security of the particular income a person is
 thought to deserve. We shall presently see that this distinction
 largely coincides with the distinction between the security
 which can be provided for all outside of and supplementary to
 the market system, and the security which can be provided only
 for some and only by controlling or abolishing the market.
+
 There is no reason why in a society that has reached the
 general level of wealth which ours has attained, the first kind of
 security should not be guaranteed to all without endangering
@@ -453,5 +467,3 @@ has been based and which Benjamin Franklin expressed in a
 phrase applicable to us in our lives as individuals no less than as
 nations: "Those who would give up essential liberty to purchase
 a little temporary safety deserve neither liberty nor safety."
-
-

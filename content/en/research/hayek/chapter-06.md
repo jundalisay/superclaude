@@ -1,58 +1,37 @@
+---
+heading: Chapter 6
+title: "Planning And The Rule Of Law"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 21
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-6
-PLANNING AND THE RULE OF LAW
-
-Recent studies in the sociology of law once more confirm that
-the fundamental principle of formal law by which every case
-must be judged according to general rational precepts, which
-have as few exceptions as possible and are based on logical
-subsumptions, obtains only for the liberal competitive phase
-of capitalism.
+Recent studies in the sociology of law once more confirm that the fundamental principle of formal law by which every case must be judged according to general rational precepts, which have as few exceptions as possible and are based on logical subsumptions, obtains only for the liberal competitive phase of capitalism.
 K. Mannheim.
 
-Nothing distinguishes more clearly conditions in a free country
-from those in a country under arbitrary government than the
-observance in the former of the great principles known as the
-Rule of Law. Stripped of all technicalities this means that government in all its actions is bound by rules fixed and announced
-beforehand-rules which make it possible to foresee with fair
-certainty how the authority will use its coercive powers in given
-circumstances, and to plan one's individual affairs on the basis of this knowledge. 1 Though this ideal can never be perfectly
-achieved, since legislators as well as those to whom the administration of the law is entrusted are fallible men, the essential
-point, that the discretion left to the executive organs wielding
-coercive power should be reduced as much as possible, is clear
-enough. While every law restricts individual freedom to some
-extent by altering the means which people may use in the pursuit of their aims, under the Rule of Law the government is
+
+Nothing distinguishes more clearly conditions in a free country from those in a country under arbitrary government than the
+observance in the former of the great principles known as the Rule of Law. Stripped of all technicalities this means that government in all its actions is bound by rules fixed and announced
+beforehand-rules which make it possible to foresee with fair certainty how the authority will use its coercive powers in given circumstances, and to plan one's individual affairs on the basis of this knowledge. 1 Though this ideal can never be perfectly achieved, since legislators as well as those to whom the administration of the law is entrusted are fallible men, the essential
+point, that the discretion left to the executive organs wielding coercive power should be reduced as much as possible, is clear
+enough. While every law restricts individual freedom to some extent by altering the means which people may use in the pursuit of their aims, under the Rule of Law the government is
 prevented from stultifying individual efforts by ad hoc action.
 
-Within the known rules of the game the individual is free to
-pursue his personal ends and desires, certain that the powers of
+Within the known rules of the game the individual is free to pursue his personal ends and desires, certain that the powers of
 government will not be used deliberately to frustrate his efforts.
-The distinction we have drawn before between the creation of
-a permanent framework of laws within which the productive
-activity is guided by individual decisions, and the direction of
-economic activity by a central authority, is thus really a particu1ar case of the more general distinction between the Rule of Law
-and arbitrary government. Under the first the government confines itself to fixing rules determining the conditions under
-which the available resources may be used, leaving to the individuals the decision for what ends they are to be used. Under the
-second the government directs the use of the means of production to particular ends. The first type of rules can be made in
-I According to the classical exposition by A. V. Dicey in The Law of the Constitution
-(8th ed., p. 198) the rule oflaw "means, in the first place, the absolute supremacy or predominance of regular law as opposed to the influence of arbitrary
-power, and excludes the existence of arbitrariness, of prerogative, or even of
-wide discretionary authority on the part of government". Largely as a result of
-Dicey's work the term has, however, in England acquired a narrower technical
-meaning which does not concern us here. The wider and older meaning ofthe
-concept of the rule or reign of law, which in England had become an established tradition which was more taken for granted than discussed, has been
-most fully elaborated, just because it raised what were there new problems, in
-the early nineteenth-century discussions in Germany about the nature of the
-Rechtsstaat.
 
-advance, in the shape offormal rules which do not aim at the wants
-and needs of particular people. They are intended to be merely
-instrumental in the pursuit of people's various individual ends.
-And they are, or ought to be, intended for such long periods that
-it is impossible to know whether they will assist particular
-people more than others. They could almost be described as a
-kind ofinstrument of production, helping people to predict the
+The distinction we have drawn before between the creation of a permanent framework of laws within which the productive activity is guided by individual decisions, and the direction of economic activity by a central authority, is thus really a particu1ar case of the more general distinction between the Rule of Law and arbitrary government. Under the first the government confines itself to fixing rules determining the conditions under which the available resources may be used, leaving to the individuals the decision for what ends they are to be used. Under the second the government directs the use of the means of production to particular ends. 
+
+The first type of rules can be made in advance, in the shape of formal rules which do not aim at the wants and needs of particular people. They are intended to be merely
+instrumental in the pursuit of people's various individual ends. 
+
+They should be intended for such long periods that it is impossible to know whether they will assist particular
+people more than others. 
+
+They could almost be described as a kind ofinstrument of production, helping people to predict the
 behaviour of those with whom they must collaborate, rather
 than as efforts towards the satisfaction of particular needs.
 Economic planning ofthe collectivist kind necessarily involves
@@ -60,6 +39,11 @@ the very opposite of this. The planning authority cannot confine
 itself to providing opportunities for unknown people to make
 whatever use of them they like. It cannot tie itself down in
 advance to general and formal rules which prevent arbitrariness.
+
+I According to the classical exposition by A. V. Dicey in The Law of the Constitution (8th ed., p. 198) the rule oflaw "means, in the first place, the absolute supremacy or predominance of regular law as opposed to the influence of arbitrary power, and excludes the existence of arbitrariness, of prerogative, or even of
+wide discretionary authority on the part of government".  Largely as a result of Dicey's work the term has, however, in England acquired a narrower technical
+meaning which does not concern us here. The wider and older meaning ofthe concept of the rule or reign of law, which in England had become an established tradition which was more taken for granted than discussed, has been most fully elaborated, just because it raised what were there new problems, in the early nineteenth-century discussions in Germany about the nature of the
+Rechtsstaat.
 
 It must provide for the actual needs of people as they arise and
 then choose deliberately between them. It must constantly
@@ -76,18 +60,16 @@ groups. In the end somebody's views will have to decide whose
 interests are more important; and these views must become part
 of the law of the land, a new distinction of rank which the
 coercive apparatus of government imposes upon the people.
+
 * * * * *
+
 The distinction we have just used between formal law or justice
-and substantive rules is very important and at the same time
-78 THE ROAD TO SERFDOM
-most difficult to draw precisely in practice. Yet the general principle involved is simple enough. The difference between the two
-kinds of rules is the same as that between laying down a Rule of
-the Road, as in the Highway Code, and ordering people where to
+and substantive rules is very important and at the same time most difficult to draw precisely in practice. Yet the general principle involved is simple enough. The difference between the two
+kinds of rules is the same as that between laying down a Rule of the Road, as in the Highway Code, and ordering people where to
 go; or, better still, between providing signposts and commanding people which road to take. The formal rules tell people in
 advance what action the state will take in certain types of situation' defined in general terms, without reference to time and
 place or particular people. They refer to typical situations into
-which anyone may get and in which the existence ofsuch rules
-will be useful for a great variety of individual purposes. The
+which anyone may get and in which the existence ofsuch rules will be useful for a great variety of individual purposes. The
 knowledge that in such situations the state will act in a definite
 way, or require people to behave in a certain manner, is provided
 as a means for people to use in making their own plans. Formal
@@ -504,5 +486,3 @@ possibilities for a policy of discrimination and oppression provided by such app
 control of the development of industries" have been amply
 demonstrated to all those desirous of seeing how the political
 consequences of planning appear in practice.
-
-

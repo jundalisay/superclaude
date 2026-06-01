@@ -1,13 +1,23 @@
-10 WHY THE WORST GET ON TOP
+---
+heading: Chapter 10
+title: "WHY THE WORST GET ON TOP"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 31
+icon: "Hayek"
+c: "firebrick"
+---
+
+
+
 
 All power corrupts, absolute power corrupts absolutely.
 Lord Acton.
 
-We must now examine a belief from which many who regard
-the advent of totalitarianism as inevitable derive consolation and
-which seriously weakens the resistance of many others who
-would oppose it with all their might ifthey fully apprehended its
-nature. It is the belief that the most repellent features of the
+
+Many people, who regard the advent of totalitarianism as inevitable, derive consolation and which seriously weakens the resistance of many others who would oppose it with all their might ifthey fully apprehended its nature.
+
+It is the belief that the most repellent features of the
 totalitarian regimes are due to the historical accident that they
 were established by groups of blackguards and thugs. Surely, it is
 argued, if in Germany the creation of a totalitarian regime
@@ -579,4 +589,3 @@ heading of truthfulness. This is so big a subject that it requires a
 separate chapter.
 
 1 Professor F. H. Knight in The Journal of Political Economy, December 1938, p. 869.
-

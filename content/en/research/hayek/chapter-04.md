@@ -1,4 +1,13 @@
-4 THE "INEVITABILITY" OF PLANNING
+---
+heading: Chapter 4
+title: "The Inevitability Of Planning"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 16
+icon: "Hayek"
+c: "firebrick"
+---
+
 
 We were the first to assert that the more complicated the
 forms of civilisation, the more restricted the freedom of the
@@ -387,7 +396,9 @@ unites almost all the single-minded idealists, all the men and
 women who have devoted their lives to a single task. The hopes
 they place in planning, however, are not the result of a comprehensive view ofsociety, but rather of a very limited view, and
 often the result of a great exaggeration of the importance of the
-ends they place foremost. This is not to underrate the great
+ends they place foremost. 
+
+This is not to underrate the great
 pragmatic value of this type of men in a free society like ours,
 which makes them the subject of just admiration. But it would
 make the very men who are most anxious to plan society the
@@ -404,5 +415,3 @@ method which effects such co-ordination without the need for
 an omniscient dictator. But that means precisely the retention
 of some such impersonal and often unintelligible checks on
 individual efforts as those against which all specialists chafe.
-
-

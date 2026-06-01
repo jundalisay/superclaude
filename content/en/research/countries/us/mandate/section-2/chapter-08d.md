@@ -73,22 +73,15 @@ Cutting off the CPB is logistically easy. The solution lies in the budgetary
 process. In 2022, the CPB submitted to the Labor, Health and Human Services,
 Education, and Related Agencies Subcommittees of the House and Senate Appro-
 priations Committees its budget justification for fiscal year (FY) 2023. In it, the
-CPB requested that Congress give it a $565 million advance appropriation—a $40
-million increase compared to its FY 2022 funding.52 Unlike most other agencies,
-the CPB receives advance appropriations that provide them with funding two years
-ahead of time, which insulates the agency from Congress’s power of the purse and
+CPB requested that Congress give it a $565 million advance appropriation—a USD 40 million increase compared to its FY 2022 funding.52 Unlike most other agencies, the CPB receives advance appropriations that provide them with funding two years ahead of time, which insulates the agency from Congress’s power of the purse and
 oversight. This special budgetary treatment is unjustified and should be ended.
-The 47th President can just tell the Congress—through the budget he proposes
-and through personal contact—that he will not sign an appropriations spending bill
-that contains a penny for the CPB. The President may have to use the bully pulpit,
-as NPR and PBS have teams of lobbyists who have convinced enough Members of
+
+The 47th President can just tell the Congress—through the budget he proposes and through personal contact—that he will not sign an appropriations spending bill that contains a penny for the CPB. The President may have to use the bully pulpit, as NPR and PBS have teams of lobbyists who have convinced enough Members of
 Congress to save their bacon every time their taxpayer subsidies have been at risk
 since the Nixon era.
 
-Defunding CPB would by no means cause NPR or PBS—or other public broad-
-casters that benefit from CPB funding, including the even-further-to-the Left
-Pacifica Radio and American Public Media—to file for bankruptcy. The mem-
-bership model that the CPB uses, along with the funding from corporations and
+Defunding CPB would by no means cause NPR or PBS—or other public broadcasters that benefit from CPB funding, including the even-further-to-the Left
+Pacifica Radio and American Public Media—to file for bankruptcy. The membership model that the CPB uses, along with the funding from corporations and
 foundations that it also receives, would allow these broadcasters to continue to
 thrive. As George Will wrote, “If ‘Sesame Street’ programming were put up for
 auction, the danger would be of getting trampled by the stampede of potential
@@ -98,10 +91,12 @@ a money earner.
 operate in the “non-reserved” band.54 This confers advantages, as lower-frequency
 stations can be heard farther away and are easier to find as they lie on the left end
 of the radio dial (figuratively as well as ideologically).
+
 The FCC also exempts NCE stations from licensing fees. It says that “Noncom-
 mercial educational (NCE) FM station licensees and full service NCE television
 broadcast station licensees are exempt from paying regulatory fees, provided that
 these stations operate solely on an NCE basis.”55
+
 NPR and PBS stations are in reality no longer noncommercial, as they run ads
 in everything but name for their sponsors. They are also noneducational. The next
 President should instruct the FCC to exclude the stations affiliated with PBS and

@@ -1,19 +1,24 @@
+---
+heading: Chapter 8
+title: "WHO, WHOM?"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 26
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-8
-WHO, WHOM?
 
-The finest opportunity ever given to the world was thrown
-away because the passion for equality made vain the hope for
-freedom.
+The finest opportunity ever given to the world was thrown away because the passion for equality made vain the hope for freedom.
 Lord Acton.
 
-It is significant that one of the commonest objections to competition is that it is "blind". It is not irrelevant to recall that to
-the ancients blindness was an attribute of their deity of justice.
-Although competition and justice may have little else in
-common, it is as much a commendation of competition as of
-justice that it is no respecter of persons. That it is impossible
-to foretell who will be the lucky ones or whom disaster will
+
+One of the commonest objections to competition is that it is "blind". It is not irrelevant to recall that to the ancients blindness was an attribute of their deity of justice.
+Although competition and justice may have little else in common, it is as much a commendation of competition as of
+justice that it is no respecter of persons. 
+
+That it is impossible to foretell who will be the lucky ones or whom disaster will
 strike, that rewards and penalties are not shared out according
 to somebody's views about the merits or demerits of different
 people, but depend on their capacity and their luck, is as
@@ -589,4 +594,3 @@ who were disappointed because they had been promised equality but found that the
 particular class. Above all they were successful because they
 offered a theory, or Weltanschauung, which seemed to justify the
 privileges they promised to their supporters.
-

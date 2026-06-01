@@ -155,7 +155,7 @@ Higher Education Advisory Board and the National Security Business Alliance
 Council should be prioritized with leadership from the NCSC, the FBI, or a com-
 bination of both entities.
 
-When the CCP steals at least $400 billion–$600 billion in intellectual prop-
+When the CCP steals at least USD 400 billion– USD 600 billion in intellectual prop-
 erty each year, it is time to devote some strategic thinking to exactly how and to
 what degree counterintelligence efforts can help to protect America’s commercial
 endeavors. If Chinese strategic technology gains are happening almost entirely in

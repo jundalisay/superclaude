@@ -1,7 +1,13 @@
+---
+heading: Chapter 5
+title: "PLANNING AND DEMOCRACY"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 18
+icon: "Hayek"
+c: "firebrick"
+---
 
-
-5
-PLANNING AND DEMOCRACY
 
 The statesman who should attempt to direct private people in
 what manner they ought to employ their capitals, would not

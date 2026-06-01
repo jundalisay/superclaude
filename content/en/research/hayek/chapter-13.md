@@ -1,20 +1,25 @@
+---
+heading: Chapter 13
+title: "The Totalitarians In Our Midst"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 8
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-13 THE TOTALITARIANS IN OUR MIDST
 
 
-When authority presents itself in the guise of organisation it
-develops charms fascinating enough to convert communities
-of free people into totalitarian States.
+When authority presents itself in the guise of organisation it develops charms fascinating enough to convert communities of free people into totalitarian States.
 The Times.
 
-Probably it is true that the very magnitude of the outrages committed by the totalitarian governments, instead ofincreasing the
-fear that such a system might one day arise in this country, has
-rather strengthened the assurance that it cannot happen here.
-When we look to Nazi Germany the gulf which separates us
-seems so immense that nothing that happens there can possess
-relevance for any possible development in this country. And the
-fact that the difference has steadily become greater seems to
+
+The very magnitude of the outrages committed by the totalitarian governments, instead of increasing the fear that such a system might one day arise in this country, has rather strengthened the assurance that it cannot happen here. 
+
+When we look to Nazi Germany the gulf which separates us seems so immense that nothing that happens there can possess relevance for any possible development in this country. 
+
+The fact that the difference has steadily become greater seems to
 refute any suggestion that we may be moving in a similar direction. But let us not forget that fifteen years ago the possibility of
 such a thing happening in Germany would have appeared just as
 fantastic, not only to nine-tenths ofthe Germans themselves, but also to the most hostile foreign observers (however wise they
@@ -651,5 +656,6 @@ party, there would indeed be no hope left.
 
 1 The Old World and the New Society, an Interim Report of the National Executive of
 the British Labour Party on the Problems of Reconstruction, pp. 12 and 16.
+
 
 

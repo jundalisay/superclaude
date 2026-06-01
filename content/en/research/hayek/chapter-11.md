@@ -1,22 +1,28 @@
+---
+heading: Chapter 11
+title: "THE END OF TRUTH"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 8
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-11
-THE END OF TRUTH
-It is significant that the nationalisation of thought has proceeded everywhere pari passu with the nationalisation of
-industry.
+
+It is significant that the nationalisation of thought has proceeded everywhere pari passu with the nationalisation of industry.
 E. H. Carr.
 
-The most effective way of making everybody serve the single
-system of ends towards which the social plan is directed is to
+
+The most effective way of making everybody serve the single system of ends towards which the social plan is directed is to
 make everybody believe in those ends. To make a totalitarian
 system function efficiently it is not enough that everybody
 should be forced to work for the same ends. It is essential that
 the people should come to regard them as their own ends.
-Although the beliefs must be chosen for the people and imposed
-upon them, they must become their beliefs, a generally accepted
+
+Although the beliefs must be chosen for the people and imposed on them, they must become their beliefs, a generally accepted
 creed which makes the individuals as far as possible act spontaneously in the way the planner wants. If the feeling of oppression in totalitarian countries is in general much less acute than
-most people in liberal countries imagine, this is because the
-totalitarian governments succeed to a high degree in making
+most people in liberal countries imagine, this is because the totalitarian governments succeed to a high degree in making
 people think as they want them to.
 
 
@@ -387,8 +393,9 @@ independent thought is completely to miss the reasons which
 give intellectual freedom its value. What is essential to make it
 serve its function as the prime mover of intellectual progress is
 not that everybody may be able to think or write anything, but
-that any cause or idea may be argued by somebody. So long as
-dissent is not suppressed, there will always be some who will
+that any cause or idea may be argued by somebody. 
+
+So long as dissent is not suppressed, there will always be some who will
 query the ideas ruling their contemporaries and put new ideas
 to the test of argument and propaganda.
 
@@ -411,17 +418,11 @@ decline ofreason.
 
 The tragedy of collectivist thought is that while it starts out to
 make reason supreme, it ends by destroying reason because it
-misconceives the process on which the growth of reason
-depends. It may indeed be said that it is the paradox of all
-170 THE ROAD TO SERFDOM
-collectivist doctrine and its demand for the "conscious" control
+misconceives the process on which the growth of reason depends. It may indeed be said that it is the paradox of all collectivist doctrine and its demand for the "conscious" control
 or "conscious" planning that they necessarily lead to the
-demand that the mind of some individual should rule
-supreme-while only the individualist approach to social phenomena makes us recognise the super-individual forces which
+demand that the mind of some individual should rule supreme-while only the individualist approach to social phenomena makes us recognise the super-individual forces which
 guide the growth of reason. Individualism is thus an attitude of
 humility before this social process and of tolerance to other
 opinions, and is the exact opposite of that intellectual hubris
 which is at the root of the demand for comprehensive direction
 of the social process.
-
-

@@ -69,15 +69,10 @@ of the federal nutrition programs. Food stamps are designed to be supplemented b
 other forms of income—whether through paid employment or nonprofit support.
 SNAP serves 41.1 million individuals—an increase of 4.3 million people during the
 Biden years.55 In 2020, the food stamp program cost $79.1 billion. That number
-continued to rise—by 2022, outlays hit $119.5 billion.56
+continued to rise—by 2022, outlays hit USD 119.5 billion.
 
 The next Administration should:
-
-Re-implement work requirements. The statutory language covering
-food stamps allows states to waive work requirements that otherwise
-apply to work-capable individuals—that is, adult beneficiaries between the
-ages 18 and 50 who are not disabled and do not have any children or other
-dependents in the home.57
+- Re-implement work requirements. The statutory language covering food stamps allows states to waive work requirements that otherwise apply to work-capable individuals—that is, adult beneficiaries between the ages 18 and 50 who are not disabled and do not have any children or other dependents in the home.57
 
 Even in a strong economy, work expectations are fairly limited: Individuals
 who are work-capable and without dependents are required to work or
@@ -187,4 +182,3 @@ Re-evaluate excessive regulation. As for baby formula regulations
 generally, labeling regulations and regulations that unnecessarily delay the
 manufacture and sale of baby formula should be re-evaluated.80 During the
 Biden Administration, there have been devastating baby formula shortages.
-

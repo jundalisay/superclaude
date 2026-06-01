@@ -42,7 +42,7 @@ The main area of operations of the Anunnaki was the Middle East because of the a
 
 They knew that Negativity was so huge in homo erectus and so they tried to guide humans into the proper Positive behavior. This guidance forms the basis or the Judeo-Christian religions which was born in the Middle East. 
 
-{{< i s="/photos/social/anu.jpg" a="Anunnaki gods" c="The guidancec of the Anunnaki led to religion" >}}
+{{< i s="/photos/medieval/anu.jpg" a="Anunnaki gods" c="The guidance of the Anunnaki led to religion" >}}
 
 
 The non-Middle Eastern areas were relatively free of Anunnaki influence and so were able to create their own religions and morals based on natural feelings. 

@@ -1,8 +1,14 @@
+---
+heading: Chapter 14
+title: "MATERIAL CONDITIONS AND IDEAL ENDS"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 8
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-14
-MATERIAL CONDITIONS AND
-IDEAL ENDS
 
 Is it just or reasonable, that most voices against the main end
 of government should enslave the less number that would be
@@ -554,5 +560,3 @@ little compared with the basic differences of two opposed ways
 of life, but our unwavering faith in those traditions which have
 made this country a country of free and upright, tolerant and
 independent people, is the thing that counts.
-
-

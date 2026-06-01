@@ -1,13 +1,108 @@
+---
+title: "Introduction"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 2
+icon: "Hayek"
+c: "firebrick"
+---
 
 
 
-INTRODUCTION
+<!-- PREFACE vii
+Introduction
+1 The Abandoned Road 10
+2 The Great Utopia 24
+3 Individualism and Collectivism 33
+4 The "Inevitability" of Planning 45
+5 Planning and Democracy 59
+6 Planning and the Rule of Law 75
+7 Economic Control and Totalitarianism 91
+8 Who, Whom? 1°5
+9 Security and Freedom 123
+10 Why the Worst Get on Top 138
+11 The End ofTruth 157
+12 The Socialist Roots of Nazism 171
+13 The Totalitarians in our Midst 186
+14 Material Conditions and Ideal Ends 207
+15 The Prospects of International Order 225
+vi CONTENTS
+Co N C LUS ION
+BIBLIOGRAPHICAL NOTE
 
-Few discoveries are more irritating than those which expose
-the pedigree of ideas.
+PREFACE -->
+
+
+When a professional student of social affairs writes a political
+book, his first duty is plainly to say so. This is a political book. I
+do not wish to disguise this by describing it, as I might perhaps
+have done, by the more elegant and ambitious name of an essay
+in social philosophy. But, whatever the name, the essential point
+remains that all I shall have to say is derived from certain ultimate values. I hope I have adequately discharged in the book itself
+a second and no less important duty: to make it clear beyond
+doubt what these ultimate values are on which the whole
+argument depends.
+
+There is, however, one thing I want to add to this. Though this
+is a political book, I am as certain as anyone can be that the
+beliefs set out in it are not determined by my personal interests. I
+can discover no reason why the kind of society which seems to
+me desirable should offer greater advantages to me than to the
+great majority of the people of this country. In fact, I am always
+told by my socialist colleagues that as an economist I should
+occupy a much more important position in the kind ofsociety to
+
+which I am opposed-provided, of course, that I could bring
+myselfto accept their views. I feel equally certain that my opposition to these views is not due to their being different from those
+with which I have grown up, since they are the very views which
+I held as a young man and which have led me to make the study
+of economics my profession. For those who, in the current fashion, seek interested motives in every profession of a political
+opinion, I may, perhaps, be allowed to add that I have every
+possible reason for not writing or publishing this book. It is
+certain to offend many people with whom I wish to live on
+friendly terms; it has forced me to put aside work for which I
+feel better qualified and to which I attach greater importance in
+the long run; and, above all, it is certain to prejudice the reception of the results of the more strictly academic work to which
+all my inclinations lead me.
+
+If in spite of this I have come to regard the writing of this
+book as a duty which I must not evade, this was mainly due to a
+peculiar and serious feature of the discussions of problems of
+future economic policy at the present time, of which the public
+is scarcely suffiCiently aware. This is the fact that the majority of
+economists have now for some years been absorbed by the war
+machine, and silenced by their official positions, and that in
+consequence public opinion on these problems is to an alarming
+extent guided by amateurs and cranks, by people who have an
+axe to grind or a pet panacea to sell. In these circumstances one
+who still has the leisure for literary work is hardly entitled to
+keep to himself apprehensions which current tendencies must
+create in the minds of many who cannot publicly express
+them-though in different circumstances I should have gladly
+left the discussion of questions of national policy to those who
+are both better authorised and better qualified for the task.
+The central argument of this book was first sketched in an
+article entitled "Freedom and the Economic System," which
+appeared in the Contemporary Review for April, 1938, and was later
+PREFACE ix
+reprinted in an enlarged form as one of the "Public Policy
+Pamphlets", edited by Professor H. D. Gideonse for the
+University of Chicago Press (1939). I have to thank the editors
+and publishers of both these publications for permission to
+reproduce certain passages from them.
+London School of Economics,
+Cambridge, December, 1943
+
+
+## Introduction
+
+Few discoveries are more irritating than those which expose the pedigree of ideas.
 Lord Acton.
 
-Contemporary events differ from history in that we do not know
+
+We do not know the results of contemporary events.
+
+<!--  differ from history in that we do not know
 the results they will produce. Looking back, we can assess the
 significance of past occurrences and trace the consequences they
 have brought in their train. But while history runs its course, it is
@@ -16,36 +111,39 @@ can we get a glimpse of what lies ahead. It would be different if
 it were given to us to live a second time through the same events
 with all the knowledge ofwhat we have seen before. How different would things appear to us, how important and often alarming would changes seem that we now scarcely notice! It is
 probably fortunate that man can never have this experience
-and knows of no laws which history must obey.
-Yet, although history never quite repeats itself, and just
-because no development is inevitable, we can in a measure learn from the past to avoid a repetition ofthe same process. One need
-not be a prophet to be aware of impending dangers. An accidental combination of experience and interest will often reveal
-events to one man under aspects which few yet see.
+and knows of no laws which history must obey. -->
+
+But we can learn from the past to avoid a repetition ofthe same process.
+
 
 The following pages are the product of an experience as near
 as possible to twice living through the same period-or at least
-twice watching a very similar evolution ofideas. While this is an
-experience one is not likely to gain in one country, it may in
+twice watching a very similar evolution ofideas. 
+
+While this is an experience one is not likely to gain in one country, it may in
 certain circumstances be acquired by living in turn for long
 periods in different countries. Though the influences to which
 the trend of thought is subject in most civilised nations are to a
 large extent similar, they do not necessarily operate at the same
-time or at the same speed. Thus, by moving from one country to
+time or at the same speed. 
+
+Thus, by moving from one country to
 another, one may sometimes twice watch similar phases ofintellectual development. The senses have then become peculiarly
 acute. When one hears for a second time opinions expressed or
 measures advocated which one has first met twenty or twentyfive years ago, they assume a new meaning as symptoms of a
 definite trend. They suggest, if not the necessity, at least the
 probability, that developments will take a similar course.
 
-It is necessary now to state the unpalatable truth that it is
-Germany whose fate we are in some danger of repeating. The
-danger is not immediate, it is true, and conditions in this country are still so remote from those witnessed in recent years in
-Germany as to make it difficult to believe that we are moving in
-the same direction. Yet, though the road be long, it is one on
-which it becomes more difficult to turn back as one advances. If
+
+We are in danger of repeating the fate of Germany.
+
+The danger is not immediate. Conditions here are still so remote from those witnessed in recent years in Germany as to make it difficult to believe that we are moving in the same direction.
+
+Yet, though the road be long, it is one on which it becomes more difficult to turn back as one advances. If
 in the long run we are the makers of our own fate, in the short
 run we are the captives of the ideas we have created. Only if we
 recognise the danger in time can we hope to avert it.
+
 It is not to the Germany of Hitler, the Germany of the present
 war, that this country bears yet any resemblance. But students of
 the currents ofideas can hardly fail to see that there is more than
@@ -53,11 +151,14 @@ a superficial similarity between the trend ofthought in Germany during and after
 this country. There exists now in this country certainly the same
 determination that the organisation of the nation we have
 achieved for purposes of defence shall be retained for the
-purposes of creation. There is the same contempt for nineteenthcentury liberalism, the same spurious "realism" and even cynicism, the same fatalistic acceptance of "inevitable trends". And at
+purposes of creation.
+
+There is the same contempt for 19th century liberalism, the same spurious "realism" and even cynicism, the same fatalistic acceptance of "inevitable trends". And at
 least nine out of every ten of the lessons which our most vociferous reformers are so anxious we should learn from this war are
 precisely the lessons which the Germans did learn from the last
-war and which have done much to produce the Nazi system. We
-shall have opportunity in the course of this book to show that
+war and which have done much to produce the Nazi system. 
+
+We shall have opportunity in the course of this book to show that
 there are a large number of other points where, at an interval of
 fifteen to twenty-five years, we seem to follow the example of
 Germany. Although one does not like to be reminded, it is not so
@@ -177,26 +278,21 @@ which we are determined to cling.
 
 We shall never be successful in our dealings with the Germans
 till we understand the character and the growth of the ideas
-which now govern them. The theory which is once again put
-forth, that the Germans as such are inherently vicious, is hardly tenable and not very creditable to those who hold it. It dishonours the long series of Englishmen who during the past
-hundred years have gladly taken over what was best, and not
-only what was best, in German thought. It overlooks the fact that
-when eighty years ago John Stuart Mill was writing his great
-essay On Liberty he drew his inspiration, more than from any
+which now govern them. 
+
+The theory which is once again put forth, that the Germans as such are inherently vicious, is hardly tenable and not very creditable to those who hold it. It dishonours the long series of Englishmen who during the past hundred years have gladly taken over what was best, and not only what was best, in German thought. It overlooks the fact that
+when eighty years ago John Stuart Mill was writing his great essay On Liberty he drew his inspiration, more than from any
 other men, from two Germans, Goethe and Wilhelm von Humboldt,l and forgets the fact that two of the most influential intellectual forebears of National Socialism, Thomas Carlyle and
 Houston Stewart Chamberlain, were a Scot and an Englishman.
-In its cruder forms this view is a disgrace to those who by
-maintaining it adopt the worst features of German racial theories. The problem is not why the Germans as such are vicious,
+
+In its cruder forms this view is a disgrace to those who by maintaining it adopt the worst features of German racial theories. The problem is not why the Germans as such are vicious,
 which congenitally they are probably no more than other
 peoples, but to determine the circumstances which during the
 last seventy years have made possible the progressive growth and
-the ultimate victory of a particular set of ideas, and why in the
-end this victory has brought the most vicious elements among
-them to the top. Mere hatred of everything German, instead of
-the particular ideas which now dominate the Germans is, moreover, very dangerous, because it blinds those who indulge in it
+the ultimate victory of a particular set of ideas, and why in the end this victory has brought the most vicious elements among
+them to the top. Mere hatred of everything German, instead of the particular ideas which now dominate the Germans is, moreover, very dangerous, because it blinds those who indulge in it
 against a real threat. It is to be feared that this attitude is frequently merely a kind of escapism, caused by an unwillingness
-to recognise tendencies which are not confined to Germany, and
-by reluctance to reexamine, and if necessary to discard, beliefs
+to recognise tendencies which are not confined to Germany, and by reluctance to reexamine, and if necessary to discard, beliefs
 which we have taken over from the Germans and by which we
 are still as much deluded as the Germans were. It is doubly
 dangerous because the contention that only the peculiar wickedness of the Germans has produced the Nazi system is likely to
@@ -262,7 +358,4 @@ National-Socialism arose.
 of the Prussian State. consciously organised from the top as in no other country. is undeniable and was freely recognised already by the early French socialists. Long before the ideal of running the whole state on the same principles as
 a single factory was to inspire nineteenth-century socialism. the Prussian poet
 Novalis had already deplored that "no other state has ever been administered so
-much like a factory as Prussia since the death of Frederick William. U (C(
-Novalis [Friedrich von Hardenberg]. Glauben und Liebe. oder der Konig und die Konigin.
-1798.)
-1
+much like a factory as Prussia since the death of Frederick William. U (C(Novalis [Friedrich von Hardenberg]. Glauben und Liebe. oder der Konig und die Konigin. 1798.)

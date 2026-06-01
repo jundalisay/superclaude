@@ -1,9 +1,9 @@
 ---
 heading: Chapter 3
-title: "INDIVIDUALISM AND COLLECTIVISM"
+title: "Individualism And Collectivism"
 date: 2026-05-31
 description: "Father of Neoliberalism"
-weight: 8
+weight: 14
 icon: "Hayek"
 c: "firebrick"
 ---

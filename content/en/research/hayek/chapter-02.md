@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "The Great Utopia"
 date: 2026-05-31
 description: "Father of Neoliberalism"
-weight: 8
+weight: 11
 icon: "Hayek"
 c: "firebrick"
 ---

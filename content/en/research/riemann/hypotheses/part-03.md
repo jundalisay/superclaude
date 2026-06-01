@@ -14,14 +14,11 @@ date: 2026-05-31
 
 
 
-§ 1. By means of these inquiries into the determination of the measurerelations of an n-fold extent the conditions may be declared which are necessary and sufficient to determine the metric properties of space, if we assume
-the independence of line-length from position and expressibility of the lineelement as the square root of a quadric differential, that is to say, flatness in
+§ 1. By means of these inquiries into the determination of the measurerelations of an n-fold extent the conditions may be declared which are necessary and sufficient to determine the metric properties of space, if we assume the independence of line-length from position and expressibility of the lineelement as the square root of a quadric differential, that is to say, flatness in
 the smallest parts.
 
-First, they may be expressed thus: that the curvature at each point is
-zero in three surface-directions; and thence the metric properties of space are
-determined if the sum of the angles of a triangle is always equal to two right
-angles.
+First, they may be expressed thus: that the curvature at each point is zero in three surface-directions; and thence the metric properties of space are
+determined if the sum of the angles of a triangle is always equal to two right angles.
 
 Secondly, if we assume with Euclid not merely an existence of lines independent of position, but of bodies also, it follows that the curvature is
 everywhere constant; and then the sum of the angles is determined in all

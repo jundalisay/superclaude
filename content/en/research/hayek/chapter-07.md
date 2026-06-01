@@ -1,12 +1,18 @@
+---
+heading: Chapter 7
+title: "ECONOMIC CONTROL AND TOTALITARIANISM"
+date: 2026-05-31
+description: "Father of Neoliberalism"
+weight: 24
+icon: "Hayek"
+c: "firebrick"
+---
 
 
-7
-ECONOM IC CONTROL AN D
-TOTALITARIAN ISM
 
-The control of the production of wealth is the control of
-human life itself.
+The control of the production of wealth is the control of human life itself.
 Hilaire Bel/oc.
+
 
 Most planners who have seriously considered the practical
 aspects of their task have little doubt that a directed economy
@@ -14,9 +20,10 @@ must be run on more or less dictatorial lines. That the complex
 system ofinterrelated activities, ifit is to be consciously directed
 at all, must be directed by a single staff of experts, and that
 ultimate responsibility and power must rest in the hands of a
-commander-in-chief, whose actions must not be fettered by
-democratic procedure, is too obvious a consequence of underlying ideas of central planning not to command fairly general
-assent. The consolation our planners offer us is that this authoritarian direction will apply "only" to economic matters. One of
+commander-in-chief, whose actions must not be fettered by democratic procedure, is too obvious a consequence of underlying ideas of central planning not to command fairly general
+assent. 
+
+The consolation our planners offer us is that this authoritarian direction will apply "only" to economic matters. One of
 the most prominent American planners, Mr. Stuart Chase, assures
 us, for instance, that in a planned society "political democracy can remain if it confines itself to all but economic matter". Such
 assurances are usually accompanied by the suggestion that by
