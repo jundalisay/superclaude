@@ -129,7 +129,7 @@ expression of an anti-capitalist attitude and possibly the forerunner of complet
 elimination of the typically capitalist income brackets. We must therefore put
 our question for a capitalist society not yet attacked at its economic roots. For
 this country, it seems reasonable to select the data of 1929. 6
-Let us define rich people as those who have incomes of $50,000 and over.
+Let us define rich people as those who have incomes of USD50,000 and over.
 
 In 1929, they received about 13 billion dollars out of a national total of about
 93 billions.7 From these 13 billions we have to deduct taxes, savings, and gifts
@@ -159,7 +159,7 @@ absorbed more than 1 or a per cent at the outside. And, so far as the family
 motive is still alive, not even all of that can be considered irrelevant to
 performance conducive to the efficiency of the economic engine.
 
-Some readers will no doubt feel that the $50,000 limit is unduly high. It
+Some readers will no doubt feel that the USD50,000 limit is unduly high. It
 is clear of course that more could be economized by eliminating or reducing
 to a subsistence level the incomes of all the people who are, economically
 speaking, idle whether rich or poor. 9 Still more could be economized, so one

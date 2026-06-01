@@ -226,10 +226,10 @@ generally appreciated, the New Deal was able to expropriate the upper
 income brackets even before the war. One indication will have to suffice, one
 that shows no more than the effects of the increase in the (personal) Income
 and Surtax and these only up to 1936: in 1929, when Total Income Paid Out
-was estimated at 80.6 billion dollars, the brackets above $50,000 (taxable
+was estimated at 80.6 billion dollars, the brackets above USD50,000 (taxable
 income) retained 5.2 billions after income and surtax; in 1936, when the total
 of income paid out was estimated at 64.2 billion dollars, not quite 1.2
-billions. 3 Taxable income above $100,000 was even then wholly absorbed if
+billions. 3 Taxable income above USD100,000 was even then wholly absorbed if
 account be taken of estate taxes. From the standpoint of naïve radicalism,
 the only trouble with these and subsequent measures of confiscation is that
 they did not go far enough. But this does not alter the fact with which we
@@ -259,7 +259,7 @@ Moreover, these sums are, of course, not strictly comparable with the figures of
 out (Commerce estimates), which may, however, be considered as indices of the comparable
 figures. The reason why I have not simply taken the latter (from Statistics of Income) is obvious,
 but the choice of the years of comparison needs explanation: 1929 was the year for which incomes
-above $50,000 after income and surtax were at an absolute maximum; 1936 has been chosen
+above USD50,000 after income and surtax were at an absolute maximum; 1936 has been chosen
 because it was the last year that was, first, unaffected by the recession of 1937–1938 and, second,
 completely free from war influences that asserted themselves from 1939 on.
 4 Comparison between different countries is of course difficult and perhaps never quite
@@ -267,19 +267,14 @@ convincing. But the Russian act of April 4, 1940, concerning the income tax, rev
 incomes as low as 1.812 rubles per year were subject to it. It also reveals the existence of
 incomes of over 300,000 rubles which were then taxed at the rate of 50 per cent. 
 
-Now, let us earlier concerning England. The pressure on the upper brackets is, of course,
-not confined to “$50,000 and above.” To a diminishing degree it extends
-down to the incomes of $5,000. And there cannot, be any doubt, especially
-in the case of doctors in the middle ranges of professional success, that this
+Now, let us earlier concerning England. The pressure on the upper brackets is, of course, not confined to “USD 50,000 and above.” To a diminishing degree it extends
+down to the incomes of USD5,000. And there cannot, be any doubt, especially in the case of doctors in the middle ranges of professional success, that this
 sometimes results in loss of much-needed efficiency.
-So far, then, the effect upon the social structure of the war plus the
-labor troubles that were its natural consequence would seem to be much
-the same as in England. The fact that in the United States there is no
-well-organized national labor party might set us speculating about the
-possibility of a development on the lines of guild socialism instead of one
-toward centralist socialism. Otherwise this fact only strengthens the case
-for the prognosis that has been elaborated in this book, for pressure
-groups are just as powerful as parties and much less responsible, hence
+
+So far, then, the effect upon the social structure of the war plus the labor troubles that were its natural consequence would seem to be much
+the same as in England. The fact that in the United States there is no well-organized national labor party might set us speculating about the
+possibility of a development on the lines of guild socialism instead of one toward centralist socialism. Otherwise this fact only strengthens the case
+for the prognosis that has been elaborated in this book, for pressure groups are just as powerful as parties and much less responsible, hence
 more effective battering rams.
 
 2. But there is another fact about the social situation in the United States
@@ -298,7 +293,7 @@ ruble group at 2,000 rubles; further, let us put the modal retained income in th
 at no higher than 150,000 rubles (though those 300,000 rubles before tax were a lower limit).
 Then we discover that the higher of these modes was 75 times the lower one. Even if we put,
 for 1940, the American equivalent (not of course in purchasing power, but in the sense of
-equivalent position in the income scale) of the lower mode at as low as $1,000, we shall
+equivalent position in the income scale) of the lower mode at as low as USD1,000, we shall
 evidently not find much in the United States income distribution of retained incomes (even apart
 from the reductions specifically motivated by the requirements of war finance) to support, in
 the light of the Russian paradigma, the current phrases about atrocious inequalities,

@@ -180,7 +180,7 @@ purchasing power of the consumers’ dollars. Second, we must form an idea
 about the increase in population we are to expect; we will choose Mr.
 Sloane’s estimate, which gives 160 millions for 1978. Average income per
 head during those fifty years would therefore increase to a little more than
-double its 1928 amount, which was about $650, or to about $1300 of 1928
+double its 1928 amount, which was about USD650, or to about USD1300 of 1928
 purchasing power. 7
 <<<<<<< HEAD
 
@@ -352,7 +352,7 @@ the other hand, much of what social legislation develops and generalizes
 had been previously initiated by the action of the capitalist stratum itself.
 Both facts must of course be added to the sum total of capitalist
 performance. Now if the system had another run such as it had in the
-sixty years preceding 1928 and really reached the $1300 per head of
+sixty years preceding 1928 and really reached the USD1300 per head of
 population, it is easy to see that all the desiderata that have so far been
 espoused by any social reformers—practically without exception,
 including even the greater part of the cranks—either would be fulfilled
