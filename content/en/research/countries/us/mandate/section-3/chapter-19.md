@@ -14,7 +14,7 @@ In the following decades, America’s growth was made possible by transportation
 
 Access to transportation is part of what made our country great. -->
 
-The US Department of Transportation (DOT), with a requested fiscal year (FY) 2023 budget of $142 billion, was originally intended simply to provide a policy framework for transportation safety, rulemaking, and regulation. 
+The US Department of Transportation (DOT), with a requested fiscal year (FY) 2023 budget of USD142 billion, was originally intended simply to provide a policy framework for transportation safety, rulemaking, and regulation. 
 
 However, it has evolved:
 - “to deliver the world’s leading transportation system”
@@ -28,8 +28,8 @@ Such a role is held better by transportation asset owners:
 In addition to providing a safety and regulatory framework through its 11 subcomponents, known as modes, the department has become a de facto grantmaking and lending organization. 
 
 The DOT:
-- provides approximately $50 billion in discretionary and formula grants, known as obligations, annually in areas ranging from transit systems to road construction to universities
-- has lent or subsidized more than $60 billion since the Transportation Infrastructure Finance and Innovation Act (TIFIA) program
+- provides approximately USD50 billion in discretionary and formula grants, known as obligations, annually in areas ranging from transit systems to road construction to universities
+- has lent or subsidized more than USD60 billion since the Transportation Infrastructure Finance and Innovation Act (TIFIA) program
   - This is now managed by the Build America Bureau, was created in 1998.
 
 This evolved role as a major funding and financing source is far from the department’s original policy framework. 

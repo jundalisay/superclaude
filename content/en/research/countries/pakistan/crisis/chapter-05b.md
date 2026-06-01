@@ -88,7 +88,7 @@ Army officers:
 - saw themselves as 'saviours of the country'
 - created a revolving door policy where military officers were given civilian jobs and then moved out to make room for new officers.
 
-Ayesha Siddiqa estimates that the military's business interests in Pakistan is $10 billion.
+Ayesha Siddiqa estimates that the military's business interests in Pakistan is USD10 billion.
 
 <!-- While her calculations are open to dispute and indeed have been
 challenged by the military, the gist of her arguments raises relevant

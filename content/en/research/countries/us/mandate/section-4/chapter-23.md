@@ -29,9 +29,9 @@ The Bank should be abolished.
 
 ## Background
 
-The Export–Import Bank was created in 1934 as an export credit agency (ECA) to finance trade with the Soviet Union. It was reorganized as an independent government agency in 1945. President Franklin Roosevelt’s Executive Order 6581 gave it “the power to aid in financing and to facilitate exports and imports and the exchange of commodities between the United States and other Nations or the agencies and nationals thereof” to create jobs in the United States.2 EXIM has four main tools with which to pursue these goals: loan guarantees, working capital guarantees, direct loans, and export-credit insurance. Importantly, for four years starting at the end of 2015, the Bank became incapacitated. Lacking a quorum for its board of directors, it could not extend financing that exceeded $10 million per project. That put an end to about 85 percent of the Bank’s financing obligations. As the numbers below show, the Bank hasn’t yet recovered from that long interruption.
+The Export–Import Bank was created in 1934 as an export credit agency (ECA) to finance trade with the Soviet Union. It was reorganized as an independent government agency in 1945. President Franklin Roosevelt’s Executive Order 6581 gave it “the power to aid in financing and to facilitate exports and imports and the exchange of commodities between the United States and other Nations or the agencies and nationals thereof” to create jobs in the United States.2 EXIM has four main tools with which to pursue these goals: loan guarantees, working capital guarantees, direct loans, and export-credit insurance. Importantly, for four years starting at the end of 2015, the Bank became incapacitated. Lacking a quorum for its board of directors, it could not extend financing that exceeded USD10 million per project. That put an end to about 85 percent of the Bank’s financing obligations. As the numbers below show, the Bank hasn’t yet recovered from that long interruption.
 
-Total Bank authorizations in recent years have gone from $12.6 billion in fiscal year (FY) 20073 to $21.5 billion in FY 20144 to $5.2 billion in FY 2022.5 A better way to understand these numbers is to look at the amount of financial exposure the Bank has—that is, the risk the Bank takes for which taxpayers are ultimately responsible. During this same period, the Bank’s total exposure increased from $57.42 billion in FY 20076 to $112.1 billion in FY 20147 and then fell to $41.3 billion in FY 20218 and $35.4 billion in FY 2022.9
+Total Bank authorizations in recent years have gone from USD12.6 billion in fiscal year (FY) 20073 to USD21.5 billion in FY 20144 to USD5.2 billion in FY 2022.5 A better way to understand these numbers is to look at the amount of financial exposure the Bank has—that is, the risk the Bank takes for which taxpayers are ultimately responsible. During this same period, the Bank’s total exposure increased from USD57.42 billion in FY 20076 to USD112.1 billion in FY 20147 and then fell to USD41.3 billion in FY 20218 and USD35.4 billion in FY 2022.9
 
 
 ## CLAIMS VS. THE FACTS
@@ -62,7 +62,7 @@ that export credit subsidies merely redistribute exporting opportunities to subs
 dized firms instead of increasing the net number of exports—something that also
 slows economic growth.14
 
-Even more telling is the performance of the U.S. economy and American exports during the four years when EXIM lacked a board quorum (2015–2019) and was barred from finalizing deals in excess of $10 million. During that time, EXIM autho- rizations fell from $21 billion in FY 2014 to $3.6 billion in FY 2018 (adjusted for inflation).15 However, also during that time, regular big-ticket EXIM beneficiaries continued to benefit from their easy access to capital markets and still had the ability to finance their export activities.
+Even more telling is the performance of the U.S. economy and American exports during the four years when EXIM lacked a board quorum (2015–2019) and was barred from finalizing deals in excess of USD10 million. During that time, EXIM autho- rizations fell from USD21 billion in FY 2014 to USD3.6 billion in FY 2018 (adjusted for inflation).15 However, also during that time, regular big-ticket EXIM beneficiaries continued to benefit from their easy access to capital markets and still had the ability to finance their export activities.
 
 Further, U.S. exports were utterly unaffected by the reductions in the Bank’s activities.16 U.S. unemployment fell to a level not seen in half a century, but exports soared with financing provided by commercial lenders. The only negative eco- nomic impact from EXIM’s lack of a board quorum was its effect on the Bank itself. This contradicts EXIM’s claim that its activities are crucial for the success of U.S. exporters and economic growth. Instead, it shows that economic growth is the best booster of U.S. exports and job creation and that it does not depend on EXIM subsidies.
 
@@ -149,17 +149,17 @@ large domestic corporations have received roughly 65 percent of the Bank’s tot
 assistance (it is closer to 70 percent today). More than 99.9 percent of U.S. small
 businesses receive no benefits from EXIM and are often placed at a competitive
 disadvantage by the subsidies doled out to larger competitors. In fact, the Bank’s
-support for small businesses has declined from $2.3 billion in FY 201923 to “more
-than $2.0 billion” in FY 202024 to only $1.6 billion in FY 2021.25 This decline
+support for small businesses has declined from USD2.3 billion in FY 201923 to “more
+than USD2.0 billion” in FY 202024 to only USD1.6 billion in FY 2021.25 This decline
 occurred amid a pandemic that hit small businesses especially hard, and it con-
 tinues today.
 
 
 The Bank is not a good deal for taxpayers. The Bank’s accounting practices
 are deficient, and the Bank miscalculates its budget savings. While it claims that
-its operations will save taxpayers $14 billion over the next decade, the Congres-
+its operations will save taxpayers USD14 billion over the next decade, the Congres-
 sional Budget Office has found that EXIM programs will actually cost taxpayers
-$2 billion.26 Numerous audits done by the Bank’s internal inspector general
+USD2 billion.26 Numerous audits done by the Bank’s internal inspector general
 also show that the Bank’s risk analyses, default assumptions, internal reporting
 procedures, and financial reporting practices are not reliable enough to ensure
 the safe stewardship of taxpayer funds and responsible management of EXIM’s
@@ -181,7 +181,7 @@ peting against China, it would be targeting the low-income markets where China
 Top [Chinese] officials are discussing ways to move away from costly
 subsidies that have so far borne little fruit and encouraged both graft and
 American sanctions, people familiar with the matter said. While some
-continue to push for incentives of as much as 1 trillion yuan ($US145 billion),
+continue to push for incentives of as much as 1 trillion yuan (USDUS145 billion),
 other policymakers have lost their taste for an investment-led approach that’s
 not yielded the results anticipated, the people said.33
 
@@ -204,14 +204,14 @@ commercial lending is abundant—a trend that continues today.
 
 The failure to deliver on its congressionally imposed obligation—however mis-
 guided that obligation may be—is also noticeable in the fact that EXIM’s China
-and Transformation Exports Program (CTEP) extended only $141.3 million in
-financing in FY 2022—a fraction of the $27 billion it is supposed to deliver by the
+and Transformation Exports Program (CTEP) extended only USD141.3 million in
+financing in FY 2022—a fraction of the USD27 billion it is supposed to deliver by the
 end of 2026.30 The Bank’s efforts have also included a misplaced focus on emerging
 technologies such as quantum computing and artificial intelligence, which do not
 need EXIM financing because their foreign sales attract commercial financing
 without government support. The lack of demand for EXIM products could also
-be reflected in the Bank’s authorization of $5.2 billion in loan guarantees and sup-
-port in FY 2022,31 down from its FY 2012 peak of “over $35.7 billion” during the
+be reflected in the Bank’s authorization of USD5.2 billion in loan guarantees and sup-
+port in FY 2022,31 down from its FY 2012 peak of “over USD35.7 billion” during the
 Obama Administration.32
 
 This lack of activity also extends to the semiconductor industry, which has been

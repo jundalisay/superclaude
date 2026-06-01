@@ -27,7 +27,7 @@ in a nutshell, is to wholeheartedly pursue the four modernizations."
 
 In December 1979, during a meeting with Japanese Prime Minister Masayoshi Ohira, he quantified
 the "four modernizations" as follows: By the end of the 20th century, strive to achieve a per capita
-GDP of $1,000 and achieve a moderately prosperous level. Comrade Deng Xiaoping called this goal
+GDP of USD1,000 and achieve a moderately prosperous level. Comrade Deng Xiaoping called this goal
 "the four modernizations of the Chinese style," that is, the "home of moderate prosperity." He then
 adapted the "two-step" strategic step, which was to "reach the level of the wealthier countries of the
 Third World" by the end of the 20th century.”2 "To build a moderately prosperous society in China

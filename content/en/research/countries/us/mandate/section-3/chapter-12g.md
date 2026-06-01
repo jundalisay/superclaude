@@ -172,6 +172,6 @@ review sharing or a revolving fund.
 
 Budget
 
-The Office of Science was appropriated slightly more than $7 billion in FY 2021,
-and DOE requested slightly less than $7.8 billion for FY 2023.84
+The Office of Science was appropriated slightly more than USD7 billion in FY 2021,
+and DOE requested slightly less than USD7.8 billion for FY 2023.84
 

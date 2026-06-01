@@ -36,8 +36,8 @@ FEMA is also responsible for the National Flood Insurance Program (NFIP),
 nearly all of which is issued by the federal government. Washington provides
 insurance at prices lower than the actuarially fair rate, thereby subsidizing flood
 insurance. Then, when flood costs exceed NFIP’s revenue, FEMA seeks taxpay-
-er-funded bailouts. Current NFIP debt is $20.5 billion, and in 2017, Congress
-canceled $16 billion in debt when FEMA reached its borrowing authority limit.
+er-funded bailouts. Current NFIP debt is USD20.5 billion, and in 2017, Congress
+canceled USD16 billion in debt when FEMA reached its borrowing authority limit.
 These subsidies and bailouts only encourage more development in flood zones,
 increasing the potential losses to both NFIP and the taxpayer. The NFIP should
 be wound down and replaced with private insurance starting with the least risky
@@ -48,8 +48,8 @@ areas currently identified by the program.
 
 FEMA manages all grants for DHS, and these grants have become pork for states,
 localities, and special-interest groups. Since 2002, DHS/FEMA have provided
-more than $56 billion in preparedness grants for state, local, tribal, and territorial
-governments. For FY 2023, President Biden requested more than $3.5 billion for
+more than USD56 billion in preparedness grants for state, local, tribal, and territorial
+governments. For FY 2023, President Biden requested more than USD3.5 billion for
 federal assistance grants.13 Funds provided under these programs do not provide
 measurable gains for preparedness or resiliency. Rather, more than any objective
 needs, political interests appear to direct the flow of nondisaster funds.

@@ -35,7 +35,7 @@ reporting systems
 
 The Biden Administration Treasury Department has failed badly in achieving
 every one of the agency’s core objectives. The financial affairs of the nation have
-seldom been in worse condition, with the national debt expanding by more than $4
+seldom been in worse condition, with the national debt expanding by more than USD4
 trillion in Biden’s first two years in office. 
 
 No President in modern times—perhaps
@@ -44,8 +44,8 @@ The soundness and stability of U.S. currency, the dollar, has been put at risk
 because of the worst inflation in four decades. American families have been
 made poorer by Biden’s economic strategy of taxing, spending, borrowing,
 regulating, and printing money. The average family has seen real annual earn-
-ings fall about $6,000 during the Biden Administration.1 In 2022, the average
-American’s 401(k) plan dropped in value from $130,700 to $103,900—more
+ings fall about USD6,000 during the Biden Administration.1 In 2022, the average
+American’s 401(k) plan dropped in value from USD130,700 to USD103,900—more
 than 20 percent.2
 
 Why has the Biden Administration failed to achieve virtually all components of
@@ -93,7 +93,7 @@ Expenditures of all public Money shall be published from time to time.6
 The Treasury Department was established by statute in 1789. Today, it is respon-
 sible for financing the federal government, promoting economic prosperity, and
 ensuring the financial security of the United States. In fiscal year 2022, Treasury
-received discretionary appropriations of approximately $16.4 billion.7 It also has
+received discretionary appropriations of approximately USD16.4 billion.7 It also has
 highly variable “mandatory” expenses (COVID-related CARES Act spending,
 for example).
 

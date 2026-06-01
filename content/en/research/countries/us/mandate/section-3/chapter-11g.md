@@ -178,14 +178,14 @@ that abuse their power.
 New accreditors should also be encouraged to start up.
 Confronting the Chinese Communist Party’s Influence on Higher Education
 According to media reports, more than 100 universities in the U.S. received
-nearly $100 billion in gifts and grants from China-based sources between 2013
+nearly USD100 billion in gifts and grants from China-based sources between 2013
 and 2020. Much of this money derives from the Chinese Communist Party and
 its proxies. The next Administration must
 l
 Reverse the Biden Administration’s refusal to enforce Section
 117 of the HEA, which directs colleges and universities to report
 gifts from, and contracts with, sources outside the U.S. worth
-$250,000 or more.
+USD250,000 or more.
 
 
 Investigate postsecondary institutions that fail to honor their

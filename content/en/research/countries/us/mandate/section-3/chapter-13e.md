@@ -125,7 +125,7 @@ should avoid exceptions for EPA actions. This freeze should explicitly
 include quasi-regulatory actions, including assessments, determinations,
 standards, and guidance, that have failed to go through the notice-and-
 comment process and may date back years.
-Pause for review all contracts above $100,000 with a heavy focus on major
+Pause for review all contracts above USD100,000 with a heavy focus on major
 external peer reviews and regulatory models.
 
 Call for the public to identify areas where EPA has inconsistently assessed
@@ -167,7 +167,7 @@ often play an outsized role in determining agency scientific and regulatory poli
 A top priority should be the immediate and consistent rejection of all EPA
 ORD and science activities that have not been authorized by Congress. In FY
 2022, according to EPA’s opaque budgeting efforts, science and technology activ-
-ities totaled nearly $730 million. EPA’s FY 2023 budget request for the Office of
+ities totaled nearly USD730 million. EPA’s FY 2023 budget request for the Office of
 Research and Development seeks funds for more than 1,850 employees—a dramatic
 increase for what is already the largest EPA office with well above 10 percent of
 the agency’s workforce.44 ORD conducts a wide-ranging series of science and peer

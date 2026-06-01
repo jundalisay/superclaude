@@ -161,10 +161,10 @@ DOL should amend its hazard-order regulations to permit teenage
 workers access to work in regulated jobs with proper training and
 parental consent.
 Workforce Training Grant Program. The federal government spends more
-than $100 billion per year subsidizing higher education but close to zero supporting
+than USD100 billion per year subsidizing higher education but close to zero supporting
 people on non-college pathways.
 l
-Congress should create an employer grant worth up to $10,000
+Congress should create an employer grant worth up to USD10,000
 per year or pro-rated portion thereof for each worker engaged in
 
 
@@ -225,7 +225,7 @@ eliminate barriers to jobs for individuals without BA degrees.
 Federal Workforce Development Programs. Existing federally funded work-
 force development and training programs should be reassessed to ensure they are
 outcome-based and truly deliver value to taxpayers and job seekers.
-As of 2019, the federal government spent approximately $17 billion annually on
+As of 2019, the federal government spent approximately USD17 billion annually on
 43 federal employment and training programs administered across nine federal
 agencies, many of which overlap with at least one other program. Many of these
 programs track only inputs or individuals served, not outcomes or outputs, and do
@@ -281,7 +281,7 @@ letter or revoke the entire Federal Unemployment Tax Act (FUTA)16 tax
 credit, which would place an immediate 6 percent to 7 percent tax on all
 covered employers.
 
-DOL should review all actual or planned procurements against the $2 billion (under the American Rescue Plan Act)17 for UI fraud detection, accessibility, and equity investments. These funds do not have appropriations timelines and have very minimal statutory descriptions
+DOL should review all actual or planned procurements against the USD2 billion (under the American Rescue Plan Act)17 for UI fraud detection, accessibility, and equity investments. These funds do not have appropriations timelines and have very minimal statutory descriptions
 of the intended purpose. 
 
 DOL should also review and propose changes to improve state monitoring programs including developing evidence-based

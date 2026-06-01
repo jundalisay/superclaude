@@ -131,8 +131,8 @@ record (e.g., lowering the percentage of income owed from 10 percent to 25 per-
 cent under existing plans to 5 percent, lowering the number of years of payment
 required from 20 or 25 years to 10 years, and increasing income exemption from
 150 percent to 225 percent of the poverty line). The median borrower who earns an
-associate degree would owe only $15 a month, regardless of how much he or she had
-borrowed. The median bachelor’s degree borrower would owe only $68 a month.
+associate degree would owe only USD15 a month, regardless of how much he or she had
+borrowed. The median bachelor’s degree borrower would owe only USD68 a month.
 This plan essentially converts these student loans into delayed grant programs.
 
 

@@ -172,7 +172,7 @@ use, thereby benefiting entire local economies through greater private investmen
 productivity and employment opportunities, and increased tax revenue.
 
 Any long-term view of HUD’s future must include maintaining the strong
-financial operations and reliable reporting that are needed to run a $50 billion-
+financial operations and reliable reporting that are needed to run a USD50 billion-
 per-year agency. Before the Trump Administration, HUD effectively did not have
 a Chief Financial Officer (CFO) for eight years, and HUD’s financial infrastructure
 inevitably deteriorated. The department’s auditors were unable to conclude that

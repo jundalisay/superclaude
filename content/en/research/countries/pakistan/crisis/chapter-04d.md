@@ -41,7 +41,7 @@ This has been mirrored in urban Pakistan as the exemption from general sales tax
 
 A task force set up to reform the tax system in 2001 found that 50% of taxes that are due never reach the treasury, an example of how the rich thwart the law.
 
-The IMF estimates that about $3 billion raised in taxes never make it to the exchequer because of the corrupt collusion between tax collectors and influential taxpayers. 
+The IMF estimates that about USD3 billion raised in taxes never make it to the exchequer because of the corrupt collusion between tax collectors and influential taxpayers. 
 
 <!-- Even a flawed tax regime has been subverted by the politically powerful. -->
 
@@ -78,7 +78,7 @@ Efforts at tax reform were poorly enforced throughout:
 
 These governments did not make any sustained effort to document the vast underground economy. 
 
-If GDP in 2009 was $170 billion, the real but undocumented economy was estimated to be twice that. 
+If GDP in 2009 was USD170 billion, the real but undocumented economy was estimated to be twice that. 
 
 This places 60% of the economy beyond the tax net according to some estimates. 
 

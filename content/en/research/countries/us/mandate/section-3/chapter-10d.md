@@ -57,7 +57,7 @@ The next Administration should:
 Move the USDA food and nutrition programs to the Department of
 Health and Human Services. There are more than 89 current means-
 tested welfare programs, and total means-tested spending has been
-estimated to surpass $1.2 trillion between federal and state resources.54
+estimated to surpass USD1.2 trillion between federal and state resources.54
 Because means-tested federal programs are siloed and administered in
 separate agencies, the effectiveness and size of the welfare state remains largely hidden. There are means-tested food-support programs in the USDA (specially FNS), whereas most means-tested programs are at the
 Department of Health and Human Services (HHS). All means-tested anti-poverty programs should be overseen by one department—specifically HHS,
@@ -68,7 +68,7 @@ fit-transfer (EBT) cards to help “low-income” individuals buy food. It is th
 of the federal nutrition programs. Food stamps are designed to be supplemented by
 other forms of income—whether through paid employment or nonprofit support.
 SNAP serves 41.1 million individuals—an increase of 4.3 million people during the
-Biden years.55 In 2020, the food stamp program cost $79.1 billion. That number
+Biden years.55 In 2020, the food stamp program cost USD79.1 billion. That number
 continued to rise—by 2022, outlays hit USD 119.5 billion.
 
 The next Administration should:
@@ -134,8 +134,8 @@ Re-evaluate the Thrifty Food Plan. In a dramatic overreach, the Biden
 Administration unilaterally increased food stamp benefits by at least 23
 percent in October 2021.72 Through an update to the Thrifty Food Plan, in
 which the USDA analyzes a basket of foods intended to provide a nutritious
-diet, the USDA increased food stamp outlays by between $250 billion and
-$300 billion over 10 years.73
+diet, the USDA increased food stamp outlays by between USD250 billion and
+USD300 billion over 10 years.73
 
 Although the 2018 farm bill instructed FNS to update the Thrifty Food Plan
 by 2023 and every five years thereafter, every previous Thrifty Food Plan
@@ -156,10 +156,10 @@ benefits from the Low-Income Heat and Energy Assistance Program
 (LIHEAP) are eligible for a larger utility deduction. In order to make
 households eligible for the higher deduction, and thus for greater food
 stamp benefits, states have distributed LIHEAP checks for amounts as small
-as $1 to food stamp recipients.
+as USD1 to food stamp recipients.
 
 The 2014 farm bill tightened this loophole by requiring that a household must
-receive more than $20 annually in LIHEAP payments to be eligible for the larger
+receive more than USD20 annually in LIHEAP payments to be eligible for the larger
 utility deduction and subsequently higher food stamp benefits.76 Nonetheless,
 states continue to inflate their standard utility allowances. Under the Trump
 Administration, the USDA proposed a rule, which was not finalized, that would
@@ -168,7 +168,7 @@ Reform WIC. Turning to WIC, this program distributes money through EBT
 cards to help low-income women, infants, and children under six purchase nutri-
 tion-rich foods and nutrition education (including breastfeeding support). As of
 August 2022, approximately 6.3 million people participated in WIC each month
-to purchase food.78 In 2021, WIC federal outlays were $5 billion.79
+to purchase food.78 In 2021, WIC federal outlays were USD5 billion.79
 The next Administration should:
 
 Reform the state voucher system. State agencies control WIC costs

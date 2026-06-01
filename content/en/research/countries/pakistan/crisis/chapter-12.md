@@ -63,7 +63,7 @@ Total primary energy supply in Pakistan is 63 MTOE (Million Tons of Oil Equivale
 
 Pakistan imports 1/3 of its energy requirements as oil and coal, despite huge proven reserves of coal and a significant exploration potential of oil.
 
-Over 80% (17 MTOE) of Pakistan's oil requirements are imported at a prohibitive cost of $12 billion a year, and over 60% (3 MTOE) of its coal supplies come from overseas.
+Over 80% (17 MTOE) of Pakistan's oil requirements are imported at a prohibitive cost of USD12 billion a year, and over 60% (3 MTOE) of its coal supplies come from overseas.
 
 The official figure for total energy consumption is 37 MTOE, the difference between supply and consumption being the losses in conversion, processing, transmission, distribution, as well as non-technical losses, which is a euphemism for theft.
 

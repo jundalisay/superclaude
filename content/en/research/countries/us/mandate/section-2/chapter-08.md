@@ -23,7 +23,7 @@ not parrot America’s adversaries’ propaganda and talking points.2
 
 Originally formed as the Broadcasting Board of Governors (BBG) in 1994, the BBG
 changed its name in 2018 to the United States Agency for Global Media. The USAGM is
-a sub-Cabinet agency of the U.S. government with a budget of just under $1 billion. The
+a sub-Cabinet agency of the U.S. government with a budget of just under USD1 billion. The
 agency oversees two government broadcasting networks: the Voice of America (VOA)
 and the Office of Cuba Broadcasting (OCB). USAGM also oversees 100 percent of the
 grant funding for several “independent” grantee organizations, including the Middle
@@ -93,14 +93,14 @@ showing waste and self-dealing, including security vulnerabilities and RFA lead-
 ership awarding insiders millions of dollars of grant funding.11 For example, as
 the OIG stated in one report, the then-president of RFA “established the Free-
 dom2Connect Foundation (Foundation)” and thereafter “awarded two contracts,
-totaling $1.2 million” to the foundation she herself founded.12
+totaling USD1.2 million” to the foundation she herself founded.12
 
 Furthermore:
 [The] OIG found that RFA did not comply with Federal procurement
 requirements for grantees. OIG identified instances in which RFA and
 its agents did not comply with OMB [Office of Management and Budget]
 conflict-of-interest procurement requirements for grantees. Specifically,
-OIG found that RFA entered into 14 contracts, totaling $4.0 million
+OIG found that RFA entered into 14 contracts, totaling USD4.0 million
 (51 percent of the amount of OTF FYs 2012 and 2013 project-related
 contracts), with organizations that had some affiliation with either RFA
 officials or members of OTF Advisory Council.13

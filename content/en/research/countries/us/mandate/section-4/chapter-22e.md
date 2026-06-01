@@ -63,7 +63,7 @@ The missions of the Federal Housing Administration and the Government National M
 
 The Financial Crimes Enforcement Network is a relatively small bureau within
 the Treasury Department with approximately 285 employees and a FY 2022 budget
-of $173 million.
+of USD173 million.
 
 Although FinCEN makes a significant contribution to law enforcement efforts, it also does demonstrable, substantial and widespread economic harm
 because it: 
@@ -78,7 +78,7 @@ because it:
 an annual report59 and no longer publishes cash transaction report (CTR) data.
 
 
-There were 2 .7 million suspicious activity reports (SARs) filed in 2021.60 The number of CTRs filed were approximately 10 times that number.61 In 2014, FinCEN anti-money laundering/countering the financing of terrorism (AML-CFT) rules cost an estimated $5 billion to $8 billion per year.62 Undoubtedly, this cost is now substantially higher both because of inflation and because the rules have become more onerous.
+There were 2 .7 million suspicious activity reports (SARs) filed in 2021.60 The number of CTRs filed were approximately 10 times that number.61 In 2014, FinCEN anti-money laundering/countering the financing of terrorism (AML-CFT) rules cost an estimated USD5 billion to USD8 billion per year.62 Undoubtedly, this cost is now substantially higher both because of inflation and because the rules have become more onerous.
 
 Yet there is little evidence that this massive expenditure of resources is doing much good,64 and there is no evidence regarding which aspects of the AML-CFT regime are effective and which are not. The AML-CFT regime is a major contributing factor causing the decline in the number of small broker-deal- ers and the decline in the competitiveness of community banks. Congress must require FinCEN to annually publish data regarding:
 
@@ -109,9 +109,9 @@ employees) and will do nothing material to impede criminal finance.68 The FinCEN
 The number of AML-CFT prosecutions, disaggregating those in which the
 AML-CFT prosecution is stand-alone and in which the prosecution is an
 add-on count connected to other predicate crime;66
-beneficial ownership reporting rule will impose costs exceeding $1 billion annu-
+beneficial ownership reporting rule will impose costs exceeding USD1 billion annu-
 ally and is exceedingly poorly drafted.69 FinCEN itself estimates that more than
-33 million businesses will be affected and that costs will be $547 million to $8.1
+33 million businesses will be affected and that costs will be USD547 million to USD8.1
 billion annually.70
 
 

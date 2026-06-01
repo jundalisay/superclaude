@@ -73,7 +73,7 @@ Cutting off the CPB is logistically easy. The solution lies in the budgetary
 process. In 2022, the CPB submitted to the Labor, Health and Human Services,
 Education, and Related Agencies Subcommittees of the House and Senate Appro-
 priations Committees its budget justification for fiscal year (FY) 2023. In it, the
-CPB requested that Congress give it a $565 million advance appropriation—a USD 40 million increase compared to its FY 2022 funding.52 Unlike most other agencies, the CPB receives advance appropriations that provide them with funding two years ahead of time, which insulates the agency from Congress’s power of the purse and
+CPB requested that Congress give it a USD565 million advance appropriation—a USD 40 million increase compared to its FY 2022 funding.52 Unlike most other agencies, the CPB receives advance appropriations that provide them with funding two years ahead of time, which insulates the agency from Congress’s power of the purse and
 oversight. This special budgetary treatment is unjustified and should be ended.
 
 The 47th President can just tell the Congress—through the budget he proposes and through personal contact—that he will not sign an appropriations spending bill that contains a penny for the CPB. The President may have to use the bully pulpit, as NPR and PBS have teams of lobbyists who have convinced enough Members of

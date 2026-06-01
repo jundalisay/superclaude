@@ -60,7 +60,7 @@ options that do not exclusively maximize pecuniary gains.
 The Thrift Savings Plan (TSP) is the retirement savings benefit plan for most federal employees and many former employees. The TSP is
 managed by the Federal Retirement Thrift Investment Board (FRTIB). 
 
-At over $800 billion in assets under management, the TSP is one of the largest retirement
+At over USD800 billion in assets under management, the TSP is one of the largest retirement
 plans in the world.
 
 DOL should prohibit investing in ERISA plans on the basis of any factors that are unrelated to investor risks and returns.
@@ -122,7 +122,7 @@ Residents of states that responsibly manage their public pension plans (pension 
 Money is ultimately fungible, so federal aid to States can effectively be used to free up other State funds for pension contributions. Although the federal government does not
 impose funding rules on public pension plans, these plans should be required to disclose the fair market value of plan assets and liabilities (using the Treasury yield curve as the discount rate) on an annual basis. 
 
-In the aggregate, these plans were underfunded on a market basis by $6.501 trillion as of Fiscal Year (FY) 2021, even though the plans reported underfunding of only $1.076 trillion using overly optimistic assumptions.
+In the aggregate, these plans were underfunded on a market basis by USD6.501 trillion as of Fiscal Year (FY) 2021, even though the plans reported underfunding of only USD1.076 trillion using overly optimistic assumptions.
 
 ### Multiemployer Plans
 
@@ -130,7 +130,7 @@ At the request of multiemployer union pension plans, the government has given su
 
 Multiemployer plans have been severely mismanaged, and the plans have abused the discretion and deference given them by federal law and enforcement agencies to make promises that they cannot keep. 
 
-As a result, these plans are generally severely underfunded, with $757 billion in aggregate underfunding, and a funding level of just 42 percent. The Biden Admin-
+As a result, these plans are generally severely underfunded, with USD757 billion in aggregate underfunding, and a funding level of just 42 percent. The Biden Admin-
 istration has provided a massive taxpayer bailout to some of these plans, but without
 any needed reforms. Even worse, it gave out funds in excess of what the law allows.
 
@@ -156,7 +156,7 @@ PBGC’s finances. The PBGC has been submitting portions of statutorily
 required annual reports many months late and using out-of-date data. And
 PBGC's data on plans is almost five years old. These problematic practices
 make it difficult for Congress to become aware of serious problems in the
-insurance programs, which received a bailout of over $85 billion in the 2021
+insurance programs, which received a bailout of over USD85 billion in the 2021
 American Rescue Plan Act.
 ﻿
 The PBGC should use existing statutory authority to protect workers,
@@ -164,8 +164,8 @@ retirees, employers, and taxpayers by closely monitoring and taking
 appropriate remedial action with regard to badly run and underfunded
 multiemployer union pension plans, including termination where
 appropriate. The PBGC's refusal to use such authority helped cause its
-multiemployer program deficit to go from less than $500 million in 2008 to
-over $65 billion in 2017.
+multiemployer program deficit to go from less than USD500 million in 2008 to
+over USD65 billion in 2017.
 
 Congress should increase the variable rate premium on underfunding and eliminate the per-participant cap in order to appropriately
 take into account risk and limit the degree to which well-funded

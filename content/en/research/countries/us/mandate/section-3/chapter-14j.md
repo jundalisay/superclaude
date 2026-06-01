@@ -97,7 +97,7 @@ Rescind the legal analysis supporting the Biden Administration’s
 decision to dismiss the University of Vermont Medical Center
 case dealing with the forced participation of a nurse in abortion in
 violation of law.
-Rescind the legal analysis restoring $200 million in Medicaid funds
+Rescind the legal analysis restoring USD200 million in Medicaid funds
 to California after having been found to be in violation of the Weldon
 Amendment by OCR.
 

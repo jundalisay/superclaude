@@ -108,8 +108,8 @@ The Bureau should rededicate its research budget towards open inquiry, especiall
 
 ### Equalize retirement savings access across married households
 
-The limit on individual contributions to a 401(k), 403(b), or similar work-based retirement account is $22,500 for 2023. Individuals who do not work or do
-not have access to a work-based retirement account can save up to $6,500 in an IRA. This individual-based system creates a disadvantage for married
+The limit on individual contributions to a 401(k), 403(b), or similar work-based retirement account is USD22,500 for 2023. Individuals who do not work or do
+not have access to a work-based retirement account can save up to USD6,500 in an IRA. This individual-based system creates a disadvantage for married
 couples with only one spouse who works (or with two working spouses, one of whom earns less than the maximum retirement account contribution). 
 
 

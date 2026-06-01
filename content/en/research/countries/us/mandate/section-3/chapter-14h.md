@@ -22,7 +22,7 @@ termination of parental rights for children in foster care should be swift.
 
 Eliminate the Head Start program. Head Start, originally established
 and funded to support low-income families, is fraught with scandal and
-abuse. With a budget of more than $11 billion, the program should function
+abuse. With a budget of more than USD11 billion, the program should function
 to protect and educate minors. Sadly, it has done exactly the opposite. In
 fact, “approximately 1 in 4 grant recipients had incidents in which children
 were abused, left unsupervised, or released to an unauthorized person

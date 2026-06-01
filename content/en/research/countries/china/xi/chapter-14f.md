@@ -74,7 +74,7 @@ mechanism for tax collection and administration under the Belt and Road Initiati
 promotion of international mutual recognition and cooperation among "authorized operators", and
 build a broader platform for all parties to enter the Chinese market by holding the China International
 Import Expo. From 2013 to 2018, China's trade in goods with Belt and Road-related countries
-exceeded US$6 trillion and its outward direct investment exceeded US$90 billion.
+exceeded USD6 trillion and its outward direct investment exceeded USD90 billion.
 
 
 4. Strengthen financial integration

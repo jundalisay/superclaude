@@ -56,9 +56,9 @@ manufacturing and increasingly to services.
 
 In that sense, Pakistan's economic structure is much closer to that of India and China, and is unlike many smaller Asian countries, which are more dependent on export growth.
 
-Official IMF estimates of the country's per capita income are US$1,200, which, on a Purchasing Power Parity basis, is US$2,500. 
+Official IMF estimates of the country's per capita income are USD1,200, which, on a Purchasing Power Parity basis, is USD2,500. 
 
-Around 25-30 million people, or 1/6 of Pakistan's population, have a per capita income on a PPP basis of between US$8,000 to US$10,000. 
+Around 25-30 million people, or 1/6 of Pakistan's population, have a per capita income on a PPP basis of between USD8,000 to USD10,000. 
 
 Part of the growth is accounted for by a large and vibrant informal economy which is estimated to be at least
 30 to 50 per cent of the size of the formal economy and which is growing
@@ -68,7 +68,7 @@ Pakistan's thriving informal economy is not documented and consists of a vast ne
 
 Over the last two decades, Pakistan has undergone meaningful banking sector, tax and corporate governance reforms and has a solid financial system. Its economy is more open to trade and investment compared to countries at a similar stage of development. Pakistan's English-speaking professional elite, a well-developed legal system based on English common law and a significant pool of overseas Pakistanis have allowed a reasonable degree of integration with the global economy. 
 
-Pakistan's business community has historically been westward looking and has also developed strong links to the Middle East and Asian economies and China. Today, over 300 foreign multinationals have well established business operations in Pakistan. The US, European Union and Japan remain the three largest foreign direct investors with new inflows emanating from the Middle East and China. Other key indicators suggest a positive growth trend—foreign remittances hit around $9 billion in 2010 218up from $984 million in 2000, foreign exchange reserves were around $16 billion in June 2010 up from $1.7 billion in 2000 and exports were $20 billion in 2010 up from $8 billion in 2000.
+Pakistan's business community has historically been westward looking and has also developed strong links to the Middle East and Asian economies and China. Today, over 300 foreign multinationals have well established business operations in Pakistan. The US, European Union and Japan remain the three largest foreign direct investors with new inflows emanating from the Middle East and China. Other key indicators suggest a positive growth trend—foreign remittances hit around USD9 billion in 2010 218up from USD984 million in 2000, foreign exchange reserves were around USD16 billion in June 2010 up from USD1.7 billion in 2000 and exports were USD20 billion in 2010 up from USD8 billion in 2000.
 
 This resilience has also been demonstrated in key capital market indicators. In 2009, Pakistan's KSEl00 index surged over 60 per cent in a year. Pakistan was wracked by increased violence and many of its state institutions were overwhelmed by security challenges. From 1998-2010, there has been an enormous increase of over 700 per cent in the KSE100 after accounting for rupee depreciation.6 This makes Pakistan the best performing market in a twelve-year period and significantly better than the BRIC economies. Pakistan's stock market capitalisation to GDP (PPP basis) ratio is approximately 7 per cent. This is very low compared to the BRIC economies, where market capitalisation to GDP ratio ranges from 25 per cent in Russia to 60 per cent in Brazil. This ratio is a measure of the extent of development of a country's capital market and of the valuation of its listed assets relative to the overall size of the economy. More developed economies like Hong Kong tend to have ratios in excess of 100 per cent. This highlights the comparatively low valuations for Pakistan relative to the BRIC economies.
 

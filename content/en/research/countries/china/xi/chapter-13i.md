@@ -88,11 +88,11 @@ Taiwan compatriots and Taiwan enterprises, so that everyone can have more sense 
 
 Since the 18th National Congress of the CCP, the degree of cross-strait economic and cultural exchanges and cooperation has been continuously deepened, and the integration and
 development of the two sides of the strait has reached a new level. In 2018, the mainland's trade
-volume with Taiwan reached US$226.24 billion, and Taiwan is the mainland's fifth largest trading
+volume with Taiwan reached USD226.24 billion, and Taiwan is the mainland's fifth largest trading
 partner and third largest source of imports, and the mainland is Taiwan's largest trading partner and
-source of trade surplus. Among them, the mainland's exports to Taiwan were $48.647 billion, up
-10.6 percent, imports from Taiwan were $177.598 billion, up 13.9 percent, and the mainland's trade
-deficit with Taiwan was $128.951 billion.
+source of trade surplus. Among them, the mainland's exports to Taiwan were USD48.647 billion, up
+10.6 percent, imports from Taiwan were USD177.598 billion, up 13.9 percent, and the mainland's trade
+deficit with Taiwan was USD128.951 billion.
 
 By the end of 2018, a total of 107,190 Taiwan-funded projects had been approved, accounting for 11.2% of the total number of foreign-funded projects
 actually used. By the end of 2018, more than 100 million Taiwan residents had come to the mainland.

@@ -51,12 +51,12 @@ schools within their borders. Federal lawmakers should not allow public school
 employees to keep secrets about a child from that child’s parents.
 Advance School Choice Policies
 
-The D.C. Opportunity Scholarship Program, a voucher program providing scholarships to children from low-income families living in the nation’s capital to attend a private school of choice, is capped at $20 million annually and limited to students at or below 185 percent of the federal poverty line. The maximum scholarship amount is $9,401 for students in kindergarten through eighth grade and $14,102 for students in grades nine through 12. The average scholarship amount is around $10,000, or less than half of the current per-student funding amount in D.C. Public Schools.
+The D.C. Opportunity Scholarship Program, a voucher program providing scholarships to children from low-income families living in the nation’s capital to attend a private school of choice, is capped at USD20 million annually and limited to students at or below 185 percent of the federal poverty line. The maximum scholarship amount is USD9,401 for students in kindergarten through eighth grade and USD14,102 for students in grades nine through 12. The average scholarship amount is around USD10,000, or less than half of the current per-student funding amount in D.C. Public Schools.
 
 Congress should expand eligibility to all students, regardless of
 income or background, and raise the scholarship amount closer to
 the funding students receive in D.C. Public Schools (spending per
-student in 2020 was $22,856).
+student in 2020 was USD22,856).
 
 All families should be able to take their children’s taxpayer-funded
 education dollars to the education providers of their choosing—
@@ -165,7 +165,7 @@ children with special needs attend assigned public schools. The education is not
 always appropriate, however: Special education is fraught with legal battles. Some
 argue that the education of children with special needs is the most litigated area
 of K–12 education. Thus, despite a nearly 50-year-old federal law that sees regular
-revision and reauthorization and approximately $13.5 billion per year in federal
+revision and reauthorization and approximately USD13.5 billion per year in federal
 taxpayer spending, parents still struggle to establish intervention plans for their
 students with public school district officials regarding the physical and educational
 requirements for their children with special needs.
@@ -174,7 +174,7 @@ State-level education options often exclusively serve children with special need
 for these very reasons. Florida, Oklahoma, Tennessee, Mississippi, South Carolina,
 and North Carolina, to name a few states, all have education savings accounts or
 K–12 private school scholarship options for children with special needs.
-would give the families of children with special needs approximately $1,800
+would give the families of children with special needs approximately USD1,800
 per child to help meet a child’s unique learning needs.
 
 Members of Congress and the White House should consider a similar
@@ -182,10 +182,10 @@ update to Title I of the Elementary and Secondary Education Act
 (ESEA). Title I is the largest portion of federal taxpayer spending under
 this federal education law, and the section provides additional taxpayer
 resources to schools or groups of schools in lower income areas. Federal
-taxpayers committed $16.3 billion to Title I in FY 2019, spending that is
+taxpayers committed USD16.3 billion to Title I in FY 2019, spending that is
 dedicated to students in low-income areas of the U.S. Per student, this
-spending amounts to more than $1,400 for a child in a large city and
-approximately $1,300 for a student in a remote, rural area.19
+spending amounts to more than USD1,400 for a child in a large city and
+approximately USD1,300 for a student in a remote, rural area.19
 
 Research finds, though, that this enormous investment has not produced positive
 results for children in need. The achievement gap between children from the highest

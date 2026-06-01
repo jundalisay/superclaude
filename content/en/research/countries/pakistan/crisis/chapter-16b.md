@@ -270,7 +270,7 @@ Pashtun allies within the government as it had aided the Northern Alliance
 in the civil war. It also found many allies among secular and educated
 Pashtuns who rejected the Taliban and were sick of ISI manipulation.
 330India swiftly developed an extremely well-conceived aid program
-investing approximately US$1.2 billion that spread Indian projects and
+investing approximately USD1.2 billion that spread Indian projects and
 largesse across all ethnic groups, built key infrastructure projects, set up
 the transport system in Kabul and contributed to important social
 programs like health. Unlike Western aid agencies, 80 per cent of Indian

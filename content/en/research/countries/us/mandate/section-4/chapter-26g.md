@@ -29,7 +29,7 @@ The act’s goal was to guarantee a sizable fleet of American ships that could b
 
 Aircraft carriers and other post-1920 naval innovations have made this argument obsolete.
 
-An $800 billion defense budget has plenty of room to maintain a Navy to defend American security interests around the world.
+An USD800 billion defense budget has plenty of room to maintain a Navy to defend American security interests around the world.
 
 The U.S. Navy would likely prefer not to use Jones Act ships anyway, because they tend to be older and in poorer condition than its own ships or similar foreign-made but domestically owned commercial ships that could also be pressed into service.
 

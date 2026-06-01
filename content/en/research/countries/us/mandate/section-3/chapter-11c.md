@@ -97,7 +97,7 @@ arbitration agreements and class action waivers for students enrolling in instit
 tions participating in Title IV student loan programs. Acting outside of statutory
 authority, the current Administration has drastically expanded BDR, CSLD, and
 PSLF loan forgiveness without clear congressional authorization at a tremendous
-cost to the taxpayers, with estimates ranging from $85.1 to $120 billion.
+cost to the taxpayers, with estimates ranging from USD85.1 to USD120 billion.
 
 The new Administration must quickly commence negotiated
 rulemaking and propose that the department rescind these regulations.

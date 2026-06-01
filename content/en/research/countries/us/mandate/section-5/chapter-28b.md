@@ -100,7 +100,7 @@ One of the main arguments that this group offers is that doing so would intrude�
 
 ### Require that Big Tech begin to contribute a fair share. 
 
-Big Tech has avoided accountability in several additional ways as well. One of them concerns the FCC’s roughly $9 billion Universal Service Fund.
+Big Tech has avoided accountability in several additional ways as well. One of them concerns the FCC’s roughly USD9 billion Universal Service Fund.
 
 This initiative provides the support necessary to subsidize the agency’s affordable Internet and rural connectivity programs. The FCC obtains this funding through a line-item charge that carriers add to consumers’ monthly bills for traditional telecommunications service.
 

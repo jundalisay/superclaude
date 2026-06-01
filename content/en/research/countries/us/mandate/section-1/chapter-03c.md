@@ -37,8 +37,8 @@ retire earlier (normally at age 55 after 30 years), enjoy richer pension annuiti
 and receive automatic cost-of-living adjustments based on the areas in which they
 retire. Defined-benefit federal pensions are fully indexed for inflation—a practice
 that is extremely rare in the private sector. A federal employee with a preretire-
-ment income of $25,000 under the older of the two federal retirement plans will
-receive at least $200,000 more over a 20-year period than will private-sector work-
+ment income of USD25,000 under the older of the two federal retirement plans will
+receive at least USD200,000 more over a 20-year period than will private-sector work-
 ers with the same preretirement salary under historic inflation levels.
 During the early Reagan years, the OPM reformed many specific provisions of
 the federal pension program to save billions administratively. 
@@ -103,8 +103,8 @@ programs, encouraging early retirements in order to shift costs from current bud
 gets in agencies to the retirement system and minimize the number of personnel
 fired. The Environmental Protection Agency immediately implemented such a
 program, and OMB urged the passage of legislation to increase payout maximums
-from $25,000 to $40,000 to further increase spending under the “cuts.” President
-Clinton’s OMB had introduced a similar buyout that cost the Treasury $2.8 billion,
+from USD25,000 to USD40,000 to further increase spending under the “cuts.” President
+Clinton’s OMB had introduced a similar buyout that cost the Treasury USD2.8 billion,
 mostly for those who were going to retire anyway. Moreover, when a new employee
 is hired to fill a job recently vacated in a buyout, the government for a time is paying
 two people to fill one job.

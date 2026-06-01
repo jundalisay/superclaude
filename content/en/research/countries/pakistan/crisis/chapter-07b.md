@@ -158,7 +158,7 @@ obscurantist understanding of Islam with no modern subjects, making
 them easy prey for their handlers. Meanwhile, Saudi and United States
 funding directly facilitated this indoctrination. From 1984 to 1994, for
 example, the United States Agency for International Development gave a
-135$51 million grant to the University of Nebraska Omaha to develop
+135USD51 million grant to the University of Nebraska Omaha to develop
 textbooks filled with violent images and militant Islamic teachings as part
 of a covert effort to inspire anti-Soviet resistance. Zia further opened
 Pakistan's doors to volunteers from all over the world who participated in

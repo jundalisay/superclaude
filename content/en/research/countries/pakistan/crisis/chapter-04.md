@@ -103,7 +103,7 @@ While its rulers played geo-political games that sought to enhance Pakistan's re
 
 Eleven disastrous years under General Zia left the country reeling in economic, political and institutional chaos. They also marked a missed economic opportunity. Just when Western concessional assistance was forthcoming, inflows of remittances from overseas Pakistani workers also peaked. 
 
-Between 1975 and 1985 Pakistan received over $25 billion in remittances. Failure to direct this into investment in productive sectors meant a unique set of fortuitous factors was squandered. 
+Between 1975 and 1985 Pakistan received over USD25 billion in remittances. Failure to direct this into investment in productive sectors meant a unique set of fortuitous factors was squandered. 
 
 Lack of investment in the physical infrastructure-a policy blunder later repeated in the Musharraf years-sowed the seeds of the crippling shortages in power and essential public services that challenge Pakistan today and blight its economic future.
 

@@ -9,7 +9,7 @@ weight: 180
 ---
 
 
-With a budget of $18.6 billion requested for FY 202311 and an international regulatory footprint, the Federal Aviation Administration (FAA) is DOT’s most visible mode. It needs reform. Air traffic control (ATC) operations account for two-thirds of FAA’s budget, and the Air Traffic Organization (ATO) is far behind its counterparts in Australia, Canada, and Western Europe in implementing 21st century technology. The FAA’s primary mission is ATC; its two smaller functions are distributing federal airport grants and regulating all aspects of aviation safety.
+With a budget of USD18.6 billion requested for FY 202311 and an international regulatory footprint, the Federal Aviation Administration (FAA) is DOT’s most visible mode. It needs reform. Air traffic control (ATC) operations account for two-thirds of FAA’s budget, and the Air Traffic Organization (ATO) is far behind its counterparts in Australia, Canada, and Western Europe in implementing 21st century technology. The FAA’s primary mission is ATC; its two smaller functions are distributing federal airport grants and regulating all aspects of aviation safety.
 
 The FAA was once considered the world’s best government aviation agency.
 

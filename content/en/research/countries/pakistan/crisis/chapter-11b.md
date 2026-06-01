@@ -39,10 +39,10 @@ Furthermore, policy inconsistencies between successive governments have left lit
 
 Key indicators
 Population (millions), 2008 ................................. 167.0
-GDP (US$ billions), 2008............................ 167.6
-GDP per capita (US$), 2008 ............................ 1,044.5
+GDP (USD billions), 2008............................ 167.6
+GDP per capita (USD), 2008 ............................ 1,044.5
 GDP (PPP) as share (%) of world total, 2008 ... 0.64
-GDP (PPP int’l $) per capita, 1980–2008
+GDP (PPP int’l USD) per capita, 1980–2008
 Pakistan
 3,000
 South Asia

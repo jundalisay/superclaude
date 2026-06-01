@@ -12,7 +12,7 @@ OMS leads the agency’s core mission support functions to improve efficiency, c
 
 ### Grant Reform
 
-EPA now awards up to $30 billion in grants annually—up to half of the agen- cy’s annual budget. Of these funds, $500 million is awarded as discretionary. This grantmaking—discretionary and otherwise—is driven by ideology instead of need. Of particular concern is a practice whereby numerous small-dollar grants are administered to a great number of grantees while larger grants are given to academic institutions. As a result, grant funds produce little to no meaningful improvements in the environment and public health and instead fund questionably relevant projects at elite, private academic institutions that invariably produce radical environmental research.
+EPA now awards up to USD30 billion in grants annually—up to half of the agen- cy’s annual budget. Of these funds, USD500 million is awarded as discretionary. This grantmaking—discretionary and otherwise—is driven by ideology instead of need. Of particular concern is a practice whereby numerous small-dollar grants are administered to a great number of grantees while larger grants are given to academic institutions. As a result, grant funds produce little to no meaningful improvements in the environment and public health and instead fund questionably relevant projects at elite, private academic institutions that invariably produce radical environmental research.
 
 Steps should be taken to ensure that grants are awarded based on need instead
 of ideological affiliation or academic preference. Specifically, EPA should:

@@ -24,7 +24,7 @@ The Office of the Taxpayer Advocate was created by Congress to assist taxpay- er
 ### Administrative Burden
 
 In 2021, Americans filed 261 million tax returns and an astounding 4.7 billion information returns (such as Form W-2s, Form 1098s
-and Form 1099s).46 Complying with tax law costs Americans more than $400 billion annually, or about 2 percent of gross domestic product.47 Although the IRS administers these reporting programs, most of this expense is mandated by Congress, not the IRS.
+and Form 1099s).46 Complying with tax law costs Americans more than USD400 billion annually, or about 2 percent of gross domestic product.47 Although the IRS administers these reporting programs, most of this expense is mandated by Congress, not the IRS.
 
 One of the primary reasons that Congress mandates ever-increasing information reporting is that the Treasury Department and the Joint Committee on Taxation staff almost always overestimate how much revenue will be gained from
 still more burdensome information reporting, and they do not estimate or report
@@ -37,7 +37,7 @@ of small firms.
 
 Budget. The operating budget of the IRS should be held constant in real terms.
 The resources allocated to the Office of the Taxpayer Advocate should be increased
-by at least 20 percent (about $44 million). The Office of Equity, Diversity, and
+by at least 20 percent (about USD44 million). The Office of Equity, Diversity, and
 Inclusion should be closed. Provided that IT management is changed; an effective,
 well-considered implementation plan is adopted; and serious oversight is put in
 place, additional resources dedicated solely to IT modernization may be warranted.

@@ -32,7 +32,7 @@ collective private-sector capacity to deploy trillions of dollars of capital.
 
 
 Pakistan is a prime example of foreign aid policies disconnected from U.S.
-national interests. The country has been the recipient of more than $12 billion in
+national interests. The country has been the recipient of more than USD12 billion in
 U.S. foreign aid since 2010, yet it remains intensely anti-American and corrupt, has
 backed the Taliban continuously since 2001, jump-started North Korea’s nuclear
 bomb program, brutalizes its religious minorities, and is a willing client of China
@@ -137,7 +137,7 @@ launched by global churches, corporate philanthropists, and diaspora
 groups that have already invested billions of dollars in self-reliance–
 based projects.
 
-Japan has committed $30 billion in aid to Africa over three years to stem China’s
+Japan has committed USD30 billion in aid to Africa over three years to stem China’s
 economic and political grip on the continent. Gulf-based sovereign funds also are
 investing billions in African energy, infrastructure, mining, water, food production,
 information and communications technology, and other strategic industries. Other

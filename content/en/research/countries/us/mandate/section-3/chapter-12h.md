@@ -19,11 +19,11 @@ cleanup program is the world’s largest, and EM reports that 92 (of 107) sites 
 been completed.86
 According to the U.S. Government Accountability Office, “DOE is responsible
 for the largest share of the federal government’s environmental liability—about 85
-percent in fiscal year 2020.”87 Since 2011, EM has spent a cumulative total of $63.2
-billion, and its liability has grown by $243 billion.88 It is currently projected that
+percent in fiscal year 2020.”87 Since 2011, EM has spent a cumulative total of USD63.2
+billion, and its liability has grown by USD243 billion.88 It is currently projected that
 cleanup will take another 70 years (FY 2022 to FY 2091).89 Projected “Low Range”
-and “High Range” lifecycle costs total slightly less than $652.4 billion and slightly
-more than $887.2 billion, respectively.90
+and “High Range” lifecycle costs total slightly less than USD652.4 billion and slightly
+more than USD887.2 billion, respectively.90
 Needed Reforms
 
 New Policies
@@ -33,7 +33,7 @@ The next Administration should:
 Accelerate the cleanup. This means that a comprehensive cost projection
 and schedule reflecting the entire scope of the job should be developed and
 appropriate reforms should be instituted. To save taxpayers a potential
-$500 billion over the long run and reduce current risk, a 10-year program
+USD500 billion over the long run and reduce current risk, a 10-year program
 to complete all sites by 2035 (except Hanford with a target date of 2060)
 should be considered. Such a commitment will require increased funding
 for EM during those accelerated periods. To the extent that funding from
@@ -56,7 +56,7 @@ enabled significant progress on remediation. Implementation needs to continue
 across the complex, particularly at Hanford.
 
 Increase the use of commercial waste disposal. Using commercial
-disposal would reduce capital costs (~ $2 billion) for new disposal sites to
+disposal would reduce capital costs (~ USD2 billion) for new disposal sites to
 accelerate cleanup and reduce local post-cleanup environmental liability at
 multiple sites.
 
@@ -77,8 +77,8 @@ and completion.
 
 Budget
 
-Environmental Management received slightly less than $7.6 billion in FY 2021,
-and its budget request for FY 2023 is approximately $8.06 billion.92 The additional
+Environmental Management received slightly less than USD7.6 billion in FY 2021,
+and its budget request for FY 2023 is approximately USD8.06 billion.92 The additional
 funding necessary to accelerate closure of the program will need to be considered
 as part of a broader government-wide discussion about yearly appropriations.
 
@@ -129,7 +129,7 @@ should be made part of an integrated waste management system that
 includes geologic storage. Further, building on the consent-based siting
 process already underway, DOE should find a second repository site.
 Fix the policy and cost drivers that are preventing nuclear storage.
-The federal government continues to hold $46 billion97 in the Nuclear
+The federal government continues to hold USD46 billion97 in the Nuclear
 Waste Fund (NWF),98 funded by utilities and their ratepayers for permanent
 disposal of nuclear waste. However, no such storage exists, and spent
 nuclear fuel remains on site at most nuclear plants. Meanwhile, Congress
@@ -139,12 +139,12 @@ Produce concrete outcomes from consent-based siting. Beginning in
 the Obama Administration and resurrected during the Biden Administration,
 consent-based siting for a civilian waste nuclear repository has been a way
 to delay any politically painful decisions about siting a permanent civilian
-nuclear waste facility. In 2022, DOE announced $16 million to support local
+nuclear waste facility. In 2022, DOE announced USD16 million to support local
 communities in consent-based siting.96 The next Administration should
 use the consent-based-siting process to identify and build temporary or
 permanent sites for a civilian waste nuclear repository (or repositories).
 violation of its contractual obligation to take the waste has resulted in the
-payment of “approximately $10.1 billion in settlements and judgments to
+payment of “approximately USD10.1 billion in settlements and judgments to
 contract holders.”99
 
 
@@ -164,7 +164,7 @@ Waste Management.
 
 Budget
 
-Within the Office of Nuclear Energy budget, approximately $100 million is set
+Within the Office of Nuclear Energy budget, approximately USD100 million is set
 aside for fuel cycle and waste management activities.100 These funds should be
 transferred to the newly established OCRWM, which should also be responsible
 for managing the Nuclear Waste Fund and given access to the fund as necessary
@@ -236,8 +236,8 @@ Concurrent modernization of the nuclear triad and its warheads will be a major
 challenge to the DOD and DOE budgets over the coming decade. DOE non-nuclear
 programs should be the first source of additional resources for NNSA activities.
 Divestment of non-nuclear activities from NNSA laboratories can address some
-overhead and operational costs. NNSA received $19.7 billion in 2021, and its FY
-2023 budget request was $21.4 billion.106 The next Administration should ensure
+overhead and operational costs. NNSA received USD19.7 billion in 2021, and its FY
+2023 budget request was USD21.4 billion.106 The next Administration should ensure
 that funding is targeted to the accelerated development of new warheads.
 
 Personnel

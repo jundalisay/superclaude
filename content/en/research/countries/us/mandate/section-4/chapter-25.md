@@ -35,9 +35,9 @@ would rightly focus on saving small businesses during such a crisis. At the same
 time, however, various SBA programs have generated waste, fraud, and misman-
 agement of taxpayer dollars.
 
-For example, and more recently, more than $1 trillion in COVID-19 relief was distributed through the SBA.4 The SBA’s EIDL (Economic Injury Disaster Loan) Advance program in particular shows the dangers that can come with direct government lending. 
+For example, and more recently, more than USD1 trillion in COVID-19 relief was distributed through the SBA.4 The SBA’s EIDL (Economic Injury Disaster Loan) Advance program in particular shows the dangers that can come with direct government lending. 
 
-EIDL Advance provided direct cash grants and loans to small businesses. The SBA Office of Inspector General “identified $78.1 billion in potentially fraudulent EIDL loans and grants paid to ineligible entities,”5 which represented more than half of all funds spent through the program. Although PPP worked through private lenders and as a result experienced relatively less fraud than EIDL experienced, it is estimated “that at least 70,000 [PPP] loans were potentially fraudulent.”6
+EIDL Advance provided direct cash grants and loans to small businesses. The SBA Office of Inspector General “identified USD78.1 billion in potentially fraudulent EIDL loans and grants paid to ineligible entities,”5 which represented more than half of all funds spent through the program. Although PPP worked through private lenders and as a result experienced relatively less fraud than EIDL experienced, it is estimated “that at least 70,000 [PPP] loans were potentially fraudulent.”6
 
 
 ## Origin, History, And Core Functions
@@ -110,10 +110,10 @@ loan credit subsidy costs, and miscellaneous program “enhancements” to suppo
 small businesses through economic challenges or circumstances. As noted by the
 Congressional Research Service:
 
-Overall, the SBA’s appropriations have ranged from a high of over $761.9 billion in FY2020 to a low of $571.8 million in FY2007. Much of this volatility is due to significant variation in supplemental appropriations for disaster assistance to address economic damages caused by major hurricanes and for SBA lending program enhancements to help small businesses access capital during and immediately following recessions. For example, in FY2020, the SBA received over $760.9 billion in supplemental appropriations to assist small businesses adversely affected by the novel coronavirus (COVID- 19) pandemic.18
+Overall, the SBA’s appropriations have ranged from a high of over USD761.9 billion in FY2020 to a low of USD571.8 million in FY2007. Much of this volatility is due to significant variation in supplemental appropriations for disaster assistance to address economic damages caused by major hurricanes and for SBA lending program enhancements to help small businesses access capital during and immediately following recessions. For example, in FY2020, the SBA received over USD760.9 billion in supplemental appropriations to assist small businesses adversely affected by the novel coronavirus (COVID- 19) pandemic.18
 
 The CRS further notes that “[o]verall, since FY2000, appropriations for SBA’s
 other programs, excluding supplemental appropriations, have increased at a pace
 that exceeds inflation.”19
 
-In terms of current loan volume, the SBA “reached nearly $43 billion in fund- ing to small businesses, providing more than 62,000 traditional loans through its 7(a), 504, and Microloan lending partners and over 1,200 investments through SBA licensed Small Business Investment Companies (SBICs) for Fiscal Year (FY) 2022.”20 The agency’s total budgetary resources for FY 2022 amount to $44.25 billion, which represents 0.4 percent of the FY 2022 U.S. federal budget.21
+In terms of current loan volume, the SBA “reached nearly USD43 billion in fund- ing to small businesses, providing more than 62,000 traditional loans through its 7(a), 504, and Microloan lending partners and over 1,200 investments through SBA licensed Small Business Investment Companies (SBICs) for Fiscal Year (FY) 2022.”20 The agency’s total budgetary resources for FY 2022 amount to USD44.25 billion, which represents 0.4 percent of the FY 2022 U.S. federal budget.21

@@ -21,7 +21,7 @@ Needed Reforms
 End market distortions and stop shifting technology and
 development risks to taxpayers. The OCED is distorting energy
 markets and shifting the risk of new technology deployment from the
-private sector to taxpayers. The IIJA provided more than $20 billion in
+private sector to taxpayers. The IIJA provided more than USD20 billion in
 government subsidies to help the private sector deploy and market clean
 energy and decarbonizing resources. Government should not be picking
 winners and losers and should not be subsidizing the private sector to bring
@@ -46,24 +46,24 @@ Wall Street.
 
 Budget
 
-DOE’s FY 2023 budget request includes $214 million “to initiate a new $150
+DOE’s FY 2023 budget request includes USD214 million “to initiate a new USD150
 million competition to support demonstrations that address integration issues of
 renewable energy into the U.S. transmission and distribution grids.”52 Overall, the
-“$21.5 billion provided by the Bipartisan Infrastructure Law”53 supports several
+“USD21.5 billion provided by the Bipartisan Infrastructure Law”53 supports several
 OCED programs:
 
-lAdvanced Reactor Demonstration Projects ($2.5 billion).
-lCarbon Capture Large-Scale Pilot Projects ($937 million).
-lCarbon Capture Demonstration Projects Program ($2.5 billion).
+lAdvanced Reactor Demonstration Projects (USD2.5 billion).
+lCarbon Capture Large-Scale Pilot Projects (USD937 million).
+lCarbon Capture Demonstration Projects Program (USD2.5 billion).
 l
 Clean Energy Demonstration Program on Current and Former Mine Land
-($500 million).
+(USD500 million).
 
-lEnergy Improvements in Rural or Remote Areas ($1 billion).
-lIndustrial Demonstrations Program ($6.3 billion).
-lLong Duration Energy Storage Demonstrations ($505 million).
-lRegional Clean Energy Hubs ($8 billion).
-lRegional Direct Air Capture Hubs ($3.5 billion).54
+lEnergy Improvements in Rural or Remote Areas (USD1 billion).
+lIndustrial Demonstrations Program (USD6.3 billion).
+lLong Duration Energy Storage Demonstrations (USD505 million).
+lRegional Clean Energy Hubs (USD8 billion).
+lRegional Direct Air Capture Hubs (USD3.5 billion).54
 
 
 Personnel
@@ -92,11 +92,11 @@ Legal, and Management and Operation. Its loan programs were originally designed
 as temporary programs but have since been amended and expanded. Specifically:
 
 The IRA expanded the authority in [LPO’s] existing programs, 1703, ATVM,
-and Tribal Energy Finance, by $100B. IRA also created the Energy
+and Tribal Energy Finance, by USD100B. IRA also created the Energy
 Infrastructure Reinvestment (EIR) Financing Program (1706) which
-can support up to $250B in loan authority. The CO2 Infrastructure
+can support up to USD250B in loan authority. The CO2 Infrastructure
 Finance and Innovation Act (CIFIA)—authorized by the [bipartisan
-infrastructure law], appropriates $2.1B to support approximately $25B in
+infrastructure law], appropriates USD2.1B to support approximately USD25B in
 flexible, low-interest loans. This new legislation will create jobs and wealth,
 address environmental justice and equity priorities and strengthen our
 energy security and supply chains.57
@@ -179,6 +179,6 @@ private sector.
 
 Budget
 
-Congress appropriated $427 million for ARPA–E in FY 2021, and slightly more
-than $700 million has been requested for FY 2023.61
+Congress appropriated USD427 million for ARPA–E in FY 2021, and slightly more
+than USD700 million has been requested for FY 2023.61
 

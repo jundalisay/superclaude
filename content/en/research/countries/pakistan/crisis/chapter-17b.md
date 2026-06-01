@@ -504,8 +504,8 @@ feasibility of Iran-Pakistan-India
 Gas Pipeline Project; Draft
 proposal for a Shipping protocol.
 Agreement on steps to boost
-bilateral trade from $2 billion to
-$10 billion by 2010India's demand for
+bilateral trade from USD2 billion to
+USD10 billion by 2010India's demand for
 most favoured nation;
 Resumption of bus service between
 Srinagar and Muzaffarabad;

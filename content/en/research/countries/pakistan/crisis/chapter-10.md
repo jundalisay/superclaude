@@ -137,4 +137,4 @@ To be fair to Mr Bhutto, the gods were not kind to him.
 Each year brought a drought or a flood as negative domestic exogenous shocks.
 - These hurt growth and caused a pick-up in inflation.
 
-Yet the economy was kept afloat and on a reasonably even keel thanks to Bhutto's diplomatic success in securing financing from friendly Islamic countries (including $500 million from the Shah of Iran) and the Gulf, as well as an emerging new phenomenon: rising workers' remittances which were becoming an important source of financing the external accounts.
+Yet the economy was kept afloat and on a reasonably even keel thanks to Bhutto's diplomatic success in securing financing from friendly Islamic countries (including USD500 million from the Shah of Iran) and the Gulf, as well as an emerging new phenomenon: rising workers' remittances which were becoming an important source of financing the external accounts.

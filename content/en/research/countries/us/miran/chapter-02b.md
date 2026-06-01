@@ -111,14 +111,14 @@ This is a consequence of the price inelasticity of demand for reserve assets, an
 The more significant macroeconomic consequence as reserve producer is a strong dollar.
 - This strength is beyond what would balance international trade in the long run. 
 
-According to the IMF, there are about $12 trillion of global foreign exchange reserves in official hands.
+According to the IMF, there are about USD12 trillion of global foreign exchange reserves in official hands.
 - 60% are in dollars
 
 In reality, dollar reserve holdings are much higher, as non-official entities hold dollar assets for reserve purposes too.
 
-Clearly, $7 trillion of demand is enough to move the needle in any market, even currency markets. 
+Clearly, USD7 trillion of demand is enough to move the needle in any market, even currency markets. 
 
-For reference, $7 trillion is roughly 1/3 of U.S. M2 money supply.
+For reference, USD7 trillion is roughly 1/3 of U.S. M2 money supply.
 
 Flows creating or unwinding these holdings will obviously have significant market consequences. 
 
@@ -193,7 +193,7 @@ Table 1: 10-year borrowing spreads to Treasury notes. Negative numbers mean the 
 1%
 2%
 0%
-Current account (billions of $)
+Current account (billions of USD)
 Current account (%
 G
 DP) Figure 3 U.S. current account. Source: Bureau of Economic Analysis, HBC calculations -->

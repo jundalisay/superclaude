@@ -43,13 +43,13 @@ Between January 2007 and July 2010, the Pakistani Rupee depreciated much against
 
 <!-- From a level of Rs. 60.7/USD in January 2007 to Rs. 85.6/USD in July 2010, the value of the Pakistani Rupee had eroded by 38.5%. -->
 
-This was caused by crude oil which shot up from $80 per barrel to $140 per barrel.
+This was caused by crude oil which shot up from USD80 per barrel to USD140 per barrel.
 
-Being an oil importing country, the trade deficit burgeoned to $15.3 billion while Forex reserves dropped to just $6.7 billion.
+Being an oil importing country, the trade deficit burgeoned to USD15.3 billion while Forex reserves dropped to just USD6.7 billion.
 
 Inflation hit a peak of 25% as the entire consumer basket was jolted by commodity prices and massive deficit financing from the central bank. 
 
-During the same period exports grew from $17.3 billion in FY07 to $19.6 billion in FY10, while imports jumped from $27 billion to $31 billion. 
+During the same period exports grew from USD17.3 billion in FY07 to USD19.6 billion in FY10, while imports jumped from USD27 billion to USD31 billion. 
 
 In simple terms the increase in oil prices thus fuelled the deficit in the balance of trade and the consequent devaluation of the Pakistani Rupee.
 
@@ -88,7 +88,7 @@ This means that a price decrease does not increase volumetric demand by enough t
 
 The solution to increasing exports lies, therefore, in stabilising the macroeconomic environment, providing adequate infrastructure and security, access to credit, investment in product quality and value addition which are longer term policy objectives, all necessary conditions to complement a policy of maintaining a competitive exchange rate.
 
-The converse of this is to keep a stable exchange rate, which is what happened during the period, 2002-2007. During this period, Pakistan saw its exports rise from $9 billion to $17 billion. A stable currency policy allowed a steady build-up of reserves and investment flows. Investment rates climbed to as high as 23 per cent as foreign direct investment felt more confident that future returns would not be eroded by a weak currency. 
+The converse of this is to keep a stable exchange rate, which is what happened during the period, 2002-2007. During this period, Pakistan saw its exports rise from USD9 billion to USD17 billion. A stable currency policy allowed a steady build-up of reserves and investment flows. Investment rates climbed to as high as 23 per cent as foreign direct investment felt more confident that future returns would not be eroded by a weak currency. 
 
 This allowed the liquidity cycle to ease up leading to a benign interest rate environment, reduced debt servicing. All good news for GDP growth as compared to previous years where low reserves encouraging dollarisation, low investment rates and relatively low growth.
 

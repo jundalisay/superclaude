@@ -60,20 +60,20 @@ life policies and explores the harms, both mental and physical, that abortion ha
 wrought on women and girls.
 
 Conflicts of Interest. NIH maintains inappropriate industry ties that create
-serious conflicts of interest. In 2018, it was revealed that a $100 million NIH study
+serious conflicts of interest. In 2018, it was revealed that a USD100 million NIH study
 on the benefits of moderate drinking was funded by the beer and liquor industry.19
 More recently, the National Institute of Allergy and Infectious Diseases (NIAID), Anthony Fauci’s division of the NIH, owns half of the patent for the Moderna
 COVID-19 vaccine, among thousands of other pharma patents.20 Rather than providing grants to university-based investigators to run the clinical trials on their own
 Moderna vaccine, the NIH conducted this research internally—a clear conflict of
 interest. The NIAID will earn millions from this vaccine’s revenue with several
-NIH employees (and their heirs) personally receiving up to $150,000 annually
+NIH employees (and their heirs) personally receiving up to USD150,000 annually
 from Moderna vaccine sales.21﻿
 
 In May 2022, documents obtained pursuant to a FOIA request revealed that
 NIH Director Francis Collins, NAIAD Director Anthony Fauci, and Fauci’s Deputy
 Director, Clifford Lane, all received royalties from pharmaceutical companies
 between 2009 and 2014.22 Nonprofit watchdog Open the Books estimates that from
-2010 to 2020, third parties paid more than $350 million in royalties to NIH and
+2010 to 2020, third parties paid more than USD350 million in royalties to NIH and
 its scientists, who are credited as coinventors. 
 
 Most problematically, in the years when they received payments, Collins, Fauci, and Lane were NIH administrators,

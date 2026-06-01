@@ -23,7 +23,7 @@ developing a force-sizing construct that reflects what is required to
 accomplish strategic objectives.
 
 2. Eliminate pass-through funding, which has grown to more than
-$40 billion per year and has caused the Air Force to be chronically
+USD40 billion per year and has caused the Air Force to be chronically
 underfunded for decades.
 
 (if pass-through funding, defined as money in the Air Force budget that does not go to the Air Force, is removed from the equation) than the Army and Navy have received. This underfunding has forced the Air Force to cut its forces and forgo modernizing aging weapons systems that were never designed to operate in current threat environments and are structurally and mechanically exhausted. The result is an Air Force that is the oldest, smallest, and least ready in its history. The decline in Air Force capacity and capability is occurring at the same time the security environment demands the very options that the Air Force uniquely provides. Combatant commanders routinely request more Air Force capabilities than the service has the capacity to provide. The Air Force today simply cannot accomplish all of the missions it is required to perform.

@@ -43,7 +43,7 @@ By its failure to secure the border, the Biden Administration has robbed Indian 
 
 Overhaul BIE schools to put parents and their children first.
 
-Finally, the new Administration should seek congressional reauthorization of the Land Buy-Back Program for Tribal Nations,96 which provided a $1.9 billion Trust Land Consolidation Fund to purchase fractional interests in trust or restricted land from willing sellers at fair market value, but which sunsets November 24, 2022. 
+Finally, the new Administration should seek congressional reauthorization of the Land Buy-Back Program for Tribal Nations,96 which provided a USD1.9 billion Trust Land Consolidation Fund to purchase fractional interests in trust or restricted land from willing sellers at fair market value, but which sunsets November 24, 2022. 
 
 New funds should come from the Great American Outdoors Act.97 
 

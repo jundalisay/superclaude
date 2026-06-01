@@ -11,7 +11,7 @@ The Constitution gives Congress the authority to “raise and support Armies” 
 
 The Department of Defense (DOD) is the largest part of our federal government.
 
-It has almost 3 million people serving in uniform or a civilian capacity throughout the world and consumes approximately $850 billion annually—more than 50 percent of our government’s discretionary spending.
+It has almost 3 million people serving in uniform or a civilian capacity throughout the world and consumes approximately USD850 billion annually—more than 50 percent of our government’s discretionary spending.
 
 The DOD is also a deeply troubled institution. Historically, the military has been one of America’s most trusted institutions, but years of sustained misuse, a two-tiered culture of accountability that shields senior officers and officials while exposing junior officers and soldiers in the field, wasteful spending, wildly shifting security policies, exceedingly poor discipline in program execution, and (most
 recently) the Biden Administration’s profoundly unserious equity agenda and vaccine mandates have taken a serious toll.

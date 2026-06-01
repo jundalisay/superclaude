@@ -9,7 +9,7 @@ icon: "Heritage Foundation"
 ---
 
 
-The US today owes $31 trillion.
+The US today owes USD31 trillion.
 
 The OMB Director should present a fiscal goal to the President early in the budget development process to address the federal government’s fiscal irresponsibility. 
 

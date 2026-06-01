@@ -128,7 +128,7 @@ to the agency in the event they required rescue, extraction, or safe housing.
 
 Such safety measures, argued career officials, would somehow represent a violation of journalistic independence. With only rare exceptions, resistance to the most basic journalist safety measures was the knee-jerk response from USAGM career officials. Wasting Taxpayer Dollars. 
 
-The USAGM’S current operations, properly man- aged, can be conducted on less than $700 million per year. Prior to the arrival of President Donald Trump's appointees in June 2020, budgeting, financial responsibility, and spending totaled over $800 million per year, with virtually no oversight or supervision. Waste, unnecessary spending, nepotism for pet projects, redundant programs, and unnecessary hiring abounded.
+The USAGM’S current operations, properly man- aged, can be conducted on less than USD700 million per year. Prior to the arrival of President Donald Trump's appointees in June 2020, budgeting, financial responsibility, and spending totaled over USD800 million per year, with virtually no oversight or supervision. Waste, unnecessary spending, nepotism for pet projects, redundant programs, and unnecessary hiring abounded.
 
 
 ### Consolidation and Reduction of Redundant Services. 

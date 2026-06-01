@@ -11,11 +11,11 @@ author: Dr Meekal Ahmed
 
 General Musharraf acknowledged that he did not know economics.
 
-But he was a good listener, loved long-winded, coloured power-point presentations and he learnt well. As usual, given the precarious state of the economy with low foreign exchange reserves, Pakistan entered into an IMF program, which took the shape of a three-year highly concessional Poverty Reduction and Growth Facility (PRGF) with high access. Despite the arrangement, foreign exchange reserves initially continued to hover at the very low level of $1-1.7 billion.
+But he was a good listener, loved long-winded, coloured power-point presentations and he learnt well. As usual, given the precarious state of the economy with low foreign exchange reserves, Pakistan entered into an IMF program, which took the shape of a three-year highly concessional Poverty Reduction and Growth Facility (PRGF) with high access. Despite the arrangement, foreign exchange reserves initially continued to hover at the very low level of USD1-1.7 billion.
 
 This changed dramatically after 9/11 reflecting the reverse flow of capital and re-flow of workers' remittances into the official market, both of which occurred in response to fears of possible investigation of transactions in the money-changer market. Debt relief from the Paris Club, increased disbursements of foreign assistance by the US after Pakistan's cooperation in Afghanistan, also contributed to the reserve build-up. 
 
-In one year alone, foreign exchange reserves surged by more than $4 billion, boosting confidence, stabilising the exchange rate and reducing the disparity between the official and parallel market rate for foreign exchange. Indeed at one point the parallel market rate was less depreciated than the official exchange rate.
+In one year alone, foreign exchange reserves surged by more than USD4 billion, boosting confidence, stabilising the exchange rate and reducing the disparity between the official and parallel market rate for foreign exchange. Indeed at one point the parallel market rate was less depreciated than the official exchange rate.
 
 In a remarkable first, the government actually completed the three-year PRGF. 
 
@@ -152,7 +152,7 @@ However, delaying, prevaricating and hoping that someone would come to Pakistan'
 
 As domestic and external deficits widened and inflation continued to climb, confidence was lost and there ensued unprecedented capital flight amid a rupee/dollar exchange rate in virtual free-fall. 
 
-The stock market collapsed as private portfolio investment fled to safer heavens, bubbles popped and our foreign exchange reserves, in a painful repeat of the past, started to disappear with astonishing speed, at one time declining $700 million in a single week. In the end, Pakistan had no recourse except to turn once again to the IMF for 'exceptional financing'. 
+The stock market collapsed as private portfolio investment fled to safer heavens, bubbles popped and our foreign exchange reserves, in a painful repeat of the past, started to disappear with astonishing speed, at one time declining USD700 million in a single week. In the end, Pakistan had no recourse except to turn once again to the IMF for 'exceptional financing'. 
 
 It is highly likely that the FoDP made their support conditional on Pakistan engaging with
 the IMF.

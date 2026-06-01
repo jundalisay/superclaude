@@ -11,9 +11,9 @@ weight: 24
 
 The Economic Development Administration (EDA) is charged with investing in local communities to encourage and enable growth and innovation in the private sector, with particular focus on distressed or underserved areas. Over time, it has also served as a distribution mechanism for emergency relief funds (e.g., Hurricane Maria and COVID-19).
 
-In the Trump Administration, the EDA served an important role for the CARES Act. It successfully disbursed approximately $1.5 billion in funding beginning in May 2020 and throughout the COVID-19 pandemic. However, this task revealed EDA’s shortcomings. On a capability level, EDA lacked the technical and financial systems and skills to disburse these funds in a compliant manner and required external contracts for advisory support to hire the personnel needed to accom- plish its goals.
+In the Trump Administration, the EDA served an important role for the CARES Act. It successfully disbursed approximately USD1.5 billion in funding beginning in May 2020 and throughout the COVID-19 pandemic. However, this task revealed EDA’s shortcomings. On a capability level, EDA lacked the technical and financial systems and skills to disburse these funds in a compliant manner and required external contracts for advisory support to hire the personnel needed to accom- plish its goals.
 
-Historically, EDA was a small bureau with an annual budget for $350 million
+Historically, EDA was a small bureau with an annual budget for USD350 million
 in Public Works grants annually. EDA’s decision-making is decentralized to its
 six regional offices, which delayed the release of CARES Act funding by months.
 But more broadly, EDA is an impediment to coordinated campaigns that advance
@@ -35,7 +35,7 @@ decision-making in accordance with the points above (e.g., maintaining
 contract vehicles for staff augmentation as needed).
 
 Building on the initial success of Opportunity Zones, which incentivized
-over $75 billion in private sector investment in distressed communities by
+over USD75 billion in private sector investment in distressed communities by
 the end of 2020 with little up-front cost to the taxpayer.
 
 MINORITY BUSINESS DEVELOPMENT AGENCY
@@ -88,7 +88,7 @@ understandably see MBDA as problematic on a philosophical level.
 
 Nonetheless, Congress has spoken recently on this issue and is unlikely to
 change its position in the near term. In 2017, MBEs represented one-third of all
-U.S.-owned businesses, with almost 9 million employees, generating $1.7 trillion
+U.S.-owned businesses, with almost 9 million employees, generating USD1.7 trillion
 for the U.S. economy.6 As such, a conservative Administration is best served by
 approaching MBDA as a tool to be leveraged in the fight to deliver economic oppor-
 tunity to all Americans and to produce an economy centered on equal opportunity,
@@ -163,7 +163,7 @@ intended to transition to self-sustaining private institutions after using
 government funds to begin operations, but the prohibition on long-term
 funding was abolished in 1998. MEP’s business advisory services would be
 more properly carried out by the private sector. The next Administration
-should propose legislation to zero out this $150 million program and fully
+should propose legislation to zero out this USD150 million program and fully
 privatize existing MEP centers.
 
 Transfer the Baldridge Performance Excellence Program. This

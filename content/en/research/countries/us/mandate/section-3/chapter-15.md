@@ -41,7 +41,7 @@ Department functions to separate federal agencies, states, and localities.
 HUD was created by the Housing and Urban Development Act of 19652 and
 since then has administered several programs that had been administered by
 the Housing and Home Finance Agency. With a proposed fiscal year (FY) budget
-authority totaling $71.9 billion and 8,326 full-time equivalent (FTE) employees,3
+authority totaling USD71.9 billion and 8,326 full-time equivalent (FTE) employees,3
 it remains the largest government agency charged with implementing federal
 housing policy.
 
@@ -102,7 +102,7 @@ Sufficiency Coordinator Program; the Public Housing Fund (operating
 and capital funds for PHA administration of Section 9 public housing and
 Section 8 voucher programs); and Choice Neighborhoods (zeroed out during
 the Trump Administration budget request but included in HUD’s FY 2023
-budget, which requests $250 million for the program).16
+budget, which requests USD250 million for the program).16
 
 Office of Housing and Federal Housing Administration (FHA),
 headed by a dual-hatted, Senate-confirmed AS and Federal Housing
@@ -122,7 +122,7 @@ hospitals, and health care facilities that meet certain conditions.17
 
 Government National Mortgage Association (GNMA), headed by a Sen-
 ate-confirmed GNMA President or Executive Vice President. GNMA oversees
-more than $2 billion in federal guarantees to mortgage-backed securities
+more than USD2 billion in federal guarantees to mortgage-backed securities
 structured from mortgages that are pooled from various federal programs,
 including mortgages backed by programs outside of HUD, principally the sin-
 gle-family mortgage guarantee programs administered by the Department of

@@ -45,7 +45,7 @@ All treaties and international agreements which were in force between the US and
 
 The people on Taiwan has continued membership in any international financial institution or international organization.
 
-The Overseas Private Investment Corporation can provide insurance, reinsurance, loans, or guaranties for projects on Taiwan during the 3-year period from the date of enactment of this Act, unrestricted by the $1,000 per capita income restriction of the Foreign Assistance Act of 1961.
+The Overseas Private Investment Corporation can provide insurance, reinsurance, loans, or guaranties for projects on Taiwan during the 3-year period from the date of enactment of this Act, unrestricted by the USD1,000 per capita income restriction of the Foreign Assistance Act of 1961.
 
 
 US-Taiwan relations can be conducted by or through the American Institute in Taiwan (or such comparable successor nongovernmental entity as the President may designate) and an instrumentality established by the people of Taiwan.
