@@ -255,9 +255,9 @@ T log T
 
 i; this integral
 however is equal to the number of roots of ξ(t) = 0 lying within in this
-region, multiplied by 2πi. One now finds indeed approximately this number
-of real roots within these limits, and it is very probable that all roots are
-real. Certainly one would wish for a stricter proof here; I have meanwhile
+region, multiplied by 2πi. 
+
+One now finds this number of real roots within these limits, and it is very probable that all roots are real. Certainly one would wish for a stricter proof here; I have meanwhile
 temporarily put aside the search for this after some fleeting futile attempts,
 as it appears unnecessary for the next objective of my investigation.
 If one denotes by α all the roots of the equation ξ(α) = 0, one can express

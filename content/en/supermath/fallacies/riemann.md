@@ -16,15 +16,20 @@ For example, if you divide:
 - 3 by 2, you get a non-whole number as 1.5, with the 0.5 as the extra bit. 
 - 5 by 2, you get a non-whole number as 2.5, with the 0.5 as the extra bit. 
 
-In other words, they are messy to divide. As if dividing them leads to unfinished business. In Supermath, we call as "unclosed".
+In other words, they are messy to divide. As if dividing them leads to unfinished business. In Supermath, we call it as "unclosed".
 
 From listing them, you might imagine that there is some pattern or sequence. 
 - Sometimes they're close (11, 13)
 - Sometimes they're far apart (23, 29)
 
-A mathematician who has nothing better to do with his life will wonder if there is some specific pattern to primes. If there is a set pattern the it would build his ego and make him think of himself as a genius for unlocking such an objective and rigid pattern. 
+A mathematician who has nothing better to do with his life will wonder if there is some specific pattern or "smoothness" to primes.
 
-Many have tried, even wasting supercomputer time to try to find the pattern and no one has ever found it -- because a subjective, dynamic universe does not limit itself to objective, rigid patterns. 
+ <!-- If there is a set pattern the it would build his ego and make him think of himself as a genius for unlocking such an objective and rigid pattern.  -->
+
+Many have tried, even wasting supercomputer time to try to prove the smoothness yet it could never be proven by brute force. 
+
+
+ <!-- the pattern and no one has ever found it -- because a subjective, dynamic universe does not limit itself to objective, rigid patterns.  -->
 
 
 ## Riemann's Wild Goose Chase
@@ -36,13 +41,27 @@ Bernhard Riemann invented a special "machine" — the **Riemann Zeta Function** 
 ![Zeta](/graphics/math/zeta.jpg)
 
 
-Mathematicians, beginning with Euler started plotting infinite curves from Caresian planes into polar grids as circles (which we call the aethereal Cartesian plane) that go round and round. 
+Mathematicians, beginning with Euler started plotting infinite curves from Caretsian planes into polar grids as circles (which we call the aethereal Cartesian plane) that go round and round. 
 
 This makes patterns visually cuter, which then drives interest into what they're doing. 
 
 The polar grid or aethereal Cartesian plane necessarily needs an imaginary number, which we call a unit void or unit spin, depending on perspective. 
 
-Riemann uses this cute looping shape, with imaginary number, to justify a Riemann Hypothesis that somehow a finite shape will be created (like $ 0.5 + 30i $). 
+Riemann uses this cute looping shape, with imaginary number, extending via analytic continuation. This is to justify a Riemann Hypothesis that proves a smooth distribution.
+
+
+{{< q a="Riemann" c="On the Number of Prime Numbers less than a Given Quantity" >}}
+One finds this number of real roots within these limits and it is very probable that all roots are real.
+{{< /q >}}
+
+
+This leads to a "critical line" that matches the hypothesis. 
+
+**But this is really just a result of its own rules from the "functional equation" of the Zeta Function.**
+
+Unlike Euler's product which was based on real numbers, Riemann's hypothesis is entirely imaginary.
+
+It is therefore just another Zeno's paradox or a non-problem like a trick that wastes the time of curious people who don't know that abstract numbers should only support real ones!
 
 
 <!--  ## Why Imaginary Numbers?
@@ -56,30 +75,26 @@ When you add imaginary numbers to the Riemann function, it starts behaving like 
 
 
 
-## The Riemann Hypothesis (The Big Prediction)
+<!-- ## The Riemann Hypothesis (The Big Prediction)
 
 Riemann noticed that all the interesting zeros (crossings) of this wavy function seem to lie on a single vertical line at $ \frac{1}{2} $.
 
 In plain English: **If you look at the hidden pattern of primes, the "sweet spot" — the place where the clearest information lives — is always right in the middle.**
-
+ -->
 <!-- It's like discovering that every time you drop a coin, it always lands exactly on its edge. That would be too perfect to be random. It would mean there's a hidden law of nature making it happen. -->
 
 
-| If Riemann is RIGHT | If Riemann is WRONG |
+<!-- | If Riemann is RIGHT | If Riemann is WRONG |
 |---------------------|---------------------|
 | Prime numbers have a deep hidden order | Prime numbers are truly random chaos |
 | We can predict prime distribution with near-perfect accuracy | We can never fully predict primes |
 | Internet security (which uses primes for encryption) has a hidden mathematical foundation | Prime-based security is built on a illusion of order |
 
----
-
-
-
 **We know that Riemann is wrong because the universe is not objective or fixed.**
 
 Any effort to prove the Riemann Hypothesis is just as waste of time and energy, just as the initial feeling to find a rigid pattern of prime numbers is a deceptive feeling from the Negative Force.
 
-Supercomputers have tested the first 10 trillion zeros to show that they all lie on that magical line at $ \frac{1}{2} $. But nobody can prove that the 10-trillion-and-first zero will also be there.
+Supercomputers have tested the first 10 trillion zeros to show that they all lie on that magical line at $ \frac{1}{2} $. But nobody can prove that the 10-trillion-and-first zero will also be there. -->
 
 
 ## Time Wasters and the Solution
@@ -92,6 +107,10 @@ Mathematicians have been wasting time proving or disproving the Riemannian Zeta 
 
 We fix both Riemann and Einstein with Supermath and Qualimath which relies on spin, as fractals, and relationalities or ratios instead of numbers and geometry. 
 
+Unlike Riemann Manifold which assumes space is continous, and Riemann Zeta Function which relies on abstract and infinity, we use:
+- spacetime slices that are independent
+- abstract and imaginary numbers that support real ones
+
 We use prime numbers primarily on Chemistry where the atomic numbers represent qualitative instances or physicalization of numbers.
 
 This will reveal harmonies of the elements that can produce useful compounds, because Superphysics is supposed to be useful and not a time waster like shallow Math.
@@ -100,6 +119,12 @@ This will reveal harmonies of the elements that can produce useful compounds, be
 This is why we regard:
 - the Riemann Hypothesis as a non problem caused by mathematicians who have nothing better do to
 - Einstein's Field Equations as a scam that blocks away the true nature of Nature
+
+
+Both of these are against Nature and so anyone who does them ends up merely wasting time. 
+
+
+
 
 
 <!-- Imagine you throw a dart at a wall covered in tiny dots (the primes). Each time, the dart hits a dot. But the dots seem random.
