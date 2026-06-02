@@ -80,7 +80,9 @@ From the era of Classical Economics of Xenophon and the early Marginal Revolutio
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
 {{< /q >}}
 
-This is even supported by Ricardo, which was actually praised by Keynes:
+This is even supported by Ricardo:
+
+<!-- , which was actually praised by Keynes: -->
 
 {{< q a="David Ricardo" c="Principles of Political Economy (p.511)" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
@@ -142,7 +144,38 @@ To solve stagnation, the correct solution is to break up capital which is amasse
 
 This can be done by bringing back the ideas of Classical Economics:
 
-- Removing fiat by letting the central banks agree on a gold standard. Instead of open market operations, the main tool for growing the economy will be allowing many new banks to open, with smaller capital. The money supply will be grown by numerous lending operations using smaller fractional reserves. This is the opposite of the current system where banks merge and conslidate in order to have a bigger pool of fiat cash to lend. In this Classical system, the credit worthiness of the borrower will be the main focus, instead of the interest rates.
-- Enforcing anti-trust and banning mergers and acquisitions to prevent capital from pooling and leveraging. Ideally, only the government should be capable of pooling huge amounts of capital
-- Removing the concepts of profit maximization and de-emphasizing ROI. Instead, the focus is on current prices and currently-available investments in order to address current needs. 
+- restoring barter credits and real valuation, as valuation in wheat or rice, as described by Smith and actually used in the Inca and Khmer empires and ancient China as explained by Confucius.
+- restoring the gold standard as bank gold which is a fixed quantity as opposed to commercial gold. In this way, governments will be less tempted to sell their gold reserves for fiat. 
+
+These offer competition against the fiat system without needing scam crypto. 
+- gold does not need electricity nor the internet but just needs security infrastracture as vaults which already exist
+
+
+<!-- - Removing fiat by letting the central banks agree on a gold standard.  -->
+
+
+Instead of open market operations, the main tool for growing the economy will be allowing many new barter-credit banks, and import-export clearing banks to open, with smaller capital. 
+
+The money supply will be grown by multilateral clearing using national clearing funds pegged to the gold standard, as explained by economist EF Schumacher. 
+
+
+<!-- numerous lending operations using smaller fractional reserves.  -->
+
+This is the opposite of the current system where banks merge and conslidate in order to have a bigger pool of fiat cash to lend. 
+
+In this Classical system, the credit worthiness of the borrower will be the main focus, instead of the interest rates since barter credits incur no interest as they are based on the value of wheat or rice which fluctuate.
+
+
+Profit maximization is:
+- checked by semi-state owned corporations which deal with utilities and public works as explained by Adam Smith in Book 5 of the Wealth of Nations.
+- replaced by purchasing power as the net real value of barter credits and barter debits over time (how much value each person gets and gives now compared to his past self)
+
+
+ <!-- the focus is on current prices and currently-available investments in order to address current needs.  -->
+
+<!-- - Enforcing anti-trust and banning mergers and acquisitions to prevent capital from pooling and leveraging. Ideally, only the government should be capable of pooling huge amounts of capital -->
+
+<!-- - Removing the concepts of profit maximization and de-emphasizing ROI. Instead, -->
+
+
 
