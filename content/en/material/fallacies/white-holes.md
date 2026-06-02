@@ -85,7 +85,8 @@ Since the Milky Way is spinning clockwise, a negative direction, and has a super
 
 
 
-The whole cause of the problem was Einstein's Simultaneity of Time scam wherein light (a physical entity) was used as the basis of time (a purely mental entity). 
+
+<!-- The whole cause of the problem was Einstein's Simultaneity of Time scam wherein light (a physical entity) was used as the basis of time (a purely mental entity). 
 
 We erase everything Einstein and overhaul Newton to explain that gravity comes from the aether, not from matter. 
 
@@ -93,6 +94,4 @@ This makes white holes and worm holes unnecessary.
 
 The matter and information sucked in by a black hole (aethereal space vortex) get converted into the aetherspace inside the black hole. 
 
-This is then emmitted back into the universe at another place as galaxy formation. This conserves matter and energy, removing any information paradox. 
-
-
+This is then emmitted back into the universe at another place as galaxy formation. This conserves matter and energy, removing any information paradox.  -->

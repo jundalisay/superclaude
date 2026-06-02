@@ -2,7 +2,7 @@
 title: "Bio Superphysics FAQ"
 date: 2024-07-08
 c: "darkslategray"
-# image: /graphics/bio.jpg
+image: /graphics/bio.jpg
 description: "FAQ on Bio Superphysics"
 a: "Bio Superphysics"
 icon: "Bio Superphysics"
@@ -77,7 +77,7 @@ So you want everyone to switch to alternative medicine?
 {{< /r >}}
 
 {{< l a="Bio Superphysics" >}}
-No. Each [medical paradigm](/bio/principles/part-04/chapter-03) is a tool dealing with the five strata. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
+No. Each [medical paradigm](/medical-paradigms) is a tool dealing with the five strata. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
 

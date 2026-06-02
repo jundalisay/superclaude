@@ -10,7 +10,8 @@ tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeo
 icon: "Bio Superphysics"
 aliases:
   /medical/principles/chapter-03/
-  /bio/principles/chapter-03/  
+  /bio/principles/chapter-03/
+  /medical-paradigms
 ---
 
 
