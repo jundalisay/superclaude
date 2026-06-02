@@ -3032,6 +3032,11 @@
       content: var(--tw-content);
     }
   }
+  .open\:rotate-180 {
+    &:is([open], :popover-open, :open) {
+      rotate: 180deg;
+    }
+  }
   .hover\:-translate-y-0\.5 {
     &:hover {
       @media (hover: hover) {
@@ -3381,6 +3386,20 @@
     &:hover {
       @media (hover: hover) {
         color: var(--color-slate-200);
+      }
+    }
+  }
+  .hover\:text-sp-muted {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-sp-muted);
+      }
+    }
+  }
+  .hover\:text-sp-muted {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-sp-muted);
       }
     }
   }

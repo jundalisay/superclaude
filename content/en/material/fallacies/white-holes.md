@@ -77,6 +77,14 @@ This is proof of Einstein's sophistry -- a lie is covered up by another lie.
 
 ### The Solution
 
+Our solution to white holes are based on Descartes' vortices which have a positive (anticlockwise) and negative (clockwise) spin.
+
+Since the Milky Way is spinning clockwise, a negative direction, and has a supermassive BLACK hole, then it follows that quasars spin anti clockwise and are a bright WHITE hole. 
+
+
+
+
+
 The whole cause of the problem was Einstein's Simultaneity of Time scam wherein light (a physical entity) was used as the basis of time (a purely mental entity). 
 
 We erase everything Einstein and overhaul Newton to explain that gravity comes from the aether, not from matter. 

@@ -3,13 +3,13 @@ heading: The Einstein Scam Part 3
 title: "The Fallacy of Superluminal Motion"
 weight: 4
 # date: 2025-10-16
+featured: true
 image: /photos/physics/scam.jpg
 description: "The universe is ageless since the Big Bang is false"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
@@ -202,3 +202,5 @@ For material bodies, such as vehicles, this can be done by applying Maxwell's 4t
 Lorentz should have done this if he had only focused on the Huygens aether instead of the Fresnel aether. 
 
 Had Cartesian Physics survived, people after Maxwell would have used waves to discover and manipulate the aetherspace to move things by action-at-a-distance. 
+
+
