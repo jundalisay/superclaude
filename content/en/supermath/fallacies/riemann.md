@@ -41,13 +41,13 @@ Bernhard Riemann invented a special "machine" — the **Riemann Zeta Function** 
 ![Zeta](/graphics/math/zeta.jpg)
 
 
-Mathematicians, beginning with Euler started plotting infinite curves from Caretsian planes into polar grids as circles (which we call the aethereal Cartesian plane) that go round and round. 
+Mathematicians, beginning with Euler started plotting infinite curves from Cartesian planes into polar grids as circles (which we call the aethereal Cartesian plane) that go round and round. 
 
 This makes patterns visually cuter, which then drives interest into what they're doing. 
 
 The polar grid or aethereal Cartesian plane necessarily needs an imaginary number, which we call a unit void or unit spin, depending on perspective. 
 
-Riemann uses this cute looping shape, with imaginary number, extending via analytic continuation. This is to justify a Riemann Hypothesis that proves a smooth distribution.
+Riemann uses this cute looping shape, with imaginary number, extending via "analytic continuation". This is to justify a Riemann Hypothesis that proves a smooth distribution.
 
 
 {{< q a="Riemann" c="On the Number of Prime Numbers less than a Given Quantity" >}}
@@ -97,34 +97,43 @@ Any effort to prove the Riemann Hypothesis is just as waste of time and energy, 
 Supercomputers have tested the first 10 trillion zeros to show that they all lie on that magical line at $ \frac{1}{2} $. But nobody can prove that the 10-trillion-and-first zero will also be there. -->
 
 
-## Time Wasters and the Solution
+## Time Waster Just like String Theory which is Unprovable
+ 
+These deceptions by the Negative Force is also seen in Physics as:
+- Einstein's field equations which relies on **Riemannian geometry**, creating Loop Quantum Gravity
+- the useless String Theory that uses **Riemannian's Zeta Function**
 
-These deceptions by the Negative Force is also seen in Physics as Einstein's field equations which relies on Riemannian geometry.
 
-Mathematicians have been wasting time proving or disproving the Riemannian Zeta Function just as Physicists have been wasting time on Einstien's field equations, trying to develop them with failed theories:
-- Loop Quantum Gravity
-- String Theory
+We can say that Physics died when it became infested with abstract Mathematics that was disconnected with reality. 
 
-We fix both Riemann and Einstein with Supermath and Qualimath which relies on spin, as fractals, and relationalities or ratios instead of numbers and geometry. 
+{{< q a="Henri Poincare" c="The Measure of Time" >}}
+The mathematicians of the Berlin school have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer. The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part.
+{{< /q >}}
+
+<!-- Mathematicians have been wasting time proving or disproving the Riemannian Zeta Function just as Physicists have been wasting time on Einstien's field equations, trying to develop them with failed theories:
+- 
+- String Theory -->
+
+
+{{< i s="/graphics/math/string.jpg" a="String Theory" c="The Riemann Hypothesis is unprovable just like String Theory as they both use the Riemann Zeta Function" >}}
+
+
+
+We fix both Riemann and Einstein with Supermath and Qualimath which relies on spin, as fractals, and relationalities or ratios instead of numbers and geometry. Unlike math which can be totally abstract, Supermath and Qualimath always have a relation with real perceptions. In fact, all fractals are anchored on the person making the equation as the self-fractal.
 
 Unlike Riemann Manifold which assumes space is continous, and Riemann Zeta Function which relies on abstract and infinity, we use:
-- spacetime slices that are independent
+- spacetime slices that are independent, but glued by the self-fractal (as timespace)
 - abstract and imaginary numbers that support real ones
 
 We use prime numbers primarily on Chemistry where the atomic numbers represent qualitative instances or physicalization of numbers.
 
 This will reveal harmonies of the elements that can produce useful compounds, because Superphysics is supposed to be useful and not a time waster like shallow Math.
 
-
 This is why we regard:
 - the Riemann Hypothesis as a non problem caused by mathematicians who have nothing better do to
 - Einstein's Field Equations as a scam that blocks away the true nature of Nature
 
-
 Both of these are against Nature and so anyone who does them ends up merely wasting time. 
-
-
-
 
 
 <!-- Imagine you throw a dart at a wall covered in tiny dots (the primes). Each time, the dart hits a dot. But the dots seem random.
