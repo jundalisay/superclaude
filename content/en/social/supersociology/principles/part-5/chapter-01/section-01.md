@@ -8,11 +8,11 @@ image: "/photos/objects/money.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 
-{{< i s="/photos/econ/crash.jpg" a="Trader at a stock market" >}}
+<!-- i s="/photos/econ/crash.jpg" a="Trader at a stock market" -->
 
 The Traders emerge from the stability of society created by the 3 previous classes. 
 

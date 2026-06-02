@@ -5,7 +5,7 @@ description: Did you know equlibrium is a mercantilist fallacy that was denounce
 # date: 2015-08-21
 # date: 2021-10-14
 date: 2022-01-06
-type: "featured"
+featured: true
 image: "/graphics/econ/wrong.png"
 heading: "How Economics Leads to Crises"
 writer:

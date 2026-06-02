@@ -81,8 +81,8 @@ Our solution to white holes are based on Descartes' vortices which have a positi
 
 Since the Milky Way is spinning clockwise, a negative direction, and has a supermassive BLACK hole, then it follows that quasars spin anti clockwise and are a bright WHITE hole. 
 
-
-
+Quasars as white holes are consistent with Sassani descriptions of white and black holes in the inside out universe where stars are alternating black and white holes. 
+- We explain it as the difference between space particles (2nd Element) and aether vortices (5th Element), a difference that is not used in our universe.
 
 
 

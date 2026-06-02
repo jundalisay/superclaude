@@ -13,12 +13,8 @@ toc: false
 
 {{< box >}}
 This is the early version of my Fallacy of Market Equilibrium Post that was sent to a journal but was not accepted. This led me to post to the internet instead.
-
 <cite>Juan</cite>
 {{< /box >}}
-
-
-
 
 
 ## The Cause of Crises

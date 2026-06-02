@@ -4,6 +4,7 @@ description: "FAQs about Superphysics, Socrates-style"
 c: "darkslategray"
 weight: 2
 youtube: "yYnXhi6t9vk"
+image: /graphics/sora.jpg
 icon: "Superphysics"
 aliases:
   /faq

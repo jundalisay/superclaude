@@ -2,7 +2,7 @@
 title: "Supereconomics FAQ"
 date: 2024-07-17
 c: "teal"
-# image: /graphics/econ.jpg
+image: /graphics/econ.jpg
 a: Supereconomics
 description: "FAQ on Supereconomics"
 icon: "Supereconomics"

@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-toc: false
+featured: true
 aliases:
   /fallacies/economics/inelastic-supply-curve
 ---

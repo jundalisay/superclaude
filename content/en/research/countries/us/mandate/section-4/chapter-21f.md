@@ -90,39 +90,20 @@ Census Bureau.
 
 ### Review the partnership program. 
 
-This program, designed to promote
-responsiveness to the census by employing trusted voices in various
-communities, deserves careful scrutiny. A new Administration should work
-to actively engage with conservative groups and voices to promote response
-to the decennial census. Promoting response to the decennial census will
-ensure that the most accurate counts are conducted, leading to a more
-accurate apportionment of congressional representation and allocation
-of federal funds. In 2020, lack of conservative participation was one factor
-in an undercount in some areas of the country, affecting representation of
-certain states.
+This program, designed to promote responsiveness to the census by employing trusted voices in various communities, deserves careful scrutiny. A new Administration should work
+to actively engage with conservative groups and voices to promote response to the decennial census. Promoting response to the decennial census will
+ensure that the most accurate counts are conducted, leading to a more accurate apportionment of congressional representation and allocation of federal funds. In 2020, lack of conservative participation was one factor in an undercount in some areas of the country, affecting representation of certain states.
 
 
 ### Remove duplicative functions to increase efficiency
 
-The decennial operational plan should eliminate current duplication among ongoing census operations (annual surveys, etc.) and
-decennial operations in information technology, human resources, etc. This
-overlap has been estimated to waste billions of dollars in the years leading
-up to each decennial census.
+The decennial operational plan should eliminate current duplication among ongoing census operations (annual surveys, etc.) and decennial operations in information technology, human resources, etc. This overlap has been estimated to waste billions of dollars in the years leading up to each decennial census.
 
-Add a citizenship question. Despite finding that the Trump
-Administration’s addition of the citizenship question to the 2020 decennial
-census violated the Administrative Procedures Act, the Supreme Court
-held that the Secretary of Commerce does have broad authority to add a
-citizenship question to the decennial census.
+Add a citizenship question. Despite finding that the Trump Administration’s addition of the citizenship question to the 2020 decennial census violated the Administrative Procedures Act, the Supreme Court held that the Secretary of Commerce does have broad authority to add a citizenship question to the decennial census.
 
-Any successful conservative
-Administration must include a citizenship question in the census. Asking a
-citizenship question is considered best practice even by the United Nations.
-By law, the Census Bureau must deliver the decennial census subjects/
-topics to Congress three years before Census Day (in this case, by April 1,
-2027). Questions must be presented to Congress two years before Census
-Day (April 1, 2028).
+Any successful conservative Administration must include a citizenship question in the census. Asking a citizenship question is considered best practice even by the United Nations. 
 
+By law, the Census Bureau must deliver the decennial census subjects/ topics to Congress three years before Census Day (in this case, by April 1, 2027). Questions must be presented to Congress two years before Census Day (April 1, 2028).
 
 
 ### Review forthcoming changes to race and ethnicity questions. 
@@ -196,3 +177,4 @@ The Census Bureau should review the Supplemental Poverty Measure (SPM) to consid
 ### Abolish the National Advisory Committee and reevaluate all other committees.
 
 The Census Bureau National Advisory Committee on Racial, Ethnic, and Other Populations (NAC) was established by the Obama Administration in 2012 and rechartered by the Biden Administration in 2022. The committee is a hotbed for left-wing activists intent upon injecting racial and social-justice theory into the governing philosophy of the Census Bureau. The NAC should immediately be abolished by the incoming Administration. The NAC charter gives the Secretary of Commerce the authority to terminate the committee. Since the Secretary of Commerce established the NAC in 2012 under the FACA, the Secretary is authorized to terminate the NAC. The new Administration should also reevaluate and potentially abolish all non-statutory standing committees within the Census Bureau, including the Census Scientific Advisory Committee.
+
