@@ -1,0 +1,52 @@
+{{/* docs-menu.html */}}
+{{ $currentPage := . }}
+{{ $principlesPages := where .Site.Pages "Section" "principles" }}
+
+{{/* Build the menu structure */}}
+<ul>
+  {{ range $principlesPages.GroupByParam "part" }}
+    {{ $part := .Key }}
+    {{ if $part }}
+      <li>
+        <span class="doc-section-title">Part {{ $part }}</span>
+        <ul>
+          {{ range .Pages.GroupByParam "chapter" }}
+            {{ $chapter := .Key }}
+            {{ if $chapter }}
+              <li>
+                <a href="#" class="font-semibold text-slate-300">
+                  Chapter {{ $chapter }}
+                </a>
+                <ul>
+                  {{ range .Pages.GroupByParam "section" }}
+                    {{ $section := .Key }}
+                    {{ if $section }}
+                      <li>
+                        <a href="#" class="text-slate-400">
+                          Section {{ $section }}
+                        </a>
+                        <ul>
+                          {{ range .Pages.GroupByParam "unit" }}
+                            {{ $unit := .Key }}
+                            {{ if $unit }}
+                              <li>
+                                <a href="{{ (index .Pages 0).RelPermalink }}" 
+                                   class="{{ if eq $currentPage.RelPermalink (index .Pages 0).RelPermalink }}active{{ end }}">
+                                  Unit {{ $unit }}
+                                </a>
+                              </li>
+                            {{ end }}
+                          {{ end }}
+                        </ul>
+                      </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>

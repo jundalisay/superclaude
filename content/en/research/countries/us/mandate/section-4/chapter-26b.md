@@ -87,7 +87,7 @@ programs and the construction of new research facilities on U.S. campuses. For
 
 services, satellite communications and imagery, and business application software.
 It has been estimated that the theft of trade secrets alone costs the U.S. “between
-$180 billion and $540 billion” annually.23
+USD180 billion and USD540 billion” annually.23
 
 Closely related to Communist China’s espionage campaigns are its state-backed
 efforts to evade U.S. export control laws. These laws are designed to prevent the
@@ -150,7 +150,7 @@ Communist Chinese government push their foreign direct investment through
 vehicles that include mergers and acquisitions, seed and venture capital financing,
 and greenfield investing, particularly in strategically targeted high-technology
 industries. Since 2012, CB Insights has catalogued more than 600 high-technology
-investments in the United States worth close to $20 billion—with artificial intelli-
+investments in the United States worth close to USD20 billion—with artificial intelli-
 gence, augmented and virtual reality, and robotics receiving a particular focus—by
 Communist China–based investors.30
 
@@ -185,7 +185,7 @@ of good faith, he sought to negotiate a comprehensive trade agreement with China
 that would have addressed many of the issues raised in this discussion.
 By the middle of 2018, it was clear that the CCP had no intention of bargaining
 in good faith. As a result, on June 15, President Trump began to impose a series of
-tariffs33 on Chinese products that would eventually rise to cover more than $500
+tariffs33 on Chinese products that would eventually rise to cover more than USD500
 billion of Chinese imports. These tariffs would lead Communist China’s lead nego-
 tiator, Vice Premier Liu He, to agree tentatively in April of 2019 to what would
 have been the most comprehensive trade deal in global history.34 On May 3, 2019,
@@ -268,7 +268,7 @@ Communist China’s access to American financial markets, research institutions,
 and consumers. The next American President should strongly consider adopting all of them as a package:
 
 - Provide significant financial and tax incentives to American companies that are seeking to onshore production from Communist China to U.S. soil. 
-- Stop Communist China’s abuse of the so-called de minimis exemption, which allows it to evade the tariffs for products valued at less than $800. 
+- Stop Communist China’s abuse of the so-called de minimis exemption, which allows it to evade the tariffs for products valued at less than USD800. 
 - Prohibit Communist Chinese state-owned enterprises from bidding on U.S. government procurement contracts (for example, contracts for subway and other transportation systems).
 - Prohibit the use of Communist Chinese–made drones in American airspace. 
 - Ban all Chinese social media apps such as TikTok and WeChat, which pose significant national security risks and expose American consumers to data and identity theft.

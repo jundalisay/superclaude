@@ -65,7 +65,7 @@ divert substantial amounts of aid to support their war efforts.
 In Afghanistan, the aid infrastructure built over 20 years of American
 military presence that three Presidents wanted to end collapsed with the
 failure of U.S.-trained Afghan forces to repel the Taliban’s 2021 advances.
-Yet the country has received nearly $1 billion more in U.S. humanitarian aid
+Yet the country has received nearly USD1 billion more in U.S. humanitarian aid
 since the Taliban’s takeover and absent a U.S. embassy to ensure that it is not
 diverted to the Taliban and other terrorist groups.
 
@@ -78,7 +78,7 @@ extermination by ISIS—remain in miserable camps unable to return home
 because of the Iraqi government’s refusal to clear out Iran-backed militias
 occupying their homeland.
 
-Over the past decade, the U.S. government has expended $14 billion in aid to
+Over the past decade, the U.S. government has expended USD14 billion in aid to
 Syria where the bloody regime of Bashar al-Assad—a close ally of Iran and
 Russia—skims nearly half of foreign aid through inflated official exchange
 rates, the diversion of food baskets to its military units, and procurement

@@ -32,9 +32,9 @@ There is no separate Senate confirmation process for the position of FCC Chairpe
 
 There are no limits on the number of terms that a person can serve as an FCC Commissioner, though Commissioners need to be nominated and confirmed for each five-year term.
 
-FCC Budget and Structure. In recent years, the FCC has employed between 1,300 and 1,500 people.9 The FCC’s fiscal year 2023 budget request is for approx- imately $390.2 million.10 While Congress appropriates funds for the FCC, the agency’s budget is offset by what are known as regulatory fees—fees the FCC col- lects from the licensees and other entities that it regulates and uses to offset its budget request.
+FCC Budget and Structure. In recent years, the FCC has employed between 1,300 and 1,500 people.9 The FCC’s fiscal year 2023 budget request is for approx- imately USD390.2 million.10 While Congress appropriates funds for the FCC, the agency’s budget is offset by what are known as regulatory fees—fees the FCC col- lects from the licensees and other entities that it regulates and uses to offset its budget request.
 
-The FCC also raises revenue for the government by auctioning spectrum licenses. In fact, the FCC has generated more than $200 billion for the U.S. Treasury through spectrum auctions.11
+The FCC also raises revenue for the government by auctioning spectrum licenses. In fact, the FCC has generated more than USD200 billion for the U.S. Treasury through spectrum auctions.11
 
 The FCC is organized into a series of bureaus and offices based on function.
 
@@ -45,7 +45,7 @@ High-Profile FCC Matters. The FCC addresses a number of important matters. For i
 
 The FCC has facilitated the transition from 3G to 4G and now 5G offerings in two ways. First, it has freed spectrum—the airwaves needed to deliver wireless ser- vices. Second, it has preempted state and local siting and permitting laws that could otherwise slow down the buildout of next-generation infrastructure. One of the FCC’s great success stories from 2017 to 2020 was securing U.S. leadership in 5G.
 
-The FCC also administers an approximately roughly $9 billion-a-year program called the Universal Service Fund (USF), which has been funded by a line-item charge that traditional telephone companies add to consumers’ monthly bills. Expenditures from this fund subsidize rural broadband networks and low-income programs as well as connections for schools, libraries, and rural health care facilities. 
+The FCC also administers an approximately roughly USD9 billion-a-year program called the Universal Service Fund (USF), which has been funded by a line-item charge that traditional telephone companies add to consumers’ monthly bills. Expenditures from this fund subsidize rural broadband networks and low-income programs as well as connections for schools, libraries, and rural health care facilities. 
 
-Through various COVID-era laws, Congress has also provided the FCC with a one-time $24 billion appropriation for various low-income initiatives.
+Through various COVID-era laws, Congress has also provided the FCC with a one-time USD24 billion appropriation for various low-income initiatives.
 

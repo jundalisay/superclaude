@@ -36,7 +36,7 @@ Under President Trump, OLMS required unions to disclose involvement in
 trusts that they either own a majority stake in or control. In the past, union trust
 spending has been hidden, and it appears that trust assets have occasionally
 been corruptly spent for the benefit of private interests in union leadership—
-such as $30,000 spent on a private party, $37,500 spent on a Montblanc pen,
+such as USD30,000 spent on a private party, USD37,500 spent on a Montblanc pen,
 condominiums for those in power, golf outings, and a Ferrari.20 But the Biden
 DOL eliminated a transparency rule requiring the filing of the T-1 Trust
 Annual Report.

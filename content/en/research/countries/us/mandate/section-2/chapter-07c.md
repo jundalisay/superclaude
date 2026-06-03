@@ -108,7 +108,7 @@ intelligence from IC agencies as necessary to inform China’s unique and more c
 prehensive threat across layers of the U.S. government bureaucracy and economy.
 Former DNI John Ratcliffe increased the intelligence budget as it related to
 China by 20 percent. “When people ask me why I did that,” he explained in an
-interview, “I say, ‘Because no one would let me increase it by 40%.’ I had an $85
+interview, “I say, ‘Because no one would let me increase it by 40%.’ I had an USD85
 billion combined annual budget for both the national intelligence program and
 military intelligence program. My perspective was, ‘Whatever we’re spending on
 countering China, it isn’t enough.’”31 From an intelligence standpoint, the need
@@ -155,7 +155,7 @@ Higher Education Advisory Board and the National Security Business Alliance
 Council should be prioritized with leadership from the NCSC, the FBI, or a com-
 bination of both entities.
 
-When the CCP steals at least $400 billion–$600 billion in intellectual prop-
+When the CCP steals at least USD 400 billion– USD 600 billion in intellectual prop-
 erty each year, it is time to devote some strategic thinking to exactly how and to
 what degree counterintelligence efforts can help to protect America’s commercial
 endeavors. If Chinese strategic technology gains are happening almost entirely in

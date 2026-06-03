@@ -117,7 +117,7 @@ amount to a mere 10 per cent of GDP.
 
 After spending on defence and interest on our debt, we are left with precious little for schools, hospitals, roads, electricity, water and social support. We, and especially our rich, must pay more. 
 
-American economic aid amounts to less than $9 per Pakistani per year. That isn't much, and the secret is: we shouldn't need it; new taxes, whether as VAT or in some other form, could give us far more. 
+American economic aid amounts to less than USD9 per Pakistani per year. That isn't much, and the secret is: we shouldn't need it; new taxes, whether as VAT or in some other form, could give us far more. 
 
 Our free assemblies, powerful media and independent judiciary collectively contain within them both pressures to raise taxes and mechanisms to see that taxes actually get paid. This is new for Pakistan. 
 

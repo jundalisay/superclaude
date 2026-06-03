@@ -53,7 +53,7 @@ It crowded out private investment and sucked scarce resources away from the soci
 Privatisation of some enterprises in the 1990s and the Musharraf years helped to reduce but not end this burden. 
 
 By 2010, public sector corporations still required huge government subsidies.
-- Losses in these enterprises were estimated at $4 billion a year with the haemorrhage in the power sector alone accounting for Rs. 256 billion ($3 billion) in 2010.
+- Losses in these enterprises were estimated at USD4 billion a year with the haemorrhage in the power sector alone accounting for Rs. 256 billion (USD3 billion) in 2010.
 
 <!-- The impact of this on an anaemic economy cannot be underestimated. 
 

@@ -31,7 +31,7 @@ ernization of the entire permitting system across all departments and agencies t
 is aimed at reducing litigation risk and giving agencies the authority to establish
 programmatic, general, and provisional permits.
 
-The National Drug Control Program agencies represented a total of $41 billion in fiscal year 2022. Whereas the position for overseeing budget activities is traditionally held by a career official, it is imperative that a political appointee lead the
+The National Drug Control Program agencies represented a total of USD41 billion in fiscal year 2022. Whereas the position for overseeing budget activities is traditionally held by a career official, it is imperative that a political appointee lead the
 ONDCP budget office to ensure coordination between the OMB Program Associate
 Director and the ONDCP budgetary appointee.
 

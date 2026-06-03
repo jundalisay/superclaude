@@ -11,19 +11,19 @@ weight: 6
 
 Our Founders wrote in the Constitution that the federal government would “promote the general Welfare”.
 
-It did not mean a massive bureaucracy that would spend $3 trillion in a single year—roughly the sum, combined, spent by the departments covered in this section in 2022.
+It did not mean a massive bureaucracy that would spend USD3 trillion in a single year—roughly the sum, combined, spent by the departments covered in this section in 2022.
 
 Approximately half of that colossal sum was spent by the Department of
 Health and Human Services (HHS) alone—the belly of the massive behemoth that
 is the modern administrative state.
 
-HHS is home to Medicare and Medicaid, the principal drivers of our $31 trillion
+HHS is home to Medicare and Medicaid, the principal drivers of our USD31 trillion
 national debt. When Congress passed and President Lyndon B. Johnson signed
 into law these programs, they were set on autopilot with no plan for how to pay
 for them. The first year that Medicare spending was visible on the books was 1967.
 From that point on through 2020—according to the American Main Street Initia-
-tive’s analysis of official federal tallies—Medicare and Medicaid combined cost $17.8
-trillion, while our combined federal deficits over that same span were $17.9 trillion.
+tive’s analysis of official federal tallies—Medicare and Medicaid combined cost USD17.8
+trillion, while our combined federal deficits over that same span were USD17.9 trillion.
 In essence, our deficit problem is a Medicare and Medicaid problem.
 
 HHS is also home to the Centers for Disease Control and Prevention (CDC)
@@ -46,7 +46,7 @@ chimera experiments”—in which the genes of humans and animals are mixed, “
 gain-of-function viral research that may have been responsible for COVID-19.”
 Severino writes that “Anthony Fauci’s division of the NIH”—the National Institute
 of Allergy and Infectious Diseases—“owns half the patent for the Moderna COVID-
-19 vaccine,” and “several NIH employees” receive “up to $150,000 annually from
+19 vaccine,” and “several NIH employees” receive “up to USD150,000 annually from
 Moderna vaccine sales.” That would be the same experimental mRNA vaccine that
 the CDC now wants to force on children, who are at little to no risk from COVID-19
 but at great risk from public health officials.

@@ -52,7 +52,7 @@ CDC should report on the risks and effectiveness of all infectious disease-mitig
 
 ### Conflicts of Interest
 
-There was a time when the CDC could not take money from the pharmaceutical industry, but in 1992, the agency discovered a loophole in federal law that allowed it to accept pharma contributions through the nonprofit CDC Foundation. The money started flowing immediately: From 2014 through 2018, the CDC Foundation received $79.6 million from pharmaceutical corpo- rations like Pfizer, Biogen, and Merck.7 This practice presents a stark conflict of interest that should be banned.
+There was a time when the CDC could not take money from the pharmaceutical industry, but in 1992, the agency discovered a loophole in federal law that allowed it to accept pharma contributions through the nonprofit CDC Foundation. The money started flowing immediately: From 2014 through 2018, the CDC Foundation received USD79.6 million from pharmaceutical corpo- rations like Pfizer, Biogen, and Merck.7 This practice presents a stark conflict of interest that should be banned.
 
 
 

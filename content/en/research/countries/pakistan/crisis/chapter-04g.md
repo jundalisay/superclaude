@@ -85,11 +85,11 @@ These socio-economic transformations obscured the lopsided planning that was to:
 
 During 2000-2007, Pakistan's economy grew at an average of 6-7% a year, which made it one of the fastest growing Asian economies. 
 - The size of the economy doubled.
-- Per capita incomes increased from $527 in 2000 to $925 in 2007 (over $1,250 in 2009).
-- In Purchasing Power Parity terms, Pakistan's per capita GDP reached $3,000 per head of the population. 
+- Per capita incomes increased from USD527 in 2000 to USD925 in 2007 (over USD1,250 in 2009).
+- In Purchasing Power Parity terms, Pakistan's per capita GDP reached USD3,000 per head of the population. 
 - Exports doubled in dollar terms.
-- Foreign direct investment went up to a record $7 billion in 2006
-- Remittances hit an all time high at $7 billion in 2007.
+- Foreign direct investment went up to a record USD7 billion in 2006
+- Remittances hit an all time high at USD7 billion in 2007.
 
 The economic surge was also visible in urbanisation that rose to 35% by 2007. 
 
@@ -97,7 +97,7 @@ The urban population's contribution to GDP reached 3 quarters of the total and a
 
 This increased the numbers of the middle class. 
 
-By 2008, economists estimated that it had risen to around 30 million earning an estimated $10,000-$15,000 (in PPP terms), bigger than the population of 185 countries. This was endorsed by: 
+By 2008, economists estimated that it had risen to around 30 million earning an estimated USD10,000-USD15,000 (in PPP terms), bigger than the population of 185 countries. This was endorsed by: 
 - Ishrat Husain, the former governor of the State Bank
 - former World Bank Vice President Shahid Javed Burki.
 

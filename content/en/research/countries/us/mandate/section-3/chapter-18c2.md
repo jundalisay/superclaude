@@ -163,7 +163,7 @@ ment, and commerce can help American workers, entrepreneurs, and families.
 ### Budget
 
 Reduce the agencies’ budgets to the low end of the historical
-average. The Trump Administration’s FY 2020 request, $10.9 billion,
+average. The Trump Administration’s FY 2020 request, USD10.9 billion,
 would provide a workable target for spending reductions for DOL,
 for example.
 

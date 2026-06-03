@@ -22,7 +22,7 @@ He was:
 
 In a World Bank document outlining the conditionality of a Structural Adjustment Loan for Pakistan he wrote succinctly by hand:
 
-'I am not prepared to hand over the management of the Pakistan economy to the World Bank for $250 million'. 
+'I am not prepared to hand over the management of the Pakistan economy to the World Bank for USD250 million'. 
 
 That was the end of that discussion.
 
@@ -36,7 +36,7 @@ It must have been a blow to a hugely stubborn and proud man when Pakistan was fo
 
 The program was treated as a secret document with only one copy of the program conditionality kept under lock and key. Even secretaries of ministries and divisions were not called to the meetings with the IMF so they could not present their views, had no idea of what had been agreed to or what they had to implement. In any event, the IMF program was abandoned without completing it or undertaking any economic reforms of substance (apart from minor tinkering with the trade and import tariff regime and some cosmetic steps towards restructuring the public enterprise sector), one of the many IMF programs that would meet the same fate.
 
-The first signs of macroeconomic volatility seem to have started with the Benazir government. Her first tenure was labelled a 'comedy of errors'. There was some truth to that unflattering label despite the steadying hand of her experienced and able Advisor of Finance whom she, sadly, did not listen to often enough. Once again in economic distress, Pakistan entered into a major IMF program at the inception of her government. On a visit to Washington DC, the Managing Director of the IMF was so taken by her that he added $100 million with his own pen to the $1.2 billion the IMF staff had recommended for Pakistan. This was done on the understanding of cutting trade protection by 30 per cent while meeting a fiscal deficit target of 5 per cent of GDP. In the budget that followed, she did neither, bringing the IMF program to an ignominious halt.
+The first signs of macroeconomic volatility seem to have started with the Benazir government. Her first tenure was labelled a 'comedy of errors'. There was some truth to that unflattering label despite the steadying hand of her experienced and able Advisor of Finance whom she, sadly, did not listen to often enough. Once again in economic distress, Pakistan entered into a major IMF program at the inception of her government. On a visit to Washington DC, the Managing Director of the IMF was so taken by her that he added USD100 million with his own pen to the USD1.2 billion the IMF staff had recommended for Pakistan. This was done on the understanding of cutting trade protection by 30 per cent while meeting a fiscal deficit target of 5 per cent of GDP. In the budget that followed, she did neither, bringing the IMF program to an ignominious halt.
 
 Following much discussion and new commitments, the IMF program was re-started. Even then, economic growth was lackluster and volatile, fiscal 189slippages were routine and inflation picked up. Despite IMF resources there was constant pressure on the external accounts as manifest by the (growing) disparity between the parallel market for foreign exchange (or the 'hundi' rate) and the official market rate. This was because the budget was subject to extreme spending pressures since her weak mandate meant she had to please everyone. Budget supplmentaries (approvals for more spending not provided for in the original budget) became commonplace.
 
@@ -47,7 +47,7 @@ The disparity between the official and 'hundi' rate was also widening, as the Pr
 
 Nawaz Sharif is widely regarded as bringing about an economic revolution in Pakistan with his 'far-reaching' economic reforms. His 'no­ questions-asked' foreign currency deposits (FCDs) were a haven for tax evaders and under-filers—the scourge of Pakistan's economy—that could now 'whiten' their ill-gotten income with no taxation and no fear of detection. 
 
-With no foreign exchange reserve cover to back them up, these deposits quickly swelled to close to $12 billion, of which 80 per cent belonged to resident Pakistanis who had converted their ill-gotten wealth into dollar accounts with no fear of questions as to the source of this income. To add insult to injury to those who did pay taxes, these FCDs were handsomely 190remunerated at above-market rates, guaranteed against exchange risk and allowed unrestricted withdrawal facilities. These features and capital gains from exchange rate depreciation made the scheme a highly attractive instrument. 
+With no foreign exchange reserve cover to back them up, these deposits quickly swelled to close to USD12 billion, of which 80 per cent belonged to resident Pakistanis who had converted their ill-gotten wealth into dollar accounts with no fear of questions as to the source of this income. To add insult to injury to those who did pay taxes, these FCDs were handsomely 190remunerated at above-market rates, guaranteed against exchange risk and allowed unrestricted withdrawal facilities. These features and capital gains from exchange rate depreciation made the scheme a highly attractive instrument. 
 
 Since this was an age before concerns about 'money laundering' were openly talked about the IMF gave muted approval to this 'far-reaching' reform. However, as the IMF cautioned, an 'open capital account' (which incidentally inverted the sequence of external liberalisation since the current account should have been opened first) meant that economic policies would have to be especially disciplined so as not to shake the confidence of these holders of foreign exchange. The IMF also warned that the overhang of such foreign exchange demand liabilities, unmatched by parallel reserve accumulation, heightened the economy's vulnerability to downside risks and that bad policies or an adverse exogenous shock would quickly manifest itself in capital flight and bring the economy to its knees.
 
@@ -85,8 +85,8 @@ notable of which were motorways and airports (all financed by non-
 concessional external borrowing) with the piece de resistance being the
 yellow cab scheme. In short order, as rows of yellow cabs filled the
 parking lots at the Karachi Port, Pakistan's foreign exchange reserves
-started to dwindle with alarming speed until there was only $150 million
+started to dwindle with alarming speed until there was only USD150 million
 left in the kitty (equivalent to about a day's worth of imports) against
-foreign exchange demand liabilities of $12 billion. Once again Pakistan
+foreign exchange demand liabilities of USD12 billion. Once again Pakistan
 turned to the IMF to bail it out.
 

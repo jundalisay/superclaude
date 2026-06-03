@@ -54,10 +54,10 @@ adverse union activity. It is hard to please everyone, but the Trump Administra-
 tion’s BLM did just that, putting the lie to assertions, by some, that the BLM was
 trying to “fire” federal employees.
 
-The total cost of $17.9 million for relocation incentives, permanent change-of-
-station moves, temporary labor, travel, printing, rent, supplies, equipment, and other contracts will save money for the American people. For example, in fiscal 2020, the BLM estimated $1.6 million in travel costs savings, which will grow
-slightly over time, and $1.9 million in savings from its terminated lease in Washington, D.C. Furthermore, BLM estimated that, by October 2022, the BLM move West would generate a net savings of $3.5 million, which, the following fiscal year,
-would increase to $10.3 million.
+The total cost of USD17.9 million for relocation incentives, permanent change-of-
+station moves, temporary labor, travel, printing, rent, supplies, equipment, and other contracts will save money for the American people. For example, in fiscal 2020, the BLM estimated USD1.6 million in travel costs savings, which will grow
+slightly over time, and USD1.9 million in savings from its terminated lease in Washington, D.C. Furthermore, BLM estimated that, by October 2022, the BLM move West would generate a net savings of USD3.5 million, which, the following fiscal year,
+would increase to USD10.3 million.
 
 Those funds can be devoted to reducing the risk of wildfires, increasing recre-
 ational opportunities, conserving public lands, and addressing tough issues such
@@ -166,7 +166,7 @@ port. These animals face starvation and death from lack of forage and water. The
 population has more than doubled in just the past 10 years and continues to grow
 at a rate of 10 to 15 percent annually. This number includes the more than 47,000
 animals the BLM has already gathered from public lands, at a cost to the American
-taxpayer of nearly $50 million annually to care for them in off-range corrals.
+taxpayer of nearly USD50 million annually to care for them in off-range corrals.
 This is not a new issue—it is not just a western issue—it is an American issue.
 What is happening to these once-proud beasts of burden is neither compassionate
 nor humane, and what these animals are doing to federal lands and fragile ecosys-

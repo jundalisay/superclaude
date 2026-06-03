@@ -136,7 +136,7 @@ normal appropriations.
 ### Budget
 
 In FY 2022, the NRC was required to recover approximately 85 percent of its
-$887.7 million budget through licensee fees.133 The Nuclear Energy Innovation
+USD887.7 million budget through licensee fees.133 The Nuclear Energy Innovation
 and Modernization Act requires the NRC to recover nearly all of its costs through
 fees. These reforms would likely not cost additional money but could rebalance
 the fee-versus-appropriations calculation.

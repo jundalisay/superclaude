@@ -180,7 +180,7 @@ Develop a new approach that increases the level of private-sector
 responsibility for the disposal of nuclear waste. Disposing of civilian
 nuclear waste is an important national issue that requires strong scientific
 study. According to an independent audit conducted by the public
-accounting firm of KPMG, the Nuclear Waste Fund holds $46 billion in
+accounting firm of KPMG, the Nuclear Waste Fund holds USD46 billion in
 payments by utilities and their ratepayers, plus interest, for a permanent
 waste disposal site for spent nuclear fuel and other nuclear waste.14 The
 
@@ -188,7 +188,7 @@ Cleaning up the radioactive waste produced in support of the Manhattan Project
 and the Cold War at America’s nuclear development sites is a massive and com-
 plicated process led by DOE’s Office of Environmental Management. Projected
 liabilities and costs to be borne by America’s taxpayers, according to DOE’s FY
-2023 budget request, total $887,205 billion.13 In addition, the federal government is
+2023 budget request, total USD887,205 billion.13 In addition, the federal government is
 required by law to dispose of nuclear waste produced by the private sector, includ-
 ing spent fuel rods from nuclear power plants. The new DESAS should:
 licensing process for Yucca Mountain as a permanent repository for spent
@@ -220,7 +220,7 @@ like those involving Iran and the United Nations.
 Budget
 
 DOE’s total FY 2023 budget request (which does not include IIJA, IRA, and CHIPS
-and Science Act funding) was for $48,183,451,000.16 Many DOE activities are required
+and Science Act funding) was for USD48,183,451,000.16 Many DOE activities are required
 by various authorization and appropriations bills. To implement many of the policies
 contained in these proposals, several laws will need to be amended, including the
 Department of Energy Organization Act, IIJA, IRA, and possibly portions of the

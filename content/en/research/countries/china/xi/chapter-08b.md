@@ -147,7 +147,7 @@ integration of manufacturing, and the development prospects are very broad.
 
 #### 4. China has a domestic market with huge potential, and the resilience and room for maneuver of the economy are large
 
-In 2019, China's per capita GDP exceeded $10,000, which is at the level of upper-middle-income countries according to the World Bank's criteria. 
+In 2019, China's per capita GDP exceeded USD10,000, which is at the level of upper-middle-income countries according to the World Bank's criteria. 
 
 At present, there are more than 400 million middle-income groups in China, which is the world's largest and most growing
 middle-income group, with huge consumption potential.

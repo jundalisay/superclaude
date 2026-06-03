@@ -72,6 +72,17 @@ Shallow thinkers tend to decry even those of solid understanding, abstruse think
 
 This is a self-defense measure to keep Islam intact amidst all the rival philosophies going around. **The best solution is not to attack Islam and to let Muslims get the good and bad consequences of their beliefs.** 
 
+
+In other words, **leave them alone**.  
+
+This is now the current policy of the West in Afghanistan. 
+- Our suggested policy was for NATO to stay there for 80 years if they were really sincere in helping Afghans. 
+- But NATO was not sincere and they left Afghanistan after just 20 years, only 1/4 of the minimum time needed.
+
+{{< i s="/photos/medieval/sentinelese.jpg" a="Sentinelese" c="Leaving people alone is an effective strategy when those people have an opposite vibration and you don't have the desire to harmonize with them" >}}
+
+
+
 <!-- ![Chart of terrorist groups](https://socioecons.files.wordpress.com/2016/01/navanti_infographic_2014-2.jpg) -->
 
 

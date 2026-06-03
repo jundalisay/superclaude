@@ -78,9 +78,9 @@ shirts and trousers its exports could surge. Pakistan produces twelve million
 bales of cotton each year. Each bale contains 480 pounds of cotton. The
 production of one shirt and trouser combined consumes approximately
 two pounds of cotton. If Pakistan produced nothing but shirts and trousers,
-and sold one trouser and one shirt collectively for $25 in the international
-market, then, Pakistan could earn $72 billion in export earnings each year.
-Pakistan's current textile and apparel exports are $10 billion. A textile
+and sold one trouser and one shirt collectively for USD25 in the international
+market, then, Pakistan could earn USD72 billion in export earnings each year.
+Pakistan's current textile and apparel exports are USD10 billion. A textile
 strategy which encourages value addition, could therefore transform
 Pakistan's economic landscape.
 
@@ -187,7 +187,7 @@ and the absence of a skilled worked force with the tool kit for setting up a
 successful small business. Wherever such initiatives are underway, they suffer
 from limited funding, uneven and insufficient government support and lack of
 coordination. If properly harnessed, small enterprises have the ability to
-increase the per capita income to a level of US $10,000 in the next ten years.
+increase the per capita income to a level of US USD10,000 in the next ten years.
 Whilst an institutional network exists, some of the key initiatives
 that need further capacity and focus are as follows. First, set up and fund
 training programs for small businesses in vocational schools and

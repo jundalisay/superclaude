@@ -64,7 +64,7 @@ During the last 160 years, the scope of the USDA’s work has expanded well beyo
 
 In addition to being a distributor of farm subsidies, the USDA runs the food stamp program and other food-related welfare programs and covers issues including conservation, biofuels, forestry, and rural programs.
 
-Based on the USDA’s fiscal year (FY) 2023 budget summary, outlays are esti- mated at $261 billion: $221 billion for mandatory programs and $39 billion for discretionary programs.6 These outlays are broken down as follows: nutrition assistance (70%); farm, conservation, and commodity programs (14 percent); “all other,” which includes rural development, research, food safety, marketing and regulatory, and departmental management (11 percent); and forestry (5 percent).
+Based on the USDA’s fiscal year (FY) 2023 budget summary, outlays are esti- mated at USD261 billion: USD221 billion for mandatory programs and USD39 billion for discretionary programs.6 These outlays are broken down as follows: nutrition assistance (70%); farm, conservation, and commodity programs (14 percent); “all other,” which includes rural development, research, food safety, marketing and regulatory, and departmental management (11 percent); and forestry (5 percent).
 
 The USDA has provided a summary of its size, explaining, “Today, USDA is com- prised of 29 agencies organized under eight Mission Areas and 16 Staff Offices, with nearly 100,000 employees serving the American people at more than 6,000 locations across the country and abroad.”8
 
@@ -101,7 +101,7 @@ The Biden Administration’s vision of a federal government developing a plan th
 
 A recent USDA-created program captures both the disrespect for American farmers and the Biden Administration’s effort to dictate agricultural practices.
 
-The USDA explained that it was concerned with farmers not transitioning to organic farming, and therefore announced that it will dedicate $300 million to induce farmers to adopt organic farming.15 There was no recognition that farmers know how to farm better than D.C. politicians16 or a that organic food is expensive and land-intensive.18 The Biden Administration has also been pushing so-called “climate-smart”19 agricultural practices which received additional support in the partisan Inflation Reduction Act.
+The USDA explained that it was concerned with farmers not transitioning to organic farming, and therefore announced that it will dedicate USD300 million to induce farmers to adopt organic farming.15 There was no recognition that farmers know how to farm better than D.C. politicians16 or a that organic food is expensive and land-intensive.18 The Biden Administration has also been pushing so-called “climate-smart”19 agricultural practices which received additional support in the partisan Inflation Reduction Act.
 
 American agriculture should not need defending. According to the USDA’s latest data, farm output nearly tripled (a 175 percent increase) from 1948 to 2019, while the amount of land farmed decreased. 
 

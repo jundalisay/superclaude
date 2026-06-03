@@ -14,18 +14,18 @@ Most importantly, a multilateral approach to dollar adjustment will only work if
 
 In contrast to the period of the Plaza Accord, most currency reserves these days reside in the hands of our Middle Eastern and Asian trading partners, not our European ones.
 
-Combined forex reserves in the Eurozone are approximately $280 billion.
+Combined forex reserves in the Eurozone are approximately USD280 billion.
 
-Switzerland has an additional ~$800 billion. 
+Switzerland has an additional ~USD800 billion. 
 
 By contrast:
-- China has $3 trillion in official reserves (though unofficial reserves are likely much higher given the state-owned nature  of the Chinese economy).
-- Japan has $1.2 trillion
-- India $600 billion
-- Taiwan $560 billion
-- Saudi Arabia $450 billion
-- Korea $420 billion
-- Singapore $350 billion.
+- China has USD3 trillion in official reserves (though unofficial reserves are likely much higher given the state-owned nature  of the Chinese economy).
+- Japan has USD1.2 trillion
+- India USD600 billion
+- Taiwan USD560 billion
+- Saudi Arabia USD450 billion
+- Korea USD420 billion
+- Singapore USD350 billion.
 
 Most of the dollars available to be sold by governments are in the hands of Middle Eastern and East Asian governments.
 

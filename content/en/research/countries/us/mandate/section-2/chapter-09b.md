@@ -85,7 +85,7 @@ not to perform or actively promote abortions as a method of family planning in
 foreign countries. Previous pro-life Presidents beginning with Ronald Reagan
 applied these conditions to family planning assistance, but President Trump for
 the first time expanded the Mexico City Policy to protect “global health assistance
-furnished by all departments or agencies” (estimated to be $8.8 billion annually).
+furnished by all departments or agencies” (estimated to be USD8.8 billion annually).
 The Biden Administration restored abortion subsidies to pro-abortion NGOs
 including Planned Parenthood International and MSI Reproductive Choices. In
 reversing PLGHA, Biden declared a radical assault on the policy of protecting life,
@@ -139,7 +139,7 @@ International Religious Freedom. Conservatives believe international
 religious freedom is central to USAID’s development efforts. President Trump’s
 Executive Order 13926 on “Advancing International Religious Freedom”13
 instructed the Secretary of State, in consultation with the USAID Administrator,
-to budget at least $50 million a year for programs that advance international reli-
+to budget at least USD50 million a year for programs that advance international reli-
 gious freedom and “ensure that faith-based and religious entities, including eligible
 entities in foreign countries, are not discriminated against on the basis of religious
 identity or religious belief when competing for Federal funding.”

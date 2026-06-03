@@ -150,9 +150,9 @@ and firms adjust their behavior to avoid the tax burden.
 Because marginal rates are already much higher on labor and capital income than they are on imports, the economic
 consequences of an increase in tariff rates might well be less problematic than an increase in income or corporate
 rates. For instance, Saez, Slemrod and Giertz (2012) provide a benchmark for what economists call the “marginal
-excess burden” of raising a further $1 of revenue. They calculate that the marginal excess burden is equal to 38%
+excess burden” of raising a further USD1 of revenue. They calculate that the marginal excess burden is equal to 38%
 of revenue raised. To understand what this means, go back to the example of labor supply: when the government
-chooses to extract $1 from the worker’s salary, she reduces her work by an additional amount worth a total of 38c,
+chooses to extract USD1 from the worker’s salary, she reduces her work by an additional amount worth a total of 38c,
 net of the increased leisure she enjoys and revenue collected.
 
 By contrast, trade economists argue that for a large economy, imposing a positive tariff level is modestly welfareenhancing, up to a point. Classically, modest tariffs can improve welfare because reduced demand from the tariffimposing country depresses prices of the imported goods.14 While the tariff produces distortionary welfare losses due to reduced imports and more expensive home production, up to a point, those losses are dominated by the gains that result from the lower prices of imports. Once import reduction becomes sufficiently large, the benefits from lower prices of imports cease to outweigh the costs, and the tariff reduces welfare. That tariffs initially increase and then subsequently decrease welfare implies an “optimal” tariff rate, at which point the country has reaped all possible benefit from tariffs and a higher tariff rate reduces welfare.
@@ -205,7 +205,7 @@ Trump will view tariffs as effective taxes on foreigners to pay for retaining lo
 
 The reduced personal income tax rates introduced by the Tax Cuts and Jobs Act will expire in 2026.
 
-Extending them will need a $5 trillion of new revenue or debt over 10 years.
+Extending them will need a USD5 trillion of new revenue or debt over 10 years.
 
 **Tariffs are the answer for extending the tax cuts.** *
 

@@ -83,7 +83,7 @@ DOD FOREIGN MILITARY SALES
 
 The United States must regain its role as the “Arsenal of Democracy.” In fiscal
 year (FY) 2021, U.S. government foreign military sales (FMS) nosedived to a low of
-$34.8 billion from a record high of $55.7 billion in FY 2018.8 
+USD34.8 billion from a record high of USD55.7 billion in FY 2018.8 
 
 This decrease hinders
 interoperability with partners and allies, decreases defense industrial base capac-

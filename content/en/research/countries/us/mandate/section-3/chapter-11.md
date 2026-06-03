@@ -80,11 +80,11 @@ low-income children and lower-income college students.
 
 Spending on ESEA and the HEA—part of Johnson’s “War on Poverty”—grew
 exponentially in the years that followed. By Fiscal Year 2022, ESEA programs
-received $27.7 billion in appropriations, in addition to $190 billion that came through the pandemic’s Elementary and Secondary Schools Emergency Relief
+received USD27.7 billion in appropriations, in addition to USD190 billion that came through the pandemic’s Elementary and Secondary Schools Emergency Relief
 (ESSER) Funds,4 which relied on ESEA formulas. The same year, the department
-spent more than $2 billion just to administer Title IV of the HEA, which authorizes
-federal student loans and Pell grants. It provided $22.5 billion in Pell grants, and
-it oversaw outlays of close to $100 billion in direct student loans.
+spent more than USD2 billion just to administer Title IV of the HEA, which authorizes
+federal student loans and Pell grants. It provided USD22.5 billion in Pell grants, and
+it oversaw outlays of close to USD100 billion in direct student loans.
 
 Since 1965, Congress has continued to layer on dozens of new laws and programs as federal “solutions” to myriad education problems. In 1973, it passed the
 Rehabilitation Act,5 and, in 1975, the Individuals with Disabilities Education Act
@@ -114,7 +114,7 @@ higher education lobby have leveraged the agency to continuously expand federal
 expenditures—a desirable funding stream from their vantage point because federal
 budgets are not constrained like state and local budgets that must be balanced each
 year. By FY 2022, the department’s discretionary and mandatory appropriation
-topped $80 billion, not including student loan outlays. Each of its programs has
+topped USD80 billion, not including student loan outlays. Each of its programs has
 attendant federal strings and red tape.
 
 One recent example is the Biden Administration’s requirement that state educa-

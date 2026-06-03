@@ -80,7 +80,7 @@ to withdraw the Medicaid guidance (and any Section 1115 waivers issued
 thereunder) and for DOJ OLC to withdraw and disavow its interpretation of
 the Hyde Amendment.
 
-Prohibit Planned Parenthood from receiving Medicaid funds. During the 2020–2021 reporting period, Planned Parenthood performed more than 383,000 abortions.46 The national organization reported more than $133 million in excess revenue47 and more than $2.1 billion in net assets.48 During this same year, Planned Parenthood reports that its affiliates received more than $633 million in government funding and more than $579 million in private contributions.49 Planned Parenthood affiliates face accusations of waste, abuse and potential fraud with taxpayer dollars, failure to report the sexual abuse of minor girls, and allegations of profiting from the sale of organs from aborted babies.
+Prohibit Planned Parenthood from receiving Medicaid funds. During the 2020–2021 reporting period, Planned Parenthood performed more than 383,000 abortions.46 The national organization reported more than USD133 million in excess revenue47 and more than USD2.1 billion in net assets.48 During this same year, Planned Parenthood reports that its affiliates received more than USD633 million in government funding and more than USD579 million in private contributions.49 Planned Parenthood affiliates face accusations of waste, abuse and potential fraud with taxpayer dollars, failure to report the sexual abuse of minor girls, and allegations of profiting from the sale of organs from aborted babies.
 
 Policymakers should end taxpayer funding of Planned Parenthood and
 all other abortion providers and redirect funding to health centers that
@@ -105,7 +105,7 @@ Weldon Amendment51 declares that no HHS funding may go to a state
 or local government that discriminates against pro-life health entities
 or insurers. In blatant violation of this law, seven states require abortion
 coverage in private health insurance plans, and HHS continues to fund
-those states. HHS under President Trump disallowed $200 million in
+those states. HHS under President Trump disallowed USD200 million in
 Medicaid funding from California because of the state’s flouting of the law,
 but the Biden Administration restored it.
 
@@ -145,7 +145,7 @@ cannot pay by sending them to other hospitals. It also mandates that
 hospitals stabilize pregnant women and explicitly protects unborn children.
 Hospitals or physicians found to be in violation of the statute could lose
 all of their federal health funding—Medicare, Medicaid, CHIP, and other
-funds—and face civil penalties of up to nearly $120,000.
+funds—and face civil penalties of up to nearly USD120,000.
 
 In July 2022, HHS/CMS released guidance mandating that EMTALA-
 covered hospitals and the physicians who work there must perform

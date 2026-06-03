@@ -93,7 +93,7 @@ Finally, USCIS still requires access to all relevant national security and law e
 ## Budget
 
 USCIS is primarily fee-funded, operating on revenue derived by those who are seeking immigration benefits, work permits, and naturalization. The total agency
-budget requested for fiscal year (FY) 2023, including both fees and a small appropriation, is slightly less than $6 billion.8 The bulk of funds are derived from application fees through the Immigrant Examinations Fee Account. 
+budget requested for fiscal year (FY) 2023, including both fees and a small appropriation, is slightly less than USD6 billion.8 The bulk of funds are derived from application fees through the Immigrant Examinations Fee Account. 
 
 As a general principle, adjudication of applications and petitions should be paid by applicants, not American taxpayers. It is critical that any changes in the budget, even in the wake of a realigned agency combined with ICE and CBP, should retain a fee-funded model.
 

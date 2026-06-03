@@ -40,7 +40,7 @@ to follow the law and use energy efficiently and cost-effectively.
 
 Budget
 
-FEMP was funded at $40 million in FY 2022,65 and slightly less than $170 mil-
+FEMP was funded at USD40 million in FY 2022,65 and slightly less than USD170 mil-
 lion is requested for FY 2023.66 If it is focused on helping the federal government
 to carry out its statutorily based energy goal, much less money is needed.
 CLEAN ENERGY CORPS
@@ -48,7 +48,7 @@ CLEAN ENERGY CORPS
 Mission/Overview
 
 Under the IIJA, “the Clean Energy Corps is charged with investing more than
-$62 billion to deliver a more equitable clean energy future for the American peo-
+USD62 billion to deliver a more equitable clean energy future for the American peo-
 ple[.]”67 The Corps says that it will “focus on deploying next generation clean energy
 technology” to “help America meet its goals of a carbon-free power sector in 2035
 and a decarbonized economy in 2050.”68
@@ -144,8 +144,8 @@ that is helpful to policymakers and the private sector.
 
 Budget
 
-Congress appropriated $126.8 million for EIA in FY 2021, and the FY 2023
-budget request is for approximately $144.5 million.73
+Congress appropriated USD126.8 million for EIA in FY 2021, and the FY 2023
+budget request is for approximately USD144.5 million.73
 
 
 ## OFFICE OF INTERNATIONAL AFFAIRS (IA)

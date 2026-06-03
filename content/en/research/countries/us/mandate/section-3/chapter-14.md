@@ -15,7 +15,7 @@ HHS consists of 11 operating divisions that have varying degrees of practical in
 <!-- This chapter’s recommendations are limited to those divisions that most need reform and address,
 wherever possible, five cross-cutting goals. -->
 
-If the U.S. Department of Health and Human Services (HHS) were a separate country, its approximately $1.6 trillion budget would rank as the world’s fifth-largest
+If the U.S. Department of Health and Human Services (HHS) were a separate country, its approximately USD1.6 trillion budget would rank as the world’s fifth-largest
 national budget. For good or ill, HHS activities personally impact the lives of more
 Americans than do those of any other federal agency. Under President Trump, HHS
 was dedicated to serving “all Americans from conception to natural death, including

@@ -126,43 +126,34 @@ political appointees met resistance from senior career officials when insisting
 that foreign-based journalists in high-risk countries make their locations known
 to the agency in the event they required rescue, extraction, or safe housing. 
 
-Such safety measures, argued career officials, would somehow represent a violation of journalistic independence. With only rare exceptions, resistance to the most basic journalist safety measures was the knee-jerk response from USAGM career officials. Wasting Taxpayer Dollars. The USAGM’S current operations, properly man- aged, can be conducted on less than $700 million per year. Prior to the arrival of President Donald Trump’s appointees in June 2020, budgeting, financial responsi- bility, and spending totaled over $800 million per year, with virtually no oversight or supervision. Waste, unnecessary spending, nepotism for pet projects, redundant programs, and unnecessary hiring abounded.
+Such safety measures, argued career officials, would somehow represent a violation of journalistic independence. With only rare exceptions, resistance to the most basic journalist safety measures was the knee-jerk response from USAGM career officials. Wasting Taxpayer Dollars. 
+
+The USAGM’S current operations, properly man- aged, can be conducted on less than USD700 million per year. Prior to the arrival of President Donald Trump's appointees in June 2020, budgeting, financial responsibility, and spending totaled over USD800 million per year, with virtually no oversight or supervision. Waste, unnecessary spending, nepotism for pet projects, redundant programs, and unnecessary hiring abounded.
 
 
 ### Consolidation and Reduction of Redundant Services. 
 
-Currently, the USAGM
-funds numerous redundant services through its own offices, through Voice of Amer-
-ica and the Office of Cuba Broadcasting, and through its grantees. For example, VOA
-has a Mandarin-language service but also funds redundant services through Radio
-Free Asia. VOA also has a Farsi-language service that duplicates one funded through
-Radio Free Europe/Radio Liberty. Surplus services in the same languages are often
+Currently, the USAGM funds numerous redundant services through its own offices, through Voice of America and the Office of Cuba Broadcasting, and through its grantees. For example, VOA
+has a Mandarin-language service but also funds redundant services through Radio Free Asia.
+
+VOA also has a Farsi-language service that duplicates one funded through Radio Free Europe/Radio Liberty. Surplus services in the same languages are often
 unnecessary and counterproductive. Fiscal responsibility and transparency should
 return to the USAGM, with consolidation being a cornerstone of the strategy.
-As noted previously, the Open Technology Fund duplicates activities that
-already existed at the USAGM in the Office of Internet Freedom.
 
-Numerous career
-whistleblowers came forward to sound the alarm to President Trump’s USAGM
-political team about OTF’s abuse and overreach.36 Its opaque, expensive, and
-unnecessary usurpation of an existing USAGM office is an egregious example of
-government waste and illustrates the general disdain for U.S. taxpayers that is rife
-within this agency. Full reinstatement of OIF would allow full agency and congres-
-sional oversight into how so-called “Internet freedom” money is being spent.37
-J-1 Visa Program Abuses. Rather than use the appropriate I visa38 intended
-for foreign journalists, the USAGM uses the J-1 “cultural exchange” visas to allow
-foreign nationals to transition easily into jobs that American citizens with cul-
-tural and linguistic expertise could satisfy. The J-1 visa is intended for cultural and
-academic exchange programs, among others—none of which include journalism.39
-Additionally, J-1 visas are meant for non-immigrant temporary exchanges. The
-USAGM’s J-1 visa holders often go on to apply for permanent residency, which
-violates the intention of this visa.
+The Open Technology Fund duplicates activities that already existed at the USAGM in the Office of Internet Freedom.
 
-Shortwave Transmission Upgrades and Improvements. Non-web-based
-technologies that are proven and durable, such as shortwave radio transmission
-stations, have been grossly deemphasized in budgeting in favor of newer web-
-based technologies. This move is dangerously short-sighted and puts the U.S. at a
-perilous strategic disadvantage in the event of a major conflict, particularly with
+Numerous career whistleblowers came forward to sound the alarm to President Trump’s USAGM political team about OTF’s abuse and overreach.36 Its opaque, expensive, and unnecessary usurpation of an existing USAGM office is an egregious example of government waste and illustrates the general disdain for U.S. taxpayers that is rife within this agency. Full reinstatement of OIF would allow full agency and congres- sional oversight into how so-called “Internet freedom” money is being spent.37
+
+J-1 Visa Program Abuses. Rather than use the appropriate I visa38 intended for foreign journalists, the USAGM uses the J-1 “cultural exchange” visas to allow
+foreign nationals to transition easily into jobs that American citizens with cultural and linguistic expertise could satisfy. The J-1 visa is intended for cultural and
+academic exchange programs, among others—none of which include journalism.39 
+
+Additionally, J-1 visas are meant for non-immigrant temporary exchanges. The USAGM’s J-1 visa holders often go on to apply for permanent residency, which
+violates the intention of this visa. 
+
+Shortwave Transmission Upgrades and Improvements. Non-web-based technologies that are proven and durable, such as shortwave radio transmission stations, have been grossly deemphasized in budgeting in favor of newer web-based technologies. 
+
+This move is dangerously short-sighted and puts the U.S. at a perilous strategic disadvantage in the event of a major conflict, particularly with
 Russia or China.
 
 There is great concern about the vulnerability of undersea cable trunks that

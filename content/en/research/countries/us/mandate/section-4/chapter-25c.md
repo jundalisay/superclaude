@@ -86,7 +86,7 @@ development (R/R&D) in excess of the expenditures established in sections 9(f )
 and 9(n) of the Small Business Act.”56 The SBIR and STTR Extension Act of 2022
 extended these programs from September 30, 2022, through September 30, 2025.57
 SBIR requires that 3.2 percent of spending by agencies with extramural R&D
-budgets of $100 million or more must be directed to small businesses. STTR allo-
+budgets of USD100 million or more must be directed to small businesses. STTR allo-
 cates 0.45 percent of federal research spending to small firms.58 Research has shown
 that this small portion of federal R&D spending is disproportionately effective.59
 The SBIR program has consistently demonstrated its ability to fund advanced
@@ -118,7 +118,7 @@ For many technologies, the American economy lacks the capacity to “scale up”
 
 In this way, foreign companies and foreign productive sites buy and implement taxpayer-funded American technologies. The SBA’s existing programs should be reformed to expand the private market for capital in small-manufacturer expansion. The next Administration should:
 
-Ask Congress to make available a category of Section 7(a) loans with a larger available principal that is used to finance manufacturing facility construction and equipment upgrading. The proposed SBA Reauthorization and Improvement Act of 2019, for example, would have increased the maximum loan principal to $50 million for advanced manufacturing construction and upgrading.64 The Section 7(a) loan program operates through private lenders and guarantees a portion of private-sector loans made to qualifying small businesses. The maximum principal available is $5 million, but small businesses in capital-intensive sectors require significantly larger amounts of capital to finance up-front capital costs.
+Ask Congress to make available a category of Section 7(a) loans with a larger available principal that is used to finance manufacturing facility construction and equipment upgrading. The proposed SBA Reauthorization and Improvement Act of 2019, for example, would have increased the maximum loan principal to USD50 million for advanced manufacturing construction and upgrading.64 The Section 7(a) loan program operates through private lenders and guarantees a portion of private-sector loans made to qualifying small businesses. The maximum principal available is USD5 million, but small businesses in capital-intensive sectors require significantly larger amounts of capital to finance up-front capital costs.
 
 Reform the Small Business Investment Company (SBIC) program to refocus its support on small businesses rather than technology startups only. The SBIC program operates through private venture capital and private equity funds by providing eligible funds with guaranteed debt financing to support investments in small businesses. However, the program largely duplicates private-sector venture capital to the extent that the sector receiving much of its support is software and information technology, which already receive the lion’s share of venture capital investment.65 In addition, Congress should reform the SBIC program to make its financing more favorable to capital-intense investments and small manufacturers. The Health, Economic Assistance, Liability Protection, and Schools (HEALS) Act, introduced in 2020,66 and American Innovation and Manufacturing Act, introduced in 2021,67 would allow SBIC to offer longer-term financing to manufacturers and make the program more fiscally sustainable.
 

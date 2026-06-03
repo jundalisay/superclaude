@@ -16,7 +16,7 @@ In terms of implementation, there are two meaningful avenues for doing so: the f
 particularly its Exchange Stabilization Fund. 
 
 The President can direct the Treasury Secretary to use the ESF as
-he sees fit. However, the ESF is of limited size: its total net position is less than $40 billion, of which $10 billion is already invested in foreign currency instruments.22
+he sees fit. However, the ESF is of limited size: its total net position is less than USD40 billion, of which USD10 billion is already invested in foreign currency instruments.22
 
 The ESF can leverage itself,23 but at the risk of increasing the interest burden of the Federal government. Whatever
 foreign assets the ESF buys will of course yield something, but in the current global economy, its assets will almost
@@ -52,8 +52,8 @@ from that central bank and offers a relatively low yield. Since increasing money
 
 Alternatively, a reserve fund can buy assets, like longer-term foreign government debt, or other assets,
 but that exposes taxpayers to credit or other forms of risk.
-If the Fed prints $1 trillion and uses it to buy European, Japanese and Chinese debt to support the major foreign
-currencies, that becomes $1 trillion at risk should a foreign government restructure its obligations, devalue its own
+If the Fed prints USD1 trillion and uses it to buy European, Japanese and Chinese debt to support the major foreign
+currencies, that becomes USD1 trillion at risk should a foreign government restructure its obligations, devalue its own
 currency, or experience some other form of crisis.
 
 China has repudiated its debt in the past, and the Eurozone is

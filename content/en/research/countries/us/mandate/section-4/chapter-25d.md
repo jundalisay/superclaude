@@ -154,7 +154,7 @@ development (R/R&D) in excess of the expenditures established in sections 9(f )
 and 9(n) of the Small Business Act.”56 The SBIR and STTR Extension Act of 2022
 extended these programs from September 30, 2022, through September 30, 2025.57
 SBIR requires that 3.2 percent of spending by agencies with extramural R&D
-budgets of $100 million or more must be directed to small businesses. STTR allo-
+budgets of USD100 million or more must be directed to small businesses. STTR allo-
 cates 0.45 percent of federal research spending to small firms.58 Research has shown
 that this small portion of federal R&D spending is disproportionately effective.59
 The SBIR program has consistently demonstrated its ability to fund advanced
@@ -195,11 +195,11 @@ Ask Congress to make available a category of Section 7(a) loans with
 a larger available principal that is used to finance manufacturing
 facility construction and equipment upgrading. The proposed SBA
 Reauthorization and Improvement Act of 2019, for example, would
-have increased the maximum loan principal to $50 million for advanced
+have increased the maximum loan principal to USD50 million for advanced
 manufacturing construction and upgrading.64 The Section 7(a) loan
 program operates through private lenders and guarantees a portion of
 private-sector loans made to qualifying small businesses. The maximum
-principal available is $5 million, but small businesses in capital-intensive
+principal available is USD5 million, but small businesses in capital-intensive
 sectors require significantly larger amounts of capital to finance up-front
 capital costs.
 
@@ -285,7 +285,7 @@ The position of Administrator should not be considered a symbolic or messaging-r
 
 ### Budget
 
-The next Administration should undertake a comprehensive review of the effectiveness of its various loan and grant programs and provide a report to Congress within six months. The report should rank programs by cost-effective- ness. In the interim, the roughly $1 billion overall agency budget should be held constant until the report is considered, after which Congress should terminate ineffective programs, consolidate duplicative functions, and reallocate resources to more effective programs (such as the Office of Advocacy) or consider reducing the SBA budget.
+The next Administration should undertake a comprehensive review of the effectiveness of its various loan and grant programs and provide a report to Congress within six months. The report should rank programs by cost-effective- ness. In the interim, the roughly USD1 billion overall agency budget should be held constant until the report is considered, after which Congress should terminate ineffective programs, consolidate duplicative functions, and reallocate resources to more effective programs (such as the Office of Advocacy) or consider reducing the SBA budget.
 
 
 ### Personnel Challenges

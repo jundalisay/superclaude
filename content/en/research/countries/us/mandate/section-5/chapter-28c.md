@@ -24,13 +24,13 @@ by foreign adversarial governments, including the governments of China, Russia, 
 
 ### Fully fund the federal “rip and replace” program
 
-In 2019, Congress established a $1.9 billion Secure and Trusted Communications Networks
+In 2019, Congress established a USD1.9 billion Secure and Trusted Communications Networks
 Reimbursement Program (known colloquially as the “rip and replace”
 program) to reimburse communications providers for the reasonable
 expenses they would incur to remove, replace, and dispose of insecure
 Huawei and ZTE gear. 
 
-However, $1.9 billion is about $3 billion short of the
+However, USD1.9 billion is about USD3 billion short of the
 total amount of funding needed to complete the rip and replace process. A
 new Administration should ensure that the program is fully funded and
 should look first at repurposing and applying unused COVID-era emergency
@@ -158,7 +158,7 @@ departments and agencies that are administering broadband infrastructure
 funds to direct those resources to communities without adequate
 Internet infrastructure instead of to places that already enjoy broadband
 connectivity. Take, for example, the final rules that the Treasury
-Department adopted in 2022 that govern the expenditure of $350 billion
+Department adopted in 2022 that govern the expenditure of USD350 billion
 in ARPA funds. Rather than directing those dollars to the rural and
 other communities that have no Internet infrastructure, the current
 

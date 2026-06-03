@@ -45,7 +45,7 @@ A 2% immigration rate means that this number will grow by over half in the next 
 
 These unprecedented levels of urbanisation present challenges but can also bring opportunities as vast numbers of people can have access to information, services, communication facilities as well as standards of living which do not exist in the rural areas.
 
-Official estimates of new infrastructure requirements in terms of ports, railroads, hospitals, schools, low income housing and energy are approximately $30 billion in the next five years just to sustain current levels of growth.
+Official estimates of new infrastructure requirements in terms of ports, railroads, hospitals, schools, low income housing and energy are approximately USD30 billion in the next five years just to sustain current levels of growth.
 
 So there is a dual problem: the current infrastructure is inadequate and future growth is burdened by lack of resources and poor planning. 
 

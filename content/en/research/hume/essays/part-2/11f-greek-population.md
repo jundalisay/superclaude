@@ -17,15 +17,16 @@ The more I look into this, the more I doubt the great populousness of the ancien
 
 Plato says:
 
-{{< q >}}
+{{< q a="Plato" >}}
 Athens was the greatest of all the Greek cities, except Syracuse, which was nearly about the same size in Thucydides’s time, and afterwards encreased beyond it. 
 {{< /q >}}
+
 
 Cicero mentions Athens as the greatest of all the Greek cities in his time, excluding Antioch or Alexandria. 
 
 Athenæus says:
 
-{{< q >}}
+{{< q a="Athenaeus" >}}
 Demetrius Phalereus estimated 21,000 citizens, 10,000 foreigners, and 400,000 slaves in Athens.
 {{< /q >}}
 
@@ -54,8 +55,6 @@ The other number, 1,720,000, makes Athens larger than London and Paris united.
 There were only 10,000 houses in Athens. Thucydides says that its walls were eighteen miles long beside the sea-coast. Yet Xenophon says there was much waste ground within the walls. They had joined four distinct and separate cities.
 
 Historians mention no slave insurrection, or suspicion of insurrection, other than one commotion of the miners. Xenophon, Demosthenes, and Plautus say that the treatment of slaves by the Athenians was extremely gentle and indulgent.
-
-!!!
 
 This could never have been the case if there were 20 slaves to one citizen. The disproportion is not so great in our colonies, yet are we obliged to exercise a rigorous military government over the negroes. 
 
@@ -103,7 +102,9 @@ Had the Helotes been so very numerous, the murder of 2000 mentioned by Thucydide
 
 The number assigned by Athenæus, whatever it is, comprehends all the inhabitants of Attica, as well as those of Athens. 
 
-Thucydides says that the Athenians affected much a country life. When they were all chased into town during the Peloponnesian war, the city was not able to house them. They had to sleep in the porticoes, temples, and streets. This is also true for all the other Greek cities. Their number of citizens includes both the inhabitants of the neighbouring country and the city. 
+Thucydides says that the Athenians affected much a country life. When they were all chased into town during the Peloponnesian war, the city was not able to house them. They had to sleep in the porticoes, temples, and streets. 
+
+This is also true for all the other Greek cities. Their number of citizens includes both the inhabitants of the neighbouring country and the city. 
 
 Yet, even with this allowance, it must be confessed, that Greece was a populous country, and exceeded what we could imagine concerning so narrow a territory, naturally not very fertile, and which drew no supplies of corn from other places. 
 

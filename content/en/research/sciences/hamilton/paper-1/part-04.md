@@ -36,13 +36,8 @@ about r = 0 of ;he array of effects {BU,,,,}ij cauie by the genotype GiGi; it
 appears that these two parameters are sufficient to fix the progress of the
 system under natural selection within our general approximation.
 Let
-SRf.
-rt = s*j (ST; # 0);
-and let
-6R~j
-rFj = gT39 (6T~j # 0).
-(4)
-(5)
+...
+
 These quantities can be regarded as average relationships or as the first
 moments of reduced arrays, similar to the first moments of probability
 distributions.
@@ -82,9 +77,9 @@ being common to all. From equation (4), substituting rG8p for 6R; in
 equation (3) we have
 Ap, = pi $ (r:. - 4.).
 But it is more interesting to assume 6a is also common to all genotypes.
-If so it follows that we can replace o by ’ in the numerator expression of
-equation (3). Then, from equation (5), substituting r,“,6T” for aRig, we have
+If so it follows that we can replace o by ... in the numerator expression of equation (3). Then, from equation (5), substituting r,“,6T” for aRig, we have
 Api = Pi~(rp.-rp.).
+
 Hence, if a giving-trait is in question (6T” positive), genes which restrict
 giving to the nearest relative (r: greatest) tend to be favoured; if a takingtrait (6T” negative), genes which cause taking from the most distant relatives
 tend to be favoured.

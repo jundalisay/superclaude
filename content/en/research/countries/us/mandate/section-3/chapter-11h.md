@@ -50,7 +50,7 @@ Civil Rights must approve notices of proposed rulemaking.
 Organizational Issues
 
 Historical Budget Information. Congressional appropriations for the U.S.
-Department of Education have risen from $14 billion in 1980 to $95.5 billion in
+Department of Education have risen from USD14 billion in 1980 to USD95.5 billion in
 2021, an astounding increase, especially in light of the lack of improvements in
 student outcomes.
 
@@ -66,16 +66,16 @@ CHART 4
 U.S. Department of Education, Total Appropriations
 
 IN BILLIONS OF DOLLARS
-$120
-$95.5
-$100
-$80
-$60
-$40
-$20
+USD120
+USD95.5
+USD100
+USD80
+USD60
+USD40
+USD20
 ﻿
-$0
-$14
+USD0
+USD14
 1980
 1985
 1990
@@ -89,7 +89,7 @@ NOTE: Totals include mandatory and discretionary appropriations.
 SOURCE: U.S. Department of Education, “Budget History Tables,” Education Department Budget History Table,
 https://www2.ed.gov/about/overview/budget/history/index.html (accessed March 17, 2023).
 
-savings. The proposal would immediately save more than $17 billion annually in
+savings. The proposal would immediately save more than USD17 billion annually in
 various programs. Savings over a decade would be far more robust, as the revenue
 responsibility for many formula grant programs would be returned to the states.
 Some highlights include:
@@ -103,15 +103,15 @@ and the handful of other programs that do not fall under the competitive/
 project grant category. Remaining programs managed by the Department of Education, such as large formula grant programs for K–12 education,
 should be reduced by 10 percent. This would cut approximately 29 programs,
 most of which are discretionary spending. In total, this would generate
-approximately $8.8 billion in savings.
+approximately USD8.8 billion in savings.
 
 Eliminate the PLUS loan program. As mentioned above, the PLUS loan
 program, which provides graduate student loans and loans to the parents
 of undergraduate students, should be eliminated. This would generate an
-estimated $2.3 billion in savings.
+estimated USD2.3 billion in savings.
 
 End time-based and occupation-based student loan forgiveness. A low
-estimate suggests ending current student loan forgiveness schemes would save taxpayers $370 billion.
+estimate suggests ending current student loan forgiveness schemes would save taxpayers USD370 billion.
 
 Eliminate GEAR-UP. It is not the responsibility of the federal government
 to provide taxpayer dollars to create a pipeline from high school to college.
@@ -126,7 +126,7 @@ The Department of Education currently employs approximately 4,400 indi-
 viduals. As programs are eliminated or transferred to other agencies, those
 employees whose positions are determined to be essential to the mission would
 move with their constituent programs. Current salaries and expenses at ED total
-$2.2 billion annually.
+USD2.2 billion annually.
 
 
 

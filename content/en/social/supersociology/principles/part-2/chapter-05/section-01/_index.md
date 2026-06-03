@@ -1,8 +1,8 @@
 ---
 heading: "Section 1"
-title: "Institutions"
+title: "The Legislative"
 date: 2026-01-20
-weight: 14
+weight: 4
 description: ""
 image: "/photos/social/lawmaker.jpg"
 ---

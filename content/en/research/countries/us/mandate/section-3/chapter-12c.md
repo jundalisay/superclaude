@@ -35,11 +35,11 @@ ity20 under the CESER office, which should continue in the next Administration.
 
 #### Budget
 
-CESER received $177 million for FY 2022 under the Energy and Water Develop-
-ment and Related Agencies Appropriations Bill, 2022,21 and $550 million through
+CESER received USD177 million for FY 2022 under the Energy and Water Develop-
+ment and Related Agencies Appropriations Bill, 2022,21 and USD550 million through
 the Infrastructure Investment and Jobs Act.22 The FY 2023 budget request is for
-$202 million.23 In addition, the White House has sent a letter to Congress request-
-ing additional appropriations of $500 million to modernize the SPR.24
+USD202 million.23 In addition, the White House has sent a letter to Congress request-
+ing additional appropriations of USD500 million to modernize the SPR.24
 
 
 ## OFFICE OF ELECTRICITY (OE)
@@ -106,8 +106,8 @@ activities can be conducted by the private sector.
 
 ### Budget
 
-OE’s FY 2021 enacted budget was $211,720,000, and DOE has requested
-$297,386,000 for FY 2023.28
+OE’s FY 2021 enacted budget was USD211,720,000, and DOE has requested
+USD297,386,000 for FY 2023.28
 
 
 
@@ -166,7 +166,7 @@ and civilian radioactive waste.
 
 #### Budget
 
-The above reforms would cost substantially less than the $1,675,060,000
+The above reforms would cost substantially less than the USD1,675,060,000
 requested for FY 2023.32 Legislation such as the IIJA placed additional funding for
 new reactor demonstration projects outside of NE. These responsibilities and their
 associated funds should be moved to NE as appropriate. NE should not simply add

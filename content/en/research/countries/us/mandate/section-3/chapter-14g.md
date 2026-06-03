@@ -12,8 +12,8 @@ icon: "Heritage Foundation"
 The Temporary Assistance for Needy Families (TANF) program is a federal block grant that gives states significant flexibility to fund a broad array of programs aimed at helping low-income families break the cycle of poverty and achieve economic self-sufficiency. States use TANF to fund monthly cash assis- tance payments to low-income families with children as well as a wide range of services that include work activities, work supports and supportive services, child- care, administration and systems, tax credits, pre-K/Head Start, child welfare, and other services.
 
 The TANF program serves 1.8 million individuals. Since 1996, when the program
-was reformed, federal TANF outlays have been $16.5 billion. The state match is
-$14.9 billion, bringing the total state and federal TANF investment to $31.4 billion.
+was reformed, federal TANF outlays have been USD16.5 billion. The state match is
+USD14.9 billion, bringing the total state and federal TANF investment to USD31.4 billion.
 The TANF statute requires that states engage 50 percent of single-parent fam-
 ilies in work for at least 30 hours a week (20 hours a week for single parents with
 children under age six, though states have the option to waive the requirement
@@ -29,10 +29,10 @@ Administration proposed a Supplemental Nutrition Assistance Program (SNAP)
 rule to “increase program integrity and reduce fraud, waste, and abuse” that would
 have prevented an individual from qualifying for SNAP simply because he or she
 received a pamphlet from the TANF program.60 This rule defined non-cash benefits
-as those that are worth at least $50 a month and received for at least six months.
+as those that are worth at least USD50 a month and received for at least six months.
 The tenets of this rule should be applied to the TANF program as well. This defi-
 nitional change would apply the TANF work requirements to any noncash benefit
-worth $50 a month and received for six consecutive months.
+worth USD50 a month and received for six consecutive months.
 
 To increase transparency, HHS should clarify how states, in their quarterly and
 annual reports, ought to track and audit the outcomes from how they spend TANF
@@ -140,12 +140,12 @@ Child support in the United States should strengthen marriage as the norm, resto
 broken homes, and encourage unmarried couples to commit to marriage.
 Child Support Tax Credit. National or state guidelines and tax law should be
 updated to ensure that nonresident parents with child support orders can receive
-a nondependent, child support tax credit. Single filers of up to $41,756 and married
-or joint filers of up to $47,646 would be eligible for a child support tax credit similar
+a nondependent, child support tax credit. Single filers of up to USD41,756 and married
+or joint filers of up to USD47,646 would be eligible for a child support tax credit similar
 to the current earned income tax credit. 
 
-Filers could receive a maximum of $538
-in annual returns for one child and a maximum of $3,584 in annual returns for two
+Filers could receive a maximum of USD538
+in annual returns for one child and a maximum of USD3,584 in annual returns for two
 or more children (based on a credit rate of 34 percent). A child support tax credit
 would use the low-income, nonresident parents’ own earned income and history
 of employment to assist them further in the task of caring for their children.

@@ -45,11 +45,11 @@ the currency. Despite periodic capital injection, circular debt continues to
 grow. It is difficult to get an accurate figure of the net outstanding debt
 because of significant overlaps and because it is a moving target. To give
 some idea of magnitude, the gross receivables in the energy sector are
-currently estimated at $6 billion. By some estimates, the net figure has
-260grown from approximately $3.5 billion in June 2009 to $4.8 billion today.
+currently estimated at USD6 billion. By some estimates, the net figure has
+260grown from approximately USD3.5 billion in June 2009 to USD4.8 billion today.
 In addition to the state-owned power system and IPPs, it affects virtually
 all entities in the commercial energy sector. For the state-owned power
-system alone, the government is now contemplating a $1.3 billion
+system alone, the government is now contemplating a USD1.3 billion
 injection to close the current arrears gap.
 
 Some critics consider this crisis to be self-inflicted and stemming from

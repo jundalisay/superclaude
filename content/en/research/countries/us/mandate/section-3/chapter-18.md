@@ -8,9 +8,9 @@ author: "Jonathan Berry"
 ---
 
 
-## MISSION STATEMENT
+## Mission Statement
 
-### OVERVIEW
+### Overview
 
 The labor agencies covered in this chapter include the Department of Labor (DOL), the Equal Employment Opportunity Commission (EEOC), the National
 Labor Relations Board (NLRB), the National Mediation Board (NMB), the Federal

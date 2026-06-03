@@ -17,7 +17,7 @@ DOE is authorized by law to increase the conversion efficiency of all forms of f
 
 ### Needed Reforms
 
-Eliminate carbon capture utilization and storage (CCUS) programs. Despite the recent expansion of the 45Q tax credit for carbon capture utilization and storage (CCUS) to $87 per ton, most carbon capture technology remains economically unviable, although private-sector innovations are on the horizon. CCUS programs should be left to the private sector to develop.35 If the office continues any CCUS research, that research should be focused more on innovative utilization.
+Eliminate carbon capture utilization and storage (CCUS) programs. Despite the recent expansion of the 45Q tax credit for carbon capture utilization and storage (CCUS) to USD87 per ton, most carbon capture technology remains economically unviable, although private-sector innovations are on the horizon. CCUS programs should be left to the private sector to develop.35 If the office continues any CCUS research, that research should be focused more on innovative utilization.
 
 Pursue the processing of critical minerals. Development of domestic
 critical material sources is important for national security, as the vast majority of critical materials are mined or processed (or both) in Russia and China.36 The processing of critical materials from fossil fuel waste products
@@ -63,8 +63,8 @@ and undermining energy reliability.
 
 ### Budget
 
-The FY 2023 budget request for FECM was approximately $893.2 million.40
-FECM’s requested appropriation can be compared to the more than $4.0 billion
+The FY 2023 budget request for FECM was approximately USD893.2 million.40
+FECM’s requested appropriation can be compared to the more than USD4.0 billion
 requested for the Office of Energy Efficiency and Renewable Energy.41 The disparity
 in funding demonstrates how DOE’s research activities and substantial portions
 of its organizational structure are now focused entirely on the reduction of CO2
@@ -113,10 +113,10 @@ other important factors such as cycle time and reparability.
 Reduce EERE funding. If EERE cannot be eliminated, then the
 Administration should engage with Congress and the House and Senate
 Appropriations Committees on EERE’s budget. EERE’s budget was
-around $1.5 billion a year when the advances were made that led to
+around USD1.5 billion a year when the advances were made that led to
 dramatic cost decreases in wind, solar, and battery technology. In recent
 years, Congress has appropriated many billions of dollars in excess of
-EERE’s normal budget (DOE requested more than $4.0 billion for FY
+EERE’s normal budget (DOE requested more than USD4.0 billion for FY
 2023).46 It should rescind these excess monies so that DOE is not required
 to spend them. If funding cannot be reduced, then it should be reallocated
 to more fundamental research and less toward commercialization
@@ -153,8 +153,8 @@ and undermining energy reliability.
 
 Budget
 
-EERE was funded at slightly more than $2.8 billion in FY 2021, and DOE
-requested slightly more than $4.0 billion for FY 2023.47 Congress needs to rescind
+EERE was funded at slightly more than USD2.8 billion in FY 2021, and DOE
+requested slightly more than USD4.0 billion for FY 2023.47 Congress needs to rescind
 the appropriated monies that EERE has not spent and begin fresh with new
 appropriations.
 
@@ -210,11 +210,11 @@ developers. Under the Energy Policy Act of 2005 and IIJA, DOE is to
 perform grid congestion studies and has authority to identify National
 Interest Electric Transmission Corridors (NIETC). Under the Biden
 Administration, GDO is working on a National Transmission Planning
-Study and is administering $2.5 billion to support “nationally significant
+Study and is administering USD2.5 billion to support “nationally significant
 transmission lines, increase resilience by connecting regions of the country,
 and improve access to cheaper clean energy sources.”49
 
-Defund most GDO programs. GDO oversees nearly $20 billion in new
+Defund most GDO programs. GDO oversees nearly USD20 billion in new
 appropriations created by the IIJA, including a grid modernization grant
 program, the transmission facilitation program, and the civil nuclear
 credit program, among others. Congress should rescind any money not
@@ -222,6 +222,6 @@ already spent.
 
 Budget
 
-Congress appropriated $10 million for GDO in FY 2021, and DOE has requested
-$90.2 million for FY 2023.50
+Congress appropriated USD10 million for GDO in FY 2021, and DOE has requested
+USD90.2 million for FY 2023.50
 

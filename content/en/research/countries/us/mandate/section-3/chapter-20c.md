@@ -42,7 +42,7 @@ currently exists in the private sector, but the VBA lacks the expertise
 to use it. This would be more of an organizational challenge than a
 technology hurdle.
 
-Reduce improper payment and fraud. About $500 million is improperly
+Reduce improper payment and fraud. About USD500 million is improperly
 paid out each year. Better tools, training, and management could reduce this
 substantially, but rule changes at the departmental level would be needed.
 Budget

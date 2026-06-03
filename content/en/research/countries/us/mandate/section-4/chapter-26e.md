@@ -67,7 +67,7 @@ but also to build institutional safeguards against future abuse.
 
 We are five years into the biggest experiment with tariffs since the Great Depres-
 sion, and the results are in: The new tariffs raise consumer prices for ordinary
-Americans by about $1,200 per household every year50 and benefit only a small
+Americans by about USD1,200 per household every year50 and benefit only a small
 number of special interests. Steel and aluminum tariffs, enacted on national
 security grounds, angered allies. Beijing made not a single substantive reform in Repeal the Jones Act,48 a century-old “Buy American” maritime law that has decimated the U.S. shipbuilding industry. response to four rounds of tariffs plus an attempted Phase One agreement. The
 Biden Administration has left the tariffs in place and is expanding them to pursue
@@ -98,14 +98,14 @@ Delegating tariff-making might have worked in the short run, but in the long
 run, it was both constitutionally dubious and ripe for abuse. That came to pass in
 2018. The Section 232 steel and aluminum tariffs, invoked in 2018 against Canada,
 Europe, and other allies on national security grounds, raised car prices by an aver-
-age of $250 per vehicle and gave America the world’s highest steel prices. They
+age of USD250 per vehicle and gave America the world’s highest steel prices. They
 also harmed the construction, canned food and beverage, and other metal-using industries.
 
 While this may have benefited the steel industry itself, each steel job saved cost
-an average of $650,000 per year that had been taken from elsewhere in the econo-
+an average of USD650,000 per year that had been taken from elsewhere in the econo-
 my.54 That is no way to strengthen American manufacturing. The New York Federal
 Reserve estimated in 2019 that the Section 301 China tariffs cost the average house-
-hold $831 per year,55 a figure that has likely increased with inflation.
+hold USD831 per year,55 a figure that has likely increased with inflation.
 The new tariffs have a clear record of failure—as conservative economists
 almost unanimously warned would be the case. Job number one for the next
 Administration is to return to sensible trade policies and eliminate the destruc-
@@ -153,7 +153,7 @@ Retaliatory Tariffs. Raising tariffs on another country almost always invites
 retaliatory tariffs against the U.S. The latter tend to be directed at politically sen-
 sitive American exports. Retaliatory tariffs by both China and American allies in
 response to the 2018 steel tariffs were targeted primarily at American agriculture.
-According to the U.S. Department of Agriculture, those tariffs cost farmers $27
+According to the U.S. Department of Agriculture, those tariffs cost farmers USD27
 billion with losses concentrated particularly in heartland states.57
 Retaliatory tariffs also targeted U.S. industries that were not protected by tar-
 iffs. Many imports become inputs into U.S. manufacturing. The motorcycle maker
@@ -193,7 +193,7 @@ https://fred.stlouisfed.org/series/INDPRO (accessed March 2, 2023).
 Federal Reserve research shows that the tariffs have cost about 75,000 manufac-
 turing jobs while creating only about 1,000 jobs in the steel industry—not including
 the effects of the retaliatory tariffs described above.58 Higher steel prices added an
-average of $250 to the price of new cars, and larger trucks—the vehicle of choice
+average of USD250 to the price of new cars, and larger trucks—the vehicle of choice
 in rural America—were hit even more dramatically.59
 
 Trade is generally a win-win for both participants. Tariffs are a lose-lose-lose

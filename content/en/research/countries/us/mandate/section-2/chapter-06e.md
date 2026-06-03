@@ -44,8 +44,8 @@ that the United States will not allow itself and its money to be used to undermi
 its own interests.
 
 The Biden Administration reversed many of these decisions. Currently, U.S.
-funding for international organizations is more than $16 billion in fiscal year
-2021—a sharp increase from $10.8 billion in fiscal year 2015.19 Millions of American
+funding for international organizations is more than USD16 billion in fiscal year
+2021—a sharp increase from USD10.8 billion in fiscal year 2015.19 Millions of American
 taxpayer dollars go to support policies and initiatives that hurt the United States
 and American citizens.
 

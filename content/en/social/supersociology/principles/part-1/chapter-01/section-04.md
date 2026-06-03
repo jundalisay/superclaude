@@ -70,6 +70,10 @@ Therefore, a civilization implies intellectual advancement as to have a hierarch
 
 Being civilized means that you know your actions have an effect in space and time, and so you are more cognizant of your actions unlike barbarians and savages who do not think of consequences.
 
+An advanced civilization is one that knows the consequences of actions in different dimensions. 
+- This connects to Material Superphysics so that a key marker of an advanced civilization is its ability to tap free energy which comes from other dimensions through the aether. 
+- The teleportation of masses is a sign of a mature advanced civilization.
+
 
 ## Culture
 

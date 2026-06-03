@@ -11,7 +11,7 @@ weight: 14
 
 ### Break Up NOAA
 
-The single biggest Department of Commerce agency outside of decennial census years is the National Oceanic and Atmospheric Administration, which houses the National Weather Service, National Marine Fisheries Service, and other components. NOAA garners $6.5 billion of the department’s $12 billion annual operational budget and accounts for more than half of the department’s personnel in non-decadal Census years (2021 figures). NOAA consists of six main offices:
+The single biggest Department of Commerce agency outside of decennial census years is the National Oceanic and Atmospheric Administration, which houses the National Weather Service, National Marine Fisheries Service, and other components. NOAA garners USD6.5 billion of the department’s USD12 billion annual operational budget and accounts for more than half of the department’s personnel in non-decadal Census years (2021 figures). NOAA consists of six main offices:
 
 - The National Weather Service (NWS);
 - The National Ocean Service (NOS);

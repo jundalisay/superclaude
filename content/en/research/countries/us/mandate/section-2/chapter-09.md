@@ -96,9 +96,9 @@ its transactions—termed “debt traps” by many critics—to strengthen its g
 influence, extract natural resources, isolate Taiwan, win political support at
 international fora, and access ports and bases for its military. In Latin America,
 25 of 29 countries participate in the BRI, and the PRC ranks as the region’s largest
-trading partner. Since 2005, Chinese state-owned banks have issued $138 billion
+trading partner. Since 2005, Chinese state-owned banks have issued USD138 billion
 in loans to Latin American countries, and other Chinese entities have invested
-an additional $140 billion. In Africa, China has issued $160 billion in loans and
+an additional USD140 billion. In Africa, China has issued USD160 billion in loans and
 dominates the continent’s rare earth mining sector, which is critical to global
 energy development.
 
@@ -184,7 +184,7 @@ Sri Lanka even banned chemical fertilizers entirely without having any replace-
 ments in place. The result has been hunger and violent political instability.
 
 
-The aid industry claims that climate change causes poverty, which is false. Enduring conflict, government corruption, and bad economic policies are the main drivers of global poverty. USAID’s response to man-made food insecurity is to provide more billions of dollars in aid—a recipe that will keep scores of poor countries underdeveloped and dependent on foreign aid for years to come. The impact on Africa is especially acute. South Africa, for example, relies on coal-powered plants to generate 80 percent of its power needs. It would need $26 billion in foreign aid to make the full transition away from coal. Multiplying this amount by dozens of other countries on the continent, the financial resources needed to transition away from fossil fuels are unachievable. In Latin America, countries that are global leaders in oil and gas production have sharply curtailed their energy production in line with climate activists, upending the hemisphere’s major source of export revenues and condemning it to years of economic and polit- ical instability.
+The aid industry claims that climate change causes poverty, which is false. Enduring conflict, government corruption, and bad economic policies are the main drivers of global poverty. USAID’s response to man-made food insecurity is to provide more billions of dollars in aid—a recipe that will keep scores of poor countries underdeveloped and dependent on foreign aid for years to come. The impact on Africa is especially acute. South Africa, for example, relies on coal-powered plants to generate 80 percent of its power needs. It would need USD26 billion in foreign aid to make the full transition away from coal. Multiplying this amount by dozens of other countries on the continent, the financial resources needed to transition away from fossil fuels are unachievable. In Latin America, countries that are global leaders in oil and gas production have sharply curtailed their energy production in line with climate activists, upending the hemisphere’s major source of export revenues and condemning it to years of economic and polit- ical instability.
 
 USAID should cease its war on fossil fuels in the developing world and support
 the responsible management of oil and gas reserves as the quickest way to end

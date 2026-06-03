@@ -71,8 +71,8 @@ you are.” America’s record on trade—specifically American’s chronic and 
 panding trade deficit—says that America is the globe’s biggest trade loser and a
 victim of unfair, unbalanced, and nonreciprocal trade.
 During the first year of the Biden Administration, the overall U.S. trade defi-
-cit, including goods and services, soared by 29 percent, from $654 billion in 2020
-to $845 billion in 2021.4 Over the same time period, imports of consumer goods,
+cit, including goods and services, soared by 29 percent, from USD654 billion in 2020
+to USD845 billion in 2021.4 Over the same time period, imports of consumer goods,
 
 TABLE 1
 
@@ -255,7 +255,7 @@ Partner Countries
 Match U.S. Tariff RateScenario Two:
 U.S. Matches Partner
 Tariff Rates
-In Billions of Dollars$58.3$63.6
+In Billions of DollarsUSD58.3USD63.6
 As Percentage of 2018 Deficit9.4%10.2%
 Metric
 NOTE: USRTA—U.S. Reciprocal Trade Act.
@@ -270,10 +270,10 @@ simulation results.
 
 In Scenario One, if all 132 countries were to lower their higher nonreciprocal
 tariffs to U.S. levels, the overall U.S. trade deficit in goods would be reduced by
-$58.3 billion, or about 9.4 percent of that deficit. In contrast, in Scenario Two, if
+USD58.3 billion, or about 9.4 percent of that deficit. In contrast, in Scenario Two, if
 these countries were to refuse to reciprocate and the U.S. were to raise its tariffs
 to mirror those countries’ levels, the reduction in the U.S. trade deficit would
-be slightly larger: an estimated $63.6 billion, or 10.2 percent of the deficit. This
+be slightly larger: an estimated USD63.6 billion, or 10.2 percent of the deficit. This
 suggests that implementing the USRTA would help to create between 350,000
 and 380,000 jobs.
 
@@ -311,15 +311,15 @@ E.U.
 Malaysia
 0%
 0
-$50
-$100
-$150
-$200
-$250
-$300
-$350
-$400
-$450
+USD50
+USD100
+USD150
+USD200
+USD250
+USD300
+USD350
+USD400
+USD450
 BILATERAL TRADE DEFICIT, 2018, IN BILLIONS OF U.S. DOLLARS
 SOURCE: White House Office of Trade and Manufacturing Policy, The United States Reciprocal Trade Act: Estimated
 Job & Trade Deficit Effects, May 2019, p. 20, https://www.wsj.com/public/resources/documents/RTAReport.pdf?
@@ -348,7 +348,7 @@ Projected
 Change in
 Bilateral Trade
 Balance
-($ Billions)Bilateral
+(USD Billions)Bilateral
 Deficit
 Reduction
 as Share of
@@ -357,7 +357,7 @@ DeficitProjected
 Change in
 Bilateral Trade
 Balance
-($ Billions)Bilateral
+(USD Billions)Bilateral
 Deficit
 Reduction
 as Share of
@@ -380,9 +380,9 @@ the American President, and then under Scenario Two, in which the U.S. matches
 the tariffs of partners that refuse to lower their tariffs. Columns 2 and 4 in Table 4,
 when the USRTA is applied first to Communist China and then to the EU, show the
 largest absolute dollar reductions in bilateral trade deficits. This results in bilat-
-eral deficit reductions in Scenario One of $18.5 billion for China and $8.0 billion
+eral deficit reductions in Scenario One of USD18.5 billion for China and USD8.0 billion
 for the EU. In Scenario Two, the impacts for Communist China and the EU are
-substantially larger: $70.6 billion and $25.3 billion, respectively.
+substantially larger: USD70.6 billion and USD25.3 billion, respectively.
 Note further that the largest relative dollar reductions in percent terms come
 from applying the USRTA first to India and then to Taiwan and Vietnam. For exam-
 ple, if India were to reduce its tariffs to U.S. levels, as in Scenario One, this would
@@ -937,7 +937,7 @@ trading partners.
 Why might this be so? Because under WTO rules, America still faces numerous
 nonreciprocal nontariff barriers around the world. For example, one of America’s
 largest trading partners, Japan, runs a significant bilateral trade surplus in goods
-with the U.S.—more than $70 billion a year. While Japan has relatively low tariffs,
+with the U.S.—more than USD70 billion a year. While Japan has relatively low tariffs,
 it ranks high on the nontariff barrier scale. In such cases, which are numerous, pas-
 sage of the USRTA would likely also be very helpful in reducing nontariff barriers.
 This is because under the powers provided by the USRTA, if a foreign country

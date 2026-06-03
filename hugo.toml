@@ -9,6 +9,7 @@ summarylength = 30
   pagerSize = 12
   
 
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -16,10 +17,18 @@ summarylength = 30
     startLevel = 2
   [markup.goldmark.renderer]
     unsafe = true
+  [markup.goldmark.extensions.passthrough]
+    enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+      block = [['$$', '$$'], ['\\[', '\\]']]
+      inline = [['$', '$'], ['\\(', '\\)']]
   [markup.highlight]
     codeFences = true
     guessSyntax = true
     style = "monokai"
+
+
+# Using a single $ for inline math can sometimes accidentally trigger e.g. $10.00). you can remove ['$', '$'] from the inline delimiters and exclusively use \\( ... \\) for your inline math.
 
 
 [sitemap]

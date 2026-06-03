@@ -32,6 +32,23 @@ The main principle is that mentality creates reality. This means that anything i
 
 
 
+## The MSQ Model for Spirituality
+
+We apply the MSQ Model for Spirituality with 5 layers:
+
+Layer | Indian Loka 
+--- | ---
+Causal | Jana, Tapa, Satya
+Essential | Mahar
+Astral | Svar
+Subtle | Bhuvar
+Crude | Bhur 
+
+
+
+
+
+
 ## All is Possible with God
 
 {{< l a="Ramakrishna" >}}

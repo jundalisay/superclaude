@@ -91,7 +91,7 @@ This function should be limited so that banks and other financial institutions b
 
 ### Wind down the Federal Reserve’s balance sheet.
 
-Until the 2008 crisis, the Federal Reserve never held more than $1 trillion in assets, bought largely to influence monetary policy.12 Since then, these assets have exploded, and the Federal Reserve now owns nearly $9 trillion of mainly federal debt ($5.5 trillion)13 and mortgage-backed securities ($2.6 trillion).14 There is currently no government oversight of the types of assets that the Federal Reserve purchases.
+Until the 2008 crisis, the Federal Reserve never held more than USD1 trillion in assets, bought largely to influence monetary policy.12 Since then, these assets have exploded, and the Federal Reserve now owns nearly USD9 trillion of mainly federal debt (USD5.5 trillion)13 and mortgage-backed securities (USD2.6 trillion).14 There is currently no government oversight of the types of assets that the Federal Reserve purchases.
 
 These purchases have two main effects: They encourage federal deficits and support politically favored markets, which include housing and even corporate debt. Over half of COVID-era deficits were monetized in this way by the Federal Reserve’s purchase of Treasuries, and housing costs were driven to historic highs by the Federal Reserve’s purchase of mortgage securities. Together, this policy subsidizes government debt, starving business borrowing, while rewarding those who buy homes and certain corporations at the expense of the wider public.
 
@@ -117,7 +117,7 @@ levels of 2006.
 
 The home-price-to-median-income ratio is now 7.68, far above the prior record high of 7.0 set in 2005.18 The mortgage-payment-to-income ratio hit 43.3 percent in August 2022—breaking the highs of the prior housing bubble in 2008.19 
 
-Mortgage payment on a median-priced home (with a 20 percent down payment) jumped to $2,408 in the autumn of 2022 vs. $1,404 just one year earlier as home prices continued to rise even as mortgage rates more than doubled. Renters have not been spared: Median apartment rental costs have jumped more than 24 percent since the start of 2021.20 Numerous cities experienced rent increases well in excess of 30 percent.
+Mortgage payment on a median-priced home (with a 20 percent down payment) jumped to USD2,408 in the autumn of 2022 vs. USD1,404 just one year earlier as home prices continued to rise even as mortgage rates more than doubled. Renters have not been spared: Median apartment rental costs have jumped more than 24 percent since the start of 2021.20 Numerous cities experienced rent increases well in excess of 30 percent.
 
 
 ### Stop paying interest on excess reserves
@@ -128,7 +128,7 @@ Under this policy, the Federal Reserve prints money and then “borrows” it ba
 
 This:
 - is a transfer to Wall Street at the expense of the American public
-- has driven such excess reserves to $3.1 trillion, up seventyfold since 2007.
+- has driven such excess reserves to USD3.1 trillion, up seventyfold since 2007.
 
 The Federal Reserve should immediately end this practice and either sell off its balance sheet or simply stop paying interest so that banks instead lend the money. 
 

@@ -38,14 +38,14 @@ From the outset, the next Administration should: Denounce efforts to place ancil
 Address the Abuse of CCC Discretionary Authority. With the exception of
 federal crop insurance, the Commodity Credit Corporation (CCC) is generally the
 means by which agricultural-related farm bill programs are funded. The CCC is a
-funding mechanism, which, in simple terms, has $30 billion a year at its disposal.24
+funding mechanism, which, in simple terms, has USD30 billion a year at its disposal.24
 Section 5 of the Commodity Credit Corporation Charter Act (Charter Act)25
 gives the Secretary of Agriculture broad discretionary authority to spend “unused”
 CCC money. However, in general, past Agriculture Secretaries have not used this
 power to any meaningful extent. This changed dramatically during the Trump
-Administration, when this discretionary authority was used to fund $28 billion
+Administration, when this discretionary authority was used to fund USD28 billion
 in “trade aid” to farmers, consisting primarily of the Market Facilitation Program.
-In 2020, this authority was used for $20.5 billion in food purchases and income
+In 2020, this authority was used for USD20.5 billion in food purchases and income
 subsidies in response to the COVID-19 pandemic.26
 
 At the time, critics warned that this use of the CCC, which in effect created a
@@ -141,7 +141,7 @@ While there are certainly other subsidy programs besides ARC, PLC, and federal
 crop insurance, one program that deserves special mention is the federal sugar
 program. This program, unlike most other subsidy programs, intentionally tries
 to restrict supply43 and thereby drives up prices. The program costs consumers as
-much as $3.7 billion a year.44
+much as USD3.7 billion a year.44
 When it comes to reforming subsidy programs, the next Administration will
 primarily have to look to legislative solutions. The next Administration should
 champion legislation that would:
@@ -172,13 +172,13 @@ prohibiting farmers from receiving an ARC or PLC payment the same year
 they receive a crop insurance indemnity.
 
 CBO has found that reducing the premium subsidy to 47 percent would
-save $8.1 billion over 10 years and have little impact on crop insurance
+save USD8.1 billion over 10 years and have little impact on crop insurance
 participation or on the number of covered acres.49 In that analysis, there
 would be a reduction in insured acres of just one-half of 1 percent, and
 only 1.5 percent of acres would have lower coverage levels. 50 This reform
 is basically all benefit with little to no cost. In its recently released report
 identifying options to reduce the federal deficit, CBO found that reducing
-the premium subsidy to 40 percent would save $20.9 billion over 10 years.51
+the premium subsidy to 40 percent would save USD20.9 billion over 10 years.51
 Beyond these legislative reforms, the next Administration should:
 
 Communicate to Congress the necessity of transparency and a genuine

@@ -9,7 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-toc: false
+featured: true
 aliases:
   /material/fallacies/simultaneity
   /material/fallacies/superluminal  

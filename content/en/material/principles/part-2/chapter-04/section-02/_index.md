@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "Spatial Vortices"
+title: "Physical Time"
 # date: 2023-11-10
 weight: 5
-image: /photos/physics/quasar.jpg
+image: /photos/objects/time.jpg
 description: ""
 icon: Juan
 writer:

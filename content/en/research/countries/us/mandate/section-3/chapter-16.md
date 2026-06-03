@@ -10,7 +10,7 @@ author: "William Perry Pendley"
 
 ### AGENCY OVERVIEW
 
-DOI’s purview encompasses more than 500 million acres of federal lands, including national parks and national wildlife refuges; 700 million acres of sub- surface minerals; 1.7 billion acres of the Outer Continental Shelf (OCS); 23 percent of the nation’s energy; water in 17 western states; and trust responsibilities for 566 Indian tribes and Alaska Natives. DOI’s 2024 budget request totals $18.9 billion, an increase of $2 billion, or 12 percent, more than the 2023 enacted level. The budget also provides an estimated $12.6 billion in permanent funding in 2024. In 2024, DOI will generate receipts of $19.6 billion.
+DOI’s purview encompasses more than 500 million acres of federal lands, including national parks and national wildlife refuges; 700 million acres of sub- surface minerals; 1.7 billion acres of the Outer Continental Shelf (OCS); 23 percent of the nation’s energy; water in 17 western states; and trust responsibilities for 566 Indian tribes and Alaska Natives. DOI’s 2024 budget request totals USD18.9 billion, an increase of USD2 billion, or 12 percent, more than the 2023 enacted level. The budget also provides an estimated USD12.6 billion in permanent funding in 2024. In 2024, DOI will generate receipts of USD19.6 billion.
 
 A “Home Department” had been considered in 1789 and urged by Presidents
 over the decades until DOI’s creation in 1849. The variety of its early responsibil-
@@ -74,9 +74,9 @@ the United States achieved energy security for the first time since 1957 in 2019
 
 ### BUDGET STRUCTURE
 
-At $18.9 billion, DOI’s 2024 proposed budget is small relative to many other
+At USD18.9 billion, DOI’s 2024 proposed budget is small relative to many other
 federal agencies. On the other side of the ledger, the DOI forecasts it will generate
-more than $19.6 billion in “offsetting receipts” from oil and gas royalties, timber
+more than USD19.6 billion in “offsetting receipts” from oil and gas royalties, timber
 and grazing fees, park user fees, and land sales, among other sources. Most of the
 proposed allocations are divided among nine bureaus.
 Bureau of Indian Affairs. Fulfills Indian trust responsibilities on behalf of

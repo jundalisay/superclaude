@@ -47,7 +47,7 @@ has three, all targeted for specific stages of economic and industrial
 development. The amount of money China has put behind these three
 instruments is staggering.
 
-It is estimated that in 2018, China provided more than $500 billion in export
+It is estimated that in 2018, China provided more than USD500 billion in export
 credit, approaching in that one year the total amount of financing EXIM has
 provided in its 90-year history.
 
@@ -143,7 +143,7 @@ Borrowers are loathe to default on the United States of America.
 
 This ability to manage risk successfully is why EXIM actually makes a profit
 for American taxpayers, described in government parlance as “negative subsidy,”
-sending more than $9 billion to the U.S. Treasury for debt reduction since 1992.
+sending more than USD9 billion to the U.S. Treasury for debt reduction since 1992.
 The bank has also supported hundreds of thousands of U.S. jobs, most of them in
 manufacturing, during the past decade.
 

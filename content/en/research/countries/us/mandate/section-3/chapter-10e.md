@@ -20,12 +20,12 @@ Furthermore, the NSLP and SBP are among the most inaccurate federal
 programs according to PaymentAccuracy.gov, a project of the U.S. Office of Man-
 agement and Budget and the Office of the Inspector General.87 Before federal
 auditors reduced the rigor of annual reporting requirements in 2018, the NSLP
-had wasted nearly $2 billion in taxpayer resources through payments provided to
+had wasted nearly USD2 billion in taxpayer resources through payments provided to
 ineligible recipients.88 Even after the auditing changes, which the U.S. Government
 
 Accountability Office said results in the USDA not “regularly assess[ing] the pro-
-grams’ fraud risks,” the NSLP wasted nearly $500 million in FY 2021.89 The SBP
-now wastes nearly $200 million annually.90
+grams’ fraud risks,” the NSLP wasted nearly USD500 million in FY 2021.89 The SBP
+now wastes nearly USD200 million annually.90
 
 Despite the ongoing effort to expand school meals under CEP and the evidence of waste and inefficiency, left-of-center Members of Congress and President Biden’s Administration have nonetheless proposed further expansions to extend federal school meals to include every K–12 student—regardless of need.91 The Administra- tion recently proposed expanding federal school meal programs offered during the school year to be offered during the summer as part of the “American Families Plan,” and also proposed expanding CEP. Other federal officials, including Senator Bernie Sanders (I–VT), have, in recent years, proposed expanding the NSLP to all students.92 To serve students in need and prevent the misuse of taxpayer money, the next Administration should focus on students in need and reject efforts to transform federal school meals into an entitlement program.
 

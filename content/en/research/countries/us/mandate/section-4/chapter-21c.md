@@ -21,10 +21,10 @@ Many programs at the Department of Commerce overlap in whole or part with other 
 The International Trade Administration (ITA) and parts of the Bureau of
 Industry and Security (BIS) should be streamlined and moved to the Office
 of the U.S. Trade Representative (USTR), along with the Development
-Finance Corporation; the U.S. Trade and Development Agency; the Export–
-Import Bank; and other trade-related programs spread across the federal
+Finance Corporation; the U.S. Trade and Development Agency; the Export–Import Bank; and other trade-related programs spread across the federal
 government—as well as considering whether many of these programs
 should exist within the federal government;
+
 The Economic Development Administration’s grant programs, which
 are among a broad set of duplicative and overlapping federal economic
 development grant programs, should be consolidated with other programs
@@ -52,9 +52,7 @@ and proposes a bold, but achievable, set of proposals for an incoming conservati
 Administration.
 
 Whatever the imperfections of the Department of Commerce, it is blessed with
-many quality civil servants and strong statutory authorities that, directed properly,
-— 664 —Department of Commerce
-can help ensure U.S. success in 2025 and beyond. With that in mind, this chapter
+many quality civil servants and strong statutory authorities that, directed properly, can help ensure U.S. success in 2025 and beyond. With that in mind, this chapter
 focuses primarily on policy, strategy, and occasionally tactics that are either imme-
 diately implementable under strong leadership or are critical to mission success.
 
@@ -82,24 +80,23 @@ ing and additional political appointee positions to OS and its constituent parts
 involved in implementing and communicating the Commerce Secretary’s and
 President’s policy priorities.
 
-Administration, Budget, and Appropriations. Recent practice has been for
-career staff to serve as gatekeepers between department leadership and external
+### Administration, Budget, and Appropriations. 
+
+Recent practice has been for career staff to serve as gatekeepers between department leadership and external
 budget and appropriations partners at the OMB and on Capitol Hill. By serving
 not just as a central point of contact but as the sole staff-level communicators of
 departmental priorities, these career officials can, have, and will slow down—and
 even stop—changes in policy, even at the line-office level.
-Although the following is true at all agencies, it is particularly important at the
-Department of Commerce that political leadership be immediately installed at the
-Office of the Chief Financial Officer (CFO) and Assistant Secretary for Administra-
-tion (ASA), and that political appointees receive a mandate to communicate with
-external partners alongside career staff at every stage of the budget and appropri-
-ations process. Political appointees must also monitor internal CFO operations
-down to the operating division level to ensure that funds are not being diverted
-to programs that do not align with Administration priorities, as has regularly hap-
-pened in years past.
 
-Advisory Committees. Due to the nature of the Department of Commerce’s
-portfolio, many of its advisory committees are populated by activists from organi-
+Although the following is true at all agencies, it is particularly important at the Department of Commerce that political leadership be immediately installed at the
+Office of the Chief Financial Officer (CFO) and Assistant Secretary for Administration (ASA), and that political appointees receive a mandate to communicate with
+external partners alongside career staff at every stage of the budget and appropriations process. Political appointees must also monitor internal CFO operations
+down to the operating division level to ensure that funds are not being diverted
+to programs that do not align with Administration priorities, as has regularly happpened in years past.
+
+### Advisory Committees
+
+Due to the nature of the Department of Commerce’s portfolio, many of its advisory committees are populated by activists from organi-
 zations openly hostile to conservative principles who use the committees to impede
 conservative policy. Upon entering office, all such committees should be reviewed
 regarding whether they are required by statute and abolished if they are not. Mem-
@@ -107,6 +104,4 @@ bership of the remaining committees should be reconstituted to ensure they are
 sources of genuine expert advice and productive contributions to the policy-making
 process. Federal Advisory Committee Act (FACA) compliance and awareness of
 any ways the committees have been written into regulations should be considered.
-
-
 
