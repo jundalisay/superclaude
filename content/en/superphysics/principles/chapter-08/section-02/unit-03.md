@@ -16,22 +16,26 @@ aliases:
 
 
 
-The previous section explained that Socratic Dialectics converts Science in to Superphysics by expanding into metaphysics through mysticism or spirituality. 
+The previous section explained:
+- that Socratic Dialectics converts Science in to Superphysics by expanding into metaphysics through mysticism or spirituality
+- how:
+  - Socratic Dialectics uses wise minds to guide the process of realizing the truth by trial and error
+  - Kant was against dialectics
 
-It uses:
+
+Superphysics uses:
 - its own math called Qualimath to describe ideas which are more of quality than quantity. 
-- englightened or wise people as the 
+- englightened or wise people as the detector of the true nature of things, as Existence with the Negative effects (as illusions) removed or minimized
 
 Mathematics is based on notating effects quantitatively. And so it is totally impotent in finding true causes of phenomena. 
 
-It also explained how:
-- Socratic Dialectics uses wise minds to guide the process of realizing the truth by trial and error.
-- Kant was against dialectics
 
 
 ## The German Corruption of Dialectics as Materialist Churn
 
-The Germans were good at math and so they corrupted dialectics into a system that deals with effects instead of the cause. For example, Hegel focused on the fight between negative and positive in dialectics:
+The Germans were good at math and so they corrupted dialectics into a system that deals with effects instead of the cause.
+
+For example, Hegel focused on the fight between negative and positive in dialectics:
 
 {{< q a="Hegel" c="Science of Logic, Introduction" >}}
 [The Platonic Dialectic in Parmenides] is based in mere conceit as a subjective itch for unsettling what is fixed.
@@ -41,7 +45,8 @@ The Germans were good at math and so they corrupted dialectics into a system tha
 
 Chalybaus then misinterpreted this fight in Hegel's dialectic and used it to emphasize thesis-antithesis-synthesis in historical events.
 
-Engels and Marx then fully corrupted this churning of thesis-antithesis-synthesis by saying that it was caused by physical conditions, under materialism. A better churn would result if the material conditions were mastered. 
+Engels and Marx then fully corrupted this churning of thesis-antithesis-synthesis by saying that it was caused by physical conditions, under materialism. 
+- They thought that a better churn would result if the material conditions were mastered. 
 
 The dialectical materialism of Marx resulted in evil, suffering, and death, which are the opposite of what the dialectics of Plato and Socrates aimed for.
 
@@ -60,10 +65,9 @@ Materialistic science will not be able to solve the problems created by material
 
 ## The Re-Enlightenment
 
-
 The modern Materialist Disease:
 - was born in the 17th century as Newton's Principia
-- adolescence in the 18th century, spreading through the colonial system
+- entered adolescence in the 18th century, spreading through the colonial system
 - matured in the 19th century
 - gained perfection in the 20th century as the Great Depression and the World Wars
 
@@ -83,3 +87,5 @@ It replaces:
 
 
 <!-- socrates phaedo chapter 6 when a simple man has no skill in dialectics, he believes an argument to be true. Afterwards, he imagines it to be false. Then another and another, until he has no longer any faith left. Great disputers then think at last that they have become the wisest of mankind* -->
+
+
