@@ -1,10 +1,10 @@
 ---
 heading: "Section 2"
-title: "Industry Efficiency"
+title: "Industry Ratios"
 date: 2015-01-17
 weight: 4
-image: /photos/econ/pool.jpg
-description: "Balance Efficiency is the Efficiency in balancing the economy"
+image: /photos/econ/power.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

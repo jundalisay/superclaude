@@ -37,7 +37,10 @@ This is why it is the Element for the Forces such as gravity, magnetism, and mat
 
 This is why, in love relationships, space as proximity is very important and why long distance relationships are not usually strong, just as magnetism is strong but has a short range, and gravity is weak but has a longer range.  
 
-Without space and time, all perceptions would be in one experience and be very messy. 
+Without space and time:
+- all perceptions would be in one experience and be very messy
+- we would be able to go wherever we want in an instant. 
+  - For example, instead of taking a car to go to work we can just take one step forward. When our step lands, we would be immediately in our office
 
 Spacetime is also the key to understanding the aether which is above it.
 
@@ -72,7 +75,7 @@ The job of Space particles is to separate identities. This makes them cause the 
 For example, friction is from the space particles giving movement to 2 objects that grind away at each other.
 
 
-The aethereal layer is above the spaital layer and so aethereal ideas and feelings do not have wear and tear. 
+The aethereal layer is above the spatial layer, and so aethereal ideas and feelings do not have wear and tear. 
 
 For example:
 - an old man might remember his first love as strongly as he had it the first time
