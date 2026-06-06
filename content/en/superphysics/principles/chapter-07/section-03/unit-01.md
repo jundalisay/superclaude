@@ -53,7 +53,7 @@ This is easily seen in:
 - crime-infested cities having a lot of death and suicide
 
 
-{{< i s="/graphics/bio/forest.jpg" a="Forest" c="Forest" >}}
+{{< i s="/graphics/bio/forest.jpg" a="Forest" c="A Forest under the Positive Force (left) and the Negative Force (right)" >}}
 
 
 
@@ -64,7 +64,7 @@ Perception occurs when these living node-minds interact with:
 - other living node-minds and
 - other non-living nodes as things
 
-We know that a crude node gets perceptions when it reacts.
+We know that a crude node gets perceptions when it **reacts**.
  <!-- as proven by its subsequent reactions to stimuli. -->
 - For example, a rock reacts to light by reflecting it so that it can be seen.
 
@@ -123,7 +123,12 @@ C | Cytosine | Pyrimidine (Single-ring) | Always pairs with Guanine (G)
 
 These match the 4 properties of waves:
 - Commonality goes with Spread just as Thymine goes with Adenine
-- Density goes with Strength just as Cytosine goes with Guanine
+- Density goes with Balance just as Cytosine goes with Guanine
+
+This is matched by Supersociology where:
+- workers (commonality) team up with oligarchs (spread) as liberalism
+- warriors (density) team up with thinkers (balance) as conservatism
+
 
 The DNA caries the wave-programming of each cell as a part of the overall programming for the whole body. 
 
@@ -135,3 +140,5 @@ In Cartesian science, the programming of the entire body is sourced from the cro
 This chakra rotates, creating the twisted double helix shape of the DNA. The twist is easily seen in quasar jets that also have a double helix shape.
 
 {{< i s="/photos/physics/messier87.jpg" a="Messier" c="Rotating vortices create double helixes" >}} 
+
+

@@ -33,7 +33,9 @@ I say intrinsic, in order to exclude that mark which is extrinsic or the agreeme
 5. Duration is the indefinite continuance of existing.
 Explanation=  I say indefinite, because it cannot be determined through the existence itself of the existing thing, or by its efficient cause, which necessarily gives the existence of the thing, but does not take it away.
 
-6. I use reality and perfection as synonymous terms. Definition 7=  Particular things are things which are finite and have a conditioned existence.
+6. I use reality and perfection as synonymous terms. 
+
+7. Particular things are things which are finite and have a conditioned existence.
 But if several individual things concur in one action, so as to be all simultaneously the effect of one cause, I consider them all as one particular thing.
 
 

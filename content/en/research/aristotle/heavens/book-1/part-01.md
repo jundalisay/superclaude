@@ -14,7 +14,9 @@ The science which has to do with nature clearly concerns itself for the most par
 
 A continuum is that which is divisible into parts always capable of subdivision, and a body is that which is every way divisible.
 
-A magnitude if divisible one way is a line, if two ways a surface, and if three a body. Beyond these there is no other magnitude, because the three dimensions are all that there are, and that which is divisible in three directions is divisible in all. 
+A magnitude if divisible one way is a line, if two ways a surface, and if three a body. 
+
+Beyond these there is no other magnitude, because the three dimensions are all that there are, and that which is divisible in three directions is divisible in all directions. 
 
 The Pythagoreans say that the world and all that is in it is determined by the number 3, since beginning and middle and end give the number of an 'all'.
 

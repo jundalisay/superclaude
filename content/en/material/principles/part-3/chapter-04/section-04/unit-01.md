@@ -57,7 +57,7 @@ The main mechanism for electricity, magnetism, and light transparency are the fl
 
 This corkscrew nature is now called the angular momentum of light. 
 
-{{< q a="Rene Descartes" a="Principia Philospohia, Part 3, Article 90" >}}
+{{< q a="Rene Descartes" c="Principia Philospohia, Part 3, Article 90" >}}
 The middle of 3 air-aether globules touching each other create narrow triangular spaces. These striated particles must take on a triangular shape in their width and height when they pass through these. Their length is not easy to determine because it only depends on the abundance of fire-aether in them. 
 
 They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting, having the shape of a curvilinear triangle `FGI`.

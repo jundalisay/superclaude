@@ -1,11 +1,11 @@
 ---
 heading: "Unit 4"
-title: "GA Ratio"
+title: "GM Ratio"
 description : ""
-weight: 14
+weight: 24
 # orig date: 2016-01-01
 date: 2025-01-19
-image: /photos/social/lawmaker.jpg
+image: /photos/econ/worker.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,5 +13,7 @@ writer:
 
 
 
+The GM ratio is the rise or fall in manufacturing as the society gets wealthier. 
 
-The GA ratio is the rise or fall in agriculture as the society gets wealthier. A rising slope indicate increased investments in agriculture as opposed to services or manufacturing and could also be a sign of austere morals or of the rise of the laborer class
+A rising slope indicate investments in manufacturing and likewise a probable rise in austere morals or of the rise of the intellectual class.
+

@@ -79,7 +79,7 @@ Phone Price | $100 | $200
 
 The money system will make you buy the phone today, but the points system will not. 
 
-The points systerm will discourage you from buying the phone wheter the price of rice goes up to $4 or to $1.5
+The points systerm will discourage you from buying the phone wheter the price of rice goes up to USD 4 or to USD 1.5
 <!-- - If the rice inflation is more than the phone inflation (e.g. to $4) then it will discourage you from buying the phone on points
 - If the rice inflation is less than the phone inflation (e.g. to $1.5) then it will discourage you from buying the phone on points -->
 
