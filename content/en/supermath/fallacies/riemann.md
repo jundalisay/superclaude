@@ -28,12 +28,10 @@ A mathematician who has nothing better to do with his life will wonder if there 
 
 Many have tried, even wasting supercomputer time to try to prove the smoothness yet it could never be proven by brute force. 
 
-
  <!-- the pattern and no one has ever found it -- because a subjective, dynamic universe does not limit itself to objective, rigid patterns.  -->
 
 
 ## Riemann's Wild Goose Chase
-
  <!-- Did (In 1859) -->
 
 Bernhard Riemann invented a special "machine" — the **Riemann Zeta Function** — that turns the prime numbers into a smooth, wavy curve.
@@ -63,38 +61,6 @@ Unlike Euler's product which was based on real numbers, Riemann's hypothesis is 
 
 It is therefore just another Zeno's paradox or a non-problem like a trick that wastes the time of curious people who don't know that abstract numbers should only support real ones!
 
-
-<!--  ## Why Imaginary Numbers?
-
-"Imaginary" numbers sound scary, but they're just a way to describe **waves and oscillations**.
-
-- **Regular numbers** (1, 2, 3) describe amounts — how many apples you have.
-- **Imaginary numbers** describe rotations and cycles — like a wave going up and down, or a wheel spinning.
-
-When you add imaginary numbers to the Riemann function, it starts behaving like a vibrating drumhead. The function "dances" — rising, falling, crossing zero at certain points. -->
-
-
-
-<!-- ## The Riemann Hypothesis (The Big Prediction)
-
-Riemann noticed that all the interesting zeros (crossings) of this wavy function seem to lie on a single vertical line at $ \frac{1}{2} $.
-
-In plain English: **If you look at the hidden pattern of primes, the "sweet spot" — the place where the clearest information lives — is always right in the middle.**
- -->
-<!-- It's like discovering that every time you drop a coin, it always lands exactly on its edge. That would be too perfect to be random. It would mean there's a hidden law of nature making it happen. -->
-
-
-<!-- | If Riemann is RIGHT | If Riemann is WRONG |
-|---------------------|---------------------|
-| Prime numbers have a deep hidden order | Prime numbers are truly random chaos |
-| We can predict prime distribution with near-perfect accuracy | We can never fully predict primes |
-| Internet security (which uses primes for encryption) has a hidden mathematical foundation | Prime-based security is built on a illusion of order |
-
-**We know that Riemann is wrong because the universe is not objective or fixed.**
-
-Any effort to prove the Riemann Hypothesis is just as waste of time and energy, just as the initial feeling to find a rigid pattern of prime numbers is a deceptive feeling from the Negative Force.
-
-Supercomputers have tested the first 10 trillion zeros to show that they all lie on that magical line at $ \frac{1}{2} $. But nobody can prove that the 10-trillion-and-first zero will also be there. -->
 
 
 ## Time Waster Just like String Theory which is Unprovable
@@ -134,6 +100,41 @@ This is why we regard:
 - Einstein's Field Equations as a scam that blocks away the true nature of Nature
 
 Both of these are against Nature and so anyone who does them ends up merely wasting time. 
+
+
+<!--  ## Why Imaginary Numbers?
+
+"Imaginary" numbers sound scary, but they're just a way to describe **waves and oscillations**.
+
+- **Regular numbers** (1, 2, 3) describe amounts — how many apples you have.
+- **Imaginary numbers** describe rotations and cycles — like a wave going up and down, or a wheel spinning.
+
+When you add imaginary numbers to the Riemann function, it starts behaving like a vibrating drumhead. The function "dances" — rising, falling, crossing zero at certain points. -->
+
+
+
+<!-- ## The Riemann Hypothesis (The Big Prediction)
+
+Riemann noticed that all the interesting zeros (crossings) of this wavy function seem to lie on a single vertical line at $ \frac{1}{2} $.
+
+In plain English: **If you look at the hidden pattern of primes, the "sweet spot" — the place where the clearest information lives — is always right in the middle.**
+ -->
+<!-- It's like discovering that every time you drop a coin, it always lands exactly on its edge. That would be too perfect to be random. It would mean there's a hidden law of nature making it happen. -->
+
+
+<!-- | If Riemann is RIGHT | If Riemann is WRONG |
+|---------------------|---------------------|
+| Prime numbers have a deep hidden order | Prime numbers are truly random chaos |
+| We can predict prime distribution with near-perfect accuracy | We can never fully predict primes |
+| Internet security (which uses primes for encryption) has a hidden mathematical foundation | Prime-based security is built on a illusion of order |
+
+**We know that Riemann is wrong because the universe is not objective or fixed.**
+
+Any effort to prove the Riemann Hypothesis is just as waste of time and energy, just as the initial feeling to find a rigid pattern of prime numbers is a deceptive feeling from the Negative Force.
+
+Supercomputers have tested the first 10 trillion zeros to show that they all lie on that magical line at $ \frac{1}{2} $. But nobody can prove that the 10-trillion-and-first zero will also be there. -->
+
+
 
 
 <!-- Imagine you throw a dart at a wall covered in tiny dots (the primes). Each time, the dart hits a dot. But the dots seem random.
