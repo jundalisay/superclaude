@@ -63,7 +63,6 @@ The body remains at rest with respect to the system (`x`, `y`, `z`).
 
 Energy must apply to this process and to both systems of co-ordinates via Relativity.
 
- 
 
 After the emission of light `E1` or `H1` respectively, we measure the energy of the body relatively to the system `(x, y, z)`` or `(ξ, η, ζ)` respectively. We obtain:
 
