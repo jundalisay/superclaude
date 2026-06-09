@@ -1,43 +1,85 @@
 ---
 heading: "Unit 4"
-linkTitle: Particle Shaking
-title: "Particle Shaking Versus Smashing"
-# date: 2023-10-14
-image: /photos/physics/neutrino.jpg
-description: "We simplify the Periodic Table to use Atomic Numbers and 5 Elements Pentagon"
+linkTitle: Pentagonic
+title: "The Pentagonic Versions of Elements"
+# date: 2023-10-14 
+image: /graphics/physics/glucose.jpg
+description: "We arrange elements into vortices"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 12
 icon: Juan
 toc: false
+aliases:
+  /material/principles/part-5/chapter-04c
 ---
 
 
 
-### Atom-Smashing Doesn't Expose Nature
+### The 5 Arms
 
-According to Physics, gravity comes from mass which then comes from the Higgs Field. This leads to a matter-based singularity that exploded as a Big Bang that created the universe. 
+The material elements have 5 classifications called aether, air, fire, water, and earth. We connect this to the periodic table to create the Pentagonic Versions of Elements. 
 
-Because of this, physicists imagine that the insides of matter, as protons, hold the secrets to the universe. This is why they keep on smashing subatomic particles, like a treasure-hunter digging the ground uselessly looking for hidden gold. 
-
-But Nature says otherwise, that the matter is the effect and not the cause of Creation. Digging into effects will lead to more effects and not the cause. 
-
-The reason for the physicists' confusion is that energy and mass are so tied together, like two sides of a coin. It makes them think that the effect is the cause. 
-
-This traps them in the effect, making the cause impossible to discover. This trap then prevents a whole new class of technologies that could have solved so many problems.
-
-For example, physicists fail at fusion because they confine plasma with magnetism. This is despite the fact that the stars themselves show that their fusion is caused by gravity and not magnetism. 
-
-<!-- So the solution is artificial gravity. The ancient Egyptians and Hindus already knew how artificial gravity works. But for some reason the East doesn't develop it and nor does the West don't tap into such knowledge.  -->
+{{< i s="/graphics/physics/pentagonic.jpg" a="Pentagonic Table of Elements" >}}
 
 
-### Atom-Shaking is the Proper Way
+These start with hydrogen, incrementing alternately through the elements in a pentagon. This creates swrils, similar to a vortex, and is consistent with Cartesian vortices. 
 
-The real cause of gravity is the aether which creates aethreal relationships on the fly. 
+This has advantages over the Periodic Table:
 
-One of of these relationships is gravity. Another is particle decay. Another is Superposition (i.e. teleportation). 
+- It drops arbitrary names such as Einsteinium and Californium for numerical ones like "6" for carbon, so that CO2 is 6-8(2) pronounce six-eight-duo. In this way, people just need to memorize the atomic number. 
+- The relationships of the compounds become more intuitive. For example, the magnetic metals form recurring rings, while the groups form spirals  
+- This associates numbers and shapes in the mind. This is a critical step in transitioning from math to qualimath which aligns with Sassani math which only has shapes and no numbers. This is because the aether is best described as a fluffy vibrating white cloud with no defined edges (that's how I saw it anyway in my meditation). 
 
-The key to reveal these relationships is to shake the atom, not to smash them. In this way, the identity of the atom is sustained. This identity is obviously destroyed when it is smashed and it reverts to its aethereal form. 
 
-  
+{{< i s="/graphics/physics/butane.jpg" a="Butane" c="Butane as C4 H10 becomes 6(4)-1(10) or six-quad-one-decad" >}}
+
+{{< i s="/graphics/physics/glucose.jpg" a="Glucose" c="Glucose as C6 H12 O6 becomes 6(6)-1(12)-8(6) or six-hexa-one-dodeca-eight-hexa" >}}
+
+
+### The Weird Russel Table
+
+The original version of the Periodic Table was created by Mendeleev in 1869. It had the hypothetical elements such as the ether and coronium. 
+
+Artist Walter Russel created his own table with weird elements such as alphanon, betanon, and gammanon. 
+
+{{< img src="/graphics/physics/russel.jpg" alt="Periodic Table of Russel" >}}
+
+
+Russel's table is very arbitrary and inconsistent. However, it  had a vortex arrangement which allowed us to integrate Descartes' vortices with the material elements. 
+
+
+{{< n n="Our priority was the Spatial Layer since that was the most lacking and misunderstood in the current sciences. We were supposed to look into the Periodic Table after going through the application of Cartesian Relationality in particle decay. However, someone sent us a video showing Terrence Howard talking about the Russell Table which was disgusting" >}}
+
+<!-- We propose a Modified Periodic Tables of Elements that replaces the names of elements with their atomic numbers.
+
+This is because Material Superphysics will open up new ways to create elements, leading to more elements. 
+
+This will make the old system very inconvenient. -->
+
+
+This table integrates the following principles:
+
+1. The 5 Elements
+
+This manifests as the 5 arms which leads to the 10 major element groups. It also explains why Carbon and Oxygen are so important in our living universe. 
+
+
+2. The 2 Forces
+
+This manifests as the sequence of the elements or versions spreading in an opposing pattern as the pentagon expands.
+
+<!-- This has the following advantages:
+- People don't need to memorize "Sodium", "Hydroxide", etc. Instead they just need to know the atomic numbers
+- The relationships of the compounds become more intuitive. For example, the magentic metals form recurring rings, while the groups form spirals -->
+
+The vortex pattern formed by the element-groups show the snapshot of the oversoul of the material layer in our universe. 
+
+Other universes will have different patterns. 
+
+
+<!-- In the future, we will add the following -->
+
+
+
