@@ -1,8 +1,8 @@
 {{ $date := .Get "date" | default "" }}
 {{ $d := .Get "d" | default "" }}
 
-<section class="message bg-gray-100 dark:bg-gray-700 rounded-lg shadow-lg border p-4 mt-6" data-sal="slide-right">
-  <div class="message-header mb-4 font-bold">
+<section class="message bg-gray-100 text-gray-800 border-gray-300 dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700 rounded-lg shadow-lg border p-4 mt-6" data-sal="slide-right">
+  <div class="message-header mb-4 font-bold border-b border-gray-300 dark:border-gray-600 pb-2">
     Update: {{ $date }} {{ $d }}
   </div>
   <div class="message-body">

@@ -62,6 +62,10 @@ The confimation elections for 2022 will replace them by fielding candidates for:
 
 This is on top of the confirmation elections (yes or no) for the remaining 23 leaders. 
 
+- The people who dislike their leaders have to attack those leaders by voting no. 
+- The people who like their leaders have to defend those leaders by voting yes. 
+
+
 In this way, in theory, good officials can stay for a lifetime, while very bad officials will only stay for 2 years. Outvoted officials can try again depending on the variations of this election system. 
 
 For example, assuming the elections are held every December 31. 
@@ -78,12 +82,13 @@ Parliamentary countries can go on for many months without a government such as i
 
 
 
-## Binary Effect
+## Binary Effect and Wave-based
 
 This new system allows dynamism and a proper matching of policies to the actual needs of the people with a 1 year lag at the most. 
 
 In the US, they had to wait for 4 years for Trump to finish his term before his policies could be reversed.
 
 In the beginning, there will be flip-flopping of policies as the society changes leaders every 2 years at worst. But after 10-20 years, the patterns become clear and the differences between policies and parties will be smoothened. You could say that the whole election system would be like a giant 'primaries' eventually leading to a binary system because of the annual frequency of the elections.
+
 
 The next post will explain Hume's other political innovation called the Council of Opposition
