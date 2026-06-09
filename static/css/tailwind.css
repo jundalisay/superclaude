@@ -3963,6 +3963,11 @@
       border-color: var(--color-gray-400);
     }
   }
+  .dark\:border-gray-600 {
+    @media (prefers-color-scheme: dark) {
+      border-color: var(--color-gray-600);
+    }
+  }
   .dark\:border-gray-700 {
     @media (prefers-color-scheme: dark) {
       border-color: var(--color-gray-700);
