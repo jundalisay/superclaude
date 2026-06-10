@@ -19,7 +19,7 @@ In Material Superphysics, constants are fixed ratios in our current universe.
 
 
 
-## Bases
+## Bases as Qualities or Paradigms
 
 In Superphysics, everything is unique. 
 
@@ -164,4 +164,11 @@ This reduces a base-10 meter to 0.826 meters. This replaces an inch with a 0.1 f
 ## The Inconstancy of G Proves the Open Nature of Space and Time
 
 We point out the inconstancy of [Newton's G](/material/newtons-g/) as proof of the open nature of space and time. 
+
+
+
+## Update 2026: Sassani Base-9
+
+The Sassani use base-9 just like Tesla, instead of base-6. So we will have to overhaul this Unit to switch to base-9 since we want to harmonize with Sassani math. 
+
 
