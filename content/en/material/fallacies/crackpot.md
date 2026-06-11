@@ -17,6 +17,7 @@ Most people comment that we are crackpots and our posts are pseudoscience even i
 - from Buddhism as levitating monks (Buddhism is all about proving things and discarding dogma)
 - from Chinese medicine as the healing through chi (Descartes' animal spirits)
 - from UFO footage and Bob Lazar's explanation of the Physics of the sport model UFO of the Grays
+  - Update May 2026: The US Department of War has released more [UFO footage](https://www.war.gov/UFO/) which have actually helped us fill the gaps on how Gravity A waves are actually generated. 
 
 So we dissect the Crackpot Index that Redditors claim is the basis for such brandings. Basically it gives points for each statement that does not align with the current dogma of the religion of Physics, just as Galileo did not align with Catholic dogma.
 
@@ -102,6 +103,7 @@ So we assume that it will also take that around that time for people to actually
 
 Only a severe event such as a nuclear war or an asteroid impact would rush the adoption of a new Physics and the discarding of the current scam-based one that has Einstein as its Jesus.
 
-{{< i s="/photos/objects/asteroid.jpg" a="Asteroid" c="We actually need an asteroid to threaten life on Earth to expose how useless the Physics of Newton and Einstein are, and how only the true Physics of Descartes, Spinoza, Hindusim, Buddhism, and Taoism can deal with it through an anti-gravity 'net' as explained in the Sumerian texts of how the Anunnaki weaponized asteroids via anti-gravity technology to wipe out planetary life" >}}
+{{< i s="/photos/objects/asteroid.jpg" a="Asteroid" c="We actually need an asteroid to threaten life on Earth to expose how useless the Physics of Newton and Einstein are, and how only the true Physics of Descartes, Spinoza, Hindusim, Buddhism, and Taoism can deal with it through an anti-gravity 'net' as explained in the Sumerian texts of how the Anunnaki weaponized asteroids via anti-gravity technology to wipe out planetary life. Update Dec 2025: Wow this actually nearly happened with Comet 3I/ATLAS which could have smashed into Earth but instead have given us more data for Cartesian lensing as its anti tail that Newtonian Physics can't explain" >}}
+
 
 Only then will humans free their minds from being told that nothing travels faster than light. When they get rid of this limiting imposition then the reality of the teleportation of masses will be more realizable.
