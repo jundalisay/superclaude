@@ -2,8 +2,8 @@
 heading: Chaoter 4
 # title: "Substances of the Material Layer"
 title: Substances
-description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
-image: "/photos/objects/fractal.jpg"
+description: "The atom is the most obvious substance of matter"
+image: "/photos/physics/atom.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,3 +12,5 @@ weight: 12
 aliases:
   /material/principles/part-5/chapter-04b/
 ---
+
+

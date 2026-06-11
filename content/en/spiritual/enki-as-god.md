@@ -1,9 +1,9 @@
 ---
-title: "Allah as Anunnaki"
+title: "Allah as the Enki Faction of the Anunnaki"
 date: 2024-10-18
 image: "/graphics/history/moses.jpg"
-description: "Update: We replace Allah with Anunnaki-Allah or Anu"
-# "After Allah led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Sina"
+description: "After Allah led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Sina"
+# "Update: We replace Allah with  Anunnaki-Allah or Anu"
 weight: 4
 writer:
   name: Juan
@@ -11,7 +11,7 @@ writer:
 ---
 
 
-{{< n n="Note that Allah / Jupiter / Jove here represents the later generation Anunnaki that stayed behind after The Great Flood and were winged. Enlil / Ra / Indra / Zeus represent the earler generation of Anunnaki which were more cow-like. Adam and Eve are representations of the first batch of humans created by the Anunnaki. This was from the Sassani transmission on Dec 2016" >}}
+{{< n n="Note that Enki / Allah / Jupiter / Jove here represents the later generation Anunnaki that stayed behind after The Great Flood and were winged. Enlil / Ra / Indra / Zeus represent the earler generation of Anunnaki which were more cow-like. Adam and Eve are representations of the first batch of humans created by the Anunnaki. This was from the Sassani transmission on Dec 2016" >}}
 
  <!-- means the Allah faction just like Obama was the most famous leader of the Democratic Party and Reagan was the most famous leader of the Republican Party. So Allah versus Enlil is like Democrat versus Republican -->
 
@@ -22,24 +22,31 @@ By 10,800 BC, the Anunnaki got fed up with humans and tried to destroy them thro
 
 But a few Anunnaki stayed behind to guide humans until 1177 BC when the last Anunnaki pulled out, leaving only Nephilim who were eventually mopped up by humans.  
 
-Before they left, a faction led by an Anunnaki group which we will call "Allah" tried to establish the Jews by leading them out of Egypt via Moses.
+Before they left, a faction led by an Anunnaki group which we will call the Enki faction tried to establish the Jews by leading them out of Egypt via Moses.
 
-- Allah then gave a lot of laws up on Mount Sinai. 
+- The Enki faction then gave a lot of laws up on Mount Sinai. 
 - This behavior is consistent with Allah giving A LOT of laws to Mohammad.
 
 
-The most important law was to worship only Allah and not other alien-gods of the previous generation of Anunnaki, which we represent as "Enlil / Zeus". 
+The most important law was to worship only Allah and not other alien-gods of the previous generation of Anunnaki, which we represent as the Enlil faction which was called:
+- Zeus by the Greeks
+- Indra by the Vedic Indians
 
-This is because Allah did not want humans to remember Enlil / Zeus or the difficult past.  
+This is because Enki / Allah did not want humans to remember Enlil / Zeus:
+
+{{< q a="Mohammad" c="Quran 21:67" >}}
+Shame on you and whatever you worship instead of Allah! Do you not have any sense?
+{{< /q >}}
+
 
 <!-- In the ancient Egyptian religion:
 - Enlil is Ra
 - Allah is Sobek -->
 
 
-To get legitimacy for these laws, Allah demonstrated his power to the Israelites through cloud, lightning, thunder, trumpets, and earthquakes (Exodus 19). 
+To get legitimacy for these laws, the Enki-faction / Allah demonstrated their power to the Israelites through cloud, lightning, thunder, trumpets, and earthquakes (Exodus 19). 
 
-While waiting for Moses to come down from Mount Sinai, the Israelites decided to worship Ra (Enlil) through a golden calf made by Aaron. But none of them knew that the calf really represented the early Anunnaki!
+While waiting for Moses to come down from Mount Sinai, the Israelites decided to worship Ra (Enlil-faction) through a golden calf made by Aaron. But none of them knew that the calf really represented the early Anunnaki!
 
 This made Allah extremely mad that he wanted to destroy all the Israelites and start over with just Moses. 
 
@@ -49,7 +56,7 @@ So Allah changes his plan and Moses rushes down the mountain, shocked and fuming
 
 He destroys the calf and asks who among them is on the side of Allah. 
 
-The loyalist Levites come up and Moses orders them to kill all 3,000 partisans of Ra. 
+The loyalist Levites come up and Moses orders them to kill all 3,000 partisans of Ra / Enlil faction. 
 
 {{< i s="/graphics/history/moses.jpg" a="Moses gets pissed" >}}
 
@@ -69,5 +76,5 @@ And so through the Prophet Mohammad, Allah starts anew and gives so many laws al
 
 The Muslims are therefore the last true human allies of the last generation of Anunnaki. 
 
-So we rename Allah as Anunnaki-Allah or Anu for short.
+So we rename Allah as Enki-Allah or Enki for short.
 

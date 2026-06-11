@@ -92,7 +92,6 @@ Socratic Dialectics | The use of critical feeling and critical thinking, with re
 Soul | a mind that is regarded without its crude parts. This is called atman in Sanskrit.
 Space | the perceptive gap within perception, marked by identities
 Spirit | a mind in active form with waves of forces and feelings flowing through it
-<!-- Any emtity or identity that relates to the pure Positive Force, with the Absolute as reference -->
 Spirituality | Any concept or idea that related to the pure Positive Force, with the Absolute as reference
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1); the thing that makes up potential Existence
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
@@ -110,6 +109,7 @@ Virtue | A specific feeling that is dharmic
 Yoga | Union created by the Positive Force
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
 <!-- a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings) -->
+<!-- spirituality Any emtity or identity that relates to the pure Positive Force, with the Absolute as reference -->
 
 
  <!-- An original metaphysical object created by the Supreme that is accessed by abstract minds; a product of Ideation (accessing pre-existing ideas) -->

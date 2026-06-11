@@ -1,7 +1,7 @@
 ---
 heading: "Unit 3"
-linkTitle: Pentagonic
-title: "The Pentagonic Versions of Elements"
+linkTitle: Naming
+title: "The Version-naming of Elements"
 # date: 2023-10-14
 image: /photos/social/police.jpg
 description: "We simplify the Periodic Table to use Atomic Numbers and 5 Elements Pentagon"
@@ -11,13 +11,11 @@ writer:
 weight: 12
 icon: Juan
 toc: false
-aliases:
-  /material/principles/part-5/chapter-04c
 ---
 
 
 
-In Cartesian Physics, each of the elements is a mere version or modification of the aethereal substance. 
+In Cartesian Physics, each of the elements is a mere version or modification or modes of the aethereal substance. 
 
 
 {{< q a="Rene Descartes" >}}
@@ -50,67 +48,112 @@ Sodium Hydroxide 1-18-1 dissolves in water 1(2)-8 to form:
 
 
 
-### The 5 Arms
+<!-- ## 10 Common Compounds in v-Notation
 
-These elements have 5 classifications called aether, air, fire, water, and earth. We connect this to the periodic table to create the Pentagonic Versions of Elements. 
+### 1. Water
+**Traditional:** H₂O
+**Full v-notation:** v001₂v008
+**Shorthand:** v1₂v8
+**Long name:** Dihydrogen monoxide
+**v-name:** Di-v001 mono-v008 · *"one-eight water"*
 
-{{< i s="/graphics/physics/pentagonic.jpg" a="Pentagonic Table of Elements" >}}
+---
+
+### 2. Carbon Dioxide
+**Traditional:** CO₂
+**Full v-notation:** v006v008₂
+**Shorthand:** v6v8₂
+**Long name:** Carbon dioxide
+**v-name:** Mono-v006 di-v008 · *"six-eight-two"*
+
+---
+
+### 3. Sodium Chloride (Table Salt)
+**Traditional:** NaCl
+**Full v-notation:** v011v017
+**Shorthand:** v11v17
+**Long name:** Sodium chloride
+**v-name:** v011-v017 · *"eleven-seventeen salt"*
+
+---
+
+### 4. Sulfuric Acid
+**Traditional:** H₂SO₄
+**Full v-notation:** v001₂v016v008₄
+**Shorthand:** v1₂v16v8₄
+**Long name:** Dihydrogen tetraoxosulfate
+**v-name:** Di-v001 v016 tetra-v008 · *"one-two sixteen eight-four acid"*
+
+---
+
+### 5. Ammonia
+**Traditional:** NH₃
+**Full v-notation:** v007v001₃
+**Shorthand:** v7v1₃
+**Long name:** Trihydrogen nitride
+**v-name:** v007 tri-v001 · *"seven one-three"*
+
+---
+
+### 6. Glucose
+**Traditional:** C₆H₁₂O₆
+**Full v-notation:** v006₆v001₁₂v008₆
+**Shorthand:** v6₆v1₁₂v8₆
+**Long name:** Hexahydroxyhexanal / 2,3,4,5,6-pentahydroxyhexanal
+**v-name:** Hexa-v006 dodeca-v001 hexa-v008 · *"six-six one-twelve eight-six"*
+
+---
+
+### 7. Methane
+**Traditional:** CH₄
+**Full v-notation:** v006v001₄
+**Shorthand:** v6v1₄
+**Long name:** Carbon tetrahydride
+**v-name:** v006 tetra-v001 · *"six one-four"*
+
+---
+
+### 8. Hydrochloric Acid
+**Traditional:** HCl
+**Full v-notation:** v001v017
+**Shorthand:** v1v17
+**Long name:** Hydrogen chloride
+**v-name:** v001-v017 · *"one-seventeen"*
+
+---
+
+### 9. Calcium Carbonate (Limestone)
+**Traditional:** CaCO₃
+**Full v-notation:** v020v006v008₃
+**Shorthand:** v20v6v8₃
+**Long name:** Calcium trioxocarbonate
+**v-name:** v020 v006 tri-v008 · *"twenty six eight-three"*
+
+---
+
+### 10. Ethanol
+**Traditional:** C₂H₅OH
+**Full v-notation:** v006₂v001₅v008v001
+**Shorthand:** v6₂v1₅v8v1
+**Long name:** 2-carbon hexahydro-1-ol / ethyl alcohol
+**v-name:** Di-v006 hexa-v001 v008 · *"six-two one-six eight-one"* -->
 
 
-These start with hydrogen, incrementing alternately through the elements in a pentagon. This creates swrils, similar to a vortex, and is consistent with Cartesian vortices. 
 
-This has advantages over the Periodic Table:
-
-- It drops arbitrary names such as Einsteinium and Californium for numerical ones like "6" for carbon, so that CO2 is 6-8(2) pronounce six-eight-duo. In this way, people just need to memorize the atomic number. 
-- The relationships of the compounds become more intuitive. For example, the magnetic metals form recurring rings, while the groups form spirals  
-- This associates numbers and shapes in the mind. This is a critical step in transitioning from math to qualimath which aligns with Sassani math which only has shapes and no numbers. This is because the aether is best described as a fluffy vibrating white cloud with no defined edges (that's how I saw it anyway in my meditation). 
-
-
-{{< i s="/graphics/physics/butane.jpg" a="Butane" c="Butane as C4 H10 becomes 6(4)-1(10) or six-quad-one-decad" >}}
-
-{{< i s="/graphics/physics/glucose.jpg" a="Glucose" c="Glucose as C6 H12 O6 becomes 6(6)-1(12)-8(6) or six-hexa-one-dodeca-eight-hexa" >}}
-
-
-### The Weird Russel Table
-
-The original version of the Periodic Table was created by Mendeleev in 1869. It had the hypothetical elements such as the ether and coronium. 
-
-Artist Walter Russel created his own table with weird elements such as alphanon, betanon, and gammanon. 
-
-{{< img src="/graphics/physics/russel.jpg" alt="Periodic Table of Russel" >}}
+| Compound | Traditional | Full v-notation | Shorthand |
+|---|---|---|---|
+| Water | H₂O | v001₂v008 | v1₂v8 |
+| Carbon dioxide | CO₂ | v006v008₂ | v6v8₂ |
+| Table salt | NaCl | v011v017 | v11v17 |
+| Sulfuric acid | H₂SO₄ | v001₂v016v008₄ | v1₂v16v8₄ |
+| Ammonia | NH₃ | v007v001₃ | v7v1₃ |
+| Glucose | C₆H₁₂O₆ | v006₆v001₁₂v008₆ | v6₆v1₁₂v8₆ |
+| Methane | CH₄ | v006v001₄ | v6v1₄ |
+| Hydrochloric acid | HCl | v001v017 | v1v17 |
+| Limestone | CaCO₃ | v020v006v008₃ | v20v6v8₃ |
+| Ethanol | C₂H₅OH | v006₂v001₅v008v001 | v6₂v1₅v8v1 |
 
 
-Russel's table is very arbitrary and inconsistent. However, it  had a vortex arrangement which allowed us to integrate Descartes' vortices with the material elements. 
+For spoken versions, a lab technician asking for *"one-two sixteen eight-four"* for sulfuric acid carries the entire molecular formula in the spoken name itself, something "sulfuric acid" never did.
 
-
-{{< n n="Our priority was the Spatial Layer since that was the most lacking and misunderstood in the current sciences. We were supposed to look into the Periodic Table after going through the application of Cartesian Relationality in particle decay. However, someone sent us a video showing Terrence Howard talking about the Russell Table which was disgusting" >}}
-
-<!-- We propose a Modified Periodic Tables of Elements that replaces the names of elements with their atomic numbers.
-
-This is because Material Superphysics will open up new ways to create elements, leading to more elements. 
-
-This will make the old system very inconvenient. -->
-
-
-This table integrates the following principles:
-
-1. The 5 Elements
-
-This manifests as the 5 arms which leads to the 10 major element groups. It also explains why Carbon and Oxygen are so important in our living universe. 
-
-
-2. The 2 Forces
-
-This manifests as the sequence of the elements or versions spreading in an opposing pattern as the pentagon expands.
-
-<!-- This has the following advantages:
-- People don't need to memorize "Sodium", "Hydroxide", etc. Instead they just need to know the atomic numbers
-- The relationships of the compounds become more intuitive. For example, the magentic metals form recurring rings, while the groups form spirals -->
-
-The vortex pattern formed by the element-groups show the snapshot of the oversoul of the material layer in our universe. 
-
-Other universes will have different patterns. 
-
-
-<!-- In the future, we will add the following -->
 

@@ -32,7 +32,7 @@ So we use Enki to replace:
 
 
 
-{{< n n="Update April 2026: We replace Enki with Anu to emphasize the power of the Anunnaki over humans instead of the creation event" >}}
+<!-- n n="Update April 2026: We replace Enki with Anu to emphasize the power of the Anunnaki over humans instead of the creation event" -->
 
 
 In this way, one can read the Sumerian, Babylonian, Jewish texts, and then the Quran to find the story of the Middle Eastern people consistent. 

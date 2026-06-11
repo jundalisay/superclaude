@@ -3963,6 +3963,11 @@
       border-color: var(--color-gray-400);
     }
   }
+  .dark\:border-gray-600 {
+    @media (prefers-color-scheme: dark) {
+      border-color: var(--color-gray-600);
+    }
+  }
   .dark\:border-gray-700 {
     @media (prefers-color-scheme: dark) {
       border-color: var(--color-gray-700);
@@ -4147,15 +4152,6 @@
           @supports (color: color-mix(in lab, red, red)) {
             background-color: color-mix(in oklab, var(--color-teal-950) 40%, transparent);
           }
-        }
-      }
-    }
-  }
-  .dark\:hover\:text-gray-300 {
-    @media (prefers-color-scheme: dark) {
-      &:hover {
-        @media (hover: hover) {
-          color: var(--color-gray-300);
         }
       }
     }
