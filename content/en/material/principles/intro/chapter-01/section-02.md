@@ -9,10 +9,9 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: "Superphysics"
-# was 1b
+aliases:
+  /material/principles/intro/chapter-01b/
 ---
-
-
 
 
  <!-- as Particle Dialectics -->
