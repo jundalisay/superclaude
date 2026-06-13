@@ -1,4 +1,4 @@
-/*! tailwindcss v4.3.0 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.3.1 | MIT License | https://tailwindcss.com */
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
@@ -365,13 +365,13 @@
     position: sticky;
   }
   .inset-0 {
-    inset: calc(var(--spacing) * 0);
+    inset: 0;
   }
   .-top-2 {
     top: calc(var(--spacing) * -2);
   }
   .top-0 {
-    top: calc(var(--spacing) * 0);
+    top: 0;
   }
   .top-1\/2 {
     top: calc(1 / 2 * 100%);
@@ -395,13 +395,13 @@
     right: calc(var(--spacing) * -3);
   }
   .right-0 {
-    right: calc(var(--spacing) * 0);
+    right: 0;
   }
   .-bottom-2 {
     bottom: calc(var(--spacing) * -2);
   }
   .bottom-0 {
-    bottom: calc(var(--spacing) * 0);
+    bottom: 0;
   }
   .bottom-2 {
     bottom: calc(var(--spacing) * 2);
@@ -419,7 +419,7 @@
     left: calc(var(--spacing) * -3);
   }
   .left-0 {
-    left: calc(var(--spacing) * 0);
+    left: 0;
   }
   .left-1\/2 {
     left: calc(1 / 2 * 100%);
@@ -641,7 +641,7 @@
     margin-top: calc(var(--spacing) * 0.5);
   }
   .mt-1 {
-    margin-top: calc(var(--spacing) * 1);
+    margin-top: var(--spacing);
   }
   .mt-1\.5 {
     margin-top: calc(var(--spacing) * 1.5);
@@ -680,7 +680,7 @@
     margin-right: calc(var(--spacing) * 3);
   }
   .mb-1 {
-    margin-bottom: calc(var(--spacing) * 1);
+    margin-bottom: var(--spacing);
   }
   .mb-1\.5 {
     margin-bottom: calc(var(--spacing) * 1.5);
@@ -716,7 +716,7 @@
     margin-left: calc(var(--spacing) * -1.5);
   }
   .ml-1 {
-    margin-left: calc(var(--spacing) * 1);
+    margin-left: var(--spacing);
   }
   .ml-4 {
     margin-left: calc(var(--spacing) * 4);
@@ -791,7 +791,7 @@
     aspect-ratio: var(--aspect-video);
   }
   .h-1 {
-    height: calc(var(--spacing) * 1);
+    height: var(--spacing);
   }
   .h-2 {
     height: calc(var(--spacing) * 2);
@@ -1145,7 +1145,7 @@
     max-width: var(--container-xl);
   }
   .min-w-0 {
-    min-width: calc(var(--spacing) * 0);
+    min-width: 0;
   }
   .flex-1 {
     flex: 1;
@@ -1255,7 +1255,7 @@
     justify-content: flex-start;
   }
   .gap-1 {
-    gap: calc(var(--spacing) * 1);
+    gap: var(--spacing);
   }
   .gap-1\.5 {
     gap: calc(var(--spacing) * 1.5);
@@ -1290,8 +1290,8 @@
   .space-y-1 {
     :where(& > :not(:last-child)) {
       --tw-space-y-reverse: 0;
-      margin-block-start: calc(calc(var(--spacing) * 1) * var(--tw-space-y-reverse));
-      margin-block-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-y-reverse)));
+      margin-block-start: calc(var(--spacing) * var(--tw-space-y-reverse));
+      margin-block-end: calc(var(--spacing) * calc(1 - var(--tw-space-y-reverse)));
     }
   }
   .space-y-2 {
@@ -2089,7 +2089,7 @@
     object-fit: fill;
   }
   .p-1 {
-    padding: calc(var(--spacing) * 1);
+    padding: var(--spacing);
   }
   .p-1\.5 {
     padding: calc(var(--spacing) * 1.5);
@@ -2116,7 +2116,7 @@
     padding-inline: calc(var(--spacing) * 0.5);
   }
   .px-1 {
-    padding-inline: calc(var(--spacing) * 1);
+    padding-inline: var(--spacing);
   }
   .px-1\.5 {
     padding-inline: calc(var(--spacing) * 1.5);
@@ -2146,7 +2146,7 @@
     padding-block: calc(var(--spacing) * 0.5);
   }
   .py-1 {
-    padding-block: calc(var(--spacing) * 1);
+    padding-block: var(--spacing);
   }
   .py-1\.5 {
     padding-block: calc(var(--spacing) * 1.5);
@@ -2816,7 +2816,7 @@
   .group-hover\:translate-x-1 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
-        --tw-translate-x: calc(var(--spacing) * 1);
+        --tw-translate-x: var(--spacing);
         translate: var(--tw-translate-x) var(--tw-translate-y);
       }
     }
@@ -2943,7 +2943,7 @@
   .before\:top-0 {
     &::before {
       content: var(--tw-content);
-      top: calc(var(--spacing) * 0);
+      top: 0;
     }
   }
   .before\:left-1\/2 {
@@ -2992,7 +2992,7 @@
   .after\:bottom-0 {
     &::after {
       content: var(--tw-content);
-      bottom: calc(var(--spacing) * 0);
+      bottom: 0;
     }
   }
   .after\:left-1\/2 {
@@ -3569,7 +3569,7 @@
   }
   .active\:translate-y-0 {
     &:active {
-      --tw-translate-y: calc(var(--spacing) * 0);
+      --tw-translate-y: 0;
       translate: var(--tw-translate-x) var(--tw-translate-y);
     }
   }
@@ -4374,7 +4374,7 @@ code, pre, .font-code {
   .nav-btn {
     display: flex;
     align-items: center;
-    gap: calc(var(--spacing) * 1);
+    gap: var(--spacing);
     border-radius: var(--radius-lg);
     padding-inline: calc(var(--spacing) * 3);
     padding-block: calc(var(--spacing) * 1.5);

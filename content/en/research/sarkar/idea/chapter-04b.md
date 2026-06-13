@@ -38,7 +38,7 @@ It is during **the state of pause and potentiality** that the mindstuff*:
 - is able to receive the quantum-perceptions<!--  tanmátras -->
 - takes the form of shapes represented by those quantum-perceptions<!-- tanmátras -->.
 
-{{< n n="In Cartesian Biology, the mindstuff is formed at the pineal gland. " >}}
+{{< n n="In Cartesian Biology, the mindstuff is formed at the pineal gland as the crown chakra. " >}}
 
 
 

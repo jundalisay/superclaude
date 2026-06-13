@@ -8,6 +8,7 @@ c: "firebrick"
 
 
 
+
 <sup>1-2</sup> [To Ezekiel] Son of man, prophesy against the shepherds of Israel. 
 
 Tell them that Enki said to the shepherds: Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? 
@@ -30,7 +31,7 @@ Tell them that Enki said to the shepherds: Woe be to the shepherds of Israel tha
 
 <sup>11</sup> Behold, I will both search my sheep, and seek them out. 
 
-<sup>12</sup> As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
+<sup>12</sup> As a shepherd seeks out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 
 <sup>13</sup> I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
 
@@ -50,7 +51,9 @@ And to have drunk of the deep waters, but you must foul the residue with your fe
 
 21 Because you have thrust with side and with shoulder, and pushed all the diseased with your horns, till you have scattered them abroad
 
-22 Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle. 23} And I will set up one shepherd over them, and he shall feed them, [even] my servant David; he shall feed them, and he shall be their shepherd.
+22 Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle. 23} And I will set up one shepherd over them, and he shall feed them, [even] my servant David.
+
+He shall feed them, and he shall be their shepherd.
 
 24 I will be their God, and my servant David a prince among them.
 
@@ -66,4 +69,4 @@ And to have drunk of the deep waters, but you must foul the residue with your fe
 
 <sup>30</sup> Thus shall they know that I Enki their God am with them and that they even the house of Israel, are my people
 
-<sup>31</sup> You my flock, the flock of my pasture, [are] men, [and] I [am] your God, said Enki.
+<sup>31</sup> You my flock, the flock of my pasture, [are] men, [and] I [am] your God

@@ -105,28 +105,57 @@ Vice versa, faculae are seen to turn into spots, when these are submerged in the
 
 ## 99. Into what particles the spots dissolve
 
-When these spots dissolve, they do not turn into minutiae [electrons] exactly similar to those from which they were formed. 
+When these spots dissolve and break up, they divide into particles that are not entirely similar to their previous version. 
 
-Instead, they partly transform into:
+<!-- do not turn into minutiae [electrons] exactly similar to those from which they were formed.  -->
 
-1. Thinner and simultaneously more solid particles, or those with less angular shapes.
 
-These are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices.
+1. Some are smaller and, with that, more massive or solid because their points have broken off.
+
+This is why they easily pass through between the particles of the 2nd element to go toward the centers of the surrounding vortices. 
 
 {{< n n="These match neutrinos" >}}
 
 
-2. Extremely thin particles
+2. Some particles form from the broken points of these. And so these are even smaller.
 
-These are either:
-- worn off from other angles or
-- are converted into the pure substance of the Sun
-- even go towards the sky. 
+These can also pass in all directions towards the sky, or else be pushed back towards the Sun to compose its purer substance. 
 
 {{< n n="These are photons" >}}
 
 
-3. Thicker particles composed of several striated [virtual photons] or other particles joined together
+
+3. Finally, the remaining ones stay larger because they are composed of several grooved or otherwise joined parts. 
+
+These, are unable to pass through the triangular spaces found around the small balls of the 2nd element in the sky.
+
+And so they enter into the places of some of those balls.
+
+However, they have very irregular and cumbersome shapes. And so they cannot imitate the speed of those balls in their motion.
+
+{{< n n="These are virtual photons and electrons that go into the solar wind" >}}
+
+
+<!-- Instead, they partly transform into:
+
+1. Thinner and simultaneously more solid particles, or those with less angular shapes.
+
+These are more suited for motion and therefore easily move through the channels between the globules of the surrounding sky towards other vortices. -->
+
+
+
+
+<!-- 2. Extremely thin particles
+
+These are either:
+- worn off from other angles or
+- are converted into the pure substance of the Sun
+- even go towards the sky.  -->
+
+
+
+
+<!-- 3. Thicker particles composed of several striated [virtual photons] or other particles joined together
 
 These are expelled towards the sky.
 
@@ -134,4 +163,4 @@ These are too large to pass through the narrow channels left by the air-aether g
 
 They even penetrate the spaces among these globules and, due to their very irregular and branched shapes, cannot move as easily as those globules.
 
-{{< n n="These are virtual photons and electrons that go into the solar wind" >}}
+ -->
