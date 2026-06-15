@@ -3,8 +3,7 @@ heading: Section 1
 title: "Substances of the Material Layer"
 linkTitle: Substance
 description: "The Substances of the Material Layer are the crudest"
-# youtube: "0jVMiF4nKoA"
-image: "/photos/objects/fractal.jpg"
+image: "/photos/stuff/atom.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

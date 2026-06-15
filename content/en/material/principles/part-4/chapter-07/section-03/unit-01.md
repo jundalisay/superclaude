@@ -1,8 +1,8 @@
 ---
-heading: Section 1
+heading: Unit 1
 title: "Decay Action"
 # date: 2024-07-14
-image: /photos/countries/south.jpg
+image: /photos/physics/pet.jpg
 description: ""
 weight: 4
 writer:
@@ -14,7 +14,7 @@ toc: false
 
 
 
-The Decay action has 3 versions:
+The Decay action has 3 versions corresponding to the gunas:
 
 Sublayer | Name | Used in 
 --- | --- | ---

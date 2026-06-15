@@ -8,7 +8,7 @@ description: "Quantum of Conversion: Neutrinos"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
+weight: 4
 icon: "Juan"
 toc: false
 ---

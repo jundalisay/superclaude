@@ -1,9 +1,8 @@
 ---
 heading: "Chapter 2"
 title: Sublayers
-# title: "The Upper, Middle, and Lower Material Sublayers"
 # date: 2023-12-10
-image: /photos/balancerock.jpg
+image: /photos/physics/states.jpg
 description: "The Sublayers are Solid, Liquid, Gas"
 writer:
   name: Juan

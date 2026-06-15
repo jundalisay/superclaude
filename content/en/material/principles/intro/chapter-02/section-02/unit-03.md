@@ -3,7 +3,7 @@ heading: "Unit 3"
 title: "Density and Size of Particles"
 # date: 2023-11-26
 date: 2025-12-05
-image: "/photos/stuff/ball.jpg"
+image: "/photos/stuff/diamond.jpg"
 description: "Heat particles are of medium size. Like virtual photons, this allows them to piggy back on space particles whith are larger and cause spatial forces."
 writer:
   name: Juan

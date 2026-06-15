@@ -1,8 +1,8 @@
 ---
 heading: "Section 2"
-title: "Bonding"
+title: "Affinity Flow"
 date: 2024-11-17
-image: /graphics/physics/intra.jpg
+image: /photos/stuff/nut.jpg
 description: ""
 writer:
   name: Juan
@@ -10,5 +10,4 @@ writer:
 weight: 7
 icon: "Juan"
 ---
-
 

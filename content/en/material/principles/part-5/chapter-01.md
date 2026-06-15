@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Material Layer"
 # date: 2020-01-27
-image: /photos/stuff/ball.jpg
+image: /photos/stuff/diamond.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
 weight: 2

@@ -3,7 +3,7 @@ heading: "Chapter 2"
 linkTitle: Sublayers
 title: "The Upper, Middle, and Lower Material Sublayers"
 # date: 2023-12-10
-image: /photos/balancerock.jpg
+image: /photos/physics/states.jpg
 description: "The Sublayers are Solid, Liquid, Gas"
 writer:
   name: Juan
@@ -23,6 +23,10 @@ Sublayer | Media | Substance | Quanta
 Upper | Gas | Aetherspace (Atomic Space) | 1st Gen Quarks
 Mid | Liquid | Mirco Aetherspace (Gluons) | 2nd Gen Quarks
 Lower | Solid | Dimensional Aetherspace (Lattice) | 3rd Gen Quarks
+
+
+![States of matter](/photos/physics/states.jpg)
+
 
 
 ## The Material Internal Boundary

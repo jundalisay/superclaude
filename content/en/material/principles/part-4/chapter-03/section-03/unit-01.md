@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 1"
 title: "Intramolecular Forces"
 date: 2025-09-10
 image: /photos/physics/neutronstar.jpg
@@ -7,12 +7,14 @@ description: "Intramolecular Forces."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 9
+weight: 4
 icon: "Juan"
 toc: false
 aliases:
   /material/principles/part-4/chapter-03c
 ---
+
+
 
 
 
@@ -32,7 +34,7 @@ Atomic gravity is from the virtual space particles that pushes lesser atomic mas
 
 
 
-## Ionic
+<!-- ## Ionic
 
 This is when an electron (qor1) is *transferred* from one atom to another, creating oppositely charged ions that stick together by electrostatic attraction.
 
@@ -87,3 +89,4 @@ Properties:
 - Malleable and ductile (ions can slide while the sea of electrons keeps bonding intact).
 - Shiny (electrons reflect light). 
 
+ -->

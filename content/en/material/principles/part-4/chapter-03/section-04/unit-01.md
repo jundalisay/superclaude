@@ -26,12 +26,30 @@ These are weak attractions such as hydrogen bonds that keep molecules together.
 
 Sublayer | Name | Examples
 --- | --- | ---
-Upper | London Dispersion Forces | Protein folding
-Mid | Dipole–Dipole Forces | Hydrogen Bonding 
-Lower | Ion–Dipole Forces | boiling poin
+Upper or Outer | Outer Inter-aetherspace (London Dispersion Forces) | Protein folding
+Mid | Middle Inter-aetherspace (Dipole–Dipole Forces) | Hydrogen Bonding 
+Lower or Inner | Inner Inter-aetherspace (Ion–Dipole Forces) | boiling point
 
 
-## London Dispersion Forces
+
+
+Physics organizes them into:
+
+| Force | Present In | Relative Strength | Example Pair | Energy Range (kJ/mol) |
+|-------|------------|-------------------|--------------|----------------------|
+| London dispersion | All molecules | Weakest | Ar···Ar | 0.05–40 |
+| Dipole-dipole | Polar molecules | Moderate | HCl···HCl | 5–50 |
+| Hydrogen bonding | N–H, O–H, F–H bonds | Strong | H₂O···H₂O | 5–65 |
+| Ion-dipole | Ions + polar molecules | Strongest | Na⁺···H₂O | 40–600 |
+
+
+**Order of Boiling Points (for similar molecular masses):**
+
+Ionic compounds > Hydrogen bonding > Dipole-dipole > London dispersion
+
+
+
+<!-- ## London Dispersion Forces
 
 This is the weakest type, but very important in nonpolar substances (e.g., liquid O₂, noble gases).
 
@@ -48,7 +66,7 @@ An example is hydrogen bonds.
 This is between an ion and a polar molecule.
 
 Example: Na⁺ ions interacting with water molecules in saltwater.
-
+ -->
 
 
 <!-- Polar

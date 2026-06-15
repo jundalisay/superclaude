@@ -1,9 +1,8 @@
 ---
-heading: "Chapter 2"
+heading: "Section 1"
 title: Sublayers
-# title: "The Upper, Middle, and Lower Convertible"
 # date: 2023-12-10
-image: "/photos/physics/boil.jpg"
+image: "/photos/physics/bonds.jpg"
 description: "The Upper Radiant is the realm of the multiverse."
 writer:
   name: Juan
@@ -11,6 +10,7 @@ writer:
 weight: 4
 icon: "Juan"
 ---
+
 
 
 The Convertible Layer is divided into Upper, Middle, and Lower Sublayers.

@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Actions of Conversion"
 date: 2024-12-28
-image: /graphics/physics/decay.jpg
+image: "/photos/physics/convert.jpg"
 description: ""
 writer:
   name: Juan
@@ -14,7 +14,6 @@ toc: false
 
 
 
-
 The main job of the conversion layer is to diversify the material layer below it. 
 
 This makes it act as a middleman between radiance and matter.
@@ -22,9 +21,14 @@ This makes it act as a middleman between radiance and matter.
 
 Sublayer | Action
 --- | ---
-Higher | Bonding
+Higher | Affinity flow
 Middle | Conversion (Decay)
-Lower | Affinity flow
+Lower | Bonding
+
+
+
+![Decay](/graphics/physics/decay.jpg)
+
 
 
 <!-- Middle | Conversion

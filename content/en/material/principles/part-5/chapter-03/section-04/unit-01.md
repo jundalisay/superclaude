@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Contact Forces"
 # date: 2023-12-10
-image: /photos/stuff/ball.jpg
+image: /photos/stuff/diamond.jpg
 description: "Cartesian contact forces come from space"
 writer:
   name: Juan

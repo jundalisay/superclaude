@@ -3,7 +3,7 @@ heading: "Introduction"
 title: "The 4 Rules of Motion"
 # date: 2023-11-26
 date: 2025-09-21
-image: "/photos/stuff/ball.jpg"
+image: "/photos/stuff/jet.jpg"
 description: "All forces are called media which follow the 4 Rules of Motion of Descartes and Spinoza"
 writer:
   name: Juan

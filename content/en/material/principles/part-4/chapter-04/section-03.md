@@ -1,9 +1,8 @@
 ---
 heading: "Section 3"
 title: "Neutrons"
-# linkTitle: "Acids and Bases"
-# # date: 2024-03-17
-image: /photos/physics/elec.jpg
+# date: 2024-03-17
+image: /photos/physics/neutron.jpg
 description: "Neutrons facilitate Decay and atomic change"
 writer:
   name: Juan
