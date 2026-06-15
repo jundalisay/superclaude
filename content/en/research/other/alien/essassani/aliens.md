@@ -11,12 +11,12 @@ description: "Bashar answers Questions about Aliens"
 Physical Aliens | Description
 --- | ---
 Humans | Genetically manipulated homo erectus by the Anunnaki
-Anunnaki | Creators of humans, from Cygnus. They have blue blood
+Anunnaki | Creators of humans, from Cygnus. They have blue blood, blue-tinted skin
 Sassani | Hybrid of humans and grays, from Orion
 Grays | Genetically modified future humans, from Zeta Reticuli
-Lyrian | Evolved from Anunnaki
+Lyrian | (Vega) Evolved from Anunnaki
 Oneta | DNA experts
-Plaedians | Also evolved from Anunnaki
+Plaedians | Direct offshoot Orion diaspora, also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
 Reptilians | Genetically manipulated dinosaurs
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins

@@ -6,6 +6,8 @@ description:
 image: /photos/medieval/knight.jpg
 date: 2026-05-11
 weight: 6
+aliases:
+  /social/economics/principles/part-2/chapter-11b/
 ---
 
 

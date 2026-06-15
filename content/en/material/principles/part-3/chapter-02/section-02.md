@@ -1,10 +1,8 @@
 ---
-# linkTitle: Potential Energy
-# title: "Potential and Kinetic Energy"
 heading: Section 2
-title: "Vortex Rotation"
+title: "Male and Female Density"
 # date: 2024-01-03
-image: /graphics/physics/general.jpg
+image: /photos/stuff/nut.jpg
 description: ""
 writer:
   name: Juan
@@ -12,21 +10,31 @@ writer:
 weight: 4
 icon: "Juan"
 toc: false
-draft: true
 ---
 
 
 
-<!-- Potential Energy is  -->
+The 1st Rule of Motion, as the No Void Rule, makes high density go into low density in order to balance out the media in the univerese. 
 
 
+![Nut](/photos/stuff/nut.jpg)
 
-Clockwise
 
-None
+The most natural analogy and name is to call:
+- the high density parts as a male charge
+- the low density parts as a female charge
+
+
  
 
-Anticlockwise 
+{{< i s="/graphics/d/magnet.jpg" a="Descartes Magnet" >}}
 
- 
+This is most obvious in magnetism where the Male and Female polarity is the effect of channels having an entrance and exit.
 
+This entrance and exit is made possible because the radiant force particles rotate anticlockwise (positively) into the non-force particles that receive them and get their spin to spin themselves.
+
+This force transfer is made possible by right handed threads that radiant particles have. 
+
+This spin is what makes colors in light possible, manifesting as varying wavelengths. 
+
+Antiparticles have an opposite spin direction. 

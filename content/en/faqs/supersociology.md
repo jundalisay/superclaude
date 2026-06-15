@@ -51,6 +51,8 @@ By writing a new law-book that unifies the Torah and the Quran. The root cause o
 - The Muslims program their minds according to the Quran, which denounces the Torah 
 
 The great big problem is that **mentality creates reality**. If you absolutely believe in an Apocalypse then Nature will gladly create one for you. The current [Apocalypse](https://news.un.org/en/story/2023/12/1144492) in Gaza is a real trouble which eats up the attention and resources of the world. This is similar to how the fight between malware and anti-virus on your computer eats up resources that slows down other programs. The world has to push for such a new law-book, as the core of a one-state solution, for its own sake. 
+
+Update May 2026: The Iran war makes this advocacy extremely obvious now. What is shocking is that no one is still dealing with the Torah, Old Testament, and Quran directly as to solve the problem once and for all.
 {{< /l >}}
 
 
@@ -81,3 +83,6 @@ Man had come to recognize that having sex with animals was evil. But why were Ad
 
 
  <!-- a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html) -->
+
+
+More to come..

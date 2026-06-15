@@ -1,10 +1,11 @@
 ---
 heading: Section 2
-linkTitle: Weak Force
-title: "Weak Forces"
+linkTitle: "Weak Force (Proto-Aetherspace)"
+title: "Weak Force"
 date: 2026-01-07
 image: /photos/physics/neutrino.jpg
-description: "W and Z Bosons and intramolecular and intramolecular forces are the media for the convertible layer"
+description: "We call the Weak Force as Proto-Aetherspace"
 icon: "Juan"
 weight: 6
 ---
+

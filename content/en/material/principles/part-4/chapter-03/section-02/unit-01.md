@@ -1,9 +1,9 @@
 ---
-heading: "Section 2"
-title: "The Forces for Particle Decay"
+heading: "Unit 1"
+title: "The Forces for Particle Decay and Chemical Change"
 date: 2025-09-10
 image: /photos/physics/nuke.jpg
-description: "The Weak Force is most known by Modern Physics for particle decay."
+description: "The Convertible Layer handles decay and Chemical Change"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -16,16 +16,16 @@ aliases:
 
 
 
-The Weak Force is most known by Modern Physics for particle decay. 
+The media of the Convertible Layer facilitates changes in the material layer below it. This uses 3 media:
 
 
-Sublayer | Name | Used in 
---- | --- | ---
-Upper | Gamma | sterilization  
-Mid | Beta | medical imaging
-Lower | Alpha | smoke detectors
+Media | Physics Name
+--- | ---
+Proto Aetherspace | Weak Force
+Intra Aetherspace | Intramolecular Bonds
+Inter Aetherspace | Intermolecular Bonds
 
 
-These are present in nuclear fission and fusion primarily through Beta decay. 
 
 
+<!-- The Weak Force is most known by Modern Physics for particle decay.  -->
