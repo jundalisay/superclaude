@@ -1,6 +1,6 @@
 ---
-title: "The 1987 Constitution"
-linkTitle: "1987 Constitution"
+title: "Philippines"
+# linkTitle: "1987 Constitution"
 image: "/flags/ph.png"
-weight: 1
+weight: 22
 ---

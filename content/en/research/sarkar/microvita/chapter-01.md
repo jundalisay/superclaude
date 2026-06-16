@@ -8,6 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 weight: 3
 date: 1986-12-31
+icon: PR Sarkar
 ---
 
 
