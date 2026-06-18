@@ -80,7 +80,7 @@ defaultContentLanguageInSubdir = false
       rtl = false
 
     [languages.en.params.quote1]
-      content = "Natural science is divided into physic and metaphysic. Physic should contemplate that which is inherent in matter and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed."
+      content = "Natural science is divided into physics and metaphysics. Physics should contemplate that which is inherent in matter and therefore transitory. Metaphysics should contemplate that which is abstracted and fixed."
       icon = "Francis Bacon"
       author = "Francis Bacon"
       src = "The Proficience And Advancement Of Learning, Book 2, Part 7"

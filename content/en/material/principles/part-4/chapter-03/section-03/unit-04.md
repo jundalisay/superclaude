@@ -3,7 +3,7 @@ heading: Unit 4
 linkTitle: "Metallic"
 title: "Metallic Bonds"
 date: 2026-01-07
-image: /photos/physics/metals.jpg
+image: /graphics/physics/metallic.jpg
 description: ""
 icon: "Juan"
 weight: 11

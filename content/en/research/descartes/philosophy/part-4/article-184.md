@@ -57,9 +57,9 @@ While it flows through these tiny slits, its least agitated particles* cling to 
 
 {{< i s="/graphics/physics/glass.jpg" a="Glass under microscope" >}}
 
-These are extremely fine, yet have some width and much greater length, moving back and forth and swirling around the glass particles without ever straying far from them.*
+These are extremely fine, yet have some width and much greater length, moving back and forth and **swirling around the glass particles** without ever straying far from them.*
 
-{{< n n="These swirl in anticlockwise rotation" >}}
+{{< n n="These are exactly electrons swirling around atoms and molecules" >}}
 
 
 This is because the passages they find in the air or other surrounding bodies are neither as precisely fitted to their size nor as suited to receiving them.
@@ -69,12 +69,13 @@ The fire-aether is highly fluid. But it nevertheless contains particles that are
 
 Its most fluid parts continuously pass from the air into the glass and from the glass into the air.*
 
-{{< n n="This is now seen as the slight magnetism of glass" >}}
+{{< n n="These are virtual photons that escape the glass" >}}
 
 
-But the less fluid parts within the glass remain in the slits that do not align with the pores or channels of the air. 
+But the less fluid parts [electrons] within the glass remain in the slits that do not align with the pores or channels of the air. 
+- There, they join together to form these ribbons. 
 
-There, joining together, they [electrons] form these ribbons. In a short time, they acquire shapes so stable that they cannot easily be altered.*
+In a short time, they acquire shapes so stable that they cannot easily be altered.*
 
 {{< n n="This is static electricity latent in the glass" >}}
 
@@ -85,15 +86,19 @@ These find no pores well-suited to receive them. And so they immediately return 
 
 
 
+
+<!-- Now, by considering the manner in which I have said it [glass] is formed, one can recognize that the intervals between its parts must for the most part be of long shape, and that it is only the middle of these intervals which is wide enough to give passage to the parts of the second element, which make the glass transparent; so that on both sides in each of these intervals there remain small slits so narrow that there is nothing but the first element that can occupy them. Following from this, it must be noted concerning this first element, whose property is always to take the shape of the places where it finds itself, that while it flows through these small slits, the least agitated of its parts attach themselves to one another and compose, as it were, ribbons which are very thin, but which have a little width and much more length, and which go back and forth, swirling in all directions between the parts of the glass, without ever departing far from it, because the passages they find in the air or other surrounding bodies are not so well adjusted to their size nor so suitable to receive them. For, although the first element is very fluid, it nevertheless has within itself parts which are less agitated than the rest of its matter, as was explained in articles 87 and 88 of the third part; and it is reasonable to believe that while that which is most fluid in its matter passes continually from the air into the glass and from the glass into the air, the least fluid of its parts which are found in the glass remain there in the slits to which the pores of the air do not correspond, and that there, joining one to another, they compose these ribbons, which by this means acquire in a short time shapes so firm that they cannot easily be changed. This is the reason why, when one rubs the glass hard enough that it warms a little, these ribbons, being driven out of its pores by this agitation, are forced to go out toward the air and other surrounding bodies, where, not finding pores suitable to receive them, they return at once into the glass, and bring back with them the bits of straw or other small bodies in whose pores they find themselves caught. -->
+
+
 ## 186. The same cause can be seen in other bodies as well. 
 
 For example, there are certain channels between the particles of some bodies that are too narrow to allow the air-aether to enter, so they only receive the fire-aether.
 
-These channels are larger than those in the pores of the air [magnetic moment of atoms] where only the fire-aether can pass.
+These channels are larger than those in the pores of the air [molecules] where only the fire-aether can pass.
 
 And so these channels retain within themselves the least agitated parts of this fire-aether [as electrons]. 
 
-These join one another, forming strips within them that have diverse shapes according to the diversity of the pores through which they pass.
+These join one another, forming strips within them that have diverse shapes according to the diversity of the pores through which the fire-aether pass.
 
 These are long, flat, flexible. They flow here and there between the particles of these bodies. 
 
@@ -180,3 +185,54 @@ However, our senses reveal many other things to us, such as colors, odors, sound
 
 
 
+
+
+
+
+
+What is said here about glass should also be understood of most of the other bodies in which this attraction is found.
+
+There are gaps between their particles which:
+- are too narrow for the 2nd element
+- can receive only the 1st element
+
+Those gaps which are larger than those in air where only the first element can pass, retain within themselves the parts of this first element that are the least agitated.
+
+These join together to form in them little ribbons which have various shapes according to the diversity of the pores through which they pass.
+
+ but which agree in this: that they are long, flat, flexible, and flow here and there between the parts of these bodies.
+
+These gaps through which they pass are so narrow that the 2nd element cannot enter them.
+
+ they could not be larger than those in air where this same second element does not enter, unless they extended further in length, being like small slits that make these ribbons wide and thin. 
+
+These gaps must be larger than those in air, so that the least agitated parts of the 1st element may stop in them, while at the same time an equal amount of this same first element continually leaves these bodies through some other pores as enters them through the pores of the air.
+
+That is why, although I do not deny that the other cause of attraction that I have just explained may have place in some bodies, yet because it does not seem general enough to apply to so many different bodies as this latter one, and because nonetheless there is a very great number in which this property of lifting bits of straw is observed, I believe we must think that it exists in them, or at least in most of them, similar to that which is in glass.
+
+
+
+
+<!-- **CLXXXVII. This allows us to explain all the most admirable effects on the earth.**
+
+These ribbons or other small long and moving particles which are thus formed from the matter of the first element in the gaps of terrestrial bodies can cause:
+- various attractions such as those of the magnet and amber
+- an infinity of other most admirable effects
+
+This is because those which form in each body have something particular in their shape which makes them different from all those which form in other bodies.
+
+Like all 1st Element, they move very swiftly without ceasing.
+
+Sometimes circumstances make them whirl within the body without leaving it.
+
+Sometimes on the contrary they go quickly to places very far away, without any body they encounter on their way being able to stop or divert them.
+
+and that, encountering there a matter disposed to receive their action, they produce effects entirely rare and marvelous — such as may be making the wounds of the dead bleed when the murderer approaches them, 
+
+stirring the imagination of those who sleep, or even of those who are awake, and giving them thoughts that warn them of things happening far away, by making them feel the great afflictions or great joys of an intimate friend, 
+the evil designs of an assassin, and similar things.
+
+Finally, whoever will consider how admirable the properties of the magnet and of fire are, and how different from all those commonly observed in other bodies; 
+
+How great is the flame that a single spark of fire can kindle in a very short time when it falls into a large quantity of gunpowder, and how much force it can have; to what extreme distance the fixed stars extend their light in an instant; and what are all the other effects, for which I believe I have here given reasons clear enough without deriving them from any other principles than those which are generally received and known by everyone — namely, the size, shape, position, and motion of the various parts of matter — it seems to me that he will have reason to persuade himself that there are no qualities so occult, nor any effects of Sympathy or Antipathy so marvelous and strange, nor finally anything else so rare in nature (provided it proceeds only from purely material causes and devoid of thought or free will) that the reason for it cannot be given by means of these same principles. This leads me to conclude here that all the other principles which have ever been added to these, without anyone having any other reason for adding them except that they did not believe that without them some natural effects could be explained, are entirely superfluous.
+ -->

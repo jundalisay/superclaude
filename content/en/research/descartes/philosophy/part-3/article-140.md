@@ -71,23 +71,51 @@ Hence, it also follows that when the motion of these celestial globules is accel
 
 ## 140. The principle of the motion of a Planet
 
-Let us assume that the `Star N` has:
-- less agitation, or has less solidity than the air-aether globules near the edge of our solar system.
-- more agitation than the air-aether globules near the sun. 
 
-<!-- , which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun:  -->
+Assume that the body N is less solid, or rather:
+- has less force to continue its motion in a straight line than the air-aether at the edge of our solar system
+- but more force than the air-aether near our Sun
+
+As soon as it is carried by the air-aether of our solar system, it must continually go towards the center of our solar system until it reaches the orbit that matches the speed of its air-aether.
+- This makes it into planet.
+
+<!--  has arrived [at equliabrium] where its air-aether 
+
+ parts are which have neither more nor less force than it does to persevere in their motion. And that,
+
+when it has descended that far, it must neither approach nor recede from the Sun, except insofar as it is pushed somewhat here or there by other causes, but only turn in a circle around it with those parts of the heaven which are equal to it in force; and thus, this star is a Planet.  -->
 
 {{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
 
-As soon as it enters the sun's vortex, it falls immediately towards the sun until it reache the air-aether globules that are equal to it in solidity. 
+If it fell closer to the Sun, it would be surrounded by smaller air-aether [higher frequency 2nd Element]. 
+- This would cause a mismatch that would cause it to go back out in orbit.
+
+<!--  m and which consequently would yield to it in force; 
+
+furthermore, being more agitated, they would also increase its agitation and along with it its force, which would immediately cause it to rise back up. And on the contrary,  -->
+
+If went farther in orbit, it would encounter the 2nd Element that were larger and less agitated. This would reduce its motion causing it to go back closer to the sun. 
+
+<!--   by means of which they would diminish its motion; and a little larger, by means of which they would have the force to push it back toward the Sun.
+ -->
+
+<!-- Let us assume that the `Star N` has:
+- less agitation, or has less solidity than the air-aether globules near the edge of our solar system.
+- more agitation than the air-aether globules near the sun.  -->
+
+<!-- , which are towards the circumference of our sky, but still has somewhat more than some of those which are towards the Sun:  -->
+
+
+
+<!-- As soon as it enters the sun's vortex, it falls immediately towards the sun until it reache the air-aether globules that are equal to it in solidity.  -->
 
  <!-- is taken away from the vortex of the Sun, it should immediately descend towards its center, until it reaches those air-aether globules with which it is equal in solidity, or in aptitude to continue in its motion in straight lines. -->
 
 <!--celestial globules , NB. See fig. pag. 171.  celestial -->
 
-When it arrives there, it will no longer approach the Sun, nor will it recede from it, except insofar as it may be somewhat propelled here and there by some other causes.
+<!-- When it arrives there, it will no longer approach the Sun, nor will it recede from it, except insofar as it may be somewhat propelled here and there by some other causes.
 
-Instead, it will be balanced among those air-aether globules and revolve continually around the Sun and will be a Planet. 
+Instead, it will be balanced among those air-aether globules and revolve continually around the Sun and will be a Planet.  -->
 
 <!-- celestial -->
 If it were to approach the Sun more closely, it would move among slightly smaller air-aether globules there.
@@ -97,10 +125,11 @@ Therefore those which it overcomes with force to move away from the center aroun
 Therefore the force would increase with its agitation causing it to regress from there again.
 
 <!-- celestial -->
-But if it were to recede more from the Sun, it would encounter slower air-aether globules. This would reduce its agitation.
+<!-- But if it were to recede more from the Sun, it would encounter slower air-aether globules. This would reduce its agitation.
 
-Being slightly smaller, they have the force to repel it towards the Sun.
+Being slightly smaller, they have the force to repel it towards the Sun. -->
 
+ 
 
 ## 141. Causes on which its errors depend
 

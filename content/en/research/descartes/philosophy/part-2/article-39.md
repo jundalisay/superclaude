@@ -20,6 +20,27 @@ icon: "Rene Descartes"
 Things which move in a circular manner  always tend to move away from the center of the circle which they describe. -->
 
 
+<!-- The second law is that the particles of the 2nd Element always moves in straight lines even if many of these particles are often turned aside because they encounter other particles in their path, and because when a body moves, a circle or ring is always made of all the matter that is moved together. 
+
+This 2nd rule, like the 1st rule, depends on the fact that God is immutable and that He preserves motion in 2nd Element in real-time. -->
+
+<!-- by  a very simple operation: for He does not preserve it as it may have been some time before, but precisely as it is at the exact same instant that He preserves it. -->
+
+<!-- Motion does not occur in an instant.
+
+Every body moves along a straight line and not a circular one.
+
+For when the stone A turns in the sling
+See figure 1 of the 2nd plate.
+EA along the circle ABF, at the instant it is at point A, it is determined to move toward a certain direction, namely toward C, along the straight line AC, if we suppose that this line is the one that touches [is tangent to] the circle. But we cannot imagine that it is determined to move circularly; for even though it came from L toward A along a curved line, we do not conceive that any part of this curvature remains in this stone when it is at point A. We are assured of this by experience, because this stone advances straight toward C when it leaves the sling, and does not tend in any way to move toward B.
+
+This lets us see manifestly that every body moved in a circle constantly tends to distance itself from the circle it describes; and we can even feel it with our hand while we spin this stone in this sling, for it pulls and stretches the cord to distance itself directly from our hand. This consideration is of such importance and will serve in so many places hereafter, that we must note it carefully here; and I will explain it at even greater length when the time comes.
+ -->
+
+
+
+
+
 Each individual particle of matter tends to continue moving in straight lines, even though many of these particles are often forced to deviate as they encounter others in their path
 
 <!-- never  along curved lines but rather along  -->
