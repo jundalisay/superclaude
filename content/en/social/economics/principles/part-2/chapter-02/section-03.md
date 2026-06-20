@@ -13,17 +13,45 @@ writer:
 
 
 
-**Fixed capital** is capital which, **without changing hands or being consumed immediately**, improves productivity.
+If fixed capital is the engine of production, then circulating capital is its fuel.
+
+In *The Wealth of Nations* (1776), Adam Smith presents circulating capital as the active, transient partner to fixed capital—the portion of wealth that must constantly change hands, be consumed, and be replaced to generate income. For Smith, without a healthy circulation of this capital, even the finest machinery and most fertile lands would grind to a halt.
+
+## Defining the "Circulating"
+
+Smith defines circulating capital as assets that yield profit *only by leaving the possession of their owner*. They are commodities that must be traded, transformed, or consumed to produce revenue. He identifies four specific categories:
+
+1.  **Money:** The medium of exchange that facilitates trade, though Smith notes it is merely the "great wheel of circulation" and not productive in itself.
+2.  **Provisions and Stock:** Food and supplies held by merchants or farmers to sustain workers during production.
+3.  **Raw Materials:** Unfinished goods—such as wool, leather, or metal—awaiting manufacture.
+4.  **Finished Goods:** Completed products still in the hands of the merchant, not yet sold to the final consumer.
+
+**The Core Characteristic: "Yield through Transition"**
+
+The defining trait of circulating capital is that it generates revenue *through its own destruction or transfer*. A merchant’s profit does not come from holding goods, but from selling them. Once sold, the capital returns to the merchant in the form of money, which is then reinvested to buy new materials and provisions. Smith describes this as a continuous cycle: 
+
+*Money → Raw Materials → Finished Goods → Money (plus profit)*
+
+Unlike a machine that stays put, circulating capital must keep moving. If circulation stops, so does profit.
 
 
-We classify this into physical and metaphysical capital:
+### The Constant Need for Replacement
 
-_ | Physical | Metaphysical
---- | --- | ---
-Material | Equipment, Land, Location | None
-Personal | Voice, Looks, Height, Strength | Honesty, Family Name, Reputation, Intelligence
-Group | none (already in personal) | Culture, History
+Smith emphasizes that circulating capital is inherently perishable or consumable. Raw materials are transformed into products; provisions are eaten by workers; finished goods are bought and used by the public. 
 
+Consequently, this type of capital must be perpetually renewed. Smith observes that a society’s prosperity depends not only on how much circulating capital it possesses, but on the *speed* of its circulation. A fast turnover allows a smaller amount of capital to accomplish the same work as a larger, sluggish stock.
+
+
+### The Relationship with Fixed Capital
+
+Crucially, Smith insists that circulating capital is *prioritized* over fixed capital. 
+
+Before a farmer buys a plow (fixed), he must first secure seed corn and wages for laborers (circulating). The farmer’s circulating capital pays for the work-in-progress; the fixed capital simply facilitates it. Smith warns that an overemphasis on fixed investments—such as building grand factories without adequate materials or wages—is a fatal error, as it leaves no liquidity to keep the productive process alive.
+
+
+At the national level, Smith views the flow of circulating capital as the economy’s circulatory system. It links producers, merchants, and consumers in a web of exchange. A nation grows wealthy not merely by hoarding gold, but by ensuring its circulating capital passes efficiently through the hands of artisans, farmers, and traders. Every sale replenishes the system, enabling more production, more employment, and ultimately, a wider distribution of goods.
+
+<!-- For Smith, circulating capital is the restless, dynamic force of commerce. While fixed capital provides stability and scale, circulating capital provides the motion—and motion, he argues, is the essence of economic life. -->
 
 
 <!-- This includes:

@@ -12,6 +12,7 @@ weight: 4
 toc: false
 aliases:
   /real-price
+  /social/economics/principles/part-2/chapter-01b/
 ---
 
 
