@@ -21,5 +21,5 @@ This chaos also leads to arbitariness since a subtle wave can just choose whatev
 
 Qualimath deals with this arbitrariness. 
 
-{{< youtube sc5rvo4T6lU? >}}
+{{< youtube sc5rvo4T6lU >}}
 

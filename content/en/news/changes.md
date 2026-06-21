@@ -6,7 +6,7 @@ featured: true
 weight: 2
 description: "Here are Breaking Changes in Superphysics"
 c: "darkslategray"
-image: "/photos/physics/lab.jpg"
+image: "/photos/physics/smash.jpg"
 # showdate: true
 ---
 
