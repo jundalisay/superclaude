@@ -81,19 +81,22 @@ Hence the origin of Polytheism and superstition which ascribes all the irregular
 
 In all Polytheistic religions, among savages and in the early ages of Heathen antiquity, only the irregular events of nature are ascribed to the agency and power of their gods.
 
-By the necessity of their own nature= 
+By the necessity of their own nature:
 - fire burns
 - water refreshes
 - heavy bodies descend
 - lighter substances fly upwards
 
-The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger= 
+The invisible hand of Jupiter [human dharma] was never perceived in those matters [physical dharma]. 
+
+But the more irregular events were ascribed to Jupiter’s favour or anger: 
 - storms and sunshine
 - thunder and lightning.
 
-Savages only knew the designing power of man. Man stops or changes the course of natural events.
-They imagined those other intelligent beings, were naturally supposed= 
-- to act in the same way
+Savages only knew the designing power of man [human dharma]. Man stops or changes the course of natural events.
+
+They imagined those other intelligent beings, were naturally supposed:
+- to act in the same way 
 - to not support the ordinary course of things, which went on of its own accord
 - to stop, thwart, and disturb the ordinary course of things.
 

@@ -1,6 +1,6 @@
 ---
 heading: Anti-gravity Principles
-title: How Qosts (2nd Element) Can Make Fusion a Reality
+title: How the Aether (2nd Element) Can Make Fusion a Reality
 date: 2020-01-31
 image: /graphics/physics/vortex.jpg
 description: "Fusion can be realized by artificial gravity just as stars use gravity for their fusion"
@@ -20,7 +20,7 @@ Without this confinement, the star would dissipate immediately. And so, **the ex
 
 This vortex idea is from the Physics of the aethrealist Rene Descartes, which was rejected by the materialist*  Isaac Newton. And so, it never made its way into Modern Physics.
 
-{{< n n="*Newton invested in the stock market and lost most of his wealth. Descartes did not." >}}
+{{< n n="*Newton invested in the stock market and lost most of his wealth. Descartes did not. Even Adam Smith did not invest in the stock market since he was against the stock market system as stock-jobbing or gaming" >}}
  
 
 {{< img src="/graphics/physics/vortex.jpg" alt="Vortex" cap="The description of Rene Descartes about star formation matches the findings from modern telescopes. Unlike Newtonian Physics which is matter-based, Cartesian Physics is aether-based, usually manifesting as rotating vortices, helixes, or chakras" >}}
@@ -67,7 +67,10 @@ Instead of confining the plasma with magnetic fields, they are confined with ant
 
 
 
-This will create mini-vortices, made up of *Quanta of Spacetime* or *Qosts*, that will levitate the plasma and prevent it from damaging the reactor.
+This will create mini-vortices, made up of *Quanta of Spacetime* or *Qosts* or aether or space particles*, that will levitate the plasma and prevent it from damaging the reactor.
+
+{{< n n="*Update June 2026: We are testing which words will be more acceptable in time. For now we are leaning to use space particles instead of qosts or aether and atomic space particles instead of som or aetherspace" >}}
+
 
 <!-- This vortex is has a dual purpose:
 
@@ -96,27 +99,33 @@ An easy analogy is that:
 
 A slow or lazy matador will easily be impaled to the wall by the bull. This is gravity keeping bodies stuck to the ground. 
 
-In order to defy gravity, a thing's atoms must be arranged so that it will let more qosts pass through. This will reduce the pushing force, allowing the thing to rise or at least be lighter. This would be like the matador sidestepping the bull quickly.   
+In order to defy gravity, a thing's atoms must have its atomic space or aetherspace gain the same high density of empty space or the aether. 
 
+This will reduce the pushing force, allowing the thing to rise or at least be lighter. This would be like the matador being as fast as the bull, able to go with it by riding it.  
 
-This has already been done by Buddhist monks who can levitate at will.
+This has already been done by Buddhist monks who can levitate at will. We can say that they ride the aether. 
 
 {{< youtube 6y3bqvRWRSA >}}
-
 
 
 <!-- ufORgD0s2Mo -->
 
 ### Active and Passive Anti-Gravity
 
-In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts, as chi, to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
+In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to raise their atomic space, as chi, to be like the aether outside them. 
+
+Mechanistically, the chakra's faster spin also makes the chi flow and spin faster to match the spin of the external aether. This is the reverse of how the slow spin of an electron reduces the spin of the aether in order to create low spin atomic space when it comes near a proton and reduce the combined mass of the electron and proton, as the 'mass defect'.
+
+We call this the passive way. 
+
+We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*.
 
 
 {{< n n="*We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **[scammer](/material/fallacies/scam)** and that is why no one is able to unify General Relativity and Quantum Mechanics." >}}
 
 
 
-An alternative way is to use the qosts directly to propel a mass. In the video below, the levitator uses his aethereal mind to force qosts down through his chakras to repel those on the floor. We call this the active version.
+An alternative way is to use the chi or internal aether directly to propel a mass. In the video below, the levitator uses his aethereal mind to force the aether down through his chakras to repel those on the floor. We call this the active version.
 
 {{< youtube QdBN3iN6pi4 >}}
 
@@ -181,11 +190,20 @@ So the steps towards sustainable fusion are:
 3. Make that plasma flow under extreme compression and confinement
 
 
+
+
+
 {{< d t="Update: February 2024" >}}
 We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
 
 So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
 {{< /d >}}
+
+
+{{< d t="Update June 2026" >}}
+This post does not mention how to massage the aether to get the desired effects. This will be mentioned in a future post after we actually get the time to test it on anoether 1 kg mass.
+{{< /d >}}
+
 
 
 <!--  metals to find their vortex point and frequency, as an artificial qost
@@ -194,4 +212,3 @@ So for now, we switch to more practical and useful Cartesian experiments, such a
 5. Make that plasma flow* to create a more serious vortex to confine itself gravitationally, leading to sustained fusion -->
 
 <!-- > *The TAE reactor has this idea, but because it has no concept of gravitation, it has no choice but to raise the plasma to extreme heat, making the whole thing wasteful -->
-

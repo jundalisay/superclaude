@@ -8,7 +8,10 @@ description: "Quantitative easing failed because of 2 mistakes of the banking sy
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:  
+  /social/economics/principles/part-4/chapter-07g/
 ---
+
 
 
 <!-- In the earlier chapters, we explained that the flaws in money:
