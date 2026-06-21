@@ -1,7 +1,7 @@
 ---
 title: "The Coming Collapse of the SpaceX Stock"
 date: 2026-06-13
-image: /photos/physics/rocket.jpg
+image: /photos/econ/spacex.jpg
 description: ""
 writer:
   name: Juan

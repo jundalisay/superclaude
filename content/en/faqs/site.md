@@ -3,6 +3,7 @@ title: "Website FAQs"
 date: 2024-07-28
 c: "darkslategray"
 description: "FAQ on the website"
+image: /photos/tech/site.jpg
 icon: "Superphysics"
 weight: 30
 ---

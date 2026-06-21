@@ -5,7 +5,7 @@ description: "The Epicureans explained the matter so neatly so that they followe
 c: "firebrick"
 # date: 2023-02-15
 weight: 4
-icon: /avatars/lesage.png
+icon: "Le Sage"
 author: Le Sage
 ---
 

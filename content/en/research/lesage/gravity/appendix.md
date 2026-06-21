@@ -6,6 +6,7 @@ c: "firebrick"
 weight: 10
 icon: /avatars/lesage.png
 author: Le Sage
+icon: "Le Sage"
 ---
 
 

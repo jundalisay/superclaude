@@ -35,11 +35,20 @@ When implemented as an economic system, it creates a cycle of poverty
 
 
 
-The Trading class is the cause of the problem. However, it is the corrupted Thinking class that creates such a corrupt system as an Economic science. 
+<!-- The Trading class is the cause of the problem. However, it is the corrupted Thinking class that creates such a corrupt system as an Economic science.  -->
 
-There are 2 ways to fix it:
+<!-- There are 2 ways to fix it:
 
 1. The Thinking class making a new Economic science that is not rooted in selfish-interest. This is what Supereconomics is doing. 
 
-2. The Ruling class implement policies that stifle profit maximization so that tax revenues and waves will be increased.
+2. The Ruling class implement policies that stifle profit maximization so that tax revenues and waves will be increased. -->
+
+
+The root cause of profit maximization is the selfishness that is pushed by the Trading class. Before this, large-scale selfishness was pushed by the Warrior class as excessive taxation such as that of the Roman Empire. 
+
+Our solution to profit maximization is points banking just as the solution to money problems is to go moneyless instead of taking on more money-debt.
+
+{{< youtube Tr3r9wI88os >}}
+
+
 

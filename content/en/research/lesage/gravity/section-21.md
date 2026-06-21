@@ -4,7 +4,7 @@ title: "The Epicurean System"
 description: "When once the Epicureans were thus come to explain the matter so neatly, the most thoughtful and curious among them would certainly have followed out the consequences"
 c: "firebrick"
 # date: 2023-02-15
-icon: /avatars/lesage.png
+icon: "Le Sage"
 weight: 8
 author: Le Sage
 ---

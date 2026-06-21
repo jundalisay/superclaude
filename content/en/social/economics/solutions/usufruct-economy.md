@@ -11,7 +11,7 @@ icon: "Supereconomics"
 ---
 
 
-### Background: Global Warming 
+## Background: Global Warming 
 
 The current global warming is directly threatening entire species and life on Earth which is not used to the extreme impact that humans are causing. This impact is from human activity which is facilitated by the "linear" economic system, powered mostly by fossil fuels. 
 
@@ -34,7 +34,7 @@ This is what most governments and institutions are pushing for.
 This is what most NGOs favor.
 
 
-#### Our Proposed Solutions
+## Our Proposed Solutions
 
 1. Reforestation and Afforestation via Usufruct Economy
 2. Seawater Agriculture
@@ -44,11 +44,11 @@ This is what most NGOs favor.
 
 The first and most doable step is Reforestation and Afforestation. This matches the solution from the most enlightened philosophers to simply plant a lot of trees to combat climate change:
 
-{{< q a="Hume" >}}
+{{< q a="David Hume" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is becoming warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled.
 {{< /q >}}
 
-{{< q a="Sarkar" >}}
+{{< q a="PR Sarkar" >}}
 There are 3 main causes of droughts: The wanton destruction of plants or indiscriminate deforestation.. Deforestation prevents the plants from nourishing the earth.. Deforestation is caused by human beings. It is within their power to solve this problem through their own efforts.
 {{< /q >}}
 
@@ -60,7 +60,7 @@ This limits the carrying capacity of the planet. If populations increase, then m
 This is why we introduce the concept of a Usufruct Economy in order to sort out the issues with land use.
 
 
-### The Usufruct Economy as the Perfection of The Circular Economy 
+## The Usufruct Economy as the Perfection of The Circular Economy 
 
 Many academics, institutions, and government agencies have embraced the circular economy which aims to share, lease, reuse, repair, refurbish and recycle existing materials and products as long as possible. 
 
@@ -71,13 +71,13 @@ We upgrade this into a usufruct economy from the Latin "[usus et fructus](https:
 We apply this to the whole economy, for anything above $100, through lease contracts instead of purchase.  
 
 
-#### For Electronics, Vehicles, and Utility Goods*
+### For Electronics, Vehicles, and Utility Goods*
 
 
 {{< f f="*We define utility goods as products that create an essential utility such as heating, cooling, telecoms, transportation" >}}
 
 
-For example, a person can lease an Android smartphone for $100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth $150 by paying $50 into the contract.
+For example, a person can lease an Android smartphone for USD 100 from a shop. After 3 years, he might want to upgrade his phone. So he returns the phone and gets a better one worth USD 150 by paying USD 50 into the contract.
 
 {{< img src="/photos/tech/phone.jpg" alt="Phone" >}}
 
@@ -85,10 +85,12 @@ The shop will then return the phone to the manufacturer for recycling. **The con
 
 Currently, contracts exist under the telecom service providers, not the phone manufacturer. In a usufruct economy, telecom services will have one service provider made up of a semi state-owned corporation. 
 
-For vehicles, instead of buying a car, a person can put $10,000 in a transportation fund that will provide for him instant transportation to wherever he wants to go in the country. The fund will maintain a fleet of vehicles and keep them closer to where the fund owners are. 
+For vehicles, instead of buying a car, a person can put $10,000 in a transportation fund that will provide for him instant transportation to wherever he wants to go in the country. The fund will maintain a fleet of vehicles and keep them closer to where the fund owners are.
+
+Update May 2026: Electric Vehicle makers such as Vinfast actually have such [a program](https://vinfastauto.ph/en/understanding-vinfasts-new-residual-value-guarantee-program) where they will buy back the EV that they sell.
 
 
-#### For Real Estate
+### For Real Estate
 
 All real property will be leased, whether agricultural, commercial, residential, or industrial. This will give the state a more active role in settling disputes in inheritance and ancestral domain, since even ancestral lands will be usufruct to the tribes. 
 
@@ -99,7 +101,7 @@ In theory, this will allow the government to take over land more easily and conv
 It will also reduce the tendency of real estate developers to create speculative projects since they will have a limited lease to the land. 
 
 
-### Integrates Easily with our Points-Based Economic system 
+## Integrates Easily with our Points-Based Economic system 
 
 The Usufruct Economiy integrates very well with our proposed [points-based economic system](https://www.pantrypoints.com) which uses granular points to determine the productivity and economic behavior of its users. It, together with 'point bankers', will help decision-makers make lease decisions:
 - The government can know who is the best person, among litigants, to administer the disputed property
@@ -113,7 +115,7 @@ Everything is rent
 
 Sale to Lease  -->
 
-### Moral Effects of Transitioning from Sale to Lease 
+## Moral Effects of Transitioning from Sale to Lease 
 
 The transition from the circular economy into the usufruct economy will create a change in mindset from permanent personal ownership, into temporary rent or borrowing. This is more in line with Nature where no one lives forever in the physical domain. 
 
@@ -129,6 +131,6 @@ This impermanence and dynamism is the metaphysical basis of "**marginal utility*
 
 And so, the Usufruct Economy is more in line with such a dynamic nature of things. In future posts, we will discuss the other solutions:
 - Seawater agriculture will be discussed by Bio Superphysics
-- Residential ships will be discussed by Social Superphysics
+- Residential ships will be discussed by Social Superphysics. Note that the whote Usufruct Economy is designed to transition humans into a space-faring species that has to maintain their ship instead of destroying it.
 - Nuclear Fusion Power will be discussed by [Material Superphysics](/material/solutions/fusion)
 

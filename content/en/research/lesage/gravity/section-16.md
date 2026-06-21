@@ -5,7 +5,7 @@ description: "The laws of Kepler were necessary consequences of the doctrine tha
 c: "firebrick"
 # date: 2023-02-15
 weight: 6
-icon: /avatars/lesage.png
+icon: "Le Sage"
 author: Le Sage
 ---
 

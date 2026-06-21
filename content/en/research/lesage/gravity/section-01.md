@@ -5,7 +5,7 @@ description: "If the disciples of Epicurus had been as fully persuaded of the sp
 c: "firebrick"
 # date: 2023-02-15
 weight: 2
-icon: /avatars/lesage.png
+icon: "Le Sage"
 author: Le Sage
 ---
 

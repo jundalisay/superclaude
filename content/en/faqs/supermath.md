@@ -56,4 +56,22 @@ Because we noticed it matches the math of an advanced alien race called the Sass
 {{< youtube VVbq61If9Cw>}}
 
 
+
+
+{{< r a="Asker" >}}
+Why are you taking so long to develop Supermath and Qualimath?
+{{< /r >}}
+
+
+{{< l a="Supermath" >}}
+Because we are basing it on the real world. The whole point of Supermath is to lead to Qualimath. The whole point of Qualimath is to discover the objective relationalities between materials such as aluminum, copper, iron, for Material Superphysics or a tomato plant and a basil plant for Bio Superphysics, or the marriage compatibility between John and Mary for marriage under Supersociology. 
+
+We have a bit of data for plants and people and societies, but none yet for materials. The problem with materials is that the relationalities have to be very precise and we don't have the equipment or the time for such rigor. 
+
+Plus, we have to match it with whatever Leibniz, Mandelbrot, and Cantor have written on fractals and infinites, and then match it to Sassani math which is what we are aligning with. 
+
+Since Nature is just one, then all of these have to match up. 
+{{< /l >}}
+
+
 More to come soon!
