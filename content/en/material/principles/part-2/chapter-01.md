@@ -1,7 +1,6 @@
 ---
-# title: "The Spatial Layer of Material Superphysics"
-title: "Spatial Layer"
 heading: Chapter 1
+title: "Spatial Layer"
 # date: 2020-01-31
 linkTitle: "Spatial Layer"
 image: "/graphics/physics/spacetime.jpg"
@@ -11,6 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-01b
 ---
 
 

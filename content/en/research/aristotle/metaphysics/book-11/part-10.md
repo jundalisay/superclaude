@@ -2,7 +2,6 @@
 heading: "Part 10"
 title: "The Infinite"
 weight: 18
-
 c: "indigo"
 description: "The infinite is either that which is incapable of being traversed because it is not its nature to be traversed"
 writer:
@@ -85,7 +84,66 @@ But the infinite is the boundlessly extended. If the infinite is a body, then it
 
 It cannot be something apart from the elements, from which they generate these. There is no such body apart from the elements. 
 
-Everything can be resolved into that of which it consists, but no such product of analysis is observed except the simple bodies, nor fire nor any other of the elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nor is it fire or any other of the elements. None of them is infinite. It is impossible for the whole—even if it were finite—to be or to become one of them, as Heraclitus says that all things at some time become fire. 
+
+The same argument applies also to the "One" which some natural philosophers posit over and above the elements. For everything changes from its contrary, e.g., from hot to cold.
+
+A sensible body is somewhere. The place of the whole and of the part is the same, e.g., of the earth.
+
+Consequently, if the whole is homogeneous, it will either be immovable or always in motion. 
+
+But this is impossible. 
+
+For why should it move down rather than up, or anywhere else? 
+
+If it were a clod of earth, where will it move or remain at rest? 
+
+For the place of the body akin to it is infinite. 
+
+Will it, then, occupy the whole place? And how? 
+
+What, then, is its state of rest and motion? 
+
+Either it will be at rest everywhere—so it will not move—or it will move everywhere—so it will not stand still.
+
+But if the whole is heterogeneous, the places are also heterogeneous, and first of all, the body of the whole is not one except by contact. 
+
+Then, these parts will be either finite or infinite in kind. They cannot be finite; for if the whole is infinite, some of them will be infinite and others not (e.g., fire or water); but such a thing causes destruction to the contraries. If, however, they are infinite and simple, the places will also be infinite, and there will be infinite elements. But if this is impossible and the places are finite, the whole must also be finite.
+
+In general, it is impossible for there to be an infinite body and place for bodies, if every sensible body has either weight or lightness. For it must move either toward the center or upward, and it is impossible for the infinite, either as a whole or half or any other part, to undergo either motion. For how would you divide it? Or how can the infinite have a part below and another above, or an extremity and a center?
+
+Every sensible body is in a place, and there are six kinds of place, but these cannot exist in an infinite body. In general, if it is impossible for place to be infinite, it is also impossible for body to be so; for that which is in place is somewhere, and this means either up or down or one of the other directions, each of which is a limit.
+
+The infinite is not the same in magnitude, motion, and time as if it were a single nature; but the latter terms are spoken of in reference to the former. Thus, motion is called infinite with reference to the magnitude on which it moves, or is altered, or increases.
+
+Time is called infinite because of motion.
+
+
+
+
+
+<!-- Everything can be resolved into that of which it consists, but no such product of analysis is observed except the simple bodies, nor fire nor any other of the elements.
 
 For apart from the question how any of them could be infinite, the All, even if it is finite, cannot either be or become any one of them, as Heraclitus says all things sometime become fire.
 
@@ -127,4 +185,7 @@ Further, every sensible body is in a place, and there are six kinds of place, bu
 
 In general, if there cannot be an infinite place, there cannot be an infinite body; (and there cannot be an infinite place,) for that which is in a place is somewhere, and this means either up or down or in one of the other directions, and each of these is a limit.
 
-The infinite is not the same in the sense that it is a single thing whether exhibited in distance or in movement or in time, but the posterior among these is called infinite in virtue of its relation to the prior; i.e. a movement is called infinite in virtue of the distance covered by the spatial movement or alteration or growth, and a time is called infinite because of the movement which occupies it.
+The infinite is not the same in the sense that it is a single thing whether exhibited in distance or in movement or in time, but the posterior among these is called infinite in virtue of its relation to the prior; i.e. a movement is called infinite in virtue of the distance covered by the spatial movement or alteration or growth, and a time is called infinite because of the movement which occupies it. -->
+
+
+

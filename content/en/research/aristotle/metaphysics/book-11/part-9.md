@@ -11,6 +11,8 @@ icon: "Aristotle"
 ---
 
 
+
+
 Some things are only actually what they are. 
 
 Some are only potentially what they are. 
@@ -88,3 +90,82 @@ Movement is in the movable.
 The actuality of movement is capable of causing movement in the movable. While a thing is capable of causing movement because it can do this, it is a mover because it is active. 
 
 But it is on the movable that it is capable of acting, so that the actuality of both is one, just as there is the same interval from one to two as from two to one, and as the steep ascent and the steep descent are one, but the being of them is not one; the case of the mover and the moved is similar.
+
+
+
+
+
+
+
+<!-- It is impossible then for the infinite to exist as a separate, self-subsistent entity.
+
+For if it is neither magnitude nor plurality. But substance itself is the infinite and not an accident. 
+
+It will be indivisible for that which is divisible is either magnitude or plurality. 
+
+But if it is indivisible, it is not infinite, except in the sense in which a voice is invisible.
+
+But this is not how they speak of it, nor is this what we are investigating.
+
+Rather, we are investigating the infinite as that which cannot be traversed.
+
+How can the infinite exist in its own right if number and magnitude do not, since the infinite is an attribute of these?
+
+If it exists only as an accident, it would not be an element of beings qua infinite, just as the invisible is not an element of speech, although voice is invisible.
+
+The infinite does not exist in actuality is clear. 
+
+For any part taken from it will be infinite, since "to be infinite" and "the infinite" are the same, if the infinite is a substance and not predicated of a subject. 
+
+Consequently, it will be either indivisible or divisible into infinite parts, if it is divisible. 
+
+But it is impossible for the same thing to be many infinites for just as a part of air is air, so a part of the infinite would be infinite, if it is a substance and a principle. 
+
+Therefore, it must be partless and indivisible. 
+
+But it is impossible for what exists in actuality to be infinite for it must be a quantity. 
+
+Therefore, it exists only as an accident. But if so, it has been stated that it cannot be a principle, but rather that to which it belongs as an accident, such as air or the even number.
+
+This inquiry, then, is general. 
+
+The infinite does not exist in sensible things is clear from the following: For if the definition of body is that which is bounded by planes, there could be no infinite body, either sensible or intelligible; nor could there be a separate and infinite number, for number is that which is numbered or possesses number.
+
+Physically, the infinite body can be neither composite nor simple. 
+
+It will not be a composite body if the elements are finite in number.
+
+
+For the contraries must be equal in power. None of them can be infinite. For if the power of one body exceeds that of another, the finite will be destroyed by the infinite.
+
+But it is impossible for each element to be infinite, for body is that which has extension in all directions. The infinite is that which is extended without limit. So if the body is infinite, it will be infinite in all directions.
+
+Nor is it possible for the infinite body to be one and simple, either as some say, existing over and above the elements and generating them (for there is no such body besides the elements; for everything out of which a thing comes also dissolves back into it, and no such body appears besides the simple bodies),
+
+
+
+
+
+
+
+
+For example, the buildable *qua* buildable, and the actuality of the buildable *qua* buildable, is building. 
+
+For either this—building—is the actuality, or it is the house; but when the house exists, it is no longer "buildable," whereas the buildable is being built. Therefore, the actuality must be building, and building is a kind of motion. (The same account applies to other motions as well.)
+
+That this definition has been correctly stated is clear from what others say about motion, and from the fact that it is not easy to define it otherwise. For one could not place it in any other genus; this is clear from their statements. 
+
+Some place it in difference, inequality, and non-being, none of which necessarily involve motion; nor does change into or out of these occur any more than into or out of their opposites. The reason they place it in these categories is that motion seems to be something indefinite, and the principles of the other column of opposites are indefinite because they are privative; for none of them is a "this" or a "such," nor do they belong to any of the other categories.
+
+The reason motion seems to be indefinite is that it cannot be classified either as potentiality among beings or as actuality. For neither that which is potentially of a certain quantity nor that which is actually of a certain quantity is necessarily in motion. And while motion seems to be a kind of actuality, it is incomplete. 
+
+The reason for this is that the potentiality whose actuality it is, is itself incomplete. And for this reason it is difficult to grasp what motion is; for one must class it either as privation, or as potentiality, or as simple actuality, but none of these seems possible. Therefore, what remains is the definition given: that it is a kind of actuality, but an incomplete one, as described. It is difficult to visualize, but it is possible for it to exist.
+
+That motion is in the movable object is clear. For it is the actuality of this object caused by the mover.
+
+The actuality of the mover is not different. For there must be an actuality of both; for the mover is capable of moving by virtue of its capacity, and it moves by virtue of its activity. 
+
+But it is active upon the movable object, so that the actuality of both is one and the same, just as the interval from one to two and from two to one is the same, and the uphill and the downhill are the same, although their being is not the same. Similarly, it is with the mover and the moved.
+
+
+ -->

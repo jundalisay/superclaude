@@ -1,5 +1,5 @@
 ---
-title: "THE HYPOTHESES RELATING TO THE LUMINOUS ÆTHER, AND AN EXPERIMENT WHICH APPEARS TO DEMONSTRATE THAT THE MOTION OF BODIES ALTERS THE VELOCITY WITH WHICH LIGHT PROPAGATES ITSELF IN THEIR INTERIOR."
+title: "The Hypotheses Relating To The Luminous Aether"
 date: 2023-05-30
 weight: 30
 description: ""
@@ -9,6 +9,7 @@ c: "firebrick"
 
 
 
+## The Hypotheses Relating To The Luminous Aether and an Experiment Which Appears To Demonstrate That The Motion Of Bodies Alters The Velocity With Which Light Propagates Itself In Their Interior.
 
 BY M. H. FIZEAU.
 
@@ -112,3 +113,5 @@ According to the hypothesis of Fresnel, the same displacement ought to be only 0
 An experiment of M. Babinet, mentioned in the ninth volume of the Comptes Rendus, seems to be opposed to the hypothesis of an alteration of velocity in conformity with the law of Fresnel, But on considering the circumstances of that experiment, I have remarked a cause of compensation which must render the effect of the motion imperceptible. This cause consists in the reflexion which the light undergoes in that experiment; in fact it may be demonstrated, that when two rays have a certain difference of course, that difference is changed by the effect of the reflexion upon a mirror in motion. On calculating separately the two effects in the experiment of M. Babinet, it is found that they have values sensibly equal with contrary signs.
 
 This explanation renders still more probable the hypothesis of an alteration of velocity, and an experiment made with water in motion appears to me completely appropriate to decide the question with certainty.
+
+

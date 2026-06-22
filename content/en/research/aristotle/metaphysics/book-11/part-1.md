@@ -2,7 +2,6 @@
 heading: "Part 1"
 title: "Should science focus on the elemental or the universal?"
 weight: 2
-
 c: "indigo"
 description: "Aristotle asks whether science should focus on the elemental or the universal"
 writer:
@@ -13,9 +12,17 @@ icon: "Aristotle"
 
 
 
-Wisdom is a science of first principles.
+<!-- That wisdom is a kind of knowledge concerning principles is evident from the initial discussions in which difficulties were raised regarding what others have said about principles. But one might be puzzled whether we ought to consider wisdom to be a single science or multiple sciences. For if it is one, it must always be the science of contraries, yet principles are not contraries. If it is not one, which sciences should we posit? Furthermore, should we consider the axioms of demonstration as belonging to one science or several? For if they belong to one, why this one rather than any other? And if they belong to several, which ones should we posit?
 
-The introductory chapters raised objections to the statements of others about the first principles.
+Moreover, does this science concern all substances or not? For if it does not concern all, it is difficult to specify which ones it does concern; but if there is one science of all substances, it is unclear how the same science can deal with multiple subjects. Additionally, is demonstration concerned only with substances, or also with accidental properties? For if demonstration concerns accidental properties, it does not concern substances; but if these are different, what is each of them, and which one is wisdom? Insofar as it is demonstrative, the science of accidental properties is wisdom; but insofar as it concerns primary things, the science of substances is wisdom.
+
+But nor should we posit the sought-after science as concerning the causes mentioned in natural philosophy. For it does not concern the final cause (for such is the good, and this exists in things done and in beings subject to motion; and this moves first—for such is the end—but the first mover is not found among immovable things). In general, there is a difficulty as to whether the science now being sought concerns sensible substances or not, or rather some other kinds of substances.
+ -->
+
+
+Wisdom is a kind of knowledge of first principles.
+
+<!-- The introductory chapters raised objections to the statements of others about the first principles. -->
 
 Is Wisdom one science? Or is it several? 
 

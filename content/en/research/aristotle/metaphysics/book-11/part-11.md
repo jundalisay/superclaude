@@ -2,7 +2,6 @@
 heading: "Part 11"
 title: "Change as Movement"
 weight: 19
-
 c: "indigo"
 description: "Some things change in an accidental sense, like that in which 'the musical' may be said to walk"
 writer:

@@ -4,6 +4,7 @@ linkTitle: Book 1
 title: "Wisdom"
 c: "indigo"
 weight: 1
+icon: Aristotle
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

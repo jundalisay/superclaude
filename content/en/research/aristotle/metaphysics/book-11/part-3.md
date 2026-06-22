@@ -123,3 +123,16 @@ Philosophy is the single science of things which are many and different in genus
  the difficulty we stated at the beginning appears to be solved,-I mean the question how there can be a  -->
 
 
+
+
+
+<!-- 
+Since nothing that exists by accident is prior to that which exists in its own right, neither are causes. Therefore, if chance or spontaneity is a cause of the heavens, mind and nature are prior causes.
+
+Now, some things exist only in actuality, others only in potentiality, and others both in potentiality and in actuality—some as substance, others as quantity, and others as belonging to the remaining categories. But there is no motion apart from things; for change always occurs according to the categories of being, and there is no common element among these that does not fall under one of the categories. Each category applies in two ways to all things (for example, regarding "this-ness": one aspect is form, the other privation; regarding quality: one is white, the other black; regarding quantity: one is complete, the other incomplete; regarding place: one is up, the other down, or light and heavy). Therefore, there are as many species of motion and change as there are of being.
+
+Since each genus is divided into that which is potential and that which is in actuality, I define motion as the actuality of that which is potential, *qua* potential. That we speak truly is clear from this: For when the buildable, *qua* such, is in actuality, it is being built, and this is building. Similarly with learning, healing, walking, leaping, aging, and ripening. Motion occurs when the actuality is present, neither before nor after.
+
+Therefore, the actuality of that which exists potentially, when it is active *qua* movable, is motion. I mean "qua" in this sense: Bronze is potentially a statue. Nevertheless, the actuality of bronze *qua* bronze is not motion. For being bronze is not the same as being potentially something; for if they were identical in definition, the actuality of bronze would be a kind of motion. But they are not the same (this is clear from contraries: for the capacity to be healthy and the capacity to be sick are not the same—for then health and sickness would be the same—although the subject, whether moisture or blood, is the same and one while being healthy or sick). Since they are not the same, just as color is not the same as the visible, the actuality of the potential *qua* potential is motion.
+
+[34] That this is so, and that motion occurs when this actuality is present, neither before nor after, is clear (for each thing can sometimes be active and sometimes not, -->

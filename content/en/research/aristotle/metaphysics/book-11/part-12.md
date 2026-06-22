@@ -91,10 +91,38 @@ That which is most distant in a straight line is contrary in place. That is succ
 
 For the successive succeeds something and is something later; 'one' does not succeed 'two', nor the first day of the month the second. 
 
-That which, being successive, touches, is contiguous. (Since all change is between opposites, and these are either contraries or contradictories, and there is no middle term for contradictories, clearly that which is between is between contraries.) The continuous is a species of the contiguous. 
 
-I call two things continuous when the limits of each, with which they touch and by which they are kept together, become one and the same, so that plainly the continuous is found in the things out of which a unity naturally arises in virtue of their contact. 
 
-Plainly, the successive is the first of these concepts (for the successive does not necessarily touch, but that which touches is successive; and if a thing is continuous, it touches, but if it touches, it is not necessarily continuous; and in things in which there is no touching, there is no organic unity); 
 
-Therefore, a point is not the same as a unit. This is because contact belongs to points, but not to units, which have only succession; and there is something between two of the former, but not between two of the latter.
+
+
+
+"Contiguous" means that which, being successive, touches. 
+
+All change occurs in opposites which are either contraries or contradictories.
+
+There is no intermediate between contradictories.
+
+This means that the intermediate lies among contraries. 
+
+The continuous is a kind of contiguous. 
+
+I call something "continuous" when the boundary of each of the things that touch and are joined becomes one and the same.
+
+The continuous arises from those things which by nature become one through their junction.
+
+The successive does not touch.
+
+But the contiguous does.
+
+If things are continuous, they touch.
+
+But if they merely touch, they are not yet continuous.
+
+In things where there is no touching, there is no natural union. 
+
+Hence, a point is not the same as a unit.
+
+This is because touching belongs to points, but not to units. Rather, succession belongs to units. 
+
+There is something intermediate between some things, but not between others.

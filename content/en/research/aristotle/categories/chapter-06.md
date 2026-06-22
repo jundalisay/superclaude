@@ -10,13 +10,15 @@ description: ""
 ---
 
 
-1. Quantity two-fold, discrete and continuous; of parts occupying relative position, and the contrary.
+<!-- 1. Quantity two-fold, discrete and continuous; of parts occupying relative position, and the contrary. -->
 
 Of Quantity, one kind is discrete, and another continuous
 
-The one consists of parts, holding position with respect to each other, but the other of parts, which have not that position. 
+The one consists of parts, holding position with respect to each other, but the other of parts which do not have that position. 
 
-2. Examples discrete.Discrete quantity is, as number and sentence, but continuous, as line, superficies, body, besides place and time. 
+<!-- 2. Examples discrete. -->
+
+Discrete quantity is, as number and sentence, but continuous, as line, superficies, body, besides place and time. 
 
 1. Number.For, of the parts of number, there is no common term, by which its parts conjoin, as if five be a part of ten, five and five, conjoin at no common boundary, but are separated. Three, and seven, also conjoin at no common boundary, nor can you at all take a common limit of parts, in number, but they are always separated, whence number is of those things which are discrete. 
 
