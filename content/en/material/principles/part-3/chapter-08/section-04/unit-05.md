@@ -1,6 +1,6 @@
 ---
 heading: "Unit 5 Macro Cohesion"
-title: "Moving Electromagnetic Field: Ampere's Law"
+title: "Maxwell's 4th Equation: Electric Flux and Amepre's Law"
 date: 2023-10-31
 image: "/photos/stuff/ev.jpg"
 description: ""
@@ -17,7 +17,7 @@ aliases:
 
 ### Equation 4
 
-The electric flux through a closed surface is proportional to the total charge enclosed by that surface. 
+The electric flux, as a moving electron vortex, through a closed surface is proportional to the total charge enclosed by that surface. 
 
 𝜵x H  = (𝛅B / 𝛅t) + J
 
@@ -43,6 +43,7 @@ This force pushes the carriers to one side of the conductor, creating charge sep
 The connection is indirect but important, and exists in two main ways:
 
 1. Practical / Engineering Connection (Most Common)
+
 Ampere's Law is used to generate the magnetic field that the Hall sensor then measures.
 
 A current-carrying wire produces a magnetic field around it according to Ampere's Law.

@@ -1,6 +1,6 @@
 ---
 heading: "Unit 2 Micro Cohesion"
-title: "Maxwell's 1st Equation"
+title: "Maxwell's 2nd Equation: Magnetic Vortex or Flux"
 # date: 2024-07-22
 weight: 7
 image: /photos/objects/magnet.jpg

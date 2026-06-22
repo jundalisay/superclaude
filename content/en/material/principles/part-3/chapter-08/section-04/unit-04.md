@@ -1,6 +1,7 @@
 ---
 heading: "Unit 4 Cohesion"
-title: "Moving Electromagnetic Field: Overhauled Faraday's Law"
+title: "Maxwell's 3rd Equation: Moving Electron Vortex"
+# Moving Electromagnetic Field"
 date: 2023-10-31
 image: "/photos/physics/wire.jpg"  
 description: ""
@@ -13,6 +14,8 @@ aliases:
   /material/principles/part-3/chapter-07b
 ---
 
+
+<!-- : Overhauled Faraday's Law -->
 
 
 ## Faraday's Law of Induction: Maxwell's 3rd Equation

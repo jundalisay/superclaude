@@ -22,7 +22,9 @@ Heat and light particles deal with displacement from the 1st Rule of Motion.
 ## Virtual Photons: Cohesion 
 
 
-Virtual Photon Relationalities deal with cohesion:
+Virtual Photon Relationalities deal with cohesion as curl, just as photons deal with displacement or emission.
+
+This is why we see light emitted but not going around, and why we see magnetism going around but not emitted. 
 
 
 1. Micro Cohesion
@@ -49,3 +51,5 @@ Examples are:
 
 
 
+
+Maxwell's Laws explain the cohesion relationalities.

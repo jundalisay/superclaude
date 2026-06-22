@@ -1,6 +1,6 @@
 ---
 heading: "Unit 3 Cohesion"
-title: "Static Electromagnetic Field"
+title: "Maxwell's 1st Equation: Electron Vortex"
 # date: 2024-07-22
 weight: 9
 image: /photos/physics/lightning.jpg
@@ -13,7 +13,7 @@ writer:
 
 
 
-## Static Electromagnetic Field: Maxwell's 1st Equation
+## Electron Vortex or Static Electromagnetic Field: Maxwell's 1st Equation
 
 
 A virtual photon vortex can be also created by electrons (since a spinning electron is a vortex) and other virtual photon vortices, as a vortex within a vortex.*
