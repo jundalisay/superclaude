@@ -1,6 +1,6 @@
 ---
 title: "How to Solve Inequality"
-heading: "Taxation and Structural Reform to Protect the Lower Class from the Wealth Gap"
+# heading: "Taxation and Structural Reform to Protect the Lower Class from the Wealth Gap"
 date: 2018-12-30
 image: /photos/econ/cocoa.jpg
 description : "We explain Socrates' solution to inequality"
@@ -45,6 +45,30 @@ Also, employees must pay income taxes that eat up their revenue, but company own
 In time, the differences in revenue lead to a wealth gap.
 
 
+### The DOTA Example
+
+We realized this while we were playing DOTA where there are some heroes that increase their damage by increments, and there are those who increase by percentage. 
+
+The heroes that increase their damage by increments dominate in the early game, while those who increase their damage by percentage dominate in the late game. 
+
+Base Damage | Increase + 10 | Percentage Increase + 5%
+--- | --- 
+100 | 110 | 105
+200 | 210 | 210
+300 | 310 | 315
+400 | 410 | 320
+
+As you can see the incremental increases are only good in the beginning. But as the base damage increases, the advantage goes to the percentage increase. 
+
+![Heroes](/graphics/econ/heroes.jpg)
+
+This is why it is easy to get in debt when the base or principal is small. But when the base value increases, the debt becomes oppressive. 
+
+Likewise, foreign investments are advantageous in the beginning as wages increase through multiplier effects. But in time, profits will reduce the social benefits from the investments. 
+
+
+
+
 ## The Solution to Inequality 
 
 The root cause of inequality is the difference in the nature of rent, wages, and profits. 
@@ -74,7 +98,6 @@ However, a tax is a negative action which can be stifle growth. To address this,
 
 While taxation is an active solution to inequality, structural reform is a passive solution.
 
-
 Its main principle is competition to dislodge concentrations of wealth that tend to block the flow. 
 
 
@@ -91,7 +114,7 @@ Since profits are from the merchant or trading class, then the reform breaks up 
 
 ### Business competition: Exorcism and Guardian Angels
 
-The usual strategy of monopolists is to invest heavily in a corporation to reduce costs and drive its competitors out of the market. 
+The usual strategy of monopolists is to invest heavily in a corporation to reduce costs and then drive its competitors out of the market. 
 
 After the competitors are gone, the corporation gradually raises its prices, higher than the normal rate, in order to recover its investments with business profits.
 
@@ -110,8 +133,6 @@ This makes the government invest, such as into telecoms and utilities, in order 
 
 <!-- These will encourage freelancing and online businesses where everyone can be their own boss and earn profit instead of wages.  -->
 
-
-
 <!-- Therefore, the best solution is for the lower classes to become capitalists or owners of capital to earn profits instead of wages. Online marketplaces allow this, and it is common to see people doing dropshipping and freelancing to become their own masters without sharing their revenue with investors or even the government (as ecommerce laws are not yet developed in some countries).
  -->
  
@@ -122,7 +143,10 @@ Both exorcisms and guardian angels use the same religion of money. In order to c
 
 This uses grain-based valuation instead of money. This empowers farmers who control the supply of grain, just as the financial system empowers bankers who control the money supply. 
 
-When investors pool their money into money markets to increase paper wealth instead of actual wealth, the barter-credit system will naturally be more active, with people bartering with each other on credit to meet their own needs. 
+When investors pool their money into money markets to increase paper wealth instead of actual wealth, the barter-credit system will naturally be more active, with people bartering with each other on credit to meet their own needs.
+
+This is a positive action that creates a systemic competitor, in line with Adam Smith's maxims. 
+
 
 
 ### Alternative to Universal Basic Income: Minimum Needs
