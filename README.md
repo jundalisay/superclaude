@@ -210,11 +210,8 @@ Built files go to `public/`. Deploy to any static host:
 <style type="text/tailwindcss">
 
 
-
-
 {{< a n="Silicon" e="14" w="28.085" m="1414°C" b="3265°C" >}}
 {{< a n="Phosphorus" e="15" w="30.974" m="44.15°C" b="280.5°C" >}}
-
 
 {{< a n="Potassium" e="19" w="39.098" m="63.5°C" b="759°C" >}}
 {{< a n="Calcium" e="20" w="40.078" m="842°C" b="1484°C" >}}
@@ -695,13 +692,3 @@ details[open] .details-arrow { transform: rotate(180deg); }
     </ul>
     {{ end }}
 {{ end }}
-
-
-
-
-
-
-
-
-
-                    
