@@ -8,6 +8,10 @@ image: "/photos/meta/creed.jpg"
 ---
 
 
+In Supersociology, the Constitution defines the oversoul of a society. 
+
+
+
 ### 1. Preamble and National Principles
 
 - The National Motto and Seal

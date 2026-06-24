@@ -86,7 +86,8 @@ In fact, Descartes extends this motion of the aether as it goes from the telesco
 
 This is why Descartes said that the speed of light was instant. He really meant the pure aether that travelled through light. 
 
-This means that the distant galaxies that JWST observes are close to their current age instead of being billions of years old. This explains why they are already so massive and bright. (This also explains why entangled particles can teleport instantly.) 
+This means that the distant galaxies that JWST observes are close to their current age instead of being billions of years old. This explains why they are already so massive and bright. (This also explains how massive UFOs can teleport nearly instantly.) 
+
 
 ## Aether Versus Pure Aether
 

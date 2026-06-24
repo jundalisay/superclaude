@@ -59,4 +59,4 @@ A common solution is to push for the Law of Attraction that is merged with the d
 inshallah" which is lacking in the Western version of the Law of Attraction (since Westerners are egotistic). 
 
 
-
+{{< i s="/photos/bio/smoke.jpg" a="Smoke" c="A lot of people have nothing better to do" >}}

@@ -1,6 +1,6 @@
 ---
 heading: "Part 3"
-title: "The Structure of Government"
+title: "The Separation of Powers"
 linkTitle: "Workers"
 date: 2022-01-30
 weight: 8

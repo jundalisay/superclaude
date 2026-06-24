@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "The Earth Government"
 # date: 2020-07-02
 date: 2026-04-25
-weight: 14
+weight: 4
 image: "/photos/social/lawmaker.jpg"
 description: ""
 writer:

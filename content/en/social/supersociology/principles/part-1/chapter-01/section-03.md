@@ -97,3 +97,28 @@ History has shown that:
 If individual minds have certain levels which may be higher or lower than others, what happens when they are grouped together?
 
 This will be explained in the Law of Social Cycles
+
+
+## Levels of Social Mentality
+
+We group the levels of mentality as a society
+
+1. Animals
+
+2. Savages
+
+Examples are the North Sentinelese
+
+3. Barbarians
+
+Examples are some backward countries.
+
+4. Civilized
+
+Examples are most countries.
+
+5. Advanced
+
+Examples are advanced alien civilizations
+
+

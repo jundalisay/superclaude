@@ -12,8 +12,5 @@ icon: "Juan"
 ---
 
 
-<!-- The Workers are the most numerous of any population. 
 
-The Worker Cycle is the beginning of a society.
-
- -->
+Living Standards is the base and largest measure in the Gross National Happiness Index.

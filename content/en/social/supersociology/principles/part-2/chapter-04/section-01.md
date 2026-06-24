@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1"
-title: "Manifestations"
+title: "Dynamics"
 date: 2019-12-17
 # date: 2021-06-29
 weight: 6
