@@ -1,3 +1,12 @@
+---
+heading: Chapter 1
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
 
@@ -5,7 +14,6 @@ LIVRE DEUXIÈME.
 DE L’IMAGINATION.
 PREMIÈRE PARTIE.
 
-CHAPITRE PREMIER.
 
 I. Idée générale de l’imagination. — II. Qu’elle renferme deux facultés, l’une active et
 l’autre passive. — III. Cause générale des changements qui arrivent à
@@ -170,10 +178,7 @@ remarque plus aisément dans le sien même la cause de tous les
 changements, qu’il y sent en différents temps, il semble à propos
 d’examiner en général les causes des changements qui arrivent
 dans les esprits animaux et dans les fibres du cerveau, parce
-qu’ainsi on découvrira tous ceux qui se trouvent dans
-169
-
-l’imagination.
+qu’ainsi on découvrira tous ceux qui se trouvent dans l’imagination.
 
 L’homme ne demeure guère long-temps semblable à lui-même ;
 tout le monde a assez de preuves intérieures de son inconstance ;

@@ -1,4 +1,15 @@
-CHAPITRE III.
+---
+heading: Chapter 3
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 
 Que l’âme n’a point la puissance de produire les idées. Cause de l'erreur où l’on tombe
 sur ce sujet.

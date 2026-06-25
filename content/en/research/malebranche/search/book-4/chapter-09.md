@@ -1,5 +1,14 @@
+---
+heading: Chapter 9
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE IX.
+
 
 Comment l’inclination que l’on a pour les dignités et les richesses porte à l’erreur.
 Les dignités et les richesses aussi bien que la vertu et les

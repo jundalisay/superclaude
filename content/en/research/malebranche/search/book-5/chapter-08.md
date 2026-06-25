@@ -1,17 +1,28 @@
-CHAPITRE VIII.
+---
+heading: Chapter 8
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 Continuation du même sujet. Du bon usage que 1’on peut faire de l’admiration et des
 autres passions.
+
 Toutes les passions ont deux effets fort considérables, elles
 appliquent l’esprit et elles gagnent le cœur. En ce qu’elles
 appliquent l’esprit, elles peuvent être fort utiles à la
 connaissance de la vérité : pourvu que l’on sache en faire usage ;
 car l’application produit la lumière, et la lumière découvre la
 vérité. Mais en ce qu’elles gagnent le coeur, elles font toujours un
-mauvais effet ; parce qu’elles ne gagnent le cœur, qu’en
-667
-corrompant la raison, et en lui représentant les choses non selon
+mauvais effet ; parce qu’elles ne gagnent le cœur, qu’en corrompant la raison, et en lui représentant les choses non selon
 ce qu’elles sont en elles-mêmes, ou selon la vérité, mais selon le
 rapport qu’elles ont avec nous.
+
+
 De toutes les passions celle qui va le moins au cœur, c’est
 l’admiration ; car c’est la vue des choses, comme bonnes ou
 comme mauvaises, qui nous agite ; la vue des choses comme
@@ -37,9 +48,7 @@ esprits animaux dont le cours est nécessaire pour la formation et
 la conservation des traces ; mais elles ne l’éclairent pas, ou elles
 l’éclairent d’un faux jour et d’une lumière trompeuse, parce
 qu’elles poussent de telle manière ces mêmes esprits, qu’ils ne
-représentent les objets que selon le rapport qu’ils ont avec nous,
-668
-et non pas selon ce qu’ils sont en eux-mêmes.
+représentent les objets que selon le rapport qu’ils ont avec nous, et non pas selon ce qu’ils sont en eux-mêmes.
 Il n’y a rien de si difficile que de s’appliquer long-tempsà une
 chose lorsque, ne l’admirant point, les esprits animaux ne se
 portent pas facilement aux endroits nécessaires pour se la
@@ -67,9 +76,7 @@ tant d’ordres secrets de la part de nos passions, et ils ont par
 nature et par habitude uuesi grande facilité il les exécuter, qu’ils
 sont très-aisément détournés le ces chemins nouveaux et difficiles
 ou la volonté les voulait engager. De sorte que c’est
-principalement dans ces rencontres que l’on a besoin d’une grâce
-669
-particulière pour connaître la vérité, parce qu’on ne peut, par ses
+principalement dans ces rencontres que l’on a besoin d’une grâce particulière pour connaître la vérité, parce qu’on ne peut, par ses
 propres forces, résister long-temps au poids lu corps qui
 appesantit l’esprit ; ou, si on le peut, on ne fait jamais ce que l’on
 peut.
@@ -82,6 +89,7 @@ pousser les esprits rebelles. Ainsi ceux qui sont capables
 d’admiration sont beaucoup plus propres a l’étude que ceux qui
 n’en sont point susceptibles ; ils sont ingénieux, et les autres sont
 stupides.
+
 Cependant, lorsque l’admiration devient excessive et qu’elle
 va jusqu’à l’étonnement ou à l’épouvante, ou enfin lorsqu’elle ne
 porte point à une curiosité raisonnable, elle fait un très-mauvais
@@ -94,12 +102,11 @@ ils impriment des vestiges si profonds de l’objet qu’ils
 représentent, ils rompent un si grand nombre de fibres dans le
 cerveau, que l’idée qu’ils ont excitée ne se peut plus effacer de
 l’esprit.
+
 Il ne suffit pas que l’admiration nous rende attentifs, il faut
 qu’elle nous rende curieux ; il ne subit pas que nous ayons
 considéré une des faces de quelque objet pour le connaître
-pleinement, il faut que nous ayons eu la curiosité de les examiner
-670
-toutes, autrement nous n’en pouvons juger solidement. Ainsi
+pleinement, il faut que nous ayons eu la curiosité de les examiner toutes, autrement nous n’en pouvons juger solidement. Ainsi
 lorsque l’admiration ne nous porte point à examiner les choses
 dans la dernière exactitude, ou lorsqu’elle nous en empêche, elle
 est très-inutile pour la connaissance de la vérité. Alors elle ne
@@ -119,6 +126,7 @@ connaissance de l’objet qui les excite. Elle aime mieux sentir ses
 richesses que de les dissiper par l’usage ; et elle ressemble en
 cela aux avares, qui aiment mieux posséder leur argent que de
 s’en servir dans leurs besoins.
+
 Les hommes se plaisent généralement dans tout ce qui les
 touche de quelque passion que ce puisse être. Ils ne donnent pas
 seulement de l’argent pour se faire toucher de tristesse parla
@@ -127,9 +135,7 @@ de gobelets pour se faire toucher d’admiration, car on ne peut pas
 dire que ce soit pour être trompés qu’ils leur en donnent. Ce
 sentiment de douceur intérieure que l’on sent en admirant est
 donc la principale cause pour laquelle on s’arrête dans
-l’admiration, sans en faire l’usage que la raison et la nature nous
-671
-prescrivent ; car c’est ce sentiment de douceur qui tient les
+l’admiration, sans en faire l’usage que la raison et la nature nous prescrivent ; car c’est ce sentiment de douceur qui tient les
 admirateurs si fort attachés aux sujets de leur admiration, qu’ils
 se mettent en colère lorsqu’on leur en montre la vanité. Quand un
 homme affligé goûte la douceur de la tristesse, on le fâche
@@ -158,9 +164,9 @@ pense, et que mon esprit a plus d’étendue lorsqu’il embrasse une
 si grande idée. L’esprit cesse d’être lorsqu’il ne pense à rien ; si
 cette idée s’évanouissait, il me semble que mon esprit
 s’évanouirait avec elle, ou qu’il deviendrait plus petit et plus
-resserré s’il s’attachait à une idée qui fût plus petite. La
-672
-conservation de cette grande idée est donc la conservation de la
+resserré s’il s’attachait à une idée qui fût plus petite. 
+
+La conservation de cette grande idée est donc la conservation de la
 grandeur et de la perfection de mon être : j’ai donc raison
 d’admirer. Les autres devraient même avoir de l’admiration pour
 moi s’ils me faisaient justice ; en effet, je suis quelque chose de
@@ -247,10 +253,9 @@ extraordinaires qu’ils ne réveillent en même temps cette idée et
 qu’ils ne fournissent par conséquent des armes pour leur
 résister : ces choses sont prouvees par l’expérience et par les
 raisons que l’on a dites lans le chapitre de la liaison des idées ;
-de sorte qu’on ne doit. pas s’imaginer qu’il soit absolument
-675
-impossible de vaincre par adresse l’effort de ses passions
+de sorte qu’on ne doit. pas s’imaginer qu’il soit absolument impossible de vaincre par adresse l’effort de ses passions
 lorsqu’on en a une ferme volonté.
+
 Néanmoins, il ne faut pas prétendre qu’on se rende impeccable
 ni que l’on puisse éviter toute erreur par cette sorte de
 résistance ; car. premièrement, il est difficile d’acquérir et de

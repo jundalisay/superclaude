@@ -1,6 +1,14 @@
+---
+heading: Chapter 5
+title: "The Senses"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE V. Des sens.
 
 I. Deux manières d’expliquer comment nos sens sont corrompus par le péché. — II.
 54
@@ -285,13 +293,12 @@ manière nous nous devons conduire dans leur usage pour ne point
 tomber dans l’erreur.
 
 
-III. Nous devons observer exactement cette règle de ne juger
-63
-jamais par les sens de ce que les choses sont en elles-mêmes,
+III. Nous devons observer exactement cette règle de ne juger jamais par les sens de ce que les choses sont en elles-mêmes,
 mais seulement du rapport quelles ont avec notre corps, parce
 qu’en effet ils ne nous sont point donnés pour connaître la vérité
 des choses en elles-mêmes, mais seulement pour la conservation
 de notre corps.
+
 Mais afin qu’on se délivre tout à fait de la facilité et de
 l’inclination que l’on a à suivre ses sens dans la recherche de la
 vérité, on va faire dans les chapitres suivants une déduction des

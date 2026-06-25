@@ -1,6 +1,13 @@
+---
+heading: Chapter 3
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE III.
 
 Que l’air qu’on respire cause aussi quelque changement dans les esprits.
 La seconde cause générale des changements qui arrivent dans
@@ -71,5 +78,3 @@ Athenis tenue cœlum, ex quo acutiores etiam putantur Attici ; crassum Thebis.
 (Cic., De fato.)
 Abderitanœ pectora plebis habes. (Mart.)
 Bœotum in crasso jurares aere natum. (Hor.)
-
-

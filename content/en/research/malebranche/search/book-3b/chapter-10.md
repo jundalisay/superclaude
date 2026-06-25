@@ -1,5 +1,14 @@
+---
+heading: Chapter 10
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE X.
+
 
 Exemples de quelques erreurs de physique dans lesquelles on tombe, parce qu’on
 suppose que des êtres qui différent dans leur nature, leurs qualités, leur étendue,

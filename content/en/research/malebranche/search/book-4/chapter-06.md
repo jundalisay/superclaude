@@ -1,6 +1,14 @@
+---
+heading: Chapter 6
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE VI.
 
 I. De l’inclination que nous avons pour tout ce qui nous élève au-dessus des autres. —
 

@@ -1,5 +1,14 @@
+---
+heading: Chapter 4
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE IV.
+
 
 De l’usage de l’organisation pour conserver l’attention de l’esprit, et de l’utilité de la
 géométrie.

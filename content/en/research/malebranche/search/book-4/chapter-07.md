@@ -1,6 +1,14 @@
+---
+heading: Chapter 7
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE VII.
 Du désir de la science, et des jugements des faux savants.
 
 L’esprit de l’homme a sans doute fort peu de capacité et

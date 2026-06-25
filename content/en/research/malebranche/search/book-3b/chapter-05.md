@@ -1,6 +1,16 @@
+---
+heading: Chapter 5
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE V.
+
+
 
 Que l’esprit ne voit ni l’essence ni l’existence des objets en considérant ses propres
 perfections. Qu’il n’y a que Dieu qui les voie en cette manière.

@@ -1,5 +1,14 @@
+---
+heading: Chapter 9
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE IX.
+
 
 I. Dernière cause générale de nos erreurs. — II. Que les idées des choses ne sont pu
 toujours présentes å l’esprit dès qu’on le souhaite. — III. Que tout esprit fini est

@@ -1,7 +1,18 @@
-CHAPITRE XV.
+---
+heading: Chapter 15
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Explication des erreurs particulières de la vue, pour servir d’exemple des erreurs
 générales de nos sens.
+
 Nous avons donné, ce me semble, assez d’ouverture pour
 reconnaître les erreurs de nos sens à l’égard des qualités
 sensibles eu général, desquelles on a parlé à l’occasion de la

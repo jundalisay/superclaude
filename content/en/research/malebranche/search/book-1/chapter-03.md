@@ -1,6 +1,13 @@
+---
+heading: Chapter 3
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE III.
 
 I. Réponse à quelques objections. — II. Remarques sur ce qu’on a dit de la nécessité de
 l’évidence.

@@ -1,6 +1,19 @@
-CHAPITRE VI.
+---
+heading: Chapter 6
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
+
 Des erreurs les plus générales des passions ; quelques exemples
 particuliers.
+
 C’est à la morale à découvrir toutes les erreurs particulières
 dans lesquelles nos passions nous engagent touchant le bien ;
 c’est à elle à combattre les amours déréglés, à rétablir la droiture
@@ -90,9 +103,7 @@ désirons ; et de là naissent les jalousies et les secrètes aversions,
 si le bien que nous recherchons ne peut être possédé tout entier
 de plusieurs : car si plusieurs personnes peuvent le posséder sans
 le diviser, comme le souverain bien, la science, la vertu, etc., il
-arrive tout le contraire. nous pensons aussi que l’on hait, que l’on
-639
-fuit, que l’on craint les mêmes choses que nous ; et de la viennent
+arrive tout le contraire. nous pensons aussi que l’on hait, que l’on fuit, que l’on craint les mêmes choses que nous ; et de la viennent
 les liaisons et les conspirations secrètes ou manifestes selon la
 nature et l’état de la chose que l’on hait, par le moyen desquelles
 liaisons nous espérons de nous délivrer de nos misères.
@@ -102,6 +113,8 @@ hommes, et même quelquefois que les bêtes en sont agitées
 comme nous. Mais outre cela nous jugeons encore plus
 témérairement que la cause de nos passions, qui n’est souvent
 qu’imaginaire, est réellement dans quelque objet.
+
+
 Lorsque nous avons un amour passionné pour quelqu’un, nous
 jugeons que tout en est aimable. Ses grimaces sont des
 agréments ; sa difformité n’a rien de choquant ; ses mouvements
@@ -114,15 +127,15 @@ veut toujours primer, c’est qu’il le mérite. Notre passion nous
 couvre ou nous déguise de cette sorte tous les défauts de nos
 amis, et au contraire elle relève avec éclat leurs plus petits
 avantages.
+
+
 Mais si cette amitié qui n’est fondée, comme les autres
 passions, que sur l’agitation du sang et des esprits animaux, vient
 à se refroidir faute de chaleur ou d’esprits propres à l’entretenir ;
 et si l’intérèt ou quelque faux rapport change la disposition du
 cerveau, la haine, succédant à l’amour, ne manquera pas de nous
 faire imaginer dans l’objet de notre passion tous les défauts qui
-peuvent être un sujet d’aversion. Nous verrons dans cette même
-640
-personne des qualités toutes contraires à celles que nous y
+peuvent être un sujet d’aversion. Nous verrons dans cette même personne des qualités toutes contraires à celles que nous y
 admirions auparavant. Nous aurons honte de l’avoir aimée, et la
 passion dominante ne manquera pas de se justifier et de rendre
 ridicule celle dont elle a pris la place. »
@@ -137,6 +150,8 @@ dans ceux qui ont quelque étendue et quelque force
 d’imagination ; car leurs passions ont sur leur esprit une
 domination si vaste et si étendue, qu’il n’est pas possible d’en
 marquer les bornes.
+
+
 Les choses que je viens de dire sont des principes si généraux
 et si féconds d’erreurs, de préventions et d’injustices, qu’íl est
 impossible d’en faire remarquer toutes les suites. La plupart des
@@ -150,9 +165,9 @@ jacobins se croient obligés de suivre saint Thomas, et pourquoi ?
 c’est souvent parce que ce saint docteur était de leur ordre. Les
 cordeliers au contraire embrassent les sentiments de Scot, parce
 que Scot était cordelier.
-Il y a de même des vérités et des erreurs de certains temps. La
-641
-terre tournait il y à deux mille ans ; elle est demeurée immobile
+
+
+Il y a de même des vérités et des erreurs de certains temps. La terre tournait il y à deux mille ans ; elle est demeurée immobile
 jusqu’à nos jours ; et voici qu’elle commence à s’ébranler. On a
 brûlé autrefois Aristote ; un concile provincial, approuvé par un
 pape, a très-sagement défendu qu’on enseignât sa physique. On
@@ -190,6 +205,8 @@ qui en sont émus ; je veux dire qu’il n’y a aucune chose que nous
 pensions avoir quelque rapport avec l’objet de nos passions, à
 laquelle le mouvement de ces passions ne s’étende. Et voici
 comment cela se fait.
+
+
 Les traces des objets sont tellement liées les unes les autres
 dans le cerveau, qu’il est impossible que le cours des esprits en
 réveille quel qu’une avec force, que plusieurs autres ne se
@@ -209,11 +226,11 @@ perception de l’esprit, de même que le mouvement des esprits
 animaux, dans le cerveau, suit les traces du cerveau, tant celles
 qui réveillent l’idée principale de l’objet de la passion que les
 autres qui y ont rapport.
+
+
 Il ne faut donc pas s’étonner si les hommes poussent si loin
 leur haine ou leur amour, et s’ils font des actions si bizarres et si
-surprenantes. Il y à une raison particulière de tous ces effets,
-643
-quoique nous ne la connaissions pas. Leurs idées accessoires ne
+surprenantes. Il y à une raison particulière de tous ces effets, quoique nous ne la connaissions pas. Leurs idées accessoires ne
 sont point toujours semblables aux nôtres ; nous ne les pouvons
 connaître. Ainsi, il y a toujours quelque raison particulière qui
 les fait agir d’une manière qui nous paraît si extravagante.

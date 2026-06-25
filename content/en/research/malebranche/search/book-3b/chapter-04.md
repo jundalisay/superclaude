@@ -1,4 +1,14 @@
-CHAPITRE IV.
+---
+heading: Chapter 4
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Que nous ne voyons point les objets par des idées créées avec nous. Que Dieu ne les
 produit point en nous à chaque moment que nous en avons besoin.

@@ -1,402 +1,71 @@
+---
+heading: Chapter 5
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE V.
+Means of increasing the extent and capacity of the mind. That arithmetic and algebra are absolutely necessary for this.
 
-Des moyens d’augmenter l’étendue et la capacité de l’esprit. Que l’arithmétique et
-l’algèbre y sont absolument nécessaires.
-Il ne faut pas s'imaginer d’abord que l’on puisse jamais
-augmenter véritablement la capacité et l’étendue de son esprit.
-L’âme de l’homme est pour ainsi dire une quantité déterminée ou
-une portion de pensée qui a des bornes qu’elle ne peut passer ;
-l’âme ne peut devenir plus grande ni plus étendue qu’elle est ;
-elle ne s’enfle ni ne s’étend pas de même qu’on le croit des
-liqueurs et des métaux ; enfin il me paraît qu’elle n’aperçoit
-jamais davantage en un temps qu’en un autre.
+One must not first imagine that one can ever truly increase the capacity and extent of one's mind. The soul of man is, so to speak, a determinate quantity or a portion of thought which has limits it cannot surpass; the soul cannot become greater or more extensive than it is; it does not swell or expand as one believes liquids and metals do; in short, it seems to me that it never perceives more at one time than at another.
 
-Il est vrai que cela semble contraire à l’expérience. Souvent on pense à beaucoup d’objets ; souvent on ne pense qu’à un seul,
-et souvent même on dit que l’on ne pense a rien. Cependant si
-l’on considère que la pensée est à l’âme ce que l’étendue est au
-corps, ou reconnaîtra manifestement que de même qu’en corps ne
-peut véritablement être plus étendu en un temps qu’en un autre,
-ainsi à le bien prendre, l’âme ne peut jamais penser davantage en
-un temps qu’en un autre, soit qu’elle aperçoive plusieurs objets,
-soit qu’elle n’en aperçoive qu’un seul, soit même dans le temps
-que l’on dit qu’on ne pense à rien.
+It is true that this seems contrary to experience. Often one thinks of many objects; often one thinks of only one, and often even one says that one thinks of nothing. However, if one considers that thought is to the soul what extension is to the body, one will clearly recognize that just as a body cannot truly be more extended at one time than at another, so, properly speaking, the soul can never think more at one time than at another, whether it perceives several objects, whether it perceives only one, or even during the time when one says one thinks of nothing.
 
-Mais la cause pour laquelle on s’imagine que l’on pense plus
-en un temps qu’en un autre, c’est qu’on ne distingue pas assez
-entre apercevoir confusément et apercevoir distinctement. Il faut
-sans doute beaucoup plus de pensée, ou que la capacité qu’on a
-de penser soit plus remplie, pour apercevoir plusieurs choses
-distinctement que pour n’en apercevoir qu’une seule ; mais il ne
-faut pas davantage de pensée pour apercevoir plusieurs choses
-confusément que pour en apercevoir une seule distinctement.
-Ainsi, il n’y a pas plus de pensée dans l’âme lorsqu’elle pense à
-plusieurs objets que lorsqu’elle ne pense qu’a un seul, puisque si
-elle ne pense qu’à un seul elle aperçoit toujours beaucoup plus
-clairement que lorsqu’elle s’applique à plusieurs.
-Car il faut remarquer qu’une perception toute simple renferme
-quelquefois autant de pensée, c’est-à-dire qu’elle remplit autant
-de la capacité que l’esprit a de penser, qu’un jugement et même
-qu’un raisonnement composé, puisque l’expérience apprend
-qu’une perception simple, mais vive, claire et évidente d’une
-seule chose, nous applique et nous occupe autant qu’un
-raisonnement composé, on que la perception obscure et confuse
-de plusieurs rapports entre plusieurs choses.
+But the reason why one imagines that one thinks more at one time than at another is that one does not distinguish enough between perceiving confusedly and perceiving distinctly. Undoubtedly, much more thought is needed, or the capacity one has to think must be more filled, in order to perceive several things distinctly than to perceive only one; but no more thought is needed to perceive several things confusedly than to perceive one thing distinctly. Thus, there is no more thought in the soul when it thinks of several objects than when it thinks of only one, since if it thinks of only one it always perceives much more clearly than when it applies itself to several.
 
-Car de même qu’il y a autant ou plus de sentiment dans la vue
-sensible d’un objet que je tiens tout proche de mes yeux et que
-j’examine avec soin que dans la vue d’une campagne entière que
-je regarde avec négligence et sans attention, de sorte que la
-netteté du sentiment que j’ai de l’objet qui est tout proche de mes
-yeux récompense l’étendre du sentiment confus que j’ai de
-plusieurs choses que je vois sans attention dans une campagne ;
-ainsi la vue que l’esprit a d’un seul objet est quelquefois si vive
-et si distincte qu’elle renferme autant ou même plus de pensée
-que la vue des rapports qui sont entre plusieurs choses.
-Il est vrai qu’en certains temps il nous semble que nous ne
-pensons qu’à une seule chose, et que cependant nous avons de la
-peine à la bien comprendre ; et que dans d’autres temps nous
-comprenons cette chose et plusieurs autres avec une très-grande
-facilité. Et de là nous nous imaginons que l’âme a plus d’étendue
-ou une plus grande capacité de penser en un temps qu’en un autre.
-Mais il est visible que nous nous trompons. La raison pour
-laquelle, en de certains temps, nous avons de la peine à
-concevoir les choses les plus faciles, n’est pas que la pensée de
-l’âme, ou sa capacité pour penser, soit diminuée ; mais c’est que
-cette capacité est remplie par quelque sensation vive de douleur
-ou de plaisir, ou par un grand nombre de sensations faibles et
-obscures, qui font une espèce d’étourdissement ; car
-l’étourdissement n’est d’ordinaire qu’un sentiment confus d’un
-très-grand nombre de choses.
+For one must note that a perfectly simple perception sometimes contains as much thought, that is, it fills as much of the capacity the mind has for thinking, as a judgment and even as a composed reasoning, since experience teaches that a simple perception, but lively, clear and evident, of a single thing, applies and occupies us as much as a composed reasoning, or as the obscure and confused perception of several relations between several things.
 
-Un morceau de cire est capable d’une dure bien distincte : il
-n’en peut recevoir deux que l’une ne confonde l’autre, car il ne
-peut être entièrement rond dans le même temps ; enfin, s’il en
-reçoit un million, il n’y en aura aucune de distincte. Or, si ce morceau de cire était capable de connaître ses propres figures, il
-ne pourrait toutefois savoir quelle figure le terminerait, si le
-nombre en était trop grand. Il en est de même de notre âme :
-lorsqu’un très-grand nombre de modifications remplissent sa
-capacité, elle ne les peut apercevoir distinctement, parce qu’elle
-ne les sent point séparément. Ainsi, elle pense qu’elle ne sent
-rien ; Elle ne peut dire qu’elle sente de la douleur, du plaisir, de
-la lumière, du son, des saveurs : ce n’est rien de tout cela, et
-cependant ce n’est que cela qu’elle sent.
+For just as there is as much or more sensation in the close view of an object that I hold right near my eyes and examine carefully than in the view of an entire countryside that I look at negligently and without attention, so that the clarity of the sensation I have of the object close to my eyes compensates for the extent of the confused sensation I have of several things I see without attention in a countryside; so the mind's view of a single object is sometimes so vivid and distinct that it contains as much or even more thought than the view of the relations that exist between several things.
 
-Mais quand nous supposerions que l’âme ne serait point
-soumise au mouvement confus et déréglé des esprits animaux, et
-qu’elle serait tellement détachée de son corps que ses pensées ne
-dépendraient point de ce qui s’y passe, il pourrait encore arriver
-que nous comprendrions avec plus de facilité certaines choses en
-un temps qu’en un autre, sans que la capacité de notre âme
-diminuåt ni qu’elle augmentât ; parce qu’alors nous penserions à
-d’autres choses en particulier, ou à l’être indéterminé et en
-général. Je m’explique.
+It is true that at certain times it seems to us that we think of only one thing, and yet we have difficulty understanding it properly; and that at other times we understand that thing and several others with great ease. And from this we imagine that the soul has more extent or a greater capacity for thinking at one time than at another. But it is obvious that we are mistaken. The reason why, at certain times, we have difficulty conceiving the easiest things is not that the soul's thought, or its capacity for thinking, is diminished; but it is that this capacity is filled by some vivid sensation of pain or pleasure, or by a great number of weak and obscure sensations, which produce a kind of dizziness; for dizziness is ordinarily only a confused sensation of a very great number of things.
 
+A piece of wax is capable of one very distinct shape: it cannot receive two without one confusing the other, for it cannot be entirely round at the same time; finally, if it receives a million, none of them will be distinct. Now, if this piece of wax were capable of knowing its own shapes, it could not, however, know which shape would terminate it, if the number were too great. It is the same with our soul: when a very great number of modifications fill its capacity, it cannot perceive them distinctly, because it does not sense them separately. Thus, it thinks it senses nothing; it cannot say that it feels pain, pleasure, light, sound, tastes: it is none of those things, and yet it is only that which it senses.
 
-L’idée générale de l’infini est inséparable de l’esprit, et elle
-en occupe entièrement la capacité lorsqu’il ne pense point à
-quelque chose de particulier. Car, quand nous disons que nous ne
-pensons à rien, cela ne veut pas dire que nous ne pensions pas à
-cette idée mais simplement que nous ne pensons pas à quelque
-chose en particulier.
+But even if we were to suppose that the soul were not subject to the confused and disorderly movement of the animal spirits, and that it were so detached from its body that its thoughts did not depend on what takes place in it, it could still happen that we would understand certain things more easily at one time than at another, without the capacity of our soul diminishing or increasing; because then we would think of other things in particular, or of indeterminate and general being. I shall explain myself.
 
-Certainement, si cette idée ne remplissait pas notre esprit, nous
-ne pourrions pas penser à toutes sortes de choses, comme nous le
-pouvons ; car enfin on ne peut penser aux choses dont on n’a
-aucune connaissance. Et si cette idée n’était pas plus présente à
-l’esprit lorsqu’il nous semble que nous ne pensons à rien que
-lorsque nous pensons à quelque chose en particulier, nous aurions
-autant de facilité à penser à ce que nous voudrions lorsque nous
-sommes fortement appliqués à quelque vérité particulière que
-lorsque nous ne sommes appliqués à rien, ce qui est contre
-l’expérience. Car, par exemple, lorsque nous sommes fortement
-appliqués à quelque proposition de géométrie, nous n’avons pas
-tant de facilité à penser à toutes choses que lorsque nous ne
-sommes occupés d’aucune pensée particulière. Ainsi, on pense
-davantage à l’être général et infini quand on pense moins aux
-êtres particuliers et finis ; et l’on pense toujours autant en un
-temps qu’en un autre.
+The general idea of the infinite is inseparable from the mind, and it entirely occupies its capacity when it does not think of something particular. For when we say we think of nothing, that does not mean we are not thinking of this idea, but simply that we are not thinking of something particular.
 
-On ne peut donc augmenter l’étendue et la capacité de l’esprit
-en l’enflant, pour ainsi dire, et en lui donnant plus de réalité qu’il
-n’en a naturellement, mais seulement en la ménageant avec
-adresse ; ce qui se fait parfaitement par l’arithmétíque et par
-l’algèbre. Car ces sciences apprennent le moyen d’abréger de
-telle sorte les idées et de les considérer dans un tel ordre,
-qu’encore que l’esprit ait peu d’étendue, il est capable, par le
-secours de ces sciences, de découvrir des vérités très-composées
-et qui paraissent d’abord incompréhensibles. Mais il faut prendre
-les choses dans leur principe pour les expliquer avec plus de
-solidité et de lumière.
+Certainly, if this idea did not fill our mind, we could not think of all sorts of things, as we can; for in short, one cannot think of things of which one has no knowledge. And if this idea were not more present to the mind when it seems to us we are thinking of nothing than when we are thinking of something particular, we would have as much ease in thinking of what we wanted when we are strongly applied to some particular truth as when we are applied to nothing, which is contrary to experience. For example, when we are strongly applied to some proposition of geometry, we do not have as much ease in thinking of all things as when we are occupied with no particular thought. Thus, one thinks more of general and infinite being when one thinks less of particular and finite beings; and one always thinks just as much at one time as at another.
 
-La vérité n’est autre chose qu’un rapport réel, soit d’égalité,
-soit d’inégalíté. La fausseté n’est que la négation de la vérité, ou
-un rapport faux et imaginaire. La vérité est ce qui est. La faussetè
-n’est point ; ou, si on le veut, elle est ce qui n’est point. On ne se
-trompe jamais lorsqu’on voit les rapports qui sont, puisqu’on ne
-se trompe jamais lorsqu’on voit la vérité. On se trompe toujours
-quand on juge qu’on voit certains rapports et que ces rapports ne
-sont point ; car alors on voit la fausseté, on voit ce qui n’est
-point, ou plutôt on ne voit point, puisque le néant n’est pas
-visible et que le faux est un rapport qui n’est point. Quiconque
-voit le rapport d’égalité entre deux fois deux et quatre, voit une
-vérité, parce qu’il voit un rapport d’égalité qui est tel qu’il le
-voit. De même. quiconque voit un rapport d’inégalité entre deux
-fois 2 et 5, voit une vérité, parce qu’il voit un rapport d’inégalité
-qui est. Mais quiconque juge qu’il voit un rapport d’égalité entre
-deux fois 2 et 5, se trompe, parce qu’il voit, ou plutôt parce qu’il
-pense voir un rapport d’égalité qui n’est point. Les vérités ne
-sont donc que des rapports, et la connaissance des vérités la
-connaissance des rapports. Mais les faussetés ne sont point, et la
-connaissance de la fausseté, ou une connaissance fausse, est la
-connaissance de ce qui n’est point, si cela se peut dire ; car,
-comme l’on ne peut connaître ce qui n’est point que par rapport à
-ce qui est, on ne reconnaît l’erreur que par la vérité.
+One cannot, therefore, increase the extent and capacity of the mind by inflating it, so to speak, and giving it more reality than it has naturally, but only by managing it skillfully; which is done perfectly by arithmetic and algebra. For these sciences teach the means of abbreviating ideas in such a way and of considering them in such an order, that although the mind has little extent, it is capable, with the help of these sciences, of discovering very complex truths which at first appear incomprehensible. But one must take things from their principle in order to explain them with more solidity and clarity.
 
-On peut distinguer autant de genres de faussetés que de vérités.
-Et comme il y a des rapports de trois sortes, d’une idée à une
-autre idée, d’une chose à son idée ou d’une idée à sa chose, enfin
-d’une chose à une autre chose, il y a des vérités et des faussetés
-de trois sortes. Il y en a entre les idées, entre les choses et leurs
-idées, et entre les choses seulement. Il est vrai que deux fois 2
-sont 4 ; il est faux que deux fois 2 soient 5 : voilà une vérité et
-une fausseté entre les idées. Il est vrai qu’il y a un soleil ; il est
-faux qu’il y en ait deux : voilà une vérité et une faussete entre les
-choses et leurs idées. Il est vrai enfin que la terre est plus grande
-que la lune, et il est faux que le soleil soit plus petit que la terre :
-voilà une vérité et une fausseté qui est seulement entre les choses.
-De ces trois sortes de vérités, celles qui sont entre les idées
+Truth is nothing other than a real relation, either of equality or of inequality. Falsity is only the negation of truth, or a false and imaginary relation. Truth is what is. Falsity is not; or, if one wishes, it is what is not. One is never mistaken when one sees the relations that exist, since one is never mistaken when one sees the truth. One is always mistaken when one judges that one sees certain relations and those relations do not exist; for then one sees falsity, one sees what is not, or rather one does not see, since nothingness is not visible and the false is a relation that does not exist. Whoever sees the relation of equality between two times two and four, sees a truth, because he sees a relation of equality which is such as he sees it. Likewise, whoever sees a relation of inequality between two times 2 and 5, sees a truth, because he sees a relation of inequality which exists. But whoever judges that he sees a relation of equality between two times 2 and 5, is mistaken, because he sees, or rather because he thinks he sees, a relation of equality which does not exist. Truths are therefore only relations, and the knowledge of truths is the knowledge of relations. But falsities are not, and the knowledge of falsity, or a false knowledge, is the knowledge of what is not, if that can be said; for just as one can know what is not only in relation to what is, one recognizes error only through truth.
 
-sont éternelles et immuables, et. À cause de leur immutabilitéâ,
-elles sont aussi les règles et les mesures de toutes les autres ; car
-toute règle ou toute mesure doit être invariable. Et c’est pour cela
-que l’on ne considère dans l’arithmétique, l’algèbre et la
-géométrie que ces sortes de vérités, parce que ces sciences
-générales règlent et renferment toutes les sciences particulières.
-Tous les rapports ou toutes les vérités qui sont entre les choses
-créées, ou entre les idées et les choses créées, sont sujettes au
-changement dont toute créature est capable. Il n’y a que les seules
-vérités qui sont entre nos idées et l’être souverain qui soient
-immuables comme celles qui sont entre les seules idées, parce
-que Dieu n’est point sujet au changement, non plus que les idées
-qu’il renferme.
+One can distinguish as many kinds of falsities as truths. And just as there are relations of three sorts, from one idea to another idea, from a thing to its idea or from an idea to its thing, finally from one thing to another thing, there are truths and falsities of three sorts. There are some between ideas, between things and their ideas, and between things only. It is true that two times 2 are 4; it is false that two times 2 are 5: there is a truth and a falsity between ideas. It is true that there is a sun; it is false that there are two: there is a truth and a falsity between things and their ideas. It is true finally that the earth is larger than the moon, and it is false that the sun is smaller than the earth: there is a truth and a falsity that is only between things. Of these three sorts of truths, those that are between ideas are eternal and immutable, and, because of their immutability, they are also the rules and measures of all the others; for every rule or every measure must be invariable. And that is why one considers in arithmetic, algebra and geometry only these sorts of truths, because these general sciences regulate and contain all the particular sciences. All the relations or all the truths that are between created things, or between ideas and created things, are subject to the change of which every creature is capable. Only the truths that are between our ideas and sovereign being are immutable, like those that are between ideas alone, because God is not subject to change, any more than the ideas he contains.
 
-Il n’y a aussi que les vérités qui sont entre les idées que l’on
-tâche de découvrir par le seul exercice de l’esprit ; car on se sert
-presque toujours de ses sens pour découvrir les autres vérités.
-On se sert de ses yeux et de ses mains pour s’assurer de
-l’existence des choses, et pour reconnaître les rapports d’égalité
-ou d’inégalité qui sont entre elles. Il n’y a que les seules idées
-dont l’espriL puisse connaître infailliblement les rapports par
-lui-même et sans l’usage des sens. Mais non-seulement il y a
-rapport entre les idées, mais encore entre les rapports qui sont
-entre les idées, entre les rapports des rapports des idées, et enfin
-entre les assemblages de plusieurs rapports et entre les rapports
-de ces assemblages de rapports, et ainsi à l’infini ; c’est-à-dire
-qu’il y a des vérités composées à l’infini. On appelle, en termes
-de géométrie, une vérité simple, c’est-à-dire le rapport d’une
-idée tout entière à une autre, le rapport de 4 à 2, où il deux fois 2,
-une raison géométrique, ou simplement une raison ; car l’excès
-ou le défaut d’une idée sur une autre, ou, pour me servir des
+It is also only the truths that are between ideas that one tries to discover by the sole exercise of the mind; for one almost always uses one's senses to discover the other truths. One uses one's eyes and hands to assure oneself of the existence of things, and to recognize the relations of equality or inequality that exist between them. It is only of ideas that the mind can infallibly know the relations by itself and without the use of the senses. But not only is there relation between ideas, but also between the relations that are between ideas, between the relations of relations of ideas, and finally between assemblages of several relations and between the relations of these assemblages of relations, and so on to infinity; that is to say, there are truths composed to infinity. In geometrical terms, one calls a simple truth, that is, the relation of one whole idea to another, the relation of 4 to 2, or of two times 2, a geometric ratio, or simply a ratio; for the excess or defect of one idea over another, or, to use ordinary terms, the excess or defect of a magnitude is not properly a ratio; nor are equal excesses or defects of magnitudes equal ratios. When the ideas or magnitudes are equal, it is a ratio of equality; when they are unequal, the ratio is one of inequality.
 
-termes ordinaires, l’excès ou le défaut d’une grandeur n’est pas
-proprement une raison ; ni les excès on les défauts égaux des
-grandeurs, des raisons égales. Lorsque les idées ou les grandeurs
-sont égales, c’est une raison d’égalité ; lorsqu’elles sont inégales,
-la raison est d’inégalité.
+The relation that is between the relations of magnitudes, that is, between ratios, is called a compounded ratio, because it is a compounded relation; the relation that is the relation of 6 to 4 and of 3 to 2 is a compounded ratio. And when the component ratios are equal, this compounded ratio is called a proportion or duplicate ratio. The relation that is between the ratio of 8 to 4 and the ratio of 6 to 3 is a proportion, because these two ratios are equal.
 
-Le rapport qui est entre les rapports des grandeurs, c’est-àdire entre les raisons, s’appelle raison composée, parce que c’est
-un rapport composé ; le rapport qui est le rapport de 6 à 4 et de 3
-á 2 est une raison composée. Et lorsque les raisons composantes
-sont égales, cette raison composée s’appelle proportion ou raison
-doublée. Le rapport qui est entre le rapport de 8 à 4 et le rapport
-de 6 à 3 est une proportion, parce que ces deux rapports sont
-égaux.
-Or, il faut remarquer que tous les rapports ou toutes les
-raisons, tant simples que composées, sont de véritables
-grandeurs ; et que le terme même de grandeur est un terme relatif
-qui marque nécessairement quelque rapport ; car il n’y a rien de
-grand par soi-même et sans rapport a autre chose, sinon l’infini
-ou l’unité. Tous les nombres entiers sont même des rapports aussi
-véritablement que les nombres rompus, ou que les nombres
-comparés à un autre. ou divisés par quelque autre, quoique l’on
-puisse n’y pas faire de réflexion, à cause que ces nombres entiers
-peuvent s’exprimer par un seul chiffre, 4, par exemple, ou 8/2,
-est un rapport aussi véritable que 1/4 ou 2/8. L’unité à laquelle il
-a rapport n’est pas exprimée, mais elle est sous-entendue ; car 4
-est un rapport aussi bien que 4/1 ou 8/2, puisque 4 est égal à 4/1
-ou à 8/2. Toute grandeur étant donc un rapport, ou tout rapport
-une grandeur, il est visible qu”on peut exprimer tous les rapports
-par des chitfres, et les représenter à l’imagination par des lignes.
+Now, one must note that all relations or all ratios, both simple and compounded, are true magnitudes; and that the very term magnitude is a relative term which necessarily indicates some relation; for nothing is great by itself and without relation to something else, except the infinite or unity. All whole numbers are even relations as truly as fractional numbers, or numbers compared to another, or divided by another, although one may not reflect upon it, because these whole numbers can be expressed by a single digit, 4, for example, but 8/2 is a relation as true as 1/4 or 2/8. The unity to which it has relation is not expressed, but it is understood; for 4 is a relation just as much as 4/1 or 8/2, since 4 is equal to 4/1 or to 8/2. Every magnitude being therefore a relation, or every relation a magnitude, it is evident that one can express all relations by numbers, and represent them to the imagination by lines.
 
-Ainsi, toutes les vérités n’étant que des rapports ; pour
-connaître exactement toutes les vérités, tant simples que
-composées, il suffit de connaître exactement tous les rapports tant
-simples que composés. Il y en a de deux sortes, comme on vient
-de dire : rapports d’égalité et d’inégalité. Il est visible que tous
-les rapports d’égalité sont semblables, et que, dès qu’on connaît
-qu’une chose est égale à une autre connue, l’on en connaît
-exactement le rapport. Mais il n’en est pas de même de
-l’inégalité : on sait qu’une tour est plus grande qu’une toise et
-plus petite que mille toises, et cependant on ne sait point au juste
-sa grandeur et le rapport qu’èlle a avec une toise.
+Thus, all truths being only relations; to know exactly all truths, both simple and compounded, it suffices to know exactly all relations, both simple and compounded. There are two sorts of them, as has just been said: relations of equality and inequality. It is evident that all relations of equality are similar, and that as soon as one knows that one thing is equal to another known thing, one knows exactly its relation. But it is not the same with inequality: one knows that a tower is larger than a fathom and smaller than a thousand fathoms, and yet one does not know exactly its size and the relation it has to a fathom.
 
-Pour comparer les choses entre elles, ou plutôt pour mesurer
-exactement les rapports d’inégalité, il faut une mesure exacte, il
-faut une idée simple et parfaitement intelligible, une mesure
-universelle et qui puisse s’accommoder à toute sorte de sujets.
-Cette mesure est l’unité ; c’est par elle qu’on mesure exactement
-toutes choses, et sans elle il est impossible de rien connaître avec
-quelque exactitude. Mais tous les nombres n’étant composés que
-de l’unité, il est déjà évident que, sans les idées des nombres, et
-sans la manière ne comparer et de mesurer ces idées, c’est-à-dire
-sans l’arithmétique, il est impossible d’avancer dans la
-connaissance des vérités composées.
+To compare things with each other, or rather to measure exactly the relations of inequality, one needs an exact measure, one needs a simple and perfectly intelligible idea, a universal measure that can accommodate all sorts of subjects. This measure is unity; it is by it that one measures all things exactly, and without it it is impossible to know anything with any exactitude. But since all numbers are composed only of unity, it is already evident that, without the ideas of numbers, and without the manner of comparing and measuring these ideas, that is, without arithmetic, it is impossible to advance in the knowledge of compounded truths.
 
-Les idées ou les rapports entre les idées, en un mot les
-grandeurs, pouvant être plus grandes et plus petites que d’autres
-grandeurs, on ne peut les rendre égales que par le plus et par le
-moins, joints avec l’unité répétée autant de lois qu’il est
-nécessaire. Ainsi, ce n’est que par l’addition et la soustraction de
-l’unité et des parties de l’unité (lorsqu’on la conçoit divisée) que
-l’on mesure exactement toutes les grandeurs et que l’on découvre
-toutes les vérités. Or, de toutes les sciences, l’arithmétique et
-l’algèbre principalement sont les seules qui nous apprennent à
-faire ces opérations avec adresse, avec lumière, et avec un
-ménagement admirable de la capacité de l’esprit. Ces deux
-sciences sont donc les seules qui donnent à l’esprit toute la
-perfection et toute l’étendue dont il est capable, puisque c’est par
-elles seules que l’on découvre toutes les vérités qui se peuvent
-connaître avec une entière exactitude.
+The ideas or the relations between ideas, in a word the magnitudes, being able to be larger and smaller than other magnitudes, one can make them equal only by more and by less, together with unity repeated as many times as necessary. Thus, it is only by the addition and subtraction of unity and the parts of unity (when one conceives it divided) that one measures exactly all magnitudes and discovers all truths. Now, of all the sciences, arithmetic and above all algebra are the only ones that teach us to perform these operations with skill, with clarity, and with an admirable economizing of the mind's capacity. These two sciences are therefore the only ones that give to the mind all the perfection and all the extent of which it is capable, since it is by them alone that one discovers all the truths that can be known with complete exactitude.
 
-Car la géométrie ordinaire ne perfectionne pas tant l’esprit que
-l’imagination, et les vérités que l’on découvre par cette science
-ne sont pas toujours si évidentes que les géomètres s’imaginent.
-Ils pensent, par exemple, avoir exprimé la valeur de certaines
-grandeurs lorsqu’ils ont prouvé qu’elles sont égales à certaines
-lignes, qui sont les sous-tendues d’angles droits dont les côtés
-sont exactement connus, ou à d’autres qui sont déterminées par
-quelqu’une des sections coniques. Mais il est visible qu’ils se
-trompent ; car ces sous-tendues, par exemple, sont elles-mêmes
-inconnues. L’on connaît plus exactement V8 ou V20 qu’une ligne
-que l’on s’imagine ou que l’on décrit sur le papier, pour servir de
-sous-tendue à un angle droit dont les côtés sont 2, ou dont un côté
-est 2 et l’autre 4. On sait au moins que V8 approche fort de 3, et
-que V20 est environ 4 et 1/2 ; et l’on peut, par certaines règles,
-approcher toujours à l’infini de leur véritable grandeur ; et si l’on
-ne peut y arriver, c’est que l’esprit ne peut comprendre l’infini.
-Mais on n’a qu’une idée fort confuse de la grandeur des
-soutendues, et on est même obligé de recourir à V8 ou V20 pour
-les exprimer. Ainsi, les constructions géométriques, dont on se
-sert pour exprimer les valeurs des quantités inconnues, ne sont
-pas si utiles à régler l’esprit et à découvrir les rapports ou les
-vérités que l’on cherche qu’a régler l’imagination. Mais comme
-l’on se plaît beaucoup plus à faire usage de son imagination que
-de son esprit, les mathématiciens ont d’ordinaire plus d’estime
-pour la géométrie que pour l’arithmétique et pour l’algèbre.
-Pour faire parfaitement comprendre que l’arithmétique et
-l’algèbre sont ensemble la véritable logique qui sert à découvrir
-la vérité, et à donner à l’esprit toute l’étendue dont il est capable,
-il suffit de faire quelques réflexions sur les règles de ces
-sciences. On vient de dire que toutes les vérités ne sont que des
-rapports ; que le plus simple et le mieux connu de tous les
-rapports est celui d’égaIité ; qu’il est le commencement d’où il
-faut mesurer les autres pour avoir une idée de l’inégalité ; que la
-mesure dont on est obligé de se servir est l’unité ; et qu’il faut
-l'ajouter ou l'ôter autant de fois qu’il est nécessaire pour mesurer
-l’excès ou le défaut de l'inégalité de ces grandeurs ;
-De là il est clair que toutes les opérations qui peuvent servir à
-découvrir les rapports d’égalité ne sont que des additions et des
-soustractions : additions de grandeurs pour égaler des grandeurs,
-additions de rapports pour égaler des rapports, ou pour mettre les
-grandeurs en proportion ; enfin addition de rapports de rapports
-pour égaler des rapports de rapports, ou pour mettre les grandeur
-s’en proportion composée.
+For ordinary geometry does not perfect the mind so much as the imagination, and the truths one discovers by this science are not always as evident as geometers imagine. They think, for example, that they have expressed the value of certain magnitudes when they have proved that they are equal to certain lines, which are the subtenses of right angles whose sides are exactly known, or to others that are determined by some conic section. But it is evident that they are mistaken; for these subtenses, for example, are themselves unknown. One knows √8 or √20 more exactly than a line that one imagines or that one draws on paper, to serve as the subtense of a right angle whose sides are 2, or whose one side is 2 and the other 4. One knows at least that √8 is close to 3, and that √20 is about 4 and 1/2; and one can, by certain rules, always approach infinitely close to their true magnitude; and if one cannot reach it, it is because the mind cannot comprehend the infinite. But one has only a very confused idea of the magnitude of the subtenses, and one is even obliged to have recourse to √8 or √20 to express them. Thus, the geometrical constructions that one uses to express the values of unknown quantities are not so useful for regulating the mind and discovering the relations or truths one seeks as for regulating the imagination. But since one takes much more pleasure in using one's imagination than one's mind, mathematicians ordinarily have more esteem for geometry than for arithmetic and algebra.
 
-Pour égaler 4 avec 2, il n’y a qu’à ajouter 2 avec 2, ou
-retrancher 2 de 4, ou enfin ajouter l’unité à 2 et la retrancher de
-4. Cela est clair.
-Pour égaler le rapport ou la raison de 8 à 2 au rapport de 6 a
-3, il ne faut pas ajouter 3 à 2 ou retrancher 3 de 8, en sorte que
-l’excès d’un nombre à l’autre soit égal à 3, qui est l’excès de 6
-sur 3 ; ce ne serait qu’ajouter et qu’égaler des grandeurs simples,
-l’excès de 8 sur 5 à celui de 6 sur 3. Il faut chercher d’abord la grandeur du rapport de 8 à 2, ou ce que vaut 8/2 et l’on trouve en
-divisant 8 par 2 que l’exposant de ce rapport est 4, ou que 8/2
-est égal à 4. ll faut de même voir quelle est la grandeur du
-rapport de 6 à 3, et l’on trouva qu’elle est égale à 2. Ainsi l’on
-reconnaît que ces deux rapports 8/2 égal à 4, et 6/3 égal à 2, ne
-sont différents que de 2. De sorte que pour les égaler on peut, ou
-bien ajouter à 6/3 encore 6/3 égal à 2, car l’on aura 11/3, qui
-sera un rapport égal à 8/2, ou bien retrancher 4/2 égal à 2, de 8/2,
-car l’on aura 4/1 qui sera un rapport égal à 6/3 ; ou enfin ajouter
-l’unité à 6/3 et la retrancher de 2. car l’on aura 9/3 et 6/2 , qui
-sont des rapports égaux, car 9 est à 3 comme 6 à 2.
+To make it perfectly understood that arithmetic and algebra together are the true logic that serves to discover truth, and to give the mind all the extent of which it is capable, it suffices to make some reflections on the rules of these sciences. It has just been said that all truths are only relations; that the simplest and best known of all relations is that of equality; that it is the starting point from which one must measure the others to have an idea of inequality; that the measure one is obliged to use is unity; and that one must add or subtract it as many times as necessary to measure the excess or defect of the inequality of these magnitudes;
 
-Enfin, pour trouver la grandeur de l’inégalité entre les rapports
-qui résultent, l’un de la raison composée ou du rapport de rapport
-de 12 à 3 et de 3 à 4, et l’autre de la raison composée ou du
-rapport de rapport de 8 à 2 et de 2 à 4, il faut suivre la même
-voie. Premièrement, la grandeur de la raison de 12 à 3 se marque
-par 4, où 4 est l’exposant de la raison de 12 à 3, et 3 est
-l’exposant de 3 à 1, et l’exposant de la raison des exposants 4 et
-3 est 4/3. Secondement, l’exposant de 8 à 2 est 4, et de 2 à 1 est
-2, et l’exposant des exposants 4 et 2 est 2 ; enfin l’inégalité entre
-les rapports qui résultent des rapports de rapports est la
-différence entre 4/3 et 2, c’est-à-dire 1/3. Donc 1/3 ajouté au
-rapport des raisons 12 et 3 et 3 à 1, ou retranchés du rapport des
-autres raisons 8 à 2 et 2 à 1, met en égalité ces rapports de
-rapports, et produit une proportion composée. Ainsi l’on peut se
-servir d’additions et de soustractions pour égaler les grandeurs et
-leurs rapports, tant simples que composés, et pour avoir une idée
-exacte de la grandeur de leur inégalité.
+From this it is clear that all the operations that can serve to discover relations of equality are only additions and subtractions: additions of magnitudes to equalize magnitudes, additions of ratios to equalize ratios, or to put magnitudes in proportion; finally addition of ratios of ratios to equalize ratios of ratios, or to put magnitudes in compounded proportion.
 
-Il est vrai que l’on se sert de multiplications et de divisions tant simples que composées, mais ce ne sont que des additions et
-des soustractions composées. Multiplier 4 par 3, c’est faire
-autant d’addition de 4 que 3 contient d’additions de l’unité, ou
-trouver un nombre qui ait même rapport à 4 qu’a 3 avec l’unité ;
-et diviser 12 par 4. c’est soustraire 4 de 12 autant de fois qu’il se
-peut, c’est-à-dire trouver un rapport à l’unité égal à celui de 12 à
-4 ; car 3, qui en sera l’exposant, a même rapport à l’unité que 12
-à 4. Les extractions des racines carrées, cubiques, etc., ne sont
-que des divisions par lesquelles on cherche une, deux ou trois
-moyennes proportionnelles.
-Il est évident que l’esprit de l’homme est si petit, sa mémoire
-si peu fidèle, son imagination si peu étendue que, sans l’usage
-des chiffres et de l’écriture, et sans l’adresse dont on se sert dans
-l’arithmétique, il serait impossible de faire les opérations
-nécessaires pour connaître l'inégalité des grandeurs et de leurs
-rapports.
-Lorsqu’il y aurait plusieurs nombres à ajouter ou à soustraire,
-ou, ce qui est la même chose, lorsque ces nombres sont grands, et
-qu’on ne les peut ajouter que par parties, on en oublierait
-toujours quel qu’une. Il n’y a point d’imagination assez étendue
-pour ajouter ensemble les fractions un peu grandes, comme
-1703/4093, 17946103/10431, ou pour soustraire l’une de l’autre
-Les multiplications, les divisions et les extractions de racines
-des nombres entiers sont infiniment plus embarrassantes que les
-simples additions ou soustractions ; l’esprit seul, sans le secours
-de l’arithmétique, est trop petit et trop faible pour les faire, et il
-est inutile que je m’arrête ici à le faire voir.
-Cependant l’analyse ou l’algèbre est encore tout autre chose
-que l’arithmétique ; elle partage beaucoup moins la capacité de
-758
-l’esprit, elle abrége les idées de la manière la plus simple et la
-plus facile qui se puisse concevoir. Ce qui se fait en beaucoup de
-temps par l’arithmétique se fait en un moment par l’algèbre, sans
-que l’esprit se brouille par le changement de chiffres et par la
-longueur des opérations. Une opération particulière
-d’arithmétique ne découvre qu’une vérité ; une semblable
-opération d’algèbre en découvre une infinité. Enfin il y avait des
-choses qui se pouvaient savoir, et qu’il était nécessaire de savoir,
-dont on ne pouvait avoir la connaissance par l’usage de
-l’aríthmétique seule ; mais je ne crois pas qu’il y ait rien qui soit
-utile, et que les hommes puissent savoir avec exactitude, dont ils
-ne puissent avoir la connaissance par l’arithmétique et par
-l’algèbre. De sorte que ces deux sciences sont le fondement de
-toutes les autres, et donnent les vrais moyens d’acquérir toutes
-les sciences exactes, parce qu’on ne peut ménager davantage la
-capacité de l’esprit que l’on le fait par l’arithmétique, et
-principalement par l’algèbre.
+To equalize 4 with 2, one has only to add 2 to 2, or subtract 2 from 4, or finally add unity to 2 and subtract it from 4. This is clear.
 
+To equalize the ratio of 8 to 2 with the ratio of 6 to 3, one must not add 3 to 2 or subtract 3 from 8, so that the excess of one number over the other is equal to 3, which is the excess of 6 over 3; that would only be adding and equalizing simple magnitudes, the excess of 8 over 5 to that of 6 over 3. One must first seek the magnitude of the ratio of 8 to 2, or what 8/2 is worth, and one finds by dividing 8 by 2 that the exponent of this ratio is 4, or that 8/2 is equal to 4. One must likewise see what is the magnitude of the ratio of 6 to 3, and one finds it is equal to 2. Thus one recognizes that these two ratios 8/2 equal to 4, and 6/3 equal to 2, differ only by 2. So that to equalize them one can either add to 6/3 another 6/3 equal to 2, for one will have 12/3, which will be a ratio equal to 8/2, or subtract 4/2 equal to 2 from 8/2, for one will have 4/1 which will be a ratio equal to 6/3; or finally add unity to 6/3 and subtract it from 2, for one will have 9/3 and 6/2, which are equal ratios, for 9 is to 3 as 6 is to 2.
+
+Finally, to find the magnitude of the inequality between the ratios that result, one from the compounded ratio of 12 to 3 and of 3 to 1, and the other from the compounded ratio of 8 to 2 and of 2 to 1, one must follow the same path. First, the magnitude of the ratio of 12 to 3 is denoted by 4, where 4 is the exponent of the ratio of 12 to 3, and 3 is the exponent of 3 to 1, and the exponent of the ratio of exponents 4 and 3 is 4/3. Second, the exponent of 8 to 2 is 4, and of 2 to 1 is 2, and the exponent of exponents 4 and 2 is 2; finally the inequality between the ratios that result from the ratios of ratios is the difference between 4/3 and 2, that is, 1/3. Therefore 1/3 added to the ratio of the ratios 12 to 3 and 3 to 1, or subtracted from the ratio of the other ratios 8 to 2 and 2 to 1, equalizes these ratios of ratios, and produces a compounded proportion. Thus one can use additions and subtractions to equalize magnitudes and their ratios, both simple and compounded, and to have an exact idea of the magnitude of their inequality.
+
+It is true that one uses multiplications and divisions, both simple and compounded, but these are only compounded additions and subtractions. Multiplying 4 by 3 is doing as many additions of 4 as 3 contains additions of unity, or finding a number that has the same ratio to 4 as 3 has to unity; and dividing 12 by 4 is subtracting 4 from 12 as many times as possible, that is, finding a ratio to unity equal to that of 12 to 4; for 3, which will be its exponent, has the same ratio to unity as 12 to 4. The extraction of square roots, cube roots, etc., are only divisions by which one seeks one, two or three mean proportionals.
+
+It is evident that the mind of man is so small, his memory so unfaithful, his imagination so limited that, without the use of numbers and writing, and without the skill used in arithmetic, it would be impossible to perform the operations necessary to know the inequality of magnitudes and their ratios.
+
+When there would be several numbers to add or subtract, or, what is the same thing, when these numbers are large, and one can add them only by parts, one would always forget some. There is no imagination extensive enough to add together somewhat large fractions, like 1703/4093, 17946103/10431, or to subtract one from the other. Multiplications, divisions and extractions of roots of whole numbers are infinitely more embarrassing than simple additions or subtractions; the mind alone, without the help of arithmetic, is too small and too weak to perform them, and it is useless for me to stop here to show this.
+
+However, analysis or algebra is yet quite another thing than arithmetic; it much less divides the capacity of the mind, it abbreviates ideas in the simplest and easiest way that can be conceived. What is done in much time by arithmetic is done in a moment by algebra, without the mind becoming confused by the change of numbers and the length of the operations. A particular operation of arithmetic discovers only one truth; a similar operation of algebra discovers an infinity. Finally, there were things that could be known, and that it was necessary to know, of which one could not have knowledge by the use of arithmetic alone; but I do not believe there is anything useful, and that men can know with exactitude, of which they cannot have knowledge by arithmetic and by algebra. So that these two sciences are the foundation of all the others, and give the true means of acquiring all the exact sciences, because one cannot economize the mind's capacity more than is done by arithmetic, and above all by algebra.
 

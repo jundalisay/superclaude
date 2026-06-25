@@ -1,4 +1,14 @@
-CHAPITRE II.
+---
+heading: Chapter 2
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Exemples généraux de la force de l’imagination.
 Il se trouve des exemples fort ordinaires de cette

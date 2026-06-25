@@ -1,6 +1,14 @@
+---
+heading: Chapter 12
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XII.
 
 I. Des erreurs touchant les mouvements des fibres de nos sens. — II. Que nous
 n'apercevons pas ces mouvements, ou que nous les confondons avec nos

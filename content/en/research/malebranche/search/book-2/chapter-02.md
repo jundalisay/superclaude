@@ -1,6 +1,13 @@
+---
+heading: Chapter 2
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE II.
 
 I. Des esprits animaux, et des changements auxquels ils sont sujets en général. — II.
 Que le chyle va au cœur, et qu’il apporte du changement dans les esprits. — III.

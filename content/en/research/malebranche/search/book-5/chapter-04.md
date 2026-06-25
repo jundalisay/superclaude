@@ -1,315 +1,54 @@
-CHAPITRE IV.
-Que les plaisirs et les mouvements des passions nous engagent dans l’erreur à l’égard
-du bien, et qu’il faut y résister sans cesse. Manière de combattre le libertinage.
-Toutes les choses que nous venons d’expliquer des passions en
-général ne sont point libres ; elles sont en nous sans nous ; et il
-n’y a que le seul consentement de notre volonté qui dépende
-absolument de nous. La vue du bien est naturellement suivie du
-mouvement d’amour, du sentiment d’amour, de l’ébranlement du
-cerveau et du mouvement des esprits, d’une nouvelle émotion de
-l’âme qui augmente le premier mouvement d’amour, d’un
-nouveau sentiment de l’ãme qui augmente le premier sentiment
-d’amour, et enfin du sentiment de douceur qui récompense l’âme
-de ce que le corps est dans l’état où il doit être. Toutes ces
-choses se passent dans l’âme et dans le corps naturellement et
-machinalement, je veux dire sans qu’elle y ait part, et il n’y a que
-notre seul consentement qui soit véritablement de nous. C’est
-aussi ce consentement qu’il faut régler, qu’il faut conserver libre,
-malgré tous les eíïorts des passions. C’est à Dieu seul à qui il
-faut soumettre sa liberté : il ne faut se rendre qu’à la voix de
-l’auteur de la nature, à l’évidence intérieure, aux reproches
-secrets de sa raison. Il ne faut consentir que lorsqu’on voit
-clairement que l’on ferait mauvais usage de sa liberté si l’on ne
-voulait pas consentir ; c’est là la principale règle qu’il faut
-616
-observer pour éviter l’erreur et le péché.
-Il n’y a que Dieu seul qui nous fasse voir avec évidence que
-nous devons nous rendre à ce qu’il souhaite de nous ; il ne faut
-donc être esclave que de lui seul. Il n’y a point d’évidence dans
-les attraits et les caresses, dans les menaces et les frayeurs que
-les passions causent en nous ; ce ne sont que des sentiments
-confus et obscurs auxquels il ne se faut point rendre. Il faut
-attendre qu’une lumière plus pure nous éclaire, que ces faux jours
-des passions se dissipent, et que Dieu parle, Il faut rentrer en
-nous mêmes et chercher en nous celui qui ne nous quitte jamais et
-qui nous éclaire toujours. Il parle bas, mais sa voix est distincte ;
-il éclaire peu, mais sa lumière est pure. Non, sa voix est aussi
-forte qu’elle est distincte ; sa lumière est aussi vive et aussi
-éclatante qu’elle est pure ; mais nos passions nous tiennent
-toujours hors de chez nous, et par leur bruit et leurs ténèbres elles
-nous empêchent d’être instruits de sa voix et éclairés de sa
-lumière. Il parle même à ceux qui ne l'interrogent pas ; et ceux
-que les passions ont emportés le plus loin entendent néanmoins
-quelques-unes de ses paroles ; mais des paroles fortes,
-menaçantes et terribles, plus perçantes qu’une épée à deux
-tranchants, qui pénètre jusque dans les replis de l'âme, et qui
-discerne les pensées et les mouvements du cœur ; par tout est à
-découvert devant ses yeux, et il ne peut voir les dérèglements des
-pécheurs sans leur en faire intérieurement de sanglants
-reproches
-[5]
-. Il faut donc rentrer dans nous-mêmes et nous
-rapprocher de lui. Il faut l’interroger, l’écouter et lui obéir ; car
-si nous l'écoutons toujours, nous ne serons jamais trompés ; et si
-nous lui obéissons toujours, nous ne serons jamais assujettis à
-l’inconstance des passions et aux misères dues au péché.
-617
-Il ne faut pas s'imaginer, comme certains esprits forts que
-l’orgueil des passions a réduits à la condition des bêtes, et qui,
-ayant long-temps méprisé la loi de Dieu, semblent enfin n’en
-connaître plus d’autre que celle de leurs passions infâmes ; il ne
-faut pas, dis-je, s’imaginer, comme ces hommes de chair et de
-sang, que ce soit suivre Dieu et obéir à la voix de l’auteur de la
-nature, que de suivre les mouvements de ses passions et obéir
-aux désirs secrets de son cœur. C’est là le dernier aveuglement ;
-c’est, selon saint Paul, la peine temporelle de l’impiété et de
-l’idolâtrie, c’est-à-dire la punition des plus grands crimes
-[6]
-. En
-effet, cette peine est d’autant plus grande qu’au lieu d’apaiser la
-colère de Dieu, comme toutes les autres punitions de ce monde,
-elle l’irrite et l'augmente sans cesse jusqu’au jour terrible auquel
-cette juste colère éclatera sur les pécheurs.
-Cependant leurs raisonnements ne manquent pas de
-vraisemblance, ils semblent fort conformes au sens commun, ils
-sont favorisés des passions, et toute la philosophie de Zénon ne
-saurait sans doute les détruire. Il faut aimer le bien, disent-ils ; le
-plaisir est le caractère que la nature a attaché au bien, et c’est par
-ce caractère, qui ne peut être trompeur puisqu’il vient de Dieu,
-que nous le discernons du mal. Il faut fuir le mal, disent-ils
-encore, la douleur est le caractère que la nature a attaché au mal ;
-et c’est par ce caractère, qui ne peut être trompeur puisqu’il,
-vient de Dieu, que nous le discernons du bien. On goûte du
-plaisir quand ou s’abandonne à ses passions ; on sent de la peine
-et de la douleur quand on y résiste. Donc l’auteur de la nature
-veut que nous nous abandonnions à nos passions et que nous n’y
-résistions jamais, puisque le plaisir et la douleur qu’il nous fait
-sentir dans ces rencontres sont des preuves certaines de ses
-volontés sur nous. C’est donc suivre Dieu que de suivre les
-618
-désirs de son cœur, et c’est obéir à sa voix que de se rendre à cet
-instinct de la nature qui nous porte à satisfaire nos sens et nos
-passions. C’est de cette sorte qu’ils raisonnent et qu’ils se
-confirment dans leurs opinions infâmes. C’est ainsi qu’ils tâchent
-de se mettre il couvert des reproches secrets de leur raison, et
-Dieu permet pour punition de leurs crimes qu’ils s’éblouissent de
-ces fausses lumières. Trompeuses lumières qui les aveuglent au
-lieu de les éclairer, mais qui les aveuglent d’un aveuglement
-qu’ils ne sentent point et dont ils ne souhaitent pas même d’être
-guéris. Dieu les livre à un sens réprouvé ; il les abandonne aux
-désirs de leur cœur, à des passions honteuses, à des actions
-indignes de l’homme, comme parle l’Écriture. afin qu’après
-s’être engraissés dans leurs débauches ils soient dans toute
-l’éternité les victimes du sacrifice de sa colère.
-Mais il faut délier le nœud de la difficulté qu’ils proposent. La
-secte de Zénon n’ayant pu le délier l’a coupé d’abord en niant
-que le plaisir fût un bien et que la douleur fût un mal. Mais cette
-défaite est bien cavalière pour des philosophes, et je ne crois pas
-qu’elle fasse changer de sentiment ceux qui reconnaissent par
-expérience qu’une grande douleur est une grande misère. Ainsi
-Zénon et toute la philosophie païenne ne peut résoudre la
-difficulté proposée par les épicuriens, et il faut avoir recours à
-une autre philosophie plus solide et plus éclairée.
-Il est vrai que le plaisir est bon et que la douleur est mauvaise,
-que c’est le plaisir et la douleur que l’auteur de la nature a
-attaché à l’usage de certaines choses qui nous fait juger si elles
-sont bonnes ou si elles sont mauvaises, que nous devons user des
-bonnes et fuir les mauvaises, et suivre presque toujours les
-mouvements des passions. Tout cela est vrai, mais cela ne regarde que le corps. Il faut presque toujours se laisser conduire
-à ses passions et à ses désirs pour conserver son corps et pour
-continuer long-temps une vie semblable à celle des bêtes. Les
-sens et les passions ne nous sont donnés que pour le bien du
-corps. Le plaisir sensible est le caractère que la nature a attaché
-à l’usage de certaines choses, afin que, sans avoir la peine de les
-examiner par la raison, nous nous en servissions pour la
-conservation du corps, mais non pas afin que nous les
-aimassions. Car nous ne devons aimer que ce que nous
-reconnaissons très-certainement par la raison être notre bien.
-Nous sommes raisonnables, et Dieu qui est notre bien ne veut
-pas de nous un amour aveugle, un amour d’instinct, un amour
-pour ainsi dire forcé ; mais un amour de choix, un amour éclairé,
-un amour qui lui assujettisse notre esprit et notre cœur. Il nous
-porte à l'aimer en nous faisant connaître par la lumière qui
-accompagne la délectation de sa grâce qu’il est notre bien ; mais
-il nous porte au bien du corps seulement par instinct et par un
-sentiment confus du plaisir, parce que le bien du corps ne mérite
-pas l’application de notre esprit ni l’usage de notre raison.
-De plus, notre corps, n’est pas nous ; c’est une chose qui nous
-appartient, mais sans laquelle, absolument parlant, nous pouvons
-subsister. Le bien de notre corps n’est donc pas notre bien. Les
-corps ne peuvent être le bien que des corps. Nous pouvons en
-user pour notre corps, mais nous ne devons pas nous y attacher.
-Notre âme a aussi son bien. savoir ce bien seul qui est au-dessus
-d’elle, qui seul la conserve, et qui seul produit en elle des
-sentiments de plaisir ou de douleur. Car enfin tous les objets de
-nos sens sont par eux-mêmes incapables de se faire sentir ; et il
-n’y a que Dieu qui nous apprenne qu’ils sont présents, par les
-sentiments qu’il nous en donne. Et c’est ce que les philosophes
-païens ne comprenaient pas.
-Nous pouvons et nous devons aimer ce qui est capable de nous
-faire sentir du plaisir, je l’avoue. Mais c’est par cette raison-là
-que nous ne devons aimer que Dieu, parce qu’il n’y a que Dieu
-qui puisse agir dans notre âme, et que les objets sensibles ne
-peuvent au plus que remuer les organes de nos sens. Mais
-qu’importe, direz vous, de quelle part viennent ces sentiments
-agréables ! je veux les goûter. Ingrat que vous êtes ! reconnaissez
-la main qui vous comble de biens. Vous exigez d’un Dieu juste
-des récompenses injustes ; vous voulez qu’il vous récompense
-pour des crimes que vous commettez contre lui, et dans le temps
-même que vous les commettez. Vous vous servez de sa volonté
-immuable, qui est l’ordre et la loi de la nature, pour arracher de
-lui des faveurs que vous ne méritez pas, car vous produisez avec
-une adresse criminelle, dans votre corps, des mouvements qui
-l’obligent à vous faire goûter de toutes sortes de plaisirs. Mais la
-mort corrompra ce corps ; et Dieu, que vous avez fait servir à
-vos injustes désirs, vous fera servir à sa juste colère, il se
-moquera de vous à son tour.
-Il est vrai que c’est une chose bien fâcheuse que la possession
-du bien du corps soit accompagnée du plaisir, et que la
-possession du bien de l’âme soit souvent jointe à la peine et à la
-douleur. On peut croire que c’est un grand dérèglement, par cette
-raison que le plaisir étant le caractère du bien, comme la douleur
-celui du mal, nous devrions sentir infiniment plus de douceur
-dans l’amour de Dieu que dans l’usage des choses sensibles,
-puisque Dieu est le vrai ou plutôt l’unique bien de l’esprit. Cela
-arrivera certainement un jour, et il y a quelque apparence que
-621
-cela était ainsi avant le péché. Au moins est-il constant qu’avant
-le péché on ne sentait point de douleur dans l’exercice de son
-devoir.
-Mais Dieu s’est retiré de nous depuis la chute du premier
-homme. Il n’est plus notre bien par nature, il ne l’est plus que par
-grâce ; car nous ne sentons plus naturellement de douceur dans
-son amour ; et bien loin de nous porter à l’aimer, il nous éloigne
-de lui. Si nous le suivons, il nous repousse ; si nous courons
-après lui, il nous frappe. Si nous nous opiniâtrons à le
-poursuivre, il continue de nous maltraiter, il nous fait souffrir des
-douleurs très-vives et très-sensibles. Mais lorsque, étant lassés
-de marcher dans les voies dures et pénibles de la vertu, sans être
-soutenus parle goût du bien ni fortifiés par quelque nourriture,
-nous nous repaissons des biens sensibles, il nous y attache par le
-goût du plaisir, et il semble qu’il nous veuille récompenser de ce
-que nous lui tournons le dos pour courir après ces faux biens.
-Enfin depuis le péché il semble que Dieu ne veuille plus que
-nous l’aimions, ni que nous pensions à lui, ou que nous le
-regardions comme notre seul et unique bien. Ce n’est que par la
-douceur de la grâce de notre médiateur JÉSUS-CHRIST que nous
-sentons que Dieu est notre bien : car le plaisir étant la marque
-sensible du bien, nous sentons que Dieu est notre bien ; puisque,
-par la grâce de JÉSUS-CHRIST, nous aimons Dieu avec plaisir.
-Ainsi l’âme ne reconnaissant point son bien, ni par une vue
-claire ni par sentiment, sans la grâce de Jésus-Christ, elle prend
-le bien du corps pour le sien propre, elle l’aime et s’y attache
-encore plus étroitement par sa volonté, qu’elle n’y était attachée
-par la première institution de la nature. Car le bien du corps étant
-demeuré le seul qui se fasse maintenant sentir, il agit
-622
-nécessairement sur l’homme avec plus de force. Le cerveau en
-est plus vivement frappé, et par conséquent l’àme le sent et
-l’imagine d’une manière plus touchante. Les esprits animaux en
-sont agités avec plus de violence, et par conséquent la volonté
-l’aime avec plus d’ardeur et plus de plaisir.
-L’âme pouvait avant le péché effacer du cerveau l’image trop
-vive du bien du corps et faire évanouir le plaisir sensible qui
-accompagnait cette image. Le corps étant soumis à l’esprit, l’âme
-pouvait en un instant arrêter l’ébranlement des fibres du cerveau
-et l’émotion des esprits par la seule considération de son devoir.
-Mais depuis le péché cela n’est plus en sa puissance. Ces traces
-de l’imagination et ces mouvements des esprits ne dépendent plus
-d’elle, et, par une suite nécessaire, le plaisir qui est attaché par
-l’ordre de la nature à ces traces et à ces mouvements devient seul
-le maître du cœur. L’homme ne peut résister longtemps par ses
-propres forces à ce plaisir : il n’y a que la grâce qui le puisse
-vaincre entièrement ; la raison seule ne le peut, parce qu’en un
-mot il n’y a que Dieu comme auteur de la grâce, qui, pour ainsi
-dire, se puisse vaincre comme auteur de la nature, ou plutôt qui
-se puisse fléchir comme vengeur de la désobéissance d’Adam.
-Les stoïciens, qui n’avaient qu’une connaissance confuse des
-désordres du péché originel, ne pouvaient répondre aux
-épicuriens. Car leur félicité n’était qu’une idée ; puisqu’il n’y a
-point de félicité sans plaisir, et qu’ils ne pouvaient goûter de
-plaisir dans les actions d’une solide vertu. Ils sentaient bien
-quelque joie en suivant les règles de leur vertu imaginaire, parce
-que la joie est une suite naturelle de la connaissance qu’a notre
-âme qu’elle est dans le meilleur état où elle puisse être. Cette
-joie de l’esprit pouvait leur soutenir le courage pour quelque
-623
-temps, mais elle n’était pas’assez forte pour résister à la douleur
-et pour vaincre le plaisir. L’orgueil secret, et non pas la joie
-faisait bonne mine ; et lorsqu’ils n’étaient plus en vue ils
-perdaient toute leur sagesse et toute leur force, comme ces rois
-de théâtre qui perdent toute leur grandeur en un moment.
-Il n’en est pas de même des chrétiens qui suivent exactement
-les règles de l’Évangile. Leur joie est solide, parce qu’ils savent
-très-certainement qu’ils sont dans le meilleur état où ils puissent
-être. Leur joie est grande, parce que le bien qu’ils goûtent par la
-foi et par l’espérance est infini. Car l’espérance d’un grand bien
-est toujours accompagnée d’une grande joie ; et cette joie est
-d’autant plus vive que l’espérance est plus forte, parce qu’une
-forte espérance, faisant imaginer le bien comme présent, produit
-nécessairement la joie, et même le plaisir sensible qui
-accompagne toujours la présence du bien. Leur joie n’est point
-inquiète, parce qu’elle est fondée sur les promesses d’un Dieu.
-confirmée par le sang du Fils de Dieu, entretenue par la paix
-intérieure et par la douceur inexplicable de la charité que le
-Saint-Esprit répand dans leur cœur. Rien ne les peut séparer de
-leur vrai bien, lorsqu’ils le goûtent et qu’ils se plaisent en lui par
-la délectation de la grâce. Les plaisirs des biens du corps ne sont
-point si grands que ceux qu’ils ressentent dans l’amour de Dieu.
-Ils aiment le mépris et la douleur, ils se nourrissent d’opprobre,
-et le plaisir qu’ils trouvent dans les souffrances, ou plutôt le
-plaisir qu’ils trouvent en Dieu lorsqu’ils méprisent tout le reste
-pour s’unir a lui, est si violent qu’il les transporte, qu’il leur fait
-parler un langage tout nouveau ; et qu’ils se glorifient même
-comme les apôtres dans leurs misères, et dans les injures qu’ils
-ont souffertes. Mais pour les apôtres ils sortirent du conseil, dit
-l’Écriture, tout remplis de joie de ce qu’ils avaient été jugés
-624
-dignes de souffrir des opprobres pour le nom de JÉSUS
-[7]
-. Telle
-est la disposition d’esprit des véritables chrétiens lorsqu’ils ont
-reçu les derniers affronts pour la défense de la vérité.
-Jésus-Christ étant venu rétablir l’ordre que le péché avait
-renversé, et l’ordre demandant que les plus grands biens soient
-accompagnés des plaisirs les plus solides, il est visible que les
-choses doivent arriver comme on vient de le dire. Mais outre la
-raison nous avons encore l’expérience ; car dès qu’une personne
-forme seulement la résolution de mépriser tout pour Dieu. il est
-d’ordinaire touché d’un plaisir ou d’une joie intérieure qui lui
-fait sentir aussi vivement que Dieu est son bien, qu’il le
-connaissait clairement.
-Les vrais chrétiens nous assurent tous les jours que la joie,
-qu’ils ont de n’aimer et de ne servir que Dieu, ne se peut
-exprimer, et il est bien juste de les croire touchant ce qui se passe
-dans eux-mêmes. Les impies au contraire sont toujours dans des
-inquiétudes mortelles ; et ceux que le monde partage avec Dieu,
-partagent aussi la joie des justes et les inquiétudes des impies. Ils
-se plaignent de leurs misères, et il est juste aussi de croire que
-leurs plaintes ne sont point sans fondement. Dieu blesse les
-hommes dans le fond de leur cœur lorsqu’ils aiment autre chose
-que lui, et c’est cette blessure qui fait la véritable misère. Il
-répand une joie excessive dans leurs esprits lorsqu’ils s’attachent
-uniquement à lui. et c’est cette joie qui fait la solide félicité.
-L’abondance des richesses et l’élévation des honneurs sont hors
-de nous, ils ne peuvent nous guérir lorsque Dieu nous blesse. La
-pauvreté et le mépris sont aussi hors de nous, et ils ne peuvent
-nous blesser lorsque Dieu nous défend.
-Il est clair par les choses que nous venons de dire que l’objet
-625
-de nos passions n’est point notre bien ; que nous ne devons en
-suivre les mouvements que pour la conservation de notre vie ;
-que le plaisir sensible est à l’égard de notre bien ce que nos
-sensations sont à l’égard de la vérité, et que, de même que nos
-sens nous trompent touchant la vérité, nos passions nous trompent
-touchant notre bien ; que l’on doit se rendre à la délectation de la
-grâce, parce qu’elle nous porte avec évidence à l’amour du vrai
-bien, qu’elle n’est point suivie des reproches secrets de la
-raison, comme l’instinct aveugle et le plaisir confus des passions,
-et qu’elle est toujours accompagnée d’une secrète joie conforme
-à l’état dans lequel nous sommes ; qu’enfin, n’y ayant que Dieu
-qui puisse agir dans l’esprit de l’homme, l’homme ne peut
-trouver de félicité hors de Dieu, si on ne suppose ou que Dieu
-récompense la désobéissance, ou qu’il commande d’aimer
-davantage ce qui mérite le moins d’être aimé.
+---
+heading: Chapter 4
+title: "How to combat libertinism"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
+
+The pleasures and movements of the passions lead us into error with regard to the good.
+
+One must resist them unceasingly. 
+
+All the things we have just explained about the passions in general are not free; they are in us without us; and only the consent of our will depends absolutely on us. The sight of the good is naturally followed by the movement of love, the feeling of love, the vibration of the brain and the movement of the spirits, a new emotion of the soul that increases the first movement of love, a new feeling of the soul that increases the first feeling of love, and finally the feeling of sweetness that rewards the soul for the body being in the state it ought to be. All these things take place in the soul and in the body naturally and mechanically, I mean without its having any part in them, and only our consent is truly our own. It is this consent that must be regulated, that must be kept free, despite all the efforts of the passions. It is to God alone that we must submit our freedom: we must yield only to the voice of the author of nature, to inner evidence, to the secret reproaches of reason. We should consent only when we clearly see that we would make bad use of our freedom if we were unwilling to consent; this is the principal rule to observe in order to avoid error and sin.
+
+Only God can show us with evidence that we must yield to what He wishes of us; we should therefore be slaves to Him alone. There is no evidence in the attractions and caresses, in the threats and fears that the passions cause in us; they are only confused and obscure feelings to which we must not yield. We must wait for a purer light to enlighten us, for these false lights of the passions to dissipate, and for God to speak. We must withdraw into ourselves and seek in ourselves Him who never leaves us and who always enlightens us. He speaks softly, but His voice is distinct; He enlightens little, but His light is pure. No, His voice is as strong as it is distinct; His light is as vivid and brilliant as it is pure; but our passions always keep us outside ourselves, and by their noise and darkness they prevent us from being instructed by His voice and enlightened by His light. He speaks even to those who do not question Him; and those whom the passions have carried farthest nevertheless hear some of His words; but strong, threatening and terrible words, sharper than a two-edged sword, penetrating even into the folds of the soul, and discerning thoughts and movements of the heart; all is laid bare before His eyes, and He cannot see the disorders of sinners without inwardly making bloody reproaches to them about them. We must therefore return into ourselves and draw near to Him. We must question Him, listen to Him and obey Him; for if we always listen to Him, we shall never be deceived; and if we always obey Him, we shall never be subjected to the inconstancy of the passions and the miseries due to sin.
+
+We must not imagine, like certain strong-minded men whom the pride of the passions has reduced to the condition of beasts, and who, having long despised the law of God, seem finally to know no other law than that of their shameful passions; we must not, I say, imagine, like these men of flesh and blood, that to follow God and obey the voice of the author of nature is to follow the movements of one's passions and obey the secret desires of one's heart. That is the ultimate blindness; it is, according to Saint Paul, the temporal punishment of impiety and idolatry, that is, the punishment of the greatest crimes. Indeed, this punishment is all the greater because, instead of appeasing the wrath of God, like all the other punishments of this world, it irritates and increases it unceasingly until the terrible day when this just wrath will burst forth upon sinners.
+
+However, their reasonings are not lacking in plausibility; they seem very much in conformity with common sense; they are favored by the passions, and all the philosophy of Zeno certainly could not destroy them. We must love the good, they say; pleasure is the character that nature has attached to good, and it is by this character, which cannot be deceptive since it comes from God, that we discern it from evil. We must flee evil, they say further; pain is the character that nature has attached to evil; and it is by this character, which cannot be deceptive since it comes from God, that we discern it from good. One tastes pleasure when one abandons oneself to one's passions; one feels distress and pain when one resists them. Therefore the author of nature wills that we abandon ourselves to our passions and never resist them, since the pleasure and pain He makes us feel on these occasions are certain proofs of His will concerning us. It is therefore to follow God to follow the desires of one's heart, and to obey His voice to yield to this instinct of nature that carries us to satisfy our senses and passions. This is how they reason and confirm themselves in their shameful opinions. This is how they try to shelter themselves from the secret reproaches of their reason, and God permits, as punishment for their crimes, that they are dazzled by these false lights. Deceptive lights that blind them instead of enlightening them, but that blind them with a blindness they do not feel and from which they do not even wish to be cured. God delivers them to a reprobate mind; He abandons them to the desires of their heart, to shameful passions, to actions unworthy of man, as Scripture says, so that after having grown fat in their debaucheries they may be throughout eternity the victims of the sacrifice of His wrath.
+
+But we must untie the knot of the difficulty they propose. The sect of Zeno, not having been able to untie it, cut it at once by denying that pleasure is a good and that pain is an evil. But this evasion is rather cavalier for philosophers, and I do not believe it will change the opinion of those who recognize by experience that great pain is a great misery. Thus Zeno and all pagan philosophy cannot resolve the difficulty proposed by the Epicureans, and one must have recourse to another philosophy, more solid and more enlightened.
+
+It is true that pleasure is good and pain is evil, that it is pleasure and pain that the author of nature has attached to the use of certain things that makes us judge whether they are good or bad, that we must use good things and flee bad ones, and almost always follow the movements of the passions. All this is true, but it concerns only the body. We must almost always let ourselves be led by our passions and desires to preserve our body and to continue for a long time a life similar to that of beasts.
+
+The senses and passions are given to us only for the good of the body. Sensible pleasure is the character that nature has attached to the use of certain things, so that, without taking the trouble to examine them by reason, we might use them for the preservation of the body, but not so that we might love them. For we should love only what we recognize very certainly by reason to be our good.
+
+We are rational beings, and God, who is our good, does not want from us a blind love, an instinctive love, a love that is, so to speak, forced; but a love of choice, an enlightened love, a love that subjects our mind and heart to Him. He moves us to love Him by making us know through the light that accompanies the delight of His grace that He is our good; but He moves us toward the good of the body only by instinct and by a confused feeling of pleasure, because the good of the body does not deserve the application of our mind nor the use of our reason.
+
+Moreover, our body is not us; it is a thing that belongs to us, but without which, absolutely speaking, we can subsist. The good of our body is therefore not our good. Bodies can only be the good of bodies. We may use them for our body, but we must not become attached to them. Our soul also has its good, namely that good alone which is above it, which alone preserves it, and which alone produces in it feelings of pleasure or pain. For in short, all the objects of our senses are by themselves incapable of making themselves felt; and it is only God who teaches us that they are present, through the feelings He gives us of them. And this is what the pagan philosophers did not understand.
+
+We can and we ought to love what is capable of making us feel pleasure, I admit. But it is for this very reason that we should love only God, because it is only God who can act in our soul, and sensible objects can at most only move the organs of our senses. But what does it matter, you will say, from what side these agreeable feelings come! I want to taste them. Ungrateful one that you are! Recognize the hand that heaps you with good things. You demand from a just God unjust rewards; you want Him to reward you for crimes you commit against Him, and at the very time you commit them. You use His immutable will, which is the order and law of nature, to wrest from Him favors you do not deserve, for you produce with criminal skill, in your body, movements that oblige Him to make you taste all sorts of pleasures. But death will corrupt this body; and God, whom you have made to serve your unjust desires, will make you serve His just wrath; He will mock you in turn.
+
+It is true that it is a very vexing thing that the possession of the good of the body is accompanied by pleasure, and that the possession of the good of the soul is often joined with distress and pain. One may believe that this is a great disorder, for this reason that pleasure being the character of good, as pain is that of evil, we ought to feel infinitely more sweetness in the love of God than in the use of sensible things, since God is the true or rather the unique good of the mind. This will certainly happen one day, and there is some appearance that it was so before sin. At least it is certain that before sin one felt no pain in the exercise of one's duty.
+
+But God has withdrawn from us since the fall of the first man. He is no longer our good by nature, He is so only by grace; for we no longer naturally feel sweetness in His love; and far from moving us to love Him, He turns us away from Him. If we follow Him, He repulses us; if we run after Him, He strikes us. If we persist in pursuing Him, He continues to mistreat us, He makes us suffer very acute and very sensible pains. But when, weary of walking in the hard and painful ways of virtue, without being sustained by the taste of good or strengthened by any nourishment, we feed on sensible goods, He attaches us to them by the taste of pleasure, and it seems that He wants to reward us for turning our backs on Him to run after these false goods. In short, since sin it seems that God no longer wants us to love Him, nor to think of Him, nor to regard Him as our sole and only good. It is only by the sweetness of the grace of our mediator JESUS CHRIST that we feel that God is our good: for pleasure being the sensible mark of good, we feel that God is our good; since, by the grace of JESUS CHRIST, we love God with pleasure. Thus the soul, not recognizing its good, either by a clear view or by feeling, without the grace of Jesus Christ, takes the good of the body for its own, loves it and attaches itself to it even more closely by its will than it was attached to it by the first institution of nature.
+
+For the good of the body, having remained the only one that now makes itself felt, necessarily acts upon man with more force. The brain is more vividly struck by it, and consequently the soul feels it and imagines it in a more touching manner. The animal spirits are agitated by it with more violence, and consequently the will loves it with more ardor and more pleasure.
+
+The soul could, before sin, erase from the brain the too vivid image of the good of the body and make vanish the sensible pleasure that accompanied this image. The body being subject to the spirit, the soul could in an instant arrest the vibration of the fibers of the brain and the emotion of the spirits by the sole consideration of its duty. But since sin this is no longer in its power. These traces of the imagination and these movements of the spirits no longer depend on it, and, as a necessary consequence, the pleasure that is attached by the order of nature to these traces and to these movements becomes alone the master of the heart. Man cannot resist this pleasure for long by his own strength; only grace can entirely overcome it; reason alone cannot, because in a word only God, as author of grace, can, so to speak, overcome Himself as author of nature, or rather can allow Himself to be moved as avenger of Adam's disobedience.
+
+The Stoics, who had only a confused knowledge of the disorders of original sin, could not answer the Epicureans. For their happiness was only an idea; since there is no happiness without pleasure, and they could not taste pleasure in the actions of a solid virtue. They did feel some joy in following the rules of their imaginary virtue, because joy is a natural consequence of the knowledge that our soul has that it is in the best state it can be in. This joy of the mind could sustain their courage for some time, but it was not strong enough to resist pain and to overcome pleasure. Secret pride, and not joy, put up a good front; and when they were no longer in view they lost all their wisdom and all their strength, like those stage kings who lose all their grandeur in a moment.
+
+It is not the same with Christians who follow exactly the rules of the Gospel. Their joy is solid, because they know very certainly that they are in the best state they can be in. Their joy is great, because the good they taste through faith and hope is infinite. For the hope of a great good is always accompanied by a great joy; and this joy is all the more vivid as the hope is stronger, because a strong hope, making one imagine the good as present, necessarily produces joy, and even the sensible pleasure that always accompanies the presence of good. Their joy is not restless, because it is founded on the promises of God, confirmed by the blood of the Son of God, sustained by inner peace and by the inexpressible sweetness of charity that the Holy Spirit pours into their hearts. Nothing can separate them from their true good, when they taste it and delight in it through the delight of grace.
+
+The pleasures of the goods of the body are not so great as those they feel in the love of God. They love contempt and pain, they feed on shame, and the pleasure they find in sufferings, or rather the pleasure they find in God when they despise everything else to unite themselves to Him, is so violent that it transports them, that it makes them speak a completely new language; and they even glory, like the apostles, in their miseries and in the insults they have suffered. But as for the apostles, they left the council, says Scripture, full of joy that they had been judged worthy to suffer shame for the name of JESUS. Such is the disposition of mind of true Christians when they have received the utmost affronts for the defense of truth.
+
+Jesus Christ having come to restore the order that sin had overturned, and order demanding that the greatest goods be accompanied by the most solid pleasures, it is evident that things must happen as has just been said. But besides reason we also have experience; for as soon as a person merely forms the resolution to despise everything for God, he is ordinarily touched by a pleasure or inner joy that makes him feel as vividly that God is his good as he knew it clearly.
+
+True Christians assure us every day that the joy they have in loving and serving only God is inexpressible, and it is quite right to believe them concerning what takes place within themselves. The impious, on the contrary, are always in mortal anxieties; and those whom the world shares with God, also share the joy of the righteous and the anxieties of the impious. They complain of their miseries, and it is also right to believe that their complaints are not without foundation. God wounds men in the depths of their hearts when they love anything other than Him, and it is this wound that constitutes true misery. He pours excessive joy into their minds when they attach themselves solely to Him, and it is this joy that constitutes solid happiness. The abundance of riches and the elevation of honors are outside us; they cannot heal us when God wounds us. Poverty and contempt are also outside us, and they cannot wound us when God defends us.
+
+It is clear from what we have just said that the object of our passions is not our good; that we should follow their movements only for the preservation of our life; that sensible pleasure is, with regard to our good, what our sensations are with regard to truth, and that, just as our senses deceive us concerning truth, our passions deceive us concerning our good; that one must yield to the delight of grace, because it carries us with evidence to the love of the true good, that it is not followed by the secret reproaches of reason, like the blind instinct and the confused pleasure of the passions, and that it is always accompanied by a secret joy conformable to the state in which we are; that finally, since only God can act in the mind of man, man can find happiness outside of God only if one supposes either that God rewards disobedience, or that He commands us to love more what deserves least to be loved.

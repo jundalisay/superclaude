@@ -1,10 +1,10 @@
 ---
 heading: Chapter 1
-title: "The Semses"
+title: "The Senses"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 6
+weight: 4
 date: 2026-06-20
 ---
 

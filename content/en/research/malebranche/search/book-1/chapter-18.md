@@ -1,6 +1,14 @@
+---
+heading: Chapter 18
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XVIII.
 
 I. Que nos sens nous portent à l'erreur en des choses même qui ne sont point sensibles.
 — II. Exemple tiré de la conversation des hommes. — III. Qu’il ne faut point

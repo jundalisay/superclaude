@@ -1,425 +1,81 @@
+---
+heading: Chapter 3
+title: "The changes that occur in the body and in the soul during the passions."
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE III.
+One can distinguish seven things in each of our passions, except in admiration, which is only an imperfect passion.
 
-Explication particulière de tous les changements qui arrivent an corps et à l’âme dans les
-passions.
-On peut distinguer sept choses dans chacune de nos passions,
-excepté dans l’admiration, laquelle aussi n’est qu’une passion
-imparfaite.
-La première chose est le jugement que l’esprit porte d’un
-objet, ou plutôt c’est la vue confuse ou distincte du rapport qu’un
-objet a avec nous.
+The first thing is the judgment that the mind makes of an object, or rather it is the confused or distinct view of the relation that an object has to us.
 
-La seconde est une actuelle détermination du mouvement de la
-volonté vers cet objet, supposé qu’il soit ou qu’il paraisse un
-bien. Avant cette vue, le mouvement naturel de l’âme ou était
-indéterminé, c’est-à-dire qu’il se portait vers le bien en général ;
-où il était déterminé ailleurs par la connaissance de quelque autre
-objet particulier. Mais dans le moment que l’esprit aperçoit le
-rapport que cet objet nouveau a avec lui, ce mouvement général
-de lu volonté est aussitôt déterminé conformément à ce que
-l’esprit aperçoit. L’âme s’approche de cet objet par son amour,
-afin de le goûter et de reconnaître son bien par le sentiment de
-douceur que l’auteur de la nature lui donne comme une
-récompense naturelle de ce qu’elle se porte au bien. Elle jugeait
-que cet objet était un bien par une raison abstraite et qui ne la
-touchait pas ; mais elle en demeure convaincue par l’efficace du sentiment, et plus ce sentiment est vif, plus elle s’attache au bien
-qui semble le produire.
+The second is an actual determination of the movement of the will toward this object, supposing it is or appears to be a good. Before this view, the natural movement of the soul was either indeterminate, that is, it was directed toward the good in general; or it was determined elsewhere by the knowledge of some other particular object. But at the moment the mind perceives the relation that this new object has to itself, this general movement of the will is immediately determined in accordance with what the mind perceives. The soul approaches this object through its love, in order to taste it and to recognize its good through the feeling of sweetness that the author of nature gives it as a natural reward for directing itself toward the good. It judged that this object was a good by an abstract reason that did not touch it; but it remains convinced of it by the effectiveness of the feeling, and the more vivid this feeling is, the more it attaches itself to the good that seems to produce it.
 
-Mais si cet objet particulier est considéré comme mauvais ou
-comme capable de nous priver de quelque bien, il n’arrive point
-de nouvelle détermination au mouvement de la volonté, mais
-seulement une augmentation de mouvement vers le bien opposé à
-cet objet qui paraît mauvais, laquelle augmentation est d’autant
-plus grande que le mal parait plus à craindre. Car, en effet, on ne
-hait que parce que l’on aime, et le mal qui est hors de nous n’est
-jugé mal que par rapport au bien dont il nous prive. Ainsi le mal
-étant considéré comme la privation du bien, fuir le mal c’est fuir
-la privation du bien, c’est-à-dire tendre vers le bien. Il n’arrive
-donc point de nouvelle détermination dans le mouvement naturel
-de la volonté à la rencontre d’un objet qui nous déplait, mais
-seulement un sentiment de douleur, de dégoût ou d’amertume, que
-l’auteur de la nature imprime en l’âme comme une peine naturelle
-de ce qu’elle est privée du bien
-[4]
-. 
+But if this particular object is considered as bad or as capable of depriving us of some good, no new determination occurs in the movement of the will, but only an increase of movement toward the good opposite to this object that appears bad, which increase is all the greater the more the evil appears to be feared. For, in fact, one hates only because one loves, and the evil that is outside us is judged evil only in relation to the good of which it deprives us. Thus, evil being considered as the privation of good, to flee evil is to flee the privation of good, that is, to tend toward good. No new determination therefore occurs in the natural movement of the will upon encountering an object that displeases us, but only a feeling of pain, disgust, or bitterness, which the author of nature imprints on the soul as a natural punishment for being deprived of good. Reason alone was not sufficient to carry it there; this afflicting and painful feeling was also needed to awaken it. Thus, in all the passions, all the movements of the soul toward good are only movements of love. But because one is touched by various feelings according to the different circumstances that accompany the view of the good and the movement of the soul toward the good, one confuses the feelings with the emotions of the soul, and imagines as many different movements in the passions as there are different feelings.
 
-La raison toute seule ne
-suffisait pas pour l’y porter, il fallait encore ce sentiment
-affligeant et pénible pour la réveiller. Ainsi dans toutes les
-passions, tous les mouvements de l’âme vers le bien ne sont que
-des mouvements d’amour. Mais parce qu’on est touché de divers
-sentiments selon les différences circonstances qui accompagnent
-la vue du bien et le mouvement de l’âme vers le bien, on confond
-les sentiments avec les émotions de l’âme, et on imagine autant
-de différents mouvements dans les passions qu’il y a de différents
-sentiments.
+Now, one must note here that pain is a real and true evil, and that it is no more the privation of pleasure than pleasure is the privation of pain; for there is a difference between not feeling pleasure or being deprived of the feeling of pleasure and actually suffering pain. Thus not every evil is such precisely because it deprives us of good, but only, as I have explained, the evil that is outside us and that is not a mode of being that is in us. Nevertheless, since by goods and evils one ordinarily means good and bad things, and not the feelings of pleasure and pain, which are rather the natural marks by which the soul distinguishes good from evil, it seems that one can say without equivocation that evil is only the privation of good, and that the natural movement of the soul that turns it away from evil is the same as that which carries it toward good. For in short, every natural movement being an impression from the author of nature, who acts only for Himself and who can turn us only toward Himself, the true movement of the soul is always essentially love of good, and is only accidentally flight from evil.
 
-Or, il faut ici remarquer que la douleur est un mal réel et
-véritable, et qu’elle n’est pas plus la privation du plaisir que le
-plaisir est la privation de la douleur ; car il y a différence entre
+It is true that pain can be considered as an evil; and in that sense the movement of the passions that it excites is not real; for one does not will pain; and if one positively wills that pain not be, it is because one positively wills the preservation or the perfection of one's being.
 
-ne point sentir de plaisir ou être privé du sentiment de plaisir et
-souffrir actuellement de la douleur. Ainsi tout mal n’est pas tel
-précisément à cause qu’il nous prive du bien, mais seulement,
-comme je me suis expliqué, le mal qui est hors de nous et qui
-n’est point une manière d’être qui soit en nous. Néanmoins,
-comme par les biens et les maux on entend d’ordinaire les choses
-bonnes et mauvaises, et nou pas les sentiments de plaisir et de
-douleur, qui sont plutôt les marques naturelles par lesquelles
-l’âme distingue le bien d’avec le mal, il semble qu’on peut dire
-sans équivoque que le mal nest que la privation du bien, et que le
-mouvement naturel de l’âme qui l’éloigne du mal est le même que
-celui qui la porte au bien. Car enfin, tout mouvement naturel étant
-une impression de l’auteur de la nature, qui n’agit que pour lui et
-qui ne peut nous tourner que vers lui, le véritable mouvement de
-l’âme est toujours essentiellement amour du bien, et n’est que par
-accident fuite du mal.
+The third thing one can notice in each of our passions is the feeling that accompanies them, a feeling of love, aversion, desire, joy, sadness. These feelings are always different in different passions.
 
-Il est vrai que la douleur se peut considérer comme un mal ; et
-en ce sens le mouvement des passions qu’elle excite n’est point
-réel ; car on ne veut point la douleur ; et si l’on veut positivement
-que la douleur ne soit pas. c’est qu’on veut positivement la
-conservation ou la perfection de son ètre.
-La troisième chose qu’on peut remarquer dans chacune de nos
-passions est le sentiment qui les accompagne, sentiment d’amour,
-d’aversion, de désir, de joie, de tristesse. Ces sentiments sont
-toujours différents dans les différentes passions.
-La quatrième est une nouvelle détermination du cours des
-esprits et du sang vers les parties extérieures du corps et vers
-celles du dedans. Avant la vue de |’objet de la passion, les
-esprits animaux étaient répandus dans tout le corps, pour en conserver généralement toutes les parties ; mais, à la présence du
-nouvel objet, toute cette économie se trouble. La plupart des
-esprits sont poussés dans les muscles des bras, des jambes, du
-visage et de toutes les parties extérieures du corps, afin de le
-mettre dans la disposition propre à la passion qui domine, et de
-lui donner la contenance et le mouvement nócessaire pour
-l’acquisition du bien ou pour la fuite du mal qui se présente. Que
-si les forces de l’homme ne lui suffisent pas dans le besoin qu’il
-en a, ces mêmes esprits sont distribués de telle manière qu’ils lui
-font préférer machinalement certaines paroles et certains cris, et
-qu’ils répandent sur son visage et sur le reste de son corps un
-certain air capable d’agiter les autres de la même passion dont il
-est ému. Car, comme les hommes et les animaux tiennent
-ensemble par les yeux et par les oreilles, lorsque quelqu’un est
-agité, il ébranle nécessairement tous ceux qui le regardent et qui
-l’entendent, et il fait naturellement sur leur imagination une
-impression qui les trouble et qui les intéresse à sa conservation.
-Pour le reste des esprits animaux, il descend avec violence
-dans le cœur, les poumons, le foie, la rate et les autres viscères,
-afin de tirer contribution de toutes ces parties et de les hâter de
-fournir en peu de temps les esprits nécessaires pour conserver le
-corps dans l’action extraordinaire où il doit être, ou pour
-l’acquisition du bien ou pour la fuite du mal.
+The fourth is a new determination of the course of the spirits and blood toward the external parts of the body and toward the internal parts. Before the view of the object of the passion, the animal spirits were spread throughout the body, to preserve all its parts in general; but, at the presence of the new object, all this economy is disturbed. Most of the spirits are driven into the muscles of the arms, legs, face, and all the external parts of the body, in order to put it into the disposition proper to the dominant passion, and to give it the bearing and movement necessary for the acquisition of the good or for the flight from the evil that presents itself. If the man's strength does not suffice for the need he has of it, these same spirits are distributed in such a way that they make him mechanically prefer certain words and cries, and that they spread over his face and the rest of his body a certain air capable of agitating others with the same passion with which he is moved. For, as men and animals hold together through the eyes and ears, when someone is agitated, he necessarily shakes all those who look at him and hear him, and he naturally makes upon their imagination an impression that troubles them and makes them interested in his preservation. As for the rest of the animal spirits, they descend violently into the heart, lungs, liver, spleen, and other viscera, in order to levy tribute from all these parts and to hasten them to supply in a short time the spirits necessary to maintain the body in the extraordinary action in which it must be, either for the acquisition of good or for the flight from evil.
 
-La cinquième est l’émotion sensible de l’âme, qui se sent
-agitée par ce débordement inopiné d’esprits. Cette émotion
-sensible de l’âme accompagne toujours ce mouvement d’esprits,
-afin qu’elle prenne part à tout ce qui touche le corps ; de même
-que le mouvement des esprits s’excite dans le corps dès que
-l’âme est portée vers quelque objet, L’âme étant unie au corps et le corps à l’âme, leurs mouvements sont réciproques.
-La sixième sont les sentiments différents d’amour, d’aversion,
-de joie, de désir, de tristesse, causés non par la vue intellectuelle
-du bien ou du mal, comme ceux dont on vient de parler, mais par
-les différents ébranlements que les esprits animaux causent dans
-le cerveau.
+The fifth is the sensible emotion of the soul, which feels itself agitated by this unexpected overflowing of spirits. This sensible emotion of the soul always accompanies this movement of spirits, so that it may take part in everything that touches the body; just as the movement of the spirits is excited in the body as soon as the soul is carried toward some object. The soul being united to the body and the body to the soul, their movements are reciprocal.
 
-La septième est un certain sentiment de joie, ou plutôt de
-douceur intérieure, qui arrête l’âme dans sa passion et qui lui
-témoigne qu’elle est dans l’état où il est à propos qu’elle soit par
-rapport à l’objet qu’elle considère. Cette douceur intérieure
-accompagne généralement toutes les passions, celles qui naissent
-de la vue d’un mal aussi bien que celles qui naissent de la vue
-d’un bien, la tristesse comme la joie. C’est cette douceur qui
-nous rend toutes nos passions agréables, et qui nous porte à y
-consentir et à nous y abandonner. Enfin c’est cette douceur qu’il
-faut vaincre par la douceur de la grâce et par la joie de la foi et
-de la raison ; car, comme la joie de l’esprit résulte toujours de la
-connaissance certaine ou évidente que l’on est dans le meilleur
-état où l’ou puisse être par rapport aux choses qu’on aperçoit,
-ainsi la douceur des passions est une suite naturelle du sentiment
-confus que l’on a qu’on est dans le meilleur état où l’on puisse
-être par rapport aux choses que l’on sent. Or il faut vaincre, par
-la joie de l’esprit et par la douceur de la grâce, la fausse douceur
-de nos passions qui nous rend esclaves des biens sensibles.
-Toutes ces choses que nous venons de dire se rencontrent dans
-toutes les passions, si ce n’est lorsqu’elles s’excitent par des
-sentiments confus et que l’esprit n’aperçoit point ni de bien ni de
-mal qui les puisse causer, car alors il est évident que les trois
-premières choses ne s’y rencontrent point.
+The sixth are the different feelings of love, aversion, joy, desire, sadness, caused not by the intellectual view of good or evil, like those just spoken of, but by the different vibrations that the animal spirits cause in the brain.
 
-On voit aussi que toutes ces choses ne sont point libres,
-qu’elles sont en nous sans nous, et même malgré nous, depuis le
-péché, et qu’il n’y a que le consentement de notre volonté qui
-dépende véritablement de nous. Mais il semble à propos
-d’expliquer plus au long toutes ces choses et de les rendre plus
-sensibles par quelques exemples.
-Supposons donc qu’un homme reçoive actuellement quelque
-affront, ou qu’étant naturellement d’une imagination forte et vive
-ou échauffée par quelque accident, comme par une maladie ou
-par une retraite de chagrin et de mélancolie, il se figure dans son
-cabinet que tel, qui ne pense pas même à lui, est en état et dans la
-volonté de lui nuire, la vue sensible ou l’imagination du rapport
-des actions de son ennemi avec ses propres desseins sera la
-première cause de sa passion.
-Il n’est pas même absolument nécessaire que cet homme
-reçoive ou s’imagine recevoir quelque affront, ou trouver
-quelque opposition dans ses desseins, afin que le mouvement de
-sa volonté reçoive quelque nouvelle détermination : il suffit pour
-cela qu’il le pense par l’esprit seul et sans que le corps y ait de
-part. Mais comme cette nouvelle détermination ne serait pas une
-détermination de passion, mais une pure inclination très-faible et
-très-languissante, il faut plutôt supposer que cet homme souffre
-actuellement quelque grande opposition dans ses desseins, ou
-qu’il s’imagine fortement qu’on lui en doit faire, que d’en
-supposer un autre dont les sens et l’imagination n’aient point ou
-presque point de part à sa connaissance.
-La seconde chose que l’on peut considérer dans la passion de
-cet homme est une augmentation du mouvement de sa volonté vers
-le bien dont son ennemi réel ou imaginaire lui veut empêcher la
+The seventh is a certain feeling of joy, or rather of inner sweetness, which arrests the soul in its passion and which testifies to it that it is in the state in which it is fitting for it to be in relation to the object it considers. This inner sweetness generally accompanies all the passions, those that arise from the view of an evil as well as those that arise from the view of a good, sadness as well as joy. It is this sweetness that makes all our passions agreeable to us, and that inclines us to consent to them and to abandon ourselves to them. Finally, it is this sweetness that must be overcome by the sweetness of grace and by the joy of faith and reason; for, as the joy of the mind always results from the certain or evident knowledge that one is in the best state one can be in with respect to the things one perceives, so the sweetness of the passions is a natural consequence of the confused feeling that one is in the best state one can be in with respect to the things one feels. Now one must overcome, by the joy of the mind and by the sweetness of grace, the false sweetness of our passions that makes us slaves to sensible goods.
 
-possession ; et cette augmentation est d’autant plus grande que
-l’opposition qu’on lui veut faire lui paraît plus forte. Il ne hait
-d’abord son ennemi que parce qu’il aime le bien ; et sa haine est
-d’autant plus grande que son amour est plus fort, parce que le
-mouvement de sa volonté dans sa haine n’est en effet ici qu’un
-mouvement d’amour, le mouvement de l’âme vers le bien n’étant
-pas différent de celui par lequel on en fuit la privation, comme
-l’on a déjà dit.
+All these things we have just said are found in all the passions, except when they are excited by confused feelings and the mind perceives neither good nor evil that could cause them, for then it is evident that the first three things are not found there.
+
+One also sees that all these things are not free, that they are in us without us, and even against us, since sin, and that only the consent of our will truly depends on us. But it seems appropriate to explain all these things at greater length and to make them more sensible by some examples.
+
+Let us suppose, then, that a man is actually receiving some affront, or that, being naturally of a strong and lively imagination or heated by some accident, such as an illness or a withdrawal of grief and melancholy, he imagines in his study that such a person, who does not even think of him, is in a state and in the will to harm him; the sensible view or the imagination of the relation of his enemy's actions to his own designs will be the first cause of his passion.
+
+It is not even absolutely necessary that this man receive or imagine himself to receive some affront, or find some opposition in his designs, in order for the movement of his will to receive some new determination: for that it suffices that he thinks it by the mind alone and without the body having any part in it. But since this new determination would not be a determination of passion, but a pure inclination, very weak and very languid, it is better to suppose that this man actually suffers some great opposition in his designs, or that he strongly imagines that some is to be made to him, than to suppose another whose senses and imagination have no or almost no part in his knowledge.
+
+The second thing that one can consider in this man's passion is an increase in the movement of his will toward the good of whose possession his real or imaginary enemy wants to prevent him; and this increase is all the greater the stronger the opposition that is made to him appears. He does not at first hate his enemy except because he loves the good; and his hatred is all the greater the stronger his love is, because the movement of his will in his hatred is in fact here only a movement of love, the movement of the soul toward good not being different from that by which one flees its privation, as has already been said.
+
+The third thing is the feeling proper to the passion; and, in this one, it is a feeling of hatred. The movement of hatred is the same as that of love; but the feeling of hatred is entirely different from that of love, which everyone can know from their own experience. The movements are actions of the will; the feelings are modifications of the mind. The movements of the will are the natural causes of the feelings of the mind, and these feelings of the mind in turn maintain the movements of the will in their determination. The feeling of hatred in this man is a natural consequence of the movement of his will that was excited at the view of evil, and this movement is then maintained by the feeling of which it is the cause.
+
+What we have just said of this man could happen to him even if he had no body; but, because he is composed of two parts naturally united, the movements of his mind communicate themselves to his body, and those of his body to his mind. Thus the new determination of the movement of his will naturally produces a new determination in the movement of the animal spirits, which is always different in all the passions, although the movement of the soul is almost always the same.
+
+The spirits are therefore driven with force into the arms, legs, and face, to give the body the disposition necessary to the passion and to spread over the face the air that a man who is offended should have, in relation to all the circumstances of the injury he receives, and to the quality or strength of the one who does it and the one who suffers it; and this effusion of spirits is all the stronger, more abundant, and more prompt, the greater the good is, the stronger the opposition is, and the more vividly the brain is struck by it.
+
+If, therefore, the person of whom we speak receives some injury only through imagination, or if he receives a real one, but slight and one that does not cause a considerable vibration in his brain, the effusion of the animal spirits will be weak and languid, and it will perhaps not be great enough to change the ordinary and natural disposition of the body. But if the injury is atrocious and his imagination is heated, a great vibration will occur in his brain, and the spirits will spread with so much force that they will form in an instant on his face and body the air and bearing of the passion that dominates him. If he is strong enough to overcome, his air will be threatening and proud; if he is weak and cannot resist the evil that is about to overwhelm him, his air will be humble and submissive: his groans and tears naturally exciting in the bystanders, and even in his enemy, movements of compassion, they will draw from them the help that he could not hope from his own strength. It is true that if the bystanders and the enemy of this wretch already have the spirits and fibers of their brain shaken by a violent movement contrary to that which gives rise to compassion in the soul, this man's groans will only increase it, and his misfortune would be inevitable if he always remained in the same air and the same bearing. But nature has provided well for this: for, at the sight of the imminent loss of a great good, characters of rage and despair are naturally formed on the face so vivid and surprising that they disarm the most passionate and render them as if immobile. This terrible and unexpected sight of the features of death painted by the hand of nature on the face of a wretch arrests, in the very enemy who is struck by it, the movement of the spirits and blood that was carrying him to vengeance; and, in this moment of favor and audience, nature, retracing the humble and submissive air on the face of this wretch, who begins to hope because of the immobility and change of air of his enemy, the animal spirits of this enemy receive the determination of which they were not capable a moment before; so that he mechanically enters into the movements of compassion, which naturally incline his soul to yield to the reasons of charity and mercy.
+
+A passionate man, being unable, without a great abundance of spirits, to produce or maintain in his brain a vivid enough image of his misfortune and a vibration strong enough to give the body a forced and extraordinary bearing, the nerves that correspond to the interior of this person's body receive, at the sight of some evil, the shocks and agitations necessary to cause to flow into all the vessels that communicate with the heart the humors proper for producing the spirits that the passion demands. For the animal spirits spreading into the nerves that go to the liver, spleen, pancreas, and generally to all the viscera, they agitate and shake them, and they express, by their agitation, the humors that these parts preserve for the needs of the machine.
+
+But if these humors always flowed in the same way into the heart, if they received a similar fermentation there at different times, and if the spirits that are formed from them ascended equally into the brain, one would not see such prompt changes in the movements of the passions. The sight of a magistrate, for example, would not for an instant stop the rage of a furious man rushing to vengeance, and his face all burning with blood and spirits would not suddenly become pale and dying from the apprehension of some torment.
+
+Thus, to prevent these humors mixed with the blood from always entering the heart in the same way, there are nerves that surround its arteries, which, by tightening and relaxing through the impression that the sight of the object and the force of the imagination produce in the spirits, close and open the way to these humors. And in order to prevent the same humors from receiving a similar agitation and fermentation in the heart at different times, there are other nerves that cause its beatings; and these nerves, not being equally agitated in the different movements of the spirits, do not push the blood with the same force into the arteries. Other nerves spread throughout the lung distribute air to the heart, by tightening and relaxing the branches of the canal that serves for respiration; and they thus regulate the fermentation of the blood in relation to the circumstances of the dominant passion.
+
+Finally, to regulate with more precision and promptness the course of the spirits, there are nerves that surround the arteries, both those that ascend to the brain and those that conduct the blood to all the other parts of the body. So that the vibration of the brain, which accompanies the unexpected sight of some circumstance on account of which it is fitting to change all the movements of the passion, suddenly determines the course of the spirits toward the nerves that surround these arteries, to close by their contraction the passage to the blood that ascends toward the brain; and to open it by their relaxation to that which spreads into all the other parts of the body.
+
+These arteries that carry blood toward the brain being free, and all those that spread it throughout the rest of the body being strongly bound by these nerves, the head must be entirely filled with blood and the face covered with it. But some circumstance coming to change the vibration of the brain that caused this disposition in these nerves, the bound arteries loosen and the others on the contrary tighten strongly. Thus the head is found empty of blood, pallor is painted on the face, and the little blood that leaves the heart, and that the nerves of which we have spoken allow to enter there to sustain life, descends almost entirely into the lower parts of the body: the brain lacks animal spirits, and all the rest of the body is seized with weakness and trembling.
+
+To explain and prove in detail the things we have just said, it would be necessary to give a general knowledge of physics and a particular one of the human body. But these two sciences are still too imperfect to preserve all the exactness I would wish for: besides, if I pursued this matter further, it would soon lead me outside my subject; for it suffices for me to give here a rough and general idea of the passions, provided that this idea is not false.
+
+These vibrations of the brain and these movements of the blood and spirits are the fourth thing found in each of our passions; and they produce the fifth, which is the sensible emotion of the soul.
+
+In the instant that the animal spirits are driven from the brain into the rest of the body to produce there the movements proper to sustaining the passion, the soul is driven toward the good it perceives; and this all the more strongly as the spirits leave the brain with more force, because it is the same vibration of the brain that agitates the soul and the animal spirits.
+
+The movement of the soul toward good is all the greater as the view of the good is more sensible; and the movement of the spirits that leave the brain to spread into the rest of the body is all the more violent as the vibration of the fibers of the brain, caused by the impression of the object or the imagination, is stronger. Thus, this same vibration of the brain, making the view of the good more sensible, it is necessary that the emotion of the soul in the passions increases in the same proportion as the movement of the spirits.
+
+These emotions of the soul are not different from those that follow immediately from the intellectual view of good, of which we have spoken; they are only stronger and more vivid, because of the union of the soul and the body, and because this view that produces them is sensible.
+
+The sixth thing encountered is the feeling of the passion; a feeling of love, aversion, desire, joy, sadness. This feeling is no different from that already spoken of; it is only more vivid, because the body has much part in it. But it is always followed by a certain feeling of sweetness that makes all our passions agreeable to us; and this is the last thing found in each of our passions, as we have already said.
+
+The cause of this last feeling is as follows. At the sight of the object of the passion or of some new circumstance, a part of the animal spirits are driven from the head toward the external parts of the body, to put it into the bearing that the passion demands; and some other spirits descend with force into the heart, lungs, and viscera to draw from them the necessary aids, which we have already sufficiently explained. Now, it never happens that the body is in the state in which it ought to be, without the soul receiving much satisfaction from it; and it never happens that the body is in a state contrary to its good and its preservation, without the soul suffering much distress. Thus, when we follow the movements of our passions and do not arrest the course of the spirits that the sight of the object of the passion causes in our body, to put it into the state in which it ought to be in relation to this object, the soul receives by the laws of nature this feeling of sweetness and inner satisfaction, because the body is in the state in which it ought to be. On the contrary, when the soul, following the rules of reason, arrests this course of the spirits and resists these passions, it suffers distress in proportion to the harm that might come to the body from it.
+
+For just as the soul's reflection upon itself is necessarily accompanied by the joy or sadness of the mind, and then by the joy or sadness of the senses; when, doing its duty and submitting to the orders of God, it recognizes that it is in the state in which it ought to be, or when, abandoning itself to its passions, it is touched by remorse that teaches it that it is in a bad disposition; so the course of the spirits excited for the good of the body is accompanied by sensible joy or sadness and then by spiritual joy or sadness, according as this course of animal spirits is hindered or favored by the will.
+
+But there is this notable difference between the intellectual joy that accompanies the clear knowledge of the good state of the soul and the sensible pleasure that accompanies the confused feeling of the good disposition of the body, that intellectual joy is solid, without remorse, and as immutable as the truth that causes it; and that sensible joy is almost always accompanied by sadness of mind or remorse of conscience, that it is restless and as inconstant as the passion or the agitation of the blood that produces it. Finally, the first is almost always accompanied by a very great joy of the senses, when it is a consequence of the knowledge of a great good that the soul possesses; and the other is almost never accompanied by any joy of the mind, although it is a consequence of a great good that happens only to the body, but which is contrary to the good of the soul.
 
 
-La troisième chose est le sentiment convenable à la passion ;
-et. dans celle-ci, c’est un sentiment de haine. Le mouvement de la
-haine est le même que celui de l’amour ; mais le sentiment de la
-haine est tout différent de celui de l’amour, ce que chacun peut
-savoir par sa propre expérience. Les mouvements sont des
-actions de la volonté ; les sentiments sont des modifications de
-l’esprit. Les mouvements de la volonté sont les causes naturelles
-des sentiments le l’esprit, et ces sentiments de l’esprit
-entretiennent à leur tour les mouvements de la volonté dans leur
-détermination. Le sentiment de haine est en cet homme une suite
-naturelle du mouvement de sa volonté qui s’est excité à la vue du
-mal, et ce mouvement est ensuite entretenu par le sentiment dont
-il est cause.
-Ce que nous venons de dire de cet homme lui pourrait arriver
-quand même il n’auraít point de corps ; mais, parce qu’il est
-composé de deux parties naturellement unies, les mouvements de
-son esprit se communiquent à son corps, et ceux de son corps à
-son esprit. Ainsi la nouvelle détermination du mouvement de sa
-volonté produit naturellement une nouvelle détermination dans le
-mouvement des esprits animaux, laquelle est toujours différente
-dans toutes les passions, quoique le mouvement de l’àme soit
-608
-presque toujours le même.
-
-
-Les esprits sont donc poussés avec force dans les bras, les
-jambes et le visage, pour donner au corps la disposition
-nécessaire à la passion et pour répandre sur le visage l’air que
-doit avoir un homme que l’on offense, par rapport à toutes les
-circonstances de l’injure qu’il reçoit, et à la qualité ou à la force
-de celui qui la fait et de celui qui la souffre ; et cet épanchement
-des esprits est d’autant plus fort, plus abondant et plus prompt,
-que le bien est plus grand, que l’opposition est plus forte, et que
-le cerveau en est plus vivement frappé.
-
-
-Si donc la personne de laquelle nous parlons ne reçoit que par
-imagination quelque injure, ou s’il en reçoit une réelle, mais
-légère et qui ne fasse point d’ébranlement considérable dans son
-cerveau, l’épanchement des esprits animaux sera faible et
-languissant, et il ne sera peut-être pas assez grand pour changer
-la disposition du corps ordinaire et naturelle. Mais si l’injure est
-atroce et que son imagination soit échauffée, il se fera un grand
-ébranlement dans son cerveau, et les esprits se répandront avec
-tant de force qu’ils formeront en un moment sur son visage et sur
-son corps l’air et la contenance de la passion qui le domine. S’il
-est assez fort pour vaincre, son air sera menaçant et fier ; s’il est
-faible et qu’il ne puisse résister au mal qui va l’accabler, son air
-sera humble et soumis : ses gémissements et ses pleurs excitant
-naturellement dans les assistants, et même dans son ennemi, des
-mouvements de compassion, ils en tireront le secours qu’il ne
-pouvait espérer de ses propres forces. Il est vrai que si les
-assistants et l’ennemi de ce misérable ont déjà les esprits et les
-fibres de leur cerveau ébranlés d’un mouvement violent et
-contraire à celui qui fait naître la compassion dans l’àme, les gémissements de cet homme ne feront que l’augmenter, et son
-malheur serait inévitable s’il demeurait toujours dans le même
-air et dans la même contenance. Mais la nature y a bien pourvu :
-car, à la vue de la perte prochaine d’un grand bien, il se forme
-naturellement sur le visage des caractères de rage et de désespoir
-si vifs et si surprenants, qu’ils désarment les plus passionnés et
-les rendent comme immobiles. Cette vue terrible et inopinée des
-traits de la mort peints par la main de la nature sur le visage d’un
-misérable, arrête, dans l’ennemi même qui en est frappé, le
-mouvement des esprits et du sang qui le portait à la vengeance ;
-et, dans ce moment de faveur et d’audience, la nature, retraçant
-l’air humble et soumis sur le visage le ce misérable, qui
-commence à espérer à cause de l’immobilité et du changement
-d’air de son ennemi, les esprits animaux de cet ennemi reçoivent
-la détermination dont ils n’étaient pas capables un moment
-auparavant ; de sorte qu’il entre machinalement dans les
-mouvements de compassion, qui inclinent naturellement son âme
-à se rendre aux raisons de la charité et de la miséricorde.
-Un homme passionné ne pouvant, sans une grande abondance
-d’esprits, produire ni conserver dans son cerveau une image
-assez vive de son malheur et un ébranlement assez fort pour
-donner au corps une contenance forcée et extraordinaire, les nerfs
-qui répondent au dedans du corps de cette personne reçoivent, à
-la vue de quelque mal, les secousses et les agitations nécessaires
-pour faire couler dans tous les vaisseaux qui ont communication
-au cœur les humeurs propres pour produire les esprits que la
-passion demande. Car les esprits animaux se répandant dans les
-nerfs qui vont au foie, à la rate, au pancréas, et généralement à
-tous les viscères, ils les agitent et les secouent, et ils expriment,
-par leur agitation, les humeurs que ces parties conservent pour les besoins de la machine.
-Mais si ces humeurs coulaient toujours de la même manière
-dans le cœur, si elles y recevaient une pareille fermentation en
-divers temps, et si les esprits qui en sont formés montaient
-également dans le cerveau, on ne verrait pas des changements si
-prompts dans les mouvements des passions. La vue d’un
-magistrat, par exemple, n’arrêterait pas un instant l’emportement
-d’un furieux qui court à la vengeance, et son visage tout ardent de
-sang et d’esprits ne deviendrait pas tout d’un coup blême et
-mourant par l'appréhension de quelque supplice.
-Ainsi, pour empêcher que ces humeurs mêlées avec le sang
-n’entrent toujours de la même manière dans le cœur, il y a des
-nerfs qui en environnent les artères, lesquels, en se serrant et en
-se relâchant par impression que la vue de l’objet et la force de
-l’imagination produisent dans les esprits, ferment et ouvrent le
-chemin à ces humeurs. Et afin d’empêcher que les mêmes
-humeurs ne reçoivent une pareille agitation et une pareille
-fermentation dans le cœur en divers temps, il y a d’autres nerfs
-qui eu causent les battements ; et ces nerfs, n’étant pas également
-agités dans les différents mouvements des esprits, ne poussent
-pas le sang avec la même force dans les artères. D’autres nerfs
-répandus dans le poumon distribuent l’air au cœur, en serrant et
-en relâchant les branches du canal qui sertà la respiration ; et ils
-règlent de cette sorte la fermentation du sang par rapport aux
-circonstances de la passion qui domine.
-Enfin, pour régler avec plus de justesse et de promptitude le
-cours des esprits, il y a des nerfs qui environnent les artères, tant
-celles qui montent au cerveau que celles qui conduisent le sang à
-toutes les autres parties du corps. De sorte que l’ébranlement du cerveau, qui accompagne la vue inopinée de quelque
-circonstance à cause de laquelle il est à propos de changer tous
-les mouvements de la passion, détermine subitement le cours des
-esprits vers les nerfs qui environnent ces artères, pour fermer par
-leur contraction le passage au sang qui monte vers le cerveau ; et
-l’ouvrir par leur relâchement à celui qui se répand dans toutes les
-autres parties du corps.
-Ces artères qui portent le sang vers le cerveau étant libres, et
-toutes celles qui le répandent dans tout le reste du corps étant
-fortement liées par ces nerfs, la tête doit être toute remplie de
-sang et le visage en doit être tout couvert. Mais quelque
-circonstance venant à changer l’ébranlement du cerveau qui
-causait cette disposition dans ces nerfs, les artères liées se
-délient et les autres au contraire se serrent fortement. Ainsi la tête
-se trouve vide de sang, la pâleur se peint sur le visage, et le peu
-de sang qui sort du cœur, et que les nerfs dont nous avons parlé y
-laissent entrer pour entretenir la vie, descend presque tout dans
-les parties basses du corps : le cerveau manque d’esprits
-animaux, et tout le reste du corps est saisi de faiblesse et de
-tremblement.
-Pour expliquer et prouver en détail les choses que nous venons
-de dire, il serait nécessaire de donner une connaissance générale
-de la physique et une particulière du corps humain. Mais ces
-deux sciences sont encore trop imparfaites pour conserver toute
-l’exactitude que je souhaiterais : outre que si je poussais plus
-avant cette matière, cela me conduirait bientôt hors de mon sujet ;
-car il me suffit de donner ici une idée grossière et générale des
-passions, pourvu que cette idée ne soit point fausse.
-Ces ébranlements du cerveau et ces mouvements du sang et des
-612
-esprits sont la quatrième chose qui se trouve dans chacune de nos
-passions ; et ils produisent la cinquième, qui est l’émotion
-sensible de l’àme.
-Dans l’instant que les esprits animaux sont poussés du cerveau
-dans le reste du corps pour y produire les mouvements propres à
-entretenir la passion, l’âme est poussée vers le bien qu’elle
-aperçoit ; et cela d’autant plus fortement que les esprits sortent du
-cerveau avec plus de force, parce que c’est le même ébranlement
-du cerveau qui agite l’âme et les esprits animaux.
-Le mouvement de l’âme vers le bien est d’autant plus grand
-que la vue du bien est plus sensible ; et le mouvement des esprits
-qui sortent du cerveau pour se répandre dans le reste du corps est
-d’autant plus violent que l'ébranlement des fibres du cerveau,
-causé par l’impression de l’objet ou l’imagination, est plus fort.
-Ainsi, ce même ébranlement du cerveau rendant la vue du bien
-plus sensible, il est nécessaire que l’émotion de l’âme dans les
-passions augmente avec la même proportion que le mouvement
-des esprits.
-Ces émotions de l’âme ne sont pas différentes de celles qui
-suivent immédiatement de la vue intellectuelle du bien,
-desquelles nous avons parlé ; elles sont seulement plus fortes et
-plus vives, à cause de l’union de l’âme et du corps, et que cette
-vue qui les produit est sensible.
-La sixième chose qui se rencontre est le sentiment de la
-passion ; sentiment d’amour, d’aversion, de désir, de joie, de
-tristesse. Ce sentiment n’est point différent de celui dont on a
-déjà parlé ; il est seulement plus vif, parce que le corps y a
-beaucoup de part. Mais il est toujours suivi d’un certain
-sentiment de douceur qui nous rend toutes nos passions agréables ; et c’est la dernière chose qui se trouve dans chacune
-de nos passions, comme nous avons déjà dit.
-La cause de ce dernier sentiment est telle. A la vue de l’objet
-de la passion ou de quelque circonstance nouvelle, une partie des
-esprits animaux sont poussés de la tête vers les parties
-extérieures du corps, pour le mettre dans la contenance que
-demande la passion ; et quelques autres esprits descendent avec
-force dans le cœur, les poumons et les viscères pour en tirer les
-secours nécessaires, ce que nous avons déjà assez expliqué. Or,
-il n’arrive jamais que le corps soit dans l’état où il doit être, que
-l’âme n’en reçoive beaucoup de satisfaction ; et il n’arrive
-jamais que le corps soit dans un état contraire à son bien et à sa
-conservation que l’âme ne souffre beaucoup de peine. Ainsi,
-lorsque nous suivons les mouvements de nos passions et que nous
-n’arrêtons point le cours des esprits que la vue de l’objet de la
-passion cause dans notre corps, pour le mettre en l’état où il doit
-être par rapport à cet objet, l’âme reçoit par les lois de la nature
-ce sentiment de douceur et de satisfaction intérieure, à cause que
-le corps est dans l’état où il doit être. Au contraire, lorsque
-l’âme, suivant les règles de la raison, arrête ce cours des esprits
-et résiste à ces passions, elle souffre de la peine à proportion du
-mal qui en pourrait arriver au corps.
-Car de même que la réflexion que l’âme fait sur elle est
-nécessairement accompagnée de la joie ou de la tristesse de
-l’esprit, et ensuite de la joie ou de la tristesse des sens ; lorsque
-faisant son devoir et se soumettant aux ordres de Dieu elle
-reconnaît qu’elle est dans l’état où elle doit être, ou que
-s’abandonnant à ses passions elle est touchée de remords qui lui
-apprennent qu’elle est dans une mauvaise —disposition ; ainsi le
-614
-cours des esprits excité pour le bien du corps est accompagné de
-joie ou de tristesse sensible et ensuite de joie ou de tristesse
-spirituelle, selon que ce cours d’esprits animaux est empêché ou
-favorisé par la volonté.
-Mais il y a cette différence remarquable entre la joie
-intellectuelle qui accompagne la connaissance claire du bon état
-de l’âme et le plaisir sensible qui accompagne le sentiment
-confus de la bonne disposition— du corps, que la joie
-intellectuelle est solide, sans remords, et aussi immuable que la
-vérité qui la cause ; et que la joie sensible est presque toujours
-accompagnée de la tristesse de l’esprit ou du remords de la
-conscience, qu’elle est inquiète et aussi inconstante que la
-passion ou l’agitation du sang qui la produit. Enfin la première
-est presque toujours accompagnée d’une très-grande joie des
-sens, lorsqu’elle est une suite de la connaissance d’un grand bien
-que l’âme possède ; et l’autre n’est presque jamais accompagnée
-de quelque joie de l’esprit, quoiqu”elle soit une suite d’un grand
-bien qui arrive settlement au corps, mais qui est contraire au bien
-de l’âme.
-Il est pourtant vrai que, sans la grâce de Jésus-Christ, la
-douceur que l’âme goûte en s’abandonnant à ses passions est plus
-agréable que celle qu’elle ressent en suivant les règles de la
-raison. Et c’est cette douceur qui est l’origine de tous les
-désordres qui ont suivi le péché originel ; et elle nous rendrait
-tous esclaves de nos passions, si le fils de Dieu ne nous délivrait
-de leur servitude par la délectation de sa grâce. Car enfin les
-choses que je viens de dire pour la joie de l’esprit contre la joie
-des sens ne sont vraies que parmi les chrétiens ; et elles étaient
-absolument fausses dans la bouche de Senèque, d’Épicure même,
-615
-et cnfin de tous les philosophes qui paraissaient les plus
-raisonnables ; parce que le joug de Jésus-Christ n’est doux qu’à
-ceux qui appartiennent à Jésus-Christ, et sa charge ne nous
-semble légère que lorsque sa grâce la porte avec nous.
-
+Without the grace of Jesus Christ, the sweetness that the soul tastes in abandoning itself to its passions is more agreeable than that which it feels in following the rules of reason. And it is this sweetness that is the origin of all the disorders that have followed original sin; and it would make us all slaves to our passions, if the Son of God did not deliver us from their servitude by the delight of His grace. For in short, the things I have just said for the joy of the mind against the joy of the senses are true only among Christians; and they were absolutely false in the mouths of Seneca, of Epicurus even, and finally of all the philosophers who appeared the most reasonable; because the yoke of Jesus Christ is sweet only to those who belong to Jesus Christ, and His burden seems light to us only when His grace carries it with us.

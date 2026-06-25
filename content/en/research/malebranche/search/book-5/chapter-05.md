@@ -1,7 +1,13 @@
+---
+heading: Chapter 5
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-
-CHAPITRE V.
 
 Que la perfection de l’esprit consiste dans son union avec Dieu par la connaissance de
 la vérité et par l’amour de la vertu ; et au contraire que son imperfection ne vient

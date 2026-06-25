@@ -1,4 +1,15 @@
-CHAPITRE VIII.
+---
+heading: Chapter 8
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 
 I. Du désir de paraître savant. — II. Des conversations des faux savants. — III. De
 leurs ouvrages.

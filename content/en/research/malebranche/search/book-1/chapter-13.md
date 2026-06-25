@@ -1,6 +1,14 @@
+---
+heading: Chapter 13
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XIII.
 
 I. De la nature des sensations. — II. Qu’on les connait. mieux qu’on ne croit. — III.
 Objection et réponse. — IV. Pourquoi l’on s'imagine ne rien connaître de ses

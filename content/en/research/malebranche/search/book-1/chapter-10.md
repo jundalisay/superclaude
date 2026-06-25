@@ -1,6 +1,13 @@
+---
+heading: Chapter 10
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE X.
 
 Des erreurs touchant les qualités sensibles. — I. Distinction de l’âme et du corps — II.
 Explication des organes des sens. — III. A quelle partie du corps l’âme est

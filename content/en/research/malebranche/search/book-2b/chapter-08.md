@@ -1,5 +1,13 @@
+---
+heading: Chapter 8
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE VIII.
 
 
 I. Des esprits efféminés. — II. Des esprits superficiels. — III. Des personnes

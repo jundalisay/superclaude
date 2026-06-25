@@ -1,6 +1,18 @@
-CHAPITRE XI.
+---
+heading: Chapter 11
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 Que toutes les passions se justifient, et des jugements qu’elles nous font faire pour leur
 justification.
+
+
 Il n’est pas nécessaire de faire de grands raisonnements pour
 démontrer que toutes les passions se justifient ; ce principe est
 assez évident par le sentiment intérieur que nous avons de nous
@@ -101,9 +113,7 @@ Il y a certaines gens qui apprennent toute leur vie à parler, et
 qui devraient peut-être se taire toute leur vie ; car il est évident
 qu’en doit se taire lorsqu’on n’a rien de bon à dire ; mais ils
 n’apprennent pas à parler pour se taire. Ils ne savent point assez
-que pour bien parler il faut bien penser ; qu’il faut se rendre
-694
-l’esprit juste, discerner le vrai d’avec le faux, les idées claires
+que pour bien parler il faut bien penser ; qu’il faut se rendre l’esprit juste, discerner le vrai d’avec le faux, les idées claires
 de celles qui sont obscures, ce qui vient de l’esprit de ce qui part
 de l’imagination. Ils s’imaginent être de beaux et de rares génies,
 à cause qu’ils savent contenter l’oreille par une juste mesure,
@@ -111,6 +121,7 @@ flatter les passions par des figures et des mouvements agréables,
 réjouir l’imagination par des expressions vives et sensibles,
 quoiqu’ils laissent l’esprit vide d’idées, sans lumière et sans
 intelligence.
+
 Il y a quelque raison apparente de s’appliquer toute sa vie à
 l’étude de sa langue, puisqu’on en fait usage toute sa vie : cela
 est capable de justifier la passion de certains esprits. Mais
@@ -132,9 +143,7 @@ moments dans leurs entretiens des termes ou inconnus ou
 barbares, et ils ne paient jamais les honnêtes gens d’une monnaie
 qui ait cours dans le pays. Enfin leur raison n’est pas mieux
 conduite que leur langue ; car tous les recoins et tous les replis
-de leur mémoire sont tellement pleins d’étymologies, que leur
-695
-esprit est comme étouffé par la multitude innombrable de mots
+de leur mémoire sont tellement pleins d’étymologies, que leur esprit est comme étouffé par la multitude innombrable de mots
 qui voltigent sans cesse autour de lui.
 Cependant il faut tomber d’accord que le désir bizarre des
 philologues se justifie. Mais comment ? Écoutez les jugements
@@ -162,9 +171,7 @@ qui prétendaient condamner notre passion.
 Au reste, lorsque la passion qui nous anime se sent mourir, elle
 ne se repent pas de sa conduite. On peut dire au contraire qu’elle
 dispose toutes choses, ou pour mourir avec honneur, ou pour
-revivre bientôt après ; je veux dire qu’elle dispose toujours
-696
-l’esprit à former des jugements qui la justifient. Elle contracte
+revivre bientôt après ; je veux dire qu’elle dispose toujours l’esprit à former des jugements qui la justifient. Elle contracte
 encore en cet état une espèce d’alliance avec toutes les autres
 passions qui peuvent la secourir dans sa faiblesse, la fournir
 d’esprits et de sang dans son intelligence, rallumer ses cendres et
@@ -175,6 +182,7 @@ jugements qui justifient le désir qu’on a pour les langues ou pour
 telle autre chose qu’il vous plaira, sont incessamment sollicités
 et pleinement confirmés par toutes les passions qui ne lui sont
 point contraires.
+
 Le faux savant se présente à lui-même, tantôt comme environné
 de gens qui l’écoutent avec respect, tantôt comme victorieux de
 ceux qu’il a terrassés par des mots incompréhensibles, et presque
@@ -192,9 +200,7 @@ peine des autres, elles se dissiperaient toutes incontinent après
 leur naissance. Elles ne pourraient pas former assez de faux
 jugements pour leur subsistance, ni soutenir long-temps la vue de
 l’imagination contre la lumière de la raison. Mais tout est réglé
-dans nos passions de la manière la plus juste qui se puisse pour
-697
-leur mutuelle conservation. Elles se fortifient les unes les autres,
+dans nos passions de la manière la plus juste qui se puisse pour leur mutuelle conservation. Elles se fortifient les unes les autres,
 les plus éloignées se secourent ; et il suffit qu’elles ne soient pas
 ennemies déclarées, pour suivre entre elles toutes les règles
 d’une société bien ordonnée.
@@ -222,9 +228,7 @@ justifient, car il faut expliquer les choses par des idées distinctes.
 Toute passion agite le sang et les esprits. Les esprits agités
 sont conduits dans le cerveau par la vue sensible de l’objet ou
 par la force de l’imagination, d’une manière propre à former des
-traces profondes qui représentent cet objet. Ils plient et rompent
-698
-même quelquefois par leur cours impétueux les fibres du cerveau,
+traces profondes qui représentent cet objet. Ils plient et rompent même quelquefois par leur cours impétueux les fibres du cerveau,
 et l’imagination en demeure long-temps salie et corrompue ; car
 les plaies du cerveau ne se reprennent pas aisément, ses traces ne
 se ferment pas à cause que les esprits y passent sans cesse. Les
@@ -267,6 +271,7 @@ différentes personnes, qu’une même chose leur étant également
 proposée et également expliquée, plusieurs formeront sur elle des
 jugements d’espérance et de joie, lorsque les autres en formeront
 de crainte et de tristesse.
+
 Car ceux qui ont abondance de sang et d’esprits comme sont
 ordinairement les jeunes gens, les sanguins et les bilieux,
 concevant aisément de l’espérance à cause du sentiment secret

@@ -1,4 +1,15 @@
-CHAPITRE XI.
+---
+heading: Chapter 11
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 
 De l’amour du plaisir par rapport aux sciences spéculatives. — I. Comment il nous
 empêche de découvrir la vérité. — II. Quelques exemples.

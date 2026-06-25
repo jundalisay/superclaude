@@ -1,6 +1,13 @@
+---
+heading: Chapter 4
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE IV.
 
 I. Des causes occasionnelles de l’erreur, et qu’il y en a cinq principales. — II. Dessein
 général de tout l’ouvrage, et dessein particulier du premier livre.

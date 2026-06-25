@@ -1,6 +1,14 @@
+---
+heading: Chapter 9
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE IX.
 
 Continuation du même sujet. — I. Preuve générale des erreurs de notre vue touchant le
 mouvement. — II. Qu’il est nécessaire de connaître la distance des objets pour

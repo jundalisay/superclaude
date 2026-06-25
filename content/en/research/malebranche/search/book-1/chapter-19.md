@@ -1,6 +1,14 @@
+---
+heading: Chapter 19
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XIX.
 
 Deux autres exemples. — 1. Le premier, de nos erreurs touchant la nature des corps.
 — II. Le second, de celles qui regardent les qualités de ces mêmes corps.

@@ -1,5 +1,13 @@
+---
+heading: Chapter 8
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE VIII.
 
 I. La présence intime de l’idée vague de l’être en général est la cause de toutes les
 abstractions déréglées de l’esprit et de la plupart des chimères de la philosophie

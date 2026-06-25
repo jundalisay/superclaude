@@ -1,4 +1,13 @@
-CHAPITRE III.
+---
+heading: Chapter 3
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
 
 
 I. De la force de l’imagination de certains auteurs. — II. De Tertullien.
@@ -18,9 +27,8 @@ sait que croire ; car lorsqu’on veut savoir ce qu’on veut croire, et
 qu’on s’approche pour ainsi dire de ces fantômes pour les
 reconnaître, ils s’en vont souvent en fumée avec tout leur
 appareil et tout leur éclat.
-Quoique les livres des auteurs que je viens de nommer soient
-308
-très-propres pour faire remarquer la puissance que les
+
+Quoique les livres des auteurs que je viens de nommer soient très-propres pour faire remarquer la puissance que les
 imaginations ont les unes sur les autres, et que je les propose
 pour exemple, je ne prétends pas toutefois les condamner en
 toutes choses. Je ne puis pas nfempècher d’avoir de l’estime pour

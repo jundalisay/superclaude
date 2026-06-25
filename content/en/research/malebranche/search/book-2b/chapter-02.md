@@ -1,4 +1,14 @@
-CHAPITRE II.
+---
+heading: Chapter 2
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Que les esprits animaux vont d’ordinaire dans les traces des idées qui nous sont les plus
 familières, ce qui fait qu’on ne juge point sainement des choses.

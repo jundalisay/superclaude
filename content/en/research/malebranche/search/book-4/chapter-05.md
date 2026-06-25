@@ -1,6 +1,14 @@
+---
+heading: Chapter 5
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE V.
 
 I. De la seconde inclination naturelle ou de l’amour-propre. — II. Il se divise en l’amour
 de l’être et du bien-être, ou de la grandeur et du plaisir.

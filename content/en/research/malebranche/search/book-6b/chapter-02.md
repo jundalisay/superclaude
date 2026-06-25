@@ -1,289 +1,50 @@
-
-CHAPITRE II.
-De la règle générale qui regarde le sujet de nos études. Que les philosophes de l’école
-ne l’observent point ; ce qui est cause de plusieurs erreur dans la physique.
-La première de ces règles, et celles qui regardent le sujet de nos études, nous apprend que nous ne devons raisonner que sur
-des idées claires. De là on doit tirer cette conséquence que, pour
-étudier par ordre, il faut commencer par les choses les plus
-simples et les plus faciles à comprendre, et s’y arrêter même
-longtemps avant que d’entreprendre la recherche des plus
-composées et des plus difficiles.
-
-Tout le monde tombera facilement d’accord de la nécessité de
-cette règle générale, car on voit assez que c’est marcher dans les
-ténèbres que de raisonner sur des idées obscures et sur des
-principes incertains. Mais on s’étonnera peut-être si je dis qu’on
-ne l’observe presque jamais, et que la plupart des sciences qui
-sont encore à présent le sujet de l’orgueil de quelques faux
-savants, ne sont appuyées que sur des idées ou trop confuses ou
-trop générales pour être utiles à la recherche de la vérité.
-Aristote, qui mérite avec justice la qualité de prince de ces
-philosophes dont je parle, parce qu’il est le père de cette
-philosophie qu’ils cultivent avec tant de soin, ne raisonne
-presque jamais que sur les idées confuses que l’on reçoit par les
-sens, et que sur d’autres idées vagues, générales et
-indéterminées, qui ne représentent rien de particulier à l’esprit.
-
-Car les termes ordinaires à ce philosophe ne peuvent servir qu’à
-exprimer confusément aux sens et à l’imagination les sentiments
-confus que l’on a des choses sensibles, ou à faire parler d’une
-manière si vague et si indéterminée, que l’on n’exprime rien de
-distinct. Presque tous ses ouvrages, mais principalement ses huit
-livres de physique, dont il y a autant de commentateurs différents
-qu’il y a de régents de philosophie, ne sont qu’une pure logique.
-Il n’y enseigne que des termes généraux dont on se peut servir
-dans la physique. Il y parle beaucoup et il n’y dit rien. Ce n’est pas qu’il soit diffus, mais c’est qu’il a le secret d’être concis et
-de ne dire que des paroles. Dans ses autres ouvrages il ne fait
-pas un si fréquent usage de ses termes généraux, mais ceux dont il
-se sert ne réveillent que les idées confuses des sens. C’est par
-ces idées qu’il prétend, dans ses problèmes et ailleurs, résoudre
-en deux mots une infinité de questions dont on peut donner
-démonstration qu’elles ne se peuvent résoudre.
-
-Mais afin que l’on comprenne mieux ce que je veux dire, on
-doit se souvenir de ce que j’ai prouvé ailleurs, que tous les
-termes qui ne réveillent que des idées sensibles sont tous
-équivoques, mais ; ce qui est à considérer, équivoques par erreur
-et par ignorance, et par conséquent cause d’un nombre infini
-d’erreurs.
-
-Le mot de bélier est équivoque, il signifie un animal qui
-rumine et une constellation dans laquelle le soleil entre au
-printemps ; mais il est rare qu’on s'y trompe. Car il faut être
-astrologue dans l’excès pour s’imaginer quelque rapport entre
-ces deux choses, et pour croire, par exemple, qu’on est sujet à
-vomir en ce temps-là les médecines que l’on prend, à cause que
-le bélier rumine. Mais pour les termes des idées sensibles, il n’y
-a presque personne qui reconnaisse qu’ils sont équivoques.
-Aristote et les anciens philosophes n’y ont pas seulement pensé.
-L’on en tombera d’accord si on lit quelque chose de leurs
-ouvrages ; et si l’on sait distinctement la cause pour laquelle ces
-termes sont équivoques. Car il n’y a rien de plus évident que les
-philosophes ont cru sur ce sujet tout le contraire de ce qu*il faut
-croire.
-
-Par exemple, lorsque les philosophes disent que le feu est
-chaud, l’herbe verte, le sucre doux, etc., ils entendent, comme les enfants et le commun des hommes, que le feu contient ce qu’ils
-sentent lorsqu’ils se chauffent ; que l’herbe a sur elle les couleurs
-qu’ils y croient voir ; que le sucre renferme la douceur qu’ils
-sentent en le mangeant, et ainsi de toutes les choses que nous
-voyons ou que nous sentons. Il est impossible d’en douter en
-lisant leurs écrits. Ils parlent des qualités sensibles comme des
-sentiments ; ils prennent de la chaleur pour du mouvement, et ils
-confondent ainsi, à cause de l'équivoque des termes, les manières
-d’être des corps avec celles des esprits.
-
-Ce n’est que depuis Descartes qu’à ces questions confuses et
-indéterminées, si le feu est chaud, si l’herbe est verte, si le sucre
-est doux, etc., on répond en distinguant l’équivoque des termes
-sensibles qui les expriment. Si par chaleur, couleur, saveur, vous
-entendez un tel ou un tel mouvement de parties insensibles, le feu
-est chaud, l’herbe verte, le sucre doux. Mais si par chaleur et par
-les autres qualités vous entendez ce que je sens auprès du feu, ce
-que je vois lorsque je vois de l’herbe, etc., le feu n’est point
-chaud, ni l’herbe verte, etc., car la chaleur que l’on sent et les
-couleurs que l’on voit ne sont que dans l’âme, comme j’ai prouvé
-dans le premier livre. Or, comme les hommes pensent que ce
-qu’ils sentent est la même chose que ce qui est dans l’objet, ils
-croient avoir droit de juger des qualités des objets par les
-sentiments qu’ils en ont. Ainsi, ils ne disent pas deux mots sans
-dire quelque chose de faux, et ils ne disent jamais rien sur cette
-matière qui ne soit obscur et confus. En voici plusieurs raisons.
-La première, parce que tous les hommes n’ont point les mêmes
-sentiments des mêmes objets, ni un même homme en différents
-temps, ou lorsqμ’il sent ces mêmes objets par différentes parties
-du corps. Ce qui semble doux à l’un semble amer à l’autre ; ce qui est chaud à l’un est froid à l’autre ; ce qui semble chaud à une
-personne quand elle a froid, semble froid à cette même personne
-quand elle a chaud, ou lorsqu’elle sent par différentes parties de
-son corps. Si l’eau semble chaude par une main, elle semble
-souvent froide par l’autre, ou si on s’en lave quelque partie
-proche du cœur. Le sel semble salé à la langue, et cuisant ou
-piquant à une plaie. Le sucre est doux à la langue et l’aloès
-extrêmement amer, mais rien n’est doux ni amer par les autres
-sens. Ainsi, lorsqu’on dit qu’une telle chose est froide, douce,
-amère, cela ne signifir rien de certain.
-
-La seconde, parce que différents objets peuvent faire la même
-sensation : le plâtre, le pain, la neige, le sucre, le sel, etc., font
-même sentiment de couleur ; cependant leur blancheur est
-différente, si l’on en juge autrement que par les sens. Ainsi,
-lorsqu’au dit que de la farine est blanche, on ne dit rien de
-distinct.
+---
+heading: Chapter 2
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 4
+date: 2026-06-20
+---
 
 
-La troisième, parce que les qualités des corps qui nous causent
-des sensations tout à fait différences sont presque les mêmes ; et,
-au contraire, celles dont nous avons presque les mêmes
-sensations sont souvent très-différentes. Les qualités de douceur
-et d’amertume dans les objets ne sont presque point différentes,
-et les sentiments de douceur et d’amertume sont essentiellement
-différents. Les mouvements qui causent de la douleur et du
-chatouillement ne diffèrent que du plus ou du moins, et néanmoins
-les sentiments de chatouillement et de douleur sont
-essentiellement différents. Au contraire, l’âpreté d’un fruit ne
-semble pas, au goût, si différente de l’amertume que la douceur,
-et cependant cette qualité est la plus éloignée de l’amertume qu’il
-puisse y avoir ; puisqu’il faut qu’un fruit qui est âpre, à cause qu’il est trop vert, reçoive un très-grand nombre de changements
-avant qu’il soit amer d’une amertume qui vienne de pourriture ou
-d’une trop grande maturité. Lorsque les fruits sont mûrs, ils
-semblent doux ; et lorsqu’ils le sont un peu trop, ils semblent
-amers. L’amertume et la douceur dans les fruits ne diffèrent donc
-que du plus et du moins. et c’est pour cela qu’il y a des personnes
-qui les trouvent doux lorsque d’autres les trouvent amers ; car il y
-en a même qui trouvent que l’aloès est doux comme du miel : il
-en est de même de toutes les idées sensibles. Les termes de doux,
-d’amer, de salé, d’aigre, d’acide, etc ; de rouge, de vert, de
-jaune, etc. ; de telle ou telle odeur, saveur, couleur, etc., sont
-donc tous équivoques, et ne réveillent point dans l’esprit d’idée
-claire et distincte. Cependant les philosophes de l’école et le
-commun des hommes ne jugent de toutes les qualités sensibles
-des corps que par les sentiments qu’ils en reçoivent.
+From the general rule concerning the subject of our studies. Let the philosophers of the school not observe it; this is the cause of many errors in physics.
 
-Non-seulement ces philosophes jugent des qualités sensibles
-par les sentiments qu’ils en reçoivent ; ils jugent des choses
-mêmes en conséquence des jugements qu’ils ont faits touchant les
-qualités sensibles. Car, de ce qu’ils ont des sentiments
-essentiellement différents de certaines qualités, ils jugent qu’il y
-a génération de formes nouvelles, qui produisent ces différences
-imaginaires de qualités. Du blé paraît jaune, dur, etc. ; la farine,
-blanche, molle, etc., et de là ils concluent, sur le rapport de leurs
-yeux et de leurs mains, que ce sont des corps essentiellement
-différents, supposé qu’ils ne pensent pas ã la manière dont le blé
-est changé en farine. Cependant de la farine n’est que du blé
-froissé et moulu ; comme du feu n’est que du bois divisé et agité ;
-comme de la cendre n’est que le plus grossier du bois divisé sans
-être agité ; comme du verre n’est que de la cendre dont chaque
-partie a été polie et quelque peu arrondie par le froissement 
-causé parle feu ; et ainsi des autres transmutations des corps.
+The first of these rules, and those concerning the subject of our studies, teaches us that we should reason only about clear ideas. From this we must draw the consequence that, in order to study systematically, we must begin with the simplest and easiest things to understand, and even dwell on them for a long time before undertaking the investigation of the more composite and more difficult ones.
 
+Everyone will easily agree to the necessity of this general rule, for one sees clearly enough that it is walking in darkness to reason about obscure ideas and uncertain principles. But perhaps one will be surprised if I say that it is almost never observed, and that most of the sciences which are still at present the subject of pride of some false scholars are supported only by ideas either too confused or too general to be useful in the search for truth.
 
-ll est donc evident que les termes des idées sensibles sont
-entièrement inutiles pour proposer nettement et pour résoudre
-clairement les questions, c’est-à-dire pour découvrir la vérité.
-Cependant il n’y a point de questions, si embarrassées qu’elles
-puissent être par les termes équivoques des sens, qu’Aristote et
-la plupart des philosophes ne prétendent résoudre dans leurs
-livres, sans ces distínetions que nous venons de donner ; parce
-que ces termes sont équivoques par erreur et par ignorance.
-Si l’on demande, par exemple, à ceux qui ont passé toute leur
-vie dans la lecture des anciens philosophes ou médecins, et qui
-en ont entièrement pris l’esprit et les sentiments, si l’eau est
-humide, si le feu est sec, si le vin est chaud, si le sang des
-poissons est froid, si l’eau est plus crue que le vin, si l’or est
-plus parfait que le vif-argent, si les plantes et les bêtes ont des
-âmes, et un million d’autres questions indéterminées, ils y
-répondront imprudemment, sans consulter autre chose que les
-impressions que ces objets ont faites sur leurs sens, ou ce que
-leur lecture a laissé dans leur mémoire. Ils ne verront point que
-ces termes sont équivoques ; ils trouveront étrange qu’on les
-veuille définir, et ils s’impatienteront si l’on tâche de leur faire
-connaître qu’ils vont un peu trop vite et que leurs sens les
-séduisent. Ils ne manqueront point de distinctions pour confondre
-les choses les plus évidentes, et dans ces questions, ou il est si
-nécessaire d’ôter l’équivoque, ils ne trouvent rien à distinguer. Si
-l’on considère que la plupart des questions des philosophes et
-des médecins renferment quelques termes équivoques semblables
-à ceux dont nous parlons, on ne pourra douter que ces savants,
-qui n’ont pu les définir, n’ont pu aussi rien dire de solide dans les gros volumes qu’ils ont composés, et ce que je viens de dire
-suffit pour renverser presque toutes les opinions des anciens. Il
-n’en est pas de même de M. Descartes : il a su parfaitement
-distinguer ces choses ; il ne résout point les questions par les
-idées sensibles, et, si l’on prend la peine de le lire, on verra
-qu’il explique d’une manière claire, évidente et souvent
-démonstrative, par les seules idées distinctes d’étendue, de figure
-et de mouvement, les principaux effets de la nature.
-L’autre genre de termes équivoques dont les philosophes se
-servent comprend tous ces termes généraux de logique par
-lesquels il est facile d’expliquer toutes choses sans en avoir
-aucune connaissance. Aristote est celui qui en a le plus fait
-usage : tous ses livres en sont pleins, et il y en a quelques-uns qui
-ne sont que pure logique. Il propose et résout toutes choses par
-ces beaux mots de genre, d’espèce, d’acte, de puissance, de
-nature, de forme, de facultés, de qualités, de cause par soi, de
-cause par accident. Ses sectateurs ont de la peine à comprendre
-que ces mots ne signifient rien, et qu’on n’est pas plus savant
-qu’on était auparavant quand on leur a ouï dire que le feu dissout
-les métaux parce qu’il a la faculté de dissoudre, et qu’un homme
-ne digère pas à cause qu’il a l’estomac faible ou que sa faculté
-curwoctríce ne fait pas bien ses fonctions.
-Il est vrai que ceux qui ne se servent que de ces termes et de
-ces idées générales pour expliquer toutes choses ne tombent pas
-d’ordinaire dans un si grand nombre d’erreurs que ceux qui se
-servent seulement des termes qui ne réveillent que les idées
-confuses des sens. Les philosophes scolastiques ne sont pas si
-sujets à l’erreur que certains médecins décisifs, qui dogmatisent
-et font des systèmes sur quelques expériences dont ils ne connaissent point les raisons, parce que les scolastiques parlent
-si généralement qu’ils ne se hasardent pas beaucoup.
-Le feu échauffe, sèche, durcit et amollit, parce qu’il à la
-faculté de produire ces effets. Le séné purge par sa qualité
-purgative ; le pain même nourrit, si on le veut, par sa qualité
-nutritive : ces propositions ne sont point sujettes à l’erreur. Une
-qualité est ce qui fait qu’on appelle une chose d’un tel nom, on ne
-peut le nier à Aristote ; car enfin cette définition est
-incontestable. Telles ou semblables manières de parler ne sont
-point fausses, mais c’est qu’en effet elles ne signifient rien. Ces
-idées vagues et indéterminées n’engagent point dans l’erreur,
-mais elles sont entièrement inutiles à la découverte de la vérité.
-Car, encore que l’oh sache qu’il y a dans le feu une forme
-substantielle, accompagnée d’un million de facultés semblables à
-celles d’échauffer, de dilater, de fondre l’or, l’argent et tous les
-métaux ; d’éclairer, de brûler, de cuire ; si l’on me proposait
-cette difficulté à résoudre, savoir : si le feu peut durcir de la
-boue et amollir de la cire, les idées de formes substantielles et
-des facultés de produire la chaleur, la raréfaction ; la fluidité,
-etc., ne me serviraient de rien pour découvrir si le feu serait
-capable de durcir de la boue et d’amollir de la cire, n’y ayant
-aucune liaison entre les idées de dureté de la boue et de mollesse
-de la cire et celles de forme substantielle du feu et des qualités
-de produire la raréfaction, la fluidité ; etc. Il en est de même de
-toutes les idées générales. Ainsi elles sont entièrement inutiles
-pour résoudre aucune question.
+Aristotle, who justly deserves the title of prince of these philosophers of whom I speak, because he is the father of that philosophy which they cultivate with so much care, almost never reasons except on the confused ideas that one receives through the senses, and on other vague, general, and indeterminate ideas, which represent nothing particular to the mind.
 
-Mais si l’on sait que le feu n’est autre chose que du bois dont
-toutes les parties sont en continuelle agitation, et que c’est
-seulement par cette agitation qu’il excite en nous le sentiment de chaleur ; si l’on sait en même temps que la mollesse de la boue
-ne consiste que dans un mélange de terre et d’eau : comme ces
-idées ne sont point confuses et générales mais distinctes et
-particulières, il ne sera pas difficile de voir que la chaleur du feu
-doit durcir la boue ; parce qu’il n’y a rien de plus facile à
-concevoir qu’un corps en peut remuer un autre, si étant agité il le
-rencontre. On voit sans peine que, puisque la chaleur que l’on
-ressent auprès du feu est causée par le mouvement des parties
-invisibles du bois qui heurtent contre les mains ; si l’on expose
-de la boue à la chaleur du feu, les parties d’eau qui sont jointes à
-la terre étant plus déliées, et par conséquent plutôt agitées par le
-choc des petits corps qui sortent du feu que les parties grossières
-de la terre, elles doivent s’en séparer et la laisser sèche et dure.
-On verra de même évidemment que le feu ne doit point durcir la
-cire, si l’on sait que les parties qui la composent sont branchues
-et à peu près de même grosseur. Ainsi, les idées particulières
-sont utiles à la recherche de la vérité ; et non-seulement les idées
-vagues et indéterminées n’y peuvent de rien servir ; mais elles
-engagent au contraire insensiblement dans l’erreur.
+For the ordinary terms of this philosopher can only serve to express confusedly to the senses and to the imagination the confused feelings that one has of sensible things, or to make one speak in so vague and indeterminate a manner that one expresses nothing distinct. Almost all his works, but principally his eight books of physics, of which there are as many different commentators as there are regents of philosophy, are nothing but pure logic. He teaches there only general terms that one can use in physics. He speaks much there and he says nothing there. It is not that he is diffuse, but it is that he has the secret of being concise and of saying only words. In his other works he does not make such frequent use of his general terms, but those he uses awaken only the confused ideas of the senses. It is by these ideas that he claims, in his problems and elsewhere, to resolve in two words an infinity of questions of which one can give demonstration that they cannot be resolved.
 
-Car les philosophes ne se contentent pas de se servir de termns
-généraux et d’idées vagues qui y répondent ; ils veulent, outre
-cela, que ces termes signifient certains êtres particuliers. Ils
-prétendent qu’il y a quelque substance, distinguée de la matière,
-qui est la forme de la matière, et une infinité de petits êtres
-distingués réellement de la matière et de la forme ; et ils en
-supposent d’ordinaire autant qu’ils ont de différentes sensations
-des corps et qu’ils pensent que ces corps produisent d’effets
-différents.
+But so that one may better understand what I mean, one must remember what I have proved elsewhere, that all terms which awaken only sensible ideas are all equivocal, but—what is to be considered—equivocal by error and by ignorance, and consequently the cause of an infinite number of errors.
 
-Cependant il est visible à tout homme capable de quelque attention que tous ces petits êtres distingués du feu, par exemple,
-et que l’on suppose y être contenus pour produire la chaleur, la
-lumière, la dureté, la lluidité, etc., ne sont que des fictions de
-l’imagination qui se révolte contre la raison ; car la raison n’a
-point d’idée particulière qui représente ces petits êtres. Si l’on
-demande aux philosophes quelle sorte d’entité c’est que la
-faculté qu’a le feu d’éclairer, ils ne répondront autre chose sinon
-que c’est un être qui est la cause que le feu est capable de
-produire la lumière. De sorte que l’idée qu’ils ont de cette
-faculté d’éclairer n’est pas différente de l’idée générale de la
-cause et de l’idée confuse de l’effet qu’ils voient. Ils n’ont donc
-point d’idée claire de ce qu’ils disent. lorsqu’ils admettent de
-ces êtres particuliers. Ainsi, ils disent ce qu’ils ne conçoivent
-même pas, et ce qu’il est même impossible de concevoir.
+The word "ram" is equivocal; it means an animal that ruminates and a constellation into which the sun enters in spring; but it is rare that one is mistaken about it. For one would have to be excessively astrological to imagine some relationship between these two things, and to believe, for example, that one is subject to vomiting up medicines one takes at that time because the ram ruminates. But as for the terms of sensible ideas, there is almost no one who recognizes that they are equivocal. Aristotle and the ancient philosophers did not even think of it. One will agree to this if one reads something of their works, and if one distinctly knows the cause for which these terms are equivocal. For there is nothing more evident than that the philosophers have believed on this subject the exact opposite of what they should believe.
 
+For example, when philosophers say that fire is hot, grass green, sugar sweet, etc., they mean, like children and common people, that fire contains what they feel when they warm themselves; that grass has upon it the colors they believe they see there; that sugar contains the sweetness they feel when eating it, and so on for all the things we see or feel. It is impossible to doubt this when reading their writings. They speak of sensible qualities as if they were feelings; they take heat for movement, and they thus confuse, because of the equivocation of terms, the ways of being of bodies with those of minds.
 
+It is only since Descartes that to these confused and indeterminate questions—whether fire is hot, whether grass is green, whether sugar is sweet, etc.—one answers by distinguishing the equivocation of the sensible terms that express them. If by heat, color, flavor, you understand such-and-such a movement of insensible parts, fire is hot, grass is green, sugar is sweet. But if by heat and the other qualities you understand what I feel near the fire, what I see when I see grass, etc., fire is not hot, nor is grass green, etc., for the heat that one feels and the colors that one sees are only in the soul, as I have proved in the first book. Now, as men think that what they feel is the same thing as what is in the object, they believe they have the right to judge the qualities of objects by the feelings they have of them. Thus, they do not say two words without saying something false, and they never say anything on this subject that is not obscure and confused. Here are several reasons.
+
+The first, because all men do not have the same feelings of the same objects, nor does one man at different times, or when he feels these same objects through different parts of the body. What seems sweet to one seems bitter to another; what is hot to one is cold to another; what seems hot to a person when they are cold seems cold to that same person when they are hot, or when they feel through different parts of their body. If water seems hot to one hand, it often seems cold to the other, or if one washes some part near the heart with it. Salt seems salty to the tongue, and burning or sharp to a wound. Sugar is sweet to the tongue and aloe extremely bitter, but nothing is sweet or bitter through the other senses. Thus, when one says such a thing is cold, sweet, bitter, this signifies nothing certain.
+
+The second, because different objects can produce the same sensation: plaster, bread, snow, sugar, salt, etc., produce the same sensation of color; however their whiteness is different, if one judges otherwise than by the senses. Thus, when one says that flour is white, one says nothing distinct.
+
+The third, because the qualities of bodies that cause us entirely different sensations are almost the same; and, on the contrary, those of which we have almost the same sensations are often very different. The qualities of sweetness and bitterness in objects are almost not different at all, and the feelings of sweetness and bitterness are essentially different. The movements that cause pain and tickling differ only by degree, and nevertheless the feelings of tickling and pain are essentially different. On the contrary, the tartness of a fruit does not seem, to the taste, so different from bitterness as sweetness is, and yet this quality is the furthest from bitterness that there could be; since a fruit that is tart, because it is too green, must undergo a very great number of changes before it becomes bitter with a bitterness that comes from rot or too great maturity. When fruits are ripe, they seem sweet; and when they are a little too ripe, they seem bitter. Bitterness and sweetness in fruits therefore differ only by degree, and that is why there are persons who find them sweet when others find them bitter; for there are even those who find that aloe is sweet as honey. It is the same with all sensible ideas. The terms sweet, bitter, salty, sour, acidic, etc.; red, green, yellow, etc.; of such-and-such odor, flavor, color, etc., are therefore all equivocal, and do not awaken in the mind any clear and distinct idea. However, the philosophers of the school and common people judge all sensible qualities of bodies only by the feelings they receive from them.
+
+Not only do these philosophers judge sensible qualities by the feelings they receive from them; they judge things themselves in consequence of the judgments they have made concerning sensible qualities. For, from having essentially different feelings of certain qualities, they judge that there is generation of new forms, which produce these imaginary differences of qualities. Wheat appears yellow, hard, etc.; flour, white, soft, etc., and from this they conclude, on the testimony of their eyes and hands, that these are essentially different bodies, supposing they do not think about the manner in which wheat is changed into flour. Yet flour is only wheat crushed and ground; just as fire is only wood divided and agitated; just as ash is only the coarsest part of wood divided without being agitated; just as glass is only ash whose each part has been polished and somewhat rounded by the friction caused by fire; and likewise for other transmutations of bodies.
+
+It is therefore evident that the terms of sensible ideas are entirely useless for clearly proposing and clearly resolving questions, that is to say, for discovering truth. However, there is no question, however embarrassed it may be by equivocal terms of the senses, that Aristotle and most philosophers do not claim to resolve in their books, without these distinctions that we have just given; because these terms are equivocal by error and by ignorance.
+
+If one asks, for example, those who have spent their whole life reading ancient philosophers or physicians, and who have entirely absorbed their spirit and sentiments, whether water is humid, whether fire is dry, whether wine is hot, whether fish blood is cold, whether water is rawer than wine, whether gold is more perfect than quicksilver, whether plants and animals have souls, and a million other indeterminate questions, they will answer imprudently, without consulting anything other than the impressions that these objects have made on their senses, or what their reading has left in their memory. They will not see that these terms are equivocal; they will find it strange that one wants to define them, and they will become impatient if one tries to make them know that they are going a little too fast and that their senses are deceiving them. They will not lack distinctions to confuse the most evident things, and in these questions, where it is so necessary to remove the equivocation, they find nothing to distinguish. If one considers that most of the questions of philosophers and physicians contain some equivocal terms similar to those of which we speak, one cannot doubt that these scholars, who could not define them, could not either have said anything solid in the large volumes they have composed, and what I have just said suffices to overturn almost all the opinions of the ancients. It is not the same with M. Descartes: he knew perfectly how to distinguish these things; he does not resolve questions by sensible ideas, and, if one takes the trouble to read him, one will see that he explains in a clear, evident and often demonstrative manner, by the only distinct ideas of extension, figure and movement, the principal effects of nature.
+
+The other kind of equivocal terms that philosophers use includes all those general terms of logic by which it is easy to explain all things without having any knowledge of them. Aristotle is the one who has made the most use of them: all his books are full of them, and there are some that are nothing but pure logic. He proposes and resolves all things by these fine words of genus, species, act, potency, nature, form, faculties, qualities, cause per se, cause by accident. His followers have difficulty understanding that these words mean nothing, and that one is no more learned than one was before when one has heard them say that fire dissolves metals because it has the faculty of dissolving, and that a man does not digest because he has a weak stomach or because his concoctive faculty does not properly perform its functions.
+
+It is true that those who use only these terms and these general ideas to explain all things do not ordinarily fall into as great a number of errors as those who use only terms that awaken only the confused ideas of the senses. Scholastic philosophers are not as subject to error as certain decisive physicians, who dogmatize and make systems on some experiments whose reasons they do not know, because scholastics speak so generally that they do not venture much. Fire heats, dries, hardens and softens, because it has the faculty of producing these effects. Senna purges by its purgative quality; even bread nourishes, if one wishes, by its nutritive quality: these propositions are not subject to error. A quality is what makes one call a thing by such a name; one cannot deny this to Aristotle; for finally this definition is incontestable. Such or similar manners of speaking are not false, but it is that in effect they mean nothing. These vague and indeterminate ideas do not lead to error, but they are entirely useless for the discovery of truth. For, even if one knows that there is in fire a substantial form, accompanied by a million faculties similar to those of heating, dilating, melting gold, silver and all metals; of lighting, burning, cooking; if one proposed to me this difficulty to resolve, namely whether fire can harden mud and soften wax, the ideas of substantial forms and of faculties of producing heat, rarefaction, fluidity, etc., would serve me nothing to discover whether fire would be capable of hardening mud and softening wax, there being no connection between the ideas of hardness of mud and softness of wax and those of substantial form of fire and qualities of producing rarefaction, fluidity, etc. It is the same with all general ideas. Thus they are entirely useless for resolving any question.
+
+But if one knows that fire is nothing other than wood whose all parts are in continual agitation, and that it is only by this agitation that it excites in us the feeling of heat; if one knows at the same time that the softness of mud consists only in a mixture of earth and water: as these ideas are not confused and general but distinct and particular, it will not be difficult to see that the heat of fire must harden mud; because there is nothing easier to conceive than that one body can move another, if being agitated it encounters it. One sees without difficulty that, since the heat that one feels near the fire is caused by the movement of the invisible parts of wood that strike against the hands; if one exposes mud to the heat of fire, the parts of water that are joined to the earth, being more delicate and consequently more readily agitated by the shock of the small bodies that come out of fire than the coarse parts of earth, must separate from it and leave it dry and hard. One will likewise see evidently that fire should not harden wax, if one knows that the parts that compose it are branched and of roughly the same size. Thus, particular ideas are useful for the search for truth; and not only can vague and indeterminate ideas not serve anything for it; but on the contrary they insensibly lead one into error.
+
+For philosophers are not content with using general terms and vague ideas that correspond to them; they want, besides, that these terms signify certain particular beings. They claim that there is some substance, distinguished from matter, which is the form of matter, and an infinity of small beings really distinguished from matter and form; and they ordinarily suppose as many of them as they have different sensations of bodies and as they think these bodies produce different effects.
+
+However, it is visible to any man capable of some attention that all these small beings distinguished from fire, for example, and supposed to be contained in it to produce heat, light, hardness, fluidity, etc., are only fictions of the imagination which rebels against reason; for reason has no particular idea that represents these small beings. If one asks philosophers what sort of entity is the faculty that fire has of lighting, they will answer nothing other than that it is a being that is the cause that fire is capable of producing light. So that the idea they have of this faculty of lighting is not different from the general idea of cause and the confused idea of the effect they see. They therefore have no clear idea of what they say, when they admit these particular beings. Thus, they say what they do not even conceive, and what it is even impossible to conceive.

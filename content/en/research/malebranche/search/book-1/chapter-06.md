@@ -1,6 +1,12 @@
-
-
-CHAPITRE VI.
+---
+heading: Chapter 6
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 I. Des erreurs de la vue à l’égard de l’étendue en soi. — II. Suite de ces erreurs sur des
 objets invisibles. — III. Des erreurs de nos yeux touchant l’étendue considérée

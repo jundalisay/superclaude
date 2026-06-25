@@ -1,8 +1,19 @@
-CHAPITRE XII.
+---
+heading: Chapter 12
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
 
 Que les passions qui ont le mal pour objet sont les plus dangereuses et les plus injustes,
 et que celles quisont le moins accompagnées de connaissance sont les plus vives et les
 plus sensibles.
+
+
 De toutes les passions, celles dont les jugements sont les plus
 éloignés de la raison et les plus à craindre, sont toutes les
 espèces d’aversions, il n’y a point de passions qui corrompent
@@ -15,6 +26,8 @@ haine et la crainte conspirent ensemble à corrompre la raison, ce
 qui est fort ordinaire, alors il n’y a point de jugements si injustes
 et si bizarres qu’on ne soit capable de former et de soutenir avec
 une opiniâtreté insurmontable.
+
+
 La raison de ceci est que les maux de cette vie touchent plus
 vivement l’âme que les biens. Le sentiment de douleur est plus
 vif que le sentiment du plaisir. Les injures et les opprobres sont
@@ -23,14 +36,16 @@ applaudissements ; et si l’on trouve des gens assez indifférents
 pour goûter de certains plaisirs et pour recevoir de certains
 honneurs, il est difficile d’en trouver qui souffrent la douleur et le
 mépris sans inquiétude.
+
+
 Ainsi la haine, la crainte et les autres espèces d’aversions qui
 ont le mal pour objet sont des passions très-violentes. Elles
 donnent à l’esprit des secousses imprévues qui l’étourdissent et
 qui le troublent ; elles pénètrent bientôt jusque dans le plus secret
-de l’âme, et renversant la raison de son siège, elles prononcent
-701
-sur toutes sortes de sujets des jugements d’erreur et d’iniquité
+de l’âme, et renversant la raison de son siège, elles prononcent sur toutes sortes de sujets des jugements d’erreur et d’iniquité
 pour favoriser leur folie et leur tyrannie.
+
+
 De toutes les passions ce sont les plus cruelles et les plus
 défiantes, les plus contraires à la charité et à la société civile, et
 en même temps les plus ridicules et les plus extravagantes, car
@@ -46,8 +61,7 @@ ruineront noire ville et notre nation. Ils tombaient d’accord que
 Jésus-Christ faisait plusieurs miracles. la résurrection de Lazare
 était incontestable. Quel était cependant le jugement de leurs
 passions ? De faire mourir Jésus-Christ et Lazare même qu’il
-avait ressuscité. Mais pour quelle raison faire mourir JésusChrist ? parce que si nous le laissons continuer, tout le monde
-croira en lui, les Romains viendront et ruineront notre ville et
+avait ressuscité. Mais pour quelle raison faire mourir JésusChrist ? parce que si nous le laissons continuer, tout le monde croira en lui, les Romains viendront et ruineront notre ville et
 notre nation. Et pourquoi vouloir donner la mort à Lazare ?
 Parce que plusieurs Juifs se retiraient d’avec eux à cause de
 lui, et croyaient en Jésus
@@ -60,9 +74,7 @@ composée d’Anne le grand-prêtre, de Caïphe, Jean, Alexandre, et
 de tous ceux qui étaient de la race sacerdotale : Que ferons-nous
 à ces gens-ci ? car ils ont fait un miracle qui est connu de toute
 la ville, nous ne pouvons pas le nier. Mais afin que cela ne se
-répande pas davantage parmi le peuple. menaçons-les de les
-702
-punir s’ils continuent d’enseigner au nom Je Jésus
+répande pas davantage parmi le peuple. menaçons-les de les punir s’ils continuent d’enseigner au nom Je Jésus
 [16]
 .
 Tous ces grands hommes prononcent un jugement injuste et
@@ -90,13 +102,13 @@ inspirations secrètes de leur haine comme des inspirations de la
 vérité intérieure ; et s’arrêtant avec plaisir aux preuves de
 sentiment qui justifient leur excès, ils se confirment dans leurs
 erreurs avec une opiniâtreté insurmontable.
+
+
 Pour les ignorants et les esprits faibles, ils se font des sujets
 de crainte imaginaires et ridicules. Ils ressemblent aux enfants
 qui marchent dans les ténèbres sans guide et sans flambeau ; ils
 se figurent des spectres épouvantables, ils se troublent et se
-récrient comme si tout était perdu. La lumière les rassure s’ils
-703
-sont ignorants ; mais si ce sont des esprits faibles, leur
+récrient comme si tout était perdu. La lumière les rassure s’ils sont ignorants ; mais si ce sont des esprits faibles, leur
 imagination en demeure toujours blessée. La moindre chose qui a
 quelque rapport à ce qui les a effrayés renouvelle les traces et le
 cours des esprits qui causent le symptôme de leur crainte. Il est
@@ -110,6 +122,7 @@ passions, il faut un plus grand miracle que celui qui convertit
 saint Paul, et sa guérison serait absolument impossible si l’on
 pouvait donner des bornes à la puissance et à la miséricorde de
 Dieu.
+
 Ceux qui marchent dans l’obscurité se réjouissent à la vue de
 la lumière ; celui-ci ne la peut souffrir. Elle le blesse, car elle
 résiste à sa passion. Sa crainte étant en quelque façon volontaire
@@ -124,9 +137,7 @@ vérité. Elle ne peut pas facilement percer les ténèbres de son
 esprit, elle ne fait qu’irriter son imagination ; de sorte que,
 comme il s’applique uniquement à l’objet de sa passion, la
 lumière se réfléchit, et il semble que ces fantômes aient un corps
-véritable à cause qu’ils repoussent quelques faibles rayons de la
-704
-lumière qui les frappe.
+véritable à cause qu’ils repoussent quelques faibles rayons de la lumière qui les frappe.
 Mais quand on supposerait dans ces esprits assez de docilité et
 de réflexion pour écouter et pour comprendre des raisons
 capables de dissiper leurs erreurs, leur imagination étant
@@ -150,16 +161,17 @@ quelque mal, doivent subsister long-temps. Ces passions sont
 donc les plus durables, les plus violentes, les plus injustes, mais
 elles ne sont pas les plus vives et les plus sensibles, comme on le
 va faire voir.
+
 La perception du bien et du mal, laquelle excite les passions,
 se fait en trois manières : par les sens, par imagination et par
 l’esprit. La perception du bien et du mal par les sens, ou le
-sentiment du bien et du mal produit des passions très-promptes et
-705
-très-sensibles. La perception du bien et du mal par la seule
+sentiment du bien et du mal produit des passions très-promptes et très-sensibles. La perception du bien et du mal par la seule
 imagination en excite de bien plus faibles ; et la vue du bien et du
 mal par l’esprit seul n’en produit de véritables, que parce que
 cette vue du bien et du mal par l’esprit est toujours accompagnée
 de quelque mouvement des esprits animaux.
+
+
 Les passions ne nous sont données que pour le bien du corps,
 et que pour nous unir par le corps à tous les objets sensibles ; car
 encore que les choses sensibles ne puissent être ni bonnes ni
@@ -173,6 +185,8 @@ connaissances sont toujours accompagnées de quelque
 mouvement d’esprit, une connaissance claire et évidente d’un
 grand bien et d’un grand mal que les sens ne découvrent pas
 excite toujours quelque passion secrète.
+
+
 Cependant toutes nos connaissances claires et évidentes du
 bien et du mal ne sont pas suivies de quelque passion sensible et
 dont on s’aperçoive, de même que toutes nos passions ne sont
@@ -183,9 +197,7 @@ et même quelquefois sans en sentir la cause. Un homme qui
 respire un bon air se sent ému de joie sans en savoir la cause, il
 ne connait pas le bien qu’il possède, qui produit cette joie ; et
 s’il y a quelque corps invisible qui, se mêlant dans le sang en
-empêche la fermentation, il se trouvera triste, et pourra même
-706
-attribuer la cause de sa tristesse à quelque chose de visible qui
+empêche la fermentation, il se trouvera triste, et pourra même attribuer la cause de sa tristesse à quelque chose de visible qui
 se présentera devant lui dans le temps de sa passion.
 De toutes les passions, il n’y en a point qui soient plus
 sensibles ni plus promptes, et qui par conséquent soient le moins

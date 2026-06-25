@@ -1,7 +1,14 @@
+---
+heading: Chapter 11
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-
-CHAPITRE XI.
 
 I. De l’erreur où l’on tombe touchant l’action des objets contre les fibres extérieures de
 nos sens. — II. Cause de cette erreur. — III. Objection et réponse.

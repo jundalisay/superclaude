@@ -1,6 +1,13 @@
+---
+heading: Chapter 4
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE IV.
 
 I. Du changement des esprits causé par les nerfs qui vont au cœur et aux poumons. —
 176

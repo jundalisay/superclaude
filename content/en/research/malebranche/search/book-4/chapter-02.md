@@ -1,4 +1,14 @@
-CHAPITRE II.
+---
+heading: Chapter 2
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 I. L’inclination pour le bien en général est le principe de d’inquiétude de notre volonté.
 — II. Et par conséquent de notre peu d’application et de notre ignorance. — III.
