@@ -1,301 +1,73 @@
+---
+heading: Chapter 5
+title: "The Senses"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+date: 2026-06-20
+---
 
 
-CHAPITRE V. Des sens.
 
-I. Deux manières d’expliquer comment nos sens sont corrompus par le péché. — II.
-54
-Que ce ne sont pas nos sens, mais notre liberté qui est la véritable cause de nos
-erreurs. — III. Règle pour ne se point tromper dans l’usage de ses sens.
+When one attentively considers the senses and passions of man, one finds them so well proportioned to the end for which they are given to us that one cannot enter into the thought of those who say they are entirely corrupted by original sin. But, in order that one may recognize whether it is with reason that one does not yield to their opinion, it is necessary to explain in what manner one can conceive the order that existed in the faculties and passions of our first father during his original justice, and the changes and disorders that occurred there after his sin. These things can be conceived in two ways, of which here is the first.
 
-Quand on considère avec attention les sens et les passions de
-l’homme, on les trouve si bien proportionnés avec la fin pour
-laquelle ils nous sont donnés, qu’on ne peut entrer dans la pensée
-de ceux qui disent qu’ils sont entièrement corrompus par le péché
-originel. Mais, afin que l’on reconnaisse si c’est avec raison que
-l’on ne se rend pas à leur sentiment, il est nécessaire d’expliquer
-de quelle manière on peut concevoir l’ordre qui se trouvait dans
-les facultés et dans les passions de notre premier père pendant sa
-justice originelle, et les changements et les désordres qui y sont
-arrivés après son péché. Ces choses se peuvent concevoir en
-deux manières, dont voici la première.
+### Two ways to explain how our senses are corrupted by sin.
 
-I. Il semble que c’est une notion commune, qu’afin que les
-choses soient bien ordonnées, l’âme doit sentir de plus grands
-plaisirs à proportion de la grandeur des biens dont elle jouit. Le
-plaisir est un instinct de la nature, ou, pour parler plus
-clairement, c’est une impression de Dieu même qui nous incline
-vers quelque bien, laquelle doit être d’autant plus forte que ce
-bien est plus grand. Selon ce principe, il semble qu’on ne puisse
-douter que notre premier père, avant son péché et sortant des
-mains de Dien, ne trouvât plus de plaisir dans les biens les plus
-solides que dans les autres. Ainsi, puisque Dieu l’avait créé pour
-l’aimer, et que Dieu était son vrai bien, on peut dire que Dieu se
-faisait goûter à lui, qu’il le portait à son amour par un sentiment
-de plaisir, et qu’il lui donnait des satisfactions intérieures dans
-son devoir qui contre-balançaient les plus grands plaisirs des
-sens, lesquelles, depuis le péché, les hommes ne ressentent plus
-sans une grâce particulière.
+It seems to be a common notion that, in order for things to be well ordered, the soul must feel greater pleasures in proportion to the greatness of the goods it enjoys. 
 
-Cependant, comme il avait un corps que Dieu voulait qu’il
-conservât et qu’il regardât comme une partie de lui-même, il lui
-faisait aussi sentir par les sens des plaisirs semblables à ceux
-que nous ressentons dans l’usage des choses qui sont propres
-pour la conservation de la vie.
+Pleasure is an instinct of nature, or, to speak more clearly, it is an impression of God Himself that inclines us toward some good, which must be all the stronger as that good is greater. According to this principle, it seems one cannot doubt that our first father, before his sin and coming from the hands of God, did not find more pleasure in the most solid goods than in others. Thus, since God had created him to love Him, and God was his true good, one can say that God made Himself tasted by him, that He bore him to His love by a feeling of pleasure, and that He gave him interior satisfactions in his duty that counterbalanced the greatest pleasures of the senses — satisfactions which, since the sin, men no longer feel without a particular grace.
 
-On n’ose pas décider si le premier homme, avant sa chute,
-pouvait s’empêcher d’avoir des sensations agréables ou
-désagréables dans le moment que la partie principale de son
-cerveau était ébranlée par l’usage actuel des choses sensibles.
-Peut-être avait-il cet empire sur soi-même, à cause de sa
-soumission à Dieu, quoiqu’il paraisse plus vraisemblable de
-penser le contraire ; car, encore qu’Adam pût arrêter les
-émotions des esprits et du sang, et les ébranlements du cerveau
-que les objets excitaient en lui, à cause qu’étant dans l’ordre, il
-fallait que son corps fût soumis à son esprit, cependant il n’est
-pas vraisemblable qu’il eût pu s’empêcher d’avoir les sensations
-des objets dans le temps qu’il n’eût point arrêté les mouvements
-qu’ils produisaient dans la partie de son corps à laquelle son âme
-était immédiatement unie ; car l’union de l’âme et du corps
-consistant principalement dans un rapport mutuel des sentiments
-avec les mouvements des organes, il semble qu’elle eût été plutôt
-arbitraire que naturelle si Adam eût pu ne rien sentir lorsque la
-principale partie de son corps recevait quelque impression de
-ceux qui l’environnaient. Je ne prends toutefois aucun parti sur
-ces deux opinions.
-Le premier homme ressentait donc du plaisir dans ce qui
-perfectionnait son corps comme il en sentait dans ce qui
-perfectionnait son âme ; et, parce qu’il était dans un état parfait,
-il éprouvait celui de l’âme beaucoup plus grand que celui du
-56
-corps. Ainsi il lui était infiniment plus facile de conserver sa
-justice qu’à nous sans la grâce de Jésus-Christ, puisque sans elle
-nous ne trouvons plus du plaisir dans notre devoir. Il s’est
-toutefois laissé malheureusement séduire ; il a perdu cette justice
-par sa désobéissance
-[6]
-. Ainsi le principal changement qui lui est
-arrivé, et qui cause tout le désordre des sens et des passions,
-c’est que, par une juste punition, Dieu s’est retiré de lui et qu’il
-n’a plus voulu être son bien, ou plutôt qu’il ne lui a plus fait
-sentir ce plaisir qui lui marquait qu’il était son bien ; de sorte que
-les plaisirs sensibles qui ne portent qu’aux biens du corps étant
-demeurés seuls, et n’étant plus contre-balancés par ceux qui le
-portaient auparavant à son véritable bien, l’union étroite qu’il
-avait avec Dieu s’est étrangement affaiblie, et celle qu’il avait
-avec son corps s’est beaucoup augmentée. Le plaisir sensible,
-étant le maître, a corrompu son cœur en l’attachant a tous les
-objets sensibles, et la corruption de son cœur a obscurci son
-esprit en le détournant de la lumière qui l’éclaire et le portant à
-ne juger de toutes choses que selon le rapport qu’elles peuvent
-avoir avec le corps.
+However, since he had a body that God wished him to preserve and to regard as a part of himself, He also made him feel through the senses pleasures similar to those we feel in the use of things that are proper for the preservation of life.
 
-Mais, dans le fond, on ne peut pas dire que le changement soit
-fort grand du côté des sens ; car, de même que si deux poids étant
-en équilibre dans une balance, je venais à en ôter quelqu’un,
-l’autre la ferait trébucher de son côté sans aucun changement de
-la part du premier poids, puisqu’il demeure toujours le même,
-ainsi, depuis le péché, les plaisirs des sens ont abaissé l’âme
-vers les choses sensibles par le défaut de ces délectations
-intérieures qui contre-balançaient avant le péché l’inclination que
-nous avons pour les biens du corps, mais sans un changement
-aussi considérable de la part des sens qu’on se l’imagine
-ordinairement.
+One does not dare to decide whether the first man, before his fall, could prevent himself from having agreeable or disagreeable sensations at the moment when the principal part of his brain was shaken by the actual use of sensible things. Perhaps he had this empire over himself, because of his submission to God, although it appears more probable to think the contrary; for, although Adam could stop the emotions of the spirits and of the blood, and the vibrations of the brain that objects excited in him, because, being in order, his body had to be subject to his mind, nevertheless it is not probable that he could have prevented himself from having sensations of objects at the time when he had not stopped the movements they produced in the part of his body to which his soul was immediately united; for the union of the soul and body consisting principally in a mutual relation of feelings with the movements of the organs, it seems that it would have been rather arbitrary than natural if Adam could have felt nothing when the principal part of his body received some impression from those who surrounded him. I do not, however, take any side on these two opinions.
 
-Voici la seconde manière d’expliquer les désordres du péché,
-laquelle est certainement plus raisonnable que celle que nous
-venons de dire. Elle en est beaucoup différente, parce que le
-principe en est différent, mais cependant ces deux manières
-s’accordent parfaitement pour ce qui regarde les sens.
-Étant composés d’un esprit et d’un corps, nous avons deux
-sortes de biens à rechercher, ceux de l’esprit et ceux du corps.
-Nous avons aussi deux moyens de reconnaître qu’une chose nous
-est bonne ou mauvaise : nous pouvons le reconnaître par l’usage
-de l’esprit seul et par l’usage de l’esprit joint au corps ; nous
-pouvons reconnaître notre bien par une connaissance claire et
-évidente ; nous le pouvons aussi reconnaître par un sentiment
-confus. Je reconnais par la raison que la justice est aimable ; je
-sais aussi par le goût qu’un tel fruit est bon. La beauté de la
-justice ne se sent pas ; la bonté d’un fruit ne se connait pas. Les
-biens du corps ne méritent pas l’application d’un esprit que Dieu
-n’a fait que pour lui. Il faut donc que l’esprit reconnaisse de tels
-biens sans examen et par la preuve courte et incontestable du
-sentiment. Les pierres ne sont pas propres à la nourriture : la
-preuve en est convaincante, et le seul goût en a fait tomber
-d’accord tous les hommes.
+The first man therefore felt pleasure in what perfected his body just as he felt it in what perfected his soul; and, because he was in a perfect state, he experienced that of the soul much greater than that of the body. Thus it was infinitely easier for him to preserve his justice than for us without the grace of Jesus Christ, since without it we no longer find pleasure in our duty. He nevertheless let himself be unhappily seduced; he lost this justice by his disobedience. Thus the principal change that happened to him, and that causes all the disorder of the senses and passions, is that, by a just punishment, God withdrew from him and no longer wished to be his good, or rather He no longer made him feel that pleasure that indicated to him that He was his good; so that the sensible pleasures, which lead only to the goods of the body, having remained alone, and no longer being counterbalanced by those that previously led him to his true good, the close union he had with God was strangely weakened, and that which he had with his body was greatly increased. Sensible pleasure, being the master, corrupted his heart by attaching it to all sensible objects, and the corruption of his heart obscured his mind by turning it away from the light that enlightens it and leading it to judge all things only according to the relation they can have with the body.
 
-Le plaisir et la douleur sont donc les caractères naturels et
-incontestables du bien et du mal, je l’avoue ; mais ce n’est que
-pour ces choses-là seulement, qui, ne pouvant être par ellesmêmes ni bonnes ni mauvaises, ne peuvent aussi être reconnues
-pour telles par une connaissance claire et évidente ; ce n’est que
-pour ces choses-là seulement, qui, étant au-dessous de l’esprit,
-ne peuvent ni le récompenser ni le punir. Enfin ce n’est que pour
-ces choses-là seulement, qui ne méritent pas que l’esprit s’occupe d’elles ; et desquelles Dieu ne voulant pas que l’on
-s’occupe, il ne nous porte à elles que par instinct, c’est-à-dire
-par des sentiments agréables ou désagréables.
+But at bottom, one cannot say that the change is very great on the side of the senses; for, just as if, two weights being in equilibrium in a balance, I were to remove one, the other would tip it to its side without any change on the part of the first weight, since it remains always the same, so, since sin, the pleasures of the senses have lowered the soul toward sensible things by the lack of those interior delights that counterbalanced before sin the inclination we have for the goods of the body, but without as considerable a change on the part of the senses as one ordinarily imagines.
 
-Mais pour Dieu, qui seul est le vrai bien de l’esprit, qui seul
-est au-dessus de lui, qui seul peut le récompenser en mille façons
-différentes, qui seul est digne de son application, et qui ne craint
-point que ceux qui le connaissent ne le trouvent point aimable, il
-ne se contente pas d’être aimé d’un amour aveugle et d’un amour
-d’instinct, il veut être aimé d’un amour éclairé et d’un amour de
-choíx.
+Here is the second way of explaining the disorders of sin, which is certainly more reasonable than the one we have just stated. It is quite different from it, because the principle is different, but nevertheless these two ways agree perfectly with regard to the senses.
 
-Si l’esprit ne voyait dans les corps que ce qui y est
-véritablement, sans y sentir ce qui n’y est pas, il ne pourrait les
-aimer ni s’en servir qu’avec beaucoup de peine. Ainsi il est
-comme nécessaire qu’ils paraissent agréables en causant des
-sentiments qu’ils n’ont pas. Mais il n’en est pas de même de
-Dieu : il suffit qu’on le voie tel qu’il est afin qu’on se porte à
-l’aimer, et il n’est point nécessaire qu’il se serve de cet instinct
-de plaisir comme d’une espèce d’artifice pour s’attirer de
-l’amour sans le mériter.
+Being composed of a mind and a body, we have two kinds of goods to seek: those of the mind and those of the body. We also have two means of recognizing that a thing is good or bad for us: we can recognize it by the use of the mind alone and by the use of the mind joined to the body; we can recognize our good by a clear and evident knowledge; we can also recognize it by a confused feeling. I recognize by reason that justice is lovable; I also know by taste that such a fruit is good. The beauty of justice is not felt; the goodness of a fruit is not known. The goods of the body do not deserve the application of a mind that God made only for Himself. The mind must therefore recognize such goods without examination and by the short and incontestable proof of feeling. Stones are not suitable for nourishment: the proof is convincing, and taste alone has made all men agree on it.
 
-Les choses étant ainsi, on doit dire qu’Adam n’était point porté
-à l’amour de Dieu et aux choses de son devoir par un plaisir
-prévenant, parce que la connaissance qu’il avait de Dieu
-comme de son bien, et la joie qu’il ressentait sans cesse comme
-une suite nécessaire de la vue de son bonheur en s’unissant à
-Dieu, pouvait suffire pour l’attacher à son devoir et pour le faire
-agir avec plus de mérite que s’il eût été comme déterminé par un
-plaisir prévenant. Il était de cette sorte en une pleine liberté ; et
-c’est peut-être dans cet état que l’Écriture sainte nous le veut
-représenter par ces paroles : Dieu a fait l’homme dés le commencement, et, après lui avoir proposé ses
-commandements, il l’a laissé à lui-même, c’est-à-dire sans le
-déterminer par le goût de quelque plaisir prévenant, le tenant
-seulement attaché à lui par la vue claire de son bien et de son
-devoir. Mais l’expérience a fait voir, à la honte du libre arbitre et
-à la gloire de Dieu seul, la fragilité dont Adam était capable dans
-un état aussi réglé et aussi heureux que celui où il était avant son
-péché.
+Pleasure and pain are therefore the natural and incontestable characters of good and evil, I admit; but it is only for those things alone which, not being able by themselves to be either good or bad, also cannot be recognized as such by a clear and evident knowledge; it is only for those things alone which, being beneath the mind, can neither reward nor punish it. Finally, it is only for those things alone which do not deserve that the mind occupy itself with them; and, since God does not wish us to occupy ourselves with them, He leads us to them only by instinct, that is to say, by agreeable or disagreeable feelings.
 
-Mais on ne peut pas dire qu’Adam se portait à la recherche et
-à l’usage des choses sensibles par une connaissance exacte du
-rapport qu’elles pouvaient avoir avec son corps. Car enfin, s’il
-avait fallu qu’il eût examiné les configurations des parties de
-quelque fruit, celles de toutes les parties de son corps et le
-rapport qui résultait des unes avec les autres pour juger si dans la
-chaleur présente de son sang et dans mille autres dispositions de
-son corps ce fruit eût été bon pour sa nourriture, il est visible que
-des choses qui étaient indignes de l’application de son esprit en
-eussent entièrement rempli la capacité, et cela même assez
-inutilement, parce qu’il ne se fût pas conservé long-temps par
-cette seule voie.
+But for God, who alone is the true good of the mind, who alone is above it, who alone can reward it in a thousand different ways, who alone is worthy of its application, and who does not fear that those who know Him will not find Him lovable, He is not content to be loved with a blind love and a love of instinct; He wishes to be loved with an enlightened love and a love of choice.
 
-Si l’on considère donc que l’esprit d’Adam n’était pas infini,
-l’on ne trouvera pas mauvais que nous disions qu’il ne
-connaissait pas toutes les propriétés des corps qui
-l’environnaient, puisqu’il est constant que ces propriétés sont
-infinies ; et si l’on accorde, ce qui ne peut se nier avec quelque
-attention, que son esprit n’était pas fait pour examiner les
-mouvements et les configurations de la matière, mais pour être
-continuellement appliqué à Dieu, l’on ne pourra pas trouver à
-redire si nous assurons que c’eùt été un désordre et un
-dérèglement, dans un temps où toutes choses devaient être
-parfaitement bien ordonnées, s’il eût été obligé de se détourner
-l’esprit de la vue des perfections de son vrai bien pour examiner
-la nature de quelque fruit afin de s’en nourrir.
+If the mind saw in bodies only what is truly there, without feeling in them what is not, it could neither love them nor make use of them except with much difficulty. Thus it is as if necessary that they appear agreeable by causing feelings that they do not have. But it is not the same with God: it suffices that one sees Him as He is in order to be moved to love Him, and it is not necessary that He use this instinct of pleasure as a kind of artifice to attract love without deserving it.
 
-Adam avait donc les mêmes sens que nous, par lesquels il était
-averti, sans être détourné de Dieu, de ce qu’il devait faire pour
-son corps. Il sentait, comme nous, des plaisirs, et même des
-douleurs ou des dégoùts prévenants et indélibérés. Mais ces
-plaisirs et ces douleurs ne pouvaient le rendre esclave ni
-malheureux comme nous, parce qu’étant maître absolu des
-mouvements qui s’excitaient dans son corps, il les arrêtait
-incontinent, après qu’ils l’avaient averti, s’il le souhaitait ainsi ;
-et, sans doute, il le souhaitait toujours a l’égard de la douleur.
-Heureux, et nous aussi, s’il eût fait la même chose à l’égard du
-plaisir, et s’il ne se fût point distrait volontairement de la
-présence de son Dieu, en laissant remplir la capacité de son
-esprit de la beauté et de la douceur espérée du fruit défendu, ou
-peut-être d’une joie présomptueuse excitée dans son âme à la vue
-de ses perfections naturelles, ou enfin d’une tendresse naturelle
-pour sa femme et d’une crainte déréglée de la contrister, car,
-apparemment, tout cela a contribué à sa désobéissance.
-Mais après qu’il eut péché, ces plaisirs qui ne faisaient que
-l’avertir avec respect, et ces douleurs qui sans troubler sa félicite
-lui faisaient seulement connaître qu’il pouvait la perdre et
-devenir malheureux, n’eurent plus pour lui les mêmes égards ; ses
-sens et ses passions se révoltèrent contre lui, ils n’obéirent plus à
-ses ordres, et ils le rendirent, comme nous, esclave de toutes les
-choses sensibles.
+Things being so, one must say that Adam was not led to the love of God and to the things of his duty by a prevenient pleasure, because the knowledge he had of God as his good, and the joy he felt unceasingly as a necessary consequence of the sight of his happiness in uniting himself to God, could suffice to attach him to his duty and to make him act with more merit than if he had been, as it were, determined by a prevenient pleasure. He was in this way in full freedom; and it is perhaps in this state that Holy Scripture wishes to represent him to us by these words: *God made man from the beginning, and, after having proposed His commandments to him, He left him to himself* — that is to say, without determining him by the taste of any prevenient pleasure, holding him only attached to Himself by the clear sight of his good and his duty. But experience has shown, to the shame of free will and to the glory of God alone, the fragility of which Adam was capable in a state as orderly and as happy as the one in which he was before his sin.
 
-Ainsi les sens et les passions ne firent point leur naissance du
-péché, mais seulement cette puissance qu’ils ont de tyranniser
-des pécheurs ; et cette puissance n’est pas tant un désordre du
-côté des sens que de celui de l’esprit et de la volonté des
-hommes, qui, n’étant plus si étroitement unis à Dieu, ne reçoivent
-plus de lui cette lumière et cette force par laquelle ils
-conservaient leur liberté et leur bonheur.
-On doit conclure en passant de ces deux manières, selon
-lesquelles nous venons d’expliquer les désordres du péché, qu’il
-y a deux choses nécessaires pour nous rétablir dans l’ordre.
-La première est qu’il faut ôter de ce poids qui nous fait
-pencher et qui nous entraîne vers les biens sensibles en
-retranchant continuellement de nos plaisirs et en mortifiant la
-sensibilité de nos sens par la pénitence, et par la circoncision du
-cœur.
+But one cannot say that Adam was led to the search and use of sensible things by an exact knowledge of the relation they could have with his body. For, finally, if he had had to examine the configurations of the parts of some fruit, those of all the parts of his body, and the relation that resulted from the one with the other, in order to judge whether, in the present heat of his blood and in a thousand other dispositions of his body, this fruit would have been good for his nourishment, it is clear that things that were unworthy of the application of his mind would have entirely filled its capacity, and that even quite uselessly, because he would not have preserved himself long by this sole means.
 
-La seconde est qu’il faut demander à Dieu le poids de sa grâce
-et cette délectation prévenante
-[9] que Jésus-Christ nous a
-particulièrement méritée, sans laquelle nous avons beau
-retrancher de ce premier poids, il pesera toujours ; et si peu qu’il
-pèse, il nous entraînera infailliblement dans le péché et dans le
-désordre.
+If one considers, therefore, that Adam's mind was not infinite, one will not find it wrong that we say he did not know all the properties of the bodies that surrounded him, since it is certain that these properties are infinite; and if one grants, what cannot be denied with any attention, that his mind was not made to examine the movements and configurations of matter, but to be continually applied to God, one will not be able to find fault if we assert that it would have been a disorder and a derangement — at a time when all things had to be perfectly well ordered — if he had been obliged to turn his mind away from the sight of the perfections of his true good to examine the nature of some fruit in order to nourish himself.
 
-Ces deux choses sont absolument nécessaires pour rentrer et
-pour persévérer dans notre devoir. La raison, comme l’on voit,
-s’accorde parfaitement avec l’Évangile, et l’un et l’autre nous
-apprennent que la privation, l’abnégation, la diminution du poids
-du péché sont des préparations nécessaires, afin que le poids de
-la grâce nous redresse et nous attache à Dieu.
-Mais, quoique dans l’état où nous sommes il y ait obligation de
-combattre continuellement contre nos sens, on n’en doit pas
-conclure qu’ils soient absolument corrompus et mal réglés ; car si l’on considère qu’ils nous sont donnés pour la conservation de
-notre corps, on trouvera qu’ils s’acquittent admirablement bien
-de leur devoir, et qu’ils nous conduisent d’une manière si juste et
-si fidèle à leur fin, qu’il semble que c’est à tort qu’on les accuse
-de corruption et de dérèglement ; il s’avertissent si promptement
-l’âme par la douleur et par le plaisir, par les goûts agréables et
-désagréables, et par les autres sensations, de ce qu’elle doit faire
-ou ne faire pas pour la conservation de la vie, qu’on ne peut pas
-dire avec raison que cet ordre et cette exactitude soient une suite
-du péché.
+Adam therefore had the same senses as we, by which he was warned, without being turned away from God, of what he had to do for his body. He felt, like us, pleasures, and even pains or repugnances, prevenient and undeliberated. But these pleasures and pains could not make him a slave or unhappy like us, because, being absolute master of the movements that were excited in his body, he stopped them at once, after they had warned him, if he wished it; and, without doubt, he always wished it with regard to pain. Happy, and we too, if he had done the same with regard to pleasure, and if he had not voluntarily distracted himself from the presence of his God, by allowing the capacity of his mind to be filled with the beauty and hoped-for sweetness of the forbidden fruit, or perhaps with a presumptuous joy excited in his soul at the sight of his natural perfections, or finally with a natural tenderness for his wife and a disordered fear of grieving her, for apparently all this contributed to his disobedience.
 
-II. Nos sens ne sont donc pas si corrompus qu’on s’imagine ;
-mais c’est le plus intérieur de notre âme, c’est notre liberté qui
-est corrompue. Ce ne sont pas nos sens qui nous trompent, mais
-c’est notre volonté qui nous trompe par ses jugements précipités.
-Quand on voit, par exemple, de la lumière, il est très-certain que
-l’on voit de la lumière ; quand on sent de la chaleur, on ne se
-trompe point de croire que l’on en sent, soit devant ou après le
-péché. Mais on se trompe quand on juge que la chaleur que l’on
-sent est hors de l’âme qui la sent, comme nous expliquerons dans
-la suite.
+But after he had sinned, these pleasures, which only warned him with respect, and these pains, which without troubling his happiness only made him know that he could lose it and become unhappy, no longer had the same consideration for him; his senses and passions revolted against him, they no longer obeyed his orders, and they made him, like us, a slave to all sensible things.
 
-Les sens ne nous jetteraient donc point dans l’erreur si nous
-faisions bon usage de notre liberté, et si nous ne nous servions
-point de leur rapport pour juger des choses avec trop de
-précipitation. Mais parce qu’il est très-difficile de s’en
-empêcher, et que nous y sommes quasi contraints à cause de
-l’étroite union de notre âme avec notre corps, voici de quelle
-manière nous nous devons conduire dans leur usage pour ne point
-tomber dans l’erreur.
+Thus the senses and passions were not born of sin, but only that power they have to tyrannize sinners; and this power is not so much a disorder on the side of the senses as on that of the mind and will of men, who, no longer being so closely united to God, no longer receive from Him that light and that strength by which they preserved their freedom and their happiness.
+
+One must conclude in passing, from these two ways according to which we have just explained the disorders of sin, that there are two things necessary to restore us to order.
+
+The first is that one must remove that weight which makes us incline and drags us toward sensible goods, by continually cutting back our pleasures and mortifying the sensibility of our senses through penance, and through the circumcision of the heart.
+
+The second is that one must ask God for the weight of His grace and that prevenient delight that Jesus Christ has particularly merited for us, without which we may cut back this first weight as much as we please, but it will always weigh; and however little it weighs, it will infallibly drag us into sin and disorder.
+
+These two things are absolutely necessary for re-entering and persevering in our duty. Reason, as one sees, agrees perfectly with the Gospel, and both teach us that privation, abnegation, the diminution of the weight of sin, are necessary preparations, so that the weight of grace may straighten us and attach us to God.
+
+But, although in our present state there is an obligation to fight continually against our senses, one must not conclude from it that they are absolutely corrupted and ill-regulated; for if one considers that they are given to us for the preservation of our body, one will find that they acquit themselves admirably well of their duty, and that they guide us in so just and faithful a manner toward their end that it seems it is wrongly that they are accused of corruption and disorder; they warn the soul so promptly through pain and pleasure, through agreeable and disagreeable tastes, and through other sensations, of what it must do or not do for the preservation of life, that one cannot rightly say that this order and exactness are a consequence of sin.
 
 
-III. Nous devons observer exactement cette règle de ne juger
-63
-jamais par les sens de ce que les choses sont en elles-mêmes,
-mais seulement du rapport quelles ont avec notre corps, parce
-qu’en effet ils ne nous sont point donnés pour connaître la vérité
-des choses en elles-mêmes, mais seulement pour la conservation
-de notre corps.
-Mais afin qu’on se délivre tout à fait de la facilité et de
-l’inclination que l’on a à suivre ses sens dans la recherche de la
-vérité, on va faire dans les chapitres suivants une déduction des
-principales et des plus générales erreurs où ils nous jettent, et
-l’on reconnaîtra manifestement la vérité de ce que l’on vient
-d’avancer.
+### it is not our senses, but our freedom, that is the true cause of our errors
 
+II. Our senses are therefore not so corrupted as one imagines; but it is the most inward part of our soul, it is our freedom that is corrupted. It is not our senses that deceive us, but it is our will that deceives us through its precipitate judgments. When one sees, for example, light, it is very certain that one sees light; when one feels heat, one is not mistaken in believing that one feels it, whether before or after sin. But one is mistaken when one judges that the heat one feels is outside the soul that feels it, as we will explain later.
+
+The senses would therefore not throw us into error if we made good use of our freedom, and if we did not use their report to judge things with too much precipitation. But because it is very difficult to prevent oneself from doing so, and we are almost constrained to it because of the close union of our soul with our body, here is how we ought to conduct ourselves in their use so as not to fall into error.
+
+
+### Rule for not being mistaken in the use of one's senses.
+
+We should observe this rule exactly: never to judge by the senses what things are in themselves, but only the relation they have with our body, because in fact they are not given to us to know the truth of things in themselves, but only for the preservation of our body.
+
+But in order that one may completely rid oneself of the facility and inclination one has to follow one's senses in the search for truth, we shall in the following chapters make a deduction of the principal and most general errors into which they throw us, and one will manifestly recognize the truth of what we have just advanced.

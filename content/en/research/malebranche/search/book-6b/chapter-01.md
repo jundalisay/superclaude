@@ -1,3 +1,16 @@
+---
+heading: Chapter 1
+title: "The Truth"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 30
+date: 2026-06-20
+---
+
+
+
+
 DEUXIÈME PARTIE.
 DE LA MÉTHODE
 CHAPITRE PREMIER.

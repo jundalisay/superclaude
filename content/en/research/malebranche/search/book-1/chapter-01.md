@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Semses"
+title: "The Nature and Properties of the Understanding"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,301 +10,55 @@ date: 2026-06-20
 
 
 
-De la nature et des propriétés de l’entendement. — De la nature et des propriétés de la
-volonté, et ce que c’est que la liberté.
-L’erreur est la cause de la misère des hommes ; c’est le
-mauvais principe qui a produit le mal dans le monde ; c’est elle
-qui a fait naître et qui entretient dans notre âme tous les maux qui
-nous affligent, et nous ne devons point espérer de bonheur solide
-et véritable qu’en travaillant sérieusement à l’éviter.
-L’Écriture Sainte nous apprend que les hommes ne sont
-misérables que parce qu’ils sont pécheurs et criminels ; et ils ne
-seraient ni pécheurs, ni criminels, s’ils ne se rendaient point
-esclaves du péché en consentant à l’erreur.
+## The Nature and Properties of the Will, and What Freedom Is
 
-S’il est donc vrai que l’erreur soit l’origine de la misère des
-hommes, il est bien juste que les hommes fassent effort pour s’en
-délivrer. Certainement leur effort ne sera point inutile et sans
-récompense, quoiqu’il n’ait pas tout l’effet qu’ils pourraient
-souhaiter. Si les hommes ne deviennent pas infaillibles, ils se
-tromperont beaucoup moins, et s’ils ne se délivrent pas
-entièrement de leurs maux ils en éviteront au moins quelques-uns.
-On ne doit pas en cette vie espérer une entière félicité, parce qu’ici-bas on ne doit pas prétendre à l’infaillibilité ; mais on doit
-travailler sans cesse à ne se point tromper, puisqu’on souhaite
-sans cesse de se délivrer de ses misères. En un mot, comme on
-désire avec ardeur un bonheur sans l’espérer, on doit tendre avec
-effort à l’infaillibilité sans y prétendre.
+Error is the cause of human misery; it is the evil principle that has produced evil in the world; it is what has given rise to and maintains in our souls all the ills that afflict us, and we must not hope for solid and true happiness unless we work seriously to avoid it.
 
-Il ne faut pas s’imaginer qu’il y ait beaucoup à souffrir dans la
-recherche de la vérité ; il ne faut que se rendre attentif aux idées
-claires que chacun trouve en soi-même, et suivre exactement
-quelques règles que nous donnerons dans la suite. L’exactitude
-de l’esprit n’a presque rien de pénible ; ce n’est point une
-servitude comme l’imagination la représente ; et si nous y
-trouvons d’abord quelque difficulté, nous en recevons bientôt des
-satisfactions qui nous récompensent abondamment de nos peines ;
-car enfin il n’y a qu’elle qui produise la lumière et qui nous
-découvre la vérité.
+Holy Scripture teaches us that men are miserable only because they are sinners and criminals; and they would be neither sinners nor criminals if they did not make themselves slaves to sin by consenting to error.
 
-Mais sans nous arrêter davantage à préparer l’esprit des
-lecteurs, qu’il est bien plus juste de croire assez portés d’euxmêmes à la recherche de la vérité, examinons les causes et la
-nature de nos erreurs ; et puisque la méthode qui examine les
-choses en les considérant dans leur naissance et dans leur origine
-a plus d’ordre et de lumière, et les fait connaitre plus à fond que
-les autres, tâchons de la mettre ici en usage.
-I. L’esprit de l’homme n’étant point matériel ou étendu, est
-sans doute une substance simple, indivisible, et sans aucune
-composition de parties ; mais cependant on a coutume de
-distinguer en lui deux facultés, savoir : l’entendement et la
-volonté, lesquelles il est nécessaire d’expliquer d’abord, car il
-semble que les notions ou les idées qu’on a de ces deux facultés,
-ne sont pas assez nettes ni assez distinctes.
+If it is true, therefore, that error is the origin of human misery, it is only right that men should make an effort to free themselves from it. Certainly their effort will not be useless and without reward, even if it does not have all the effect they might wish. If men do not become infallible, they will be mistaken much less often, and if they do not entirely free themselves from their ills, they will at least avoid some of them. In this life one must not hope for complete happiness, because here below one must not aspire to infallibility; but one must work ceaselessly not to be mistaken, since one ceaselessly wishes to be freed from one's miseries. In a word, just as one ardently desires a happiness without hoping for it, one must strive with effort toward infallibility without aspiring to it.
 
-Mais parce que ces idées sont fort abstraites et qu’elles ne
-tombent point sous l’imagination, il semble à propos de les
-exprimer par rapport aux propriétés qui conviennent à la matière,
-lesquelles se pouvant facilement imaginer, rendront les notions
-qu’il est bon d’attacher à ces deux mots entendement et volonté,
-plus distinctes et même plus familières. Il faudra seulement
-prendre garde que ces rapports de l’esprit et de la matière ne
-sont pas entièrement justes, et qu’on ne compare ensemble ces
-deux choses que pour rendre l’esprit plus attentif et faire comme
-sentir aux autres ce que l’on veut dire.
-La matière ou l’étendue renferme en elle deux propriétés ou
-deux facultés. La première faculté est celle de recevoir
-différentes figures, et la seconde est la capacité d’être mue. De
-même l’esprit de l’homme renferme deux facultés : la première
-qui est l’entendement, est celle de recevoir plusieurs idées,
-c’est-à-dire d’apercevoir plusieurs choses ; la seconde, qui est la
-volonté, est celle de recevoir plusieurs inclinations ou de
-vouloir différentes choses. Nous expliquerons d’abord les
-rapports qui se trouvent entre la première des deux facultés qui
-appartiennent à la matière, et la première de celles qui
-appartiennent à l’esprit.
+One must not imagine that there is much to suffer in the search for truth; one need only pay attention to the clear ideas that each person finds within himself, and follow exactly a few rules that we will give later. Exactness of mind has almost nothing painful about it; it is not a servitude as the imagination represents it; and if we initially find some difficulty in it, we soon receive satisfactions that abundantly reward us for our pains; for in the end, it is only this exactness that produces light and reveals truth to us.
 
+But without lingering further to prepare the minds of readers, whom it is much more fitting to believe are sufficiently inclined of themselves to the search for truth, let us examine the causes and the nature of our errors; and since the method that examines things by considering them in their birth and origin has more order and clarity, and makes them known more thoroughly than others, let us try to employ it here.
 
-L’étendue est capable de recevoir de deux sortes de figures.
-Les unes sont seulement extérieures, comme la rondeur à un
-morceau de cire ; les autres sont intérieures, et ce sont celles qui
-sont propres à toutes les petites parties dont la cire est
-composée ; car il est indubitable que toutes les petites parties qui
-composent un morceau de cire ont des figures fort différentes de
-celles qui composent un morceau de fer. J’appelle donc
-simplement figure celle qui est extérieure, et j’appelle configuration la figure qui est intérieure et qui est nécessaire à
-toutes les parties dont la cire est composée, afin qu’elle soit ce
-qu’elle est.
+I. The human mind, being neither material nor extended, is without doubt a simple substance, indivisible, and without any composition of parts; but nevertheless one is accustomed to distinguish in it two faculties, namely: the understanding and the will, which it is necessary to explain first, for it seems that the notions or ideas that one has of these two faculties are not clear or distinct enough.
 
-On peut dire de même que les perceptions que l’âme a des
-idées sont de deux sortes. Les premières, que l’on appelle
-perceptions pures, sont pour ainsi dire superficielles à l’âme ;
-elles ne la pénètrent et ne la modifient pas sensiblement. Les
-secondes, qu’on appelle sensibles, la pénètrent plus ou moins
-vivement. Telles sont le plaisir et la douleur, la lumière et les
-couleurs, les saveurs, les odeurs, etc. Car on fera voir dans la
-suite que les sensations ne sont rien autre chose que des manières
-d’être de l’esprit ; et c’est pour cela que je les appellerai des
-modifications de l’esprit.
+But because these ideas are very abstract and do not fall under the imagination, it seems appropriate to express them in relation to the properties that belong to matter, which, being easily imaginable, will make the notions that it is good to attach to these two words — understanding and will — more distinct and even more familiar. One need only take care that these comparisons between mind and matter are not entirely exact, and that we compare these two things together only to render the mind more attentive and to make others, as it were, feel what we mean to say.
 
-On pourrait appeler aussi les inclinations de l’âme des
-modifications de la même âme. Car, puisqu’il est constant que
-l’inclination de la volonté est une manière d’être de l’âme, on
-pourrait l’appeler modification de l’âme ; ainsi que le
-mouvement dans les corps étant une manière d’être de ces mêmes
-corps, on pourrait dire que le mouvement est une modification de
-la matière. Cependant je n’appelle pas les inclinations de la
-volonté ni les mouvements de la matière des modifications, parce
-que ces inclinations et ces mouvements ont ordinairement rapport
-à quelque chose d’extérieur, car les inclinations ont rapport au
-bien, et les mouvements ont rapport à quelque corps étranger.
-Mais les figures et les configurations des corps et les sensations
-de l’âme n’ont aucun rapport nécessaire au dehors. Car de même
-qu’une figure est ronde lorsque toutes les parties extérieures d’un
-corps sont également éloignées d’une de ses parties qu’on
-appelle le centre, sans aucun rapport à ceux de dehors, ainsi toutes les sensations dont nous sommes capables pourraient
-subsister sans qu’il y eût aucun objet hors de nous. Leur être
-n’enferme point de rapport nécessaire avec les corps qui
-semblent les causer, comme on le prouvera ailleurs ; et elles ne
-sont rien autre chose que l’âme modifiée d’une telle ou telle
-façon ; de sorte qu’elles sont proprement les modifications de
-l’âme. Qu’il me soit donc permis de les nommer ainsi pour
-m’expliquer.
+Matter, or extension, contains within itself two properties or two faculties. The first faculty is that of receiving different shapes, and the second is the capacity to be moved. Likewise, the human mind contains two faculties: the first, which is the understanding, is that of receiving several ideas, that is to say, of perceiving several things; the second, which is the will, is that of receiving several inclinations, or of willing different things. We will first explain the comparisons that are found between the first of the two faculties that belong to matter and the first of those that belong to the mind.
 
-La première et la principale des convenances qui se trouvent
-entre la faculté qu’a la matière de recevoir différentes figures et
-différentes configurations, et celle qu’a l’âme de recevoir
-différentes idées et différentes modifications, c’est que de même
-que la faculté de recevoir différentes figures et différentes
-configurations dans les corps, est entièrement passive et ne
-renferme aucune action, ainsi la faculté de recevoir différentes
-idées et différentes modifications dans l’esprit, est entièrement
-passive et ne renferme aucune action ; et j’appelle cette faculté
-ou cette capacité qu’a l’âme de recevoir toutes ces choses, ENTENDEMENT.
+Extension is capable of receiving two kinds of shapes. Some are only external, like roundness in a piece of wax; others are internal, and these are those that are proper to all the small parts of which the wax is composed; for it is indisputable that all the small parts that compose a piece of wax have shapes very different from those that compose a piece of iron. I therefore call simply *shape* that which is external, and I call *configuration* the shape that is internal and necessary to all the parts of which the wax is composed, in order for it to be what it is.
 
-D’où il faut conclure que c’est l’entendement qui aperçoit ou
-qui connaît, puisqu’il n’y a que lui qui reçoive les idées des
-objets ; car c’est une même chose à l’âme d’apercevoir un objet
-que de recevoir l’idée qui le représente. C’est aussi
-l’entendement qui aperçoit les modifications de l’âme ou qui les
-sent, puisque j’entends par ce mot entendement, cette faculté
-passive de l’âme par laquelle elle reçoit toutes les différentes
-modifications dont elle est capable. Car c’est la même chose à
-l’âme de recevoir la manière d’être qu’on appelle la douleur, que
-d’apercevoir ou de sentir la douleur ; puisqu’elle ne peut recevoir la douleur d’autre manière qu’en l’apercevant. D’où
-l’on peut conclure que c’est l’entendement qui imagine les objets
-absents et qui sent ceux qui sont présents ; et que les sens et
-l’imagination ne sont que l’entendement apercevant les objets
-par les organes du corps, ainsi que nous expliquerons dans la
-suite.
+One can say similarly that the perceptions that the soul has of ideas are of two kinds. The first, which are called pure perceptions, are, so to speak, superficial to the soul; they do not penetrate or modify it noticeably. The second, which are called sensible perceptions, penetrate it more or less vividly. Such are pleasure and pain, light and colors, tastes, odors, etc. For it will be shown later that sensations are nothing other than ways of being of the mind; and this is why I will call them *modifications of the mind*.
 
-Or, parce que quand on sent de la douleur ou autre chose on
-l’aperçoit d’ordinaire par l’entremise des organes des sens, les
-hommes disent ordinairement que ce sont les sens qui
-l’aperçoivent sans savoir distinctement ce qu’ils entendent par le
-terme de sens. Ils pensent qu’il y a quelque faculté distinguée de
-l’âme qui la rend, elle ou le corps, capable de sentir ; car ils
-croient que les organes des sens ont véritablement part à nos
-perceptions. Ils s’imaginent que le corps aide tellement l’esprit à
-sentir que si l’esprit était séparé du corps il ne pourrait jamais
-rien sentir. Mais ils ne pensent toutes ces choses que par
-préoccupation et parce que dans l’état où nous sommes nous ne
-sentons jamais rien sans l’usage des organes des sens, comme
-nous expliquerons ailleurs plus au long.
-C’est pour nous accommoder à la manière ordinaire de parler,
-que nous dirons dans la suite que les sens sentent ; mais par le
-mot de sens nous n’entendons rien autre chose que cette faculté
-passive de l’âme dont nous venons de parler, c’est-à-dire
-l’entendement apercevant quelque chose à l’occasion de ce qui
-se passe dans les organes de son corps, selon l’institution de la
-nature, comme on expliquera ailleurs.
-L’autre convenance entre la faculté passive de l’âme et celle
-de la matière, c’est que, comme la matière n’est point
-véritablement changée par le changement qui arrive à sa figure, je veux dire par exemple que, comme la cire ne reçoit point de
-changement considérable pour être ronde ou carrée, ainsi l’esprit
-ne reçoit point de changement considérable par la diversité des
-idées qu’il a ; je veux dire que l’esprit ne reçoit point de
-changement considérable, quoiqu’il reçoive l’idée d’un carré ou
-d’un rond, en apercevant un carré ou un rond.
+One could also call the inclinations of the soul modifications of the same soul. For since it is certain that the inclination of the will is a way of being of the soul, one could call it a modification of the soul; just as movement in bodies, being a way of being of those same bodies, one could say that movement is a modification of matter. However, I do not call the inclinations of the will or the movements of matter *modifications*, because these inclinations and these movements ordinarily relate to something external, for inclinations relate to good, and movements relate to some external body. But the shapes and configurations of bodies and the sensations of the soul have no necessary relation to the outside. For just as a shape is round when all the external parts of a body are equally distant from one of its parts called the center, without any relation to external things, so all the sensations of which we are capable could subsist even if there were no object outside us. Their being does not involve any necessary relation with the bodies that seem to cause them, as will be proved elsewhere; and they are nothing other than the soul modified in such and such a way; so that they are properly the modifications of the soul. Let me therefore be permitted to call them thus in order to make myself clear.
 
-De plus, comme l’on peut dire que la matière reçoit des
-changements considérables lorsqu’elle perd la configuration
-propre aux parties de la cire pour recevoir celle qui est propre
-au feu et à la fumée, quand la cire se change en feu et en fumée,
-ainsi l’on peut dire que l’âme reçoit des changements fort
-considérables lorsqu’elle change ses modifications et qu’elle
-souffre de la douleur après avoir senti du plaisir. D’où il faut
-conclure que les perceptions pures sont à l’âme à peu près ce que
-les figures sont à la matière, et que les configurations sont à la
-matière à peu près ce que les sensations sont à l’âme. Mais il ne
-faut pas s’imaginer que la comparaison soit exacte ; je ne la fais
-que pour rendre sensible la notion de ce mot entendement,
-j’expliquerai dans le troisième livre la nature des idées.
-II. L’autre faculté de la matière, c’est qu’elle est capable de
-recevoir plusieurs mouvements, et l’autre faculté de l’âme, c’est
-qu’elle est capable de recevoir plusieurs inclinations.
-Comparons ensemble ces facultés.
+The first and principal of the similarities found between the faculty that matter has of receiving different shapes and different configurations, and that which the soul has of receiving different ideas and different modifications, is that just as the faculty of receiving different shapes and different configurations in bodies is entirely passive and involves no action, so the faculty of receiving different ideas and different modifications in the mind is entirely passive and involves no action; and I call this faculty or this capacity that the soul has to receive all these things, the UNDERSTANDING.
 
-De même que l’auteur de la nature est la cause universelle de
-tous les mouvements qui se trouvent dans la matière, c’est aussi
-lui qui est la cause générale de toutes les inclinations naturelles
-qui se trouvent dans les esprits ; et de même que tous les
-mouvements se font en ligne droite, s’ils ne trouvent quelques
-causes étrangères et particulières qui les déterminent et qui les changent en des lignes courbes par leurs oppositions ; ainsi toutes
-les inclinations que nous avons de Dieu sont droites, et elles ne
-pourraient avoir d’autre fin que la possession du bien et de la
-vérité s’il n’y avait une cause étrangère qui déterminât
-l’impression de la nature vers de mavaises fins. Or, c’est cette
-cause étrangère qui est la cause de tous nos maux et qui corrompt
-toutes nos inclinations.
+From this it must be concluded that it is the understanding that perceives or knows, since it is only the understanding that receives the ideas of objects; for it is the same thing for the soul to perceive an object as to receive the idea that represents it. It is also the understanding that perceives the modifications of the soul or that feels them, since by this word *understanding* I mean this passive faculty of the soul by which it receives all the different modifications of which it is capable. For it is the same thing for the soul to receive the way of being called pain as to perceive or feel pain; since it can receive pain in no other way than by perceiving it. From this one can conclude that it is the understanding that imagines absent objects and feels those that are present; and that the senses and the imagination are only the understanding perceiving objects through the organs of the body, as we will explain later.
 
-Pour la bien comprendre, il faut savoir qu’il y a une différence
-fort considérable entre l’impression ou le mouvement que
-l’auteur de la nature produit dans la matière, et l’impression ou le
-mouvement vers le bien en général, que le même auteur de la
-nature imprime sans cesse dans l’esprit. Car la matière est toute
-sans action ; elle n’a aucune force pour arrêter son mouvement, ni
-pour le déterminer et le détourner d’un côté plutôt que d’un autre.
-Son mouvement, comme l’on vient de dire, se fait toujours en
-ligne droite, et lorsqu’il est empêché de se continuer en cette
-manière, il décrit une ligne circulaire la plus grande qu’il est
-possible, et par conséquent la plus approchante de la ligne droite,
-parce que c’est Dieu qui lui imprime son mouvement, et qui règle
-sa détermination. Mais il n’en est pas de même de la volonté
-[2]
+Now, because when one feels pain or something else one ordinarily perceives it through the intermediary of the sense organs, men ordinarily say that it is the senses that perceive it, without distinctly knowing what they mean by the term *senses*. They think that there is some faculty distinct from the soul that makes it, or the body, capable of feeling; for they believe that the sense organs truly have a part in our perceptions. They imagine that the body helps the mind to feel so much that if the mind were separated from the body it could never feel anything. But they think all these things only through prejudice and because in our present state we never feel anything without the use of the sense organs, as we will explain elsewhere at greater length.
 
-on peut dire en un sens qu’elle est agissante et qu’elle a en ellemême la force de déterminer diversement l’inclination ou
-l’impression que Dieu lui donne ; car quoiqu’elle ne puisse pas
-arrêter cette impression, elle peut en un sens la détourner du côté
-qu’il lui plaît, et causer ainsi tout le déréglement qui se rencontre
-dans ses inclinations, et toutes les misères qui sont des suites
-nécessaires et certaines du péché.
-De sorte que par ce mot de VOLONTÉ, je prétends ici désigner
-l’impression ou le mouvement naturel, qui nous porte vers le bien indéterminé et en général ; et par celui de LIBERTÉ, je
-n’entends autre chose que la force qu’a l’esprit de détourner
-cette impression vers les objets qui nous plaisent, et faire ainsi
-que nos inclinations naturelles soient terminées à quelque objet
-particulier, lesquelles étaient auparavant vagues et
-indéterminées vers le bien en général ou universel, c’est-à-dire
-vers Dieu qui est seul le bien général, parce qu’il est le seul qui
-renferme en soi tous les biens.
+It is in order to accommodate ourselves to the ordinary way of speaking that we will say later that the senses feel; but by the word *senses* we understand nothing other than this passive faculty of the soul of which we have just spoken, that is to say, the understanding perceiving something on the occasion of what occurs in the organs of its body, according to the institution of nature, as will be explained elsewhere.
 
-D’où il est facile de reconnaître que, quoique les inclinations
-naturelles soient volontaires, elles ne sont toutefois pas libres de
-la liberté d’indifférence dont je parle, qui renferme la puissance
-de vouloir ou de ne pas vouloir, ou bien de vouloir le contraire
-de ce à quoi nos inclinations naturelles nous portent. Car quoique
-ce soit volontairement et librement que l’on aime le bien en
-général, puisqu’on ne peut aimer que par sa volonté et qu’il y a
-contradiction que la volonté puisse jamais être contrainte, on ne
-l’aime pourtant pas librement, dans le sens que je viens
-d’expliquer, puisqu’il n’est pas au pouvoir de notre volonté de ne
-pas souhaiter d’être heureux.
-Mais il faut bien remarquer que l’esprit, considéré comme
-poussé vers le bien en général, ne peut déterminer son
-mouvement vers le bien particulier, si le même esprit, considéré
-comme capable d’idées, n’a la connaissance de ce bien
-particulier. Je veux dire, pour me servir, des termes ordinaires,
-que la volonté est une puissance aveugle, qui ne peut se porter
-qu’aux choses que l’entendement lui représente. De sorte que la
-volonté ne peut déterminer diversement l’impression qu’elle a
-pour le bien, et toutes ses inclinations naturelles, qu’en
-commandant à l’entendement de lui représenter quelque objet
-33
-particulier
-[3]
+The other similarity between the passive faculty of the soul and that of matter is that, just as matter is not truly changed by the change that occurs in its shape — I mean, for example, that wax does not undergo any considerable change for being round or square — so the mind does not undergo any considerable change through the diversity of the ideas it has; I mean that the mind does not undergo any considerable change, even though it receives the idea of a square or a round, in perceiving a square or a round.
 
-. La force qu’a la volonté de déterminer ses
-inclinations renferme donc nécessairement celle de pouvoir
-porter l’entendement vers les objets qui lui plaisent.
-Je rends sensible par un exemple ce que je viens de dire de la
-volonté et de la liberté. Une personne se représente une dignité
-comme un bien qu’elle peut espérer ; aussitôt sa volonté veut ce
-bien, c’est-à-dire que l’impression que l’esprit reçoit sans cesse
-vers le bien indéterminé et universel, le porte vers cette dignité.
-Mais comme cette dignité n’est pas le bien universel, et qu’elle
-n’est point considérée, par une vue claire et distincte de l’esprit,
-comme le bien universel (car l’esprit ne voit jamais clairement
-ce qui n’est pas), l’impression que nous avons vers le bien
-universel n’est point entièrement arrêtée par ce bien particulier.
-L’esprit a du mouvement pour aller plus loin ; il n’aime point
-nécessairement ni invinciblement cette dignité, et il est libre à
-son égard. Or sa liberté consiste en ce que n’étant point
-pleinement convaincu que cette dignité renferme tout le bien qu’il
-est capable d’aimer, il peut suspendre son jugement et son
-amour ; et ensuite, comme nous expliquerons dans le troisième
-livre, il peut, par l’union qu’il a avec l’être universel ou celui qui
-renferme tout bien, penser à d’autres choses et par conséquent
-aimer d’autres biens. Enfin il peut comparer tous les biens, les
-aimer selon l’ordre, à proportion qu’ils sont aimables, et les
-rapporter tous à celui qui les renferme tous et qui est seul digne
-de borner notre amour, comme étant seul capable de remplir toute
-la capacité que nous avons d’aimer.
+Moreover, just as one can say that matter undergoes considerable changes when it loses the configuration proper to the parts of wax to receive that which is proper to fire and smoke, when wax changes into fire and smoke, so one can say that the soul undergoes very considerable changes when it changes its modifications and suffers pain after having felt pleasure. From this it must be concluded that pure perceptions are to the soul roughly what shapes are to matter, and that configurations are to matter roughly what sensations are to the soul. But one must not imagine that the comparison is exact; I make it only to make the notion of this word *understanding* intelligible; I will explain the nature of ideas in the third book.
 
-C’est à peu près la même chose de la connaissance de la vérité
-que de l’amour du bien. Nous aimons la connaissance de la
-vérité, comme la jouissance du bien, par une impression naturelle ; et cette impression, aussi bien que celle qui nous porte
-vers le bien, n’est point invincible ; elle n’est telle que par
-l’évidence ou par une connaissance parfaite et entière de l’objet ;
-et nous sommes aussi libres dans nos faux jugements que dans
-nos amours déréglés, comme nous l’allons faire voir dans le
-chapitre suivant.
+II. The other faculty of matter is that it is capable of receiving several movements, and the other faculty of the soul is that it is capable of receiving several inclinations. Let us compare these faculties together.
+
+Just as the author of nature is the universal cause of all the movements found in matter, so He is also the general cause of all the natural inclinations found in minds; and just as all movements proceed in a straight line if they do not encounter some external and particular causes that determine and change them into curved lines through their opposition, so all the inclinations we have from God are straight, and they could have no other end than the possession of good and truth if there were no external cause that determined the impression of nature toward evil ends. Now, it is this external cause that is the cause of all our ills and that corrupts all our inclinations.
+
+To understand this well, one must know that there is a very considerable difference between the impression or movement that the author of nature produces in matter, and the impression or movement toward the good in general that the same author of nature continuously impresses on the mind. For matter is entirely without action; it has no force to stop its movement, nor to determine and turn it one way rather than another. Its movement, as just said, always proceeds in a straight line, and when it is prevented from continuing in this way, it describes the largest possible circular line, and consequently the one closest to the straight line, because it is God who imparts its movement to it and who regulates its determination. But it is not the same with the will: one can say in a sense that it is active and that it has within itself the force to determine variously the inclination or impression that God gives it; for although it cannot stop this impression, it can in a sense turn it wherever it pleases, and thus cause all the disorder that is found in its inclinations, and all the miseries that are the necessary and certain consequences of sin.
+
+So that by this word WILL, I intend here to designate the impression or natural movement that carries us toward the indeterminate and general good; and by the word FREEDOM, I mean nothing other than the force that the mind has to turn this impression toward the objects that please us, and thus to cause our natural inclinations to be directed toward some particular object, whereas previously they were vague and indeterminate toward the good in general or universal, that is to say, toward God, who alone is the general good, because He alone contains all goods within Himself.
+
+From this it is easy to recognize that, although natural inclinations are voluntary, they are nevertheless not free with the freedom of indifference of which I speak, which involves the power to will or not to will, or to will the opposite of what our natural inclinations carry us toward. For although one loves the good in general voluntarily and freely, since one can love only by one's will and it is a contradiction that the will could ever be constrained, yet one does not love it freely in the sense I have just explained, since it is not within the power of our will not to wish to be happy.
+
+But one must note well that the mind, considered as impelled toward the good in general, cannot determine its movement toward some particular good unless the same mind, considered as capable of ideas, has knowledge of that particular good. I mean, to use ordinary terms, that the will is a blind power, which can move only toward the things that the understanding represents to it. So that the will cannot variously determine the impression it has for the good, and all its natural inclinations, except by commanding the understanding to represent to it some particular object. The force that the will has to determine its inclinations therefore necessarily includes the power to direct the understanding toward the objects that please it.
+
+I make sensible by an example what I have just said about the will and freedom. A person represents to himself some dignity as a good that he can hope for; immediately his will desires this good, that is to say, the impression that the mind continuously receives toward the indeterminate and universal good carries it toward this dignity. But since this dignity is not the universal good, and is not considered by a clear and distinct view of the mind as the universal good (for the mind never sees clearly what is not), the impression we have toward the universal good is not entirely stopped by this particular good. The mind has movement to go further; it does not love this dignity necessarily or invincibly, and it is free with respect to it. Now its freedom consists in this: that, not being fully convinced that this dignity contains all the good that it is capable of loving, it can suspend its judgment and its love; and then, as we will explain in the third book, it can, through its union with the universal being or with Him who contains all good, think of other things and consequently love other goods. Finally, it can compare all goods, love them according to order, in proportion as they are lovable, and relate them all to that One who contains them all and who alone is worthy of setting a limit to our love, as being alone capable of filling all the capacity we have for loving.
+
+It is roughly the same with the knowledge of truth as with the love of good. We love the knowledge of truth, just as we love the enjoyment of good, by a natural impression; and this impression, as well as that which carries us toward good, is not invincible; it becomes such only through evidence, or through a perfect and complete knowledge of the object; and we are as free in our false judgments as in our disordered loves, as we will show in the following chapter.
 

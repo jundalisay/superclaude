@@ -1,39 +1,50 @@
-CHAPITRE IX.
+---
+heading: Chapter 9
+title: "The Truth"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 30
+date: 2026-06-20
+---
 
 
 
-Dernier exemple pour faire connaître l’utilité de cet ouvrage. L’on recherche dans cet
-892
-exemple la cause physique de la dureté ou de l’union des parties des corps les
+
+Dernier exemple pour faire connaître l’utilité de cet ouvrage. L’on recherche dans cet exemple la cause physique de la dureté ou de l’union des parties des corps les
 unes avec les autres.
+
 Les corps sont unis ensemble en trois manières, par la
 continuité, par la contiguïté, et par une troisième manière qui
 n’a point de nom particuler à cause qu’elle arrive rarement, et
 que j’appellerai du terme général d’union.
+
 Par la continuité, ou par la cause de la continuité, j’entends ce
 je ne sais quoi que je tâche de découvrir, qui fait que les parties
 d’un corps tiennent si fort les unes aux autres qu’il faut faire
 effort pour les séparer, et qu’on les regarde comme ne faisant
 ensemble qu’un tout.
+
 Par la contiguïté, j’entends ce je ne sais quoi qui me fait juger
 que deux corps se touchent immédiatement, en sorte qu’il n’y ait
 rien entre eux, mais que je ne juge pas étroitement unis, à cause
 que je les puis facilement séparer.
+
 Par ce troisième terme, union, j’entends encore un je ne sais
 quoi qui fait que deux verres ou deux marbres, dont on a usé et
 poli les surfaces en les frottant l’une sur l’autre, s’attachent de
 telle sorte, qu’encore qu’on les puisse très-facilement séparer en
 les faisant glisser, on a pourtant quelque peine à le faire en un
 autre sens.
+
 Or ceci n’est pas continuité, puisque ces deux verres ou ces
 deux marbres étant unis de cette manière ne sont point conçus
 comme ne faisant qu’un tout, à cause qu’on les peut séparer en un
 sens avec beaucoup de facilité. Œ n’est pas aussi simplement
 contiguïté, quoique cela en approche fort, parce que ces deux
 parties de verre ou de marbre sont assez étroitement unies et
-même beaucoup plus que les parties des corps mous et liquides,
-893
-comme celles du beurre et de l’eau.
+même beaucoup plus que les parties des corps mous et liquides, comme celles du beurre et de l’eau.
+
 Ces termes ainsi expliqués, il faut présentement chercher la
 cause qui unit les corps et les différences qui se trouvent entre la
 continuité, la contiguïté et l’union, des corps selon le sens que
@@ -43,6 +54,7 @@ d’un corps se tiennent si fort les unes aux autres qu’il faut faire
 effort pour les séparer. et qu’on les regarde comme ne faisant
 ensemble qu’un tout. Peepère que cette cause étant trouvée, il n’y
 aura pas grande difficulté à découvrir le reste.
+
 Il me semble présentement qu’il est nécessaire que ce je ne
 sais quoi qui lie les parties mêmes les plus petites de ce morceau
 de fer que je tiens entre mes mains, soit quelque chose de bien
@@ -62,7 +74,7 @@ rapport à mon peu de force ; ou qu’elles se tiennent plus fort que
 les parties de ma chair, puisque les sentiments de douleur que
 j’ai en faisant trop d’efforts m’avertissent que je désunirai plutôt
 les parties de mon corps que celles du fer.
-894
+
 Je reconnais donc que de même que je ne suis point fort ou
 faible absolument, le fer ou les autres corps ne sont point durs ou
 flexiblea absolument, mais seulement par rapport à la cause qui
@@ -73,6 +85,8 @@ doivent être invariables, et ces efforts varient selon les temps,
 selon l’abondance des esprits animaux et la dureté des chairs,
 puisque je ne puis pas toujours produire les mêmes effets en
 faisant les mêmes efforts.
+
+
 Cette réflexion me délivre d’un préjugé que j’avais qui me
 faisait imaginer de forts liens pour unir les parties des corps ;
 lesquels liens ne sont peut-être point ; et j’espère qu’elle ne me
@@ -87,15 +101,15 @@ conserve l’union entre leurs parties, ou l’amitié et l’inclination
 qu’elles ont pour leurs semblables, car il n’y a rien de plus
 commode que de se laisser quelquefois séduire et devenir ainsi
 tout d’un coup savant à peu de frais.
+
 Mais puisque je ne veux rien croire que je ne sache, il ne faut
 pas que je me laisse ainsi abattre par ma propre paresse ni que je
 me rende à de simples lueurs. Quittons donc ces formes et ces
 inclinations dont nous n’avons point d’idées distinctes et
-particulières. mais seulement de confuses et générales que nous
-895
-ne formons ce me semble que par rapport à notre nature, et de
+particulières. mais seulement de confuses et générales que nous ne formons ce me semble que par rapport à notre nature, et de
 l’existence même desquelles plusieurs personnes et peut-être des
 nations entières ne conviennent pas.
+
 Il me semble que je vois la cause de cette étroite union des
 parties qui composent les corps durs sans y admettre autre chose
 que tout ce que tout le monde convient y être, ou tout au moins
@@ -106,6 +120,7 @@ pourra faire qu’il y en aura qui seront crochus et branchus, et
 comme de petits liens capables d’arrêter fortement les autres, ou
 bien qu’elles s’entrelaceront toutes dans leurs branches, de sorte
 qu’on ne pourra pas facilement les désunir.
+
 J’ai une grande pente à me laisser aller à cette pensée, et
 d’autant plus grande que je vois que les parties visibles des
 corps grossiers s’arrêtent et s’unissent les unes avec les autres de
@@ -121,10 +136,9 @@ raison qui unira ensemble ces autres et ainsi à l’infini.
 De sorte que présentement le nœud de la question est de savoir
 comment les parties de ces petits liens ou de ces parties
 branchues peuvent être aussi étroitement unies ensemble qu’elles
-le sont, A par exemple avec B, que je suppose parties d’un petit
-896
-lien. Ou bien ce
-qui est la même chose, les corps étant d’autant plus durs qu’ils
+le sont, A par exemple avec B, que je suppose parties d’un petit lien. 
+
+Ou bien ce qui est la même chose, les corps étant d’autant plus durs qu’ils
 sont plus solides et qu’ils ont moins de pores, la question est à
 présent de savoir comment les parties d’une colonne composée
 d’une matière qui n’aurait aucun pore peuvent être fortement
@@ -132,12 +146,14 @@ jointes ensemble et composer un corps très-dur, car on ne peut
 pas dire que les parties de cette colonne se tiennent par de petits
 liens, puisque, étant supposées sans pores, elles n’ont point de
 figure particulière.
+
 Je me sens encore extrêmement porté à dire que cette colonne
 est dure par sa nature, ou bien que les petits liens dont sont
 composés les corps durs, sont des atomes dont les parties ne se
 peuvent diviser comme étant les parties essentielles et dernières
 des corps, et qui sont essentiellement crochus ou branchus, ou
 d’une figure embarrassante.
+
 Mais je reconnais franchement que ce n’est point expliquer la
 difficulté et que quittant les préoccupations et les illusions de
 mes sens j’aurais tort de recourir à une forme abstraite et
@@ -150,6 +166,7 @@ facilité que j’ai de prendre les natures abstraites et les idées
 générales de logique pour celles qui sont réelles et particulières,
 et je me souviens d’avoir été plusieurs fois séduit par ces deux
 principes d’erreur.
+
 Car, pour revenir à la difficulté, il ne m’est pas possible de
 concevoir comment ces petits liens seraient indivisibles par leur
 essence et par leur nature, ni par conséquent comment ils seraient
@@ -172,18 +189,18 @@ ce qui peut être conçu et par conséquent créé seul. La partie A
 peut donc exister sans la partie B, et à plus forte raison elle peut
 exister séparément de B. De sorte que ce lien est divisible en A
 et en B.
+
 De plus, si ce lien était indivisible ou crochu par sa nature et
-par son essence, il arriverait tout le contraire de ce que nous
-898
-voyons par l’expérience, car on ne pourrait rompre aucun corps.
+par son essence, il arriverait tout le contraire de ce que nous voyons par l’expérience, car on ne pourrait rompre aucun corps.
+
 Supposons, comme auparavant, qu’on morceau de fer est
 composé d’une infinité de petits liens qui s’entrelacent les uns
 dans les autres, dont A, a, et B, b, en soient deux. Je dis qu’on ne
-pourrait les
-décrocher, et par conséquent qu’on ne pourrait rompre ce fer ; car
+pourrait les décrocher, et par conséquent qu’on ne pourrait rompre ce fer ; car
 pour le rompre il faudrait plier les liens qui le composent,
 lesquels cependant sont supposés inflexibles par leur essence et
 par leur nature.
+
 Que si on ne les suppose point inflexibles, mais seulement
 indivisibles par leur nature, la supposition ne servira de rien
 pour résoudre la question ; car alors la difficulté sera de savoir
@@ -203,6 +220,7 @@ autres, il sera impossible de les décrocher. Tâchons donc de
 résoudre la difficulté par des principes clairs et incontestables et
 de trouver la raison pourquoi ce petit lien à ces deux parties, A,
 B, si fort attachées l’une à l’autre.
+
 Je vois bien qu’il est nécessaire que je divise le sujet de ma
 méditation par parties, aiin que je l’examine plus exactement et
 avec moins de contention d’esprit, puisque je n’ai pu d’abord,
@@ -212,6 +230,7 @@ dès le commencement, car quand les sujets que l’on considère
 sont un peu cachés, c’est toujours le meilleur de ne les examiner
 que par parties, et de ne se point fatiguer inutilement sur de
 fausses espérances de rencontrer heureusement.
+
 Ce que je cherche est la cause de l’étroite union qui se trouve
 entre les petites parties qui composent le petit lien A, B. Or, il
 n’y a que trois choses que je conçoive distinctement pouvoir être
@@ -309,6 +328,7 @@ la connaissance de cette volonté générale et immuable de Dieu,
 qui fait la différente puissance que les corps ont pour agir et pour
 se résister les uns aux autres, que leur différente grandeur et leur
 différente vitesse.
+
 Cependant je n’ai point de preuve certaine que Dieu veuille,
 par une volonté positive, que les corps demeurent en repos ; et il
 semble qu’il suffit que Dieu veuille qu’il y ait de la matière, afin
@@ -324,12 +344,11 @@ nécessaire d’une autre puissance pour la mettre en repos ;
 puisque si on conçoit simplement de la matière sans songer à
 aucune puissance, on la concevra nécessairement en repos. C’est
 ainsi que je conçois les choses, j’en dois juger selon mes idées ;
-et, selon mes idées, le repos n’est que la privation du
-903
-mouvement : je veux dire que la force prétendue qui fait le repos
+et, selon mes idées, le repos n’est que la privation du mouvement : je veux dire que la force prétendue qui fait le repos
 n’est que la privation de celle qui fait le mouvement ; car il suffit,
 ce me semble, que Dieu cesse de vouloir qu’un corps soit mu,
 afin qu’il cesse de l’être, et qu’il soit en repos.
+
 En effet, la raison et mille et mille expériences m’apprennent
 que si de deux corps égaux en masse, l’un se meut avec un degré
 de vitesse et l’autre avec un demi-degré, la force du premier sera
@@ -356,9 +375,8 @@ paraissent peu importantes, néanmoins j’ai sujet de croire que les
 personnes dont je parle prenaient plaisir à dire ce qu’ils
 concevaient. Il faut donc que j’examine encore mes idées avec
 soin.
-C’est une chose qui me paraît indubitable, et ces messieurs
-904
-dont je parle en tombaient d’accord, savoir que c’est la volonté
+
+C’est une chose qui me paraît indubitable, et ces messieurs dont je parle en tombaient d’accord, savoir que c’est la volonté
 de Dieu qui meut les corps. La force donc qu’a cette boule que je
 vois rouler, c’est la volonté de Dieu qui la fait rouler ; que faut-il
 présentement que Dieu fasse pour l'arrêter ? faut-il qu’il veuille
@@ -399,6 +417,8 @@ même boule, qui va deux fois plus vite en un temps qu’en un
 autre, à deux fois plus de force ou de mouvement en un temps
 qu’en un autre ; mais on ne peut pas dire qu’une même boule ait
 deux fois plus de repos en un temps qu’en un autre.
+
+
 Il faut donc en Dieu une volonté positive pour mettre une boule
 en mouvement, ou pour faire qu’une boule ait une telle force pour
 se mouvoir, et il suffit qu’il cesse de vouloir qu’elle soit mue afin
@@ -420,13 +440,12 @@ n’ont point de force pour leur repos ; parce que, le rapport des
 corps mus à ceux qui les environ ment changeant toujours, il faut
 une force continuelle pour produire ces changements continuels,
 car en effet ce sont ces changements qui font tout ce qui arrive de
-nouveau dans la nature. Mais il ne faut point de force pour ne rien
-906
-faire. Lorsque le rapport d’un corps à ceux qui l'environnent est
+nouveau dans la nature. Mais il ne faut point de force pour ne rien faire. Lorsque le rapport d’un corps à ceux qui l'environnent est
 toujours le même, il ne se fait rien ; et la conservation de ce
 rapport, je veux dire l’action de la volonté de Dieu qui conserve
 ce rapport, n’est point différente de celle qui conserve le corps
 même.
+
 S’il est vrai, comme je le conçois, que le repos ne soit que la
 privation du mouvement, le moindre mouvement, je veux dire
 celui du plus petit corps agité, renfermera plus de force et de
@@ -455,6 +474,7 @@ contraire, et même je vois bien qu’ils trouveront à redire que je
 m’arréte trop à prouver des choses qui leur paraissent incontestables. Mais les cartésiens méritent bien que l’on fasse
 effort pour les satisfaire. Les autres pourront passer ce qui sera
 capable de les ennuyer.
+
 Voici donc quelques expériences qui prouvent sensiblement
 que le repos n’a aucune puissance pour résister au mouvement, et
 qui par conséquent font connaître que la volonté de l’auteur de la
@@ -462,6 +482,7 @@ nature, qui fait la puissance et la force que chaque corps a pour
 continuer dans l’état dans lequel il est, ne regarde que le
 mouvement et non point le repos ; puisque les corps n’ont aucune
 force par eux-mêmes.
+
 L’expérience apprend que de fort grands vaisseaux, qui nagent
 dans l’eau, peuvent être agités par de très-petits corps qui
 viennent heurter contre eux. De là je prétends malgré toutes les
@@ -480,9 +501,7 @@ puisqu’un vaisseau agité dans l’eau cesse peu à peu de se
 mouvoir, c’est une marque indubitable que l’eau résiste à son
 mouvement au lieu de le faciliter comme le prétend M.
 Descartes ; et par conséquent il serait encore infiniment plus
-facile d’agiter un grand corps dans le vide que dans l’eau,
-908
-puisqu’il n’y aurait point de résistance de la part des corps
+facile d’agiter un grand corps dans le vide que dans l’eau, puisqu’il n’y aurait point de résistance de la part des corps
 d’alentour. Il est donc évident que le repos n’a point de force
 pour résister au mouvement, et que le moindre mouvement
 contient plus de puissance et plus de force que le plus grand
@@ -490,6 +509,8 @@ repos ; et qu’ainsi on ne doit point comparer la force du
 mouvement et du repos, par la proportion qui se trouve entre la
 grandeur des corps qui sont en mouvement et enrepos, comme a
 fait M. Descartes.
+
+
 Il est vrai qu’il y a quelque raison de croire, qu’un vaisseau
 est agité dès qu’il est dans l’eau, à cause du changement continuel
 qui arrive aux parties de l’eau qui l’environnent, quoiqu’il nous
@@ -504,6 +525,8 @@ sorte que ce qui agite un corps dans l’eau ne le pourrait par faire
 dans le vide. C’est ainsi que M. Descartes et ceux qui sont de son
 sentiment, défendent les règles du mouvement qu’il nous a
 données.
+
+
 Supposons, par exemple, un morceau de bois de la grandeur
 d’un pied en carré dans un corps liquide, toutes les petites parties
 du corps liquide agissent et se remuent contre lui ; et parce qu’ils
@@ -529,6 +552,7 @@ toujours croître. Mais, comme j’ai déjà dit, tant s’en faut que
 l’eau facilite son mouvement qu’elle lui résiste sans cesse et que
 sa résistance le diminuant toujours, le rend enfin tout à fait
 insensible.
+
 Il faut prouver à présent que le morceau de bois qui est
 également poussé par les petites parties de l’eau qui l’environne,
 n’a point du tout de mouvement ou de force qui soit capable de le
@@ -541,10 +565,9 @@ mouvement, il sera indubitable que c’est seulement la force
 temps que cette force étrangère le pousse, l’eau lui résiste et
 dissipe même peu à peu le mouvement qui lui est imprimé, car il
 cesse peu à peu de se mouvoir. Or cela paraît évident, car un
-corps également poussé de tous côtés peut être comprimé ; mais
-910
-certainement il ne peut être transporté ; puisque plus et moins une
+corps également poussé de tous côtés peut être comprimé ; mais certainement il ne peut être transporté ; puisque plus et moins une
 égale force est égal à zéro.
+
 Ceux à qui je parle soutiennent qu’il n’y a jamais dans la
 nature plus de mouvement en un temps qu’en un autre, et que les
 corps en repos ne sont mus que par la rencontre de quelques
@@ -566,14 +589,14 @@ se refroidir beaucoup ou même se glacer, et devenir à peu près
 aussi dure qu’est le bois en sa surface, puisque le mouvement des
 parties de l’eau devrait se répandre également dans les petites
 parties du corps qu’elles environnent.
+
+
 Mais pour m’accommoder à ceux qui défendent le sentiment de
 M. Descartes, je veux bien accorder que l’on ne doit point
 considérer un bateau dans l’eau comme en repos. Je veux aussi
 que toutes les parties de l’eau qui l’environnent s’accordent
 toutes au mouvement nouveau que le batelier lui imprime,
-quoiqu’il ne soit que trop visible, par la diminution du
-911
-mouvement du bateau, qu’elles lui résistent davantage du côté où
+quoiqu’il ne soit que trop visible, par la diminution du mouvement du bateau, qu’elles lui résistent davantage du côté où
 il va que de celui d’où il a été poussé. Cela toutefois supposé, je
 dis que, de toutes les parties l’eau qui sont dans la rivière, il n’y
 a, selon M. Descartes, que celles qui touchent immédiatement le
@@ -595,6 +618,7 @@ grand que lui
 de l’eau ; et lorsque nous voulons rompre un clou, il y a plus de
 parties jointes ensemble qui agissent conjointement dans nos
 mains que dans l’eau qui pousse un bateau.
+
 Mais voici une expérience plus sensible. Si l’on prend un ais
 bien uni, ou quelque autre plan extrêmement dur, que l’on y
 enfonce un clou a moitié, et que l’on donne à ce plan quelque peu
@@ -609,9 +633,7 @@ cette barre est dure et solide
 [38]
 . Si donc il n’y avait point d’autre
 ciment que le repos pour unir les parties qui composent le clou,
-la barre de fer étant cent mille fois plus grosse que le clou,
-912
-devrait, selon la cinquième règle de M. Descartes et selon la
+la barre de fer étant cent mille fois plus grosse que le clou, devrait, selon la cinquième règle de M. Descartes et selon la
 raison, communiquer quelque peu de son mouvement à la partie
 du clou qu’elle choquerait, c’est-à-dire le rompre et passer outre,
 quand même cette barre glisserait par un mouvement très-lent.
@@ -621,6 +643,7 @@ l’on fait, lorsqu’on les veut rompre, puisque le repos n’a point de
 force pour résister au mouvement, et je crois que ces expériences
 suffisent pour faire connaître que les preuves abstraites que nous
 avons apportées ne sont point fausses.
+
 Il faut donc examiner lu troisième chose que nous avons dite
 auparavant pouvoir être la cause de l’union étroite qui se trouve
 entre les parties des corps durs ; savoir, une matière invisible qui
@@ -629,6 +652,7 @@ beaucoup de violence les parties extérieures et intérieures de ces
 corps, et les comprime ainsi de telle sorte, que pour les séparer
 il faut avoir plus de force que n”en à cette matière invisible,
 laquelle est extrêmement agitée.
+
 Il semble que je puis conclure que l’union des parties, dont les
 corps durs sont composés, dépend de la matière subtile qui les
 environne et qui les comprime, puisque les deux autres choses
@@ -642,7 +666,7 @@ l’environne immédiatement et qui le comprime. J’explique et je
 prouve ce sentiment
 [39]
 .
-913
+
 Lorsqu’on prend une boule de quelque métal, creuse au dedans
 et coupée en deux hémisphères, que l’on joint ces deux
 hémisphères en collant une petite bande de cire à l’endroit de
@@ -665,6 +689,8 @@ force est capable de les séparer, lorsque l’air étant rentré dans la
 sphère de cuivre, pousse les surfaces concaves et intérieures,
 autant que l’air de dehors presse les surfaces extérieures et
 convexes.
+
+
 Que si au contraire on prend une vessie de carpe et qu’on la
 mette dans un vase dont on tire l’air, cette vessie étant pleine
 d’air crève et se rompt, parœ qu’alors il n’y a point d’air au
@@ -672,13 +698,12 @@ dehors de la vessie qui résiste à celui qui est dedans, C’est
 encore pour cela que deux plans de verre ou de marbre ayant été
 usés les uns sur les autres, se joignent, en sorte qu’on sent de la
 résistance à les séparer en un sens, parce que ces deux parties de
-marbre sont pressées et comprimées par l’air de dehors qui les
-914
-environne, et ne sont point si fort poussées par le dedans. Je
+marbre sont pressées et comprimées par l’air de dehors qui les environne, et ne sont point si fort poussées par le dedans. Je
 pourrais apporter une infinité d’autres expériences pour prouver
 que l’air grossier qui appuie sur les corps qu’il environne unit
 fortement leurs parties ; mais ce que j’ai dit suffit pour expliquer
 nettement ma pensée sur la question présente.
+
 Je dis donc que ce qui fait que les parties des corps durs, et de
 ces petits liens dont j’ai parlé auparavant, sont si fort unies les
 unes avec les autres, c’est qu’il y a d’autres petits corps au
@@ -699,6 +724,8 @@ ne le sont en effet. Et au contraire les petits corps que j’ai dits les
 environner, auxquels j’ai donné la force de pouvoir causer cette
 union, ne faisant aucune impression sur nos sens, semblent être
 trop faibles pour produire un effet si sensible.
+
+
 Mais, pour détruire ce préjugé qui n’est fondé que sur les
 impressions de nos sens et sur la difficulté que nous avons
 d’imaginer des corps plus petits et plus agités que ceux que nous
@@ -746,6 +773,8 @@ des corps durs aussi fortement qu’elles le font. Car enfin, je ne
 crains point de dire qu’un boulet de canon, dont le mouvement
 parait si extraordinaire, ne reçoit pas même la millième partie du
 mouvement de la matière subtile qui l’environne.
+
+
 On ne doutera pas de ce que j’avance si l’on considère
 premièrement, que la poudre à canon ne s’enflamme pas toute, ni
 dans le même instant ; secondement, que quand elle prendrait feu
@@ -770,6 +799,8 @@ suffit, afin que, sans avoir vu les ouvrages de M. Descartes, on
 ait une preuve suffisante de agitation de la matière subtile, que je
 donne pour cause de la dureté des corps, il suffit, dis-je, de lire
 avec quelque application ce que j’en ai déjà dit.
+
+
 Étant donc présentement délivrés des préjugés qui nous
 portaient à croire que nos efforts sont bien puissants, et que celui
 de la matière subtile qui environne les corps durs et qui les
@@ -842,6 +873,8 @@ qu’il dit des règles du mouvement, et de la cause de la dureté des
 corps vers la fin de la seconde partie de ses Principes en
 plusieurs endroits, et qu’il me semble avoir assez prouvé la
 vérité du sentiment qui lui est contraire.
+
+
 Ce grand homme concevant très-distinctement que la matière
 ne peut pas se mouvoir par elle-même, et que la force mouvante
 naturelle de tous les corps n’ost autre chose que la volonté
@@ -902,6 +935,8 @@ trempé, et qu’elle le peut plus facilement dans les corps qui sont
 composés de parties branchues et qui ne sont point cassants,
 comme dans l’or et dans le plomb, et qu’enfin il n’y a aucun
 corps dur qui ne fasse quelque peu de ressort.
+
+
 Il est assez difficile de se persuader que M. Descartes ait cru
 positivement que la cause de la dureté fût différente de celle qui
 fait le ressort ; et ce qui paraît plus vraisemblable, c’est qu’il n’a
@@ -962,6 +997,8 @@ ses règles du mouvement, et s’accommodant fort bien avec la
 suite de ces mêmes principes, il croyait que les règles du
 mouvement qu’il pensait avoir démontrées dans leur cause étaient
 encore suffisamment confirmées par leurs effets.
+
+
 Je tombe d'accord avec M. Descartes du fond de la chose que
 les grands corps communiquent beaucoup plus facilement leur
 mouvement que les petits, et qu’ainsi son premier élément est

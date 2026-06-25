@@ -1,4 +1,16 @@
-CHAPITRE VII.
+---
+heading: Chapter 7
+title: "Errors of Sight"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+date: 2026-06-20
+---
+
+
+
+
 I. Des erreurs de nos yeux touchant les figures. — II. Nous n’avons aucune
 connaissance des plus petites. — III. Que la connaissance, que nous avons des
 plus grandes, n’est pas exacte. — IV. Explication de certains jugements naturels,

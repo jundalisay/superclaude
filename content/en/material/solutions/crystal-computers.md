@@ -103,19 +103,21 @@ With this tech stack, we propose a spherical crystal supercomputer, called a *So
 
 {{< img src="/graphics/physics/crystal.jpg" alt="Crystal Computer" cap="An orbiting Crystal Supercomputer that serves the internet can make communication more efficient and less harmful for the planet." >}}
 
-Data is sent via radio waves (like wifi or 5G) from mobile phones or client-computers to an Earth-based hub. Then it is teleported up to the orbiting computer, processed, then teleported back down.
+Data is sent by neutrinos from mobile phones or client-computers directly to the orbiting solar eye. This neutrino-data is then processed, then sent back down by the same neutrinos.
 
-The Solar Eye not only facilitates Earth-based communication, but also constantly looks at the sun in order to get the gravitational-signature-ratio of the sun and that of the Earth.
+The Solar Eye not only facilitates Earth-based communication, but also constantly gets neutrino data from the sun.
 
-This ratio will be compared to:
+<!-- looks at the sun in order to get the gravitational-signature-ratio of the sun and that of the Earth. -->
+
+This data will be compared to:
 - natural phenomena such as typhoons, crop failures, disease growth, etc.
 - man-made phenomena such as conflict, inflation, protests, etc.
-- map the teleportation coordinates within the solar system
+- map the teleportation coordinates within the solar system through gravitational ratios
 
 {{< img src="/graphics/physics/solareye.jpg" alt="Solar Eyes" cap="Solar eyes serve a triple function: telecoms, phenomena prediction, and teleportation map for the solar system" >}}
 
 
-### Solar Eye as a Telecom Hub
+### 1. Solar Eye as a Telecom Hub
 
 As a telecommunications hub, this makes energy use much more efficient, significantly reducing the global warming caused by earth-based computers running of fossil fuels or stored energy. 
 
@@ -155,6 +157,8 @@ Knowing the gravitational ratios between the sun and the Earth is essential in t
 In other words, each solar eye of a planet acts as a 'teleportation lighthouse' that increases the accuracy of teleported objects arriving at the desired spacetime coordinate. 
 
 All these features imply that there must be at least 3 Solar Eyes orbiting the Earth at any one time. These 3 will cover all of the Earth, as well as get a triangulated ratio of the Earth and the Sun. 
+
+The Sassani already use this system which they call Epsilon, Epiphany, and Eclipse.
 
 
 ## The Stellar Eye

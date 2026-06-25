@@ -1,5 +1,14 @@
+---
+heading: Conclusion
+title: "CONCLUSION DES TROIS DERNIERS LIVRES"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 30
+date: 2026-06-20
+---
 
-CONCLUSION DES TROIS DERNIERS LIVRES.
+
 
 J’ai, ce me semble, assez fait voir, dans le quatrième et
 cinquième livre, que les inclinations naturelles et les passions
@@ -47,6 +56,8 @@ qu*elles ont avec nous, pour former des jugements utiles à la
 conservation de notre être et de ceux avec lesquels nous sommes
 unis ou par la nature ou par notre volonté.
 
+
+
 Après avoir essayé de découvrir les erreurs dans leurs causes,
 et de délivrer l’esprit des préjugés auxquels il est sujet, j’ai cru
 qu’enfin il était temps de le préparer à la recherche de la vérité.
@@ -70,6 +81,8 @@ nécessité qu’il y a de ne raisonner que sur des idées claires et
 nations en conviennent, et de ne passer jamais aux choses
 composées avant que d’avoir suffisamment examiné les simples
 dont elles dépendent.
+
+
 Que si l’on considère qu’Aristote et ses sectateurs n’ont point
 observé les règles que j’ai expliquées, comme l’on en doit être
 convaincu, tant par les preuves que j’en ai apportées que par la
@@ -87,11 +100,11 @@ pleinement de ce que je dis de lui, pourvu qu’ils les lisent avec
 toute l’application nécessaire pour les comprendre, et ils
 sentiront une secrète joie d’être nés dans un siècle et dans un
 pays assez heureux pour nous délivrer de la peine d’aller
-chercher dans les siècles passés parmi les païens, et dans les
-928
-extrémités de la terre parmi les barbares ou les étrangers, un
+chercher dans les siècles passés parmi les païens, et dans les extrémités de la terre parmi les barbares ou les étrangers, un
 docteur pour nous instruire de la vérité, ou plutôt un moniteur
 assez fidèle pour nous disposer à en être instruits.
+
+
 Néanmoins, comme on ne doit pas se mettre fort en peine de
 savoir les opinions des hommes, quand même on serait convaincu
 d’ailleurs qu'ils auraient découvert la vérité, je serais bien fâché
@@ -103,6 +116,8 @@ consulter à la place de Dieu, et se contenter des réponses
 obscures d’un philosophe qui ne nous éclaire point, pour éviter la
 peine qu’il y a d’interroger par la méditation celui qui nous
 répond et qui nous éclaire tout ensemble.
+
+
 C’est une chose indigne que de se rendre partisan de quelque
 secte que ce soit, et que d’en regarder les auteurs comme s’ils
 étaient infaillibles. Aussi M. Descartes, voulant plutôt rendre les
@@ -111,8 +126,7 @@ sentiments, avertit expressément : Qu’on n’ajoute point du tout
 foi à ce qu’il a écrit, et qu’on n’en reçoive que ce que la force
 et l’évidence de la raison poussa contraindre d’en croire. 
 
-Il
-ne veut pas, comme quelques philosophes. qu’on le croie sur sa
+Il ne veut pas, comme quelques philosophes. qu’on le croie sur sa
 parole ; il se souvient toujours qu’il est homme, et que ne
 répondant la lumière que par réflexion, il doit tourner les esprits
 de ceux qui veulent être éclairés comme lui vers la raison

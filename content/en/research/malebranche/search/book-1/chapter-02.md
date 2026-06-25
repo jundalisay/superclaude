@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "Judgements and Reason"
+title: "Judgements and Reasonings"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,277 +9,65 @@ date: 2026-06-20
 ---
 
 
-CHAPITRE II.
+One could fairly well conclude from the things we said in the previous chapter that the understanding never judges, since it only perceives, or that judgments and reasonings, even on the part of the understanding, are only pure perceptions; that it is the will alone that truly judges, by acquiescing in what the understanding represents to it and by voluntarily resting in it; and that thus it is the will alone that throws us into error. But these things must be explained at greater length.
 
-I. Des jugements et des raisonnements. — II. Qu’ils dépendent de la volonté. — III. De
-l’usage qu’on doit faire de sa liberté à leur égard. — IV. Deux règles générales
-pour éviter l’erreur et le péché. — V. Réflexions nécessaires sur ces règles.
-I. On pourrait assez conclure des choses que nous avons dites
-dans le chapitre précédent que l’entendement ne juge jamais,
-puisqu’il ne fait qu’apercevoir, ou que les jugements et les
-raisonnements, même de la part de l’entendement, ne sont que de
-pures perceptions ; que c’est la volonté seule qui juge
-véritablement en acquiesçant à ce que l’entendement lui
-représente et en s’y reposant volontairement ; et qu’ainsi c’est
-elle seule qui nous jette dans l’erreur. Mais il faut expliquer ces
-choses plus au long.
-Je dis donc qu’il n’y a point d’autre différence de la part de
-l’entendement entre une simple perception, un jugement et un
-raisonnement, sinon que l’entendement aperçoit une chose simple
-sans aucun rapport à quoi que ce soit, par une simple perception ;
-qu’il aperçoit les rapports, entre une ou plusieurs choses, dans
-les jugements ; et qu’enfin il aperçoit des rapports, qui sont entre
-les rapports des choses, dans les raisonnements ; de sorœ que
-toutes les opérations de l’entendement ne sont que de pures
-35
-perceptions.
+I say, therefore, that on the part of the understanding there is no difference between a simple perception, a judgment, and a reasoning, except that the understanding perceives a simple thing without any relation to anything else, by a simple perception; that it perceives the relations between one or several things, in judgments; and that finally it perceives relations that exist between the relations of things, in reasonings; so that all the operations of the understanding are only pure perceptions.
 
-Quand on aperçoit, par exemple, deux fois 2 ou 4, ce n’est
-qu’une simple perception. Quand on juge que deux fois 2 sont 4,
-ou que deux fois 2 ne sont pas 5, l’entendement ne fait encore
-qu’apercevoir le rapport d’égalité qui se trouve entre deux fois 2
-et 4, ou le rapport d’inégaIité qui se trouve entre deux fois 2 et 5.
-Ainsi le jugement de la part de l’entendement n’est que la
-perception du rapport qui se trouve entre deux ou plusieurs
-choses. Mais le raisonnement est la perception du rapport qui se
-trouve, non pas entre deux ou plusieurs choses, car ce serait un
-jugement, mais c’est la perception du rapport qui se trouve entre
-deux ou plusieurs rapports de deux ou plusieurs choses. Ainsi,
-quand je conclus que 4 étant moins que 6, deux fois 2 étant égaux
-à 4, ils sont par conséquent moins que 6 ; je n’aperçois pas
-seulement le rapport d’inégalité entre 2 et 2 et 6, car alors ce ne
-serait qu’un jugement, mais le rapport d’inégalité qui est entre le
-rapport de deux fois 2 et 4, et le rapport qui est entre 4 et 6, ce
-qui est un raisonnement. Uentendement ne fait donc
-qu’apercevoir, et il n’y a que la volonté qui juge et qui raisonne,
-en se reposant volontairement dans ce que l'entendement lui
-représente, comme l’on vient de dire.
-
-II. Mais, cependant, lorsque les choses que nous considérons
-sont dans une entière évidence, il nous semble que ce n’est plus
-volontairement que nous y consentons ; de sorte que nous sommes
-portés à croire que ce n’est point notre volonté, mais notre
-entendement qui en juge.
-Afin de reconnaître notre erreur, il faut savoir que les choses
-que nous considérons ne nous paraissent entièrement évidentes,
-que lorsque l’entendement en a examiné tous les côtés et tous les
-rapports nécessaires pour en juger ; d’où il arrive que la volonté
-ne pouvant rien vouloir sans connaissance, elle ne peut plus agir
-dans l’entendement, c’est-a-dire qu’elle ne peut plus désirer qu’il
-représente quelque chose de nouveau dans son objet, parce qu’il
-en a déjà considéré tous les côtés qui ont rapport à la question
-que l’on veut décider. Elle est donc obligée de se reposer dans
-ce qu’il a déjà représenté, et de cesser de l’agiter et de
-l’appliquer à des considérations inutiles ; et c’est ce repos qui,
-est proprement ce qu’on appelle jugement et raisonnement. Ainsi
-ce repos ou ce jugement n’étant pas libre, quand les choses sont
-dans la dernière évidence, il nous semble aussi qu’il n’est pas
-volontaire.
-
-Mais tant qu’il y a quelque chose d’obscur dans le sujet que
-nous considérons, ou que nous ne sommes pas entièrement
-assurés que nous ayons découvert tout ce qui est nécessaire pour
-résoudre la question, comme il arrive presque toujours dans
-celles qui sont difficiles et qui renferment plusieurs rapports, il
-nous est libre de ne pas consentir, et la volonté peut encore
-commander à l’entendement de s’appliquer à quelque chose de
-nouveau ; ce qui fait que nous ne sommes pas si éloignés de
-croire que les jugements que nous formons sur ces sujets soient
-volontaires.
-
-Cependant la plupart des philosophes prétendent que ces
-jugements mêmes que nous formons sur des choses obscures ne
-sont pas volontaires, et ils veulent généralement que le
-consentement à la vérité soit une action de l’entendement, ce
-qu’ils appellent acquiescement, assensus, à la différence du
-consentement au bien qu’il attribuent à la volonté, et qu’ils
-appellent consentement, consensus. Mais voici la cause de leur
-distinction et de leur erreur.
+When, for example, one perceives two times two or four, that is only a simple perception. When one judges that two times two are four, or that two times two are not five, the understanding still only perceives the relation of equality that exists between two times two and four, or the relation of inequality that exists between two times two and five. Thus judgment, on the part of the understanding, is only the perception of the relation that exists between two or several things. But reasoning is the perception of the relation that exists, not between two or several things — for that would be a judgment — but the perception of the relation that exists between two or several relations of two or several things. Thus, when I conclude that four being less than six, two times two being equal to four, they are consequently less than six; I do not perceive merely the relation of inequality between two times two and six, for then that would be only a judgment, but the relation of inequality that exists between the relation of two times two and four, and the relation that exists between four and six, which is a reasoning. The understanding therefore only perceives, and it is only the will that judges and reasons, by voluntarily resting in what the understanding represents to it, as has just been said.
 
 
-C’est que dans l’état où nous sommes souvent nous voyons
-évidemment des vérités sans aucune raison d’en douter, et ainsi
-la volonté n’est point indifférente dans le consentement qu’elle
-donne å ces vérités évidentes, comme nous venons d’expliquer ;
-mais il n’en est pas de même des biens, et nous n’en connaissons
-aucun sans quelque raison de douter que nous le devions aimer.
-Nos passions et les inclinations que nous avons naturellement
-pour les plaisirs sensibles sont des raisons confuses, mais trèsfortes à cause de la corruption de notre nature, lesquelles nous
-rendent froids et indifférents dans l’amour même de Dieu ; et
-ainsi nous sentons manifestement notre indifférence, et nous
-sommes intérieurement convaincus que nous faisons usage de
-notre liberté quand nous aimons Dieu.
 
-Mais nous n’apercevons pas de même que nous fassions usage
-de notre liberté quand nous consentons à la vérité, principalement
-lorsqu’elle nous paraît entièrement évidente ; et cela nous fait
-croire que le consentement, à la vérité, n’est pas volontaire.
-Comme s’il fallait que nos actions fussent indifférentes pour être
-volontaires, et comme si les bienheureux n’aimaient pas Dieu
-très-volontairement sans en être détournés par quoi que ce soit,
-de même que nous consentons à cette proposition évidente que
-deux fois 2 sont 4, sans être détournés de la croire par quelque
-apparence de raison contraire.
+## Judgments and reasonings depend on the will
 
-Mais afin que l’on reconnaisse distinctement la différence
-qu’il y a entre le consentement de la volonté à la vérité et son
-consentement à la bonté, il faut savoir la différence qui se trouve
-entre la vérité et la bonté prise dans le sens ordinaire et par
-rapport à nous. Cette différence consiste en ce que la bonté nous
-regarde et nous touche, et que la vérité ne nous touche pas ; car la
-vérité ne consiste que dans le rapport que deux ou plusieurs
-choses ont entre elles, mais la bonté consiste dans le rapport de
-convenance que les choses ont avec nous.
+When the things we consider are entirely evident, it seems to us that we consent to them no longer voluntarily; so that we are led to believe that it is not our will, but our understanding, that judges them.
 
-Ce qui fait qu’il n’y
-a qu’une seule action de la volonté au regard de la vérité, qui est
-son acquiescement ou son consentement à la représentation du
-rapport qui est entre les choses, et qu’il y en a deux au regard de
-la bonté, qui sont son acquiescement ou son consentement au
-rapport de convenance de la chose avec nous, et son amour ou
-son mouvement vers cette chose, lesquelles actions sont bien
-différentes, quoiqu’on les confonde ordinairement. Car il y a bien
-de la différence entre acquiescer simplement et se porter par
-amour à ce que l’esprit représente, puisqu’on acquiesce souvent
-à des choses que l’on voudrait bien qui ne fussent pas et que l’on
-fuit.
+In order to recognize our error, one must know that things appear entirely evident to us only when the understanding has examined all their aspects and all the relations necessary for judging them; from this it happens that the will, being able to will nothing without knowledge, can no longer act upon the understanding, that is to say, it can no longer desire that it represent something new about its object, because it has already considered all the aspects that relate to the question one wishes to decide. It is therefore obliged to rest in what it has already represented, and to cease agitating it and applying it to useless considerations; and it is this rest that is properly what is called judgment and reasoning. Thus this rest or judgment, not being free when things are in the highest evidence, also seems to us not to be voluntary.
 
-Or, si on considère bien ces choses, on reconnaîtra visiblement
-que c’est toujours la volonté qui acquiesce, non pas aux choses si
-elles ne lui sont agréables, mais à la représentation des choses ;
-et que la raison pour laquelle la volonté acquiesce toujours à la
-représentation des choses qui sont dans la dernière évidence est,
-comme nous l’avons déjà dit, qu’il n’y a plus dans ces choses
-aucun rapport qu’il ait fallu considérer que l’entendement ne l’ait
-aperçu. De sorte qu’il est comme nécessaire que la volonté cesse
-de s’agiter et de se fatiguer inutilement, et qu’elle acquiesce avec
-une pleine assurance qu’elle ne s’est pas trompée, puisqu’il n’y a
-plus rien vers quoi elle puisse tourner son entendement.
-Il faut principalement remarquer que dans l’état où nous
-sommes, nous ne connaissons les choses qu’imparfaitement, et
-que par conséquent, il est absolument nécessaire que nous ayons
+But as long as there is something obscure in the subject we are considering, or we are not entirely assured that we have discovered everything necessary to resolve the question — as almost always happens in those that are difficult and involve several relations — it is free for us not to consent, and the will can still command the understanding to apply itself to something new; which makes us not so far from believing that the judgments we form on these subjects are voluntary.
 
-cette liberté d’indifférence par laquelle nous pouvons nous
-empêcher de consentir.
+However, most philosophers claim that even these judgments we form on obscure things are not voluntary, and they generally maintain that assent to truth is an action of the understanding, which they call *acquiescence*, *assensus*, in contrast to assent to good, which they attribute to the will and call *consent*, *consensus*. But here is the cause of their distinction and their error.
 
-Pour en reconnaître la nécessité, il faut considérer que nous
-sommes portés par nos inclinations naturelles vers la vérité et
-vers la bonté ; de sorte que la volonté ne se portant qu’aux choses
-dont l’esprit a quelque connaissance, il faut qu’elle se porte à ce
-qui a l’apparence de la vérité et de la bonté. Mais parce que tout
-ce qui a l’apparence de la vérité et de la bonté, n’est pas toujours
-tel qu’il paraît ; il est visible que si la volonté n’était pas libre, et
-si elle se portait infailliblement et nécessairement à tout ce qui a
-ces apparences de bonté et de vérité, elle se tromperait presque
-toujours. D’où on pourrait conclure que l’auteur de son être serait
-aussi l’auteur de ses égarements et de ses erreurs.
-III. La liberté nous est donc donnée de Dieu afin que nous nous
-empêchions de tomber dans l’erreur, et dans tous les maux qui
-suivent de nos erreurs, en ne nous reposant jamais pleinement
-dans les vraisemblances. mais seulement dans la vérité, c’est-àdire en ne cessant jamais d’appliquer l’esprit, et de lui
-commander qu’il examine jusqu’à ce qu’il ait éclairci, et
-développé tout ce qu’il y a à examiner. Car la vérité ne se trouve
-presque jamais qu’avec l’évidence, et l’évidence ne consiste que
-dans la vue claire et distincte de toutes les parties, et de tous les
-rapports de l’objet, qui sont nécessaires pour porter un jugement
-assuré.
+It is that in our present state we often see truths evidently without any reason to doubt them, and thus the will is not indifferent in the assent it gives to these evident truths, as we have just explained; but it is not the same with goods, and we know none without some reason to doubt that we ought to love it. Our passions and the inclinations we naturally have for sensible pleasures are confused reasons, but very strong because of the corruption of our nature, which make us cold and indifferent even in the love of God; and thus we manifestly feel our indifference, and we are inwardly convinced that we make use of our freedom when we love God.
 
-L’usage donc que nous devons faire de notre liberté, c’est de
-nous en servir autant que nous le pouvons ; c’est-à-dire de ne
-consentir jamais à quoi que ce soit, jusqu’à ce que nous y soyons
-comme forcés par des reproches intérieurs de notre raison.
+But we do not perceive in the same way that we make use of our freedom when we assent to truth, especially when it appears entirely evident to us; and this makes us believe that assent to truth is not voluntary. As if our actions had to be indifferent in order to be voluntary, and as if the blessed did not love God very voluntarily without being turned away from it by anything, just as we assent to this evident proposition that two times two are four, without being turned away from believing it by any appearance of contrary reason.
+
+But in order to recognize distinctly the difference there is between the will's assent to truth and its assent to goodness, one must know the difference found between truth and goodness taken in the ordinary sense and in relation to us. This difference consists in this: that goodness regards us and touches us, and that truth does not touch us; for truth consists only in the relation that two or several things have to each other, but goodness consists in the relation of suitability that things have with us. This is why there is only one action of the will with regard to truth, which is its acquiescence or assent to the representation of the relation that exists between things; and there are two with regard to goodness: its acquiescence or assent to the relation of suitability of the thing with us, and its love or its movement toward that thing — actions that are quite different, although they are ordinarily confused. For there is a great difference between simply acquiescing and being carried by love toward what the mind represents, since one often acquiesces in things that one would wish were not the case and that one flees.
+
+Now, if one considers these things well, one will visibly recognize that it is always the will that acquiesces — not in things if they are not pleasing to it, but in the representation of things; and that the reason why the will always acquiesces in the representation of things that are in the highest evidence is, as we have already said, that in those things there remains no relation that had to be considered which the understanding has not perceived. So that it is as if necessary for the will to cease agitating and fatiguing itself uselessly, and to acquiesce with full assurance that it has not been mistaken, since there is nothing left toward which it can turn its understanding.
+
+One must chiefly notice that in our present state, we know things only imperfectly, and that consequently it is absolutely necessary for us to have this freedom of indifference by which we can prevent ourselves from consenting.
+
+To recognize its necessity, one must consider that we are carried by our natural inclinations toward truth and toward goodness; so that the will, being able to move only toward things of which the mind has some knowledge, must move toward what has the appearance of truth and goodness. But because everything that has the appearance of truth and goodness is not always what it appears, it is clear that if the will were not free, and if it moved infallibly and necessarily toward everything that has these appearances of goodness and truth, it would almost always be mistaken. From this one could conclude that the author of its being would also be the author of its wanderings and errors.
 
 
-C’est se faire esclave contre la volonté de Dieu que de se
-soumettre aux fausses apparences de la vérité ; mais c’est obéir à
-la voix de la vérité éternelle, qui nous parle intérieurement, que
-de nous soumettre de bonne foi à ces reproches secrets de notre
-raison qui accompagnent le refus que l’on fait de se rendre à
-l’évidence. Voici donc deux règles établies sur ce que je riens de
-dire, lesquelles sont les plus nécessaires de toutes pour les
-sciences spéculatives et pour la morale, et que l’on peut regarder
-comme le fondement de toutes les sciences humaines.
-IV. Voici la première qui regarde les sciences : On ne doit
-jamais donner de consentement entier qu’aux propositions qui
-paraissent si évidemment vraies, qu’on ne puisse le leur refuser
-sans sentir une peine intérieure et des reproches secrets de la
-raison ; c’est-à-dire sans que l’on connaisse clairement qu’on
-ferait mauvais usage de sa liberté, si l’on ne voulait pas
-consentir, ou si l’on voulait étendre son pouvoir sur des choses
-sur lesquelles elle n’en a plus.
+### On the use one ought to make of one's freedom with regard to them
 
-La seconde pour la morale est telle : On ne doit jamais aimer
-absolument un bien si l’on peut sans remords ne le point aimer.
-D’où il s’ensuit qu’on ne doit rien aimer que Dieu absolument et
-sans rapport, car il n’y a que lui seul qu’on ne puisse s’abstenir
-d’aimer de cette sorte sans remords ; c’est-a-dire sans qu’on
-sache évidemment qu’on fait mal, supposé qu’on le connaisse par
-la raison ou par la foi.
+Freedom is therefore given to us by God so that we may prevent ourselves from falling into error, and into all the evils that follow from our errors, by never fully resting in verisimilitudes, but only in truth — that is to say, by never ceasing to apply the mind, and to command it to examine until it has clarified and developed everything there is to examine. For truth is almost never found except with evidence, and evidence consists only in the clear and distinct view of all the parts and all the relations of the object that are necessary for forming a sure judgment.
 
-V. Mais il faut remarquer ici que quand les choses que nous
-apercevons nous paraissent fort vraisemblables, nous nous
-trouvons extrêmement portés à les croire ; nous sentons même de
-la peine quand nous ne nous en laissons pas persuader ; de sorte
-que si nous n’y prenons bien garde, nous sommes fort en danger
-d’y consentir, et par conséquent de nous tromper ; car c’est un grand hasard que la vérité se trouve entièrement conforme à la
-vraisemblance. Et c’est pour cela que j’ai mis expressément dans
-ces deux règles, qu’il ne faut consentir à rien jusqu’à ce que l’on
-voie évidemment qu’on ferait mauvais usage de sa liberté, si l’on
-ne consentait pas.
-Or quoi que l’on se sente extrêmement porté à consentir a la
-vraisemblance, si toute lois on prend le soin de faire réflexion si
-l’on voit évidemment qu’on est obligé d’y consentir, on trouvera
-sans doute que non. Car si la vraisemblance est appuyée sur les
-impressions de nos sens, vraisemblance néanmoins qui n’en
-mérite pas le nom, alors on se trouvera fort incliné à s’y rendre ;
-mais on n’en reconnaîtra point d’autre cause que quelque
-passion, ou l’affection générale que l’on a pour ce qui touche les
-sens, comme on le verra assez dans la suite.
-Mais si la vraisemblance vient de quelque conformité avec la
-vérité, comme d’ordinaire les connaissances vraisemblables sont
-vraies, prises dans un certain sens, alors si on fait réflexion sur
-soi-même, l’on se sentira porté à faire deux choses ; l’une à
-croire, et l’autre à examiner encore ; mais on ne se trouvera
-jamais si persuadé, qu’on croie évidemment mal faire, si l’ou ne
-consent pas tout à fait.
-Or ces deux inclinations que l’on a à l’égard des choses
-vraisemblables, sont fort bonnes. Car on peut et on doit donner
-son consentement aux choses vraisemblables, prises au sens qui
-porte l’image de la vérité : mais on ne doit pas donner encore un
-consentement entier, comme nous avons mis dans la règle ; et il
-faut examiner les côtés et les faces inconnues, afin d’entrer
-pleinement dans la nature de la chose, et bien distinguer le vrai
-d’avec le faux ; et alors consentir entièrement si l’évidence nous
-42
-y oblige.
-Il faut donc bien s’accoutumer à-distinguer la vérité d’avec la
-vraisemblance, en s’examinant intérieurement comme je viens
-d’expliquer : car c’est faute d’avoir eu soin de s’examiner de
-cette sorte, que nous nous sentons touchés presque de la même
-manière de deux choses si différentes. Car enfin il est de la
-dernière conséquence de faire bon usage de sa liberté, en
-s’abstenant toujours de consentir aux choses et de les aimer,
-jusqu’à ce qu’on se sente comme forcé de le faire parla voix
-puissante de l’auteur de la nature, que j’ai appelée auparavant les
-reproches de notre raison et les remords de notre conscience.
-Tous les devoirs des êtres spirituels, tant des anges que des
-hommes, consistent principalement dans ce bon usage ; et l’on
-peut dire sans crainte, que, s’ils se servent avec soin de leur
-liberté, sans se rendre mal à propos esclave du mensonge et de la
-vanité, ils sont dans le chemin de la plus grande perfection dont
-ils soient naturellement capables : pourvu néanmoins que leur
-entendement ne demeure point oisif, qu’ils aient soin de l’exciter
-continuellement à de nouvelles connaissances, et qu’ils le rendent
-capable des plus grandes vérités, par des méditations
-continuelles sur des sujets dignes de son attention.
-Car afin de se perfectionner l’esprit, il ne suffit pas de faire
-toujours usage de sa liberté, en ne consentant jamais à rien,
-comme ces personnes qui font gloire de ne rien savoir, et de
-douter de toutes choses. Il ne faut pas aussi consentir à tout,
-comme plusieurs autres qui ne craignent rien tant que d’ignorer
-quelque chose, et qui prétendent tout savoir. Mais il faut faire un
-si bon usage de son entendement, par des méditations
-continuelles, qu’on se trouve souvent en état de pouvoir consentir
-43
-à ce qu’il nous représente sans aucune crainte de se tromper.
+The use, therefore, that we ought to make of our freedom is to make use of it as much as we can; that is to say, never to consent to anything until we are, as it were, forced to do so by the inner reproaches of our reason.
 
+It is to make oneself a slave against God's will to submit to false appearances of truth; but it is to obey the voice of eternal truth, which speaks to us inwardly, to submit in good faith to those secret reproaches of our reason that accompany the refusal one makes to yield to evidence. Here, then, are two rules established on what I have just said, which are the most necessary of all for speculative sciences and for morals, and which can be regarded as the foundation of all human sciences.
+
+
+### Two general rules for avoiding error and sin
+
+1. The first one concerns the sciences: One should never give full consent except to propositions that appear so evidently true that one cannot refuse it without feeling an inner pain and secret reproaches of reason; that is to say, without clearly knowing that one would make bad use of one's freedom if one were unwilling to consent, or if one wished to extend one's power over things over which it no longer has power.
+
+2. The second, for morals, is: One should never absolutely love a good if one can without remorse not love it. From which it follows that one should love nothing absolutely and without relation except God, for He alone is the One whom one cannot refrain from loving in this way without remorse — that is to say, without evidently knowing that one does wrong, supposing one knows Him through reason or through faith.
+
+
+### Necessary reflections on these rules
+
+When the things we perceive appear very probable to us, we find ourselves extremely inclined to believe them; we even feel pain when we do not let ourselves be persuaded by them; so that if we do not take good care, we are in great danger of consenting to them, and consequently of being mistaken; for it is a great chance that truth is entirely in conformity with probability. And that is why I expressly put in these two rules that one must consent to nothing until one sees evidently that one would make bad use of one's freedom if one did not consent.
+
+Now, although one feels extremely inclined to consent to probability, if nevertheless one takes the care to reflect on whether one sees evidently that one is obliged to consent to it, one will doubtless find that one does not. For if the probability is supported by the impressions of our senses — a probability that nevertheless does not deserve the name — then one will find oneself very inclined to yield to it; but one will recognize no other cause for it than some passion, or the general affection one has for what affects the senses, as will be seen sufficiently later.
+
+But if the probability comes from some conformity with truth, as ordinarily probable knowledge is true, taken in a certain sense, then if one reflects on oneself, one will feel inclined to do two things: one, to believe; and the other, to examine further; but one will never find oneself so persuaded as to believe one is evidently doing wrong if one does not fully consent.
+
+Now these two inclinations that one has with regard to probable things are very good. For one can and one ought to give one's consent to probable things, taken in the sense that bears the image of truth; but one ought not yet to give full consent, as we put in the rule; and one must examine the unknown sides and aspects, in order to enter fully into the nature of the thing, and to distinguish well the true from the false; and then consent entirely if evidence obliges us to do so.
+
+One must therefore accustom oneself well to distinguishing truth from probability, by examining oneself inwardly as I have just explained; for it is for lack of having taken care to examine oneself in this way that we feel ourselves touched almost in the same manner by two such different things. For in the end, it is of the utmost consequence to make good use of one's freedom, by always refraining from consenting to things and loving them until one feels oneself, as it were, forced to do so by the powerful voice of the author of nature, which I have previously called the reproaches of our reason and the remorse of our conscience.
+
+All the duties of spiritual beings, both angels and men, consist principally in this good use; and one can say without fear that, if they make careful use of their freedom, without unduly enslaving themselves to falsehood and vanity, they are on the path to the greatest perfection of which they are naturally capable: provided, nevertheless, that their understanding does not remain idle, that they take care to excite it continually to new knowledge, and that they render it capable of the greatest truths through continual meditations on subjects worthy of its attention.
+
+For in order to perfect the mind, it is not enough always to make use of one's freedom by never consenting to anything, like those persons who pride themselves on knowing nothing and doubting everything. Nor must one consent to everything, like many others who fear nothing so much as to be ignorant of something, and who claim to know everything. But one must make such good use of one's understanding, through continual meditations, that one is often in a position to be able to consent to what it represents to us without any fear of being mistaken.

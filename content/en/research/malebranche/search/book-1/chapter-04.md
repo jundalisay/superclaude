@@ -1,112 +1,38 @@
+---
+heading: Chapter 4
+title: "The five principal causes of Error"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+date: 2026-06-20
+---
 
 
-CHAPITRE IV.
 
-I. Des causes occasionnelles de l’erreur, et qu’il y en a cinq principales. — II. Dessein
-général de tout l’ouvrage, et dessein particulier du premier livre.
-Nous venons de voir qu’on ne tombe dans l’erreur que parce
-que l’on ne fait pas l'utsage qu’on devrait faire de sa liberté : que
-c’est faute de modérer l’empressement et l’ardeur de la volonté
-pour les seules apparences de la vérité, qu’on se trompe, et que
-l’erreur ne consiste que dans un consentement de la volonté qui a
-plus d’étendue que la perception de l’entendement, puisqu’on ne
-se tromperait point si l’on ne jugeait simplement que de ce que
-l’on voit.
+We have just seen that one falls into error only because one does not make the use one ought to make of one's freedom: that it is for lack of moderating the eagerness and ardor of the will for mere appearances of truth that one is mistaken, and that error consists only in a consent of the will that has more extent than the perception of the understanding, since one would not be mistaken if one judged only of what one sees.
 
-I. Mais, quoiqu’à proprement parler il n’y ait que le mauvais
-usage de la liberté qui soit cause de l’erreur, en peut dire
-néanmoins que nous avons beaucoup de facultés qui sont cause de
-nos erreurs, non pas causes véritables, mais causes qu’on peut
-appeler occasionnelles. Toutes nos manières d’apercevoir nous
-sont autant d’occasions de nous tromper. Car puisque nos faux
-jugements renferment deux choses, le consentement de la volonté,
-et la perception de l’entendement ; il est bien clair que toutes nos
-manières d’apercevoir nous peuvent donner quelque occasion de nous tromper, puisqu’elles nous peuvent porter à des
-consentements précipités.
+But, although properly speaking there is only the misuse of freedom that is the cause of error, one can nevertheless say that we have many faculties that are causes of our errors — not true causes, but causes that can be called *occasional*. All our ways of perceiving are so many occasions for us to be mistaken. For since our false judgments contain two things — the consent of the will, and the perception of the understanding — it is quite clear that all our ways of perceiving can give us some occasion to be mistaken, since they can lead us to precipitate consents.
 
-Or, parce qu’il est nécessaire de faire d’abord sentir à l’esprit
-ses faiblesses et ses égarements, afin qu’il entre dans de justes
-désirs de s’en délivrer, et qu’il se défasse avec plus de facilités
-de ses préjugés, on va tâcher de faire une division exacte de ses
-manières d’apercevoir, qui seront comme autant de chefs à
-chacun desquels on rapportera dans la suite les différentes
-erreurs auxquelles nous sommes sujets.
-L’âme peut apercevoir les choses en trois manières, par
-l’entendement pur, par l’imagination, par les sens.
-Elle aperçoit par l’entendement pur les choses spirituelles, les
-universelles, les notions communes, l’idée de la perfection, celle
-d’un être infiniment parfait, et généralement toutes ses pensées
-lorsqu’elle les connait par la réflexion qu’elle fait sur soi. Elle
-aperçoit même par l’entendement pur les choses matérielles,
-l’étendue avec ses propriétés ; car il n’y a que l’entendement pur
-qui puisse apercevoir un cercle et un carré parfait, une figure de
-mille côtés, et choses semblables. Ces sortes de perceptions
-s’appellent pures intellections, ou pures perceptions, parce qu’il
-n’est point nécessaire que l’esprit forme des images corporelles
-dans le cerveau pour se représenter toutes ces choses.
-Par l’imagination, l’âme n’aperçoit que les êtres matériels,
-lors qu’étant absents, elle se les rend présents en s’en formant
-des images dans le cerveau. C’est de cette manière qu’on imagine
-toutes sortes de figures, un cercle, un triangle, un visage, un
-cheval, des villes et des campagnes, soit qu’on les ait déjà vues
-ou non. Ces sortes de perceptions se peuvent appeler
-imaginations, parce que l’âme se représente ces objets en s’en formant des images dans le cerveau ; et parce qu’on ne peut pas
-se former des images des choses spirituelles, il s’ensuit que
-l’âme ne les peut pas imaginer ; ce que l’on doit bien remarquer.
+Now, because it is necessary first to make the mind feel its weaknesses and its wanderings, so that it may enter into just desires to be delivered from them, and that it may rid itself more easily of its prejudices, we shall try to make an exact division of its ways of perceiving, which will be like so many headings, to each of which we shall subsequently refer the different errors to which we are subject.
 
-Enfin l’âme n’aperçoit par les sens que les objets sensibles et
-grossiers, lors qu’étant présents ils font impression sur los
-organes extérieurs de son corps et que cette impression se
-communique jusqu’au cerveau, ou, lors qu’étant absents, le cours
-des esprits animaux fait dans le cerveau une semblable
-impression. C’est ainsi qu’elle voit des plaines et des rochers
-présents à ses yeux, qu’elle connaît la dureté du fer, et la pointe
-d’une épée et choses semblables ; et ces sortes de sensations
-s’appellent sentiments ou sensations.
+The soul can perceive things in three ways: through the pure understanding, through the imagination, through the senses.
 
-L’âme n’aperçoit donc rien qu’en ces trois manières ; ce qu’il
-est facile de voir si l’on considère que les choses que nous
-apercevons sont spirituelles ou matérielles. Si elles sont
-spirituelles, il n’y a que l’entendement pur qui les puisse
-connaître ; que si elles sont matérielles, elles seront présentes ou
-absentes. Si elles sont absentes, l’âme ne se les représente
-ordinairement que par l’imagination ; mais si elles sont
-présentes, l’âme peut les apercevoir par les impressions qu’elles
-font sur ses sens ; et ainsi nos âmes n’aperçoivent les choses
-qu’en trois manières, par l’entendement pur, par l'imagination et
-par les sens.
+It perceives through the pure understanding spiritual things, universals, common notions, the idea of perfection, that of an infinitely perfect being, and generally all its thoughts when it knows them by the reflection it makes upon itself. It even perceives material things through the pure understanding — extension with its properties; for only the pure understanding can perceive a perfect circle and square, a figure of a thousand sides, and similar things. These sorts of perceptions are called *pure intellections*, or *pure perceptions*, because it is not necessary for the mind to form bodily images in the brain to represent all these things to itself.
 
-On peut donc regarder ces trois facultés comme de certains
-chefs auxquels on peut rapporter les erreurs des hommes et les
-causes de ces erreurs, et éviter ainsi la confusion où leur grand
-nombre nous jetterait infailliblement si nous voulions en parler
-sans ordre.
+Through the imagination, the soul perceives only material beings, when, being absent, it renders them present to itself by forming images of them in the brain. It is in this way that one imagines all sorts of figures — a circle, a triangle, a face, a horse, cities and countryside — whether one has already seen them or not. These sorts of perceptions can be called *imaginations*, because the soul represents these objects to itself by forming images of them in the brain; and because one cannot form images of spiritual things, it follows that the soul cannot imagine them; which should be well noted.
 
-Mais nos inclinations et nos passions agissent encore très53
-fortement sur nous ; elles éblouissent notre esprit par de fausses
-lueurs, et elles le couvrent et le remplissent de ténèbres. Ainsi
-nos inclinations et nos passions nous engagent dans un nombre
-infini d’erreurs lorsque nous suivons ce faux jour et cette lumière
-trompeuse qu’elles produisent en nous. On doit donc les
-considérer avec les trois facultés de l’esprit, comme des sources
-de nos égarements et de nos fautes, et joindre aux erreurs des
-sens, de l’imagination et de l’entendement pur celles que l’on
-peut attribuer aux passions et aux inclinations naturelles. Ainsi
-l’on peut rapporter toutes les erreurs des hommes et leurs causes
-à cinq chefs, et on les traitera selon cet ordre.
-II. Premièrement, on parlera des erreurs des sens ;
-secondement, des erreurs de l’imagination ; en troisième lieu,
-des erreurs de l’entendement pur ; en quatrième lieu, des
-erreurs des inclinations ; en cinquième lieu, des erreurs des
-passions ; enfin, après avoir essayé de délivrer l’esprit des
-erreurs auxquelles il est sujet, on donnera une méthode générale
-pour se conduire dans la recherche de la vérité.
-III. Nous allons commencer à expliquer les erreurs de nos
-sens, ou plutôt les erreurs où nous tombons en ne faisant pas
-l’usage que nous devrions faire de nos sens, et nous ne nous
-arrêterons pas tant aux erreurs particulières, qui sont presque
-infinies, qu’aux causes générales de ces erreurs et aux choses que
-l’on croit nécessaires pour la connaissance de la nature de
-l’esprit humain.
+Finally, the soul perceives through the senses only sensible and gross objects, when, being present, they make an impression on the external organs of its body and this impression is communicated to the brain, or when, being absent, the course of animal spirits makes a similar impression in the brain. It is thus that it sees plains and rocks present to its eyes, that it knows the hardness of iron, and the point of a sword, and similar things; and these sorts of sensations are called *feelings* or *sensations*.
+
+The soul therefore perceives nothing except in these three ways; which is easy to see if one considers that the things we perceive are either spiritual or material. If they are spiritual, only the pure understanding can know them; if they are material, they will be present or absent. If they are absent, the soul ordinarily represents them to itself only through the imagination; but if they are present, the soul can perceive them through the impressions they make on its senses; and thus our souls perceive things only in three ways: through the pure understanding, through the imagination, and through the senses.
+
+One can therefore regard these three faculties as certain headings to which one can refer the errors of men and the causes of these errors, and thus avoid the confusion into which their great number would infallibly throw us if we wished to speak of them without order.
+
+But our inclinations and our passions also act very strongly upon us; they dazzle our minds with false lights, and they cover and fill them with darkness. Thus our inclinations and our passions engage us in an infinite number of errors when we follow this false light and this deceptive illumination they produce in us. One must therefore consider them along with the three faculties of the mind, as sources of our wanderings and our faults, and join to the errors of the senses, of the imagination, and of the pure understanding those that can be attributed to the passions and natural inclinations. Thus one can refer all the errors of men and their causes to five headings, and they will be treated according to this order.
 
 
+## General design of the entire work, and the design of book 1
+
+First, we shall speak of the errors of the senses; second, of the errors of the imagination; third, of the errors of the pure understanding; fourth, of the errors of the inclinations; fifth, of the errors of the passions; finally, after having tried to deliver the mind from the errors to which it is subject, we shall give a general method for conducting oneself in the search for truth.
+
+I shall explain the errors of our senses, or rather the errors into which we fall by not making the use we ought to make of our senses, and we shall not dwell so much on particular errors, which are almost infinite, as on the general causes of these errors and on the things that are believed necessary for the knowledge of the nature of the human mind.
