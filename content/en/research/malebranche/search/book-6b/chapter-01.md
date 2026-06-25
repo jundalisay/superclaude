@@ -1,5 +1,6 @@
 ---
 heading: Chapter 1
+<<<<<<< HEAD
 title: "The rules to be observed in the search for truth"
 description: ""
 a: "Malebranche"
@@ -7,6 +8,22 @@ c: "indigo"
 weight: 3
 date: 2026-06-20
 ---
+=======
+title: "The Truth"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 30
+date: 2026-06-20
+---
+
+
+
+
+DEUXIÈME PARTIE.
+DE LA MÉTHODE
+CHAPITRE PREMIER.
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 
 <!-- **SECOND PART.**

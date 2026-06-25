@@ -1,5 +1,6 @@
 ---
 heading: Chapter 6
+<<<<<<< HEAD
 title: "The Passions"
 description: ""
 a: "Malebranche"
@@ -190,274 +191,101 @@ peut pas assurer qu’il y ait deux hommes dans le monde qui les
 voient précisément de la même grandeur, ou composés de
 semblables parties, puisqu’on ne peut pas assurer que leurs yeux
 soient tout à fait semblables.
+=======
+title: "Errors of Sight"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+date: 2026-06-20
+---
 
 
-Ils voient les objets de la même grandeur en ce sens qu’ils les
-voient compris dans les mêmes bornes. Car ils en voient les
-extrémités par des lignes presque droites, et qui composent un
-angle visuel qui est sensiblement égal, lorsque les objets sont vus
-d’une égale distance. Mais il n’est pas certain que l’idée sensible
-qu’ils ont de la grandeur d’un même objet soit égale en eux, parœ
-que les moyens qu’ils ont de juger de la distance ne sont pas
-égaux. De plus, ceux dont les fibres du nerf optique sont plus
-petites et plus délicates peuvent remarquer dans un objet
-beaucoup plus de parties que ceux dont ce nerf est d’un tissu plus
-grossier.
-
-Il n’y a rien de si facile que de démontrer géométriquement
-toutes ces choses ; et si elles n’étaient assez connues, on
-s’arrêterait davantage à les prouver. Mais parce que plusieurs
-personnes ont déjà traité ces matières, on prie ceux qui s’en
-veulent instruire de les consulter.
-
-Puisqu’il n’est pas certain qu’il y ait deux hommes dans le
-monde qui voient les objets de la même grandeur, et que
-quelquefois un même homme les voit plus grands de l’œil gauche
-que du droit, selon les observations que l’on en a faites, qui sont
-rapportées dans le Journal des Savants de Rome, du mois de
-janvier 1669, il est visible qu’il ne faut pas nous fier au rapport
-de nos yeux pour en juger. Il vaut mieux écouter la raison qui
-nous prouve que nous ne saurions déterminer quelle est la
-grandeur absolue des corps qui nous environnent, ni quelle idée
-nous devons avoir de l’étendue d’un pied en carré, ou de celle de
-notre propre corps, añn que cette idée nous le représente tel qu’il
-est. Car la raison nous apprend que le plus petit de tous les corps
-ne serait point si petit s’il était seul, puisqu’il est composé d’un
-nombre infini de parties, de chacune desquelles Dieu peut former
-une terre qui ne serait qu’un point à l’égard des autres jointes
-ensemble. Ainsi l’esprit de l’homme n’est pas capable de se
-former une idée assez grande pour comprendre et pour embrasser
-la plus petite étendue qui soit au monde, puisqu’il est borné et
-que cette idée doit être infinie.
-
-Il est vrai que l’esprit peut connaître à peu près les rapports
-qui se trouvent entre ces infinis dont le monde est composé ; que
-l’un, par exemple, est double de l’autre, et qu’une toise contient
-six pieds ; mais cependant il ne peut se former une idée qui
-représente ce que ces choses sont en elles-mêmes.
-Je veux toutefois supposer que l’esprit soit capable d’idées
-qui égalent ou qui mesurent l’étendue des corps que nous
-voyons ; car il est assez difficile de bien persuader aux hommes
-le contraire. Examinons donc ce qu’on peut conclure de cette supposition. On en conclura sans doute que Dieu ne nous trompe
-pas ; qu’il ne nous a pas donné des yeux semblables aux lunettes
-qui grossissent ou qui diminuent les objets ; et qu’ainsi nous
-devons croire que nos yeux nous représentent les choses comme
-elles sont.
-
-Il est vrai que Dieu ne nous trompe jamais ; mais nous nous
-trompons souvent nous-mêmes en jugeant des choses avec trop de
-précipitation. Car nous jugeons souvent que les objets dont nous
-avons des idées existent, et même qu’ils sont tout à fait
-semblables à ces idées, et il arrive souvent que ces objets ne sont
-point semblables à nos idées, et même qu’ils n’existent point.
-De ce que nous avons l’idée d’une chose, il ne s’ensuit pas
-qu’elle existe, et encore moins qu’elle soit entièrement semblable
-à l’idée que nous en avons. De ce que Dieu nous fait avoir une
-telle idée sensible de grandeur, lorsqu’une toise est devant nos
-yeux, il ne s’ensuit pas que cette toise n’ait que l’étendue qui
-nous est représentée par cette idée. Car premièrement tous les
-hommes n’ont pas précisément la même idée sensible de cette
-toise, puisque tous n’ont pas les yeux disposés de la même façon.
-Secondement, une même personne n’a quelquefois pas la même
-idée sensible d’une toise, lorsqu’il voit cette toise avec l’œil
-droit, et ensuite avec le gauche, comme nous avons déjà dit. Enfin
-il arrive souvent que la même personne a des idées toutes
-différentes des mêmes objets en différents temps, selon qu’elle
-les croit plus ou moins éloignés, comme nous expliquerons
-ailleurs.
-
-C’est donc un préjugé qui n’est appuyé sur aucune raison, que
-de croire qu’on voit les corps tels qu’ils sont en eux-mêmes. Car
-nos yeux ne nous étant donnés que pour la conservation de notre
-
-corps, ils s’acquittent fort bien de leur devoir, en nous faisant
-avoir des idées des objets, lesquelles soient proportionnées à
-celle que nous avons de sa grandeur, quoiqu’il ÿ ait dans ces
-objets une infinité de parties qu’ils ne nous découvrent point.
-Mais pour mieux comprendre ce que nous devons juger de
-l’étendue des corps sur le rapport de nos yeux ; imaginons-nous
-que Dieu ait fait en petit, et d’une portion de matière de la
-grosseur d’une balle, un ciel et une terre, et des hommes sur cette
-terre, avec les mêmes proportions qui sont observées dans ce
-grand monde. Ces petits hommes se verraient les uns les autres,
-et les parties de leurs corps, et mêmes les petits animaux qui
-seraient capables de les incommoder ; car autrement leurs yeux
-leur seraient inutiles pour leur conservation. Il est donc manifeste
-dans cette supposition, que ces petits hommes auraient des idées
-de la grandeur des corps, bien différentes de celles que nous en
-avons ; puisqu’ils regardemient leur petit monde qui ne serait
-qu’une balle à notre égard, comme des espaces infinis, à peu près
-de même que nous jugeons du monde dans lequel nous sommes.
-Ou si nous le trouvons plus facile à concevoir, pensons que
-Dieu ait fait une terre infiniment plus vaste, que celle que nous
-habitons ; de sorte que cette nouvelle terre soit à la nôtre, comme
-la nôtre serait à celle dont nous venons de parler dans la
-supposition précédente. Pensons, outre cela, que Dieu ait gardé
-dans toutes les parties, qui composeraient ce nouveau monde, la
-même proportion que dans celles qui composent le nôtre. Il est
-clair que les hommes de ce dernier monde, seraient plus grands
-qu’il n’y a d’espace entre notre terre, et les étoiles les plus
-éloignées que nous voyons ; et cela étant, il est visible que s’ils
-avaient les mêmes idées de l’étendue des corps que nous en
-
-avons, ils ne pourraient pas distinguer quelques-unes des parties
-de leur propre corps, et qu’ils en verraient quelques autres d’une
-grosseur énorme. De sorte qu’il est ridicule de penser qu’ils
-vissent les choses de la même grandeur que nous les voyons.
-Il est manifeste dans les deux suppositions que nous venons de
-faire, que les hommes du grand on du petit monde auraient des
-idées de la grandeur des corps, bien différentes des nôtres,
-supposé que leurs yeux leur fissent avoir des idées des objets qui
-seraient autour d’eux, proportionnées à la grandeur de leur
-propre corps. Or si ces hommes assuraient hardiment sur le
-témoignage de leurs yeux, que les corps seraient tels qu’ils les
-verraient, il est visible qu’ils se tromperaient ; personne n’en
-peut douter. Cependant il est certain que ces hommes auraient tout
-autant de raison que nous de défendre leur sentiment. Apprenons
-donc, par leur exemple, que nous sommes très-incertains de la
-véritable grandeur des corps que nous voyons, et que tout ce que
-nous en pouvons savoir par notre vue, n’est que le rapport qui est
-entre eux et le nôtre, rapport nullement exact ; en un mot, que nos
-yeux ne nous sont pas donnés pour juger de la vérité des choses,
-mais seulement pour nous faire connaître celles’qui peuvent nous
-incommoder ou nous être utiles en quelque chose.
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 
-II. Mais les hommes ne se fient pas seulement à leurs yeux
-pour juger des objets visibles : ils s’y tient même pour juger de
-ceux qui sont invisibles. Dès qu’ils ne voient point certaines
-choses, ils en concluent qu’elles ne sont point ; attribuant ainsi à
-la vue une pénétration en quelque façon infinie. C’est ce qui les
-empêche de reconnaître les véritables causes d’une infinité
-d’effets naturels ; car s’ils les rapportent à des facilités et à des
-qualités imaginaires, c’est souvent parce qu’ils ne voient pas les
+## I. Errors of Sight Regarding Extension Itself
 
-réelles, qui consistent dans les différentes configurations de ces
-corps.
+The sight is the first, the noblest, and the most extensive of all the senses; so that if they were given to us to discover truth, it would alone have more share in it than all the others together. Thus it will suffice to ruin the authority that the eyes have over reason to undecieve us and to lead us to a general distrust of all our senses.
+
+We shall therefore show that we ought not to rely on the testimony of our sight to judge of the truth of things in themselves, but only to discover the relation they have to the preservation of our body; that our eyes generally deceive us in all that they represent to us, in the magnitude of bodies, in their figures and in their movements, in light and in colors, which are the only things we see; that all these things are not such as they appear to us; that everyone is deceived by them; and that this casts us into other errors, the number of which is infinite. We begin with extension, and here are the proofs which make us believe that our eyes never show it to us as it is.
 
 
-Ils ne voient point, par exemple, les petites parties de l’air et
-de la flamme, encore moins celles de la lumière, ou d’une autre
-matière encore plus subtile ; et cela les porte a ne pas croire
-qu’elles existent, ou à juger qu’elles sont sans force et sans
-action. Ils ont recours à des qualités occultes ou à des facultés
-imaginaires, pour expliquer tous les effets dont ces parties
-imperceptibles sont la cause naturelle.
+We see often enough with glasses animals much smaller than a grain of sand which is almost invisible; some have even been seen a thousand times smaller. These living atoms move as well as other animals. They therefore have legs and feet, bones in these legs to support them (or rather on these legs, for the bones of insects are their skin); they have muscles to move them, tendons and an infinity of fibers in each muscle, and finally blood or animal spirits extremely subtle and delicate to fill or to move these muscles successively. It is not possible without this to conceive that they live, that they nourish themselves, and that they transport their little bodies to different places, according to the different impressions of objects; or rather it is not possible that even those who have spent their whole lives in anatomy and in the search for nature can represent to themselves the number, diversity, and delicacy of all the parts of which these little bodies are necessarily composed to live and to execute all the things we see them do.
+
+The imagination loses itself and is astonished at the sight of such a strange smallness; it cannot reach nor take hold of parts, which have no hold for it; and although reason convinces us of what has just been said, the senses and the imagination oppose it, and often oblige us to doubt it.
+
+Our sight is very limited, but it ought not to limit its object. The idea it gives us of extension has very narrow bounds; but it does not follow from this that extension has any. It is without doubt infinite in one sense; and this small part of matter, which hides itself from our eyes, is capable of containing a world in which there would be found as many things, although smaller in proportion, as in this great world in which we live.
+
+The small animals of which we have just spoken have perhaps other small animals which devour them, and which are imperceptible to them because of their frightful smallness, just as these others are imperceptible to us. What a mite is to us, these animals are to a mite; and perhaps there are in nature some smaller, and smaller to infinity in this so strange proportion of a man to a mite.
+
+We have evident and mathematical demonstrations of the divisibility of matter to infinity; and that suffices to make us believe that there can be animals smaller and smaller to infinity, although our imagination is frightened by this thought. God made matter only to form admirable works from it; and since we are certain that there are no parts whose smallness is capable of limiting His power in the formation of these small animals, why limit it and diminish without reason the idea we have of an infinite worker, by measuring His power and His skill by our imagination which is finite?
+
+Experience has already partly undecieved us, by making us see animals a thousand times smaller than a mite; why would we want them to be the last and the smallest of all? For my part, I do not see that there is any reason to imagine so. On the contrary, it is much more probable to believe that there are many smaller than those which have been discovered; for in the end, small animals do not fail microscopes, as microscopes fail small animals.
+
+---
+
+When in the middle of winter one examines the germ of the bulb of a tulip, with a simple magnifying glass or convex glass, or even only with the eyes, one discovers very easily in this germ the leaves which must become green, those which must compose the flower or the tulip, that little triangular part which encloses the seed, and the six little columns which surround it at the bottom of the tulip. Thus one cannot doubt that the germ of a tulip bulb does not contain a whole tulip.
+
+It is reasonable to believe the same thing of the germ of a grain of mustard, of that of an apple pip, and generally of all sorts of trees and plants, although this cannot be seen with the eyes, nor even with the microscope; and one can say with some assurance that all trees are in miniature in the germ of their seed.
+
+It does not even seem unreasonable to think that there are infinite trees in a single germ, since it contains not only the tree of which it is the seed, but also a very great number of other seeds, which can all contain within themselves new trees and new seeds of trees; which will perhaps still preserve, in an incomprehensible smallness, other trees and other seeds as fertile as the first, and so on to infinity. So that, according to this thought which can appear impertinent and bizarre only to those who measure the wonders of the infinite power of God with the ideas of their senses and their imagination, one could say that in a single apple pip there would be apple trees, apples, and seeds of apple trees for infinite or almost infinite centuries, in this proportion of a perfect apple tree to an apple tree in its seed; that nature only develops these little trees, by giving a sensible increase to that which is outside its seed, and insensible increases, but very real and proportional to their size, to those which one conceives to be in their seeds; for one cannot doubt that there cannot be bodies small enough to insinuate themselves between the fibers of these trees which one conceives in their seeds, and to serve them thus as nourishment.
+
+What we have just said of plants and their germs can also be thought of animals and the germ from which they are produced. One sees in the germ of the bulb of a tulip a whole tulip. One also sees in the germ of a fresh egg, which has not been incubated, a chicken which is perhaps entirely formed. One sees frogs in the eggs of frogs, and one will still see other animals in their germ, when one has enough skill and experience to discover them. But the mind must not stop with the eyes; for the sight of the mind has much more extent than the sight of the body. We must therefore think further that all the bodies of men and animals, which will be born until the consummation of the ages, have perhaps been produced since the creation of the world; I mean that the females of the first animals were perhaps created with all those of the same species which they have engendered, and which were to engender in the course of time.
+
+One could push this thought still further, and perhaps with much reason and truth; but one fears with good reason to penetrate too far into the works of God. One sees only infinities everywhere, and not only our senses and our imagination are too limited to comprehend them, but even the mind itself, as pure and as detached from matter as it is, is too gross and too weak to penetrate the least of the works of God. It loses itself, it dissipates, it is dazzled, it is frightened at the sight of what one calls an atom according to the language of the senses. But nonetheless the pure mind has this advantage over the senses and the imagination, that it recognizes its weakness and the greatness of God, and that it perceives the infinity in which it loses itself; whereas our imagination and our senses debase the works of God, and give us a foolish confidence which precipitates us blindly into error. For our eyes do not make us have the idea of all these things which we discover with microscopes and by reason. We perceive by our sight no smaller body than a mite or a moth. Half of a mite is nothing, if we believe the report it makes of it. A moth is only a mathematical point with respect to it; one cannot divide it without annihilating it. Our sight therefore does not represent extension to us according to what it is in itself, but only what it is in relation to our body; and because half of a moth has not a considerable relation to our body, and that it can neither preserve nor destroy it, our sight hides it entirely from us.
+
+But if our eyes were made like microscopes, or rather if we were as small as mites and moths, we would judge quite differently of the magnitude of bodies. For without doubt these small animals have eyes disposed to see what surrounds them, and their own body much larger or composed of a greater number of parts than we see it, since otherwise they could not receive the impressions necessary for the preservation of their life, and thus the eyes they have would be entirely useless to them.
+
+But in order to better persuade oneself of all this, we must consider that our own eyes are in fact only natural glasses; that their humors produce the same effect as the glasses in spectacles; and that according to the situation they maintain between themselves, and according to the figure of the crystalline lens and its distance from the retina, we see objects differently. So that one cannot assure that there are two men in the world who see them precisely of the same magnitude, or composed of similar parts, since one cannot assure that their eyes are entirely similar.
+
+They see objects of the same magnitude in the sense that they see them comprised within the same bounds. For they see their extremities by almost straight lines, which form a visual angle which is sensibly equal, when the objects are seen from an equal distance. But it is not certain that the sensible idea they have of the magnitude of the same object is equal in them, because the means they have of judging distance are not equal. Moreover, those whose fibers of the optic nerve are smaller and more delicate can notice in an object many more parts than those whose nerve is of a coarser tissue.
+
+There is nothing so easy as to demonstrate geometrically all these things; and if they were not well enough known, one would dwell more on proving them. But because several persons have already treated these matters, we beg those who wish to learn about them to consult them.
+
+Since it is not certain that there are two men in the world who see objects of the same magnitude, and that sometimes the same man sees them larger with the left eye than with the right, according to the observations which have been made of it, which are reported in the Journal des Savants of Rome, in the month of January 1669, it is visible that we must not trust the report of our eyes to judge of them. It is better to listen to reason which proves to us that we cannot determine what is the absolute magnitude of the bodies which surround us, nor what idea we must have of the extension of a square foot, or of that of our own body, so that this idea represents it to us as it is. For reason teaches us that the smallest of all bodies would not be so small if it were alone, since it is composed of an infinite number of parts, from each of which God can form an earth which would be only a point with respect to the others joined together. Thus the mind of man is not capable of forming for itself an idea great enough to comprehend and embrace the smallest extension in the world, since it is limited and since this idea must be infinite.
+
+It is true that the mind can know approximately the relations which are found between these infinities of which the world is composed; that one, for example, is double the other, and that a fathom contains six feet; but nevertheless it cannot form an idea which represents what these things are in themselves.
+
+I wish, however, to suppose that the mind is capable of ideas which equal or measure the extension of the bodies we see; for it is rather difficult to persuade men of the contrary. Let us examine then what can be concluded from this supposition. It will undoubtedly be concluded that God does not deceive us; that He has not given us eyes like glasses which magnify or diminish objects; and that thus we must believe that our eyes represent things to us as they are.
+
+It is true that God never deceives us; but we often deceive ourselves by judging things with too much precipitation. For we often judge that the objects of which we have ideas exist, and even that they are entirely similar to these ideas, and it often happens that these objects are not at all similar to our ideas, and even that they do not exist.
+
+From the fact that we have the idea of a thing, it does not follow that it exists, and still less that it is entirely similar to the idea we have of it. From the fact that God makes us have such a sensible idea of magnitude, when a fathom is before our eyes, it does not follow that this fathom has only the extension represented to us by this idea. For first, all men do not have precisely the same sensible idea of this fathom, since all do not have their eyes disposed in the same way. Second, the same person sometimes does not have the same sensible idea of a fathom, when he sees this fathom with the right eye, and then with the left, as we have already said. Finally, it often happens that the same person has quite different ideas of the same objects at different times, according as he believes them more or less distant, as we shall explain elsewhere.
+
+It is therefore a prejudice which is supported by no reason, to believe that one sees bodies as they are in themselves. For our eyes having been given to us only for the preservation of our body, they acquit themselves very well of their duty, by making us have ideas of objects, which are proportional to that which we have of its magnitude, although there may be in these objects an infinity of parts which they do not discover to us.
+
+But in order to better understand what we must judge of the extension of bodies on the report of our eyes; let us imagine that God has made in miniature, and from a portion of matter the size of a ball, a heaven and an earth, and men on this earth, with the same proportions which are observed in this great world. These little men would see each other, and the parts of their bodies, and even the small animals which would be capable of incommoding them; for otherwise their eyes would be useless to them for their preservation. It is therefore manifest in this supposition, that these little men would have ideas of the magnitude of bodies, very different from those we have of them; since they would regard their little world which would be only a ball with respect to us, as infinite spaces, almost in the same way as we judge of the world in which we are.
+
+Or if we find it easier to conceive, let us think that God has made an earth infinitely more vast than that which we inhabit; so that this new earth is to ours, as ours would be to that of which we have just spoken in the preceding supposition. Let us think, besides, that God has preserved in all the parts which would compose this new world, the same proportion as in those which compose ours. It is clear that the men of this latter world would be larger than there is space between our earth and the most distant stars we see; and that being so, it is visible that if they had the same ideas of the extension of bodies as we have of them, they could not distinguish some of the parts of their own body, and they would see some others of an enormous size. So that it is ridiculous to think that they saw things of the same magnitude as we see them.
+
+It is manifest in the two suppositions we have just made, that the men of the great or small world would have ideas of the magnitude of bodies, very different from ours, supposing that their eyes made them have ideas of objects which would be around them, proportional to the magnitude of their own body. Now if these men affirmed boldly on the testimony of their eyes, that bodies would be such as they saw them, it is visible that they would be deceived; no one can doubt it. Yet it is certain that these men would have as much reason as we to defend their opinion. Let us learn then, by their example, that we are very uncertain of the true magnitude of the bodies we see, and that all we can know of them by our sight is only the relation which is between them and ours, a relation by no means exact; in a word, that our eyes are not given to us to judge of the truth of things, but only to make us know those which can incommode us or be useful to us in some way.
+
+---
+
+## II. Continuation of These Errors Regarding Invisible Objects
+
+But men trust their eyes not only to judge of visible objects: they trust them even to judge of those which are invisible. As soon as they do not see certain things, they conclude that they do not exist; thus attributing to sight a penetration in some way infinite. This is what prevents them from recognizing the true causes of an infinity of natural effects; for if they attribute them to facilities and to imaginary qualities, it is often because they do not see the real ones, which consist in the different configurations of these bodies.
+
+They do not see, for example, the small parts of air and of flame, still less those of light, or of another still more subtle matter; and this leads them not to believe that they exist, or to judge that they are without force and without action. They have recourse to occult qualities or to imaginary faculties, to explain all the effects of which these imperceptible parts are the natural cause.
+
+They prefer to have recourse to the horror of a vacuum, to explain the elevation of water in pumps, rather than to the weight of air; to qualities of the moon, for the flux and reflux of the sea, rather than to the pressure of the air which surrounds the earth; to attractive faculties in the sun for the elevation of vapors, rather than to the simple movement of impulse caused by the parts of the subtle matter which it spreads without ceasing.
+
+They regard as impertinent the thought of those who have recourse only to blood and to flesh to account for all the movements of animals, even of habits, and of the bodily memory of men. And this comes in part from the fact that they conceive the brain to be very small, and consequently without sufficient capacity to preserve vestiges of an almost infinite number of things which are there. They prefer to admit without conceiving it, a soul in beasts which is neither body nor spirit; qualities and intentional species for habits and for the memory of men; or similar things, of which one finds no particular notion in one's mind.
+
+One would be too long if one stopped to enumerate the errors to which this prejudice leads us; there are very few in physics, to which it has not given some occasion; and if one wishes to make a strong reflection, one will perhaps be astonished at it.
+
+But although one may not wish to dwell too much on these things, one nevertheless has difficulty keeping silent about the contempt which men ordinarily have for insects, and for other small animals which are born from a matter which they call corrupted. It is an unjust contempt which is founded only on ignorance of the thing which is despised, and on the prejudice of which I have just spoken. There is nothing contemptible in nature, and all the works of God are worthy of respect and admiration, principally if one pays attention to the simplicity of the ways by which God makes and preserves them. The smallest gnats are as perfect as the most enormous animals, the proportions of their limbs are as just as those of others; and it seems even that God has wished to give them more ornaments to reward the smallness of their body. They have crowns, aigrettes, and other adornments on their head, which efface all that the luxury of men can invent; and I can say boldly that all those who have never used anything but their eyes, have never seen anything so beautiful, so just, nor even so magnificent in the houses of the greatest princes, as what one sees with glasses on the head of a simple fly.
+
+It is true that these things are very small; but it is still more surprising that so many beauties are found collected in so small a space; and although they are very common, they are not less estimable for that, and these animals are not less perfect in themselves; on the contrary, God appears the more admirable, who has made with so much profusion and magnificence an almost infinite number of miracles in producing them.
+
+Nevertheless our sight hides all these beauties from us, it makes us despise all these works of God, so worthy of our admiration; and because these animals are small in relation to our body, it makes us consider them as absolutely small, and then as contemptible because of their smallness, as if bodies could be small in themselves. Let us try then not to follow the impressions of our senses in the judgment we make of the magnitude of bodies; and when we say, for example, that a bird is small, let us not understand it absolutely, for nothing is great or small in itself. A bird itself is great with respect to a fly; and if it is small with respect to our body, it does not follow that it is absolutely so, since our body is not an absolute rule by which we should measure others. It is itself very small with respect to the earth; and the earth with respect to the circle which the sun or the earth itself describes around each other; and this circle with respect to the space contained between us and the fixed stars; and thus continuing, for we can always imagine spaces greater and greater to infinity.
 
 
-Ils aiment mieux recourir à l’horreur du vide, pour expliquer
-l’élévation de l’eau dans les pompes, qu’à la pesanteur de l’air ;
-à des qualités de la lune, pour le flux et reflux de la mer, qu’au
-pressement de l’air qui environne la terre ; à des facultés
-attractives dans le soleil pour l’élévation des vapeurs, qu’au
-simple mouvement d’impulsion causé par les parties de la
-matière subtile qu’il répand sans cesse.
+## III. Errors of Our Eyes Touching Extension Considered in Relation
 
+But we must not imagine that our senses teach us exactly the relation which other bodies have with ours: for exactness and justness are not essential to sensible knowledge which should serve only for the preservation of life. It is true that we know sufficiently exactly the relation which bodies which are near us have with ours: but in proportion as these bodies move away we know them less because then they have less relation with our body. The idea or feeling of magnitude which we have at the sight of some body diminishes in proportion as this body is less capable of harming us: and this idea or feeling extends as this body approaches us, or rather as the relation it has with our body increases. Finally if this relation ceases entirely, I mean, if some body is so small or so distant from us that it cannot harm us, we no longer have any feeling of it. So that by sight we can sometimes judge approximately of the relation which bodies have with ours, and of that which they have among themselves; but we must never believe that they are of the magnitude they appear to us.
 
-Ils regardent comme impertinente la pensée de ceux qui n’ont
-recours qu’à du sang et à de la chair pour rendre raison de tous
-les mouvements des animaux, des habitudes même, et de la
-mémoire corporelle des hommes. Et cela vient en partie de ce
-qu’ils conçoivent le cerveau fort petit, et par conséquent sans une
-capacité suffisante pour conserver des vestiges d’un nombre
-presque infini des choses qui y sont. Ils aiment mieux admettre
-sans le concevoir, une âme dans les bêtes qui ne soit ni corps ni
-esprit ; des qualités et des espèces intentionnelles pour les
-habitudes et pour la mémoire des hommes ; ou de semblables
-choses, desquelles on ne trouve point de notion particulière dans
-son esprit.
+Our eyes, for example, represent to us the sun and the moon as a foot or two in width; but we must not imagine, like Epicurus and Lucretius, that they truly have only this width. The same moon appears to the sight much larger than the largest stars, and nevertheless no one doubts that it is incomparably smaller. Likewise we see every day on the earth two or several things, of which we cannot discover exactly the magnitude or the relation, because it is necessary to judge of them to know their exact distance, which is very difficult to know.
 
-On serait trop long si on s’arrêtait à faire le dénombrement des erreurs auxquelles ce préjugé nous porte ; il y en a très-peu dans
-la physique, auxquelles il n’ait donné quelque’occasion ; et si ou
-veut faire une forte réflexion, on en sera peut-être étonné.
-Mais, quoiqu’on ne veuille pas trop s’arrêter à ces choses, on
-a pourtant de la peine à se taire sur le mépris que les hommes
-font ordinairement des insectes, et des autres petits animaux qui
-naissent d’une matière qu’ils appellent corrompue. C’est un
-mépris injuste qui n’est fondé que sur l’ignorance de la chose
-qu’on méprise, et sur le préjugé dont je viens de parler. Il n’y a
-rien de méprisable dans la nature, et tous les ouvrages de Dieu
-sont dignes qu’on les respecte et qu’on les admire,
-principalement si l’on prend garde à la simplicité des voies par
-lesquelles Dieu les fait et les conserve. Les plus petits
-moucherons sont aussi parfaits que les animaux les plus énormes,
-les proportions de leurs membres sont aussi justes que celles des
-autres ; et il semble même que Dieu ait voulu leur donner plus
-d’ornements pour récompenser la petitesse de leur corps. Ils ont
-des couronnes, des aigrettes, et d’autres ajustements sur leur tête,
-qui effacent tout ce que le luxe des hommes peut inventer ; et je
-puis dire hardiment que tous ceux qui ne se sont jamais servis
-que de leurs yeux, n’ont jamais rien vu de si beau, de si juste, ni
-même de si magnifique dans les maisons des plus grands princes,
-que ce qu’on voit avec des lunettes sur la tête d’une simple
-mouche.
-
-Il est vrai que ces choses sont fort petites ; mais il est encore
-plus surprenant qu’il se trouve tant de beautés ramassées dans un
-si petit espace ; et quoiqu’elles soient fort communes, elles n’en
-sont pas moins estimables, et ces animaux n’en sont pas moins
-parfaits en eux mêmes ; au contraire Dieu en paraît plus admirable, qui a fait avec tant de profusion et de magnificence un
-nombre presque infini de miracles en les produisant.
-
-Cependant notre vue nous cache toutes ces beautés, elle nous
-fait mépriser tous ces ouvrages de Dieu, si dignes de notre
-admiration ; et à cause que ces animaux sont petits par rapport à
-notre corps, elle nous les fait considérer comme petits
-absolument, et ensuite comme méprisables à cause de leur
-petitesse, comme si les corps pouvaient être petits en eux mêmes.
-Tâchons donc de ne point suivre les impressions de nos sens
-dans le jugement que nous portons de la grandeur des corps ; et
-quand nous dirons, par exemple, qu’un oiseau est petit, ne
-l’entendons pas absolument, car rien n’est grand ni petit en soi.
-Un oiseau même est grand par rapport à une mouche ; et s’il est
-petit par rapport à notre corps, il ne s’ensuit pas qu’il le soit
-absolument, puisque notre corps n’est pas une règle absolue sur
-laquelle nous devions mesurer les autres. Il est lui-même trèspetit par rapport à la terre ; et la terre par rapport au cercle que
-le soleil ou la terre même décrit à l’entour l’un de l’autre ; et ce
-cercle par rapport à l’espace contenu entre nous et les étoiles
-fixes ; et ainsi en continuant, car nous pouvons toujours imaginer
-des espaces plus grands et plus grands à l’infini.
-
-III. Mais il ne faut pas nous imaginer que nos sens nous
-apprennent au juste le rapport que les autres corps ont avec le
-nôtre : car l’exactitude et la justesse ne sont point essentielles
-aux connaissances sensibles qui ne doivent servir qu’à la
-conservation de la vie. Il est vrai que nous connaissons assez
-exactement le rapport que les corps qui sont proches de nous ont
-avec le nôtre : mais à proportion que ces corps s’éloignent nous
-les connaissons moins parce qu’alors ils ont moins de rapport avec notre corps. 
-
-L’idée ou le sentiment de grandeur que nous
-avons à la vue de quelque corps, diminue à proportion que ce
-corps est moins en état de nous nuire : et cette idée ou sentiment
-s’étend à mesure que ce corps s’approche de nous, ou plutôt à
-mesure que le rapport qu’il a avec notre corps s’augmente. Enfin
-si ce rapport cesse tout in fait, je veux dire, si quelque corps est
-si petit ou si éloigné de nous qu’il ne puisse nous nuire, nous n’en
-avons plus aucun sentiment. De sorte que par la vue nous
-pouvons quelquefois juger à peu près du rapport que les corps
-ont avec le nôtre, et de celui qu’ils ont entre eux ; mais nous ne
-devons jamais croire qu’ils soient de la grandeur qu’ils nous
-paraissent.
-Nos yeux, par exemple, nous représentent le soleil et la lune de
-la largeur d’un ou de deux pieds ; mais il ne faut pas nous
-imaginer, comme Épicure et Lucrèce, qu’ils n’aient véritablement
-que cette largeur. La même lune nous paraît à la vue beaucoup
-plus grande que les plus grandes étoiles, et néanmoins on ne
-doute pas qu’elle ne soit sans comparaison plus petite. De même
-nous voyons tous les jours sur la terre deux ou plusieurs choses,
-desquelles nous ne saurions découvrir au juste la grandeur ou le
-rapport, parce qu’il est nécessaire pour en juger d’en connaître la
-juste distance, ce qu’il est très-difficile de savoir.
-Nous avons même de la peine à juger avec quelque certitude
-du rapport qui se trouve entre deux corps qui sont tout proche de
-nous ; il les faut prendre entre nos mains et les tenir l’un contre
-l’autre pour les comparer, et avec tout cela nous hésitons souvent
-sans en pouvoir rien assurer. Cela se reconnaît visiblement
-lorsqu’on veut examiner la grandeur de quelques pièces de
-monnaie presque égales ; car alors on est obligé de les mettre les
-unes sur les autres pour voir d’une manière plus sûre que par la
-vue si elles conviennent en grandeur. Nos yeux ne nous trompent
-donc pas seulement dans la grandeur des corps en eux-mêmes,
-mais aussi dans les rapports que les corps ont entre eux.
-
+We even have difficulty judging with some certainty of the relation which is found between two bodies which are quite close to us; we must take them in our hands and hold them one against the other to compare them, and with all that we often hesitate without being able to assure anything. This is visibly recognized when one wishes to examine the size of some pieces of money almost equal; for then one is obliged to put them one on the other to see in a surer way than by sight if they agree in size. Our eyes deceive us therefore not only in the magnitude of bodies in themselves, but also in the relations which bodies have among themselves.

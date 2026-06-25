@@ -1,14 +1,27 @@
 ---
 heading: Chapter 7
+<<<<<<< HEAD
 title: "The Passions"
 description: ""
 a: "Malebranche"
 c: "indigo"
 weight: 3
+=======
+title: "Errors of Sight"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 I. Des erreurs de nos yeux touchant les figures. — II. Nous n’avons aucune
 connaissance des plus petites. — III. Que la connaissance, que nous avons des
 plus grandes, n’est pas exacte. — IV. Explication de certains jugements naturels,
