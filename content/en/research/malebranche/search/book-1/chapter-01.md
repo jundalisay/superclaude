@@ -1,10 +1,6 @@
 ---
 heading: Chapter 1
-<<<<<<< HEAD
-title: "The Senses"
-=======
 title: "The Nature and Properties of the Understanding"
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -13,8 +9,6 @@ date: 2026-06-20
 ---
 
 
-
-## The Nature and Properties of the Will, and What Freedom Is
 
 Error is the cause of human misery; it is the evil principle that has produced evil in the world; it is what has given rise to and maintains in our souls all the ills that afflict us, and we must not hope for solid and true happiness unless we work seriously to avoid it.
 
@@ -26,7 +20,10 @@ One must not imagine that there is much to suffer in the search for truth; one n
 
 But without lingering further to prepare the minds of readers, whom it is much more fitting to believe are sufficiently inclined of themselves to the search for truth, let us examine the causes and the nature of our errors; and since the method that examines things by considering them in their birth and origin has more order and clarity, and makes them known more thoroughly than others, let us try to employ it here.
 
-I. The human mind, being neither material nor extended, is without doubt a simple substance, indivisible, and without any composition of parts; but nevertheless one is accustomed to distinguish in it two faculties, namely: the understanding and the will, which it is necessary to explain first, for it seems that the notions or ideas that one has of these two faculties are not clear or distinct enough.
+
+## The Nature and Properties of the Will, and What Freedom Is
+
+The human mind, being neither material nor extended, is without doubt a simple substance, indivisible, and without any composition of parts; but nevertheless one is accustomed to distinguish in it two faculties, namely: the understanding and the will, which it is necessary to explain first, for it seems that the notions or ideas that one has of these two faculties are not clear or distinct enough.
 
 But because these ideas are very abstract and do not fall under the imagination, it seems appropriate to express them in relation to the properties that belong to matter, which, being easily imaginable, will make the notions that it is good to attach to these two words — understanding and will — more distinct and even more familiar. One need only take care that these comparisons between mind and matter are not entirely exact, and that we compare these two things together only to render the mind more attentive and to make others, as it were, feel what we mean to say.
 

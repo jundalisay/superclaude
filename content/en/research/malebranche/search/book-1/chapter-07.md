@@ -1,190 +1,56 @@
 ---
 heading: Chapter 7
-<<<<<<< HEAD
-title: "The Passions"
-description: ""
-a: "Malebranche"
-c: "indigo"
-weight: 3
-=======
 title: "Errors of Sight"
 description: ""
 a: "Malebranche"
 c: "indigo"
 weight: 7
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
-<<<<<<< HEAD
-=======
+
+## Errors of our eyes concerning shapes
+
+Our sight leads us less into error when it represents shapes to us than when it represents anything else to us; because shape in itself is nothing absolute, and its nature consists in the relationship that exists between the parts that bound some space and a point that we conceive within that space, and which we may call, as in the circle, the center of the figure. However, we are mistaken in a thousand ways concerning shapes, and we never know any of them through the senses with ultimate exactness.
 
 
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
-I. Des erreurs de nos yeux touchant les figures. — II. Nous n’avons aucune
-connaissance des plus petites. — III. Que la connaissance, que nous avons des
-plus grandes, n’est pas exacte. — IV. Explication de certains jugements naturels,
-qui nous empêchent de nous tromper. — V. Que ces mêmes jugements nous
-trompent dans des rencontres particulières.
+### We have no knowledge of the smallest bodies
+
+We have just proven that our sight does not make us see every kind of extension, but only that which has a considerable relation to our body, and that for this reason we do not see all the parts of the smallest animals, nor those that compose all bodies, whether hard or liquid. Thus, being unable to perceive these parts because of their smallness, it follows that we cannot perceive their shapes, since the shape of bodies is only the boundary that limits them. Here then is already an almost infinite number of shapes—and even the greatest number—that our eyes do not reveal to us at all; and they even lead the mind, which trusts too much in their capacity and does not examine things enough, to believe that these shapes do not exist.
 
 
-I. Notre vue nous porte moins à l’erreur quand elle nous
-représente les figures que quand elle nous représente toute autre
-chose ; parce que la figure en soi n’est rien d’absolu, et que sa
-nature consiste dans le rapport qui est entre les parties qui
-terminent quelque espace et un point que l’on conçoit dans cet
-espace, et que l’on peut appeler, comme dans le cercle, centre de
-la figure. Cependant nous nous trompons en mille manières dans
-les figures, et nous n’en connaissons jamais aucune par les sens
-dans la dernière exactitude.
-II. Nous venons de prouver que notre vue ne nous fait pas voir
-toute sorte d’étendue, mais seulement celle qui a un rapport assez
-considérable avec notre corps, et que pour cette raison nous ne
-voyons pas toutes les parties des plus petits animaux ni celles qui
-composent tous les corps tant durs que liquides. Ainsi ne pouvant
-apercevoir ces parties à cause de leur petitesse, il s’ensuit que
-nous n’en pouvons apercevoir les figures, puisque la figure des
-corps n’est que le terme qui les borne. Voilà donc déjà un nombre
-presque infini de figures, et même le plus grand, que nos yeux ne
-79
-nous découvrent point ; et ils portent même l’esprit qui se fie trop
-à leur capacité, et qui n’examine pas assez les choses, à croire
-que ces figures ne sont point.
-III. Pour les corps proportionnés à notre vue, qui sont en trèspetit nombre en comparaison des autres, nous découvrons à peu
-pres leur figure, mais nous ne la connaissons jamais exactement
-par les sens. Nous ne pouvons pas même nous assurer par la vue
-si un rond et un carré, qui sont les deux figures les plus simples,
-ne sont point une ellipse et un parallélogramme, quoique ces
-figures soient entre nos mains et tout proche de nos yeux.
-Je dis plus, nous ne pouvons distinguer exactement si une ligne
-est droite. ou non, principalement si elle est un peu longue ; il
-nous faut pour cela une règle. Mais quoi ? nous ne savons pas si
-la règle même est telle que nous la supposons devoir être, et nous
-ne pouvons nous en assurer entièrement. Cependant sans la
-connaissance de la ligne on ne peut jamais connaître aucune
-figure, comme tout le monde sait assez.
-Voilà ce que l’on peut dire en général des figures qui sont tout
-proche de nos yeux et entre nos mains ; mais si on les suppose
-éloignées de nous, combien trouverons-nous de changement dans
-la projection quelles feront sur le fond de nos yeux ? Je ne veux
-pas m'arrêter ici a les décrire, on les apprendra aisément dans
-quelque livre d’optique ou dans l’examen des figures qui se
-trouvent dans les tableaux. Car, puisque les peintres sont obligés
-de les changer presque toutes afin qu’elles paraissent dans leur
-naturel, et de peindre par exemple des cercles comme des ovales,
-c’est une marque infaillible des erreurs de notre vue dans les
-objets qui ne sont pas peints. Mais ces erreurs sont corrigées par
-de nouvelles sensations qu’on pourrait peut-être regarder comme une espèce de jugements naturels et qu’on pourrait appeler
-jugements des sens.
+### The knowledge we have of the largest is not exact
+
+As for bodies proportionate to our sight, which are very few in number compared to the others, we roughly discern their shape, but we never know it exactly through the senses. We cannot even be assured by sight whether a circle and a square, which are the two simplest shapes, are not actually an ellipse and a parallelogram, even when these figures are in our hands and right before our eyes.
+
+I say more: we cannot even distinguish exactly whether a line is straight or not, especially if it is somewhat long; for that we need a ruler. But what then? We do not know whether the ruler itself is as we suppose it ought to be, and we cannot be entirely certain of it. Yet without knowledge of the line, one can never know any shape, as everyone knows well enough.
+
+This is what can be said in general about shapes that are right before our eyes and in our hands; but if we suppose them far away from us, how much change shall we find in the projection they make on the back of our eyes? I do not wish to stop here to describe them; they will easily be learned from some book on optics, or from examining the shapes found in paintings. For since painters are obliged to change almost all of them so that they appear natural, and to paint, for example, circles as ovals, this is an infallible sign of the errors of our sight regarding objects that are not painted. But these errors are corrected by new sensations, which one might perhaps regard as a kind of natural judgment and which one might call judgments of the senses.
 
 
-IV. Quand nous regardons un cube par exemple, il est certain
-que tous les côtés que nous en voyons ne font presque jamais de
-projection ou d’image d’égale grandeur dans le fond de nos yeux,
-puisque l’image de chacun de ces côtés qui se peint sur la rétine
-ou nerf optique est fort semblable à un cube peint en perspective,
-et par conséquent la sensation que nous en avons nous devrait
-représenter les faces du cube comme inégales, puisqu’elles sont
-inégales dans un cube en perspective. Cependant nous les voyons
-toutes égales, et nous ne nous trompons point.
+### Explanation of certain natural judgments that prevent us from being mistaken.
 
-Or, l’on pourrait dire que cela arrive par une espèce de
-jugement que nous faisons naturellement, savoir : que les faces du
-cube les plus éloignées et qui sont vues obliquement ne doivent
-pas former sur le fond de nos yeux des images aussi grandes que
-les faces qui sont plus proches. Mais, comme les sens ne font que
-sentir et ne jugent jamais à proprement parler, il est certain que
-ce jugement n’est qu’une sensation composée, laquelle par
-conséquent peut quelquefois être fausse.
-Cependant ce qui n’est en nous que sensation, pouvant être
-considéré par rapport à l’auteur de la nature qui l’excite en nous
-comme une espèce de jugement, je parle quelquefois des
-sensations comme de jugements naturels, parce que cette manière
-de parler sert à rendre raison des choses ; comme on le peut voir
-ici, dans le neuvième chapitre, vers la fin, et dans plusieurs
-autres endroits.
+When we look at a cube, for example, it is certain that all the sides we see almost never make a projection or image of equal size on the back of our eyes, since the image of each of these sides that is painted on the retina or optic nerve is very similar to a cube painted in perspective, and consequently the sensation we have of it should represent the faces of the cube as unequal, since they are unequal in a cube in perspective. Yet we see them all as equal, and we are not mistaken.
 
-V. Quoique ces jugements dont je parle nous servent à corriger
-nos sens en mille façons différentes, et que sans eux nous nous
-tromperions presque toujours, cependant ils ne laissent pas de nous être des occasions d’erreur. S’il arrive par exemple que
-nous voyions le haut d’un clocher derrière une grande muraille ou
-derrière une montagne, il nous paraîtra assez proche et assez
-petit. Que si après nous le voyons dans la même distance, mais
-avec plusieurs terres et plusieurs maisons entre nous et lui, il
-nous paraitra sans doute plus éloigné et plus grand ; quoique dans
-l’une et dans l’autre manière la projection des rayons du clocher,
-ou l’image du clocher qui se peint au fond de notre œil, soit toute
-la même. Or, l’on peut dire que nous le voyons plus grand à cause
-d’un jugement que nous faisons naturellement, savoir : que,
-puisqu’il y a tant de terres entre nous et le clocher, il faut qu’il
-soit plus éloigné, et par conséquent plus grand.
-Que si au contraire nous ne voyons point de terres entre nos
-yeux et le clocher, quoique nous sachions même d’autre part qu’il
-y en a beaucoup et qu’il est fort éloigné, ce qui est assez
-remarquable, il nous paraîtra toutefois fort proche et fort petit,
-comme je viens de dire. Et l’on peut encore penser que cela se
-fait par une espèce de jugement naturel à notre âme, laquelle voit
-de la sorte ce clocher, parce qu’elle le juge à cinq ou six cents
-pas. Car d’ordinaire notre imagination ne se représente pas plus
-d’étendue entre les objets si elle n’est aidée par la vue sensible
-d’autres objets qu’elle voie entre deux, et au delà desquels elle
-puisse encore imaginer
-[13]
-.
-C’est pour cela que quand la lune se lève ou qu’elle se couche,
-nous la voyons beaucoup plus grande que lorsqu’elle est fort
-élevée sur l’horizon ; car étant fort haute, nous ne voyons point
-entre elle et nous d’objets dont nous sachions la grandeur pour
-juger de celle de la lune par leur comparaison. Mais quand elle
-vient de se lever ou qu’elle est prête à se coucher, nous voyons
-entre elle et nous plusieurs campagnes dont nous connaissons à
-peu près la grandeur ; et ainsi nous la jugeons plus éloignée, et à
-cause de cela nous la voyons plus grande.
+Now, one might say that this happens by a kind of judgment that we make naturally, namely: that the faces of the cube that are farthest away and seen obliquely should not form images on the back of our eyes as large as the faces that are closer. But, since the senses only sense and never strictly judge, it is certain that this judgment is only a composite sensation, which consequently can sometimes be false.
 
-Et il faut remarquer que lorsqu’elle est élevée au-dessus de
-nos têtes, quoique nous sachions très-certainement par la raison
-qu’elle est dans une très-grande distance, nous ne laissons
-pourtant pas de la voir fort proche et fort petite ; parce qu’en
-effet ces jugements naturels de la vue ne sont appuyés que sur des
-perceptions de la même vue, et que la raison ne peut les corriger.
-De sorte qu’ils nous portent souvent à l’erreur en nous faisant
-former des jugements libres qui s’accordent parfaitement avec
-eux. Car quand on juge comme l’on sent on se trompe toujours ;
-quoiqu’on ne se trompe jamais quand on juge comme l’on
-conçoit, parce que le corps n’instruit que pour le corps, et qu’il
-n’y a que Dieu qui enseigne toujours la vérité, comme je ferai
-voir ailleurs.
+However, what is in us merely sensation, being considered in relation to the author of nature who excites it in us as a kind of judgment, I sometimes speak of sensations as natural judgments, because this manner of speaking serves to give an account of things; as can be seen here, in the ninth chapter, toward the end, and in several other places.
 
-Ces faux jugements ne nous trompent pas seulement dans
-l’ëéloignement et dans la grandeur des corps, ce qui n’est pas de
-ce chapitre, mais aussi en nous faisant voir leur figure autre
-qu’elle n’est. Nous voyons, par exemple, le soleil et la lune et les
-autres corps sphériques fort éloignés comme s’ils étaient plats et
-comme des cercles ; parce que dans cette grande distance nous ne
-pouvons pas distinguer si la partie qui nous est opposée est plus
-proche de nous que les autres, et à cause de cela nous la jugeons
-dans une égale distance. C’est aussi pour la même raison que
-nous jugeons que toutes les étoiles et le bleu qui paraît au ciel
-sont à peu près dans le même éloignement que leurs voisines et
-comme dans une voûte parfaitement convexe et elliptique, parce
-que notre esprit suppose toujours l’égalité où il ne voit point
-83
-d’inégalité ; cependant il ne la devrait positivement reconnaître
-qu’où il la voit avec évidence.
-On ne s’arrète pas ici à expliquer plus au long les erreurs de
-notre vue à l’égard des figures des corps, parce qu’on s’en peut
-instruire dans quelque livre d’optique. Cette science en effet
-n’apprend que la manière de tromper les yeux ; et toute son
-adresse ne consiste qu’à trouver des moyens pour nous faire faire
-les jugements naturels dont je viens de parler dans le temps que
-nous ne les devons pas faire. Et cela se peut exécuter en tant de
-différentes manières que de toutes les figures qui sont au monde,
-il n’y en a pas une seule qu’on ne puisse peindre en mille façons ;
-de sorte que la vue s’y trompera infailliblement. Mais ce n’est
-pas ici le lieu d’expliquer ces choses à fond. Ce que l’on a dit
-suffit pour faire voir qu’il ne faut pas tant se fier à ses yeux, lors
-même qu’ils nous représentent la figure des corps ; quoiqu’en
-matière de figures ils soient beaucoup plus fidèles qu’en toute
-autre rencontre.
+
+## These same judgments deceive us in particular encounters.
+
+Although these judgments of which I speak serve to correct our senses in a thousand different ways, and that without them we would almost always be mistaken, they nonetheless do not fail to be occasions of error for us. 
+
+If it happens, for example, that we see the top of a bell tower behind a great wall or behind a mountain, it will appear to us quite close and quite small. If afterward we see it at the same distance, but with several stretches of land and several houses between us and it, it will undoubtedly appear to us more distant and larger; although in both ways the projection of the rays of the bell tower, or the image of the bell tower that is painted on the back of our eye, is exactly the same. Now, one might say that we see it larger because of a judgment that we make naturally, namely: that since there is so much land between us and the bell tower, it must be farther away, and consequently larger.
+
+If, on the contrary, we see no land between our eyes and the bell tower, even though we know from other sources that there is much of it and that it is very far away—which is quite remarkable—it will nevertheless appear to us very close and very small, as I have just said. And one may also think that this happens by a kind of natural judgment in our soul, which thus sees this bell tower because it judges it to be five or six hundred paces away. For ordinarily our imagination does not represent more extension between objects unless it is aided by the visible sight of other objects that it sees in between, and beyond which it can still imagine.
+
+This is why when the moon rises or sets, we see it much larger than when it is very high on the horizon; for when it is very high, we see no objects between it and us whose size we know in order to judge the size of the moon by comparison with them. But when it has just risen or is about to set, we see between it and us several stretches of countryside whose size we roughly know; and thus we judge it to be farther away, and because of that we see it as larger.
+
+And it should be noted that when it is high above our heads, although we know very certainly by reason that it is at a very great distance, we nevertheless continue to see it as very close and very small; because in fact these natural judgments of sight are based only on perceptions of sight itself, and reason cannot correct them. So that they often lead us into error by making us form free judgments that agree perfectly with them. For when one judges as one senses, one is always mistaken; although one is never mistaken when one judges as one conceives, because the body instructs only for the body, and only God always teaches the truth, as I will show elsewhere.
+
+These false judgments deceive us not only in the distance and size of bodies—which is not the subject of this chapter—but also by making us see their shape as other than it is. We see, for example, the sun and the moon and other very distant spherical bodies as if they were flat and like circles; because at that great distance we cannot distinguish whether the part facing us is closer to us than the others, and because of that we judge it to be at an equal distance. It is also for the same reason that we judge that all the stars and the blue that appears in the sky are at roughly the same distance as their neighbors and as if on a perfectly convex and elliptical vault, because our mind always supposes equality where it sees no inequality; yet it should positively recognize it only where it sees it with evidence.
+
+We do not stop here to explain at greater length the errors of our sight concerning the shapes of bodies, because one can learn about them from some book on optics. This science, in fact, teaches only the way to deceive the eyes; and all its skill consists only in finding means to make us make the natural judgments of which I have just spoken at times when we should not make them. And this can be accomplished in so many different ways that of all the shapes in the world, there is not a single one that cannot be painted in a thousand ways; so that sight will infallibly be deceived by them. But this is not the place to explain these things thoroughly. What has been said suffices to show that we should not trust our eyes so much, even when they represent the shape of bodies to us; although in matters of shape they are much more faithful than in any other encounter.
 

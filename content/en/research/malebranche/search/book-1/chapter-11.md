@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11
-title: "The Passions"
+title: "Errors"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,69 +10,26 @@ date: 2026-06-20
 
 
 
-I. De l’erreur où l’on tombe touchant l’action des objets contre les fibres extérieures de
-nos sens. — II. Cause de cette erreur. — III. Objection et réponse.
-On traitera dans ce chapitre et dans les trois suivants, de ces
-quatre choses que nous venons de dire que l’on confondait et que
-l’on prenait pour une simple sensation ; et on expliquera
-seulement, en général, les erreurs dans lesquelles nous tombons :
-parce que si on voulait entrer dans le détail, ce ne serait jamais
-fait. On espère toutefois mettre l’esprit des lecteurs en état de
-découvrir avec une très-grande facilité toutes les erreurs où les
-sens nous peuvent porter ; mais on leur demande pour cela qu’ils
-méditent avec quelque application, tant sur les chapitres qui
-suivent que sur celui qu’ils viennent de lire.
-I. La première de ces choses que nous confondons dans
-chacune de nos sensations est l’action des objets sur les fibres
-extérieures de notre corps. Il est certain qu’on ne met presque
-jamais de différence entre la sensation de l’âme et cette action
-des objets, et cela n’a pas besoin de preuve. Presque tous les
-hommes s’imaginent que la chaleur, par exemple, que l’on sent, est dans le feu qui la cause, que la lumière est dans l’air, et que
-les couleurs sont sur les objets colorés. Ils ne pensent point aux
-mouvements des corps imperceptibles qui causent ces sentiments
-ou plutôt qui les accompagnent.
 
-II. Il est vrai qu’ils ne jugent pas que la douleur soit dans
-l’aiguille qui les pique, de même qu’ils jugent que la chaleur est
-dans le feu ; mais c’est que l’aiguille et son action sont visibles,
-et que les petites parties du bois qui sortent du feu et leur
-mouvement contre nos mains ne se voient pas. Ainsi ne voyant
-rien qui frappe nos mains quand nous nous chauffons, et y sentant
-de la chaleur, nous jugeons naturellement que cette chaleur est
-dans le feu, faute d’y voir autre chose.
 
-De sorte qu’il est ordinairement vrai que nous attribuons nos
-sensations aux objets, quand les causes de ces sensations nous
-sont inconnues ; et parce que la douleur et le chatouillement sont
-produits avec des corps sensibles, comme avec une aiguille et
-une plume que nous voyons et que nous touchons, nous ne jugeons
-pas à cause de cela qu’il y ait rien de semblable à ces sentiments
-dans les objets qui nous les causent.
+In this chapter and in the following three, we shall treat of those four things which we have just said are confused and taken for a simple sensation; and we shall explain only, in general, the errors into which we fall: because if we wished to enter into detail, it would never be finished. We hope, however, to put the reader's mind in a position to discover with very great ease all the errors into which the senses can lead us; but we ask of them, for this purpose, that they meditate with some application, both on the following chapters and on the one they have just read.
 
-III. Il est vrai néanmoins que nous ne laissons pas de juger que
-la brûlure n’est pas dans le feu, mais seulement dans la main,
-quoiqu’elle ait pour cause les petites parties du bois aussi bien
-que la chaleur, laquelle toutefois nous attribuons au feu : mais la
-raison de ceci est que la brûlure est une espèce de douleur ; car
-ayant jugé plusieurs fois que la douleur n’est pas dans le corps
-extérieur qui la cause, nous sommes portés à faire encore le
-même jugement de la brûlure.
 
-Ce qui nous porte encore à en juger de la sorte, c’est que la
-douleur ou la brûlure appliquent fortement notre âme aux parties de notre corps, et cela nous détourne de penser à autre chose.
-Ainsi l’esprit attache la sensation de la brûlure à l’objet qui lui
-est le plus présent ; et parce que nous reconnaissons un peu après
-que la brûlure a laissé quelques marques visibles dans la partie
-où nous avons senti de la douleur, cela nous confirme dans le
-jugement que nous avons fait que la brûlure est dans la main.
-Mais cela n’empêche pas qu’on ne doive recevoir cette règle
-générale : que nous avons coutume d’attribuer nos sensations
-aux objets, toutes les fois qu’íls agissent sur nous par le
-mouvement de quelques parties invisibles ; et c’est pour cette
-raison que l’on croit ordinairement que les couleurs, la lumière,
-les odeurs, les saveurs, le son, et quelques autres sentiments, sont
-dans l’air ou dans les objets extérieurs qui les causent, parce que
-toutes ces sensations sont produites en nous par le mouvement de
-quelques corps imperceptibles
-[20]
+## On the error we commit concerning the action of objects against the external fibres of our senses
+
+The first of these things that we confuse in each of our sensations is the action of objects upon the external fibres of our body. It is certain that one almost never makes a distinction between the soul's sensation and this action of objects, and this needs no proof. Almost all men imagine that the heat, for example, which one feels, is in the fire that causes it, that light is in the air, and that colours are upon coloured objects. They do not think of the movements of imperceptible bodies that cause these feelings, or rather that accompany them.
+
+
+## Cause of this error
+
+It is true that they do not judge that the pain is in the needle that pricks them, in the same way that they judge that heat is in the fire; but this is because the needle and its action are visible, whereas the tiny parts of the wood that come out of the fire and their movement against our hands are not seen. Thus, seeing nothing that strikes our hands when we warm ourselves, and feeling heat there, we naturally judge that this heat is in the fire, for lack of seeing anything else there.
+
+So that it is ordinarily true that we attribute our sensations to objects, when the causes of these sensations are unknown to us; and because pain and tickling are produced by sensible bodies, such as a needle and a feather that we see and touch, we do not on that account judge that there is anything resembling these feelings in the objects that cause them.
+
+
+## Objection and reply
+
+We do not fail to judge that the burn is not in the fire, but only in the hand, although it has for its cause the tiny parts of the wood just as heat does, which we nevertheless attribute to the fire: but the reason for this is that the burn is a kind of pain; for having judged several times that pain is not in the external body that causes it, we are led to make the same judgment about the burn.
+
+What also leads us to judge in this way is that pain or the burn strongly applies our soul to the parts of our body, and this turns us away from thinking of anything else. Thus the mind attaches the sensation of the burn to the object that is most present to it; and because we recognize shortly afterwards that the burn has left some visible marks on the part where we felt the pain, this confirms us in the judgment we have made that the burn is in the hand. But this does not prevent us from receiving this general rule: that we are accustomed to attribute our sensations to objects, whenever they act upon us through the movement of some invisible parts; and it is for this reason that one ordinarily believes that colours, light, odours, flavours, sound, and some other feelings, are in the air or in the external objects that cause them, because all these sensations are produced in us by the movement of some imperceptible bodies.
 

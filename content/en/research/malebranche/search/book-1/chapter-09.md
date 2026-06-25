@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9
-title: "The Passions"
+title: "Proof of the errors of our sight concerning motion"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,382 +10,75 @@ date: 2026-06-20
 
 
 
-Continuation du même sujet. — I. Preuve générale des erreurs de notre vue touchant le
-mouvement. — II. Qu’il est nécessaire de connaître la distance des objets pour
-juger de la grandeur de leur mouvement. — III. Examen des moyens pour
-reconnaître les distances.
 
-I. Voici une preuve générale de toutes les erreurs dans
-lesquelles notre vue nous fait tomber touchant le mouvement.
-A soit l’œil du spectateur ; C l’objet que je suppose assez
-éloigné d’A. Je dis que quoique l’objet demeure immobile en C,
-on peut le croire s’éloigner jusqu’à D ou s’approcher jusqu’à B.
-Que quoique l’objet s’éloigne vers D, on peut le croire immobile
-en C et même s’approcher vers B ; et au contraire, quoiqu’il
-s’approche vers B, on peut le croire immobile en C et même
-s’éloigner vers D. Que quoique l’objet se soit avancé depuis C
-jusqu’en E ou en H, ou jusqu’en G, ou en K, on peut croire qu'il
-ne s’est mu que depuis C jusqu’à F ou I ; et au contraire, que bien
-que l’objet se soit mu depuis C jusqu’à F ou I, on peut croire
-qu’il s’est mu jusqu’à E, ou H, ou bien jusqu’à G ou K. Que si
-l’objet se ment par une ligne également distante du spectateur,
-c’est-à-dire par une circonférence dont le spectateur soit le
-centre : encore que cet objet se meuve de C en P, on peut croire qu’il ne se meut que de B en O ; et au contraire, bien qu’il ne se
-meuve que de B en O, on le peut croire se mouvoir de C en P.
-Si par delà l’objet C il se trouve un autre objet M, que l’on
-croie immobile, et qui cependant se meuve vers N ; quoique
-l’objet C demeure immobile, ou se meuve beaucoup plus
-lentement vers F, que M. vers N, il paraîtra se mouvoir vers Y, et
-au contraire, si, etc.
+## General proof of the errors of our sight concerning motion
 
-II. Il est évident que la preuve de toutes ces propositions,
-hormis de la dernière, où il n’y a point de difficultés, ne dépend
-que d’une chose, qui est, que nous ne pouvons d’ordinaire juger
-avec assurance de la distance des objets. Car s’il est vrai que
-nous n’en saurions juger avec certitude, il s’ensuit que nous ne
-pouvons savoir si C s’est avancé vers D, ou s’il s’est approché
-vers B, et ainsi des autres propositions.
+Let:
+- `A` be the spectator's eye
+- `C` the object which is far from A
 
-Or pour voir si les jugements que nous formons de la distance
-des objets sont assurés, il n’y a qu’à examiner les moyens dont
-nous nous servons pour en juger ; et si ces moyens sont
-incertains, il ne se peut pas faire que les jugements soient
-infaillibles. Il y en a plusieurs et il les faut expliquer.
-
-III. Le premier, le plus universel, et quelquefois le plus sûr
-moyen que nous ayons pour juger de la distance des objets, est
-l’angle que font les rayons de nos yeux duquel l’objet en est le
-sommet, c’est-à-dire, duquel l’objet est le point où ces rayons se
-rencontrent. Lorsque cet angle est fort grand, nous voyons l’objet
-fort proche, et au contraire quand il est fort petit, nous le voyons
-fort éloigné. Et le changement qui arrive dans la situation de nos
-yeux selon les changements de cet angle, est le moyen dont notre
-âme se sert pour juger de l’éloignement ou de la proximité des
-objets. Car de même qu’un aveugle qui aurait dans ses mains deux bâtons droits desquels il ne saurait pas la longueur, pourrait,
-par une espèce de géométrie naturelle, juger à peu près de la
-distance de quelque corps en le touchant du bout de ces deux
-bâtons, à cause de la disposition et de l’éloignement ou ses mains
-se trouveraient ; ainsi on peut dire que l’âme juge de la distance
-d’un objet par la disposition de ses yeux qui n’est pas la même
-quand l’angle par lequel elle le voit est grand que quand il est
-petit, c’est-à-dire quand l’objet est proche que quand il est
-éloigné.
-
-On se persuadera facilement de ce que je dis, si l’on prend la
-peine de faire cette expérience qui est fort facile. Que l’on
-suspende au bout d’un filet une bague dont l’ouverture ne nous
-regarde pas, ou bien qu’on enfonce un bâton dans la terre, et
-qu’on en prenne un autre à la main qui soit courbe par le bout ;
-que l’on se retire à trois ou quatre pas de la bague ou du bâton ;
-que l’on ferme un œil d’une main et que de l’autre on tâche
-d’enfiler la bague, ou de toucher de travers et à la hauteur
-environ de ses yeux le bâton avec celui que l’on tient à sa main ;
-et on sera surpris de ne pouvoir peut-être faire en cent fois ce que
-l’on croyait très-facile. Si l’on quitte même le bâton et qu’on
-veuille encore enfiler de travers la bague avec quelqu’un de ses
-doigts, on y trouvera quelque difficulté, quoique l’on en soit tout
-proche.
-
-Mais il faut bien remarquer que j’ai dit qu’on tâchât d’enfiler
-la bague ou de toucher le bâton de travers, et non point par une
-ligne droite de notre œil à la bague ; car alors il n’y aurait aucune
-difficulté, et même il serait encore plus facile d’en venir à bout
-avec un œil fermé que les deux yeux ouverts, parce que cela nous
-réglerait.
+Although the object remains immobile at C, one may believe it to be moving away to D or approaching to B. That although the object is moving away toward D, one may believe it to be immobile at C and even approaching toward B; and conversely, although it is approaching toward B, one may believe it to be immobile at C and even moving away toward D. That although the object has advanced from C to E or H, or to G or K, one may believe that it has moved only from C to F or I; and conversely, that although the object has moved from C to F or I, one may believe that it has moved to E, or H, or even to G or K. That if the object moves along a line equally distant from the spectator, that is to say along a circumference of which the spectator is the center: even though this object moves from C to P, one may believe that it moves only from B to O; and conversely, although it moves only from B to O, one may believe it to be moving from C to P.
+If beyond object C there is another object M, which one believes to be immobile, and which however moves toward N; although object C remains immobile, or moves much more slowly toward F, than M toward N, it will appear to move toward Y, and conversely, if, etc.
 
 
-Or l’on peut dire que la difficulté qu’on trouve à enfiler une
-bague de travers n’ayant qu’un œil ouvert, vient de ce que l’autre
-étant fermé, l’angle dont je viens de parler n’est point connu. Car
-il ne suffit pas pour connaître la grandeur d’un angle, de savoir
-celle de la base et celle d’un angle que fait un de ses côtés sur
-cette base ; ce qui est connu par l’expérience précédente. Mais il
-est encore nécessaire de connaître l’autre angle que fait l’autre
-côté sur la base, ou la longueur d’un des côtés, ce qui ne se peut
-exactement savoir qu’en ouvrant l’autre œil. Ainsi l’âme ne se
-peut servir de sa géométrie naturelle pour juger de la distance de
-la bague.
 
-La disposition des yeux qui accompagne l’angle formé des
-rayons visuels qui se coupent et se rencontrent dans l’objet, est
-donc un des meilleurs et des plus universels moyens dont l’âme
-se serve pour juger de la distance des choses. Si donc cet angle
-ne change point sensiblement, quand l’objet est un peu éloigné,
-soit qu’il s’approche ou qu’il se recule de nous, il s’ensuivra que
-ce moyen sera faux, et que l’âme ne s’en pourra servir pour juger
-de la distance de cet objet.
+## it is necessary to know the distance of objects in order to judge the magnitude of their motion. — III. Examination of the means for recognizing distances.**
 
-Or il est très-facile de reconnaître que cet angle change
-notablement, quand un objet qui est à un pied de notre vue est
-transporte à quatre : mais s’il est seulement transporté de quatre à
-huit, le changement est beaucoup moins sensible ; si de huit a
-douze encore moins ; si de mille à cent mille, presque plus ; enfin
-ce changement ne sera plus sensible, quand même on le porterait
-jusque dans les espaces imaginaires. De sorte que s’il y a un
-espace assez considérable entre A et C, l’âme ne pourra point par
-ce moyen connaître si l’objet est proche de B ou de D.
-C’est pour cette raison que nous voyons le soleil et la lune comme s’ils étaient enveloppes dans les nues, quoiqu’ils en
-soient étrangement éloignés ; que nous croyons naturellement que
-tous les astres sont dans une égale distance, et que les comètes
-sont stables et presque sans aucun mouvement sur la fin de leur
-cours. Nous nous imaginons même que les comètes se dissipent
-entièrement au bout de quelques mois, à cause qu’elles
-s’éloignent de nous par une ligne presque droite ou directe à nos
-yeux, et quelles vont ainsi se perdre dans ces grands espaces,
-d’où elles ne retournent qu’après plusieurs années, ou même
-après plusieurs siècles ; car il y a bien de l’apparence qu’elles
-ne se dissipent pas dès qu’on cesse de les voir.
+It is evident that the proof of all these propositions, except the last, where there is no difficulty, depends only on one thing, which is, that we cannot ordinarily judge with assurance of the distance of objects. For if it is true that we cannot judge it with certainty, it follows that we cannot know whether C has advanced toward D, or whether it has approached toward B, and so on for the other propositions.
 
-Pour expliquer le second moyen dont l’âme se sert pour juger
-de la distance des objets, il faut savoir qu’il est absolument
-nécessaire que la figure de l’œil soit différente, selon la
-différente distance des objets que nous voyons ; car lorsqu’un
-homme voit un objet proche de soi, il est nécessaire que ses yeux
-soient plus longs que si l’objet était plus éloigné : parce qu’afin
-que les rayons de cet objet se rassemblent sur le nerf optique, ce
-qui est nécessaire afin qu’on le voie distinctement,
-principalement parce que l’objet est peu éclairé, il faut que la
-distance d’entre ce nerf et le cristallin soit plus grande.
+Now to see whether the judgments that we form about the distance of objects are assured, we have only to examine the means we use to judge them; and if these means are uncertain, it cannot be that the judgments are infallible. There are several of them, and they must be explained.
 
-ll est vrai que si le cristallin devenait plus convexe quand
-l’objet est proche, cela ferait le même effel que si l’œil
-s’allongeait ; mais il n’est pas croyable que le cristallin puisse
-facilement changer de convexité ; et l’on a, d’un autre côté, une
-preuve assez vraisemblable que l’œil s’allonge ; car l’anatomie
-apprend qu’il y a des muscles qui environnent l’œil par le milieu,
-et l’on sent l’effort de ces muscles qui le pressent, et qui
-l’allongent apparemment quand on veut voir quelque chose de fort près.
+**III.** The first, most universal, and sometimes most sure means that we have for judging the distance of objects is the angle made by the rays of our eyes, of which the object is the vertex, that is to say, of which the object is the point where these rays meet. When this angle is very large, we see the object very close, and conversely when it is very small, we see it very far away. And the change that occurs in the situation of our eyes according to the changes of this angle is the means by which our soul judges the distance or proximity of objects. For just as a blind man who had two straight sticks in his hands, of which he did not know the length, could, by a kind of natural geometry, judge approximately the distance of some body by touching it with the ends of these two sticks, because of the disposition and distance of his hands; so one can say that the soul judges the distance of an object by the disposition of its eyes, which is not the same when the angle by which it sees it is large as when it is small, that is to say, when the object is close as when it is distant.
 
-Mais il n’est pas nécessaire de savoir ici de quelle manière
-cela se fait, il suffit qu’il arrive du changement dans l’œil, soit
-parce que les muscles qui l’environnent le pressent, soit parce
-que les petits nerfs qui répondent aux ligaments ciliaires,
-lesquels tiennent le cristallin suspendu entre les autres humeurs
-de l’œil, se lâchent pour augmenter la convexité du cristallin, ou
-se roidissent pour la diminuer, soit enfin parce que la prunelle se
-dilate ou se resserre, car il y a bien des gens dont les yeux ne
-reçoivent point d’autre changement.
+One will easily persuade oneself of what I say, if one takes the trouble to make this very easy experiment. Let one suspend at the end of a thread a ring whose opening does not face us, or let one drive a stick into the ground, and take another in one's hand that is curved at the end; let one withdraw three or four paces from the ring or the stick; let one close one eye with one hand and with the other try to thread the ring, or to touch sideways and at about the height of one's eyes the stick with the one held in one's hand; and one will be surprised at not being able perhaps in a hundred tries to do what one thought very easy. If one even puts down the stick and still wants to thread the ring sideways with one of one's fingers, one will find some difficulty, although one is quite close to it.
 
-Can enfin, le changement qui arrive, quel qu’il soit, n’est que
-pour faire que les rayons des objets se rassemblent tout juste sur
-le nerf optique. Or il est constant que, quand l’objet est à cinq
-cents pas ou à dix mille lieues, on le regarde avec la même
-disposition des yeux, sans qu’il y ait aucun changement sensible
-dans les muscles qui environnent l’œil, ni dans les nerfs qui
-répondent aux ligaments ciliaires du cristallin, ni enfin dans
-l’ouverture de la prunelle, et les rayons des objets se rassemblent
-fort exactement sur la rétine ou nerf optique. Ainsi l’âme jugerait
-que des objets éloignés de dix mille ou de cent mille lieues ne
-sont qu’à cinq ou six cents pas, si elle ne jugeait de leur
-éloignement que par la disposition des yeux dont je viens de
-parler.
+But it must be carefully noted that I said one should try to thread the ring or touch the stick sideways, and not in a straight line from our eye to the ring; for then there would be no difficulty, and it would even be easier to succeed with one eye closed than with both eyes open, because that would guide us.
 
-Cependant il est certain que ce moyen pourrait servir à l’âme
-quand l’objet est proche. Si par exemple un objet n’est qu’à
-demi-pied de nous, nous pouvons distinguer assez bien sa
-distance par la disposition des muscles qui pressent nos yeux,
-afin de les faire un peu plus longs, et même cette disposition est
-pénible. Si cet objet est a deux pieds, nous le distinguons encore, parce que la disposition des muscles est quelque peu sensible,
-quoiqu’elle ne soit plus pénible. Mais si l’on éloigne encore
-l’objet de quelques pieds, cette disposition de nos muscles
-devient si peu sensible, qu’elle nous est tout à fait inutile pour
-juger de la distance de l’objet.
+Now one can say that the difficulty one finds in threading a ring sideways with only one eye open comes from the fact that the other being closed, the angle of which I have just spoken is not known. For it is not enough to know the magnitude of an angle to know the length of the base and that of an angle made by one of its sides on this base; which is known by the preceding experiment. But it is still necessary to know the other angle made by the other side on the base, or the length of one of the sides, which cannot be known exactly except by opening the other eye. Thus the soul cannot use its natural geometry to judge the distance of the ring.
 
-Voila donc déjà deux moyens dont l’âme se peut servir pour
-juger de la distance de l’objet qui sont fort inutiles, quand cet
-objet est éloigné de cinq à six cents pas, et qui même ne sont
-point assurés quoique l’objet soit plus proche.
+The disposition of the eyes that accompanies the angle formed by the visual rays that cross and meet in the object is therefore one of the best and most universal means that the soul uses to judge the distance of things. If therefore this angle does not change sensibly, when the object is a little distant, whether it approaches or recedes from us, it will follow that this means will be false, and that the soul will not be able to use it to judge the distance of this object.
 
-Le troisième moyen consiste dans la grandeur de l’image qui
-se peint au fond de l’œil et qui représente les objets que nous
-voyons. On avoue que cette image diminue à proportion que
-l’objet s’éloigne, mais cette diminution est d’autant moins
-sensible que l’objet qui change de distance est plus éloigné. Car
-lorsqu’un objet est déjà dans une distance raisonnable, comme de
-cinq à six cents pas, plus ou moins à proportion de sa grandeur, il
-arrive des changements fort considérables dans son éloignement,
-sans qu’il arrive de changement sensible dans l’image qui le
-représente, comme il est facile de le démontrer. Ainsi ce
-troisième moyen a le même défaut que les deux autres dont nous
-venons de parler.
+Now it is very easy to recognize that this angle changes notably when an object that is one foot from our sight is moved to four: but if it is only moved from four to eight, the change is much less sensible; if from eight to twelve, still less; if from a thousand to a hundred thousand, almost none; finally this change will no longer be sensible, even if one were to carry it into imaginary spaces. So that if there is a sufficiently considerable space between A and C, the soul will not be able by this means to know whether the object is close to B or to D.
 
-il y a de plus à remarquer que l’âme ne juge pas ces objets-là
-les plus éloignés, dont l’image, peinte sur la rétine, est plus
-petite. Quand je vois par exemple un homme et un arbre à cent
-pas, ou bien plusieurs étoiles dans le ciel, je ne juge pas que
-l’homme soit plus éloigné que l’arbre, et les petites étoiles plus
-éloignées que les plus grandes, quoique les images de l’homme et
-des petites étoiles qui sont peintes sur la rétine, soient plus
-petites que celles de l’arbre et des grandes étoiles ; il faut encore 
-savoir par l’expérience du sentiment la grandeur de l’objet pour
-pouvoir juger à peu près de son éloignement ; et parce que je sais
-ou que j’ai vu plusieurs fois qu’une maison est plus grande qu’un
-homme, quoique l’image d’une maison soit plus grande que celle
-d’un homme, je ne la juge pas néanmoins ou je ne la vois pas plus
-proche
-[16]
+It is for this reason that we see the sun and the moon as if they were enveloped in the clouds, although they are extraordinarily far from them; that we naturally believe that all the stars are at an equal distance, and that comets are stable and almost without any motion at the end of their course. We even imagine that comets dissipate entirely after a few months, because they move away from us along a line almost straight or direct to our eyes, and so go to lose themselves in those great spaces, from which they return only after several years, or even after several centuries; for it is very likely that they do not dissipate as soon as we cease to see them.
 
-Il en est de même des étoiles. Nos yeux nous les
-représentent toutes dans une même distance, quoiqu’il soit trèsraisonnable d’en croire quelques-unes beaucoup plus éloignées
-de nous que les autres. Ainsi il y a une infinité d’objets dont nous
-ne pouvons point savoir la distance, puisqu’il y en a une infinité
-dont nous ne connaissons point la grandeur.
+To explain the second means by which the soul judges the distance of objects, one must know that it is absolutely necessary that the shape of the eye be different, according to the different distance of the objects we see; for when a man sees an object close to himself, it is necessary that his eyes be longer than if the object were farther away: because in order that the rays of this object may be gathered together on the optic nerve, which is necessary in order to see it distinctly, principally because the object is poorly lit, the distance between this nerve and the crystalline lens must be greater.
 
-Nous jugeons encore de l’éloignement de l’objet par la force
-avec laquelle il agit sur nos yeux, parce qu’un objet éloigné agit
-bien plus faiblement qu’un autre ; et par la distinction et la netteté
-de l’image qui se forme dans l’œil ; parce que quand l’objet est
-éloigné il faut que le trou de l’œil s’ouvre davantage et par
-conséquent que les rayons se rassemblent un peu confusément.
-C’est pour cela que les objets peu éclairés, ou que nous voyons
-confusément, nous paraissent plus éloignés qu’ils ne sont, et, au
-contraire, que les corps lumíneux, et que nous voyons
-distinctement, nous paraissent plus proches. Il est assez clair que
-ces derniers moyens ne sont pas assurés pour juger avec quelque
-certitude de la distance des objets ; et on ne veut point s’y arrêter
-pour venir enfin au dernier de tous, qui est celui qui aide le plus
-l’imagination et qui porte plus facilement l’âme à juger que les
-objets sont fort éloignés.
+It is true that if the crystalline lens became more convex when the object is close, that would produce the same effect as if the eye lengthened; but it is not believable that the crystalline lens can easily change its convexity; and on the other hand, we have a fairly probable proof that the eye lengthens; for anatomy teaches that there are muscles that surround the eye in the middle, and one feels the effort of these muscles that press it, and apparently lengthen it, when one wants to see something very close.
 
-Le sixième donc et le principal moyen consiste en ce que l’œil
-ne rapporte point à l’âme un seul objet séparé des autres, mais
-qu’il lui fait voir aussi tous ceux qui se trouvent entre nous et l’objet principal que nous considérons.
-Quand par exemple nous regardons un clocher assez éloigné,
-nous voyons d’ordinaire dans le même temps plusieurs terres et
-plusieurs maisons entre nous et lui ; et parce que nous jugeons de
-l’éloignement de ces terres et de ces maisons, et que cependant
-nous voyons que le clocher est au delà, nous jugeons aussi qu’il
-est bien plus éloigné et même plus gros et plus grand que si nous
-le voyions tout seul. Cependant l’image qui s’en trace au fond de
-l’œil est toujours d’une égale grandeur, soit qu’il y ait des terres
-et des maisons entre nous et lui, soit qu’il n’y en ait point, pourvu
-que nous le voyions d’un lieu également distant, comme on le
-suppose. Ainsi nous jugeons de la grandeur des objets par
-l’éloignement où nous les croyons ; et les corps que nous voyons
-entre nous et les objets aident beaucoup notre imagination à juger
-de leur éloignement, de même que nous jugeons de la grandeur de
-notre durée ou du temps qui s’est passé depuis que nous avons
-fait quelque action par le souvenir confus des choses que nous
-avons faites ou des pensées que nous avons eues successivement
-depuis cette action. Car ce sont toutes ces pensées et toutes ces
-actions qui se sont succédé les unes aux autres qui aident notre
-esprit à juger de la longueur de quelque temps ou de quelque
-partie de notre durée ; ou plutôt le souvenir confus de toutes ces
-pensées successives est la même chose que le jugement de notre
-durée, comme la vue confuse des terres qui sont entre nous et un
-clocher est la même chose que le jugement naturel de
-l’éloignement du clocher, car ces jugements ne sont que des
-sensations composées
-[17]
-.
+But it is not necessary to know here in what manner this happens; it suffices that a change occurs in the eye, either because the muscles that surround it press it, or because the small nerves that respond to the ciliary ligaments, which hold the crystalline lens suspended among the other humors of the eye, slacken to increase the convexity of the crystalline lens, or stiffen to diminish it, or finally because the pupil dilates or contracts, for there are many people whose eyes receive no other change.
 
+In short, the change that occurs, whatever it may be, is only to make the rays of objects gather exactly on the optic nerve. Now it is certain that when the object is five hundred paces or ten thousand leagues away, one looks at it with the same disposition of the eyes, without any sensible change in the muscles that surround the eye, nor in the nerves that respond to the ciliary ligaments of the crystalline lens, nor finally in the opening of the pupil, and the rays of objects gather very exactly on the retina or optic nerve. Thus the soul would judge that objects ten thousand or a hundred thousand leagues away are only at five or six hundred paces, if it judged their distance only by the disposition of the eyes of which I have just spoken.
 
-De là il est facile de reconnaître la véritable raison pourquoi
-la lune nous paraît plus grande lorsqu’elle se lève que lorsqu’elle est fort haute sur l’horizon ; car lorsqu’elle se lève
-elle nous paraît éloignée de plusieurs lieues et même au delà de
-l’horizon sensible ou des terres qui terminent notre vue, au lieu
-que nous ne la jugeons qu’environ à une demi-lieue de nous ou
-sept ou huit fois plus élevée que nos maisons lorsqu’elle est
-montée sur notre horizon. Ainsi nous la jugeons beaucoup plus
-grande quand elle est proche de l’horizon que lorsqu’elle en est
-fort éloignée, parce que nous la jugeons beaucoup plus éloignée
-de nous lorsqu’elle se leve que lois qu’elle est fort haute sur
-notre horizon.
+However, it is certain that this means could serve the soul when the object is close. If, for example, an object is only half a foot from us, we can distinguish its distance fairly well by the disposition of the muscles that press our eyes, in order to make them a little longer, and even this disposition is painful. If this object is at two feet, we still distinguish it, because the disposition of the muscles is somewhat sensible, although it is no longer painful. But if one moves the object away by a few more feet, this disposition of our muscles becomes so little sensible that it is entirely useless to us for judging the distance of the object.
 
-Il est vrai qu’un très-grand nombre de philosophes attribuent
-ce que nous venons de dire aux vapeurs qui s’élèvent de la terre.
-Ils prétendent que les vapeurs rompant les rayons des objets,
-elles les tout paraître plus grands. Mais il est certain qu’ils se
-trompent, car les réfractions n’augmentent que leur élévation sur
-l’horizon et elles diminuent au contraire quelque peu l’angle
-visuel sous lequel ils sont vus. Elles n’empêchent pas que
-l’image qui se trace au fond de nos yeux, lorsque que nous
-voyons la lune qui se lève, ne soit plus petite que celle qui s’y
-forme lorsqu’il y a long-temps qu’elle est levée.
+These then are two means that the soul can use to judge the distance of the object, which are very useless when this object is five to six hundred paces away, and which are not even assured although the object is closer.
 
-Les astronomes qui mesurent le diametre des planètes
-remarquent que celui de la lune s’agrandit à proportion qu’elle
-s’éloigne de l’horizon, et par conséquent à proportion qu’elle
-nous paraît plus petite ; ainsi le diametre de l’image que nous en
-avons dans le fond de nos yeux est plus petit lorsque nous la
-voyons plus grande. En effet lorsque la lune se lève, elle est plus
-éloignée de nous du diamètre de la terre que lorsqu’elle est
-perpendiculairement sur notre tête ; et c’est là la raison pour
-laquelle son diamètre s’agrandit lorsqu’elle monte sur l’horizon,
-99
-parce qu’alors elle s’approche de nous.
+The third means consists in the size of the image that is painted at the back of the eye and that represents the objects we see. It is admitted that this image diminishes in proportion as the object moves away, but this diminution is all the less sensible the more distant the object that changes distance is. For when an object is already at a reasonable distance, such as five to six hundred paces, more or less in proportion to its size, very considerable changes occur in its distance without any sensible change occurring in the image that represents it, as is easy to demonstrate. Thus this third means has the same defect as the other two of which we have just spoken.
 
-Ce qui fait donc que nous la voyons plus grande lorsqu’elle se
-lève n’est point la réfraction que souffrent ses rayons dans les
-vapeurs qui sortent de la terre, puisque l’image qui est formée de
-ces rayons est alors plus petite ; mais c’est le jugement naturel
-qui se forme en nous de son éloignement, à cause qu’elle nous
-paraît au delà des terres que nous voyons fort éloignées de nous,
-comme l’on a expliqué auparavant ; et l’on s’étonne que des
-philosophes tiennent que la raison de cette apparence et de cette
-tromperie de nos sens soit plus difficile à trouver que les plus
-grandes équations d’algèbre.
+There is moreover to be noted that the soul does not judge those objects to be the most distant whose image, painted on the retina, is smaller. When I see, for example, a man and a tree at a hundred paces, or several stars in the sky, I do not judge that the man is farther away than the tree, and the small stars farther away than the larger ones, although the images of the man and the small stars that are painted on the retina are smaller than those of the tree and the large stars; one must still know by sensory experience the size of the object in order to judge approximately its distance; and because I know or have seen several times that a house is larger than a man, although the image of a house is larger than that of a man, I nevertheless do not judge it or see it as closer.
 
-Ce moyen que nous avons pour juger de l’éloignement de
-quelque objet par la connaissance de la distance des choses qui
-sont entre nous et lui, nous est souvent assez utile quand les
-autres moyens dont j’ai parlé ne nous peuvent de rien servir ; car
-nous pouvons juger par ce dernier moyen que de certains objets
-sont éloignés de nous de plusieurs lieues, ce que nous ne pouvons
-pas faite par les autres. Cependant si on l’examine on y trouvera
-plusieurs défauts.
+It is the same with the stars. Our eyes represent them all at the same distance, although it is very reasonable to believe some of them much farther from us than others. Thus there is an infinity of objects whose distance we cannot know at all, since there is an infinity whose size we do not know.
 
-Car premièrement ce moyen ne nous sert que pour les objets
-qui sont sur la terre, puis qu’on n’en peut faire usage que trèsrarement et même fort inutilement pour ceux qui sont dans l’air ou
-dans les cieux. Secondement, on ne s’en peut servir sur la terre
-que pour des choses éloignées de peu de lieues. En troisième
-lieu, il faut être assuré qu’il ne se trouve entre nous et l’objet ni
-vallées, ni montagnes, ni autre chose semblable qui nous
-empêche de nous servir de ce moyen. Enfin je crois qu’il n’y a
-personne qui n’ait fait assez d’expériences sur ce sujet pour être
-persuadé qu’il est extrêmement difficile de juger avec quelque certitude de l’éloignement des objets par la vue sensible des
-choses qui se trouvent entre eux et nous, et on ne s’y est peut-être
-que trop arrêté.
+We also judge the distance of the object by the force with which it acts on our eyes, because a distant object acts much more weakly than another; and by the distinctness and clarity of the image that forms in the eye; because when the object is distant, the opening of the eye must open wider and consequently the rays gather somewhat confusedly. This is why objects that are poorly lit, or that we see confusedly, appear to us farther away than they are, and, conversely, that luminous bodies, which we see distinctly, appear closer to us. It is quite clear that these latter means are not assured for judging with any certainty the distance of objects; and we do not wish to dwell on them in order to come finally to the last of all, which is the one that most helps the imagination and more easily leads the soul to judge that objects are very far away.
 
-Voilà tous les moyens que nous avons pour juger de la distance
-des objets ; on y a fait remarquer des défauts considérables, et on
-en doit conclure que les jugements qui sont appuyés sur des
-moyens si peu sûrs doivent être aussi très-incertains.
-Il est facile de là de faire voir la vérité des propositions que
-j’ai avancées. On a supposé l’objet C assez éloigné d’A, dont il
-peut en plusieurs rencontres s’avancer vers D ou s’approcher
-vers B, sans qu’on le reconnaisse, puisqu’on n’a pas de moyen
-assuré pour juger de sa distance. Il peut même reculer vers D
-lorsqu’on le croira s’approcher vers B parce que l’image de
-l’objet s’augmente et s’agrandit quelquefois sur le nerf optique,
-soit à cause que la matière transparente qui est entre l’objet et
-l’œil peut faire une plus grande réfraction en un temps qu’en un
-autre, soit parce qu’il arrive quelquefois de petits tremblements
-ce nerf, soit enfin parce que l’impression que fait l’union peu
-exacte des rayons sur ce même nerf se répand et se communique
-aux parties qui n’en devaient point être agitées, ce qui peut venir
-de plusieurs causes différentes. Ainsi l’image des mêmes objets
-se trouvant plus grande dans ces occasions, elle donne sujet à
-l’âme de croire que l’objet s’approche. Il en faut dire autant des
-autres propositions.
+The sixth and principal means consists in the fact that the eye does not report to the soul a single object separated from others, but that it also shows it all those that are found between us and the principal object we are considering.
+When, for example, we look at a bell tower quite far away, we ordinarily see at the same time several stretches of land and several houses between us and it; and because we judge the distance of these lands and these houses, and yet see that the bell tower is beyond them, we also judge that it is much farther away and even larger and greater than if we saw it alone. However, the image traced at the back of the eye is always of equal size, whether there are lands and houses between us and it, or whether there are none, provided we see it from an equally distant place, as is supposed. Thus we judge the size of objects by the distance at which we believe them to be; and the bodies we see between us and the objects greatly aid our imagination in judging their distance, just as we judge the length of our duration or the time that has passed since we performed some action by the confused memory of the things we have done or the thoughts we have had successively since that action. For it is all these thoughts and all these actions that have succeeded one another that help our mind to judge the length of some time or some part of our duration; or rather, the confused memory of all these successive thoughts is the same thing as the judgment of our duration, just as the confused sight of the lands that are between us and a bell tower is the same thing as the natural judgment of the distance of the bell tower, for these judgments are only composite sensations.
 
-Avant que de finir ce chapitre, il faut remarquer qu’il nous
-importe beaucoup, pour la conservation de notre vie, de
-connaître mieux le mouvement ou le repos des corps à proportion
-qu’ils sont plus proches de nous, et qu’il nous est assez inutile de
-savoir avec exactitude la vérité de ces choses quand elles se
-101
-passent dans des lieux forts éloignés. Car cela montre
-évidemment que ce que j’ai avancé généralement de tous les
-sens, qu’ils ne nous font connaître les choses que par rapport à la
-conservation de notre corps et non pas selon ce qu’elles sont en
-elles-mêmes, se trouve exactement vrai en cette rencontre,
-puisque nous connaissons mieux le mouvement ou le repos des
-objets à proportion qu’ils s’approchent de nous, et que nous ne
-saurions juger par les sens quand ils sont si éloignés qu’il semble
-qu’ils n’aient plus ou presque plus de rapport à nos corps ;
-comme quand ils sont à cinq ou six cents pas de nous, s’ils sont
-d’une grandeur médiocre ; ou même plus près que cela, s’ils sont
-plus petits, ou enfin plus loin de quelque chose, s’ils sont plus
-grands.
+From this it is easy to recognize the true reason why the moon appears larger to us when it rises than when it is very high on the horizon; for when it rises it appears to us to be several leagues away and even beyond the sensible horizon or the lands that terminate our view, whereas we judge it to be only about half a league from us or seven or eight times higher than our houses when it has risen above our horizon. Thus we judge it much larger when it is near the horizon than when it is far from it, because we judge it much farther from us when it rises than when it is very high on our horizon.
+
+It is true that a very great number of philosophers attribute what we have just said to the vapors that rise from the earth. They claim that the vapors, breaking the rays of objects, make them appear larger. But it is certain that they are mistaken, for refractions only increase their elevation above the horizon and they diminish on the contrary somewhat the visual angle under which they are seen. They do not prevent the image traced at the back of our eyes, when we see the moon rising, from being smaller than that which forms there when it has long been risen.
+
+Astronomers who measure the diameter of planets note that that of the moon increases in proportion as it moves away from the horizon, and consequently in proportion as it appears smaller to us; thus the diameter of the image we have of it at the back of our eyes is smaller when we see it larger. In effect, when the moon rises, it is farther from us by the diameter of the earth than when it is perpendicularly above our head; and that is the reason why its diameter increases when it rises on the horizon, because then it approaches us.
+
+What makes us see it larger when it rises is therefore not the refraction its rays undergo in the vapors that come from the earth, since the image formed by these rays is then smaller; but it is the natural judgment that forms in us of its distance, because it appears to us beyond the lands that we see very far from us, as explained earlier; and one is astonished that philosophers hold that the reason for this appearance and this deception of our senses is more difficult to find than the greatest algebraic equations.
+
+This means that we have for judging the distance of some object by the knowledge of the distance of things that are between us and it is often quite useful to us when the other means of which I have spoken can be of no use to us; for we can judge by this last means that certain objects are several leagues away from us, which we cannot do by the others. However, if one examines it, one will find several defects.
+
+For first, this means serves us only for objects that are on the earth, since one can make use of it only very rarely and even very uselessly for those that are in the air or in the heavens. Secondly, on the earth one can use it only for things a few leagues distant. Thirdly, one must be assured that there are found between us and the object neither valleys, nor mountains, nor anything else similar that prevents us from using this means. Finally, I believe that there is no one who has not made enough experiments on this subject to be persuaded that it is extremely difficult to judge with any certainty the distance of objects by the visible sight of the things that are found between them and us, and one has perhaps dwelt on this too long.
+
+These are all the means we have for judging the distance of objects; we have pointed out considerable defects in them, and we must conclude that judgments based on such uncertain means must also be very uncertain.
+From this it is easy to show the truth of the propositions I have put forward. Object C has been supposed sufficiently far from A, and it may in many cases advance toward D or approach toward B without one recognizing it, since one has no assured means for judging its distance. It may even retreat toward D when one will believe it to be approaching toward B, because the image of the object sometimes increases and enlarges on the optic nerve, either because the transparent matter between the object and the eye can produce a greater refraction at one time than at another, or because small tremblings of this nerve sometimes occur, or finally because the impression made by the union of rays not exactly on this same nerve spreads and communicates to parts that should not have been agitated, which can come from several different causes. Thus the image of the same objects being found larger on these occasions, it gives the soul reason to believe that the object is approaching. The same must be said of the other propositions.
+
+Before finishing this chapter, it must be noted that it greatly concerns us, for the preservation of our life, to know better the motion or rest of bodies in proportion as they are closer to us, and that it is quite useless to us to know with exactitude the truth of these things when they occur in places very far away. For this shows evidently that what I have advanced generally of all the senses, that they make us know things only with relation to the preservation of our body and not according to what they are in themselves, is found exactly true in this encounter, since we know the motion or rest of objects better in proportion as they approach us, and that we cannot judge by the senses when they are so far away that they seem to have no longer or almost no longer any relation to our bodies; as when they are five or six hundred paces from us, if they are of medium size; or even closer than that, if they are smaller, or finally farther away, if they are larger.
 

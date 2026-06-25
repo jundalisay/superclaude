@@ -9,165 +9,43 @@ date: 2026-06-20
 ---
 
 
+We have discovered the principal and most general errors of our sight with respect to extension and shapes; we must now correct those into which this same sight leads us concerning the motion of matter. And this will hardly be difficult after what we have said about extension; for there is so much relation between these two things that if we are mistaken in the magnitude of bodies, it is absolutely necessary that we are also mistaken in their motion.
 
-I. Que nos yeux ne nous apprennent point la grandeur ou la vitesse du mouvement
-considéré en soi. — II. Que la durée qui est nécessaire pour connaître le
-mouvement ne nous est pas connue. — III. Exemple des erreurs de nos yeux
-touchant le mouvement et le repos.
-Nous avons découvert les principales et plus générales erreurs
-de notre vue à l’égard de l’étendue et des figures ; il faut
-maintenant corriger celles où cette même vue nous engage
-touchant le mouvement de la matière. Et cela ne sera guère
-difficile après ce que nous avons dit de l’étendue ; car il y a tant
-de rapport entre ces deux choses que si nous nous trompons dans la grandeur des corps, il est absolument nécessaire que nous nous
-trompions aussi dans leur mouvement.
+But in order to say nothing but what is clear and distinct, we must first remove the ambiguity of the word "motion"; for this term ordinarily signifies two things: the first is a certain force that one imagines in the moving body which is the cause of its motion; the second is the continual transport of a body moving away from or approaching another body that one considers as being at rest.
 
-Mais afin de ne rien dire que de net et de distinct, il faut
-d’abord ôter l’équivoque du mot de mouvement ; car ce terme
-signifie ordinairement deux choses : la première est une certaine
-force qu’on imagine dans le corps mu qui est la cause de son
-mouvement ; la seconde est le transport continuel d’un corps qui
-s’éloigne ou qui s’approche d’un autre que l’on considère comme
-en repos.
+When, for example, one says that a ball has communicated its motion to another, the word "motion" is taken in the first signification; but if one simply says that one sees a ball in great motion, it is taken in the second. In a word, this term "motion" signifies both the cause and the effect together, which are however two entirely different things.
 
-Quand on dit par exemple qu’une boule a communiqué de son
-mouvement à une autre, le mot de mouvement se prend dans la
-première signification ; mais si on dit simplement qu’on voit une
-boule dans un grand mouvement, il se prend dans la seconde. En
-un mot, ce terme mouvement signifie la cause et l’effet tout
-ensemble, qui sont cependant deux choses toutes différentes.
-On est, ce me semble, dans des erreurs très-grossières et même
-très-dangereuses touchant la force qui donne le mouvement et qui
-transporte les corps. Ces beaux termes de nature et de qualités
-impresses ne semblent être propres qu’a mettre à couvert
-l’ignorance des faux savants et l’impiété des libertins, comme il
-serait facile de le prouver. Mais ce n’est pas ici le lieu de parler
-de cette force qui meut les corps ; elle n’est rien de visible, et je
-ne parle ici que des erreurs de nos yeux. Je remets à le faire
-quand il sera temps
-[14]
+It seems to me that one is in very gross and even very dangerous errors concerning the force that gives motion and transports bodies. These fine terms of "nature" and "impressed qualities" seem fit only to conceal the ignorance of false scholars and the impiety of libertines, as would be easy to prove. But this is not the place to speak of this force that moves bodies; it is nothing visible, and I speak here only of the errors of our eyes. I postpone this to the proper time [14].
 
-Le mouvement pris dans le second sens, et pour ce transport
-d’un corps qui s’éloigne d’un autre, est quelque chose de visible
-et le sujet de ce chapitre.
+Motion taken in the second sense, and for that transport of a body moving away from another, is something visible and is the subject of this chapter.
 
-I. J’ai, ce me semble, démontré dans le sixième chapitre que
-notre vue ne nous faisait pas connaître la grandeur des corps en eux-mêmes, mais seulement le rapport qu’ils ont les uns avec les
-autres, et principalement avec le nôtre. D’où je conclus que nous
-ne pouvons aussi connaître la grandeur véritable ou absolue de
-leurs mouvements, c’est-à-dire de leur vitesse et de leur lenteur,
-mais seulement le rapport que ces mouvements ont les uns avec
-les autres, et principalement avec celui qui arrive ordinairement
-à notre corps ; ce que je prouve ainsi :
 
-Il est constant que nous ne saurions juger de la grandeur du
-mouvement d’un corps que par la longeur de l’espace que ce
-même corps a parcouru. Ainsi puisque nos yeux ne nous font pas
-voir la véritable longueur de l’espace parcouru, il s’ensuit qu’ils
-ne peuvent pas nous faire connaître la véritable grandeur du
-mouvement.
+## our eyes do not teach us the magnitude or speed of motion considered in itself
 
-Cette preuve n’est qu’une suite de ce que j’ai dit de l’étendue,
-et elle n’a sa force que parce qu’elle est une suite nécessaire de
-ce que j’en ai démontré. En voici une qui ne suppose rien. Je dis
-donc que quand même nous pourrions connaître clairement la
-véritable grandeur de l’espace parcouru, il ne s’ensuivrait pas
-que nous pussions de même connaître celle du mouvement.
-II. La grandeur ou la vitesse du mouvement renferme deux
-choses : la première est le transport d’un corps d’un lieu à un
-autre, comme de Paris à Saint-Germain ; la seconde est le temps
-qu’il a fallu pour faire ce transport. Or, il ne suffit pas de savoir
-exactement combien il y a d’espace entre Paris et Saint-Germain
-pour savoir si un homme y est allé d’un mouvement vite ou d’un
-mouvement lent ; il faut outre cela savoir combien il a employé
-de temps pour en faire le chemin. J’accorde donc que l’ou sache
-au vrai la longueur de ce chemin ; mais je nie absolument qu’on
-puisse connaître exactement par la vue, ni même de quel qu’autre
-manière que ce soit, le temps qu’on a mis à le faire et la véritable
-grandeur de la durée.
+Chapter 6 explained that our sight does not make us know the magnitude of bodies in themselves, but only the relation they have to one another, and principally to our own. From which I conclude that we cannot know the true or absolute magnitude of their motions either, that is to say of their speed and slowness, but only the relation that these motions have to one another, and principally to that which ordinarily occurs to our body; which I prove as follows:
 
-Cela paraît assez de ce qu’en certains temps une seule heure
-nous paraît aussi longue que quatre ; et au contraire en d’autres
-temps quatre heures s’écoulent insensiblement. Quand, par
-exemple, on est comblé de joie, les heures ne durent qu’on
-moment, parce qu’alors le temps passe sans qu’on y pense. Mais
-quand on est abattu de tristesse ou que l’on souffre quelque
-douleur, les jours durent beaucoup plus long-temps. La raison de
-ceci est qu’alors l’esprit s’ennuie de sa durée, parce qu’elle lui
-est pénible. Comme il s’y applique davantage, il la reconnaît
-mieux ; et ainsi il la trouve plus longue que durant la joie ou
-quelque occupation agréable qui le fait sortir comme hors de lui
-pour l’attacher à l’objet de sa joie ou de son occupation. Car de
-même qu’une personne trouve un tableau d’autant plus grand
-qu’elle s’arrête à considérer avec plus d’attention les moindres
-choses qui y sont représentées ; ou de même qu’on trouve la tête
-d’une mouche fort grande quand on en distingue toutes les parties
-avec un microscope, ainsi l’esprit trouve sa durée d’autant plus
-grande qu’il la considère avec plus d’attention et qu’il en sent
-toutes les parties.
+We cannot judge the magnitude of the motion of a body except by the length of the space that this same body has traversed. Thus, since our eyes do not show us the true length of the space traversed, it follows that they cannot make us know the true magnitude of the motion.
 
-De sorte que je ne doute point que Dieu ne puisse appliquer de
-telle sorte notre esprit aux parties de la durée, en nous faisant
-avoir un très-grand nombre de sensations dans très-peu de temps,
-qu’une seule heure nous paraisse plusieurs siècles. Car enfin il
-n’y a point d’instant dans la durée, comme il n’y a point d’atomes
-dans les corps ; et de même que la plus petite partie de la matière
-se peut diviser à l’infini, on peut aussi donner des parties de
-durée plus petites et plus petites à l’infini, comme il est facile de
-le démontrer. Si donc l’esprit était attentif à ces petites parties de
-sa durée par des sensations qui laissassent quelques traces dans
-le cerveau, desquelles il se pût ressouvenir, il la trouverait sans
-doute beaucoup plus longue qu’elle ne lui parait.
-Mais enfin l’usage des montres prouve assez qu’on ne connaît
-point exactement la durée, et cela me suffit. Car puisque l’on ne
-peut connaître la grandeur du mouvement en lui-même qu’on ne
-connaisse auparavant celle de la durée ; comme nous l’avons
-montré, il s’ensuit que si l’on ne peut exactement connaître la
-grandeur absolue de la durée, on ne peut aussi connaître
-exactement la grandeur absolue du mouvement.
+This proof is only a consequence of what I have said about extension, and it has its force only because it is a necessary consequence of what I have demonstrated about it. Here is one that supposes nothing. I say then that even if we could clearly know the true magnitude of the space traversed, it would not follow that we could likewise know that of the motion.
 
-Mais parce que l’on peut connaître quelques rapports des
-durées ou des temps les uns avec les autres, on peut aussi
-connaître quelques rapports des mouvements les uns avec les
-autres. Car de même qu’on peut savoir que l’année du soleil est
-plus longue que celle de la lune, on peut aussi savoir qu’un
-boulet de canon a plus de mouvement qu’une tortue. De sorte que
-si nos yeux ne nous font point voir la grandeur absolue du
-mouvement, ils ne laissent pas de nous aider à en connaître à peu
-près la grandeur relative ; c’està-dire le rapport qu’un
-mouvement a avec un autre ; et c’est cela seul qu’il est nécessaire
-de savoir pour la conservation de notre corps.
-III. Il y a bien des rencontres dans lesquelles on reconnaît
-clairement que notre vue nous trompe touchant le mouvement des
-corps. Il arrive même assez souvent que les choses qui nous
-paraissent se mouvoir ne sont point mues, et qu’au contraire
-celles qui nous paraissent comme en repos ne laissent pas d’être
-en mouvement. Lors, par exemple, qu’on est assis sur le bord
-d’un vaisseau qui va fort vite et d’un mouvement fort égal, on
-voit que les terres et les villes s’éloignent ; elles paraissent en
-mouvement, et le vaisseau parait en repos.
 
-De même, si un homme était placé sur la planète de Mars, il
-jugerait à la vue que le soleil, la terre et les autres planètes avec
-toutes les étoiles fixes feraient leur circonvolution environ en 24
-ou 25 heures, qui est le temps que Mars emploie à faire son tour
-sur son axe. Cependant la terre, le soleil et les étoiles ne tournent
-point autour de cette planète ; de sorte que cet homme verrait des
-choses en mouvement qui sont en repos, et se croirait en repos
-quoiqu’il fût en mouvement.
+### The duration necessary for knowing motion is not known to us
 
-Je ne m’arrête point à expliquer d’où vient que celui qui serait
-sur le bord d’un vaisseau corrigerait facilement l’erreur de ses
-yeux. et que celui qui serait sur la planète de Mars demeurerait
-obstinément attaché à son erreur. Il est trop facile d’en connaître
-la raison ; et on la trouvera encore avec plus de facilité si l’on
-fait réflexion sur ce qui arriverait à un homme dormant dans un
-vaisseau qui se réveillerait en sursaut et ne verrait à son réveil
-que le haut du mât de quelque autre vaisseau qui s’approcherait
-de lui. Car supposé qu’íl ne vît point de voiles enflées de vent, ni
-de matelots en besogne, et qu’il ne sentit point l’agitation et les
-secousses de son vaisseau ni autre chose semblable : il
-demeurerait absolument dans le doute, sans savoir lequel des
-deux vaisseaux serait en mouvement ; ni ses yeux, ni même sa
-propre raison ne lui en pourraient rien découvrir.
+The magnitude or speed of motion contains two things: the first is the transport of a body from one place to another, as from Paris to Saint-Germain; the second is the time it took to make this transport. Now, it is not enough to know exactly how much space there is between Paris and Saint-Germain in order to know whether a man went there with a fast motion or a slow motion; beyond that, one must know how much time he employed to make the journey. I grant therefore that one truly knows the length of this road; but I absolutely deny that one can know exactly by sight, or even by any other means whatsoever, the time one took to make it and the true magnitude of the duration.
 
+This appears sufficiently from the fact that at certain times a single hour seems to us as long as four; and on the contrary, at other times four hours pass imperceptibly. When, for example, one is filled with joy, the hours last only a moment, because then time passes without one thinking of it. But when one is downcast with sadness or suffering some pain, the days last much longer. The reason for this is that then the mind is weary of its duration, because it is painful to it. As it applies itself to it more, it perceives it better; and thus it finds it longer than during joy or some agreeable occupation that makes it, as it were, go outside itself to attach it to the object of its joy or occupation. For just as a person finds a painting all the larger the more he stops to consider with greater attention the smallest things represented in it; or just as one finds the head of a fly very large when one distinguishes all its parts with a microscope, so the mind finds its duration all the greater as it considers it with more attention and perceives all its parts.
+
+So that I do not doubt that God could so apply our mind to the parts of duration, by making us have a very great number of sensations in very little time, that a single hour might seem to us several centuries. For in short, there is no instant in duration, just as there are no atoms in bodies; and just as the smallest part of matter can be divided infinitely, one can also give parts of duration smaller and smaller to infinity, as is easy to demonstrate. If therefore the mind were attentive to these small parts of its duration through sensations that left some traces in the brain, of which it could remember, it would undoubtedly find it much longer than it appears to it.
+
+But finally, the use of watches proves well enough that one does not know duration exactly, and that suffices for me. For since one cannot know the magnitude of motion in itself unless one first knows that of duration, as we have shown, it follows that if one cannot exactly know the absolute magnitude of duration, one cannot exactly know the absolute magnitude of motion either.
+
+But because one can know some relations of durations or times to one another, one can also know some relations of motions to one another. For just as one can know that the solar year is longer than the lunar year, one can also know that a cannonball has more motion than a tortoise. So that if our eyes do not show us the absolute magnitude of motion, they nevertheless help us to know approximately its relative magnitude; that is to say, the relation that one motion has to another; and it is only that which is necessary to know for the conservation of our body.
+
+
+### Examples of the errors of our eyes concerning motion and rest.**
+
+There are many encounters in which one clearly recognizes that our sight deceives us concerning the motion of bodies. It even happens quite often that things which appear to us to be moving are not moved, and that on the contrary those which appear to us as if at rest are nevertheless in motion. When, for example, one is seated on the edge of a ship that is going very fast and with a very uniform motion, one sees that the lands and towns are moving away; they appear to be in motion, and the ship appears to be at rest.
+
+Likewise, if a man were placed on the planet Mars, he would judge by sight that the sun, the earth, and the other planets, together with all the fixed stars, made their revolution in about 24 or 25 hours, which is the time Mars takes to turn on its axis. However, the earth, the sun, and the stars do not turn around this planet; so that this man would see things in motion that are at rest, and would believe himself to be at rest although he was in motion.
+
+I do not stop to explain whence it comes that he who would be on the edge of a ship would easily correct the error of his eyes, and that he who would be on the planet Mars would obstinately remain attached to his error. It is too easy to know the reason; and it will be found with even more ease if one reflects on what would happen to a man sleeping in a ship who woke up with a start and saw on waking only the top of the mast of some other ship that was approaching him. For supposing that he saw neither sails swollen with wind, nor sailors at work, and that he felt neither the agitation nor the jolts of his ship nor anything else similar: he would remain absolutely in doubt, without knowing which of the two ships was in motion; neither his eyes, nor even his own reason could discover anything to him about it.

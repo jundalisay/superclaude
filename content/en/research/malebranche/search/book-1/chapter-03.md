@@ -1,29 +1,15 @@
 ---
 heading: Chapter 3
-<<<<<<< HEAD
-title: "The Passions"
-description: ""
-a: "Malebranche"
-c: "indigo"
-weight: 3
-=======
 title: "Reply to some objections"
 description: ""
 a: "Malebranche"
 c: "indigo"
 weight: 7
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
-<<<<<<< HEAD
-I. Réponse à quelques objections. — II. Remarques sur ce qu’on a dit de la nécessité de
-l’évidence.
-=======
-
 The first rule in the preceding chapter will not please everyone.
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 It will displease those imaginary scholars who claim to know everything and who never know anything, who take pleasure in speaking boldly about the most difficult things, and who certainly do not know the easiest.
 
@@ -75,6 +61,4 @@ The second thing to be noted is that in morals, politics, medicine, and in all t
 
 The third thing, finally, is that one must not absolutely despise probabilities, because it ordinarily happens that several, joined together, have as much force to convince as very evident demonstrations. There are an infinity of examples of this in physics and in morals, so that it is often fitting to amass a sufficient number on subjects that cannot be demonstrated otherwise, in order to be able to find the truth that it would be impossible to discover in any other way.
 
-I must confess here again that the law I impose is quite rigorous, that an infinity of people will prefer never to reason at all rather than to reason on these conditions; that one will not run so fast with such inconvenient circumspections. But it must also be granted to me that one will walk with safety in following it; that up to now, for having run too fast, one has been obliged to retrace one's steps; and even a great number of persons will agree with me that, since M. Descartes discovered in thirty years more truths than all the other philosophers, because he submitted to this law; if several persons were to philosophize as he did, one could in time know most of the things that are necessary for living happily, as far as one can on a earth that God has cursed.
-
-
+The law I impose is quite rigorous, that an infinity of people will prefer never to reason at all rather than to reason on these conditions; that one will not run so fast with such inconvenient circumspections. But it must also be granted to me that one will walk with safety in following it; that up to now, for having run too fast, one has been obliged to retrace one's steps; and even a great number of persons will agree with me that, since M. Descartes discovered in thirty years more truths than all the other philosophers, because he submitted to this law; if several persons were to philosophize as he did, one could in time know most of the things that are necessary for living happily, as far as one can on a earth that God has cursed.

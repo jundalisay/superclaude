@@ -1,6 +1,6 @@
 ---
 heading: Chapter 10
-title: "The Passions"
+title: "Of errors concerning sensible qualities"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,271 +9,62 @@ date: 2026-06-20
 ---
 
 
-Des erreurs touchant les qualités sensibles. — I. Distinction de l’âme et du corps — II.
-Explication des organes des sens. — III. A quelle partie du corps l’âme est
-immédiatement unie. — IV. Ce que les objets font sur les corps. — V. Ce qu’ils
-produisent dans l’âme, et les raisons pour lesquelles l’âme n’aperçoit point les
-mouvements des libres du corps. — VI. Quatre choses que l’on confond dans
-chaque sensation.
-Nous avons vu, dans les chapitres précédents, que les
-jugements que nous formons sur le rapport de nos yeux touchant
-l’étendue. la figure et le mouvement, ne sont jamais exactement
-vrais : cependant il faut tomber d’accord qu’ils ne sont pas
-entièrement faux ; ils renferment au moins cette vérité, qu’il y a
-hors de nous de l’étendue, des figures et des mouvements quels
-qu’ils soient.
-Il est vrai que nous voyons souvent des choses qui ne sont
-102
-point et qui ne furent jamais, et que nous ne devons pas conclure
-qu’une chose soit hors de nous de cela seul que nous la voyons
-hors de nous. Il n’y a point de liaison nécessaire entre la
-présence d’une idée à l’esprit d’un homme et l’existence de la
-chose que cette idée représente, et ce qui arrive à ceux qui
-dorment ou qui sont en délire le prouve suffisamment. Mais
-cependant on peut assurer qu’il y a ordinairement hors de nous de
-l’étendue, des figures et des mouvements lorsque nous en voyons.
-Ces choses ne sont point seulement imaginaires, elles sont
-réelles, et nous ne nous trompons point de croire qu’elles ont une
-existence réelle et indépendante de notre esprit, quoiqu’il soit
-très-difficile de le prouver démonstrativement
-[18]
-.
-Il est donc constant que les jugements que nous faisons
-touchant l’étendue, les figures et les mouvements des corps,
-renferment quelque vérité ; mais il n’en est pas de même de ceux
-que nous faisons touchant la lumière, les couleurs, les saveurs,
-les odeurs et toutes les autres qualités sensibles : car la vérité ne
-s’y rencontre jamais, comme nous l’allons faire voir dans le reste
-de ce premier livre.
-On ne sépare point ici la lumière d’avec les couleurs, parce
-qu’on ne les croit pas fort différentes et qu’on ne les peut
-expliquer séparément. L’on sera même obligé de parler des
-autres qualités sensibles en général en même temps que l’on
-traitera de ces deux-ci, parce qu’elles s’expliqueront par les
-mêmes principes. Il faut apporter beaucoup d’attention aux
-choses qui suivent ; car elles sont de la dernière conséquence, et
-bien différentes pour leur utilité de celles qui ont précédé.
-I. Je suppose d’abord qu’on sache bien distinguer l’âme du
-corps par les attributs positifs et par les propriétés qui conviennent à ces deux substances. Le corps n’est que l’étendue
-en longueur, largeur et profondeur, et toutes ses propriétés ne
-consistent que dans le repos et le mouvement, et dans une infinité
-de figures différentes ; car il est clair : 1° que l’idée de l’étendue
-représente une substance, puisqu’on peut penser à l’étendue sans
-penser à autre chose ; 2° et cette idée ne peut représenter que des
-rapports de distance ou successifs ou permanents, c’est-à-dire
-des mouvements et des figures. Comme on ne se trompe point
-quand on ne croit que ce qu’on conçoit, il ne faut attribuer aux
-corps que les propriétés que je viens de dire. l’âme, au contraire,
-c’est ce moi qui pense, qui sent, qui veut : c’est la substance où
-se trouvent toutes les modifications dont j’ai sentiment intérieur,
-et qui ne peuvent subsister que dans l’âme qui les sent. Ainsi il
-ne faut attribuer à l’âme aucune propriété différente de ses
-diverses pensées. Je suppose donc que l’on sache bien distinguer
-l’âme du corps ; que si ce que je viens de dire ne suffit pas pour
-faire sentir la différence de ces deux substances, ou peut lire et
-méditer quelques endroits de saint Augustin, comme le chapitre
-40 du livre de la Trinité, les chapitres 4 et 14 du livre de la
-Quantité de l’âme, ou les Méditations de M. Descartes,
-principalement ce qui regarde la distinction de l’âme et du
-corps ; ou enfin le sixième discours du Discemement de l’âme et
-du corps, de M. de Cordemoy.
 
-II. Je suppose aussi qu’on sache l’anatomie des organes des
-sens, et qu’ils sont composés de petits filets qui ont leur origine
-dans le milieu du cerveau ; qu’ils se répandent dans tous nos
-membres où il y a du sentiment, et qu’ils viennent enfin aboutir,
-sans aucune interruption, jusqu’aux parties extérieures du corps ;
-que, pendant que l’on veille et qu’on est en santé, on ne peut en
-remuer un bout que l’autre ne se remue en même temps, à cause
-104
-qu’ils sont toujours un peu bandés ; de même qu’il arrive à une
-corde bandée, de laquelle on ne peut remuer une partie sans que
-l’autre soit éhranlée.
+III. To which part of the body the soul is immediately united. — IV. What objects do to bodies. — V. What they produce in the soul, and the reasons why the soul does not perceive the movements of the fibers of the body. — VI. Four things that are confused in each sensation.**
 
-Il faut aussi savoir que ces filets peuvent être remués en deux
-manières, ou bien par le bout qui est hors du cerveau, ou par le
-bout qui est dans le cerveau. Si ces filets sont agitée au dehors
-par l’action des objets, et que leur agitation ne se communique
-point jusqu’au cerveau, comme il arrive dans le sommeil, l’âme
-n’en reçoit pour lors aucune sensation nouvelle. Mais si ces
-petits filets sont remués dans le cerveau par le cours des esprits
-animaux ou par quel qu’autre cause, l’âme aperçoit quelque
-chose, quoique les parties de ces filets, qui sont hors du cerveau
-et répandus dans toutes les parties de notre corps, soient dans un
-parlait repos, Oomme il arrive encore pendant qu’on dort.
-III. Il est bon de remarquer ici, en passant, que l’expérience
-apprend qu’il peut arriver que nous sentions de la douleur dans
-des parties de notre corps qui nous ont été entièrement coupées,
-parce que les filets du cerveau, qui leur répondent, étant ébranlés
-de la même manière que si elles étaient effectivement blessées,
-l’âme sent dans ces parties imaginaires une douleur très-réelle.
-Car toutes ces choses montrent visiblement que l’âme réside
-immédiatement dans la partie du cerveau à laquelle tous les
-organes des sens aboutissent : je veux dire qu’elle y sent tous les
-changements qui s’y passent par rapport aux objets qui les ont
-causés ou qui ont accoutumé de les causer, et qu’elle n’aperçoit
-ce qui se passe au dehors de cette partie que par l’entremise des
-fibres qui y aboutissent, ou, si l’on veut, par les diverses
-secousses des esprits contenus dans ces fibres. Cela posé et bien
-conçu, il ne sera pas fort difficile de voir comment la sensation se fait : ce qu’il faut expliquer par quelque exemple.
+We have seen, in the preceding chapters, that the judgments we form on the report of our eyes concerning extension, shape, and motion are never exactly true: however, it must be agreed that they are not entirely false; they contain at least this truth, that there is outside us extension, shapes, and motions of whatever kind.
 
-IV. Lorsqu’on appuie la pointe d’une aiguille sur sa main, cette
-pointe remue et sépare les fibres de la chair. Ces fibres sont
-étendues depuis cet endroit jusqu’au cerveau ; et, quand on
-veille, elles sont assez bandées pour ne pouvoir être ébranlées
-que celles du cerveau ne le soient. Il s’ensuit donc que les
-extrémités de ces fibres, qui sont dans le cerveau, sont aussi
-remuées. Si le mouvement des fibres de la main est modéré, celui
-des fibres du cerveau le sera aussi ; et si ce mouvement est assez
-violent pour rompre quelque chose sur la main, il sera de même
-plus fort et plus violent dans le cerveau.
+It is true that we often see things that are not and never were, and that we should not conclude that a thing is outside us solely from the fact that we see it outside us. There is no necessary connection between the presence of an idea to a man's mind and the existence of the thing that this idea represents, and what happens to those who sleep or are delirious proves it sufficiently. But nevertheless one can assure that there is ordinarily outside us extension, shapes, and motions when we see them. These things are not merely imaginary; they are real, and we are not mistaken in believing that they have a real existence independent of our mind, although it is very difficult to prove it demonstratively [18].
 
-De même, si on approche sa main du feu, les petites parties du
-bois qu’il pousse continuellement en fort grand nombre et avec
-beaucoup de violence, comme la raison le démontre au défaut de
-la vue, viennent heurter contre ces fibres et leur communiquent
-une partie de leur agitation. Si cette action est modérée, celle des
-extrémités des fibres du cerveau, qui répondent à la main, sera
-modérée ; et si ce mouvement est assez violent dans la main pour
-en séparer quelques parties, comme il arrive quand on se brûle,
-le mouvement des fibres intérieures du cerveau sera, à
-proportion. plus fort et plus violent. Voilà ce qu’en peut
-concevoir qui arrive à notre corps quand les objets nous
-frappent. Il faut maintenant voir ce qui arrive à notre âme.
-V. Elle réside principalement, s’il est permis de le dire ainsi,
-dans cette partie du cerveau où tous les filets de nos nerfs
-aboutissent ; elle y est pour entretenir et pour conserver toutes les
-parties de notre corps ; et, par conséquent, il faut qu’elle soit
-avertie de tous les changements qui y arrivent, et qu’elle puisse
-distinguer ceux qui sont conformes à la constitution de son corps d’avec les autres, parce qu’il lui serait inutile de les reconnaître
-absolument et sans ce rapport à son corps. Ainsi, quoique tous
-ces changements de nos fibres ne consistent, selon la vérité, que
-dans des mouvements qui ne diffèrent ordinairement que du plus
-et du moins, il est nécessaire que l’âme les regarde comme des
-changements essentiellement différents ; car encore qu’en eux mêmes ils ne diffèrent que très-peu, on les doit toutefois
-considérer comme essentiellement différents par rapport à la
-conservation du corps.
+It is therefore certain that the judgments we make concerning the extension, shapes, and motions of bodies contain some truth; but it is not the same with those we make concerning light, colors, tastes, odors, and all the other sensible qualities: for truth is never found in them, as we shall show in the remainder of this first book.
 
-Le mouvement, par exemple, qui cause la douleur ne diffère
-assez souvent que très-peu de celui qui cause le chatouillement. Il
-n’est pas nécessaire qu’il y ait de différence essentielle entre ces
-deux mouvements ; mais il est nécessaire qu’il y ait une
-différence essentielle entre le chatouillement et la douleur que
-ces deux mouvements causent dans l’âme, car l’ébranlement des
-fibres qui accompagne le chatouillement témoigne à l’âme la
-bonne constitution de son corps, qu’il a assez de force pour
-résister à l’impression de l’objet, et qu’elle ne doit point
-appréhender qu’il en soit blessé. Mais le mouvement qui
-accompagne la douleur étant quelque peu plus violent, il est
-capable de rompre quelque fibre du corps, et l’âme en doit être
-avertie par quelque sensation désagréable, afin qu’elle y prenne
-garde. Ainsi, quoique les mouvements qui se passent dans le
-corps ne diffèrent que du plus et du moins en eux-mêmes, si
-néanmoins on les considère par rapport à la conservation de
-notre vie, on peut dire qu’ils diffèrent essentiellement
-[19]
-.
-C’est pour cela que notre âme n’aperçoit point les
-ébranlements que les objets excitent dans les fibres de notre
-chair. Il lui serait assez inutile de les connaître, et elle n’en 
-tirerait pas assez de lumière pour juger si les choses qui nous
-environnent seraient capables de détruire ou d’entretenir
-l’économie de notre corps ; mais elle se sent touchée de
-sentiments qui diffèrent essentiellement, et qui, marquant
-précisément les qualités des objets par rapport à son corps, lui
-font sentir très-distinctement si ces objets sont capables de lui
-nuire.
+Light is not separated here from colors, because they are not believed to be very different and they cannot be explained separately. We shall even be obliged to speak of the other sensible qualities in general at the same time as we treat of these two, because they will be explained by the same principles. Great attention must be paid to what follows; for they are of the utmost consequence, and quite different in their usefulness from those that have preceded.
 
-Il faut, de plus, considérer que si l’âme n’apercevait que ce
-qui se passe dans sa main quand elle se brûle, si elle n’y voyait
-que le mouvement et la séparation de quelques fibres, elle ne
-s’en mettrait guère en peine ; et même elle pourrait quelquefois,
-par fantaisie ou par caprice, y prendre quelque satisfaction,
-comme ces fantasques qui se divertissent à tout rompre dans leurs
-emportements et dans leurs débauches.
 
-Ou bien, de même qu’un prisonnier ne se mettrait guère en
-peine s’il voyait qu’on démolit les murailles qui l’enferment, et
-que même il s’en réjouirait dans l’espérance d’être bientôt
-délivré ; ainsi, si nous n’apercevions que la séparation des
-parties de notre corps lorsque nous nous brûlons ou que nous
-recevons quelque blessure, nous nous persuaderions bientôt que
-notre bonheur n’est pas d’être renfermé dans un corps qui nous
-empêche de jouir des choses qui nous doivent rendre heureux, et
-ainsi nous serions bien aises de le voir détruire.
+## Distinction of soul and body
 
-Il s’ensuit de là que c’est avec une grande sagesse que l’auteur
-de l’union de notre âme avec notre corps a ordonné que nous
-sentions de la douleur quand il arrive au corps un changement
-capable de lui nuire, comme quand une aiguille entre dans la
-chair ou que le feu en sépare quelques parties, et que nous
-sentions du chatouillement ou une chaleur agréable quand ces mouvements sont modérés, sans apercevoir la vérité de ce qui se
-passe dans notre corps ni les mouvements de ces fibres dont nous
-venons de parler.
+I suppose that one knows well how to distinguish the soul from the body by the positive attributes and by the properties that belong to these two substances. The body is only extension in length, width, and depth, and all its properties consist only in rest and motion, and in an infinity of different shapes; for it is clear: 1° that the idea of extension represents a substance, since one can think of extension without thinking of anything else; 2° and this idea can represent only relations of distance, whether successive or permanent, that is to say motions and shapes. As one is not mistaken when one believes only what one conceives, we should attribute to bodies only the properties I have just mentioned. The soul, on the contrary, is that self which thinks, which feels, which wills: it is the substance in which are found all the modifications of which I have inner feeling, and which cannot subsist except in the soul that feels them. Thus we should attribute to the soul no property different from its various thoughts. I suppose therefore that one knows well how to distinguish the soul from the body; if what I have just said is not sufficient to make one feel the difference between these two substances, one may read and meditate on some passages of St. Augustine, such as chapter 40 of the book on the Trinity, chapters 4 and 14 of the book on the Quantity of the Soul, or the Meditations of M. Descartes, principally what concerns the distinction of soul and body; or finally the sixth discourse of the Discernment of Soul and Body, by M. de Cordemoy.
 
-Premièrement, parce qu’en sentant de la douleur et du plaisir,
-qui sont des choses qui diffèrent bien davantage que du plus ou
-du moins, nous distinguons avec plus de facilité les objets qui en
-sont l’occasion ; secondement, parce que cette voie de nous faire
-connaître si nous devons nous unir aux corps qui nous
-environnent ou nous en séparer est la plus courte, et qu’elle
-occupe moins la capacité d’un esprit qui n’est fait que pour
-Dieu ; enfin, parce que la douleur et le plaisir étant des
-modifications de notre âme, qu’elle sent par rapport à son corps
-et qui la touchent bien davantage que la connaissance du
-mouvement de quelques fibres qui lui appartiendraient, cela
-l’oblige à s’en mettre fort en peine, et fait une union très-étroite
-entre l’une et l’autre partie de l’homme. Il est donc évident de
-tout ceci que les sens ne nous sont donnés que pour la
-conservation de notre corps, et non pour nous apprendre la
-vérité.
 
-Ce que l’on vient de dire du chatouillement et de la douleur se
-doit entendre généralement de toutes les autres sensations,
-comme on le verra mieux dans la suite. On a commencé par ces
-deux sentiments plutót que par les autres, parce que ce sont les
-plus vifs et qu’ils font concevoir plus sensiblement ce que l’on
-voulait dire.
+## Explanation of the organs of the senses.
 
-Il est présentement très-facile de faire voir que nous tombons
-en une infinité d’erreurs touchant la lumière et les couleurs, et
-généralement touchant toutes les qualités sensibles, comme le
-froid, le chaud, les odeurs, les saveurs, le son, la douleur, le chatouillement ; et, si je voulais m’arrêter à rechercher en
-particulier toutes celles où nous lombons sur tous les objets de
-nos sens, des années entières ne suffiraient pas pour les déduire,
-parce qu’elles sont presque infinies. Ainsi ce sera assez d’en
-parler en général.
+I also suppose that one knows the anatomy of the organs of the senses, and that they are composed of small fibers that have their origin in the middle of the brain; that they spread through all our members where there is feeling, and that they finally end, without any interruption, at the external parts of the body; that while one is awake and in health, one cannot move one end without the other moving at the same time, because they are always somewhat taut; just as happens with a stretched cord, of which one cannot move one part without the other being shaken.
 
-Dans presque toutes les sensations il y à quatre choses
-différentes, que l’on confond, parce qu’elles se font toutes
-ensemble et comme en un instant. C’est là le principe de toutes
-les autres erreurs de nos sens.
+It must also be known that these fibers can be moved in two ways, either by the end that is outside the brain, or by the end that is in the brain. If these fibers are agitated on the outside by the action of objects, and their agitation is not communicated all the way to the brain, as happens in sleep, the soul then receives no new sensation from it. But if these small fibers are moved in the brain by the course of the animal spirits or by some other cause, the soul perceives something, although the parts of these fibers that are outside the brain and spread through all the parts of our body are in perfect rest, as also happens while one sleeps.
 
-VI. La première est l’action de l’objet, c’est-à-dire dans la
-chaleur, par exemple, l’impulsion et le mouvement des petites
-parties du bois contre les fibres de la main.
-La seconde est la passion de l’organe du sens, c’est-à-dire
-l’agitation des fibres de la main causée par celle des petites
-parties du feu, laquelle agitation se communique jusque dans le
-cerveau, parce qu’autrement l’âme ne sentirait rien.
-La troisième est la passion, la sensation ou la perception de
-l’âme, c’est-à-dire ce que chacun sent quand il est auprès du feu.
-La quatrième est le jugement que l’âme fait, que ce qu’elle
-sent est dans sa main et dans le feu. Or, ce jugement est naturel,
-ou plutôt ce n’est qu’une sensation composée ; mais cette
-sensation ou ce jugement naturel est presque toujours suivi d’un
-autre jugement libre, que l’âme a pris une si grande habitude de
-faire, qu’elle ne peut presque plus s’en empêcher.
-Voilà quatre choses bien différentes, comme l’on peut voir,
-lesquelles on n’a pas soin de distinguer et que l’on est porté à
-confondre à cause de l’union étroite de l’âme et du corps,
-laquelle nous empéche de bien démêler les propriétés de la matière d’avec celles de l’esprit.
 
-Il est cependant facile de reconnaître, que de ces quatre choses
-qui se passent en nous, quand nous sentons quelque objet, les
-deux premières appartiennent au corps, et que les deux autres ne
-peuvent appartenir qu’à l’âme, pourvu qu’on ait un peu inédite
-sur la nature de l’âme et du corps, comme on l’a dû faire, ainsi
-que je l’ai supposé ; mais il faut expliquer ces choses en
-particulier.
 
+**III.** It is well to note here, in passing, that experience teaches that it can happen that we feel pain in parts of our body that have been entirely cut off from us, because the fibers of the brain that correspond to them, being shaken in the same manner as if they were actually wounded, the soul feels in these imaginary parts a very real pain. For all these things visibly show that the soul resides immediately in the part of the brain to which all the organs of the senses lead: I mean that it feels there all the changes that occur there with respect to the objects that caused them or that are accustomed to cause them, and that it perceives what passes outside this part only through the intermediary of the fibers that lead to it, or, if one wishes, through the various shocks of the spirits contained in these fibers. This being posited and well understood, it will not be very difficult to see how sensation occurs; which must be explained by some example.
+
+**IV.** When one presses the point of a needle on one's hand, this point moves and separates the fibers of the flesh. These fibers extend from that place to the brain; and, when one is awake, they are taut enough that they cannot be shaken without those of the brain being shaken as well. It follows therefore that the extremities of these fibers, which are in the brain, are also moved. If the movement of the fibers of the hand is moderate, that of the fibers of the brain will be so too; and if this movement is violent enough to break something in the hand, it will likewise be stronger and more violent in the brain.
+
+Likewise, if one brings one's hand near the fire, the small parts of the wood that it continually pushes in very great number and with great violence, as reason demonstrates in the absence of sight, come to strike against these fibers and communicate to them a part of their agitation. If this action is moderate, that of the extremities of the fibers of the brain that correspond to the hand will be moderate; and if this movement is violent enough in the hand to separate some parts of it, as happens when one burns oneself, the movement of the interior fibers of the brain will be, proportionally, stronger and more violent. This is what one can conceive happens to our body when objects strike us. We must now see what happens to our soul.
+
+**V.** It resides principally, if one may put it so, in that part of the brain to which all the fibers of our nerves lead; it is there to maintain and preserve all the parts of our body; and, consequently, it must be warned of all the changes that occur there, and it must be able to distinguish those that are conformable to the constitution of its body from the others, because it would be useless for it to recognize them absolutely and without this relation to its body. Thus, although all these changes of our fibers consist, in truth, only in movements that ordinarily differ only by more or less, it is necessary that the soul regard them as essentially different changes; for although in themselves they differ only very little, they must nevertheless be considered as essentially different with respect to the preservation of the body.
+
+The movement, for example, that causes pain very often differs only very little from that which causes tickling. It is not necessary that there be an essential difference between these two movements; but it is necessary that there be an essential difference between the tickling and the pain that these two movements cause in the soul, for the shaking of the fibers that accompanies tickling testifies to the soul the good constitution of its body, that it has enough strength to resist the impression of the object, and that it should not fear being wounded by it. But the movement that accompanies pain being somewhat more violent, it is capable of breaking some fiber of the body, and the soul must be warned of it by some disagreeable sensation, so that it may take heed. Thus, although the movements that occur in the body differ only by more or less in themselves, if nevertheless one considers them with respect to the preservation of our life, one can say that they differ essentially [19].
+
+It is for this reason that our soul does not perceive the shocks that objects excite in the fibers of our flesh. It would be quite useless for it to know them, and it would not derive enough light from them to judge whether the things that surround us would be capable of destroying or maintaining the economy of our body; but it feels itself touched by feelings that differ essentially, and which, marking precisely the qualities of objects with respect to its body, make it feel very distinctly whether these objects are capable of harming it.
+
+Moreover, one must consider that if the soul perceived only what passes in its hand when it burns itself, if it saw there only the movement and separation of some fibers, it would scarcely concern itself with it; and it might even sometimes, by fancy or caprice, take some satisfaction in it, like those fantastical people who amuse themselves by breaking everything in their outbursts and debauches.
+
+Or else, just as a prisoner would scarcely concern himself if he saw that the walls that enclose him were being demolished, and would even rejoice in the hope of being soon delivered; so, if we perceived only the separation of the parts of our body when we burn ourselves or receive some wound, we would soon persuade ourselves that our happiness is not to be enclosed in a body that prevents us from enjoying the things that should make us happy, and thus we would be quite glad to see it destroyed.
+
+It follows from this that it is with great wisdom that the author of the union of our soul with our body has ordained that we feel pain when a change capable of harming the body occurs to it, as when a needle enters the flesh or fire separates some parts of it, and that we feel tickling or agreeable warmth when these movements are moderate, without perceiving the truth of what passes in our body nor the movements of these fibers of which we have just spoken.
+
+First, because by feeling pain and pleasure, which are things that differ far more than by more or less, we distinguish with more ease the objects that occasion them; secondly, because this way of making us know whether we should unite ourselves to the bodies that surround us or separate ourselves from them is the shortest, and occupies less the capacity of a mind that is made only for God; finally, because pain and pleasure, being modifications of our soul, which it feels with respect to its body and which touch it far more than the knowledge of the movement of some fibers that would belong to it, this obliges it to concern itself greatly with them, and makes a very close union between the one and the other part of man. It is therefore evident from all this that the senses are given to us only for the preservation of our body, and not to teach us the truth.
+
+What has just been said of tickling and pain must be understood generally of all the other sensations, as will be seen better in what follows. We have begun with these two feelings rather than the others, because they are the most vivid and make one conceive more sensibly what one meant to say.
+
+It is now very easy to show that we fall into an infinity of errors concerning light and colors, and generally concerning all sensible qualities, such as cold, heat, odors, tastes, sound, pain, tickling; and, if I wanted to stop to examine in particular all those into which we fall concerning all the objects of our senses, entire years would not suffice to deduce them, because they are almost infinite. Thus it will be enough to speak of them in general.
+
+In almost all sensations there are four different things, which are confused, because they all occur together and as if in an instant. This is the principle of all the other errors of our senses.
+
+**VI.** The first is the action of the object, that is to say, in heat for example, the impulse and movement of the small parts of the wood against the fibers of the hand.
+The second is the passion of the organ of sense, that is to say, the agitation of the fibers of the hand caused by that of the small parts of the fire, which agitation communicates itself to the brain, because otherwise the soul would feel nothing.
+The third is the passion, sensation, or perception of the soul, that is to say, what each one feels when he is near the fire.
+The fourth is the judgment that the soul makes, that what it feels is in its hand and in the fire. Now, this judgment is natural, or rather it is only a composite sensation; but this sensation or natural judgment is almost always followed by another free judgment, which the soul has taken such a great habit of making that it can scarcely prevent itself from doing so.
+
+These are four very different things, as one can see, which one does not take care to distinguish and which one is inclined to confuse because of the close union of soul and body, which prevents us from properly disentangling the properties of matter from those of the mind.
+
+It is however easy to recognize that of these four things that occur in us, when we feel some object, the first two belong to the body, and that the other two can belong only to the soul, provided one has meditated a little on the nature of the soul and body, as one should have done, as I have supposed; but these things must be explained in particular.

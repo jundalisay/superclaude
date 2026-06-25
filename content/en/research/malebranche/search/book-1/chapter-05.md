@@ -1,30 +1,39 @@
 ---
 heading: Chapter 5
-title: "The Senses"
+title: "How our senses are corrupted by sin"
 description: ""
 a: "Malebranche"
 c: "indigo"
-<<<<<<< HEAD
-weight: 3
-=======
 weight: 7
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
 
-When one attentively considers the senses and passions of man, one finds them so well proportioned to the end for which they are given to us that one cannot enter into the thought of those who say they are entirely corrupted by original sin. But, in order that one may recognize whether it is with reason that one does not yield to their opinion, it is necessary to explain in what manner one can conceive the order that existed in the faculties and passions of our first father during his original justice, and the changes and disorders that occurred there after his sin. These things can be conceived in two ways, of which here is the first.
+When one attentively considers the senses and passions of man, one finds them so well proportioned to the end for which they are given to us that one cannot enter into the thought of those who say they are entirely corrupted by original sin.
+
+But, in order that one may recognize whether it is with reason that one does not yield to their opinion, it is necessary to explain in what manner one can conceive the order that existed in the faculties and passions of our first father during his original justice, and the changes and disorders that occurred there after his sin. These things can be conceived in two ways, of which here is the first.
+
 
 ### Two ways to explain how our senses are corrupted by sin.
 
 It seems to be a common notion that, in order for things to be well ordered, the soul must feel greater pleasures in proportion to the greatness of the goods it enjoys. 
 
-Pleasure is an instinct of nature, or, to speak more clearly, it is an impression of God Himself that inclines us toward some good, which must be all the stronger as that good is greater. According to this principle, it seems one cannot doubt that our first father, before his sin and coming from the hands of God, did not find more pleasure in the most solid goods than in others. Thus, since God had created him to love Him, and God was his true good, one can say that God made Himself tasted by him, that He bore him to His love by a feeling of pleasure, and that He gave him interior satisfactions in his duty that counterbalanced the greatest pleasures of the senses — satisfactions which, since the sin, men no longer feel without a particular grace.
+Pleasure is an instinct of nature.
+
+It is an impression of God Himself that inclines us toward some good, which must be all the stronger as that good is greater.
+
+According to this principle, it seems one cannot doubt that our first father, before his sin and coming from the hands of God, did not find more pleasure in the most solid goods than in others. 
+
+Thus, since God had created him to love Him, and God was his true good, one can say that God made Himself tasted by him, that He bore him to His love by a feeling of pleasure, and that He gave him interior satisfactions in his duty that counterbalanced the greatest pleasures of the senses — satisfactions which, since the sin, men no longer feel without a particular grace.
 
 However, since he had a body that God wished him to preserve and to regard as a part of himself, He also made him feel through the senses pleasures similar to those we feel in the use of things that are proper for the preservation of life.
 
-One does not dare to decide whether the first man, before his fall, could prevent himself from having agreeable or disagreeable sensations at the moment when the principal part of his brain was shaken by the actual use of sensible things. Perhaps he had this empire over himself, because of his submission to God, although it appears more probable to think the contrary; for, although Adam could stop the emotions of the spirits and of the blood, and the vibrations of the brain that objects excited in him, because, being in order, his body had to be subject to his mind, nevertheless it is not probable that he could have prevented himself from having sensations of objects at the time when he had not stopped the movements they produced in the part of his body to which his soul was immediately united; for the union of the soul and body consisting principally in a mutual relation of feelings with the movements of the organs, it seems that it would have been rather arbitrary than natural if Adam could have felt nothing when the principal part of his body received some impression from those who surrounded him. I do not, however, take any side on these two opinions.
+One does not dare to decide whether the first man, before his fall, could prevent himself from having agreeable or disagreeable sensations at the moment when the principal part of his brain was shaken by the actual use of sensible things. 
+
+Perhaps he had this empire over himself, because of his submission to God, although it appears more probable to think the contrary; for, although Adam could stop the emotions of the spirits and of the blood, and the vibrations of the brain that objects excited in him, because, being in order, his body had to be subject to his mind, nevertheless it is not probable that he could have prevented himself from having sensations of objects at the time when he had not stopped the movements they produced in the part of his body to which his soul was immediately united; for the union of the soul and body consisting principally in a mutual relation of feelings with the movements of the organs, it seems that it would have been rather arbitrary than natural if Adam could have felt nothing when the principal part of his body received some impression from those who surrounded him. 
+
+I do not, however, take any side on these two opinions.
 
 The first man therefore felt pleasure in what perfected his body just as he felt it in what perfected his soul; and, because he was in a perfect state, he experienced that of the soul much greater than that of the body. Thus it was infinitely easier for him to preserve his justice than for us without the grace of Jesus Christ, since without it we no longer find pleasure in our duty. He nevertheless let himself be unhappily seduced; he lost this justice by his disobedience. Thus the principal change that happened to him, and that causes all the disorder of the senses and passions, is that, by a just punishment, God withdrew from him and no longer wished to be his good, or rather He no longer made him feel that pleasure that indicated to him that He was his good; so that the sensible pleasures, which lead only to the goods of the body, having remained alone, and no longer being counterbalanced by those that previously led him to his true good, the close union he had with God was strangely weakened, and that which he had with his body was greatly increased. Sensible pleasure, being the master, corrupted his heart by attaching it to all sensible objects, and the corruption of his heart obscured his mind by turning it away from the light that enlightens it and leading it to judge all things only according to the relation they can have with the body.
 
@@ -63,24 +72,11 @@ These two things are absolutely necessary for re-entering and persevering in our
 But, although in our present state there is an obligation to fight continually against our senses, one must not conclude from it that they are absolutely corrupted and ill-regulated; for if one considers that they are given to us for the preservation of our body, one will find that they acquit themselves admirably well of their duty, and that they guide us in so just and faithful a manner toward their end that it seems it is wrongly that they are accused of corruption and disorder; they warn the soul so promptly through pain and pleasure, through agreeable and disagreeable tastes, and through other sensations, of what it must do or not do for the preservation of life, that one cannot rightly say that this order and exactness are a consequence of sin.
 
 
-<<<<<<< HEAD
-III. Nous devons observer exactement cette règle de ne juger jamais par les sens de ce que les choses sont en elles-mêmes,
-mais seulement du rapport quelles ont avec notre corps, parce
-qu’en effet ils ne nous sont point donnés pour connaître la vérité
-des choses en elles-mêmes, mais seulement pour la conservation
-de notre corps.
+### Our freedom, not our senses, is the true cause of our errors
 
-Mais afin qu’on se délivre tout à fait de la facilité et de
-l’inclination que l’on a à suivre ses sens dans la recherche de la
-vérité, on va faire dans les chapitres suivants une déduction des
-principales et des plus générales erreurs où ils nous jettent, et
-l’on reconnaîtra manifestement la vérité de ce que l’on vient
-d’avancer.
-=======
-### it is not our senses, but our freedom, that is the true cause of our errors
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
+Our senses are therefore not so corrupted as one imagines.
 
-II. Our senses are therefore not so corrupted as one imagines; but it is the most inward part of our soul, it is our freedom that is corrupted. It is not our senses that deceive us, but it is our will that deceives us through its precipitate judgments. When one sees, for example, light, it is very certain that one sees light; when one feels heat, one is not mistaken in believing that one feels it, whether before or after sin. But one is mistaken when one judges that the heat one feels is outside the soul that feels it, as we will explain later.
+But it is the most inward part of our soul, it is our freedom that is corrupted. It is not our senses that deceive us, but it is our will that deceives us through its precipitate judgments. When one sees, for example, light, it is very certain that one sees light; when one feels heat, one is not mistaken in believing that one feels it, whether before or after sin. But one is mistaken when one judges that the heat one feels is outside the soul that feels it, as we will explain later.
 
 The senses would therefore not throw us into error if we made good use of our freedom, and if we did not use their report to judge things with too much precipitation. But because it is very difficult to prevent oneself from doing so, and we are almost constrained to it because of the close union of our soul with our body, here is how we ought to conduct ourselves in their use so as not to fall into error.
 

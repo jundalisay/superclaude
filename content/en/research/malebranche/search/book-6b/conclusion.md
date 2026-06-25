@@ -1,6 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "CONCLUSION OF THE LAST THREE BOOKS"
+title: "Conclusion Of The Last Three Books"
 description: ""
 a: "Malebranche"
 c: "indigo"
