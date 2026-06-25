@@ -1,4 +1,14 @@
-CHAPITRE VIII.
+---
+heading: Chapter 8
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 I. Que nos yeux ne nous apprennent point la grandeur ou la vitesse du mouvement
 considéré en soi. — II. Que la durée qui est nécessaire pour connaître le

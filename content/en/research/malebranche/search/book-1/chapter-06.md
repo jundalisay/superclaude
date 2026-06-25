@@ -1,5 +1,197 @@
 ---
 heading: Chapter 6
+<<<<<<< HEAD
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+I. Des erreurs de la vue à l’égard de l’étendue en soi. — II. Suite de ces erreurs sur des
+objets invisibles. — III. Des erreurs de nos yeux touchant l’étendue considérée
+par rapport.
+La vue est le premier, le plus noble et le plus étendu de tous
+les sens ; de sorte que s’ils nous étaient donnés pour découvrir la
+vérité, elle y aurait seule plus de part que tous les autres
+ensemble. Ainsi il suffira de ruiner l’autorité que les yeux ont sur
+la raison pour nous détromper et pour nous porter à une défiance
+générale de tous nos sens.
+Nous allons donc faire voir que nous ne devons point nous
+appuyer sur le témoignage de notre vue pour juger de la vérité
+des choses en elles-mêmes, mais seulement pour découvrir le
+rapport qu’elles ont à la conservation de notre corps ; que nos
+yeux nous trompent généralement dans tout ce qu’ils nous
+représentent, dans la grandeur des corps, dans leurs figures et
+64
+dans leurs mouvements, dans la lumière et dans les couleurs, qui
+sont les seules choses que nous voyons ; que toutes ces choses ne
+sont point telles qu’elles nous paraissent ; que tout le monde s’y
+trompe, et que cela nous jette encore dans d’autres erreurs dont le
+nombre est infini. Nous commençons par l’étendue, et voici les
+preuves qui nous font croire que nos yeux ne nous la font jamais
+voir telle qu’elle est.
+I. On voit assez souvent avec des lunettes des animaux
+beaucoup plus petits qu’un grain de sable qui est presque
+invisible
+[10]
+; on en a vu même de mille fois plus petits. Ces
+atomes vivants marchent aussi bien que les autres animaux. Ils
+ont donc des jambes et des pieds, des os dans ces jambes pour
+les soutenir (ou plutôt sur ces jambes, car les os des insectes
+c’est leur peau) ; ils ont des muscles pour les remuer, des tendons
+et une infinité de fibres dans chaque muscle, et eníin du sang ou
+des esprits animaux extrêmement subtils et déliés pour remplir ou
+pour faire mouvoir successivement ces muscles. Ils n’est pas
+possible sans cela de concevoir qu’ils vivent, qu’ils se
+nourrissent et qu’ils transportent leur petit corps en différents
+lieux, selon les différentes impressions des objets ; ou plutôt il
+n’est pas possible que ceux-mêmes qui ont employé toute leur vie
+à l’anatomie et à la recherche de la nature se représentent le
+nombre, la diversité et la délicatesse de toutes les parties dont
+ces petits corps sont nécessairement composés pour vivre et pour
+exécuter toutes les choses que nous leur voyons faire.
+L’imagination se perd et s’étonne à la vue d’une si étrange
+petitesse ; elle ne peut atteindre ni se prendre à des parties, qui
+n’ont point de prise pour elle ; et quoique la raison nous
+convainque de ce qu’on vient de dire, les sens et l’imagination
+65
+s’y opposent, et nous obligent souvent d’en douter.
+Notre vue est très limitée, mais elle ne doit pas limiter son
+objet. L’idée qu’elle nous donne de l’étendue a des bornes fort
+étroites ; mais il ne suit pas de là que l’étendue en ait. Elle est
+sans doute infinie en un sens ; et cette petite partie de matière, qui
+se cache à nos yeux, est capable de contenir un monde dans
+lequel il se trouverait autant de choses, quoique plus petites à
+proportion, que dans ce grand monde dans lequel nous vivons.
+Les petits animaux dont nous venons de parler, ont peut-être
+d’autres petits animaux qui les dévorent, et qui leur sont
+imperceptibles à cause de leur petitesse effroyable, de même que
+ces autres nous sont imperceptibles. Ce qu’un ciron est a notre
+égard, ces animaux le sont a un ciron ; et peut-être qu’il y en a
+dans la nature de plus petits, et de plus petits à l’infini dans cette
+proportion si étrange d’un homme à un ciron.
+Nous avons des démonstrations évidentes et mathématiques de
+la divisibilité de la matière à l’infini ; et cela suffit pour nous
+faire croire qu’il peut y avoir des animaux plus petits et plus
+petits à l’infini, quoique notre imagination s’effarouche de cette
+pensée. Dieu n’a fait la matière que pour en former des ouvrages
+admirables ; et puisque nous sommes certains qu’il n’y a point de
+parties dont la petitesse soit capable de borner sa puissance dans
+la formation de ces petits animaux, pourquoi la limiter et
+diminuer ainsi sans raison l’idée que nous avons d’un ouvrier
+infini, en mesurant sa puissance et son adresse par notre
+imagination qui est finie ?
+L’expérience nous a déjà détrompés en partie, en nous faisant
+voir des animaux mille fois plus petits qu’un ciron, pourquoi
+voudrions-nous qu’ils fussent les derniers et les plus petits de tous ? Pour moi, je ne vois pas qu’il y ait raison de se l’imaginer.
+Il est au contraire bien plus vraisemblable de croire qu’il y en a
+de beaucoup plus petits que ceux que l’on a découverts ; car enfin
+les petits animaux ne manquent pas aux microscopes, comme les
+microscopes manquent aux petits animaux.
+
+Lorsqu’on examine au milieu de l’hiver le germe de l’oignon
+d’une tulipe, avec une simple loupe ou verre convexe, ou même
+seulement avec les yeux, on découvre fort aisément dans ce
+germe les feuilles qui doivent devenir vertes, celles qui doivent
+composer la fleur ou la tulipe, cette petite partie triangulaire qui
+enferme la graine, et les six petites colonnes qui l’environnent
+dans le fond de la tulipe. Ainsi on ne peut douter que le germe
+d’un oignon de tulipe ne renferme une tulipe tout entière.
+Il est raisonnable de croire la même chose du germe d’un grain
+de moutarde, de celui d’un pépin de pomme, et généralement de
+toutes sortes d’arbres et de plantes, quoique cela ne se puisse pas
+voir avec les yeux, ni même avec le microscope ; et l’on peut
+dire avec quelque assurance que tous les arbres sont en petit dans
+le germe de leur semence.
+
+Il ne paraît pas même déraisonnable de penser qu’il y a des
+arbres infinis dans un seul germe, puisqu’il ne contient pas
+seulement l’arbre dont il est la semence, mais aussi un très-grand
+nombre d’autres semences, qui, peuvent toutes renfermer dans
+elles-mêmes de nouveaux arbres et de nouvelles semences
+d’arbres ; lesquelles conserveront peut-être encore, dans une
+petitesse incompréhensible, d’autres arbres et d’autres semences
+aussi fécondes que les premières, et ainsi à l’infini. De sorte que,
+selon cette pensée qui ne peut paraitre impertinente et bizarre
+qu’a ceux qui mesurent les merveilles de la puissance infinie de Dieu avec les idées de leurs sens et de leur imagination, on
+pourrait dire que dans un seul pépin de pomme il y aurait des
+pommiers, des pommes et des semences de pommiers pour des
+siècles infinis ou presque infinis, dans cette proportion d’un
+pommier parfait a un pommier dans sa semence ; que la nature ne
+fait que développer ces petits arbres, en donnant un
+accroissement sensible à celui qui est hors de sa semence, et des
+accroissements insensibles, mais très-réels et proportionnés à
+leur grandeur, à ceux qu’on conçoit être dans leurs semences ; car
+on ne peut pas douter qu’íl ne puisse y avoir des corps assez
+petits, pour s’insinuer entre les fibres de ces arbres que l’on
+conçoit dans leurs semences, et pour leur servir ainsi de
+nourriture.
+
+Ce que nous venons de dire des plantes et de leurs germes, se
+peut aussi penser des animaux et du germe dont ils sont produits.
+On voit dans le germe de l’oignon d’une tulipe une tulipe entière.
+On voit aussi dans le germe d’un œuf frais, et qui n’a point été
+couvé, un poulet qui est peut-être entièrement formé.
+
+On voit
+des grenouilles dans les œufs des grenouilles, et on verra encore
+d’autres animaux dans leur germe, lorsqu’on aura assez d’adresse
+et d’expérience pour les découvrir. Mais il ne faut pas que
+l’esprit s’arrête avec les yeux ; car la vue de l’esprit a bien plus
+d’étendue que la vue du corps. Nous devons donc penser outre
+cela que tous les corps des hommes et des animaux, qui naîtront
+jusqu’à la consommation des siècles, ont peut-être été produits
+des la création du monde ; je veux dire que les femelles des
+premiers animaux ont peut-être été créées avec tous ceux de
+même espèce qu’ils ont engendrés, et qui devaient d’engendrer
+dans la suite des temps.
+68
+Un pourrait encore pousser davantage cette pensée, et peut-être
+avec beaucoup de raison et de vérité ; mais on appréhende avec
+sujet de vouloir pénétrer trop avant dans les ouvrages de Dieu.
+On n’y voit qu’infinitós partout, et nou-seulement nos sens et
+notre imagination sont trop limites pour les comprendre, mais
+l’esprít même, tout pur et tout dégagé qu’il est de la matière, est
+trop grossier et trop faible pour pénétrer le plus peut des
+ouvrages de Dieu. Il se perd, il se dissipe, il s’éblouit, il
+s’effraie à la vue de ce qu’on appelle un atome selon le langage
+des sens. Mais toutefois l’esprit pur à cet avantage sur les sens et
+sur l’imagination, qu’il reconnaît sa faiblesse et la grandeur de
+Dieu, et qu’il aperçoit l’infini dans lequel il se perd ; au lieu que
+notre imagination et nos sens rabaissent les ouvrages de Dieu, et
+nous donnent une sotte confiance qui nous précipite aveuglément
+dans l’erreur. Car nos yeux ne nous font point avoir l’idée de
+toutes ces choses que nous découvrons avec les microscopes et
+par la raison. Nous n’apercevons point par notre vue de plus petit
+corps qu’un ciron ou une mite. La moitié d’un ciron n’est rien, si
+nous croyons le rapport qu’elle nous en fait. Une mite n’est qu’un
+point de mathématique à son égard ; on ne peut la diviser sans
+l’anéantir. Notre vue ne nous représente donc point l’étendue,
+selon ce qu’elle est en elle-même, mais seulement ce qu’elle est
+par rapport à notre corps ; et parce que la moitié d’une mite n’a
+pas un rapport considérable à notre corps, et que cela ne peut ni
+le conserver ni le détruire, notre vue nous le cache entièrement.
+Mais si nous avions les yeux faits comme les microscopes, ou
+plutôt si nous étions aussi petits que les cirons et les mites, nous
+jugerions tout autrement de la grandeur des corps. Car sans doute
+ces petits animaux ont les yeux disposés pour voir ce qui les
+environne, et leur propre corps beaucoup plus grand ou composé d’un plus grand nombre de parties que nous ne le voyons,
+puisqu’autrement ils n’en pourraient pas recevoir les impressions
+nécessaires à la conservation de leur vie, et qu’ainsi les yeux
+qu’ils ont leur seraient entièrement inutiles.
+Mais afin de se mieux persuader de tout ceci, nous devons
+considérer que nos propres yeux ne sont en effet que des lunettes
+naturelles ; que leurs humeurs font le même effet que les verres
+dans les lunettes ; et que selon la situation qu’ils gardent entre
+eux, et selon la figure du cristallin et de son éloignement de la
+rétine, nous voyons les objets différemment. De sorte qu’on ne
+peut pas assurer qu’il y ait deux hommes dans le monde qui les
+voient précisément de la même grandeur, ou composés de
+semblables parties, puisqu’on ne peut pas assurer que leurs yeux
+soient tout à fait semblables.
+=======
 title: "Errors of Sight"
 description: ""
 a: "Malebranche"
@@ -9,6 +201,7 @@ date: 2026-06-20
 ---
 
 
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 
 ## I. Errors of Sight Regarding Extension Itself

@@ -1,4 +1,15 @@
-CHAPITRE IX.
+---
+heading: Chapter 9
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 De l'amour et de l'aversion, et de leurs principales espèces.
 L'amour et l’aversion sont les premières passions qui
 succèdent à l’admiration. Nous ne considérons pas long-temps un
@@ -20,9 +31,8 @@ nouvellement déterminé, étant joint à celui des esprits animaux et
 suivi du sentiment qui accompagne la nouvelle disposition que ce
 nouveau mouvement d’esprit produit dans le cerveau, est la
 passion qu’on appelle ici amour.
-Mais, si nous sentons par quelque douleur, ou si nous
-677
-découvrons par une connaissance claire et évidente que l’union
+
+Mais, si nous sentons par quelque douleur, ou si nous découvrons par une connaissance claire et évidente que l’union
 ou le rapport de l’objet que nous admirons nous est
 désavantageux, ou à quelque chose qui nous soit uni, alors le
 mouvement d’amour que nous avons pour nous et pour la chose
@@ -39,6 +49,7 @@ de l’âme étant joint a celui des esprits et du sang, et suivi du
 sentiment qui accompagne la nouvelle disposition que ce
 mouvement d’esprit produit dans le cerveau, est la passion que
 l’on appelle ici aversion.
+
 Cette passion est entièrement contraire à l’amour, mais elle
 n’est jamais sans amour ; elle est entièrement contraire à l’amour,
 car elle sépare, et l’amour unit ; elle a le néant pour son terme, et
@@ -51,9 +62,7 @@ bien ; et ainsi l’aversion de la privation du bien est l’amour du
 bien. Mais si le mal est pris pour la douleur, l’aversion de la
 douleur n’est pas l’aversion de la privation du plaisir, puisque la
 douleur étant un sentiment aussi réel que le plaisir, elle-n’en est
-pas la privation ; mais l’aversion de la douleur étant l’aversion
-678
-de quelque misère intérieure, on n’aurait point cette aversion si
+pas la privation ; mais l’aversion de la douleur étant l’aversion de quelque misère intérieure, on n’aurait point cette aversion si
 l’on ne s’aimait : enfin le mal se peut prendre pour ce qui cause
 en nous la douleur. ou pour ce qui nous prive du bien ; et alors
 l’aversion dépend de l’amour de nous-mêmes, ou de l’amour de
@@ -98,6 +107,7 @@ L’ídée du bien que l’on possède produit un amour de joie.
 L’ídée d’un bien que l’on ne possède pas, mais que l’on espere
 de posséder, c’est-à-dire que l’on juge pouvoir posséder, produit
 un amour de désir.
+
 Enfin, l’idée d’un bien que l’on ne possède pas et que l’on
 n’espère pas de posséder, ou, ce qui fait le même effet, l’idée
 d’un bien que l’on n’espère pas de posséder sans la perte de
@@ -121,6 +131,8 @@ Le mal, comme j’ai déjà dit, se peut prendre en trois
 manières : ou pour la privation du bien, ou pour la douleur, ou
 enfin pour la chose qui cause la privation du bien ou qui produit
 la douleur.
+
+
 Dans le premier sens, l’idée du mal étant la même que l’idée
 d’un bien que l’on ne possède pas, il est visible que cette idée
 produit la tristesse, ou le désir, ou même la joie, car la joie
@@ -151,6 +163,8 @@ ou la douleur dont on se sent délivré, produit une aversion de
 joie. Ce sont là les trois passions simples ou primitives qui ont le
 mal pour objet, car la crainte qui produit la tristesse n’est point
 une émotion de l’åme, mais un simple jugement.
+
+
 Enfin, si par le mal on entend la personne ou la chose qui nous
 prive du bien ou qui nous fait souffrir de la douleur, l’idée du mal
 produit un mouvement d’amour et d’aversion tout ensemble, ou
@@ -163,6 +177,7 @@ mouvement d’aversion, lorsque c’est l’idée d’un mal qui nous
 fait souffrir de la douleur, parce que c’est par un même
 mouvement d’aversion que l’on hait la douleur et celui qui nous
 la fait souffrir.
+
 Ainsi, il y a trois passions simples ou primitives qui regardent
 le bien, et autant d’autres qui regardent la douleur ou celui qui la
 cause, savoir : la joie, le désir et la tristesse. Car on a de la joie
@@ -171,9 +186,7 @@ tristesse lorsque le bien est passé et que le mal est présent, et
 l’on est agité de désir lorsque le bien et le mal sont futurs.
 Les passions qui regardent le bien sont des déterminations
 particulières du mouvement que Dieu nous donne pour le bien en
-général. et c’est pour cela que leur objet est réel ; mais les autres
-682
-qui n’ont point Dieu pour cause de leur mouvement n’ont que le
+général. et c’est pour cela que leur objet est réel ; mais les autres qui n’ont point Dieu pour cause de leur mouvement n’ont que le
 néant pour leur terme ; je veux dire que ces passions sont plutôt
 des cessations de mouvement que des mouvements réels ; on
 cesse alors de vouloir plutôt qu’on ne veut.

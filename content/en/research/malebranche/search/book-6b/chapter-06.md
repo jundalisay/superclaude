@@ -1,406 +1,115 @@
+---
+heading: Chapter 6
+title: "General Advice"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 18
+date: 2026-06-20
+---
 
-CHAPITRE VI.
 
-Avis généraux quisont nécessaires pour se conduire par ordre dans la recherche de la
-vérité et dans le choix des sciences.
-Afin qu’on ne dise pas que je ne fais que détruire sans rien
-établir de certain et d’incontestable dans cet ouvrage, il est à
-propos que j’expose ici en peu de mots l’ordre que l’on doit
-garder dans ses études pour ne se point tromper, et que je marque
-même quelques vérités et quelques sciences très-nécessaires
-dans lesquelles il se rencontre une évidence telle qu’on ne peut
-s’empêcher d’y consentir sans souffrir les reproches secrets de
-sa raison. Je n’expliquerai pas ces vérités et ces sciences fort au
-long, c’est une chose déjà faite ; je ne prétends pas faire
-imprimer de nouveau les ouvrages des autres, je me contenterai
-d’y renvoyer. Je montrerai seulement l’ordre qu’on doit tenir
-dans l’étude qu’on en voudra faire pour conserver toujours
-l’évidence dans ses perceptions.
 
-De toutes nos connaissances, la première c’est l’existence de
-notre âme ; toutes nos pensées en sont des démonstrations
-incontestables, car il n’y a rien de plus évident que ce qui pense
-actuellement est actuellement quelque chose. Mais s’il est facile
-de connaître l’existence de son âme, il n’est pas si facile d’en
-connaître l’essence et la nature. Si l’on veut savoir ce qu’elle est, il faut surtout bien prendre garde à ne la pas confondre avec les
-choses auxquelles elle est unie. Si l’on doute, si l’on veut, si l’on
-raisonne, il faut seulement croire que l’âme est une chose qui
-doute, qui veut, qui raisonne, et rien davantage, pourvu qu’on
-n’ait point éprouvé en elle d’autres propriétés ; car on ne connaît
-son âme que par le sentiment intérieur qu’on en a. Il ne faut pas
-prendre son âme pour son corps, ni pour du sang. ni pour des
-esprits animaux, ni pour du feu, ni pour une infinité d’autres
-choses pour lesquelles les philosophes l’ont prise. Il ne faut
-croire de l’âme que ce qu’on ne saurait s’empêcher d’en croire,
-et ce dont on est pleinement convaincu par le sentiment intérieur
-qu’on a de soi-même ; car autrement on se tromperait. Ainsi l’on
-connaîtra par simple vue ou par sentiment intérieur tout ce que
-l’on peut connaître de l’âme, sans être obligé à faire des
-raisonnements dans lesquels l’erreur se pourrait trouver. Car
-lorsque l’on raisonne, la mémoire agit ; et où il y a mémoire il
-peut y avoir erreur, supposé qu’il y ait quelque mauvais génie de
-qui nous dépendions dans nos connaissances et qui se divertisse
-à nous tromper.
+## General Advice Necessary for Conducting Oneself Methodically in the Search for Truth and in the Choice of Sciences
 
-Si je supposais, par exemple, un Dieu qui se plût à me séduire,
-je suis très-persuadé qu’il ne pourrait me tromper dans mes
-connaissances de simple vue, comme dans celle par laquelle je
-connais que je suis, de ce que je pense, ou que2 fois deux font 4 ;
-car quand même je supposerais effectivement un tel Dieu si
-puissant que je puisse me le feindre, je sens que dans cette
-supposition extravagante je ne pourrais douter que je fusse, ou
-que 2 fois 2 ne fussent égaux à 4, parce que j’aperçois ces choses
-de simple vue sans l’usage de la mémoire.
+Lest it be said that I do nothing but destroy without establishing anything certain and incontestable in this work, it is proper that I briefly set forth here the order one must maintain in their studies to avoid error. I shall also point out a few highly necessary truths and sciences in which an evidence is met so clear that one cannot help but assent to them without suffering the secret reproaches of one's reason. I will not explain these truths and sciences at great length, as that has already been done; I do not intend to reprint the works of others, and shall content myself with referring to them. I will only show the order one must maintain in the study they wish to make of them, so as to always preserve evidence in one's perceptions.
 
-Mais lorsque je raisonne, ne voyant point évidemment les principes de mes raisonnements, et me souvenant seulement que
-je les ai vus avec évidence, si ce Dieu trompeur joignait ce
-souvenir à de faux principes, comme il pourrait le faire s’il le
-voulait, je ne ferais que de faux raisonnements. De même que
-ceux qui font de longues supputations s’imaginent se bien
-souvenir qu’ils ont connu que 9 fois 9 font 72, ou que 21 est un
-nombre premier, ou quelque semblable erreur de laquelle ils
-tirent de fausses conclusions.
+### On the Soul and the Fallibility of Memory
 
-Ainsi il est nécessaire de connaître Dieu et de savoir qu’il
-n’est point trompeur, si l’on veut être pleinement convaincu que
-les sciences les plus certaines, comme l’arithmétique et la
-géométrie, sont de véritables sciences ; car sans cela l’évidence
-n’étant point entière, on peut retenir son consentement. Et il est
-encore nécessaire de savoir par simple vue et non point par
-raisonnement que Dieu n’est point. trompeur ; puisque le
-raisonnement peut toujours être faux, si l’on suppose Dieu
-trompeur.
+Of all our knowledge, the first is the existence of our soul; all our thoughts are incontestable demonstrations of it, for nothing is more evident than that what currently thinks is currently something. But if it is easy to know the existence of one's soul, it is not so easy to know its essence and nature. If one wishes to know what it is, above all, great care must be taken not to confound it with the things to which it is united. If one doubts, if one wills, if one reasons, one must only believe that the soul is a thing that doubts, wills, and reasons, and nothing more, provided one has not experienced other properties in it; for one knows one's soul only through the internal sensation one has of it.
 
-Toutes les preuves ordinaires de l’existence et des perfections
-de Dieu, tirées de l’existence et des perfections de ses créatures,
-ont, ce me semble, ce défaut : qu’elles ne convainquent point
-l’esprit par simple vue. Toutes ces preuves sont des
-raisonnements qui sont convaincants en eux-mêmes ; mais étant
-des raisonnements, ils ne sont point convaincants dans la
-supposition d’un mauvais génie qui nous trompe. Ils convainquent
-suffisamment qu’il y a une puíssance supérieure à nous, car même
-cette supposition extravagante l’établit ; mais ils ne convainquent
-pas pleinement qu’il y a un Dieu ou un être infiniment parfait.
-Ainsi dans ces raisonnements la conclusion est plus évidente que
-le principe.
+One must not mistake one's soul for one's body, nor for blood, nor for animal spirits, nor for fire, nor for an infinity of other things for which philosophers have mistaken it. One must believe nothing of the soul except what one cannot help but believe, and that of which one is fully convinced by the internal sensation one has of oneself; for otherwise, one would be mistaken. Thus, one will know by direct perception (*simple vue*) or by internal sensation everything that can be known of the soul, without being obliged to construct arguments in which error might be found. For when one reasons, memory acts; and where there is memory, there can be error, assuming there were some evil genius upon whom we depended for our knowledge and who amused himself by deceiving us.
 
-Il est plus évident qu’il y à une puissance supérieure à nous,
-qu’il n’est évident qu’il y a un monde ; puisqu’il n’y a point de
-supposition qui puisse empècher qu’on ne démontre cette
-puissance supérieure : au lieu que dans la supposition d’un
-mauvais génie qui se plaise à nous tromper, il est impossible de
-prouver qu’il y ait un monde. Car on pourrait toujours concevoir
-que ce mauvais génie nous donnerait les sentiments des choses
-qui n’existeraient point, comme le sommeil et certaines maladies
-nous font voir des choses qui ne furent jamais, et nous font même
-sentir effectivement de la douleur dans des membres imaginaires
-que nous n’avons plus ou que nous n’avons jamais eus.
-Mais les preuves de l’existence et des perfections de Dieu,
-tirées de l’idée que nous avons de l’intini, sont preuves de
-simple vue. On voit qu’il y a un Dieu des que l’on voit l’infini ;
-parce que l’existence nécessaire est renfermée dans l’idée de
-l’infini, et qu’il n’y a rien que l’infini qui nous puisse donner
-l’idée que nous avons d’un être infini
-[25]
-. Le premier principe de
-nos connaissances est que le néant n’est pas visible ; d’où il suit
-que si l’on pense à l’infini, il faut qu’il soit. On voit aussi que
-Dieu n’est point trompeur, parce que, sachant qu’il est íntiniment
-parfait et que l’infini ne peut manquer d’aucune perfection, on
-voit clairement qu’il ne veut pas nous séduire, et même qu’il ne
-le peut pas, puisqu’il ne peut que ce qu’il veut ou que ce qu’il est
-capable de vouloir. Ainsi il y a un Dieu et un Dieu véritable qui
-ne nous trompe jamais, quoiqu’il ne nous éclaire pas toujours et
-que nous nous trompions souvent lorsqu’il ne nous éclaire pas.
-Toutes ces vérités se voient de simple vue par des esprits
-attentifs, quoiqu’il semble que nous fassions ici des
-raisonnements pour les exposer aux autres. On peut les supposer
-comme des principes incontestables sur lesquels on peut raisonner ; car ayant reconnu que Dieu ne se plait point à nous
-tromper, il nous est alors permis de raisonner.
+### Direct Perception versus Reasoning
 
-Il est évident que la certitude de la foi dépend aussi de ce
-principe qu’il y a un Dieu qui n’est point capable de nous
-tromper. Car l’existence d’un Dieu et l’infaillibilité de l’autorité
-divine sont plutôt des connaissances naturelles et des notions
-communes à des esprits capables d’une sérieuse attention, que
-des articles de foi ; quoique ce soit un don particulier de Dieu
-que d’avoir l’esprit capable d’une attention snñisante pour
-comprendre comme il faut ces vérités, et pour vouloir bien
-s’appliquer à les comprendre.
+If I were to suppose, for example, a God who pleased Himself by seducing me, I am thoroughly persuaded that He could not deceive me in my knowledge of direct perception—such as that by which I know that I am, from the fact that I think, or that twice two makes 4. For even if I were actually to suppose such a God, as powerful as I could imagine Him, I feel that in this extravagant supposition I could not doubt that I was, or that twice 2 were equal to 4, because I perceive these things by direct perception without the use of memory.
 
-De ce principe, que Dieu n’est point trompeur, on pourrait
-aussi conclure que nous avons effectivement un corps auquel
-nous sommes unis d’une façon particulière, et que nous sommes
-environnés de plusieurs autres. Car nous sommes intérieurement
-convaincus de leur existence par des sentiments continuels que
-Dieu produit en nous, et que nous ne pouvons corriger par la
-raison sans blesser la foi ; quoique nous puissions corriger par la
-raison les sentimens qui nous les représentent avec certaines
-qualités et certaines perfections qu’ils n’ont point. De sorte que
-nous ne devons pas croire qu’ils sont tels que nous les voyons, ou
-que nous les imaginons, mais seulement qu’ils existent et qu’ils sont tels que nous les concevons par la raison.
+But when I reason, not seeing evidently the principles of my arguments, and only remembering that I saw them with evidence, if this deceiving God joined this memory to false principles—as He could do if He wished—I would produce nothing but false reasonings. Just as those who perform long calculations imagine they well remember knowing that 9 times 9 makes 72, or that 21 is a prime number, or some similar error from which they draw false conclusions.
 
-Mais, afin de raisonner par ordre, nous ne devons point encore
-examiner si nous avons un corps et s’il y en a d’autres autour de
-nous, ou si nous en avons seulement les sentiments quoique ces
-corps n’existent point. Cette question renferme de trop grandes
-difficultés, et il n’est peut-être pas si nécessaire de la résoudre
-pour perfectionner ses connaissances, qu’on pourrait sel’imaginer. ni même pour avoir une connaissance exacte de la
-physique, de la morale et de quelques autres sciences.
-Nous avons en nous les idées des nombres et de l’étendue,
-desquelles l’existence est incontestable et la nature immuable,
-qui nous fourniraient éternellement de quoi penser, si nous en
-voulions connaître tous les rapports. Et il est nécessaire que nous
-commencions à faire usage de notre esprit sur ces idées pour des
-raisons qu’il ne sera pas inutile d’exposer. Il y en à trois
-principales.
+### The Knowledge of God as a Foundation for Science
 
-La première est que ces idées sont les plus claires et les plus
-évidentes de toutes. Car si, pour éviter l’erreur, on doit toujours
-conserver l’évidence dans ses raisonnements, il est clair que l’on
-doit plutôt raisonner sur les idées des nombres et de l’étendue,
-que sur les idées confuses ou composées de physique, de morale,
-de mécanique, de chimie et de toutes les autres sciences.
-La seconde est que ces idées sont les plus distinctes et les plus
-exactes de toutes, principalement celles des nombres. De sorte
-que l’habitude qu’on prend dans l’arithmétique et dans la
-géométrie de ne se point contenter qu’on ne connaisse
-précisément les rapports des choses, donne à l’esprit une certaine
-exactitude que n’ont point ceux qui se contentent des
-vraisemblances dont les autres sciences sont remplies.
-La troisième et la principale est que ces idées sont les règles
-immuables et les mesures communes de toutes les autres choses
-que nous connaissons et que nous pouvons connaître. Ceux qui
-connaissent parfaitement les rapports des nombres et des figures,
-ou plutôt l’art de faire les comparaisons nécessaires pour en
-connaître les rapports, ont une espèce de science universelle et
-un moyen très-assuré pour découvrir avec évidence et certitude tout ce qui ne passe point les bornes ordinaires de l’esprit. Mais
-ceux qui n’ont point cet art ne peuvent découvrir avec certitude
-les vérités un peu composées, quoiqu’ils aient des idées trèsclaires des choses dont ils tâchent de connaître les rapports
-composés.
+Thus, it is necessary to know God and to know that He is not a deceiver, if one wishes to be fully convinced that the most certain sciences, like arithmetic and geometry, are true sciences; for without this, the evidence not being complete, one may withhold one's consent. And it is further necessary to know by direct perception, and not by reasoning, that God is not a deceiver; since reasoning can always be false if one supposes God to be a deceiver.
 
-Ce sont ces raisons ou de semblables qui ont porté quelques
-anciens à faire étudier l’arithmétique, l’algèbre et la géométrie
-aux jeunes gens. Apparemment ils savaient que l’arilhmétique et
-l’algèbre donnent de l’étendue à l’esprit et une certaine
-pénétration qu’on ne peut acquérir par d’autres études, et que la
-géométrie règle si bien l’imagination, qu’elle ne se brouille pas
-facilement ; car cette faculté de l’âme, si nécessaire pour les
-sciences, acquiert par l’usage de la géométrie une certaine
-étendue de justesse qui pousse et qui conserve la vue claire de
-l’esprit jusque dans les difficultés les plus embarrassées.
-Si l’on veut donc conserver toujours l’évidence dans ses
-perceptions, et découvrir la vérité toute pure sans mélange de
-quelque obscurité ou de quelque erreur, on doit d’abord étudier
-l’arithmétique, l’algebre et la géométrie, après avoir acquis au
-moins quelque connaissance de soi-même et de l’Être souverain.
-Et si l’on veut avoir quelque livre qui facilité ces sciences, je
-crois que, comme l’on a du se servir des Méditations de M.
-Descartes pour la connaissance de Dieu et de soi-même, on peut,
-pour apprendre l’arithmétique et l’algèbre, se servir des
-Éléments des Mathématíques du P. Prestet, prêtre de l’oratoire ;
-et pour la géométrie ordinaire. des Nouveaux Éléments de
-Géométrie, imprimés en 1683, ou des Éléments du P. Tarquet,
-jésuite, imprimés à Anvers en 1665. A l’égard des sections
-coniques, des lieux géométriques et de leur usage pour la résolution des problêmes, il faut se servir des traités que M. le
-marquis de l’Hôpital en a composés, et qu’il va donner
-incessamment au public, auxquels on peut ajouter la Géométrie
-de M. Descartes avec les commentaires de Schooten. Enfin-on
-s’appliquera au calcul différentiel et aux méthodes qu’on en tire
-pour l’intelligence des lignes courbes, ce qu’on trouvera traité à
-fond et avec beaucoup d’ordre et de netteté dans l’excellent
-ouvrage du marquis de l’Hôpital, intitulé Analyse des infiniment
-petits.
+All ordinary proofs of the existence and perfections of God, drawn from the existence and perfections of His creatures, have, it seems to me, this defect: they do not convince the mind by direct perception. All these proofs are arguments that are convincing in themselves; but being arguments, they are not convincing under the supposition of an evil genius who deceives us. They convince sufficiently that there is a power superior to us, for even this extravagant supposition establishes it; but they do not fully convince that there is a God or an infinitely perfect being. Thus, in these arguments, the conclusion is more evident than the principle.
 
-On trouvera aussi le calcul différentiel et ses usages dans la 2°
-partie du 2* volume de l’Analyse démontrée, et le calcul intégral
-avec la manière de l’appliquer aux lignes courbes, aux
-problèmes mêlés de physique et de mathématique, dans la 3°
-partie., Par la lecture de ces ouvrages, on se mettra en état de
-faire soi-même des découvertes et d’entenrlre celles qui se
-trouvent dans les Mémoires de l’Acaclémie des sciences et dans
-les ouvrages des étrangers.
+It is more evident that there is a power superior to us than it is evident that there is a world; since there is no supposition that can prevent one from demonstrating this superior power, whereas under the supposition of an evil genius who pleases himself by deceiving us, it is impossible to prove that there is a world. For one could always conceive that this evil genius would give us the sensations of things that do not exist, just as sleep and certain illnesses make us see things that never were, and even make us actually feel pain in imaginary limbs that we no longer have or never had.
 
-Lorsque l’on aura étudié avec soin et avec application ces
-sciences générales, on connaîtra avec évidence un très-grand
-nombre de vérités fécondes pour toutes les sciences exactes et
-particulières. Mais je crois devoir dire qu’il est dangereux de s’y
-arrêter trop long-temps. On doit pour ainsi dire les mépriser on
-les négliger pour étudier la physique et la morale, parce que ces
-sciences sont beaucoup plus utiles, quoiqu’elles ne soient pas si
-propres pour rendre l’esprit juste et pénétrant. Et si l’on veut
-toujours conserver l’évidence dans ses perceptions, on doit bien
-prendre garde à ne se pas laisser entêter de quelque principe qui
-ne soit pas évident, c’est-à-dire de quelque principe dont on peut
-concevoir que les Chinois ne tomberaient point d’accord après qu’ils l’auraient bien considéré.
-Ainsi pour la physique il ne faut admettre que les notions
-communes à tous les hommes, c’est-à-dire les axiomes des
-géomètres et les idées claires d’étendue, de figure, de mouvement
-et de repos, et, s’il y en a, d’autres aussi claires que celles-là. On
-dira peut-être que l’essence de la matière n’est point l’étendue,
-mais qu’importe ? Il suffit que le monde que nous concevrons
-être forme d’étendue, paraisse semblable à celui que nous
-voyons, quoiqu’il ne soit point matériel de cette manière qui n’est
-bonne à rien. dont on ne connaît rien, et de laquelle cependant on
-fait tant de bruit.
+But the proofs of the existence and perfections of God drawn from the idea we have of the infinite are proofs of direct perception. One sees that there is a God as soon as one sees the infinite; because necessary existence is enclosed within the idea of the infinite, and there is nothing but the infinite that can give us the idea we have of an infinite being. The first principle of our knowledge is that nothingness is not visible; from which it follows that if one thinks of the infinite, it must exist. One also sees that God is not a deceiver because, knowing that He is infinitely perfect and that the infinite cannot lack any perfection, one sees clearly that He does not wish to seduce us, and even that He cannot, since He can only do what He wills or what He is capable of willing. Thus, there is a God, and a true God who never deceives us, although He does not always enlighten us, and we often deceive ourselves when He does not enlighten us.
 
-Il n’est pas absolument nécessaire d’examiner s’il y a
-effectivement au-dehors des êtres qui répondent à ces idées, car
-nous ne raisonnons pas sur ces êtres, mais sur leurs idées. Nous
-devons seulement prendre garde que les raisonnements que nous
-faisons sur les propriétés des choses s’accordent avec les
-sentiments que nous en avons, c’est-à-dire que ce que nous
-pensons s’accorde parfaitement avec l’expérience, parce que
-nous tâchons dans la physique de découvrir l’ordre et la liaison
-des effets avec leurs causes, ou dans les corps, s’il y en a, ou
-dans les sentiments que nous en avons, s’ils n’existent point.
-Ce n’est pas que l’on puisse douter qu’il y ait actuellement des
-corps, lorsque l’on considère que Dieu n’est point trompeur, et
-l’ordre réglé de nos sentiments, dans les rencontres naturelles et
-dans celles qui n’arrivent que pour nous faire croire ce que nous
-ne pouvons naturellement comprendre ; mais c’est qu’il n’est pas
-nécessaire d’examiner d’abord par de grandes réflexions une
-chose dont personne ne doute, et qui ne sert pas de beaucoup à la
-connaissance de la physique considérée comme une véritable science.
-Il ne faut point aussi se mettre en peine de savoir s’il y a ou
-s’il n’y a pas dans les corps qui nous environnent quelques autres
-qualités que celles dont on a des idées claires, car nous ne
-devons raisonner que selon nos idées ; et s’il y a quelque autre
-chose dont nous n’ayons point d’idée claire, distincte et
-particulière, jamais nous n’en connaîtrons rien et jamais nous
-n’en raisonnerons juste. Peut-être qu’en raisonnant selon nos
-idées, nous raisonnerons selon la nature, et que nous
-reconnaîtrons qu’elle n’est peut-être pas aussi cachée qu’on se
-l’imagine ordinairement.
+All these truths are seen by direct perception by attentive minds, though it seems we are making arguments here to set them forth to others. One can assume them as incontestable principles upon which to reason; for having recognized that God takes no pleasure in deceiving us, we are then permitted to reason.
 
-De même que ceux qui n’ont point étudié les propriétés des
-nombres, s’imaginent souvent qu’il n’est pas possible de
-résoudre certains problèmes quoique très-simples et très-faciles ;
-ainsi ceux qui n’ont point médité sur les propriétés de l’étendue,
-des figures et des mouvements, sont extrêmement portés à croire
-et à soutenir que toutes les questions que l’on forme dans la
-physique sont inexplicables. Il ne faut point s’arrêter aux
-sentiments de ceux qui n’ont rien examiné, ou qui n”ontrien
-examiné avec l’application nécessaire. Car encore qu’il y’ait peu
-de vérités touchant les choses de la nature qui soient pleinement
-démontrées, il est certain qu’il y en a quelques-unes de générales
-dont il n’est pas possible de douter, quoiqu’il soit fort possible
-de n’y pas penser, de les ignorer et de les nier.
-Si l’on veut méditer avec ordre et avec tout le temps et toute
-l’application nécessaire, on découvrira beaucoup de ces vérités
-certaines dont je parle. Mais, afin qu’en puisse les découvrir
-avec plus de facilité, il est nécessaire de lire avec soin les
-principes de Ja philosophie de M. Descartes, sans rien recevoir de ce qu’il dit que lorsque la force et l’évidence de ses raisons
-ne nous permettront point d’en douter.
+It is evident that the certainty of faith also depends on this principle: that there is a God who is incapable of deceiving us. For the existence of a God and the infallibility of divine authority are natural knowledge and common notions to minds capable of serious attention, rather than articles of faith; though it is a particular gift of God to have a mind capable of sufficient attention to properly understand these truths, and to be willing to apply oneself to understanding them.
 
-Comme la morale est la plus nécessaire de toutes les sciences,
-il faut aussi l’étudier avec plus de soin ; car c’est principalement
-dans cette science qu’il est dangereux de suivre les opinions des
-hommes. Mais afin de ne s’y point tromper et de conserver
-l’évidence dans ses perceptions, il ne faut méditer que sur des
-principes incontestables pour tous ceux dont le cœur n’est point
-corrompu par la débauche et dont l’esprit n’est point aveuglé par
-l’orgueil ; car il n’y a point de principe de morale incontestable
-pour les esprits de chair et de sang, et qui aspirent la qualité
-d’esprit fort. Ces sortes de gens ne comprennent pas les vérités
-les plus simples, ou, s’ils les comprennent, ils les contestent
-toujours par esprit de contradiction et pour conserver leur
-réputation d’esprits forts.
+---
 
-Quelques-uns de ces principes de morale les plus généraux
-sont : que Dieu ayant fait toutes choses pour lui, il a fait notre
-esprit pour le connaître et notre cœur pour l’aimer ; qu’étant
-aussi juste et aussi puissant qu’il est, on ne peut être heureux si
-l’on ne suit ses ordres, ni malheureux si on les suit ; que notre
-nature est corrompue, que notre esprit dépend de notre corps,
-notre raison de nos sens, notre volonté de nos passions ; que nous
-sommes dans l’impuissance de faire ce que nous voyons
-clairement être de notre devoir, et que nous avons besoin d’un
-libérateur. Il y a encore plusieurs autres principes de morale,
-comme : que la retraite et la púnitence sont nécessaires pour
-diminuer notre union avec les objets sensibles, et pour augmenter
-celle que nous avons avec les biens intelligibles, les vrais biens,
-les biens de l’esprit ; qu’on ne peut goûter de plaisir violent sans en devenir esclave ; qu’il ne faut jamais rien entreprendre par
-passion ; qu’il ne faut point chercher d’établissement en cette vie,
-etc. Mais parce que ces derniers principes dépendent des
-précédents et de la connaissance de l’homme, ils ne doivent point
-passer d’abord pour incontestables. Si l’on médite sur ces
-principes avec ordre et avec autant de soin et d’application que
-la grandeur du sujet le mérite, et si l’on ne reçoit pour vrai que
-les conclusions tirées conséquemment de ces principes, on aura
-une morale certaine et qui s’accordera parfaitement avec celle de
-l’Évangile, quoiqu’elle ne soit pas si achevée ni si étendue. l’ai
-tâche de démontrer par ordre les fondements de la morale dans
-un traité particulier, maisje souhaite, et pour moi et pour les
-autres, qu’on donne un ouvrage et plus exact et plus achevé.
-Il est vrai que dans les raisonnements de morale, il n’est pas si
-facile de conserver l’évidence et l’exactitude que dans quelques
-autres sciences, et que la connaissance de l’homme est
-absolument nécessaire à ceux qui veulent pousser un peu loin
-cette science, et c’est pour cela que la plupart des hommes n’y
-réussissent pas. Ils ne veulent pas se consulter eux-mêmes pour
-reconnaître les faiblesses de leur nature. Ils se lassent
-d’interroger le Maitre qui nous enseigne intérieurement ses
-propres volontés, lesquelles sont les lois immuables et éternelles
-et les vrais principes de la morale. Ils n’écoutent point avec
-plaisir celui qui ne parle point à leurs sens, qui ne répond point
-selon leurs désirs, qui ne flatte point leur orgueil secret ; ils n’ont
-aucun respect pour des paroles qui ne frappent point
-l’imagination par leur éclat, qui se prononcent sans bruit, et que
-l’on n’entend jamais clairement que dans le silence des créatures.
-Mais ils consultent avec plaisir et avec respect Aristote,
-Sénèque, ou quelques nouveaux philosophes qui les séduisent ou par obscurité de leurs paroles, ou par le tour de leurs
-expressions, ou par la vraisemblance de leurs raisons.
+## The Order of Studies: Mathematics first
 
-Depuis le péché du premier homme nous n’estimons que ce qui
-a rapport à la conservation du corps et à la commodité de la vie,
-et parce que nous découvrons ces sortes de biens par le moyen
-des sens, nous en voulons faire usage en toutes rencontres. La
-sagesse éternelle qui est notre véritable vie, et*la seule lumière
-qui puisse nous éclairer, ne luit souvent qu’à des aveugles et ne
-parle souvent qu’à des sourds lorsqu’elle ne parle que dans le
-secret de la raison, car nous sommes presque toujours répandus
-au dehors. Comme nous interrogeons sans cesse toutes les
-créatures pour apprendre quelque nouvelle du bien que nous
-cherchons, il fallait, comme j’ai déjà dit ailleurs, que cette
-sagesse se présentât devant nous, sans toutefois sortir hors de
-nous, afin de nous apprendre, par des paroles sensibles et par des
-exemples convaincants, le chemin pour arriver à la vraie félicité.
-Dieu imprime sans cesse en nous un amour naturel pour lui, afin
-que nous l’aimions sans cesse ; et par ce même mouvement
-d’amour, nous nous éloignons sans cesse de lui en courant de
-toutes les forces qu’il nous donne vers les biens sensibles qu’il
-nous défend. Ainsi, voulant être aimé de nous, il fallait qu’il se
-rendît sensible et se présentåt devant nous. pour arrêter, par la
-douceur de sa grâce, toutes nos vaines agitations, et pour
-commencer notre guérison par des sentiments ou des délectations
-semblables aux plaisirs prévenants qui avaient commencé notre
-maladie.
+From this principle, that God is not a deceiver, one could also conclude that we actually have a body to which we are united in a particular way, and that we are surrounded by several others. For we are internally convinced of their existence by continual sensations that God produces in us, and which we cannot correct by reason without wounding faith; though we can correct by reason the sensations that represent them to us with certain qualities and perfections they do not possess. So we must not believe they are such as we see them, or as we imagine them, but only that they exist and that they are such as we conceive them by reason.
 
-Ainsi, je ne prétends pas que les hommes puissent facilement
-découvrir par la force de leur esprit toutes les règles de la
-morale qui sont nécessaires au salut, et encore moins qu’ils puissent agir selon leur lumière, car leur cœur est encore plus
-corrompu que leur esprit. Je dis seulement que s’ils n’admettent
-que des principes évidents, et que s’ils raisonnent
-conséquemment sur ces principes, ils découvriront les mêmes
-vérités que nous apprenons dans l’Évangile ; par ce que c’est la
-même sagesse qui parle immédiatement par elle-même à ceux qui
-découvrent la vérité dans l’évidence des raisonnements, et qui
-parle par les saintes écritures à ceux qui en prennent bien le sens.
-Il faut donc étudier la morale dans l’Évangile pour s’épargner
-le travail de la méditation, et pour apprendre avec certitude les
-lois selon lesquelles nous devons régler nos mœurs. Pour ceux
-qui ne se contentent point de la certitude, à cause qu’elle ne fait
-que convaincre l’esprit sans l’éclairer, ils doivent méditer avec
-soin sur ces lois, et les déduire de leurs principes naturels. afin
-de connaître par la raison avec évidence ce qu’ils savaient déjà
-par la foi avec une entière certitude. C’est ainsi qu’ils se
-convaincront que l’Évangile est le plus solide de tous les livres,
-que Jésus-Christ connaissait parfaitement la maladie et le
-désordre de la nature, qu’il y a remédié de la manière la plus
-utile pour nous, et la plus digne de lui qui se puisse concevoir ;
-mais que les lumières des philosophes ne sont que d’épaisses
-ténèbres ; que leurs vertus les plus èclatantes ne sont qu’un
-orgueil insupportable ; en un mot, qu’Aristote, Sénèque et les
-autres ne sont que des hommes, pour ne rien dire davantage.
+But, in order to reason methodically, we must not yet examine whether we have a body and whether there are others around us, or whether we have only the sensations of them though these bodies do not exist. This question contains too many great difficulties, and it is perhaps not so necessary to resolve it to perfect one's knowledge as one might imagine, nor even to have an exact knowledge of physics, morals, and several other sciences.
 
+We have within us the ideas of numbers and of extension, whose existence is incontestable and whose nature is immutable, which would eternally furnish us with matter for thought if we wished to know all their relations. And it is necessary that we begin to employ our mind upon these ideas for reasons that it will not be useless to set forth. There are three principal ones:
+
+* **First:** These ideas are the clearest and most evident of all. For if, to avoid error, one must always maintain evidence in one's reasonings, it is clear that one should reason upon the ideas of numbers and extension rather than upon the confused or composite ideas of physics, morals, mechanics, chemistry, and all the other sciences.
+* **Second:** These ideas are the most distinct and exact of all, especially those of numbers. So that the habit one acquires in arithmetic and geometry of not being satisfied until one precisely knows the relations of things gives the mind a certain exactness that those who content themselves with probabilities (with which other sciences are filled) do not possess.
+* **Third and Main Reason:** These ideas are the immutable rules and common measures of all other things we know and can know. Those who perfectly know the relations of numbers and figures, or rather the art of making the necessary comparisons to know their relations, possess a kind of universal science and a very certain means to discover with evidence and certainty everything that does not exceed the ordinary limits of the mind. But those who do not possess this art cannot discover with certainty truths that are somewhat composite, even though they may have very clear ideas of the things whose composite relations they try to know.
+
+It is these reasons or similar ones that led some ancients to have young people study arithmetic, algebra, and geometry. Apparently, they knew that arithmetic and algebra give breadth to the mind and a certain penetration that cannot be acquired by other studies, and that geometry regulates the imagination so well that it does not easily become confused; for this faculty of the soul, so necessary for the sciences, acquires through the use of geometry a certain scope of accuracy that pushes and preserves the clear view of the mind even into the most entangled difficulties.
+
+### Recommended Reading for the Sciences
+
+If one wishes, therefore, to always preserve evidence in one's perceptions, and to discover pure truth unmixed with any obscurity or error, one must first study arithmetic, algebra, and geometry, after having acquired at least some knowledge of oneself and of the Sovereign Being.
+
+And if one wishes to have some books that facilitate these sciences:
+
+* Just as one ought to have used the *Meditations* of **M. Descartes** for the knowledge of God and oneself;
+* To learn arithmetic and algebra, one may use the *Éléments des Mathématiques* by **P. Prestet**, priest of the Oratory;
+* For ordinary geometry, the *Nouveaux Éléments de Géométrie*, printed in 1683, or the *Elements* of **P. Pardies** [translated text says Tarquet, likely referring to Tacquet or Pardies], Jesuit, printed in Antwerp in 1665.
+* With regard to conic sections, geometric loci, and their use for resolving problems, one must use the treatises that **M. le marquis de l’Hôpital** has composed of them, and which he is about to give immediately to the public, to which one can add the *Geometry* of **M. Descartes** with the commentaries of **Schooten**.
+* Finally, one will apply oneself to the differential calculus and the methods drawn from it for the understanding of curved lines, which will be found treated thoroughly and with much order and clarity in the excellent work of the marquis de l’Hôpital, entitled *Analyse des infiniment petits*.
+* One will also find the differential calculus and its uses in the 2nd part of the 2nd volume of the *Analyse démontrée*, and the integral calculus, along with the manner of applying it to curved lines and to mixed problems of physics and mathematics, in the 3rd part. By reading these works, one will put oneself in a position to make discoveries oneself and to understand those found in the *Mémoires de l’Académie des sciences* and in the works of foreigners.
+
+---
+
+## Moving to Physics and Morals
+
+When one has studied these general sciences with care and application, one will know with evidence a very great number of truths fruitful for all exact and particular sciences. But I believe I must say that it is dangerous to dwell on them too long. One must, so to speak, despise or neglect them to study physics and morals, because these sciences are much more useful, though they are not so well suited to make the mind accurate and penetrating. And if one wishes always to preserve evidence in one's perceptions, one must take great care not to let oneself be infatuated with some principle that is not evident—that is to say, some principle of which one can conceive that the Chinese would not agree to after they had well considered it.
+
+### Principles of Physics
+
+Thus, for physics, one must admit only notions common to all men: that is, the axioms of geometers and the clear ideas of extension, figure, motion, and rest, and, if there are any, others as clear as these. It will perhaps be said that the essence of matter is not extension, but what does it matter? It is enough that the world we conceive to be formed of extension appears similar to the one we see, even if it were not material in that manner which is good for nothing, of which nothing is known, and about which, nevertheless, people make so much noise.
+
+It is not absolutely necessary to examine whether there are actually outside us beings that correspond to these ideas, for we do not reason about these beings, but about their ideas. We must only take care that the reasonings we make about the properties of things agree with the sensations we have of them—that is, that what we think agrees perfectly with experience. This is because in physics we try to discover the order and connection of effects with their causes, either in bodies, if there are any, or in the sensations we have of them, if they do not exist.
+
+It is not that one can doubt that there are actually bodies, when one considers that God is not a deceiver, and the regular order of our sensations in natural encounters... but it is that it is not necessary to examine first through great reflections a thing of which no one doubts, and which does not serve much for the knowledge of physics considered as a true science.
+
+One must also not trouble oneself to know whether there are or are not in the bodies around us some other qualities than those of which we have clear ideas, for we must reason only according to our ideas; and if there is something else of which we have no clear, distinct, and particular idea, we shall never know anything of it and we shall never reason justly about it. Perhaps by reasoning according to our ideas, we shall reason according to nature, and we shall recognize that it is perhaps not as hidden as is ordinarily imagined.
+
+Just as those who have not studied the properties of numbers often imagine that it is not possible to resolve certain problems, though they are very simple and easy; so those who have not meditated on the properties of extension, figures, and motions are extremely inclined to believe and maintain that all questions raised in physics are inexplicable. One must not stop at the opinions of those who have examined nothing, or who have examined nothing with the necessary application. For although there are few truths concerning the things of nature that are fully demonstrated, it is certain that there are some general ones of which it is not possible to doubt, though it is quite possible not to think of them, to be ignorant of them, and to deny them.
+
+If one wishes to meditate methodically and with all the necessary time and application, one will discover many of these certain truths of which I speak. But, so that one may discover them with greater facility, it is necessary to read with care the principles of the philosophy of **M. Descartes**, without receiving anything of what he says except when the force and evidence of his reasons do not allow us to doubt it.
+
+### Principles of Morals
+
+As morals is the most necessary of all sciences, it must also be studied with greater care; for it is principally in this science that it is dangerous to follow the opinions of men. But in order not to be mistaken and to preserve evidence in one's perceptions, one must meditate only on principles that are incontestable to all those whose hearts are not corrupted by debauchery and whose minds are not blinded by pride; for there is no principle of morals incontestable to minds of flesh and blood, and who aspire to the quality of a "free-thinker" (*esprit fort*). These kinds of people do not understand the simplest truths, or, if they do understand them, they always contest them out of a spirit of contradiction and to preserve their reputation as free-thinkers.
+
+Some of these most general principles of morals are:
+
+* That God having made all things for Himself, He made our mind to know Him and our heart to love Him;
+* That being as just and as powerful as He is, one cannot be happy if one does not follow His orders, nor unhappy if one follows them;
+* That our nature is corrupted, that our mind depends on our body, our reason on our senses, our will on our passions;
+* That we are powerless to do what we clearly see to be our duty, and that we need a deliverer.
+
+There are still several other principles of morals, such as: that retirement and penitence are necessary to diminish our union with sensible objects, and to increase that which we have with intelligible goods, the true goods, the goods of the mind; that one cannot taste violent pleasure without becoming its slave; that one must never undertake anything through passion; that one must not seek an establishment in this life, etc. But because these latter principles depend on the preceding ones and on the knowledge of man, they must not pass at first as incontestable. If one meditates on these principles methodically and with as much care and application as the grandeur of the subject deserves, and if one receives as true only the conclusions drawn consistently from these principles, one will have a certain morality that will agree perfectly with that of the Gospel, though it may not be so finished or so extensive. I have tried to demonstrate methodically the foundations of morals in a particular treatise, but I wish, both for myself and for others, that a more exact and finished work be given.
+
+It is true that in moral reasonings, it is not so easy to preserve evidence and exactness as in some other sciences, and that the knowledge of man is absolutely necessary to those who wish to push this science somewhat far, and it is for this reason that most men do not succeed in it. They do not wish to consult themselves to recognize the weaknesses of their nature. They tire of questioning the Master who teaches us internally His own wills, which are the immutable and eternal laws and the true principles of morals. They do not listen with pleasure to Him who does not speak to their senses, who does not answer according to their desires, who does not flatter their secret pride; they have no respect for words that do not strike the imagination by their brilliance, which are pronounced without noise, and which are never clearly heard except in the silence of creatures. But they consult with pleasure and respect Aristotle, Seneca, or some new philosophers who seduce them either by the obscurity of their words, or by the turn of their expressions, or by the probability of their reasons.
+
+---
+
+## Conclusion: The Fall of Man and the Gospel
+
+Since the sin of the first man, we esteem only what relates to the preservation of the body and the convenience of life, and because we discover these kinds of goods by means of the senses, we wish to make use of them on all occasions. Eternal wisdom, which is our true life, and the only light that can enlighten us, often shines only to the blind and often speaks only to the deaf when it speaks only in the secret of reason, for we are almost always poured out outwardly. As we incessantly question all creatures to learn some news of the good we seek, it was necessary, as I have already said elsewhere, that this wisdom should present itself before us, without however going out of us, in order to teach us, by sensible words and convincing examples, the way to arrive at true happiness. God incessantly imprints in us a natural love for Him, so that we may love Him incessantly; and by this same movement of love, we incessantly move away from Him by running with all the strength He gives us toward the sensible goods He forbids us. Thus, wishing to be loved by us, it was necessary that He should make Himself sensible and present Himself before us, to stop, by the sweetness of His grace, all our vain agitations, and to begin our healing by sensations or delectations similar to the preemptive pleasures that had begun our illness.
+
+Thus, I do not pretend that men can easily discover by the strength of their mind all the rules of morals that are necessary for salvation, and still less that they can act according to their light, for their heart is even more corrupted than their mind. I say only that if they admit only evident principles, and if they reason consistently on these principles, they will discover the same truths that we learn in the Gospel; because it is the same wisdom that speaks immediately by itself to those who discover truth in the evidence of reasonings, and which speaks through the holy scriptures to those who take its meaning well.
+
+One must therefore study morals in the Gospel to spare oneself the labor of meditation, and to learn with certainty the laws according to which we must regulate our morals. For those who are not content with certainty, because it only convinces the mind without enlightening it, they must meditate with care on these laws, and deduce them from their natural principles, so as to know by reason with evidence what they already knew by faith with an entire certainty. It is thus that they will convince themselves that the Gospel is the most solid of all books, that Jesus Christ perfectly knew the illness and disorder of nature, that He remedied it in the manner most useful for us, and the most worthy of Him that can be conceived; but that the lights of philosophers are but thick darkness; that their most brilliant virtues are but an insupportable pride; in a word, that Aristotle, Seneca, and the others are but men, to say nothing more.

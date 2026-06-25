@@ -1,6 +1,15 @@
+---
+heading: Chapter 4
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE IV.
+
 Continuation du même sujet. — I. Explication de la seconde règle de la curiosité. — II.
 Explication de la troisième.
 

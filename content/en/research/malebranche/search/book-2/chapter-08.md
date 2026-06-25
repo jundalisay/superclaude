@@ -1,11 +1,17 @@
+---
+heading: Chapter 8
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE VIII.
 
 I. Changements qui arrivent à l’imagination d’un enfant qui sort du sein de sa mère, par
-la conversation qu’il a avec sa nourrice, sa mère, et d’autres personnes. — II.
-225
-Avis pour les bien élever.
+la conversation qu’il a avec sa nourrice, sa mère, et d’autres personnes. — II. Avis pour les bien élever.
 
 Dans le chapitre précédent, nous avons considéré le cerveau
 d’un enfant dans le sein de sa mère ; examinons maintenant ce qui

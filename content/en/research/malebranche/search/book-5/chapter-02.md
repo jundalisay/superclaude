@@ -1,314 +1,51 @@
+---
+heading: Chapter 2
+title: "The union of the mind with sensible objects, or on the force and extent of the passions in general"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE II.
-De l’union de l’esprit avec les objets sensibles, ou de la force et
-de l’étendue des passions en général.
 
-Si tous ceux qui lisent cet ouvrage voulaient prendre la peine
-de faire quelques réflexions sur ce qu’ils sentent dans euxmêmes, il ne serait pas nécessaire de s’arrêter ici à faire voir la
-dépendance où nous sommes de tous les objets sensibles. Je ne
-puis rien dire sur cette matière que tout le monde ne sache aussi
-bien que moi, pourvu qu’on y veuille penser. C’est pourquoi
-j’aurais grand’envie de n’en rien dire. Mais parce que
-l’expérience m’apprend que les hommes s’oublient souvent si
-fort eux-mêmes, qu’ils ne pensent pas seulement à ce qu’íls
-sentent, et qu’ils ne recherchent point les raisons de ce qui se
-passe dans leur esprit, je crois que je dois dire ici certaines
-choses qui peuvent les aider à y faire réflexion. J’espère même
-que ceux qui savent ces choses ne seront pas fâchés de les lire,
-car encore qu’on ne prenne point de plaisir a entendre parler
-simplement de ce que l’on sait, on prend toujours quelque plaisir
-d’entendre parler de ce que l’on sait et de ce que l’on sent tout
-ensemble.
+If all those who read this work were willing to take the trouble to reflect a little on what they feel within themselves, it would not be necessary to pause here to show the dependence we have on all sensible objects. I can say nothing on this subject that everyone does not know as well as I, provided they are willing to think about it. That is why I would very much like to say nothing about it. But because experience teaches me that men often forget themselves so much that they do not even think about what they feel, and do not seek the reasons for what takes place in their minds, I believe I ought to say here certain things that may help them to reflect upon it. I even hope that those who know these things will not be displeased to read them, for although one takes no pleasure in simply hearing about what one knows, one always takes some pleasure in hearing about what one knows and what one feels at the same time.
 
-La secte la plus honorable des philosophes et celle dont bien
-des gens font encore gloire d'embrasser les sentiments, nous veut
-faire croire qu’il ne tient qu’il nous d’être heureux. Les stoïciens
-nous disent sans cesse que nous ne devons dépendre que de nous
-mêmes ; qu’il ne faut point s’affliger de la perte de son honneur,
-de ses biens, de ses amis, de ses parents ; qu’il faut toujours être
-égal et sans la moindre inquiétude, quoi qu’il puisse arriver ; que
-l’exil, les injures, les insultes, les maladies et la mort même ne
-sont point des maux, et qu’il ne faut point les craindre ou les
-fuir
+The most honorable sect of philosophers, and the one whose sentiments many people still pride themselves on embracing, wants to make us believe that it is up to us to be happy. The Stoics continually tell us that we should depend only on ourselves; that we must not grieve over the loss of our honor, our goods, our friends, our relatives; that we must always be even-tempered and without the least anxiety, whatever may happen; that exile, insults, outrages, illnesses, and even death are not evils, and that we must neither fear nor flee them. In short, they tell us an infinite number of similar things, which we are quite inclined to believe, both because our pride makes us love independence, and because reason indeed teaches us that most of the evils that truly afflict us would not be capable of afflicting us if all things were in order.
 
-[3] Enfin ils nous disent une infinité de choses semblables que
-nous sommes assez portés à croire, tant à cause que notre orgueil nous fait aimer l'indépendance, que parce que la raison nous
-apprend en effet que la plupart des maux qui nous affligent
-véritablement ne seraient pas capables de nous affliger, si toutes
-choses étaient dans l’ordre.
+But God has given us a body, and through this body He has united us to all sensible things. Sin has subjected us to this body, and through our body it has made us dependent on all sensible things. It is the order of nature, it is the will of the Creator, that all the beings He has made should hold together. We are united in some way to the whole universe, and it is the sin of the first man that has made us dependent on all the beings to which God had merely united us. Thus, there is no one now who is not in some way united and at the same time subjected to his body, and through his body to his parents, his friends, his city, his prince, his country, his clothing, his house, his land, his horse, his dog, to the whole earth, to the sun, to the stars, to all the heavens.
 
-Mais Dieu nous a donné un corps, et par ce corps il nous a unis
-à toutes les choses sensibles. Le péché nous a assujettis à ce
-corps, et par notre corps il nous a rendus dépendants de toutes les
-choses sensibles. C’est l’ordre de la nature, c’est la volonté du
-Créateur, que tous les êtres qu’il a faits tiennent les uns aux
-autres. Nous sommes unis en quelque manière à tout l’univers, et
-c’est le péché du premier homme qui nous a rendus dépendants
-de tous les êtres auxquels Dieu nous avait seulement unis. Ainsi,
-il n’y a personne présentement qui ne soit en quelque manière uni
-et assujetti tout ensemble à son corps, et par son corps à ses
-parents, à ses amis, à sa ville, à son prince, à sa patrie, à son
-habit, à sa maison, à sa terre, à son cheval, à son chien, à toute la
-terre, au soleil, aux étoiles, à tous les cieux.
+It is therefore ridiculous to tell men that it depends on them to be happy, to be wise, to be free; and it is to mock them to seriously warn them not to grieve over the loss of their friends or their goods. For just as it is ridiculous to warn men not to feel pain when they are struck, or not to feel pleasure when they eat with appetite, so the Stoics are not right, or perhaps they are mocking us, when they preach to us not to be afflicted by the death of a father, the loss of our goods, exile, imprisonment, and similar things, and not to rejoice in the happy outcomes of our affairs; for we are united to our country, to our goods, to our parents, etc., by a natural union which at present does not depend on our will.
 
+I readily grant that reason teaches us that we should suffer exile without sadness, but the same reason teaches us that we should also suffer having an arm cut off without pain. The soul is above the body, and according to the light of reason, its happiness or unhappiness should not depend on the body. But experience proves to us enough that things are not as our reason tells us they should be, and it is ridiculous to philosophize against experience.
 
-Il est donc ridicule de dire aux hommes qu’il dépend d’eux
-d’être heureux. d’être sages, d’être libres ; et c’est se moquer
-d’eux que de les avertir sérieusement de ne point s’affliger de la
-perte de leurs amis ou de leurs biens. Car de même qu’il est
-ridicule d’avertir les hommes de ne point sentir de douleur
-lorsqu’on les frappe, ou de ne point sentir de plaisir lorsqu’ils
-mangent avec appétit, ainsi les stoïciens n’ont pas raison, ou
-peut-être se raillent ils de nous, lorsqu’ils nous prêchent de
-n’être point affligés de la mort d’un père, de la perte de nos
-biens, d’un exil, d’une prison et de choses semblables, et de ne
-point nous réjouir dans les heureux succès de nos affaires ; car
-nous sommes unis à notre patrie, à nos biens, à nos parents, etc.,
-593
-par une union naturelle et qui présentement ne dépend point de
-notre volonté.
+This is not how Christians philosophize. They do not deny that pain is an evil, that there is distress in the separation of things to which we are united by nature, and that it is difficult to free oneself from the slavery to which sin has reduced us. They agree that it is a disorder for the soul to depend on its body; but they recognize that it does depend on it, and in such a way that it cannot free itself from its dependence except by the grace of JESUS CHRIST: *"I feel,"* says Saint Paul, *"a law in my body that fights against the law of my mind, and that makes me captive to the law of sin that is in my members. Wretched man that I am, who will deliver me from this body of death? It will be the grace of God, through Jesus Christ our Lord."* The Son of God, His apostles, and all His true disciples especially recommend patience, because they know that when one wants to live as a good man, there is much to suffer. In short, true Christians or true philosophers say nothing that is not in accordance with common sense and experience; but all of nature constantly resists the opinion or the pride of the Stoics.
 
+Christians know that to free themselves in some way from the dependence in which they find themselves, they must work to deprive themselves of all those things which they cannot enjoy without pleasure nor be deprived of without pain; that this is the only way to preserve the peace and freedom of the mind that they have received through the grace of their liberator. The Stoics, on the contrary, following the false ideas of their chimerical philosophy, imagine themselves to be wise and happy, and that one only has to think about virtue and independence in order to become virtuous and independent. Common sense and experience assure us that the best way not to be wounded by the pain of a sting is not to prick oneself. But the Stoics say: "Prick me, and I, by the force of my mind and with the help of my philosophy, will separate myself from my body in such a way that I will not trouble myself over what goes on in it. I have demonstrative proofs that my happiness does not depend on it, that pain is not an evil; and you will see, by the look on my face and the firm bearing of the rest of my body, that my philosophy renders me invulnerable."
 
-Je veux bien que la raison nous apprenne que nous devons
-souffrir l’exil sans tristesse, mais la même raison nous apprend
-que nous devons aussi souffrir qu'on nous coupe un bras sans
-douleur. L’âme est au-dessus du corps, et, selon la lumière de la
-raison, son bonheur ou son malheur ne doivent point dépendre de
-lui. Mais l’expérience nous prouve assez que les choses ne sont
-point comme notre raison nous dit qu’elles doivent être, et il est
-ridicule de philosopher contre l’expérience.
-Ce n’est pas ainsi que les chrétiens philosophent. Ils ne nient
-pas que la douleur soit un mal, qu’il n'y ait de la peine dans la
-désunion des choses auxquelles nous sommes unis par la nature,
-et qu’il ne soit difficile de se délivrer de l’esclavage où le péché
-nous a réduits. Ils tombent d’accord que c’est un désordre que
-l’âme dépende de son corps ; mais ils reconnaissent qu’elle en
-dépend, et de telle manière, qu’elle ne se peut délivrer de sa
-dépendance que par la grâce de JÉSUS-CHRIST : Je sens, dit saint
-Paul, une loi dans mon corps qui combat contre la loi de mon
-esprit, et qui me rend esclave de la loi du péché qui est dans
-mes membres. Malheureux que je suis, qui me délivrera de ce
-corps de mort ? ce sera la grâce de Dieu, par Jésus-Christ
-notre Seigneur. Le fils de Dieu, ses apôtres et tous ses véritables
-disciples recommandent surtout la patience, parce qu’ils savent
-que quand on veut vivre en homme de bien, il y a beaucoup à
-souffrir. Enfin les vrais chrétiens ou les véritables philosophes ne
-disent rien qui ne soit conforme au bon sens, à l’expérience ;
-mais toute la nature résiste sans cesse à l’opinion ou à l’orgueil
-des stoïques.
+Their pride sustains their courage, but it does not prevent them from actually suffering pain with anxiety and from being miserable. Thus, the union they have with their body is not destroyed, nor their pain dispelled; but it is that the union they have with other men, strengthened by the desire for their esteem, in some way resists that other union they have with their own body. The visible sight of those who watch them, and to whom they are united, arrests the course of the spirits that accompany the pain, and erases from their face the expression it imprinted there; for if no one were watching them, that air of firmness and freedom of mind would immediately vanish. Thus the Stoics in some way resist the union they have with their body only by making themselves more slaves to the other men to whom they are united by the passion for glory. It is therefore a constant truth that all men by nature are united to all sensible things, and that through sin they are dependent on them. This is sufficiently recognized by experience, although reason seems to oppose it, and almost all the actions of men are sensible and demonstrative proofs of it.
 
-Les chrétiens savent que pour se délivrer en quelque manière
-de la dépendance où ils sont, ils doivent travailler à se priver de
-toutes les choses dont ils ne peuvent jouir sans plaisir ni être
-privés sans douleur ; que c’est là le seul moyen de conserver la
-paix et la liberté de l’esprit qu’ils ont reçues par la grâce de leur
-libérateur. Les stoïciens, au contraire, suivant les fausses idées
-de leur philosophie chimérique, s’imaginent d’être sages et
-heureux, et qu’il n’y a qu’à penser à la vertu et à l’indépendance
-pour devenir vertueux et indépendants. Le bon sens et
-l’expérience nous assurent. que le meilleur moyen pour n’être
-point blessés par la douleur d’une piqûre, c’est qu’il ne faut point
-se piquer. Mais les stoïciens disent « Piquez, et je vais, par la
-force ne mon esprit et par le secours de ma philosophie, me
-séparer de mon corps, de telle sorte que je ne m’inquiéterai point
-de ce qui s’y passe. J’ai des preuves démonstratives que mon
-bonheur n’en dépend point, que la douleur n’est point un mal ; et
-vous verrez, par l’air de mon visage et par la contenance ferme
-de tout le reste de mon corps, que ma philosophie me rend
-invulnérable.
+This union, which is general in all men, is not of equal extent or equal force in all men. For as it follows the knowledge of the mind, one can say that one is not actually united to objects one does not know. A peasant in his cottage does not take part in the glory of his prince and his country, but only in the glory of his village and those around it, because his knowledge extends only that far.
 
-Leur orgueil leur soutient le courage, mais il n’empêche pas
-qu’ils ne souffrent effectivement la douleur avec inquiétude et
-qu’ils ne soient misérables. Ainsi l’union qu’ils ont avec leur
-corps n’est point détruite ni leur douleur dissipée ; mais c’est que
-l’union qn’ils ont avec les autres hommes, fortifiée par le désir
-de leur estime, résiste en quelque sorte à cette autre union qu’ils
-ont avec leur propre corps. La vue sensible de ceux qui les
-regardent, et auxquels ils sont unis, arrête le cours des esprits qui
-accompagne la douleur, et efface sur leur visage l’air qu’elle y
-imprimait ; car, si personne ne les regardait, cet air de fermeté et
-de liberté d’esprit s’évanouirait incontinent. Ainsi les stoïciens ne résistent en quelque façon à l’union qu’ils ont avec leur corps
-qu’en se rendant davantage esclaves des autres hommes auxquels
-ils sont unis par la passion de la gloire. C’est donc une vérité
-constante que tous les hommes par la nature sont unis à toutes les
-choses sensibles, et que par le péché ils en sont dépendants. On
-le reconnaît assez par expérience, quoique la raison semble s’y
-opposer, et presque toutes les actions des hommes en sont des
-preuves sensibles et démonstratives.
+The union of the soul to sensible objects that one has seen and experienced is stronger than the union to those one has only imagined and only heard spoken of. It is through sensation that we unite more closely to sensible things; for sensation produces much greater traces in the brain and excites a much more violent movement of the spirits than mere imagination.
 
-Cette union qui est généralement dans tous les hommes, n’est
-pas d’une égale étendue ni d’une égale force dans tous les
-hommes. Car comme elle suit la connaissance de l’esprit, on peut
-dire que l’on n’est pas actuellement uni aux objets que l’on ne
-connaît pas. Un paysan dans sa chaumine ne prend point de part à
-la gloire de son prince et de sa patrie, mais seulement à la gloire
-de son village et de ceux d’alentour, parce que sa connaissance
-ne s’étend que jusque-là.
+This union is not so strong in those who constantly combat it in order to attach themselves to the goods of the mind, as in others who follow the movements of their passions and allow themselves to be subjected to them, for concupiscence increases and strengthens it.
 
-L’union de l’âme aux objets sensibles que l’on a vus et que
-l’on a goûtés est plus forte que l’uuion à ceux que l’on a
-seulement imagines et dont on a seulement ouï parler. C’est par le
-sentiment que nous nous unissons plus étroitement aux choses
-sensibles, rar le sentiment produit de bien plus grandes traces
-dans le cerveau et excite un mouvement d’esprit bien plus violent
-que la seule imagination.
+Finally, different occupations, different conditions, as well as different dispositions of mind, make a considerable difference in the sensible union that men have to the goods of the earth. The great are attached to many more things than others; their slavery has more extent. A general of an army is attached to all his soldiers, because all his soldiers look up to him. It is often this slavery that produces his generosity, and the desire to be esteemed by all those to whom he is in view often obliges him to sacrifice other more sensible or more reasonable desires. It is the same with superiors and those who are in some consideration in the world. It is often vanity that animates their virtue, because the love of glory is ordinarily stronger than the love of truth and justice. I speak here of the love of glory not as a simple inclination, but as a passion, because in fact this love can be sensible and is often accompanied by emotions of the spirits that are quite lively and violent enough.
 
-Cette union n’est pas si forte dans ceux qui la combattent sans
-cesse pour s’attacher aux biens de l’esprit, que dans les autres
-qui suivent les mouvements de leurs passions et qui s’y laissent
-assujettir, car la cupidité l’augmente et la fortifie.
-Enfin les différents emplois, les différentes conditions, aussi
-bien que les différences dispositions d’esprit, mettent une différence considérable dans l’union sensible qu’ont les hommes
-aux biens de la terre. Les grands tiennent à bien plus de choses
-que les autres, leur esclavage a plus d’étendue. Un général
-d’armée tient à tous ses soldats, parce que tous ses soldats le
-considèrent. C’est souvent cet esclavage qui fait sa générosité, et
-le désir d’être estimé de tous ceux à qui il est en vue l’oblige
-souvent à sacrifier d’autres désirs plus sensibles ou plus
-raisonnables. Il en est de même des supérieurs et de ceux qui sont
-en quelque considération dans le monde. C’est souvent la vanité
-qui anime leur vertu, parce que l’amour de la gloire est
-d’ordinaire plus fort que l’amour de la vérité et de la justice. Je
-parle ici de l’amour de la gloire non comme d’une simple
-inclination, mais comme d’une passion, parce qu’en effet cet
-amour peut être sensible et qu’il est souvent accompagné
-d’émotions d’esprit assez vives et assez violentes.
-Les différents âges et les différents sexes sont encore des
-causes principales de la différence des passions des hommes.
-Les enfants n’aiment pas les mêmes choses que les hommes faits
-et que les vieillards, ou ils ne les aiment pas avec tant de force et
-de constance. Les femmes ne tiennent souvent qu’à leur famille et
-à leur voisinage ; mais les hommes tiennent à toute leur patrie,
-c’est à eux à la défendre ; ils aiment les grandes charges, les
-honneurs, le commandement.
+Different ages and different sexes are also principal causes of the difference in men's passions. Children do not love the same things as grown men and old men, or they do not love them with as much force and constancy. Women are often attached only to their family and their neighborhood; but men are attached to their whole country; it is for them to defend it; they love high offices, honors, command.
 
-Il y à une si grande variété dans les emplois et dans les
-engagements où les hommes se trouvent, qu’il est impossible de
-l’expliquer. La disposition de l’esprit d’un homme marié n’est
-pas la même que celle d’un homme qui ne l’est pas. La pensée de
-sa famille l’occupe souvent presque tout entier. Les religieux
-n’ont pas l’esprit ni le cœur tourné comme les hommes du monde, ni même comme les ecclésiastiques ; ils sont unis à moins de
-choses, mais ils y sont naturellement plus fortement attachés. On
-peut ainsi parler en général des différents états où les hommes se
-trouvent, mais on ne peut expliquer en détail les petits
-engagements qui sont presque tous différents en chaque personne
-en particulier : car il arrive assez souvent que les hommes ont
-des engagements particuliers entièrement opposés à ceux qu’ils
-devraient avoir par rapport à leur condition. Mais quoique l’on
-puisse exprimer en général les différents caractères d’esprit et
-les différentes inclinations des hommes et des femmes, des
-vieillards et des jeunes gens, des riches et des pauvres, des
-savants et des ignorants, enfin des différents sexes, des différents
-âges et des différents emplois, cependant ces choses sont trop
-connues de tous ceux qui vivent parmi le monde et qui pensent à
-ce qu’ils y voient, pour en grossir ce livre. Il ne faut qu’ouvrir
-les yeux pour s’instruire agréablement et solidement de ces
-choses. Pour ceux qui aiment mieux les lire en grec que de les
-apprendre par quelque réflexion sur ce qui se passe devant leurs
-yeux, ils peuvent lire le second livre de la rhétorique d’Aristote.
-C’est, je crois, le meilleur ouvrage de ce philosophe, parce qu’il
-y dit peu de choses dans lesquelles on se puisse tromper, et qu’il
-se hasarde rarement de prouver ce qu’il y avance.
+There is such a great variety in the occupations and engagements in which men find themselves that it is impossible to explain it. The disposition of the mind of a married man is not the same as that of a man who is not married. The thought of his family often occupies him almost entirely. Religious persons do not have their minds and hearts turned in the same way as men of the world, nor even as ecclesiastics; they are united to fewer things, but they are naturally more strongly attached to them. One can thus speak in general of the different states in which men find themselves, but one cannot explain in detail the small engagements that are almost all different in each particular person: for it happens quite often that men have particular engagements entirely opposed to those they ought to have in relation to their condition. But although one can express in general the different characters of mind and the different inclinations of men and women, of old people and young people, of rich and poor, of learned and ignorant, finally of different sexes, different ages and different occupations, nevertheless these things are too well known to all those who live in the world and who think about what they see there, for me to swell this book with them. One only needs to open one's eyes to learn these things agreeably and solidly. For those who prefer to read them in Greek rather than learn them by some reflection on what takes place before their eyes, they can read the second book of Aristotle's *Rhetoric*. This is, I believe, the best work of that philosopher, because he says few things in it in which one can be mistaken, and he rarely ventures to prove what he advances in it.
 
+It is therefore evident that this sensible union of men's minds to everything that has some relation to the preservation of their life or of the society of which they consider themselves parts, is different in different persons, since it is more extensive in those who have more knowledge, who are of higher condition, who have greater occupations and who have a more spacious imagination; and that it is narrower and stronger in those who are more sensitive, who have a livelier imagination, and who follow more blindly the movements of their passions.
 
-Il est donc évident que cette union sensible de l’esprit des
-hommes à tout ce qui a quelque rapport à la conservation de leur
-vie ou de la société dont ils se considèrent comme parties, est
-différente en différentes personnes, puisqu’elle est plus étendue
-dans ceux qui ont plus de connaissance, qui sont de plus grande
-condition, qui ont de plus grands emplois et qui ont l’imagination
-plus spacieuse ; et qu’elle est plus étroite et plus forte dans ceux
-qui sont plus sensibles, qui ont l’imagination plus vive et qui suivent plus aveuglément les mouvements de leurs passions.
-Il est extrêmement utile de faire souvent réflexion sur les
-manières presque infinies dont les hommes sont liés aux objets
-sensibles ; et un des meilleurs moyens pour se rendre assez
-savant dans ces choses, c’est de s’étudier et de s’observer soimême. C’est par l’expérience de ce que nous sentons dans nousmêmes que nous nous instruisons avec une entière assurance de
-toutes les inclinations des autres hommes, et que nous
-connaissons avec quelque certitude une grande partie des
-passions auxquelles ils sont sujets. Que si nous ajoutons à ces
-expériences la connaissance des engagements particuliers où ils
-se trouvent et celle des jugements propres à chacune des passions
-desquelles nous parlerons dans la suite, nous n’aurons peut-être
-pas tant de difficulté à deviner la plupart de leurs actions que les
-astronomes en ont à prédire les éclipses. Car encore que les
-hommes soient libres, il est très-rare qu’ils fassent usage de leur
-liberté contre leurs inclinations naturelles et leurs passions
-violentes.
+It is extremely useful to reflect often on the almost infinite ways in which men are bound to sensible objects; and one of the best means of becoming sufficiently learned in these things is to study and observe oneself. It is through the experience of what we feel within ourselves that we instruct ourselves with complete assurance about all the inclinations of other men, and that we know with some certainty a great part of the passions to which they are subject. If we add to these experiences the knowledge of the particular engagements in which they find themselves and that of the judgments proper to each of the passions of which we shall speak later, we shall perhaps not have as much difficulty in guessing most of their actions as astronomers have in predicting eclipses. For although men are free, it is very rare that they make use of their freedom against their natural inclinations and their violent passions.
 
+Before finishing this chapter, I must also point out that it is one of the laws of the union of the soul with the body that all the inclinations of the soul, even those it has for goods that have no relation to the body, are accompanied by emotions of the animal spirits that make these inclinations sensible; because man, not being a pure spirit, cannot have any wholly pure inclination without some mixture of a passion, great or small. Thus the love of truth, of justice, of virtue, of God Himself, is always accompanied by some movements of the spirits that make this love sensible, although one does not perceive it because one almost always has other more vivid feelings; just as the knowledge of spiritual things is always accompanied by some traces in the brain that make this knowledge more vivid, but ordinarily more confused. It is true that very often one does not recognize that one is imagining something at the same time as one conceives an abstract truth. The reason is that these truths have no images or traces instituted by nature to represent them, and that all the traces that reveal them have no other relation to them than that which the will of men or chance has placed there. For even arithmeticians and analysts, who consider only abstract things, make great use of their imagination to fix the view of their mind on their ideas. Numbers, letters of the alphabet, and other figures that are seen or imagined are always joined to the ideas they have of things, although the traces that form from these characters have no relation to them, and thus do not render them false or confused; which is why, by a regulated use of numbers and letters, they discover very difficult truths that without this it would be impossible to discover.
 
-Avant que de finir ce chapitre, il faut encore que je fasse
-remarquer que c’est une des lois de l’union de l’âme avec le
-corps que toutes les inclinations de l’âme, même celles qu’elle a
-pour les biens qui n’ont point de rapport au corps, soient
-accompagnées des émotions des esprits animaux qui rendent ces
-inclinations sensibles ; parce que l’homme n’étant point un esprit
-pur, il est impossible qu’il ait quelque inclination toute pure sans
-mélange de quelque passion petite ou grande. Ainsi l’amour de la
-vérité, de la justice, de la vertu, de Dieu même, est toujours
-accompagné de quelques mouvements d’esprits qui rendent cet
-amour sensible, quoiqu’on ne s’en aperçoive pas à cause que l’on a presque toujours d’autres sentiments plus vifs, de même
-que la connaissance des choses spirituelles est toujours
-accompagnée de quelques traces du cerveau qui rendent cette
-connaissance plus vive, mais d’ordinaire plus confuse. Il est vrai
-que bien souvent on ne reconnaît pas que l’on imagine quelque
-peu dans le même temps que l’on conçoit une vérité abstraite. La
-raison en est que ces vérités n’ont point d’images ou de traces
-instituées de la nature pour les représenter, et que toutes les
-traces qui les révèlent n’ont point d’autre rapport avec elles que
-celui que la volonté des hommes ou le hasard y a mis. Car les
-arithméticiens et les analystes mêmes, qui ne considèrent que des
-choses abstraites, se servent très-fort de leur imagination pour
-arrêter la vue de leur esprit sur leurs idées. Les chiffres, les
-lettres de l’alphabet et les autres figures qui se voient ou qui
-s’imaginent, sont toujours jointes aux idées qu’ils ont des choses,
-quoique les traces qui se forment de ces caractères n’y aient
-point de rapport, et qu’ainsi elles ne les rendent point fausses ni
-confuses ; ce qui fait que, par un usage réglé de chiffres et de
-lettres, ils découvrent des vérités très-difficiles et que sans cela
-il serait impossible de découvrir.
+Since the ideas of things that can be perceived only by the pure mind can thus be linked with traces in the brain, and since the sight of objects that one loves, hates, or fears by a natural inclination can be accompanied by the movement of the spirits, it is evident that the thought of eternity, the fear of hell, the hope of eternal blessedness, although they are objects that do not strike the senses, can excite violent passions in us.
 
-Les idées des choses qui ne peuvent être aperçues que par
-l’esprit pur pouvant donc être liées avec les traces du cerveau, et
-la vue des objets que l’on aime, que l’on hait, que l’on craint par
-une inclination naturelle, pouvant être accompagnée du
-mouvement des esprits, il est visible que la pensée de l’éternité,
-la crainte de l’enfer, l’espérance d’une félicité éternelle, quoique
-ce soient des objets qui ne frappent point les sens, peuvent
-exciter en nous des passions violentes.
-Ainsi nous pouvons dire que nous sommes unis d’une manière sensible non-seulement à toutes les choses qui ont rapport à la
-conservation de la vie, mais encore aux choses spirituelles
-auxquelles l’esprit est uni immédiatement par lui-même. Il arrive
-même très-souvent que la foi, la charité et l’amour-propre
-rendent cette union aux choses spirituelles plus forte que celle
-par laquelle nous tenons à toutes les choses sensibles. L’âme des
-véritables martyrs était plus unie à Dieu qu’à leurs corps ; et ceux
-qui meurent pour soutenir une fausse religion qu’ils croient vraie,
-font assez connaître que la crainte de l’enfer a plus de force sur
-eux que la crainte de la mort. Il y a souvent tant de chaleur et
-d’entêtement de part et d’autre dans les guerres de religion et
-dans la défense des superstitions, qu’on ne peut douter qu’il n’y
-ait de la passion, et même une passion bien plus ferme et bien
-plus constante que toutes les autres, parce qu’elle est soutenue
-par les apparences de la raison aussi bien dans ceux qui sont
-trompés que dans les autres.
+Thus we can say that we are united in a sensible way not only to all the things that relate to the preservation of life, but also to spiritual things to which the mind is immediately united by itself. It even happens very often that faith, charity, and self-love render this union to spiritual things stronger than that by which we hold to all sensible things. The soul of true martyrs was more united to God than to their bodies; and those who die to support a false religion that they believe to be true, make it sufficiently clear that the fear of hell has more power over them than the fear of death. There is often so much heat and obstinacy on both sides in religious wars and in the defense of superstitions, that one cannot doubt that there is passion, and even a passion much firmer and much more constant than all others, because it is supported by appearances of reason both in those who are deceived and in others.
 
-Nous sommes donc unis par nos passions à tout ce qui nous
-parait être le bien ou le mal de l’esprit comme à tout ce qui nous
-paraît. être le bien ou le mal du corps. Il n’y a rien que nous
-puissions connaître avoir quelque rapport avec nous qui ne soit
-capable de nous agiter ; et de toutes les choses que nous
-connaissons, il n’y en a aucune qui n’ait quelque rapport avec
-nous. Nous prenons toujours quelque intérêt dans les vérités
-même les plus abstraites lorsque nous les connaissons, parce
-qu’au moins il y à ce rapport entre elles et notre esprit que nous
-les connaissons. Elles sont nôtres pour ainsi dire par notre
-connaissance. Nous sentons qu’on nous blesse lorsqu’on les
-combat ; et si l’on nous blesse, il est certain que l’on nous agite
-et que l’on nous inquiète. Ainsi les passions ont une domination
-si vaste et si étendue, qu’il est impossible de concevoir aucune chose à l’égard de laquelle on puisse assurer que tous les
-hommes soient exempts de leur empire. Mais voyons
-présentement quelle est leur nature, et tâchons de découvrir toutes
-les choses qu’elles renferment.
-
-
+We are therefore united by our passions to everything that appears to us to be the good or the evil of the mind, as to everything that appears to us to be the good or the evil of the body. There is nothing that we can know to have some relation to us that is not capable of agitating us; and of all the things we know, there is none that does not have some relation to us. We always take some interest even in the most abstract truths when we know them, because at least there is this relation between them and our mind: that we know them. They are ours, so to speak, through our knowledge. We feel wounded when they are attacked; and if we are wounded, it is certain that we are agitated and troubled. Thus the passions have so vast and so extensive a domination that it is impossible to conceive any thing with respect to which one can assure that all men are exempt from their empire. But let us now see what their nature is, and try to discover all the things they contain.

@@ -4,7 +4,11 @@ title: "The Senses"
 description: ""
 a: "Malebranche"
 c: "indigo"
+<<<<<<< HEAD
+weight: 3
+=======
 weight: 7
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
@@ -59,7 +63,22 @@ These two things are absolutely necessary for re-entering and persevering in our
 But, although in our present state there is an obligation to fight continually against our senses, one must not conclude from it that they are absolutely corrupted and ill-regulated; for if one considers that they are given to us for the preservation of our body, one will find that they acquit themselves admirably well of their duty, and that they guide us in so just and faithful a manner toward their end that it seems it is wrongly that they are accused of corruption and disorder; they warn the soul so promptly through pain and pleasure, through agreeable and disagreeable tastes, and through other sensations, of what it must do or not do for the preservation of life, that one cannot rightly say that this order and exactness are a consequence of sin.
 
 
+<<<<<<< HEAD
+III. Nous devons observer exactement cette règle de ne juger jamais par les sens de ce que les choses sont en elles-mêmes,
+mais seulement du rapport quelles ont avec notre corps, parce
+qu’en effet ils ne nous sont point donnés pour connaître la vérité
+des choses en elles-mêmes, mais seulement pour la conservation
+de notre corps.
+
+Mais afin qu’on se délivre tout à fait de la facilité et de
+l’inclination que l’on a à suivre ses sens dans la recherche de la
+vérité, on va faire dans les chapitres suivants une déduction des
+principales et des plus générales erreurs où ils nous jettent, et
+l’on reconnaîtra manifestement la vérité de ce que l’on vient
+d’avancer.
+=======
 ### it is not our senses, but our freedom, that is the true cause of our errors
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 II. Our senses are therefore not so corrupted as one imagines; but it is the most inward part of our soul, it is our freedom that is corrupted. It is not our senses that deceive us, but it is our will that deceives us through its precipitate judgments. When one sees, for example, light, it is very certain that one sees light; when one feels heat, one is not mistaken in believing that one feels it, whether before or after sin. But one is mistaken when one judges that the heat one feels is outside the soul that feels it, as we will explain later.
 

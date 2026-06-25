@@ -1,14 +1,20 @@
+---
+heading: Chapter 4
+title: "De l’imagination de Sénèque."
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE IV.
-De l’imagination de Sénèque.
 
 L’imagination de Sénèque n’est quelquefois pas míeux réglée
 que celle de Tertullien. Ses mouvements impétueux l’emportent
 souvent dans des pays qui lui sont inconnus, où néanmoins il
 marche avec la même assurance que s’il savait où il est et où il
 va. Pourvu qu’il fasse de grands pas, des pas figurés, et dans une
-juste cadence, il s’imagine qu’il avance beaucoup ; mais il ressemble à ceux qui dansent, qui finissent toujours où ils ont
-commencé. Il faut bien distinguer la force et la beauté des
+juste cadence, il s’imagine qu’il avance beaucoup ; mais il ressemble à ceux qui dansent, qui finissent toujours où ils ont commencé. Il faut bien distinguer la force et la beauté des
 paroles, de la force et de l’évidence des raisons. Il y a sans doute
 beaucoup de force et quelque beauté dans les paroles de
 Sénèque, mais il y a tros-peu de force et d’évidence dans ses
@@ -26,6 +32,8 @@ persuade sans que l’on sache souvent ni de quoi ni comment on
 est persuadé, comme si on devait jamais se laisser persuader de
 quelque chose sans la concevoir distinctement, et sans avoir
 examiné les preuves qui la démontrent.
+
+
 Qu’y a-t-il de plus pompeux et de plus magnifique que l’idée
 qu’il nous donne de son sage, mais qu’y a-t-il au fond de plus
 vain et de plus imaginaire ? Le portrait qu’il fait de Caton est

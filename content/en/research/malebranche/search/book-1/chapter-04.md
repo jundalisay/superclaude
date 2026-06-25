@@ -1,16 +1,37 @@
 ---
 heading: Chapter 4
+<<<<<<< HEAD
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+=======
 title: "The five principal causes of Error"
 description: ""
 a: "Malebranche"
 c: "indigo"
 weight: 7
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
+<<<<<<< HEAD
+I. Des causes occasionnelles de l’erreur, et qu’il y en a cinq principales. — II. Dessein
+général de tout l’ouvrage, et dessein particulier du premier livre.
+Nous venons de voir qu’on ne tombe dans l’erreur que parce
+que l’on ne fait pas l'utsage qu’on devrait faire de sa liberté : que
+c’est faute de modérer l’empressement et l’ardeur de la volonté
+pour les seules apparences de la vérité, qu’on se trompe, et que
+l’erreur ne consiste que dans un consentement de la volonté qui a
+plus d’étendue que la perception de l’entendement, puisqu’on ne
+se tromperait point si l’on ne jugeait simplement que de ce que
+l’on voit.
+=======
 
 We have just seen that one falls into error only because one does not make the use one ought to make of one's freedom: that it is for lack of moderating the eagerness and ardor of the will for mere appearances of truth that one is mistaken, and that error consists only in a consent of the will that has more extent than the perception of the understanding, since one would not be mistaken if one judged only of what one sees.
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 But, although properly speaking there is only the misuse of freedom that is the cause of error, one can nevertheless say that we have many faculties that are causes of our errors — not true causes, but causes that can be called *occasional*. All our ways of perceiving are so many occasions for us to be mistaken. For since our false judgments contain two things — the consent of the will, and the perception of the understanding — it is quite clear that all our ways of perceiving can give us some occasion to be mistaken, since they can lead us to precipitate consents.
 

@@ -1,4 +1,14 @@
-CHAPITRE VII.
+---
+heading: Chapter 7
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Des passions en particulier, et premièrement de l’admiration et de ses mauvais effets.
 Tout ce que j’ai dit jusqu’ici des passions est général ; mais il
@@ -21,9 +31,7 @@ ne s’avise pas de se tâter et de se sonder soi-même, qu’il se
 dégoûte incontinent de cette sorte de recherche, et qu’il n’est
 ordinairement capable de reconnaître et de sentir toutes les
 parties de son âme que lorsque d’autres les touchent et les lui
-font sentir. Ainsi il est nécessaire, pour faciliter à quelques
-644
-esprits la connaissance d’eux mêmes, de descendre quelque peu
+font sentir. Ainsi il est nécessaire, pour faciliter à quelques esprits la connaissance d’eux mêmes, de descendre quelque peu
 dans le particulier des passions, afin de leur apprendre, en les
 touchant, toutes les parties qui les composent.
 Ceux qui liront ce qui suit doivent néanmoins être avertis
@@ -31,6 +39,7 @@ qu’ils ne sentiront pas toujours que je les touche, et qu’ils ne se
 reconnaîtront pas toujours sujets aux passions et aux erreurs dont
 je parlerai, par la raison que toutes les passions particulières ne
 sont pas toujours les mêmes dans tous les homines.
+
 Tous les hommes ont les mêmes inclinations naturelles qui
 n’ont point de rapport au corps ; ils ont même toutes celles qui
 ont rapport au corps, lorsque leur corps est parfaitement bien
@@ -51,9 +60,7 @@ démons mêmes, enfin que tous les esprits ont de l’inclination
 pour la félicité. Je sais même que Dieu ne produira jamais aucun
 esprit sans ce désir. Ce n’est point l’expérience qui me l’a
 appris : jamais je ne vis ni Chinois ni Tartare. Ce n’est point le
-témoignage intérieur de ma conscience ; il n’apprend seulement
-645
-que je veux être heureux. Il n’y a que Dieu qui me puisse
+témoignage intérieur de ma conscience ; il n’apprend seulement que je veux être heureux. Il n’y a que Dieu qui me puisse
 convaincre intérieurement que tous les autres hommes, les anges
 et les démons veulent être heureux. Il n’y a que lui qui puisse
 m’assurer qu’il ne donnera jamais l’être à aucun esprit qui soit
@@ -63,6 +70,7 @@ pense ? Et comme il ne peut jamais me tromper, je ne puis douter
 de ce qu’il n’apprend. Je suis donc certain que tous les hommes
 veulent être heureux, parce que cette inclination est naturelle et
 qu’elle ne dépend point du corps.
+
 Il n’en est pas de même des passions particulières. Si je suis
 passionné pour la musique, pour la danse, pour la chasse ; si
 j’aime les douceurs ou le haut goût, je n’en puis rien conclure de
@@ -75,15 +83,15 @@ Mais l’amour de la musique, de la chasse ou de la danse n’est
 pas général, parce que la disposition du corps dont il dépend
 étant différente dans tous les hommes, toutes les passions qui en
 dépendent ne sont pas toujours les mêmes.
+
+
 Les passions générales, comme le désir, la joie et la tristesse,
 tiennent le milieu entre les inclinations naturelles et les passions
 particulières. Elles sont générales comme les inclinations ; mais
 elles ne sont pas également fortes, parce que la cause qui les
 produit et qui les entretient n’est pas elle-même également
 agissante. Il y a une variété infinie dans les degrés d’agitation des
-esprits animaux, dans leur abondance et leur disette, leur solidité
-646
-et leur délicatesse, et dans le rapport des fibres du cerveau avec
+esprits animaux, dans leur abondance et leur disette, leur solidité et leur délicatesse, et dans le rapport des fibres du cerveau avec
 ces esprits.
 Ainsi, il arrive très-souvent que l’on ne touche les autres en
 aucun endroit de leur âme lorsque l’on parle des passions
@@ -106,19 +114,21 @@ mathématiques, pour la chasse et pour la danse ne sont qu’une
 même passion générale ; car, par exemple, les passions de désir
 ou de joie pour tout ce qui plaît ne sont pas différentes, quoique
 les objets particuliers qui plaisent soient différents.
+
+
 Il ne faut donc pas multiplier le nombre des passions selon le
 nombre des objets qui sont infinis, mais seulement selon les
 principaux rapports qu’ils peuvent avoir avec nous. Et de cette
 manière on reconnaîtra, comme nous l’expliquerons plus bas, que
 l’amour et l’aversion sont les passions-mères ; qu’elles
-n’engendrent point d’autres passions générales que le désir, la
-647
-joie et la tristesse ; que les passions particulières ne sont
+n’engendrent point d’autres passions générales que le désir, la joie et la tristesse ; que les passions particulières ne sont
 composées que de ces trois primitives, et qu’elles sont d’autant
 plus composées que l’idée principale du bien ou du mal qui les
 excite est accompagnée d’un plus grand nombre d’idées
 accessoires, ou que le bien et le mal sont plus circonstanciés par
 rapport à nous.
+
+
 Si l’on se souvient de ce que l’on a dit de la liaison des idées,
 et que dans les grandes passions les esprits animaux étant
 extrêmement agités réveillent dans le cerveau toutes les traces
@@ -127,6 +137,7 @@ reconnaîtra qu’il y a des passions différentes d’une infinité de
 façons, lesquelles n’ont point de nom particulier, et qu’on ne peut
 expliquer d’autre manière qu’en disant qu’elles sont
 inexplicables.
+
 Si les passions primitives, de la combinaison desquelles les
 autres l’engendrent, n’étaient point capables du plus ou du moins,
 on n’aurait pas de peine ã déterminer le nombre de toutes les
@@ -142,7 +153,8 @@ Mais le plus et le moins ne changeant point l’espèce, on peut
 dire que le nombre des passions n’est pas infini, parce que les
 circonstances qui accompagnent le bien et le mal ne sont point
 infinies. Mais expliquons nos passions en particulier.
-648
+
+
 Lorsque nous voyons quelque chose pour la première fois, ou
 que l’ayant déjà vue plusieurs fois accompagnée de certaines
 circonstances, nous la voyons revêtue de quelques autres, nous en
@@ -164,15 +176,15 @@ au corps, et selon ce rapport c’est l’émotion extraordinaire des
 esprits animaux qui est la cause naturelle de son application aux
 choses nouvelles, car les émotions ordinaires des esprits
 n’excitent que très-peu notre attention.
+
+
 Dans l’admiration précisément comme telle, on ne considère
 les choses que selon ce qu’elles sont en elles-mêmes ou selon ce
 qu’elles paraissent ; on ne les considère point par rapport à soi,
 on ne les considère point comme bonnes ou comme mauvaises ;
 et c’est pour cela que les esprits ne se répandent point dans les
 muscles pour donner au corps la disposition propre à la
-recherche du bien ou à la fuite du mal, et qu’ils n’agitent point les
-649
-nerfs qui vont au cœur et aux autres viscères, pour hâter ou pour
+recherche du bien ou à la fuite du mal, et qu’ils n’agitent point les nerfs qui vont au cœur et aux autres viscères, pour hâter ou pour
 retarder la fermentation et le mouvement du sang, comme il
 arrive dans toutes les autres passions. Tout ce qu’il y a d’esprits
 tend vers le cerveau pour y tracer une image vive et distincte de
@@ -181,6 +193,8 @@ reconnaisse ; mais tout le reste du corps demeure comme
 immobile et dans la même posture. Comme il n’y a point
 d’émotion dans l’âme, il n’y a point aussi de mouvement dans le
 corps.
+
+
 Si les choses que l’on admire paraissent grandes, l’admiration
 est toujours suivie de l’estime et quelquefois de la vénération.
 Elle est au contraire toujours accompagnée de mépris, et
@@ -190,6 +204,8 @@ mouvement d’esprits, et la trace qui la représente se conserve
 fort longtemps. Un grand mouvement d’esprits excite aussi dans
 l’àme l’idée de la grandeur, et il arrête beaucoup l’esprit à la
 considération de cette idée.
+
+
 L’idée de petitesse produit dans le cerveau un petit mouvement
 d’esprits, et la trace qui la représente ne se conserve pas
 longtemps. Un petit mouvement d’esprits excite aussi dans l’âme
@@ -200,15 +216,17 @@ qui nous est uni, notre admiration n’est jamais sans quelque
 passion qui nous agite. Mais notre agitation n’est que dans l’âme
 et dans les esprits qui vont au cœur, parce que n’y ayant point de
 bien qu’il faille rechercher, ni de mal qu’il faille éviter, les
-esprits ne se répandent point dans les muscles pour disposer le
-650
-corps à quelque action.
+esprits ne se répandent point dans les muscles pour disposer le corps à quelque action.
+
+
 La vue de la perfection de son être ou de quelque chose qui lui
 appartient produit naturellement l’orgueil, ou l’estime de soimême, le mépris des autres, la joie, et quelques autres passions.
 La vue de sa propre grandeur produit la fierté ; la vue de sa
 force, la générosité ou la hardiesse ; et la vue de quelque autre
 qualité avantageuse produit naturellement une autre passion, qui
 sera toujours une espèce d’orgueil.
+
+
 Au contraire, la vue de quelque imperfection de son être ou
 d’une chose qui lui appartient produit naturellement l’humilité, le
 mépris de soi-même, le respect pour les autres, la tristesse, et
@@ -222,6 +240,8 @@ des émotions involontaires, qui sont néanmoins très-utiles à la
 société civile, et même absolument nécessaires en quelques
 rencontres pour la conservation de la vie ou des biens de ceux
 qui en sont agitée.
+
+
 Il est nécessaire, par exemple, d’être humble et timide, et
 même de témoigner au dehors la disposition de son esprit par une
 contenance modeste et par un air respectueux ou craintif,
@@ -229,9 +249,9 @@ lorsqu’on est en présence d’une personne de haute qualité ou
 d’un homme fier et puissant ; car il est presque toujours
 avantageux pour le bien du corps que l’imagination s’abatte à la
 vue de la grandeur sensible, et qu’elle lui donne des marques
-extérieures de sa soumission et de sa vénération intérieure. Mais
-651
-cela se fait naturellement et machinalement, sans que la volonté y
+extérieures de sa soumission et de sa vénération intérieure. 
+
+Mais cela se fait naturellement et machinalement, sans que la volonté y
 ait de part, et souvent même malgré toute sa résistance. Les bêtes
 mêmes qui ont besoin, comme les chiens, de fléchir ceux avec qui
 elles vivent, ont d’ordinaire leur machine disposée de manière
@@ -242,6 +262,8 @@ point la disposition du corps propre pour prendre cet air, c’est
 qu’ils n’ont pas besoin de fléchir ceux dont ils peuvent, par la
 fuite, éviter le courroux, et dont ils peuvent se passer pour la
 conservation de leur vie.
+
+
 On ne peut trop considérer que toutes les passions, qui sont
 excitées en nous à la vue de quelque chose qui est hors de nous.
 répandent machinalement sur le visage de ceux qui en sont
@@ -255,13 +277,13 @@ machinalement l’admiration dans les autres, et qui agit même sur
 leur cerveau d’une manière si bien réglée, que les esprits qui y
 sont contenus sont poussés dans les muscles de leur visage pour y
 former un air tout semblable au nôtre.
+
+
 Cette communication des passions de l’âme et des mouvements
 des esprits animaux, pour unir ensemble les hommes par rapport
 au bien et au mal, et pour les rendre entièrement semblables les
 uns aux autres. non-seulement par la disposition de leur esprit,
-mais encore parla situation de leur corps, est d’autant plus grande
-652
-et plus remarquable que les passions sont plus violentes ; parce
+mais encore parla situation de leur corps, est d’autant plus grande et plus remarquable que les passions sont plus violentes ; parce
 qu’alors les esprits animaux sont agités avec plus de force. Or,
 cela doit être ainsi, parce que les biens et les maux étant plus
 grands ou plus présents, il faut s’y appliquer davantage, et s’unir
@@ -274,6 +296,8 @@ pas à propos qu’elles fassent effort sur l’imagination des autres,
 ni qu’elles les détournent de leurs occupations, auxquelles il est
 peut-être plus nécessaire qu’ils s’emploient, qu’à considérer les
 causes de ces passions.
+
+
 Il n’y a rien de plus merveilleux que cette économie de nos
 passions et que cette disposition de notre corps par rapport aux
 objets qui nous environnent. Tout ce qui se passe en nous
@@ -284,17 +308,19 @@ toutes les choses sensibles pour la conservation de la société et
 de notre être sensible, son dessein s’exécute si fidèlement par la
 construction de son ouvrage, qu’on ne peut s’empêcher d’en
 admirer l’artifice et les ressorts.
+
+
 Cependant nos passions et tous ces liens imperceptibles par
 lesquels nous tenons à tout ce qui nous environne, sont souvent,
 par notre faute, des causes très-considérables de nos erreurs et
 de nos désordres. Car nous ne faisons point l’usage que nous
 devrions faire de nos passions ; nous leur permettons toutes
-choses, et nous ne savons pas même les bornes que nous devons
-653
-prescrire à leur puissance. Ainsi les passions mêmes qui, comme
+choses, et nous ne savons pas même les bornes que nous devons prescrire à leur puissance. Ainsi les passions mêmes qui, comme
 l’admiration, sont très-faibles et qui nous agitent le moins, ont
 assez de force pour nous faire tomber dans l’erreur. En voici
 quelques exemples.
+
+
 Lorsque les hommes, et principalement ceux qui ont
 l’imagination vigoureuse, se considèrent par leur plus bel
 endroit, ils sont presque toujours très-satisfaits d’eux-mêmes ; et
@@ -320,7 +346,7 @@ courage et leur fait prendre l’air dominant et décisif : ils
 n’écoutent les autres qu’avec mépris ; ils ne leur répondent qu’en
 raillant ; ils ne pensent que par rapport à eux, et, regardant
 comme une espèce de servitude l’attention de l’esprit, si
-654
+
 nécessaire pour découvrir la vérité, ils sont entièrement in
 disciplinables. L’orgueil, l’ignorance et l’aveuglement vont
 toujours de compagnie. Les esprits forts, ou plutôt les esprits

@@ -1,9 +1,19 @@
+---
+heading: Chapter 1
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-LIVRE SIXIÈME.
+
+<!-- LIVRE SIXIÈME.
 DE LA MÉTHODE.
 PREMIÈRE PARTIE.
-CHAPITRE PREMIER.
+CHAPITRE PREMIER. -->
 
 Dessein de ce livre, et les deux moyens généraux pour conserver l’évidence dans la
 recherche de la vérité, quiseront le sujet de ce livre.

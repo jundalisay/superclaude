@@ -1,4 +1,5 @@
 CHAPITRE III.
+
 I. Les philosophes se dissipeut l’esprit en s’appliquant à des sujets qui renferment trop
 de rapports et qui dépendent de trop de choses. sans garder aucun ordre dans
 leurs études. — II. Exemple tiré d’Aristote. — III. Que les géomètres au

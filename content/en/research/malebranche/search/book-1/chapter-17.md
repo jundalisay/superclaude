@@ -1,6 +1,14 @@
+---
+heading: Chapter 17
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XVII.
 
 I. Autre exemple tiré de la morale, lequel fait voir que nos sens ne nous offrent que de
 faux biens. — II. Qu’il n’y a que Dieu qui soit notre bien. — III. Origine des

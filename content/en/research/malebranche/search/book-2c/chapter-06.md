@@ -1,6 +1,16 @@
+---
+heading: Chapter 6
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 	
 
-CHAPITRE DERNIER.
+
+
 
 I. Des sorciers par imagination, et des loups-garous. — II. Conclusion des deux
 premiers livres.

@@ -1,16 +1,29 @@
 ---
 heading: Chapter 3
+<<<<<<< HEAD
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+=======
 title: "Reply to some objections"
 description: ""
 a: "Malebranche"
 c: "indigo"
 weight: 7
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 date: 2026-06-20
 ---
 
 
+<<<<<<< HEAD
+I. Réponse à quelques objections. — II. Remarques sur ce qu’on a dit de la nécessité de
+l’évidence.
+=======
 
 The first rule in the preceding chapter will not please everyone.
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 
 It will displease those imaginary scholars who claim to know everything and who never know anything, who take pleasure in speaking boldly about the most difficult things, and who certainly do not know the easiest.
 

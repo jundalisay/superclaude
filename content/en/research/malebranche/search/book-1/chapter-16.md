@@ -1,6 +1,13 @@
+---
+heading: Chapter 16
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE XVI.
 
 I. Que les erreurs de nos sens nous servent de principes généraux et fort féconds pour
 tirer de fausses conclusions, lesquelles servent. de principes à leur tour. — II.

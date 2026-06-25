@@ -1,4 +1,15 @@
-CHAPITRE X.
+---
+heading: Chapter 10
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 De l’amour du plaisir par rapport å la morale. — I. Il faut fuir le plaisir, quoiqu’il rende
 heureux. — II. Il ne doit point nous porter A l’amour des biens sensibles.
 Nous venons de parler dans les trois chapitres précédents de

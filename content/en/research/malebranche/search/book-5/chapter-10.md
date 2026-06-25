@@ -1,4 +1,15 @@
-CHAPITRE X.
+---
+heading: Chapter 10
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 Des passions en particulier, et en général de la manière de les expliquer et de
 reconnaître les erreurs dont elles sont la cause.
 Si l’on considère de quelle manière les passions se
@@ -16,13 +27,14 @@ conséquent dans l’âme des sentiments qui ne sont point
 entièrement semblables. Ainsi ils sont cause que l’on remarque
 de la différence entre certaines passions dont les émotions ne
 sont point différentes.
+
 Cependant l’émotion de l’àme étant la principale chose qui se
 rencontre dans chacune de nos passions, il est beaucoup mieux de
 les rapporter toutes aux trois primitives dans lesquelles ces
 émotions sont fort différentes, que de les traiter confusément et
-sans ordre, par rapport aux différentes perceptions que l’on peut
-683
-avoir d’une infinité de biens et de maux qui les causent.
+sans ordre, par rapport aux différentes perceptions que l’on peut avoir d’une infinité de biens et de maux qui les causent.
+
+
 Lorsque l'âme aperçoit un bien dont elle peut jouir, on peut
 dire peut-être qu’elle l’espère, quoiqu’elle ne le désire pas ;
 mais il est visible qu’alors son espérance n’est point une passion,
@@ -40,6 +52,8 @@ l'émotion de la tristesse qui se mêle alors avec celle du désir ;
 car le jugement de l’âme qui considère un bien comme ne lui
 pouvant arriver, n’est point une passion si ce jugement ne nous
 agite.
+
+
 Mais, parce que l’âme ne considère jamais de bien ou de mal
 sans quelque émotion et sans qu’il arrive même dans le corps
 quelque changement, on donne souvent le nom de passion au
@@ -51,7 +65,7 @@ moquerie, de regret, enfin le nom de toutes les autres passions
 sont dans l’usage ordinaire, des expressions abrégées de
 plusieurs termes, par lesquels on peut expliquer en détail tout ce
 que les passions renferment.
-684
+
 On comprend par le mot de passion la vue du rapport qu’une
 chose a avec nous, l’émotion et le sentiment de l’âme,
 l’ébranlement du cerveau et le mouvement des esprits, une
@@ -71,6 +85,8 @@ l’on fait ordinairement des passions et de toutes les choses
 sensibles, lorsqu’on se les est rendues familières par des
 sentiments et par l’action seule de imagination qui trompe
 l’esprit.
+
+
 Il y a bien de la différence entre les idées pures de l’esprit et
 les sensations ou les émotions de l’âme. Les idées pures de
 l’esprit sont claires et distinctes, mais il est difficile de se les
@@ -79,9 +95,7 @@ contraire très-familières, mais il est impossible de les connaître
 clairement et distinctement. Les nombres, l’étendue et leurs
 propriétés se connaissent clairement, mais lorsqu’on ne les a pas
 rendus sensibles par quelques caractères qui les expriment, il est
-difficile de se les représenter, car tout ce qui est abstrait ne
-685
-touche point. Les sensations au contraire et les émotions de l’âme
+difficile de se les représenter, car tout ce qui est abstrait ne touche point. Les sensations au contraire et les émotions de l’âme
 se représentent facilement à l’esprit, quoiqu’on ne les connaisse
 que d’une manière fort confuse et fort imparfaite, et tous les
 termes qui les excitent frappent fortement l’âme et la rendent
@@ -100,6 +114,8 @@ qu’il est clair et distinct. Cependant ces mots sont les noms des
 passions composées, et par conséquent des expressions abrégées
 que l’usage populaire a faites de plusieurs idées confuses et
 obscures.
+
+
 Comme nous sommes obligés de nous servir des termes
 approuvés par l’usage, on ne doit pas être surpris de trouver de
 l’obscurité et quelquefois une espèce de contradiction dans nos
@@ -110,15 +126,15 @@ les hommes, à cause de leurs différentes dispositions d’esprit ;
 on ne nous condamnera pas facilement lorsqu’on n’entrera pas
 dans nos opinions. Je ne dis pas tant ceci pour me mettre à
 couvert des objections qu’on me pourrait faire, que pour faire
-bien comprendre la nature des passions et ce qu’on doit penser
-686
-des traités que l’on compose sur cette matière.
+bien comprendre la nature des passions et ce qu’on doit penser des traités que l’on compose sur cette matière.
 Après toutes ces précautions, je crois pouvoir dire que toutes
 les passions se peuvent rapporter aux trois primitives, savoir : au
 désir, à la joie et à la tristesse, et que c’est principalement par
 les différents jugements que l’âme fait des biens et des maux, que
 celles qui se rapportent à une même passion primitive sont
 différentes entre elles.
+
+
 Je puis dire que l’espérance, la crainte et l’irrésolution qui
 tient le milieu entre ces deux, sont des espèces de désirs ; que la
 hardiesse, le courage, l’émulation, etc., ont plus de rapport à
@@ -140,9 +156,7 @@ et de la joie, comme l’impudence, la colère et la vengeance ; ou
 de celles du désir et de la tristesse, comme la honte, le regret et
 le dépit ; ou de toutes les trois ensemble, lorsqu’il se trouve des
 motifs de joie et de tristesse joints ensemble. Mais quoique ces
-dernières passions n’aient pas, que je sache, des noms
-687
-particuliers, elles sont cependant des plus communes ; parce
+dernières passions n’aient pas, que je sache, des noms particuliers, elles sont cependant des plus communes ; parce
 qu’en cette vie nous ne goûtons presque jamais de bien sans
 quelque mal, et que nous ne souffrons presque jamais de mal sans
 quelque espérance d’en être délivré et de jouir de quelque bien.
@@ -170,9 +184,8 @@ considère les objets par rapport à elle, et non point selon ce
 qu’ils sont en eux-mêmes. Mais les jugements, qui suivent les
 passions, sont faux en toutes manières ; car les jugements que
 forment les passions toules seules, sont uniquement appuyés sur
-les perceptions que l’àme a des objets par rapport à elle, ou
-688
-plutôt par rapport à son émotion actuelle.
+les perceptions que l’àme a des objets par rapport à elle, ou plutôt par rapport à son émotion actuelle.
+
 Dans les jugements qui précèdent les passions, le vrai et le
 faux sont joints ensemble ; mais lorsque l’âme est agitée, et
 qu’elle juge selon toute l’inspiration de la passion, le vrai se
@@ -201,7 +214,7 @@ négliger. Il y a peu de sujets plus dignes de l’application de ceux
 qui recherchent la vérité, qui tâchent de se délivrer de la
 domination de leur corps, et qui veulent juger de toutes choses
 selon les véritables idées.
-689
+
 On peut s’instruire sur ce sujet en deux manières : ou par la
 raison toute pure, ou par le sentiment intérieur que l’on a de soimême, lorsqu’on est agité de quelque passion. Par exemple, l’on
 sait par sa propre expérience qu’on est porté à juger
@@ -215,6 +228,7 @@ les passions se justifient, et qu’elles tournent l’imagination et
 ensuite l’esprit d’une manière propre à conserver leur propre
 émotion, pour conclure directement quels sont les jugements que
 toutes les passions nous font former.
+
 Ceux qui ont l’imagination forte et vive, qui sont extrêmement
 sensibles, et fort sujets aux mouvements des passions, sïnstruisent
 parfaitement de ces choses par le sentiment qu’ils ont de ce qui
@@ -229,9 +243,7 @@ et quelquefois plus malins et plus corrompus que les autres.
 Mais ceux qui sans consulter leur sentiment intérieur, ne se
 servent que de leur raison pour rechercher la nature des passions,
 et ce qu’elles sont capables de produire, s’ils ne sont pas
-toujours aussi pénétrants que les autres, ils sont toujours plus
-690
-raisonnables et moins sujets à l’erreur ; car ils jugent des choses
+toujours aussi pénétrants que les autres, ils sont toujours plus raisonnables et moins sujets à l’erreur ; car ils jugent des choses
 selon ce qu’elles sont en elles-mêmes. Ils voient à peu près ce
 que les passionnés peuvent faire, selon qu’ils les supposent plus
 ou moins émus ; et ik ne jugent pas témérairement des choses que

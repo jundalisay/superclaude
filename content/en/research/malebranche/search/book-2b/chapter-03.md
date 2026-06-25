@@ -1,6 +1,14 @@
+---
+heading: Chapter 3
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE III.
 
 I. Que les personnes d’étude sont les plus sujettes à l’erreur. — II. Raisons pour
 lesquelles on aime mieux suivre l’autorité que de faire usage de son esprit.
@@ -15,7 +23,9 @@ dans laquelle les particuliers ne doivent avoir qu’un même esprit,
 et que les mêmes desseins. Leurs différents emplois et leurs
 différentes liaisons mettent nécessairement quelque différence
 dans le tour et la manière qu’ils veulent prendre, pour exécuter
-les choses même dont ils conviennent. Cela fait bien voir que ce
+les choses même dont ils conviennent. 
+
+Cela fait bien voir que ce
 serait entreprendre l’impossible, que de vouloir expliquer en
 détail les causes morales de l’erreur ; mais aussi il serait assez
 inutile de le faire ici. On veut seulement parler des manières de

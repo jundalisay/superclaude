@@ -1,8 +1,19 @@
-LIVRE TROISIÈME.
-DE L'ENTENDEMENT, OU DE L'ESPRIT PUR.
-PREMIÈRE PARTIE.
+---
+heading: Chapter 1
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-CHAPITRE PREMIER.
+
+
+<!-- LIVRE TROISIÈME.
+DE L'ENTENDEMENT, OU DE L'ESPRIT PUR.
+PREMIÈRE PARTIE. -->
+
 
 I. La pensée seule est essentielle à l’esprit. Sentir et imaginer ne sont que des
 modifications. — II. Nous ne connaissons pas toutes les modifications dont notre

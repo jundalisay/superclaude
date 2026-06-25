@@ -1,6 +1,14 @@
+---
+heading: Chapter 3
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE III.
 
 De l’usage que l’on peut faire des passions et des sens pour conserver l’attentíon de
 l’esprit.

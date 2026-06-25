@@ -1,4 +1,14 @@
-CHAPITRE VI.
+---
+heading: Chapter 6
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Que nous voyons toutes choses en Dieu.
 Nous avons examiné dans les chapitres précédents quatre

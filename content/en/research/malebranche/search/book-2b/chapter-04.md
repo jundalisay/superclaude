@@ -1,4 +1,15 @@
-CHAPITRE IV.
+---
+heading: Chapter 4
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 Deux mauvais effets de la lecture sur l’imagination.
 Ce faux et lâche respect que les hommes portent aux anciens
 produit un très-grand’nombre d’effets très-pernicieux qu’il est à
@@ -23,9 +34,7 @@ Le second effet que produit dans l’imagination la lecture des
 anciens, c’est qu’elle met une étrange confusion dans toutes les
 idées de la plupart de ceux qui s’y appliquent. Il ya deux
 différentes manières de lire les auteurs : l’une très-bonne et trèsutile, et l’autre fort inutile, et même dangereuse. Il est très-utile
-de lire quand on médite ce qu’on lit ; quand on tâche de trouver
-253
-par quelque effort d’esprit la résolution des questions que l’on
+de lire quand on médite ce qu’on lit ; quand on tâche de trouver par quelque effort d’esprit la résolution des questions que l’on
 voit dans les titres des chapitres, avant même que de commencer
 à les lire ; quand on arrange, et quand on confère les idées des
 choses les unes avec les autres ; en un mot, quand on use de sa
@@ -37,6 +46,8 @@ conçu, et assez d’imprudence pour y consentir. La première
 manière éclaire l’esprit, elle le fortifie et en augmente l’étendue ;
 la seconde en diminue l’étendue, et elle le rend peu à peu faible,
 obscur et confus.
+
+
 Or la plupart de ceux qui font gloire de savoir les opinions des
 autres n’étudient que de la seconde manière. Aussi, plus ils ont
 de lecture, plus leur esprit devient faible et confus. La raison en

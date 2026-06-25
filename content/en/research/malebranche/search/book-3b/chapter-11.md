@@ -1,4 +1,14 @@
-CHAPITRE XI.
+---
+heading: Chapter 11
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 Exemples de quelques erreurs de morale qui dépendent du même principe.
 Cette facilité que l’esprit trouve à imaginer et à supposer des

@@ -1,6 +1,13 @@
+---
+heading: Chapter 7
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
-
-CHAPITRE VII.
 
 I. Quatre différentes manières de voir les choses. — II. Comment on connait Dieu. —
 III. Comment on connaît les corps. — IV. Comment on connaît son âme. — V.

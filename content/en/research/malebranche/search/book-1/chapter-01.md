@@ -1,10 +1,14 @@
 ---
 heading: Chapter 1
+<<<<<<< HEAD
+title: "The Senses"
+=======
 title: "The Nature and Properties of the Understanding"
+>>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 6
+weight: 4
 date: 2026-06-20
 ---
 

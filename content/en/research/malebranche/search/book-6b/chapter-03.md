@@ -1,373 +1,50 @@
-
-CHAPITRE III.
-
-De l’erreur la plus dangereuse de la philosophie des anciens.
-Non-seulement les philosophes disent ce qu’ils ne conçoivent
-point, lorsqu’ils expliquent les effets de la nature par de certains
-êtres dont ils n'ont aucune idée particulière ; ils fournissent même
-un principe dont on peut tirer directement des conséquences trèsfausses et très-dangereuses.
-Car si on suppose, selon leur sentiment, qu’il y a dans les
-corps quelques entités distinguées de la matière ; n’ayant point
-d’idée distincte de ces entités, on peut facilement s’imaginer
-qu’elles sont les véritables ou les principales causes des elîets que l’on voit arriver. C’est même le sentiment commun des
-philosophes ordinaires ; car c’est principalement pour expliquer
-ces effets qu’ils pensent qu'il a des formes substantielles, des
-qualités réelles et d’autres semblables entités. Que si l’on vient
-ensuite à considérer attentivement l’idée que l’on a de cause ou
-de puissance d’agir, on ne peut douter que cette idée ne
-représente quelque chose de divin. Car l’idée d’une puissance
-souveraine est l’idée de la souveraine divinité ; et l’idée d’une
-puissance subalterne est l’idée d’une divinité inférieure, mais
-d’une véritable divinité, au moins selon la pensée des païens,
-supposé que ce soit l’idée d’une puissance ou d’une cause
-véritable. On admet donc quelque chose de divin dans tous les
-corps qui nous environnent, lorsqu’on admet des formes, des
-facultés, des qualités, des vertus, ou des êtres réels capables de
-produire certains effets par la force de leur nature ; et l’on entre
-ainsi insensiblement dans le sentiment des païens par le respect
-que l’on a pour leur philosophie. Il est vrai que la foi nous
-redresse ; mais peut-être que l’on peut dire que si le cœur est
-chrétien, le fond de l’esprit est païen.
-De plus, il est difficile de se persuader que l’on ne doive ni
-craindre ni aimer de véritables puissances, des êtres qui peuvent
-agir sur nous, qui peuvent nous punir par quelque douleur ou nous
-récompenser par quelque plaisir. Et comme l’amour et la crainte
-sont la véritable adoration, il est encore difficile de se persuader
-qu’on ne doive pas les adorer. Tout ce qui peut agir sur nous
-comme cause véritable et réelle est nécessairement au-dessus de
-nous, selon saint Augustin et selon la raison ; et selon le même
-saint et la même raison, c’est une loi immuable que les choses
-inférieures servent aux supérieures. C’est pour ces raisons que ce
-grand saint reconnaît que le corps ne peut agir sur l’âme
-[8]
-, et que
-775
-rien ne peut être au-dessus de l’âme que Dieu
-[9]
-.
+---
+heading: Chapter 3
+title: "The Most Dangerous Error of Ancient Philosophy"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 6
+date: 2026-06-20
+---
 
 
-Dans les saintes Écritures, lorsque Dieu prouve aux Israélites
-qu’ils doivent l’adorer, c’est-à-dire qu’ils doivent le craindre et
-l’aimer, les principales raisons qu’il apporte sont tirées de sa
-puissance pour les récompenser et pour les punir. Il leur
-représente les bienfaits qu’ils ont reçus de lui, les maux dont il
-les a châtiés, et qu’il a encore la même puissance. Il leur défend
-d’adorer les dieux des païens, parce qu’ils n’ont aucune
-puissance sur eux et qu’ils ne peuvent leur faire ni bien ni mal. Il
-veut que l’on n’honore que lui, parce qu’il n’y a que lui qui soit
-la véritable cause du bien et du mal, et qu’il n’en arrive point
-dans leur ville, selon un prophète
-[10]
-, qu’il ne fasse lui-même ;
-parce que les causes naturelles ne sont point les véritables causes
-du mal qu’elles semblent nous faire, en que, comme c’est Dieu
-seul qui agit en elles, c’est lui seul qu’il faut craindre et qu’il faut
-aimer en elle : Soli Deo honor et gloria.
+## The Most Dangerous Error of Ancient Philosophy
 
+Not only do philosophers say what they do not truly conceive when they explain the effects of nature by certain beings of which they have no distinct idea; they even provide a principle from which one can directly draw consequences that are very false and very dangerous.
 
-Enfin, ce sentiment qu’on doit craindre et qu’on doit aimer ce
-qui peut être véritable cause du bien et du mal, paraît si naturel et
-si juste qu’il n’est pas possible de s’en défaire. De sorte que, si
-l’on suppose cette fausse opinion des philosophes, et que nous
-tâchons ici de détruire, que les corps qui nous environnent sont
-les véritables causes des plaisirs et des maux que nous sentons,
-la raison semble en quelque sorte justifier une religion semblable
-à celles des païens, et approuver le dérèglement universel des
-mœurs. Il est vrai que la raison n’enseigne pas qu’il faille adorer
-les oignons et les poireaux, par exemple, comme la souveraine
-divinité, parce qu’ils ne peuvent nous rendre entièrement heureux
-lorsque nous en avons, ou entièrement malheureux lorsque nous
-n’en avons point. Aussi les païens ne leur ont jamais rendu tant d’honneur qu’au grand Jupiter, duquel toutes leurs divinités
-dépendaient ; ou qu’au soleil, que nos sens nous représentent
-comme la cause universelle qui donne la vie et le mouvement à
-toutes choses, et que l’on ne peut s’empêcher de regarder comme
-une divinité, si l’on suppose avec les philosophes païens qu’il
-renferme dans son être les causes véritables de tout ce qu’il
-semble produire non-seulement dans notre corps et sur notre
-esprit, mais encore dans tous les êtres qui nous environnent.
-Mais si l’on ne doit pas rendre un honneur souverain aux
-poireaux et aux oignons, on peut toujours leur rendre quelque
-adoration particulière, je veux dire quon peut y penser et les
-aimer en quelque manière ; s’il est vrai qu’ils puissent en
-quelque sorte nous rendre heureux, on doit leur rendre honneur à
-proportion du bien qu’ils peuvent faire. Et certainement les
-hommes qui écoutent les rapports de leurs sens pensent que ces
-légumes sont capables de leur faire du bien. Car les Israélites,
-par exemple, ne les auraient pas si fort regrettés dans le désert,
-ils ne se seraient point considérés comme malheureux pour en
-être privés, s’ils ne se fussent imaginés en quelque façon heureux
-par leur jouissance. Les ivrognes n’aimeraient peut-être pas si
-fort le vin, s’ils savaient bien ce que c’est, et que le plaisir qu’ils
-trouvent à en boire vient du Tout-Puissant qui leur commande la
-tempérance, et qu’ils font injustement servir à leur intempérance.
-Voilà les dérèglements où nous engage la raison même,
-lorsqu’elle est jointe aux principes de la philosophie païenne et
-lorsqu’elle suit les impressions des sens.
-Afin qu’on ne puisse plus douter de la fausseté de cette
-misérable philosophie et qu’on reconnaisse avec évidence la
-solidité des principes et la netteté des idées dont on se sert, il est nécessaire d’établir clairement les vérités qui sont opposées aux
-erreurs des anciens philosophes, et de prouver en peu de mots
-qu’il n’y a qu’une vraie cause, parce qu’il n’y a qu’un vrai Dieu ;
-que la nature ou la force de chaque chose n’est que la volonté de
-Dieu ; que toutes les causes naturelles ne sont point de véritables
-causes, mais seulement des causes occasionnelles, et quelques
-autres vérités qui seront des suites de celles-ci.
-Il est évident que tous les corps grands et petits n’ont point la
-force de se remuer. Une montagne, une maison, une pierre, un
-grain de sable, enfin le plus petit ou le plus grand des corps que
-l’on puisse concevoir, n’a point la force de se remuer. Nous
-n’avons que deux sortes d’idées, idées d’esprit, idées de corps ;
-et ne devant dire que ce que nous concevons, nous ne devons
-raisonner que suivant ces deux idées. Ainsi, puisque l’idée que
-nous avons de tous les corps nous fait connaître qu’ils ne se
-peuvent remuer, il faut conclure que ce sont les esprits qui les
-remuent. Mais quand on examine l’idée que l’on a de tous les
-esprits finis, on ne voit point de liaison nécessaire entre leur
-volonté et le mouvement de quelque corps que ce soit ; on voit au
-contraire qu’il n’y en a point et qu’il n’y en peut avoir. On doit
-donc aussi conclure, si on veut raisonner selon ses lumières,
-qu’il n’y a aucun esprit créé qui puisse remuer quelque corps que
-ce soit comme cause véritable ou principale, de même que l’on a
-dit qu’aucun corps ne se pouvait remuer soi-même.
-Mais lorsqu’on pense à l’idée de Dieu, c’est-à-dire d’un être
-infiniment parfait et par conséquent tout-puissant, on connait qu’il
-y a une telle liaison entre sa volonté et le mouvement de tous les
-corps, qu’il est impossible de concevoir qu’il veuille qu’un
-corps soit mu et que ce corps ne le soit pas. Nous devons donc dire qu’il n’y a que sa volonté qui puisse remuer les corps, si
-nous voulons dire les choses comme nous les concevons et non
-pas comme nous les sentons. La force mouvante des corps n’est
-donc point dans les corps qui se remuent, puisque cette force
-mouvante n’est autre chose que la volonté de Dieu. Ainsi, les
-corps n’ont aucune action ; et lorsqu’une boule qui se remue en
-rencontre et en meut une autre, elle ne lui communique rien
-qu’elle ait, car elle n’a pas elle-même la force qu’elle lui
-communique. Cependant une boule est cause naturelle du
-mouvement qu’elle communique. Une cause naturelle n’est donc
-point une cause réelle et véritable, mais seulement une cause
-occasionnelle et qui détermine l’auteur de la nature à agir de telle
-et telle manière en telle et telle rencontre.
-Il est constant que c’est par le mouvement des corps visibles
-ou invisibles que toutes choses se produisent, car l’expérience
-nous apprend que les corps dont les parties ont plus de
-mouvement sont toujours ceux qui agissent davantage et qui
-produisent plus de changement dans le monde. Toutes les forces
-de la nature ne sont donc que la volonté de Dieu toujours
-elîicace. Dieu a créé le monde parce qu’il l’a voulu : Dixit, et
-facta sunt ; et il remue toutes choses et produit ainsi tous les
-effets que nous voyons arriver, parce qu’il a voulu aussi certaines
-lois selon lesquelles les mouvements se communiquent à la
-rencontre des corps ; et parce que ces lois sont efficaces, elles
-agissent, et les corps ne peuvent agir. Il n’y a donc point de
-forces, de puissances, de causes véritables dans le monde
-matériel et sensible ; et il n’y faut point admettre de formes, de
-facultés et de qualités réelles pour produire des effets que les
-corps ne produisent point et pour partager avec Dieu la force et
-la puissance qui lui sont essentielles.
+For if we suppose, according to their view, that there exist in bodies certain entities distinct from matter; having no distinct idea of these entities, one can easily imagine that they are the true or principal causes of the effects we see occur. This is indeed the common opinion of ordinary philosophers; for it is mainly to explain these effects that they believe in substantial forms, real qualities, and other similar entities. But if one then carefully considers the idea one has of cause or power to act, one cannot doubt that this idea represents something divine. For the idea of a sovereign power is the idea of the supreme divinity; and the idea of a subordinate power is the idea of an inferior divinity, but of a true divinity, at least according to the thinking of the pagans, assuming it is the idea of a true power or cause. We therefore admit something divine in all the bodies surrounding us when we admit forms, faculties, qualities, virtues, or real beings capable of producing certain effects by the force of their nature; and thus we insensibly enter into the sentiment of the pagans through the respect we have for their philosophy. It is true that faith corrects us; but perhaps it may be said that if the heart is Christian, the foundation of the mind is pagan.
 
+Moreover, it is difficult to persuade oneself that one ought neither to fear nor to love true powers, beings that can act upon us, that can punish us with some pain or reward us with some pleasure. And since love and fear are true worship, it is still difficult to persuade oneself that one ought not to worship them. Everything that can act upon us as a true and real cause is necessarily above us, according to Saint Augustine and according to reason; and according to the same saint and the same reason, it is an immutable law that inferior things serve superior ones. It is for these reasons that this great saint acknowledges that the body cannot act upon the soul [8], and that nothing can be above the soul except God [9].
 
-Mais non-seulement les corps ne peuvent être causes
-véritables de quoi que ce soit, les esprits les plus nobles sont
-dans une semblable impuissance. Ils ne peuvent rien connaître si
-Dieu ne les éclaire. Ils ne peuvent rien sentir si Dieu ne les
-modifie. Ils ne sont capables de rien vouloir si Dieu ne les meut
-vers le bien en général. c’est-à-dire vers lui. Ils peuvent
-déterminer l’impression que Dieu leur donne pour lui vers
-d’autres objets que lui, je l’avoue ; mais je ne sais si cela se peut
-appeler puissance. Si pouvoir pécher est une puissance, ce sera
-une puissance que le Tout-Puissant n’a pas, dit quelque part saint
-Augustin. Si les hommes tenaient d’eux-mêmes la puissance
-d’aimer le bien, on pourrait dire qu’ils auraient quelque
-puissance ; mais les hommes ne peuvent aimer que parce que
-Dieu veut qu’íls aiment et que sa volonté est efficace. Les
-hommes ne peuvent aimer que parce que Dieu les pousse sans
-cesse vers le bien en général, c’est-à-dire vers lui ; car Dieu ne
-les ayant crées que pour lui, il ne les conserve jamais sans les
-tourner et sans les pousser vers lui. Ce ne sont pas eux qui se
-meuvent vers le bien en général, c’est Dieu qui les meut. Ils
-suivent seulement par un choix entièrement libre cette impression
-selon la loi de Dieu, ou ils la déterminent vers de faux biens
-selon la loi de la chair ; mais ils ne peuvent la déterminer que par
-la vue du bien, car, ne pouvant que ce que Dieu leur fait faire, ils
-ne peuvent aimer que le bien.
+In the Holy Scriptures, when God proves to the Israelites that they must worship Him—that is, that they must fear and love Him—the principal reasons He gives are drawn from His power to reward and to punish them. He represents to them the benefits they have received from Him, the evils with which He has chastised them, and that He still possesses the same power. He forbids them to worship the gods of the pagans because they have no power over them and can do them neither good nor harm. He wishes that only He be honored, because He alone is the true cause of good and evil, and that nothing happens in their city, according to a prophet [10], that He does not Himself bring about; because natural causes are not the true causes of the evil they seem to inflict on us, and since it is God alone who acts in them, it is He alone whom we must fear and love in them: *Soli Deo honor et gloria* (To God alone be honor and glory).
 
+Finally, this sentiment that we must fear and love what can be the true cause of good and evil appears so natural and so just that it is impossible to rid ourselves of it. So that, if we suppose this false opinion of the philosophers, which we are here trying to destroy—namely, that the bodies surrounding us are the true causes of the pleasures and pains we feel—reason seems in a way to justify a religion similar to those of the pagans, and to approve the universal disorder of morals. It is true that reason does not teach that we must worship onions and leeks, for example, as the supreme divinity, because they cannot make us entirely happy when we have them, nor entirely miserable when we lack them. Nor did the pagans ever render them as much honor as they did to great Jupiter, on whom all their divinities depended; or to the sun, which our senses represent to us as the universal cause that gives life and motion to all things, and which one cannot help but regard as a divinity if one supposes, with the pagan philosophers, that it contains within its being the true causes of all that it seems to produce not only in our body and on our mind, but also in all the beings surrounding us. But if we ought not to render sovereign honor to leeks and onions, we can always render them some particular adoration; I mean that we can think of them and love them in some manner; if it is true that they can in some way make us happy, we ought to honor them in proportion to the good they can do. And certainly men who listen to the reports of their senses think that these vegetables are capable of doing them good. For the Israelites, for example, would not have regretted them so strongly in the desert, nor considered themselves unhappy for being deprived of them, if they had not imagined themselves in some way happy by enjoying them. Drunkards would perhaps not love wine so much if they knew well what it is, and that the pleasure they find in drinking it comes from the Almighty who commands them temperance, and which they unjustly serve their intemperance with. These are the disorders into which reason itself engages us when it is joined to the principles of pagan philosophy and when it follows the impressions of the senses.
 
-Mais quand on supposerait, ce qui est vrai en un sens, que les
-esprits ont en eux-mêmes la puissance de connaître la vérité et
-d’aimer le bien ; si leurs pensées et leurs volontés ne
-produisaient rien au-dehors, on pourrait toujours dire qu’ils ne
-peuvent rien. Or, il me paraît très-certain que la volonté des
-esprits n’est pas capable de mouvoir le plus petit corps qu’il y ait au monde ; car il est évident qu’il n’y a point de liaison
-nécessaire entre la volonté que nous avons, par exemple, de
-remuer notre bras, et le mouvement de notre bras. Il est vrai qu’il
-se remue lorsque nous le voulons ; et qu’ainsi nous sommes la
-cause naturelle du mouvement de notre bras. Mais les causes
-naturelles ne sont point de véritables causes, ce ne sont que des
-causes occasionnelles qui n’agissent que par la force et l'efficace
-de la volonté de Dieu, comme je viens de l’expliquer.
-Car comment pourrions-nous remuer notre bras ? Pour le
-remuer il faut avoir des esprits animaux, les envoyer par de
-certains nerfs vers de certains muscles pour les enfler et les
-raccourcir, car c’est ainsi que le bras qui y est attaché se remue,
-ou selon le sentiment de quelques autres on ne sait encore
-comment cela se fait. Et nous voyons que les hommes qui ne
-savent pas seulement s’ils ont des esprits, des nerfs et des
-muscles remuent leur bras, et le remuent même avec plus
-d’adresse et de facilité que ceux qui savent le mieux l’anatomie.
-C’est donc que les hommes veulent remuer leur bras et qu”il n’y
-a que Dieu qui le puisse et qui le sache remuer. Si un homme ne
-peut pas renverser une tour, du moins sait-il ce qu’il faut faire
-pour la renverser ; mais il n’y a point d’homme qui sache
-seulement ce qu’il faut faire pour remuer un de ses doigts par le
-moyen des esprits animaux. Comment donc les hommes
-pourraient-ils remuer leurs bras ? Ces choses me paraissent
-évidentes et, ce me semble, à tous ceux qui veulent penser,
-quoiqu’elles soient peut-être incompréhensibles à tous ceux qui
-ne veulent que sentir.
+In order that no one may any longer doubt the falsity of this miserable philosophy, and that one may clearly recognize the solidity of the principles and the clarity of the ideas used, it is necessary to clearly establish the truths that are opposed to the errors of the ancient philosophers, and to prove in few words that there is only one true cause, because there is only one true God; that the nature or force of each thing is nothing but the will of God; that all natural causes are not true causes, but only occasional causes; and some other truths that will follow from these.
 
-Mais non-seulement les hommes ne sont point les véritables
-causes des mouvements qu’ils produisent dans leur corps, il
+It is evident that all bodies, large and small, do not have the force to move themselves. A mountain, a house, a stone, a grain of sand, finally the smallest or the largest of the bodies one can conceive, has no force to move itself. We have only two kinds of ideas: ideas of mind, ideas of body; and since we ought to say only what we conceive, we ought to reason only according to these two ideas. Thus, since the idea we have of all bodies makes us know that they cannot move themselves, we must conclude that it is minds that move them. But when one examines the idea one has of all finite minds, one sees no necessary connection between their will and the motion of any body whatever; on the contrary, one sees that there is none and that there can be none. We must therefore also conclude, if we wish to reason according to our lights, that no created mind can move any body whatever as a true or principal cause, just as we have said that no body can move itself.
 
-semble même qu’il y ait contradiction qu’ils puissent l’ètre. Une
-cause véritable est une cause entre laquelle et son effet l’esprit
-aperçoit une liaison nécessaire, c’est ainsi que je l’entends. Or il
-n’y a que l’être infiniment parfait entre la volonté duquel et les
-effets l’esprit aperçoive une liaison nécessaire. Il n’y a donc que
-Dieu qui soit véritable cause et qui ait véritablement la puissance
-de mouvoir les corps. Je dis de plus qu’il n’est pas concevable
-que Dieu puisse communiquer aux hommes ou aux anges la
-puissance qu’íl a de remuer les corps, et que ceux qui prétendent
-que le pouvoir que nous avons de remuer nos bras est une
-véritable puissance, doivent avouer que Dieu peut aussi donner
-aux esprits la puissance de créer, d’anéantir, de faire toutes les
-choses possibles, en un mot qu’il peut les rendre tout-puissants,
-comme je vais le faire voir.
+But when one thinks of the idea of God, that is, of a being infinitely perfect and consequently all-powerful, one knows that there is such a connection between His will and the motion of all bodies that it is impossible to conceive that He wills a body to be moved and that this body is not moved. We must therefore say that only His will can move bodies, if we wish to speak of things as we conceive them and not as we feel them. The moving force of bodies is therefore not in the bodies that move, since this moving force is nothing other than the will of God. Thus, bodies have no action; and when a moving ball meets another and moves it, it communicates nothing that it possesses, for it does not itself have the force it communicates. However, a ball is the natural cause of the motion it communicates. A natural cause is therefore not a real and true cause, but only an occasional cause which determines the author of nature to act in such and such a manner in such and such an encounter.
 
-Dieu n'a pas besoin d'instruments pour agir, il suffit qu'il
-veuille
-[11] afin qu’une chose soit, parce qu’il y a contradiction
-qu’il veuille et que ce qu’il veut ne soit pas. Sa puissance est
-donc sa volonté, et communiquer sa puissance c’est communiquer
-l'efficace de sa volonté. Mais communiquer cette efficace à un
-homme ou à un ange ne peut signifier autre chose que vouloir que,
-lorsqu’un homme ou qu’un ange voudra qu’un tel corps, par
-exemple, soit mu, ce corps soit effectivement mu. Or, en ce cas,
-je vois deux volontés qui concourent lorsqu’un ange remuera un
-corps, celle de Dieu et celle de l'ange ; et afin de connaître
-laquelle des deux sera la véritable cause du mouvement de ce
-corps, il faut savoir quelle est celle qui est efficace. Il y a une
-liaison nécessaire entre la volonté de Dieu et la chose qu’il veut.
-Dieu veut en ce cas que, lorsqu’un ange voudra qu’un tel corps
-soit mu, ce corps soit mu. Donc il y a une liaison nécessaire entre
-la volonté de Dieu et le mouvement de ce corps ; et par conséquent c'est Dieu qui est véritable cause du mouvement de ce
-corps, et la volonté de l'ange n’est que cause occasionnelle.
-Mais pour le faire voir encore plus clairement, supposons que
-Dieu veuille faire le contraire de ce que voudraient quelques
-esprits, comme on le peut penser des démons ou de quelques
-autres esprits qui méritent cette punition ; on ne pourrait pas dire
-en ce cas que Dieu leur communiquerait sa puissance, puisqu’ils
-ne pourraient rien faire de ce qu’ils souhaiteraient. Cependant les
-volontés de ces esprits seraient des causes naturelles des effets
-qui se produiraient. Tels corps ne seraient mus à droite que parce
-que ces esprits voudraient qu’ils fussent mus à gauche ; et les
-désirs de ces esprits détermineraient la volonté de Dieu à agir,
-comme nos volontés de remuer les parties de notre corps
-déterminent la première cause à les remuer. De sorte que toutes
-les volontés des esprits ne sont que des causes occasionnelles.
-Que si après toutes ces raisons l’on voulait encore soutenir
-que la volonté d’un ange qui remuerait quelque corps serait une
-véritable cause, et non pas une cause occasionnelle, il est évident
-que ce même ange pourrait être véritable cause de la création et
-de l’anéantissement de toutes choses. Car Dieu lui pourrait
-communiquer sa puissance de créer et d’anéantir les corps,
-comme celle de les remuer, s’il voulait que les choses fussent
-créées et anéanties ; en un mot, s’il voulait que toutes choses
-arrivassent comme l’ange le souhaiterait, de même qu’il a voulu
-que les corps fussent mus comme l’ange le voudrait. Si l’on
-prétend donc pouvoir dire qu’un ange et qu’un homme soient
-véritablement moteurs à cause que Dieu remue les corps
-lorsqu’ils le souhaitent ; il faut dire aussi qu’un homme et qu’un
-ange peuvent être véritablement créateurs, puisque Dieu peut créer des êtres lorsqu’ils le voudront. Peut-être même qu’on
-pourrait dire que les plus vils des animaux, ou que la matière
-toute seule serait effectivement cause de la création de quelque
-substance, si l’on supposait comme les philosophes qu’à
-I’exigence de la matière Dieu produisit les formes substantielles.
-Enfin, parce que Dieu a résolu de toute éternité de créer en
-certains temps, certaines choses, on pourrait dire aussi que ces
-temps seraient causes de la création de ces êtres ; de même qu’on
-prétend qu’une boule qui en rencontre une autre est la véritable
-cause du mouvement qu’elle lui communique, à cause que Dieu a
-voulu par sa volonté générale qui fait l’ordre de la nature, que
-lorsque deux corps se rencontreraient il se fit une telle et telle
-communication de mouvement.
+It is constant that it is through the motion of visible or invisible bodies that all things are produced, for experience teaches us that bodies whose parts have more motion are always those that act more and produce more change in the world. All the forces of nature are therefore only the will of God, always efficacious. God created the world because He willed it: *Dixit, et facta sunt* (He spoke, and it was done); and He moves all things and thus produces all the effects we see occur, because He also willed certain laws according to which motions are communicated upon the encounter of bodies; and because these laws are efficacious, they act, and bodies cannot act. There are therefore no forces, powers, or true causes in the material and sensible world; and we must not admit forms, faculties, and real qualities to produce effects that bodies do not produce, nor to share with God the force and power essential to Him.
 
-Il n’y a donc qu’un seul vrai Dieu et qu’une seule cause qui
-soit véritablement cause, et l’on ne doit pas s’imaginer que ce qui
-précède un effet en soit la véritable cause. Dieu ne peut même
-communiquer sa puissance aux créatures, si nous suivons les
-lumières de la raison, il n’en peut faire de véritables causes, il
-n’en peut faire des dieux. Mais quand il le pourrait, nous ne
-pouvons concevoir pourquoi il le voudrait. Corps, esprits, pures
-intelligences tout cela ne peut rien. C’est celui qui a fait les
-esprits qui les éclaire et qui les agite. C’est celui qui a créé le
-ciel et la terre qui en règle les mouvements. Enfin c’est l’auteur
-de notre être qui exécute nos volontés ; Semel jussít, semper
-paret. Il remue même notre bras lorsque nous nous en servons
-contre ses ordres ; car il se plaint par son prophète
-[12]
-, que nous
-le faisons servir à nos désirs injustes et criminels.
+But not only can bodies not be true causes of anything; the noblest minds are in a similar impotence. They can know nothing if God does not enlighten them. They can feel nothing if God does not modify them. They are capable of willing nothing if God does not move them toward the good in general, that is, toward Himself. They can determine the impression God gives them for Himself toward other objects than Himself, I admit; but I do not know if this can be called power. If the power to sin is a power, it will be a power that the Almighty does not have, says Saint Augustine somewhere. If men held from themselves the power to love the good, one could say that they had some power; but men can love only because God wills that they love and because His will is efficacious. Men can love only because God constantly pushes them toward the good in general, that is, toward Himself; for God, having created them only for Himself, never preserves them without turning and pushing them toward Himself. It is not they who move themselves toward the good in general; it is God who moves them. They only follow by a completely free choice this impression according to the law of God, or they determine it toward false goods according to the law of the flesh; but they can determine it only by the view of the good, for, being able to do only what God makes them do, they can love only the good.
 
-Toutes ces petites divinités des païens et toutes ces causes
-particulières des philosophes ne sont que des chimères, que le malin esprit tâche d’établir pour ruiner le culte du vrai Dieu,
-pour en occuper des esprits et des cœurs que le Créateur n’a faits
-que pour lui. Ce n’est point la philosophie que l’on a reçue
-d’Adam qui apprend ces choses, c’est celle que l’on a reçue du
-serpent, car depuis le péché l’esprit de l’homme est tout païen.
-C’est cette philosophie qui, jointe aux erreurs des sens, a fait
-adorer le soleil, et qui est encore aujourd’hui la cause
-universelle du dérèglement de l'esprit et de la corruption du cœur
-des hommes. Pourquoi, disent-ils par leurs actions, et
-quelquefois même par leurs paroles, n’aimerons nous pas le
-corps, puisque les corps sont capables de nous combler de
-plaisirs ? Et pourquoi se moque-t-on des Israélites qui
-regrettaient les choux et les oignons de l’Égypte, puisqu’ils
-étaient effectivement malheureux, étant privés de ce qui pouvait
-les rendre en quelque manière heureux ? Mais la philosophie que
-l’on appelle nouvelle, que l’on représente comme un spectre pour
-effrayer les esprits faibles, que l’on méprise et que l’on
-condamne sans l’entendre ; la philosophie nouvelle, dis-je,
-puisqu’on se plait à l’appeler ainsi, ruine toutes les raisons des
-libertins par l’établissement du plus grand de ses principes, qui
-s’accorde parfaitement avec le premier principe de la religion
-chrétienne : qu’il ne faut aimer et craindre qu’un Dieu, puisqu’il
-n’y a qu’un Dieu qui nous puisse rendre heureux.
+But even if we supposed, which is true in a sense, that minds have within themselves the power to know the truth and to love the good; if their thoughts and their volitions produced nothing outside themselves, one could still say that they can do nothing. Now, it seems to me very certain that the will of minds is not capable of moving the smallest body in the world; for it is evident that there is no necessary connection between the will we have, for example, to move our arm, and the motion of our arm. It is true that it moves when we will it; and thus we are the natural cause of the motion of our arm. But natural causes are not true causes; they are only occasional causes which act only by the force and efficacy of the will of God, as I have just explained.
 
-Car, si la religion nous apprend qu’il n’y a qu’un vrai Dieu,
-cette philosophie nous fait connaître qu’il n'y a qu’une véritable
-cause. Si la religion nous apprend que toutes les divinités du
-paganisme ne sont que des pierres et des métaux sans vie et sans
-mouvement. cette philosophie nous découvre aussi que toutes les
-causes secondes, ou toutes les divinités de la philosophie, ne sont
-que de la matière et des volontés inefficaces. Enfin, si la religion nous apprend qu’il ne faut point fléchir le genou devant des dieux
-qui ne sont point dieux, cette philosophie nous apprend aussi que
-notre imagination et notre esprit ne doivent point s’abattre devant
-la grandeur et la puissance imaginaire des causes qui ne sont
-point causes ; qu’il ne faut ni les aimer, ni les craindre ; qu’il ne
-faut point s’en occuper ; qu’il ne faut penser qu’à Dieu seul, voir
-Dieu en toutes choses, adorer Dieu en toutes choses, craindre et
-aimer Dieu en toutes choses.
+For how could we move our arm? To move it, we must have animal spirits, send them through certain nerves toward certain muscles to inflate and shorten them, for this is how the arm attached to them moves, or according to the opinion of some others, we do not yet know how it is done. And we see that men who do not even know if they have spirits, nerves, and muscles move their arms, and move them even with more skill and ease than those who know anatomy best. It is therefore that men will to move their arms, and only God can and knows how to move them. If a man cannot overturn a tower, at least he knows what must be done to overturn it; but there is no man who knows even what must be done to move one of his fingers by means of animal spirits. How then could men move their arms? These things seem evident to me, and it seems to me, to all who wish to think, although they may be incomprehensible to all who wish only to feel.
 
-Mais ce n’est pas là l’inclination de quelques philosophes, ils
-ne veulent point voir Dieu, ils ne veulent point penser à Dieu ;
-car depuis le péché il y à une secrète opposition entre l’homme et
-Dieu. Ils prennent plaisir à se fabriquer des dieux à leur fantaisie,
-et ils aiment et craignent volontiers les fictions de leur
-imagination, comme les païens les ouvrages de leurs mains. Ils
-sont semblables aux enfants qui tremblent devant leurs
-compagnons après les avoir barbouillés. Ou si l’on veut une
-comparaison plus noble, quoiqu’elle ne soit peut-être pas si
-juste, ils ressemblent à ces fameux Romains qui avaient de la
-crainte et du respect pour les fictions de leur esprit, et qui
-adoraient sottement leurs empereurs après avoir lâché l’aigle
-dans leurs apothéoses.
+But not only are men not the true causes of the movements they produce in their bodies; it even seems that there is a contradiction in their being so. A true cause is a cause between which and its effect the mind perceives a necessary connection; this is how I understand it. Now there is only the infinitely perfect being between whose will and effects the mind perceives a necessary connection. Therefore only God is a true cause and truly has the power to move bodies. I add that it is inconceivable that God can communicate to men or angels the power He has to move bodies, and that those who claim that the power we have to move our arms is a true power must admit that God can also give minds the power to create, to annihilate, to do all possible things, in short, that He can make them all-powerful, as I am about to show.
+
+God does not need instruments to act; it suffices that He wills [11] for a thing to be, because it is contradictory that He wills and that what He wills is not. His power is therefore His will, and to communicate His power is to communicate the efficacy of His will. But to communicate this efficacy to a man or an angel can mean nothing other than to will that, when a man or an angel wills that such a body, for example, be moved, this body is effectively moved. Now, in this case, I see two wills concurring when an angel moves a body, that of God and that of the angel; and to know which of the two is the true cause of the motion of this body, we must know which is efficacious. There is a necessary connection between the will of God and the thing He wills. God wills in this case that, when an angel wills that such a body be moved, this body is moved. Therefore there is a necessary connection between the will of God and the motion of this body; and consequently it is God who is the true cause of the motion of this body, and the will of the angel is only an occasional cause.
+
+But to make this even clearer, let us suppose that God wills to do the contrary of what some minds would wish, as one might think of demons or some other spirits who deserve this punishment; one could not say in this case that God communicates His power to them, since they could do nothing of what they desired. However, the volitions of these spirits would be natural causes of the effects produced. Such bodies would be moved to the right only because these spirits wished them to be moved to the left; and the desires of these spirits would determine the will of God to act, just as our volitions to move the parts of our body determine the first cause to move them. So that all the volitions of spirits are only occasional causes. If after all these reasons one still wanted to maintain that the will of an angel moving some body would be a true cause, and not an occasional cause, it is evident that this same angel could be the true cause of the creation and annihilation of all things. For God could communicate to him His power to create and annihilate bodies, just as that of moving them, if He willed that things be created and annihilated; in short, if He willed that all things happen as the angel wished, just as He has willed that bodies be moved as the angel wishes. If one therefore claims to be able to say that an angel and a man are truly movers because God moves bodies when they wish it; one must also say that a man and an angel can be truly creators, since God can create beings when they wish it. Perhaps one could even say that the vilest animals, or matter alone, would effectively be the cause of the creation of some substance, if one supposed, like the philosophers, that God produced substantial forms at the exigency of matter. Finally, because God has resolved from eternity to create certain things at certain times, one could also say that these times were causes of the creation of these beings; just as one claims that a ball meeting another is the true cause of the motion it communicates to it, because God has willed by His general will, which makes the order of nature, that when two bodies meet, such and such a communication of motion occurs.
+
+There is therefore only one true God and only one cause that is truly a cause, and one must not imagine that what precedes an effect is its true cause. God cannot even communicate His power to creatures, if we follow the lights of reason; He cannot make them true causes, He cannot make them gods. But even if He could, we cannot conceive why He would wish to. Bodies, minds, pure intelligences—all these can do nothing. It is He who made minds who enlightens and agitates them. It is He who created heaven and earth who regulates their movements. Finally, it is the author of our being who executes our wills; *Semel jussit, semper paret* (He commanded once, it obeys always). He even moves our arm when we use it against His orders; for He complains through His prophet [12] that we make it serve our unjust and criminal desires.
+
+All these little divinities of the pagans and all these particular causes of the philosophers are only chimeras, which the evil spirit tries to establish to ruin the worship of the true God, to occupy minds and hearts that the Creator made only for Himself. It is not the philosophy received from Adam that teaches these things; it is that which was received from the serpent, for since the fall, the mind of man is entirely pagan. It is this philosophy which, joined to the errors of the senses, caused the sun to be worshipped, and which is still today the universal cause of the disorder of the mind and the corruption of the heart of men. Why, they say by their actions, and sometimes even by their words, should we not love the body, since bodies are capable of filling us with pleasures? And why mock the Israelites who regretted the cabbages and onions of Egypt, since they were effectively unhappy, being deprived of what could make them in some way happy? But the philosophy called new, which is represented as a specter to frighten weak minds, which is despised and condemned without being understood; the new philosophy, I say, since people take pleasure in calling it so, ruins all the arguments of libertines by establishing the greatest of its principles, which agrees perfectly with the first principle of the Christian religion: that we must love and fear only one God, since there is only one God who can make us happy.
+
+For, if religion teaches us that there is only one true God, this philosophy makes us know that there is only one true cause. If religion teaches us that all the divinities of paganism are only lifeless and motionless stones and metals, this philosophy also reveals to us that all second causes, or all the divinities of philosophy, are only matter and inefficacious wills. Finally, if religion teaches us that we must not bend the knee before gods who are not gods, this philosophy also teaches us that our imagination and our mind must not bow before the imaginary greatness and power of causes that are not causes; that we must neither love nor fear them; that we must not occupy ourselves with them; that we must think only of God, see God in all things, adore God in all things, fear and love God in all things.
+
+But this is not the inclination of some philosophers; they do not wish to see God, they do not wish to think of God; for since the fall there is a secret opposition between man and God. They take pleasure in fabricating gods according to their fancy, and they willingly love and fear the fictions of their imagination, as the pagans did the works of their hands. They are like children who tremble before their companions after having smeared them. Or if one wants a nobler comparison, although it may not be so just, they resemble those famous Romans who had fear and respect for the fictions of their mind, and who foolishly adored their emperors after having released the eagle in their apotheoses.

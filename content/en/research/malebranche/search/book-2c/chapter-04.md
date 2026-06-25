@@ -1,6 +1,16 @@
-CHAPITRE IV.
+---
+heading: Chapter 4
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
 
 De l’imagination de Sénèque.
+
 L’imagination de Sénèque n’est quelquefois pas míeux réglée
 que celle de Tertullien. Ses mouvements impétueux l’emportent
 souvent dans des pays qui lui sont inconnus, où néanmoins il

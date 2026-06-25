@@ -1,196 +1,42 @@
+---
+heading: Chapter 1
+title: "The Nature and Origin of the Passions in General"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-LIVRE CINQUIÈME.
-DES PASSIONS.
-CHAPITRE PREMIER.
+The human mind has two essential or necessary relations that are very different: one to God, the other to its body. As a pure spirit, it is essentially united to the Word of God, to wisdom and eternal truth, that is, to sovereign reason; for it is only through this union that it is capable of thinking, as has been seen in the third book. As a human spirit, it has an essential relation to its body; for it is because it is united to the body that it feels and imagines, as has been explained in the first and second books. The mind is called sense or imagination when its body is the natural or occasional cause of its thoughts; and it is called understanding when it acts by itself, or rather when God acts in it and His light enlightens it in various different ways without any necessary relation to what passes in its body.
 
-De la nature et de l’origine des passions en général.
-L'esprit de l’homme a deux rapports essentiels ou nécessaires
-fort différents ; l’un à Dieu, l’autre à son corps. Comme pur
-esprit, il est essentiellement uni au Verbe de Dieu, à la sagesse et
-à la vérité éternelle, c’est-à-dire à la souveraine raison ; car ce
-n’est que par cette union qu’il est capable de penser, ainsi que
-l’on a vu dans le troisième livre. Comme esprit humain, il a un
-rapport essentiel à son corps ; car c’est à cause qu’il lui est uni
-qu’il sent et qu’il imagine, comme l’on a expliqué dans le
-premier et dans le second livre. On appelle sens ou imagination
-l’esprit, lorsque son corps est cause naturelle ou occasionnelle
-de ses pensées ; et on l’appelle entendement lorsqu’il agit par
-lui-même, ou plutôt lorsque Dieu agit en lui et que sa lumière
-l’éclaire en plusieurs façons différentes sans aucun rapport
-nécessaire à ce qui se passe dans son corps.
-Il en est de même de la volonté de l’homme. Comme volonté,
-elle dépend essentiellement de l’amour que Dieu se porte à luimême et de la loi éternelle, en un mot, de la volonté de Dieu. Ce n’est que parce que Dieu s’aime que nous aimons quelque chose ;
-et si Dieu ne s’aimait pas, ou s’il n’imprimait sans cesse dans
-l’âme de l’homme un amour pareil au sien, c’est-à-dire ce
-mouvement d’amour que nous sentons pour le bien en général,
-nous n’aimerions rien, nous ne voudrions rien, et par conséquent
-nous serions sans volonté ; puisque la volonté n’est autre chose
-que l’impression de la nature qui nous porte vers le bien en
-général, comme nous avons déjà dit plusieurs fois.
-Mais la volonté, comme volonté d’un homme, dépend
-essentiellement du corps ; car ce n’est qu’à cause des
-mouvements du sang, ou plutôt des esprits animaux, qu’elle se
-sent agitée de toutes les émotions sensibles. J’ai donc appelé
-inclinations naturelles tous les mouvements de l’âme qui nous
-sont communs avec les pures intelligences ; et quelques-uns de
-ceux auxquels le corps a beaucoup de part, mais dont il n’est
-qu’indirectement et la cause et la fin, je les ai expliqués dans le
-livre précédent ; et j’appelle ici passions toutes les émotions que
-l’âme ressent naturellement à l’occasion des mouvements
-extraordinaires des esprits animaux et du sang. Ce sont ces
-émotions sensibles qui feront le sujet de ce livre.
-Quoique les passions soient inséparables des inclinations et
-que les hommes ne soient capables de quelque amour ou de
-quelque haine sensible que parce qu’ils sont capables d’un amour
-et d’une haine spirituelle ; on a cru cependant qu’il était à propos
-de les traiter séparément, afin d’éviter la confusion. Si l’on
-considère que les passions sont beaucoup plus fortes et plus
-vives que les inclinations naturelles, qu’elles ont pour l’ordinaire
-d’autres objets, et qu’elles sont toujours produites par d’autres
-causes, on reconnaîtra que ce n’est pas sans raison qu’on sépare des choses qui sont inséparables par leur nature.
-Les hommes ne sont capables de sensations et d’imaginations
-que parce qu’ils sont capables de pures intellections, les sens et
-l’imagination étant inséparables de l’esprit ; et néanmoins
-personne ne trouve à redire que l’on traite séparément de ces
-facultés de l’âme, quoiqu’elles soient naturellement inséparables.
-Enfin les sens et l’imagination ne diffèrent pas davantage de
-l’entendement pur que les passions diffèrent des inclinations.
-Ainsi il fallait séparer ces deux dernières facultés comme on a
-coutume de séparer les trois premières, afin de faire mieux
-discerner ce que l’âme reçoit de son auteur par rapport au corps
-d’avec ce qu’elle tient de lui sans ce rapport. Le seul
-inconvénient qui naitra naturellement de cette séparation de deux
-choses naturellement unies sera, comme il arrive toujours dans de
-pareilles occasions, la nécessité de répéter quelque chose de ce
-qu’on a déjà dit.
+It is the same with the will of man. As will, it depends essentially on the love that God bears to Himself and on the eternal law, in a word, on the will of God. It is only because God loves Himself that we love something; and if God did not love Himself, or if He did not constantly imprint in the soul of man a love similar to His own, that is, this movement of love that we feel for the good in general, we would love nothing, we would will nothing, and consequently we would be without will; since the will is nothing other than the impression of nature which carries us toward the good in general, as we have already said several times.
 
-L’homme est un, quoiqu’il soit composé de plusieurs parties ;
-et l’union de ces parties est si étroite qu’on ne peut le toucher en
-un endroit qu’on ne le remue tout entier. Toutes ses facultés se
-tiennent et sont tellement subordonnées qu’il est impossible d’en
-bien expliquer quel qu’une sans dire quelque chose des autres.
-Ainsi, en tâchant de se faire un ordre pour éviter la confusion,
-l’on se trouve obligé de répéter. Mais il vaut mieux répéter que
-de confondre, parce qu’il faut se rendre intelligible ; et dans cette
-nécessité de répéter, ce qui se peut faire de mieux est de répéter
-sans ennuyer.
+But the will, as the will of a man, depends essentially on the body; for it is only because of the movements of the blood, or rather of the animal spirits, that it feels itself agitated by all sensible emotions. I have therefore called *natural inclinations* all the movements of the soul that we have in common with pure intelligences; and some of those in which the body has a large part, but of which it is only indirectly the cause and the end, I explained in the previous book; and I call here *passions* all the emotions that the soul naturally feels on the occasion of the extraordinary movements of the animal spirits and of the blood. It is these sensible emotions that will be the subject of this book.
 
-Les passions de l’âme sont des impressions de l’auteur de la
-nature, lesquelles nous inclinent à aimer notre corps et tout ce qui
-peut être utile à sa conservation ; comme les inclinations
-naturelles sont des impressions de l’auteur de la nature,
-lesquelles nous portent principalement à l’aimer comme
-souverain bien et notre prochain sans rapport au corps.
-La cause naturelle ou occasionnelle de ces impressions est le
-mouvement des esprits animaux qui se répandent dans le corps
-pour y produire et pour y entretenir une disposition convenable il
-l’objet que l’on aperçoit, afin que l’esprit et le corps s’aident
-mutuellement dans cette rencontre ; car c’est par l’action
-continuelle de Dieu que nos volontés sont suivies de tous les
-mouvements de notre corps qui sont propres pour les exécuter, et
-que les mouvements de notre corps, lesquels s’excitent
-machinalement en nous par la vue de quelque objet, sont
-accompagnés d’une passion de notre âme qui nous incline à
-vouloir ce qui paraît alors utile au corps. C’est cette impression
-efficace et continuelle de la volonté de Dieu sur nous qui nous
-unit si étroitement à une portion de la matière ; et si cette
-impression de sa volonté cessait un moment, nous serions des ce
-moment délivrés de la dépendance où nous sommes de tous les
-changements qui arrivent à notre corps.
+Although the passions are inseparable from the inclinations and that men are capable of some sensible love or hatred only because they are capable of a spiritual love and hatred; it has nevertheless been thought appropriate to treat them separately, in order to avoid confusion. If one considers that the passions are much stronger and more vivid than natural inclinations, that they usually have different objects, and that they are always produced by different causes, one will recognize that it is not without reason that one separates things that are inseparable by their nature.
 
-Car on ne peut comprendre comment certaines gens
-s’imaginent qu’il y à une liaison absolument nécessaire entre les
-mouvements des esprits et du sang et les émotions de l’âme.
-Quelques petites parties de la bile se remuent dans le cerveau
-avec quelque force ; donc il est nécessaire que l’âme soit agitée
-de quelque passion, et que cette passion soit plutôt la colère que
-l’amour. Quel rapport peut-on concevoir entre l’idée des défauts
-d’un ennemi, une passion de mépris ou de haine, et entre le
-mouvement corporel des parties du sang qui heurtent contre
-quelques parties du cerveau ? Comment se peut-on persuader que les uns dépendent des autres, et que l’union ou l’alliance de deux
-choses aussi éloignées et aussi inalliables que l’esprit et la
-matière puisse être causée et entretenue d’une autre manière que
-par la volonté continuelle et toute puissante de l’auteur de la
-nature
-Ceux qui pensent que les corps se communiquent
-nécessairement et par eux-mêmes leur mouvement dans le
-moment de leur rencontre, pensent quelque chose de
-vraisemblable. Car enfin ce préjugé a quelque fondement. Les
-corps semblent avoir essentiellement rapport aux corps
-[1]
-. Mais
-l’esprit et le corps sont deux genres d’êtres si opposés, que ceux
-qui pensent que les émotions de l’âme suivent nécessairement les
-mouvements des esprits et du sang, pensent une chose qui n’a pas
-la moindre apparence. Il n’y a certainement que l’expérience que
-nous sentons dans nous mêmes de l’union de ces deux êtres, et
-l’ignorance des opérations continuelles de Dieu sur ses créatures,
-qui nous fasse imaginer d’autre cause de l’union de notre âme
-avec notre corps que la volonté de Dieu toujours efficace.
-Il est difficile de déterminer positivement si ce rapport ou
-cette alliance des pensées de l’esprit de l’homme avec les
-mouvements de son corps est une peine de son péché ou un don
-de la nature ; et quelques personnes croient que c’est prendre
-parti trop légèrement que d’embrasser une de ces opinions plutôt
-que l’autre. On sait bien que l’homme, avant son péché, n’était
-point l’esclave mais le maître absolu de ses passions, et qu’il
-arrêtait sans peine par sa volonté l’agitation des esprits qui les
-causaient. Mais on a de la peine à se persuader que le corps ne
-sollicitait point l’áme du premier homme à la recherche des
-choses qui étaient propres à la conservation de sa vie. On a quelque peine à croire qu’Adam ne trouvait point avant son
-péché que les fruits fussent agréables à la vue et délicats au goût
-après ce qu’en dit l’Écriture, et que cette économie si juste et si
-merveilleuse des sens et des passions pour la conservation du
-corps, soit une corruption de la nature plutôt que sa première
-institution
-[2]
+Men are capable of sensations and imaginations only because they are capable of pure intellections, the senses and the imagination being inseparable from the mind; and yet no one finds fault with treating these faculties of the soul separately, although they are naturally inseparable. Finally, the senses and the imagination do not differ from the pure understanding any more than the passions differ from the inclinations. Thus it was necessary to separate these last two faculties as one is accustomed to separate the first three, in order to better discern what the soul receives from its author in relation to the body from what it holds from Him without this relation. The only inconvenience that will naturally arise from this separation of two things naturally united will be, as always happens in such occasions, the necessity of repeating something of what has already been said.
 
-Sans doute la nature est présentement corrompue : le corps agit
-avec trop de force sur l’esprit. Au lieu de lui représenter ses
-besoins avec respect, il le tyrannise et l’arrache à Dieu, à qui il
-doit être inséparablement uni, et il l’applique sans cesse à la
-recherche des choses sensibles qui peuvent être utiles à sa
-conservation. L’esprit est devenu comme matériel et comme
-terrestre après le péché. Le rapport et l’union étroite qu’il avait
-avec Dieu s’est perdue : je veux dire que Dieu s’est retiré de lui
-autant qu’il le pouvait. sans le perdre et sans l’anéantir. Mille
-désordres se sont suivis de l’absence ou de l’éloignement de
-celui qui le conservait dans l’ordre ; et, sans faire une plus
-longue déduction de nos misères, j’avoue que l’homme est
-corrompu en toutes ses parties depuis sa chute.
+Man is one, although he is composed of several parts; and the union of these parts is so close that one cannot touch him in one place without moving him entirely. All his faculties hold together and are so subordinate that it is impossible to explain any one of them well without saying something of the others. Thus, in trying to establish an order to avoid confusion, one finds oneself obliged to repeat. But it is better to repeat than to confuse, because one must make oneself intelligible; and in this necessity of repeating, the best that can be done is to repeat without boring.
 
+The passions of the soul are impressions of the author of nature, which incline us to love our body and everything that can be useful to its preservation; just as natural inclinations are impressions of the author of nature, which carry us principally to love Him as the sovereign good and our neighbor without relation to the body.
 
-Mais cette chute n’a pas détruit l’ouvrage de Dieu. On
-reconnaît toujours dans l’homme ce que Dieu y a mis ; et sa
-volonté immuable, qui fait la nature de chaque chose, n’a point
-été changée par l’inconstance et la légèreté de la volonté
-d’Adam. Tout ce que Dieu a voulu, il le veut encore ; et parce
-que sa volonté est efficace, il le fait. Le péché de l’homme a bien
-été l’occasion de cette volonté de Dieu qui fait l’ordre de la
-grâce. Mais la grâce n’est point contraire à la nature : l’une ne
-détruit point l’autre, parce que Dieu ne combat pas contre luimême ; il ne se repent jamais, et sa sagesse n’aÿant point de bornes, ses ouvrages n’auront point de fin.
-La volonté de Dieu qui fait l’ordre de la grâce est donc ajoutée
-à la volonté qui fait l’ordre de la nature pour la réparer et non
-pas pour la changer. Il n’y a dans Dieu que ces deux volontés
-générales, et tout ce qu’il y a dans la terre de réglé dépend de
-l’une ou de l’autre de ces volontés. On reconnaîtra dans la suite
-que les passions sont très-réglées, si on ne les considère que par
-rapport à la conservation du corps, quoiqu’elles nous trompent
-dans certaines rencontres rares et particulières, auxquelles la
-cause universelle n’a pas voulu remédier. Il faut donc conclure
-que les passions sont de l’ordre de la nature, puisqu’elles ne
-peuvent être de l’ordre de la grâce.
+The natural or occasional cause of these impressions is the movement of the animal spirits which spread into the body to produce and maintain there a disposition suitable to the object that one perceives, so that the mind and the body may help each other in this encounter; for it is by the continual action of God that our volitions are followed by all the movements of our body which are proper to execute them, and that the movements of our body, which are excited mechanically in us by the sight of some object, are accompanied by a passion of our soul which inclines us to will what then appears useful to the body. It is this efficacious and continual impression of the will of God upon us that unites us so closely to a portion of matter; and if this impression of His will ceased for a moment, we would from that moment be delivered from the dependence in which we are on all the changes that happen to our body.
 
-Il est vrai que si l’on considère que le péché du premier
-homme a changé l’union de l’âme et du corps en dépendance, et
-qu’il nous a privés du secours d’un Dieu toujours présent et
-toujours prêt à nous défendre, on peut dire que c’est le péché qui
-est la cause de l’attachement que nous avons aux choses
-sensibles, parce que le pêche nous a détachés de Dieu, par lequel
-seul nous pouvons nous délivrer de leur servitude.
-Mais sans nous arrêter davantage à la recherche de la première
-cause des passions, examinons leur étendue, leur nature, leurs
-causes. leur fin, leur usage, leurs défauts et tout ce qu’elles
-renferment.
+For one cannot understand how certain people imagine that there is an absolutely necessary connection between the movements of the spirits and of the blood and the emotions of the soul. Some small particles of bile move in the brain with some force; therefore it is necessary that the soul be agitated by some passion, and that this passion be rather anger than love. What relation can one conceive between the idea of the faults of an enemy, a passion of contempt or hatred, and the bodily movement of the parts of the blood which strike against some parts of the brain? How can one persuade oneself that the ones depend on the others, and that the union or alliance of two things as distant and as incompatible as the mind and matter can be caused and maintained in any other way than by the continual and all-powerful will of the author of nature?
 
+Those who think that bodies necessarily communicate their movement to each other by themselves at the moment of their encounter, think something plausible. For finally this prejudice has some foundation. Bodies seem to have an essential relation to bodies [1]. But the mind and the body are two kinds of beings so opposed, that those who think that the emotions of the soul necessarily follow the movements of the spirits and of the blood, think something that has not the slightest appearance. There is certainly only the experience that we feel within ourselves of the union of these two beings, and the ignorance of the continual operations of God on His creatures, which makes us imagine another cause of the union of our soul with our body than the always efficacious will of God.
+
+It is difficult to determine positively whether this relation or this alliance of the thoughts of the human mind with the movements of its body is a penalty of its sin or a gift of nature; and some persons believe that it is taking sides too lightly to embrace one of these opinions rather than the other. It is well known that man, before his sin, was not the slave but the absolute master of his passions, and that he stopped without difficulty by his will the agitation of the spirits that caused them. But one has difficulty persuading oneself that the body did not solicit the soul of the first man to seek the things that were proper to the preservation of his life. One has some difficulty believing that Adam did not find before his sin that fruits were pleasant to the sight and delicate to the taste, after what Scripture says of it, and that this economy so just and so wonderful of the senses and passions for the preservation of the body, is a corruption of nature rather than its first institution [2].
+
+Undoubtedly nature is presently corrupted: the body acts with too much force on the mind. Instead of representing its needs to it with respect, it tyrannizes it and tears it away from God, to whom it ought to be inseparably united, and it applies it ceaselessly to the search for sensible things that can be useful to its preservation. The mind has become as it were material and earthly after the sin. The relation and close union it had with God has been lost: I mean that God has withdrawn from it as much as He could, without losing it and without annihilating it. A thousand disorders have followed from the absence or distancing of Him who kept it in order; and, without making a longer deduction of our miseries, I admit that man is corrupted in all his parts since his fall.
+
+But this fall has not destroyed the work of God. One always recognizes in man what God has put there; and His immutable will, which makes the nature of each thing, has not been changed by the inconstancy and lightness of the will of Adam. All that God has willed, He still wills; and because His will is efficacious, He does it. The sin of man has indeed been the occasion of that will of God which makes the order of grace. But grace is not contrary to nature: the one does not destroy the other, because God does not fight against Himself; He never repents, and His wisdom having no bounds, His works will have no end.
+
+The will of God which makes the order of grace is therefore added to the will which makes the order of nature to repair it and not to change it. There are in God only these two general wills, and all that is regulated on earth depends on one or the other of these wills. It will be recognized in the sequel that the passions are very well regulated, if one considers them only in relation to the preservation of the body, although they deceive us in certain rare and particular encounters, to which the universal cause has not wished to remedy. One must therefore conclude that the passions are of the order of nature, since they cannot be of the order of grace.
+
+It is true that if one considers that the sin of the first man has changed the union of the soul and the body into dependence, and that it has deprived us of the help of a God always present and always ready to defend us, one can say that it is sin which is the cause of the attachment we have to sensible things, because sin has detached us from God, by whom alone we can deliver ourselves from their servitude.
+
+But without dwelling any longer on the search for the first cause of the passions, let us examine their extent, their nature, their causes, their end, their use, their defects, and all that they contain.

@@ -1,13 +1,23 @@
+---
+heading: Chapter 7
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE VII.
 
 I. Des inventeurs de nouveaux systèmes. — II. Dernière erreur des personnes d’étude.
 I. Nous venons de faire voir l’état de l’imagination des
 personnes d’étude qui donnent tout à l’autorité de certains
 auteurs ; il y en a encore d’autres qui leur sont bien opposés.
 Ceux-ci ne respectent jamais les auteurs, quelque estime qu’ils
-aient parmi les savants. S’ils les ont estimés ils ont bien changé
+aient parmi les savants. 
+
+S’ils les ont estimés ils ont bien changé
 depuis ; ils s’érigent eux-mêmes en auteurs. Ils veulent être les
 inventeurs de quelque opinion nouvelle, afin d’acquérir par là
 quelque réputation dans le monde ; et ils assurent qu’en disant

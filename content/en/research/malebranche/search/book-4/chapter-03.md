@@ -1,4 +1,15 @@
-CHAPITRE III.
+---
+heading: Chapter 3
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
+
 
 I. La curiosité est naturelle et nécessaire. — II. Trois règles pour la modérer. — III.
 Explication de la première de ces règles.

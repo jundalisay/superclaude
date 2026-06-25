@@ -1,4 +1,14 @@
-CHAPITRE VII.
+---
+heading: Chapter 7
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 I. De la communication qui est entre le cerveau d’une mère et celui de son enfant. —
 II. De la communication qui est entre notre cerveau et les autres parties de notre

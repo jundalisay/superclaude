@@ -1,3 +1,14 @@
+---
+heading: Chapter 2
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
+
+
 
 CHAPITRE II.
 Que les objets matériels n’envoient point d’espèces qui leur ressemblent.

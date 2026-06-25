@@ -1,6 +1,14 @@
+---
+heading: Chapter 6
+title: "The Passions"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE VI.
 
 I. Que les fibres du cerveau ne sont pas sujettes à des changements si prompts que les
 esprits. — II. Trois différents changements dans les trois différents âges.
@@ -29,7 +37,9 @@ délicates ; avec l’âge elles deviennent plus sèches, plus dures et
 plus fortes ; mais, dans la vieillesse, elles sont tout à fait
 inflexibles, grossières, et mêlées quelquefois avec des humeurs
 superflues que la chaleur très-faible de cet âge ne peut plus
-dissiper. Car, de même que nous voyons que les fibres qui
+dissiper. 
+
+Car, de même que nous voyons que les fibres qui
 composent la chair se durcissent avec le temps, et que la chair
 d’un perdreau est sans contestation plus tendre que celle d’une
 vieille perdrix, ainsi les fibres du cerveau d’un enfant ou d’un
