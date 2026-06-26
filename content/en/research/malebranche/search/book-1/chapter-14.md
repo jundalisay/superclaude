@@ -1,6 +1,15 @@
+---
+heading: Chapter 14
+title: ""
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 3
+date: 2026-06-20
+---
 
 
-CHAPITRE XIV.
+
 
 I. Des faux jugements qui accompagnent nos sensations, et que nous confondons avec
 elles. — II. Raisons de ces faux jugements. — III. Que l’erreur ne se trouve

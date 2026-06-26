@@ -4,7 +4,7 @@ title: "The Passions"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 16
 date: 2026-06-20
 ---
 

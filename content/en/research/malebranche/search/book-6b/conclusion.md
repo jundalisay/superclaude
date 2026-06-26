@@ -12,15 +12,6 @@ date: 2026-06-20
 I have, it seems to me, sufficiently shown in the fourth and fifth books that men's natural inclinations and passions very often cause them to fall into error, because they lead them not so much to examine things with care as to judge them with precipitation.
 
 In the fourth book, I showed that the inclination for good in general is the cause of the restlessness of the will; that this restlessness of the will keeps the mind in continual agitation; and that an incessantly agitated mind is entirely incapable of discovering truths that are somewhat hidden. I showed that the love of new and extraordinary things often biases us in their favor, and that anything bearing the character of the infinite is capable of dazzling our imagination and deceiving us. I explained how our inclination for greatness, elevation, and independence insensibly engages us in false erudition, or in the study of all those vain and useless sciences that flatter our secret pride because they make us admired by the common run of men. I showed that the inclination for pleasures constantly diverts the mind's view from the contemplation of abstract truths, which are the simplest and most fruitful, and that it does not allow the mind to consider anything with enough attention and disinterestedness to judge it well; that since pleasures are modifications of our soul, they necessarily share the capacity of the mind, and a divided mind cannot fully comprehend anything of some scope. Finally, I showed that the natural connection and union we have with all those with whom we live is the occasion of many errors into which we fall, and which we communicate to others, just as others communicate to us those into which they have fallen.
-=======
-heading: Conclusion
-title: "CONCLUSION DES TROIS DERNIERS LIVRES"
-description: ""
-a: "Malebranche"
-c: "indigo"
-weight: 30
-date: 2026-06-20
----
 
 
 

@@ -28,6 +28,10 @@ Yet, since the 1920s, physics has been on the wrong path—largely due to the in
 His theories, particularly relativity, have dominated education and research, stifling progress and contributing to real-world suffering.
 
 
+{{< youtube -qbOKK5eyvo >}}
+
+
+
 ## Einstein's Role in the Problems
 
 Einstein's work provided the theoretical foundation for nuclear fission (via E=mc²).
@@ -73,4 +77,5 @@ Physics educators and researchers who rigidly teach relativity and idolize Einst
 From atomic bombs to climate disasters, their teachings have indirectly caused deaths and suffering. By ignoring metaphysical foundations, they trap science in a paradigm that fails humanity.
 
 We call on young students to reject this outdated dogma. Embrace Descartes' unified, mechanistic vision—where physics integrates with deeper causes. Only then can we solve these existential threats and build a sustainable future.
+
 

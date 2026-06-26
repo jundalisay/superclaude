@@ -10,11 +10,24 @@ date: 2026-06-20
 
 
 
-Error is the cause of human misery; it is the evil principle that has produced evil in the world; it is what has given rise to and maintains in our souls all the ills that afflict us, and we must not hope for solid and true happiness unless we work seriously to avoid it.
+Error is:
+- the cause of human misery
+- the evil principle that has produced evil in the world
+- what has given rise to and maintains the ills that afflict us
 
-Holy Scripture teaches us that men are miserable only because they are sinners and criminals; and they would be neither sinners nor criminals if they did not make themselves slaves to sin by consenting to error.
+<!-- , and we must not hope for solid and true happiness unless we work seriously to avoid it. -->
 
-If it is true, therefore, that error is the origin of human misery, it is only right that men should make an effort to free themselves from it. Certainly their effort will not be useless and without reward, even if it does not have all the effect they might wish. If men do not become infallible, they will be mistaken much less often, and if they do not entirely free themselves from their ills, they will at least avoid some of them. In this life one must not hope for complete happiness, because here below one must not aspire to infallibility; but one must work ceaselessly not to be mistaken, since one ceaselessly wishes to be freed from one's miseries. In a word, just as one ardently desires a happiness without hoping for it, one must strive with effort toward infallibility without aspiring to it.
+Holy Scripture teaches us that men:
+- are miserable only because they are sinners and criminals
+- would be neither sinners nor criminals if they did not consent to error.
+
+If error is the origin of human misery, then men should make an effort to free themselves from it.
+
+Certainly their effort will not be useless and without reward, even if it does not have all the effect they might wish. If men do not become infallible, they will be mistaken much less often, and if they do not entirely free themselves from their ills, they will at least avoid some of them.
+
+In this life one must not hope for complete happiness, because here below one must not aspire to infallibility; but one must work ceaselessly not to be mistaken, since one ceaselessly wishes to be freed from one's miseries. 
+
+Just as one ardently desires a happiness without hoping for it, one must strive with effort toward infallibility without aspiring to it.
 
 One must not imagine that there is much to suffer in the search for truth; one need only pay attention to the clear ideas that each person finds within himself, and follow exactly a few rules that we will give later. Exactness of mind has almost nothing painful about it; it is not a servitude as the imagination represents it; and if we initially find some difficulty in it, we soon receive satisfactions that abundantly reward us for our pains; for in the end, it is only this exactness that produces light and reveals truth to us.
 
