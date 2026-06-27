@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4
-title: "The Passions"
+title: "Third Cause of Changes in the Animal Spirits"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,232 +9,57 @@ date: 2026-06-20
 ---
 
 
-I. Du changement des esprits causé par les nerfs qui vont au cœur et aux poumons. —
-176
 
-II. De celui qui est causé par les nerls qui vont au foie, à la rate, et dans les
-viscères. — III. Que tout cela se fait contre notre volonté, mais que cela ne se
-peut faire sans une providence.
+The third cause of the changes that occur in the animal spirits is the most ordinary and the most active of all; because it is this cause that produces, sustains, and strengthens all the passions. To understand it well, one must know that the fifth, sixth, and eighth pairs of nerves send most of their branches into the chest and the abdomen, where they have uses very useful for the preservation of the body, but extremely dangerous for the soul; because these nerves do not depend in their action on the will of men, as do those that serve to move the arms, the legs, and the other external parts of the body, and because they act much more upon the soul than the soul acts upon them.
 
-La troisième cause des changements qui arrivent aux esprits
-animaux est la plus ordinaire et la plus agissante de toutes ; parce
-que c’est elle qui produit, qui entretient et qui fortifie toutes les
-passions. Pour la bien comprendre, il faut savoir que la
-cinquième. la sixième et la huitième paire des nerfs envoient la
-plupart de leurs rameaux dans la poitrine et dans le ventre, où ils
-ont des usages bien utiles pour la conservation du corps, mais
-extrêmement dangereux pour l’âme ; parce que ces nerfs ne
-dépendent point dans leur action de la volonté des hommes,
-comme ceux qui servent à remuer les bras, les jambes et les
-autres parties extérieures du corps, et qu’ils agissent beaucoup
-plus sur l’àme que l’âme n’agit sur eux.
 
-I. Il faut donc savoir que plusieurs branches de la huitième
-paire des nerfs se jettent entre les fibres du principal de tous les
-muscles, qui est le cœur ; qu’ils environnent ses ouvertures, ses
-oreillettes et ses artères ; qu’ils se répandent même dans la
-substance du poumon, et qu’ainsi par leurs différents mouvements
-ils produisent des changements fort considérables dans le sang.
-Car les nerfs qui sont répandus entre les fibres du cœur, le faisant
-quelquefois étendre et raccourcir avec trop de force et de
-promptitude, poussent avec une violence extraordinaire quantité
-de sang vers la tête et vers toutes les parties extérieures du
-corps ; quelquefois aussi ces mêmes nerfs font un effet tout
-contraire. Pour les nerfs qui environnent les ouvertures du cœur,
-ses oreillettes et ses artères, ils font a peu près le même effet que
-les registres avec lesquels les chimistes modèrent la chaleur de leurs fourneaux, et que les robinets dont on se sert dans les
-fontaines pour régler le cours de leurs eaux. Car l’usage de ces
-nerfs est de serrer et d’élargir diversement les ouvertures du
-cœur, de hâter et de retarder de cette manière l’entrée et la sortie
-du sang, et d’en augmenter ainsi et d’en diminuer la chaleur.
-Enfin, les nerfs qui sont répandus dans le poumon ont aussi le
-même usage ; car le poumon n’étant composé que des branches
-de la trachée-artère, de la veine artérieuse et de l’artère veineuse
-entrelacées les unes dans les autres, il est visible que les nerfs
-qui sont répandus dans sa substance empêchent par leur
-contraction que l’air ne passe avec assez de liberté des branches
-de la trachée-artère, et le sang de celles de la veine artérieuse,
-dans l’artère veineuse pour se rendre dans le cœur. Ainsi ces
-nerfs, selon leur différente agitation, augmentent ou diminuent
-encore la chaleur et le mouvement du sang.
+## On the change of the spirits caused by the nerves that go to the heart and the lungs
 
-Nous avons dans toutes nos passions des expériences fort
-sensibles de ces différents degrés de chaleur de notre cœur. Nous
-l’y sentons manifestement diminuer et s’augmenter quelquefois
-tout d’un coup ; et comme nous jugeons faussement que nos
-sensations sont dans les parties de notre corps à l’occasion
-desquelles elles s’excitent en notre âme, ainsi qu’il a été
-expliqué dans le premier livre, presque tous les philosophes se
-sont imaginé que le cœur était le siége principal des passions de
-l’âme, et c’est même encore aujourd’hui l’opinion la plus
-commune.
+One must therefore know that several branches of the eighth pair of nerves insert themselves between the fibers of the principal of all muscles, which is the heart; that they surround its openings, its auricles, and its arteries; that they spread even into the substance of the lung, and that thus, by their different movements, they produce very considerable changes in the blood. For the nerves that are spread between the fibers of the heart, sometimes causing it to expand and contract with too much force and quickness, drive with extraordinary violence a quantity of blood toward the head and toward all the external parts of the body; sometimes also these same nerves produce a wholly contrary effect. As for the nerves that surround the openings of the heart, its auricles, and its arteries, they produce roughly the same effect as the registers with which chemists moderate the heat of their furnaces, and the taps used in fountains to regulate the flow of their waters. For the use of these nerves is to constrict and dilate in various ways the openings of the heart, to hasten and retard in this manner the entry and exit of the blood, and thus to increase and diminish its heat. Finally, the nerves that are spread through the lung also have the same use; for the lung being composed only of the branches of the trachea, the pulmonary vein, and the pulmonary artery interlaced with one another, it is evident that the nerves spread through its substance, by their contraction, prevent the air from passing with sufficient freedom from the branches of the trachea, and the blood from those of the pulmonary vein, into the pulmonary artery to reach the heart. Thus these nerves, according to their different agitation, further increase or diminish the heat and movement of the blood.
 
-Or, parce que la faculté d’imaginer reçoit de grands
-changements par ceux qui arrivent aux esprits animaux, et que les
-esprits animaux sont fort différents selon la différente
-fermentation ou agitation du sang qui se fait dans le cœur, il est facile de reconnaître ce qui fait que les personnes passionnées
-imaginent les choses tout autrement que ceux qui les considèrent
-de sang-froid.
+We have in all our passions very perceptible experiences of these different degrees of heat in our heart. We manifestly feel it diminish and sometimes increase all at once; and because we falsely judge that our sensations are in the parts of our body on the occasion of which they are excited in our soul, as was explained in the first book, almost all philosophers have imagined that the heart was the principal seat of the passions of the soul, and this is even today the most common opinion.
 
-II. L’autre cause, qui contribue fort à diminuer et à augmenter ces fermentations extraordinaires du sang, consiste dans l’action
-de plusieurs autres rameaux des nerfs, desquels nous venons de
-parler.
+Now, because the faculty of imagining receives great changes from those that occur in the animal spirits, and because the animal spirits are very different according to the different fermentation or agitation of the blood that takes place in the heart, it is easy to recognize what makes passionate persons imagine things quite differently from those who consider them in cold blood.
 
-Ces rameaux se répandent dans le foie, qui contient la plus
-subtile partie du sang, ou ce qu’on appelle ordinairement la bile ;
-dans la rate, qui contient la plus grossière, ou la mélancolie ;
-dans le pancréas, qui contient un suc acide très-propre, ce
-semble, pour la fermentation ; dans l’estomac, les boyaux et les
-autres parties qui contiennent le chyle ; enfin ils se répandent
-dans tous les endroits, qui peuvent contribuer quelque chose pour
-varier la fermentation ou le mouvement du sang. Il n’y a pas
-même jusqu’aux artères et aux veines qui ne soient liées de ces
-nerfs, comme M. Willis l’a découvert du tronc inférieur de la
-grande artère qui en est liée proche du cœur, de l’artère axillaíre
-du côté droit, de la veine émulgente et de quelques autres.
-Ainsi l’usage des nerfs étant d’agiter diversement les parties
-auxquelles ils sont attachés, il est facile de concevoir comment,
-par exemple, le nerf qui environne le foie peut en le serrant faire
-couler grande quantité de bile dans les veines et dans le canal de
-la bile, laquelle s’étant mêlée avec le sang dans les veines, et
-avec le chyle par le canal de la bile, entre dans le cœur et y
-produit une chaleur bien plus ardente qu’à l’ordinaire. Ainsi
-lorsqu’on est ému de certaines passions, le sang bout dans les
-artères et dans les veines ; l’ardeur se répand dans tout le corps ;
-le feu monte à la tête, et elle se remplit d’un si grand nombre d’esprits animaux trop vifs et trop agités, que par leur cours
-impétueux ils empêchent l’imagination de se représenter d’autres
-choses que celles dont ils forment des images dans le cerveau,
-c’est-à-dire de penser à d’autres objets qu’à ceux de la passion
-qui domine.
 
-Il en est de même des petits nerfs qui vont à la rate ou à
-d’autres parties qui contiennent une matière plus grossière et
-moins susceptible de chaleur et de mouvement ; ils rendent
-l’imagination toute languissante et tout assoupie, en faisant couler
-dans le sang quelque matière grossière et difficile à mettre en
-mouvement.
+## On that which is caused by the nerves that go to the liver, the spleen, and the viscera. — III. That all this happens against our will, but that it cannot happen without a providence.
 
-Pour les nerfs qui environnent les artères et les veines, leur
-usage est d’empêcher le sang de passer, et de l’obliger en les
-serrant de s’écouler dans les lieux où il trouve le passage libre.
-Ainsi la partie de la grande artère qui fournit du sang à toutes les
-parties qui sont au-dessous du cœur, étant liée et serrée par ces
-nerfs, le sang doit nécessairement entrer dans la tête en plus
-grande abondance, et produire ainsi du changement dans les
-esprits animaux, et par conséquent dans l’imagination.
 
-III. Il faut bien remarquer que tout cela ne se fait que par
-machine, je veux dire que tous les différents mouvements de ces
-nerfs dans toutes les passions différentes n’arrivent point par le
-commandement de la volonté, mais se font au contraire sans ses
-ordres, et même contre ses ordres ; de sorte qu’un corps sans âme
-disposé comme celui d’un homme sain, serait capable de tous les
-mouvements qui accompagnent nos passions. Ainsi les bêtes
-mêmes en peuvent avoir de semblables quand elles ne seraient
-que de pures machines.
+II. The other cause, which greatly contributes to diminishing and increasing these extraordinary fermentations of the blood, consists in the action of several other branches of the nerves of which we have just spoken.
 
-C’est ce qui nous doit faire admirer la sagesse incompréhensible de celui qui a si bien rangé tous ces ressorts,
-qu’il suffit qu’un objet remue légèrement le nerf optique d’une
-telle ou telle manière pour produire tant de divers mouvements
-dans le cœur, dans les autres parties intérieures du corps et même
-sur le visage. Car on a découvert depuis peu que le même nerf
-qui répand quelques rameaux dans le cœur et dans les autres
-parties intérieures, communique aussi quelques-unes de ses
-branches aux yeux, à la bouche et aux autres parties du visage. De
-sorte qu’il ne peut s’élever aucune passion au dedans qui ne
-paraisse au dehors, parce qu’il ne peut y avoir de mouvement
-dans les branches qui vont au cœur, qu’il n’en arrive quelqu’un
-dans celles qui sont répandues sur le visage.
+These branches spread into the liver, which contains the most subtle part of the blood, or what is ordinarily called bile; into the spleen, which contains the grossest part, or melancholy; into the pancreas, which contains an acid juice very suitable, it seems, for fermentation; into the stomach, the intestines, and the other parts that contain the chyle; finally, they spread into all the places that can contribute something to vary the fermentation or movement of the blood. There are even the arteries and veins that are bound by these nerves, as Mr. Willis has discovered concerning the lower trunk of the great artery, which is bound near the heart, the axillary artery on the right side, the emulgent vein, and some others.
 
-La correspondance et la sympathie qui se trouve entre les nerfs
-du visage et quelques autres qui répondent à d’autres endroits du
-corps qu’on ne peut nommer, est encore bien plus remarquable ;
-et ce qui fait cette grande sympathie, c’est, comme dans les autres
-passions, que les petits nerfs qui vont au visage ne sont encore
-que des branches de celui qui descend plus bas.
-Lorsqu’on est surpris de quelque passion violente, si l’on
-prend soin de faire réflexion sur ce que l’on sent dans les
-entrailles et dans les autres parties du corps où les nerfs
-s’insinuent, comme aussi aux changements de visage qui
-l’accompagnent ; et si on considère que toutes ces diverses
-agitations de nos nerfs sont entièrement involontaires, et qu’elles
-arrivent même malgré toute la résistance que notre volonté y
-apporte, on n’aura pas grand-peine à se laisser persuader de la
-simple exposition que l’on vient de faire de tous ces rapports
-entre les nerfs.
+Thus, the use of the nerves being to agitate in various ways the parts to which they are attached, it is easy to conceive how, for example, the nerve that surrounds the liver can, by constricting it, cause a great quantity of bile to flow into the veins and into the bile duct, which, having mixed with the blood in the veins, and with the chyle through the bile duct, enters the heart and produces a much more ardent heat there than usual. Thus, when one is moved by certain passions, the blood boils in the arteries and veins; the heat spreads throughout the body; the fire rises to the head, and it fills with so great a number of animal spirits too lively and too agitated that, by their impetuous course, they prevent the imagination from representing to itself anything other than those things of which they form images in the brain — that is to say, from thinking about any objects other than those of the passion that dominates.
 
-Mais si l’on examine les raisons et la fin de toutes ces choses, on y trouvera tant d’ordre et de sagesse, qu’une attention un peu
-sérieuse sera capable de convaincre les personnes les plus
-attachées à Êpicure et à Lucrèce qu’il y à une providence qui
-régit le monde. Quand je vois une montre, j’ai raison de conclure
-qu’il y à une intelligence, puisqu’il est impossible que le hasard
-ait pu produire et arranger toutes ses roues. Comment donc
-serait-il possible que le hasard et la rencontre des atomes fùt
-capable d’arranger dans tous les hommes et dans tous les
-animaux tant de ressorts divers, avec la justesse et la proportion
-que je viens d’expliquer, et que les hommes et les animaux en
-engendrassent d’autres qui leur fussent tout à fait semblables ?
-Ainsi il est ridicule de penser ou de dire comme Lucrèce, que le
-hasard a formé toutes les parties qui composent l’homme ; que
-les yeux n’ont point été faits pour voir, mais qu’on s’est avisé de
-voir parce qu’on avait des yeux ; et ainsi des autres parties du
-corps. Voici ses paroles :
+It is the same with the small nerves that go to the spleen or to other parts that contain a grosser matter less susceptible to heat and movement; they make the imagination wholly languid and drowsy, by causing some gross matter, difficult to set in motion, to flow into the blood.
+
+As for the nerves that surround the arteries and veins, their use is to prevent the blood from passing, and to oblige it, by constricting them, to flow into places where it finds free passage. Thus, the part of the great artery that supplies blood to all the parts below the heart, being bound and constricted by these nerves, the blood must necessarily enter the head in greater abundance, and thus produce change in the animal spirits, and consequently in the imagination.
+
+III. It must be carefully noted that all this happens only by mechanism — that is to say, all these different movements of these nerves in all the different passions do not occur by the command of the will, but happen on the contrary without its orders, and even against its orders; so that a body without a soul, disposed like that of a healthy man, would be capable of all the movements that accompany our passions. Thus even beasts can have similar ones, even if they were only pure machines.
+
+This is what should make us admire the incomprehensible wisdom of Him who has so well arranged all these springs, that it suffices for an object to move the optic nerve lightly in such and such a manner to produce so many diverse movements in the heart, in the other interior parts of the body, and even on the face. For it has recently been discovered that the same nerve that spreads some branches into the heart and into the other interior parts also communicates some of its branches to the eyes, the mouth, and the other parts of the face. So that no passion can arise within that does not appear outwardly, because there can be no movement in the branches that go to the heart without some movement occurring in those that are spread over the face.
+
+The correspondence and sympathy that exists between the nerves of the face and some others that correspond to other parts of the body that cannot be named is even more remarkable; and what causes this great sympathy is, as in the other passions, that the small nerves that go to the face are still only branches of the one that descends lower down.
+
+When one is surprised by some violent passion, if one takes care to reflect upon what one feels in the entrails and in the other parts of the body where the nerves insinuate themselves, as well as upon the changes of countenance that accompany it; and if one considers that all these diverse agitations of our nerves are entirely involuntary, and that they happen even despite all the resistance that our will brings against them, one will have little difficulty in allowing oneself to be persuaded by the simple exposition just given of all these relationships between the nerves.
+
+But if one examines the reasons and the end of all these things, one will find so much order and wisdom there that a somewhat serious attention will be capable of convincing the persons most attached to Epicurus and Lucretius that there is a providence that governs the world. When I see a watch, I am right to conclude that there is an intelligence, because it is impossible that chance could have produced and arranged all its wheels. How, then, would it be possible that chance and the collision of atoms could have been capable of arranging in all men and all animals so many diverse springs, with the exactness and proportion that I have just explained, and that men and animals should engender others entirely similar to themselves? Thus it is ridiculous to think or to say, like Lucretius, that chance formed all the parts that compose man; that eyes were not made to see, but that one happened to see because one had eyes; and so on for the other parts of the body. Here are his words:
 
 Lumina ne facias oculorum clara creata
-Prospicere ut possimus, et ut proferre vial
+Prospicere ut possimus, et ut proferre viai
 Proceros passus, ideo fastigia posse
-Surarum ac feminum pedibus fundata plicari :
+Surarum ac feminum pedibus fundata plicari:
 Brachia tum porro validis exapta lacertis
 Esse, manusque datas utraque ex parte ministras
-Ut facere ad vitam possimus, quœ foret usus.
-Cœtera de genere hoc inter quæcumque pretantur
-Omnia perversa prœpostera sunt ratione.
+Ut facere ad vitam possimus, quæ foret usus.
+Cætera de genere hoc inter quæcumque pretantur
+Omnia perversa præpostera sunt ratione.
 Nil ideo natum est in nostro corpore ut uti
-Possimus ; sed quod natum est. id procreat usum
-[3]
+Possimus; sed quod natum est, id procreat usum.
 
-Ne faut-il pas avoir une étrange aversion d’une providence
-pour s’aveugler ainsi volontairement de peur de la reconnaître, et
-pour tâcher de se rendre insensible à des preuves aussi fortes et
+Must one not have a strange aversion to providence in order to blind oneself so voluntarily for fear of recognizing it, and to try to render oneself insensible to proofs as strong and as convincing as those that nature furnishes us with? It is true that when one once affects to play the freethinker, or rather the impious, as the Epicureans did, one finds oneself immediately covered in darkness, and one sees only false glimmers; one boldly denies the clearest things, and one proudly and magisterially asserts the falsest and most obscure.
 
-aussi convaincantes que celles que la nature nous en fournit ? Il
-est vrai que quand on affecte une fois de faire l’esprit fort, ou
-plutôt l’impie, ainsi que faisaient les épicuriens, on se trouve
-incontinent tout couvert de ténèbres, et on ne voit plus que de
-fausses lueurs ; on nie hardiment les choses les plus claires, et on
-assure fièrement et magistralement les plus fausses et les plus
-obscures.
+The poet I have just cited can serve as proof of this blindness of freethinkers. For he pronounces boldly and against all appearance of truth on the most difficult and obscure questions, and he seems not to perceive even the clearest and most evident ideas. If I were to pause to quote passages from this author to justify what I say, I would make too long and too tedious a digression. If it is permissible to make some reflections that arrest the mind for a moment upon essential truths, it is never permissible to make digressions that divert the mind for a considerable time from attention to its principal subject, in order to apply it to things of little importance.
 
-Le poëte que je viens de citer peut servir de preuve de cet
-aveuglement des esprits forts. Car il prononce hardiment et
-contre toute apparence de vérité sur les questions les plus
-difficiles et les plus obscures, et il semble qu’il n’aperçoive pas
-les idées même les plus claires et les plus évidentes. Si je
-m’arrêtais à rapporter des passages de cet auteur pour justifier ce
-que je dis, je ferais une digression trop longue et trop ennuyeuse.
-S’il est permis de faire quelques réflexions qui arrêtent pour un
-moment l’esprit sur des vérités essentielles, il n’est jamais
-permis de faire des digressions qui détournent l’esprit pendant un
-temps considérable de l’attention à son principal sujet, pour
-l’appliquer à des choses de peu d’importance.
-
-On vient d’expliquer les causes générales tant extérieures
-qu’intérieures qui produisent du changement dans les esprits
-animaux, et par conséquent dans la faculté d’imaginer. On a fait
-voir que les extérieures sont les viandes dont on se nourrit et
-l’air que l’on respire, et que l’intérieure consiste dans l’agitation
-involontaire de certains nerfs. On ne sait point d’aμtres causes
-générales et l’en assure même qu’il n’y en a point. De sorte que
-la faculté d’imaginer ne dépendant de la part du corps que de ces
-deux choses, savoir, des esprits animaux et de la disposition du
-cerveau sur lequel ils agissent, il ne reste plus ici pour donner une parfaite connaissance de l’imagination que d’exposer les
-différents changements qui peuvent arriver dans la substance du
-cerveau. Mais avant que d’examiner ces changements il est à
-propos d’expliquer la liaison de nos pensées avec les traces du
-cerveau, et la liaison réciproque de ces traces. Il faudra aussi
-donner quelque idée de la mémoire et des habitudes, c’est-à-dire
-de cette facilité que nous avons de penser à des choses
-auxquelles nous avons déjà pensé, et de faire des choses que
-nous avons déjà faites.
-
+We have just explained the general causes, both external and internal, that produce change in the animal spirits, and consequently in the faculty of imagining. We have shown that the external ones are the foods by which we are nourished and the air that we breathe, and that the internal one consists in the involuntary agitation of certain nerves. No other general causes are known, and I even assure that there are none. So that the faculty of imagining depending, on the body's side, only on these two things — namely, the animal spirits and the disposition of the brain upon which they act — there remains here only, in order to give a perfect knowledge of the imagination, to set forth the different changes that can occur in the substance of the brain. But before examining these changes, it is appropriate to explain the connection of our thoughts with the traces of the brain, and the reciprocal connection of these traces. It will also be necessary to give some idea of memory and of habits — that is to say, of that facility we have of thinking about things we have already thought about, and of doing things we have already done.
 

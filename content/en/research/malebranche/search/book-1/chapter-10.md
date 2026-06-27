@@ -4,7 +4,7 @@ title: "Of errors concerning sensible qualities"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 23
 date: 2026-06-20
 ---
 

@@ -4,7 +4,7 @@ title: "Errors concerning the movements of the fibres of our senses"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 26
 date: 2026-06-20
 ---
 
@@ -62,3 +62,4 @@ Only a little attention is needed to recognize that it is not necessary that the
 It must be carefully noted that since our senses are given to us only for the preservation of our body, it is very fitting that they should lead us to judge of sensible qualities as we do. It is much more advantageous for us to feel pain and heat as being in our body than if we judged that they were only in the objects that cause them, because pain and heat, being capable of harming our limbs, it is fitting that we should be warned when they are attacked by them, in order to prevent them from being injured.
 
 But it is not the same with colours. They cannot ordinarily wound the back of the eye, where they are gathered, and it is useless for us to know that they are painted there. These colours are necessary to us only in order to distinguish objects more clearly, and it is for this reason that our senses lead us to attribute them only to objects. Thus, the judgments to which the impression of our senses leads us are very just, if considered in relation to the preservation of the body; but nevertheless, they are entirely strange and very far from the truth, as has already been seen in part and as will be seen even better in what follows.
+

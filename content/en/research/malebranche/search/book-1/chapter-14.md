@@ -4,7 +4,7 @@ title: "False Judgmenets"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 34
 date: 2026-06-20
 ---
 

@@ -13,8 +13,6 @@ writer:
 
 
 
-
-
 When we pour water, it flows effortlessly. When we pour honey, it drags, resists, and moves with a sluggish deliberation. The difference between these two behaviors comes down to an internal property of fluids known as **viscous force**.
 
 Viscous force is the internal friction of a fluid (a liquid or a gas). 

@@ -100,5 +100,5 @@ Unlike normal commercial for-profit transactions, swap donations are tax-exempt.
 However, their values are much below commercial prices. A swap donation with normal commercial prices will be regarded as a normal barter transaction and can be taxed accordingly, with the barter transaction being paid in kind. 
 
 
-{{< u d="2023" u="Both one-way and swap donations are implemented in Supereconomics as [Donation Points](https://pantrypoints.com/circle)" >}}
+{{< u d="2023" u="Both one-way and swap donations are implemented in Supereconomics as [Donation Points](https://pantrypoints.com/docs/supereconomics/social-points)" >}}
 

@@ -4,12 +4,9 @@ title: "Errors"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 25
 date: 2026-06-20
 ---
-
-
-
 
 
 In this chapter and in the following three, we shall treat of those four things which we have just said are confused and taken for a simple sensation; and we shall explain only, in general, the errors into which we fall: because if we wished to enter into detail, it would never be finished. We hope, however, to put the reader's mind in a position to discover with very great ease all the errors into which the senses can lead us; but we ask of them, for this purpose, that they meditate with some application, both on the following chapters and on the one they have just read.

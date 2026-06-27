@@ -4,7 +4,7 @@ title: "Proof of the errors of our sight concerning motion"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 20
 date: 2026-06-20
 ---
 

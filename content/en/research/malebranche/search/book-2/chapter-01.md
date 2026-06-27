@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Passions"
+title: "General idea of the imagination"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,183 +10,50 @@ date: 2026-06-20
 
 
 
-LIVRE DEUXIÈME.
-DE L’IMAGINATION.
-PREMIÈRE PARTIE.
+In the previous book we discussed the senses. We sought to explain their nature and define precisely how they ought to be used; we identified the main and most common errors into which they lead us, and we sought to set proper limits to their power, so that we may trust them where they serve us, and fear them only if we fail to keep them within the bounds we have described. In this second book we shall treat of the imagination; the natural order of our inquiry requires it, for the connection between the senses and the imagination is so close that they ought not to be separated. As we shall see later, these two faculties differ only in degree, not in kind.
+
+Here is the plan we shall follow: this work is divided into three parts. In the first, we explain the physical causes of the imagination’s irregularities and errors. In the second, we apply these causes to the most common mistakes of the imagination, and also examine what may be called the moral causes of these errors. In the third, we discuss how powerful imaginations can influence and spread their effects to others.
+
+Although much of what follows may not be as novel as the explanations we have already given regarding the errors of the senses, it will be no less useful. Thoughtful people already recognize these errors and their sources; yet very few pause to reflect deeply upon them. I do not claim to instruct everyone; I seek to enlighten those who know little, and merely to remind those who know more — or rather, I write here chiefly to instruct and remind myself.
 
 
-I. Idée générale de l’imagination. — II. Qu’elle renferme deux facultés, l’une active et
-l’autre passive. — III. Cause générale des changements qui arrivent à
-l’imagination des hommes, et le fondement de ce second livre.
-Dans le livre précédent nous avons traité des sens. Nous avons
-tâche d’en expliquer la nature. et de marquer précisément l’usage
-que l’on en doit faire ; nous avons découvert les principales et
-les plus générales erreurs dans lesquelles ils nous jettent, et nous
-avons tâche de limiter de telle sorte leur puissance, qu’on doit
-beaucoup espérer d’eux, et n’en rien craindre si on les retient
-loujours dans les bornes que nous leur avons prescrites. Dans ce
-deuxième livre nous traiterons de l’imagination : l’ordre naturel
-nous y oblige, car il y a un si grand rapport entre les sens et
-l’imagination, qu’on ne doit pas les séparer. On verra même dans
-la suite que ces deux facultés ne diffèrent entre elles que du plus
-et du moins.
 
-Voici l’ordre que nous gardons dans ce traité. Il est divisé en
-trois parties. Dans la première nous expliquons les causes
-physiques du dérèglement et des erreurs de l’imagination ; dans
-la deuxième nous faisons quelques applications de ces causes aux
-erreurs les plus générales de l’imagination, et nous parlons aussi
-des causes que l’on peut appeler morales de ces erreurs ; dans la
-troisième nous parlons de la communication contagieuse des
-imaginations fortes.
+## General idea of the imagination
 
-Si la plupart des choses que ce traité contient ne sont pas si
-nouvelles que celles que l’on a déjà dites en expliquant les
-erreurs des sens, elles ne seront pas toutefois moins utiles. Les
-personnes éclairées reconnaissent assez les erreurs et les causes
-même des erreurs dont je traite, mais il y a très-peu de personnes
-qui y fassent assez de réflexion. Je ne prétends pas instruire tout
-le monde ; j’instruis les ignorants, et j’avertis seulement les
-autres, ou plutôt je tâche ici de m’instruire et de m’avertir moimême.
-I. Nous avons dit dans le premier livre que les organes de nos
-sens étaient composés de petits filets, qui d’un côté se terminent
-aux parties extérieures du corps et à la peau, et de l’autre
-aboutissent vers le milieu du cerveau. Or ces petits filets peuvent
-être remués en deux manières, ou en commençant par les bouts
-qui se terminent dans le cerveau, ou par ceux qui se terminent au
-dehors. L’agitation de ces petits filets ne pouvant se communiquer
-jusqu’au cerveau que l’âme n’aperçoive quelque chose, si
-l’agitation commence par l’impression que les objets font sur la
-surface extérieure des filets de nos nerfs, et qu’elle se
-communique jusqu’au cerveau, alors l’âme sent et juge que ce
-qu’elle sent est au dehors, c’est-à-dire qu”elle aperçoit un objet comme présent. Mais s’il n’y a que les filets intérieurs qui soient
-agités par le cours des esprits animaux, ou de quelque autre
-manière, l’âme imagine, et juge que ce qu’elle imagine n’est
-point au dehors, mais au dedans du cerveau, c”est-à-dire qu’elle
-aperçoit un objet comme absent. Voila la différence qu’il y a
-entre sentir et imaginer.
+We stated in Book One that the organs of sense are made up of fine filaments, which extend on one side to the outer parts of the body and the skin, and on the other toward the center of the brain. These filaments can be moved in two ways: either starting from the ends inside the brain, or from those on the body’s surface.
 
-Mais il faut remarquer que les fibres du cerveau sont beaucoup
-plus agitées par l’impression des objets que par le cours des
-esprits ; et que c’est pour cela que l’âme est beaucoup plus
-touchée par Ies objets extérieurs, qu’elle juge comme présents et
-comme capables de lui faire sentir du plaisir ou de la douleur,
-que par le cours des esprits animaux. Cependant il arrive
-quelquefois dans les personnes qui ont les esprits animaux fort
-agiles par des jeûnes, par des veilles, par quelque fièvre chaude
-ou par quelque passion violente, que ces esprits remuent les
-fibres intérieures de leur cerveau avec autant de force que les
-objets extérieurs ; de sorte que ces personnes sentent ce qu’ils ne
-devraient qu’imaginer, et croient voir devant leurs yeux des
-objets qui ne sont que dans leur imagination. Cela montre bien
-qu’à l’ègard de ce qui se passe dans le corps, les sens et
-l’imagination ne diffèrent que du plus et du moins, ainsi que je
-viens de l’avancer.
+Whenever these filaments are disturbed, the soul perceives something. If the movement begins when external objects press upon the outer ends of our nerve‑filaments and is transmitted all the way to the brain, the soul *feels* and judges that what it perceives exists outside itself — in other words, it sees the object as present. But if only the inner ends of the filaments are set in motion by the flow of the animal spirits or by some other internal cause, the soul *imagines* and judges that what it perceives is not outside, but inside the brain — that is, it sees the object as absent. This is the essential difference between sensing and imagining.
 
-Mais afin de donner une idée plus distincte et plus particulière
-de imagination, il faut savoir que toutes les fois qu’il y a du
-changement dans la partie du cerveau à laquelle les nerfs
-aboutissent, il arrive aussi du changement dans l’âme, c’est-àdire, comme nous avons déjà expliqué, que s’il arrive dans cette
-partie quelque mouvement des esprits qui change quelque peu
-l’ordre de ses fibres, il arrive aussi quelque perception nouvelle dans l’âme ; elle sent nécessairement, ou elle imagine quelque
-chose de nouveau, et l’âme ne peut jamais rien sentir, ni rien
-imaginer de nouveau, qu’il n’y ait du changement dans les fibres
-de cette même partie du cerveau.
+We must note, however, that the brain’s fibers are moved far more strongly by impressions from external objects than by the flow of the animal spirits. This is why the soul is affected much more vividly by things it judges to be present and capable of causing pleasure or pain, than by the movements that produce images in the mind.
 
-De sorte que la faculté d’imaginer, ou l’imagination, ne
-consiste que dans la puissance qu’a l’âme de se former des
-images des objets, en produisant du changement dans les fibres
-de cette partie du cerveau que l’on peut appeler principale,
-parce qu’elle répond à toutes les parties de notre corps, et que
-c’est le lieu où notre âme réside immédiatement, s’il est permis
-de s’exprimer ainsi.
+Yet it sometimes happens in people whose animal spirits are unusually active — due to fasting, lack of sleep, fever, or intense passion — that these spirits can stir the inner fibers of the brain with as much force as external objects. In such cases, they *feel* what ought only to be imagined, and believe they see before their eyes things that exist only in their own minds. This confirms what I have said: physically speaking, the senses and the imagination differ only in degree.
 
-II. Cela fait voir clairement que cette puissance qu’a l’âme de
-former des images renferme deux choses : l’une qui dépend de
-l’âme même, et l’autre qui dépend du corps. La première est
-l’action, et le commandement de la volonté ; la seconde est
-l’obéissance que lui rendent les esprits animaux qui tracent ces
-images, et les fibres du cerveau sur lesquelles elles doivent être
-gravées. Dans cet ouvrage, on appelle indifféremment du nom
-d’imagination l’une ou l’autre de ces deux choses ; et on ne les
-distingue point par les mots d’active et de passive qu’on leur
-pourrait donner, parce que le sens de la chose dont on parle
-marque assez de laquelle des deux on entend parler, si c’est de
-l’imagination active de l’âme, ou de l’imagination passive du
-corps.
+To give a clearer and more precise definition of the imagination, we must understand that every change occurring in the region of the brain where the nerves converge corresponds to a change in the soul. As we have already explained, whenever the flow of spirits alters the arrangement of the fibers in this area, a new perception arises in the soul. It necessarily feels or imagines something new; and the soul can never feel or imagine anything new without a corresponding change in the fibers of this same part of the brain.
 
-On ne détermine point encore en particulier quelle est cette
-partie principale dont on vient de parler. Premièrement parce
-qu’on le croit assez inutile. Secondement parce que cela est fort
-incertain. Et enfin parce que n’en pouvant convaincre les autres,
-à cause que c’est un fait qui ne se peut prouver ici ; quand on serait très assuré quelle est cette partie principale, on croit qu’il
-serait mieux de n’en rien dire.
-
-Que ce soit donc, selon le sentiment d'Uvlis, dans les deux
-petits corps qu’il appelle corpora striata, que réside le sens
-commun ; que les sinuosités du cerveau conservent les espèces
-de la mémoire, et que le corps calleux soit le siège de
-l’imagination : que ce soit suivant le sentiment de Fernel dans la
-pie-mère, qui enveloppe la substance du cerveau ; que ce soit
-dans la glande pinéale de M. Descartes, ou enfin dans quelque
-autre partie inconnue jusques ici, que notre âme exerce ses
-principales fonctions, on ne s’en met pas fort en peine. Il suffit
-qu’il y ait une partie principale ; et cela est même absolument
-nécessaire, comme aussi que le fond du système de M. Descartes
-subsiste. Car il faut remarquer que quand il se serait trompé,
-comme il y a bien de l’apparence, lorsqu’il a assuré que c’est à
-la glande pinéale que l’âme est immédiatement unie, cela
-toutefois ne pourrait faire de tort au fond de son système, duquel
-on tirera toujours toute l’utilité qu’on peut attendre du véritable,
-pour avancer dans la connaissance de l’homme.
-
-III. Puis donc que l’imagination ne consiste que dans la force
-qu’a l’âme de se former des images des objets, en les imprimant
-pour ainsi dire dans les fibres de son cerveau ; plus les vestiges
-des esprits animaux, qui sont les traits de ces images, seront
-grands et distincts, plus l’âme imaginera fortement et
-distinctement ces objets. Or de même que la largeur, la
-profondeur et la netteté des traits de quelque gravure dépend de
-la force dont le burin agit et de l’obéissance que rend le cuivre,
-ainsi la profondeur et la netteté des vestiges de l’imagination
-dépend de la force des esprits animaux, et de la constitution des fibres du cerveau ; et c’est la variété qui se trouve dans ces deux
-choses qui fait presque toute cette grande différence, que nous
-remarquons entre les esprits.
-
-Car il est assez facile de rendre raison de tous les différents
-caractères qui se rencontrent dans les esprits des hommes : d’un
-côté par l’abondance, et la disette, par l’agitation, et la lenteur,
-par la grosseur et la petitesse des esprits animaux ; et de l’autre,
-par la délicatesse et la grossièreté, par l’humidité, et la
-sécheresse, par la facilité et la difficulté de se ployer des fibres
-du cerveau, et enfin par le rapport que les esprits animaux
-peuvent avoir avec ces fibres. Et il serait fort à propos que
-d’abord chacun tâchât d’imaginer toutes les différentes
-combinaisons de ces choses, et qu’on les appliquât soi-même à
-toutes les différences qu’on a remarquées entre les esprits ; parce
-qu’il est toujours plus utile et même plus agréable de faire usage
-de son esprit, et de l’accoutumer ainsi à découvrir par lui-même
-la vérité, que de le laisser corrompre dans l’oisiveté, en ne
-l’appliquant qu’à des choses toutes digérées, et toutes
-développées. Outre qu’il y a des choses si délicates et si fines
-dans la différence des esprits, qu’on peut bien quelquefois les
-découvrir et les sentir soi-même, mais on ne peut pas les
-représenter ni les faire sentir aux autres.
-Mais afin d’expliquer autant qu’on le peut toutes ces
-différences qui se trouvent entre les esprits, et afin qu’un chacun
-remarque plus aisément dans le sien même la cause de tous les
-changements, qu’il y sent en différents temps, il semble à propos
-d’examiner en général les causes des changements qui arrivent
-dans les esprits animaux et dans les fibres du cerveau, parce
-qu’ainsi on découvrira tous ceux qui se trouvent dans l’imagination.
-
-L’homme ne demeure guère long-temps semblable à lui-même ;
-tout le monde a assez de preuves intérieures de son inconstance ;
-on juge tantôt d’une façon et tantôt d’une autre sur le même sujet ;
-en un mot, la vie de l’homme ne consiste que dans la circulation
-du sang, et dans une autre circulation de pensées et de désirs, et il
-semble qu’on ne puisse guère mieux employer son temps qu’à
-rechercher les causes de ces changements qui nous arrivent, et
-apprendre ainsi à nous connaître nous-mêmes.
+Thus, the faculty of imagining — or the imagination itself — consists in nothing more than the power the soul possesses to form images of objects by producing changes in the fibers of what we may call the *principal part* of the brain. This region is linked to all parts of the body, and it is here that the soul is immediately united to the body, if we may speak in such terms.
 
 
+## The Imagination involves 2 faculties, one active and the other passive
+
+This makes clear that the soul’s power to form images involves two distinct elements: one that depends on the soul itself, and another that depends on the body. The first is the activity and command of the will; the second is the response of the animal spirits, which trace these images, and of the brain fibers, upon which they are impressed. In this work, we use the word “imagination” to refer to either of these aspects interchangeably. We do not usually distinguish them by the terms “active” and “passive,” because the context of our discussion will make clear whether we mean the active imagination of the soul or the passive imagination of the body.
+
+We shall not attempt to identify exactly which part of the brain this “principal region” is. First, because such precision is unnecessary for our purpose. Second, because the matter remains uncertain. And finally, because even if we were certain of its location, we could not prove it in a way that would convince others; and it is better not to speak of what cannot be demonstrated.
+
+Whether, as Willis believed, the “common sense” resides in the two structures he calls the *corpora striata*, while the folds of the brain store the images of memory and the corpus callosum serves as the seat of the imagination; or whether, following Fernel, it is found in the membrane that covers the brain; or whether it lies in the pineal gland as Descartes maintained; or even in some other part yet to be discovered — we need not concern ourselves with the exact location. It is enough to accept that there *is* such a principal region, and that the core of Descartes’ system remains valid. Even if he was mistaken — as seems likely — in claiming that the soul is immediately joined to the pineal gland, this error does not undermine the fundamental principles of his theory, from which we can still draw all the insight needed to advance our understanding of human nature.
+
+
+
+## The general cause of changes occurring in the human imagination, and the purpose of book 2
+
+
+Since the imagination consists simply in the soul’s power to form images of objects by impressing them, as it were, upon the fibers of the brain, the deeper and more distinct the traces left by the animal spirits — which are the marks of these images — the more vivid and clear the soul’s imagination will be.
+
+Just as the depth, breadth, and sharpness of lines in an engraving depend on the force of the tool and the receptivity of the metal, so the clarity and depth of the traces left by the imagination depend on the strength of the animal spirits and the condition of the brain’s fibers. It is the variations in these two factors that account for almost all the differences we observe between one person’s mental capacity and another’s.
+
+We can readily explain the great diversity of human temperament and mental ability by considering: on the one hand, whether the animal spirits are abundant or scarce, fast‑moving or sluggish, coarse or fine; and on the other, whether the brain fibers are delicate or dense, moist or dry, flexible or rigid, and how well suited they are to respond to the flow of the spirits.
+
+It would be very useful for each person to consider all the possible combinations of these factors, and then compare them with the differences they observe between people. It is always more valuable and rewarding to train the mind to discover truth for itself, rather than letting it grow dull from inactivity and receiving only ideas already fully worked out and explained. Moreover, some of these distinctions are so subtle that one may sense and recognize them in oneself, yet find it impossible to describe them clearly to others.
+
+Nevertheless, to explain as fully as possible these differences between minds, and to help each person understand more easily the causes of the changes they feel in themselves from time to time, it seems best to examine generally the reasons why the animal spirits and the brain fibers change. In this way, we will also uncover the causes of all changes in the imagination.
+
+Human nature is seldom constant for long; everyone feels within themselves how changeable they are. We judge the same matter one way at one time and quite differently at another. In short, our life consists not only in the circulation of the blood, but also in a constant flow of thoughts and desires. We can scarcely use our time more profitably than by seeking to understand the causes of these inner changes, and thereby learning to know ourselves.
