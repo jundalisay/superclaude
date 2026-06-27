@@ -1,6 +1,6 @@
 ---
 heading: Chapter 14
-title: ""
+title: "False Judgmenets"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -11,182 +11,44 @@ date: 2026-06-20
 
 
 
-I. Des faux jugements qui accompagnent nos sensations, et que nous confondons avec
-elles. — II. Raisons de ces faux jugements. — III. Que l’erreur ne se trouve
-point dans non sensations, mais seulement dans ces jugements.
 
-I. On prévoit bien d’abord qu’il se trouvera très-peu de
-personnes qui ne soient choquées de cette proposition générale
-que l’on avance ; savoir : que nous n’avons aucune sensation des
-objets de dehors qui ne renferme un ou plusieurs faux jugements.
-On sait bien que la plupart ne croient pas même qu’il se trouve
-aucun jugement ou vrai ou faux dans nos sensations. De sorte que
-ces personnes, surprises de la nouveauté de cette proposition,
-diront sans doute en eux-mêmes : Mais comment cela se peut-il
-faire ? Je ne juge pas que cette muraille soit blanche, je vois bien
-quelle l’est ; je ne juge point que la douleur soit dans ma main, je
-l’y sens très-certainement ; et qui peut douter de choses si certaines, s’il ne sent les objets autrement que je ne fais ? Enfin
-leurs inclinations pour les préjugés de l’enfance les porteront
-bien plus avant ; et s’ils ne passent aux injures et au mépris de
-ceux qu’ils croiront persuadés des sentiments contraires aux
-leurs, ils mériteront sans doute d’être mis au nombre des
-personnes modérées.
+## The false judgments that accompany our sensations and which we confuse with them.
 
-Mais il ne faut pas nous arrêter à prophétiser les mauvais
-succès de nos pensées ; il est plus à propos de tâcher de les
-produire avec des preuves si fortes, et de les mettre dans un si
-grand jour, qu’on ne puisse les attaquer les yeux ouverts, ni les
-regarder avec attention sans s’y soumettre. On doit prouver que
-nous n’avons aucune sensation des objets de dehors qui ne renferme quelque faux jugement ; en voici la preuve.
+At first glance, it is easy to foresee that very few people will agree with the general proposition we are about to advance: namely, that every sensation we receive from external objects contains one or more false judgments. Most people do not even believe that any judgment — true or false — is involved in our sensations at all. Surprised by the novelty of this claim, they will undoubtedly say to themselves: *“How can this be? I do not judge that this wall is white; I simply see that it is. I do not judge that pain is in my hand; I feel it there with absolute certainty. Who could doubt such obvious facts, unless they perceive things differently from me?”*
 
-Il est, ce me semble, indubitable que nos âmes ne remplissent
-pas des espaces aussi vastes que ceux qui sont entre nous et les
-étoiles fixes, quand même on accorderait qu’elles fussent
-étendues ; ainsi, il n’est pas raisonnable de croire que nos âmes
-soient dans les cieux quand elles y voient des étoiles. Il n’est pas
-même croyable qu’elles sortent à mille pas de leur corps pour
-voir des maisons à cette distance. Il est donc nécessaire que notre
-âme voie les maisons et les étoiles où elles ne sont pas,
-puisqu’elle ne sort point du corps, où elle est, et qu*elle ne laisse
-pas de les voir hors de lui. Or, comme les étoiles qui sont
-immédiatement unies à l’âme, lesquelles sont les seules que
-l’âme puisse voir, ne sont pas dans les cieux, il s’ensuit que tous
-les hommes qui voient les étoiles dans les cieux, et qui jugent
-ensuite volontairement qu’elles y sont, font deux faux jugements,
-dont l’un est naturel et l’autre libre. L’un est un jugement des sens
-ou une sensation composée qui est en nous sans nous et même malgré nous, et selon laquelle on ne doit pas juger ; l’autre est un
-jugement libre de la volonté que l’on peut s’empêcher de faire, et
-par conséquent que l’on ne doit pas faire, si l’on veut éviter
-l’erreur.
+In fact, their attachment to the prejudices of childhood will carry them even further; and if they stop short of insulting or looking down upon those whose views differ from their own, they may still be counted among the more reasonable and moderate.
+
+But we need not dwell on how difficult these ideas may be to accept. It is better to present them with such strong evidence and in such clear light that no one can reject them openly or examine them closely without being convinced. We must prove that every sensation of external objects contains some false judgment; here is the proof.
+
+It seems undeniable that our souls do not occupy spaces as vast as the distance between us and the fixed stars — even if we were to grant that the soul has any extension at all. It is therefore unreasonable to believe that our souls are actually in the heavens when we see stars there. Nor is it credible that the soul travels thousands of feet outside the body just to see houses at a distance. It follows that the soul sees houses and stars where they are not, since it never leaves the body in which it resides, yet still perceives them as being outside itself.
+
+Now, the only “stars” directly united to the soul — and therefore the only ones the soul can truly see — are not located in the sky. This means that when people look up and see stars in the heavens, and then freely judge that the stars are actually there, they are making two kinds of false judgments: one natural, the other voluntary. The first is a judgment of the senses, or a compound sensation, which arises in us without our doing and even against our will; it is not something we ought to rely on when forming conclusions. The second is a free judgment of the will, which we can choose not to make — and therefore ought not to make, if we wish to avoid error.
+
+## The reasons for these false judgments
+
+Here is why we believe that the objects we immediately perceive exist outside the soul and in the world around us. The soul cannot choose to see them whenever it pleases; it becomes aware of them only when certain movements occur in the brain — movements to which, by the laws of nature, the ideas of these objects are linked. Since the soul does not perceive the activity of its own organs, but only the sensations themselves, and since it knows these sensations are not produced by itself, it naturally concludes that they exist outside it, in the things that cause them. This habit of judging in this way at the very moment of perception has become so ingrained that it is almost impossible to stop doing it.
+
+To explain this fully, we would need to show how unnecessary it is to imagine those countless tiny entities called “species” or “ideas” — insubstantial beings supposedly created and destroyed at will, invented out of ignorance to explain things we do not understand. We would also need to explain the view that God is the true source of light, the only one who illuminates all minds; without Him, even the simplest truths would be unintelligible, and the sun itself, bright as it is, would remain invisible. This is the principle that led me to the seemingly paradoxical conclusion that the ideas representing created things are nothing other than aspects of God’s own perfection, which correspond to and represent those things. In short, we would need to lay out and prove my understanding of the nature of ideas; only then could we speak more clearly on these matters. But this would take us too far afield; I will treat this fully in Book III, as the proper order of the subject requires.
+
+For now, a simple and undeniable example will suffice to show how judgments become mixed together with sensation.
+
+I believe everyone who looks at the moon sees it as being about a thousand paces away, and notices that it appears larger when it rises or sets than when it is high above the horizon. Most people assume they are simply seeing it as it is, without realizing that any judgment is involved in their perception. Yet it is certain that if no kind of judgment were mixed into the sensation, the moon would not appear as close as it does. Furthermore, it would look *smaller* when rising than when high in the sky — not larger — if it were not for a natural judgment (explained in Chapter VI) that makes us perceive it as farther away, and therefore as bigger.
+
+In addition to these natural judgments, which we may regard as compound sensations, almost every perception also includes a free judgment. For example, people do not only *feel* pain in their hand — they also *judge* and *believe* that the pain is actually located there. They have become so accustomed to forming such judgments that it is very difficult to break the habit. Although these judgments are highly useful for preserving life, they are fundamentally false; our senses are designed only to serve the needs of the body, and any free judgment that follows the impressions of the senses strays far from the truth.
+
+To make this clearer, we must distinguish two kinds of things: those that the soul sees *directly*, and those it knows only *through* the first kind. When I look at the rising sun, I first perceive the sun as it appears immediately to my mind. Because this perception arises only when something outside me causes certain movements in my eyes and brain, I then judge that this “sun as perceived” exists outside me and is the same as the real sun.
+
+Yet it is possible to see this immediate appearance of the sun even when the real sun is not on the horizon, or even if it did not exist at all. Similarly, the sun may look larger when it rises than when it is high in the sky; and while it is true that the *appearance* I see directly is indeed larger at that moment, it does not follow that the *real sun* I am looking toward has actually grown in size. The real sun is millions of miles away and cannot be seen directly. What we truly see is the immediate appearance, which is exactly as it appears to us. We go wrong only when we judge that what we see directly exists in the external objects that gave rise to the sensation.
+
+In the same way, when we see light as part of this immediate perception, we are not mistaken in believing that we are seeing light — that much is certain. The error lies in insisting, without reason and even against reason, that this light we perceive directly exists as a quality in the sun itself. The same applies to everything else we perceive through the senses.
 
 
-II. Mais voici pourquoi l’on croit que ces mêmes étoiles que
-l’on voit immédiatement sont hors de l’âme et dans les cieux.
-C’est qu’il n’est pas en la puissance de l’âme de les voir quand il
-lui plaît ; car elle ne peut les apercevoir que lorsqu’il arrive dans
-son cerveau des mouvements auxquels les idées de ces objets
-sont jointes par la nature. Or, parce que l’âme n’aperçoit point
-les mouvements de ses organes, mais seulement ses propres
-sensations, et qu’elle sait que ces mêmes sensations ne sont point
-produites en elle par elle-même, elle est portée à juger qu’elles
-sont au dehors et dans la cause qui les lui représente ; et elle a
-fait tant de lois ces sortes de jugements dans le même temps
-qu’elle aperçoit les objets, qu’elle ne peut presque plus
-s’empêcher de les faire.
+## Error lies not in our sensations themselves, but only in these judgments.
 
-Il serait nécessaire, pour expliquer à fond ce que je viens de
-dire, de montrer l’inutilité de ce nombre infini de petits êtres
-qu’on nomme des espèces et des idées, qui ne sont comme rien et
-qui représentent toutes choses, que nous créons et que nous
-détruisons quand il nous plaît, et que notre ignorance nous a fait
-imaginer pour rendre raison des choses que nous n’entendons
-point. Il faudrait faire voir la solidité du sentiment de ceux qui
-croient que Dieu est le vrai père de la lumière, qui éclaire seul
-tous les hommes, sans lequel les vérités les plus simples ne
-seraient point intelligibles, et le soleil, tout éclatant qu’il est, ne
-serait pas même visible ; car c’est ce sentiment qui m’a conduit à
-la découverte de cette vérité, qui paraît un paradoxe : que les idées qui nous représentent les créatures ne sont que des
-perfections de Dieu qui répondent à ces mêmes créatures et qui
-les représentent. En un mot il faudrait expliquer et prouver le
-sentiment que j’ai sur la nature des idées, et ensuite il serait
-facile de parler plus nettement des choses que je viens de dire ;
-mais cela nous mènerait trop loin. On n’expliquer tout ceci que
-dans le troisième livre ; l’ordre le demande ainsi. Il suffit
-présentement que j’apporte un exemple très-sensible et
-incontestable, où il se trouve plusieurs jugements confondus avec
-une même sensation.
+If we recall what has been said both at the beginning and throughout this work, it will be easy to see that among all the elements of a sensation, error is found *only* in the judgments we make — not in the sensation itself.
 
-Je crois qu’il n’y a personne au monde qui, regardant la lune,
-ne la voie environ à mille pas loin de soi, et qui ne la trouve plus
-grande lorsqu’elle se lève ou qu’elle se couche que lorsqu’elle
-est fort élevée sur l’horizon, et peut-être même qui ne croie voir
-seulement qn’elle est plus grande, sans penser qu’il se trouve
-aucun jugement dans sa sensation. Cependant il est indubitable
-que, s’il n’y avait point quelque espère de jugement renfermé
-dans sa sensation, il ne verrait point la lune dans la proximité où
-elle lui paraît ; et, outre cela, il la verrait plus petite lorsqu’elle
-se lève que lorsqu’elle est fort élevée sur l’horizon, puisque nous
-ne la voyons plus grande quand elle se lève qu’à cause que nous
-la jugeons plus éloignée par un jugement naturel dont j’ai parlé
-dans le sixième chapitre.
+First, there is no error in being unaware that the action of objects consists in the motion of their particles, and that this motion is transmitted to our sense organs. These are the first two stages in every perception; but there is a great difference between *not knowing* something and *being mistaken* about it.
 
-Mais, outre nos jugements naturels, que l’on peut regarder
-romme des sensations composées, il se rencontre dans presque
-toutes nos sensations un jugement libre ; car, non-seulement les
-hommes jugent par un jugement naturel que la douleur par
-exemple est dans leur main, ils le jugent aussi par un jugement
-libre ; non seulement ils l’y sentent, mais ils l’y croient ; et ils ont pris une si forte habitude de former de tels jugements, qu’ils ont
-beaucoup de peine à s’en empêcher. Cependant ces jugements
-sont très-faux en eux-mêmes, quoique fort utiles à la conservation
-de la vie ; car nos sens ne nous instruisent que pour notre corps,
-et tous les jugements libres qui sont conformes aux jugements des
-sens sont très-éloignés de la vérité.
+Second, we are not deceived in the third stage, which is the sensation itself. When we feel heat, or see light, colors, or other appearances, it is true that we are experiencing them — even if we were delirious. What visionaries claim to see, they truly do see; their mistake lies only in judging that what they see actually exists outside them, simply because it appears to them as being outside.
 
-Mais, afin de ne laisser pas toutes ces choses sans donner
-quelque moyen d’en découvrir les raisons, il faut reconnaître
-qu’il y a de deux sortes d’êtres : des êtres que notre âme voit
-immédiatement, et d’autres qu’elle ne connaît que par le moyen
-des premiers. Par exemple, lorsque j’aperçois le soleil qui se
-lève, j’aperçois premièrement celui que je vois immédiatement ;
-et parce que je n’aperçois ce premier qu’à cause qu’il y a
-quelque chose hors de moi qui produit certains mouvements dans
-mes yeux et dans mon cerveau, je juge que ce premier soleil, qui
-est dans mon âme, est au dehors et qu’il existe ll peut toutefois arriver que nous voyions ce premier soleil,
-qui est uni intimement à notre âme, sans que l’autre soit sur
-l’horizon et même sans qu’il existe du tout. De même, nous
-pouvons voir ce premier soleil plus grand lorsque l’autre se lève
-que quand il est fort élevé sur l’horizon ; et, quoiqu’il soit vrai
-que ce premier soleil que nous voyons immédiatement soit plus
-grand quand l’autre se lève, il ne s’ensuit pas que cet autre que
-nous regardons, ou vers lequel nous tournons les yeux, soit plus
-grand : car ce n’est pas proprement celui qui se lève que nous
-voyons, ce n’est pas celui que nous regardons, puisqu’il est
-éloigné de plusieurs millions de lieues ; mais c’est ce premier
-qui est véritablement plus grand et tel que nous le voyons, parce
-que toutes les choses que nous voyons immédiatement sont toujours telles que nous les voyons, et nous ne nous trompons que
-parce que nous jugeons que ce que nous voyons immédiatement
-se trouve dans les objets extérieurs, qui sont cause de ce que
-nous voyons.
-
-De même, quand nous voyons de la lumière en voyant ce
-premier soleil qui est immédiatement uni à notre esprit, nous ne
-nous trompons pas de croire que nous en voyons ; il n’est pas
-possible d’en douter. Mais notre erreur est que nous voulons,
-sans aucune raison et même contre toute raison, que cette lumière
-que nous voyons immédiatement existe dans le soleil qui est hors
-de nous. C’est la même chose des autrès-objets de nos sens.
-III. Si l’on prend garde à ce que nous avons dit dès le
-commencement et dans la suite de cet ouvrage, il sera facile de
-voir que, de toutes les choses qui se trouvent dans chaque
-sensation, l’erreur ne se rencontre que dans les jugements que
-nous faisons, que nos sensations sont dans les objets.
-Premièrement, ce n’est pas une erreur d’ignorer que l’action
-des objets consiste dans le mouvement de quelques-unes de leurs
-parties, et que ce mouvement se communique aux organes de nos
-sens, qui sont les deux premières choses qui se trouvent dans
-chaque sensation ; car il y a bien de la différence entre ignorer
-une chose et être dans une erreur à l’égard de cette chose.
-Secondement, nous ne nous trompons point dans la troisième,
-qui est proprement la sensation. Lorsque nous sentons de la
-chaleur, lorsque nous voyons de la lumière, des couleurs ou
-d’autres objets, il est vrai que nous les voyons, quand même nous
-serions frénétiques ; car il n’y a rien de plus vrai que tous les
-visionnaires voient ce qu’ils voient, et leur erreur ne consiste que
-dans les jugements qu’ils font que ce qu’ils voient existe véritablement au dehors à cause qu’ils le voient au dehors.
-
-C’est ce jugement qui renferme un consentement de notre
-liberté, et par conséquent qui est sujet à l’erreur ; et nous devons
-toujours nous empêcher de le faire, selon la règle que nous avons
-mise au commencement de ce livre : que nous ne devons jamais
-juger de quoi que ce soit. lorsque nous pouvons nous en
-empêcher, et que l’évidence et la certitude ne nous y contraignent
-pas ; comme il arrive ici ; car, quoique nous nous sentions
-extrêmement portés, par une habitude très-forte, à juger que nos
-sensations sont dans les objets, comme que la chaleur est dans le
-feu et les couleurs dans les tableaux, cependant nous ne voyons
-point de raison certaine et évidente qui nous presse et qui nous
-oblige à le croire ; et ainsi nous nous soumettons volontairement
-à l’erreur, par le mauvais usage que nous faisons de notre liberté,
-quand nous formons librement de tels jugements.
-
-
+This judgment involves the free consent of our will, and for that reason it is open to error. We must always avoid making it, following the rule laid down at the start of this book: we should never form a judgment about anything unless we cannot avoid it, and unless clear evidence and certainty compel us to do so. That is not the case here. Even though a strong habit makes us feel compelled to believe that sensations exist in the objects themselves — that heat is in fire, or colors in a painting — we have no clear and certain reason to accept this belief. When we freely form such judgments, we are voluntarily surrendering to error through the misuse of our own freedom.

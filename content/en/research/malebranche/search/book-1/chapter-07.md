@@ -4,7 +4,7 @@ title: "Errors of Sight"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 7
+weight: 16
 date: 2026-06-20
 ---
 

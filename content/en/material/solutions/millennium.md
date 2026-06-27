@@ -60,6 +60,8 @@ This is really just the difference between intellect and intuition.
 
 We solve this through Supermath and Qualimath 
 
+{{< youtube sc5rvo4T6lU >}}
+
 
 
 ## Non Problems Euler-based
@@ -70,11 +72,13 @@ These all use Riemann.
 
 1. Hodge Conjecture
 
-This uses the Riemann sphere.
+This uses the Riemann sphere which makes it a non-problem.
 
 2. Riemann Hypothesis
 
-This uses the Riemann zeta function.
+This uses the Riemann zeta function which also makes it a non-problem.
+
+{{< youtube Rib0LHgrrYM >}}
 
 <!-- This is based on the corruption of imaginary numbers which was began by Euler.  -->
 
@@ -88,9 +92,11 @@ This also indirectly uses the Riemann zeta function.
 
 There are some problems that are caused by the wrong assumptions of Newtonian Physics and ignorance of the 5 Elements. 
 
-1. Yang Mills and Mass Group
+1. Yang Mills and Mass Gap
 
 This is solved by 5 Elements Model. 
+
+{{< youtube 9fcSy0qijj8 >}}
 
 2. Navier Stokes
 
@@ -98,6 +104,7 @@ This is caused by applying F=ma to fluids which actually use the 2nd Element. Th
 
 This can be used for levitation and plasma turbulence. 
 
+{{< youtube ikYmSLPCl5o >}}
 
 
 <!-- ## Using Qualimath to Solve Them

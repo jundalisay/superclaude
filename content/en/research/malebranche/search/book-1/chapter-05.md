@@ -4,7 +4,7 @@ title: "How our senses are corrupted by sin"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 7
+weight: 11
 date: 2026-06-20
 ---
 

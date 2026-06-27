@@ -1,6 +1,6 @@
 ---
 heading: Chapter 12
-title: "The Passions"
+title: "Passions directed toward evil are the most dangerous and unjust"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,220 +9,46 @@ date: 2026-06-20
 ---
 
 
-Que les passions qui ont le mal pour objet sont les plus dangereuses et les plus injustes,
-et que celles quisont le moins accompagnées de connaissance sont les plus vives et les
-plus sensibles.
 
+### The Passions least accompanied by understanding are the most intense and vivid
 
-De toutes les passions, celles dont les jugements sont les plus
-éloignés de la raison et les plus à craindre, sont toutes les
-espèces d’aversions, il n’y a point de passions qui corrompent
-davantage la raison en leur faveur, que la haine et que la crainte ;
-la haine dans les bilieux principalement ou dans ceux dont les
-esprits sont dans une agitation continuelle, et la crainte dans les
-mélancoliques ou dans ceux dont les esprits grossiers et solides
-ne s’agitent et ne s’apaisent pas avec facilité. Mais lorsque la
-haine et la crainte conspirent ensemble à corrompre la raison, ce
-qui est fort ordinaire, alors il n’y a point de jugements si injustes
-et si bizarres qu’on ne soit capable de former et de soutenir avec
-une opiniâtreté insurmontable.
+Of all the passions, those whose judgments are farthest removed from reason and most to be feared are the various forms of aversion. No passions corrupt reason more thoroughly in their own favor than hatred and fear — hatred especially in those of a choleric temperament or whose spirits are in constant agitation; and fear in the melancholy, or those whose spirits are coarse and sluggish, so that they are neither easily roused nor easily calmed. But when hatred and fear join forces to corrupt reason — which happens very often — there is no judgment so unjust or absurd that we are not capable of forming it and defending it with unshakable obstinacy.
 
+The reason for this is that the evils of this life affect the soul far more strongly than its benefits. The feeling of pain is sharper than the feeling of pleasure; insults and contempt are felt much more keenly than praise and applause. And while there are people who remain indifferent enough to enjoy certain pleasures or accept certain honors, it is hard to find anyone who can endure pain and scorn without distress.
 
-La raison de ceci est que les maux de cette vie touchent plus
-vivement l’âme que les biens. Le sentiment de douleur est plus
-vif que le sentiment du plaisir. Les injures et les opprobres sont
-beaucoup plus sensibles que les louanges et les
-applaudissements ; et si l’on trouve des gens assez indifférents
-pour goûter de certains plaisirs et pour recevoir de certains
-honneurs, il est difficile d’en trouver qui souffrent la douleur et le
-mépris sans inquiétude.
+Thus hatred, fear, and all other forms of aversion directed toward evil are extremely violent passions. They strike the mind with sudden shocks that daze and confuse it; they soon penetrate to the inmost depths of the soul, dethrone reason from its proper place, and pronounce judgments of error and injustice on every subject — all to serve their own folly and tyranny.
 
+These are the cruelest and most distrustful of all passions, the most opposed to charity and social harmony, and at the same time the most ridiculous and irrational. They produce judgments so unreasonable and absurd that they arouse both laughter and indignation in everyone.
 
-Ainsi la haine, la crainte et les autres espèces d’aversions qui
-ont le mal pour objet sont des passions très-violentes. Elles
-donnent à l’esprit des secousses imprévues qui l’étourdissent et
-qui le troublent ; elles pénètrent bientôt jusque dans le plus secret
-de l’âme, et renversant la raison de son siège, elles prononcent sur toutes sortes de sujets des jugements d’erreur et d’iniquité
-pour favoriser leur folie et leur tyrannie.
+It was these passions that put such outrageous words into the mouths of the Pharisees: “What shall we do? This man performs many signs. If we let him go on, everyone will believe in him, and the Romans will come and destroy both our city and our nation.” They agreed that Jesus Christ had worked many miracles — the raising of Lazarus was undeniable. Yet what judgment did their passions produce? To put Jesus Christ to death, and even to kill Lazarus, whom he had brought back to life. Why put Jesus to death? “Because if we let him continue, everyone will believe in him, and the Romans will come and destroy our city and our nation.” And why kill Lazarus? “Because many of the Jews were turning away from them and believing in Jesus.” Cruel and absurd judgments at once: cruel through hatred, and absurd through fear of the Romans coming to destroy their city and nation.
 
+These same passions led a council consisting of Annas the high priest, Caiaphas, John, Alexander, and all the members of the priestly line to say: “What shall we do with these men? For they have performed a miracle that is known to everyone in the city; we cannot deny it. But to keep this teaching from spreading further among the people, let us threaten them with punishment if they continue to speak in the name of Jesus.”
 
-De toutes les passions ce sont les plus cruelles et les plus
-défiantes, les plus contraires à la charité et à la société civile, et
-en même temps les plus ridicules et les plus extravagantes, car
-elles forment des jugements si impertinents et si bizarres, qu’ils
-excitent la risée et l’indignation de tous les hommes.
-Ce sont ces passions qui mettaient dans la bouche des
-pharisiens ces discours extravagants : Que faisons-nous ? Cet
-homme fait plusieurs miracles. Si nous le laissons continuer,
-tout le monde croíra en lui
-[14]
-, les Romains viendront et
-ruineront noire ville et notre nation. Ils tombaient d’accord que
-Jésus-Christ faisait plusieurs miracles. la résurrection de Lazare
-était incontestable. Quel était cependant le jugement de leurs
-passions ? De faire mourir Jésus-Christ et Lazare même qu’il
-avait ressuscité. Mais pour quelle raison faire mourir JésusChrist ? parce que si nous le laissons continuer, tout le monde croira en lui, les Romains viendront et ruineront notre ville et
-notre nation. Et pourquoi vouloir donner la mort à Lazare ?
-Parce que plusieurs Juifs se retiraient d’avec eux à cause de
-lui, et croyaient en Jésus
-[15]
-. Jugements cruels et extravagants
-tout ensemble : cruels par la haine et extravagants par la crainte,
-les Romains viendront et ruineront notre ville et notre nation.
-Ce sont ces mêmes passions qui faisaient dire à une assemblée
-composée d’Anne le grand-prêtre, de Caïphe, Jean, Alexandre, et
-de tous ceux qui étaient de la race sacerdotale : Que ferons-nous
-à ces gens-ci ? car ils ont fait un miracle qui est connu de toute
-la ville, nous ne pouvons pas le nier. Mais afin que cela ne se
-répande pas davantage parmi le peuple. menaçons-les de les punir s’ils continuent d’enseigner au nom Je Jésus
-[16]
-.
-Tous ces grands hommes prononcent un jugement injuste et
-impertinent tout ensemble, parce que leurs passions les agitent et
-que leur faux zèle les aveugle. Ils n’osent punir les apôtres à
-cause du peuple, et parce que l’homme qui avait été
-miraculeusement guéri avait plus de quarante ans et était présent
-à l’assemblée, mais ils les menacent pour les empêcher
-d’enseigner au nom de Jésus. Ils s’imaginent devoir condamner
-une doctrine à cause qu’ils en ont fait mourir l’auteur. Vous
-voulez, disent-ils aux apôtres, nous charger du sang de cet
-homme
-[17]
-.
-Lorsque le faux zèle se joint à la haine, il la met à couvert des
-reproches de la raison, et il la justifie de telle manière qu’on
-ferait même scrupule de n’en pas suivre les mouvements. Et
-lorsque l’ignorance et la faiblesse accompagnent la crainte, elles
-l’étendent à une infinité de sujets, et elles en fortifient de telle
-sorte les émotions, que le moindre soupçon effarouche et trouble
-la raison.
-Les faux zélés s’imaginent rendre service à Dieu lorsqu’ils
-obéissent à leurs passions. Ils suivent aveuglément les
-inspirations secrètes de leur haine comme des inspirations de la
-vérité intérieure ; et s’arrêtant avec plaisir aux preuves de
-sentiment qui justifient leur excès, ils se confirment dans leurs
-erreurs avec une opiniâtreté insurmontable.
+All these eminent men pronounced a judgment both unjust and unreasonable, because their passions stirred them and their false zeal blinded them. They dared not punish the apostles openly because of the people, and because the man who had been miraculously healed was over forty years old and standing right there before them. Instead, they threatened them to stop them from teaching in Jesus’ name. They imagined they must condemn a doctrine because they had put its author to death. “You intend,” they said to the apostles, “to bring this man’s blood upon us.”
 
+When false zeal joins with hatred, it shields hatred from the reproaches of reason and justifies it so completely that we may even feel guilty for not following its impulses. And when ignorance and weakness accompany fear, they extend that fear to countless things, and intensify its force so that the slightest suspicion alarms and confuses reason.
 
-Pour les ignorants et les esprits faibles, ils se font des sujets
-de crainte imaginaires et ridicules. Ils ressemblent aux enfants
-qui marchent dans les ténèbres sans guide et sans flambeau ; ils
-se figurent des spectres épouvantables, ils se troublent et se
-récrient comme si tout était perdu. La lumière les rassure s’ils sont ignorants ; mais si ce sont des esprits faibles, leur
-imagination en demeure toujours blessée. La moindre chose qui a
-quelque rapport à ce qui les a effrayés renouvelle les traces et le
-cours des esprits qui causent le symptôme de leur crainte. Il est
-absolument impossible de les guérir ou de les apaiser pour
-toujours.
-Mais lorsque le faux zèle se rencontre avec la haine et la
-crainte dans un esprit faible, il se produit sans cesse dans cet
-esprit des jugements si injustes et si violents, qu’on ne peut y
-penser sans horreur. Pour changer un esprit possédé de ces
-passions, il faut un plus grand miracle que celui qui convertit
-saint Paul, et sa guérison serait absolument impossible si l’on
-pouvait donner des bornes à la puissance et à la miséricorde de
-Dieu.
+Those driven by false zeal imagine they are serving God when they obey their passions. They blindly follow the inner promptings of their hatred as if they were revelations of inner truth; and finding satisfaction in the emotional “proofs” that justify their excesses, they become fixed in their errors with unshakable stubbornness.
 
-Ceux qui marchent dans l’obscurité se réjouissent à la vue de
-la lumière ; celui-ci ne la peut souffrir. Elle le blesse, car elle
-résiste à sa passion. Sa crainte étant en quelque façon volontaire
-à cause que sa haine la produit, il se plaît d’en être frappé, parce
-qu’on se plaît d’être agité des passions mêmes qui ont le mal
-pour objet loisque le mal est imaginaire, ou plutôt lorsque l’on
-sait, comme dans spectacles, que le mal ne peut nous blesser.
-Les fantômes que se figurent ceux qui marchent dans les
-ténèbres s’évanouissent à la lumière d’un flambeau, mais les
-fantômes de celui-ci ne se dissipent point à la lumière de la
-vérité. Elle ne peut pas facilement percer les ténèbres de son
-esprit, elle ne fait qu’irriter son imagination ; de sorte que,
-comme il s’applique uniquement à l’objet de sa passion, la
-lumière se réfléchit, et il semble que ces fantômes aient un corps
-véritable à cause qu’ils repoussent quelques faibles rayons de la lumière qui les frappe.
-Mais quand on supposerait dans ces esprits assez de docilité et
-de réflexion pour écouter et pour comprendre des raisons
-capables de dissiper leurs erreurs, leur imagination étant
-déréglée par la crainte, et leur cœur corrompu par la haine et par
-le faux zèle. ces raisons, toutes solides qu’elles seraient en ellesmêmes ne pourraient arrêter long-temps le mouvement impétueux
-de ces passions violentes, ni empêcher qu’elles ne se
-justifiassent bientôt par des preuves sensibles et convaincantes.
-Car on doit remarquer qu’il y a des passions qui passent et qui
-ne reviennent plus, et qu’il y en a d’autres constantes et qui
-subsistent long-temps. Celles qui ne sont point soutenues par la
-vue de l’esprit et par quelque raison vraisemblable, mais qui sont
-seulement produites et fortifiées par la vue sensible de quelque
-objet et par la fermentation du sang, ne durent pas ; elles meurent
-pour l’ordinaire incontinent après leur naissance. Mais celles qui
-sont accompagnées de la vue de l’esprit sont constantes, car le
-principe qui les produit n’est pas sujet au changement comme le
-sang et les humeurs. De sorte que la haine, la crainte et toutes les
-autres passions qui s’excitent ou qui se conservent en nous par la
-connaissance de l’esprit et non point par la vue sensible de
-quelque mal, doivent subsister long-temps. Ces passions sont
-donc les plus durables, les plus violentes, les plus injustes, mais
-elles ne sont pas les plus vives et les plus sensibles, comme on le
-va faire voir.
+As for the ignorant and weak‑minded, they invent imaginary and ridiculous objects of fear. They are like children walking in darkness without a guide or a light: they conjure up terrifying phantoms, become frightened, and cry out as if all were lost. If they are merely ignorant, light will calm them; but if their minds are weak, their imagination remains permanently wounded. The slightest thing that reminds them of what once frightened them reawakens the same impressions and sets in motion the flow of spirits that produces their fear. It is nearly impossible to cure them or bring them lasting peace.
 
-La perception du bien et du mal, laquelle excite les passions,
-se fait en trois manières : par les sens, par imagination et par
-l’esprit. La perception du bien et du mal par les sens, ou le
-sentiment du bien et du mal produit des passions très-promptes et très-sensibles. La perception du bien et du mal par la seule
-imagination en excite de bien plus faibles ; et la vue du bien et du
-mal par l’esprit seul n’en produit de véritables, que parce que
-cette vue du bien et du mal par l’esprit est toujours accompagnée
-de quelque mouvement des esprits animaux.
+But when false zeal, hatred, and fear come together in a weak mind, they produce judgments so unjust and violent that one cannot think of them without horror. To change a mind possessed by such passions would require a greater miracle than the conversion of Saint Paul; and their healing would be impossible if we could set limits to the power and mercy of God.
 
+Those who walk in darkness rejoice at the sight of light; but this person cannot bear it. It hurts them, because it opposes their passion. Their fear is in a sense voluntary, because it is produced by their hatred; yet they take a strange pleasure in being disturbed by it — just as people sometimes enjoy being moved by passions directed toward evil when the evil is imaginary, or when they know, as in the theater, that it cannot actually harm them.
 
-Les passions ne nous sont données que pour le bien du corps,
-et que pour nous unir par le corps à tous les objets sensibles ; car
-encore que les choses sensibles ne puissent être ni bonnes ni
-mauvaises à l’égard de l’esprit, elles sont toutefois bonnes ou
-mauvaises par rapport au corps auquel l’esprit est uni. Ainsi les
-sens et l’imagination découvrant beaucoup mieux les rapports
-que les objets sensibles ont avec le corps que l’esprit même, ces
-facultés doivent exciter des passions beaucoup plus vives qu’une
-connaissance claire et évidente. Mais parce que nos
-connaissances sont toujours accompagnées de quelque
-mouvement d’esprit, une connaissance claire et évidente d’un
-grand bien et d’un grand mal que les sens ne découvrent pas
-excite toujours quelque passion secrète.
+The phantoms imagined by those walking in darkness vanish when a candle is lit; but the phantoms of this person do not disappear in the light of truth. That light cannot easily penetrate the darkness of their mind; it only irritates their imagination. Because they focus entirely on the object of their passion, the light is reflected back, and their phantoms seem to take on real substance, as if they push back the faint rays of truth that strike them.
 
+Even if we suppose such people possess enough willingness and reflection to listen to and understand sound arguments that could dispel their errors, their imagination is already deranged by fear, and their heart corrupted by hatred and false zeal. No matter how solid those reasons may be in themselves, they cannot long hold back the impetuous force of these violent passions, nor prevent the passions from quickly finding their own emotional and seemingly convincing justifications.
 
-Cependant toutes nos connaissances claires et évidentes du
-bien et du mal ne sont pas suivies de quelque passion sensible et
-dont on s’aperçoive, de même que toutes nos passions ne sont
-point accompagnées de quelque connaissance de l’esprit. Car si
-l’on pense quelquefois à des biens et à des maux sans se sentir
-ému, on se sent souvent ému de quelque passion sans en connaître
-et même quelquefois sans en sentir la cause. Un homme qui
-respire un bon air se sent ému de joie sans en savoir la cause, il
-ne connait pas le bien qu’il possède, qui produit cette joie ; et
-s’il y a quelque corps invisible qui, se mêlant dans le sang en
-empêche la fermentation, il se trouvera triste, et pourra même attribuer la cause de sa tristesse à quelque chose de visible qui
-se présentera devant lui dans le temps de sa passion.
-De toutes les passions, il n’y en a point qui soient plus
-sensibles ni plus promptes, et qui par conséquent soient le moins
-accompagnées de la connaissance de l’esprit, que l’horreur et
-l’antipathie, l’agrément et la sympathie. Un homme sommeillant à
-l’ombre se réveille quelquefois en sursaut si une mouche le pique
-ou si une feuille le chatouille, comme si un serpent le mordait. Le
-sentiment confus de quelque chose aussi terrible que la mort
-même l’effraie, et, sans qu’il y pense, il se trouve agité d’une
-passion très-forte et très-violente qui est une aversion de désir.
-Un homme au contraire dans quelque besoin, découvre par hasard
-quelque petit bien dont la douceur le surprend, il s’attache à cette
-bagatelle comme au plus grand de tous les biens, sans y faire la
-moindre réflexion. Cela arrive aussi dans les mouvements de
-sympathie et d’antipathie. On voit dans une compagnie une
-personne dont l’air et les manières ont de secrètes alliances avec
-la disposition présente de notre corps, sa vue nous touche et nous
-pénètre, nous sommes portés sans réflexion à l’aimer et à lui
-vouloir du bien. C’est le je ne sais quoi qui nous agite, car la
-raison n’y a point de part. Il arrive le contraire à l’égard de ceux
-dont l’air et les manières répandent, pour ainsi dire, le dégoût et
-l’horreur. Ils ont je ne sais quoi de fade qui repousse et qui nous
-effraie ; mais l’esprit n’y connait rien, car il n’y a que les sens
-qui jugent bien de la beauté et de la laideur sensible, lesquelles
-sont l’objet de ces sortes de passions.
+We must note that some passions are fleeting and do not return, while others are constant and endure for a long time. Those that are not sustained by understanding or any plausible reasoning, but arise only from the sight of some visible object and the agitation of the blood, do not last — they usually die out almost as soon as they begin. But passions accompanied by insight and reflection are enduring, because their cause is not subject to change like the blood and bodily humors. Thus hatred, fear, and all other passions that arise and persist through understanding rather than through the sensory perception of some harm are likely to continue for a long time. They are therefore the most lasting, the most violent, and the most unjust — yet not the most intense or vivid, as we shall now explain.
 
+Our awareness of good and evil, which stirs the passions, occurs in three ways: through the senses, through the imagination, and through the understanding. Perception of good and evil through the senses — that is, direct feeling — produces passions that are very quick and very vivid. Perception through the imagination alone produces far weaker passions. And perception through the understanding alone produces true passions only because such understanding is always accompanied by some movement of the animal spirits.
 
+Passions were given to us only for the good of the body, and to unite us through the body to all sensible objects. Although material things can be neither good nor bad for the mind itself, they are good or bad in relation to the body to which the mind is joined. Since the senses and imagination perceive far more clearly than the understanding the relationship between external objects and our body, these faculties naturally stir passions far more intensely than clear and certain knowledge. Yet because every act of understanding is accompanied by some movement of the spirits, a clear and certain awareness of a great good or great evil — even one not perceived by the senses — always arouses some hidden passion.
+
+Still, not every clear and certain judgment about good and evil brings a noticeable or felt passion, just as not every passion is accompanied by understanding. We sometimes think of good or evil without feeling moved; and we often feel stirred by a passion without knowing, or even sensing, its cause. A person breathing fresh air may feel joy without knowing why, or understanding the benefit that produces it. If some invisible substance enters the blood and disturbs its balance, they may feel sad, and even blame their sadness on something visible that happens to be present at the time.
+
+Of all passions, none are more immediate, more vivid, and consequently less accompanied by understanding than horror and aversion, liking and attraction. A man sleeping in the shade may suddenly start awake if a fly bites him or a leaf brushes his skin, as if bitten by a serpent. A vague sense of something as terrible as death alarms him, and without any conscious thought, he is seized by a strong, violent passion — a form of fearful repulsion.
+
+Conversely, a person in need may happen upon some small comfort whose sweetness surprises them; they cling to this trifle as if it were the greatest good, without stopping to reflect. The same happens with feelings of attraction and repulsion. In a gathering, we may meet someone whose appearance and manner seem to harmonize mysteriously with our present bodily state. The mere sight of them affects and moves us, and we are drawn without thinking to like them and wish them well. It is some indefinable quality that stirs us, for reason plays no part. The opposite happens with those whose bearing and manner seem to spread a sense of distaste and dread. They possess some vague, unnameable quality that repels and frightens us; yet the mind perceives nothing definite, because only the senses truly judge outward beauty and ugliness — and these are the proper objects of such passions.
 

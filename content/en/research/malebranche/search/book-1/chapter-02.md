@@ -4,7 +4,7 @@ title: "Judgements and Reasonings"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 7
+weight: 5
 date: 2026-06-20
 ---
 

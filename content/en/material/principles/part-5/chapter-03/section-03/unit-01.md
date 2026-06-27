@@ -17,10 +17,8 @@ aliases:
 
 Physics is matter based, applying the matter in `F = ma` into fluid dynamics called Navier-Stokes equations. 
 
-{{< i s="/photos/physics/water.jpg" a="water">}}
+{{< i s="/photos/physics/water.jpg" a="water" >}}
 
-
-<!-- Sure, that's easy. Our paradigm is the pre Newtonian Physics of Descartes, Spinoza, and George Berekely, which aligns perfectly with Asian Physics of Hinduism and Taoism (inventors of gunpowder through the Water Element). -->
 
  
 ## Alternative to Navier-Stokes
@@ -47,7 +45,13 @@ It totally misses out the aether and conversion forces (weak force). Newton seem
 
 ## The Solution
 
-We put the aether in the vortex side and the weak force in the gradient size. This accounts for the butterfly effect on the right side turning a classical navier stokes into "quantum" mechanics i.e. adding the aether (virtual 5th Element and 2nd Element particles) to classical mechanics then you get quantum mechanics. 
+Since the liquidity of liquids come from the aether, we modify our gravitation equation to accomodate the nature of liquids. 
+
+
+{{< youtube ikYmSLPCl5o >}}
+
+
+<!--  have more We use the same  put the aether in the vortex side and the weak force in the gradient size. This accounts for the butterfly effect on the right side turning a classical navier stokes into "quantum" mechanics i.e. adding the aether (virtual 5th Element and 2nd Element particles) to classical mechanics then you get quantum mechanics. 
 
 It is then the 2 Forces of Positive and Negative that makes the aether rotate. Since the aether is not material, then `F = ma` does not apply. 
 
@@ -58,3 +62,4 @@ The big problem was that Newton and Einstein had no concept of [virtual (quasi) 
 But the aether is totally massless and is best seen in chakras (rotating organic vortices) and chi which Descartes calls animal spirits. 
 
 UFOs use this as "Gravity A" waves. 
+ -->

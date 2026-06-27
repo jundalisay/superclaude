@@ -1,93 +1,31 @@
 ---
 heading: Chapter 15
-title: "The Passions"
+title: "The Errors of Sight"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 35
 date: 2026-06-20
 ---
 
 
 
-Explication des erreurs particulières de la vue, pour servir d’exemple des erreurs
-générales de nos sens.
+Explanation of the particular errors of sight, to serve as an example of the general errors of our senses.
 
-Nous avons donné, ce me semble, assez d’ouverture pour
-reconnaître les erreurs de nos sens à l’égard des qualités
-sensibles eu général, desquelles on a parlé à l’occasion de la
-lumière et des couleurs, que l’ordre demandait qu’on expliquát. Il
-semble qu'on devrait maintenant descendre un peu dans le
-particulier et examiner en détail les erreurs où chacun de nos
-sens nous porte ; mais on ne s’arrêtera pas à ces choses, parce
-qu’après ce que l’on a déjà dit, un peu d’attention suppléera
-facilement à des discours en nuyeux que l’on serait obligé de
-139
-faire. On va seulement rapporter les erreurs générales où notre
-vue nous fait tomber touchant la lumière et les couleurs, et Fon
-croit que cet exemple suffira pour faire reconnaître les erreurs de
-tous les autres sens.
-Lorsque nous avons regardé quelques moments le soleil, voici
-ce qui se passe dans nos yeux et dans notre âme, et les erreurs
-dans lesquelles nous tombons.
-Ceux qui savent les premiers éléments de la dioptrique et
-quelque chose de la structure admirable des yeux, n’ignorent pas
-que les rayons du soleil souffrent réfraction dans le cristallin et
-dans les autres humeurs, et qu’ils se rassemblent ensuite sur la
-rétine ou nerf optique, qui tapisse tout le fond de l’œil, de la
-même manière que les rayons du soleil qui traversent une loupe
-ou verre convexe se rassemblent au foyer ou point brûlant de ce
-verre, à deux, trois ou quatre pouces de lui, à proportion de sa
-convexité. Or, l’expérience apprend que si on met au foyer de
-cette loupe quelque petit morceau d’étoffe ou de papier noir, les
-rayons du soleil font une si grande impression sur cette étoffe ou
-sur ce papier, et ils en agitent les petites parties avec tant de
-violence, qu’ils les rompent et les séparent les unes des autres ;
-en un mot, qu’ils les brûlent ou les réduisent en fumée et en
-cendres
-[25]
-.
-Ainsi l’on doit conclure de cette expérience que si le nerf
-optique était noir, et que si la prunelle ou le trou de l’uvée par
-laquelle la lumière entre dans les yeux s’élargissait pour laisser
-librement passer les rayons du soleil, au lieu qu’elle se rétrécit
-pour les en empêcher, il arriverait la même chose à notre rétine
-qu’à cette étoffe ou à ce papier noir, et ses fibres seraient si fort
-agitées qu’elles seraient bientôt rompues et brûlées. C’est pour cette raison que la plupart des hommes sentent une grande
-douleur s’ils regardent pour un moment le soleil, parce qu’ils ne
-peuvent si bien fermer le trou de la prunelle qu’il n’y passe
-toujours assez de rayons pour agiter les filets du nerf optique
-avec beaucoup de violence et avec quelque sujet de craindre
-qu’ils ne se rompent.
+I have explained how to recognize the errors of our senses regarding sensible qualities in general, which were discussed on the occasion of light and colors, as the order of things required that they be explained. 
 
-L’âme n’a aucune connaissance de tout ce que nous venons de
-dire ; et quand elle regarde le soleil, elle n’aperçoit ni son nerf
-optique ni qu’il y ait du mouvement dans ce nerf ; mais cela n’est
-pas une erreur, ce n’est qu’une simple ignorance. La première
-erreur où elle tombe est qu’elle juge que la douleur qu’elle sent
-est dans son œil.
-Si, incontinent après qu’on a regardé le soleil, on entre dans un
-lieu fort obscur les yeux ouverts, cet ébranlement des fibres du
-nerf optique causé par les rayons du soleil diminue et se change
-peu à peu. C’est là tout le changement que l’on peut concevoir
-dans les yeux. Cependant ce n’est pas ce que l’âme aperçoit,
-mais seulement une lumière blanche et jaune ; et la seconde
-erreur est qulelle’juge que la lumière qu’elle voit est dans ses
-yeux ou sur une muraille proche de nous.
-Enfin l’agitation des fibres de la rétine diminue toujours et
-cesse peu à peu ; car lorsqu’un corps a été ébranlé, on n’y doit
-rien concevoir autre chose qu’une diminution de son mouvement ;
-mais ce n’est point encore ce que l’âme sent dans ses yeux. Elle
-voit que la couleur blanche devient orangée, puis se change en
-rouge, et enfin en bleue. Et la troisième erreur où nous tombons
-est que nous jugeons qu’il y a dans notre œil ou sur une muraille
-proche de nous des changements qui diffèrent bien davantage que
-du plus et du moins, à cause que les couleurs bleue, orangée et
-141
-rouge que nous voyons diffèrent entre elles bien autrement que du
-plus et du moins.
-Voilà quelques erreurs où nous tombons touchant la lumière et
-les couleurs ; et ces erreurs nous font encore tomber en beaucoup
-d’autres, comme nous l’allons expliquer dans les chapitres
-suivants.
+It would seem that we should now descend somewhat into particulars and examine in detail the errors into which each of our senses leads us; but we shall not dwell on these things, because after what has already been said, a little attention will easily suffice in place of the tedious discourses one would otherwise be obliged to deliver. We shall only report the general errors into which our sight causes us to fall concerning light and colors, and it is believed that this example will suffice to make us recognize the errors of all the other senses.
 
+When we have looked at the sun for a few moments, here is what happens in our eyes and in our soul, and the errors into which we fall.
+
+Those who know the first elements of dioptrics and something of the admirable structure of the eyes are not unaware that the rays of the sun undergo refraction in the crystalline lens and in the other humors, and that they then gather on the retina or optic nerve, which lines the entire back of the eye, in the same way that the rays of the sun passing through a magnifying glass or convex lens gather at the focus or burning point of that lens, two, three, or four inches from it, in proportion to its convexity. Now, experience teaches that if one places at the focus of this lens some small piece of cloth or black paper, the rays of the sun make such a strong impression on this cloth or paper, and agitate its small parts with such violence, that they break them and separate them from one another; in short, they burn them or reduce them to smoke and ashes [25].
+
+Thus, one must conclude from this experience that if the optic nerve were black, and if the pupil or the hole of the iris through which light enters the eyes widened to let the sun's rays pass freely, instead of contracting to prevent them, the same thing would happen to our retina as to that cloth or black paper, and its fibers would be so violently agitated that they would soon be broken and burned. It is for this reason that most men feel great pain if they look at the sun for a moment, because they cannot close the hole of the pupil so well that enough rays do not still pass through to agitate the filaments of the optic nerve with much violence and with some cause to fear that they may break.
+
+The soul has no knowledge of all that we have just said; and when it looks at the sun, it perceives neither its optic nerve nor that there is motion in this nerve; but this is not an error, it is only simple ignorance. The first error into which it falls is judging that the pain it feels is in its eye.
+
+If, immediately after having looked at the sun, one enters a very dark place with eyes open, this shaking of the fibers of the optic nerve caused by the sun's rays diminishes and gradually changes. This is all the change that one can conceive in the eyes. However, this is not what the soul perceives, but only a white and yellow light; and the second error is that it judges that the light it sees is in its eyes or on a wall near us.
+
+Finally, the agitation of the fibers of the retina always diminishes and gradually ceases; for when a body has been shaken, one ought to conceive nothing else in it than a diminution of its motion; but this is still not what the soul feels in its eyes. It sees that the white color becomes orange, then changes to red, and finally to blue. And the third error into which we fall is that we judge that there are in our eye or on a wall near us changes that differ much more than merely in degree (more or less), because the blue, orange, and red colors that we see differ among themselves in a manner quite other than by more or less.
+
+Here are some errors into which we fall concerning light and colors; and these errors lead us into many others, as we shall explain in the following chapters.

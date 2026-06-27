@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7
-title: "The Rules"
+title: "The Particular Passions Such as Admiration and Its Bad Effects"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,717 +9,118 @@ date: 2026-06-20
 ---
 
 
-Des passions en particulier, et premièrement de l’admiration et de ses mauvais effets.
-Tout ce que j’ai dit jusqu’ici des passions est général ; mais il
-n’est pas fort difficile d’en tirer des conséquences particulières.
-Il n’y a qu’à faire quelque réflexion sur ce qui se passe dans soimême et sur les actions des autres, et l’on découvrira plus de ces
-sortes de vérités, d’une seule vue, que l’on n’en pourrait
-expliquer dans un temps considérable. Cependant il y a si peu de
-personnes qui s’avisent de rentrer dans eux-mêmes et qui fassent
-pour cela quelque effort d’esprit, qu’afin de les y exciter et de
-réveiller leur attention, il est nécessaire de descendre quelque
-peu dans le particulier.
 
-Quand on se tâte et qu’on se frappe soi-même, il semble que
-l’on soit presque insensible ; mais quand on est seulement touché
-par les autres, on en reçoit des sentiments assez vifs pour
-réveiller l’attention. En un mot, on ne se chatouille pas soi-même,
-on ne s’en avise pas, et l’on n’y réussirait peut-être pas si l’on
-s’en avisait. C’est à peu près par cette même raison que l’esprit
-ne s’avise pas de se tâter et de se sonder soi-même, qu’il se
-dégoûte incontinent de cette sorte de recherche, et qu’il n’est
-ordinairement capable de reconnaître et de sentir toutes les
-parties de son âme que lorsque d’autres les touchent et les lui
-font sentir. Ainsi il est nécessaire, pour faciliter à quelques esprits la connaissance d’eux mêmes, de descendre quelque peu
-dans le particulier des passions, afin de leur apprendre, en les
-touchant, toutes les parties qui les composent.
-Ceux qui liront ce qui suit doivent néanmoins être avertis
-qu’ils ne sentiront pas toujours que je les touche, et qu’ils ne se
-reconnaîtront pas toujours sujets aux passions et aux erreurs dont
-je parlerai, par la raison que toutes les passions particulières ne
-sont pas toujours les mêmes dans tous les homines.
+All that I have said thus far about the passions is general.
 
-Tous les hommes ont les mêmes inclinations naturelles qui
-n’ont point de rapport au corps ; ils ont même toutes celles qui
-ont rapport au corps, lorsque leur corps est parfaitement bien
-disposé. Mais les divers tempéraments des corps et leurs
-changements fréquents causent une variété infinie dans les
-passions particulières. Que si l’on ajoute à la diversité de la
-constitution du corps celle qui vient des objets, qui font des
-impressions bien différentes sur tous ceux qui n’ont pas les
-mêmes emplois ni la même manière de vivre, il est évident que
-tel se peut sentir fortement touché en quelque endroit de son âme
-par certaines choses, qui demeurera entièrement insensible à
-beaucoup d’autres. Ainsi on se tromperait souvent si on jugeait
-toujours par ce que l’on sent de ce que les autres doivent sentir.
-Je ne crains point de me tromper lorsque j’assure que tous les
-hommes veulent être heureux ; car je sais avec une entière
-certitude que les Chinois et les Tartares, que les anges et les
-démons mêmes, enfin que tous les esprits ont de l’inclination
-pour la félicité. Je sais même que Dieu ne produira jamais aucun
-esprit sans ce désir. Ce n’est point l’expérience qui me l’a
-appris : jamais je ne vis ni Chinois ni Tartare. Ce n’est point le
-témoignage intérieur de ma conscience ; il n’apprend seulement que je veux être heureux. Il n’y a que Dieu qui me puisse
-convaincre intérieurement que tous les autres hommes, les anges
-et les démons veulent être heureux. Il n’y a que lui qui puisse
-m’assurer qu’il ne donnera jamais l’être à aucun esprit qui soit
-indifférent pour le bonheur ; car quel autre que lui pourrait
-m’assurer positivement de ce qu’il fait et même de ce qu’il
-pense ? Et comme il ne peut jamais me tromper, je ne puis douter
-de ce qu’il n’apprend. Je suis donc certain que tous les hommes
-veulent être heureux, parce que cette inclination est naturelle et
-qu’elle ne dépend point du corps.
+But it is not very difficult to draw particular consequences from it. One need only reflect on what passes within oneself and on the actions of others, and one will discover more truths of this kind at a single glance than could be explained in a considerable amount of time. However, so few people think to look within themselves or make any mental effort to do so that, in order to excite them and awaken their attention, it is necessary to descend somewhat into particulars.
 
-Il n’en est pas de même des passions particulières. Si je suis
-passionné pour la musique, pour la danse, pour la chasse ; si
-j’aime les douceurs ou le haut goût, je n’en puis rien conclure de
-certain touchant les passions des autres hommes. Le plaisir est
-sans doute doux et agréable à tous les hommes ; mais tous les
-hommes ne trouvent pas du plaisir dans les mêmes choses.
-L’amour du plaisir est une inclination naturelle : cet amour ne
-dépend point du corps : il est donc général à tous les hommes.
-Mais l’amour de la musique, de la chasse ou de la danse n’est
-pas général, parce que la disposition du corps dont il dépend
-étant différente dans tous les hommes, toutes les passions qui en
-dépendent ne sont pas toujours les mêmes.
+When we feel and strike ourselves, we seem almost insensitive; but when we are merely touched by others, we receive sensations vivid enough to awaken our attention. In short, one does not tickle oneself; one does not think to do it, and perhaps would not succeed if one did. It is for much the same reason that the mind does not think to examine and probe itself, that it quickly becomes disgusted with this sort of inquiry, and that it is ordinarily capable of recognizing and feeling all the parts of its soul only when others touch them and make it feel them. Thus, to facilitate self-knowledge for some minds, it is necessary to descend somewhat into the particulars of the passions, in order to teach them, by touching them, all the parts that compose them.
 
+Nevertheless, those who read what follows must be warned that they will not always feel that I am touching them, and that they will not always recognize themselves as subject to the passions and errors of which I shall speak, for the reason that all particular passions are not always the same in all men.
 
-Les passions générales, comme le désir, la joie et la tristesse,
-tiennent le milieu entre les inclinations naturelles et les passions
-particulières. Elles sont générales comme les inclinations ; mais
-elles ne sont pas également fortes, parce que la cause qui les
-produit et qui les entretient n’est pas elle-même également
-agissante. Il y a une variété infinie dans les degrés d’agitation des
-esprits animaux, dans leur abondance et leur disette, leur solidité et leur délicatesse, et dans le rapport des fibres du cerveau avec
-ces esprits.
-Ainsi, il arrive très-souvent que l’on ne touche les autres en
-aucun endroit de leur âme lorsque l’on parle des passions
-particulières ; mais lorsqu’on les touche, ils en sont fortement
-émus. Il en est au contraire des passions générales et des
-inclinations, on touche toujours lorsque l’on en parle ; mais on
-touche d’une manière si faible et si languissante ; qu’on ne se fait
-presque pas sentir. Je dis ces choses, afin que l’on ne juge pas si
-je me trompe par le seul sentiment qu’on a déjà reçu de ce que
-j’ai dit ou que l’on recevra de ce que je dirai dans la suite, mais
-par la considération de la nature des passions dont je traite.
-Si l’on se proposait de traiter de toutes les passions
-particulières, ou si on les distinguait par les objets qui les
-excitent, il est visible qu’on ne finirait jamais et qu’on dirait
-toujours la même chose. On ne finirait jamais, parce que les
-objets de nos passions sont infinis ; et l’on dirait toujours la
-mème chose, parce que l’on traiterait toujours du même sujet. Les
-passions particulières pour la poésie, pour l’histoire, pour les
-mathématiques, pour la chasse et pour la danse ne sont qu’une
-même passion générale ; car, par exemple, les passions de désir
-ou de joie pour tout ce qui plaît ne sont pas différentes, quoique
-les objets particuliers qui plaisent soient différents.
+All men have the same natural inclinations that have no relation to the body; they even have all those related to the body, provided their body is perfectly well disposed. But the diverse temperaments of bodies and their frequent changes cause an infinite variety in particular passions. If one adds to the diversity of bodily constitution that which comes from objects—which make very different impressions on all those who do not have the same employments or the same way of life—it is evident that one person may feel strongly touched in some part of his soul by certain things, while remaining entirely insensitive to many others. Thus, one would often be mistaken if one always judged what others ought to feel by what one feels oneself.
 
+I do not fear being mistaken when I assert that all men wish to be happy; for I know with entire certainty that the Chinese and the Tartars, that angels and demons themselves, finally that all spirits have an inclination for felicity. I even know that God will never produce any spirit without this desire. It is not experience that has taught me this: I have never seen a Chinese man or a Tartar. It is not the inner testimony of my conscience; it teaches only that *I* wish to be happy. Only God can inwardly convince me that all other men, angels, and demons wish to be happy. Only He can assure me that He will never give being to any spirit that is indifferent to happiness; for who other than He could positively assure me of what He does and even of what He thinks? And since He can never deceive me, I cannot doubt what He teaches. I am therefore certain that all men wish to be happy, because this inclination is natural and does not depend on the body.
 
-Il ne faut donc pas multiplier le nombre des passions selon le
-nombre des objets qui sont infinis, mais seulement selon les
-principaux rapports qu’ils peuvent avoir avec nous. Et de cette
-manière on reconnaîtra, comme nous l’expliquerons plus bas, que
-l’amour et l’aversion sont les passions-mères ; qu’elles
-n’engendrent point d’autres passions générales que le désir, la joie et la tristesse ; que les passions particulières ne sont
-composées que de ces trois primitives, et qu’elles sont d’autant
-plus composées que l’idée principale du bien ou du mal qui les
-excite est accompagnée d’un plus grand nombre d’idées
-accessoires, ou que le bien et le mal sont plus circonstanciés par
-rapport à nous.
+It is not the same with particular passions. If I am passionate about music, dancing, or hunting; if I love sweets or strong flavors, I can conclude nothing certain regarding the passions of other men. Pleasure is undoubtedly sweet and agreeable to all men; but all men do not find pleasure in the same things. The love of pleasure is a natural inclination: this love does not depend on the body: it is therefore general to all men. But the love of music, hunting, or dancing is not general, because the disposition of the body on which it depends being different in all men, all the passions that depend on it are not always the same.
 
+General passions, such as desire, joy, and sadness, hold a middle ground between natural inclinations and particular passions. They are general like inclinations; but they are not equally strong, because the cause that produces and sustains them is not itself equally active. There is an infinite variety in the degrees of agitation of the animal spirits, in their abundance and scarcity, their solidity and delicacy, and in the relationship of the brain fibers with these spirits.
 
-Si l’on se souvient de ce que l’on a dit de la liaison des idées,
-et que dans les grandes passions les esprits animaux étant
-extrêmement agités réveillent dans le cerveau toutes les traces
-qui ont quelque rapport avec l’objet qui nous agite, on
-reconnaîtra qu’il y a des passions différentes d’une infinité de
-façons, lesquelles n’ont point de nom particulier, et qu’on ne peut
-expliquer d’autre manière qu’en disant qu’elles sont
-inexplicables.
+Thus, it very often happens that one does not touch others in any part of their soul when speaking of particular passions; but when one does touch them, they are strongly moved. On the contrary, with general passions and inclinations, one always touches a chord when speaking of them; but one touches in a manner so weak and languid that one is hardly felt. I say these things so that one does not judge whether I am mistaken solely by the sentiment one has already received from what I have said or will receive from what I shall say in the sequel, but by considering the nature of the passions I am treating.
 
-Si les passions primitives, de la combinaison desquelles les
-autres l’engendrent, n’étaient point capables du plus ou du moins,
-on n’aurait pas de peine ã déterminer le nombre de toutes les
-passions. Mais le nombre des passions qui se font de
-l’assemblage des autres est nécessairement infini, parce qu’une
-même passion ayant des degrés infinis, elle peut, en se joignant
-avec les autres, se combiner en une infinité de manières ; de sorte
-qu’il n’y a peut-être jamais eu deux hommes émus d’une même
-passion, si par même passion l’on entend l’assemblage de tous
-les mouvements égaux et de tous les sentiments semblables qui se
-réveillent en nous à l’occasion de quelque objet.
-Mais le plus et le moins ne changeant point l’espèce, on peut
-dire que le nombre des passions n’est pas infini, parce que les
-circonstances qui accompagnent le bien et le mal ne sont point
-infinies. Mais expliquons nos passions en particulier.
+If one proposed to treat all particular passions, or if one distinguished them by the objects that excite them, it is clear that one would never finish and would always be saying the same thing. One would never finish, because the objects of our passions are infinite; and one would always say the same thing, because one would always be treating the same subject. The particular passions for poetry, history, mathematics, hunting, and dancing are but one and the same general passion; for, for example, the passions of desire or joy for everything that pleases are not different, although the particular objects that please are different.
 
+Therefore, one must not multiply the number of passions according to the number of objects, which are infinite, but only according to the principal relationships they may have with us. And in this way, one will recognize, as we shall explain later, that love and aversion are the mother-passions; that they engender no other general passions than desire, joy, and sadness; that particular passions are composed only of these three primitives, and that they are all the more composite as the principal idea of good or evil that excites them is accompanied by a greater number of accessory ideas, or as the good and evil are more circumstantial in relation to us.
 
-Lorsque nous voyons quelque chose pour la première fois, ou
-que l’ayant déjà vue plusieurs fois accompagnée de certaines
-circonstances, nous la voyons revêtue de quelques autres, nous en
-sommes surpris et nous l’admirons. Ainsi, une nouvelle idée ou
-une nouvelle liaison de vieilles idées cause en nous une passion
-imparfaite, qui est la première de toutes, et que l’on nomme
-admiration. Je dis que cette passion est imparfaite, parce qu’elle
-n’est point excitée par l’idée ni par le sentiment du bien.
-Le cerveau se trouvant alors frappé en de certains endroits
-dans lesquels il ne l’avait jamais été, ou d’une manière toute
-nouvelle. l’âme en est sensiblement touchée, et par conséquent
-elle s’applique fortement à ce qu’il y a de nouveau dans son
-objet ; par la même raison qu’un simple chatouillement à la
-plante des pieds excite dans l’âme, par la nouveauté plutôt que
-par la force de l’impression, un sentiment très-sensible et trèsapplicant. Il y a encore d’autres raisons de l’application de l’âme
-aux choses nouvelles, mais je les ai expliquées en parlant des
-inclinations naturelles. On ne considère ici l’âme que par rapport
-au corps, et selon ce rapport c’est l’émotion extraordinaire des
-esprits animaux qui est la cause naturelle de son application aux
-choses nouvelles, car les émotions ordinaires des esprits
-n’excitent que très-peu notre attention.
+If one remembers what was said about the connection of ideas, and that in great passions the animal spirits being extremely agitated awaken in the brain all traces that have some relation to the object that agitates us, one will recognize that there are passions different in an infinity of ways, which have no particular name, and which can be explained in no other way than by saying that they are inexplicable.
 
+If the primitive passions, from the combination of which others are generated, were not capable of more or less, one would have no difficulty determining the number of all passions. But the number of passions formed from the assembly of others is necessarily infinite, because a single passion having infinite degrees, it can, by joining with others, combine in an infinity of ways; so that perhaps there have never been two men moved by the same passion, if by "same passion" one means the assembly of all equal movements and all similar sentiments awakened in us on the occasion of some object.
 
-Dans l’admiration précisément comme telle, on ne considère
-les choses que selon ce qu’elles sont en elles-mêmes ou selon ce
-qu’elles paraissent ; on ne les considère point par rapport à soi,
-on ne les considère point comme bonnes ou comme mauvaises ;
-et c’est pour cela que les esprits ne se répandent point dans les
-muscles pour donner au corps la disposition propre à la
-recherche du bien ou à la fuite du mal, et qu’ils n’agitent point les nerfs qui vont au cœur et aux autres viscères, pour hâter ou pour
-retarder la fermentation et le mouvement du sang, comme il
-arrive dans toutes les autres passions. Tout ce qu’il y a d’esprits
-tend vers le cerveau pour y tracer une image vive et distincte de
-l’objet qui surprend, afin que l’âme le considère et le
-reconnaisse ; mais tout le reste du corps demeure comme
-immobile et dans la même posture. Comme il n’y a point
-d’émotion dans l’âme, il n’y a point aussi de mouvement dans le
-corps.
+But since "more" and "less" do not change the species, one can say that the number of passions is not infinite, because the circumstances accompanying good and evil are not infinite. But let us explain our passions in particular.
 
+When we see something for the first time, or when, having already seen it several times accompanied by certain circumstances, we see it clothed with some others, we are surprised and we admire it. Thus, a new idea or a new connection of old ideas causes in us an imperfect passion, which is the first of all, and which is called admiration. I say that this passion is imperfect, because it is not excited by the idea or by the sentiment of good.
 
-Si les choses que l’on admire paraissent grandes, l’admiration
-est toujours suivie de l’estime et quelquefois de la vénération.
-Elle est au contraire toujours accompagnée de mépris, et
-quelquefois de dédain, lorsqu’elles paraissent petites.
-L’idée de la grandeur produit dans le cerveau un grand
-mouvement d’esprits, et la trace qui la représente se conserve
-fort longtemps. Un grand mouvement d’esprits excite aussi dans
-l’àme l’idée de la grandeur, et il arrête beaucoup l’esprit à la
-considération de cette idée.
+The brain then being struck in certain places where it had never been struck before, or in a completely new manner, the soul is sensibly touched, and consequently applies itself strongly to what is new in its object; for the same reason that a simple tickling of the soles of the feet excites in the soul, by novelty rather than by the force of the impression, a very sensible and very applying sentiment. There are still other reasons for the soul's application to new things, but I have explained them when speaking of natural inclinations. Here we consider the soul only in relation to the body, and according to this relation, it is the extraordinary emotion of the animal spirits that is the natural cause of its application to new things, for the ordinary emotions of the spirits excite our attention very little.
 
+In admiration precisely as such, one considers things only according to what they are in themselves or according to what they appear; one does not consider them in relation to oneself, one does not consider them as good or as bad; and it is for this reason that the spirits do not spread into the muscles to give the body the disposition proper for the pursuit of good or the flight from evil, and that they do not agitate the nerves that go to the heart and other viscera, to hasten or retard the fermentation and movement of the blood, as happens in all other passions. All the spirits tend toward the brain to trace there a vivid and distinct image of the object that surprises, so that the soul may consider and recognize it; but all the rest of the body remains as if immobile and in the same posture. As there is no emotion in the soul, there is also no movement in the body.
 
-L’idée de petitesse produit dans le cerveau un petit mouvement
-d’esprits, et la trace qui la représente ne se conserve pas
-longtemps. Un petit mouvement d’esprits excite aussi dans l’âme
-une idée de petitesse, et il arrête peu l’esprit à la considération
-de cette idée. Ces choses méritent fort d’être remarquées.
-Lorsque nous nous considérons nous-mêmes ou quelque chose
-qui nous est uni, notre admiration n’est jamais sans quelque
-passion qui nous agite. Mais notre agitation n’est que dans l’âme
-et dans les esprits qui vont au cœur, parce que n’y ayant point de
-bien qu’il faille rechercher, ni de mal qu’il faille éviter, les
-esprits ne se répandent point dans les muscles pour disposer le corps à quelque action.
+If the things one admires appear great, admiration is always followed by esteem and sometimes by veneration. It is, on the contrary, always accompanied by contempt, and sometimes by disdain, when they appear small.
 
+The idea of greatness produces in the brain a great movement of spirits, and the trace that represents it is preserved for a long time. A great movement of spirits also excites in the soul the idea of greatness, and it keeps the mind fixed for a long time on the consideration of this idea.
 
-La vue de la perfection de son être ou de quelque chose qui lui
-appartient produit naturellement l’orgueil, ou l’estime de soimême, le mépris des autres, la joie, et quelques autres passions.
-La vue de sa propre grandeur produit la fierté ; la vue de sa
-force, la générosité ou la hardiesse ; et la vue de quelque autre
-qualité avantageuse produit naturellement une autre passion, qui
-sera toujours une espèce d’orgueil.
+The idea of smallness produces in the brain a small movement of spirits, and the trace that represents it is not preserved for long. A small movement of spirits also excites in the soul an idea of smallness, and it keeps the mind fixed only briefly on the consideration of this idea. These things merit being greatly remarked.
 
+When we consider ourselves or something united to us, our admiration is never without some passion that agitates us. But our agitation is only in the soul and in the spirits that go to the heart, because there being no good to seek nor evil to avoid, the spirits do not spread into the muscles to dispose the body for any action.
 
-Au contraire, la vue de quelque imperfection de son être ou
-d’une chose qui lui appartient produit naturellement l’humilité, le
-mépris de soi-même, le respect pour les autres, la tristesse, et
-quelques autres passions. La vue de sa petitesse produit la
-bassesse ; la vue de sa faiblesse, la timidité ; et la vue de quelque
-qualité désavantageuse produit naturellement une autre passion,
-qui sera toujours une espèce d’humilité. Mais cette humilité,
-aussi bien que l’orgueil dont je viens de parler, n’est proprement
-ni vertu ni vice : ce ne sont l’une et l’autre que des passions ou
-des émotions involontaires, qui sont néanmoins très-utiles à la
-société civile, et même absolument nécessaires en quelques
-rencontres pour la conservation de la vie ou des biens de ceux
-qui en sont agitée.
+The view of the perfection of one’s being or of something belonging to it naturally produces pride, or self-esteem, contempt for others, joy, and some other passions. The view of one’s own greatness produces haughtiness; the view of one’s strength, generosity or boldness; and the view of some other advantageous quality naturally produces another passion, which will always be a species of pride.
 
+On the contrary, the view of some imperfection of one’s being or of a thing belonging to it naturally produces humility, self-contempt, respect for others, sadness, and some other passions. The view of one’s smallness produces baseness; the view of one’s weakness, timidity; and the view of some disadvantageous quality naturally produces another passion, which will always be a species of humility. But this humility, as well as the pride of which I have just spoken, is properly neither virtue nor vice: both are only passions or involuntary emotions, which are nevertheless very useful to civil society, and even absolutely necessary in some encounters for the preservation of the life or goods of those who are agitated by them.
 
-Il est nécessaire, par exemple, d’être humble et timide, et
-même de témoigner au dehors la disposition de son esprit par une
-contenance modeste et par un air respectueux ou craintif,
-lorsqu’on est en présence d’une personne de haute qualité ou
-d’un homme fier et puissant ; car il est presque toujours
-avantageux pour le bien du corps que l’imagination s’abatte à la
-vue de la grandeur sensible, et qu’elle lui donne des marques
-extérieures de sa soumission et de sa vénération intérieure. 
+It is necessary, for example, to be humble and timid, and even to show outwardly the disposition of one’s mind by a modest countenance and a respectful or fearful air, when one is in the presence of a person of high rank or a proud and powerful man; for it is almost always advantageous for the good of the body that the imagination abase itself at the sight of sensible greatness, and that it give external marks of its submission and inner veneration.
 
-Mais cela se fait naturellement et machinalement, sans que la volonté y
-ait de part, et souvent même malgré toute sa résistance. Les bêtes
-mêmes qui ont besoin, comme les chiens, de fléchir ceux avec qui
-elles vivent, ont d’ordinaire leur machine disposée de manière
-qu’elles prennent l’air qu’elles doivent avoir par rapport a ceux
-qui les environnent : car cela est absolument nécessaire pour leur
-conservation. Et si les oiseaux, ou quelques autres animaux, n’ont
-point la disposition du corps propre pour prendre cet air, c’est
-qu’ils n’ont pas besoin de fléchir ceux dont ils peuvent, par la
-fuite, éviter le courroux, et dont ils peuvent se passer pour la
-conservation de leur vie.
+But this is done naturally and mechanically, without the will having any part in it, and often even despite all its resistance. Beasts themselves, which need, like dogs, to placate those with whom they live, usually have their machine disposed in such a way that they assume the air they ought to have in relation to those around them: for this is absolutely necessary for their preservation. And if birds, or some other animals, do not have the bodily disposition proper to assume this air, it is because they do not need to placate those whose wrath they can avoid by flight, and whom they can do without for the preservation of their lives.
 
+One cannot consider too much that all passions, which are excited in us at the sight of something outside of us, mechanically spread over the face of those who are struck by them the air that suits them—that is to say, an air which, by its impression, mechanically disposes all who see it to passions and movements useful to the good of society. Admiration itself, when caused in us only by the sight of something outside of us that others can consider, produces on our face an air that mechanically imprints admiration in others, and which even acts on their brain in a manner so well regulated that the spirits contained therein are pushed into the muscles of their face to form an air entirely similar to ours.
 
-On ne peut trop considérer que toutes les passions, qui sont
-excitées en nous à la vue de quelque chose qui est hors de nous.
-répandent machinalement sur le visage de ceux qui en sont
-frappés l’air qui leur convient, c’est-à-dire un air qui, par son
-impression, dispose machinalement tous ceux qui le voient à des
-passions et à des mouvements utiles au bien de la société.
-L’admiration même, lorsqu’elle n’est causée en nous que par la
-vue de quelque chose qui est hors de nous et que les autres
-peuvent considérer, produit sur notre visage un air qui imprime
-machinalement l’admiration dans les autres, et qui agit même sur
-leur cerveau d’une manière si bien réglée, que les esprits qui y
-sont contenus sont poussés dans les muscles de leur visage pour y
-former un air tout semblable au nôtre.
+This communication of the passions of the soul and the movements of the animal spirits, to unite men together in relation to good and evil, and to render them entirely similar to one another, not only by the disposition of their mind, but also by the situation of their body, is all the greater and more remarkable as the passions are more violent; because then the animal spirits are agitated with more force. Now, this must be so, because goods and evils being greater or more present, one must apply oneself to them more, and unite more strongly with one another to flee or to seek them. But when passions are very moderate, as admiration ordinarily is, they do not communicate sensibly, and hardly spread the air by which they are accustomed to communicate; as nothing presses, it is not appropriate that they exert effort on the imagination of others, nor that they divert them from their occupations, to which it is perhaps more necessary that they apply themselves than to considering the causes of these passions.
 
+There is nothing more marvelous than this economy of our passions and this disposition of our body in relation to the objects that surround us. All that passes in us mechanically is very worthy of the wisdom of Him who made us; and as God has rendered us capable of all the passions that agitate us, principally in order to bind us with all sensible things for the conservation of society and of our sensible being, His design is executed so faithfully by the construction of His work that one cannot help but admire its artifice and springs.
 
-Cette communication des passions de l’âme et des mouvements
-des esprits animaux, pour unir ensemble les hommes par rapport
-au bien et au mal, et pour les rendre entièrement semblables les
-uns aux autres. non-seulement par la disposition de leur esprit,
-mais encore parla situation de leur corps, est d’autant plus grande et plus remarquable que les passions sont plus violentes ; parce
-qu’alors les esprits animaux sont agités avec plus de force. Or,
-cela doit être ainsi, parce que les biens et les maux étant plus
-grands ou plus présents, il faut s’y appliquer davantage, et s’unir
-plus fortement les uns avec les autres pour les fuir ou pour les
-rechercher. Mais lorsque les passions sont fort modérées, comme
-l’est ordinairement l’admiration, elles ne se communiquent pas
-sensiblement, et ne répondent presque pas l’air par lequel elles
-ont coutume de se communiquer ; comme rien ne presse, il n’est
-pas à propos qu’elles fassent effort sur l’imagination des autres,
-ni qu’elles les détournent de leurs occupations, auxquelles il est
-peut-être plus nécessaire qu’ils s’emploient, qu’à considérer les
-causes de ces passions.
+However, our passions and all these imperceptible links by which we hold to all that surrounds us are often, through our own fault, very considerable causes of our errors and disorders. For we do not make the use we ought to make of our passions; we allow them everything, and we do not even know the bounds we ought to prescribe to their power. Thus even passions which, like admiration, are very weak and agitate us the least, have enough force to make us fall into error. Here are some examples.
 
+When men, and principally those who have a vigorous imagination, consider themselves by their best side, they are almost always very satisfied with themselves; and their inner satisfaction never fails to increase when they compare themselves to others who do not have as much movement as they. Moreover, there are so many people who admire them, and so few who resist them with success and applause (for does one ever applaud reason in the presence of a strong and lively imagination?); finally, there forms on the faces of those who listen to them an air so sensible of submission and respect, and traits so vivid of admiration at each new word they utter, that they admire themselves also, and their imagination, which magnifies all their advantages, renders them extremely content with their person. For, if one cannot see a passionate man without receiving the impression of his passion, and without entering, in some manner, into his sentiments; how would it be possible for those who are surrounded by a great number of admirers not to give some entry to a passion that flatters self-love so agreeably?
 
-Il n’y a rien de plus merveilleux que cette économie de nos
-passions et que cette disposition de notre corps par rapport aux
-objets qui nous environnent. Tout ce qui se passe en nous
-machinalement est très-digne de la sagesse de celui qui nous a
-faits ; et comme Dieu nous a rendus capables de toutes les
-passions qui nous agitent, afin principalement de nous lier avec
-toutes les choses sensibles pour la conservation de la société et
-de notre être sensible, son dessein s’exécute si fidèlement par la
-construction de son ouvrage, qu’on ne peut s’empêcher d’en
-admirer l’artifice et les ressorts.
+Now, this high esteem that persons of a strong and lively imagination have for themselves and their qualities swells their courage and makes them assume a dominant and decisive air: they listen to others only with contempt; they answer them only by mocking; they think only in relation to themselves, and, regarding the attention of the mind, so necessary for discovering truth, as a kind of servitude, they are entirely undisciplinable. Pride, ignorance, and blindness always go together. Strong minds, or rather vain and proud minds, do not wish to be disciples of truth; they look within themselves only to contemplate and admire themselves. Thus he who resists the proud shines in the midst of their darkness without their darkness being dissipated.
 
+There is, on the contrary, a certain disposition in the animal spirits and in the blood, which gives us too low a sentiment of ourselves: the scarcity, slowness, and delicacy of the animal spirits, joined with the coarseness of the brain fibers, render our imagination weak and languid; and the view, or rather the confused sentiment of this weakness and languor of our imagination, makes us enter into a kind of vicious humility that one may call baseness of spirit.
 
-Cependant nos passions et tous ces liens imperceptibles par
-lesquels nous tenons à tout ce qui nous environne, sont souvent,
-par notre faute, des causes très-considérables de nos erreurs et
-de nos désordres. Car nous ne faisons point l’usage que nous
-devrions faire de nos passions ; nous leur permettons toutes
-choses, et nous ne savons pas même les bornes que nous devons prescrire à leur puissance. Ainsi les passions mêmes qui, comme
-l’admiration, sont très-faibles et qui nous agitent le moins, ont
-assez de force pour nous faire tomber dans l’erreur. En voici
-quelques exemples.
+All men are capable of truth, but they do not address themselves to Him who alone is capable of teaching it. The proud turn toward themselves; they listen only to themselves, and the falsely humble turn toward the proud and submit to all their decisions: both listen only to men. The mind of the proud obeys the fermentation of their own blood, that is to say, to their own imagination; the mind of the falsely humble submits to the dominant air of the proud: thus both are subjected to vanity and falsehood. The proud man is a rich and powerful man, who has a great retinue, who measures his greatness by that of his train, and his strength by that of the horses that pull his carriage; the falsely humble, having the same spirit and the same principles, is a wretch, poor, weak, and languid, and who imagines that he is almost nothing because he possesses nothing. However, our retinue is not us; and far from the abundance of blood and spirits, the vigor and impetuosity of the imagination leading us to truth, on the contrary, there is nothing that diverts us from it more. It is these dullards, if one may call them so, these cold and languid spirits, who are most capable of discovering the most solid and hidden truths; they can listen, in a greater silence of their passions, to the truth that teaches them in the most secret part of their reason: but, unfortunately for them, they do not think to apply themselves to its words; it speaks without sensible brilliance and in a low voice, and it is only noise that awakens them. Only the brilliant, the great and magnificent in appearance, and according to the judgment of the senses, convinces them: they take pleasure in letting themselves be dazzled; they prefer to hear those philosophers who recount only their visions and dreams, and who assure, like false prophets, that truth has spoken to them when truth has not spoken to them, rather than to hear truth itself. For more than four thousand years human pride has been retailing lies to them without their opposing it; they even respect them and preserve them as holy and divine traditions. It seems that the God of truth is no longer with them; they no longer think of Him; they no longer consult Him; they no longer meditate, and they cover their laziness and nonchalance with the deceptive appearances of a holy humility.
 
+It is true that we cannot discover truth by ourselves; but we can always do so with Him who enlightens us, and we can never do so by the aid of all men joined together. Even those who know it best could not make us see it, if we do not question ourselves Him whom they have questioned, and if He does not answer our attention as He answered theirs. We must therefore not believe men because men have spoken, for every man is deceitful; but because He who cannot deceive has spoken to us, and we must continually question Him who can never deceive. We must not believe those who speak only to the ears, who instruct only the body, who act at most only on the imagination; but we must listen attentively and believe faithfully Him who speaks to the spirit, who instructs reason, and who, penetrating into the most secret part of the inner man, is capable of enlightening him and strengthening him against the outer and sensible man, who seduces and mistreats him continually.
 
-Lorsque les hommes, et principalement ceux qui ont
-l’imagination vigoureuse, se considèrent par leur plus bel
-endroit, ils sont presque toujours très-satisfaits d’eux-mêmes ; et
-leur satisfaction intérieure ne manque jamais de s’augmenter
-lorsqu’ils se comparent aux autres qui n’ont pas tant de
-mouvements qu’eux. D’ailleurs il y a tant de gens qui les
-admirent, et il y en a si peu qui leur résistent avec succès et avec
-applaudissement (car applaudit-on jamais à la raison en présence
-d’une imagination forte et vive ?) ; enfin, il se forme sur le visage
-de ceux qui les écoutent un air si sensible de soumission et de
-respect, et des traits si vifs d’admiration à chaque mot nouveau
-qu’ils profèrent, qu’ils s’admirent aussi eux-mêmes, et que leur
-imagination, qui leur grossit tous leurs avantages, les rend
-extrêmement contents de leur personne. Car, si l’on ne peut voir
-un homme passionné sans recevoir l’impression de sa passion, et
-sans entrer, en quelque manière, dans ses sentiments ; comment
-serait-il possible que ceux qui sont environnés d’un grand
-nombre d’admirateurs ne donnassent quelque entrée à une
-passion qui flatte si agréablement l’amour-propre ?
-Or, cette haute estime que les personnes d’une imagination
-forte et vive ont d’elles-mêmes et de leurs qualités leur enfle le
-courage et leur fait prendre l’air dominant et décisif : ils
-n’écoutent les autres qu’avec mépris ; ils ne leur répondent qu’en
-raillant ; ils ne pensent que par rapport à eux, et, regardant
-comme une espèce de servitude l’attention de l’esprit, si
+I repeat these things often, because I believe them very worthy of serious reflection. It is God alone whom one must honor: there is only He who is capable of spreading light in us, as there is only He who is capable of producing pleasures in us.
 
-nécessaire pour découvrir la vérité, ils sont entièrement in
-disciplinables. L’orgueil, l’ignorance et l’aveuglement vont
-toujours de compagnie. Les esprits forts, ou plutôt les esprits
-vains et superbes, ne veulent pas être disciples de la vérité ; ils
-ne rentrent dans eux-mêmes que pour se contempler et pour
-s’admirer. Ainsi celui qui résiste aux superbes luit au milieu de
-leurs ténèbres sans que leurs ténèbres soient dissipées.
-Il y a, au contraire, une certaine disposition dans les esprits
-animaux et dans le sang, laquelle nous donne un sentiment trop
-bas de nous-mêmes : la disette, la lenteur et la délicatesse des
-esprits animaux, jointes avec la grossièreté des fibres du
-cerveau, nous rendent l’imagination faible et languissante ; et la
-vue, ou plutôt le sentiment confus de cette faiblesse et de cette
-langueur de notre imagination, nous fait entrer dans une espèce
-d’humilité vicieuse qu’on peut appeler bassesse d’esprit.
-Tous les hommes sont capables de la vérité, mais ils ne
-s’adressent point à celui qui seul est capable de l’enseigner. Les
-superbes se tournent vers eux-mêmes ; ils n’écoutent qu’euxmêmes, et les faux humbles se tournent vers les superbes et
-s’assujettissent à toutes leurs décisions : les uns et les autres
-n’écoutent que des hommes. L’esprit des superbes obéit à
-la’fermentation de leur propre sang, c’est-à-dire à leur propre
-imagination ; l’esprit des faux humbles se soumet à l’air dominant
-des superbes : ainsi les uns et les autres sont assujettis à la vanité
-et au mensonge. Le superbe est un homme riche et puissant, qui a
-un grand équipage, qui mesure sa grandeur par celle de son train,
-et sa force par celle des chevaux qui firent son carrosse ; le faux
-humble, ayant le même esprit et les mêmes principes, est un
-misérable, pauvre, faible et languissant, et qui s’imagine qu’il
-655
-n’est presque rien, parce qu’il ne possède rien. Cependant notre
-équipage n’est pas nous ; et tant s’en faut que l’abondance du
-sang et des esprits, que la vigueur et l’impétuosité de
-l’imagination nous conduisent à la vérité. qu’au contraire il n’y a
-rien qui nous en détourne davantage. Ce sont ces bébétés, s’il est
-permis de les appeler ainsi, ces esprits froids et languissants, qui
-sont les plus capables de découvrir les vérités les plus solides et
-les plus cachées ; ils peuvent écouter, dans un plus grand silence
-de leurs passions, la vérité qui les enseigne dans le plus secret de
-leur raison : mais, malheureusement pour eux, ils ne pensent point
-à s’appliquer à ses paroles ; elle parle sans éclat sensible et
-d’une voix basse, et ce n’est que le bruit qui les réveille. Il n’y a
-que le brillant, que le grand et le magnifique en apparence, et
-selon le jugement des sens, qui les convainque : ils se plaisent à
-se laisser éblouir ; ils aiment mieux entendre ces philosophes qui
-ne racontent que leurs visions et leurs songes, et qui assurent,
-comme les faux prophètes, que la vérité leur a parlé lorsque la
-vérité ne leur a point parlé, que d’entendre la vérité même. Il y a
-plus de quatre mille ans que l’orgueil humain leur débite des
-mensonges sans qu’ils s’y opposent ; ils les respectent même et
-les conservent comme des traditions saintes et divines. Il semble
-que le Dieu de la vérité ne soit plus avec eux ; ils ne pensent plus
-à lui ; ils ne le consultent plus ; ils ne méditent plus, et ils
-couvrent leur paresse et leur nonchalance des apparences
-trompeuses d’une sainte humilité.
-Il est vrai que nous ne pouvons découvrir la vérité par
-nousmèmes ; mais nous le pouvons toujours avec celui qui nous
-éclaire, et nous ne le pouvons jamais par le secours de tous les
-hommes joints ensemble. Ceux mêmes qui la connaissent le
-mieux ne nous la sauraient faire voir, si nous n’interrogeons nous656
-mêmes celui qu’ils ont interrogé, et s’il ne répond à notre
-attention comme il a répondu à la leur. Il ne faut donc point croire
-les hommes parœ que les hommes ont, parlé, car tout homme est
-trompeur ; mais parce que celui qui ne peut tromper nous a parlé,
-et nous devons sans cesse interroger celui qui ne peut jamais
-tromper. Nous ne devons point croire ceux qui ne parlent qu’aux
-oreilles, qui n’instruisent que le corps, qui n’agissent au plus que
-sur l’imagination ; mais nous devons écouter attentivement et
-croire fidèlement celui qui parle à l’esprit, qui instruit la raison,
-et qui, pénétrant jusque dans le plus secret de l’homme intérieur,
-est capable de l’éclairer et de le fortifier contre l’homme
-extérieur et sensible, qui le séduit et qui le maltraite sans cesse.
-Je répète souvent ces choses, parce que je les crois très-dignes
-d’une sérieuse réflexion. C’est Dieu seul qu’il faut honorer : il
-n’y a que lui qui soit capable de répandre en nous la lumière,
-comme il n’y a que lui qui soit capable de produire en nous les
-plaisirs.
-Il se rencontre quelquefois dans les esprits animaux et dans le
-reste du corps une certaine disposition qui excite à la chasse, à la
-danse, à la course, et généralement à tous les exercices où la
-force et l’adresse du corps paraissent le plus. Cette disposition
-est fort ordinaire aux jeunes gens, et principalement à ceux dont
-le corps n’est pas encore tout à fait formé. Les enfants ne peuvent
-demeurer en place, ils sont toujours en action lorsqu’ils suivent
-leur humeur. Comme leurs muscles ne sont pas encore fortifiés ni
-même tout à fait achevés, Dieu, qui, comme auteur de la nature,
-règle les plaisirs de l’àme par rapport au bien du corps, leur fait
-trouver du plaisir dans l’exercice afin que leur corps se fortifie.
-Ainsi, dans le temps que les chairs et les fibres des nerfs sont
-encore molles, les chemins par lesquels il est nécessaire que les
-657
-esprits animaux s’écoulent pour produire toutes sortes de
-mouvements se tracent et se conservent, et il ne sfamasse point
-d’humeurs qui les ferment ou qui, s’étant pourries, corrompent
-quelque partie.
-Le sentiment confus que les jeunes gens ont de la disposition
-de leur corps fait qu’ils se plaisent dans la vue de sa force et de
-son adresse. Ils s’admirent lorsqu’ils en savent mesurer les
-mouvements ou lorsqu’ils sont capables d’en faire
-d’extraordinaires ; ils souhaitent même d’être en présence de
-gens qui les considèrent et qui les admirent. Ainsi ils se fortifient
-peu à peu dans la passion pour tous les exercices du corps,
-laquelle est une des principales causœ de l’ignorance et de la
-brutalité des hommes. Car, outre le temps que l’on perd dans ces
-exercices, le peu d’usage que l’on fait de son esprit est cause que
-la partie principale du cerveau, dont la flexibilité fait la force et
-la vivacité de l’esprit, devient entièrement inflexible, et que les
-esprits animaux ne se répandent pas facilement dans le cerveau
-d’une manière propre pour penser à ce que l’on veut.
-C’est ce qui rend la plupart des gens de guerre et de la
-noblesse incapables de s’appliquer à quoi que ce soit. Ils
-raisonnent de toutes choses à la cavalière, comme l’on dit
-ordinairement ; et si l’on prétend leur dire ce qu’ils ne veulent
-pas entendre, au lieu de penser à ce qu’il faut répondre leurs
-esprits animaux se conduisent insensiblement dans les muscles
-qui font lever le bras. Ils répondent presque sans réflexion par
-quelque coup ou par quelque geste menaçant, à cause que, les
-esprits étant agités par les paroles qu’ils entendent, ils se portent
-vers les endroits les plus ouverts par l’habitude de l’exercice. Le
-sentiment qu’ils ont de la force de leur corps les confirme dans
-658
-ces manières insolentes, et la vue de l’air respectueux de ceux
-qui les écoutent leur imprime une sotte confiance. pour dire
-fièrement et brutalement des sottises. Ils croient même avoir dit
-de belles et bonnes choses parce que la crainte et la prudence des
-autres leur a été favorable.
-Il n’est pas possible de s’être appliqué à quelque étude ou de
-faire actuellement profession de quelque science sans qu’on le
-sache ; on ne peut être auteur ou docteur sans s’en souvenir. Mais
-ce seul souvenir produit naturellement dans l’esprit de bien des
-gens un si grand nombre de défauts qu’il leur serait trèsavantageux de n’avoir point la qualité dont ils se font honneur.
-Comme ils s’imaginent qu’elle fait leur plus bel endroit, ils la
-considèrent toujours avec plaisir ; ils la présentent aux autres
-avec toute l’adresse possible, et ils prétendent qu’elle leur donne
-le droit de juger de toutes choses sans les examiner. Si l’on est
-assez imprudent pour les contredire, ils tâchent d’abord
-d’insinuer avec adresse et avec un air de douceur et de charité ce
-qu’ils sont et le droit qu’ils ont de décider. Mais si l’on est
-ensuite assez hardi pour leur résister et qu’ils manquent de
-réponse, ils disent alors ouvertement et ce qu’ils pensent d’euxmêmes et ce qu’ils pensent de ceux qui leur résistent.
-Tout sentiment intérieur de quelque avantage que l’on possède
-enfle naturellement le courage. Un cavalier qui se sent bien monté
-et bien armé, qui ne manque ni de sang ni d’esprits, est prêt de
-tout entreprendre ; la disposition où il se trouve le rend généreux
-et hardi. Il en est de même d’un homme d’étude, lorsqu’il se croit
-savant et que l’enflure de son cœur lui a corrompu l’esprit. Il
-devient, si cela se put dire, généreux et hardi contre la vérité.
-Quelquefois il la combat témérairement sans la reconnaître, et
-659
-quelquefois il la trahit après l’avoir reconnue ; et, se confiant
-dans sa fausse érudition, il est toujours prêt de soutenir
-l’affirmative ou la négative, selon que l’esprit de contradiction le
-possède.
-Il n’en est pas de même de ceux qui ne se piquent point de
-science ; ils ne sont point décisifs. Il est rare qu’ils parlent s’îls
-n’ont quelque chose à dire, et il arrive même assez souvent qu’ils
-se taisent dans le temps qu’ils devraient parler. Ils n’ont point
-cette réputation et ces marques extérieures de science, lesquelles
-engagent à parler sans savoir ce qu’on dit ; ils peuvent se taire.
-Mais les savants appréhendent de demeurer sans rien dire ; car
-ils savent bien qu’on les méprisera s’ils se taisent, lors même
-qu’ils n’ont rien à dire, et qu’on ne les méprisera pas toujours
-quoiqu’ils ne disent que des sottises, pourvu qu’ils les disent
-d’une manière scientifique.
-Ce qui rend les hommes capables de penser les rend capables
-de la vérité ; mais ce ne sont ni les honneurs, ni les richesses, ni
-les degrés, ni la fausse érudition qui les rendent capables de
-penser, c’est leur nature. Ils sont faits pour penser parce qu’ils
-sont faits pour la vérité. La santé même du corps ne les rend point
-capables de bien penser ; tout ce qu’elle peut faire est de n’y
-mettre pas un si grand empêchement que la maladie. Notre corps
-nous aide en quelque manière à sentir et à imaginer, mais il ne
-nous aide point à concevoir. Car quoique sans le secours du
-corps nous ne puissions, en méditant, fixer nos idées contre
-l’effort continuel des sens et des passions, qui les troublent et qui
-les effacent à cause que nous ne pouvons présentement vaincre le
-corps que par le corps ; cependant il est visible que le corps ne
-peut éclairer l’esprit ni produire en lui la lumière de
-660
-l’intelligence. Car toute idée qui découvre la vérité vient de la
-vérité même. Ce que l’âme reçoit par le corps n’est que pour le
-corps ; et lorsqu’elle se tourne vers les fantômes, elle ne voit que
-des illusions et des fantômes : je veux dire qu’elle ne voit point
-les choses comme elles sont en elles-mêmes, mais seulement les
-rapports qu’elles peuvent avoir avec le corps.
-Si l’idée de grandeur ou de petitesse que nous avons de nous
-mêmes nous est souvent une occasion d’erreur, l’idée que nous
-avons des choses qui sont hors de nous et qui ont quelque rapport
-à nous ne fait pas une impression moins dangereuse. Nous venons
-de dire que l’idée de grandeur est toujours accompagnée d’un
-grand mouvement d’esprits, et qu’un grand mouvement d’esprits
-est toujours accompagné d’une idée de grandeur ; et qu’au
-contraire l’idée de petitesse est toujours accompagnée d’un petit
-mouvement d’esprits et qu’un petit mouvement d’esprits est
-toujours accompagné d’une idée de petitesse, De ce principe il
-est facile de conclure que les choses qui produisent en nous de
-grands mouvements d’esprits doivent naturellement nous paraître
-avoir plus de grandeur, c’est-à-dire plus de force, plus de réalité,
-plus de perfection que les autres, car par grandeur j’entends
-toutes ces choses et plusieurs autres. Ainsi, les biens sensibles
-nous doivent paraître plus grands et plus solides que ceux qui ne
-se font point sentir, si nous en jugeons par le mouvement des
-esprits et non point par l’ídée pure de la vérité. Une grande
-maison, un train magnifique, un bel ameublement, des charges,
-des honneurs, des richesses paraissent avoir plus de grandeur et
-de réalité que la vertu et que la justice.
-Quand on compare la vertu aux richesses par la vue claire de
-l’esprit, alors on leur préfère la vertu ; mais lorsqu’on fait usage
-661
-de ses yeux et de son imagination, et que l’on ne juge de ces
-choses que par l’émotion des esprits qu’elles excitent en nous, on
-préfère sans doute les richesses à la vertu.
-C’est par ce principe que nous pensons que les choses
-spirituelles ou qui ne se font point sentir ne sont presque rien ;
-que les idées de notre esprit sont moins nobles que les objets
-qu’elles représentent ; qu’il y a moins de réalité et de substance
-dans l’air que dans les métaux, dans l’eau que dans la glace ; que
-les espaces depuis la terre jusqu’au firmament sont vides, ou que
-les corps qui les remplissent n’ont point tant de réalité et de
-solidité que le soleil et les étoiles. Enfin, si nous tombons en une
-infinité d’erreurs sur la nature et sur la perfection de chaque
-chose, c’est que nous raisonnons sur ce faux principe.
-Un grand mouvement d’esprits, et par conséquent une forte
-passion, accompagnant toujours une idée sensible de grandeur, et
-un petit mouvement d’esprits et par conséquent une faible passion
-accompagnant aussi une idée sensible de petitesse, on s’applique
-beaucoup et l’on emploie trop de temps à l’étude de tout ce qui
-excite une idée sensible de grandeur, et l’on néglige tout ce qui ne
-donne qu’une idée sensible de petitesse. Ces grands corps, par
-exemple, qui roulent sur nos têtes, ont fait de tout temps
-impression sur les esprits ; on les a d’abord adorés à cause de
-l’idée sensible de leur grandeur et de leur éclat. Quelques génies
-plus hardis en eut examiné les mouvements, et ces astres ont été
-dans tous les siècles l’objet ou de l’étude ou de la vénération de
-beaucoup de gens. On peut même penser que la crainte de ces
-influences imaginaires qui effraient encore présentement les
-astrologues et les esprits faibles est une espèce d’adoration
-qu’une imagination abattue rend à l’idée de grandeur qui
-662
-représente les corps célestes.
-Le corps de l’homme, au contraire, infiniment plus admirable
-et plus digne de notre application que tout ce qu’on peut savoir
-de Jupiter, de Saturne et de toutes les autres planètes, n’est
-presque point connu. L’idée sensible des parties de chair
-disséquée n’a rien de grand et cause même du dégoût et de
-l’horreur ; de sorte que ce n’est que depuis quelques années que
-les personnes d’esprit regardent l’anatomie comme une science
-qui mérite leur application. Il s’est trouvé des princes et des rois
-astronomes et qui faisaient gloire de l’être ; la grandeur des
-astres semblait s’accommoder avec la grandeur de leur dignité.
-Mais je ne crois pas que l’on en ait vu qui se soient fait honneur
-de savoir l’anatomie et de bien disséquer un cœur et un cerveau.
-Il en est de même de beaucoup d’autres sciences.
-Les choses rares et extraordinaires produisent dans les esprits
-les mouvements plus grands et plus sensibles que celles qui se
-voient tous les jours ; on les admire, on y attache par conséquent
-quelque idée de grandeur, et elles excitent ainsi dans les esprits
-des passions d’estime et de respect. C’est ce qui renverse la
-raison de bien des gens ; il y en a beaucoup qui sont si
-respectueux et si curieux pour tout ce qui nous reste de
-l’antiquité, pour tout ce qui vient de loin ou qui est rare et
-extraordinaire, que leur esprit en est comme esclave, car l’esprit
-n’ose juger ou se mettre au-dessus de ce qu’il respecte.
-Il est vrai qu’il n’y a pas grand danger pour la vérité que des
-gens aiment les médailles, les armes et les habillements des
-anciens, ou ceux des Chinois ou des sauvages. Il n’est pas tout à
-fait inutile de savoir la carte de l’ancienne Rome ou les chemins
-de Tonkin à Nankin, quoiqu’il soit plus utile pour nous de savoir
-663
-ceux de Paris à Saint-Germain ou et Versailles. Enfin on ne peut
-trouver à redire que des gens veuillent savoir au vrai l’histoire
-de la guerre des Grecs avec les Perses, ou des Tartares avec les
-Chinois, et qu’ils aient pour Thucydítle. et pour Xénophon, ou
-pour tout autre qu’il vous plaira, une inclination extraordinaire.
-Mais on ne peut souffrir que l’admiration pour l’antiquité se
-rende maîtresse de la raison, qu’il soit comme défendu de faire
-usage de son esprit pour examiner les sentiments des anciens, et
-que ceux qui en découvrent et qui en démontrent la fausseté
-passent pour présomptueux et pour teméraires.
-Les vérités sont de tous les temps. Si Aristote en a découvert
-quelques-unes, l’on en peut aussi découvrir aujourd’hui. Il faut
-prouver les opinions de cet auteur par des raisons que l’on puisse
-recevoir : car si les opinions d’Aristote étaient solides de son
-temps, elles le seront encore maintenant. C’est une illusion que
-de prétendre prouver par des autorités humaines les vérités de la
-nature. Peut-être que l’on peut prouver qu’Aristote a eu de
-certaines pensées sur de certains sujets ; mais ce n’est pas être
-fort raisonnable que de lire Aristote ou quelque auteur que ce soit
-avec beaucoup d’assiduité et de peine pour en apprendre
-historiquement les opinions et pour en instruire les autres.
-On ne peut considérer sans quelque émotion que certaines
-universités, qui ne sont établies que pour la recherche et la
-défense de la vérité, soient devenues des sectes particulières, qui
-font gloire d’étudier et de défendre les sentiments de quelques
-hommes. On ne peut lire sans quelque indignation les livres que
-les philosophes et les médecins composent tous les jours, dans
-lesquels les citations sont si fréquentes, qu’on les prendrait plutôt
-pour des écrits de théologiens et de canonistes que pour des
-664
-traités de physique ou de médecine ; car le moyen de souffrir
-qu’on abandonne la raison et l’expérience, pour suivre
-aveuglément les imaginations d’Aristote, de Platon, d’Epicure,
-ou de quelque autre philosophe que ce puisse être !
-Cependant on demeurerait peut-être immobile et sans parole à
-la vue d’une conduite si étrange, si l’on ne se sentait point
-blessé ; je veux dire si ces messieurs ne combattaient point
-contre la vérité, à laquelle seule on croit devoir s’attacher. Mais
-l’admiration pour les rêveries des anciens leur inspire un zèle
-aveugle contre les vérités nouvellement découvertes : ils les
-décrient sans les savoir ; ils les combattent sans les comprendre,
-et ils répandent, par la force de leur imagination dans l’esprit et
-dans le cœur de ceux qui les approchent et qui les admirent les
-mêmes sentiments dont ils sont prévenus.
-Comme ils ne jugent de ces nouvelles découvertes que par
-l’estime qu’ils ont de leurs auteurs, et que ceux qu’ils ont vus et
-avec lesquels ils ont conversé n’ont point cet air grand et
-extraordinaire que l’imagination attache aux auteurs anciens, ils
-ne peuvent les estimer. Car l’idée des hommes de notre siècle
-n’étant point accompagnée de mouvements extraordinaires et qui
-frappent l’esprit, n’excite naturellement que du mépris.
-Les peintres et les sculpteurs ne représentent jamais les
-philosophes de l’antiquité comme d’autres hommes ; ils leur font
-la tète grosse, le front large et élevé, et la barbe ample et
-magnifique. C’est une bonne preuve que le commun des hommes
-s’en forme naturellement une semblable idée ; car les peintres
-peignent les choses comme on se les figure, ils suivent les
-mouvements naturels de l’imagination. Ainsi l’on regarde
-presque toujours les anciens comme des hommes tout
-665
-extraordinaires. Mais l’imagination représente au contraire les
-hommes de notre siècle comme semblables à ceux que nous
-voyons tous les jours et, ne produisant point de mouvement
-extraordinaire dans les esprits, elle n’excite dans l’ãme que du
-mépris et de l’indifférence pour eux.
-J’ai vu Descartes, disait un de ces savants qui n’admirent que
-l’antiquité : je l’ai connu, je l’ai entretenu plusieurs fois ; c’était
-un honnête homme, il ne manquait pas d’esprit, mais il n’avait
-rien d’extraordinaire. Il s’était fait une idée basse de la
-philosophie de Descartes, parce qu’il en avait entretenu l’auteur
-quelques moments, et qu’il n’avait rien reconnu en lui de cet air
-grand et extraordinaire qui échauffe l’imagination. Il prétendait
-même répondre suffisamment aux raisons de ce philosophe,
-lesquelles l’embarrassaient un peu, en disant fièrement qu’il
-l’avait connu autrefois. Qu’il serait à souhaiter que ces sortes de
-gens pussent voir Aristote autrement qu’en peinture, et avoir une
-heure de conversation avec lui, pourvu qu’il ne leur parlât point
-en grec, mais en français, et sans se faire connaître qu’après
-qu’ils en auraient porté leur jugement !
-Les choses qui portent le caractère de la nouveauté, soit parce
-qu’elles sont nouvelles en elles-mêmes, soit parce qu’elles
-paraissent dans un nouvel ordre ou dans une nouvelle situation,
-nous agitent beaucoup ; car elles touchent le cerveau dans des
-endroits d’autant plus sensibles qu’ils sont moins exposés aux
-cours des esprits. Les choses qui portent une marque sensible de
-grandeur nous agitent aussi beaucoup, car elles excitent en nous
-un grand mouvement d’esprits. Mais les choses qui portent en
-même temps le caractère de la grandeur et celui de la nouveauté
-ne nous agitent pas seulement ; elles nous renversent, elles nous
-666
-enlèvent, elles nous étourdissent par les secousses violentes
-qu’elles nous donnent.
-Ceux, par exemple, qui ne disent que des paradoxes se font
-admirer ; car ils ne disent que des choses qui ont le caractère de
-la nouveauté. Ceux qui ne parlent que par sentences et qui
-n’emploient que des mots choisis et propres pour le sublime se
-font respecter, car ils paraissent dire quelque chose de grand.
-Mais ceux qui joignent le sublime au nouveau, le grand à
-l’extraordinaire, ne manquent presque jamais d’enlever et
-d’étourdir le commun des hommes, quand même ils ne diraient
-que des sottises. Ce galimatias pompeux et magnifique (insani
-fulgores), ces fausses lumières des déclamateurs éblouissent
-presque toujours les esprits faibles ; elles font une impression si
-vive et si surprenante sur leur imagination, qu’ils en demeurent
-tout étourdis, qu’ils respectent cette puissance qui les abat et qui
-les aveugle, et qu’ils admirent comme des vérités éclatantes des
-sentiments confus qui ne peuvent s’exprimer.
+There is sometimes encountered in the animal spirits and in the rest of the body a certain disposition that excites to hunting, dancing, running, and generally to all exercises where the strength and dexterity of the body appear most. This disposition is very ordinary in young people, and principally in those whose body is not yet fully formed. Children cannot stay in place; they are always in action when they follow their humor. As their muscles are not yet strengthened nor even quite finished, God, who, as author of nature, regulates the pleasures of the soul in relation to the good of the body, makes them find pleasure in exercise so that their body may strengthen. Thus, at the time when the flesh and nerve fibers are still soft, the paths by which it is necessary for the animal spirits to flow to produce all sorts of movements are traced and preserved, and no humors accumulate that might block them or, having rotted, corrupt some part.
 
+The confused sentiment that young people have of the disposition of their body makes them take pleasure in the view of its strength and dexterity. They admire themselves when they know how to measure their movements or when they are capable of making extraordinary ones; they even wish to be in the presence of people who consider and admire them. Thus they strengthen themselves little by little in the passion for all bodily exercises, which is one of the principal causes of the ignorance and brutality of men. For, besides the time lost in these exercises, the little use one makes of one’s mind causes the principal part of the brain, whose flexibility makes the strength and liveliness of the mind, to become entirely inflexible, and the animal spirits do not spread easily into the brain in a manner proper for thinking about what one wishes.
+
+This is what renders most men of war and nobility incapable of applying themselves to anything. They reason about all things in a cavalier manner, as one usually says; and if one pretends to tell them what they do not wish to hear, instead of thinking about what to answer, their animal spirits conduct themselves insensibly into the muscles that raise the arm. They answer almost without reflection by some blow or threatening gesture, because, the spirits being agitated by the words they hear, they carry themselves toward the most open places by the habit of exercise. The sentiment they have of the strength of their body confirms them in these insolent manners, and the view of the respectful air of those who listen to them imprints a foolish confidence, to say foolishly and brutally foolish things. They even believe they have said fine and good things because the fear and prudence of others has been favorable to them.
+
+It is not possible to have applied oneself to some study or to currently profess some science without knowing it; one cannot be an author or doctor without remembering it. But this memory alone naturally produces in the mind of many people so great a number of defects that it would be very advantageous for them not to have the quality of which they make honor. As they imagine it makes their best side, they always consider it with pleasure; they present it to others with all possible address, and they claim it gives them the right to judge all things without examining them. If one is imprudent enough to contradict them, they first try to insinuate with address and an air of sweetness and charity what they are and the right they have to decide. But if one is then bold enough to resist them and they lack a response, they then say openly what they think of themselves and what they think of those who resist them.
+
+Every inner sentiment of some advantage one possesses naturally swells courage. A cavalier who feels well mounted and well armed, who lacks neither blood nor spirits, is ready to undertake everything; the disposition in which he finds himself renders him generous and bold. It is the same with a man of learning, when he believes himself learned and the swelling of his heart has corrupted his mind. He becomes, if one may say so, generous and bold against truth. Sometimes he combats it rashly without recognizing it, and sometimes he betrays it after having recognized it; and, trusting in his false erudition, he is always ready to sustain the affirmative or the negative, according as the spirit of contradiction possesses him.
+
+It is not the same with those who do not pride themselves on science; they are not decisive. It is rare that they speak if they have not something to say, and it even happens quite often that they remain silent when they ought to speak. They do not have that reputation and those external marks of science, which engage one to speak without knowing what one says; they can remain silent. But the learned fear remaining without saying anything; for they know well that they will be despised if they remain silent, even when they have nothing to say, and that they will not always be despised although they say only foolish things, provided they say them in a scientific manner.
+
+What renders men capable of thinking renders them capable of truth; but it is neither honors, nor riches, nor degrees, nor false erudition that renders them capable of thinking, it is their nature. They are made to think because they are made for truth. Health of the body itself does not render them capable of thinking well; all it can do is not put as great an impediment as illness. Our body helps us in some manner to feel and to imagine, but it does not help us to conceive. For although without the aid of the body we cannot, in meditating, fix our ideas against the continual effort of the senses and passions, which trouble and efface them because we cannot presently overcome the body except by the body; however, it is visible that the body cannot enlighten the mind nor produce in it the light of intelligence. For every idea that discovers truth comes from truth itself. What the soul receives through the body is only for the body; and when it turns toward phantoms, it sees only illusions and phantoms: I mean that it does not see things as they are in themselves, but only the relationships they may have with the body.
+
+If the idea of greatness or smallness that we have of ourselves is often an occasion for error, the idea we have of things that are outside of us and have some relation to us makes no less dangerous an impression. We have just said that the idea of greatness is always accompanied by a great movement of spirits, and that a great movement of spirits is always accompanied by an idea of greatness; and that on the contrary the idea of smallness is always accompanied by a small movement of spirits and that a small movement of spirits is always accompanied by an idea of smallness. From this principle it is easy to conclude that things that produce in us great movements of spirits must naturally appear to us to have more greatness—that is to say, more force, more reality, more perfection than others, for by greatness I understand all these things and several others. Thus, sensible goods must appear to us greater and more solid than those that are not felt, if we judge them by the movement of spirits and not by the pure idea of truth. A large house, a magnificent retinue, fine furniture, offices, honors, riches appear to have more greatness and reality than virtue and justice.
+
+When one compares virtue to riches by the clear view of the mind, one then prefers virtue; but when one makes use of one’s eyes and imagination, and judges these things only by the emotion of spirits they excite in us, one undoubtedly prefers riches to virtue.
+
+It is by this principle that we think spiritual things or those that are not felt are almost nothing; that the ideas of our mind are less noble than the objects they represent; that there is less reality and substance in air than in metals, in water than in ice; that the spaces from the earth to the firmament are empty, or that the bodies that fill them do not have as much reality and solidity as the sun and stars. Finally, if we fall into an infinity of errors on the nature and perfection of each thing, it is because we reason on this false principle.
+
+A great movement of spirits, and consequently a strong passion, always accompanying a sensible idea of greatness, and a small movement of spirits and consequently a weak passion also accompanying a sensible idea of smallness, one applies oneself much and employs too much time to the study of all that excites a sensible idea of greatness, and one neglects all that gives only a sensible idea of smallness. These great bodies, for example, which roll over our heads, have always made an impression on minds; they were first adored because of the sensible idea of their greatness and brilliance. Some bolder geniuses examined their movements, and these stars have been in all centuries the object either of study or of veneration for many people. One may even think that the fear of these imaginary influences, which still frighten astrologers and weak spirits today, is a kind of adoration that a subdued imagination renders to the idea of greatness representing celestial bodies.
+
+The body of man, on the contrary, infinitely more admirable and more worthy of our application than all that one can know of Jupiter, Saturn, and all other planets, is hardly known. The sensible idea of dissected flesh parts has nothing great about it and even causes disgust and horror; so that it is only in recent years that people of mind regard anatomy as a science deserving their application. Princes and kings have been found who were astronomers and who made glory of being so; the greatness of the stars seemed to accommodate itself with the greatness of their dignity. But I do not believe one has seen any who made honor of knowing anatomy and of well dissecting a heart and a brain. It is the same with many other sciences.
+
+Things rare and extraordinary produce in spirits movements greater and more sensible than those seen every day; one admires them, one consequently attaches to them some idea of greatness, and they thus excite in spirits passions of esteem and respect. This overturns the reason of many people; there are many who are so respectful and curious for all that remains to us of antiquity, for all that comes from afar or is rare and extraordinary, that their mind is as if enslaved, for the mind dares not judge or place itself above what it respects.
+
+It is true that there is not great danger for truth that some people love medals, arms, and clothing of the ancients, or those of the Chinese or savages. It is not entirely useless to know the map of ancient Rome or the roads from Tonkin to Nanking, although it is more useful for us to know those from Paris to Saint-Germain or Versailles. Finally, one cannot find fault with people wishing to know truly the history of the war of the Greeks with the Persians, or of the Tartars with the Chinese, and that they have an extraordinary inclination for Thucydides and Xenophon, or for whomever you please. But one cannot suffer that admiration for antiquity becomes master of reason, that it is as if forbidden to make use of one’s mind to examine the sentiments of the ancients, and that those who discover and demonstrate their falsity pass for presumptuous and rash.
+
+Truths are of all times. If Aristotle discovered some, one can also discover some today. One must prove the opinions of this author by reasons that one can accept: for if the opinions of Aristotle were solid in his time, they will be so now. It is an illusion to pretend to prove by human authorities the truths of nature. Perhaps one can prove that Aristotle had certain thoughts on certain subjects; but it is not very reasonable to read Aristotle or any author whatever with much assiduity and pain to learn historically their opinions and to instruct others in them.
+
+One cannot consider without some emotion that certain universities, established only for the search and defense of truth, have become particular sects, which make glory of studying and defending the sentiments of some men. One cannot read without some indignation the books that philosophers and doctors compose every day, in which citations are so frequent that one would take them rather for writings of theologians and canonists than for treatises of physics or medicine; for how can one suffer that one abandons reason and experience, to follow blindly the imaginations of Aristotle, Plato, Epicurus, or some other philosopher whatsoever!
+
+However, one would perhaps remain immobile and speechless at the sight of such strange conduct, if one did not feel wounded; I mean if these gentlemen did not combat against truth, to which alone one believes one ought to attach oneself. But admiration for the reveries of the ancients inspires in them a blind zeal against newly discovered truths: they decry them without knowing them; they combat them without understanding them, and they spread, by the force of their imagination, into the mind and heart of those who approach and admire them the same sentiments with which they are prepossessed.
+
+As they judge these new discoveries only by the esteem they have for their authors, and as those they have seen and with whom they have conversed do not have that grand and extraordinary air that imagination attaches to ancient authors, they cannot esteem them. For the idea of men of our century not being accompanied by extraordinary movements that strike the mind, naturally excites only contempt.
+
+Painters and sculptors never represent the philosophers of antiquity like other men; they make their head large, forehead wide and elevated, and beard ample and magnificent. This is good proof that common men naturally form a similar idea of them; for painters paint things as one figures them, they follow the natural movements of imagination. Thus one almost always regards the ancients as entirely extraordinary men. But imagination represents on the contrary men of our century as similar to those we see every day and, producing no extraordinary movement in the spirits, it excites in the soul only contempt and indifference for them.
+
+"I have seen Descartes," said one of those learned men who admire only antiquity: "I knew him, I conversed with him several times; he was an honest man, he did not lack wit, but he had nothing extraordinary." He had formed a low idea of Descartes’ philosophy, because he had conversed with the author for a few moments, and had recognized in him nothing of that grand and extraordinary air that warms the imagination. He even claimed to respond sufficiently to the reasons of this philosopher, which embarrassed him a little, by saying proudly that he had known him formerly. How desirable it would be that such people could see Aristotle otherwise than in painting, and have an hour of conversation with him, provided he did not speak to them in Greek, but in French, and without making himself known until after they had given their judgment!
+
+Things that bear the character of novelty, either because they are new in themselves, or because they appear in a new order or in a new situation, agitate us much; for they touch the brain in places all the more sensitive as they are less exposed to the course of spirits. Things that bear a sensible mark of greatness also agitate us much, for they excite in us a great movement of spirits. But things that bear at the same time the character of greatness and that of novelty do not only agitate us; they overthrow us, they carry us away, they stun us by the violent shocks they give us.
+
+Those, for example, who say only paradoxes make themselves admired; for they say only things that have the character of novelty. Those who speak only by maxims and employ only words chosen and proper for the sublime make themselves respected, for they appear to say something great. But those who join the sublime to the new, the great to the extraordinary, almost never fail to carry away and stun common men, even when they say only foolish things. This pompous and magnificent gibberish (*insani fulgores*), these false lights of declaimers almost always dazzle weak spirits; they make an impression so vivid and surprising on their imagination, that they remain quite stunned, that they respect this power that abases and blinds them, and that they admire as brilliant truths confused sentiments that cannot be expressed.
 

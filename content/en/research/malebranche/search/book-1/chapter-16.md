@@ -1,177 +1,55 @@
 ---
 heading: Chapter 16
-title: "The Passions"
+title: "Substantial Forms"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 41
 date: 2026-06-20
 ---
 
 
-I. Que les erreurs de nos sens nous servent de principes généraux et fort féconds pour
-tirer de fausses conclusions, lesquelles servent. de principes à leur tour. — II.
-Origine des différences essentielles. — III. Des formes substantielles. — IV. De
-quelques autres erreurs de la philosophie de l’école.
 
-I. On a, ce me semble expliqué suffisamment, pour des
-personnes qui ne sont point préoccupées et qui sont capables de
-quelque attention d’esprit, en quoi consistent nos sensations et les
-erreurs générales qui s’y trouvent. Il est maintenant à propos de
-montrer qu’on s’est servi de ces erreurs générales comme de
-principes incontestables pour expliquer toutes choses ; qu'on en a
-tiré une infinité de fausses conséquences qui ont aussi à leur tour
-servi de principes pour tirer d’autres conséquences, et qu’ainsi
-on a composé peu à peu ces sciences imaginaires sans corps et
-sans réalité après lesquelles on court aveuglément, mais qui,
-semblables à des fantômes, ne laissent autre chose à ceux qui les
-embrassent que la confusion et la honte de s’être laissé séduire,
-ou ce caractère de folie qui fait qu’on prend plaisir à se repaître
-d’illusions et de chimères. C’est ce qu’il faut montrer en
-particulier par des exemples.
+## The errors of our senses serve us as general and very fertile principles for drawing false conclusions, which in turn serve as principles.
 
-On a déjà dit que nous avions coutume d’attribuer aux objets nos propres sensations, et que nous jugions que les couleurs, les
-odeurs, les saveurs et les autres qualités sensibles se trouvaient
-dans les corps que nous appelons colorés, odoriférants,
-savoureux, et ainsi des autres. On a reconnu que c’est une erreur.
-Il faut présentement montrer que nous nous servons de cette
-erreur comme d’un principe pour tirer de fausses conséquences,
-et qu’en suite nous regardons ces dernières conséquences
-commes d’autres principes sur lesquels nous continuons
-d’appuyer nos raisonnements. En un mot, il faut exposer ici les
-démarches que fait l’esprit humain dans la recherche de quelques
-vérités particulières lorsque ce faux principe, que nos sensations
-sont dans les objets, lui paraît incontestable.
+I have explained in what our sensations consist and the general errors found within them.
 
-Mais, afin de rendre ceci plus sensible, prenons quelque corps
-en particulier dont on rechercherait la nature, et voyons ce que
-ferait un homme qui voudrait, par exemple, connaître ce que c’est
-que du miel et du sel. La première chose que ferait cet homme
-serait d’en examiner la couleur, l’odeur, la saveur, et les autres
-qualités sensibles, quelles sont celles du miel et celles du sel, en
-quoi elles conviennent, en quoi elles diffèrent, et le rapport
-qu’elles peuvent encore avoir avec celles des autres corps. Cela
-fait, voici à peu près la manière dont il raisonnerait ; supposé
-qu’il crùt comme un principe incontestable que les sensations
-fussent dans les objets des sens.
+I now show that these general errors have been used as indisputable principles to explain all things; that an infinity of false consequences has been drawn from them, which have also in their turn served as principles for drawing other consequences; and that thus, little by little, those imaginary sciences without body and without reality have been composed, after which people run blindly, but which, like ghosts, leave to those who embrace them nothing but confusion and the shame of having allowed themselves to be seduced, or that mark of folly which makes one take pleasure in feeding on illusions and chimeras. This must be shown in particular by examples.
 
-II. Toutes les choses que je sens en goûtant, en voyant et en
-maniant ce miel et ce sel sont dans ce miel et dans ce sel. Or il
-est indubitable que ce que je sens dans le miel diffère
-essentiellement de ce que je sens dans le sel. La blancheur du sel
-diffère sans doute bien davantage que du plus et du moins de la
-couleur du miel, et la douceur du miel de la saveur piquante du sel : et par conséquent, il faut qu’il y ait une différence
-essentielle entre le miel et le sel ; puisque tout ce que je sens
-dans l’un et dans l’autre ne diffère pas seulement du plus et du
-moins, mais qu’il diffère essentiellement.
+We are accustomed to attribute our own sensations to objects, and that we judge that colors, smells, tastes, and other sensible qualities are found in the bodies we call colored, odorous, tasty, and so on. It has been recognized that this is an error. It must now be shown that we use this error as a principle to draw false consequences, and that subsequently we regard these latter consequences as other principles upon which we continue to base our reasoning. In short, we must here expose the steps taken by the human mind in the search for certain particular truths when this false principle—that our sensations are in the objects—appears to it indisputable.
 
-Voilà la première démarche que cette personne ferait ; car sans
-doute il ne peut juger que le miel et le sel diffèrent
-essentiellement que parce qu’il trouve que les apparences de l’un
-diffèrent essentiellement de celles de l’autre, c’est-à-dire que les
-sensations qu’il a du miel diffèrent essentiellement de celles
-qu’il a du sel, puisqu’il n’en juge que par l’impression qu’ils font
-sur les sens. Il regarde donc ensuite sa conclusion comme un
-nouveau principe duquel il tire d’autres conclusions en cette
-sorte.
+But, to make this more evident, let us take some particular body whose nature is being investigated, and let us see what a man would do who wished, for example, to know what honey and salt are. The first thing this man would do would be to examine their color, smell, taste, and other sensible qualities, determining which belong to honey and which to salt, in what they agree, in what they differ, and what relationship they may still have with those of other bodies. This done, here is roughly the manner in which he would reason, assuming he believed as an indisputable principle that sensations were in the objects of the senses.
 
-III. Puis donc que le miel et le sel et les autres corps naturels
-diffèrent essentiellement les uns des autres, il s’ensuit que ceuxla se trompent lourdement qui nous veulent faire croire que toute
-la différence qui se trouve entre ces corps ne consiste que dans la
-différente configuration des petites parties qui les composent.
-Car puisque la figure n’est point essentielle aux différents corps,
-que la figure de ces petites parties qu’ils imaginent dans le miel
-change, le miel demeurera toujours miel, quand même ces parties
-auraient la figure des petites parties du sel. Ainsi, il faut de
-nécessité qu’il se trouve quelque substance qui, étant jointe à la
-matière première commune in tous les différents corps, fasse
-qu’ils diffèrent essentiellement les uns des autres.
-Voila la seconde démarche que ferait cet homme, et l’heureuse
-découverte des formes substantielles : ces substances fécondes
-qui font tout ce que nous voyons dans la nature, quoiqu’elles ne
-subsistent que dans l’imagination de notre philosophe. 
 
-Mais voyons les propriétés qu’il va libéralement donner à cet être de
-son invention, car il ôtera sans doute à toutes les autres
-substances les propriétés qui leur sont les plus essentielles pour
-l’en revêtir.
+## Origin of essential differences
 
-IV. Puis donc qu’il se trouve dans chaque corps naturel deux
-substances qui le composent, l’une qui est commune au miel et au
-sel et à tous les autres corps, et l’autre qui fait que le miel est
-miel, que le sel est sel, et que tous les autres corps sont ce qu’ils
-sont, il s’ensuit que la première, qui est la matière, n’ayant point
-de contraire et étant indifférente à toutes les formes, doit
-demeurer sans force et sans action, puisqu’elle n’a pas besoin de
-se défendre. Mais pour les autres, qui sont les formes
-substantielles, elles ont besoin d’être toujours accompagnées de
-qualités et de facultés pour les défendre. Il faut quelles soient
-toujours sur leurs gardes, de peur d’être surprises : qu’elles
-travaillent continuellement à leur conservation, à étendre leur
-domination sur les matières voisines, et à pousser leurs
-conquêtes le plus avant quelles pourront, parce que si elles
-étaient sans force, ou si elles manquaient d’agir, d’autres formes
-les viendraient surprendre et les anéantiraient aussitôt. Il faut
-donc quelles combattent toujours, et quelles nourrissent des
-antipathies et ces haines irréconciliables contre ces formes
-ennemies qui ne cherchent qu’a les détruire.
+All the things I feel in tasting, seeing, and handling this honey and this salt are in this honey and in this salt. Now it is indubitable that what I feel in honey differs essentially from what I feel in salt. The whiteness of salt undoubtedly differs far more than merely in degree from the color of honey, and the sweetness of honey from the pungent taste of salt: and consequently, there must be an essential difference between honey and salt; since all that I feel in the one and in the other does not differ only in degree (more or less), but differs essentially.
 
-Que s’il arrive qu’une forme s’empare de la matière d’une
-autre. que la forme (le cadavre, par exemple, s’empare du corps
-d’un chien, il ne faut pas que cette forme se contente d’anéantir la
-forme du chien, il faut que sa haine se satisfasse dans la
-destruction de toutes les qualités qui ont suivi le parti de son
-ennemie. Il faut aussitôt que le poil du cadavre soit blanc d’une blancheur de création nouvelle ; que son sang soit rouge d’une
-rougeur qui ne soit point suspecte ; que tout ce corps soit couvert
-de qualités fidèles à leur maîtresse, et qu’elles la défendent selon
-le peu de forces qu’ont les qualités d’un corps mort, qui doivent
-bientôt périr à leur tour. Mais parce qu’on ne peut pas toujours
-combattre et que toutes choses ont un lieu de repos, il faut sans
-doute que le feu, par exemple, ait son centre, où il tâche toujours
-d’aller par sa légèreté et par son inclination naturelle, afin de se
-reposer, de ne brûler plus, et de quitter même sa chaleur qu’il ne
-gardait ici-bas que pour sa défense.
+This is the first step this person would take; for undoubtedly he can judge that honey and salt differ essentially only because he finds that the appearances of one differ essentially from those of the other—that is, that the sensations he has of honey differ essentially from those he has of salt, since he judges them only by the impression they make on the senses. He therefore next regards his conclusion as a new principle from which he draws other conclusions in this manner.
 
-Voilà une petite partie des conséquences que l’on tire de ce
-dernier principe, qu’il y a des formes substantielles, lesquelles
-conséquences on a fait conclure à notre philosophe avec un peu
-trop de liberté, car d’ordinaire les autres disent ces mêmes
-choses plus sérieusement qu’il n’a fait ici.
 
-Il y a encore une infinité d’autres conséquences que tire tous
-les jours chaque philosophe, selon son humeur et son inclination,
-selon la fécondité ou la stérilité de son imagination ; car ce ne
-sont que ces choses qui les font différer les uns des autres.
-On ne s’arrète point ici à combattre ces substances
-chimériques, d’autres personnes les ont assez examinées. Ils ont
-assez fait voir que les formes substantielles ne furent jamais dans
-la nature, et quelles servent à tirer un très-grand nombre de
-conséquences fausses, ridicules et même contradictoires. On se
-contente d’avoir reconnu leur origine dans l’esprit de l’homme,
-et qu’elles doivent ce qu’elles sont aujourd’hui à ce préjugé
-commun à tous les hommes, que les sensations sont dans les
-objets qu’ils sentent. 
+## Substantial forms
 
-Car si l’on considère avec un peu
-d’attention ce que nous avons déjà dit, savoir, qu’il est nécessaire pour la conservation du corps que nous ayons des
-sensations essentiellement différentes, quoique les impressions
-que les objets font sur notre corps ne différent que très-peu, on
-verra clairement que c’est à tort qu’on s’imagine de si grandes
-différences dans les objets de nos sens.
+Since, then, honey and salt and other natural bodies differ essentially from one another, it follows that those are greatly mistaken who wish to make us believe that all the difference found between these bodies consists only in the different configuration of the small parts that compose them. For since figure is not essential to different bodies, if the figure of these small parts that they imagine in honey changes, honey will remain honey, even if these parts had the figure of the small parts of salt. Thus, it is necessary that there be found some substance which, being joined to the primary matter common to all different bodies, causes them to differ essentially from one another.
 
-Mais il faut que je dise ici en passant qu’on ne trouve rien à
-redire à ces termes de forme et de différence essentielle. Le miel
-est sans doute miel par sa forme, et c’est ainsi qu’il diffère
-essentiellement du sel ; mais cette forme ou cette différence
-essentielle ne consiste que dans la différente configuration de ses
-parties. C’est cette différente configuration qui fait que le miel
-est miel et que le sel est sel ; et quoiqu’il ne soit qu’accidente à
-la matière en général d’avoir la configuration des parties du miel
-ou du sel, et ainsi d’avoir la forme du miel ou du sel, on peut dire
-cependant qu’il est essentiel au miel et au sel, pour être ce qu’ils
-sont, d’avoir une telle ou telle configuration dans leurs parties :
-de même que les sensations de froid, de chaud, du plaisir et de la
-douleur ne sont point essentielles à l’âme, mais seulement à
-l’âme qui les sent ; parce que c’est par ces sensations qu’elle est
-appelée à sentir du chaud, du froid, du plaisir et de la douleur.
+Here is the second step this man would take, and the happy discovery of substantial forms: those fertile substances that produce everything we see in nature, although they subsist only in the imagination of our philosopher.
+
+But let us see the properties he will liberally give to this being of his invention, for he will undoubtedly strip all other substances of the properties most essential to them in order to clothe this being with them.
+
+
+## On some other errors of Scholastic philosophy.
+
+Since, then, there are found in each natural body two substances that compose it, one which is common to honey and salt and to all other bodies, and the other which makes honey honey, salt salt, and all other bodies what they are, it follows that the first, which is matter, having no contrary and being indifferent to all forms, must remain without force and without action, since it has no need to defend itself. But as for the others, which are the substantial forms, they need to be always accompanied by qualities and faculties to defend them. They must always be on their guard, lest they be surprised: they must work continually for their preservation, to extend their dominion over neighboring matters, and to push their conquests as far as they can, because if they were without force, or if they failed to act, other forms would come upon them by surprise and annihilate them immediately. They must therefore always fight, and nourish antipathies and irreconcilable hatreds against those enemy forms that seek only to destroy them.
+
+If it happens that one form seizes the matter of another—for example, if the form of a corpse seizes the body of a dog—it is not enough for this form to content itself with annihilating the form of the dog; its hatred must be satisfied in the destruction of all the qualities that followed the party of its enemy. Immediately, the hair of the corpse must be white with a newly created whiteness; its blood must be red with a redness that is not suspect; this whole body must be covered with qualities faithful to their mistress, defending her according to the little strength possessed by the qualities of a dead body, which must soon perish in their turn. But because one cannot always fight and all things have a place of rest, it is undoubtedly necessary that fire, for example, have its center, where it always strives to go by its lightness and natural inclination, in order to rest, to burn no more, and even to quit the heat it kept here below only for its defense.
+
+Here is a small part of the consequences drawn from this last principle, that there are substantial forms, consequences which our philosopher has been made to conclude with perhaps too much liberty, for ordinarily others say these same things more seriously than he has done here.
+
+There are yet an infinity of other consequences that every philosopher draws daily, according to his humor and inclination, according to the fertility or sterility of his imagination; for it is only these things that make them differ from one another.
+
+We do not stop here to combat these chimerical substances; other persons have examined them sufficiently. They have shown clearly enough that substantial forms were never in nature, and that they serve to draw a very great number of false, ridiculous, and even contradictory consequences. We content ourselves with having recognized their origin in the human mind, and that they owe what they are today to this prejudice common to all men, that sensations are in the objects they feel.
+
+For if one considers with a little attention what we have already said, namely, that it is necessary for the preservation of the body that we have essentially different sensations, although the impressions that objects make on our body differ only very slightly, one will see clearly that it is wrongly that one imagines such great differences in the objects of our senses.
+
+But I must say here in passing that there is nothing to object to in these terms of *form* and *essential difference*. Honey is undoubtedly honey by its form, and it is thus that it differs essentially from salt; but this form or this essential difference consists only in the different configuration of its parts. It is this different configuration that makes honey honey and salt salt; and although it is only accidental to matter in general to have the configuration of the parts of honey or of salt, and thus to have the form of honey or of salt, one can nevertheless say that it is essential to honey and to salt, in order to be what they are, to have such or such a configuration in their parts: just as the sensations of cold, heat, pleasure, and pain are not essential to the soul, but only to the soul that feels them; because it is by these sensations that it is called to feel heat, cold, pleasure, and pain.
 

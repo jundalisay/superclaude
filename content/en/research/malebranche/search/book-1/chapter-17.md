@@ -1,115 +1,36 @@
 ---
 heading: Chapter 17
-title: "The Passions"
+title: "God alone is our good"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 39
 date: 2026-06-20
 ---
 
 
 
-I. Autre exemple tiré de la morale, lequel fait voir que nos sens ne nous offrent que de
-faux biens. — II. Qu’il n’y a que Dieu qui soit notre bien. — III. Origine des
-erreurs des épicuriens et des stoïciens.
-On a rapporté des preuves qui font, ce me semble, assez voir
-que ce préjugé, que nos sensations sont dans les objets est un
-principe très-fécond en erreurs dans la physique. Il en faut maintenant apporter d’autres tirées de la morale. dans laquelle ce
-même préjugé joint avec celui-ci, que les objets de nos sens sont
-les véritables causes de nos sensations, est aussi très-dangereux.
+## Another example drawn from morality, which shows that our senses offer us only false goods
 
-I. Il n’y a rien de si commun dans le monde que de voir des
-personnes qui s’attachent aux biens sensibles : les uns aiment la
-musique, les autres la bonne chère, et d’autres enfin sont
-passionnés pour d’autres choses. Or, voici à peu près de quelle
-manière ils doivent avoir raisonné pour s’être persuadé que tous
-ces objets sont des biens. Toutes ces saveurs agréables qui nous
-plaisent dans les festins, ces sons qui flattent l’oreille et ces
-autres plaisirs que nous sentons en d’autres occasions, sont sans
-doute renfermés dans les objets sensibles, ou tout au moins ces
-objets nous les font sentir, et nous ne pouvons les goûter que par
-leur moyen. Or il n’est pas possible de douter que le plaisir ne
-soit bon, que la douleur ne soit mauvaise : nous en sommes
-intérieurement convaincus ; et par conséquent les objets de nos
-passions sont des biens très-réels, auxquels nous devons nous
-attacher pour être heureux.
+We have presented proofs which, it seems to me, sufficiently show that this prejudice — that our sensations are in objects — is a principle highly fertile in errors in physics. We must now bring forward others drawn from morality, in which this same prejudice, joined with that other — that the objects of our senses are the true causes of our sensations — is also very dangerous.
 
-Voilà le raisonnement que nous faisons d’ordinaire presque
-sans y penser. Ainsi, c’est à cause que nous croyons que nos
-sensations sont dans les objets, ou bien que les objets ont en euxmêmes le pouvoir de nous les faire sentir, que nous considérons
-comme nos biens des choses au-dessus desquelles nous sommes
-infiniment élevés, qui ne peuvent au plus agir que sur nos corps et
-produire quelques mouvements dans leurs fibres ; mais qui ne
-peuvent jamais agir sur nos âmes, ni nous faire sentir du plaisir
-ou de la douleur
+There is nothing so common in the world as to see persons who become attached to sensible goods: some love music, others good food, and still others are passionate about other things. Now, here is roughly the manner in which they must have reasoned in order to persuade themselves that all these objects are goods. All these agreeable flavors that please us in feasts, these sounds that flatter the ear, and these other pleasures that we feel on other occasions, are without doubt contained in sensible objects, or at the very least these objects cause us to feel them, and we can enjoy them only through their means. Now, it is not possible to doubt that pleasure is good, that pain is evil: we are inwardly convinced of this; and consequently the objects of our passions are very real goods, to which we must attach ourselves in order to be happy.
 
-II. Certainement. si ce n’est pas notre âme qui agit sur ellemême à l’occasion de ce qui se passe dans le corps, il n’y a que
+This is the reasoning we ordinarily carry out almost without thinking about it. Thus, it is because we believe that our sensations are in objects, or that objects have in themselves the power to make us feel them, that we regard as our goods things above which we are infinitely elevated, things that can at most act only upon our bodies and produce some movements in their fibers; but which can never act upon our souls, nor make us feel pleasure or pain.
 
-Dieu seul qui ait ce pouvoir ; et si ce n’est point elle qui se cause
-du plaisir ou de la douleur selon la diversité des ébranlements
-des fibres de son corps, comme il y a toutes les apparences,
-puisqu’elle sent du plaisir et de la douleur sans qu’elle y
-consente, je ne connais point d’autre main assez puissante pour
-les lui faire sentir que celle de l’auteur de la nature.
-En effet, il n’y a que Dieu qui soit notre véritable bien. Il n’y a
-que lui qui puisse nous combler de tous les plaisirs dont nous
-sommes capables. Ce n’est que dans sa connaissance et dans son
-amour qu’il a résolu de nous les faire sentir ; et ceux qu’il a
-attachés aux mouvements qui se passent dans notre corps afin que
-nous eussions soin de sa conservation, sont très-petits, trèsfaibles et de très-peu de durée, quoique, dans l’état où le péché
-nous a réduits, nous en soyons comme esclaves. Mais ceux qu’il
-fera sentir à ses élus dans le ciel seront infiniment plus grands,
-puisqu’il nous a faits pour le connaître et pour l’aimer. Car enfin
-l’ordre demandant que l’on ressente de plus grands plaisirs
-lorsqu’on possède de plus grands biens, puisque Dieu est
-infiniment au-dessus de toutes choses, le plaisir de ceux qui le
-posséderont surpassera certainement tous les plaisirs.
+## God alone is our good
 
-III. Ce que nous venons de dire de la cause de nos erreurs à
-l’égard du bien fait assez connaître la fausseté des opinions
-qu’avaient les stoïciens et les épicuriens touchant le souverain
-bien. Les épicuriens le mettaient dans le plaisir ; et parce qu’on
-le sent aussi bien dans le vice que dans la vertu, et même plus
-ordinairement dans le premier que dans l’autre, on a cru
-communément qu’il se laissaient aller à toutes sortes de voluptés.
-Or, la première cause de leur erreur est que, jugeant
-faussement qu’il y avait quelque chose d’agréable dans les objets de leurs sens, ou qu’ils étaient les véritables causes des plaisirs
-qu’ils sentaient ; étant outre cela convaincus, par le sentiment
-intérieur qu’ils avaient d’eux-mêmes, que le plaisir était un bien
-pour eux, au moins pour le temps qu’ils en jouissaient, ils se
-laissaient aller à toutes les passions, desquelles ils
-n’appréhendaient point de souffrir quelque incommodité dans la
-suite. Au lieu qu’ils devaient considérer que le plaisir que l’on
-sent dans les choses sensibles ne peut être dans ces choses
-comme dans leurs véritables causes ni d’une autre manière, et par
-conséquent que les biens sensibles ne peuvent être des biens à
-l’égard de notre âme, et le reste que nous avons expliqué.
-Les stoïciens, persuadés au contraire que les plaisirs sensibles
-n’étaient que dans le corps et pour le corps, et que l’âme devait
-avoir son bien particulier, mettaient le bonheur dans la vertu. Or,
-voici la source de leurs erreurs.
+if it is not our soul that acts upon itself on the occasion of what happens in the body, there is only God alone who has this power; and if it is not the soul that causes itself pleasure or pain according to the diversity of the vibrations of the fibers of its body — as there is every appearance, since it feels pleasure and pain without consenting to it — I know of no other hand powerful enough to make it feel them than that of the author of nature.
 
-C’est qu’ils croyaient que le plaisir et la douleur sensibles
-n’étaient point dans l’âme, mais seulement dans le corps ; et ce
-faux jugement leur servait ensuite de principe pour d’autres
-fausses conclusions, comme : que la douleur n’est point un mal,
-ni le plaisir un bien ; que les plaisirs des sens ne sont point bons
-en eux-mêmes ; qu’ils sont communs aux hommes et aux bêtes,
-etc. Cependant il est facile de voir que, quoique les épicuriens et
-les stoïciens aient eu tort en bien des choses, ils ont eu raison en
-quelques-unes. Car le bonheur des bienheureux ne consiste que
-dans une vertu accomplie, c’est-à-dire dans la connaissance et
-l’amour de Dieu, et dans un plaisir très-doux qui les accompagne
-sans cesse.
-
-Retenons donc bien que les objets extérieurs ne renferment
-rien d’agréable ni de fâcheux, qu’ils ne sont point les causes de nos plaisirs, que nous n'avons point de sujet de les craindre ni de
-les aimer ; mais qu’il n’y a que Dieu qu’il faille craindre et qu’il
-faille aimer, comme il n’y a que lui qui soit assez puissant pour
-nous punir et pour nous récompenser, pour nous faire sentir du
-plaisir et de la douleur ; enfin que ce n’est qu’en Dieu et que de
-Dieu que nous devons espérer les plaisirs, pour lesquels nous
-avons une inclination si forte, si naturelle et si juste.
+God alone is our true good. He alone can fill us with all the pleasures of which we are capable. It is only in the knowledge and love of Him that He has resolved to make us feel them; and those pleasures that He has attached to the movements that occur in our bodies, so that we might take care of their preservation, are very small, very weak, and of very short duration, although, in the state to which sin has reduced us, we are like slaves to them. But those that He will make His elect feel in heaven will be infinitely greater, since He has made us to know Him and to love Him. For in the end, order demands that one feel greater pleasures when one possesses greater goods; since God is infinitely above all things, the pleasure of those who will possess Him will certainly surpass all pleasures.
 
 
+## Origin of the errors of the Epicureans and the Stoics.
+
+What we have just said about the cause of our errors with regard to the good makes sufficiently clear the falsity of the opinions that the Stoics and the Epicureans held concerning the sovereign good. The Epicureans placed it in pleasure; and because pleasure is felt as much in vice as in virtue, and even more ordinarily in the former than in the latter, it was commonly believed that they gave themselves over to every sort of voluptuousness. Now, the first cause of their error is that, judging falsely that there was something agreeable in the objects of their senses, or that they were the true causes of the pleasures they felt; being besides convinced, by the inner sentiment they had of themselves, that pleasure was a good for them, at least for the time they enjoyed it, they gave themselves over to all passions, from which they did not fear suffering any inconvenience afterward. Whereas they ought to have considered that the pleasure felt in sensible things cannot be in those things as in their true causes, nor in any other manner, and consequently that sensible goods cannot be goods with respect to our soul, and the rest that we have explained.
+
+The Stoics, persuaded on the contrary that sensible pleasures were only in the body and for the body, and that the soul must have its particular good, placed happiness in virtue. Now, here is the source of their errors.
+
+It is that they believed that sensible pleasure and pain were not in the soul, but only in the body; and this false judgment then served them as a principle for other false conclusions, such as: that pain is not an evil, nor pleasure a good; that the pleasures of the senses are not good in themselves; that they are common to men and beasts, etc. However, it is easy to see that, although the Epicureans and the Stoics were wrong in many things, they were right in some. For the happiness of the blessed consists only in a perfect virtue, that is to say, in the knowledge and love of God, and in a very sweet pleasure that accompanies it unceasingly.
+
+Let us therefore remember well that external objects contain nothing agreeable or disagreeable, that they are not the causes of our pleasures, that we have no reason to fear them or to love them; but that God alone is to be feared and to be loved, as He alone is powerful enough to punish us and to reward us, to make us feel pleasure and pain; in short, that it is only in God and from God that we must hope for the pleasures for which we have so strong, so natural, and so just an inclination.

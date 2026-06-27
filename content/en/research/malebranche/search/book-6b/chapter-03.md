@@ -9,6 +9,7 @@ date: 2026-06-20
 ---
 
 
+
 ## The Most Dangerous Error of Ancient Philosophy
 
 Not only do philosophers say what they do not truly conceive when they explain the effects of nature by certain beings of which they have no distinct idea; they even provide a principle from which one can directly draw consequences that are very false and very dangerous.

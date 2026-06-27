@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4
-title: "The Rules"
+title: "The use of organization to maintain the mind's attention, and on the usefulness of geometry"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,455 +10,73 @@ date: 2026-06-20
 
 
 
-De l’usage de l’organisation pour conserver l’attention de l’esprit, et de l’utilité de la
-géométrie.
+One must exercise great circumspection in the choice and use of the aids one can draw from the senses and passions to render oneself attentive to truth, because our passions and senses affect us too vividly and fill the mind's capacity to such an extent that it often sees only its own sensations when it thinks it is discovering things in themselves. But it is not the same with the aids one can draw from the imagination: they make the mind attentive without uselessly occupying its capacity, and thus they wonderfully help to perceive objects clearly and distinctly, so that it is almost always advantageous to use them. But let us make this clear with a few examples.
 
-Il faut user de grandes circonspections dans le choix et dans
-l’usage des secours que l’on peut tirer de ses sens et de ses
-passions pour se rendre attentif à la vérité, parce que nos
-passions et nos sens nous touchent trop vivement, et qu’ils
-remplissent de telle sorte la capacité de l’esprit qu’il ne voit
-souvent que ses propres sensations lorsqu’il pense découvrir les
-choses en elles-mêmes. Mais il n’en est pas de même des secours que l’on peut tirer de son imagination : ils rendent l’esprit attentif
-sans en partager inutilement la capacité, et ils aident ainsi
-merveilleusement à apercevoir clairement et distinctement les
-objets, de sorte qu’il est presque toujours avantageux de s’en
-servir. Mais rendons ceci sensible par quelques exemples.
-On sait qu’un corps est mu par deux ou par plusieurs causes
-différentes vers deux ou plusieurs différents côtés ; que ces
-forces les poussent également ou inégalement ; qu’elles
-augmentent ou qu’elles diminuent incessamment, selon une
-proportion connue telle qu’on voudra. Et l’on demande quel est
-le chemin que doit tenir ce corps, l’endroit où il se doit trouver
-dans un tel moment, quelle doit être sa vitesse lorsqu’il est arrivé
-à un tel endroit, et autres choses semblables.
+A body is moved by two or several different causes toward two or several different sides; that these forces push it equally or unequally; that they increase or decrease incessantly, according to any known proportion one wishes. And the question is: what path must this body follow, where must it be at such a moment, what must its velocity be when it arrives at such a place, and other similar things.
 
 
-1. Du point A, que l’on suppose être celui d’où ce corps
-commence à se mouvoir, on doit tirer d’abord les lignes
-indéfinies, AB, AC, qui font l’angle BAC si elles se coupent ; car
-AB et AC sont directes et ne se coupent pas lorsque les
-mouvements qu’elles expriment sont directement opposés. L’on
-représente ainsi distinctement l’imagination ou, si on le veut, aux
-sens, le chemin que suivrait ce corps s’il n’y avait qu’une de ces
-forces qui le poussât vers quelqu’un des côtés A ou B.
-2. Si la force qui meut ce corps vers B est égale à celle qui le
-meut vers C, on doit couper dans les lignes AB et AC des parties
-1, 2, 3, 4, et I, II, III, IV, également éloignées de A. Si la force qui
-le meut vers B est double de celle qui le meut vers C, l’on coupe
-les parties dans AB doubles de celles que l’on coupe dans AC.
-Si cette force est sous-double, on les coupe sous-doubles ; si
-trois fois plus grande ou plus petite, on les coupe trois fois plus
-grandes ou plus petites. Les divisions de ces lignes expriment
-encore à l’imagination la grandeur des différentes forces qui
-meuvent ce corps, et en même temps l’espace qu’elles sont
-capables de lui faire parcourir.
+**1.** From point A, which is supposed to be where this body begins to move, one must first draw the indefinite lines AB, AC, which form the angle BAC if they intersect; for AB and AC are direct and do not intersect when the movements they express are directly opposed. Thus one distinctly represents to the imagination — or, if one prefers, to the senses — the path this body would follow if there were only one of these forces pushing it toward either side A or B.
 
-3. L’on tire par ces divisions des parallèles sur AB et sur AC,
-afin d’avoir les lignes 1X, 2X, 3X, etc. égales à AI, AIII, etc., et
-IX, IIX, IIIX égales à Al, A2, A3, qui expriment les espaces que
-ces forces sont capables de faire parcourir à ce corps, et par les
-intersections de ces parallèles on tire la ligne AXYE, laquelle
-représente à l’imagination : premièrement, la véritable grandeur
-du mouvement composé de ce corps, que l’on conçoit poussé en
-même temps vers B et vers C par deux forces différentes, selon
-une telle proportion ; secondement, le chemin qu’il doit tenir ;
-enfin tous les lieux où il doit être dans un temps déterminé ; de
-sorte que cette ligne sert non-seulement à soutenir la vue de
-l’esprit dans la recherche de toutes les vérités qu’on veut
-découvrir sur la question proposée, elle en représente même la
-résolution d’une manière sensible et convaincante.
-Premièrement, cette ligne AXYE exprime la véritable grandeur
-du mouvement composé ; car l’on voit sensiblement que, si les
-forces qui le produisent peuvent chacune faire avancer ce corps
-d’un pied en une minute, son mouvement composé sera de deux
-pieds en une minute si les mouvements composants s’accordent
-parfaitement ; car, dans ce cas, il suffit d’ajouter AB à AC, parce
-que les forces des mouvements composants sont entièrement
-employées à former le mouvement composé ; et si ces
-mouvements ne peuvent s’accorder entièrement, le composé AE
-sera plus grand que l’un des composants AB ou AC de la ligne
-YE. Mais si ces mouvements se font par deux lignes qui fassent
-l’angle CAB, de 120 degrés, le composé sera égal à chacun des
-composants égaux. Enfin si ces mouvements sont entièrement
-opposés, le composé sera nul, parce que les forces des
-mouvements composants étant égales, elles font équilibre.
-Secondement, cette ligne AXYE représente à l’imagination le
-chemin que doit suivre le corps, et l’on voit sensiblement selon
-quelle proportion il avance plus d’un côté que de l’autre. On voit
-aussi que tous les mouvements composés sont droits lorsque
-chacun des composants est toujours le même, quoiqu’ils soient
-inégaux entre eux ; ou bien lorsque les composants sont toujours
-égaux entre eux, quoiqu’ils ne soient pas toujours les mêmes.
-Enfin il est visible que les lignes que décrivent ces mouvements
-sont courbes lorsque les composants sont inégaux entre eux, et ne
-sont pas toujours les mêmes.
+**2.** If the force moving this body toward B is equal to that moving it toward C, one must cut along the lines AB and AC the parts 1, 2, 3, 4, and I, II, III, IV, equally distant from A. If the force moving it toward B is double that moving it toward C, one cuts the parts on AB double those cut on AC. If this force is half, one cuts them half; if three times greater or smaller, one cuts them three times greater or smaller. The divisions of these lines further represent to the imagination the magnitude of the different forces moving this body, and at the same time the space they are capable of making it traverse.
 
-Enfin cette ligne représente à l’imagination tous les lieux où ce
-corps, poussé par deux forces différentes vers deux différents
-endroits, doit se trouver ; de sorte que l’on peut marquer
-précisément le point où ce corps doit être dans tel instant qu’on
-voudra. Si l’on veut savoir, par exemple, où il doit se trouver au
-commencement de la quatrième minute, il n’y a qu’à diviser les
-lignes A B ou A C en des parties qui expriment l’espace que ces
-forces connues seraient capables chacune en particulier de faire
-parcourir à ce corps dans une minute ; et prendre trois de ces
-parties dans quel qu’une de ces lignes, et tirer ensuite par le
-commencement de la quatrième 3 X parallèle à A B, ou III X
-parallèle à A C. Car il est évident que le point X, que l’une ou
-l’autre de ces parallèles détermine dans la ligne AXYE, marque
-l’endroit où ce corps se trouvera au commencement de la
-troisième minute de son mouvement. Ainsi cette manière
-d’examiner les questions ne soutient pas seulement la vue de
-l'esprit, elle lui en montre même la résolution ; et elle lui donne
-assez de lumière pour découvrir les choses inconnues par fort
-peu de choses connues.
-Il suffit, par exemple, après ce qu’on a dit, que l’on sache
-seulement qu’un corps qui était en A dans un tel temps se trouve
-en E dans un autre, et que les forces différentes le poussent par
-des lignes qui fassent un angle donné tel que B A C, pour
-découvrir la ligne de son mouvement composé, et les différents
-degrés de vitesse des mouvements simples, pourvu que l’on
-sache que ces mouvements soient égaux entre eux ou uniformes.
-Car quand on a deux points d’une ligne droite, on l’a tout entière ;
-et l’on peut comparer la ligne droite A E, ou le mouvement
-composé qui est connu, avec les lignes A B et A C, c’est-à-dire
-avec les mouvements simples qui sont inconnus.
+**3.** One draws through these divisions parallels to AB and AC, in order to obtain the lines 1X, 2X, 3X, etc., equal to AI, AIII, etc., and IX, IIX, IIIX equal to Al, A2, A3, which express the spaces these forces are capable of making this body traverse; and through the intersections of these parallels one draws the line AXYE, which represents to the imagination: first, the true magnitude of the compound motion of this body, conceived as pushed at the same time toward B and toward C by two different forces in such a proportion; second, the path it must follow; finally, all the places where it must be at a determined time; so that this line serves not only to sustain the mind's vision in the search for all the truths one wishes to discover on the proposed question, but even represents its resolution in a sensible and convincing manner.
 
+First, this line AXYE expresses the true magnitude of the compound motion; for one sees sensibly that if the forces producing it can each advance this body by one foot in one minute, its compound motion will be two feet in one minute if the component motions agree perfectly; for in that case, it suffices to add AB to AC, because the forces of the component motions are entirely employed in forming the compound motion; and if these motions cannot entirely agree, the compound AE will be greater than one of the components AB or AC by the line YE. But if these motions proceed along two lines forming the angle CAB of 120 degrees, the compound will be equal to each of the equal components. Finally, if these motions are entirely opposed, the compound will be zero, because the forces of the component motions being equal, they balance each other.
 
-Si l’on suppose de nouveau qu’une pierre soit poussée de A[6]
-vers B par un mouvement uniforme, mais qu’elle descende vers
-C, infiniment éloigné du point A, par un mouvement inégal,
-semblable à celui dont on croit ordinairement que les corps
-pesants tendent au centre de la terre, c’est-à-dire que les espaces
-qu’elle parcourt soient entre eux comme les carrés des temps
-qu’elle emploie à les parcourir, la ligne qu’elle décrira sera
-toujours une parabole, et I’on pourra déterminer dans la dernière
-exactitude le point où elle sera dans un tel moment de son
-mouvement.
+Second, this line AXYE represents to the imagination the path the body must follow, and one sees sensibly in what proportion it advances more on one side than on the other. One also sees that all compound motions are straight when each of the components is always the same, although they may be unequal among themselves; or when the components are always equal among themselves, although they may not always be the same. Finally, it is visible that the lines described by these motions are curved when the components are unequal among themselves and are not always the same.
 
-Car si dans ce premier moment ce corps tombe de deux pieds
-de A vers C, dans le second de six, dans le troisième de dix, dans
-le quatrième de quatorze, et qu’il soit poussé par un mouvement
-uniforme de A vers B, qui est de la longueur de seize pieds, il est
-visible que la ligne qu’il décrira sera une parabole dont le
-paramètre sera long de huit pieds. Car le carré des appliquées ou
-ordonnées au diamètre, lesquelles marquent les temps et le
-mouvement réglé de A vers B, sera égal au rectangle du
-paramètre par les lignes qui marquent les mouvements inégaux et
-accélérés ; et les carrés des appliquées, c’est-à-dire les carrés
-des temps, seront entre eux comme les parties du diamètre
-comprises entre le pôle et les appliquées.
+Finally, this line represents to the imagination all the places where this body, pushed by two different forces toward two different places, must be found; so that one can mark precisely the point where this body must be at any given instant. If, for example, one wishes to know where it must be at the beginning of the fourth minute, one need only divide the lines AB or AC into parts expressing the space that each of these known forces would be capable of making this body traverse in one minute; and take three of these parts in any of these lines, and then draw through the beginning of the fourth 3X parallel to AB, or IIIX parallel to AC. For it is evident that the point X, which one or the other of these parallels determines on the line AXYE, marks the place where this body will be at the beginning of the third minute of its motion. Thus this manner of examining questions not only sustains the mind's vision, it even shows it the resolution; and it gives it enough light to discover unknown things from very few known things.
+
+It suffices, for example, after what has been said, that one only knows that a body which was at A at such a time is found at E at another, and that different forces push it along lines making a given angle such as BAC, to discover the line of its compound motion, and the different degrees of velocity of the simple motions, provided one knows that these motions are equal among themselves or uniform. For when one has two points of a straight line, one has the whole; and one can compare the straight line AE, or the compound motion which is known, with the lines AB and AC, that is to say, with the simple motions which are unknown.
+
+If one again supposes that a stone is pushed from A toward B by a uniform motion, but that it falls toward C, infinitely far from point A, by an unequal motion, similar to that by which heavy bodies are commonly thought to tend toward the center of the earth — that is to say, that the spaces it traverses are to each other as the squares of the times it takes to traverse them — the line it will describe will always be a parabola, and one will be able to determine with the utmost exactness the point where it will be at such a moment of its motion.
+
+For if in this first moment this body falls two feet from A toward C, in the second six, in the third ten, in the fourth fourteen, and it is pushed by a uniform motion from A toward B of length sixteen feet, it is visible that the line it will describe will be a parabola whose parameter will be eight feet long. For the square of the ordinates to the diameter, which mark the times and the regular motion from A toward B, will be equal to the rectangle of the parameter by the lines which mark the unequal and accelerated motions; and the squares of the ordinates — that is to say, the squares of the times — will be to each other as the parts of the diameter between the pole and the ordinates.
 16 : 64 :: 2 : 8.
-64 : 144 :: 8 : 18. etc.
-Il suffit de considérer la sixième figure pour se persuader de
-ceci. Car les demi-cercles font connaître que A 2 est à A 4, c’està-dire, à l’appliquée 2 X, qui lui est égale, comme 2 X est à A 8 ;
-que A 18 est A 12, c’est-à-dire à l’appliquée 18 X, comme 18 X
-est à A 8, etc. ; qu’ainsi les rectangles A 2 par A 8, et A 18 aussi
-par A 8 sont égaux aux carrés de 2 X, et de 18 X, etc., et par
-conséquent que ces carrés sont entre eux comme ces rectangles.
-Les parallèles sur A B et sur A C qui se coupent aux points X.
-X. X font encore sensiblement connaître le chemin que doit tenir
-ce corps. Elles marquent les endroits où il doit être en un tel
-temps. Elles représentent enfin aux yeux la véritable grandeur du
-mouvement composé et de son accélération en un temps
-déterminé.
+64 : 144 :: 8 : 18, etc.
+It suffices to consider the sixth figure to be convinced of this. For the semicircles show that A2 is to A4 — that is, to the ordinate 2X, which is equal to it — as 2X is to A8; that A18 is to A12 — that is, to the ordinate 18X — as 18X is to A8, etc.; thus the rectangles A2 by A8, and A18 also by A8, are equal to the squares of 2X and 18X, etc., and consequently these squares are to each other as these rectangles. The parallels to AB and AC which intersect at points X, X, X further make sensibly known the path this body must follow. They mark the places where it must be at such a time. They finally represent to the eyes the true magnitude of the compound motion and of its acceleration at a determined time.
 
-Supposant de nouveau qu’un corps se meuve de A vers C
-inégalement, aussi bien que de A vers B, si l’inégalité est pareille au commencement et toujours, c’est-à-dire, si l’inégalité
-de son mouvement vers C est semblable à celui vers B, ou s’il
-augmente avec la même proportion, la ligne qu’il décrira sera
-droite.
+Again supposing that a body moves from A toward C unequally, as well as from A toward B, if the inequality is the same at the beginning and always — that is, if the inequality of its motion toward C is similar to that toward B, or if it increases in the same proportion — the line it will describe will be straight.
 
-Mais si l’on suppose qu’il y ait inégalité dans l’augmentation
-ou dans la diminution des mouvements simples, quoique l’on
-suppose cette inégalité telle qu’on voudra, il sera toujours facile
-de trouver la ligne qui représente à l’imagination le mouvement
-composé de mouvements simples, en exprimant par des lignes
-ces mouvements, et en tirant à ces lignes des parallèles qui
-s’entrecoupent. Car la ligne qui passera par toutes les
-intersections de ces parallèles représentera le mouvement
-composé de ces mouvements inégaux, et inégalement accélérés
-ou diminués.
+But if one supposes that there is inequality in the increase or decrease of the simple motions, although one may suppose this inequality to be whatever one wishes, it will always be easy to find the line representing to the imagination the compound motion of simple motions, by expressing these motions by lines and drawing parallels to these lines that intersect. For the line passing through all the intersections of these parallels will represent the compound motion of these unequal motions, unequally accelerated or diminished.
 
-Par exemple, si l’on suppose qu’un corps soit mu par deux
-forces égales ou inégales telles qu’on voudra, qu’un de ces
-mouvements augmente ou diminue toujours selon une progression
-géométrique ou arithmétique telle qu’on voudra, et que l’autre
-mouvement augmente ou diminue aussi selon une progression
-arithmétique ou géométrique telle qu’on voudra ; pour trouver les
-points par lesquels doít passer la ligne qui représente aux yeux et
-à l’lmaglnation le mouvement composé de ces mouvements, voici
-ce qu’il y tu à faire.
+For example, if one supposes that a body is moved by two equal or unequal forces as one wishes, that one of these motions always increases or decreases according to any geometric or arithmetic progression one wishes, and that the other motion also increases or decreases according to any arithmetic or geometric progression one wishes; to find the points through which the line representing to the eyes and to the imagination the compound motion of these motions must pass, here is what must be done.
 
-Il faut d’abord tirer, comme l’on a dit, les deux lignes A B et A
-C, pour exprimer les deux mouvements simples ; et diviser ces
-lignes selon la supposition de l’accélération de ces mouvements.
-Si l’on suppose que le mouvement exprimé par la ligne A C
-augmente ou diminue selon une progression arithmétique 1, 2, 3,
-4, 5 ; il faut la diviser aux points marqués 1, 2, 3, 4, 5 ; et si l’on
-736
-suppose que le mouvement exprimé par la ligne A B augmente
-selon la progression double 1, 2, 4, 8, 16. ou diminue selon la
-progression sous-double 4, 2, 1, 1/2, 1/4, 1/8, il faut la diviser
-aux points marqués 1, 2, 4, 8, 16 ; ou 4, 2, 1, 1/2, 1/4, 1/8.
-Ensuite il faut tirer par ces divisions des parallèles à A B et à A
-C ; et la ligne A E ; qui doit exprimer le mouvement composé que
-l’on cherche, passera nécessairement par tous les points où ces
-parallèles s’entrecouperont. Et ainsi lîon voit le chemin que ce
-corps mu doit tenir.
+First, one must draw, as has been said, the two lines AB and AC, to express the two simple motions; and divide these lines according to the supposition of the acceleration of these motions. If one supposes that the motion expressed by the line AC increases or decreases according to an arithmetic progression 1, 2, 3, 4, 5; it must be divided at the points marked 1, 2, 3, 4, 5; and if one supposes that the motion expressed by the line AB increases according to the double progression 1, 2, 4, 8, 16, or decreases according to the sub-double progression 4, 2, 1, 1/2, 1/4, 1/8, it must be divided at the points marked 1, 2, 4, 8, 16; or 4, 2, 1, 1/2, 1/4, 1/8. Then one must draw through these divisions parallels to AB and AC; and the line AE, which must express the compound motion sought, will necessarily pass through all the points where these parallels intersect. And thus one sees the path this moving body must follow.
 
-Si l’on veut connaître exactement combien il y a de temps que
-ce corps a commencé d’être remué lorsqu’il est arrivé à un tel
-point ; les parallèles tirées de ce point sur A B ou sur A C le
-marqueront, car les divisions de A B et de A C marquent le
-temps. De même, si l’on veut savoir le point où ce corps sera
-arrivé en un tel temps, les parallèles tirées des divisions des
-lignes A B et A C, qui représentent ce temps, marqueront par leur
-intersection ce point que l’on cherche. Pour l’éloignement du lieu
-d’où il a commencé à se mouvoir, il sera toujours facile de le connaître en tirant une ligne de ce point vers A, car la longueur
-de cette ligne se connaîtra par rapport à A B ou à A C qui sont
-connues. Mais pour la longueur du chemin que ce corps aura fait
-pour arriver à ce point, il sera difficile de la connaître, à cause
-que la ligne de son mouvement A E étant courbe, on ne peut la
-rapporter à aucune de ces lignes droites.
+If one wishes to know exactly how long this body has been moving when it arrives at such a point, the parallels drawn from this point to AB or AC will mark it, for the divisions of AB and AC mark the time. Similarly, if one wishes to know the point this body will have reached at such a time, the parallels drawn from the divisions of the lines AB and AC representing this time will mark by their intersection this point sought. For the distance from the place where it began to move, it will always be easy to know by drawing a line from this point to A, for the length of this line will be known in relation to AB or AC which are known. But for the length of the path this body will have traversed to reach this point, it will be difficult to know, because the line of its motion AE being curved, it cannot be related to any of these straight lines.
 
-Que si l’on voulait déterminer les points infinis par lesquels ce
-corps doit passer, c’est-à-dire décrire exactement, et par un
-mouvement continu, la ligne A E ; il serait nécessaire de se faire
-un compas dont le mouvement des jambes fût réglé, selon les
-conditions exprimées dans les suppositions que l’on vient de
-faire. Ce qui est souvent très-difficile à inventer, impossible à
-exécuter, et assez inutile pour découvrir les rapports que les
-choses ont entre elles, puisque l’on n’a pas d’ordinaire besoin de
-tous les points dont cette ligne est composée, mais seulement de
-quelques-uns qui servent à conduire l’imagination lorsqu’elle
-considère de tels mouvements.
+But if one wished to determine the infinite points through which this body must pass — that is to say, to describe exactly and by a continuous motion the line AE — it would be necessary to have a compass whose movement of the legs was regulated according to the conditions expressed in the suppositions just made. This is often very difficult to invent, impossible to execute, and rather useless for discovering the relations things have among themselves, since one generally does not need all the points of which this line is composed, but only some which serve to guide the imagination when it considers such motions.
 
-Ces exemples suffisent pour faire connaître que l’on peut
-exprimer par lignes, et représenter ainsi à l’imagination la
-plupart de nos idées ; et que la géométrie, qui apprend à faire
-toutes les comparaisons nécessaires pour connaître les rapports
-des lignes, est d’un usage beaucoup plus étendu qu’on ne le pense
-ordinairement. Car enfin l’astronomie, la musique, les
-mécaniques et généralement toutes les sciences qui traitent des
-choses capables de recevoir du plus ou du moins, et par
-conséquent que l’on peut regarder comme étendues, c’est-à-dire,
-toutes les sciences exactes, se peuvent rapporter à la géométrie,
-parce que toutes les vérités spéculatives ne consistant que dans
-les rapports des choses et dans les rapports qui se trouvent entre leurs rapports, elles se peuvent toutes rapporter à des lignes. On
-en peut tirer géométriquement plusieurs conséquences ; et ces
-conséquences étant rendues sensibles par les lignes qui les
-représentent, il n’est presque pas possible de se tromper, et l’on
-peut pousser les sciences fort loin avec beaucoup de facilité.
-La raison, par exemple, pour laquelle on reconnaît trèsdistinctement et l’on marque précisément dans la musique une
-octave, une quinte, une quarte, c’est que l’on exprime les sons
-avec des cordes exactement divisées, et que l’on sait que la
-corde qui sonne l’octa’e est en proportion double avec l’autre
-avec laquelle se fait l’octave ; que la quinte est en proportion
-sesquialtère ou de trois à deux, et ainsi des autres. Car l’oreille
-seule ne peut juger des sons avec la précision et la justesse
-nécessaire à une science. Les plus habiles praticiens, ceux qui
-ont l’oreille la plus délicate et la plus fine, ne sont pas encore
-assez sensibles pour reconnaître la différence qu’il y a entre
-certains sons ; et ils se persuadent faussement qu’il n’y en a
-point, parce qu’ils ne jugent des choses que par le sentiment
-qu’ils en ont. Il y en à qui ne mettent point de différence entre une
-octave et trois ditons
-[7]
-. Quelques-uns même s’imaginent que le
-ton majeur n’est point différent du ton mineur ; de sorte que le
-comma, qui en est la différence, leur est insensible, et à plus forte
-raison le schísma, qui n’est que la moitié du comma.
-Il n’y a donc que la raison qui nous fasse manifestement voir
-que l’espace de la corde, qui fait la différence entre certains
-sons, étant divisible en plusieurs parties, il peut y avoir encore
-un très-grand nombre de différents sons utiles et inutiles pour la
-musique, lesquels l’oreille ne peut discerner. D’où il est clair
-que sans l’arithmétique et la géométrie la musique régulière et exacte nous serait inconnue, et que nous ne pourrions réussir en
-cette science que par hasard et par imagination ; c’est-à-dire que
-la musique ne serait plus une science fondée sur des
-démonstrations incontestables, quoique les airs que l’on compose
-par la force de l’imagination soient plus beaux et plus agréables
-aux sens que ceux que l’on compose par les règles.
-De même dans les mécaniques la pesanteur de quelques poids
-et la distance du centre de pesanteur de ce poids d’avec le
-soutien étant capable du plus et du moins, l'une et l’autre se
-peuvent exprimer par des lignes. Ainsi, l’on se sert utilement de
-la géométrie pour découvrir et pour démontrer une infinité de
-nouvelles inventions très-utiles à la vie, et même très-agréables à
-l’esprit à cause de l’évidence qui les accompagne.
-Si, par exemple, on a un poids donné, comme de six livres, que
-l’on veuille mettre en équilibre avec un poids de trois livres
-seulement, et que ce poids de six livres soit attaché au bras d’une
-balance éloigné du soutien de deux pieds ; sachant seulement le
-principe général de toutes les mécaniques : que les poids pour
-demeurer en équilibre doivent être en proportion réciproque
-avec leur distance du soutien, c’est-à-dire qu’un poids doit être
-à l’autre poids comme la distance qui est entre le dernier et le
-soutien est à la distance du premier d’avec le même soutien, il
-sera facile de trouver, par la géométrie, quelle doit être la
-distance du poids de trois livres afin que tout demeure en
-équilibre, en trouvant, selon la douzième proposition du sixième
-livre d’Euclide, une quatrième ligne proportionnelle qui sera de
-quatre pieds. De sorte que, sachant seulement le principe
-fondamental des mécaniques, on peut découvrir avec évidence
-toutes les vérités qui en dépendent en appliquant la géométrie à la mécanique, c’est-à-dire en exprimant sensiblement par des
-lignes toutes les choses que l’on considère dans les mécaniques.
-Les lignes et les figures de géométrie sont donc très-propres
-pour représenter à l’imagination les rapports qui sont entre les
-grandeurs ou entre les choses qui diffèrent du plus et du moins.
-comme les espaces. les temps, les poids, etc., tant à cause que ce
-sont des objets très-simples qu’a cause qu’on les imagine avec
-beaucoup de facilité. On pourrait même dire, à l’avantage de la
-géométrie, que les lignes peuvent représenter à l’imagination plus
-de choses que l’esprit n’en peut connaître, puisque les ligues
-peuvent exprimer les rapports des grandeurs incommensurables,
-c’est-à-dire des grandeurs dont on ne peut connaître les rapports,
-à cause quelles n’ont aucune mesure par laquelle on en puisse
-faire la comparaison. Mais cet avantage n’est pas fort
-considérable pour la recherche de la vérité, puisque ces
-expressions sensibles des grandeurs incommensurables ne
-découvrent point distinctement à l’esprit leur véritable grandeur.
-La géométrie est donc très-utile pour rendre l’esprit attentif
-aux choses dont on veut découvrir les rapports ; mais il faut
-avouer qu’elle nous est quelquefois occasion d’erreur, parce que
-nous nous occupons si fort des démonstrations évidentes et
-agréables que cette science nous fournit, que nous ne considérons
-pas assez la nature. C’est principalement pour cette raison que
-toutes les machines qu’on invente ne réussissent pas, que toutes
-les compositions de musique ou les proportions des
-consonnances sont le mieux observées ne sont pas les plus
-agréables, et que les supputations les plus exactes dans
-l’astronomie ne prédisent quelquefois pas mieux la grandeur et le
-temps des éclipses. La nature n’est point abstraite : les leviers et les roues des mécaniques ne sont pas des lignes et des cercles
-mathématiques ; nos goûts pour les airs de musique ne sont pas
-toujours les mêmes dans tous les hommes, ni dans les mêmes
-hommes en différents temps ; ils changent selon les différentes
-émotions des esprits, de sorte qu’il n’y a rien de si bizarre. Enfin,
-pour ce qui regarde l’astronomie. il n’y a point de parfaite
-régularité dans le cours des planètes ; nageant dans ces grands
-espaces, elles sont emportées irrégulièrement par la matière
-fluide qui les environne. Ainsi, les erreurs où l’on tombe dans
-l’astronomie, les mécaniques, la musique, et dans toutes les
-sciences auxquelles on applique la géométrie, ne viennent point
-de la géométrie, qui est une science incontestable, mais de la
-fausse application qu’on en fait.
+These examples suffice to show that one can express by lines and thus represent to the imagination most of our ideas; and that geometry, which teaches how to make all the comparisons necessary to know the relations of lines, is of much more extensive use than is ordinarily thought. For finally, astronomy, music, mechanics, and generally all the sciences that deal with things capable of more or less — and therefore can be regarded as extended — that is, all exact sciences, can be related to geometry, because all speculative truths consisting only in the relations of things and in the relations found between their relations, they can all be reduced to lines. One can geometrically draw several consequences from them; and these consequences, being rendered sensible by the lines representing them, it is almost impossible to make a mistake, and one can push the sciences very far with great ease.
 
-On suppose, par exemple, que les planètes décrivent par leurs
-mouvements des cercles et des ellipses parfaitement régulières ;
-ce qui n’est point vrai. On fait bien de le supposer, afin de
-raisonner, et aussi parce qu’il s’en faut peu que cela ne soit vrai ;
-mais on doit toujours se souvenir que le principe sur lequel on
-raisonne est une supposition. De même, dans les mécaniques on
-suppose que les roues et les leviers sont parfaitement durs et
-semblables à des lignes et à des cercles mathématiques sans
-pesanteur et sans frottement ; ou plutôt on ne considère pas assez
-leur pesanteur, leur frottement, leur matière, ni le rapport que ces
-choses ont entre elles ; que la dureté ou la grandeur augmente la
-pesanteur, que la pesanteur augmente le frottement, que le
-frottement diminue la force, qu’elle rompt ou use en peu de temps
-la machine, et qu’ainsi ce qui réussit presque toujours en petit ne
-réussit presque jamais en grand.
+The reason, for example, why one recognizes very distinctly and marks precisely in music an octave, a fifth, a fourth, is that one expresses sounds with exactly divided strings, and one knows that the string sounding the octave is in double proportion to the other with which the octave is made; that the fifth is in sesquialter proportion or three to two, and so on for the others. For the ear alone cannot judge sounds with the precision and exactness necessary for a science. The most skilled practitioners, those with the most delicate and fine ear, are not yet sensitive enough to recognize the difference between certain sounds; and they falsely persuade themselves that there is none, because they judge things only by the feeling they have of them. There are some who do not put any difference between an octave and three ditones. Some even imagine that the major tone is not different from the minor tone; so that the comma, which is the difference, is imperceptible to them, and a fortiori the schisma, which is only half of the comma.
 
-Il ne faut donc pas s’étonner si on se trompe, puisque l’on veut raisonner sur des principes qui ne sont point exactement connus ;
-et il ne faut pas s’imaginer que la géométrie soit inutile à cause
-qu’elle ne nous délivre pas de toutes nos erreurs. Les
-suppositions établies, elle nous fait raisonner conséquemment.
-Nous rendant attentifs à ce que nous considérons, elle nous le fait
-connaître évidemment. Nous reconnaissons même par elle si nos
-suppositions sont fausses z car étant toujours certains que nos
-raisonnements sont vrais, et l’expérience ne s’accordant point
-avec eux, nous découvrons que les principes supposés sont faux.
-Mais sans la géométrie et l’arithmétique on ne peut rien
-découvrir dans les sciences exactes qui soit un peu difficile,
-quoiqu’on ait des principes certains et incontestables.
-On doit donc regarder la géométrie comme une espèce de
-science universelle qui ouvre l’esprit, qui le rend attentif, et qui
-lui donne l’adresse de régler son imagination et d’en tirer tout le
-secours qu’il en peut recevoir : car, par le secours de la
-géométrie, l’esprit règle le mouvement de l’imagination, et
-l’imagination réglée soutient la vue et l’application de l’esprit.
-Mais afin que l’on sache faire un bon usage de la géométrie, il
-faut remarquer que toutes les choses qui tombent sous
-l’imagination ne peuvent pas s'imaginer avec une égale facilité ;
-car toutes les images ne remplissent pas également la capacité de
-l’esprit. Il est plus difficile d’imaginer un solide qu’un plan, et un
-plan qu’une simple ligne : car il y a plus de pensée dans la vue
-claire d’un solide que dans la vue claire d’un plan et d’une ligne.
-Il en est de même des différentes lignes ; il faut plus de pensée,
-c’est-à-dire plus de capacité d’esprit, pour se représenter une
-ligne parabolique ou elliptique, ou quelques autres plus
-composées, que pour se représenter la circonférence d’un cercle, et plus.pour la circonférence d’un cercle que pour une ligne
-droite, parce qu’il est plus difficile d’imaginer des lignes qui se
-décrivent par des mouvements fort composés et qui ont plusieurs
-rapports, que celles qui se décrivent par des mouvements trèssimples ou qui ont moins de rapports. Car les rapports ne
-pouvant être clairement aperçus sans l’attention de l’esprit à
-plusieurs choses, il faut d’autant plus de pensée pour les
-apercevoir qu”ils sont en plus grand nombre. Il y a donc des
-figures si composées que l’esprit n’a point assez d’étendue pour
-les imaginer distinctement ; mais il y en a aussi d’autres que
-l’esprit imagine avec beaucoup de facilité.
+It is therefore only reason that makes us clearly see that the space of the string, which makes the difference between certain sounds, being divisible into several parts, there may still be a very great number of different sounds, useful and useless for music, which the ear cannot discern. From which it is clear that without arithmetic and geometry regular and exact music would be unknown to us, and we could only succeed in this science by chance and by imagination; that is to say, music would no longer be a science founded on incontestable demonstrations, although the airs composed by the force of imagination are more beautiful and more agreeable to the senses than those composed by rules.
 
-Des trois espèces d’angles rectilignes, l’aigu, le droit et
-l’obtus, il n’y a que le droit qui réveille dans l’esprit une idée
-distincte et bien terminée. Il y à une infinité d’angles aigus qui
-diffèrent tous entre eux ; il en est de même de ceux qui sont obtus.
-Ainsi, lorsqu’on imagine un angle aigu ou un angle obtus, on
-n’imagine rien d’exact ni rien de distinct. Mais lorsqu’on imagine
-un angle droit, on ne peut se tromper : l’idée en est bien distincte,
-et l’image même que l’on s’en forme dans le cerveau est
-d’ordinaire assez juste.
+Similarly in mechanics, the weight of some weights and the distance of the center of gravity of this weight from the support being capable of more and less, both can be expressed by lines. Thus, one usefully employs geometry to discover and demonstrate an infinity of new inventions very useful to life, and even very agreeable to the mind because of the evidence accompanying them.
 
-Il est vrai qu’on peut aussi déterminer l’idée vague d’angle
-aigu à l’idée particulière d’un angle de trente degrés, et que
-l’idée d’un angle de trente degrés est aussi exacte que celle d’un
-angle de 90, c’est-à-dire d’un angle droit. Mais l'image que l’on
-tâcherait de s’en former dans le cerveau ne serait point, à
-beaucoup près, si juste que celle d’un angle droit. On n*est point
-accoutumé à se représenter cette image, et on ne peut la tracer
-qu’en pensant à un cercle ou à une partie déterminée d’un cercle
-divisé en parties égales. Mais pour imaginer un angle droit, il
-744
-n’est point nécessaire de penser à cette division de cercle ; la
-seule idée de perpendiculaire suffit à l’imagination pour tracer
-l’image de cet angle, et l’on ne sent aucune difficulté à se
-représenter des perpendiculaires, parce qu’on est accoutumé à
-voir toutes choses debout.
-Il est donc facile de juger que pour avoir un objet simple,
-distinct, bien terminé, propre pour être imaginé avec facilité, et
-par conséquent pour rendre l’esprit attentif et lui conserver
-l’évidence dans les vérités qu’il cherche, il faut rapporter toutes
-les grandeurs que nous considérons à de simples surfaces
-terminées par des lignes et par des angle droits, comme sont les
-carrés parfaits et les autres figures rectangles, ou bien à de
-simples lignes droites ; car ces figures sont celles dont on connaît
-plus facilement la nature.
-J*aurais pu attribuer aux sens le secours que l’on tire de la
-géométrie pour conserver l’attention de l’esprit ; mais j’ai cru
-que la géométrie appartenait davantage à l’imagination qu’aux
-sens, quoique les lignes soient quelque chose de sensible. Il
-serait assez inutile de déduire ici les raisons que j’ai eues,
-puisqu’elles ne serviraient qu’à justifier l’ordre que j’ai gardé
-dans ce que je viens de dire, ce qui n’est point essentiel. Je n’ai
-point aussi parlé de l’arithmétique ni de l’algèbre, parce que les
-chiffres et les lettres de l’alphabet dont on se sert dans ces
-sciences ne sont pas si utiles pour augmenter l’attention de
-l’esprit que pour en augmenter l’étendue, ainsi que nous
-expliquerons dans le chapitre suivant.
-Voilà quels sont les secours généraux qui peuvent rendre
-l’esprit plus attentif. On n’en sait point d’autres, si ce n’est la
-volonté d’avoir de l’attention ; de quoi on ne parle pas, parce qu’on suppose que tous ceux qui étudient veulent être attentifs à
-ce qu’ils étudient.
-Il y en a néanmoins encore plusieurs qui sont particuliers à
-certaines personnes, comme sont certaines boissons, certaines
-viandes, certains lieux, certaines dispositions du corps, et
-quelques autres secours dont chacun doit s’instruire par sa propre
-expérience. Il faut observer l’état de son imagination après le
-repas et considérer quelles sont les choses qui entretiennent ou
-qui dissipent l’attention de son esprit. Ce qu’on peut dire de plus
-général, c'est que l’usage modéré des aliments qui font beaucoup
-d’esprits animaux est très-propre pour augmenter l’attention de
-l’esprit et la force de l’imagination dans ceux qui l’ont faible et
-Ianguissante.
+If, for example, one has a given weight, such as six pounds, which one wishes to balance with a weight of only three pounds, and this six-pound weight is attached to the arm of a balance at a distance of two feet from the support; knowing only the general principle of all mechanics — that weights to remain in equilibrium must be in reciprocal proportion to their distance from the support, that is to say, one weight must be to the other weight as the distance between the latter and the support is to the distance of the former from the same support — it will be easy to find, by geometry, what must be the distance of the three-pound weight so that everything remains in equilibrium, by finding, according to the twelfth proposition of the sixth book of Euclid, a fourth proportional line which will be four feet. So that, knowing only the fundamental principle of mechanics, one can discover with evidence all the truths depending on it by applying geometry to mechanics, that is, by sensibly expressing by lines all the things one considers in mechanics.
+
+Lines and geometrical figures are therefore very suitable for representing to the imagination the relations between magnitudes or between things that differ by more and less, such as spaces, times, weights, etc., both because they are very simple objects and because one imagines them with great ease. One could even say, to the advantage of geometry, that lines can represent to the imagination more things than the mind can know, since lines can express the relations of incommensurable magnitudes — that is to say, magnitudes whose relations one cannot know, because they have no measure by which one can make comparison. But this advantage is not very considerable for the search for truth, since these sensible expressions of incommensurable magnitudes do not distinctly reveal to the mind their true magnitude.
+
+Geometry is therefore very useful for making the mind attentive to the things whose relations one wishes to discover; but it must be admitted that it is sometimes an occasion of error for us, because we occupy ourselves so much with the evident and agreeable demonstrations that this science provides us, that we do not sufficiently consider nature. It is principally for this reason that all invented machines do not succeed, that all musical compositions or the proportions of consonances being best observed are not the most agreeable, and that the most exact computations in astronomy sometimes do not better predict the magnitude and time of eclipses. Nature is not abstract: the levers and wheels of mechanics are not lines and mathematical circles; our tastes for musical airs are not always the same in all men, nor in the same men at different times; they change according to the different emotions of the mind, so that there is nothing more bizarre. Finally, as regards astronomy, there is no perfect regularity in the course of the planets; swimming in these great spaces, they are irregularly carried by the fluid matter surrounding them. Thus, the errors one makes in astronomy, mechanics, music, and in all the sciences to which one applies geometry, do not come from geometry, which is an incontestable science, but from the false application one makes of it.
+
+One supposes, for example, that the planets describe by their motions perfectly regular circles and ellipses; which is not true. One does well to suppose it, in order to reason, and also because it is not far from the truth; but one must always remember that the principle on which one reasons is a supposition. Similarly, in mechanics one supposes that wheels and levers are perfectly hard and similar to mathematical lines and circles without weight and without friction; or rather, one does not sufficiently consider their weight, their friction, their matter, nor the relation these things have among themselves; that hardness or size increases weight, that weight increases friction, that friction diminishes force, that it breaks or wears out the machine in a short time, and thus what almost always succeeds on a small scale almost never succeeds on a large scale.
+
+One must not therefore be surprised if one is mistaken, since one wishes to reason on principles that are not exactly known; and one must not imagine that geometry is useless because it does not deliver us from all our errors. Suppositions established, it makes us reason consistently. Rendering us attentive to what we consider, it makes us know it evidently. We even recognize by it if our suppositions are false; for being always certain that our reasonings are true, and experience not agreeing with them, we discover that the supposed principles are false. But without geometry and arithmetic one can discover nothing in the exact sciences that is somewhat difficult, although one has certain and incontestable principles.
+
+One must therefore regard geometry as a kind of universal science which opens the mind, renders it attentive, and gives it the skill to regulate its imagination and to draw from it all the aid it can receive: for by the aid of geometry, the mind regulates the movement of the imagination, and the regulated imagination sustains the vision and application of the mind. But so that one may know how to make good use of geometry, one must note that all things falling under the imagination cannot be imagined with equal facility; for all images do not equally fill the mind's capacity. It is more difficult to imagine a solid than a plane, and a plane than a simple line: for there is more thought in the clear view of a solid than in the clear view of a plane and a line. It is the same with different lines; it takes more thought — that is to say, more mind capacity — to represent a parabolic or elliptical line, or some other more composed ones, than to represent the circumference of a circle, and more for the circumference of a circle than for a straight line, because it is more difficult to imagine lines described by highly composed motions and having several relations, than those described by very simple motions or having fewer relations. For relations, not being able to be clearly perceived without the mind's attention to several things, require all the more thought to perceive them the more numerous they are. There are therefore figures so composed that the mind does not have enough capacity to imagine them distinctly; but there are also others that the mind imagines with great facility.
+
+Of the three kinds of rectilinear angles — acute, right, and obtuse — only the right one awakens in the mind a distinct and well-terminated idea. There is an infinity of acute angles which all differ from each other; the same for obtuse ones. Thus, when one imagines an acute or obtuse angle, one imagines nothing exact nor distinct. But when one imagines a right angle, one cannot be mistaken: its idea is very distinct, and even the image one forms of it in the brain is ordinarily accurate enough.
+
+It is true that one can also determine the vague idea of an acute angle to the particular idea of an angle of thirty degrees, and that the idea of an angle of thirty degrees is as exact as that of an angle of 90, that is, of a right angle. But the image one would try to form of it in the brain would not be, by a long way, as accurate as that of a right angle. One is not accustomed to representing this image, and one cannot trace it except by thinking of a circle or a determined part of a circle divided into equal parts. But to imagine a right angle, it is not necessary to think of this division of a circle; the sole idea of a perpendicular suffices for the imagination to trace the image of this angle, and one feels no difficulty in representing perpendiculars, because one is accustomed to seeing all things upright.
+
+It is therefore easy to judge that to have a simple, distinct, well-terminated object, suitable to be imagined with facility, and consequently to render the mind attentive and preserve evidence in the truths it seeks, one must refer all the magnitudes we consider to simple surfaces terminated by lines and by right angles, such as perfect squares and other rectangular figures, or to simple straight lines; for these figures are those whose nature one knows most easily.
+
+I could have attributed to the senses the aid one draws from geometry to preserve the mind's attention; but I have believed that geometry belongs more to the imagination than to the senses, although lines are something sensible. It would be rather useless to deduce here the reasons I had, since they would only serve to justify the order I have kept in what I have just said, which is not essential. I have not spoken either of arithmetic or algebra, because the digits and letters of the alphabet used in these sciences are not so useful for increasing the mind's attention as for increasing its capacity, as we will explain in the following chapter.
+
+Such are the general aids that can render the mind more attentive. No others are known, except the will to have attention; of which one does not speak, because it is assumed that all those who study wish to be attentive to what they study.
+
+There are nevertheless still several which are particular to certain persons, such as certain drinks, certain foods, certain places, certain dispositions of the body, and some other aids of which each must instruct himself by his own experience. One must observe the state of one's imagination after meals and consider which things maintain or dissipate the attention of one's mind. What can be said most generally is that moderate use of foods which produce many animal spirits is very suitable for increasing the attention of the mind and the force of the imagination in those who have it weak and languishing.
 

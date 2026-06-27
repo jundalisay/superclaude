@@ -4,7 +4,7 @@ title: "The five principal causes of Error"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 7
+weight: 9
 date: 2026-06-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The Rules"
+title: "What kind of attention is required to preserve certainty in our knowledge"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -8,151 +8,26 @@ weight: 5
 date: 2026-06-20
 ---
 
+ 
 
+## How modifications of the soul make it attentive, yet divide its capacity for perception**
 
-Que attention est nécessaire pour conserver l’évidence dans nos connaissances. Que les
-modifications de l’âme la rendent attentive, mais qu’elles partagent trop la
-capacité qu’elle a d'apercevoir.
+From the very beginning of this work, we have shown that the understanding only perceives, and that there is no difference within the understanding itself between simple perceptions, judgments, and reasonings — except that judgments and reasonings are far more complex perceptions than simple ones. For simple perceptions present only things themselves to the mind; judgments present the relations between things; and reasonings — if they are simple — present relations between those relations. If they are more complex, they present relations of relations, or compound relations holding between the relations of things, and so on indefinitely. As relations multiply, the reasonings that represent them to the mind become more intricate. Even so, judgments, simple reasonings, and compound reasonings remain nothing but pure perceptions on the part of the understanding — for the understanding, as we have already stated at the start of Book One, does nothing but perceive.
 
-Nous avons montré dès le commencement de cet ouvrage que
-l’entendement ne fait qu’apercevoir, et qu’il n’y a point de
-différence de la part de l’entendement entre les simples
-perceptions, les jugements et les raisonnements, si ce n’est que
-les jugements et les raisonnements sont des perceptions beaucoup
-plus composées que les simples perceptions, parce qu’ils ne
-représentent pas seulement plusieurs choses, mais même les
-rapports que plusieurs choses ont entre elles. Car les simples
-perceptions ne représentent à l’esprit que les choses ; mais les
-jugements représentent à l’esprit les rapports qui sont entre les
-choses, et les raisonnements représentent les rapports qui sont
-entre les rapports des choses, si ce sont des raisonnements
-simples ; mais si ce sont des raisonnements composés, ils
-représentent les rapports des rapports, ou les rapports composés
-qui sont entre les rapports des choses, et ainsi à l’infini. Car, à
-mesure que les rapports se multiplient, les raisonnements qui
-représentent à l’esprit ces rapports deviennent plus composés.
-Néanmoins, les jugements, les raisonnements simples et les
-raisonnements composés ne sont que de pures perceptions de la
-part de l’entendement, parce que l’entendeïnent ne fait
-simplement qu’apercevoir, ainsi qu’on l’a déjà dit dès le
-commencement du premier livre.
+Since judgments and reasonings are, in the understanding, nothing more than pure perceptions, it follows clearly that the understanding itself never falls into error. For error is not found in perceptions, nor is it even intelligible. Ultimately, error or falsehood is nothing but a relation that does not exist — and what does not exist can neither be seen nor understood. We can see that two times two equals four, or that two times two does not equal five; there is a real relation of equality between two times two and four, and a real relation of inequality between two times two and five. In this way, truth is intelligible. But we can never see that two times two equals five, because there is no such relation of equality there; and what does not exist cannot be perceived. As we have said many times before, error consists only in a hasty consent of the will — a will dazzled by some false glimmer, which, instead of preserving its freedom as far as it can, rests lazily upon the mere appearance of truth.
 
-Les jugements et les raisonnements n’étant du côté de l’entendement que de pures perceptions, il est visible que
-l’entendement ne tombe jamais dans l’erreur, puisque l’erreur ne
-se trouve point dans les perceptions et qu’elle n’est pas même
-intelligible. Car enfin l’erreur ou la fausseté n’est qu’un rapport
-qui n’est point, et ce qui n’est point n’est ni visible ni intelligible.
-On peut voir que 2 fois 2 font 4 ou que 2 fois 2 ne font pas 5 ; car
-il y a réellement un rapport d’égalité entre 2 fois 2 et 4 et un
-d’inégalité entre 2 fois 2 et 5 ; ainsi la vérité est intelligible.
-Mais on ne verra jamais que 2 fois 2 soient 5, car il n’y a point là
-de rapport d’égalité ; et ce qui n’est point ne peut être aperçu.
-L’erreur, comme nous avons déjà dit plusieurs fois, ne consiste
-donc que dans un consentement précipité de la volonté, qui se
-laisse éblouir à quelque fausse lueur, et qui, au lieu de conserver
-sa liberté autant qu’elle le peut, se repose avec négligence dans
-l’apparence de la vérité.
+Nevertheless, because the understanding usually has only confused and imperfect perceptions of things, it becomes a *causa occasionalis* or indirect source of our mistakes. Just as our bodily vision often leads us into error by representing external objects only in a confused and incomplete way — confusedly when they are too distant or light is insufficient, and incompletely because it shows only the side facing us — so too the understanding often perceives things only confusedly and imperfectly. This happens when objects are not sufficiently present to it, or when it fails to grasp all their parts. As a result, the will falls into countless errors by yielding too readily to these obscure and incomplete perceptions.
 
-Néanmoins, parce qu’il arrive d’ordinaire que l’entendement
-n’a que des perceptions confuses et imparfaites des choses, il est
-véritablement une cause de nos erreurs que l’on peut appeler
-occasionnelle ou indirecte ; car de même que la vue corporelle
-nous jette souvent dans l’erreur parce qu’elle nous représente les
-objets de dehors confusément et imparfaitement ; confusément,
-lorsqu’ils sont trop éloignés de nous ou faute de lumière ; et
-imparfaitement, parce qu’elle ne nous représente que les côtés
-qui sont tournés vers nous ; ainsi l’entendement n’ayant souvent
-qu’une perception confuse et imparfaite des choses, parce
-qu’elles ne lui sont pas assez présentes et qu’il n’en découvre
-pas toutes les parties, il est cause que la volonté tombe dans un
-grand nombre d’erreurs en se rendant trop facilement à ces
-perceptions obscures et imparfaites.
+We must therefore seek ways to prevent our perceptions from being confused and imperfect. And since nothing makes them clearer and more distinct than attention — as everyone acknowledges — we must find methods to help us become more attentive than we naturally are. Only in this way can we preserve certainty in our reasoning, and even grasp at a single glance the necessary connection between all parts of our longest chains of deduction.
 
-Il est donc nécessaire de chercher les moyens d’empêcher que
-nos perceptions ne soient confuses et imparfaites. Et parce qu’il
-n’y a rien qui les rende plus claires et plus distinctes que
-l’attention. comme tout le monde en est convaincu, il faut tâcher
-de trouver des moyens dont. nous puissions nous servir pour
-devenir plus attentifs que nous ne sommes. C’est ainsi que nous
-pourrons conserver l’évidence dans nos raisonnements, et voir
-même tout d’une vue une liaison nécessaire entre toutes les
-parties de nos plus longues déductions.
+To find these methods, we must firmly hold to what we have explained elsewhere: the mind does not give equal attention to everything it perceives. It applies itself infinitely more to what affects it, alters it, and penetrates it, than to things that are present but do not touch it or belong to it. In short, it dwells far more upon its own inner states than upon the mere ideas of external objects — ideas that are distinct from the mind itself. This is why we consider the abstract ideas of pure understanding only with reluctance and little focus; why we apply ourselves much more readily to what we can imagine, especially when our imagination is strong and leaves deep traces in the brain; and finally why we become wholly absorbed in sensible qualities, unable to turn our attention to the pure ideas of the mind whenever we feel something intensely pleasant or painful. For pleasure, pain, and other sensations are nothing but states of the mind itself — so we cannot help but be aware of them, and our mind’s capacity for perception is entirely occupied by them, since all sensations are nothing more than perceptions.
 
-Pour trouver ces moyens, il est nécessaire de se bien
-convaincre de ce que nous avons déjà dit ailleurs, que l’esprit
-n’apporte pas une égale attention à toutes les choses qu’il
-aperçoit ; car il s’applique infiniment plus à celles qui le
-touchent, qui le modifient et qui le pénètrent, qu’à celles qui lui
-sont présentes, mais qui ne le touchent pas et qui ne lui
-appartiennent pas ; en un mot, il s’occupe beaucoup plus de ces
-propres modifications que des simples idées des objets,
-lesquelles idées sont quelque chose de différent de lui-même.
-C’estpour cela que nous ne considérons qu’avec dégoût et sans
-beaucoup d’application les idées abstraites de l’entendement
-pur ; que nous nous appliquons beaucoup davantage aux choses
-que nous imaginons : principalement lorsque nous avons
-l’imagination forte et qu’il se trace de grands vestiges dans notre
-cerveau. Enfin c’est à cause de cela que nous nous occupons
-entièrement des qualités sensibles sans pouvoir même nous
-appliquer aux idées pures de l’esprit dans le temps que nous
-sentons quelque chose de fort agréable ou de fort pénible. Car la
-douleur, le plaisir et les autres sensations n”étant que des
-manières d”ètre de l’esprit, il n’est pas possible que nous soyons sans les apercevoir et que la capacité de notre esprit n’en soit
-occupée, puisque toutes nos sensations ne sont que des
-perceptions et rien autre chose.
+The same is not true of the mind’s pure ideas. We may have them intimately united with our mind, yet still consider them with almost no attention. For although God is most intimately united to us, and it is in Him that the ideas of all things we see reside, these ideas remain hidden from us while the movement of the animal spirits does not awaken their traces, or while our will does not direct the mind toward them — that is, while it does not produce those mental acts to which the Author of Nature has linked the representation of these ideas. These truths form the foundation for everything we shall say about the aids that can sharpen our attention. Being rooted in the very nature of the mind, such aids are not likely to be fanciful or useless, like many others that only confuse more than they help. Even if they do not achieve all we might hope, reading about them will not be a complete waste of time — for we shall come to understand our own mental nature far better.
 
-Mais il n’en est pas de même des idées pures de l’esprit : nous
-pouvons les avoir intimement unies à notre esprit sans les
-considérer avec la moindre attention ; car encore que Dieu soit
-très-intimement uni à nous et que ce soit dans lui que se trouvent
-les idées de tout ce que nous voyons, cependant ces idées,
-quoique présentes et au milieu de nous-mêmes, nous sont cachées
-lorsque les mouvements des esprits n’en réveillent point les
-traces, ou lorsque notre volonté n’y applique pas notre esprit,
-c’est-à-dire lorsqu’elle ne forme point les actes auxquels la
-représentation de ces idées est attachée par l’auteur de la nature.
-Ces choses sont le fondement de tout ce que nous allons dire des
-secours qui peuvent rendre notre esprit plus attentif. Ainsi ces
-secours seront appuyés sur la nature même de l’esprit, et il y a
-lieu d’espérer qu’ils ne seront pas chimériques et inutiles,
-comme beaucoup d’autres, qui embarrassent beaucoup plus qu’ils
-ne servent. Mais enfin s’ils n’ont pas tout l’usage que l’on
-souhaite, on ne perdra pas tout à fait son temps à lire ce que l’on
-en dira, puisqu’on en connaîtra mieux la nature de son esprit.
-Les modifications de l’âme ont trois causes, les sens,
-l’imagination et les passions. Tout le monde sait par sa propre
-expérience que les plaisirs, les douleurs et généralement toutes
-les sensations un peu fortes, que les imaginations vives et que les
-grandes passions occupent si fort l’esprit qu’il n’est pas capable
-d’attention dans le temps que ces choses le touchent trop
-vivement, parce qu’alors sa capacité ou sa faculté d’apercevoir
-en est toute remplie. Mais quand même ces modifications seraient modérées, elles ne laisseraient pas de partager, du moins en
-quelque sorte, cette capacité de l’esprit, et il ne pourrait
-employer tout ce qu’il est pour considérer les vérités un peu
-abstraites.
+The modifications of the soul arise from three sources: the senses, the imagination, and the passions. Everyone knows from experience that intense pleasures and pains, vivid imaginings, and strong passions so fully occupy the mind that it becomes incapable of sustained attention while these feelings are too acute — its entire capacity or faculty of perception is then filled. Even when such states are moderate, they still divide the mind’s capacity, at least to some degree, so that it cannot devote its full power to considering truths that are somewhat abstract.
 
-Il faut donc tirer cette conclusion importante : que tous ceux
-qui veulent s’appliquer sérieusement à la recherche de la vérité
-doivent avoir un grand soin d’éviter, autant que cela se peut,
-toutes les sensations trop fortes, comme le grand bruit, la lumière
-trop vive, le plaisir, la douleur, etc. Qu’ils doivent veiller sans
-cesse à la pureté de leur imagination, et empêcher qu’il ne se
-trace dans leur cerveau de ces vestiges profonds qui inquiètent et
-qui dissipent continuellement l’esprit. Enfin qu’ils doivent surtout
-arrêter les mouvements des passions, qui font dans le corps et
-dans l’âme des impressions si puissantes qu’il est d’ordinaire
-comme impossible que l’esprit pense à d’autres choses qu’aux
-objets qui les excitent. Car encore que les idées pures de la
-vérité nous soient toujours présentes, nous ne les pouvons
-considérer lorsque la capacité que nous avons de penser est
-remplie de ces modifications qui nous pénètrent.
-Cependant comme il n’est pas possible que l’âme soit sans
-passion, sans sentiment ou sans quel qu’autre modification
-particulière, il faut faire de nécessité vertu, et tirer même de ces
-modifications des secours pour se rendre plus attentif. Mais il
-faut bien de l’adresse et de la circonspection dans l’usage de ces
-secours pour en tirer quelque avantage. Il faut bien examiner le
-besoin que l’on en a, et ne s’en servir qu’au tant que la nécessité
-de se rendre attentif nous y contraint.
+From this follows an important conclusion: anyone who wishes to apply themselves seriously to the search for truth must take great care to avoid, as far as possible, all overly strong sensations — such as loud noises, harsh light, excessive pleasure or pain, and the like. They must constantly guard the purity of their imagination, preventing the formation of deep impressions in the brain that would disturb and scatter their thoughts. Most of all, they must restrain the movements of the passions, which leave such powerful marks upon both body and soul that it is usually almost impossible for the mind to think of anything other than the objects that aroused them. Even though the pure ideas of truth are always present to us, we cannot reflect upon them while our capacity for thought is filled with these penetrating inner states.
 
+The soul cannot exist without some feeling, emotion, or other particular modification.
 
+And so we must turn necessity into advantage and draw even from these states some help toward greater attention. Doing so, however, requires great skill and caution. We must carefully assess our need for such aids, and make use of them only insofar as the need to focus our attention truly demands it.

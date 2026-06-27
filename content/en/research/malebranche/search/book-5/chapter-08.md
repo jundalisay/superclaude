@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8
-title: "The Passions"
+title: "Continuation of the same subject: The proper use we can make of admiration and other passions"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,285 +9,56 @@ date: 2026-06-20
 ---
 
 
-Continuation du même sujet. Du bon usage que 1’on peut faire de l’admiration et des
-autres passions.
-
-Toutes les passions ont deux effets fort considérables, elles
-appliquent l’esprit et elles gagnent le cœur. En ce qu’elles
-appliquent l’esprit, elles peuvent être fort utiles à la
-connaissance de la vérité : pourvu que l’on sache en faire usage ;
-car l’application produit la lumière, et la lumière découvre la
-vérité. Mais en ce qu’elles gagnent le coeur, elles font toujours un
-mauvais effet ; parce qu’elles ne gagnent le cœur, qu’en corrompant la raison, et en lui représentant les choses non selon
-ce qu’elles sont en elles-mêmes, ou selon la vérité, mais selon le
-rapport qu’elles ont avec nous.
 
 
-De toutes les passions celle qui va le moins au cœur, c’est
-l’admiration ; car c’est la vue des choses, comme bonnes ou
-comme mauvaises, qui nous agite ; la vue des choses comme
-nouvelles, comme grandes et extraordinaires sans autre rapport
-avec nous, ne nous touche presque pas. Ainsi l’admiration qui
-accompagne la connaissance de la grandeur ou de l’excellence
-des choses nouvelles que nous considérons corrompt beaucoup
-moins la raison que toutes les autres passions, et elle peut même
-être d’un grand usage pour la connaissance de la vérité ; pourvu
-que l’on ait beaucoup de soin d’empêcher qu’elle ne soit suivie
-des autres passions, comme il arrive presque toujours.
-Dans l'admiration, les esprits animaux sont poussés avec force
-vers les endroits du cerveau qui représentent l’objet nouveau
-selon ce qu’il est en lui-même ; ils y font des traces distinctes et
-assez profondes pour s’y conserver long-temps ; et par
-conséquent l’esprit en à une idée assez claire ou assez nette, et il
-s’en ressouvient facilement. Ainsi l’on ne peut nier que
-l’admiration ne soit très-utile pour les sciences, puisqu’elle
-applique et qu’elle éclaire l’esprit. Il n’en est pas de même des
-autres passions ; elles appliquent l’esprit, mais elles ne
-l’éclairent pas. Elles l’appliquent, parce qu’elles réveillent les
-esprits animaux dont le cours est nécessaire pour la formation et
-la conservation des traces ; mais elles ne l’éclairent pas, ou elles
-l’éclairent d’un faux jour et d’une lumière trompeuse, parce
-qu’elles poussent de telle manière ces mêmes esprits, qu’ils ne
-représentent les objets que selon le rapport qu’ils ont avec nous, et non pas selon ce qu’ils sont en eux-mêmes.
-Il n’y a rien de si difficile que de s’appliquer long-tempsà une
-chose lorsque, ne l’admirant point, les esprits animaux ne se
-portent pas facilement aux endroits nécessaires pour se la
-représenter. On a beau nous dire que nous soyons attentifs ; nous
-ne pouvons pas l’être, ou nous ne pouvons pas l’être long-temps,
-quoique d’ailleurs nous soyons persuadés, d’une certaine
-persuasion abstraite et qui n’agite point les esprits, que la chose
-mérite fort notre application, ll est nécessaire que nous trompions
-notre imagination pour réveiller nos esprits, et que nous nous
-représentions d’une manière nouvelle le sujet que nous voulons
-méditer, afin d’exciter en nous quelque mouvement d’admiration.
-Nous voyons tous les jours des esprits qui ne trouvent point de
-goût à l’étude ; rien ne leur parait plus pénible que l’application
-de l’esprit. Ils sont convaincus qu’ils doivent étudier certaines
-matières, et ils font pour cela tous leurs efforts, mais ces efforts
-sont assez inutiles ; ils n’avancent pas beaucoup et ils se lassent
-incontinent. Il est vrai que les esprits animaux obéissent aux
-ordres de la volonté, et que l’on se rend attentif lorsqu’on le
-souhaite. Mais, lorsque la volonté qui commande est une volonté
-de pure raison, qui n’est point soutenue de quelque passion, cela
-se fait d’une manière si faible et si languissante, que nos idées
-ressemblent alors à des fantômes qu’on ne fait qu’entrevoir, et
-qui disparaissent en un moment. Nos esprits animaux reçoivent
-tant d’ordres secrets de la part de nos passions, et ils ont par
-nature et par habitude uuesi grande facilité il les exécuter, qu’ils
-sont très-aisément détournés le ces chemins nouveaux et difficiles
-ou la volonté les voulait engager. De sorte que c’est
-principalement dans ces rencontres que l’on a besoin d’une grâce particulière pour connaître la vérité, parce qu’on ne peut, par ses
-propres forces, résister long-temps au poids lu corps qui
-appesantit l’esprit ; ou, si on le peut, on ne fait jamais ce que l’on
-peut.
-Mais lorsque quelque mouvement (l’admiration nous réveille,
-les esprits animaux se répandent naturellement vers les traces de
-l’objet qui l’ont excitée ; ils le représentent nettement à l’esprit,
-et il se fait dans le cerveau tout ce qui est nécessaire pour
-produire la lumière et l’évidence, sans que la volonté se fatigue à
-pousser les esprits rebelles. Ainsi ceux qui sont capables
-d’admiration sont beaucoup plus propres a l’étude que ceux qui
-n’en sont point susceptibles ; ils sont ingénieux, et les autres sont
-stupides.
+All passions produce 2 very significant effects:
 
-Cependant, lorsque l’admiration devient excessive et qu’elle
-va jusqu’à l’étonnement ou à l’épouvante, ou enfin lorsqu’elle ne
-porte point à une curiosité raisonnable, elle fait un très-mauvais
-effet ; car alors les esprits animaux sont tout occupés à
-représenter l’objet par celui de ses côtés que l’on admire. On ne
-pense pas seulement aux autres faces selon lesquelles on le peut
-considérer. Les esprits animaux ne se répandent pas même dans
-les parties du corps pour y faire leurs fonctions ordinaires ; mais
-ils impriment des vestiges si profonds de l’objet qu’ils
-représentent, ils rompent un si grand nombre de fibres dans le
-cerveau, que l’idée qu’ils ont excitée ne se peut plus effacer de
-l’esprit.
+1. They focus the mind 
 
-Il ne suffit pas que l’admiration nous rende attentifs, il faut
-qu’elle nous rende curieux ; il ne subit pas que nous ayons
-considéré une des faces de quelque objet pour le connaître
-pleinement, il faut que nous ayons eu la curiosité de les examiner toutes, autrement nous n’en pouvons juger solidement. Ainsi
-lorsque l’admiration ne nous porte point à examiner les choses
-dans la dernière exactitude, ou lorsqu’elle nous en empêche, elle
-est très-inutile pour la connaissance de la vérité. Alors elle ne
-remplit l’esprit que de vraisemblances et de probabilités, et elle
-nous porte à juger témérairement de toutes choses.
-Il ne suffit pas d’admirer simplement pour admirer, il faut
-admirer pour examiner ensuite avec plus de facilité. Les esprits
-animaux qui se réveillent naturellement dans l’admiration
-viennent s’offrir à l’ãme, afin qu’elle s’en serve pour se
-représenter plus distinctement son objet et pour le mieux
-connaître. C’est là l’institution de la nature ; car l’admiration doit
-porter à la curiosité, et la curiosité doit conduire à la
-connaissance de la vérité. Mais l’âme ne sait pas faire usage de
-ses forces. Elle préfère un certain sentiment de douceur qu’elle
-reçoit de cette abondance d’esprits qui la touchent à la
-connaissance de l’objet qui les excite. Elle aime mieux sentir ses
-richesses que de les dissiper par l’usage ; et elle ressemble en
-cela aux avares, qui aiment mieux posséder leur argent que de
-s’en servir dans leurs besoins.
+They can be extremely useful for the discovery of truth — provided we know how to use them.
 
-Les hommes se plaisent généralement dans tout ce qui les
-touche de quelque passion que ce puisse être. Ils ne donnent pas
-seulement de l’argent pour se faire toucher de tristesse parla
-représentation d’une tragédie, ils en donnent aussi à des joueurs
-de gobelets pour se faire toucher d’admiration, car on ne peut pas
-dire que ce soit pour être trompés qu’ils leur en donnent. Ce
-sentiment de douceur intérieure que l’on sent en admirant est
-donc la principale cause pour laquelle on s’arrête dans
-l’admiration, sans en faire l’usage que la raison et la nature nous prescrivent ; car c’est ce sentiment de douceur qui tient les
-admirateurs si fort attachés aux sujets de leur admiration, qu’ils
-se mettent en colère lorsqu’on leur en montre la vanité. Quand un
-homme affligé goûte la douceur de la tristesse, on le fâche
-lorsqu’on le veut réjouir. Il en est de même de ceux qui
-admirent : il semble qu’on les blesse ; lorsqu’on s’efforce de leur
-faire voir que c’est sans raison qu’ils admirent, parce qu’ils
-sentent diminuer en eux le plaisir secret qu’ils reçoivent dans
-leur passion à proportion que l’idée qui la causait s’efface de
-leur esprit.
-Les passions tâchent toujours de se justifier, et elles
-persuadent insensiblement que l’on a raison de les suivre. La
-douceur et le plaisir qu’elles font sentir à l’esprit, qui doit être
-leur juge, le corrompent en leur faveur, et voici à peu près de
-quelle manière on pourrait dire qu’elles le font raisonner : on ne
-doit juger des choses que selon les idées qu’on en a ; et de toutes
-nos idées, les plus sensibles sont les plus réelles, puisqu’elles
-agissent sur nous avec le plus de force ; ce sont donc celles selon
-lesquelles on doit le plutôt juger. Or le sujet que j’admire
-renferme une idée sensible de grandeur : donc j’en dois juger
-selon cette idée, car je dois avoir de l’estime et de l’amour pour
-la grandeur ; ainsi j’ai raison de m’arrêter à cet objet et de m’en
-occuper. En effet, le plaisir que je sens à la vue de l’idée qui le
-représente est une preuve naturelle que c’esl mon bien d’y
-penser ; car enfin il me semble que je m’agrandis quand j’y
-pense, et que mon esprit a plus d’étendue lorsqu’il embrasse une
-si grande idée. L’esprit cesse d’être lorsqu’il ne pense à rien ; si
-cette idée s’évanouissait, il me semble que mon esprit
-s’évanouirait avec elle, ou qu’il deviendrait plus petit et plus
-resserré s’il s’attachait à une idée qui fût plus petite. 
+The focus brings clarity, and clarity reveals truth. 
 
-La conservation de cette grande idée est donc la conservation de la
-grandeur et de la perfection de mon être : j’ai donc raison
-d’admirer. Les autres devraient même avoir de l’admiration pour
-moi s’ils me faisaient justice ; en effet, je suis quelque chose de
-grand parle rapport que j’ai avec les grandes choses : je les
-possède en quelque manière par l’admiration que j’ai pour elles,
-et je le sens bien par l’avant-goût dont une sorte d’espérance me
-fait jouir. Les autres hommes seraient heureux aussi bien que moi,
-si connaissant ma grandeur ils s’attachaient comme moi il la
-cause qui la produit ; mais ce sont des aveugles, qui ne
-connaissent pas les belles et les grandes choses et qui ne savent
-pas s’élever ni se rendre considérables.
-Un peut dire que l’esprit raisonne naturellement de cette
-manière sans y faire réflexíon lorsqu’il se laisse conduire aux
-lumières trompeuses de ses passions ; Ces raisonnements ont
-quelque vraisemblance, mais il est visible qu’ils n’ont aucune
-solidité ; et cependant cette vraisemblance, ou plutôt le sentiment
-confus de la vraisemblance qui accompagne ces raisonnements
-naturels et sans réflexion, ont tant de force, que si l’on n’y prend
-garde ils ne manquent jamais de nous séduire.
-Par exemple, lorsque la poésie, l’histoire, la chimie, ou telle
-autre science humaine qu’il vous plaira, a frappé l’imagination
-d’un jeune homme de quelques mouvements d’admiration, s’il n’a
-soin de veiller sur l’effort que ces mouvements font sur son
-esprit, s’il n’examine à fond quels sont les avantages de ces
-sciences, s’il ne compare la peine qu’il aura à les apprendre
-avec le profit qu’il en pourra recevoir, enfin s’il n’est curieux
-autant quiil le faut être pour bien juger, il y a grand danger que
-son admiration, ne lui faisant voir ces sciences que par le bel
-673
-endroit, ne le séduise ; il est même fort à craindre qu’elle ne lui
-corrompe le cœur de telle manière qu’il ne puisse plus se défaire
-de son illusion, quoiqu’il la reconnaisse dans la suite ; parce
-qu’il n’est pas possible d’effacer de son cerveau des traces
-profondes qu’une admiration continuelle y aura gravées : c’est
-pour cela qu’il faut veiller sans cesse a la pureté de son
-imagination, c’est-ii-dire qu’il faut empêcher qu’il ne s”y forme
-de ces traces dangereuses qui corrompent l’esprit et le cœur ; et
-voici la manière dont il s”y faut prendre, qui sera utile nonseulement contre l’excès de l’admiration, mais aussi contre toutes
-les autres passions.
-Lorsque le mouvement des esprils animaux est assez violent
-pour faire dans le cerveau de ces traces profondes qui
-corrompent l’imagination, il est toujours accompagné de quelque
-émotion de l’âme ; ainsi l’âme ne pouvant être émue sans le
-sentir, elle est suffisamment avertie de prendre garde à elle et
-d’examiner s’il lui est avantageux que ces traces s’achèvent et se
-fortifient ; mais dans le temps de l’émotion, l’esprit n’étant pas
-assez libre pour bien juger de l’utilité de ces traces, à cause que
-cette émotion le trompe et l’incline à les favoriser, il faut faire
-tous ses efforts pour arrêter cette émotion, ou pour détourner
-ailleurs le mouvement des esprits qui la cause, et cependant il est
-absolument nécessaire de suspendre son jugement.
-Or il ne faut pas s’imaginer que l’âme puisse toujours par sa
-seule volonté arrêter ce cours d’esprits qui l’empêche de faire
-usage de sa raison. Ses forces ordinaires ne sont pas suffisantes
-pour faire cesser des mouvements qu’elle n’a pas excités ; de
-sorte qu’elle doit se servir d’adresse pour tâcher de tromper un
-ennemi qui ne l’attaque que par surprise.
-674
-Comme le mouvement des esprits réveille dans l’âme certaines
-pensées, nos pensées excitent aussi dans notre cerveau certains
-mouvements ; ainsi, lorsque nous voulons arrêter quelque
-mouvement t d’esprits qui s’e›cite en nous, il ne suffit pas de
-vouloir qu’il cesse, car cela n’est pas toujours capable de
-l’arrêter, il faut se servir d’adresse et se représenter des choses
-contraires à celles qui excitent et qui entretiennent ce mouvement,
-et cela fera révulsion ; mais si nous voulons seulement
-déterminer ailleurs un mouvement d’esprits déjà excité, nous ne
-devons pas penser à des choses contraires, mais seulement à des
-choses différentes de celles qui l’ont produit, et cela fera sans
-doute diversion.
-Mais parce que la diversion et la róvulsion seront grandes ou
-petites, à proportion que nos nouvelles pensées seront
-accompagnées d’un grand ou d’un petit mouvement d’esprits, il
-faut avoir soin de bien remarquer quelles sont les pensées qui
-nous agitent le plus afin de pouvoir dans les occasions pressantes
-les représenter à notre imagination qui nous séduit, et il faut
-tâcher de se faire une habitude si forte de cette manière de
-résistance, qu’il ne s’excite plus dans notre âme de mouvement
-qui nous surprenne.
-Si l’on a soin d’attacher fortement la pensée de l’éternité ou
-quel qu’autre pensée solide aux mouvements extraordinaires qui
-s’excitent en nous, il n’arrivera plus de mouvements violents et
-extraordinaires qu’ils ne réveillent en même temps cette idée et
-qu’ils ne fournissent par conséquent des armes pour leur
-résister : ces choses sont prouvees par l’expérience et par les
-raisons que l’on a dites lans le chapitre de la liaison des idées ;
-de sorte qu’on ne doit. pas s’imaginer qu’il soit absolument impossible de vaincre par adresse l’effort de ses passions
-lorsqu’on en a une ferme volonté.
 
-Néanmoins, il ne faut pas prétendre qu’on se rende impeccable
-ni que l’on puisse éviter toute erreur par cette sorte de
-résistance ; car. premièrement, il est difficile d’acquérir et de
-conserver cette habitude que nos mouvements extraordinaires
-réveillent en nous certaines idées propres pour les combattre ;
-secondement, supposez qu’on l’ait acquise, ces mouvements
-d’esprits exciteront directement les idées qu’il faut combattre, et
-indirectement celles par lesquelles il les faut combattre ; de sorte
-que les mauvaises idées étant les principales, elles auront.
-toujours plus de force que celles qui ne sont qu’accessoires, et il
-sera toujours nécessaire que la volonté résiste ; en troisième lieu,
-ces mouvements d’esprits peuvent être si violents, qu’ils
-remplissent toute la capacité de l’âme, de sorte qu’il n’y reste
-plus de place, s’il est permis de parler ainsi, pour recevoir l’idée
-accessoire propre pour faire révulsion dans les esprits, ou pour
-l’y recevoir de telle manière qu’on la puisse considérer avec
-quelque attention ; enfin, il y a tant de circonstances particulières
-qui peuvent rendre ce remède inutile, que l’on ne doit pas trop
-s’y fier, quoi qu’il ne faille pas aussi le négliger. On doit sans
-cesse recourir à la prière pour recevoir du ciel le secours
-nécessaire dans le temps du combat, et tâcher cependant de se
-rendre présente à l’esprit quelque vérité si solide et si forte que
-l’on puisse par ce moyen vaincre les passions les plus violentes,
-car il faut que je dise ici en passant que des personnes de piété
-retombent souvent dans les mêmes fautes, parce qu’elles
-remplissent leur esprit d’un grand nombre de vérités qui ont plus
-d’éclat que de force, et qui sont plus propres à dissiper et à
-partager leur esprit qu’à le fortifier contre les tentations ; au lieu
-676
-que des personnes grossières et peu éclairées sont fidèles dans
-leur devoir, parce qu’elles se sont rendu familière quelque
-grande et solide vérité qui les fortifie et qui les soutient en toutes
-rencontres.
+2. They take hold of the heart
 
+This is always harmful because they seize the heart only by corrupting reason, and by presenting things not as they are in themselves, or according to truth, but only in relation to ourselves.
+
+Of all the passions, admiration is the one that least affects the heart for it is the perception of things as good or bad that stirs us — seeing things as new, great, and extraordinary, without any connection to us, hardly moves us at all. Thus admiration, which accompanies our awareness of the greatness or excellence of new things we observe, corrupts reason far less than any other passion, and can even be of great use in seeking truth — as long as we take great care to ensure it does not lead to other passions, which is almost always what happens.
+
+When we feel admiration, the animal spirits are driven forcefully toward those parts of the brain that represent the new object as it truly is; they form distinct and deep impressions there, which remain for a long time. As a result, the mind forms a clear and distinct idea of the object, and remembers it easily. So there is no denying that admiration is very useful for the sciences, since it both focuses and illuminates the mind. This is not the case with other passions: they focus the mind, but they do not illuminate it. They focus it because they awaken the animal spirits, whose flow is necessary for forming and retaining impressions; but they do not bring true light — or they cast only a false, deceptive light — because they drive the spirits in such a way that objects are represented only in relation to ourselves, and not as they really are.
+
+Nothing is more difficult than to maintain focus on something for a long time when, lacking admiration, the animal spirits do not easily flow toward the areas needed to form a clear representation. We may be told to pay attention, but we simply cannot do so — or cannot do so for long — even if we hold an abstract conviction, which does not stir the spirits, that the subject deserves our attention. We must therefore trick our imagination to awaken our spirits, and present the topic we wish to reflect upon in a new light, so as to stir some feeling of admiration within us.
+
+We see every day people who take no pleasure in study; to them, nothing is more burdensome than applying the mind. They understand that they ought to learn certain subjects, and they make every effort to do so — yet these efforts are largely fruitless: they make little progress and quickly grow weary. It is true that the animal spirits obey the will, and we can focus when we choose to do so. But when the command comes from pure reason alone, unsupported by any passion, the effort is so weak and sluggish that our ideas resemble fleeting phantoms, glimpsed only for a moment before vanishing. Our animal spirits receive so many hidden impulses from our passions, and by nature and habit are so inclined to follow them, that they are easily diverted from the new and difficult paths the will tries to set them upon. This is why, in such cases, we especially need special grace to know the truth — for by our own strength alone, we cannot long resist the weight of the body that weighs down the mind; or even if we could, we never achieve what we are truly capable of.
+
+But when admiration awakens us, the animal spirits naturally flow toward the impressions of the object that aroused it; they present it clearly to the mind, and all the conditions required for clarity and certainty are produced in the brain, without the will having to strain to control unruly spirits. This is why those who are capable of admiration are far better suited to study than those who are not: they are open and alert, while the others remain dull and slow.
+
+However, when admiration becomes excessive and turns into astonishment or bewilderment — or simply fails to lead to reasonable curiosity — it produces very harmful effects. In such cases, the animal spirits are entirely occupied with representing only the single aspect of the object that we admire. We cease to consider the other sides from which it might be viewed. The spirits do not even flow freely to the rest of the body to carry out their normal functions; instead, they imprint such deep traces of the object upon the brain, and break so many of its delicate fibers, that the idea they have formed can no longer be erased from the mind.
+
+It is not enough for admiration merely to make us attentive; it must also make us curious. Considering only one aspect of something is not enough to know it fully — we must be curious enough to examine every side, otherwise we cannot form a solid judgment. So when admiration does not lead us to examine things with the greatest possible precision, or when it actually prevents us from doing so, it becomes almost useless for discovering truth. It then fills the mind only with appearances and probabilities, and leads us to make rash judgments about everything.
+
+The goal must not be simply to admire for the sake of admiring, but to admire so that we may examine more easily afterward. The animal spirits naturally stirred by admiration present themselves to the soul, so that it may use them to form a clearer representation of the object and understand it better. This is how nature intended it to work: admiration should lead to curiosity, and curiosity should lead to knowledge of the truth. Yet the soul often fails to make good use of its powers. Instead of seeking to understand the object that stirs the spirits, it prefers the soft, pleasant feeling it receives from this abundance of spirits. It enjoys the sense of wealth they bring, rather than expending it to gain real knowledge — in this way, it resembles a miser, who prefers hoarding his money to using it when needed.
+
+People generally enjoy anything that stirs them, no matter what passion is involved. They pay money not only to feel sadness while watching a tragedy, but also to watch sleight-of-hand performers and feel admiration — for it cannot be said they pay only to be tricked. This inner sense of pleasure we feel when admiring is the main reason we stop at admiration itself, without using it as reason and nature intended. This feeling of delight holds us so firmly attached to the things we admire that we become angry when someone points out how empty they really are. When a grieving person has grown accustomed to the pleasure of sorrow, they resent anyone who tries to cheer them up. It is the same with those who admire: when someone tries to show them their admiration is unfounded, they feel as though they are being insulted — because as the idea that caused the feeling fades from their mind, the secret pleasure they drew from the passion also diminishes.
+
+Passions always seek to justify themselves, and gradually convince us that following them is right. The pleasure and satisfaction they bring to the mind — which ought to judge them objectively — corrupts it in their favor. Their reasoning goes something like this: we can only judge things according to the ideas we have of them; and among all our ideas, the most vivid ones seem the most real, because they affect us most strongly. Therefore, these are the ideas we should rely on first. Now, the object I admire carries a vivid sense of greatness; so I must judge it according to that idea, for I ought to respect and love greatness. Therefore, I am right to focus my attention upon it. Indeed, the pleasure I feel when I contemplate it is natural proof that it is good for me to think of it; for it seems to me that I grow greater myself when I reflect upon it, and that my mind expands as it embraces such a vast idea. The mind ceases to exist when it thinks of nothing; if this grand idea were to vanish, it would feel as though my mind were vanishing with it — or shrinking and becoming confined, if it turned its attention to something smaller.
+
+Preserving this grand idea is therefore the same as preserving the greatness and perfection of my own being; so I am right to admire it. Others, if they were fair, ought to admire me as well; for I myself become great through my connection to great things. In a way, I possess them through my admiration, and I feel it already in the hopeful anticipation this brings. Other people could be just as happy as I am — if only they recognized my greatness and turned, as I have, to the source of it. But they are blind: they fail to see what is beautiful and great, and do not know how to raise themselves or make themselves worthy of respect.
+
+This is roughly how the mind naturally reasons, without even realizing it, when it lets itself be guided by the deceptive light of its passions. These arguments have a certain surface plausibility, but clearly no real substance. Yet this seeming truth — or rather the vague feeling of it that accompanies such unthinking reasoning — is so powerful that, if we do not remain vigilant, it will always lead us astray.
+
+For example: suppose poetry, history, chemistry, or any other branch of human learning captures the imagination of a young man and arouses feelings of admiration. If he does not watch carefully how these feelings affect his mind, if he does not examine thoroughly what real benefits these studies offer, if he does not weigh the effort required to learn them against the advantage he will gain, and if in short he does not cultivate the curiosity needed to judge them properly — there is great danger that his admiration, showing these subjects only in their most attractive light, will mislead him. Worse still, it may corrupt his judgment so deeply that he will never be able to free himself from the illusion, even if he later recognizes it for what it is. Once deep impressions have been etched into the brain by prolonged admiration, they can never be fully erased. This is why we must constantly guard the purity of our imagination — meaning we must prevent it from forming those dangerous impressions that corrupt both mind and heart. The method to do this will be useful not only against excessive admiration, but against all other passions as well.
+
+When the flow of the animal spirits is strong enough to create deep impressions in the brain that distort the imagination, it is always accompanied by some feeling in the soul. Since the soul cannot be moved without being aware of it, this feeling is enough to warn us to be on guard and to consider whether allowing these impressions to take root and strengthen will truly benefit us. But while the emotion is active, the mind is not free enough to judge clearly — because the feeling itself deceives us and inclines us to favor it. We must therefore do all we can to calm the emotion, or redirect the flow of spirits that causes it, and in the meantime, we must suspend all judgment.
+
+We should not imagine, however, that the soul can always stop this flow of spirits by willpower alone, and so regain full use of reason. Its ordinary strength is not enough to halt movements it did not itself initiate. Instead, it must use strategy — as if outwitting an enemy that attacks only by surprise.
+
+Just as the movement of the spirits awakens certain thoughts in the soul, our thoughts also produce certain movements in the brain. So when we want to stop a surge of spirits rising within us, it is not enough simply to will it to cease — that alone will not always succeed. We must use skill: we should call to mind ideas that oppose the thoughts feeding this movement, which will create a counter-reaction. If, however, we only wish to redirect a movement already underway, we should not think of opposing ideas, but only of different ones — this will effectively shift our attention elsewhere.
+
+Because the strength of this shift or counter-reaction depends on how strongly our new thoughts stir the spirits, we must learn to notice which ideas affect us most deeply. Then, when facing temptation, we can deliberately bring those ideas to mind to counteract the deceptive influence of our imagination. We must make this habit so natural that no sudden surge of feeling can catch us unprepared.
+
+If we make a habit of linking the thought of eternity — or any other firm, unshakable truth — to the strong emotions that arise within us, then whenever such feelings appear, they will automatically call this idea to mind, giving us the means to resist them. This is confirmed both by experience and by the principles explained earlier in the chapter on how ideas are connected. So we should not think it is impossible, with determination and skill, to overcome the force of our passions.
+
+Even so, we must not pretend that this method will make us infallible or allow us to avoid every error. First, it is difficult to acquire and maintain the habit of linking opposing ideas to our emotions. Second, even if we do acquire it, the rising spirits will directly stimulate the ideas we must fight against, and only indirectly bring to mind the ideas we need to resist them. As a result, the harmful thoughts will always be stronger than the helpful ones, so we must still rely on our will to stand firm. Third, the movement of the spirits can sometimes become so intense that it fills the entire capacity of the soul, leaving no room — so to speak — to receive or even properly consider the counteracting idea. Finally, there are so many special circumstances that can render this remedy ineffective that we should not rely on it too heavily, even though we must not neglect it either. We must constantly turn to prayer, asking heaven for the strength we need in the heat of the struggle, while also striving to keep before our minds truths so solid and powerful that they can overcome even the strongest passions. Here I should note in passing that many devout people fall repeatedly into the same faults because they fill their minds with many fine-sounding truths that impress more than they sustain, and serve only to scatter their thoughts rather than strengthen them against temptation. By contrast, people of simple faith and limited knowledge remain faithful to their duty, because they have made one great, solid truth their own — one that strengthens and supports them in every circumstance.
 

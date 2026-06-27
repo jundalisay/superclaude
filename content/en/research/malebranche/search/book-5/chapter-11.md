@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11
-title: "The Passions"
+title: "All passions justify themselves, and the judgments they lead us to form in their own defense"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,284 +9,52 @@ date: 2026-06-20
 ---
 
 
-Que toutes les passions se justifient, et des jugements qu’elles nous font faire pour leur
-justification.
 
+There is no need for elaborate reasoning to prove that every passion seeks to justify itself; this principle is sufficiently clear from our own inner experience and from observing the behavior of those caught up in strong feeling. It is enough simply to set it out so that we may reflect upon it.
 
-Il n’est pas nécessaire de faire de grands raisonnements pour
-démontrer que toutes les passions se justifient ; ce principe est
-assez évident par le sentiment intérieur que nous avons de nous
-mêmes, et par la conduite de ceux que l’on voit agités de quelque
-passion : il suffit de l’exposer afin qu’on y fasse réflexion.
-L’esprit est tellement esclave de l’imagination, qu’il lui obéit
-toujours lorsqu’elle est échauffée. Il n’ose lui répondre
-lorsqu’elle est en fureur, parce qu’elle le maltraite s’il résiste, et
-qu’il se trouve toujours récompensé de quelque plaisir, lorsqu’il
-s’accommode à ses desseins. Ceux mêmes dont l’imagination est
-si déréglée qu’ils pensent être transformés en bêtes, trouvent des
-691
-raisons pour prouver qu’ils doivent vivre comme elles ; qu’ils
-doivent marcher à quatre pattes, se nourrir des herbes de la
-campagne. et imiter toutes les actions qui ne conviennent qu’aux
-bêtes. Ils trouvent du plaisir à vivre selon les impressions de leur
-passion ; ils se sentent intérieurement punis lorsqu’ils y résistent ;
-et c’est assez afin que la raison qui s’accommode et qui sert
-ordinairement au plaisir, raisonne d’une manière propre pour en
-défendre la cause.
-S’il est donc vrai que toutes les passions se justifient, il est
-évident que le désir nous doit porter par lui-même à juger
-avantageusement de son objet, si c’est un désir d’amour ; et
-désavantageusement, si c’est un désir, d’aversion. Le désir
-d’amour est un mouvement de l’âme excité par les esprits, qui la
-disposent à vouloir jouir ou user des choses qui ne sont point en
-sa puissance ; car si nous désirons même la continuation de notre
-jouissance, c’est que I”avenir ne dépend pas de nous. Il est donc
-nécessaire, pour la justification du désir, que l’objet qui le fait
-naître soit jugé bon en lui-même ou par rapport à quelque autre ;
-et il faut penser le contraire du désir qui est une espèce
-d’aversion.
-Il est vrai qu’on ne peut juger qu’une chose soit bonne ou
-mauvaise, s’il n’y a quelque raison pour cela ; mais il n’y a aucun
-objet de nos passions qui ne soit bon en un sens. Si l’on peut dire
-qu’il y en a quelques-uns qui ne renferment rien de bon, et qui par
-conséquent ne puissent être aperçus comme bons par la vue de
-l’esprit ; on ne peut pas dire qu’ils ne puissent être goûtés comme
-bons, puisqu’on suppose qu’ils nous agitent ; et le goût ou le
-sentiment ne suffit que trop pour porter l’âme à juger
-avantageusement d’un objet.
-692
-Si l’on juge si facilement que le feu contient en lui-même la
-chaleur que l’on sent, et le pain la saveur que l’on goûte, à cause
-du sentiment que ces corps excitant en nous, quoique cela soit
-entièrement incompréhensible à l’esprit, puisque l’esprit ne peut
-concevoir que la chaleur et la saveur soient des manières d’être
-d’un corps ; il n’y a point d’objet de nos passions, si vil et si
-méprisable qu’il paraisse, que nous ne jugions bon lorsque nous
-sentons du plaisir dans sa jouissance. Car, comme l’on s’imagine
-que la chaleur sort du feu, à sa présence, on croit aveuglément
-que les objets des passions causent le plaisir que l’on goûte
-lorsqu’on en jouit ; et qu’ainsi ils sont bons, puisqu’ils sont
-capables de nous faire du bien. Il faut dire le même des passions
-qui ont le mal pour objet.
-Mais, comme je viens de dire, il n’y a rien qui ne soit digne
-d’amour ou d’aversion, soit par lui-même, soit par quelque chose
-à laquelle il ait rapport ; et lorsqu’on est agité de quelque
-passion, on a bientôt découvert dans son objet le bien et le mal
-qui la favorise. Ainsi il est très-facile de reconnaître par la
-raison, quels peuvent être les jugements que les passions qui nous
-agitent forment en nous.
-Car, si c’est un désir d’amour qui nous agite, on comprend
-bien qu’il ne manquera pas de se justifier par les jugements
-avantageux qu’il formera sur son objet. On voit aisément que ces
-jugements auront d’autant plus d’étendue, que le désir sera plus
-violent ; et que souvent ils seront entiers et absolus, quoique la
-chose ne paraisse bonne que par un très-petit endroit. On conçoit
-sans peine que ces jugements avantageux s’étendront à toutes les
-choses qui ont, ou qui sembleront avoir quelque liaison avec
-l’objet principal de la passion ; et cela d’autant plus que la
-693
-passion sera plus forte et imagination plus étendue. Mais, si le
-désir est un désir d’aversion, il arrivera tout le contraire, par des
-raisons qu’il est également facile de comprendre. L’expérience
-prouve assez ces choses, et en cela elle s’accommode
-parfaitement avec la raison. Mais rendons ces vérités plus
-sensibles par des exemples.
-Tous les hommes désirent naturellement de savoir, car tout
-esprit est fait pour la vérité ; mais le désir de savoir, tout juste et
-tout raisonnable qu’il est en lui-même, devient souvent un vice
-très-dangereux par les faux jugements qui l’accompagnent. La
-curiosité offre souvent à l’esprit de vains objets de ses
-méditations et de ses veilles : elle attache souvent à ces objets de
-fausses idées de grandeur ; elle les relève par l’éclat trompeur de
-la rareté, et elle les représente si couverts de charmes et
-d’attraits, qu’il est difficile qu’on ne les contemple avec trop de
-plaisir et d’attachement.
-Il n’y a point de bagatelle dont quelques esprits ne s’occupent
-tout entiers, et leur occupation se trouve toujours justifiée par les
-faux jugements que leur vaine curiosité leur fait faire. Ceux par
-exemple qui sont curieux de mots, s’imaginent que c’est dans la
-connaissance de certains termes que consistent toutes les
-sciences. Ils trouvent mille raisons pour se le persuader ; et le
-respect que leur rendent ceux qu’un terme inconnu étourdit, n’est
-pas la plus faible, quoique ce soit la moins raisonnable.
-Il y a certaines gens qui apprennent toute leur vie à parler, et
-qui devraient peut-être se taire toute leur vie ; car il est évident
-qu’en doit se taire lorsqu’on n’a rien de bon à dire ; mais ils
-n’apprennent pas à parler pour se taire. Ils ne savent point assez
-que pour bien parler il faut bien penser ; qu’il faut se rendre l’esprit juste, discerner le vrai d’avec le faux, les idées claires
-de celles qui sont obscures, ce qui vient de l’esprit de ce qui part
-de l’imagination. Ils s’imaginent être de beaux et de rares génies,
-à cause qu’ils savent contenter l’oreille par une juste mesure,
-flatter les passions par des figures et des mouvements agréables,
-réjouir l’imagination par des expressions vives et sensibles,
-quoiqu’ils laissent l’esprit vide d’idées, sans lumière et sans
-intelligence.
+The mind is so much the slave of the imagination that it always obeys when the imagination is heated. It dares not speak against it when it is in a state of frenzy, for it is treated harshly if it resists; and whenever it complies with its purposes, it is always rewarded with some sense of pleasure. Even those whose imagination is so disordered that they believe they have turned into beasts find reasons to prove that they ought to live as beasts do — to walk on all fours, feed on wild plants, and imitate every action proper only to animals. They find satisfaction in living according to the impressions of their passion; they feel inwardly punished whenever they resist it; and this is enough to make reason — which usually serves pleasure — frame arguments designed to defend its cause.
 
-Il y a quelque raison apparente de s’appliquer toute sa vie à
-l’étude de sa langue, puisqu’on en fait usage toute sa vie : cela
-est capable de justifier la passion de certains esprits. Mais
-j’avoue qu’il est difficile de justifier par quelque raison
-vraisemblable la passion de ceux qui s’appliquent
-indifféremment à toutes sortes de langues. On peut excuser la
-passion de ceux qui se font une bibliothèque entière de toutes
-sortes de dictionnaires, aussi bien que la curiosité de ceux qui
-veulent avoir des monnaies de tous les pays et de tous les temps.
-Cela peut leur être utile en quelques rencontres ; et si cela ne leur
-fait pas grand bien, du moins cela ne leur fait-il point de mal. Ils
-ont un magasin de curiosités qui ne les embarrasse pas, car ils ne
-portent sur eux ni leurs livres ni leurs médailles. Mais comment
-justifier la passion de ceux qui font de leur tête même une
-bibliothèque de dictionnaires ? Ils perdent le souvenir de leurs
-affaires et de leurs devoirs essentiels pour des mots de nul usage.
-lls ne parlent leur langue qu’en hésitant. Ils mêlent à tous
-moments dans leurs entretiens des termes ou inconnus ou
-barbares, et ils ne paient jamais les honnêtes gens d’une monnaie
-qui ait cours dans le pays. Enfin leur raison n’est pas mieux
-conduite que leur langue ; car tous les recoins et tous les replis
-de leur mémoire sont tellement pleins d’étymologies, que leur esprit est comme étouffé par la multitude innombrable de mots
-qui voltigent sans cesse autour de lui.
-Cependant il faut tomber d’accord que le désir bizarre des
-philologues se justifie. Mais comment ? Écoutez les jugements
-que ces faux savants font des langues, et vous le saurez. Ou bien
-supposez de certains axiomes qui passent parmi eux pour
-incontestables, et tirez-en les conséquences qui s’en peuvent
-déduire. Supposez par exemple que les hommes qui parlent
-plusieurs langues, sont autant de fois hommes qu’ils savent de
-langues, puisque c’est la parole qui les distingue des bêtes ; que
-l’ignorance des langues est la cause de l’ignorance où nous
-sommes d’une infinité de choses, puisque Ies anciens philosophes
-et les étrangers sont plus habiles que nous. Supposez de
-semblables principes et concluez, et vous formerez des jugements
-propres in faire naître la passion pour les langues, lesquels, par
-conséquent, seront semblables à ceux que la même passion forme
-dans les philologues pour justifier leurs études.
-Toutes les sciences les plus basses et les plus méprisables ont
-toujours quelque endroit qui brille à l’imagination, et qui éblouit
-facilement l’esprit par l’eelat que la passion y attache. Il est vrai
-que cet éclat diminue, lorsque les esprits et le sang se
-refroidissent, et que la lumière de la vérité commence à paraître ;
-mais cette lumière se dissipe aussi lorsque l’imagination reprend
-feu, et nous ne faisons plus alors qu’entrevoir ces belles raisons
-qui prétendaient condamner notre passion.
-Au reste, lorsque la passion qui nous anime se sent mourir, elle
-ne se repent pas de sa conduite. On peut dire au contraire qu’elle
-dispose toutes choses, ou pour mourir avec honneur, ou pour
-revivre bientôt après ; je veux dire qu’elle dispose toujours l’esprit à former des jugements qui la justifient. Elle contracte
-encore en cet état une espèce d’alliance avec toutes les autres
-passions qui peuvent la secourir dans sa faiblesse, la fournir
-d’esprits et de sang dans son intelligence, rallumer ses cendres et
-l’en faire renaître ; car les passions ne sont point indifférentes les
-unes pour les autres. Toutes celles qui se peuvent souffrir
-contribuent fidèlement à leur mutuelle conservation. Ainsi, les
-jugements qui justifient le désir qu’on a pour les langues ou pour
-telle autre chose qu’il vous plaira, sont incessamment sollicités
-et pleinement confirmés par toutes les passions qui ne lui sont
-point contraires.
+If it is true that all passions justify themselves, it follows clearly that desire will naturally lead us to judge its object favorably if it is a desire of attraction, and unfavorably if it is a desire of aversion. Desire is a movement of the soul stirred by the animal spirits, which dispose us to want to possess or make use of things that are not yet within our power. Even when we desire the continuation of what we already enjoy, it is because the future is not in our control. To justify itself, therefore, desire must judge its object as good in itself or in relation to something else; and the opposite must be true of desires that spring from aversion.
 
-Le faux savant se présente à lui-même, tantôt comme environné
-de gens qui l’écoutent avec respect, tantôt comme victorieux de
-ceux qu’il a terrassés par des mots incompréhensibles, et presque
-toujours comme élevé au-dessus du commun des hommes. Il se
-flatte des louanges qu’on lui donne, des établissements qu’on lui
-propose, des recherches qu’on fait de sa personne. Il tient à tous
-les temps, il s’étend à tous les pays ; il ne se borne pas, comme
-les petits esprits, dans le temps présent, et, dans l’enceinte de sa
-ville, il se répand incessamment et son épanchement fait son
-plaisir. Combien donc de passions se mêlent avec celle qu’il a
-pour la fausse érudition, lesquelles travaillent toutes à la justifier,
-et sollicitent chaudement des jugements en sa faveur !
-Si chaque passion n’agissait que pour elle sans se mettre en
-peine des autres, elles se dissiperaient toutes incontinent après
-leur naissance. Elles ne pourraient pas former assez de faux
-jugements pour leur subsistance, ni soutenir long-temps la vue de
-l’imagination contre la lumière de la raison. Mais tout est réglé
-dans nos passions de la manière la plus juste qui se puisse pour leur mutuelle conservation. Elles se fortifient les unes les autres,
-les plus éloignées se secourent ; et il suffit qu’elles ne soient pas
-ennemies déclarées, pour suivre entre elles toutes les règles
-d’une société bien ordonnée.
-Si la passion de désir se trouvait seule, tous les jugements
-qu’elle formerait ne pourraient tendre qu’à représenter la
-possession du bien comme possible, car le désir d’amour
-précisément comme tel, n’est produit que par le jugement que
-l’on fait que la jouissance de quelque bien est possible. Ainsi ce
-désir ne pourrait former que des jugements sur la possibilité de
-la jouissance, puisque les jugements qui suivent et qui conservent
-les passions sont entièrement semblables à ceux qui les précèdent
-et qui les produisent. Mais le désir est animé par l’amour ; il est
-fortifié par l’espérance ; il est augmenté par la joie ; il est
-renouvelé par la crainte ; il est accompagné de courage,
-d’émulation, de colère et de plusieurs autres passions qui forment
-à leur tour des jugements dans une variété infinie, lesquels se
-succèdent les uns aux autres et soutiennent ce désir qui les a fait
-naître. Il ne faut donc pas être surpris si le désir pour une pure
-bagatelle, ou pour une chose qui nous est manifestement nuisible
-ou inutile, se justifie sans cesse contre la raison pendant
-plusieurs années ou pendant toute la vie d’un homme qui en est
-agité, puisqu’il y a tant de passions qui travaillent à sa
-justification. Voici en peu de mots comment les passions se
-justifient, car il faut expliquer les choses par des idées distinctes.
-Toute passion agite le sang et les esprits. Les esprits agités
-sont conduits dans le cerveau par la vue sensible de l’objet ou
-par la force de l’imagination, d’une manière propre à former des
-traces profondes qui représentent cet objet. Ils plient et rompent même quelquefois par leur cours impétueux les fibres du cerveau,
-et l’imagination en demeure long-temps salie et corrompue ; car
-les plaies du cerveau ne se reprennent pas aisément, ses traces ne
-se ferment pas à cause que les esprits y passent sans cesse. Les
-traces du cerveau n’obéissent point à l’âme, elles ne s’effacent
-pas lorsqu’elle le souhaite, elles lui font au contraire violence et
-l’obligent même à considérer sans cesse les objets d’une manière
-qui l’agite et qui la trouble en faveur des passions. Ainsi les
-passions agissent sur l’imagination, et l’imagination corrompue
-fait effort contre la raison en lui représentant à toute heure les
-choses, non selon ce quelles sont en elles-mêmes afin que l’esprit
-prononce un jugement de vérité, mais selon ce qu’elles sont par
-rapport à la passion présente afin qu’il porte un jugement qui la
-favorise.
-Les passions ne corrompent pas seulement l’imagination et
-l’esprit en leur faveur, elles produisent encore dans le reste du
-corps toutes les dispositions nécessaires à leur conservation. Les
-esprits qu’elles agitent ne s’arrêtent pas dans le cerveau, ils se
-portent, comme j’ai dit ailleurs, vers toutes les autres parties du
-corps. Ils se répandent principalement dans le cœur, dans le foie,
-dans la rate et dans les nerfs qui environnent les principales
-artères. Enfin ils se jettent dans les parties quelles qu’elles
-soient, qui peuvent fournir les esprits nécessaires à la
-conservation de la passion qui domine. Mais lorsque ces esprits
-se répandent ainsi dans toutes les parties du corps, ils y
-détruisent peu à peu tout ce qui peut résister à leurs cours, et ils y
-font un chemin si glissant et si rapide que le plus petit objet nous
-agite infiniment et nous porte par conséquent à former des
-jugements qui favorisent les passions. C’est ainsi qu’elles
-s’établissent et qu’elles se justifient.
-699
-Si l’on considère maintenant quelle peut être la constitution
-des fibres du cerveau, l’agitation et l’abondance des esprits et du
-sang dans les différents sexes et dans les différents âges, il sera
-assez facile de connaître à peu près à quelles passions certaines
-personnes sont plus sujettes, et, par conséquent, quels sont les
-jugements qu’elles forment des objets. Et pour en donner quelque
-exemple, je dis que l’on peut connaître à peu près par
-l’abondanre ou par la disette des esprits que l’on remarque dans
-différentes personnes, qu’une même chose leur étant également
-proposée et également expliquée, plusieurs formeront sur elle des
-jugements d’espérance et de joie, lorsque les autres en formeront
-de crainte et de tristesse.
+Admittedly, we cannot judge anything to be good or bad without some reason for doing so — yet there is no object of our passions that is not good in some sense. Even if some objects contain nothing truly good, and thus cannot be recognized as good by the clear light of the understanding, they can still be *felt* as good, since by definition they stir us. And feeling or taste is all too often enough to persuade the soul to form a favorable judgment.
 
-Car ceux qui ont abondance de sang et d’esprits comme sont
-ordinairement les jeunes gens, les sanguins et les bilieux,
-concevant aisément de l’espérance à cause du sentiment secret
-qu’ils ont de leur force, ils croiront ne trouver aucune opposition
-à leurs desseins qu’ils ne puissent surmonter ; ils se repaîtront
-d’abord de l’avant-goût du bien dont ils espèrent de jouir ; et ils
-formeront toutes sortes de jugements propres à justifier leur
-espérance et leur joie. Mais les autres qui ont disette d’esprits
-agités, comme les vieillards, les mélancoliques et les
-flegmatiques. étant portés à la crainte et à la tristesse, à cause que
-leur âme se croit faible, parce qu’elle est dénuée d’esprits qui
-exécutent ses ordres ; ils formeront des jugements tout contraires,
-ils s’imagineront des difficultés insurmontables afin de justifier
-leur crainte, et ils s’abandonneront à l’envie, à la tristesse, au
-désespoir, et à certaines espèces d’aversions dont les faibles sont
-les plus susceptibles.
+We easily say that fire contains the heat we feel, or bread the flavor we taste, simply because of the sensations they produce in us — even though this makes no sense to the mind, which cannot conceive how heat or flavor could be properties of a material body. In the same way, there is no object of our passions, no matter how base or worthless it may seem, that we will not judge as good when we feel pleasure in enjoying it. Just as we imagine heat comes out of the fire itself, we blindly believe that the objects of our passions cause the pleasure we experience when we possess them; and therefore we conclude they are good, since they are capable of benefiting us. The same reasoning applies to passions directed toward what we consider evil.
 
+There is nothing that cannot be seen as worthy of either love or aversion — either in itself or in its relation to something else. And once we are moved by a passion, we quickly find in its object all the good or evil needed to support it. It is therefore easy to understand, through reason itself, what kinds of judgments the passions stirring within us will produce.
+
+If we are moved by a desire of attraction, it is clear that the passion will justify itself by forming favorable judgments about its object. The more intense the desire, the broader these judgments will become; often they will be absolute and unconditional, even if the object appears good only in some very limited respect. These favorable judgments will extend to everything that has, or seems to have, any connection to the main object of the passion — and this will happen all the more as the passion grows stronger and the imagination expands. But if the desire is one of aversion, the opposite will occur, for reasons equally easy to understand. Experience confirms this fully, and in this matter it agrees perfectly with reason. Let us make these truths clearer through examples.
+
+All men naturally desire knowledge, for every mind is made for truth. Yet the desire to know, though just and reasonable in itself, often becomes a dangerous vice because of the false judgments that accompany it. Curiosity often presents the mind with empty objects for its study and its waking hours; it attaches to these objects false ideas of greatness, elevates them through the deceptive luster of rarity, and surrounds them with such charm and appeal that it is hard not to regard them with excessive fondness and attachment.
+
+There is no trivial matter that does not fully occupy the minds of some people; and their preoccupation is always justified by the false judgments their vain curiosity produces. Those, for example, who are obsessed with words imagine that all true learning consists in mastering certain terms. They find a thousand reasons to convince themselves of this — and not the least of these, though the least reasonable, is the respect they receive from others who are dazzled by unfamiliar language.
+
+Some people spend their whole lives learning how to speak, when perhaps they ought to spend their whole lives remaining silent; for it is obvious that one should remain silent when one has nothing good to say. But they do not learn to speak so that they may know when to be silent. They fail to understand that to speak well one must first think clearly; that one must train the mind to be sound, to distinguish truth from falsehood, clear ideas from confused ones, and what comes from the understanding from what comes only from the imagination. They imagine themselves to be fine and exceptional thinkers simply because they can please the ear with measured rhythm, flatter the passions with vivid figures of speech, and delight the imagination with striking expressions — even though their minds remain empty of real insight, light, or understanding.
+
+There is some apparent justification for devoting one’s life to the study of one’s own language, since we use it every day; this can serve to justify the passion of certain minds. But it is hard to justify by any plausible reason the obsession of those who study every language indiscriminately. We can excuse those who fill their libraries with dictionaries of every kind, just as we excuse the curiosity of those who collect coins from every age and nation. Such things may be useful on occasion; and if they do not bring great benefit, at least they do no harm. They possess a store of curiosities that does not burden them, since they do not carry their books or medals around with them. But how can we justify the passion of those who turn their own heads into a library of dictionaries? They forget their own affairs and essential duties in favor of useless words. They speak their own language only with hesitation, constantly inserting foreign or archaic terms into conversation, and never paying their social debts in the common currency of speech. In the end, their reasoning is as confused as their language; every corner and fold of their memory is so stuffed with etymologies that their minds are stifled by the endless swarm of words swirling within them.
+
+Yet we must admit that even the strange obsession of such scholars justifies itself. How? Listen to the judgments these pseudo‑experts form about languages, and you will understand. Or assume certain axioms that they treat as unquestionable, and draw the conclusions they lead to. Suppose, for example, that a man who speaks several languages is as many times a man as the number of languages he knows — since speech is what distinguishes us from beasts. Suppose that ignorance of languages is the cause of our ignorance of countless things, because ancient philosophers and foreigners are wiser than we are. Grant such premises and follow their logic, and you will arrive at exactly the kind of judgments that fuel the passion for languages — judgments identical to those such scholars use to justify their studies.
+
+Even the most trivial and contemptible branches of learning always have some aspect that shines in the imagination and easily dazzles the mind through the luster the passion attaches to it. It is true that this luster fades as the blood and spirits cool, and the light of truth begins to appear. But that light also fades whenever the imagination is re‑kindled, and we then see only dimly the sound arguments that once seemed to condemn our passion.
+
+Furthermore, when the passion that drives us feels itself dying away, it does not repent of its course. On the contrary, it arranges everything either to depart with honor or to revive again shortly after. That is to say, it always leads the mind to form judgments that will justify it. In this weakened state, it even forms a kind of alliance with all other passions that can support it: they supply it with fresh energy and vigor, re‑kindle its dying embers, and bring it back to life. For passions are not indifferent to one another. All those that can coexist faithfully contribute to each other’s preservation. Thus the judgments that justify the desire for languages, or for anything else you may choose, are constantly reinforced and fully confirmed by every passion that does not oppose it.
+
+The pseudo‑scholar pictures himself in many ways: sometimes surrounded by listeners who regard him with respect; sometimes victorious over those he has silenced with incomprehensible words; and almost always as raised above the ordinary run of men. He flatters himself with the praise he receives, the honors offered to him, and the notice taken of his person. He feels connected to every age and every land; unlike lesser minds, he is not confined to the present moment or the boundaries of his own city, but expands endlessly, and this expansion is itself his delight. How many different passions therefore mingle with his love of false learning — all working to justify it and urgently pressing for favorable judgments in its defense!
+
+If each passion acted only for itself and took no notice of others, they would all fade away almost as soon as they arose. They could not produce enough false judgments to sustain themselves, nor long hold the imagination against the light of reason. But the workings of our passions are arranged in the most systematic way possible for their mutual preservation. They strengthen one another; even those most distantly related lend each other aid. It is enough that they are not openly hostile for them to observe all the rules of a well‑ordered society.
+
+If desire stood alone, all the judgments it formed would serve only to represent the attainment of its object as possible — for desire itself arises only from the judgment that some good is within our reach. Thus it could only produce thoughts about the possibility of fulfillment, since the judgments that follow and sustain a passion always mirror those that first gave rise to it. But desire is fueled by love, strengthened by hope, increased by joy, renewed by fear, and accompanied by courage, ambition, anger, and many other passions. These in turn produce an infinite variety of judgments, which succeed one another and sustain the very desire that brought them into being. We should not be surprised, therefore, that a desire for something trivial, or even for something clearly harmful or useless, can constantly justify itself against reason for years or even for a lifetime — given how many different passions work together to defend it.
+
+Here in brief is how passions justify themselves, explained through clear ideas:
+
+Every passion stirs the blood and animal spirits. These agitated spirits are directed through the brain, either by the sight of the object itself or by the force of imagination, in such a way as to leave deep impressions representing that object. In their impetuous flow they bend and sometimes even rupture the delicate fibers of the brain, leaving the imagination corrupted and impaired for a long time. For the brain does not heal easily; its traces do not close up, because the spirits constantly pass through them. These impressions do not obey the soul; they do not vanish when we wish them to. On the contrary, they exert a kind of force over us, compelling us to view objects continually in ways that stir and disturb us, all in favor of the passion. Thus passions act upon the imagination, and the corrupted imagination in turn opposes reason, presenting things not as they truly are — so that the mind may judge them rightly — but as they relate to the prevailing passion, so that it may judge in its favor.
+
+Passions do not only corrupt the imagination and the understanding on their own behalf; they also produce throughout the body all the physical conditions needed to maintain themselves. The spirits they stir do not stop in the brain; they flow outward, as I have explained elsewhere, to every other part of the body. They spread especially into the heart, liver, spleen, and the nerves surrounding the main arteries. In short, they pour into whatever organs can supply the energy needed to sustain the dominant passion. As they spread, they gradually clear away all resistance in their path, creating a smooth and rapid channel so that even the smallest stimulus can agitate us intensely — and thus lead us to form judgments that favor the passion. This is how passions establish themselves and justify their existence.
+
+If we now consider the structure of the brain’s fibers, the degree of agitation and abundance of blood and spirits in people of different sexes and ages, it becomes easy to see which passions different individuals are most prone to — and therefore what kind of judgments they will form about the things they encounter.
+
+For example, from observing the abundance or scarcity of spirits in different people, we can see that when the same matter is presented and explained equally clearly to everyone, some will judge it with hope and joy while others will view it with fear and sadness.
+
+Those with a plentiful supply of blood and spirits — as is usually the case with young people, the sanguine, and the choleric — easily feel hopeful, because they have an inner sense of their own strength. They believe they can overcome any obstacle to their plans; they nourish themselves in advance with the anticipation of the good they hope to enjoy; and they form all kinds of judgments suited to justifying their hope and joy.
+
+But those with a scarcity of active spirits — such as the elderly, the melancholy, and the phlegmatic — incline toward fear and sadness. Their soul feels itself weak, lacking the energy to carry out its intentions. They therefore form exactly the opposite judgments, imagining insurmountable difficulties to justify their fear, and surrendering to envy, sorrow, despair, and all those forms of aversion to which the weak are most susceptible.
 

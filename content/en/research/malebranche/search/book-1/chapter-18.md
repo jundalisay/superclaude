@@ -1,6 +1,6 @@
 ---
 heading: Chapter 18
-title: "The Passions"
+title: "One must not dwell on sensible manners"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,130 +10,46 @@ date: 2026-06-20
 
 
 
-I. Que nos sens nous portent à l'erreur en des choses même qui ne sont point sensibles.
-— II. Exemple tiré de la conversation des hommes. — III. Qu’il ne faut point
-s’arrêter aux manières sensibles.
 
-Nos sens ne nous trompent pas seulement à l’égard de leurs
-objets, comme de la lumière, des couleurs, et des autres qualités
-sensibles ; ils nous séduisent même touchant les objets qui ne
-sont point de leur ressort, en nous empêchant de les considérer
-avec assez d’attention pour en porter un jugement solide. C’est ce
-qui mérite bien d’être expliqué.
+Our senses do not deceive us only regarding their own objects, such as light, colors, and other sensible qualities; they even seduce us concerning objects that are not within their domain, by preventing us from considering them with enough attention to form a solid judgment. This deserves to be well explained.
 
-I. L’attention et l’application de l’esprit aux idées claires et
-distinctes que nous avons des objets est la chose du monde la
-plus nécessaire pour découvrir ce qu’ils sont véritablement. Car
-de même qu’il n’est pas possible de voir la beauté de quelque
-ouvrage sans ouvrir les yeux et sans le regarder fixement, ainsi
-l’esprit ne peut pas voir évidemment la plupart des choses avec
-les rapports qu’elles ont les unes aux autres, s’il ne les considère
-avec attention. Or, il est certain que rien ne nous détourne
-davantage de l’attention aux idées claires et distinctes que nos
-propres sens ; et par conséquent, rien ne nous éloigne davantage de la vérité, et ne nous jette sitôt dans l’erreur.
-Pour bien concevoir cette vérité, il est absolument nécessaire
-de savoir que les trois manières dont l’âme aperçoit, savoir, par
-les sens, par l’imagination et par l’esprit, ne la touchent pas
-toutes également, et que par conséquent elle n’apporte pas une
-pareille attention à tout ce qu’elle aperçoit par leur moyen ; car
-elle s’applique beaucoup à ce qui la touche beaucoup, et elle est
-peu attentive à ce qui la touche peu.
 
-Or ce qu’elle aperçoit par les sens la touche et l’applique
-extrêmement, ce qu’elle connaît par l’imagination la touche
-beaucoup moins ; mais ce que l’entendement lui représente, je
-veux dire ce qu’elle aperçoit par elle-même ou indépendamment
-des sens et de l’imagination, ne la réveille presque pas. Personne
-ne peut douter que la plus petite douleur des sens ne soit plus
-présente à l’esprit et ne le rende plus attentif que la méditation
-d’une chose de beaucoup plus grande conséquence.
-La raison de ceci est que les sens représentent les objets
-comme présents, et que l’imagination ne les représente que
-comme absents. Or, il est à propos que, de plusieurs biens ou de
-plusieurs maux proposés à l’âme, ceux qui sont présents la
-touchent et l’appliquent davantage que les autres qui sont absents,
-parce qu’il est nécessaire que l’âme se détermine promptement
-sur ce qu’elle doit faire en cette rencontre. Ainsi, elle s’applique
-beaucoup plus à une simple piqûre qu’à des spéculations fort
-relevées, et les plaisirs et les maux de ce monde font même plus
-d’impression sur elle que les douleurs terribles et les plaisirs
-infinis de l’éternité.
+## Our senses lead us into error even in things that are not sensible 
 
-Les sens appliquent donc extrêmement l’âme à ce qu’ils lui
-représentent. Or, comme elle est limitée et qu’elle ne peut nettement concevoir beaucoup de choses à la fois, elle ne peut
-apercevoir nettement ce que l’entendement lui représente dans le
-même temps que les sens lui offrent quelque chose à considérer.
-Elle laisse donc les idées claires et distinctes de l’entendement,
-propres cependant à découvrir la vérité des choses en ellesmêmes ; et elle s’applique uniquement aux idées confuses des
-sens qui la touchent beaucoup, et qui ne lui représentent point les
-choses selon ce qu’elles sont en elles-mêmes, mais seulement
-selon le rapport qu’elles ont avec son corps.
+The attention and application of the mind to the clear and distinct ideas we have of objects is the most necessary thing in the world for discovering what they truly are. For just as it is impossible to see the beauty of some work without opening one's eyes and looking at it fixedly, so the mind cannot evidently see most things with the relationships they have to one another if it does not consider them with attention. Now, it is certain that nothing diverts us more from attention to clear and distinct ideas than our own senses; and consequently, nothing distances us more from truth, nor throws us so quickly into error.
 
-II. Si une personne, par exemple, veut expliquer quelque
-vérité, il est nécessaire qu’il se serve de la parole, et qu’il
-exprime ses mouvements et ses sentiments intérieurs par des
-mouvements et des manières sensibles. Or, l’âme ne peut dans le
-même temps apercevoir distinctement plusieurs choses. Ainsi,
-ayant toujours une grande attention à ce qui lui vient par les sens,
-elle ne considère presque point les raisons qu’elle entend dire.
-Mais elle s’applique beaucoup au plaisir sensible qu’elle a de la
-mesure des périodes, des rapports des gestes avec les paroles, de
-l’agrément du visage, enfin de l’air et de la manière de celui qui
-parle. Cependant après qu’elle a écouté, elle veut juger, c’est la
-coutume. Ainsi, ses jugements doivent être différents, selon la
-diversité des impressions qu’elle aura reçues par les sens.
-Si, par exemple, celui qui parle s’énonce avec facilité, s’il
-garde une mesure agréable dans ses périodes, s’il a l’air d’un
-honnête homme et d’un homme d’esprit, si c’est une personne de
-qualité, s’il est suivi d’un grand train, s’il parle avec autorité et
-avec gravité, si les autres l’écoutent avec respect et en silence ;
-s’il a quelque réputation et quelque commerce avec les esprits du
-premier ordre ; enfin s’il est assez heureux pour plaire ou pour être estimé, il aura raison dans tout ce qu’il avancera, et il n’y
-aura pas jusqu’à son collet et à ses manchettes qui ne prouvent
-quelque chose.
+To conceive this truth well, it is absolutely necessary to know that the three ways in which the soul perceives—namely, through the senses, through the imagination, and through the mind—do not all affect it equally, and that consequently it does not bring equal attention to everything it perceives by their means; for it applies itself greatly to what affects it much, and it is little attentive to what affects it little.
 
-Mais s’il est assez malheureux pour avoir des qualités
-contraires à celles-ci, il aura beau démontrer, il ne prouvera
-jamais rien ; qu’il dise les plus belles choses du monde, on ne les
-apercevra jamais. L’attention des auditeurs n’étant qu’à ce qui
-touche les sens, le dégoût qu’ils auront de voir un homme si mal
-composé les occupera tout entiers et empêchera l’application
-qu’ils devraient avoir à ses pensées. Ce collet sale et chiffonné
-fera mépriser celui qui le porte et tout ce qui peut venir de lui ; et
-cette manière de parler de philosophe et de rêveur fera traiter de
-rêveries et d’extravagances ces hautes et sublimes vérités, dont
-le commun du monde n’est pas capable.
-Voilà quels sont les jugements des hommes. Leurs yeux et leurs
-oreilles jugent de la vérité, et non pas la raison, dans les choses
-même qui ne dépendent que de la raison, parce que les hommes
-ne s’appliquent qu’aux manières sensibles et agréables, et qu’ils
-n’apportent presque jamais une attention forte et sérieuse pour
-découvrir la vérité.
+Now, what it perceives through the senses affects and engages it extremely; what it knows through the imagination affects it much less; but what the understanding represents to it—I mean what it perceives by itself or independently of the senses and the imagination—hardly rouses it at all. No one can doubt that the slightest pain of the senses is more present to the mind and makes it more attentive than the meditation on a matter of much greater consequence.
 
-III. Qu’y a-t-il cependant de plus injuste que de juger des
-choses par la manière, et de mépriser la vérité parce qu’cIle
-n’est pas revêtue d’ornements qui nous plaisent et qui flattent nos
-sens ? Il devrait être honteux à des philosophes et à des
-personnes qui se piquent d’esprít, de rechercher avec plus de
-soin ces manières agréables que la vérité même, et de se repaître
-plutôt l’esprit, de la vanité des paroles, que de la solidité des
-choses. C’est au commun des hommes, c’est aux âmes de chair et
-de sang à se laisser gagner par des périodes bien mesurées et par
-154
-des figures’et des mouvements qui réveillent les passions.
-Omnia enim stolidi mngis admirantur, amantque,
-Inversis quœ sub verbis latitantia cernunt ;
-Veraque constituunt, quœ belle tangere possunt
-Aures, et lepido que sunt fucata sonore.
-Mais les personnes sages lâchent de se défendre contre la
-force maligne et les charmes puissants de ces manières sensibles.
-Les sens leur imposent aussi bien qu’aux autres hommes,
-puisqu’en elîet ils sont hommes ; mais ils méprisent les rapports
-qu’ils leur font. Ils imitent ce fameux exemple des juges de
-l’Aréopage, qui défendaient rigoureusement à leurs avocats de se
-servir de ces paroles et de ces figures trompeuses ; et qui ne les
-écoutaient que dans les ténèbres, de peur que les agréments de
-leurs paroles et de leurs gestes ne leur persuadassent quelque
-chose contre la vérité et la justice, et afin qu’ils pussent
-davantage s’appliquer à considérer la solidité deleurs raisons.
+The reason for this is that the senses represent objects as present, whereas the imagination represents them only as absent. Now, it is fitting that, among several goods or several evils proposed to the soul, those that are present affect and engage it more than others that are absent, because it is necessary that the soul determine promptly what it must do in that encounter. Thus, it applies itself much more to a simple prick than to very elevated speculations, and the pleasures and pains of this world make even more impression on it than the terrible pains and infinite pleasures of eternity.
 
+The senses therefore engage the soul extremely with what they represent to it. Now, since the soul is limited and cannot clearly conceive many things at once, it cannot clearly perceive what the understanding represents to it at the same time that the senses offer something for consideration. It therefore leaves aside the clear and distinct ideas of the understanding, which are nevertheless proper for discovering the truth of things in themselves; and it applies itself uniquely to the confused ideas of the senses, which affect it greatly, and which do not represent things according to what they are in themselves, but only according to the relationship they have with its body.
+
+
+## Example drawn from human conversation 
+
+If a person, for example, wishes to explain some truth, it is necessary that they use speech, and express their inner movements and sentiments through sensible movements and manners. Now, the soul cannot distinctly perceive several things at the same time. Thus, always having great attention to what comes to it through the senses, it hardly considers the reasons it hears spoken. But it applies itself much to the sensible pleasure it derives from the measure of periods, the correspondence of gestures with words, the agreeableness of the face, finally, the air and manner of the speaker. However, after having listened, it wishes to judge; such is the custom. Thus, its judgments must differ according to the diversity of impressions it has received through the senses.
+
+If, for example, the speaker expresses himself with ease, if he keeps an agreeable measure in his periods, if he has the air of an honest man and a man of wit, if he is a person of quality, if he is followed by a large retinue, if he speaks with authority and gravity, if others listen to him with respect and silence; if he has some reputation and some commerce with minds of the first order; finally, if he is lucky enough to please or to be esteemed, he will be right in all he advances, and there will not be even his collar and his cuffs that do not prove something.
+
+But if he is unlucky enough to have qualities contrary to these, he may demonstrate as he pleases, he will never prove anything; let him say the most beautiful things in the world, they will never be perceived. The attention of the listeners being only on what touches the senses, the disgust they feel at seeing a man so poorly composed will occupy them entirely and prevent the application they should have to his thoughts. This dirty and crumpled collar will cause contempt for the wearer and for everything that may come from him; and this way of speaking like a philosopher and a dreamer will cause those high and sublime truths, of which the common world is not capable, to be treated as reveries and extravagances.
+
+Such are the judgments of men. Their eyes and ears judge of truth, and not reason, even in things that depend only on reason, because men apply themselves only to sensible and agreeable manners, and they almost never bring a strong and serious attention to discover the truth.
+
+
+### One must not dwell on sensible manners
+
+What, however, is more unjust than to judge things by their manner, and to despise truth because it is not clothed in ornaments that please us and flatter our senses? It should be shameful for philosophers and for persons who pride themselves on wit to seek with more care these agreeable manners than truth itself, and to feed the mind rather on the vanity of words than on the solidity of things. It is for the common run of men, for souls of flesh and blood, to be won over by well-measured periods and by figures and movements that awaken the passions.
+
+*Omnia enim stolidi magis admirantur, amantque,*
+*Inversis quæ sub verbis latitantia cernunt;*
+*Veraque constituunt, quæ belle tangere possunt*
+*Aures, et lepido quæ sunt fucata sonore.*
+
+(For fools admire and love all things more,
+Which they see hidden under inverted words;
+And they establish as true what can beautifully touch
+The ears, and what is painted with a charming sound.)
+
+But wise persons strive to defend themselves against the malignant force and powerful charms of these sensible manners. The senses impose on them as well as on other men, since indeed they are men; but they despise the reports they make to them. They imitate that famous example of the judges of the Areopagus, who rigorously forbade their advocates to use those deceptive words and figures; and who listened to them only in darkness, lest the agreeableness of their words and gestures persuade them of something against truth and justice, and so that they might apply themselves more to considering the solidity of their reasons.
