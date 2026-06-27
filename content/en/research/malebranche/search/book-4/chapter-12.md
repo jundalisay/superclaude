@@ -1,5 +1,14 @@
-CHAPITRE XII.
-563
+---
+heading: Chapter 12
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 28
+date: 2026-06-20
+---
+
+
 
 Des effets que la pensée des biens et des maux futurs est capable de produire dans
 l’esprit.
@@ -198,4 +207,3 @@ secrètes l’ont naître dans leurs esprits les mêmes respects et les
 mêmes soumissions pour ces opinions et pour beaucoup d’autres
 de pure philosophie que pour les vérités qui sont I’objet de la
 foi.
-

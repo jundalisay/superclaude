@@ -4,7 +4,7 @@ title: "The Passions"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 21
 date: 2026-06-20
 ---
 
@@ -289,4 +289,5 @@ que des personnes grossières et peu éclairées sont fidèles dans
 leur devoir, parce qu’elles se sont rendu familière quelque
 grande et solide vérité qui les fortifie et qui les soutient en toutes
 rencontres.
+
 

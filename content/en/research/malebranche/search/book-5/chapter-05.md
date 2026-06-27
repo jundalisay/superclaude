@@ -4,9 +4,10 @@ title: "The Rules"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 13
 date: 2026-06-20
 ---
+
 
 
 Que la perfection de l’esprit consiste dans son union avec Dieu par la connaissance de

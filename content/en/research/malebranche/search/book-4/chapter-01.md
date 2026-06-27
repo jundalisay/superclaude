@@ -10,10 +10,6 @@ date: 2026-06-20
 
 
 
-LIVRE QUATRIÈME.
-DES INCLINATIONS, OU DES MOUVEMENTS NATURELS DE L’ESPRIT.
-CHAPITRE PREMIER.
-
 I. Les esprits doivent avoir des inclinations, comme les corps ont des mouvements. —
 II. Dieu ne donne aux esprits du mouvement que pour lui. — III. Les esprits ne
 se portent aux biens particuliers que par le mouvement qu’ils ont pour le bien en

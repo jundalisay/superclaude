@@ -4,7 +4,7 @@ title: "The Rules"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 9
 date: 2026-06-20
 ---
 

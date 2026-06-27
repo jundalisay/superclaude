@@ -1,18 +1,31 @@
+---
+heading: Chapter 13
+title: "The Rules"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 31
+date: 2026-06-20
+---
 
 
-CHAPITRE XIII.
+
 
 I. De la troisième inclination naturelle, qui est l’amitié que nous avoirs ! pour les autre :
 hommes. - II. Elle porte à approuver les pensées de nos amis et à les tromper par
 de fausses louanges.
+
 De toutes nos inclinations prises en général et au sens que je
 l’ai expliqué dans le premier chapitre, il ne reste plus que celle
 que nous avons pour ceux avec qui nous vivons et pour tous les
 objets qui nous environnent, de laquelle je ne dirai presque rien, parce que cela regarde plutôt la morale et la politique que notre
-sujet. Comme cette inclination est toujours jointe avec les
+sujet. 
+
+Comme cette inclination est toujours jointe avec les
 passions, il serait peut-être plus à propos de n’en parler que dans
 le livre suivant ; mais l’ordre n’est pas en cela de si grande
 conséquence.
+
 
 I. Pour bien comprendre la cause et les effets de cette
 inclination naturelle, il faut savoir que Dieu aime tous ses
@@ -21,7 +34,9 @@ leur mutuelle conservation ; car, aimant sans cesse les ouvrages
 qu’il produit, puisque c’est son amour qui les produit, il imprime
 aussi sans cesse dans notre cœur un amour pour ses ouvrages,
 puisqu’il produit sans cesse dans notre cœur un amour pareil au
-sien. Et, afin que l’amour naturel que nous avons pour nousmêmes n’anéantisse et n’affaiblisse pas trop celui que nous avons
+sien. 
+
+Et, afin que l’amour naturel que nous avons pour nousmêmes n’anéantisse et n’affaiblisse pas trop celui que nous avons
 pour les choses qui sont hors de nous, et qu’au contraire ces deux
 amours que Dieu met en nous s’entretiennent et se fortifient l’un
 l’autre, il nous a liés de telle manière avec tout ce qui nous
@@ -424,7 +439,3 @@ est permis, ils n’ont qu’à tourner la page ; mais, s’ils se lâchent,
 qu’ils sachent qu’il y a bien des gens qui trouvent que ces lieux
 que je choisis pour me reposer leur font trouver le chemin plus
 doux et plus agréable.
-
-
-
-

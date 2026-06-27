@@ -10,8 +10,7 @@ date: 2026-06-20
 
 
 
-
-**Wherein it is shown that he never observed the second part of the general rule, and wherein his four elements and elementary qualities are examined.**
+## Wherein it is shown that he never observed the second part of the general rule, and wherein his four elements and elementary qualities are examined.
 
 In order that one may make some comparison between the philosophy of Descartes and that of Aristotle, it is proper that I represent in abstract what the latter thought of elements and natural bodies in general, and what the most learned believe he did in his four books *On the Heavens*; for his eight books of *Physics* belong rather to logic or, if you will, to metaphysics than to physics, since they consist of nothing but vague and general words that represent no distinct and particular idea to the mind. These four books are entitled *On the Heavens* because the sky is the principal of the simple bodies of which he treats.
 
@@ -21,6 +20,7 @@ This philosopher begins this work by proving that the world is perfect, and here
 
 One could, by this amusing proof, also demonstrate that the world cannot be more imperfect than it is, since it cannot be composed of parts that have fewer than three dimensions.
 
+
 ### Critique of Aristotle's Axioms on Motion
 
 In the second chapter, he first supposes certain Peripatetic truths:
@@ -29,6 +29,7 @@ In the second chapter, he first supposes certain Peripatetic truths:
 * **2°. That all local motion occurs in a straight or circular line, or one composed of the straight and the circular:** But, if he did not wish to think about what he so rashly advances, he ought at least to have opened his eyes, and he would have seen that there are motions in an infinity of different ways that are not composed of the straight and the circular; or rather, he ought to have thought that motions composed of straight-line motions can occur in an infinity of ways, if one supposes that the component motions increase or decrease their speed in an infinity of different ways, as can be seen by what was said previously. There are, he says, only these two simple motions, the straight and the circular: therefore all motions are composed of those two. But he is mistaken: circular motion is not simple; one cannot conceive it without thinking of a point to which the moving body—or rather the motion—relates, and everything that encloses a relation is relative and not simple. But if one defines simple motion, as one ought, as that which always tends toward the same place, circular motion would be infinitely composite, since all the tangents of the circular line tend toward different places. One can define the circle in relation to the center; but to judge the simplicity of circular motion in relation to a point with respect to which there is no motion would be a very poor way to go about it.
 * **3°. That all simple motions are of three kinds: one from the center, another toward the center, and the third around the center:** But it is false that the last one is simple, as has already been said. It is also false that there are no simple motions except those that go from bottom to top and from top to bottom; for all motions in a straight line are simple, whether they approach or recede from the center, or whether they approach or recede from the poles or any other point. Every body, he says, is composed of three dimensions: therefore the motion of all bodies must have three simple motions. What a relationship between simple motions and dimensions! Furthermore, every body has three dimensions, and no body has a motion composed of these three simple motions.
 * **4°. He supposes that bodies are either simple or composite:** And he says that simple bodies are those that have within themselves some power that moves them, like fire, earth, etc., and that composite bodies receive their motion from those that compose them. But, in this sense, there are no simple bodies, for there are none that have within themselves any principle of their motion; there are also no composite bodies, since composites suppose the simples which do not exist. Thus, there would be no bodies at all. What an imagination, to define the simplicity of bodies by a power to move themselves! What distinct ideas can one attach to these words "simple bodies" and "composite bodies" if simple bodies are defined only in relation to an imaginary force of motion?
+
 
 ### The Nature of the Heavens and the "Evil Genius" of Aristotelian Logic
 
@@ -58,7 +59,6 @@ Finally, circular motion is either natural or violent to some body. If it is nat
 
 This is how Aristotle reasons. But I defy the most intelligent of his interpreters to attach distinct ideas to the terms he uses, and to show that this philosopher begins with the simplest things before speaking of the most composite, which is absolutely necessary for reasoning justly, as I have just proved.
 
----
 
 ## Chapter-by-Chapter Errors in Book I of *On the Heavens*
 
@@ -79,7 +79,7 @@ This is the manner in which reasons the prince of philosophers and the genius of
 
 I do not reproach Aristotle here for not knowing that God created the world in time to make known His power and the dependence of creatures, and that He will never annihilate it so that it may also be known that He is immutable and never repents of His designs. But I believe I can reproach him for proving, by reasons that have no force, that the world is from all eternity. If he is sometimes excusable in the opinions he maintains, he is almost never excusable in the reasons he brings forward when he treats of subjects that contain any difficulty.
 
----
+
 
 ## On the Four Elements and Elementary Qualities
 
@@ -124,6 +124,7 @@ He asserts that heat and cold are *active* qualities, and that dryness and moist
 * **Moisture (The Humid):** That which is not easily contained within its own bounds, but within foreign bounds.
 * **Dryness (The Sec):** That which is easily contained within its own bounds and does not easily accommodate itself to the bounds of surrounding bodies.
 
+
 ### Critique of the Definition of Heat and Cold
 
 See then what is missing from these principles:
@@ -137,10 +138,6 @@ In third place, heat in truth can neither assemble nor dissipate the parts of an
 Aristotle defines cold as *that which assembles bodies of the same or of different nature.* This definition is also worthless, for it is false that cold assembles bodies. To assemble them, it must move them; but cold cannot move anything. In fact, by coldness, one means either what one feels when one is cold, or what causes the sensation of coldness: now it is clear that the sensation of coldness cannot move anything. As for what causes the sensation, it is nothing but the rest or cessation of motion. Thus, coldness in bodies being nothing but the cessation of that kind of motion which accompanies heat, it is evident that if heat separates, coldness simply does not separate.
 
 Aristotle, judging things by the senses, imagines that coldness is as positive as heat, because the sensations of heat and cold are both real and positive; and he also thinks that these two qualities are active. It is impossible to discover any certain and incontestable truth by relying only on the senses to judge the qualities of bodies; from several people who touch water that is a little lukewarm, some find it hot, and others cold. Those who are warm find it cold, and those who are cold find it hot. It is the same with the air; it seems hot or cold according to the different dispositions of the body of those who are exposed to it. Aristotle pretends it is hot, but I do not think those who live toward the north are of his opinion...
-
-
-
-
 
 
 <!-- 

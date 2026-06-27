@@ -1,19 +1,25 @@
 ---
 heading: Chapter 8
-title: "The Rules"
+title: "Application of the Other Rules to Particular Questions"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 23
 date: 2026-06-20
 ---
 
 
 
+There are 2 sorts of questions:
 
-Application of the Other Rules to Particular Questions.
+1. Simple
+2. Compound
 
-There are two sorts of questions: simple and compound. The resolution of the former depends solely on the mind’s attention to the clear ideas of the terms that express them. The latter can only be resolved by comparison to a third idea or to several other ideas; one cannot discover the unknown relations expressed by the terms of the question by immediately comparing the ideas of those terms, for they cannot be joined or compared. One therefore requires one or more intermediate ideas in order to make the necessary comparisons to discover these relations, and one must observe exactly that these intermediate ideas be clear and distinct, in proportion as one endeavors to discover more exact relations and a greater number of them.
+The resolution of the former depends solely on the mind’s attention to the clear ideas of the terms that express them. 
+
+The latter can only be resolved by comparison to a third idea or to several other ideas; one cannot discover the unknown relations expressed by the terms of the question by immediately comparing the ideas of those terms, for they cannot be joined or compared. 
+
+One therefore requires one or more intermediate ideas in order to make the necessary comparisons to discover these relations, and one must observe exactly that these intermediate ideas be clear and distinct, in proportion as one endeavors to discover more exact relations and a greater number of them.
 
 This rule is merely a consequence of the first, and it is of equal importance. For if it is necessary, in order to know exactly the relations of the things one compares, to have clear and distinct ideas of them, it is necessary, for the same reason, to know well the intermediate ideas by which one intends to make these comparisons, since one must know distinctly the relation of the measure to each of the things one measures in order to discover their relations. Here are some examples.
 
@@ -21,7 +27,9 @@ When a very light little vessel containing a magnet is left to float freely, and
 
 It is quite visible that, to account for the movement of this magnet, it is not enough to know the relations it has with the other; for even if one knew all of them perfectly, one could not comprehend how these two bodies could push each other without meeting.
 
-One must therefore examine what things one knows distinctly to be capable, according to the order of nature, of moving some body; for the question is to discover the natural cause of the magnet's movement, which is certainly a body. Thus, one must not resort to some quality, some form, or some entity that one does not clearly know to be capable of moving bodies, nor even to some intelligence, for one does not know with certainty that intelligences are the ordinary causes of the natural movements of bodies, nor even if they can produce movement.
+One must therefore examine what things one knows distinctly to be capable, according to the order of nature, of moving some body; for the question is to discover the natural cause of the magnet's movement, which is certainly a body. 
+
+Thus, one must not resort to some quality, some form, or some entity that one does not clearly know to be capable of moving bodies, nor even to some intelligence, for one does not know with certainty that intelligences are the ordinary causes of the natural movements of bodies, nor even if they can produce movement.
 
 One knows evidently that it is a law of nature that bodies move one another when they meet; one must therefore endeavor to explain the movement of the magnet by means of some body that meets it. It is true that there might be something other than a body that moves it; but if one has no distinct idea of this thing, one must not use it as an acceptable means to discover what one seeks, nor to explain it to others; for it is not accounting for an effect to give as its cause a thing that no one clearly conceives. One must therefore not trouble oneself whether there is or is not some other natural cause of the movement of bodies besides their mutual encounter; one must rather suppose that there is none, and consider with attention what body can meet and move this magnet.
 
@@ -119,7 +127,6 @@ But algebra, teaching one to abbreviate continually, and in the shortest manner 
 
 The fifth rule and the others, where it is spoken of the manner of abbreviating ideas, pertain only to this science, for one has no convenient manner of abbreviating them in the other sciences. Thus I will not dwell on explaining them. Those who have much inclination for the mathematics and who wish to give their mind all the force and all the extent of which it is capable, and thus put themselves in a state to discover by themselves an infinity of new truths, having seriously applied themselves to algebra, will recognize that if this science is so useful for the search for truth, it is because it observes the rules we have prescribed. But I warn that by algebra I mean principally that of which M. Descartes and some others have made use.
 
-Before concluding this work, I shall provide a somewhat extended example to better illustrate the utility that can be derived from this entire book. I represent in this example the steps of a mind which, wishing to examine a question of some importance, makes an effort to deliver itself from its prejudices. I even make it fall at first into some fault so that this may awaken the memory of what I have said elsewhere. But, its attention finally leading it to the truth it seeks, I make it speak positively like a man who claims to have resolved the question he has examined.
-
+<!-- Before concluding this work, I shall provide a somewhat extended example to better illustrate the utility that can be derived from this entire book. I represent in this example the steps of a mind which, wishing to examine a question of some importance, makes an effort to deliver itself from its prejudices. I even make it fall at first into some fault so that this may awaken the memory of what I have said elsewhere. But, its attention finally leading it to the truth it seeks, I make it speak positively like a man who claims to have resolved the question he has examined. -->
 
 

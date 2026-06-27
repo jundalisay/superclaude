@@ -14,17 +14,21 @@ date: 2026-06-20
 
 Lest it be said that I do nothing but destroy without establishing anything certain and incontestable in this work, it is proper that I briefly set forth here the order one must maintain in their studies to avoid error. I shall also point out a few highly necessary truths and sciences in which an evidence is met so clear that one cannot help but assent to them without suffering the secret reproaches of one's reason. I will not explain these truths and sciences at great length, as that has already been done; I do not intend to reprint the works of others, and shall content myself with referring to them. I will only show the order one must maintain in the study they wish to make of them, so as to always preserve evidence in one's perceptions.
 
+
+
 ### On the Soul and the Fallibility of Memory
 
 Of all our knowledge, the first is the existence of our soul; all our thoughts are incontestable demonstrations of it, for nothing is more evident than that what currently thinks is currently something. But if it is easy to know the existence of one's soul, it is not so easy to know its essence and nature. If one wishes to know what it is, above all, great care must be taken not to confound it with the things to which it is united. If one doubts, if one wills, if one reasons, one must only believe that the soul is a thing that doubts, wills, and reasons, and nothing more, provided one has not experienced other properties in it; for one knows one's soul only through the internal sensation one has of it.
 
 One must not mistake one's soul for one's body, nor for blood, nor for animal spirits, nor for fire, nor for an infinity of other things for which philosophers have mistaken it. One must believe nothing of the soul except what one cannot help but believe, and that of which one is fully convinced by the internal sensation one has of oneself; for otherwise, one would be mistaken. Thus, one will know by direct perception (*simple vue*) or by internal sensation everything that can be known of the soul, without being obliged to construct arguments in which error might be found. For when one reasons, memory acts; and where there is memory, there can be error, assuming there were some evil genius upon whom we depended for our knowledge and who amused himself by deceiving us.
 
+
 ### Direct Perception versus Reasoning
 
 If I were to suppose, for example, a God who pleased Himself by seducing me, I am thoroughly persuaded that He could not deceive me in my knowledge of direct perception—such as that by which I know that I am, from the fact that I think, or that twice two makes 4. For even if I were actually to suppose such a God, as powerful as I could imagine Him, I feel that in this extravagant supposition I could not doubt that I was, or that twice 2 were equal to 4, because I perceive these things by direct perception without the use of memory.
 
 But when I reason, not seeing evidently the principles of my arguments, and only remembering that I saw them with evidence, if this deceiving God joined this memory to false principles—as He could do if He wished—I would produce nothing but false reasonings. Just as those who perform long calculations imagine they well remember knowing that 9 times 9 makes 72, or that 21 is a prime number, or some similar error from which they draw false conclusions.
+
 
 ### The Knowledge of God as a Foundation for Science
 
@@ -40,7 +44,6 @@ All these truths are seen by direct perception by attentive minds, though it see
 
 It is evident that the certainty of faith also depends on this principle: that there is a God who is incapable of deceiving us. For the existence of a God and the infallibility of divine authority are natural knowledge and common notions to minds capable of serious attention, rather than articles of faith; though it is a particular gift of God to have a mind capable of sufficient attention to properly understand these truths, and to be willing to apply oneself to understanding them.
 
----
 
 ## The Order of Studies: Mathematics first
 
@@ -56,6 +59,8 @@ We have within us the ideas of numbers and of extension, whose existence is inco
 
 It is these reasons or similar ones that led some ancients to have young people study arithmetic, algebra, and geometry. Apparently, they knew that arithmetic and algebra give breadth to the mind and a certain penetration that cannot be acquired by other studies, and that geometry regulates the imagination so well that it does not easily become confused; for this faculty of the soul, so necessary for the sciences, acquires through the use of geometry a certain scope of accuracy that pushes and preserves the clear view of the mind even into the most entangled difficulties.
 
+
+
 ### Recommended Reading for the Sciences
 
 If one wishes, therefore, to always preserve evidence in one's perceptions, and to discover pure truth unmixed with any obscurity or error, one must first study arithmetic, algebra, and geometry, after having acquired at least some knowledge of oneself and of the Sovereign Being.
@@ -69,7 +74,7 @@ And if one wishes to have some books that facilitate these sciences:
 * Finally, one will apply oneself to the differential calculus and the methods drawn from it for the understanding of curved lines, which will be found treated thoroughly and with much order and clarity in the excellent work of the marquis de l’Hôpital, entitled *Analyse des infiniment petits*.
 * One will also find the differential calculus and its uses in the 2nd part of the 2nd volume of the *Analyse démontrée*, and the integral calculus, along with the manner of applying it to curved lines and to mixed problems of physics and mathematics, in the 3rd part. By reading these works, one will put oneself in a position to make discoveries oneself and to understand those found in the *Mémoires de l’Académie des sciences* and in the works of foreigners.
 
----
+
 
 ## Moving to Physics and Morals
 
@@ -102,13 +107,16 @@ Some of these most general principles of morals are:
 
 There are still several other principles of morals, such as: that retirement and penitence are necessary to diminish our union with sensible objects, and to increase that which we have with intelligible goods, the true goods, the goods of the mind; that one cannot taste violent pleasure without becoming its slave; that one must never undertake anything through passion; that one must not seek an establishment in this life, etc. But because these latter principles depend on the preceding ones and on the knowledge of man, they must not pass at first as incontestable. If one meditates on these principles methodically and with as much care and application as the grandeur of the subject deserves, and if one receives as true only the conclusions drawn consistently from these principles, one will have a certain morality that will agree perfectly with that of the Gospel, though it may not be so finished or so extensive. I have tried to demonstrate methodically the foundations of morals in a particular treatise, but I wish, both for myself and for others, that a more exact and finished work be given.
 
-It is true that in moral reasonings, it is not so easy to preserve evidence and exactness as in some other sciences, and that the knowledge of man is absolutely necessary to those who wish to push this science somewhat far, and it is for this reason that most men do not succeed in it. They do not wish to consult themselves to recognize the weaknesses of their nature. They tire of questioning the Master who teaches us internally His own wills, which are the immutable and eternal laws and the true principles of morals. They do not listen with pleasure to Him who does not speak to their senses, who does not answer according to their desires, who does not flatter their secret pride; they have no respect for words that do not strike the imagination by their brilliance, which are pronounced without noise, and which are never clearly heard except in the silence of creatures. But they consult with pleasure and respect Aristotle, Seneca, or some new philosophers who seduce them either by the obscurity of their words, or by the turn of their expressions, or by the probability of their reasons.
+It is true that in moral reasonings, it is not so easy to preserve evidence and exactness as in some other sciences, and that the knowledge of man is absolutely necessary to those who wish to push this science somewhat far, and it is for this reason that most men do not succeed in it. They do not wish to consult themselves to recognize the weaknesses of their nature. They tire of questioning the Master who teaches us internally His own wills, which are the immutable and eternal laws and the true principles of morals. They do not listen with pleasure to Him who does not speak to their senses, who does not answer according to their desires, who does not flatter their secret pride; they have no respect for words that do not strike the imagination by their brilliance, which are pronounced without noise, and which are never clearly heard except in the silence of creatures. 
 
----
+But they consult with pleasure and respect Aristotle, Seneca, or some new philosophers who seduce them either by the obscurity of their words, or by the turn of their expressions, or by the probability of their reasons.
+
 
 ## Conclusion: The Fall of Man and the Gospel
 
-Since the sin of the first man, we esteem only what relates to the preservation of the body and the convenience of life, and because we discover these kinds of goods by means of the senses, we wish to make use of them on all occasions. Eternal wisdom, which is our true life, and the only light that can enlighten us, often shines only to the blind and often speaks only to the deaf when it speaks only in the secret of reason, for we are almost always poured out outwardly. As we incessantly question all creatures to learn some news of the good we seek, it was necessary, as I have already said elsewhere, that this wisdom should present itself before us, without however going out of us, in order to teach us, by sensible words and convincing examples, the way to arrive at true happiness. God incessantly imprints in us a natural love for Him, so that we may love Him incessantly; and by this same movement of love, we incessantly move away from Him by running with all the strength He gives us toward the sensible goods He forbids us. Thus, wishing to be loved by us, it was necessary that He should make Himself sensible and present Himself before us, to stop, by the sweetness of His grace, all our vain agitations, and to begin our healing by sensations or delectations similar to the preemptive pleasures that had begun our illness.
+Since the sin of the first man, we esteem only what relates to the preservation of the body and the convenience of life, and because we discover these kinds of goods by means of the senses, we wish to make use of them on all occasions. 
+
+Eternal wisdom, which is our true life, and the only light that can enlighten us, often shines only to the blind and often speaks only to the deaf when it speaks only in the secret of reason, for we are almost always poured out outwardly. As we incessantly question all creatures to learn some news of the good we seek, it was necessary, as I have already said elsewhere, that this wisdom should present itself before us, without however going out of us, in order to teach us, by sensible words and convincing examples, the way to arrive at true happiness. God incessantly imprints in us a natural love for Him, so that we may love Him incessantly; and by this same movement of love, we incessantly move away from Him by running with all the strength He gives us toward the sensible goods He forbids us. Thus, wishing to be loved by us, it was necessary that He should make Himself sensible and present Himself before us, to stop, by the sweetness of His grace, all our vain agitations, and to begin our healing by sensations or delectations similar to the preemptive pleasures that had begun our illness.
 
 Thus, I do not pretend that men can easily discover by the strength of their mind all the rules of morals that are necessary for salvation, and still less that they can act according to their light, for their heart is even more corrupted than their mind. I say only that if they admit only evident principles, and if they reason consistently on these principles, they will discover the same truths that we learn in the Gospel; because it is the same wisdom that speaks immediately by itself to those who discover truth in the evidence of reasonings, and which speaks through the holy scriptures to those who take its meaning well.
 

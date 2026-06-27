@@ -4,10 +4,9 @@ title: "The Passions"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 16
 date: 2026-06-20
 ---
-
 
 
 
@@ -234,4 +233,5 @@ surprenantes. Il y à une raison particulière de tous ces effets, quoique nous 
 sont point toujours semblables aux nôtres ; nous ne les pouvons
 connaître. Ainsi, il y a toujours quelque raison particulière qui
 les fait agir d’une manière qui nous paraît si extravagante.
+
 

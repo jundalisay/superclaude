@@ -1,6 +1,5 @@
 ---
 heading: Chapter 1
-<<<<<<< HEAD
 title: "The rules to be observed in the search for truth"
 description: ""
 a: "Malebranche"
@@ -8,33 +7,19 @@ c: "indigo"
 weight: 3
 date: 2026-06-20
 ---
-=======
-title: "The Truth"
-description: ""
-a: "Malebranche"
-c: "indigo"
-weight: 30
-date: 2026-06-20
----
 
 
 
 
-DEUXIÈME PARTIE.
-DE LA MÉTHODE
-CHAPITRE PREMIER.
->>>>>>> 1e5895d8f5420eff3330bd37f9871b50766d5f52
+Making the mind more attentive and more extensive are the only ways that can make it more perfect, more enlightened and more penetrating.
 
+the rules that it is absolutely necessary to observe in the resolution of all questions. 
 
-<!-- **SECOND PART.**
-**ON METHOD**
-**CHAPTER ONE.** -->
+I shall dwell on this at length, and I shall try to explain it well through several examples, in order to make its necessity better known, and to accustom the mind to put them into practice, because the most necessary and most difficult thing is not to know them well, but to practice them well.
 
+One must not expect here to have something very extraordinary, which surprises and greatly engages the mind; on the contrary, in order for these rules to be good, they must be simple and natural, few in number, very intelligible and dependent on one another; in a word, they must only guide our mind and regulate our attention without dividing it, for experience makes it sufficiently known that Aristotle's logic is not of great use, because it occupies the mind too much, and diverts it from the attention it should bring to the subjects it examines. 
 
-
-After having explained the means that must be used to make the mind more attentive and more extensive, which are the only ones that can make it more perfect—that is to say, more enlightened and more penetrating—it is time to come to the rules that it is absolutely necessary to observe in the resolution of all questions. I shall dwell on this at length, and I shall try to explain it well through several examples, in order to make its necessity better known, and to accustom the mind to put them into practice, because the most necessary and most difficult thing is not to know them well, but to practice them well.
-
-One must not expect here to have something very extraordinary, which surprises and greatly engages the mind; on the contrary, in order for these rules to be good, they must be simple and natural, few in number, very intelligible and dependent on one another; in a word, they must only guide our mind and regulate our attention without dividing it, for experience makes it sufficiently known that Aristotle's logic is not of great use, because it occupies the mind too much, and diverts it from the attention it should bring to the subjects it examines. Let those therefore who love only mysteries and extraordinary inventions put aside for a while this bizarre humor, and let them bring all the attention of which they are capable, in order to examine whether the rules that are about to be given suffice to always preserve evidence in the perceptions of the mind and to discover the most hidden truths. If they do not unjustly preoccupy themselves against the simplicity and ease of these rules, I hope they will recognize through the use that we will show in the following that one can make of them, that the clearest and simplest principles are the most fruitful, and that extraordinary and difficult things are not always as useful as our vain curiosity leads us to believe.
+Let those therefore who love only mysteries and extraordinary inventions put aside for a while this bizarre humor, and let them bring all the attention of which they are capable, in order to examine whether the rules that are about to be given suffice to always preserve evidence in the perceptions of the mind and to discover the most hidden truths. If they do not unjustly preoccupy themselves against the simplicity and ease of these rules, I hope they will recognize through the use that we will show in the following that one can make of them, that the clearest and simplest principles are the most fruitful, and that extraordinary and difficult things are not always as useful as our vain curiosity leads us to believe.
 
 The principle of all these rules is that one must always preserve evidence in one's reasoning in order to discover truth without fear of being mistaken. From this principle depends this general rule concerning the subject of our studies, namely: that we should reason only about things of which we have clear ideas; and, as a necessary consequence, that we must always begin with the simplest and easiest things, and dwell on them for a long time before undertaking the investigation of the more composite and more difficult ones.
 

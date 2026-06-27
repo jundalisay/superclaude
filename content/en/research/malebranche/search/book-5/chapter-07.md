@@ -4,10 +4,9 @@ title: "The Rules"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 18
 date: 2026-06-20
 ---
-
 
 
 Des passions en particulier, et premièrement de l’admiration et de ses mauvais effets.
@@ -722,4 +721,5 @@ vive et si surprenante sur leur imagination, qu’ils en demeurent
 tout étourdis, qu’ils respectent cette puissance qui les abat et qui
 les aveugle, et qu’ils admirent comme des vérités éclatantes des
 sentiments confus qui ne peuvent s’exprimer.
+
 
