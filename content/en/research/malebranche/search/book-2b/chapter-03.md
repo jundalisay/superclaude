@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3
-title: "The Passions"
+title: "Why People Prefer to follow authority"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -12,172 +12,47 @@ date: 2026-06-20
 
 I. Que les personnes d’étude sont les plus sujettes à l’erreur. — II. Raisons pour
 lesquelles on aime mieux suivre l’autorité que de faire usage de son esprit.
-I. Les différences qui se trouvent dans les manières de vivre
-des hommes sont presque infinies. Il y a un très-grand nombre de
-différentes conditions, de différents emplois, de différentes charges, de différentes communautés. Ces différences font que
-presque tous les hommes agissent pour des desseins tout
-différents, et qu’ils raisonnent sur de différents principes. Il
-serait même assez difficile de trouver plusieurs personnes qui
-eussent entièrement les mêmes vues dans une même communauté,
-dans laquelle les particuliers ne doivent avoir qu’un même esprit,
-et que les mêmes desseins. Leurs différents emplois et leurs
-différentes liaisons mettent nécessairement quelque différence
-dans le tour et la manière qu’ils veulent prendre, pour exécuter
-les choses même dont ils conviennent. 
 
-Cela fait bien voir que ce
-serait entreprendre l’impossible, que de vouloir expliquer en
-détail les causes morales de l’erreur ; mais aussi il serait assez
-inutile de le faire ici. On veut seulement parler des manières de
-vivre, qui portent à un plus grand nombre d’erreurs, et à des
-erreurs de plus grande importance. Quand on les aura expliquées,
-on aura donné assez d’ouverture à l’esprit pour aller plus loin ; et
-chacun pourra voir tout d’une vue, et avec grande facilité, les
-causes très-cachées de plusieurs erreurs particulières, qu’on ne
-pourrait expliquer qu’avec beaucoup de temps et de peine. Quand
-l’esprit voit clair, il se plaît à courir à la vérité, et il y court
-d’une vitesse qui ne se peut exprimer.
 
-II. L’emploi duquel il semble le plus nécessaire de parler ici, à
-cause qu’il produit dans l’imagination des hommes des
-changements plus considérables, et qui conduisent davantage à
-l’erreur, c’est l’emploi des personnes d’étude, qui font plus
-d’usage de leur mémoire que de leur esprit. Car l’expérience a
-toujours fait connaître que ceux qui se sont appliqués avec plus
-d’ardeur à la lecture des livres, et à la recherche de la vérité,
-sont ceux-là même qui nous ont jetés dans un plus grand nombre
-d’erreurs.
 
-Il en est de même de ceux qui étudient, que de ceux qui
-voyagent. Quand un voyageur a pris par malheur un chemin pour
-un autre, plus il avance, plus il s’éloigne du lieu où il veut aller.
-Il s’égare d’autant plus, qu’il est plus diligent, et qu’il se hâte
-davantage d’arriver au lieu qu’il souhaite. Ainsi ces désirs
-ardents, qu’ont les hommes pour la vérité, font qu’ils se jettent
-dans la lecture des livres où ils croient la trouver ; ou bien ils se
-forment un système chimérique des choses qu’ils souhaitent de
-savoir, duquel ils s’entêtent ; et qu’ils lâchent même par de vains
-efforts d’esprit de faire goûter aux autres, afin de recevoir
-l’honneur qu’on rend d’ordinaire aux inventeurs de systèmes.
-Expliquons ces deux défauts.
+## Studious persons are the most subject to error 
 
-ll est assez difficile de comprendre comment il se peut faire
-que des gens qui ont de l’esprit aiment mieux se servir de l’esprit
-des autres dans la recherche de la vérité, que de celui que Dieu
-leur a donné. Il y a sans doute infiniment plus de plaisir et plus
-d’honneur à se conduire par ses propres yeux, que par ceux des
-autres ; et un homme qui a de bons yeux ne s’avisa jamais de se
-les fermer, ou de se les arracher, dans l’espérance d’avoir un
-conducteur. Sapientis oculí in capite ejus, stultus in tenebrís
-ambulat
-[10]
-. Pourquoi le fou marche-t-il dans les ténèbres ?
-C’est qu’il ne voit que par les yeux d’autrui, et que ne voir que
-de cette manière, à proprement parler, ce n’est rien voir. L’usage
-de l’esprit est à l’usage des yeux, ce que l’esprit est aux yeux ; et
-de même que l’esprit est infiniment au-dessus des yeux, l’usage
-de l’esprit est accompagné de satisfactions bien plus solides, et
-qui le contentent bien autrement, que la lumière et les couleurs ne
-contentent la vue. Les hommes toutefois se servent toujours de
-leurs yeux pour se conduire, et ils ne se servent presque jamais
-de leur esprit pour découvrir la vérité.
+I. The differences found in men's manners of living are almost infinite. There is a very great number of different conditions, different employments, different offices, different communities. These differences cause almost all men to act for entirely different purposes, and to reason on different principles. It would even be rather difficult to find several persons who had entirely the same views in the same community, in which individuals should have only one spirit and the same designs. Their different employments and their different connections necessarily put some difference in the turn and manner they wish to take, in order to execute even the things about which they agree.
 
-Mais il y a plusieurs causes qui contribuent à ce renversement
-d’esprit. Premièrement, la paresse naturelle des hommes qui ne
-veulent pas se donner la peine de méditer.
-Secondement, l’incapacité de méditer, dans laquelle on est
-tombé pour ne s’être pas appliqué dans la jeunesse, lorsque les
-fibres du cerveau étaient capables de toutes sortes d’inflexions.
-En troisième lieu, le peu d’amour qu’on a pour les vérités
-abstraites, qui sont le fondement de tout ce que l’on peut
-connaître ici-bas.
+This clearly shows that it would be undertaking the impossible to wish to explain in detail the moral causes of error; but it would also be rather useless to do so here. One wishes only to speak of those manners of living that lead to a greater number of errors, and to errors of greater importance. When these have been explained, one will have given enough opening to the mind to go further; and each person will be able to see at a single glance, and with great ease, the very hidden causes of several particular errors, which could be explained only with much time and trouble. When the mind sees clearly, it delights in running toward truth, and it runs there with a speed that cannot be expressed.
 
-En quatrième lien, la satisfaction qu’on reçoit dans la
-connaissance des vraisemblances, qui sont fort agréables et fort
-touchantes, parce qu’elles sont appuyées sur les notions
-sensibles.
 
-En cinquième lieu, la sotte vanité qui nous fait souhaiter d’être
-estimés savants, car on appelle savants ceux qui ont le plus de
-lecture. La connaissance des opinions est bien plus d’usage pour
-la conversation, et pour étourdir les esprits du commun, que la
-connaissance de la véritable philosophie qu’on apprend en
-méditant.
+## Why one prefers to follow authority rather than to make use of one's own mind.
 
-En sixième lieu, parce qu’on s’imagine sans raison que les
-anciens ont été plus éclairés que nous ne pouvons l’être, et qu’il
-n’y a rien à faire où ils n’ont pas réussi.
-En septième lieu, parce qu’un faux respect mêlé d’une sotte
-curiosité fait qu’on admire davantage les choses les plus
-éloignées de nous, les choses les plus vieilles, celles qui
-viennent de plus loin, ou de pays plus inconnus, et même les
-livres les plus obscurs. Ainsi on estimait autrefois Héraclite pour
-son obscurité
+The employment of which it seems most necessary to speak here, because it produces in men's imagination more considerable changes and leads more to error, is the employment of studious persons, who make more use of their memory than of their mind. For experience has always shown that those who have applied themselves with more ardor to the reading of books and to the search for truth are precisely those who have thrown us into a greater number of errors.
 
-. On recherche les médailles anciennes quoique
-250
+It is the same with those who study as with those who travel. When a traveler has unfortunately taken one road for another, the more he advances, the more he moves away from the place where he wishes to go. He goes astray all the more as he is more diligent and hastens more to arrive at the place he desires. Thus these ardent desires that men have for truth cause them to throw themselves into the reading of books where they believe they will find it; or else they form for themselves a chimerical system of the things they wish to know, to which they become attached; and they even make vain efforts of mind to make others relish it, in order to receive the honor ordinarily rendered to inventors of systems. Let us explain these two defects.
 
-rongées de la rouille. et on garde avec grand soin la lanterne et la
-pantoufle de quelque ancien, quoique mangées de vers ; leur
-antiquité fait leur prix. Des gens s’appliquent à la lecture des
-rabbins, parce qu’ils ont écrit dans une langue étrangère trèscorrompue et très-obscure. On estime davantage les opinions les
-plus vieilles, parce qu’elles sont les plus éloignées de nous. Et
-sans doute, si Nembrot avait écrit l’histoire de son règne, toute la
-politique la plus fine, et même toutes les autres sciences y
-seraient contenues, de même que quelques-uns trouvent
-qu’Homère et Virgile avaient une connaissance parfaite de la
-nature. Il faut respecter l’antiquité, dit-on
-[12]
-. Quoi ! Aristote,
-Platon, Épicure, ces grands hommes se seraient trompés ? On ne
-considère pas qu’Aristote, Platon, Épicure étaient hommes
-comme nous, et de même espèce que nous ; et de plus, qu’au
-temps où nous vivons, le monde est plus âgé de deux mille ans,
-qu’il a plus d’expérience, qu’íl doit être plus éclairé, et que c’est
-la vieillesse du monde et l’expérience qui font découvrir la
-vérité.
-En huitième lieu, parce que lorsqu’on estime une opinion
-nouvelle et un auteur du temps, il semble que leur gloire efface la
-nôtre, à cause qu’elle en est trop proche ; mais on ne craint rien
-de pareil de l’honneur qu’on rend aux anciens.
-En neuvième lieu, parce que la vérité et la nouveauté ne
-peuvent pas se trouver ensemble dans les choses de la foi ; car
-les hommes ne voulant pas faire de discernement entre les vérités
-qui dépendent de la raison et celles qui dépendent de la tradition,
-ne considèrent pas qu’on doit les apprendre d’une manière toute
-différentes ils confondent la nouveauté avec l’erreur et l’antiquité
-avec la vérité. Luther, Calvin et les autres ont innové, et ils ont
-erré. Donc Galilée, Harvey, Descartes se trompent dans ce qu’ils
-disent de nouveau. L’impanation de Luther est nouvelle, et elle
-est fausse : donc la circulation d’Harvey est fausse, puisqu’elle
-est nouvelle. C’est pour cela aussi qu’ils appellent
-indifféremment du nom odieux de novateurs les hérétiques et les
-nouveaux philosophes. Les idées et les mots de vérité et
-d’antiquité, de fausseté et de nouveauté ont été liés les uns avec
-les autres : c’en est fait, le commun des hommes ne les sépare
-plus, et les gens d’esprit sentent même quelque peine à les bien
-séparer.
+It is rather difficult to understand how it can happen that men of intelligence prefer to make use of the mind of others in the search for truth, rather than of that which God has given them. There is without doubt infinitely more pleasure and more honor in guiding oneself by one's own eyes than by those of others; and a man who has good eyes never thought of closing them, or of tearing them out, in the hope of having a guide. *Sapientis oculi in capite ejus, stultus in tenebris ambulat.* [The wise man's eyes are in his head, but the fool walks in darkness.] Why does the fool walk in darkness? It is because he sees only through the eyes of others, and to see only in this manner, properly speaking, is to see nothing. The use of the mind is to the use of the eyes as the mind is to the eyes; and just as the mind is infinitely above the eyes, the use of the mind is accompanied by satisfactions far more solid, and which content it far otherwise than light and colors content the sight. Men, however, always use their eyes to guide themselves, and they almost never use their mind to discover truth.
 
-En dixième lieu, parce qu’on est dans un temps auquel la
-science des opinions anciennes est encore en vogue, et qu’il n’y a
-que ceux qui font usage de leur esprit qui puissent, par la force de
-leur raison, se mettre au-dessus des méchantes coutumes. Quand
-on est dans la presse et dans la foule, il est difficile de ne pas
-céder au torrent qui nous emporte.
-En dernier lieu, parce que les hommes n’agissent que par
-intérêt ; et c’est ce qui fait que ceux mêmes qui se détrompent et
-qui reconnaissent la vanité de ces sortes d’études ne laissent pas
-de s’y appliquer, parce que les honneurs, les dignités et même les
-bénéfices y sont attachés, et que ceux qui y excellent les ont
-toujours plutót que ceux qui les ignorent.
-Toutes ces raisons font, ce me semble, assez comprendre
-pourquoi les hommes suivent aveuglément les opinions anciennes
-comme vraies, et pourquoi ils rejettent sans discernement toutes
-les nouvelles comme fausses ; enfin pourquoi ils ne font point, ou
-presque point d’usage de leur esprit. Il y a sans doute encore un
-fort grand nombre d’autres raisons plus particulières qui
-contribuent à cela ; mais si l’on considère avec attention celles
-que nous avons rapportées, on n’aura pas sujet d’être surpris de
-voir l’entêtement de certaines gens pour l’autorité des anciens.
+There are several causes that contribute to this disorder of mind.
 
+1. The natural laziness of men, who do not wish to give themselves the trouble of meditating.
+
+2. The incapacity to meditate, into which one has fallen for not having applied oneself in youth, when the fibers of the brain were capable of all sorts of inflections.
+
+3. The little love one has for abstract truths, which are the foundation of all that one can know here below.
+
+Fourth, the satisfaction one receives in the knowledge of probabilities, which are very agreeable and very touching, because they are supported by sensible notions.
+
+Fifth, the foolish vanity that makes us wish to be esteemed learned, for those who have the most reading are called learned. Knowledge of opinions is much more useful for conversation and for dazzling common minds than the knowledge of true philosophy, which is learned by meditating.
+
+Sixth, because one imagines without reason that the ancients were more enlightened than we can be, and that there is nothing to do where they have not succeeded.
+
+Seventh, because a false respect mingled with foolish curiosity makes one admire more the things most distant from us, the oldest things, those that come from furthest away, or from more unknown countries, and even the most obscure books. Thus Heraclitus was formerly esteemed for his obscurity. Ancient medals are sought after, although eaten away by rust; and the lantern and slipper of some ancient are carefully preserved, although worm-eaten; their antiquity makes their value. Some people apply themselves to the reading of the rabbis, because they have written in a very corrupt and very obscure foreign language. The oldest opinions are esteemed more, because they are furthest from us. And without doubt, if Nimrod had written the history of his reign, all the finest politics, and even all the other sciences, would be contained in it, just as some find that Homer and Virgil had a perfect knowledge of nature. One must respect antiquity, it is said. What! Aristotle, Plato, Epicurus — these great men would have been mistaken? One does not consider that Aristotle, Plato, Epicurus were men like us, and of the same species as us; and moreover, that in the time in which we live, the world is older by two thousand years, that it has more experience, that it ought to be more enlightened, and that it is the old age of the world and experience that cause truth to be discovered.
+
+Eighth, because when one esteems a new opinion and a contemporary author, it seems that their glory effaces ours, because it is too close to it; but one fears nothing similar from the honor one renders to the ancients.
+
+Ninth, because truth and novelty cannot be found together in matters of faith; for men, not wishing to make a distinction between truths that depend on reason and those that depend on tradition, do not consider that they must be learned in entirely different ways; they confound novelty with error and antiquity with truth. Luther, Calvin, and the others innovated, and they erred. Therefore Galileo, Harvey, Descartes are mistaken in what they say that is new. Luther's impanation is new, and it is false: therefore Harvey's circulation is false, since it is new. It is for this reason also that they indiscriminately call heretics and new philosophers by the odious name of innovators. The ideas and words of truth and antiquity, of falsity and novelty, have been linked to one another: it is done; common men no longer separate them, and even men of intelligence feel some difficulty in separating them properly.
+
+Tenth, because one is in a time in which the knowledge of ancient opinions is still in vogue, and only those who make use of their mind can, by the force of their reason, place themselves above bad customs. When one is in the press and in the crowd, it is difficult not to yield to the torrent that carries one away.
+
+Lastly, because men act only from interest; and this is what causes even those who are undeceived and who recognize the vanity of these sorts of studies nevertheless to apply themselves to them, because honors, dignities, and even benefices are attached to them, and those who excel in them have them always sooner than those who are ignorant of them.
+
+All these reasons, it seems to me, make it sufficiently understandable why men blindly follow ancient opinions as true, and why they reject without discernment all new ones as false; finally, why they make no, or almost no, use of their mind. There are without doubt a very great number of other more particular reasons that contribute to this; but if one considers with attention those we have related, one will have no reason to be surprised to see the obstinacy of certain people for the authority of the ancients.
 

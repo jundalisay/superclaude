@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The Passions"
+title: "The Animal Spirits"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,143 +10,26 @@ date: 2026-06-20
 
 
 
-Que les esprits animaux vont d’ordinaire dans les traces des idées qui nous sont les plus
-familières, ce qui fait qu’on ne juge point sainement des choses.
-Je crois avoir suffisamment expliqué dans les chapitres
-précédents les divers changements qui se rencontrent dans les
-esprits animaux, et dans la constitution des fibres du cerveau,
-selon les différents âges. Ainsi, pourvu qu’on médite un peu ce
-que j’en ai dit, on aura bientôt une connaissance assez distincte
-de l’imagination et des causes physiques les plus ordinaires des
-différences que l’on remarque entre les esprits ; puisque tous les
-changements qui arrivent à l’imagination et à l’esprit, ne sont que
-des suites de ceux qui se rencontrent dans les esprits animaux et
-dans les fibres dont le cerveau est composé.
-Mais il y a plusieurs causes particulières, et qu’on pourrait
-appeler morales, des changements qui arrivent à l’imagination
-des hommes, savoir, leurs différentes conditions, leurs différents
-emplois, en un mot leur différente manière de vivre, à la
-considération desquelles il faut s’attacher ; parce que, ces sortes
-de changements sont cause d’un nombre presque infini d’erreurs,
-chaque personne jugeant des choses par rapport à sa condition.
-On ne croit pas devoir s’arrêter à expliquer les effets de
-quelques causes moins ordinaires, comme des grandes maladies,
-des malheurs surprenants et des autres accidents inopinés, qui
-font des impressions très-violentes dans le cerveau, et même qui
-le bouleversant entièrement, parce que ces choses arrivent
-rarement ; et que les erreurs où tombent ces sortes de personnes
-sont si grossières, qu’elles ne sont point contagieuses, puisque
-tout le monde les reconnaît sans peine.
+The animal spirits ordinarily go into the traces of the ideas that are most familiar to us, which causes us not to judge things soundly.
 
-Afin de comprendre parfaitement tous les changements que les différentes conditions produisent dans l’imagination, il est
-absolument nécessaire de se souvenir que nous n’imaginons les
-objets qu’en nous en formant des images ; et que ces images ne
-sont autre chose que les traces que les esprits animaux font dans
-le cerveau ; que nous imaginons les choses d’autant plus
-fortement que ces traces sont plus profondes et mieux gravées, et
-que les esprits animaux y ont passé plus souvent et avec plus de
-violence ; et que lorsque les esprits y ont passé plusieurs fois, ils
-y entrent avec plus de facilité que dans d’autres endroits tout
-proches, par lesquels ils n’ont jamais passé, ou par lesquels ils
-n’ont point passé si souvent. Ceci est la cause la plus ordinaire
-de la confusion et de la fausseté de nos idées. Car les esprits
-animaux qui ont été dirigés par l’action des objets extérieurs, ou
-même par les ordres de l’àme, pour produire dans le cerveau de
-certaines traces, en produisent souvent d’autres qui à la vérité
-leur ressemblent en quelque chose, mais qui ne sont point tout à
-fait les traces de ces mêmes objets, ni celles que l’âme désirait
-de se représenter ; parce que les esprits animaux trouvant
-quelque résistance dans les endroits du cerveau par où il fallait
-passer, ils se détournent facilement pour entrer en foule dans les
-traces profondes des idées qui nous sont plus familières. Voici
-des exemples fort grossiers et très-sensibles de tout ceci.
-Lorsque ceux qui ont la vue un peu courte regardent la lune, ils
-y voient ordinairement deux yeux, un nez, une bouche, en un mot
-il leur semble qu’ils y voient un visage. Cependant il n’y a rien
-dans la lune de ce qu’ils pensent y voir. Plusieurs personnes y
-voient tout autre chose. Et ceux qui croient que la lune est telle
-qu’elle leur paraît, se détromperont facilement s’ils la regardent
-avec des lunettes d’approche si petites qu’elles soient ; ou s’ils
-consultent les descriptions qu’Hevetius, Riccioli, et d’autres, en
-244
-ont données au public. Or la raison pour laquelle on voit
-ordinairement un visage dans la lune, et non pas les taches
-irrégulières qui y sont, c’est que les traces de visage qui sont
-dans notre cerveau sont très-profondes, à cause que nous
-regardons souvent des visages et avec beaucoup d’attention. De
-sorte que les esprits animaux trouvant de la résistance dans les
-autres endroits du cerveau, ils se détournent facilement de la
-direction que la lumière de la lune leur imprime quand on la
-regarde, pour entrer dans ces traces auxquelles les idées de
-visage sont attachées par la nature. Outre que la grandeur
-apparente de la lune n’étant pas fort différente de celle d’une tète
-ordinaire dans une certaine distance, elle forme par son
-impression des traces qui ont beaucoup de liaison avec celles qui
-représentent un nez, une bouche et des yeux, et ainsi elle
-détermine les esprits à prendre leur cours dans les traces d’un
-visage. Il y en à qui voient dans la lune un homme à cheval, ou
-quelque autre chose qu’un visage ; parce que leur imagination
-ayant été vivement frappée de certains objets, les traces de ces
-objets se rouvrent par la moindre chose qui y a rapport.
-C’est aussi pour cette même raison que nous nous imaginons
-voir des chariots, des hommes, des lions ou d’autres animaux
-dans les nues, quand il y a quelque peu de rapport entre leurs
-figures et ces animaux ; et que tout le monde, et principalement
-ceux qui ont coutume de dessiner, voient quelquefois des têtes
-d’hommes sur des murailles, où il y a plusieurs taches
-irrégulières.
+I have explained the changes that occur in the animal spirits, and in the constitution of the fibers of the brain, according to the different ages.
 
-C’est encore pour cette raison que les esprits de vin entrant
-sans direction de la volonté dans les traces les plus familières,
-font découvrir les secrets de la plus grande importance ; et que quand on dort on songe ordinairement aux objets que l’on a vus
-pendant le jour, qui ont formé de plus grandes traces dans le
-cerveaux parce que l’âme se représente toujours les choses dont
-elle a des traces plus grandes et plus profondes. Voici d’autres
-exemples plus composés.
+Thus, provided one meditates a little on what I have said about them, one will soon have a sufficiently distinct knowledge of the imagination and of the most ordinary physical causes of the differences that are observed between minds; since all the changes that occur in the imagination and in the mind are only consequences of those that occur in the animal spirits and in the fibers of which the brain is composed.
 
-Une maladie est nouvelle : elle fait des ravages qui
-surprennent le monde. Cela imprime des traces si profondes dans
-le cerveau, que cette maladie est toujours présente à l’esprit. Si
-cette maladie est appelée par exemple le scorbut, toutes les
-maladies seront le scorbut. Le scorbut est nouveau, toutes les
-maladies nouvelles seront le scorbut. Le scorbut est accompagné
-d’une douzaine de symptômes, dont il y en aura beaucoup de
-communs à d’autres maladies ; cela n'importe. S’il arrive qu’un
-malade ait quelqu'un de ces symptômes, il sera malade du
-scorbut ; et on ne pensera pas seulement aux autres maladies qui
-ont les mêmes symptômes. On s’attendra que tous les accidents
-qui sont arrivés à ceux qu’on a vus malades du scorbut, lui
-arriveront aussi. On lui donnera les mêmes médecines, et on sera
-surpris de ce qu’elles n’auront pas le même effet qu’on a vu dans
-les autres.
+But there are several particular causes, which might be called moral, of the changes that occur in men's imagination — namely, their different conditions, their different employments, in a word, their different manner of living — to the consideration of which one must apply oneself; because these sorts of changes are the cause of an almost infinite number of errors, each person judging things in relation to his condition.
 
-Un auteur s’applique à un genre d’étude, les traces du sujet de
-son occupation s’impriment si profondément, et rayonnent si
-vivement dans tout son cerveau, qu’elles confondent et qu’elles
-effacent quelquefois les traces de choses même fort différentes. Il
-y en a eu un, par exemple, qui a fait plusieurs volumes sur la
-croix : cela lui a fait voir des croix partout ; et c’est avec raison
-que le Père Morin le raille de ce qu’il croyait qu’une médaille
-représentait une croix, quoiqu’elle représentaât tout autre chose.
-C’est par un semblable tour d’imagination, que Gilbert, et plusieurs autres, après avoir étudié l’aimant, et admiré ses
-propriétés, ont voulu rapporter à des qualités magnétiques, un
-très-grand nombre d’effets naturels, qui n’y ont pas le moindre
-rapport.
+One does not think one should stop to explain the effects of some less ordinary causes, such as great illnesses, surprising misfortunes, and other unexpected accidents, which make very violent impressions in the brain, and even overturn it entirely, because these things happen rarely; and the errors into which these sorts of persons fall are so gross that they are not contagious, since everyone recognizes them without difficulty.
 
-Les exemples qu’on vient d’apporter suffisent pour prouver
-que cette grande facilité, qu’a l’imagination à se représenter les
-objets qui lui sont familiers, et la difficulté qu’elle éprouve à
-imaginer ceux qui lui sont nouveaux, fait que les hommes se
-forment presque toujours des idées, qu’on peut appeler mixtes et
-impures ; et que l’esprit ne juge des choses que par rapport à soimême et à ses premières pensées. Ainsi, les différentes passions
-des hommes, leurs inclinations, leurs conditions, leurs emplois,
-leurs qualités, leurs études, enfin toutes leurs différentes
-manières de vivre, mettant de fort grandes différences dans leurs
-idées, cela les fait tomber dans un nombre infini d’erreurs. que
-nous expliquerons dans la suite. Et c’est ce qui a fait dire au
-chancelier Bacon ces paroles fort judicieuses : Omnes
-perceptiones tam sensus quam mentis sunt ex analogia hominis,
-non ex analogía universi ; estque intellectus humanus instar
-speculi inœqualis ad radios rerum qui suam naturam naturœ
-rerum immiscet, eamque distorquet, et ínficit.
+In order to understand perfectly all the changes that different conditions produce in the imagination, it is absolutely necessary to remember that we imagine objects only by forming images of them; and that these images are nothing other than the traces that the animal spirits make in the brain; that we imagine things the more strongly as these traces are deeper and better engraved, and as the animal spirits have passed through them more often and with more violence; and that when the spirits have passed through them several times, they enter them with more ease than into other nearby places through which they have never passed, or through which they have not passed so often. This is the most ordinary cause of the confusion and falsity of our ideas. For the animal spirits, which have been directed by the action of external objects, or even by the orders of the soul, to produce certain traces in the brain, often produce others that truly resemble them in some way, but which are not entirely the traces of those same objects, nor those that the soul wished to represent to itself; because the animal spirits, finding some resistance in the places of the brain through which they had to pass, easily turn aside to enter in crowds into the deep traces of ideas that are more familiar to us. Here are very gross and very perceptible examples of all this.
 
+When those who have somewhat short sight look at the moon, they ordinarily see there two eyes, a nose, a mouth — in a word, it seems to them that they see a face there. However, there is nothing in the moon of what they think they see. Several persons see something quite different there. And those who believe that the moon is as it appears to them will easily undeceive themselves if they look at it with telescopes, however small they may be; or if they consult the descriptions that Hevelius, Riccioli, and others have given to the public. Now the reason why one ordinarily sees a face in the moon, and not the irregular spots that are there, is that the traces of a face that are in our brain are very deep, because we often look at faces and with much attention. So that the animal spirits, finding resistance in the other places of the brain, easily turn aside from the direction that the light of the moon imprints upon them when one looks at it, to enter into those traces to which the ideas of a face are attached by nature. Besides, the apparent size of the moon not being very different from that of an ordinary head at a certain distance, it forms by its impression traces that have much connection with those that represent a nose, a mouth, and eyes, and thus it determines the spirits to take their course in the traces of a face. There are some who see in the moon a man on horseback, or something other than a face; because their imagination having been vividly struck by certain objects, the traces of these objects are reopened by the least thing that relates to them.
+
+It is also for this same reason that we imagine we see chariots, men, lions, or other animals in the clouds, when there is some slight resemblance between their shapes and these animals; and that everyone, and principally those who are accustomed to drawing, sometimes see men's heads on walls where there are several irregular spots.
+
+It is also for this reason that spirits of wine, entering without direction of the will into the most familiar traces, cause secrets of the greatest importance to be disclosed; and that when one sleeps, one ordinarily dreams of the objects one has seen during the day, which have formed greater traces in the brain, because the soul always represents to itself the things of which it has greater and deeper traces. Here are other more complex examples.
+
+A disease is new: it causes ravages that surprise the world. This imprints traces so deep in the brain that this disease is always present to the mind. If this disease is called, for example, scurvy, all diseases will be scurvy. Scurvy is new, all new diseases will be scurvy. Scurvy is accompanied by a dozen symptoms, many of which will be common to other diseases; that does not matter. If it happens that a sick person has some one of these symptoms, he will be sick with scurvy; and one will not think at all of the other diseases that have the same symptoms. One will expect that all the accidents that happened to those one has seen sick with scurvy will happen to him as well. One will give him the same medicines, and one will be surprised that they do not have the same effect that one saw in the others.
+
+An author applies himself to a genre of study; the traces of the subject of his occupation imprint themselves so deeply, and radiate so vividly throughout his brain, that they confuse and sometimes efface the traces of things even very different. There was one, for example, who made several volumes on the cross: this made him see crosses everywhere; and it is with reason that Father Morin ridicules him for believing that a medal represented a cross, although it represented something quite different. It is by a similar turn of imagination that Gilbert, and several others, after having studied the magnet and admired its properties, wished to refer a very great number of natural effects to magnetic qualities, which have not the least relation to them.
+
+The examples just brought forward suffice to prove that this great facility that the imagination has to represent to itself objects that are familiar to it, and the difficulty it experiences in imagining those that are new to it, causes men almost always to form ideas that may be called mixed and impure; and that the mind judges things only in relation to itself and to its first thoughts. Thus, the different passions of men, their inclinations, their conditions, their employments, their qualities, their studies — finally, all their different manners of living — putting very great differences in their ideas, cause them to fall into an infinite number of errors, which we shall explain in what follows. And this is what made Chancellor Bacon say these very judicious words: *Omnes perceptiones tam sensus quam mentis sunt ex analogia hominis, non ex analogia universi; estque intellectus humanus instar speculi inaequalis ad radios rerum qui suam naturam naturae rerum immiscet, eamque distorquet, et inficit.* [All perceptions, both of sense and of mind, are according to the analogy of man, not according to the analogy of the universe; and the human intellect is like an uneven mirror to the rays of things, which mixes its own nature with the nature of things, and distorts and infects it.]

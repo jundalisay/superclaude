@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Passions"
+title: "The Imagination of Men and Women"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,228 +9,46 @@ date: 2026-06-20
 ---
 
 
+## The imagination of women
+
+We have given some idea of the physical causes of the disorder of men's imagination in the other part; we shall try in this one to make some application of these causes to the most general errors that may be called moral.
+
+One could see from what was said in the preceding chapter that the delicacy of the fibers of the brain is one of the principal causes that prevent us from being able to bring enough application to discover truths that are somewhat hidden.
+
+I. This delicacy of the fibers is ordinarily found in women, and it is this that gives them that great intelligence for everything that strikes the senses. It is for women to decide on fashions, to judge of language, to discern good air and fine manners. They have more knowledge, skill, and subtlety than men in these matters. Everything that depends on taste is within their province, but ordinarily they are incapable of penetrating truths that are somewhat difficult to discover. Everything abstract is incomprehensible to them. They cannot use their imagination to develop composed and entangled questions. They consider only the surface of things, and their imagination has neither enough force nor enough extent to pierce to the bottom of them and to compare all their parts without being distracted. A trifle is capable of diverting them; the least cry frightens them; the smallest movement occupies them. In short, the manner and not the reality of things suffices to fill the whole capacity of their mind, because the least objects producing great movements in the delicate fibers of their brain, they excite by a necessary consequence in their soul feelings vivid and great enough to occupy it entirely.
+
+If it is certain that this delicacy of the fibers of the brain is the principal cause of all these effects, it is not equally certain that it is generally found in all women. Or if it is found in them, their animal spirits sometimes have such a proportion with the fibers of their brain that there are women who have more solidity of mind than some men. It is in a certain temperament of the size and agitation of the animal spirits with the fibers of the brain that the strength of the mind consists, and women sometimes have this just temperament. There are strong and constant women and there are weak and inconstant men. There are learned women, courageous women, women capable of everything, and on the contrary there are soft and effeminate men, incapable of penetrating anything and of executing anything. In short, when we attribute some defects to one sex, to certain ages, to certain conditions, we mean it only ordinarily, always supposing that there are no rules without exception.
+
+For one must not imagine that all men or all women of the same age, or of the same country, or of the same family, have brains of the same constitution. It is more appropriate to believe that as one cannot find two faces that entirely resemble each other, one cannot find two imaginations altogether similar; and that all men, women, and children differ from one another only in more or less in the delicacy of the fibers of their brain. For just as one must not too quickly suppose an essential identity between things between which one sees no difference, one must not place essential differences where one finds no perfect identity. For these are defects into which one ordinarily falls.
+
+What one can therefore say of the fibers of the brain is that ordinarily they are very soft and very delicate in children; that with age they harden and strengthen; that nevertheless most women and some men have them extremely delicate all their lives. One cannot determine anything further. But this is enough about women and children; they do not meddle in seeking truth and instructing others: thus their errors do not cause much prejudice; for they are hardly believed in the things they advance. Let us speak of grown men, of those whose mind is in its force and vigor, and whom one might believe capable of finding truth and teaching it to others.
 
 
-DEUXIÈME PARTIE.
-CHAPITRE PREMIER.
+## The Imagination of men
 
-I. De l'imagínation des femmes. — II. De celle des hommes. — III. De celle des
-vieillards.
+The ordinary time of the greatest perfection of the mind is from thirty to fifty years. The fibers of the brain at this age have ordinarily acquired a moderate consistency. The pleasures and pains of the senses hardly make any impression on them. So that one has no longer to defend oneself except against violent passions, which occur rarely and from which one can shelter oneself, if one carefully avoids all occasions of them. Thus the soul, being no longer diverted by sensible things, can easily contemplate truth.
 
-Nous avons donné quelque idée des causes physiques du
-dérèglement de l’imagination des hommes dans l’autre partie ;
-nous tâcherons dans celle-ci de faire quelque application de ces
-causes aux erreurs les plus générales que l’on peut appeler
-morales.
-On a pu voir par les choses qu’on a dites dans le chapitre
-précédent que la délicatesse des fibres du cerveau est une des principales causes qui nous empêchent de pouvoir apporter assez
-d’application pour découvrir les vérités un peu cachées.
+A man in this state, who would not be filled with the prejudices of childhood, who from his youth would have acquired facility for meditation, who would wish to stop only at clear and distinct notions of the mind, who would carefully reject all the confused ideas of the senses, and who would have the time and the will to meditate, would no doubt fall into error only with difficulty. But it is not of this man that we must speak; it is of ordinary men, who ordinarily have nothing of this one.
 
-I. Cette délicatesse des fibres se rencontre ordinairement dans
-les femmes, et c’est ce qui leur donne cette grande intelligence
-pour tout ce qui frappe les sens. C’est aux femmes à décider des
-modes, à juger de la langue, à discerner le bon air et les belles
-manières. Elles ont plus de science, d’habileté et de finesse que
-les hommes sur ces choses. Tout ce qui depend du goùt est de
-leur ressort, mais pour l’ordinaire elles sont incapables de
-pénétrer les vérités un peu difficiles à découvrir. Tout ce qui est
-abstrait leur est incompréhensible. Elles ne peuvent se servir de
-leur imagination pour développer des questions composées et
-embarrassées. Elles ne considèrent que l’écorce des choses, et
-leur imagination n’a point assez de force et d’étendue pour en
-percer le fond et pour en comparer toutes les parties sans se
-distraire. Une bagatelle est capable de les détourner ; le moindre
-cri les effraie ; le plus petit mouvement les occupe. Enfin la
-manière et non la réalité des choses suffit pour remplir toute la
-capacité de leur esprit, parce que les moindres objets produisant
-de grands mouvements dans les fibres délicates de leur cerveau,
-elles excitent par une suite nécessaire dans leur âme des
-sentiments assez vifs et assez grands pour l’occuper tout entière.
-S’il est certain que cette délicatesse des fibres du cerveau est
-la principale cause de tous ces effets, il n’est pas de même
-certain qu’elle se rencontre généralement dans toutes les femmes.
-Ou si elle s’y rencontre, leurs esprits animaux ont quelquefois
-une telle proportion avec les fibres de leur cerveau, qu’il se
-trouve des femmes qui ont plus de solidité d’esprit que quelques
-hommes. C’est dans un certain tempérament de la grosseur et de l’agitation des esprits animaux avec les fibres du cerveau que
-consiste la force de l’esprit, et les femmes ont quelquefois ce
-juste tempérament. Il y a des femmes fortes et constantes et il y a
-des hommes faibles et inconstants. Il y a des femmes savantes,
-des femmes courageuses, des femmes capables de tout, et il se
-trouve au contraire des hommes mous et efféminés, incapables de
-rien pénétrer et de rien exécuter. Enfin quand nous attribuons
-quelques défauts à un sexe, à certains âges, à certaines
-conditions, nous ne l’entendons que pour l’ordinaire, en
-supposant toujours qu’il n’y a point de règles sans exception.
+I say therefore that the solidity and consistency that is found with age in the fibers of men's brains makes the solidity and consistency of their errors, if one may speak thus. It is the seal that seals their prejudices and all their false opinions, and that shelters them from the force of reason. In short, as much as this constitution of the fibers of the brain is advantageous to well-educated persons, so much is it disadvantageous to the greater part of men, since it confirms both one and the other in the thoughts they have.
 
-Car il ne faut pas s’imaginer que tous les hommes ou toutes les
-femmes de même âge, ou de même pays, ou de même famille,
-aient le cerveau de même constitution. Il est plus à propos de
-croire que comme on ne peut trouver deux visages qui se
-ressemblent entièrement, on ne peut trouver deux imaginations
-tout à fait semblables ; et que tous les hommes, les femmes et les
-enfants ne diffèrent entre eux que du plus et du moins dans la
-délicatesse des fibres de leur cerveau. Car de même qu’il ne faut
-pas supposer trop vite une identité essentielle entre des choses
-entre lesquelles on ne voit point de différence, il ne faut pas
-mettre aussi des différences essentielles où on ne trouve pas de
-parfaite identité. Car ce sont là des-défauts où l’on tombe
-ordinairement.
+But men are not only confirmed in their errors when they have reached the age of forty or fifty. They are still more subject to falling into new ones, because believing themselves then capable of judging everything, as indeed they should be, they decide with presumption and consult only their prejudices, for men reason about things only in relation to the ideas that are most familiar to them. When a chemist wishes to reason about some natural body, his three principles come first to his mind. A Peripatetic thinks first of the four elements and the four primary qualities, and another philosopher refers everything to other principles. Thus nothing can enter a man's mind that is not immediately infected with the errors to which he is subject and that does not increase their number.
 
-Ce qu’on peut donc dire des fibres du cerveau, c’est que
-d’ordinaire elles sont très-molles et très-délicates dans les
-enfants ; qu’avec l’âge elles se durcissent et se fortifient ; que
-cependant la plupart des femmes et quelques hommes les ont
-toute leur vie extrêmement délicates. On ne saurait rien
-déterminer davantage. Mais c’est assez parler des femmes et des enfants ; ils ne se mêlent pas de rechercher la vérité et d’en
-instruire les autres : ainsi leurs erreurs ne portent pas beaucoup
-de préjudice ; car on ne les croit guère dans les choses qu’ils
-avancent. Parlons des hommes faits, de ceux dont l’esprit est
-dans sa force et dans sa vigueur, et que l’on pourrait croire
-capables de trouver la vérité et de l’enseigner aux autres.
-II. Le temps ordinaire de la plus grande perfection de l’esprit
-est depuis trente jusqu’à cinquante ans. Les fibres du cerveau en
-cet âge ont acquis pour l’ordinaire une consistance médiocre. Les
-plaisirs et les douleurs des sens ne font presque plus
-d’impression sur elles. De sorte qu’on n’a plus à se défendre que
-des passions violentes qui arrivent rarement et desquelles on peut
-se mettre à couvert, si on en évite avec soin toutes les occasions.
-Ainsi l’âme n’étant plus divertie par les choses sensibles, elle
-peut contempler facilement la vérité.
+This consistency of the fibers of the brain has another very bad effect, principally in older persons, which is to render them incapable of meditation. They cannot bring attention to most of the things they wish to know, and thus they cannot penetrate truths that are somewhat hidden. They cannot relish the most reasonable sentiments when they are supported by principles that seem new to them, although they are otherwise very intelligent in things of which age has given them much experience. But all that I say here is understood only of those who have passed their youth without making use of their mind and without applying themselves.
 
-Un homme dans cet état et qui ne serait point rempli des
-préjugés de l’enfance, qui dès sa jeunesse aurait acquis de la
-facilité pour la méditation, qui ne voudrait s’arrêter qu’aux
-notions claires et distinctes de l’esprit, qui rejetterait
-soigneusement toutes les idées confuses des sens et qui aurait le
-temps et la volonté de méditer, ne tomberait sans doute que
-difficilement dans l’erreur. Mais ce n’est pas de cet homme dont
-il faut parler, c’est des hommes du commun qui n’ont pour
-l’ordinaire rien de celui-ci.
+To clarify these things, one must know that we cannot learn anything if we do not bring attention to it, and that we can hardly be attentive to something if we do not imagine it and do not represent it vividly in our brain. Now, in order that we may imagine some objects, it is necessary that we bend some part of our brain, or that we imprint upon it some other movement, so as to be able to form the traces to which are attached the ideas that represent these objects to us. So that if the fibers of the brain have become somewhat hardened, they will be capable only of the bending and movements that they had formerly; and thus the soul will not be able to imagine, nor consequently to be attentive to what it wished, but only to things that are familiar to it.
 
-Je dis donc que la solidité et la consistance qui se rencontre
-avec l’âge dans les fibres du cerveau des hommes, fait la solidité
-et la consistance de leurs erreurs, s’il est permis de parler ainsi.
-C’est le sceau qui scelle leurs préjugés et toutes leurs fausses
-opinions, et qui les met à couvert de la force de la raison. Enfin, autant que cette constitution des fibres du cerveau est avantageuse
-aux personnes bien élevées, autant elle est désavangeuse à la plus
-grande partie des hommes, puisqu’elle confirme les uns et les
-autres dans les pensées où ils sont.
+From this one must conclude that it is very advantageous to exercise oneself in meditating on all sorts of subjects, in order to acquire a certain facility for thinking about what one wishes. For just as we acquire a great facility for moving the fingers of our hands in every way and with very great speed by the frequent use we make of them in playing instruments; so the parts of our brain, whose movement is necessary for imagining what we wish, acquire by use a certain facility for bending that makes one imagine the things one wishes with much facility, quickness, and even clarity.
 
-Mais les hommes ne sont pas seulement confirmés dans leurs
-erreurs quand ils sont venus à l’âge de quarante ou de cinquante
-ans. Ils sont encore plus sujets à tomber dans de nouvelles, parce
-que se croyant alors capables de juger de tout, comme en effet ils
-le devraient être, ils décident avec présomption et ne consultent
-que leurs préjugés, car les hommes ne raisonnent des choses que
-par rapport aux idées qui leur sont les plus familières. Quand un
-chimiste veut raisonner de quelque corps naturel, ses trois
-principes lui viennent d’abord en l’esprit. Un péripatéticien
-pense d’abord aux quatre éléments et aux quatre premières
-qualités, et un autre philosophe rapporte tout à d’autres principes.
-Ainsi il ne peut entrer dans l’esprit d’un homme rien qui ne soit
-incontinent infecté des erreurs auxquelles il est sujet et qui n’en
-augmente le nombre.
+Now, the best means of acquiring this habit, which makes the principal difference between one man of wit and another, is to accustom oneself from youth to seek the truth of even very difficult things, because at that age the fibers of the brain are capable of all sorts of inflections.
 
-Cette consistance des fibres du cerveau a encore un trèsmauvais effet, principalement dans les personnes plus âgées, qui
-est de les rendre incapables de méditation. Ils ne peuvent
-apporter d’attention à la plupart des choses qu’ils veulent savoir,
-et ainsi ils ne peuvent pénétrer les vérités un peu cachées. Ils ne
-peuvent goûter les sentiments les plus raisonnables lorsqu’ils
-sont appuyés sur des principes qui leur paraissent nouveaux,
-quoiqu’ils soient d’ailleurs fort intelligents dans les choses dont
-l’âge leur a donné beaucoup d’expérience. Mais tout ce que je
-dis ici ne s’entend que de ceux qui ont passé leur jeunesse sans
-faire usage de leur esprit et sans s’appliquer.
+I do not pretend, nevertheless, that this facility can be acquired by those who are called studious persons, who apply themselves only to reading without meditating and without seeking by themselves the resolution of questions before reading it in the authors. It is quite visible that by this route one acquires only the facility of remembering things one has read. One observes every day that those who have much reading cannot bring attention to new things that are told to them, and that the vanity of their erudition, leading them to wish to judge them before conceiving them, makes them fall into gross errors of which other men are not capable.
 
-Pour éclaircir ces choses il faut savoir que nous ne pouvons
-apprendre quoi que ce soit si nous n’y apportons de l’attention, et
-que nous ne saurions guère être attentifs à quelque chose si nous
-ne l’imaginons et si nous ne nous la représentons vivement dans
-notre cerveau. Or afin que nous puissions imaginer quelques
-objets il est nécessaire que nous fassions plier quelque partie de
-notre cerveau, ou que nous lui imprimions quelque autre
-mouvement pour pouvoir former les traces auxquelles sont
-attachées les idées qui nous représentent ces objets. De sorte que
-si les fibres du cerveau se sont un peu durcies, elles ne seront
-capables que de l’inclination et des mouvements qu’elles auront
-eus autrefois ; et ainsi l’âme ne pourra imaginer ni par
-conséquent être attentive à ce qu’elle voulait, mais seulement aux
-choses qui lui sont familières.
-
-De là il faut conclure qu’il est très-avantageux de s’exercer à
-méditer sur toutes sortes de sujets afin d’acquérir une certaine
-facilité de penser à ce qu’on veut. Car de même que nous
-acquérons une grande facilité de remuer les doigts de nos mains
-en toute manière et avec une très-grande vitesse par le fréquent
-usage que nous en faisons en jouant des instruments ; ainsi les
-parties de notre cerveau, dont le mouvement est nécessaire pour
-imaginer ce que nous voulons, acquièrent par l’usage une certaine
-facilité à se plier qui fait que l’on imagine les choses que l’on
-veut avec beaucoup de facilité, de promptitude et même de
-netteté.
-
-Or, le meilleur moyen d’acquérir cette habitude qui fait la
-principale différence d’un homme d’esprit d’avec un autre, c’est
-de s’accoutumer dès sa jeunesse à chercher la vérité des choses
-même fort difficiles, parce qu’en cet âge les fibres du cerveau sont capables de toutes sortes d’inflexions.
-Je ne prétends pas néanmoins que cette facilité se puisse
-acquérir par ceux qu’on appelle gens d’étude, qui ne s’appliquent
-qu’à lire sans méditer et sans rechercher par eux-mêmes la
-résolution des questions avant que de la lire dans les auteurs. Il
-est assez visible que par cette voie l’on n’acquiert que la facilité
-de se souvenir des choses qu’on a lues. On remarque tous les
-jours que ceux qui ont beaucoup de lecture ne peuvent apporter
-d’attention aux choses nouvelles dont on leur parle, et que la
-vanité de leur érudition, les portant à en vouloir juger avant que
-de les concevoir, les fait tomber dans des erreurs grossières dont
-les autres hommes ne sont pas capables.
-
-Mais quoique le défaut d’attention soit la principale cause de
-leurs erreurs, il y en a encore une qui leur est particulière ; c’est
-que trouvant toujours dans leur mémoire une infinité d’espèces
-confuses, ils en prennent d’abord quel qu’une qu’ils considèrent
-comme celle dont il est question : et parce que les choses qu’on
-dit ne lui conviennent pas ils jugent ridiculement qu’on se
-trompe. Quand on veut leur représenter qu’ils se trompent euxmêmes et qu’ils ne savent pas seulement l’état de la question, ils
-s’irritent ; et ne pouvant concevoir ce qu’on leur dit, ils
-continuent de s’attacher à cette fausse espèce que leur mémoire
-leur a présentée. Si on leur en montre trop manifestement la
-fausseté, ils en substituent une seconde et une troisième qu’ils
-défendent quelquefois contre toute apparence de vérité et même
-contre leur propre conscience, parce qu’ils n’ont guère de
-respect ni d’amour pour la vérité et qu’ils ont beaucoup de
-confusion et de honte à reconnaître qu’il y a des choses qu’on sait
-mieux qu’eux.
+But although the lack of attention is the principal cause of their errors, there is still another that is particular to them; it is that, always finding in their memory an infinity of confused species, they at once take some one of them that they consider as the one in question; and because the things that are said do not suit it, they ridiculously judge that one is mistaken. When one wishes to represent to them that they themselves are mistaken and that they do not even know the state of the question, they become irritated; and being unable to conceive what is said to them, they continue to attach themselves to this false species that their memory has presented to them. If one shows them too manifestly its falsity, they substitute a second and a third, which they defend sometimes against all appearance of truth and even against their own conscience, because they have hardly any respect or love for truth and they have much confusion and shame in recognizing that there are things that others know better than they.
 
 
+## THe Imagination of the elderly.
 
-III. Tout ce qu’on a dit des personnes de quarante et de
-cinquante ans, se doit encore entendre avec plus de raison des
-vieillards ; parce que les fibres de leur cerveau sont encore plus
-inflexibles, et que, manquant d’esprits animaux pour y tracer de
-nouveaux vestiges, leur imagination est toute languissante. Et
-comme d’ordinaire les fibres de leur cerveau sont mêlées avec
-beaucoup d’humeurs superflues, ils perdent peu à peu la mémoire
-des choses passées, et tombent dans les faiblesses ordinaires aux
-enfants. Ainsi, dans l’âge décrépit, ils ont les défauts qui
-dépendent de la constitution des fibres du cerveau, lesquels se
-rencontrent dans les enfants et dans les hommes faits ; quoique
-l’on puisse dire qu’ils sont plus sages que les uns et les autres, à
-cause qu’ils ne sont plus si sujets à leurs passions, qui viennent
-de l’émotion des esprits animaux.
+All that has been said of persons of forty and fifty must be understood still more reasonably of the elderly; because the fibers of their brain are still more inflexible, and, lacking animal spirits to trace new vestiges there, their imagination is quite languishing. And as ordinarily the fibers of their brain are mixed with many superfluous humors, they lose little by little the memory of past things, and fall into the weaknesses ordinary to children. Thus, in decrepit age, they have the defects that depend on the constitution of the fibers of the brain, which are found in children and in grown men; although one can say that they are wiser than the one and the other, because they are no longer so subject to their passions, which come from the emotion of the animal spirits.
 
-On n’expliquera pas ces choses davantage, parce qu’il est
-facile de juger de cet âge par les autres dont on a parlé
-auparavant, et de conclure que les vieillards ont encore plus de
-difficulté que tous les autres à concevoir ce qu’on leur dit ; qu’ils
-sont plus attachés à leurs préjugés et à leurs anciennes opinions ;
-et par conséquent qu’ils sont encore plus confirmés dans leurs
-erreurs et dans leurs mauvaises habitudes, et autres choses
-semblables. On avertit seulement, que l’état du vieillard n’arrive
-pas précisément à soixante ou soixante-dix ans ; que tous les
-vieillards ne radotent pas ; que tous ceux qui ont passé soixante
-ans ne sont pas toujours délivrés des passions des jeunes gens, et
-qu’il ne faut pas tirer des conséquences trop générales des
-principes que l’on a établis.
-
+These things will not be explained further, because it is easy to judge of this age by the others that have been spoken of before, and to conclude that the elderly have even more difficulty than all others in conceiving what is said to them; that they are more attached to their prejudices and their ancient opinions; and consequently that they are still more confirmed in their errors and their bad habits, and other similar things. It is only warned that the state of old age does not arrive precisely at sixty or seventy years; that not all the elderly dote; that not all those who have passed sixty are always delivered from the passions of young men; and that one must not draw too general consequences from the principles that one has established.
