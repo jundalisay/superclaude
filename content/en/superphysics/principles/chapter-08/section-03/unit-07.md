@@ -1,9 +1,9 @@
 ---
-heading: "Unit 1b"
+heading: "Unit 7"
 title: "Relationality: Math Versus Supermath"
 # Math for Qualities and Ratios" more than Quantities and Equalities"  Qualimath: The Maths for Superphysics
 date: 2020-12-27
-weight: 494
+weight: 13
 image: "/graphics/physics/math.jpg" 
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 icon: "Juan"

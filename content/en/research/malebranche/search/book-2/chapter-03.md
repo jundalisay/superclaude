@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3
-title: "The Passions"
+title: "Whether the air we breathe also causes some change in the mind"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,72 +9,24 @@ date: 2026-06-20
 ---
 
 
-Que l’air qu’on respire cause aussi quelque changement dans les esprits.
-La seconde cause générale des changements qui arrivent dans
-les esprits animaux est l’air que nous respirons. Car quoiqu’il ne
-fasse pas d’abord des impressions si sensibles que le chyle,
-cependant il fait à la longue ce que les sucs des viandes font en
-peu de temps. Cet air entre des branches de la trachée-artère dans
-celles de l’artère veineuse : de là il se mêle et se fermente avec
-le reste du sang dans le cœur ; et selon sa disposition particulière
-et celle du sang, il produit de très-grands changements dans les
-esprits animaux, et par conséquent dans la faculté d’imaginer.
-Je sais qu’il y a quelques personnes qui ne croient pas que
-l’air se mêle avec le sang dans les poumons et dans le cœur,
-parce qu’ils ne peuvent découvrir avec leurs yeux, dans les
-branches de la trachée-artère et dans celles de l’artère veineuse,
-les passages par où cet air se communique. Mais il ne faut pas que l’action de l’esprit s’arrête avec celle des sens ; il peut
-pénétrer ce qui leur est impénétrable et s’attacher à des choses
-qui n’ont point de prise pour eux. Il est indubitable qu’il passe
-continuellement quelques parties du sang des branches de la
-veine artérieuse dans celles de la trachée-artère ; l’odeur et
-l’humidité de l’haleine le prouvent assez ; et cependant les
-passages de cette communication sont imperceptibles. Pourquoi
-donc les parties subtiles de l’air ne pourraient-elles pas passer
-des branches de la trachée-artère dans l’artere veineuse quoique
-les passages de cette communication ne soient pas visibles. Enfin
-il se transpire beaucoup plus d’humeurs par les pores
-imperceptibles des artères et de la peau qu’il n’en sort par les
-autres passages du corps, et les métaux même les plus solides
-n’ont point de pores si étroits qu’il ne se rencontre encore dans la
-nature, des corps assez petits pour y trouver le passage libre,
-puisque autrement ces pores se fermeraient.
 
-Il est vrai que les parties grossières et branchues de l’air ne
-peuvent point passer par les pores ordinaires des corps, et que
-l’ean même, quoique fort-grossière, peut se glisser par des
-chemins où cet air est obligé de s’arrêter. Mais on ne parle pas
-ici de ces parties les plus grossières de l’aír ; elles sont, ce
-semble, assez inutiles pour la fermentation. On ne parle que des
-plus petites, parties roides, piquantes, et qui n’ont que fort peu de
-branches qui les puissent arrêter, parce que ce sont apparemment
-les plus propres pour la fermentation du sang.
+The second general cause of the changes that occur in the animal spirits is the air we breathe. For although it does not at first make impressions as noticeable as chyle, nevertheless in the long run it does what the juices of meat do in a short time. 
 
-Je pourrais cependant assurer, sur le rapport de Silvius, que
-l’air même le plus grossier passe de la trachée-artère dans le
-cœur, puisqu’il assure lui-même qu’il l’y a vu passer par
-l’adresse de M. Swammerdam. Car il est plus raisonnable de croire un homme qui dit avoir vu, qu’un million d’autres qui
-parlent en l’air. Il est donc certain que les parties les plus
-subtiles de l’air que nous respirons entrent dans notre cœur ;
-qu’elles y entretiennent avec le sang et le chyle la chaleur qui
-donne la vie et les mouvements à notre corps, et que, selon leurs
-différentes qualités, elles apportent de grands changements dans
-la fermentation du sang et dans les esprits animaux.
+This air enters from the branches of the trachea into those of the venous artery; from there it mixes and ferments with the rest of the blood in the heart; and according to its particular disposition and that of the blood, it produces very great changes in the animal spirits, and consequently in the faculty of imagination.
 
-On reconnaît tous les jours la vérité de ceci par les diverses
-humeurs, et les différens caractères d’esprit des personnes de
-différents pays. Les Gascons, par exemple, ont l’imagination bien
-plus vive que les Normands. Ceux de Rouen et de Dieppe et les
-Picards diffèrent tous entre eux, et encore bien plus des BasNormands, quoiqu’ils soient assez proches les uns des autres.
-Mais si on considère les hommes qui vivent dans des pays plus
-éloignés, on y rencontrera des différences encore bien plus
-étranges, comme entre un Italien et un Flamand ou un Hollandais.
-Enfin il y a des lieux renommés de tout temps par la sagesse de
-leurs habitants, comme Theman et Athènes
+I know that there are some people who do not believe that air mixes with the blood in the lungs and in the heart, because they cannot discover with their eyes, in the branches of the trachea and in those of the venous artery, the passages through which this air communicates. But the action of the mind must not stop with that of the senses; it can penetrate what is impenetrable to them and attach itself to things that have no hold for them.
 
-; et d’autres pour
-leur stupidité. comme Thèbes, Abdère et quelques autres.
-Athenis tenue cœlum, ex quo acutiores etiam putantur Attici ; crassum Thebis.
-(Cic., De fato.)
-Abderitanœ pectora plebis habes. (Mart.)
-Bœotum in crasso jurares aere natum. (Hor.)
+It is indubitable that some parts of the blood continually pass from the branches of the arterial vein into those of the trachea; the odor and humidity of the breath prove this sufficiently; and yet the passages of this communication are imperceptible. Why then could the subtle parts of the air not pass from the branches of the trachea into the venous artery, even though the passages of this communication are not visible? Finally, much more fluid is transpired through the imperceptible pores of the arteries and the skin than exits through the other passages of the body, and even the most solid metals have no pores so narrow that there are not still bodies in nature small enough to find free passage through them, since otherwise these pores would close.
+
+The coarse and branched parts of the air cannot pass through the ordinary pores of bodies, and that even water, although quite coarse, can slip through paths where this air is obliged to stop. But we are not speaking here of the coarsest parts of the air; they seem quite useless for fermentation. We speak only of the smallest parts, stiff, sharp, and with very few branches to stop them, because they are apparently the most suitable for the fermentation of the blood.
+
+I could however assure, based on the report of Silvius, that even the coarsest air passes from the trachea into the heart, since he himself assures that he saw it pass there through the skill of Mr. Swammerdam. For it is more reasonable to believe a man who says he has seen than a million others who speak idly. It is therefore certain that the most subtle parts of the air we breathe enter our heart; that they maintain there with the blood and the chyle the heat that gives life and movement to our body; and that, according to their different qualities, they bring great changes in the fermentation of the blood and in the animal spirits.
+
+The truth of this is recognized every day by the various humors and the different characters of mind of people from different countries. The Gascons, for example, have much livelier imaginations than the Normans. Those of Rouen and Dieppe and the Picards all differ among themselves, and even more from the Lower Normans, although they are fairly close to one another. But if we consider men who live in more distant countries, we will encounter differences even more striking, such as between an Italian and a Fleming or a Dutchman. Finally, there are places renowned throughout time for the wisdom of their inhabitants, such as Thebes and Athens; and others for their stupidity, such as Thebes (in Egypt), Abdera, and some others.
+
+*Athenis tenue cœlum, ex quo acutiores etiam putantur Attici; crassum Thebis.* (Cic., *De fato.*) — "The sky of Athens is thin, from which the Athenians are even thought to be sharper; that of Thebes is thick."
+
+*Abderitanœ pectora plebis habes.* (Mart.) — "You have the hearts of the Abderite crowd."
+
+*Bœotum in crasso jurares aere natum.* (Hor.) — "You would swear he was born of the thick air of Boeotia."
+

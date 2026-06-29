@@ -1,9 +1,9 @@
 ---
-heading: "Section 5"
+heading: "Unit 8"
 title: "Qualimath: Solves the Measurement Problem"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
-weight: 502
+weight: 16
 image: "/photos/physics/phoenix.jpg"
 description: "Decon Notation helps make ratios understandable"
 icon: "Superphysics"

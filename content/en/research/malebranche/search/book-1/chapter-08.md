@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8
-title: "The Passions"
+title: "Motion as the Effect"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,18 +9,43 @@ date: 2026-06-20
 ---
 
 
-We have discovered the principal and most general errors of our sight with respect to extension and shapes; we must now correct those into which this same sight leads us concerning the motion of matter. And this will hardly be difficult after what we have said about extension; for there is so much relation between these two things that if we are mistaken in the magnitude of bodies, it is absolutely necessary that we are also mistaken in their motion.
+We have discovered the principal and most general errors of our sight with respect to extension and shapes.
 
-But in order to say nothing but what is clear and distinct, we must first remove the ambiguity of the word "motion"; for this term ordinarily signifies two things: the first is a certain force that one imagines in the moving body which is the cause of its motion; the second is the continual transport of a body moving away from or approaching another body that one considers as being at rest.
+We must now correct those into which this same sight leads us concerning the motion of matter.
 
-When, for example, one says that a ball has communicated its motion to another, the word "motion" is taken in the first signification; but if one simply says that one sees a ball in great motion, it is taken in the second. In a word, this term "motion" signifies both the cause and the effect together, which are however two entirely different things.
+This will be easy because there is so much relation between extension and motion that if we are mistaken in the size of bodies, then we are also mistaken in their motion.
 
-It seems to me that one is in very gross and even very dangerous errors concerning the force that gives motion and transports bodies. These fine terms of "nature" and "impressed qualities" seem fit only to conceal the ignorance of false scholars and the impiety of libertines, as would be easy to prove. But this is not the place to speak of this force that moves bodies; it is nothing visible, and I speak here only of the errors of our eyes. I postpone this to the proper time [14].
-
-Motion taken in the second sense, and for that transport of a body moving away from another, is something visible and is the subject of this chapter.
+<!-- But in order to say nothing but what is clear and distinct, we must first remove the ambiguity of the word "motion"; for this term -->
 
 
-## our eyes do not teach us the magnitude or speed of motion considered in itself
+The word "motion" ordinarily signifies 2 things:
+
+1. A certain force that one imagines in the moving body which is the cause of its motion [cause]
+
+This is used When we say that a ball has communicated its motion to another.
+
+2. The continual transport of a body moving away from or approaching another body at rest [effect]
+
+This is used if we simply say that a ball is in motion
+
+
+"Motion" thus signifies both the cause and the effect together, which are however two entirely different things.
+
+{{< n n="This is also the same for the word karma which means both action and reaction (or action by the other body)" >}}
+
+
+It seems to me that one is in very gross and even very dangerous errors concerning the force that gives motion and transports bodies. 
+
+These fine terms of "nature" and "impressed qualities" seem fit only to conceal the ignorance of false scholars and the impiety of libertines, as would be easy to prove. But this is not the place to speak of this force that moves bodies; it is nothing visible, and I speak here only of the errors of our eyes. 
+
+<!-- I postpone this to the proper time [14]. -->
+
+This chapter will talk about motion as the effect. 
+
+ <!-- taken in the second sense, and for that transport of a body moving away from another, is something visible and is the subject of . -->
+
+
+## Our eyes do not teach us the magnitude or speed of motion considered in itself
 
 Chapter 6 explained that our sight does not make us know the magnitude of bodies in themselves, but only the relation they have to one another, and principally to our own. From which I conclude that we cannot know the true or absolute magnitude of their motions either, that is to say of their speed and slowness, but only the relation that these motions have to one another, and principally to that which ordinarily occurs to our body; which I prove as follows:
 

@@ -1,502 +1,107 @@
 ---
 heading: Chapter 5
-title: "De la liaison des idées de l’esprit avec les traces du cerveau"
+title: "Memory and Habits"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 7
+weight: 17
 date: 2026-06-20
 --- 
 
 
-I. De la liaison des idées de l’esprit avec les traces du cerveau. — II. De la liaison
-réciproque qui est entre ces traces. — III. De la mémoire. — IV. Des habitudes.
-De toutes les choses matérielles, il n’y en a point de plus digne
-de l’application des hommes que la structure de leur corps et que
-la correspondance qui est entre toutes les parties qui le
-composent ; et de toutes les choses spirituelles, il n’y en a point
-dont la connaissance leur soit plus nécessaire que celle de leur
-âme, et de tous les rapports qu’elle a indispensablement avec
-Dieu, et naturellement avec le corps.
-Il ne suffit pas de sentir ou de connaître confusément que les
-traces du cerveau sont liées les unes avec les autres, et qu’elles
-sont suivies du mouvement des esprits animaux ; que les traces
-réveillées dans le cerveau réveillent des idées dans l’esprit, et
-que des mouvements excités dans les esprits animaux excitent des
-passions dans la volonté. Il faut autant qu’on le peut savoir
-distinctement la cause de toutes ces liaisons différentes, et
-principalement les effets qu’elles sont capables de produire.
 
-Il en faut connaître la cause, parce qu’il faut connaître celui
-qui seul est capable d’agir en nous et de nous rendre heureux ou
-malheureux ; et il en faut connaître les effets parce qu’il faut nous
-connaître nous-mêmes autant que nous le pouvons, et les autres
-hommes avec qui nous devons vivre. Alors nous saurons les
-moyens de nous conduire et de nous conserver nous-mêmes dans
-l’état le plus heureux et le plus parfait où l’on puisse parvenir,
-selon l’ordre de la nature et selon les règles de l’Évangile ; et
-nous pourrons vivre avec les autres hommes, en connaissant
-exactement et les moyens de nous en servir dans nos besoins, et
-ceux de les aider dans leurs misères.
+Of all material things, there is none more worthy of human attention than the structure of our body and the correspondence between all the parts that compose it; and of all spiritual things, there is none whose knowledge is more necessary to us than that of our soul, and of all the relations it has indispensably with God, and naturally with the body.
 
-Je ne prétends pas expliquer dans ce chapitre un sujet si vaste
-et si étendu. Je ne prétends pas même de le faire entièrement dans
-tout cet ouvrage. Il y a beaucoup de choses que je ne connais pas
-encore, et que je n’espère pas de bien connaître ; et il y en a
-quelques-unes que je crois savoir, et que je ne puis expliquer.
-Car il n’y a point d’esprit si petit qu’il soit qui ne puisse en
-méditant découvrir plus de vérités que l’homme du monde le plus
-éloquent n’en pourrait déduire.
+It is not enough to feel or to know confusedly that the traces of the brain are linked to one another, and that they are followed by the movement of the animal spirits; that traces awakened in the brain awaken ideas in the mind, and that movements excited in the animal spirits excite passions in the will. We must, as far as possible, know distinctly the cause of all these different connections, and especially the effects they are capable of producing.
 
-I. Il ne faut pas s’imaginer, comme la plupart des philosophes,
-que l’esprit devient corps lorsqu’il s’unit au corps, et que le
-corps devient esprit lorsqu’il s’unit à l’esprit. L’âme n’est point
-répandue dans toutes les parties du corps afin de lui donner la vie
-et le mouvement, comme l’imagination se le figure ; et le corps ne
-devient point capable de sentiment par l’union qu’il a avec
-l’esprit, comme nos sens faux et trompeurs semblent nous en
-convaincre., Chaque substance demeure ce qu’elle est ; et comme
-l’âme n’est point capable d’étendue et de mouvements, le corps
-n’est point capable de sentiment et d’inclinations. Toute l’alliance de l’esprit et du corps qui nous est connue consiste
-dans une correspondance naturelle et mutuelle des pensées de
-l’âme avec les traces du cerveau, et des émotions de l’âme avec
-les mouvements des esprits animaux.
+We must know their cause, because we must know Him who alone is capable of acting within us and of making us happy or unhappy; and we must know their effects because we must know ourselves as much as we can, and other men with whom we must live. Then we shall know the means to conduct ourselves and to preserve ourselves in the happiest and most perfect state one can attain, according to the order of nature and according to the rules of the Gospel; and we shall be able to live with other men, knowing exactly both the means of using them in our needs, and those of helping them in their miseries.
 
-Dès que l’âme reçoit quelques nouvelles idées, il s’imprime
-dans le cerveau de nouvelles traces : et dès que les objets
-produisent de nouvelles traces, l’âme reçoit de nouvelles idées.
-Ce n’est pas qu’elle considère ces traces, puisqu’elle n’en a
-aucune connaissance ; ni que ces traces renferment ces idées,
-puisqu’elles n’y ont aucun rapport ; ni enfin qu’elle reçoive ses
-idées de ces traces, car, comme nous expliquerons ailleurs, il
-n’est pas concevable que l’esprit reçoive quelque chose du
-corps, et qu’il devienne plus éclairé qu’il n’est en se tournant
-vers lui, ainsi que les philosophes le prétendent, qui veulent que
-ce soit par conversion aux fantômes ou aux traces du cerveau, per
-conversionem ad phantasmata, que l’esprit aperçoive toutes
-choses.
+I do not pretend to explain in this chapter such a vast and extensive subject. I do not even pretend to do so entirely throughout this whole work. There are many things I do not yet know, and which I do not hope to know well; and there are some things I believe I know, but cannot explain. For there is no mind so small that it cannot, by meditating, discover more truths than the most eloquent man in the world could deduce.
 
-De même, dès que l’âme veut que le bras soit mu, le bras est
-mu, quoiqu’elle ne sache pas seulement ce qu’il faut faire pour le
-remuer ; et dès que les esprits animaux sont agités l’âme se
-trouve émue, quoiqu’elle ne sache pas seulement s’il y a dans son
-corps des esprits animaux.
-Lorsque je traiterai des passions, je parlerai de la liaison qu’il
-y a entre les traces du cerveau et les mouvements des esprits, et
-de celle qui est entre les idées et les émotions de l’âme, car
-toutes les passions en dépendent. Je dois seulement parler ici de
-la liaison des idées avec les traces, et de la liaison des traces les
-unes avec les autres.
-Il y à trois causes fort considérables de la liaison des idées avec les traces. La première et la plus générale, c’est l’identíté
-du temps. Car il suffit souvent que nous ayons eu certaines
-pensées dans le temps qu’il y avait dans notre cerveau quelques
-nouvelles traces, afin que ces traces ne puissent plus se produire
-sans que nous ayons de nouveau ces mêmes pensées. Si l’idée de
-Dieu s’est présentée à mon esprit dans le même temps que mon
-cerveau a été frappé de la vue de ces trois caractères Iah ou du
-son de ce même mot, il suffira que les traces que ces caractères
-ou leur son auront produites se réveillent, afin que je pense à
-Dieu, et je ne pourrai penser à Dieu qu’il ne se produise dans
-mon cerveau quelques traces confuses des caractères ou des sons
-qui auront accompagné les pensées que j’aurai eues de Dieu ; car,
-le cerveau n’étant jamais sans traces, il a toujours celles qui ont
-quelque rapport à ce que nous pensons, quoique souvent ces
-traces soient fort imparfaites et fort confuses.
 
-La seconde cause de la liaison des idées avec les traces, et qui
-suppose toujours la première, c’est la volonté des hommes. Cette
-volonté est nécessaire, afin que cette liaison des idées avec les
-traces soit réglée et accommodée à l’usage. Car si les hommes
-n’avaient pas naturellement de l’inclination à convenir entre eux
-pour attacher leurs idées à des signes sensibles ; non seulement
-cette liaison des idées serait entièrement inutile pour la société,
-mais elle serait encore fort déréglée et fort imparfaite.
-Premièrement, parce que les idées ne se lient fortement avec
-les traces que lorsque les esprits étant agités, ils rendent ces
-traces profondes et durables ; De sorte que les esprits n’étant
-agités que par les passions, si les hommes n’en avaient aucune
-pour communiquer leurs sentiments et pour entrer dans ceux des
-autres, il est évident que la liaison exacte de leurs idées à certaines traces serait bien faible ; puisqu’ils ne s’assujettissent à
-ces liaisons exactes et régulières que pour se communiquer leurs
-pensées.
 
-Secondement, la répétition de la rencontre des mêmes idées
-avec les mêmes traces étant nécessaire pour former une liaison
-qui se puisse conserver long-temps, puisqu’une première
-rencontre, si elle n’est accompagnée d’un mouvement violent
-d’esprits animaux, ne peut faire de fortes liaisons, il est clair que
-si les hommes ne voulaient pas convenir, ce serait le plus grand
-hasard du monde s’il arrivait de ces rencontres des mêmes idées
-et des mêmes traces. Ainsi la volonté des hommes est nécessaire
-pour régler la liaison des mêmes idées avec les mêmes traces,
-quoique cette volonté de convenir ne soit pas tant un effet de leur
-choix et de leur raison qu’une impression de l’auteur de la nature
-qui nous a tous faits les uns pour les autres, et avec une
-inclination très-forte à nous unir par l’esprit autant que nous le
-sommes par le corps.
+## The connection of the mind's ideas with the brain's traces
 
-La troisième cause de la liaison des idées avec les traces,
-c’est la nature ou la volonté constante et immuable du Créateur. Il
-y a, par exemple, une liaison naturelle, et qui ne dépend point de
-notre volonté, entre les traces que produisent un arbre ou une
-montagne que nous voyons, et les idées d’arbres ou de
-montagnes ; entre les traces que produisent dans notre cerveau le
-cri d’un homme, ou d’un animal qui souffre, et que nous
-entendons se plaindre, l’air du visage d’un homme qui nous
-menace ou qui nous craint, et les idées de douleur, de force, de
-faiblesse, et même entre les sentiments de compassion, de crainte
-et de courage qui se produisent en nous.
+We must not imagine, as most philosophers do, that the mind becomes body when it is united to the body, and that the body becomes spirit when it is united to the mind. The soul is not spread throughout all the parts of the body in order to give it life and movement, as the imagination pictures it; and the body does not become capable of sensation through its union with the mind, as our false and deceptive senses seem to convince us. Each substance remains what it is; and just as the soul is not capable of extension and movements, the body is not capable of sensation and inclinations. All the alliance between mind and body that is known to us consists in a natural and mutual correspondence between the thoughts of the soul and the traces of the brain, and between the emotions of the soul and the movements of the animal spirits.
 
-Ces liaisons naturelles sont les plus fortes de toutes ; elles sont
+As soon as the soul receives some new ideas, new traces are imprinted in the brain; and as soon as objects produce new traces, the soul receives new ideas. Not that it considers these traces, since it has no knowledge of them; nor that these traces contain these ideas, since they bear no relation to them; nor finally that it receives its ideas from these traces, for, as we shall explain elsewhere, it is inconceivable that the mind receives anything from the body, and that it becomes more enlightened than it is by turning toward it, as philosophers claim who hold that it is by conversion to images or traces of the brain, *per conversionem ad phantasmata*, that the mind perceives all things.
 
-semblables généralement dans tous les hommes, et elles sont
-absolument nécessaires à la conservation de la vie. C’est
-pourquoi elles ne dépendent point de notre volonté : car si la
-liaison des idées avec les sons et certains caractères est faible et
-fort différente dans différents pays, c’est qu’elle dépend de la
-volonté faible et changeante des hommes ; et la raison pour
-laquelle elle en dépend, c’est parce que cette liaison n’est point
-absolument nécessaire pour vivre, mais seulement pour vivre
-comme des hommes qui doivent former entre eux une société
-raisonnable.
+Likewise, as soon as the soul wills that the arm be moved, the arm is moved, although it does not even know what must be done to move it; and as soon as the animal spirits are agitated, the soul finds itself moved, although it does not even know whether there are animal spirits in its body.
 
-Il faut bien remarquer ici que la liaison des idées qui nous
-représentent des choses spirituelles distinguées de nous, avec les
-traces de notre cerveau, n’est point naturelle et ne le peut être ;
-et, par conséquent, qu’elle est ou qu’elle peut être différente dans
-tous les hommes, puisqu’elle n’a point d’autre cause que leur
-volonté et l’identité du temps dont j’ai parlé auparavant. Au
-contraire, la liaison des idées de toutes les choses matérielles
-avec certaines traces particulières est naturelle ; et par
-conséquent, il y a certaines traces qui réveillent la même idée
-dans tous les hommes. On ne peut douter, par exemple, que tous
-les hommes n’aient l’idée d’un carré à la vue d’un carré, parce
-que cette liaison est naturelle ; mais on peut douter qu’ils aient
-tous l’idée d’un carré lorsqu’ils entendent prononcer ce mot
-carré, parce que cette liaison est entièrement volontaire. Il faut
-penser la même chose de toutes les traces qui sont liées avec les
-idées des choses spirituelles.
+When I treat of the passions, I shall speak of the connection between the traces of the brain and the movements of the spirits, and of that between the ideas and the emotions of the soul, for all the passions depend on it. I must speak here only of the connection of ideas with traces, and of the connection of traces with one another.
 
-Mais, parce que les traces qui ont une liaison naturelle avec
-les idées touchent et appliquent l’esprit, et le rendent par
-conséquent attentif, la plupart des hommes ont assez de facilité pour comprendre et retenir les vérités sensibles et palpables,
-c’est-à-dire les rapports qui sont entre les corps ; et, au contraire,
-parce que les traces qui n’ont point d’autre liaison avec les idées
-que celle que la volonté y a mises ne frappent point vivement
-l’esprit, tous les hommes ont assez de peine à comprendre et
-encore plus à retenir les vérités abstraites, c’est-à-dire les
-rapports qui sont entre les choses qui ne tombent point sous
-l’imagination. Mais lorsque ces rapports sont un peu composés,
-ils paraissent absolument incompréhensibles, principalement à
-ceux qui n’y sont point accoutumés, parce qu’ils n’ont point
-fortifié la liaison de ces idées abstraites avec leurs traces par une
-méditation continuelle ; et quoique les autres les aient
-parfaitement comprises, ils les oublient en peu de temps, parce
-que cette liaison n’est presque jamais aussi forte que les
-naturelles.
+There are three very considerable causes of the connection of ideas with traces. The first and most general is the **identity of time**. For it often suffices that we have had certain thoughts at the time when there were some new traces in our brain, so that these traces cannot be produced again without our having these same thoughts again. If the idea of God presented itself to my mind at the same time that my brain was struck by the sight of these three characters *Iah* or by the sound of this same word, it will suffice that the traces that these characters or their sound produced are awakened, so that I think of God; and I cannot think of God without some confused traces of the characters or sounds that accompanied the thoughts I had of God being produced in my brain; for, the brain never being without traces, it always has those that have some relation to what we think, although often these traces are very imperfect and very confused.
 
-ll est si vrai que toute la difficulté que l’on a à comprendre et à
-retenir les choses spirituelles et abstraites vient de la difficulté
-que l’on a à fortifier la liaison de leurs idées avec les traces du
-cerveau, que lorsqu’on trouve moyen d’expliquer par les
-rapports des choses matérielles ceux qui se trouvent entre les
-choses spirituelles, on les fait aisément comprendre, et on les
-imprime de telle sorte dans l’esprit, que non-seulement on en est
-fortement persuadé, mais encore qu’on les retient avec beaucoup
-de facilité. L’idée générale que l’on a donnée de l’esprit dans le
-premier chapitre de cet ouvrage, est peut-être une assez bonne
-preuve de ceci.
+The second cause of the connection of ideas with traces, which always presupposes the first, is the **will of men**. This will is necessary, so that this connection of ideas with traces may be regulated and accommodated to use. For if men did not naturally have an inclination to agree among themselves to attach their ideas to sensible signs; not only would this connection of ideas be entirely useless for society, but it would also be very disorderly and very imperfect. First, because ideas are strongly linked with traces only when the spirits being agitated, they render these traces deep and durable; so that the spirits being agitated only by the passions, if men had no passion to communicate their feelings and to enter into those of others, it is evident that the exact connection of their ideas to certain traces would be very weak; since they submit themselves to these exact and regular connections only in order to communicate their thoughts to one another.
 
-Au contraire, lorsqu’on exprime les rapports qui se trouvent
-entre les choses matérielles, de telle manière qu’il n’y a point de
-liaison nécessaire entre les idées de ces choses et les traces de leurs expressions, on a beaucoup de peine à les comprendre et on
-les oublie facilement.
+Second, the repetition of the encounter of the same ideas with the same traces being necessary to form a connection that can be preserved for a long time, since a first encounter, if not accompanied by a violent movement of animal spirits, cannot make strong connections, it is clear that if men did not wish to agree, it would be the greatest chance in the world if these encounters of the same ideas and the same traces occurred. Thus the will of men is necessary to regulate the connection of the same ideas with the same traces, although this will to agree is not so much an effect of their choice and their reason as an impression of the author of nature who has made us all for one another, and with a very strong inclination to be united in spirit as much as we are by the body.
 
-Ceux, par exemple, qui commencent l’étude de l’algèbre ou de
-l’analyse ne peuvent comprendre les démonstrations algébriqueœ
-qu’avec beaucoup de peine, et, lorsqu’ils les ont une fois
-comprises, ils ne s’en souviennent pas long-temps, parce que les
-carrés, par exemple, les parallélogrammes, les cubes, les
-solides, etc., étant exprimés par aa, ab, a3, abc, etc., dont les
-traces n’ont point de liaison naturelle avec leurs idées, l’esprit ne
-trouve point de prise pour s’en fixer les idées et pour en
-examiner les rapports.
+The third cause of the connection of ideas with traces is **nature**, or the constant and immutable will of the Creator. There is, for example, a natural connection, which does not depend on our will, between the traces produced by a tree or a mountain that we see, and the ideas of trees or mountains; between the traces produced in our brain by the cry of a man, or of an animal that suffers, and that we hear complaining, the expression on the face of a man who threatens us or who fears us, and the ideas of pain, strength, weakness, and even between the feelings of compassion, fear and courage that are produced in us.
 
-Mais ceux qui commencent la géométrie commune conçoivent
-très-clairement et très-promptement les petites démonstrations
-qu’on leur explique, pourvu qu’ils entendent très-distinctement
-les termes dont on se sert, parce que les idées de carré, de
-cercle, etc., sont liées naturellement avec les traces des figures
-qu’ils voient devant leurs yeux. Il arrive même souvent que la
-seule exposition de la figure qui sert à la démonstration la leur
-fait plutôt comprendre que les discours qui l’expliquent, parce
-que les mots n’étant liés aux idées que par une institution
-arbitraire, ils ne réveillent pas ces idées avec assez de
-promptitude et de netteté pour en reconnaître facilement les
-rapports, car c’est principalement à cause de cela qu’il y a de la
-difficulté à apprendre les sciences.
+These natural connections are the strongest of all; they are generally similar in all men, and they are absolutely necessary for the preservation of life. That is why they do not depend on our will: for if the connection of ideas with sounds and certain characters is weak and very different in different countries, it is because it depends on the weak and changeable will of men; and the reason why it depends on it is because this connection is not absolutely necessary for living, but only for living as men who must form a reasonable society among themselves.
 
-On peut en passant reconnaître par ce que je viens de dire, que
-ces écrivains qui fabriquent un grand nombre de mots nouveaux
-et de nouvelles figures pour expliquer leurs sentiments font
-souvent des ouvrages assez inutiles. Ils croient se rendre
-intelligibles, lorsqu’en effet ils se rendent incompréhensibles.
+It must be well noted here that the connection of ideas that represent to us spiritual things distinct from us, with the traces of our brain, is not natural and cannot be; and, consequently, it is or can be different in all men, since it has no other cause than their will and the identity of time of which I spoke earlier. On the contrary, the connection of the ideas of all material things with certain particular traces is natural; and consequently, there are certain traces that awaken the same idea in all men. One cannot doubt, for example, that all men have the idea of a square at the sight of a square, because this connection is natural; but one can doubt that they all have the idea of a square when they hear this word *square* pronounced, because this connection is entirely voluntary. One must think the same of all traces that are linked with the ideas of spiritual things.
 
-Nous définissons tous nos termes et tous nos caractères, disentils, et les autres en doivent convenir. Il est vrai, les autres en
-conviennent de volonté, mais leur nature y répugne. Leurs idées
-ne sont point attachées ces termes nouveaux ; parce qu’il faut
-pour cela de l’usage et un grand usage. Les auteurs ont peut-être
-cet usage, mais les lecteurs ne l’ont pas. Lorsqu’on prétend
-instruire l’esprit, il est nécessaire de le connaître ; parce qu’il
-faut suivre la nature et ne pas l’irriter ni la choquer.
-On ne doit pas cependant condamner le soin que prennent les
-mathématiciens de définir leurs termes, car il est évident qu’il les
-faut définir pour ôter les équivoques ; mais, autant qu’on le peut,
-il faut se servir de termes qui soient reçus ou dont la signification
-ordinaire ne soit pas fort éloignée de celle qu’on prétend
-introduire, et c’est ce qu’on n’observe pas toujours dans les
-mathématiques.
+But, because the traces that have a natural connection with ideas touch and apply the mind, and consequently render it attentive, most men have enough facility to understand and retain sensible and palpable truths, that is, the relations that exist between bodies; and, on the contrary, because the traces that have no other connection with ideas than that which the will has placed there do not strike the mind vividly, all men have enough difficulty in understanding and even more in retaining abstract truths, that is, the relations that exist between things that do not fall under the imagination. But when these relations are somewhat complex, they appear absolutely incomprehensible, principally to those who are not accustomed to them, because they have not strengthened the connection of these abstract ideas with their traces by continual meditation; and although others have perfectly understood them, they forget them in a short time, because this connection is almost never as strong as the natural ones.
 
-On ne prétend pas aussi, par ce qu’on vient de dire, condamner
-l’algèbre, telle principalement que M. Descartes l’a rétablie ; car
-encore que la nouveauté de quelques expressions de cette science
-lasse d’abord quelque peine à l’esprit, il y a si peu de variété et
-de confusion dans ces expressions, et le secours que l’esprit en
-reçoit surpasse si fort la difficulté qu’il y a trouvée, qu’on ne
-croit pas qu’il se puisse inventer une manière de raisonner et
-d’exprimer ses raisonnements qui s’accommode mieux avec la
-nature de l’esprit et qui puisse le porter plus avant dans la
-découverte des vérités inconnues. Les expressions de cette
-science ne partagent point la capacité de l’esprit ; elles ne
-chargent point la mémoire ; elles abrègent d’une manière
-merveilleuse toutes nos idées et tous nos raisonnements, et elles
-les rendent même en quelque manière sensibles par l’usage. Enfin leur utilité est beaucoup plus grande que celle des expressions,
-quoique naturelles, des figures dessinées de triangles, de carrés
-et autres semblables qui ne peuvent servir à la recherche et à
-l’exposition des vérités un peu cachées : mais c’est assez parler
-de la liaison des idées avec les traces du cerveau ; il est à propos
-de dire quelque chose de la liaison des traces les unes avec les
-autres, et par conséquent de celle qui est entre les idées qui
-répondent à ces traces.
+It is so true that all the difficulty one has in understanding and retaining spiritual and abstract things comes from the difficulty one has in strengthening the connection of their ideas with the traces of the brain, that when one finds a way to explain by the relations of material things those that exist between spiritual things, one makes them easily understood, and imprints them in such a way in the mind, that not only is one strongly persuaded of them, but also one retains them with great facility. The general idea that was given of the mind in the first chapter of this work is perhaps a fairly good proof of this.
 
-II. Cette liaison consiste en ce que les traces du cerveau se
-lient si bien les unes avec les autres qu’elles ne peuvent plus se
-réveiller sans toutes celles qui ont été imprimées dans le même
-temps. Si un homme, par exemple, se trouve dans quelque
-cérémonie publique, s’il en remarque toutes les circonstances et
-toutes les principales personnes qui y assistent, le temps, le lieu,
-le jour et toutes les autres particularités, il suffira qu’il se
-souvienne du lieu, ou même d’une autre circonstance moins
-remarquable de la cérémonie, pour se représenter toutes les
-autres. C’est pour cela que quand nous ne nous souvenons pas du
-nom principal d’une chose, nous le désignons suffisamment en
-nous servant d’un nom qui signifie quelque circonstance de cette
-chose. Comme ne pouvant pas nous souvenir du nom propre
-d’une église, nous pouvons nous servir d’un autre nom qui
-signifie une chose qui y a quelque rapport. Nous pouvons dire :
-c’est cette église où il y avait tant de presse, où monsieur…
-prêchait, où nous allâmes dimanche ; et ne pouvant trouver le
-nom propre d’une personne, ou étant plus à propos de le désigner
-d’une autre manière, on le peut marquer par ce visage picoté de
-vérole, ce grand homme bienfait, ce petit bossu, selon les
-inclinations qu’on a pour lui, quoiqu’on ait tort de se servir de
-paroles de mépris.
+On the contrary, when one expresses the relations that exist between material things in such a way that there is no necessary connection between the ideas of these things and the traces of their expressions, one has great difficulty in understanding them and one easily forgets them.
 
-Or la liaison mutuelle des traces, et par conséquent des idées
-les unes avec les autres, n’est pas seulement le fondement de
-toutes les figures de la rhétorique, mais encore d’une infinité
-d’autres choses de plus grande conséquence dans la morale, dans
-la politique, et généralement dans toutes les sciences qui ont
-quelque rapport à l’homme, et par conséquent de beaucoup de
-choses dont nous parlerons dans la suite.
-La cause de cette liaison de plusieurs traces est l’ídentité du
-temps auquel elles ont été imprimées dans le cerveau, car il suffit
-que plusieurs traces aient été produites dans le même temps, afin
-qu’elles ne puissent plus se réveiller que toutes ensemble, parce
-que les esprits animaux trouvant le chemin de toutes la traces qui
-se sont faites dans le même temps, en trouvent, ils y continuent
-leur chemin à cause qu’ils y passent plus facilement que par les
-autres endroits du cerveau : c’est là la cause de la mémoire et
-des habitudes corporelles qui nous sont communes avec les
-bêtes.
+Those, for example, who begin the study of algebra or analysis can understand algebraic demonstrations only with great difficulty, and when they have once understood them, they do not remember them for long, because squares, for example, parallelograms, cubes, solids, etc., being expressed by *aa*, *ab*, *a³*, *abc*, etc., whose traces have no natural connection with their ideas, the mind finds no hold to fix their ideas and to examine their relations.
 
-Ces liaisons des traces ne sont pas toujours jointes avec les
-émotions des esprits, parce que toutes les choses que nous
-voyons ne nous paraissent pas toujours ou bonnes ou mauvaises.
-Ces liaisons peuvent aussi changer et se rompre, parce que
-n’étant pas toujours nécessaires à la conservation de la vie, elles
-ne doivent pas toujours être les mêmes.
-Mais il y a dans notre cerveau des traces qui sont liées
-naturellement les unes avec les autres, et encore avec certaines
-émotions des esprits, parce que cela est nécessaire à la
-conservation de la vie, et leur liaison ne peut se rompre, ou ne
-peut se rompre facilement, parce qu’il est bon qu’elle soit
-toujours la même. Par exemple, la trace d’une grande hauteur que l’on voit au-dessous de soi, et de laquelle on est en danger de
-tomber, ou la trace de quelque grand corps qui est prêt à tomber
-sur nous et à nous écraser, est naturellement liée avec celle qui
-nous représente la mort, et avec une émotion des esprits qui nous
-dispose à la fuite et au désir de fuir. Cette liaison ne change
-jamais, parce qu’il est nécessaire qu’elle soit toujours la même,
-et elle consiste dans une disposition des fibres du cerveau que
-nous avons des notre naissance.
+But those who begin common geometry conceive very clearly and very quickly the small demonstrations that are explained to them, provided they understand very distinctly the terms used, because the ideas of square, circle, etc., are naturally linked with the traces of the figures they see before their eyes. It even often happens that the mere exposition of the figure used in the demonstration makes them understand it sooner than the discourses that explain it, because words being linked to ideas only by an arbitrary institution, they do not awaken these ideas with enough promptness and clarity to easily recognize their relations, for it is principally because of this that there is difficulty in learning the sciences.
 
-Toutes les liaisons qui ne sont point naturelles se peuvent et se
-doivent rompre, parce que les différentes circonstances des
-temps et des lieux les doivent changer, afin qu’elles soient utiles
-à la conservation de la vie. Il est bon que les perdrix, par
-exemple, fuient les hommes qui ont des fusils, dans les lieux ou
-dans les temps où l’on leur fait la chasse ; mais il n’est pas
-nécessaire qu’elles les fuient en d’autres lieux et en d’autres
-temps. Ainsi, pour la conservation de’tous les animaux, il est
-nécessaire qu’il y ait de certaines liaisons de traces qui se
-puissent former et détruire facilement ; qu’il y en ait d’autres qui
-ne se puissent rompre que difficilement, et d’autres enfin qui ne
-se puissent jamais rompre.
+One can recognize in passing from what I have just said, that those writers who fabricate a great number of new words and new figures to explain their views often produce quite useless works. They believe they make themselves intelligible, when in fact they make themselves incomprehensible. "We define all our terms and all our characters," they say, "and others must agree to them." It is true, others agree to them voluntarily, but their nature rebels against it. Their ideas are not attached to these new terms; because usage, and much usage, is needed for that. The authors may have this usage, but the readers do not. When one pretends to instruct the mind, it is necessary to know it; because one must follow nature and not irritate or shock it.
 
-Il est très-utile de rechercher avec soin les différents effets que
-ces différentes liaisons sont capables de produire ; car ces effets
-sont en très-grand nombre et de très-grande conséquence pour la
-connaissance de l’homme.
+One should not, however, condemn the care that mathematicians take to define their terms, for it is evident that they must be defined to remove ambiguities; but, as much as possible, one must use terms that are received or whose ordinary meaning is not far removed from that which one intends to introduce, and this is not always observed in mathematics.
 
-III. Pour explication de la mémoire, il suffit de bien
-comprendre cette vérité : que toutes nos différentes perceptions
-sont attachées aux changements qui arrivent aux fibres de la
-partie principale du cerveau dans laquelle l’âme réside plus
-particulièrement, parce que ce seul principe supposé, la nature de la mémoire est expliquée. Car de même que les branches d’un
-arbre, qui ont demeure quelque temps ployées d’une certaine
-façon, conservent quelque facilité pour être ployées de nouveau
-de la même manière, ainsi les fibres du cerveau, ayant une fois
-reçu certaines impressions par le cours des esprits animaux et
-par l’action des objets, gardent assez longtemps quelque facilité
-pour recevoir ces mêmes dispositions. Or la mémoire ne consiste
-que dans cette facilité, puisque l’on pense aux mêmes choses
-lorsque le cerveau reçoit les mêmes impressions.
+Nor does one claim, by what has just been said, to condemn algebra, such principally as Mr. Descartes restored it; for although the novelty of some expressions of this science at first causes some difficulty for the mind, there is so little variety and confusion in these expressions, and the help that the mind receives from them surpasses so much the difficulty it has encountered, that one does not believe that a way of reasoning and of expressing one's reasonings could be invented that accommodates itself better to the nature of the mind and that could carry it further in the discovery of unknown truths. The expressions of this science do not divide the capacity of the mind; they do not burden the memory; they abbreviate in a wonderful way all our ideas and all our reasonings, and they even render them in some way sensible through use. Finally, their usefulness is much greater than that of expressions, although natural, of drawn figures of triangles, squares and other similar things that cannot serve in the research and exposition of somewhat hidden truths: but enough has been said about the connection of ideas with the traces of the brain; it is appropriate to say something about the connection of traces with one another, and consequently about that which exists between the ideas that correspond to these traces.
 
-Comme les esprits animaux agissent tantôt plus et tantôt moins
-fort sur la substance du cerveau, et que les objets sensibles font
-des impressions bien plus grandes que l’imagination toute seule,
-il est facile de là de reconnaître pourquoi on ne se souvient pas
-également de toutes les choses que l’on a aperçues ; pourquoi,
-par exemple, ce que l’on a aperçu plusieurs fois se représente
-d’ordinaire à l’àme plus nettement que ce que l’on n’a aperçu
-qu’une ou deux fois ; pourquoi on se souvient plus distinctement
-des choses qu’on a vues que de celles qu’on a seulement
-imaginées ; et ainsi pourquoi on saura mieux, par exemple, la
-distribution des veines dans le foie après l’avoir vue une seule
-fois dans la dissection de cette partie qu’après l’avoir lue
-plusieurs fois dans un livre d’anatomie, et d’autres choses
-semblables.
 
-Que si on veut faire réflexion sur ce qu’on a dit auparavant de
-l’imagination et sur le peu que l’on vient de dire de la mémoire,
-et si l’on est délivré de ce préjugé, que notre cerveau est trop
-petit pour conserver des vestiges et des impressions en fort grand
-nombre, on aura le plaisir de découvrir la cause de tous ces
-effets surprenants de la mémoire, dont parle saint Augustin avec tant d’admiration, dans le dixième livre de ses Confessions. Et
-l’on ne veut pas expliquer ces choses plus au long, parce qque
-l’on croit qu’il est plus à propos que chacun se les explique à
-soi-même par quelque effort d’esprit ; à cause que les choses
-qu’on découvre par cette voie sont toujours plus agréables, et
-font davantage d’impression sur nous que celles qu’on apprend
-des autres.
+## The reciprocal connection between these traces
 
-IV. Pour l’explication des habitudes, il est nécessaire de savoir
-la manière dont on a sujet de penser que l’âme remue les parties
-du corps auquel elle est unie. La voici. Selon toutes les
-apparences du monde, il y a toujours dans quelques endroits du
-cerveau, quels qu’ils soient, un assez grand nombre d’esprits
-animaux très-agités par la chaleur du cœur d’où ils sont sortis, et
-tous prêts de couler dans les lieux où ils trouvent le passage
-ouvert. Tous les nerfs aboutissent au réservoir de ces esprits, et
-1’âme a le pouvoir de déterminer leur mouvement et de les
-conduire par ces nerfs dans tous les muscles du corps. Ces
-esprits y étant entrés, ils les enflent, et par conséquent ils les
-raccourcissent ; ainsi ils remuent les parties auxquelles ces
-muscles sont attachés.
+This connection consists in that the traces of the brain are so well linked with one another that they cannot be awakened without all those that were imprinted at the same time. If a man, for example, finds himself at some public ceremony, if he notices all the circumstances and all the principal persons who attend, the time, the place, the day and all the other particulars, it will suffice that he remembers the place, or even some other less remarkable circumstance of the ceremony, to represent to himself all the others. That is why when we do not remember the principal name of a thing, we designate it sufficiently by using a name that signifies some circumstance of that thing. As not being able to remember the proper name of a church, we can use another name that signifies something that has some relation to it. We can say: it is that church where there was so much crowding, where Mr. ... was preaching, where we went on Sunday; and not being able to find the proper name of a person, or it being more appropriate to designate him in another way, one can mark him by that pockmarked face, that tall well-built man, that little hunchback, according to one's inclinations toward him, although one is wrong to use words of contempt.
 
-On n’aura pas de peine à se persuader que l’âme remue le
-corps de la manière qu’on vient d’expliquer, si on prend garde
-que, lorsqu’on a été long-temps sans manger, on a beau vouloir
-donner de certains mouvements à son corps, on n’en peut venir à
-bout, et même l’on a quelque peine à se soutenir sur ses pieds.
-Mais si on trouve moyen de faire couler dans son cœur quelque
-chose de fort spiritueux, comme du vin ou quel qu’autre pareille
-nourriture, on sent aussitôt que le corps obéit avec beaucoup plus
-de facilité, et l’on se remue en toutes les manières qu”on souhaite. Car cette seule expérience fait, ce me semble, assez
-voir que l’âme ne pouvait donner de mouvement à son corps faute
-d’esprits animaux, et que c’est par leur moyen qu’elle a recouvre
-son empire sur lui.
+Now the mutual connection of traces, and consequently of ideas with one another, is not only the foundation of all the figures of rhetoric, but also of an infinity of other things of greater consequence in morals, in politics, and generally in all the sciences that have some relation to man, and consequently of many things that we shall speak of in the sequel.
 
-Or, les enflures des muscles sont si visibles et si sensibles
-dans les agitations de nos bras et de toutes les parties de notre
-corps, et il est si raisonnable de croire que ces muscles ne se
-peuvent enfler, que parce qu’il y entre quelque corps, de même
-qu’un ballon ne petit se grossir ni s’enfler que parce qu’il y entre
-de l’air ou autre chose, qu’il semble qu’on ne puisse douter que
-les esprits animaux ne soient poussés du cerveau, par les nerfs,
-jusque dans les muscles, pour les enfler et pour y produire tous
-les mouvements que nous souhaitons : car un muscle étant plein,
-il est nécessairement plus court que s’íl était vide. Ainsi il tire et
-remue la partie à laquelle il est attaché, comme on le peut voir
-expliqué plus au long dans les livres des Passions et de
-l’Homme de M. Descartes. On ne donne pas cependant cette
-explication comme parfaitement démontrée dans toutes ses
-parties. Pour la rendre entièrement évidente. il y a encore
-plusieurs choses à désirer, desquelles il est presque impossible
-de s’éclaircir. Mais il est aussi assez inutile de les savoir pour
-notre sujet ; car, que cette explication soit vraie ou fausse, elle ne
-laisse pas d’être également utile pour faire connaître la nature
-des habitudes, parce que si l’âme ne remue point le corps de
-cette manière, elle le remue nécessairement de quel qu’autre qui
-lui est assez semblable, pour en tirer les conséquences que nous
-en tirons.
+The cause of this connection of several traces is the **identity of the time** at which they were imprinted in the brain, for it suffices that several traces have been produced at the same time, so that they can no longer be awakened except all together, because the animal spirits finding the path to all the traces that were made at the same time, find them, they continue their way there because they pass more easily there than through the other parts of the brain: this is the cause of memory and of bodily habits that we share with animals.
 
-Mais, afin de suivre notre explication, il faut remarquer que
-les esprits ne trouvent pas toujours les chemins par où ils doivent 
-passer assez ouverts et assez libres, et que cela fait que nous
-avons, par exemple, de la difficulté à remuer les doigts avec la
-vitesse qui est nécessaire pour jouer des instruments de musique,
-ou les muscles qui servent à la prononciation pour prononcer les
-mots d’une langue étrangère ; mais que peu à peu les esprits
-animaux, par leur cours continuel, ouvrent et aplanissent ces
-chemins, en sorte qu’avec le temps ils n’y trouvent plus de
-résistance. Or, c’est dans cette facilité que les esprits animaux
-ont de passer dans les membres de notre corps que consistent les
-habitudes.
+These connections of traces are not always joined with emotions of the spirits, because all the things we see do not always appear to us as good or bad. These connections can also change and break, because not being always necessary for the preservation of life, they must not always be the same.
 
-Il est très-facile, selon cette explication, de résoudre une
-infinité de questions qui regardent les habitudes, comme, par
-exemple, pourquoi les enfants sont plus capables d’acquérir de
-nouvelles habitudes que les personnes plus âgées ; pourquoi il est
-très-difficile de perdre de vieilles habitudes ; pourquoi les
-hommes, à force de parler, ont acquis une si grande facilité à
-cela, qu’ils prononcent leurs paroles avec une vitesse incroyable,
-et même sans y penser, comme il n’arrive que trop souvent à ceux
-qui disent des prières qu’ils ont accoutumé de faire depuis
-plusieurs années. Cependant, pour prononcer un seul mot, il faut
-remuer dans un certain temps et dans un certain ordre plusieurs
-muscles à la fois, comme ceux de la langue, des lèvres, du gosier
-et du diaphragme. Mais on pourra, avec un peu de méditation, se
-satisfaire sur ces questions et sur plusieurs autres très-curieuses
-et assez utiles ; et il n’est pas nécessaire de s’y arrêter.
-Il est visible, par ce que l’on vient de dire, qu’il y a beaucoup
-de rapport entre la mémoire et les habitudes, et qu’en un sens la
-mémoire peut passer pour une espèce d’habitude. Car, de même
-que les habitudes corporelles consistent dans la facilité que les esprits ont acquise de passer par certains endroits de notre
-corps ; ainsi la mémoire consiste dans les traces que les mêmes
-esprits ont imprimées dans le cerveau, lesquelles sont causes de
-la facilité que nous avons de nous souvenir des choses. De sorte
-que, s’il n’y avait point de perceptions attachées aux cours des
-esprits animaux ni à ces traces, il n’y aurait aucune différence
-entre la mémoire et les autres habitudes. Il n’est pas aussi plus
-difficile de concevoir que les bêtes, quoique sans âme et
-incapables d’aucune perception, se souviennent en leur manière
-des choses qui ont fait impression dans leur cerveau que de
-concevoir qu’elles soient capables d’acquérir différentes
-habitudes ; et, après ce que je viens de dire des habitudes, je ne
-vois pas qu’il y ait beaucoup plus de difficulté à se représenter
-comment les membres de leur corps acquièrent peu à peu
-différentes habitudes qu’à concevoir comment une machine
-nouvellement faite ne joue pas si facilement que lorsqu’on en a
-fait quelque usage.
+But there are in our brain traces that are naturally linked with one another, and also with certain emotions of the spirits, because this is necessary for the preservation of life, and their connection cannot break, or cannot break easily, because it is good that it always remains the same. For example, the trace of a great height that one sees below oneself, and from which one is in danger of falling, or the trace of some great body that is ready to fall on us and crush us, is naturally linked with that which represents death to us, and with an emotion of the spirits that disposes us to flight and to the desire to flee. This connection never changes, because it is necessary that it always be the same, and it consists in a disposition of the fibers of the brain that we have from birth.
+
+All connections that are not natural can and must be broken, because the different circumstances of times and places must change them, so that they are useful for the preservation of life. It is good that partridges, for example, flee from men who have guns, in places or at times when they are hunted; but it is not necessary that they flee them in other places and at other times. Thus, for the preservation of all animals, it is necessary that there be certain connections of traces that can be formed and destroyed easily; that there be others that can be broken only with difficulty, and finally others that can never be broken.
+
+It is very useful to carefully investigate the different effects that these different connections are capable of producing; for these effects are very numerous and of great consequence for the knowledge of man.
+
+
+
+## Memory
+
+To explain memory, it suffices to understand well this truth: that all our different perceptions are attached to the changes that occur in the fibers of the principal part of the brain in which the soul more particularly resides, because this single principle being supposed, the nature of memory is explained. For just as the branches of a tree that have remained bent in a certain way for some time, preserve some facility to be bent again in the same manner, so the fibers of the brain, having once received certain impressions by the course of the animal spirits and by the action of objects, keep for quite a long time some facility to receive these same dispositions. Now memory consists only in this facility, since one thinks of the same things when the brain receives the same impressions.
+
+As the animal spirits act sometimes more and sometimes less strongly on the substance of the brain, and as sensible objects make much greater impressions than the imagination alone, it is easy to recognize from this why we do not remember equally all the things we have perceived; why, for example, what we have perceived several times ordinarily represents itself to the soul more clearly than what we have perceived only once or twice; why we remember more distinctly the things we have seen than those we have only imagined; and thus why we shall know better, for example, the distribution of veins in the liver after having seen it once in the dissection of that part than after having read it several times in an anatomy book, and other similar things.
+
+If one wishes to reflect on what was said earlier about the imagination and on the little that has just been said about memory, and if one is freed from the prejudice that our brain is too small to preserve vestiges and impressions in very great number, one will have the pleasure of discovering the cause of all those surprising effects of memory, of which Saint Augustine speaks with such admiration, in the tenth book of his *Confessions*. And one does not wish to explain these things at greater length, because one believes that it is more appropriate for each person to explain them to himself by some effort of mind; because the things one discovers by this means are always more agreeable, and make a greater impression on us than those one learns from others.
+
+
+## Habits
+
+For the explanation of habits, it is necessary to know the manner in which one has reason to think that the soul moves the parts of the body to which it is united. Here it is. 
+
+There is always in some parts of the brain many animal spirits very agitated by the heat of the heart from which they have issued, and all ready to flow into the places where they find the passage open. 
+
+All the nerves end at the reservoir of these spirits, and the soul has the power to determine their movement and to conduct them through these nerves into all the muscles of the body. These spirits having entered there, they swell them, and consequently they shorten them; thus they move the parts to which these muscles are attached.
+
+One will not have difficulty in persuading oneself that the soul moves the body in the manner just explained, if one takes note that when one has been a long time without eating, one may wish to give certain movements to one's body, one cannot succeed, and one even has some difficulty in standing on one's feet. But if one finds means to cause something very spiritous, like wine or some other similar nourishment, to flow into one's heart, one immediately feels that the body obeys with much more ease, and one moves oneself in all the ways one wishes. For this single experiment makes it, it seems to me, sufficiently clear that the soul could not give movement to its body for lack of animal spirits, and that it is by their means that it regains its empire over it.
+
+The swellings of the muscles are so visible and so sensible in the agitations of our arms and of all the parts of our body, and it is so reasonable to believe that these muscles can swell only because some body enters them, just as a balloon can grow and swell only because air or something else enters it, that it seems one cannot doubt that the animal spirits are pushed from the brain, through the nerves, into the muscles, to swell them and to produce there all the movements we wish: for a muscle being full, it is necessarily shorter than if it were empty. Thus it pulls and moves the part to which it is attached, as one can see explained at greater length in the books on the *Passions* and on *Man* by Mr. Descartes. This explanation is not, however, given as perfectly demonstrated in all its parts. To make it entirely evident, there are still several things to be desired, about which it is almost impossible to gain clarity. But it is also quite useless to know them for our subject; for whether this explanation is true or false, it is nonetheless equally useful for making known the nature of habits, because if the soul does not move the body in this manner, it necessarily moves it in some other way that is sufficiently similar to draw from it the consequences that we draw.
+
+But, in order to follow our explanation, it must be noted that the spirits do not always find the paths through which they must pass sufficiently open and free, and that this causes us, for example, to have difficulty in moving the fingers with the speed necessary to play musical instruments, or the muscles that serve for pronunciation to pronounce the words of a foreign language; but that little by little the animal spirits, by their continual course, open and smooth these paths, so that with time they find no more resistance there. Now, it is in this facility that the animal spirits have in passing into the members of our body that habits consist.
+
+It is very easy, according to this explanation, to resolve an infinity of questions concerning habits, such as, for example, why children are more capable of acquiring new habits than older persons; why it is very difficult to lose old habits; why men, by dint of speaking, have acquired such great facility in this that they pronounce their words with incredible speed, and even without thinking, as happens only too often to those who say prayers that they have been accustomed to say for several years. However, to pronounce a single word, several muscles must be moved at the same time in a certain time and in a certain order, such as those of the tongue, lips, throat and diaphragm. But one will be able, with a little meditation, to satisfy oneself on these questions and on several others very curious and quite useful; and it is not necessary to dwell on them.
+
+It is visible from what has just been said, that there is much resemblance between memory and habits, and that in a sense memory can pass for a kind of habit. For, just as bodily habits consist in the facility that the spirits have acquired in passing through certain parts of our body; so memory consists in the traces that the same spirits have imprinted in the brain, which are the cause of the facility we have in remembering things. So that, if there were no perceptions attached to the courses of the animal spirits nor to these traces, there would be no difference between memory and other habits. It is not also more difficult to conceive that animals, although without a soul and incapable of any perception, remember in their manner the things that have made an impression in their brain, than to conceive that they are capable of acquiring different habits; and after what I have just said about habits, I do not see that there is much more difficulty in representing to oneself how the members of their body acquire little by little different habits than in conceiving how a newly made machine does not play so easily as when it has been used for some time.
+
 

@@ -4,8 +4,6 @@ heading: "Trusting the Merchants too much"
 linkTitle: Smith's Mistakes
 date: 2015-01-01
 image: /photos/econ/smith.jpg
-# a: "Adam Smith"
-# c: "firebrick"
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan
@@ -66,10 +64,17 @@ The British became greedy and started bringing in opium which destroyed Chinese 
 
 This eventually led to the entry of Communism in the most populous country in the world, which killed so many Chinese (Great Leap Forward) and has made mainland China fundamentally anti-Western. 
 
+The grain exports of:
+- ancient Egypt was done on Egyptian ships
+- pre Islamic India was done on Indian ships
+- pre Qing China was done on Chinese ships
+
+This allowed those civilizations to prosper. 
+
 
 ## Update April 2025: Trump's Trade War
 
-The Trade War by the US exposes the real foundation of Western morals which is utility. Trump is willling to sacrifice his allies and friends just to be materially wealthy. 
+The Trade War by the US exposes the real foundation of Western morals which is utility instead of Dharma or the Tao. Trump is willling to sacrifice his allies and friends just to be materially wealthy. 
 
 This is opposite of Smith's principles which are based on fellow-feeling and friendship, and low profits.
 

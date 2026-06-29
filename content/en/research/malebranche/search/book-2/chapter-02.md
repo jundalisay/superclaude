@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The Passions"
+title: "The Animal Spirits"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,130 +9,39 @@ date: 2026-06-20
 ---
 
 
-I. Des esprits animaux, et des changements auxquels ils sont sujets en général. — II.
-Que le chyle va au cœur, et qu’il apporte du changement dans les esprits. — III.
-Que le vin en fait autant.
-
-I. Tout le monde convient assez que les esprits animaux ne sont
-que les parties les plus subtiles et les plus agitées du sang, qui se
-subtilise et s’agite principalement par la fermentation, et par le
-mouvement violent des muscles dont le cœur est composé ; que
-ces esprits sont conduits avec le reste du sang par les artères
-jusque dans le cerveau, et que là ils en sont séparés par quelques
-parties destinées à cet usage, desquelles on ne convient pas
-encore.
-
-Il faut conclure de la que si le sang est fort subtil, il y aura
-beaucoup d’esprits animaux ; et que s’il est grossier, il y en aura
-peu ; que si le sang est composé de parties fort faciles à
-s’embraser dans le cœur et ailleurs, ou fort propres au
-mouvement, les esprits qui seront dans le cerveau seront
-extrêmement échauffés ou agités ; que si au contraire le sang ne se fermente pas assez, les esprits animaux seront languissants,
-sans action et sans force : enfin que, selon la solidité qui se
-trouvera dans les parties du sang, les esprits animaux auront plus
-ou moins de solidité, et par conséquent plus ou moins de force
-dans leur mouvement. Mais il faut expliquer plus au long toutes
-ces choses, et apporter des exemples et des expériences
-incontestables, pour en faire reconnaître plus sensiblement la
-vérité.
-
-II. L’autorité des anciens n’a pas seulement aveuglé l’esprit de
-quelques gens, on peut même dire qu’elle leur a fermé les yeux.
-Car il y a encore quelques personnes si respectueuses à l’égard
-des anciennes opinions, ou peut-être si opiniâtres, qu’ils ne
-veulent pas voir des choses qu’ils ne pourraient plus contredire
-s’il leur plaisait seulement d’ouvrir les yeux. On voit tous les
-jours des personnes assez estimées par leur lecture et par leurs
-études, qui font des livres et des conférences publiques contre les
-expériences visibles et sensibles de la circulation du sang, contre
-celle du poids et de la force élastique de l’air, et d’autres
-semblables. La découverte que M. Pecquet a faite en nos jours,
-de laquelle on a besoin ici, est du nombre de celles qui ne sont
-malheureuses que parce qu’elles ne naissent pas toutes vieilles,
-et pour ainsi dire avec une barbe vénérable. On ne laissera pas
-cependant de s'en servir, et on ne craint pas que les personnes
-judicieuses y trouvent à redire.
-
-Selon cette découverte, il est constant que le chyle ne va pas
-d’abord des viscères au foie par les veines mésaraïques, comme
-le croient les anciens ; mais qu’il passe des boyaux dans les
-veines lactées, et ensuite dans certains réservoirs où elles
-aboutissent toutes ; que de là il monte par le canal thoracique le long des vertèbres du dos, et se va mêler avec le sang dans la
-veine axillaire, laquelle entre dans le tronc supérieur de la veine
-cave ; et qu’ainsi, étant mêlé avec le sang, il se va rendre dans le
-cœur.
-
-Il faut conclure de cette expérience que le sang mêlé avec le
-chyle étant fort différent d’un autre sang qui aurait déjà circulé
-plusieurs fois par le cœur, les esprits animaux, qui n’en sont que
-les plus subtiles parties, doivent être aussi tort différents dans les
-personnes qui sont à jeun, et dans d’autres qui viendraient de
-manger. De plus, parce que, entre les viandes et les breuvages
-dont on se sert, il y en a d’une infinité de sortes, et même ceux
-qui s’en servent ont des corps diversement disposés ; deux
-personnes qui viennent de dîner, et qui sortent d’une même table,
-doivent sentir dans leur faculté d’imaginer une si grande variété
-de changements qu’il n’est pas possible de la décrire.
-
-Il est vrai que ceux qui jouissent d’une santé parfaite font une
-digestion si achevée, que le chyle entrant dans le cœur n’en
-augmente ou n’en diminue presque point la chaleur, et n’empêche
-pas que le sang ne s’y fermente presque de la même façon que
-s’il y entrait seul : de sorte que leurs esprits animaux, et par
-conséquent leur faculté d*imaginer, n’en reçoivent presque pas
-de changement. Mais pour les vieillards et les infirmes, ils
-remarquent en eux-mêmes des changements fort sensibles après
-leur repas. Ils s’assoupissent presque tous, ou pour le moins leur
-imagination devient toute languissante et n'a plus de vivacité ni
-de promptitude ; ils ne conçoivent plus rien distinctement ; ils ne
-peuvent s’appliquer à quoi que ce soit ; en un mot, ils sont tout
-autres qu’ils n’étaient auparavant.
 
 
-III. Mais afin que les plus sains et les plus robustes aient aussi
+## The animal spirits and the changes to which they are subject in general
 
-des preuves sensibles de ce que l’on vient de dire, ils n’ont qu’à
-faire réflexion sur ce qui leur est arrivé quand ils ont bu du vin
-bien plus qu’à l’ordinaire, ou bien sur ce qui leur arrivera quand
-ils ne boiront que du vin dans un repas, et que de l’eau dans un
-autre. Car ou est assuré que s’ils ne sont entièrement stupides, ou
-si leur corps n’est composé d’une façon tout extraordinaire, ils
-sentiront aussitôt de la gaieté, ou quelque petit assoupissement,
-ou quelque autre accident semblable.
+Everyone sufficiently agrees that the animal spirits are only the most subtle and most agitated parts of the blood, which is subtilized and agitated principally by fermentation and by the violent movement of the muscles of which the heart is composed; that these spirits are carried with the rest of the blood by the arteries to the brain, and that there they are separated by certain parts destined for this use, about which there is not yet agreement.
 
-Le vin est si spiritueux, que ce sont des esprits animaux
-presque tout formés ; mais des esprits libertins, qui ne se
-soumettent pas volontiers aux ordres de la volonté à cause de
-leur solidité et de leur agitation excessive. Ainsi, dans les
-hommes même les plus forts et les plus vigoureux, il produit de
-plus grands changements dans l’imagination et dans toutes les
-parties du corps que les viande set les autres breuvages. Il donne
-du croc-en-jambe, pour parler comme Plaute; et il produit
-dans l’esprit bien des effets qui ne sont pas si avantageux que
-ceux qu’Horace décrit en ces vers :
-Quid non ebrietas désignat ! operta recludit :
-Spes jubet esse rates : in prœlia trudit inermem :
-Sollicitis anímis onus eximit : addocet artes.
-Fecundi calices quem non fecere disertum !
-Contracta quem non in paupertate solutum !
-
-Il serait assez facile de rendre raison des principaux effets que
-le mélange du chyle avec le sang produit dans les esprits
-animaux, et ensuite dans le cerveau et dans l’âme même ; comme
-pourquoi le vin réjouit, pourquoi il donne une certaine vivacité à
-l’esprit quand on en prend avec modération, pourquoi il l’abrutit
-avec le temps quand on en fait excès, pourquoi on est assoupi
-
-après le repas, et de plusieurs autres choses, desquelles on donne
-ordinairement des raisons fort ridicules. Mais outre qu’on ne fait
-pas ici une physique, il faudrait donner quelque idée de
-l’anatomie du cerveau, ou faire quelques suppositions, comme M.
-Descartes en fait dans le traité qu’il a fait de l’homme, sans
-lesquelles il n’est pas possible de s’expliquer. Mais enfin, si on
-lit avec attention ce traité de M. Descartes, on pourra peut-être se
-satisfaire sur toutes ces questions : parce que cet auteur explique
-toutes ces choses, ou du moins il en donne assez de connaissance
-pour les découvrir après de soi-même par la méditation, pourvu
-qu’on ait quelque connaissance de ses principes.
+It must be concluded from this that if the blood is very subtle, there will be many animal spirits; and that if it is gross, there will be few; that if the blood is composed of parts very easy to kindle in the heart and elsewhere, or very suited to movement, the spirits that are in the brain will be extremely heated or agitated; that if on the contrary the blood does not ferment enough, the animal spirits will be languishing, without action and without force; finally, that according to the solidity found in the parts of the blood, the animal spirits will have more or less solidity, and consequently more or less force in their movement. But all these things must be explained at greater length, and examples and incontestable experiences must be brought forward, in order to make the truth of them more sensibly recognized.
 
 
+
+## The chyle goes to the heart, and that it brings change to the spirits.
+
+The authority of the ancients has not only blinded the minds of some people; one can even say that it has closed their eyes. For there are still some persons so respectful toward ancient opinions, or perhaps so obstinate, that they refuse to see things they could no longer contradict if they would only open their eyes. One sees every day persons fairly well esteemed for their reading and their studies, who make books and public lectures against the visible and sensible experiences of the circulation of the blood, against that of the weight and elastic force of the air, and other similar ones. The discovery that Mr. Pecquet made in our day, of which we have need here, is among those that are unfortunate only because they are not born old, and, so to speak, with a venerable beard. We shall not, however, refrain from making use of it, and we do not fear that judicious persons will find fault with it.
+
+According to this discovery, it is certain that the chyle does not go first from the viscera to the liver by the mesaraic veins, as the ancients believe; but that it passes from the intestines into the lacteal veins, and then into certain reservoirs where they all terminate; that from there it rises by the thoracic duct along the vertebrae of the back, and goes to mix with the blood in the axillary vein, which enters the upper trunk of the vena cava; and that thus, being mixed with the blood, it goes to the heart.
+
+The blood mixed with the chyle being very different from another blood that had already circulated several times through the heart, the animal spirits, which are only the most subtle parts of it, must also be very different in persons who are fasting, and in others who have just eaten. Moreover, because among the foods and drinks that are used there are an infinite number of kinds, and even those who use them have bodies differently disposed; two persons who have just dined, and who leave the same table, must experience in their faculty of imagining so great a variety of changes that it is impossible to describe it.
+
+Those who enjoy perfect health carry out digestion so completely that the chyle entering the heart almost neither increases nor diminishes its heat, and does not prevent the blood from fermenting there almost in the same way as if it entered alone: so that their animal spirits, and consequently their faculty of imagining, receive almost no change from it. But as for the elderly and the infirm, they notice in themselves very perceptible changes after their meal. Nearly all of them become drowsy, or at least their imagination becomes quite languid and no longer has any vivacity or quickness; they no longer conceive anything distinctly; they cannot apply themselves to anything; in a word, they are quite different from what they were before.
+
+
+## That wine does the same
+
+But so that even the healthiest and most robust may have sensible proofs of what has just been said, they need only reflect on what has happened to them when they have drunk wine much more than usual, or on what will happen to them when they drink only wine at one meal, and only water at another. For one is assured that if they are not entirely stupid, or if their body is not composed in an altogether extraordinary way, they will immediately feel gaiety, or some slight drowsiness, or some other similar effect.
+
+Wine is so spirituous that it is animal spirits almost fully formed; but libertine spirits, which do not readily submit to the orders of the will because of their solidity and excessive agitation. Thus, even in the strongest and most vigorous men, it produces greater changes in the imagination and in all the parts of the body than meats and other drinks. It trips up the feet, to speak like Plautus; and it produces in the mind many effects that are not so advantageous as those that Horace describes in these verses:
+
+*Quid non ebrietas designat! operta recludit:*
+*Spes jubet esse rates: in prœlia trudit inermem:*
+*Sollicitis animis onus eximit: addocet artes.*
+*Fecundi calices quem non fecere disertum!*
+*Contracta quem non in paupertate solutum!*
+
+[What does not drunkenness bring about! It reveals hidden things: it bids hopes set sail; it drives the unarmed man into battle; it removes the burden from anxious minds; it teaches arts. Whom have not the generous cups made eloquent! Whom have they not set free from pinching poverty!]
+
+It would be fairly easy to give an account of the principal effects that the mixing of chyle with the blood produces in the animal spirits, and subsequently in the brain and in the soul itself; for example, why wine gladdens, why it gives a certain vivacity to the mind when taken in moderation, why it brutifies it with time when one exceeds in it, why one is drowsy after a meal, and several other things, for which reasons are ordinarily given that are quite ridiculous. But besides the fact that we are not writing a physics here, it would be necessary to give some idea of the anatomy of the brain, or to make some suppositions, as Mr. Descartes makes in the treatise he wrote on man, without which it is not possible to explain oneself. But finally, if one reads with attention this treatise of Mr. Descartes, one may perhaps be able to satisfy oneself on all these questions: because this author explains all these things, or at least he gives enough knowledge of them to discover them afterwards by oneself through meditation, provided one has some knowledge of his principles.

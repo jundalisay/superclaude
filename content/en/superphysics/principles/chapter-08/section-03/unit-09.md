@@ -1,8 +1,8 @@
 ---
-heading: "Unit 4c"
+heading: "Unit 9"
 title: "The Ratio Sign as Mind Splitter"
 date: 2020-12-27
-weight: 505
+weight: 20
 image: "/graphics/movement.png"
 description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
 icon: "Juan"

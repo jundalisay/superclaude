@@ -1,5 +1,5 @@
 ---
-heading: Unit 5c
+heading: Unit 10
 title: "Qualimath Applied to Logical Fallacies"
 # title: "The Meaning of Red Herring, Ad Hominem, etc"
 date: 2020-09-29
@@ -8,7 +8,7 @@ description: "We explain the meaning of common fallacies by removing the jargon"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 510
+weight: 30
 icon: "Juan"
 aliases:
   /superphysics/principles/chapter-08h

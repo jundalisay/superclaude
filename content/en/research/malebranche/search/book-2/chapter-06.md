@@ -1,69 +1,27 @@
 ---
 heading: Chapter 6
-title: "The Passions"
+title: "Changes in the Brain"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 19
 date: 2026-06-20
 ---
 
 
 
-I. Que les fibres du cerveau ne sont pas sujettes à des changements si prompts que les
-esprits. — II. Trois différents changements dans les trois différents âges.
 
-I. Toutes les parties des corps vivants sont dans un mouvement
-continuel, les parties solides et les fluides, la chair aussi bien
-que le sang ; il y a seulement cette différence entre le mouvement
-des unes et des autres, que celui des parties du sang est visible et
-sensible, et que celui des fibres de notre chair est tout à fait
-imperceptible. Il y a donc cette différence entre les esprits
-animaux et la substance du cerveau, que les esprits animaux sont très-agités et très-fluides, et que la substance du cerveau a
-quelque solidité et quelque consistance ; de sorte que les esprits
-se divisent en petites parties et se dissipent en peu d’heures, en
-transpirant par les pores des vaisseaux qui les contiennent, et il
-en vient souvent d’autres en leur place qui ne leur sont point du
-tout semblables. Mais les fibres du cerveau ne sont pas si faciles
-à se dissiper : il ne leur arrive pas souvent des changements
-considérables, et toute leur substance ne peut changer qu’après
-plusieurs années.
+## The fibers of the brain are not subject to changes as rapid as the spirits
 
-II. Les différences les plus considérables qui se trouvent dans
-le cerveau d’un même homme pendant toute sa vie, sont dans
-l’enfance, dans l’âge d’un homme fait, et dans la vieillesse.
-Les fibres du cerveau dans l’enfance sont molles, flexibles et
-délicates ; avec l’âge elles deviennent plus sèches, plus dures et
-plus fortes ; mais, dans la vieillesse, elles sont tout à fait
-inflexibles, grossières, et mêlées quelquefois avec des humeurs
-superflues que la chaleur très-faible de cet âge ne peut plus
-dissiper. 
-
-Car, de même que nous voyons que les fibres qui
-composent la chair se durcissent avec le temps, et que la chair
-d’un perdreau est sans contestation plus tendre que celle d’une
-vieille perdrix, ainsi les fibres du cerveau d’un enfant ou d’un
-jeune homme doivent être beaucoup plus molles et plus délicates
-que celles des personnes plus avancées en âge.
-
-L’on reconnaîtra la raison de ces changements si on considère
-que ces fibres sont continuellement agitées par les esprits
-animaux qui coulent à l’entour d’elles en plusieurs différentes
-manières ; car, de même que les vents séchent la terre sur
-laquelle ils soufflent, ainsi les esprits animaux, par leur agitation
-continuelle, rendent pen à peu la plupart des fibres du cerveau de l’homme plus sèches, plus comprimées et plus solides, en sorte
-que les personnes plus âgées les doivent avoir presque toujours
-plus inflexibles que ceux qui sont moins avancés en âge ; et pour
-ceux qui sont de même âge, les ivrognes qui, pendant plusieurs
-années, ont fait excès de vin ou de semblables boissons capables
-d’enivrer, doivent les avoir aussi plus solides et plus inflexibles
-que ceux qui se sont privés de ces boissons pendant toute leur
-vie.
-
-Or, les différentes constitutions du cerveau dans les enfants,
-dans les hommes faits et dans les vieillards sont des causes fort
-considérables de la différence qui se remarque dans la faculté
-d’imaginer de ces trois âges, desquels nous allons parler dans la
-suite.
+All the parts of living bodies are in continual motion, both the solid parts and the fluids, the flesh as well as the blood; there is only this difference between the movement of the one and the other, that the movement of the parts of the blood is visible and perceptible, and that of the fibers of our flesh is entirely imperceptible. There is therefore this difference between the animal spirits and the substance of the brain, that the animal spirits are very agitated and very fluid, and that the substance of the brain has some solidity and some consistency; so that the spirits divide into small parts and dissipate in a few hours, transpiring through the pores of the vessels that contain them, and often others come in their place that are not at all similar to them. But the fibers of the brain are not so easy to dissipate: considerable changes do not often happen to them, and their whole substance can change only after several years.
 
 
+## Three different changes in the three different ages.
+
+The most considerable differences found in the brain of the same man throughout his life are in childhood, in the age of a grown man, and in old age.
+
+The fibers of the brain in childhood are soft, flexible, and delicate; with age they become drier, harder, and stronger; but in old age, they are wholly inflexible, coarse, and sometimes mixed with superfluous humors that the very weak heat of that age can no longer dissipate. For, just as we see that the fibers that compose the flesh harden with time, and that the flesh of a partridge is unquestionably more tender than that of an old partridge, so the fibers of the brain of a child or a young man must be much softer and more delicate than those of persons more advanced in age.
+
+One will recognize the reason for these changes if one considers that these fibers are continually agitated by the animal spirits that flow around them in many different ways; for, just as the winds dry the earth upon which they blow, so the animal spirits, by their continual agitation, render little by little most of the fibers of the human brain drier, more compressed, and more solid, so that older persons must almost always have them more inflexible than those who are less advanced in age; and for those of the same age, drunkards who, for several years, have exceeded in wine or similar drinks capable of intoxicating, must also have them more solid and more inflexible than those who have abstained from these drinks all their lives.
+
+Now, the different constitutions of the brain in children, in grown men, and in old people are very considerable causes of the difference noticed in the faculty of imagining in these three ages, of which we shall speak in what follows.

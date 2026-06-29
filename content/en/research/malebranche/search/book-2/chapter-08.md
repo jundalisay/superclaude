@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8
-title: "The Passions"
+title: "How to Raise Children"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,298 +10,50 @@ date: 2026-06-20
 
 
 
-I. Changements qui arrivent à l’imagination d’un enfant qui sort du sein de sa mère, par
-la conversation qu’il a avec sa nourrice, sa mère, et d’autres personnes. — II. Avis pour les bien élever.
+In the preceding chapter, we considered the brain of a child in its mother's womb; let us now examine what happens to it as soon as it has come out. At the same moment that it leaves the darkness and sees the light for the first time, the cold of the outside air seizes it; the most caressing embraces of the woman who receives it offend its delicate limbs; all external objects surprise it; they are all subjects of fear for it, because it does not yet know them, and it has of itself no strength to defend itself or to flee. The tears and cries by which it consoles itself are infallible signs of its pains and its fears; for they are indeed prayers that nature makes on its behalf to those present, so that they may defend it from the evils it suffers and from those it apprehends.
 
-Dans le chapitre précédent, nous avons considéré le cerveau
-d’un enfant dans le sein de sa mère ; examinons maintenant ce qui
-lui arrive dès qu’íl en est sorti. En même temps qu’il quitte les
-ténèbres et qu’il voit pour la première fois la lumière, le froid de
-l’air extérieur le saisit ; les embrassements les plus caressants de
-la femme qui le reçoit offensent ses membres délicats ; tous les
-objets extérieurs le surprennent ; ils lui sont tous des sujets de
-crainte, parce qu’il ne les connaît pas encore, et qu’il n’a de luimême aucune force pour se défendre ou pour fuir. Les larmes et
-les cris par lesquels il se console, sont des marques infaillibles
-de ses peines et de ses frayeurs ; car ce sont en effet des prières
-que la nature fait pour lui aux assistants, afin qu’ils le défendent
-des maux qu’il souffre et de ceux qu’il appréhende.
-Pour bien concevoir l’embarras où se trouve son esprit en cet
-état, il faut se souvenir que les fibres de son cerveau sont trèsmolles et très-délicates, et par conséquent que tous les objets de
-dehors font sur elles des impressions très-profondes. Car,
-puisque les plus petites choses se trouvent quelquefois capables
-de blesser une imagination faible, un si grand nombre d’objets
-surprenants ne peut manquer de blesser et de brouiller celle d’un
-enfant.
+To conceive well the embarrassment in which its mind finds itself in this state, one must remember that the fibers of its brain are very soft and very delicate, and consequently that all external objects make very deep impressions upon them. For, since the smallest things are sometimes capable of wounding a weak imagination, so great a number of surprising objects cannot fail to wound and disorder that of a child.
 
-Mais afin d’imaginer encore plus vivement les agitations et les
-peines où sont les enfants dans le temps qu’ils viennent au
-monde, et les blessures que leur imagination doit recevoir,
-représentons nous quel serait l’étonnement des hommes s’ils
-voyaient devant leurs yeux des géants cinq, ou six fois plus hauts
-qu’eux, qui s’approcheraient sans leur rien faire connaître de leur
+But in order to imagine even more vividly the agitations and pains that children suffer at the time they come into the world, and the wounds their imagination must receive, let us represent to ourselves what would be the astonishment of men if they saw before their eyes giants five or six times taller than themselves, who approached without making known their purpose; or if they saw some new species of animals that bore no relation to those they had already seen, or merely if a winged horse or some other chimera of our poets descended suddenly from the clouds to the earth. What profound traces these prodigies would make in their minds, and how many brains would be disordered for having seen them only once! Every day it happens that an unexpected event that has something terrible about it causes grown men to lose their minds — men whose brains are not very susceptible to new impressions, who have experience, who can defend themselves, or at least who can take some resolution. Children in coming into the world suffer something from all the objects that strike their senses, to which they are not accustomed. All the animals they see are animals of a new species for them, since they have seen nothing outside of all that they see at that moment; they have neither strength nor experience; the fibers of their brain are very delicate and very flexible. How, then, could it be that their imagination should not remain wounded by so many different objects?
+
+It is true that mothers have already somewhat accustomed their children to the impressions of objects, since they have already traced them in the fibers of their brain when they were still in their womb; and thus they are much less wounded when they see with their own eyes what they had already perceived in some manner through those of their mothers. It is also true that the false traces and wounds that their imagination has felt at the sight of so many objects terrible to them close up and heal with time; because, not being natural, the whole body is opposed to them and effaces them, as we saw in the preceding chapter; and it is this that prevents all men from generally being mad from childhood. But this does not prevent there always remaining some traces so strong and so deep that they cannot be effaced, so that they last as long as life.
+
+If men made strong reflections on what passes within themselves and on their own thoughts, they would not lack experiences proving what has just been said. They would ordinarily recognize in themselves secret inclinations and aversions that others do not have, for which it seems no other cause can be given than these traces of our earliest days. For since the causes of these inclinations and aversions are particular to us, they are not founded in the nature of man; and since they are unknown to us, they must have acted at a time when our memory was not yet capable of retaining the circumstances of things that might have reminded us of them, and this time can only be that of our most tender infancy.
+
+Descartes wrote in one of his letters that he had a particular friendship for all cross-eyed persons; and that, having carefully sought the cause of it, he finally recognized that this defect was found in a young girl he loved when he was still a child: the affection he had for her spreading to all persons who resembled her in some way.
+
+But it is not these small disorders of our inclinations that cast us most into error; it is that we all, or almost all, have a false turn of mind in something; and that we are almost all subject to some kind of madness, although we do not think so. When one carefully examines the character of those with whom one converses, one easily persuades oneself of this; and although one may perhaps be an original oneself, and others judge so, one finds that all others are also originals, and that there is no difference between them except of more or less. This, then, is a fairly ordinary source of the errors of men: this upheaval of their brain caused by the impression of external objects at the time they come into the world; but this cause does not cease as soon as one might imagine.
 
 
-dessein ; ou s’ils voyaient quelque nouvelle espèce d’animaux
-qui n’eussent aucun rapport avec ceux qu’ils ont déjà vus, ou
-seulement si un cheval ailé ou quelqu’autre chimère de nos
-poëtes descendait subitement des nues sur la terre. Que ces
-prodiges feraient de profondes traces dans les esprits, et que de
-cervelles se brouilleraient pour les avoir vus seulement une fois
-Tous les jours il arrive qu’un événement inopiné et qui a
-quelque chose de terrible fait perdre l’esprit à des hommes faits,
-dont le cerveau n’est pas fort susceptible de nouvelles
-impressions, qui ont de l’expérience, qui peuvent se défendre, ou
-au moins qui peuvent prendre quelque résolution. Les enfants en
-venant au monde souffrent quelque chose de tous les objets qui
-frappent leurs sens, auxquels ils ne sont pas accoutumés. Tous les
-animaux qu’ils voient sont des animaux d’une nouvelle espèce
-pour eux, puisqu’ils n’ont rien vu au dehors de tout ce qu’íls
-voient pour lors ; ils n’ont ni force, ni expérience ; les fibres de
-leur cerveau sont très-délicates et très-flexibles. Comment donc
-se pourrait-il faire que leur imagination ne demeurât point
-blessée par tant d’objets différents ?
 
-Il est vrai que les mères ont déjà un peu accoutumé leurs
-enfants aux impressions des objets, puisqu’elles les ont déjà
-tracés dans les fibres de leur cerveau quand ils étaient encore
-dans leur sein ; et qu’ainsi ils en sont beaucoup moins blessés,
-lorsqu’ils voient de leurs propres yeux ce qu’ils avaient déjà
-aperçu en quelque manière par ceux de leurs mères. Il est encore
-vrai que les fausses traces et les blessures que leur imagination a
-ressenties à la vue de tant d’objets terribles pour eux, se ferment
-et se guérissent avec le temps ; parce que n’étant pas naturelles,
-tout le corps y est contraire et les efface comme nous avons vu dans le chapitre précédent ; et c’est ce qui empêche que
-généralement tous les hommes ne soient fous des leur enfance.
-Mais cela n’empêche pas qu’il n’y ait toujours quelques traces si
-fortes et si profondes, qu’elles ne se puissent etfacer, de sorte
-qu’elles durent autant que la vie.
+## Changes the imagination of a child who has just left its mother's womb, through the conversation it has with its nurse, its mother, and other persons
 
-Si les hommes faisaient de fortes réflexions sur ce qui se passe
-au dedans d’eux-mêmes et sur leurs propres pensées, ils ne
-manqueraient pas d’expériences qui prouvent ce que l’on vient de
-dire. Ils reconnaîtraient ordinairement en eux-mêmes des
-inclinations et des aversions secrètes, que les autres n’ont pas,
-desquelles il semble qu’on ne puisse donner d’autre cause que
-ces traces de nos premiers jours. Car puisque les causes de ces
-inclinations et aversions nous sont particulières, elles ne sont
-point fondées dans la nature de l’homme ; et puisqu’elles nous
-sont inconnues, il faut qu’elles aient agi en un temps où notre
-mémoire n’était pas encore capable de retenir les circonstances
-des choses qui auraient pu nous en faire souvenir, et ce temps ne
-peut être que celui de notre plus tendre enfance.
-Descartes a écrit dans une de ses lettres qu’il avait une amitié
-particulière pour toutes les personnes louches ; et qu’en ayant
-recherché Ia cause avec soin, il avait enfin reconnu que ce défaut
-se rencontrait en une jeune fille qu’il aimait lorsqu’il était encore
-enfant : l’affection qu’il avait pour elle se répandant à toutes les
-personnes qui lui ressemblaient en quelque chose.
-Mais ce ne sont pas ces petits dérèglements de nos
-inclinations. lesquels nous jettent le plus dans l’erreur : c’est que
-nous avons tous ou presque tous l’esprit faux en quelque chose ;
-et que nous sommes presque tous sujets à quelque espèce de
-folie, quoique nous ne le pensions pas. Quand, on examine avec soin le génie de ceux avec lesquels on converse, on se persuade
-facilement de ceci ; et quoiqu’on soit peut-être original soi-même
-et que les autres en jugent ainsi, on trouve que tous les autres sont
-aussi des originaux, et qu’il n’y a de différence entre eux que du
-plus et du moins. Voilà donc une source assez ordinaire des
-erreurs des hommes, que ce bouleversement de leur cerveau
-causé par l’impression des objets extérieurs dans le temps qu’ils
-viennent au monde ; mais cette cause ne cesse pas sitôt qu’on
-pourrait s’imaginer.
+The ordinary conversation that children are obliged to have with their nurses, or even with their mothers, who often have no education at all, finishes ruining and entirely corrupting their minds. These women entertain them only with trifles, with ridiculous tales or tales capable of frightening them. They speak to them only of sensible things, and in a manner proper to confirm them in the false judgments of the senses. In a word, they cast into their minds the seeds of all the weaknesses they have themselves, such as their extravagant apprehensions, their ridiculous superstitions, and other similar weaknesses. This causes them, not being accustomed to seek the truth nor to relish it, to become at last incapable of discerning it and of making any use of their reason. From this comes a certain timidity and baseness of mind that remains with them for a very long time; for there are many who, at the age of fifteen or twenty, still have entirely the mind of their nurse.
 
-I. La conversation ordinaire que les enfants sont obligés
-d’avoir avec leurs nourrices, ou même avec leurs mères,
-lesquelles n’ont souvent aucune éducation, achève de leur perdre
-et de leur corrompre entièrement l’esprit. Ces femmes ne les
-entretiennent que de niaiseries, que de contes ridicules ou
-capables de leur faire peur. Elles ne leur parlent que des choses
-sensibles, et d’une manière propre à les confirmer dans les faux
-jugements des sens. En un mot, elles jettent dans leurs esprits les
-semences de toutes les faiblesses qu’elles ont elles-mêmes,
-comme de leurs appréhensions extravagantes, de leurs
-superstitions ridicules et d’autres semblables faiblesses. Ce qui
-fait que n’étant pas accoutumés à rechercher la vérité, ni à la
-goûter, ils deviennent enfin incapables de la discerner et de faire
-quelque usage de leur raison. De là leur vient une certaine
-timidité et bassesse d’esprit qui leur demeure fort longtemps ; car
-il y en a beaucoup qui, à l’âge de quinze et de vingt ans, ont
-encore tout l’esprit de leur nourrice.
+It is true that children do not appear very suited for the meditation of truth and for abstract and elevated sciences, because the fibers of their brain being very delicate, they are very easily agitated by even the weakest and least sensible objects; and their soul, necessarily having sensations proportional to the agitation of these fibers, abandons metaphysical thoughts and those of pure intellection, to apply itself solely to its sensations. Thus, it seems that children cannot consider with sufficient attention the pure ideas of truth, being so often and so easily distracted by the confused ideas of the senses.
 
-Il est vrai que les enfants ne paraissent pas fort propres pour la
-méditation de la vérité et pour les sciences abstraites et relevées,
-parce que les fibres de leur cerveau étant très-délicates, elles
-229
-sont très-facilement agitées par les objets même les plus faibles
-et les moins sensibles ; et leur âme ayant nécessairement des
-sensations proportionnées à l’agitation de ces fibres, elle laisse
-là les pensées métaphysiques et de pure intellection, pour
-s’appliquer uniquement à ses sensations. Ainsi, il semble que les
-enfants ne peuvent pas considérer avec assez d’attention les idées
-pures de la vérité, étant si souvent et si facilement distraits par
-les idées confuses des sens.
+However, one can answer, first, that it is easier for a child of seven years to free itself from the errors to which the senses lead it, than for a person of sixty who has followed the prejudices of childhood all his life. Second, that if a child is not capable of the clear and distinct ideas of truth, it is at least capable of being warned that its senses deceive it on all sorts of occasions; and if one does not teach it the truth, at least one should not entertain it nor strengthen it in its errors. Finally, the youngest children, however overwhelmed they may be by agreeable and painful feelings, nevertheless learn in a short time what persons of advanced age cannot do in much more time — such as the knowledge of the order and relations that exist between all the words and all the things they see and hear. For although these things depend hardly at all on anything but memory, it nevertheless appears that they make much use of their reason in the manner in which they learn their language.
 
-Cependant on peut répondre, premièrement, qu’il est plus
-facile à un enfant de sept ans de se délivrer des erreurs où les
-sens le portent, qu’à une personne de soixante qui a suivi toute sa
-vie les préjugés de l’enfance. Secondement, que si un enfant n’est
-pas capable des idées claires et distinctes de la vérité, il est du
-moins capable d’être averti que ses sens le trompent en toutes
-sortes d’occasions ; et si on ne lui apprend pas la vérité, du
-moins ne doit-on pas entretenir, ni le fortifier dans ses erreurs.
-Enfin, les plus jeunes enfants, tout accablés qu’ils sont de
-sentiments agréables et pénibles, ne laissent pas d’apprendre en
-peu de temps ce que des personnes avancées en âge ne peuvent
-faire en beaucoup davantage, comme la connaissance de l’ordre
-et des rapports qui se trouvent entre tous les mots et toutes les
-choses qu’ils voient et qu’ils entendent. Car quoique ces choses
-ne dépendent guère que de la mémoire, cependant il paraît assez
-qu’ils font beaucoup d’usage de leur raison dans la manière dont
-ils apprennent leur langue.
 
-II. Mais puisque la facilité qu’ont les fibres du cerveau des
-enfants pour recevoir les impressions touchantes des objets
-sensibles, est la cause pour laquelle on les juge incapables des
-sciences abstraites, il est difficile d’y remédier. Car il faut qu’on
-230
-avoue que si on tenait les enfants sans crainte, sans désirs et sans
-espérances ; si on ne leur faisait point souffrir de douleurs, si on
-les éloignait autant qu’il se peut de leurs petits plaisirs, on
-pourrait leur apprendre, dès qu’ils sauraient parler, les choses
-les plus difficiles et les plus abstraites, ou tout au moins les
-mathématiques sensibles, la mécanique et d’autres choses
-semblables qui sont nécessaires dans la suite de la vie. Mais ils
-n’ont garde d’appliquer leur esprit à des sciences abstraites,
-lorsqu’on les agite par des désirs et qu’on les trouble par des
-frayeurs, ce qu’il est très-nécessaire de bien considérer.
-Car comme un homme ambitieux, qui viendrait de perdre son
-bien et son honneur, ou qui aurait été élevé tout d’un coup à une
-grande dignité qu’il n’espérait pas, ne serait point en état de
-résoudre des questions de métaphysique ou des équations
-d’algèbre ; mais seulement de faire les choses que la passion
-présente lui inspirerait ainsi, les enfants, dans le cerveau
-desquels une pomme et des dragées font des impressions aussi
-profondes que les charges et les grandeurs en font dans celui d’un
-homme de quarante ans, ne sont pas en état d’écouter des vérités
-abstraites qu’on leur enseigne. De sorte qu’on peut dire qu’il n’y
-a rien qui soit si contraire à l’avancement des enfants dans les
-sciences, que les divertissements continuels dont on les
-récompense, et que les peines dont on les punit et dont on les
-menace sans cesse.
+##  Advice for raising them well
 
-Mais ce qui est infiniment plus considérable, c’est que ces
-craintes de châtiments et ces désirs de récompenses sensibles,
-dont on remplit l’esprit des enfants, les éloignent entièrement de
-la piété. La dévotion est encore plus abstraite que la science, elle
-est encore moins du goût de la nature corrompue. L’esprit de
-231
-l’homme est assez porté à l’étude, mais il n’est point porté à la
-piété. Si donc les grandes agitations ne nous permettent pas
-d’étudier, quoiqu’il y ait naturellement du plaisir, comment se
-pourrait-il faire que des enfants, qui sont tout occupés des
-plaisirs sensibles dont on les récompense et des peines dont on
-les effraie, se conservassent encore assez de liberté d’esprit pour
-goûter les choses de piété ?
+But since the facility that the fibers of children's brains have for receiving striking impressions from sensible objects is the cause for which they are judged incapable of abstract sciences, it is difficult to remedy this. For one must admit that if children were kept without fear, without desires, and without hopes; if they were made to suffer no pains; if they were kept as far as possible from their little pleasures — one could teach them, as soon as they could speak, the most difficult and abstract things, or at least sensible mathematics, mechanics, and other similar things that are necessary in the course of life. But they are by no means likely to apply their minds to abstract sciences, when they are agitated by desires and troubled by fears — which it is very necessary to consider carefully.
 
-La capacité de l’esprit est fort limitée, il ne faut pas beaucoup
-de choses pour la remplir ; et dans le temps que l’esprit est plein,
-il est incapable de nouvelles pensées s’il ne se vide auparavant.
-Mais lorsque l’esprit est rempli des idées sensibles, il ne se vide
-pas comme il lui plaît. Pour concevoir ceci, il faut considérer
-que nous sommes tous incessamment portés vers le bien par les
-inclinations de la nature ; et que le plaisir étant le caractère par
-lequel nous le distinguons du mal, il est nécessaire que le plaisir
-nous touche et nous occupe plus que tout le reste. Le plaisir étant
-donc attaché à l’usage des choses sensibles parce qu’elles sont le
-bien du corps de l’homme, il y a une espèce de nécessité que ces
-biens remplissent la capacité de notre esprit jusqu’à ce que Dieu
-répande sur eux une certaine amertume qui nous en donne du
-dégoût et de l’horreur ou qu’il nous fasse sentir par sa grâce cette
-douceur du ciel qui efface toutes les douceurs de la terre :…
-dando menti cœlestem delectatíonem, qua omnís terrena
-delectatío superetur
-[8]
-.
-Mais, parce que nous sommes autant portés à fuir le mal qu’à
-aimer le bien, et que la douleur est le caractère que la nature a
-attaché au mal, tout ce que nous venons de dire du plaisir se doit,
-dans un sens contraire, entendre de la douleur.
-Puis donc que les choses qui nous font sentir du plaisir et de la
-douleur remplissent la capacité de l’esprit, et qu’il n’est pas en
-notre pouvoir de les quitter, et de n’en être pas touché, quand
-nous le voulons ; il est visible qu’on ne peut faire goûter la piété
-aux enfants non plus qu’au reste des hommes, si on ne commence,
-selon les préceptes de l’Évangile, par la privation de toutes les
-choses qui touchent les sens et qui excitent de grands désirs et de
-grandes craintes : puisque toutes les passions offusquent et
-éteignent la grâce et cette délectation intérieure que Dieu nous
-fait sentir dans notre devoir.
+For just as an ambitious man who had just lost his property and his honor, or who had been raised suddenly to a great dignity he had not hoped for, would not be in a state to solve questions of metaphysics or algebraic equations, but only to do the things that the present passion would inspire in him — so children, in whose brain an apple or some sweets make impressions as profound as offices and grandeurs make in that of a man of forty, are not in a state to listen to the abstract truths taught to them. So that one can say that there is nothing so contrary to the advancement of children in the sciences as the continual amusements with which they are rewarded, and the pains with which they are punished and continually threatened.
 
-Les plus petits enfants ont de la raison aussi bien que les
-hommes faits, quoiqu’ils n’aient pas d’expérience : ils ont aussi
-les mêmes inclinations naturelles, quoiqu’ils se portent à des
-objets bien différents. Il faut donc les accoutumer à se conduire
-par la raison, puisqu’ils en ont ; et il faut les exciter à leur devoir
-en ménageant adroitement leurs bonnes inclinations. C’est
-éteindre leur raison et corrompre leurs meilleures inclinations
-que de les tenir dans leur devoir par des impressions sensibles.
-Ils paraissent alors être dans leur devoir ; mais ils n’y sont qu’en
-apparence. La vertu n’est pas dans le fond de leur esprit, ni dans
-le fond de leur cœur ; ils ne la connaissent presque pas, et ils
-l’aiment encore beaucoup moins. Leur esprit n’est plein que de
-frayeurs et de désirs, d’aversions et d’amitiés sensibles,
-desquelles il ne se peut dégager pour se mettre en liberté et pour
-faire usage de sa raison. Ainsi les enfants qui sont élevés de cette
-manière basse et servile s’accoutument, peu à peu à une certaine
-insensibilité pour tous les sentiments d’un honnête homme et d’un
-chrétien, laquelle leur demeure toute leur vie ; et quand ils
-espèrent se mettre à couvert des châtiments par leur autorité ou
-par leur adresse, ils s’abandonnent à tout ce qui flatte la
-concupiscence et les sens, parce qu’en effet ils ne connaissent
+But what is infinitely more considerable is that these fears of punishments and these desires of sensible rewards, with which children's minds are filled, entirely remove them from piety. Devotion is even more abstract than science; it is even less to the taste of corrupt nature. Man's mind is sufficiently inclined to study, but it is not inclined to piety. If, therefore, great agitations do not permit us to study, although there is naturally pleasure in it, how could it be that children, who are wholly occupied with the sensible pleasures with which they are rewarded and the pains with which they are frightened, should still preserve enough freedom of mind to relish things of piety?
 
-point d’autres biens que les biens sensibles.
-Il est vrai qu’il y a des rencontres où il est nécessaire
-d’instruire les enfants par leurs sens, mais il ne le faut faire que
-lorsque la raison ne suffit pas. Il faut d’abord les persuader par
-la raison de ce qu’ils doivent faire ; et s’ils n’ont pas assez de
-lumière pour reconnaître leurs obligations, il semble qu’il faille
-les laisser en repos pour quelque temps. Car ce ne serait pas les
-instruire que de les forcer de faire extérieurement ce qu’ils ne
-croient pas devoir faire, puisque c’est l’esprit qu’il faut instruire
-et non pas le corps. Mais s’ils refusent de faire ce que la raison
-leur montre qu’ils doivent faire, il ne le faut jamais souffrir ; et il
-faut plutôt en venir à quelque sorte d’excès, car en ces rencontres
-celui qui épargne son fils a pour lui, selon le Sage, plus de haine
-que d’amour
-[9]
-.
-Si les châtiments n’instruisent pas l’esprit, et s’ils ne font point
-aimer la vertu, ils instruisent au moins en quelque manière le
-corps, et ils empêchent que l’on ne goûte le vice, et par
-conséquent que l’on ne s’en rende esclave. Mais ce qu’il faut
-principalement remarquer c’est que les peines ne remplissent pas
-la capacité de l’esprit, comme les plaisirs. On cesse facilement
-d'y penser, des qu’on cesse de les souffrir et qu’il n’y a plus de
-sujet de les craindre. Car alors elles ne sollicitent point
-l’imagination ; elles n’excitent point les passions ; elles n’irritent
-point la concupiscence ; enfin elles laissent à l’esprit toute la
-liberté de penser à ce qu’il lui plaît. Ainsi on peut s’en servir
-envers les enfants pour les retenir dans leur devoir ou dans
-l’apparence de leur devoir.
-Mais s’il est quelquefois utile d’effrayer et de punir les enfants
-par des châtiments sensibles, il ne faut pas conclure qu’on doive
+The capacity of the mind is very limited; it does not take many things to fill it; and when the mind is full, it is incapable of new thoughts unless it first empties itself. But when the mind is filled with sensible ideas, it does not empty itself as it pleases. To conceive this, one must consider that we are all ceaselessly drawn toward good by the inclinations of nature; and that pleasure being the mark by which we distinguish it from evil, it is necessary that pleasure touch us and occupy us more than all the rest. Pleasure being therefore attached to the use of sensible things because they are the good of man's body, there is a kind of necessity that these goods fill the capacity of our mind until God pours upon them a certain bitterness that gives us disgust and horror for them, or until He makes us feel by His grace that sweetness of heaven which effaces all the sweetnesses of earth: *dando menti cœlestem delectationem, qua omnis terrena delectatio superetur* [giving to the mind a heavenly delight by which all earthly delight is surpassed].
 
-les attirer par des récompenses sensibles, il ne faut se servir de
-ce qui touche les sens avec quelque force que dans la dernière
-nécessité. Or, il n’y en a aucune de leur donner des récompenses
-sensibles et de leur représenter ces récompenses comme la fin de
-leurs occupations. Ce serait au contraire corrompre toutes leurs
-meilleures actions et les porter plutôt à la sensualité qu’à la
-vertu. Les traces des plaisirs qu’on à une fois goûtés demeurent
-fortement imprimées dans l’imagination ; elles réveillent
-continuellement les idées des biens sensibles ; elles excitent
-toujours les désirs importuns, qui troublent la paix de l’esprit ;
-enfin elles irritent la concupiscence en toutes rencontres, et c’est
-un levain qui corrompt tout : mais ce n’est pas ici le lieu
-d’expliquer ces choses comme elles le méritent.
+But because we are as much drawn to flee evil as to love good, and because pain is the mark that nature has attached to evil, all that we have just said of pleasure must, in a contrary sense, be understood of pain.
 
+Since, then, the things that make us feel pleasure and pain fill the capacity of the mind, and it is not in our power to leave them and not to be touched by them when we wish; it is evident that one cannot make children, any more than the rest of men, relish piety, if one does not begin, according to the precepts of the Gospel, by depriving them of all things that touch the senses and excite great desires and great fears — since all the passions obscure and extinguish grace and that interior delight that God makes us feel in our duty.
+
+The youngest children have reason as well as grown men, although they lack experience; they also have the same natural inclinations, although they direct themselves toward very different objects. They must therefore be accustomed to conduct themselves by reason, since they have it; and they must be excited to their duty by skillfully managing their good inclinations. It is to extinguish their reason and corrupt their best inclinations to keep them in their duty by sensible impressions. They then appear to be in their duty; but they are so only in appearance. Virtue is not at the bottom of their mind, nor at the bottom of their heart; they scarcely know it, and they love it even less. Their mind is filled only with fears and desires, with aversions and sensible friendships, from which it cannot free itself to put itself at liberty and to make use of its reason. Thus children who are raised in this base and servile manner accustom themselves little by little to a certain insensibility to all the sentiments of an honest man and a Christian, which remains with them all their lives; and when they hope to shelter themselves from punishments by their authority or their cunning, they abandon themselves to all that flatters concupiscence and the senses, because in fact they know no other goods than sensible goods.
+
+It is true that there are occasions when it is necessary to instruct children through their senses, but this should only be done when reason is not sufficient. They must first be persuaded by reason of what they ought to do; and if they do not have enough light to recognize their obligations, it seems that they should be left alone for some time. For it would not be to instruct them to force them to do outwardly what they do not believe they ought to do, since it is the mind that must be instructed and not the body. But if they refuse to do what reason shows them they ought to do, this must never be tolerated; and one must rather go to some sort of excess, for on these occasions he who spares his son has for him, according to the Wise Man, more hatred than love.
+
+If punishments do not instruct the mind, and if they do not make virtue loved, they at least instruct the body in some way, and they prevent one from relishing vice, and consequently from becoming its slave. But what must principally be noted is that pains do not fill the capacity of the mind like pleasures. One easily ceases to think of them once one ceases to suffer them and there is no longer any reason to fear them. For then they do not solicit the imagination; they do not excite the passions; they do not irritate concupiscence; finally, they leave the mind all the freedom to think of what it pleases. Thus they can be used with children to keep them in their duty or in the appearance of their duty.
+
+But if it is sometimes useful to frighten and punish children with sensible punishments, one must not conclude that they should be attracted by sensible rewards. That which touches the senses with any force should be used only in the last necessity. Now, there is no necessity whatever to give them sensible rewards and to represent these rewards as the end of their occupations. On the contrary, that would be to corrupt all their best actions and to lead them rather to sensuality than to virtue. The traces of pleasures once tasted remain strongly imprinted in the imagination; they continually awaken the ideas of sensible goods; they constantly excite importunate desires that disturb the peace of the mind; finally, they irritate concupiscence on all occasions, and it is a leaven that corrupts everything: but this is not the place to explain these things as they deserve.
 
