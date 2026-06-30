@@ -55,6 +55,10 @@ Putting this under our Medium-Substance-Quantum Model, we say that:
 
 There are an infinite number of instances, and so the mind would have to assign new identities to each instance, which is then has to remember.
 
+{{< n n="We are still looking into Cantor's set theory to see if he had the same idea. But it seems that he did not have the concept of expressive or alive and nonexpressive or dead sets" >}}
+
+
+
 Since the mind's memory capacity is finite, it groups the identities into repeatable patterns using the same base identities.
 
 - This is also why **Supermath** is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.

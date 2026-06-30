@@ -1,5 +1,5 @@
 ---
-title: "Questions about the Atlanteans and Lemuria"
+title: "Questions about the Atlanteans (Aztlan) and Lemuria (Mu)"
 weight: 8
 image: "/photos/medieval/lapu.jpg"
 description: "Bashar answers Questions about Atlanteans"
@@ -43,6 +43,7 @@ Noah was Atlantean.
 
 Aztec and Basque have Atlantean DNA.
 
+Stonehenge was Atlantean culture. It was built to bring back or remember that culture. 
 
 
 The Atlantean technique to communicate with plants and animals is to imagine themselves as the plant or animal. 
@@ -95,5 +96,3 @@ Name | Location | Information or Archtype
 Sequoia | North East America near Canada | Tree energy
 Tet | Angkor wat | Other energies 
 Shem | Tibet | Other dimensions and portals
-
-
