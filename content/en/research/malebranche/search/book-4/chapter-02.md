@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The Rules"
+title: "The inclination for good is the principle of the restlessness of our will"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,488 +10,88 @@ date: 2026-06-20
 
 
 
-I. L’inclination pour le bien en général est le principe de d’inquiétude de notre volonté.
-— II. Et par conséquent de notre peu d’application et de notre ignorance. — III.
-Premier exemple, la morale peu connue du commun des hommes. — IV. Second
-exemple, l’immortalité de l’âme contestée par quelques personnes. — V. Que
-notre ignorance est extrême à l’égard des choses arbitraires, ou qui n’ont guère
-de rapport à nous.
+## The inclination for good in general is the principle of the restlessness of our will
 
-I. Cette vaste capacité qu’a la volonté pour tous les biens en
-général, à cause qu’elle n’est faite que pour un bien qui renferme
-en soi tous les biens, ne peut être remplie par toutes les choses
-que l’esprit lui représente ; et cependant ce mouvement continuel
-que Dieu lui imprime vers le bien ne peut s’arrêter. Ce
-mouvement, ne cessant jamais, donne nécessairement à l’esprit
-une agitation continuelle ; la volonté qui cherche ce qu’elle
-désire oblige l’esprit de se le représenter sous toutes sortes
-d’objets. L’esprit se les représente, mais l’âme ne les goûte pas ;
-ou, si elle les goûte, elle ne s’en contente pas. L’âme ne les goûte
-pas, parce que souvent la vue de l’esprit n’est point accompagnée
-de plaisir ; car c’est par le plaisir que l’âme goûte son bien ; et l’âme ne s’en contente pas, parce qu’il n’y a rien qui puisse
-arrêter le mouvement de l’àme que celui qui le lui imprime. Tout
-ce que l’esprit se représente comme son bien est fini ; et tout ce
-qui est fini peut détourner pour un moment notre amour, mais il ne
-peut le fixer. Lorsque l’esprit considère des objets fort nouveaux
-et fort extraordinaires, ou qui tiennent quelque chose de l’infini,
-la volonté souffre pour quelque temps qu’il les examine avec
-attention, parce qu’elle espère y trouver ce qu’elle cherche, et
-que ce qui paraît infini porte le caractère de son vrai bien ; mais,
-avec le temps, elle s’en dégoûte aussi bien que des autres. Elle
-est donc toujours inquiète, parce qu’elle est portée à chercher ce
-qu’elle ne peut jamais trouver et ce qu’elle espère toujours de
-trouver ; et elle aime le grand, l’extraordinaire et ce qui tient de
-l’infini, parce que, n’ayant pas trouvé son vrai bien dans les
-choses communes et familières, elle s’imagine le trouver dans
-celles qui ne lui sont point connues. Nous ferons voir, dans ce
-chapitre, que l’inquiétude de notre volonté est une des
-principales causes de l’ignorance où nous sommes et des erreurs
-où nous tombons sur une infinité de sujets ; et, dans les deux
-suivants, nous expliquerons ce que produit en nous l’inclination
-que nous avons pour tout ce qui a quelque chose de grand et
-d’extraordinaire.
+This vast capacity that the will has for all goods in general, because it is made only for a good that contains in itself all goods, cannot be filled by all the things that the mind represents to it; and yet this continuous movement that God imprints in it toward the good cannot stop. 
 
-II. Il est assez évident par les choses que l’on a dites,
-premièrement, que la volonté n’applique guère l’entendement
-qu’à des objets qui ont quelque rapport avec nous, et qu’elle
-néglige fort les autres ; car, souhaitant toujours la félicité avec
-ardeur et par l’impression de la nature, elle ne tourne
-l’entendement que vers les choses qui nous paraissent utiles et
-qui nous causent quelque plaisir.
-
-Secondement, que la volonté ne permet pas que l’entendement
-s’occupe long-temps à des choses même qui lui donnent quelque
-plaisir, parce que, comme on vient de dire, toutes les choses
-créées peuvent bien nous plaire pour quelque temps, mais nous
-nous en dégoûtons bientôt après, et alors notre esprit s’en
-détourne et cherche ailleurs de quoi se satisfaire.
-Troisièmement, que la volonté est excitée à faire ainsi courir
-l’esprit d’objet en objet, parce qu’il n’est jamais sans lui
-représenter coufusément, et comme de loin, celui qui contient en
-soi tous les êtres, comme nous l’avons dit dans le troisième livre.
-Car la volonté voulant, pour ainsi dire, approcher davantage de
-soi son vrai bien pour en être touchée et pour en recevoir le
-mouvement qui l’anime, elle excite l’entendement à se le
-représenter par quelque endroit. Mais alors ce n’est plus l’être
-général et universel, ce n’est plus l’être infiniment parfait que
-l’esprit aperçoit ; c’est quelque chose de borné et d’imparfait,
-qui ne pouvant arrêter le mouvement de la volonté ni lui plaire
-long-temps, elle l’abandonne pour courir après quelque autre
-objet.
-
-Cependant l’attention et l’application de l’esprit étant
-absolument nécessaire pour découvrir les vérités un peu cachées,
-il est manifeste que le commun des hommes doit être dans une
-ignorance très-grossière à l’égard même des choses qui ont
-quelque rapport à eux, et qu’ils sont dans un aveuglement
-inconcevable à l’égard de toutes les vérités abstraites et qui n’ont
-point de rapport sensible avec eux. Mais il faut lâcher de faire
-sentir ces choses par des exemples.
-
-III. Il n’y a point de science qui ait tant de rapport à nous que
-la morale ; c’est elle qui nous apprend tous nos devoirs à l’égard
-472
-de Dieu, de notre prince, de nos parents, de nos amis, et
-généralement de tout ce qui nous environne. Elle nous enseigne
-même le chemin qu’il faut suivre pour devenir éternellement
-heureux ; et tous les hommes sont dans une obligation essentielle,
-ou plutôt dans une nécessité indispensable de s’y appliquer
-uniquement. Cependant il y à six mille ans qu’il y a des hommes,
-et cette science est encore fort imparfaite.
-Cette partie de la morale qui regarde ce que l’on doit à Dieu,
-et qui sans doute est la principale, puisqu’elle a rapport à
-l’éternité, n’a presque point été connue des plus savants, et l’on
-trouve encore à présent des personnes d’esprit qui n’en ont
-aucune connaissance. Cependant c’est la partie de la morale la
-plus facile ; car, premièrement, quelle difficulté y a-t-il à
-reconnaître qu’il y a un Dieu ? Tout ce que Dieu a fait le prouve ;
-tout ce que les hommes et les bêtes font le prouve ; tout ce que
-nous pensons, tout ce que nous voyons, tout ce que nous sentons
-le prouve ; en un mot, il n’y a rien qui ne prouve l’existence de
-Dieu ou qui ne la puisse prouver zi des esprits attentifs et qui
-s’appliquent sérieusement à rechercher l’auteur de toutes choses.
-En second lieu, il est évident qu’il faut suivre les ordres de
-Dieu pour être heureux ; car, étant puissant et juste, on ne peut lui
-désobéir sans être puni, ni lui obéir sans être récompensé. Mais
-que demande-t-il de nous ? Que nous l’aimions, que notre esprit
-soit occupé de lui, que notre cœur soit tourné vers lui. Car
-pourquoi a-t-il créé les esprits ? Certainement il ne peut rien
-faire que pour lui : il ne nous a donc faits que pour lui, et nous
-sommes indispensable ment obligés à ne point détourner ailleurs
-l’impression d’amour qu’il conserve sans cesse en nous afin que
-nous l’aimions sans cesse.
-
-Ces vérités ne sont pas fort difficiles à découvrir pour peu que
-l’on s’y applique. Cependant ce seul principe de morale : que
-pour être vertueux et heureux, il est absolument nécessaire
-d’aimer Dieu sur toutes choses et en toutes choses, est le
-fondement de toute la morale chrétienne. Il ne faut pas aussi
-s’appliquer extrêmement pour en tirer toutes les conséquences
-dont nous avons besoin, pour établir les règles générales de notre
-conduite, quoiqu’il y ait très-peu de personnes qui les firent, et
-que l’on dispute encore tous les jours sur des questions de
-morale qui sont des suites immédiates et nécessaires d’un
-principe aussi évident qu’est celui-là.
-
-Les géomètres font toujours quelques nouvelles découvertes
-dans leur science ; ou, s’ils ne la perfectionnent pas beaucoup,
-c’est qu’ils ont déjà tiré de leurs principes les conséquences les
-plus utiles et les plus nécessaires. Mais la plupart des hommes
-semblent incapables de rien conclure du premier principe de la
-morale : toutes leurs idées s’évanouissent et se dissipent
-lorsqu’ils veulent seulement y penser, parce qu’ils ne le veulent
-pas comme il faut ; et ils ne le veulent pas parce qu’ils ne le
-goûtent pas ou parce qu’ils s’en dégoûtent trop tôt après qu’ils
-l’ont goûté. Ce principe est abstrait, métaphysique, purement
-intelligible : il ne se sent pas, il ne s’imagine pas. Il ne parait
-donc pas solide à des yeux charnels ou à des esprits qui ne voient
-que par les yeux. Il ne se trouve rien dans la considération sèche
-et abstraite de ce principe qui puisse faire cesser l’inquiétude de
-leur volonté et qui puisse fixer la vue de leur esprit pour le
-considérer avec quelque attention. Quelle espérance donc qu’ils
-le voient bien, qu’ils le comprennent bien et qu’ils en concluent
-directement ce qu’ils en doivent conclure ?
-
-Si les hommes ne comprenaient qu’imparfaitement cette
-proposition de géométrie : que les côtés des triangles semblables
-sont proportionnels entre eux, certainement ils ne seraient pas de
-grands géomètres. Mais si, outre cette vue confuse et imparfaite
-de cette proposition fondamentale de géométrie, ils avaient
-encore quelque intérêt que les côtés des triangles semblables ne
-fussent pas proportionnels, et que la fausse géométrie fut aussi
-commode pour leurs inclinations perverses que la fausse morale,
-ils pourraient bien faire des paralogismes aussi absurdes en
-géométrie qu’en matière de morale, parce que leurs erreurs leur
-seraient agréables, et que la vérité ne ferait que les embarrasser,
-que les étourdir et que les fâcher.
-
-Il ne faut donc pas s’étonner de l’aveuglement des hommes qui
-vivaient dans les siècles passés, pendant lesquels l’idolâtrie
-régnait dans le monde, ou de ceux qui vivent maintenant, et qui ne
-sont point encore éclairés par la lumière de l’Évangile. Il fallait
-que la sagesse éternelle se rendît enfin sensible pour instruire des
-hommes qui n’interrogent que leurs sens. Il y avait quatre mille
-ans que la vérité parlait à leur esprit ; mais ne rentrant point dans
-eux-mêmes, ils ne l’entendaient pas : il fallait qu’elle parlât à
-leurs oreilles. La lumière qui éclaire tous les hommes luisait
-dans leurs ténèbres sans les dissiper, ils ne pouvaient même la
-regarder ; il fallait que la lumière intelligible se voilât et se
-rendit visible ; il fallait que le Verbe se fit chair, et que la
-sagesse cachée et inaccessible aux hommes charnels les instruisit
-d’une manière charnelle, carnaliter, dit saint Bernard
-[1]
-. La plupart des hommes, et principalement les pauvres, qui sont le
-plus digne objet de la miséricorde et de la providence du
-Créateur, ceux qui sont obligés de travailler pour gagner leur vie,
-sont extrêmement grossiers et stupides : ils n’entendent que parce 
-qu’ils ont des oreilles, et ils ne voient que parce qu’ils ont des
-yeux. Ils sont incapables de rentrer en eux-mêmes par quelque
-effort d’esprit, pour y interroger la vérité dans le silence de leurs
-sens et de leurs passions. Ils ne peuvent s’appliquer à la vérité,
-parce qu’ils ne peuvent la goûter ; et souvent ils ne s’avisent pas
-même de s’y appliquer, parce qu’ils ne s’avisent pas de
-s’appliquer à ce qui ne les touche pas. Leur volonté inquiète et
-volage tourne incessamment la vue de leur esprit vers tous les
-objets sensibles qui leur plaisent et qui les divertissant par leur
-variété ; car la multiplicité et la diversité des biens sensibles
-sont cause que l’on en reconnaît moins la vanité, et que l’on est
-toujours dans Vespérance d’y rencontrer le vrai bien que l’on
-désire.
-
-Ainsi, quoique les conseils que Jésus-Christ, comme homme,
-comme auteur de notre foi, nous donne dans l’Évangile, soient
-beaucoup plus proportionnes à la faiblesse de notre esprit que
-ceux que le même Jésus-Christ, comme sagesse éternelle, comme
-vérité intérieure, comme lumière intelligible, nous inspire dans le
-plus secret de notre raison ; quoique Jésus-Christ rende ces
-conseils agréables par sa grâce, sensibles par son exemple,
-convaincants par ses miracles, les hommes sont si stupides et si
-incapables de réflexion, même sur les choses qu’il leur est de la
-dernière conséquence de bien savoir, qu’íls n’y pensent presque
-jamais comme ils le doivent. Peu de gens voient la beauté de
-l’Évangile ; peu de gens conçoivent la solidité et la nécessité des
-conseils de Jésus-Christ ; peu les méditent, peu s’en nourrissent
-et s’en fortifient, l’agitation continuelle de la volonté qui cherche
-le goût du bien ne permettant pas que l’on s’arrête à des vérités
-qui semblent Pen priver. Voici une autre preuve de ce que je dis.
-
-IV. Les impies doivent sans doute se mettre fort en peine de
-savoir si leur âme est mortelle, comme ils le pensent, ou si elle
-est immortelle, comme la foi et la raison nous l’apprennent. C’est
-là une chose de la dernière conséquence pour eux, il y va de leur
-éternité, et le repos même de leur esprit en dépend. D’où vient
-donc qu’ils ne le savent pas, ou qu’ils demeurent dans le doute, si
-ce n’est qu’ils ne sont pas capables d’une attention un peu
-sérieuse, et que leur volonté inquiète et corrompue ne permet pas
-à leur esprit de regarder fixement les raisons, qui sont contraires
-aux sentiments qu’ils voudraient être véritables ? Car enfin est-ce
-une chose si difficile à reconnaître que la différence qu’il y a
-entre l’âme et le corps, entre ce qui pense et ce qui est étendu ?
-Faut-il apporter une si grande attention d’esprit pour voir qu’une
-pensée n’est rien de rond ni de carré, que l’étendue n’est capable
-que de différentes figures et de différents mouvements, et non pas
-de pensée et de raisonnement, et qu’ainsi ce qui pense et ce qui
-est étendu sont deux êtres tout à-fait opposés ? Cependant cela
-seul suffit pour démontrer que l’âme est immortelle, et qu’elle ne
-peut périr quand même le corps serait anéanti.
-Lorsqu’une substance périt, il est vrai que les modes ou les
-manières d’être de cette substance périssent avec elle. Si un
-morceau de cire était anéanti, il est vrai que les figures de cette
-cire seraient aussi anéanties avec elle, parce que la rondeur, par
-exemple, de la cire, n’est en effet que la cire même d’une telle
-façon ; ainsi elle ne peut subsister sans la cire. Mais quand Dieu
-détruirait toute la cire qui est au monde, il ne s’ensuivrait pas
-pourtant de là qu’aucune autre substance ni que les modes
-d’aucune autre substance fussent anéantis. Toutes les pierres, par
-exemple, subsisteraient avec tous leurs modes, parce que les
-pierres sont des substances ou des êtres, et non pas des manières d’être de la cire.
-De même, quand Dieu anéantirait la moitié de quelque corps,
-il ne s’ensuivrait pas que l’autre moitié fût anéantie. Cette
-dernière moitié est unie avec l’autre, mais elle n’est pas une avec
-elle. Ainsi. une moitié étant anéantie, il s’ensuit bien, selon la
-lumière de la raison, que l’autre moitié n’y a plus de rapport,
-mais il ne s’ensuit pas qu’elle ne soit plus, puisque son être étant
-différent, il ne peut être réduit au néant par l’anéantissement de
-l’autre. Il est donc clair que la pensée n’étant point la
-modification de l’étendue, notre âme n’est point anéantie, quand
-même on supposerait que la mort anéantirait notre corps.
-Mais on n’a pas raison de s’imaginer que le corps même soit
-anéanti lorsqu’il est détruit. Les parties qui le composent se
-dissipent en vapeurs et se résolvent en poussière : on ne les voit
-plus et on ne les reconnaît plus. Il est vrai, mais on n’en doit pas
-conclure qu’elles ne sont plus, car l’esprit les aperçoit toujours.
-Si l’on sépare un grain de moutarde en deux, en quatre, en vingt
-parties, on l’anéantit à nos yeux, car on ne le voit plus ; mais on
-ne l’anéantit pas en lui-même, on ne l’anéantit pas à l’esprit, car
-l’esprit le voit, quand même on le diviserait en mille ou cent
-mille parties.
-
-C’est une notion commune à tout homme qui se sert plutôt de sa
-raison que de ses sens, que rien ne peut s’anéantir par les forces
-ordinaires de la nature ; car de même qu’il ne se peut faire
-naturellement quelque chose de rien, il ne se peut faire aussi
-qu’une substance ou qu’un être devienne rien. Le passage de
-l’être au néant, ou du néant à l’être, est également impossible.
-Les corps peuvent donc se corrompre, si l’on veut appeler
-corruption les changements qui leur arrivent, mais ils ne peuvent
-478
-pas s’anéantir. Ce qui est rond peut devenir carré, ce qui est chair
-peut devenir terre, vapeur, et tout ce qu’il vous plaira, car toute
-étendue est capable de toute sorte de configuration ; mais la
-substance de ce qui est rond et de ce qui est chair ne peut périr. Il
-y a certaines lois établies dans la nature, selon lesquelles les
-corps changent successivement de formes, parce que la variété
-successive de ces formes fait la beauté de l’univers, et donne de
-Yadmiratíon pour son auteur ; mais il n’y a point de loi dans la
-nature pour l’anéantissement d’aucun être, parce que le néant n’a
-rien de beau ni rien de bon, et que l’auteur de la nature aime son
-ouvrage. Les corps peuvent donc changer, mais ils ne peuvent pas
-périr.
-Mais si en s’arrêtant au rapport de ses sens on veut soutenir
-avec opíniàtreté que la résolution des corps est un véritable
-anéantissement, à cause que les parties dans lesquelles ils se
-résolvent sont imperceptibles à nos yeux ; qu’on se souvienne au
-moins que les corps ne peuvent se diviser en ces parties
-imperceptibles que parce qu’ils sont étendus ; car si l’esprit n’est
-point étendu il ne sera pas divisible, et s’il n’est pas divisible il
-faudra demeurer d’accord qu’en ce sens il ne sera pas
-corruptible. Mais comment pourrait-on s’imaginer que l’esprit fût
-étendu et divisible ? On peut par une ligne droite couper un carré
-en deux triangles ; en deux parallélogrammes, en deux trapèzes,
-mais par quelle ligne peut-on concevoir qu’un plaisir, qu’une
-douleur, qu’un désir se puissent couper, et quelle figure
-résulterait de cette division ? Certainement je ne crois pas que
-l’imagination soit assez féconde en fausses idées pour se
-satisfaire là-dessus.
-
-L’esprit n’est donc point étendu, il n’est point divisible, il n’est point susceptible des mêmes changements que le corps ;
-néanmoins il faut tomber d’accord qu’il n’est pas immuable par
-sa nature. Si le corps est capable d’un nombre infini de
-différentes figures et de différentes configurations, l’esprit est
-aussi capable d’un nombre infini de différentes idées et de
-différentes modifications ; Comme après notre mort la substance
-de notre chair se résoudra en terre, en vapeurs, et en une infinité
-d’autres corps sans s’anéantir, de même notre âme, sans rentrer
-dans le néant, aura des pensées et des sentiments bien différents
-de ceux qu’elle a pendant cette vie. Il est nécessaire, maintenant
-que nous vivons, que notre corps soit composé de chair et d’os ;
-il est aussi nécessaire pour vivre que notre âme ait les idées et
-les sentiments qu’elle a par rapport au corps auquel elle est unie.
-Mais lorsqu’elle sera séparée de son corps, elle sera en pleine
-liberté de recevoir de toutes sortes d’idées et de modifications
-bien ditlérentes de celles qu’elle a présentement, comme notre
-corps de son cote sera capable de recevoir de toutes sortes de
-ñgures et de conñgirations bien différentes de celles qu’il est
-nécessaire qu’il ait pour être le corps d’un homme vivant.
-Les choses que je viens de dire font ce me semble assez voir
-que l’immortalité de l’àme n’est pas une chose si difficile à
-comprendre. D’où peut donc venir que tant de gens en doutent, si
-ce n’est qu’il ne leur plaît pas d’apporter aux raisons qui la
-prouvent le peu d’attention qui est nécessaire pour s’en
-convaincre ? Et d’où vient qu’ils ne le veulent pas, si ce n’est
-que leur volonté étant inquiète et inconstante agite sans cesse leur
-entendement, de sorte qu’il n’a pas le loisir d’apercevoir
-distinctement les idées mêmes qui lui sont les plus présentes,
-comme sont celles de la pensée et de l’étendue ; de même qu’un
-homme agité par quelque passion, et qui tourne incessamment les yeux de tous côtés, ne distingue pas le plus souvent les objets les
-plus proches et les plus exposés à sa vue ; car enfin la question
-de l’immortalité de l’âme est une des questions les plus faciles à
-résoudre, lorsque sans écouler son imagination l’on considère
-avec quelque attention d’esprit l’idée claire et distincte de
-l’étendue et le rapport qu’elle peut avoir avec la pensée ?
-Si l’inconstance et la légèreté de notre volonté ne permet pas à
-notre entendement de pénétrer le fond des choses qui lui sont
-très-présentes et qu’il nous est de la dernière conséquence de
-savoir ; il est facile de juger qu’elle nous permettra encore moins
-de méditer celles qui sont éloignées et qui n’ont aucun rapport à
-nous. De sorte que si nous sommes dans une ignorance trèsgrossière de la plupart des choses qu’il nous est très-nécessaire
-de savoir, nous ne serons pas fort éclairés dans celles qui nous
-paraissent entièrement vaines et inutiles.
-
-ll n’est pas fort nécessaire que je m’arrète à prouver ceci par
-des exemples ennuyeux et qui ne renferment point de vérités
-considérales, car s’il y a des choses que l’on doive ignorer ce
-sont celles qui ne servent à rien. Quoiqu’il y ait peu de gens qui
-s’appliquent sérieusement à des choses entièrement vaines et
-inutiles, il n’y en a encore que trop ; mais il ne peut y avoir trop
-de gens qui ne s’y appliquent pas et qui les méprisent, pourvu
-seulement qu’ils n’en jugent pas. Ce n’est pas un défaut à un
-esprit borné que de ne pas savoir certaines choses, c’est
-seulement un défaut d’en juger. L'ignorance est un mal nécessaire,
-mais on peut et on doit éviter l’erreur. Ainsi je ne condamne pas
-dans les hommes l'ignorance de beaucoup de choses, mais
-seulement les jugements téméraires qu’ils en portent.
+This movement, never ceasing, necessarily gives the mind a continual agitation; the will, seeking what it desires, obliges the mind to represent it to itself under all sorts of objects. The mind represents them, but the soul does not taste them; or, if it tastes them, it is not satisfied with them. The soul does not taste them, because often the view of the mind is not accompanied by pleasure; for it is by pleasure that the soul tastes its good; and the soul is not satisfied with it, because there is nothing that can stop the movement of the soul except the one who imprints it in it. All that the mind represents to itself as its good is finite; and all that is finite can turn aside our love for a moment, but it cannot fix it. When the mind considers objects that are very new and very extraordinary, or that partake of the infinite, the will suffers for some time that it examines them with attention, because it hopes to find there what it seeks, and that which appears infinite bears the character of its true good; but with time it becomes disgusted with them as well as with others. It is therefore always restless, because it is carried to seek what it can never find and what it always hopes to find; and it loves the great, the extraordinary, and what partakes of the infinite, because, not having found its true good in common and familiar things, it imagines finding it in those that are not known to it. We will show, in this chapter, that the restlessness of our will is one of the principal causes of the ignorance in which we are and of the errors into which we fall on an infinity of subjects; and, in the two following ones, we will explain what the inclination we have for everything that has something great and extraordinary produces in us.
 
 
-V. Lorsque les choses ont beaucoup de rapport à nous, qu’elles
+## Consequently of our lack of application and of our ignorance
 
-sont sensibles et qu’elles tombent aisément sous l’imagination,
-l’on peut dire que l’esprit s’y applique et qu’il en peut avoir
-quelque connaissance. Car lorsque nous savons que des choses
-ont rapport à nous, nous y pensons avec quelque inclination ; et
-lorsque nous sentons qu’elles nous touchent, nous nous y
-appliquons avec plaisir. De sorte que nous devrions être plus
-savants que nous ne sommes dans beaucoup de choses, si
-l’inquiétude et l’agitation de notre volonté ne troublait et ne
-fatiguait sans cesse notre attention.
+It is sufficiently evident from the things that have been said: first, that the will hardly applies the understanding except to objects that have some relation to us, and that it greatly neglects others; for, always ardently desiring happiness by the impression of nature, it turns the understanding only toward things that appear useful to us and that cause us some pleasure.
 
-Mais lorsque les choses sont abstraites et peu sensibles, nous
-n’en pouvons que difficilement avoir quelque connaissance
-assurée, non que les vérités abstraites soient d’elles-mêmes fort
-embarrassées, mais à cause que l’attention et la vue de l’esprit
-commence et finit d’ordinaire en même temps que la vue sensible
-des objets, parce que l’on ne pense qu’à ce que l’on voitet que
-l’on sent, et qu’au tant de temps qu’on le voit et qu’on le sent.
-Il est certain que si l’esprit pouvait facilement s’appliquer aux
-idées claires et distinctes sans être comme soutenu par quelque
-sentiment, et si l'inquiétude de la volonté ne détournait point sans
-cesse son application, nous ne trouverions pas de fort grandes
-difficultés dans une infinité de questions naturelles que nous
-regardons comme inexplorables, et nous pourrions en peu de
-temps nous délivrer de notre ignorance et de nos erreurs à leur
-égard.
+Second, that the will does not allow the understanding to occupy itself for a long time with things that even give it some pleasure, because, as has just been said, all created things may please us for some time, but we soon become disgusted with them, and then our mind turns away and seeks elsewhere to satisfy itself.
 
-C’est, par exemple, une vérité incontestable à tout homme qui
-fait usage de son esprit que la création et l’anéantissement
-surpassent les forces ordinaires de la nature. Si l’on demeurait
-donc attentif à cette notion pure de l’esprit et de la raison, on
-n’admettrait pas avec tant de facilité la création et
+Third, that the will is excited to thus make the mind run from object to object, because it is never without representing to it confusedly, and as from afar, the one who contains in himself all beings, as we have said in the third book. For the will, wishing, so to speak, to approach more closely its true good in order to be touched by it and to receive from it the movement that animates it, excites the understanding to represent it to itself under some aspect. But then it is no longer the general and universal being, it is no longer the infinitely perfect being that the mind perceives; it is something limited and imperfect, which, being unable to stop the movement of the will or to please it for long, it abandons to run after some other object.
 
-l’anéantissement d’un nombre infini de nouveaux êtres, comme
-des formes substantielles, des qualités et des facultés réelles, etc.
-On chercherait dans les idées distinctes que l’on a de l’étendue,
-de la figure et du mouvement, la raison des effets naturels ; ce qui
-n’est pas toujours si difficile qu’on se l’imagine, car toutes les
-choses de la nature se tiennent et se prouvent les unes les autres.
-Les effets du feu, comme ceux des canons et des mines, sont
-fort surprenants et leur cause est assez cachée. Néanmoins si les
-hommes, au lieu de s’arrêter aux impressions de leurs sens et à
-quelques expériences fausses ou trompeuses, s’arrêtaient
-fortement à cette seule notion de l’esprit pur, qu’il n’est pas
-possible qu’un corps qui est très-peu agité produise un
-mouvement violent, puisqu’il n’en peut pas donner plus qu’il n’en
-a lui-même, il serait facile de cela seul de conclure qu’il y a une
-matière subtile et invisible, qu’elle est très-agitée, qu’elle est
-répandue généralement dans tous les corps, et plusieurs autres
-choses semblables qui nous feraient connaître la nature du feu et
-qui nous serviraient encore à découvrir d’autres vérités plus
-cachées.
-
-Car puisqu’il se fait de si grands mouvements dans un canon et
-dans une mine et que tous les corps visibles qui les environnent
-ne sont point dans une assez grande agitation pour les produire,
-c’est une preuve certaine qu’il y en a d’autres invisibles et
-insensibles qui ont pour le moins autant d’ag|tation que le boulet
-de canon. mais qui étant très-subtils et très-déliés peuvent tout
-seuls passer librement et sans rien rompre par les pores du canon
-avant que le feu y soit, c’est-à-dire, comme on le peut voir
-expliqué plus au long et avec assez de vraisemblance dans M.
-Descartes
-[2]
-, avant qu’ils aient entouré les parties dures et
-483
-grossières du salpêtre dont la poudre est composée. Mais lorsque
-le feu y est, c’est-à-dire lorsque ces parties très-subtiles et trèsagitées ont environné les parties grossières et solides du salpêtre
-et leur ont ainsi communiqué leur mouvement très-fort et trèsviolent, alors il est nécessaire que tout crève, parce que les pores
-du canon, qui laissaient des passages libres de tous côtés aux
-parties subtiles dont nous parlons lorsqu’elles étaient seules, ne
-sont point assez grands pour laisser passer les parties grossières
-du salpêtre et quelques autres dont la poudre est composée,
-lorsqu’elles ont reçu l’agitation des parties subtiles qui les
-environnent.
+However, attention and application of the mind being absolutely necessary to discover truths that are somewhat hidden, it is manifest that the common run of men must be in a very gross ignorance with regard even to things that have some relation to them, and that they are in an inconceivable blindness with regard to all abstract truths that have no sensible relation to them. But we must try to make these things felt by examples.
 
 
-Car de même que l’eau des rivières qui coule sous les ponts ne
-les ébranle pas à cause de la petitesse de ses parties, ainsi la
-matière très-subtile et très-déliée dont on vient de parler passe
-continuellement au travers des pores de tous les corps sans y
-faire des changements sensibles. Mais de même aussi que cette
-rivière est capable de renverser un pont lorsque, traînant dans le
-cours de ses eaux quelques grandes masses de glaces ou quelques
-autres corps plus solides, elle les pousse contre lui avec le même
-mouvement qu’elle a ; ainsi la matière subtile est capable de
-faire les effets surprenants que nous voyons dans les canons et
-dans les mines, lorsque ayant communiqué aux parties de la
-poudre qui nagent au milieu d’elle son mouvement infiniment plus
-violent et plus rapide que celui des rivières et des torrents, ces
-mêmes parties de la poudre ne peuvent pas librement passer par
-les pores du corps qui les enferme, à cause qu’elles sont trop
-grossières, de sorte qu’elles les rompent avec violence pour se
-faire un passage libre.
+## First example: morality little known by the common run of men
 
-Mais les hommes ne peuvent pas si facilement se représenter
-484
-des parties subtiles et déliées, et ils les regardent comme des
-chimères à cause qu’ils ne les voient pas. Contemplatio fere
-desinit cum aspectu, dit Bacon. La plupart même des
-philosophes aiment mieux inventer quelque nouvelle entité pour
-ne se pas taire sur ces choses qu’ils ignorent. Et si on objecte
-contre leurs fausses et incompréhensibles suppositions qu’il est
-nécessaire que le feu soit composé de parties très-agitées,
-puisqu’il produit des mouvements si violents, et qu’une chose ne
-peut communiquer ce qu’elle n’a pas, ce qui certainement est une
-objection très-claire et très-solide ; ils ne manquent pas de tout
-confondre par quelque distinction frivole et imaginaire, comme
-celle des causes équivoques et univoques, afin de paraitre dire
-quelque chose lorsqu’en effet. ils ne disent rien. Car enfin c’est
-une notion commune à des esprits attentifs qu’il ne peut pas y
-avoir dans la nature de véritable cause équivoque au sens qu’ils
-l’entendent, et que l’ignorance seule des hommes les a inventées.
-Les hommes doivent donc s’attacher davantage à la
-considération des notions claires et distinctes s’ils veulent
-connaître la nature ; ils doivent un peu réprimer et arrêter
-l’inconstance et la légèreté de leur volonté s’ils veulent pénétrer
-le fond des choses, car leurs esprits seront toujours faibles,
-superficiels et discursifs, si leurs volontés demeurent toujours
-légères, inconstantes et volages.
+There is no science that has as much relation to us as morality; it is it that teaches us all our duties toward God, toward our prince, toward our parents, toward our friends, and generally toward everything that surrounds us. It even teaches us the path we must follow to become eternally happy; and all men are under an essential obligation, or rather an indispensable necessity, to apply themselves to it exclusively. However, there have been men for six thousand years, and this science is still very imperfect.
+
+That part of morality which concerns what one owes to God, and which without doubt is the principal one, since it has relation to eternity, has hardly been known to the most learned, and one still finds at present persons of wit who have no knowledge of it. Yet it is the easiest part of morality; for, first, what difficulty is there in recognizing that there is a God? All that God has done proves it; all that men and beasts do proves it; all that we think, all that we see, all that we feel proves it; in a word, there is nothing that does not prove the existence of God or that could not prove it if attentive minds seriously applied themselves to seeking the author of all things.
+
+Secondly, it is evident that one must follow the orders of God to be happy; for, being powerful and just, one cannot disobey Him without being punished, nor obey Him without being rewarded. But what does He ask of us? That we love Him, that our mind be occupied with Him, that our heart be turned toward Him. For why did He create spirits? Certainly He can do nothing except for Himself: He therefore made us only for Himself, and we are indispensably obliged not to turn elsewhere the impression of love that He continually preserves in us so that we love Him without ceasing.
+
+These truths are not very difficult to discover with a little application. Yet this single principle of morality—that to be virtuous and happy it is absolutely necessary to love God above all things and in all things—is the foundation of all Christian morality. One does not need to apply oneself extremely to draw from it all the consequences we need, to establish the general rules of our conduct, although very few people do so, and one still disputes every day on questions of morality that are immediate and necessary consequences of a principle as evident as that one.
+
+Geometers always make some new discoveries in their science; or, if they do not perfect it much, it is because they have already drawn from their principles the most useful and most necessary consequences. But most men seem incapable of concluding anything from the first principle of morality: all their ideas vanish and dissipate when they only want to think about it, because they do not want to as they should; and they do not want to because they do not taste it or because they become disgusted with it too soon after having tasted it. This principle is abstract, metaphysical, purely intelligible: it is not felt, it is not imagined. It therefore does not appear solid to carnal eyes or to minds that see only through the eyes. There is found in the dry and abstract consideration of this principle nothing that can make the restlessness of their will cease and that can fix the view of their mind to consider it with some attention. What hope, then, that they see it well, that they understand it well, and that they conclude from it directly what they ought to conclude from it?
+
+If men understood only imperfectly this proposition of geometry—that the sides of similar triangles are proportional to each other—certainly they would not be great geometers. But if, besides this confused and imperfect view of this fundamental proposition of geometry, they still had some interest that the sides of similar triangles were not proportional, and that false geometry were as convenient for their perverse inclinations as false morality, they might well make paralogisms as absurd in geometry as in morality, because their errors would be agreeable to them, and truth would only embarrass them, stun them, and vex them.
+
+One must not therefore be astonished at the blindness of men who lived in past centuries, during which idolatry reigned in the world, or of those who live now, and who are not yet enlightened by the light of the Gospel. It was necessary that eternal wisdom should finally make itself sensible to instruct men who consult only their senses. For four thousand years truth had spoken to their mind; but not entering into themselves, they did not hear it: it was necessary that it speak to their ears. The light that enlightens all men shone in their darkness without dissipating it, they could not even look at it; it was necessary that intelligible light veil itself and make itself visible; it was necessary that the Word become flesh, and that the wisdom hidden and inaccessible to carnal men instruct them in a carnal manner, *carnaliter*, says Saint Bernard
+[1]. Most men, and principally the poor, who are the most worthy object of the mercy and providence of the Creator, those who are obliged to work to earn their living, are extremely coarse and stupid: they understand only because they have ears, and they see only because they have eyes. They are incapable of entering into themselves by some effort of mind, to interrogate truth in the silence of their senses and passions. They cannot apply themselves to truth, because they cannot taste it; and often they do not even think of applying themselves to it, because they do not think of applying themselves to what does not touch them. Their restless and fickle will incessantly turns the view of their mind toward all sensible objects that please them and that divert them by their variety; for the multiplicity and diversity of sensible goods are the cause that one recognizes their vanity less, and that one is always in the hope of encountering there the true good that one desires.
+
+Thus, although the counsels that Jesus Christ, as man, as author of our faith, gives us in the Gospel are much more proportioned to the weakness of our mind than those that the same Jesus Christ, as eternal wisdom, as inner truth, as intelligible light, inspires in the most secret of our reason; although Jesus Christ renders these counsels agreeable by His grace, sensible by His example, convincing by His miracles, men are so stupid and so incapable of reflection, even on things that it is of the utmost consequence for them to know well, that they almost never think of them as they ought. Few people see the beauty of the Gospel; few people conceive the solidity and necessity of the counsels of Jesus Christ; few meditate on them, few nourish themselves and strengthen themselves with them, the continual agitation of the will that seeks the taste of good not allowing them to stop at truths that seem to deprive them of it. Here is another proof of what I say.
 
 
-Il est vrai qu’il y a quelque fatigue et qu’il faut se contraindre
-pour se rendre attentif et pour pénétrer le fond des choses que
-l’on veut savoir, mais on n’a rien sans peine. Il est honteux que
-des personnes d’esprit et des philosophes, qui sont obligés par
-toutes sortes de raisons à la recherche et à la défense de la vérité,
-parlent sans savoir ce qu’ils disent, et se contentent de termes qui
-485
-ne réveillent aucune idée distincte dans les esprits attentifs.
+## Second example: the immortality of the soul contested by some persons
+
+The impious must undoubtedly be very concerned to know whether their soul is mortal, as they think, or whether it is immortal, as faith and reason teach us. This is a thing of the utmost consequence for them, their eternity is at stake, and even the rest of their mind depends on it. Why then do they not know it, or why do they remain in doubt, if not that they are not capable of a somewhat serious attention, and that their restless and corrupt will does not allow their mind to look fixedly at the reasons that are contrary to the sentiments they would like to be true? For finally, is it such a difficult thing to recognize the difference that there is between the soul and the body, between what thinks and what is extended? Is it necessary to bring such a great attention of mind to see that a thought is nothing round or square, that extension is capable only of different figures and different motions, and not of thought and reasoning, and that thus what thinks and what is extended are two entirely opposite beings? Yet this alone suffices to demonstrate that the soul is immortal, and that it cannot perish even if the body were annihilated.
+
+When a substance perishes, it is true that the modes or manners of being of that substance perish with it. If a piece of wax were annihilated, it is true that the figures of that wax would also be annihilated with it, because the roundness, for example, of the wax is in effect only the wax itself in such a way; thus it cannot subsist without the wax. But even if God destroyed all the wax that is in the world, it would not follow from that that any other substance or that the modes of any other substance were annihilated. All stones, for example, would subsist with all their modes, because stones are substances or beings, and not manners of being of the wax.
+
+Likewise, if God annihilated half of some body, it would not follow that the other half was annihilated. This latter half is united with the other, but it is not one with it. Thus, one half being annihilated, it follows well, according to the light of reason, that the other half no longer has relation to it, but it does not follow that it is no longer, since its being being different, it cannot be reduced to nothing by the annihilation of the other. It is therefore clear that thought not being the modification of extension, our soul is not annihilated, even if one supposes that death annihilates our body.
+
+But one is not right to imagine that the body itself is annihilated when it is destroyed. The parts that compose it dissipate into vapors and dissolve into dust: one no longer sees them and no longer recognizes them. It is true, but one must not conclude from that that they no longer exist, for the mind always perceives them. If one separates a grain of mustard into two, into four, into twenty parts, one annihilates it to our eyes, for one no longer sees it; but one does not annihilate it in itself, one does not annihilate it to the mind, for the mind sees it, even if one divides it into a thousand or a hundred thousand parts.
+
+It is a notion common to every man who uses his reason rather than his senses, that nothing can be annihilated by the ordinary forces of nature; for just as something cannot naturally be made from nothing, so a substance or a being cannot become nothing. The passage from being to nothing, or from nothing to being, is equally impossible. Bodies can therefore corrupt, if one wishes to call corruption the changes that happen to them, but they cannot be annihilated. What is round can become square, what is flesh can become earth, vapor, and whatever you please, for all extension is capable of all sorts of configurations; but the substance of what is round and of what is flesh cannot perish. There are certain laws established in nature, according to which bodies successively change forms, because the successive variety of these forms constitutes the beauty of the universe, and gives admiration for its author; but there is no law in nature for the annihilation of any being, because nothingness has nothing beautiful nor good, and the author of nature loves his work. Bodies can therefore change, but they cannot perish.
+
+But if, stopping at the report of one's senses, one wants to maintain with obstinacy that the resolution of bodies is a true annihilation, because the parts into which they are resolved are imperceptible to our eyes; let one remember at least that bodies can only divide into these imperceptible parts because they are extended; for if the mind is not extended it will not be divisible, and if it is not divisible it will be necessary to agree that in this sense it will not be corruptible. But how could one imagine that the mind were extended and divisible? One can by a straight line cut a square into two triangles, into two parallelograms, into two trapezoids, but by what line can one conceive that a pleasure, a pain, a desire can be cut, and what figure would result from this division? Certainly I do not believe that the imagination is fertile enough in false ideas to satisfy itself on that.
+
+The mind is therefore not extended, it is not divisible, it is not susceptible to the same changes as the body; nevertheless it must be agreed that it is not immutable by its nature. If the body is capable of an infinite number of different figures and different configurations, the mind is also capable of an infinite number of different ideas and different modifications. Just as after our death the substance of our flesh will dissolve into earth, into vapors, and into an infinity of other bodies without being annihilated, so our soul, without returning into nothingness, will have thoughts and feelings very different from those it has during this life. It is necessary, now that we live, that our body be composed of flesh and bones; it is also necessary for living that our soul have the ideas and feelings it has in relation to the body to which it is united. But when it is separated from its body, it will be in full freedom to receive all sorts of ideas and modifications very different from those it has presently, just as our body on its side will be capable of receiving all sorts of figures and configurations very different from those it is necessary for it to have to be the body of a living man.
+
+The things I have just said seem to me to show sufficiently that the immortality of the soul is not such a difficult thing to understand. How can it then come about that so many people doubt it, if not that it does not please them to bring to the reasons that prove it the little attention necessary to convince themselves? And why do they not want to, if not that their will being restless and inconstant agitates their understanding without ceasing, so that it has not the leisure to perceive distinctly even the ideas that are most present to it, such as those of thought and extension; just as a man agitated by some passion, and who turns his eyes incessantly in all directions, most often does not distinguish the objects closest and most exposed to his view; for finally the question of the immortality of the soul is one of the easiest questions to resolve, when, without listening to one's imagination, one considers with some attention of mind the clear and distinct idea of extension and the relation it can have to thought?
+
+If the inconstancy and lightness of our will does not allow our understanding to penetrate the depths of things that are very present to it and that it is of the utmost consequence for us to know; it is easy to judge that it will allow us even less to meditate on those that are distant and that have no relation to us. So that if we are in a very gross ignorance of most of the things it is very necessary for us to know, we will not be very enlightened in those that appear to us entirely vain and useless.
+
+It is not very necessary that I stop to prove this by boring examples that contain no considerable truths, for if there are things that one should ignore, they are those that serve no purpose. Although there are few people who seriously apply themselves to entirely vain and useless things, there are still too many; but there cannot be too many people who do not apply themselves to them and who despise them, provided only that they do not judge them. It is not a defect in a limited mind not to know certain things, it is only a defect to judge them. Ignorance is a necessary evil, but one can and must avoid error. Thus I do not condemn in men the ignorance of many things, but only the rash judgments they make about them.
+
+
+## Our ignorance is extreme with regard to arbitrary things, or those which have little relation to us
+
+When things have much relation to us, when they are sensible and when they fall easily under the imagination, one can say that the mind applies itself to them and that it can have some knowledge of them. For when we know that things have relation to us, we think of them with some inclination; and when we feel that they touch us, we apply ourselves to them with pleasure. So that we should be more learned than we are in many things, if the restlessness and agitation of our will did not trouble and fatigue our attention without ceasing.
+
+But when things are abstract and little sensible, we can only with difficulty have any assured knowledge of them, not that abstract truths are in themselves very embarrassing, but because the attention and view of the mind ordinarily begin and end at the same time as the sensible view of objects, because one thinks only of what one sees and feels, and as long as one sees it and feels it.
+
+It is certain that if the mind could easily apply itself to clear and distinct ideas without being as if supported by some feeling, and if the restlessness of the will did not incessantly turn aside its application, we would not find very great difficulties in an infinity of natural questions that we regard as inexplorable, and we could in a short time deliver ourselves from our ignorance and our errors with regard to them.
+
+It is, for example, an incontestable truth for every man who uses his mind that creation and annihilation surpass the ordinary forces of nature. If one therefore remained attentive to this pure notion of the mind and of reason, one would not admit with so much facility the creation and annihilation of an infinite number of new beings, such as substantial forms, qualities and real faculties, etc. One would seek in the distinct ideas one has of extension, figure, and motion, the reason for natural effects; which is not always as difficult as one imagines, for all the things of nature hold together and prove each other.
+
+The effects of fire, like those of cannons and mines, are very surprising and their cause is quite hidden. Nevertheless if men, instead of stopping at the impressions of their senses and at some false or deceptive experiences, stopped firmly at this single notion of pure mind, that it is not possible that a body that is very little agitated produce a violent motion, since it cannot give more than it has itself, it would be easy from this alone to conclude that there is a subtle and invisible matter, that it is very agitated, that it is generally spread throughout all bodies, and several other similar things that would make us know the nature of fire and that would also serve us to discover other more hidden truths.
+
+For since such great motions are made in a cannon and in a mine, and all the visible bodies that surround them are not in a sufficiently great agitation to produce them, it is a certain proof that there are others invisible and insensible that have at least as much agitation as the cannonball, but which being very subtle and very fine can alone pass freely and without breaking anything through the pores of the cannon before the fire is there—that is to say, as one can see explained at greater length and with enough plausibility in Mr. Descartes
+[2], before they have surrounded the hard and coarse parts of the saltpeter of which gunpowder is composed. But when the fire is there—that is to say, when these very subtle and very agitated parts have surrounded the coarse and solid parts of the saltpeter and have thus communicated to them their very strong and very violent motion—then it is necessary that everything burst, because the pores of the cannon, which left free passages on all sides to the subtle parts we speak of when they were alone, are not large enough to let pass the coarse parts of the saltpeter and some others of which gunpowder is composed, when they have received the agitation of the subtle parts that surround them.
+
+For just as the water of rivers that flows under bridges does not shake them because of the smallness of its parts, so the very subtle and very fine matter just spoken of continually passes through the pores of all bodies without making sensible changes in them. But just as this river is capable of overturning a bridge when, dragging in the course of its waters some large masses of ice or some other more solid bodies, it pushes them against it with the same motion it has; so the subtle matter is capable of producing the surprising effects that we see in cannons and in mines, when having communicated to the parts of the powder that float in its midst its infinitely more violent and rapid motion than that of rivers and torrents, these same parts of the powder cannot freely pass through the pores of the body that encloses them, because they are too coarse, so that they break them with violence to make themselves a free passage.
+
+But men cannot so easily represent to themselves subtle and fine parts, and they regard them as chimeras because they do not see them. *Contemplatio fere desinit cum aspectu*, says Bacon. Most even of philosophers prefer to invent some new entity so as not to remain silent on these things they are ignorant of. And if one objects against their false and incomprehensible suppositions that it is necessary that fire be composed of very agitated parts, since it produces such violent motions, and that a thing cannot communicate what it does not have—which certainly is a very clear and very solid objection—they do not fail to confuse everything by some frivolous and imaginary distinction, such as that of equivocal and univocal causes, in order to appear to say something when in effect they say nothing. For finally it is a notion common to attentive minds that there cannot be in nature a truly equivocal cause in the sense they understand it, and that only the ignorance of men invented them.
+
+Men must therefore attach themselves more to the consideration of clear and distinct notions if they wish to know nature; they must somewhat repress and stop the inconstancy and lightness of their will if they wish to penetrate the depths of things, for their minds will always be weak, superficial, and discursive, if their wills remain always light, inconstant, and fickle.
+
+It is true that there is some fatigue and that one must constrain oneself to become attentive and to penetrate the depths of the things one wishes to know, but one has nothing without pain. It is shameful that persons of wit and philosophers, who are obliged by all sorts of reasons to the search and defense of truth, speak without knowing what they say, and content themselves with terms that awaken no distinct idea in attentive minds.
+
 

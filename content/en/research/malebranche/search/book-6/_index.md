@@ -1,6 +1,6 @@
 ---
 heading: Book 6
-title: "The Rules"
+title: "The Method"
 description: ""
 a: "Malebranche"
 c: "indigo"

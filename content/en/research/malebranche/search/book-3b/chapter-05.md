@@ -1,119 +1,35 @@
 ---
 heading: Chapter 5
-title: "The Rules"
+title: "The Essence of Objects"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 13
 date: 2026-06-20
 ---
 
 
 
+The mind sees neither the essence nor the existence of objects by considering its own perfections.
 
+Only God sees them in this manner.
 
-Que l’esprit ne voit ni l’essence ni l’existence des objets en considérant ses propres
-perfections. Qu’il n’y a que Dieu qui les voie en cette manière.
-402
-La quatrième opinion est que l’esprit n’a besoin que de soimême pour apercevoir les objets ; et qu’il peut, en se considérant
-et ses propres perfections, découvrir toutes les choses qui sont au
-dehors.
-Il est certain que l’àme voit dans elle-même et sans idées
-toutes les sensations et toutes les passions dont elle est capable,
-le plaisir, la douleur, le froid, la chaleur, les couleurs, les sons,
-les odeurs, les saveurs, son amour, sa haine, sa joie, sa tristesse
-et les autres ; parce que toutes les sensations et toutes les
-passions de l’âme ne représentent rien qui soit hors d’elle, qui
-leur ressemble, et que ce ne sont que des modifications dont un
-esprit est capable
-[16]
-. 
+The fourth opinion is that the mind needs only itself to perceive objects; and that it can, by considering itself and its own perfections, discover all the things that are outside.
 
-Mais la difficulté est de savoir si les idées
-qui représentent quelque chose qui est hors de l’âme et qui leur
-ressemble en quelque façon, comme les idées du soleil, d’une
-maison, d’un cheval, d’une rivière, etc., ne sont que des
-modificátions de l’âme ; de sorte que l’esprit nfait besoin que de
-lui-même pour se représenter toutes les choses qui sont hors de
-lui.
+It is certain that the soul sees within itself, and without ideas, all the sensations and all the passions of which it is capable—pleasure, pain, cold, heat, colors, sounds, odors, tastes, its love, its hatred, its joy, its sadness, and the others; because all the sensations and all the passions of the soul represent nothing outside itself that resembles them, and they are only modifications of which a mind is capable
+[16].
 
-ll y a des personnes qui ne font point de difficulté d’assurer
-que l’àme étant faite pour penser, elle a dans elle-même, je veux
-dire en considérant ses propres perfections, tout ce qu’il lui faut
-pour apercevoir les objets ; parce qu’en effet, étant plus noble
-que toutes les choses qu’elle conçoit distinctement, on peut dire
-qu’elle les contient en quelque sorte éminemment, comme parle
-l’École, c'est-à-dire d’une manière plus noble et plus relevée
-qu’elles ne sont en elles-mêmes. Ils prétendent que les choses
-supérieures comprennent en cette sorte les perfections des
-inférieures. Ainsi, étant les plus nobles des créatures qu’ils connaissent, ils se flattent d’avoir dans eux-mêmes d’une manière
-spirituelle tout ce qui est dans le monde visible, et de pouvoir en
-se modifiant diversement apercevoir tout ce que l’esprit humain
-est capable de connaître. En un mot, ils veulent que l’aime soit
-comme un monde intelligible qui comprend en soi tout ce que
-comprend le monde matériel et sensible, et même infiniment
-davantage.
+But the difficulty is to know whether the ideas that represent something outside the soul and that resemble it in some way—such as the ideas of the sun, a house, a horse, a river, etc.—are only modifications of the soul; so that the mind needs only itself to represent to itself all the things that are outside it.
 
-Mais il me semble que c’est être bien hardi que de vouloir
-soutenir cette pensée. C’est, si je ne me trompe, la vanité
-naturelle, l’amour de l’indépendance et le désir de ressembler à
-celui qui comprend en soi tous les êtres, qui nous brouille
-l’esprit et qui nous porte à nous imaginer que nous possédons ce
-que nous n’avons point. Ne dites pas que vous soyez á vousmême votre lumière, dit saint Augustin
-[17]
-, car il n’y a que Dieu
-qui soit à lui-même sa lumière et qui puisse en se considérant
-voir tout ce qu’il a produit et qu”il peut produire
-[18]
-.
-Il est indubitable qu’il n’y avait que Dieu seul avant que le
-monde fût créé, et qu’il n’a pu le produire sans connaissance et
-sans idée ; que par conséquent ces idées que Dieu en a eues ne
-sont point différentes de lui-même ; et qu’ainsi toutes les
-créatures. même les plus matérielles et les plus terrestres, sont en
-Dieu, quoique d’une manière toute spirituelle et que nous ne
-pouvons comprendre. Dieu voit donc au dedans de lui-même tous
-les êtres, en considérant ses propres perfections qui les lui
-représentent. Il connaît encore parfaitement leur existence, parce
-que, dépendant tous de sa volonté pour exister, et ne pouvant
-ignorer ses propres volontés, il s’ensuit qu’il ne peut ignorer leur
-existence ; et par conséquent Dieu voit en lui-même nonseulement l’essence des choses. mais aussi leur existence.
+There are persons who do not hesitate to affirm that the soul, being made to think, has within itself—I mean, by considering its own perfections—everything it needs to perceive objects; because in effect, being more noble than all the things it conceives distinctly, one can say that it contains them in some way eminently, as the School speaks—that is to say, in a more noble and more elevated manner than they are in themselves. They claim that superior things comprehend in this manner the perfections of inferior ones. Thus, being the noblest of the creatures they know, they flatter themselves that they have within themselves, in a spiritual manner, everything that is in the visible world, and that by modifying themselves diversely they can perceive everything the human mind is capable of knowing. In a word, they want the soul to be like an intelligible world that comprehends in itself everything that the material and sensible world comprehends, and even infinitely more.
 
-Mais il n’en est pas de même des esprits créés : ils ne peuvent
-voir dans eux-mêmes ni l’essence des choses ni leur existence.
-Ils n’en peuvent voir l’essence dans eux-mêmes, puisqu’étant
-très-limités ils ne contiennent pas tous les êtres, comme Dieu,
-que l’on peut appeler l’être universel, ou simplement ce qui
-est
-[18]
-, comme il se nomme lui-même. Puis donc que l’esprit
-humain peut connaître tous les êtres, et des êtres infinis, et qu’il
-ne les contient pas, c’est une preuve certaine qu’il ne voit pas
-leur essence dans lui-même ; car l’esprit ne voit pas seulement
-tantôt une chose et tantôt une autre successivement, il aperçoit
-même actuellement l’infini quoiqu’il ne le comprenne pas,
-comme nous avons dit dans le chapitre précédent. De sorte que,
-n’étant point actuellement infini ni capable de modifications
-infinies dans le même temps, il est absolument impossible qu’il
-voie dans lui-même ce qui n’y est pas. Il ne voit donc pas
-l’essence des choses en considérant ses propres perfections ou
-en se modifiant diversement.
+But it seems to me that it is rather bold to wish to maintain this thought. It is, if I am not mistaken, natural vanity, the love of independence, and the desire to resemble Him who comprehends in Himself all beings, that muddles our mind and leads us to imagine that we possess what we do not have. Do not say that you are your own light, says Saint Augustine
+[17], for only God is His own light and can, by considering Himself, see everything He has produced and can produce
+[18].
 
-Il ne voit pas aussi leur existence dans lui-même, parce
-qu’elles ne dépendent point de sa volonté pour exister, et que les
-idées de ces choses peuvent être présentes à l’esprit quoiqu’elles
-n’existent pas ; car tout le monde peut avoir l’idée d’une
-montagne d’or sans qu’il y ait une montagne d’or dans la nature ;
-et quoique l’on s’appuie sur les rapports de ses sens pour juger
-de l’existence des objets, néanmoins la raison ne nous assure
-point que nous devions toujours en croire nos sens, puisque nous
-découvrons clairement qu’ils nous trompent. Quand un homme,
-par exemple, a le sang fort échauffé, ou simplement quand il dort,
-il voit quelquefois devant ses yeux des campagnes, des combats
-et choses semblables qui toutefois ne sont point présents et qui ne
-furent peut-être jamais. Il est donc indubitable que ce n’est pas en
-405
-soi-même ni par soi-même que l’esprit voit l’existence des
-choses, mais qu’il dépend en cela de quelque autre chose.
+It is indubitable that only God existed before the world was created, and that He could not have produced it without knowledge and without idea; that consequently these ideas that God had of it are not different from Himself; and that thus all creatures—even the most material and most earthly—are in God, although in a wholly spiritual manner that we cannot comprehend. God therefore sees within Himself all beings, by considering His own perfections, which represent them to Him. He also perfectly knows their existence, because, all depending on His will to exist, and being unable to be ignorant of His own wills, it follows that He cannot be ignorant of their existence; and consequently God sees in Himself not only the essence of things, but also their existence.
 
+But it is not the same with created minds: they cannot see in themselves either the essence of things or their existence. They cannot see their essence in themselves, since, being very limited, they do not contain all beings, as God, who can be called the universal being, or simply "He who is"
+[19], as He names Himself. Since then the human mind can know all beings, and infinite beings, and does not contain them, this is a certain proof that it does not see their essence in itself; for the mind does not see only now one thing and now another successively; it even actually perceives the infinite, although it does not comprehend it, as we have said in the preceding chapter. So that, not being actually infinite nor capable of infinite modifications at the same time, it is absolutely impossible that it sees in itself what is not there. It does not therefore see the essence of things by considering its own perfections or by modifying itself diversely.
 
+It also does not see their existence in itself, because they do not depend on its will to exist, and because the ideas of these things can be present to the mind even though they do not exist; for everyone can have the idea of a golden mountain without there being a golden mountain in nature; and although one relies on the reports of one's senses to judge the existence of objects, nevertheless reason does not assure us that we should always believe our senses, since we clearly discover that they deceive us. When a man, for example, has the blood very heated, or simply when he sleeps, he sometimes sees before his eyes fields, battles, and similar things, which however are not present and which perhaps never were. It is therefore indubitable that it is not in itself nor by itself that the mind sees the existence of things, but that in this it depends on something else.

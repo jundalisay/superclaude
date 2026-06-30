@@ -4,14 +4,23 @@ title: "The Nature and Origin of the Passions in General"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 5
 date: 2026-06-20
 ---
 
 
-The human mind has two essential or necessary relations that are very different: one to God, the other to its body. As a pure spirit, it is essentially united to the Word of God, to wisdom and eternal truth, that is, to sovereign reason; for it is only through this union that it is capable of thinking, as has been seen in the third book. As a human spirit, it has an essential relation to its body; for it is because it is united to the body that it feels and imagines, as has been explained in the first and second books. The mind is called sense or imagination when its body is the natural or occasional cause of its thoughts; and it is called understanding when it acts by itself, or rather when God acts in it and His light enlightens it in various different ways without any necessary relation to what passes in its body.
+The human mind has 2 essential or necessary relations that are very different:
 
-It is the same with the will of man. As will, it depends essentially on the love that God bears to Himself and on the eternal law, in a word, on the will of God. It is only because God loves Himself that we love something; and if God did not love Himself, or if He did not constantly imprint in the soul of man a love similar to His own, that is, this movement of love that we feel for the good in general, we would love nothing, we would will nothing, and consequently we would be without will; since the will is nothing other than the impression of nature which carries us toward the good in general, as we have already said several times.
+1. Relation to God
+2. Relation to its body
+
+As a pure spirit, it is essentially united to the Word of God, to wisdom and eternal truth, that is, to sovereign reason; for it is only through this union that it is capable of thinking, as has been seen in the third book. 
+
+As a human spirit, it has an essential relation to its body; for it is because it is united to the body that it feels and imagines, as has been explained in the first and second books. The mind is called sense or imagination when its body is the natural or occasional cause of its thoughts; and it is called understanding when it acts by itself, or rather when God acts in it and His light enlightens it in various different ways without any necessary relation to what passes in its body.
+
+It is the same with the will of man. 
+
+As will, it depends essentially on the love that God bears to Himself and on the eternal law, in a word, on the will of God. It is only because God loves Himself that we love something; and if God did not love Himself, or if He did not constantly imprint in the soul of man a love similar to His own, that is, this movement of love that we feel for the good in general, we would love nothing, we would will nothing, and consequently we would be without will; since the will is nothing other than the impression of nature which carries us toward the good in general, as we have already said several times.
 
 But the will, as the will of a man, depends essentially on the body; for it is only because of the movements of the blood, or rather of the animal spirits, that it feels itself agitated by all sensible emotions. I have therefore called *natural inclinations* all the movements of the soul that we have in common with pure intelligences; and some of those in which the body has a large part, but of which it is only indirectly the cause and the end, I explained in the previous book; and I call here *passions* all the emotions that the soul naturally feels on the occasion of the extraordinary movements of the animal spirits and of the blood. It is these sensible emotions that will be the subject of this book.
 

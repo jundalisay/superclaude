@@ -1,4 +1,14 @@
-CONCLUSION DES TROIS PREMIERS LIVRES.
+---
+# heading: Chapter 11
+title: "Conclusion of Book 3"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 300
+date: 2026-06-20
+---
+
+
 
 Des le commencement de cet ouvrage j’aí distingué comme
 deux parties dans l’être simple et indivisible de l’âme, l’une

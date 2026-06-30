@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5
-title: "The Rules"
+title: "The Second natural inclination: self-love"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,118 +9,31 @@ date: 2026-06-20
 ---
 
 
+## The second natural inclination: self-love
 
-I. De la seconde inclination naturelle ou de l’amour-propre. — II. Il se divise en l’amour
-de l’être et du bien-être, ou de la grandeur et du plaisir.
-l. La seconde inclination que l’auteur de la nature imprime
-sans cesse dans notre volonté, c’est l’amour de nous-mêmes et de
-notre propre conservation.
-499
-Nous avons déjà dit que Dieu aime tous ses ouvrages, que
-c’est l’amour seul qu’il a pour eux qui les conserve, et qu’il veut
-que tous les esprits créés aient les mêmes inclinations que lui. Il
-veut donc qu’ils aient tous une inclination naturelle pour leur
-conservation et pour leur bonheur, ou qu’ils s’alment eux-mêmes.
-Cependant il n’est pas juste de mettre sa dernière fin dans soimême, et de ne se pas aimer par rapport à Dieu ; puisqu’en effet
-n'ayant de nous-mêmes aucune bonté ni aucune substance, n'ayant
-aucun pouvoir de nous rendre heureux et parfait, nous ne devons
-nous aimer que par rapport à Dieu, qui seul peut être notre
-souverain bien
-[6]
-.
-Si la foi et la raison nous apprennent qu’il n’y a que Dieu qui
-soit le souverain bien, et que lui seul peut nous combler de
-plaisirs, nous concevons facilement qu’il faut donc l’aimer, et
-nous nous y portons avec assez de facilité ; mais sans grâce, c’est
-toujours imparfaitement et par amour-propre que nous l’aimons,
-je veux dire par un amour-propre injuste et déréglé. Car, quoique
-nous l’aimions peut-être comme ayant la puissance de nous
-rendre heureux, nous ne l’aimons pas comme souveraine justice,
-nous ne l’aimons pas tel qu’il est. Nous l’aimons comme un Dieu
-humainement dóbonnaire et accommodant, et nous ne voulons
-point nous accommoder à sa loi, à l’ordre immuable de ses
-divines perfections. La charité toute pure est si au-dessus de nos
-forces, que tantsans faut que nous puissions aimer Dieu pour luimême, ou tel qu’il est en lui-même, que la raison humaine ne
-comprend pas facilement que l’on puisse aimer autrement que par
-rapport à soi, et avoir d’autre dernière fin que sa propre
-satisfaction.
-II. L’amour-propre se peut diviser en deux espèces, savoir : en
-500
-l’amour de la grandeur et en l’amour du plaisir ; ou bien en
-l’amour de son être et de la perfection de son être, et en l’amour
-de son bien-être ou de la félicité.
-Par l’amour de la grandeur nous affectons la puissance,
-l’élévation, l’indépendance, et que notre être subsiste par luimême. Nous désirons en quelque manière d’avoir l’être
-nécessaire : nous voulons en un sens être comme des dieux. Car
-il n’y a que Dieu qui ait proprement l’être, et qui existe
-nécessairement, puisque tout ce qui est dépendant n’existe que
-par la volonté de celui dont il dépend. Les hommes donc,
-souhaitant la nécessité de leur être, souhaitent aussi la puissance
-et l’indépendance qui les mettent à couvert de la puissance des
-autres. Mais par l’amour du plaisir ils désirent non pas
-simplement l’être, mais le bien-être, puisque le plaisir est la
-manière d’être qui est la meilleure et la plus agréable à l’àme : je
-dis le plaisir précisément, en tant que plaisir. De sorte que si l’on
-prend le plaisir en général, en tant qu’il contient les plaisirs
-raisonnables, aussi bien que les sensibles, il me paraît certain
-que c’est le principe ou le motif unique de l’amour naturel, ou de
-tous les mouvements de l’âme vers quelque bien que ce puisse
-être, car on ne peut aimer que ce qui plaît. Si les bienheureux
-aiment les perfections divines, Dieu tel qu’il est, c”est que la vue
-de ces perfections leur plait. Car l’homme étant fait pour
-connaître et aimer Dieu, il fallait que la vue de tout ce qui est
-parfait nous fit plaisir.
-Il faut remarquer que la grandeur, l’excellence et
-l’indépendance de la créature ne sont pas des manières d’être qui
-la rendent plus heureuse par elles-mêmes, puisqu’il arrive
-souvent qu’on devient misérable à mesure qu’on s’agrandit. Mais
-501
-pour le plaisir, c’est une manière d’être que nous ne saurions
-recevoir actuellement sans devenir actuellement plus heureux, je
-ne dis pas solidement heureux. La grandeur et l’indépendance le
-plus souvent ne sont point en nous, et elles ne consistent
-d’ordinaire que dans le rapport que nous avons avec les choses
-qui nous environnent. Mais les plaisirs sont dans l’âme même, et
-ils en sont des manières réelles qui la modifient, et qui par leur
-propre nature sont capables de la contenter. Ainsi nous regardons
-l’excellence, la grandeur et l’indépendance comme des choses
-propres pour la conservation de notre être, et même quelquefois
-comme fort utiles selon l’ordre de la nature pour la conservation
-du bien-être ; mais le plaisir est toujours la manière d’être de
-l’esprit, qui par elle-même le rend heureux, et s’il est solide le
-rend parfaitement content, de sorte que le plaisir est le bien-être,
-et l’amour du plaisir l’amour du bien-être.
-Or cet amour du bien-être est plus fort en nous que l’amour de
-l’être ; et l’amour-propre nous fait désirer quelquefois le nonêtre, parce que nous n’avons pas le bien-être. Cela arrive à tous
-les damnés, auxquels il serait meilleur, selon la parole de JésusChrist, de n’être point que d’être aussi mal qu’ils sont ; parce que
-ces malheureux étant ennemis déclarés de celui qui renferme en
-lui-même toute la bonté, et qui est la cause seule des plaisirs et
-des douleurs que nous sommes capables de sentir, il n’est pas
-possible qu’ils jouissent de quelque satisfaction. ils sont et ils
-seront éternellement misérables, parce que leur volonté sera
-toujours dans la même disposition et dans le même dérèglement.
-L’amour de soi-même renferme donc deux amours : l’amour de la
-grandeur, de la puissance, de l’indépendance et généralement de
-toutes les choses qui nous paraissent propres pour la
-conservation de notre être ; et l’amour du plaisir et de toutes les choses qui nous sont nécessaires pour être bien, c’està-dire pour
-être heureux et contents.
+The second inclination that the author of nature incessantly imprints in our will is the love of ourselves and of our own preservation. We have already said that God loves all His works, that it is His love alone for them that preserves them, and that He wills that all created spirits have the same inclinations as Himself. He wills therefore that they all have a natural inclination for their preservation and their happiness, or that they love themselves.
 
-Ces deux amours se peuvent diviser en plusieurs manières ;
-soit parce que nous sommes composés de deux parties
-différentes, d’âme et de corps, selon lesquelles on les peut
-diviser ; soit parce qu’on les peut distinguer ou les spécifier par
-les différents objets qui nous sont utiles pour notre conservation.
-On ne s’arrêtera pas toutefois à cela, parce que notre dessein
-n’étant pas de faire une morale, il n’est pas nécessaire de faire
-une recherche et une division exacte le toutes les choses que nous
-regardons comme nos biens. Il a seulement été nécessaire de
-faire cette division pour rapporter avec quelque ordre les causes
-de nos erreurs.
-Nous parlerons donc premièrement des erreurs qui ont pour
-cause l’inclination que nous avons pour la grandeur et pour tout
-ce qui met notre être hors de la dépendance des autres ; et ensuite
-nous traiterons de celles qui viennent de l’inclination que nous
-avons pour le plaisir et pour tout ce qui rend notre être le
-meilleur qui puisse être pour nous, ou qui nous contente le plus.
+However, it is not just to place one's ultimate end in oneself, and not to love oneself in relation to God; since in effect, having of ourselves no goodness nor substance, having no power to make ourselves happy and perfect, we ought to love ourselves only in relation to God, who alone can be our sovereign good
+[6].
+
+If faith and reason teach us that there is only God who is the sovereign good, and that He alone can fill us with pleasures, we conceive easily that we must therefore love Him, and we turn toward Him with enough facility; but without grace, it is always imperfectly and by self-love that we love Him—I mean by an unjust and disordered self-love. For although we may love Him perhaps as having the power to make us happy, we do not love Him as sovereign justice, we do not love Him as He is. We love Him as a humanly good-natured and accommodating God, and we do not wish to accommodate ourselves to His law, to the immutable order of His divine perfections. Pure charity is so far above our strength that not only can we not love God for Himself, or as He is in Himself, but human reason does not easily understand that one can love otherwise than in relation to oneself, and have any other ultimate end than one's own satisfaction.
+
+
+
+## Self love  is divided into the love of being and of well-being, or of greatness and pleasure.**
+
+<!-- **II.** Self-love can be divided into two species, namely: into the love of greatness and the love of pleasure; or into the love of one's being and of the perfection of one's being, and into the love of one's well-being or of felicity. -->
+
+By the love of greatness we affect power, elevation, independence, and that our being subsist by itself. We desire in some manner to have necessary being: we wish in a sense to be like gods. For there is only God who properly has being, and who exists necessarily, since everything that is dependent exists only by the will of the one on whom it depends. Men therefore, wishing for the necessity of their being, also wish for power and independence that put them beyond the power of others. But by the love of pleasure they desire not simply being, but well-being, since pleasure is the manner of being that is the best and the most agreeable to the soul: I say pleasure precisely, insofar as it is pleasure. So that if one takes pleasure in general, insofar as it contains reasonable pleasures as well as sensible ones, it seems to me certain that it is the principle or the sole motive of natural love, or of all the movements of the soul toward whatever good it may be, for one can love only what pleases. If the blessed love the divine perfections, God as He is, it is because the sight of these perfections pleases them. For man being made to know and love God, it was necessary that the sight of everything that is perfect should give us pleasure.
+
+It must be noted that greatness, excellence, and independence of the creature are not manners of being that make it happier by themselves, since it often happens that one becomes miserable as one grows greater. But for pleasure, it is a manner of being that we cannot receive actually without becoming actually happier—I do not say solidly happy. Greatness and independence are most often not in us, and they ordinarily consist only in the relation we have with the things that surround us. But pleasures are in the soul itself, and they are real manners that modify it, and which by their own nature are capable of satisfying it. Thus we regard excellence, greatness, and independence as things proper for the preservation of our being, and even sometimes as very useful according to the order of nature for the preservation of well-being; but pleasure is always the manner of being of the mind, which by itself makes it happy, and if it is solid makes it perfectly content, so that pleasure is well-being, and the love of pleasure is the love of well-being.
+
+Now this love of well-being is stronger in us than the love of being; and self-love sometimes makes us desire non-being, because we do not have well-being. This happens to all the damned, for whom it would be better, according to the word of Jesus Christ, not to be than to be as miserable as they are; because these unhappy ones being declared enemies of Him who contains in Himself all goodness, and who is the sole cause of the pleasures and pains we are capable of feeling, it is not possible that they enjoy any satisfaction. They are and will be eternally miserable, because their will will always be in the same disposition and the same disorder.
+
+Self-love therefore contains two loves: the love of greatness, of power, of independence, and generally of all things that appear to us proper for the preservation of our being; and the love of pleasure and of all things that are necessary for us to be well—that is to say, to be happy and content.
+
+These two loves can be divided in several ways; either because we are composed of two different parts, soul and body, according to which one can divide them; or because one can distinguish or specify them by the different objects that are useful to us for our preservation. We will not, however, stop at that, because our design not being to make a moral treatise, it is not necessary to make an exact research and division of all the things we regard as our goods. It was only necessary to make this division in order to relate with some order the causes of our errors.
+
+We will therefore speak first of the errors that have for their cause the inclination we have for greatness and for everything that puts our being beyond the dependence of others; and afterwards we will treat of those that come from the inclination we have for pleasure and for everything that renders our being the best it can be for us, or that satisfies us most.
 
 

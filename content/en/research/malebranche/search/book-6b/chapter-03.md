@@ -10,7 +10,6 @@ date: 2026-06-20
 
 
 
-## The Most Dangerous Error of Ancient Philosophy
 
 Not only do philosophers say what they do not truly conceive when they explain the effects of nature by certain beings of which they have no distinct idea; they even provide a principle from which one can directly draw consequences that are very false and very dangerous.
 
@@ -49,3 +48,4 @@ All these little divinities of the pagans and all these particular causes of the
 For, if religion teaches us that there is only one true God, this philosophy makes us know that there is only one true cause. If religion teaches us that all the divinities of paganism are only lifeless and motionless stones and metals, this philosophy also reveals to us that all second causes, or all the divinities of philosophy, are only matter and inefficacious wills. Finally, if religion teaches us that we must not bend the knee before gods who are not gods, this philosophy also teaches us that our imagination and our mind must not bow before the imaginary greatness and power of causes that are not causes; that we must neither love nor fear them; that we must not occupy ourselves with them; that we must think only of God, see God in all things, adore God in all things, fear and love God in all things.
 
 But this is not the inclination of some philosophers; they do not wish to see God, they do not wish to think of God; for since the fall there is a secret opposition between man and God. They take pleasure in fabricating gods according to their fancy, and they willingly love and fear the fictions of their imagination, as the pagans did the works of their hands. They are like children who tremble before their companions after having smeared them. Or if one wants a nobler comparison, although it may not be so just, they resemble those famous Romans who had fear and respect for the fictions of their mind, and who foolishly adored their emperors after having released the eagle in their apotheoses.
+

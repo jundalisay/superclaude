@@ -1,113 +1,48 @@
 ---
 heading: Chapter 2
-title: "The Rules"
+title: "Material objects do not send forth species resembling them"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 5
 date: 2026-06-20
 ---
 
 
 
-CHAPITRE II.
-Que les objets matériels n’envoient point d’espèces qui leur ressemblent.
+The most common opinion is that of the Peripatetics.
 
-La plus commune opinion est celle des péripatéticiens, qui
-prétendent que les objets de dehors envoient des espèces qui leur
-ressemblent, et que ces espèces sont portées par les sens
-extérieurs jusqu’au sens commun ; il appellent ces espèces-là
-impresses, parce que les objets les impriment dans les sens
-extérieurs. Ces espèces impresses étant matérielles et sensibles,
-sont rendues intelligibles par l’intellect agent ou agissant, et
-sont propres pour être reçues dans l’intellect patient. Ces
-espèces ainsi spiritualisées sont appelées espèces expresses,
-parce qu’elles sont exprimées des impresses ; et c’est par elles
-que l’intellect patient connaît toutes les choses matérielles.
-On ne s’arrête pas à expliquer plus au long ces belles choses
-et les diverses manières dont différents philosophes les
-conçoivent, car, quoiqu’ils ne conviennent pas dans le nombre
-des facultés qu’ils attribuent au sens intérieur et à l’entendement,
-et même qu’il y en ait beaucoup qui doutent fort qu’ils aient
-besoin d’un intellect agent pour connaître les objets sensibles ;
-cependant ils conviennent presque tous que les objets de dehors
-envoient des espèces ou des images qui leur ressemblent, et ce
-n’est que sur ce fondement qu’ils multiplient leurs facultés et
-qu’ils défendent leur intellect agent. De sorte que ce fondement
-n’ayant aucune solidité, comme on le va faire voir, il n’est pas
-nécessaire de s’arrêter davantage à renverser tout ce qu’on a bâti
-dessus.
+They claim that:
+- external objects send forth species resembling them
+- these species are carried by the external senses to the common sense
 
-On assure donc qu’il n’est pas vraisemblable que les objets
-envoient des images ou des espèces qui leur ressemblent ; de
-quoi voici quelques raisons. La première se tire de
-l’impénétrabilité des corps. Tous les objets comme le soleil, les étoiles et tous ceux qui sont proches de nos yeux, ne peuvent pas
-envoyer des espèces qui soient d’autre nature qu’eux ; c’est
-pourquoi les philosophes disent ordinairement que ces espèces
-sont grossières et matérielles, à la différenee des espèces
-expresses, qui sont spiritualisées. Ces espèces impresses des
-objets sont donc de petits corps : elles ne peuvent donc pas se
-pénétrer, ni tous les espaces qui sont depuis la terre jusqu’au
-ciel, lesquels en doivent être tous remplis. D’où il est facile de
-conclure qu’eiles devraient se froisser et se briser, les unes allant
-d’un côté et les autres de l’autre, et qu’ainsi elles ne peuvent
-rendre les objets visibles.
+They call these species *impressed* because objects imprint them on the external senses.
 
-De plus, on peut voir d’un même endroit ou d’un même point
-un très-grand nombre d’objets qui sont dans le ciel et sur la terre,
-donc il faudrait que les espèces de tous ces corps se pussent
-réduire en un point. Or elles sont impénétrables, puisqu’elles
-sont étendues : donc, etc.
+These impressed species are:
+- material and sensible
+- rendered intelligible by the agent or active intellect
+- fit to be received into the patient intellect
 
-Mais non-seulement on peut voir d’un même point un trèsgrand nombre de très-grands et de très-vastes objets ; il n’y a même aucun point dans tous ces grands espaces du monde d’où
-on ne puisse découvrir un nombre presque infini d’objets, et
-même d’objets aussi grands que le soleil, la lune et les cieux. Il
-n’y a donc aucun point
-[12] dans tout le monde où les espèces de
-toutes ces choses ne se dussent rencontrer ; ce qui est contre toute
-apparence de vérité.
+These species, thus spiritualized, are called *expressed species* because they are expressed from the impressed ones; and it is by these that the patient intellect knows all material things.
 
-La seconde raison se prend du changement qui arrive dans les
-espèces. Il est constant que plus un objet est proche, plus
-l’espèce en doit être grande, puisque nous voyons l’objet plus
-grand. Or, on ne voit pas ce qui peut faire que cette espèce
-diminue et ce que peuvent devenir les parties qui la composaient lorsqu’elle était plus grande. Mais ce qui est encore plus difficile
-à concevoir selon leur sentiment, c’est que si on regarde cet objet
-avec des lunettes d’approche ou un microscope, l’espèce devient
-tout d’un coup cinq ou six cents fois plus grande qu’elle n’était
-auparavant ; car on voit encore moins de quelles parties elle peut
-s’accroître si fort en un instant.
-La troisième raison, c’est que quand on regarde un cube
-parfait, toutes les espèces de ses côtés sont inégales, et
-néanmoins on ne laisse pas de voir tous ses côtés également
-carrés. Et de même lorsque l’on considère dans un tableau des
-ovales et des parallèlogrammes qui ne peuvent envoyer que des
-espèces de semblable figure, on n’y voit cependant que des
-cercles et des carrés. Cela fait manifestement voir qu’il n’est pas
-nécessaire que l’objet que l’on regarde produise, afin qu’on le
-voie, des espèces qui lui soient semblables.
-Enfin on ne peut pas concevoir comment il se peut faire qu’un
-rorps qui ne diminue point sensiblement envoie toujours hors de
-soi des espèces de tous côtés, qu’il en remplisse continuellement
-de fort grands espaces tout à l’entour, et cela avec une vitesse
-inconcevable ; car un objet étant caché. dans l’instant qu’il se
-découvre on le peut voir de plusieurs millions de lieues et de
-tous les côtés. Et ce qui paraît encore fort étrange, c’est que les
-corps qui ont beaucoup d’action, comme l’air et quelques autres,
-n’ont point la force de pousser au dehors de ces images qui leur
-ressemblent ; ce que font les corps les plus grossiers et qui ont le
-moins d’action, comme la terre, les pierres et presque tous les
-corps durs.
-Mais on ne veut pas s’arrêter davantage à rapporter toutes les
-raisons contraires à cette opinion, parce que ce ne serait jamais
-391
-fait, le moindre effort d’esprit en fournissant un si grand nombre
-qu’on ne le peut épuiser. Celles que nous venons de rapporter
-sont suffisantes, et elles n’étaient pas même nécessaires après ce
-qu’on a dit qui regarde ce sujet dans le premier livre, lorsqu’on a
-expliqué les erreurs des sens. Mais il y a un si grand nombre de
-philosophes attachés à cette opinion, qu’on a cru qu’il était
-nécessaire d’en dire quelque chose pour les porter à faire
-réflexion sur leurs pensées.
+We shall not pause to explain these fine things at greater length, nor the various ways in which different philosophers conceive them. For although they do not agree on the number of faculties they attribute to the inner sense and to the understanding—and indeed many of them strongly doubt whether they need an agent intellect to know sensible objects—they nevertheless almost all agree that external objects send forth species or images resembling them. 
+
+It is only on this foundation that they multiply their faculties and defend their agent intellect. So, since this foundation has no solidity, as will be shown, it is not necessary to pause further to overturn everything that has been built upon it.
+
+I assert that it is not plausible that objects send forth images or species resembling them. Here are some reasons. The first is drawn from the impenetrability of bodies. All objects—like the sun, the stars, and all those near our eyes—cannot send forth species of a nature different from their own.
+
+This is why philosophers ordinarily say that these species are coarse and material, in contrast to expressed species, which are spiritualized. These impressed species of objects are therefore little bodies. Consequently, they cannot penetrate one another, nor can they fill all the spaces from the earth to the sky, which would have to be completely filled by them. From this it is easy to conclude that they would have to crush and break one another, some going one way and others another, and thus they could not make objects visible.
 
 
+Moreover, from a single place or a single point one can see a very great number of objects in the sky and on the earth. Therefore, the species of all these bodies would have to be reducible to a single point. But since they are extended, they are impenetrable. Therefore...
+
+But not only can one see a very great number of very large and vast objects from a single point; there is no point in all those great spaces of the world from which one could not discover an almost infinite number of objects—and even objects as large as the sun, the moon, and the heavens. There is therefore no point
+[12] in the whole world where the species of all these things would not have to meet; which is contrary to all appearance of truth.
+
+The second reason is drawn from the change that occurs in the species. It is certain that the closer an object is, the larger its species must be, since we see the object larger. Now, one does not see what can make this species diminish, nor what becomes of the parts that composed it when it was larger. But what is even more difficult to conceive according to their view is that if one looks at this object with magnifying glasses or a microscope, the species suddenly becomes five or six hundred times larger than it was before; for one sees even less by what parts it can increase so greatly in an instant.
+
+The third reason is that when one looks at a perfect cube, all the species of its sides are unequal, and yet one still sees all its sides equally square. Likewise, when one considers ovals and parallelograms in a painting—which can only send species of similar shape—one nevertheless sees only circles and squares. This clearly shows that it is not necessary for the object one looks at to produce, in order for it to be seen, species resembling it.
+
+Finally, one cannot conceive how it can happen that a body which does not noticeably diminish always sends forth species from itself in all directions, continually filling very large spaces all around with them, and that with an inconceivable speed. For when a hidden object is uncovered, it can be seen from several million leagues away and from all sides. And what seems even stranger is that bodies which have much activity, like air and some others, do not have the force to push out images resembling themselves; while the coarsest bodies, which have the least activity—like earth, stones, and almost all hard bodies—do.
+
+But we do not wish to pause further to relate all the reasons against this opinion, because it would never be finished; the slightest effort of the mind furnishes such a great number that one cannot exhaust them. Those we have just related are sufficient, and they were not even necessary after what has been said on this subject in the first book, when the errors of the senses were explained. But so many philosophers are attached to this opinion that it was thought necessary to say something about it to induce them to reflect on their thoughts.

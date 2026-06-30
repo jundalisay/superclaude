@@ -1,194 +1,53 @@
 ---
 heading: Chapter 1
-title: "The Rules"
+title: "Spirits Have Inclinations, just as bodies have motions"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 4
 date: 2026-06-20
 ---
 
 
 
-I. Les esprits doivent avoir des inclinations, comme les corps ont des mouvements. —
-II. Dieu ne donne aux esprits du mouvement que pour lui. — III. Les esprits ne
-se portent aux biens particuliers que par le mouvement qu’ils ont pour le bien en
-général. — IV. Origine des principales inclinations naturelles, qui feront la division
-de ce quatrième livre.
-
-Il ne serait pas nécessaire de traiter des inclinations naturelles,
-comme nous allons le faire dans ce quatrième livre, ni des
-passions, comme nous ferons dans le suivant, pour découvrir les
-causes des erreurs des hommes, si l’entendement ne dépendait
-point de la volonté dans la perception des objets ; mais parce
-qu’il reçoit d’elle sa direction, que c’est elle qui le détermine et
-qui l’applique à quelques objets plutôt qu’à d’autres ; il est
-absolument nécessaire de bien comprendre ses inclinations, afin
-de pénétrer les causes des erreurs auxquelles nous sommes
-sujets.
-
-I. Si Dieu, en créant ce monde, eût produit une matière
-infiniment étendue sans lui imprimer aucun mouvement, tous les
-corps n’auraient point été différents les uns des autres ; tout ce
-monde visible ne serait encore à présent qu’une masse de matière ou d’étendue, qui pourrait bien servir à faire connaître la
-grandeur et la puissance de son auteur ; mais il n’y aurait pas
-cette succession de formes et cette variété de corps, qui fait toute
-la beauté de l’univers, et qui porte tous les esprits à admirer la
-sagesse infinie de celui qui le gouverne.
-
-Or il me semble que les inclinations des esprits sont au monde
-spirituel ce que le mouvement est au monde matériel, et que si
-tous les esprits étaient sans inclinations, ou s’ils ne voulaient
-jamais rien, il ne se trouverait pas dans l’ordre des choses
-spirituelles cette variété qui ne fait pas seulement admirer la
-profondeur de la sagesse de Dieu, comme fait la diversité qui se
-rencontre dans les choses matérielles ; mais aussi sa miséricorde,
-sa justice, sa bonté, et généralement tous ses autres attributs. La
-différence des inclinations fait donc dans les esprits un effet
-assez semblable, à celui que la différence des mouvements
-produit dans les corps ; et les inclinations des esprits, et les
-mouvements des corps font ensemble toute la beauté des êtres
-créés. Ainsi tous les esprits doivent avoir quelques inclinations,
-de même que les corps ont différents mouvements. Mais tâchons
-de découvrir quelles inclinations ils doivent avoir.
-Si notre nature n’était point corrompue, il ne serait pas
-nécessaire de chercher par la raison, ainsi que nous allons faire,
-quelles doivent être les inclinations naturelles des esprits créés :
-nous n’aurions pour cela qu’à nous consulter nous-mêmes, et
-nous reconnaîtrions par le sentiment intérieur, que nous avons de
-ce qui se passe en nous, toutes les inclinations que nous devons
-avoir naturellement. Mais parce que nous savons par la foi que le
-péché a renversé l’ordre de la nature, et que la raison même nous
-apprend que nos inclinations sont déréglées, comme on le verra mieux dans la suite, nous sommes obligés de prendre un autre
-tour. Ne pouvant nous fier à ce que nous sentons, nous sommes
-obligés d’expliquer les choses d’une manière plus relevée ; mais
-qui semblera sans doute peu solide à ceux qui n’estiment que ce
-qui se fait sentir.
-
-II. C’est une vérité incontestable que Dieu ne peut avoir
-d’autre fin principale de ses opérations que lui-même, et qu’il
-peut avoir plusieurs fins moins principales, qui tendent toutes à la
-conservation des êtres qu’il a créés. Il ne peut avoir d’autre fin
-principale que lui-même ; parce qu’il ne peut pas errer ou mettre
-sa dernière fin dans les êtres qui ne renferment pas toute sorte de
-biens. Mais il peut avoir pour fin moins principale la
-conservation des êtres créés ; parce que, participant tous de sa
-bonté, ils sont nécessairement bons, et même très bons selon
-l’Écriture, valde bona. Ainsi Dieu les aime, et c’est même son
-amour qui les conserve ; car tous les êtres ne subsistent que parce
-que Dieu les aime. Diligis omnia quae sunt, dit le Sage, et nihil
-odisti eorum quae fecisti : nec enim odiens aliquid constituisti
-et fecisti. Quomodo auteur posset aliquid permanere, nisi tu
-voluisses ; aut quod a te vocatum non esset conservaretur ? En
-effet, il n’est pas possible de concevoir que des choses, qui ne
-plaisent pas à un être infiniment parfait et tout-puissant,
-subsistent, puisque toutes choses ne subsistent que par sa volonté.
-Dieu veut donc sa gloire comme sa fin principale et la
-conservation de ses créatures, mais pour sa gloire.
-Les inclinations naturelles des esprits étant certainement des
-impressions continuelles de la volonté de celui qui les a créés et
-qui les conserve, il est, ce me semble, nécessaire que ces
-inclinations soient entièrement semblables à celles de leur créateur et de leur conservateur. Elles ne peuvent donc avoir
-naturellement d’autre fin principale que sa gloire, ni d’autre fin
-seconde que leur propre conservation et celle des autres, mais
-toujours par rapport à celui qui leur donne l’être. Car enfin il me
-paraît incontestable que Dieu, ne pouvant vouloir que les
-volontés qu’il crée aiment davantage un moindre bien qu’un plus
-grand bien, c’est-à-dire qu’elles aiment davantage ce qui est
-moins aimable que ce qui est plus aimable : il ne peut créer
-aucune créature sans la tourner vers lui-même et lui commander
-de l’aimer plus que toutes choses, quoiqu’il puisse la crée libre
-et avec puissance de se détacher et de se détourner de lui.
-III. Comme il n’y a proprement qu’un amour en Dieu, qui est
-l’amour de lui-même ; et que Dieu ne peut rien aimer que par cet
-amour, puisque Dieu ne peut rien aimer que par rapport à lui,
-aussi Dieu n’imprime qu’un amour en nous, qui est l’amour du
-bien en général ; et nous ne pouvons rien aimer que par cet
-amour, puisque nous ne pouvons rien aimer qui ne soit ou qui ne
-paraisse un bien. C’est l’amour du bien en général qui est le
-principe de tous nos amours particuliers, parce qu’en effet cet
-amour n’est que notre volonté ; car, comme j’ai déjà dit ailleurs,
-la volonté n’est autre chose que l’impression continuelle de
-l’auteur de la nature, qui porte l’esprit de l’homme vers le bien
-en général. Certainement il ne faut pas s’imaginer que cette
-puissance que nous avons d’aimer vienne ou dépende de nous. Il
-n’y a que la puissance de mal aimer, ou plutôt de bien aimer ce
-que nous ne devons point aimer, qui dépende de nous ; parce
-qu’étant libres nous pouvons déterminer et nous déterminons, en
-effet, à des biens particuliers, et par conséquent à de faux biens,
-le bon amour que Dieu ne cesse point d’imprimer en nous, tant
-qu’il ne cesse point de nous conserver.
-467
-Mais non seulement notre volonté, ou notre amour pour le bien
-en général vient de Dieu, nos inclinations pour des biens
-particuliers, lesquelles sont communes à tous les hommes,
-quoique inégalement fortes dans tous les hommes, comme notre
-inclination pour la conservation de notre être et de ceux avec
-lesquels nous sommes unis par la nature, sont encore des
-impressions de la volonté de Dieu sur nous ; car j’appelle ici
-indifféremment du nom d’inclination naturelle toutes les
-impressions de l’auteur de la nature, qui sont communes à tous
-les esprits.
-IV. Je viens de dire que Dieu aimait ses créatures, et que
-c’était même son amour qui leur donnait et leur conservait l’être.
-Ainsi, Dieu imprimant sans cesse en nous un amour pareil au
-sien, puisque c’est sa volonté qui fait et qui règle la nôtre, il
-donne aussi toutes ces inclinations naturelles qui ne dépendent
-point de notre choix, et qui nous portent nécessairement à la
-conservation de notre être et de ceux avec lesquels nous vivons.
-Car, quoique le péché ait corrompu toutes choses, il ne les a
-pas détruites. Quoique nos inclinations naturelles n’aient pas
-toujours Dieu pour fin par le choix libre de notre volonté, elles
-ont toujours Dieu pour fin dans l’institution de la nature ; car
-Dieu qui les produit et qui les conserve en nous, ne les produit et
-ne les conserve que pour lui. Tous les pécheurs tendent à Dieu
-par l’impression qu’ils reçoivent de Dieu, quoiqu’ils s’en
-éloignent par l’erreur et l’égarement de leur esprit. Ils aiment
-bien, car on ne peut jamais mal aimer, puisque c’est Dieu qui fait
-aimer. Mais ils aiment de mauvaises choses, mauvaises
-seulement parce que Dieu, qui donne même aux pécheurs le
-pouvoir d’aimer, leur défend de les aimer, à cause que depuis le
-468
-péché elles les détournent de son amour : car les hommes,
-s’imaginant que les créatures causent en eux le plaisir qu’ils
-sentent à leur occasion, se portent avec fureur vers les corps, et
-tombent dans un entier oubli de Dieu, qui ne paraît point à leurs
-yeux.
-
-Nous avons donc encore aujourd’hui les mêmes inclinations
-naturelles, ou les mêmes impressions de l’auteur de la nature
-qu’avait Adam avant son péché. Nous avons même les
-inclinations qu’ont les bienheureux dans le Ciel, car Dieu ne fait
-et ne conserve point des créatures, qu’il ne leur donne un amour
-pareil au sien. Il s’aime, il nous aime, il aime toutes ses
-créatures : il ne fait donc point d’esprits qu’il ne les porte à
-l’aimer, à s’aimer, et à aimer toutes les créatures.
-Mais comme toutes nos inclinations ne sont que des
-impressions de l’auteur de la nature lesquelles nous portent à
-l’aimer, et toutes choses pour lui, elles ne peuvent être réglées
-que lorsque nous aimons Dieu de toutes nos forces, et toutes
-choses pour Dieu, par le choix libre de notre volonté ; car nous
-ne pouvons sans injustice abuser de l’amour que Dieu nous donne
-pour lui en aimant par cet amour autre chose que lui et sans
-rapport à lui. Ainsi, nous connaissons présentement non
-seulement quelles sont nos inclinations naturelles, mais encore
-quelles elles doivent être, afin qu’elles soient bien réglées et
-selon l’institution de leur auteur.
-Nous avons donc, premièrement une inclination pour le bien en
-général, laquelle est le principe de toutes nos inclinations
-naturelles, de toutes nos passions et de tous les amours libres de
-notre volonté.
-
-En second lieu nous avons de l’inclination pour la
-469
-conservation de notre être ou de notre bonheur.
-En troisième lieu, nous avons tous de l’inclination pour les
-autres créatures, lesquelles sont utiles ou à nous-mêmes ou à ceux
-que nous aimons. Nous avons encore beaucoup d’autres
-inclinations particulières qui dépendent de celles-ci, mais nous
-en perlerons peut-être ailleurs. Nous prétendons seulement
-rapporter dans ce quatrième Livre les erreurs de nos inclinations
-à ces trois chefs : à l’inclination que nous avons pour le bien en
-général, à l’amour de nous-mêmes et à l’amour du prochain.
 
 
+It would not be necessary to treat natural inclinations, as we are going to do in this fourth book, nor of the passions, as we will do in the next, in order to discover the causes of men's errors, if the understanding did not depend on the will in the perception of objects; but because it receives its direction from it, it is the will that determines it and applies it to some objects rather than to others; it is absolutely necessary to understand its inclinations well, in order to penetrate the causes of the errors to which we are subject.
+
+
+## Spirits must have inclinations, just as bodies have motions
+
+If God, in creating this world, had produced an infinitely extended matter without impressing any motion upon it, all bodies would not have been different from one another; all this visible world would still be only a mass of matter or extension, which might well serve to make known the greatness and power of its author; but there would not be this succession of forms and this variety of bodies, which constitutes all the beauty of the universe, and which leads all minds to admire the infinite wisdom of Him who governs it.
+
+Now it seems to me that the inclinations of spirits are to the spiritual world what motion is to the material world, and that if all spirits were without inclinations, or if they never willed anything, there would not be found in the order of spiritual things that variety which causes not only the depth of God's wisdom to be admired, as the diversity found in material things does; but also His mercy, His justice, His goodness, and generally all His other attributes. The difference of inclinations therefore produces in spirits an effect quite similar to that which the difference of motions produces in bodies; and the inclinations of spirits, and the motions of bodies together constitute all the beauty of created beings. Thus all spirits must have some inclinations, just as bodies have different motions. But let us try to discover what inclinations they ought to have.
+
+If our nature were not corrupted, it would not be necessary to seek by reason, as we are going to do, what ought to be the natural inclinations of created spirits; we would only have to consult ourselves, and we would recognize by inner feeling, which we have of what passes within us, all the inclinations that we ought naturally to have. But because we know by faith that sin has overturned the order of nature, and reason itself teaches us that our inclinations are disordered, as will be seen better later, we are obliged to take another approach. Not being able to trust what we feel, we are obliged to explain things in a more elevated manner; but which will doubtless seem little solid to those who esteem only what is felt.
+
+
+## God gives spirits motion only for Himself
+
+It is an incontestable truth that God can have no other principal end of His operations than Himself, and that He can have several less principal ends, all tending to the preservation of the beings He has created. He cannot have any other principal end than Himself; because He cannot err or place His ultimate end in beings that do not contain all kinds of goods. But He can have as a less principal end the preservation of created beings; because, participating all in His goodness, they are necessarily good, and even very good according to Scripture, *valde bona*. Thus God loves them, and it is even His love that preserves them; for all beings subsist only because God loves them. *Diligis omnia quae sunt*, says the Wise Man, *et nihil odisti eorum quae fecisti: nec enim odiens aliquid constituisti et fecisti. Quomodo autem posset aliquid permanere, nisi tu voluisses; aut quod a te vocatum non esset conservaretur?* Indeed, it is not possible to conceive that things which do not please an infinitely perfect and all-powerful being can subsist, since all things subsist only by His will.
+
+God therefore wills His glory as His principal end and the preservation of His creatures, but for His glory. The natural inclinations of spirits being certainly continuous impressions of the will of Him who created them and preserves them, it seems to me necessary that these inclinations be entirely similar to those of their creator and preserver. They cannot therefore naturally have any other principal end than His glory, nor any other secondary end than their own preservation and that of others, but always in relation to Him who gives them being. For finally it seems to me incontestable that God, being unable to will that the wills He creates love a lesser good more than a greater good—that is to say, that they love what is less lovable more than what is more lovable—He cannot create any creature without turning it toward Himself and commanding it to love Him above all things, although He can create it free and with the power to detach and turn away from Him.
+
+
+## Spirits are moved toward particular goods only by the motion they have for good in general
+
+There is only one love in God, which is the love of Himself; and God can love nothing except by this love, since God can love nothing except in relation to Himself; so God imprints only one love in us, which is the love of good in general; and we can love nothing except by this love, since we can love nothing that is not or does not appear to be a good. It is the love of good in general that is the principle of all our particular loves, because in effect this love is only our will; for, as I have already said elsewhere, the will is nothing other than the continuous impression of the author of nature, which bears the human mind toward good in general. Certainly one must not imagine that this power we have of loving comes from or depends on us. Only the power of loving badly—or rather of loving well what we ought not to love—depends on us; because being free we can determine, and we do in fact determine, toward particular goods, and consequently toward false goods, the good love that God never ceases to imprint in us, as long as He does not cease to preserve us.
+
+But not only does our will, or our love for good in general, come from God; our inclinations toward particular goods, which are common to all men, although unequally strong in all men—such as our inclination for the preservation of our being and of those with whom we are united by nature—are also impressions of the will of God upon us; for I call indiscriminately by the name of natural inclination all the impressions of the author of nature which are common to all spirits.
+
+
+## Origin of the principal natural inclinations, which will form the division of this book 4
+
+God loved His creatures, and that it was even His love that gave them being and preserved them. Thus, God imprinting in us unceasingly a love similar to His own, since it is His will that makes and rules ours, He also gives all those natural inclinations that do not depend on our choice, and that necessarily incline us to the preservation of our being and of those with whom we live. For, although sin has corrupted all things, it has not destroyed them. Although our natural inclinations do not always have God for their end by the free choice of our will, they always have God for their end in the institution of nature; for God who produces them and preserves them in us, produces and preserves them only for Himself. All sinners tend toward God by the impression they receive from God, although they move away from Him by the error and wandering of their mind. They love well, for one can never love badly, since it is God who makes them love. But they love bad things—bad only because God, who gives even to sinners the power to love, forbids them to love them, because since sin they turn them away from His love: for men, imagining that creatures cause in them the pleasure they feel on their occasion, rush with fury toward bodies, and fall into a complete forgetfulness of God, who does not appear to their eyes.
+
+We therefore have today the same natural inclinations, or the same impressions of the author of nature, that Adam had before his sin. We even have the inclinations that the blessed have in Heaven, for God does not create and preserve creatures without giving them a love similar to His own. He loves Himself, He loves us, He loves all His creatures: He therefore does not create spirits without inclining them to love Him, to love themselves, and to love all creatures.
+
+But as all our inclinations are only impressions of the author of nature which incline us to love Him, and all things for Him, they can be regulated only when we love God with all our strength, and all things for God, by the free choice of our will; for we cannot without injustice abuse the love that God gives us for Himself by loving through this love something other than Him and without relation to Him. Thus, we presently know not only what our natural inclinations are, but also what they ought to be, in order that they may be well regulated and according to the institution of their author.
+
+We have therefore, first, an inclination for good in general, which is the principle of all our natural inclinations, of all our passions, and of all the free loves of our will.
+
+Secondly, we have an inclination for the preservation of our being or of our happiness.
+
+Thirdly, we all have an inclination for other creatures, which are useful either to ourselves or to those we love. We have still many other particular inclinations that depend on these, but we will perhaps speak of them elsewhere. We only intend to relate in this fourth book the errors of our inclinations to these three heads: to the inclination we have for good in general, to the love of ourselves, and to the love of our neighbor.

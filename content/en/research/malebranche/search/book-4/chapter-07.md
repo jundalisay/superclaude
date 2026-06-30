@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7
-title: "The Rules"
+title: "The desire for knowledge"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,211 +9,39 @@ date: 2026-06-20
 ---
 
 
-Du désir de la science, et des jugements des faux savants.
+## The desire for knowledge, and on the judgments of false scholars
 
-L’esprit de l’homme a sans doute fort peu de capacité et
-d’étendue, et cependant il n’y a rien qu’il ne souhaite de savoir ;
-toutes les sciences humaines ne peuvent contenter ses désirs, et
-sa capacité est si étroite qu’il ne peut comprendre parfaitement
-une seule science particulière. Il est continuellement agité, et il
-désire toujours de savoir, soit parce qu’il espère trouver ce qu’il
-cherche, comme nous avons dit dans les chapitres précédents,
-soit parce qu’il se persuade que son âme et son esprit
-s’agrandissent par la vaine possession de quelques
-connaissances extraordinaires. Le désir déréglé de son bonheur
-et de sa grandeur fait qu’il étudie toutes les sciences, espérant
-trouver son bonheur dans les sciences de morale, et cherchant
-cette fausse grandeur dans les sciences spéculatives.
-D’où vient qu’il y a des personnes qui passent toute leur vie à
-lire des rabbins et d’autres livres écrits dans des langues
-étrangères, obscures et corrompues, et par des auteurs sans goût
-et sans intelligence ; si ce n’est parce qu’ils se persuadent que
-lorsqu’ils savent les langues orientales, ils sont plus grands et
-plus élevés que ceux qui les ignorent ? Et qui peut les soutenir
-dans leur travail ingrat, désagréable, pénible et inutile, si ce n’est
-l’espérance de quelque élévation et la vue de quelque vaine
-grandeur ? En effet, on les regarde comme des hommes rares ; on
-leur fait des compliments sur leur profonde érudition ; on les
-écoute plus volontiers que les autres : et quoiqu”on puisse dire
-que ce sont ordinairement les moins judicieux, quand ce ne serait
-qu’à cause qu’ils ont employé toute leur vie à une chose fort
-inutile, et qui ne peut les rendre ni plus sages ni plus heureux ;
-néanmoins on s’imagine qu’íls ont beaucoup plus d’esprit et de jugement que les autres. Étant plus savants dans l’origine des
-mots, on se laisse persuader qu’ils sont savants dans la nature
-des choses.
+The human mind undoubtedly has very little capacity and extent, and yet there is nothing it does not wish to know; all human sciences cannot satisfy its desires, and its capacity is so narrow that it cannot perfectly understand a single particular science. It is continually agitated, and it always desires to know, either because it hopes to find what it seeks, as we have said in the preceding chapters, or because it persuades itself that its soul and its mind are enlarged by the vain possession of some extraordinary knowledge. The disordered desire for its happiness and its greatness makes it study all the sciences, hoping to find its happiness in the moral sciences, and seeking this false greatness in the speculative sciences.
 
-C’est pour la même raison que les astronomes emploient leur
-temps et leur bien pour savoir au juste ce qu’il est non-seulement
-inutile, mais impossible de savoir. Ils veulent trouver dans le
-cours des planètes une exacte régularité qui ne s’y rencontre
-jamais, et dresser des tables astronomiques pour prédire des
-effets dont ils ne connaissent pas les causes. Ils ont fait la
-sénélographie ou la géographie de la lune, comme si l’on avait
-quelque dessein d’y voyager. lls l’ont déjà donnée en partage à
-tous ceux qui sont illustres dans l’astronomie ; il y en a peu qui
-n’aient quelque province en ce pays, comme une récompense de
-leurs grands travaux ; et je ne sais s’ils ne firent point quelque
-gloire d’avoîr été dans les bonnes grâces de celui qui leur a
-distribué si magnifiquement ces royaumes.
+Why is it that there are persons who spend their whole lives reading rabbis and other books written in foreign, obscure, and corrupted languages, and by authors without taste and without intelligence; if not because they persuade themselves that when they know the Oriental languages, they are greater and more elevated than those who are ignorant of them? And who can sustain them in their ungrateful, disagreeable, painful, and useless labor, if not the hope of some elevation and the view of some vain greatness? 
 
-D’où vient que des hommes raisonnables s’appliquent si fort à
-cette science et demeurent dans des erreurs très-grossières à
-l’égard des vérités qu’il leur est très-utile de savoir, si ce n’est
-qu’il leur semble que c’est quelque chose de grand que de
-connaître ce qui se passe dans le ciel ? La connaissance de la
-moindre chose qui se passe là-haut leur semble plus noble, plus
-relevée et plus digne de la grandeur de leur esprit que la
-connaissance des choses viles, abjectes et corruptibles, comme
-sont selon leur sentiment les seuls corps sublunaires. La noblesse
-d’une science se tire de la noblesse de son objet : c’est un grand
-principe ! La connaissance du mouvement des corps inaltérables
-et incorruptibles est donc la plus haute et la plus relevée de
-toutes les sciences. Ainsi elle leur parait digne de la grandeur et l’excellence de leur esprit.
-C’est ainsi que les hommes se laissent éblouir par une fausse idée de grandeur qui les flatte et qui les agite. Dès que leur
-imagination en est frappée, elle s’abat devant ce fantôme ; elle le
-révère et elle renverse et aveugle la raison qui en doit juger. Il
-semble que les hommes rêvent quand ils jugent des objets de
-leurs passions et qu’ils manquent de sens commun. Car enfin qu’y
-a-t-il de grand dans la connaissance des mouvements des
-planètes, et n’en savons-nous pas assez présentement pour régler
-nos mois et nos années ? Qu’avons-nous tant affaire de savoir si
-Saturne est environné d’un anneau ou d’un grand nombre de
-petites lunes, et pourquoi prendre parti là-dessus ? Pourquoi se
-glorifier d’avoir prédit la grandeur d’une éclipse où l’on a peutêtre mieux rencontré qu’un autre, parce qu’on a été plus heureux ?
-Il y a des personnes destinées par l’ordre du prince à observer
-les astres. contentons-nous de leurs observations. Ils s’appliquent
-à cet emploi avec raison, car ils s’y appliquent par devoir : c’est
-leur affaire. Ils y travaillent avec succès, car ils y travaillent san
-cesse avec art, avec application et avec toute l’exactitude
-possible ; rien ne leur manque pour y réussir. Ainsi nous devons
-être pleinement satisfaits sur une matière qui nous touche si peu,
-lorsqu’ils nous font part de leurs découvertes.
+In effect, they are regarded as rare men; compliments are paid to them on their profound erudition; they are listened to more willingly than others: and although one can say that they are ordinarily the least judicious, if only because they have employed their whole life in a very useless thing, which can render them neither wiser nor happier; nevertheless one imagines that they have much more wit and judgment than the others. Being more learned in the origin of words, one allows oneself to be persuaded that they are learned in the nature of things.
 
-Il est bon que plusieurs personnes s’appliquent à l’anatomie,
-puisqu’il est extrêmement utile de la savoir, et que les
-connaissances auxquelles nous devons aspirer sont celles qui
-nous sont les plus utiles. Nous pouvons et nous devons nous
-appliquer à ce qui contribue quelque chose à notre bonheur, ou
-plutôt au soulagement de nos infirmités et de nos misères. Mais
-passer toutes les nuits pendu à une lunette pour découvrir dans
+It is for the same reason that astronomers employ their time and their fortune to know exactly what is not only useless, but impossible to know. They wish to find in the course of the planets an exact regularity which is never found there, and to draw up astronomical tables to predict effects whose causes they do not know. They have made the selenography or geography of the moon, as if one had some design of traveling there. They have already divided it among all those who are illustrious in astronomy; there are few who do not have some province in that country, as a reward for their great labors; and I do not know if they do not make some glory of having been in the good graces of the one who has so magnificently distributed these kingdoms to them.
 
-les cieux quelque tache ou quelque nouvelle planète, perdre sa
-santé et son bien et abandonner ie soin de ses affaires pour
-rendre réglément visite aux étoiles et pour en mesurer les
-grandeurs et les situations, il me semble que c’est oublier
-entièrement et ce qu’on est présentement et ce qu’on sera un jour.
-Et qu’on ne dise pas que c’est pour reconnaître la grandeur de
-celui qui a fait tous ces grands objets. Le moindre moucheron
-manifeste davantage la puissance et la sagesse de Dieu à ceux qui
-le considèrent avec attention, et sans être préoccupés de sa
-petitesse, que tout ce que les astronomes savent des cieux
-Néanmoins les hommes ne sont pas faits pour examiner toute leur
-vie les moucherons et les insectes ; et l’on n’approuve pas trop la
-peine que quelques personnes se sont donnée pour nous
-apprendre comment sont faits les poux de chaque espèce
-d’animal, et les transformations de différents vers en mouches et
-en papillons. Il est permis de s’amuser à cela quand on n’a rien à
-faire et pour se divertir ; mais les hommes ne doivent point y
-employer tout leur temps s’ils ne sont insensibles à leurs misères.
-lls doivent incessamment s’appliquer à la connaissance de
-Dieu et d’eux-mêmes, travailler sérieusement à se défaire de
-leurs erreurs et de leurs préjugés, de leurs passions et de leurs
-inclinations au péché ; rechercher avec ardeur les vérités qui leur
-sont les plus nécessaires. Car enfin ceux-là sont les plus
-judicieux qui recherchent avec le plus de soin les vérités les plus
-solides.
+Why is it that reasonable men apply themselves so strongly to this science and remain in very gross errors with regard to the truths that it is very useful for them to know, if not because it seems to them that it is something great to know what passes in the heavens?
 
-La principale cause qui engage les hommes dans de fausses
-études, c’est qu’ils ont attaché l’idée de savant à des
-connaissances vaines et infructueuses, au lieu de ne l’attacher
-qu’aux sciences solides et nécessaires. Car quand un homme se
-515
-met en tête de devenir savant, et que l’esprit de polymathie
-commence à l’agiter, il n’examine guère quelles sont les sciences
-qui lui sont les plus nécessaires, soit pour se conduire en honnête
-homme, soit pour perfectionner sa raison ; il regarde seulement
-ceux qui passent pour savants dans le monde et ce qu’il y a en
-eux qui les rend considérables. Toutes les sciences les plus
-solides et les plus nécessaires étant assez communes, elles ne
-font point admirer ni respecter ceux qui les possèdent ; car on
-regarde sans attention et sans émotion les choses communes,
-quelque belles et quelque admirables qu’elles soient en ellesmêmes. Ceux qui veulent devenir savants ne s’arrêtent donc guère
-aux sciences nécessaires à la conduite de la vie et à la perfection
-de l’esprit. Ces sciences ne réveillent point en eux cette idée des
-sciences qu’ils se sont formée, car ce ne sont pas ces sciences
-qu’ils ont admirées dans les autres et qu’ils souhaitent qu’on
-admire en eux.
+The knowledge of the least thing that passes up there seems to them more noble, more elevated, and more worthy of the greatness of their mind than the knowledge of vile, abject, and corruptible things, as are according to their sentiment the only sublunary bodies. The nobility of a science is drawn from the nobility of its object: that is a great principle! The knowledge of the movement of inalterable and incorruptible bodies is therefore the highest and most elevated of all sciences. Thus it appears to them worthy of the greatness and excellence of their mind.
 
-L’Évangile et la morale sont des sciences trop communes et
-trop ordinaires ; ils souhaitent de savoir la critique de quelques
-termes qui se rencontrent dans les philosophes anciens ou dans
-les poëtes grecs. Les langues, et principalement celles qui ne sont
-point en usage dans leur pays, comme l’arabe et le rabbinage ou
-quelques autres semblables, leur paraissent dignes de leur
-application et de leur étude. S’ils lisent l’Écriture sainte, ce n’est
-pas pour y apprendre la religion et la piété ; les points de
-chronologie, de géographie, et les difficultés de grammaire, les
-occupent tout entiers ; ils désirent avec plus d’ardeur la
-connaissance de ces choses que les vérités salutaires de
-l’Évangile. Ils veulent posséder dans eux-mêmes la science
-qu’ils ont admirée sottement dans les autres, et que les sots ne
-manqueront pas d’admirer en eux.
+Thus men allow themselves to be dazzled by a false idea of greatness which flatters them and agitates them. As soon as their imagination is struck by it, it prostrates itself before this phantom; it reveres it and overturns and blinds the reason which ought to judge it. It seems that men dream when they judge the objects of their passions and that they lack common sense. For finally what is there great in the knowledge of the movements of the planets, and do we not know enough presently to regulate our months and our years? What business have we so much to know whether Saturn is surrounded by a ring or by a great number of little moons, and why take sides on that? Why glorify oneself for having predicted the magnitude of an eclipse where one has perhaps been more successful than another, because one has been more fortunate?
 
-De même dans les connaissances de la nature ils ne
-recherchent guère les plus utiles, mais les moins communes.
-L’anatomie est trop basse pour eux, mais l’astronomie est plus
-relevée. Les expériences ordinaires sont peu dignes de leur
-application ; mais ces expériences rares et surprenantes, qui ne
-nous peuvent jamais éclairer l’esprit, sont celles qu’ils observent
-avec plus de soin.
+There are persons destined by the order of the prince to observe the stars; let us be content with their observations. They apply themselves to this employment with reason, for they apply themselves to it by duty: it is their business. They work at it with success, for they work at it without ceasing with art, with application, and with all the exactness possible; nothing is lacking for them to succeed. Thus we should be fully satisfied on a matter that touches us so little, when they share their discoveries with us.
 
+It is good that several persons apply themselves to anatomy, since it is extremely useful to know it, and the knowledge to which we ought to aspire is that which is most useful to us. We can and ought to apply ourselves to what contributes something to our happiness, or rather to the relief of our infirmities and miseries. But to spend all night hanging on a telescope to discover in the heavens some spot or some new planet, to lose one's health and fortune and abandon the care of one's affairs to regularly visit the stars and to measure their magnitudes and situations, it seems to me that this is entirely forgetting both what one is presently and what one will be one day.
 
-Les histoires les plus rares et les plus anciennes sont celles
-qu’ils font gloire de savoir. Ils ne savent pas la généalogie des
-princes qui règnent présentement, et ils recherchent avec soin
-celle des hommes qui sont morts il y a quatre mille ans. Ils
-négligent d’apprendre les histoires de leur temps les plus
-communes, et ils tâchent de savoir exactement les fables et les
-fictions des poëtes. Ils ne connaissent pas même leurs propres
-parents ; mais si vous le souhaitez, ils vous apporteront plusieurs
-autorités pour vous prouver qu’un citoyen romain était allié d’un
-empereur, et d’autres choses semblables.
+And let no one say that it is to recognize the greatness of Him who made all these great objects. The least gnat manifests more the power and wisdom of God to those who consider it with attention, and without being preoccupied with its smallness, than all that astronomers know of the heavens. Nevertheless men are not made to examine all their lives gnats and insects; and one does not too much approve the pains that some persons have given themselves to teach us how the lice of each species of animal are made, and the transformations of different worms into flies and butterflies. It is permissible to amuse oneself with that when one has nothing to do and to divert oneself; but men must not employ all their time in it unless they are insensible to their miseries.
 
+They must incessantly apply themselves to the knowledge of God and of themselves, work seriously to rid themselves of their errors and prejudices, of their passions and inclinations to sin; seek with ardor the truths that are most necessary for them. For finally those are the most judicious who seek with the most care the most solid truths.
 
-A peine savent-ils le nom des vêtements ordinaires dont on se
-sert de leur temps, et ils s’amusent à la recherche de ceux dont se
-servaient les Grecs et les Romains. Les animaux de leur pays leur
-sont peu connus, et ils ne craindront pas d’employer plusieurs
-années à composer de grands volumes sur les animaux de la
-Bible, pour paraitre avoir mieux deviné que les autres ce que
-signifient des termes inconnus. Un tel livre fait les délices de son
-auteur et des savants qui le lisent, parce qu’étant tout cousu de
-passages grecs, hébreux, arabes, etc., de citations de rabbins et
-d’autres auteurs obscurs et extraordinaires, il satisfait la vanité
-de son auteur et la sotte curiosité de ceux qui le lisent, qui se
-croiront aussi plus savants que les autres quand ils pourront assurer avec fierté qu’il y à six mots différents dans l’Écriture
-pour signifier un lion ou quelque chose de semblable.
-La carte de leur pays ou même de leur ville leur est souvent
-inconnue dans le temps qu’ils étudient les cartes de la Grèce
-ancienne, de l’Italie, des Gaules du temps de Jules César, ou les
-rues et les places publiques de l’ancienne Rome. Labor
-stultorum, dit le Sage, affliget eos qui nesciunt in urbem
-pergere : ils ne savent pas le chemin de leur ville, et ils se
-fatiguent sottement dans des recherches inutiles. ils ne savent pas
-les lois ni les coutumes des lieux où ils vivent ; mais ils étudient
-avec soin le droit ancien, les lois des Douze Tables, les coutumes
-des Lacédémoniens ou des Chinois, ou les ordonnances du grand
-Mogol. Enfin ils veulent savoir toutes les choses rares,
-extraordinaires, éloignées, et que les autres ne savent pas, parce
-qu”ils ont attaché par un renversement d’esprit l’idée de savant à
-ces choses, et qu’il suffit pour être estimé savant de savoir ce que
-les autres ne savent pas, quand même on ignorerait les vérités les
-plus nécessaires et les plus belles. Il est vrai que la connaissance
-de toutes ces choses et d’autres semblables est appelée science,
-érudition, doctrine, l’usage l’a voulu ; mais il y a une science qui
-n’est que folie et que sottise, selon l’Écriture : Doctrina
-stultorum fatuítas. Je n’ai point encore remarqué que le SaintEsprit, qui donne tant d’éloges à la science dans les livres saints,
-dise quelque chose à l’avantage de cette fausse science dont je
-viens de parler.
+The principal cause that engages men in false studies is that they have attached the idea of "learned" to vain and unfruitful knowledge, instead of attaching it only to solid and necessary sciences. For when a man sets his mind on becoming learned, and the spirit of polymathy begins to agitate him, he hardly examines what are the sciences most necessary for him, either to conduct himself as an honest man, or to perfect his reason; he only regards those who pass for learned in the world and what there is in them that makes them considerable. All the most solid and most necessary sciences being common enough, they do not make those who possess them admired or respected; for one regards without attention and without emotion common things, however beautiful and admirable they may be in themselves. Those who wish to become learned therefore hardly stop at the sciences necessary for the conduct of life and for the perfection of the mind. These sciences do not awaken in them that idea of the sciences they have formed, for they are not these sciences that they have admired in others and that they wish to be admired in them.
 
+The Gospel and morality are too common and too ordinary sciences; they wish to know the criticism of some terms that are found in the ancient philosophers or in the Greek poets. Languages, and principally those that are not in use in their country, such as Arabic and Rabbinic or some other similar ones, appear to them worthy of their application and study. If they read Holy Scripture, it is not to learn religion and piety from it; the points of chronology, of geography, and grammatical difficulties occupy them entirely; they desire with more ardor the knowledge of these things than the salutary truths of the Gospel. They wish to possess in themselves the science they have foolishly admired in others, and which fools will not fail to admire in them.
+
+Likewise in the knowledge of nature they hardly seek the most useful, but the least common. Anatomy is too low for them, but astronomy is more elevated. Ordinary experiments are little worthy of their application; but those rare and surprising experiments, which can never enlighten our minds, are those they observe with the most care.
+
+The rarest and most ancient histories are those they make a glory of knowing. They do not know the genealogy of the princes who presently reign, and they carefully seek that of men who died four thousand years ago. They neglect to learn the most common histories of their time, and they try to know exactly the fables and fictions of the poets. They do not even know their own parents; but if you wish, they will bring you several authorities to prove to you that a Roman citizen was allied to an emperor, and other similar things.
+
+They scarcely know the name of the ordinary garments used in their time, and they amuse themselves seeking those used by the Greeks and Romans. The animals of their country are little known to them, and they will not fear to employ several years to compose great volumes on the animals of the Bible, to appear to have guessed better than others what unknown terms signify. Such a book is the delight of its author and of the scholars who read it, because being all sewn together with Greek, Hebrew, Arabic passages, etc., with citations of rabbis and other obscure and extraordinary authors, it satisfies the vanity of its author and the foolish curiosity of those who read it, who will believe themselves also more learned than others when they can proudly affirm that there are six different words in Scripture to signify a lion or something similar.
+
+The map of their country or even of their city is often unknown to them while they study the maps of ancient Greece, of Italy, of the Gauls in the time of Julius Caesar, or the streets and public places of ancient Rome. *Labor stultorum*, says the Wise Man, *affliget eos qui nesciunt in urbem pergere*: they do not know the way to their city, and they foolishly fatigue themselves in useless researches. They do not know the laws nor the customs of the places where they live; but they carefully study ancient law, the laws of the Twelve Tables, the customs of the Lacedaemonians or of the Chinese, or the ordinances of the Great Mogul. Finally they wish to know all things rare, extraordinary, distant, and that others do not know, because they have attached by a reversal of mind the idea of "learned" to these things, and it suffices to be esteemed learned to know what others do not know, even if one ignores the most necessary and most beautiful truths. It is true that the knowledge of all these things and other similar ones is called science, erudition, doctrine; usage has so willed it; but there is a science that is only folly and foolishness, according to Scripture: *Doctrina stultorum fatuitas*. I have not yet noticed that the Holy Spirit, who gives so many praises to science in the holy books, says anything to the advantage of this false science of which I have just spoken.
 

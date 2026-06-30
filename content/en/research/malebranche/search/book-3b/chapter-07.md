@@ -1,230 +1,63 @@
 ---
 heading: Chapter 7
-title: "The Rules"
+title: "Four different ways of seeing things"
 description: ""
 a: "Malebranche"
 c: "indigo"
-weight: 3
+weight: 21
 date: 2026-06-20
 ---
 
 
-I. Quatre différentes manières de voir les choses. — II. Comment on connait Dieu. —
-III. Comment on connaît les corps. — IV. Comment on connaît son âme. — V.
-Comment ou connaît les âmes des autres hommes et les purs esprits.
-I. Afin d’abréger et d’éclaircir le sentiment que je viens
-d’établir touchant la manière dont l’esprit aperçoit tous les
-différents objets de ses connaissances, il est nécessaire que je
-distingue en lui quatre manières de connaître.
-La première est de connaître les choses par elles-mêmes ;
-La seconde, de les connaître par leurs idées, c’est-à-dire,
-comme je l’entends ici, par quelque chose qui soit différent
-d’elles ;
+## Four different ways of seeing things 
 
-La troisième, de les connaître par conscience, ou par sentiment
-intérieur ;
-La quatrième, de les connaître par conjecture.
-On connaît les choses par elles-mêmes et sans idées,
-lorsqu’elles sont intelligibles par elles-mêmes, c’est-à-dire
-lorsqu’elles peuvent agir sur l’esprit, et par là se découvrir à lui.
-Car l’entendement est une faculté de l’âme purement passive, et
-l’activité ne se trouve que dans la volonté. Ses désirs mêmes ne
-sont point les causes véritables des idées, elles ne sont que les
-causes occasionnelles ou naturelles de leur présence, en
-conséquence des lois générales de l’union de notre âme avec la
-raison universelle, ainsi que je l’expliquerai ailleurs. On connaît
-les choses par leurs idées lorsqu’elles ne sont point intelligibles
-par elles-mêmes, soit parce qu’elles sont corporelles, soit parce qu’elles ne peuvent affecter l’esprit ou se découvrir à lui. On
-connait par conscience toutes les choses qui ne sont point
-distinguées de soi. Enfin on connaît par conjecture les choses qui
-sont différentes de soi, et de celles que l’on connaît en ellesmêmes et par des idées, comme lorsqu’on pense que certaines
-choses sont semblables à quelques autres que l’ou connaît.
+In order to shorten and clarify the sentiment I have just established concerning the manner in which the mind perceives all the different objects of its knowledge, it is necessary that I distinguish in it four ways of knowing.
 
-II. Il n’y a que Dieu que l’on connaisse par lui-même ; car
-encore qu’il y ait d’autres êtres spirituels que lui et qui semblent
-être intelligibles par leur nature, il n’y a que lui seul qui puisse
-agir dans l’esprit et se découvrir à lui. Il n’y a que Dieu que nous
-voyions d’une vue immédiate et directe ; il n’y a que lui qui
-puisse éclairer l’esprit par sa propre substance. Enfin, dans cette
-vie, ce n’est que par l’union que nous avons avec lui que nous
-sommes capables de connaître ce que nous connaissons, ainsi que
-nous l’avons expliqué dans le chapitre précédent ; car c’est notre
-seul maître qui préside à notre esprit, selon saint Augustin, sans
-l’entremise d’aucune créature
-[31]
-.
-On ne peut concevoir que quelque chose de créé puisse
-représenter l’infini, que l’être sans restriction, l’être immense,
-l’être universel puisse être aperçu par une idée, c'est-à-dire par
-un être particulier, par un être différent de l’être universel et
-infini ; mais, pour les êtres particuliers, il n’est pas difficile de
-concevoir qu’ils puissent être représentés par l’être infini qui les
-renferme dans sa substance très-efficace et par conséquent trèsintelligible. Ainsi il est nécessaire de dire que l’on connaît Dieu
-par lui-même, quoique la connaissance que l’on en a en cette vie
-soit très-imparfaite ; et que l’on connaît les choses corporelles
-par leurs idées, c’est-à-dire en Dieu, puisqu’il n’y a que Dieu qui
-renferme le monde intelligible, où se trouvent les idées de toutes
-418
-choses.
+The first is to know things by themselves;
+The second, to know them by their ideas—that is to say, as I understand it here, by something that is different from them;
+The third, to know them by consciousness, or by inner feeling;
+The fourth, to know them by conjecture.
 
-Mais encore que l’on puisse voir toutes choses en Dieu, il ne
-s’ensuit pas qu’on les y voie toutes : on ne voit en Dieu que les
-choses dont on a des idées, et il y a des choses que l’on voit sans
-idées.
+One knows things by themselves and without ideas, when they are intelligible by themselves—that is to say, when they can act upon the mind, and thereby disclose themselves to it. For the understanding is a faculty of the soul that is purely passive, and activity is found only in the will. Its desires themselves are not the true causes of ideas; they are only the occasional or natural causes of their presence, in consequence of the general laws of the union of our soul with universal reason, as I will explain elsewhere. One knows things by their ideas when they are not intelligible by themselves, either because they are corporeal, or because they cannot affect the mind or disclose themselves to it. One knows by consciousness all the things that are not distinguished from oneself. Finally, one knows by conjecture things that are different from oneself, and from those that one knows in themselves and by ideas—as when one thinks that certain things are similar to some others that one knows.
 
-III. Toutes les choses qui sont en ce monde, dont nous ayons
-quelque connaissance, sont des corps ou des esprits : propriétés
-de corps, propriétés d’esprits. On ne peut douter que l’on ne voie
-les corps avec leurs propriétés par leurs idées, parce que n’étant
-pas intelligibles par eux-mêmes, nous ne les pouvons voir que
-dans l’être qui les renferme d’une manière intelligible. Ainsi
-c’est en Dieu et par leurs idées que nous voyons les corps avec
-leurs propriétés, et c’est pour cela que la connaissance que nous
-en avons est très-parfaite : je veux dire que l’idée que nous avons
-de l’étendue suffit pour nous faire connaître toutes les propriétés
-dont l’étendue est capable, et que nous ne pouvons désirer
-d’avoir une idée plus distincte et plus féconde de l’étendue, des
-figures et des mouvements que celle que Dieu nous en donne.
-Comme les idées des choses qui sont en Dieu renferment toutes
-leurs propriétés, qui en voit les idées en peut voir
-successivement toutes les propriétés ; car, lorsqu’on voit les
-choses comme elles sont en Dieu, on les voit toujours d’une
-manière très-parfaite, et elle serait infiniment parfaite si l’esprit
-qui les y voit était infini. Ce qui manque à la connaissance que
-nous avons de l’étendue, des figures et des mouvements n’est
-point un défaut de l’idée qui la représente, mais de notre esprit
-qui la considère.
 
-IV. Il n’en est pas de même de l’âme : nous ne la connaissons
-point par son idée ; nous ne la voyons point en Dieu ; nous ne la
-419
-connaissons que par conscience, et c’est pour cela que la
-connaissance que nous en avons est imparfaite ; nous ne savons
-de notre âme que ce que nous sentons se passer en nous. Si nous
-n’avions jamais senti de douleur, de chaleur, de lumière, etc.,
-nous ne pourrions savoir si notre âme en serait capable, parce
-que nous ne la connaissons point par son idée
-[32]
-. Mais si nous
-voyions en Dieu l’idée qui répond à notre âme, nous connaîtrions
-en même temps ou nous pourrions connaître toutes les propriétés
-dont elle est capable ; comme nous connaissons ou nous pouvons
-connaître toutes les propriétés dont l'étendue est capable, parce
-que nous connaissons l’étendue par son idée.
-Il est vrai que nous connaissons assez par notre conscience ou
-par le sentiment intérieur que nous avons de nous-mêmes que
-notre âme est quelque chose de grand, mais il se peut faire que ce
-que nous en connaissons ne soit presque rien de ce qu’elle est en
-elle-même. Si on ne connaissait de la matière que vingt ou trente
-figures dont elle aurait été modifiée, certainement on n’en
-connaîtrait presque rien, en comparaison de ce que l’on en
-connaît par l’idée qui la représente. Il ne suffit donc pas pour
-connaître parfaitement llàme de savoir ce que nous en savons par
-le seul sentiment intérieur, puisque la conscience que nous avons
-de nousmèmés ne nous montre peut-être que la moindre partie de
-notre être.
+## How one knows God
 
-On peut conclure de ce que nous venons de dire qu’encore que
-nous connaissions plus distinctement l’existence le notre âme que
-l’existence de notre corps et de ceux qui nous environnent,
-cependant nous n’avons pas une connaissance si parfaite de la
-nature de l’âme que de la nature des corps, et cela peut servir à
-accorder les différents sentiments de ceux qui disent qu’il n’y a rien qu’on connaisse mieux que l’âme, et de ceux qui assurent
-qu’il n’y a rien qu'ils connaissent moins.
+There is only God whom one knows by Himself; for although there are other spiritual beings besides Him and that seem to be intelligible by their nature, there is only He alone who can act in the mind and disclose Himself to it. There is only God whom we see by an immediate and direct view; there is only He who can enlighten the mind by His own substance. Finally, in this life, it is only by the union we have with Him that we are capable of knowing what we know, as we have explained in the preceding chapter; for it is our only master who presides over our mind, according to Saint Augustine, without the mediation of any creature
+[31].
 
-Cela peut aussi servir à prouver que les idées qui nous
-représentent quelque chose hors de nous ne sont point des
-modifications de notre âme ; car si l’âme voyait toutes choses en
-considérant ses propres modifications, elle devrait connaître plus
-clairement son essence ou sa nature que celle des corps, et toutes
-les sensations ou modifications dont elle est capable que les
-figures ou modifications dont les corps sont capables. Cependant
-elle ne connait point qu’elle soit capable d’une telle sensation
-par la vue qu’elle a d’elle même, mais seulement par
-expérience ; au lieu qu’elle connaît que l’étendue est capable
-d’un nombre infini de figures par l’idée qu’elle a de l’étendue, Il
-y a même de certaines sensations, comme les couleurs et les sons,
-que la plupart des hommes ne peuvent reconnaître si elles sont ou
-ne sont pas des modifications de l’âme, et il n’y a point de
-figures que tous les hommes, par l’idée qu’ils ont de l’étendue,
-ne reconnaissent être des modifications des corps.
-Ce que je viens de dire fait aussi voir la raison pour laquelle
-on ne peut pas donner de définition qui fasse connaître les
-modifications de l’âme ; car puisqu’on ne connaît ni l’âme ni ses
-modifications par des idées, mais seulement par des sentiments,
-et que tels sentiments de plaisir, par exemple, de douleur, de
-chaleur. etc., ne sont point attachés aux mots, il est clair que si
-quelqu’un n’avait jamais vu de couleur ni senti de chaleur, on ne
-pourrait lui faire connaître ces sensations par toutes les
-définitions qu’on lui en donnerait. Or les hommes n’ayant leurs
-sentiments qu’à cause du corps, et leur corps n’étant pas disposé
-en tous de la même manière, il arrive souvent que les mots sont équivoques, que ceux dont on se sert pour exprimer les
-modifications de son âme signifient tout le contraire de ce qu’on
-prétend, et que souvent on fait penser à l’amertume, par exemple,
-lorsqu’on croit faire penser in la douceur.
+One cannot conceive that anything created can represent the infinite, that being without restriction, immense being, universal being can be perceived by an idea—that is to say, by a particular being, by a being different from universal and infinite being; but, for particular beings, it is not difficult to conceive that they can be represented by infinite being, who contains them in His very efficacious and consequently very intelligible substance. Thus it is necessary to say that one knows God by Himself, although the knowledge one has of Him in this life is very imperfect; and that one knows corporeal things by their ideas—that is to say, in God—since there is only God who contains the intelligible world, where the ideas of all things are found.
 
-Encore que nous n’ayons pas une entière connaissance de notre
-âme, celle que nous en avons par conscience ou sentiment
-intérieur suffit pour en démontrer l’immortalité, la spiritualité, la
-liberté et quelques autres attributs qu’il est nécessaire que nous
-sachions, et c’est pour cela que Dieu ne nous la fait point
-connaître par son idée comme il nous fait connaître les corps. La
-connaissance que nous avons de notre âme par conscience est
-imparfaite. il est vrai, mais elle n’est point fausse ; la
-connaissance, au contraire, que nous avons des corps par
-sentiment ou par conscience, si on peut appeler conscience le
-sentiment de ce qui se passe dans notre corps. n’est pas
-seulement imparfaite, mais elle est fausse. Il nous fallait donc une
-idée des corps pour corriger les sentiments que nous en avons ;
-mais nous n’avons point besoin de l’idée de notre âme. puisque
-la conscience que nous en avons ne nous engage point dans
-l’erreur, et que pour ne nous point tromper dans sa connaissance
-il suffit de ne la point confondre avec le corps, ce que nous
-pouvons faite par la raison. Enfin si nous avions une idée de
-l’àme aussi claire que celle que nous avons du corps, cette idée
-nous l’eût trop fait considérer comme séparée de lui. Ainsi elle
-eùt diminué l’union de notre âme avec notre corps, en nous
-empêchant dela regarder comme répandue dans tous nos
-membres, ce que je n’explique pas davantage.
-V. De tous les objets de notre connaissance, il ne nous reste
-plus que les âmes des autres hommes et que les pures intelligences, et il est manifeste que nous ne les connaissons que
-par conjecture. Nous ne les connaissons présentement ni en ellesmêmes ni par leurs idées ; et, comme elles sont différentes de
-nous, il n’est pas possible que nous les connaissions par
-conscience. Nous conjecturons que les âmes des autres hommes
-sont de même espèce que la nôtre. Ce que nous sentons en nousmêmes, nous prétendons qu’ils le sentent ; et même, lorsque ces
-sentiments n’ont point de rapport au corps, nous sommes assurés
-que nous ne nous trompons point, parce que nous voyons en Dieu
-certaines idées et certaines lois immuables selon lesquelles nous
-savons avec certitude que Dieu agit également dans tous les
-esprits.
+But although one can see all things in God, it does not follow that one sees them all there: one sees in God only the things of which one has ideas, and there are things that one sees without ideas.
 
-Je sais que deux fois deux font quatre, qu’il vaut mieux être
-juste que d’être riche, et je ne me trompe point de croire que les
-autres connaissent ces vérités aussi bien que moi ; j’aime le bien
-et le plaisir, je hais le mal et la douleur, je veux être heureux, et
-je ne me trompe point de croire que les hommes, les anges et les
-démons mêmes ont ces inclinations. Je sais même que Dieu ne
-fera jamais d’esprits qui ne désirent d’être heureux ou qui
-puissent désirer d’être malheureux ; mais je le sais avec évidence
-et certitude, parce que c’est Dieu qui me l’apprend ; car quel
-autre que Dieu pourrait me faire connaître les desseins et les
-volontés de Dieu ? Mais lorsque le corps a quelque part à ce qui
-se passe en moi, je me trompe presque toujours si je juge des
-autres par moi-même. Je sens de la chaleur, je vois une telle
-grandeur, une telle couleur ; je goûte une telle ou telle saveur à
-l’approche de certains corps ; je me trompe si je juge des autres
-par moi-même ; je suis sujet à certaines passions ; j’ai de
-l’amitié ou de l’aversion pour telle ou telle chose, et je juge que
-les autres me ressemblent ; ma conjecture est souvent fausse.
-423
-Ainsi la connaissance que nous avons des autres hommes est fort
-sujette à Terreur si nous n’en jugeons que par les sentiments que
-nous avons de nous-mêmes.
-S’il y a quelques êtres différents de Dieu, de nous-mêmes, des
-corps et des purs esprits, cela nous est inconnu. Nous avons de la
-peine à nous persuader qu’il y en ait : et après avoir examiné les
-raisons de certains philosophes qui prétendent le contraire, nous
-les avons trouvées fausses ; ce qui nous a confirme dans le
-sentiment que nous avions, qu’étant tous hommes de même nature,
-nous avions tous les mêmes idées, parce que nous avons tous
-besoin de connaître les mêmes.
+
+## How one knows bodies
+
+All the things that are in this world, of which we have some knowledge, are bodies or spirits: properties of bodies, properties of spirits. One cannot doubt that one sees bodies with their properties by their ideas, because not being intelligible by themselves, we can see them only in the being who contains them in an intelligible manner. Thus it is in God and by their ideas that we see bodies with their properties, and it is for this reason that the knowledge we have of them is very perfect: I mean that the idea we have of extension suffices to make us know all the properties of which extension is capable, and that we cannot desire to have a more distinct and more fruitful idea of extension, figures, and motions than that which God gives us of it. As the ideas of things that are in God contain all their properties, whoever sees the ideas can see successively all their properties; for when one sees things as they are in God, one always sees them in a very perfect manner, and it would be infinitely perfect if the mind that sees them there were infinite. What is lacking in the knowledge we have of extension, figures, and motions is not a defect of the idea that represents it, but of our mind that considers it.
+
+
+## How one knows one's soul 
+
+It is not the same with the soul: we do not know it by its idea; we do not see it in God; we know it only by consciousness, and it is for this reason that the knowledge we have of it is imperfect; we know of our soul only what we feel passing within us. If we had never felt pain, heat, light, etc., we could not know whether our soul would be capable of them, because we do not know it by its idea
+[32]. But if we saw in God the idea that corresponds to our soul, we would know at the same time, or we could know, all the properties of which it is capable; just as we know, or can know, all the properties of which extension is capable, because we know extension by its idea.
+
+It is true that we know sufficiently by our consciousness, or by the inner feeling we have of ourselves, that our soul is something great, but it may be that what we know of it is almost nothing of what it is in itself. If one knew of matter only twenty or thirty figures with which it had been modified, certainly one would know almost nothing of it, in comparison with what one knows of it by the idea that represents it. It is not enough, therefore, to know the soul perfectly to know what we know of it by inner feeling alone, since the consciousness we have of ourselves perhaps shows us only the least part of our being.
+
+One can conclude from what we have just said that although we know the existence of our soul more distinctly than the existence of our body and of those that surround us, nevertheless we do not have as perfect a knowledge of the nature of the soul as of the nature of bodies, and this can serve to reconcile the different sentiments of those who say that there is nothing one knows better than the soul, and of those who affirm that there is nothing they know less.
+
+This can also serve to prove that the ideas that represent to us something outside us are not modifications of our soul; for if the soul saw all things by considering its own modifications, it should know its essence or its nature more clearly than that of bodies, and all the sensations or modifications of which it is capable more clearly than the figures or modifications of which bodies are capable. However, it does not know that it is capable of such a sensation by the view it has of itself, but only by experience; whereas it knows that extension is capable of an infinite number of figures by the idea it has of extension. There are even certain sensations, such as colors and sounds, that most men cannot recognize as being or not being modifications of the soul, and there is no figure that all men, by the idea they have of extension, do not recognize as being modifications of bodies.
+
+What I have just said also shows the reason why one cannot give a definition that makes known the modifications of the soul; for since one knows neither the soul nor its modifications by ideas, but only by feelings, and since such feelings of pleasure, for example, of pain, of heat, etc., are not attached to words, it is clear that if someone had never seen color or felt heat, one could not make him know these sensations by all the definitions one might give him. Now, men having their feelings only because of the body, and their body not being disposed in the same way in all, it often happens that words are equivocal, that those one uses to express the modifications of one's soul mean the very opposite of what one intends, and that often one makes one think of bitterness, for example, when one believes one is making one think of sweetness.
+
+Although we do not have a complete knowledge of our soul, that which we have of it by consciousness or inner feeling suffices to demonstrate its immortality, its spirituality, its freedom, and some other attributes that it is necessary for us to know, and it is for this reason that God does not make us know it by its idea as He makes us know bodies. The knowledge we have of our soul by consciousness is imperfect, it is true, but it is not false; the knowledge, on the contrary, that we have of bodies by feeling or by consciousness—if one can call consciousness the feeling of what passes in our body—is not only imperfect, but it is false. We therefore needed an idea of bodies to correct the feelings we have of them; but we have no need of the idea of our soul, since the consciousness we have of it does not lead us into error, and that in order not to be mistaken in its knowledge it suffices not to confuse it with the body, which we can do by reason. Finally, if we had an idea of the soul as clear as that which we have of the body, this idea would have made us consider it too much as separated from it. Thus it would have diminished the union of our soul with our body, by preventing us from regarding it as spread throughout all our members, which I do not explain further.
+
+
+## How one knows the souls of other men and pure spirits
+
+Of all the objects of our knowledge, there remain to us only the souls of other men and pure intelligences, and it is manifest that we know them only by conjecture. We do not know them presently either in themselves or by their ideas; and as they are different from us, it is not possible that we know them by consciousness. We conjecture that the souls of other men are of the same species as our own. What we feel in ourselves, we claim that they feel; and even when these feelings have no relation to the body, we are assured that we are not mistaken, because we see in God certain ideas and certain immutable laws according to which we know with certainty that God acts equally in all minds.
+
+I know that two times two make four, that it is better to be just than to be rich, and I am not mistaken in believing that others know these truths as well as I; I love good and pleasure, I hate evil and pain, I wish to be happy, and I am not mistaken in believing that men, angels, and even demons have these inclinations. I even know that God will never make minds that do not desire to be happy or that could desire to be unhappy; but I know this with evidence and certainty, because it is God who teaches it to me; for who other than God could make me know the designs and wills of God? But when the body has some part in what passes in me, I am almost always mistaken if I judge others by myself. I feel heat, I see such a size, such a color; I taste such or such a flavor at the approach of certain bodies; I am mistaken if I judge others by myself; I am subject to certain passions; I have friendship or aversion for such or such a thing, and I judge that others resemble me; my conjecture is often false. Thus the knowledge we have of other men is very subject to error if we judge of it only by the feelings we have of ourselves.
+
+If there are some beings different from God, from ourselves, from bodies, and from pure spirits, that is unknown to us. We have difficulty persuading ourselves that there are any; and after having examined the reasons of certain philosophers who claim the contrary, we have found them false; which has confirmed us in the sentiment we had, that being all men of the same nature, we all have the same ideas, because we all have need to know the same things.
+
+
