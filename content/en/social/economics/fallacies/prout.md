@@ -24,7 +24,14 @@ Its principles are:
 {{< youtube M-6EfuQCESo >}}
 
 
-Its most striking feature is the **guarantee of minimum requirements** as a realization of those principles, without explaining how it would be done. 
+Its most striking feature is the **guarantee of minimum requirements** as a realization of those principles, **without explaining how it would be done**. 
+
+Sarkar seems to just lazily give these principles as short "Nutshell" books that are devoid of statistical data that can expose causes and effects. 
+
+This is in contrast to Adam Smith who went through pricing data of wheat from the 12th-18th centuries in order to justify his proposed principles. 
+
+
+## Venezuela is Proof that PROUT is Wrong
 
 PROUT influenced Hugo Chavez and consequently, [Venezuela](https://venezuelanalysis.com/analysis/2361/). However, we do not know whether its policies were implemented by Venezuela as to contribute directly the its rapid economic decline.
 
@@ -47,19 +54,34 @@ Instead of controls, Chavez & Maduro should have invited more investment:
 If production is increased through **investment in developmental programmes** instead, the purchasing capacity of the people can be increased.. In pure economic terms developmental programmes are those programmes which directly increase national wealth
 {{< /q >}}
 
+Chavez kicked out capitalist investors hoping that the state could invest through oil revenues. But that failed when skilled oil workers were replaced with unskilled loyalists. 
+
 
 Unfortunately, PR Sarkar never elaborated on the technical aspects of how to increase purchasing power and so it has remained abstract. 
 
 He correctly points out that **investment** is needed, something that capitalists are very much experts on. 
-- This is in contrast to the tendency of shallow humans to give welfare for free as a means of social upliftment
 
-If PR Sarkar elaborated on its technical aspects, then PROUT would have instead advocated 'national wealth investment' alongside minimum requirements. 
+<!-- - This is in contrast to the tendency of shallow humans to give welfare for free as a means of social upliftment -->
+
+If PR Sarkar elaborated on its technical aspects, then PROUT would have instead advocated 'national wealth investment' even before minimum requirements (which explains why minimum requirements are an appendix and should come last). 
 
 Currently, China has such public investments in welfare through its state run infrastructure and services with work via state capitalism. 
-- Sarkar calls these state run organizatios as "key industries"
+- Sarkar calls these state run organizations as "key industries"
+
+
+## The China Model Succeeded
 
 So the natural system of economy was already discovered by Chinese socialism, which also pushes for cooperatives and single-party control where the Communist Party is the *sadvipra* party.
 
-This makes Prout much less relevant as an economic solution when we compare the povery in Venezuela and the wealth in China, both of which are socialist.
+China's success makes Prout much less relevant as an economic solution when we compare the poverty in Venezuela and the wealth in China, both of which are socialist.
 
+Both Modern China and PROUT started in the 1950s. 
+- Marxist China was established in 1949
+- PROUT was established in 1959
+
+The big difference is that China did not use the **dogmatic cult format** whereas PROUT kept its cult dogma. This prevented reform in PROUT. 
+
+The Communist Party reformed Mao, with Deng declaring Mao's Cultural Revolution as a catastrophe in 1981. This allowed a near total overhaul that stayed within the genearl socialist agenda.
+
+The cult format of PROUT prevents it from admitting that PROUT from 1959 to modern times (2014) has been a catastrophe, with Venezuela as a shining example, that needs a near total overhaul. 
 
