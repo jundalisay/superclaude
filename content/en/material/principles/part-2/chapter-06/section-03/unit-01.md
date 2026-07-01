@@ -1,8 +1,8 @@
 ---
-heading: "Section 2"
+heading: "Section 3"
 title: "Centrifugal and Centripetal Forces"
 # date: 2023-11-27
-weight: 10
+weight: 7
 image: /photos/physics/skates.jpg 
 # was 1b
 description: "The Media of the Spatial Layer creates the common forces of gravity and magnetism"

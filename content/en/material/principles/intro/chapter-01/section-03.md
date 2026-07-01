@@ -21,13 +21,14 @@ The basic pattern is layers --> spin -> action -> relation -> force -> movement 
 Chapter | Topic
 --- | ---
 1 | Basic Info
-2 | Polarity and Sublayers
+2 | Sublayers
 3 | Medium
 4 | Substance
 5 | Quantum 
-6 | Conservation (Unity), Signature or Spin (Identity) 
-7 | Action (Relationality or Division of Labor, Territory)
-8 | Force or Change or Phenomena (Value Creation)
+6 | Conservation, Constants, Polarity
+7 | Action (Usually 3)
+8 | Relationalities
+9 | Tech
 
 
 Sections / Unit | Topic
@@ -55,8 +56,8 @@ Sections / Unit | Topic
 
 Name | Particle | Phenomena
 --- | --- | ---
-moa1 | existence space | wave as flow
-moa2 | identity space | wave as identity, quantization
+moa1 | existence space | multiverses
+moa2 | identity space | dimensions, quantization
 moa3 | perception space | Hilbert Space, Gauge theory
 soa1 | physical existence | brahma
 soa2 | identity | spin, frequency 
@@ -82,12 +83,12 @@ sor3 | electricity |
 qor1 | electron |
 qor2 | muon |
 qor3 | tau |
-moc1 | w z bosons |
+moc1 | intermolecular forces |
 moc2 | intramolecular forces |
-moc3 | intermolecular forces |
-soc1 | anita |
+moc3 | w z bosons  |
+soc1 | anita | 
 soc2 | neutron |
-soc3 | acids bases |
+soc3 | acids bases | 
 qoc1 | electron neutrino |
 qoc2 | muon neutrino |
 qoc3 | tau neutrino |
@@ -95,9 +96,9 @@ mom1 | gas |
 mom2 | liquid |
 mom3 | solid |
 som1 | microaetherspace | Zeeman effect
-som2 | proton microaetherspace core | 
+som2 | proton microaetherspace | 
 som3 | quasi crystal |
-qom1 | up down | 
-qom2 | charm strange |
-qom3 | top down |
+qom1 | nonmetals  | 
+qom2 | metalloids |
+qom3 | metals |
 

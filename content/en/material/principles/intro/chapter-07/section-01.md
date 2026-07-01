@@ -8,53 +8,13 @@ description: "In Superphysics, each layer has specific actions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 24
+weight: 4
 icon: "Juan"
 toc: false
 aliases:
   /material/principles/intro/chapter-07/chapter-07
 ---
 
-
-<!-- existence space
-identity space
-perception space
-timespan
-macro aetherspan
-spacespan
-  macro d
-  d
-  micro d
-  macro c
-  c
-  micro c
-
-weak force
-
-intra   
-  micro i ionic metal-nonmetal - salt - transfer concetentaion 1st rule
-  i covalent metal-nonmetal vesper angle lone pairs creates molecules - h2o - share electrons yoga 1st rule
-  macro i metallic metal-metal - sea of electrons 
-    weak space 
-
-
-concet 1 molecule intra
-concat 2 mleucles inter
-
-inter 
-  london temporary
-  dipole permanent
-
-gas
-  air pressure
-  buoyant force
-liquid (a)
-  cohesion 
-  adhesion
-solid (micro a)
-  contact 
-  strong nuclear 
- -->
 
 
 ## Spin or Effort

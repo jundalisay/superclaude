@@ -10,141 +10,42 @@ date: 2026-06-20
 
 
 
-Des le commencement de cet ouvrage j’aí distingué comme
-deux parties dans l’être simple et indivisible de l’âme, l’une
-purement passive, et l’autre passive et active tout ensemble. La
-première est l’esprit ou l’entendement ; la seconde est la volonté.
-J’ai attribué à l’esprit trois facultés, parce qu’il reçoit ses
-modifications et ses idées de l’auteur de la nature en trois
-manières. Je l’ai appelé sens lorsqu’il reçoit de Dieu des idées
-confondues avec des sensations, c’est-à-dire des idées sensibles
-à l’occasion de certains mouvements qui se passent dans les
-organes de ses sens à la présence des objets. Je l’ai appelé
-imagination et mémoire lorsqu’il reçoit de Dieu des idées
-confondues avec des images, lesquelles font une espèce de
-sensations faibles et languissantes que l’esprit ne reçoit qu’à
-cause de quelques traces qui se produisent ou qui se réveillent
-dans le cerveau par le cours des esprits. Enfin je l’ai appelé
-esprit pur ou entendement pur lorsqu’il reçoit de Dieu les idées
-toutes pures de la vérité sans mélange de-sensations et d’images :
-non-par l’union qu’il a avec le corps, mais par celle qu’il a avec
-le Verbe ou la sagesse de Dieu ; non parce qu’il est dans le
-monde matériel et sensible, mais parce qu’il subsiste dans le
-monde immatériel et intelligible ; non pour connaître des choses
-muables, propres à la conservation de la vie du corps, mais pour
-pénétrer des vérités immuables, lesquelles conservent en nous la
-vie de l’esprit.
+I have distinguished, as two parts in the simple and indivisible being of the soul:
 
-J’ai fait voir dans le premier et le second livre que nos sens et
-notre imagination nous sont fort utiles pour connaître les rapports
-que les corps de dehors ont avec le nôtre ; que toutes les idées
-que l’esprit reçoit par le corps sont toutes pour le corps ; qu’il
-est impossible de découvrir quelque vérité que ce soit avec
-évidence. par les idées des sens et de l’imagination ; que ces
-idées confuses ne servent qu’à nous attacher à notre corps et par
-notre corps à toutes les choses sensibles, et qu’enfin si nous
-voulons éviter l’erreur nous ne devons point nous y lier. Je
-conclus de même qu’il est moralement impossible de connaître
-par les idées pures de l’esprit les rapports que les corps ont avec
-le nôtre, qu’il ne faut point raisonner selon ces idées pour savoir
-si une pomme ou une pierre sont bonnes à manger, qu’il en faut
-goûter, et qu’encore que l’on puisse se servir de son esprit pour
-connaître confusément les rapports des corps étrangers avec le
-nôtre, c’est toujours le plus sur de se servir de ses sens. Je donne
-encore un exemple ; car on ne peut trop imprimer dans l’esprit
-des vérités si essentielles et si nécessaires.
-Je veux examiner, par exemple, ce qui m’est le plus avantageux
-d’être juste ou d’être riche. Si j’ouvre les yeux du corps, la
-justice me paraît une chimère, je n’y vois point d’attraits. Je vois
-des justes misérables, abandonnés, persécutés, sans défense et
-sans consolation, car celui qui les console et qui les soutient ne
-parait point à mes yeux. En un mot, je ne vois pas de quel usage
-peut être la justice et la vertu. Mais si je considère les richesses
-les yeux ouverts, j’en vois d’abord l’éclat et j’en suis ébloui. La
-puissance, la grandeur, les plaisirs et tous les biens sensibles
-accompagnent les richesses, et je ne puis douter qu’il ne faille
-être riche pour être heureux. De même, si je me sers de mes
-oreilles, j’entends que tous les hommes estiment les richesses, qu’on ne parle que des moyens d’en avoir, que l’on loue et que
-l’on honore sans cesse ceux qui les possèdent. Ce sens et tous les
-autres me disent donc qu’il faut être riche pour être heureux. Que
-si je me ferme les yeux et les oreilles, et que j’interroge mon
-imagination, elle me représentera sans cesse ce que mes yeux
-auront vu, ce qu’ils auront lu et ce que mes oreilles auront
-entendu à l’avantage des richesses. Mais elle me représentera
-encore ces choses tout d’une autre mánière que mes sens, car
-l’imagination augmente toujours les idées des choses qui ont
-rapport au corps et que l’on aime. Si je la laisse donc faire elle
-me conduira bientôt dans un palais enchanté semblable à ceux
-dont les poëtes et les faiseurs de romans font des descriptions si
-magnifiques, et là je verrai des beautés qu’il est inutile que je
-décrive, lesquelles me convaincront que le dieu des richesses qui
-l’habite est le seul capable de me rendre heureux. Voilà ce que
-mon corps est capable de me persuader, car il ne parle que pour
-lui, et il est nécessaire pour son bien que l’imagination s’abatte
-devant la grandeur et l’éclat des richesses.
+1. One part is purely passive 
 
-Mais si je considère que le corps est infiniment au-dessous de
-l’esprit, qu’il ne peut en être le maître, qu’il ne peut l’instruire de
-la vérité ni produire en lui la lumière ; et que dans cette vue je
-rentre en moi-même, et que je me demande, ou plutôt (puisque je
-ne suis pas à moi-même, ni mon maître, ni ma lumière) si je
-m’approche de Dieu, et que, dans le silence de mes sens et de
-mes passions, je lui demande si je dois préférer les richesses à la
-vertu ou la vertu aux richesses, j’entendrai une réponse claire et
-distincte de ce que je dois faire ; réponse éternelle qui a toujours
-été dite, qui se dit et qui se dira toujours, réponse qu’il n’est pas
-nécessaire que j’explique, parce que tout la monde la sait, ceux
-qui lisent ceci et ceux qui ne le lisent pas ; qui n’est ni grecque, ni latine, ni française, ni allemande, et que toutes les nations
-conçoivent : réponse enfin qui console les justes dans leur
-pauvreté et qui console les pêcheurs au milieu de leurs richesses.
-J’entendrai cette réponse et j’en demeurerai convaincu. Je me
-rirai des visions de mon imagination et des illusions de mes sens.
-L’homme intérieur qui est en moi se moquera de l’homme animal
-et terrestre que je porte. Enfin l’homme nouveau croitra et le
-vieil homme sera détruít, pourvu néanmoins que j’obéisse
-toujours à la voix de celui qui me parle si clairement dans le plus
-secret de ma raison et qui, s’étant rendu sensible pour
-s’accommoder à ma faiblesse et à ma corruption, et pour me
-donner la vie parce qui me donnait la mort, me parle encore
-d’une manière très-forte, très-vive et très-familière par mes sens,
-je veux dire par la prédication de son Évangile. Que si je
-l'interroge dans toutes les questions métaphysiques, naturelles, et
-de pure philosophie, aussi bien que dans celles qui regardent le
-règlement des mœurs, j’aurai toujours un maître fidèle qui ne me
-trompera jamais : non-seulement je serai chrétien, mais je serai
-philosophe ; je penserai bien et j’aimerai de bonnes choses ; en
-un mot. je suivrai le chemin qui conduit à toute la perfection dont
-je suis capabale, et par la grâce et par la nature.
-Il faut donc conclure de tout ce que j’ai dit que, pour faire le
-meilleur usage qui se puisse des facultés de notre âme, de nos
-sens, de notre imagination et de notre esprit, nous ne devons les
-appliquer qu’aux choses pour lesquelles elles nous sont données.
-Il faut distinguer avec soin nos sensations et nos imaginations
-d’avec nos idées pures, et juger selon nos sensations et nos
-imaginations des rapports que les corps de dehors ont avec le
-nôtre, sans nous en servir pour découvrir les vérités qu’elles
-confondent toujours, et il faut nous servir des idées pures de l’esprit pour découvrir les vérités sans nous en servir pour juger
-des rapports que les corps de dehors ont avec le nôtre, parce que
-ces idées n’ont jamais assez d’étendue pour nous les représenter
-parfaitement.
+This is the mind or understanding.
 
-Il est impossible que les hommes connaissent assez toutes les
-figures et tous les mouvements des petites parties de leur corps et
-de leur sang. et de celles d’un certain fruit dans un certain temps
-de leur maladie, pour connaître qu”il y a un rapport de
-convenance entre ce fruit et leur corps, et que s’ils en mangent ils
-seront guéris. Ainsi nos sens seuls sont plus utiles à la
-conservation de notre santé que les règles de la médecine
-expérimentale, et la médecine expérimentale que la médecine
-raisonnée. Mais la médecine raisonnée, qui défère beaucoup à
-l’expérience et encore plus aux sens, est la meilleure, parce qu’il
-faut joindre toutes ces choses ensemble.
-On se peut donc servir de sa raison en toutes choses, et c’est le
-privilège qu’elle a sur les sens et sur l’imagination, qui sont
-limités aux choses sensibles ; mais il faut s’en servir avec règle.
-Car quoique ce soit la principale partie de nous-mêmes, il arrive
-souvent qu’on se trompe en la laissant trop agir, parce qu’elle ne
-peut assez agir sans se lasser : je veux dire qu’elle ne peut assez
-connaître pour bien juger, et que cependant on veut juger.
+2. One part is both passive and active
+
+This is the will.
+
+I have attributed to the mind 3 faculties, because it receives its modifications and its ideas from the author of nature in three ways.
 
 
+1. Sense
+
+This receives from God ideas confused with sensations—that is to say, sensible ideas, on the occasion of certain movements that take place in the organs of its senses at the presence of objects.
+
+2. Imagination* and *memory*
+
+This receives from God ideas confused with images, which make a kind of weak and languishing sensations that the mind receives only because of some traces that are produced or awakened in the brain by the course of the spirits. 
+
+3. Pure mind or Pure understanding
+
+This is  when it receives from God the ideas pure of truth without mixture of sensations and images: not by the union it has with the body, but by that it has with the Word or the wisdom of God; not because it is in the material and sensible world, but because it subsists in the immaterial and intelligible world; not to know changeable things, proper to the preservation of the life of the body, but to penetrate immutable truths, which preserve in us the life of the mind.
+
+
+Book 1 and 2 showed that our senses and our imagination are very useful to us for knowing the relations that external bodies have with our own; that all the ideas that the mind receives through the body are all for the body; that it is impossible to discover any truth with evidence through the ideas of the senses and imagination; that these confused ideas serve only to attach us to our body and through our body to all sensible things, and that finally if we wish to avoid error, we must not attach ourselves to them. 
+
+I conclude likewise that it is morally impossible to know through the pure ideas of the mind the relations that bodies have with our own; that one must not reason according to these ideas to know whether an apple or a stone are good to eat; that one must taste them; and that although one can use one's mind to know confusedly the relations of foreign bodies with our own, it is always safer to use one's senses. I give another example; for one cannot too much imprint in the mind truths so essential and so necessary.
+
+I wish to examine, for example, what is most advantageous for me: to be just or to be rich. If I open the eyes of the body, justice appears to me a chimera; I see no attractions in it. I see just people miserable, abandoned, persecuted, without defense and without consolation, for He who consoles and sustains them does not appear to my eyes. In a word, I do not see of what use justice and virtue can be. But if I consider riches with open eyes, I first see their brilliance and am dazzled by it. Power, greatness, pleasures, and all sensible goods accompany riches, and I cannot doubt that one must be rich to be happy. Likewise, if I use my ears, I hear that all men esteem riches, that one speaks only of the means of acquiring them, that one ceaselessly praises and honors those who possess them. This sense and all the others therefore tell me that one must be rich to be happy. If I close my eyes and ears, and interrogate my imagination, it will represent to me without ceasing what my eyes have seen, what they have read, and what my ears have heard to the advantage of riches. But it will represent these things to me in a quite different manner from my senses, for the imagination always increases the ideas of things that have relation to the body and that one loves. If I therefore let it do, it will soon lead me into an enchanted palace like those of which poets and romance writers make such magnificent descriptions, and there I will see beauties it is useless for me to describe, which will convince me that the god of riches who inhabits it is the only one capable of making me happy. This is what my body is capable of persuading me of, for it speaks only for itself, and it is necessary for its good that the imagination prostrate itself before the greatness and brilliance of riches.
+
+But if I consider that the body is infinitely inferior to the mind, that it cannot be its master, that it cannot instruct it in truth nor produce light in it; and that in this view I retire into myself, and ask myself—or rather (since I am not my own, nor my master, nor my light) if I approach God, and that, in the silence of my senses and passions, I ask Him whether I should prefer riches to virtue or virtue to riches—I will hear a clear and distinct response of what I must do; an eternal response that has always been spoken, that is spoken, and that will always be spoken; a response that it is not necessary for me to explain, because everyone knows it, those who read this and those who do not read it; which is neither Greek, nor Latin, nor French, nor German, and which all nations conceive: a response finally that consoles the just in their poverty and that consoles sinners in the midst of their riches. I will hear this response and I will remain convinced of it. I will laugh at the visions of my imagination and the illusions of my senses. The inner man that is in me will mock the animal and earthly man I carry. Finally, the new man will grow and the old man will be destroyed, provided nevertheless that I always obey the voice of Him who speaks to me so clearly in the most secret of my reason, and who, having made Himself sensible to accommodate Himself to my weakness and corruption, and to give me life because He gave me death, still speaks to me in a very strong, very lively, and very familiar manner through my senses—I mean through the preaching of His Gospel. If I question Him on all metaphysical, natural, and purely philosophical questions, as well as on those concerning the regulation of morals, I will always have a faithful master who will never deceive me: not only will I be a Christian, but I will be a philosopher; I will think well and I will love good things; in a word, I will follow the path that leads to all the perfection of which I am capable, both by grace and by nature.
+
+One must therefore conclude from all I have said that in order to make the best possible use of the faculties of our soul, of our senses, of our imagination, and of our mind, we must apply them only to the things for which they are given to us. We must carefully distinguish our sensations and our imaginations from our pure ideas, and judge according to our sensations and imaginations of the relations that external bodies have with our own, without using them to discover truths that they always confuse; and we must use the pure ideas of the mind to discover truths without using them to judge of the relations that external bodies have with our own, because these ideas never have enough extent to represent them perfectly to us.
+
+It is impossible that men should know enough all the figures and all the movements of the small parts of their body and their blood, and of those of a certain fruit at a certain time of their illness, to know that there is a relation of suitability between this fruit and their body, and that if they eat it they will be cured. Thus our senses alone are more useful to the preservation of our health than the rules of experimental medicine, and experimental medicine than reasoned medicine. But reasoned medicine, which defers much to experience and still more to the senses, is the best, because all these things must be joined together.
+
+One can therefore use one's reason in all things, and this is the privilege it has over the senses and imagination, which are limited to sensible things; but one must use it with rule. For although it is the principal part of ourselves, it often happens that one is mistaken by letting it act too much, because it cannot act enough without becoming tired: I mean that it cannot know enough to judge well, and that nevertheless one wishes to judge.

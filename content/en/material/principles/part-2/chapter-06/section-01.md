@@ -1,9 +1,10 @@
 ---
 heading: "Section 1"
-title: "Conservation of Momentum: The 4 Rules of True Motion"
+title: "Conservation"
+# of Momentum: The 4 Rules of True Motion"
 # date: 2024-07-22
 weight: 5
-image: /graphics/physics/rule1.jpg
+image: /photos/med/run.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 icon: "Juan"
 writer:

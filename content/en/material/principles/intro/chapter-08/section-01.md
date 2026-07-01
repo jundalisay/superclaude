@@ -3,7 +3,8 @@ heading: "Section 1"
 title: "Cartesian Relationality"
 # date: 2022-01-03 ~~Relativity~~
 image: /graphics/physics/relationality.jpg
-description: "We replace Einstein's Relativity with Descartes' Relationality"
+description: "This is the resulting phenomena from relational actions"
+# "We replace Einstein's Relativity with Descartes' Relationality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -136,9 +137,6 @@ Space-time depends totally on perception. Rather than say that it is infinite, i
 
 <!-- However, this detection is partly sophistical because it imposes the properties of electromagentism onto the properties of spacetime. A person interpreting LIGO data will interpret gravitational waves to travel at the speed of light simply because light was used to measure it.</p>
  -->
-
-<!-- youtube e7rRQEq9C60  -->
-
 
 <!-- Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the 4 dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 
 

@@ -7,7 +7,7 @@ description: "The Conservation of the aether leads to the aether content."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 25
+weight: 5
 icon: "Juan"
 toc: false
 ---

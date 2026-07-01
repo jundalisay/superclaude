@@ -4,7 +4,7 @@ title: "Relationality: Bacon Tables"
 date: 2024-12-19
 weight: 14
 image: /photos/medieval/bacon.jpg
-description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
+description: "This is the data from phenomena"
 icon: "Juan"
 writer:
   name: Juan

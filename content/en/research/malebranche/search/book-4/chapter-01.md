@@ -10,8 +10,6 @@ date: 2026-06-20
 
 
 
-
-
 It would not be necessary to treat natural inclinations, as we are going to do in this fourth book, nor of the passions, as we will do in the next, in order to discover the causes of men's errors, if the understanding did not depend on the will in the perception of objects; but because it receives its direction from it, it is the will that determines it and applies it to some objects rather than to others; it is absolutely necessary to understand its inclinations well, in order to penetrate the causes of the errors to which we are subject.
 
 
@@ -46,8 +44,12 @@ We therefore have today the same natural inclinations, or the same impressions o
 
 But as all our inclinations are only impressions of the author of nature which incline us to love Him, and all things for Him, they can be regulated only when we love God with all our strength, and all things for God, by the free choice of our will; for we cannot without injustice abuse the love that God gives us for Himself by loving through this love something other than Him and without relation to Him. Thus, we presently know not only what our natural inclinations are, but also what they ought to be, in order that they may be well regulated and according to the institution of their author.
 
-We have therefore, first, an inclination for good in general, which is the principle of all our natural inclinations, of all our passions, and of all the free loves of our will.
+We have therefore:
 
-Secondly, we have an inclination for the preservation of our being or of our happiness.
+1. An inclination for good in general, which is the principle of all our natural inclinations, of all our passions, and of all the free loves of our will.
 
-Thirdly, we all have an inclination for other creatures, which are useful either to ourselves or to those we love. We have still many other particular inclinations that depend on these, but we will perhaps speak of them elsewhere. We only intend to relate in this fourth book the errors of our inclinations to these three heads: to the inclination we have for good in general, to the love of ourselves, and to the love of our neighbor.
+2. We have an inclination for the preservation of our being or of our happiness.
+
+3. We all have an inclination for other creatures, which are useful either to ourselves or to those we love. We have still many other particular inclinations that depend on these, but we will perhaps speak of them elsewhere. We only intend to relate in this fourth book the errors of our inclinations to these three heads: to the inclination we have for good in general, to the love of ourselves, and to the love of our neighbor.
+
+

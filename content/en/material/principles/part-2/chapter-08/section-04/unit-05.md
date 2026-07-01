@@ -13,13 +13,32 @@ icon: "Juan"
 
 
 
-The Casimir effect describes a tiny, measurable force of attraction between two perfectly smooth, parallel, and uncharged metal plates when they are placed extraordinarily close together—typically within a few hundred nanometers. 
+
+The Casimir Effect is when 2 uncharged flat metal plates in a vacuum get attracted to each other.
+
+Physics explains that this attractive force comes from quantum fluctuations in empty space that creates a pressure imbalance between the plates.
+
+However, some physicists argue that the force is caused instead by electromagnetic field interactions between the charged particles within the plates themselves.
+
+In Descartes' physics, the Casimir Effect is caused by the aether that pushes the plates together since the aether causes nearly all spatial phenomena—from gravity and surface tension, to the Dzhanibekov effect, galaxy cohesion, and even centrifugal and centripetal forces.
+
+The problem began when the scammer Einstein discarded the aether. This forced physicists to invent multiple disconnected names—gravity, dark matter, the van der Waals force, vacuum energy, and quantum fluctuations—for the same underlying aether mechanism.
+
+Descartes' system unified and simplified physics, making it more intuitive and accessible. 
+
+This was used by 19th century physicists like Maxwell to develop solid theories that we still use today, unlike those of Einstein which will necessarily be discarded sooner or later, as proven by no human being able to unify his scam Relativity with Quantum Mechanics. 
+
+Descartes' system will allow engineers and inventors to develop advanced technologies more rapidly, because the underlying cause of all forces would be singular and tangible, rather than being abstract, mathematical fields.
+
+
+<!-- The Casimir effect describes a tiny, measurable force of attraction between two perfectly smooth, parallel, and uncharged metal plates when they are placed extraordinarily close together—typically within a few hundred nanometers. 
 
 
 In standard physics, the Casimir force is a manifestation of the quantum vacuum.
 
 
-But in Material Superphysics, it is from the force of space particles, as micro cohesion gravity, the same that causes van der Waals force and surface tension. 
+But in Material Superphysics, it is from the force of space particles, as micro cohesion gravity, the same that causes van der Waals force and surface tension.  -->
+
 
 
 <!-- This model posits two sources of force from these particles:

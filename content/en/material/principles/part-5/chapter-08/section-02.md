@@ -1,6 +1,6 @@
 ---
-heading: "Section 4b"
-title: "The Zeeman Effect and the Fine Structure Constant"
+heading: "Section 2"
+title: "The Zeeman Effect: Aetherspace-Virtual Photons"
 # date: 2023-10-30
 image: /graphics/physics/zeeman.jpg
 description: ""
@@ -10,9 +10,6 @@ writer:
 weight: 60
 icon: "Juan"
 toc: false
-draft: true
-# aliases:
-#   /material/principles/part-1/chapter-06b
 ---
 
 
@@ -20,35 +17,29 @@ draft: true
 The Zeeman effect was discovered by Pieter Zeeman in 1896. It happens when an atom emits light in the presence of an external magnetic field.
 - This makes its single spectral line split into several closely spaced lines—typically 2 lines as a doublet, or 3 lines as a triplet.
 
- <!-- and explained (in modern terms) by the interaction between the magnetic field and the magnetic moments of orbiting and spinning electrons, this splitting has long been considered a triumph of quantum mechanics and special relativity. -->
-
 Physics explains the mechanism for the splitting as the "fine" structure of atom. 
 - This gives the atom separate shells where the electrons can jump and so produce the doublet or triplet. 
 
-This fine structure led to the fine structure constant which is the fundamental dimensionless constant that quantifies the strength of the electromagnetic interaction between elementary charged particles.
+This fine structure led to the fine structure constant which is the fundamental dimensionless constant that we interpret as the ratio between aetherspace (som1) and virtual photons (mor3).
 
 
-## Descartes' System
+## Proves the Division of Space
+
+In Descartes' Physics, the presence of 2 spinning vortices or bodies makes one go around the other. This creates a territory that has 3 parts which we expand to 7 to match:
+- the energy shells in atoms or the aetherspace
+- the parts of a solar system
+
+
+The Zeeman effect proves the division of the aetherspace into 6 internal parts (the 7th is the edge). 
+- The doublet exposes the 6 parts being grouped into 2.
+- The triplet exposes the 6 parts being grouped into 3.
 
 
 
+![Zeeman](/graphics/physics/zeeman.jpg)
 
- being caused by the relativity between the electron and the nucleus. 
 
-
-Yet a radically different interpretation emerges when we return to the physics of René Descartes—the 17th-century mechanical philosopher whose vortex-filled universe was almost universally abandoned after the Newtonian revolution. In Cartesian physics, the material world is not fundamentally composed of tiny particles moving through empty space. Instead, everything is extension: a continuous plenum of subtle matter (the aether) that fills all space. What we perceive as distinct “things” are simply regions of this aether differentiated from their surroundings by particular modes of motion and pressure.
-
-### Extension, Identity, and Spectral Splitting
-
-Descartes’ Physics would explain the Zeeman effect  framework, the primary function of extension—the aether—is to **separate identities**. Two things can only be distinct if there is something (aether) that keeps them from being the same continuous substance. Whenever identities are forced to remain distinct while being subjected to an additional organizing principle, the aether must create additional boundaries, additional separations.
-
-The Zeeman effect, viewed through this lens, becomes a direct manifestation of that principle.
-
-When a strong external magnetic field is applied to an emitting atom, it imposes a new, powerful organizing influence on the motion of the subtle matter surrounding the electron. To maintain the electron’s identity as a distinct rotating vortex-ring (Descartes’ model of an electron-like structure), the aether must create additional separations—additional “cuts” or interfaces between regions of different circulatory velocity.
-
-These additional separations manifest macroscopically as the splitting of spectral lines.
-
-### Virtual Photons as Aetheric Vortices
+<!-- ### Virtual Photons as Aetheric Vortices
 
 Modern quantum electrodynamics explains the Zeeman splitting (and the even finer hyperfine structure) through the exchange of virtual photons. In the Cartesian reinterpretation, these “virtual photons” are not mysterious probability amplitudes but real, extremely fine circulatory motions—micro-vortices—of the aether itself.
 
@@ -94,9 +85,9 @@ Electrons orbit the nucleus of an atom through electron shells. Unlike planetary
 - planetary orbits are within space-time
 - electron shells are within the aetherspace
 
-<!-- Fine structure 
+Fine structure 
 Lamb shift 
-Spin flip  -->
+Spin flip 
 
 When a hydrogen atom is put under a magnetic field the electrons get change position and can emit light. This causes rings of light 
 
@@ -135,7 +126,7 @@ This creates 2 spectral lines while the electron jumps up and down as a response
 
 
 So Cartesian Relativity in the aetherspace between the electron and the nucleon is the cause of the Zeeman effect, not Special Relativity in spacetime.
-
+ -->
 
 
 <!-- Instead of the Relativity of speeds and reference frames, Bohr's mechanism is state-change and angular momentum by the aether. 
@@ -175,4 +166,3 @@ These can then be floated back to earth to create better iPhones, Teslas, comput
 It can float plasma and reduce energy requirements in order to realize fusion just like in stars which "float" in outerspace. 
 
 After things are floated via the aether, then humans can safely delete Einstein and Relativity from Physics as a long-running 100+ year scam that began in 1905 and has made science and technology impotent for so long. -->
-

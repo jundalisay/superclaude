@@ -1,6 +1,6 @@
 ---
 heading: Chapter 10
-title: "The Rules"
+title: "Examples of Errors"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,332 +10,50 @@ date: 2026-06-20
 
 
 
-Exemples de quelques erreurs de physique dans lesquelles on tombe, parce qu’on
-suppose que des êtres qui différent dans leur nature, leurs qualités, leur étendue,
-leur durée et leur proportion, sont semblables en toutes ces choses.
-Nous avons vu dans le chapitre précédent que les hommes font
-un jugement précipité quand ils jugent que tous les êtres ne sont
-que de deux sortes, esprits ou corps. Nous montrerons dans ceux
-qui suivent qu’ils ne font pas seulement des jugements précipités,
-mais qu’ils en font de très-faux et qui sont les principes d’un
-nombre infini d’erreurs, lorsqu’ils jugent que les êtres ne sont
-pas différents dans leurs rapports ni dans leurs manières, à cause
-qu’ils n’ont point l’idée de ces différences.
-ll est constant que l’esprit de l’homme ne cherche que les
-rapports des choses, premièrement ceux que les objets qu’il
-considère peuvent avoir avec lui, et ensuite ceux qu’ils ont les
-uns avec les autres ; car l’esprit de l’homme ne cherche que son bien et la vérité. Pour trouver son bien, il considère avec soin
-par la raison et par le goût ou le sentiment si les objets ont un
-rapport de convenance avec lui. Pour trouver la vérité, il
-considère si les objets ont rapport d’ógalite ou de ressemblance
-les uns avec les autres, ou quelle est précisément la grandeur qui
-est égale à leur inégalité. Car de même que le bien n’est le bien
-de l’esprit que parce qu’il lui est convenable, ainsi la vérité n’est
-vérité que par le rapport d’égalité ou de ressemblance qui se
-trouve entre deux ou plusieurs choses : soit entre deux ou
-plusieurs objets, comme entre une aune et de la toile, car il est
-vrai que cette toile a une aune, parce qu’il y a égalité entre l’aune
-et la toile ; soit entre deux ou plusieurs idées, comme entre les
-deux idées de trois et trois et celle de six ; car il est vrai que
-trois et trois font six, à cause qu’il y a égalité entre les deux idées
-de trois et trois et celle de six ; soit enfin entre les idées et les
-choses, quand les idées représentent ce que les choses sont ; car
-lorsque je dis qu’il y a un soleil, ma proposition est vraie, parce
-que les idées que j’ai d’existence et de soleil représentent que le
-soleil existe et que le soleil existe véritablement. Toute l’action
-et toute l’attention de l’esprit aux objets n’est donc que pour
-lâcher d’en découvrir les rapports, puisqu'on ne s’applique aux
-choses que pour en reconnaître la vérité ou la bonté.
+## Examples of some errors in physics into which one falls, because one supposes that beings which differ in their nature, their qualities, their extension, their duration, and their proportion, are similar in all these things.
 
-Mais, comme nous avons déjà dit dans le chapitre précédent,
-l’attention fatigue beaucoup l’esprit. Il se lasse bientôt de résister
-à l'impression des sens qui le détourne de son objet et qui
-l’emporte vers d’autres que l’amour qu’il a pour son corps lui
-rend agréables. Il est extrêmement borné, et ainsi les différences
-qui sont entre les sujets qu’il examine étant infinies ou presque
-infinies, il n’est pas capable de les distinguer. L’esprit suppose
-donc des ressemblances imaginaires où il ne remarque pas de différences positives et réelles ; les idées de ressemblance lui
-étant plus présentes, plus familières et plus simples que les
-autres. Car il est visible que la ressemblance ne renferme qu’un
-rapport, et qu’il ne faut qu’une seule idée pour juger que mille
-choses sont semblables ; au lieu que pour juger sans crainte de se
-tromper que mille objets sont différents entre eux, il est
-absolument nécessaire d’avoir présentes à l’esprit mille idées
-différentes.
+We have seen in the preceding chapter that men make a precipitate judgment when they judge that all beings are only of two kinds, minds or bodies. We shall show in those that follow that they not only make precipitate judgments, but that they make very false ones which are the principles of an infinite number of errors, when they judge that beings do not differ in their relations nor in their manners, because they have no idea of these differences.
 
-Les hommes s’imaginent donc que les choses de différente
-nature sont de même nature, et que les choses de même espèce ne
-diffèrent presque point les unes des autres. Ils jugent que les
-choses inégales sont égales, que celles qui sont inconstantes sont
-constantes, et que celles qui sont sans ordre et sans proportion
-sont très-ordonnées et très-proportionnées. En un mot, ils croient
-souvent que des choses différentes en nature, en qualité, en
-étendue, en durée et en proportion, sont semblables en toutes ces
-choses. Mais cela mérite d’être expliqué plus au long par
-quelques exemples, parce que c’est la cause d’un nombre infini
-d’erreurs.
+It is certain that the human mind seeks only the relations of things: first, those that the objects it considers may have with itself, and next, those they have with one another; for the human mind seeks only its own good and truth. To find its good, it carefully considers by reason and by taste or feeling whether objects have a relation of suitability with it. To find truth, it considers whether objects have a relation of equality or resemblance with one another, or what precisely is the magnitude that is equal to their inequality. For just as good is good for the mind only because it is suitable to it, so truth is truth only through the relation of equality or resemblance that is found between two or more things: whether between two or more objects, as between a yardstick and cloth, for it is true that this cloth has a yard, because there is equality between the yardstick and the cloth; or between two or more ideas, as between the two ideas of three and three and that of six; for it is true that three and three make six, because there is equality between the two ideas of three and three and that of six; or finally between ideas and things, when ideas represent what things are; for when I say that there is a sun, my proposition is true, because the ideas I have of existence and of sun represent that the sun exists and that the sun truly exists. All the action and all the attention of the mind to objects is therefore only to try to discover their relations, since one applies oneself to things only to recognize their truth or their goodness.
 
-L’esprit et le corps, la substance qui pense et celle qui est
-étendue, sont deux genres d’êtres tout à fait différents et
-entièrement opposés : ce qui convient à l’un ne peut convenir à
-l’autre. Cependant la plupart des hommes faisant peu d’attention
-aux propriétés de la pensée et étant continuellement touchés par
-les corps, ont regardé l’âme et le corps comme une seule et même
-chose : ils ont imaginé de la ressemblance entre deux choses si
-différentes. Ils ont voulu que l’âme fût matérielle, c’est-à-dire
-étendue dans tout le corps et figurée comme le corps. Ils ont
-attribué à l’esprit ce qui ne peut convenir qu’au corps.
+But, as we have already said in the preceding chapter, attention greatly fatigues the mind. It soon tires of resisting the impression of the senses, which turns it away from its object and carries it toward others that the love it has for its body makes agreeable to it. It is extremely limited, and thus the differences that exist between the subjects it examines being infinite or nearly infinite, it is not capable of distinguishing them. The mind therefore supposes imaginary resemblances where it does not observe positive and real differences; the ideas of resemblance being more present, more familiar, and simpler to it than others. For it is visible that resemblance contains only one relation, and that only one idea is needed to judge that a thousand things are alike; whereas to judge without fear of error that a thousand objects are different from one another, it is absolutely necessary to have a thousand different ideas present to the mind.
 
-De plus, les hommes sentant du plaisir, de la douleur, des
-odeurs, des saveurs, etc., et leur corps leur étant plus présent que
-leur âme même ; c’est-à-dire s’imaginant facilement leur corps,
-et ne pouvant imaginer leur âme, ils lui ont attribué les qualités
-de sentir, d’imaginer, et quelquefois même celle de concevoir,
-qui ne peuvent appartenir qu’à l’âme. Mais les exemples suivants
-seront plus sensibles.
+Men therefore imagine that things of different nature are of the same nature, and that things of the same species hardly differ from one another at all. They judge that unequal things are equal, that inconstant things are constant, and that things without order and without proportion are very orderly and very proportionate. In a word, they often believe that things different in nature, quality, extension, duration, and proportion are similar in all these things. But this deserves to be explained at greater length by some examples, because it is the cause of an infinite number of errors.
 
-Il est certain que tous les corps naturels, ceux-là même que
-l’on appelle de même espèce, diffèrent les uns des autres ; que de
-l’or nest pas tout à fait semblable à de l’or, et qu’une goutte d’eau
-est différent d’une autre goutte d’eau. Il en est de tous les corps
-de même espèce comme des visages. Tous les visages ont deux
-yeux, un nez, une bouche, etc. ; ce sont tous des visages et des
-visages d’hommes, et cependant on peut dire qu’il n’y en eut
-jamais deux tout à fait semblables. De même un morceau d’or a
-des parties fort semblables à un autre morceau d’or, et une goutte
-d’eau a assurément beaucoup de ressemblance avec une autre
-goutte d’eau ; néanmoins on peut assurer que l’on n’en peut pas
-donner deux gouttes, fussent-elles prises de la même rivière, qui
-se ressemblent entièrement. Toutefois les philosophes supposent
-sans réflexion des ressemblances essentielles entre les corps de
-même espèce, ou des ressemblances qui consistent dans
-l’indivisible ; car les essences des choses consistent dans un
-indivisible selon leur fausse opinion.
+Mind and body, the substance that thinks and that which is extended, are two kinds of beings altogether different and entirely opposed: what is fitting for the one cannot be fitting for the other. However, most men, paying little attention to the properties of thought and being continually affected by bodies, have regarded soul and body as one and the same thing: they have imagined resemblance between two such different things. They have wanted the soul to be material, that is to say, extended throughout the body and figured like the body. They have attributed to the mind what can belong only to the body.
 
-La raison pour laquelle ils tombent dans une erreur si
-grossière, c’est qu’ils ne veulent pas considérer avec quelque
-soin les choses, sur lesquelles cependant ils composent de gros
-volumes. Car de même qu’on ne met pas une parfaite
-ressemblance entre les visages, parce que l’on a soin de les regarder de près, et que l’habitude qu’on a prise de les distinguer
-fait que l’on en remarque les plus petites différences ; ainsi, si
-les philosophes considéraient la nature avec quelque attention, ils
-reconnaîtraient assez de causes de diversités dans les choses
-mêmes qui nous causent les mêmes sensations et que nous
-appelons pour cela de même espèce, et ils n’y supposeraient pas
-si facilement des ressemblances essentielles. Des aveugles
-auraient tort s’ils supposaient une ressemblance essentielle entre
-les visages qui consistât dans l’indivisible, à cause qu’ils n’en
-aperçoivent pas sensiblement les différences. Les philosophes ne
-doivent donc pas supposer de telles ressemblances dans les
-corps de même espèce, à cause qu’ils n’y remarquent point de
-différences.
+Moreover, men feeling pleasure, pain, odors, tastes, etc., and their body being more present to them than even their own soul—that is, imagining their body easily, and being unable to imagine their soul—they have attributed to it the qualities of sensing, imagining, and sometimes even that of conceiving, which can belong only to the soul. But the following examples will be more striking.
 
+It is certain that all natural bodies, even those called of the same species, differ from one another; that gold is not entirely similar to gold, and that one drop of water differs from another drop of water. It is the same with all bodies of the same species as with faces. All faces have two eyes, a nose, a mouth, etc.; they are all faces and human faces, and yet one can say that there were never two exactly alike. Similarly, a piece of gold has parts very similar to another piece of gold, and a drop of water certainly has much resemblance to another drop of water; nevertheless one can assert that one cannot give two drops, even taken from the same river, that entirely resemble each other. Yet philosophers suppose without reflection essential resemblances between bodies of the same species, or resemblances that consist in the indivisible; for the essences of things consist in an indivisible, according to their false opinion.
 
-L’inclination que nous avons à supposer de la ressemblance
-dans les choses nous porte encore à croire qu’il y a un nombre
-déterminé de différences et de formes, et que ces formes ne sont
-point capables de plus et de moins. Nous pensons que tous les
-corps différent les uns les autres comme par degrés, que ces
-degrés même gardent de certaines proportions entre eux. En un
-mot, nous jugeons des choses matérielles comme des nombres.
-Il est clair que cela vient de ce que l’esprit se perd dans les
-rapports des choses incommensurables, comme sont les
-différences infinies qui se trouvent dans les corps naturels ; et
-qu’il se soulage quand il imagine quelque ressemblance ou
-quelque proportion entre elles, parce qu’alors il se représente
-plusieurs choses avec une très-grande facilité. Car comme j’ai
-déjà dit, il ne faut qu’une idée pour juger que plusieurs choses se
-ressemblent, et il en faut plusieurs pour juger qu’elles diffèrent
-entre elles. Par exemple, si l’on sait le nombre des anges, et que pour chaque ange il y ait dix archanges, et que pour chaque
-archange il y ait dix trônes, et ainsi de suite en gardant la même
-proportion d’un à dix jusqu’au dernier ordre des intelligences,
-l’esprit peut savoir quand il voudra le nombre de tous ces esprits
-bienheureux et même en juger à peu près tout d’une vue en y
-faisant une forte attention, ce qui lui plait infiniment. Et c’est ce
-qui peut avoir porté quelques personnes à juger ainsi du nombre
-des esprits célestes, comme il est arrivé à quelques philosophes,
-qui ont mis une proportion décuple de pesanteur et de légèreté
-entre les éléments, supposant le feu dix fois plus léger que l’air,
-et ainsi des autres.
+The reason why they fall into so gross an error is that they do not wish to consider with any care the things upon which they nevertheless compose large volumes. For just as one does not posit a perfect resemblance between faces, because one takes care to look at them closely, and the habit one has acquired of distinguishing them makes one notice their smallest differences; so, if philosophers considered nature with some attention, they would recognize enough causes of diversity in the very things that cause us the same sensations and that we therefore call of the same species, and they would not so easily suppose essential resemblances in them. Blind men would be wrong to suppose an essential resemblance between faces consisting in the indivisible, because they do not sensibly perceive their differences. Philosophers therefore should not suppose such resemblances in bodies of the same species, because they observe no differences in them.
 
-Quand l’esprit se trouve obligé d’admettre des différences
-entre les corps par les différentes sensations qu’il en a, et encore
-par quelques autres raisons particulières, il n’en met toujours que
-le moins qu’il peut. C’est par cette raison qu’il se persuade
-facilement que les essences des choses consistent dans
-l’indivisible, et qu’elles sont semblables aux nombres, comme
-nous venons de dire, parce qu’alors il ne lui faut qu’une idée
-pour se représenter tous les corps qu’ils appellent de même
-espèce. Si on met, par exemple, un verre d’eau dans un muid de
-vin, les philosophes veulent que l’essence du vin demeure
-toujours la même, et que l’eau soit convertie en vin ; que de
-même qu’entre trois et quatre il ne peut y avoir de nombre,
-puisque la véritable unité est indivisible, qu’ainsi il est
-nécessaire que l’eau soit convertie en la nature et en l’essence du
-vin, ou que le vin perde sa nature ; que de même que tous les
-nombres de quatre sont tout à fait semblables, qu’ainsi l’essence
-de l’eau est tout à fait semblable dans toutes les eaux ; que
-comme le nombre de trois diffère essentiellement du nombre de
-deux, et qu’il ne peut avoir les mêmes propriétés que lui, qu’ainsi deux corps de différente espèce diffèrent essentiellement, et
-d’une telle manière qu’ils n’ont jamais les mêmes propriétés qui
-viennent de l’essence, et d’autres semblables. Cependant si les
-hommes considéraient les véritables idées des choses avec
-quelque attention, ils découvriraient bientôt que tous les corps
-étant étendus, leur nature ou leur essence n’a rien de semblable
-aux nombres, et qu’elle ne peut consister dans l’indivisible.
-Les hommes ne supposent pas seulement l’identité de la
-ressemblance ou de la proportion dans la nature, dans le nombre
-et dans les différences essentielles des substances ; ils en
-supposent dans tout ce qu’ils aperçoivent. Presque tous les
-hommes jugent que toutes les étoiles fixes sont attachées au ciel
-comme à une voûte dans une égale distance de la terre. Les
-astronomes ont prétendu pendant long-temps que les planètes
-tournaient par des cercles parfaits, et ils en ont inventé un trèsgrand nombre, comme les concentriques, les excentriques, les
-épicycles, les déférents et les équants, pour expliquer les
-phénomènes qui contredisent leur préjugé.
+The inclination we have to suppose resemblance in things also leads us to believe that there is a determinate number of differences and forms, and that these forms are not capable of more or less. We think that all bodies differ from one another as by degrees, and that these degrees even maintain certain proportions among themselves. In a word, we judge of material things as of numbers. It is clear that this comes from the fact that the mind loses itself in the relations of incommensurable things, such as the infinite differences found in natural bodies; and that it relieves itself when it imagines some resemblance or proportion among them, because then it represents several things to itself with great ease. For as I have already said, only one idea is needed to judge that several things resemble each other, and several are needed to judge that they differ from one another. For example, if one knows the number of angels, and that for each angel there are ten archangels, and that for each archangel there are ten thrones, and so on, maintaining the same proportion of one to ten up to the last order of intelligences, the mind can know whenever it wishes the number of all these blessed spirits and even judge of it almost at a single glance by paying strong attention to it, which pleases it infinitely. And this is what may have led some persons to judge thus of the number of celestial spirits, as happened to some philosophers who placed a tenfold proportion of weight and lightness between the elements, supposing fire ten times lighter than air, and so on for the others.
 
-Il est vrai que dans ces derniers siècles les plus habiles ont
-corrigé l’erreur des anciens, et qu’ils croient que les planètes
-décrivent certaines ellipses par leur mouvement. Mais s’ils
-prétendent que ces ellipses soient régulières, comme on est porté
-à le croire, à cause que l’esprit suppose la régularité où il ne voit
-pas d’irrégularité, ils tombent dans une erreur d’autant plus
-difficile à corriger que les observations que l’on peut faire sur le
-cours des planètes ne peuvent pas être assez exactes ni assez
-justes pour montrer l’irrégularité de leurs mouvements. Il n’y a
-que la physique qui puisse corriger cette erreur, car elle est bien
-moins sensible que celle qui se rencontre dans le système des
-448
-cercles parfaits.
+When the mind finds itself obliged to admit differences between bodies because of the different sensations it has of them, and also because of some other particular reasons, it always posits as few as possible. It is for this reason that it easily persuades itself that the essences of things consist in the indivisible, and that they are similar to numbers, as we have just said, because then it needs only one idea to represent to itself all the bodies they call of the same species. If, for example, one puts a glass of water into a cask of wine, philosophers want the essence of the wine to remain always the same, and the water to be converted into wine; that just as between three and four there can be no number, since the true unity is indivisible, so it is necessary that the water be converted into the nature and essence of the wine, or that the wine lose its nature; that just as all the numbers of four are entirely similar, so the essence of water is entirely similar in all waters; that as the number three differs essentially from the number two, and cannot have the same properties as it, so two bodies of different species differ essentially, and in such a way that they never have the same properties that come from essence, and other such notions. However, if men considered the true ideas of things with some attention, they would soon discover that all bodies being extended, their nature or essence has nothing similar to numbers, and that it cannot consist in the indivisible.
 
-Mais il est arrivé une chose assez particulière touchant la
-distance et le mouvement des planètes ; car les astronomes n’y
-ayant pu trouver de proportion arithmétique ou géométrique, cela
-répugnant manifestement aux observations, quelques-uns se sont
-imaginé qu’elles gardaient une sorte de proportion qu’on appelle
-harmonique dans leurs distances et dans leurs mouvements. De là
-vient qu’un astronome de ce siècle, dans son
-[34]Almageste
+Men do not only suppose identity of resemblance or of proportion in nature, in number, and in the essential differences of substances; they suppose it in everything they perceive. Almost all men judge that all the fixed stars are attached to the sky as to a vault at an equal distance from the earth. Astronomers for a long time claimed that the planets moved in perfect circles, and they invented a very great number of them—such as concentrics, eccentrics, epicycles, deferents, and equants—to explain the phenomena that contradicted their prejudice.
 
-nouveau, commence la section qui a pour titre De systemate
-mundi harmonico, par ces paroles : Il n’y a point d’astronome,
-pour peu versé qu’il soit dans ce qui regarde l’astronomie, qui
-ne reconnaisse une espèce d’harmoníe dans le mouvement et
-les intervalles des planètes, s’il consídère attentivement l’ordre
-qui se trouve dans les cieux. Ce n’est pas que cet auteur soit de
-ce sentiment ; car les observations qu’on a faites lui ont assez fait
-connaître l’extravagance de cette harmonie imaginaire, qui a été
-cependant l’admiration de plusieurs auteurs anciens et nouveaux
-dont le père Riccioli rapporte et réfute les sentiments. On attribue
-même à Pythagore et à ses sectateurs d’avoir cru que les cieux
-faisaient par leurs mouvements réglés un merveilleux concert que
-les hommes n’entendent point parce qu’ils y sont accoutumés, de
-même, disait-il, que ceux qui habitent auprès des chutes des eaux
-du Nil n’en entendent pas le bruit. Mais je n’apporte cette
-opinion particulière de la proportion harmonique des distances et
-des mouvements des planètes que pour faire voir que l’esprit se
-plaît dans les proportions, et que souvent il les imagine où elles
-ne sont pas.
+It is true that in recent centuries the most able have corrected the error of the ancients, and they believe that the planets describe certain ellipses by their movement. But if they claim that these ellipses are regular, as one is inclined to believe, because the mind supposes regularity where it sees no irregularity, they fall into an error all the more difficult to correct in that the observations that can be made on the course of the planets cannot be exact or precise enough to show the irregularity of their movements. Only physics can correct this error, for it is much less noticeable than that found in the system of perfect circles.
 
-L’esprit suppose aussi l’uniformité dans la durée des choses, et
-il s’imagine qu’elles ne sont point sujettes au changement et à
-449
-l’instabilité, quand il n’est point comme forcé par les rapports
-des sens d’en juger autrement.
-Toutes les choses matérielles étant étendues sont capables de
-division et par conséquent de corruption. Quand on fait un peu de
-réflexion sur la nature des corps, on reconnaît visiblement qu’ils
-sont corruptibles. Cependant il y a eu un très grand nombre de
-philosophes qui se sont persuadés que les cieux, quoique
-matériels, étaient incorruptibles.
-Les cieux sont trop éloignés de nous pour y pouvoir découvrir
-les changements qui y arrivent, et il est rare qu’il s’y en fasse
-d’assez grands pour être vus d’ici-bas. Cela a suffi à une infinité
-de personnes pour croire qu’ils étaient en effet incorruptibles. Ce
-qui les a encore confirmés dans leur opinion, c’est qu’ils
-attribuent à la contrariété des qualités la corruption qui arrive
-aux corps sublunaires. Car, comme ils n’ont jamais été dans les
-cieux pour voir ce qui s’y passe, ils n’ont point eu d’expérience
-que cette contrariété de qualités s’y rencontrât ; ce qui les a
-portés à croire qu’effectivement elle ne s’y rencontre point. Ainsi
-ils ont conclu que les cieux étaient exempts de corruption, par
-cette raison que ce qui corrompt, selon leur sentiment, tous les
-corps d’ici-bas ne se trouve point là-haut.
+But a rather peculiar thing has happened concerning the distance and movement of the planets; for astronomers, not having been able to find any arithmetical or geometrical proportion in them, this manifestly contradicting observations, some have imagined that they maintain a kind of proportion called harmonic in their distances and in their movements. Hence an astronomer of this century, in his new *Almagest*, begins the section entitled *De systemate mundi harmonico* with these words: "There is no astronomer, however little versed in what pertains to astronomy, who does not recognize a kind of harmony in the movement and intervals of the planets, if he attentively considers the order found in the heavens." It is not that this author is of this opinion; for the observations that have been made have sufficiently shown him the extravagance of this imaginary harmony, which has nevertheless been the admiration of several ancient and modern authors, whose opinions Father Riccioli reports and refutes. Pythagoras and his followers are even said to have believed that the heavens, by their regulated movements, produced a marvelous concert that men do not hear because they are accustomed to it, just as, he said, those who live near the falls of the Nile do not hear its noise. But I bring up this particular opinion of the harmonic proportion of the distances and movements of the planets only to show that the mind delights in proportions, and that it often imagines them where they are not.
 
-Il est visible que ce raisonnement n’a aucune solidité, car on
-ne voit point pourquoi il ne se peut pas trouver quelque autre
-cause de corruption que cette contrariété de qualités qu’ils
-imaginent, ni sur quel fondement ils peuvent assurer qu’il n’y a ni
-chaleur, ni froideur, ni sécheresse, ni humidité dans les cieux, que
-le soleil n’est pas chaud et que Saturne n’est pas froid.
-Il y a quelque apparence de raison de dire que des pierres fort
-dures, du verre et d’autres corps de cette nature ne se corrompent 
-pas, puisqu’on voit qu’ils subsistent long-temps en même état et
-que l’on en est assez proche pour voir les changements qui leur
-arriveraient. Mais étant aussi éloignés des cieux que nous en
-sommes, il est tout à fait contre la raison de conclure qu’ils ne se
-corrompent pas, à cause que l’on n’y sent pas de qualités
-contraires et qu’on ne voit pas qu’ils se corrompent. Cependant
-on ne dit pas seulement qu’ils ne se corrompent pas, on dit
-absolument qu’ils sont inaltérables et incorruptibles, et peu s’en
-faut que quelques péripatéticiens ne disent que les corps célestes
-sont autant de divinités, comme Aristote leur maître l’a cru.
-La beauté de l’univers ne consiste pas dans l’incorruptibilité
-de ses parties, mais dans la variété qui s’y trouve ; et ce grand
-ouvrage du monde ne serait pas si admirable sans cette
-vicissitude de choses que l’on y remarque. Une matière
-infiniment étendue, sans mouvement, et par conséquent sans
-forme et sans corruption, ferait bien connaître la puissance infinie
-de son auteur, mais elle ne donnerait aucune idée de sa sagesse.
-C’est pour cela que toutes les choses corporelles sont
-corruptibles, et qu’il n’y a point de corps auquel il n’arrive
-quelque changement qui l’altère et le corrompe avec le temps.
-Les pierres et le verre même servent de nourriture à quelques
-insectes
-[35]
-. Ces corps, quoique fort durs et fort secs, ne laissent
-pas de se corrompre avec le temps. L’air et le soleil, auxquels ils
-sont exposés, changent quelques-unes de leurs parties, et il se
-trouve des vers qui s’en nourrissent, comme l’expérience le fait
-voir.
+The mind also supposes uniformity in the duration of things, and imagines that they are not subject to change and instability when it is not as if forced by the reports of the senses to judge otherwise.
 
-Il n’y a point d’autre différence entre ces corps fort durs et fort
-secs et les autres, si ce n’est qu’ils sont composés de parties fort
-grosses et fort solides, et par conséquent moins capables d’être
-451
-agitées, et séparées les unes des autres par le mouvement de
-celles qui viennent heurter contre elles, ce qui fait qu’on les
-regarde comme incorruptibles. Néanmoins. ils ne sont point tels
-de leur nature, comme le temps, l’expérience et la raison le font
-assez connaître.
+All material things, being extended, are capable of division and consequently of corruption. When one reflects a little on the nature of bodies, one visibly recognizes that they are corruptible. Nevertheless, there have been a very great number of philosophers who persuaded themselves that the heavens, although material, were incorruptible.
 
-Mais pour les cieux, ils sont composés de la matière la plus
-fluide et la plus subtile, et principalement le soleil ; et tant s’en
-faut qu’il soit sans chaleur et incorruptible, comme disent les
-sectateurs d’Aristote, qu’au contraire c’est de tous les corps et le
-plus chaud et le plus sujet au changement. C’est même lui qui
-échauffe, qui agite et qui change toutes choses ; car c’est lui qui
-produit par son action, qui n’est autre chose que sa chaleur ou le
-mouvement de ses parties, tout ce que nous voyons de nouveau
-dans les changements des saisons. La raison démontre ces
-choses : mais si on peut résister à la raison, on ne peut résister à
-l’expérience ; car, puisqu’on a découvert dans le soleil, par le
-moyen des télescopes ou grandes lunettes, des taches aussi
-grandes que toute la terre qui s’y sont formées et qui se sont
-dissipées en peu de temps, on ne peut pas davantage nier qu’il ne
-soit beaucoup plus sujet au changement que la terre que nous
-habitons.
+The heavens are too far from us for us to be able to discover the changes that occur there, and it is rare that changes happen there great enough to be seen from down here. This has sufficed for an infinite number of persons to believe that they were in fact incorruptible. What further confirmed them in their opinion is that they attribute to the contrariety of qualities the corruption that occurs in sublunary bodies. For since they have never been in the heavens to see what goes on there, they have had no experience that this contrariety of qualities is found there; which led them to believe that indeed it is not found there. Thus they concluded that the heavens were exempt from corruption, for this reason that what corrupts, according to their view, all bodies here below is not found up there.
 
-Tous les corps sont donc dans un mouvement et dans un
-changement continuel, et principalement ceux qui sont les plus
-fluides, comme le feu, l’air et l’eau ; puis les parties des corps
-vivants, comme la chair et même les os, et enfin les plus durs : et
-l’esprit ne doit pas supposer une espèce d’immutabilité dans les
-choses, par cette raison qu’il n’y voit point de corruption ni de
-changement. Car ce n’est pas une preuve qu’une chose soit
-toujours semblable à elle-même à cause qu’on n’y reconnaît point
-452
-de différence, ni que des choses ne soient pas à cause que l’on
-n’en a point d’idée ou de connaissance.
+It is visible that this reasoning has no solidity at all, for one does not see why there could not be some other cause of corruption than this contrariety of qualities they imagine, nor upon what foundation they can assert that there is neither heat, nor cold, nor dryness, nor humidity in the heavens, that the sun is not hot and that Saturn is not cold.
+
+There is some appearance of reason in saying that very hard stones, glass, and other bodies of this nature do not corrupt, since one sees them subsist for a long time in the same state and one is close enough to them to see the changes that might happen to them. But being as far from the heavens as we are, it is altogether contrary to reason to conclude that they do not corrupt, because one does not feel contrary qualities there and one does not see them corrupt. However, it is not only said that they do not corrupt; it is said absolutely that they are unalterable and incorruptible, and some Peripatetics almost say that celestial bodies are so many divinities, as Aristotle their master believed.
+
+The beauty of the universe does not consist in the incorruptibility of its parts, but in the variety found there; and this great work of the world would not be so admirable without that vicissitude of things that one observes in it. A matter infinitely extended, without movement, and consequently without form and without corruption, would indeed make known the infinite power of its author, but it would give no idea of his wisdom. It is for this reason that all corporeal things are corruptible, and that there is no body to which some change does not occur that alters and corrupts it with time. Stones and even glass serve as food for some insects. These bodies, although very hard and very dry, nevertheless become corrupted with time. The air and the sun, to which they are exposed, change some of their parts, and worms are found that feed on them, as experience shows.
+
+There is no other difference between these very hard and very dry bodies and the others, except that they are composed of very coarse and very solid parts, and consequently less capable of being agitated and separated from one another by the movement of those that strike against them, which is why they are regarded as incorruptible. Nevertheless, they are not so by their nature, as time, experience, and reason sufficiently show.
+
+But as for the heavens, they are composed of the most fluid and most subtle matter, and principally the sun; and so far from being without heat and incorruptible, as the followers of Aristotle say, it is on the contrary of all bodies the hottest and most subject to change. It is even this which heats, agitates, and changes all things; for it is this which produces by its action, which is nothing other than its heat or the movement of its parts, all that we see new in the changes of the seasons. Reason demonstrates these things: but if one can resist reason, one cannot resist experience; for since spots as large as the whole earth have been discovered in the sun, by means of telescopes or large lenses, which formed there and dissipated in a short time, one can no more deny that it is much more subject to change than the earth we inhabit.
+
+All bodies are therefore in a continual movement and change, and principally those that are most fluid, such as fire, air, and water; then the parts of living bodies, such as flesh and even bones; and finally the hardest: and the mind should not suppose a kind of immutability in things, for this reason that it sees no corruption or change in them. For it is not a proof that a thing is always like itself because one recognizes no difference in it, nor that things do not exist because one has no idea or knowledge of them.
 
 

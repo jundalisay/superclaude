@@ -1,19 +1,23 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "Matter and Antimatter"
 # date: 2024-08-01
 image: /photos/physics/neutronstar.jpg
-description: "Two new technologies can replace fossil fuels as a reliable energy source"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 59
+weight: 5
 icon: "Juan"
 toc: false
 aliases:
   /material/principles/part-5/chapter-06/section-03b/
 ---
 
+
+
+
+<!-- Matter and Antimatter arise from spins.  -->
 
 
 The duality of the Material Layer, as the expression of the Positive and Negative Forces, is seen as matter and antimatter. 
@@ -35,6 +39,3 @@ Material | Color Charge (Matter) | Anti-Color Charge (Antimatter)
 Matter has a normal vortex rotation and Antimatter has a reverse vortex rotation. 
 - These cancel the rotation of each other upon contant in space-time.
 - This then forces their internal energy (as the locked up radiant energy) to go out back into space-time.
-
-   
-

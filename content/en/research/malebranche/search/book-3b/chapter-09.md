@@ -10,192 +10,38 @@ date: 2026-06-20
 
 
 
-I. Dernière cause générale de nos erreurs. — II. Que les idées des choses ne sont pu
-toujours présentes å l’esprit dès qu’on le souhaite. — III. Que tout esprit fini est
-sujet à l’erreur, et pourquoi. — IV. Qu’on ne doit pas juger qu’il n’y a que des
-corps ou des esprits, ni que Dieu qui soit esprit comme nous concevons les
-esprits.
+## Last general cause of our errors
 
-I. Nous avons parlé jusqu’ici des erreurs dont on peut assigner
-quelque cause occasionnelle dans la nature de l’entendement pur,
-ou de l’esprit considéré comme agissant par lui-même ; et dans la
-nature des idées, c’est-à-dire dans la manière dont l’esprit
-aperçoit les objets de dehors. Il ne reste maintenant qu’à
-expliquer une cause que l’on peut appeler universelle et générale
-de toutes nos erreurs, parce qu’on ne conçoit point d’erreur qui
-n’en dépende en quelque manière. Cette cause est que le néant
-n’ayant point d’idées qui le représente, l’esprit est porté à croire
-que les choses dont il n’a point d’idée n’existent pas.
-Il est constant que la source générale de nos erreurs, comme
-nous avoirs déjà dit plusieurs fois, c’est que, nos jugements ont
-plus d’étendue que nos perceptions ; car lorsque nous
-considérons quelque objet, nous ne l’envisageons ordinairement
-que par un côté ; et nous ne nous contentons pas de juger du côté
-que nous avons considéré, mais nous jugeons de l’objet tout entier. Ainsi il arrive souvent que nous nous trompons, parce que
-bien que la chose soit vraie du côté que nous l’avons examinée,
-elle se trouve ordinairement fausse de l’autre ; et ce que nous
-croyons vrai n’est seulement que vraisemblable. Or il est visible
-que nous ne jugerions pas absolument des choses comme nous
-faisons, si nous ne pensions pas en avoir considéré tous les côtés
-ou si nous ne les supposions pas semblables à celui que nous
-avons examiné. Ainsi la cause générale de nos erreurs, c’est que,
-n’ayant point d’idées des autres côtés de notre objet ou de leur
-différence d’avec celui qui est présent à notre esprit, nous
-croyons que ces autres côtés ne sont point, ou tout au moins nous
-supposons qu’ils n’ont point de différence particulière.
+We have spoken thus far of errors for which some occasional cause can be assigned in the nature of the pure understanding, or of the mind considered as acting by itself; and in the nature of ideas, that is to say, in the manner in which the mind perceives external objects. It remains now only to explain a cause that may be called universal and general of all our errors, because one conceives no error that does not depend upon it in some way. This cause is that, since nothingness has no ideas to represent it, the mind is inclined to believe that things of which it has no idea do not exist.
 
-Cette manière d’agir nous paraît assez raisonnable ; car le
-néant ne formant point d’idées dans l’esprit, on a quelque sujet de
-croire que les choses qui ne forment point d’idée dans l’esprit
-dans le temps qu’on les examine, ressemblent au néant. Et ce qui
-nous confirme dans ce sentiment, c’est que nous sommes
-persuadés par une espèce d’instinct que les idées des choses sont
-dues à notre nature, et qu’elles sont soumises de telle manière à
-l’esprit qu’elles doivent se représenter à lui dès qu’il le souhaite.
-II. Cependant si nous faisions quelque réflexion à l’état présent
-de notre nature, nous n’aurions pas tant de penchant à croire que
-nous avons toutes les idées des choses dès que nous le voulons.
-L’homme, pour ainsi dire, n’est que chair et que sang depuis le
-péché. La moindre impression de ses sens et de ses passions
-rompt la plus forte attention de son esprit, et le cours des esprits
-et du sang l’emporte avec soi et le pousse continuellement vers
-les objets sensibles. C’est souvent en vain qu’il se roidit contre
-ce torrent qui l’entraîne, et c’est rarement qu’il s’avise d’y résister ; car il y a trop de douceur à le suivre et trop de fatigue à
-s’y opposer. L’esprit donc se rebute et s’abat aussitôt qu’il a fait
-quelque effort pour se prendre et pour s’arrêter à quelque vérité,
-et il est absolument faux. dans l’état où nous sommes, que les
-idées des choses soient présentes à notre esprit toutes les fois
-que nous les voulons considérer. Ainsi nous, ne devons point
-juger que les choses ne sont point, de cela seul que nous n’en
-avons aucune idée.
+It is certain that the general source of our errors, as we have already said several times, is that our judgments have more scope than our perceptions; for when we consider some object, we ordinarily view it only from one side; and we are not content to judge of the side we have considered, but we judge of the whole object. Thus it often happens that we are mistaken, because although the thing is true on the side we have examined, it is ordinarily found false on the other; and what we believe to be true is only probable. Now it is visible that we would not judge absolutely of things as we do, if we did not think we had considered all their sides, or if we did not suppose them to be similar to the one we have examined. Thus the general cause of our errors is that, having no ideas of the other sides of our object or of their difference from the one present to our mind, we believe that these other sides do not exist, or at least we suppose that they have no particular difference.
 
-III. Mais quand nous supposerions l’homme maître absolu de
-son esprit et de ses idées, il serait encore nécessairement sujet à
-l’erreur par sa nature ; car l’esprit de l’homme est limité, et tout
-esprit limité est par sa nature sujet à l’erreur. La raison en est que
-les moindres choses ont entre elles une intinité de rapports, et
-qu’il faut un esprit infini pour les comprendre. Ainsi un esprit
-limité ne pouvant embrasser ni comprendre tous ces rapports
-quelque effort qu’il fasse, il est porté à croire que ceux qu’il
-n’aperçoit pas n’existent point, principalement lorsqu’il ne fait
-pas d’attention à la faiblesse et à la limitation de son esprit, ce
-qui lui est fort ordinaire. Ainsi la limitation de l’esprit toute
-seule emporte avec soi la capacité de tomber dans l’erreur.
+This way of acting seems to us quite reasonable; for since nothingness forms no ideas in the mind, one has some reason to believe that things which form no idea in the mind at the time one examines them resemble nothingness. And what confirms us in this sentiment is that we are persuaded by a kind of instinct that the ideas of things are due to our nature, and that they are so subject to the mind that they must present themselves to it as soon as it wishes.
 
 
-Toutefois si les hommes, dans l’état même où ils sont de
-faiblesse et de corruption, faisaient toujours bon usage de leur
-liberté, ils ne se tromperaient jamais. Et c’est pour cela que tout
-homme qui tombe dans l’erreur est blâmé avec justice et mérite
-même d’être puni ; car il suffit pour ne se point tromper de ne
-juger que de ce qu’on voit, et de ne faire jamais des jugements
-entiers que des choses que l’on est assuré d’avoir examinées
-dans toutes leurs parties, ce que les hommes peuvent faire. Mais
-ils aiment mieux s’assujettir à l’erreur que de s’assujettir à la règle de la vérité, ils veulent décider sans peine et sans examen.
+## The ideas of things are not always present to the mind as soon as one wishes.
 
-Ainsi il ne faut pas s’étonner s’ils tombent dans un nombre infini
-d’erreurs et s’ils font souvent des jugements assez incertains.
-IV. Les hommes, par exemple, n’ont point d’autres idées de
-substance que celle de l’esprit et du corps, c’est-à-dire d’une
-substance qui pense et d’une substance étendue. Et de là ils
-prétendent avoir droit de conclure que tout ce qui existe est corps
-ou esprit. Ce n’est pas que je prétende assurer qu’il y ait quelque
-substance qui ne soit ni corps ni esprit ; car on ne doit pas
-assurer que des choses existent lorsqu’on n’en a point de
-connaissance ; puisqu’il semble que Dieu, qui ne nous cache
-point ses ouvrages, nous en aurait donné quelque idée.
-Cependant, je crois qu’on ne doit rien déterminer touchant le
-nombre des genres d’êtres que Dieu a créés, par les idées que
-l’on en a, puisqu’il se peut absolument faire que Dieu ait des
-raisons de nous les cacher que nous ne sachions pas ; quand ce ne
-serait qu'à cause que, ces êtres n’ayant aucun rapport à nous, il
-nous serait assez inutile de les connaître : de même qu’il ne nous
-a pas donné des yeux assez bons pour compter les dents d’un
-ciron, parce qu’il est assez inutile pour la conservation de notre
-corps que nous ayons la vue si perçante.
-
-Mais, quoique l’on ne pense pas devoir juger avec
-précipitation que tous les êtres soient esprits ou corps ; on croit
-cependant qu’il est tout à fait contre la raison que des
-philosophes, pour expliquer les effets naturels, se servent
-d’autres idées que de celles qui dépendent de la pensée et de
-l’étendue, puisqu’en effet ce sont les seules que nous ayons qui
-soient distinctes ou particulières.
-
-Il n’y a rien de si déraisonnable que de s’imaginer une infinivé d’êtres sur de simples idées de logique, de leur attribuer une
-infinité de propriétés, et de vouloir ainsi expliquer des choses
-qu’on n’entend point par des choses que non-seulement on ne
-conçoit pas, mais qu’il n’est pas même possible de concevoir.
-C’est faire de même que des aveugles qui, voulant parler entre
-eux des couleurs et en soutenir des thèses, se serviraient pour
-cela des définitions que les philosophes leur donnent, desquelles
-ils tireraient plusieurs conclusions. Car comme des aveugles ne
-pourraient faire que des raisonnements plaisants et ridicules sur
-les couleurs, parce qu’ils n’en auraient pas des idées distinctes,
-et qu’ils en voudraient raisonner sur des idées générales et de
-logique ; ainsi les philosophes ne peuvent pas faire des
-raisonnements solides sur les effets de la nature lorsqu’ils ne se
-servent pour cela que des idées générales et de logique d’acte, de
-puissance, d’être, de cause, de principe, de forme, de qualité et
-d’autres semblables. Il est absolument nécessaire qu’ils ne
-s’appuient que sur les idées distinctes ou particulières de la
-pensée et de l’étendue, et de celles qu’elles renferment ou bien
-que l’on en peut déduire. Car on ne doit point s’attendre de
-connaître la nature sans la considération des idées distinctes
-qu’on en a ; il vaut mieux ne point méditer que de méditer sur des
-chimères.
-
-On ne doit pas toutefois assurer qu’il n’y ait que des esprits et
-des corps, des êtres qui pensent et des êtres étendus, parce qu’on
-s’y peut tromper. Car quoiqu’ils suffisent pour expliquer la
-nature, et par conséquent que l’on puisse conclure, sans crainte
-de se tromper, que les choses naturelles dont nous avons quelque
-connaissance dépendent de l’étendue et de la pensée ; cependant
-il se peut absolument faire qu’il y en ait quelques autres dont
-nous n’ayons aucune idée et dont nous ne voyions aucuns effets.
-
-Les hommes font donc un jugement précipité, quand ils jugent
-comme un principe indubitable que toute substance est corps ou
-esprit. Mais ils en firent encore une conclusion précipitée
-lorsqu’ils concluent par la seule lumière de la raison que Dieu
-est un esprit. Il est vrai que puisque nous sommes créés à son
-image et à sa ressemblance, et que l’Écriture sainte nous apprend
-en plusieurs endroits que Dieu est un esprit, nous le devons
-croire et l’appeler ainsi : mais la raison toute seule ne nous le
-peut apprendre. Elle nous dit seulement que Dieu est un être
-infiniment parfait, et qu’il doit être plutôt esprit que corps,
-puisque notre âme est plus parfaite que notre corps ; mais elle ne
-nous assure pas qu’il n’y ait point encore des êtres plus parfaits
-que nos esprits, et plus au-dessus de nos esprits que nos esprits
-ne sont au-dessus de nos corps.
+However, if we reflected somewhat upon the present state of our nature, we would not have so great a tendency to believe that we have all the ideas of things as soon as we want them. Man, so to speak, is only flesh and blood since the Fall. The least impression of his senses and passions breaks the strongest attention of his mind, and the current of animal spirits and blood carries it along and continually drives it toward sensible objects. It is often in vain that he stiffens himself against this torrent that sweeps him away, and it is rarely that he thinks to resist it; for there is too much sweetness in following it and too much fatigue in opposing it. The mind therefore becomes discouraged and dejected as soon as it has made some effort to seize itself and to fix itself upon some truth; and it is absolutely false, in the state in which we are, that the ideas of things are present to our mind whenever we wish to consider them. Thus we should not judge that things do not exist, simply because we have no idea of them.
 
 
-Or, supposé qμ’il y eût de ces êtres, comme il paraît même
-indubitable, parla raison que Dieu en a pu créer, il est clair qu’ils
-ressembleraient plus à Dieu que nous. Ainsi la même raison nous
-apprend que Dieu aurait plutôt leurs perfections que les nôtres,
-qui ne seraient que des imperfections à leur égard. Il ne faut donc
-pas s’imaginer avec précipitation que le mot d’esprit, dont nous
-nous servons pour exprimer ce qu’est Dieu et ce que nous
-sommes, soit un terme univoque, et qui signifie les mêmes choses
-ou des choses fort semblables. Dieu est plus au-dessus des
-esprits créés que ces esprits ne sont au-dessus des corps ; et on
-ne doit pas tant appeler Dieu un esprit pour montrer positivement
-ce qu’il est, que pour signifier qu’il n’est pas matériel. C’est un
-être infiniment parfait, on n’en peut pas douter. Mais comme il ne
-faut pas s’imaginer, avec les anthropomorphites, qu’il doive
-avoir la figure humaine, il cause qu’elle parait la plus parfaite,
-quand même nous le supposerions corporel ; il ne faut pas aussi
+## Every finite mind is subject to error, and why
+ 
+But even if we supposed man to be absolute master of his mind and his ideas, he would still be necessarily subject to error by his nature; for the mind of man is limited, and every limited mind is by its nature subject to error. The reason is that the smallest things have an infinity of relations among themselves, and an infinite mind is needed to comprehend them. Thus a limited mind, being unable to embrace or comprehend all these relations, no matter what effort it makes, is inclined to believe that those it does not perceive do not exist, principally when it pays no attention to the weakness and limitation of its own mind, which is very common for it. Thus the limitation of the mind alone carries with it the capacity to fall into error.
 
-penser que l’esprit de Dieu ait des pensées humaines, et que son
-esprit soit semblable au nôtre, à cause que nous ne connaissons
-rien de plus parfait que notre esprit. Il faut plutôt croire que,
-comme il renferme dans lui-même les perfections de la matière
-sans être matériel, puisqu’il est certain que la matière a rapport à
-quelque perfection qui est en Dieu ; il comprend aussi les
-perfections des esprits crées sans être esprit de la manière que
-nous concevons les esprits ; que son nom véritable est CELUI QUI
-EST, c’est-a-dire l’être sans restriction, tout être, l’être ínfini et
-universel.
+Nevertheless, if men, even in the state of weakness and corruption in which they are, always made good use of their freedom, they would never be mistaken. And it is for this reason that every man who falls into error is justly blamed and even deserves to be punished; for it suffices, in order not to be mistaken, to judge only of what one sees, and never to make complete judgments except about things that one is assured of having examined in all their parts, which men can do. But they prefer to subject themselves to error rather than to subject themselves to the rule of truth; they wish to decide without effort and without examination. Thus one should not be surprised if they fall into an infinite number of errors and if they often make quite uncertain judgments.
 
+
+## One should not judge that there are only bodies or minds, nor that God is a spirit as we conceive spirits
+
+Men, for example, have no other ideas of substance than that of mind and body, that is to say, of a substance that thinks and of an extended substance. And from this they claim to have the right to conclude that everything that exists is body or mind. It is not that I pretend to assert that there is any substance that is neither body nor mind; for one should not assert that things exist when one has no knowledge of them; since it seems that God, who does not hide his works from us, would have given us some idea of them. However, I believe that one should determine nothing concerning the number of kinds of beings that God has created, based on the ideas one has of them, since it is absolutely possible that God has reasons for hiding them from us that we do not know; if only because these beings, having no relation to us, it would be quite useless for us to know them: just as he has not given us eyes good enough to count the teeth of a mite, because it is quite useless for the preservation of our body that we should have such penetrating sight.
+
+But although one thinks one should not judge precipitously that all beings are minds or bodies; one nevertheless believes that it is altogether contrary to reason for philosophers, in order to explain natural effects, to use ideas other than those that depend on thought and extension, since in fact these are the only ones we have that are distinct or particular.
+
+There is nothing so unreasonable as to imagine an infinity of beings based on mere logical ideas, to attribute to them an infinity of properties, and thus to wish to explain things one does not understand by things that one not only does not conceive, but that it is not even possible to conceive. It is to act like blind men who, wishing to speak among themselves of colors and to defend theses about them, would use for that purpose the definitions that philosophers give them, from which they would draw several conclusions. For just as blind men could make only amusing and ridiculous reasonings about colors, because they would have no distinct ideas of them, and would wish to reason about them using general and logical ideas; thus philosophers cannot make solid reasonings about the effects of nature when they use only the general and logical ideas of act, potency, being, cause, principle, form, quality, and others similar. It is absolutely necessary that they rely only on the distinct or particular ideas of thought and extension, and on those they contain or that can be deduced from them. For one should not expect to know nature without considering the distinct ideas one has of it; it is better not to meditate at all than to meditate upon chimeras.
+
+One should not, however, assert that there are only minds and bodies, beings that think and extended beings, because one might be mistaken. For although they suffice to explain nature, and consequently one can conclude, without fear of being mistaken, that natural things of which we have some knowledge depend upon extension and thought; nevertheless it is absolutely possible that there are some others of which we have no idea and whose effects we do not see.
+
+Men therefore make a precipitate judgment when they judge as an indubitable principle that every substance is body or mind. But they also make a precipitate conclusion when they conclude by the sole light of reason that God is a spirit. It is true that since we are created in his image and likeness, and Holy Scripture teaches us in several places that God is a spirit, we ought to believe it and call him so: but reason alone cannot teach us this. It only tells us that God is an infinitely perfect being, and that he must be rather spirit than body, since our soul is more perfect than our body; but it does not assure us that there are not still beings more perfect than our minds, and more above our minds than our minds are above our bodies.
+
+Supposing that there were such beings, as even reason seems to make indubitable that God could have created them, it is clear that they would resemble God more than we. Thus the same reason teaches us that God would have their perfections rather than ours, which would be only imperfections compared to them. We must not therefore imagine precipitously that the word "spirit," which we use to express what God is and what we are, is a univocal term, signifying the same things or things very similar. God is more above created spirits than these spirits are above bodies; and one should not so much call God a spirit to show positively what he is, as to signify that he is not material. He is an infinitely perfect being, one cannot doubt it. But just as one should not imagine, with the anthropomorphites, that he must have the human form, because it appears the most perfect, even if we supposed him corporeal; so also one should not think that the spirit of God has human thoughts, and that his spirit is similar to ours, because we know nothing more perfect than our spirit. One should rather believe that, just as he contains in himself the perfections of matter without being material, since it is certain that matter has relation to some perfection that is in God; so he also comprehends the perfections of created spirits without being spirit in the manner in which we conceive spirits; that his true name is HE WHO IS, that is to say, being without restriction, all being, infinite and universal being.
 
