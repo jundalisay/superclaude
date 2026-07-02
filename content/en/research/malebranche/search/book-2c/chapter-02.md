@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The Passions"
+title: "General Examples of the Power of Imagination"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,329 +10,57 @@ date: 2026-06-20
 
 
 
-Exemples généraux de la force de l’imagination.
-Il se trouve des exemples fort ordinaires de cette
-communication d'imagination dans les enfants à l’égard de leurs
-pères, et encore plus dans les filles à l’égard de leurs mères ;
-dans les serviteurs à l’égard de leurs maîtres, et dans les
-servantes à l’égard de leurs maîtresses ; dans les écoliers à
-l’égard de leurs précepteurs, dans les courtisans à l’égard des
-rois, et généralement dans tous les inférieurs à l'égard de leurs
-supérieurs, pourvu toutefois que les pères, les maîtres et les autres supérieurs aient quelque force d'imagination, car sans cela
-il pourrait arriver que des enfants et des serviteurs ne reçussent
-aucune impression considérable de l’imagination faible de leurs
-pères ou de leurs maîtres.
+There are very common examples of this communication of imagination in children with respect to their fathers, and even more in daughters with respect to their mothers; in servants with respect to their masters, and in maidservants with respect to their mistresses; in schoolboys with respect to their tutors, in courtiers with respect to kings, and generally in all inferiors with respect to their superiors, provided however that fathers, masters and other superiors have some strength of imagination, for without that it could happen that children and servants would receive no considerable impression from the weak imagination of their fathers or masters.
 
-Il se trouve encore des effets de cette communication dans les
-personnes d’une condition égale ; mais cela n’est pas si
-ordinaire, à cause qu’il ne se rencontre pas entre elles un certain
-respect qui dispose les esprits à recevoir sans examen les
-impressions des imaginations fortes. Enfin il se trouve de ces
-effets dans les supérieurs à l’égard de leurs inférieurs, et ceux-ci
-ont quelquefois une imagination si vive et si dominante qu’ils
-tournent l’esprit de leurs maîtres et de leurs supérieurs comme il
-leur plaît.
+There are also effects of this communication in persons of equal condition; but this is not so common, because there is not found between them a certain respect that disposes minds to receive without examination the impressions of strong imaginations. Finally, there are effects of this in superiors with respect to their inferiors, and these latter sometimes have an imagination so vivid and so dominant that they turn the minds of their masters and superiors as they please.
 
-Il ne sera pas mal aisé de comprendre comment les pères et les
-mères font des impressions très-fortes sur l’imagination de leurs
-enfants, si l’on considère que ces dispositions naturelles de notre
-cerveau qui nous portent à imiter ceux avec qui nous vivons, et à
-entrer dans leurs sentiments et dans leurs passions, sont encore
-bien plus fortes dans les enfants à l’égard de leurs parents que
-dans tous les autres hommes. L’on en peut donner plusieurs
-raisons. La première, c’est qu’ils sont de même sang. Car de
-même que les parents transmettent très-souvent dans leurs enfants
-des dispositions à certaines maladies héréditaires, telles que la
-goutte, la pierre, la folie, et généralement toutes celles qui ne leur
-sont point survenues par accident, ou qui n’ont point pour cause
-seule et unique quelque fermentation extraordinaire des humeurs,
-comme les fièvres et quelques autres ; car il est visible que
-celles-ci ne se peuvent communiquer ; ainsi ils impriment les
-dispositions de leur cerveau dans celui de leurs enfants, et ils donnent à leur imagination un certain tour qui les rend tout à fait
-susceptibles des mêmes sentiments.
+It will not be too difficult to understand how fathers and mothers make very strong impressions on the imagination of their children, if one considers that these natural dispositions of our brain that lead us to imitate those with whom we live, and to enter into their sentiments and passions, are still much stronger in children with respect to their parents than in all other men. Several reasons can be given for this. The first is that they are of the same blood. For just as parents very often transmit to their children dispositions to certain hereditary diseases, such as gout, stone, madness, and generally all those that have not occurred to them by accident, or that do not have as their sole and unique cause some extraordinary fermentation of humors, like fevers and some others; for it is visible that these cannot be communicated; so they imprint the dispositions of their brain in that of their children, and give to their imagination a certain turn that renders them entirely susceptible to the same sentiments.
 
-La seconde raison, c’est que d’ordinaire les enfants n’ont que
-très-peu de commerce avec le reste des hommes qui pourraient
-quelquefois tracer d’autres vestiges dans leur cerveau, et rompre
-en quelque façon l’effort continuel de l’impression paternelle.
-Car de même qu’un homme qui n’est jamais sorti de son pays
-s’imagine ordinairement que les mœurs et les coutumes des
-étrangers sont tout à fait contraires à la raison parce qu’elles sont
-contraires à la coutume de sa ville, au torrent de laquelle il se
-laisse emporter ; ainsi un enfant qui n’est jamais sorti de la
-maison paternelle, s’imagine que les sentiments et les manières
-de ses parents sont la raison universelle : ou plutôt il ne pense
-pas qu’il puisse y avoir quelque autre principe de raison ou de
-vertu que leur imitation. Il croit donc tout ce qu’il leur entend
-dire, et il fait tout ce qu’il leur voit faire.
+The second reason is that ordinarily children have very little commerce with the rest of men who could sometimes trace other traces in their brain, and in some way break the continual effort of the paternal impression. For just as a man who has never left his country ordinarily imagines that the morals and customs of foreigners are entirely contrary to reason because they are contrary to the custom of his city, to the torrent of which he lets himself be carried away; so a child who has never left the paternal home imagines that the sentiments and manners of his parents are universal reason: or rather he does not think that there could be some other principle of reason or virtue than their imitation. He therefore believes everything he hears them say, and does everything he sees them do.
 
-Mais cette impression des parents est si forte, qu’elle n’agit
-pas seulement sur l’imagination des enfants, elle agit même sur
-les autres parties de leur corps. Un jeune garçon marche, parle, et
-fait les mêmes gestes que son père. Une fille de même s’habille
-comme sa mère, marche comme elle, parle comme elle ; si la
-mère grasseye, la fille grasseye ; si la mère a quelque tour de tête
-irrégulier, la fille le prend. Enfin, les enfants imitent les parents
-en toute chose, jusque dans leurs défauts et dans leurs grimaces,
-aussi bien que dans leurs erreurs et dans leurs vices.
+But this impression of parents is so strong that it acts not only on the imagination of children, it acts even on the other parts of their body. A young boy walks, speaks, and makes the same gestures as his father. A daughter likewise dresses like her mother, walks like her, speaks like her; if the mother lisps, the daughter lisps; if the mother has some irregular turn of the head, the daughter takes it. Finally, children imitate their parents in all things, even in their faults and grimaces, as well as in their errors and vices.
 
-Il y a encore plusieurs autres causes qui augmentent l’effet de
-cette impression. Les principales sont l’autorité des parents, la
-dépendance des enfants, et l’amour mutuel des uns et des autres :
-mais ces causes sont communes aux courtisans, aux serviteurs, et généralement à tous les inférieurs aussi bien qu’aux enfants. Nous
-les allons expliquer par l’exemple des gens de cour.
-Il y a des hommes qui jugent de ce qui ne paraît point par ce
-qui paraît ; de la grandeur, de la force, et de la capacité de
-l’esprit, qui leur sont cachées, par la noblesse, les dignités et les
-richesses qui leur sont connues. On mesure souvent l’un par
-l’autre ; et la dépendance où l’on est des grands, le désir de
-participer à leur grandeur, et l’éclat sensible qui les environne,
-portent souvent les hommes à rendre à des hommes des honneurs
-divins, s’il m’est permis de parler ainsi. Car si Dieu donne aux
-princes l’autorité, les hommes leur donnent l’infaillibilité ; mais
-une infaillibilité qui n’est point limitée dans quelques sujets ni
-dans quelques rencontres, et qui n’est point attachée à quelques
-cérémonies. Les grands savent naturellement toutes choses ; ils
-ont toujours raison, quoiqu’ils décident des questions desquelles
-ils n’ont aucune connaissance. C’est ne savoir pas vivre que
-d’examiner ce qu’ils avancent : c’est perdre le respect que d’en
-douter. C’est se révolter, ou pour le moins, c’est se déclarer sot,
-extravagant et ridicule que de les condamner.
+There are still several other causes that increase the effect of this impression. The principal ones are the authority of parents, the dependence of children, and the mutual love of one for the other: but these causes are common to courtiers, to servants, and generally to all inferiors as well as to children. We shall explain them by the example of courtiers.
 
-Mais lorsque les grands nous font l’honneur de nous aimer, ce
-n’est plus alors simplement opiniâtreté, entêtement, rébellion,
-c’est encore ingratitude et perfidie que de ne se rendre pas
-aveuglément à toutes leurs opinions, c’est une faute irréparable
-qui nous rend pour toujours indignes de leurs bonnes grâces ; ce
-qui fait que les gens de cour, et par une suite nécessaire presque
-tous les peuples, s’engagent sans délibérer dans tous les
-sentiments de leur souverain, jusque-là même que dans les
-vérités de la religion ils se rendent très-souvent à leur fantaisie et
-à leur caprice.
-300
-L’Angleterre et l’Allemagne ne nous fournissent que trop
-d’exemples de ces soumissions déréglées des peuples aux
-volontés impies de leurs princes. Les histoires de ces derniers
-temps en sont toutes remplies ; et l’on a vu quelquefois des
-personnes avancées en âge avoir changé quatre ou cinq fois de
-religion à cause des divers changements de leurs princes.
-Les rois et même les reines ont dans l’Angleterre le
-gouvernement de tous les états de leurs royaumes, soit
-ecclésiastiques ou civils, en toutes causes. Ce sont eux qui
-approuvent les liturgies, les offices des fêtes et la manière dont
-on doit administrer et recevoir les sacrements. Ils ordonnant, par
-exemple, que l’on n’adore point Jésus-Crhrist lorsque l’on
-communie, quoiqu’ils obligent encore de le recevoir à genoux
-selon l’ancienne coutume. En un mot, ils changent toutes choses
-dans leurs liturgies pour la conformer aux nouveaux articles de
-leur foi, et ils ont aussi le droit de juger de ces articles avec leur
-parlement, comme le pape avec le concile, ainsi que l’on peut
-voir dans les statuts d’Angleterre et d’Irlande faits au
-commencement du règne de la reine Élisabeth. Enfin on peut dire
-que les rois d’Angleterre ont même plus de pouvoir sur le
-spirituel que sur le temporel de leurs sujets ; parce que ces
-misérables peuples et ces enfants de la terre se soucient bien
-moins de la conservation de la foi que de la conservation de
-leurs biens, ils entrent facilement dans tous les sentiments de
-leurs princes. pourvu que leur intérêt temporel n’y soit point
-contraire
-[19]
-.
+There are men who judge of what does not appear by what does appear; of the greatness, strength, and capacity of the mind, which are hidden from them, by the nobility, dignities and riches that are known to them. One often measures one by the other; and the dependence one has on the great, the desire to participate in their greatness, and the sensible splendor that surrounds them, often lead men to render to men divine honors, if I may speak thus. For if God gives princes authority, men give them infallibility; but an infallibility that is not limited to some subjects nor to some occasions, and that is not attached to some ceremonies. The great naturally know all things; they are always right, although they decide questions of which they have no knowledge. It is not knowing how to live to examine what they advance: it is losing respect to doubt it. It is to revolt, or at least to declare oneself foolish, extravagant and ridiculous to condemn them.
 
-Les révolutions qui sont arrivées dans la religion en Suède et
-en Danemark, nous pourraient encore servir de preuve de la force
-que quelques esprits ont sur les autres ; mais toutes ces révolutions ont encore eu plusieurs autres causes trèsconsidérables. Ces changements surprenants sont bien des
-preuves de la communication contagieuse de l’imagination, mais
-des preuves trop grandes et trop vastes. Elles étonnent et elles
-éblouissant plutôt les esprits qu’elles ne les éclairent, parce qu’il
-y a trop de causes qui concourent à la production de ces grands
-événements.
+But when the great do us the honor of loving us, it is no longer simply obstinacy, stubbornness, rebellion; it is also ingratitude and perfidy not to yield blindly to all their opinions; it is an irreparable fault that renders us forever unworthy of their good graces; which makes courtiers, and by a necessary consequence almost all peoples, engage without deliberation in all the sentiments of their sovereign, even to the point that in the truths of religion they very often yield to his fantasy and caprice.
 
-Si les courtisans et tous les autres hommes abandonnent
-souvent des vérités certaines, des vérités essentielles, des vérités
-qu’il est nécessaire de soutenir ou de se perdre pour une
-éternité ; il est visible qu’ils ne se hasarderont pas de défendre
-des vérités abstraites, peu certaines et peu utiles. Si la religion
-du prince fait la religion de ses sujets, la raison du prince fera
-aussi la raison de ses sujets ; et ainsi les sentiments du prince
-seront toujours à la mode : ses plaisirs, ses passions. ses jeux,
-ses paroles, ses habits, et généralement toutes ses actions seront à
-la mode ; car le prince est lui-même comme la mode essentielle,
-et il ne se rencontre presque jamais qu’il fasse quelque chose qui
-ne devienne pas à la mode. Et comme toutes les irrégularités de
-la mode ne sont que des agréments et des beautés, il ne faut pas
-s’étonner si les princes agissent si fortement sur l’imagination
-des autres hommes.
+England and Germany furnish us only too many examples of these disordered submissions of peoples to the impious wills of their princes. The histories of recent times are full of them; and one has sometimes seen persons advanced in age who have changed religion four or five times because of the various changes of their princes.
 
-Si Alexandre penche la tête, ses courtisans penchent la tête. Si
-Denis le tyran s’appIique à la géométrie à l’arrivée de Platon
-dans Syracuse, la géométrie devient aussitôt à la mode, et le
-palais de ce roi, dit Plutarque, se remplit incontinent de
-poussière par le grand nombre de ceux qui tracent des figures.
-Mais dès que Platon se met en colère contre lui, et que ce prince
-se dégoûte de l’étude, et s’abandonne de nouveau à ses plaisirs, ses courtisans en font aussitôt de même. Il semble, continua cet
-auteur, qu’ils soient enchantés, et qu’une Circé les transforme en
-d’autres hommes. Ils passent de l’inclination pour la philosophie
-à l’inclination pour la débauche, et de l’horreur de la débauche à
-l’horreur de la philosophie
-[20]
-. 
+Kings and even queens have in England the government of all the estates of their kingdoms, whether ecclesiastical or civil, in all causes. It is they who approve the liturgies, the offices of feasts and the manner in which one must administer and receive the sacraments. They ordain, for example, that one should not adore Jesus Christ when one communicates, although they still oblige one to receive him kneeling according to ancient custom. In a word, they change all things in their liturgies to conform them to the new articles of their faith, and they also have the right to judge of these articles with their parliament, as the pope with the council, as one can see in the statutes of England and Ireland made at the beginning of the reign of Queen Elizabeth. Finally one can say that the kings of England have even more power over the spiritual than over the temporal of their subjects; because these miserable peoples and these children of the earth care much less for the preservation of faith than for the preservation of their goods, they easily enter into all the sentiments of their princes, provided their temporal interest is not contrary to it [19].
 
-C’est ainsi que les princes
-peuvent changer les vices en vertus et les vertus en vices, et
-qu’une seule de leurs paroles est capable d’en changer toutes les
-idées. Il ne faut d’eux qu’un mot, qu’un geste, qu’un mouvement
-des yeux ou des lèvres pour faire passer la science et l’érudition
-pour une basse pédanterie ; la témérité, la brutalité, la cruauté,
-pour grandeur de courage ; et l’impiété et le libertinage, pour
-force et pour liberté d’esprit.
-Mais cela, aussi bien que tout ce que je viens de dire, suppose
-que ces princes aient l’imagination forte et vive ; car s’ils avaient
-l’imagination faible et languissante, ils ne pourraient pas animer
-leurs discours, ni leur donner ce tour et cette force qui soumet et
-qui abat invinciblement les esprits faibles.
-Si la force de l’imagination toute seule et sans aucun secours
-de la raison peut produire des effets si surprenants, il n’y a rien
-de si bizarre ni de si extravagant qu’elle ne persuade lorsqu’elle
-est soutenue par quelques raisons apparentes. En voici des
-preuves.
+The revolutions that have occurred in religion in Sweden and Denmark could still serve us as proof of the force that some minds have over others; but all these revolutions have still had several other very considerable causes. These surprising changes are indeed proofs of the contagious communication of imagination, but proofs too great and too vast. They astonish and dazzle minds rather than enlighten them, because there are too many causes that concur in the production of these great events.
 
-Un ancien auteur rapporte qu’en Éthiopie les gens de cour
-se rendaient boiteux et difformes, qu’ils se coupaient quelques
-membres et qu’ils se donnaient même la mort, pour se rendre
-semblables à leurs princes. On avait honte de paraitre avec deux
-yeux et de marcher droit à la suite d’un roi borgne et boiteux ; de
-même qu’on n’oserait à présent paraître à la cour avec la fraise
-et la toque, ou avec des bottines blanches et des éperons dorés.
+If courtiers and all other men often abandon certain truths, essential truths, truths that it is necessary to uphold or to be lost for eternity; it is visible that they will not risk defending abstract truths, uncertain and little useful. If the religion of the prince makes the religion of his subjects, the reason of the prince will also make the reason of his subjects; and thus the sentiments of the prince will always be in fashion: his pleasures, his passions, his games, his words, his clothes, and generally all his actions will be in fashion; for the prince is himself as it were the essential fashion, and it almost never happens that he does something that does not become fashionable. And as all the irregularities of fashion are only agreeablenesses and beauties, one must not be surprised if princes act so strongly on the imagination of other men.
 
-Cette mode des Étbiopiens était fort bizarre et fort incommode,
-mais cependant c’était la mode. On la suivait avec joie, et on ne
-songeait pas tant à la peine qu’il fallait souffrir, qu’à l’honneur
-qu’on se faisait de paraitre plein de générosité et d’affection pour
-son roi. Enfin, cette fausse raison d’amitié, soutenant
-l’extravagance de la mode, l’a fait passer en coutume et en loi
-qui a été observée fort long-temps.
+If Alexander inclines his head, his courtiers incline their heads. If Dionysius the tyrant applies himself to geometry upon the arrival of Plato in Syracuse, geometry immediately becomes fashionable, and the palace of this king, says Plutarch, is immediately filled with dust by the great number of those tracing figures. But as soon as Plato becomes angry with him, and this prince becomes disgusted with study and abandons himself again to his pleasures, his courtiers immediately do the same. It seems, continues this author, that they are enchanted, and that a Circe transforms them into other men. They pass from inclination for philosophy to inclination for debauchery, and from horror of debauchery to horror of philosophy [20].
 
-Les relations de ceux qui ont voyagé dans le Levant nous
-apprennent que cette coutume se garde dans plusieurs pays, et
-encore quelques autres aussi contraires au bon sens et à la raison.
-Mais il n’est pas nécessaire de passer deux fois la ligne pour
-voir observer religieusement des lois et des coutumes
-déraisonnables, ou pour trouver des gens qui suivent des modes
-incommodes et bizarres ; il ne faut pas sortir de la France pour
-cela. Partout où il y a des hommes sensibles aux passions, et où
-l’imagination est maîtresse de la raison, il y a de la bizarrerie, et
-une bizarrerie incompréhensible. Si l’on ne souffre pas tant de
-douleur à tenir son sein découvert pendant les rudes gelées de
-l’hiver, et à se serrer le corps durant les chaleurs excessives de
-l’été, qu’à se crever un œil ou à se couper un bras, on devrait
-souffrir davantage de confusion. La peine n’est pas si grande,
-mais la raison qu’on a de Fendurer n’est pas si apparente ; ainsi,
-il y a pour le moins une égale bizarrerie. Un Éthiopien peut dire
-que c’est par générosité qu’il se crève un œil ; mais que peut dire
-une dame chrétienne qui fait parade de ce que la pudeur naturelle
-et la religion l’obligent de cacher ? Que c’est la mode, et rien
-davantage. Mais cette mode est bizarre, incommode, malhonnête,
-indigne en toutes manières ; elle ~n’a point d’autre source qu’une
-manifeste corruption de la raison, et qu’une secrète corruption du
-cœur ; on ne la peut suivre sans scandale ; c’est prendre ouvertement le parti du dérèglement de l’imagination contre la
-raison, de l’impureté contre la pureté, de l’esprit du monde
-contre l’esprit de Dieu ; en un mot, c’est violer les lois de la
-raison et les lois de l’Évangile que de suivre cette mode.
-N’importe, c’est la mode ; c’est-à-dire une loi plus sainte et plus
-inviolable que celle que Dieu avait écrite de sa main sur les
-tables de Moïse, et que celle qu’il grave avec son esprit dans le
-cœur des chrétiens.
+It is thus that princes can change vices into virtues and virtues into vices, and that a single one of their words is capable of changing all their ideas. Only a word, a gesture, a movement of the eyes or lips is needed for them to make science and erudition pass for base pedantry; temerity, brutality, cruelty, for greatness of courage; and impiety and libertinism, for strength and freedom of mind.
 
-En vérité, je ne sais si les Français ont tout à fait droit de se
-moquer des Éthiopiens et des Sauvages. Il est vrai que si on
-voyait pour la première fois un roi borgne et boiteux n’avoir à sa
-suite que des boiteux et des borgnes, on aurait peine à
-s’empêcher de rire. Mais avec le temps on n’en rirait plus, et
-l’on admirerait peut-être davantage la grandeur de leur courage et
-de leur amitié, qu’on ne se raillerait de la faiblesse de leur
-esprit. Il n’est pas de même des modes de France. Leur bizarrerie
-n’est point soutenue de quelque raison apparente ; et si elles ont
-l’avantage de n’être pas si fâcheuses, elles n’ont pas toujours
-celui d’être aussi raisonnables. En un mot elles portent le
-caractère d’un siècle encore plus corrompu, dans lequel rien
-n’est assez puissant pour modérer le dérèglement de
-l’imagination.
+But this, as well as all that I have just said, supposes that these princes have a strong and vivid imagination; for if they had a weak and languid imagination, they could not animate their discourses, nor give them that turn and force that submits and invincibly overcomes weak minds.
 
-Ce qu’on vient de dire des gens de cour se doit aussi entendre
-de la plus grande partie des serviteurs à l’égard de leurs maîtres,
-des servantes à l’égard de leurs maîtresses et, pour ne pas faire
-un dénombrement assez inutile, cela se doit entendre de tous les
-inférieurs à l’égard de leurs supérieurs, mais principalement des
-enfants à l’égard de leurs parents, parce que les enfants sont dans
-une dépendance toute particulière de leurs parents ; que leurs parents ont pour eux une amitié et une tendresse qui ne se
-rencontre pas dans les autres, et enfin parce que la raison porte
-les enfants à des soumissions et à des respects que la même
-raison ne règle pas toujours.
+If the force of imagination alone and without any help of reason can produce such surprising effects, there is nothing so bizarre nor so extravagant that it cannot persuade when it is supported by some apparent reasons. Here are proofs of this.
 
-Il n’est pas absolument nécessaire, pour agir dans
-l’imagination des autres, d’avoir quelque autorité sur eux et
-qu’ils dépendent de nous en quelque manière ; la seule force
-d’imagination suffit quelquefois pour cela. Il arrive souvent que
-des inconnus, qui n’ont aucune réputation, et pour lesquels nous
-ne sommœ prévenus d’aucune estime, ont une telle force
-d’imagination, et par conséquent des expressions si vives et si
-touchantes, qu’ils nous persuadent sans que nous sachions ni
-pourquoi, ni même de quoi nous sommes persuadés. Il est vrai
-que cela semble fort extraordinaire, mais cependant il n’y a rien
-de plus commun.
+An ancient author reports that in Ethiopia courtiers made themselves lame and deformed, cut off some members and even put themselves to death, to make themselves resemble their princes. One was ashamed to appear with two eyes and to walk upright in the train of a one-eyed and lame king; just as one would not dare at present appear at court with a ruff and a cap, or with white boots and gilt spurs.
 
-Or cette persuasion imaginaire ne peut venir que de la force
-d’un esprit visionnaire qui parle vivement sans savoir ce qu’il
-dit, et qui tourne ainsi les esprits de ceux qui l’écoutent à croire
-fortement sans savoir ce qu’ils croient. Car la plupart des
-hommes se laissent aller à l’effort de l’impression sensible qui
-les étourdit et les éblouit, et qui les pousse à juger par passion de
-ce qu’ils ne conçoivent que fort confusément. On prie ceux qui
-liront cet ouvrage de penser à ceci, d’en remarquer des exemples
-dans les conversations où ils se trouveront, et de faire quelques
-réflexions sur ce qui se passe dans leur esprit en ces occasions.
-Cela leur sera beaucoup plus utile qu’ils ne peuvent se
-l’imaginer.
+This fashion of the Ethiopians was very bizarre and very inconvenient, but however it was the fashion. It was followed with joy, and one thought less of the pain one had to suffer than of the honor one did oneself by appearing full of generosity and affection for one's king. Finally, this false reason of friendship, sustaining the extravagance of fashion, made it pass into custom and law that was observed for a very long time.
 
-Mais il faut bien considérer qu’il y à deux choses qui
-contribuent merveilleusement à la force de l’imagination des autres sur nous. La première est un air de piété et de gravité ;
-l’autre est un air de libertinage et de fierté. Car selon notre
-disposition à la piété ou au libertinage, les personnes qui parlent
-d’un air grave et pieux, ou d’un air fier et libertin, agissent fort
-diversement sur nous.
+The accounts of those who have traveled in the Levant teach us that this custom is kept in several countries, and still some others as contrary to good sense and reason. But it is not necessary to cross the line twice to see laws and unreasonable customs religiously observed, or to find people who follow inconvenient and bizarre fashions; one need not leave France for that. Everywhere there are men susceptible to passions, and where imagination is mistress of reason, there is bizarrerie, and an incomprehensible bizarrerie. If one does not suffer as much pain in keeping one's bosom uncovered during the harsh freezes of winter, and in compressing one's body during the excessive heats of summer, as to put out one's eye or cut off one's arm, one should suffer more confusion. The pain is not so great, but the reason one has for enduring it is not so apparent; thus, there is at least an equal bizarrerie. An Ethiopian can say that it is out of generosity that he puts out his eye; but what can a Christian lady say who makes a display of what natural modesty and religion oblige her to hide? That it is fashion, and nothing more. But this fashion is bizarre, inconvenient, dishonest, unworthy in all ways; it has no other source than a manifest corruption of reason, and a secret corruption of the heart; one cannot follow it without scandal; it is to openly take the side of the disorder of imagination against reason, of impurity against purity, of the spirit of the world against the spirit of God; in a word, it is to violate the laws of reason and the laws of the Gospel to follow this fashion. No matter, it is fashion; that is to say, a law more holy and more inviolable than that which God had written with His hand on the tables of Moses, and that which He engraves with His spirit in the hearts of Christians.
 
-Il est vrai que les uns sont bien plus dangereux que les autres ;
-mais il ne faut jamais se laisser persuader par les manières ni des
-uns ni des autres, mais seulement par la force de leurs raisons.
-On peut dire gravement et modestement des sottises, et d’une
-manière dévote des impiétés et des blasphèmes. Il faut donc
-examiner si les esprits sont de Dieu selon le conseil de saint
-Jean, et ne pas se fier à toutes sortes d’esprits. Les démons se
-transforment quelquefois en anges de lumière ; et l’on trouve des
-personnes à qui l’air de piété est comme naturel, et par
-conséquent dont la réputation est d’ordinaire fortement établie,
-qui dispensent les hommes de leurs obligations essentielles, et
-même de celle d’aimer Dieu et le prochain, pour les rendre
-esclaves de quelque pratique et de quelque cérémonie
-pharisienne.
+In truth, I do not know if the French have entirely the right to mock the Ethiopians and the Savages. It is true that if one saw for the first time a one-eyed and lame king followed only by the lame and the one-eyed, one would have difficulty keeping from laughing. But with time one would laugh no more, and one would perhaps admire more the greatness of their courage and their friendship than one would mock the weakness of their mind. It is not the same with French fashions. Their bizarrerie is not supported by any apparent reason; and if they have the advantage of not being so troublesome, they do not always have that of being as reasonable. In a word, they bear the character of a still more corrupt century, in which nothing is powerful enough to moderate the disorder of imagination.
 
-Mais les imaginations fortes desquelles il faut éviter avec soin
-l’impression et la contagion, sont certains esprits par le monde
-qui affectent la qualité d’esprits forts ; ce qu’il ne leur est pas
-bien difficile d’acquérir. Car il n’y a maintenant qu’à nier d’un
-certain air le péché originel, l’immortalité de l’âme, ou se railler
-de quelque sentiment reçu dans l’Église, pour acquérir la rare
-qualité d’esprit fort parmi le commun des hommes.
-Ces petits esprits ont d’ordinaire beaucoup de feu, et un
-certain air libre et fier qui domine et qui dispose les imaginations
-faibles à se rendre à des paroles vives et spécieuses, mais qui ne signifient rien à des esprits attentifs. Ils sont tout à fait heureux en
-expressions, quoique très-malheureux en raisons. Mais parce que
-les hommes, tout raisonnables qu’ils sont, aiment beaucoup mieux
-se laisser toucher par le plaisir sensible de l’air et des
-expressions, que de se fatiguer dans l’examen des raisons ; il est
-visible que ces esprits doivent remporter sur les autres, et
-communiquer ainsi leurs erreurs et leur malignité, par la
-puissance qu’ils ont sur l’imagination des autres hommes.
+What has just been said of courtiers must also be understood of the greater part of servants with respect to their masters, of maidservants with respect to their mistresses and, to avoid a quite useless enumeration, it must be understood of all inferiors with respect to their superiors, but principally of children with respect to their parents, because children are in a very particular dependence on their parents; that their parents have for them a friendship and tenderness not found in others, and finally because reason leads children to submissions and respects that the same reason does not always regulate.
 
+It is not absolutely necessary, in order to act upon the imagination of others, to have some authority over them and that they depend on us in some way; the sole force of imagination sometimes suffices for that. It often happens that strangers, who have no reputation, and for whom we are not prejudiced by any esteem, have such a force of imagination, and consequently expressions so vivid and touching, that they persuade us without our knowing why, or even of what we are persuaded. It is true that this seems very extraordinary, but however there is nothing more common.
+
+Now this imaginary persuasion can only come from the force of a visionary mind that speaks vividly without knowing what it says, and that thus turns the minds of those who listen to it to believe strongly without knowing what they believe. For most men let themselves go to the effort of the sensible impression that stuns and dazzles them, and drives them to judge by passion of what they conceive only very confusedly. I beg those who will read this work to think of this, to notice examples in the conversations where they will find themselves, and to make some reflections on what passes in their minds on these occasions. This will be much more useful to them than they can imagine.
+
+But one must consider well that there are two things that contribute wonderfully to the force of the imagination of others over us. The first is an air of piety and gravity; the other is an air of libertinism and pride. For according to our disposition to piety or libertinism, persons who speak with a grave and pious air, or with a proud and libertine air, act very differently upon us.
+
+It is true that the former are much more dangerous than the latter; but one must never let oneself be persuaded by the manners of either, but only by the force of their reasons. One can say gravely and modestly foolish things, and in a devout manner impieties and blasphemies. One must therefore examine whether the spirits are of God according to the counsel of St. John, and not trust all kinds of spirits. Demons sometimes transform themselves into angels of light; and one finds persons to whom an air of piety is as it were natural, and whose reputation consequently is ordinarily firmly established, who dispense men from their essential obligations, and even from that of loving God and neighbor, to make them slaves of some Pharisaical practice and ceremony.
+
+But the strong imaginations whose impression and contagion must be carefully avoided are certain spirits in the world who affect the quality of strong minds; which is not very difficult for them to acquire. For now one need only deny with a certain air original sin, the immortality of the soul, or mock some received sentiment in the Church, to acquire the rare quality of strong mind among common men.
+
+These small minds ordinarily have much fire, and a certain free and proud air that dominates and disposes weak imaginations to yield to vivid and specious words, but which signify nothing to attentive minds. They are quite happy in expressions, although quite unhappy in reasons. But because men, as reasonable as they are, much prefer to let themselves be touched by the sensible pleasure of air and expressions, than to fatigue themselves in the examination of reasons; it is visible that these minds must carry it over others, and thus communicate their errors and their malignity, by the power they have over the imagination of other men.
 

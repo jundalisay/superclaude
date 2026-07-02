@@ -2,12 +2,12 @@
 title: "The Problem with PROUT"
 description: PROUT failed Venezuela
 date: 2014-05-09
-image: "/photos/grains.jpg"
+a: "PR Sarkar"
 heading: "Dogmatic"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+# icon: "Supereconomics"
 ---
 
 
@@ -73,7 +73,7 @@ Currently, China has such public investments in welfare through its state run in
 
 So the natural system of economy was already discovered by Chinese socialism, which also pushes for cooperatives and single-party control where the Communist Party is the *sadvipra* party.
 
-China's success makes Prout much less relevant as an economic solution when we compare the poverty in Venezuela and the wealth in China, both of which are socialist.
+China's success makes PROUT much less relevant as an economic solution when we compare the poverty in Venezuela and the wealth in China, both of which are socialist.
 
 Both Modern China and PROUT started in the 1950s. 
 - Marxist China was established in 1949
@@ -84,4 +84,25 @@ The big difference is that China did not use the **dogmatic cult format** wherea
 The Communist Party reformed Mao, with Deng declaring Mao's Cultural Revolution as a catastrophe in 1981. This allowed a near total overhaul that stayed within the genearl socialist agenda.
 
 The cult format of PROUT prevents it from admitting that PROUT from 1959 to modern times (2014) has been a catastrophe, with Venezuela as a shining example, that needs a near total overhaul. 
+
+
+## How Supereconomics Fixes PROUT
+
+Supereconomics uses the Four Laws of Value derived from Adam Smith:
+
+1. The 1st Law establishes a moneyless system and purchasing power and  minimum requirements
+
+The moneyless system ensures that value is always circulating instead of being hoarded. 
+
+2. The 2nd Law establishes moneyless investements
+
+This replaces the 3rd and 5th principle of PROUT.
+
+3. The 3rd Law establishes the Usufruct Economy 
+
+This replaces the 1st and 4th principles of PROUT.
+
+4. The 3rd Law establishes multilateral clearing (from economist EF Schumacher) whether using the money or moneyless systems
+
+This replaces the 2nd principle of PROUT.
 

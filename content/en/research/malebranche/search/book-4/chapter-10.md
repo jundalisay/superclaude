@@ -1,6 +1,6 @@
 ---
 heading: Chapter 10
-title: "The Rules"
+title: "The Love of Pleasure in Relation to Morals"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,278 +10,68 @@ date: 2026-06-20
 
 
 
-De l’amour du plaisir par rapport å la morale. — I. Il faut fuir le plaisir, quoiqu’il rende
-heureux. — II. Il ne doit point nous porter A l’amour des biens sensibles.
-Nous venons de parler dans les trois chapitres précédents de
-l’inclination que nous avons pour la conservation de notre être, et
-comment elle est cause que nous tombons dans plusieurs erreurs.
-Nous parlerons présentement de celle que nous avons pour le
-bien-être, c’est-à-dire pour les plaisirs et pour toutes les choses
-qui nous rendent plus heureux et plus contents, ou que nous
-croyons capables de cela ; et nous tâcherons de découvrir les
-erreurs qui naissent de cette inclination.
-Il y a des philosophes qui tâchent de persuader aux hommes,
-que le plaisir n’est point un bien, et que la douleur n’est point un
-mal ; qu’on peut être heureux au milieu des douleurs les plus
-violentes, et qu’on peut être malheureux au milieu des plus
-grands plaisirs. Comme ces philosophes sont fort pathétiques et
-fort imaginatifs, ils enlèvent bientôt les esprits faibles et qui se
-laissent aller à l’impression que ceux qui leur parlent produisent
-en eux ; car les stoïques sont un peu visionnaires, et les 
-visionnaires sont véhéments ; ainsi ils impriment facilement dans
-les autres les faux sentiments dont ils sont prévenus. Mais comme
-il n’y a point de conviction contre l’expérience et contre notre
-sentiment intérieur, toutes ces raisons pompeuses et magnifiques,
-qui étourdissent et éblouissent l’imagination des hommes,
-s’évanouissent avec tout leur éclat aussitôt que l’âme est touchée
-de quelque plaisir ou de quelque douleur sensible ; et ceux qui
-ont mis toute leur confiance dans cette fausse persuasion de leur
-esprit se trouvent sans sagesse et sans force à la moindre attaque
-du vice ; ils sentent qu’ils ont été trompés et qu’ils sont vaincus.
-I. Si les philosophes ne peuvent donner à leurs disciples la
-force de vaincre leurs passions, du moins ne doivent-ils pas les
-séduire ni leur persuader qu’ils n’ont point d’ennemis à
-combattre. Il faut dire les choses comme elles sont : le plaisir est
-toujours un bien, et la douleur toujours un mal ; mais il n’est pas
-toujours avantageux de jouir du plaisir, et il est quelquefois
-avantageux de souffrir la douleur.
-Mais pour faire bien comprendre ce que je veux dire, il faut
-savoir :
-4° Qu’il n’y a que Dieu qui soit assez puissant pour agir en
-nous, et pour nous faire sentir le plaisir et la douleur : car il est
-évident à tout homme qui consulte sa raison, et qui méprise les
-rapports de ses sens, que ce ne sont point les objets que nous
-sentons qui agissent effectivement en nous, puisque le corps ne
-peut agir sur l’esprit ; et que ce n’est point non plus notre âme qui
-cause en elle-même son plaisir et sa douleur à leur occasion, car
-s’il dépendait de l’âme de sentir la douleur, elle n’en soutïrirait
-jamais ;
-2° Qu’on ne doit donner ordinairement quelque bien que pour
-532
-faire faire quelque bonne action ou pour la récompenser ; et
-qu’on ne doit ordinairement faire souffrir quelque mal que pour
-détourner d’une méchante action ou pour la punir : et qu’ainsi
-Dieu agissant toujours avec ordre, et selon les règles de la
-justice, tout plaisir dans son institution nous porte à quelque
-bonne action ou nous en récompense ; et toute douleur nous
-détourne de quelque action mauvaise ou nous en punit.
-3° Qu’il y a des actions qui sont bonnes en un sens et
-mauvaises en un autre. C’est, par exemple, une mauvaise action
-que de s’exposer à la mort, lorsque Dieu le défend ; mais c’est
-aussi une bonne action que de s’y exposer lorsque Dieu le
-commande. Car toutes nos actions ne sont bonnes ou mauvaises
-que parce que Dieu les a commandées ou les a défendues, ou par
-la loi éternelle, que tout homme raisonnable peut consulter en
-rentrant en lui-même ; ou par la loi écrite, exposée aux sens de
-l’homme sensible et charnel, qui depuis le péché n’est pas
-toujours en état de consulter la raison.
-Je dis donc que le plaisir est toujours bon, mais qu’il n’est pas
-toujours avantageux de le goûter.
+
+The preceding 3 chapters spoke of the inclination we have for the preservation of our being, and how it causes us to fall into several errors. 
+
+I now speak of that which we have for well-being—that is, for pleasures and for all things that make us happier and more content, or that we believe capable of this—and we shall try to discover the errors that arise from this inclination.
+
+There are philosophers who try to persuade men that pleasure is not a good, and that pain is not an evil; that one can be happy in the midst of the most violent pains, and that one can be unhappy in the midst of the greatest pleasures. As these philosophers are very pathetic and very imaginative, they soon carry away weak minds that allow themselves to be influenced by the impression that speakers produce in them; for the Stoics are somewhat visionary, and visionaries are vehement; thus they easily imprint upon others the false sentiments with which they are prejudiced. But since there is no conviction against experience and against our inner feeling, all these pompous and magnificent reasons, which stun and dazzle men's imagination, vanish with all their brilliance as soon as the soul is touched by some pleasure or some perceptible pain; and those who have placed all their confidence in this false persuasion of their minds find themselves without wisdom and without strength at the least attack of vice; they feel that they have been deceived and that they are defeated.
 
 
-1° Parce qu’au lieu de nous attacher à celui qui seul est
-capable de le causer, il nous en détache pour nous unir à ce qui
-semble faussement le causer ; il nous détache de Dieu pour nous
-unir à une vile créature. Il est toujours avantageux de goûter le
-plaisir qui se rapporte à la vraie cause et qui en est la perception.
-Car comme on ne peut aimer que ce qu’on aperçoit, ce plaisir ne
-peut exciter qu’un amour juste, que l’amour de la cause véritable
-du bonheur. Mais il est du moins fort dangereux de goûter les
-plaisirs qui se rapportent aux objets sensibles, et qui en sont la
-perception ; parce que ces plaisirs nous portent à aimer ce qui n’est point cause de notre bonheur actuel. Car encore que ceux
-qui sont éclairés de la véritable philosophie pensent quelquefois
-que le plaisir n’est point causé par les objets de dehors, et que
-cela puisse en quelque manière les porter à reconnaître et à aimer
-Dieu en toutes choses : néanmoins depuis le péché la raison de
-l’homme est si faible, et ses sens et son imagination ont tant de
-pouvoir sur son esprit, qu’ils corrompent bientôt son cœur,
-lorsqu’on ne se prive pas, selon le conseil de l’Évangile. de
-toutes les choses qui ne portent point à Dien par elles-mêmes ;
-car la meilleure philosophie ne saurait guérir l’esprit ni résister
-aux désordres de la volupté.
+## Pleasure must be fled, although it makes one happy
 
-2° Parce que le plaisir étant une récompense, c’est faire une
-injustice que de produire dans son corps des mouvements qui
-obligent Dieu, en conséquence de sa première volonté ou des lois
-générales de la nature, à nous faire sentir du plaisir lorsque nous
-n’en méritons pas ; soit parce que l’action que nous laisons est
-inutile ou criminelle ; soit parce qu’étant pleins de péchés, nous
-ne devons point lui demander de récompense. L’homme avant son
-péché pouvait, avec justice, goûter les plaisirs sensibles dans ses
-actions réglées ; mais depuis le péché il n’y a plus de plaisirs
-sensibles entièrement innocents, ou qui ne soient capables de
-nous blesser lorsque nous les goûtons, car souvent il suifit de les
-goûter pour en devenir esclave.
+If philosophers cannot give their disciples the strength to conquer their passions, at least they should not seduce them nor persuade them that they have no enemies to fight. Things must be said as they are: pleasure is always a good, and pain always an evil; but it is not always advantageous to enjoy pleasure, and it is sometimes advantageous to suffer pain.
 
-3° Parce que, Dieu étant juste, il ne se peut faire qu’il ne
-punisse un jour la violence qu’on lui fait, lorsqu’on l’oblige de
-récompenser par le plaisir des actions criminelles que l’on
-commet contre lui. Lorsque notre âme ne sera plus unie à notre
-corps, Dieu n’aura plus l’obligation qu’il s’est imposée de nous
-donner les sentiments qui doivent répondre aux traces du 
-cerveau, et il aura toujours l’obligation de satisfaire à se justice ;
-ainsi ce sera le temps de sa vengeance et de sa colère. Alors,
-sans changer l’ordre de la nature, et demeurant toujours
-immuable dans sa première volonté, il punira par des douleurs
-qui ne finiront jamais les injustes plaisirs des voluptueux.
-4° Parce que la certitude que l’on a des cette vie qu’il faut que
-cette justice se fasse, agite l’esprit de mortelles inquiétudes, et le
-jette dans une espèce de désespoir qui rend les voluptueux
-misérables au milieu même des plus grands plaisirs.
-5° Parce qu’il y a presque toujours des remords fâcheux qui
-accompagnent les plaisirs les plus innocents, à cause que nous
-sommes assez convaincus que nous n’en méritons point ; et ces
-remords nous privent d’une certaine joie intérieure que l’on
-trouve même dans la douleur de la pénitence.
-Ainsi, quoique le plaisir soit un bien, il faut tomber d’accord
-qu’il n’est pas toujours avantageux de le goûter, par toutes ces
-raisons ; et par d’autres semblables qu’il est très-utile de savoir,
-et qu’il est très-facile de déduire de celles-ci, il est presque
-toujours très-avantageux de souffrir la douleur, quoiqu’elle soit
-effectivement un mal.
+But to make well understood what I mean to say, one must know:
 
-Néanmoins tout plaisir est un bien, et rend actuellement
-heureux celui qui le goûte, dans l’instant qu’il le goûte et autant
-qu’il le goûte ; et toute douleur est un mal et rend actuellement
-malheureux celui qui la souffre, dans l’instant qu’il la soutïre et
-autant qu’il la souffre. On peut dire que les justes et les saints
-sont en cette vie les plus malheureux de tous les hommes, et les
-plus dignes de compassion. Si in vita tantum in Christo
-speramus, miserabiliores sumus omníbus homíníbus
-[7]
-, dit saint
-Paul. Car ceux qui pleurent et qui souffrent persécution pour la
-justice, ne sont point heureux parce qu’ils souffrent pour la
-justice, mais parce que le royaume du ciel at à eux, et qu’une
-grande récompense leur est réservée dans le ciel, c’est-à-dire
-parce qu'ils seront quelque jour heureux. Ceux qui souffrent
-persécution pour la justice sont en cela justes, vertueux et
-parfaits, parce qu’ils sont dans l’ordre de Dieu, et que la
-perfection consiste à le suivre ; mais ils ne sont pas heureux à
-cause qu’ils souffrent. Un jour ils ne souffriront plus, et alors ils
-seront heureux aussi bien que justes et parfaits.
-Cependant je ne nie pas que des cette vie les justes ne soient
-heureux en quelque manière par la force de leur espérance et de
-leur foi, qui rendent ces biens futurs comme présents à leur
-esprit. Car il est certain que lorsque l’espérance de quelque bien
-est forte et vive, elle l’approche de l’esprit et le lui fait goûter ;
-ainsi elle le rend en quelque manière heureux, puisque c’est le
-goût du bien, la possession du bien, le plaisir qui nous rend
-heureux.
+1° That God alone is powerful enough to act in us and to make us feel pleasure and pain: for it is evident to every man who consults his reason and disregards the reports of his senses, that it is not the objects we feel that effectively act in us, since the body cannot act on the mind; and that it is not our soul either that causes in itself its pleasure and pain on their occasion, for if it depended on the soul to feel pain, it would never suffer it;
 
-Il ne faut donc pas dire aux hommes que les plaisirs sensibles
-ne sont point bons et qu’ils ne rendent point plus heureux ceux qui
-en jouissent ; puisque cela n’est pas vrai, et que dans le temps de
-la tentation ils le reconnaissent à leur malheur. Il leur faut dire
-que bien que ces plaisirs soient bons en eux-mêmes et capables
-de les rendre en quelque manière heureux, ils doivent néanmoins
-les éviter pour des raisons semblables à celles que j’ai
-apportées ; mais qu’ils-ne les peuvent point éviter par leurs
-propres forces. parce qu’ils désirent d’être heureux par une
-inclination qu’ils ne peuvent vaincre, et que ces plaisirs
-passagers qu’ils doivent éviter la contentent en quelque manière,
-et qu’ainsi ils sont dans une misérable nécessité de se perdre,
-536
-s’ils ne sont secourus par la délectation de la grâce qui contrebalance l’effort. continuel des plaisirs sensibles. Il leur faut dire
-ces choses, afin qu’ils connaissent distinctement leur faiblesse et
-le besoin qu’ils ont d’un libérateur.
+2° That ordinarily one should give some good only to cause some good action or to reward it; and one should ordinarily cause some evil to suffer only to turn one away from a wicked action or to punish it: and thus God always acting with order and according to the rules of justice, every pleasure in its institution leads us to some good action or rewards us for it; and every pain turns us away from some evil action or punishes us for it.
 
-Il faut parler aux hommes comme Jésus-Christ leur a parlé, et
-non pas comme les stoïciens, qui ne connaissaient ni la nature, ni
-la maladie de l’esprit humain. Il leur faut dire sans cesse qu’il
-faut en un sens se haïr et se mépriser soi-même, et qu’il ne faut
-point chercher ici-bas d’établissement et de bonheur ; qu’il faut
-tous les jours porter sa croix ou l’instrument de son supplice, et
-perdre présentement sa vie pour la conserver éternellement.
-Enfin il leur faut montrer qu’ils sont obligés de faire tout le
-contraire de ce qu’ils désirent, afin qu’ils sentent leur
-impuissance pour le bien. Car les hommes veulent invinciblement
-être heureux, et l’on ne peut être actuellement heureux si l’on ne
-fait ce qu’on veut. Peut-être que sentant leurs maux présents, et
-connaissant leurs maux futurs, ils s’humilieront sur la terre. Peutêtre qu'ils crieront vers le ciel, qu’ils chercheront un médiateur,
-qu’ils craindront les objets sensibles, et qu’ils auront une horreur
-salutaire pour tout ce qui flatte les sens et la concupiscence. Peutêtre qu’ils entreront ainsi dans cet esprit de prière et de pénitence
-si nécessaire pour obtenir la grâce, sans laquelle il n’y a point de
-force, point de santé, point de salut à espérer.
+3° That there are actions which are good in one sense and bad in another. It is, for example, a bad action to expose oneself to death when God forbids it; but it is also a good action to expose oneself to it when God commands it. For all our actions are good or bad only because God has commanded or forbidden them, either by the eternal law, which every reasonable man can consult by entering into himself; or by the written law, exposed to the senses of sensible and carnal man, who since the sin is not always in a state to consult reason.
 
-II. Nous sommes intérieurement convaincus que le plaisir est
-bon ; et cette conviction intérieure n’est point fausse, car le
-plaisir est effectivement bon. Nous sommes naturellement
-convaincus que le plaisir est le caractère du bien, et cette
-conviction naturelle est certainement vraie, car ce qui cause le
-plaisir est certainement très-bon et très-aimable. Mais nous ne
+Pleasure is always good, but that it is not always advantageous to taste it.
 
-sommes pas convaincus que les objets sensibles ni que notre âme
-même soient capables de produire en. nous du plaisir ; car il n’y
-a aucune raison de le croire, et il y en a mille pour ne le pas
-croire. Ainsi les objets sensibles ne sont point bons, ils ne sont
-point aimables. S’ils sont utiles à la conservation de la vie, nous
-en devons user ; mais comme ils ne sont pas capables d’agir en
-nous, nous ne les devons point aimer. L’âme ne doit aimer que ce
-qui lui est bon, que ce qui est capable de la rendre plus heureuse
-et plus parfaite. Elle ne doit donc aimer que ce qui est au-dessus
-d’elle, car il est évident qu’elle ne peut recevoir sa perfection
-que de ce qui est au-dessus d’elle.
 
-Mais parce que nous jugeons qu’une chose est cause de
-quelque effet lorsqu’elle l’accompagne toujours, nous nous
-imaginons que ce sont les objets sensibles qui agissent en nous, à
-cause qu’à leur approche nous avons de nouveaux sentiments, et
-que nous ne voyons point celui qui les cause véritablement en
-nous. Nous goûtons d’un fruit et en même temps nous sentons de
-la douceur ; nous attribuons donc cette douceur à ce fruit ; nous
-jugeons qu’il la cause et même qu’il la contient. Nous ne voyons
-point Dieu comme nous voyons et comme nous touchons ce fruit ;
-nous ne pensons pas même à lui, ni peut-être à nous. Ainsi nous
-ne jugeons pas que Dieu soit la véritable cause de cette douceur,
-ni que cette douceur soit une modification de notre âme ; nous
-attribuons et la cause et l’effet à ce fruit que nous mangeons.
-Ce que j’ai dit des sentiments qui ont rapport au corps se doit
-aussi entendre de ceux qui n’y ont point de rapport, comme sont
-ceux qui se rencontrent dans les pures intelligences.
-Un esprit se considère soi-même, il voit que rien ne manque à
-son bonheur et à sa perfection, ou bien il voit qu’il ne possède
-pas ce qu’il souhaite. A la vue de son bonheur il sent de la joie, à
-la vue de son malheur il sent de la tristesse. Il s’imagine aussitôt
-que c’est la vue de son bonheur qui produit en lui-même ce
-sentiment de joie, parce que ce sentiment accompagne toujours
-cette vue. Il s’imagine aussi que c’est la vue de son malheur qui
-produit en lui-même ce sentiment de tristesse, parce que ce
-sentiment suit cette vue. La véritable cause de ces sentiments, qui
-est Dieu seul, ne lui paraît pas ; il ne pense pas même à Dieu, car
-Dieu agit en nous sans que nous le sachions.
-Dieu nous récompense d’un sentiment de joie lorsque nous
-connaissons que nous sommes dans l’état où nous devons être,
-afin que nous y demeurions, que notre inquiétude cesse, et que
-nous goûtions pleinement notre bonheur sans laisser remplir la
-capacite de notre esprit d’aucune autre chose. Mais il produit en
-nous un sentiment de tristesse lorsque nous connaissons que nous
-ne sommes pas dans l’état où nous devons être, afin que nous n’y
-demeurions pas, et que nous cherchions avec inquiétude la
-perfection qui nous manque. Car Dieu nous pousse sans cesse
-vers le bien, lorsque nous connaissons que nous ne le possédons
-pas ; et il nous y arrête fortement lorsque nous voyons que nous le
-possédons pleinement. Ainsi il me semble évident que les
-sentiments de joie ou de tristesse intellectuelle, aussi bien que les
-sentiments de joie et de tristesse sensible, ne sont point des
-productions volontaires de l’esprit.
+1. Because instead of attaching us to Him who alone is capable of causing it, it detaches us from Him to unite us to what falsely seems to cause it; it detaches us from God to unite us to a vile creature. It is always advantageous to taste the pleasure that refers to the true cause and is the perception of it. For as one can love only what one perceives, this pleasure can excite only a just love, the love of the true cause of happiness. But it is at least very dangerous to taste pleasures that refer to sensible objects and are the perception of them; because these pleasures lead us to love what is not the cause of our present happiness. For although those enlightened by true philosophy sometimes think that pleasure is not caused by external objects, and this may in some manner lead them to recognize and love God in all things: nevertheless since the sin, man's reason is so weak, and his senses and imagination have so much power over his mind, that they soon corrupt his heart, when one does not deprive oneself, according to the counsel of the Gospel, of all things that do not lead to God by themselves; for the best philosophy cannot cure the mind nor resist the disorders of voluptuousness.
 
-Nous devons donc reconnaître sans cesse par la raison, cette
-main invisible qui nous comble de biens, et qui se cache à notre
-esprit sous les apparences sensibles. Nous devons l’adorer ; nous
-devons l’aimer ; mais nous devons aussi la craindre, puisque si
-elie nous comble de plaisirs, elle peut aussi nous accabler de douleurs. Nous devons l’aimer par un amour de choix, par un
-amour éclairé, par un amour digne de Dieu et digne de nous.
-Notre amour est digne de Dieu, lorsque nous l’aimons par la
-connaissance que nous avons qu’il est aimable ; et cet amour est
-digne de nous, parce qu’étant raisonnables, nous devons aimer ce
-que la raison nous fait connaître digne de notre amour. Mais nous
-aimons les choses sensibles par un amour indigne de nous et dont
-aussi elles sont indignes ; car étant raisonnables nous les aimons
-sans raison de les aimer, puisque nous ne connaissons point
-clairement qu’elles soient aimables, et que nous savons au
-contraire qu’elles ne le sont pas. Mais le plaisir nous séduit et
-nous les fait aimer, l’amour aveugle et déréglé du plaisir étant la
-véritable cause des faux jugements des hommes dans les sujets de
-morale.
+2° Because pleasure being a reward, it is an injustice to produce in one's body movements that oblige God, in consequence of His first will or the general laws of nature, to make us feel pleasure when we do not deserve it; either because the action we do is useless or criminal; or because, being full of sins, we should not ask Him for reward. Man before his sin could with justice taste sensible pleasures in his regulated actions; but since the sin there are no longer entirely innocent sensible pleasures, or which are not capable of wounding us when we taste them, for often it suffices to taste them to become their slave.
 
+3° Because God being just, it cannot be that He will not one day punish the violence done to Him, when one obliges Him to reward with pleasure criminal actions committed against Him. When our soul will no longer be united to our body, God will no longer have the obligation He imposed on Himself to give us the sensations that must correspond to the traces of the brain, and He will always have the obligation to satisfy His justice; thus that will be the time of His vengeance and His anger. Then, without changing the order of nature, and remaining always immutable in His first will, He will punish by pains that will never end the unjust pleasures of the voluptuous.
+
+4° Because the certainty that one has in this life that this justice must be done agitates the mind with mortal anxieties and throws it into a kind of despair that makes the voluptuous miserable even in the midst of the greatest pleasures.
+
+5° Because there are almost always troublesome remorse that accompany the most innocent pleasures, because we are sufficiently convinced that we do not deserve them; and these remorse deprive us of a certain inner joy that is found even in the pain of penitence.
+
+Thus, although pleasure is a good, one must agree that it is not always advantageous to taste it, for all these reasons; and by other similar reasons that are very useful to know and very easy to deduce from these, it is almost always very advantageous to suffer pain, although it is effectively an evil.
+
+
+Nevertheless every pleasure is a good, and makes happy in actuality the one who tastes it, in the instant he tastes it and to the extent he tastes it; and every pain is an evil and makes unhappy in actuality the one who suffers it, in the instant he suffers it and to the extent he suffers it. One can say that the just and the saints are in this life the unhappiest of all men, and the most worthy of compassion. *"If in this life only we have hope in Christ, we are of all men most miserable"* [7], says Saint Paul. For those who weep and suffer persecution for justice are not happy because they suffer for justice, but because the kingdom of heaven is theirs, and a great reward is reserved for them in heaven—that is, because they will one day be happy. Those who suffer persecution for justice are in this just, virtuous, and perfect, because they are in the order of God, and perfection consists in following Him; but they are not happy because they suffer. One day they will suffer no more, and then they will be happy as well as just and perfect.
+
+However I do not deny that in this life the just are not happy in some manner by the strength of their hope and faith, which make these future goods as if present to their minds. For it is certain that when the hope of some good is strong and vivid, it brings it near to the mind and makes it taste it; thus it makes them in some manner happy, since it is the taste of good, the possession of good, pleasure that makes us happy.
+
+
+
+One must not therefore say to men that sensible pleasures are not good and do not make happier those who enjoy them; since that is not true, and in the time of temptation they recognize it to their misfortune. One must tell them that although these pleasures are good in themselves and capable of making them in some manner happy, they must nevertheless avoid them for reasons similar to those I have given; but that they cannot avoid them by their own strength, because they desire to be happy by an inclination they cannot overcome, and these passing pleasures they must avoid satisfy it in some manner, and thus they are in a miserable necessity of losing themselves, if they are not helped by the delight of grace which counterbalances the continual effort of sensible pleasures. These things must be said to them, so that they may distinctly know their weakness and their need of a liberator.
+
+We must speak to men as Jesus Christ spoke to them, and not as the Stoics, who knew neither the nature nor the disease of the human mind. We must tell them without ceasing that in one sense one must hate and despise oneself, and that one must not seek here below establishment and happiness; that one must every day carry one's cross or the instrument of one's torture, and lose one's life now to preserve it eternally. Finally we must show them that they are obliged to do the contrary of what they desire, so that they may feel their impotence for good. For men invincibly desire to be happy, and one cannot be actually happy if one does not do what one wants. Perhaps feeling their present evils and knowing their future evils, they will humble themselves on earth. Perhaps they will cry toward heaven, they will seek a mediator, they will fear sensible objects, and they will have a salutary horror for all that flatters the senses and concupiscence. Perhaps they will thus enter into that spirit of prayer and penitence so necessary to obtain grace, without which there is no strength, no health, no salvation to hope for.
+
+
+
+## It must not lead us to love sensible goods
+
+We are inwardly convinced that pleasure is good; and this inner conviction is not false, for pleasure is effectively good. We are naturally convinced that pleasure is the character of good, and this natural conviction is certainly true, for what causes pleasure is certainly very good and very lovable. 
+
+But we are not convinced that sensible objects nor even our soul itself are capable of producing pleasure in us; for there is no reason to believe it, and there are a thousand reasons not to believe it. Thus sensible objects are not good, they are not lovable. If they are useful for the preservation of life, we must use them; but as they are not capable of acting in us, we must not love them. The soul should love only what is good for it, what is capable of making it happier and more perfect. It should therefore love only what is above it, for it is evident that it can receive its perfection only from what is above it.
+
+But because we judge that a thing is the cause of some effect when it always accompanies it, we imagine that it is sensible objects that act in us, because at their approach we have new sensations, and we do not see the one who truly causes them in us. We taste a fruit and at the same time we feel sweetness; we attribute this sweetness to this fruit; we judge that it causes it and even that it contains it. We do not see God as we see and touch this fruit; we do not even think of Him, nor perhaps of ourselves. Thus we do not judge that God is the true cause of this sweetness, nor that this sweetness is a modification of our soul; we attribute both cause and effect to this fruit we eat.
+
+What I have said of sensations that relate to the body must also be understood of those that have no relation to it, such as those found in pure intelligences.
+
+A mind considers itself; it sees that nothing is lacking to its happiness and its perfection, or it sees that it does not possess what it wishes. At the sight of its happiness it feels joy; at the sight of its unhappiness it feels sadness. It immediately imagines that it is the sight of its happiness that produces in itself this feeling of joy, because this feeling always accompanies this sight. It also imagines that it is the sight of its unhappiness that produces in itself this feeling of sadness, because this feeling follows this sight. The true cause of these feelings, which is God alone, does not appear to it; it does not even think of God, for God acts in us without our knowing it.
+
+God rewards us with a feeling of joy when we know that we are in the state we should be in, so that we remain there, that our anxiety ceases, and that we fully taste our happiness without letting the capacity of our mind be filled with any other thing. But He produces in us a feeling of sadness when we know that we are not in the state we should be in, so that we do not remain there, and that we seek with anxiety the perfection we lack. For God drives us unceasingly toward good when we know that we do not possess it; and He holds us there firmly when we see that we fully possess it. Thus it seems evident to me that the feelings of intellectual joy or sadness, as well as the feelings of sensible joy and sadness, are not voluntary productions of the mind.
+
+
+
+We must therefore recognize unceasingly by reason this invisible hand that fills us with goods and hides itself from our mind under sensible appearances. We must adore it; we must love it; but we must also fear it, since if it fills us with pleasures, it can also overwhelm us with pains. We must love it with a love of choice, with an enlightened love, with a love worthy of God and worthy of us. Our love is worthy of God when we love Him by the knowledge we have that He is lovable; and this love is worthy of us, because being reasonable, we must love what reason makes us know worthy of our love. But we love sensible things with a love unworthy of us and of which they are also unworthy; for being reasonable we love them without reason for loving them, since we do not clearly know that they are lovable, and we know on the contrary that they are not. But pleasure seduces us and makes us love them, the blind and disordered love of pleasure being the true cause of men's false judgments in moral subjects.

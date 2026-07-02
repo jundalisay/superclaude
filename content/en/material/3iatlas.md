@@ -19,9 +19,8 @@ Descartes' comprehensive system came first and held sway for decades.
 
 Yet, it was the appearance of Halley's Comet that tipped the scales decisively toward Newton.
 
-
-
 Fast-forward to today, however, and the discovery of interstellar comets like the recently observed 3I/ATLAS suggests that Descartes might yet have the final word in this cosmic debate.
+
 
 ## The Dominance of Descartes' Vortex Theory
 
@@ -83,32 +82,37 @@ These cosmic interlopers originate from other star systems, ejected by gravitati
 
 Another non-orbiting comet which was recently discovered on July 1, 2025 is Comet 3I/ATLAS.
 
- Detected , by the Asteroid Terrestrial-impact Last Alert System (ATLAS), this comet made its closest approach to Earth on December 19, 2025, at a safe distance of  about 170 million miles. Its trajectory is hyperbolic with an eccentricity of approximately 6.14, giving it a near-linear path through our system.
+ <!-- Detected , by the Asteroid Terrestrial-impact Last Alert System (ATLAS), this comet made its closest approach to Earth on December 19, 2025, at a safe distance of  about 170 million miles. Its trajectory is hyperbolic with an eccentricity of approximately 6.14, giving it a near-linear path through our system. -->
 
 The motion of 3I/ATLAS goes against the solar system's revolution.
-- This validates Descartes which vortex model which says that comet motion comes from the vortex rotation of the solar system where it is or where it came from. 
-- The solar system next to the sun rotates in the opposite direction of the sun -- this matches its:
-  - orbital inclination of 175 degrees 
-  - opposing movement
 
-<!-- of 3I/Atlas 
+This validates Descartes which vortex model which says that comet motion comes from the vortex rotation of the solar system where it is or where it came from. 
 
-is exactly what 
+The solar system next to the sun rotates in the opposite direction of the sun -- this matches its:
+- orbital inclination of 175 degrees 
+- opposing movement
 
-  —is its motion  With an , it travels in a retrograde direction, opposite to the prograde orbits of most planets and comets. In Descartes' , the solar system is a unified swirl carrying bodies in one direction. An interstellar comet, originating outside this vortex, could plunge through it counter to the flow, much like a fish swimming upstream in a river eddy. This contrasts with Newton's gravity, which treats all motions uniformly but doesn't inherently predict such directional defiance without additional context.
+<!--  —is its motion  With an , it travels in a retrograde direction, opposite to the prograde orbits of most planets and comets. In Descartes' , the solar system is a unified swirl carrying bodies in one direction. An interstellar comet, originating outside this vortex, could plunge through it counter to the flow, much like a fish swimming upstream in a river eddy. This contrasts with Newton's gravity, which treats all motions uniformly but doesn't inherently predict such directional defiance without additional context.
 
 Observations of 3I/ATLAS by NASA's Parker Solar Probe and Europa Clipper have revealed anomalies, including extreme negative polarization in its light scattering, hinting at unique surface properties or dynamics. While mainstream physicists explain these with Newtonian mechanics, the comet's behavior has perplexed some, echoing the challenges vortices posed to elliptical orbits centuries ago.
-
  -->
 
 
 <!-- If Descartes' system had accounted for these rare interstellar visitors—objects not bound to the solar vortex but interacting with it transiently—it might have withstood the Newtonian onslaught. Interstellar comets are far rarer than their intrastellar counterparts, which is why it took until the 21st century (and now 2025) to observe enough to test the theory. -->
+
+
+{{< youtube QeSflWEoNo0 >}}
+
+
 
 ## Newton Won the Battle, but Descartes' Will Win the War
 
 In the end, Newton won the battle with Halley's Comet, cementing gravity as the cornerstone of physics. 
 
 But as we discover more interstellar comets like 3I/ATLAS, Descartes' vortices offer a more solid system to explain phenomena beyond our solar system. 
+
+This will then validate vortex theory beyond doubt which will then be the basis for new technologies such as nuclear fusion where vortices will get rid of the plasma turbulence that prevents fusion sustainability.
+
 
 <!--  fresh lens for understanding these extraterrestrial nomads. Their linear, counter-revolutionary paths challenge the universality of Newtonian orbits, suggesting that Descartes' mechanics might describe interstellar dynamics where Newton's falls short.
 

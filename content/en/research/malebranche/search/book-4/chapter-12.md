@@ -1,6 +1,6 @@
 ---
 heading: Chapter 12
-title: "The Rules"
+title: "The Effects that the Thought of Future Goods and Evils is Capable of Producing in the Mind"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,201 +9,33 @@ date: 2026-06-20
 ---
 
 
+If it often happens that small pleasures and slight pains, which one feels at present or even expects to feel, strangely confuse our imagination and prevent us from judging things according to their true ideas, one must not imagine that the expectation of eternity does not act upon our mind; but it is appropriate to consider what it is capable of producing there.
 
-Des effets que la pensée des biens et des maux futurs est capable de produire dans
-l’esprit.
+One must first note that the hope of an eternity of pleasures does not act so strongly on minds as the fear of an eternity of torments. The reason is that men do not love pleasure as much as they hate pain. Moreover, by the inner feeling they have of their disorders, they know that they are worthy of hell, and they see nothing in themselves that merits rewards as great as that of participating in the very felicity of God. They feel, when they wish to, and even often when they do not wish to, that far from meriting these rewards, they are worthy of the greatest punishments; for their conscience never leaves them. But they are not similarly incessantly convinced that God wishes to show His mercy upon sinners after having made His justice shine forth against His son. Thus even the just apprehend more vividly the eternity of torments than they hope for the eternity of pleasures. The view of punishment therefore acts more than the view of reward; and here is approximately what it is capable of producing, not by itself alone, but as principal cause.
 
-S’il arrive souvent que de petits plaisirs et de légères
-douleurs, que l’on sent actuellement ou même que l’on s’attend
-de sentir, nous brouillent étrangement l’imagination et nous
-empêchent de juger des choses selon leurs véritables idées, il ne
-faut pas s’imaginer que l’attente de l’éternité n’agisse point sur
-notre esprit ; mais il est à propos de considérer ce qu’elle est
-capable d’y produire.
+It gives birth in the mind to an infinity of scruples, and fortifies them to such an extent that it is almost impossible to be delivered from them. It extends, so to speak, faith even to prejudices, and makes one render to imaginary powers the worship due only to God. It stubbornly arrests the mind in vain or dangerous superstitions. It makes one embrace with ardor and zeal human traditions and practices useless for salvation, Jewish and Pharisaical devotions that servile fear has invented. Finally it sometimes throws men into a blindness of despair; so that, confusedly regarding death as nothingness, they brutally hasten to lose themselves, in order to deliver themselves from the mortal anxieties that agitate and frighten them. Women, young people, weak minds are most subject to scruples and superstitions, and men are most capable of despair.
 
-Il faut d’abord remarquer que l'espérance d’une éternité de
-plaisirs n’agit pas si fort sur les esprits que la crainte d’une
-éternité de tourments. La raison en est que les hommes n’aiment
-pas tant le plaisir qu’ils haïssent la douleur. De plus, par le
-sentiment intérieur qu’ils ont de leurs désordres, ils savent qu’ils
-sont dignes de l’enfer, et ils ne voient rien dans eux-mêmes qui
-mérite des récompenses aussi grandes que celle de participer à la
-félicité de Dieu même. Ils sentent lorsqu’ils le veulent, et même
-souvent lorsqu’ils ne le veulent pas, que, loin de mériter ces
-récompenses, ils sont dignes des plus grands châtiments ; car leur
-conscience ne les quitte jamais. Mais ils ne sont pas de même
-incessamment convaincus que Dieu veut faire paraître sa
-miséricorde sur des pécheurs après avoir fait éclater sa justice
-contre son fils. Ainsi, les justes mêmes appréhendent plus
-vivement l’éternité des tourments qu’ils n’espèrent l’éternité des
-plaisirs. La vue de la peine agit donc davantage que la vue de la
-récompense ; et voici à peu près ce qu’elle est capable de
-produire, non pas toute seule, mais comme cause principale.
-Elle fait naître dans l’esprit une infinité de scrupules, et les fortifie de telle sorte qu’il est presque impossible de s’en
-délivrer. Elle étend pour ainsi dire la foi jusques aux préjugés, et
-fait rendre le culte qui n’est dû qu’à Dieu à des puissances
-imaginaires. Elle arrête opiniâtrement l’esprit à des superstitions
-vaines ou dangereuses. Elle fait embrasser avec ardeur et avec
-zèle des traditions humaines et des pratiques inutiles pour le
-salut, des dévotions juives et pharisaïques que la crainte servile
-a inventées. Enfin elle jette quelquefois les hommes dans un
-aveuglement de désespoir ; de sorte que, regardant confusément
-la mort comme le néant, ils se hâtent brutalement de se perdre,
-afin de se délivrer des inquiétudes mortelles qui les agitent et qui
-les effraient. Les femmes, les jeunes gens, les esprits faibles sont
-les plus sujets aux scrupules et aux superstitions, et les hommes
-sont les plus capables de désespoir.
+It is easy to recognize the reasons for all these things; for it is visible that the idea of eternity being the greatest, the most terrible and the most frightening of all those that astonish the mind and strike the imagination, it is necessary that it be accompanied by a great train of accessory ideas, which all make a considerable effect on the mind, because of the relation they have to this great and terrible idea of eternity.
 
-Il est facile de reconnaître les raisons de toutes ces choses ;
-car il est visible que l’idée de l’éternité étant la plus grande, la
-plus terrible et la plus effrayante de toutes celles qui étonnent
-l’esprit et qui frappent l’imagination, il est nécessaire qu’elle
-soit accompagnée d’une grande suite d’idées accessoires,
-lesquelles fassent toutes un effet considérable sur l’esprit, à
-cause du rapport qu’elles ont à cette grande et terrible idée de
-l’éternité.
+Everything that has some relation to the infinite is not small; or, if it is small in itself, it receives by this relation a greatness that has no bounds, and which cannot be compared with anything finite. Thus, everything that has some relation, or even that one imagines to have some relation, to this necessary alternative of an eternity of torments or an eternity of delights that is proposed to us, necessarily frightens all minds that are capable of some reflection and some feeling.
 
-Tout ce qui a quelque rapport à l’infini n’est point petit ; ou,
-s’il est petit en lui-même, il reçoit, par ce rapport, une grandeur
-qui n’a point de bornes, et qui ne se peut comparer avec tout ce
-qui est fini. Ainsi, tout ce qui a quelque rapport, ou même que
-l’on s’imagine avoir quelque rapport à cette alternative
-nécessaire d’une éternité de tourments ou d’une éternité de
-délices qui nous est proposée, effraie par nécessité tous les esprits qui sont capables de quelque réflexion et de quelque
-sentiment.
+Women, young people and weak minds, having, as I have already said elsewhere, the fibers of the brain soft and flexible, receive very deep traces of this alternative; and, when they have abundance of spirits and are more capable of feeling than of just reflection, they receive, by the vivacity of their imagination, a very great number of false traces and false accessory ideas that have no natural relation to the principal idea. However this relation, although imaginary, nevertheless sustains and fortifies these false traces and these false accessory ideas to which it has given birth.
 
-Les femmes, les jeunes gens et les esprits faibles, ayant,
-comme j’ai déjà dit ailleurs, les fibres du cerveau molles et
-flexibles, reçoivent des vestiges très-profonds de cette
-alternative ; et, lorsqu’ils ont abondance d’esprits et qu’ils sont
-plus capables de sentiment que de juste réflexion, ils reçoivent,
-par la vivacité de leur imagination, un très-grand nombre de faux
-vestiges et de fausses idées accessoires qui n’ont point de
-rapport naturel avec l’idée principale. Cependant ce rapport,
-quoique imaginaire, ne laisse pas d’entretenir et de fortifier ces
-faux vestiges et ces fausses idées acœssoires auxquelles il a
-donné la naissance.
+When litigants have a great affair that occupies them entirely and they do not understand the lawsuit, they often have vain fears, because they fear that certain things may harm them, to which the judges pay no attention and which professionals do not apprehend. The affair is of such great consequence for them that the shock it produces in their brain spreads and communicates itself to distant traces that have no natural relation to it. It is the same with the scrupulous; they make for themselves, without reason, subjects of fear and anxiety. Instead of examining the will of God in the holy scriptures, and relying on those whose imagination is not wounded, they think incessantly of an imaginary law that disordered movements of fear engrave in their brain. And although they are inwardly convinced of their weakness and that God does not demand of them certain duties they prescribe for themselves, since they prevent them from serving Him, they cannot help preferring their imagination to their mind, and yielding rather to certain confused feelings that frighten them and make them fall into error, than to the evidence of reason which reassures them and puts them back on the true path of their salvation.
 
-Lorsque des plaideurs ont une grande affaire qui les occupe
-tout entiers et qu’ils n’entendent point le procès, ils ont souvent
-de vaines frayeurs, parce qu’ils craignent que de certaines choses
-leur nuisent, auxquelles les juges n’ont aucun égard et que les
-gens du métier n’appréhendent point. L’affaire est de si grande
-conséquence pour eux que l’ébranlement qu’elle produit dans
-leur cerveau se répand et se communique à des traces éloignées
-qui n’y ont point naturellement de rapport. Il en est de même des
-scrupuleux ; ils se font sans raison des sujets de crainte et
-d’inquiétude. Au lieu d’examiner la volonté de Dieu dans les
-saintes écritures. et de s’en rapporter à ceux dont l’imagination
-n’est point blessée, ils pensent incessamment à une loi imaginaire
-que des mouvements déréglés de crainte gravent dans leur
-cerveau. Et quoiqu’ils soient intérieurement convaincus de leur
-faiblesse et que Dieu ne leur demande point certains devoirs
-qu’ils se prescrivent, puisqu’ils les empêchent de le servir, ils ne peuvent s’empêcher de préférer leur imagination à leur esprit, et
-de se rendre plutôt à de certains sentiments confus qui les
-effraient et qui les font tomber dans l’erreur, qu’à l’évidence de
-la raison qui les rassure et qui les remet dans le vrai chemin de
-leur salut.
+There is often much virtue and charity in persons afflicted with scruples; but there is much less in those who are attached to some superstitions and who make their principal occupation some Jewish and Pharisaical practices. God wishes to be adored in spirit and in truth; He is not content with grimaces and exterior civilities, with kneeling in His presence and praising Him by a movement of the lips in which the heart has no part. Men are content with these marks of respect only because they do not penetrate the heart; for even men are unjust enough to wish to be adored in spirit and in truth. God therefore demands our mind and our heart: He has made them only for Himself and He preserves them only for Himself. But there are many people who, unfortunately for themselves, refuse Him the things upon which He has all kinds of rights. They have idols in their heart, which they adore in spirit and in truth, and to which they sacrifice all that they are.
 
-Il se trouve souvent beaucoup de vertu et de charité dans les
-personnes affligées de scrupules ; mais il y en a beaucoup moins
-dans ceux qui sont attachés à quelques superstitions et qui font
-leur principale occupation de quelques pratiques juives et
-pharisaïques. Dieu veut être adoré en esprit et en vérité ; il ne se
-contente pas de grimaces et de civilités extérieures, qu’on se
-mette à genoux en sa présence et qu’on le loue par un mouvement
-des lèvres auquel le cœur n’ait point de part. Les hommes ne se
-contentent de ces marques de respect que parce qu’ils ne
-pénètrent point le cœur ; car les hommes mêmes sont assez
-injustes pour vouloir être adorés en esprit et en vérité. Dieu
-demande donc notre esprit et notre cœur : il ne l’a fait que pour
-lui et il ne le conserve que pour lui. Mais il y a bien des gens qui,
-malheureusement pour eux, lui refusent les choses sur lesquelles
-il a toutes sortes de droits. Ils ont des idoles dans leur cœur,
-qu’ils adorent en esprit et en vérité, et auxquelles ils sacrifient
-tout ce qu’íls sont.
+But, because the true God threatens them, in the secret of their conscience, with an eternity of torments, to punish the excess of their ingratitude, and that, however, they do not wish to abandon their idolatry, they think of doing exteriorly some good works: they fast, like others; they give alms; they say prayers. They continue some time in such exercises, and, because they are painful to those who lack charity, they ordinarily leave them to embrace certain easy little practices or devotions, which, agreeing with self-love, necessarily overturn, but in an imperceptible manner, the whole morality of Jesus Christ. They are faithful, ardent and zealous defenders of these human traditions, which ill-informed persons persuade them are very useful, and which the idea of eternity, which frightens them, incessantly represents to them as absolutely necessary for their salvation.
 
-Mais, parce que le vrai Dieu les menace, dans le secret de leur
-conscience, d’une éternité de tourments, pour punir l’excès de
-leur ingratitude, et que, cependant, ils ne veulent point quitter leur
-idolâtrie, ils s’avisent de faire extérieurement quelques bonnes
-œuvres : ils jeûnent, comme les autres ; ils font des aumônes ; ils
-disent des prières. Ils continuent quelque temps de pareils
-exercices, et, parce qu’ils sont pénibles à ceux qui manquent de charité, ils les quittent d’ordinaire pour embrasser certaines
-petites pratiques ou dévotions aisées, qui, s’accordant avec
-l’amour-propre, renversent nécessairement, mais d’une manière
-insensible, toute la morale de Jésus-Christ. Ils sont fidèles,
-ardents et zélés défenseurs de ces traditions humaines, que des
-personnes peu éclairées leur persuadent être très-utiles, et que
-l’idée de l’éternité, qui les effraie, leur représente sans cesse
-comme absolument nécessaires à leur salut.
+It is not the same with the just. They hear, like the impious, the threats of their God; but the confused noise of their passions does not prevent them from hearing the counsels. The false glimmers of human traditions do not dazzle them to the point of not feeling the light of truth. They place their confidence in the promises of Jesus Christ, and they follow His counsels; for they know that the promises of men are as vain as their counsels. Nevertheless, one can say that this fear that the idea of eternity gives birth to in their minds sometimes produces so great a shock in their imagination, that they do not dare entirely condemn these human traditions, and that often they approve them by their example, because they have some appearance of wisdom in their superstition and their false humility, like those Pharisaical traditions of which St. Paul speaks [11].
 
-Il n’en est pas de même des justes. Ils entendent, comme les
-impies, les menaces de leur Dieu ; mais le bruit confus de leurs
-passions ne les empêche pas d’en entendre les conseils. Les
-fausses lueurs des traditions humaines ne les éblouissant pas
-jusques à ne point sentir la lumière de la vérité. Ils mettent leur
-confiance dans les promesses de Jésus-Christ, et ils suivent ses
-conseils ; car ils savent que les promesses des hommes sont aussi
-vaines que leurs conseils. Néanmoins, on peut dire que cette
-crainte que l’idée de l’éternité fait naître dans leurs esprits
-produit quelquefois un si grand ébranlement dans leur
-imagination, qu’ils n’osent tout à fait condamner ces traditions
-humaines, et que souvent ils les approuvent par leur exemple,
-parce qu’elles ont quelque apparence de sagesse dans leur
-superstition et dans leur fausse humilité, comme ces traditions
-pharisaïques dont parle saint Paul
-[11]
-.
-Mais ce qui est principalement ici digne de considération, et
-qui ne regarde pas tant le dérèglement des mœurs que celui de
-l’esprit, c’est que la crainte dont nous venons de parler étend
-assez souvent la foi aussi bien que le zèle de ceux qui en sont
-frappés jusqu’à des choses fausses ou indignes de la sainteté de
-notre religion. Il y a bien des gens qui croient, mais d’une foi constante et opiniâtre, que la terre est immobile au centre du
-monde ; que les animaux sentent une véritable douleur ; que les
-qualités sensibles sont répandues sur les objets ; qu’il y a des
-formes ou des accidents réels distingués de la matière, et une
-infinité de semblables opinions fausses ou incertaines, parce
-qu’ils se sont imaginé que ce serait aller contre la foi que de le
-nier. Ils sont effrayés par les expressions de l’Écriture sainte, qui
-parle pour se faire entendre, et qui, par conséquent, se sert des
-manières ordinaires de parler, sans dessein de nous instruire de
-la physique. Ils croient non-seulement ce que l’esprit de Dieu
-veut leur apprendre, mais encore toutes les opinions des juifs. Ils
-ne voient pas que Josué, par exemple. parle devant ses soldats
-comme Copernic même, Galilée et Descartes parleraient au
-commun des hommes, et que, quand même il aurait été dans le
-sentiment de ces derniers philosophes, il n’aurait point
-commandé à la terre qu’elle s’arrêtât, puisqu’il n’aurait point fait
-voir à son armée, par des paroles que l’on n’eût point entendues,
-le miracle que Dieu faisait pour son peuple. Ceux qui croient que
-le soleil est immobile ne disent-ils pas à leurs valets, à leurs
-amis, à ceux même qui sont de leur sentiment. que le soleil se
-leve ou qu’il se couche ? s’avisent-ils de parler autrement que
-tous les autres hommes dans le temps que leur principal dessein
-n’est pas de philosopher ? Josué savait-il parfaitement
-l’astronomie ? ou, s’il la savait, ses soldats la savaient-ils ? ou,
-si lui et ses soldats en étaient bien instruits, peut-on dire qu’ils
-voulaient philosopher dans le temps qu’ils ne pensaient qu’a
-combattre ? Josué devait donc parler comme il a fait, quand luimême et ses soldats auraient cru ce que croient présentement les
-plus habiles astronomes. Cependant ces paroles de ce
-grand’capitaine : Arrête-toi, soleil, auprès de Gabaon, et ce qui est dit ensuite, que le soleil s’arrêta selon son commandement,
-persuadent bien des gens que l’opinion du mouvement de la terre
-est une opinion non-seulement dangereuse, mais même
-absolument hérétique et insoutenable. Ils ont ouï dire que
-quelques personnes de piété, pour lesquelles il est juste d’avoir
-beaucoup de respect et de déférence, condamnaient ce sentiment :
-ils savent confusément quelque chose de ce qui est arrivé pour ce
-sujet à un savant astronome de notre siècle, et cela leur semble
-suffisant pour croire opiniâtrement que la foi s’étend jusqu’à
-cette opinion. Un certain sentiment confus, excité et entretenu par
-un mouvement de crainte, duquel même ils ne s’aperçoivent
-presque pas, les fait entrer en défiance contre ceux qui suivent la
-raison dans ces choses, qui sont du ressort de la raison. Ils les
-regardent comme des hérétiques ; ce n’est qu’avec inquiétude et
-quelque peine d’esprit qu’ils les écoutent, et leurs appréhensions
-secrètes l’ont naître dans leurs esprits les mêmes respects et les
-mêmes soumissions pour ces opinions et pour beaucoup d’autres
-de pure philosophie que pour les vérités qui sont I’objet de la
-foi.
+
+But what is principally worthy of consideration here, and which concerns not so much the disorder of morals as that of the mind, is that the fear of which we have just spoken extends faith as well as zeal of those who are struck by it quite often to false things or things unworthy of the sanctity of our religion. There are many people who believe, but with a constant and obstinate faith, that the earth is immobile at the center of the world; that animals feel true pain; that sensible qualities are spread upon objects; that there are forms or real accidents distinct from matter, and an infinity of similar false or uncertain opinions, because they have imagined that it would be to go against faith to deny them. 
+
+They are frightened by the expressions of Holy Scripture, which speaks to make itself understood, and which consequently uses ordinary ways of speaking, without intending to instruct us in physics. They believe not only what the Spirit of God wishes to teach them, but also all the opinions of the Jews. They do not see that Joshua, for example, speaks before his soldiers as Copernicus himself, Galileo and Descartes would speak to common men, and that even if he had been of the opinion of these latter philosophers, he would not have commanded the earth to stop, since he would not have shown his army, by words that would not have been understood, the miracle that God was performing for his people. 
+
+Do not those who believe that the sun is immobile say to their servants, to their friends, even to those who are of their opinion, that the sun rises or sets? Do they think of speaking otherwise than all other men at a time when their principal design is not to philosophize? Did Joshua perfectly know astronomy? Or, if he knew it, did his soldiers know it? Or, if he and his soldiers were well instructed in it, can one say that they wished to philosophize at a time when they thought only of fighting? Joshua must therefore have spoken as he did, even if he and his soldiers had believed what the most skillful astronomers presently believe. However these words of that great captain: *"Sun, stand still upon Gibeon,"* and what is said afterward, that the sun stopped according to his command, persuade many people that the opinion of the earth's movement is an opinion not only dangerous, but even absolutely heretical and untenable. 
+
+They have heard say that some pious persons, for whom it is just to have much respect and deference, condemned this opinion: they know confusedly something of what happened on this subject to a learned astronomer of our century, and that seems sufficient to them to believe obstinately that faith extends even to this opinion. 
+
+A certain confused feeling, excited and sustained by a movement of fear, of which they are hardly even aware, makes them enter into distrust against those who follow reason in these things, which are within the province of reason. They regard them as heretics; it is only with uneasiness and some pain of mind that they listen to them, and their secret apprehensions give birth in their minds to the same respects and the same submissions for these opinions and for many other purely philosophical ones as for the truths that are the object of faith.

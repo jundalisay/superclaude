@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11
-title: "The Rules"
+title: "On the Love of Pleasure in Relation to Speculative Sciences"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,705 +10,96 @@ date: 2026-06-20
 
 
 
+The inclination we have for sensible pleasures, being ill-regulated, is not only the origin of the dangerous errors into which we fall in moral subjects and the general cause of the disorder of our morals; it is also one of the principal causes of the disorder of our mind, and it imperceptibly engages us in very gross but less dangerous errors on purely speculative subjects; because this inclination prevents us from bringing to things that do not affect us enough attention to understand them and to judge them well.
 
-De l’amour du plaisir par rapport aux sciences spéculatives. — I. Comment il nous
-empêche de découvrir la vérité. — II. Quelques exemples.
-L’inclination que nous avons pour les plaisirs sensibles étant
-mal réglée, n’est pas seulement l’origine des erreurs dangereuses
-où nous tombons dans les sujets de morale et la cause générale du
-dérèglement de nos mœurs ; elle est aussi une des principales
-causes du dérèglement de notre esprit, et elle nous engage
-insensiblement dans des erreurs très-grossières mais moins
-dangereuses sur des sujets purement spéculatifs ; parce que cette
-inclination nous empêche d’apporter aux choses qui ne nous
-touchent pas, assez d’attention pour les comprendre et pour en
-bien juger.
+We have already spoken in several places of the difficulty men find in applying themselves to somewhat abstract subjects, because the matter then being treated required it. We spoke of it towards the end of the first book, showing that sensible ideas touching the soul more than pure ideas of the mind, it often applies itself more to manners than to things themselves. We spoke of it in the second, because, treating of the delicacy of the fibers of the brain, we showed there whence came the softness of certain effeminate minds. Finally we spoke of it in the third, in speaking of the attention of the mind, when it was necessary to show that our soul is scarcely attentive to purely speculative things, but much more to those that touch it and make it feel pleasure or pain.
 
-On a déjà parlé en plusieurs endroits de la difficulté que les
-hommes trouvent à s’appliquer à des sujets un peu abstraits,
-parce que la matière dont on traitait alors le demandait ainsi. On
-en a parlé vers la fin du premier livre, en montrant que les idées
-sensibles touchant plus l’âme que les idées pures de l’esprit, elle
-s’appliquait souvent davantage aux manières qu’aux choses
-mêmes. On en a parlé dans le second, parce que, traitant de la
-délicatesse des fibres du cerveau, on y faisait voir d’où venait la
-mollesse de certains esprits efféminés. Enfin on en a parlé dans
-le troisième, en parlant de l’attention de l’esprit, lorsqu’il a fallu
-montrer que notre âme n’était guère attentive aux choses purement
-spéculatives, mais beaucoup plus à celles qui la touchent et qui
-lui font sentir du plaisir ou de la douleur.
-Nos erreurs ont presque toujours plusieurs causes, qui
-contribuent toutes à leur naissance ; de sorte qu’il ne faut pas
-s’imaginer que ce soit faute d’ordre que l’on répète quelquefois
-presque les mêmes choses, et que l’on donne plusieurs causes
-des mêmes erreurs ; c’est qu’en effet il y en a plusieurs. Je ne
-parle pas des causes réelles, car nous avons dit souvent qu’il n’y
-en avait point d’autre réelle et véritable que le mauvais usage de
-notre liberté, de laquelle nous n’usons pas bien en cela seul que
-nous n’en usons pas toujours autant que nous le pouvons, ainsi
-que nous avons expliqué dès le commencement de cet ouvrage
-[8]
-.
-On ne doit donc pas trouver à redire si, pour faire pleinement
-concevoir comment par exemple les manières sensibles dont on
-couvre les choses nous surprennent et nous font tomber dans
-l’erreur, on a été obligé de dire par avance dans les autres livres
-que nous avions inclination pour les plaisirs, ce qu’il semble
-qu’on devait remettre à celui-ci, qui traite des inclinations naturelles ; et ainsi de quelques autres choses dans d’autres
-endroits. Tout le mal qui en arrivera, c’est que l’on n’aura pas
-besoin de dire ici beaucoup de choses que l’on serait obligé
-d’expliquer si on ne l’avait pas fait ailleurs.
+Our errors almost always have several causes, which all contribute to their birth; so that one must not imagine that it is for lack of order that one sometimes repeats almost the same things, and that one gives several causes for the same errors; it is that in effect there are several. I do not speak of real causes, for we have often said that there is no other real and true one than the misuse of our liberty, which we do not use well in this alone that we do not always use it as much as we can, as we explained at the beginning of this work [8].
 
-Tout ce qui est dans l’homme est si fort dépendant l’un de
-l’autre, qu’on se trouve souvent comme accablé sous le nombre
-des choses qu’il faut dire dans le même temps pour expliquer à
-fond ce que l’on conçoit. On se trouve quelquefois obligé de ne
-point séparer les choses qui sont jointes par la nature les unes
-avec les autres, et d’aller contre l’ordre qu’on s’est prescrit,
-lorsque cet ordre n’apporte que de la confusion, comme il arrive
-nécessairement en quelques rencontres. Cependant avec tout cela
-il n’est jamais possible de faire sentir aux autres tout ce qu’on
-pense. Ce que l’on doit prétendre pour l’ordinaire, c’est de
-mettre les lecteurs en état de découvrir tout seuls, avec plaisir et
-facilité, ce que l’on a découvert soi-même avec beaucoup de
-peine et de fatigue. Et parce qu’on ne peut rien découvrir sans
-attention, l’on doit principalement s’étudier aux moyens de
-rendre les autres attentifs. C’est ce qu’on a tâché de faire,
-quoique l’on reconnaisse l’avoir assez mal exécute ; et l’on
-avoue sa faute d’autant plus volontiers, que l’aveu qu’on en fait
-doit exciter ceux qui liront ceci à se rendre attentifs par euxmêmes pour y remédier, et pour pénétrer à fond des sujets qui
-méritent sans doute d’être pénétrés.
-Les erreurs où nous jette l’inclination que nous avons pour les
-plaisirs, et généralement pour tout ce qui nous touche, sont
-infinies ; parce que cette inclination dissipe la vue de l’esprit,
-qu’elle l’applique sans cesse aux idées confuses des sens et de
-l’imagination, et qu’elle nous porte à juger de toutes choses avec précipitation par le seul rapport qu’elles ont avec nous.
+One should not therefore find fault if, to make one fully conceive how, for example, the sensible manners with which one covers things surprise us and make us fall into error, one has been obliged to say in advance in the other books that we have inclination for pleasures, which it seems should have been reserved for this one, which treats of natural inclinations; and similarly for some other things in other places. All the harm that will come of it is that one will not need to say here many things that one would be obliged to explain if one had not done so elsewhere.
 
-I. On ne voit la vérité que lorsque l’on voit les choses comme
-elles sont, et on ne les voit jamais comme elles sont, si on ne les
-voit dans celui qui les renferme d’une manière intelligible.
-Lorsque nous voyons les choses en nous, nous ne les voyons que
-d’une manière fort imparfaite ; ou plutôt nous ne voyons que nos
-sentiments, et non pas les choses que nous souhaitons de voir et
-que nous croyons faussement que nous voyons.
+Everything in man is so strongly dependent on everything else, that one often finds oneself as if overwhelmed by the number of things that must be said at the same time to explain thoroughly what one conceives. One sometimes finds oneself obliged not to separate things that are joined by nature to one another, and to go against the order one has prescribed for oneself, when this order brings only confusion, as necessarily happens on some occasions. However with all that it is never possible to make others feel everything one thinks. What one should ordinarily aim for is to put readers in a state to discover by themselves, with pleasure and ease, what one has discovered oneself with much pain and fatigue. And because one can discover nothing without attention, one must chiefly study the means of making others attentive. This is what one has tried to do, although one recognizes having executed it rather poorly; and one admits one's fault all the more willingly, as the admission one makes of it should excite those who read this to render themselves attentive by themselves to remedy it, and to penetrate thoroughly subjects that doubtless deserve to be penetrated.
 
-Pour voir les choses comme elles sont en elles-mêmes, il faut
-de l’application, parce que présentement on ne s’unit pas à Dieu
-sans peine et sans effort. Mais pour voir les choses en nous, il ne
-faut aucune application de notre part, parce que nous sentons
-même malgré nous ce qui nous touche. Nous ne trouvons point
-naturellement de plaisir prévenant dans l’union que nous avons
-avec Dieu, les idées pures des choses ne nous touchent point.
-Ainsi l’inclination que nous avons pour le plaisir ne nous
-applique et ne nous unit point à Dieu ; au contraire, elle nous en
-détache et nous en éloigne sans cesse. Car cette inclination nous
-porte continuellement à considérer les choses par leurs idées
-sensibles, à cause que ces idées fausses et impures nous touchent.
-L’amour du plaisir, et la jouissance actuelle du plaisir qui en
-réveille et qui en fortifie l’amour, nous éloigne donc sans cesse
-de la vérité, pour nous jeter dans l’erreur.
-
-Ainsi ceux qui veulent s’approcher de la vérité pour être
-éclairés de sa lumière doivent commencer par la privation du
-plaisir. lls doivent éviter avec soin tout ce qui touche et tout ce
-qui partage agréablement l’esprit ; car il faut que les sens et les
-passions se taisent, si l’on veut entendre la parole de la vérité,
-l’éloignement dp monde et le mépris de toutes les choses sensibles étant nécessaires, aussi bien pour la perfection de
-l’esprit que pour la conversion du cœur.
+The errors into which the inclination we have for pleasures casts us, and generally for everything that touches us, are infinite; because this inclination dissipates the view of the mind, applies it unceasingly to the confused ideas of the senses and the imagination, and leads us to judge all things precipitously by the sole relation they have to us.
 
 
-Lorsque nos plaisirs sont grands, lorsque nos sentiments sont
-vifs, nous ne sommes pas capables des vérités les plus simples,
-et nous ne demeurons pas même d’accord des notions communes,
-si elles ne renferment quelque chose de sensible. Lorsque nos
-plaisirs ou nos autres sentiments sont modérés, nous pouvons
-reconnaître quelques vérités simples et faciles : mais s’il se
-pouvait faire que nous fussions entièrement délivrés des plaisirs
-et des sentiments, nous serions capables de découvrir avec
-facilité les vérités les plus abstraites et les plus difficiles que
-l’on sache. Car à proportion que nous nous éloignons de ce qui
-n’est point Dieu, nous nous approchons de Dieu même ; nous
-évitons l’erreur et nous découvrons la vérité. Mais depuis le
-péché, depuis l’amour déréglé du plaisir prévenant, dominant et
-victorieux, l’esprit est devenu si faible qu’il ne peut rien
-pénétrer, et si matériel et dépendant de ses sens, qu’il ne peut
-trouver de prise à ce qui n’a point de corps, se rendre attentif aux
-vérités abstraites et qui ne le touchent pas. Ce n’est même
-qu’avec peine qu’il aperçoit les notions communes ; et souvent il
-juge, faute d’attention, qu’elles sont fausses ou obscures. Il ne
-peut discerner la vérité des choses d’avec leur utilité, le rapport
-qu’elles ont entre elles d’avec le rapport qu’elles ont avec lui ; et
-il croit souvent que celles-là sont les plus vraies, qui lui sont les
-plus utiles, les plus agréables, et qui le touchent le plus. Enfin
-cette inclination infecte et trouble toutes les perceptions que nous
-avons des objets, et par conséquent tous les jugements que nous
-en faisons : voici quelques exemples.
+## How it prevents us from discovering truth 
 
-II. C’est une notion commune que la vertu est plus estimable que le vice, qu’il vaut mieux être sobre et chaste qu’intempérant
-et voluptueux. Mais l’inclination pour le plaisir brouille si fort
-cette idée en de certaines occasions, qu’on ne la fait plus
-qu’entrevoir, et qu’on ne peut en tirer les conséquences qui sont
-nécessaires pour la conduite de la vie. L’âme s’occupe si fort des
-plaisirs qu’elle espère, qu’elle les suppose innocents et qu’elle
-ne cherche que les moyens de les goûter.
+One sees truth only when one sees things as they are, and one never sees them as they are if one does not see them in Him who contains them in an intelligible manner. When we see things in ourselves, we see them only in a very imperfect manner; or rather we see only our sensations, and not the things we wish to see and falsely believe we see.
 
-Tout le monde sait bien qu’il vaut mieux être juste que d’être
-riche, que la justice rend un homme plus grand que la possession
-des plus superbes bâtiments, qui souvent ne montrent pas tant la
-grandeur de celui qui les a fait bâtir que la grandeur de ses
-injustices et de ses crimes. Mais le plaisir que des gens de néant
-reçoivent dans la vaine ostentation de leur fausse grandeur.
-remplit suffisamment la petite capacité de leur esprit pour leur
-cacher et leur obscurcir une vérité si évidente. Ils s’imaginent
-sottement qu’ils sont de grands hommes, parce qu’ils ont de
-grandes maisons.
+To see things as they are in themselves, application is needed, because presently one does not unite to God without pain and effort. But to see things in ourselves, no application is required on our part, because we feel even despite ourselves what touches us. We find naturally no prevenient pleasure in the union we have with God; pure ideas of things do not touch us. Thus the inclination we have for pleasure does not apply us and unite us to God; on the contrary, it detaches us from Him and distances us from Him unceasingly. For this inclination continually leads us to consider things by their sensible ideas, because these false and impure ideas touch us. The love of pleasure, and the actual enjoyment of pleasure which awakens and strengthens that love, distances us therefore unceasingly from truth, to cast us into error.
 
-L’analyse ou l’algèbre spécieuse est assurément la plus belle,
-je veux dire la plus féconde et la plus certaine de toutes les
-sciences. Sans elle l’esprit n’a ni pénétration ni étendue ; et avec
-elle il est capable de savoir presque tout ce qui se peut savoir
-avec certitude et avec évidence. Tout imparfaite qu’ait été cette
-science, elle a rendu célèbres tous ceux qui en ont été instruits, et
-qui ont su en faire usage ; ils ont découvert par son moyen des
-vérités qui paraissaient comme incompréhensibles aux autres
-hommes. Elle est si proportionnée à l’esprit humain que, sans
-partager sa capacité à des choses inutiles pour ce qu’on
-recherche, elle le conduit infailliblement à son but. En un mot,
-c’est une science universelle et comme la clef de toutes les autres sciences. Cependant quelque estimable qu’elle soit en ellemême, elle n’a rien d’éclatant ni de charmant pour la plupart des
-hommes, par cette seule raison qu’elle n’a rien de sensible. Elle
-a été tout à fait dans l’oubli durant plusieurs siècles. Il y a encore
-bien des gens qui n’en connaissent pas même le nom ; et de mille
-personnes à peine y en a-t-il un ou deux qui en sachent quelque
-chose. Les plus savants qui l’ont renouvelée en nos jours ne l’ont
-point encore poussée fort avant, et ne l’ont point traitée avec
-l’ordre et la netteté qu’elle mérite. Étant homme, comme les
-autres, ils se sont enfin dégoûtés de ces vérités pures que le
-plaisir sensible n’accompagne pas, et l’inquiétude de leur
-volonté corrompue par le péché, la légèreté de leur esprit qui
-dépend de l’agitation et de la circulation du sang, ne leur a pas
-permis de se nourrir davantage de ces grandes, de ces vastes et
-de ces fécondes vérités, qui sont les règles immuables et
-universelles de toutes les vérités passagères et particulières, qui
-se peuvent connaître avec exactitude.
+Thus those who wish to approach truth to be enlightened by its light must begin by the privation of pleasure. They must carefully avoid everything that touches and everything that agreeably divides the mind; for the senses and passions must be silent, if one wishes to hear the word of truth, the withdrawal from the world and contempt of all sensible things being necessary as much for the perfection of the mind as for the conversion of the heart.
 
-La métaphysique de même est une science abstraite qui ne
-flatte point les sens, et à l’étude de laquelle l’âme n’est point
-sollicitée par quelque plaisir prévenant ; c’est aussi par la même
-raison que cette science est fort négligés, et que l’on trouve
-souvent des personnes assez stupides pour nier hardiment des
-notions communes. Il y en a même qui nient que l’on puisse et que
-l’on doive assurer d’une chose ce qui est renferme dans l’idée
-claire et distincte qu’on en a ; que le néant n’a point de
-propriétés ; qu’une chose ne peut être réduite à rien sans
-miracle ; qu’aucun corps ne se peut mouvoir par ses propres
-forces ; qu’un corps agité ne peut communiquer aux corps qu’il
-rencontre plus de mouvement qu’il en a, et d’autres choses
-semblables. Ils n’ont jamais considéré ces axiomes d’une vue assez fixe et assez nette, pour en découvrir clairement la vérité ;
-et ils ont fait quelquefois des expériences qui les ont faussement
-convaincus que quelques-uns de ces axiomes n’étaient pas vrais.
-Ils ont vu qu’en certaines rencontres les corps qui se choquaient
-avaient plus de mouvement après qu’avant le choc, et que dans
-d’autres ils en avaient moins. Ils ont vu souvent que le simple
-attouchement de quelque corps visible a été subitement suivi de
-grands mouvements. Et cette vue sensible de quelques
-expériences dont ils ne voient point les raisons leur a fait
-conclure que les forces naturelles se pouvaient et augmenter et
-détruire. Ne devraient-ils pas considérer que les mouvements
-peuvent se répandre des corps visibles aux invisibles, lorsque
-les corps mus se rencontrent ; ou des corps invisibles aux
-visibles dans d’autres occasions ? Lorsqu’un corps est suspendu
-à une corde, ce ne sont point les ciseaux avec lesquels on coupe
-la corde qui donnent le mouvement à ce corps, c’est une matière
-invisible. Lorsqu’on jette un charbon dans un tas de poudre à
-canon, ce n’est point le mouvement du charbon, mais une matière
-invisible qui sépare toutes les parties de cette poudre, et qui leur
-donne un mouvement capable de faire sauter une maison. Il y a
-mille manières inconnues par lesquelles la matière invisible
-communique son mouvement aux corps grossiers et visibles. Du
-moins n’est-il pas évident que cela ne se puisse faire, comme il
-est évident que la force mouvante des corps ne peut naturellement
-augmenter ni diminuer.
+---
 
-De même les hommes voient que le bois que l*on jette dans le
-feu cesse d’être ce qu’il est, et que toutes les qualités sensibles
-qu’ils y remarquent se dissipent : et delà ils s’imaginent avoir
-droit de conclure qu’il se peut faire qu’une chose rentre dans le
-néant dont elle est sortie. Ils cessent de voir le bois, et ne voient qu’un peu de cendres qui lui succèdent : et de là ils jugent que la
-plus grande partie du bois cesse d’être, comme si le bois ne
-pouvait pas être réduit en des parties qu’ils ne pussent voir. Du
-moins n’est-il pas aussi évident que cela ne se puisse faire qu’il
-est évident que la force qui donne l’être à toutes choses n’est pas
-sujette au changement, et que, par les forces ordinaires de la
-nature, ce qui est ne peut être réduit à rien, comme ce qui n’est
-point ne peut commencer d’être. Mais la plupart des hommes ne
-savent ce que c’est que de rentrer dans eux-mêmes pour y
-entendre la voix de la vérité, selon laquelle ils doivent juger de
-toutes choses. Ce sont leurs yeux qui règlent leurs décisions. Ils
-jugent selon ce qu’ils sentent et non pas selon qu’ils conçoivent,
-car ils sentent avec plaisir et ils conçoivent avec peine.
-Demandez à tout ce qu’il y a d’hommes au monde si l’on peut
-assurer, sans crainte de se tromper, que le tout est plus grand que
-sa partie ; et je m’assure qu’il ne s’en trouvera pas un qui ne
-réponde d’abord ce qu’il faut répondre. Demandez-leur ensuite si
-l’on peut de même, sans crainte de se tromper, assurer d’une
-chose ce que l’on conçoit clairement être renfermé dans l’idée
-qui la représente, et vous verrez qu’il s’en trouvera peu qui
-l’accordent sans hésiter, qu’il y en aura quelques-uns qui le
-nieront, et que la plupart ne sauront que répondre. Cependant cet
-axiome métaphysique : que l’on peut assurer d’une chose ce que
-l’on conçoit clairement être renfermé dans l’idée qui la
-représente ou plutôt, que tout ce que l’on conçoit clairement est
-précisément tel que l’on le conçoit, est plus évident que l’axiome
-que le tout est plus grand que sa partie, parce que ce dernier
-axiome n’est pas tant un axiome qu’une conclusion à l’égard du
-premier. On peut prouver que le tout est plus grand que sa partie
-par ce premier axiome, mais ce premier ne se peut prouver par aucun autre : il est absolument le premier et le fondement de
-toutes les connaissances claires et évidentes. D’où vient donc
-que personne n’hésite sur la conclusion, et que bien des gens
-doutent du principe dont elle est tirée, si ce n’est que les idées de
-tout et de partie sont sensibles, et qu’on voit pour ainsi dire de
-ses yeux que le tout est plus grand que sa partie, mais qu’on ne
-voit pas avec les yeux la vérité du premier axiome de toutes les
-sciences ?
-
-Comme dans cet axiome il n’y a rien qui arrête et qui applique
-naturellement l’esprit, il faut vouloir le considérer, et même avec
-un peu de constance et de fermeté, pour en reconnaître la vérité
-avec évidence ; il faut que la force de la volonté supplée à
-l’attrait sensible. Mais les hommes ne s’avisent pas de penser
-aux objets qui ne flattent point leurs sens ; ou s’ils s’en avisent,
-ils ne font point d’effort pour cela.
-
-Car pour continuer notre même exemple, ils pensent qu’il est
-évident que le tout est plus grand que sa partie, qu’une montagne
-de marbre est possible, et qu’une montagne sans vallée est
-impossible, et qu’il n’est pas également évident qu’il y a un Dieu.
-Néanmoins on peut dire, que l’évidence est égale dans toutes ces
-propositions, puisqu’elles sont toutes également éloignées du
-premier principe.
-
-Voici le premier principe. On doit attribuer à une chose ce que
-l’on conçoit clairement être renfermé dans l’idée qui la
-représente, on conçoit clairement qu’il y a plus de grandeur dans
-l’idée qu’on a du tout que dans l’idée qu’on a de sa partie ; que
-l’existence possible est contenue dans l’idée d’une montagne de
-marbre ; l’existence impossible dans l’idée d’une montagne sans
-vallée, et l’existence nécessaire dans l’idée qu’on a de Dieu, je
-
-veux dire de l’être infiniment parfait. Donc le tout est plus grand
-que sa partie : donc une montagne de marbre peut exister : donc
-une montagne sans vallée ne peut exister : donc Dieu ou l’être
-infiniment parfait existe nécessairement. Il est visible que ces
-conclusions sont également éloignées du premier principe de
-toutes les sciences ; elles sont donc également évidentes en ellesmêmes. Il est donc aussi évident que Dieu existe qu’il est évident
-que le tout est plus grand que sa partie. Mais parce que les idées
-d’infini, de perfection, d’existence nécessaire, ne sont pas
-sensibles comme les idées de tout et de partie, on s’imagine
-qu’on ne conçoit pas ce qu’on ne sent pas ; et quoique ces
-conclusions soient également évidentes, elles ne sont pas
-toutefois également reçues.
-
-Il y a des gens qui tâchent de persuader qu’ils n’ont point
-d’idée d’un être infiniment parfait. Mais je ne sais comment ils
-s’avisent de répondre positivement lorsqu’on leur demande si un
-être infiniment parfait est rond ou carré, ou quelque chose de
-semblable ; car ils devraient dire qu’ils n’en savent rien, s’il est
-vrai qu’ils n’en aient point d’idée.
-Il y en a d’autres qui accordent que c’est bien raisonner que de
-conclure que Dieu n’est point un être impossible de ce qu’on voit
-que l’idée de Dieu n’enferme point de contradiction ou
-l’existence impossible ; et ils ne veulent pas que l’on conclue de
-même que Dieu existe nécessairement de ce qu’on conçoit
-l’existence nécessaire dans l’idée qu’on a de lui.
-Il y en a d’autres enfin qui prétendent que cette preuve de
-l’existence de Dieu, qui est de M. Descartes, est un pur
-sophisme ; et que l’argument ne conclut que supposé qu’il soit
-vrai que Dieu existe, comme si on ne le prouvait pas. Voici la preuve. On doit attribuer à une chose ce que l’on conçoit
-clairement être renfermé dans l’idée qui la représente. C’est la le
-principe général de toutes les sciences. L’existence nécessaire est
-renfermée dans l’idée qui représente un être infiniment parfait. Ils
-l’accordent. Et par conséquent on doit dire que l’être infiniment
-parfait existe. Oui, disent-ils, supposé qu’il existe.
-Mais faisons une réponse pareille à un argument pareil, afin
-qu’on juge de la solidité de leur réponse. Voici l’argument pareil.
-On doit attribuer à une chose ce que l’on conçoit clairement être
-renfermé dans l’idée qui la représente : c’est le principe. On
-conçoit clairement quatre angles renfermés dans l’idée qui
-représente un carré, ou bien on conçoit clairement que l’existence
-possible est renfermée dans l’idée d’une tour de marbre ; donc un
-carré à quatre angles ; donc une tour de marbre est possible. Je
-dis que ces conclusions sont vraies, supposé que le carré ait
-quatre angles, et que la tour de marbre soit possible ; de même
-qu’ils répondent que Dieu existe, supposé qu’il existe : c’est-àdire, en un mot, que les conclusions de ces démonstrations sont
-vraies, supposé qu’elles soient vraies.
-
-J’avoue que si je faisais un tel argument : On doit attribuera
-une chose ce que l’on conçoit clairement être renfermé dans
-l’idée qui la représente, on conçoit clairement l’existence
-nécessaire renfermée dans l’idée d’un corps infiniment parfait ;
-donc un corps infiniment parfait existe ; il est vrai, dis-je, que si
-je faisais un tel argument, on aurait raison de me répondre qu’il
-ne conclurait pas l’existence actuelle d’un corps infiniment
-parfait ; mais seulement que, supposé qu’il y eût un tel corps, il
-aurait par lui-même son existence. La raison en est que l’idée de
-corps infiniment parfait est une fiction de l’esprit ou une idée 
-composée, et qui par conséquent peut être fausse ou
-contradictoire, comme elle est en effet : car on ne peut concevoir
-clairement de corps infiniment parfait ; un être particulier et fini,
-tel que le corps, ne pouvant pas être conçu universel et infini.
-Mais l’idée de Dieu ou de l’être en général, de l’être sans
-restriction, de l’être infini, n’est point une fiction de l’esprit. Ce
-n’est point une idée composée qui renferme quelque
-contradiction ; il n’y a rien de plus simple, quoiqu’elle
-comprenne tout ce qui est et tout ce qui peut être. Or cette idée
-simple et naturelle de l’être ou de l’infini renferme l’existence
-nécessaire ; car il est évident que l’être (je ne dis pas un tel être)
-à son existence par lui-même ; et que l’être ne peut n’être pas
-actuellement, étant impossible et contradictoire que le véritable
-être soit sans existence. Il se peut faire que les corps ne soient
-pas, parce que les corps sont de tels êtres qui participent de
-l’être et qui en dépendent. Mais l’être sans restriction est
-nécessaire ; il est indépendant ; il ne tient ce qu’il est que de luimême : tout ce qui est vient de lui. S’il y a quelque chose, il est,
-puisque tout ce qui est vient de lui ; mais quand il n’y aurait
-aucune chose en particulier, il serait, parce qu’il est par luimême, et qu’on ne peut le concevoir clairement comme n’étant
-point ; si ce n’est qu’on se le représente comme un être en
-particulier ou comme un tel être, et que l’on considère ainsi toute
-autre idée que la sienne. Car ceux qui ne voient pas que Dieu
-soit, ordinairement ils ne considèrent point l’être, mais un tel
-être, et par conséquent un être qui peut être ou n’être pas.
-Cependant afin que l’on puisse comprendre encore plus
-distinctement cette preuve de M. Descartes de l’existence de
-Dieu, et répondre plus clairement à quelques instances que l’on
-pourrait y faire ; voici, ce me semble, ce qu’il est nécessaire d’y
-ajouter. Il faut se souvenir que lorsqu’on voit une créature on ne
-la voit point en elle-même ni par elle-même ; car on ne la voit,
-comme on l’a prouvé dans le troisième livre, que par la vue de
-certaines perfections qui sont en Dieu, lesquelles la représentent.
-Ainsi on peut voir l’essence de cette créature sans en voir
-l’existence, son idée sans elle ; on peut voir en Dieu ce qui la
-représente sans qu’elle existe. C’est uniquement à cause de cela
-que l’existence nécessaire n’est point renfermée dans l’idée qui
-la représente, n’étant point nécessaire qu’elle soit actuellement,
-afin qu’on la voie, si ce n’est qu’on prétende que les objets créés
-soient visibles immédiatement, intelligibles par eux-mêmes,
-capables d’éclairer, d’affecter, de modifier des intelligences.
-Mais il n’en est pas de même de l’être infiniment parfait ; on ne
-le peut voir que dans lui-même ; car il n’y a rien de fini qui
-puisse représenter l’infini. L’on ne peut donc voir Dieu qu’il
-n’existe ; on ne peut voir l’essence d’un être infiniment parfait
-sans en voir l’existence ; on ne le peut voir simplement comme un
-être possible ; rien ne le comprend ; rien ne le peut représenter.
-Si donc on y pense, il faut qu’il soit.
-
-Ce raisonnement me paraît dans la dernière évidence.
-Cependant il y a des gens qui soutiennent cette proposition, que
-le fini peut représenter l’infini ; et que les modalités de notre
-âme, quoique finies, sont essentiellement représentatives de
-l’être infiniment parfait, et généralement de tout ce que nous
-apercevons : erreur grossière, et qui par ses conséquences détruit
-la certitude de toutes les sciences, comme il est facile de le
-prouver. Mais il est si faux que les modalités de l’âme soient
-représentatives de tous les êtres, qu’elles ne le peuvent être
-d’aucun, pas même de ce qu’elles sont ; car quoique nous ayons sentiment intérieur de notre existence et de nos modalités
-actuelles, nous ne les connaissons nullement.
-
-Certainement l’âme n’a point d’idée claire de sa substance : on
-sait ce que j’entends
-[9] par idée claire. Elle ne peut découvrir en
-se considérant si elle est capable de telle et telle modification
-qu’elle n’a jamais eue. Elle sent véritablement sa douleur, mais
-elle ne la connaît point ; elle ne sait point comment sa substance
-doit être modifiée pour en souffrir, et pour souffrir une douleur
-plutôt qu’une autre. Il y a bien de la différence entre se sentir et
-se connaître. Dieu qui agit incessamment dans l’âme la connaît
-parfaitement ; il voit clairement, sans souffrir la douleur,
-comment l’âme doit être modifiée afin qu’elle en souffre ; mais
-l’âme au contraire souffre la douleur et ne la connaît pas. Dieu la
-connaît sans la sentir, et l’âme la sent sans la connaître. Dieu
-connaît clairement la nature de l’âme, parce qu’il en trouve en
-lui-même une idée claire et représentative.
-
-Dieu, comme parle saint Thomas, connaît parfaitement sa
-substance ou son essence, et il y découvre par conséquent toutes
-les manières dont elle est participable par les créatures. Ainsi sa
-substance en est véritablement représentative parce qu’elle en
-renferme l’archétype ou le modèle éternel. Car Dieu ne peut tirer
-que de lui-même ses connaissances. Il voit dans son essence les
-idées ou les essences de tous les êtres possibles, et dans ses
-volontés leur existence et toutes les circonstances de leur
-existence. Mais l’âme n’est à elle-même que ténèbres, sa lumière
-lui vient d’ailleurs. Tous les êtres qu’elle connaît et qu’elle peut
-connaître, ne sont point des ressemblances de sa substance, ils
-n’y participent point. Elle ne contient point éminemment leurs
-perfections. Les modalités de l’âme ne peuvent donc point être, comme en Dieu, représentatives de l’essence ou de l’idée des
-êtres possibles. Il est donc nécessaire de distinguer les idées qui
-nous éclairent, qui nous affectent, et qui représentent ces êtres,
-des modalités de notre âme, c’est-à-dire des perceptions que
-nous en avons. Et comme l’existence des créatures ne dépend
-point de nos volontés, mais de celle du Créateur, il est encore
-clair que nous ne pouvons nous assurer de leur existence que par
-quelque espèce de révélation ou naturelle ou surnaturelle. Mais
-de plus, quand tous les êtres seraient des ressemblances de notre
-âme, comment pourrait-elle les voir dans ses modalités
-prétendues représentatives, elle qui ne connaît point sa substance
-parfaitement, secundum omnem modum quo cognoscibilis est ;
-qui ne connaît point comment elle est modifiée par la perception
-qu’elle a des objets ; que dis-je ! elle qui se confond avec le
-corps, et qui ne sait pas souvent quelles sont les modalités qui lui
-appartiennent ; elle enfin qui, lorsqu’on la touche, ou que les
-idées l’affectent par leur efficace, sent en elle-même ses
-modalités ou ses perceptions, car où pourrait-elle les sentir
-ailleurs ? mais qui ne découvrira jamais clairement ce qu’elle
-est, sa nature, ses propriétés, toutes les modalités dont elle est
-capable, jusques à ce que la substance lumineuse et toujours
-efficace de la divinité lui découvre l’idée qui la représente,
-l’esprit intelligible, le modèle éternel sur lequel elle a été
-formée ? Mais tâchons d’éclaircir encore cette matière, et de
-forcer tout esprit attentif à se rendre à cette proposition, qui
-m’avait paru claire par elle-même, que rien de fini ne peut
-représenter l’infini.
-
-Il est certain que le néant ou le faux n’est point visible ou
-intelligible. Ne rien voir, ce n’est point voir ; penser à rien, c’est
-ne point penser. Il est impossible d’apercevoir une fausseté, un rapport, par exemple, d’égalité entre deux et deux et cinq ; car ce
-rapport ou tel autre, qui n’est point, peut être cru, mais
-certainement il ne peut être aperçu, parce que le néant n’est pas
-visible. C’est là proprement le premier principe de toutes nos
-connaissances ; c’est aussi celui par lequel j’ai commencé les
-Entretiens sur la métaphysique, dont il est à propos de lire les
-deux premiers ; car celui-ci, ordinairement reçu des cartésiens,
-qu’on peut assurer d’une chose ce que l’on conçoit clairement
-être renfermé dans l’idée qui la représente, en dépend ; et il n’est
-vrai qu’en supposant que les idées sont immuables, nécessaires
-et divines. Car si nos idées n’étaient que nos perceptions, si nos
-modalités étaient représentatives, comment saurions-nous que les
-choses répondent à nos idées, puisque Dieu ne pense, et par
-conséquent n’agit pas selon nos perceptions, mais selon les
-siennes ? Or, il suit de ce que le néant n’est point visible, que tout
-ce qu’on voit clairement, directement, immédiatement, existe
-nécessairement. Je dis ce qu’on voit immédiatement, qu’on y
-prenne garde, ou ce que l’on conçoit ; car, à parler en rigueur, les
-objets que l’on voit immédiatement sont bien différents de ceux
-que l’on voit au dehors, ou plutôt que l’on croit voir, ou que l’on
-regarde ; car il est vrai en un sens que l’on ne voit point ces
-derniers, puisqu’on peut voir ou plutôt croire voir au dehors des
-objets qui ne sont point, nonobstant que le néant ne soit point
-visible. Mais il y a contradiction qu’on puisse voir
-immédiatement ce qui n’est point, car dans le même temps on
-verrait et l’on ne verrait point, puisque voir rien c’est ne point
-voir.
-
-Mais quoiqu’il faille être pour être aperçu, tout ce qui est
-actuellement n’est pas visible pour cela par lui-même ; car, afin
-qu’il le fût, il faudrait qu’il pût agir immédiatement dans l’âme, qu’il pût par lui-même éclairer, affecter ou modifier les esprits,
-autrement notre âme, qui est purement passive, en tant que
-capable de perceptions, ne l’apercevrait jamais : car quand
-même on imaginerait que l’âme fût dans l’objet et le pénétrât,
-comme l’on suppose ordinairement qu’elle est dans le cerveau et
-qu’elle le pénètre, elle ne pourrait l’apercevoir, puisqu’elle ne
-peut pas découvrir les parties qui composent son cerveau, cellelà même où l’on dit qu’elle fait sa principale résidence. C’est
-qu’il n’y a rien de visible et d’intelligible par soi-même que ce
-qui peut agir dans les esprits.
-
-Supposons néanmoins ces deux faussetés : 1° que toute réalité
-puisse être aperçue par l’action prétendue de l’esprit ; 2° que
-l’âme n’ait pas seulement sentiment intérieur de son être et de ses
-modalités, mais qu’elle les connaisse parfaitement. Pourvu qu’on
-m’accorde seulement que le néant ne soit pas visible, ce que je
-viens de démontrer, il est bien aisé d’en conclure que les
-modalités de l’âme ne peuvent représenter l’infini ; car on ne
-peut voir trois réalités où il n’y en a que deux, puisqu’on verrait
-un néant, une réalité qui ne serait point. On ne peut voir cent
-réalités où il n’y en a que quarante, car on verrait soixante
-réalités qui ne seraient point. On ne peut donc pas voir l’infini
-dans l’âme ni dans ses modalités finies, car on verrait un infini
-qui ne serait point. Or le néant n’est ni visible ni intelligible ;
-donc l’âme ne peut voir dans sa substance ni dans ses modalités
-une réalité infinie, cette étendue intelligible, par exemple, qu’on
-voit si clairement être infinie. que l’on est certain que l’âme ne
-l’épuisera jamais. Mais pouvoir représenter l’infini, ce n’est pas
-pouvoir l’apercevoir, pouvoir en avoir une perception fort légère
-ou infiniment petite, telle qu’est celle que nous en avons, c’est
-pouvoir le faire apercevoir en soi, et par conséquent le contenir, pour ainsi parler, puisque le néant ne peut être aperçu ; et le
-contenir même tel qu’il soit intelligible ou efficace par lui-même,
-capable d’affecter la substance intelligente de l’âme.
-Il est donc clair que l’âme, que ses modalités. que rien de fini
-ne peut représenter l’infini, qu’on ne peut voir l’infini qu’en luimême et que par l’efficace de sa substance ; que l’infini n’a point
-et ne peut avoir d’archétype, ou d’idée distinguée de lui, qui le
-représente, et qu’ainsi si l’on pense à l’infini il faut qu’il soit.
-Mais certainement on y pense ; on en a, je ne dis pas une
-compréhension, ou une perception qui le mesure et qui
-l’embrasse ; mais on en a quelque perception, c’est-à-dire une
-perception infiniment petite, comparée à une compréhension
-parfaite ; car on doit bien prendre garde qu’il ne faut pas plus de
-pensée, ou une plus grande capacité de penser, pour avoir une
-perception infiniment petite de l’infini, que pour avoir une
-perception parfaite de quelque chose de fini, puisque toute
-grandeur finie, comparée à l’infini ou divisée par l’infini, est à
-cette grandeur finie comme cette même grandeur est à l’infini.
-Cela est évident, par la même raison qui prouve que 1/1000 est à
-1 comme 1 est à 1000 ; que deux, trois, quatre millionièmes est à
-deux, trois, quatre, comme deux, trois, quatre est à deux, trois,
-quatre millions : car quoiqu’on augmente infiniment les zéros, il
-est clair que la proportion demeure toujours la même. C’est
-qu’une grandeur ou une réalité finie est égale à une réalité
-infiniment petite de l’infini, ou par rapport à l’infini : je dis par
-rapport à l’infini, car le grand et le petit n’est tel que par rapport.
-Ainsi, il est certain qu’une modalité ou une perception finie en
-elle-même peut être la perception de l’infini, pourvu que la
-perception de l’infini soit infiniment petite par rapport à une
-perception infinie ou å la compréhension parfaite de l’infini.
+When our pleasures are great, when our sensations are vivid, we are not capable of the simplest truths, and we do not even agree on common notions, if they do not contain something sensible. When our pleasures or other sensations are moderate, we can recognize some simple and easy truths: but if it could be done that we were entirely delivered from pleasures and sensations, we would be capable of discovering with ease the most abstract and difficult truths that are known. For in proportion as we distance ourselves from what is not God, we approach God Himself; we avoid error and discover truth. But since the sin, since the disordered love of prevenient, dominant and victorious pleasure, the mind has become so weak that it can penetrate nothing, and so material and dependent on its senses, that it can find no hold on what has no body, nor render itself attentive to abstract truths that do not touch it. It is even with difficulty that it perceives common notions; and often it judges, for lack of attention, that they are false or obscure. It cannot discern the truth of things from their utility, the relation they have among themselves from the relation they have with itself; and it often believes that those are truest which are most useful to it, most agreeable, and touch it most. Finally this inclination infects and disturbs all the perceptions we have of objects, and consequently all the judgments we make of them: here are some examples.
 
 
-On ne doit pas juger de la grandeur des objets ou de la réalité
-des idées par la force et la vivacité, ou, pour parler comme
-l’école, par le degré d’intention des modalités ou des
-perceptions dont les idées affectent notre âme. La pointe d’une
-épine qui me pique, un charbon ardent qui me brûle, n’a pas tant
-de réalité qu’une campagne que je vois. Cependant, la capacité
-que j’ai de penser est plus remplie par la douleur de la piqûre ou
-de la brûlure que par la vue de la campagne. De même quand j’ai
-les yeux ouverts au milieu d’une campagne, j’ai une perception
-sensible d’une étendue bornée bien plus vive et qui occupe
-davantage la capacité de mon âme que celle que j’ai quand je
-pense à l’étendue les yeux fermés. Mais l’idée de l’étendue qui
-m’affecte par le sentiment de diverses couleurs n’a pas tant de
-réalité que celle qu ne m’affecte que, de pure intellection ; car
-par la pure intellection je vois de l’étendue infiniment au delà de
-celle que je vois les yeux ouverts. Il ne faut donc pas juger, je ne
-dis pas de l’efficace, je dis de la réalité des idées par la manière
-forte ou légère dont elles nous touchent ; mais il en faut juger de
-ce qu’elles nous touchent, quelque légère que puisse être la
-modalité dont elles nous touchent, quelque faible que soit la
-perception que nous en avons. Il faut juger de leur réalité, parce
-que nous l’apercevons et que le néant ne peut être aperçu. Je dis
-ceci pour faire concevoir qu’il n’y a point de contradiction que
-l’infini puisse être aperçu par une capacité finie de perception, et
-pour désabuser ceux qui, trompés par cette contradiction
-prétendue, soutiennent qu’on n’a point d’idée de l’infini,
-nonobstant le sentiment intérieur qui nous apprend que nous
-pensons actuellement à l’infini, ou, pour parler comme les autres,
-que nous avons naturellement l’idée de Dieu ou de l’être
-infiniment parfait.
+## Some examples
 
-J’aurais pu prouver que les modalités de l’âme ne sont point
-représentatives de l’infini ni de quoi que ce soit, ou que les idées
-sont bien différentes des perceptions que nous en avons, par
-d’autres preuves que celle que je viens de tirer de cette notion
-commune, que le néant n’est pas visible. Car il est clair que les
-modalités de l’âme sont changeantes et que les idées sont
-immuables ; que ses modalités sont particulières, et que les idées
-sont universelles et générales à toutes les intelligences ; que ses
-modalités sont contingentes, et que les idées sont éternelles et
-nécessaires ; que ses modalités sont obscures et ténébreuses, et
-que les idées sont très-claires et très-lumineuses ; c’est-à-dire
-que ses modalités ne sont qu’obscurément, quoique vivement
-senties, et que les idées sont clairement connues, comme étant le
-fondement de toutes les sciences. Mais j’ai déjà tant écrit sur la
-nature des idées dans cet ouvrage et dans plusieurs autres, que je
-crois avoir quelque droit d’y renvoyer le lecteur.
-Il est donc aussi évident qu’il y a un Dieu qu’il l’est à moi que
-je suis. Je conclus que je suis, parce que je me sens, et que le
-néant ne peut être senti. Je conclus de même que Dieu est, que
-l’être infiniment parfait existe, parce que je l’aperçois, et que le
-néant ne peut être aperçu, ni par conséquent l’infini dans le fini.
-Mais il est inutile de proposer au commun des hommes de ces
-démonstrations. Ce sont des démonstrations que l’on peut appeler
-personnelles, parce qu’elles ne convainquent point généralement
-tous les hommes. C’est que la plupart, et quelquefois même les
-plus savants ou qui ont le plus de lecture, ne veulent ou ne
-peuvent pas donner d’attention à des preuves métaphysiques,
-pour lesquelles ils ont d’ordinaire un souverain mépris. Il faut
-donc, si l’on veut les convaincre, en apporter de plus sensibles :
+It is a common notion that virtue is more estimable than vice, that it is better to be sober and chaste than intemperate and voluptuous. But the inclination for pleasure so confuses this idea on certain occasions, that one only glimpses it, and one cannot draw from it the consequences necessary for the conduct of life. The soul occupies itself so much with the pleasures it hopes for, that it supposes them innocent and seeks only the means to taste them.
 
-et certainement on n’en manque pas ; car il n’y a aucune vérité
-qui ait plus de preuves que celle de l’existence de Dieu. On
-n’apporte celle-ci que pour faire voir que les vérités abstraites
-n’agissant presque point sur nos sens, on les prend pour des
-illusions et pour des chimères ; au lieu que, les vérités
-grossières, palpables, et qui se font sentir. forçant l’àme à les
-considérer, l’on se persuade qu’elles ont beaucoup de réalité, à
-cause que, depuis le péché, elles font beaucoup plus
-d’impression sur notre esprit que les vérités purement
-intelligibles.
+Everyone knows well that it is better to be just than to be rich, that justice makes a man greater than the possession of the proudest buildings, which often show not so much the greatness of him who had them built as the greatness of his injustices and crimes. But the pleasure that men of nothing receive in the vain ostentation of their false greatness sufficiently fills the small capacity of their mind to hide and obscure from them so evident a truth. They foolishly imagine they are great men, because they have great houses.
 
-C’est encore par la même raison qu’il n’y a pas lieu d’espérer
-que le commun des hommes se rende jamais à cette
-démonstration pour prouver que les animaux ne sentent point,
-savoir : qu’étant innocents, comme tout le monde en convient, et
-je le suppose, s’ils étaient capables de sentiment, il arriverait
-que, sous un Dieu infiniment juste et tout-puissant, un innocent
-souffrirait de la douleur, qui est une peine et la punition de
-quelque péché. Les hommes sont d’ordinaire incapables de voir
-l’évidence de cet axiome : Sub justo Deo, quisquam, nisi
-mereatur, miser esse non potest
-[10]
-, dont saint Augustin se sert
-avec beaucoup de raison, contre Julien, pour prouver le péché
-originel et la corruption de notre nature. Ils s’imaginent qu’il n’y
-a aucune force ni aucune solidité dans cet axiome et dans
-quelques autres qui prouvent que les bêtes ne sentent point, parce
-que, comme nous venons de dire, ces axiomes sont abstraits,
-qu’ils ne renferment rien de sensible ni de palpable, et qu’ils ne
-font aucune impression sur nos sens.
-Les actions et les mouvements sensibles que font les bêtes
-pour la conservation de leur vie sont des raisons, quoique seulement vraisemblables, qui nous touchent bien davantage, et
-qui par conséquent nous inclinent bien plus fortement à croire
-qu’elles souffrent de la douleur, lorsqu’on les frappe et qu’elles
-crient, que cette raison abstraite de l’esprit pur, quoique trèscertaine et très-évidente par elle-même ; car il est certain que la
-plupart des hommes n’ont point d’autre raison pour croire que les
-animaux ont des âmes que la vue sensible de tout ce que les bêtes
-font pour la conservation de leur vie.
+Analysis or specious algebra is assuredly the finest—I mean the most fruitful and most certain—of all sciences. Without it the mind has neither penetration nor extent; and with it it is capable of knowing almost everything that can be known with certainty and evidence. Imperfect as this science has been, it has rendered famous all those who have been instructed in it and have known how to make use of it; they have discovered by its means truths that appeared as if incomprehensible to other men. It is so proportioned to the human mind that, without dividing its capacity among things useless for what one seeks, it leads it infallibly to its goal. In a word, it is a universal science and like the key to all other sciences. However estimable as it is in itself, it has nothing brilliant or charming for most men, for this sole reason that it has nothing sensible. It was entirely forgotten for several centuries. There are still many people who do not even know its name; and of a thousand persons scarcely one or two know anything of it. The most learned who have renewed it in our days have not yet pushed it very far, and have not treated it with the order and clarity it deserves. Being men like others, they finally became disgusted with these pure truths that sensible pleasure does not accompany, and the uneasiness of their will corrupted by sin, the lightness of their mind which depends on the agitation and circulation of the blood, has not permitted them to nourish themselves further with these great, vast and fruitful truths, which are the immutable and universal rules of all passing and particular truths that can be known with exactitude.
 
-Cela paraît assez de ce que la plupart ne s’imaginent pas qu’il
-y ait une âme dans un œuf, quoique la transformation d’un œuf en
-poulet soit infiniment plus difficile que la conservation seule du
-poulet lorsqu’il est entièrement formé ; car, de même qu’il faut
-plus d’esprit pour faire une montre d’un morceau de fer que pour
-la faire aller quand elle est tout achevée, il faudrait plutôt
-admettre une âme dans un œuf pour en former un poulet que pour
-faire vivre ce poulet quand il est tout à fait formé. Mais les
-hommes ne voient pas sensiblement la manière admirable dont un
-poulet se forme, de même qu’ils voient toujours sensiblement la
-manière dont il cherche les choses qui sont nécessaires à sa
-conservation. Ainsi, ils ne sont pas portés à croire qu’il y a des
-âmes dans les œufs par quelque impression sensible des
-mouvements nécessaires pour transformer les œufs en poulets ;
-mais ils donnent des âmes aux animaux à cause de l’impression
-sensible des actions extérieures que ces animaux font pour la
-conservation de leur vie, quoique la raison que je viens de dire
-soit plus forte pour donner des âmes aux œufs que pour en donner
-aux poulets.
+Metaphysics likewise is an abstract science that flatters no sense, and to the study of which the soul is not solicited by any prevenient pleasure; it is also for the same reason that this science is much neglected, and that one often finds persons stupid enough to boldly deny common notions. There are even some who deny that one can and should affirm of a thing what is contained in the clear and distinct idea one has of it; that nothingness has no properties; that a thing cannot be reduced to nothing without miracle; that no body can move by its own forces; that an agitated body cannot communicate to the bodies it encounters more movement than it has, and other similar things. They have never considered these axioms with a view fixed and clear enough to clearly discover their truth; and they have sometimes made experiments that have falsely convinced them that some of these axioms were not true. They have seen that on certain occasions bodies that collided had more movement after than before the shock, and that on others they had less. They have often seen that the simple touch of some visible body was suddenly followed by great movements. And this sensible view of some experiments whose reasons they do not see has made them conclude that natural forces can be both increased and destroyed. Should they not consider that movements can spread from visible bodies to invisible ones, when moving bodies meet; or from invisible bodies to visible ones on other occasions? When a body is suspended from a cord, it is not the scissors with which one cuts the cord that give movement to this body; it is an invisible matter. When one throws a coal into a heap of gunpowder, it is not the movement of the coal, but an invisible matter that separates all the parts of this powder, and gives them a movement capable of making a house jump. There are a thousand unknown ways by which invisible matter communicates its movement to coarse and visible bodies. At least is it not evident that this cannot be done, as it is evident that the motive force of bodies cannot naturally increase or diminish.
 
-Cette seconde raison, qui est que la matière est incapable de
-sentir et de désirer, est sans doute une raison démonstrative
+Likewise men see that wood thrown into fire ceases to be what it is, and that all the sensible qualities they notice in it dissipate: and from there they imagine they have the right to conclude that it can happen that a thing returns into the nothingness from which it came. They cease to see the wood, and see only a little ashes that succeed it: and from there they judge that the greater part of the wood ceases to be, as if the wood could not be reduced to parts they could not see. At least is it not as evident that this cannot be done as it is evident that the force which gives being to all things is not subject to change, and that, by the ordinary forces of nature, what is cannot be reduced to nothing, as what is not cannot begin to be. But most men do not know what it is to enter into themselves to hear there the voice of truth, according to which they must judge all things. It is their eyes that regulate their decisions. They judge according to what they feel and not according to what they conceive, for they feel with pleasure and conceive with pain.
 
-contre ceux qui disent que les animaux sentent, quoique leurs
-âmes soient corporelles. Mais les hommes confondront et
-brouilleront éternellement ces raisons plutôt que d’avouer une
-chose contraire à des preuves seulement vraisemblables, mais
-très-sensibles et très-touchantes ; et on ne les pourra pleinement
-convaincre qu’en opposant des preuves sensibles à leurs preuves
-sensibles, et en leur montrant visiblement comment toutes les
-parties des animaux ne sont que des machines, et qu’ils peuvent
-se remuer sans âme par la seule impression des objets et par leur
-constitution particulière, comme M. Descartes a commencé de le
-faire dans son traité De l’homme. Car toutes les raisons les plus
-certaines et les plus évidentes de l’entendement pur ne leur
-persuaderont jamais le contraire des preuves obscures qu’ils ont
-par les sens ; et c’est même s’exposer à la risée des esprits
-superficiels et peu capables d’attention que de prétendre leur
-prouver, par des raisons un peu relevées, que les animaux ne
-sentent point.
+Ask all the men in the world whether one can affirm, without fear of being mistaken, that the whole is greater than its part; and I am sure that there will not be one who does not immediately answer what must be answered. Ask them next whether one can likewise, without fear of being mistaken, affirm of a thing what one clearly conceives to be contained in the idea that represents it, and you will see that there will be few who grant it without hesitating, that there will be some who will deny it, and that most will not know what to answer. However this metaphysical axiom—that one can affirm of a thing what one clearly conceives to be contained in the idea that represents it, or rather, that everything one clearly conceives is precisely as one conceives it—is more evident than the axiom that the whole is greater than its part, because this latter axiom is not so much an axiom as a conclusion with respect to the former. One can prove that the whole is greater than its part by this first axiom, but this first cannot be proved by any other: it is absolutely the first and the foundation of all clear and evident knowledge. Whence comes it then that no one hesitates on the conclusion, and that many people doubt the principle from which it is drawn, if not that the ideas of whole and part are sensible, and that one sees as it were with one's eyes that the whole is greater than its part, but that one does not see with the eyes the truth of the first axiom of all sciences?
 
-Il faut donc bien retenir que la forte inclination que nous avons
-pour les divertissements, les plaisirs, et généralement pour tout
-ce qui touche nos sens, nous jette dans un très-grand nombre
-d’erreurs, parce que, la capacité de notre esprit étant bornée,
-cette inclination nous détourne sans cesse de l’attention aux idées
-claires et distinctes de l’entendement pur, propres à découvrir la
-vérité, pour nous appliquer aux idées fausses, obscures et
-trompeuses de nos sens, lesquelles inclinent plus la volonté par
-l’espérance du bien et du plaisir qu’elles n’éclairent par leur
-lumière et leur évidence.
+As in this axiom there is nothing that arrests and naturally applies the mind, one must will to consider it, and even with some constancy and firmness, to recognize its truth with evidence; the force of the will must supply for sensible attraction. But men do not think of objects that do not flatter their senses; or if they think of them, they make no effort for that.
 
+For to continue our same example, they think it is evident that the whole is greater than its part, that a marble mountain is possible, and that a mountain without a valley is impossible, and that it is not equally evident that there is a God. Nevertheless one can say that the evidence is equal in all these propositions, since they are all equally distant from the first principle.
+
+Here is the first principle. One must attribute to a thing what one clearly conceives to be contained in the idea that represents it. One clearly conceives that there is more greatness in the idea one has of the whole than in the idea one has of its part; that possible existence is contained in the idea of a marble mountain; impossible existence in the idea of a mountain without a valley; and necessary existence in the idea one has of God, I mean of the infinitely perfect being. Therefore the whole is greater than its part: therefore a marble mountain can exist: therefore a mountain without a valley cannot exist: therefore God or the infinitely perfect being exists necessarily. It is visible that these conclusions are equally distant from the first principle of all sciences; they are therefore equally evident in themselves. It is therefore as evident that God exists as it is evident that the whole is greater than its part. But because the ideas of infinite, of perfection, of necessary existence, are not sensible like the ideas of whole and part, one imagines that one does not conceive what one does not feel; and although these conclusions are equally evident, they are not however equally received.
+
+There are people who try to persuade that they have no idea of an infinitely perfect being. But I do not know how they think of answering positively when asked whether an infinitely perfect being is round or square, or something similar; for they should say they know nothing about it, if it is true that they have no idea of it.
+
+There are others who grant that it is good reasoning to conclude that God is not an impossible being from the fact that one sees that the idea of God contains no contradiction or impossible existence; and they do not wish that one should likewise conclude that God exists necessarily from the fact that one conceives necessary existence in the idea one has of Him.
+
+There are still others who claim that this proof of the existence of God, which is M. Descartes', is a pure sophism; and that the argument concludes only on the supposition that it is true that God exists, as if one did not prove it. Here is the proof. One must attribute to a thing what one clearly conceives to be contained in the idea that represents it. That is the general principle of all sciences. Necessary existence is contained in the idea that represents an infinitely perfect being. They grant it. And consequently one must say that the infinitely perfect being exists. Yes, they say, supposing that it exists.
+
+But let us make a similar reply to a similar argument, so that one may judge the solidity of their reply. Here is the similar argument. One must attribute to a thing what one clearly conceives to be contained in the idea that represents it: that is the principle. One clearly conceives four angles contained in the idea that represents a square, or one clearly conceives that possible existence is contained in the idea of a marble tower; therefore a square has four angles; therefore a marble tower is possible. I say that these conclusions are true, supposing that the square has four angles, and that the marble tower is possible; just as they reply that God exists, supposing that He exists: that is to say, in a word, that the conclusions of these demonstrations are true, supposing that they are true.
+
+I admit that if I made such an argument: One must attribute to a thing what one clearly conceives to be contained in the idea that represents it; one clearly conceives necessary existence contained in the idea of an infinitely perfect body; therefore an infinitely perfect body exists; it is true, I say, that if I made such an argument, one would be right to reply to me that it would not conclude the actual existence of an infinitely perfect body; but only that, supposing there were such a body, it would have its existence by itself. The reason is that the idea of an infinitely perfect body is a fiction of the mind or a composite idea, and which consequently can be false or contradictory, as it is in effect: for one cannot clearly conceive an infinitely perfect body; a particular and finite being, such as body, cannot be conceived as universal and infinite. But the idea of God or of being in general, of being without restriction, of infinite being, is not a fiction of the mind. It is not a composite idea that contains some contradiction; there is nothing simpler, although it comprehends everything that is and everything that can be. Now this simple and natural idea of being or of the infinite contains necessary existence; for it is evident that being (I do not say such a being) has its existence by itself; and that being cannot not be actually, it being impossible and contradictory that true being should be without existence. It can happen that bodies do not exist, because bodies are such beings that participate in being and depend on it. But being without restriction is necessary; it is independent; it holds what it is only from itself: everything that is comes from it. If there is something, it is, since everything that is comes from it; but even if there were no particular thing, it would be, because it is by itself, and one cannot clearly conceive it as not existing; unless one represents it to oneself as a particular being or as such a being, and thus considers any other idea than its own. For those who do not see that God is, ordinarily they do not consider being, but such a being, and consequently a being that can be or not be.
+
+However so that one may understand still more distinctly this proof of M. Descartes of the existence of God, and reply more clearly to some objections that might be made to it; here is, it seems to me, what it is necessary to add to it. One must remember that when one sees a creature one does not see it in itself nor by itself; for one sees it, as was proved in the third book, only by the sight of certain perfections that are in God, which represent it. Thus one can see the essence of this creature without seeing its existence, its idea without it; one can see in God what represents it without it existing. It is solely because of this that necessary existence is not contained in the idea that represents it, it not being necessary that it should actually be, in order for one to see it, unless one pretends that created objects are visible immediately, intelligible by themselves, capable of enlightening, affecting, modifying intelligences. But it is not the same with the infinitely perfect being; one can see it only in itself; for there is nothing finite that can represent the infinite. One cannot therefore see God without His existing; one cannot see the essence of an infinitely perfect being without seeing its existence; one cannot see it simply as a possible being; nothing comprehends it; nothing can represent it. If therefore one thinks of it, it must be.
+
+This reasoning appears to me in the last degree of evidence. However there are people who maintain this proposition, that the finite can represent the infinite; and that the modalities of our soul, although finite, are essentially representative of the infinitely perfect being, and generally of everything we perceive: a gross error, and which by its consequences destroys the certainty of all sciences, as it is easy to prove. But it is so false that the modalities of the soul are representative of all beings, that they cannot be of any, not even of what they are; for although we have inner feeling of our existence and of our actual modalities, we do not know them at all.
+
+Certainly the soul has no clear idea of its substance: one knows what I mean [9] by clear idea. It cannot discover by considering itself whether it is capable of such and such a modification it has never had. It truly feels its pain, but it does not know it; it does not know how its substance must be modified to suffer it, and to suffer one pain rather than another. There is much difference between feeling oneself and knowing oneself. God who acts incessantly in the soul knows it perfectly; He sees clearly, without suffering the pain, how the soul must be modified so that it may suffer it; but the soul on the contrary suffers the pain and does not know it. God knows it without feeling it, and the soul feels it without knowing it. God clearly knows the nature of the soul, because He finds in Himself a clear and representative idea of it.
+
+God, as St. Thomas speaks, perfectly knows His substance or essence, and He discovers in it consequently all the ways in which it is participable by creatures. Thus His substance is truly representative of it because it contains its archetype or eternal model. For God can draw His knowledge only from Himself. He sees in His essence the ideas or essences of all possible beings, and in His wills their existence and all the circumstances of their existence. But the soul is to itself only darkness; its light comes from elsewhere. All the beings it knows and can know are not resemblances of its substance; they do not participate in it. It does not contain eminently their perfections. The modalities of the soul cannot therefore be, as in God, representative of the essence or idea of possible beings. It is therefore necessary to distinguish the ideas that enlighten us, that affect us, and that represent these beings, from the modalities of our soul, that is to say, from the perceptions we have of them. And as the existence of creatures does not depend on our wills, but on that of the Creator, it is also clear that we cannot assure ourselves of their existence except by some kind of revelation, natural or supernatural. But moreover, even if all beings were resemblances of our soul, how could it see them in its pretended representative modalities, it which does not know its substance perfectly, *secundum omnem modum quo cognoscibilis est*; which does not know how it is modified by the perception it has of objects; what am I saying! it which confuses itself with the body, and often does not know what are the modalities that belong to it; finally it which, when touched, or when ideas affect it by their efficacy, feels in itself its modalities or its perceptions, for where could it feel them elsewhere? but which will never clearly discover what it is, its nature, its properties, all the modalities of which it is capable, until the luminous and always efficacious substance of the divinity reveals to it the idea that represents it, the intelligible spirit, the eternal model upon which it was formed? But let us try to clarify this matter further, and force every attentive mind to yield to this proposition, which had appeared to me clear in itself, that nothing finite can represent the infinite.
+
+It is certain that nothingness or the false is not visible or intelligible. To see nothing is not to see; to think of nothing is not to think. It is impossible to perceive a falsity, for example, a relation of equality between two and two and five; for this relation or any other, which does not exist, can be believed, but certainly it cannot be perceived, because nothingness is not visible. This is properly the first principle of all our knowledge; it is also that by which I began the *Conversations on Metaphysics*, of which it is appropriate to read the first two; for this one, ordinarily received by Cartesians—that one can affirm of a thing what one clearly conceives to be contained in the idea that represents it—depends on it; and it is true only on supposing that ideas are immutable, necessary and divine. For if our ideas were only our perceptions, if our modalities were representative, how would we know that things correspond to our ideas, since God does not think, and consequently does not act, according to our perceptions, but according to His own? Now, it follows from the fact that nothingness is not visible, that everything one sees clearly, directly, immediately, exists necessarily. I say what one sees immediately, let them take heed, or what one conceives; for, strictly speaking, the objects one sees immediately are very different from those one sees outside, or rather those one believes one sees, or those one looks at; for it is true in one sense that one does not see these latter, since one can see or rather believe one sees outside objects that do not exist, notwithstanding that nothingness is not visible. But there is a contradiction that one could see immediately what does not exist, for at the same time one would see and one would not see, since to see nothing is not to see.
+
+But although one must be to be perceived, not everything that actually is is therefore visible by itself; for, in order that it might be, it would be necessary that it could act immediately in the soul, that it could by itself enlighten, affect or modify minds; otherwise our soul, which is purely passive, as capable of perceptions, would never perceive it: for even if one imagined that the soul were in the object and penetrated it, as one ordinarily supposes it is in the brain and penetrates it, it could not perceive it, since it cannot discover the parts that compose its brain, that very one where it is said it makes its principal residence. It is that there is nothing visible and intelligible by itself except what can act in minds.
+
+Let us nevertheless suppose these two falsities: 1° that all reality can be perceived by the pretended action of the mind; 2° that the soul has not only inner feeling of its being and its modalities, but that it knows them perfectly. Provided one grants me only that nothingness is not visible, which I have just demonstrated, it is very easy to conclude from it that the modalities of the soul cannot represent the infinite; for one cannot see three realities where there are only two, since one would see a nothingness, a reality that does not exist. One cannot see a hundred realities where there are only forty, for one would see sixty realities that do not exist. One cannot therefore see the infinite in the soul nor in its finite modalities, for one would see an infinite that does not exist. Now nothingness is neither visible nor intelligible; therefore the soul cannot see in its substance nor in its modalities an infinite reality, this intelligible extension, for example, which one sees so clearly to be infinite, that one is certain the soul will never exhaust it. But to be able to represent the infinite is not to be able to perceive it, to be able to have a very slight or infinitely small perception of it, such as is that which we have of it; it is to be able to make it perceived in itself, and consequently to contain it, so to speak, since nothingness cannot be perceived; and to contain it even such that it is intelligible or efficacious by itself, capable of affecting the intelligent substance of the soul.
+
+It is therefore clear that the soul, its modalities, nothing finite can represent the infinite; that one can see the infinite only in itself and by the efficacy of its substance; that the infinite has not and cannot have an archetype, or idea distinguished from it, which represents it; and that thus if one thinks of the infinite it must be. But certainly one thinks of it; one has of it, I do not say a comprehension, or a perception that measures and embraces it; but one has some perception of it, that is to say a perception infinitely small, compared to a perfect comprehension; for one must take good heed that one needs no more thought, or a greater capacity for thinking, to have an infinitely small perception of the infinite, than to have a perfect perception of something finite, since every finite magnitude, compared to the infinite or divided by the infinite, is to this finite magnitude as this same magnitude is to the infinite. This is evident, by the same reason that proves that 1/1000 is to 1 as 1 is to 1000; that two, three, four millionths is to two, three, four, as two, three, four is to two, three, four million: for although one infinitely increases the zeros, it is clear that the proportion always remains the same. It is that a finite magnitude or reality is equal to an infinitely small reality of the infinite, or with respect to the infinite: I say with respect to the infinite, for great and small are such only by relation. Thus, it is certain that a modality or a perception finite in itself can be the perception of the infinite, provided that the perception of the infinite is infinitely small with respect to an infinite perception or to the perfect comprehension of the infinite.
+
+---
+
+One should not judge the greatness of objects or the reality of ideas by the force and vivacity, or, to speak as the School, by the degree of intensity of the modalities or perceptions by which ideas affect our soul. The point of a thorn that pricks me, a burning coal that burns me, has not as much reality as a countryside I see. However, the capacity I have for thinking is more filled by the pain of the prick or burn than by the view of the countryside. Likewise when I have my eyes open in the middle of a countryside, I have a sensible perception of a bounded extension much more vivid and which occupies more of the capacity of my soul than that which I have when I think of extension with my eyes closed. But the idea of extension that affects me through the sensation of various colors does not have as much reality as that which affects me only by pure intellection; for by pure intellection I see extension infinitely beyond that which I see with my eyes open. We must not therefore judge, I do not say of the efficacy, I say of the reality of ideas by the strong or slight manner in which they touch us; but we must judge from the fact that they touch us, however slight the modality by which they touch us, however weak the perception we have of them. We must judge of their reality, because we perceive it and nothingness cannot be perceived. I say this to make one conceive that there is no contradiction that the infinite can be perceived by a finite capacity of perception, and to undeceive those who, deceived by this pretended contradiction, maintain that one has no idea of the infinite, notwithstanding the inner feeling which teaches us that we actually think of the infinite, or, to speak like others, that we naturally have the idea of God or of the infinitely perfect being.
+
+---
+
+I could have proved that the modalities of the soul are not representative of the infinite nor of anything whatever, or that ideas are very different from the perceptions we have of them, by other proofs than that which I have just drawn from this common notion, that nothingness is not visible. For it is clear that the modalities of the soul are changeable and that ideas are immutable; that its modalities are particular, and that ideas are universal and general to all intelligences; that its modalities are contingent, and that ideas are eternal and necessary; that its modalities are obscure and dark, and that ideas are very clear and luminous; that is to say, that its modalities are only obscurely, although vividly felt, and that ideas are clearly known, as being the foundation of all sciences. But I have already written so much on the nature of ideas in this work and in several others, that I believe I have some right to refer the reader to them.
+
+It is therefore as evident that there is a God as it is evident to me that I am. I conclude that I am, because I feel myself, and nothingness cannot be felt. I likewise conclude that God is, that the infinitely perfect being exists, because I perceive it, and nothingness cannot be perceived, nor consequently the infinite in the finite. But it is useless to propose such demonstrations to common men. These are demonstrations that can be called personal, because they do not generally convince all men. This is because most men, and sometimes even the most learned or those who have read most, do not wish or cannot give attention to metaphysical proofs, for which they ordinarily have sovereign contempt. One must therefore, if one wishes to convince them, bring more sensible ones: and certainly one does not lack them; for there is no truth that has more proofs than that of the existence of God. I bring this one only to show that abstract truths, acting almost not at all on our senses, are taken for illusions and chimeras; whereas gross, palpable truths, and which make themselves felt, forcing the soul to consider them, persuade one that they have much reality, because since the sin they make much more impression on our mind than purely intelligible truths.
+
+It is also for the same reason that there is no reason to hope that common men will ever yield to this demonstration for proving that animals do not feel, namely: that being innocent, as everyone agrees, and I suppose it, if they were capable of sensation, it would happen that, under an infinitely just and all-powerful God, an innocent would suffer pain, which is a penalty and the punishment of some sin. Men are ordinarily incapable of seeing the evidence of this axiom: *Sub justo Deo, quisquam, nisi mereatur, miser esse non potest* [10] ("Under a just God, no one can be miserable unless he deserves it"), which St. Augustine uses with much reason, against Julian, to prove original sin and the corruption of our nature. They imagine that there is no force nor solidity in this axiom and in some others that prove that beasts do not feel, because, as we have just said, these axioms are abstract, contain nothing sensible or palpable, and make no impression on our senses.
+
+The sensible actions and movements that beasts make for the preservation of their life are reasons, although only probable, that touch us much more, and that consequently incline us much more strongly to believe that they suffer pain when struck and crying out, than this abstract reason of the pure mind, although very certain and very evident in itself; for it is certain that most men have no other reason for believing that animals have souls than the sensible view of all that beasts do for the preservation of their life.
+
+This appears enough from the fact that most do not imagine that there is a soul in an egg, although the transformation of an egg into a chicken is infinitely more difficult than the mere preservation of the chicken when it is fully formed; for, just as it takes more intelligence to make a watch from a piece of iron than to make it go when it is fully finished, one should rather admit a soul in an egg to form a chicken from it than to make this chicken live when it is fully formed. But men do not sensibly see the admirable manner in which a chicken is formed, as they always sensibly see the manner in which it seeks things necessary for its preservation. Thus, they are not led to believe that there are souls in eggs by any sensible impression of the movements necessary to transform eggs into chickens; but they give souls to animals because of the sensible impression of the exterior actions that these animals make for the preservation of their life, although the reason I have just given is stronger for giving souls to eggs than for giving them to chickens.
+
+This second reason, which is that matter is incapable of feeling and desiring, is without doubt a demonstrative reason against those who say that animals feel, although their souls are corporeal. But men will eternally confuse and muddle these reasons rather than admit a thing contrary to proofs only probable, but very sensible and very touching; and one can fully convince them only by opposing sensible proofs to their sensible proofs, and by showing them visibly how all the parts of animals are only machines, and that they can move without a soul by the sole impression of objects and their particular constitution, as M. Descartes began to do in his treatise *On Man*. For all the most certain and evident reasons of pure understanding will never persuade them of the contrary of the obscure proofs they have through the senses; and it is even to expose oneself to the ridicule of superficial minds little capable of attention to pretend to prove to them, by somewhat elevated reasons, that animals do not feel.
+
+---
+
+One must therefore firmly remember that the strong inclination we have for diversions, pleasures, and generally for everything that touches our senses, casts us into a very great number of errors, because, the capacity of our mind being limited, this inclination continually turns us away from attention to clear and distinct ideas of pure understanding, proper for discovering truth, to apply us to the false, obscure and deceitful ideas of our senses, which incline the will more by the hope of good and pleasure than they enlighten by their light and evidence.

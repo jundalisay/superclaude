@@ -1,6 +1,6 @@
 ---
 heading: Book 3
-title: "Cognition"
+title: "The Mind or Pure Understanding"
 description: ""
 a: "Malebranche"
 c: "indigo"

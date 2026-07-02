@@ -1,6 +1,6 @@
 ---
 heading: Chapter 13
-title: "The Rules"
+title: "Friendship Toward Others"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,432 +10,75 @@ date: 2026-06-20
 
 
 
+Of all our inclinations in general, in the sense I explained in the first chapter, there remains only that which we have for those with whom we live and for all the objects surrounding us. Of this I shall say almost nothing, because it pertains more to morals and politics than to our subject.
 
-I. De la troisième inclination naturelle, qui est l’amitié que nous avoirs ! pour les autre :
-hommes. - II. Elle porte à approuver les pensées de nos amis et à les tromper par
-de fausses louanges.
+Since this inclination is always joined with the passions, it might be more appropriate to speak of it only in the following book; but order is not of such great consequence in this matter.
 
-De toutes nos inclinations prises en général et au sens que je
-l’ai expliqué dans le premier chapitre, il ne reste plus que celle
-que nous avons pour ceux avec qui nous vivons et pour tous les
-objets qui nous environnent, de laquelle je ne dirai presque rien, parce que cela regarde plutôt la morale et la politique que notre
-sujet. 
+## The third natural inclination, which is the friendship we have for other men
 
-Comme cette inclination est toujours jointe avec les
-passions, il serait peut-être plus à propos de n’en parler que dans
-le livre suivant ; mais l’ordre n’est pas en cela de si grande
-conséquence.
+To properly understand the cause and effects of this natural inclination, we must know that God loves all His works, and that He unites them closely with one another for their mutual preservation; for, loving unceasingly the works He produces, since it is His love that produces them, He also unceasingly imprints in our hearts a love for His works, since He unceasingly produces in our hearts a love similar to His own.
 
+And so that the natural love we have for ourselves might not annihilate or weaken too greatly that which we have for things outside us, and that on the contrary these two loves that God places in us might sustain and strengthen each other, He has bound us in such a way to everything that surrounds us, and principally to beings of our own kind, that their misfortunes afflict us naturally, that their joy rejoices us, and that their greatness, their abasement, their diminution, seems to increase or diminish our own being. The new dignities of our relatives and friends, the new acquisitions of those most closely related to us, the conquests and victories of our prince, and even the new discoveries of the New World, seem to add something to our substance. Holding to all these things, we rejoice in their greatness and extent; we would even wish that this world had no bounds; and this thought of certain philosophers, that the stars and vortices are infinite, not only seems worthy of God, but also appears very agreeable to man, who feels a secret joy in being part of the infinite; because, however small he is in himself, it seems to him that he becomes as if infinite by spreading himself into the infinite beings that surround him.
 
-I. Pour bien comprendre la cause et les effets de cette
-inclination naturelle, il faut savoir que Dieu aime tous ses
-ouvrages, et qu’il les unit étroitement les uns avec les autres pour
-leur mutuelle conservation ; car, aimant sans cesse les ouvrages
-qu’il produit, puisque c’est son amour qui les produit, il imprime
-aussi sans cesse dans notre cœur un amour pour ses ouvrages,
-puisqu’il produit sans cesse dans notre cœur un amour pareil au
-sien. 
+It is true that the union we have with all the bodies that roll in these vast spaces is not very close. Thus, it is not perceptible to most men, and there are some who take so little interest in the discoveries made in the heavens that one might well believe they are not united to them by nature, if one did not know otherwise that this is either for lack of knowledge, or because they cling too much to other things.
 
-Et, afin que l’amour naturel que nous avons pour nousmêmes n’anéantisse et n’affaiblisse pas trop celui que nous avons
-pour les choses qui sont hors de nous, et qu’au contraire ces deux
-amours que Dieu met en nous s’entretiennent et se fortifient l’un
-l’autre, il nous a liés de telle manière avec tout ce qui nous
-environne, et principalement avec les êtres de même espèce que
-nous, que leurs maux nous affligent naturellement, que leur joie
-nous réjouit, et que leur grandeur, leur abaissement, leur
-diminution, semble augmenter ou diminuer notre être propre. Les
-nouvelles dignités de nos parents et de nos amis, les nouvelles
-acquisitions de ceux qui ont le plus de rapport à nous, les
-conquêtes et les victoires de notre prince, et même les nouvelles
-découvertes du nouveau monde, semblent ajouter quelque chose à
-notre substance. Tenant à toutes ces choses, nous nous
-réjouissons de leur grandeur et de leur étendue : nous voudrions
-même que ce monde n’eût point de bornes ; et cette pensée de
-quelques philosophes, que les étoiles et les tourbillons sont
-infinis, non-seulement semble digne de Dieu, mais elle parait encore très-agréable à l’homme, qui sent une secrète joie de faire
-partie de l’infini ; parce que, tout petit qu’il est en lui-même, il
-lui semble qu’il devienne comme infini en se répandant dans les
-êtres infinis qui l’environnent.
+The soul, although united to the body it animates, does not always feel all the movements that occur within it; or, if it feels them, it does not always attend to them: the passion that agitates it being often greater than the sensation that touches it, it seems to cling more to the object of its passion than to its own body; for it is principally through the passions that the soul spreads outward and feels that it effectively holds to everything that surrounds it; just as it is principally through sensation that it spreads into its body and recognizes that it is united to all the parts that compose it. But just as one cannot conclude that the soul of a passionate man is not united to his body because he exposes himself to death and takes no interest in preserving his life, so too one should not imagine that we do not hold naturally to all things, because there are some in which we take no part.
 
-Il est vrai que l’union que nous avons avec tous les corps qui
-roulent dans ces grands espaces n’est pas fort étroite. Ainsi, elle
-n’est pas sensible à la plupart des hommes, et il y en à qui
-s’intéressent si peu dans les découvertes que l’on fait dans les
-cieux, que l’on pourrait bien croire qu’ils n’y sont point unis par
-la nature. si l’on ne savait d’ailleurs que c’est ou faute de
-connaissance, ou parce qu’ils tiennent trop à d’autres choses.
-L’âme, quoique unie au corps qu’elle anime, ne sent pas
-toujours tous les mouvements qui s’y passent ; ou bien, si elle les
-sent, elle ne s’y applique pas toujours : la passion qui l’agite
-étant souvent plus grande que le sentiment qui la touche, elle
-semble tenir davantage à l’objet de sa passion qu’à son propre
-corps ; car c’est principalement par les passions que l*àme se
-répand au dehors et qu’elle sent qu’elle tient effectivement à tout
-ce qui l’en*ironne ; comme c’est principalement par le sentiment
-qu’elle se répand dans son corps et qu’elle reconnaît qu’elle est
-unie in toutes les parties qui le composent. Mais, comme on ne
-peut pas conclure que l’àme d’un passionné n’est pas unie à son
-corps. à cause qu’il s’offre à la mort, et qu’il ne s’intéresse point
-pour la conservation de sa vie : de même on ne doit pas
-s’imaginer que nous ne tenions point naturellement à toutes
-choses, à cause qu’il y en a auxquelles nous ne prenons point de
-part.
+Do you wish, for example, to know whether men are attached to their prince, to their country? Seek out those who understand its interests and who have no private affairs occupying them: you will then see how great will be their eagerness for news, their anxiety over battles, their joy in victories, their sadness in defeats. You will then clearly see that men are closely united to their prince and their country.
 
-Voulez-vous, par exemple, savoir si les hommes tiennent à leur
-prince, à leur patrie ; cherchez-en qui en connaissent les intérêts et qui n’aient point d’affaires particulières qui les occupent :
-vous verrez alors combien grande sera leur ardeur pour les
-nouvelles, leur inquiétude pour les batailles, leur joie dans les
-victoires, leur tristesse dans les défaites. Vous verrez alors
-clairement que les hommes sont étroitement unis à leur prince et à
-leur patrie.
+Likewise, do you wish to know whether men are attached to China and Japan, to the planets and fixed stars? Seek out, or imagine, some whose country and family enjoy profound peace, who have no particular passions, and who do not actively feel the union that attaches them to things closer to us than the heavens; and you will recognize that if they have some knowledge of the grandeur and nature of these stars, they will rejoice if some are discovered; they will contemplate them with pleasure; and if they are sufficiently skilled, they will willingly take the trouble to observe and calculate their movements.
 
-De même, voulez-vous savoir si les hommes tiennent à la
-Chine et au Japon, aux planètes et aux étoiles fixes : cherchez-en,
-ou bien imaginez-vous-en quelques-uns dont le pays et la famille
-jouissent d’une profonde paix, qui n’aient point de passions
-particulières et qui ne sentent point actuellement l’union qui les
-tient attachés aux choses qui sont plus proche de nous que les
-cieux ; et vous reconnaîtrez que s’ils ont quelque connaissance de
-la grandeur et de la nature de ces astres. ils auront de la joie si
-l’on en découvre quelques-uns ; ils les considéreront avec
-plaisir ; et s’ils sont assez habiles, ils se donneront volontiers la
-peine d’en observer et d’en calculer les mouvements.
+Those who are in the turmoil of affairs are little concerned whether a comet appears or an eclipse occurs; but those who do not cling so strongly to things near them make a considerable matter of such events, because in effect there is nothing to which one does not cling, although one does not always feel it; just as one does not always feel that one's soul is united, I do not say to one's arm and hand, but to one's heart and brain.
 
-Ceux qui sont dans le trouble des affaires ne se mettent guère
-en peine s’il paraît quelque comète ou s’il arrive quelque
-éclipse ; mais ceux qui ne tiennent point si fort aux choses qui
-sont proche d’eux se font une affaire considérable de ces sortes
-d’événements, parce qu’en effet il n’y a rien à quoi l’on ne
-tienne, quoiqu’on ne le sente pas toujours ; de même qu’on ne
-sent pas toujours que son âme est unie, je ne dis pas à son bras et
-à sa main, mais à son cœur et à son cerveau.
+---
 
-La plus forte union naturelle que Dieu ait mise entre nous et
-ses ouvrages est celle qui nous lie avec les hommes avec
-lesquels nous vivons. Dieu nous a commandé de les aimer
-comme d’autres nous mêmes ; et afin que l’amour de choix par lequel nous les aimons soit ferme et constant, il le soutient et le
-fortifie sans cesse par un amour naturel qu’il imprime en nous. Il
-a mis pour cela certains liens invisibles qui nous obligent comme
-nécessairement à les aimer, à veiller à leur conservation comme
-à la nôtre, à les regarder comme des parties nécessaires au tout
-que nous composons avec eux, et sans lequel nous ne saurions
-subsister.
+The strongest natural union that God has placed between us and His works is that which binds us to the men with whom we live. God has commanded us to love them as ourselves; and so that the love of choice by which we love them might be firm and constant, He sustains and strengthens it unceasingly by a natural love He imprints in us. For this purpose He has placed certain invisible bonds that oblige us as if necessarily to love them, to watch over their preservation as over our own, to regard them as necessary parts of the whole we compose with them, and without which we could not subsist.
 
-Il n’y a rien de plus admirable que ces rapports naturels qui se
-trouvent entre les inclinations des esprits des hommes, entre les
-mouvements de leur corps, et entre ces inclinations et ces
-mouvements. Tout cet enchaînement secret est une merveille
-qu’on ne peut assez admirer et qu’on ne saurait jamais
-comprendre. A la vue de quelque mal qui surprend ou que l’on
-sent comme insurmontable par ses propres forces, on jette, par
-exemple, un grand cri. Ce cri, poussé souvent sans qu’on y pense
-et par la disposition de la machine, entre infailliblement dans les
-oreilles de ceux qui sont assez proche pour donner le secours
-dont on a besoin. Il les pénètre, ce cri, et se fait entendre à eux de
-quelque nation et de quelque qualité qu’ils soient ; car ce cri est
-de toutes les langues et de toutes les conditions, comme en effet il
-en doit être. Il agite le cerveau et change en un moment toute la
-disposition du corps de ceux qui en sont frappés, il les fait même
-courir au secours sans qu’ils y pensent. Mais il n’est pas longtemps sans agir sur leur esprit et sans les obliger à vouloir
-secourir età penser aux moyens de secourir celui qui a fait cette
-prière naturelle, pourvu toutefois que cette prière ou plutôt ce
-commandement pressant soit juste et selon les règles de la
-société. Car un cri indiscret, poussé sans sujet ou par une vaine
-frayeur, produit dans les assistans de l’indignation ou de la
-moquerie au lieu de compassion, parce qu’en criant sans raison l’on abuse des choses établies par la nature pour notre
-conservation. Ce cri indiscret produit naturellement de l’aversion
-et le désir de venger le tort que l’on a fait à la nature, je veux
-dire à l’ordre des choses, si celui qui l’a fait sans sujet l’a fait
-volontairement. Mais il ne doit produire que la passion de
-moquerie mèlée de quelque compassion, sans aversion et sans un
-désir de vengeance, si c’est l’épouvante, c’est-à-dire une fausse
-apparence d’un besoin pressant, qui ait été cause que quelqu’un
-se soit écrié : car il faut de la moquerie pour le rassurer comme
-craintif et pour le corriger, et il faut de la compassion pour le
-secourir comme faible : on ne peut rien concevoir de mieux
-ordonné.
+There is nothing more admirable than these natural relationships found between the inclinations of men's minds, between the movements of their bodies, and between these inclinations and these movements. All this secret interlinking is a marvel one cannot admire enough and could never fully comprehend. At the sight of some misfortune that surprises one or that one feels is insurmountable by one's own strength, one lets out, for example, a great cry. This cry, often uttered without thinking and by the disposition of the machine, enters infallibly into the ears of those who are close enough to give the help one needs. This cry penetrates them and makes itself heard to them, of whatever nation and condition they may be; for this cry is of all languages and all conditions, as indeed it ought to be. It agitates the brain and changes in a moment the entire disposition of the body of those who are struck by it; it even makes them run to help without thinking. But it is not long before it acts upon their mind and obliges them to will to help and to think of means to help the one who has made this natural prayer, provided, however, that this prayer or rather this pressing command is just and according to the rules of society. For an indiscreet cry, uttered without cause or from vain fear, produces in those present indignation or mockery instead of compassion, because by crying out without reason one abuses the things established by nature for our preservation. This indiscreet cry naturally produces aversion and the desire to avenge the wrong done to nature—that is, to the order of things—if the one who made it without cause did so voluntarily. But it should produce only the passion of mockery mixed with some compassion, without aversion and without a desire for vengeance, if it was fright—that is, a false appearance of pressing need—that caused someone to cry out; for mockery is needed to reassure him as fearful and to correct him, and compassion is needed to help him as weak: one could conceive of nothing better ordered.
 
-Je ne prétends pas expliquer par un exemple quels sont les
-ressorts et les rapports que l’auteur de la nature a mis dans le
-cerveau des hommes et de tous les animaux pour entretenir le
-concert et l’union nécessaire à leur conservation. Je fais
-seulement quelques réflexions sur ces ressorts, afin que l’on y
-pense et que l’on recherche avec soin, non comment ces ressorts
-jouent, ni comment leur jeu se communique par l’air, par la
-lumière et par tous les petits corps qui nous environnant, car cela
-est presque incompréhensible et n’est pas nécessaire ; mais au
-moins afin que l’on reconnaisse quels en sont les effets. On peut
-par différentes observations reconnaître les liens qui nous
-attachent les uns aux autres, mais on ne peut connaître avec
-quelque exactitude comment cela se fait. On voit sans peine
-qu’une montre marque les heures ; mais il faut du temps pour en
-savoir les raisons ; et il y a tant de ressorts différents dans le
-cerveau du plus petit des animaux, qu’il n’y a rien de pareil dans
-les machines les plus composées.
+I do not pretend to explain by one example what are the springs and relationships that the author of nature has placed in the brain of men and of all animals to maintain the harmony and union necessary for their preservation. I only make some reflections on these springs, so that one might think about them and carefully investigate—not how these springs work, nor how their action is communicated through air, light, and all the small bodies surrounding us, for that is almost incomprehensible and not necessary—but at least so that one might recognize what their effects are. One can recognize by various observations the bonds that attach us to one another, but one cannot know with any exactitude how this is done. One easily sees that a watch marks the hours; but it takes time to know the reasons for it; and there are so many different springs in the brain of the smallest animal that nothing compares to it in the most complex machines.
 
-S’il n’est pas possible de comprendre parfaitement les ressorts
-de notre machine, il n’est pas aussi absolument nécessaire de les
-comprendre ; mais il est absolument nécessaire pour se conduire
-de bien savoir les effets que ces ressorts sont capables de
-produire en nous. Il n’est pas nécessaire de savoir comment une
-montre est faite pour s’en servir ; mais si l’on s’en veut servir
-pour régler son temps, il est du moins nécessaire de savoir
-qu’elle marque les heures. Cependant il y a des gens si peu
-capables de réflexion qu’on pourrait presque les comparer à des
-machines purement inanimées. lls ne sentent point en eux-mêmes
-les ressorts qui se débandent à la vue des objets ; souvent ils sont
-agîtés sans qu’ils s’aperçoivent de leurs propres mouvements ;
-ils sont esclaves sans qu’íls sentent leurs liens ; ils sont enfin
-conduits en mille manières différentes sans qu’ils reconnaissent
-la main de celui qui les gouverne. Ils pensent être les seuls
-auteurs de tous les mouvements qui leur arrivent ; et, ne
-distinguant point ; ce qui se passe en eux-mêmes en conséquence
-d’un acte libre de leur volonté d’avec ce qui s’y produit par
-l’impression des corps qui les environ rient, ils pensent qu”ils se
-conduisent eux-mêmes dans le temps qu’ils sont conduits par
-quelque autre. Mais ce n’est pas ici le lieu d’expliquer ces
-choses.
+If it is not possible to perfectly understand the springs of our machine, it is also not absolutely necessary to understand them; but it is absolutely necessary for conducting oneself to know well the effects these springs are capable of producing in us. It is not necessary to know how a watch is made to use it; but if one wishes to use it to regulate one's time, it is at least necessary to know that it marks the hours. However, there are people so incapable of reflection that one might almost compare them to purely inanimate machines. They do not feel in themselves the springs that are released at the sight of objects; often they are agitated without perceiving their own movements; they are slaves without feeling their bonds; they are finally led in a thousand different ways without recognizing the hand of the one who governs them. They think they are the sole authors of all the movements that happen to them; and, not distinguishing what passes in them as a consequence of a free act of their will from what is produced there by the impression of surrounding bodies, they think they conduct themselves when in fact they are conducted by something else. But this is not the place to explain these things.
+
+---
+
+The relationships that the author of nature has placed between our natural inclinations in order to unite us with one another seem even more worthy of our attention and investigation than those between bodies or between minds in relation to bodies. For everything is so ordered that the inclinations which seem most opposed to society are the most useful to it when they are somewhat moderated.
+
+The desire, for example, that all men have for greatness tends by itself to the dissolution of all societies. Nevertheless, this desire is tempered in such a way by the order of nature that it serves the good of the state more than many other weak and languishing inclinations. For it gives emulation, it excites to virtue, it sustains courage in the service rendered to one's country. And one would not win so many victories if soldiers and principally officers did not aspire to glory and offices. Thus those who compose armies, though working only for their particular interests, nevertheless procure the good of the whole country. This shows that it is very advantageous for the public good that all men have a secret desire for greatness, provided it be moderated.
+
+But if all individuals appeared to be what they are in effect, if they said frankly to others that they wish to be the principal parts of the body they compose, and never the least, that would not be the means to join together. All the members of a body cannot be the head and the heart; there must be feet and hands, small as well as great, those who obey as well as those who command. And if each one said openly that he wishes to command and never obey, as indeed each one naturally wishes, it is visible that all political bodies would destroy themselves, and that disorder and injustice would reign everywhere. It has therefore been necessary that those who have the most intelligence and who are the most suited to become the noble parts of this body and to command others should be naturally civil—that is, they should be inclined by a secret inclination to show others, by their manners and by civil and honest words, that they judge themselves unworthy that anyone think of them, and that they believe themselves to be the last of men, but that those to whom they speak are worthy of all sorts of honors, and that they have much esteem and veneration for them. Finally, for lack of charity and love of order, it has been necessary that those who command others have the art of deceiving them by an imaginary abasement that consists only in civilities and words, in order to enjoy without envy this preeminence that is necessary in all bodies. For in this way all men possess in some manner the greatness they desire: the great possess it in reality, and the small and the weak possess it only in imagination, being persuaded in some manner by the compliments of others that they are not regarded for what they are—that is, for the last among men.
+
+It is easy to conclude in passing from what we have just said that it is a very great fault against civility to speak often of oneself, especially when one speaks advantageously of oneself, even though one may have all sorts of good qualities, since it is not permissible to speak to the persons with whom one converses as if one regarded them as beneath oneself, except on certain occasions and when there are external and perceptible signs that elevate us above them. For finally, contempt is the worst of injuries: it is what is most capable of breaking society; and naturally we should not expect that a man to whom we have made known that we regard him as beneath us could ever join with us, because men cannot suffer being the last part of the body they compose.
+
+---
+
+The inclination that men have to pay compliments is therefore very suitable for counterbalancing that which they have for esteem and elevation, and for softening the inner pain felt by those who are the last parts of the political body. And one cannot doubt that the mixture of these two inclinations produces very good effects for maintaining society.
+
+But there is a strange corruption in these inclinations, as also in friendship, compassion, benevolence, and the others that tend to unite men together. That which should maintain civil society is often the cause of its disunion and ruin; and, not to stray from my subject, it is often the cause of the communication and establishment of error.
 
 
-Les rapports que l’auteur de la nature a mis entre nos
-inclinations naturelles afin de nous unir les uns avec les autres
-semblent encore être plus dignes de notre application et de nos
-recherches que ceux qui sont entre les corps ou entre les esprits
-par rapport aux corps. Car tout y est réglé de telle manière que
-les inclinations qui semblent être les plus opposées la société y
-sont les plus utiles lorsqu”elles sont un peu modérées.
+## It leads us to approve our friends' thoughts and to deceive them with false praise.**
 
-Le désir, par exemple, que tous les hommes ont pour la
-grandeur tend par lui-même à la dissolution de toutes les
-sociétés. Néanmoins ce désir est tempéré de telle manière par
-l’ordre de la nature, qu’il sert davantage au bien de l’état que
-beaucoup d’autres inclinations faibles et languissantes. Car il
-donne de l’émulation, il excite à la vertu, il soutient le courage
-dans le service qu’on rend à la patrie. et l’on ne gagnerait pas
-tant de victoires si les soldats et principalement les officiers
-n’aspiraient la gloire et aux charges. Ainsi vous ceux qui
-composent les armées, ne travail tant que pour leurs intérêts
-particuliers, ne laissent pas de procurer le bien de tout le pays.
-Ce qui fait voir qu’il est très-avantageux pour le bien public que
-tous les hommes aient un désir secret de grandeur, pourvu qu’il
-soit modéré.
+Of all the inclinations necessary to civil society, those that cast us most into error are friendship, favor, gratitude, and all the inclinations that lead us to speak too advantageously of others in their presence.
 
+We do not confine our love within the person of our friends; we also love with them all the things that belong to them in some way; and as they usually show enough passion for the defense of their opinions, they incline us insensibly to believe them, to approve them, and to defend them even with more obstinacy and passion than they do themselves; because they would often have poor grace to support them with warmth, and no one can find fault with us for defending them. In them it would be self-love; in us it is generosity.
 
-Mais, si tous les particuliers paraissaient être ce qu’ils sont en
-effet, s’ils disaient franchement aux autres qu’ils veulent être les
-principales parties du corps qu’ils composent, et n’en être jamais
-les dernières, ce ne serait pas le moyen de se joindre ensemble.
-Tous les membres d’un corps n’en peuvent pas être la tête et le
-cœur ; il faut des pieds et des mains, des petits aussi bien que des
-grands, des gens qui obéissent aussi bien que de ceux qui
-commandent. Et si chacun disait ouvertement qu’il veut
-commander et ne jamais obéir, comme en effet chacun le souhaite
-naturellement, il est visible que tous les corps politiques se
-détruiraient, et que le désordre et l’injustice régneraient partout.
-Il a donc été nécessaire que ceux qui ont le plus d’esprit et qui
-sont les plus propres à devenir les parties nobles de ce corps et à
-commander aux autres fussent naturellement civils, c’est-à-dire
-qu’ils fussent portés par une inclination secrète à témoigner aux
-autres, par leurs manières et par leurs paroles civiles et honnêtes,
-qu’ils se jugent indignes que l’on pense à eux, et qu’ils croient
-être les derniers des hommes, mais que ceux à qui ils parlent sont
-dignes de toutes sortes d’honneurs, et qu’ils ont beaucoup
-d’estime et de vénération pour eux. Enfin, au défaut de la charité
-et de l’amour de l’ordre, il a été nécessaire que ceux qui
-commandent aux autres eussent l’art de les tromper par un
-abaissement imaginaire qui ne consiste qu’en civilités et en
-paroles, afin de jouir sans envie de cette prééminence qui est
-nécessaire dans tous les corps. Car de cette sorte tous les
-hommes possèdent en quelque manière la grandeur qu’ils
-désirent : les grands la possèdent réellement, et les petits et les
-faibles ne la possèdent que par imagination, étant persuadés en
-quelque manière par les compliments des autres qu’on ne les
-regarde pas pour ce qu’ils sont, c’est-à-dire pour les derniers
-d’entre les hommes.
+We bear affection for other men for many reasons, for they can please us and serve us in different ways. The resemblance of humors, inclinations, employments, their air, their manners, their virtue, their goods, the affection or esteem they show us, the services they have rendered us or we hope from them, and many other particular reasons, determine us to love them. If it happens, then, that some friend of ours—that is, some person who has the same inclinations, who is well made, who speaks in an agreeable manner, whom we believe virtuous or of high condition, who shows us affection and esteem, who has rendered us some service or from whom we hope for some, or whom we love for some other particular reason—if it happens, I say, that this person advances some proposition, we let ourselves be immediately persuaded without making use of our reason. We support his opinion without troubling ourselves whether it conforms to truth, and often even against our own conscience, according to the obscurity and confusion of our mind, according to the corruption of our heart, and according to the advantages we hope to draw from our false generosity.
 
-Il est facile de conclure en passant de ce que nous venons de
-dire que c’est une très-grande faute contre la civilité que de
-parler souvent de soi, surtout quand on en parle avantageusement,
-quoique l’on ait toutes sortes de bonnes qualités, puisqu’il n’est
-pas permis de parler aux personnes avec qui l’on converse
-comme si on les regardait au-dessous de soi, si ce n’est en
-quelques rencontres. et lorsqu’il y a des marques extérieures et
-sensibles qui nous élèvent au-dessus d’elles. Car enfin le mépris
-est la dernière des injures : c’est ce qui est le plus capable de
-rompre la société ; et naturellement nous ne devons point espérer
-qu’un homme à qui nous avons fait connaître que nous le
-regardons au-dessous de nous se puisse jamais joindre avec
-nous, parce que les hommes ne peuvent souffrir d’être la dernière
-partie du corps qu’ils composent.
+It is not necessary to bring here particular examples of these things, for one is almost never for a single hour in company without noticing several if one wishes to reflect a little upon it. Favor and laughter, as they say ordinarily, are only rarely on the side of truth, but almost always on the side of the persons one loves. The speaker is obliging and civil; he is therefore right. If what he says is only probable, it is regarded as true; and if what he advances is absolutely ridiculous and impertinent, it will become at the very least highly probable. He is a man who loves me, who esteems me, who has rendered me some service, who is in the disposition and power to render me more, who has supported my opinion on other occasions: I would therefore be ungrateful and imprudent if I opposed his and if I even failed to applaud him. Thus one makes sport of truth, makes it serve one's interests, and embraces each other's false opinions.
 
+An honest man should not find fault with being instructed and enlightened when it is done according to the rules of civility; and when our friends take offense at our modestly representing to them that they are mistaken, we must allow them to love themselves and their errors, since they wish it and we have no power to command them or change their minds.
 
-L’inclination que les hommes ont à faire des compliments est
-donc très-propre pour contre-balancer celle qu’ils ont pour
-l’estime et l’élévation, et pour adoucir la peine intérieure que
-ressentent ceux qui sont les dernières parties du corps politique.
-Et l’on ne peut douter que le mélange de ces deux inclinations ne
-fasse de très-bons effets pour entretenir la société.
-Mais il y a une étrange corruption dans ces inclinations, aussi
-bien que dans l’amitié, la compassion, la bienveillance et les
-autres qui tendent à unir ensemble les hommes. Ce qui devrait
-entretenir la société civile est souvent cause de sa désunion et de
-sa ruine ; et, pour ne point sortir de mon sujet, il est souvent
-cause de la communication et de l’établissement de l’erreur.
-II. De toutes les inclinations nécessaires à la société civile,
-celles qui nous jettent le plus dans l’erreur sont l’amitié, la
-faveur, la reconnaissance, et toutes les inclinations qui nous
-portent à parler trop avantageusement des autres en leur
-présence.
+But a true friend should never approve his friend's errors, for finally we should consider that we do them more harm than we think when we defend their opinions without discernment. Our applause only inflates their hearts and confirms them in their errors; they become incorrigible; they act and decide finally as if they had become infallible.
 
-Nous ne bornons pas notre amour dans la personne de nos
-amis, nous aimons encore avec eux toutes les choses qui leur
-appartiennent en quelque façon ; et comme ils témoignent
-d’ordinaire assez de passion pour la défense de leurs opinions,
-ils nous inclinent insensiblement à les croire, à les approuver, et
-à les défendre même avec plus d’obstination et de passion qu’ils
-ne font eux-mêmes ; parce qu’ils auraient souvent mauvaise grâce
-de les soutenir avec chaleur, et qu’on ne peut trouver à redire que
-nous les défendions. En eux ce serait amour-propre, en nous c’est
-générosité.
+Whence comes it that the richest, the most powerful, the most noble, and generally all those who are elevated above others, so often believe themselves infallible, and comport themselves as if they had much more reason than those of vile or middling condition, if not because one approves indifferently and cowardly all their thoughts? Thus the approval we give to our friends makes them gradually believe that they have more intelligence than others, which makes them proud, bold, imprudent, and capable of falling into the grossest errors without perceiving it.
 
-Nous portons de l’affection aux autres hommes pour plusieurs
-raisons, car ils peuvent nous plaire et nous servir en différentes
+This is why our enemies often render us a better service and enlighten our minds much more by their oppositions than our friends do by their approvals; because our enemies oblige us to be on our guard and attentive to the things we advance; which alone suffices to make us recognize our wanderings. But our friends only lull us to sleep and give us a false confidence that makes us vain and ignorant. Men should therefore never admire their friends and yield to their sentiments through friendship, just as they should never oppose those of their enemies through enmity; but they should rid themselves of their flattering or contradicting spirit to become sincere and approve evidence and truth wherever they find it.
 
-manières. La ressemblance des humeurs, des inclinations, des
-emplois, leur air, leurs manières, leur vertu, leurs biens,
-l’affection ou l’estime qu’ils nous témoignent, les services qu’ils
-nous ont rendus ou que nous en espérons, et plusieurs autres
-raisons particulières, nous déterminent à les aimer. S’il arrive
-donc que quelqu’un de nos amis, c’est-à-dire quelque personne
-qui ait les mêmes inclinations, qui soit bien fait, qui parle d’une
-manière agréable, que nous croyions vertueux ou de grande
-condition, qui nous témoigne de l’affection et de l’estime, qui
-nous ait rendu quelque service ou de qui nous en espérions, ou
-enfin que nous aimions pour quelque autre raison particulière ;
-s’il arrive, dis-je, que cette personne avance quelque
-proposition, nous nous en laissons incontinent persuader sans
-faire usage de notre raison. Nous soutenons son opinion sans
-nous mettre en peine si elle est conforme à la vérité, et souvent
-même contre notre propre conscience, selon l’obscurité et la
-confusion de notre esprit, selon la corruption de notre cœur, et
-selon les avantages que nous espérons tirer de notre fausse
-générosité.
+We must also firmly impress upon our minds that most men are inclined to flattery or to paying us compliments by a sort of natural inclination, to appear witty, to attract the benevolence of others, and in hope of some return, or finally by a sort of malice and raillery; and we should not let ourselves be dazzled by all that may be said to us. Do we not see every day that persons who do not know each other nevertheless elevate each other to the skies the very first time they see and speak with one another? And what is more ordinary than to see people who give hyperbolic praises and who show extraordinary movements of admiration to a person who has just spoken in public, even in the presence of those with whom they made fun of him some time before? Whenever one exclaims, turns pale with admiration, and is as if surprised by the things one hears, it is not a good proof that the speaker says wonderful things, but rather that he speaks to flattering men, that he has friends or perhaps enemies who are amusing themselves at his expense. It is that he speaks in an engaging manner, that he is rich and powerful; or, if one wishes, it is a fairly good proof that what he says is supported by the confused and obscure notions of the senses, but very touching and agreeable, or that he has some fire of imagination, since praises are given to friendship, to riches, to dignities, to probabilities, and very rarely to truth.
 
-Il n’est pas nécessaire d*apporter ici des exemples
-particuliers de ces choses, car on ne se trouve presque jamais
-une seule heure dans une compagnie sans en remarquer plusieurs
-si l’on y veut faire un peu de réflexion. La faveur et les rieurs,
-comme l’on dit ordinairement, ne sont que rarement du côté de la
-vérité, mais presque toujours du côté des personnes que l’on
-aime. Celui qui parle est obligeant et civil ; il a donc raison. Si
-ce qu’il dit est seulement vraisemblable, on le regarde comme
-vrai ; et si ce qu’il avance est absolument ridicule et impertinent,
-il deviendra tout au moins fort vraisemblable. C’est un homme
-qui m’aime, qui m’estime, qui m’a rendu quelque service, qui est
-dans la disposition et dans le pouvoir de m’en rendre, qui a
-soutenu mon sentiment en d’autres occasions : je serais donc un
-ingrat et un imprudent si je m’opposais aux siens et si je
-manquais même à lui applaudir. C’est ainsi qu’on se joue de la
-vérité, qu’on la fait servir à ses intérêts et qu’on embrasse les
-fausses opinions les uns des autres.
+---
 
-Un honnête homme ne doit point trouver à redire qu’on
-l’instruise et qu’on l’éclaire quand on le fait selon les règles de
-la civilité ; et lorsque nos amis se choquent de ce que nous leur
-représentons modestement qu’ils se trompent, il faut leur
-permettre de s’aimer eux-mêmes et leurs erreurs, puisqu’ils le
-veulent et qu’on n’a pas le pouvoir de leur commander ni de leur
-changer l’esprit.
+One might expect that, having treated in general the inclinations of minds, I should descend into an exact detail of all the particular movements they feel at the sight of good and evil—that is, that I should explain the nature of love, hatred, joy, sadness, and all the intellectual passions, both general and particular, both simple and compound. But I am not committed to explaining all the different movements of which minds are capable.
 
-Mais un vrai ami ne doit jamais approuver les erreurs de son
-ami, car enfin nous devrions considérer que nous leur faisons
-plus de tort que nous ne pensons lorsque nous défendons leurs
-opinions sans discernement. Nos applaudissements ne font que
-leur enfler le cœur et les confirmer dans leurs erreurs ; ils
-deviennent incorrigibles ; ils agissent et ils décident eufin comme
-s’ils étaient devenus infaillibles.
-D’où vient que les plus riches, les plus puissants, les plus
-nobles, et généralement tous ceux qui sont élevés au-dessus des
-autres, se croient fort souvent infaillibles, et qu’ils se comportent
-comme s’ils avaient beaucoup plus de raison que ceux qui sont
-d’une condition vile ou médiocre, si ce n’est parce qu’on
-approuve indifféremment et lâchemeht toutes leurs pensées ?
-Ainsi l’approbation que nous donnons à nos amis leur fait croire
-peu à peu qu’ils ont plus d’esprit que les autres, ce qui les rend
-fiers, hardis, imprudents et capables de tomber dans les erreurs
-les plus grossières sans s’en apercevoir.
-
-C’est pour cela que nos ennemis nous rendent souvent un
-meilleur service et nous éclairent beaucoup plus l’esprit par
-leurs oppositions que ne font nos amis par leurs approbations ;
-parce que nos ennemis nous obligent de nous tenir sur nos gardes
-et d’être attentifs aux choses que nous avançons ; ce qui seul
-suffit pour nous faire reconnaître nos égarements. Mais nos amis
-ne font que nous endormir et nous donner une fausse confiance
-qui nous rend vains et ignorants. Les hommes ne doivent donc
-jamais admirer leurs amis et’se rendre à leurs sentiments par
-amitié, de même qu’ils ne doivent jamais s’opposer à ceux de
-leurs ennemis par inimítié ; mais ils doivent se défaire de leur
-esprit flatteur ou contredisant pour devenir sincères et approuver
-l’évidence et la vérité partout où ils la trouvent.
-
-Nous devons aussi nous bien mettre dans l’esprit que la
-plupart des hommes sont portés à la flatterie ou à nous faire des
-compliments per une espèce d’inclination naturelle, pour paraitre
-spirituels, pour attirer sur eux la bienveillance des autres, et dans
-l’espérance de quelque retour, ou enfin par une espèce de malice
-et de raillerie ; et nous ne devons pas nous laisser étourdir par
-tout ce que l’on peut nous dire. Ne voyons-nous pas tous les jours
-que des personnes qui ne se connaissent point ne laissent pas de
-s’élever l’un l’autre jusques aux nues la première fois même
-qu’ils se voient et qu’1ls se parlent ? et qu’y a-t-il de plus
-ordinaire que de voir des gens qui donnent des louanges
-hyperboliques et qui témoignent des mouvements extraordinaires
-d’admiration à une personne qui vient de parler en public, même
-en présence de ceux avec lesquels ils s’en sont moqués quelque
-temps auparavant ? Toutes les fois qu’en se récrie, qu’on pâlit d’admiration, et comme surpris des choses que l’on entend, ce
-n’est pas une bonne preuve que celui qui parle dit des merveilles,
-mais plutôt qu’il parle à des hommes flatteurs, qu’il a des amis
-ou peut-être des ennemis qui se divertissent de lui. C’est qu’il
-parle d’une manière engageante, qu’il est riche et puissant ; ou, si
-on le veut, c’est une assez bonne preuve que ce qu’il dit est
-appuyé sur les notions des sens confuses et obscures, mais fort
-touchantes et fort agréables, ou qu’il a quelque feu dïmagination,
-puisque les louanges se donnent à l’amitié, aux richesses, aux
-dignités, aux vraisemblances, et très-rarement à la vérité.
-On s’attendra peut-être qu’ayant traité en général des
-inclinations des esprits, je doive descendre dans un détail exact
-de tous les mouvements particuliers qu’ils ressentent à la vue du
-bien et du mal ; c’est-à-dire que je doive expliquer la nature de
-l’amour, de la haine, de la joie, de la tristesse et de toutes les
-passions intellectuelles tant générales que particulières, tant
-simples que composées. Mais je ne me suis pas engagé à
-expliquer tous les différents mouvements dont les esprits sont
-capables.
-
-Je suis bien aise que l’on sache que mon dessein principal
-dans tout ce que j’ai écrit jusqu’ici de la recherche de la vérité a
-été de faire sentir aux hommes leur faiblesse et leur ignorance, et
-que nous sommes tous sujets à l’erreur et au péché. Je l’ai dit, et
-je le dis encore, peut-être qu’on s’en souviendra : je n’ai jamais
-eu dessein de traiter à fond de la nature de l’esprit ; mais j’ai été
-obligé d’en dire quelque chose pour expliquer les erreurs dans
-leur principe, pour les expliquer avec ordre, en un mot, pour me
-rendre intelligible ; et si j’ai passé les bornes que je me suis
-proposées, c’est que j’avais, ce me semblait, des choses nouvelles à dire qui me paraissaient de conséquence, et que je
-croyais même qu’on pourrait lire avec plaisir. Peut-être me suisje trompé, mais je devais avoir cette présomption pour avoir le
-courage de les écrire ; car le moyen de parler lorsqu’on n’espère
-pas d’être écouté ! ll est vrai que j’ai dit beaucoup de choses qui
-ne paraissent point tant appartenir au sujet que je traite que ce
-particulier des mouvements de l’âme ; je l’avoue, mais je ne
-prétends point m’obliger à rien lorsque je me fais un ordre. Je me
-fais un ordre pour me conduire, mais je prétends qu’il m’est
-permis de tourner la tète lorsque je marche si je trouve quelque
-chose qui mérite d’être considéré. Je prétends même qu’il m’est
-permis de me reposer en quelques lieux à l’écart, pourvu que je
-ne perde point de vue le chemin que je dois suivre. Ceux qui ne
-veulent point se délasser avec moi peuvent passer outre ; il leur
-est permis, ils n’ont qu’à tourner la page ; mais, s’ils se lâchent,
-qu’ils sachent qu’il y a bien des gens qui trouvent que ces lieux
-que je choisis pour me reposer leur font trouver le chemin plus
-doux et plus agréable.
+I am glad to let it be known that my principal design in all that I have written thus far on the search for truth has been to make men feel their weakness and ignorance, and that we are all subject to error and sin. I have said it, and I say it again, perhaps it will be remembered: I have never had the intention of treating thoroughly the nature of the mind; but I have been obliged to say something about it to explain errors in their principle, to explain them in order, in a word, to make myself intelligible; and if I have passed the bounds I set for myself, it is because I had, it seemed to me, new things to say that appeared to me consequential, and that I even believed could be read with pleasure. Perhaps I was mistaken, but I had to have this presumption to have the courage to write them; for how can one speak when one does not hope to be heard? It is true that I have said many things that do not appear so much to belong to the subject I treat as this particular on the movements of the soul; I admit it, but I do not pretend to obligate myself to anything when I make an order for myself. I make an order for myself to conduct myself, but I pretend that I am permitted to turn my head as I walk if I find something worthy of consideration. I pretend even that I am permitted to rest in some out-of-the-way places, provided I do not lose sight of the path I must follow. Those who do not wish to relax with me may pass on; they are permitted, they have only to turn the page; but if they let themselves go, let them know that there are many people who find that these places I choose for my rest make the path sweeter and more agreeable for them.

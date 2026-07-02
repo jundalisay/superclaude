@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Passions"
+title: "The Mind or Pure Understanding"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -15,298 +15,56 @@ DE L'ENTENDEMENT, OU DE L'ESPRIT PUR.
 PREMIÈRE PARTIE. -->
 
 
-I. La pensée seule est essentielle à l’esprit. Sentir et imaginer ne sont que des
-modifications. — II. Nous ne connaissons pas toutes les modifications dont notre
-âme est capable. — III. Elles sont différentes de notre connaissance et de notre
-amour, et même elles n’en sont pas toujours des suites.
+The subject of this third treatise is a little dry and sterile. It examines the mind considered in itself and without any relation to the body, in order to recognize the weaknesses that are proper to it and the errors it holds only from itself. The senses and imagination are fruitful and inexhaustible sources of wanderings and illusions; but the mind, acting by itself, is not so subject to error. One had difficulty finishing the two preceding treatises; one has difficulty beginning this one. It is not that one cannot say enough things about the properties of the mind, but it is that one does not seek here so much its properties as its weaknesses. One should not therefore be surprised if this treatise is not so ample, and if it does not discover as many errors as those that preceded it. One should not complain either if it is a little dry, abstract and demanding. One cannot always, in speaking, stir the senses and imagination of others, and even one should not always do so. When a subject is abstract, one can hardly render it sensible without obscuring it; it suffices to render it intelligible. There is nothing so unjust as the ordinary complaints of those who wish to know everything and who wish to apply themselves to nothing. They become angry when one begs them to render themselves attentive; they wish always to be touched, and that one incessantly flatters their senses and passions. But what then? We recognize our powerlessness to satisfy them. Those who write novels and comedies are obliged to please and to render attentive; for us, it is enough if we can instruct even those who make an effort to render themselves attentive.
+
+The errors of the senses and imagination come from the nature and constitution of the body, and are discovered by considering the dependence of the soul on it; but the errors of pure understanding can only be discovered by considering the nature of the mind itself and of the ideas that are necessary to it for knowing objects. Thus, to penetrate the causes of the errors of a pure understanding, it will be necessary to dwell in this book on the consideration of the nature of the mind and intellectual ideas.
+
+We shall speak first of the mind, according to what it is in itself and without any relation to the body to which it is united; so that what we shall say of it could be said of pure intelligences, and a fortiori of what we call here pure understanding: for, by this word, pure understanding, we pretend to designate only the faculty that the mind has of knowing external objects, without forming corporeal images of them in the brain to represent them to itself. We shall treat afterward of intellectual ideas by means of which pure understanding perceives external objects.
 
 
-Le sujet de ce troisième traité est un peu sec et stérile. On y
-examine l’esprit considéré en lui-même et sans aucun rapport au
-corps, afin de reconnaître les faiblesses qui lui sont propres et
-les erreurs qu’il ne tient que de lui-même. Les sens et
-l’imagination sont des sources fécondes et inépuisables
-d’égarements et d’illusions ; mais l’esprit, agissant par lui-même,
-n’est pas si sujet à l’erreur. On avait de la peine à finir les deux
-traités précédents : on a eu de la peine à commencer celui-ci. Ce
-n’est pas qu’on ne puisse dire assez de choses sur les propriétés
-de l’esprit, mais c’est qu’on ne cherche pas tant ici ses propriétés
-que ses faiblesses. Il ne faut donc pas s’étonner si ce traité n’est pas si ample, et s’il ne découvre pas tant d’erreurs que ceux qui
-l’ont précédé. Il ne faut pas aussi se plaindre s’il est un peu sec,
-abstrait et appliquant. On ne peut pas toujours, en parlant, remuer
-les sens et imagination des autres, et même on ne le doit pas
-toujours faire. Quand un sujet est abstrait, on ne peut guère le
-rendre sensible sans l’obscurcir ; il suiiit de le rendre
-intelligible. Il n’y a rien de si injuste que les plaintes ordinaires
-de ceux qui veulent tout savoir et qui ne veulent s’appliquer à
-rien. Ils se fàchent lorsqu’on les prie de se rendre attentifs ; ils
-veulent qu’on les touche toujours, et qu’on flatte incessamment
-leurs sens et leurs passions. Mais quoi ? nous reconnaissons
-notre impuissance à les satisfaire. Ceux qui font des romans et
-des comédies sont obligés de plaire et de rendre attentifs ; pour
-nous, c’est assez si nous pouvons instruire ceux même qui font
-effort pour se rendre attentifs.
 
-Les erreurs des sens et de l’imagination viennent de la nature
-et de la constitution du corps, et se découvrent en considérant la
-dépendance où l’âme est de lui ; mais les erreurs de
-l’entendement pur ne se peuvent découvrir qu’en considérant la
-nature de l’esprit même et des idées qui lui sont nécessaires pour
-connaître les objets. Ainsi, pour pénétrer les causes des erreurs
-d’un entendement pur, il sera nécessaire de nous arrêter dans ce
-livre à la considération de la nature de l’esprit et des idées
-intellectuelles.
+## Thought alone is essential to the mind. Sensing and imagining are only modifications. 
 
-Nous parlerons premièrement de l’esprit, selon ce qu’il est en
-lui-même et sans aucun rapport au corps auquel il est uni ; de
-sorte que ce que nous en dirons se pourrait dire des pures
-intelligences, et à plus forte raison de ce que nous appelons ici
-entendement pur : car, par ce mot, entendement pur, nous ne prétendons désigner que la faculté qu’a l’esprit de connaître les
-objets de dehors, sans en former d’images corporelles dans le
-cerveau, pour se les représenter. Nous traiterons ensuite des
-idées intellectuelles par le moyen desquelles l’entendement pur
-aperçoit les objets de dehors.
+I do not believe that, after having thought seriously about it, one can doubt that the essence of the mind consists only in thought, just as the essence of matter consists only in extension, and that, according to the different modifications of thought, the mind sometimes wills and sometimes imagines, or finally that it has several other particular forms; just as, according to the different modifications of extension, matter is sometimes water, sometimes wood, sometimes fire, or that it has an infinity of other particular forms.
 
-I. Je ne crois pas qu’après y avoir pensé sérieusement, on
-puisse douter que l’essence de l’esprit ne consiste que dans la
-pensée, de même que l’essence de la matière ne consiste que
-dans l’étendue, et que, selon les différentes modifications de la
-pensée, l’esprit tantôt veut et tantôt imagine, ou enfin qu’il a
-plusieurs autres formes particulières ; de même que, selon les
-différentes modifications de l’étendue, la matière est tantôt de
-l’eau, tantôt du bois, tantôt du feu, ou qu’elle à une infinité
-d’autres formes particulières.
+I warn only that by this word, *thought*, I do not mean here the particular modifications of the soul, that is to say such or such thought, but thought capable of all sorts of modifications or thoughts; just as by extension one does not mean such or such extension, as round or square, but extension capable of all sorts of modifications or figures. And this comparison can cause difficulty only because one does not have a clear idea of thought, as one has of extension; for one knows thought only by inner feeling or by conscience, as I shall explain below.
 
-J’avertis seulement que par ce mot, pensée, je n’entends point
-ici les modifications particulières de l’âme, c’est-à-dire telle ou
-telle pensée, mais la pensée capable de toutes sortes de
-modifications ou de pensées ; de même que par l’étendue l’on
-n’entend pas une telle ou telle étendue, comme la ronde ou la
-carrée, mais l’étendue capable de toutes sortes de modifications
-ou de figures. Et cette comparaison ne peut faire de peine que
-parce que l’on n’a pas une idée claire de la pensée, comme l’on
-en a de l’étendue ; car on ne connaît la pensée que par sentiment
-intérieur ou par conscience, ainsi que je l’expliquerai plus bas.
-Je ne crois pas aussi qu’il soit possible de concevoir un esprit
-qui ne pense point, quoiqu’il soit fort facile d’en concevoir un
-qui ne sente point, qui qu’imagine point, et même qui ne veuille
-point ; de même qu’il n’est pas possible de concevoir une
-matière qui ne soit pas étendue, quoiqu’il soit assez facile d’en concevoir une qui ne soit ni terre ni métal, ni carrée ni ronde, et
-qui même ne soit point en mouvement. Il faut conclure de là que
-comme il se peut faire qu’il y ait de la matière qui ne soit ni terre
-ni métal, ni carrée ni ronde, ni même en mouvement, il se peut
-faire aussi qu’un esprit ne sente ni chaud ni froid, ni joie ni
-tristesse, n’imagine rien, et même ne veuille rien ; de sorte que
-toutes ces modifications ne lui sont point essentielles. La pensée
-toute seule est donc l’essence de l’esprit, ainsi que l’étendue
-toute seule est l’essence de la matière.
+I do not believe either that it is possible to conceive a mind that does not think, although it is very easy to conceive one that does not feel, that does not imagine, and even that does not will; just as it is not possible to conceive a matter that is not extended, although it is quite easy to conceive one that is neither earth nor metal, nor square nor round, and which is not even in motion. One must conclude from this that as it can happen that there is matter which is neither earth nor metal, nor square nor round, nor even in motion, it can happen also that a mind feels neither heat nor cold, neither joy nor sadness, imagines nothing, and even wills nothing; so that all these modifications are not essential to it. Thought alone is therefore the essence of the mind, just as extension alone is the essence of matter.
 
-Mais de même que si la matière ou l’étendue était sans
-mouvement, elle serait entièrement inutile et incapable de cette
-variété de formes pour laquelle elle est faite, et qu*il n’est pas
-possible de concevoir qu’un être intelligent fait voulu produire
-de la sorte ; ainsi, si un esprit ou la pensée était sans volonté, il
-est clair qu’elle serait tout à fait inutile, puisque cet esprit ne se
-porterait jamais vers les objets de ces perceptions, et qu’il
-n’aimerait point le bien, pour lequel il est fait : de sorte qu’il
-n’est pas possible de concevoir qu’un être intelligent l’ait voulu
-produire en cet état. Néanmoins, comme le mouvement n’est pas
-de l’essence de la matière, puisqu’il suppose de l’étendue ; ainsi
-vouloir n’est pas de l’essence de l’esprit, puisque vouloir
-suppose la perception.
+But just as if matter or extension were without movement, it would be entirely useless and incapable of that variety of forms for which it is made, and it is not possible to conceive that an intelligent being would have wished to produce it in that way; thus, if a mind or thought were without will, it is clear that it would be entirely useless, since this mind would never carry itself toward the objects of its perceptions, and it would not love the good for which it is made: so that it is not possible to conceive that an intelligent being would have wished to produce it in that state. Nevertheless, as movement is not of the essence of matter, since it supposes extension; so to will is not of the essence of the mind, since to will supposes perception.
 
-La pensée toute seule est donc proprement ce qui constitue
-l’essence de l’esprit, et les différentes manières de penser ;
-comme sentir et imaginer ne Sont que les modifications dont il est
-capable, et dont il n’est pas toujours modifié : mais vouloir est
-une propriété qui l’accompagne toujours, soit qu’il soit uni à un
-corps ou qu’il en soit séparé ; laquelle cependant ne lui est pas
-essentielle, puisqu’elle suppose la pensée, et qu’on peut concevoir un esprit sans volonté comme un corps sans
-mouvement.
+Thought alone is therefore properly what constitutes the essence of the mind, and the different ways of thinking; such as sensing and imagining are only the modifications of which it is capable, and by which it is not always modified: but to will is a property that always accompanies it, whether it is united to a body or separated from it; which however is not essential to it, since it supposes thought, and one can conceive a mind without will as a body without movement.
 
-Toutefois la puissance de vouloir est inséparable de l’esprit,
-quoiqu’elle ne lui soit pas essentielle ; comme la capacité d’être
-mu est inséparable de la matière, quoiqu’elle ne lui soit pas
-essentielle. Car, de même qu’il n’est pas possible de concevoir
-une matière qu’on ne puisse mouvoir, aussi n’est-il pas possible
-de concevoir un esprit qui ne puisse vouloir, ou qui ne soit
-capable de quelque inclination naturelle. Mais aussi, comme l’on
-conçoit que la matière peut exister sans aucun mouvement, on
-concoit de même que l’esprit peut être sans aucune impression de
-l’auteur du la nature vers le bien, et par conséquent sans volonté ;
-car la volonté n’est autre chose que l’impression de l’auteur de la
-nature qui nous porte vers le bien en général, ainsi que nous
-avons expliqué plus au long dans le premier chapitre du Traité
-des sens.
+However the power of willing is inseparable from the mind, although it is not essential to it; just as the capacity of being moved is inseparable from matter, although it is not essential to it. For, just as it is not possible to conceive a matter that one cannot move, so it is not possible to conceive a mind that cannot will, or that is not capable of some natural inclination. But also, just as one conceives that matter can exist without any movement, one conceives likewise that the mind can be without any impression of the author of nature toward the good, and consequently without will; for the will is nothing other than the impression of the author of nature that carries us toward good in general, as we have explained at greater length in the first chapter of the *Treatise on the Senses*.
 
-II. Ce que nous avons dit dans ce Traité des sens, et ce que
-nous venons de dire de la nature de l’esprit, ne suppose pas que
-nous connaissions toutes les modifications dont il est capable ;
-nous ne faisons point de pareilles suppositions. Nous croyons, au
-contraire, qu’il y a dans l’esprit une capacité pour recevoir
-successivement une infinité de diverses modifications que le
-même esprit ne connait pas.
 
-La moindre partie de la matière est capable de recevoir une
-figure de trois, de six, de dix, de mille côtés, enfin la figure
-circulaire et l’elliptique, que l’on peut considérer comme des
-figures d’un nombre infini d’angles et de côtés, Il y a un nombre
-infini de différentes espèces de chacune de ces figures, un
-nombre infini de triangles de différentes espèces. encore plus de figures de quatre, de six, de dix, de dix mille côtés, et de
-polygones infinis ; car le cercle, l’ellipse, et généralement toute
-figure régulière ou irrégulière curviligne, se peut considérer
-comme un polygone infini ; l’ellipse, par-exemple, comme un
-polygone infini, mais dont les angles que font les côtés sont
-inégaux, étant plus grands vers le petit diamètre que vers le
-grand, et ainsi des autres polygones inñnis plus composés et plus
-irréguliers.
+## We do not know all the modifications of which our soul is capable
 
-Un simple morceau de cire est donc capable d’un nombre
-infini, ou plutôt d’un nombre infiniment infini de différentes
-modifications, que nul esprit ne peut comprendre. Quelle raison
-donc de s’imaginer que l’âme, qui est beaucoup plus noble que le
-corps, ne soit œpable que des seules modifications qu”elle a déjà
-reçues ?
+What we have said in that *Treatise on the Senses*, and what we have just said of the nature of the mind, does not suppose that we know all the modifications of which it is capable; we make no such suppositions. We believe, on the contrary, that there is in the mind a capacity to receive successively an infinity of diverse modifications that the same mind does not know.
 
-Si nous n’avions jamais senti ni plaisir ni douleur, si nous
-n’avions jamais vu ni couleur ni lumière, enfin si nous étions, à
-l’égard de toutes choses, comme des aveugles et comme des
-sourds à l’égard des couleurs et des sons, aurions-nous raison de
-conclure que nous ne serions pas capables de toutes les
-sensations que nous avons des objets ? Cependant ces sensations
-ne sont que des modifications de notre âme, comme nous avons
-prouvé dans le Traite des sens.
+The smallest part of matter is capable of receiving a figure of three, six, ten, a thousand sides, finally the circular and elliptical figure, which one can consider as figures of an infinite number of angles and sides. There is an infinite number of different species of each of these figures, an infinite number of triangles of different species, still more figures of four, six, ten, ten thousand sides, and of infinite polygons; for the circle, the ellipse, and generally every regular or irregular curvilinear figure, can be considered as an infinite polygon; the ellipse, for example, as an infinite polygon, but whose angles made by the sides are unequal, being greater toward the small diameter than toward the large, and so of other infinite polygons more composite and more irregular.
 
-Il faut donc demeurer d’accord que la capacité qu’a l’âme de
-recevoir différentes modifications est aussi grande que la
-capacité qu’elle a de concevoir ; je veux dire que comme l’esprit
-ne peut épuiser ni comprendre toutes les figu res dont la matière
-est capable, il ne peut aussi comprendre toutes les différentes
-modifications que la puissante main de Dieu peut produire dans
-l’àme, quand même il connaîtrait aussi distinctement la capacité de l’âme qu’il connaît celle de la matière : ce qui n’est pas vrai,
-pour les raisons que je dirai dans le chapitre VII de la seconde
-partie de ce livre.
+A simple piece of wax is therefore capable of an infinite number, or rather an infinitely infinite number of different modifications, that no mind can comprehend. What reason then to imagine that the soul, which is much nobler than the body, is capable only of the sole modifications it has already received?
 
-Si notre âme ici-bas ne reçoit que très-peu de modifications,
-c’est qu’elle est unie à un corps et qu’elle en dépend. Toutes ses
-sensations se rapportent à son corps ; et comme elle ne jouit point
-de Dieu, elle n’a aucune des modifications que cette jouissance
-doit produire. La matière dont notre corps est composé n’est
-capable que de très-peu de modifications dans le temps de notre
-vie. Cette matière ne peut se résoudre en terre et en vapeur
-qu’après notre mort. Maintenant elle ne peut devenir air, feu,
-diamant, métal ; elle ne peut devenir ronde, carrée, triangulaire :
-il faut qu’elle soit chair, et qu’elle ait la figure d’un homme afin
-que l’âme y soit unie. Il en est de même de notre âme ; il est
-nécessaire qu’elle ait les sensations de chaleur, de froideur, de
-couleur, de lumière, des sons, des odeurs, des saveurs, et
-plusieurs autres modifications. atin qu’elte demeure unie à son
-corps. Toutes ces sensations l’appliquent à la conservation de sa
-machine. Elles l’agitent et l'effraient des que le moindre ressort
-se debande et se rompt, et ainsi il faut que l’âme y soit sujette tant
-que son corps sera sujet à la corruption ; mais lorsqu’il sera
-revêtu de l’immortalité et que nous ne craindrons plus la
-dissolution de ses parties, il est raisonnable de croire qu’elle ne
-sera plus touchée de ces sensations incommodes que nous sentons
-malgré nous, mais d’une infinité d’autres toutes différentes dont
-nous n’avons maintenant aucune idée, lesquelles passeront tout
-sentiment et seront dignes de la grandeur et de la bonté du Dieu
-que nous posséderons.
+If we had never felt either pleasure or pain, if we had never seen either color or light, finally if we were, with respect to all things, like blind and deaf persons with respect to colors and sounds, would we have reason to conclude that we would not be capable of all the sensations we have of objects? However these sensations are only modifications of our soul, as we have proved in the *Treatise on the Senses*.
 
-C’est donc sans raison que l’on s'imagine pénétrer de telle sorte la nature de l’âme que l’on ait droit d’assurer qu’elle n’est
-capable que de connaissance et que d’amour ; cela pourrait être
-soutenu par ceux qui attribuent leurs sensations aux objets du
-dehors ou à leur propre corps, et qui prétendent que leurs
-passions sont dans leur corps : car, en effet, si ou retranche de
-l’âme toutes ses passions et ses sensations, tout ce qu’on y
-reconnaît du reste n’est plus qu’une suite de la connaissance et de
-l’amour. Mais je ne conçois pas comment ceux qui sont revenus
-de ces illusions de nos sens se peuvent persuader que toutes nos
-sensations et toutes nos passions ne sont que connaissance et
-qu’amour, je veux dire des espèces de jugements confus que
-l’âme porte des objets par rapport au corpê qu’elle anime. Je ne
-comprends pas comment on peut dire que la lumière, les
-couleurs, les odeurs, etc., soient des jugements de l'âme, car il
-me semble au contraire que j’aperçois distinctement que la
-lumière, les couleurs, les odeurs et les autres sensations sont des
-modifications tout à fait différentes des jugements.
-Mais choisissons des sensations plus vives et qui appliquent
-davantage l’esprit. Examinons ce que ces personnes disent de la
-douleur ou du plaisir. Ils veulent, après plusieurs auteurs trèsconsidérables
-[3]
-, que ces sentiments ne soient que des suites de la
-faculté que nous avons de connaître et de vouloir, et que la
-douleur, par exemple, ne soit que le chagrin, l’opposition et
-l’éloignement qu’a la volonté pour les choses qu”elle connait
-être nuisibles au corps qu’elle anime. Maisilme paraît évident
-que c’est confondre la douleur avec la tristesse, et que tant s’en
-faut que la douleur soit une suite de la connaissance de l’esprit et
-de l’action de la volonté. qu’au contraire elle précède l’une et
-l’autre.
+One must therefore agree that the capacity the soul has to receive different modifications is as great as the capacity it has to conceive; I mean that as the mind cannot exhaust or comprehend all the figures of which matter is capable, it cannot comprehend all the different modifications that the powerful hand of God can produce in the soul, even if it knew as distinctly the capacity of the soul as it knows that of matter: which is not true, for the reasons I shall give in chapter VII of the second part of this book.
 
-Par exemple, si l’on mettait un charbon ardent dans la main
-d’un homme qui dort ou qui se chauffe les mains derrière le dos,
-je ne crois pas qu’on puisse dire avec quelque vraisemblance
-que cet homme connaîtrait d’abord qu’il se passerait dans sa
-main quelques mouvements contraires à la bonne constitution de
-son corps ; qu’en suite sa volonté s’y opposerait, et que sa
-douleur serait une suite de cette connaissance de son esprit et de
-cette opposition de sa volonté. Il me semble au contraire qu’il est
-indubitable que la première chose que cet homme apercevrait
-lorsque le charbon lui toucherait la main, serait la douleur, et que
-cette connaissance de l’esprit et cette opposition de la volonté ne
-sont que des suites de la douleur, quoiqu’elles soient
-véritablement la cause de la tristesse qui suivrait de la douleur.
-Mais il y a bien de la différence entre cette douleur et la
-tristesse qu’elle produit. La douleur est la première chose que
-l’âme sente ; elle n’est précédée d’aucune connaissance. et elle
-ne peut jamais ètre agréable par elle-même. Au contraire, la
-tristesse est la dernière chose que l’âme sente ; elle est toujours
-précédée de quelque connaissance, et elle est toujours trèsagréable par elle-même. Œla paraît assez par le plaisir qui
-accompagne la tristesse dont on est touché aux funestes
-représentations des théâtres, car ce plaisir augmente avec la
-tristesse ; mais le plaisir ni augmente jamais avec la douleur. Les
-comédiens, qui étudient l’art de plaire, savent bien qu’il ne faut
-point ensanglanter le théâtre, parce que la vue d’un meurtre,
-quoique feint, serait trop terrible pour être agréable. Mais ils
-n’appréhendent jamais de toucher les assistants d’une trop grande
-tristesse, parce qu’en effet la tristesse est toujours agréable
-lorsqu’il y a sujet d’en être touché. Il y a donc une différence
-essentielle entre la tristesse et la douleur, et l’on ne peut pas dire que la douleur ne soit autre chose qu’une connaissance de l’esprit
-jointe è une opposition de la volonté.
+If our soul here below receives only very few modifications, it is because it is united to a body and depends on it. All its sensations relate to its body; and as it does not enjoy God, it has none of the modifications that this enjoyment must produce. The matter of which our body is composed is capable of only very few modifications during our lifetime. This matter can be resolved into earth and vapor only after our death. Now it cannot become air, fire, diamond, metal; it cannot become round, square, triangular: it must be flesh, and have the figure of a man so that the soul may be united to it. It is the same with our soul; it is necessary that it have the sensations of heat, cold, color, light, sounds, odors, tastes, and several other modifications, so that it remains united to its body. All these sensations apply it to the preservation of its machine. They agitate it and frighten it as soon as the least spring unbends and breaks, and thus the soul must be subject to them as long as its body is subject to corruption; but when it will be clothed in immortality and we will no longer fear the dissolution of its parts, it is reasonable to believe that it will no longer be touched by these inconvenient sensations that we feel despite ourselves, but by an infinity of others entirely different of which we now have no idea, which will surpass all feeling and will be worthy of the greatness and goodness of the God whom we shall possess.
 
-Pour toutes les autres sensations, comme sont les odeurs, les
-saveurs, les sons, les couleurs, la plupart des hommes ne pensent
-pas qu’elles soient des modifications de leur âme. Ils jugent au
-contraire qu’elles sont répandues sur les objets, ou tout au moins
-qu’elles ne sont dans l’âme que comme l’idée d’un carré et d’un
-rond ; c’est-à-dire qu’elles sont unies à l’âme, mais qu’elles n’en
-sont pas des modifications ; et ils en jugent ainsi à cause qu’elles
-ne les touchent pas beaucoup, comme j'ai fait voir en expliquant
-les erreurs des sens.
+It is therefore without reason that one imagines penetrating the nature of the soul in such a way that one has the right to assert that it is capable only of knowledge and love; this could be maintained by those who attribute their sensations to external objects or to their own body, and who claim that their passions are in their body: for, in effect, if one removes from the soul all its passions and sensations, all that remains recognized in it is nothing more than a consequence of knowledge and love. But I do not conceive how those who have returned from these illusions of our senses can persuade themselves that all our sensations and all our passions are only knowledge and love, I mean species of confused judgments that the soul makes of objects in relation to the body it animates. I do not understand how one can say that light, colors, odors, etc., are judgments of the soul, for it seems to me on the contrary that I perceive distinctly that light, colors, odors and other sensations are modifications entirely different from judgments.
 
-On croit donc qu’il faut tomber d’accord qu’on ne connait pas
-toutes les modifications dont l’âme est capable, et qu’outre celles
-qu’elle a par les organes des sens, il se peut faire qu’elle en ait
-encore une infinité d’autres qu’elle n’a point éprouvée set qu’elle
-n’éprouvera qu’après qu’elle sera délivrée de la captivité de son
-corps.
 
-Cependant il faut que l’on avoue que de même que la matière
-n’est capable d’une infinité de diirentes configurations qu’à
-cause de son étendue, l’âme aussi n’est capable de différentes
-modifications qu’à cause de la pensée ; car il est visible que
-l’àme ne serait pas capable des modifications de plaisir, de
-douleur, ni même de toutes celles qui lui sont indifférentes, si elle
-n’était capable de perception ou de pensée.
-Il nous suffit donc de savoir que le principe de toutes ces
-modifications c'est la pensée. Si l’on veut même qu’il y ait dans
-l’âme quelque chose qui précède la pensée, je n’en veux point
-disputer : mais comme je suis sûr que personne n’a de
-connaissance de son âme que par la pensée ou par le sentiment intérieur de tout ce qui se-passe dans son esprit, je suis assuré
-aussi que si quelqu’un veut raisonner sur la nature de l’àme, il ne
-doit consulter que ce sentiment intérieur qui le représente sans
-cesse à lui-même tel qu’il est. et ne pas s’imaginer, contre sa
-propre conscience, que l’àme est un feu invisible, un air subtil,
-une harmonie ou autre chose semblable.
+## They are different from our knowledge and our love, and even they are not always consequences of them
 
+But let us choose more vivid sensations that apply the mind more. Let us examine what these persons say of pain or pleasure. They wish, following several very considerable authors [3], that these feelings are only consequences of the faculty we have of knowing and willing, and that pain, for example, is only the chagrin, opposition and aversion that the will has for things it knows to be harmful to the body it animates. But it seems evident to me that this is to confuse pain with sadness, and that so far from pain being a consequence of the knowledge of the mind and the action of the will, on the contrary it precedes both.
+
+For example, if one put a burning coal in the hand of a man who sleeps or who warms his hands behind his back, I do not believe that one can say with any verisimilitude that this man would first know that some movements contrary to the good constitution of his body would take place in his hand; that then his will would oppose them, and that his pain would be a consequence of this knowledge of his mind and this opposition of his will. It seems to me on the contrary that it is indubitable that the first thing this man would perceive when the coal touched his hand would be the pain, and that this knowledge of the mind and this opposition of the will are only consequences of the pain, although they are truly the cause of the sadness that would follow from the pain. But there is much difference between this pain and the sadness it produces. Pain is the first thing the soul feels; it is preceded by no knowledge, and it can never be agreeable in itself. On the contrary, sadness is the last thing the soul feels; it is always preceded by some knowledge, and it is always very agreeable in itself. This appears sufficiently from the pleasure that accompanies the sadness one feels at the tragic representations of theaters, for this pleasure increases with the sadness; but pleasure never increases with pain. Comedians, who study the art of pleasing, know well that one must not bloody the theater, because the sight of a murder, although feigned, would be too terrible to be agreeable. But they never fear to touch the spectators with too great a sadness, because in effect sadness is always agreeable when there is reason to be touched by it. There is therefore an essential difference between sadness and pain, and one cannot say that pain is nothing other than a knowledge of the mind joined to an opposition of the will.
+
+For all other sensations, such as odors, tastes, sounds, colors, most men do not think that they are modifications of their soul. They judge on the contrary that they are spread upon objects, or at least that they are in the soul only as the idea of a square and a round; that is to say that they are united to the soul, but that they are not its modifications; and they judge thus because they do not touch them much, as I have shown in explaining the errors of the senses.
+
+One believes therefore that one must agree that one does not know all the modifications of which the soul is capable, and that besides those it has through the organs of the senses, it can happen that it has still an infinity of others that it has not experienced and that it will not experience until after it is delivered from the captivity of its body.
+
+However one must avow that just as matter is capable of an infinity of different configurations only because of its extension, the soul also is capable of different modifications only because of thought; for it is visible that the soul would not be capable of the modifications of pleasure, pain, nor even of all those that are indifferent to it, if it were not capable of perception or thought.
+
+It suffices us therefore to know that the principle of all these modifications is thought. If one wishes even that there be in the soul something that precedes thought, I do not wish to dispute it: but as I am sure that no one has knowledge of his soul except through thought or through the inner feeling of everything that passes in his mind, I am assured also that if anyone wishes to reason on the nature of the soul, he should consult only this inner feeling which incessantly represents him to himself as he is, and not imagine, against his own conscience, that the soul is an invisible fire, a subtle air, a harmony, or some other similar thing.

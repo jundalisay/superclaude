@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5
-title: "The Passions"
+title: "Montaigne's Book"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,380 +10,58 @@ date: 2026-06-20
 
 
 
-Du livre de Montaigne.
 
-Les Essais de Montaigne nous peuvent aussi servir de preuve
-de la force que les imaginations ont les unes sur les autres, car
-cet auteur a un certain air libre, il donne un tour si naturel et si vif
-a ses pensées, qu’il est malaisé de le lire sans se laisser
-préoccuper. La négligence qu’il atfecte lui sied assez bien et le
-rend aimable à la plupart du monde sans le faire mépriser ; et sa
-fierté est une certaine fierté d’honnête homme, si cela se peut dire
-ainsi, qui le fait respecter sans le faire haïr. L’air du monde et
-l’air cavalier soutenus par quelque érudition font un effet si
-prodigieux sur l’esprit, qu’on l’admire souvent et qu’on se rend
-presque toujours à ce qu’il décide sans oser l’examiner, et
-quelquefois même sans l’entendre. Ce ne sont nullement ses
-raisons qui persuadent ; il n’en apporte presque jamais des choses qu’il avance, ou pour le moins il n’eu apporte presque
-jamais qui aient quelque solidité. En effet il n’a point de
-principes sur lesquels il fonde ses raisonnements, et il n’a point
-d’ordre pour faire les déductions de ses principes. Un trait
-d’histoire ne prouve pas ; un petit conte ne démontre pas ; deux
-vers d’Horace, un apophtegme de Cléomènes ou de César ne
-doivent pas persuader des gens raisonnables ; cependant ces
-Essais ne sont qu’un tissu de traits d’histoire, de petits contes, de
-bons mots, de distiques et d’apophthegmes.
+Montaigne's *Essays* can also serve us as proof of the power that imaginations have over one another, for this author has a certain free air, he gives such a natural and vivid turn to his thoughts that it is difficult to read him without letting oneself be prejudiced. 
 
-Il est vrai qu’on ne doit pas regarder Montaigne dans ses
-Essais comme un homme qui raisonne, mais comme un homme
-qui se divertit, qui tâche de plaire et qui ne pense point à
-enseigner ; et si ceux qui le lisent ne faisaient que s’en divertir, il
-faut tomber d’accord que Montaigne ne serait pas un si méchant
-livre pour eux. Mais il est presque impossible de ne pas aimer ce
-qui plaît et de ne pas se nourrir des viandes qui flattent le goût.
-L’esprit ne peut se plaire dans la lecture d’un auteur sans en
-prendre les sentiments, ou tout au moins sans en recevoir quelque
-teinture, laquelle se mêlant avec ses idées les rend confuses et
-obscures.
+The negligence he affects suits him rather well and renders him amiable to most of the world without making him despised; and his pride is a certain pride of an honorable man, if one may speak thus, which makes him respected without making him hated. The air of the world and the cavalier air, supported by some erudition, make so prodigious an effect on the mind that one often admires him and almost always yields to what he decides without daring to examine it, and sometimes even without understanding it. 
 
-Il n’est pas seulement dangereux de lire Montaigne pour se
-divertir, à cause que le plaisir qu’on y prend engage
-insensiblement dans ses sentiments ; mais encore parce que ce
-plaisir est plus criminel qu’on ne pense : car il est certain que ce
-plaisir nait principalement de la concupiscence. et qu’il ne fait
-qu’entretenir et que fortifier les passions ; la manière d’écrire de
-cet auteur n’étant agréable que parce qu’elle nous touche et
-qu’elle réveille nos passions d’une manière imperceptible.
+It is not at all his reasons that persuade; he almost never brings any for the things he advances, or at least he almost never brings any that have solidity. In effect he has no principles upon which he bases his reasonings, and he has no order for making deductions from his principles. A historical anecdote does not prove; a little tale does not demonstrate; two verses of Horace, an apophthegm of Cleomenes or of Caesar should not persuade reasonable people; however these *Essays* are only a tissue of historical anecdotes, little tales, witticisms, distiches and apophthegms.
 
-Il serait assez utile de prouver cela dans le détail, et généralement que tous les divers styles ne nous plaisent
-ordinairement qu’à cause de la corruption secrète de notre cœur ;
-mais ce n’en est pas ici le lieu, et, cela nous mènerait trop loin.
-Toutefois, si l’on veut faire réflexion sur la liaison des idées et
-des passions dont j’ai parlé auparavant
-[31]
-, et sur ce qui se passe
-en soi-même dans le temps qu’on lit quelque pièce bien écrite, on
-pourra reconnaître en quelque façon que si nous aimons le genre
-sublime, l’air noble et libre de certains auteurs, c’est que nous
-avons de la vanité et que nous aimons la grandeur et
-l’indépendance. et que ce goût. que nous trouvons dans la
-délicatesse des discours efféminés n’a point d’autre source
-qu’une secrète inclination pour la mollesse et pour la volupté ; en
-un mot, que c’est une certaine intelligence pour ce qui touche les
-sens, et non pas l’intelligence de la vérité, qui fait que certains
-auteurs nous charment et nous enlèvent comme malgré nous. Mais
-revenons à Montaigne.
+One should not regard Montaigne in his *Essays* as a man who reasons, but as a man who amuses himself, who tries to please and who does not think of teaching; and if those who read him did only amuse themselves with him, one must agree that Montaigne would not be such a bad book for them. 
 
-Il me semble que ses plus grands admirateurs le louent d’un
-certain caractère d’auteur judicieux et éloigné du pédantisme, et
-d’avoir parfaitement connu la nature et les faiblesses de l’esprit
-humain. Si je montre donc que Montaigne, tout cavalier qu’il est,
-ne laisse pas d’être aussi pédant que beaucoup d’autres, et qu’il
-n’a eu qu’une connaissance très-médiocre de l’esprit, j’aurai fait
-voir que ceux qui l’admirent le plus n’auront point été persuadés
-par des raisons évidentes, mais qu’ils auront été seulement
-gagnés par la force de son imagination.
+But it is almost impossible not to love what pleases and not to nourish oneself on meats that flatter the taste. The mind cannot take pleasure in reading an author without adopting his sentiments, or at least without receiving some tincture of them, which, mingling with its ideas, renders them confused and obscure.
 
-Ce terme pédant est fort équivoque, mais l’usage, ce me
-semble, et même la raison veulent que l’on appelle pédants ceux
-qui pour faire parade de leur fausse science citent à tort et à
-travers toutes sortes d’auteurs, qui parlent simplement pour parler et pour se faire admirer des sots, qui amassent sans
-jugement et sans discernement des apophthogmes et des traits
-d’histoire pour prouver ou pour faire semblant de prouver des
-choses qui ne se peuvent prouver que par des raisons.
 
-Pédant est opposé à raisonnable, et ce qui rend les pédants
-odieux aux personnes d’esprit c’est que les pédants ne sont pas
-raisonnables ; car, les personnes d’esprit aimant naturellement à
-raisonner, ils ne peuvent souffrir la conversation de ceux qui ne
-raisonnent point. Les pédants ne peuvent pas raisonner parce
-qu’ils ont l’esprit petit ou d’ailleurs rempli d’une fausse
-érudition ; et ils ne veulent pas raisonner, parce qu’ils voient que
-certaines gens les respectent et les admirent davantage lorsqu’ils
-citent quelque auteur inconnu et quelque sentence d’un ancien que
-lorsqu’ils prétendent raisonner. Ainsi leur vanité se satisfaisant
-dans la vue du respect qu’on leur porte, les attache à l’étude de
-toutes les sciences extraordinaires qui attirent l’admiration du
-commun des hommes.
+It is not only dangerous to read Montaigne for amusement, because the pleasure one takes in it insensibly engages one in his sentiments; but also because this pleasure is more criminal than one thinks: for it is certain that this pleasure arises principally from concupiscence, and that it only sustains and fortifies the passions; the manner of writing of this author being agreeable only because it touches us and awakens our passions in an imperceptible manner.
 
-Les pédants sont donc vains et fiers, de grande mémoire et de
-peu de jugement, heureux et forts en citations, malheureux et
-faibles en raisons, d’une imagination vigoureuse et spacieuse,
-mais volage et déréglée, et qui ne peut se contenir dans quelque
-justesse.
+It would be quite useful to prove this in detail, and generally that all diverse styles ordinarily please us only because of the secret corruption of our heart; but this is not the place for it, and it would lead us too far. However, if one wishes to reflect on the connection of ideas and passions of which I have spoken before [31], and on what passes in oneself at the time one reads some well-written piece, one will be able to recognize in some manner that if we love the sublime genre, the noble and free air of certain authors, it is because we have vanity and we love grandeur and independence; and that this taste, which we find in the delicacy of effeminate discourses, has no other source than a secret inclination for softness and voluptuousness; in a word, that it is a certain intelligence for what touches the senses, and not the intelligence of truth, that makes certain authors charm and carry us away as if despite ourselves. But let us return to Montaigne.
 
-Il ne sera pas maintenant fort difficile de prouver que
-Montaigne était aussi pédant que plusieurs autres selon celle
-notion du mot de pédant, qui semble la plus conforme à la raison
-et à l'usage ; car je ne parle pas ici de pédant à longue robe, la
-robe ne peut pas faire le pédant. Montaigne, qui a tant d’aversion
-pour la pédanterie, pouvait bien ne porter jamais robe longue,
-mais il ne pouvait pas de même se défaire de ses propres défauts.
+His greatest admirers praise him for a certain character of judicious author removed from pedantry, and for having perfectly known nature and the weaknesses of the human mind. If I show therefore that Montaigne, for all his cavalier air, is no less a pedant than many others, and that he had only a very mediocre knowledge of the mind, I will have shown that those who admire him most will not have been persuaded by evident reasons, but will have been gained only by the force of his imagination.
 
-Il a bien travaillé à se faire l’air cavalier, mais il n’a pas
-travaillé à se faire l’esprit juste, ou pour le moins il n’y a pas
-réussi. Ainsi il s’est plutôt fait un pédant à la cavalière et d’une
-espèce toute singulière, qu’il ne s’est rendu raisonnable,
-judicieux et honnête homme.
-Le livre de Montaigne contient des preuves si évidentes de la
-vanité et de la fierté de son auteur, qu’il paraît peut-être assez
-inutile de s’arrêter à les faire remarquer ; car il faut être bien
-plein de soi-même pour s’imaginer comme lui, que le monde
-veuille bien lire un assez gros livre pour avoir quelque
-connaissance de nos humeurs. Il fallait nécessairement qu’il se
-séparât du commun et qu'il se regardât comme un homme tout à
-fait extraordinaire.
-Toutes les créatures ont une obligation essentielle de tourner
-les esprits de ceux qui les veulent adorer vers celui-là seul qui
-mérite d’être adoré ; et la religion nous apprend que nous ne
-devons jamais souffrir que l’esprit et le cœur de l’homme qui
-n’est fait que pour Dieu s’occupe de nous et s’arrête à nous
-admirer et à nous aimer. Lorsque saint Jean se prosterna devant
-l’ange du Seigneur
-[32]
-, cet ange lui défendit de l’adorer : Je suis
-serviteur, lui dit-il, comme vous et comme vos frères ; adorez
-Dieu
-[33]
-. Il n’y a que les démons et ceux qui participent à
-l’orgueil des démons qui se plaisent d’être adorés ; et c’est
-vouloir être adoré non pas d’une adoration extérieure et
-apparente, mais d’une adoration intérieure et véritable que de
-vouloir que les autres hommes s’occupent de nous : c’est vouloir
-être adoré comme Dieu veut être adoré, c’est-à-dire en esprit et
-en vérité.
+This term *pedant* is very equivocal, but usage, it seems to me, and even reason, would have it that one calls pedants those who, to make a display of their false learning, cite all sorts of authors at random, who speak simply to speak and to make themselves admired by fools, who amass without judgment and without discernment apophthegms and historical anecdotes to prove or to pretend to prove things that can be proved only by reasons.
 
-Montaigne n’a fait son livre que pour se peindre et pour représenter ses humeurs et ses inclinations. Il l’avoue lui-même
-dans l'avertissement au lecteur, inséré dans toutes les éditions :
-C'est moi que je peins, dit-il, je suis moi-même la matière de
-mon livre. Et cela parait assez en le lisant ; car il y a très-peu de
-chapitres dans lesquels il ne fasse quelque digression pour parler
-de lui et il y a même des chapitres entiers dans lesquels il ne
-parle que de lui. Mais s’il a composé son livre pour s’y peindre,
-il l’a fait imprimer afin qu’on le lût. Il a donc voulu que les
-hommes le regardassent et s’occupassent de lui, quoiqu’il dise
-que ce n’est pas raison qu’on emploie son loisir en un sujet si
-frivole et si vain. Ces paroles ne font que le condamner ; car s’il
-eût cru que ce n’était pas raison qu’on employât le temps à lire
-son livre, il eût agi lui-même contre le sens commun en le faisant
-imprimer. Ainsi on est obligé de croire, ou qu’il n’a pas dit ce
-qu’il pensait, ou qu’il n’a pas fait ce qu’il devait.-
+Pedant is opposed to reasonable, and what renders pedants odious to persons of wit is that pedants are not reasonable; for, persons of wit loving naturally to reason, they cannot suffer the conversation of those who do not reason at all. Pedants cannot reason because they have small minds or otherwise filled with false erudition; and they do not wish to reason, because they see that certain people respect and admire them more when they cite some unknown author and some sentence of an ancient than when they pretend to reason. Thus their vanity, satisfying itself in the sight of the respect shown them, attaches them to the study of all extraordinary sciences that attract the admiration of common men.
 
-C’est encore une plaisante excuse de sa vanité de dire qu’il
-n’a écrit que pour ses parents et amis ; car si cela eût été ainsi,
-pourquoi en eût-il fait faire trois impressions ? Une seule ne
-suffisait-elle pas pour ses parents et pour ses amis ? D’où vient
-encore qu’il a augmenté son livre dans les dernières impressions
-qu’il en a fait faire, et qu’il n’en a jamais rien retranché, si ce
-n’est que la fortune secondait ses intentions ? J’ajoute, dit-il,
-mais je ne corrige pas, parce que celui qui a hypothéqué au
-monde son ouvrage, je trouve apparence qu’il n’y ait plus de
-droit. Qu’il die s’il peut mieux ailleurs, et ne corrompe la
-besogne qu’il a vendue. De telles gens il ne faudrait rien
-acheter qu’après leur mort, qu’ils y pensent bien avant que de
-se produire. Qui les hâte ? mon livre est toujours un, etc.
-[34]
-. Il a donc voulu se produire et hypothéquer au monde son ouvrage
-aussi bien qu’à ses parents et à ses amis. Mais sa vanité serait toujours assez criminelle quand il n’aurait tourné et arrêté
-l’esprit et le cœur que de ses parents et de ses amis vers son
-portrait autant de temps qu’íl en faut pour lire son livre.
-Si c’est un défaut de parler souvent de soi, c’est une
-effronterie ou plutôt une espèce de folie que des se louer à tous
-moments comme fait Montaigne : car ce n’est pas seulement
-pécher contre l’humilité chrétienne, mais c’est encore choquer la
-raison.
+Pedants are therefore vain and proud, of great memory and little judgment, happy and strong in citations, unhappy and weak in reasons, of a vigorous and spacious imagination, but volatile and disordered, and which cannot contain itself within any correctness.
 
-Les hommes sont faits pour vivre ensemble et pour former des
-corps et des sociétés civiles. Mais il faut remarquer que tous les
-particuliers qui composent les sociétés ne veulent pas qu’on les
-regarde comme la dernière partie du corps duquel ils sont. Ainsi,
-ceux qui se louent se mettant au-dessus des autres, les regardant
-comme les dernières parties de leur société, et se considérant
-eux-mêmes comme les principales et les plus honorables, ils se
-rendent nécessairement odieux à tout le monde au lieu de se faire
-aimer et de se faire estimer.
+It will not now be very difficult to prove that Montaigne was as much a pedant as many others according to this notion of the word *pedant*, which seems the most conformable to reason and usage; for I do not speak here of a long-robed pedant, the robe cannot make the pedant. Montaigne, who had so much aversion for pedantry, could well never wear a long robe, but he could not similarly rid himself of his own defects. He worked well to give himself the cavalier air, but he did not work to give himself a sound mind, or at least he did not succeed. Thus he made himself rather a cavalier pedant of a quite singular species, than he rendered himself reasonable, judicious and an honorable man.
 
-C’est donc une vanité et une vanité indiscrète et ridicule à
-Montaigne de parler avantageusement de lui-même à tous
-moments, mais c’est une vanité encore plus extravagante à cet
-auteur de décrire ses défauts ; car si l’on y prend garde, on verra
-qu’il ne découvre guère que les défauts dont on fait gloire dans le
-monde à cause de la corruption du siècle ; qu’il s’attribue
-volontiers ceux qui peuvent le faire passer pour esprit fort ou lui
-donner l’air cavalier ; et afin que par cette franchise simulée de
-la confession de ses désordres on le croie plus volontiers
-lorsqu’il parle à son avantage. Il a raison de dire que se priser et
-se mépriser naissent souvent de pareil air d’arrogance
-[35]
+Montaigne's book contains such evident proofs of the vanity and pride of its author that it appears perhaps quite useless to stop to point them out; for one must be very full of oneself to imagine, as he did, that the world would be willing to read a rather large book to have some knowledge of our humors. He must necessarily have separated himself from the common and regarded himself as a quite extraordinary man.
 
-C’est toujours une marque certaine que l’on est plein de soi330
-même ; et Montaigne me parait encore plus fier et plus vain
-quand il se blâme que lorsqu’il se loue, parce que c'est un orgueil
-insupportable que de tirer vanité de ses défauts au lieu de s’en
-humilier. J’aime mieux un homme qui cache ses crimes avec
-honte qu’un autre qui les publie avec effronterie. et il me semble
-qu’on doit avoir quelque horreur de la manière cavalière et peu
-chrétienne dont Montaigne représente ses défauts. Mais
-examinons les autres qualités de son esprit.
-Si nous croyons Montaigne sur sa parole, nous nous
-persuaderons que c’était un homme de nulle rétention ; qu’il
-n’avait point de gardoire ; que la mémoire lui manquait du
-tout
-[36]
+All creatures have an essential obligation to turn the minds of those who wish to adore them toward Him alone who deserves to be adored; and religion teaches us that we should never suffer that the mind and heart of man, who is made only for God, occupy themselves with us and stop to admire and love us. When St. John prostrated himself before the angel of the Lord [32], this angel forbade him to adore him: *"I am a servant,"* he said to him, *"like you and like your brothers; adore God"* [33]. Only demons and those who participate in the pride of demons take pleasure in being adored; and it is to wish to be adored not with an exterior and apparent adoration, but with an interior and true adoration, to wish that other men occupy themselves with us: it is to wish to be adored as God wishes to be adored, that is to say, in spirit and in truth.
 
-, mais qu’il ne manquait pas de sens et de jugement.
-Cependant si nous en croyons le portrait même qu’il a fait de son
-esprit, je veux dire son propre livre, nous ne serons pas tout à fait
-de son sentiment. Je ne sçauroís recevoir une charge sans
-tablettes, dit-il, et quand j'ai un propos á tenir, s’il est de
-longue haleine, je suis réduit à cette vile et misérable nécessité
-d’apprendre par cœur mot á mot ce que j’ai à dire ; autrement
-je n’auroís ni façon ni assurance, étant en crainte que ma
-mémoire me vint faire un mauvais tour
-[37]
+Montaigne made his book only to paint himself and to represent his humors and inclinations. He admits it himself in the address to the reader, inserted in all editions: *"It is myself I paint,"* he says, *"I am myself the matter of my book."* And this appears enough in reading it; for there are very few chapters in which he does not make some digression to speak of himself, and there are even entire chapters in which he speaks only of himself. But if he composed his book to paint himself therein, he had it printed so that it might be read. He therefore wished that men should look at him and occupy themselves with him, although he says that it is not reasonable that one employ one's leisure on so frivolous and so vain a subject. These words only condemn him; for if he had believed that it was not reasonable that one employ one's time reading his book, he would have acted himself against common sense in having it printed. Thus one is obliged to believe either that he did not say what he thought, or that he did not do what he should.
 
-. Un homme qui peut
-bien apprendre mot à mot des discours de longue haleine. pour
-avoir quelque façon et quelque assurance, manque-t-il plutôt de
-mémoire que de jugement ? Et peut-on croire Montaigne,
-lorsqu’il dit de lui : Les gens qui me servent, il faut que je les
-appelle par le nom de leurs charges, ou de leurs pays. Car il
-m’est très-mal aisé de retenir des noms : et si je durois à vivre
-long-temps je ne croi pas que je n'oubliasse mon nom
-propre
-[38]
+It is also a pleasant excuse for his vanity to say that he wrote only for his relatives and friends; for if that had been so, why did he have three editions made? Was not one enough for his relatives and friends? Whence comes it also that he augmented his book in the last editions he had made, and that he never retrenched anything from it, if not that fortune seconded his intentions? *"I add,"* he says, *"but I do not correct, because he who has mortgaged his work to the world, I find it reasonable that he has no further right to it. Let him say if he can better elsewhere, and not corrupt the work he has sold. From such people one should buy nothing except after their death, let them think well before producing themselves. Who hastens them? My book is always one,"* etc. [34]. He therefore wished to produce himself and mortgage his work to the world as well as to his relatives and friends. But his vanity would always be criminal enough even if he had only turned and arrested the mind and heart of his relatives and friends toward his portrait for as much time as it takes to read his book.
 
-. Un simple gentilhomme, qui peut retenir par cœur et
-mot à mot avec assurance des discours de longue haleine, a-t-il
-331
-un si grand nombre d’officiers qu’il n’en puisse retenir les
-noms ? Un homme qui est né et nourri aux champs, et parmi le
-labourage, qui a des affaires et un ménage en mains, et qui dit
-que de mettre à non chaloir ce qui est à nos pieds, ce que nous
-avons entre nos mains, ce qui regarde de plus près l’usage de la
-vie, c’est chose bien éloignée de son dogme
-[39]
+If it is a defect to speak often of oneself, it is effrontery or rather a kind of folly to praise oneself at every moment as Montaigne does: for it is not only to sin against Christian humility, but it is also to shock reason.
 
-, peut-il oublier
-les nom français de ses domestiques ? Peut-il ignorer, comme il
-dit, la plûpart de nos monnoyes, la différence d’un grain à
-l’autre en la terre et au grenier, si elle n’est pas trop apparente,
-les plus grossiers principes de l’agriculture et que les enfants
-sçavent, de quoi sert le levain à faire du pain, et ce que c’est
-que de faire cuver du vin
-[40]
+Men are made to live together and to form bodies and civil societies. But one must note that all the individuals who compose societies do not wish to be regarded as the last part of the body of which they are. Thus, those who praise themselves, placing themselves above others, regarding them as the last parts of their society, and considering themselves as the principal and most honorable, they necessarily render themselves odious to everyone instead of making themselves loved and esteemed.
 
-, et cependant avoir l’esprit plein de
-noms des anciens philosophes, et de leurs principes, des idées de
-Platon, des atomes d’Epicure, du plein et du vuide de
-Leucippus et de Democritus, de l’eau de Thalès, de l’infinité de
-nature d’Anaximandre, de l’air de Diogenes, des nombres et de
-la symmetrie de Pythagoras, de l’infini de Parmenides, de l’un
-de Museus, de l’eau et du feu d’Apollodorus, des parties
-similaires d’Anaxagoras, de la discorde et de l’amitié
-d’Empedocles, du feu d’Héraclite, etc.
-[41] ? Un homme qui dans
-trois ou quatre pages de son livre rapporte plus de cinquante
-noms d’auteurs différents avec leurs opinions ; qui a rempli tout
-son ouvrage de traits d’histoire, et d’apophtegmes entassés sans
-ordre ; qui dit que l’histoire et la poësie sont son gibier en
-matière de livres ; qui se contredit à tous moments et dans un
-même chapitre, lors même qu’il parle des choses qu’il prétend le
-mieux savoir, je veux dire lorsqu’il parle des qualités de son
-esprit, se doit-il piquer d’avoir plus de jugement que de
-mémoire ?
+It is therefore a vanity, and an indiscreet and ridiculous vanity, in Montaigne to speak advantageously of himself at every moment, but it is a vanity still more extravagant in this author to describe his defects; for if one takes heed, one will see that he hardly discovers any defects but those of which one boasts in the world because of the corruption of the age; that he willingly attributes to himself those that can make him pass for a strong mind or give him the cavalier air; and so that by this simulated frankness of confession of his disorders one may more willingly believe him when he speaks to his advantage. He is right to say that praising and despising oneself often arise from the same air of arrogance [35].
 
-Avouons donc que Montaigne était excellent en oubliance,
-puisque Montaigne nous en assure, qu’il souhaite que nous ayons
-ce sentiment de lui, et qu’enfin cela n’est pas tout à fait contraire
-à la vérité. Mais ne nous persuadons pas sur sa parole, ou par les
-louanges qu’il se donne, que c’était un homme de grand sens, et
-d’une pénétration d’esprit tout extraordinaire. Cela pourrait nous
-jeter dans l’erreur, et donner trop de crédit aux opinions fausses
-et dangereuses qu’il débite avec une fierté et une hardiesse
-dominante, qui ne fait qu’alourdir et qu’éblouir les esprits
-faibles.
+It is always a certain mark that one is full of oneself; and Montaigne seems to me still prouder and vainer when he blames himself than when he praises himself, because it is an insupportable pride to draw vanity from one's defects instead of humiliating oneself for them. I prefer a man who hides his crimes with shame to another who publishes them with effrontery; and it seems to me that one should have some horror of the cavalier and little Christian manner in which Montaigne represents his defects. But let us examine the other qualities of his mind.
 
-L’autre louange que l’on donne à Montaigne est qu’il avait une
-connaissance parfaite de l’esprit humain ; qu’il en pénétrait le
-fond, la nature, les propriétés ; qu’il en savait le fort et le faible,
-en un mot tout ce que l’on en peut savoir. Voyons s’il mérite bien
-ces louanges, et doù vient qu’on en est si libéral à son égard.
-Ceux qui ont lu Montaigne savent assez que cet auteur affectait
-de passer pour pyrrhonien et qu’il faisait gloire de douter de tout.
-La persuasion de la certitude, dit-il, est un certain témoignage
-de folie et d’incertitude extrême ; et n’est point de plus folles
-gens, et moins philosophes, que les philodoxes de Platon. Il donne au contraire tant de louanges aux pyrrhoniens dans le
-même chapitre, qu’il n’est pas possible qu’il ne fût de cette
-secte : il était nécessaire de son temps, pour passer pour habile et
-pour galant homme, de douter de tout ; et la qualité d’esprit fort
-dont il se piquait, l’engageait encore dans ses opinions. Ainsi, en
-le supposant académicien, on pourrait tout d’un coup le
-convaincre d’être le plus ignorant de tous les hommes, non
-seulement dans ce qui regarde la nature de l’esprit, mais même en
-toute autre chose. Car puisqu’il y a une différence essentielle entre savoir et douter ; si les académiciens disent ce qu’ils
-pensent, lorsqu’ils assurent qu’ils ne savent rien, on peut dire que
-ce sont les plus ignorants de tous les hommes.
+If we believe Montaigne on his word, we will persuade ourselves that he was a man of no retention; that he had no storehouse; that memory failed him entirely [36]; but that he did not lack sense and judgment. However if we believe the very portrait he made of his mind, I mean his own book, we will not be entirely of his sentiment. *"I cannot receive a charge without tablets,"* he says, *"and when I have a discourse to hold, if it is of long breath, I am reduced to this vile and miserable necessity of learning by heart word for word what I have to say; otherwise I would have neither manner nor assurance, being in fear that my memory might play me a bad trick"* [37]. A man who can well learn by heart word for word discourses of long breath, in order to have some manner and assurance, does he lack more memory than judgment? And can one believe Montaigne when he says of himself: *"The people who serve me, I must call them by the name of their offices, or their countries. For it is very difficult for me to retain names: and if I were to live long I do not believe I would not forget my own name"* [38]. A simple gentleman, who can retain by heart and word for word with assurance discourses of long breath, has he so great a number of officers that he cannot retain their names? A man who was born and raised in the fields, and among farming, who has affairs and a household in hand, and who says that *"to neglect what is at our feet, what we have in our hands, what concerns more closely the use of life, is a thing very far from his dogma"* [39], can he forget the French names of his domestics? Can he ignore, as he says, *"most of our currencies, the difference of one grain from another in the earth and in the granary, if it is not too apparent, the most elementary principles of agriculture that children know, what leaven serves for in making bread, and what it is to let wine ferment"* [40], and however have a mind full of the names of ancient philosophers, and of their principles, of Plato's ideas, of Epicurus's atoms, of the plenum and vacuum of Leucippus and Democritus, of Thales's water, of Anaximander's infinity of nature, of Diogenes's air, of Pythagoras's numbers and symmetry, of Parmenides's infinite, of Musaeus's One, of Apollodorus's water and fire, of Anaxagoras's similar parts, of Empedocles's discord and friendship, of Heraclitus's fire, etc. [41]? A man who in three or four pages of his book reports more than fifty names of different authors with their opinions; who has filled all his work with historical anecdotes and apophthegms heaped without order; who says that history and poetry are his game in matters of books; who contradicts himself at every moment and in the same chapter, even when he speaks of things he claims to know best, I mean when he speaks of the qualities of his mind, should he pride himself on having more judgment than memory?
 
-Mais ce ne sont pas seulement les plus ignorants de tous les
-hommes, ce sont aussi les défenseurs des opinions les moins
-raisonnables. Car non seulement ils rejettent tout ce qui est de
-plus certain et de plus universellement reçu, pour se faire passer
-pour esprits forts ; mais par le même tour dîmagination, ils se
-plaisent à parler d’une manière décisive des choses les plus
-incertaines et les moins probables. Montaigne est visiblement
-frappé de cette maladie d’esprit ; et il faut nécessairement dire
-que non-seulement il ignorait la nature de l’esprit humain, mais
-même qu’il était dans des erreurs fort grossières sur ce sujet :
-supposé qu’il nous ait dit ce qu’il en pensait, comme il l’a dû
-faire.
+Let us therefore avow that Montaigne was excellent in forgetting, since Montaigne assures us of it, that he wishes us to have this sentiment of him, and that finally this is not entirely contrary to truth. But let us not persuade ourselves on his word, or by the praises he gives himself, that he was a man of great sense, and of an altogether extraordinary penetration of mind. That could throw us into error, and give too much credit to the false and dangerous opinions he utters with a pride and dominant boldness that only dulls and dazzles weak minds.
 
-Car que peut-on dire d’un homme qui confond l’esprit avec la
-matière ; qui rapporte les opinions les plus extravagantes de
-philosophes sur la nature de l’âme sans les mépriser, et même
-d’un air qui fait assez connaître qu’il approuve davantage les
-plus opposées à la raison ; qui ne voit pas la nécessité de
-l’immorlalité de nos âmes ; qui pense que la raison humaine ne la
-peut reconnaître, et qui regarde les preuves que l’on en donne
-comme des songes que le désir fait naître en nous : Somnia non
-docentis sed optantís ; qui trouve à redire que les hommes se
-séparent de la presse des autres créatures, et se distinguent des
-bêtes, qu’il appelle nos confrères et nos compagnons
-[43]
-, qu’il
-croit parler, s’entendre, et se moquer de nous, de même que nous
-parlons, que nous nous entendons, et que nous nous moquons
-d’elles ; qui met plus de différence d’un homme à un autre homme, que d’un homme à une bête ; qui donne jusqu’aux
-araignées délibération, pensement et conclusion ; et qui après
-avoir soutenu que la disposition du corps de l’homme n’a aucun
-avantage sur celle des bêtes, accepte volontiers ce sentiment :
-que ce n’est point par la raison, par le discours et par l’âme
-que nous excellons sur les bêtes, mais par notre beauté, notre
-beau teint, et notre belle disposition de membres, pour laquelle
-il nous faut mettre notre intelligence, notre prudence et tout le
-reste à l’abandon, etc. ? Peut-on dire qu’un homme qui se sert
-des opinions les plus bizarres pour conclure que ce n’est point
-par vrai discours mais par une fierté et opiniatreté, que nous
-nous préférons aux autres animaux, eût une connaissance fort
-exacte de l’esprit humain, et croit-on en persuader les autres ?
-Mais il faut faire justice à tout le monde, et dire de bonne foi
-quel était le caractère de l’esprit de Montaigne. Il avait peu de
-mémoire, encore moins de jugement, il est vrai ; mais ces deux
-qualités ne font point ensemble ce que l’on appelle ordinairement
-dans le monde beauté d’esprit. C’est la beauté, la vivacité et
-l’étendue de l’imagination, qui font passer pour bel esprit. Le
-commun des hommes estime le brillant, et non pas le solide ;
-parce que l’on aime davantage ce qui touche les sens, que ce qui
-instruit la raison. Ainsi en prenant beauté d’imagination pour
-beauté d’esprit, on peut dire que Montaigne avait l’esprit beau et
-même extraordinaire. Ses idées sont fausses, mais belles ; ses
-expressions irrégulières ou hardies, mais agréables ; ses discours
-mal raisonnés, mais bien imaginés. On voit dans tout son livre un
-caractère d’original qui plaît infiniment : tout copiste qu’il est, il
-ne sent point son copiste ; et son imagination forte et hardie
-donne toujours le tour d’original aux choses qu’il copie. Il a enfin
-ce qu’il est nécessaire d’avoir pour plaire et pour imposer ; et je pense avoir montré suffisamment que ce n’est point en
-convainquant la raison qu’il se fait admirer de tant de gens, mais
-en leur tournant l’esprit à son avantage par la vivacité toujours
-victorieuse de son imagination dominante.
+The other praise given to Montaigne is that he had a perfect knowledge of the human mind; that he penetrated its depth, its nature, its properties; that he knew its strength and weakness, in a word all that one can know of it. Let us see if he well deserves these praises, and whence it comes that one is so liberal toward him.
 
+Those who have read Montaigne know well enough that this author affected to pass for a Pyrrhonian and that he boasted of doubting everything. *"The persuasion of certainty,"* he says, *"is a certain testimony of folly and extreme uncertainty; and there are no people more foolish and less philosophical than Plato's philodoxes."* On the contrary, he gives so many praises to the Pyrrhonians in the same chapter, that it is not possible that he was not of this sect: it was necessary in his time, to pass for skillful and for a gentleman, to doubt everything; and the quality of strong mind of which he prided himself engaged him still more in his opinions. Thus, supposing him an academician, one could all at once convict him of being the most ignorant of all men, not only in what concerns the nature of the mind, but even in all other things. For since there is an essential difference between knowing and doubting; if the academicians say what they think, when they assert that they know nothing, one can say that they are the most ignorant of all men.
+
+But they are not only the most ignorant of all men, they are also the defenders of the least reasonable opinions. For not only do they reject everything that is most certain and most universally received, to pass for strong minds; but by the same turn of imagination, they take pleasure in speaking in a decisive manner of the most uncertain and least probable things. Montaigne is visibly struck by this disease of the mind; and one must necessarily say that not only did he ignore the nature of the human mind, but even that he was in very gross errors on this subject: supposing that he told us what he thought of it, as he should have done.
+
+For what can one say of a man who confuses mind with matter; who reports the most extravagant opinions of philosophers on the nature of the soul without despising them, and even with an air that makes it quite clear that he approves more those most opposed to reason; who does not see the necessity of the immortality of our souls; who thinks that human reason cannot recognize it, and who regards the proofs given of it as dreams that desire gives birth to in us: *"Somnia non docentis sed optantis"* (Dreams not of one teaching but of one wishing); who finds fault with men for separating themselves from the crowd of other creatures, and distinguishing themselves from beasts, which he calls *"our brothers and companions"* [43], which he believes speak, understand each other, and mock us, just as we speak, understand each other, and mock them; who puts more difference from one man to another man than from a man to a beast; who gives even to spiders deliberation, thought and conclusion; and who after having maintained that the disposition of man's body has no advantage over that of beasts, willingly accepts this sentiment: *"that it is not by reason, by discourse and by the soul that we excel over beasts, but by our beauty, our fair complexion, and our fine disposition of members, for which we must put our intelligence, our prudence and all the rest aside,"* etc.? Can one say that a man who uses the most bizarre opinions to conclude that it is not by true discourse but by pride and obstinacy that we prefer ourselves to other animals, had a very exact knowledge of the human mind, and does one think to persuade others of it?
+
+But one must do justice to everyone, and say in good faith what was the character of Montaigne's mind. He had little memory, even less judgment, it is true; but these two qualities do not together make what is ordinarily called in the world beauty of mind. It is beauty, vivacity and extent of imagination that make one pass for a fine mind. Common men esteem brilliance, and not solidity; because one loves more what touches the senses, than what instructs reason. Thus taking beauty of imagination for beauty of mind, one can say that Montaigne had a beautiful and even extraordinary mind. His ideas are false, but beautiful; his expressions irregular or bold, but agreeable; his discourses poorly reasoned, but well imagined. One sees throughout his book a character of original that pleases infinitely: as much a copyist as he is, he does not smell of his copyist; and his strong and bold imagination always gives the turn of original to the things he copies. He has finally what is necessary to please and to impose; and I think I have sufficiently shown that it is not by convincing reason that he makes himself admired by so many people, but by turning their minds to his advantage by the always victorious vivacity of his dominant imagination.

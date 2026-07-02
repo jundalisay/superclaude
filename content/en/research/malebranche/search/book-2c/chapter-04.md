@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4
-title: "The Passions"
+title: "The Imagination of Seneca"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -9,392 +9,56 @@ date: 2026-06-20
 ---
 
 
-De l’imagination de Sénèque.
 
-L’imagination de Sénèque n’est quelquefois pas míeux réglée
-que celle de Tertullien. Ses mouvements impétueux l’emportent
-souvent dans des pays qui lui sont inconnus, où néanmoins il
-marche avec la même assurance que s’il savait où il est et où il
-va. Pourvu qu’il fasse de grands pas, des pas figurés, et dans une
-juste cadence, il s’imagine qu’il avance beaucoup ; mais il ressemble à ceux qui dansent, qui finissent toujours où ils ont
-commencé. Il faut bien distinguer la force et la beauté des
-paroles, de la force et de l’évidence des raisons. Il y a sans doute
-beaucoup de force et quelque beauté dans les paroles de
-Sénèque, mais il y a tros-peu de force et d’évidence dans ses
-raisons. Il donne par la force de son imagination un certain tour à
-ses paroles, qui touche, qui agite et qui persuade par impression ;
-mais il ne leur donne pas cette netteté et cette lumière pure qui
-éclaire et qui persuade par évidence. Il convainc parce qu’il
-émeut et parce qu’il plaît ; mais je ne crois pas qu’il lui arrive de
-persuader ceux qui le peuvent lire de sang-froid. qui prennent
-garde à la surprise, et qui ont coutume de ne se rendre qu’à la
-clarté et à l’évidence des raisons. En un mot, pourvu qu’il parle
-et qu’il parle bien, il se met peu en peine de ce qu’il dit, comme
-si on pouvait bien parler sans savoir ce qu’on dit ; et ainsi il
-persuade sans que l’on sache souvent ni de quoi ni comment on
-est persuadé, comme si on devait jamais se laisser persuader de
-quelque chose sans la concevoir distinctement, et sans avoir
-examiné les preuves qui la démontrent.
+Seneca's imagination is sometimes no better regulated than that of Tertullian. His impetuous movements often carry him into unknown lands, where nevertheless he walks with the same assurance as if he knew where he is and where he is going. Provided he makes great strides, figured strides, and in a just cadence, he imagines he advances much; but he resembles those who dance, who always end where they began. One must carefully distinguish the force and beauty of words from the force and evidence of reasons. 
 
-Qu’y a-t-il de plus pompeux et de plus magnifique que l’idée
-qu’il nous donne de son sage, mais qu’y a-t-il au fond de plus
-vain et de plus imaginaire ? Le portrait qu’il fait de Caton est
-trop beau pour être naturel : ce n’est que du fard et que du plâtre
-qui ne donne dans la vue que de ceux qui n’étudient et qui ne
-connaissent pas la nature. Caton était un homme sujet à la misère
-des hommes ; il n’était point invulnérable, c’est une idée ; ceux
-qui le frappaient le blessaient. Il n’avait ni la dureté du diamant,
-que le fer ne peut briser, ni la fermeté des rochers, que les flots
-ne peuvent ébranler, comme Sénèque le prétend. En un mot, il
-n’était point insensible ; et le même Sénèque se trouve obligé d’en tomber d’accord, lorsque son imagination s’est un peu
-refroidie, et qu’il fait davantage de réflexion à ce qu’il dit.
-Mais quoi donc, n’accordera-t-il pas que son sage peut
-devenir misérable, puisqu’il accorde qu’il n’est pas insensible à
-la douleur ? Non, sans doute, la douleur ne touche pas son sage ;
-la crainte de la douleur ne l’inquiète pas : son sage est au-dessus
-de la fortune et de la malice des hommes ; ils ne sont pas
-capables de l’inquiéter.
+There is without doubt much force and some beauty in the words of Seneca, but there is too little force and evidence in his reasons. He gives by the force of his imagination a certain turn to his words, which touches, agitates and persuades by impression; but he does not give them that clarity and pure light that enlightens and persuades by evidence. He convinces because he moves and because he pleases; but I do not believe it happens to him to persuade those who can read him with coolness, who take heed of surprise, and who are accustomed to yield only to the clarity and evidence of reasons. In a word, provided he speaks and speaks well, he cares little what he says, as if one could speak well without knowing what one says; and thus he persuades without one often knowing of what or how one is persuaded, as if one should ever let oneself be persuaded of something without conceiving it distinctly, and without having examined the proofs that demonstrate it.
 
-Il n’y a point de murailles et de tours dans les plus fortes
-places que les béliers et les autres machines ne fassent trembler
-et ne renversent avec le temps, mais il n’y a point de machines
-assez puissantes pour ébranler l’esprit de son sage. Ne lui
-comparez pas les murs de Babylone, qu’Alexandre a forcés ; ni
-ceux de Carthage et de Numance, qu’un même bras a renversés ;
-ni enfin le Capitole et la citadelle, qui gardent encore a présent
-des marques que les ennemis s’en sont rendus les maîtres. Les
-flèches que l’on tire contre le soleil ne montent pas jusqu'à lui.
-Les sacrilèges que l’on commet lorsque l’on renverse les temples
-et qu’on en brise les images ne nuisent pas à la divinité. Les
-dieux mêmes peuvent être accablés sous les ruines de leurs
-temples, mais son sage n’en sera pas accablé : ou plutôt, s’il en
-est accablé, il n'est pas possible qu’il en soit blessé.
-Mais ne croyez pas, dit Sénèque, que ce sage que je vous
-dépeins ne se trouve nulle part. Ce n’est pas une fiction pour
-élever sottement l’esprit de l’homme. Ce n’est pas une grande
-idée sans réalité et sans vérité ; peut-être même que Caton passe
-cette idée.
+What is more pompous and more magnificent than the idea he gives us of his wise man, but what is at bottom more vain and more imaginary? The portrait he makes of Cato is too beautiful to be natural: it is only rouge and plaster that strikes only the view of those who do not study and do not know nature. Cato was a man subject to the misery of men; he was not invulnerable, that is an idea; those who struck him wounded him. He had neither the hardness of diamond, which iron cannot break, nor the firmness of rocks, which waves cannot shake, as Seneca claims. In a word, he was not insensible; and the same Seneca finds himself obliged to agree, when his imagination has cooled a little, and he reflects more on what he says.
 
-Mais il me semble, continue-t-il, que je vois que votre esprit
-s'agite et s’échauffe. Vous voulez dire peut-être que c’est se rendre méprisable que de promettre des choses qu’on ne peut ni
-croire ni espérer, et que les stoïciens ne font que changer le nom
-des choses afin de dire les mêmes vérités d’une manière plus
-grande et plus magnifique. Mais vous vous trompez ; je ne
-prétends pas élever le sage par ces paroles magnifiques et
-spécieuses, je prétends seulement qu’il est dans un lieu
-inaccessible et dans lequel on ne peut le blesser.
+But what then, will he not grant that his wise man can become miserable, since he grants that he is not insensible to pain? No, doubtless, pain does not touch his wise man; the fear of pain does not trouble him: his wise man is above fortune and the malice of men; they are not capable of troubling him.
 
-Voilà jusqu’où l'imagination vigoureuse de Sénèque emporte sa
-faible raison. Mais se peut-il faire que des hommes qui sentent
-continuellement leurs miseres et leurs faiblesses puissent tomber
-dans des sentiments si liers et si vains ? Un homme raisonnable
-peut-il jamais se persuader que sa douleur ne le touche et ne le
-blesse pas ? et Caton, tout sage et tout fort qu’il était, pouvait-il
-souffrir sans quelque inquiétude ou au moins sans quelque
-distraction, je ne dis pas les injures atroces d’un peuple enragé
-qui le traîne, qui le dépouille et qui le maltraite de coups, mais
-les piqùres d’une simple mouche ? Qu’y a-t-il de plus faible
-contre des preuves aussi fortes et aussi convaincantes que sont
-celles de notre propre expérience, que cette belle raison de
-Sénèque, laquelle est cependant une de ses principales preuves ?
-Celui qui blesse, dit-il, doit être plus fort que celui qui est
-blesse. Le vice n’est pas plus fort que la vertu, donc le sage ne
-peut être blessé ; car il n’y a qu’à répondre, ou que tous les
-hommes sont pécheurs, et par conséquent dignes de la misère
-qu’ils souffrent, ce que la religion nous apprend, ou que, si le
-vice n’est pas plus fort que la vertu, les vicieux peuvent avoir
-quelquefois plus de force que les gens de bien, comme
-l’expérience nous le fait connaître.
+There are no walls and towers in the strongest places that battering rams and other machines do not make tremble and overturn in time, but there are no machines powerful enough to shake the mind of his wise man. Do not compare to him the walls of Babylon, which Alexander forced; nor those of Carthage and Numantia, which one same arm overthrew; nor finally the Capitol and the citadel, which still bear marks that enemies have made themselves masters of them. The arrows shot at the sun do not reach it. The sacrileges committed when temples are overturned and images broken do not harm the divinity. The gods themselves can be crushed under the ruins of their temples, but his wise man will not be crushed by them: or rather, if he is crushed by them, it is not possible that he be wounded by them.
 
+But do not believe, says Seneca, that this wise man I depict for you is found nowhere. It is not a fiction to foolishly elevate the mind of man. It is not a great idea without reality and without truth; perhaps even Cato surpasses this idea.
 
-Épicure avait raison de dire que « les offenses étaient supportables à un homme sage. » Mais Sénèque à tort de dire qμe
-« les sages ne peuvent pas même être offensés. » La vertu des
-stoïques ne pouvait pas les rendre invulnérables, puisque la
-véritable vertu n’empêche pas qu’on ne soit misérable et digne
-de compassion dans le temps qu’on souffre quelque mal. Saint
-Paul et les premiers chrétiens avaient plus de vertu que Caton et
-les stoïciens. Ils avouaient néanmoins qu’ils étaient misérables
-par les peines qu’ils enduraient. quoiqu’ils fussent heureux dans
-l’espérance d’une récompense éternelle. Si tantum in hac vita
-sperantes sumus, miserabiliores sumus omnibus hominibus, dit
-saint Paul.
+But it seems to me, he continues, that I see your mind agitating and heating up. You wish to say perhaps that it is to make oneself contemptible to promise things that one can neither believe nor hope, and that the Stoics only change the name of things in order to say the same truths in a grander and more magnificent manner. But you are mistaken; I do not pretend to elevate the wise man by these magnificent and specious words, I pretend only that he is in an inaccessible place in which one cannot wound him.
 
-Comme il n’y a que Dieu qui nous puisse donner par sa grâce
-une véritable et solide vertu, il n’y a aussi que lui qui nous puisse
-faire jouir d’un bonheur solide et véritable ; mais il ne le promet
-et ne le donne pas en cette vie. C’est dans l’autre qu’il faut
-l’espérer de sa justice, comme la récompense des misères qu’on
-a souffertes pour l’amour de lui. Nous ne sommes pas à présent
-dans la possession de cette paix et de ce repos que rien ne peut
-troubler. La grâce même de Jésus-Christ ne nous donne pas une
-force invincible ; elle nous laisse d’ordinaire sentir notre propre
-faiblesse, pour nous faire connaître qu’il n’y a rien au monde qui
-ne nous puisse blesser, et pour nous faire souffrir avec une
-patience humble et modeste toutes les injures que nous recevons,
-et non pas avec une patience fière et orgueilleuse, semblable à la
-constance du superbe Caton.
+Thus far the vigorous imagination of Seneca carries his weak reason. But can it be that men who continually feel their miseries and weaknesses can fall into sentiments so proud and so vain? Can a reasonable man ever persuade himself that his pain does not touch and wound him? And Cato, as wise and as strong as he was, could he suffer without some uneasiness or at least without some distraction, I do not say the atrocious injuries of an enraged people who drag him, strip him and mistreat him with blows, but the stings of a simple fly? What is weaker against proofs as strong and as convincing as those of our own experience, than this fine reason of Seneca, which is however one of his principal proofs? He who wounds, he says, must be stronger than he who is wounded. Vice is not stronger than virtue, therefore the wise man cannot be wounded; for one need only reply, either that all men are sinners, and consequently worthy of the misery they suffer, which religion teaches us, or that, if vice is not stronger than virtue, the vicious can sometimes have more force than the good, as experience makes known to us.
 
-Lorsqu’on frappa Caton
-[26] au visage, il ne se fâcha point, il ne
-se vengea point, il ne pardonna point aussi ; mais il nia fièrement
-qu’on lui eût fait quelque injure. Il voulait qu’on le crùt
-infiniment au-dessus de ceux qui l’avaient frappé. Sa patience n’était qu’orgueil et que fierté. Elle était choquante et injurieuse
-pour ceux qui l’avaient maltraité ; et Caton marquait, par cette
-patience de stoïque, qu’il regardait ses ennemis comme des bêtes
-contre lesquelles il est honteux de se mettre en colère. C’est ce
-mépris de ses ennemis et cette grande estime de soi-même que
-Séneque appelle grandeur de courage. Majorí animo, dit-il
-parlant de l’injure qu’on fit à Caton, non agnovit quam
-ignovisset. Quel excès de confondre la grandeur de courage avec
-l’orgueil, et de séparer la patience d’avec l’humilité pour la
-joindre avec une fierté insupportable ! Mais que ces excès
-flattent agréablement la vanité de l’homme qui ne veut jamais
-s’abaisser ; et qu’il est dangereux principalement à des chrétiens
-de s’instruire de la morale dans un auteur aussi peu judicieux que
-Sénèque, mais dont l’imagination est si forte, si vive et si
-impérieuse qu’elle éblouit, qu'elle étourdit et qu’elle entraîne
-tous ceux qui ont peu de fermeté d’esprit et beaucoup de
-sensibilité pour tout ce qui flatte la concupiscence de l’orgueil !
-Que les chrétiens apprennent plutôt de leur maître que des
-impies sont capables de les blesser, et que les gens de bien sont
-quelquefois assujettis à ces impies par l’ordre de la Providence.
-Lorsqu’un des officiers du grand-prêtre donna un soufflet à JésusChrist, ce sage des chrétiens, infiniment sage, et même aussi
-puissant qu’il est sage, confesse que ce valet a été capable de le
-blesser. Il ne se fâche pas, il ne se venge pas comme Caton ; mais
-il pardonne comme ayant été véritablement offensé. Il pouvait se
-venger et perdre ses ennemis ; mais il souffre avec une patience
-humble et modeste qui n’est injurieuse à personne ni même à ce
-valet qui l’avait offensé. Caton au contraire ne pouvant ou
-n’osant tirer de vengeance réelle de l’offense qu’il avait reçue,
-tâche d’en tirer une imaginaire et qui flatte sa vanité et son orgueil. Il s'élève en esprit jusque dans les nues ; il voit de là les
-hommes d’ici-bas petits comme des mouches, et il les méprise
-comme des insectes incapables de l’avoir offensé et indignes de
-sa colère. Cette vision est une pensée digne du sage Caton. C’est
-elle qui lui donne cette grandeur d’âme et cette fermeté de
-courage qui le rend semblable aux dieux. C’est elle qui le rend
-invulnérable, puisque c’est elle qui le met au-dessus de toute la
-force et de toute la malignité des autres hommes. Pauvre Caton !
-tu t’imagines que ta vertu t’élève au-dessus de toutes choses ; ta
-sagesse n’est que folie et ta grandeur qu’abomination devant
-Dieu
-[27]
-, quoi qu’en pensent les sages du monde.
+Epicurus was right to say that "offenses are bearable to a wise man." But Seneca is wrong to say that "wise men cannot even be offended." The virtue of the Stoics could not render them invulnerable, since true virtue does not prevent one from being miserable and worthy of compassion at the time one suffers some evil. Saint Paul and the first Christians had more virtue than Cato and the Stoics. They nevertheless admitted that they were miserable by the pains they endured, although they were happy in the hope of an eternal reward. *"If in this life only we have hope, we are of all men most miserable,"* says Saint Paul.
 
+As there is only God who can give us by His grace a true and solid virtue, there is also only He who can make us enjoy a solid and true happiness; but He does not promise it and does not give it in this life. It is in the other that one must hope for it from His justice, as the reward of miseries suffered for love of Him. We are not at present in the possession of that peace and rest that nothing can trouble. The grace of Jesus Christ itself does not give us an invincible force; it ordinarily leaves us feeling our own weakness, to make us know that there is nothing in the world that cannot wound us, and to make us suffer with a humble and modest patience all the injuries we receive, and not with a proud and arrogant patience, like the constancy of the proud Cato.
 
-Il y a des visionnaires de plusieurs espèces : les uns
-s’imaginent qu’ils sont transformés en coqs et en poules ;
-d’autres croient qu’ils sont devenus rois ou empereurs ; d’autres
-enfin se persuadent qu’ils sont indépendants et comme des dieux.
-Mais si les hommes regardent toujours comme des fous ceux qui
-assurent qu’ils sont devenus coqs ou rois, ils ne pensent pas
-toujours que ceux qui disent que leur vertu les rend indépendants
-et égaux à Dieu soient véritablement visionnaires. La raison en
-est que, pour être estimé fou, il ne suffit pas d’avoir de folles
-pensées, il faut, outre cela, que les autres hommes prennent les
-pensées que l’on a pour des visions et pour des folies. Car les
-fous ne passent pas pour ce qu’ils sont parmi les fous qui leur
-ressemblent, mais seulement parmi les hommes raisonnables, de
-même que les sages ne passent pas pour ce qu’ils sont parmi des
-fous. Les hommes reconnaissent donc pour fous ceux qui
-s’imaginent être devenus coqs ou rois, parce que tous les hommes
-ont raison de ne pas croire qu’on puisse si facilement devenir
-coq ou roi. Mais ce n’est pas d’aujourd’hui que les hommes
-croient pouvoir devenir comme des dieux ; ils l’ont cru de tout temps et peut-être plus qu’ils ne le croient aujourd’hui. La vanité
-leur a toujours rendu cette pensée assez vraisemblable. Ils la
-tiennent de leurs premiers parents ; car sans doute nos premiers
-parents étaient dans ce sentiment lorsqu’ils obéirent au démon
-qui les tenta par la promesse qu’il leur fit qu’ils deviendraient
-semblables à Dieu : Eritis sicut dii. Les intelligences même les
-plus pures et les plus éclairées ont été si fort aveuglées par leur
-propre orgueil qu’ils ont cru pouvoir devenir indépendants et
-qu’ils ont même formé le dessein de monter sur le trône de Dieu.
-Ainsi il ne faut point s’étonner si les hommes qui n’ont ni la
-pureté ni la lumière des anges s’abandonnent aux mouvements de
-leur vanité qui les aveugle et qui les séduit.
+When Cato [26] was struck in the face, he did not become angry, he did not avenge himself, he did not pardon either; but he proudly denied that any injury had been done to him. He wished to be believed infinitely above those who had struck him. His patience was only pride and arrogance. It was shocking and injurious to those who had mistreated him; and Cato showed, by this Stoic patience, that he regarded his enemies as beasts against whom it is shameful to become angry. It is this contempt for his enemies and this great esteem for himself that Seneca calls greatness of courage. *"With a greater spirit,"* he says, speaking of the injury done to Cato, *"he did not acknowledge it than if he had pardoned it."* What excess, to confuse greatness of courage with pride, and to separate patience from humility to join it with an insufferable arrogance! But how agreeably these excesses flatter the vanity of man who never wishes to abase himself; and how dangerous it is, especially for Christians, to instruct themselves in morality in an author as little judicious as Seneca, but whose imagination is so strong, so vivid and so imperious that it dazzles, stuns and carries away all those who have little firmness of mind and much sensibility for all that flatters the concupiscence of pride!
 
-Si la tentation pour la grandeur et l’indépendance est la plus
-forte de toutes, c’est qu’elle nous paraît, comme à nos premiers
-parents, assez conforme à notre raison aussi bien qu’à notre
-inclination, à cause que nous ne sentons pas toujours toute notre
-dépendance. Si le serpent eût menacé nos premiers parents en
-leur disant : Si vous mangez du fruit dont Dieu vous a défendu de
-manger, vous serez transformés, vous en coq et vous en poule, ou
-ne craint point d’assurer qu’ils se fussent raillés d’une tentation
-si grossière ; car nous nous en raillerions nous-mêmes. Mais le
-démon, jugeant des autres par lui-même, savait bien que le désir
-de l’indépendance était le faible par où il les fallait prendre.
-La seconde raison qui fait qu’on regarde comme fous ceux qui
-assurent qu’ils sont devenus coqs ou rois, et qu’on n’a pas la
-même pensée de ceux qui assurent que personne ne les peut
-blesser parce qu’ils sont au-dessus de la douleur ; c’est qu’il est
-visible que les hypocondriaques se trompent, et qu’il ne faut
-qu’ouvrir les yeux pour avoir des preuves sensibles de leur égarement. 
+Let Christians rather learn from their Master that the impious are capable of wounding them, and that the good are sometimes subjected to these impious by the order of Providence. When one of the high priest's officers gave a slap to Jesus Christ, this wise man of Christians, infinitely wise, and even as powerful as He is wise, confesses that this servant was capable of wounding Him. He does not become angry, He does not avenge Himself like Cato; but He pardons as having been truly offended. He could avenge Himself and destroy His enemies; but He suffers with a humble and modest patience that is injurious to no one, not even to this servant who had offended Him. Cato on the contrary, unable or not daring to take real vengeance for the offense he had received, tries to draw an imaginary one that flatters his vanity and pride. He raises himself in spirit up to the clouds; from there he sees men below as small as flies, and he despises them as insects incapable of having offended him and unworthy of his anger. This vision is a thought worthy of the wise Cato. It is this that gives him that greatness of soul and that firmness of courage that makes him resemble the gods. It is this that renders him invulnerable, since it is this that places him above all the force and all the malice of other men. Poor Cato! You imagine that your virtue elevates you above all things; your wisdom is only folly and your greatness abomination before God [27], whatever the wise of the world may think.
 
-Mais lorsque Caton assure que ceux qui l’ont frappé
-ne l’ont point blessé, et qu’il est au-dessus de toutes les injures
-qu’on lui peut faire, il l’assure, ou il peut l’assurer avec tant de
-fierté et de gravité qu’on ne peut reconnaître s’il est
-effectivement tel au dedans qu’il parait être au dehors. On est
-même porté à croire que son âme n’est point ébranlée à cause que
-son corps demeure immobile, parce que l’air extérieur de notre
-corps est une marque naturelle de ce qui se passe dans la fond de
-notre âme. Ainsi quand un hardi menteur ment avec beaucoup
-d’assurance, il fait souvent croire les choses les plus
-incroyables, parce que cette assurance avec laquelle il parle est
-une preuve qui touche les sens, et qui par conséquent est trèsforte et très-persuasive pour la plupart des hommes. Il y a donc
-peu de personnes qui regardent les stoïciens comme des
-visionnaires on comme de hardis menteurs, parce qu’on n’a pas
-de preuve sensible de ce qui se passe dans le fond de leur cœur,
-et que l’air de leur visage est une preuve sensible qui impose
-facilement, outre que la vanité nous porte à croire que l’esprit de
-l’homme est capable de cette grandeur et de cette indépendance
-dont ils se vantent.
+There are visionaries of several kinds: some imagine they are transformed into roosters and hens; others believe they have become kings or emperors; others finally persuade themselves that they are independent and as if gods. But if men always regard as mad those who assert that they have become roosters or kings, they do not always think that those who say that their virtue renders them independent and equal to God are truly visionaries. The reason is that, to be esteemed mad, it is not enough to have mad thoughts; one must, besides, that other men take the thoughts one has for visions and follies. For the mad do not pass for what they are among the mad who resemble them, but only among reasonable men, just as the wise do not pass for what they are among the mad. Men therefore recognize as mad those who imagine they have become roosters or kings, because all men have reason not to believe that one can so easily become a rooster or a king. But it is not only today that men believe they can become like gods; they have believed it at all times and perhaps more than they believe it today. Vanity has always made this thought sufficiently probable to them. They hold it from their first parents; for without doubt our first parents were of this sentiment when they obeyed the demon who tempted them by the promise he made them that they would become like God: *"Eritis sicut dii"* (You shall be as gods). Even the purest and most enlightened intelligences were so blinded by their own pride that they believed they could become independent and even formed the design of mounting the throne of God. Thus one should not be astonished if men who have neither the purity nor the light of angels abandon themselves to the movements of their vanity, which blinds and seduces them.
 
-Tout cela fait voir qu’il y a peu d’erreurs plus dangereuses et
-qui se communiquent aussi facilement que celles dont les livres
-de Sénèque sont remplis, parce que ces erreurs sont délicates,
-proportionnées à la vanité de l’homme, et semblables à celle
-dans laquelle le démon engagea nos premiers parents. Elles sont
-revêtues dans ces livres d’ornements pompeux et magnifiques qui
-leur ouvrent le passage dans la plupart des esprits. Elles y
-entrent, elles s’en emparent, elles les étourdissent et les
-aveuglent. Mais elles les aveuglent d’un aveuglement superbe,
-d’un aveuglement éblouissant, d’un aveuglement accompagné de lueurs, et non pas d’un aveuglement humiliant et plein de ténèbres
-qui fait sentir qu’on est aveugle et qui le fait reconnaître aux
-autres. Quand on est frappé de cet aveuglement d’orgueil on se
-met au nombre des beaux esprits et des esprits forts. Les autres
-mêmes nous y mettent et nous admirent. Ainsi, il n’y a rien de
-plus contagieux que cet aveuglement, parce que la vanité et la
-sensibilité des hommes, la corruption de leurs sens et de leurs
-passions les disposent à rechercher d’en être frappés et les
-excitant à en frapper les autres.
+If the temptation for greatness and independence is the strongest of all, it is because it appears to us, as to our first parents, sufficiently conformable to our reason as well as to our inclination, because we do not always feel all our dependence. If the serpent had threatened our first parents by saying to them: If you eat of the fruit which God has forbidden you to eat, you will be transformed, you into a rooster and you into a hen, one need not fear to assert that they would have mocked so gross a temptation; for we would mock it ourselves. But the demon, judging others by himself, knew well that the desire for independence was the weak point by which he must take them.
 
-Je ne crois donc pas qu’on puisse trouver d’auteur plus propre
-que Sénèque pour faire connaître quelle est la contagion d’une
-infinité de gens qu’on appelle beaux esprits et esprits forts, et
-comment les imaginations fortes et vigoureuses dominent sur les
-esprits faibles et peu éclairés, non par la force ni l’évidence des
-raisons, qui sont des productions de l’esprit, mais par le tour et
-la manière vive de l’expression, qui dépendent de la force de
-l’imagination.
+The second reason why one regards as mad those who assert they have become roosters or kings, and one does not have the same thought of those who assert that no one can wound them because they are above pain; is that it is visible that the hypochondriacs are mistaken, and that one need only open one's eyes to have sensible proofs of their wandering.
 
-Je sais bien que cet auteur a beaucoup d’estime dans le monde,
-et qu’on prendra pour une espèce de témérité de ce que j’en parle
-comme d’un homme fort imaginatif et peu judicieux. Mais c’est
-principalement à cause de cette estime que j’ai entrepris d’en
-parler, non par une espèce d’envie ou par humeur, mais parce que
-l’estime qu’on fait de lui touchera davantage les esprits et leur
-fera faire attention aux erreurs que j’ai combattues. Il faut autant
-qu’on peut apporter des exemples illustres des choses qu’on dit
-lorsqu’elles sont de conséquence, et c’est quelquefois faire
-honneur à un livre que de le critiquer. Mais enfin je ne suis pas le
-seul qui trouve à redire dans les écrits de Sénèque ; car, sans
-parler de quelques illustres de ce siècle, il y a près de seize cents ans qu’un auteur très-judicieux a remarqué qu’il y avait peu
-d’exactitude dans sa philosophie
-[28]
+But when Cato asserts that those who struck him did not wound him, and that he is above all the injuries that can be done to him, he asserts it, or he can assert it, with so much pride and gravity that one cannot recognize whether he is effectively so within as he appears to be without. One is even led to believe that his soul is not shaken because his body remains immobile, because the exterior air of our body is a natural mark of what passes in the depths of our soul. Thus when a bold liar lies with much assurance, he often makes the most incredible things believed, because this assurance with which he speaks is a proof that touches the senses, and which consequently is very strong and very persuasive for most men. There are therefore few people who regard the Stoics as visionaries or as bold liars, because one has no sensible proof of what passes in the depths of their hearts, and the air of their face is a sensible proof that easily imposes, besides that vanity leads us to believe that the human mind is capable of that greatness and independence of which they boast.
 
-, peu de discernement et de
-justesse dans son élocution
-[29]
-, et que sa réputation était plutôt
-l’effet d’une ferveur et d’une inclination indiscrète de jeunes gens
-que d’un consentement de personnes savantes et bien sensées
-[30]
-.
+All this shows that there are few errors more dangerous and which communicate themselves as easily as those with which the books of Seneca are filled, because these errors are delicate, proportioned to the vanity of man, and similar to that into which the demon engaged our first parents. They are clothed in these books with pompous and magnificent ornaments that open their passage into most minds. They enter, they take possession, they stun and blind them. But they blind them with a superb blindness, a dazzling blindness, a blindness accompanied by glimmers, and not a humiliating blindness full of darkness that makes one feel one is blind and makes it recognized by others. When one is struck by this blindness of pride, one places oneself among the fine minds and strong minds. Others themselves place us there and admire us. Thus, there is nothing more contagious than this blindness, because the vanity and sensibility of men, the corruption of their senses and passions dispose them to seek to be struck by it and excite them to strike others with it.
 
-Il est inutile de combattre par des écrits publics des erreurs
-grossières, parce qu’elles ne sont point contagieuse. Il est
-ridicule d’avertir les hommes que les hypocondriaques se
-trompent, ils le savent assez. Mais si ceux dont ils font beaucoup
-d’estime se trompent, il est toujours utile de les en avertir, de
-peur qu’ils ne suivent leurs erreurs. Or il est visible que l’esprit
-de Sénèque est un esprit d’orgueil et de vanité, Ainsi, puisque
-l’orgueil, selon l’Écriture, est la source du péché, Inítium
-peccati superbia, l’esprit de Sénèque ne peut être l’esprit de
-l’Évangile, ni sa morale s’allier avec la morale de Jésus-Christ,
-laquelle seule est solide et véritable.
+I do not believe therefore that one can find an author more suitable than Seneca to make known what is the contagion of an infinity of people called fine minds and strong minds, and how strong and vigorous imaginations dominate weak and little enlightened minds, not by the force nor the evidence of reasons, which are productions of the mind, but by the turn and vivid manner of expression, which depend on the force of imagination.
 
-Il est vrai que toutes les pensées de Sénèque ne sont pas
-fausses ni dangereuses. Cet auteur se peut lire avec profit par
-ceux qui ont l’esprit juste et qui savent le fond de la morale
-chrétienne. De grands hommes s’en sont servis utilement, et je
-n’ai garde de condamner ceux qui, pour s’accommoder à la
-faiblesse des autres hommes qui avaient trop d’estime pour lui,
-ont tiré des ouvrages de cet auteur des preuves pour défendre la
-morale de Jésus-Christ, et pour combattre ainsi les ennemis de
-l’Évangile par leurs propres armes.
+I know well that this author is much esteemed in the world, and that it will be taken for a kind of temerity that I speak of him as a very imaginative and little judicious man. But it is principally because of this esteem that I have undertaken to speak of him, not by a kind of envy or humor, but because the esteem one has for him will touch minds more and make them pay attention to the errors I have combated. One must as much as possible bring illustrious examples of the things one says when they are of consequence, and it is sometimes to do honor to a book to criticize it. But finally I am not the only one who finds fault in Seneca's writings; for, not to speak of some illustrious men of this century, there are nearly sixteen hundred years since a very judicious author remarked that there was little exactitude in his philosophy [28], little discernment and correctness in his elocution [29], and that his reputation was rather the effect of a fervor and indiscreet inclination of young people than of a consent of learned and well-sensible persons [30].
 
-Il y a de bonnes choses dans l’Alcoran, et l’on trouve des
-prophéties véritables dans les Centuries de Nostradamus ; on se
-sert de l’Alcoran pour combattre la religion des Turcs, et l’on
-peut se servir des Prophéties de Nostradamus pour convaincre quelques esprits bizarres et visionnaires. Mais ce qu’il y a de
-bon dans l’Alcoran ne fait pas que l’Alcoran soit un bon livre, et
-quelques véritables explications des Centuries de Nostradamus
-ne feront jamais passer Nostradamus pour un prophète ; et l’on ne
-peut pas dire que ceux qui se servent de ces auteurs les
-approuvent, ou qu’ils aient pour eux une estime véritable.
-On ne doit pas prétendre combattre ce que j’ai avancé de
-Sénèque en rapportant un grand nombre de passages de cet auteur
-qui ne contiennent que des vérités solides et conformes à
-l’Évangile ; je tombe d’accord qu’il y en a, mais il y en a aussi
-dans l’Alcoran et dans les autres méchants livres. On aurait tort
-de même de m’accabler de l’autorité d’une infinité de gens qui se
-sont servis de Sénèque ; parce qu’on peut quelquefois se servir
-d’un livre que l’on croit impertinent, pourvu que ceux à qui l’on
-parle n’en portent pas le même jugement que nous.
+It is useless to combat by public writings gross errors, because they are not contagious. It is ridiculous to warn men that hypochondriacs are mistaken, they know it well enough. But if those of whom they make much esteem are mistaken, it is always useful to warn them, lest they follow their errors. Now it is visible that the spirit of Seneca is a spirit of pride and vanity. Thus, since pride, according to Scripture, is the source of sin—*"Initium peccati superbia"*—the spirit of Seneca cannot be the spirit of the Gospel, nor can his morality ally itself with the morality of Jesus Christ, which alone is solid and true.
 
-Pour ruiner toute la sagesse des stoïques, il ne faut savoir
-qu’une seule chose qui est assez prouvée par l’expérience et par
-ce que l’on a déjà dit : c’est que nous tenons à notre corps, à nos
-parents, à nos amis, à notre prince, à notre patrie, par des liens
-que nous ne pouvons rompre, et que même nous aurions honte de
-tâcher de rompre. Notre âme est unie à notre corps, et par notre
-corps à toutes les choses visibles par une main si puissante qu’il
-est impossible par nous-mêmes de nous en détacher. Il est
-impossible qu’on pique notre corps sans que l’on nous pique et
-que l’on nous blesse nous-mêmes, parce que dans l’état où nous
-sommes cette correspondance de nous avec le corps qui est à
-nous est absolument nécessaire. De même, il est impossible
-qu’on nous dise des injures et qu’on nous méprise sans que nous
-en sentions du chagrin ; parce que Dieu nous ayant faits pour être en société avec les autres hommes, il nous a donné une
-inclination pour tout ce qui est capable de nous lier avec eux,
-laquelle nous ne pouvons vaincre par nous-mêmes. Il est
-chimérique de dire que la douleur ne nous blesse pas, et que les
-paroles de mépris ne sont pas capables de nous offenser, parce
-qu’on est au-dessus de tout cela. On n’est jamais au-dessus de la
-nature, si ce n’est par la grâce : et jamais stoïque ne méprisa la
-gloire et l’estime des hommes par les seules forces de son esprit.
-Les hommes peuvent bien vaincre leurs passions par des
-passions contraires, ils peuvent vaincre la peur ou la douleur par
-vanité ; je veux dire seulement qu’ils peuvent ne pas fuir on ne
-pas se plaindre lorsque se sentant en vue à bien du monde, le
-désir de la gloire les soutient et arrête dans leur corps les
-mouvements qui les portent à la fuite. Ils peuvent vaincre de cette
-sorte ; mais ce n’est pas là vaincre, ce n’est pas là se délivrer de
-la servitude ; c’est peut-être changer de maître pour quelque
-temps, ou plutôt c’est étendre son esclavage ; c’est devenir sage,
-heureux et libre seulement en apparence, et souffrir en effet une
-dure et cruelle servitude. On peut résister à l’union naturelle que
-l’on a avec son corps par l’union que l’on a avec les hommes,
-parce qu’on peut résister à la nature par les forces de la nature ;
-on peut résister à Dieu par les forces que Dieu nous donne. Mais
-on ne peut résister par les forces de son esprit ; on ne peut
-entièrement vaincre la nature que par la grâce, parce qu’ou ne
-peut, s’il est permis de parler ainsi, vaincre Dieu que par un
-secours particulier de Dieu.
+It is true that not all Seneca's thoughts are false or dangerous. This author can be read with profit by those who have a sound mind and know the foundations of Christian morality. Great men have usefully made use of him, and I take care not to condemn those who, to accommodate themselves to the weakness of other men who had too much esteem for him, have drawn from this author's works proofs to defend the morality of Jesus Christ, and thus to combat the enemies of the Gospel with their own weapons.
 
-Ainsi cette division magnifique de toutes les choses qui ne
-dépendent point de nous, et desquelles nous ne devons point
-dépendre, est une division qui semble conforme à la raison, mais qui n*est point conforme à l’état déréglé auquel le péché nous a
-réduits. Nous sommes unis à toutes les créatures par l’ordre de
-Dieu, et nous en dépendons absolument par le désordre du péché.
-De sorte que ne pouvant être heureux lorsque nous sommes dans
-la douleur et dans l’inquiétude, nous ne devons point espérer
-d’être heureux en cette vie, en nous imaginant que nous ne
-dépendons point de toutes les choses desquelles nous sommes
-naturellement esclaves. Nous ne pouvons être heureux que par
-une foi vive et par une forte espérance qui nous fasse jouir par
-avance des biens futurs ; et nous ne pouvons vivre selon les
-règles de la vertu, et vaincre la nature si nous ne sommes
-soutenus par la grâce que Jésus-Christ nous a méritée.
+There are good things in the Alcoran, and one finds true prophecies in the Centuries of Nostradamus; one uses the Alcoran to combat the religion of the Turks, and one can use the Prophecies of Nostradamus to convince some bizarre and visionary minds. But what is good in the Alcoran does not make the Alcoran a good book, and some true explanations of the Centuries of Nostradamus will never make Nostradamus pass for a prophet; and one cannot say that those who make use of these authors approve them, or that they have a true esteem for them.
+
+One must not pretend to combat what I have advanced of Seneca by reporting a great number of passages of this author that contain only solid truths conformable to the Gospel; I agree that there are some, but there are also some in the Alcoran and other wicked books. One would be wrong likewise to overwhelm me with the authority of an infinity of people who have made use of Seneca; because one can sometimes make use of a book that one believes impertinent, provided those to whom one speaks do not make the same judgment of it as we.
+
+To ruin all the wisdom of the Stoics, one need know only one thing, which is sufficiently proved by experience and by what has already been said: that we hold to our body, to our parents, to our friends, to our prince, to our country, by bonds that we cannot break, and that we would even be ashamed to try to break. Our soul is united to our body, and by our body to all visible things, by a hand so powerful that it is impossible by ourselves to detach ourselves from it. It is impossible that our body be pricked without our being pricked and wounded ourselves, because in the state in which we are this correspondence of us with the body that is ours is absolutely necessary. Likewise, it is impossible that insults be said to us and that we be despised without our feeling chagrin about it; because God having made us to be in society with other men, He has given us an inclination for everything capable of binding us with them, which we cannot overcome by ourselves. It is chimerical to say that pain does not wound us, and that words of contempt are not capable of offending us, because one is above all that. One is never above nature, except by grace: and no Stoic ever despised glory and the esteem of men by the sole forces of his mind.
+
+Men can well conquer their passions by contrary passions; they can conquer fear or pain by vanity; I mean only that they can not flee or not complain when, feeling themselves in view of many people, the desire for glory sustains them and stops in their bodies the movements that carry them to flight. They can conquer in this way; but that is not conquering, that is not delivering oneself from servitude; it is perhaps changing masters for some time, or rather it is extending one's slavery; it is becoming wise, happy and free only in appearance, and suffering in effect a hard and cruel servitude. One can resist the natural union one has with one's body by the union one has with men, because one can resist nature by the forces of nature; one can resist God by the forces God gives us. But one cannot resist by the forces of one's mind; one cannot entirely overcome nature except by grace, because one cannot, if one may speak thus, overcome God except by a particular help from God.
+
+Thus this magnificent division of all things that do not depend on us, and on which we should not depend, is a division that seems conformable to reason, but which is not conformable to the disordered state to which sin has reduced us. We are united to all creatures by the order of God, and we depend absolutely on them by the disorder of sin. So that not being able to be happy when we are in pain and anxiety, we should not hope to be happy in this life, by imagining that we do not depend on all those things of which we are naturally slaves. We can be happy only by a lively faith and a strong hope that makes us enjoy in advance future goods; and we cannot live according to the rules of virtue, and overcome nature, if we are not sustained by the grace that Jesus Christ has merited for us.
 
