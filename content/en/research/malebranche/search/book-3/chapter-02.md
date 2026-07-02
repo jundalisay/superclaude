@@ -9,8 +9,6 @@ date: 2026-06-20
 ---
 
 
-
-
 ## The mind, being limited, cannot comprehend what pertains to the infinite
 
 What is found first, therefore, in the thought of man is that it is very limited; from which one can draw two very important consequences: the first, that the soul cannot perfectly know the infinite; the second, that it cannot even distinctly know several things at once. For just as a piece of wax is not capable of having at the same time an infinity of different figures, so the soul is not capable of having at the same time the knowledge of an infinity of objects: and just as a piece of wax cannot be square and round in the same sense, but only half square and half round, and that the more different figures it has the less perfect and less distinct they will be; so the soul cannot perceive several things at once, and its thoughts are all the more confused as they are more numerous.

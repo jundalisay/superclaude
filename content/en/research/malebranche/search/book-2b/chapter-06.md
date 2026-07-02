@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6
-title: "The Passions"
+title: "The Preoccupation of Commentators"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,269 +10,55 @@ date: 2026-06-20
 
 
 
-De la préoccupation des commentateurs.
-Cet excès de préoccupation paraît bien plus étrange dans ceux
-qui commentent quelque auteur, parce que ceux qui entreprennent
-ce travail, qui semble de soi peu digne d’un homme d’esprit,
-s’imaginent que leurs auteurs méritent l’admiration de tous les
-hommes. Ils se regardent aussi comme ne faisant avec eux qu’une
-même personne ; et dans cette vue l’amour-propre joue
-admirablement bien son jeu. Ils donnent adroitement des louanges
-avec profusion à leurs auteurs, ils les environnent de clartés et de
-lumière, ils les comblent de gloire, sachant bien que cette gloire
-rejaillira sur eux-mêmes. Cette idée de grandeur n’élève pas
-seulement Aristote ou Platon, dans l’esprit de beaucoup de gens,
-elle imprime aussi du respect pour tous ceux qui les ont
-commentés ; et tel n’aurait pas fait l’apothéose de son auteur, s’il
-ne s’était imaginé comme enveloppé dans la même gloire.
-Je ne prétends pas toutefois que tous les commentateurs
-donnent des louanges à leurs auteurs dans l’espérance du retour ; plusieurs en auraient quelque horreur s’ils y faisaient réflexion :
-ils les louent de bonne foi, et sans y entendre finesse ; ils n’y
-pensent pas. mais l’amour-propre y pense pour eux et sans qu’ils
-s’en aperçoivent. Les hommes ne sentent pas la chaleur qui est
-dans leur cœur, quoiqu’elle donne la vie et le mouvement à toutes
-les autres parties de leur corps ; il faut qu’ils se touchent et qu’ils
-se manient pour s’en convaincre, parce que cette chaleur est
-naturelle. Il en est de même de la vanité, elle est si naturelle à
-l’homme qu’il ne la sent pas ; et quoique ce soit elle qui donne
-pour ainsi dire la vie et le mouvement à la plupart de ses pensées
-et de ses desseins, elle le fait souvent d’une manière qui lui est
-imperceptible. Il faut se tâter, se manier, se sonder, pour savoir
-qu’on est vain. On ne connaît point assez que c’est la vanité qui
-donne le branle à la plupart des actions ; et quoique l’amourpropre le sache, il ne le sait que pour le déguiser au reste de
-l’homme.
+This excessive preoccupation appears far more strange in those who comment on some author, because those who undertake this work—which seems of itself scarcely worthy of a man of wit—imagine that their authors deserve the admiration of all men. They also regard themselves as making but one person with them; and in this view, self-love plays its part admirably well. They skillfully give praise with profusion to their authors, they surround them with clarity and light, they overwhelm them with glory, knowing well that this glory will reflect back upon themselves. This idea of grandeur not only elevates Aristotle or Plato in the minds of many people, it also impresses respect for all those who have commented on them; and such a one would not have made the apotheosis of his author if he had not imagined himself as enveloped in the same glory.
 
-Un commentateur ayant donc quelque rapport et quelque
-liaison avec l’auteur qu’il commente, son amour-propre ne
-manque pas de lui découvrir de grands sujets de louange en cet
-auteur, afin d’en profiter lui-même. Et cela se fait d’une manière
-si adroite, si fine et si délicate qu’on ne s'en aperçoit point. Mais
-ce n'est pas ici le lieu de découvrir les souplesses de l’amourpropre.
-Les commentateurs ne louent pas seulement leurs auteurs,
-parce qu’ils sont prévenus d’estime pour eux et qu’ils se font
-honneur à eux-mêmes en les louant ; mais encore parce que c’est
-la coutume et qu’il semble qu’il en faille ainsi user. Il se trouve
-des personnes qui, n’ayant pas beaucoup d’estime pour certaines
-sciences ni pour certains auteurs, ne laissent pas de commenter ces auteurs et de s’appliquer à ces sciences, parce que leur
-emploi, le hasard ou même leur caprice les a engagés à ce
-travail ; et ceux-ci se croient obligés de louer d’une manière
-hyperbolique les sciences et les auteurs sur lesquels ils
-travaillent, quand même ce seraient des auteurs impertinents, et
-des sciences très-basses et très-inutiles.
+I do not claim, however, that all commentators give praise to their authors in the hope of return; several would have some horror of it if they reflected upon it: they praise them in good faith, and without any subtlety; they do not think about it. But self-love thinks about it for them and without their noticing it. Men do not feel the warmth that is in their hearts, although it gives life and movement to all the other parts of their bodies; they must touch themselves and handle themselves to be convinced of it, because this warmth is natural. It is the same with vanity: it is so natural to man that he does not feel it; and although it is, so to speak, what gives life and movement to most of his thoughts and designs, it often does so in a manner imperceptible to him. One must feel oneself, handle oneself, probe oneself, to know that one is vain. One does not know enough that it is vanity that sets most actions in motion; and although self-love knows this, it knows it only to disguise it from the rest of man.
 
-En effet, il serait assez ridicule qu*un homme entreprît de
-commenter un auteur qu’il croirait être impertinent, et qu'il
-s’appliquât sérieusement écrire d’une matière qu’il penserait être
-inutile. Il faut donc, pour conserver sa réputation, louer son
-auteur et le sujet de son livre, quand l’un et l’autre seraient
-méprisables, et que la faute qu’on a faite d’entreprendre un
-méchant ouvrage soit réparée par une autre faute. C’est ce qui fait
-que des personnes doctes, qui commentent différents auteurs,
-disent souvent des choses qui se contredisent.
+A commentator therefore having some relation and some connection with the author he comments on, his self-love does not fail to discover in that author great subjects of praise, in order to profit from them himself. And this is done in a manner so adroit, so fine and so delicate that one does not perceive it at all. But this is not the place to reveal the suppleness of self-love.
 
-C’est aussi pour celà que presque toutes les préfaces ne sont
-point conformes à la vérité ni au bon sens. Si l’on commente
-Aristote, c’est le génie de la nature. Si l’on écrit sur Platon, c'est
-le divin Platon. On ne commente guère les ouvrages des hommes
-tout court ; ce sont toujours les ouvrages d’hommes tout divins,
-d’hommes qui ont été l’admiration de leur siècle, et qui ont reçu
-de Dieu des lumières toutes particulières. Il en est de même de la
-matière que l’on traite : c’est toujours la plus belle, la plus
-relevée, celle qu’il est le plus nécessaire de savoir.
-Mais afin qu’on ne me croie pas sur ma parole, voici la
-manière dont un commentateur fameux entre les savants parle de
-l’auteur qu’il commente. C’est Averroës qui parle d’Aristote. Il
-dit dans sa préface sur la physique de ce philosophe, qu’il a été
-l’inventeur de la logique, de la morale et de la métaphysique, et
+Commentators not only praise their authors because they are prejudiced in their favor and do themselves honor by praising them; but also because it is the custom and it seems that this is how it must be done. There are persons who, not having much esteem for certain sciences nor for certain authors, nonetheless comment on these authors and apply themselves to these sciences, because their occupation, chance, or even their caprice has engaged them in this work; and these believe themselves obliged to praise in a hyperbolic manner the sciences and the authors on which they work, even when they are impertinent authors and very base and very useless sciences.
 
-qu’il les a mises dans leur perfection. Complevít, dit-il, quia
-nullus eorum, qui secuti sunt eum isque ad hoc tempus, quod
-est mille et quingentorum annorum, quídquam addidit, nec
-invenies in ejus verbís errorem alicijus quantitatis, et talem
-esse virtutem in individu uno miraculosum et eœtraneum
-existit ; et hœc díspositio cum in uno homine reperitur, dignus
-est esse divinus magis quam humanus. En d’autres endroits il lui
-donne des louanges bien plus pompeuses et bien plus
-magnifiques, comme 1 de generatione animalium : Laudemus
-Deum qui separavit hunc virum ab aliis in perfectione,
-appropriavitque ei ultímam dignitatem humanam, quam non
-omnis homo potest in quacumque itate attingere. Le même dit
-aussi, l. 1, destruct. disp. 3 : Aritotelis doctrina est SUMMA
-VERITAS, quoniam ejus intellectus fuit finis humani intellectus ;
-quare bene dicitur de illo, quod ipse fuit creatus, et datus nobis
-divina providentia, ut non ígnoremus possibilia sciri.
-En vérité, ne fait-il pas êire fou pour parler ainsi ; et ne faut-il
-pas que l’entêtement de cet auteur soit dégénéré en extravagance
-et en folie ? La doctrine d’Aristote est la SOUVERAINE VÉRITÉ.
-Personne ne peut avoir de science qui égale, ni même qui
-approche de la sienne. C’est lui qui nous est donné de Dieu
-pour apprendre tout ce qui peut être connu. C’est lui qui rend
-tous les hommes sages ; et ils sont d’autant plus savants qu’ils
-entrent mieux dans sa pensée, comme il le dit en un autre
-endroit. Aristoteles fuit princeps, per quem perficiuntur omnes
-sapientes qui fuerunt post eum : licet differant inter se
-íntelligendo verba ejus, et in ei quod sequítur ex eis. Cependant
-les ouvrages de ce commentateur se sont répandus dans toute
-l’Europe et même en d’autres pays plus éloignés. Ils ont été
-traduits d’arabe en hébreu et d’hébreu en latin, et peut être encore
+Indeed, it would be quite ridiculous for a man to undertake to comment on an author whom he believed to be impertinent, and to apply himself seriously to writing on a matter he thought to be useless. He must therefore, to preserve his reputation, praise his author and the subject of his book, even when both are contemptible, so that the fault he committed in undertaking a bad work may be repaired by another fault. This is what causes learned persons, who comment on different authors, to often say things that contradict each other.
 
-en bien d’autres langues, ce qui montre assez l’estime que les
-savants en ont faite ; de sorte qu’on n’a pu donner d’exemple plus
-sensible que celui-ci de la préoccupation des personnes d’étude.
-Car il fait assez voir que non-seulement ils s’entêtent souvent de
-quelque auteur, mais aussi que leur entêtement se communique à
-d’autres à proportion de l’estime qu’ils ont dans le monde ; et
-qu’ainsi les fausses louanges que les commentateurs lui donnent
-sont souvent cause que des personnes peu éclairées, qui
-s’adonnent à la lecture, se préoccupent et tombent dans une
-infinité d’erreurs. Voici un autre exemple.
 
-Un illustre entre les savants, qui a fondé des chaires de
-géométrie et d’astronomie dans l’université d’Oxford, commence
-un livre qu’il s’est avisé de faire sur les huit premières
-propositions d’Euclide par ces paroles : Consilium meum, audit
-ores, si vires et valetudo suffecerint, explicare definitiones,
-petitiones, communes sententias et octo priores propositiones
-primi libri Elementorum, catera post me venientibus
-relinquere ; et il le finit par celles-ci : Exsolvi per Dei gratiam,
-domini auditores, promissum, liberavi fidem meam, eœplicavi
-pro modulo meo definitiones, petitiones, communes sententias
-et octo priores propositiones Elementorum Euclidis. « Hic
-annis fessus cyclos artemque repono. » Succedent in hoc munus
-alii fortasse magis vegeto corpore, vicido ingenio, etc. Il ne faut
-pas une heure à un esprit médiocre, pour apprendre par luimême, ou par le secours du plus petit géomètre qu’il y ait, les
-définitions, les demandes, les axiomes et les huit premières
-propositions d’Euclide : à peine ont-elles besoin de quelque
-explication ; et cependant voici un auteur qui parle de cette
-entreprise, comme si elle était fort grande et fort difficile. Il a
-peur que les forces lui manquent, si vires et valetudo
+This is why almost all prefaces are not in conformity with truth or with good sense. If one comments on Aristotle, it is the genius of nature. If one writes on Plato, it is the divine Plato. 
 
-suffecerint… Il laisse à ses successeurs à pousser ces choses,
-cœtera post me venientibus relinquere… Il remercie Dieu de ce
-que, par une grâce particulière, il a exécuté ce qu’il avait
-promis : Exsolvi per Dei gratiam promissum, liberavi fidem
-meam, explicavi pro modulo meo, quoi ? la quadrature du
-cercle ? la duplication du cube ? Ce grand homme a expliqué pro
-modulo suo les définitions, les demandes, les axiomes et les huit
-premières propositions du premier livre des Éléments d’Euclide.
-Peut-être qu’entre ceux qui lui succéderont, il s’en trouvera qui
-auront plus de santé et plus de force que lui pour continuer ce bel
-ouvrage : Succedent in hoc munus alii FORTASSE magis vegeto
-corpore, vivido ingenio ; Mais pour lui il est temps qu’il se
-repose, Hic annis fessus cyclos artemque repono.
-Euclide ne pensait pas être si obscur, ou dire des choses si
-extraordinaires en composant ses Éléments, qu’il fût nécessaire
-de faire un livre de près de trois cents pages pour expliquer ses
-délimitions, ses axiomes, ses demandes et ses huit premières
-propositions. Mais ce savant Anglais sait bien relever la science
-d’Euclide ; et si l’âge le lui eût permis, et qu’il eût continué de la
-même force, nous aurions présentement douze ou quinze gros
-volumes sur les seuls éléments de géométrie, qui seraient fort
-utiles à tous ceux qui veulent apprendre cette science, et qui
-feront bien de l’honneur à Euclide.
+One hardly comments on the works of men simply; they are always the works of altogether divine men, of men who were the admiration of their century, and who received from God particular lights. It is the same with the matter one treats: it is always the most beautiful, the most elevated, the most necessary to know.
 
-Voilà les desseins bizarres dont la fausse érudition nous rend
-capables. Cet homme savait du grec, car nous lui avons
-l’obligation de nous avoir donné en grec les ouvrages de saint
-Chrysostome. Il avait peut-être lu les anciens géomètres ; il
-savait historiquement leurs propositions, aussi bien que leur
-généalogie ; il avait pour l’antiquité tout le respect que l’on doit avoir pour la vérité. Et que produit cette disposition d’esprit ?
-Un commentaire des définitions de nom, des demandes, des
-axiomes et des huit première : propositions d’Euclide, beaucoup
-plus difficile à entendre et à retenir, je ne dis pas que ces
-propositions qu’il commente, mais que tout ce qu’Euclide a écrit
-de géométrie.
+But so that I may not be believed on my word alone, here is the manner in which a famous commentator among the learned speaks of the author he comments on. It is Averroës who speaks of Aristotle. He says in his preface to the Physics of that philosopher, that he was the inventor of logic, ethics, and metaphysics, and that he brought them to perfection. 
 
-Il y a bien des gens que la vanité fait parler grec et même
-quelquefois d’une langue qu’ils n’entendent pas, car les
-dictionnaires, aussi bien que les tables et les lieux communs, sont
-d’un grand secours à bien des auteurs ; mais il y a peu de gens
-qui s’avisent d’entasser leur grec sur un sujet où il est si mal à
-propos de s’en servir, et c’est ce qui me fait croire que c’est la
-préoccupation et une estime déréglée pour Euclide qui a formé le
-dessein de ce livre dans l’imagination de son auteur.
-Si cet homme eut fait autant d’usage de sa raison que de sa
-mémoire, dans une matière où la seule raison doit être employée,
-ou s’il eût eu autant de respect et d’amour pour la vérité que de
-vénération pour l’auteur qu’il a commenté, il ya grande
-apparence qu’ayant employé tant de temps sur un sujet si petit, il
-serait tombé d’accord que les définitions que donne Euclide de
-l’angle plan et des lignes parallèles sont défectueuses, et qu*elles
-n’en expliquent point assez la nature, et que la seconde
-proposition est impertinente, puisqu’elle ne se peut prouver que
-par la troisième demande, laquelle on ne devrait pas accorder
-sitôt que cette seconde proposition, puisqu’en accordant la
-troisième demande, qui est que l’on puisse décrire de chaque
-point un cercle de l’intervalle qu’on voudra, on n’accorde pas
-seulement que l’on tire d’un point une ligne égale à une autre, ce
-qu’Euclide exécute par de grands détours dans cette seconde proposition, mais on accorde que l’on tire de chaque point un
-nombre infini de lignes de la longueur que l’on veut.
+*Complevit*, he says, *quia nullus eorum, qui secuti sunt eum usque ad hoc tempus, quod est mille et quingentorum annorum, quidquam addidit, nec invenies in ejus verbis errorem alicujus quantitatis, et talem esse virtutem in individuo uno miraculosum et exstraneum existit; et haec dispositio cum in uno homine reperitur, dignus est esse divinus magis quam humanus.* [He completed them, because none of those who followed him up to this time, which is fifteen hundred years, added anything, nor will you find in his words an error of any magnitude, and such virtue existing in one individual is miraculous and extraordinary; and this disposition when found in one man, he is worthy to be divine rather than human.] 
 
-Mais le dessein de la plupart des commentateurs n’est pas
-d’éclaircir leurs auteurs et de chercher la vérité ; c’est de faire
-montre de leur érudition et de défendre aveuglément les défauts
-mêmes de ceux qu’ils commentent. Ils ne parlent pas tant pour se
-faire entendre ni pour faire entendre leur auteur, que pour le faire
-admirer et pour se faire admirer eux-mêmes avec lui. Si celui
-dont nous parlons n’avait rempli son livre de passages grecs, de
-plusieurs noms d’auteurs peu connus, et de semblables
-remarques, assez inutiles pour entendre des notions communes,
-des définitions de nom et des demandes de géométrie, qui aurait
-lu son livre ? qui l’aurait admiré ? et qui aurait donné à son
-auteur la qualité de savant homme et d’homme d’esprit ?
-Je ne crois pas que l’on puisse douter, après ce que l’on a dit,
-que la lecture indiscrète des auteurs ne préoccupe souvent
-l’esprit. Or, aussitôt qu’un esprit est préoccupé, il n’a plus tout à
-fait ce qu’on appelle le sens commun ; il ne peut plus juger
-sainement de tout ce qui a quelque rapport au sujet de sa
-préoccupation ; il en infecte tout ce qu’il pense ; il ne peut même
-guère s’appliquer à des sujets entièrement éloignés de ceux dont
-il est préoccupé. Ainsi, un homme entêté d’Aristote, ne peut
-goûter qu’Aristote ; il veut juger de tout par rapport à Aristote ;
-ce qui est contraire à ce philosophe lui paraîtra faux ; il aura
-toujours quelque passage d’Aristote à la bouche ; il le citera en
-toutes sortes d’occasions et pour toutes sortes de sujets : pour
-prouver des choses obscures et que personne ne conçoit ; pour
-prouver aussi des choses très-évidentes et desquelles des enfants
-mêmes ne pourraient pas douter ; parce qu’Aristote lui est ce que la raison et l’évidence sont aux autres.
-De même, si un homme est entêté d’Euclide et de géométrie, il
-voudra rapporter à des lignes et à des propositions de son auteur
-tout ce que vous lui direz. Il ne vous parlera que par rapport à sa
-science : le tout ne sera plus grand que sa partie, que parce
-qu’Euclide l’a dit ; et il n’aura point de honte de le citer pour le
-prouver, comme je l’ai remarqué quelquefois. Mais cela est
-encore bien plus ordinaire à ceux qui suivent d’autres auteurs que
-ceux de géométrie, et on trouve très-fréquemment dans leurs
-livres de grands passages grecs, hébreux, arabes, pour prouver
-des choses qui sont dans la dernière évidence.
+Elsewhere he gives him praises far more pompous and magnificent, as in *De Generatione Animalium*: *Laudemus Deum qui separavit hunc virum ab aliis in perfectione, appropriavitque ei ultimam dignitatem humanam, quam non omnis homo potest in quacumque aetate attingere.* [Let us praise God who separated this man from others in perfection, and assigned to him the ultimate human dignity, which not every man can attain at any age.]
 
-Tout cela leur arrive à cause que les traces que les objets de
-leur préoccupation ont imprimées dans les fibres de leur cerveau
-sont si profondes qu’elles demeurent toujours entr’ouvertes, et
-que les esprits animaux, y passant continuellement, les
-entretiennent toujours sans leur permettre de se fermer ; de sorte
-que, l’âme étant contrainte d’avoir toujours les pensées qui sont
-liées avec ces traces, elle en devient comme esclave, et elle est
-toujours troublée et inquiétée, lors même que, connaissant son
-égarement, elle veut tâcher d’y remédier. Ainsi, elle est
-continuellement en danger de tomber dans un très-grand nombre
-d’erreurs, si elle ne demeure toujours en garde et dans une
-résolution inébranlable d’observer la règle dont on a parlé au
-commencement de cet ouvrage, c’est-à-dire de ne donner un
-consentement entier qu'à des choses entièrement évidentes.
-Je ne parle point ici du mauvais choix que font la plupart du
-genre d’étude auquel ils s’appliquent. Cela se doit traiter dans la
-morale, quoique cela se puisse aussi rapporter à ce qu’on vient
-de dire de la préoccupation. Car, lorsqu’un homme se jette à corps perdu dans la lecture des rabbins et des livres de toutes
-sortes de langues les plus inconnues et par conséquent les plus
-inutiles, et qu’il y consume toute sa vie, il le fait sans doute par
-préoccupation et sur une espérance imaginaire de devenir savant,
-quoiqu’il ne puisse jamais acquérir par cette voie aucune
-véritable science. Mais comme cette application à une étude
-inutile ne nous jette pas tant dans l’erreur qu’elle nous fait perdre
-notre temps pour nous remplir d’une sotte vanité, on ne parlera
-point ici de ceux qui se mettent en tête de devenir savants dans
-toutes ces sortes de sciences basses ou inutiles, desquelles le
-nombre est fort grand et que l’on étudie d’ordinaire avec trop de
-passion.
+The same also says, *lib. 1, destruct. disp. 3*: *Aristotelis doctrina est SUMMA VERITAS, quoniam ejus intellectus fuit finis humani intellectus; quare bene dicitur de illo, quod ipse fuit creatus, et datus nobis divina providentia, ut non ignoremus possibilia sciri.* [The doctrine of Aristotle is the SOVEREIGN TRUTH, because his intellect was the end of human intellect; wherefore it is well said of him, that he was created and given to us by divine providence, so that we might not be ignorant of what can be known.]
 
+In truth, does he not make himself seem mad to speak thus; and must not the infatuation of this author have degenerated into extravagance and folly? The doctrine of Aristotle is the SOVEREIGN TRUTH. No one can have knowledge that equals, or even approaches, his. It is he who is given to us by God to learn all that can be known. It is he who makes all men wise; and they are the more learned the better they enter into his thought, as he says elsewhere. *Aristoteles fuit princeps, per quem perficiuntur omnes sapientes qui fuerunt post eum: licet differant inter se intelligendo verba ejus, et in eo quod sequitur ex eis.* [Aristotle was the prince, through whom all the wise who came after him are perfected: although they differ among themselves in understanding his words, and in what follows from them.]
+
+Yet the works of this commentator spread throughout all Europe and even to other more distant countries. They were translated from Arabic into Hebrew and from Hebrew into Latin, and perhaps into many other languages as well, which shows enough the esteem in which the learned held them; so that one could not give a more palpable example than this of the preoccupation of studious persons. For it shows well enough that not only do they often become infatuated with some author, but also that their infatuation communicates itself to others in proportion to the esteem they have in the world; and thus the false praises that commentators give to them are often the cause that persons of little enlightenment, who devote themselves to reading, become prejudiced and fall into an infinity of errors.
+
+Here is another example.
+
+A distinguished man among the learned, who founded chairs of geometry and astronomy at the University of Oxford, begins a book that he took it upon himself to write on the first eight propositions of Euclid with these words: *Consilium meum, auditores, si vires et valetudo suffecerint, explicare definitiones, petitiones, communes sententias et octo priores propositiones primi libri Elementorum, caetera post me venientibus relinquere* [My plan, listeners, if strength and health suffice, is to explain the definitions, postulates, common notions, and the first eight propositions of the first book of the Elements, leaving the rest to those who come after me]; and he finishes it with these: *Exsolvi per Dei gratiam, domini auditores, promissum, liberavi fidem meam, explicavi pro modulo meo definitiones, petitiones, communes sententias et octo priores propositiones Elementorum Euclidis. "Hic annis fessus cyclos artemque repono." Succedent in hoc munus alii fortasse magis vegeto corpore, vivido ingenio, etc.* [I have fulfilled, by the grace of God, my listeners, my promise, I have discharged my faith, I have explained according to my capacity the definitions, postulates, common notions, and the first eight propositions of Euclid's Elements. "Here, weary with years, I lay down my cycles and art." Others will succeed in this office, perhaps with more vigorous body, more lively wit, etc.]
+
+It does not take an hour for a mediocre mind to learn by itself, or with the help of the least geometer there is, the definitions, the postulates, the axioms, and the first eight propositions of Euclid: they hardly need any explanation; and yet here is an author who speaks of this undertaking as if it were very great and very difficult. He fears that his strength may fail him, *si vires et valetudo suffecerint*... He leaves it to his successors to carry these things further, *caetera post me venientibus relinquere*... He thanks God that, by a particular grace, he has executed what he had promised: *Exsolvi per Dei gratiam promissum, liberavi fidem meam, explicavi pro modulo meo*—what? The squaring of the circle? The duplication of the cube? This great man has explained *pro modulo suo* the definitions, the postulates, the axioms, and the first eight propositions of the first book of Euclid's Elements.
+
+Perhaps among those who will succeed him, there will be some who will have more health and more strength than he to continue this beautiful work: *Succedent in hoc munus alii FORTASSE magis vegeto corpore, vivido ingenio* [Others will perhaps succeed in this office, with more vigorous body, more lively wit]; But for him, it is time to rest, *Hic annis fessus cyclos artemque repono* [Here, weary with years, I lay down my cycles and art].
+
+Euclid did not think he was so obscure, or said things so extraordinary in composing his Elements, that it would be necessary to make a book of nearly three hundred pages to explain his definitions, his axioms, his postulates, and his first eight propositions. But this learned Englishman knows well how to raise the science of Euclid; and if age had permitted him, and he had continued with the same vigor, we would presently have twelve or fifteen large volumes on the mere elements of geometry, which would be very useful to all those who wish to learn this science, and which would do great honor to Euclid.
+
+These are the bizarre designs of which false erudition renders us capable. This man knew Greek, for we owe him the favor of having given us in Greek the works of Saint Chrysostom. He had perhaps read the ancient geometers; he knew historically their propositions, as well as their genealogy; he had for antiquity all the respect that one should have for the truth. And what does this disposition of mind produce? A commentary on the definitions of names, the postulates, the axioms, and the first eight propositions of Euclid, much more difficult to understand and to remember—I do not say than these propositions which he comments on, but than all that Euclid wrote on geometry.
+
+There are many people whom vanity makes speak Greek, and even sometimes a language they do not understand, for dictionaries, as well as tables and commonplaces, are of great help to many authors; but there are few people who take it into their heads to pile up their Greek on a subject where it is so inappropriate to use it, and this is what makes me believe that it is preoccupation and an unregulated esteem for Euclid that formed the design of this book in the imagination of its author.
+
+If this man had made as much use of his reason as of his memory, in a matter where only reason should be employed, or if he had had as much respect and love for the truth as veneration for the author he commented on, it is very likely that having spent so much time on so small a subject, he would have agreed that the definitions that Euclid gives of the plane angle and of parallel lines are defective, and that they do not sufficiently explain their nature, and that the second proposition is impertinent, since it can only be proved by the third postulate, which should not be granted sooner than this second proposition, since in granting the third postulate—which is that one can describe from each point a circle of any desired radius—one grants not only that one may draw from a point a line equal to another, which Euclid executes by great detours in this second proposition, but one grants that one may draw from each point an infinite number of lines of any length.
+
+But the design of most commentators is not to clarify their authors and to seek the truth; it is to make a show of their erudition and blindly to defend even the defects of those they comment on. They do not speak so much to make themselves understood nor to make their author understood, as to make him admired and to make themselves admired along with him. If the one we speak of had not filled his book with Greek passages, with several names of little-known authors, and with similar remarks, quite useless for understanding common notions, definitions of names, and postulates of geometry, who would have read his book? who would have admired it? and who would have given his author the quality of learned man and man of wit?
+
+I do not believe that one can doubt, after what has been said, that indiscreet reading of authors does not often preoccupy the mind. Now, as soon as a mind is preoccupied, it no longer has fully what is called common sense; it can no longer judge soundly of all that has some relation to the subject of its preoccupation; it infects all that it thinks; it can scarcely apply itself to subjects entirely remote from those of which it is preoccupied. Thus, a man infatuated with Aristotle can relish only Aristotle; he wants to judge everything in relation to Aristotle; what is contrary to this philosopher will seem false to him; he will always have some passage of Aristotle on his lips; he will cite it on all sorts of occasions and for all sorts of subjects: to prove obscure things that no one conceives; to prove also very evident things of which even children could not doubt; because Aristotle is to him what reason and evidence are to others.
+
+Likewise, if a man is infatuated with Euclid and geometry, he will want to relate to lines and propositions of his author all that you say to him. He will speak to you only in relation to his science: the whole will no longer be greater than its part, except because Euclid said so; and he will have no shame in citing him to prove it, as I have sometimes observed. But this is still much more ordinary for those who follow other authors than those of geometry, and one finds very frequently in their books long Greek, Hebrew, Arabic passages, to prove things that are in the last degree of evidence.
+
+All this happens to them because the traces that the objects of their preoccupation have imprinted in the fibers of their brain are so deep that they always remain half-open, and the animal spirits, passing through them continually, always maintain them without allowing them to close; so that the soul, being constrained to have always the thoughts which are linked with these traces, becomes as it were their slave, and is always troubled and disquieted, even when, knowing its error, it wants to try to remedy it. Thus, it is continually in danger of falling into a very great number of errors, if it does not remain always on guard and in an unshakable resolution to observe the rule of which we spoke at the beginning of this work, that is, to give full consent only to things entirely evident.
+
+I do not speak here of the bad choice that most make of the kind of study to which they apply themselves. That should be treated in morals, although it can also be related to what has just been said of preoccupation. For when a man throws himself headlong into the reading of the rabbis and of books of all sorts of the most unknown and consequently most useless languages, and consumes his whole life in it, he does it without doubt by preoccupation and on an imaginary hope of becoming learned, although he can never acquire by this means any true science. But as this application to a useless study does not cast us so much into error as it makes us lose our time to fill ourselves with foolish vanity, we shall not speak here of those who take it into their heads to become learned in all these sorts of base or useless sciences, the number of which is very great and which are ordinarily studied with too much passion.

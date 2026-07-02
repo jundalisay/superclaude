@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4
-title: "The Passions"
+title: "Two harmful effects of reading upon the imagination"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,116 +10,25 @@ date: 2026-06-20
 
 
 
-Deux mauvais effets de la lecture sur l’imagination.
-Ce faux et lâche respect que les hommes portent aux anciens
-produit un très-grand’nombre d’effets très-pernicieux qu’il est à
-propos de remarquer.
-Le premier est que les accoutumant à ne pas faire usage de leur
-esprit, il les met peu à peu dans une véritable impuissance d’en
-faire usage
-[13]
-; car il ne faut pas s’imaginer que ceux qui
-vieillissent sur les livres d’Aristote et de Platon fassent
-beaucoup d’usage de leur esprit. Ils n’emploient ordinairement
-tant de temps à la lecture de ces livres que pour tâcher d’entrer
-dans les sentiments de leurs auteurs, et leur but principal est de
-savoir au vrai les opinions qu’ils ont tenues, sans se mettre
-beaucoup en peine de ce qu’il en faut tenir, comme on le
-prouvera dans le chapitre suivant. Ainsi la science et la
-philosophie qu’ils apprennent est proprement une science de
-mémoire, et non pas une science d’esprit. Ils ne savent que des
-histoires et des faits, et non pas des vérités évidentes ; et ce sont
-plutôt des historiens que de véritables philosophes.
-Le second effet que produit dans l’imagination la lecture des
-anciens, c’est qu’elle met une étrange confusion dans toutes les
-idées de la plupart de ceux qui s’y appliquent. Il ya deux
-différentes manières de lire les auteurs : l’une très-bonne et trèsutile, et l’autre fort inutile, et même dangereuse. Il est très-utile
-de lire quand on médite ce qu’on lit ; quand on tâche de trouver par quelque effort d’esprit la résolution des questions que l’on
-voit dans les titres des chapitres, avant même que de commencer
-à les lire ; quand on arrange, et quand on confère les idées des
-choses les unes avec les autres ; en un mot, quand on use de sa
-raison. Au contraire il est inutile de lire quand on n’entend pas ce
-qu’on lit ; mais il est dangereux de lire, et de concevoir ce qu’on
-lit, quand on ne l’examine pas assez pour en bien juger,
-principalement si l’on a assez de mémoire pour retenir ce qu’on a
-conçu, et assez d’imprudence pour y consentir. La première
-manière éclaire l’esprit, elle le fortifie et en augmente l’étendue ;
-la seconde en diminue l’étendue, et elle le rend peu à peu faible,
-obscur et confus.
+This false and servile respect that people show toward the ancients produces a great many very harmful effects, which it is useful to point out.
 
+The first is that, by accustoming them not to make use of their own minds, it gradually renders them truly incapable of doing so. For one must not imagine that those who spend their whole lives studying the works of Aristotle and Plato are making much use of their intellect. Usually, they devote so much time to reading these books only in order to absorb the opinions of their authors; their main goal is to know exactly what those thinkers believed, without troubling themselves much about whether those beliefs are actually true or valid — as we shall demonstrate in the next chapter. Consequently, the knowledge and philosophy they acquire is properly speaking a knowledge of memory, not of understanding. They learn only facts and historical accounts, not evident truths; and they are historians rather than genuine philosophers.
 
-Or la plupart de ceux qui font gloire de savoir les opinions des
-autres n’étudient que de la seconde manière. Aussi, plus ils ont
-de lecture, plus leur esprit devient faible et confus. La raison en
-est que les traces de leur cerveau se confondent les unes les
-autres, parce qu’elles sont en très-grand nombre, et que la raison
-ne les a pas rangées par ordre, ce qui empêche l’esprit
-d’imaginer et de se représenter nettement les choses dont il a
-besoin. Quand l’esprit veut ouvrir certaines traces, d’autres plus
-familières se rencontrant à la traverse, il prend le change ; car la
-capacité du cerveau n’étant pas infinie, il est presque impossible
-que ce grand nombre de traces formées sans ordre ne se
-brouillent et n’apportent de la confusion dans les idées. C’est
-pour cette même raison que les personnes de grande mémoire ne
-sont pas ordinairement capables de bien juger des choses où il
-faut apporter beaucoup d’attention.
-Mais ce qu’il faut principalement remarquer, c’est que les
-connaissances qu’acquièrent ceux qui lisent sans méditer, et
-254
-seulement pour retenir les opinions des autres ; en un mot toutes
-les sciences qui dépendent de la mémoire sont proprement de ces
-sciences qui enflent, à cause qu’elles ont de l’éclat et qu’elles
-donnent beaucoup de vanité à ceux qui les possèdent
-[14]
-. Ainsi
-ceux qui sont savants en cette manière, étant d’ordinaire remplis
-d’orgueil et de présomption, prétendent avoir droit de juger tout,
-quoi qu’ils en soient très-peu capables, ce qui les fait tomber
-dans un très-grand nombre d’erreurs.
-Mais cette fausse science fait encore un plus grand mal ; car
-ces personnes ne tombent pas seules dans l’erreur ; elles y
-entraînent avec elles presque tous les esprits du commun et un
-fort grand nombre de jeunes gens, qui croient comme des articles
-de foi toutes leurs décisions. Ces faux savants les ayant souvent
-accablés par le poids de leur profonde érudition, et étourdis tant
-par des opinions extraordinaires que par des noms d’auteurs
-anciens et inconnus. se sont acquis une autorité si puissante sur
-leurs esprits, qu’ils respectent et qu’ils admirent comme des
-oracles tout ce qui sort de leur bouche, et qu’ils entrent
-aveuglément dans tous leurs sentiments. Des personnes même
-beaucoup plus spirituelles et plus judicieuses, qui ne les auraient
-jamais connus et qui ne sauraient point d’autre part ce qu’ils sont,
-les voyant parler d’une manière si décisive et d’un air si fier, si
-impérieux et si grave, auraient quelque peine à manquer de
-respect et d’estime pour ce qu’ils disent, parce qu’il est trèsdifficile de ne rien donner à l’air et aux manières. Car de même
-qu’il arrive souvent qu’un homme fier et hardí en maltraite
-d’autres plus forts, mais plus judicieux et plus retenus que lui ;
-ainsi ceux qui soutiennent des opinions qui ne sont ni vraies, ni
-même vraisemblables, font souvent perdre la parole à leurs
-adversaires, en leur parlant d’une manière impérieuse, fière ou grave qui les surprend.
+The second effect that reading the ancients produces upon the imagination is that it introduces a strange confusion into the ideas of most of those who apply themselves to it. There are two very different ways of reading authors: one is excellent and highly beneficial, while the other is useless and even dangerous. Reading is very useful when one reflects upon what one reads; when one makes an effort to work out the solution to the questions stated in the chapter titles *before* even beginning to read the text itself; when one organizes and compares ideas with one another — in short, when one makes use of one’s own reason.
 
-Or ceux de qui nous parlons ont assez d’estime d’eux-mêmes
-et de mépris des autres pour s’être fortifiés dans un certain air de
-fierté, mêlé de gravité et d’une feinte modestie, qui préoccupe et
-qui gagne ceux qui les écoutent.
+On the other hand, reading is useless when one does not understand what one is reading; but it becomes dangerous when one understands the words well enough yet does not examine them closely enough to form a sound judgment — especially if one has a good enough memory to retain what one has read, and enough imprudence to accept it without question. The first way of reading clarifies the mind, strengthens it, and broadens its scope; the second narrows its capacity, and gradually makes it weak, dim, and confused.
 
-Car il faut remarquer que tous les différents airs des personnes
-de différentes conditions ne sont que des suites naturelles de
-l’estime que chacun a de soi-même par rapport aux autres,
-comme il est facile de le reconnaître si l’on y fait un peu de
-réflexion. Ainsi l’air de fierté et de brutalité est l’air d’un homme
-qui s’estime beaucoup et qui néglige assez l’estime des autres.
-L’air modeste est l’air d’un homme qui s’estime peu et qui estime
-assez les autres. L’air grave est l’air d’un homme qui s’estime
-beaucoup et qui désire fort d’être estimé, et l’air simple celui
-d’un homme qui ne soccupe guère ni de soi ni des autres. Ainsi
-tous les différents airs, qui sont presque infinis, ne sont que des
-effets que les différents degrés d’estime que l’on a de soi et de
-ceux avec qui l’on converse produisent naturellement sur notre
-visage et sur toutes les parties extérieures de notre corps. Nous
-avons expliqué dans le chapitre IV cette correspondance qui est
-entre les nerfs qui excitent les passions au dedans de nous, et
-ceux qui les témoignent au dehors par l’air qu’ils impriment sur
-le visage.
+Now, most of those who pride themselves on knowing the opinions of others study only in this second manner. As a result, the more they read, the weaker and more confused their minds become. The reason is that the impressions formed in their brains become mixed and jumbled together; there are simply too many of them, and reason has not arranged them in any orderly fashion. This prevents the mind from clearly calling to mind and representing the things it needs. When it tries to recall one set of ideas, other more familiar ones get in the way, leading to mistakes and confusion. Since the capacity of the brain is not infinite, it is almost inevitable that this vast number of unordered impressions will become tangled and cloud one’s thinking. This is also why people with exceptionally good memories are often not very good at making sound judgments about matters that require careful attention.
 
+But what is most important to note is that the knowledge acquired by those who read without reflecting — and who only seek to memorize the opinions of others — in short, all learning that depends chiefly on memory — tends to inflate the ego. It is showy and impressive, and fills those who possess it with vanity. Consequently, those who are learned in this way are usually full of pride and presumption; they claim the right to judge everything, even though they are rarely capable of doing so, and this leads them into countless errors.
+
+But this false learning does even greater harm: such people do not fall into error alone — they draw almost all ordinary minds and a great many young people along with them, who accept every pronouncement they make as if it were an article of faith. These self-styled scholars overwhelm others with the weight of their supposed erudition, and dazzle them with unfamiliar doctrines and the names of ancient, obscure authors. In this way, they gain such powerful authority over their listeners that the latter respect and admire everything they say as if it came from an oracle, and adopt their opinions blindly.
+
+Even people who are far more insightful and sensible — if they had never met these scholars before, and knew nothing of their true character — would still find it difficult not to respect and believe what they hear, seeing how confidently, proudly, imperiously, and gravely they speak. It is very hard not to be influenced by someone’s manner and bearing. Just as a bold and arrogant person often intimidates others who are stronger, wiser, and more moderate than himself, so too those who defend opinions that are neither true nor even plausible often silence their opponents by speaking with such authority, pride, and gravity that they take others by surprise.
+
+And the people we are describing have enough self-regard and contempt for others to cultivate a certain demeanor: a proud air, mixed with solemnity and feigned modesty, which preoccupies and wins over those who listen to them.
+
+For it should be noted that all the different manners and expressions people adopt in different situations are only the natural results of how much each person values themselves in comparison with others — as becomes clear upon a little reflection. Thus, a proud and harsh manner belongs to someone who thinks very highly of himself and cares little for the esteem of others. A modest manner belongs to someone who thinks little of himself and respects others highly. A grave and serious manner belongs to someone who thinks very well of himself and greatly desires to be admired. A simple, unassuming manner belongs to someone who thinks little of himself and cares little about what others think.
+
+All these countless variations in demeanor are simply the outward effects that naturally appear on our faces and throughout our bodies, arising from the different degrees of self-esteem and regard for those with whom we speak. We explained in Chapter IV the connection between the nerves that stir up passions within us, and those that express them outwardly through the bearing and expression they shape upon our features.
 

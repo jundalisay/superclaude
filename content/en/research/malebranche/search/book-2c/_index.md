@@ -1,6 +1,6 @@
 ---
 heading: Book 2 Part 3
-title: "Communication with Imagination"
+title: "The Contagious Spread Of Strong Imaginations"
 description: ""
 a: "Malebranche"
 c: "indigo"

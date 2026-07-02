@@ -13,7 +13,6 @@
     --color-red-500: oklch(63.7% 0.237 25.331);
     --color-red-600: oklch(57.7% 0.245 27.325);
     --color-red-700: oklch(50.5% 0.213 27.518);
-    --color-red-800: oklch(44.4% 0.177 26.899);
     --color-orange-50: oklch(98% 0.016 73.684);
     --color-orange-200: oklch(90.1% 0.076 70.697);
     --color-orange-300: oklch(83.7% 0.128 66.29);
@@ -27,15 +26,19 @@
     --color-yellow-400: oklch(85.2% 0.199 91.936);
     --color-yellow-500: oklch(79.5% 0.184 86.047);
     --color-yellow-600: oklch(68.1% 0.162 75.834);
+    --color-yellow-700: oklch(55.4% 0.135 66.442);
     --color-lime-500: oklch(76.8% 0.233 130.85);
     --color-lime-600: oklch(64.8% 0.2 131.684);
+    --color-lime-700: oklch(53.2% 0.157 131.589);
     --color-green-50: oklch(98.2% 0.018 155.826);
     --color-green-200: oklch(92.5% 0.084 155.995);
     --color-green-300: oklch(87.1% 0.15 154.449);
     --color-green-500: oklch(72.3% 0.219 149.579);
     --color-green-600: oklch(62.7% 0.194 149.214);
+    --color-green-700: oklch(52.7% 0.154 150.069);
     --color-emerald-500: oklch(69.6% 0.17 162.48);
     --color-emerald-600: oklch(59.6% 0.145 163.225);
+    --color-emerald-700: oklch(50.8% 0.118 165.612);
     --color-teal-50: oklch(98.4% 0.014 180.72);
     --color-teal-100: oklch(95.3% 0.051 180.801);
     --color-teal-200: oklch(91% 0.096 180.426);
@@ -48,7 +51,7 @@
     --color-teal-950: oklch(27.7% 0.046 192.524);
     --color-cyan-500: oklch(71.5% 0.143 215.221);
     --color-cyan-600: oklch(60.9% 0.126 221.723);
-    --color-sky-400: oklch(74.6% 0.16 232.661);
+    --color-cyan-700: oklch(52% 0.105 223.128);
     --color-sky-500: oklch(68.5% 0.169 237.323);
     --color-sky-600: oklch(58.8% 0.158 241.966);
     --color-sky-700: oklch(50% 0.134 242.749);
@@ -65,18 +68,24 @@
     --color-indigo-400: oklch(67.3% 0.182 276.935);
     --color-indigo-500: oklch(58.5% 0.233 277.117);
     --color-indigo-600: oklch(51.1% 0.262 276.966);
+    --color-indigo-700: oklch(45.7% 0.24 277.023);
+    --color-indigo-800: oklch(39.8% 0.195 277.366);
     --color-violet-500: oklch(60.6% 0.25 292.717);
     --color-violet-600: oklch(54.1% 0.281 293.009);
+    --color-violet-700: oklch(49.1% 0.27 292.581);
+    --color-violet-800: oklch(43.2% 0.232 292.759);
     --color-purple-50: oklch(97.7% 0.014 308.299);
     --color-purple-200: oklch(90.2% 0.063 306.703);
     --color-purple-300: oklch(82.7% 0.119 306.383);
     --color-purple-500: oklch(62.7% 0.265 303.9);
     --color-purple-600: oklch(55.8% 0.288 302.321);
     --color-purple-700: oklch(49.6% 0.265 301.924);
+    --color-purple-800: oklch(43.8% 0.218 303.724);
     --color-fuchsia-500: oklch(66.7% 0.295 322.15);
     --color-fuchsia-600: oklch(59.1% 0.293 322.896);
     --color-pink-500: oklch(65.6% 0.241 354.308);
     --color-pink-600: oklch(59.2% 0.249 0.584);
+    --color-pink-700: oklch(52.5% 0.223 3.958);
     --color-rose-500: oklch(64.5% 0.246 16.439);
     --color-rose-600: oklch(58.6% 0.253 17.585);
     --color-slate-200: oklch(92.9% 0.013 255.508);
@@ -97,6 +106,8 @@
     --color-gray-700: oklch(37.3% 0.034 259.733);
     --color-gray-800: oklch(27.8% 0.033 256.848);
     --color-gray-900: oklch(21% 0.034 264.665);
+    --color-stone-500: oklch(55.3% 0.013 58.071);
+    --color-stone-600: oklch(44.4% 0.011 73.639);
     --color-black: #000;
     --color-white: #fff;
     --spacing: 0.25rem;
@@ -430,60 +441,6 @@
   .left-6 {
     left: calc(var(--spacing) * 6);
   }
-  .left-\[7\.6\%\] {
-    left: 7.6%;
-  }
-  .left-\[22\.4\%\] {
-    left: 22.4%;
-  }
-  .left-\[23\.6\%\] {
-    left: 23.6%;
-  }
-  .left-\[27\.2\%\] {
-    left: 27.2%;
-  }
-  .left-\[32\.4\%\] {
-    left: 32.4%;
-  }
-  .left-\[33\.6\%\] {
-    left: 33.6%;
-  }
-  .left-\[42\.4\%\] {
-    left: 42.4%;
-  }
-  .left-\[43\.2\%\] {
-    left: 43.2%;
-  }
-  .left-\[48\.4\%\] {
-    left: 48.4%;
-  }
-  .left-\[51\.6\%\] {
-    left: 51.6%;
-  }
-  .left-\[54\%\] {
-    left: 54%;
-  }
-  .left-\[54\.8\%\] {
-    left: 54.8%;
-  }
-  .left-\[55\.6\%\] {
-    left: 55.6%;
-  }
-  .left-\[57\.2\%\] {
-    left: 57.2%;
-  }
-  .left-\[60\.4\%\] {
-    left: 60.4%;
-  }
-  .left-\[60\.8\%\] {
-    left: 60.8%;
-  }
-  .left-\[61\.2\%\] {
-    left: 61.2%;
-  }
-  .left-\[67\.2\%\] {
-    left: 67.2%;
-  }
   .left-\[calc\(\(650\+100\)\/850\*100\%\)\] {
     left: calc((650 + 100) / 850 * 100%);
   }
@@ -514,56 +471,209 @@
   .left-\[calc\(\(650-624\)\/850\*100\%\)\] {
     left: calc((650 - 624) / 850 * 100%);
   }
+  .left-\[calc\(\(1473-1500\)\*0\.4\%\)\] {
+    left: calc((1473 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1473-1550\)\*0\.4\%\)\] {
+    left: calc((1473 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1493-1500\)\*0\.4\%\)\] {
+    left: calc((1493 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1493-1550\)\*0\.4\%\)\] {
+    left: calc((1493 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1561-1500\)\*0\.4\%\)\] {
+    left: calc((1561 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1561-1550\)\*0\.4\%\)\] {
     left: calc((1561 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1564-1500\)\*0\.4\%\)\] {
+    left: calc((1564 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1564-1550\)\*0\.4\%\)\] {
     left: calc((1564 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1588-1500\)\*0\.4\%\)\] {
+    left: calc((1588 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1588-1550\)\*0\.4\%\)\] {
     left: calc((1588 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1596-1500\)\*0\.4\%\)\] {
+    left: calc((1596 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1596-1550\)\*0\.4\%\)\] {
     left: calc((1596 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1621-1500\)\*0\.4\%\)\] {
+    left: calc((1621 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1621-1550\)\*0\.4\%\)\] {
+    left: calc((1621 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1623-1500\)\*0\.4\%\)\] {
+    left: calc((1623 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1623-1550\)\*0\.4\%\)\] {
+    left: calc((1623 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1629-1500\)\*0\.4\%\)\] {
+    left: calc((1629 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1629-1550\)\*0\.4\%\)\] {
     left: calc((1629 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1630-1500\)\*0\.4\%\)\] {
+    left: calc((1630 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1630-1550\)\*0\.4\%\)\] {
+    left: calc((1630 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1632-1500\)\*0\.4\%\)\] {
+    left: calc((1632 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1632-1550\)\*0\.4\%\)\] {
     left: calc((1632 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1638-1500\)\*0\.4\%\)\] {
+    left: calc((1638 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1638-1550\)\*0\.4\%\)\] {
+    left: calc((1638 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1640-1500\)\*0\.4\%\)\] {
+    left: calc((1640 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1640-1550\)\*0\.4\%\)\] {
+    left: calc((1640 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1643-1500\)\*0\.4\%\)\] {
+    left: calc((1643 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1643-1550\)\*0\.4\%\)\] {
     left: calc((1643 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1646-1500\)\*0\.4\%\)\] {
+    left: calc((1646 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1646-1550\)\*0\.4\%\)\] {
     left: calc((1646 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1651-1500\)\*0\.4\%\)\] {
+    left: calc((1651 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1651-1550\)\*0\.4\%\)\] {
+    left: calc((1651 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1655-1500\)\*0\.4\%\)\] {
+    left: calc((1655 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1655-1550\)\*0\.4\%\)\] {
     left: calc((1655 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1659-1500\)\*0\.4\%\)\] {
+    left: calc((1659 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1659-1550\)\*0\.4\%\)\] {
+    left: calc((1659 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1667-1500\)\*0\.4\%\)\] {
+    left: calc((1667 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1667-1550\)\*0\.4\%\)\] {
     left: calc((1667 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1689-1500\)\*0\.4\%\)\] {
+    left: calc((1689 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1689-1550\)\*0\.4\%\)\] {
+    left: calc((1689 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1698-1500\)\*0\.4\%\)\] {
+    left: calc((1698 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1698-1550\)\*0\.4\%\)\] {
     left: calc((1698 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1700-1500\)\*0\.4\%\)\] {
+    left: calc((1700 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1700-1550\)\*0\.4\%\)\] {
     left: calc((1700 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1706-1500\)\*0\.4\%\)\] {
+    left: calc((1706 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1706-1550\)\*0\.4\%\)\] {
+    left: calc((1706 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1707-1500\)\*0\.4\%\)\] {
+    left: calc((1707 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1707-1550\)\*0\.4\%\)\] {
     left: calc((1707 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1711-1500\)\*0\.4\%\)\] {
+    left: calc((1711 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1711-1550\)\*0\.4\%\)\] {
     left: calc((1711 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1712-1500\)\*0\.4\%\)\] {
+    left: calc((1712 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1712-1550\)\*0\.4\%\)\] {
+    left: calc((1712 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1723-1500\)\*0\.4\%\)\] {
+    left: calc((1723 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1723-1550\)\*0\.4\%\)\] {
     left: calc((1723 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1724-1500\)\*0\.4\%\)\] {
+    left: calc((1724 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1724-1550\)\*0\.4\%\)\] {
+    left: calc((1724 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1736-1500\)\*0\.4\%\)\] {
+    left: calc((1736 - 1500) * 0.4%);
   }
   .left-\[calc\(\(1736-1550\)\*0\.4\%\)\] {
     left: calc((1736 - 1550) * 0.4%);
   }
+  .left-\[calc\(\(1744-1500\)\*0\.4\%\)\] {
+    left: calc((1744 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1744-1550\)\*0\.4\%\)\] {
+    left: calc((1744 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1766-1500\)\*0\.4\%\)\] {
+    left: calc((1766 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1766-1550\)\*0\.4\%\)\] {
+    left: calc((1766 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1770-1500\)\*0\.4\%\)\] {
+    left: calc((1770 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1770-1550\)\*0\.4\%\)\] {
+    left: calc((1770 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1777-1500\)\*0\.4\%\)\] {
+    left: calc((1777 - 1500) * 0.4%);
+  }
   .left-\[calc\(\(1777-1550\)\*0\.4\%\)\] {
     left: calc((1777 - 1550) * 0.4%);
+  }
+  .left-\[calc\(\(1788-1500\)\*0\.4\%\)\] {
+    left: calc((1788 - 1500) * 0.4%);
+  }
+  .left-\[calc\(\(1788-1550\)\*0\.4\%\)\] {
+    left: calc((1788 - 1550) * 0.4%);
   }
   .isolate {
     isolation: isolate;
@@ -937,9 +1047,6 @@
   .w-24 {
     width: calc(var(--spacing) * 24);
   }
-  .w-28 {
-    width: calc(var(--spacing) * 28);
-  }
   .w-32 {
     width: calc(var(--spacing) * 32);
   }
@@ -954,60 +1061,6 @@
   }
   .w-72 {
     width: calc(var(--spacing) * 72);
-  }
-  .w-\[19\.2\%\] {
-    width: 19.2%;
-  }
-  .w-\[20\.8\%\] {
-    width: 20.8%;
-  }
-  .w-\[21\.6\%\] {
-    width: 21.6%;
-  }
-  .w-\[22\.4\%\] {
-    width: 22.4%;
-  }
-  .w-\[26\%\] {
-    width: 26%;
-  }
-  .w-\[26\.4\%\] {
-    width: 26.4%;
-  }
-  .w-\[26\.8\%\] {
-    width: 26.8%;
-  }
-  .w-\[28\%\] {
-    width: 28%;
-  }
-  .w-\[29\.2\%\] {
-    width: 29.2%;
-  }
-  .w-\[29\.6\%\] {
-    width: 29.6%;
-  }
-  .w-\[30\%\] {
-    width: 30%;
-  }
-  .w-\[30\.4\%\] {
-    width: 30.4%;
-  }
-  .w-\[30\.8\%\] {
-    width: 30.8%;
-  }
-  .w-\[32\.8\%\] {
-    width: 32.8%;
-  }
-  .w-\[33\.2\%\] {
-    width: 33.2%;
-  }
-  .w-\[34\.8\%\] {
-    width: 34.8%;
-  }
-  .w-\[35\.2\%\] {
-    width: 35.2%;
-  }
-  .w-\[35\.6\%\] {
-    width: 35.6%;
   }
   .w-\[calc\(\(170-100\)\/850\*100\%\)\] {
     width: calc((170 - 100) / 850 * 100%);
@@ -1039,6 +1092,12 @@
   .w-\[calc\(\(624-546\)\/850\*100\%\)\] {
     width: calc((624 - 546) / 850 * 100%);
   }
+  .w-\[calc\(\(1541-1493\)\*0\.4\%\)\] {
+    width: calc((1541 - 1493) * 0.4%);
+  }
+  .w-\[calc\(\(1543-1473\)\*0\.4\%\)\] {
+    width: calc((1543 - 1473) * 0.4%);
+  }
   .w-\[calc\(\(1626-1561\)\*0\.4\%\)\] {
     width: calc((1626 - 1561) * 0.4%);
   }
@@ -1048,14 +1107,26 @@
   .w-\[calc\(\(1650-1596\)\*0\.4\%\)\] {
     width: calc((1650 - 1596) * 0.4%);
   }
+  .w-\[calc\(\(1662-1623\)\*0\.4\%\)\] {
+    width: calc((1662 - 1623) * 0.4%);
+  }
   .w-\[calc\(\(1677-1632\)\*0\.4\%\)\] {
     width: calc((1677 - 1632) * 0.4%);
   }
   .w-\[calc\(\(1679-1588\)\*0\.4\%\)\] {
     width: calc((1679 - 1588) * 0.4%);
   }
+  .w-\[calc\(\(1683-1621\)\*0\.4\%\)\] {
+    width: calc((1683 - 1621) * 0.4%);
+  }
   .w-\[calc\(\(1695-1629\)\*0\.4\%\)\] {
     width: calc((1695 - 1629) * 0.4%);
+  }
+  .w-\[calc\(\(1698-1640\)\*0\.4\%\)\] {
+    width: calc((1698 - 1640) * 0.4%);
+  }
+  .w-\[calc\(\(1699-1630\)\*0\.4\%\)\] {
+    width: calc((1699 - 1630) * 0.4%);
   }
   .w-\[calc\(\(1704-1632\)\*0\.4\%\)\] {
     width: calc((1704 - 1632) * 0.4%);
@@ -1063,14 +1134,26 @@
   .w-\[calc\(\(1705-1655\)\*0\.4\%\)\] {
     width: calc((1705 - 1655) * 0.4%);
   }
+  .w-\[calc\(\(1715-1638\)\*0\.4\%\)\] {
+    width: calc((1715 - 1638) * 0.4%);
+  }
+  .w-\[calc\(\(1715-1651\)\*0\.4\%\)\] {
+    width: calc((1715 - 1651) * 0.4%);
+  }
   .w-\[calc\(\(1716-1646\)\*0\.4\%\)\] {
     width: calc((1716 - 1646) * 0.4%);
   }
   .w-\[calc\(\(1727-1643\)\*0\.4\%\)\] {
     width: calc((1727 - 1643) * 0.4%);
   }
+  .w-\[calc\(\(1734-1659\)\*0\.4\%\)\] {
+    width: calc((1734 - 1659) * 0.4%);
+  }
   .w-\[calc\(\(1748-1667\)\*0\.4\%\)\] {
     width: calc((1748 - 1667) * 0.4%);
+  }
+  .w-\[calc\(\(1755-1689\)\*0\.4\%\)\] {
+    width: calc((1755 - 1689) * 0.4%);
   }
   .w-\[calc\(\(1759-1698\)\*0\.4\%\)\] {
     width: calc((1759 - 1698) * 0.4%);
@@ -1078,20 +1161,41 @@
   .w-\[calc\(\(1776-1711\)\*0\.4\%\)\] {
     width: calc((1776 - 1711) * 0.4%);
   }
+  .w-\[calc\(\(1778-1712\)\*0\.4\%\)\] {
+    width: calc((1778 - 1712) * 0.4%);
+  }
   .w-\[calc\(\(1782-1700\)\*0\.4\%\)\] {
     width: calc((1782 - 1700) * 0.4%);
   }
   .w-\[calc\(\(1783-1707\)\*0\.4\%\)\] {
     width: calc((1783 - 1707) * 0.4%);
   }
+  .w-\[calc\(\(1790-1706\)\*0\.4\%\)\] {
+    width: calc((1790 - 1706) * 0.4%);
+  }
   .w-\[calc\(\(1790-1723\)\*0\.4\%\)\] {
     width: calc((1790 - 1723) * 0.4%);
+  }
+  .w-\[calc\(\(1804-1724\)\*0\.4\%\)\] {
+    width: calc((1804 - 1724) * 0.4%);
   }
   .w-\[calc\(\(1813-1736\)\*0\.4\%\)\] {
     width: calc((1813 - 1736) * 0.4%);
   }
+  .w-\[calc\(\(1829-1744\)\*0\.4\%\)\] {
+    width: calc((1829 - 1744) * 0.4%);
+  }
+  .w-\[calc\(\(1831-1770\)\*0\.4\%\)\] {
+    width: calc((1831 - 1770) * 0.4%);
+  }
+  .w-\[calc\(\(1834-1766\)\*0\.4\%\)\] {
+    width: calc((1834 - 1766) * 0.4%);
+  }
   .w-\[calc\(\(1855-1777\)\*0\.4\%\)\] {
     width: calc((1855 - 1777) * 0.4%);
+  }
+  .w-\[calc\(\(1860-1788\)\*0\.4\%\)\] {
+    width: calc((1860 - 1788) * 0.4%);
   }
   .w-fit {
     width: fit-content;
@@ -1292,6 +1396,13 @@
       --tw-space-y-reverse: 0;
       margin-block-start: calc(var(--spacing) * var(--tw-space-y-reverse));
       margin-block-end: calc(var(--spacing) * calc(1 - var(--tw-space-y-reverse)));
+    }
+  }
+  .space-y-1\.5 {
+    :where(& > :not(:last-child)) {
+      --tw-space-y-reverse: 0;
+      margin-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse));
+      margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-space-y-reverse)));
     }
   }
   .space-y-2 {
@@ -1738,6 +1849,10 @@
     --tw-gradient-from: var(--color-amber-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .from-amber-600 {
+    --tw-gradient-from: var(--color-amber-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .from-amber-700 {
     --tw-gradient-from: var(--color-amber-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
@@ -1760,36 +1875,28 @@
     --tw-gradient-from: var(--color-blue-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .from-blue-600 {
-    --tw-gradient-from: var(--color-blue-600);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .from-blue-700 {
-    --tw-gradient-from: var(--color-blue-700);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .from-cyan-500 {
     --tw-gradient-from: var(--color-cyan-500);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .from-cyan-600 {
+    --tw-gradient-from: var(--color-cyan-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-emerald-500 {
     --tw-gradient-from: var(--color-emerald-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .from-emerald-600 {
+    --tw-gradient-from: var(--color-emerald-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .from-fuchsia-500 {
     --tw-gradient-from: var(--color-fuchsia-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .from-gray-900 {
-    --tw-gradient-from: var(--color-gray-900);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .from-green-500 {
-    --tw-gradient-from: var(--color-green-500);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .from-indigo-400 {
-    --tw-gradient-from: var(--color-indigo-400);
+  .from-green-600 {
+    --tw-gradient-from: var(--color-green-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-indigo-500 {
@@ -1800,8 +1907,16 @@
     --tw-gradient-from: var(--color-indigo-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .from-indigo-700 {
+    --tw-gradient-from: var(--color-indigo-700);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .from-lime-500 {
     --tw-gradient-from: var(--color-lime-500);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .from-lime-600 {
+    --tw-gradient-from: var(--color-lime-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-orange-500 {
@@ -1812,12 +1927,16 @@
     --tw-gradient-from: var(--color-pink-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .from-pink-600 {
+    --tw-gradient-from: var(--color-pink-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .from-purple-500 {
     --tw-gradient-from: var(--color-purple-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .from-purple-600 {
-    --tw-gradient-from: var(--color-purple-600);
+  .from-purple-700 {
+    --tw-gradient-from: var(--color-purple-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-red-500 {
@@ -1828,24 +1947,12 @@
     --tw-gradient-from: var(--color-red-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .from-red-700 {
-    --tw-gradient-from: var(--color-red-700);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .from-rose-500 {
     --tw-gradient-from: var(--color-rose-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .from-sky-400 {
-    --tw-gradient-from: var(--color-sky-400);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .from-sky-500 {
     --tw-gradient-from: var(--color-sky-500);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .from-sky-600 {
-    --tw-gradient-from: var(--color-sky-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-sky-700 {
@@ -1869,6 +1976,10 @@
   }
   .from-slate-950 {
     --tw-gradient-from: var(--color-slate-950);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .from-stone-500 {
+    --tw-gradient-from: var(--color-stone-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .from-teal-400 {
@@ -1898,8 +2009,16 @@
     --tw-gradient-from: var(--color-violet-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .from-violet-700 {
+    --tw-gradient-from: var(--color-violet-700);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .from-yellow-500 {
     --tw-gradient-from: var(--color-yellow-500);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .from-yellow-600 {
+    --tw-gradient-from: var(--color-yellow-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .via-black\/20 {
@@ -1938,60 +2057,56 @@
     --tw-gradient-to: var(--color-amber-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .to-amber-700 {
+    --tw-gradient-to: var(--color-amber-700);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .to-amber-800 {
     --tw-gradient-to: var(--color-amber-800);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .to-blue-400 {
-    --tw-gradient-to: var(--color-blue-400);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .to-blue-500 {
-    --tw-gradient-to: var(--color-blue-500);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-blue-600 {
     --tw-gradient-to: var(--color-blue-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .to-blue-700 {
-    --tw-gradient-to: var(--color-blue-700);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .to-blue-800 {
-    --tw-gradient-to: var(--color-blue-800);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .to-cyan-600 {
     --tw-gradient-to: var(--color-cyan-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .to-cyan-700 {
+    --tw-gradient-to: var(--color-cyan-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-emerald-600 {
     --tw-gradient-to: var(--color-emerald-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .to-emerald-700 {
+    --tw-gradient-to: var(--color-emerald-700);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .to-fuchsia-600 {
     --tw-gradient-to: var(--color-fuchsia-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .to-gray-800 {
-    --tw-gradient-to: var(--color-gray-800);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .to-green-600 {
-    --tw-gradient-to: var(--color-green-600);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-  .to-indigo-500 {
-    --tw-gradient-to: var(--color-indigo-500);
+  .to-green-700 {
+    --tw-gradient-to: var(--color-green-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-indigo-600 {
     --tw-gradient-to: var(--color-indigo-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .to-indigo-800 {
+    --tw-gradient-to: var(--color-indigo-800);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .to-lime-600 {
     --tw-gradient-to: var(--color-lime-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .to-lime-700 {
+    --tw-gradient-to: var(--color-lime-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-orange-600 {
@@ -2002,12 +2117,16 @@
     --tw-gradient-to: var(--color-pink-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .to-pink-700 {
+    --tw-gradient-to: var(--color-pink-700);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .to-purple-600 {
     --tw-gradient-to: var(--color-purple-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .to-purple-700 {
-    --tw-gradient-to: var(--color-purple-700);
+  .to-purple-800 {
+    --tw-gradient-to: var(--color-purple-800);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-red-600 {
@@ -2018,10 +2137,6 @@
     --tw-gradient-to: var(--color-red-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .to-red-800 {
-    --tw-gradient-to: var(--color-red-800);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .to-rose-600 {
     --tw-gradient-to: var(--color-rose-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
@@ -2030,16 +2145,16 @@
     --tw-gradient-to: var(--color-sky-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
-  .to-sky-700 {
-    --tw-gradient-to: var(--color-sky-700);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
   .to-sky-800 {
     --tw-gradient-to: var(--color-sky-800);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-slate-600 {
     --tw-gradient-to: var(--color-slate-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .to-stone-600 {
+    --tw-gradient-to: var(--color-stone-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .to-teal-400\/20 {
@@ -2072,8 +2187,16 @@
     --tw-gradient-to: var(--color-violet-600);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .to-violet-800 {
+    --tw-gradient-to: var(--color-violet-800);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
   .to-yellow-600 {
     --tw-gradient-to: var(--color-yellow-600);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+  .to-yellow-700 {
+    --tw-gradient-to: var(--color-yellow-700);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
   .stroke-current {

@@ -10,14 +10,9 @@ date: 2026-06-20
 
 
 
-I. Que les personnes d’étude sont les plus sujettes à l’erreur. — II. Raisons pour
-lesquelles on aime mieux suivre l’autorité que de faire usage de son esprit.
-
-
-
 ## Studious persons are the most subject to error 
 
-I. The differences found in men's manners of living are almost infinite. There is a very great number of different conditions, different employments, different offices, different communities. These differences cause almost all men to act for entirely different purposes, and to reason on different principles. It would even be rather difficult to find several persons who had entirely the same views in the same community, in which individuals should have only one spirit and the same designs. Their different employments and their different connections necessarily put some difference in the turn and manner they wish to take, in order to execute even the things about which they agree.
+The differences found in men's manners of living are almost infinite. There is a very great number of different conditions, different employments, different offices, different communities. These differences cause almost all men to act for entirely different purposes, and to reason on different principles. It would even be rather difficult to find several persons who had entirely the same views in the same community, in which individuals should have only one spirit and the same designs. Their different employments and their different connections necessarily put some difference in the turn and manner they wish to take, in order to execute even the things about which they agree.
 
 This clearly shows that it would be undertaking the impossible to wish to explain in detail the moral causes of error; but it would also be rather useless to do so here. One wishes only to speak of those manners of living that lead to a greater number of errors, and to errors of greater importance. When these have been explained, one will have given enough opening to the mind to go further; and each person will be able to see at a single glance, and with great ease, the very hidden causes of several particular errors, which could be explained only with much time and trouble. When the mind sees clearly, it delights in running toward truth, and it runs there with a speed that cannot be expressed.
 

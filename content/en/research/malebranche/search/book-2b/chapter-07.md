@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7
-title: "The Passions"
+title: "Those who invent new systems"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,155 +10,34 @@ date: 2026-06-20
 
 
 
-I. Des inventeurs de nouveaux systèmes. — II. Dernière erreur des personnes d’étude.
-I. Nous venons de faire voir l’état de l’imagination des
-personnes d’étude qui donnent tout à l’autorité de certains
-auteurs ; il y en a encore d’autres qui leur sont bien opposés.
-Ceux-ci ne respectent jamais les auteurs, quelque estime qu’ils
-aient parmi les savants. 
 
-S’ils les ont estimés ils ont bien changé
-depuis ; ils s’érigent eux-mêmes en auteurs. Ils veulent être les
-inventeurs de quelque opinion nouvelle, afin d’acquérir par là
-quelque réputation dans le monde ; et ils assurent qu’en disant
-quelque chose qui n’ait point encore été dit ils ne manqueront pas
-d’admirateurs.
+We have just examined the state of mind of those scholars who defer entirely to the authority of certain authors. There are others, however, who take the opposite approach. These people never respect established writers, no matter how highly regarded they may be among the learned. If they once admired them, they have long since changed their minds; instead, they set themselves up as authorities. They want to be known as the inventors of some new theory, so as to gain a reputation in the world; and they believe that by saying something that has never been said before, they will surely find admirers.
 
-Ces sortes de gens ont d’ordinaire l’imagination assez forte ;
-les fibres de leur cerveau sont de telle nature qu’elles conservent
-longtemps les traces qui leur ont été imprimées. Ainsi, lorsqu’ils ont une fois imaginé un système qui a quelque vraisemblance, on
-ne peut plus les en détromper. Ils retiennent et conservent trèschèrement toutes les choses qui peuvent servir en quelque
-manière à le confirmer, et au contraire ils n’aperçoivent presque
-pas toutes les objections qui lui sont opposées, ou bien ils s’en
-défont par quelque distinction frivole. Ils se plaisent
-intérieurement dans la vue de leur ouvrage et de l’estime qu’ils
-espèrent en recevoir. Ils ne s’appliquent qu’à considérer l’image
-de la vérité que portent leurs opinions vraisemblables ; ils
-arrêtent cette image fixe devant leurs yeux, mais ils ne regardent
-jamais d’une vue arrêtée les autres faces de leurs sentiments,
-lesquelles leur en découvriraient la fausseté.
+Such people usually have a very active imagination; the fibers of their brains are structured in such a way that they retain impressions for a long time. Consequently, once they have conceived a system that seems plausible, it becomes almost impossible to convince them of its flaws. They eagerly hold onto every detail that can in any way confirm their theory, while barely noticing any objections raised against it — or else they dismiss those objections with trivial distinctions. They take secret pleasure in contemplating their own work and the esteem they hope it will bring. They focus only on the appearance of truth that their plausible opinions present; they keep this image fixed before their eyes, but never turn to look at the other sides of their ideas, which would reveal their falsehood.
 
-Il faut de grandes qualités pour trouver quelque véritable
-système ; car il ne suffit pas d’avoir beaucoup de vivacité et de
-pénétration, il faut outre cela une certaine grandeur et une
-certaine étendue d’esprit qui puisse envisager un très-grand
-nombre de choses à la fois. Les petits esprits, avec toute leur
-vivacité et toute leur délicatesse, ont la vue trop courte pour voir
-tout ce qui est nécessaire à l’établissement de quelque système.
-Ils s’arrêtent à de petites difficultés qui les rebutent ou à
-quelques lueurs qui les éblouissent ; ils n’ont pas la vue assez
-étendue pour voir tout le corps d’un grand sujet en même temps.
-Mais quelque étendue et quelque pénétration qu’ait l’esprit, si
-avec cela il n’est exempt de passion et de préjugé, il n’y a rien à
-espérer. Les préjugés occupent une partie de l’esprit et en
-infectent tout le reste. Les passions confondent toutes les idées en
-mille manières et nous font presque toujours voir dans les objets
-tout ce que nous désirons d’y trouver. La passion même que nous
-avons pour la vérité nous trompe quelquefois lorsqu’elle est trop ardente ; mais le désir de paraitre savant est ce qui nous empêche
-le plus d’acquérir une science véritable.
+To develop a truly sound system requires great qualities: it is not enough to be quick‑witted or perceptive; one also needs a certain breadth and scope of mind, capable of considering a vast number of things all at once. People of limited intellect, no matter how sharp or subtle they may be, have too narrow a perspective to see everything necessary for establishing a coherent theory. They stop at small difficulties that discourage them, or at fleeting glimpses of insight that dazzle and confuse them; they lack the wide view needed to grasp the whole of a large subject at a single glance.
 
-Il n’y a donc rien de plus rare que de trouver des personnes
-capables de faire de nouveaux systèmes ; cependant il n’est pas
-fort rare de trouver des gens qui s’en soient formé quelqu’un à
-leur fantaisie. Ou ne voit que fort peu de ceux qui étudient
-beaucoup raisonner selon les notions communes ; il y a toujours
-quelque irrégularité dans leurs idées, et cela marque assez qu’ils
-ont quelque système particulier qui ne nous est pas connu. Il est
-vrai que tous les livres qu’ils composent ne s’en sentent pas ; car,
-quand il est question d’écrire pour le public, on prend garde de
-plus près à ce qu’on dit, et l’attention toute seule suffit assez
-souvent pour nous détromper. On voit toutefois de temps en temps
-quelques livres qui prouvent assez ce que l’on vient de dire ; car
-il y a même des personnes qui font gloire de marquer dès le
-commencement de leur livre qu’ils ont inventé quelque nouveau
-système.
+But no matter how broad or penetrating a person’s mind may be, it is useless if it is not free from passion and prejudice. Prejudice occupies part of the mind and poisons the rest. Passions jumble ideas in countless ways, making us see in things almost exactly what we want to find. Even the love of truth itself can sometimes mislead us when it becomes too intense; yet the desire to appear learned is what most effectively prevents us from acquiring real knowledge.
 
-Le nombre des inventeurs de nouveaux systèmes s’augmente
-encore beaucoup par ceux qui s’étaient préoccupés de quelque
-auteur ; parce qu’il arrive souvent que n’ayant rencontré rien de
-vrai ni de solide dans les opinions des auteurs qu’ils ont lus, ils
-entrent premièrement dans un grand dégoût et un grand mépris de
-toutes sortes de livres, et ensuite ils imaginent une opinion
-vraisemblable qu’ils embrassent de tout leur cœur et dans
-laquelle ils se fortifient de la manière qu’on vient d’expliquer.
-Mais lorsque cette grande ardeur qu’ils ont eue pour leur
-opinion s’est ralentie ou que le dessein de la faire paraître en
-public les a obligés à l’examiner avec une attention plus exacte et
-plus sérieuse, ils en découvrent la fausseté et ils la quittent, mais avec cette condition qu’ils n’en prendront jamais d’autres, et
-qu’ils condamneront absolument tous ceux qui prétendront avoir
-découvert quelque vérité. —
+Genuine thinkers capable of creating valid new systems are therefore extremely rare. However, it is not at all uncommon to find people who construct their own theories according to their fancy. Among those who study widely, very few reason from clear, shared principles; there is always something irregular in their ideas, which is a sure sign that they hold some private, unstated system of their own. It is true that not all their writings reveal this; when writing for the public, they pay closer attention to what they say, and this extra care is often enough to correct their errors. Yet from time to time, books appear that confirm exactly what we have said — for there are even those who proudly announce right at the beginning that they have invented an entirely new system.
 
-II. De sorte que la dernière et la plus dangereuse erreur où
-tombent plusieurs personnes d’étude, c’est qu’ils prétendent
-qu’on ne peut rien savoir. Ils ont lu beaucoup de livres anciens et
-nouveaux où ils n’ont point trouvé la vérité ; ils ont en plusieurs
-belles pensées qu’ils ont trouvées fausses après les avoir
-examinées avec plus d’attention. De la ils concluent que tous les
-hommes leur ressemblent, et que si ceux qui croient avoir
-découvert quelques vérités y faisaient une réflexion plus sérieuse
-ils se détromperaient aussi bien qu’eux. Cela leur suffit pour les
-condamner sans entrer dans un examen plus particulier ; parce
-que s’ils ne les condamnaient pas, ce serait en quelque manière
-tomber d’accord qu’ils ont plus d’esprit qu’eux, et cela ne leur
-parait pas vraisemblable.
+The number of such self‑proclaimed innovators grows even larger from the ranks of those who were once obsessed with some particular author. Often, after finding nothing solid or true in the works they have read, they first become deeply disillusioned and contemptuous of all books, then seize upon some plausible‑sounding idea of their own, embrace it wholeheartedly, and defend it with the same stubbornness we have already described. But when their initial enthusiasm fades, or when they decide to present their idea publicly and are forced to examine it more carefully and critically, they discover its flaws and abandon it — only to adopt a new attitude: they resolve never to believe any other theory, and to condemn absolutely anyone who claims to have discovered some truth.
 
-Ils regardent donc comme opiniâtres tous ceux qui assurent
-quelque chose comme certain, et ils ne veulent pas qu’on parle
-des sciences comme des vérités évidentes desquelles ou ne peut
-pas raisonnablement douter, mais seulement comme des opinions
-qu’il est bon de ne pas ignorer. Cependant ces personnes
-devraient considérer que s’ils ont lu un fort grand nombre de
-livres, ils ne les ont pas néanmoins lus tous, ou qu’ils ne les ont
-pas lus avec toute l’attention nécessaire pour les bien
-comprendre, et que s’ils ont eu beaucoup de belles pensées qu’ils
-ont trouvées fausses dans la suite, néanmoins ils n’ont pas eu
-toutes celles qu’on peut avoir, et qu’ainsi il se peut bien faire que
-d’autres auront mieux rencontré qu’eux. Et il n’est pas
-nécessaire, absolument parlant, que ces autres aient plus d’esprit qu’eux, si cela les choque, car il subit qu’ils aient été plus
-heureux. On ne leur fait point de tort quand on dit qu’on suit avec
-évidence ce qu’ils ignorent, puisqu’on dit en même temps que
-plusieurs siècles ont ignoré les mêmes vérités, non pas faute de
-bons esprits, mais parce que ces bons esprits n’ont pas bien
-rencontré d’abord.
 
-Qu’ils ne se choquent donc point si on voit clair et si on parle
-comme l’on voit. Qu’ils s’appliquent à ce qu’on leur dit, si leur
-esprit est encore capable d’application après tous leurs
-égarements, et qu’ils jugent ensuite, il leur est permis ; mais
-qu’ils se taisent s’ils ne veulent rien examiner. Qu’ils fassent un
-peu quelque réflexion, si cette réponse qu’ils font d’ordinaire sur
-la plupart des choses qu’on leur demande : On ne sait pas cela,
-personne ne sait comment cela se fait ; n’est pas une réponse peu
-judicieuse, puisque pour la faire il faut de nécessité qu’ils croient
-savoir tout ce que les hommes savent ou tout ce que les hommes
-peuvent savoir. Car s’ils n’avaient pas cette pensée-là d’euxmêmes leur réponse serait encore plus impertinente. Et pourquoi
-trouvent-ils tant de difficulté à dire : Je n’en sais rien, puisqu’en
-certaines rencontres ils tombent d’accord qu’ils ne savent rien ;
-et pourquoi faut-il conclure que tous les hommes sont ignorants à
-cause qu’ils sont intérieurement convaincus qu’ils sont euxmêmes des ignorants ?
-ll y a donc de trois sortes de personnes qui s’appliquent à
-l’étude. Les uns s’entêtent mal à propos de quelque auteur ou de
-quelque science inutile ou fausse. Les autres se préoccupent de
-leurs propres fantaisies. Enfin les derniers, qui viennent
-d’ordinaire des deux autres, sont ceux qui s’imaginent connaître
-tout ce qui peut être connu, et qui, persuadés qu’ils ne savent rien avec certitude, concluent généralement qu’on ne peut rien savoir
-avec évidence, et regardent toutes les choses qu’on leur dit
-comme de simples opinions.
+### The final error of scholars
 
-Il est facile de voir que tous les défauts de ces trois sortes de
-personnes dépendent des propriétés de l’imagination, qu’on a
-expliquées dans les chapitres précédents et que tout cela ne leur
-arrive que par des préjugés qui leur bouchent l’esprit et qui ne
-leur permettent pas d’apercevoir d’autres objets que ceux de leur
-préoccupation. On peut dire que leurs préjugés font dans leur
-esprit ce que les ministres des princes font à l’égard de leurs
-maîtres. Car, de même que cœ personnes ne permettent autant
-qu’ils peuvent qu’à ceux qui sont dans leurs intérêts ou qui ne
-peuvent les déposséder de leur faveur de parler à leurs maîtres :
-ainsi les préjugés de ceux-ci ne permettent pas que leur esprit
-regarde fixement les idées des objets toutes pures et sans
-mélange ; mais ils les déguisent, ils les couvrent de leurs livrées,
-et ils les lui présentent ainsi toutes masquées, de sorte qu’il est
-très-difficile qu’il se détrompe et reconnaisse ses erreurs.
+Thus, the final and most dangerous error into which many scholars fall is the belief that nothing can be known with certainty. They have read countless books, ancient and modern, without finding any lasting truth; they have entertained many attractive ideas, only to find them false when examined more closely. From this experience, they conclude that all people are just like them — and that if those who claim to have discovered truths were to reflect more deeply, they too would realize their mistakes. This judgment is enough for them, without looking further into any specific argument; for if they admitted that others might have found something true, it would imply that those others are more capable than they are — and this they find impossible to accept.
 
+They therefore regard anyone who asserts something as certain as being merely stubborn. They refuse to speak of knowledge as consisting of evident truths that no reasonable person could doubt, and instead treat all doctrines as nothing more than opinions that are worth knowing only in a general sense.
+
+Yet such people ought to consider that, although they have read many books, they have not read every book ever written — nor have they read even those they have read with the full attention required to understand them properly. And while they have had many promising ideas that later proved false, they have not had every possible idea that could ever be conceived. It is entirely possible, therefore, that others may have reasoned more correctly than they have. And there is no need to assume that these others are necessarily more intelligent — if that offends them — for it may simply be that they were more fortunate. No one is wronged when we say that we clearly understand what they do not; for we also acknowledge that many generations before us failed to grasp the same truths, not for lack of ability, but because they did not happen to approach the subject in the right way from the start.
+
+Let them not be offended, then, if we see things clearly and speak accordingly. If their minds are still capable of focused attention after all their past confusion, let them listen carefully to what is said and judge for themselves — that is their right. But if they refuse to examine anything, they should remain silent. Let them also reflect on the response they so often give to almost every question: *“We do not know that; no one knows how that works.”* This is actually a very thoughtless reply, because to make it, they must implicitly believe that they already know everything that is known — or everything that *can* be known. If they did not assume this, their answer would be even more unreasonable. And why do they find it so difficult simply to say, *“I do not know”* — especially since they already admit in other situations that they themselves know nothing? Why must they conclude that all humanity is ignorant simply because they feel inwardly convinced of their own ignorance?
+
+There are therefore three types of people who devote themselves to study:
+1. Those who become stubbornly attached to some particular author, or to some useless or false field of learning.
+2. Those who become obsessed with their own imaginings and theories.
+3. And finally, those who usually come from the first two groups — people who imagine they already understand everything that can be known, and who, because they feel certain of nothing, generalize to the conclusion that nothing can ever be known with certainty, and treat every claim as nothing more than a matter of opinion.
+
+It is easy to see that all the faults of these three types stem from the nature of the imagination, which we have explained in previous chapters. All their errors arise from prejudices that cloud their minds and prevent them from seeing anything beyond their fixed obsessions. One might say that their prejudices act like the advisers of kings: just as such officials try to ensure that only those who serve their interests or pose no threat to their influence are allowed to speak to their ruler, so too the prejudices of these scholars prevent their minds from seeing ideas in their pure, unaltered form. Instead, they distort and disguise those ideas, clothe them in their own biases, and present them only in a masked shape — making it extremely difficult for the mind to recognize its own mistakes and correct itself.
 

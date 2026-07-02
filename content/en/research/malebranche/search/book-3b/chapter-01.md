@@ -57,3 +57,4 @@ I assert that it is absolutely necessary that the ideas we have of bodies and of
 We can only see objects in one of these ways. 
 
 <!-- Let us examine which of them appears the most plausible of all, without prejudice, and without being frightened by the difficulty of this question. Perhaps we will resolve it clearly enough, although we do not pretend to give here incontestable demonstrations for all sorts of people; but only very convincing proofs for those at least who will meditate on them with serious attention; for one would perhaps be considered rash if one spoke otherwise. -->
+

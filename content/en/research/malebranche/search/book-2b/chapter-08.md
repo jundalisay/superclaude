@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8
-title: "The Passions"
+title: "Effeminate and Superficial minds"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,286 +10,68 @@ date: 2026-06-20
 
 
 
-I. Des esprits efféminés. — II. Des esprits superficiels. — III. Des personnes
-d’autorité. — IV. De ceux qui font des expériences.
-Ce que nous venons de dire suffit, ce me semble, pour
-reconnaître en général quels sont les défauts d’imagination des
-personnes d’étude et les erreurs auxquelles ils sont le plus sujets.
-Or, comme il n’y a guère que ces personnes-là qui se mettent en
-peine de chercher la vérité et même que tout le monde s’en
-rapporte à eux, il semble qu”on pourrait finir ici cette seconde partie. Cependant, il est à propos de dire encore quelque chose
-des erreurs des autres hommes parce qu’il ne sera pas inutile
-d’en être averti.
+What we have said so far seems sufficient to explain generally the flaws of imagination among scholars and the errors to which they are most prone. Since these are almost the only people who take the trouble to seek truth, and since everyone else relies upon their judgment, we might well bring this second part to a close here. Nevertheless, it is useful to say a little more about the errors of other people as well, so that we may be warned against them.
 
-I. Tout ce qui flatte les sens nous touche extrêmement, et tout ce
-qui nous touche nous applique à proportion qu’il nous touche.
-Ainsi ceux qui s’abandonnent à toutes sortes de divertissements
-très-sensibles et très-agréables ne sont pas capables de pénétrer
-des vérités qui renferment quelque difficulté considérable, parce
-que la capacité de leur esprit, qui n’est pas infinie, est toute
-remplie de leurs plaisirs, ou du moins elle en est fort partagée.
-La plupart des grands, des gens de cour, des personnes riches,
-des jeunes gens et de ceux qu’on appelle beaux esprits, étant dans
-des divertissements continuels et n’étudiant que l’art de plaire
-par tout ce qui flatte la concupiscence et les sens, ils acquièrent
-peu à peu une telle délicatesse dans ces choses ou une telle
-mollesse, qu’on peut dire fort souvent que ce sont plutôt des
-esprits efféminés que des esprits fins, comme ils le prétendent ;
-car il y a bien de la différence entre la véritable finesse de
-l’esprit et la mollesse, quoique l’on confonde ordinairement ces
-deux choses.
 
-Les esprits fins sont ceux qui remarquent par la raison jusques
-aux moindres différences des choses, qui prévoient les effets qui
-dépendent des causes cachées, peu ordinaires et peu visibles ;
-enfin ce sont ceux qui pénètrent davantage les sujets qu’ils
-considèrent. Mais les esprits mous n’ont qu’une fausse
-délicatesse ; ils ne sont ni vifs ni perçants ; ils ne voient pas les
-effets des causes même les plus grossières et les plus palpables ;
-enfin ils ne peuvent rien embrasser ni rien pénétrer, mais ils sont
-extrêmement délicats pour les manières. Un mauvais mot, un accent de province, une petite grimace les irrite infiniment plus
-qu’un amas confus de méchantes raisons ; ils ne peuvent
-reconnaître le défaut d’un raisonnement, mais ils sentent
-parfaitement bien une fausse mesure et un geste mal réglé ; en un
-mot, ils ont une parfaite intelligence des choses sensibles, parce
-qu’ils ont fait un usage continuel de leurs sens ; mais ils n’ont
-point la véritable intelligence des choses qui dépendent de la
-raison, parce qu’ils n’ont presque jamais fait usage de la leur.
-Cependant ce sont ces sortes de gens qui ont le plus d’estime
-dans le monde et qui acquièrent plus facilement la réputation de
-bel esprit ; car, lorsqu’un homme parle avec un air libre et
-dégagé, que ses expressions sont pures et bien choisies, qu’il se
-sert de ñgures qui flattent les sens et qui excitent les passions
-d’une manière imperceptible, quoiqu’il ne dise que des sottises
-et qu’il n’y ait rien de bon ni rien de vrai sous ces belles paroles,
-c’est, suivant l’opinion commune, un bel esprit, c’est un esprit
-fin, c’est un esprit délié. On ne s’aperçoit pas que c’est
-seulement un esprit mou et efféminé, qui ne brille que par de
-fausses lueurs et qui n’éclaire jamais, qui ne persuade que parce
-que nous avons des oreilles et des yeux, et non point parce que
-nous avons de la raison.
+## Effeminate minds
 
-Au reste, l’on ne nie pas que tous les hommes ne se sentent de
-cette faiblesse que l’on vient de remarquer en quelques-uns
-d’entre eux. Il n’y en a point dont l’esprit ne soit touché par les
-impressions de leurs sens et de leurs passions, et, par
-conséquent, qui ne s’arrête quelque peu aux manières : tous les
-hommes ne diffèrent en cela que du plus ou du moins. Mais la
-raison pour laquelle on a attribué ce défaut à quelques-uns en
-particulier, c’est qu’il y en a qui voient bien que o’est un défaut
-et qui s’appliquent à s’en corriger, au lieu que ceux dont on vient
-de parler le regardent comme une qualité fort avantageuse. Bien
-loin de reconnaître que cette fausse délicatesse est l’effet d’une
-mollesse efféminée et l’origine d’un nombre infini de maladies
-d’esprit, ils s’imaginent que c’est un effet et une marque de la
-beauté de leur génie.
+Everything that flatters the senses affects us deeply, and the more strongly something affects us, the more attention we give to it. Therefore, those who surrender themselves to every kind of intense and agreeable amusement are incapable of penetrating truths that involve significant difficulty. Their mental capacity, which is not infinite, is entirely occupied by their pleasures — or at the very least, it is so divided among them that little remains for serious thought.
 
-II. On peut joindre à ceux dont on vient de parler un fort grand
-nombre d’esprits superficiels qui n’approfondissent jamais rien
-et qui n’aperçoivent que confusément les différences des choses,
-non par leur faute, comme ceux dont on vient de parler, car ce ne
-sont point les divertissements qui leur rendent l’esprit petit, mais
-parce qu’ils l’ont naturellement petit. Cette petitesse d’esprit ne
-vient pas de la nature de l’âme, comme on pourrait se l’imaginer,
-elle est causée quelquefois par une grande disette ou par une
-grande lenteur des esprits animaux, quelquefois par l’inflexibilité
-des fibres du cerveau, quelquefois aussi par une abondance
-immodérée des esprits et du sang, ou par quel qu’autre cause
-qu’il n’est pas nécessaire de savoir.
+Most nobles, courtiers, wealthy people, young men, and those known as “men of wit” are caught up in constant diversions. They study only the art of pleasing through whatever appeals to desire and the senses. Gradually they develop such extreme sensitivity to these things, or such softness of character, that one can often say they have *effeminate minds* rather than the sharp, subtle intellect they claim to possess. There is a great difference between true mental subtlety and mere softness, even though the two are usually confused.
 
-Il y a donc des esprits de deux sortes : les uns remarquent
-aisément les différences des choses, et ce sont les bons esprits ;
-les autres imaginent et supposent de la ressemblance entre elles,
-et ce sont les esprits superficiels. Les premiers ont le cerveau
-propre à recevoir des traces nettes et distinctes des objets qu’ils
-considèrent ; et, parce qu’ils sont fort attentifs aux idées de ces
-traces, ils voient ces objets comme de près, et rien ne leur
-échappe. Mais les esprits superficiels n’en reçoivent que des
-traces faibles ou confuses ; ils ne les voient que comme en
-passant, de loin et fort confusément, de sorte qu’elles leur
-paraissent semblables, comme les visages de ceux que l’on regarde de trop loin, parce que l’esprit suppose toujours de la
-ressemblance et de l’égalité on il n’est pas obligé de reconnaître
-de ditlérence et d’inégalité, pour les raisons que je dirai dans le
-troisième livre.
+A truly subtle mind uses reason to detect even the smallest differences between things; it anticipates effects arising from hidden, unusual, and scarcely visible causes; in short, it penetrates deeply into the subjects it considers. But a soft mind has only a false kind of refinement. It is neither quick nor perceptive; it fails to see even the most obvious and tangible effects of causes. It cannot grasp or understand anything thoroughly, yet it is extraordinarily sensitive to manners and appearances. A single wrong word, a regional accent, or a slight grimace irritates them far more than a whole collection of poor arguments. They cannot recognize a flaw in reasoning, but they instantly notice a faulty rhythm of speech or an awkward gesture. In short, they understand sensory matters perfectly, because they have used their senses constantly; but they have no true understanding of things that depend on reason, because they have almost never used their own.
 
-La plupart de ceux qui parlent en public, tous ceux qu’on
-appelle grands parleurs, et beaucoup même de ceux qui
-s’énoncent avec beaucoup de facilité, quoiqu’ils parlent fort peu,
-sont de ce genre ; car il est extrêmement rare que ceux qui
-méditent sérieusement puissent bien expliquer les choses qu’ils
-ont méditées. D’ordinaire ils hésitent quand ils entreprennent
-d’en parler, parce qu’ils ont quelque scrupule de se servir de
-termes qui réveillent dans les autres une fausse idée. Ayant honte
-de parler simplement pour parler, comme font beaucoup de gens
-qui parlent cavalièrement de toutes choses, ils ont beaucoup de
-peine à trouver des paroles qui expriment bien des pensées qui
-ne sont pas ordinaires.
+Yet these are the very people most admired in the world, and who most easily earn a reputation for being clever. When someone speaks with ease and grace, chooses pure and elegant words, and uses figures of speech that flatter the senses and stir emotions without being noticed — even if what they say is nonsense, and nothing solid or true lies beneath their fine language — public opinion calls them a man of wit, a sharp mind, a fine intellect. People do not realize that this is merely a soft, effeminate mind, which shines only with false light and never truly illuminates; it persuades not because it appeals to reason, but only because it appeals to our eyes and ears.
 
-III. Quoiqu’on honore infiniment les personnes de piété, les
-théologiens, les vieillards, et généralement tous ceux qui ont
-acquis avec justice beaucoup d’autorité sur les autres hommes,
-cependant on croit être oblige de dire d’eux qu’il arrive souvent
-qu’ils se croient infaillibles, à cause que le monde les écoute
-avec respect, qu’ils font peu d’usage de leur esprit pour
-découvrir les vérités spéculatives, et qu’ils condamnent trop
-librement tout ce qu’il leur plait de condamner, sans l’avoir
-considéré avec assez d’attention. Ce n’est pas qu’ou trouve à
-redire qu’ils ne s’appliquent pas à beaucoup de sciences qui ne
-sont pas fort nécessaires ; il leur est permis de ne s’y point
-appliquer, et même de les mépriser : mais ils n’en doivent pas
-juger par fantaisie et sur des soupçons mal fondés ; car ils doivent considérer que la gravité avec laquelle ils parlent,
-l’autorité qu’ils ont acquise sur l’esprit des autres, et la coutume
-qu”ils ont de confirmer ce qu’ils disent par quelque passage de la
-sainte Écriture, jetteront infailliblement dans l’erreur ceux qui les
-écoutent avec respect. et qui, n’étant pas capables d’examiner les
-choses à fond, se laissent surprendre aux manières et aux
-apparences.
+We do not deny that everyone feels this weakness to some degree. No one’s mind remains untouched by the impressions of their senses and passions; consequently, everyone is influenced to some extent by outward manner. The difference between people is only a matter of degree. The reason we single out this flaw in certain individuals is that many recognize it as a fault and strive to correct it. But those we have just described treat it as a great advantage. Far from acknowledging that this false refinement is the result of mental softness and the source of countless intellectual weaknesses, they imagine it is a sign of their natural brilliance and genius.
 
-Lorsque l’erreur porte les livrées de la vérité, elle est souvent
-plus respectée que la vérité même, et ce faux respect a des suites
-très-dangereuses. Pessima res est errorum apotheosis ; et pro
-peste íntellectus habenda est, si vanís accedat veneratio
-[17]
-.
-Ainsi, lorsque certaines personnes, ou par un faux zèle, ou par
-l’amour qu’ils ont eu pour leurs propres pensées, se sont servis
-de l’Écriture sainte pour établir de faux principes de physique ou
-de métaphysique, ils ont été souvent écoutés comme des oracles
-par des gens qui les ont crus sur leur parole, à cause du respect
-qu’ils devaient à l’autorité sainte ; mais il est aussi arrivé que
-quelques esprits mal faits ont pris sujet de là de mépriser la
-religion, de sorte que, par un renversement étrange, l’Écriture
-sainte a été cause de l’erreur de quelques-uns, et la vérité a été le
-motif et l’origine de l’impiété de quelques autres. Il faut donc
-bien prendre garde, dit l’auteur que nous venons de citer, de ne
-pas chercher les choses mortes avec les vivantes, et de ne pas
-prétendre par son propre esprit découvrir dans la sainte Écriture
-ce que le Saint-Esprit n’y a pas voulu déclarer. Et divinorum, et
-humanomm malesana admíxtione, continue-t-il, non solum
-educítur phílosophia fantastica, sed etiam religio hœretica.
-Itaque salutare admodum est si mente sobria fidei tantum
-dentur, quœ fideí sunt. Toutes les personnes donc qui ont autorité
-sur les autres, ne doivent rien décider qu’après y avoir d’autant plus pensé que leurs décisions sont plus suivies ; et les
-théologiens principalement doivent bien prendre garde à ne point
-faire mépriser la religion par un faux zèle ou pour se faire
-estimer eux-mêmes et donner cours à leurs opinions. Mais parce
-que ce n’est pas à moi à leur dire ce qu’ils doivent faire, qu’ils
-écoutent saint Thomas, leur maître, qui, étant interrogé par son
-général pour savoir son sentiment sur quelques articles, lui
-répond, par saint Augustin, en ces termes
-[18]
 
-Il est bien dangereux de parler décisivement sur des matières
-qui ne sont point de la foi comme si elles en étaient. Saint
-Augustin nous l’apprend dans le cinquième livre de ses
-Confessions. Lorsque je vois, dit-il, un chrétien qui ne sait pas
-les sentiments des philosophes touchant les cieux, les étoiles et
-les mouvements du soleil et de la lune, et qui prend une chose
-pour une autre, je le laisse dans ses opinions et dans ses doutes ;
-car je ne vois pas que l’ignorance où il est de la situation des
-corps et des différents arrangements de la matière lui puisse
-nuire, pourvu qu’il n’ait pas des sentiments indignes de vous, ô
-Seigneur ! qui nous avez tous créés. Mais il se fait tort s’il se
-persuade que ces choses touchent la religion, et s’il est assez
-hardi pour assurer avec opiniâtreté ce qu’il ne sait point. Le
-même saint explique encore plus clairement sa pensée sur ce
-sujet, dans le premier livre de l’explication littérale de la
-Genèse, en ces termes : Un chrétien doit bien prendre garde à ne
-point parler de ces choses comme si elles étaient de la sainte
-Écriture ; car un infidèle qui lui entendrait dire des extravagances
-qui n’auraient aucune apparence de vérité, ne pourrait pas
-s’empêcher d’en rire. Ainsi le chrétien n’en recevrait que de la
-confusion, et l’infidèle en serait mal édifié. Toutefois, ce qu’il y
-a de plus fâcheux dans ces rencontres n’est pas que l’on voie qu’un homme s’est trompé, mais c’est que les infidèles que nous
-tâchons de convertir s’imaginent faussement, et pour leur perte
-inévitable, que nos auteurs ont des sentiments aussi extravagants ;
-de sorte qu’ils les condamnent et les méprisent comme des
-ignorants. Il est donc, ce me semble, bien plus à propos de ne
-point assurer comme des dogmes de la foi des opinions
-communément reçues des philosophes, lesquelles ne sont point
-contraires à notre foi, quoiqu’on puisse se servir quelquefois de
-l’autorité des philosophes pour les faire recevoir. Il ne faut point
-aussi rejeter ces opinions comme étant contraires à notre foi,
-pour ne point donner de sujet aux sages de ce monde de mépriser
-les vérités saintes de la religion chrétienne.
+## Superficial minds
 
-La plupart des hommes sont si négligents et si déraisonnables
-qu’ils ne font point de discernement entre la parole de Dieu et
-celle des hommes lorsqu’elles sont jointes ensemble ; de sorte
-qu’ils tombent dans l’erreur en les approuvant toutes deux, ou
-dans l’impiété en les méprisant indifféremment. Il est encore bien
-facile de voir la cause de ces dernières erreurs et qu’elles
-dépendent de la liaison des idées expliquées dans le chapitre V ;
-et il n’est pas nécessaire de s’arrêter à l’expliquer davantage.
-IV. Il semble à propos de dire ici quelque chose des chimistes,
-et généralement de tous ceux qui emploient leur temps à faire des
-expériences. Ce sont des gens qui cherchent la vérité : on suit
-ordinairement leurs opinions sans les examiner. Ainsi leurs
-erreurs sont d’autant plus dangereuses qu’ils les communiquent
-aux autres avec plus de facilité.
+Closely related to the above group is a large number of people with *superficial minds*, who never examine anything deeply and perceive differences only in a confused way. Unlike the previous group, their narrowness of mind is not caused by a life of pleasure, but by nature itself. This limited capacity does not come from the nature of the soul, as one might suppose; it is sometimes caused by a scarcity or slowness of the “animal spirits” that move thought, sometimes by inflexibility in the fibers of the brain, sometimes by an excess of spirits and blood, or by other causes we need not explore here.
 
-Il vaut mieux sans doute étudier la nature que les livres ; les
-expériences visibles et sensibles prouvent certainement beaucoup
-plus que les raisonnements des hommes, et on ne peut trouver à redire que ceux qui sont engagés par leur condition à l’étude de
-la physique tâchent de s’y rendre habiles par des expériences
-continuelles, pourvu qu’ils s’appliquent encore davantage aux
-sciences qui leur sont encore plus nécessaires. On ne blâme donc
-point la philosophie expérimentale ni ceux qui la cultivent, mais
-seulement leurs défauts.
+There are thus two types of minds: those that easily notice differences between things — these are the capable minds — and those that only imagine or assume similarities — these are the superficial minds. The first type has a brain suited to receiving clear and distinct impressions of the objects they study. Because they pay close attention to these impressions, they see their subjects as if from close up, and nothing escapes them. But superficial minds receive only weak or confused impressions; they see things only fleetingly, from a distance, and indistinctly. As a result, everything seems similar to them — just as faces look alike when viewed from too far away. This happens because the mind naturally assumes similarity and equality wherever it is not forced to recognize difference and inequality, for reasons I will explain in Book III.
 
-Le premier est que, pour l’ordinaire, ce n’est point la lumière
-de la raison qui les conduit dans l’ordre de leurs expériences : ce
-n’est que le hasard ; ce qui fait qu’ils n’en deviennent guère plus
-éclairés ni plus savants après y avoir employé beaucoup de
-temps et de bien.
+Most public speakers, all those known as “great talkers,” and many who express themselves with great ease — even when they have little to say — belong to this category. It is extremely rare for those who think deeply to explain their thoughts clearly and fluently. Usually they hesitate when speaking, because they are careful not to use words that might give others a false idea. Ashamed to speak just for the sake of speaking, as many do who treat every subject lightly, they struggle to find words that accurately express thoughts that are not commonplace.
 
-Le second est qu’ils s’arrêtent plutôt à des expériences
-curieuses et extraordinaires qu’à celles qui sont les plus
-communes. Cependant il est visible que les plus communes étant
-les plus simples, il faut s’y arrêter d’abord avant que de
-s’appliquer à celles qui sont plus composées et qui dépendent
-d’un plus grand nombre de causes.
+## People of authority
 
-Le troisième est qu’ils cherchent avec ardeur et avec assez de
-soin les expériences qui apportent du profit et qui négligent
-celles qui ne servent qu’à éclairer l’esprit.
+We hold in high esteem pious people, theologians, elders, and generally all those who have justly earned authority over others. Yet it must be said that such people often come to believe they are infallible. Because the world listens to them with respect, they make little effort to use their own judgment to discover abstract truths; and they condemn too readily whatever they choose to condemn, without having examined it with sufficient care.
 
-Le quatrième est qu’ils ne remarquent pas avec assez
-d’exactitude toutes les circonstances particulières, comme du
-temps, du lieu, de la qualité des drogues dont ils se servent,
-quoique la moindre de ces circonstances soit quelquefois capable
-d’empêcher l’effet qu’on en espère. Car il faut observer que tous
-les termes dont les physiciens se servent sont équivoques, et que
-le mot de vin, par exemple, signifie autant de choses différentes
-qu’il y a de différents terroirs, de différentes saisons, de
-différentes manières de faire le vin et de le garder ; de sorte qu’on peut même dire, en général, qu’il n’y en a pas deux
-tonneaux tout à fait semblables ; et qu'ainsi, quand un physicien
-dit : Pour faire telle expérience, prenez du vin, on ne sait que
-très-confusément ce qu’il veut dire. C’est pourquoi il faut user
-d’une très-grande circonspection dans les expériences, et ne
-descendre point aux composées que lorsqu’on a bien connu la
-raison des plus simples et des plus ordinaires.
+This is not to say they are wrong to avoid studying many subjects that are not strictly necessary; they are free to ignore or even disregard them. But they should not judge them based on whim or unfounded suspicion. They must consider that the gravity with which they speak, the authority they hold over other people’s minds, and their habit of supporting their words with passages from Holy Scripture will inevitably lead their respectful listeners into error — especially since those listeners lack the ability to examine matters thoroughly and are easily deceived by outward manner and appearance.
 
-Le cinquième est que d’une seule expérience ils en tirent trop
-de conséquences. Il faut, au contraire, presque toujours, plusieurs
-expériences pour bien conclure une seule chose, quoiqu’une
-seule expérience puisse aider à tirer plusieurs conclusions.
-Enfin la plupart des physiciens et des chimistes ne considèrent
-que les effets particuliers de la nature : ils ne remontent jamais
-aux premières notions des choses qui composent les corps.
-Cependant il est indubitable qu’on ne peut connaître clairement et
-distinctement les choses particulières de la physique si on ne
-possède bien ce qu’il y a de plus général et si on ne s’éleve
-même jusqu’au métaphysique. Enfin ils manquent souvent de
-courage et de constance ; ils se lassent à cause de la fatigue et de
-la dépense. Il y a encore beaucoup d’autres défauts dans les
-personnes dont nous venons de parler, mais on ne prétend pas
-tout dire.
+When error wears the appearance of truth, it is often more revered than truth itself; and this misplaced respect has very dangerous consequences. As one author writes: *“The worst of all things is to deify error; and it is a plague upon the intellect when falsehood is accorded reverence.”* Thus, when certain people — whether through misplaced zeal or love for their own ideas — use Scripture to establish false principles in physics or metaphysics, they are often listened to as if they were oracles. People believe them because of the respect due to sacred authority. Yet this has also led some misguided individuals to despise religion altogether. In this strange reversal, Scripture has become the cause of error for some, while truth itself has become the excuse for impiety in others.
 
-Les causes des fautes qu’on a remarquées sont le peu
-d’application, les propriétés de l’imagination expliquées dans le
-chapitre V de la première partie de ce livre, et dans le chapitre II
-de celle-ci, et surtout de ce qu'on ne juge de la différence des
-corps et du changement qui leur arrive que par les sensations
-qu’on en a, selon ce qu’on a expliqué dans le premier livre.
+Therefore, the same author warns us: we must not seek to explain natural things through the language of faith, nor presume to find in Scripture what the Holy Spirit did not intend to reveal. *“A confused mixing of divine and human matters,”* he continues, *“produces not only fantastic philosophy but also heretical religion. It is therefore most prudent to keep a clear mind and assign only matters of faith to the realm of faith.”*
+
+All those who hold authority over others must therefore form their judgments only after deep reflection — especially since their decisions are so widely followed. Theologians in particular must be careful not to bring religion into disrepute through false zeal, or through a desire to win admiration and promote their own opinions. As guidance, let them listen to Saint Thomas, their master. When asked by his superior for his opinion on certain doctrinal points, he replied with words from Saint Augustine:
+
+*“It is very dangerous to speak decisively on matters not belonging to faith as if they were articles of faith. Saint Augustine teaches us this in Book V of his Confessions: ‘When I see a Christian who does not know what philosophers say about the heavens, the stars, and the movements of the sun and moon, and who mistakes one thing for another, I leave him to his opinions and doubts. For I do not see how ignorance about the arrangement of bodies or the composition of matter can harm him, as long as he holds no views unworthy of You, O Lord, who created all things. But he does himself harm if he convinces himself that these matters are essential to religion, and if he dares to assert stubbornly what he does not know.’”*
+
+Saint Augustine explains this even more clearly in Book I of his *Literal Commentary on Genesis*: *“A Christian must take great care not to speak of such things as if they were found in Holy Scripture. If an unbeliever hears him saying absurd things that bear no resemblance to truth, he will not be able to keep from laughing. The Christian will be humiliated, and the unbeliever will be given a bad impression. Worse still, the unbelievers we are trying to convert will mistakenly believe that our teachers hold such foolish views; and to their own ruin, they will condemn and despise us as ignorant. It is therefore far better not to treat as articles of faith those opinions commonly held by philosophers — opinions that do not contradict our faith, even if we may sometimes cite philosophical authority to support them. Nor should we reject those opinions as contrary to faith, lest we give the wise of this world reason to despise the holy truths of the Christian religion.”*
+
+Most people are so careless and thoughtless that they do not distinguish between the word of God and the word of men when they are presented together. As a result, they either fall into error by accepting both equally, or into impiety by rejecting both indiscriminately. The cause of these errors is easily seen: they arise from the association of ideas explained in Chapter V of Part I and Chapter II of this Part. There is no need to go into further detail here.
+
+
+## Those who conduct experiments
+
+It is appropriate to say a few words about chemists and, more generally, all those who devote their time to experiments. These are people who seek truth; and since their opinions are usually accepted without question, their mistakes are all the more dangerous because they are so easily passed on to others.
+
+Studying nature is undoubtedly better than merely studying books. Visible, tangible experiments certainly prove more than human reasoning alone. We cannot criticize those whose work involves the study of nature for trying to become skilled through repeated experiments — provided they also devote themselves to subjects even more necessary to them. Therefore, we do not condemn experimental philosophy or those who practice it; we only point out their faults.
+
+The first fault is that they usually do not follow the light of reason in organizing their experiments, but rely only on chance. This is why, after spending much time and money, they rarely become any wiser or more knowledgeable.
+
+The second is that they focus more on curious, unusual phenomena than on the most common occurrences. Yet it is obvious that the most common events are also the simplest; one must understand these first before turning to more complex phenomena, which depend on a greater number of causes.
+
+The third is that they eagerly pursue experiments that offer profit or practical use, while neglecting those that serve only to enlighten the mind.
+
+The fourth is that they do not record with sufficient precision all the specific conditions: time, place, and the quality of the materials they use. Even the smallest change in these details can sometimes prevent the expected result. It must be noted that the terms used by natural philosophers are often ambiguous. The word “wine,” for example, means something different depending on the soil, the season, the method of production, and the way it is stored. One could even say that no two barrels of wine are exactly alike. Therefore, when an experimenter writes, “Take wine to perform this test,” it remains unclear exactly what is meant. This is why great caution is needed in experimentation; one should not attempt complex procedures until one thoroughly understands the principles behind the simplest and most common observations.
+
+The fifth fault is that they draw too many conclusions from a single experiment. On the contrary, several trials are almost always needed to reach a single valid conclusion — even though one good experiment can suggest many lines of inquiry.
+
+Finally, most natural philosophers and chemists observe only particular effects in nature; they never trace them back to the fundamental principles that make up all bodies. Yet it is certain that we cannot understand specific phenomena clearly and distinctly unless we first grasp the most general truths, and even rise to the level of metaphysics. They also often lack perseverance and constancy; they become discouraged by the effort and expense involved.
+
+There are many other shortcomings among such people, but it is not necessary to list them all.
+
+The root causes of these errors are lack of sustained attention, the properties of the imagination explained in Chapter V of Part I and Chapter II of this Part, and above all the habit of judging differences between bodies and changes in their state solely by the sensations they produce — as explained in Book I.
 

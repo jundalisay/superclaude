@@ -1,6 +1,6 @@
 ---
 heading: Book 3 Part 2
-title: "Ideas"
+title: "The Nature of Ideas"
 description: ""
 a: "Malebranche"
 c: "indigo"

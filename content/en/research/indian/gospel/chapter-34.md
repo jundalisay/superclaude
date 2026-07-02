@@ -59,9 +59,10 @@ As Sri Ramakrishna finished these words, Bankim and his friends began to whisper
 
 {{< r a="Adhar" >}}"We are discussing what you have just said, your explanation of Krishna's form."{{< /r >}}
 
-{{< l a="Ramakrishna" >}}(smiling): "That reminds me of a funny story. It makes me want to laugh. Once a barber was shaving a gentleman. The latter was cut slightly by the razor. 
+{{< l a="Ramakrishna" >}}
+(smiling): "That reminds me of a funny story. It makes me want to laugh. Once a barber was shaving a gentleman. The latter was cut slightly by the razor. At once he cried out, 'Damn!' But the barber didn't know the meaning of the word. He put his razor and other shaving articles aside, tucked up his shirt-sleeves—it was winter—and said: 'You said "damn" to me. Now you must tell me its meaning.' The gentleman said: 'Don't be silly. Go on with your shaving. The word doesn't mean anything in particular; but shave a little more carefully.' But the barber wouldn't let him off so easily. He said, 'If "damn" means something good, then I am a "damn", my father is a "damn", and all my ancestors are "damns".' 
+{{< /l >}}
 
-At once he cried out, 'Damn!' But the barber didn't know the meaning of the word. He put his razor and other shaving articles aside, tucked up his shirt-sleeves—it was winter—and said: 'You said "damn" to me. Now you must tell me its meaning.' The gentleman said: 'Don't be silly. Go on with your shaving. The word doesn't mean anything in particular; but shave a little more carefully.' But the barber wouldn't let him off so easily. He said, 'If "damn" means something good, then I am a "damn", my father is a "damn", and all my ancestors are "damns".' 
 
 (All laugh.) 
 
