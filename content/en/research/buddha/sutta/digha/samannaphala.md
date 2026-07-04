@@ -2,7 +2,8 @@
 heading: Part 2
 title: "Samannaphala Sutta 2"
 weight: 902
-description: "Partial Eternalism"
+description: "This sutra has discourse on occult powers"
+# Partial Eternalism
 c: "indigo"
 icon: Buddha
 writer:
@@ -10,8 +11,6 @@ writer:
   url: https://en.wikipedia.org/wiki/The_Buddha
 # author: Juan (simplified version)
 ---
-
-
 
 
 I have heard that the Buddha was staying at Rajagaha, in Jivaka Komarabhacca's mango grove, with a large community of monks — 1,250 monks in all. 
@@ -304,7 +303,8 @@ Recollection of Past Lives
 
 "This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime.
 
-The Passing Away & Re-appearance of Beings
+## The Passing Away & Re-appearance of Beings
+
 "With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the passing away and re-appearance of beings. He sees — by means of the divine eye, purified and surpassing the human — beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma: 'These beings — who were endowed with bad conduct of body, speech, and mind, who reviled the noble ones, held wrong views and undertook actions under the influence of wrong views — with the break-up of the body, after death, have re-appeared in the plane of deprivation, the bad destination, the lower realms, in hell. But these beings — who were endowed with good conduct of body, speech, and mind, who did not revile the noble ones, who held right views and undertook actions under the influence of right views — with the break-up of the body, after death, have re-appeared in the good destinations, in the heavenly world.' Thus — by means of the divine eye, purified and surpassing the human — he sees beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma. Just as if there were a tall building in the central square [of a town], and a man with good eyesight standing on top of it were to see people entering a house, leaving it, walking along the street, and sitting in the central square. The thought would occur to him, 'These people are entering a house, leaving it, walking along the streets, and sitting in the central square.' In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to knowledge of the passing away and re-appearance of beings. He sees — by means of the divine eye, purified and surpassing the human — beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma...
 
 "This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime.
@@ -327,4 +327,3 @@ When this was said, King Ajatasattu said to the Blessed One: "Well, then, lord, 
 So King Ajatasattu, delighting and rejoicing in the Blessed One's words, rose from his seat, bowed down to him, and — after circumambulating him — left. Not long after King Ajatasattu had left, the Blessed One addressed the monks: "The king is wounded, monks. The king is incapacitated. Had he not killed his father — that righteous man, that righteous king — the dustless, stainless Dhamma eye would have arisen to him as he sat in this very seat."
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One's words.
-

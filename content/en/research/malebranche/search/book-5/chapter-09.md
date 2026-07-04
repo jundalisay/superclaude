@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9
-title: "The Passions"
+title: "Love and Aversion"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,184 +10,51 @@ date: 2026-06-20
 
 
 
-De l'amour et de l'aversion, et de leurs principales espèces.
-L'amour et l’aversion sont les premières passions qui
-succèdent à l’admiration. Nous ne considérons pas long-temps un
-objet sans découvrir les rapports qu’il a avec nous, ou avec
-quelque chose que nous aimons. L’objet que nous aimons, et
-auquel par conséquent nous sommes unis par notre amour, nous
-étant presque toujours présent aussi bien que celui que nous
-admirons actuellement, notre esprit fait sans peine et sans de
-grandes réflexions les comparaisons nécessaires pour découvrir
-les rapports qu’ils ont entre eux et avec nous, ou bien il en est
-averti naturellement par des sentiments prévenants de plaisir et
-de douleur ; et alors le mouvement d’amour que nous avons pour
-nous et pour l’objet que nous aimons, s'étend jusqu’à celle que
-nous admirons, si le rapport qu’elle a immédiatement avec nous,
-ou avec quelque chose qui nous soit uni, nous paraît avantageux
-ou par la connaissance ou par le sentiment ; or ce nouveau
-mouvement de l’âme, ou plutôt ce mouvement de l'âme
-nouvellement déterminé, étant joint à celui des esprits animaux et
-suivi du sentiment qui accompagne la nouvelle disposition que ce
-nouveau mouvement d’esprit produit dans le cerveau, est la
-passion qu’on appelle ici amour.
+## Their Principal Species
 
-Mais, si nous sentons par quelque douleur, ou si nous découvrons par une connaissance claire et évidente que l’union
-ou le rapport de l’objet que nous admirons nous est
-désavantageux, ou à quelque chose qui nous soit uni, alors le
-mouvement d’amour que nous avons pour nous et pour la chose
-qui nous est unie, se borne dans nous ou se porte vers elle ; il ne
-suit point la vue de l’esprit, il ne se répand point vers l’objet de
-notre admiration. Mais comme le mouvement vers le bien en
-général que l’auteur de lalnature imprime sans cesse dans l’âme
-ne la porte que vers ce que l’on connait et que l’on sent comme
-bon ou comme convenable à notre nature, on peut dire que le
-refus que fait l’âme de s’approcher et de s’unir avec un objet qui
-ne lui convient nullement, est une espèce de mouvement
-volontaire dont le terme est le néant ; or ce mouvement volontaire
-de l’âme étant joint a celui des esprits et du sang, et suivi du
-sentiment qui accompagne la nouvelle disposition que ce
-mouvement d’esprit produit dans le cerveau, est la passion que
-l’on appelle ici aversion.
+Love and aversion are the first passions that succeed admiration. We do not consider an object for long without discovering the relations it has with us, or with something that we love. The object that we love, and to which consequently we are united by our love, being almost always present to us as well as the one we are currently admiring, our mind makes, without effort and without deep reflection, the comparisons necessary to discover the relations they have with each other and with us, or else it is naturally alerted to them by prepossessing feelings of pleasure and pain; and then the movement of love that we have for ourselves and for the object we love extends to the one we admire, if the relation it has immediately with us, or with something united to us, appears advantageous to us either through knowledge or through feeling; now this new movement of the soul, or rather this newly determined movement of the soul, being joined to that of the animal spirits and followed by the feeling that accompanies the new disposition that this new movement of spirit produces in the brain, is the passion here called love.
 
-Cette passion est entièrement contraire à l’amour, mais elle
-n’est jamais sans amour ; elle est entièrement contraire à l’amour,
-car elle sépare, et l’amour unit ; elle a le néant pour son terme, et
-l’amour a toujours l’être pour objet ; elle résiste au mouvement
-naturel et le rend inutile, et l’amour s’y abandonne et le rend
-victorieux. Mais elle n’est jamais séparée de l’amour ; car si le
-mal qui est son objet est pris pour la privation du bien, fuir le
-mal c’est fuir la privation du bien, c’est-à-dire tendre vers le
-bien ; et ainsi l’aversion de la privation du bien est l’amour du
-bien. Mais si le mal est pris pour la douleur, l’aversion de la
-douleur n’est pas l’aversion de la privation du plaisir, puisque la
-douleur étant un sentiment aussi réel que le plaisir, elle-n’en est
-pas la privation ; mais l’aversion de la douleur étant l’aversion de quelque misère intérieure, on n’aurait point cette aversion si
-l’on ne s’aimait : enfin le mal se peut prendre pour ce qui cause
-en nous la douleur. ou pour ce qui nous prive du bien ; et alors
-l’aversion dépend de l’amour de nous-mêmes, ou de l’amour de
-quelque chose in laquelie nous souhaitons d’être unis. L’amour et
-l’aversion sont donc les deux passions-mères opposées entre
-elles ; mais l’amour est la première, la principale et la plus
-universelle.
-On distingue souvent, dans la morale, les vertus ou les espèces
-de charités par la différence des objets ; mais cela confond
-quelquefois la véritable idée qu’on doit avoir de la vertu,
-laquelle dépend plutôt de la fin qu’on se propose que de toute
-autre chose. Ainsi nous ne croyons pas en devoir faire de même
-des passions : nous ne les distinguerons point ici par les objets,
-parce qu’un seul objet peut les exciter toutes, et que dix mille
-objets peuvent n’en exciter qu’une même ; car encore que les
-objets soient différents entre eux, ils ne sont pas toujours
-différents par rapport à nous, et ils n’excitent pas en nous des
-passions différentes. Un bâton de maréchal de France promis est
-différent d’une crosse promise ; cependant ces deux marques
-d’honneur excitent à peu près dans les ambitieux la même
-passion, parce qu’elles réveillent dans l’esprit une même idée de
-bien : mais un bâton de maréchal de France, promis, accordé,
-possédé, ôte, excite des passions toutes différentes, à cause qu’il
-réveille dans l’esprit différentes idées de bien.
-Il ne faut donc pas multiplier les passions selon les différents
-objets qui les causent, mais il en faut seulement admettre autant
-qu’il y a d’idées accessoires, qui accompagnent l’idée principale
-du bien ou du mal, et qui la changent considérablement par
-679
-rapport ii nous. Car l'idée générale du bien ou la sensation du
-plaisir qui est un bien à celui qui le goûte, agitant l’áme et les
-esprits animaux, elle produit la passion générale de l’amour, et
-les idées accessoires de ce bien déterminent l’agitation générale
-de l’âme et le cours des esprits animaux, d’une manière
-particulière qui met l’esprit et le corps dans la disposition où ils
-doivent être par rapport au bien que l’on aperçoit, et elles
-produisent ainsi toutes les passions particulières.
-Ainsi, l'idée générale du bien produit un amour indéterminé,
-qui n’est qu’une suite de l’amour-propre ou du désir naturel
-d’ètre heureux.
-L’ídée du bien que l’on possède produit un amour de joie.
-L’ídée d’un bien que l’on ne possède pas, mais que l’on espere
-de posséder, c’est-à-dire que l’on juge pouvoir posséder, produit
-un amour de désir.
+But if we feel through some pain, or if we discover through clear and evident knowledge that the union or relation of the object we admire is disadvantageous to us, or to something united to us, then the movement of love that we have for ourselves and for the thing united to us is contained within us or turns toward it; it does not follow the mind's vision, it does not spread toward the object of our admiration. But since the movement toward the good in general that the author of nature continuously impresses upon the soul carries it only toward what one knows and feels as good or as suitable to our nature, one can say that the refusal of the soul to approach and unite with an object that does not suit it at all is a kind of voluntary movement whose term is nothingness; now this voluntary movement of the soul, being joined to that of the spirits and the blood, and followed by the feeling that accompanies the new disposition that this movement of spirit produces in the brain, is the passion here called aversion.
 
-Enfin, l’idée d’un bien que l’on ne possède pas et que l’on
-n’espère pas de posséder, ou, ce qui fait le même effet, l’idée
-d’un bien que l’on n’espère pas de posséder sans la perte de
-quelque autre, ou que l’on ne peut conserver lorsqu’on le
-possède, produit un amour de tristesse. Ce sont là les trois
-passions simples ou primitives qui ont le bien pour objet, car
-l’espérance qui produit la joie n’est point une émotion de l’âme,
-mais un simple jugement.
-Mais on doit remarquer que les hommes ne bornent point leur
-être dans eux-mêmes, et qu’ils l’étendent à toutes les choses et à
-toutes les personnes auxquelles il leur paraît avantageux de
-s’unir. De sorte qu’on doit concevoir qu’ils possèdent en quelque
-manière un bien, lorsque leurs amis en jouissent, quoiqu’ils ne le
-possèdent pas immédiatement par eux-mêmes. Ainsi, lorsque je
-680
-dis que la possession du bien produit la joie, je ne l’entends pas
-seulement de la possession ou de l’union immédiate, mais de
-toute autre, car nous sentons naturellement de la joie lorsqu’il
-arrive quelque bonne fortune à ceux que nous aimons.
-Le mal, comme j’ai déjà dit, se peut prendre en trois
-manières : ou pour la privation du bien, ou pour la douleur, ou
-enfin pour la chose qui cause la privation du bien ou qui produit
-la douleur.
+This passion is entirely contrary to love, but it is never without love; it is entirely contrary to love, for it separates, and love unites; it has nothingness as its term, and love always has being as its object; it resists the natural movement and renders it useless, and love abandons itself to it and renders it victorious. But it is never separated from love; for if the evil that is its object is taken as the privation of good, to flee evil is to flee the privation of good, that is to say, to tend toward good; and thus the aversion to the privation of good is the love of good. But if evil is taken as pain, the aversion to pain is not the aversion to the privation of pleasure, since pain, being a feeling as real as pleasure, is not its privation; but the aversion to pain being the aversion to some inner misery, one would not have this aversion if one did not love oneself: finally, evil can be taken for what causes pain in us, or for what deprives us of good; and then aversion depends on the love of ourselves, or on the love of something with which we wish to be united. Love and aversion are therefore the two mother-passions opposed to each other; but love is the first, the principal, and the most universal.
+
+In moral philosophy, one often distinguishes virtues or species of charities by the difference of objects; but this sometimes confuses the true idea one should have of virtue, which depends rather on the end one proposes to oneself than on anything else. Thus we do not believe we should do the same with the passions: we will not distinguish them here by objects, because a single object can excite them all, and ten thousand objects can excite only one and the same; for although objects may differ from one another, they are not always different in relation to us, and they do not excite different passions in us. A promised marshal's baton is different from a promised crozier; however, these two marks of honor excite roughly the same passion in the ambitious, because they awaken in the mind the same idea of good: but a marshal's baton that is promised, granted, possessed, taken away, excites entirely different passions, because it awakens in the mind different ideas of good.
+
+We must not therefore multiply the passions according to the different objects that cause them, but we must admit only as many as there are accessory ideas that accompany the principal idea of good or evil, and that change it considerably in relation to us. For the general idea of good or the sensation of pleasure, which is a good to the one who experiences it, agitating the soul and the animal spirits, produces the general passion of love, and the accessory ideas of this good determine the general agitation of the soul and the course of the animal spirits in a particular manner that places the mind and the body in the disposition they should be in with respect to the good one perceives, and they thus produce all the particular passions.
+
+Thus, the general idea of good produces an indeterminate love, which is only a consequence of self-love or of the natural desire to be happy.
+
+The idea of the good that one possesses produces a love of joy.
+
+The idea of a good that one does not possess, but that one hopes to possess, that is to say, that one judges one can possess, produces a love of desire.
+
+Finally, the idea of a good that one does not possess and that one does not hope to possess, or, what amounts to the same, the idea of a good that one does not hope to possess without the loss of some other, or that one cannot keep once one possesses it, produces a love of sadness. These are the three simple or primitive passions that have good as their object, for hope, which produces joy, is not an emotion of the soul, but a simple judgment.
+
+But one should note that men do not limit their being to themselves, and that they extend it to all the things and all the persons with whom it seems advantageous to them to unite. So that one should conceive that they possess in some manner a good, when their friends enjoy it, although they do not possess it immediately themselves. Thus, when I say that the possession of good produces joy, I do not mean it only of immediate possession or union, but of any other, for we naturally feel joy when some good fortune happens to those we love.
+
+Evil can be taken in three ways:
+
+1. The privation of good
+
+Here the idea of evil being the same as the idea of a good that one does not possess, it is visible that this idea produces sadness, or desire, or even joy, for joy is always excited when one feels oneself delivered from the privation of good, that is to say, when one possesses the good. So that the passions that regard evil taken in this sense are the same as those that regard good, because in effect they also have good as their object.
+
+2. Pain
+
+Pain is always a real evil to the one who suffers it at the time he suffers it, then the feeling of this evil produces the passions of sadness and desire for the annihilation of this evil, passions that are species of aversion and not of love, for their movement is entirely opposed to that which accompanies the sight of good, this movement being only the opposition of the soul that resists the natural impression, that is to say, a movement whose term is nothingness.
+
+The actual feeling of pain produces an aversion of sadness.
+
+The pain that one does not suffer, but that one fears suffering, produces an aversion of desire whose term is the nothingness of this pain.
+
+3. The thing that causes the privation of good or that produces pain
+
+Finally, the pain that one does not suffer and that one does not fear suffering, or, what amounts to the same, the pain that one does not dread suffering without some great reward, or the pain from which one feels delivered, produces an aversion of joy. These are the three simple or primitive passions that have evil as their object, for fear, which produces sadness, is not an emotion of the soul, but a simple judgment.
+
+Finally, if by evil one means the person or thing that deprives us of good or that makes us suffer pain, the idea of evil produces a movement of love and aversion together, or simply a movement of aversion. The idea of evil produces a movement of love and aversion together, when the evil is what deprives us of good, for it is by one and the same movement that one tends toward good and that one draws away from what prevents its possession. But this idea produces only a movement of aversion, when it is the idea of an evil that makes us suffer pain, because it is by one and the same movement of aversion that one hates the pain and the one who causes us to suffer it.
+
+Thus, there are three simple or primitive passions that regard good, and as many others that regard pain or the one who causes it, namely: joy, desire, and sadness. For one feels joy when good is present or when evil has passed; one feels sadness when good has passed and evil is present, and one is agitated by desire when good and evil are future.
+
+The passions that regard good are particular determinations of the movement that God gives us for the good in general, and that is why their object is real; but the others, which do not have God as the cause of their movement, have only nothingness as their term; I mean that these passions are rather cessations of movement than real movements; one then ceases to will rather than one wills.
 
 
-Dans le premier sens, l’idée du mal étant la même que l’idée
-d’un bien que l’on ne possède pas, il est visible que cette idée
-produit la tristesse, ou le désir, ou même la joie, car la joie
-s’excite toujours lorsqu’on se sent privé de la privation du bien,
-c’est-à-dire lorsqu’on possède le bien. De sorte que les passions
-qui regardent le mal pris en ce sens sont les mêmes que celles qui
-ringardent le bien, parce qu’en effet elles ont aussi le bien pour
-leur objet.
-Que si par le mal on entend la douleur, laquelle seule est
-toujours un mal réel á celui qui la soulfre dans le temps qu’il la
-souffre, alors le sentiment de ce mal produit les passions de
-tristesse et de désir de l’anéantissement de ce mal, passions qui
-sont des espèces d'aversion et non d’amoμr, car leur mouvement
-est entièrement opposé à celui qui accompagne la vue du bien, ce
-mouvement n’étant que l’opposition de l’âme qui résiste à
-l’impression naturelle, c’est-à-dire un mouvement dont le terme
-est le néant.
-Le sentiment actuel de la douleur produit une aversion de
-tristesse.
-La douleur que l’on ne souffre pas, mais que l’on craint de
-souffrir, produit une aversion de désir dont le terme est le néant
-681
-de cette douleur.
-Enñn, la douleur que l’on ne souffre pas et que l’on ne craint
-point de souffrir, ou, ce qui fait le même effet, la douleur que l’on
-n'appréhende point de souffrir sans quelque grande récompense,
-ou la douleur dont on se sent délivré, produit une aversion de
-joie. Ce sont là les trois passions simples ou primitives qui ont le
-mal pour objet, car la crainte qui produit la tristesse n’est point
-une émotion de l’åme, mais un simple jugement.
-
-
-Enfin, si par le mal on entend la personne ou la chose qui nous
-prive du bien ou qui nous fait souffrir de la douleur, l’idée du mal
-produit un mouvement d’amour et d’aversion tout ensemble, ou
-simplement un mouvement d’aversion. L’idée du mal produit un
-mouvement d’amour et d’aversion tout ensemble, lorsque le mal
-est ce qui nous prive du bien, car c’est par un même mouvement
-que l’on tend vers le bien et que l’on s’éloigne de ce qui en
-empêche la possession. Mais cette idée produit seulement un
-mouvement d’aversion, lorsque c’est l’idée d’un mal qui nous
-fait souffrir de la douleur, parce que c’est par un même
-mouvement d’aversion que l’on hait la douleur et celui qui nous
-la fait souffrir.
-
-Ainsi, il y a trois passions simples ou primitives qui regardent
-le bien, et autant d’autres qui regardent la douleur ou celui qui la
-cause, savoir : la joie, le désir et la tristesse. Car on a de la joie
-lorsque le bien est présent ou que le mal est passé ; on sent de la
-tristesse lorsque le bien est passé et que le mal est présent, et
-l’on est agité de désir lorsque le bien et le mal sont futurs.
-Les passions qui regardent le bien sont des déterminations
-particulières du mouvement que Dieu nous donne pour le bien en
-général. et c’est pour cela que leur objet est réel ; mais les autres qui n’ont point Dieu pour cause de leur mouvement n’ont que le
-néant pour leur terme ; je veux dire que ces passions sont plutôt
-des cessations de mouvement que des mouvements réels ; on
-cesse alors de vouloir plutôt qu’on ne veut.
 

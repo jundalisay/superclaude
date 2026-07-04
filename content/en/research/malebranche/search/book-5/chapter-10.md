@@ -1,6 +1,6 @@
 ---
 heading: Chapter 10
-title: "The Passions"
+title: "The Passions in Particular"
 description: ""
 a: "Malebranche"
 c: "indigo"
@@ -10,250 +10,43 @@ date: 2026-06-20
 
 
 
-Des passions en particulier, et en général de la manière de les expliquer et de
-reconnaître les erreurs dont elles sont la cause.
-Si l’on considère de quelle manière les passions se
-composent, on reconnaîtra visiblement que leur nombre ne se
-peut déterminer, et qu’il y en a beaucoup plus que nous n’avons
-de termes pour les exprimer. Les passions ne tirent pas seulement
-leurs différences de la différente combinaison des trois
-primitives, car de cette sorte il y en aurait fort peu ; mais leur
-différence se prend encore des différentes perceptions et des
-différents jugements qui les causent ou qui les accompagnent. Ces
-différents jugements que l’âme fait des biens et des maux
-produisent des mouvements différents dans les esprits animaux,
-pour disposer le corps par rapport à l’objet, et ils causent par
-conséquent dans l’âme des sentiments qui ne sont point
-entièrement semblables. Ainsi ils sont cause que l’on remarque
-de la différence entre certaines passions dont les émotions ne
-sont point différentes.
+## The Errors Which They Cause
 
-Cependant l’émotion de l’àme étant la principale chose qui se
-rencontre dans chacune de nos passions, il est beaucoup mieux de
-les rapporter toutes aux trois primitives dans lesquelles ces
-émotions sont fort différentes, que de les traiter confusément et
-sans ordre, par rapport aux différentes perceptions que l’on peut avoir d’une infinité de biens et de maux qui les causent.
+If one considers how passions are composed, one will visibly recognize that their number cannot be determined, and that there are far more of them than we have terms to express them. Passions derive their differences not only from the different combinations of the three primitive ones, for in that way there would be very few; but their difference is also drawn from the different perceptions and different judgments that cause or accompany them. These different judgments that the soul makes concerning goods and evils produce different movements in the animal spirits, to dispose the body with respect to the object, and they consequently cause in the soul sentiments that are not entirely similar. Thus they are the reason why one notices a difference between certain passions whose emotions are not themselves different.
 
+However, since the emotion of the soul is the principal thing found in each of our passions, it is much better to relate them all to the three primitive ones in which these emotions are very different, than to treat them confusedly and without order, with respect to the different perceptions one may have of an infinity of goods and evils that cause them.
 
-Lorsque l'âme aperçoit un bien dont elle peut jouir, on peut
-dire peut-être qu’elle l’espère, quoiqu’elle ne le désire pas ;
-mais il est visible qu’alors son espérance n’est point une passion,
-mais un simple jugement. Car c’est l’émotion qui accompagne
-l’idée d’un bien, dont on juge que la jouissance est possible, qui
-fait que l’espérance est une passion véritable. Lorsque
-l’espérance se change en sécurité, c’est encore la même chose ;
-elle n’est passion qu’il cause de l’émotion de joie qui se mèle
-alors avec celle du désir ; car le jugement de l’âme qui considère
-un bien comme ne lui pouvant manquer, n’est une passion qu’à
-cause que l’avant-goût du bien nous agite. Enfin, lorsque
-l’espérance diminue et que le désespoir lui succède, il est encore
-visible que ce désespoir n’est une passion qu’à cause de
-l'émotion de la tristesse qui se mêle alors avec celle du désir ;
-car le jugement de l’âme qui considère un bien comme ne lui
-pouvant arriver, n’est point une passion si ce jugement ne nous
-agite.
+When the soul perceives a good that it can enjoy, one might say perhaps that it hopes for it, although it does not desire it; but it is visible that then its hope is not a passion, but a simple judgment. For it is the emotion that accompanies the idea of a good, whose enjoyment one judges to be possible, that makes hope a true passion. When hope changes into security, it is still the same thing; it is a passion only because of the emotion of joy that then mingles with that of desire; for the judgment of the soul that considers a good as something that cannot fail to come to it, is a passion only because the foretaste of the good stirs us. Finally, when hope diminishes and despair succeeds it, it is still visible that this despair is a passion only because of the emotion of sadness that then mingles with that of desire; for the judgment of the soul that considers a good as something that cannot happen to it, is not a passion if this judgment does not stir us.
 
+But, because the soul never considers any good or evil without some emotion and without some change even taking place in the body, the name of passion is often given to the judgment that produces the passion, because one confuses everything that takes place both in the soul and in the body at the sight of some good or some evil. For the words hope, fear, boldness, shame, impudence, anger, pity, mockery, regret, finally the name of all the other passions are, in ordinary usage, abbreviated expressions of several terms, by which one can explain in detail everything that passions contain.
 
-Mais, parce que l’âme ne considère jamais de bien ou de mal
-sans quelque émotion et sans qu’il arrive même dans le corps
-quelque changement, on donne souvent le nom de passion au
-jugement qui produit la passion, à cause que l’on confond tout ce
-qui se passe et dans l’âme et dans le corps à la vue de quelque
-bien ou de quelque mal. Car les mots d’espérance, de crainte, de
-hardiesse, de honte, d’impudence, de colère, de pitié, de
-moquerie, de regret, enfin le nom de toutes les autres passions
-sont dans l’usage ordinaire, des expressions abrégées de
-plusieurs termes, par lesquels on peut expliquer en détail tout ce
-que les passions renferment.
+By the word passion one understands the view of the relation that a thing has to us, the emotion and feeling of the soul, the agitation of the brain and the movement of the spirits, a new emotion and a new feeling of the soul, and finally a feeling of sweetness that always accompanies the passions and makes them all agreeable. All these things are understood. But sometimes by the name of some passion one understands only the judgment that causes it, or the emotion of the soul alone, or the movement of the spirits and blood alone, or finally some other thing that accompanies the emotion of the soul.
 
-On comprend par le mot de passion la vue du rapport qu’une
-chose a avec nous, l’émotion et le sentiment de l’âme,
-l’ébranlement du cerveau et le mouvement des esprits, une
-nouvelle émotion et un nouveau sentiment de l’âme, et enfin un
-sentiment de douceur qui accompagne toujours les passions et qui
-les rend toutes agréables. On entend toutes ces choses. Mais
-quelquefois on entend seulement par le nom de quelque passion,
-ou le jugement qui la cause, on l’émotion seule de l’âme, ou le
-mouvement seul des esprits et du sang, ou enfin quelque autre
-chose qui accompagne l’émotion de l’âme.
-C'est une chose fort utile à la connaissance de la vérité que
-d’abréger les idées et leurs expressions ; mais souvent cela est
-cause de quelque erreur, principalement lorsque ces idées
-s’abrègent par un usage populaire. Car il ne faut jamais alléger
-ses idées que lorsqu’on se les est rendues très-claires et trèsdistinctes par une grande application d’esprit, et non pas comme
-l’on fait ordinairement des passions et de toutes les choses
-sensibles, lorsqu’on se les est rendues familières par des
-sentiments et par l’action seule de imagination qui trompe
-l’esprit.
+It is a thing very useful to the knowledge of truth to abbreviate ideas and their expressions; but often this is the cause of some error, principally when these ideas are abbreviated by popular usage. For one must never lighten one's ideas except when one has rendered them very clear and very distinct by great application of mind, and not as one ordinarily does with the passions and all sensible things, when one has rendered them familiar through feelings and through the sole action of the imagination, which deceives the mind.
 
+There is a great difference between the pure ideas of the mind and the sensations or emotions of the soul. The pure ideas of the mind are clear and distinct, but it is difficult to make them familiar. The sensations and emotions of the soul, on the contrary, are very familiar, but it is impossible to know them clearly and distinctly. Numbers, extension, and their properties are known clearly, but when one has not rendered them sensible by some characters that express them, it is difficult to represent them to oneself, for everything abstract does not touch one. Sensations, on the contrary, and the emotions of the soul are easily represented to the mind, although one knows them only in a very confused and very imperfect manner, and all the terms that excite them strike the soul strongly and render it attentive. It happens from this that one often imagines one understands discourses that are absolutely incomprehensible; and when one reads certain descriptions of the sentiments and passions of the soul, one persuades oneself that one understands them perfectly, because one is vividly touched by them and because all the words that strike the eyes agitate the soul. As soon as the word shame, despair, impudence, etc., is pronounced before us, there awakens immediately in our mind a certain confused idea and a certain obscure sentiment that applies us strongly; and because this sentiment is very familiar to us and represents itself to us without trouble and without effort of mind, we persuade ourselves that it is clear and distinct. However, these words are the names of composed passions, and consequently abbreviated expressions that popular usage has made from several confused and obscure ideas.
 
-Il y a bien de la différence entre les idées pures de l’esprit et
-les sensations ou les émotions de l’âme. Les idées pures de
-l’esprit sont claires et distinctes, mais il est difficile de se les
-rendre familières. Les sensations et les émotions de l’âme sont au
-contraire très-familières, mais il est impossible de les connaître
-clairement et distinctement. Les nombres, l’étendue et leurs
-propriétés se connaissent clairement, mais lorsqu’on ne les a pas
-rendus sensibles par quelques caractères qui les expriment, il est
-difficile de se les représenter, car tout ce qui est abstrait ne touche point. Les sensations au contraire et les émotions de l’âme
-se représentent facilement à l’esprit, quoiqu’on ne les connaisse
-que d’une manière fort confuse et fort imparfaite, et tous les
-termes qui les excitent frappent fortement l’âme et la rendent
-attentive. Il arrive de là que l’on s’imagine souvent bien
-comprendre des discours absolument incompréhensibles ; et
-lorsqu’on lit certaines descriptions des sentiments et des
-passions de l’àme, on se persuade qu’on les entend parfaitement,
-parce qu’on en est touché vivement et que tous les mots qui
-frappent les yeux agitent l’âme. Dès que l’on prononce devant
-nous le mot de honte, de désespoir, d’impudence, etc., il se
-réveille aussitôt dans notre esprit une certaine idée confuse et un
-certain sentiment obscur qui nous applique fortement ; et parce
-que ce sentiment nous est fort familier et qu’il se représente à
-nous sans peine et sans effort d’esprit, nous nous persuadons
-qu’il est clair et distinct. Cependant ces mots sont les noms des
-passions composées, et par conséquent des expressions abrégées
-que l’usage populaire a faites de plusieurs idées confuses et
-obscures.
+Since we are obliged to use terms approved by usage, one should not be surprised to find obscurity and sometimes a kind of contradiction in our words. And if one reflects that the sentiments and emotions of the soul, which correspond to the terms used in such discourses, are not entirely the same in all men, because of their different dispositions of mind; one will not easily condemn us when one does not enter into our opinions. I do not say this so much to shelter myself from objections that might be made to me, as to make well understood the nature of the passions and what one should think of the treatises composed on this matter.
 
+After all these precautions, I believe I can say that all the passions can be related to the three primitive ones, namely: to desire, to joy, and to sadness, and that it is principally by the different judgments that the soul makes concerning goods and evils that those which relate to the same primitive passion differ from each other.
 
-Comme nous sommes obligés de nous servir des termes
-approuvés par l’usage, on ne doit pas être surpris de trouver de
-l’obscurité et quelquefois une espèce de contradiction dans nos
-paroles. Et si l’on fait réflexion que les sentiments et les
-émotions de l’âme, qui répondent aux termes dont on se sert en de
-semblables discours, ne sont pas tout à fait les mêmes dans tous
-les hommes, à cause de leurs différentes dispositions d’esprit ;
-on ne nous condamnera pas facilement lorsqu’on n’entrera pas
-dans nos opinions. Je ne dis pas tant ceci pour me mettre à
-couvert des objections qu’on me pourrait faire, que pour faire
-bien comprendre la nature des passions et ce qu’on doit penser des traités que l’on compose sur cette matière.
-Après toutes ces précautions, je crois pouvoir dire que toutes
-les passions se peuvent rapporter aux trois primitives, savoir : au
-désir, à la joie et à la tristesse, et que c’est principalement par
-les différents jugements que l’âme fait des biens et des maux, que
-celles qui se rapportent à une même passion primitive sont
-différentes entre elles.
+I can say that hope, fear, and the irresolution that holds the middle between these two, are species of desires; that boldness, courage, emulation, etc., have more relation to hope than to all the others, and that fear, cowardice, jealousy, etc., are species of fears.
+I can say that gladness and glory, favor and gratitude are species of joys caused by the sight of the good that we know in ourselves, or in those to whom we are united; as laughter or mockery is a species of joy that is ordinarily excited in us at the sight of the evil that happens to those from whom we are separated; finally that disgust, boredom, regret, piety, and indignation are species of sadnesses caused by the sight of something that displeases us.
 
+But besides these passions and several others that I do not name, which relate particularly to one of the primitive passions, there are yet several others whose emotion is almost equally composed, either of that of desire and joy, like impudence, anger, and vengeance; or of those of desire and sadness, like shame, regret, and spite; or of all three together, when there are motives of joy and sadness joined together. But although these latter passions do not, as far as I know, have particular names, they are however among the most common; because in this life we almost never taste good without some evil, and we almost never suffer evil without some hope of being delivered from it and of enjoying some good. And although joy is entirely contrary to sadness, it nevertheless suffers it, and even shares with this passion the capacity that the soul has to will, when the sight of good and evil divides the capacity that the soul has to perceive.
 
-Je puis dire que l’espérance, la crainte et l’irrésolution qui
-tient le milieu entre ces deux, sont des espèces de désirs ; que la
-hardiesse, le courage, l’émulation, etc., ont plus de rapport à
-l’espérance qu’à toutes les autres, et que la peur, la lâcheté, la
-jalousie, etc., sont des espèces de craintes.
-Je puis dire que l’allégresse et la gloire, la faveur et la
-reconnaissance sont des espèces de joies causées par la vue du
-bien que nous connaissons en nous, ou dans ceux auxquels nous
-sommes unis ; comme le ris ou la moquerie est une espèce de joie
-qui s’excite ordinairement en nous á la vue du mal qui arrive à
-ceux desquels nous sommes séparés ; enfin que le dégoût, l’ennui,
-le regret. la piété et l’indignation sont des espèces de tristesses
-causées par la vue de quelque chose qui nous déplaît.
-Mais outre ces passions et plusieurs autres que je ne nomme
-point, qui se rapportent particulièrement à quel qu’une des
-passions primitives, il y en a encore plusieurs autres dont
-l’émotion est presque également composée, ou de celle du désir
-et de la joie, comme l’impudence, la colère et la vengeance ; ou
-de celles du désir et de la tristesse, comme la honte, le regret et
-le dépit ; ou de toutes les trois ensemble, lorsqu’il se trouve des
-motifs de joie et de tristesse joints ensemble. Mais quoique ces
-dernières passions n’aient pas, que je sache, des noms particuliers, elles sont cependant des plus communes ; parce
-qu’en cette vie nous ne goûtons presque jamais de bien sans
-quelque mal, et que nous ne souffrons presque jamais de mal sans
-quelque espérance d’en être délivré et de jouir de quelque bien.
-Et quoique la joie soit entièrement contraire à la tristesse, elle la
-souffre néanmoins, et même elle partage avec cette passion la
-capacité que l’àmea de vouloir, lorsque la vue du bien et du mal
-partage la capacité que l’âme a d’apercevoir.
-Toutes les passions sont donc des espèces de désirs, de joies
-et de tristesses. Et la principale différence qui se trouve entre les
-passions de même espèce, se tire des différentes perceptions ou
-des différents jugements qui les causent ou, qui les
-accompagnent. Si bien que pour se rendre savant dans les
-passions, et pour en faire le dénombrement le plus exact qui soit
-possible, il est nécessaire de rechercher les différents jugements
-que l’on peut faire des biens et des maux. Mais comme nous
-recherchons principalement ici les causes de nos erreurs, nous ne
-devons pas tant nous arrêter à examiner les jugements qui
-précèdent et qui causent les passions, que ceux qui les suivent, et
-que l’ùme forme des choses lorsque quelque passion l’agite ; car
-ce sont ces derniers jugements qui sont les plus sujets à l’erreur.
-Les jugements qui précédent et qui causent les passions, sont
-presque toujours faux en quelque chose, car ils sont presque
-toujours appuyés sur les perceptions de l’àme, en tant qu’elle
-considère les objets par rapport à elle, et non point selon ce
-qu’ils sont en eux-mêmes. Mais les jugements, qui suivent les
-passions, sont faux en toutes manières ; car les jugements que
-forment les passions toules seules, sont uniquement appuyés sur
-les perceptions que l’àme a des objets par rapport à elle, ou plutôt par rapport à son émotion actuelle.
+All passions are therefore species of desires, joys, and sadnesses. And the principal difference found between passions of the same species is drawn from the different perceptions or different judgments that cause them or accompany them. So that to become learned in the passions, and to make the most exact enumeration of them possible, it is necessary to investigate the different judgments that one can make concerning goods and evils. But since we are primarily investigating here the causes of our errors, we should not dwell so much on examining the judgments that precede and cause the passions, as those that follow them, and that the soul forms concerning things when some passion agitates it; for it is these latter judgments that are most subject to error.
 
-Dans les jugements qui précèdent les passions, le vrai et le
-faux sont joints ensemble ; mais lorsque l’âme est agitée, et
-qu’elle juge selon toute l’inspiration de la passion, le vrai se
-dissipe et le faux se conserve, pour servir de principe à d’autant
-plus de fausses conclusions que la passion est plus grande.
-Toutes les passions se justifient : elles représentent sans cesse
-à l’âme l’objet qui l’agite, de la manière la plus propre pour
-conserver et pour augmenter son agitation. Le jugement ou la
-perception qui la cause, se fortifie à proportion que la passion
-s’augmente ; et la passion s’augmente à proportion que le
-jugement qui la produit à son tour se fortifie. Les faux jugements
-et les passions contribuent sans cesse à leur mutuelle
-conservation. De sorte que si le cœur ne cessait point de fournir
-les esprits propres pour entretenir les vestiges du cerveau et
-l'épanchement des mêmes esprits, ce qui est nécessaire pour
-conserver le sentiment et l'émotion de l’âme qui accompagnent
-les passions, elles augmenteraient sans cesse, et nous ne
-reconnaîtrions jamais nos erreurs. Mais comme toutes nos
-passions dépendent de la fermentation et de la circulation du
-sang, et que le cœur ne peut pas toujours fournir des esprits
-propres pour leur conservation, il est nécessaire qu’elles cessent,
-lorsque les esprits diminuent et que le sang se refroidit.
-Si c’est une chose fort facile que de découvrir les jugements
-ordinaires des passions, ce n’est pas une chose qu’il faille
-négliger. Il y a peu de sujets plus dignes de l’application de ceux
-qui recherchent la vérité, qui tâchent de se délivrer de la
-domination de leur corps, et qui veulent juger de toutes choses
-selon les véritables idées.
+The judgments that precede and cause the passions are almost always false in some respect, for they are almost always based on the perceptions of the soul, insofar as it considers objects in relation to itself, and not at all according to what they are in themselves. But the judgments that follow the passions are false in every way; for the judgments formed by the passions alone are uniquely based on the perceptions that the soul has of objects in relation to itself, or rather in relation to its present emotion.
 
-On peut s’instruire sur ce sujet en deux manières : ou par la
-raison toute pure, ou par le sentiment intérieur que l’on a de soimême, lorsqu’on est agité de quelque passion. Par exemple, l’on
-sait par sa propre expérience qu’on est porté à juger
-désavantageusement de ceux que l’on n’aime pas, et à répandre,
-pour ainsi dire, toute la malignité de sa haine pour en couvrir
-l’objet de sa passion. L’on reconnaît aussi par la pure raison, que
-ne pouvant haïr que ce qui est mauvais, il est nécessaire, pour la
-conservation de la haine, que l’esprit se représente son objet par
-le côté le plus mauvais. Car enfin il suffit de supposer que toutes
-les passions se justifient, et qu’elles tournent l’imagination et
-ensuite l’esprit d’une manière propre à conserver leur propre
-émotion, pour conclure directement quels sont les jugements que
-toutes les passions nous font former.
+In the judgments that precede the passions, the true and the false are joined together; but when the soul is agitated, and judges according to the full inspiration of the passion, the true dissipates and the false is preserved, to serve as a principle for as many more false conclusions as the passion is greater.
 
-Ceux qui ont l’imagination forte et vive, qui sont extrêmement
-sensibles, et fort sujets aux mouvements des passions, sïnstruisent
-parfaitement de ces choses par le sentiment qu’ils ont de ce qui
-se passe en eux ; et ils en parlent même d’une manière plus
-agréable, et quelquefois plus instructive, que ceux qui ont plus de
-raison que d’imagination. Car on ne doit pas penser que ceux qui
-découvrent le mieux les ressorts de l’amour-propre, qui pénètrent
-le mieux et qui développent d’une manière plus sensible les
-replis du cœur de l’homme, soient toujours les plus éclairés.
-C’est souvent une marque qu’ils sont plus vifs, plus imaginatifs,
-et quelquefois plus malins et plus corrompus que les autres.
-Mais ceux qui sans consulter leur sentiment intérieur, ne se
-servent que de leur raison pour rechercher la nature des passions,
-et ce qu’elles sont capables de produire, s’ils ne sont pas
-toujours aussi pénétrants que les autres, ils sont toujours plus raisonnables et moins sujets à l’erreur ; car ils jugent des choses
-selon ce qu’elles sont en elles-mêmes. Ils voient à peu près ce
-que les passionnés peuvent faire, selon qu’ils les supposent plus
-ou moins émus ; et ik ne jugent pas témérairement des choses que
-les autres feront ou ne feront pas en telles rencontres, par celles
-qu’ils feraient eux-mêmes ; car ils savent bien que tous les
-hommes ne sont pas également sensibles pour les mêmes objets,
-ni également susceptibles des émotions involontaires. Ainsi, ce
-n’est point en consultant les sentiments que les passions excitent
-en nous, mais en consultant la raison, que nous devons parler des
-jugements qui accompagnent les passions ; de peur que nous ne
-nous fassions connaître nous-mêmes, au lieu de faire connaître la
-nature des passions en général.
+All the passions justify themselves: they continually represent to the soul the object that agitates it, in the manner most proper to preserve and increase its agitation. The judgment or perception that causes it is strengthened in proportion as the passion increases; and the passion increases in proportion as the judgment that produces it in turn strengthens. False judgments and passions continually contribute to their mutual preservation. So that if the heart did not cease to supply the spirits proper for maintaining the traces of the brain and the outflow of the same spirits, which is necessary to preserve the feeling and emotion of the soul that accompany the passions, they would increase without ceasing, and we would never recognize our errors. But since all our passions depend on the fermentation and circulation of the blood, and the heart cannot always supply spirits proper for their preservation, it is necessary that they cease, when the spirits diminish and the blood cools.
 
+If it is a very easy thing to discover the ordinary judgments of the passions, it is not a thing to be neglected. There are few subjects more worthy of the application of those who seek truth, who try to free themselves from the domination of their body, and who wish to judge all things according to true ideas.
+
+One can instruct oneself on this subject in two ways: either by pure reason, or by the inner feeling one has of oneself, when one is agitated by some passion. For example, one knows by one's own experience that one is inclined to judge unfavorably of those one does not love, and to spread, so to speak, all the malignancy of one's hatred to cover the object of one's passion. One also recognizes by pure reason, that since one can hate only what is evil, it is necessary, for the preservation of hatred, that the mind represent its object on its worst side. For in the end it suffices to suppose that all the passions justify themselves, and that they turn the imagination and then the mind in a manner proper to preserve their own emotion, to directly conclude what are the judgments that all the passions make us form.
+
+Those who have a strong and lively imagination, who are extremely sensitive, and very subject to the movements of the passions, instruct themselves perfectly in these things by the feeling they have of what takes place within them; and they even speak of them in a more agreeable, and sometimes more instructive, manner than those who have more reason than imagination. For one should not think that those who best discover the springs of self-love, who penetrate best and develop in a more sensible manner the folds of the human heart, are always the most enlightened. It is often a sign that they are more lively, more imaginative, and sometimes more malicious and more corrupt than others.
+
+But those who, without consulting their inner feeling, use only their reason to investigate the nature of the passions, and what they are capable of producing, if they are not always as penetrating as the others, they are always more reasonable and less subject to error; for they judge things according to what they are in themselves. They see roughly what those in the grip of passion can do, according as they suppose them more or less moved; and they do not rashly judge of things that others will do or will not do on such occasions, by those they themselves would do; for they know well that all men are not equally sensitive to the same objects, nor equally susceptible to involuntary emotions. Thus, it is not by consulting the feelings that the passions excite in us, but by consulting reason, that we should speak of the judgments that accompany the passions; lest we make ourselves known, instead of making known the nature of the passions in general.

@@ -25,25 +25,69 @@ One could, by this amusing proof, also demonstrate that the world cannot be more
 
 In the second chapter, he first supposes certain Peripatetic truths:
 
-* **1°. That all natural bodies have within themselves the power to move themselves:** This he proves neither here nor elsewhere. On the contrary, he asserts in the first chapter of the second book of *Physics* that it is ridiculous to attempt to prove it because, he says, it is a thing self-evident; and that only those who cannot discern what is known by itself from what is not, pause to prove what is evident by what is obscure. But it has been shown elsewhere that it is absolutely false that natural bodies have within themselves the power to move themselves, and that this appears evident only to those who, like Aristotle, follow the impressions of their senses and make no use of their reason.
-* **2°. That all local motion occurs in a straight or circular line, or one composed of the straight and the circular:** But, if he did not wish to think about what he so rashly advances, he ought at least to have opened his eyes, and he would have seen that there are motions in an infinity of different ways that are not composed of the straight and the circular; or rather, he ought to have thought that motions composed of straight-line motions can occur in an infinity of ways, if one supposes that the component motions increase or decrease their speed in an infinity of different ways, as can be seen by what was said previously. There are, he says, only these two simple motions, the straight and the circular: therefore all motions are composed of those two. But he is mistaken: circular motion is not simple; one cannot conceive it without thinking of a point to which the moving body—or rather the motion—relates, and everything that encloses a relation is relative and not simple. But if one defines simple motion, as one ought, as that which always tends toward the same place, circular motion would be infinitely composite, since all the tangents of the circular line tend toward different places. One can define the circle in relation to the center; but to judge the simplicity of circular motion in relation to a point with respect to which there is no motion would be a very poor way to go about it.
-* **3°. That all simple motions are of three kinds: one from the center, another toward the center, and the third around the center:** But it is false that the last one is simple, as has already been said. It is also false that there are no simple motions except those that go from bottom to top and from top to bottom; for all motions in a straight line are simple, whether they approach or recede from the center, or whether they approach or recede from the poles or any other point. Every body, he says, is composed of three dimensions: therefore the motion of all bodies must have three simple motions. What a relationship between simple motions and dimensions! Furthermore, every body has three dimensions, and no body has a motion composed of these three simple motions.
-* **4°. He supposes that bodies are either simple or composite:** And he says that simple bodies are those that have within themselves some power that moves them, like fire, earth, etc., and that composite bodies receive their motion from those that compose them. But, in this sense, there are no simple bodies, for there are none that have within themselves any principle of their motion; there are also no composite bodies, since composites suppose the simples which do not exist. Thus, there would be no bodies at all. What an imagination, to define the simplicity of bodies by a power to move themselves! What distinct ideas can one attach to these words "simple bodies" and "composite bodies" if simple bodies are defined only in relation to an imaginary force of motion?
+1. All natural bodies have within themselves the power to move themselves
+
+This he proves neither here nor elsewhere. 
+
+On the contrary, he asserts in Chapter 1 of Book 2 of *Physics* that it is ridiculous to attempt to prove it because:
+- it is self-evident
+- only those who cannot discern what is known by itself from what is not, pause to prove what is evident by what is obscure. 
+
+But it has been shown elsewhere that:
+- it is absolutely false that natural bodies have within themselves the power to move themselves
+- this appears evident only to those who, like Aristotle, follow the impressions of their senses and make no use of their reason.
+
+2. All local motion occurs in a straight or circular line, or one composed of the straight and the circular
+
+But, if he did not wish to think about what he so rashly advances, he ought at least to have opened his eyes, and he would have seen that there are motions in an infinity of different ways that are not composed of the straight and the circular; or rather, he ought to have thought that motions composed of straight-line motions can occur in an infinity of ways, if one supposes that the component motions increase or decrease their speed in an infinity of different ways, as can be seen by what was said previously. 
+
+There are, he says, only these two simple motions, the straight and the circular: therefore all motions are composed of those two. But he is mistaken: circular motion is not simple; one cannot conceive it without thinking of a point to which the moving body—or rather the motion—relates, and everything that encloses a relation is relative and not simple. 
+
+But if one defines simple motion, as one ought, as that which always tends toward the same place, circular motion would be infinitely composite, since all the tangents of the circular line tend toward different places. One can define the circle in relation to the center; but to judge the simplicity of circular motion in relation to a point with respect to which there is no motion would be a very poor way to go about it.
+
+
+3. All simple motions are of 3 kinds:
+- one from the center
+- another toward the center
+- around the center
+
+But it is false that the last one is simple. It is also false that there are no simple motions except those that go from bottom to top and from top to bottom; for all motions in a straight line are simple, whether they approach or recede from the center, or whether they approach or recede from the poles or any other point. Every body, he says, is composed of 3 dimensions: therefore the motion of all bodies must have three simple motions. What a relationship between simple motions and dimensions! Furthermore, every body has three dimensions, and no body has a motion composed of these three simple motions.
+
+4. He supposes that bodies are either simple or composite.
+
+He says that simple bodies are those that have within themselves some power that moves them, like fire, earth, etc., and that composite bodies receive their motion from those that compose them.
+
+But, in this sense, there are no simple bodies, for there are none that have within themselves any principle of their motion; there are also no composite bodies, since composites suppose the simples which do not exist. Thus, there would be no bodies at all. What an imagination, to define the simplicity of bodies by a power to move themselves! 
+
+What distinct ideas can one attach to these words "simple bodies" and "composite bodies" if simple bodies are defined only in relation to an imaginary force of motion?
+
 
 
 ### The Nature of the Heavens and the "Evil Genius" of Aristotelian Logic
 
-But let us see the consequences he draws from these principles:
+What are the consequences he draws from these principles:
 
-> Circular motion is a simple motion; the heavens move circularly: therefore their motion is simple. Now, simple motion can only belong to a simple body, that is to say, to a body that moves by its own forces: therefore the heavens are a simple body, distinct from the four elements, which move along straight lines.
+> Circular motion is a simple motion. The heavens move circularly. Therefore their motion is simple. Simple motion can only belong to a simple body -- to a body that moves by its own forces. Therefore, the heavens are a simple body, distinct from the four elements, which move along straight lines.
 
-It is quite evident that this entire reasoning contains nothing but false and absurd propositions. Let us examine his other proofs, for he brings forward many wretched ones to prove a thing as useless as it is false.
+This entire reasoning contains only false and absurd propositions.
 
-**His second reason** for proving that the heavens are a simple body distinct from the four elements supposes that there are two kinds of motions: one natural, and the other contrary to nature or violent. But it is clear enough to all those who judge things by clear ideas that, since bodies have no nature or principle of their motion themselves (as Aristotle understands it), there is no violent motion or motion contrary to nature. It is indifferent to all bodies to be moved or not to be moved: to be moved in one direction or to be moved in another. But Aristotle, who judges things by the impressions of the senses, imagines that bodies which, by the laws of the communication of motion, always place themselves in such a situation with respect to others, do so by themselves because they are better off there and because it is more conformable to their nature.
+Let us examine his other proofs, for he brings forward many wretched ones to prove a thing as useless as it is false.
+
+**His second reason** for proving that the heavens are a simple body distinct from the four elements supposes that there are two kinds of motions: one natural, and the other contrary to nature or violent. 
+
+But it is clear enough to all those who judge things by clear ideas that, since bodies have no nature or principle of their motion themselves (as Aristotle understands it), there is no violent motion or motion contrary to nature. It is indifferent to all bodies to be moved or not to be moved: to be moved in one direction or to be moved in another. 
+
+But Aristotle, who judges things by the impressions of the senses, imagines that bodies which, by the laws of the communication of motion, always place themselves in such a situation with respect to others, do so by themselves because they are better off there and because it is more conformable to their nature.
 
 Here, then, is Aristotle's reasoning:
 
-> The circular motion of the heavens is either natural or contrary to nature. If it is natural to them, as was just said, the heavens are a simple body distinct from the elements, since the elements do not move circularly by their natural motion. If the circular motion is contrary to the nature of the heavens, then the heavens must be one of the elements, like fire, or something else. The heavens cannot be any of the elements; for instance, if the heavens were made of fire, the natural motion of fire being from bottom to top, the heavens would have two contrary motions, the circular and that from bottom to top; which cannot be, since a body cannot have two contrary motions. If the heavens are some other body that does not move circularly by its nature, it will have some other natural motion, which cannot be. For if it moves by its nature from bottom to top, it will be fire or air; if from top to bottom, it will be water or earth: therefore, etc.
+> The circular motion of the heavens is either natural or contrary to nature. 
+
+He says that:
+- if it is natural to them, the heavens are a simple body distinct from the elements, since the elements do not move circularly by their natural motion. 
+- If the circular motion is contrary to the nature of the heavens, then the heavens must be one of the elements, like fire, or something else. 
+
+The heavens cannot be any of the elements; for instance, if the heavens were made of fire, the natural motion of fire being from bottom to top, the heavens would have two contrary motions, the circular and that from bottom to top; which cannot be, since a body cannot have two contrary motions. If the heavens are some other body that does not move circularly by its nature, it will have some other natural motion, which cannot be. For if it moves by its nature from bottom to top, it will be fire or air; if from top to bottom, it will be water or earth: therefore, etc.
 
 I do not pause to point out in detail the absurdities of these reasonings; I say only in general that what Aristotle says here signifies nothing distinct, and that there is nothing true or even conclusive in it.
 
@@ -60,12 +104,18 @@ Finally, circular motion is either natural or violent to some body. If it is nat
 This is how Aristotle reasons. But I defy the most intelligent of his interpreters to attach distinct ideas to the terms he uses, and to show that this philosopher begins with the simplest things before speaking of the most composite, which is absolutely necessary for reasoning justly, as I have just proved.
 
 
-## Chapter-by-Chapter Errors in Book I of *On the Heavens*
+## Chapter-by-Chapter Errors in Book 1 of *On the Heavens*
 
-If I did not fear being tedious, I would translate a few more chapters of Aristotle. But besides the fact that one takes little pleasure in reading him in French (that is to say, when one understands him), I have sufficiently shown, by the little I have set forth, that his manner of philosophizing is entirely useless for discovering the truth. For since he himself says in the fifth chapter of this book that those who mistake at first in something are ten thousand times more mistaken if they advance far, it being visible that he does not know what he says in the first two chapters of his book, one must believe that it is not safe to yield to his authority without examining his reasons. But so that one may be even more persuaded of this, I will show that there is no chapter in this first Book where there is not some impertinence.
+Aristotle's manner of philosophizing is entirely useless for discovering the truth. 
 
-* **In the third chapter**, he says that the heavens are incorruptible and incapable of any alteration; he brings forward several rather playful proofs for this, such as that it is the dwelling place of the immortal gods, and that no change has ever been noticed there. The last of these proofs would be good enough if he said that someone had returned from there, or that he had been close enough to the celestial bodies to notice their changes. But I do not know if today anyone would yield to his authority, because telescopes teach us the contrary.
-* **In the fourth chapter**, he pretends to prove that circular motion has no contrary. Nevertheless, it is manifest that motion from east to west is contrary to that which occurs from west to east.
+He himself says in Chapter 5 that those who mistake at first in something are 10,000 times more mistaken if they advance far, it being visible that he does not know what he says in the first two chapters of his book, one must believe that it is not safe to yield to his authority without examining his reasons. 
+
+But so that one may be even more persuaded of this, I will show that there is no chapter in this first Book where there is not some impertinence.
+
+- In Chapter 3 he says that the heavens are incorruptible and incapable of any alteration; he brings forward several rather playful proofs for this, such as that it is the dwelling place of the immortal gods, and that no change has ever been noticed there. The last of these proofs would be good enough if he said that someone had returned from there, or that he had been close enough to the celestial bodies to notice their changes. But I do not know if today anyone would yield to his authority, because telescopes teach us the contrary.
+
+- In Chapter 4, he pretends to prove that circular motion has no contrary. Nevertheless, it is manifest that motion from east to west is contrary to that which occurs from west to east.
+
 * **In the fifth chapter**, he poorly proves that bodies are not infinite, because he draws his proof from the motions of simple bodies. For what prevents there being, above his *primum mobile*, some further extension that is without motion?
 * **In the sixth chapter**, he amuses himself uselessly by proving that the elements are not infinite. For who can doubt it, when one supposes, as he does, that they are enclosed within the heavens that surround them? But he makes himself ridiculous when he decides to prove it by their weight (*pesanteur*) and their lightness (*légèreté*). If the elements were infinite, he says, there would be an infinite weight and lightness, which cannot be. Therefore, etc. Those who wish to know his proof more at length may read it in his books; I should think it a waste of time to report it.
 * **In the seventh chapter**, he continues to prove that bodies are not infinite, and his first proof supposes that it is necessary for every body to be in motion, which he does not prove and which cannot be proved.
@@ -74,6 +124,7 @@ If I did not fear being tedious, I would translate a few more chapters of Aristo
 * **In the tenth chapter**, he asserts that the world is eternal, because it cannot be that it began to be and yet lasts forever, since we see that everything that is made corrupts over time. He learned this from his senses. But who taught him that the world will last forever?
 * **In the eleventh chapter**, he employs himself in explaining what is meant by "incorruptible," as if ambiguity were greatly to be feared and he were to make great use of his explanation. Yet this term "incorruptible" is so clear by itself that Aristotle does not trouble himself to explain either in what sense it must be taken, or in what sense he takes it. It would have been more proper had he defined an infinity of terms he uses, which awaken nothing but sensible ideas, for one might perhaps have learned something by reading his works.
 * **In the final chapter of this first book**, he tries to show that the world is incorruptible because it cannot be that it began and yet lasts eternally. All things, he says, subsist during a finite or infinite time. But what is infinite only in one sense is neither finite nor infinite. Therefore nothing can subsist in this manner.
+
 
 This is the manner in which reasons the prince of philosophers and the genius of nature, who, instead of making known by clear and distinct ideas the true cause of natural effects, establishes a pagan philosophy upon the false and confused ideas of the senses, or upon ideas too general to be useful in the search for truth.
 
@@ -85,13 +136,24 @@ I do not reproach Aristotle here for not knowing that God created the world in t
 
 But in order to be convinced that the "genius of nature" will never discover its secrets or its springs to men, it is proper that I show that the principles upon which this philosopher reasons to explain natural effects have no solidity.
 
-It is evident that one can discover nothing in physics if one does not begin with the simplest bodies, that is to say, with the elements; for elements are the bodies into which all others resolve, because they are contained in them either actually or potentially—it is thus that Aristotle defines them. But one will not find in the works of Aristotle that he explained by a distinct idea these simple bodies into which he pretends the others resolve, and consequently, his elements not being clearly known, it is impossible to discover the nature of the bodies composed of them.
+One can discover nothing in physics if one does not begin with the simplest bodies, that is to say, with the elements; for elements are the bodies into which all others resolve, because they are contained in them either actually or potentially—it is thus that Aristotle defines them. 
 
-This philosopher says indeed that there are four elements—fire, air, water, and earth—but he does not clearly make known their nature; he gives no distinct idea of them; he does not even want his elements to be the fire, air, water, and earth that we see; for after all, if that were so, we should at least have some knowledge of them through our senses. It is true that in several places in his works he tries to explain them by the qualities of heat and cold, moisture and dryness, weight and lightness. But this manner of explaining them is so impertinent and ridiculous that one cannot conceive how so many learned men have content themselves with it. This is what I am going to show.
+But one will not find in the works of Aristotle that he explained by a distinct idea these simple bodies into which he pretends the others resolve, and consequently, his elements not being clearly known, it is impossible to discover the nature of the bodies composed of them.
 
-### Aristotle's Derivation of the Four Elements
+This philosopher says indeed that there are four elements—fire, air, water, and earth—but he does not clearly make known their nature; he gives no distinct idea of them; he does not even want his elements to be the fire, air, water, and earth that we see; for after all, if that were so, we should at least have some knowledge of them through our senses.
 
-Aristotle pretends, in his book *On the Heavens*, that the earth is at the center of the world, and that all the bodies it pleases him to call simple (because he supposes that they move by their nature) must move by simple motions. He asserts that besides circular motion—which he maintains is simple and by which he proves that the sky is a simple body—there are only two that are simple: one from top to bottom (or from the circumference toward the center), and the other from bottom to top (or from the center toward the circumference). He claims these simple motions belong to simple bodies, and consequently that earth and fire are simple bodies, of which one is entirely heavy and the other entirely light.
+On several places in his works he tries to explain them by the qualities of heat and cold, moisture and dryness, weight and lightness. But this manner of explaining them is so impertinent and ridiculous that one cannot conceive how so many learned men have content themselves with it. This is what I am going to show.
+
+
+## Aristotle's Derivation of the Four Elements
+
+Aristotle pretends, in *On the Heavens*, that:
+- the earth is at the center of the world
+- all the bodies it pleases him to call simple (because he supposes that they move by their nature) must move by simple motions. 
+
+He asserts that besides circular motion—which he maintains is simple and by which he proves that the sky is a simple body—there are only two that are simple: one from top to bottom (or from the circumference toward the center), and the other from bottom to top (or from the center toward the circumference). 
+
+He claims these simple motions belong to simple bodies, and consequently that earth and fire are simple bodies, of which one is entirely heavy and the other entirely light.
 
 But because weight and lightness can belong to a body either entirely or in part, he concludes that there are yet two other elements or simple bodies, of which one is light in part and the other heavy in part—namely, water and air. This is how he proves that there are four elements and no more.
 
@@ -102,9 +164,14 @@ But because weight and lightness can belong to a body either entirely or in part
 | **Water** | Heavy in part | Downward |
 | **Earth** | Entirely heavy | Circumference to center (Downward) |
 
-It is evident to those who examine the opinions of men by their own reason that all these propositions are false, or at least that they cannot pass for clear and incontestable principles of which one has very clear and distinct ideas. There is nothing more absurd than wanting to establish the number of elements by imaginary qualities of weight and lightness, saying without any proof that there are bodies which are heavy and others which are light by their nature.
+
+
+All these propositions are false, or at least that they cannot pass for clear and incontestable principles of which one has very clear and distinct ideas.
+
+There is nothing more absurd than wanting to establish the number of elements by imaginary qualities of weight and lightness, saying without any proof that there are bodies which are heavy and others which are light by their nature.
 
 It is therefore ridiculous to suppose, as incontestable principles, that bodies are light or heavy by their nature; on the contrary, it is evident that no body has in itself the power to move itself, and that it is indifferent to it to be moved from top to bottom, or from bottom to top; from east to west, or from west to east.
+
 
 ### The Breakdown of the Four Qualities
 

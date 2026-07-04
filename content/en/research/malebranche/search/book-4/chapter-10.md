@@ -10,7 +10,6 @@ date: 2026-06-20
 
 
 
-
 The preceding 3 chapters spoke of the inclination we have for the preservation of our being, and how it causes us to fall into several errors. 
 
 I now speak of that which we have for well-being—that is, for pleasures and for all things that make us happier and more content, or that we believe capable of this—and we shall try to discover the errors that arise from this inclination.

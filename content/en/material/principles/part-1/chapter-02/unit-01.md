@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Unit 1"
 title: Sublayers
 # title: "The Upper, Middle, Lower Aethereal Sublayers"
 # date: 2020-11-26
@@ -128,6 +128,3 @@ When I heard Bashar explain a similar mechanism in the brain, then the Superphys
 Then we applied it to:
 - the Layer Model of Material Superphysics, and
 - the Elements Model of Bio Superphysics
-
-
-

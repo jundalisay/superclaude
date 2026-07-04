@@ -10,15 +10,32 @@ date: 2026-06-20
 
 
 
-Of all our inclinations in general, in the sense I explained in the first chapter, there remains only that which we have for those with whom we live and for all the objects surrounding us. Of this I shall say almost nothing, because it pertains more to morals and politics than to our subject.
+<!-- Of all our inclinations in general, in the sense I explained in the first chapter, there remains only that which we have for those with whom we live and for all the objects surrounding us. Of this I shall say almost nothing, because it pertains more to morals and politics than to our subject.
 
-Since this inclination is always joined with the passions, it might be more appropriate to speak of it only in the following book; but order is not of such great consequence in this matter.
+Since this inclination is always joined with the passions, it might be more appropriate to speak of it only in the following book; but order is not of such great consequence in this matter. -->
 
-## The third natural inclination, which is the friendship we have for other men
 
-To properly understand the cause and effects of this natural inclination, we must know that God loves all His works, and that He unites them closely with one another for their mutual preservation; for, loving unceasingly the works He produces, since it is His love that produces them, He also unceasingly imprints in our hearts a love for His works, since He unceasingly produces in our hearts a love similar to His own.
+## The third natural inclination: Friendship
 
-And so that the natural love we have for ourselves might not annihilate or weaken too greatly that which we have for things outside us, and that on the contrary these two loves that God places in us might sustain and strengthen each other, He has bound us in such a way to everything that surrounds us, and principally to beings of our own kind, that their misfortunes afflict us naturally, that their joy rejoices us, and that their greatness, their abasement, their diminution, seems to increase or diminish our own being. The new dignities of our relatives and friends, the new acquisitions of those most closely related to us, the conquests and victories of our prince, and even the new discoveries of the New World, seem to add something to our substance. Holding to all these things, we rejoice in their greatness and extent; we would even wish that this world had no bounds; and this thought of certain philosophers, that the stars and vortices are infinite, not only seems worthy of God, but also appears very agreeable to man, who feels a secret joy in being part of the infinite; because, however small he is in himself, it seems to him that he becomes as if infinite by spreading himself into the infinite beings that surround him.
+<!-- is the friendship we have for other men -->
+
+To properly understand the cause and effects of this natural inclination, we must know that 
+
+God:
+- loves all His works
+- unites them closely with one another for their mutual preservation
+
+It is His love that produces His works. 
+
+He also unceasingly imprints in our hearts a love for His works, since He unceasingly produces in our hearts a love similar to His own.
+
+So that the natural love we have for ourselves might not annihilate or weaken too greatly that which we have for things outside us, and that on the contrary these two loves that God places in us might sustain and strengthen each other, He has bound us in such a way to everything that surrounds us, and principally to beings of our own kind, that their misfortunes afflict us naturally, that their joy rejoices us, and that their greatness, their abasement, their diminution, seems to increase or diminish our own being. 
+
+The new dignities of our relatives and friends, the new acquisitions of those most closely related to us, the conquests and victories of our prince, and even the new discoveries of the New World, seem to add something to our substance. Holding to all these things, we rejoice in their greatness and extent; we would even wish that this world had no bounds;
+
+Certain philosophers think that the stars and vortices are infinite.
+
+This idea seems worthy of God and is very agreeable to man who feels a secret joy in being part of the infinite; because, however small he is in himself, it seems to him that he becomes as if infinite by spreading himself into the infinite beings that surround him.
 
 It is true that the union we have with all the bodies that roll in these vast spaces is not very close. Thus, it is not perceptible to most men, and there are some who take so little interest in the discoveries made in the heavens that one might well believe they are not united to them by nature, if one did not know otherwise that this is either for lack of knowledge, or because they cling too much to other things.
 

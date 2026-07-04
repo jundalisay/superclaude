@@ -16,39 +16,62 @@ aliases:
 ---
 
 
-<!-- ### The Third Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
 [The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. 
 
 The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller.
 
-<!-- We put this law as the Second Law because it is the domain of the Thinker Class (intellectuals) which is the Third Class in the Socratic Social Cycles Theory.  -->
-
-
-## What is Real Value?
-
-- Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
-- Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
-
-The Second Law of Value states that **value goes from areas with high value to areas with low value in order to spread out the value and remove the lack in society**. 
+It states: **"Exchangeable Value goes from areas with high value to areas with low value in order to spread and remove the lack in society."**
 
 We simplify this to: **value is created to remove the lack in society.** 
 
-This mirrors the First Law of Thermodynamics, known as the law of conservation of energy*. That law states that energy cannot be destroyed. Instead, it merely changes forms.
+This also mirrors the First Law of Thermodynamics, known as the law of conservation of energy. It states that energy cannot be created nor destroyed but merely changes forms.
 
 {{< i s="/graphics/econ/law2.png" a="Second Law" >}}
 
 > Value is created to remove the lack in society
 
-<!-- n n="*It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces" -->
+
+```
+F = (V↑ - V↓) / E
+```
+- **F**: Flow or Force (such as the force of capital)
+- **V↑**: high value perception
+- **V↓**: low value perception
+- **E**: effort (toil and trouble) -- this is the Invisible Hand Function
+
+Economic activity or flow is highest when there is a difference between value-perceptions, and Effort is minimal. We call this difference as "primary arbitrage".
+
+Economic flow is lowest when there is no difference between value-perceptions, and Effort is high. Effort is naturally lowest if it matches the dharma or purpose of the entity making the effort.
+
+
+## What is Real Value?
+
+Real value is the exchangeable value from the perspective of the producer or seller.
+
+It represents the effort, trouble, hardship, and sentimentalism that is put into the product or service by its owner or seller.
+
+In Economics, this is called cost. 
+
+<!-- This leads to [the Effort theory of value](/social/economics/principles/part-2/chapter-01b/) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
+- Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner -->
+
+
+Economics | Supereconomics | Perspective
+--- | --- | ---
+Buyer's Price | Nominal Price | Buyer (1st Law)
+Cost | Real Price |  Seller (2nd Law)
+Long Run Cost | Natural Price |  Seller (3rd Law)
+Market | Market Price |  Buyer (4th Law)
+
 
 
 ### Value Creation from Nothing to Something
 
-The 2nd Law directly addresses the 1st Law which is about everything having value to a mind. 
+The 2nd Law directly addresses the 1st Law which is about everything having relational exchangeable value to a mind. 
 
 The mind assigns this value because it has needs and desires that can be addressed by that thing. 
-- A valuable thing addreses a huge desire
+- A valuable thing addresses a huge desire
 - A low-value thing addresses a small desire
 - A worthless thing addresses no desire
 
@@ -60,10 +83,10 @@ This can be done by:
 
 This leads to a flow of value from the 1st to the 4th Law and back to the 1st. 
 
-{{< i s="/graphics/econ/liberal.jpg" a="DCIT model" >}}
 
+Supereconomics studies and implements the mechanisms and policies to make this this flow sustainable while spreading value to all.
 
-Supereconomics studies and implements the mechanisms and policies to make this this flow sustainable while spreading value to all, even to plants and animals.
+<!-- , even to plants and animals. -->
 
 Without a society, only the 1st and 2nd Laws are needed. 
 
@@ -74,8 +97,7 @@ For example, if you are a hungry caveman, then you pick up fruits and berries to
 
 In this case, there is no need for a market price (4th Law) or a systemic way for production and trade (3rd Law) such as employing a 3rd party to check if the fruits are safe to eat. 
 
-
-The main concept in the 2nd Law is the real effort in producing goods and services. This is formalized as the Effort Theory of Value which leads to the concept of Real Price. 
+This leads to personal economics or budgeting, instead of the full science of Supereconomics. 
 
 <!-- The instability is a sign of Nature’s inherent dynamism*. In Supereconomics, this manifests as the concept of Absolute Demand mentioned in the Part 1 and does not exist in Economics. 
 
@@ -97,3 +119,7 @@ The resulting concepts from the Second Law of Value are:
 - Primary arbitrage
 - Wholesale
 - The Philosopher class or cycle
+
+
+The main concept in the 2nd Law is the real effort in producing goods and services. This is formalized as the Effort Theory of Value which focuses on the Real Price. 
+

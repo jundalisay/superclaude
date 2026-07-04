@@ -18,26 +18,57 @@ We have already observed that just as a piece of wax cannot receive several dist
 
 Yet most students pay no heed to this. They do not test their own abilities, nor do they reflect on how far their understanding can reach. It is secret vanity and an uncontrolled desire for knowledge—not reason—that guides their studies. Without consulting reason, they attempt to penetrate the most obscure and impenetrable truths, and to solve questions involving so many connections that even the sharpest and most penetrating mind could arrive at complete certainty only after centuries of work and an almost infinite number of experiments.
 
-Medicine and ethics contain a great many questions of this kind. All sciences dealing with the details of bodies and their specific properties—such as those of animals, plants, and metals—can never be rendered sufficiently clear or certain, especially if they are not approached in a new way and if one does not begin with the simpler, more elementary sciences upon which they depend. Yet students refuse to take the trouble to follow a systematic order in their inquiries. They cannot agree on the certainty of physical principles; they admit themselves that they do not understand the general nature of bodies or their fundamental qualities. Even so, they imagine they can explain, for example, why the hair of old men turns white and their teeth grow black, and other similar questions that depend on so many causes that no certain explanation can ever be given. To do so, one would need to know exactly what makes hair white in particular, the bodily fluids that nourish it, the internal filters that allow these fluids to pass, the structure of the hair roots and the skin through which they grow, and how all these things differ between a young person and an old man—something that is either impossible or at least extremely difficult to know.
+Medicine and ethics have many questions of this kind.
+
+All sciences dealing with the details of bodies and their specific properties—such as those of animals, plants, and metals—can never be rendered certain especially if:
+- they are not approached in a new way
+- one does not begin with the simpler, more elementary sciences upon which they depend. 
+
+Yet students refuse to take the trouble to follow a systematic order in their inquiries.
+
+They cannot agree on the certainty of physical principles; they admit themselves that they do not understand the general nature of bodies or their fundamental qualities. Even so, they imagine they can explain, for example, why the hair of old men turns white and their teeth grow black, and other similar questions that depend on so many causes that no certain explanation can ever be given. 
+
+To do so, one would need to know exactly what makes hair white in particular, the bodily fluids that nourish it, the internal filters that allow these fluids to pass, the structure of the hair roots and the skin through which they grow, and how all these things differ between a young person and an old man—something that is either impossible or at least extremely difficult to know.
 
 
 ## Example drawn from Aristotle
 
-Aristotle claimed to know the cause of graying hair in old age; he offered several explanations in different parts of his works. But because of his natural inclination to explain everything, he did not stop there. He went on to discover that the very same cause which turns hair white is also responsible for why some people and some horses have one blue eye and one eye of a different color. Here are his own words:
+Aristotle claimed to know the cause of graying hair in old age.
+
+He offered several explanations.
+
+But because of his natural inclination to explain everything, he did not stop there. 
+
+He went on to discover that the very same cause which turns hair white is also responsible for why some people and some horses have one blue eye and one eye of a different color. Here are his own words:
 
 > *“Men and horses often have eyes of different colors for the same reason that a man’s hair turns gray.”*
 
-This is quite remarkable, but nothing seemed hidden from this great thinker. He offers explanations for so many phenomena in nearly all his works on natural philosophy—phenomena that even the most learned minds of our time consider beyond understanding—that people have rightly said of him that he was given to us by God so that we might be ignorant of nothing that can be known. “The doctrine of Aristotle is supreme truth, for his intellect represents the highest limit of human understanding. Hence it is rightly said that he was created and bestowed upon us by divine providence, so that we might not remain unaware of what it is possible to know.” Averroes even went so far as to say that divine providence gave us Aristotle to teach us what it is *impossible* to know. For indeed, this philosopher does not only teach us what can be known; if we are to take him at his word—since his doctrine is supreme truth—he also teaches us what cannot possibly be known.
+This is remarkable, but nothing seemed hidden from this great thinker. 
+
+He offers explanations for so many phenomena in nearly all his works on natural philosophy—phenomena that even the most learned minds of our time consider beyond understanding—that people have rightly said of him that he was given to us by God so that we might be ignorant of nothing that can be known. 
+
+“The doctrine of Aristotle is supreme truth, for his intellect represents the highest limit of human understanding. Hence it is rightly said that he was created and bestowed upon us by divine providence, so that we might not remain unaware of what it is possible to know.” Averroes even went so far as to say that divine providence gave us Aristotle to teach us what it is *impossible* to know. 
+
+For indeed, this philosopher does not only teach us what can be known; if we are to take him at his word—since his doctrine is supreme truth—he also teaches us what cannot possibly be known.
 
 One must truly have great faith to accept Aristotle’s claims when he offers nothing but logical arguments and explains natural phenomena only through vague impressions derived from the senses—especially when he makes bold pronouncements on questions that do not seem capable of any human solution. And Aristotle himself takes special care to remind us that we must believe him on his authority; for he states it as an unassailable axiom that “the student must believe.”
 
-It is true that students are sometimes obliged to trust their teachers, but only concerning observed facts and experiences. If they wish to become true philosophers, they must examine the reasoning behind what they are taught and accept it only when they recognize its clarity through their own judgment. But to become a follower of Aristotle, one need only believe and memorize. The same mental attitude required for reading history is sufficient for reading his philosophy; for if one dares to use one’s own mind and reason, one cannot hope to become a great philosopher—since, as he says, “the student must believe.”
 
-The reason Aristotle and so many other philosophers claimed to know what cannot be known is that they failed to distinguish properly between different kinds of knowledge—between having certain, evident understanding and having only a probable opinion. They failed to make this distinction because the subjects they studied were always far more extensive than their own minds could grasp. As a result, they usually saw only parts of the whole, without being able to take everything into account at once. This is enough to arrive at many plausible ideas, but not enough to discover the truth with certainty. Moreover, because they pursued knowledge only out of vanity—and because plausible opinions often win more admiration from others than does the truth itself, since they are better suited to the ordinary limits of human understanding—they neglected to seek the methods necessary to expand and strengthen the mind. Thus they could never penetrate the deeper meaning of truths that are even slightly hidden.
+Students are sometimes obliged to trust their teachers, but only concerning observed facts and experiences. If they wish to become true philosophers, they must examine the reasoning behind what they are taught and accept it only when they recognize its clarity through their own judgment. But to become a follower of Aristotle, one need only believe and memorize. 
+
+The same mental attitude required for reading history is sufficient for reading his philosophy; for if one dares to use one’s own mind and reason, one cannot hope to become a great philosopher—since, as he says, “the student must believe.”
+
+Aristotle and so many other philosophers claimed to know what cannot be known is that they failed to distinguish properly between different kinds of knowledge—between having certain, evident understanding and having only a probable opinion. 
+
+They failed to make this distinction because the subjects they studied were always far more extensive than their own minds could grasp. As a result, they usually saw only parts of the whole, without being able to take everything into account at once. This is enough to arrive at many plausible ideas, but not enough to discover the truth with certainty. 
+
+They pursued knowledge only out of vanity—and because plausible opinions often win more admiration from others than does the truth itself, since they are better suited to the ordinary limits of human understanding—they neglected to seek the methods necessary to expand and strengthen the mind. 
+
+Thus they could never penetrate the deeper meaning of truths that are even slightly hidden.
 
 
-### By contrast, how geometers proceed correctly in the search for truth, especially those who use algebra and analysis
 
+## By contrast, how geometers proceed correctly in the search for truth, especially those who use algebra and analysis
 
 Only geometers have clearly recognized the narrow limits of the human mind; or at the very least, their method of study shows they understand this perfectly—especially those who use algebra and analysis, which Viète and Descartes have revived and perfected in our own time. This is evident in the fact that they never attempt to solve highly complex problems until they have fully mastered the simpler principles upon which those problems depend. They do not study curved lines such as conic sections until they have a firm command of basic geometry.
 

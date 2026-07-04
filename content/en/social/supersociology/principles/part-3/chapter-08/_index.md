@@ -1,8 +1,7 @@
 ---
 heading: "Chapter 8"
-title: "Warrior Philosophies"
-date: 2026-01-20
-weight: 400
+title: Philosophies
 description: ""
-image: "/photos/medieval/samurai.jpg"
+image: /photos/medieval/knight.jpg
+weight: 98
 ---

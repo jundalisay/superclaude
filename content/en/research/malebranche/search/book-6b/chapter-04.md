@@ -40,11 +40,22 @@ Vanity also gives a great impetus to minds to throw themselves first into the gr
 
 ## The Simplicity of Descartes vs. Scholastic Obscurity
 
-How many people reject the philosophy of M. Descartes for the amusing reason that its principles are too simple and too easy! There are no obscure and mysterious terms in this philosophy; women and persons who know neither Greek nor Latin are capable of learning it; therefore, they think, it must be a small thing, and it is not right that great geniuses should apply themselves to it. They imagine that principles so clear and simple are not fertile enough to explain the effects of nature, which they suppose to be obscure and entangled. They do not see at first the use of these principles, which are too simple and easy to hold their attention for the time necessary to recognize their utility and extent. They therefore prefer to explain effects whose cause they do not understand by principles they do not conceive—and which it is absolutely impossible to conceive—rather than by principles that are both simple and intelligible at once. For these philosophers explain obscure things by principles that are not only obscure, but entirely incomprehensible.
+So many people reject Descartes' philosophy because its principles are too simple and too easy!
+
+There are no obscure and mysterious terms in his philosophy.
+
+Women and persons who know neither Greek nor Latin are capable of learning it; therefore, they think, it must be a small thing, and it is not right that great geniuses should apply themselves to it.
+
+They imagine that principles so clear and simple are not fertile enough to explain the effects of nature, which they suppose to be obscure and entangled. 
+
+They do not see at first the use of these principles, which are too simple and easy to hold their attention for the time necessary to recognize their utility and extent. 
+
+They therefore prefer to explain effects whose cause they do not understand by principles they do not conceive—and which it is absolutely impossible to conceive—rather than by principles that are both simple and intelligible at once. For these philosophers explain obscure things by principles that are not only obscure, but entirely incomprehensible.
 
 When certain persons pretend to explain extremely entangled things by clear principles known to everyone, it is easy to see whether they succeed; because, if one conceives well what they say, one can recognize whether they speak the truth. Thus, false scholars do not find their account, and are not admired as they wish, when they use intelligible principles; for it is evidently recognized that they say nothing true. But when they use unknown principles, and speak of highly composite things as if they knew all their relations exactly, they are admired; because we do not conceive what they say, and we naturally have respect for what surpasses our intelligence.
 
 Now, as obscure and incomprehensible things seem to bind better with one another than obscure things do with those that are clear and intelligible, incomprehensible principles are of greater use than intelligible principles in highly composite questions. There is nothing so difficult that philosophers and physicians do not pretend to give a reason for it in a few words by their principles; for their principles being even more incomprehensible than all the questions one can put to them, when one supposes these principles to be certain, there is no difficulty that can embarrass them.
+
 
 ### Examples of Pseudo-Explanations
 
@@ -54,47 +65,71 @@ They answer, for example, boldly and without hesitating, to these obscure or ind
 
 And to other similar questions. Most men are quite satisfied with their answers, because the obscure and the incomprehensible accommodate each other well.
 
-But incomprehensible principles do not accommodate themselves easily to questions that are clearly stated and easy to resolve, because one evidently recognizes that they signify nothing. Philosophers cannot, by their principles, explain how horses draw a carriage, how dust stops a watch, how tripoli powder cleans metals, or how brushes clean clothes. For they would make themselves ridiculous to everyone if they supposed a motion of attraction and attractive faculties to explain why carriages follow the horses harnessed to them, or a detersive faculty in brushes to clean clothes, and so on for other questions. So their great principles are useful only for obscure questions, precisely because they are incomprehensible.
+But incomprehensible principles do not accommodate themselves easily to questions that are clearly stated and easy to resolve, because one evidently recognizes that they signify nothing. 
 
----
+Philosophers cannot, by their principles, explain how horses draw a carriage, how dust stops a watch, how tripoli powder cleans metals, or how brushes clean clothes. For they would make themselves ridiculous to everyone if they supposed a motion of attraction and attractive faculties to explain why carriages follow the horses harnessed to them, or a detersive faculty in brushes to clean clothes, and so on for other questions. So their great principles are useful only for obscure questions, precisely because they are incomprehensible.
+
 
 ## Constructing the Cartesian Universe: Extension, Figure, and Motion
 
-One must not, therefore, pause at any of all those principles that one does not know clearly and evidently, and which one can think some nations do not accept. One must consider with attention the ideas one has of **extension, figure, and local motion**, and the relations these things have among themselves. If one conceives these ideas distinctly, and finds them so clear that one is persuaded all nations have received them at all times, one must pause there and examine all their relations; but if one finds them obscure, one must seek others, if any can be found. For if, to reason without fear of being mistaken, it is necessary to always preserve evidence in one’s perceptions, one must reason only upon clear ideas and their clearly known relations.
+One must not, therefore, pause at any of all those principles that one does not know clearly and evidently, and which one can think some nations do not accept. One must consider with attention the ideas one has of **extension, figure, and local motion**, and the relations these things have among themselves.
+
+If one conceives these ideas distinctly, and finds them so clear that one is persuaded all nations have received them at all times, one must pause there and examine all their relations.
+
+But if one finds them obscure, one must seek others, if any can be found. For if, to reason without fear of being mistaken, it is necessary to always preserve evidence in one’s perceptions, one must reason only upon clear ideas and their clearly known relations.
 
 To consider the properties of extension in order, one must, as M. Descartes did, begin with their simplest relations, and pass from the simplest to the most composite—not only because this manner is natural and aids the mind in its operations, but also because God, always acting with order and by the simplest ways, this manner of examining our ideas and their relations will make us better know His works. And if one considers that the simplest relations are always those that present themselves first to the imagination when it is not determined to think of one thing rather than another, one will recognize that it suffices to look at things with attention and without preoccupation to enter into this order we prescribe and to discover highly composite truths, provided one does not wish to run too quickly from one subject to another.
+
 
 ### The Physics of Vortices (Tourbillons)
 
 If one then considers extension with attention, one conceives without difficulty that one part can be separated from another—that is to say, one easily conceives local motion, and that this local motion produces a figure in both of the bodies that are moved. Of all motions, the simplest and the first that presents itself to the imagination is motion in a straight line.
 
-Suppose, then, that there is some part of extension that moves by a motion in a straight line: it is necessary that the part found in the place where this first extension is going must move circularly to take the place the other leaves, and thus a circular motion is made. If one conceives an infinity of motions in a straight line, in an infinity of similar parts of this immense extension we are considering, it is likewise necessary that all these bodies, impeding one another, must all conspire by their mutual action and reaction—I mean by the mutual communication of all their particular motions—to move by a circular motion.
+Suppose that there is some part of extension [space] that moves in a straight line.
+
+it is necessary that the part found in the place where this first extension is going must move circularly to take the place the other leaves, and thus a circular motion is made.
+
+If one conceives an infinity of motions in a straight line, in an infinity of similar parts of this immense extension we are considering, it is likewise necessary that all these bodies, impeding one another, must all conspire by their mutual action and reaction—I mean by the mutual communication of all their particular motions—to move by a circular motion.
 
 This first consideration of the simplest relations of our ideas already makes us recognize the necessity of **M. Descartes’ vortices (*tourbillons*)**:
 
 * Their number will be all the greater as the straight-line motions of all the parts of extension, having been more contrary to one another, will have had more difficulty accommodating themselves to the same motion.
 * Of all these vortices, those will be the largest where there are more parts that have conspired in the same motion, or whose parts have had more force to continue their motion in a straight line.
 
+
 But care must be taken not to dissipate or fatigue one’s mind by applying it uselessly to the infinite number and immense grandeur of the vortices. One must first pause for some time at one of these vortices and investigate in order, and with attention, all the motions of the matter it contains, and all the figures with which all the parts of this matter must clothe themselves.
+
 
 ### The Two Elements: Spheres and Subtile Matter
 
-As only motion in a straight line is simple, one must first consider this motion as that according to which all bodies incessantly tend to move, since God always acts according to the simplest ways, and indeed bodies move circularly only because they find continual oppositions in their direct motions. Thus, all bodies not being of equal size, and those that are larger having more force to continue their motion in a straight line than the others, one easily conceives that the smallest of all bodies must be toward the center of the vortex, and the largest toward the circumference; since the lines conceived to be described by the motions of the bodies at the circumference approach closer to a straight line than those described by the bodies near the center.
+As only motion in a straight line is simple, one must first consider this motion as that according to which all bodies incessantly tend to move, since God always acts according to the simplest ways, and indeed bodies move circularly only because they find continual oppositions in their direct motions. 
+
+Thus, all bodies not being of equal size, and those that are larger having more force to continue their motion in a straight line than the others, one easily conceives that the smallest of all bodies must be toward the center of the vortex, and the largest toward the circumference; since the lines conceived to be described by the motions of the bodies at the circumference approach closer to a straight line than those described by the bodies near the center.
 
 If one thinks further that each part of this matter could not move at first, and incessantly find some opposition to its motion, without rounding itself and breaking its angles, one will easily recognize that all this extension will still be composed of only two kinds of bodies:
 
 1. **Round balls (The Second Element):** which turn incessantly on their center in several different ways, and which, besides their particular motion, are still carried along by the common motion of the vortex.
+
 2. **A highly fluid and agitated matter (The First Element / Subtile Matter):** which will have been engendered by the friction of the balls just mentioned.
 
 Besides the circular motion common to all parts of the vortex, this subtile matter will still have a particular motion in an almost straight line from the center of the vortex toward the circumference, through the intervals between the balls which leave them a free passage: so that their motion, composed of these motions, will be in a spiral line.
 
-This fluid matter, which M. Descartes calls the **first element**, being divided into parts much smaller, and having much less force to continue their motion in a straight line than the balls, or the **second element**; it is evident that this first element must be in the center of the vortex, and in the intervals between the parts of the second, and that the parts of the second must fill the rest of the vortex, and approach its circumference in proportion to the size or force they have to continue their motion in a straight line. As for the figure of the whole vortex, one cannot doubt, from what has just been said, that the distance from one pole to the other is much smaller than the line crossing the equator. And if one considers that the vortices surround one another and press upon one another unequally, one will see clearly that their equator is a curved, irregular line that can approach an ellipse.
+Descartes calls this fluid matter as the **1st element**.
 
----
+It is divided into parts much smaller, and having much less force to continue their motion in a straight line than the balls, or the **2nd element**.
+
+This 1st element must be in the center of the vortex, and in the intervals between the parts of the second, and that the parts of the second must fill the rest of the vortex, and approach its circumference in proportion to the size or force they have to continue their motion in a straight line. 
+
+As for the figure of the whole vortex, one cannot doubt, from what has just been said, that the distance from one pole to the other is much smaller than the line crossing the equator.
+
+If one considers that the vortices surround one another and press upon one another unequally, one will see clearly that their equator is a curved, irregular line that can approach an ellipse.
+
 
 ## Application to the Visible Universe
 
-These are the things that naturally present themselves to the mind when one considers with attention what must happen to the parts of extension that incessantly tend to move in a straight line—that is to say, by the simplest of all motions. If one now wishes to suppose something that seems highly worthy of the wisdom and power of God, namely: that He formed the universe all at once in the same state that its parts would have arranged themselves over time according to the simplest ways, and that He also preserves them by the same natural laws; in a word, if one wishes to apply our thoughts to the objects we see:
+These are the things that naturally present themselves to the mind when one considers with attention what must happen to the parts of extension that incessantly tend to move in a straight line—that is to say, by the simplest of all motions. 
+
+If one now wishes to suppose something that seems highly worthy of the wisdom and power of God, namely: that He formed the universe all at once in the same state that its parts would have arranged themselves over time according to the simplest ways, and that He also preserves them by the same natural laws; in a word, if one wishes to apply our thoughts to the objects we see:
 
 * One can judge that **the sun is the center of the vortex**.
 * That the corporeal **light** it sheds on all sides is nothing other than the continual effort of the small balls tending to recede from the center of the vortex.
@@ -105,21 +140,29 @@ One can deduce several other consequences from what I have just said; for the si
 * That the centers of these vortices are the **stars**, which are so many suns.
 * That the vortices surround one another, and are arranged in such a manner that they impede each other as little as possible in their motions, but things could not come to this without the weakest of the vortices being carried away and, as it were, swallowed up by the strongest.
 
-### Sunspots and the Formation of Planets (The Third Element)
+
+## Sunspots and the Formation of Planets (The Third Element)
 
 The 1st element, which is in the center of a vortex, can escape and does incessantly escape through the intervals of the balls toward the circumference of the same vortex.
 
 While this center or star empties itself through its equator, it must receive other first element back through its poles. For this star cannot empty itself on one side without filling itself on the other, since there is no vacuum in the world, as I suppose here, and as it is easy to prove by natural effects—by the transmission of light, for example.
 
-But as there can be an infinity of causes that can prevent much of the first element from entering this star of which we speak, it is necessary that the parts of the first element obliged to stop there must accommodate themselves to move in the same direction. This is what causes them to attach and bind to one another, forming **spots** which, thickening into crusts, gradually cover this center and turn the most subtile and agitated of all bodies into a solid and coarse matter. This is the coarse matter that M. Descartes calls the **third element**; and it must be noted that as it is engendered from the first, whose figures are infinite, it must be clothed in an infinity of different forms.
+But as there can be an infinity of causes that can prevent much of the first element from entering this star of which we speak, it is necessary that the parts of the first element obliged to stop there must accommodate themselves to move in the same direction. This is what causes them to attach and bind to one another, forming **spots** which, thickening into crusts, gradually cover this center and turn the most subtile and agitated of all bodies into a solid and coarse matter. 
 
-This star, thus covered with spots and crusts, and having become like the other planets, no longer has the force to sustain and defend its vortex against the continual effort of those surrounding it. This vortex therefore gradually diminishes; the matter composing it spreads out on all sides, and the strongest of the surrounding vortices carries away the greater part of it, finally enveloping the planet that is its center. This planet, finding itself entirely surrounded by the matter of this great vortex, swims in it, preserving—with some small amount of the matter of its own vortex—the circular motion it had before; and it finally takes a position that puts it in equilibrium with an equal volume of the matter in which it swims.
+Descartes calls this coarse matter as the **3rd element**.
+
+It is engendered from the first, whose shapes are infinite. And so it must be clothed in an infinity of different forms.
+
+This star, thus covered with spots and crusts, and having become like the other planets, no longer has the force to sustain and defend its vortex against the continual effort of those surrounding it. This vortex therefore gradually diminishes; the matter composing it spreads out on all sides, and the strongest of the surrounding vortices carries away the greater part of it, finally enveloping the planet that is its center. 
+
+This planet, finding itself entirely surrounded by the matter of this great vortex, swims in it, preserving—with some small amount of the matter of its own vortex—the circular motion it had before; and it finally takes a position that puts it in equilibrium with an equal volume of the matter in which it swims.
 
 * If it has little solidity and size, it descends very close to the center of the vortex that has enveloped it, because having little force to continue its motion in a straight line, it must place itself in the location of this vortex where an equal volume of the second element has as much force as it does to recede from the center; for it can only be in equilibrium in this location.
 * If this planet is larger and more solid, it must put itself in equilibrium in a place further removed from the center of the vortex.
 
+* And finally, if there is no place in the vortex where an equal volume of its matter has as much solidity as this planet—and consequently as much force to continue its motion in a straight line, because this planet will perhaps be very large and covered with very solid and thick crusts—it will not be able to stop in this vortex, since it cannot put itself in equilibrium with the matter composing it. This planet will therefore pass into other vortices; and if it finds no equilibrium there, it will not stop there either. 
 
-* And finally, if there is no place in the vortex where an equal volume of its matter has as much solidity as this planet—and consequently as much force to continue its motion in a straight line, because this planet will perhaps be very large and covered with very solid and thick crusts—it will not be able to stop in this vortex, since it cannot put itself in equilibrium with the matter composing it. This planet will therefore pass into other vortices; and if it finds no equilibrium there, it will not stop there either. So it will sometimes be seen to pass like **comets** when it is in our vortex and close enough to us for that; and it will not be seen for a long time when it is in other vortices, or in the extremity of ours.
+So it will sometimes be seen to pass like **comets** when it is in our vortex and close enough to us for that; and it will not be seen for a long time when it is in other vortices, or in the extremity of ours.
 
 
 ## The Mechanics of Moons and Planetary Orbits
@@ -136,6 +179,8 @@ All these planets turn on their center—the Earth in twenty-four hours, Mars in
 
 When Mars is opposite the sun, it is quite close to the earth, and it is extremely far from it when it is conjoined to it. It is the same for the superior planets, Jupiter and Saturn; for the inferior ones, like Mercury and Vénus, are never opposite the sun, properly speaking. The lines that all the planets seem to describe around the earth are not circles, but they approach closely to ellipses; and all these ellipses appear very different because of the different situations of the planets with respect to us. Finally, all that is noted with certainty in the heavens touching the motion of the planets accommodates itself perfectly to what has just been said of their formation according to the simplest ways.
 
+
+
 ### In Defense of Cartesian Vortices
 
 There are many people who look upon M. Descartes’ vortices as pure chimeras. However, nothing is easier to demonstrate, supposing:
@@ -147,9 +192,13 @@ These are two truths certain by experience. For it is clear that if Jupiter, for
 
 As for the fixed stars, experience teaches that there are some that diminish and disappear entirely, and that there are also some that appear completely new, and whose brilliance and size increase greatly. They increase or decrease as the vortices of which they are the centers receive more or less of the first element. We cease to see them when spots and crusts form there, and we begin to discover them when these spots that impede their brilliance are entirely dissipated.
 
-All these stars always keep the same distance among themselves, since they are the centers of vortices and are not carried away so long as they resist other vortices or remain stars. They are all brilliant like small suns, because, like the sun, they are the centers of vortices that are not yet conquered. They are all unequally distant from the earth, although they appear to the eye as if attached to a vault; for if the parallax of the closest with the furthest has not yet been noted by the different position of the earth from six months to six months, it is because this difference of position is not large enough, owing to the immense distance we are from the stars, to make this parallax sensible. Perhaps, by means of telescopes, one will be able to note some small amount of it. Finally, all that can be observed in the stars by the use of the senses and by experience is not different from what has just been discovered by the mind, in examining the simplest and most natural relations found between the parts and motions of extension.
+All these stars always keep the same distance among themselves, since they are the centers of vortices and are not carried away so long as they resist other vortices or remain stars. 
 
----
+They are all brilliant like small suns, because, like the sun, they are the centers of vortices that are not yet conquered. They are all unequally distant from the earth, although they appear to the eye as if attached to a vault; for if the parallax of the closest with the furthest has not yet been noted by the different position of the earth from six months to six months, it is because this difference of position is not large enough, owing to the immense distance we are from the stars, to make this parallax sensible. 
+
+Perhaps, by means of telescopes, one will be able to note some small amount of it. Finally, all that can be observed in the stars by the use of the senses and by experience is not different from what has just been discovered by the mind, in examining the simplest and most natural relations found between the parts and motions of extension.
+
+
 
 ## Terrestrial Physics and the Nature of Elements
 
@@ -183,12 +232,7 @@ Now, if coarse bodies have less motion, they certainly make less effort to go in
 
 
 
-
-
-
-
-
-
+<!-- 
 **Explanation of the second part of the general rule. That philosophers do not observe it, and that Mr. Descartes has observed it very exactly.**
 
 We have just shown into what errors one is capable of falling when one reasons on the false and confused ideas of the senses, and on the vague and indeterminate ideas of pure logic. Thereby one recognizes sufficiently that, in order to preserve evidence in one's perceptions, it is absolutely necessary to observe exactly the rule we have just prescribed, and to examine what are the clear and distinct ideas of things, so as to reason only according to those ideas.
@@ -277,4 +321,4 @@ Descartes thought that God had formed the world all at once. But he also believe
 
 This thought is worthy of the power and wisdom of God: of His power, since He made in a moment all his works in their greatest perfection; of His wisdom, since thereby He made known that He perfectly foresaw all that must necessarily happen in matter if it were agitated by the simplest ways, and also because the order of nature could not have subsisted if the world had been produced in a manner contrary to the laws of motion by which it is conserved, as I have just said.
 
-It is ridiculous to say that Mr. Descartes believed that the world could form itself by itself, since he recognized, like all those who follow the lights of reason, that no body can even move by its own forces, and that all the natural laws of the communication of motions are only consequences of the immutable wills of God, who acts incessantly in the same manner. Having proved that only God gives motion to matter, and that motion produces in all bodies all the different forms with which they are clothed, that was enough to take away from libertines all pretext for drawing any advantage from his system. On the contrary, if atheists made some reflection on the principles of this philosopher, they would soon find themselves constrained to recognize their errors, for if they can maintain, like the pagans, that matter is uncreated, they cannot likewise maintain that it was ever capable of moving by its own forces. Thus atheists would be at least obliged to recognize the true mover if they did not wish to recognize the true creator. But ordinary philosophy furnishes them with enough to blind themselves and sustain their errors; for it speaks to them of certain impressed virtues, of certain motive faculties, in a word, of a certain nature which is the principle of the motion of each thing, and, although they have no distinct idea of it, they are very glad, because of the corruption of their heart, to put it in the place of the true God, imagining that it is what does all the wonders we see.
+It is ridiculous to say that Mr. Descartes believed that the world could form itself by itself, since he recognized, like all those who follow the lights of reason, that no body can even move by its own forces, and that all the natural laws of the communication of motions are only consequences of the immutable wills of God, who acts incessantly in the same manner. Having proved that only God gives motion to matter, and that motion produces in all bodies all the different forms with which they are clothed, that was enough to take away from libertines all pretext for drawing any advantage from his system. On the contrary, if atheists made some reflection on the principles of this philosopher, they would soon find themselves constrained to recognize their errors, for if they can maintain, like the pagans, that matter is uncreated, they cannot likewise maintain that it was ever capable of moving by its own forces. Thus atheists would be at least obliged to recognize the true mover if they did not wish to recognize the true creator. But ordinary philosophy furnishes them with enough to blind themselves and sustain their errors; for it speaks to them of certain impressed virtues, of certain motive faculties, in a word, of a certain nature which is the principle of the motion of each thing, and, although they have no distinct idea of it, they are very glad, because of the corruption of their heart, to put it in the place of the true God, imagining that it is what does all the wonders we see. -->

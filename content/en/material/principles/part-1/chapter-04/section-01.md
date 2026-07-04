@@ -1,5 +1,5 @@
 ---
-heading: "Unit 1"
+heading: "Section 1"
 title: "The Substance of Aether"
 # date: 2020-01-31
 image: "/photos/physics/galaxy.jpg"

@@ -48,14 +48,20 @@ The big change in the West happened with the French Revolution, which separated 
 Religious authority lost its monopoly on moral legitimacy -- individual rights became paramount.
 
 This led to gun ownership for self-defense, which is why gun ownership is a core principle in the US Constitution as the US was created just before the French Revolution.
+- This makes gun ownership part of the US *dharmagenesis* or intial spin state, from which all later spin states are based on.
+- This is why feelings behind the beginning of any endeavour is very important.
 
 The same philosophical principle scales up. In a liberalized world, people arm themselves against each other just as nations do.
 - Nations arm themselves with nuclear weapons so other nations cannot attack them under the principle of mutually assured destruction.
+- This is because there is no World Government to impose order
+- There is no World Government because there is common feeling between humans
+- There is no common feeling between humans because the West colonized the world and removed the concepts of Dharma and the Tao. 
+  - Ask a person what is Dharma, he will reply he doesn't know. If follows that there is no World Government. 
 
 
 ## The Instability Problem and the Proper Solution
 
-But this system is inherently fragile:
+But this liberal defense system is inherently fragile:
 - Gun prevalence leads to mass shootings
 - Nuclear prevalence leads to the fears of nuclear annihilation and proxy wars (since superpowers cannot fight each other directly)
 <!-- - Instead of regional wars ending fast such as the world wars ending after 4-6 years, they get drawn out like Afghanistan's which  -->
@@ -99,7 +105,7 @@ Gun ownership tries to prevent harm by returning harm—fighting fire with fire.
 Our solution to property crime is a moneyless system that focuses on relations between people instead of objects. This is based on Cartesian Relationality, which is in turn based on Existence being one Entity.
 
 
-## Tweaking Kirk
+## The Specific Solution: Tweaking Kirk
 
 The proper advocacy for Kirk's selfish goals of a materialist, liberal, anti-Islamic USA would be:
 - Push for Christian values like peace and the Golden Rule
@@ -111,6 +117,9 @@ This would put Muslims* at a disadvantage and deter them from moving to the US.
 - The greed for oil can be countered by free energy as envisioned by Nikola Tesla from vacuum energy
 - The dominance of American finance can be thwarted by moneyless credit sytems that are in line with the Quran as explained in Sura 2:282
   - The expansion to world trade will reduce the importance of global finance, since cross border investments can also be done moneylessly
+
+
+## The General Solution: Global Unity
 
 However, since Social Superphysics' goal is global unity, the correct dharmic policy for the US and all countries is:
 - Adopt a moneyless, non-materialist economic system that focuses on people. This prevents property crimes by accounting the available resources

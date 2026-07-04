@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "Warrior Institutions"
+title: "Institutions"
 date: 2026-01-20
 weight: 14
 description: ""

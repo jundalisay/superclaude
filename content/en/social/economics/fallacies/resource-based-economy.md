@@ -69,4 +69,9 @@ Like RBE, it relies much on technology to scale itself. However, unlike RBE, it 
 
 Unlike the AI of RBE, the AI of Superphysics, called ANI, does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
 
-RBE suffers from the same flaws as Marxism which is a sign of the confused feelings of its founder. In the next post, we shall compare the feelings of Adam Smith with Karl Marx to see what constitutes 'solid' or dharmic feelings.
+RBE suffers from the same flaws as Marxism which is a sign of the confused feelings of its founder. 
+
+
+
+
+<!-- In the next post, we shall compare the feelings of Adam Smith with Karl Marx to see what constitutes 'solid' or dharmic feelings. -->

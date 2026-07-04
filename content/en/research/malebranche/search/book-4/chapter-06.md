@@ -50,15 +50,40 @@ These persons are therefore the strongest, most powerful, and most formidable en
 
 ## Voët, enemy of Mr. Descartes
 
-Descartes, for example, has demonstratively proved the existence of a God, the immortality of our souls, several other metaphysical questions, a very great number of questions of physics, and our century owes him infinite obligations for the truths he has discovered to us. Here, however, arises a little man, an ardent and vehement declaimer, respected by the people because of the zeal he appears to have for their religion; he composes books full of insults against him, and accuses him of the greatest crimes. Descartes is a Catholic; he studied under the Jesuit Fathers, he has often spoken of them with esteem. That suffices for this malicious spirit to persuade peoples enemies of our religion, and easy to excite on things as delicate as those of religion, that he is an emissary of the Jesuits, and that he has dangerous designs, because the least appearances of truth on matters of faith have more force on minds than the real and effective truths of physics or metaphysics, of which they are very little concerned. Mr. Descartes wrote of the existence of God. That is enough for this calumniator to exercise his false zeal and to oppress all the truths defended by his enemy. He accuses him of being an atheist, and even of finely and secretly teaching atheism, like that infamous atheist named Vanini, who was burned at Toulouse, who covered his malice and impiety by writing for the existence of a God; for one of the reasons he gives that his enemy is an atheist is that he wrote against atheists, as Vanini did, who to cover his impiety wrote against atheists.
+Descartes demonstratively proved:
+- the existence of a God
+- the immortality of our souls
+- several other metaphysical questions
+- many questions of physics
 
-Thus truth is oppressed when it is supported by appearances of truth, and when one has acquired much authority over weak minds. Truth loves gentleness and peace, and as strong as it is, it sometimes yields to the pride and haughtiness of falsehood which adorns itself and arms itself with its appearances. It knows well that error can do nothing against it; and if it remains for some time as proscribed and in obscurity, it is only to await more favorable occasions to show itself in the light; for finally it appears almost always stronger and more brilliant than ever in the very place of its oppression.
 
-One is not surprised that an enemy of Mr. Descartes, a man of a different religion from his, an ambitious man who thinks only of raising himself on the ruins of persons who are above him, a declaimer without judgment, that Voët speaks with contempt of what he does not understand and does not wish to understand. But one has reason to be astonished that people who are neither enemies of Mr. Descartes nor of his religion have taken sentiments of aversion and contempt against him, because of the insults they have read in books composed by the enemy of his person and of his religion.
+Our century owes him infinite obligations for the truths he has discovered to us.
+
+Here, however, arises a little man, an ardent and vehement declaimer, respected by the people because of the zeal he appears to have for their religion; he composes books full of insults against him, and accuses him of the greatest crimes. 
+
+Descartes is a Catholic; he studied under the Jesuit Fathers, he has often spoken of them with esteem. That suffices for this malicious spirit to persuade peoples enemies of our religion, and easy to excite on things as delicate as those of religion, that he is an emissary of the Jesuits, and that he has dangerous designs, because the least appearances of truth on matters of faith have more force on minds than the real and effective truths of physics or metaphysics, of which they are very little concerned. 
+
+Descartes wrote of the existence of God. That is enough for this calumniator to exercise his false zeal and to oppress all the truths defended by his enemy. He accuses him of being an atheist, and even of finely and secretly teaching atheism, like that infamous atheist named Vanini, who was burned at Toulouse, who covered his malice and impiety by writing for the existence of a God; for one of the reasons he gives that his enemy is an atheist is that he wrote against atheists, as Vanini did, who to cover his impiety wrote against atheists.
+
+Thus truth is oppressed when it is supported by appearances of truth, and when one has acquired much authority over weak minds. Truth loves gentleness and peace, and as strong as it is, it sometimes yields to the pride and haughtiness of falsehood which adorns itself and arms itself with its appearances. 
+
+It knows well that error can do nothing against it; and if it remains for some time as proscribed and in obscurity, it is only to await more favorable occasions to show itself in the light; for finally it appears almost always stronger and more brilliant than ever in the very place of its oppression.
+
+Voët was an enemy of Mr. Descartes.
+
+He was:
+- of a different religion
+- an ambitious man who thinks only of raising himself on the ruins of persons who are above him, a declaimer without judgment, that  speaks with contempt of what he does not understand and does not wish to understand.
+
+But one has reason to be astonished that people who are neither enemies of Mr. Descartes nor of his religion have taken sentiments of aversion and contempt against him, because of the insults they have read in books composed by the enemy of his person and of his religion.
 
 The book of this heretic, which has for title *Desperata causa papatus*, shows enough his impudence, his ignorance, his transport, and the desire he has to appear zealous to acquire by this means some reputation among his own. Thus he is not a man to be believed on his word. For just as one must not believe all the fables he has collected in this book against our religion, so one must not believe on his word the atrocious and injurious accusations he has invented against his enemy.
 
-Reasonable men must not therefore allow themselves to be persuaded that Mr. Descartes is a dangerous man, because they have read it in some book, or because they have heard it said by some persons whose piety they respect. It is not permitted to believe men on their word when they accuse others of the greatest crimes. It is not a sufficient proof to believe a thing to have heard it said by a man who speaks with zeal and with gravity; for finally can one never say falsehoods and stupidities in the same manner as one says good things, especially if one has allowed oneself to be persuaded of them by simplicity and weakness?
+Reasonable men must not therefore allow themselves to be persuaded that Mr. Descartes is a dangerous man, because they have read it in some book, or because they have heard it said by some persons whose piety they respect.
 
-It is easy to inform oneself of the truth or falsity of the accusations made against Mr. Descartes; his writings are easy to find and quite easy to understand when one is capable of attention. Let one therefore read his works; so that one may have other proofs against him than a simple hearsay; and I hope that after having read them and well meditated on them, one will no longer accuse him of atheism, and that one will have on the contrary all the respect one ought to have for a man who has demonstrated in a very simple and very evident manner, not only the existence of a God and the immortality of the soul, but also an infinity of other truths that had been unknown until his time.
+It is not permitted to believe men on their word when they accuse others of the greatest crimes. It is not a sufficient proof to believe a thing to have heard it said by a man who speaks with zeal and with gravity; for finally can one never say falsehoods and stupidities in the same manner as one says good things, especially if one has allowed oneself to be persuaded of them by simplicity and weakness?
+
+It is easy to inform oneself of the truth or falsity of the accusations made against Mr. Descartes; his writings are easy to find and quite easy to understand when one is capable of attention. 
+
+Let one therefore read his works; so that one may have other proofs against him than a simple hearsay; and I hope that after having read them and well meditated on them, one will no longer accuse him of atheism, and that one will have on the contrary all the respect one ought to have for a man who has demonstrated in a very simple and very evident manner, not only the existence of a God and the immortality of the soul, but also an infinity of other truths that had been unknown until his time.
 

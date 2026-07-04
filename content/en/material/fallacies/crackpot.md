@@ -34,10 +34,10 @@ This gives us an understanding of the actual shape of that dogma based on the we
 Index Item | Our Comment 
 --- | ---
 **1 point** for every statement that is widely agreed on to be false | {{< x v="Dogmatic as 'widely' means mass consensus which is biased towards materiality" >}}
-**2 points** for every statement that is clearly vacuous | This is fair
-**3 points** for every statement that is logically inconsistent | This is fair 
+**2 points** for every statement that is clearly vacuous | This is fair. This is why we explain everything step by step and cite the text from Descartes or Buddhist Sutra where we got the idea from
+**3 points** for every statement that is logically inconsistent | This is fair. Descartes requires clear understanding that goes inside out.
 **5 points** for each such statement that is adhered to despite careful correction | {{< x v="Very dogmatic as it instantly assumes the other party is wrong" >}}
-**5 points** for using a thought experiment that contradicts the results of a widely accepted real experiment | This is fair
+**5 points** for using a thought experiment that contradicts the results of a widely accepted real experiment | This is fair. Descartes and Hume are both empirical
 **5 points** for each word in all capital letters (except for those with defective keyboards) | This is fair
 **5 points** for each mention of "Einstien", "Hawkins" or "Feynmann" | {{< x v="This is dogmatic, aiming to keep the holiness of those personalities, similar to the 3rd Commandment in the Bible" >}}
 **10 points** for each claim that quantum mechanics is fundamentally misguided (without good evidence) | {{< x v="This is dogmatic as it decrees that Quantum Mechanics principles are already fully understood yet there is even no quantum computers commercially deployed or any other quantum effect harnessed such as the teleportation of ships" >}}
@@ -103,7 +103,8 @@ So we assume that it will also take that around that time for people to actually
 
 Only a severe event such as a nuclear war or an asteroid impact would rush the adoption of a new Physics and the discarding of the current scam-based one that has Einstein as its Jesus.
 
-{{< i s="/photos/objects/asteroid.jpg" a="Asteroid" c="We actually need an asteroid to threaten life on Earth to expose how useless the Physics of Newton and Einstein are, and how only the true Physics of Descartes, Spinoza, Hindusim, Buddhism, and Taoism can deal with it through an anti-gravity 'net' as explained in the Sumerian texts of how the Anunnaki weaponized asteroids via anti-gravity technology to wipe out planetary life. Update Dec 2025: Wow this actually nearly happened with Comet 3I/ATLAS which could have smashed into Earth but instead have given us more data for Cartesian lensing as its anti tail that Newtonian Physics can't explain" >}}
+{{< i s="/photos/objects/asteroid.jpg" a="Asteroid" c="We actually need an asteroid to threaten life on Earth to expose how useless the Physics of Newton and Einstein are, and how only the true Physics of Descartes can deal with it by creating a large crater or imbalance on the asteroid to create aether turbulence and change its path. Update Dec 2025: Wow this actually nearly happened with Comet 3I/ATLAS which could have smashed into Earth. Instead it has given us more data for Cartesian lensing as its weird anti tail that Newtonian Physics can't explain" >}}
 
 
 Only then will humans free their minds from being told that nothing travels faster than light. When they get rid of this limiting imposition then the reality of the teleportation of masses will be more realizable.
+

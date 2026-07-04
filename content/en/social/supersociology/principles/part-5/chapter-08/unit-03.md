@@ -1,10 +1,10 @@
 ---
 heading: "Unit 3"
-title: Neo-Liberalism and Global Capitalism
+title: Capitalism
 date: 2026-01-20
-weight: 13
+weight: 8
 description: ""
-image: "/photos/econ/gamble.jpg"
+image: "/photos/econ/monopoly.jpg"
 ---
 
 

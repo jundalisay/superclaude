@@ -1,15 +1,40 @@
 ---
-heading: "Section 3"
-title: "Socialism and Democracy"
+heading: "Section 4"
+title: "Libertarianism"
 # date: 2022-07-30
 weight: 15
 image: /photos/psych/freedom.jpg
-description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
-draft: true
 ---
+
+
+
+
+Libertarianism is a political and social philosophy centered on the principle of **maximum individual freedom and minimal state power**. At its core, it holds that every person owns their own life, and that individuals should be free to make their own choices—so long as they do not harm others or violate their rights.
+
+Libertarianism gained distinct shape in the 20th century. Economists **Ludwig von Mises** and **Friedrich Hayek** warned that excessive government planning leads to inefficiency and loss of freedom. 
+
+Later writers like **Ayn Rand** and **Murray Rothbard** further developed its principles, making it a recognized political ideology in countries like the United States, United Kingdom, and beyond.
+
+
+
+## Core Principles
+
+1. **Individual Sovereignty**: Every person has the right to control their own body, labor, and property. No authority—government or otherwise—may interfere without just cause.
+2. **Limited Government**: The only legitimate role of the state is to protect people from force, theft, fraud, and to enforce contracts. Large bureaucracies, excessive taxes, and broad regulations are seen as threats to freedom.
+3. **Free Markets**: Economic activity should be driven by voluntary exchange, competition, and private ownership. Libertarians believe markets allocate resources more fairly and efficiently than central planning.
+4. **Personal Liberty**: In social and cultural matters, the state should not dictate lifestyle, religion, speech, or personal relationships. Laws should not enforce morality or tradition—only protect rights.
+5. **Rule of Law**: Laws must be clear, consistent, and apply equally to everyone, including government officials.
+
+
+<!-- ## Main Variations
+- **Right-Libertarianism**: The most common form, supporting strong property rights, free markets, and minimal taxation. It is the dominant view in modern political movements.
+- **Left-Libertarianism**: Agrees on personal freedom but argues that natural resources should be shared more equally, and opposes excessive concentration of wealth and land ownership.
+- **Anarcho-Capitalism**: A more extreme branch that believes government itself is unnecessary, and all services—including security and justice—can be provided by private, voluntary organizations. -->
+
 
 
 <!-- ### Liberalism
@@ -72,11 +97,11 @@ seeing it as an economic system that exploits workers and reinforces inequality.
      
 
 
-It rejects private property in favor of collective ownership or communal resources.
+<!-- It rejects private property in favor of collective ownership or communal resources.
 
 Advocacy for **self-managed cooperatives** and workers’ control of production.
 - Anti-capitalist and anti-state, seeking to replace both with decentralized and voluntary systems of cooperation.
-- **Free Markets** in some forms of anarchism (e.g., anarcho-capitalism), but usually combined with strong anti-authoritarian principles.
+- **Free Markets** in some forms of anarchism (e.g., anarcho-capitalism), but usually combined with strong anti-authoritarian principles. -->
 
 <!--      - **Anarcho-syndicalism**: A branch of anarchism focusing on direct worker control of industries through unions or syndicates.
      - **Anarcho-communism**: Advocates for a stateless, classless society with common ownership of the means of production.

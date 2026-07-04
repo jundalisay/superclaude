@@ -1,5 +1,5 @@
 ---
-heading: Chapter 7
+heading: Chapter 1
 title: "The Proper Language Policy"
 date: 2024-11-21
 weight: 12
