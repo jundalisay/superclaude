@@ -3,7 +3,7 @@ heading: "Section 1"
 title: Physical Power
 date: 2022-01-09
 weight: 3
-image: /photos/medieval/knight.jpg
+image: /photos/medieval/spartan.jpg
 description: ""
 writer:
   name: Juan
@@ -26,6 +26,23 @@ Before him, the pre-Romans were just a tribe, which Montesquieu says originated 
 The main feeling of warriors is the need to control and give order. 
 
 This control makes them desire power.
+
+
+### **Positive**
+
+- Bushido 
+- Shaolin Kung Fu
+
+### **Negative**
+
+- Facism 
+- Feudalism
+- Communism
+- Nazism
+
+
+
+
 
 <!-- 
 As a political system, democracy is a system of government where power rests with the people, who exercise it directly or through elected representatives. Its core principle is **rule of the majority**, balanced by protection of individual rights and the rule of law.

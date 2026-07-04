@@ -1,7 +1,7 @@
 ---
 heading: "Unit 2"
-linkTitle: "Selfish Interest Versus Common Interest "
-title: "Fellow Economic Feeling"
+# linkTitle: "Selfishness"
+title: "Selfishness"
 weight: 8
 date: 2025-08-06
 image: /photos/social/pantry.jpg
@@ -20,7 +20,6 @@ This selfisness is enshrined in Economics, making it a dismal science.
 {{< q a="Carlyle" c="" >}}
 Supply and demand, which science says should be brought to bear on him, have an up-hill task with such a man. The sun is free. Rich soil, in those unpeopled regions, is almost free. These are his supply. He works 30 minutes a day to produce produce pumpkin to match his "demand." He thus quickly matches supply and demand [and stops working].
 {{< /q >}}
-
 
 
 In contrast, Supereconomics enshrines the common interest that is based on personal dharma or interest:

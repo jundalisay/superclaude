@@ -18,9 +18,15 @@ aliases:
 
 The creation of nominal value is the start of organized economic activity which is only made possible because of relationality.
 
-Relationality is each person accepting a relation with others. 
+**Relationality** is each person accepting a relation with others. 
 
 This comes from fellow-feeling.
+
+
+{{< q a="Adam Smith" c="Theory of Moral Sentiments Part 1 Section 2 Chapter 4" >}}
+The observer's sympathy with the subject-person generating those feelings exactly coincides with his sympathy for the object-person who is receiving those feelings. The observer takes in the object-person's happiness which then enlivens his fellow-feeling with the subject-person's feelings.
+{{< /q >}}
+
 
 Without fellow-feeling to Person X, you would not want to be associated with him. You would say: "I'd rather be caught dead than be seen with him,"
 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Section 3"
 title: Communism
 # date: 2022-03-27
 date: 2022-01-09
@@ -13,20 +13,34 @@ writer:
 
 
 
-The dominance of the Warrior Class usually leads to the following economic ideologies:
+Negative Liberalism of the Worker class when combined with the Negative Warrior Mentality leads to Communism.
 
-1. Communism
-2. Feudalism and Fascism
+{{< i s="/graphics/econ/liberal.jpg" a="Liberalism" >}}
 
 
-## Communism
+Communism began as a moral and intellectual response by **Karl Marx** to the extreme inequality and suffering brought by the Industrial Revolution.
 
-- **Core Ideas**: Communism, based on Marxist principles, seeks to establish a classless society by abolishing private property and capitalism entirely. It envisions the collective ownership of the means of production, where all goods and services are distributed based on need rather than profit.
-- **Economic Characteristics**: Complete state ownership of resources, centralized planning, and the eventual elimination of money and markets.
-- **Examples**: Former Soviet Union, China under Mao Zedong.
+His desire  was to lift the working class out of poverty. Unfortunately, his ideas were based on materialism which was also the basis of the capitalism that caused the injustice during the Industrial Revolution.
 
-{{< i s="/photos/countries/ru/moscow.jpg" a="Moscow" >}}
+- Capitalism is Negative Trader because Materialism is Negative 
+- Communism is Negative Worker as it is also based on Materialism
 
+
+In *The Communist Manifesto* (1848) and *Das Kapital* (1867), he argued that history was driven by class struggle: between those who owned property and those who only had their labor to sell. 
+
+**Marx created communism out of a desire to end exploitation**, not to seize power or control people. 
+
+<!-- His core vision was:
+- **Abolish class divisions**: End the gap between rich and poor.
+- **Common ownership**: Place land, factories, and resources under collective control, so no one could hoard wealth while others went without.
+- **Fair distribution**: The principle *“From each according to his ability, to each according to his needs”* — meaning everyone contributes what they can, and receives what they require to live with dignity.
+- **Freedom from want**: Create a society where poverty, hunger, and insecurity no longer exist, and people could develop their full potential.
+
+For Marx, communism was not about punishing the wealthy—it was about creating a system where prosperity was shared, and no group lived at the expense of another.
+
+
+Marx saw communism as a future stage that would emerge naturally from advanced capitalism, once the system’s inequalities became unsustainable. However, history took a different path.
+ -->
 
 
 ## The Demands of Communism
@@ -68,6 +82,27 @@ Our law of social cycles says that humans, by the design of Nature, fall under 4
 
 Removing such distinctions would therefore be going against Nature. This is why Communist systems imploded naturally by themselves. 
 
+
+
+
+## Lenin
+
+In 1917, **Vladimir Lenin** led the Russian Revolution, establishing the world’s first communist state in a largely agricultural, not industrial, country. 
+
+To organize the transition, the government took centralized control of the economy and politics. Over time, this led to one-party rule, state planning, and restrictions on personal freedoms—developments **Marx never described or intended**.
+
+Later regimes in China, Cuba, and elsewhere followed similar structures. While many promised equality and welfare, in practice they often suffered from inefficiency, lack of choice, and human rights abuses. 
+
+This created a wide gap between **Marx’s original ideal** and **the systems that bore his name**.
+
+
+
+<!-- ## Communism
+
+- **Core Ideas**: Communism, based on Marxist principles, seeks to establish a classless society by abolishing private property and capitalism entirely. It envisions the collective ownership of the means of production, where all goods and services are distributed based on need rather than profit.
+- **Economic Characteristics**: Complete state ownership of resources, centralized planning, and the eventual elimination of money and markets.
+- **Examples**: Former Soviet Union, China under Mao Zedong.
+ -->
 
 <!-- Political power, properly so called, is merely the organised power of one class for oppressing another. If the proletariat during its contest with the capitalists is compelled, by the force of circumstances, to organise itself as a class, if, by means of a revolution, it makes itself the ruling class, and, as such, sweeps away by force the old conditions of production, then it will, along with these conditions, have swept away the conditions for the existence of class antagonisms and of classes generally, and will thereby have abolished its own supremacy as a class. -->
 

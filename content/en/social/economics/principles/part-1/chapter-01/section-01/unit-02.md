@@ -1,113 +1,112 @@
 ---
 heading: "Unit 2"
-title: Nominal Price
+title: "Effective Demand and Nominal Price"
 weight: 7
-# date: 2022-08-30
+# date: 2022-03-27
 date: 2026-01-20
-image: /photos/econ/prices.jpg
+lastmod: 2026-04-30
+image: /photos/medieval/cave.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:  
-  /social/economics/principles/part-1/chapter-01b
 ---
 
 
 
-Nominal price is based on the common medium and measure of exchangable value, based on effective demand.
+Before anything is created, there must be a desire for that thing. When this desire becomes more or less constant or persistent then it becomes an effective demand. 
 
-It is the start of formal supereconomic activity.
+The effective demand is the actual demand which is realizable. This is opposed to absolute demand which is latent and not realizable in the foreseeable future. 
 
-This medium can be classified into two:
+The most common effective demand is for food.
 
-1. Money
+A caveman would simply hunt it. 
 
-Money comes from Moneta which is:
-- where coins were minted in the Roman Republic
-- also the root of the word mint
-
-Therefore, money really represents coin. 
-
-Paper money is therefore paper coin. 
-- According to Adam Smith, the word 'cash' came from the French inventing cash accounts which were based in paper bank notes instead of coin.
-- This allowed trade to flourish while adding volatility as proven in the Mississippi scheme. 
-
-Currency is a kind of money that is made as the standard within the system that uses it. 
-- Its main mechanism is its legality. 
-
-Cryptocurrency is a kind of digital currency that is standard with the system or network that uses it. 
-- It can gain more widespread usage through cryptoexchanges
+The creation of society allows efficiency by creating:
+- a class of hunters to get the food, such as deer, and
+- a class of traders to purchase, store and trade the deer
 
 
-
-2. Non-Money
-
-Many countries use non-money media such as spices and grains for trade. 
+![Cavewoman](/photos/medieval/cave.jpg)
 
 
+Assume that each buyer assigned a different value to the deer
 
-<!-- This value can be denoted in 3 forms:
-
-1. Money as number-objects
-
-Examples are currency and crytocurrency
-
-2. Moneyless Tangible
-
-Examples are goods and services themselves
-
-3. Moneyless Intangible
-
-Examples are goodwill, reputation, mental satisfaction or peace of mind
- -->
+Purchaser | Value for 1 deer
+--- | ---
+Purchaser 1 | 1 gold nugget
+Purchaser 2 | 10 planks of wood
+Purchaser 3 | 30 shells
 
 
-
-**Nominal price** is exchangeable value denoted as a numerical object.
-- In a money-system this number-object manifests as money
-- In a moneyless system it manifests as points or strings or any system of notation, which then represents the commodity used as standard measure
+In this case, trade would still be bilateral barter and be very inefficient
 
 
-{{< i s="/photos/econ/quipu.jpg" a="Quipu strings" c="In the Inca system, nominal value took the form of knots on strings" >}}
+<!-- The 1st Law establishes a common value so that everyone will be on the same page. 
 
 
-Chapter 3 of the Introduction gave an example of Adam wanting to buy a cake for his wife's birthday. The total worth of the cake to his mind comes from: 
-- his love for his wife
-- the practice of giving a cake during birthdays
-- the cake's usefulness to his wife
+Purchaser | Value for 1 deer
+--- | ---
+Purchaser 1 | 20 shells
+Purchaser 2 | 25 shells
+Purchaser 3 | 30 shells
 
-This worth then forms its exchangeable value. Let us assume that it is $20.  
+This makes it easy for the trader to receive the shells and swap them for other items. 
 
-{{< img src="/photos/objects/cake.jpg" alt="Cake slice" >}}
-
-
-This exchangeable value is thus the numerical version or **"nominal price"** of his abstract desire for the cake. This represents the amount of money, goods, or services that Adam is willing to give for the cake.
-- The more he desires the cake, the higher its nominal price will be
-- The less he desires the cake, the lower its nominal price
+The unseen drawnback of this system is that the conversion into shells carries some untruth or discrepancy in valuation. This is offset by the speed of the transactions. 
 
 
-Of course the $20 is does not an accurately convey the feeling of love for his wife. 
-- It is just a corrupted and objectified version that is used to harmonize with the nominal values set by other people
-- It strips away information in order to simplify into one quantitative information
+> A nominal price is the exchangeable value that a purchaser sets for a good or service that he desires.  
+
+A purchaser assigns a nominal value to any good or service that he needs or wants, after his mind realizes that need or want. This is the beginning of economic activity. 
+
+This value is really a subjective wave. Each person has a different valuation for each thing.  -->
 
 
 
-## Nominal Price is Based on Lack, Rarity, or Scarcity
+If everyone just used his own valuation, then the meeting of minds would be much rarer. 
 
-The previous chapter explained that a rare item is usually more desired than one that is very common. 
-- Rare and scarce items therefore have a high nominal price.  
-- Common items have a low nominal price. 
+For example, it would be very ineffective to look for someone interested in basketball from a crowd of people on the street.
 
-{{< f f="A common mistake would be to confuse nominal price with use value which is arbitrary to the self alone. Nominal price takes into account the conditions of the society or environment since it is exchangeable" >}}
-
-<!-- It is an objectification of subjective worth. 
-
-If he commonly experiences the price for birthday cakes to be $10, then he will easily assign $10 as the nominal price for the cake. 
- -->
-
-{{< img src="/graphics/econ/law1st.jpg" alt="First law flow" cap="The first law of value creates the downward sloping demand curve for both Economics and Supereconomics" >}}
+But it would be easy to find such people in a basketball game or stadium. 
+- The street is an uncontrolled environment where everyone can be at. Here, the desire can be anything.
+- The basketball stadium or gym is controlled environment where everyone is supposed to watch basketball. Here, the desire is entertainment, and the medium is basketball. The rules are imbued in the medium in order to satisfy the desire. 
 
 
-Nominal Price therefore exposes what is *lacking* so that it can drive action to be addressed.
+{{< i s="/graphics/econ/crowd.jpg" a="Crowd" >}}
+
+
+Likewise, use value can be anything. People can exchange based on use value, through barter. But getting value from it will be very ineffective. 
+
+
+
+## The Common Medium of Exchange: Nominal Price as the Purchaser's Valuation
+
+To solve this, there has to be common medium that everyone can relate to.
+
+This medium:
+- creates the controlled environment where formal economic activity can take place
+- represents the use value
+
+
+This medium is based on relationality, which in Supereconomics is based on fellow-feeling.
+
+The society agrees on what medium and measure to be used for exchange. 
+
+In the past, this medium depended on the natural resources available. 
+
+
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1, Chapter 4" >}}
+The following were the common instrument of commerce:
+- salt in Abyssinia,
+- shells in some parts of the coast of India,
+- dried cod at Newfoundland,
+- tobacco in Virginia,
+- sugar in some of our West India colonies,
+- hides or dressed leather in some other countries,
+- I am told that to this day, workers in a village in Scotland can carry nails instead of money to the baker's shop or the ale-house.
+{{< /q >}}
+
+
+The establishment of this common measure thus is the start of the 1st Law and of nominal price, and of organized economic activity
 

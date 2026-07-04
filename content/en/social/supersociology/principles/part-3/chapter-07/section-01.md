@@ -9,22 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Social Superphysics"
+draft: true
 ---
-
-
-Warriors create their own philosophies.
-
-
-### **Positive**
-
-- Bushido 
-- Shaolin Kung Fu
-
-### **Negative**
-
-- Facism 
-- Feudalism
-- Communism
-- Nazism
-
 

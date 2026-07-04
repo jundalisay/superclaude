@@ -242,6 +242,7 @@ Commerce | a regular buying-selling activity
 Commercialization | the shifting of an economy or trade into objective money-based transactions, as opposed to barter to arbitrary exchanges
 Commodity | a raw material or not-so-processed good for sale 
 Donation | Irregular Revenue from the abundance experienced by others 
+Effective Demand | The demand of the people who are willing to pay the rent, labour, and profits needed to make them and bring them to market (Smith)
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
@@ -252,6 +253,7 @@ Nominal Price | the prince that a purchaser sets for a good or service that he d
 Pantrypoints Hub | a large pantry that connects to smaller pantries
 Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
 Pantrypoints system | the use of Pantries or Hubs as the store of resources
+Perfect Liberty | When supplier is able and free to change what he is supplying anytime he wants, likewise for the demander (Smith)
 Pointarism | the exchange using points
 Pointary | the adjective referring to pointarism
 Pointism | the obsession with points

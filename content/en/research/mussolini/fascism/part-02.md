@@ -29,60 +29,133 @@ Therefore it has chosen as its emblem the Lictor’s rods, the symbol of unity, 
 
 ## POLITICAL AND SOCIAL DOCTRINE - EVOLUTION FROM SOCIALISM
 
-When in the now distant March of 1919, speaking through the columns of the Popolo d'Italia I summoned to Milan the surviving interventionists who had intervened, and who had followed me ever since the foundation of the Fasci of revolutionary action in January 1915, I had in mind no specific doctrinal program. 
+In March of 1919, I had in mind no specific doctrinal program. 
 
-The only doctrine of which I had practical experience was that of socialism, from until the winter of 1914 - nearly a decade. My experience was that both of a follower and a leader but it was not doctrinal experience.
+<!-- speaking through the columns of the Popolo d'Italia I summoned to Milan the surviving interventionists who had intervened, and who had followed me ever since the foundation of the Fasci of revolutionary action in January 1915,  -->
 
-My doctrine during that period had been the doctrine of action. A uniform, universally accepted doctrine of Socialism had not existed since 1905, when the revisionist movement, headed by Bernstein, arose in Germany, countered by the formation, in the see-saw of tendencies, of a left revolutionary movement which in Italy never quitted the field of phrases, whereas, in the case of Russian socialism, it became the prelude to Bolshevism.
+The only doctrine I had practical experience in was socialism. But it was not doctrinal experience.
+
+ <!-- from until the winter of 1914 - nearly a decade. My experience was that both of a follower and a leader  -->
+
+My doctrine during that period had been the doctrine of action.
+
+The revisionist movement headed by Bernstein arose in Germany in 1905.
+
+A uniform, universally accepted doctrine of Socialism had not existed before 1905.
+
+Bernstein was countered by the formation of a left revolutionary movement in Italy.
+
+ <!-- never quitted the field of phrases, whereas,  -->
+
+Russian socialism became the prelude to Bolshevism.
 
 Reformism, revolutionism, centrism, the very echo of that terminology is dead, while in the great river of Fascism one can trace currents which had their source in Sorel, Peguy, Lagardelle of the Movement Socialists, and in the cohort of Italian syndicalist who from 1904 to 1914 brought a new note into the Italian socialist environment - previously emasculated and chloroformed by fornicating with Giolitti's party - a note sounded in Olivetti's Pagine Libere, Orano's Lupa, Enrico Leone's Divenirs Socials.
 
-When the war ended in 1919 Socialism, as a doctrine, was already dead; it continued to exist only as a grudge, especially in Italy where its only chance lay in inciting to reprisals against the men who had willed the war and who were to be made to pay for it.
+When the war ended in 1919, Socialism, as a doctrine, was already dead.
 
-The Popolo d'Italia described itself in its subtitle as the daily organ of fighters and producers. 
+It continued to exist only as a grudge especially in Italy.
 
-The word producer was already the expression of a mental trend. Fascism was not the nursling of a doctrine previously drafted at a desk; it was born of the need of action, and was action; it was not a party but, in the first two years, an anti-party and a movement. 
+Socialism's only chance in Italy lay in inciting against the men who started the war and who were made to pay for it.
+
+<!-- The Popolo d'Italia described itself in its subtitle as the daily organ of fighters and producers. 
+
+The word producer was already the expression of a mental trend.  -->
+
+
+Fascism was not the nursling of a doctrine previously drafted at a desk; it was born of the need of action, and was action; it was not a party but, in the first two years, an anti-party and a movement. 
 
 The name I gave the organization fixed its character.
 
-Yet if anyone cares to reread the now crumpled sheets of those days giving an account of the meeting at which the Italian Fasci di combattimento were founded, he will find not a doctrine but a series of pointers, forecasts, hints which, when freed from the inevitable matrix of contingencies, were to develop in a few years time into a series of doctrinal positions entitling Fascism to rank as a political doctrine differing from all others, past or present.
+<!-- Yet if anyone cares to reread the now crumpled sheets of those days giving an account of the meeting at which the Italian Fasci di combattimento were founded, he will find not a  -->
+
+The foundational documents of the meeting of Italian Fascism was not a doctrine, but a series of pointers, forecasts, hints.
+
+These were developed in a few years time into a series of doctrinal positions entitling Fascism to rank as a political doctrine differing from all others, past or present.
 
 “If the bourgeoisie - I then said - believe that they have found in us their lightening-conductors, they arc mistaken. We must go towards the people... We wish the working classes to accustom themselves to the responsibilities of management so that they may realize that it is no easy matter to run a business... We will fight both technical and spiritual rear-guirdism... Now that the succession of the regime is open we must not be fainthearted. We must rush forward; if the present regime is to be superseded we must take its place. The right of succession is ours, for we urged the country to enter the war and we led it to victory... The existing forms of political representation cannot satisfy us; we want direst representation of the several interests... It may be objected that this program implies a return to the guilds (corporazioni). No matter!. I therefore hope this assembly will accept the economic claims advanced by national syndicalism …
 
 Is it not strange that from the very first day, at Piazza San Sepolcro, the word "guild" (corporazione) was pronounced, a word which, as the Revolution developed, was to express one of the basic legislative and social creations of the regime?
 
-The years preceding the march on Rome cover a period during which the need of action forbade delay and careful doctrinal elaborations. Fighting was going on in the towns and villages. There were discussions but... there was something more sacred and more important... death... Fascists knew how to die. A doctrine - fully elaborated, divided up into chapters and paragraphs with annotations, may have been lacking, but it was replaced by something far more decisive, - by a faith. All the same, if with the help of books, articles, resolutions passed at congresses, major and minor speeches, anyone should care to revive the memory of those days, he will find, provided he knows how to seek and select, that the doctrinal foundations were laid while the battle was still raging. Indeed, it was during those years that Fascist thought armed, refined itself, and proceeded ahead with its organization. The problems of the individual and the State; the problems of authority and liberty; political, social, and more especially national problems were discussed; the conflict with liberal, democratic, socialistic, Masonic doctrines and with those of the Partito Popolare, was carried on at the same time as the punitive expeditions. Nevertheless, the lack of a formal system was used by disingenuous adversaries as an argument for proclaiming Fascism incapable of elaborating a doctrine at the very time when that doctrine was being formulated - no matter how tumultuously, - first, as is the case with all new ideas, in the guise of violent dogmatic negations; then in the more positive guise of constructive theories, subsequently incorporated, in 1926, 1927, and 1928, in the laws and institutions of the regime.
+The years preceding the march on Rome cover a period during which the need of action forbade delay and careful doctrinal elaborations. Fighting was going on in the towns and villages. There were discussions but... there was something more sacred and more important... death... Fascists knew how to die. A doctrine - fully elaborated, divided up into chapters and paragraphs with annotations, may have been lacking, but it was replaced by something far more decisive, - by a faith. All the same, if with the help of books, articles, resolutions passed at congresses, major and minor speeches, anyone should care to revive the memory of those days, he will find, provided he knows how to seek and select, that the doctrinal foundations were laid while the battle was still raging. Indeed, it was during those years that Fascist thought armed, refined itself, and proceeded ahead with its organization. 
 
-Fascism is now clearly defined not only as a regime but as a doctrine. This means that Fascism, exercising its critical faculties on itself and on others, has studied from its own special standpoint and judged by its own standards all the problems affecting the material and intellectual interests now causing such grave anxiety to the nations of the world, and is ready to deal with them by its own policies.
+The problems of the individual and the State; the problems of authority and liberty; political, social, and more especially national problems were discussed; the conflict with liberal, democratic, socialistic, Masonic doctrines and with those of the Partito Popolare, was carried on at the same time as the punitive expeditions. Nevertheless, the lack of a formal system was used by disingenuous adversaries as an argument for proclaiming Fascism incapable of elaborating a doctrine at the very time when that doctrine was being formulated - no matter how tumultuously, - first, as is the case with all new ideas, in the guise of violent dogmatic negations; then in the more positive guise of constructive theories, subsequently incorporated, in 1926, 1927, and 1928, in the laws and institutions of the regime.
 
-REJECTION OF PACIFISM
+Fascism is now clearly defined not only as a regime but as a doctrine. 
 
-First of all, as regards the future development of mankind, and quite apart from all present political considerations. Fascism does not, generally speaking, believe in the possibility or utility of perpetual peace. It therefore discards pacifism as a cloak for cowardly supine renunciation in contradistinction to self-sacrifice. War alone keys up all human energies to their maximum tension and sets the seal of nobility on those peoples who have the courage to face it. All other tests are substitutes which never place a man face to face with himself before the alternative of life or death. Therefore all doctrines which postulate peace at all costs are incompatible with Fascism. Equally foreign to the spirit of Fascism, even if accepted as useful in meeting special political situations -- are all internationalistic or League superstructures which, as history shows, crumble to the ground whenever the heart of nations is deeply stirred by sentimental, idealistic or practical considerations. Fascism carries this anti-pacifistic attitude into the life of the individual. " I don't care a damn „ (me ne frego) - the proud motto of the fighting squads scrawled by a wounded man on his bandages, is not only an act of philosophic stoicism, it sums up a doctrine which is not merely political: it is evidence of a fighting spirit which accepts all risks. It signifies new style of Italian life. The Fascist accepts and loves life; he rejects and despises suicide as cowardly. Life as he understands it means duty, elevation, conquest; life must be lofty and full, it must be lived for oneself but above all for others, both near bye and far off, present and future.
-The population policy of the regime is the consequence of these premises. The Fascist loves his neighbor, but the word neighbor does not stand for some vague and unseizable conception. Love of one's neighbor does not exclude necessary educational severity; still less does it exclude differentiation and rank. Fascism will have nothing to do with universal embraces; as a member of the community of nations it looks other peoples straight in the eyes; it is vigilant and on its guard; it follows others in all their manifestations and notes any changes in their interests; and it does not allow itself to be deceived by mutable and fallacious appearances.
+This means that Fascism, exercising its critical faculties on itself and on others, has studied from its own special standpoint and judged by its own standards all the problems affecting the material and intellectual interests now causing such grave anxiety to the nations of the world, and is ready to deal with them by its own policies.
 
-REJECTION OF MARXISM
 
-Such a conception of life makes Fascism the resolute negation of the doctrine underlying so-called scientific and Marxian socialism, the doctrine of historic materialism which would explain the history of mankind in terms of the class struggle and by changes in the processes and instruments of production, to the exclusion of all else.
-That the vicissitudes of economic life - discoveries of raw materials, new technical processes, and scientific inventions - have their importance, no one denies; but that they suffice to explain human history to the exclusion of other factors is absurd. Fascism believes now and always in sanctity and heroism, that is to say in acts in which no economic motive - remote or immediate - is at work. Having denied historic materialism, which sees in men mere puppets on the surface of history, appearing and disappearing on the crest of the waves while in the depths the real directing forces move and work, Fascism also denies the immutable and irreparable character of the class struggle which is the natural outcome of this economic conception of history; above all it denies that the class struggle is the preponderating agent in social transformations. Having thus struck a blow at socialism in the two main points of its doctrine, all that remains of it is the sentimental aspiration, old as humanity itself-toward social relations in which the sufferings and sorrows of the humbler folk will be alleviated. But here again Fascism rejects the economic interpretation of felicity as something to be secured socialistically, almost automatically, at a given stage of economic evolution when all will be assured a maximum of material comfort. Fascism denies the materialistic conception of happiness as a possibility, and abandons it to the economists of the mid-eighteenth century. This means that Fascism denies the equation: well-being = happiness, which sees in men mere animals, content when they can feed and fatten, thus reducing them to a vegetative existence pure and simple.
 
-REJECTION OF PARLIAMENTARY DEMOCRACY AS A SHAM AND A FRAUD
+## Rejection Of Pacifism
 
-After socialism, Fascism trains its guns on the whole block of democratic ideologies, and rejects both their premises and their practical applications and implements. Fascism denies that numbers, as such, can be the determining factor in human society; it denies the right of numbers to govern by means of periodical consultations; it asserts the irremediable and fertile and beneficent inequality of men who cannot be leveled by any such mechanical and extrinsic device as universal suffrage. Democratic regimes may be described as those under which the people are, from time to time, deluded into the belief that they exercise sovereignty, while all the time real sovereignty resides in and is exercised by other and sometimes irresponsible and secret forces. Democracy is a kingless regime infested by many kings who are sometimes more exclusive, tyrannical, and destructive than one, even if he be a tyrant. This explains why Fascism - although, for contingent reasons, it was republican in tendency prior to 1922 - abandoned that stand before the March on Rome, convinced that the form of government is no longer a matter of preeminent importance, and because the study of past and present monarchies and past and present republics shows that neither monarchy nor republic can be judged sub specie aeternitatis, but that each stands for a form of government expressing the political evolution, the history, the traditions, and the psychology of a given country.
+<!-- First of all, as regards the future development of mankind, and quite apart from all present political considerations.  -->
+
+Fascism does not believe in perpetual peace.
+
+It therefore discards pacifism as a cloak for cowardly supine renunciation in contradistinction to self-sacrifice. War alone keys up all human energies to their maximum tension and sets the seal of nobility on those peoples who have the courage to face it.
+
+All other tests are substitutes which never place a man face to face with himself before the alternative of life or death. Therefore all doctrines which postulate peace at all costs are incompatible with Fascism. 
+
+Equally foreign to the spirit of Fascism are all internationalistic or League superstructures which crumble to the ground whenever the heart of nations is deeply stirred by sentimental, idealistic or practical considerations. 
+
+Fascism carries this anti-pacifistic attitude into the life of the individual. 
+
+" I don't care a damn „ (me ne frego) - the proud motto of the fighting squads scrawled by a wounded man on his bandages, is not only an act of philosophic stoicism, it sums up a doctrine which is not merely political: it is evidence of a fighting spirit which accepts all risks. It signifies new style of Italian life. 
+
+The Fascist accepts and loves life; he rejects and despises suicide as cowardly. Life as he understands it means duty, elevation, conquest; life must be lofty and full, it must be lived for oneself but above all for others, both near bye and far off, present and future.
+
+The population policy of the regime is the consequence of these premises. The Fascist loves his neighbor, but the word neighbor does not stand for some vague and unseizable conception. 
+
+Love of one's neighbor does not exclude necessary educational severity; still less does it exclude differentiation and rank. Fascism will have nothing to do with universal embraces; as a member of the community of nations it looks other peoples straight in the eyes; it is vigilant and on its guard; it follows others in all their manifestations and notes any changes in their interests; and it does not allow itself to be deceived by mutable and fallacious appearances.
+
+
+## Rejection Of Marxism
+
+The Fascist conception of life resolutely negated the Marxist doctrine.
+
+Marxian socialism uses the doctrine of historic materialism which explains the history of mankind in terms of:
+- the class struggle and
+- changes in the processes and instruments of production, to the exclusion of all else.
+
+No one denies the importance of economic life - discoveries of raw materials, new technical processes, and scientific inventions.
+
+But that they suffice to explain human history to the exclusion of other factors is absurd. Fascism believes now and always in sanctity and heroism, that is to say in acts in which no economic motive - remote or immediate - is at work. 
+
+Having denied historic materialism, which sees in men mere puppets on the surface of history, appearing and disappearing on the crest of the waves while in the depths the real directing forces move and work, Fascism also denies the immutable and irreparable character of the class struggle which is the natural outcome of this economic conception of history; above all it denies that the class struggle is the preponderating agent in social transformations. Having thus struck a blow at socialism in the two main points of its doctrine, all that remains of it is the sentimental aspiration, old as humanity itself-toward social relations in which the sufferings and sorrows of the humbler folk will be alleviated. 
+
+But here again Fascism rejects the economic interpretation of felicity as something to be secured socialistically, almost automatically, at a given stage of economic evolution when all will be assured a maximum of material comfort. Fascism denies the materialistic conception of happiness as a possibility, and abandons it to the economists of the mid-eighteenth century. 
+
+This means that Fascism denies the equation: well-being = happiness, which sees in men mere animals, content when they can feed and fatten, thus reducing them to a vegetative existence pure and simple.
+
+
+## Rejection Of Parliamentary Democracy As A Sham And A Fraud
+
+After socialism, Fascism trains its guns on the whole block of democratic ideologies, and rejects both their premises and their practical applications and implements. 
+
+Fascism denies that numbers, as such, can be the determining factor in human society; it denies the right of numbers to govern by means of periodical consultations; it asserts the irremediable and fertile and beneficent inequality of men who cannot be leveled by any such mechanical and extrinsic device as universal suffrage. Democratic regimes may be described as those under which the people are, from time to time, deluded into the belief that they exercise sovereignty, while all the time real sovereignty resides in and is exercised by other and sometimes irresponsible and secret forces. 
+
+Democracy is a kingless regime infested by many kings who are sometimes more exclusive, tyrannical, and destructive than one, even if he be a tyrant. This explains why Fascism - although, for contingent reasons, it was republican in tendency prior to 1922 - abandoned that stand before the March on Rome, convinced that the form of government is no longer a matter of preeminent importance, and because the study of past and present monarchies and past and present republics shows that neither monarchy nor republic can be judged sub specie aeternitatis, but that each stands for a form of government expressing the political evolution, the history, the traditions, and the psychology of a given country.
+
 Fascism has outgrown the dilemma: monarchy v. republic, over which democratic regimes too long dallied, attributing all insufficiencies to the former and proning the latter as a regime of perfection, whereas experience teaches that some republics are inherently reactionary and absolutist while some monarchies accept the most daring political and social experiments.
 
 In one of his philosophic Meditations Renan - who had prefascist intuitions remarks, "Reason and science are the products of mankind, but it is chimerical to seek reason directly for the people and through the people. It is not essential to the existence of reason that all should be familiar with it; and even if all had to be initiated, this could not be achieved through democracy which seems fated to lead to the extinction of all arduous forms of culture and all highest forms of learning. The maxim that society exists only for the well-being and freedom of the individuals composing it does not seem to be in conformity with nature's plans, which care only for the species and seem ready to sacrifice the individual. It is much to be feared that the last word of democracy thus understood (and let me hasten to add that it is susceptible of a different interpretation) would be a form of society in which a degenerate mass would have no thought beyond that of enjoying the ignoble pleasures of the vulgar."
 
-REJECTION OF EGALITARIANISM
+
+
+## REJECTION OF EGALITARIANISM
 
 In rejecting democracy, Fascism rejects the absurd conventional lie of political equalitarianism, the habit of collective irresponsibility, the myth of felicity and indefinite progress.
 
-DEFINITION OF FASCISM AS REAL DEMOCRACY
+
+
+## DEFINITION OF FASCISM AS REAL DEMOCRACY
 
 But if democracy be understood as meaning a regime in which the masses are not driven back to the margin of the State, and then the writer of these pages has already defined Fascism as an organized, centralized, authoritarian democracy.
 
 REJECTION OF ECONOMIC LIBERALISM - ADMIRATION OF BISMARCK
 
 Fascism is definitely and absolutely opposed to the doctrines of liberalism, both in the political and the economic sphere. The importance of liberalism in the XIXth century should not be exaggerated for present day polemical purposes, nor should we make of one of the many doctrines which flourished in that century a religion for mankind for the present and for all time to come. Liberalism really flourished for fifteen years only. It arose in 1830 as a reaction to the Holy Alliance which tried to force Europe to recede further back than 1789; it touched its zenith in 1848 when even Pius IXth was a liberal. Its decline began immediately after that year. If 1848 was a year of light and poetry, 1849 was a year of darkness and tragedy. The Roman Republic was killed by a sister republic, that of France. In that same year Marx, in his famous Communist Manifesto, launched the gospel of socialism.
+
 In 1851 Napoleon III made his illiberal coup d'etat and ruled France until 1870 when he was turned out by a popular rising following one of the severest military defeats known to history. The victor was Bismarck who never even knew the whereabouts of liberalism and its prophets. It is symptomatic that throughout the XIXth century the religion of liberalism was completely unknown to so highly civilized a people as the Germans but for one parenthesis which has been described as the “ridiculous parliament of Frankfort " which lasted just one season. Germany attained her national unity outside liberalism and in opposition to liberalism, a doctrine which seems foreign to the German temperament, essentially monarchical, whereas liberalism is the historic and logical anteroom to anarchy. The three stages in the making of German unity were the three wars of 1864, 1866, and 1870, led by such  "liberals" as Moltke and Bismarck.  And in the upbuilding of Italian unity liberalism played a very minor part when compared to the contribution made by Mazzini and Garibaldi who were not liberals. But for the intervention of the illiberal Napoleon III we should not have had Lombardy, and without that of the illiberal Bismarck at Sadowa and at Sedan very probably we should not have had Venetia in 1866 and in 1870 we should not have entered Rome. The years going from 1870 to 1915 cover a period which marked, even in the opinion of the high priests of the new creed, the twilight of their religion, attacked by decadentism in literature and by activism in practice. Activism: that is to say nationalism, futurism, fascism.
 rengt­en  
 
@@ -119,6 +192,3 @@ But imperialism implies discipline, the coordination of efforts, a deep sense of
 Never before have the peoples thirsted for authority, direction, order, as they do now. If each age has its doctrine, then innumerable symptoms indicate that the doctrine of our age is the Fascist. That it is vital is shown by the fact that it has aroused a faith; that this faith has conquered souls is shown by the fact that Fascism can point to its fallen heroes and its martyrs.
 
 Fascism has now acquired throughout the world that universally which belongs to all doctrines which by achieving self-expression represent a moment in the history of human thought.
-
-
-

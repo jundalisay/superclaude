@@ -1,5 +1,5 @@
 ---
-heading: "Section 2 "
+heading: "Section 5"
 title: "Fascism"
 date: 2019-12-17
 # date: 2021-06-29
@@ -13,10 +13,36 @@ icon: "Social Superphysics"
 
 
 
+<!-- The Mercantile System mutated into the Capitalist System which caused a lot of inequality from foreign trade and investments.
 
-### **History of Fascism**
+This is because Mercantilism and Capitalism earn revenue by being middle men. 
 
-Fascism is a far-right, authoritarian political ideology that emerged in the early 20th century, characterized by dictatorial power, extreme nationalism, suppression of dissent, and often militarism. Its origins can be traced to the post-World War I era, particularly in Italy.
+This inequality cretes a clamor for nationalism, authoritarian leadership, and the suppression of political opposition. 
+
+Economically, it supports state control over capitalists.
+
+Examples are Nazi Germany and Fascist Italy under Mussolini. -->
+
+
+Fascism emerged in Italy as a result of the end of World War 1. 
+
+That war had made a deep mark on the mind of Mussolini just as it made a mark on Hitler. 
+
+Unlike Nazism which is socialist, Fascism is not. 
+
+{{< q a="Mussolini" c="The Doctrine of Fascism" >}}
+When the war ended in 1919, Socialism, as a doctrine, was already dead.
+{{< /q >}}
+
+This made both men push for war as a state policy. 
+
+
+{{< q a="Mussolini" c="The Doctrine of Fascism" >}}
+Fascism does not believe in perpetual peace.
+{{< /q >}}
+
+
+<!-- Fascism is a far-right, authoritarian political ideology that emerged in the early 20th century, characterized by dictatorial power, extreme nationalism, suppression of dissent, and often militarism. Its origins can be traced to the post-World War I era, particularly in Italy.
 
 1. **Origins (1919–1922):**  
    - **Italy:** Benito Mussolini founded the Fascist Party in 1919, capitalizing on economic instability, social unrest, and nationalist resentment after World War I. By 1922, Mussolini seized power in the **March on Rome**, establishing the first fascist regime.
@@ -56,9 +82,4 @@ Fascism is a far-right, authoritarian political ideology that emerged in the ear
 | **Role of Violence** | State-sponsored, militaristic   | Feudal warfare between lords          | Varied: can be militaristic or peaceful |
 | **Examples**     | Nazi Germany, Fascist Italy        | Medieval Europe, Japan (samurai era)  | British monarchy, French monarchy (pre-revolution) |
 
----
-
-### **Key Differences:**
-- **Fascism** is a modern, ideologically-driven system centered around nationalism and authoritarianism.
-- **Feudalism** is a medieval socio-economic structure based on land ownership and reciprocal obligations between lords and vassals.
-- **Monarchy** is a system of governance where a monarch (king/queen) rules, which can coexist with democratic elements (constitutional monarchy) or be absolute.
+ -->
