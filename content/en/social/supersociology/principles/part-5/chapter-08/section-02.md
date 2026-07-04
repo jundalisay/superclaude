@@ -1,5 +1,5 @@
 ---
-heading: "Unit 2"
+heading: "Section 2"
 title: Mercantilism
 date: 2026-01-20
 weight: 5

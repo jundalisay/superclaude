@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: Philosophies
+title: Warrior Philosophies
 description: ""
 image: /photos/medieval/knight.jpg
 weight: 98

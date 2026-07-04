@@ -79,6 +79,7 @@ Passive Observation | Observing the object without doing anything to it.
 Peace | the actual integration of the relevant feeling-waves in Existence
 Personality | A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
 Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal)
+Philosophy | Philosophy is different points of view, paths, ideas about the self about reality (Sassani)
 Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.

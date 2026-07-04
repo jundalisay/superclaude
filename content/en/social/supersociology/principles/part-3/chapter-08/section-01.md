@@ -1,57 +1,48 @@
 ---
 heading: "Section 1"
-title: Feudalism
+title: Physical Power
 date: 2022-01-09
 weight: 3
 image: /photos/medieval/knight.jpg
-# image: /photos/medieval/hitler.jpg
-description: "The Feudal System arose from the fall of the Roman system which collapsed after the Romans lost their dharma or martial spirit"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
 
 
-### The Feudal System
-
-The Feudal System arose from the fall of the Roman system which collapsed after the Romans lost their dharma or martial spirit.
-
-This happened after they converted to Christianity after defeating Jerusalem and absorbing its culture in the process. 
-
-This allowed the barbarians to more easily destroy the Roman systems. 
-
-Feudalism is an easier way to control huge land areas.
-- Each land is divided into fiefs under a lord.
-- The lord is then under a king, who is really the strongest lord.
-
-Thus, it can be viewed as a delegated way of governance. 
 
 
-### The Fall of Feudalism and the  Rise of Cities
+Warrior Philosophies are created by or favor the warrior class, also known as the military or the ksattriya in Hinduism. 
 
-The feudal system in turn broke down in Europe as a consequence of Mercantilism. 
+In the Republc by Plato, the warrior class is called the Tyrants.
 
-This is because the feudal lands were rural, but Mercantilism favored urban areas where goods from afar was brought in. 
+These are people who live by leadership or by force.
 
-The credit for bringing Mercantilism goes to the Mongols who connected Europe to Asia.
+Though a society is began by workers, it is formalized by warriors. Civilizations began with a king. For example, the Roman civilization began with Romulus. 
 
-This was different from the Roman and feudal systems where their revenue was taxation from the direct produce of the local land.
-- Instead of trading with distant countries, the Romans traded with its own provices. 
+Before him, the pre-Romans were just a tribe, which Montesquieu says originated from Sparta. 
 
-The trade from distant countries needed moneychangers and logistics facilities which could only be in the cities.   
+The main feeling of warriors is the need to control and give order. 
 
- 
-### Fascism
+This control makes them desire power.
 
-The Mercantile System mutated into the Capitalist System which caused a lot of inequality from foreign trade and investments.
+<!-- 
+As a political system, democracy is a system of government where power rests with the people, who exercise it directly or through elected representatives. Its core principle is **rule of the majority**, balanced by protection of individual rights and the rule of law.
 
-This is because Mercantilism and Capitalism earn revenue by being middle men. 
 
-This inequality cretes a clamor for nationalism, authoritarian leadership, and the suppression of political opposition. 
+As an economic system, democracy is freedom from monopoly and the freedom to trade within the common interest (i.e. not to trade in illegal goods). 
 
-Economically, it supports state control over capitalists.
+Supereconomics champions economic freedom through a points-based economic system and usufruct economy. 
 
-<!--  but with private ownership of property and industry, as long as they serve the goals of the state.
-   - **Economic Characteristics**: Centralized control over industries, corporatism (collaboration between the state and large corporations), and militarization of the economy. -->
+Supersociology, however, does not champion the democratic system. Instead it pushes for a Mandala system that revolves around the Thinker Class. 
 
-Examples are Nazi Germany and Fascist Italy under Mussolini.
+
+## Key Characteristics of a Democracy
+
+- Free and fair elections
+- Freedom of speech, assembly, and press
+- Equality before the law
+- Protection of minority rights
+- Transparent and accountable government
+ -->

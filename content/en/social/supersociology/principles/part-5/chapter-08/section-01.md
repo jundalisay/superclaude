@@ -1,5 +1,5 @@
 ---
-heading: "Unit 1"
+heading: "Section 1"
 title: Wealth
 date: 2026-01-20
 weight: 3
