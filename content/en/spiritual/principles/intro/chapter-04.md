@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 4"
 title: "Consciousness and Samadhi"
 date: 2024-07-15
 image: "/photos/meta/god.jpg"

@@ -21,13 +21,16 @@ Chapter | Archetype | Description
 4 | Wave Dynamics | How it moves
 5 | Wave Systems | The systems it creates
 6 | Wave Model | The patterns it creates
-7 | Wave Measure | The nuts and bolts of perception of the wave, as charts, equations
-8 | Wave Ratios | How the waves affects other waves
+7 | Wave Measure | This integrates dynamics with model as the nuts and bolts of perception of the wave, as charts, equations
+8 | Wave Ratios | Relationality Seen 
 9 | Wave Problem | Results from wrong dynamics
 10 | Wave Solutions | To fix the problems
 11 | Economic Systems | Wave-influences on the mind 
 
 
+
+
+<!-- 
 ## Part 1
 
 Chapter | Topic
@@ -141,4 +144,4 @@ Chapter | Topic
 2 | Law 1 Problems 
 3 | Law 2 Problems
 4 | Law 3 Problems
-5 | Law 4 Problems
+5 | Law 4 Problems -->

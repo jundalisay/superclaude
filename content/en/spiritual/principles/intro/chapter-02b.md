@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 2b"
 title: "The 5 Strata of the Metaphysical Body"
 date: 2024-07-11
 image: "/photos/social/pantry.jpg"
@@ -69,4 +69,5 @@ While Material Superphysics deals with matter and non-living energy, Bio Superph
 
 
 We call the Supreme's Mind aspect as the Metaphysical Domain which we subdivide into 5 Strata which is in line with the 5 Layers discussed in Material Superphysics -->
+
 

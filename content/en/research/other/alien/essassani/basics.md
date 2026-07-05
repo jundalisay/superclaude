@@ -229,3 +229,36 @@ Abundance is the ability to do *what* you **need** to do *when* you **need** to 
 ## Success
 
 If at first you don't succeed, redefine success. [and of course don't have any insistence]
+
+
+
+
+{{< d t="Superphysics Note" >}}
+## Same Metaphysics, Different Words: Common Cause of Confusion
+
+The common cause of confusion with Sassani principles is that the channels use ENGLISH words such as **highest excitement** and **beliefs** for metaphysical concepts like **dharma** and **samskara**. 
+
+**Dharma** is a fundamental and established spiritual concept in Asian Metaphysics. It represents your True Nature. 
+
+Dharma is never negative and always positive. This is why acting on your highest excitement can never be negative. 
+
+The problem is that the english word of "highest excitement" does not imply spirituality nor is equivalent to Dharma. 
+- This is proven by some people asking if robbing a bank or killing people can be their highest excitement.
+
+This dharma is clouded by **samskara** which is the effect of actions in the world. 
+
+**Samskaras** are like metaphysical imprints or dents that warp the sphere of your soul making it imperfect. Some dents are deeper than others. 
+
+Permission slips are personal ways to get rid of personal dents to be the True Undented Self.
+
+This is why the Sassani tell people to get rid of their **negative** beliefs but never mention anything about **positive** beliefs. The Sassani are really saying to burn your samskaras or fix the dents in your soul-sphere. So physical life is just the soul denting itself to experience the undenting process.
+
+Actions are based on beliefs and so the Sassani use the word *belief system*. When the more accurate expression is karma (actions) create samskara (imprints) that must be smoothed out.
+
+So instead of `Beliefs ➜ Emotions ➜ Actions` we say more accurately: `Samskara ➜ Feelings ➜ Karma`
+
+So the Sassani are saying to choose your dharma instead of your samskara. 
+
+The Buddhist and Hindu way is to avoid getting dents in the first place. This is done by non-attachment while remembering one's dharma every second through constant mantra repetition. For example, they use mala beads as permission slips. 
+{{< /d >}}
+

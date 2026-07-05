@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 3"
 title: "The Different Religions and Belief Systems"
 date: 2024-07-15
 image: /photos/meta/buddhism.jpg

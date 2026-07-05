@@ -1,7 +1,8 @@
 ---
 title: "How to Fix Greece"
 linkTitle: Greece
-heading: "Fiscal and Monetary Reform (Industry and Trade Factors)"
+heading: Negative Trader
+# heading: "Fiscal and Monetary Reform (Industry and Trade Factors)"
 date: 2015-04-15
 weight: 75
 image: "/flags/gr.png"
@@ -10,12 +11,12 @@ description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
 
 
 
-We can use our [DSIT tool](/social/economics/principles/part-3/chapter-07c/) as black box for the 4 laws of value to analyze the Greek crisis to prove that austerity and high taxes are not the best solutions.
+We can use our [DCIT tool](/dcit/) as black box for the 4 laws of value to analyze the Greek crisis to prove that austerity and high taxes are not the best solutions.
 
-Such technocratic solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of as a society.*
-
+Such technocratic solutions are a relic of the mercantile way of thinking of an economy as a business, instead of as a society.*
 
 {{< u d="Nov 2016" u="The Brexit vote proves that the current mercantile solution was wrong" >}}
+
 
 
 The 2008 Credit Crunch triggered the crisis, so we set:
@@ -28,15 +29,15 @@ The 2008 Credit Crunch triggered the crisis, so we set:
 
 ## Greece 2013: High Demand, Low Trade
 
-{{< img src="/graphics/econ/greece1.png" alt="The DCTI ratios of Greece" cap="The DCTI of Greece: Demand as population, Capital as Employment rate, Trade as Nominal GDP, and Industry as Production">}}
+{{< img src="/graphics/econ/greece.jpg" alt="The DCIT ratios of Greece" cap="The DCIT of Greece: Demand as population, Capital as Employment rate, Trade as Nominal GDP, and Industry as Production">}}
 
 
 Metric | Notes
 --- | ---
 Demand | The Population from 2001 to 2009 is ok. But the decline in 2013 shows an anomalous reduction
-Supply | Employment from 2001 to 2009 is also ok, so that is not the cause of the problem
+Capital | Employment from 2001 to 2009 is also ok, so that is not the cause of the problem
 Industry | Production started to decline by 2009. This is strange because its employment was good
-**Trade** | Trade rose from 2001 to 2009. This is strange because it is way above its supporting capital
+{{< c v="red">}}Trade**{{< /c >}} | Trade rose from 2001 to 2009. This is strange because it is way above its supporting capital
 
 
 We can pinpoint the anomaly to the strange increase in trade in 2004 and 2009 that did not contribute to industry. This means that the trade was speculative (like in a stock market crash) or unproductive (like in a debt crisis).
@@ -188,9 +189,18 @@ It is not because they are poor that their payments are irregular and uncertain,
 
 Austerity and high taxes are mercantile solutions which work well for businesses but not for society. If a business is in trouble, it can simply lay off or remove excess workers. But if a society or family is in trouble, it cannot remove its citizens or family members by forcing them to go overseas or to die from disease  or suicide. 
 
-Instead, society or family members naturally share the burden for the sake of the well-being of the collective, something that would not make sense among competing businesses.
+Instead, society or family members naturally share the burden for the sake of the well-being of the collective, something that would not make sense among competing businesses.-->
 
-<!-- ![European Politicians together](https://socioecons.files.wordpress.com/2015/04/paris_politicians_3161352c.jpg) -->
+
+## Update June 2026: The Origin of the Debt 
+
+But the debt is similar to the Latin American Debt Crisis which happened in the 1980s. So the cause must be systemic, coming even before the 1980s. 
+
+We pintpoint it to the Nixon Shock which itself was caused by Breton Woods which made the US dollar an international reserve currency as explained by our video:
+
+{{< youtube lQKk14CFLbw >}}
+
+
 
 
 ## The Solution: Barter and Multilateral Clearing
@@ -202,7 +212,7 @@ If gold and silver should fall short in a country which can buy them, there woul
 Adam Smith's solution to financial crises was to revert to **barter** and to pay for the debt **in kind**. 
 
 
-### Moneyless Economy
+### Moneyless Economy and and Multilateral Clearing
 
 Instead of Greece raising money-taxes, it will tax in kind. 
 - Companies will pay their taxes in their own products
@@ -213,18 +223,17 @@ The EU can set up a clearing office in the countries that Greece owes money to. 
 - a clearing office in France
 - a clearing office in Germany 
 
+{{< img src="https://sorasystem.sirv.com/charts/pool/gr.png" alt="Pool clearing for Greece" cap="An example of Pool clearing for Greece" >}}
+
+
 Greece will then send Greek products (from taxation) to those clearing offices to pay for its debt.  
 
 The French/German clearing office will sell the Greek products for euros which it will then give to the French/German creditor banks.
 
 France and Germany can then encourage their people to buy more Greek items in order to give liquidity to their own banking systems.
 
-{{< img src="https://sorasystem.sirv.com/charts/pool/gr.png" alt="Pool clearing for Greece" cap="An example of Pool clearing for Greece" >}}
+{{< youtube X-DEf7ah-JA >}} 
 
-
-<!-- Likewise, Greece will set up a clearing office for its EU imports.
-
-so that the Greek Euros can go directly to pay the debt. In this way, the debt will be paid by the Greeks paying for EU imports into their clearing fund and by EU citizens paying for Greek products into theirs.  -->
 
 Unlike the financial solution which kills the economy to pay for the debt, the moneyless solution spurs the economy.
 
@@ -233,7 +242,6 @@ Unlike the financial solution which kills the economy to pay for the debt, the m
 In effect, the clearing funds unify the EU states into a barter union to offset the problems of their monetary union. 
 
 This keeps individual member states independent and able to state their own fiscal policies without needing a fiscal union*. 
-
 
 {{< f f="*A fiscal union is a mercantile solution similar to a corporation buying its suppliers and customer-companies in order to vertically integrate for greater efficiency. It would be a sort of imperialism among nations." >}}
 
@@ -254,7 +262,10 @@ As Greece is a country known tourism and hospitality rather than industrial prod
 
 To further raise tourism revenue and make it regular, the EU could make Greece a permanent Olypmics or sporting competition site for Europe so that the spending for the 2004 Olympics would not go to waste. This would make sense since Greece was the original birthplace of both ancient (Olympia) and modern olympics (Athens, 1859). 
 
-This system can be scaled to other countries so that the monopoly of finance can be broken and economic crises can be avoided. This proposal from Adam Smith was refined by EF Schumacher, not only as an economic solution, but also as a deterrent to war.
+This system can be scaled to other countries so that the monopoly of finance can be broken and economic crises can be avoided. 
+
+This proposal from Adam Smith was refined by EF Schumacher, not only as an economic solution, but also as a deterrent to war.
+
 
 
 {{< b >}}
@@ -264,13 +275,5 @@ Date | Update
 --- | ---
 Mar 2024 | Added credit derivatives, and EU weakness, as the main cause of the fault
 Oct 2025 | Overhauled to meet the 4 laws of value
-
 {{< /b >}}
 
-<!-- This will generate a regular revenue stream which can be used to help pay off the debt.
- -->
-
-<!-- <figcaption>The EU could make </figcaption>
-
-Having a permanent Olympic site such as Athens can disburden other countries from spending large amounts of money for building their own olympic and sports venues, which are oftencorruptedor even  set up in unnatural places. In this way, Greece can build on its natural and acquired advantages as a top global tourist destination, just as German policies build on Germany’s natural advantages as a top destination for advanced manufacturing.
- -->

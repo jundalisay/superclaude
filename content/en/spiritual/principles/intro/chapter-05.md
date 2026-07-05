@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4"
+heading: "Chapter 5"
 title: "Dharma Versus Morality and Karma"
 date: 2024-12-31
 image: "/graphics/meta/morals.png"
