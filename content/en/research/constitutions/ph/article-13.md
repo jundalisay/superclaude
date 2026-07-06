@@ -1,6 +1,6 @@
 ---
 title: Social Justice and Human Rights
-heading: Article 13 of the 1987 Constitution Simplified
+heading: Article 13
 weight: 22
 description: ""
 image: "/flags/ph.png"

@@ -1,6 +1,6 @@
 ---
 title: Bill of Rights
-heading: Article 3 of the 1987 Constitution Simplified
+heading: Article 3
 weight: 4
 description: "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws"
 image: "/flags/ph.png"

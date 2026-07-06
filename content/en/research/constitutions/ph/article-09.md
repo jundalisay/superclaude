@@ -1,7 +1,6 @@
 ---
 title: Constitutional Commissions
 heading: Article 9
-# of the 1987 Constitution Simplified
 weight: 12
 description: ""
 image: "/flags/ph.png"

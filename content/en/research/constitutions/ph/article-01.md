@@ -1,6 +1,6 @@
 ---
-title: Declaration of Principles and State Policies
 heading: Articles 1-2
+title: Declaration of Principles and State Policies
 weight: 2
 description: "National Territory"
 image: "/flags/ph.png"

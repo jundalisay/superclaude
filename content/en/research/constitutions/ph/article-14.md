@@ -1,7 +1,6 @@
 ---
 title: Education, Science and Technology, Arts, Culture, and Sports
 heading: Article 14
-# of the 1987 Constitution Simplified
 weight: 24
 description: "The State shall protect and promote the right of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all"
 image: "/flags/ph.png"

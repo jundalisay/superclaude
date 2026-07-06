@@ -1,9 +1,8 @@
 ---
 title: Language
-heading: Article 14b
-# of the 1987 Constitution Simplified
+heading: Article 14
 weight: 25
-description: "The State shall protect and promote the right of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all"
+description: ""
 image: "/flags/ph.png"
 icon: /flags/ph.png
 ---
