@@ -23,7 +23,7 @@ The relationships between these factors create qualitative and quantitative rati
 
 Type | Demand The needs and wants of the people | Capital Available potential effort | Trade The exchange of productions or spreading of the effort | Industry The actual kinetic effort or production 
 --- | --- | --- | --- | ---
-Quantitative | Population Size `P`, Youth or Age `Y`, Female-Male Ratio `F` | Employment `J`, Education `L`,  Incoming Investments `Ii`, Outgoing investments `Xi` | Nominal GDP Growth `G`, Rate Of Interest `R`, Inflation `N`, Debt `D`, Imports `It`, Exports `Xt`, Economic Value `V`  | Real GDP in Dollar or Grain Value `G`, Grain Value Initiated By Government `O` Grain Value Initiated By Services `S`, Grain Value Initiated By Agriculture `A`, Grain Value Initiated By Manufacturing `M`
+Quantitative | Population Size `P`, Youth or Age `Y`, Female-Male Ratio `F` | Employment `E`, Education `C`,  Incoming Investments `Ii`, Outgoing investments `Xi` | Nominal GDP Growth `G`, Rate Of Interest `R`, Inflation `N`, Debt `D`, Imports `It`, Exports `Xt`, Economic Value `V`  | Real GDP in Dollar or Grain Value `G`, Grain Value Initiated By Government `O` Grain Value Initiated By Services `S`, Grain Value Initiated By Agriculture `A`, Grain Value Initiated By Manufacturing `M`
 Qualitative | `GP`, `VP`, `GF`, `VF`, `GY`, `VY` | `GJ`, `VJ`, `GL`, `VL`, `VIi`, `VXi` | `GO`, `VO`, `GS`, `VS`, `GA`, `VA`, `GM`, `VM` | `GR`, `GN`, `GD`, `GIt`, `GXt`, `VIt`, `VXt`
 Supereconomic Indicators | Change in Grain Value `G`, Number of Users `P`, Average Age of Users `Y`, Average Female-Male Ratio `F` | Change In Grain Value `G`, Users Without Job Contracts For X Months `J`, Users Without Learning or Training Contracts For Y Years `L` | `R` Interest Rate of Clearing Funds or Point banks, Grain Index,  Inflation `N`, Debt via Points banking `D`, Value of imports via Pool `It`, Value of exports via Pool* `Xt` | Grain value of govt contracts `O`, Grain value of service contracts `S`, Grain value of agri contracts `A`, Grain value of product contracts `M` 
 Goal | Minimum Requirements | Real Price via the Economic Table | Economic Growth (this is the only aspect that Modern Economics focuses on)| Economic balance or stasis 
@@ -46,8 +46,8 @@ Demand Ratios | Description
 
 Capital Ratios | Description
 --- | ---
-`GJ` | the rise or fall in unemployment as the society gets wealthier. A rising slope may indicate inequality or oligarchy
-`GL` | the rise or fall in education as the society gets wealthier. A rising slope may indicate investments in higher education and austere morals as opposed to liberal morals
+`GE` | the rise or fall in employment as the society gets wealthier. A rising slope may indicate inequality or oligarchy
+`GC` | the rise or fall in education as the society gets wealthier. A rising slope may indicate investments in higher education and austere morals as opposed to liberal morals
 `GIi` | the rise or fall in inbound investments as the society gets wealthier. A rising slope may indicate a young country.
 `GXi` | the rise or fall in outbound investments as the society gets wealthier. A rising slope may indicate an old country.
 

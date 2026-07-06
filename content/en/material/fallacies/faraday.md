@@ -78,6 +78,12 @@ Instead, Maxwell merely adds divergence and curl to the flux. His ignorance allo
 ![Wire](/photos/physics/electricity.jpg) 
 
 
+## Solution
+
+We add a channel that allows electron vortices within a magnetic vortex in order to match the voltages seen in Faraday's paradox. 
+
+$\nabla \times \mathbf{E} = \nabla \times (\Gamma \cdot S_{alignment} \cdot (\mathbf{v}_{wire} \times \Psi_{field}))$
+
 
 ## The Relativity Scam
 
