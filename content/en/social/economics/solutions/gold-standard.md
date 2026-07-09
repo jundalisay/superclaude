@@ -80,6 +80,14 @@ If the investment fails, then other foreign investors can add more gold to overh
 
 Alternately, the investment can be wound down and the inert JPY can be used to export Japanese products to Vietnamese investors to satisfy their claim with even the possibility of material gain, despite a monetary loss.
 
+
+## A Floor That People Can Count On
+
 This clearing system is different from the current commercial system as it creates a win-win situation through the cooperation of the central banks, investors, producers, exporters, and importers.
 
-The commercial system, on the other hand, fosters no such cooperation. This is why banks with failed investments get stuck with non-performing loans which then cause financial crises. 
+The commercial system, on the other hand, fosters no such cooperation. 
+
+If you have no money, then you get nothing. This makes the commercial system very objective, but also very uncaring. 
+- This also goes against the nature of a subjective universe. 
+
+This is why banks with failed investments get stuck with non-performing loans which then cause financial crises where the uncaring Negative vibration spreads across the entire population, triggering the Negative self-preservation mode in everyone that creates a cycle of recession and depression. 

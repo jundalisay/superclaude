@@ -221,6 +221,7 @@ Culture | Expression of a society-organism
 Dogmisn | a blind belief perpetuated by the mind of a certain person
 Ideology Matrix | a 3D chart that classifies all ideas
 Society | a metaphysical organism made up of individual souls connected and united together; a group of people who move together (Sarkar) 
+Socratic Socialism | a system of governance which has the four virtues of Socrates for the four classes
 Socratic Liberal | the Democrat caste made up of workers and ordinary people. This is the most numerous in any society
 Socratic Neocon | the Tyrant caste made up of warriors, generals, and leaders. This is commonly the monarchy. 
 Socratic Conservative | the Aristocrat caste made up of philosophers, scientists, and researchers. This manifests as the Enlightenment, Theocracy, Religion, or Shariah
