@@ -61,10 +61,23 @@ This explains:
 
 You could think of the Kingdom of God as a political party (with a ready-to-use set of political policies). People who were preaching the Kingdom of God were actually preaching a political party that was competing with others. Anyone who was following the other political party was committing 'sin'.
 
-Most of the prophets in the Old Testament were political propagandists (who advised policies against foreign invaders) more than being moralists.
+Most of the prophets in the Old Testament were political propagandists (who advised policies in favor of the Anunnaki and against foreign invaders and their beliefs) more than being moralists.
 
 
-## Morals are Based on Feelings
+## Another Example
+
+An easier example, that doesn't refer to God, is a celibate man saying that sexual diseases are caused by sex. Therefore, sex should be banned. 
+
+He correctly says that sexual diseases are caused by sex, from his observation of human affairs. 
+- This is the 'is' part. 
+
+But he jumps into an 'ought' by saying that people shouldn't have sex. 
+
+In this way, he imposes his own beliefs on others, all of which are rooted in his feelings, without taking into account the feelings or situation of others.
+
+
+
+## How to Derive Is From Ought: Morals are Based on Feelings
 
 {{< q a="David Hume" >}}
 Authors do not commonly use this precaution. I recommend it to the readers. This small detail would subvert all the vulgar systems of morality, and let us see that the distinction of vice and virtue is not founded merely on the relations of objects, and perceived by reason.
@@ -72,6 +85,15 @@ Authors do not commonly use this precaution. I recommend it to the readers. This
 
 Hume explains that morals are not based on the reason of humans, but on their feelings. **It is these feelings that humans use to base reasoning on.** 
 
-An easier example, that doesn't refer to God, is a celibate man saying that sexual diseases are caused by sex. Therefore, sex should be banned. 
+Therefore, to derive moral rules from facts, **WE SHOULD GET THE FEELINGS OF EVERYONE**. 
 
-He correctly says that sexual diseases are caused by sex, from his observation of human affairs. This is the 'is' part. But he jumps into an 'ought' by saying that people shouldn't have sex. In this way, he imposes his own beliefs on others, all of which are rooted in his feelings, without taking into account the feelings or situation of others.
+After we understand the feelings of everyone, then we can find a common vibration. 
+
+{{< q a="David Hume" c="Treatise of Human Nature, Book 2 Part 3 Section 9" >}}
+With regard to the passions, the human mind is not like a wind-instrument which loses the sound after the breath ceases. **It rather resembles a stringed instrument**. After each stroke, the vibrations still retain some sound which gradually and insensibly decays.
+{{< /q >}}
+
+
+This idea was later developed by Adam Smith as the **Theory of Moral Sentiments** which is based on fellow feeling. 
+
+We implement this through national Consitutional Virtues which harmonizes with those of other nations to create a common moral system that will be the basis for a global constitution for an Earth government. 
