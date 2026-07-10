@@ -1,9 +1,8 @@
 ---
-heading: "Unit 2"
+heading: "Unit 3"
 title: "Social Topographic Behavior"
-# linkTitle: Social Topographic Behavior
 date: 2021-08-21
-weight: 44
+weight: 8
 image: "/photos/objects/egypt.jpg"
 description: "The general behavior of a people that arises from the topography of their homeland"
 writer:

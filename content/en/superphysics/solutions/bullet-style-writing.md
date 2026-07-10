@@ -57,7 +57,7 @@ For example, we implement Hume's metaphysical ideas in re-organizing a news arti
 
 <!-- (http://news.yahoo.com/reports-japans-abe-air-plan-5-trillion-economy-070750877.html) -->
 
-![Bullet-style writing](https://socioecons.files.wordpress.com/2015/09/bulletstyle-new-page-2.png)
+![Bullet-style writing](/graphics/meta/bullet.jpg)
 
 
 
