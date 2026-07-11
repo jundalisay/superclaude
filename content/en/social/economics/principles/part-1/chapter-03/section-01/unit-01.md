@@ -11,6 +11,8 @@ description: "Economics uses money both as a store of value and tool of trade. S
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/part-1/chapter-04b  
 ---
 
 

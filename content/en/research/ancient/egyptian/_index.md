@@ -1,7 +1,7 @@
 ---
 title: "Egyptian Sources"
 linkText: Egyptian
-a: Anunnaki
+a: Pharaoh
 weight: 1
 c: "darkslategray"
 description: "Texts from Egyptian civilization"

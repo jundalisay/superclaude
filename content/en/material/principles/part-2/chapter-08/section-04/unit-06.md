@@ -14,11 +14,7 @@ icon: "Juan"
 
 
 
-<!-- In Principia Philosophia Part 4 Article 202, Descartes denounces the belief of Democritus that gravity comes from matter, a belief later adopted by Newton. 
-
-Instead, Descartes attributes  -->
-
- <!-- a virtual substance called the 2nd Element, . -->
+<!-- In Principia Philosophia Part 4 Article 202, Descartes denounces the belief of Democritus that gravity comes from matter, a belief later adopted by Newton. -->
 
 Gravity is caused by the relation or relativity between bodies, facilitated by space particles, now called spacetime.
 
@@ -33,6 +29,13 @@ You could say that the planets and oort cloud are sticking to the sun's gravitat
 ## Circular Orbits
 
 Chapter 4 explained that spatial vortices come from cohoesion gravity due to the relational speed of space particles around the sun.
+
+Both Newton's Universal Law of Gravitation and Einstein's General Relativity do not have the concept of inherent spin from vortices. 
+
+So we replace both with our aether equation having a displacer and rotater from the 1st and 2nd rules of motion.
+
+
+
 
 
 <!-- Descartes describes them as globules that are very flexible and mobile, giving them liquid properties.

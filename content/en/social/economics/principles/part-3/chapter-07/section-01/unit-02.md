@@ -86,8 +86,8 @@ For example, we can compare the value of the purchases of 5 people for this mont
 
 <!-- The Grain index, as stated in the Digression is theratio of the price of commodities to the price of grain.  For example: -->
 
-- If a kilo of rice in the Philippines is $0.75 and a kilo of chicken is $2.50 then 1 rice : 0.33 chicken.
-- If a kilo of rice in Vietnam is $0.50 and chicken is $5, then 1 rice : 0.10 chicken.
+- If a kilo of rice in the Philippines is $0.75 and a kilo of chicken is 2.50 USD then 1 rice : 0.33 chicken.
+- If a kilo of rice in Vietnam is 0.50 USD and chicken is 5 USD, then 1 rice : 0.10 chicken.
 
 
 As of Q4 2019 | **Philippines** | **Vietnam** 
@@ -97,7 +97,7 @@ As of Q4 2019 | **Philippines** | **Vietnam**
 
 
 
-This means that chicken is really cheaper in the Philippines. This means that while Vietnamese enjoy cheaper rice, Filipinos enjoy luxuries better (to Smith, meat is a luxury).
+This means that chicken is really cheaper in the Philippines. This means that while Vietnamese enjoy cheaper rice, Filipinos enjoy luxuries better (to Adam Smith, meat is a luxury).
 
 This is consistent if we replace chickens with cars. A Toyota Vios is 16,000 kg rice in the Philippines, but 44,250 kg rice in Vietnam.
 
@@ -172,6 +172,15 @@ The riches of a country does not consist in the amount of money used to circulat
 {{< /q >}}
 
 
+The real difficulty in implementing this system is that it requires a high degree of morality. This is consistent with:
+- Adam Smith writing The Theory of Moral Sentimetns before The Wealth of Nations
+- India pushing for dharma and morality such as yama and niyama
+- China pushing for the Tao and virtue
+- Socrates and Aristotle pushing for virtue
+- The Inca pushing for ayni or reciprocity
+
+This is totally opposite of the current moral system where people are pushed to get more money as a means of security. 
+
 
 _ | Economics | Supereconomics
 --- | --- | ---
@@ -182,7 +191,7 @@ Ease or Difficulty | Difficult, needs to get accounting of all output, and vario
 
 
 {{< dc t="Update: July 2021" >}}
-#### So What's the Use of GDP in Supereconomics?
+### So What's the Use of GDP in Supereconomics?
 
 Since GDP will no longer be the measure of wealth, it becomes a measure of **the velocity of an economy** or how fast the economy is going, or whether it is going forward of backward. It is an important part of [the DCTI tool](/social/economics/principles/part-4/chapter-07) in the absence of a direct way to get the Purchasing power of everyone.
 {{< /dc >}}

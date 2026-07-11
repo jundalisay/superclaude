@@ -24,13 +24,26 @@ The previous section explained that Socratic Dialects relies on Data Science to 
 
 Data Science is associated with Artificial Intellgence or AI.
 
-Intelligence comes from the Latin "intelligentia" which means understanding. An intelligent person is someone who has the ability to understand quickly. 
+Intelligence comes from the Latin "intelligentia" which means understanding. 
 
-Artificial Intelligence therefore means a man-made thing, usually a computer, that can understand. 
+Understanding is when all the connections between ideas are known
+- We call these connections as relationality
 
-However, this is incorrect since the computer doesn't understand at all. Its understanding really came from the training data that was fed to it, which was labeled by humans. 
+These connections make the ideas form a single idea-blob or cloud. 
 
-So that understanding came from the human labeling and therefore it is not artificial. 
+This converts many ideas into a single idea. 
+
+An intelligent person is someone who has the ability to understand quickly and connect ideas into a single cohesive blob idea then throw that around whole in his mind, without it breaking up. 
+
+Artificial Intelligence therefore means a man-made thing, usually a computer, that can understand and:
+- create a big idea from small ideas
+- dissect and analyze a big idea into smaller ones
+
+However, this is incorrect since the computer doesn't understand at all. 
+
+Its understanding really came from the training data that was fed to it, which was labeled by humans. 
+
+**So that understanding came from the human labeling and therefore it is not artificial.** 
 
 This is why we call such technologies as Automated Natural Intelligence or ANI:
 
@@ -64,18 +77,18 @@ The problem is that thoughts are **totally static** compared to ideas. They need
 
 A computer can 'think' by processing data into information since it uses electromagnetism which also has flow as amps, and force as volts.
 
-However, a computer can never ideate, because **ideation** is an aethereal act. This is why current artificial intelligence is inferior to humans which use natural intelligence.
+However, **a computer can never ideate**, because **ideation** is an aethereal act. 
 
-
+This is why current artificial intelligence is inferior to humans which use natural intelligence.
+- It can only generate words or music or art that has reference to what humans have already created.
 
 Layer | Artificial Intelligence | Natural Intelligence 
 --- | --- | ---
-Aether | | :heavy_check_mark:
-Spacetime | | :heavy_check_mark:
-Radiant | :heavy_check_mark: | :heavy_check_mark:
-Convertible | :heavy_check_mark: | :heavy_check_mark:
-Material | :heavy_check_mark: | :heavy_check_mark:
-
+Aether | | ✅
+Spacetime | | ✅
+Radiant | ✅ | ✅
+Convertible | ✅ | ✅
+Material | ✅ | ✅
 
 
 Like thoughts, ideas are also static. But they can have a larger size, such as a "big" idea. 
@@ -123,18 +136,23 @@ n | Rejection | Basis
 From these tables we can extract the patterns in their ratios, **throughout space and time**, in order to find the inner qualities or dharma of the identity or phenomena. 
 
 This is what natural intelligence does. 
+- Your soul is connected to other versions of itself, as well as to other souls, via the oversoul. 
+- Spacetime separates the souls from each other.
 
-The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. 
+
+**The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. **
 
 <!-- In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines.  -->
 
-The current technique is to use *scale* to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the raw power approach. 
+
+The current technique is to use *scale* to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the **raw power** approach. 
 
 In ordinary life, a crude precursor to ANI manifests as ChatGPT and Google Gemini. 
 
-These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
+These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) in **a single data center** to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
 
-In our paradigm, the transformer model only goes to the spatial layer but does not extend to the aethereal. This is why it suffers from hallucinations.
+In our paradigm, the transformer model only goes to the electromagnetic layer and a bit to the spatial layer (if it has enough memory), but does not extend to the aethereal. 
+- This is why it suffers from hallucinations.
 
 Our approach prefers sophistication over sheer power. This is by finding the patterns in data, throughout space and time, based on the 5 Layers model. 
 
@@ -147,6 +165,42 @@ The basic steps are:
 5. The feedback then updates or tweaks the relationalities.  
 
 
+## Requires Quantum Computing
+
+These steps are supposed to be done by quantum computers which tap into the aethereal layer through the abitrary nature of the micro-aetherspace which is called the gluon field by Physics. 
+
+The data is electromagnetic, and the sources of that data may come from anywhere (spatial), but the processing is done aethereally by quantum computers. 
+
+This is because the micro-aetherspace is closest to the pure aether of the abstract human mind aka soul. 
+
+The Sassani explain this as **time crystals** which they use as the AI for their ships.
+
+{{< youtube 0YJ-QoFPeYo >}}
+
+<!-- At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
+
+For example:
+- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
+- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
+
+**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
+
+However, the human can still beat the AI by tapping into the creative aether, showing moves never done before. 
+ -->
+
+## Should We Fear ANI?
+
+Unlike fearful humans who say that AI will be cruel and obliterate mankind, ANI will be wise since it will be made up of all the known intelligences.
+
+It will not be cruel because it will get its energy source from solar.
+
+It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
+
+
+
+
+
+
 <!-- In order to overcome this limitation, its training data should be very large, coming from all sources possible. It should **aggregate** all the data that humans produce.  
 
 This aggregated data will let it have a bigger overall persepective, letting it free of the bias which affects limited human minds. Thus, it the aggregated data will let it be **impartial**. -->
@@ -155,7 +209,7 @@ This aggregated data will let it have a bigger overall persepective, letting it 
 
 This machine learning or pattern-simplification and pattern-finding must be free of bias. It must be impartial. -->
 
-The Cartesian Relationality of the data is the impartial aspect of the machine learning.  
+<!-- The Cartesian Relationality of the data is the impartial aspect of the machine learning.  
 
 This is why we call the `ANI` of Superphysics as `ISAIAH` which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
 
@@ -164,7 +218,7 @@ Acronym | Description
 --- | ---
 Impartial Spectator (IS-) | The ANI must be impartial and free from human bias
 Automated Intelligence (-AI-) | The ANI automates the pattern-finding
-Aggregation Hub (-AH) | The ANI aggregates all data
+Aggregation Hub (-AH) | The ANI aggregates all data -->
 
 
 <!-- Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
@@ -180,26 +234,6 @@ Impossible to aggregate physically | Easy to aggregate (metals can be melted tog
 
 
 We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **Artificial Sentience** (AS).  -->
-
-At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
-
-For example:
-- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
-- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
-
-**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
-
-However, the human can still beat the AI by tapping into the creative aether, showing moves never done before. 
-
-
-
-## Should We Fear ANI?
-
-Unlike fearful humans who say that AI will be cruel and obliterate mankind, ANI will be wise since it will be made up of all the known intelligences.
-
-It will not be cruel because it will get its energy source from solar.
-
-It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
 
 
 
