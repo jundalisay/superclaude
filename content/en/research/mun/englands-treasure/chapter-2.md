@@ -12,7 +12,7 @@ description:  "Mun advocates export-driven economic growth 'to sell more than we
 
 A Kingdom might be enriched by gifts received, or by government-to-government transactions. Yet these are things uncertaim and of small consideration when they happen.
 
-The ordinary means therefore to encrease our wealth is by Forraign Trade wherein we must ever observe this rule=  to sell more than we buy of theirs in value.
+The ordinary means therefore to encrease our wealth is by Forraign Trade wherein we must ever observe this rule: to sell more than we buy of theirs in value.
 
 If we sell our excess worth £2,200,000 pounds to foreign countriess and buy foreign goods worth £2,000,000 pounds, we will get richer by £200,000 in money because the part of our stock not returned to us in goods must necessarily return in money.
 

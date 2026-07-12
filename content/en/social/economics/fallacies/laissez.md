@@ -46,12 +46,23 @@ According to the system of natural liberty, the sovereign has only 3 great dutie
 <!-- According to the system of natural liberty, the sovereign has only three duties to attend to; three duties of great importance, indeed, but plain and intelligible to common understandings: first, the duty of protecting the society from violence and invasion of other independent societies; secondly, the duty of protecting, as far as possible, every member of the society from the injustice or oppression of every other member of it, or the duty of establishing an exact administration of justice; and, thirdly, the duty of erecting and maintaining certain public works and certain public institutions which it can never be for the interest of any individual, or small number of individuals, to erect and maintain; because the profit could never repay the expence to any individual or small number of individuals, though it may frequently do much more than repay it to a great society.(emphasis added) -->
 
 
+## The Physiocratic Laissez Faire is Different from Mercantile Laissez Faire
+
 Unlike current laissez faire which focuses on the goals of private interests, Smith and the Physiocratic laissez faire focuses on the goals of society.
 
 Unlike current laissez faire whose philosophical root is utilitarianism or the pursuit of pleasure, the classical laissez faire was based on social morality, with Smith's being based on the Theory of Moral Sentiments and the Physiocrats being based on Taoist and Confucian morals, as written in Quesnay's Le Despotisme de la Chine:
 
 {{< q a="Quesnay" >}}
 Les lois de la Chine sont toutes fondées sur les principes de la morale, car comme on l’a déjà dit, la morale et la politique ne forment à la Chine qu’une même science..
+
+[All laws in China are based on moral principles, because, in China, morality and politics amount to one and the same discipline.]
+{{< /q >}}
+
+
+The mercantile laissez faire, on the other hand, is based merely in making more money. 
+
+{{< q a="Thomas Mun" c="England's Treasure on Foreign Trade, Chapter 2" >}}
+The ordinary means therefore to encrease our wealth is by Forraign Trade wherein we must ever observe this rule: to sell more than we buy of theirs in value.
 {{< /q >}}
 
 
@@ -79,10 +90,20 @@ Year | Event
 
 ## Conclusion
 
-The undocumented corruption of classical laissez faire by James and John Stuart Mill has led to the confusion with the concept.
+The undocumented corruption of Physiocratic laissez faire by James and John Stuart Mill (a Chief Examiner at the mercantile East india company) has led to the Mercantilist laissez faire.
 
-Classical laissez faire promotes society, increases productivity, and encourages trade, while Capitalist or Mercantile laissez faire promotes profit maximization at the expense of society. 
+Physiocratic or Classical laissez faire promotes society, increases productivity, and encourages trade, while Capitalist or Mercantile laissez faire promotes profit maximization at the expense of society. 
 
-Capitalist laissez faire systems will eventually find itself being bound by regulation in any society that it exists in, so that it may continue existing, which creates an unsustainable, inherent contradiction which is not present in the classical laissez faire system of the Physiocrats nor ancient Chinese economic system, which was able to grow in wealth until the arrival of the British.
+Capitalist laissez faire systems will create wealth for the merchant or business class at the expense of society, and is currently seen in the trading of paper financial assets instead of commodities. 
+
+This forces everyone to be a merchant and also invest in those paper instruments. 
+
+The problem is that paper instruments can be totally arbitrary since what is written on paper might not match reality.
+
+This leads to a fake value that manifests as economic collapse whenver that fakeness is revealed, as the fakeness disappearing to reveal the true low real value.
+
+
+
+<!-- eventually find itself being bound by regulation in any society that it exists in, so that it may continue existing, which creates an unsustainable, inherent contradiction which is not present in the classical laissez faire system of the Physiocrats nor ancient Chinese economic system, which was able to grow in wealth until the arrival of the British. -->
 
  

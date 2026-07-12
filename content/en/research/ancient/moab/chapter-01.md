@@ -2,6 +2,7 @@
 title: "Mesha"
 weight: 1
 c: "darkslategray"
+image: "/photos/medieval/moab.jpg"
 description: ""
 ---
 
