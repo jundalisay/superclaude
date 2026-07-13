@@ -17,38 +17,60 @@ aliases:
 
 The gravitational signature arises from the constant belligerence of the 2 Forces. This creates vortices in the 5 Layers which is called spin by Modern Physics. 
 
-This has the following characteristics:
+This has the following characteristics coming from the 4 rules of motion:
 
-1. Rotation Direction
-2. Rotation Speed
-3. Rotation Strength
-4. Momentum (within the Spatial Layer)
-<!-- 5. Momentum Strength -->
+
+Rule | Property
+--- | ---
+1 | Layer
+2 | Speed
+3 | Strength
+4 | Polarity
+<!--1 was Rotation Direction. 4 was Momentum -->
+
+This matches:
+- Rule 1 going with Rule 3
+- Rule 2 going with Rule 4
 
 All of these are in relation to other spins. 
 
 
-## Rotation Direction
+## 1. Rotation Layer
 
-The direction of a spin can either by positive (counterclockwise) or negative (clockwise).
+The spins interact within a range. Beyond that range, the other spins are non-real or non-perceivable.
 
-
-## Rotation Speed 
-
-This can be slow or fast
+This is set up by the perception space.
 
 
-## Rotation Strength
+## 2. Rotation Speed 
+
+This can be slow or fast.
+
+
+## 3. Rotation Strength
 
 This shows whether an identity will change its rotation speed easily or with difficulty.
 
 
-## Momentum
+## 4. Rotation Polarity 
 
+This is either positive (counterclockwise) or negative (clockwise).
+
+
+
+Momentums is a product of Speed + Strength on the medium of Layer and Polarity. 
+
+The fastest forward movement will be a spin that has:
+- high speed
+- high strength
+- clear path in the layer and polarity
+
+
+<!-- 
+## Momentum
 The differences of direction, speed, strength leads to:
 - relative motion within spacectime 
 - instant motion within the aetherspace
-
-
+-->
 
 

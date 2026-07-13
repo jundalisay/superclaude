@@ -4,7 +4,7 @@ title: "History of Ra"
 description: ""
 c: "indigo"
 a: Ra
-tags: "['pyramids', 'crystal healing']"
+tags: ['pyramids', 'crystal healing']
 ---
 
 

@@ -9,6 +9,7 @@ weight: 9
 ---
 
 
+
 Supermath bridges the numerical nature of Math with the qualitative nature of Qualimath.
 
 The previous section explained that the natural spin or vibration of instances make them easily applicable in geometries. 

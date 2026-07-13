@@ -4,7 +4,7 @@ title: "Pyramids"
 description: ""
 c: "indigo"
 a: Ra
-tags: "['pyramids', 'capstones']"
+tags: ['pyramids', 'capstones']
 ---
 
 

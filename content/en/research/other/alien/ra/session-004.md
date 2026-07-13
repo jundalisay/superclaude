@@ -4,7 +4,7 @@ title: "Initiation"
 description: ""
 c: "indigo"
 a: Ra
-tags: "['pyramids', 'nexus']"
+tags: ['pyramids', 'nexus']
 ---
 
 
