@@ -64,6 +64,23 @@ Recently a [Facebook video](https://www.facebook.com/reel/1661617388141315) show
 This scam summation leads to the Riemann Zeta Function which is part of the non-problem called Riemann hypothesis of the Millennium Prize, which strengthens our earlier assertion that the Millennium Prize is for scams. 
 
 
+## Update July 2026: DeepSeek agrees a bit
+
+I debated `0.999.. = 1` as an arbitrary convention with DeepSeek. 
+
+Basically, it said that `1/3 = 0.333..` then multplying back by 3 is `0.999..` 
+
+I replied that no, if 1 divided by `3` is `0.333..` then multiplying by `3` is `1` since you are just reversing the process. 
+
+But it strangely insists on its weird arbitrary convention of going for `0.999...` as `1`. 
+
+I replied that no one ever sees `0.999.../3` written anywhere i.e. his convention is never seen naturally. 
+
+And it agreed with me. 
+
+![Scam](/graphics/math/999.jpg)
+
+
 
 <!-- https://www.facebook.com/share/v/1C6ExPQ8Jr/
 

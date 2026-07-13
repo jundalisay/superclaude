@@ -38,7 +38,7 @@ This shows the positive or negative nature of the identity.
 This is different from math fractals which are just self-same shapes. 
 
 
-## 2 Type of Superphysics 
+## 2 Type of Superphysics Tetras
 
 Superphysics Tetras are based on perception. As there are 3 domains, we have 2 types of Superphysics Fractals:
 
