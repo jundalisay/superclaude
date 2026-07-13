@@ -7,6 +7,7 @@ description: "Vortex numbers are base-x instances that can make geometry easier 
 weight: 3
 ---
 
+{{< n n="A vortex number is a basic quantitative tetra" >}}
 
 
 A number is an instance of an identity. 

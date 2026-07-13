@@ -28,9 +28,6 @@ However, in Material Superphysics, space is made up of invisible space particles
 
 This "force" manifests as gravity, centrifugal force, casimir effect, van der waals force, etc. 
 
-
-
-
 These particles are constantly striving to move in straight lines, but because the universe is a *plenum* (completely full), they inevitably collide and deflect.
 
 The result of trillions of particles trying to move in straight lines within a confined space is the **Vortex**. Descartes observed that a circle is effectively a polygon with an infinite number of sides; thus, a circular path is the most efficient way for the 2nd element to satisfy its urge for "straight-line" motion while remaining within the collective plenum.

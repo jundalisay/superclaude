@@ -20,9 +20,6 @@ Physics is matter based, applying the matter in `F = ma` into fluid dynamics cal
 {{< i s="/photos/physics/water.jpg" a="water" >}}
 
 
- 
-## Alternative to Navier-Stokes
-
 For example for whirlpools, the Navier-Stokes equation is du/dt + (u∇)u = -1/p ∇p + v∇^2u + f
 
 - du/dt is just the gradient (This is the acceleration part)
@@ -43,9 +40,29 @@ For example, it only has 3 Elements:
 It totally misses out the aether and conversion forces (weak force). Newton seems to have not accounted for the conversion force because he did no chemistry experiments. In contrast, Descartes did chemistry by being exposed to gunpowder and medicine in the European wars. 
 
 
-## The Solution
+## Alternative to Navier-Stokes
 
-Since the liquidity of liquids come from the aether, we modify our gravitation equation to accomodate the nature of liquids. 
+Since the liquidity of liquids come from the aether, we modify our gravitation equation to accomodate the nature of liquids by focusing on the aether as a pressure gradient focusing on density instead of mass. 
+
+```
+F = G·∇ρ/r² + 3G·∇ρ·L²/(c²r⁴)
+```
+
+Where:
+- G·∇ρ/r² is the **displacer** — gravity (2nd element) pushing on density differences (4th element) across space
+- 3G·∇ρ·L²/(c²r⁴) is the **rotater** — the spin correction where L is now local vorticity (angular momentum of fluid parcels) rather than orbital angular momentum
+- The ratio L²/(c²r²) scales the spin by how relativistic the local rotation is — fast vortices get a stronger correction, which is exactly the turbulence cascade behaviour Navier-Stokes struggles to close
+
+
+This density gradient automatically exposes:
+
+- **Viscosity** — because ∇ρ varies smoothly across the fluid, creating shear between layers of different density
+- **Continuity** — because ρ must be conserved: ∂ρ/∂t + ∇·(ρu) = 0
+- **Self-advection** — because a density gradient in a flowing field carries itself: the u·∇u term emerges naturally when matter particles drag each other through the aether
+
+<!-- In the 3rd element equation, m is a point quantity — a fixed scalar. When you move to the 4th element, there are no point masses. Instead you have a **density field ρ(x,t)** whose *gradient* ∇ρ is what the 2nd element (gravity/aether) pushes against. This single substitution:
+
+**m → ρ(x,t) and Gm → g·∇ρ** -->
 
 
 {{< youtube ikYmSLPCl5o >}}

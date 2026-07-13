@@ -5,6 +5,7 @@ date: 2025-11-06
 image: "/photos/objects/fractal.jpg"
 description: ""
 weight: 28
+draft: true
 ---
 
 

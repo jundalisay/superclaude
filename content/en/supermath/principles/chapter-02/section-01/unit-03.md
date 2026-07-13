@@ -1,10 +1,10 @@
 ---
-heading: "Unit 1"
+heading: "Unit 3"
 title: "Popular Constants"
 date: 2026-02-08
 image: "/graphics/super/vortex.jpg"
 description: ""
-weight: 2
+weight: 12
 ---
 
 
@@ -82,3 +82,4 @@ i or imaginary number
  +1=0
 
 what is the ratio of 2.415 (base 6) to 3.05 (base 6). -->
+

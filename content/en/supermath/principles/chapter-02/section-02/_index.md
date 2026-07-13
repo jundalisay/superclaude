@@ -1,8 +1,9 @@
 ---
 heading: "Section 2"
-title: "Vortex Numbers and Fractals"
+title: "Tetras"
 date: 2025-03-18
-image: "/photos/objects/fractal.jpg"
-description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
+image: "/photos/math/tetras.jpg"
+description: ""
 weight: 5
 ---
+

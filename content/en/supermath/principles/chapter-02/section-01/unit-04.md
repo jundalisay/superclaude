@@ -1,12 +1,11 @@
 ---
-heading: "Unit 2"
+heading: "Unit 4"
 title: "Imaginary Numbers as Unit Void"
 date: 2025-12-27
 image: "/graphics/super/vortex.jpg"
 description: ""
-weight: 6
+weight: 16
 ---
-
 
 
 Whole numbers and rational numbers imply staticity whereas irrational numbers imply dynamism.
@@ -158,3 +157,4 @@ The journey of $i$ from "useless subtlety" (Cardano) to fundamental physical ent
 The complex numbers turned out to be not "imaginary" in the sense of "unreal," but rather **the language in which quantum reality is written** — a remarkable vindication of Bombelli's intuition that these "impossible" numbers must mean something.
 
 As Freeman Dyson noted: "Schrödinger put the square root of minus one into the equation, and suddenly it made sense. Suddenly it became a wave equation instead of a heat conduction equation... And that square root of minus one means that nature works with complex numbers and not with real numbers." --> -->
+
