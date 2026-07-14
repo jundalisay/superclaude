@@ -20,12 +20,13 @@ In Superphysics, each identity is an idea and each idea has a spin. Therefore al
 We use the example of `1 + 1 = 2`:
 
 
-_ | Identity "1" | Identity + | Identity "1" | Identity "=" | Identity "2"
+Time | 1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | --- | --- 
+Identity | "1" | + | "1" | "=" | "2"
 Layer | Integer | Operation | Integer | Relation | Integer
-Speed | medium | medium | medium | medium | medium
-Strength | medium | medium | medium | medium | medium
-Polarity | + | + | + | neutral | +
+Speed | 1 | concat | 1 | rigid ratio | 2
+Strength | 1 | 1 | 1 | 1 | 1
+Polarity | + | + | + | + | +
 
 
 ![Tetra](/photos/math/tetra.jpg)

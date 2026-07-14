@@ -14,9 +14,15 @@ icon: "Hugo Grotius"
 
 ## Part 1
 
-In speaking of belligerent powers, it was shewn that the law of nature authorises the assertion not only of our own rights, but of those also belonging to others. The causes therefore, which justify the principals engaged in war, will justify those also, who afford assistance to others. But whether any one presides over an household, or a state, the first and most necessary care is the support of his dependents or subjects. 
+In speaking of belligerent powers, it was shewn that the law of nature authorises the assertion not only of our own rights, but of those also belonging to others. 
 
-For the household forms but one body with the master, and the people with the sovereign. So the people of Israel under the command of Joshua took up arms in support of the Gibeonites, whom they had subdued. Our forefathers, said Cicero to the Romans, often engaged in war to support the rights of merchants, whose vessels had been plundered. The same Romans who would refuse to take arms for a people who were only allies, did not hesitate to assert by force of arms the injured rights of the same, when they became their subjects.
+The causes therefore, which justify the principals engaged in war, will justify those also, who afford assistance to others. 
+
+But whether any one presides over an household, or a state, the first and most necessary care is the support of his dependents or subjects. 
+
+For the household forms but one body with the master, and the people with the sovereign. So the people of Israel under the command of Joshua took up arms in support of the Gibeonites, whom they had subdued. Our forefathers, said Cicero to the Romans, often engaged in war to support the rights of merchants, whose vessels had been plundered. 
+
+The same Romans who would refuse to take arms for a people who were only allies, did not hesitate to assert by force of arms the injured rights of the same, when they became their subjects.
 
 
 ## Part 2
@@ -28,7 +34,11 @@ Yet the cause of any subject, although it may be a just cause, does not always b
 
 Some have maintained the position, that if an enemy requires the surrender of a citizen, however innocent, the demand must unquestionably be complied with, if the state is too feeble to resist it. 
 
-This opinion is strongly286 controverted by Vasquez, but if we attend to his meaning more than his words, we shall find it to be the drift of his argument, that such a citizen ought not to be rashly abandoned, while there remains any possible hope of protecting him. For as a case in point, he alleges the conduct of the Italian Infantry, who, upon receiving assurances of protection from Caesar, deserted Pompey, even before he was reduced to absolute despair: a conduct which he deservedly reprobates in the strongest terms.
+This opinion is strongly controverted by Vasquez.
+
+But if we attend to his meaning more than his words, we shall find it to be the drift of his argument, that such a citizen ought not to be rashly abandoned, while there remains any possible hope of protecting him. 
+
+For as a case in point, he alleges the conduct of the Italian Infantry, who, upon receiving assurances of protection from Caesar, deserted Pompey, even before he was reduced to absolute despair: a conduct which he deservedly reprobates in the strongest terms.
 
 But whether an innocent citizen may be given up into the hands of an enemy to avoid imminent destruction, which would otherwise fall upon the state, is a point that HAS BEEN formerly, and IS still disputed by the learned, according to the beautiful fable, which Demosthenes told of the wolves, who demanded of the sheep the surrender of the dogs, as the only terms of peace. 
 

@@ -35,7 +35,14 @@ Intellect | Ability to connect phenomena with Principles
 Action | Ability to implement solutions or measures 
 
 
+These will be taught in an Academy which we call the Academy of the Sages. 
 
-<!-- The world values the James Webb Space Telescope for giving better images than the Hubble Space Telescope.   -->
+This is the same as the Institute of Applied Metaphysics (IAM) pushed for by the Sassani:
+
+{{< q a="Bashar" c="Living Your Excitement, September 30 2006" >}}
+There will be basically 2 mandates for The Institute of Applied Metaphysics. Number one will be to explore all of the ancient metaphysical ideas and extract from them knowledge that can actually be applied in a variety of disciplines on your planet in very practical ways to expand your level of understanding—technology, medicine, and what have you. 
+
+The second mandate is to provide the idea of general knowledge itself and explore and experience the expansion of yourselves through a variety of learning techniques and access to a variety of archives of knowledge.
+{{< /q >}}
 
 
