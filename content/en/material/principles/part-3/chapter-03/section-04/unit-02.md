@@ -11,7 +11,7 @@ icon: "Juan"
 
 
 
-Virtual photons facilitate magnetic force when they are concentrated into channels. 
+Virtual photons facilitate magnetic force when they are concentrated into **channels**. 
 
 This is because they are very small, much smaller than the space particles that cause spatial forces like gravity. 
 - We can say that magnetism is gravity facilitated by virtual photons and directed by channels.
@@ -28,15 +28,18 @@ Radiant, Convertible, Material Quanta| Spin
 Material vom | North and South Poles
 
 
-A monopole cannot exist just as a channel must always have an entrance and an exit. 
+**A monopole cannot exist just as a channel must always have an entrance and an exit.** 
 
 
 ## How Virtual Photons Cause Magnetism
 
-Virtual Photons Cause Magnetism whether as:
+Virtual Photons cause magnetism whether as:
 - material magnetism as static channels in matter
 - electromagnetism as dynamic channels in electron flow
   - The spinning electrons create the channels on the fly
+
+
+{{< youtube EKaw_PZpkHg >}}
 
 The entrance of the channel creates an inflow of virtual photons. 
 
@@ -51,15 +54,15 @@ This is the same drag caused by space particles that are ejected by matter than 
 - orbital gravity coming from the dynamic rotation of a stellar-vortex -->
 
 
-Type | Radiant | Spatial
---- | --- | ---
-Dynamic Vortex | Electromagnetism | Orbital Gravity
-Static Vortex | Material Magnetism | Material Gravity 
+Type | Radiant 
+--- | --- 
+Dynamic Vortex | Electromagnetism 
+Static Vortex | Material Magnetism
 
 
 All magnetic forces, even material magnetism, originates from vortex magnetism. 
 
-Natural magnets are an example of material magnetism. These were magnetized when they were struck by lightning. This drilled channels into the ore, creating vortices.
+Natural magnets are an example of material magnetism. These were magnetized when they were struck by lightning. This drilled channels into the ore, allowing  vortices since virtual photons are everywhere always pushing just like space particles.
 
 Another example is the superconductor which are metals that have very straight channels.
 
@@ -77,3 +80,8 @@ This increases the magnetism by increasing the low pressure to a larger area.
 We call:
 - the exit as the male pole
 - the entrance as the female pole
+
+
+{{< youtube T0_4ozlH290 >}}
+
+

@@ -4,7 +4,7 @@ title: "Wholesale Trade"
 weight: 4
 date: 2026-01-18
 description: ""
-image: /photos/econ/store.jpg
+image: /photos/econ/warehouse.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

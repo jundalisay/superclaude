@@ -17,4 +17,6 @@ writer:
 Alternate realities are different vibrations within the same general vibration.
 
 
+We place it in the dark energy wave that we call the macro-aetherspace.
 
+The interaction of the sublayers of timespace (observer), macro-aetherspace (dark energy), aetherpace (atomic space), and spacetime create the probabilistic superposition phenomena until reality is decided by the timespace. 

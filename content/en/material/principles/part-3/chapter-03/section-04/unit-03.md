@@ -14,6 +14,9 @@ The virtual photons transfer their spinning or corkscrewing energy to the channe
 
 If they pass through electrons, then they make the electrons spin. These then release that energy upon hitting resistance such as the filament in a light bulb. This converts the electron spin into photon spin and heat particles. 
 
+![Vphoton](/graphics/physics/vphoton.jpg)
+
+
 Therefore, a light bulb is an example of virtual photon energy transfering into electron spin transferring into photon spin or light. 
 
 Virtual photons that go into metals do not make the molecules of the magnet spin. 
@@ -29,4 +32,5 @@ Particle | Spin Number
 Electron and Quanta | 1/2 (half-integer)
 Substances | 3/2, 5/2 (half-integer)
 Media | 1 (integer)
+
 

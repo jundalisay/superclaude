@@ -48,7 +48,12 @@ This flexible nature of the radiant layer allows it to be more easily manipulate
 
 This manipulation is done by specific receiver particles or channels that will let them pass through and transfer their rotation or force.
 
-The major difference between photons and virtual photons is that photons are much larger. This is seen in the photo electric effect where high frequency light is able to push off electrons. This is because at high frequency, photons match the frequency of virtual photons. But instead of going through the electron to spin it, the electron is pushed away. 
+
+## Photo Electric Effect
+
+The major difference between photons and virtual photons is that photons are much larger. This is seen in the photo electric effect where high frequency light is able to push off electrons. 
+
+This is because at high frequency, photons match the frequency of virtual photons. But instead of going through the electron to spin it, the electron is pushed away. 
 
 
 {{< i s="/graphics/physics/vphoton.jpg" a="Virtual Photon" >}}
@@ -58,4 +63,6 @@ Unlike the force of material gravity which is caused by flowing space particles 
 
 Both photons and virtual photons travel in straight lines.
 
-{{< youtube ww92Q0tGL5s >}}
+{{< youtube EKaw_PZpkHg >}}
+
+

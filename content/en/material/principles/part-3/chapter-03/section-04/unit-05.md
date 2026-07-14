@@ -16,7 +16,7 @@ aliases:
 
 There are 2 kinds of magnetism based on layer:
 
-1. Vortexless or Material Magnetism 
+1. Vortexless or Material Magnetism (Displacement)
 
 This is natural magnets in the material layer caused by natural channels in metals.
 
@@ -27,7 +27,7 @@ This is created by:
   - A channel can align by putting it through a strong magnetic field. 
 
 
-2. Vortex Magnetism or Electromagnetism
+2. Vortex Magnetism or Electromagnetism (Spin)
 
 This is created by:
 - the magnetic moment of particle
@@ -64,15 +64,14 @@ The virtual photons at the exit go back the lowest pressure at the entrance in o
 - a negative curl is an anticlockwise rotation
 
 
-
-## The Lesser Magnetic Forces
+<!-- ## The Lesser Magnetic Forces
 
 The attractive and repulsive forces done through virtual photons and electrons of the Radiant Layer produce the following foces:
 
 Force | Description 
 --- | --- 
 Electromotive Force (EMF) | Conversion of energy to electrical energy via electrons
-Van der Waals Force | The magnetic effect by static electricity 
+Van der Waals Force | The magnetic effect by static electricity  -->
 
 <!-- gives the direction for thloops back or 'curls' around that entrance or exit.  -->
 
