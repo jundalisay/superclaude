@@ -7,7 +7,7 @@ description: "The Sublayers are due to the 3 influences"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 7
+weight: 3
 icon: "Juan"
 aliases:
   /material/principles/intro/chapter-02b
@@ -113,99 +113,3 @@ Upper Convertible | Energy in a W Z boson | Stability
 Convertible | Energy in a W Z boson | Stability
 Material | Energy in an atomic nucleus | Identity -->
 
-
-## The Hierarchy of the Layers
-
-From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
-
-Layer | Quality
---- | --- 
-Aethereal | Audibility or Harmony 
-Spatial | Contact
-Radiant | Visible Form
-Convertible | Stability
-Material | Identifiability
-
-
-The layers work in a hierarchy.
-- The aether is the most superior and subtle
-- Matter is the most inferior and crude. 
-
-This hierarchy explains why gravity affects light and heat, but light and heat does not affect gravity. 
-
-For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter.
-
-<!-- In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization.
-
-In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine.  -->
-
-
-### Cleaning Up The Sciences
-
-Science was created by the Europeans who built knowledge from the bottom material layer -- the most inferior but most obvious one. 
-
-From the bottom, they worked their way up:
-
-Layer | European Discovery
---- | ---
-Matter | Contact Forces, Monetary Systems
-Convertible | Chemistry and Nuclear Reactions
-Radiant | Electricity, International Finance
-
-
-This led to a messy, fragmented, and non-intuitive system of knowledge. For example:
-- Physics is now split into Particle Physics and Quantum Physics
-- Medicine is split into Western Medicine and Alternative Medicine 
-- Economics is split into Microeconomics, Macroeconomics, Behavioral Economics, Welfare Economics, etc. 
-
-We clean up this mess by:
-- putting all knowledge into the 5 Layers, and
-- adding the 2 Forces as its operators.
-
-These then create everything in reality.
-
-
-
-## Organization of the 5 Layers in This Work
-
-The principles of Material Superphysics is organized under the following headings which become Chapters.
-
-
-Chapter | Description
---- | ---
-1 | Intro
-2 | Sublayers
-3 | Medium
-4 | Substance
-5 | Quantum
-6 | Conservation, Spin
-7 | Action
-8 | Relationality
-
-
-<!-- planet rotation speed = inherent vortex
-atmosphere rotation speed = sun's vortex 
-magnetic field core --> 
-
-<!-- https://www.youtube.com/watch?v=C2rNu_PfItk
-
-The error begins in 7:00 when neutrinos are equated to hot dark matter. 
-
-In Cartesian Physics, neutrinos would be the Water Element now called Weak Force. This is why neutrinos are revealed by liquids. 
-
-CDM are space particles of 2nd Element or Air, now called Gravitation. 
-
-CDM and neutrinos go together in Flamingo simulations because water needs air. 
-
-The aether 5th Element has a liquid nature. This is why there is an association with variable dark energy with variable neutrino mass, as opposed to material and electromagnetic masses which are fixed. 
-
-Rather, it is better to say that the mass of neutrinos are irrelevant, and so constraining their mass is useless. 
-
-This is because neutrinos use their 'mass' to propel themselves within the 2nd Element. 
-
-The main purpose of neutrinos is to provide supplementary information to photon information. This is consistent with the ANITA neutrinos. 
-
-Such information is esssential to make a teleportation map that is already used by UFOs. 
-
-So you only constrain neutrino mass when you need to make a teleportation map in real-time. We explain here: https://www.youtube.com/shorts/0tCcUN9T4oQ
- -->

@@ -1,46 +1,82 @@
 ---
 heading: "Unit 3"
-title: "Density and Size of Particles"
-# date: 2023-11-26
-date: 2025-12-05
-image: "/photos/stuff/diamond.jpg"
-description: "Heat particles are of medium size. Like virtual photons, this allows them to piggy back on space particles whith are larger and cause spatial forces."
+title: "Densities and Dimensions"
+# # date: 2020-01-31
+date: 2024-12-09
+image: "/photos/physics/dimension.jpg" 
+description: "Densities are the variations of wavelengths in Identity Space"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 19
+weight: 10
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-03c
 ---
 
 
-The different particles in the MSQ model have different sizes and densities that help explain their interaction or non interaction with each other. 
+The clash of the 2 Forces leads to:
+- the 2 domains
+- the 5 layers 
+- the 3 gunas or sublayers within those layers
 
-We rank them according to size. 
 
-Rank | Particle | Size | Density
+## The 8 Densities
+
+The gravitational signature within the identity space has differences from other signatures. These differences can be grouped into 7 as the 7 densities, with the 8th density being the totality. 
+
+Domain | Density | Name | Examples
 --- | --- | --- | ---
-1 | Macro aetherspace (Dark Energy) | largest | low
-2 | Aetherspace (Atomic Space) | large | high 
-3 | Spacespan (Space particles) | large | lowest
-4 | Heat | medium | high
-5 | Neutrinos | small | low
-6 | Photon | small | medium 
-7 | Quarks (Micro Aetherspace)  | tiny | highest
-8 | Electrons | 2nd tiniest | high
-9 | Virtual Photons | tiniest | high
+Physical | 1 | Identity | quarks, photons, point-particles
+Physical | 2 | Self | rocks, asteroids
+Physical | 3 | Collective | plants, animals
+Quasi-Physical | 4 | Lower Mind | humans, intelligent beings
+Metaphysical | 5 | Higher Mind | advanced beings
+Metaphysical | 6 | Soul | spiritual beings
+Metaphysical |  7 | Brahma or Oversoul | The Supreme
+Void |  8 | Pre-Existential | The Absolute
 
 
-The macro aetherspace is the largest particle as evidenced by dark energy being the larges part of the universe. 
+These densities are the range that the Supreme can assume. Therefore, all identities in Existence must have a density, which is really their inherent aethereal frequency. 
 
-It can also:
-- expand as proven by UFOs as Bob Lazar's Gravity A waves and by 
-- contract  as proven by levitating Buddhist monks and lighter pyramid blocks
+Material Superhysics extends only up to the 4th density as the universe itself being a lower mind or physical aspect of the Supreme.
 
-The smallest particle is the virtual photon which can go through electrons and create spin.
+Bio Superhysics begins from the lower mind which has independent expression. 
 
-Neutrinos are larger than electrons but are low density like space particles. This allows them to go through matter. 
 
-Heat particles are of medium size. Like virtual photons, this allows them to piggy back on space particles whith are larger and cause spatial forces. 
-- Unlike virtual photons that cause spatial attraction and repulsion, heat particles cause spatial expansion and contraction. 
+
+## The 8 Dimensions
+
+Identities with similar densities interact with each other through their relational links. 
+
+These links create an abstract strucuture that we call dimensions of reality.
+
+Since the links are dependent on density, as the vibration of the identity, then dimensions depend on density. 
+
+The subtler the density, the more dimensions are possible since the links can connect to the crude and to the subtle and everything in between.
+
+A crude density on the other hand has a very limited set of connections, leading to fewer dimensions.
+
+<!-- Dimensions are the relations of these densities with each other.  -->
+
+Dimension | Name | Manifestation
+--- | --- | ---
+1 | Existential | Identity
+2 | Planar | 2-dimensional space
+3 | Spatial | 3-dimensional space
+4 | Temporal | Time
+5 | Lateral | Alternate Realities
+6 | Multiversal | Universes in the Multiverse
+7 | Causal | Ultimate Cause
+8 | Void | Void
+
+
+For example, a rock is 2nd density and so it can experience the 3rd dimension.
+
+Living things are 3rd density and so can experience time as the 4th dimension. 
+
+Humans are 4th density and so can experience 5th dimension as alternate realities, validated through deja vu, clairvoyance, clairsentience, bilocation, telekinesis, etc. 
+
+Advanced beings, such as the Sassani, are 5th density and so can experience different universes including non physical ones. 
 
 

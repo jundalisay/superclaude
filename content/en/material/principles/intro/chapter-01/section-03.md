@@ -51,7 +51,7 @@ Sections / Unit | Topic
 
  <!-- Layer Relationality of Identity as Movement and Effects -->
 
-
+<!-- 
 ## MSQ Table and Phenomena
 
 Name | Particle | Phenomena
@@ -102,3 +102,4 @@ qom1 | nonmetals  |
 qom2 | metalloids |
 qom3 | metals |
 
+ -->

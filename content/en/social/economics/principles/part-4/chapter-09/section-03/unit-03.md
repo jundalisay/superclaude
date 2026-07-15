@@ -30,7 +30,7 @@ The propaganda in the 1990s was liberalization. This was because the Soviet Unio
 
 The ex-Soviet countries still needed 2 decades to change their mentality to be worthy of investments. But Southeast Asia was now free from the Communist wave. 
 
-So the IMF pushed Southeast Asia to liberalize their financial industry to allow the entry of foreign invvestments. 
+So the IMF pushed Southeast Asia to liberalize their financial industry to allow the entry of foreign investments. 
 
 - In Singapore, this led to a new round of infrastructure development
 - In the Philippines, this began a new wave of privatizations
@@ -51,7 +51,14 @@ The problem was that the financial deregulation caused too much speculative infl
 
 The sudden inflows distorted the real currency values. This scheme was perfected by George Soros earlier in 1992 as Black Wednesday by attacking the British pound.
 
-This began with the Thai baht and then with the Malaysian ringgit. The Philippine peso was also affected to a lesser degree. 
+This violated the 4th law of value of fair exchange since there was nothing to give for those inflows which were speculative.
+- Speculation is common when riches increase since money is dead stock that only gains value when spent
+- An analogy is song lyrics only having value when they are sung.
+- And so a singer must always sing the song to people
+- But sometimes there are no listeners and this causes a violation of the giving of singing-energy without reciprocating receivers. 
+
+
+This distortion began with the Thai baht and then with the Malaysian ringgit. The Philippine peso was also affected to a lesser degree. 
 
 In contrast, the Singapore dollar was already expensive and Vietnamese dong was state-controlled so these currencies were not so much affected. 
 
@@ -72,7 +79,7 @@ Unlike the 2008 Financial Crisis which had many warnings, the 1997 crisis took m
 
 The Asian Crisis caused:
 - currency controls in Malaysia
-- the rise of Thaksin in Thailand
+- the rapid rise of Thaksin (and subsequent fall) in Thailand
 - the closure of many companies in Korea 
 - the fall of Estrada in the Philippines
 - riots in Indonesia and the fall of Suharto

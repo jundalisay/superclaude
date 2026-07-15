@@ -1,10 +1,11 @@
 ---
 heading: "Unit 2"
-title: "4D Minkowski Spacetime: The Quirk of Constants"
+title: "The Fallacy of the Metric Tensor"
+# 4D Minkowski Spacetime: The Quirk of Constants"
 date: 2024-12-19
 weight: 7
 image: /graphics/physics/traf.png
-description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
+description: ""
 icon: "Juan"
 writer:
   name: Juan
@@ -73,6 +74,12 @@ This limits temporal movement to the speed of light. While the continuum makes a
 This then creates a universe locked-in by the radiant layer just as the Ptolemy's concentric spheres locked in the geocentric universe around the Earth. 
 
 {{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself. In constrast, we apply geometries directly onto identities, as the 5 Platonic shapes" >}}
+
+
+In Material Superphysics, the metric tensor is really from the dark energy wave (macro aetherspace) that splits spacetime into slices, making it expand. 
+- The dark energy wave is controlled by timespace which is controlled by the pure aether.
+
+
 
 
 <!-- These are used to plug the holes and differences between the imagination and the actual universe. This is similar to Aristotle and  around the Earth. -->

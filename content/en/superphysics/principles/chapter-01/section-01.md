@@ -1,5 +1,5 @@
 ---
-title: "The Two Domains"
+title: "The Three Domains"
 heading: "Section 1"
 date: 2019-01-01
 weight: 4
@@ -16,20 +16,30 @@ writer:
 {{< b >}}
 Principles | Concepts Introduced
 --- | ---
-There are 2 Domains in Existence | Physical and Metaphysical Domain
+There are 3 Domains in Existence | Physical, Quasiphysical and Metaphysical Domain
 {{< /b >}}
 
 
 {{< youtube TpN23dGFcSA >}}
 
-We know the existence of thing through our perceptions of it. Each perception has 2 aspects:
+We know the existence of thing through our perceptions of it. Each perception has 3 aspects:
 
 1. Physical
-2. Metaphysical
 
-For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
+An example is a rock.
 
-{{< i s="/photos/objects/mug.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
+2. Quasi-Physical
+
+An example is space. We can see space. But we cannot touch or explain our perceptions of it without physical things. 
+
+3. Metaphysical
+
+An example is an idea. We know we have an idea, but we cannot see it nor touch it. 
+
+
+<!-- For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
+
+{{< i s="/photos/objects/mug.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}} -->
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
 The two are one and the same thing displayed through different attributes:
@@ -39,7 +49,7 @@ The two are one and the same thing displayed through different attributes:
 
 
 
-## The Two Domains
+<!-- ## The Two Domains
 
 This means that the mug exists in two domains of reality:
 
@@ -48,7 +58,7 @@ This means that the mug exists in two domains of reality:
 
 2. The *metaphysical* mug exists in the metaphysical domain, as our idea of what a mug is. 
   - This mug-idea is made of aether.
-  - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
+  - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds. -->
 
 
 {{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
@@ -56,7 +66,7 @@ Let the investigation of forms, which are eternal and immutable, constitute meta
 {{< /q >}}
 
 
-{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material element up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial element up to the aethereal layer. ">}}
+{{< img src="/graphics/super/domains.svg" alt="The 3 Domains" cap="The Physical Domain extends from the material element up to the radiant layer. The Quasi-physical is the spatial layer. The Metaphysical Domain extends from the upper spatial element up to the aethereal layer. ">}}
 
 
 
@@ -72,6 +82,15 @@ Our senses let us perceive the mug physically by receiving the sensations of lig
 <!-- a="Francis Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
 
 Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits -->
+
+
+### The Quasi-Physical Domain
+
+This domain exists in between the Physical and Metaphysical. 
+
+This is the boundary of universes in the multiverse.
+
+Space, time, and dimensions exist in this domain.
 
 
 
@@ -158,9 +177,9 @@ For example, as a species, it would be better to focus on solutions to global wa
 <!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->
 
 
-## So what's the use of the 2 domains?
+## So what's the use of the 3 domains?
 
-The 2 domains frees up the limitation of beliefs which includes:
+The 3 domains frees up the limitation of beliefs which includes:
 - materialist sciences as belief in physical evidence, by allowing metaphysical evidence
 - religion by replacing the definition of (Anunnaki) God into the (metaphysical) Supreme Entity which is far more permissive
 - philosophy by establishing critical thinking and critical feeling
@@ -169,9 +188,11 @@ The 2 domains frees up the limitation of beliefs which includes:
 - life events by freeing up the heart from the impositions from parents, society, employment, etc.  
 
 
-## Definitions: Physical, Metaphysical
+## Definitions: Physical, Quasiphysical, Metaphysical
 
 Physical is the nature of being detectable by the bodily senses. Technically, this is being part of the lower Elements or Layers such as the (Lower) Fire , Water, and Earth Elements, and the (Lower) Spatial, Convertible, and Material Layers. 
+
+Quasiphysical shares the nature of both Physical and Metaphysical. This is most evident in Elementals which can materialize.
 
 Metaphysical is the nature of being detectable by the abstract mind without the direct support of the bodily senses. Technically being part of the upper Elements such as the (upper) Fire, Air, and Aether Elements, and the (Upper) Spatial, and Aethereal Layers.
 

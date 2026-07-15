@@ -15,6 +15,11 @@ aliases:
 
 
 
+Substances are things that we can immediately perceive. 
+
+Quanta are the smallest parts of substances that require a more focused perception to detect.
+
+
 Aristotle and Descartes defines substance as that which can exist by itself. 
 
 The substances in physical reality, according to Material Superysics, are:

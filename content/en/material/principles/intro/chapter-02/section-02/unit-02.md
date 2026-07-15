@@ -1,82 +1,88 @@
 ---
 heading: "Unit 2"
-title: "Densities and Dimensions"
-# # date: 2020-01-31
-date: 2024-12-09
-image: "/photos/meta/ghost.jpg"
-description: "Densities are the variations of wavelengths in Identity Space"
+title: "The Hierarchy of the Layers"
+# date: 2023-11-02
+image: /photos/psych/salute.jpg
+description: "The hierarch creates waves within waves"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 7
 icon: "Juan"
-aliases:
-  /material/principles/part-1/chapter-03c
 ---
 
 
+## Waves Within Waves
+
+From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
+
+Layer | Quality
+--- | --- 
+Aethereal | Audibility or Harmony 
+Spatial | Contact or Force
+Radiant | Visible Form
+Convertible | Stability
+Material | Identifiability
 
 
-The clash of the 2 Forces leads to:
-- the 2 domains
-- the 5 layers 
-- the 3 gunas or sublayers within those layers
+The layers work in a hierarchy with the cruder waves being within the subtler waves. 
+- The aether is the most superior and subtle
+- Matter is the most inferior and crude. 
 
 
-## The 8 Densities
-
-The gravitational signature within the identity space has differences from other signatures. These differences can be grouped into 7 as the 7 densities, with the 8th density being the totality. 
-
-Domain | Density | Name | Examples
---- | --- | --- | ---
-Physical | 1 | Identity | quarks, photons, point-particles
-Physical | 2 | Self | rocks, asteroids
-Physical | 3 | Collective | plants, animals
-Quasi-Physical | 4 | Lower Mind | humans, intelligent beings
-Metaphysical | 5 | Higher Mind | advanced beings
-Metaphysical | 6 | Soul | spiritual beings
-Metaphysical |  7 | Brahma or Oversoul | The Supreme
-Void |  8 | Pre-Existential | The Absolute
+{{< i s="/graphics/physics/multiwaves.jpg" a="Waves" c="The cruder waves are within or controlled by the subtler waves" >}}
 
 
-These densities are the range that the Supreme can assume. Therefore, all identities in Existence must have a density, which is really their inherent aethereal frequency. 
+This hierarchy explains why gravity affects light and heat, but light and heat does not affect gravity. 
 
-Material Superhysics extends only up to the 4th density as the universe itself being a lower mind or physical aspect of the Supreme.
+For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter.
 
-Bio Superhysics begins from the lower mind which has independent expression. 
+<!-- In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization.
 
-
-
-## The 8 Dimensions
-
-Identities with similar densities interact with each other through their relational links. 
-
-These links create an abstract strucuture that we call dimensions of reality.
-
-Since the links are dependent on density, as the vibration of the identity, then dimensions depend on density. 
-
-The subtler the density, the more dimensions are possible since the links can connect to the crude and to the subtle and everything in between.
-
-A crude density on the other hand has a very limited set of connections, leading to fewer dimensions.
-
-<!-- Dimensions are the relations of these densities with each other.  -->
-
-Dimension | Name | Manifestation
---- | --- | ---
-1 | Existential | Identity
-2 | Planar | 2-dimensional space
-3 | Spatial | 3-dimensional space
-4 | Temporal | Time
-5 | Lateral | Alternate Realities
-6 | Multiversal | Universes in the Multiverse
-7 | Causal | Ultimate Cause
-8 | Void | Void
+In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine.  -->
 
 
-For example, a rock is 2nd density and so it can experience the 3rd dimension.
+### Cleaning Up The Sciences
 
-Living things are 3rd density and so can experience time as the 4th dimension. 
 
-Humans are 4th density and so can experience 5th dimension as alternate realities, validated through deja vu, clairvoyance, clairsentience, bilocation, telekinesis, etc. 
+The hierarchy allows us to organize the sciences better. This allows a more intuitive understanding which will then allow the mind flow from ignorance or problem into knowledge or solution. 
 
-Advanced beings, such as the Sassani, are 5th density and so can experience different universes including non physical ones. 
+Science was created by the Europeans who built knowledge from the bottom material layer -- the most inferior but most obvious one. 
+
+From the bottom, they worked their way up:
+
+Layer | European Discovery
+--- | ---
+Matter | Contact Forces, Monetary Systems
+Convertible | Chemistry and Nuclear Reactions
+Radiant | Electricity, International Finance
+
+
+This led to a messy, fragmented, and non-intuitive system of knowledge. For example:
+- Physics is now split into Particle Physics and Quantum Physics
+- Medicine is split into Western Medicine and Alternative Medicine 
+- Economics is split into Microeconomics, Macroeconomics, Behavioral Economics, Welfare Economics, etc. 
+
+We clean up this mess by:
+- putting all knowledge into the 5 Layers, and
+- adding the 2 Forces as its operators.
+
+These then create everything in reality.
+
+
+<!-- ## Organization of the 5 Layers in This Work
+
+The principles of Material Superphysics is organized under the following headings which become Chapters.
+
+
+Chapter | Description
+--- | ---
+1 | Intro
+2 | Sublayers
+3 | Medium
+4 | Substance
+5 | Quantum
+6 | Conservation, Spin
+7 | Action
+8 | Relationality -->
+

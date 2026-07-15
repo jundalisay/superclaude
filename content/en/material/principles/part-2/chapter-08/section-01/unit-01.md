@@ -15,11 +15,39 @@ aliases:
 ---
 
 
-Spatial Relationality via `G1 : G2` and the 3 layers leads to the following phenomena:
+Spatial Relationality has 3 versions matching the 3 sublayers:
+
+
+1. Timespace Relationalities
+
+These have the relation of timespace and other sublayers
+
+Examples are:
+- time dilation (mos1 : mos3)
+- time travel (mos1 : mos2)
+
+
+2. Macro-Aetherspace (mos2) Relationalities
+
+These have the relation of the macro-aetherspace (dark energy wave) and other sublayers. 
+
+Examples are:
+- expansion of the universe (mos2 : mos3)
+- alternate realities, dimensions, and universes (mos2 : mos1)
+
+
+3. Spacetime or Aether Relationalities
+
+These have the relation of spacetime and other sublayers. 
+
+Examples are:
+- gravity (aether mos3: matter som1)
+- van der Waals forces (mos3 : moc1)
+- gravitational lensing  (mos3 : mos3)
 
 
  <!-- (This was already explained in Chapter 3e) -->
-Identity 1 | Identity 2 | Phenomena
+<!-- Identity 1 | Identity 2 | Phenomena
 --- | --- | --- 
 Matter | Matter (vortex)  | Planetary Gravity
 Matter | Radiance | Spectral lines and Lensing
@@ -27,11 +55,13 @@ Radiance | Radiance | Lensing
 Galaxy | Radiance  | Dark Matter, Gravitational Waves
 Galaxy | Galaxy  | Dark Energy
 Galaxy | Matter | Isolation 
+ -->
 
+<!-- The differences in the layer where the identies reside in brings about various physical phenomena. The relationalities with the convertible layer lead to beta decay and will be discussed in the Part on the convertible layer.  -->
 
-The differences in the layer where the identies reside in brings about various physical phenomena. The relationalities with the convertible layer lead to beta decay and will be discussed in the Part on the convertible layer. 
+Currently, Physics uses Einstein's Relativity, which is based on eletrcodynamics, instead of Relationality which is based on the 5 Elements model.
 
-Currently, Einstein's Relativity is adopted by Modern Physics. This prevents it from advancing and is why Physics has been stuck.
+This prevents it from advancing and is why Physics has been stuck.
 
 
 <!-- {{< youtube e7rRQEq9C60 >}} -->
@@ -46,22 +76,22 @@ A leaf is blown externally by the wind. But in reality, the wind blows from its 
 
 ## Getting Rid of Relativity
 
-Relativity has 2 kinds, represting 2 different layer relations:
+We get rid of Relativity by absorbing it into different relationalities. 
 
-Name | Layer | Phenomena
+Name | Relationality | Phenomena
 --- | --- | ---
-Special Relativity | Radiant-Radiant | Lensing 
-General Relativity | Radiant-Galaxy | Gravitational Waves
+Special Relativity | mos1 : mos3 | Scattering
+General Relativity | mos3 : som1 | Gravity
 
-The main mechanism of:
-- Special Relativity is the metric tensor
-- General Relativity is the stress-energy tensor
-  - The mechanism for the stress-energy tensor is mass-energy equivalence which is really the match between electromagnetic potential and electromagnetic energy.  
+Special Relativity is really in the radiant layer. This is because at the small scales, the aether is hindered, allowing only the radiant particles to have visible effects. This is because the radiant particles are the smallest ones.
 
+This is why the main mechanism of:
+- Special Relativity is the metric tensor which is really facilitated by tiny photons mor1
+- General Relativity is the stress-energy tensor which is really facilitated by the aether displaced by matter som1
 
-Both Special and General Relativity live in a 4D Minkowski spacetime. 
+<!-- - The mechanism for the stress-energy tensor is mass-energy equivalence which is really the match between electromagnetic potential and electromagnetic energy.   -->
 
-
+<!-- Both Special and General Relativity live in a 4D Minkowski spacetime. 
 Einstein Idea | Meaning
 --- | --- 
 Metric Tensor | Using a speed constant as a ruler
@@ -70,6 +100,4 @@ Inertial Mass | Movement from inherent speed
 Gravitational Mass | Movement from relation to something
 Equivalence Principle | Match of movement from inherent speed and relation to something
 
-As you can see, the whole edifice and sophistry of Relativity is based on the use of the constant speed of light in the metric tensor.
-
-
+As you can see, the whole edifice and sophistry of Relativity is based on the use of the constant speed of light in the metric tensor. -->

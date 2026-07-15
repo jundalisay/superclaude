@@ -15,22 +15,31 @@ aliases:
 
 
 
-Constants are ratios within Nature. Superphysics classifies constants into 2:
+The division of Nature into Layers and Sublayers means that there are portions that are in-between layers and sublayers where waves convert between them.
 
-1. Astract (Mental) Constants 
+The converters convert a wave from one form into another due to interaction. 
+
+Since these are inherent in the layer differences and since the layers will not change their properties, then these converters are constant in Nature.
+
+
+Mathematically, these constants are ratios within Nature. Superphysics classifies constants into 2:
+
+### 1. Astract (Mental) Constants 
 
 This incldues:
 - mathematical or geometric constants such as pi
 - aesthetic ratios like the golden ratio
 
 
-2. Physical Constants
+### 2. Physical Constants
 
 These are constants in physical Nature as the fixed ratios between the 5 Layers. 
 
 
 
-## The Internal Boundary Constant: 241,056
+## Example Constants
+
+### The Internal Boundary Constant: 241,056
 
 The easiest ratios are for the internal boundaries and the highest quantum for each layer which we peg to approximately 241,056:
 
@@ -45,9 +54,9 @@ X17 (17 MeV) | Electron Neutrino (0.07 MeV) |242,857 (511,2201)
 <!-- 9,192,631,770 : 299,792,458 gives ratio 30.6633189885 -->
 
 
-## Spatial-Radiant: 30.6633
+### Spatial-Radiant: 30.6633
 
-For example, a well-known constant is the speed of light (Radiant) which is the distance that it travels in 1 second (Spatial) which is really 9,192,631,770 vibrations of the Cesium 55 atom. 
+A well-known constant is the speed of light (Radiant) which is the distance that it travels in 1 second (Spatial) which is really 9,192,631,770 vibrations of the Cesium 55 atom. 
 
 This gives a ratio of 30.6633
 
@@ -56,7 +65,7 @@ Here, the choice of time length is arbitrary, which is really based on the rotat
 <!-- So the higher layer is the Spatial which is used to judge the Radiant, as light, as it moves in 1 unit of time.  -->
 
 
-## Material-Spatial
+### Material-Spatial
 
 Subordinate movemment leads to circles and curves from a central point. This leads to circular ratios:
 
@@ -95,7 +104,4 @@ Finding the Exact Frequency:
     The frequency that causes the maximum transition is determined to be 9,192,631,770 Hz.
 
     This means one second is defined as the time it takes for cesium-133 to oscillate exactly 9,192,631,770 times. -->
-
-
-
 
