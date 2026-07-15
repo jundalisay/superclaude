@@ -4,6 +4,7 @@ title: "Initiation"
 description: ""
 c: "indigo"
 a: Ra
+weight: 9
 date: 1981-01-22
 tags: ['pyramids', 'nexus']
 ---

@@ -1,10 +1,10 @@
 ---
-heading: "Introduction"
-title: "The 4 Rules of Motion"
+heading: "Unit 1"
+title: "The Nature of Motion"
 # date: 2023-11-26
 date: 2025-09-21
-image: "/photos/stuff/jet.jpg"
-description: "All forces are called media which follow the 4 Rules of Motion of Descartes and Spinoza"
+image: "/photos/physics/warp.jpg"
+description: "Motion is the chnage from one location to another"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,31 +15,25 @@ aliases:
 ---
 
 
-Ww use 4 Rules of Motion from the 4 Properties of Waves. 
-
-1. No Void (Commonality)
-2. Straight or Circle  (Density)
-3. Collisions (Balance)
-4. State-Change (Spread)
-
-
-The singularity of Existence is proven by the Conservation Laws which produce movement according to the 4 rules of motion.
-
-You can think of the 4 rules as the implementing rules of the law of conserved motion which is from the wave nature of Existence arising from the 2 Forces.
-
 
 ## Motion Versus Movement
 
-"Motion" comes from the Latin noun motionem which means "a moving".
+"Movement" comes from Latin verb movere, meaning "to move" as a pushing away. This implies linear or sequential movement. 
 
-"Movement" comes from Latin verb movere, meaning "to move" as pushing away. 
+"Motion" comes from the Latin noun motionem from motus which means "a change of place". This does not imply a sequential movement, and can mean an instantaneous change in place or teleportation. 
 
-We can say that motion is the more formal usage, while movement is the more casual one. 
-- This is similar to 'emotion' being more formal than 'feeling' despite meaning the same thing.  
+We can say that:
+- motion is the more formal usage
+- movement is the more casual one
 
-We define motion or movement as a change in an identity's spatial properties. This includes shape, size, location. 
+This is similar to:
+- 'emotion' being more formal
+- 'feeling' being more infromal despite meaning the same thing.  
 
-This is different from layman's movement which is a change in location.
+
+We define:
+- motion as a change in an identity's spatial properties. This includes shape, size, location. This is more abstract.
+- movement as a **sequential** change in an identity's spatial properties. This is more in line with cause and effect.
 
 We define:
 - change as the perception of differences of or within an identity
@@ -56,13 +50,11 @@ This gives us an 'ontological' hierarchy:
 Change is rooted in the aethereal layer, while time and motion are rooted in the spatial layer.  
 
 
-
- <!-- or change in general.  -->
-
-
 > Motion is a change in an identity's spatial properties
 
 
+
+## Change and Movement Require Media
 
 All phenomena are observed by the mind through the intervention of media.
 
@@ -73,7 +65,7 @@ We see a ball because the information given by the ball is transported by:
 - the medium of light in the medium of time
 - the medium of our fluids into the medium of our nerves into the medium of our soul
 
--
+
 
 Chapter 3 explained that force particles are spinning bolts. 
 
@@ -111,7 +103,7 @@ The energy transfer between media and substances then leads to 2 kinds of moveme
 
 This is relativistic motion that matches the principles of Newton and Einstein. 
 
-2. Non-Sequential Movement
+2. Non-Sequential Motion
 
 This is true motion or aether-based motion that allows jumping between spacetime. An example is your movement in your dreams where you can jump from one scene into another non-sequentially. 
 
@@ -122,7 +114,7 @@ This is the foundation of teleportation and levitation.
 
 
 
-
+<!-- 
 In Cartesian Physics, all forces come from spinning virtual particles that pervade existence. These then go into receiver particles that get their motion in order to spin themselves. 
 
 The spin of these non force particles creates phenomena that we can sense. 
@@ -141,4 +133,4 @@ An easy way to understand this is to imagine the force particles as bolts that c
 - Convertible (weak) force particles (W Z bosons) have a clockwise spin
 
 This is why the weak force interacts only with left handed particles.
-
+ -->

@@ -4,6 +4,8 @@ title: "Pyramids"
 description: ""
 c: "indigo"
 a: Ra
+weight: 7
+date: 1981-01-21
 tags: ['pyramids', 'capstones']
 ---
 

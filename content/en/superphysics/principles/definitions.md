@@ -31,6 +31,7 @@ Atheism | a belief system that negates the existence of a Supreme Entity
 Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
 Belief System | a logical collection of related ideas that the ego can adopt and attach itself to
+Change | the perception of differences of or within an identity
 Conscience | the intuition or feeling for the dharma or true nature
 Consciousness | the other half of Existence that lets Existence exist; the subtlest Substance, closest to Void, that is able to 'measure' or perceive all other Substances; the Substance that perceives all
 Critical Feeling | the expansion of one's feelings onto other entities other than the self, by exerting extra effort or energy
@@ -70,7 +71,9 @@ Matter | A node made up of crude waves (from the Existence-expression point of v
 Metaphysics | The study of the Supreme and Absolute Entities in non-physical forms 
 Mind | The collective name of the Identity-Layer, Ego-Layer, and mind-stuff, and the effect of consciousness (Sarkar); a colection of waves that persist together as a node (from the Existence-expression point of view)
 Mode | modifications or versions of Substance
+Motion | a change in an identity's spatial properties. This includes shape, size, location. This is more abstract than movement
 Moral | the qualities of actions that will lead to positive feelings in the largest spacetime conceivable
+Movement | a **sequential** change in an identity's spatial properties. This is more in line with cause and effect unlike motion and emotion where we do not know the cause of
 Negative feelings | feelings resulting from the Negative Force that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature, since Existence is Positive
 Negative Force | the force from the desire of Existence that leads to separation, repulsion, and isolation, leading to Existence. Also, Shakti or Yin.
 Non-Locality | Action at a Distance (Einstein); True motion (Descartes)
@@ -132,8 +135,6 @@ This is why we say a man is "spirited" if he is active, but "full of soul" if he
 'Evil" really comes from the effects or properties of the Negative Force. So evil spirit or evil person is possible, but evil soul or evil atman is not.  
 
 Essence is the core waves that make up the node.
-
-
 
 
 ## Superphysics Logic Definitions and Replacements

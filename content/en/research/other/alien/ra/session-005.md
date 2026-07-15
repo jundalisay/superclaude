@@ -4,6 +4,7 @@ title: "Healing"
 description: ""
 c: "indigo"
 a: Ra
+weight: 11
 date: 1981-01-23
 tags: ['healing', '']
 ---

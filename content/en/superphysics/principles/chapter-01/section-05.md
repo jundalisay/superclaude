@@ -36,24 +36,22 @@ The previous section explained how Existence is formed from waves in abstract sp
 
 The laws of Nature, from thermodynamics, the stages of life, and social cycles all show the wave properties of Existence which we can distill into 4:
 
-1. Continuous Commonality
+
+### 1. Continuous Commonality
 
 A metaphysical wave stretches is continuously like a line. This is different from a dot which is finite. 
 
 This is why we say that the universe had no beginning and therefore no end.  
 
-
-2. Frequency or Density
+### 2. Frequency or Density
 
 There are many waves in Nature. These can be bunched up creating more density and a richer Existence, or loosely spaced creating a blank Existence. 
 
-
-3. Strength or Amplitude
+### 3. Strength or Amplitude
 
 A wave can have high amplitude as being loud and energetic, or a low amplitude as quiet and low energy. 
 
-
-4. Spread or Forward movement 
+### 4. Spread or Forward movement 
 
 A wave is a disturbance in a line that can travel fast or slow depending on its energy relative to external energies or other waves. 
 
@@ -66,7 +64,10 @@ These 4 properties manifest as the laws and rules in Nature which we can distill
 
 ## The 4 Rules of Motion in all Sciences
 
-Movement in physical space comes from space particles of the Air Element which Material Superphysics calls the Spatial Layer. Since space is made up of waves, as seen in gravitational waves, then the 4 properties of waves manifest as the 4 Rules of Motion as explained by Descartes and Spinoza.
+
+Movement in physical space comes from space particles of the Air Element which Material Superphysics calls the Spatial Layer. 
+
+Since space is made up of waves, as seen in gravitational waves, then the 4 properties of waves manifest as the 4 Rules of Motion as explained by Descartes and Spinoza.
 
 
 ### Rule 1: No Void
@@ -93,28 +94,29 @@ This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposit
 
 ### Rule 4: State Continuity
 
-Each identity remains as much as it can always in the same state. It is never changed except by external causes.
+> Each identity remains as much as it can always in the same state. It is never changed except by external causes.
 
 This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposition 14
 
 
 
-
 ## The 4 Arithmetic Operations
 
-1. Addition
+In the metaphysical domain, the 4 properties of waves lead to the 4 Operations:
+
+### 1. Addition
 
 The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
 
-2. Division
+### 2. Division
 
 The 2nd Property of Waves is frequency. A sound can be divided into smaller parts.  
 
-3. Subtraction
+### 3. Subtraction
 
 The 3rd Property of Waves is amplitude. A wave can have positive and negative values as it goes up and down.
 
-4. Multiplication
+### 4. Multiplication
 
 The 4th Property of Waves is forward movement. Multiplication expands just as division contracts. 
 
@@ -124,58 +126,6 @@ Division and Multiplication need a pre-existing instance, just as a frequency ne
 
 
 
-
-## The 4 Rules of Conversion
-
-This implements the Law of Conservation of Aether to be discussed in Chapter 5f.
-
-1. Mass Balance
-
-Conversion involves material particles, not energy or space particles.
-
-2. Force Carrier or Enzyme Specificity
-
-Every step is mediated by a specific force carrier or enzyme.
-
-3. Allosteric Regulation
-
-Molecules bind to enzymes or force carriers to speed up or slow down the conversion process.
-
-4. Exergonic Movement
-
-Every reaction must release Radiant energy.
-
-
-
-## The 4 Rules of Stoichiometry
-
-This implements the Law of Conservation of Mass to be discussed in Chapter 5f.
-
-1. Definite Proportions
-
-A specific chemical compound always contains its component elements in fixed ratios by mass, regardless of the compound's source or method of preparation.
-
-<!-- Example: Table salt (NaCl) is always 39.34% sodium and 60.66% chlorine by mass. -->
-
-2. Multiple Proportions
-
-When 2 elements combine to form more than 1 compound, the masses of 1 element that combine with a fixed mass of the other element are in a ratio of small whole numbers.
-
-<!-- Example: The ratio of oxygen masses in CO2  compared to CO for a fixed mass of carbon is 2:1. -->
-
-
-3. Reciprocal Proportions
-
-This is when 3 different elements combine.
-
-<!-- Avogadro's Law
-Equal volumes of all gases, when measured at the same temperature and pressure, contain the same number of molecules (or moles). This law provides the direct link between the volume ratios (from Law 4) and the fixed mole ratios observed in the chemical equation. -->
-
-4. Gay-Lussac's Law of Gaseous Volumes)
-
-When gases react, the ratio of the volumes of the gaseous reactants and products (measured at the same temperature and pressure) are in a ratio of small whole numbers.
-
-<!-- Example: 1 volume of nitrogen gas reacts with 3 volumes of hydrogen gas to produce exactly 2 volumes of ammonia gas -->
 
 
 
