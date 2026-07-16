@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 2"
 title: Communism
 # date: 2022-03-27
 date: 2022-01-09

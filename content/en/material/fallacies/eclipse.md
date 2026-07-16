@@ -29,7 +29,7 @@ The curving of the photon around the sun is the sun's effort to force the photon
 
 The photon travels too fast and so only a curve arises instead of an orbit. 
 
-{{< img src="/graphics/physics/vortices.jpg" alt="Vortices" >}}
+{{< img src="/graphics/physics/vortices.jpg" alt="Vortices" cap="Descartes explained gravitational lensing way back in 1644 as effect of the rotation of solar system space. His main example was the lensing that caused the forward facing tail of interstellar comets which was proven by Comet 3I/ATLAS." >}}
 
 
 The 1919 eclipse thus proves that Descartes was correct, along with his theory of spinning vortices which is one of the effects of his third rule. Those vortices are caused by the invisible aether which are now seen in spiral galaxies which rotate. 

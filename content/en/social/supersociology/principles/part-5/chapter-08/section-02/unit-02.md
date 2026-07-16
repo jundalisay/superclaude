@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 2"
 title: Capitalism
 date: 2026-01-20
 weight: 8

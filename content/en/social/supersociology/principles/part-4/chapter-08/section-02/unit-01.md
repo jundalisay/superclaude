@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "Theocracies and State Religion"
 date: 2019-12-17
 # date: 2021-06-29
@@ -77,3 +77,5 @@ The state claims to derive its legitimacy directly from a deity or sacred text, 
 **Economic Underperformance** – Theocratic systems often prioritize religious observance over economic innovation, leading to slower growth and lower living standards compared to secular, market-based economies.
 
  -->
+
+ 

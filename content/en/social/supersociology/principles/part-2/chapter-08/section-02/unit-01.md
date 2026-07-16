@@ -3,13 +3,21 @@ heading: "Section 2"
 title: "Worker Philosophies"
 date: 2026-07-04
 weight: 5
-image: /photos/medieval/cave.jpg
+image: /photos/medieval/spartacus.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
 
+
+The desire for Freedom by the Worker mentality leads to the worker philosophies such as those promoting equality.
+
+This is evident in Spartacus who briefly created a society of peasant rebels:
+
+{{< q a="Appian" c="Civil Wars" >}}
+Spartacus divided the plunder impartially he soon had plenty of men.
+{{< /q >}}
 
 
 

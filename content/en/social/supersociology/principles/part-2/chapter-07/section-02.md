@@ -22,6 +22,3 @@ The inconsistency of alternative medicine is caused by the lack of matching syst
 
 A main push by Supersociology is to profile everyone to see their vibrational signature and which chakras are active or impaired. 
 
-
-
-

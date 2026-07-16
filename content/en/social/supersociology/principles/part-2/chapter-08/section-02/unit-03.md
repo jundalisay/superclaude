@@ -11,8 +11,6 @@ writer:
 ---
 
 
-
-
 Libertarianism is a political and social philosophy centered on the principle of **maximum individual freedom and minimal state power**. At its core, it holds that every person owns their own life, and that individuals should be free to make their own choices—so long as they do not harm others or violate their rights.
 
 Libertarianism gained distinct shape in the 20th century. Economists **Ludwig von Mises** and **Friedrich Hayek** warned that excessive government planning leads to inefficiency and loss of freedom. 

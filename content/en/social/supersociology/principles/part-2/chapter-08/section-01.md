@@ -11,6 +11,9 @@ writer:
 ---
 
 
+
+## The Desire for Freedom
+
 Worker Philosophies are created by or favor the worker class, also known as the peasantry or the shudras in Hinduism. 
 
 In the Republc by Plato, the worker class is called the Democrats.
@@ -25,7 +28,7 @@ A startup company, for example, would need a lot of workers to get it up and run
 
 The main feeling of workers is the freedom from work so that they can relax and enjoy. 
 
-This desire for freedom is embodied in the idea of democracy. 
+This **desire for freedom** is embodied in the idea of democracy. 
 
 
 As a political system, democracy is a system of government where power rests with the people, who exercise it directly or through elected representatives. Its core principle is **rule of the majority**, balanced by protection of individual rights and the rule of law.

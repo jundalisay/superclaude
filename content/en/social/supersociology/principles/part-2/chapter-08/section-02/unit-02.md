@@ -11,15 +11,11 @@ writer:
 ---
 
 
-<!-- This primary stage of nature’s brute laws is the Shúdra Age because all were .  -->
-
 <!-- The reliance on physical power gradually led a chosen few to lead the rest by physical strength. They were the leaders of the shúdras.
-
 Simultaneously, the family developed. 
  -->
 
 <!-- The dominance of the Worker Class usually leads to the following economic ideologies:
-
 1. Socialism
 2. Liberalism
 3. Anarchism
