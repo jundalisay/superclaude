@@ -1,8 +1,11 @@
 ---
 heading: "Chapter 7"
-title: "Warrior Systems"
+title: "Warrior Reforms"
 date: 2026-01-20
-weight: 95
+weight: 19
 description: ""
-image: "/photos/medieval/samurai.jpg"
+image: "/photos/psych/consult.jpg"
 ---
+
+
+

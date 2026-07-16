@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: Trader Systems
+title: Trader Reforms
 date: 2026-01-20
 weight: 19
 description: ""

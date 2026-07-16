@@ -1,6 +1,6 @@
 ---
 heading: Session 7
-title: "Confederation of Planets"
+title: "The Orion Group"
 description: ""
 c: "indigo"
 a: Ra
@@ -68,40 +68,99 @@ Ra: I am Ra. The Council of Nine has been retained in semi-undistorted form by t
 
 Ra: I am Ra. This is correct.
 
-7.12 Questioner: I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. That is, the Council has allowed the quarantine to be lifted many times over the past thirty years. This seems to me to be a form of advertising for what we are doing right now, so that more people will be awakened. Am I correct?
+7.12 Questioner: I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. 
 
-Ra: I am Ra. It will take a certain amount of untangling of conceptualization of your mental complex to reform your query into an appropriate response. Please bear with us.
+The Council has allowed the quarantine to be lifted many times over the past 30 years.
 
-The Council of Saturn has not allowed the breaking of quarantine in the time/space continuum you mentioned. There is a certain amount of landing taking place. Some of these landings are of your peoples. Some are of the entities known to you as the group of Orion.
+This seems to me to be a form of advertising for what we are doing right now, so that more people will be awakened.
 
-Secondly, there is permission granted, not to break quarantine by dwelling among you, but to appear in thought-form capacity for those who have eyes to see.
+Ra:
 
-Thirdly, you are correct in assuming that permission was granted at the time/space in which your first nuclear device was developed and used for Confederation members to minister unto your peoples in such a way as to cause mystery to occur. This is what you mean by advertising and is correct. The mystery and unknown quality of the occurrences we are allowed to offer have the hoped-for intention of making your peoples aware of infinite possibility. When your peoples grasp infinity, then and only then, can the gateway be opened to the Law of One.
+1. The Council of Saturn has not allowed the breaking of quarantine in the past 30 years.
 
-7.13 Questioner: You mentioned both our people and those of Orion coming here. Can you expand on that?
+There is a certain amount of landing taking place. 
+- Some of these landings are of your peoples.
+- Some are of the entities are the group of Orion.
 
-Ra: I am Ra. Your thought complexes did not match your vibratory sound complexes. We are unable to respond. Please restate your query.
+2. Permission was granted, not to break quarantine by dwelling among you, but to appear in thought-form for those who can see.
 
-7.14 Questioner: I’ll just ask about Orion. You mentioned Orion as a source of some of the contacts of UFOs. Can you tell me something of that contact, its purpose?
+3. Permission was granted at the time/space in which your first nuclear device was developed and used for Confederation members to minister unto your peoples in such a way as to cause mystery to occur. 
 
-Ra: I am Ra. Consider, if you will, a simple example of intentions which are bad/good. This example is Adolf. This is your vibratory sound complex. The intention is to presumably unify by choosing the distortion complex called elite from a social memory complex and then enslaving, by various effects, those who are seen as the distortion of not-elite. There is then the concept of taking the social memory complex thus weeded and adding it to a distortion thought of by the so-called Orion group as an empire. The problem facing them is that they face a great deal of random energy released by the concept of separation. This causes them to be vulnerable as the distortions amongst their own members are not harmonized.
+This is what you mean by advertising and is correct. 
+
+The mystery and unknown quality of the occurrences we are allowed to offer have the hoped-for intention of making your peoples aware of infinite possibility. 
+
+When your peoples grasp infinity, then and only then, can the gateway be opened to the Law of One.
+
+
+7.14 Questioner: You mentioned Orion as a source of some of the contacts of UFOs. What is its purpose?
+
+Ra: An example is Adolf Hitler. 
+
+<!-- This is your vibratory sound complex. The  -->
+
+His intention was to unify by choosing the distortion complex called elite from a social memory complex.
+
+Then the elites would enslave those with the distortion of not-elite. 
+
+Thus, the Orion group had the distortion thought as an empire. 
+
+The social memory complex [of Adolf] would thus be weeded and added onto this empire. 
+
+The problem is that this separation released a lot of random energy. 
+
+This caused them to be vulnerable just as the distortions amongst their own members are not harmonized.
+
 
 7.15 Questioner: What is the density of the Orion group?
 
-Ra: I am Ra. Like the Confederation, the densities of the mass consciousnesses which comprise that group are varied. There are a very few third density, a larger number of fourth density, a similarly large number of fifth density, and very few sixth-density entities comprising this organization. Their numbers are perhaps one-tenth ours at any point in the space/time continuum as the problem of spiritual entropy causes them to experience constant disintegration of their social memory complexes. Their power is the same as ours. The Law of One blinks neither at the light or the darkness, but is available for service to others and service to self. However, service to others results in service to self, thus preserving and further harmonizing the distortions of those entities seeking intelligent infinity through these disciplines.
+Ra: Like the Confederation, the densities of the mass consciousnesses which comprise that group are varied. 
 
-Those seeking intelligent infinity through the use of service to self create the same amount of power but, as we said, have constant difficulty because of the concept of separation which is implicit in the manifestations of the service to self which involve power over others. This weakens and eventually disintegrates the energy collected by such mind/body/spirit complexes who call the Orion group and the social memory complexes which comprise the Orion group.
+There are a very few third density, a larger number of fourth density, a similarly large number of fifth density, and very few sixth-density entities comprising this organization. 
 
-It should be noted, carefully pondered, and accepted, that the Law of One is available to any social memory complex which has decided to strive together for any seeking of purpose, be it service to others or service to self. The laws, which are the primal distortions of the Law of One, then are placed into operation and the illusion of space/time is used as a medium for the development of the results of those choices freely made. Thus all entities learn, no matter what they seek. All learn the same, some rapidly, some slowly.
+Their numbers are perhaps 1/10 of ours at any point in the space/time continuum as the problem of spiritual entropy causes them to experience constant disintegration of their social memory complexes.
+
+Their power is the same as ours. 
+
+**The Law of One blinks neither at the light or the darkness.** 
+
+But is available for service to others and service to self. 
+
+However, service to others results in service to self, thus preserving and further harmonizing the distortions of those entities seeking intelligent infinity through these disciplines.
+
+Those seeking intelligent infinity through the use of service to self create the same amount of power but, as we said, have constant difficulty because of the concept of separation which is implicit in the manifestations of the service to self which involve power over others.
+
+This weakens and eventually disintegrates the energy collected by such mind/body/spirit complexes who call the Orion group and the social memory complexes which comprise the Orion group.
+
+The Law of One is available to any social memory complex which has decided to strive together for any seeking of purpose, be it service to others or service to self. 
+
+The laws, which are the primal distortions of the Law of One, then are placed into operation and the illusion of space/time is used as a medium for the development of the results of those choices freely made. 
+
+Thus all entities learn, no matter what they seek. All learn the same, some rapidly, some slowly.
+
 
 7.16 Questioner: Using as an example a fifth-density group or social memory complex of the Orion group, what was their previous density before they became fifth density?
 
-Ra: I am Ra. The progress through densities is sequential. A fifth-density social memory complex would be comprised of mind/body/spirit complexes harvested from fourth density. Then the conglomerate or mass mind/body/spirit complex does its melding and the results are due to the infinitely various possibilities of combination of distortions.
+Ra: The progress through densities is sequential. 
 
-7.17 Questioner: I’m trying to understand how a group such as the Orion group would progress. I was of the opinion that a closer understanding of the Law of One created the condition of acceptability moving say from our third density to the fourth in our transition now, and I’m trying to understand how it would be possible, if you were in the Orion group, and pointed toward self-service, how you would progress, say, from the third density to the fourth. What learning would be necessary for that?
+A fifth-density social memory complex would be comprised of mind/body/spirit complexes harvested from fourth density. 
 
-Ra: I am Ra. This is the last question of length for this instrument at this time.
+Then the conglomerate or mass mind/body/spirit complex does its melding and the results are due to the infinitely various possibilities of combination of distortions.
 
-You will recall that we went into some detail as to how those not oriented towards seeking service for others yet, nevertheless, found and could use the gateway to intelligent infinity. This is true at all densities in our octave. We cannot speak for those above us, as you would say, in the next quantum or octave of beingness. This is, however, true of this octave of densities. The beings are harvested because they can see and enjoy the light/love of the appropriate density. Those who have found this light/love, love/light without benefit of a desire for service nevertheless, by the Law of Free Will, have the right to the use of that light/love for whatever purpose. Also, it may be inserted that there are systems of study which enable the seeker of separation to gain these gateways.
+7.17 Questioner: How would the Orion group progress?
 
-This study is as difficult as the one which we have described to you, but there are those with the perseverance to pursue the study just as you desire to pursue the difficult path of seeking to know in order to serve. The distortion lies in the fact that those who seek to serve the self are seen by the Law of One as precisely the same as those who seek to serve others, for are all not one? To serve yourself and to serve other is a dual method of saying the same thing, if you can understand the essence of the Law of One.
+A closer understanding of the Law of One created the condition of acceptability moving say from our third density to the fourth in our transition now, and I’m trying to understand how it would be possible, if you were in the Orion group, and pointed toward self-service, how you would progress, say, from the third density to the fourth. What learning would be necessary for that?
+
+Ra: Those not oriented towards seeking service for others can still use the gateway to intelligent infinity.
+
+This is true at all densities in our octave. 
+
+We cannot speak for those above us in the next quantum or octave of beingness.
+
+The beings are harvested because they can see and enjoy the light/love of the appropriate density. 
+
+Those who have found this light/love, love/light without benefit of a desire for service nevertheless, by the Law of Free Will, have the right to the use of that light/love for whatever purpose.
+
+There are systems of study which enable the seeker of separation to gain these gateways.
+
+<!-- This study is as difficult as the one which we have described to you, but there are those with the perseverance to pursue the study just as you desire to pursue the difficult path of seeking to know in order to serve. The distortion lies in the fact that those who seek to serve the self are seen by the Law of One as precisely the same as those who seek to serve others, for are all not one? To serve yourself and to serve other is a dual method of saying the same thing, if you can understand the essence of the Law of One. -->

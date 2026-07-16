@@ -17,11 +17,10 @@ We organize the Chapters according to the 4 properties of waves:
 Topic | Worker | Warrior | Thinker | Trader
 --- | --- | --- | --- | ---
 1 Intro | Workers | Warriors | Thinkers | Traders 
-2 Culture (Metaphysicality) | Expression Culture Personality Archetypes | Strength Morality Criminality Education | Abstract | Acquisition or Expansion Social Cycles Ideology Matrix 
-3 Physicality | Races China / Healthcare Sex / Family | Japan / Military | Ancient Greece / Education-Religion | USA / Money 
-4 Dynamics | Employment / Organizations | Politics  | Science Technology | Business 
-5 Institutions | Legislative | Executive | Judiciary | Resources
-6 Index or Measure | Human Women Animal Rights | Crime rate, Stability | Educational Attainment | NDP
-7 Model Government | Insurance | Rescue Police, Criminal | Judicial Systems |
+2 Expression (Culture or Metaphysicality) | Rights | Power or Politics | Philosophy | Economics
+3 Manifestation (Physicality) | Family, Social Security | Military | Education-Religion | Banks, Commerce
+4 Dynamics | Demographics shifts | Political changes  | Viral ideas Science Technology | Economic Crises blocs
+5 Institutions | Legislative Constitution | Executive | Judiciary | Resources
+6 Index or Measure | Quality of Life, Human Rights, Women Rights, Animal Rights | Crime rate, Stability | Educational Attainment | GDP NDP
+7 Reforms | Marriage, Childcare, Healthcare | Profiling | Dharma, Language | Usufruct Economy
 8 Philosophies | Democracy | Communism | Theocracy | Oligarchy
-9 Social Engineering | Rural |  |  | Urban

@@ -1,11 +1,11 @@
 ---
 heading: Session 9
-title: "The Law of One"
+title: "Martians and Big Foot"
 description: ""
 c: "indigo"
 a: Ra
 date: 1981-01-24
-tags: ['Law of One', '']
+tags: ['Mars', 'bigfoot']
 ---
 
 
@@ -27,91 +27,127 @@ Ra: To direct your judgment is an intrusion upon your space/time continuum disto
 
 This is the proper choice, building from the foundation, making sure the ground is good for the building. We have assessed for you the intensity of this effort in terms of energy expended. You will take this in mind and be patient for we have not given a short or easy program of consciousness learn/teaching.
 
-9.4 Questioner: The way I understand the process of evolution [of a] planetary population is that [a] population has a certain amount of time to progress. This is generally divided into three 25,000-year cycles. At the end of 75,000 years the planet progresses itself. What caused this situation to come about… preciseness of the years, 25,000 years, etc.? What set this up to begin with?
+9.4 Questioner: The way I understand the process of evolution [of a] planetary population is that [a] population has a certain amount of time to progress. 
 
-Ra: I am Ra. Visualize, if you will, the particular energy which, outward flowing and inward coagulating, formed the tiny realm of the creation governed by your Council of Saturn. Continue seeing the rhythm of this process. The living flow creates a rhythm which is as inevitable as one of your timepieces. Each of your planetary entities began the first cycle when the energy nexus was able in that environment to support such mind/body experiences. Thus, each of your planetary entities is on a different cyclical schedule as you might call it. The timing of these cycles is a measurement equal to a portion of intelligent energy.
+This is generally divided into three 25,000-year cycles. At the end of 75,000 years the planet progresses itself. What caused this situation to come about… preciseness of the years, 25,000 years, etc.? What set this up to begin with?
 
-This intelligent energy offers a type of clock. The cycles move as precisely as a clock strikes your hour. Thus, the gateway from intelligent energy to intelligent infinity opens regardless of circumstance on the striking of the hour.
+Ra: Visualize the particular energy which, outward flowing and inward coagulating, formed the tiny realm of the creation governed by your Council of Saturn. 
 
-9.5 Questioner: The original, the first entities on this planet— what was their origin? Where were they before they were on this planet?
+Continue seeing the rhythm of this process. The living flow creates a rhythm which is as inevitable as one of your timepieces. Each of your planetary entities began the first cycle when the energy nexus was able in that environment to support such mind/body experiences. Thus, each of your planetary entities is on a different cyclical schedule as you might call it. 
+
+The timing of these cycles is a measurement equal to a portion of intelligent energy.
+
+This intelligent energy offers a type of clock. The cycles move as precisely as a clock strikes your hour. 
+
+Thus, the gateway from intelligent energy to intelligent infinity opens regardless of circumstance on the striking of the hour.
+
+
+9.5 Questioner: The original, the first entities on this planet— what was their origin?
 
 Ra: I am Ra. The first entities upon this planet were water, fire, air and earth.
 
-9.6 Questioner: The people that we now have— the first people, [inaudible] like us— where did they come from? How did they evolve?
+9.6 Questioner: Where did the first people on Earth come from? How did they evolve?
 
-Ra: I am Ra. You speak of third-density experience. The first of those to come here were brought from another planet in your solar system called by you the Red Planet, Mars. This planet’s environment became inhospitable to third-density beings. The first entities, therefore, were of this race, as you may call it, manipulated somewhat by those who were guardians at that time.
+Ra: You speak of third-density experience. 
+
+1. The first of those to come here were brought from Mars.
+
+Its environment became inhospitable to third-density beings. The first entities, therefore, were of this race manipulated somewhat by those who were guardians at that time.
 
 9.7 Questioner: What race is that, and how did they get from Mars to here?
 
-Ra: I am Ra. The race is a combination of the mind/body/spirit complexes of those of your so-called Red Planet and a careful series of genetical adjustments made by the guardians of that time. These entities arrived, or were preserved, for the experience upon your sphere by a type of birthing which is non-reproductive, but consists of preparing genetic material for the incarnation of the mind/body/spirit complexes of those entities from the Red Planet.
+Ra: The race is a combination of the mind/body/spirit complexes of those of Mars and a careful series of genetical adjustments made by the guardians of that time. 
 
-9.8 Questioner: Then I’m assuming what you’re saying is that the guardians transferred the race here after the race had died from the physical as we know it on Mars. Is that correct?
+These entities arrived, or were preserved, as genetic material for the incarnation of the mind/body/spirit complexes of those entities from Mars.
 
-Ra: I am Ra. This is correct.
 
-9.9 Questioner: The guardians obviously were acting with an understanding of the Law of One in doing this. Can you explain the application of the Law of One in this process?
+9.8 Questioner: So the guardians transferred the race here after the race had died from the physical Mars. 
 
-Ra: I am Ra. The Law of One was named by these guardians as the bringing of the wisdom of the guardians in contact with the entities from the Red Planet, thus melding the social memory complex of the guardian race and the Red Planet race. It, however, took an increasing amount of distortion into the application of the Law of One from the viewpoint of other guardians and it is from this beginning action that the quarantine of this planet was instituted, for it was felt that the free will of those of the Red Planet had been abridged.
+The guardians obviously were acting with an understanding of the Law of One in doing this. Can you explain the application of the Law of One in this process?
 
-9.10 Questioner: Were the entities of the Red Planet following the Law of One prior to leaving the Red Planet?
+Ra: The Law of One was named by these guardians as the bringing of the wisdom of the guardians in contact with the entities from Mars, thus melding the social memory complex of the guardian race and the Martian race. 
 
-Ra: The entities of the Red Planet were attempting to learn the Laws of Love which form one of the primal distortions of the Law of One. However, the tendencies of these people towards bellicose actions caused such difficulties in the atmospheric environment of their planet that it became inhospitable for third-density experience before the end of its cycle. Thus, the Red Planet entities were unharvested and continued in your illusion to attempt to learn the Law of Love.
+It, however, took an increasing amount of distortion into the application of the Law of One from the viewpoint of other guardians.
 
-9.11 Questioner: How long ago did this transfer occur from the Red Planet to Earth?
+This beginning action led to the quarantine of Earth. For it was felt that the free will of the Martians had been abridged.
 
-Ra: I am Ra. In your time this transfer occurred approximately seven five zero zero zero [75,000] years ago.
+9.10 Questioner: Were the entities of Mars following the Law of One prior to leaving Mars?
 
-9.12 Questioner: 75,000 years ago?
+Ra: They were attempting to learn the Laws of Love which form one of the primal distortions of the Law of One. 
 
-Ra: I am Ra. This is approximately correct.
+However, their tendencies towards bellicose actions caused such difficulties in their atmosphere that it became inhospitable for third-density experience before the end of its cycle. 
+
+Thus, the Red Planet entities were unharvested and continued in your illusion to attempt to learn the Law of Love.
+
+9.11 Questioner: How long ago did this transfer occur from Mars to Earth?
+
+Ra: Approximately 75,000 years ago. 
+
+{{< n n="This was the beginning of the Atlanteans" >}}
 
 9.13 Questioner: Were there any entities of this form that I am now— two arms, two legs— on this planet before this transfer occurred?
 
-Ra: I am Ra. There have been visitors to your sphere at various times for the last four million of your years, speaking approximately. These visitors do not effect the cycling of the planetary sphere. It was not third-density in its environment until the time previously mentioned.
+Ra: There have been visitors to your sphere at various times for the last 4 million years. 
+
+These visitors do not effect the cycling of the planetary sphere. It was not third-density in its environment until the time previously mentioned.
 
 9.14 Questioner: Then there were second-density entities here prior to approximately 75,000 years ago. What type of entities were these?
 
-Ra: The second density is the density of the higher plant life and animal life which exists without the upward drive towards the infinite. These second-density beings are of an octave of consciousness just as you find various orientations of consciousness among the conscious entities of your vibration.
+Ra: The second density is the density of the higher plant life and animal life which exists without the upward drive towards the infinite. 
+
+These second-density beings are of an octave of consciousness just as you find various orientations of consciousness among the conscious entities of your vibration.
 
 9.15 Questioner: Did any of these second-density entities have shapes like ours— two arms, two legs, head, and walk upright on two feet?
 
-Ra: I am Ra. The two higher of the sub-vibrational levels of second-density beings had the configuration of the biped, as you mentioned. However, the erectile movement which you experience was not totally effected in these beings who were tending towards the leaning forward, barely leaving the quadrupedal position.
+Ra: The two higher of the sub-vibrational levels of second-density beings had the configuration of the biped. 
 
-9.16 Questioner: Where did these beings come from? Were they a product of evolution as it is understood by our scientists? Were they evolved from the original material of the earth that you spoke of?
+<!-- However, the erectile movement which you experience was not totally effected in these beings who were tending towards the leaning forward, barely leaving the quadrupedal position. -->
 
-Ra: I am Ra. This is correct.
+9.16 Questioner: Where did these beings come from?  Do these beings then evolve from second density to third density?
 
-9.17 Questioner: Do these beings then evolve from second density to third density?
+<!-- Were they a product of evolution as it is understood by our scientists? Were they evolved from the original material of the earth that you spoke of? -->
 
-Ra: I am Ra. This is correct, although no guarantee can be made of the number of cycles it will take an entity to learn the lessons of consciousness of self which are the prerequisite for transition to third density.
+Ra: Yes, although no guarantee can be made of the number of cycles it will take an entity to learn the lessons of consciousness of self which are the prerequisite for transition to third density.
 
-9.18 Questioner: Is there any particular race of people on our planet now who were incarnated here from second density?
+9.18 Questioner: Is there any race of people on our planet now who were incarnated here from second density?
 
-Ra: I am Ra. There are no second-density consciousness complexes here on your sphere at this time. However, there are two races which use the second-density form. One is the entities of the planetary sphere you call Maldek. These entities are working their understanding complexes through a series of what you would call karmic restitutions. They dwell within your deeper underground passageways and are known to you as “Bigfoot.”
+Ra: There are no second-density consciousness complexes here on your sphere at this time. 
 
-The other race is that being offered a dwelling in this density by guardians who wish to give the mind/body/spirit complexes of those who are of this density at this time appropriately engineered physical vehicles, as you would call these chemical complexes, in the event that there is what you call nuclear war.
+However, there are 2 races which use the second-density form.
+
+1. The entities of Maldek. 
+
+These entities are working their understanding complexes through a series of what you would call karmic restitutions. 
+
+They dwell within your deeper underground passageways and are known to you as “Bigfoot.”
+
+The other race is that being offered a dwelling in this density by guardians who wish to give the mind/body/spirit complexes of those who are of this density at this time appropriately engineered physical vehicles in the event of a nuclear war.
+
 
 9.19 Questioner: I didn’t understand what these vehicles or beings were for that were appropriate in the event of nuclear war.
 
-Ra: I am Ra. These are beings which exist as instinctual second-density beings which are being held in reserve to form what you would call a gene pool in case these body complexes are needed. These body complexes are greatly able to withstand the rigors of radiation which the body complexes you now inhabit could not do.
+Ra: These are beings which exist as instinctual second-density beings which are being held in reserve to form what you would call a gene pool in case these body complexes are needed.
+
+These body complexes are greatly able to withstand the rigors of radiation which the body complexes you now inhabit could not do.
 
 9.20 Questioner: Where are these body complexes located?
 
-Ra: I am Ra. These body complexes of the second race dwell in uninhabited deep forest. There are many in various places over the surface of your planet.
+Ra: These body complexes of the second race dwell in uninhabited deep forest. There are many in various places over the surface of your planet.
 
 9.21 Questioner: Are they Bigfoot-type creatures?
 
-Ra: I am Ra. This is correct although we would not call these Bigfoot, as they are scarce and are very able to escape detection. The first race is less able to be aware of proximity of other mind/body/spirit complexes, but these beings are very able to escape due to their technological understandings before their incarnations here. These entities of the glowing eyes are those most familiar to your peoples.
+Ra: This is correct although we would not call these Bigfoot, as they are scarce and are very able to escape detection. 
 
-9.22 Questioner: Then there are two different types of Bigfoot. Correct?
+The first race is less able to be aware of proximity of other mind/body/spirit complexes, but these beings are very able to escape due to their technological understandings before their incarnations here. These entities of the glowing eyes are those most familiar to your peoples.
 
-Ra: I am Ra. This will be the final question.
+9.22 Questioner: Then there are two different types of Bigfoot. 
 
-There are three types of Bigfoot, if you will accept that vibratory sound complex used for three such different races of mind/body/spirit complexes. The first two we have described.
+There are 3 types of Bigfoot if you will accept that vibratory sound complex used for three such different races of mind/body/spirit complexes. The first two we have described.
 
 The third is a thought-form.
 
-9.23 Questioner: We plan to do a second session later today if the instrument is capable and I’d like to ask— believe this is possible— and also if there is anything we can do to aid the instrument’s comfort.
+<!-- 9.23 Questioner: We plan to do a second session later today if the instrument is capable and I’d like to ask— believe this is possible— and also if there is anything we can do to aid the instrument’s comfort.
 
 Ra: I am Ra. This instrument will require some adjustment of the tender portions of her body complex. The distortions are due to the energy center blockage you would call pineal.
 
+ -->

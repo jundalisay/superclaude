@@ -126,24 +126,6 @@ Division and Multiplication need a pre-existing instance, just as a frequency ne
 
 
 
-
-
-
-## The 4 Laws of Thermodynamics 
-
-We rearrange the law of thermodynamics to match the 4 properties of waves
-
-### 1. Temperature (0th Law): Common Thermal Equilibrium
-
-### 2. Conservation (1st Law): Energy changes forms
-
-### 3. Absolute Zero (3rd Law): No radiation at absolute zero
-
-### 4. Entropy (2nd Law): Hot radiates to Cold
-
-This will be explained in Material Superphysics
-
-
 ## The 4 Stages of Life 
 
 This is called Ashrama Dharma in Hinduism which we apply to all organic life and will be explained in Bio Superphysics.

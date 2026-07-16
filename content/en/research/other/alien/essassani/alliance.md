@@ -9,7 +9,7 @@ description: "Bashar answers Questions about the Alliance"
 
 Synchronicity* is the currency of the interstellar alliance.
 
-{{< n n="In Superphysics, synchronicity is part of Relationality" >}}
+{{< n n="In Superphysics, synchronicity is part of Relationality. We assue that the leaders of the Alliance have the most synchronicity ability just as the strongest member of the United Nations is teh USA which has the largest economy as productivity as both buying and selling. (China mostly sells and so has less power in the UN)" >}}
 
 
 

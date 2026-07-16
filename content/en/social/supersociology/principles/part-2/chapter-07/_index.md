@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 7"
-title: "Worker Systems"
+title: "Worker Reforms"
 date: 2026-01-20
 weight: 19
 description: ""
-image: "/photos/econ/barter.jpg"
+image: "/photos/social/wedding.jpg"
 ---

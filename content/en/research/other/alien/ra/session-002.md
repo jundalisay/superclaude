@@ -18,10 +18,12 @@ Thusly would I assure this group that my own social memory complex has one parti
 
 Ra: The possibility of communication, as you would call it, from the One to the One through distortion acceptable for meaning is the reason we contacted this group. 
 
-There are few who will grasp, without significant distortion, that which we communicate through this connection with this mind/body/spirit complex. However, if it be your desire to share our communications with others we have the distortion towards a perception that this would be most helpful in regularizing and crystallizing your own patterns of vibration upon the levels of experience which you call the life. If one is illuminated, are not all illuminated? Therefore, we are oriented towards speaking for you in whatever supply of speakingness you may desire. To teach/learn is the Law of One in one of its most elementary distortions.
+There are few who will grasp, without significant distortion, that which we communicate through this connection with this mind/body/spirit complex. However, if it be your desire to share our communications with others we have the distortion towards a perception that this would be most helpful in regularizing and crystallizing your own patterns of vibration upon the levels of experience which you call the life. 
+
+If one is illuminated, are not all illuminated? Therefore, we are oriented towards speaking for you in whatever supply of speakingness you may desire. To teach/learn is the Law of One in one of its most elementary distortions.
 
 
-2.2 Questioner: Could you tell us something of your historical background? 
+### 2.2 Questioner: Could you tell us something of your historical background? 
 
 Ra: We are those of the Confederation who 11,000 years ago came to two of your planetary cultures which were at that time closely in touch with the creation of the One Creator. 
 
@@ -33,11 +35,12 @@ We attempted to aid them in technical ways having to do with the healing of mind
 
 Thus were the pyramids created.
 
-We found that the technology was reserved largely for those with the effectual mind/body distortion of power. This was not intended by the Law of One. 
+We found that the technology was reserved largely for those with the effectual **mind/body distortion of power**. This was not intended by the Law of One. 
 
-We left your peoples. The group that was to work with those in the area of South America gave up not so easily. They returned. We did not. 
+So we left your peoples. The group that was to work with those in the area of South America gave up not so easily. They returned. We did not. 
 
-However, we have never left your vibration due to our responsibility for the changes in consciousness we had first caused and then found distorted in ways not relegated to the Law of One. 
+However, we have never left your vibration due to our responsibility for the changes in consciousness we had first caused.
+- But this was distorted in ways not relegated to the Law of One. 
 
 We attempted to contact the rulers of the land to which we had come, that land which you call Egypt, or in some areas, the Holy Land.
 
@@ -51,16 +54,24 @@ This young entity had been given a vibratory complex of sound which vibrated in 
 
 The entity decided that this name, being in honor of one among many gods, was not acceptable for inclusion in his vibratory sound complex. Thus, he changed his name to one which honored the sun disc. 
 
-This distortion, called “Aten,” was a close distortion to our reality as we understand our own nature of mind/body/spirit complex distortion.
+This distortion, called “Aten,” was a close distortion to our reality.
 
-However, it does not come totally into alignment with the intended teach/learning which was sent. This entity, Akhenaten, became convinced that the vibration of One was the true spiritual vibration and thus decreed the Law of One.
+ <!-- as we understand our own nature of mind/body/spirit complex distortion. -->
+
+However, it does not come totally into alignment with the intended teach/learning which was sent. 
+
+This entity, **Akhenaten**, became convinced that the vibration of One was the true spiritual vibration and thus decreed the Law of One.
 
 However, this entity’s beliefs were accepted by very few. His priests gave lip service only, without the spiritual distortion towards seeking. 
 
-The peoples continued in their beliefs. When this entity was no longer in this density, again the polarized beliefs in the many gods came into their own and continued so until the Prophet Muhammad delivered the peoples into a more intelligible distortion of mind/body/spirit relationships.
+The peoples continued in their beliefs. 
+
+When this entity was no longer in this density, again the polarized beliefs in the many gods came into their own.
+
+This continued until the Prophet Muhammad delivered the peoples into a more intelligible distortion of mind/body/spirit relationships.
 
 
-2.3 Questioner: Please explain crystal healing.
+### 2.3 Questioner: Please explain crystal healing.
 
 Ra: The principle of crystal healing is based upon an understanding of the hierarchical nature of the structure of the illusion which is the physical body, as you would call it. 
 
