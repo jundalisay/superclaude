@@ -1,8 +1,7 @@
 ---
-title:  "Transmissions"
+title:  "2025"
+weight: 100
 description: ""
 image: "/covers/essassani.jpg"
-featured: true
-weight: 11
 ---
 

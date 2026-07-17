@@ -1,8 +1,7 @@
 ---
-title:  "Transmissions"
+title:  "2020"
+weight: 120
 description: ""
 image: "/covers/essassani.jpg"
-featured: true
-weight: 11
 ---
 

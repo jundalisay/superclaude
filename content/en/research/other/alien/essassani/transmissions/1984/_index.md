@@ -1,8 +1,7 @@
 ---
-title:  "Transmissions"
+title: "1984"
+weight: 84
 description: ""
 image: "/covers/essassani.jpg"
-featured: true
-weight: 11
 ---
 

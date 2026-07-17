@@ -1,8 +1,7 @@
 ---
-title:  "Transmissions"
+title:  "1991"
+weight: 91
 description: ""
 image: "/covers/essassani.jpg"
-featured: true
-weight: 11
 ---
 

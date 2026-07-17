@@ -1,6 +1,6 @@
 ---
 title: "Definitions by the Sassani"
-weight: 3
+weight: 31
 image: "/photos/alien/sassani.jpg"
 description: "Definitions are important to the Sassani because these make up the components of your beliefs and therefore your reality"
 featured: true

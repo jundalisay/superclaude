@@ -39,7 +39,7 @@ W = v + w
 ```
 <figcaption>Equation A</figcaption>
 
-We apply the theory of relativity to get= 
+We apply the theory of relativity to get:
 
 ``` elixir
 x' = wt'
@@ -52,7 +52,9 @@ W = (v + w) / 1+((v w)/c2)
 ```
 <figcaption>Equation B</figcaption>
 
-which corresponds to the theorem of addition for velocities in one direction according to the theory of relativity. The question now arises as to which of these two theorems is the better in accord with experience. 
+This corresponds to the theorem of addition for velocities in one direction according to the theory of relativity. 
+
+The question now arises as to which of these two theorems is the better in accord with experience. 
 
 The brilliant physicist Fizeau did an experiment that made light travel in a motionless liquid with velocity `w`.
 
@@ -62,7 +64,7 @@ How quickly does light travel in tube `T` when the liquid is flowing through the
 
 Relativity says that light always has the same velocity `w` with respect to the liquid, whether the liquid is moving or not.  
 
-The known information are= 
+The known information are:
 - the velocity of light relative to the liquid
 - the velocity of the liquid relative to the tube
 
@@ -89,8 +91,7 @@ c 2 2 -->
 
 According to recent and most excellent measurements by Zeeman, the influence of the velocity of the liquid flow `v` on the speed of light is represented by formula B to within 1%. 
 
-Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my theory of relativity. **His theory was of a purely electrodynamical nature based on a hypotheses that matter has an electromagnetic structure.** * 
-
+Nevertheless, Lorentz gave a theory for this phenomenon long before my theory of relativity. **His theory was of a purely electrodynamical nature based on a hypotheses that matter has an electromagnetic structure.** * 
 
 {{< n n="We agree with Lorentz that Lorentz theory only applies to the electromagnetic layer and not to the material layer which works according to Newton's laws. General Relativity therefore does not apply to spacetime. Rather, general relativity merely explains electromagnetism under the influence of spacetime" >}}
 
@@ -98,12 +99,12 @@ Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my the
 ![Einstein sticking out tongue](/icons/Einstein.jpg)
 
 
-<div style="color=  red;">
+<div style="color=red;">
 Lorentz' theory does not reduce the support of the Fizeau experiment for my theory of relativity*. This is because my theory is based on the electrodynamics of Maxwell-Lorentz. My theory of relativity came out of electrodynamics as an <b>astoundingly simple combination and generalisation of spacetime</b> on which electrodynamics was built. Prior to my theory, this spacetime was independent of each other.
 </div>
 
 
-{{< n n="Here, Einstein exposes that his theory is really from Lorentz, with a mere 'transformation' tweak of unifying space and time through the wave-particle duality of light. Einstein's transformation is dangerous **because it gives electromagnetic properties to spacetime**, effectively limiting it. <p>In Superphysics, the unity of spacetime is not sourced from light or electromagnetism, but from the aether, which is above spacetime and two layers above electromagnetism (see below). This is similar to Lorentz sourcing the cause of his transformations to the aether. Lorentz' mistake was to think that the aether was in the spacetime layer, and not above it.</p>" >}}
+{{< n n="Here, Einstein exposes that his theory is really from Lorentz, with a mere 'transformation' tweak of unifying space and time through the wave-particle duality of light. Einstein's transformation is dangerous **because it gives electromagnetic properties to spacetime**, effectively limiting it. <p>In Superphysics, the unity of spacetime is not sourced from light or electromagnetism, but from the aether, which is above spacetime and two layers above electromagnetism (see below). This is similar to Lorentz sourcing the cause of his transformations to the aether. Lorentz' mistake was to think that the aether was in the spacetime layer, and not above it. Einstein's scam is using the Fresnel aether (3rd Element) to justify relationality and then jumping into the concept of spacetime (2nd Element) to have his corrupted version of the aether</p>" >}}
 
 
 ![5 layers](/graphics/physics/layers.png)
