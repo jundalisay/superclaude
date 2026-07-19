@@ -1,7 +1,7 @@
 ---
 title: "Habits and Addictions, Judgment and Preference"
 weight: 64
-image: "/photos/psych/eat.jpg"
+image: "/photos/bio/lettuce.jpg"
 description: ""
 ---
 

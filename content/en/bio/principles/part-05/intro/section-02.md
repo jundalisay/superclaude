@@ -5,7 +5,7 @@ description: "The Bio-Superphysics Hierarchy of Needs aligns with the 5 Layers"
 # date: "2020-01-01"
 date: 2020-01-25
 weight: 5
-image: "/photos/psych/eat.jpg"
+image: "/photos/bio/lettuce.jpg"
 icon: "Bio Superphysics"
 aliases:
   /bio/principles/chapter-02

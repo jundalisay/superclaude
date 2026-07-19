@@ -4,7 +4,7 @@ title: "Adam Smith on Vegetarian Diets"
 date: 2016-06-20
 lastmod: 2025-01-11
 keywords: ["Potatoes", "Dairy"]
-image: /photos/psych/eat.jpg
+image: /photos/bio/lettuce.jpg
 tags: ['potatoes']
 description: "Adam Smith was a Vegetarian who favored potatoes"
 writer:

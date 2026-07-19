@@ -12,8 +12,6 @@ tags: ['']
 
 
 
-
-
 [00:46] I'd like to explore a little bit with you about abundance -- the discrepancy for me comes between need and want. Could you expand on that a little bit?
 
 [01:10] Abundance is the ability to do what you need to do when you need to do it, we refer to the needs that are created by what excites you. So therefore, in a sense, you can understand that when following your excitement with integrity, that ability is always there, that whatever needs come up they are immediately filled.

@@ -79,7 +79,7 @@ Naturally, chemistry, biochemistry and all other associated branches of science 
 In the future, an omega of mathematics will coincide with an omega of biochemistry. 
 
 
-{{< n n="We interpret this as the paradigm term in Supermath and Qualimath equations." >}}
+{{< n n="We interpret this as the paradigm term in the 'tetra' in Supermath and Qualimath equations." >}}
 
 
 All formulae and theories followed up till now will have to be reformulated, redefined and reclassified.

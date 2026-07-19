@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Effective and Absolute Demand"
 description: ""
-image: /photos/psych/eat.jpg
+image: /photos/bio/lettuce.jpg
 weight: 4
 ---
 

@@ -2,7 +2,7 @@
 title: "The Problem of Selfishness"
 heading: "My Meditation Journey Part 1"
 date: 2024-05-11
-image: "/photos/psych/eat.jpg"
+image: "/photos/bio/lettuce.jpg"
 description: "In Hindu-Buddhist philosophy, selfishness arises from the limitations of the 5 senses"
 writer:
   name: Lam
@@ -60,7 +60,7 @@ These constantly hammer our minds, conditioning it, hardening the sense of its s
 So the more we perceive, the more our ego, as the feeling of the self, gets hardened. This isolates it from other selves or egos, making it self-ish or egotistic. 
 
 
-{{< img src="/photos/psych/eat.jpg" alt="Eating delicious food" >}}
+{{< img src="/photos/bio/lettuce.jpg" alt="Eating delicious food" >}}
 
 This is why we see selfish people preferring material goods like cars, phones, clothes, delicious food, etc. instead of relationships, friendships, and family. 
 

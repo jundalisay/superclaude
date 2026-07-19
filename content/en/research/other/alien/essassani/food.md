@@ -1,7 +1,7 @@
 ---
 title: "Food"
 weight: 54
-image: "/photos/psych/eat.jpg"
+image: "/photos/bio/lettuce.jpg"
 description: "Food Tips"
 ---
 
