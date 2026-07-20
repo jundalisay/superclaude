@@ -13,20 +13,20 @@ September 15, 1982
 
 97.2 Questioner: What’s the situation with our fifth-density negative friend?
 
-Ra: I am Ra. It is as previously stated.
+Ra:  It is as previously stated.
 
 97.3 Questioner: I’ve been doing some consideration of the appearance of the hawk and have made this analysis of the bird in Card Three. The bird is a message from the higher self, and the position of the wings in Card Three, one wing pointing toward the female, indicates that it is a message to the female acting as catalyst for the mind. The position of the downward wing indicates that the message is of a negative or of a nature indicating the inappropriateness of certain mental activity or plan. Would Ra comment on that?
 
-Ra: I am Ra. No.
+Ra:  No.
 
 97.4 Questioner: Is the reason for this lack of comment the first distortion?
 
-Ra: I am Ra. This is correct.
+Ra:  This is correct.
 
 
 97.5 Questioner: I have analyzed the hawk that I saw immediately after returning from the house in Atlanta as a message, most probably from my higher self, indicating that the plan of moving was not the best; was not too appropriate since, without the hawk, everything would have continued as planned with no added catalyst. This single catalyst of a remarkable nature then, logically, from my point of view, could only mean that there was a message as to the inappropriateness of the plan for some reason yet to be discovered. Would Ra comment on that?
 
-Ra: I am Ra. We tread as close as possible to the Law of Confusion in suggesting that not all wingèd creatures have an archetypical meaning. We might suggest that the noticing of shared subjectively notable phenomena is common when, in another incarnational experience, work significant to the service of increased polarity has been shared. These subjectively interesting shared phenomena then act as a means of communication, the nature of which cannot be discussed by those outside of the shared incarnational experience without the interference with the free will of each entity involved in the complex of subjectively meaningful events.
+Ra:  We tread as close as possible to the Law of Confusion in suggesting that not all wingèd creatures have an archetypical meaning. We might suggest that the noticing of shared subjectively notable phenomena is common when, in another incarnational experience, work significant to the service of increased polarity has been shared. These subjectively interesting shared phenomena then act as a means of communication, the nature of which cannot be discussed by those outside of the shared incarnational experience without the interference with the free will of each entity involved in the complex of subjectively meaningful events.
 
 97.6 Questioner: Can Ra please tell us the source of the unusual odor in this room this morning?
 
@@ -41,13 +41,13 @@ The cleansing of the room and the burning of the incense has discouraged the ele
 
 The only objective of any value at all is the work that we are doing which includes not only the contact but communication and dissemination of information to those who might request it. Since the move was connected with that, and since the hawk was, to me, obviously a function of that process, I am at present in a quandary with respect to the optimal situation since I have not yet decided definitely on the significance of the hawk or the advantages or efficaciousness of the move and do not want to create a process which is basically irreversible if it is going to result in a lack of our ability to be of service to those who would seek that which we are able to manifest through our efforts here. Would Ra comment on that situation?
 
-Ra: I am Ra. The questioner presumes much, and to comment is an infringement upon its free will. We may suggest the pondering of our previous comments regarding the wingèd creatures of which you speak. We repeat that any place of working, properly prepared by this group, is acceptable to Ra. The discrimination of choice is yours.
+Ra:  The questioner presumes much, and to comment is an infringement upon its free will. We may suggest the pondering of our previous comments regarding the wingèd creatures of which you speak. We repeat that any place of working, properly prepared by this group, is acceptable to Ra. The discrimination of choice is yours.
 
 97.8 Questioner: Are there any items in the first four cards not of Ra’s intention that we could remove to present a less confusing card as we make our new drawings?
 
 We already have determined the items that should be removed from the first four cards. The question was: have I missed anything that should be removed which were not of Ra’s original intention in the last few sessions of determining what should be removed?
 
-Ra: I am Ra. We shall repeat our opinion that there are several concepts which, in each image, are astrologically based. However, these concepts are not without merit within the concept complex intended by Ra, given the perception by the student of these concepts in an appropriate manner.
+Ra:  We shall repeat our opinion that there are several concepts which, in each image, are astrologically based. However, these concepts are not without merit within the concept complex intended by Ra, given the perception by the student of these concepts in an appropriate manner.
 
 We wish not to form that which may be considered by any mind/body/spirit complex to be a complete and infallible series of images. There is a substantial point to be made in this regard. We have been, with the questioner’s aid, investigating the concept complexes of the great architecture of the archetypical mind. To more clearly grasp the nature, the process, and the purpose of archetypes, Ra provided a series of concept complexes. In no way whatsoever should we, as humble messengers of the One Infinite Creator, wish to place before the consideration of any mind/body/spirit complex which seeks its evolution the palest tint of the idea that these images are anything but a resource for working in the area of the development of the faith and the will.
 
@@ -57,17 +57,17 @@ We are not messengers of the complex. We bring the message of unity. In this per
 
 97.10 Questioner: Thank you. Card Number Five, the Significator of the Mind, indicates, firstly, as I see it, simply a male within a rectangularly structured form. This suggests to me that the Significator of the Mind in third density is well-bounded within the illusion, as is also suggested by the fact that the base of the male is a rectangular form showing no ability for movement. Would Ra comment on that?
 
-Ra: I am Ra. O student, you have grasped the barest essence of the nature of the Significator’s complete envelopment within the rectangle. Consider for the self, O student, whether your thoughts can walk. The abilities of the most finely honed mentality shall not be known without the use of the physical vehicle which you call the body. Through the mouth the mind may speak. Through the limbs the mind may effect action.
+Ra:  O student, you have grasped the barest essence of the nature of the Significator’s complete envelopment within the rectangle. Consider for the self, O student, whether your thoughts can walk. The abilities of the most finely honed mentality shall not be known without the use of the physical vehicle which you call the body. Through the mouth the mind may speak. Through the limbs the mind may effect action.
 
 97.11 Questioner: The entity looks to the left, indicating that the mind has the tendency to notice more easily the negative catalyst or negative essence of its environment. 
 
 There are two small entities at the bottom of the seat, one black and one white. I would first ask Ra: is this drawing correct in the coloring? Is the black one in the proper position with respect to Ra’s original drawings?
 
-Ra: I am Ra. That which you perceive as black was first red. Other than this difference, the beings in the concept complex are placed correctly.
+Ra:  That which you perceive as black was first red. Other than this difference, the beings in the concept complex are placed correctly.
 
 97.13 Questioner: The red coloration is a mystery to me then. We had originally decided that these represented polarization of the mind, either positive or negative, as its significant self would be either significant as one or the other polarity. Would Ra comment on that?
 
-Ra: I am Ra. The indications of polarity are as presumed by the questioner. The symbolism of old for the left-hand path was the russet coloration.
+Ra:  The indications of polarity are as presumed by the questioner. The symbolism of old for the left-hand path was the russet coloration.
 
 97.14 Questioner: Would—
 
@@ -83,7 +83,7 @@ I am Ra. Please continue.
 
 97.15 Questioner: What was the nature of the problem? What caused it?
 
-Ra: I am Ra. The fifth-density entity which greets this instrument affected a previous difficulty distorting the throat and chest area of the instrument. Some fraction of this distortion remained unmentioned by the instrument. It is helpful if the instrument speaks as clearly as possible to the support group of any difficulties that more care may be taken.
+Ra:  The fifth-density entity which greets this instrument affected a previous difficulty distorting the throat and chest area of the instrument. Some fraction of this distortion remained unmentioned by the instrument. It is helpful if the instrument speaks as clearly as possible to the support group of any difficulties that more care may be taken.
 
 However, we find very little distortion left in the chest area of the instrument. However, immediately preceding the working the instrument was offered an extreme activation of what you may call the allergies and the mucous from the flow which this distortion causes began to cause difficulty to the throat. At this juncture the previous potential for the tightening of the throat was somewhat activated by reflex of the yellow-ray, chemical body over which we have only gross control.
 
@@ -117,6 +117,6 @@ Is there any brief query before we leave this instrument?
 
 97.20 Questioner: It’s not necessary to answer this if you want to end right now for the instrument’s benefit, but is there anything we can do to improve the contact or make the instrument more comfortable?
 
-Ra: I am Ra. All is well. The support group functions well.
+Ra:  All is well. The support group functions well.
 
 It is suggested that the instrument be encouraged to take steps to recover completely from the distortion towards the aching of the throat and, to a lesser extent, the chest. There is no way in which we or you may remove that working which has been done. It simply must be removed by physical recovery of the normal distortion. This is not easy due to this instrument’s tendency towards allergy.

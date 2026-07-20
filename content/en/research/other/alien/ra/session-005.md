@@ -18,7 +18,7 @@ The healing working is congruent in that it is a form of channeling some distort
 
 5.2 Questioner: We have decided to accept, if offered, the honor/duty of learning/teaching the healing process. I would ask as to the first step which we should accomplish in becoming effective healers.
 
-Ra: I am Ra. We shall begin with the first of the three teachings/learnings.
+Ra:  We shall begin with the first of the three teachings/learnings.
 
 We begin with the mental learn/teachings necessary for contact with intelligent infinity. The prerequisite of mental work is the ability to retain silence of self at a steady state when required by the self. The mind must be opened like a door. The key is silence.
 
@@ -46,4 +46,4 @@ We can answer a query if it is a short one before we leave this instrument.
 
 5.3 Questioner: Is the instrument comfortable? Is there any other thing that would increase the instrument’s comfort? That’s all.
 
-Ra: I am Ra. The candle could be rotated clockwise approximately 10° each session to improve the flow of spiraled energy through the being’s receiving mechanisms. This particular configuration is well otherwise. But we ask that the objects described and used be centered with geometric care and checked from time to time. Also that they not be exposed to that space/time in which work is not of importance.
+Ra:  The candle could be rotated clockwise approximately 10° each session to improve the flow of spiraled energy through the being’s receiving mechanisms. This particular configuration is well otherwise. But we ask that the objects described and used be centered with geometric care and checked from time to time. Also that they not be exposed to that space/time in which work is not of importance.

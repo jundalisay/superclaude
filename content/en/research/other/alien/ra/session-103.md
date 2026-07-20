@@ -33,15 +33,15 @@ Ra: We cannot recommend for the general situation for in each case the distortio
 
 103.6 Questioner: What is the present situation with respect to our fifth-density, service-to-self oriented companion?
 
-Ra: I am Ra. This entity has, for some period of your space/time, been at rest. However, it has been alerted to the workings taking place and is soon to be your companion once again.
+Ra:  This entity has, for some period of your space/time, been at rest. However, it has been alerted to the workings taking place and is soon to be your companion once again.
 
 103.7 Questioner: Can Ra recommend anything that the instrument can do, or that we can do, to improve any of the energies of the instrument?
 
-Ra: I am Ra. This is previously covered material. We have outlined the path the instrument may take in thought.
+Ra:  This is previously covered material. We have outlined the path the instrument may take in thought.
 
 103.8 Questioner: I didn’t mean to cover previously covered material. I meant to add any of this to specifically focus on at this time, the best possible thing that we or the instrument could do to improve these energies, the salient activity.
 
-Ra: I am Ra. Before responding we ask your vigilance during pain flares as the channel is acceptable but is being distorted periodically by the severe physical distortions of the yellow-ray, chemical body of the instrument.
+Ra:  Before responding we ask your vigilance during pain flares as the channel is acceptable but is being distorted periodically by the severe physical distortions of the yellow-ray, chemical body of the instrument.
 
 Those salient items for the support group are praise and thanksgiving in harmony. These the group has accomplished with such a degree of acceptability that we cavil not at the harmony of the group.
 
@@ -51,12 +51,12 @@ This sort of martyrdom, and here we speak of the small but symbolically great sa
 
 103.9 Questioner: Is there anything else that either we or the instrument can do that would specifically work on the vital energy to increase it of the instrument?
 
-Ra: I am Ra. We have come up against the full stop of free will.
+Ra:  We have come up against the full stop of free will.
 
 103.10 Questioner: In that case I have a few questions on Card Seven in order to finish off our first run-through of the archetypes of the mind. There is a T with two right angles above it on the chest of the entity in Card Seven. We have guessed that the lower T has to do with the possibility of choosing either path in the transformation and the upper two angles representing the great way of the left or the right-hand path in a mental transformation that makes the change from space/time into time/space, you might say. 
 
 
-Ra: I am Ra. The use of the tau and the architect’s square is indeed intended to suggest the proximity of the space/time of the Great Way’s environment to time/space. We find this observation most perceptive.
+Ra:  The use of the tau and the architect’s square is indeed intended to suggest the proximity of the space/time of the Great Way’s environment to time/space. We find this observation most perceptive.
 
 The entire mood, shall we say, of the Great Way is indeed dependent upon its notable difference from the Significator. The Significator is the significant self, to a great extent but not entirely influenced by the lowering of the veil.
 
@@ -64,7 +64,7 @@ The Great Way of the Mind, the Body, or the Spirit draws the environment which h
 
 103.12 Questioner: I am guessing that the wheels on this chariot indicate the ability of the mind to be able now to move in time/space. Is this correct?
 
-Ra: I am Ra. We cannot say that the observation is totally incorrect, for there is as much work in time/space as the individual who evokes this complex of concepts has assimilated.
+Ra:  We cannot say that the observation is totally incorrect, for there is as much work in time/space as the individual who evokes this complex of concepts has assimilated.
 
 However, it would be more appropriate to draw the attention to the fact that although the chariot is wheeled, it is not harnessed to that which draws it by a physical or visible harness. What then, O Student, links and harnesses the chariot’s power of movement to the chariot?
 
@@ -72,11 +72,11 @@ However, it would be more appropriate to draw the attention to the fact that alt
 
 We were thinking of replacing the sword in the right hand with the magical sphere and a downward scepter in the left hand, similar to Card Five, the Significator, as more appropriate for this card. Would Ra comment on that, please?
 
-Ra: I am Ra. This is quite acceptable, especially if the sphere may be imaged as spherical and effulgent.
+Ra:  This is quite acceptable, especially if the sphere may be imaged as spherical and effulgent.
 
 103.14 Questioner: The bent left leg of the two sphinxes indicate[s] a transformation that occurs on the left that doesn’t on the right, possibly an inability in that position to move. Does this have any merit?
 
-Ra: I am Ra. The observation has merit in that it may serve as the obverse of the connotation intended. The position is intended to show two items, one of which is the dual possibilities of the time-full characters there drawn.
+Ra:  The observation has merit in that it may serve as the obverse of the connotation intended. The position is intended to show two items, one of which is the dual possibilities of the time-full characters there drawn.
 
 The resting is possible in time, as is the progress. If a mixture is attempted, the upright, moving leg will be greatly hampered by the leg that is bent. The other meaning has to do with the same right angle, with its architectural squareness, as the device upon the breast of the actor.
 
@@ -84,30 +84,31 @@ Time/space is close in this concept complex, brought close due to the veiling pr
 
 103.15 Questioner: I am assuming that the skirt is skewed to the left for the same reason that it is in Card Number Four, indicating the distance service-to-self polarized entities keep from others, and I am also assuming that the face is turned to the left for the same reason that it is in Card Number Five, because of the nature of catalyst. Is this roughly correct?
 
-Ra: I am Ra. Please expel breath over the breast of the instrument from right to left.
+Ra:  Please expel breath over the breast of the instrument from right to left.
 
 [This was done as directed.]
 
-I am Ra. That is well.
+That is well.
 
 Your previous supposition is indeed roughly correct. We might also note that we, in forming the original images for your peoples, were using the cultural commonplaces of artistic expression of those in Egypt. The face is drawn to the side most often, as are the feet turned. We made use of this and, thus, wish to soften the significance of the side-long look. In no case thus far in these deliberations, however, has any misinterpretation or unsuitable interpretation been drawn.
 
 103.16 Questioner: Our appropriate time for working right now, I believe, is close to a close, and I would like to ask, that is, the two times we had to expel breath— what is the problem, or what is— Why in this session do we have to do that, when we didn’t in most others?
 
-Ra: I am Ra. This instrument is unaware of the method used to contact Ra. However, its desire was particularly strong, at the outset of this working, for this working to transpire. Thus it inadvertently was somewhat premature in its leaving of the yellow-ray, physical body.
+Ra:  This instrument is unaware of the method used to contact Ra. However, its desire was particularly strong, at the outset of this working, for this working to transpire. Thus it inadvertently was somewhat premature in its leaving of the yellow-ray, physical body.
 
 In this state the object was dropped upon the instrument which you call the tie-pin microphone. The unexpected contact caused injury of the chest muscles and we would advise some care depending from this working to avoid stress so that this injury may heal. There is a metaphysical component to this injury and, therefore, we wished to be quite sure that all portions of the environment were cleansed. Since this place of working has not its usual level of protection we used your breath to so cleanse the environment, which was at risk.
 
 103.17 Questioner: Is the reason for the lack of usual level of protection the fact that it has been a considerable time since we have worked in here?
 
-Ra: I am Ra. No.
+Ra:  No.
 
 103.18 Questioner: What is the reason?
 
-Ra: I am Ra. The lack of regular repetition of the so-called Banishing Ritual is the lack of which we spoke.
+Ra:  The lack of regular repetition of the so-called Banishing Ritual is the lack of which we spoke.
 
 103.19 Questioner: From this I assume that it would be most appropriate to daily perform the Banishing Ritual in this room. Is this correct?
 
-Ra: I am Ra. That is acceptable.
+Ra:  That is acceptable.
 
 103.20 Questioner: I don’t want to overtire the instrument. We’re running close to time. I will just ask if there is anything we can do to improve the contact or make the instrument more comfortable, or if there is anything else that Ra could state at this time that would aid us?
+

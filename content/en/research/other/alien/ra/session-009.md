@@ -15,7 +15,7 @@ January 27, 1981
 
 9.1 Questioner: Can you to tell us of anything in our past incarnations, our past experiences before this incarnation?
 
-Ra: I am Ra. Such information as this is carefully guarded by your mind/body/spirit being totality so that your present space/time experiences will be undiluted.
+Ra:  Such information as this is carefully guarded by your mind/body/spirit being totality so that your present space/time experiences will be undiluted.
 
 Let us scan for harmless material for your beingness. [20-second pause.] I am, in the distortion of desire for your freedom from preconception, able to speak only generally. 
 
@@ -44,7 +44,7 @@ Thus, the gateway from intelligent energy to intelligent infinity opens regardle
 
 9.5 Questioner: The original, the first entities on this planet— what was their origin?
 
-Ra: I am Ra. The first entities upon this planet were water, fire, air and earth.
+Ra:  The first entities upon this planet were water, fire, air and earth.
 
 9.6 Questioner: Where did the first people on Earth come from? How did they evolve?
 
@@ -148,6 +148,6 @@ The third is a thought-form.
 
 <!-- 9.23 Questioner: We plan to do a second session later today if the instrument is capable and I’d like to ask— believe this is possible— and also if there is anything we can do to aid the instrument’s comfort.
 
-Ra: I am Ra. This instrument will require some adjustment of the tender portions of her body complex. The distortions are due to the energy center blockage you would call pineal.
+Ra:  This instrument will require some adjustment of the tender portions of her body complex. The distortions are due to the energy center blockage you would call pineal.
 
  -->

@@ -16,7 +16,7 @@ May 13, 1981
 
 The first is just clearing up final points about harvest for our friend [name]. And I was wondering if there is a supervision over the harvest and if so, why this supervision is necessary and how it works since an entity’s harvestability is the violet ray? Is it necessary for entities to supervise the harvest, or is it automatic? Could you answer this, please?
 
-Ra: I am Ra. In time of harvest there are always harvesters. The fruit is formed as it will be, but there is some supervision necessary to ensure that this bounty is placed as it should be without the bruise or the blemish.
+Ra:  In time of harvest there are always harvesters. The fruit is formed as it will be, but there is some supervision necessary to ensure that this bounty is placed as it should be without the bruise or the blemish.
 
 There are those of three levels watching over harvest.
 
@@ -30,7 +30,7 @@ Thus the harvest is automatic in that those harvested will respond according to 
 
 51.2 Questioner: Thank you. This next question I feel to be a transient type of question; however, it has been asked me by one whom I have communicated with who has been intensely involved in the UFO portion of the phenomenon. If you deem it too transient or unimportant we’ll skip it, but I have been asked how is it possible for the craft of, shall we say, the fourth-density to get here in that it seems that as you approach the velocity of light mass approaches infinite. We have talked about the increase of spiritual mass and it was just a question as to how this transition from very distant planets is made in craft and my question would be why craft would be necessary at all? This is not an important question.
 
-Ra: I am Ra. You have asked several questions. We shall respond in turn.
+Ra:  You have asked several questions. We shall respond in turn.
 
 Firstly, we agree that this material is transient.
 
@@ -44,29 +44,29 @@ The other type of experience is that of fourth, fifth, and sixth densities of ot
 
 51.3 Questioner: I assume that that latter type is the type that we experience with most of our landings from the Orion group. Is this correct?
 
-Ra: I am Ra. The Orion group is mixed between the penultimate and the latter groups.
+Ra:  The Orion group is mixed between the penultimate and the latter groups.
 
 51.4 Questioner: Why is a vehicle necessary for this transition? When you, as Ra, went to Egypt earlier you used bell-shaped craft, but you did this by thought. Can you tell me why you used a vehicle rather than just materializing the body?
 
-Ra: I am Ra. The vehicle or craft is that thought-form upon which our concentration may function as motivator. We would not choose to use our mind/body/spirit complexes as the focus for such a working.
+Ra:  The vehicle or craft is that thought-form upon which our concentration may function as motivator. We would not choose to use our mind/body/spirit complexes as the focus for such a working.
 
 51.5 Questioner: Thank you. I would like to make a statement. I’m sure I’m somewhat off with this. It’s a very difficult question to ask for me, because I don’t really know what I’m talking about. But it seems to me, and you can tell me where I am going wrong with this statement, that we have seven bodies each corresponding to one of the seven colors of the spectrum and that energy that creates these seven bodies is a universal type of energy that streams into our planetary environment and comes in through seven energy centers that we have called chakras to develop and perfect these bodies, and this is…. Each of these bodies is in somehow related to the mental configuration that we have and the perfection of each of these bodies and the total instreaming, you might say, of this energy is a function of this mental configuration, and through this mental configuration we may block, to some extent, the instreamings of energy that create each of these seven bodies. Could you comment on where I am wrong and correct me in this that I have stated?
 
-Ra: I am Ra. Your statement is substantially correct. To use the term “mental configuration” is to oversimplify the manners of blockage of instreaming which occur in your density. The mind complex has a relationship to the spirit and body complexes which is not fixed. Thus blockages may occur betwixt spirit and mind, or body and mind, upon many different levels. We reiterate that each energy center has seven sub-colors, let us say, for convenience. Thus spiritual/mental blockages combined with mental/bodily blockages may affect each of the energy centers in several differing ways. Thus you may see the subtle nature of the balancing and evolutionary process.
+Ra:  Your statement is substantially correct. To use the term “mental configuration” is to oversimplify the manners of blockage of instreaming which occur in your density. The mind complex has a relationship to the spirit and body complexes which is not fixed. Thus blockages may occur betwixt spirit and mind, or body and mind, upon many different levels. We reiterate that each energy center has seven sub-colors, let us say, for convenience. Thus spiritual/mental blockages combined with mental/bodily blockages may affect each of the energy centers in several differing ways. Thus you may see the subtle nature of the balancing and evolutionary process.
 
 51.6 Questioner: I am unsure as to whether this will provide an avenue of questioning or not that will be fruitful, however I will ask this question since it seemed to me that there is possibly a connection here.
 
 On the back of the book, Secrets of The Great Pyramid, there are several reproductions of Egyptian drawings or works, some showing birds flying over horizontal entities. Could you tell me what this is and if it has any relationship to Ra?
 
-Ra: I am Ra. These drawings of which you speak are some of many which distort the teaching of our perception of death as the gateway to further experience. The distortions concern those considerations of specific nature as to processes of the so-called “dead” mind/body/spirit complex. This may be termed, in your philosophy, the distortion of Gnosticism: that is, the belief that one may achieve knowledge and a proper position by means of carefully perceived and accentuated movements, concepts, and symbols. In fact, the process of the physical death is as we have described before: one in which there is aid available and the only need at death is the releasing of that entity from its body by those around it and the praising of the process by those who grieve. By these means may the mind/body/spirit which has experienced physical death be aided, not by the various perceptions of careful and repeated rituals.
+Ra:  These drawings of which you speak are some of many which distort the teaching of our perception of death as the gateway to further experience. The distortions concern those considerations of specific nature as to processes of the so-called “dead” mind/body/spirit complex. This may be termed, in your philosophy, the distortion of Gnosticism: that is, the belief that one may achieve knowledge and a proper position by means of carefully perceived and accentuated movements, concepts, and symbols. In fact, the process of the physical death is as we have described before: one in which there is aid available and the only need at death is the releasing of that entity from its body by those around it and the praising of the process by those who grieve. By these means may the mind/body/spirit which has experienced physical death be aided, not by the various perceptions of careful and repeated rituals.
 
 51.7 Questioner: You spoke an earlier time of rotational speeds of energy centers. Am I correct in assuming that this is a function of the blockage of the energy center and the less blocked it is, the higher speed of rotation, then indicating greater energy instreaming?
 
-Ra: I am Ra. You are partially correct. In the first three energy centers a full unblocking of this energy will create speeds of rotation. As the entity develops the higher energy centers, however, these centers will then begin to express their nature by forming crystal structures. This is the higher or more balanced form of activation of energy centers as the space/time nature of this energy is transmuted to the time/space nature of regularization and balancing.
+Ra:  You are partially correct. In the first three energy centers a full unblocking of this energy will create speeds of rotation. As the entity develops the higher energy centers, however, these centers will then begin to express their nature by forming crystal structures. This is the higher or more balanced form of activation of energy centers as the space/time nature of this energy is transmuted to the time/space nature of regularization and balancing.
 
 51.8 Questioner: What do you mean by crystal structures?
 
-Ra: I am Ra. Each of the energy centers of the physical complex may be seen to have a distinctive crystalline structure in the more developed entity. Each will be somewhat different just as in your world no two snowflakes are alike. However, each is regular. The red energy center often is in the shape of the spoked wheel. The orange energy center in the flower shape containing three petals.
+Ra:  Each of the energy centers of the physical complex may be seen to have a distinctive crystalline structure in the more developed entity. Each will be somewhat different just as in your world no two snowflakes are alike. However, each is regular. The red energy center often is in the shape of the spoked wheel. The orange energy center in the flower shape containing three petals.
 
 The yellow center again in a rounded shape, many faceted, as a star.
 
@@ -80,11 +80,11 @@ The violet energy center is the least variable and is sometimes described in you
 
 51.9 Questioner: Right now I feel a feeling at the indigo center. If this center were totally activated and not blocked at all, would I then feel nothing there?
 
-Ra: I am Ra. This query, if answered, would infringe upon the Law of Confusion.
+Ra:  This query, if answered, would infringe upon the Law of Confusion.
 
 51.10 Questioner: Immediately after the death of the physical body, you have stated that the, I believe I’m correct in saying that, primary activated body is the indigo, and you stated that it is the form-maker. Why is this so? Can you answer that?
 
-Ra: I am Ra. This will be the last full query of this session of working.
+Ra:  This will be the last full query of this session of working.
 
 The indigo body may be seen to be an analog for intelligent energy. It is, in microcosm, the Logos. The intelligent energy of the mind/body/spirit complex totality draws its existence from intelligent infinity or the Creator. This Creator is to be understood, both in macrocosm and microcosm, to have, as we have said, two natures: the unpotentiated infinity which is intelligent; this is all that there is.
 

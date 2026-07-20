@@ -26,7 +26,7 @@ The thought of not being able is not a part of our basic thought-form complex to
 
 7.3 Questioner: By squared, do you mean that if ten people call you can count that, when comparing it to the planetary ratio of people, as 100 people, squaring ten, getting 100? Is that correct?
 
-Ra: I am Ra. This is incorrect. The square is sequential — one, two, three, four, each squared by the next number.
+Ra:  This is incorrect. The square is sequential — one, two, three, four, each squared by the next number.
 
 7.4 Questioner: [Inaudible] use an example. If ten, only ten, entities on earth required your services how would you compute their call using this square rule?
 
@@ -46,13 +46,13 @@ Ra: The number is approximately meaningless in the finite sense as there are man
 
 7.8 Questioner: At what point would this calling be enough for you to openly come among the people on Earth? How many entities on Earth would have to call the Confederation?
 
-Ra: I am Ra. We do not calculate the possibility of coming among your peoples by the numbers of calling, but by a consensus among an entire societal-memory complex which has become aware of the infinite consciousness of all things. This has been possible among your peoples only in isolated instances.
+Ra:  We do not calculate the possibility of coming among your peoples by the numbers of calling, but by a consensus among an entire societal-memory complex which has become aware of the infinite consciousness of all things. This has been possible among your peoples only in isolated instances.
 
 In the case wherein a social memory complex which is servant of the Creator sees this situation and has an idea for the appropriate aid which can only be done among your peoples, the social memory complex desiring this project lays it before the Council of Saturn. If it is approved, quarantine is lifted.
 
 7.9 Questioner: I have a question here, I believe, about that Council from Jim. Who are the members, and how does the Council function?
 
-Ra: I am Ra. The members of the Council are representatives from the Confederation and from those vibratory levels of your inner planes bearing responsibility for your third density. The names are not important because there are no names. Your mind/body/spirit complexes request names and so, in many cases, the vibratory sound complexes which are consonant with the vibratory distortions of each entity are used. However, the name concept is not part of the Council. If names are requested, we will attempt them. However, not all have chosen names.
+Ra:  The members of the Council are representatives from the Confederation and from those vibratory levels of your inner planes bearing responsibility for your third density. The names are not important because there are no names. Your mind/body/spirit complexes request names and so, in many cases, the vibratory sound complexes which are consonant with the vibratory distortions of each entity are used. However, the name concept is not part of the Council. If names are requested, we will attempt them. However, not all have chosen names.
 
 In number, the Council that sits in constant session, though varying in its members by means of balancing, which takes place, what you would call irregularly, is nine. That is the Session Council. To back up this Council, there are twenty-four entities which offer their services as requested. These entities faithfully watch and have been called the Guardians.
 
@@ -62,11 +62,11 @@ These are the prominent duties of the Council. They are, if in any doubt, able t
 
 7.10 Questioner: Is the Council of Nine the same nine that was mentioned in this book? [Questioner gestures to Uri.]
 
-Ra: I am Ra. The Council of Nine has been retained in semi-undistorted form by two main sources, that known in your naming, as Mark and that known in your naming as Henry. In one case, the channel became the scribe. In the other, the channel was not the scribe. However, without the aid of the scribe, the energy would not have come to the channel.
+Ra:  The Council of Nine has been retained in semi-undistorted form by two main sources, that known in your naming, as Mark and that known in your naming as Henry. In one case, the channel became the scribe. In the other, the channel was not the scribe. However, without the aid of the scribe, the energy would not have come to the channel.
 
 7.11 Questioner: The names you spoke of, are they Mark Probert and Henry Puharich?
 
-Ra: I am Ra. This is correct.
+Ra:  This is correct.
 
 7.12 Questioner: I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. 
 

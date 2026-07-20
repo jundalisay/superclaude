@@ -15,12 +15,12 @@ June 8, 1981
 
 56.1 Questioner: Would you first please give me an indication of the condition of the instrument?
 
-Ra: I am Ra. This instrument is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.
+Ra:  This instrument is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.
 
 
 56.3 Questioner: how does the pyramid shape work?
 
-Ra: I am Ra. We are assuming that you wish to know the principle of the shapes, angles, and intersections of the pyramid at what you call Giza.
+Ra:  We are assuming that you wish to know the principle of the shapes, angles, and intersections of the pyramid at what you call Giza.
 
 In reality, the pyramid shape does no work. It does not work. It is an arrangement for the centralization as well as the diffraction of the spiraling upward light energy as it is being used by the mind/body/spirit complex.
 
@@ -40,11 +40,11 @@ It is to be noted that your peoples build, for the most part, the cornered or sq
 
 56.4 Questioner: Is there an apex angle that is the angle for maximum efficiency in the pyramid?
 
-Ra: I am Ra. Again, to conserve this instrument’s energy, I am assuming that you intend to indicate the most appropriate angle of apex for healing work. If the shape is such that it is large enough to contain an individual mind/body/spirit complex at the appropriate off-set position within it, the 76° 18′, approximate, angle is useful and appropriate. If the position varies, the angle may vary. Further, if the healer has the ability to perceive distortions with enough discrimination, the position within any pyramid shape may be moved about until results are effected. However, we found this particular angle to be useful. Other social memory complexes, or portions thereof, have determined different apex angles for different uses, not having to do with healing but with learning. When one works with the cone, or, shall we say, the silo type of shape, the energy for healing may be found to be in a general circular pattern unique to each shape as a function of its particular height and width, and in the cone shape, the angle of apex. In these cases, there are no corner angles. Thus the spiraling energy works in circular motion.
+Ra:  Again, to conserve this instrument’s energy, I am assuming that you intend to indicate the most appropriate angle of apex for healing work. If the shape is such that it is large enough to contain an individual mind/body/spirit complex at the appropriate off-set position within it, the 76° 18′, approximate, angle is useful and appropriate. If the position varies, the angle may vary. Further, if the healer has the ability to perceive distortions with enough discrimination, the position within any pyramid shape may be moved about until results are effected. However, we found this particular angle to be useful. Other social memory complexes, or portions thereof, have determined different apex angles for different uses, not having to do with healing but with learning. When one works with the cone, or, shall we say, the silo type of shape, the energy for healing may be found to be in a general circular pattern unique to each shape as a function of its particular height and width, and in the cone shape, the angle of apex. In these cases, there are no corner angles. Thus the spiraling energy works in circular motion.
 
 56.5 Questioner: I will make a statement that you can correct. I intuitively see the spiraling energy of the Giza pyramid being spread out as it moves through the so-called King’s Chamber and then refocusing in the so-called Queen’s Chamber. I am guessing that the spread of energy in the so-called King’s Chamber is seen in the spectrum of colors, red through violet, and that the energy centers of the entity to be healed should be aligned with this spread of the spectrum so that the spectrum matches the various energy centers. Can you correct this statement?
 
-Ra: I am Ra. We can correct this statement.
+Ra:  We can correct this statement.
 
 56.6 Questioner: Would you please do that?
 
@@ -52,6 +52,6 @@ Ra: The spiraling energy is beginning to be diffused at the point where it goes 
 
 56.7 Questioner: Then I assume if I start my angle at the bottom of the Queen’s Chamber and make a 33 to 54° angle from that point, so that half of that angle falls on the side of the centerline the King’s Chamber is on, that will indicate the diffusion of the spectrum, starting from the point at the bottom of the Queen’s Chamber; let’s say, if we were using a 40° angle, we would have a 20° diffusion to the left of the centerline, passing through the King’s Chamber. Is that correct?
 
-Ra: I am Ra. This will be the last full question of this session. It is correct that half of the aforementioned angle passes through the King’s Chamber position. It is incorrect to assume that the Queen’s Chamber is the foundation of the angle. The angle will begin somewhere between the Queen’s Chamber position and thence downward towards the level of the resonating chamber, off-set for the healing work.
+Ra:  This will be the last full question of this session. It is correct that half of the aforementioned angle passes through the King’s Chamber position. It is incorrect to assume that the Queen’s Chamber is the foundation of the angle. The angle will begin somewhere between the Queen’s Chamber position and thence downward towards the level of the resonating chamber, off-set for the healing work.
 
 This variation is dependent upon various magnetic fluxes of the planet. The King’s Chamber position is designed to intersect the strongest spiral of the energy flow regardless of where the angle begins. However, as it passes through the Queen Chamber position, this spiraling energy is always centered and at its strongest point.

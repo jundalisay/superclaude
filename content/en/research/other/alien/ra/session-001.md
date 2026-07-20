@@ -9,7 +9,7 @@ date: 1981-01-15
 ---
 
 
-Ra: I am Ra. I have not spoken through this instrument before. We had to wait until she was precisely tuned, as we send a narrow-band vibration. 
+Ra:  I have not spoken through this instrument before. We had to wait until she was precisely tuned, as we send a narrow-band vibration. 
 
 The Confederation of Planets in the Service of the Infinite Creator has only one important statement: “All things, all of life, all of the creation is part of one original thought.”
 
@@ -145,7 +145,7 @@ Thus, to attempt to discern and weave your way through as many group mind/body/s
 
 1.11 Questioner: Will you be available for communication? Can we call on you in the future?
 
-Ra: I am Ra. We have good contact with this instrument because of her recent experiences with trance. 
+Ra:  We have good contact with this instrument because of her recent experiences with trance. 
 
 She is to be able to communicate our thoughts in your future. However, we advise care in disturbing the channel for a few moments, and then the proper procedure for aiding an instrument who has, to some extent, the need of re-entering the mind/body/spirit complex which the instrument has chosen for the life experience of this time/space. 
 

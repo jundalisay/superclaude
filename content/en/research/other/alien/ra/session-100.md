@@ -27,7 +27,7 @@ Some greeting has encouraged the dizziness felt by the instrument. However, its 
 
 100.4 Questioner:  Colonel Stevens would like to better understand the effect of the quarantine and first distortion. Would Ra comment on the purpose of the so-called Pleiades contact in Switzerland with Billy Meier— an entity known as Semjase and others.
 
-Ra: I am Ra. It is not our practice to judge the value of a contact of metaphysical origin. 
+Ra:  It is not our practice to judge the value of a contact of metaphysical origin. 
 
 We cannot confirm the contact referred to by the questioner as pure Confederation contact. 
 
@@ -38,7 +38,7 @@ All communication is of the One Infinite Creator in its infinite distortions.
 
 100.5 Questioner: Is it all right for Colonel Stevens to receive the information that Ra just gave to us?
 
-Ra: I am Ra. We find this information to be confirmation of already perceived ideas. Therefore, permission is freely given.
+Ra:  We find this information to be confirmation of already perceived ideas. Therefore, permission is freely given.
 
 100.6 Questioner: To continue with the tarot, I would like to make the additional observation with respect to Card Six that the male’s arms being crossed, if the female to his right pulls on his left hand it would cant, in effect turn him, his entire body, toward the right and the same is true for the female on the left: pulling on his right hand she will turn his entire body to her side. Which is my interpretation of what’s meant by the tangle of the arms. That the transformation occurs by pull which attempts to turn the entity toward the left or the right-hand path. Would Ra comment on that observation?
 
@@ -53,46 +53,46 @@ The triangular shape formed by the shoulders and crossed elbows of consciousness
 
 First, the veil between the conscious and the unconscious mind has been removed. The veil is the curtain, I would assume, at the top which is lifted. Even though this veil has been removed perception of intelligent infinity is still distorted according to the seeker’s beliefs and means of seeking. Would Ra comment on that?
 
-Ra: I am Ra. As one observes the veil of the image of the Great Way of Mind it may be helpful to ideate using the framework of environment. The Great Way of Mind, Body, or Spirit is intended to limn the milieu within which the work of mind, body, or spirit shall be placed.
+Ra:  As one observes the veil of the image of the Great Way of Mind it may be helpful to ideate using the framework of environment. The Great Way of Mind, Body, or Spirit is intended to limn the milieu within which the work of mind, body, or spirit shall be placed.
 
 Thusly, the veil is shown both somewhat lifted and still present, since the work of mind and its transformation involves progressive lifting of the great veil betwixt conscious and deep minds. The complete success of this attempt is not properly a portion of third-density work and, more especially, third-density mental processes.
 
 100.8 Questioner: The fact that the veil is raised higher on the right-hand side than on the left indicates to me that the adept choosing the positive polarity will have greater success in penetrating the veil. Would Ra comment?
 
-Ra: I am Ra. This is a true statement if it is realized that the questioner speaks of potential success. Indeed, your third-density experience is distorted or skewed so that the positive orientation has more aid than the so-called negative.
+Ra:  This is a true statement if it is realized that the questioner speaks of potential success. Indeed, your third-density experience is distorted or skewed so that the positive orientation has more aid than the so-called negative.
 
 100.9 Questioner: It would also seem to me that, since Ra stated in the last session the limit of the viewpoint is the source of all distortions, that the very nature of the service-to-self distortions that create the left-hand path are a function of the veil [and] therefore are dependent, you might say, to some degree, on at least a partial continued veiling. Does this make any sense?
 
-Ra: I am Ra. There is the thread of logic in what you suppose.
+Ra:  There is the thread of logic in what you suppose.
 
 The polarities are both dependent upon a limited viewpoint. However, the negative polarity depends more heavily upon the illusory separation betwixt the self and all other mind/body/spirit complexes. The positive polarity attempts to see through the illusion to the Creator in each mind/body/spirit complex, but for the greater part is concerned with behaviors and thoughts directed towards other-selves in order to be of service. This attitude in itself is full of the stuff of your third-density illusion.
 
 100.10 Questioner: The crown of three stars, we are guessing, indicates mastery and balancing of the mind, body, and spirit. Is this in any way correct?
 
-Ra: I am Ra. This device is astrological in origin and the interpretation given somewhat confusing. We deal, in this image, with the environment of mind. It is perhaps appropriate to release the starry crown from its stricture.
+Ra:  This device is astrological in origin and the interpretation given somewhat confusing. We deal, in this image, with the environment of mind. It is perhaps appropriate to release the starry crown from its stricture.
 
 100.11 Questioner: The entities— the small black— or russet— and white entities have been now changed so that they appear to be sphinxes which we are assuming mean that the catalyst has been mastered. I am also assuming that they act as the power that moves the chariot depicted here so as this mastery enables the mind in its transformation to become mobile unlike it was prior to this mastery, locked within the illusion. Would Ra comment on that?
 
-Ra: I am Ra. Firstly, we ask that the student consider the Great Way not as the culmination of a series of seven activities or functions but as a far more clearly delineated image of the environment within which the mind, body, or spirit shall function. Therefore, the culturally determined creatures called sphinxes do not indicate mastery over catalyst.
+Ra:  Firstly, we ask that the student consider the Great Way not as the culmination of a series of seven activities or functions but as a far more clearly delineated image of the environment within which the mind, body, or spirit shall function. Therefore, the culturally determined creatures called sphinxes do not indicate mastery over catalyst.
 
 The second supposition, that of placing the creatures as the movers of the chariot of mind, has far more virtue. You may connote the concept of time to the image of the sphinx. The mental and mental/emotional complex ripens and moves and is transformed in time.
 
 100.12 Questioner: There is the forty-five minute signal. Does Ra suggest a termination of this session, taking into consideration the instrument’s condition and all the other conditions that we have placed on this?
 
-Ra: I am Ra. Information pertinent to this query has been previously covered. The choice of termination time, as you call it, is solely that of the questioner until the point at which we perceive the instrument beginning to use its vital resources due to the absence of transferred or native physical energy. The instrument remains open, as always.
+Ra:  Information pertinent to this query has been previously covered. The choice of termination time, as you call it, is solely that of the questioner until the point at which we perceive the instrument beginning to use its vital resources due to the absence of transferred or native physical energy. The instrument remains open, as always.
 
 100.13 Questioner: In that case I will ask only one more question and that will be having to do with the sword and the scepter. It would seem that the sword would be the power of the negative adept indicating control over other-selves and the scepter would indicate the power of the positive adept with unity in mind, body, and spirit. However, they seem to be in opposite hands than I would have guessed. Would Ra comment on that?
 
-Ra: I am Ra. These symbols are astrological in origin. The shapes, therefore, may be released from their stricture.
+Ra:  These symbols are astrological in origin. The shapes, therefore, may be released from their stricture.
 
 We may note that there is an overriding spiritual environment and protection for the environment of the mind. We may further note that the negatively polarized adept will attempt to fashion that covenant for its own use whereas the positively polarized entity may hold forth that which is exemplified by the astrological sword; that is, light and truth.
 
 100.14 Questioner: Would there be two more appropriate objects or symbols to have the entity in Card Seven holding in its hands, other than the ones shown?
 
-Ra: I am Ra. We leave this consideration to you, O student, and shall comment upon any observation which you may make.
+Ra:  We leave this consideration to you, O student, and shall comment upon any observation which you may make.
 
 100.15 Questioner: I will save that for next session and I will ask if there is anything we can do to make the instrument more comfortable or improve the contact?
 
-Ra: I am Ra. All is well. The appurtenances are most conscientiously placed. We thank this diligent group. There is much greater distortion towards harmony at this asking and we join you in praise and thanksgiving. This is always the greatest boon to improvement of the contact, for it is the harmony of the group which supports this contact.
+Ra:  All is well. The appurtenances are most conscientiously placed. We thank this diligent group. There is much greater distortion towards harmony at this asking and we join you in praise and thanksgiving. This is always the greatest boon to improvement of the contact, for it is the harmony of the group which supports this contact.
 
 

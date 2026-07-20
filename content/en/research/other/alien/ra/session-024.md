@@ -13,7 +13,7 @@ February 15, 1981
 
 24.1 Questioner: The instrument has a slight congestion. If you can tell me of the suitability of this session at all, I would appreciate it.
 
-Ra: I am Ra. This instrument’s vital energies of the physical complex are low. The session will be appropriately shortened.
+Ra:  This instrument’s vital energies of the physical complex are low. The session will be appropriately shortened.
 
 24.2 Questioner: She requests that you cause the instrument to cough about at least after each communication. 
 
@@ -21,7 +21,7 @@ The way I intend to continue with the book is to follow on through the last 25,0
 
 In the last session you mentioned that during this last 25,000-year cycle the Atlanteans, Egyptians, and those in South America were contacted and then the Confederation departed. I understand the Confederation did not come back for some time. Could you tell me of the reasons, and consequences, and attitudes with respect to the next contact with those here on planet Earth?
 
-Ra: I am Ra. In the case of the Atlanteans, enlargements upon the information given resulted in those activities distorted towards bellicosity which resulted in the final second Atlantean catastrophe one zero eight two one [10,821] of your years in the past, as you measure time.
+Ra:  In the case of the Atlanteans, enlargements upon the information given resulted in those activities distorted towards bellicosity which resulted in the final second Atlantean catastrophe one zero eight two one [10,821] of your years in the past, as you measure time.
 
 Many, many were displaced due to societal actions both upon Atlantis and upon those areas of what you would call North African deserts to which some Atlanteans had gone after the first conflict. Earth changes continued due to these, what you would call, nuclear bombs and other crystal weapons, sinking the last great land masses approximately nine six zero zero [9,600] of your years ago.
 
@@ -35,7 +35,7 @@ Ra: [Cough.]
 
 24.6 Questioner: Thank you. Then I assume the Confederation stayed away from Earth for a period of time. What condition created the next contact the Confederation made?
 
-Ra: I am Ra. In approximately three six zero zero [3,600] of your years in the past, as you measure time, there was an influx of those of the Orion group, as you call them. Due to the increasing negative influences upon thinking and acting distortions, they were able to begin working with those whose impression from olden times, as you may say, was that they were special and different.
+Ra:  In approximately three six zero zero [3,600] of your years in the past, as you measure time, there was an influx of those of the Orion group, as you call them. Due to the increasing negative influences upon thinking and acting distortions, they were able to begin working with those whose impression from olden times, as you may say, was that they were special and different.
 
 An entity of the Confederation, many, many thousands of your years in the past, the one you may call “Yahweh,” had, by genetic cloning, set up these particular biases among these peoples who had come gradually to dwell in the vicinity of Egypt, as well as in many, many other places, by dispersion after the down-sinking of the land mass Mu. Here the Orion group found fertile soil in which to plant the seeds of negativity, these seeds, as always, being those of the elite, the different, those who manipulate or enslave others.
 
@@ -49,7 +49,7 @@ Ra: [Cough.]
 
 24.8 Questioner: Thank you. I have a question about how the Orion group got in 3,600 years ago. How did they get through the quarantine? Was that a random window effect?
 
-Ra: I am Ra. At that time this was not entirely so, as there was a proper calling for this information. When there is a mixed calling the window effect is much more put into motion by the ways of the densities.
+Ra:  At that time this was not entirely so, as there was a proper calling for this information. When there is a mixed calling the window effect is much more put into motion by the ways of the densities.
 
 The quarantine in this case was, shall we say, not patrolled so closely, due to the lack of strong polarity, the windows thus needing to be very weak in order for penetration. As your harvest approaches, those forces of what you would call light work according to their call. The ones of Orion have the working only according to their call. This calling is in actuality not nearly as great.
 
@@ -57,7 +57,7 @@ Thus, due to the way of empowering or squares there is much resistance to penetr
 
 24.9 Questioner: Then Yahweh, in an attempt to correct what he saw as what I might call a mistake (I know you don’t want to call it that), started 3,300 years ago with the positive philosophy. Were both the Orion and Yahweh philosophies impressed telepathically, or were there other techniques used?
 
-Ra: I am Ra. There were two other techniques used: one by the entity no longer called Yahweh, who still felt that if it could raise up entities which were superior to the negative forces, that these superior entities could spread the Law of One. Thus this entity, “Yod Heh Shin Vau Heh,” came among your people in form according to incarnate being and mated in the normal reproductive manner of your physical complexes, thus birthing a generation of much larger beings, these beings called “Anak.”
+Ra:  There were two other techniques used: one by the entity no longer called Yahweh, who still felt that if it could raise up entities which were superior to the negative forces, that these superior entities could spread the Law of One. Thus this entity, “Yod Heh Shin Vau Heh,” came among your people in form according to incarnate being and mated in the normal reproductive manner of your physical complexes, thus birthing a generation of much larger beings, these beings called “Anak.”
 
 The other method used to greater effect later in the scenario, as you would call it, was the thought-form such as we often use among your peoples to suggest the mysterious or the sublime. You may be familiar with some of these appearances.
 
@@ -67,7 +67,7 @@ Ra: [Cough.] I am Ra. This is information which you may discover. However, we wi
 
 24.11 Questioner: Very good. Did the Orion group use similar methods for their impression 3,600 years ago?
 
-Ra: I am Ra. The group or empire had an emissary in your skies at that time.
+Ra:  The group or empire had an emissary in your skies at that time.
 
 24.12 Questioner: Can you describe that emissary?
 
@@ -75,11 +75,11 @@ Ra: This emissary was of your fiery nature which was hidden by the nature of clo
 
 24.13 Questioner: And then how was the impression or information passed on to the entities after they saw this fiery cloud?
 
-Ra: I am Ra. By thought transfer and by the causing of fiery phenomena and other events to appear as being miraculous through the use of thought-forms.
+Ra:  By thought transfer and by the causing of fiery phenomena and other events to appear as being miraculous through the use of thought-forms.
 
 24.14 Questioner: Then were there any prophets that we have now recorded that sprung from this era or soon after it?
 
-Ra: I am Ra. Those of the empire were not successful in maintaining their presence for long after the approximate three zero zero zero [3,000] date in your history and were, perforce, left with the decision to physically leave the skies. The so-called prophets were often given mixed information, but the worst that the Orion group could do was to cause these prophets to speak of doom, as prophecy in those days was the occupation of those who love their fellow beings and wish only to be of service to them and to the Creator.
+Ra:  Those of the empire were not successful in maintaining their presence for long after the approximate three zero zero zero [3,000] date in your history and were, perforce, left with the decision to physically leave the skies. The so-called prophets were often given mixed information, but the worst that the Orion group could do was to cause these prophets to speak of doom, as prophecy in those days was the occupation of those who love their fellow beings and wish only to be of service to them and to the Creator.
 
 24.15 Questioner: After making the instrument cough…
 
@@ -87,11 +87,11 @@ Ra: [Cough.]
 
 24.16 Questioner: …could you tell me if you’re saying the Orion group was successful in polluting, shall we say, some of the positively oriented prophets with messages of doom?
 
-Ra: I am Ra. This is correct. Your next query shall be the last full query for this session.
+Ra:  This is correct. Your next query shall be the last full query for this session.
 
 24.17 Questioner: Could you tell me why the Orion group had to leave after, I believe, it figures to be a six-hundred-year period, why they had to vacate?
 
-Ra: I am Ra. Although the impression that they had given to those who called them [was] that these entities were an elite group, that which you know as “Diaspora” occurred, causing much dispersion of these peoples so that they became an humbler and more honorable breed, less bellicose and more aware of the loving-kindness of the One Creator.
+Ra:  Although the impression that they had given to those who called them [was] that these entities were an elite group, that which you know as “Diaspora” occurred, causing much dispersion of these peoples so that they became an humbler and more honorable breed, less bellicose and more aware of the loving-kindness of the One Creator.
 
 The creation about them tended towards being somewhat bellicose, somewhat oriented towards the enslavement of others, but they themselves, the target of the Orion group by means of their genetic superiority/weakness, became what you may call the underdogs, thereby letting the feelings of gratitude for their neighbors, their family, and their One Creator begin to heal the feelings of elitism which led to the distortions of power over others which had caused their own bellicosity.
 
@@ -103,13 +103,13 @@ Ra: [Cough.]
 
 24.19 Questioner: …It’s not too important, but I would really be interested to know if Dwight Eisenhower met with either the Confederation or the Orion group during the 1950s or that time?
 
-Ra: I am Ra. The one of which you speak met with thought-forms which are indistinguishable from third density. This was a test. We, the Confederation, wished to see what would occur if this extremely positively oriented and simple congenial person with no significant distortions towards power happened across peaceful information and the possibilities which might append therefrom. We discovered that this entity did not feel that those under his care could deal with the concepts of other beings and other philosophies. Thus an agreement reached then allowed him to go his way, ourselves to do likewise; and a very quiet campaign, as we have heard you call it, be continued alerting your peoples to our presence gradually. Events have overtaken this plan.
+Ra:  The one of which you speak met with thought-forms which are indistinguishable from third density. This was a test. We, the Confederation, wished to see what would occur if this extremely positively oriented and simple congenial person with no significant distortions towards power happened across peaceful information and the possibilities which might append therefrom. We discovered that this entity did not feel that those under his care could deal with the concepts of other beings and other philosophies. Thus an agreement reached then allowed him to go his way, ourselves to do likewise; and a very quiet campaign, as we have heard you call it, be continued alerting your peoples to our presence gradually. Events have overtaken this plan.
 
 [Cough.] Is there any short query before we close?
 
 24.20 Questioner: The only other question that went with that is: was there a crashed spaceship and are there small bodies now stored in our military installations?
 
-Ra: I am Ra. We do not wish to infringe upon your future. Gave we you this information, we might be giving you more than you could appropriately deal with in the space/time nexus of your present somewhat muddled configuration of military and intelligence thought. Therefore, we shall withhold this information.
+Ra:  We do not wish to infringe upon your future. Gave we you this information, we might be giving you more than you could appropriately deal with in the space/time nexus of your present somewhat muddled configuration of military and intelligence thought. Therefore, we shall withhold this information.
 
 24.21 Questioner: OK. Sorry to bother you with these type of questions…
 
