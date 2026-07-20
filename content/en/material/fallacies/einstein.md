@@ -77,6 +77,10 @@ It's better to have done nothing for 100 years rather than work so hard and wast
 > It’s better to have done nothing for 100 years rather than work so hard to achieve the same nothing.
 
 
+{{< i s="/graphics/physics/tesla.jpg" a="Tesla hates Einstein" >}}
+
+
+
 ## Kant (and Mathematics) is to Blame
 
 But the fallacy of Einstein is really just a follower of Kant, who is the real factory of fallacy. 

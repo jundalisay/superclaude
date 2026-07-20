@@ -11,7 +11,7 @@ toc: false
 ---
 
 
-### The Origin of Laws
+## The Origin of Laws: Feelings
 
 According to David Hume, a society is bound together by laws from a justice system. These laws were originally created to make people useful to each other and to maintain peace and order. 
 
@@ -19,20 +19,27 @@ Initially, these were dictated arbitrarily by a chieftain or king. In time, as t
 
 While the creation of laws have been studied in depth by Romans, Chinese, and Europeans, it is surprising that few have ventured into the spirit or feelings that led to the creation of those laws. 
 
+
 For example, toddlers have been riding in cars for many decades since cars were invented. 
 
-However, the law to mandate car seats for children have been implemented only recently in some countries. This is because in the past, people only had kids and not many had cars. But because of globalization and development, more people can have both kids and cars. This then leads to the new feeling of wanting safety for kids in cars. 
+However, the law to mandate car seats for children have been implemented only recently in some countries. 
+- This is because in the past, people only had kids and not many had cars.
+- But because of globalization and development, more people can have both kids and cars.
+
+This then leads to the new **feeling** of wanting safety for kids in cars. 
 
 However, this feeling for their safety might not be in line with other things in society. 
 
-For example, there might be a huge inequality which would make such a law unfair to poor families who have many kids or only one small car. Thus, upon a bigger view of society, such a law would be unfair. 
+For example, there might be a huge inequality which would make such a law unfair to poor families who have many kids or only one small car. 
+
+Thus, upon a bigger view of society, such a law would be unfair. 
 
 This would lead to disputes and even cause the law to be overturned, creating a headache for those who implemented it. 
 
 The problem is that only a few people are consulted when making such laws. This usually done by interviews on a sample population since it would be too costly to look for all car owners with kids and then interview them. This makes the law only good for a small sample and not for all. 
 
 
-### Constitutional Virtues
+## Constitutional Virtues
 
 To solve this, we propose a set of 'Constitutional Virtues' that are decided on by the people. 
 
@@ -40,6 +47,7 @@ To solve this, we propose a set of 'Constitutional Virtues' that are decided on 
 Those virtues make their abode in the minds of men who are dear to the gods, and are their best guardians and sentinels. 
 {{< /q >}}
 
+A virtue is a positive feeling with reference to the Supreme Entity since the Positive Force automatically has reference the Supreme, just as the Negative has a reference to the Self (i.e. not the Supreme since you are mortal and imperfect). 
 
 While the Constitution is the **letter** of the law that is the foundation of the state, the Consitutional virtues are the **spirit or morals** of the law. These guide:
 - the lawmakers who make laws and
@@ -106,7 +114,7 @@ The virtues can be voted on by the people every 5 or 6 years, or whenever they e
 
 Democracies can use any popular app to verify that the chosen virtues are more of less approved by the public. 
 
-{{< youtube J6F2_PF2wbo >}}
+{{< youtube S8zuLDt8xLA >}}
 
 
 A country can have as many as 20, and as few as 3. An example is the French version which are:
@@ -138,7 +146,7 @@ The more virtues, the less impact each one has. So a nation should balance quant
 8. Environmentalism
 
 
-### Unifying the Human Species: Constitutional Virtues and World Government
+### Unifying the Human Species: Constitutional Virtues and Earth Government
 
 By combining the French and Philippine virtues, the common ones are revealed:
 
@@ -149,11 +157,13 @@ These then are common points that the two countries or people can base their rel
 
 In time, all nations would adjust their virtues in order to adopt virtues that are common to all. At such a point, we can declare the human species as unified.    
 
-Once the constitutional virtues of various countries are harmonized and put on the same page, then they can make an actual constitution for their harmonized network of countries. This forms a world government.  
+Once the constitutional virtues of various countries are harmonized and put on the same page, then they can make an actual constitution for their harmonized network of countries. 
+
+This forms an Earth government. This is to contrast it with a Mars government for example. 
 
 This is different from the current United Nations which is merely a council that votes on issues without any moral glue or defined common interest. This is why it is very ineffective in implementing its policies. It was designed to prevent wars, yet there have been so many wars since the UN was created. 
 
-A world government, on the other hand, is a union based on fellow-feelings and morals. Its members can better implement its policies because there is a common interest to do so. This is not built overnight, but through many generations through regular communication and exchange.
+An Earth government, on the other hand, is a union based on fellow-feelings and morals. Its members can better implement its policies because there is a common interest to do so. This is not built overnight, but through many generations through regular communication and exchange.
 
 <!-- War is prevented by the world government actually intervening way before the trouble escalates. For example, in the case of      -->
 
@@ -165,16 +175,18 @@ We can apply constitutional virtues to create harmony between Iran and the US by
 
 Iran Virtues | US Virtues
 --- | --- | ---
-Faith | Life
+Monotheism | Life
 **Independence** | **Liberty**
 Justice | Happiness
 
 
 As you can see, independence and liberty are the 2 common virtues or beliefs or ideals of Iran and the US.
 
-Howver, there is a big difference in their beliefs of faith-justice, versus life-happiness. 
+Howver, there is a big difference in their beliefs of monotheism + life (since Islamic monotheism punishes), versus justice + happiness (since American happiness requires injustice as the 1% against the 99%)
 
-This can be fixed by converting:
-- Iranian faith and American life into spirtuality and spiritual life
-- Iranian justice and American happiness into general fairness and collective happiness (as opposed to personal happiness)
+This can be fixed by:
+- using American life to emphasize the humanistic features of Islam and check the barbaric ones
+- Using Iranian justice to check American happiness and social inequality
+
+<!-- into general fairness and collective happiness (as opposed to personal happiness) -->
 

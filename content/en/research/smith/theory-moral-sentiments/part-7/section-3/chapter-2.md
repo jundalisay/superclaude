@@ -35,13 +35,22 @@ The very ideas of laudable and blamable should be the same with those of obedien
 - just and unjust
 - right and wrong.
 
-{{< s v="9" >}} Hobbes' goal was to subject the consciences of men immediately to the civil, and not to the ecclesiastical powers. The ecclesiastical powers' turbulence and ambition taught him to regard them as the principal source of society's disorders, by the example of his own times. His doctrine offended Theologians and also all sound moralists. It supposed= 
-- that there was no natural distinction between right and wrong, and
-- that these distinctions= 
+{{< s v="9" >}} Hobbes' goal was to subject the consciences of men immediately to the civil, and not to the ecclesiastical powers. 
+
+He viewed the ecclesiastical powers' turbulence and ambition as the principal source of society's disorders. 
+
+His doctrine offended:
+- Theologians and
+- all sound moralists
+
+It supposed that:
+- there was no natural distinction between right and wrong, and
+- these distinctions:
   - were mutable and changeable, and
   - depended on the civil magistrate's mere arbitrary will.
 
-Therefore, his account of things was attacked from all quarters.
+This is why his account of things was attacked from all quarters.
+
 
 {{< s v="10" >}} To confute so odious a doctrine, it was necessary to prove that the mind was naturally endowed with a faculty which it used to distinguish right and wrong, antecedent to human laws.
 
@@ -71,34 +80,76 @@ When Mr. Hobbes started this controversy, reason was thought the only source for
 - those general rules of justice which should regulate our actions, and
 - those vague ideas of what is prudent, decent, generous or noble.
 
-We carry these ideas constantly with us and try to model our conduct according to them, as well as we can. Like all other general maxims, the general maxims of morality are formed from experience and induction. We observe in many cases what pleases or displeases our moral faculties. By induction from this experience, we establish those general rules. But induction is always regarded as one of the operations of reason. Therefore, we derive all those general maxims and ideas from reason.
+We:
+- carry these ideas constantly with us and
+- try to model our conduct according to them, as well as we can.
+
+Like all other general maxims, the general maxims of morality are formed from experience and induction. 
+
+We observe in many cases what pleases or displeases our moral faculties. By induction from this experience, we establish those general rules. 
+
+But induction is always regarded as one of the operations of reason. 
+
+Therefore, we derive all those general maxims and ideas from reason.
+
 <!-- - these approve or disapprove of. -->
 <!-- These ideas regulate most of our moral judgments. -->
-Our judgments would be extremely uncertain if they all depended on immediate feelings which are liable to so many variations. Therefore, our most solid judgments with regard to right and wrong are regulated by ideas derived from an induction of reason. Virtue may very properly be said to be a conformity to reason.
+
+Our judgments would be extremely uncertain if they all depended on immediate feelings which are liable to so many variations. 
+
+Therefore, our most solid judgments with regard to right and wrong are regulated by ideas derived from an induction of reason. 
+
+Virtue may very properly be said to be a conformity to reason.
 <!-- They are capable of being altered by the different states of health and humour.  -->
 <!-- Reason may be considered as the source and principle of approbation and disapprobation. -->
+
+
+## Morality is Not Based on Reason
+
+{{< n n="Here, Smith builds on Hume and Hutcheson" >}}
+
 
 {{< s v="14" >}}  Reason is the source of: 
 - the general rules of morality and
 - all the moral judgments which we form by means of them
 
-But it is absurd to suppose that the initial perceptions of right and wrong can be derived from reason. Reason cannot be the basis for= 
+**But it is absurd to suppose that the initial perceptions of right and wrong can be derived from reason.** 
+
+Reason cannot be the basis for: 
 <!-- , even from experiences on which the general rules are formed. -->
 - these first perceptions, nor
 - all other trials which lead to general rules
 
-These first perceptions are based on the immediate sense and feeling. We form the general rules of morality by finding in many instances that= 
+These first perceptions are based on the immediate sense and feeling. 
+
+We form the general rules of morality by finding in many instances that:
 - one tenor of conduct constantly pleases in a certain way,
 - another tenor of conduct constantly displeases.
 
-But reason cannot render any object agreeable or disagreeable to the mind for its own sake. Reason might show that this object is the means of obtaining some other object which is pleasing or displeasing. In this way, reason can render it agreeable or disagreeable for the sake of something else. But feeling is still the thing that renders an object as agreeable or disagreeable, not reason. Thus, it is still the immediate sense and feeling which reconciles us to virtue and alienates us from vice.
+But reason cannot render any object agreeable or disagreeable to the mind for its own sake. 
+
+Reason might show that this object is the means of obtaining some other object which is pleasing or displeasing. 
+
+In this way, reason can render it agreeable or disagreeable for the sake of something else. 
+
+**But feeling is still the thing that renders an object as agreeable or disagreeable, not reason.** 
+
+Thus, it is still the immediate sense and feeling which reconciles us to virtue and alienates us from vice.
 <!-- If virtue pleases and vice displeases for their own sakes, it is  -->
 
 
-{{< s v="15" >}}  Pleasure and pain are the great objects of desire and aversion. But these are distinguished by feeling and not by reason. Therefore, if virtue is desirable and vice detestable for their own sakes, then it is our immediate sense and feeling, not our reason, which originally distinguishes those qualities.
+{{< s v="15" >}}  Pleasure and pain are the great objects of desire and aversion. 
+
+But these are distinguished by feeling and not by reason. 
+
+**Therefore, if virtue is desirable and vice detestable for their own sakes, then it is our immediate sense and feeling, not our reason, which originally distinguishes those qualities.**
 
 
-{{< s v="16" >}} In a certain sense, reason may justly be the principle of approbation and disapprobation. Through inattention, however, these sentiments were long regarded as originally flowing from reason. Dr. Hutcheson was the first to precisely distinguish how all moral distinctions= 
+{{< s v="16" >}} In a certain sense, reason may justly be the principle of approbation and disapprobation. 
+
+Through inattention, however, these sentiments were long regarded as originally flowing from reason. 
+
+Dr. Hutcheson was the first to precisely distinguish how all moral distinctions:
 - may arise from reason, and
 - are founded on immediate sense and feeling.
 
@@ -109,3 +160,4 @@ Any controversy in this can only be imputed to:
 - a superstitious attachment to certain forms of expression.
 
 This is a weakness very common among the learned, especially in moral philosophy. A man of virtue hates to abandon even a single phrase in moral philosophy that he has been used to.
+

@@ -17,17 +17,25 @@ January 27, 1981
 
 Ra:  Such information as this is carefully guarded by your mind/body/spirit being totality so that your present space/time experiences will be undiluted.
 
-Let us scan for harmless material for your beingness. [20-second pause.] I am, in the distortion of desire for your freedom from preconception, able to speak only generally. 
+Let us scan for harmless material for your beingness. [20-second pause.]
 
-There have been several times when this group worked and dwelt together. The relationships varied. There is balanced karma, as you call it; each thus the teacher of each. The work has involved healing, understanding the uses of the earth energy, and work in aid of civilizations which called just as your sphere has done and we have come. This ends the material which we consider harmless.
+There have been several times when this group worked and dwelt together. The relationships varied. 
 
-9.3 Questioner: The healing exercises that you gave to us are [of] such a nature that it is best to concentrate on [a] particular exercise at a time. I would like to ask at this time what exercise I should concentrate on… possibly a little exercise change… should concentrate on [inaudible], say tonight?
+There is balanced karma. Each thus the teacher of each. The work has involved healing, understanding the uses of the earth energy, and work in aid of civilizations which called just as your sphere has done and we have come. 
 
-Ra: To direct your judgment is an intrusion upon your space/time continuum distortion called future. To speak of past or present within our distortion/judgment limits is acceptable. To guide rather than teach/learn is not acceptable to our distortion in regards to teach/learning. We, instead, can suggest a process whereby each chooses the first of the exercises given in the order in which we gave them, which you, in your discernment, feel is not fully appreciated by your mind/body/spirit complex.
+
+9.3 Questioner: The healing exercises that you gave to us are of such a nature that it is best to concentrate on [a] particular exercise at a time. I would like to ask at this time what exercise I should concentrate on… possibly a little exercise change… should concentrate on [inaudible], say tonight?
+
+Ra: To direct your judgment is an intrusion on your future.
+
+To speak of past or present within our distortion/judgment limits is acceptable. 
+
+To guide rather than teach/learn is not acceptable to our distortion in regards to teach/learning. We, instead, can suggest a process whereby each chooses the first of the exercises given in the order in which we gave them, which you, in your discernment, feel is not fully appreciated by your mind/body/spirit complex.
 
 This is the proper choice, building from the foundation, making sure the ground is good for the building. We have assessed for you the intensity of this effort in terms of energy expended. You will take this in mind and be patient for we have not given a short or easy program of consciousness learn/teaching.
 
-9.4 Questioner: The way I understand the process of evolution [of a] planetary population is that [a] population has a certain amount of time to progress. 
+
+9.4 Questioner: The evolution of a planetary population is that [a] population has a certain amount of time to progress. 
 
 This is generally divided into three 25,000-year cycles. At the end of 75,000 years the planet progresses itself. What caused this situation to come about… preciseness of the years, 25,000 years, etc.? What set this up to begin with?
 
@@ -48,11 +56,13 @@ Ra:  The first entities upon this planet were water, fire, air and earth.
 
 9.6 Questioner: Where did the first people on Earth come from? How did they evolve?
 
-Ra: You speak of third-density experience. 
+
+Ra: You speak of 3rd-density experience. 
 
 1. The first of those to come here were brought from Mars.
 
-Its environment became inhospitable to third-density beings. The first entities, therefore, were of this race manipulated somewhat by those who were guardians at that time.
+Its environment became inhospitable to 3rd-density beings. The first entities, therefore, were of this race manipulated by the guardians at that time.
+
 
 9.7 Questioner: What race is that, and how did they get from Mars to here?
 
