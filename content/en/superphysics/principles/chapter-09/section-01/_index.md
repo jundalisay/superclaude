@@ -1,9 +1,0 @@
----
-heading: "Section 1"
-title: "Feelings and Emotions"
-date: 2020-01-02
-weight: 2
-image: /photos/psych/facepalm.jpg
-description: ""
----
-

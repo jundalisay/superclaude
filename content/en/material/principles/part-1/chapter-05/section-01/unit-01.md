@@ -48,7 +48,7 @@ solid bodies | spacetime
 
 {{< i s="/graphics/physics/monad.jpg" a="Monad" >}}
 
-
+/home/jun/Downloads/monads.jpg
 
 ### The 3 Gunas 
 

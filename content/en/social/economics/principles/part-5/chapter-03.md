@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Economic Systems for Other Planets"
 # date: 2019-10-17
 date: 2015-04-12
-weight: 20
+weight: 7
 image: /photos/physics/mars.jpg
 description: "Supereconomics can be used to create economic systems for Mars and other planets"
 writer:

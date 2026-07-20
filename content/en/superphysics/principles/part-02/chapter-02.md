@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: "Existence-Consciousness"
 date: 2020-01-02
 weight: 4
-image: /graphics/physics/exist.jpg
+image: /photos/meta/god.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"
 writer:
@@ -151,4 +151,6 @@ Whenever we say “existence”, we automatically infer a consciousness behind t
 <!-- Similarly, space and time were seen as separate because our location is more obvious and common to us than time (i.e we usually wear watches to remind us of the time instead of carrying maps or GPS devices to remind us where we are). 
 
 This was until experiments showed that space and time were one entity. -->
+
+
 
