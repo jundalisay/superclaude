@@ -1,147 +1,196 @@
 ---
 heading: Session 11
-title: "Maldek"
-description: ""
+title: "Genghis Khan and The Orion Group"
+description: "Genghis Khan is now a shipping clerk in the Orion system"
 c: "indigo"
 a: Ra
+weight: 26
 date: 1981-01-24
-tags: ['Maldek', '']
+tags: ['Genghis Khan', '']
 ---
 
 
 January 28, 1981
 
 
-11.1 Questioner: Should we include the ritual that you have suggested that we use to call you in the book that will result from these sessions?
 
-Ra:  This matter is of small importance for our suggestion was made for the purpose of establishing contact through this instrument with this group.
 
-11.2 Questioner: Is it of any assistance to the instrument to have [name] and [name] present during these sessions? Does the number in the group make any difference in these sessions?
+{{< r a="Don Elkins" >}}Is it of any assistance to Carla to have [name] and [name] present during these sessions? Does the number in the group make any difference in these sessions?{{< /r >}}
 
-Ra:  The most important of the entities are the questioner and the vibratory sound complex, Jim. The two entities additional aid the instrument’s comfort by energizing the instrument with their abilities to share the physical energy complex which is a portion of your love vibration.
+{{< l a="Ra" >}}The most important of the entities are the questioner and Jim.
 
-11.3 Questioner: You said yesterday that Maldek was destroyed due to warfare. If Maldek hadn’t destroyed itself due to warfare would it have become a planet that evolved with self-service and would the entities have increased in density, gone on to say the fourth, fifth density in the negative sense or the sense of self-service?
+The two entities additional aid the instrument’s comfort by energizing the instrument with their abilities to share the physical energy complex which is a portion of your love vibration.{{< /l >}}
 
-Ra:  The planetary social memory complex, Maldek, had in common with your own sphere the situation of a mixture of energy direction. Thus it, though unknown, would most probably have been a mixed harvest — a few moving to fourth density, a few moving towards fourth density in service to self, the great majority repeating third density. This is approximate due to the fact that parallel possibility/probability vortices cease when action occurs and new probability/possibility vortices are begun.
+{{< r a="Don Elkins" >}}You said that Maldek was destroyed due to warfare. If Maldek hadn’t destroyed itself due to warfare would it have become a planet that evolved with self-service and would the entities have increased in density, gone on to say the fourth, fifth density in the negative sense or the sense of self-service?{{< /r >}}
 
-11.4 Questioner: Is there a planet behind our sun, opposite to us in orbit, that we do not know about?
+{{< l a="Ra" >}}Maldek had in common with Earth the mixture of energy direction.
 
-Ra:  There is a sphere in the area opposite your sun of a very, very cold nature, but large enough to skew certain statistical figures. This sphere should not properly be called a planet as it is locked in first density.
+It would most probably have been a mixed harvest — a few moving to fourth density, a few moving towards fourth density in service to self, the great majority repeating third density.
 
-11.5 Questioner: You said that entities from Maldek might go to— some may go to fourth-density negative. Are there people who go out of our present third density to places in the universe and serve, which are fourth-density self-service or negative type of planets?
+This is approximate due to the fact that parallel possibility/probability vortices cease when action occurs and new probability/possibility vortices are begun.{{< /l >}}
 
-11.6 Questioner: As our cycle ends and graduation occurs, is it possible for anyone to go from this third density to a fourth-density planet that is a self-service type or negative type?
+{{< r a="Don Elkins" >}}Is there a planet behind our sun, opposite to us in orbit, that we do not know about?{{< /r >}}
 
-Ra:  We grasp now the specificity of your query. In this harvest the probability/possibility vortex indicates an harvest, though small, of this type. That is correct.
+{{< l a="Ra" >}}There is a planet in the area opposite your sun of a very, very cold nature, but large enough to skew certain statistical figures.
 
-11.7 Questioner: Can you tell us what happened to Adolf [Hitler]?
+It is not a planet as it is locked in first density.{{< /l >}}
 
-Ra:  The mind/body/spirit complex known [as] Adolf is at this time in an healing process in the middle astral planes of your spherical force field. This entity was greatly confused and, although aware of the circumstance of change in vibratory level associated with the cessation of the chemical body complex, nevertheless, needed a great deal of care.
+{{< r a="Don Elkins" >}}You said that entities from Maldek might go to— some may go to fourth-density negative. Are there people who go out of our present third density to places in the universe and serve, which are fourth-density self-service or negative type of planets? As our cycle ends and graduation occurs, is it possible for anyone to go from this third to a fourth-density planet that is a self-service type or negative type?{{< /r >}}
 
-11.8 Questioner: Is there anyone in our history that is commonly known who went to a fourth-density self-service or negative type planet or who will go there?
+{{< l a="Ra" >}}Yes. In this harvest the probability/possibility vortex indicates a harvest, though small, of this type.{{< /l >}}
 
-Ra:  The number of entities thus harvested is small. However, a few have penetrated the eighth level which is only available from the opening up of the seventh through the sixth. Penetration into the eighth or intelligent infinity level allows a mind/body/spirit complex to be harvested if it wishes at any time/space during the cycle.
+{{< r a="Don Elkins" >}}What happened to Hitler?{{< /r >}}
 
-11.9 Questioner: Are any of these people known in the history of our planet by name?
+{{< l a="Ra" >}}He is at this time in a healing process in the middle astral planes of your spherical force field.
 
-Ra:  We will mention a few. The one known as Taras Bulba, the one known as Genghis Khan, the one known as Rasputin.
+He was greatly confused and, although aware of the circumstance of change in vibratory level associated with the cessation of the chemical body complex, nevertheless, needed a great deal of care.{{< /l >}}
 
-11.10 Questioner: How did they accomplish this? What was necessary for them to accomplish this?
+{{< r a="Don Elkins" >}}Is there anyone in our history that is commonly known who went to a fourth-density self-service or negative type planet or who will go there?{{< /r >}}
 
-Ra: All of the aforementioned entities were aware, through memory, of Atlantean understandings having to do with the use of the various centers of mind/body/spirit complex energy influx in attaining the gateway to intelligent infinity.
+{{< l a="Ra" >}}The number of entities thus harvested is small.
 
-11.11 Questioner: Did this enable them to do what we refer to as magic? Do paranormal things while they were incarnate here?
+However, a few have penetrated the eighth level which is only available from the opening up of the seventh through the sixth.
 
-Ra:  This is correct. The first two entities mentioned made little use of these abilities consciously. However, they were bent single-mindedly upon service to self, sparing no efforts in personal discipline to double, re-double and so empower this gateway. The third was a conscious adept and also spared no effort in the pursuit of service to self.
+Penetration into the eighth or intelligent infinity level allows a mind/body/spirit complex to be harvested if it wishes at any time/space during the cycle.{{< /l >}}
 
-11.12 Questioner: Where are these three entities now?
+{{< r a="Don Elkins" >}}Are any of these people known in the history of our planet by name?{{< /r >}}
 
-Ra:  These entities are in the dimension known to you as fourth. Therefore the space/time continua are not compatible. An approximation of the space/time locus of each would net no actual understanding. Each chose a fourth-density planet which was dedicated to the pursuit of the understanding of the Law of One through service to self, one in what you know as the Orion group, one in what you know as Cassiopeia, one in what you know as Southern Cross; however, these loci are not satisfactory. We do not have vocabulary for the geometric calculations necessary for transfer of this understanding to you.
+{{< l a="Ra" >}}We will mention a few:
+- Taras Bulba
+- Genghis Khan
+- Rasputin{{< /l >}}
 
-11.13 Questioner: Who went to the Orion group?
+{{< r a="Don Elkins" >}}How did they accomplish this?{{< /r >}}
 
-Ra:  The one known as Genghis Khan.
+{{< l a="Ra" >}}They were aware, through memory, of Atlantean understandings having to do with the use of the various centers of mind/body/spirit complex energy influx in attaining the gateway to intelligent infinity.{{< /l >}}
 
-11.14 Questioner: What does he presently do there? What is his job or occupation? What does he do?
+{{< r a="Don Elkins" >}}Did this enable them to do magic? Do paranormal things while they were incarnate here?{{< /r >}}
 
-Ra:  This entity serves the Creator in its own way.
+{{< l a="Ra" >}}Yes.
 
-11.15 Questioner: Is it impossible for you to tell us precisely how he does this service?
+Taras Bulba and Genghis Khan made little use of magic consciously.
 
-Ra:  It is possible for us to speak to this query. However, we use any chance we may have to reiterate the basic understanding/learning that all beings serve the Creator.
+However, they were bent single-mindedly on service to self, sparing no efforts in personal discipline to double, re-double and so empower this gateway.
 
-The one you speak of as Genghis Khan, at present, is incarnate in a physical light body which has the work of disseminating material of thought control to those who are what you may call crusaders. He is, as you would term this entity, a shipping clerk.
+Rasputin was a conscious adept and also spared no effort in the pursuit of service to self.{{< /l >}}
 
-11.16 Questioner: What do the crusaders do?
+{{< r a="Don Elkins" >}}Where are they now?{{< /r >}}
 
-Ra:  The crusaders move in their chariots to conquer planetary mind/body/spirit social complexes before they reach the stage of achieving social memory.
+{{< l a="Ra" >}}They are in the fourth dimension.
 
-11.17 Questioner: At what stage does a planet achieve social memory?
+Therefore the space/time continua are not compatible.
 
-Ra:  A mind/body/spirit social complex becomes a social memory complex when its entire group of entities are of one orientation or seeking. The group memory lost to the individuals in the roots of the tree of mind then become[s] known to the social complex, thus creating a social memory complex. The advantages of this complex are the relative lack of distortion in understanding the social beingness and the relative lack of distortion in pursuing the direction of seeking, for all understanding/distortions are available to the entities of the society.
+An approximation of the space/time locus of each would net no actual understanding.
 
-11.18 Questioner: Then we have crusaders from Orion coming to this planet for mind control purposes. How do they do this?
+Each chose a fourth-density planet which was dedicated to the pursuit of the understanding of the Law of One through service to self:
+- Genghis Khan is in the Orion group
+- One is in Cassiopeia
+- One is in the Southern Cross
 
-Ra: As all, they follow the Law of One observing free will. Contact is made with those who call. Those then upon the planetary sphere act much as do you to disseminate the attitudes and philosophy of their particular understanding of the Law of One which is service to self. These become the elite. Through these, the attempt begins to create a condition whereby the remainder of the planetary entities are enslaved by their own free will.
+However, these loci are not satisfactory. We do not have vocabulary for the geometric calculations necessary for transfer of this understanding to you.{{< /l >}}
 
-11.19 Questioner: Can you name any of the recipients of the crusaders’— that is, any names that may be known on the planet today?
+{{< r a="Don Elkins" >}}What does Genghis Khan presently do there?{{< /r >}}
 
-Ra:  I am desirous of being in nonviolation of the free will distortion. To name those involved in the future of your space/time is to infringe; thus, we withhold this information. We request your contemplation of the fruits of the actions of those entities whom you may observe enjoying the distortion towards power. In this way you may discern for yourself this information. We shall not interfere with the, shall we say, planetary game. It is not central to the harvest.
+{{< l a="Ra" >}}He serves the Creator in its own way.
 
-11.20 Questioner: How do the crusaders pass on their concepts to the incarnate individuals on Earth?
+We use any chance we may have to reiterate the basic understanding/learning that all beings serve the Creator.
 
-Ra:  There are two main ways, just as there are two main ways of, shall we say, polarizing towards service to others. There are those mind/body/spirit complexes upon your plane who do exercises and perform disciplines in order to seek contact with sources of information and power leading to the opening of the gate to intelligent infinity. There are others whose vibratory complex is such that this gateway is opened and contact with total service to self with its primal distortion of manipulation of others is then afforded with little or no difficulty, no training, and no control.
+Genghis Khan, at present, is incarnate in a physical light body which has the work of disseminating material of thought control to crusaders.
 
-11.21 Questioner: What type of information is passed on from the crusaders to these people?
+He is, as you would term this entity, a shipping clerk.{{< /l >}}
 
-Ra:  The Orion group passes on information concerning the Law of One with the orientation of service to self. The information can become technical just as some in the Confederation, in attempts to aid this planet in service to others, have provided what you would call technical information. The technology provided by this group is in the form of various means of control or manipulation of others to serve the self.
+{{< r a="Don Elkins" >}}What do the crusaders do?{{< /r >}}
 
-11.22 Questioner: Do you mean then that some scientists receive technical information, shall we say, telepathically that comes out then as usable gadgetry?
+{{< l a="Ra" >}}The crusaders move in their chariots to conquer planetary mind/body/spirit social complexes before they reach the stage of achieving social memory.{{< /l >}}
 
-Ra:  That is correct. However, very positively, as you would call this distortion, oriented so-called scientists have received information intended to unlock peaceful means of progress which redounded unto the last echoes of potential destruction due to further reception of other scientists of a negative orientation/distortion.
+{{< r a="Don Elkins" >}}At what stage does a planet achieve social memory?{{< /r >}}
 
-11.23 Questioner: Is this how we learned of nuclear energy? Was it mixed, both positive and negative orientation?
+{{< l a="Ra" >}}A mind/body/spirit social complex becomes a social memory complex when its entire group of entities are of one orientation or seeking.
 
-Ra:  This is correct. The entities responsible for the gathering of the scientists were of a mixed orientation. The scientists were overwhelmingly positive in their orientation. The scientists who followed their work were of mixed orientation including one extremely negative entity, as you would term it.
+The group memory lost to the individuals in the roots of the tree of mind then becomes known to the social complex, thus creating a social memory complex.
 
-11.24 Questioner: Is this extremely negative entity still incarnate on Earth?
+The advantages of this complex are the relative lack of distortion in understanding the social beingness and the relative lack of distortion in pursuing the direction of seeking, for all understanding/distortions are available to the entities of the society.{{< /l >}}
 
-Ra:  This is correct.
+{{< r a="Don Elkins" >}}Then we have crusaders from Orion coming to this planet for mind control purposes. How do they do this?{{< /r >}}
 
-11.25 Questioner: Then I assume you can’t name him and would ask you where Nikola Tesla got his information?
+{{< l a="Ra" >}}As all, they follow the Law of One observing free will.
 
-Ra:  The one known as Nikola received information from Confederation sources desirous of aiding this extremely, shall we say, angelically positive entity in bettering the existence of its fellow mind/body/spirit complexes. It is unfortunate, shall we say, that like many Wanderers the vibratory distortions of third-density illusion caused this entity to become extremely distorted in its perceptions of its fellow mind/body/spirit complexes so that its mission was hindered and in the result, perverted from its purposes.
+Contact is made with those who call.
 
-11.26 Questioner: How was Tesla’s work supposed to benefit man on Earth, and what were its purposes?
+Those then on the planet act much as do you to disseminate the attitudes and philosophy of their particular understanding of the Law of One which is service to self.
 
-Ra:  The most desired purpose of the mind/body/spirit complex, Nikola, was the freeing of all planetary entities from darkness. Thus, it attempted to give to the planet the infinite energy of the planetary sphere for use in lighting and power.
+These become the elite.
 
-11.27 Questioner: By freeing the planetary entities from darkness, precisely what do you mean?
+Through these, the attempt begins to create a condition whereby the remainder of the planetary entities are enslaved by their own free will.{{< /l >}}
 
-Ra:  [Most of the following answer was lost due to tape recorder malfunction. The core of the response was as follows.] We spoke of freeing people from darkness in a literal sense.
+{{< r a="Don Elkins" >}}Can you name any of the recipients of the crusaders on the planet today?{{< /r >}}
 
-11.28 Questioner: Would this freeing from darkness be commensurate with the Law of One or does this have any real product?
+{{< l a="Ra" >}}I am desirous of being in nonviolation of the free will distortion. To name those involved in the future of your space/time is to infringe; thus, we withhold this information.
 
-Ra:  The product of such a freeing would create two experiences.
+We request your contemplation of the fruits of the actions of those entities whom you may observe enjoying the distortion towards power.
 
-Firstly, the experience of no need to find the necessary emolument for payment, in your money, for energy.
+In this way you may discern for yourself this information.
 
-Secondly, the leisure afforded, thereby exemplifying the possibility and enhancing the probability of the freedom to then search the self for the beginning of seeking the Law of One.
+We shall not interfere with the planetary game. It is not central to the harvest.{{< /l >}}
 
-Few there are working physically from daybreak to darkness, as you name them, upon your plane who can contemplate the Law of One in a conscious fashion.
+{{< r a="Don Elkins" >}}How do the crusaders pass on their concepts to the incarnate individuals on Earth?{{< /r >}}
 
-11.29 Questioner: What about the Industrial Revolution in general. Was this planned in any way?
+{{< l a="Ra" >}}There are two main ways, just as there are two main ways of polarizing towards service to others.
 
-Ra:  This will be the final question of this session.
+1. There are those mind/body/spirit complexes upon your plane who do exercises and perform disciplines in order to seek contact with sources of information and power leading to the opening of the gate to intelligent infinity.
+2. There are others whose vibratory complex is such that this gateway is opened and contact with total service to self with its primal distortion of manipulation of others is then afforded with little or no difficulty, no training, and no control.{{< /l >}}
 
-That is correct. Wanderers incarnated in several waves, as you may call them, in order to bring into existence the gradual freeing from the demands of the diurnal cycles and lack of freedom of leisure.
+{{< r a="Don Elkins" >}}What type of information is passed on from the crusaders to these people?{{< /r >}}
 
-11.30 Questioner: Well, that was the last question, so I will as usual ask if there’s anything we can do to make the instrument more comfortable?
+{{< l a="Ra" >}}The Orion group passes on information concerning the Law of One with the orientation of service to self.
 
-Ra:  You are doing well. The most important thing is to carefully align the symbols. The adjustment made this particular time/space present will aid this instrument’s physical complex in the distortion towards comfort.
+The information can become technical just as some in the Confederation, in attempts to aid this planet in service to others, have provided what you would call technical information.
 
-May we ask if you have any short questions which we may resolve before closing the session?
+The technology provided by this group is in the form of various means of control or manipulation of others to serve the self.{{< /l >}}
 
-11.31 Questioner: I don’t know if this is a short question or not, so we can save it till next time, but my only question is why the crusaders from Orion do this. What is their ultimate objective? This is probably too long to answer.
+{{< r a="Don Elkins" >}}Do you mean then that some scientists receive technical information telepathically that comes out then as usable gadgetry?{{< /r >}}
 
-Ra:  This is not too long to answer. To serve the self is to serve all. The service of the self, when seen in this perspective, requires an ever-expanding use of the energies of others for manipulation to the benefit of the self with distortion towards power.
+{{< l a="Ra" >}}Yes.
+
+However, very positively, as you would call this distortion, oriented so-called scientists have received information intended to unlock peaceful means of progress which redounded unto the last echoes of potential destruction due to further reception of other scientists of a negative orientation/distortion.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Is this how we learned of nuclear energy? Was it mixed, both positive and negative orientation?{{< /r >}}
+
+{{< l a="Ra" >}}Yes.
+
+The entities responsible for the gathering of the scientists were of a mixed orientation.
+
+The scientists were overwhelmingly positive in their orientation. The scientists who followed their work were of mixed orientation including one extremely negative entity, as you would term it.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Is this extremely negative entity still incarnate on Earth?{{< /r >}}
+
+{{< l a="Ra" >}}Yes.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Then I assume you can’t name him and would ask you where Nikola Tesla got his information?{{< /r >}}
+
+{{< l a="Ra" >}}Nikola received information from Confederation sources wanting to aid this extremely angelically positive entity in bettering the existence of its fellow mind/body/spirit complexes.
+
+It is unfortunate that like many Wanderers the vibratory distortions of third-density illusion caused Nikola to become extremely distorted in its perceptions of its fellow mind/body/spirit complexes so that his mission was hindered and in the result, perverted from its purposes.{{< /l >}}
+
+{{< r a="Don Elkins" >}}How was Tesla’s work supposed to benefit man on Earth, and what were its purposes?{{< /r >}}
+
+{{< l a="Ra" >}}Nikola wanted to free all planetary entities from darkness. Thus, it attempted to give to the planet the infinite energy of the planetary sphere for use in lighting and power.
+
+We spoke of freeing people from darkness in a literal sense.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Would this freeing from darkness be commensurate with the Law of One or does this have any real product?{{< /r >}}
+
+{{< l a="Ra" >}}The product of such a freeing would create two experiences.
+
+1. Free energy, so there is no need to find the necessary emolument for payment, in your money, for energy.
+2. This will give the freedom to then search the self for the beginning of seeking the Law of One. The leisure afforded thereby exemplifies the possibility and enhances the probability of this seeking.
+
+There are few working physically from daybreak to darkness on your plane who can contemplate the Law of One in a conscious fashion.{{< /l >}}
+
+{{< r a="Don Elkins" >}}What about the Industrial Revolution in general. Was this planned in any way?{{< /r >}}
+
+{{< l a="Ra" >}}Yes. Wanderers incarnated in several waves in order to bring into existence the gradual freeing from the demands of the diurnal cycles and lack of freedom of leisure.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Why do the crusaders from Orion do this?{{< /r >}}
+
+{{< l a="Ra" >}}To serve the self is to serve all. The service of the self, when seen in this perspective, requires an ever-expanding use of the energies of others for manipulation to the benefit of the self with distortion towards power.{{< /l >}}

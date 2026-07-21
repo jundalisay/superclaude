@@ -62,6 +62,7 @@ Immoral | the qualities of actions that will lead to negative feelings in the la
 Instant | The minimum moment of time (Descartes, Principles of Philosophy)
 Instinct | A feeling from the subsidiary (lower) glands. (Sarkar)
 Intuition | Instant knowledge or connection derived from the aether, which is above spacetime
+Islamism | bringing the violent aspects of the Quran into reality
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
 Knowledge | the actual integration of idea-nodes; the assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Length Contraction | Decrease of distance within space

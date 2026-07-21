@@ -94,6 +94,9 @@ With regard to the passions, the human mind is not like a wind-instrument which 
 {{< /q >}}
 
 
+> To derive moral rules from facts, WE SHOULD GET THE FEELINGS OF EVERYONE.
+
+
 This idea was later developed by Adam Smith as the **Theory of Moral Sentiments** which is based on fellow feeling. 
 
 We implement this through national Consitutional Virtues which harmonizes with those of other nations to create a common moral system that will be the basis for a global constitution for an Earth government. 

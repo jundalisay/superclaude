@@ -48,6 +48,9 @@ This will not be strange to those who know the variety of movements by the diffe
 
 <!-- , and that with help of but few pieces compared with the great multitude of bones, muscles, nerves, arteries, veins, and other parts that are found in the body of each animal.  -->
 
+
+## The Body as a Machine
+
 Our body is a machine made by the hands of God, which is incomparably better arranged than any machine of human invention.
 
 If our bodies had exactly the organs and outward form an ape or any other irrational animal, then we would not be different from them. 
@@ -101,10 +104,21 @@ We should not confound speech with the natural movements which indicate the pass
 For if such were the case, since they are endowed with many organs analogous to ours, they could as easily communicate their thoughts to us as to their fellows. 
 
 There are many animals which are more hardworking than us in certain actions. 
+- Yet the same animals do no work at all in many other actions. 
 
-The same animals are yet observed to show none at all in many others= so that the circumstance that they do better than we does not prove that they are endowed with mind, for it would thence follow that they possessed greater reason than any of us, and could surpass us in all things.
+So them being better than us in certain actions does not prove that they are endowed with mind, as this would mean that they had:
+- greater reason than any of us, and
+- could surpass us in **all** things.
 
-On the contrary, it rather proves that they are destitute of reason, and that it is nature which acts in them according to the disposition of their organs= thus it is seen, that a clock composed only of wheels and weights can number the hours and measure time more exactly than we with all our skin.
+
+On the contrary, it rather proves that:
+- animals are destitute of reason
+- it is nature which acts in them according to the disposition of their organs.
+
+This is similar to a clock composed only of wheels and weights can number the hours and measure time more exactly than us with all our skill.
+
+{{< n n="Here, Descartes correctly uses reason or free will as the line that separates 2nd density animals from 3rd density humans. However, it does not mean that animals feel no pain and do not have logic. It just that their logic is trapped by Nature just as a calculator cannot add new operators" >}}
+
 
 The reasonable soul:
 - is not educed from the power of matter. Instead, the soul must be expressly created. 

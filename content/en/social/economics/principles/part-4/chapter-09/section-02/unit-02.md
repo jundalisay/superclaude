@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /social/economics/principles/part-4/chapter-09b
 ---
 
 
