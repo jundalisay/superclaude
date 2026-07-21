@@ -1,12 +1,22 @@
+---
+heading: Session 91
+title: "Archetypes"
+description: ""
+c: "indigo"
+a: Ra
+date: 1981-01-24
+tags: ['archetype']
+---
 
 
 June 26, 1982
 
-91.2 Questioner: I have listed the different minds and would like to know if they are applied in this particular aspect: first, we have the cosmic mind which is, I would think, the same for all sub-Logo[i] like our sun. 
+91.2 Questioner: I have listed the different minds. First, we have the cosmic mind which is, I would think, the same for all sub-Logo[i] like our sun. 
 
-The sub-Logos such as our sun, then, in creating Its own particular evolution of experience, refines the cosmic mind or, shall we say, articulates it by Its own additional bias or biases. Is this a correct observation?
+The sub-Logos such as our sun, then, in creating Its own particular evolution of experience, refines the cosmic mind or, shall we say, articulates it by Its own additional bias or biases. 
 
 Ra:  It is a correct observation with the one exception that concerns the use of the term “addition,” which suggests the concept of that which is more than the all-mind. Instead, the archetypical mind is a refinement of the all-mind in a pattern peculiar to the sub-Logos choosing.
+
 
 91.4 Questioner: Then the very next refinement that occurs as the cosmic mind is refined is what we call the archetypical mind. 
 
@@ -18,81 +28,134 @@ Ra:  No.
 
 Ra:  This racial or planetary mind is, for this Logos, a repository of biases remembered by the mind/body/spirit complexes which have enjoyed the experience of this planetary influence.
 
-91.7 Questioner: Now, some entities on this planet evolved through second density into third and some were transferred from other planets to re-cycle in third density here. Did the ones who were transferred here to re-cycle in third density add to the planetary or racial mind?
 
-Ra:  Not only did each race add to the planetary mind but also each race possesses a racial mind. Thus we made this distinction in discussing this portion of mind. This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.
+91.7 Questioner: Some entities on this planet evolved through second density into third and some were transferred from other planets to re-cycle in third density here. 
 
-We must ask your patience at this time. This channel has become somewhat unclear due to the movement of the cover which touches this instrument. We ask that the opening sentences be repeated and the breath expelled.
+Did the ones who were transferred here to re-cycle in third density add to the planetary or racial mind?
+
+
+Ra: Not only did each race add to the planetary mind but also each race possesses a racial mind. 
+
+Thus we made this distinction in discussing this portion of mind. This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.
+
+<!-- We must ask your patience at this time. This channel has become somewhat unclear due to the movement of the cover which touches this instrument. We ask that the opening sentences be repeated and the breath expelled.
 
 [The microphones attached to the cover upon the instrument were pulled slightly as a rug was being placed over a noisy tape recorder. The Circle of One was walked; breath was expelled two feet above the instrument’s head from her right to her left; and the Circle of One was walked again as requested.]
 
-I am Ra. We communicate now.
+I am Ra. We communicate now. -->
 
-91.8 Questioner: Were we successful in re-establishing clear contact?
 
-Ra:  There was the misstep which then needed to be re-repeated. This was done. The communication is once again clear. We enjoyed the humorous aspects of the necessary repetitions.
+<!-- 91.8 Questioner: Were we successful in re-establishing clear contact?
+
+Ra:  There was the misstep which then needed to be re-repeated. This was done. The communication is once again clear. We enjoyed the humorous aspects of the necessary repetitions. -->
 
 91.9 Questioner: What occurred when the microphone cords were slightly moved?
 
-Ra:  The link between the instrument’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred. This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of the instrument’s physical vehicle.
+Ra:  The link between the instrument’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred. 
+
+This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of the instrument’s physical vehicle.
+
 
 91.10 Questioner: What kind of distortion?
 
-Ra:  The degree of distortion would depend upon the amount of neglect. The ultimate penalty, shall we say, for the disturbing of the physical vehicle is the death, in this case by what you would call the congestive heart failure. As the support group was prompt there should be little or no distortion experienced by the instrument.
+Ra:  The degree of distortion would depend upon the amount of neglect. The ultimate penalty for the disturbing of the physical vehicle is the death as congestive heart failure.
 
-91.11 Questioner: Why does such a very minor effect like the slight movement of the microphone cord result in this situation? Not mechanically or chemically, but philosophically, if you can answer this question?
+As the support group was prompt, there should be no distortion experienced by Carla.
 
-Ra:  We can only answer mechanically as there is no philosophy to the reflexes of physical vehicular function.
 
-There is what you might call the silver cord reflex; that is, when the mind/body/spirit complex dwells without the environs of the physical shell and the physical shell is disturbed, the physical shell will reflexively call back the absent enlivener; that is, the mind/body/spirit complex which is connected with what may be metaphysically seen as what some of your philosophers have called the silver cord. If this is done suddenly the mind/body/spirit complex will attempt entry into the energy web of the physical vehicle without due care and the effect is as if one were to stretch one of your elastic bands and let it shrink rapidly. The resulting snap would strike hard at the anchored portion of the elastic band.
+91.11 Questioner: Why does such a very minor effect like the slight movement of the microphone cord result in this situation?
+
+
+<!-- We can only answer mechanically as there is no philosophy to the reflexes of physical vehicular function. -->
+
+Ra: There is the silver cord reflex.
+
+When the mind/body/spirit complex dwells without the environs of the physical shell and the physical shell is disturbed, the physical shell will reflexively call back the absent enlivener.
+
+The mind/body/spirit complex which is connected with what may be metaphysically seen as what some of your philosophers have called the silver cord. 
+
+If this is done suddenly the mind/body/spirit complex will attempt entry into the energy web of the physical vehicle without due care and the effect is as if one were to stretch one of your elastic bands and let it shrink rapidly.
+
+The resulting snap would strike hard at the anchored portion of the elastic band.
 
 The process through which you as a group go in recalling this instrument could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.
 
-91.12 Questioner: To get back to what we were talking about, would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet? Is this correct?
 
-Ra:  There are correctnesses to your supposition. However, not all races and sub-races are of various planetary origins. We suggest that in looking at planetary origins one observes not the pigmentation of the integument but the biases concerning interactions with other-selves and definitions regarding the nature of the self.
+91.12 Questioner: Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet? 
 
-91.13 Questioner: How many different planets have supplied the individuals that now inhabit this planet in this third density?
+Ra:  There are correctnesses to your supposition. 
 
-Ra:  This is perceived by us to be unimportant information, but harmless. There are three major planetary influences upon your planetary sphere, besides those of your own second-density derivation, and thirteen minor planetary groups in addition to the above.
+However, not all races and sub-races are of various planetary origins. 
 
-91.14 Questioner: Thank you. One more question before we start on the specific questions with respect to archetypes. Do all Logo[i] evolving after the veil have twenty-two archetypes?
+In looking at planetary origins, do not look at skin color but:
+- the biases on interactions with other-selves and
+- definitions regarding the nature of the self.
+
+
+91.13 Questioner: How many different planets have supplied the individuals that now inhabit Earth in this 3rd density?
+
+Ra: This is unimportant harmless information.
+
+There are 3 major planetary influences besides those of your own 2nd-density derivation, and 13 minor planetary groups in addition to the above.
+
+
+91.14 Questioner: Do all Logo evolving after the veil have 22 archetypes?
 
 Ra:  No.
 
-91.15 Questioner: Is it common for Logo[i] to have twenty-two archetypes or is this relatively unique with respect to our Logos?
+91.15 Questioner: Is it common for Logo[i] to have 22 archetypes or is this relatively unique with respect to our Logos?
 
 Ra:  The system of sevens is the most articulated system yet discovered by any experiment by any Logos in our octave.
 
+
 91.16 Questioner: What is the largest number of archetypes, to Ra’s knowledge, used by a Logos?
+
 
 Ra:  The sevens plus The Choice is the greatest number which has been used, by our knowledge, by Logoi. It is the result of many, many previous experiments in articulation of the One Creator.
 
-91.17 Questioner: I assume, then, that twenty-two is the greatest number of archetypes. I’ll also ask what is the minimum number presently in use by any Logos to Ra’s knowledge?
 
-Ra:  The fewest are the two systems of five which are completing the cycles or densities of experience.
+91.17 Questioner: I assume that 22 is the greatest number of archetypes. I’ll also ask what is the minimum number presently in use by any Logos to Ra’s knowledge?
 
-You must grasp the idea that the archetypes were not developed at once but step by step, and not in order as you know the order at this space/time but in various orders. Therefore, the two systems of fives were using two separate ways of viewing the archetypical nature of all experience. Each, of course, used the Matrix, the Potentiator, and the Significator for this is the harvest with which our creation began.
+Ra:  The fewest are the 2 systems of 5 which are completing the cycles or densities of experience.
+
+The archetypes were not developed at once but step by step, and not in order as you know the order at this space/time but in various orders. 
+
+Therefore, the two systems of fives were using two separate ways of viewing the archetypical nature of all experience. Each, of course, used the Matrix, the Potentiator, and the Significator for this is the harvest with which our creation began.
 
 One way or system of experimentation had added to these the Catalyst and the Experience. Another system if you will, had added Catalyst and Transformation. In one case the methods whereby experience was processed was further aided but the fruits of experience less aided. In the second case the opposite may be seen to be the case.
 
-91.18 Questioner: Thank you. We have some observations on the archetypes as follows. First, the Matrix of the Mind is depicted in the Egyptian tarot by a male and this we take as creative energy intelligently directed. Would Ra comment on this?
 
-Ra:  This is an extremely thoughtful perception seeing as it does the male not specifically as biological male but as a male principle. You will note that there are very definite sexual biases in the images. They are intended to function both as information as to which biological entity or energy will attract which archetype but also as a more general view which sees polarity as a key to the archetypical mind of third density.
+91.18 Questioner: The Matrix of the Mind is depicted in the Egyptian tarot by a male. This we take as creative energy intelligently directed. 
 
-91.19 Questioner: Secondly, we have the wand which has been seen as the power of will. Would Ra comment?
+Ra:  This is an extremely thoughtful perception seeing as it does the male not specifically as biological male but as a male principle. 
 
-Ra:  The concept of will is indeed pouring forth from each facet of the image of the Matrix of the Mind. The wand as the will, however, is, shall we say, an astrological derivative of the out-reaching hand forming the, shall we say, magical gesture. The excellent portion of the image which may be seen distinctly as separate from the concept of the wand is that sphere which indicates the spiritual nature of the object of the will of one wishing to do magical acts within the manifestation of your density.
+There are very definite sexual biases in the images. 
 
-91.20 Questioner: The hand downward has been seen as seeking from within, not outwardly active dominance over the material world. Would Ra comment?
+They are intended to function both as information as to which biological entity or energy will attract which archetype but also as a more general view which sees polarity as a key to the archetypical mind of third density.
 
-Ra:  Look again, O student. Does the hand reach within? Nay. Without potentiation the conscious mind has no inwardness. That hand, O student, reaches towards that which, outside its unpotentiated influence, is locked from it.
 
-91.21 Questioner: The square cage may represent the material illusion, an unmagical shape. Would Ra comment?
+91.19 Questioner: We have the wand which has been seen as the power of will.
+
+Ra:  The concept of will is pouring forth from each facet of the image of the Matrix of the Mind. 
+
+The wand as the will, however, is, shall we say, an astrological derivative of the out-reaching hand forming the, shall we say, magical gesture. 
+
+The excellent portion of the image which may be seen distinctly as separate from the concept of the wand is that sphere which indicates the spiritual nature of the object of the will of one wishing to do magical acts within the manifestation of your density.
+
+
+91.20 Questioner: The hand downward has been seen as seeking from within, not outwardly active dominance over the material world.
+
+Ra:  Does the hand reach within? Nay. 
+
+Without potentiation the conscious mind has no inwardness. That hand, O student, reaches towards that which, outside its unpotentiated influence, is locked from it.
+
+
+91.21 Questioner: The square cage may represent the material illusion, an unmagical shape.
 
 Ra:  The square, wherever seen, is the symbol of the third-density illusion and may be seen either as unmagical or, in the proper configuration, as having been manifested within; that is, the material world given life.
 
-91.22 Questioner: The dark area around the square would then be the darkness of the subconscious mind. Would Ra comment?
+
+91.22 Questioner: The dark area around the square would then be the darkness of the subconscious mind.
 
 Ra:  There is no further thing to say to the perceptive student.
 

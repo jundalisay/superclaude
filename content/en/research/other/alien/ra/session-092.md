@@ -1,33 +1,42 @@
+---
+heading: Session 92
+title: "The Potentiator"
+description: ""
+c: "indigo"
+a: Ra
+date: 1981-01-24
+tags: ['archetype']
+---
 
 
 
 July 8, 1982
 
-92.1 Questioner: Could you first please give me the condition of the instrument?
+92.1 Ra: Carla's condition is slightly weaker than previously because of the increased pain.
 
-Ra:  The condition of this instrument is slightly more distorted towards weakness in each respect since the previous asking.
+<!-- Various vehicular distortions other than the specifically arthritic have been accentuated by psychic greeting and the combined effect has been deleterious. -->
 
-92.2 Questioner: Is there a specific cause for this and could you tell us what it is if so?
+The continued slight but noticeable losses of the vital energies is due to the necessity for the instrument to call upon this resource in order to clear the, shall we say, way for a carefully purified service-to-others working. 
 
-Ra:  The effective cause of the increased physical distortions have to do with the press of continued substantial levels of the distortion you call pain. Various vehicular distortions other than the specifically arthritic have been accentuated by psychic greeting and the combined effect has been deleterious.
+The use of the will in the absence of physical and, in this particular case, mental and mental/emotional energies requires vital energies.
 
-The continued slight but noticeable losses of the vital energies is due to the necessity for the instrument to call upon this resource in order to clear the, shall we say, way for a carefully purified service-to-others working. The use of the will in the absence of physical and, in this particular case, mental and mental/emotional energies requires vital energies.
 
-92.3 Questioner: We have been attempting to figure out how to provide the instrument with the swirling water, which we hope to do very soon. Is there any other thing that we can do to improve this situation?
+92.3 Questioner: We have been trying to figure out how to provide Carla with the swirling water. Is there any other thing that we can do to improve this situation?
 
 Ra:  Continue in peace and harmony. Already the support group does much. There is the need for the instrument to choose the manner of its beingness. It has the distortion, as we have noted, towards the martyrdom. This can be evaluated and choices made only by the entity.
 
-92.4 Questioner: What is the present situation with the fifth-density negative visitor we have [inaudible]?
+
+92.4 Questioner: What is the present situation with the 5th-density negative visitor we have? What prompted its return?
 
 Ra:  It is with this group.
 
-92.5 Questioner: What prompted its return?
+The promptings were duple. There was the recovery of much negative polarity upon the part of your friend of fifth density and at the same approximate nexus a temporary lessening of the positive harmony of this group.
 
-Ra:  The promptings were duple. There was the recovery of much negative polarity upon the part of your friend of fifth density and at the same approximate nexus a temporary lessening of the positive harmony of this group.
 
-92.6 Questioner: Is there anything that we can do about the instrument’s stomach problem or constipation?
+<!-- 92.6 Questioner: Is there anything that we can do about the instrument’s stomach problem or constipation?
 
-Ra:  The healing modes of which each is capable are already in use.
+Ra:  The healing modes of which each is capable are already in use. -->
+
 
 92.7 Questioner: In the last session we discussed the first tarot card of the Egyptian type. Are there any distortions in the cards that we have (which we will publish in the book if possible) that Ra did not originally intend, with the exception of the star, which we know is a distortion, or any additions that Ra did intend in this particular tarot?
 
@@ -47,7 +56,11 @@ Ra:  This is so.
 
 92.11 Questioner: Then, this occurs because the Potentiator of the Mind is directly connected, through the roots of the tree of mind, to the archetypical mind and to the Logos which created it and because the veil between the Matrix and Potentiator of the Mind allows for the development of the will. Would Ra comment?
 
-Ra:  Some untangling may be needed. As the mind/body/spirit complex which has not yet reached the point of the conscious awareness of the process of evolution prepares for incarnation it has programmed for it a less than complete, that is to say a partially randomized, system of learnings. The amount of randomness of potential catalyst is proportional to the newness of the mind/body/spirit complex to third density. This, then, becomes a portion of that which you may call a potential for incarnational experience. This is indeed carried within that portion of the mind which is of the deep mind, the architecture of which may be envisioned as being represented by that concept complex known as the Potentiator.
+Ra:  
+
+As the mind/body/spirit complex which has not yet reached the point of the conscious awareness of the process of evolution prepares for incarnation it has programmed for it a less than complete, that is to say a partially randomized, system of learnings. The amount of randomness of potential catalyst is proportional to the newness of the mind/body/spirit complex to third density. This, then, becomes a portion of that which you may call a potential for incarnational experience. 
+
+This is indeed carried within that portion of the mind which is of the deep mind, the architecture of which may be envisioned as being represented by that concept complex known as the Potentiator.
 
 It is not in the archetypical mind of an entity that the potential for incarnational experience resides but in the mind/body/spirit complex’s insertion, shall we say, into the energy web of the physical vehicle and the chosen planetary environment. However, to more deeply articulate this portion of the mind/body/spirit complex’s beingness, this archetype, the Potentiator of the Mind, may be evoked with profit to the student of its own evolution.
 
@@ -68,6 +81,8 @@ Ra:  There are subtle misdirections in this simple statement having to do with t
 92.15 Questioner: The dynamic process between the Matrix, Potentiator, Catalyst, and Experience of the Mind forms the nature of the mind or the Significator of the Mind. Is this correct?
 
 Ra:  As our previous response suggests, the Significator of the Mind is both actor and acted upon. With this exception the statement is largely correct.
+
+
 
 92.16 Questioner: As the entity becomes consciously aware of this process [it] programs this activity itself before the incarnation. Is this correct?
 
@@ -105,13 +120,12 @@ Ra:  Although this is correct it is not as perceptive as the notice that the Pri
 
 We perceive an unclear statement. The polarity of Potentiator is there not for the Matrix to choose. It is there for the Matrix to accept as given.
 
-92.23 Questioner: In other words, this particular illusion has polarity as its foundation which might be represented by the structural significance of these columns. Is this correct?
+92.23 Questioner: In other words, this particular illusion has polarity as its foundation which might be represented by the structural significance of these columns. 
 
-Ra:  This is correct.
+The drawings on each of these columns are identical but that the left-hand column, that is the one on the Priestess’s left, has been shaded much darker indicating that the events or the experiences may be identical in the incarnation but may be approached and viewed and utilized with either polarity as the bias. 
 
-92.24 Questioner: It seems to me that the drawings on each of these columns are identical but that the left-hand column, that is the one on the Priestess’s left, has been shaded much darker indicating that the events or the experiences may be identical in the incarnation but may be approached and viewed and utilized with either polarity as the bias. Is this in any way correct?
+Ra: Correct. From the symbol denoting spirit in manifestation upon each pillar, that the One Infinite Creator is no respecter of polarity but offers Itself in full to all.
 
-Ra:  This is correct. You will note also, from the symbol denoting spirit in manifestation upon each pillar, that the One Infinite Creator is no respecter of polarity but offers Itself in full to all.
 
 92.25 Questioner: There seems to be a book on the Priestess’s lap which is half hidden by the robe or material that covers her right shoulder. It would seem that this indicates that knowledge is available if the veil is lifted but is not only hidden by the veil but hidden partially by her very garment which she must somehow move to become aware of the knowledge which she has available. Is this correct?
 
@@ -153,15 +167,22 @@ Ra:  This is correct, O student, but note ye the function of the mantle. There i
 
 Ra:  You perceive correctly an inborn bias offering to the seeing eye and listing ear information concerning the choice of the more efficient polarity. We would at this time, as you may call it, suggest one more full query.
 
-92.34 Questioner: I will just, then, attempt an example of the Potentiator of Mind acting. Would, as the infant gains time in incarnation, [it] experience the Potentiator offering both positive and negative potential acts, or thoughts, shall I say, for the Matrix to experience which then begin to accumulate, shall I say, in the Matrix and color it one way or the other in polarity depending upon its continuing choice of that polarity offered by the Potentiator? Is this in any way correct?
+92.34 Questioner: I will attempt an example of the Potentiator of Mind acting. 
 
-Ra:  Firstly, again may we distinguish between the archetypical mind and the process of incarnational experience of the mind/body/spirit complex.
+Would, as the infant gains time in incarnation, [it] experience the Potentiator offering both positive and negative potential acts, or thoughts, shall I say, for the Matrix to experience which then begin to accumulate, shall I say, in the Matrix and color it one way or the other in polarity depending upon its continuing choice of that polarity offered by the Potentiator?
 
-Secondly, each potentiation which has been reached for by the Matrix is recorded by the Matrix but experienced by the Significator. The experience of the Significator of this potentiated activity is of course dependent upon the acuity of its processes of Catalyst and Experience.
 
-May we ask if there are briefer queries before we leave this instrument?
+Ra: 1. We may distinguish between the archetypical mind and the process of incarnational experience of the mind/body/spirit complex.
+
+2. Each potentiation which has been reached for by the Matrix is recorded by the Matrix but experienced by the Significator. 
+
+The experience of the Significator of this potentiated activity is of course dependent upon the acuity of its processes of Catalyst and Experience.
+
+
+<!-- May we ask if there are briefer queries before we leave this instrument?
 
 92.35 Questioner: Is there anything that we can do to make the instrument more comfortable or improve the contact?
 
 Ra:  The support group is functioning well. The instrument, itself, might ponder some earlier words and consider their implications. We say this because the continued calling upon vital energies, if allowed to proceed to the end of the vital energy, will end this contact. There is not the need for continued calling upon these energies. The instrument must find the key to this riddle or face a growing loss of this particular service at this particular space/time nexus.
 
+ -->

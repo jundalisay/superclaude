@@ -1,11 +1,19 @@
+---
+heading: Session 89
+title: "Catalyst of the Mind"
+description: ""
+c: "indigo"
+a: Ra
+date: 1981-01-24
+tags: ['archetype']
+---
 
 
 August 18, 1982
 
 
-93.1 Questioner: Could you first please give me the condition of the instrument?
+93.1 Ra: Carla's body distortions far more closely approach the zero mark. She has no native physical energy. Yet she is not defcient in physical energy. The vital energy distortions are somewhat strengthened since the last asking.
 
-Ra:  The physical complex distortions of this instrument far more closely approach what you might call the zero mark; that is, the instrument, while having no native physical energy, is not nearly so far in physical energy deficit distortions. The vital energy distortions are somewhat strengthened since the last asking.
 
 93.2 Questioner: What is the position and condition of our fifth-density, negatively oriented visitor?
 
@@ -122,4 +130,6 @@ May we ask for one more query at this time. We are pleased to report that this i
 93.24 Questioner: I am assuming that you mean one full question, and I’ll make that question: I’d like to know the significance of the shape of the crux ansata, and if that’s too much of an answer I will just ask if there is anything we can do to make the instrument more comfortable or improve the contact?
 
 Ra:  There are mathematical ratios within this image which may yield informative insights to one fond of riddles. We shall not untangle the riddle. We may indicate that the crux ansata is a part of the concept complexes of the archetypical mind, the circle indicating the magic of the spirit, the cross indicating that nature of manifestation which may only be valued by the losing. Thus the crux ansata is intended to be seen as an image of the eternal in and through manifestation and beyond manifestation through the sacrifice and transformation of that which is manifest.
+
+
 

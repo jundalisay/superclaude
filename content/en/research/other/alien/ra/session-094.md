@@ -1,24 +1,22 @@
 ---
 heading: Session 94
-title: "Ra"
+title: "Carla"
 description: ""
 c: "indigo"
 a: Ra
+tags: ['']
 weight: 200
 date: 1982-08-26
 ---
 
 
+
 August 26, 1982
 
 
-94.2 Questioner: I have questions here from the instrument. One: “Is our fifth-density friend responsible for the instrument’s extreme distortion towards pain during and just after sessions?”
+94.2 Questioner: Carla asks “Is our 5th-density friend responsible for Carla's pain during and just after sessions?”
 
-Ra:  Yes.
-
-94.3 Questioner: Is there anything that we can do that we are not doing to remedy this situation so that the instrument does not experience this pain, or as much of it?
-
-Ra:  There is little that can be done due to a complex of pre-existing distortions. The distortions are triple in the source.
+Ra:  Yes.  There is little that can be done due to a complex of pre-existing distortions. The distortions are triple in the source.
 
 There is the, shall we say, less than adequate work of your chirurgeons which allows for various distortions in the left wrist area.
 
@@ -26,39 +24,57 @@ There is the distortion called systemic lupus erythematosus which causes the mus
 
 Lastly, there is the nerve damage, more especially to the left, but in both appendages from the thoracic outlet.
 
+
 In the course of the waking behavior the instrument can respond to the various signals which ring the tocsin of pain, thus alerting the mind complex, which in turn moves the physical complex in many and subtle configurations which relieve the various distortions. Your friend greets these distortions, as has been stated before, immediately prior to the beginning of the working. However, during the working the instrument is not with its yellow-ray chemical vehicle and thusly the many small movements which could most effectively aid in the decrease of these distortions is not possible. Ra must carefully examine the mental configurations of the mind complex in order to make even the grossest manipulation. It is not our skill to use a yellow-ray vehicle.
 
 The weight of the cover has some deleterious effect upon these distortions in some cases and thus we mentioned that there was a small thing which could be done; that is, the framing of that which lifted the coverlet from the body slightly. In order to compensate for loss of warmth the wearing of material warming the manual appendages would then be indicated.
 
-94.4 Questioner: I immediately think of the instrument wearing long underwear under the robe that it now wears and an extremely light, white cover. Would this be satisfactory?
 
-Ra:  Due to this instrument’s lack of radiant physical energy the heavier cover is suggested.
+94.4 Questioner: I think Carla should wear long underwear under the robe that it now wears and an extremely light, white cover.
 
-94.5 Questioner: In your statement, near the beginning of it, you said “less than adequate work of your,” and there was a word that I didn’t understand at all. Are you familiar with the word that I am trying to understand?
+Ra:  Due to Carla's lack of radiant physical energy the heavier cover is suggested.
 
-Ra:  No.
+94.5 I assume that our 5th-density negative friend doesn’t cause the distortion all the time simply because he wishes to emphasize the fact that Carla is going to be distorted only if she attempts one of these service-to-others working[s], therefore attempting to stifle the working.
 
-94.6 Questioner: We’ll have to wait until we transcribe the material then. I assume that our fifth-density negative friend doesn’t cause the distortion all the time simply because he wishes to emphasize the fact that the instrument is going to be distorted only if she attempts one of these service-to-others working[s], therefore attempting to stifle the working. Is this correct?
+Ra:  This is partially correct. 
 
-Ra:  This is partially correct. The incorrect portion is this: The entity of which you speak has found its puissance less than adequate to mount a continuous assault upon this instrument’s physical vehicle and has, shall we say, chosen the more effective of the space/time nexi of this instrument’s experience for its service.
+The incorrect portion is: The entity of which you speak has found its puissance less than adequate to mount a continuous assault upon this instrument’s physical vehicle and has, shall we say, chosen the more effective of the space/time nexi of this instrument’s experience for its service.
 
-94.7 Questioner: Could you tell me why I have felt so extremely tired on several recent occasions?
+
+
+94.7 Questioner: Why do I feel so extremely tired on several recent occasions?
 
 Ra:  This has been covered in previous material.
 
-The contact which you now experience costs a certain amount of the energy which each of the group brought into manifestation in the present incarnation. Although the brunt of this cost falls upon the instrument, it is caparisoned by pre-incarnative design with the light and gladsome armor of faith and will to a far more conscious extent than most mind/body/spirit complexes are able to enjoy without much training and initiation.
+The contact which you now experience costs a certain amount of the energy which each of the group brought into manifestation in the present incarnation. 
 
-Those of the support group also offer the essence of will and faith in service to others, supporting the instrument as it releases itself completely in the service of the One Creator. Therefore, each of the support group also experiences a weariness of the spirit which is indistinguishable from physical energy deficit except that if each experiments with this weariness each shall discover the physical energy in its usual distortion.
+The brunt of this cost falls on Carla. But it is caparisoned by pre-incarnative design with the light and gladsome armor of faith and will to a far more conscious extent than most mind/body/spirit complexes are able to enjoy without much training and initiation.
 
-94.8 Questioner: Thank you. I really didn’t mean to go over previous material. I should have phrased my question more carefully so that— That is what I expected. I was trying to get confirmation of the fact that I suspected that. I will be more careful in questioning from now on.
+Those of the support group also offer the essence of will and faith in service to others, supporting the instrument as it releases itself completely in the service of the One Creator.
 
-From the instrument we have the question, “While vacationing I uncovered a lot about myself not consciously known before. It seems to me that I coast on the spiritual gifts given at birth and never have spent any time getting to know my human self which seems to be a child, immature and irrational. Is this so?”
+Therefore, each of the support group also experiences a weariness of the spirit which is indistinguishable from physical energy deficit except that if each experiments with this weariness each shall discover the physical energy in its usual distortion.
+
+
+
+94.8 Questioner: Carla asks: “While vacationing I uncovered a lot about myself not consciously known before. It seems to me that I coast on the spiritual gifts given at birth and never have spent any time getting to know my human self which seems to be a child, immature and irrational.”
+
 
 Ra:  This is partially correct.
 
-94.9 Questioner: Then she says, “If this is so, this seems to be part of the riddle about the manner of beingness that Ra spoke of. I fear if I do not work successfully on my human distortions I shall be responsible for losing the contact. Yet also Ra suggests the over-dedication to any outcome is unwise. Could Ra comment on these thoughts?”
 
-Ra:  We comment in general first upon the query about the contact which indicates once again that the instrument views the mind/body/spirit complex with jaundiced eye. Each mind/body/spirit complex that is seeking shall almost certainly have the immature and irrational behaviors. It is also the case that this entity, as well as almost all seekers, [has] done substantial work within the framework of the incarnative experience and [has] indeed developed maturity and rationality. That this instrument should fail to see that which has been accomplished and see only that which remains to be accomplished may well be noted. Indeed, any seeker discovering in itself this complex of mental and mental/emotional distortions shall ponder the possible non-efficacy of judgment.
+94.9 Questioner: “If this is so, this seems to be part of the riddle about the manner of beingness that Ra spoke of. I fear if I do not work successfully on my human distortions I shall be responsible for losing the contact. Yet also Ra suggests the over-dedication to any outcome is unwise. Could Ra comment on these thoughts?”
+
+Ra:  We comment in general first upon the query about the contact which indicates once again that Carla views the mind/body/spirit complex with jaundiced eye. 
+
+Each mind/body/spirit complex that is seeking shall almost certainly have the immature and irrational behaviors. 
+
+It is also the case that this entity, as well as almost all seekers, [has] done substantial work within the framework of the incarnative experience and [has] indeed developed maturity and rationality. 
+
+Carla:
+- fails to see that which has been accomplished
+- see only that which remains to be accomplished
+
+Any seeker discovering in itself this complex of mental and mental/emotional distortions shall ponder the possible non-efficacy of judgment.
 
 As we approach the second portion of the query we view the possibility of infringement upon free will. However, we believe we may make reply within the boundaries of the Law of Confusion.
 
@@ -138,11 +154,11 @@ Ra:  This perception is correct, O student, but what shall the student find the 
 
 Ra:  That bears little of sense.
 
-94.26 Questioner: I’ll have to work on that.
+94.26 Questioner: I am guessing that the crossed legs of the entity in Card Four have a meaning similar to the cross of the crux ansata. Is this correct?
 
-Then I am guessing that the crossed legs of the entity in Card Four have a meaning similar to the cross of the crux ansata. Is this correct?
+Ra:  This is correct. 
 
-Ra:  This is correct. The cross formed by the living limbs of the image signifies that which is the nature of mind/body/spirit complexes in manifestation within your illusion. There is no experience which is not purchased by effort of some kind, no act of service to self or others which does not bear a price, to the entity manifesting, commensurate with its purity. All things in manifestation may be seen in one way or another to be offering themselves in order that transformations may take place upon the level appropriate to the action.
+The cross formed by the living limbs of the image signifies that which is the nature of mind/body/spirit complexes in manifestation within your illusion. There is no experience which is not purchased by effort of some kind, no act of service to self or others which does not bear a price, to the entity manifesting, commensurate with its purity. All things in manifestation may be seen in one way or another to be offering themselves in order that transformations may take place upon the level appropriate to the action.
 
 94.27 Questioner: The bird is within a circle on the front of the entity in Card Four. Would that have the same significance as the circular part of the crux ansata?
 

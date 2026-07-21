@@ -1,6 +1,6 @@
 ---
 heading: Session 54
-title: "The Creator"
+title: "The Logo and Sub Logos"
 description: ""
 c: "indigo"
 a: Ra
@@ -11,53 +11,89 @@ tags: ['density', '']
 
 May 29, 1981
 
-54.2 Questioner: I have a question from Jim about an experience he had when he first moved to his land in which he was told, “The key to your survival comes indirect, through nervousness.” The entity was Angelica. Can you give him information with respect to this?
+54.2 Questioner: When Jim first moved to his land Angelica told him, “The key to your survival comes indirect, through nervousness.”
 
-Ra: Each mind/body/spirit complex has several guides available to it. The persona of two of these guides is the polarity of male and female. The third is androgynous and represents a more unified conceptualization faculty.
+Ra: Each mind/body/spirit complex has several guides available to it. 
 
-The guide speaking as sound vibration complex, Angelica, was the female polarized persona. The message may not be fully explicated due to the Law of Confusion. We may suggest that in order to progress, a state of some dissatisfaction will be present, thus giving the entity the stimulus for further seeking. This dissatisfaction, nervousness, or angst, if you will, is not of itself useful. Thus its use is indirect.
+The persona of two of these guides is the polarity of male and female. 
 
-54.4 Questioner: Thank you. I would like to trace the energy that I assume comes from the Logos. I’m going to make a statement and let you correct me on the statement and expand on my concept.
+The third is androgynous and represents a more unified conceptualization faculty.
 
-From the Logos comes all frequencies of radiation of light. These frequencies of radiation make up all of the densities of experience that are created by that Logos. I am assuming that the planetary system of our sun, in all of its densities, is the total of the experience created by our sun as a Logos. Is this correct?
+The guide Angelica was the female polarized persona. 
 
-Ra:  This is correct.
+The message may not be fully explicated due to the Law of Confusion [free will]. 
 
-54.5 Questioner: Now, I am assuming that the different frequencies are separated, as we have said, into the seven colors, that each of these colors may be the basic frequency for a sub-Logos of our sun Logos and that a sub-Logos or, shall we say, an individual may activate any one of these basic frequency or colors and use the body that is generated from the activation of that frequency or color. Is this correct?
+We may suggest that in order to progress, a state of some dissatisfaction will be present, thus giving the entity the stimulus for further seeking. 
 
-Ra:  If we grasp your query correctly this is not correct in that the sub-sub-Logos resides, not in dimensionalities, but only in co-Creators, or mind/body/spirit complexes.
+This dissatisfaction, nervousness, or angst, if you will, is not of itself useful. Thus its use is indirect.
 
-54.6 Questioner: What I meant was that a mind/body/spirit complex then can have a body activated that is one of these seven rays. Is this correct?
 
-Ra:  This is correct in the same sense as it is correct to state that any one may play a complex instrument which develops an euphonious harmonic vibration complex such as your piano and can play this so well that it might offer concerts to the public, as you would say. In other words, although it is true that each true-color vehicle is available potentially there is skill and discipline needed in order to avail the self of the more advanced or lighter vehicles.
 
-54.7 Questioner: Now, I have made these statements just to get to the basic question I wish to ask. It is a difficult question to ask.
+54.4 Questioner: I would like to trace the energy that I assume comes from the Logos.
 
-We have, coming from the sub-Logos we call our sun, intelligent energy, which then forms, and we’ll take as an example a single sub-sub-logos which is a mind/body/spirit complex. This intelligent energy is somehow modulated or distorted, so that it ends up as a mind/body/spirit complex with certain distortions of personality that it is necessary for the mind/body/spirit complex or the mental portion of that complex to undistort in order to conform once more precisely with the original intelligent energy.
+From the Logos comes all frequencies of radiation of light. These frequencies of radiation make up all of the densities of experience that are created by that Logos. I am assuming that the planetary system of our sun, in all of its densities, is the total of the experience created by our sun as a Logos. 
 
-First, I want to know if my statement on that is correct, and, secondly, I want to know why this is the way that it is; if there is any answer other than the first distortion of the Law of One for this?
+I assume that the different frequencies are separated into the 7 colors.
 
-Ra:  This statement is substantially correct. If you will penetrate the nature of the first distortion in its application of self knowing self, you may begin to distinguish the hallmark of an Infinite Creator, variety. Were there no potentials for misunderstanding and, therefore, understanding, there would be no experience.
+Each of these colors may be the basic frequency for a sub-Logos of our sun Logos and that a sub-Logos or, shall we say, an individual may activate any one of these basic frequency or colors and use the body that is generated from the activation of that frequency or color.
 
-54.8 Questioner: OK. Once a mind/body/spirit complex becomes aware of this process it then decides that in order to have the abilities, the full abilities of the Creation and the Creator of which it is a small part yet at the same time, all of, in order to have the abilities that go with the entire Creation, it is necessary to reunite its thinking or reharmonize its thinking with the Original Creative Thought in precise vibration or frequency of vibration I will say. In order to do this it is necessary to discipline the personality so that it precisely conforms to the Original Thought or Original Vibration, and this is broken into seven areas of discipline each corresponding to one of the colors of the spectrum. Is this correct?
+Ra: No. The sub-sub-Logos does not reside in dimensionalities, but only in co-Creators, or mind/body/spirit complexes.
 
-Ra:  This statement, though correct, bears great potential for being misunderstood. The precision with which each energy center matches the Original Thought lies not in the systematic placement of each energy nexus but rather in the fluid and plastic placement of the balanced blending of these energy centers in such a way that intelligent energy is able to channel itself with minimal distortion.
+
+54.6 Questioner: A mind/body/spirit complex then can have a body activated that is one of these seven rays.
+
+Ra:  This is correct in the same sense as it is correct to state that any one may play a complex instrument which develops an euphonious harmonic vibration complex such as your piano and can play this so well that it might offer concerts to the public. 
+
+Each true-color vehicle is available potentially. But there is skill and discipline needed in order to avail the self of the more advanced or lighter vehicles.
+
+
+Coming from the sub-Logos, we call our sun intelligent energy. It then forms a single sub-sub-logos which is a mind/body/spirit complex. 
+
+This intelligent energy is somehow modulated or distorted, so that it ends up as a mind/body/spirit complex with certain distortions of personality that it is necessary for the mind/body/spirit complex or the mental portion of that complex to undistort in order to conform once more precisely with the original intelligent energy.
+
+Am I correct? Why is this is the way it is? if there is any answer other than the first distortion of the Law of One for this?
+
+
+Ra:  This statement is substantially correct. 
+
+If you will penetrate the nature of the first distortion in its application of self knowing self, you may begin to distinguish the hallmark of an Infinite Creator, variety. 
+
+Were there no potentials for misunderstanding and, therefore, understanding, there would be no experience.
+
+
+54.8 Questioner: Once a mind/body/spirit complex becomes aware of this process it then decides that in order to have the abilities, the full abilities of the Creation and the Creator of which it is a small part yet at the same time, all of, in order to have the abilities that go with the entire Creation, it is necessary to reunite its thinking or reharmonize its thinking with the Original Creative Thought in precise vibration or frequency of vibration I will say. 
+
+In order to do this it is necessary to discipline the personality so that it precisely conforms to the Original Thought or Original Vibration, and this is broken into seven areas of discipline each corresponding to one of the colors of the spectrum. Is this correct?
+
+
+Ra:  This statement, though correct, bears great potential for being misunderstood. 
+
+The precision with which each energy center matches the Original Thought lies not in the systematic placement of each energy nexus but rather in the fluid and plastic placement of the balanced blending of these energy centers in such a way that intelligent energy is able to channel itself with minimal distortion.
 
 The mind/body/spirit complex is not a machine. It is rather what you might call a tone poem.
 
+
 54.9 Questioner: Do all mind/body/spirit complexes in the entire creation have the seven energy centers once they have reached full development or development to the point where they can have seven energy centers?
+
 
 Ra:  These energy centers are in potential in macrocosm from the beginning of creation by the Logos. Coming out of timelessness, all is prepared. This is so of the infinite creation.
 
+
 54.10 Questioner: Then I will assume that the Creator in Its intelligent appraisal of a way of knowing Itself, created the concept of the seven areas of knowing. Is this correct?
 
-Ra:  This is partially incorrect. The Logos creates light. The nature of this light thus creates the nature of the catalytic and energetic levels of experience in the creation. Thus it is that the highest of all honor/duties, that given to those of the next octave, is the supervision of light in its manifestations during the experiential times, if you will, of your cycles.
 
-54.11 Questioner: I will make another statement. The mind/body/spirit complex may choose, because of the first distortion, a mental configuration that is sufficiently displaced from the configuration of the intelligent energy in a particular frequency or color of instreaming energy so as to block a portion of instreaming energy in that particular frequency or color. Is this statement correct?
+Ra: This is partially incorrect. The Logos creates light. 
+
+The nature of this light thus creates the nature of the catalytic and energetic levels of experience in the creation. Thus it is that the highest of all honor/duties, that given to those of the next octave, is the supervision of light in its manifestations during the experiential times, if you will, of your cycles.
+
+
+
+54.11 Questioner: The mind/body/spirit complex may choose, because of the first distortion, a mental configuration that is sufficiently displaced from the configuration of the intelligent energy in a particular frequency or color of instreaming energy so as to block a portion of instreaming energy in that particular frequency or color.
 
 Ra:  Yes.
 
-54.12 Questioner: This question may be no good, but I’ll ask it. Can you give me an idea of the maximum percentage of this energy it’s possible to block in any one color or does that make any sense?
+
+54.12 Questioner: Can you give me an idea of the maximum percentage of this energy it’s possible to block in any one color or does that make any sense?
 
 Ra:  There may be, in an entity’s pattern of instreaming energy, a complete blockage in any energy or color or combination of energies or colors.
 
@@ -143,25 +179,32 @@ Ra:  This is not a pointless question, for catalyst and the requirements or dist
 
 Ra:  We have addressed the filtering process by which in-coming energies are pulled upwards according to the distortions of each energy center and the strength of will or desire emanating from the awareness of inner light. If we may be more specific, please query with specificity.
 
-54.30 Questioner: I’ll make this statement which may be somewhat distorted and let you correct it. We have, coming through the feet and base of the spine, the total energy that the mind/body/spirit complex will receive in the way of what we call light. Each energy center as it is met filters out and uses a portion of this energy, red through violet. Is this correct?
 
-Ra:  This is largely correct. The exceptions are as follows: The energy ingress ends with indigo. The violet ray is a thermometer or indicator of the whole.
 
-54.31 Questioner: As this energy is absorbed by the energy centers at some point it is not only absorbed into the being but radiates through the energy center outwardly. I believe this begins with the blue center and, and also occurs with the indigo and violet? Is this correct?
+54.30 Questioner: We have, coming through the feet and base of the spine, the total energy that the mind/body/spirit complex will receive in the way of light. 
 
-Ra:  Firstly, we would state that we had not finished answering the previous query and may thus answer both in part by stating that in the fully activated entity, only that small portion of instreaming light needed to tune the energy center is used, the great remainder being free to be channeled and attracted upwards.
+Each energy center as it is met filters out and uses a portion of this energy, red through violet. Is this correct?
 
-To answer your second question more fully we may say that it is correct that radiation without the necessity of response begins with blue ray although the green ray, being the great transitional ray, must be given all careful consideration, for until transfers of energy of all types has been experienced and mastered to a great extent, there will be blockages in the blue and indigo radiations.
+Ra: This is largely correct. 
+
+The exceptions are as follows: The energy ingress ends with indigo. The violet ray is a thermometer or indicator of the whole.
+
+
+54.31 Questioner: As this energy is absorbed by the energy centers at some point it is not only absorbed into the being but radiates through the energy center outwardly. I believe this begins with the blue center and, and also occurs with the indigo and violet?
+
+Ra:  In the fully activated entity, only that small portion of instreaming light needed to tune the energy center is used. The great remainder is free to be channeled and attracted upwards.
+
+It is correct that radiation without the necessity of response begins with blue ray although the green ray, being the great transitional ray, must be given all careful consideration, for until transfers of energy of all types has been experienced and mastered to a great extent, there will be blockages in the blue and indigo radiations.
 
 Again, the violet emanation is, in this context, a resource from which, through indigo, intelligent infinity may be contacted. The radiation thereof will not be violet ray but rather green, blue, or indigo depending upon the nature of the type of intelligence which infinity has brought through into discernible energy.
 
 The green-ray type of radiation in this case is the healing, the blue-ray the communication and inspiration, the indigo that energy of the adept which has its place in faith.
 
+
+
 54.32 Questioner: What if a mind/body/spirit complex feels a feeling in meditation at the indigo center, what is he feeling?
 
-Ra:  This will be the last full query of this working.
-
-One who feels this activation is one experiencing instreamings at that energy center to be used either for the unblocking of this center, for its tuning to match the harmonics of its other energy centers, or to activate the gateway to intelligent infinity.
+Ra: One who feels this activation is one experiencing instreamings at that energy center to be used either for the unblocking of this center, for its tuning to match the harmonics of its other energy centers, or to activate the gateway to intelligent infinity.
 
 We cannot be specific for each of these three workings is experienced by the entity which feels this physical complex distortion.
 
