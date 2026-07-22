@@ -4,6 +4,7 @@ title: "2nd Density"
 description: ""
 c: "indigo"
 a: Ra
+weight: 48
 date: 1981-01-24
 tags: ['densities', '']
 ---

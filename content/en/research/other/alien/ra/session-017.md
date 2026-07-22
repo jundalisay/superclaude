@@ -4,6 +4,7 @@ title: "4th Density"
 description: ""
 c: "indigo"
 a: Ra
+weight: 42
 date: 1981-02-03
 tags: ['densities', '']
 ---

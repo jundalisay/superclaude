@@ -4,6 +4,7 @@ title: "Guardians"
 description: ""
 c: "indigo"
 a: Ra
+weight: 40
 date: 1981-01-31
 tags: ['10 Commandments', 'Yahweh']
 ---

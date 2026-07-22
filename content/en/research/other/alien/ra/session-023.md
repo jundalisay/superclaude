@@ -4,6 +4,7 @@ title: "Pyramid Healing"
 description: ""
 c: "indigo"
 a: Ra
+weight: 55
 date: 1981-01-24
 tags: ['pyramid healing', '']
 ---

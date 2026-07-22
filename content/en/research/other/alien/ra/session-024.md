@@ -4,6 +4,7 @@ title: "Being Sick"
 description: ""
 c: "indigo"
 a: Ra
+weight: 56
 date: 1981-01-24
 tags: ['', '']
 ---
