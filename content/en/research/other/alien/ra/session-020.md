@@ -14,9 +14,6 @@ tags: ['densities', 'Dewey Larson']
 February 9, 1981
 
 
-Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the initial numbers:
-
-
 {{< r a="Don Elkins" >}}What happened to the 2nd-density entities who were on this planet who were unharvestable— I assume there were some that didn’t make the harvest into the 3rd density.{{< /r >}}
 
 {{< l a="Ra" >}}The 2nd density is able to repeat during 3rd density a portion of its cycle.{{< /l >}}

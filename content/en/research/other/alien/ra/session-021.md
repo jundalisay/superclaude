@@ -14,11 +14,6 @@ tags: ['Lemuria']
 
 February 10, 1981
 
-
----
-
-## Session 21
-
 {{< r a="Don Elkins" >}}Would the future content of this book be affected in any way if the instrument reads the material we have already obtained?{{< /r >}}
 
 {{< l a="Ra" >}}The future communications which we offer through Carla have no connection with Carla's mind complex. 

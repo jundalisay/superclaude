@@ -14,10 +14,10 @@ tags: ['pyramid healing', '']
 February 11, 1981
 
 
-## Session 23
-
 {{< r a="Don Elkins" >}}
-You were speaking yesterday of the first contact made by the Confederation which occurred during our third major cycle. You stated that you appeared in the skies over Egypt at the same time, approximately, aid was first given to Atlantis. 
+You were speaking yesterday of the first contact made by the Confederation which occurred during our third major cycle. 
+
+You stated that you appeared in the skies over Egypt at the same time, approximately, aid was first given to Atlantis. 
 
 Can you tell me why you went to Egypt and your attitude and thinking when you first went to Egypt?{{< /r >}}
 

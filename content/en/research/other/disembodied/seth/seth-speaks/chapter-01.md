@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
-title: "Introduction"
-description: "Seth is a disembodied mind i.e. dead guy"
+title: "I Do Not Have a Physical Body"
+description: "I can quite literally be called a ghost writer"
 c: "purple"
 weight: 3
 a: "Seth"

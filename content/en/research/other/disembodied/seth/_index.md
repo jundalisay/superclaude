@@ -1,7 +1,8 @@
 ---
-title: "Seth"
-description: "Seth is a disembodied mind i.e. dead guy"
+title: "Disembodied Sources"
+description: "Dead People"
 c: "purple"
+image: "/photos/bio/tomb.jpg"
 weight: 15
 a: "Seth"
 ---
