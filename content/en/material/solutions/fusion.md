@@ -194,19 +194,24 @@ So the steps towards sustainable fusion are:
 
 
 {{< d t="Update: February 2024" >}}
-We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
+We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But critics would say that all we did was to change the air pressure by sound. And so we need to redo the whole thing in a vacuum chamber which is expensive for which we need a grant. 
 
-So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
+But no one would give a grant to a totally new science paradigm and so this is a **dead end**. 
+
+We move on instead on other implementations of the aether such as for our moneyless economic system where we note the gravity and fluctuations of price movements, in alternative medicine as chi and prana, and in Supersociology where we share videos on economic and foreign policy (e.g. Ukraine War, Gaza War) to change the aethereal spin of minds. 
 {{< /d >}}
 
 
 {{< d t="Update June 2026" >}}
-This post does not mention how to massage the aether to get the desired effects. This will be mentioned in a future post after we actually get the time to test it on anoether 1 kg mass.
+This post does not mention how to 'massage' the aether to get the desired effects. This will be mentioned in a future post after we actually get the time to test it on anoether 1 kg mass.
 {{< /d >}}
 
 
 
-<!--  metals to find their vortex point and frequency, as an artificial qost
+<!--  
+So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
+
+metals to find their vortex point and frequency, as an artificial qost
 3. Use that geometry to tap reliable but low power spacetime energy 
 4. Pool that energy to create plasma
 5. Make that plasma flow* to create a more serious vortex to confine itself gravitationally, leading to sustained fusion -->

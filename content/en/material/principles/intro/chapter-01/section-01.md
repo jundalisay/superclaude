@@ -100,9 +100,10 @@ The top layer, aether, always changes and so we use ratios (ratio sign) instead 
 
 We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layer model, including their properties:
 
+<!-- Probability | Metaphysical | Probability | existence -->
+
 Superphysics Name | Greek-Hindu-Chinese | Physics | Asian Property
 --- | --- | --- | --- 
-Probability | Metaphysical | Probability | existence
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | sound
 Spatial | Air, Vayu, 木 (moving wood) | Gravity, Dark Matter, Dark Energy | contact
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | shape
@@ -129,4 +130,4 @@ The category of the physical elements an object belongs to is determined by the 
 /q >}} -->
 
 
-{{< i s="/graphics/super/operative.svg" alt="Five layers of Superphysics" c="The 5 Layers have slightly different properties depending on the influence of the positive and negative forces" >}}
+{{< i s="/graphics/super/15layers.svg" alt="15 layers of Superphysics" c="The 5 Layers expand to 15 in totality and have slightly different properties depending on the influence of the positive and negative forces" >}}

@@ -9,8 +9,6 @@ a: "Seth"
 
 
 
-
-
 <!-- While my environment differs in rather important respects from that of my readers, I can assure you, with ironic understatement, that it is as vivid, varied, and vital as physical existence. It is more pleasurable – though my ideas of pleasure have changed some since I was a physical being – being more rewarding and offering far greater opportunities for creative achievement. -->
 
 My present existence is the most challenging one that I have known.

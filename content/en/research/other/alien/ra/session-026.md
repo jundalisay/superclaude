@@ -59,15 +59,24 @@ There have been many communications from fourth density due to the drawing towar
 The other teachings are reserved for those whose depth of understanding, if you will excuse this misnomer, recommend and attract such further communication.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Did the Confederation then step up its program of helping planet Earth sometimes, some time late in this last major cycle? It seems that they did from the previous data, especially with the Industrial Revolution. Can you tell me the attitudes and reasonings behind this step up? Is there any reason other than that they just wanted to produce more leisure time in the last, say, a hundred years of the cycle? Is this the total reason?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Did the Confederation then step up its program of helping planet Earth sometimes, some time late in this last major cycle? 
 
-{{< l a="Ra" >}}This is not the total reason. Approximately two zero zero [200] of your years in the past, as you measure time, there began to be a significant amount of entities who by seniority were incarnating for learn/teaching purposes rather than for the lesser of the learn/teachings of those less aware of the process. This was our signal to enable communication to take place.
+It seems that they did from the previous data, especially with the Industrial Revolution. 
 
-The Wanderers which came among you began to make themselves felt at approximately this time, firstly offering ideas or thoughts containing the distortion of free will. This was the prerequisite for further Wanderers which had information of a more specific nature to offer. The thought must precede the action.{{< /l >}}
+Can you tell me the attitudes and reasonings behind this step up? 
 
-{{< r a="Don Elkins" >}}Could you please make the instrument cough?{{< /r >}}
+Is there any reason other than that they just wanted to produce more leisure time in the last, say, a hundred years of the cycle? Is this the total reason?{{< /r >}}
 
-{{< l a="Ra" >}}[Cough.]{{< /l >}}
+{{< l a="Ra" >}}
+This is not the total reason. Approximately 200 years ago, many entities who by seniority were incarnating for learn/teaching purposes rather than for the lesser of the learn/teachings of those less aware of the process. 
+
+This was our signal to enable communication to take place.
+
+The Wanderers which came among you began to make themselves felt at approximately this time, firstly offering ideas or thoughts containing the distortion of free will. 
+
+This was the prerequisite for further Wanderers which had information of a more specific nature to offer. The thought must precede the action.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Was Abraham Lincoln a Wanderer?{{< /r >}}
 
@@ -222,4 +231,3 @@ Carla was able, as an example of this working, to baffle the Orion group during 
 {{< r a="Don Elkins" >}}Carla asks: How long do the debilitative effects that I am experiencing from LSD last?{{< /r >}}
 
 {{< l a="Ra" >}}The period of weakness is approximately 3 lunar cycles, the first ingestion causing approximately one of your lunar cycles; the second having a cumulative or doubling effect.{{< /l >}}
-

@@ -1,6 +1,6 @@
 ---
 heading: Session 24
-title: "Being Sick"
+title: "Yahweh and Yod Heh Shin Vau Heh"
 description: ""
 c: "indigo"
 a: Ra
@@ -12,109 +12,144 @@ tags: ['', '']
 
 February 15, 1981
 
-24.1 Questioner: The instrument has a slight congestion. If you can tell me of the suitability of this session at all, I would appreciate it.
 
-Ra:  This instrument’s vital energies of the physical complex are low. The session will be appropriately shortened.
+{{< r a="Don Elkins" >}}Carla has a slight congestion. Is it suitable to have this session at all?{{< /r >}}
 
-24.2 Questioner: She requests that you cause the instrument to cough about at least after each communication. 
+{{< l a="Ra" >}}Carla's vital energies of the physical complex are low. The session will be appropriately shortened.{{< /l >}}
 
-The way I intend to continue with the book is to follow on through the last 25,000-year cycle that we’re in now and possibly investigate a little of fourth-density conditions and thereby find many places that we can go back and delve further into the Law of One. The first material I expect to be not too deep with respect to the Law of One. I hope to get into greater philosophical areas of the Law of One in more advanced sessions so as to make the material progress so that it will be understandable. I hope that I’m following the right direction in this.
+{{< r a="Don Elkins" >}}She requests that you cause the instrument to cough about at least after each communication.
 
-In the last session you mentioned that during this last 25,000-year cycle the Atlanteans, Egyptians, and those in South America were contacted and then the Confederation departed. I understand the Confederation did not come back for some time. Could you tell me of the reasons, and consequences, and attitudes with respect to the next contact with those here on planet Earth?
+The way I intend to continue with the book is to follow on through the last 25,000-year cycle that we’re in now and possibly investigate a little of fourth-density conditions and thereby find many places that we can go back and delve further into the Law of One.
 
-Ra:  In the case of the Atlanteans, enlargements upon the information given resulted in those activities distorted towards bellicosity which resulted in the final second Atlantean catastrophe one zero eight two one [10,821] of your years in the past, as you measure time.
+The first material I expect to be not too deep with respect to the Law of One. I hope to get into greater philosophical areas of the Law of One in more advanced sessions so as to make the material progress so that it will be understandable.
 
-Many, many were displaced due to societal actions both upon Atlantis and upon those areas of what you would call North African deserts to which some Atlanteans had gone after the first conflict. Earth changes continued due to these, what you would call, nuclear bombs and other crystal weapons, sinking the last great land masses approximately nine six zero zero [9,600] of your years ago.
+During this last 25,000-year cycle the Atlanteans, Egyptians, and those in South America were contacted and then the Confederation departed.
 
-In the Egyptian and the South American experiments results, though not as widely devastating, were as far from the original intention of the Confederation. It was clear to not only us but also to the Council and the Guardians that our methods were not appropriate for this particular sphere.
+The Confederation did not come back for some time. Could you tell me of the reasons, and consequences, and attitudes with respect to the next contact with those here on Earth?{{< /r >}}
 
-Our attitude thus was one of caution, observation, and continuing attempts to creatively discover methods whereby contact from our entities could be of service with the least distortion and above all with the least possibility of becoming perversions or antitheses of our intentions in sharing information.
+{{< l a="Ra" >}}In the case of the Atlanteans, enlargements upon the information given resulted in those activities distorted towards bellicosity which resulted in the final second Atlantean catastrophe 10,821 years ago.
 
-24.5 Questioner: Could you have the instrument cough, please?
+Many, many were displaced due to societal actions both on:
+- Atlantis and
+- the North African deserts to which some Atlanteans had gone after the first conflict
 
-Ra: [Cough.]
+Earth changes continued due to these nuclear bombs and other crystal weapons which sank the last great land masses approximately 9,600 years ago.
 
-24.6 Questioner: Thank you. Then I assume the Confederation stayed away from Earth for a period of time. What condition created the next contact the Confederation made?
+The Egyptian and South American experiments were not as widely devastating.
 
-Ra:  In approximately three six zero zero [3,600] of your years in the past, as you measure time, there was an influx of those of the Orion group, as you call them. Due to the increasing negative influences upon thinking and acting distortions, they were able to begin working with those whose impression from olden times, as you may say, was that they were special and different.
+But were as far from the original intention of the Confederation.
 
-An entity of the Confederation, many, many thousands of your years in the past, the one you may call “Yahweh,” had, by genetic cloning, set up these particular biases among these peoples who had come gradually to dwell in the vicinity of Egypt, as well as in many, many other places, by dispersion after the down-sinking of the land mass Mu. Here the Orion group found fertile soil in which to plant the seeds of negativity, these seeds, as always, being those of the elite, the different, those who manipulate or enslave others.
+It was clear to not only us but also to the Council and the Guardians that our methods were not appropriate for this Planet.
 
-The one known as Yahweh felt a great responsibility to these entities. However, the Orion group had been able to impress upon the peoples the name Yahweh as the one responsible for this elitism. Yahweh then was able to take what you would call stock of its vibratory patterns and became, in effect, a more eloquently effective sound vibration complex.
+Our attitude thus was one of caution, observation, and continuing attempts to creatively discover methods whereby contact from us could be of service with the least distortion and above all with the least possibility of becoming perversions or antitheses of our intentions in sharing information.{{< /l >}}
 
-In this complex the old Yahweh, now unnamed, but meaning “He comes,” began to send positively oriented philosophy. This was approximately, in your past, of two— we correct this instrument— three three zero zero [3,300] years. Thus, the intense portion of what has become known as Armageddon was joined.
+{{< r a="Don Elkins" >}}Then I assume the Confederation stayed away from Earth for a period of time. What condition created the next contact the Confederation made?{{< /r >}}
 
-24.7 Questioner: Could you create another cough for us, please?
+{{< l a="Ra" >}}3,600 years ago, there was an influx of the Orion group.
 
-Ra: [Cough.]
+Due to the increasing negative influences on thinking and acting distortions, they were able to begin working with those whose impression from olden times was that they were special and different.
 
-24.8 Questioner: Thank you. I have a question about how the Orion group got in 3,600 years ago. How did they get through the quarantine? Was that a random window effect?
+An entity of the Confederation, many, many thousands of your years in the past, the one you may call “Yahweh,” had, by genetic cloning, set up these particular biases among these peoples who had come gradually to dwell in the vicinity of Egypt, as well as in many, many other places, by dispersion after the down-sinking of the land mass Mu.
 
-Ra:  At that time this was not entirely so, as there was a proper calling for this information. When there is a mixed calling the window effect is much more put into motion by the ways of the densities.
+Here, the Orion group found fertile soil to plant the seeds of negativity.
 
-The quarantine in this case was, shall we say, not patrolled so closely, due to the lack of strong polarity, the windows thus needing to be very weak in order for penetration. As your harvest approaches, those forces of what you would call light work according to their call. The ones of Orion have the working only according to their call. This calling is in actuality not nearly as great.
+These seeds were those of the elite, the different, those who manipulate or enslave others.
 
-Thus, due to the way of empowering or squares there is much resistance to penetration. Yet free will must be maintained and those desiring negatively oriented information, as you would call it, must then be satisfied by those moving through by the window effect. [Cough.]
+Yahweh felt a great responsibility to these entities.
 
-24.9 Questioner: Then Yahweh, in an attempt to correct what he saw as what I might call a mistake (I know you don’t want to call it that), started 3,300 years ago with the positive philosophy. Were both the Orion and Yahweh philosophies impressed telepathically, or were there other techniques used?
+However, the Orion group had been able to impress on the peoples that Yahweh was the one responsible for this elitism.
 
-Ra:  There were two other techniques used: one by the entity no longer called Yahweh, who still felt that if it could raise up entities which were superior to the negative forces, that these superior entities could spread the Law of One. Thus this entity, “Yod Heh Shin Vau Heh,” came among your people in form according to incarnate being and mated in the normal reproductive manner of your physical complexes, thus birthing a generation of much larger beings, these beings called “Anak.”
+Yahweh then was able to take a stock of its vibratory patterns and became a more eloquently effective sound vibration complex.
 
-The other method used to greater effect later in the scenario, as you would call it, was the thought-form such as we often use among your peoples to suggest the mysterious or the sublime. You may be familiar with some of these appearances.
+In this complex, the old Yahweh, now unnamed, but meaning “He comes,” began to send positively oriented philosophy.
 
-24.10 Questioner: Could you state some of those after making the instrument cough, please?
+This was approximately 3,300 years ago. Thus, the intense portion of what has become Armageddon was joined.{{< /l >}}
 
-Ra: [Cough.] I am Ra. This is information which you may discover. However, we will briefly point the way by indicating the so-called wheel within a wheel and the cherubim with sleepless eye.
+{{< r a="Don Elkins" >}}I have a question about how the Orion group got in 3,600 years ago. How did they get through the quarantine? Was that a random window effect?{{< /r >}}
 
-24.11 Questioner: Very good. Did the Orion group use similar methods for their impression 3,600 years ago?
+{{< l a="Ra" >}}At that time this was not entirely so, as there was a proper calling for this information.
 
-Ra:  The group or empire had an emissary in your skies at that time.
+When there is a mixed calling the window effect is much more put into motion by the ways of the densities.
 
-24.12 Questioner: Can you describe that emissary?
+The quarantine in this case was not patrolled so closely due to the lack of strong polarity, the windows thus needing to be very weak in order for penetration.
 
-Ra: This emissary was of your fiery nature which was hidden by the nature of cloud in the day. This was to obliterate the questions of those seeing such a vehicle and to make it consonant with these entities’ concept of what you may call the Creator.
+As your harvest approaches, those forces of what you would call light work according to their call.
 
-24.13 Questioner: And then how was the impression or information passed on to the entities after they saw this fiery cloud?
+The ones of Orion have the working only according to their call. This calling is in actuality not nearly as great.
 
-Ra:  By thought transfer and by the causing of fiery phenomena and other events to appear as being miraculous through the use of thought-forms.
+Thus, due to the way of empowering or squares there is much resistance to penetration.
 
-24.14 Questioner: Then were there any prophets that we have now recorded that sprung from this era or soon after it?
+Yet free will must be maintained and those desiring negatively oriented information, as you would call it, must then be satisfied by those moving through by the window effect.{{< /l >}}
 
-Ra:  Those of the empire were not successful in maintaining their presence for long after the approximate three zero zero zero [3,000] date in your history and were, perforce, left with the decision to physically leave the skies. The so-called prophets were often given mixed information, but the worst that the Orion group could do was to cause these prophets to speak of doom, as prophecy in those days was the occupation of those who love their fellow beings and wish only to be of service to them and to the Creator.
+{{< r a="Don Elkins" >}}Then Yahweh, in an attempt to correct what he saw was a mistake, started 3,300 years ago with the positive philosophy.
 
-24.15 Questioner: After making the instrument cough…
+Were both the Orion and Yahweh philosophies impressed telepathically, or were there other techniques used?{{< /r >}}
 
-Ra: [Cough.]
+{{< l a="Ra" >}}There were 2 other techniques used:
 
-24.16 Questioner: …could you tell me if you’re saying the Orion group was successful in polluting, shall we say, some of the positively oriented prophets with messages of doom?
+1. The later Yahweh who still felt that if it could raise up entities which were superior to the negative forces, that these superior entities could spread the Law of One.
 
-Ra:  This is correct. Your next query shall be the last full query for this session.
+Thus this entity, “Yod Heh Shin Vau Heh,” came among your people as an incarnate being.
 
-24.17 Questioner: Could you tell me why the Orion group had to leave after, I believe, it figures to be a six-hundred-year period, why they had to vacate?
+He mated in the normal reproductive manner birthing a generation of much larger beings called “Anak.”
 
-Ra:  Although the impression that they had given to those who called them [was] that these entities were an elite group, that which you know as “Diaspora” occurred, causing much dispersion of these peoples so that they became an humbler and more honorable breed, less bellicose and more aware of the loving-kindness of the One Creator.
+The other method used to greater effect later in the scenario, as you would call it, was the thought-form such as we often use among your peoples to suggest the mysterious or the sublime.{{< /l >}}
 
-The creation about them tended towards being somewhat bellicose, somewhat oriented towards the enslavement of others, but they themselves, the target of the Orion group by means of their genetic superiority/weakness, became what you may call the underdogs, thereby letting the feelings of gratitude for their neighbors, their family, and their One Creator begin to heal the feelings of elitism which led to the distortions of power over others which had caused their own bellicosity.
+{{< r a="Don Elkins" >}}Could you state some of those please?{{< /r >}}
 
-Any short queries may be asked now.
+{{< l a="Ra" >}}Examples are the so-called wheel within a wheel and the cherubim with sleepless eye.{{< /l >}}
 
-24.18 Questioner: There’s one thing that’s been bothering me a little bit which I was just reading about…
+{{< r a="Don Elkins" >}}Did the Orion group use similar methods for their impression 3,600 years ago?{{< /r >}}
 
-Ra: [Cough.]
+{{< l a="Ra" >}}The group or empire had an emissary in your skies at that time.
 
-24.19 Questioner: …It’s not too important, but I would really be interested to know if Dwight Eisenhower met with either the Confederation or the Orion group during the 1950s or that time?
+It was of your fiery nature which was hidden by the clouds in the day.
 
-Ra:  The one of which you speak met with thought-forms which are indistinguishable from third density. This was a test. We, the Confederation, wished to see what would occur if this extremely positively oriented and simple congenial person with no significant distortions towards power happened across peaceful information and the possibilities which might append therefrom. We discovered that this entity did not feel that those under his care could deal with the concepts of other beings and other philosophies. Thus an agreement reached then allowed him to go his way, ourselves to do likewise; and a very quiet campaign, as we have heard you call it, be continued alerting your peoples to our presence gradually. Events have overtaken this plan.
+This was to obliterate the questions of those seeing such a vehicle and to make it consonant with these entities’ concept of what you may call the Creator.{{< /l >}}
 
-[Cough.] Is there any short query before we close?
+{{< r a="Don Elkins" >}}And then how was the impression or information passed on to the entities after they saw this fiery cloud?{{< /r >}}
 
-24.20 Questioner: The only other question that went with that is: was there a crashed spaceship and are there small bodies now stored in our military installations?
+{{< l a="Ra" >}}By thought transfer and by the causing of fiery phenomena and other events to appear as being miraculous through the use of thought-forms.{{< /l >}}
 
-Ra:  We do not wish to infringe upon your future. Gave we you this information, we might be giving you more than you could appropriately deal with in the space/time nexus of your present somewhat muddled configuration of military and intelligence thought. Therefore, we shall withhold this information.
+{{< r a="Don Elkins" >}}Then were there any prophets that we have now recorded that sprung from this era or soon after it?{{< /r >}}
 
-24.21 Questioner: OK. Sorry to bother you with these type of questions…
+{{< l a="Ra" >}}Those of the empire were not successful in maintaining their presence for long after the 3,000 date in your history and were, perforce, left with the decision to physically leave the skies.
 
-Ra: [Cough.]
+The so-called prophets were often given mixed information.
 
-24.22 Questioner: …but they were just bothering me. We will continue in our next session with the Law of One and keep that uppermost in the scope of the book and try to get more deeply into the philosophy as we build a framework for reference to the philosophy. Thank you very much.
+But the worst that the Orion group could do was to cause these prophets to speak of doom, as prophecy in those days was the occupation of those who love their fellow beings and wish only to be of service to them and to the Creator.{{< /l >}}
+
+{{< r a="Don Elkins" >}}So the Orion group was successful in polluting some of the positively oriented prophets with messages of doom?{{< /r >}}
+
+{{< l a="Ra" >}}Yes{{< /l >}}
+
+{{< r a="Don Elkins" >}}Could you tell me why the Orion group had to leave after a 600 year period?{{< /r >}}
+
+{{< l a="Ra" >}}They made the people believe that they were an elite group.
+
+Yet the “Diaspora” occurred, causing much dispersion of these peoples.
+
+This made them a humbler and more honorable breed, less bellicose and more aware of the loving-kindness of the One Creator.
+
+Those around them tended towards being somewhat bellicose, somewhat oriented towards the enslavement of others.
+
+But they themselves, the target of the Orion group by means of their genetic superiority/weakness, became the underdogs.
+
+This led to feelings of gratitude for their neighbors, their family, and their One Creator.
+
+This began to heal the feelings of elitism which led to the distortions of power over others which had caused their own bellicosity.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Did Dwight Eisenhower meet with either the Confederation or the Orion group during the 1950s or that time?{{< /r >}}
+
+{{< l a="Ra" >}}The one of which you speak met with thought-forms which are indistinguishable from third density. This was a test.
+
+We, the Confederation, wished to see what would occur if this extremely positively oriented and simple congenial person with no significant distortions towards power happened across peaceful information and the possibilities which might append therefrom.
+
+We discovered that he did not feel that those under his care could deal with the concepts of other beings and other philosophies.
+
+Thus an agreement reached then allowed him to go his way, ourselves to do likewise; and a very quiet campaign, as we have heard you call it, be continued alerting your peoples to our presence gradually. Events have overtaken this plan.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Was there a crashed spaceship and are there small bodies now stored in our military installations?{{< /r >}}
+
+{{< l a="Ra" >}}If we answered, we might be giving you more than you could appropriately deal with in your present muddled configuration of military and intelligence thought. Therefore, we shall withhold this information.{{< /l >}}
 

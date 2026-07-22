@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1660"
+   height="810"
+   viewBox="0 0 1660 810"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="operative2.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.2702364"
+     inkscape:cx="963.20654"
+     inkscape:cy="418.03242"
+     inkscape:window-width="2160"
+     inkscape:window-height="1404"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker13"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#8d0900;fill-opacity:1;stroke:#9f00d3;stroke-width:10.7388;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-6"
+       width="402.65552"
+       height="207.35417"
+       x="546.00128"
+       y="453.46573"
+       inkscape:label="crude" />
+    <rect
+       style="fill:#566fea;fill-opacity:1;stroke:#9f00d3;stroke-width:8.2224;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="866.19489"
+       height="56.508495"
+       x="546.38599"
+       y="167.27827" />
+    <rect
+       style="fill:#087932;fill-opacity:1;stroke:#9f00d3;stroke-width:8.22239;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06"
+       width="866.19489"
+       height="56.508495"
+       x="545.95734"
+       y="229.63107" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="-254.50247"
+       y="484.647"
+       id="text2-0"
+       transform="rotate(-90.060549)"
+       inkscape:transform-center-x="-191.03205"
+       inkscape:transform-center-y="96.174756"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         x="-254.50247"
+         y="484.647"
+         style="font-size:37.3333px;fill:#db98ff;fill-opacity:1;stroke:none">POSITIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="-595.46631"
+       y="1490.7568"
+       id="text2-0-0"
+       transform="rotate(-90.060549)"
+       inkscape:transform-center-x="-191.03205"
+       inkscape:transform-center-y="96.174756"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-2"
+         x="-595.46631"
+         y="1490.7568"
+         style="font-size:37.3333px;fill:#ff6099;fill-opacity:1;stroke:none">NEGATIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="-258.95352"
+       y="1614.2036"
+       id="text4"
+       transform="rotate(-90.347394)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="-258.95352"
+         y="1614.2036"
+         style="font-size:24px;fill:#ffffff;fill-opacity:1;stroke:none">Metaphysical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="-408.79553"
+       y="1550.2733"
+       id="text4-2"
+       transform="rotate(-90.347394)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9"
+         x="-408.79553"
+         y="1550.2733"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">Self-Perspective</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="1023.9138"
+       y="768.72046"
+       id="text4-2-8"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8"
+         x="1023.9138"
+         y="768.72046"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">Universe-Perspective</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="709.25598"
+       y="705.45367"
+       id="text4-2-8-4"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4"
+         x="709.25598"
+         y="705.45367"
+         style="font-size:37.3333px;fill:#edc5ff;fill-opacity:1;stroke:none">Mental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:0.9;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="397.27081"
+       y="741.98761"
+       id="text4-2-8-4-5"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3"
+         x="397.27081"
+         y="741.98761"
+         style="font-size:32px;line-height:0.9;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">Perception </tspan><tspan
+         sodipodi:role="line"
+         x="397.27081"
+         y="770.7876"
+         style="font-size:32px;line-height:0.9;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan1">Density</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="386.45456"
+       y="199.56184"
+       id="text4-2-8-4-5-9"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1"
+         x="386.45456"
+         y="199.56184"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="380.93533"
+       y="259.1055"
+       id="text4-2-8-4-5-9-0"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-2"
+         x="380.93533"
+         y="259.1055"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="1002.5314"
+       y="704.08795"
+       id="text4-2-8-4-1"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-7"
+         x="1002.5314"
+         y="704.08795"
+         style="font-size:37.3333px;fill:#c5e4ff;fill-opacity:1;stroke:none">Biological</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="1271.2909"
+       y="704.73761"
+       id="text4-2-8-4-2"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-1"
+         x="1271.2909"
+         y="704.73761"
+         style="font-size:37.3333px;fill:#ff93a7;fill-opacity:1;stroke:none">Physical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="-509.2659"
+       y="1616.4656"
+       id="text4-7"
+       transform="rotate(-90.347394)"><tspan
+         sodipodi:role="line"
+         id="tspan4-3"
+         x="-509.2659"
+         y="1616.4656"
+         style="font-size:24px;fill:#ffffff;fill-opacity:1;stroke:none">Physical     Quasiphysical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="697.06018"
+       y="130.86087"
+       id="text4-7-1"
+       transform="rotate(-0.61409858)"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-5"
+         x="697.06018"
+         y="130.86087"
+         style="font-size:24px;fill:#fac2ff;fill-opacity:1;stroke:none">Positive-Positive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="1171.4427"
+       y="121.04377"
+       id="text4-7-1-6"
+       transform="rotate(-0.61409858)"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-5-7"
+         x="1171.4427"
+         y="121.04377"
+         style="font-size:24px;text-align:start;text-anchor:start;fill:#ff89c0;fill-opacity:1;stroke:none">Negative-Negative </tspan><tspan
+         sodipodi:role="line"
+         x="1171.4427"
+         y="151.04376"
+         style="font-size:24px;text-align:start;text-anchor:start;fill:#ff89c0;fill-opacity:1;stroke:none"
+         id="tspan7">Non-Living Things</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="991.91138"
+       y="113.97714"
+       id="text4-7-1-6-6"
+       transform="rotate(-0.61409858)"
+       inkscape:transform-center-x="-922.22369"
+       inkscape:transform-center-y="-343.85769"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-5-7-3"
+         x="991.91138"
+         y="113.97714"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#89b4ff;fill-opacity:1;stroke:none">Positive-Negative</tspan><tspan
+         sodipodi:role="line"
+         x="991.91138"
+         y="143.97714"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#89b4ff;fill-opacity:1;stroke:none"
+         id="tspan7-9">Living Things</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff7dab;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="1552.7006"
+       y="292.96497"
+       id="text4-7-5-9"
+       transform="rotate(15.898803)"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-9-1"
+         x="1552.7006"
+         y="292.96497"
+         style="font-size:32px;fill:#ff7dab;fill-opacity:1;stroke:none">creation</tspan></text>
+    <rect
+       style="fill:#bfb300;fill-opacity:1;stroke:#9f00d3;stroke-width:8.22932;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-4"
+       width="867.76239"
+       height="56.501564"
+       x="545.2605"
+       y="293.9227" />
+    <rect
+       style="fill:#ea8056;fill-opacity:1;stroke:#9f00d3;stroke-width:5.97413;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-9"
+       width="294.80753"
+       height="87.644402"
+       x="544.52228"
+       y="358.25543" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="702.74512"
+       y="212.54408"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="702.74512"
+         y="212.54408"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Causal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="704.98395"
+       y="274.96774"
+       id="text2-93"><tspan
+         sodipodi:role="line"
+         id="tspan2-1"
+         x="704.98395"
+         y="274.96774"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Essential</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="699.04565"
+       y="337.25409"
+       id="text2-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-4"
+         x="699.04565"
+         y="337.25409"
+         style="font-size:42.6667px;fill:#ffffff;fill-opacity:1;stroke:none">Astral</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="700.0675"
+       y="421.44855"
+       id="text2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         x="700.0675"
+         y="421.44855"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Subtle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="703.82556"
+       y="557.68927"
+       id="text2-6"
+       inkscape:label="mat"><tspan
+         sodipodi:role="line"
+         id="tspan2-10"
+         x="703.82556"
+         y="557.68927"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Crude</tspan></text>
+    <rect
+       style="fill:#8d0900;fill-opacity:1;stroke:#0042d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-6-4"
+       width="283.85397"
+       height="59.885357"
+       x="843.29236"
+       y="607.29224" />
+    <rect
+       style="fill:#566fea;fill-opacity:1;stroke:#0043d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5"
+       width="283.85397"
+       height="59.885357"
+       x="842.88232"
+       y="354.12897" />
+    <rect
+       style="fill:#087932;fill-opacity:1;stroke:#0045d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-2"
+       width="283.85397"
+       height="59.885357"
+       x="843.40875"
+       y="414.06412" />
+    <rect
+       style="fill:#bfb300;fill-opacity:1;stroke:#0066d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-4-5"
+       width="283.85397"
+       height="59.885357"
+       x="843.89899"
+       y="476.96878" />
+    <rect
+       style="fill:#ea8056;fill-opacity:1;stroke:#0055d3;stroke-width:5.06716;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-9-4"
+       width="286.26743"
+       height="64.933723"
+       x="843.90332"
+       y="540.24768" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="996.74664"
+       y="400.81308"
+       id="text2-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-44"
+         x="996.74664"
+         y="400.81308"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Aether ⽔</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="992.05652"
+       y="463.24832"
+       id="text2-93-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-1-0"
+         x="992.05652"
+         y="463.24832"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Air 木</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="992.11133"
+       y="527.90808"
+       id="text2-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-4-8"
+         x="992.11133"
+         y="527.90808"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Fire 火</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1000.8919"
+       y="591.34448"
+       id="text2-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-8"
+         x="1007.1319"
+         y="591.34448"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Water 士 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="996.26978"
+       y="654.60028"
+       id="text2-6-8"
+       inkscape:label="mat"><tspan
+         sodipodi:role="line"
+         id="tspan2-10-4"
+         x="996.26978"
+         y="654.60028"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Earth 金</tspan></text>
+    <rect
+       style="fill:#8d0900;fill-opacity:1;stroke:#d30072;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-6-9"
+       width="283.85397"
+       height="59.885357"
+       x="1131.1302"
+       y="606.60535" />
+    <rect
+       style="fill:#566fea;fill-opacity:1;stroke:#d3005c;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-2"
+       width="283.85397"
+       height="59.885357"
+       x="1130.7202"
+       y="353.83572" />
+    <rect
+       style="fill:#087932;fill-opacity:1;stroke:#d30052;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-0"
+       width="283.85397"
+       height="59.885357"
+       x="1131.2467"
+       y="414.95172" />
+    <rect
+       style="fill:#bfb300;fill-opacity:1;stroke:#d30035;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-06-4-6"
+       width="283.85397"
+       height="59.885357"
+       x="1130.9497"
+       y="475.88824" />
+    <rect
+       style="fill:#ea8056;fill-opacity:1;stroke:#d30007;stroke-width:5.04383;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-9-8"
+       width="283.53537"
+       height="64.957054"
+       x="1130.9634"
+       y="538.5708" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1265.6904"
+       y="403.27521"
+       id="text2-92"><tspan
+         sodipodi:role="line"
+         id="tspan2-66"
+         x="1265.6904"
+         y="403.27521"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Aethereal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1276.3518"
+       y="465.3168"
+       id="text2-93-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-1-9"
+         x="1276.3518"
+         y="465.3168"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Spatial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1273.2576"
+       y="526.82751"
+       id="text2-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-4-0"
+         x="1273.2576"
+         y="526.82751"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Radiant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1276.2224"
+       y="590.46661"
+       id="text2-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-87"
+         x="1276.2224"
+         y="590.46661"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Convertible</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="540.38165"
+       y="-49.573189"
+       id="text4-7-5"
+       transform="rotate(22.512851)"
+       inkscape:label="real"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-9"
+         x="540.38165"
+         y="-49.573189"
+         style="font-size:32px;fill:#ffffff;fill-opacity:1;stroke:none">realization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+       x="1272.2988"
+       y="653.51978"
+       id="text2-6-1"
+       inkscape:label="mat"><tspan
+         sodipodi:role="line"
+         id="tspan2-10-7"
+         x="1272.2988"
+         y="653.51978"
+         style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Material</tspan></text>
+    <path
+       style="fill:#800000;fill-opacity:1;stroke:#f1b4ff;stroke-width:4.06805;stroke-dasharray:12.2042, 12.2042;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 1426.6683,518.53287 524.15303,192.58309"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#800000;fill-opacity:1;stroke:#ff91a8;stroke-width:4.14191;stroke-dasharray:12.4257, 12.4257;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-2)"
+       d="m 517.06818,337.61452 909.06852,328.2688"
+       id="path6-1"
+       inkscape:transform-center-x="-2.4964716"
+       inkscape:transform-center-y="330.74462"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.001;stroke-dasharray:10.002, 30.006;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1965.6539,447.93722 -48.74611,443.98483"
+       id="path7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.02481;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9)"
+       d="m 1231.8419,756.24303 106.9029,-0.46036"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:1.95597;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9-9)"
+       d="m 804.96272,749.81536 -140.75106,0.19981"
+       id="path8-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13)"
+       d="M 1544.0659,237.14322 V 122.524"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13-8)"
+       d="m 1544.0963,550.63123 0.5217,114.61804"
+       id="path10-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="379.95239"
+       y="331.8822"
+       id="text4-2-8-4-5-9-3"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-6"
+         x="379.95239"
+         y="331.8822"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">4-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="381.02414"
+       y="455.05322"
+       id="text4-2-8-4-5-9-3-8-1"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-6-5-5"
+         x="381.02414"
+         y="455.05322"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">3</tspan><tspan
+         sodipodi:role="line"
+         x="381.02414"
+         y="501.71985"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan6" /><tspan
+         sodipodi:role="line"
+         x="381.02414"
+         y="548.38654"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan5">2</tspan><tspan
+         sodipodi:role="line"
+         x="381.02414"
+         y="595.05316"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan8" /><tspan
+         sodipodi:role="line"
+         x="381.02414"
+         y="641.71979"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan3">1</tspan></text>
+  </g>
+</svg>
