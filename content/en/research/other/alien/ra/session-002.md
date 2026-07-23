@@ -3,7 +3,7 @@ heading: Session 2
 title: "History of Ra: Akhenaten"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 5
 date: 1981-01-20
 tags: ['pyramids', 'crystal healing']

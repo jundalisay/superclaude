@@ -3,7 +3,8 @@ heading: Session 78
 title: "The Matrix"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 218
 date: 1981-01-24
 tags: ['', '']
 ---

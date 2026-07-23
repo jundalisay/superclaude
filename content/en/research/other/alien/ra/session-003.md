@@ -3,7 +3,7 @@ heading: Session 3
 title: "Pyramids"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 7
 date: 1981-01-21
 tags: ['pyramids', 'capstones']

@@ -3,7 +3,8 @@ heading: Session 46
 title: "The Catalyst"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 120
 date: 1981-01-24
 tags: ['']
 ---
@@ -13,11 +14,18 @@ tags: ['']
 April 15, 1981
 
 
-## Session 46
+{{< l a="Ra" >}}
+Carla has extremely low physical energy and is under attack. 
 
-{{< l a="Ra" >}}Carla has extremely low physical energy and is under attack. This will continue for some of your weeks. However, her vital energy is gradually restoring its former level.{{< /l >}}
+This will continue for some of your weeks. However, her vital energy is gradually restoring its former level.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I got this question in my meditation and it is bothering us: the two cats which we were going to take to have worked upon today for teeth cleaning and the small growth removed from Gandalf’s leg. I got the impression that there might be an inroad there for the Orion group, and I was primarily concerned about anything that we could do for protection for these two cats.{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+I got this question in my meditation and it is bothering us: the two cats which we were going to take to have worked upon today for teeth cleaning and the small growth removed from Gandalf’s leg. 
+
+I got the impression that there might be an inroad there for the Orion group, and I was primarily concerned about anything that we could do for protection for these two cats.
+{{< /r >}}
+
 
 {{< l a="Ra" >}}Gandalf is harvestable third density. He is open to the same type of psychic attack that you are.
 
@@ -78,9 +86,6 @@ Control is the key to negatively polarized use of catalyst. Acceptance is the ke
 {{< r a="Don Elkins" >}}What is the plan for use of the catalyst of cancer?{{< /r >}}
 
 {{< l a="Ra" >}}The catalyst, and all catalyst, is designed to offer experience. This experience in your density may be loved and accepted or it may be controlled. These are the two paths. When neither path is chosen the catalyst fails in its design and the entity proceeds until catalyst strikes it which causes it to form a bias towards acceptance and love or separation and control. There is no lack of space/time in which this catalyst may work.{{< /l >}}
-
-
-
 
 
 

@@ -3,7 +3,7 @@ heading: Session 36
 title: "Mind Body Spirit"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 86
 date: 1981-01-24
 tags: ['', '']

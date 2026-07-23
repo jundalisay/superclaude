@@ -3,7 +3,7 @@ heading: Session 29
 title: "Crystals"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 66
 date: 1981-01-24
 tags: ['', '']

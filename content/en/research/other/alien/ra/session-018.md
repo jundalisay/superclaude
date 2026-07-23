@@ -3,7 +3,7 @@ heading: Session 18
 title: "LSD and Aleister Crowley"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 44
 date: 1981-02-03
 tags: ['lsd', 'Aleister Crowley', 'anunnaki']

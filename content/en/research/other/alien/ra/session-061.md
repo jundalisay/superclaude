@@ -3,13 +3,18 @@ heading: Session 61
 title: "Cycling instreamings of energy"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 165
 date: 1981-01-24
 tags: ['', '']
 ---
 
 
 July 8, 1981
+
+
+Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the initial numbers:
+
 
 
 61.3 Questioner: Can you expand on what you meant by the “cycling instreamings of energy?”

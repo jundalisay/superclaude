@@ -3,7 +3,7 @@ heading: Session 100
 title: "Semjase"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 290
 date: 1981-01-15
 tags: ['']

@@ -3,7 +3,8 @@ heading: Session 65
 title: "Medicine"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 177
 date: 1981-01-24
 tags: ['', '']
 ---

@@ -3,7 +3,7 @@ heading: Session 12
 title: "Orion Crusaders and Wanderers"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 29
 date: 1981-01-24
 tags: ['Wanderers', 'ufo']

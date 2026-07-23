@@ -3,7 +3,7 @@ heading: Session 16
 title: "Guardians"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 40
 date: 1981-01-31
 tags: ['10 Commandments', 'Yahweh']

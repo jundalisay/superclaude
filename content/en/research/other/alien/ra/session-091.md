@@ -3,7 +3,8 @@ heading: Session 91
 title: "Archetypes"
 description: ""
 c: "indigo"
-a: Ra
+weight: 258
+image: /covers/ra.jpg
 date: 1981-01-24
 tags: ['archetype']
 ---
@@ -11,218 +12,189 @@ tags: ['archetype']
 
 June 26, 1982
 
-91.2 Questioner: I have listed the different minds. First, we have the cosmic mind which is, I would think, the same for all sub-Logo[i] like our sun. 
-
-The sub-Logos such as our sun, then, in creating Its own particular evolution of experience, refines the cosmic mind or, shall we say, articulates it by Its own additional bias or biases. 
-
-Ra:  It is a correct observation with the one exception that concerns the use of the term “addition,” which suggests the concept of that which is more than the all-mind. Instead, the archetypical mind is a refinement of the all-mind in a pattern peculiar to the sub-Logos choosing.
 
 
-91.4 Questioner: Then the very next refinement that occurs as the cosmic mind is refined is what we call the archetypical mind. 
+## Session 91
 
-This then creates, I would assume, the planetary or racial mind. Is this correct?
+{{< r a="Don Elkins" >}}I have listed the different minds. First, we have the cosmic mind which is, I would think, the same for all sub-Logo[i] like our sun.
 
-Ra:  No.
+The sub-Logos such as our sun, then, in creating Its own particular evolution of experience, refines the cosmic mind or, shall we say, articulates it by Its own additional bias or biases.{{< /r >}}
 
-91.6 Questioner: What is the origin of the planetary or racial mind?
+{{< l a="Ra" >}}It is a correct observation with the one exception that concerns the use of the term “addition,” which suggests the concept of that which is more than the all-mind. Instead, the archetypical mind is a refinement of the all-mind in a pattern peculiar to the sub-Logos choosing.{{< /l >}}
 
-Ra:  This racial or planetary mind is, for this Logos, a repository of biases remembered by the mind/body/spirit complexes which have enjoyed the experience of this planetary influence.
+{{< r a="Don Elkins" >}}Then the very next refinement that occurs as the cosmic mind is refined is what we call the archetypical mind.
 
+This then creates, I would assume, the planetary or racial mind. Is this correct?{{< /r >}}
 
-91.7 Questioner: Some entities on this planet evolved through second density into third and some were transferred from other planets to re-cycle in third density here. 
+{{< l a="Ra" >}}No.{{< /l >}}
 
-Did the ones who were transferred here to re-cycle in third density add to the planetary or racial mind?
+{{< r a="Don Elkins" >}}What is the origin of the planetary or racial mind?{{< /r >}}
 
+{{< l a="Ra" >}}This racial or planetary mind is, for this Logos, a repository of biases remembered by the mind/body/spirit complexes which have enjoyed the experience of this planetary influence.{{< /l >}}
 
-Ra: Not only did each race add to the planetary mind but also each race possesses a racial mind. 
+{{< r a="Don Elkins" >}}Some entities on this planet evolved through second density into third and some were transferred from other planets to re-cycle in third density here.
 
-Thus we made this distinction in discussing this portion of mind. This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.
+Did the ones who were transferred here to re-cycle in third density add to the planetary or racial mind?{{< /r >}}
 
-<!-- We must ask your patience at this time. This channel has become somewhat unclear due to the movement of the cover which touches this instrument. We ask that the opening sentences be repeated and the breath expelled.
+{{< l a="Ra" >}}Not only did each race add to the planetary mind but also each race possesses a racial mind.
 
-[The microphones attached to the cover upon the instrument were pulled slightly as a rug was being placed over a noisy tape recorder. The Circle of One was walked; breath was expelled two feet above the instrument’s head from her right to her left; and the Circle of One was walked again as requested.]
+Thus we made this distinction in discussing this portion of mind. This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.{{< /l >}}
 
-I am Ra. We communicate now. -->
+{{< r a="Don Elkins" >}}What occurred when the microphone cords were slightly moved?{{< /r >}}
 
+{{< l a="Ra" >}}The link between the instrument’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred.
 
-<!-- 91.8 Questioner: Were we successful in re-establishing clear contact?
+This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of the instrument’s physical vehicle.{{< /l >}}
 
-Ra:  There was the misstep which then needed to be re-repeated. This was done. The communication is once again clear. We enjoyed the humorous aspects of the necessary repetitions. -->
+{{< r a="Don Elkins" >}}What kind of distortion?{{< /r >}}
 
-91.9 Questioner: What occurred when the microphone cords were slightly moved?
+{{< l a="Ra" >}}The degree of distortion would depend upon the amount of neglect. The ultimate penalty for the disturbing of the physical vehicle is the death as congestive heart failure.
 
-Ra:  The link between the instrument’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred. 
+As the support group was prompt, there should be no distortion experienced by Carla.{{< /l >}}
 
-This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of the instrument’s physical vehicle.
+{{< r a="Don Elkins" >}}Why does such a very minor effect like the slight movement of the microphone cord result in this situation?{{< /r >}}
 
-
-91.10 Questioner: What kind of distortion?
-
-Ra:  The degree of distortion would depend upon the amount of neglect. The ultimate penalty for the disturbing of the physical vehicle is the death as congestive heart failure.
-
-As the support group was prompt, there should be no distortion experienced by Carla.
-
-
-91.11 Questioner: Why does such a very minor effect like the slight movement of the microphone cord result in this situation?
-
-
-<!-- We can only answer mechanically as there is no philosophy to the reflexes of physical vehicular function. -->
-
-Ra: There is the silver cord reflex.
+{{< l a="Ra" >}}There is the silver cord reflex.
 
 When the mind/body/spirit complex dwells without the environs of the physical shell and the physical shell is disturbed, the physical shell will reflexively call back the absent enlivener.
 
-The mind/body/spirit complex which is connected with what may be metaphysically seen as what some of your philosophers have called the silver cord. 
+The mind/body/spirit complex which is connected with what may be metaphysically seen as what some of your philosophers have called the silver cord.
 
 If this is done suddenly the mind/body/spirit complex will attempt entry into the energy web of the physical vehicle without due care and the effect is as if one were to stretch one of your elastic bands and let it shrink rapidly.
 
 The resulting snap would strike hard at the anchored portion of the elastic band.
 
-The process through which you as a group go in recalling this instrument could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.
+The process through which you as a group go in recalling this instrument could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.{{< /l >}}
 
+{{< r a="Don Elkins" >}}Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet?{{< /r >}}
 
-91.12 Questioner: Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet? 
+{{< l a="Ra" >}}There are correctnesses to your supposition.
 
-Ra:  There are correctnesses to your supposition. 
-
-However, not all races and sub-races are of various planetary origins. 
+However, not all races and sub-races are of various planetary origins.
 
 In looking at planetary origins, do not look at skin color but:
 - the biases on interactions with other-selves and
-- definitions regarding the nature of the self.
+- definitions regarding the nature of the self.{{< /l >}}
 
+{{< r a="Don Elkins" >}}How many different planets have supplied the individuals that now inhabit Earth in this 3rd density?{{< /r >}}
 
-91.13 Questioner: How many different planets have supplied the individuals that now inhabit Earth in this 3rd density?
+{{< l a="Ra" >}}This is unimportant harmless information.
 
-Ra: This is unimportant harmless information.
+There are 3 major planetary influences besides those of your own 2nd-density derivation, and 13 minor planetary groups in addition to the above.{{< /l >}}
 
-There are 3 major planetary influences besides those of your own 2nd-density derivation, and 13 minor planetary groups in addition to the above.
+{{< r a="Don Elkins" >}}Do all Logo evolving after the veil have 22 archetypes?{{< /r >}}
 
+{{< l a="Ra" >}}No.{{< /l >}}
 
-91.14 Questioner: Do all Logo evolving after the veil have 22 archetypes?
+{{< r a="Don Elkins" >}}Is it common for Logo[i] to have 22 archetypes or is this relatively unique with respect to our Logos?{{< /r >}}
 
-Ra:  No.
+{{< l a="Ra" >}}The system of sevens is the most articulated system yet discovered by any experiment by any Logos in our octave.{{< /l >}}
 
-91.15 Questioner: Is it common for Logo[i] to have 22 archetypes or is this relatively unique with respect to our Logos?
+{{< r a="Don Elkins" >}}What is the largest number of archetypes, to Ra’s knowledge, used by a Logos?{{< /r >}}
 
-Ra:  The system of sevens is the most articulated system yet discovered by any experiment by any Logos in our octave.
+{{< l a="Ra" >}}The sevens plus The Choice is the greatest number which has been used, by our knowledge, by Logoi. It is the result of many, many previous experiments in articulation of the One Creator.{{< /l >}}
 
+{{< r a="Don Elkins" >}}I assume that 22 is the greatest number of archetypes. I’ll also ask what is the minimum number presently in use by any Logos to Ra’s knowledge?{{< /r >}}
 
-91.16 Questioner: What is the largest number of archetypes, to Ra’s knowledge, used by a Logos?
+{{< l a="Ra" >}}The fewest are the 2 systems of 5 which are completing the cycles or densities of experience.
 
-
-Ra:  The sevens plus The Choice is the greatest number which has been used, by our knowledge, by Logoi. It is the result of many, many previous experiments in articulation of the One Creator.
-
-
-91.17 Questioner: I assume that 22 is the greatest number of archetypes. I’ll also ask what is the minimum number presently in use by any Logos to Ra’s knowledge?
-
-Ra:  The fewest are the 2 systems of 5 which are completing the cycles or densities of experience.
-
-The archetypes were not developed at once but step by step, and not in order as you know the order at this space/time but in various orders. 
+The archetypes were not developed at once but step by step, and not in order as you know the order at this space/time but in various orders.
 
 Therefore, the two systems of fives were using two separate ways of viewing the archetypical nature of all experience. Each, of course, used the Matrix, the Potentiator, and the Significator for this is the harvest with which our creation began.
 
-One way or system of experimentation had added to these the Catalyst and the Experience. Another system if you will, had added Catalyst and Transformation. In one case the methods whereby experience was processed was further aided but the fruits of experience less aided. In the second case the opposite may be seen to be the case.
+One way or system of experimentation had added to these the Catalyst and the Experience. Another system if you will, had added Catalyst and Transformation. In one case the methods whereby experience was processed was further aided but the fruits of experience less aided. In the second case the opposite may be seen to be the case.{{< /l >}}
 
+{{< r a="Don Elkins" >}}The Matrix of the Mind is depicted in the Egyptian tarot by a male. This we take as creative energy intelligently directed.{{< /r >}}
 
-91.18 Questioner: The Matrix of the Mind is depicted in the Egyptian tarot by a male. This we take as creative energy intelligently directed. 
+{{< l a="Ra" >}}This is an extremely thoughtful perception seeing as it does the male not specifically as biological male but as a male principle.
 
-Ra:  This is an extremely thoughtful perception seeing as it does the male not specifically as biological male but as a male principle. 
+There are very definite sexual biases in the images.
 
-There are very definite sexual biases in the images. 
+They are intended to function both as information as to which biological entity or energy will attract which archetype but also as a more general view which sees polarity as a key to the archetypical mind of third density.{{< /l >}}
 
-They are intended to function both as information as to which biological entity or energy will attract which archetype but also as a more general view which sees polarity as a key to the archetypical mind of third density.
+{{< r a="Don Elkins" >}}We have the wand which has been seen as the power of will.{{< /r >}}
 
+{{< l a="Ra" >}}The concept of will is pouring forth from each facet of the image of the Matrix of the Mind.
 
-91.19 Questioner: We have the wand which has been seen as the power of will.
+The wand as the will, however, is, shall we say, an astrological derivative of the out-reaching hand forming the, shall we say, magical gesture.
 
-Ra:  The concept of will is pouring forth from each facet of the image of the Matrix of the Mind. 
+The excellent portion of the image which may be seen distinctly as separate from the concept of the wand is that sphere which indicates the spiritual nature of the object of the will of one wishing to do magical acts within the manifestation of your density.{{< /l >}}
 
-The wand as the will, however, is, shall we say, an astrological derivative of the out-reaching hand forming the, shall we say, magical gesture. 
+{{< r a="Don Elkins" >}}The hand downward has been seen as seeking from within, not outwardly active dominance over the material world.{{< /r >}}
 
-The excellent portion of the image which may be seen distinctly as separate from the concept of the wand is that sphere which indicates the spiritual nature of the object of the will of one wishing to do magical acts within the manifestation of your density.
+{{< l a="Ra" >}}Does the hand reach within? Nay.
 
+Without potentiation the conscious mind has no inwardness. That hand, O student, reaches towards that which, outside its unpotentiated influence, is locked from it.{{< /l >}}
 
-91.20 Questioner: The hand downward has been seen as seeking from within, not outwardly active dominance over the material world.
+{{< r a="Don Elkins" >}}The square cage may represent the material illusion, an unmagical shape.{{< /r >}}
 
-Ra:  Does the hand reach within? Nay. 
+{{< l a="Ra" >}}The square, wherever seen, is the symbol of the third-density illusion and may be seen either as unmagical or, in the proper configuration, as having been manifested within; that is, the material world given life.{{< /l >}}
 
-Without potentiation the conscious mind has no inwardness. That hand, O student, reaches towards that which, outside its unpotentiated influence, is locked from it.
+{{< r a="Don Elkins" >}}The dark area around the square would then be the darkness of the subconscious mind.{{< /r >}}
 
+{{< l a="Ra" >}}There is no further thing to say to the perceptive student.{{< /l >}}
 
-91.21 Questioner: The square cage may represent the material illusion, an unmagical shape.
+{{< r a="Don Elkins" >}}The checkered portion would represent polarity?{{< /r >}}
 
-Ra:  The square, wherever seen, is the symbol of the third-density illusion and may be seen either as unmagical or, in the proper configuration, as having been manifested within; that is, the material world given life.
+{{< l a="Ra" >}}This also is satisfactory.{{< /l >}}
 
+{{< r a="Don Elkins" >}}The bird is a messenger that the hand is reaching down to unlock. Can Ra comment on that?{{< /r >}}
 
-91.22 Questioner: The dark area around the square would then be the darkness of the subconscious mind.
+{{< l a="Ra" >}}The wingèd visions or images in this system are to be noted not so much for their distinct kind as for the position of the wings. All birds are indeed intended to suggest flight, and messages, and movement, and in some cases, protection. The folded wing in this image is intended to suggest that just as the Matrix figure, the Magician, cannot act without reaching its wingèd spirit, so neither can the spirit fly lest it be released into conscious manifestation and fructified thereby.{{< /l >}}
 
-Ra:  There is no further thing to say to the perceptive student.
+{{< r a="Don Elkins" >}}The star could represent the potentiating force of the subconscious mind. Is this correct?{{< /r >}}
 
-91.23 Questioner: The checkered portion would represent polarity?
+{{< l a="Ra" >}}This particular part of this image is best seen in astrological terms. We would comment at this space/time that Ra did not include the astrological portions of these images in the system of images designed to evoke the archetypical leitmotifs.{{< /l >}}
 
-Ra:  This also is satisfactory.
+{{< r a="Don Elkins" >}}Are there any other additions to Card Number One other than the star that are of other than the basic archetypical aspects?{{< /r >}}
 
-91.24 Questioner: The bird is a messenger that the hand is reaching down to unlock. Can Ra comment on that?
+{{< l a="Ra" >}}There are details of each image seen through the cultural eye of the time of inscription. This is to be expected. Therefore, when viewing the, shall we say, Egyptian costumes and systems of mythology used in the images it is far better to penetrate to the heart of the costumes’ significance or the creatures’ significance rather than clinging to a culture which is not your own.
 
-Ra:  The wingèd visions or images in this system are to be noted not so much for their distinct kind as for the position of the wings. All birds are indeed intended to suggest flight, and messages, and movement, and in some cases, protection. The folded wing in this image is intended to suggest that just as the Matrix figure, the Magician, cannot act without reaching its wingèd spirit, so neither can the spirit fly lest it be released into conscious manifestation and fructified thereby.
+In each entity the image will resonate slightly differently. Therefore, there is the desire upon Ra’s part to allow for the creative envisioning of each archetype using general guidelines rather than specific and limiting definitions.{{< /l >}}
 
-91.25 Questioner: The star could represent the potentiating force of the subconscious mind. Is this correct?
+{{< r a="Don Elkins" >}}There is apparently a cup which we have as containing a mixture of positive and negative influences. However, I personally doubt this. Would Ra comment, please?{{< /r >}}
 
-Ra:  This particular part of this image is best seen in astrological terms. We would comment at this space/time that Ra did not include the astrological portions of these images in the system of images designed to evoke the archetypical leitmotifs.
+{{< l a="Ra" >}}Doubt not the polarity, O student, but release the cup from its stricture. It is indeed a distortion of the original image.{{< /l >}}
 
-91.26 Questioner: Are there any other additions to Card Number One other than the star that are of other than the basic archetypical aspects?
+{{< r a="Don Elkins" >}}What was the original image?{{< /r >}}
 
-Ra:  There are details of each image seen through the cultural eye of the time of inscription. This is to be expected. Therefore, when viewing the, shall we say, Egyptian costumes and systems of mythology used in the images it is far better to penetrate to the heart of the costumes’ significance or the creatures’ significance rather than clinging to a culture which is not your own.
+{{< l a="Ra" >}}The original image had the checkering as the suggestion of polarity.{{< /l >}}
 
-In each entity the image will resonate slightly differently. Therefore, there is the desire upon Ra’s part to allow for the creative envisioning of each archetype using general guidelines rather than specific and limiting definitions.
+{{< r a="Don Elkins" >}}Then was this a representation of the waiting polarity to be tasted by the Matrix of the Mind?{{< /r >}}
 
-91.27 Questioner: The cup may represent the mixture of positive and negative passions. Would Ra comment, please?
+{{< l a="Ra" >}}This is exquisitely perceptive.{{< /l >}}
 
-Ra:  The otic portions of this instrument’s physical vehicle did not perceive a significant portion of your query. Please re-query.
+{{< r a="Don Elkins" >}}I have listed here the sword as struggle. I am not sure that I even can call anything in this diagram a sword. Would Ra comment on that?{{< /r >}}
 
-91.28 Questioner: There is apparently a cup which we have as containing a mixture of positive and negative influences. However, I personally doubt this. Would Ra comment, please?
+{{< l a="Ra" >}}Doubt not the struggle, O student, but release the sword from its stricture. Observe the struggle of a caged bird to fly.{{< /l >}}
 
-Ra:  Doubt not the polarity, O student, but release the cup from its stricture. It is indeed a distortion of the original image.
+{{< r a="Don Elkins" >}}I have listed the coin as work accomplished. I am also in doubt about the existence of the coin in this diagram. Would Ra comment?{{< /r >}}
 
-91.29 Questioner: What was the original image?
+{{< l a="Ra" >}}Again, doubt not that which the coin is called to represent, for does not the Magus strive to achieve through the manifested world? Yet release the coin from its stricture.{{< /l >}}
 
-Ra:  The original image had the checkering as the suggestion of polarity.
+{{< r a="Don Elkins" >}}And finally, the Magician represents the conscious mind. Is this correct?{{< /r >}}
 
-91.30 Questioner: Then was this a representation of the waiting polarity to be tasted by the Matrix of the Mind?
+{{< l a="Ra" >}}We ask the student to consider the concept of the unfed conscious mind, the mind without any resource but consciousness. Do not confuse the unfed conscious mind with that mass of complexities which you as students experience, as you have so many, many times dipped already into the processes of potentiation, catalyst, experience, and transformation.{{< /l >}}
 
-Ra:  This is exquisitely perceptive.
+{{< r a="Don Elkins" >}}Are these all of the components, then, of this first archetype?{{< /r >}}
 
-91.31 Questioner: I have listed here the sword as struggle. I am not sure that I even can call anything in this diagram a sword. Would Ra comment on that?
+{{< l a="Ra" >}}These are all you, the student, sees. Thusly the complement is complete for you. Each student may see some other nuance. We, as we have said, did not offer these images with boundaries but only as guidelines intending to aid the adept and to establish the architecture of the deep, or archetypical, portion of the deep mind.{{< /l >}}
 
-Ra:  Doubt not the struggle, O student, but release the sword from its stricture. Observe the struggle of a caged bird to fly.
+{{< r a="Don Elkins" >}}How is a knowledge of the facets of the archetypical mind used by the individual to accelerate his evolution?{{< /r >}}
 
-91.32 Questioner: I have listed the coin as work accomplished. I am also in doubt about the existence of the coin in this diagram. Would Ra comment?
+{{< l a="Ra" >}}We shall offer an example based upon this first explored archetype or concept complex. The conscious mind of the adept may be full to bursting of the most abstruse and unmanageable of ideas, so that further ideation becomes impossible and work in blue ray or indigo is blocked through over-activation. It is then that the adept would call upon the new mind, untouched and virgin, and dwell within the archetype of the new and unblemished mind without bias, without polarity, full of the magic of the Logos.{{< /l >}}
 
-Ra:  Again, doubt not that which the coin is called to represent, for does not the Magus strive to achieve through the manifested world? Yet release the coin from its stricture.
+{{< r a="Don Elkins" >}}Then you are saying that, if I am correct in understanding what you have just said, that the conscious mind may be filled with an almost infinite number of concepts but there is a set of basic concepts which are what I would call important simply because they are the foundations for the evolution of consciousness, and will, if carefully applied, accelerate the evolution of consciousness, whereas the vast array of concepts, ideas, experiences that we meet in our daily lives may have little or no bearing upon the evolution of consciousness except in a very indirect way. In other words, what we are attempting to do here is find the great motivators of evolution and utilize them to move through our evolutionary track. Is this correct?{{< /r >}}
 
-91.33 Questioner: And finally, the Magician represents the conscious mind. Is this correct?
+{{< l a="Ra" >}}Not entirely. The archetypes are not the foundation for spiritual evolution but rather are the tool for grasping in an undistorted manner the nature of this evolution.{{< /l >}}
 
-Ra:  We ask the student to consider the concept of the unfed conscious mind, the mind without any resource but consciousness. Do not confuse the unfed conscious mind with that mass of complexities which you as students experience, as you have so many, many times dipped already into the processes of potentiation, catalyst, experience, and transformation.
+{{< r a="Don Elkins" >}}So for an individual who wishes to consciously augment his own evolution, an ability to recognize and utilize the archetypes would be beneficial in sorting out that which he wished to seek and that which he found— and that which would be found then as not as efficient a seeking tool. Would this be a good statement?{{< /r >}}
 
-91.34 Questioner: Are these all of the components, then, of this first archetype?
+{{< l a="Ra" >}}This is a fairly adequate statement. The term “efficient” might also fruitfully be replaced by the term “undistorted.” The archetypical mind, when penetrated lucidly, is a blueprint of the builded structure of all energy expenditures and all seeking, without distortion. This, as a resource within the deep mind, is of great potential aid to the adept.
 
-Ra:  These are all you, the student, sees. Thusly the complement is complete for you. Each student may see some other nuance. We, as we have said, did not offer these images with boundaries but only as guidelines intending to aid the adept and to establish the architecture of the deep, or archetypical, portion of the deep mind.
+We would ask for one more query at this space/time as this instrument is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while the instrument still possesses a sufficient amount of transferred energy to ease the transition to the waking state, if you would call it that.{{< /l >}}
 
-91.35 Questioner: How is a knowledge of the facets of the archetypical mind used by the individual to accelerate his evolution?
+{{< r a="Don Elkins" >}}Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make the instrument more comfortable?{{< /r >}}
 
-Ra:  We shall offer an example based upon this first explored archetype or concept complex. The conscious mind of the adept may be full to bursting of the most abstruse and unmanageable of ideas, so that further ideation becomes impossible and work in blue ray or indigo is blocked through over-activation. It is then that the adept would call upon the new mind, untouched and virgin, and dwell within the archetype of the new and unblemished mind without bias, without polarity, full of the magic of the Logos.
+{{< l a="Ra" >}}Each is most conscientious. The instrument might be somewhat more comfortable with the addition of the swirling of the waters with spine erect. All other things which can be performed for the instrument’s benefit are most diligently done. We commend the continual fidelity of the group to the ideals of harmony and thanksgiving. This shall be your great protection. All is well, my friends. The appurtenances and alignments are excellent.{{< /l >}}
 
-91.36 Questioner: Then you are saying that, if I am correct in understanding what you have just said, that the conscious mind may be filled with an almost infinite number of concepts but there is a set of basic concepts which are what I would call important simply because they are the foundations for the evolution of consciousness, and will, if carefully applied, accelerate the evolution of consciousness, whereas the vast array of concepts, ideas, experiences that we meet in our daily lives may have little or no bearing upon the evolution of consciousness except in a very indirect way. In other words, what we are attempting to do here is find the great motivators of evolution and utilize them to move through our evolutionary track. Is this correct?
-
-Ra:  Not entirely. The archetypes are not the foundation for spiritual evolution but rather are the tool for grasping in an undistorted manner the nature of this evolution.
-
-91.37 Questioner: So for an individual who wishes to consciously augment his own evolution, an ability to recognize and utilize the archetypes would be beneficial in sorting out that which he wished to seek and that which he found— and that which would be found then as not as efficient a seeking tool. Would this be a good statement?
-
-Ra:  This is a fairly adequate statement. The term “efficient” might also fruitfully be replaced by the term “undistorted.” The archetypical mind, when penetrated lucidly, is a blueprint of the builded structure of all energy expenditures and all seeking, without distortion. This, as a resource within the deep mind, is of great potential aid to the adept.
-
-We would ask for one more query at this space/time as this instrument is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while the instrument still possesses a sufficient amount of transferred energy to ease the transition to the waking state, if you would call it that.
-
-91.38 Questioner: Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make the instrument more comfortable?
-
-Ra:  Each is most conscientious. The instrument might be somewhat more comfortable with the addition of the swirling of the waters with spine erect. All other things which can be performed for the instrument’s benefit are most diligently done. We commend the continual fidelity of the group to the ideals of harmony and thanksgiving. This shall be your great protection. All is well, my friends. The appurtenances and alignments are excellent.

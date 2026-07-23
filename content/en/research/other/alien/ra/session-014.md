@@ -3,7 +3,7 @@ heading: Session 14
 title: "2nd and 3rd Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 34
 date: 1981-01-29
 tags: ['densities', '']

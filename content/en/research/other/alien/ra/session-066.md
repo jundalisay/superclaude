@@ -3,7 +3,8 @@ heading: Session 66
 title: "Prana"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 179
 date: 1981-01-24
 tags: ['', '']
 ---

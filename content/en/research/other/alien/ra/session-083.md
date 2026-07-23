@@ -3,7 +3,8 @@ heading: Session 83
 title: "Piercing the Veil"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 233
 date: 1981-01-24
 tags: ['', '']
 ---

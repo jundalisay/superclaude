@@ -3,8 +3,8 @@ heading: Session 95
 title: "Garlic"
 description: ""
 c: "indigo"
-a: Ra
-weight: 200
+image: /covers/ra.jpg
+weight: 270
 date: 1982-08-26
 ---
 

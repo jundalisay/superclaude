@@ -3,8 +3,8 @@ heading: Session 102
 title: "Proper Diet"
 description: ""
 c: "indigo"
-a: Ra
-weight: 290
+image: /covers/ra.jpg
+weight: 295
 date: 1981-01-15
 tags: ['diet']
 ---
@@ -12,112 +12,114 @@ tags: ['diet']
 
 
 March 22, 1983
+ 
 
 
 102.2 Questioner: Will Ra please tell us what caused the pain and cramping in the instrument’s stomach, and what could be done to heal it?
 
-Ra: In order to observe the cause of physical distortions toward illness one must look to the energy center which is blocked.
 
-The blockage was yellow-ray which caused a chemical body reaction. 
+## Session 102
 
-The so-called lacuna in the wind-written armor of light and love was closed and not only repaired but much improved. 
+{{< l a="Ra" >}}In order to observe the cause of physical distortions toward illness one must look to the energy center which is blocked.
 
-However, the distortions energized during this momentary lapse from free energy flow are serious and shall be continuing for, in all possibility/probability vortices, some of your space/time, for a predisposition to spasticity in the transverse colon has been energized. 
+The blockage was yellow-ray which caused a chemical body reaction.
 
-There is also pre-existing weakness in pancreatic function, especially that linked with the hypothalamus. There is also the pre-existing damage to portions of the liver. 
+The so-called lacuna in the wind-written armor of light and love was closed and not only repaired but much improved.
+
+However, the distortions energized during this momentary lapse from free energy flow are serious and shall be continuing for, in all possibility/probability vortices, some of your space/time, for a predisposition to spasticity in the transverse colon has been energized.
+
+There is also pre-existing weakness in pancreatic function, especially that linked with the hypothalamus. There is also the pre-existing damage to portions of the liver.
 
 These lacks or distortions manifest in that portion of the system directly proceeding from the jejunum. Further, there is some irritation closer to the duodenum which causes the instrument to fail in assimilating foodstuffs. This is an allopathically caused irritation.
 
-The diet is of central import. 
+The diet is of central import.
 
-We can go no further in observing the system of the entity as a full discussion of those distortions towards various weakness/strengths which contribute to the present difficulty begin with the lips and end with the anus. We may note that the instrument has remained centered upon the Creator at a percentage exceeding ninety. 
+We can go no further in observing the system of the entity as a full discussion of those distortions towards various weakness/strengths which contribute to the present difficulty begin with the lips and end with the anus. We may note that the instrument has remained centered upon the Creator at a percentage exceeding ninety.
 
 This is the key. Continue in thanksgiving and gratitude for all things.
 
-There are stronger anti-spasmodic drugs which the one not known to this instrument, but known as Arthur, may aid by the offering. The recommendation to do this, being as it is that which does not retain or remove life and does further remove from the instrument its opportunities for study in this situation, needs must be withheld. 
+There are stronger anti-spasmodic drugs which the one not known to this instrument, but known as Arthur, may aid by the offering. The recommendation to do this, being as it is that which does not retain or remove life and does further remove from the instrument its opportunities for study in this situation, needs must be withheld.
 
-We are not in a position to recommend treatment at this space/time beyond the watching of the types of foodstuffs ingested.
+We are not in a position to recommend treatment at this space/time beyond the watching of the types of foodstuffs ingested.{{< /l >}}
 
+{{< r a="Don Elkins" >}}I’m not quite sure I understood what you said. Can you give me the last name of this Arthur, and where he is located?{{< /r >}}
 
-102.3 Questioner: I’m not quite sure I understood what you said. Can you give me the last name of this Arthur, and where he is located?
+{{< l a="Ra" >}}Arthur Schoen is of your locality.{{< /l >}}
 
-Ra: Arthur Schoen is of your locality.
+{{< r a="Don Elkins" >}}What foods should the instrument eliminate from her diet in order to alleviate these painful attacks?{{< /r >}}
 
+{{< l a="Ra" >}}Bob has recommendations.
 
-102.5 Questioner: What foods should the instrument eliminate from her diet in order to alleviate these painful attacks?
+Further, all foodstuffs are to be cooked so that those things which are ingested be soft and easily macerated. There is a complex addiction, due to long-standing eating habits, to your sugars.
 
-Ra: Bob has recommendations. 
+It is to be recommended that, therefore, this sugar be given in its more concentrated form in your time of late afternoon, as you term it, with the ingestion of the sugared libation approximately one to two of your hours after the evening meal. It is further suggested that, since this instrument has been using sugars for carbohydrates, that a small amount of carbohydrate, low in sugar, be ingested approximately one to two of your hours before the sleeping period.{{< /l >}}
 
-Further, all foodstuffs are to be cooked so that those things which are ingested be soft and easily macerated. There is a complex addiction, due to long-standing eating habits, to your sugars. 
+{{< r a="Don Elkins" >}}As I understand what you say, the instrument is to have no sugar until late in the afternoon. Is that correct?{{< /r >}}
 
-It is to be recommended that, therefore, this sugar be given in its more concentrated form in your time of late afternoon, as you term it, with the ingestion of the sugared libation approximately one to two of your hours after the evening meal. It is further suggested that, since this instrument has been using sugars for carbohydrates, that a small amount of carbohydrate, low in sugar, be ingested approximately one to two of your hours before the sleeping period.
+{{< l a="Ra" >}}No. The concentrated sugar; that is, the dessert, the ice cream, the cookie, should be ingested at that time.
 
+Small amounts of the fructose, maple, or raw honey may be ingested periodically for, as we have said, the chemistry of this yellow-ray body is such that the sugar is being used by blood enzymes as would carbohydrates in a less distorted yellow-ray, physical vehicle.{{< /l >}}
 
-102.6 Questioner: As I understand what you say, the instrument is to have no sugar until late in the afternoon. Is that correct?
+{{< r a="Don Elkins" >}}I’m sorry that I am so slow at picking up precisely what we’re getting at here, but I want to be sure we get this right, so I’ll probably ask a few more stupid questions. Was the spasm that caused the extreme pain a spasm of the ileum?{{< /r >}}
 
-Ra:  No. The concentrated sugar; that is, the dessert, the ice cream, the cookie, should be ingested at that time. 
+{{< l a="Ra" >}}Partially. The transverse colon also spasmed, as did the ducts to the liver in its lower portion. There were also muscle spasms from the bronchial coverings down through the pelvis and from shoulder blades to hips. These sympathetic spasms are a symptom of the exhaustion of the entity’s physical vehicle.{{< /l >}}
 
-Small amounts of the fructose, maple, or raw honey may be ingested periodically for, as we have said, the chemistry of this yellow-ray body is such that the sugar is being used by blood enzymes as would carbohydrates in a less distorted yellow-ray, physical vehicle.
+{{< r a="Don Elkins" >}}Then these spasms, of course, were originally— the opening was made by yellow-ray blockage but these spasms then are triggered, I am assuming, by the foodstuff which has to do with the ingestion of sugar, as I understand it. Am I correct?{{< /r >}}
 
-102.8 Questioner: I’m sorry that I am so slow at picking up precisely what we’re getting at here, but I want to be sure we get this right, so I’ll probably ask a few more stupid questions. Was the spasm that caused the extreme pain a spasm of the ileum?
+{{< l a="Ra" >}}You are partially correct.{{< /l >}}
 
+{{< r a="Don Elkins" >}}Then what else causes the spasm?{{< /r >}}
 
-Ra:  Partially. The transverse colon also spasmed, as did the ducts to the liver in its lower portion. There were also muscle spasms from the bronchial coverings down through the pelvis and from shoulder blades to hips. These sympathetic spasms are a symptom of the exhaustion of the entity’s physical vehicle.
+{{< l a="Ra" >}}We speak of two types of cause. The first or proximate cause was a meal with too much oil and too large a burden of undercooked vegetable material. The sugar of the dessert and the few sips of your coffee mixture also were not helpful. The second cause— and this shall be stated clearly— is the energizing of any pre-existing condition in order to keep this group from functioning by means of removing the instrument from the ranks of those able to work with those of Ra.{{< /l >}}
 
-102.9 Questioner: Then these spasms, of course, were originally— the opening was made by yellow-ray blockage but these spasms then are triggered, I am assuming, by the foodstuff which has to do with the ingestion of sugar, as I understand it. Am I correct?
+{{< r a="Don Elkins" >}}Now, is there— the two areas then that the instrument can look to for curing this problem… I understand that the yellow-ray blockage problem has completely repaired, shall I say. If this is not correct, could you make suggestions on that, please?{{< /r >}}
 
-Ra:  You are partially correct.
+{{< l a="Ra" >}}Each entity must, in order to completely unblock yellow ray, love all which are in relationship to it, with hope only of the other-selves’ joy, peace, and comfort.{{< /l >}}
 
-102.10 Questioner: Then what else causes the spasm?
+{{< r a="Don Elkins" >}}The second thing that the instrument must do to effect this cure is to be careful of diet which includes all that Ra has just stated and what Bob recommends from his readings. There seem to be so many different things that could cause this spasm. I was just wondering if there is a general approach to foods.
 
-Ra:  We speak of two types of cause. The first or proximate cause was a meal with too much oil and too large a burden of undercooked vegetable material. The sugar of the dessert and the few sips of your coffee mixture also were not helpful. The second cause— and this shall be stated clearly— is the energizing of any pre-existing condition in order to keep this group from functioning by means of removing the instrument from the ranks of those able to work with those of Ra.
+Could Ra recommend, say, those foods the instrument could eat that would have no chance of creating the problem that caused the spasm. Could Ra do that, please?{{< /r >}}
 
-102.11 Questioner: Now, is there— the two areas then that the instrument can look to for curing this problem… I understand that the yellow-ray blockage problem has completely repaired, shall I say. If this is not correct, could you make suggestions on that, please?
+{{< l a="Ra" >}}No.{{< /l >}}
 
-Ra:  Each entity must, in order to completely unblock yellow ray, love all which are in relationship to it, with hope only of the other-selves’ joy, peace, and comfort.
+{{< r a="Don Elkins" >}}Is this because of the first distortion?{{< /r >}}
 
-102.12 Questioner: The second thing that the instrument must do to effect this cure is to be careful of diet which includes all that Ra has just stated and what Bob recommends from his readings. There seem to be so many different things that could cause this spasm. I was just wondering if there is a general approach to foods. 
+{{< l a="Ra" >}}No.{{< /l >}}
 
-Could Ra recommend, say, those foods the instrument could eat that would have no chance of creating the problem that caused the spasm. Could Ra do that, please?
+{{< r a="Don Elkins" >}}Why cannot Ra do that?{{< /r >}}
 
-Ra:  No.
+{{< l a="Ra" >}}There are no foods which this instrument can take with total confidence that no spasm shall occur. The spasming portions of the vehicle have become sensitized through great distortions towards that which you call pain.{{< /l >}}
 
-102.13 Questioner: Is this because of the first distortion?
+{{< r a="Don Elkins" >}}Is there a group of foods which is most likely not to cause the spasming condition or any foods that Ra could mention that are highly probable not to cause spasm?{{< /r >}}
 
-Ra:  No.
+{{< l a="Ra" >}}Yes.{{< /l >}}
 
-102.14 Questioner: Why cannot Ra do that?
+{{< r a="Don Elkins" >}}Would Ra please mention which foods are highly probable in not causing any spasming in the instrument’s digestive system?{{< /r >}}
 
-Ra:  There are no foods which this instrument can take with total confidence that no spasm shall occur. The spasming portions of the vehicle have become sensitized through great distortions towards that which you call pain.
+{{< l a="Ra" >}}The liquids not containing carbonation, the well-cooked vegetable which is most light and soft, the well-cooked grains, the non-fatted meat such as the fish. You may note that some recommended foodstuffs overlap allergies and sensitivities due to the juvenile rheumatoid arthritic distortions. Further, although sugar such as is in your sweetened desserts represents a potential, we may suggest that it be included at this period for aforementioned reasons.{{< /l >}}
 
-102.15 Questioner: Is there a group of foods which is most likely not to cause the spasming condition or any foods that Ra could mention that are highly probable not to cause spasm?
+{{< r a="Don Elkins" >}}Would Ra please estimate the length of time in our time periods for the probability of this problem, if we follow these curative measures, for the probability of this problem to continue in any extreme severity?{{< /r >}}
 
-Ra:  Yes.
+{{< l a="Ra" >}}
+One of your moon’s revolutions has a good possibility/probability vortex of seeing either the worsening of the spastic condition so that surgery becomes indicated or the bettering of the situation so that the diet continues to be watched but the spasms be removed. The housing of the working is within the infection within the duodenum, the stomach, the jejunum, the ileum, the transverse colon, and portions of the liver. This shall be somewhat difficult to remove and constitutes perhaps the most efficient working to date. We may suggest, again, that the one known as Bob may be of aid. The one known as Stuart could, if it wished, discover the infection which is only marginally detectable but may prefer not to do so. In this case it would be well to request physical aid from an allopathic specialist such as that which has been mentioned.{{< /l >}}
 
-102.16 Questioner: Would Ra please mention which foods are highly probable in not causing any spasming in the instrument’s digestive system?
+{{< r a="Don Elkins" >}}Do you mean by that Arthur Schoen?{{< /r >}}
 
-Ra:  The liquids not containing carbonation, the well-cooked vegetable which is most light and soft, the well-cooked grains, the non-fatted meat such as the fish. You may note that some recommended foodstuffs overlap allergies and sensitivities due to the juvenile rheumatoid arthritic distortions. Further, although sugar such as is in your sweetened desserts represents a potential, we may suggest that it be included at this period for aforementioned reasons.
+{{< l a="Ra" >}}That is correct.{{< /l >}}
 
-102.17 Questioner: Would Ra please estimate the length of time in our time periods for the probability of this problem, if we follow these curative measures, for the probability of this problem to continue in any extreme severity?
+{{< r a="Don Elkins" >}}You mentioned the possibility of surgery. What would be the surgery to be done, specifically?{{< /r >}}
 
-Ra:  One of your moon’s revolutions has a good possibility/probability vortex of seeing either the worsening of the spastic condition so that surgery becomes indicated or the bettering of the situation so that the diet continues to be watched but the spasms be removed. The housing of the working is within the infection within the duodenum, the stomach, the jejunum, the ileum, the transverse colon, and portions of the liver. This shall be somewhat difficult to remove and constitutes perhaps the most efficient working to date. We may suggest, again, that the one known as Bob may be of aid. The one known as Stuart could, if it wished, discover the infection which is only marginally detectable but may prefer not to do so. In this case it would be well to request physical aid from an allopathic specialist such as that which has been mentioned.
+{{< l a="Ra" >}}The body cannot long bear the extreme acidity which is the environment of such spasms and will develop the holes or ulcerations which then do appear upon the allopathic testings and suggest to the chirurgeon that which is to be excised.{{< /l >}}
 
-102.18 Questioner: Do you mean by that Arthur Schoen?
+{{< r a="Don Elkins" >}}In other words, the removal of ulcers. Would this be a duodenic ulcer? Would this be the type of operation that you would perform for a duodenic ulcer?{{< /r >}}
 
-Ra:  That is correct.
+{{< l a="Ra" >}}If the ulceration occurs, it shall be past the jejunum, and most likely include the ileum and upper portions of the transverse colon.
 
-102.19 Questioner: You mentioned the possibility of surgery. What would be the surgery to be done, specifically?
+May we ask for one more query of normal length as this entity, though filled with enough transferred energy, has the most fragile framework through which we may channel this and our energies.{{< /l >}}
 
-Ra:  The body cannot long bear the extreme acidity which is the environment of such spasms and will develop the holes or ulcerations which then do appear upon the allopathic testings and suggest to the chirurgeon that which is to be excised.
+{{< r a="Don Elkins" >}}Obviously we would very much like to not get to the point of surgery, and the only other alternative that comes to mind other than the diet and the instrument’s personal mental work is healing through a healer, and I would like Ra’s recommendation with respect to a non-allopathic type healer and any recommendations Ra could make for either Jim or myself to act in that capacity or anyone else Ra could recommend so that we wouldn’t have to go through this surgical operation if it seems to become necessary and if we could start working on one of these other approaches right away I think it might be highly recommended. Would Ra comment on that, please?{{< /r >}}
 
-102.20 Questioner: In other words, the removal of ulcers. Would this be a duodenic ulcer? Would this be the type of operation that you would perform for a duodenic ulcer?
+{{< l a="Ra" >}}We salute the opening of compassion circuitry in the questioner but note that that which is being experienced by this group is being experienced within an healing atmosphere.
 
-Ra:  If the ulceration occurs, it shall be past the jejunum, and most likely include the ileum and upper portions of the transverse colon.
+The healing hands of each have limited use when the distortion has so many metaphysical layers and mixtures. Therefore, look not to a healing but to the joy of companionship, for each is strong and has its feet set upon the way. The moon casts its shadows. What shall you see? Link hands and walk towards the sun. In this instance this is the greatest healing. For the physical vehicle we can suggest far less than you had hoped.{{< /l >}}
 
-May we ask for one more query of normal length as this entity, though filled with enough transferred energy, has the most fragile framework through which we may channel this and our energies.
-
-102.21 Questioner: Obviously we would very much like to not get to the point of surgery, and the only other alternative that comes to mind other than the diet and the instrument’s personal mental work is healing through a healer, and I would like Ra’s recommendation with respect to a non-allopathic type healer and any recommendations Ra could make for either Jim or myself to act in that capacity or anyone else Ra could recommend so that we wouldn’t have to go through this surgical operation if it seems to become necessary and if we could start working on one of these other approaches right away I think it might be highly recommended. Would Ra comment on that, please?
-
-Ra: We salute the opening of compassion circuitry in the questioner but note that that which is being experienced by this group is being experienced within an healing atmosphere.
-
-The healing hands of each have limited use when the distortion has so many metaphysical layers and mixtures. Therefore, look not to a healing but to the joy of companionship, for each is strong and has its feet set upon the way. The moon casts its shadows. What shall you see? Link hands and walk towards the sun. In this instance this is the greatest healing. For the physical vehicle we can suggest far less than you had hoped.

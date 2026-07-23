@@ -3,7 +3,7 @@ heading: Session 9
 title: "Martians and Big Foot"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 21
 date: 1981-01-24
 tags: ['Mars', 'bigfoot']

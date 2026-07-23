@@ -3,7 +3,7 @@ heading: Session 11
 title: "Genghis Khan and The Orion Group"
 description: "Genghis Khan is now a shipping clerk in the Orion system"
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 26
 date: 1981-01-24
 tags: ['Genghis Khan', '']

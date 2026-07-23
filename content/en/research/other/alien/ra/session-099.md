@@ -3,8 +3,8 @@ heading: Session 99
 title: "Entities"
 description: ""
 c: "indigo"
-a: Ra
-weight: 200
+image: /covers/ra.jpg
+weight: 283
 date: 1982-08-26
 ---
 

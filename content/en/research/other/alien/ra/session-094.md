@@ -3,9 +3,9 @@ heading: Session 94
 title: "Carla"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 tags: ['']
-weight: 200
+weight: 268
 date: 1982-08-26
 ---
 

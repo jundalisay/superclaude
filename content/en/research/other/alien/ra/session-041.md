@@ -3,7 +3,7 @@ heading: Session 41
 title: "The Sun"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 102
 date: 1981-01-24
 tags: ['', '']

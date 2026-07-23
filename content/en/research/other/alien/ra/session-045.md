@@ -3,7 +3,8 @@ heading: Session 45
 title: "Wanderers"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 116
 date: 1981-01-24
 tags: ['Wanderers', '']
 ---
@@ -12,7 +13,6 @@ tags: ['Wanderers', '']
 April 6, 1981
 
 
-## Session 45
 
 {{< l a="Ra" >}}Carla’s bodily condition is extremely poor as she is not rested. However, she was eager for our contact.{{< /l >}}
 
@@ -61,5 +61,5 @@ All sixth density and all brother and sister groups due to the unified feeling t
 {{< l a="Ra" >}}The basic purpose of a social memory complex is that of evolution. Beyond a certain point the evolution of spirit is quite dependent upon the understanding of self and other-self as Creator. This constitutes the basis for social complexes. When brought to maturity, they become social memory complexes. The fourth density and sixth density find these quite necessary.
 
 The fifth positive uses social memory in attaining wisdom, though this is done individually. In fifth negative much is done without aid of others.
+{{< /l >}}
 
-This is the last query as this instrument needs to be protected from depletion.{{< /l >}}

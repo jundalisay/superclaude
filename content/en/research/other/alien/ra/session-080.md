@@ -3,7 +3,8 @@ heading: Session 80
 title: "Hierophant"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 224
 date: 1981-01-24
 tags: ['Hierophant', '']
 ---

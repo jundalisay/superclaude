@@ -3,7 +3,7 @@ heading: Session 6
 title: "Spiritual Body Energy"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 13
 date: 1981-01-24
 tags: ['healing', '']

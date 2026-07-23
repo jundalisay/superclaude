@@ -3,7 +3,7 @@ heading: Session 39
 title: "The Nine"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 96
 date: 1981-01-24
 tags: ['', '']

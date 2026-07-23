@@ -3,7 +3,7 @@ heading: Session 31
 title: "Sexual Energy Transfer"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 72
 date: 1981-01-24
 tags: ['', '']

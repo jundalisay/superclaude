@@ -3,7 +3,8 @@ heading: Session 87
 title: "Fourth-density negative entity"
 description: ""
 c: "indigo"
-a: Ra
+weight: 245
+image: /covers/ra.jpg
 date: 1981-01-24
 tags: ['']
 ---

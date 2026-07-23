@@ -3,7 +3,7 @@ heading: Session 27
 title: "Book 2"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 62
 date: 1981-01-24
 tags: ['', '']

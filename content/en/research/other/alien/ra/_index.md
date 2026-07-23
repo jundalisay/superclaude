@@ -3,5 +3,6 @@ title: "Ra (Venusians)"
 linkTitle: Ra
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+image: /covers/ra.jpg
 ---

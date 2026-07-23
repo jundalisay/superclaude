@@ -3,7 +3,7 @@ heading: Session 17
 title: "4th Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 42
 date: 1981-02-03
 tags: ['densities', '']

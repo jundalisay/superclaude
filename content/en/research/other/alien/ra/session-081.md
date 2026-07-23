@@ -3,7 +3,8 @@ heading: Session 81
 title: "Vital Energy"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 227
 date: 1981-01-24
 tags: ['Hierophant', '']
 ---
@@ -11,6 +12,10 @@ tags: ['Hierophant', '']
 
 
 March 22, 1982
+
+
+Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the initial numbers:
+
 
 81.1 Questioner: Could you first please tell me the condition of the instrument?
 

@@ -3,7 +3,7 @@ heading: Session 23
 title: "Pyramid Healing"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 55
 date: 1981-01-24
 tags: ['pyramid healing', '']

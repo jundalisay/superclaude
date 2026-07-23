@@ -3,7 +3,7 @@ heading: Session 8
 title: "Alien Craft"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 19
 date: 1981-01-24
 tags: ['ufo', '']

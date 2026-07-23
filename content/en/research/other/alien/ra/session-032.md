@@ -3,7 +3,7 @@ heading: Session 32
 title: "Creator"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 74
 date: 1981-01-24
 tags: ['', '']

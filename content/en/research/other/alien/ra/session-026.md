@@ -3,7 +3,7 @@ heading: Session 26
 title: "The Bible"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 60
 date: 1981-01-24
 tags: ['', '']

@@ -3,7 +3,7 @@ heading: Session 28
 title: "Love"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 64
 date: 1981-01-24
 tags: ['', '']

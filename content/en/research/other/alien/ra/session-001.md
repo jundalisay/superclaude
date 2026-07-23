@@ -3,7 +3,8 @@ heading: Session 1
 title: "Ra"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+image: /covers/ra.jpg
 weight: 3
 date: 1981-01-15
 ---

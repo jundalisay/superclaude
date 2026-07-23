@@ -3,7 +3,8 @@ heading: Session 43
 title: "Pain in 4th Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 110
 date: 1981-01-24
 tags: ['Orion', '']
 ---
@@ -13,29 +14,28 @@ March 24, 1981
 
 
 
-## Session 43
+{{< l a="Ra" >}}
+Please adjust, without the touching Carla's body, the item which presses on her head. This is causing some interference with our contact.
 
-{{< l a="Ra" >}}Before we communicate may we request the adjustment, without the touching of this instrument’s physical body complex, of the item which presses upon the instrument’s head. This is causing some interference with our contact.{{< /l >}}
+There is a line of interference crossing the crown of the head.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is that the pillow or something else? Do you… do you speak of the pillow under the neck?{{< /r >}}
+{{< r a="Don Elkins" >}}Is it this? [A two inch fold in the sheet is located three inches from the crown of the instrument’s head and is laid flat on the bed.] 
+{{< /r >}}
 
-{{< l a="Ra" >}}There is a line of interference crossing the crown of the head.{{< /l >}}
+{{< l a="Ra" >}}yes. Please increase the distance from the crown of the head.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is it this? [A two inch fold in the sheet is located three inches from the crown of the instrument’s head and is laid flat on the bed.] Is that it?{{< /r >}}
-
-{{< l a="Ra" >}}This is correct. Please increase the distance from the crown of the head.{{< /l >}}
 
 {{< r a="Don Elkins" >}}[Ruffles in the sheet are smoothed all along the length of the sheet next to the instrument’s head.] Is that satisfactory?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am sorry that we failed to notice that.{{< /r >}}
+{{< r a="Don Elkins" >}}
+The parts removed in cattle mutilations are the same every time.
 
-{{< l a="Ra" >}}We communicate now.{{< /l >}}
+Was this related to the energy centers and why they were important if that was so?{{< /r >}}
 
-{{< r a="Don Elkins" >}}I’ll just try to pick up the last question left over from the last session. If you can answer it— I don’t know if it is of any importance, but it just occurred to me that the parts removed in cattle mutilations are the same every time, and I just wondered if this was related to the energy centers and why they were important if that was so?{{< /r >}}
-
-{{< l a="Ra" >}}This is basically correct if you may understand that there is a link between energy centers and various thought-forms. Thus the fears of the mass consciousness create the climate for the concentration upon the removal of bodily parts which symbolize areas of concern or fear in the mass consciousness.{{< /l >}}
+{{< l a="Ra" >}}
+This is basically correct if you may understand that there is a link between energy centers and various thought-forms. Thus the fears of the mass consciousness create the climate for the concentration upon the removal of bodily parts which symbolize areas of concern or fear in the mass consciousness.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Are you saying, then, that these parts that are removed are related to the mass consciousness of the third-density human form on the planet and this fear is being used in some way by the second-density entities or, correction, the thought-form entities that do the mutilations?{{< /r >}}
 

@@ -1,4 +1,11 @@
-Epilogue to Book IV
+---
+title: "Epilogue to Book IV"
+description: ""
+c: "indigo"
+image: /covers/ra.jpg
+image: /covers/ra.jpg
+---
+
 
 
 After 106 sessions the Ra contact ended with Don Elkins’ death on November 7, 1984, after a year of declining health. L/L Research no longer works with Ra nor the trance state but now channels other Confederation sources. 

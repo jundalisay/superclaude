@@ -3,7 +3,8 @@ heading: Session 88
 title: "The Archetypal Mind"
 description: ""
 c: "indigo"
-a: Ra
+weight: 248
+image: /covers/ra.jpg
 date: 1981-01-24
 tags: ['archetype']
 ---

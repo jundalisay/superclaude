@@ -3,7 +3,8 @@ heading: Session 84
 title: "Jesus"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 237
 date: 1981-01-24
 tags: ['orgasm', 'tantra']
 ---

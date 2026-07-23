@@ -3,7 +3,7 @@ heading: Session 33
 title: "Color Therapy"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 78
 date: 1981-01-24
 tags: ['color therapy', '']

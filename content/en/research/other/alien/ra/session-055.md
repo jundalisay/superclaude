@@ -3,7 +3,8 @@ heading: Session 55
 title: "The King's Chamber and Healing"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 146
 date: 1981-01-24
 tags: ['pyramids', '']
 ---
@@ -18,15 +19,51 @@ June 5, 1981
 
 {{< r a="Don Elkins" >}} How can we alleviate this psychic attack or help Carla?{{< /r >}}
 
-{{< l a="Ra" >}}She appreciates each entity’s caring. A caring atmosphere offers the greatest contrast to the discomfort of such psychic attacks, being the reciprocal, that is, the atmosphere of psychic support. This each of you do as a subconscious function of true attitudinal, mental, emotional, and spiritual distortions towards this instrument. There is no magic greater than honest distortion toward love.{{< /l >}}
+{{< l a="Ra" >}}She appreciates each entity’s caring. 
 
-{{< r a="Don Elkins" >}} I want to ask a couple questions about previous material that I didn’t understand. I’m hoping that this will clear up my understanding somewhat with respect to the mental configurations with which we have been dealing. You stated, “However, this is a risk for the Orion entities due to the frequency with which the harvestable negative planetary entities then attempt to bid or order the Orion contact just as these entities bid planetary negative contacts.” Can you explain the mechanisms that affect polarization in consciousness with respect to this statement?{{< /r >}}
+A caring atmosphere offers the greatest contrast to the discomfort of such psychic attacks, being the reciprocal, that is, the atmosphere of psychic support. This each of you do as a subconscious function of true attitudinal, mental, emotional, and spiritual distortions towards this instrument. There is no magic greater than honest distortion toward love.{{< /l >}}
 
-{{< l a="Ra" >}} The negative polarization is greatly aided by the subjugation or enslavement of other-selves. The potential between two negatively polarized entities is such that the entity which enslaves the other or bids the other gains in negative polarity. The entity so bidden or enslaved, in serving an other-self, will necessarily lose negative polarity although it will gain in desire for further negative polarization. This desire will then tend to create opportunities to regain negative polarity.{{< /l >}}
 
-{{< r a="Don Elkins" >}} The third-density entity on this planet calls an Orion Crusader. Is this a polarizing type of action that affects both entities?{{< /r >}}
 
-{{< l a="Ra" >}} This is incorrect. The calling mechanism is not congruent at all with the bidding mechanism. In the calling, the entity which calls is a suppliant neophyte asking for aid in negative understanding, if you may excuse this misnomer. The Orion response increases its negative polarity as it is disseminating the negative philosophy, thereby enslaving or bidding the entity calling. There are instances, however, when the contact becomes a contest which is prototypical of negativity. In this contest, the caller will attempt, not to ask for aid, but to demand results. Since the third-density negatively oriented harvestable entity has at its disposal an incarnative experiential nexus and since Orion Crusaders are, in a great extent, bound by the first distortion in order to progress, the Orion entity is vulnerable to such bidding if properly done. In this case, the third-density entity becomes master and the Orion Crusader becomes entrapped and can be bid. This is rare. However, when it has occurred, the Orion entity or social memory complex involved has experienced loss of negative polarity in proportion to the strength of the bidding third-density entity.{{< /l >}}
+{{< r a="Don Elkins" >}}
+You stated, “However, this is a risk for the Orion entities due to the frequency with which the harvestable negative planetary entities then attempt to bid or order the Orion contact just as these entities bid planetary negative contacts.” 
+
+Can you explain the mechanisms that affect polarization in consciousness?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The negative polarization is greatly aided by the subjugation or enslavement of other-selves. 
+
+The potential between two negatively polarized entities is such that the entity which enslaves the other or bids the other gains in negative polarity. 
+
+The entity so bidden or enslaved, in serving an other-self, will necessarily lose negative polarity although it will gain in desire for further negative polarization. 
+
+This desire will then tend to create opportunities to regain negative polarity.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+The 3rd-density entity on this planet calls an Orion Crusader. Is this a polarizing type of action that affects both entities?
+{{< /r >}}
+
+
+{{< l a="Ra" >}} 
+This is incorrect. 
+
+The calling mechanism is not congruent at all with the bidding mechanism. 
+
+In the calling, the entity which calls is a suppliant neophyte asking for aid in negative understanding, if you may excuse this misnomer. 
+
+The Orion response increases its negative polarity as it is disseminating the negative philosophy, thereby enslaving or bidding the entity calling. 
+
+There are instances, however, when the contact becomes a contest which is prototypical of negativity. 
+
+In this contest, the caller will attempt, not to ask for aid, but to demand results. Since the third-density negatively oriented harvestable entity has at its disposal an incarnative experiential nexus and since Orion Crusaders are, in a great extent, bound by the first distortion in order to progress, the Orion entity is vulnerable to such bidding if properly done. 
+
+In this case, the third-density entity becomes master and the Orion Crusader becomes entrapped and can be bid. This is rare. 
+
+However, when it has occurred, the Orion entity or social memory complex involved has experienced loss of negative polarity in proportion to the strength of the bidding third-density entity.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}} You mentioned that this will work when the bidding is properly done. What did you mean?{{< /r >}}
 
@@ -40,9 +77,26 @@ June 5, 1981
 
 {{< l a="Ra" >}} There is no relationship between this type of contact and the bidding process. This contact is typical of the Brothers and Sisters of Sorrow wherein those receiving the contact have attempted to prepare for such contact by sacrificing extraneous, self-oriented distortions in order to be of service. The Ra social memory complex offers itself also as a function of its desire to serve. Both the caller and the contact are filled with gratitude at the opportunity of serving others. This does not mean that either the callers or those of our group approach a perfection or purity as that of the bidding process. The calling group may have many distortions and be working with much catalyst, as may those of Ra. The overriding desire to serve others, bonded with the unique harmonics of this group’s vibratory complexes, gives us the opportunity to serve as one channel for the One Infinite Creator. Things come not to those positively oriented but through such beings.{{< /l >}}
 
-{{< r a="Don Elkins" >}} You stated at an earlier time “until transfers of energy of all types have been experienced and mastered to a great extent, there will be blockages in the blue and indigo radiations.” You had stated that “we (that is Ra) had been aided by shapes such as the pyramid, so that we could aid your people with a shape such as the pyramid.” These shapes have been mentioned many, many times and you have also stated that the shapes themselves aren’t of too much consequence. I see a relation between these shapes and the energies that we have been studying with respect to the body, and I would like to ask a few questions on the pyramid to see if I might get an entry into some of this understanding. You stated, “You will find the intersection of the triangle which is at the first level on each of the four sides forms a diamond in a plane which is horizontal.” Can you tell me what you meant by the word, intersection?{{< /r >}}
+{{< r a="Don Elkins" >}} 
+You stated that:
+- “until transfers of energy of all types have been experienced and mastered to a great extent, there will be blockages in the blue and indigo radiations.” 
+- “Ra had been aided by shapes such as the pyramid, so that we could aid your people with a shape such as the pyramid.” 
 
-{{< l a="Ra" >}} Your mathematics and arithmetic have a paucity of configurative descriptions which we might use. The purpose of the shapes is to work with time/space portions of the mind/body/spirit complex. Therefore, the intersection is both space/time and time/space oriented and thus is expressed in 3D geometry by 2 intersections which, when projected in both time/space and space/time, form one point.{{< /l >}}
+These shapes have been mentioned many times and you have also stated that the shapes themselves aren’t of too much consequence. 
+
+I see a relation between these shapes and the energies that we have been studying with respect to the body, and I would like to ask a few questions on the pyramid to see if I might get an entry into some of this understanding. 
+
+You stated, “You will find the intersection of the triangle which is at the first level on each of the four sides forms a diamond in a plane which is horizontal.” Can you tell me what you meant by intersection?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Your mathematics and arithmetic have a paucity of configurative descriptions which we might use. 
+
+The purpose of the shapes is to work with time/space portions of the mind/body/spirit complex. 
+
+Therefore, the intersection is both space/time and time/space oriented and thus is expressed in 3D geometry by 2 intersections which, when projected in both time/space and space/time, form one point.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}} I have calculated this point to be 1/6 of the height of the triangle that forms the side of the pyramid.{{< /r >}}
 
@@ -74,6 +128,8 @@ June 5, 1981
 
 {{< r a="Don Elkins" >}} Does this healing work by affecting the energy centers in such a way that they are unblocked so as to perfect the seven bodies that they generate and, therefore, bring the entity being healed into proper balance?{{< /r >}}
 
-{{< l a="Ra" >}} Carla is tired. The distorted configuration of the energy centers is intended to be temporarily interrupted. The patient then can grasp the baton and take the balanced route and to walk thence with the distortions towards dis-ease of mind, body, and spirit greatly lessened. The catalytic effect of the charged atmosphere and the crystal directed by the healer must be taken into consideration as integral portions of this process. For the bringing back of the entity to a configuration of conscious awareness would not be accomplished after the reorganization possibilities are offered without the healer’s presence and directed will.{{< /l >}}
+{{< l a="Ra" >}} Carla is tired. The distorted configuration of the energy centers is intended to be temporarily interrupted. 
 
+The patient then can grasp the baton and take the balanced route and to walk thence with the distortions towards dis-ease of mind, body, and spirit greatly lessened. The catalytic effect of the charged atmosphere and the crystal directed by the healer must be taken into consideration as integral portions of this process. 
 
+For the bringing back of the entity to a configuration of conscious awareness would not be accomplished after the reorganization possibilities are offered without the healer’s presence and directed will.{{< /l >}}

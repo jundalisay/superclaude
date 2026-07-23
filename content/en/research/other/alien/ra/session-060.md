@@ -3,7 +3,8 @@ heading: Session 60
 title: "Queen' Chamber"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 161
 date: 1981-01-24
 tags: ['pyramids', '']
 ---
@@ -11,7 +12,11 @@ tags: ['pyramids', '']
 
 July 1, 1981
 
-60.2 Questioner: It is my opinion that the best way for the instrument to improve her condition is through periods of meditation followed by periods of contemplation with respect to the condition and its improvement. Could you tell me if I am correct and expand on my thinking?
+
+Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the initial numbers:
+
+
+60.2 Questioner: I think that the best way for Carla to improve her condition is through  meditation followed by contemplation with respect to the condition and its improvement.
 
 Ra:  Meditation and contemplation are never untoward activities. However, this activity will in all probability, in our opinion, not significantly alter the predispositions of this instrument which cause the fundamental distortions which we, as well as you, have found disconcerting.
 

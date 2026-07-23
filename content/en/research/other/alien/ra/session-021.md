@@ -3,7 +3,7 @@ heading: Session 21
 title: "Lemuria"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 50
 date: 1981-01-24
 tags: ['Lemuria']

@@ -3,7 +3,7 @@ heading: Session 25
 title: "The 5th Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 58
 date: 1981-01-24
 tags: ['', '']

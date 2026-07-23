@@ -3,7 +3,8 @@ heading: Session 74
 title: "The Indigo Center"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 205
 date: 1981-01-24
 tags: ['', '']
 ---

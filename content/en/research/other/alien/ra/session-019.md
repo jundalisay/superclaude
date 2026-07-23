@@ -3,7 +3,7 @@ heading: Session 18
 title: "3rd Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 46
 date: 1981-02-03
 tags: ['density', '']

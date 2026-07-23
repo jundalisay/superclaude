@@ -3,7 +3,8 @@ heading: Session 86
 title: "Dreaming"
 description: ""
 c: "indigo"
-a: Ra
+weight: 241
+image: /covers/ra.jpg
 date: 1981-01-24
 tags: ['dream']
 ---
@@ -12,37 +13,37 @@ tags: ['dream']
 
 May 4, 1982
 
-86.1 Questioner: Could you first please give me the condition of the instrument?
 
-Ra:  The instrument’s distortion towards physical energy complex deficit has slightly increased since the last asking. The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.
 
-86.2 Questioner: What was the nature of these significant calls on the vital energy?
+{{< l a="Ra" >}}The instrument’s distortion towards physical energy complex deficit has slightly increased since the last asking. The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.{{< /l >}}
 
-Ra:  There are those entities which entertain the thought distortion towards this entity that it shall remove for the other-selves all distortions for the other-self. This entity has recently been in close contact with a larger than normal number of entities with these thought complex distortions. This entity is of the distortion to provide whatever service is possible and is not consciously aware of the inroads made upon the vital energies.
+{{< r a="Don Elkins" >}}What was the nature of these significant calls on the vital energy?{{< /r >}}
 
-86.3 Questioner: Am I correct in assuming that you’re speaking of incarnate third-density entities that were creating the condition of use of the vital energy?
+{{< l a="Ra" >}}There are those entities which entertain the thought distortion towards this entity that it shall remove for the other-selves all distortions for the other-self. This entity has recently been in close contact with a larger than normal number of entities with these thought complex distortions. This entity is of the distortion to provide whatever service is possible and is not consciously aware of the inroads made upon the vital energies.{{< /l >}}
 
-Ra:  Yes.
+{{< r a="Don Elkins" >}}Am I correct in assuming that you’re speaking of incarnate third-density entities that were creating the condition of use of the vital energy?{{< /r >}}
 
-86.4 Questioner: What’s the present situation with our fifth-density service-to-self polarized companion?
+{{< l a="Ra" >}}Yes.{{< /l >}}
 
-Ra:  The period which you may call crisis remains.
+{{< r a="Don Elkins" >}}What’s the present situation with our fifth-density service-to-self polarized companion?{{< /r >}}
 
-86.5 Questioner: Can you tell me anything of the nature of this crisis?
+{{< l a="Ra" >}}The period which you may call crisis remains.{{< /l >}}
 
-Ra:  The polarity of your companion is approaching the critical point at which the entity shall choose either to retreat for the nonce and leave any greetings to fourth-density minions or lose polarity. The only other potential is that in some way this group might lose polarity in which case your companion could continue its form of greeting.
+{{< r a="Don Elkins" >}}Can you tell me anything of the nature of this crisis?{{< /r >}}
 
-86.6 Questioner: In the last session you had mentioned the properties precipitating from the veiling of the mind; the first being visioning, envisioning, or far-seeing. Would you explain the meaning of that?
+{{< l a="Ra" >}}The polarity of your companion is approaching the critical point at which the entity shall choose either to retreat for the nonce and leave any greetings to fourth-density minions or lose polarity. The only other potential is that in some way this group might lose polarity in which case your companion could continue its form of greeting.{{< /l >}}
 
-Ra:  Your language is not overstrewn with non-emotional terms for the functional qualities of what is now termed the unconscious mind. The nature of mind is something which we have requested that you ponder. However, it is, shall we say, clear enough to the casual observer that we may share some thoughts with you without infringing upon your free learn/teaching experiences.
+{{< r a="Don Elkins" >}}In the last session you had mentioned the properties precipitating from the veiling of the mind; the first being visioning, envisioning, or far-seeing. Would you explain the meaning of that?{{< /r >}}
+
+{{< l a="Ra" >}}Your language is not overstrewn with non-emotional terms for the functional qualities of what is now termed the unconscious mind. The nature of mind is something which we have requested that you ponder. However, it is, shall we say, clear enough to the casual observer that we may share some thoughts with you without infringing upon your free learn/teaching experiences.
 
 The nature of the unconscious is of the nature of concept rather than word. Consequently, before the veiling the use of the deeper mind was that of the use of unspoken concept. You may consider the emotive and connotative aspects of a melody. One could call out, in some stylized fashion, the terms for the notes of the melody. One could say, “a quarter note A, a quarter note A, a quarter note A, whole note F.” This bears little resemblance to the beginning of the melody of one of your composers’ most influential melodies, that known to you as a symbol of victory.
 
-This is the nature of the deeper mind. There are only stylized methods with which to discuss its functions. Thusly our descriptions of this portion of the mind, as well as the same portions of body and spirit, were given terms such as “far-seeing,” indicating that the nature of penetration of the veiled portion of the mind may be likened unto the journey too rich and exotic to contemplate adequate describing thereof.
+This is the nature of the deeper mind. There are only stylized methods with which to discuss its functions. Thusly our descriptions of this portion of the mind, as well as the same portions of body and spirit, were given terms such as “far-seeing,” indicating that the nature of penetration of the veiled portion of the mind may be likened unto the journey too rich and exotic to contemplate adequate describing thereof.{{< /l >}}
 
-86.7 Questioner: You stated that dreaming, if made available to the conscious mind, will aid greatly in polarization. Would you define dreaming or tell us what it is and how it aids in polarization?
+{{< r a="Don Elkins" >}}You stated that dreaming, if made available to the conscious mind, will aid greatly in polarization. Would you define dreaming or tell us what it is and how it aids in polarization?{{< /r >}}
 
-Ra:  Dreaming is an activity of communication through the veil of the unconscious mind and the conscious mind. The nature of this activity is wholly dependent upon the situation regarding the energy center blockages, activations, and crystallizations of a given mind/body/spirit complex.
+{{< l a="Ra" >}}Dreaming is an activity of communication through the veil of the unconscious mind and the conscious mind. The nature of this activity is wholly dependent upon the situation regarding the energy center blockages, activations, and crystallizations of a given mind/body/spirit complex.
 
 In one who is blocked at two of the three lower energy centers dreaming will be of value in the polarization process in that there will be a repetition of those portions of recent catalyst as well as deeper-held blockages, thereby giving the waking mind clues as to the nature of these blockages and hints as to possible changes in perception which may lead to the unblocking.
 
@@ -54,67 +55,67 @@ As a mind/body/spirit* consciously chooses the path of the adept and, with each 
 
 There are other possibilities of the dreaming not so closely aligned with the increase in polarity which we do not cover at this particular space/time.
 
-* Should be mind/body/spirit complex. Ra and Don corrected the error in session 87.
+* Should be mind/body/spirit complex. Ra and Don corrected the error in session 87.{{< /l >}}
 
-86.8 Questioner: How is the dream designed or programmed? Is this done by the higher self, or who is responsible for this?
+{{< r a="Don Elkins" >}}How is the dream designed or programmed? Is this done by the higher self, or who is responsible for this?{{< /r >}}
 
-Ra:  In all cases the mind/body/spirit complex makes what use it can of the faculty of the dreaming. It, itself, is responsible for this activity.
+{{< l a="Ra" >}}In all cases the mind/body/spirit complex makes what use it can of the faculty of the dreaming. It, itself, is responsible for this activity.{{< /l >}}
 
-86.9 Questioner: Then you are saying that the subconscious is responsible for what I would call design or scriptwriting for the dream. Is this correct?
+{{< r a="Don Elkins" >}}Then you are saying that the subconscious is responsible for what I would call design or scriptwriting for the dream. Is this correct?{{< /r >}}
 
-Ra:  This is correct.
+{{< l a="Ra" >}}This is correct.{{< /l >}}
 
-86.10 Questioner: Is the memory that the individual has upon waking from the dream usually reasonably accurate? Is the dream easily remembered?
+{{< r a="Don Elkins" >}}Is the memory that the individual has upon waking from the dream usually reasonably accurate? Is the dream easily remembered?{{< /r >}}
 
-Ra:  You must realize that we are over-generalizing in order to answer your queries as there are several sorts of dreams. However, in general, it may be noted that it is only for a trained and disciplined observer to have reasonably good recall of the dreaming. This faculty may be learned by virtue of a discipline of the recording immediately upon awakening of each and every detail which can be recalled. This training sharpens one’s ability to recall the dream. The most common perception of a mind/body/spirit complex of its dreams is muddied, muddled, and quickly lost.
+{{< l a="Ra" >}}You must realize that we are over-generalizing in order to answer your queries as there are several sorts of dreams. However, in general, it may be noted that it is only for a trained and disciplined observer to have reasonably good recall of the dreaming. This faculty may be learned by virtue of a discipline of the recording immediately upon awakening of each and every detail which can be recalled. This training sharpens one’s ability to recall the dream. The most common perception of a mind/body/spirit complex of its dreams is muddied, muddled, and quickly lost.{{< /l >}}
 
-86.11 Questioner: In that remembering dreams, you are saying that the individual can find specific clues to current energy center blockages and may, thereby, reduce or eliminate those blockages. Is this correct?
+{{< r a="Don Elkins" >}}In that remembering dreams, you are saying that the individual can find specific clues to current energy center blockages and may, thereby, reduce or eliminate those blockages. Is this correct?{{< /r >}}
 
-Ra:  This is so.
+{{< l a="Ra" >}}This is so.{{< /l >}}
 
-86.12 Questioner: Is there any other function of dreaming that is of value in the evolutionary process?
+{{< r a="Don Elkins" >}}Is there any other function of dreaming that is of value in the evolutionary process?{{< /r >}}
 
-Ra:  Although there are many which are of some value we would choose two to note, since these two, though not of value in polarization, may be of value in a more generalized sense.
+{{< l a="Ra" >}}Although there are many which are of some value we would choose two to note, since these two, though not of value in polarization, may be of value in a more generalized sense.
 
 The activity of dreaming is an activity in which there is made a finely wrought and excellently fashioned bridge from conscious to unconscious. In this state the various distortions which have occurred in the energy web of the body complex, due to the misprecision with which energy influxes have been received, are healed. With the proper amount of dreaming comes the healing of these distortions. Continued lack of this possibility can cause seriously distorted mind/body/spirit complexes.
 
-The other function of the dreaming which is of aid is that type of dream which is visionary and which prophets and mystics have experienced from days of old. Their visions come through the roots of mind and speak to a hungry world. Thus the dream is of service without being of a personally polarizing nature. However, in that mystic or prophet [who] desires to serve, such service will increase the entity’s polarity.
+The other function of the dreaming which is of aid is that type of dream which is visionary and which prophets and mystics have experienced from days of old. Their visions come through the roots of mind and speak to a hungry world. Thus the dream is of service without being of a personally polarizing nature. However, in that mystic or prophet [who] desires to serve, such service will increase the entity’s polarity.{{< /l >}}
 
-86.13 Questioner: There is a portion of sleep that has been called R.E.M. Is this the state of dreaming?
+{{< r a="Don Elkins" >}}There is a portion of sleep that has been called R.E.M. Is this the state of dreaming?{{< /r >}}
 
-Ra:  This is correct.
+{{< l a="Ra" >}}This is correct.{{< /l >}}
 
-86.14 Questioner: It was noticed that this occurs in small units during the night with gaps in between. Is there any particular reason for this?
+{{< r a="Don Elkins" >}}It was noticed that this occurs in small units during the night with gaps in between. Is there any particular reason for this?{{< /r >}}
 
-Ra:  Yes.
+{{< l a="Ra" >}}Yes.{{< /l >}}
 
-86.15 Questioner: If it is of any value to know that would you tell me why the dreaming process works like that?
+{{< r a="Don Elkins" >}}If it is of any value to know that would you tell me why the dreaming process works like that?{{< /r >}}
 
-Ra:  The portions of the dreaming process which are helpful for polarization and also for the vision of the mystic take place in time/space and, consequently, use the bridge from metaphysical to physical for what seems to be a brief period of your space/time. The time/space equivalent is far greater. The bridge remains, however, and traduces each distortion of mind, body, and spirit as it has received the distortions of energy influxes so that healing may take place. This healing process does not occur with the incidence of rapid eye movement but rather occurs largely in the space/time portion of the mind/body/spirit complex using the bridge to time/space for the process of healing to be enabled.
+{{< l a="Ra" >}}The portions of the dreaming process which are helpful for polarization and also for the vision of the mystic take place in time/space and, consequently, use the bridge from metaphysical to physical for what seems to be a brief period of your space/time. The time/space equivalent is far greater. The bridge remains, however, and traduces each distortion of mind, body, and spirit as it has received the distortions of energy influxes so that healing may take place. This healing process does not occur with the incidence of rapid eye movement but rather occurs largely in the space/time portion of the mind/body/spirit complex using the bridge to time/space for the process of healing to be enabled.{{< /l >}}
 
-86.16 Questioner: You mentioned loss of knowledge and control over the body as being a factor that was helpful in the evolutionary process due to veiling. Could you enumerate the important losses of knowledge and control over the body?
+{{< r a="Don Elkins" >}}You mentioned loss of knowledge and control over the body as being a factor that was helpful in the evolutionary process due to veiling. Could you enumerate the important losses of knowledge and control over the body?{{< /r >}}
 
-Ra:  This query contains some portions which would be more helpfully answered were some intervening material requested.
+{{< l a="Ra" >}}This query contains some portions which would be more helpfully answered were some intervening material requested.{{< /l >}}
 
-86.17 Questioner: I’m at a loss to know what to request. Can you [chuckle] give me an idea of what area of intervening material I should work on?
+{{< r a="Don Elkins" >}}I’m at a loss to know what to request. Can you [chuckle] give me an idea of what area of intervening material I should work on?{{< /r >}}
 
-Ra:  No. However, we shall be happy to answer the original query if it is still desired if you first perceive that there is information lacking.
+{{< l a="Ra" >}}No. However, we shall be happy to answer the original query if it is still desired if you first perceive that there is information lacking.{{< /l >}}
 
-86.18 Questioner: Perhaps I can question it slightly differently here. I might ask why loss of knowledge and control over the body was helpful?
+{{< r a="Don Elkins" >}}Perhaps I can question it slightly differently here. I might ask why loss of knowledge and control over the body was helpful?{{< /r >}}
 
-Ra:  The knowledge* of the potentials of the physical vehicle before the veiling offered the mind/body/spirit complex** a free range of choices with regard to activities and manifestations of the body but offered little in the way of the development of polarity. When the knowledge of these potentials and functions of the physical vehicle is shrouded from the conscious mind complex, the mind/body/spirit complex is often nearly without knowledge of how to best manifest its beingness. However, this state of lack of knowledge offers an opportunity for a desire to grow within the mind complex. This desire is that which seeks to know the possibilities of the body complex. The ramifications of each possibility and the eventual biases thusly built have within them a force which can only be generated by such desire or will to know.
+{{< l a="Ra" >}}The knowledge* of the potentials of the physical vehicle before the veiling offered the mind/body/spirit complex** a free range of choices with regard to activities and manifestations of the body but offered little in the way of the development of polarity. When the knowledge of these potentials and functions of the physical vehicle is shrouded from the conscious mind complex, the mind/body/spirit complex is often nearly without knowledge of how to best manifest its beingness. However, this state of lack of knowledge offers an opportunity for a desire to grow within the mind complex. This desire is that which seeks to know the possibilities of the body complex. The ramifications of each possibility and the eventual biases thusly built have within them a force which can only be generated by such desire or will to know.
 
 * The phrase “The loss to the conscious mind of” has been removed from the beginning of the answer because Ra appears to have started speaking about post-veil conditions and then changed their focus to pre-veil without realizing it. See the relistened version or the differences page for the original answer.
 
-** Should be mind/body/spirit. Ra and Don corrected the error in session 87.
+** Should be mind/body/spirit. Ra and Don corrected the error in session 87.{{< /l >}}
 
-86.19 Questioner: Perhaps you could give examples of use of the body prior to veiling and after veiling in the same aspect so that we could understand the change in knowledge and control over the body more clearly. Could you do this, please?
+{{< r a="Don Elkins" >}}Perhaps you could give examples of use of the body prior to veiling and after veiling in the same aspect so that we could understand the change in knowledge and control over the body more clearly. Could you do this, please?{{< /r >}}
 
-Ra:  We could.
+{{< l a="Ra" >}}We could.{{< /l >}}
 
-86.20 Questioner: Will you do this?
+{{< r a="Don Elkins" >}}Will you do this?{{< /r >}}
 
-Ra:  Yes. Let us deal with the sexual energy transfer. Before the veiling such a transfer was always possible due to there being no shadow upon the grasp of the nature of the body complex* and its relationship to other mind/body/spirit complexes** in this particular manifestation. Before the veiling process there was a near total lack of the use of this sexual energy transfer beyond green ray.
+{{< l a="Ra" >}}Yes. Let us deal with the sexual energy transfer. Before the veiling such a transfer was always possible due to there being no shadow upon the grasp of the nature of the body complex* and its relationship to other mind/body/spirit complexes** in this particular manifestation. Before the veiling process there was a near total lack of the use of this sexual energy transfer beyond green ray.
 
 This also was due to the same unshadowed knowledge each had of each. There was, in third density then, little purpose to be seen in the more intensive relationships of mind, body, and spirit complexes*** which you may call those of the mating process, since each other-self was seen to be the Creator and no other-self seemed to be more the Creator than another.
 
@@ -128,23 +129,22 @@ From this point it was far more likely that higher energy transfers would be sou
 
 *** Should be “mind, body, and spirit.”
 
-Ra and Don corrected these errors in session 87.
+Ra and Don corrected these errors in session 87.{{< /l >}}
 
-86.21 Questioner: Did any of the other aspects of loss of knowledge or control over the body approach, to any degree in efficiency, what you’ve just described?
+{{< r a="Don Elkins" >}}Did any of the other aspects of loss of knowledge or control over the body approach, to any degree in efficiency, what you’ve just described?{{< /r >}}
 
-Ra:  Each function of the body complex has some potential after the veiling to provide helpful catalyst. We did choose the example of sexual energy transfer due to its central place in the functionary capabilities of the body complex made more useful by means of the veiling process.
+{{< l a="Ra" >}}Each function of the body complex has some potential after the veiling to provide helpful catalyst. We did choose the example of sexual energy transfer due to its central place in the functionary capabilities of the body complex made more useful by means of the veiling process.
 
-This instrument grows somewhat low in energy. We would prefer to retain the maximal portion of reserved energy for which this instrument has given permission. We would, therefore, ask for one more full query at this working.
+This instrument grows somewhat low in energy. We would prefer to retain the maximal portion of reserved energy for which this instrument has given permission. We would, therefore, ask for one more full query at this working.{{< /l >}}
 
-86.22 Questioner: I will assume that the veiling of the sexual aspect was of great efficiency because it is an aspect that has to do totally with a relationship with another self. It would seem to me that the bodily veilings having to do with other-self interaction would be most efficient and those only related to the self be lower in efficiency in producing either positive or negative polarization. Am I correct in this assumption?
+{{< r a="Don Elkins" >}}I will assume that the veiling of the sexual aspect was of great efficiency because it is an aspect that has to do totally with a relationship with another self. It would seem to me that the bodily veilings having to do with other-self interaction would be most efficient and those only related to the self be lower in efficiency in producing either positive or negative polarization. Am I correct in this assumption?{{< /r >}}
 
-Ra:  You are correct to a great extent. Perhaps the most notable exception is the attitude of one already strongly polarized negatively towards the appearance of the body complex. There are those entities upon the negative path which take great care in the preservation of the distortion your peoples perceive as fairness/ugliness. This fairness of form is, of course, then used in order to manipulate other-selves. May we ask if there are any brief queries?
+{{< l a="Ra" >}}You are correct to a great extent. Perhaps the most notable exception is the attitude of one already strongly polarized negatively towards the appearance of the body complex. There are those entities upon the negative path which take great care in the preservation of the distortion your peoples perceive as fairness/ugliness. This fairness of form is, of course, then used in order to manipulate other-selves. May we ask if there are any brief queries?{{< /l >}}
 
-86.23 Questioner: Is there anything that we can do to make the instrument more comfortable or improve the contact?
+{{< r a="Don Elkins" >}}Is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
 
-Ra:  We are pleased that this instrument was more conscientious in preparing itself for contact by means of the careful mental vibrations which you call prayer. This enabled the channel to be free from the distortions which the contact fell prey to during the last working.
+{{< l a="Ra" >}}We are pleased that this instrument was more conscientious in preparing itself for contact by means of the careful mental vibrations which you call prayer. This enabled the channel to be free from the distortions which the contact fell prey to during the last working.
 
 We would suggest to the support group some continued care in the regulating of the physical activities of the instrument. However at this nexus it is well to encourage those activities which feed the vital energies as this instrument lives in this space/time present almost completely due to the careful adherence to the preservation of those mental and spiritual energies which make up the vital energy complex of this entity. Each is conscientious. The alignments are good.
 
-We would caution the support group as to the physical alignment of the appurtenance known as the censer. There has been some slight difficulty due to variation in the pattern of the effluvium of this incense.
-
+We would caution the support group as to the physical alignment of the appurtenance known as the censer. There has been some slight difficulty due to variation in the pattern of the effluvium of this incense.{{< /l >}}

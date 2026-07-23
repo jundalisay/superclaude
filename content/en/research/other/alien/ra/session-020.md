@@ -3,7 +3,7 @@ heading: Session 20
 title: "Polarity and Action"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 48
 date: 1981-01-24
 tags: ['densities', 'Dewey Larson']

@@ -3,7 +3,7 @@ heading: Session 34
 title: "Karma"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 84
 date: 1981-01-24
 tags: ['', '']

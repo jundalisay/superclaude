@@ -3,7 +3,8 @@ heading: Session 70
 title: "Law of Confusion"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 200
 date: 1981-01-24
 tags: ['', '']
 ---

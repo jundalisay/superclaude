@@ -3,7 +3,8 @@ heading: Session 48
 title: "Sexual Energy"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 127
 date: 1981-01-24
 tags: ['Sexual Energy', '']
 ---

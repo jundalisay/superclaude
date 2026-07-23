@@ -3,7 +3,8 @@ title: "Introduction"
 # linkTitle: Introduction
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+image: /covers/ra.jpg
 ---
 
 

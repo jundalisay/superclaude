@@ -3,7 +3,8 @@ heading: Session 77
 title: "The Local Logos"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 215
 date: 1981-01-24
 tags: ['', '']
 ---

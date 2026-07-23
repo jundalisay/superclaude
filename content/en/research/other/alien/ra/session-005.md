@@ -3,7 +3,7 @@ heading: Session 5
 title: "Learning To Heal"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 11
 date: 1981-01-23
 tags: ['healing', '']

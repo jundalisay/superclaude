@@ -3,7 +3,7 @@ heading: Session 40
 title: "Model of the Universe"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 99
 date: 1981-01-24
 tags: ['', '']

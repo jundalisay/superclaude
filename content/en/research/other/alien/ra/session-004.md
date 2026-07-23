@@ -3,7 +3,7 @@ heading: Session 4
 title: "Initiation"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 9
 date: 1981-01-22
 tags: ['pyramids', 'nexus']

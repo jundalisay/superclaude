@@ -3,7 +3,7 @@ heading: Session 41
 title: "Balancing"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 106
 date: 1981-01-24
 tags: ['', '']

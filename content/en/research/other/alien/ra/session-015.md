@@ -3,7 +3,7 @@ heading: Session 15
 title: "Rapid Aging"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 38
 date: 1981-01-24
 tags: ['', '']

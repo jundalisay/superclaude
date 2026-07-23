@@ -3,7 +3,7 @@ heading: Session 30
 title: "Creation"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 68
 date: 1981-01-24
 tags: ['', '']

@@ -3,7 +3,7 @@ heading: Session 7
 title: "The Orion Group"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 16
 date: 1981-01-24
 tags: ['healing', '']

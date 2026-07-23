@@ -3,7 +3,8 @@ heading: Session 69
 title: "Death"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 189
 date: 1981-01-24
 tags: ['', '']
 ---

@@ -3,7 +3,7 @@ heading: Session 24
 title: "Yahweh and Yod Heh Shin Vau Heh"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
 weight: 56
 date: 1981-01-24
 tags: ['', '']

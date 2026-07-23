@@ -3,7 +3,8 @@ heading: Session 44
 title: "Pain in 4th Density"
 description: ""
 c: "indigo"
-a: Ra
+image: /covers/ra.jpg
+weight: 113
 date: 1981-01-24
 tags: ['Orion', '']
 ---
@@ -11,9 +12,10 @@ tags: ['Orion', '']
 March 28, 1981
 
 
-## Session 44
+{{< r a="Don Elkins" >}}
+Carla had some question as to her vitality. We were having a hard time appraising it.
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}The instrument had some question as to her vitality. We were having a hard time appraising it. Is it possible for you to comment on this?{{< /r >}}
 
 {{< l a="Ra" >}}We scan this instrument and find that we may be of service without infringement due to this instrument’s decision to abide by the most careful appraisal possible rather than the most desired.
 
