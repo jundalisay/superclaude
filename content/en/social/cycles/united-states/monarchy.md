@@ -81,5 +81,22 @@ These gains are offset by inflation and stagnant job growth, as jobs are being l
 
 In the end, the state mercantile system established by Colbert led to the French Revolution, which replaced monarchy with representative government.
 
-In the modern world order—where the U.S. acts as the global monarch—the inequality created by a tech monarchy will likely lead to an alternative system of global representation, possibly through a world government.
+## Why Democracy Degrades to Tyranny
+
+Democracy degrades to tyranny because humans is a 3rd density species that is dominated by the Negative Force. 
+
+Ideally, in the Socratic system, the tyrant should naturally give way to the wise gurus or philosophers who will then create system of Positive justice and equality to check the natural Negative Force. 
+
+But because of the dominance of the Negative, the philosophers become priests that impose dogma, either unscientific religions that deny cause and effect, or materialist sciences that ignore spirit. 
+
+This creates a loop where entities are stuck in 3rd density unable to break free from cycles of poverty, conflict, health problems, etc. 
+
+Our solution is a 4th density framework called Supersociology for social issues. 
+
+We are able to create Supersociology because we ourselves are going for 7th density as moksha and are more or less in the clear for 5th density as mukti. (If we are good enough for 7th density then creating a 4th density science to replace 3rd density sociology should be a piece of cake)
+
+
+## The Solution: Earth Government
+
+In the modern world order—where the U.S. acts as the global monarch—the inequality created by a tech monarchy will lead to a natural collapse which will then create a chance to push for the proper 4th density solution as an Earth government. 
 

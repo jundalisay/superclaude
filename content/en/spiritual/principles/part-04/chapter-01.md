@@ -13,6 +13,15 @@ weight: 4
 
 <!-- ## What is Tantra Yoga? -->
 
+Tantra Yoga originated from Shiva.
+
+As the Sassani explain Shiva to be an archetypal being, we classify him as a lower 7th density entity. 
+- Lower 7th density is Taraka Brahma
+- 7th density is Saguna Brahma
+- 8th density is Nirguna Brahma
+
+Humans are currently at 3rd density. 
+
 Tantra Yoga is a combination of 2 ideas: Tantra and Yoga.
 
 - Yoga is the union of the individual mind with the Supreme Mind.

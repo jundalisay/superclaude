@@ -13,8 +13,6 @@ tags: ['octaves', '']
 
 March 27, 1982
 
-Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the initial numbers:
-
 
 {{< r a="Don Elkins" >}}
 How can we increase Carla's physical energy?{{< /r >}}
@@ -143,5 +141,7 @@ The first beings of mind, body, and spirit were not complex. The experience of m
 
 The necessity for graduation to fourth density is an ability to use, welcome, and enjoy a certain intensity of the white light of the One Infinite Creator. In your own terms at your space/time nexus this ability may be measured by your previously stated percentages of service.
 
-Prior to the veiling process the measurement would be that of an entity walking up a set of your stairs, each of which was imbued with a certain quality of light. The stair upon which an entity stopped would be either third-density light or fourth-density light. Between the two stairs lies the threshold. To cross that threshold is difficult. There is resistance at the edge, shall we say, of each density. The faculty of faith or will needs to be understood, nourished, and developed in order to have an entity which seeks past the boundary of third density. Those entities which do not do their homework, be they ever so amiable, shall not cross. It was this situation which faced the Logoi prior to the veiling process being introduced into the experiential continuum of third density.{{< /l >}}
+Prior to the veiling process the measurement would be that of an entity walking up a set of your stairs, each of which was imbued with a certain quality of light. The stair upon which an entity stopped would be either third-density light or fourth-density light. Between the two stairs lies the threshold. To cross that threshold is difficult. There is resistance at the edge, shall we say, of each density. The faculty of faith or will needs to be understood, nourished, and developed in order to have an entity which seeks past the boundary of third density. Those entities which do not do their homework, be they ever so amiable, shall not cross. It was this situation which faced the Logoi prior to the veiling process being introduced into the experiential continuum of third density.
+{{< /l >}}
+
 

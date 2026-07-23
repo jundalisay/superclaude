@@ -14,6 +14,11 @@ tags: ['orgasm', 'tantra']
 April 14, 1982
 
 
+
+Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the heading numbers:
+
+
+
 84.2 Questioner: In the last session you mentioned least distorted complex protein in that the body complex of the instrument was capable of greatly increased distortion. Would you define the protein of which you spoke and we would like to know, increased distortion in which direction, towards health or ill-health?
 
 Ra:  We were, in the cautionary statement about complex protein, referring to the distortions of the animal protein which has been slaughtered and preservatives added in order to maintain the acceptability to your peoples of this non-living, physical material. It is well to attempt to find those items which are fresh and of the best quality possible in order to avoid increasing this particular entity’s distortions which may be loosely termed allergic.

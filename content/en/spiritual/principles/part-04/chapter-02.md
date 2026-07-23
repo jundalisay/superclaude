@@ -10,7 +10,7 @@ weight: 19
 
 
 
-There are other ways to attain that the union called yoga. 
+There are other ways to attain yoga aside from Tantra. 
 
 {{< img src="/graphics/meta/yoga.jpg" alt="Yoga tree" >}}
 

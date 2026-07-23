@@ -124,7 +124,7 @@ The Germans are the only people who at present use this word to indicate what ot
 
 The most disastrous product of this strange German mentality is Albert Einstein who used Kant-style thinking to create the Theory of Relativity, which is totally arbitrary. 
 
-{{< q a="Einstein-sophist" >}}
+{{< q a="Einstein" >}}
 This only requirement for this "way of thinking" is for it to be useful. The objective factor is our perceptions. 
 
 Physical thinking justifies itself by its ability to grasp experiences intellectually, giving us “knowledge of the real.”
