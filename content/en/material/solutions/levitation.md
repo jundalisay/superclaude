@@ -25,11 +25,15 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 {{< youtube _Puf9huY-NI >}}
 
 
-This is done through "atom-shaking" which aligns atoms, by changing their state, to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
+This is done through "atom-shaking" which raises the spatial density or vibration of atoms to match and be denser than the aether or empty space just outside of them. 
 
-Since gravity is caused by the qosts/2nd Element, then letting them pass through reduces their gravitational push-force on the body. 
+This higher density "bends" the empty space outside and makes it reverse its gravity. 
 
-This alignment is done through the effort of the aether or soa (substance of aether) since the aether is the superior Element or Layer. We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
+This still requires energy but not as much as newtonian chemical propulsion.
+
+This density-change is done through the effort or spin of the aetherspace (3rd Element).
+
+We notate this force as Effort or `E`. This then matches our universal equation `E::Gl`
 
 
 {{< i s="/graphics/super/egl.jpg" a="The Eagle" c="" >}}
@@ -45,7 +49,9 @@ This is still in line with Nature since Maxwell, Fresnell, Hertz, Lord Kelvin, a
 ![Layers](/graphics/physics/layers.png) -->
 
 
-We take a 1 kilogram object and put it on a weighing scale. We then apply a prolonged emission on it to impose the soa. We find this reduces its weight by 1 gram. We call this prelevitation which is making a thing lighter without actually levitating.
+We take a 1 kilogram object and put it on a weighing scale. We then apply a prolonged emission on it to impose the soa. 
+
+We find this reduces its weight by 1 gram. We call this prelevitation which is making a thing lighter without actually levitating.
 
 <!-- then use this as the basis for a levitating object propelled by the aether.    -->
 
@@ -57,18 +63,22 @@ Technically, this produced very tiny vertical movement and we are not able to cr
 This was done by Canadian inventor John Hutchison, as the Hutchison effect, for material objects using high frequency electromagnetic waves. However, he didn't seem to know Cartesian Physics and the mechanism behind the phenomena. And so, he wasn't able to replicate it. 
 
 
+People have said that we are just changing the air pressure and so we have to do it inside a vacuum chamber which we do not have. And so we moved on to other application of the aether in alternative medicine, economics, sociology, and spirituality (The Law of One for example mentions different angles of meditation for certain effects).
+
+
+
 <!-- This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime without needing contact forces.   -->
 
 
 ### How it Works: All 5 Layers Work Together to Create Physical Reality
 
-In our experiment, we applied soa on a material object in order to reduce the force of gravity or `most` (medium of spacetime) on it.  
+In our experiment, we applied soa on a material object in order to reduce the force of gravity or `most` (medium of spacetime) on it by a gradual flip.  
 
 This manifests as a slight movement which is recorded by the weighing scale. 
 
-More technically, **the external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth**. 
+<!-- More technically, **the external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth**. 
 
-> The external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth
+> The external aether changed the gravitational signature of the object to alter its Cartesian Relation with the Earth -->
 <!-- material gravitational band  -->
 
 This means that, logically, the ability to change and generate movement for solid objects comes from the Material layer through the Convertible Layer. This matches the findings of Isaac Newton.*
@@ -95,7 +105,7 @@ Sequence | Layer | Effect
 --- | --- | ---
 1 | Aether | The intention to move the mass
 2 | Radiant (Electromagnetism) | The emission is created
-3 | Material (Strong) | The emission hits the identity (object with mass)
+3 | Material (Strong) | The emission hits the aetherspace of the identity (object with mass) which has a specific spin
 4 | Convertible (Weak) | This creates a change in the identity
 5 | Spatial (Spacetime) | This moves the object
 
@@ -112,3 +122,6 @@ Modern Physics persistently denies the aether and even the spatial layer (as oth
 
 
 {{< u d="Dec 2024" u="We overhauled out material bands with Cartesian Relationality which is more developed" >}}
+
+{{< u d="July 2026" u="We replaced channels with density to match Descartes mechanics with Sassani and Ra mechanics and UFO videos released by Department of War" >}}
+
