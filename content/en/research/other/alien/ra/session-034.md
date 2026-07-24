@@ -1,7 +1,7 @@
 ---
 heading: Session 34
-title: "Karma"
-description: ""
+title: "Ray Colors"
+description: "Albert Schweitzer and Martin Luther King"
 c: "indigo"
 image: /covers/ra.jpg
 weight: 84
@@ -64,39 +64,79 @@ Very often the catalyst for emotional pain, whether it be the death of the physi
 
 There are some few whose desires to aid society are of a green-ray nature or above. These entities, however, are few due to the understanding, may we say, of fourth ray that universal love freely given is more to be desired than principalities or even the rearrangement of peoples or political structures.{{< /l >}}
 
-{{< r a="Don Elkins" >}}If an entity were to be strongly biased toward positive societal effects, what would this do to his yellow ray in the aura as opposed to an entity who wanted to create an empire of society and govern it with an iron fist? What would be the difference in the yellow-ray activity of these two entities?{{< /r >}}
+{{< r a="Don Elkins" >}}If an entity were to be strongly biased toward positive societal effects, what would this do to his yellow ray in the aura as opposed to an entity who wanted to create an empire of society and govern it with an iron fist? 
 
-{{< l a="Ra" >}}Let us take two such positively oriented active souls no longer in your physical time/space. The one known as Albert, who went into a strange and, to it, a barbaric society in order that it might heal. This entity was able to mobilize great amounts of energy and what you call money. This entity spent much green-ray energy both as a healer and as a lover of your instrument known as the organ. This entity’s yellow ray was bright and crystallized by the efforts needed to procure the funds to promulgate its efforts. However, the green and blue rays were of a toweringly brilliant nature as well. The higher levels, as you may call them, being activated, the lower, as you may call them, energy points remain, in a balanced being, quite, quite bright.
+What would be the difference in the yellow-ray activity of these two entities?
+{{< /r >}}
 
-The other example is the entity, Martin. This entity dealt in a great degree with rather negative orange-ray and yellow-ray vibratory patterns. However, this entity was able to keep open the green-ray energy and due to the severity of its testing, if anything, this entity may be seen to have polarized more towards the positive due to its fidelity to service to others in the face of great catalyst.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you give me the last names of Albert and Martin?{{< /r >}}
+{{< l a="Ra" >}}
+Let us take 2 such positively oriented active souls no longer in your physical time/space. 
 
-{{< l a="Ra" >}}These entities are known to you as Albert Schweitzer and Martin Luther King.{{< /l >}}
+Albert Schweitzer went into a strange and barbaric society to heal it. 
 
-{{< r a="Don Elkins" >}}I thought that that was correct, but I wasn’t sure. Can you give me the same type of information that we have been getting here with respect to the unmanifested self interacting between self and gadgets, toys, etc.— inventions?{{< /r >}}
+He:
+- was able to mobilize great amounts of energy and money. 
+- spent much green-ray energy both as a healer and as a lover of the organ instrument. 
 
-{{< l a="Ra" >}}In this particular instance we again concentrate for the most part in the orange and in the yellow energy centers. In a negative sense many of the gadgets among your peoples, that is what you call your communication devices and other distractions such as the less competitive games, may be seen to have the distortion of keeping the mind/body/spirit complex unactivated so that yellow- and orange-ray activity is much weakened thus carefully decreasing the possibility of eventual green-ray activation.
+His yellow ray was bright and crystallized by the efforts needed to procure the funds to promulgate its efforts. 
+
+However, the green and blue rays were of a toweringly brilliant nature as well. 
+
+The higher levels were activated. The lower energy points remain, in a balanced being, quite, quite bright.
+
+The other example is Martin Luther King. 
+
+He dealt mostly with negative orange-ray and yellow-ray vibratory patterns. 
+
+However, he was able to keep open the green-ray energy and due to the severity of its testing.
+
+He may be seen to have polarized more towards the positive due to its fidelity to service to others in the face of great catalyst.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Can you give me the same type of information that we have been getting here with respect to the unmanifested self interacting between self and gadgets, toys, etc.— inventions?{{< /r >}}
+
+
+{{< l a="Ra" >}}In this particular instance we again concentrate for the most part in the orange and in the yellow energy centers. 
+
+In a negative sense many of the gadgets among your peoples, that is what you call your communication devices and other distractions such as the less competitive games, may be seen to have the distortion of keeping the mind/body/spirit complex unactivated so that yellow- and orange-ray activity is much weakened thus carefully decreasing the possibility of eventual green-ray activation.
 
 Others of your gadgets may be seen to be tools whereby the entity explores the capabilities of its physical or mental complexes and in some few cases, the spiritual complex, thus activating the orange ray in what you call your team sports and in other gadgets such as your modes of transport. These may be seen to be ways of investigating the feelings of power; more especially, power over others or a group power over another group of other-selves.{{< /l >}}
 
+
 {{< r a="Don Elkins" >}}What is the general overall effect of television on our society with respect to this catalyst?{{< /r >}}
 
-{{< l a="Ra" >}}Without ignoring the green-ray attempts of many to communicate via this medium such information, truth, and beauty as may be helpful, we must suggest that the sum effect of this gadget is that of distraction and sleep.{{< /l >}}
+{{< l a="Ra" >}}
+Without ignoring the green-ray attempts of many to communicate via this medium such information, truth, and beauty as may be helpful, we must suggest that the sum effect of this gadget is that of distraction and sleep.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Can you give me the same type of information that we’ve been working on now with respect to the self relationship with war and rumors of war?{{< /r >}}
 
-{{< l a="Ra" >}}You may see this in relationship to your gadgets. This war and self relationship is a fundamental perception of the maturing entity. There is a great chance to accelerate in whatever direction is desired. One may polarize negatively by assuming bellicose attitudes for whatever reason. One may find oneself in the situation of war and polarize somewhat towards the positive activating orange, yellow, and then green by heroic, if you may call them this, actions taken to preserve the mind/body/spirit complexes of other-selves.
 
-Finally, one may polarize very strongly third ray* by expressing the principle of universal love at the total expense of any distortion towards involvement in bellicose actions. In this way the entity may become a conscious being in a very brief span of your time/space. This may be seen to be what you would call a traumatic progression. It is to be noted that among your entities a large percentage of all progression has as catalyst, trauma.
+{{< l a="Ra" >}}You may see this in relationship to your gadgets. 
+
+This war and self relationship is a fundamental perception of the maturing entity. There is a great chance to accelerate in whatever direction is desired. 
+
+One may polarize negatively by assuming bellicose attitudes for whatever reason. One may find oneself in the situation of war and polarize somewhat towards the positive activating orange, yellow, and then green by heroic, if you may call them this, actions taken to preserve the mind/body/spirit complexes of other-selves.
+
+Finally, one may polarize very strongly third ray* by expressing the principle of universal love at the total expense of any distortion towards involvement in bellicose actions. 
+
+In this way the entity may become a conscious being in a very brief span of your time/space. This may be seen to be what you would call a traumatic progression. It is to be noted that among your entities a large percentage of all progression has as catalyst, trauma.
 
 * This should be fourth ray. Ra corrected the mistake in the next answer.{{< /l >}}
 
+
 {{< r a="Don Elkins" >}}You just used the term third ray in that statement. Was that the term you meant to use?{{< /r >}}
 
-{{< l a="Ra" >}}We intended the green ray. Our difficulty lies in our perception of red ray and violet ray as fixed; thus the inner rays are those which are varying and are to be observed as those indications of seniority in the attempts to form an harvest.{{< /l >}}
+
+{{< l a="Ra" >}}
+We intended the green ray. Our difficulty lies in our perception of red ray and violet ray as fixed; thus the inner rays are those which are varying and are to be observed as those indications of seniority in the attempts to form an harvest.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Would the red ray, an intense red ray, then be used as an index for seniority, the seniority system of incarnation, as well as the intense violet ray?{{< /r >}}
+
 
 {{< l a="Ra" >}}This is partially correct. In the graduation or harvesting to fourth-density positive, the red ray is seen only as that, which being activated, is the basis for all that occurs in vibratory levels, the sum of this being violet-ray energy.
 

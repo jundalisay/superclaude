@@ -14,9 +14,6 @@ August 18, 1982
 
 
 
-Enclose the sentences into conservations with Ra enlcosed in hugo shortcode {{< l a="Ra" >}} and Questioner as {{< r a="Don Elkins" >}} do not include the numberings:
-
-
 {{< l a="Ra" >}}Carla's body distortions far more closely approach the zero mark. She has no native physical energy. Yet she is not deficient in physical energy. The vital energy distortions are somewhat strengthened since the last asking.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What is the position and condition of our fifth-density, negatively oriented visitor?{{< /r >}}
@@ -133,6 +130,9 @@ May we ask for one more query at this time. We are pleased to report that this i
 
 {{< r a="Don Elkins" >}}I am assuming that you mean one full question, and I’ll make that question: I’d like to know the significance of the shape of the crux ansata, and if that’s too much of an answer I will just ask if there is anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}There are mathematical ratios within this image which may yield informative insights to one fond of riddles. We shall not untangle the riddle. We may indicate that the crux ansata is a part of the concept complexes of the archetypical mind, the circle indicating the magic of the spirit, the cross indicating that nature of manifestation which may only be valued by the losing. Thus the crux ansata is intended to be seen as an image of the eternal in and through manifestation and beyond manifestation through the sacrifice and transformation of that which is manifest.{{< /l >}}
+{{< l a="Ra" >}}
+There are mathematical ratios within this image which may yield informative insights to one fond of riddles. 
 
+We shall not untangle the riddle. We may indicate that the crux ansata is a part of the concept complexes of the archetypical mind, the circle indicating the magic of the spirit, the cross indicating that nature of manifestation which may only be valued by the losing. Thus the crux ansata is intended to be seen as an image of the eternal in and through manifestation and beyond manifestation through the sacrifice and transformation of that which is manifest.
+{{< /l >}}
 

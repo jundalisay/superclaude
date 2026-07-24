@@ -14,59 +14,169 @@ tags: ['', '']
 March 22, 1981
 
 
-{{< r a="Don Elkins" >}}I have a question on balancing.
+{{< r a="Don Elkins" >}}
+I have a question on balancing.
 
-I am assuming that the balanced entity would not be swayed either towards positive or negative emotions by any situation which he might confront. By remaining unemotional in any situation, the balanced entity may clearly discern the appropriate and necessary responses in harmony with the Law of One for each situation.
+I assume that the balanced entity would not be swayed either towards positive or negative emotions by any situation.
 
-Most entities on our planet find themselves unconsciously caught up into every emotional situation which they come in contact with according to their own unique biases and because of these biases are unable to see clearly teach/learning opportunities and appropriate response in each emotional situation and must therefore, through a process of much trial and error and enduring of resulting pain repeat such situations many many times until they become consciously aware of the need to balance their energy centers and thusly their responses and behaviors. Once a person becomes consciously aware of the need to balance their energy centers and responses the next step is to allow the appropriately positive or negative responses to emotional situations to flow smoothly through their being without retaining any of the emotional coloration after it has been consciously observed and allowed to flow through the being. And I am assuming that this ability to consciously observe the positively or negatively charged energy flowing through the being may be augmented by practice of the balancing exercises you have given us with the result in balance being achieved for the entity which would allow him to remain unemotional and undistorted in regards to the Law of One in any situation much like the objective viewer of the television movie.
+By remaining unemotional in any situation, the he may clearly discern the appropriate and necessary responses in harmony with the Law of One for each situation.
 
-Is this correct?{{< /r >}}
+Most entities on our planet find themselves unconsciously caught up into every emotional situation which they come in contact with according to their own unique biases which are unable to see clearly teach/learning opportunities.
 
-{{< l a="Ra" >}}This is incorrect.
+<!-- And so  and appropriate response in each emotional situation and must therefore,  -->
 
-The exercise of first experiencing feelings and then consciously discovering their antitheses within the being has as its objective not the smooth flow of feelings both positive and negative while remaining unswayed but rather the objective of becoming unswayed. This is a simpler result and takes much practice, shall we say.
+Through a process of much trial and error and enduring of resulting pain they repeat such situations many times.
 
-The catalyst of experience works in order for the learn/teachings of this density to occur. However, if there is seen in the being a response, even if it is simply observed, the entity is still using the catalyst for learn/teaching. The end result is that the catalyst is no longer needed. Thus this density is no longer needed. This is not indifference or objectivity but a finely tuned compassion and love which sees all things as love. This seeing elicits no response due to catalytic reactions. Thus the entity is now able to become co-Creator of experiential occurrences. This is the truer balance.{{< /l >}}
+This is until they become aware of the need to balance their energy centers and thusly their responses and behaviors. 
 
-{{< r a="Don Elkins" >}}I will attempt to make an analogy. If an animal, shall I say a bull in a pen, attacks you because you have wandered into his pen, you get out of his way rapidly but you do not blame him. Or, you do not have much of an emotional response other than the fear response that he might damage you. However, if you encounter another self in his territory and he attacks you, your response may be more of an emotional nature creating physical bodily responses. Am I correct in assuming that when your response to the animal and to the other-self seeing both as the Creator and loving both and understanding their action in attacking you is the action of their free will then you have balanced yourself correctly in this area? Is this correct?{{< /r >}}
+Once a person becomes consciously aware of the need to balance their energy centers and responses the next step is to allow the appropriately positive or negative responses to emotional situations to flow smoothly through their being without retaining any of the emotional coloration after it has been consciously observed and allowed to flow through the being. 
 
-{{< l a="Ra" >}}This is basically correct. However, the balanced entity will see in the seeming attack of an other-self the causes of this action which are, in most cases, of a more complex nature than the cause of the attack of the second-density bull as was your example. Thus this balanced entity would be open to many more opportunities for service to a third-density other-self.{{< /l >}}
+I assume that this ability to consciously observe the positively or negatively charged energy flowing through the being may be augmented by practice of the balancing exercises you have given us with the result in balance being achieved for the entity which would allow him to remain unemotional and undistorted in regards to the Law of One in any situation much like the objective viewer of the television movie.{{< /r >}}
 
-{{< r a="Don Elkins" >}}Would a perfectly balanced entity feel an emotional response when being attacked by the other-self?{{< /r >}}
+{{< l a="Ra" >}}
+Wrong.
 
-{{< l a="Ra" >}}This is correct. The response is love.{{< /l >}}
+The exercise of first experiencing feelings and then consciously discovering their antitheses within the being has as its objective not the smooth flow of feelings both positive and negative while remaining unswayed but rather the objective of becoming unswayed. 
 
-{{< r a="Don Elkins" >}}In the illusion that we now experience it is difficult to maintain this response especially if the entity’s attack results in physical pain, but I assume that this response should be maintained even through physical loss of life or extreme pain. Is this correct?{{< /r >}}
+This is a simpler result and takes much practice, shall we say.
 
-{{< l a="Ra" >}}This is correct and further is of a major or principal importance in understanding, shall we say, the principle of balance. Balance is not indifference but rather the observer not blinded by any feelings of separation but rather fully imbued with love.{{< /l >}}
+The catalyst of experience works in order for the learn/teachings of this density to occur. 
 
-{{< r a="Don Elkins" >}}In the last session you made the statement that “We, that is Ra, spent much time/space in the fifth density balancing the intense compassion gained in fourth density.” Could you expand on this concept with respect to what we were just discussing?{{< /r >}}
+However, if there is seen in the being a response, even if it is simply observed, the entity is still using the catalyst for learn/teaching. 
 
-{{< l a="Ra" >}}The fourth density, as we have said, abounds in compassion. This compassion is folly when seen through the eyes of wisdom. It is the salvation of third density but creates a mismatch in the ultimate balance of the entity.
+The end result is that the catalyst is no longer needed. Thus this density is no longer needed. 
 
-Thus we, as a social memory complex of fourth density, had the tendency towards compassion even to martyrdom in aid of other-selves. When the fifth-density harvest was achieved we found that in this vibratory level flaws could be seen in the efficacy of such unrelieved compassion. We spent much time/space in contemplation of those ways of the Creator which imbue love with wisdom.{{< /l >}}
+This is not indifference or objectivity but a finely tuned compassion and love which sees all things as love. This seeing elicits no response due to catalytic reactions. Thus the entity is now able to become co-Creator of experiential occurrences. 
 
-{{< r a="Don Elkins" >}}I would like to try to make an analogy for this in third density. Many entities here feel great compassion toward relieving the physical problems of third-density other-selves by administering to them in many ways, bringing them food if there is hunger as there is in the African nations now, bringing them medicine if they believe they require administering to them medically, and being selfless in all of these services to a very great extent.
+This is the truer balance.{{< /l >}}
 
-This is creating a polarization or a vibration that is in harmony with green ray or fourth density. However, it is not balanced with the understanding of fifth density that these entities are experiencing catalyst and a more balanced administration to their needs would be to provide them with the learning necessary to reach the state of awareness of fourth density than it would be to administer to their physical needs at this time. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is incorrect. To a mind/body/spirit complex which is starving, the appropriate response is the feeding of the body. You may extrapolate from this.
+{{< r a="Don Elkins" >}}
+I will make an analogy. If a bull in a pen attacks you because you have wandered into his pen, you get out of his way rapidly.
 
-On the other hand, however, you are correct in your assumption that the green ray response is not as refined as that which has been imbued with wisdom. This wisdom enables the entity to appreciate its contributions to the planetary consciousness by the quality of its being, without regard to activity or behavior which expects results upon visible planes.{{< /l >}}
+But you do not blame him. 
 
-{{< r a="Don Elkins" >}}Then why do we have the extreme starvation problem in, generally, in the area of Africa at this time? Is this, is there any metaphysical reason for this, or is it purely random occurrence?{{< /r >}}
+Or, you do not have much of an emotional response other than the fear response that he might damage you. 
 
-{{< l a="Ra" >}}Your previous assumption was correct as to the catalytic action of this starvation and ill health. However, it is within the free will of an entity to respond to this plight of other-selves, and the offering of the needed foodstuffs and substances is an appropriate response within the framework of your learn/teachings at this time which involve the growing sense of love for and service to other-selves.{{< /l >}}
+However, if you encounter another self in his territory and he attacks you, your response may be more of an emotional nature creating physical bodily responses. 
 
-{{< r a="Don Elkins" >}}What is the difference in terms of energy center activation between a person who represses emotionally charged responses to emotionally charged situations and the person who is balanced and, therefore, truly unswayed by emotionally charged situations?{{< /r >}}
+Am I correct in assuming that when your response to the animal and to the other-self seeing both as the Creator and loving both and understanding their action in attacking you is the action of their free will then you have balanced yourself correctly in this area?
+{{< /r >}}
 
-{{< l a="Ra" >}}This query contains an incorrect assumption. To the truly balanced entity no situation would be emotionally charged. With this understood, we may say the following: The repression of emotions depolarizes the entity insofar as it then chooses not to use the catalytic action of the space/time present in a spontaneous manner, thus dimming the energy centers. There is, however, some polarization towards positive if the cause of this repression is consideration for other-selves. The entity which has worked long enough with the catalyst to be able to feel the catalyst but not find it necessary to express reactions is not yet balanced but suffers no depolarization due to the transparency of its experiential continuum. Thus the gradual increase in the ability to observe one’s reactions and to know the self will bring the self ever closer to a true balance. Patience is requested and suggested, for the catalyst is intense upon your plane and its use must be appreciated over a period of consistent learn/teaching.{{< /l >}}
+{{< l a="Ra" >}}
+Yes basically correct. 
 
-{{< r a="Don Elkins" >}}How can a person know when he is unswayed by an emotionally charged situation if he is repressing the flow of emotions, or if he is in balance and truly unswayed?{{< /r >}}
+However, the balanced entity will see in the seeming attack of an other-self the causes of this action which are, in most cases, of a more complex nature than the cause of the attack of the 2nd-density bull as was your example. 
 
-{{< l a="Ra" >}}We have spoken to this point. Therefore, we shall briefly iterate that to the balanced entity no situation has an emotional charge but is simply a situation like any other in which the entity may or may not observe an opportunity to be of service. The closer an entity comes to this attitude the closer an entity is to balance. You may note that it is not our recommendation that reactions to catalyst be repressed or suppressed unless such reactions would be a stumbling block not consonant with the Law of One to an other-self. It is far, far better to allow the experience to express itself in order that the entity may then make fuller use of this catalyst.{{< /l >}}
+Thus this balanced entity would be open to many more opportunities for service to a 3rd-density other-self.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How can an individual assess what energy centers within its being are activated and in no immediate need of further attention and which energy centers are not activated and are in need of immediate attention?{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+Would a perfectly balanced entity feel an emotional response when being attacked by the other-self?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes. The response is love.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}In the illusion that we now experience it is difficult to maintain this response especially if the entity’s attack results in physical pain, but I assume that this response should be maintained even through physical loss of life or extreme pain.
+{{< /r >}}
+
+
+{{< l a="Ra" >}}This is correct and further is of a major or principal importance in understanding, shall we say, the principle of balance. 
+
+Balance is not indifference but rather the observer not blinded by any feelings of separation but rather fully imbued with love.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+you said “We, Ra, spent much time in the 5th density balancing the intense compassion gained in 4th density.”{{< /r >}}
+
+{{< l a="Ra" >}}
+The 4th density abounds in compassion. 
+
+This compassion is folly when seen through the eyes of wisdom. 
+
+It is the salvation of 3rd density but creates a mismatch in the ultimate balance of the entity.
+
+Thus we, as a social memory complex of 4th density, had the tendency towards compassion even to martyrdom in aid of other-selves. 
+
+When the 5th-density harvest was achieved we found that in this vibratory level flaws could be seen in the efficacy of such unrelieved compassion. 
+
+We spent much time/space in contemplation of those ways of the Creator which imbue love with wisdom.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+I will make an analogy for this in 3rd density.
+
+Many entities here feel great compassion toward relieving the physical problems of 3rd-density other-selves by:
+- bringing them food if there is hunger
+- bringing them medicine if they need medicine
+- being selfless in all of these services
+
+This is creating a polarization or a vibration that is in harmony with green ray or 4th density. 
+
+However, it is not balanced with the understanding of 5th density that these entities are experiencing catalyst and a more balanced administration to their needs would be to provide them with the learning necessary to reach the state of awareness of fourth density than it would be to administer to their physical needs at this time.{{< /r >}}
+
+
+{{< l a="Ra" >}}
+No. 
+
+To a mind/body/spirit complex which is starving, the appropriate response is the feeding of the body. You may extrapolate from this.
+
+On the other hand, however, you are correct in your assumption that the green ray response is not as refined as that which has been imbued with wisdom. 
+
+This wisdom enables the entity to appreciate its contributions to the planetary consciousness by the quality of its being, without regard to activity or behavior which expects results upon visible planes.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}Then why do we have the extreme starvation problem in Africa at this time? 
+
+Is there any metaphysical reason for this, or is it purely random occurrence?{{< /r >}}
+
+
+{{< l a="Ra" >}}Your previous assumption was correct as to the catalytic action of this starvation and ill health. 
+
+However, it is within the free will of an entity to respond to this plight of other-selves, and the offering of the needed foodstuffs and substances is an appropriate response within the framework of your learn/teachings at this time which involve the growing sense of love for and service to other-selves.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+What is the difference in terms of energy center activation between a person who represses emotionally charged responses to emotionally charged situations and the person who is balanced and, therefore, truly unswayed by emotionally charged situations?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+This query has an incorrect assumption.
+
+To the truly balanced entity no situation would be emotionally charged. 
+
+With this understood, we may say the following: The repression of emotions depolarizes the entity insofar as it then chooses not to use the catalytic action of the space/time present in a spontaneous manner, thus dimming the energy centers. 
+
+There is, however, some polarization towards positive if the cause of this repression is consideration for other-selves. 
+
+The entity which has worked long enough with the catalyst to be able to feel the catalyst but not find it necessary to express reactions is not yet balanced but suffers no depolarization due to the transparency of its experiential continuum. 
+
+Thus the gradual increase in the ability to observe one’s reactions and to know the self will bring the self ever closer to a true balance. 
+
+Patience is requested and suggested, for the catalyst is intense upon your plane and its use must be appreciated over a period of consistent learn/teaching.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+How can a person know when he is unswayed by an emotionally charged situation if he is repressing the flow of emotions, or if he is in balance and truly unswayed?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+To the balanced entity, no situation has an emotional charge. It is simply a situation like any other in which the entity may or may not observe an opportunity to be of service.
+
+The closer an entity comes to this attitude the closer an entity is to balance. 
+
+We do not recommend that reactions to catalyst be repressed or suppressed unless such reactions would be a stumbling block not consonant with the Law of One to an other-self.
+
+It is far, far better to allow the experience to express itself in order that the entity may then make fuller use of this catalyst.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+How can an individual assess what energy centers within its being are activated and in no immediate need of further attention and which energy centers are not activated and are in need of immediate attention?{{< /r >}}
+
 
 {{< l a="Ra" >}}The thoughts of an entity, its feelings or emotions, and least of all its behavior are the signposts for the teaching/learning of self by self. In the analysis of one’s experiences of a diurnal cycle an entity may assess what it considers to be inappropriate thoughts, behaviors, feelings, and emotions.
 

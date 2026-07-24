@@ -177,10 +177,11 @@ Also, there was difficulty in many cases with sources of water and water which w
 
 
 {{< r a="Don Elkins" >}}
-Could you shortly tell me if I am correct in assuming that the general reduction of thought over the long time on planet Earth with respect to an understanding of the Law of One created a condition in which this— what we call disease could develop? Is this correct?{{< /r >}}
+The general reduction of thought over the long time on Earth with respect to an understanding of the Law of One created a condition wherein disease could develop. Is this correct?{{< /r >}}
 
 
-{{< l a="Ra" >}}This is correct and perceptive. You, as questioner, begin now to penetrate the outer teachings.
+{{< l a="Ra" >}}
+This is correct and perceptive. You, as questioner, begin now to penetrate the outer teachings.
 
 The root cause in this particular society was not so much a bellicose action.
 
@@ -232,4 +233,6 @@ Thus, this social memory complex is also given the honor/duty of remaining until
 {{< r a="Don Elkins" >}}
 There was a movie called Battle Beyond the Stars. It seemed to have what you’re telling the script.{{< /r >}}
 
-{{< l a="Ra" >}}This particular creation of your entities had some distortions of the Law of One and its scenario upon your physical plane. This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+This particular creation of your entities had some distortions of the Law of One and its scenario upon your physical plane. This is correct.
+{{< /l >}}

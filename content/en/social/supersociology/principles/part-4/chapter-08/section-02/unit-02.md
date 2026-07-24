@@ -1,7 +1,7 @@
 ---
 heading: "Unit 2"
 title: "Technocracy"
-date: 2026-12-17
+date: 2026-06-17
 # date: 2021-06-29
 weight: 8
 image: "/photos/physics/photoelectric.jpg"

@@ -14,28 +14,51 @@ date: 1982-08-26
 September 9, 1982
 
 
-
 {{< l a="Ra" >}}
-Her physical energy deficit is significantly greater than the last asking. There has been substantive lessening also of the vital energies, although the perquisite degree of energy for mental/emotional distortions of normalcy are yet available.{{< /l >}}
+Her physical energy deficit is significantly greater than the last asking. 
+
+There has been substantive lessening also of the vital energies, although the perquisite degree of energy for mental/emotional distortions of normalcy are yet available.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}
 What caused the lessening of the physical and vital energies?{{< /r >}}
 
-{{< l a="Ra" >}}We found the need of examining the mental configurations of the instrument before framing an answer due to our reluctance to infringe upon its free will. Those concepts relating to the spiritual contemplation of personal catalyst have been appreciated by the entity so we may proceed.
+{{< l a="Ra" >}}
+She needs to examine her mental configurations before framing an answer. 
 
-This entity has an habitual attitude which is singular; that is, when there is some necessity for action the entity is accustomed to analyzing the catalyst in terms of service and determining a course. There was a most unusual variation in this configuration of attitude when this instrument beheld the dwelling which is to be inhabited by this group. The instrument perceived those elementals and beings of astral character of which we have spoken. The instrument desired to be of service by achieving the domicile in question but found its instincts reacting to the unwelcome presences. The division of mind configuration was increased by the continuing catalyst of lack of control. Had this entity been able to physically begin cleansing the dwelling the, shall we say, opening would not have occurred.
+This is due to our reluctance to infringe on her free will. 
 
-Although this entity attempted clear communication upon this matter, and although each in the support group did likewise, the amount of blue-ray work necessary to uncover and grasp the nature of the catalyst was not effected. Therefore, there was an opening, quite rare for this mind/body/spirit complex, and into this opening the one which greets you moved and performed what may be considered to be the most potent of its purely magical manifestations to this present nexus, as you know time.
+Those concepts relating to the spiritual contemplation of personal catalyst have been appreciated by the entity so we may proceed.
 
-It is well that this instrument is not distorted towards what you may call hysteria, for the potential of this working was such that had the instrument allowed fear to become greater than the will to persevere when it could not breathe, each attempt at respiration would have been even more nearly impossible until the suffocation occurred which was desired by the one which greets you in its own way. Thus the entity would have passed from this incarnation.{{< /l >}}
+This entity has an habitual attitude which is singular; that is, when there is some necessity for action the entity is accustomed to analyzing the catalyst in terms of service and determining a course. 
 
-{{< r a="Don Elkins" >}}Does this threat, shall I say, still exist and, if so, is there something we can do to alleviate it?{{< /r >}}
+There was a most unusual variation in this configuration of attitude when this instrument beheld the dwelling which is to be inhabited by this group.
 
-{{< l a="Ra" >}}This threat no longer exists, if you wish to phrase this greeting in this manner. The communication which was effected by the scribe and then by the questioner did close the opening and enable the instrument to begin assimilating the catalyst it had received.{{< /l >}}
+She perceived those elementals and beings of astral character of which we have spoken.
+
+The instrument desired to be of service by achieving the domicile in question but found its instincts reacting to the unwelcome presences. 
+
+The division of mind configuration was increased by the continuing catalyst of lack of control. Had this entity been able to physically begin cleansing the dwelling the, shall we say, opening would not have occurred.
+
+Although this entity attempted clear communication upon this matter, and although each in the support group did likewise, the amount of blue-ray work necessary to uncover and grasp the nature of the catalyst was not effected. 
+
+Therefore, there was an opening, quite rare for this mind/body/spirit complex, and into this opening the one which greets you moved and performed what may be considered to be the most potent of its purely magical manifestations to this present nexus, as you know time.
+
+It is well that she is not distorted towards what you may call hysteria, for the potential of this working was such that had the instrument allowed fear to become greater than the will to persevere when it could not breathe, each attempt at respiration would have been even more nearly impossible until the suffocation occurred which was desired by the one which greets you in its own way. 
+
+Thus the entity would have passed from this incarnation.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Does this threat, shall I say, still exist and, if so, is there something we can do to alleviate it?{{< /r >}}
+
+{{< l a="Ra" >}}
+This threat no longer exists, if you wish to phrase this greeting in this manner. The communication which was effected by the scribe and then by the questioner did close the opening and enable the instrument to begin assimilating the catalyst it had received.{{< /l >}}
 
 {{< r a="Don Elkins" >}}The instrument asks, since this has to do with that house, is the house capable of being transformed by the painting and cleaning? We are able to undertake… that is, we don’t plan to put down all new carpets. Are the carpets that are there now acceptable?
 
 I want to either bring this particular house up to acceptable limits— you say it will be neutral after we do the salting. I have only a concern with the conditions for our work here. The physical location isn’t that important. In fact I don’t consider this important at all. If the house is not capable of being brought up to good conditions that will afford us no problems of the type we’ve experienced then I may select a different one. It’s not that important. Would Ra comment on this?{{< /r >}}
+
 
 {{< l a="Ra" >}}It is, of course, the preference of this group which is the only consideration in the situation for contact with Ra.
 
@@ -45,9 +68,13 @@ It is correct, as we have previously stated, that physical cleanliness is most i
 
 May we note that just as each entity strives in each moment to become more nearly one with the Creator but falls short, just so is physical spotlessness striven for but not achieved. In each case the purity of intention and thoroughness of manifestation are appreciated. The variance between the attempt and the goal is never noted and may be considered unimportant.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The sequence of events that I am considering, which may be easily changed, is first the painting, then the cleaning, then the moving in of the furniture, then the salting and use of garlic. Is this sequence as good as any other sequence or would a different sequence be better for those events?{{< /r >}}
 
-{{< l a="Ra" >}}Any sequence which results in the cleansings is acceptable. It is to be noted that the thresholds are not to be crossed during the cleansing. Since such stricture upon use of the limen may affect your considerations we make note of this.{{< /l >}}
+{{< r a="Don Elkins" >}}
+The sequence of events that I am considering, which may be easily changed, is first the painting, then the cleaning, then the moving in of the furniture, then the salting and use of garlic. Is this sequence as good as any other sequence or would a different sequence be better for those events?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Any sequence which results in the cleansings is acceptable. It is to be noted that the thresholds are not to be crossed during the cleansing. Since such stricture upon use of the limen may affect your considerations we make note of this.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was the unusual sound on the instrument’s tape recorder that occurred while she was trying to record her singing a greeting from our fifth-density, negative associate?{{< /r >}}
 

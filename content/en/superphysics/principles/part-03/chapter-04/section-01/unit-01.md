@@ -1,16 +1,16 @@
 ---
-heading: "Section 1"
-title: " Densities"
-date: 2024-06-22
-image: "/photos/meta/chakras.jpg"
-description: "The 8 Densities are based on the aether "
-weight: 2
+heading: "Unit 1"
+title: "Densities"
+date: 2024-12-28
+weight: 3
+image: /graphics/meta/mirror.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
+icon: Juan
 aliases:
-  /superphysics/principles/chapter-04b
+  /superphysics/principles/chapter-01d
 ---
 
 
@@ -59,6 +59,8 @@ This is what Superphysics aims to provide in order to help advance the human spe
 ## Connects to the Chakras
 
 Of these 8 perception densities, 7 matches the 7 aethereal chakras in yoga since the 8th density is only theoretical. 
+
+This will be explained next.
 
 Physically, the dimensions will be useful in Material Superphysics.
 
