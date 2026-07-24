@@ -27,10 +27,10 @@ You may expect this psychic attack to be constant as Carla has been under observ
 
 There were psychic attack components to the death of this body at that time. 
 
-However, the guiding vibratory complex in this event was the will of the instrument. This instrument desired to leave this plane of existence as it did not feel it could be of service.{{< /l >}}
+However, the guiding vibratory complex in this event was the will of Carla. Carla desired to leave this plane of existence as it did not feel it could be of service.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}You are saying that the instrument itself then created the kidney problem at that time?{{< /r >}}
+{{< r a="Don Elkins" >}}You are saying that Carla itself then created the kidney problem at that time?{{< /r >}}
 
 
 {{< l a="Ra" >}}
@@ -38,16 +38,16 @@ Her desire to leave this density lowered the defenses of an already predisposed 
 
 An allergic reaction was so intensified as to cause the complications which distorted the body complex towards unviability. 
 
-The will of the instrument, when it found that there was indeed work to be done in service, was again the guiding factor or complex of vibratory patterns which kept the body complex from surrendering to dissolution of the ties which cause the vitality of life.{{< /l >}}
+The will of Carla, when it found that there was indeed work to be done in service, was again the guiding factor or complex of vibratory patterns which kept the body complex from surrendering to dissolution of the ties which cause the vitality of life.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Is the necessity for the instrument to go to the bathroom several times before a session due to the psychic attack?{{< /r >}}
+{{< r a="Don Elkins" >}}Is the necessity for Carla to go to the bathroom several times before a session due to the psychic attack?{{< /r >}}
 
-{{< l a="Ra" >}}In general this is incorrect. The instrument is eliminating from the body complex the distortion leavings of the material which we use for contact. This occurs variably, sometimes beginning before contact, other workings this occurring after the contact.
+{{< l a="Ra" >}}In general this is incorrect. Carla is eliminating from the body complex the distortion leavings of the material which we use for contact. This occurs variably, sometimes beginning before contact, other workings this occurring after the contact.
 
 In this particular working this entity is experiencing the aforementioned difficulties causing the intensification of that particular distortion/condition.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I know that you have already answered this question, but I feel it my duty now to ask it each time in case there is some new development, and that is, is there anything that we can do that we aren’t doing to lessen the effectiveness of the psychic attack upon the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}I know that you have already answered this question, but I feel it my duty now to ask it each time in case there is some new development, and that is, is there anything that we can do that we aren’t doing to lessen the effectiveness of the psychic attack upon Carla?{{< /r >}}
 
 {{< l a="Ra" >}}Continue in love and praise and thanksgiving to the Creator. Examine previous material. Love is the great protector.{{< /l >}}
 
@@ -55,7 +55,7 @@ In this particular working this entity is experiencing the aforementioned diffic
 
 {{< l a="Ra" >}}Vital energy is the complex of energy levels of mind, body, and spirit. Unlike physical energy, it requires the integrated complexes vibrating in an useful manner.
 
-The faculty of will can, to a variable extent, replace missing vital energy and this has occurred in past workings, as you measure time, in this instrument. This is not recommended. At this time, however, the vital energies are well-nourished in mind and spirit although the physical energy level is, in and of itself, low at this time.{{< /l >}}
+The faculty of will can, to a variable extent, replace missing vital energy and this has occurred in past workings, as you measure time, in Carla. This is not recommended. At this time, however, the vital energies are well-nourished in mind and spirit although the physical energy level is, in and of itself, low at this time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would I be correct in guessing that vital energy is a function of the awareness or bias of the entity with respect to its polarity or general unity with the Creator or creation?{{< /r >}}
 
@@ -181,7 +181,7 @@ Then as the fourth-density sphere is activated there is heat energy being genera
 
 {{< r a="Don Elkins" >}}When the third density goes out of activation and into potentiation that will leave us with a planet that is first, second, and fourth density. At that time there will be no activated third-density vibrations on this planet. Am I correct in assuming that all third-density vibrations on this planet now are those vibrations that compose the bodily complexes of entities such as us; and that that is the sum total of third-density vibrations on this planet at this time?{{< /r >}}
 
-{{< l a="Ra" >}}This will be the last full query of this working. This instrument has energy left due to transfer but there is discomfort. We do not wish to deplete this instrument. May we say that this instrument seems in better configuration, despite attack, than previous workings.
+{{< l a="Ra" >}}This will be the last full query of this working. Carla has energy left due to transfer but there is discomfort. We do not wish to deplete Carla. May we say that Carla seems in better configuration, despite attack, than previous workings.
 
 To answer your query, this is incorrect only in that in addition to the mind/body/spirit complexes of third density there are the artifacts, thought-forms, and feelings which these co-Creators have produced. This is third density.{{< /l >}}
 

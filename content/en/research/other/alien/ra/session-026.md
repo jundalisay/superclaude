@@ -135,7 +135,7 @@ This would be the loss to the Creator of part of the Creator and thus we were gi
 
 This we did in those events which you mention, losing no spirit or portion or holograph or microcosm of the macrocosmic Infinite One.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you please make the instrument cough and then tell me just vaguely how you accomplished this?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you please make Carla cough and then tell me just vaguely how you accomplished this?{{< /r >}}
 
 {{< l a="Ra" >}}[Cough.] I am Ra. This is accomplished through our understanding of dimensional fields of energy. The higher or more dense energy field will control the less dense.{{< /l >}}
 
@@ -155,7 +155,7 @@ This we did in those events which you mention, losing no spirit or portion or ho
 
 {{< l a="Ra" >}}This is incorrect. Once the healing has taken place the harvest may go forth unimpeded. However, the entire planet will undergo healing for this action, no distinction being made betwixt victim and aggressor, this due to damage done to the planet.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you please make the instrument cough? And…{{< /r >}}
+{{< r a="Don Elkins" >}}Could you please make Carla cough? And…{{< /r >}}
 
 {{< l a="Ra" >}}[Cough.]{{< /l >}}
 
@@ -181,7 +181,7 @@ This we did in those events which you mention, losing no spirit or portion or ho
 
 This is due to the sincere belief of fourth-density negative that to love self is to love all. Each other-self which is thus either taught or enslaved thus has a teacher which teaches love of self. Exposed to this teaching, it is intended that there be brought to fruition an harvest of fourth-density negative or self-serving mind/body/spirit complexes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you make the instrument cough, please?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you make Carla cough, please?{{< /r >}}
 
 {{< l a="Ra" >}}[Cough.]{{< /l >}}
 
@@ -193,7 +193,7 @@ This is why we iterate quite often, when asked for specific information, that it
 
 Why then be concerned with the grass that blooms, withers and dies in its season only to grow once again due to the infinite love and light of the One Creator? This is the message we bring. Each entity is only superficially that which blooms and dies. In the deeper sense there is no end to beingness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you very much. Could you please make the instrument cough?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you very much. Could you please make Carla cough?{{< /r >}}
 
 {{< l a="Ra" >}}[Cough.]{{< /l >}}
 
@@ -224,7 +224,7 @@ The blue-ray energy transfer is somewhat rare among your people at this time but
 
 The indigo-ray transfer is extremely rare among your people. This is the sacramental portion of the body complex whereby contact may be made through the violet ray with intelligent infinity. No blockages may occur at these latter two levels due to the fact that if both entities are not ready for this energy it is not visible and neither transfer nor blockage may take place. It is as though the distributor were removed from a powerful engine.
 
-Carla was able, as an example of this working, to baffle the Orion group during [tape blank] experiences, as you call this substance, due to the fact that it effectively completely opened other-self to third-ray— we correct this instrument, it is growing low in vital energy— green-ray energy and partially open other-self to blue-ray interaction.
+Carla was able, as an example of this working, to baffle the Orion group during [tape blank] experiences, as you call this substance, due to the fact that it effectively completely opened other-self to third-ray— we correct Carla, it is growing low in vital energy— green-ray energy and partially open other-self to blue-ray interaction.
 {{< /l >}}
 
 

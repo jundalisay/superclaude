@@ -38,7 +38,7 @@ LSD is both helpful and unhelpful in these contacts for the causes given.{{< /l 
 
 However, this is extremely unimportant when regarded as an aid with equality to other aids such her attitude.
 
-It, however, aids her vital energies with less distortion towards ill health, to ingest foodstuffs in the above manner with occasional ingestion of what you call your meats, due to the instrument’s need to lessen the distortion towards low vital energy.{{< /l >}}
+It, however, aids her vital energies with less distortion towards ill health, to ingest foodstuffs in the above manner with occasional ingestion of what you call your meats, due to Carla’s need to lessen the distortion towards low vital energy.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Much of the mystic tradition on Earth believes that the self must be erased and the material world ignored for an entity to reach ‘nirvana’, as it’s called, or enlightenment. What is the proper role of the individual self and its worldly activities in aiding an entity to grow more into the Law of One?{{< /r >}}
 
@@ -219,7 +219,7 @@ Would you like me to continue formatting Session 19 in the same style next?
 
 <!-- 18.26 Questioner: Thank you very much. I believe that to be a very important point in understanding the total workings of the Law of One. It’ll be helpful. As you probably know I must work for the next three days, so we will possibly have another session tonight if you think it is possible. And the next session after that would not be until four days from now. Do you believe another session tonight is possible?
 
-Ra:  This instrument is somewhat weak. This is a distortion caused by lack of vital energy. Thus, nurturing the instrument in physical balancing will allow another session. Do you understand? -->
+Ra:  Carla is somewhat weak. This is a distortion caused by lack of vital energy. Thus, nurturing Carla in physical balancing will allow another session. Do you understand? -->
 
 <!-- 18.27 Questioner: How can we help Carla's physical balancing?
 

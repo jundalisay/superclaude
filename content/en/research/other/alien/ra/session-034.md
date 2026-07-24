@@ -18,9 +18,9 @@ March 4, 1981
 
 {{< l a="Ra" >}}This is incorrect. 
 
-The proper configuration of the physical complex exercising during the three month period wherein the instrument is vulnerable to physical complex distortion intensifications, needs the strengthening of the physical complex. This may appropriately be seen to be one major period of the exercising followed late in your diurnal cycle before the evening meditation by an exercise period approximately one-half the length of the first. 
+The proper configuration of the physical complex exercising during the three month period wherein Carla is vulnerable to physical complex distortion intensifications, needs the strengthening of the physical complex. This may appropriately be seen to be one major period of the exercising followed late in your diurnal cycle before the evening meditation by an exercise period approximately one-half the length of the first. 
 
-This will be seen to be wearing upon the instrument. However, it will have the effect of strengthening the physical complex and lessening the vulnerability which might be taken advantage of.{{< /l >}}
+This will be seen to be wearing upon Carla. However, it will have the effect of strengthening the physical complex and lessening the vulnerability which might be taken advantage of.{{< /l >}}
 
 {{< r a="Don Elkins" >}}You stated that penetration of the 8th level or intelligent infinity level allows a mind/body/spirit complex to be harvested if it wishes at any time/space during the cycle. 
 

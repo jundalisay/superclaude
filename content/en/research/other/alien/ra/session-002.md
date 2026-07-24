@@ -79,7 +79,7 @@ There are crystals which work upon the energies coming into the spiritual body; 
 
 Without the relative crystallization of the healer working with the crystal, the crystal will not be properly charged. The other ingredient is a proper alignment with the energy fields of the planet upon which you dwell and the holistic or cosmic distortions or streamings which enter the planetary aura in such a manner that an appropriate ratio of shapes and placement within these shapes is of indicated aid in the untangling or balancing process.
 
-To go through the various crystals to be used would be exhaustive to this instrument, although you may ask us if you wish in another session. The delicacy, shall we say, of the choosing of the crystal is very critical and, in truth, a crystalline structure such as a diamond or ruby can be used by a purified channel who is filled with the love/light of One in almost any application.
+To go through the various crystals to be used would be exhaustive to Carla, although you may ask us if you wish in another session. The delicacy, shall we say, of the choosing of the crystal is very critical and, in truth, a crystalline structure such as a diamond or ruby can be used by a purified channel who is filled with the love/light of One in almost any application.
 
 This, of course, takes initiation, and there have never been many to persevere to the extent of progressing through the various distortion leavings which initiation causes.
 
@@ -96,7 +96,7 @@ The purposes of the pyramids were two:
 
 Pyramid after pyramid charged by the crystal and initiate were designed to balance the incoming energy of the One Creation with the many and multiple distortions of the planetary mind/body/spirit. 
 
-In this effort, we were able to continue work that brothers within the Confederation had effected through building of other crystal-bearing structures and thus complete a ring of these around the Earth’s, as this instrument would have us vibrate it, surface.
+In this effort, we were able to continue work that brothers within the Confederation had effected through building of other crystal-bearing structures and thus complete a ring of these around the Earth’s, as Carla would have us vibrate it, surface.
 
 
 <!-- 2.5 Questioner: There was originally a capstone on the pyramid at the top, what was it made of and how you moved the heavy blocks to build the pyramid. What technique was used for that?
@@ -106,7 +106,7 @@ Ra: I request that we be asked this question in our next worktime, as you would 
 If you have any questions about the proper use of this mind/body/spirit, we would appreciate your asking them now. -->
 
 
-2.6 Questioner: What is the proper use of this instrument? What should we do to maximize her ability to… comfort, rejuvenation, etc.?
+2.6 Questioner: What is the proper use of Carla? What should we do to maximize her ability to… comfort, rejuvenation, etc.?
 
 Ra: The vibrations may well be purified by a simple turning to the circle of One and the verbal vibration while doing so of the following dialogue:
 
@@ -122,22 +122,22 @@ Question: “Why do we seek Ra?”
 
 Answer: “Ra is an humble messenger of the Law of One.”
 
-Both together: “Rejoice then and purify this place in the Law of One. Let no thought-form enter the circle we have walked about this instrument, for the Law is One.”
+Both together: “Rejoice then and purify this place in the Law of One. Let no thought-form enter the circle we have walked about Carla, for the Law is One.”
 
-The instrument at this time should be in trance. The proper alignment is the head pointed twenty degrees north-by-northeast. 
+Carla at this time should be in trance. The proper alignment is the head pointed twenty degrees north-by-northeast. 
 
-This is the direction from which the newer or New Age distortions of love/light, which are less distorted, are emanating from, and this instrument will find comfort therein. This is a sensitive instrument, by which we mean the distortions which enter her mind/body/spirit complex come from any of her senses. 
+This is the direction from which the newer or New Age distortions of love/light, which are less distorted, are emanating from, and Carla will find comfort therein. This is a sensitive instrument, by which we mean the distortions which enter her mind/body/spirit complex come from any of her senses. 
 
 Thus, it is well to do the following:
 
 Place at the entity’s head a virgin chalice of water.
 
-To the center, the book most closely aligned with the instrument’s mental distortions which are allied most closely with the Law of One, that being the Bible that she touches most frequently.
+To the center, the book most closely aligned with Carla’s mental distortions which are allied most closely with the Law of One, that being the Bible that she touches most frequently.
 
 To the other side of the Bible, a small amount of cense, or incense, in a virgin censer.
 
 To the rear of the book symbolizing One, opened to the Gospel of John, Chapter One, a white candle.
 
-The instrument would be strengthened by the wearing of a white robe. The instrument shall be covered and prone, the eyes covered.
+Carla would be strengthened by the wearing of a white robe. Carla shall be covered and prone, the eyes covered.
 
-These elaborations on the technique of trance will ease the mind distortions of those about the instrument as they perceive improvement in the instrument’s distortions with regard to fatigue. We add only that if these teach/learning sessions are held during time/space during which your sun-body does not light your room that it is best to call the instrument before the lighting of the illuminatory mechanism.
+These elaborations on the technique of trance will ease the mind distortions of those about Carla as they perceive improvement in Carla’s distortions with regard to fatigue. We add only that if these teach/learning sessions are held during time/space during which your sun-body does not light your room that it is best to call Carla before the lighting of the illuminatory mechanism.

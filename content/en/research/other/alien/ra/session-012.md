@@ -249,7 +249,7 @@ It is overly open due to an intensive desire distortion on the part of this mind
 
 She, therefore, spends itself without regard to its reserves of mind/body/spirit complex distortion in regard to what you call strength or energy. 
 
-This distortion is primarily due to the blockage of the indigo ray. As we have said before, the misapprehension distortion of the instrument responsible for this blockage is the basic orientation towards a belief in unworthiness. The unworthiness distortion blocks the free flow of intelligent energy.
+This distortion is primarily due to the blockage of the indigo ray. As we have said before, the misapprehension distortion of Carla responsible for this blockage is the basic orientation towards a belief in unworthiness. The unworthiness distortion blocks the free flow of intelligent energy.
 
 The seventh or violet ray is unimpaired, this being not only an energy receptor but a sum total of the vibratory level of the individual. 
 
@@ -265,7 +265,7 @@ Yes. Each of those present are Wanderers pursuing a mission.
 
 
 
-<!-- 12.33 Questioner: Thank you. Is there anything that we can do to make the instrument more comfortable?
+<!-- 12.33 Questioner: Thank you. Is there anything that we can do to make Carla more comfortable?
 
 Ra:  We ask you to realign the object upon which the symbols sit. It is not a significant distortion for one session only, but you will find upon measuring the entire assemblage that the resting place is one point four degrees [1.4°] from the correct alignment, the resting place an additional one-half degree [0.5°] away from proper orientation. Do not concern yourselves overly with this in the space/time nexus present, but do not allow these distortions to remain over a long period or the contact will be gradually impaired.
  -->

@@ -28,7 +28,7 @@ Carla was under specific psychic attack at the time of the beginning of the work
 
 There was a slight irregularity in the words verbalized by your sound complex vibratory mechanisms in the protective walking of the circle. 
 
-Into this opening came this Orion entity and began to work upon the instrument now in trance state. 
+Into this opening came this Orion entity and began to work upon Carla now in trance state. 
 
 She was adversely affected in physical complex distortions.
 
@@ -70,7 +70,7 @@ Was it a specific planned attempt to make an opening, or was this something that
 
 {{< l a="Ra" >}}It was looking for a target of opportunity. The missed word was a chance occurrence and not a planned one.
 
-We might suggest in the, shall we say, future, as you measure space/time, as you begin a working be aware that this instrument is likely being watched for any opportunity. Thus if the circle is walked with some imperfection it is well to immediately repeat. 
+We might suggest in the, shall we say, future, as you measure space/time, as you begin a working be aware that Carla is likely being watched for any opportunity. Thus if the circle is walked with some imperfection it is well to immediately repeat. 
 
 The expelling of breath is also appropriate, always to the left.{{< /l >}}
 
@@ -80,27 +80,27 @@ The expelling of breath is also appropriate, always to the left.{{< /l >}}
 
 {{< r a="Don Elkins" >}}But you mentioned the expelling of the breath to the left, I believe. Would you tell me what you meant by that?{{< /r >}}
 
-{{< l a="Ra" >}}It is as you have just accomplished, the breath being sent above the instrument’s head from its right side to its left.{{< /l >}}
+{{< l a="Ra" >}}It is as you have just accomplished, the breath being sent above Carla’s head from its right side to its left.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything we can do for the instrument after she comes out of trance to help her recover from this attack?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything we can do for Carla after she comes out of trance to help her recover from this attack?{{< /r >}}
 
-{{< l a="Ra" >}}There is little to be done. You may watch to see if distortions persist and see that the appropriate healers are brought into contact with this mind/body/spirit complex in the event that difficulty persists. It may not. This battle is even now being accomplished. Each may counsel the instrument to continue its work as outlined previously.{{< /l >}}
+{{< l a="Ra" >}}There is little to be done. You may watch to see if distortions persist and see that the appropriate healers are brought into contact with this mind/body/spirit complex in the event that difficulty persists. It may not. This battle is even now being accomplished. Each may counsel Carla to continue its work as outlined previously.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Who would the appropriate healers be, and how would we bring them in contact with the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Who would the appropriate healers be, and how would we bring them in contact with Carla?{{< /r >}}
 
-{{< l a="Ra" >}}There are four. The difficulty being at all noticed as bodily distortion, the one known as Don and the one known as Jim may work upon the instrument’s bodily complex by means of the practices which are developing in each entity. Given persistence of distortion, the one known as Stuart shall be seen. Given the continued difficulty past the point of one of your cycles called the fortnight, the one known as Douglas shall be seen.{{< /l >}}
+{{< l a="Ra" >}}There are four. The difficulty being at all noticed as bodily distortion, the one known as Don and the one known as Jim may work upon Carla’s bodily complex by means of the practices which are developing in each entity. Given persistence of distortion, the one known as Stuart shall be seen. Given the continued difficulty past the point of one of your cycles called the fortnight, the one known as Douglas shall be seen.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does the instrument know who these people are, Stuart and Douglas? I don’t know who they are.{{< /r >}}
+{{< r a="Don Elkins" >}}Does Carla know who these people are, Stuart and Douglas? I don’t know who they are.{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is that the sum total of what we can do to aid the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Is that the sum total of what we can do to aid Carla?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct. We may note that the harmonies and loving social intercourse which prevails habitually in this group create a favorable environment for each of you to do your work.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What priority, shall I say, does the Orion group place upon the reduction of effectiveness or elimination of effectiveness of this group with respect to activities on planet Earth at this time? Can you tell me that?{{< /r >}}
 
-{{< l a="Ra" >}}This group, as all positive channels and supporting groups, is a greatly high priority with the Orion group. This instrument’s bodily distortions are its most easily unbound or unloosed distortion dissolving the mind/body/spirit complex if the Orion group is successful; this particular group having learned to be without serious chinks, may we say, in mind and spirit complex vibratory patterns. In other channels other chinks may be more in evidence.{{< /l >}}
+{{< l a="Ra" >}}This group, as all positive channels and supporting groups, is a greatly high priority with the Orion group. Carla’s bodily distortions are its most easily unbound or unloosed distortion dissolving the mind/body/spirit complex if the Orion group is successful; this particular group having learned to be without serious chinks, may we say, in mind and spirit complex vibratory patterns. In other channels other chinks may be more in evidence.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I’ll make this statement and you correct me. The Orion group has as an objective the bringing of service-to-self polarized entities to harvest, as great a harvest as possible. This harvest will build their potential or their ability to do work in consciousness as given by the distortion of the Law of One called the Law of Squares or Doubling. Is this correct?{{< /r >}}
 
@@ -138,11 +138,11 @@ The fifth density sees the difficulties posed by the light and in this way direc
 
 The thought is what is sent, for a fifth-density entity is likely to have mastered this technique or discipline. There is little or no means of perceiving such an entity, for unlike fourth-density negative entities the fifth-density entity walks with light feet.
 
-This instrument was aware of extreme coldness in the past diurnal cycle and spent much more time than your normal attitudes would imagine to be appropriate in what seemed to each of you an extremely warm climate. This was not perceived by the instrument, but the drop in subjective temperature is a sign of presence of a negative or nonpositive or draining entity.
+Carla was aware of extreme coldness in the past diurnal cycle and spent much more time than your normal attitudes would imagine to be appropriate in what seemed to each of you an extremely warm climate. This was not perceived by Carla, but the drop in subjective temperature is a sign of presence of a negative or nonpositive or draining entity.
 
-This instrument did mention a feeling of discomfort but was nourished by this group and was able to dismiss it. Had it not been for a random mishap, all would have been well, for you have learned to live in love and light and do not neglect to remember the One Infinite Creator.{{< /l >}}
+Carla did mention a feeling of discomfort but was nourished by this group and was able to dismiss it. Had it not been for a random mishap, all would have been well, for you have learned to live in love and light and do not neglect to remember the One Infinite Creator.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then it was a fifth-density entity that made this particular attack on the instrument today?{{< /r >}}
+{{< r a="Don Elkins" >}}Then it was a fifth-density entity that made this particular attack on Carla today?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
@@ -152,7 +152,7 @@ This instrument did mention a feeling of discomfort but was nourished by this gr
 
 These distortions remove the focus from the One Infinite Source of love and light of which we are all messengers, humble and knowing that we, of ourselves, are but the tiniest portion of the Creator, a small part of a magnificent entirety of infinite intelligence.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there something that the instrument could do or we could do for the instrument to eliminate the problem she has, she continually experiences of the cold feeling of these attacks?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there something that Carla could do or we could do for Carla to eliminate the problem she has, she continually experiences of the cold feeling of these attacks?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
@@ -160,9 +160,9 @@ These distortions remove the focus from the One Infinite Source of love and ligh
 
 {{< l a="Ra" >}}You could cease in your attempts to be channels for the love and the light of the One Infinite Creator.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Have I missed anything now that we can do at all to aid the instrument during, before, or after a session or at any time?{{< /r >}}
+{{< r a="Don Elkins" >}}Have I missed anything now that we can do at all to aid Carla during, before, or after a session or at any time?{{< /r >}}
 
-{{< l a="Ra" >}}The love and devotion of this group misses nothing. Be at peace. There is some toll for this work. This instrument embraces this or we could not speak. Rest then in that peace and love and do as you will, as you wish, as you feel. Let there be an end to worry when this is accomplished. The great healer of distortions is love.{{< /l >}}
+{{< l a="Ra" >}}The love and devotion of this group misses nothing. Be at peace. There is some toll for this work. Carla embraces this or we could not speak. Rest then in that peace and love and do as you will, as you wish, as you feel. Let there be an end to worry when this is accomplished. The great healer of distortions is love.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I have a question that I couldn’t properly answer last night. It was asked by Morris. It has to do with the vibrations of the densities. I understand that first density is composed of core atomic vibrations that are in the red spectrum, second in the orange, etc. Am I to understand that the core vibrations of our planet are still in the red and that second-density beings are still in the orange at this time/space or space/time right now and that each density as it exists on our planet at this time has a different core vibration, or is this incorrect?{{< /r >}}
 
@@ -170,7 +170,7 @@ These distortions remove the focus from the One Infinite Source of love and ligh
 
 {{< r a="Don Elkins" >}}Then as the fourth-density vibrations come in this means that the planet can support entities of fourth-density core vibration. Will the planet then still be first-density core vibration and will there be second-density entities on it with second-density vibrations, and will there be third-density entities with third-density vibrations?{{< /r >}}
 
-{{< l a="Ra" >}}This will be the last full query of this working. There is energy but the distortions of the instrument suggest to us it would be well to shorten this working with your permission.{{< /l >}}
+{{< l a="Ra" >}}This will be the last full query of this working. There is energy but the distortions of Carla suggest to us it would be well to shorten this working with your permission.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Yes.{{< /r >}}
 

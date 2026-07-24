@@ -14,7 +14,7 @@ tags: ['Lemuria']
 
 February 10, 1981
 
-{{< r a="Don Elkins" >}}Would the future content of this book be affected in any way if the instrument reads the material we have already obtained?{{< /r >}}
+{{< r a="Don Elkins" >}}Would the future content of this book be affected in any way if Carla reads the material we have already obtained?{{< /r >}}
 
 {{< l a="Ra" >}}The future communications which we offer through Carla have no connection with Carla's mind complex. 
 
@@ -192,8 +192,8 @@ These entities were harvestable at the end of the second major cycle without eve
 
 <!-- 21.29 Questioner: I just wanted to apologize for a bit of confusion on my part in carrying on to this second 25,000 years.
 
-I would just like to ask if there is anything I could do to make the instrument more comfortable? We would hope to have a second session later today.
+I would just like to ask if there is anything I could do to make Carla more comfortable? We would hope to have a second session later today.
 
-Ra:  You may observe a slight misalignment between book, candle, and perpendicularity of censer. This is not significant, but as we have said the cumulative effects upon this instrument are not well. You are conscientious. It is well to have a second session given the appropriate exercising and manipulation of this instrument’s physical complex.
+Ra:  You may observe a slight misalignment between book, candle, and perpendicularity of censer. This is not significant, but as we have said the cumulative effects upon Carla are not well. You are conscientious. It is well to have a second session given the appropriate exercising and manipulation of Carla’s physical complex.
 
  -->

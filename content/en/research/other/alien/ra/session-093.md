@@ -42,7 +42,7 @@ Another method of viewing polarities might involve the concept of radiation/abso
 
 {{< r a="Don Elkins" >}}With the third tarot card we come to the first addition of archetypes after the veiling process, as I understand it. And I am assuming that this third archetype is, shall I say, loaded in a way so as to create, if possible, polarization since that seems to be one of the primary objectives of this particular Logos in the evolutionary process. Am I in any way correct on this?{{< /r >}}
 
-{{< l a="Ra" >}}Before we reply to your query we ask your patience as we must needs examine the mind complex of this instrument in order that we might attempt to move the left manual appendage of the instrument. If we are not able to effect some relief from pain we shall take our leave. Please have patience while we do that which is appropriate.
+{{< l a="Ra" >}}Before we reply to your query we ask your patience as we must needs examine the mind complex of Carla in order that we might attempt to move the left manual appendage of Carla. If we are not able to effect some relief from pain we shall take our leave. Please have patience while we do that which is appropriate.
 
 [Thirty-second pause.]
 
@@ -68,7 +68,7 @@ Further, the nature of the wingèd creature is echoed both by the female holding
 
 {{< r a="Don Elkins" >}}I would like, if possible, an example of the activity we call Catalyst of the Mind in a particular individual undergoing this process. Could Ra give an example of that?{{< /r >}}
 
-{{< l a="Ra" >}}All that assaults your senses is catalyst. We, in speaking to this support group through this instrument, offer catalyst. The configurations of each in the group of body offer catalyst through comfort/discomfort. In fact all that is unprocessed that has come before the notice of a mind/body/spirit complex is catalyst.{{< /l >}}
+{{< l a="Ra" >}}All that assaults your senses is catalyst. We, in speaking to this support group through Carla, offer catalyst. The configurations of each in the group of body offer catalyst through comfort/discomfort. In fact all that is unprocessed that has come before the notice of a mind/body/spirit complex is catalyst.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Then presently we receive catalyst of the mind as we are aware of Ra’s communication and we receive catalyst of the body as our body senses all of the inputs to the body, as I understand it. But could Ra then describe catalyst of the spirit, and are we at this time receiving that catalyst also? And if not, could Ra give an example of that?{{< /r >}}
 
@@ -104,7 +104,7 @@ Further, the nature of the wingèd creature is echoed both by the female holding
 
 [Fifteen-second pause.]
 
-I am Ra. We continue under somewhat less than optimal conditions. However, due to the nature of this instrument’s opening to us our pathway is quite clear and we shall continue. Due to pain flares we must ask that you repeat your last query.{{< /l >}}
+I am Ra. We continue under somewhat less than optimal conditions. However, due to the nature of Carla’s opening to us our pathway is quite clear and we shall continue. Due to pain flares we must ask that you repeat your last query.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I was just wondering if the transparency of the garment on the third card indicates the semi-permeable nature of the veil between conscious and subconscious?{{< /r >}}
 
@@ -126,9 +126,9 @@ All that you perceive seems to be consciously perceived. This is not the correct
 
 We would add that it is expected that each student shall naturally have an unique experience of perception dealing with each image. Therefore, it is not expected that the questioner ask comprehensively for all students. It is, rather, expected and accepted that the questioner will ask a moiety of questions which build up a series of concepts concerning each archetype which then offer to each succeeding student the opportunity for more informed study of the archetypical mind.
 
-May we ask for one more query at this time. We are pleased to report that this instrument has remembered to request the reserving of some transferred energy to make more comfortable the transition back to the waking state. Therefore, we find that there is sufficient energy for one more query.{{< /l >}}
+May we ask for one more query at this time. We are pleased to report that Carla has remembered to request the reserving of some transferred energy to make more comfortable the transition back to the waking state. Therefore, we find that there is sufficient energy for one more query.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am assuming that you mean one full question, and I’ll make that question: I’d like to know the significance of the shape of the crux ansata, and if that’s too much of an answer I will just ask if there is anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I am assuming that you mean one full question, and I’ll make that question: I’d like to know the significance of the shape of the crux ansata, and if that’s too much of an answer I will just ask if there is anything we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}
 There are mathematical ratios within this image which may yield informative insights to one fond of riddles. 

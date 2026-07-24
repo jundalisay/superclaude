@@ -19,13 +19,13 @@ July 8, 1982
 
 {{< l a="Ra" >}}Carla's condition is slightly weaker than previously because of the increased pain.
 
-The continued slight but noticeable losses of the vital energies is due to the necessity for the instrument to call upon this resource in order to clear the, shall we say, way for a carefully purified service-to-others working.
+The continued slight but noticeable losses of the vital energies is due to the necessity for Carla to call upon this resource in order to clear the, shall we say, way for a carefully purified service-to-others working.
 
 The use of the will in the absence of physical and, in this particular case, mental and mental/emotional energies requires vital energies.{{< /l >}}
 
 {{< r a="Don Elkins" >}}We have been trying to figure out how to provide Carla with the swirling water. Is there any other thing that we can do to improve this situation?{{< /r >}}
 
-{{< l a="Ra" >}}Continue in peace and harmony. Already the support group does much. There is the need for the instrument to choose the manner of its beingness. It has the distortion, as we have noted, towards the martyrdom. This can be evaluated and choices made only by the entity.{{< /l >}}
+{{< l a="Ra" >}}Continue in peace and harmony. Already the support group does much. There is the need for Carla to choose the manner of its beingness. It has the distortion, as we have noted, towards the martyrdom. This can be evaluated and choices made only by the entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What is the present situation with the 5th-density negative visitor we have? What prompted its return?{{< /r >}}
 
@@ -170,10 +170,10 @@ The experience of the Significator of this potentiated activity is of course dep
 
 
 
-<!-- May we ask if there are briefer queries before we leave this instrument?
+<!-- May we ask if there are briefer queries before we leave Carla?
 
-92.35 Questioner: Is there anything that we can do to make the instrument more comfortable or improve the contact?
+92.35 Questioner: Is there anything that we can do to make Carla more comfortable or improve the contact?
 
-Ra:  The support group is functioning well. The instrument, itself, might ponder some earlier words and consider their implications. We say this because the continued calling upon vital energies, if allowed to proceed to the end of the vital energy, will end this contact. There is not the need for continued calling upon these energies. The instrument must find the key to this riddle or face a growing loss of this particular service at this particular space/time nexus.
+Ra:  The support group is functioning well. Carla, itself, might ponder some earlier words and consider their implications. We say this because the continued calling upon vital energies, if allowed to proceed to the end of the vital energy, will end this contact. There is not the need for continued calling upon these energies. Carla must find the key to this riddle or face a growing loss of this particular service at this particular space/time nexus.
 
  -->

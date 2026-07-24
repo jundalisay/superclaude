@@ -12,13 +12,13 @@ tags: ['Sexual Energy', '']
 
 April 22, 1981
 
-48.1 Questioner: Could you tell me of the instrument’s condition and if she is improving with time?
+48.1 Questioner: Could you tell me of Carla’s condition and if she is improving with time?
 
-Ra:  This instrument’s vital energies are improving with time, as you measure it. This instrument’s physical energies are less than your previous asking.
+Ra:  Carla’s vital energies are improving with time, as you measure it. Carla’s physical energies are less than your previous asking.
 
-48.2 Questioner: “You have suggested several times that sexual energy transfers aid the instrument’s vital energy and this contact. It seems that this is not true for all people; that the sexual circuitry and the spiritual circuitry are not the same. Is this instrument an anomaly, or is the positive effect of sexual activity on spiritual energy normal for all third-density beings?”
+48.2 Questioner: “You have suggested several times that sexual energy transfers aid Carla’s vital energy and this contact. It seems that this is not true for all people; that the sexual circuitry and the spiritual circuitry are not the same. Is Carla an anomaly, or is the positive effect of sexual activity on spiritual energy normal for all third-density beings?”
 
-Ra:  This instrument, though not anomalous, is somewhat less distorted towards the separation of mind, body, and spirit than many of your third-density entities. The energies of sexual transfer would, if run through the undeveloped spiritual electrical or magnetic complex which you call circuitry, effectually blow out that particular circuit. Contrarily, the full spiritual energies run through bodily complex circuitry will also adversely affect the undeveloped circuit of the bodily complex. Some there are, such as this instrument, who have not in the particular incarnation chosen at any time to express sexual energy through the bodily circuitry. Thus from the beginning of such an entity’s experience the body and spirit express together in any sexual action. Therefore, to transfer sexual energy for this instrument is to transfer spiritually as well as physically. This instrument’s magnetic field, if scrutinized by one sensitive, will show these unusual configurations. This is not unique to one entity but is common to a reasonable number of entities who, having lost the desire for orange- and green-ray* sexual experiences, have strengthened the combined circuitry of spirit, mind, and body to express the totality of beingness in each action. It is for this reason also that the social intercourse and companionship is very beneficial to this instrument, it being sensitive to the more subtle energy transfers.
+Ra:  Carla, though not anomalous, is somewhat less distorted towards the separation of mind, body, and spirit than many of your third-density entities. The energies of sexual transfer would, if run through the undeveloped spiritual electrical or magnetic complex which you call circuitry, effectually blow out that particular circuit. Contrarily, the full spiritual energies run through bodily complex circuitry will also adversely affect the undeveloped circuit of the bodily complex. Some there are, such as Carla, who have not in the particular incarnation chosen at any time to express sexual energy through the bodily circuitry. Thus from the beginning of such an entity’s experience the body and spirit express together in any sexual action. Therefore, to transfer sexual energy for Carla is to transfer spiritually as well as physically. Carla’s magnetic field, if scrutinized by one sensitive, will show these unusual configurations. This is not unique to one entity but is common to a reasonable number of entities who, having lost the desire for orange- and green-ray* sexual experiences, have strengthened the combined circuitry of spirit, mind, and body to express the totality of beingness in each action. It is for this reason also that the social intercourse and companionship is very beneficial to Carla, it being sensitive to the more subtle energy transfers.
 
 * Ra said “green-ray,” but presumably they meant “yellow-ray.”
 
@@ -84,9 +84,9 @@ Ra:  This shall be the last full query of this working.
 
 As we have noted, each of the true-color densities has the seven energy centers and each entity contains all this in potentiation. The activation, while in yellow ray, of violet-ray intelligent infinity is a passport to the next octave of experience. There are adepts who have penetrated many, many of the energy centers and several of the true colors. This must be done with utmost care while in the physical body for as we noted when speaking of the dangers of linking red/orange/yellow circuitry with true-color blue circuitry the potential for disarrangement of the mind/body/spirit complex is great. However, the entity who penetrates intelligent infinity is basically capable of walking the universe with unfettered tread.
 
-48.11 Questioner: is there anything that we can do to make the instrument more comfortable or improve the contact?
+48.11 Questioner: is there anything that we can do to make Carla more comfortable or improve the contact?
 
-Ra:  All is well. As we have said, this instrument is weak physically and continued work times will lengthen this weakness. The continued contact also aids in the continued climb in vital energy of the instrument as well as the integration and vital energy of the group as an unit. The choice is yours. We are pleased. All is well. You are conscientious. Continue so.
+Ra:  All is well. As we have said, Carla is weak physically and continued work times will lengthen this weakness. The continued contact also aids in the continued climb in vital energy of Carla as well as the integration and vital energy of the group as an unit. The choice is yours. We are pleased. All is well. You are conscientious. Continue so.
 
 
 

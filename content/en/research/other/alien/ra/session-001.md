@@ -33,21 +33,21 @@ We would at this time transfer to an instrument known as Don. I am Ra.{{< /l >}}
 
 [Two-minute pause.]
 
-{{< l a="Ra" >}}I am again with this instrument. We are close to initiating a contact but are having difficulty penetrating a certain mental tension and distraction that is somewhat characteristic of this channel.
+{{< l a="Ra" >}}I am again with Carla. We are close to initiating a contact but are having difficulty penetrating a certain mental tension and distraction that is somewhat characteristic of this channel.
 
 We will therefore describe the type of vibration which is being sent.
 
-The instrument will find us entering the energy field at a slight angle towards the back of the top of the head in a narrow but strong area of intensity.
+Carla will find us entering the energy field at a slight angle towards the back of the top of the head in a narrow but strong area of intensity.
 
-We are not able to offer any conditioning due to our own transmitting limitations. Therefore, if the instrument can feel this particular effect he may then speak our thoughts as they come to him. We will again attempt this contact.{{< /l >}}
+We are not able to offer any conditioning due to our own transmitting limitations. Therefore, if Carla can feel this particular effect he may then speak our thoughts as they come to him. We will again attempt this contact.{{< /l >}}
 
 [Ninety-second pause.]
 
-{{< l a="Ra" >}}This instrument is resisting our contact.
+{{< l a="Ra" >}}Carla is resisting our contact.
 
 However, we assure her that we are satisfied that contact with the one known as Don is not at this time preferable to that instrument.
 
-We will, therefore, move on to the one known as Leonard. Again we caution the instrument that it is a narrow-band communication which is felt as a vibration entering the aura. We will now transfer this contact.{{< /l >}}
+We will, therefore, move on to the one known as Leonard. Again we caution Carla that it is a narrow-band communication which is felt as a vibration entering the aura. We will now transfer this contact.{{< /l >}}
 
 [Ninety-second pause.]
 
@@ -127,7 +127,7 @@ Thus, we are speaking to you and accepting both our distortions and your own in 
 
 We are not available to many of your peoples, for this is not an easily understood way of communication or type of philosophy. However, our very being is hopefully a poignant example of both the necessity and the near-hopelessness of attempting to teach.
 
-Each of those in this group is striving to use, digest, and diversify the information which we are sending this instrument, into the channels of the mind/body/spirit complex, without distortion.
+Each of those in this group is striving to use, digest, and diversify the information which we are sending Carla, into the channels of the mind/body/spirit complex, without distortion.
 
 The few whom you will illuminate by sharing your light are far more than enough reason for the greatest possible effort. To serve one is to serve all.
 
@@ -139,21 +139,24 @@ Thus, to attempt to discern and weave your way through as many group mind/body/s
 
 {{< r a="Don Elkins" >}}Will you be available for communication? Can we call on you in the future?{{< /r >}}
 
-{{< l a="Ra" >}}We have good contact with this instrument because of her recent experiences with trance.
+{{< l a="Ra" >}}
+We have good contact with Carla because of her recent experiences with trance.
 
-She is to be able to communicate our thoughts in your future. However, we advise care in disturbing the channel for a few moments, and then the proper procedure for aiding an instrument who has, to some extent, the need of re-entering the mind/body/spirit complex which the instrument has chosen for the life experience of this time/space.
+She is to be able to communicate our thoughts in your future. 
 
-Do you understand how to nurture this instrument?{{< /l >}}
+However, we advise care in disturbing the channel for a few moments, and then the proper procedure for aiding an instrument who has, to some extent, the need of re-entering the mind/body/spirit complex which Carla has chosen for the life experience of this time/space.
+
+Do you understand how to nurture Carla?{{< /l >}}
 
 {{< r a="Don Elkins" >}}No. Could you explain it?{{< /r >}}
 
 {{< l a="Ra" >}}We suggest first a brief period of silence.
 
-Then the repetition of the instrument’s vibratory complex of sound in your density which you call name.
+Then the repetition of Carla’s vibratory complex of sound in your density which you call name.
 
 Repeat until an answer is obtained.
 
-Then the laying on of the hands at the neck region for a brief period so that the instrument may recharge batteries which are not, shall we say, full of the essence of this particular field at this time.
+Then the laying on of the hands at the neck region for a brief period so that Carla may recharge batteries which are not, shall we say, full of the essence of this particular field at this time.
 
 Finally, a gift of water into which the love of all present has been given. This will restore this entity, for her distortions contain great sensitivity towards the vibrations of love, and the charged water will effect comfort.
 
@@ -161,7 +164,7 @@ We search your mind to find the vibration Alrac. It is this vibration from you w
 
 The charging of the water is done by those present placing their hands over the glass and visualizing the power of love entering the water. This will charge that very effective medium with those vibrations.
 
-This instrument is, at this time, quite fatigued. However, her heart is such that she continues to remain open to us and useful as a channel. This is why we have spent the time/space explaining how the distortions of what you may call fatigue may be ameliorated.
+Carla is, at this time, quite fatigued. However, her heart is such that she continues to remain open to us and useful as a channel. This is why we have spent the time/space explaining how the distortions of what you may call fatigue may be ameliorated.
 
-Under no circumstances should this instrument be touched until she has responded to her name. I do not wish to take this instrument beyond her capacity for physical energy. It grows low. Therefore, I must leave this instrument.{{< /l >}}
+Under no circumstances should Carla be touched until she has responded to her name. I do not wish to take Carla beyond her capacity for physical energy. It grows low. Therefore, I must leave Carla.{{< /l >}}
 

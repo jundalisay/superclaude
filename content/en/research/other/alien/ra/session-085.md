@@ -11,11 +11,11 @@ tags: ['', '']
 
 
 
-{{< l a="Ra" >}}We were having some difficulty with the channel of energy influx due to pain flare, as you call this distortion of the physical body complex of this instrument. Therefore, it was necessary to speak as briefly as possible until we had safely transferred the mind/body/spirit complex of this instrument.
+{{< l a="Ra" >}}We were having some difficulty with the channel of energy influx due to pain flare, as you call this distortion of the physical body complex of Carla. Therefore, it was necessary to speak as briefly as possible until we had safely transferred the mind/body/spirit complex of Carla.
 
 We beg your kind indulgence for our discourtesy. It was appropriate.
 
-The condition of this instrument is as follows. The necessity for extreme vigilance is less, due to the somewhat lessened physical complex energy deficit. The potential for distortion remains and continued watchfulness over the ingestion of helpful foodstuffs continues to be recommended. Although the instrument is experiencing more than the, shall we say, normal for this mind/body/spirit complex, distortion towards pain at this space/time nexus, the basic condition is less distorted. The vital energies are as previously stated.
+The condition of Carla is as follows. The necessity for extreme vigilance is less, due to the somewhat lessened physical complex energy deficit. The potential for distortion remains and continued watchfulness over the ingestion of helpful foodstuffs continues to be recommended. Although Carla is experiencing more than the, shall we say, normal for this mind/body/spirit complex, distortion towards pain at this space/time nexus, the basic condition is less distorted. The vital energies are as previously stated.
 
 We commend the vigilance and care of this group.{{< /l >}}
 
@@ -41,9 +41,9 @@ If your companion can possibly depolarize this group it must do so and that quic
 
 {{< l a="Ra" >}}If one wishes to have power over an entity it is an aid to know that entity’s name. If one wishes no power over an entity but wishes to collect that entity into the very heart of one’s own being it is well to forget the naming. Both processes are magically viable. Each is polarized in a specific way. It is your choice.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am assuming that it would be a problem for the instrument if she were to meditate without the hand pressure from the other-self at this time because of the continued greeting. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}I am assuming that it would be a problem for Carla if she were to meditate without the hand pressure from the other-self at this time because of the continued greeting. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct if the instrument wishes to remain free from this potential separation of mind/body/spirit complex from the third density it now experiences.{{< /l >}}
+{{< l a="Ra" >}}This is correct if Carla wishes to remain free from this potential separation of mind/body/spirit complex from the third density it now experiences.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I am assuming that, if for no other reason, since our fifth-density companion has been monitoring our communications with Ra it has been made aware of the veiling process of which we have been speaking. And it seems to me that, from an intellectual point of view, that conscious knowledge and acceptance of the fact that this veiling process was used for the purpose for which it was used, that it would be difficult to maintain high negative polarization once it was intellectually consciously accepted that this veiling process did in fact occur the way that you have described. Could you clear up my thinking on that point?{{< /r >}}
 
@@ -71,7 +71,7 @@ That which is not may be seen as a self-imposed darkness in which harmony is tur
 
 {{< r a="Don Elkins" >}}I believe that there were salient errors in the communication we just completed because of transmission difficulties. Are you aware of these errors?{{< /r >}}
 
-{{< l a="Ra" >}}We are unaware of errors although this instrument is experiencing flares of pain, as you call this distortion. We welcome and encourage your perceptions in correcting any errors in transmission.{{< /l >}}
+{{< l a="Ra" >}}We are unaware of errors although Carla is experiencing flares of pain, as you call this distortion. We welcome and encourage your perceptions in correcting any errors in transmission.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I think simply that the statement was made that we were speaking of the service-to-others path. Would you check that, please?{{< /r >}}
 
@@ -97,7 +97,7 @@ We may suggest at all times the constant remembrance of the density from which e
 
 {{< r a="Don Elkins" >}}What changes of functions, or control, or understanding, etc., of the mind/body/spirits were most effective in producing the evolution desired due to the veiling process?{{< /r >}}
 
-{{< l a="Ra" >}}We are having difficulty retaining clear channel through this instrument. It has a safe margin of transferred energy but is experiencing pain flares. May we ask that you repeat the query as we have a better channel now.{{< /l >}}
+{{< l a="Ra" >}}We are having difficulty retaining clear channel through Carla. It has a safe margin of transferred energy but is experiencing pain flares. May we ask that you repeat the query as we have a better channel now.{{< /l >}}
 
 {{< r a="Don Elkins" >}}After the veiling process certain veiled functions or activities must have been paramount in creating evolution in desired polarized directions. I was just wondering which of these had the greatest effect on polarization?{{< /r >}}
 
@@ -115,9 +115,9 @@ The third function of the mind which is significant and which has been veiled is
 
 Perhaps the most important and significant function that occurred due to the veiling of the mind from itself is not in itself a function of mind but rather is a product of the potential created by this veiling. This is the faculty of will or pure desire.
 
-We may ask for brief queries at this time. Although there is energy remaining for this working, we are reluctant to continue this contact, experiencing continual variations due to pain flares, as you call this distortion. Although we are unaware of any misgiven material we are aware that there have been several points during which our channel was less than optimal. This instrument is most faithful but we do not wish to misuse this instrument. Please query as you will.{{< /l >}}
+We may ask for brief queries at this time. Although there is energy remaining for this working, we are reluctant to continue this contact, experiencing continual variations due to pain flares, as you call this distortion. Although we are unaware of any misgiven material we are aware that there have been several points during which our channel was less than optimal. Carla is most faithful but we do not wish to misuse Carla. Please query as you will.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, I will just ask in closing: is an individualized portion or entity of Ra inhabiting the instrument’s body for the purpose of communication? And then, is there anything that we can do to improve the contact or make the instrument more comfortable?{{< /r >}}
+{{< r a="Don Elkins" >}}Well, I will just ask in closing: is an individualized portion or entity of Ra inhabiting Carla’s body for the purpose of communication? And then, is there anything that we can do to improve the contact or make Carla more comfortable?{{< /r >}}
 
-{{< l a="Ra" >}}We of Ra communicate through narrow-band channel through the violet-ray energy center. We are not, as you would say, physically indwelling in this instrument; rather, the mind/body/spirit complex of this instrument rests with us.{{< /l >}}
+{{< l a="Ra" >}}We of Ra communicate through narrow-band channel through the violet-ray energy center. We are not, as you would say, physically indwelling in Carla; rather, the mind/body/spirit complex of Carla rests with us.{{< /l >}}
 

@@ -14,7 +14,7 @@ March 13, 1981
 
 
 
-{{< r a="Don Elkins" >}}Will you tell us if there would be any hope or any purpose in either Jim or I taking the instrument’s place at the beginning of the session and attempting to replace the instrument as instrument by attempting the trance work ourselves?{{< /r >}}
+{{< r a="Don Elkins" >}}Will you tell us if there would be any hope or any purpose in either Jim or I taking Carla’s place at the beginning of the session and attempting to replace Carla as instrument by attempting the trance work ourselves?{{< /r >}}
 
 {{< l a="Ra" >}}This information is on the borderline of infringement upon free will. We shall, however, assume your desire to constitute permission to speak slightly beyond limits set by Confederation guidelines, shall we say.
 
@@ -36,7 +36,7 @@ At this space/time nexus neither the one known as Don nor the one known as Jim i
 
 {{< l a="Ra" >}}We cannot tell you this for each balance is perfect and each unique. We do not mean to be obscure.
 
-Let us offer an example. In a particular entity, let us use this instrument, the rays may be viewed as extremely even, red, orange, yellow. The green ray is extremely bright. This is, shall we say, balanced by a dimmer indigo. Between these two the point of balance resides, the blue ray of the communicator sparkling in strength above the ordinary. In the violet ray we see this unique spectrograph, if you will, and at the same time the pure violet surrounding the whole; this in turn, surrounded by that which mixes the red and violet ray, indicating the integration of mind, body, and spirit; this surrounded in turn by the vibratory pattern of this entity’s true density.
+Let us offer an example. In a particular entity, let us use Carla, the rays may be viewed as extremely even, red, orange, yellow. The green ray is extremely bright. This is, shall we say, balanced by a dimmer indigo. Between these two the point of balance resides, the blue ray of the communicator sparkling in strength above the ordinary. In the violet ray we see this unique spectrograph, if you will, and at the same time the pure violet surrounding the whole; this in turn, surrounded by that which mixes the red and violet ray, indicating the integration of mind, body, and spirit; this surrounded in turn by the vibratory pattern of this entity’s true density.
 
 This description may be seen to be both unbalanced and in perfect balance. The latter understanding is extremely helpful in dealing with other-selves. The ability to feel blockages is useful only to the healer. There is not properly a tiny fraction of judgment when viewing a balance in colors. Of course when we see many of the energy plexi weakened and blocked, we may understand that an entity has not yet grasped the baton and begun the race. However, the potentials are always there. All the rays fully balanced are there in waiting to be activated.
 
@@ -72,7 +72,7 @@ Perhaps another way to address your query is this: In the fully potentiated enti
 
 {{< r a="Don Elkins" >}}Was their craft visible to— would it have been visible to anyone of our density on our planet who might have seen it or might have been in that area at that time? Is it a third-density material the same as this chair or anything we have here?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. Please ask one more full question before we close as this instrument has low vital energy at this space/time.{{< /l >}}
+{{< l a="Ra" >}}This is correct. Please ask one more full question before we close as Carla has low vital energy at this space/time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}All right, I’ll just ask this one. I have here that— could you give me some idea of what conditions are like on a fourth-density negative or self-service planet? Can you do this?{{< /r >}}
 

@@ -112,13 +112,13 @@ The planetary entity known to you as Uranus is slowly moving through the first d
 
 {{< r a="Don Elkins" >}}Well then, could you generally say that as you get closer to the center of this major galactic system that there is a greater spiritual density, I’ll use the term, or that this general spiritual quality is advanced at that area?{{< /r >}}
 
-{{< l a="Ra" >}}This will be the last full question of this session as this instrument is somewhat uncomfortable. We do not wish to deplete the instrument.
+{{< l a="Ra" >}}This will be the last full question of this session as Carla is somewhat uncomfortable. We do not wish to deplete Carla.
 
 The spiritual density or mass of those more towards the center of your galaxy is known. However, this is due simply to the varying timelessness states during which the planetary spheres may coalesce, this process of space/time beginnings occurring earlier, shall we say, as you approach the center of the galactic spiral. We welcome any short [tape ends]{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument would like to know if you could tell her whether or not this item which is called Sam Millar’s polarizer would help her physical well-being. Can you do that?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla would like to know if you could tell her whether or not this item which is called Sam Millar’s polarizer would help her physical well-being. Can you do that?{{< /r >}}
 
-{{< l a="Ra" >}}As we scan the instrument we find anomalies of the magnetic field which are distorted towards our abilities to find narrow-band channel into this instrument’s mind/body/spirit complex. 
+{{< l a="Ra" >}}As we scan Carla we find anomalies of the magnetic field which are distorted towards our abilities to find narrow-band channel into Carla’s mind/body/spirit complex. 
 
-The polarizer of which you speak, as it is, would not be helpful. A careful reading of this instrument’s aura by those gifted in this area, and subsequent alterations of the magnetizing forces of this polarizer, would assist the entity, Sam, in creating such a polarizer that would be of some aid to the instrument. However, we would suggest that no electrical or magnetic equipment not necessary for the recording of our words be brought into these sessions, for we wish no distortions that are not necessary.{{< /l >}}
+The polarizer of which you speak, as it is, would not be helpful. A careful reading of Carla’s aura by those gifted in this area, and subsequent alterations of the magnetizing forces of this polarizer, would assist the entity, Sam, in creating such a polarizer that would be of some aid to Carla. However, we would suggest that no electrical or magnetic equipment not necessary for the recording of our words be brought into these sessions, for we wish no distortions that are not necessary.{{< /l >}}
 

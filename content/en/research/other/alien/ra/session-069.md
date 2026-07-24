@@ -26,7 +26,7 @@ Thank you. A question I didn’t get to ask the previous session which I will be
 {{< l a="Ra" >}}
 This is a misperceived concept. The mind/body/spirit complex which freely leaves the third-density physical complex is vulnerable when the appropriate protection is not at hand. You may perceive carefully that very few entities which choose to leave their physical complexes are doing work of such a nature as to attract the polarized attention of negatively oriented entities. The danger to most in trance state, as you term the physical complex being left, is the touching of the physical complex in such a manner as to attract the mind/body/spirit complex back thereunto or to damage the means by which that which you call ectoplasm is being recalled.
 
-This instrument is an anomaly in that it is well that the instrument not be touched or artificial light thrown upon it while in the trance state. However, the ectoplasmic activity is interiorized. The main difficulty, as you are aware, is then the previously discussed negative removal of the entity under its free will.
+Carla is an anomaly in that it is well that Carla not be touched or artificial light thrown upon it while in the trance state. However, the ectoplasmic activity is interiorized. The main difficulty, as you are aware, is then the previously discussed negative removal of the entity under its free will.
 
 That this can happen only in the trance state is not completely certain, but it is highly probable that in another out-of-body experience such as death the entity here examined would, as most positively polarized entities, have a great deal of protection from comrades, guides, and portions of the self which would be aware of the transfer you call the physical death.
 {{< /l >}}
@@ -48,7 +48,7 @@ This has alerted a much more determined friend of negative polarity which is int
 
 We may say once again two notes: Firstly, we searched long to find an appropriate channel or instrument and an appropriate support group. If this opportunity is ended we shall be grateful for that which has been done, but the possibility/probability vortices indicating the location of this configuration again are slight. Secondly, we thank you for we know what you sacrifice in order to do that which you as a group wish to do.
 
-We will not deplete this instrument insofar as we are able. We have attempted to speak of how the instrument may deplete itself through too great a dedication to the working. All these things and all else we have said has been heard. We are thankful. In the present situation we express thanks to the entities who call themselves Latwii.
+We will not deplete Carla insofar as we are able. We have attempted to speak of how Carla may deplete itself through too great a dedication to the working. All these things and all else we have said has been heard. We are thankful. In the present situation we express thanks to the entities who call themselves Latwii.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -78,7 +78,7 @@ Your query is somewhat opaque. Please restate for specificity.
 I was just guessing that since the mind/body/spirit complex is willed from the third-density body for a particular duty of service to others, that this then would create a situation primarily with respect to the first distortion where the opportunity for balancing this service by the negative service would be available and, therefore, shall I say, magically possible for the intrusion of the other polarization. Is this thinking at all correct?
 {{< /r >}}
 {{< l a="Ra" >}}
-No. The free will of the instrument is indeed a necessary part of the opportunity afforded the Orion group. However, this free will and the first distortion applies only to the instrument. The entire hope of the Orion group is to infringe upon free will without losing polarity. Thus this group, if represented by a wise entity, attempts to be clever.
+No. The free will of Carla is indeed a necessary part of the opportunity afforded the Orion group. However, this free will and the first distortion applies only to Carla. The entire hope of the Orion group is to infringe upon free will without losing polarity. Thus this group, if represented by a wise entity, attempts to be clever.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -148,14 +148,14 @@ Secondly, that which we and you do in workings such as this carries a magical ch
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-This instrument performs services on Sunday night channeling other members of the Confederation. We are reluctant to continue this because of the possibility of her slipping into trance and being offered the services of the negatively polarized adept. Are there any safeguards to create a situation where she cannot go into trance other than at a protected working such as this one?
+Carla performs services on Sunday night channeling other members of the Confederation. We are reluctant to continue this because of the possibility of her slipping into trance and being offered the services of the negatively polarized adept. Are there any safeguards to create a situation where she cannot go into trance other than at a protected working such as this one?
 {{< /r >}}
 {{< l a="Ra" >}}
-There are three. Firstly, the instrument must needs improve the disciplined subconscious taboo against requesting Ra. This would involve daily conscious and serious thought. The second safeguard is the refraining from the opening of the instrument to questions and answers for the present. The third is quite gross in its appearance but suffices to keep the instrument in its physical complex. The hand may be held.
+There are three. Firstly, Carla must needs improve the disciplined subconscious taboo against requesting Ra. This would involve daily conscious and serious thought. The second safeguard is the refraining from the opening of Carla to questions and answers for the present. The third is quite gross in its appearance but suffices to keep Carla in its physical complex. The hand may be held.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Then you are saying just by holding the instrument’s hand during the channeling sessions that this would prevent trance?
+Then you are saying just by holding Carla’s hand during the channeling sessions that this would prevent trance?
 {{< /r >}}
 {{< l a="Ra" >}}
 This would prevent those levels of meditation which necessarily precede trance. Also in the event that, unlikely as it might seem, the entity grew able to leave the physical complex the auric infringement and tactile pressure would cause the mind/body/spirit complex to refrain from leaving.

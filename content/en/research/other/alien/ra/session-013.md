@@ -109,13 +109,13 @@ Thus, the harvest shall be such that many will repeat the third-density cycle. T
 
 <!-- 13.24 Questioner: I would like to apologize for asking sometimes wrong or inappropriate questions. It’s difficult sometimes to ask precisely the right question. I don’t wish to go over any ground [that we’ve already covered]. I notice this period is slightly shorter than previous periods. Is there a reason for this?
 
-Ra: This instrument’s vital energy is somewhat low.
+Ra: Carla’s vital energy is somewhat low.
 
 13.25 Questioner: I am assuming from this that it would be a good idea not to have another session today. Is this correct?
 
-Ra: It is well to have a session later if it is acceptable that we monitor this instrument and cease using it when it becomes low in the material which we take from it. We do not wish to deplete this instrument.
+Ra: It is well to have a session later if it is acceptable that we monitor Carla and cease using it when it becomes low in the material which we take from it. We do not wish to deplete Carla.
 
-13.26 Questioner: This is always acceptable in any session. I will ask my final question. Is there anything that we can do to make the instrument more comfortable or facilitate these communications?
+13.26 Questioner: This is always acceptable in any session. I will ask my final question. Is there anything that we can do to make Carla more comfortable or facilitate these communications?
 
 Ra: It is well. Each is most conscientious. Continue in the same. Is there any other short query?
 

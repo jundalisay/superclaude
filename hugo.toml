@@ -31,8 +31,9 @@ summarylength = 30
 # Using a single $ for inline math can sometimes accidentally trigger e.g. $10.00). you can remove ['$', '$'] from the inline delimiters and exclusively use \\( ... \\) for your inline math.
 
 
+
 [sitemap]
-  changefreq = "weekly"
+  changeFreq = "weekly"  # Changed from changefreq to changeFreq
   priority = 0.5
   filename = "sitemap.xml"
 
@@ -327,8 +328,9 @@ defaultContentLanguageInSubdir = false
   section = ["HTML", "RSS"]
   page = ["HTML"]
 
+
 [minify]
-  disableXML = false
+  disableXML = true  # Changed from false to true - THIS IS THE KEY FIX!
   disableJSON = false
   [minify.tdewolff]
     [minify.tdewolff.html]

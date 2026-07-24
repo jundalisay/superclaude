@@ -193,7 +193,7 @@ However, the importance of the locus in infinite time/space dimensionality is so
 
 Ra: It depends upon the galactic system. Your own, as you know, contains many, many, millions of planet entities and star bodies.
 
-10.19 Questioner: I was just trying to get to the definition you were using for galaxy. You mentioned them a couple of times and it seemed to me that [inaudible] what you call a galaxy we call a planetary system. Is there any way to make the instrument more comfortable?
+10.19 Questioner: I was just trying to get to the definition you were using for galaxy. You mentioned them a couple of times and it seemed to me that [inaudible] what you call a galaxy we call a planetary system. Is there any way to make Carla more comfortable?
 
-Ra:  This instrument could be made somewhat more comfortable if more support were given the body complex. Other than this, we can only repeat the request to carefully align the symbols used to facilitate this instrument’s balance. Our contact is narrow-banded and thus the influx brought in with us must be precise.
+Ra:  Carla could be made somewhat more comfortable if more support were given the body complex. Other than this, we can only repeat the request to carefully align the symbols used to facilitate Carla’s balance. Our contact is narrow-banded and thus the influx brought in with us must be precise.
  -->

@@ -26,7 +26,7 @@ What would be the optimum geometrical arrangement of censer, chalice, and candle
 {{< /r >}}
 
 {{< l a="Ra" >}}
-Both chalice and candle occupy the optimal configuration with respect to the book most closely aligned with the Law of One in the distortion complexes of this instrument. It is optimal to have the censer to the rear of this book and centered at the spine of its open configuration.
+Both chalice and candle occupy the optimal configuration with respect to the book most closely aligned with the Law of One in the distortion complexes of Carla. It is optimal to have the censer to the rear of this book and centered at the spine of its open configuration.
 {{< /l >}}
 
 

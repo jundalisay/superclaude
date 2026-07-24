@@ -14,14 +14,16 @@ October 19, 1983
 
 
 {{< r a="Don Elkins" >}}
-what is the cause of the symmetrical welts on Carla's back? is there anything further that we can do to heal the instrument of any conditions, including these welts or their cause?
+what is the cause of the symmetrical welts on Carla's back? is there anything further that we can do to heal Carla of any conditions, including these welts or their cause?
 {{< /r >}}
 
 {{< l a="Ra" >}}The welting is a symptom of that which has been a prolonged psychic greeting.
 
-The opportunity for this entity to experience massive allergic reaction from streptococcal and staphylococcal viruses has been offered in hopes that this entity would wish to leave the incarnation.
+The opportunity for Carla to experience massive allergic reaction from streptococcal and staphylococcal viruses has been offered in hopes that she would wish to die.
 
-The previous occurrence of this state of the mind complex occurring upon, in your time-numbering system, the ninth month, the twelfth day, of your present planetary solar revolution caught your fifth-density companion unprepared. The entity is now prepared.
+The previous occurrence of this state of the mind complex was on Sep 12 1983 caught your 5th-density companion unprepared. 
+
+The entity is now prepared.
 
 There have been 2 instances wherein this entity could have started the reaction since the first opportunity was missed.
 
@@ -31,11 +33,11 @@ There have been 2 instances wherein this entity could have started the reaction 
 
 Both opportunities were met by this entity with a refusal to separate self from other-self with further work also upon the indigo-ray level concerning the avoidance of martyrdom while maintaining unity in love.
 
-Thusly, this instrument has had its immunal defenses breached.
+Thusly, Carla has had its immunal defenses breached.
 
 Its lymphatic system involved in the invasion of these viri.
 
-You may see some merit in a purging of the instrument’s yellow-ray, chemical body in order to more quickly aid the weakened body complex in its attempt to remove these substances.
+You may see some merit in a purging of Carla’s yellow-ray, chemical body in order to more quickly aid the weakened body complex in its attempt to remove these substances.
 
 Techniques include therapeutic enemas or colonics, the sauna once or twice in a day, and the use of vigorous rubbing of the integument for the period of approximately seven of your diurnal periods.
 
@@ -92,9 +94,9 @@ The garlic and onion, renewed weekly, should remain permanently hung, suspended 
 
 {{< r a="Don Elkins" >}}Is there any other suggestion that Ra could make with respect to any part of this move that is planned, and will we have any problems at all in contacting Ra in the new dwelling, and if so, would Ra tell us about those and what we could do to alleviate any problems in contacting Ra in the new location?{{< /r >}}
 
-{{< l a="Ra" >}}We weigh this answer carefully, for it comes close to abrogation of free will, but find the proximity acceptable due to this instrument’s determination to be of service to the One Infinite Creator regardless of personal circumstance.
+{{< l a="Ra" >}}We weigh this answer carefully, for it comes close to abrogation of free will, but find the proximity acceptable due to Carla’s determination to be of service to the One Infinite Creator regardless of personal circumstance.
 
-Any physical aid upon the part of the instrument in the packing and unpacking will activate those allergic reactions lying dormant for the most part at this time. This entity is allergic to those items which are unavoidable in transitions within your third-density illusion that is, dust, mildew, etc. The one known as Bob will be of aid in this regard. The scribe should take care also to imbibe a doubled quantity of liquids in order that any allergically caused toxins may be flushed from the body complex.
+Any physical aid upon the part of Carla in the packing and unpacking will activate those allergic reactions lying dormant for the most part at this time. This entity is allergic to those items which are unavoidable in transitions within your third-density illusion that is, dust, mildew, etc. The one known as Bob will be of aid in this regard. The scribe should take care also to imbibe a doubled quantity of liquids in order that any allergically caused toxins may be flushed from the body complex.
 
 There is no difficulty in resuming contact through this tuned instrument with the social memory complex, Ra, in the chosen dwelling, or, indeed, in any place whatsoever once physical and metaphysical cleansing has been accomplished.{{< /l >}}
 
@@ -142,12 +144,12 @@ Now, after the veil, the body is definitely an athanor for the mind. Prior to th
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We find the weariness of the group well-balanced by its harmony.
 
 That weariness shall continue in any future circumstance during your incarnations. Therefore look you to your love and thanksgiving for each other and join always in fellowship, correcting each broken strand of that affection with patience, comfort, and quietness. We find all meticulously observed in the alignments and give you these words only as reminder.
 
-All that can be done for the instrument seems done with an whole heart, and the instrument itself is working in the indigo ray with perseverance.
+All that can be done for Carla seems done with an whole heart, and Carla itself is working in the indigo ray with perseverance.
 
-We have previously mentioned some temporary measures for the instrument. If these are adopted, additional liquids shall be imbibed by the instrument and by the questioner, whose bond with the instrument is such that each difficulty for one is the same in sympathy for the other.{{< /l >}}
+We have previously mentioned some temporary measures for Carla. If these are adopted, additional liquids shall be imbibed by Carla and by the questioner, whose bond with Carla is such that each difficulty for one is the same in sympathy for the other.{{< /l >}}

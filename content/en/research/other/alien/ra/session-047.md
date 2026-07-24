@@ -102,7 +102,7 @@ Perhaps one suggestion that may be indicated is this: The indigo-ray body may be
 The normal procedure, given an harmonious passage from yellow-ray bodily manifestation, is for the mind and spirit complex to rest in the etheric or indigo body until such time as the entity begins its preparation for experience in an incarnated place which has a manifestation formed by the etheric energy molding it into activation and manifestation. This indigo body, being intelligent energy, is able to offer the newly dead, as you would term it, soul a perspective and a place from which to view the experience most recently manifested.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}I will only ask if there is anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I will only ask if there is anything we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}The appurtenances are conscientiously measured by eye and spirit. You are conscientious. All is well. Observe this instrument to ensure continued building of the vital energies. It will have to work upon its own physical energies for this weakness was brought about by free will of the self.{{< /l >}}
+{{< l a="Ra" >}}The appurtenances are conscientiously measured by eye and spirit. You are conscientious. All is well. Observe Carla to ensure continued building of the vital energies. It will have to work upon its own physical energies for this weakness was brought about by free will of the self.{{< /l >}}
 

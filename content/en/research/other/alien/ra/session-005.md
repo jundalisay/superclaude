@@ -14,7 +14,7 @@ tags: ['healing', '']
 
 {{< r a="Don Elkins" >}}You said it is necessary to first purify the self by certain disciplines and exercises. Then in order to heal a patient, it is necessary, by example, and possibly certain exercises, to create a mental configuration in the patient that allows him to heal himself. Am I correct?{{< /r >}}
 
-{{< l a="Ra" >}}It is not by example that the healer does the working. The working exists in and of itself. The healer is only the catalyst, much as this instrument has the catalysis necessary to provide the channel for our words, yet by example or exercise of any kind can take no thought for this working.
+{{< l a="Ra" >}}It is not by example that the healer does the working. The working exists in and of itself. The healer is only the catalyst, much as Carla has the catalysis necessary to provide the channel for our words, yet by example or exercise of any kind can take no thought for this working.
 
 The healing working is congruent in that it is a form of channeling some distortion of the intelligent infinity.{{< /l >}}
 
@@ -61,6 +61,6 @@ However, in almost every case wherein you are attempting the understanding of th
 
 
 
-<!-- 5.3 Questioner: Is the instrument comfortable? Is there any other thing that would increase the instrument’s comfort? That’s all.
+<!-- 5.3 Questioner: Is Carla comfortable? Is there any other thing that would increase Carla’s comfort? That’s all.
 
 Ra:  The candle could be rotated clockwise approximately 10° each session to improve the flow of spiraled energy through the being’s receiving mechanisms. This particular configuration is well otherwise. But we ask that the objects described and used be centered with geometric care and checked from time to time. Also that they not be exposed to that space/time in which work is not of importance. -->

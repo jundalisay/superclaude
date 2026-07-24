@@ -142,8 +142,8 @@ The third is a thought-form.{{< /l >}}
 
 
 
-<!-- 9.23 Questioner: We plan to do a second session later today if the instrument is capable and I’d like to ask— believe this is possible— and also if there is anything we can do to aid the instrument’s comfort.
+<!-- 9.23 Questioner: We plan to do a second session later today if Carla is capable and I’d like to ask— believe this is possible— and also if there is anything we can do to aid Carla’s comfort.
 
-Ra:  This instrument will require some adjustment of the tender portions of her body complex. The distortions are due to the energy center blockage you would call pineal.
+Ra:  Carla will require some adjustment of the tender portions of her body complex. The distortions are due to the energy center blockage you would call pineal.
 
  -->

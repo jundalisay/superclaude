@@ -19,7 +19,7 @@ January 28, 1981
 
 {{< l a="Ra" >}}The most important of the entities are the questioner and Jim.
 
-The two entities additional aid the instrument’s comfort by energizing the instrument with their abilities to share the physical energy complex which is a portion of your love vibration.{{< /l >}}
+The two entities additional aid Carla’s comfort by energizing Carla with their abilities to share the physical energy complex which is a portion of your love vibration.{{< /l >}}
 
 {{< r a="Don Elkins" >}}You said that Maldek was destroyed due to warfare. If Maldek hadn’t destroyed itself due to warfare would it have become a planet that evolved with self-service and would the entities have increased in density, gone on to say the fourth, fifth density in the negative sense or the sense of self-service?{{< /r >}}
 

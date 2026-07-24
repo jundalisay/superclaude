@@ -31,7 +31,7 @@ The cosmic patterns are also a function of the moment of incarnative entrance an
 
 
 {{< r a="Don Elkins" >}}
-Would it be helpful to plot the cycles for the instrument and attempt to have these sessions at the most favorable points with respect to the cycle?
+Would it be helpful to plot the cycles for Carla and attempt to have these sessions at the most favorable points with respect to the cycle?
 {{< /r >}}
 
 
@@ -47,7 +47,7 @@ We may suggest that it is always of some interest to observe the road map, both 
 
 
 {{< r a="Don Elkins" >}}
-Is there some way that we could, as a unit then, do something to reduce the effect of the psychic attack on the instrument and optimize the communicative opportunity?
+Is there some way that we could, as a unit then, do something to reduce the effect of the psychic attack on Carla and optimize the communicative opportunity?
 {{< /r >}}
 
 
@@ -121,20 +121,20 @@ This is largely incorrect.
 The balancing requires a meditative state in order for the work to be done. However, the balancing of sensation has to do with an analysis of the sensation with especial respect to any unbalanced leaning between the love and the wisdom or the positive and the negative. Then whatever is lacking in the balanced sensation is, as in all balancing, allowed to come into the being after the sensation is remembered and recalled in such detail as to overwhelm the senses.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Could you tell me why it is important for the appurtenances and other things to be so carefully aligned with respect to the instrument and why just a small ruffle in the sheet by the instrument causes a problem with the reception of Ra?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you tell me why it is important for the appurtenances and other things to be so carefully aligned with respect to Carla and why just a small ruffle in the sheet by Carla causes a problem with the reception of Ra?{{< /r >}}
 
 {{< l a="Ra" >}}
-This contact is narrow-band. The instrument is highly sensitive. 
+This contact is narrow-band. Carla is highly sensitive. 
 
-Thus we have good entry into it and can use it to an increasingly satisfactory level. However, the trance condition is, shall we say, not one which is without toll upon this instrument. Therefore, the area above the entrance into the physical complex of this instrument must be kept clear to avoid discomfort to the instrument especially as it re-enters the body complex. 
+Thus we have good entry into it and can use it to an increasingly satisfactory level. However, the trance condition is, shall we say, not one which is without toll upon Carla. Therefore, the area above the entrance into the physical complex of Carla must be kept clear to avoid discomfort to Carla especially as it re-enters the body complex. 
 
-The appurtenances give to the instrument sensory input and mental visualization which aid in the trance beginning. The careful alignment of these is important for the energizing group in that it is a reminder to that support group that it is time for a working. 
+The appurtenances give to Carla sensory input and mental visualization which aid in the trance beginning. The careful alignment of these is important for the energizing group in that it is a reminder to that support group that it is time for a working. 
 
 The ritualistic behaviors are triggers for many energies of the support group. You may have noticed more energy being used in workings as the number has increased due to the long-term, shall we say, effect of such ritualistic actions. 
 
-This would not aid another group as it was designed for this particular system of mind/body/spirit complexes and especially the instrument. 
+This would not aid another group as it was designed for this particular system of mind/body/spirit complexes and especially Carla. 
 
-There is enough energy transferred for one more long query. We do not wish to deplete this instrument.{{< /l >}}
+There is enough energy transferred for one more long query. We do not wish to deplete Carla.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}

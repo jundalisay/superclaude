@@ -15,7 +15,7 @@ March 22, 1982
 
 
 {{< r a="Don Elkins" >}}
-Could you first please tell me the condition of the instrument?
+Could you first please tell me the condition of Carla?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -23,7 +23,7 @@ The physical complex energy is in deficit at this particular space/time nexus du
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Is this the reason for the instrument’s feeling of uninterrupted weariness?
+Is this the reason for Carla’s feeling of uninterrupted weariness?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -35,14 +35,14 @@ Why is this an inevitable consequence? What is the mechanism of contact creating
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The mechanism creating weariness is that connection betwixt the density wherein this instrument’s mind/body/spirit complex is safely kept during these workings and the altogether variant density in which the instrument’s physical body complex resides at this space/time. As the instrument takes on more of the coloration of the resting density the third-density experience seems more heavy and wearisome. This was accepted by the instrument, as it desired to be of service. Therefore, we accept also this effect about which nothing of which we are aware may be done.
+The mechanism creating weariness is that connection betwixt the density wherein Carla’s mind/body/spirit complex is safely kept during these workings and the altogether variant density in which Carla’s physical body complex resides at this space/time. As Carla takes on more of the coloration of the resting density the third-density experience seems more heavy and wearisome. This was accepted by Carla, as it desired to be of service. Therefore, we accept also this effect about which nothing of which we are aware may be done.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
 Is the effect a function of the number of sessions, and has it reached a peak level or will it continue to increase in effect?
 {{< /r >}}
 {{< l a="Ra" >}}
-This wearying effect will continue but should not be confused with the physical energy levels, having only to do with the, as you would call it, daily round of experience. In this sphere those things which are known already to aid this instrument will continue to be of aid. You will, however, notice the gradual increase in transparency, shall we say, of the vibrations of the instrument.
+This wearying effect will continue but should not be confused with the physical energy levels, having only to do with the, as you would call it, daily round of experience. In this sphere those things which are known already to aid Carla will continue to be of aid. You will, however, notice the gradual increase in transparency, shall we say, of the vibrations of Carla.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -63,7 +63,7 @@ This is quite correct.
 Then we would also experience the uninterrupted wearying effect as a consequence of the contact. Is this correct?
 {{< /r >}}
 {{< l a="Ra" >}}
-The instrument, by the very nature of the contact, bears the brunt of this effect. Each of the support group, by offering the love and the light of the One Infinite Creator in unqualified support in these workings and in energy transfers for the purpose of these workings, experiences between 10 and 15 percent, roughly, of this effect. It is cumulative and identical in the continual nature of its manifestation.
+Carla, by the very nature of the contact, bears the brunt of this effect. Each of the support group, by offering the love and the light of the One Infinite Creator in unqualified support in these workings and in energy transfers for the purpose of these workings, experiences between 10 and 15 percent, roughly, of this effect. It is cumulative and identical in the continual nature of its manifestation.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -76,25 +76,25 @@ One group might be tempted and thus lose the very contact which caused the diffi
 
 Another group might be strong at first but not faithful in the face of difficulty. Thus the story would end.
 
-Another group might choose the path of martyrdom in its completeness and use the instrument until its physical body complex failed from the harsh toll demanded when all energy was gone.
+Another group might choose the path of martyrdom in its completeness and use Carla until its physical body complex failed from the harsh toll demanded when all energy was gone.
 
-This particular group, at this particular nexus, is attempting to conserve the vital energy of the instrument. It is attempting to balance love of service and wisdom of service, and it is faithful to the service in the face of difficulty. Temptation has not yet ended this group’s story.
+This particular group, at this particular nexus, is attempting to conserve the vital energy of Carla. It is attempting to balance love of service and wisdom of service, and it is faithful to the service in the face of difficulty. Temptation has not yet ended this group’s story.
 
-We may not know the future, but the probability of this situation continuing over a relatively substantial period of your space/time is large. The significant factor is the will of the instrument and of the group to serve. That is the only cause for balancing the slowly increasing weariness which will continue to distort your perceptions. Without this will the contact might be possible but finally seem too much of an effort.
+We may not know the future, but the probability of this situation continuing over a relatively substantial period of your space/time is large. The significant factor is the will of Carla and of the group to serve. That is the only cause for balancing the slowly increasing weariness which will continue to distort your perceptions. Without this will the contact might be possible but finally seem too much of an effort.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-The instrument would like to know why she has a feeling of increased vital energy?
+Carla would like to know why she has a feeling of increased vital energy?
 {{< /r >}}
 {{< l a="Ra" >}}
-We leave this answer to the instrument.
+We leave this answer to Carla.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
 She would like to know if she has an increased sensitivity to foods?
 {{< /r >}}
 {{< l a="Ra" >}}
-This instrument has an increased sensitivity to all stimuli. It is well that it use prudence.
+Carla has an increased sensitivity to all stimuli. It is well that it use prudence.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -122,7 +122,7 @@ This is correct and may be seen to be additionally correct in that each moment a
 And finally, the fourteenth, the Way of the Body is called the Alchemist because there is an infinity of time for the various bodies to operate within to learn the lessons necessary for evolution. Is this correct?
 {{< /r >}}
 {{< l a="Ra" >}}
-This is less than completely correct as the Great Way of the Body must be seen, as are all the archetypes of the body, to be a mirror image of the thrust of the activity of the mind. The body is the creature of the mind and is the instrument of manifestation for the fruits of mind and spirit. Therefore, you may see the body as providing the athanor through which the alchemist manifests gold.
+This is less than completely correct as the Great Way of the Body must be seen, as are all the archetypes of the body, to be a mirror image of the thrust of the activity of the mind. The body is the creature of the mind and is Carla of manifestation for the fruits of mind and spirit. Therefore, you may see the body as providing the athanor through which the alchemist manifests gold.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -252,7 +252,7 @@ From this I will assume that at the beginning of the octave we had the core, wit
 {{< l a="Ra" >}}
 You are precisely correct.
 
-This instrument is unusually fragile at this space/time and has used much of the transferred energy. We would invite one more full query for this working.
+Carla is unusually fragile at this space/time and has used much of the transferred energy. We would invite one more full query for this working.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}

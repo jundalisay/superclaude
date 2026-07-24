@@ -13,15 +13,15 @@ tags: ['archetype']
 May 29, 1982
 
 
-{{< r a="Don Elkins" >}}Could you first please give me the condition of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you first please give me the condition of Carla?{{< /r >}}
 
 {{< l a="Ra" >}}The physical complex energy deficit is considerable at this space/time. There has been also a significant loss of the vital energies. However, these energies are still well within the distortion you may call strength.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Of all of the things that you have mentioned before for replenishing these energies, at this particular space/time, which would be most appropriate for the replenishing of both of these energies?{{< /r >}}
 
-{{< l a="Ra" >}}As you note, there are many factors which contribute to the aiding of the strength distortions and the amelioration of distortions towards weakness in this instrument. We suggest to each that those many things which have been learned be conscientiously applied.
+{{< l a="Ra" >}}As you note, there are many factors which contribute to the aiding of the strength distortions and the amelioration of distortions towards weakness in Carla. We suggest to each that those many things which have been learned be conscientiously applied.
 
-We would single out one physical distortion for discussion. The fourth-density negative minions which visit your group at this time are energizing a somewhat severe complex of imbalances in the manual appendages of this instrument and, to a lesser extent, those distortions of the thoracic region. We suggest care be taken to refrain from any unnecessary use of these appendages. As this instrument will not appreciate this suggestion we suggest the appropriate discussion.{{< /l >}}
+We would single out one physical distortion for discussion. The fourth-density negative minions which visit your group at this time are energizing a somewhat severe complex of imbalances in the manual appendages of Carla and, to a lesser extent, those distortions of the thoracic region. We suggest care be taken to refrain from any unnecessary use of these appendages. As Carla will not appreciate this suggestion we suggest the appropriate discussion.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I assume from this that our fifth-density negative companion is still on R and R. Is this correct?{{< /r >}}
 
@@ -31,39 +31,39 @@ We would single out one physical distortion for discussion. The fourth-density n
 
 {{< l a="Ra" >}}The new configuration of the censer is quite helpful to the more subtle patterns of energy surrounding these workings. It would be helpful to have a continuously burning amount of cense. However, the difficulty is in providing this without overpowering this enclosure with the amount of effluvium and physical product of combustion. Having to choose betwixt allowing the censer to finish its burning and having an overabundance of the smoke, we would suggest the former as being more helpful.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument has mentioned what she refers to as bleed-through or being aware, during these sessions sometimes, of the communication. Would you comment on this?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla has mentioned what she refers to as bleed-through or being aware, during these sessions sometimes, of the communication. Would you comment on this?{{< /r >}}
 
-{{< l a="Ra" >}}We have the mind/body/spirit complex of the instrument with us. As this entity begins to awaken from the metaphorical crib of experiencing light and activity in our density it is beginning to be aware of the movement of thought. It does not grasp these thoughts any more than your third-density infant may grasp the first words it perceives. The experience should be expected to continue and is an appropriate outgrowth of the nature of these workings and of the method by which this instrument has made itself available to our words.{{< /l >}}
+{{< l a="Ra" >}}We have the mind/body/spirit complex of Carla with us. As this entity begins to awaken from the metaphorical crib of experiencing light and activity in our density it is beginning to be aware of the movement of thought. It does not grasp these thoughts any more than your third-density infant may grasp the first words it perceives. The experience should be expected to continue and is an appropriate outgrowth of the nature of these workings and of the method by which Carla has made itself available to our words.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument mentioned a recurrence of the need for going to the bathroom prior to this session. Is this because of the low vital energy?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla mentioned a recurrence of the need for going to the bathroom prior to this session. Is this because of the low vital energy?{{< /r >}}
 
 {{< l a="Ra" >}}It is part of the cause of the lowered vital energy level. This entity has been sustaining a level of the distortion you call pain which few among your peoples experience without significant draining of the energies. Indeed, the stability of the entity is notable. However, the entity has thusly become drained and further has felt other distortions such as those for a variety of experiences accentuated, for this is one means of balancing the inward-looking experience of the physical pain. Due to concern for this entity such activities have been discouraged. This has further drained the entity.
 
-The will to be of service to the Creator through the means of offering itself as instrument in these workings, therefore, was given an opportunity for the testing of resolve. This entity used some vital energy to fuel and replenish the will. No physical energy has been used by the instrument, but the vital energies were tapped so that this entity might have the opportunity to once again consciously choose to serve the One Infinite Creator.{{< /l >}}
+The will to be of service to the Creator through the means of offering itself as instrument in these workings, therefore, was given an opportunity for the testing of resolve. This entity used some vital energy to fuel and replenish the will. No physical energy has been used by Carla, but the vital energies were tapped so that this entity might have the opportunity to once again consciously choose to serve the One Infinite Creator.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is the small crystal that the instrument uses upon her during the session of any benefit or detriment?{{< /r >}}
+{{< r a="Don Elkins" >}}Is the small crystal that Carla uses upon her during the session of any benefit or detriment?{{< /r >}}
 
 {{< l a="Ra" >}}This crystal is beneficial as long as he who has charged it is functioning in a positively oriented manner.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Who charged the crystal?{{< /r >}}
 
-{{< l a="Ra" >}}This crystal was charged for use by this instrument by the one known as Neil.{{< /l >}}
+{{< l a="Ra" >}}This crystal was charged for use by Carla by the one known as Neil.{{< /l >}}
 
 {{< r a="Don Elkins" >}}It would be an abridgment of the first distortion to tell us whether he is still functioning in a positive manner, would it not?{{< /r >}}
 
 {{< l a="Ra" >}}We perceive you have replied to your own query.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Our publisher requests pictures for the book, The Law of One, that is going to press at this time. Would you comment on the advisability, benefit or detriment, magical or otherwise, of us using pictures of this particular setup, the instrument, and the appurtenances in the book?{{< /r >}}
+{{< r a="Don Elkins" >}}Our publisher requests pictures for the book, The Law of One, that is going to press at this time. Would you comment on the advisability, benefit or detriment, magical or otherwise, of us using pictures of this particular setup, Carla, and the appurtenances in the book?{{< /r >}}
 
 {{< l a="Ra" >}}The practical advisability of such a project is completely a product of your discrimination. There are magical considerations.
 
 Firstly, if pictures be taken of a working the visual image must needs be that which is; that is, it is well for you to photograph only an actual working and no sham nor substitution of any material. There shall be no distortions which this group can avoid any more than we would wish distortions in our words.
 
-Secondly, it is inadvisable to photograph the instrument or any portion of the working room while the instrument is in trance. This is a narrow-band contact and we wish to keep electrical and electromagnetic energies constant when their presence is necessary and not present at all otherwise.
+Secondly, it is inadvisable to photograph Carla or any portion of the working room while Carla is in trance. This is a narrow-band contact and we wish to keep electrical and electromagnetic energies constant when their presence is necessary and not present at all otherwise.
 
-We wished to state, thirdly, that once the instrument is aware that the picture-taking will be performed, that during the entire picture-taking, whether before or after the working, the instrument be required to continuously respond to speech, thus assuring that no trance is imminent.{{< /l >}}
+We wished to state, thirdly, that once Carla is aware that the picture-taking will be performed, that during the entire picture-taking, whether before or after the working, Carla be required to continuously respond to speech, thus assuring that no trance is imminent.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I have planned the following: We will, after a session is complete and the instrument has been awakened, before moving the instrument, have the instrument continually talk to us while I take pictures of the configuration the instrument is in at this time. In addition to this I will take some other pictures of the instrument in the other room, and probably ourselves, too, just for additional pictures of us as requested by the publisher. Is this the optimal, or one of the optimal, fillings of this requirement?{{< /r >}}
+{{< r a="Don Elkins" >}}I have planned the following: We will, after a session is complete and Carla has been awakened, before moving Carla, have Carla continually talk to us while I take pictures of the configuration Carla is in at this time. In addition to this I will take some other pictures of Carla in the other room, and probably ourselves, too, just for additional pictures of us as requested by the publisher. Is this the optimal, or one of the optimal, fillings of this requirement?{{< /r >}}
 
 {{< l a="Ra" >}}Yes. We ask that any photographs tell the truth, that they be dated, and shine with a clarity so that there is no shadow of any but genuine expression which may be offered to those which seek truth. We come as humble messengers of the Law of One, desiring to decrease distortions. We ask that you, who have been our friends, work with any considerations such as above discussed, not with the thought of quickly removing an unimportant detail, but, as in all ways, regard such as another opportunity to, as the adept must, be yourselves and offer that which is in and with you without pretense of any kind.{{< /l >}}
 

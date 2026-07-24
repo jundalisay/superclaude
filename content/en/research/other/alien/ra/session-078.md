@@ -22,27 +22,27 @@ February 19, 1982
 
 {{< l a="Ra" >}}It was a missed footing.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Did this have any detrimental effect on the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Did this have any detrimental effect on Carla?{{< /r >}}
 
-{{< l a="Ra" >}}Very little. The instrument felt the presence it has come to associate with cold and spoke. The instrument did the appropriate thing.{{< /l >}}
+{{< l a="Ra" >}}Very little. Carla felt the presence it has come to associate with cold and spoke. Carla did the appropriate thing.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you tell me the condition of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you tell me the condition of Carla?{{< /r >}}
 
 {{< l a="Ra" >}}The physical complex is as previously stated. There is some slight loss of vital energy. The basic complex distortions are similar to your previous asking.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument would like for me to ask if there is any problem with her kidneys?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla would like for me to ask if there is any problem with her kidneys?{{< /r >}}
 
-{{< l a="Ra" >}}This query is more complex than its brevity certifies. The physical complex renal system of this instrument is much damaged. The time/space equivalent which rules the body complex is without flaw. There was a serious question, due to psychic attack, as to whether the spiritual healing of this system would endure. It did so but has the need to be re-enforced by affirmation of the ascendancy of the spiritual over the apparent or visible.
+{{< l a="Ra" >}}This query is more complex than its brevity certifies. The physical complex renal system of Carla is much damaged. The time/space equivalent which rules the body complex is without flaw. There was a serious question, due to psychic attack, as to whether the spiritual healing of this system would endure. It did so but has the need to be re-enforced by affirmation of the ascendancy of the spiritual over the apparent or visible.
 
-When this instrument began ingesting substances designed to heal, in a physical sense, among other things the renal complex, this instrument was ceasing the affirmation of healing. Due to this, again, the healing was weakened. This is of some profound distortion and it would be well for the instrument to absorb these concepts. We ask your forgiveness for offering information which may abridge free will, but the dedication of the instrument is such that it would persevere regardless of its condition, if possible. Thusly we offer this information that it may persevere with a fuller distortion towards comfort.{{< /l >}}
+When Carla began ingesting substances designed to heal, in a physical sense, among other things the renal complex, Carla was ceasing the affirmation of healing. Due to this, again, the healing was weakened. This is of some profound distortion and it would be well for Carla to absorb these concepts. We ask your forgiveness for offering information which may abridge free will, but the dedication of Carla is such that it would persevere regardless of its condition, if possible. Thusly we offer this information that it may persevere with a fuller distortion towards comfort.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the experience that caused the healing of the time/space kidney?{{< /r >}}
 
 {{< l a="Ra" >}}This experience was the healing of self by self with the catalyst of the spiritual healer whom you call Pachita.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. In utilizing the energetic displacements of thought-forms energizing the instrument during contact most efficiently, what specifically could we do?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. In utilizing the energetic displacements of thought-forms energizing Carla during contact most efficiently, what specifically could we do?{{< /r >}}
 
-{{< l a="Ra" >}}Each of the support group has an excess of love and light to offer the instrument during the working. Already each sends to the instrument love, light, and thoughts of strength of the physical, mental, and spiritual configurations. These sendings are forms. You may refine these sendings until the fullest manifestations of love and light are sent into the energy web of this entity which functions as instrument. Your exact sending is, in order to be most potent, the creature of your own making.{{< /l >}}
+{{< l a="Ra" >}}Each of the support group has an excess of love and light to offer Carla during the working. Already each sends to Carla love, light, and thoughts of strength of the physical, mental, and spiritual configurations. These sendings are forms. You may refine these sendings until the fullest manifestations of love and light are sent into the energy web of this entity which functions as instrument. Your exact sending is, in order to be most potent, the creature of your own making.{{< /l >}}
 
 {{< r a="Don Elkins" >}}OK. Thank you. I am going to go back to an earlier time, if you could call it that, in the evolution to try to establish a very fundamental base for some of the concepts that seem to be the foundation of everything that we experience here so that we can more fully examine the basis of our evolution.
 
@@ -190,12 +190,12 @@ We now address your query as to the archetype which is the Matrix of the Mind. A
 
 {{< l a="Ra" >}}This is perceptive. The broad name for Archetype Four may be the Experience of the Mind. In the tarot you find the name of Emperor. Again this implies nobility and in this case we may see the suggestion that it is only through the catalyst which has been processed by the potentiated consciousness that experience may ensue. Thusly is the conscious mind ennobled by the use of the vast resources of the unconscious mind.
 
-This instrument’s dorsal side grows stiff, and the instrument tires. We welcome one more query.{{< /l >}}
+Carla’s dorsal side grows stiff, and Carla tires. We welcome one more query.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I would like to ask the reason for this session having been longer than most previous sessions and also if there is anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I would like to ask the reason for this session having been longer than most previous sessions and also if there is anything we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}This instrument was given far more than the, shall we say, usual amount of transferred energy. There is a limit to the amount of energy of this type which may, with safety, be used when the instrument is, itself, without physical reserves. This is inevitably due to the various distortions such as we mentioned previously in this working having to do with growing dorsal discomfort.
+{{< l a="Ra" >}}Carla was given far more than the, shall we say, usual amount of transferred energy. There is a limit to the amount of energy of this type which may, with safety, be used when Carla is, itself, without physical reserves. This is inevitably due to the various distortions such as we mentioned previously in this working having to do with growing dorsal discomfort.
 
-The alignments are fastidious. We appreciate your conscientiousness. In order to enhance the comfort of the instrument it might be suggested that careful manipulation of the dorsal area be accomplished before a working.
+The alignments are fastidious. We appreciate your conscientiousness. In order to enhance the comfort of Carla it might be suggested that careful manipulation of the dorsal area be accomplished before a working.
 
-It is also suggested that, due to the attempt at psychic attack, this instrument will require warmth along the right side of the physical complex. There has been some infringement but it should not be long-lasting. It is, however, well to swaddle this instrument sufficiently to ward off any manifestation of this cold in physical form.{{< /l >}}
+It is also suggested that, due to the attempt at psychic attack, Carla will require warmth along the right side of the physical complex. There has been some infringement but it should not be long-lasting. It is, however, well to swaddle Carla sufficiently to ward off any manifestation of this cold in physical form.{{< /l >}}

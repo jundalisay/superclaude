@@ -14,7 +14,7 @@ September 24, 1982
 
 {{< l a="Ra" >}}I greet you in the love and in the light of the One Infinite Creator. We communicate now.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you first please give me the condition of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you first please give me the condition of Carla?{{< /r >}}
 
 {{< l a="Ra" >}}The physical energy deficit has somewhat increased. The vital energy distortions are somewhat improved.{{< /l >}}
 
@@ -22,20 +22,20 @@ September 24, 1982
 
 {{< l a="Ra" >}}The purpose of preparation for a working is the purification of each entity involved with the working. The removal of a portion of this preparation has a value determined by the purity of each which takes part in the working has achieved without that particular aid.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I had just taken a wild guess that it was possibly during that meditation prior to the working that was used by our fifth-density, negative friend to create the allergic reactions and other in the instrument. Was I correct on that, or incorrect?{{< /r >}}
+{{< r a="Don Elkins" >}}I had just taken a wild guess that it was possibly during that meditation prior to the working that was used by our fifth-density, negative friend to create the allergic reactions and other in Carla. Was I correct on that, or incorrect?{{< /r >}}
 
-{{< l a="Ra" >}}This entity greets the instrument as close to the working in your space/time continuum as is practicable. The elimination of that preparation caused the fifth-density entity to greet this instrument at this juncture of decision not to meditate. The greeting does not take what you would call a noticeable amount of your time.{{< /l >}}
+{{< l a="Ra" >}}This entity greets Carla as close to the working in your space/time continuum as is practicable. The elimination of that preparation caused the fifth-density entity to greet Carla at this juncture of decision not to meditate. The greeting does not take what you would call a noticeable amount of your time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was the greeting as effective as it would have been if the meditation had been done?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I have a question from the instrument. She states: “Could Ra tell us what factors are allowing our fifth-density, negative companion to be able to continue greeting the instrument in the throat area as well as with other unusual sensations such as dizziness, smelling of orange blossoms, the feeling of stepping on imaginary creatures, and what can be done to lessen these greetings? And why the greetings occur on walks?”{{< /r >}}
+{{< r a="Don Elkins" >}}I have a question from Carla. She states: “Could Ra tell us what factors are allowing our fifth-density, negative companion to be able to continue greeting Carla in the throat area as well as with other unusual sensations such as dizziness, smelling of orange blossoms, the feeling of stepping on imaginary creatures, and what can be done to lessen these greetings? And why the greetings occur on walks?”{{< /r >}}
 
 {{< l a="Ra" >}}
-We tread close to the Law of Confusion, saved only by the awareness that given lack of information this instrument would, nonetheless, continue to offer its service.
+We tread close to the Law of Confusion, saved only by the awareness that given lack of information Carla would, nonetheless, continue to offer its service.
 
-The working of your 5th-density companion, which still affects the instrument, was, as we have stated, a potent working. The totality of those biases which offer to the instrument opportunities for increased vital and physical strength, shall we say, were touched by the working. 
+The working of your 5th-density companion, which still affects Carla, was, as we have stated, a potent working. The totality of those biases which offer to Carla opportunities for increased vital and physical strength, shall we say, were touched by the working. 
 
 The blue-ray difficulties were not entirely at an end after the first asking. Again, this group experienced blockage rare for the group; that is, the blue-ray blockage of unclear communication. By this means the efficacy of the working was reinforced. 
 
@@ -43,13 +43,13 @@ The potential of this working is significant.
 
 The physical exercising, the sacred music, the varieties of experience, and indeed simple social intercourse are jeopardized by a working which attempts to close the throat and the mouth. It is to be noted that there is also the potential for the loss of this contact.
 
-We suggest that the instrument’s allergies create a continuous means whereby the distortion created by the magical working may be continued. 
+We suggest that Carla’s allergies create a continuous means whereby the distortion created by the magical working may be continued. 
 
 it shall be necessary, in order to remove the working, to completely remove the distortion within the throat area caused by this working. 
 
 The continuous aggravation of allergic reactions makes this challenging. The orange blossom is the odor which you may associate with the social memory complex of fifth-density positive which is known to you as sound vibration, Latwii. 
 
-This entity was with the instrument as requested by the instrument. The odor was perceived due to the quite sensitive nature of the instrument due, again, to its, shall we say, acme in the eighteen-day cycle. The sensation of stepping upon the small animal and killing it was a greeting from your fifth-density, negative companion also made possible by the above circumstance. 
+This entity was with Carla as requested by Carla. The odor was perceived due to the quite sensitive nature of Carla due, again, to its, shall we say, acme in the eighteen-day cycle. The sensation of stepping upon the small animal and killing it was a greeting from your fifth-density, negative companion also made possible by the above circumstance. 
 
 As to the removal of the effects of the magical working, we may make two suggestions, one immediate and one general. 
 
@@ -57,15 +57,15 @@ Firstly, within the body of knowledge which those healers known among your peopl
 
 Of course, the allergies would persist after this course of medicine were ended, but the effects of the working would no longer come into play. 
 
-The one you call Jerome might well be of aid in this somewhat unorthodox medical situation. As allergies are quite misunderstood by your orthodox healers, it would be inappropriate to subject the instrument to the services of your medical doctors which find the amelioration of allergic effects to be connected with the intake of these same toxins in milder form. 
+The one you call Jerome might well be of aid in this somewhat unorthodox medical situation. As allergies are quite misunderstood by your orthodox healers, it would be inappropriate to subject Carla to the services of your medical doctors which find the amelioration of allergic effects to be connected with the intake of these same toxins in milder form. 
 
 This, shall we say, treats, the symptom. However, the changes offered to the body complex are quite inadvisable. The allergy may be seen to be the rejection upon a deep level of the mind complex of the environment of the mind/body/spirit complex. 
 
 Thus the allergy may be seen in its pure form as the mental/emotional distortion of the deeper self. The more general recommendation lies with one which does not wish to be identified. There is a code name prayer wheel. 
 
-We suggest ten treatments from this healer and further suggest a clear reading and subsequent following, upon the part of the instrument, of the priorities of allergy, especially to your foodstuffs. Lastly, the effects of the working become apparent upon the walking when the body complex has begun to exert itself to the point of increased respiration. 
+We suggest ten treatments from this healer and further suggest a clear reading and subsequent following, upon the part of Carla, of the priorities of allergy, especially to your foodstuffs. Lastly, the effects of the working become apparent upon the walking when the body complex has begun to exert itself to the point of increased respiration. 
 
-Also a contributing factor is the number of your second-density substances to which this instrument is allergic.
+Also a contributing factor is the number of your second-density substances to which Carla is allergic.
 {{< /l >}}
 
 
@@ -128,7 +128,7 @@ Secondly, the life path may become that which allows the healing. We do not infr
 
 {{< l a="Ra" >}}This is correct. At this time we would break our routine by making an observation. We observe the following coincidence. 
 
-Firstly, the congestion of this instrument’s throat due to the flow of mucous caused by energized allergic reaction has, at this point, become such that we may safely predict the probability/possibility vortex approaching certainty that within one-half of an hour we shall need to depart from this working. Secondly, as we noted the above the sound vibration made by one of your sound vibration recording devices was audible to us. If this group desires, it may choose to have sessions which are brought to an ending soon after this sound vibration occurs. This decision would ensure the minimal distortions within the instrument towards the discomfort/comfort within the throat until the effects of the magical working of your fifth-density companion have been removed.
+Firstly, the congestion of Carla’s throat due to the flow of mucous caused by energized allergic reaction has, at this point, become such that we may safely predict the probability/possibility vortex approaching certainty that within one-half of an hour we shall need to depart from this working. Secondly, as we noted the above the sound vibration made by one of your sound vibration recording devices was audible to us. If this group desires, it may choose to have sessions which are brought to an ending soon after this sound vibration occurs. This decision would ensure the minimal distortions within Carla towards the discomfort/comfort within the throat until the effects of the magical working of your fifth-density companion have been removed.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -141,5 +141,5 @@ I would just ask as a final question, then, if the new table that Jim has built 
 
 {{< r a="Don Elkins" >}}I was wondering if this would be an appropriate time to end since the tape recorder has clicked some time ago?{{< /r >}}
 
-{{< l a="Ra" >}}This is a matter for your discrimination. The instrument remains open to our use although, as we have noted, the physical distortions begin to mount.{{< /l >}}
+{{< l a="Ra" >}}This is a matter for your discrimination. Carla remains open to our use although, as we have noted, the physical distortions begin to mount.{{< /l >}}
 

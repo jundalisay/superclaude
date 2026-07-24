@@ -65,7 +65,7 @@ Then it was our third-density process of evolution began. Can you tell me the hi
 1. The Confederation.
 2. The Orion group.
 
-The Confederation was caused to find the distortion towards non-contact due to the alteration of the vibrational mind complex patterns of the one called George. Thus, the Orion group used this instrument. However, this instrument, though confused, was a mind/body/spirit complex devoted at the heart to service to others, so the, shall we say, worst that could be done was to discredit this source.{{< /l >}}
+The Confederation was caused to find the distortion towards non-contact due to the alteration of the vibrational mind complex patterns of the one called George. Thus, the Orion group used Carla. However, Carla, though confused, was a mind/body/spirit complex devoted at the heart to service to others, so the, shall we say, worst that could be done was to discredit this source.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would there be any value to the people of this planet now, at this time, to complete this machine?{{< /r >}}
 
@@ -148,9 +148,9 @@ The Confederation was caused to find the distortion towards non-contact due to t
 Would you like me to continue formatting Session 15 in this same style next?
 
 
-<!-- 14.33 Questioner: Is there anything that we can do to make the instrument more comfortable or help during the transmission?
+<!-- 14.33 Questioner: Is there anything that we can do to make Carla more comfortable or help during the transmission?
 
-Ra:  We only reiterate the importance of alignment. This instrument is placed point two degrees [0.2°] away from the direction of the resting place, which is correct. This may be “eyed,” shall we say, by sight and the instrument reminded. You are being conscientious. Is there any brief question we may answer before this session is closed?
+Ra:  We only reiterate the importance of alignment. Carla is placed point two degrees [0.2°] away from the direction of the resting place, which is correct. This may be “eyed,” shall we say, by sight and Carla reminded. You are being conscientious. Is there any brief question we may answer before this session is closed?
 
 14.34 Questioner: Can you tell me if we are accomplishing our effort reasonably well?
 

@@ -15,7 +15,7 @@ May 4, 1982
 
 
 
-{{< l a="Ra" >}}The instrument’s distortion towards physical energy complex deficit has slightly increased since the last asking. The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.{{< /l >}}
+{{< l a="Ra" >}}Carla’s distortion towards physical energy complex deficit has slightly increased since the last asking. The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the nature of these significant calls on the vital energy?{{< /r >}}
 
@@ -135,16 +135,16 @@ Ra and Don corrected these errors in session 87.{{< /l >}}
 
 {{< l a="Ra" >}}Each function of the body complex has some potential after the veiling to provide helpful catalyst. We did choose the example of sexual energy transfer due to its central place in the functionary capabilities of the body complex made more useful by means of the veiling process.
 
-This instrument grows somewhat low in energy. We would prefer to retain the maximal portion of reserved energy for which this instrument has given permission. We would, therefore, ask for one more full query at this working.{{< /l >}}
+Carla grows somewhat low in energy. We would prefer to retain the maximal portion of reserved energy for which Carla has given permission. We would, therefore, ask for one more full query at this working.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I will assume that the veiling of the sexual aspect was of great efficiency because it is an aspect that has to do totally with a relationship with another self. It would seem to me that the bodily veilings having to do with other-self interaction would be most efficient and those only related to the self be lower in efficiency in producing either positive or negative polarization. Am I correct in this assumption?{{< /r >}}
 
 {{< l a="Ra" >}}You are correct to a great extent. Perhaps the most notable exception is the attitude of one already strongly polarized negatively towards the appearance of the body complex. There are those entities upon the negative path which take great care in the preservation of the distortion your peoples perceive as fairness/ugliness. This fairness of form is, of course, then used in order to manipulate other-selves. May we ask if there are any brief queries?{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}We are pleased that this instrument was more conscientious in preparing itself for contact by means of the careful mental vibrations which you call prayer. This enabled the channel to be free from the distortions which the contact fell prey to during the last working.
+{{< l a="Ra" >}}We are pleased that Carla was more conscientious in preparing itself for contact by means of the careful mental vibrations which you call prayer. This enabled the channel to be free from the distortions which the contact fell prey to during the last working.
 
-We would suggest to the support group some continued care in the regulating of the physical activities of the instrument. However at this nexus it is well to encourage those activities which feed the vital energies as this instrument lives in this space/time present almost completely due to the careful adherence to the preservation of those mental and spiritual energies which make up the vital energy complex of this entity. Each is conscientious. The alignments are good.
+We would suggest to the support group some continued care in the regulating of the physical activities of Carla. However at this nexus it is well to encourage those activities which feed the vital energies as Carla lives in this space/time present almost completely due to the careful adherence to the preservation of those mental and spiritual energies which make up the vital energy complex of this entity. Each is conscientious. The alignments are good.
 
 We would caution the support group as to the physical alignment of the appurtenance known as the censer. There has been some slight difficulty due to variation in the pattern of the effluvium of this incense.{{< /l >}}

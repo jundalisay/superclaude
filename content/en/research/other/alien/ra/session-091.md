@@ -42,9 +42,9 @@ Thus we made this distinction in discussing this portion of mind. This portion o
 
 {{< r a="Don Elkins" >}}What occurred when the microphone cords were slightly moved?{{< /r >}}
 
-{{< l a="Ra" >}}The link between the instrument’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred.
+{{< l a="Ra" >}}The link between Carla’s mind/body/spirit complex and its yellow-ray, chemical, physical vehicle was jarred.
 
-This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of the instrument’s physical vehicle.{{< /l >}}
+This caused some maladjustment of the organ you call the lungs and, if the repair had not been done, would have resulted in a distorted physical complex condition of this portion of Carla’s physical vehicle.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What kind of distortion?{{< /r >}}
 
@@ -64,7 +64,7 @@ If this is done suddenly the mind/body/spirit complex will attempt entry into th
 
 The resulting snap would strike hard at the anchored portion of the elastic band.
 
-The process through which you as a group go in recalling this instrument could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.{{< /l >}}
+The process through which you as a group go in recalling Carla could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet?{{< /r >}}
 
@@ -192,9 +192,9 @@ In each entity the image will resonate slightly differently. Therefore, there is
 
 {{< l a="Ra" >}}This is a fairly adequate statement. The term “efficient” might also fruitfully be replaced by the term “undistorted.” The archetypical mind, when penetrated lucidly, is a blueprint of the builded structure of all energy expenditures and all seeking, without distortion. This, as a resource within the deep mind, is of great potential aid to the adept.
 
-We would ask for one more query at this space/time as this instrument is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while the instrument still possesses a sufficient amount of transferred energy to ease the transition to the waking state, if you would call it that.{{< /l >}}
+We would ask for one more query at this space/time as Carla is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while Carla still possesses a sufficient amount of transferred energy to ease the transition to the waking state, if you would call it that.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make the instrument more comfortable?{{< /r >}}
+{{< r a="Don Elkins" >}}Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make Carla more comfortable?{{< /r >}}
 
-{{< l a="Ra" >}}Each is most conscientious. The instrument might be somewhat more comfortable with the addition of the swirling of the waters with spine erect. All other things which can be performed for the instrument’s benefit are most diligently done. We commend the continual fidelity of the group to the ideals of harmony and thanksgiving. This shall be your great protection. All is well, my friends. The appurtenances and alignments are excellent.{{< /l >}}
+{{< l a="Ra" >}}Each is most conscientious. Carla might be somewhat more comfortable with the addition of the swirling of the waters with spine erect. All other things which can be performed for Carla’s benefit are most diligently done. We commend the continual fidelity of the group to the ideals of harmony and thanksgiving. This shall be your great protection. All is well, my friends. The appurtenances and alignments are excellent.{{< /l >}}
 

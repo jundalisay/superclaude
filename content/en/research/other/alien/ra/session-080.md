@@ -19,19 +19,19 @@ February 27, 1982
 {{< l a="Ra" >}}
 Before we initiate this working we would wish to correct an error which we have found in previous material. That archetype, Five, which you have called the Hierophant, is the Significator of the Mind complex.
 
-This instrument is prey to sudden flares towards the distortion known as pain. We are aware of your conscientious attempts to aid the instrument but know of no other modality available to the support group other than the provision of water therapy upon the erect spinal portion of the physical body complex, which we have previously mentioned.
+Carla is prey to sudden flares towards the distortion known as pain. We are aware of your conscientious attempts to aid Carla but know of no other modality available to the support group other than the provision of water therapy upon the erect spinal portion of the physical body complex, which we have previously mentioned.
 
-This instrument’s distortions of body do not ever rule out, shall we say, such flares during these periods of increased distortion of the body complex. Our contact may become momentarily garbled. Therefore, we request that any information which seems garbled be questioned as we wish this contact to remain as undistorted as the limitations of language, mentality, and sensibility allow.
+Carla’s distortions of body do not ever rule out, shall we say, such flares during these periods of increased distortion of the body complex. Our contact may become momentarily garbled. Therefore, we request that any information which seems garbled be questioned as we wish this contact to remain as undistorted as the limitations of language, mentality, and sensibility allow.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Thank you. Could you please give me the condition of the instrument?
+Thank you. Could you please give me the condition of Carla?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-This instrument is experiencing mild fluctuations of the physical energy complex which are causing sudden changes from physical energy deficit to some slight physical energy. This is due to many, what you may call, prayers and affirmations offered to and by the instrument offset by continual greetings whenever it is feasible by the fifth-density entity of whom you are aware.
+Carla is experiencing mild fluctuations of the physical energy complex which are causing sudden changes from physical energy deficit to some slight physical energy. This is due to many, what you may call, prayers and affirmations offered to and by Carla offset by continual greetings whenever it is feasible by the fifth-density entity of whom you are aware.
 
-In other respects, the instrument is in the previously stated condition.
+In other respects, Carla is in the previously stated condition.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -42,12 +42,12 @@ Were it the only working the lapse would have been critical. There is enough res
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Has our fifth-density visitor been less able to affect the instrument during our more recent workings?
+Has our fifth-density visitor been less able to affect Carla during our more recent workings?
 {{< /r >}}
 {{< l a="Ra" >}}
-We shall answer in two parts. Firstly, during the workings themselves the entity has been bated to a great extent. Secondly, in the general experiential circumstance of your space/time experience this fifth-density entity is able to greet this entity with the same effectiveness upon the physical body complex as always since the inception of its contact with your group. This is due to the several physical complex distortions of the instrument.
+We shall answer in two parts. Firstly, during the workings themselves the entity has been bated to a great extent. Secondly, in the general experiential circumstance of your space/time experience this fifth-density entity is able to greet this entity with the same effectiveness upon the physical body complex as always since the inception of its contact with your group. This is due to the several physical complex distortions of Carla.
 
-However, the instrument has become more mentally and spiritually able to greet this entity with love thereby reducing the element of fear which is an element the entity counts as a great weapon in the attempt to cause cessation, in any degree, of the Ra contact.
+However, Carla has become more mentally and spiritually able to greet this entity with love thereby reducing the element of fear which is an element the entity counts as a great weapon in the attempt to cause cessation, in any degree, of the Ra contact.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -61,21 +61,21 @@ The key to this query is the term, distortion. Any distortion, be it physical, m
 As Ra well knows, the information that we accumulate here will be illuminating to but a very minor percentage of those who populate this planet presently simply because there are very, very few people who can understand it. However, it seems that our fifth-density visitor is, shall we say, dead set against this communication. Can you tell me why this is so important to him since it is of such a limited effect, I would guess, upon the harvest of this planet? Since it seems to me that those who will understand this information will quite possibly already be within the limits of harvestability.
 {{< /r >}}
 {{< l a="Ra" >}}
-Purity does not end with the harvest of third density. The fidelity of Ra towards the attempt to remove distortions is total. This constitutes an acceptance of responsibility for service to others which is of relative purity. The instrument through which we speak and its support group have a similar fidelity and, disregarding any inconvenience to self, desire to serve others. Due to the nature of the group the queries made to us by the group have led rapidly into somewhat abstruse regions of commentary. This content does not mitigate against the underlying purity of the contact. Such purity is as a light. Such an intensity of light attracts attention.
+Purity does not end with the harvest of third density. The fidelity of Ra towards the attempt to remove distortions is total. This constitutes an acceptance of responsibility for service to others which is of relative purity. Carla through which we speak and its support group have a similar fidelity and, disregarding any inconvenience to self, desire to serve others. Due to the nature of the group the queries made to us by the group have led rapidly into somewhat abstruse regions of commentary. This content does not mitigate against the underlying purity of the contact. Such purity is as a light. Such an intensity of light attracts attention.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
 What would our fifth-density visitor hope to gain for himself if he were to be successful in terminating this contact?
 {{< /r >}}
 {{< l a="Ra" >}}
-As we have previously stated, the entity hopes to gain a portion of that light; that is, the mind/body/spirit complex of the instrument. Barring this, the entity intends to put out the light.
+As we have previously stated, the entity hopes to gain a portion of that light; that is, the mind/body/spirit complex of Carla. Barring this, the entity intends to put out the light.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
 I understand this up to a point— that point is [if] the entity were successful in either of these attempts of what value would this be to him? Would it increase his ability? Would it increase his polarity? By what mechanism would it do whatever it does?
 {{< /r >}}
 {{< l a="Ra" >}}
-Having attempted for some of your space/time with no long-lasting result to do these things the entity may be asking this question of itself. The gain for triumph is an increase in negative polarity to the entity in that it has removed a source of radiance and thereby offered to this space/time the opportunity of darkness where there once was light. In the event that it succeeded in enslaving the mind/body/spirit complex of the instrument it would have enslaved a fairly powerful entity, thus adding to its power.
+Having attempted for some of your space/time with no long-lasting result to do these things the entity may be asking this question of itself. The gain for triumph is an increase in negative polarity to the entity in that it has removed a source of radiance and thereby offered to this space/time the opportunity of darkness where there once was light. In the event that it succeeded in enslaving the mind/body/spirit complex of Carla it would have enslaved a fairly powerful entity, thus adding to its power.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}

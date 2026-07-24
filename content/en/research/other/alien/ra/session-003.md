@@ -13,17 +13,17 @@ tags: ['pyramids', 'capstones']
 
 {{< r a="Don Elkins" >}}Did we correctly perform the ritual for starting the communication?{{< /r >}}
 
-{{< l a="Ra" >}}The placement of the artifacts designed to balance the instrument should be placed at the instrument’s head for the least distortion of effect.
+{{< l a="Ra" >}}The placement of the artifacts designed to balance Carla should be placed at Carla’s head for the least distortion of effect.
 
 The remainder of the beginning account of purpose is quite acceptable, for those speaking desire to serve. Otherwise, the attendant emphasis in mind complexities would not have been effected properly.
 
-We caution you to guard against those who are not wishing to serve others above all else from taking part in the beginning or in lending their distortions of mind/body/spirit complex to any session as we should then be unable to properly blend our distortions with those of this instrument.
+We caution you to guard against those who are not wishing to serve others above all else from taking part in the beginning or in lending their distortions of mind/body/spirit complex to any session as we should then be unable to properly blend our distortions with those of Carla.
 
 Please correct the angle of the incense so that it is perpendicular to the plane of twenty degrees north-by-northeast.
 
-Please check your eye to make fine correction. We will explain the process by which this becomes a significant distortion balancer. The incense acts as energizer to the physical body of this instrument, signifying its humanity.
+Please check your eye to make fine correction. We will explain the process by which this becomes a significant distortion balancer. The incense acts as energizer to the physical body of Carla, signifying its humanity.
 
-This is, therefore, a necessity that the wafted smoke is perceived from the same relative angle as the instrument perceives the opened Bible balanced by the lighted candle signify love/light and light/love and, therefore, give the mental and emotional, shall we call it, distortion complex of this instrument the sight of paradise and peace which it seeks. Thus energized from the lower to the higher, the instrument becomes balanced and does not grow fatigued.{{< /l >}}
+This is, therefore, a necessity that the wafted smoke is perceived from the same relative angle as Carla perceives the opened Bible balanced by the lighted candle signify love/light and light/love and, therefore, give the mental and emotional, shall we call it, distortion complex of Carla the sight of paradise and peace which it seeks. Thus energized from the lower to the higher, Carla becomes balanced and does not grow fatigued.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I want to ask about the possible capstone of the Great Pyramid at Giza and the heavy blocks. I feel that this would provide an easy entry for the reader of the material. We certainly take suggestions about how we should proceed with this.{{< /r >}}
 

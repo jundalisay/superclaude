@@ -17,11 +17,11 @@ The third area is the spiritual complex which embodies the fields of force and c
 
 The exploration and balancing of the spirit complex is indeed the longest and most subtle part of your learn/teaching. We have considered the mind as a tree.
 
-The mind controls the body. With the mind single-pointed, balanced, and aware, the body comfortable in whatever biases and distortions make it appropriately balanced for that instrument, the instrument is then ready to proceed with the great work.
+The mind controls the body. With the mind single-pointed, balanced, and aware, the body comfortable in whatever biases and distortions make it appropriately balanced for that instrument, Carla is then ready to proceed with the great work.
 
 That is the work of wind and fire. The spiritual body energy field is a pathway, or channel. When body and mind are receptive and open, then the spirit can become a functioning shuttle or communicator from the entity’s individual energy of will upwards, and from the streamings of the creative fire and wind downwards.
 
-The healing ability, like all other, what this instrument would call paranormal abilities, is effected by the opening of a pathway or shuttle into intelligent infinity. There are many upon your plane who have a random hole or gateway in their spirit energy field, sometimes created by the ingestion of chemicals such as, what this instrument would call LSD, who are able, randomly and without control, to tap into energy sources.
+The healing ability, like all other, what Carla would call paranormal abilities, is effected by the opening of a pathway or shuttle into intelligent infinity. There are many upon your plane who have a random hole or gateway in their spirit energy field, sometimes created by the ingestion of chemicals such as, what Carla would call LSD, who are able, randomly and without control, to tap into energy sources.
 
 They may or may not be entities who wish to serve. The purpose of carefully and consciously opening this channel is to serve in a more dependable way, in a more commonplace or usual way, as seen by the distortion complex of the healer. To others there may appear to be miracles. To the one who has carefully opened the door to intelligent infinity this is ordinary; this is commonplace; this is as it should be. The life experience becomes somewhat transformed and the great work goes on.
 
@@ -31,9 +31,9 @@ At this time we feel these exercises suffice for your beginning. We will, at a f
 
 {{< l a="Ra" >}}He can. We caution you to carefully instruct him in the frame of mind and various appurtenances which it must understand before it is conducted into the circle.
 
-Appurtenances are the symbolic objects which trigger this instrument’s distortions towards love/light.
+Appurtenances are the symbolic objects which trigger Carla’s distortions towards love/light.
 
-The placement and loving acceptance of them by all present is important in the nurturing of this instrument. Therefore, the appurtenances involved must be described and their presence explained in your own words of teach/learning, for you have the proper attitude for the required results.{{< /l >}}
+The placement and loving acceptance of them by all present is important in the nurturing of Carla. Therefore, the appurtenances involved must be described and their presence explained in your own words of teach/learning, for you have the proper attitude for the required results.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you give more historical background of yourself, like where you came from prior to involvement with planet Earth?{{< /r >}}
 
@@ -224,9 +224,9 @@ Nevertheless, unless the question contains the potential for answer-giving which
 
 
 
-<!-- 6.27 Questioner: Thank you very much. We do not want to overtire the instrument. It’s now considerably over the normal working time. Could you tell me the condition of the instrument?
+<!-- 6.27 Questioner: Thank you very much. We do not want to overtire Carla. It’s now considerably over the normal working time. Could you tell me the condition of Carla?
 
-Ra: The instrument is balanced due to your care. However, her physical vehicle is growing stiff.
+Ra: Carla is balanced due to your care. However, her physical vehicle is growing stiff.
 
 6.28 Questioner: In that case perhaps we should continue at a later time.
 

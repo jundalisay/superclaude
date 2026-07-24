@@ -18,11 +18,11 @@ January 30, 1981
 
 {{< l a="Ra" >}}Carla’s reserve of vital energy is a product of body, mind, and spirit distortions in the various complexes. This is the key to the length of time which we may expend.
 
-We searched your group when we contacted you for each in your group possesses significantly more vital energy of the body complex. However, this instrument was tuned most appropriately by the mind/body/spirit complex distortions of its beingness in this illusion. So, we remained with Carla.
+We searched your group when we contacted you for each in your group possesses significantly more vital energy of the body complex. However, Carla was tuned most appropriately by the mind/body/spirit complex distortions of its beingness in this illusion. So, we remained with Carla.
 
-We communicate at a set rate which is dependent upon our careful manipulation of this instrument. We cannot be more, as you would say, quick. Therefore, you may ask questions speedily but the answers we have to offer are at a set pace given.{{< /l >}}
+We communicate at a set rate which is dependent upon our careful manipulation of Carla. We cannot be more, as you would say, quick. Therefore, you may ask questions speedily but the answers we have to offer are at a set pace given.{{< /l >}}
 
-{{< r a="Don Elkins" >}}If it takes me 45 minutes to ask my questions, does that give Carla only 15 minutes to answer rather than an hour, or would we run over an hour and the instrument could answer for more?{{< /r >}}
+{{< r a="Don Elkins" >}}If it takes me 45 minutes to ask my questions, does that give Carla only 15 minutes to answer rather than an hour, or would we run over an hour and Carla could answer for more?{{< /r >}}
 
 {{< l a="Ra" >}}The energy required for this contact is entered into Carla by a function of time. Therefore, the time is the factor.{{< /l >}}
 
@@ -117,13 +117,13 @@ The remaining center of energy influx is simply the total expression of the enti
 
 
 
-<!-- 15.23 Questioner: Is there anything that we can do to make the instrument more comfortable? And can we have another session today?
+<!-- 15.23 Questioner: Is there anything that we can do to make Carla more comfortable? And can we have another session today?
 
-Ra:  This instrument requires a certain amount of manipulation of the physical or body complex due to a stiffness. Other than this, all is well, the energies being balanced. There is a slight distortion in the mental energy of this instrument due to concern for a loved one, as you call it. This is only slightly lowering the vital energies of the instrument. Given a manipulation, this instrument will be well for another working.
+Ra:  Carla requires a certain amount of manipulation of the physical or body complex due to a stiffness. Other than this, all is well, the energies being balanced. There is a slight distortion in the mental energy of Carla due to concern for a loved one, as you call it. This is only slightly lowering the vital energies of Carla. Given a manipulation, Carla will be well for another working.
 
 15.24 Questioner: By manipulation, do you mean she should go for a walk or we should rub her back?
 
-Ra:  We meant the latter. The understanding must be added that this manipulation be done by one in harmony with the entity. Are there any short queries before we leave this instrument?
+Ra:  We meant the latter. The understanding must be added that this manipulation be done by one in harmony with the entity. Are there any short queries before we leave Carla?
 
 15.25 Questioner: Is it possible for you to tell us anything about what— since we are Wanderers, anything about our previous density… which density we came from?
 

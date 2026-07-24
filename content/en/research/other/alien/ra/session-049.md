@@ -26,11 +26,11 @@ The energies of sexual transfer would, if run through the undeveloped spiritual 
 
 Contrarily, the full spiritual energies run through bodily complex circuitry will also adversely affect the undeveloped circuit of the bodily complex.
 
-Some there are, such as this instrument, who have not in the particular incarnation chosen at any time to express sexual energy through the bodily circuitry.
+Some there are, such as Carla, who have not in the particular incarnation chosen at any time to express sexual energy through the bodily circuitry.
 
 Thus from the beginning of such an entity’s experience the body and spirit express together in any sexual action.
 
-Therefore, to transfer sexual energy for this instrument is to transfer spiritually as well as physically.
+Therefore, to transfer sexual energy for Carla is to transfer spiritually as well as physically.
 
 Her magnetic field, if scrutinized by one sensitive, will show these unusual configurations.
 

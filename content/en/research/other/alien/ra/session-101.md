@@ -44,7 +44,7 @@ In the sense which we feel you intend, the source was the fifth-density, negativ
 
 {{< r a="Don Elkins" >}}Something occurred to me. I am going to make a guess that my illness over the past week was a function of some action by my higher self to eliminate the possibility of a residence in the proximity of the large number of bees that I observed. Would Ra comment on my statement?{{< /r >}}
 
-{{< l a="Ra" >}}We can comment, not upon the questioner’s physical distortions but upon the indubitable truth of second-density hive creatures; that is, that a hive mentality as a whole can be influenced by one strong metaphysical impulse. Both the instrument and the scribe have the capacity for great distortions toward nonviability, given such an attack by a great number of the stinging insects.{{< /l >}}
+{{< l a="Ra" >}}We can comment, not upon the questioner’s physical distortions but upon the indubitable truth of second-density hive creatures; that is, that a hive mentality as a whole can be influenced by one strong metaphysical impulse. Both Carla and the scribe have the capacity for great distortions toward nonviability, given such an attack by a great number of the stinging insects.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Are the thought-form parameters and other general parameters of the 893 Oakdale Road address in Atlanta such that no cleansing would be necessary, if Ra has this information?{{< /r >}}
 
@@ -56,13 +56,13 @@ In the sense which we feel you intend, the source was the fifth-density, negativ
 
 {{< r a="Don Elkins" >}}Could Ra give information on any way that we could give information to Greta Woodrew as to how to alleviate her present condition of swelling?{{< /r >}}
 
-{{< l a="Ra" >}}We may only suggest that the honor of propinquity to light carries with it the Law of Responsibility. The duty to refrain from contumely, discord, and all things which, when unresolved within, make way for workings lies before the instrument of which you speak. This entity may, if it is desired by the scribe, share our comments upon the working of the latter entity.
+{{< l a="Ra" >}}We may only suggest that the honor of propinquity to light carries with it the Law of Responsibility. The duty to refrain from contumely, discord, and all things which, when unresolved within, make way for workings lies before Carla of which you speak. This entity may, if it is desired by the scribe, share our comments upon the working of the latter entity.
 
 The entity which is given constant and unremitting approval by those surrounding it suffers from the loss of the mirroring effect of those which reflect truthfully rather than unquestioningly.
 
 This is not a suggestion to reinstate judgment but merely a suggestion for all those supporting instruments; that is, support, be harmonious, share in love, joy, and thanksgiving, but find love within truth, for each instrument benefits from this support more than from the total admiration which overcomes discrimination.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}We find that this instrument has used all the transferred energy and has been speaking using its vital energy reserve. We do suggest using the transferred sexual energy to the total exclusion of vital reserves if possible.{{< /l >}}
+{{< l a="Ra" >}}We find that Carla has used all the transferred energy and has been speaking using its vital energy reserve. We do suggest using the transferred sexual energy to the total exclusion of vital reserves if possible.{{< /l >}}
 

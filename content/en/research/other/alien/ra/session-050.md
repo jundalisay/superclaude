@@ -45,9 +45,9 @@ You will find this instinct the strongest, and once this is balanced much is ope
 
 {{< r a="Don Elkins" >}}Will you give that?{{< /r >}}
 
-{{< l a="Ra" >}}We paused to scan this instrument’s consciousness for permission to use its experiential catalyst as example. We may proceed.
+{{< l a="Ra" >}}We paused to scan Carla’s consciousness for permission to use its experiential catalyst as example. We may proceed.
 
-This is one instance and extrapolation may be made to other entities which are aware of the process of evolution. This entity chose, before incarnation, the means whereby catalyst had great probability of being obtained. This entity desired the process of expressing love and light without expecting any return. This instrument programmed also to endeavor to accomplish spiritual work and to comfort itself with companionship in the doing of this work.
+This is one instance and extrapolation may be made to other entities which are aware of the process of evolution. This entity chose, before incarnation, the means whereby catalyst had great probability of being obtained. This entity desired the process of expressing love and light without expecting any return. Carla programmed also to endeavor to accomplish spiritual work and to comfort itself with companionship in the doing of this work.
 
 Agreements were made prior to incarnation; the first, with the so-called parents and siblings of this entity. This provided the experiential catalyst for the situation of offering radiance of being without expectation of return. The second program involved agreements with several entities. These agreements provided and will provide, in your time/space and space/time continuum, opportunities for the experiential catalyst of work and comradeship.
 

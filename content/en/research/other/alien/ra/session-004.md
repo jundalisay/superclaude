@@ -33,7 +33,7 @@ For the purposes of initiation, the size needed to be large enough to create the
 
 {{< r a="Don Elkins" >}}Is the large pyramid at Giza still usable for this purpose, or is it no longer functioning?{{< /r >}}
 
-{{< l a="Ra" >}}That, like many other pyramid structures, is like the piano out of tune. It, as this instrument would express, plays the tune but, oh, so poorly. The disharmony jangles the sensitive.
+{{< l a="Ra" >}}That, like many other pyramid structures, is like the piano out of tune. It, as Carla would express, plays the tune but, oh, so poorly. The disharmony jangles the sensitive.
 
 Only the ghost of the streaming still remains due to the shifting of the streaming points which is in turn due to the shifting electromagnetic field of your planet; due also to the discordant vibratory complexes of those who have used the initiatory and healing place for less compassionate purposes.{{< /l >}}
 
@@ -115,14 +115,14 @@ One item which may be of interest is that a healer asking to learn must take the
 <!-- 
 4.21 Questioner: I assume that we should continue tomorrow.
 
-Ra:  Your assumption is correct unless you feel that a certain question is necessary. This instrument is best nurtured by approximately this length of work.
+Ra:  Your assumption is correct unless you feel that a certain question is necessary. Carla is best nurtured by approximately this length of work.
 
 
 
 
-4.22 Questioner: One short question. Is this instrument capable of two of these sessions per day, or should we remain with one?
+4.22 Questioner: One short question. Is Carla capable of two of these sessions per day, or should we remain with one?
 
-Ra:  This instrument is capable of two sessions a day. However, she must be encouraged to keep her bodily complex strong by the ingestion of your foodstuffs to an extent which exceeds this instrument’s normal intake of your foodstuffs, this due to the physical material which we use to speak.
+Ra:  Carla is capable of two sessions a day. However, she must be encouraged to keep her bodily complex strong by the ingestion of your foodstuffs to an extent which exceeds Carla’s normal intake of your foodstuffs, this due to the physical material which we use to speak.
 
-Further, this instrument’s activities must be monitored to prevent overactivity, for this activity is equivalent to a strenuous working on the physical level.
+Further, Carla’s activities must be monitored to prevent overactivity, for this activity is equivalent to a strenuous working on the physical level.
  -->

@@ -15,13 +15,13 @@ October 28, 1981
 
 {{< r a="Don Elkins" >}}I had a small error that I corrected with the statement, “no working comes from it but only through it.” Was this an error in transmission? Or what caused this problem?{{< /r >}}
 
-{{< l a="Ra" >}}This instrument, while fully open to our narrow-band contact, at times experiences a sudden strengthening of the distortion which you call pain. This weakens the contact momentarily. This type of increased distortion has been occurring in this instrument’s bodily complex with more frequency in the time period which you may term the previous fortnight. Although it is not normally a phenomenon which causes difficulties in transmission, it did so twice in the previous working. Both times it was necessary to correct or rectify the contact.{{< /l >}}
+{{< l a="Ra" >}}Carla, while fully open to our narrow-band contact, at times experiences a sudden strengthening of the distortion which you call pain. This weakens the contact momentarily. This type of increased distortion has been occurring in Carla’s bodily complex with more frequency in the time period which you may term the previous fortnight. Although it is not normally a phenomenon which causes difficulties in transmission, it did so twice in the previous working. Both times it was necessary to correct or rectify the contact.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you please describe the trance state as I am somewhat confused with respect to how, when in trance, pain can affect the instrument since I was of the opinion that there would be no feeling of pain of the bodily complex in the trance state?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you please describe the trance state as I am somewhat confused with respect to how, when in trance, pain can affect Carla since I was of the opinion that there would be no feeling of pain of the bodily complex in the trance state?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. The instrument has no awareness of this or other sensations. However, we of Ra use the yellow-ray activated physical complex as a channel through which to speak. As the mind/body/spirit complex of the instrument leaves this physical shell in our keeping it is finely adjusted to our contact.
+{{< l a="Ra" >}}This is correct. Carla has no awareness of this or other sensations. However, we of Ra use the yellow-ray activated physical complex as a channel through which to speak. As the mind/body/spirit complex of Carla leaves this physical shell in our keeping it is finely adjusted to our contact.
 
-However, the distortion which you call pain, when sufficiently severe, mitigates against proper contact and, when the increased distortion is violent, can cause the tuning of the channel to waver. This tuning must then be corrected which we may do as the instrument offers us this opportunity freely.{{< /l >}}
+However, the distortion which you call pain, when sufficiently severe, mitigates against proper contact and, when the increased distortion is violent, can cause the tuning of the channel to waver. This tuning must then be corrected which we may do as Carla offers us this opportunity freely.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In a previous session there was a question on the archetypical mind that was not fully answered. I would like to continue with the answer to that question. Could you please continue with that, or would it be necessary for me to read the entire question over again?{{< /r >}}
 

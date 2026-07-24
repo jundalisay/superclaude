@@ -17,15 +17,15 @@ Carla had some question as to her vitality. We were having a hard time appraisin
 {{< /r >}}
 
 
-{{< l a="Ra" >}}We scan this instrument and find that we may be of service without infringement due to this instrument’s decision to abide by the most careful appraisal possible rather than the most desired.
+{{< l a="Ra" >}}We scan Carla and find that we may be of service without infringement due to Carla’s decision to abide by the most careful appraisal possible rather than the most desired.
 
-We have been surprised that we have been able to maintain contact on a regular basis during this most intense period of negatively influenced interference. Sexual energy transfers have at some workings given this instrument additional vital resources upon which to draw. However, this is not so at this working and, therefore, the will of the instrument drives its bodily complex. This instrument has no judgment about this service. The faculty of will, while recognized as most central and valuable, could in this application cause serious distortion in bodily complex of the instrument. May we note that martyrdom is not necessarily helpful. We ask this instrument to examine these thoughts, judge, and discriminate the possible truth of them, and if they be deemed true we suggest this instrument release the power of judgment to the support group whose interests are balanced far more than this instrument’s. Allow decisions to be made without expectation or attachment to the outcome. Our hopes, may we say, for long-term contact through this instrument depend upon its maturing ability to be of service to other-selves by accepting their help and thus remaining a viable instrument.
+We have been surprised that we have been able to maintain contact on a regular basis during this most intense period of negatively influenced interference. Sexual energy transfers have at some workings given Carla additional vital resources upon which to draw. However, this is not so at this working and, therefore, the will of Carla drives its bodily complex. Carla has no judgment about this service. The faculty of will, while recognized as most central and valuable, could in this application cause serious distortion in bodily complex of Carla. May we note that martyrdom is not necessarily helpful. We ask Carla to examine these thoughts, judge, and discriminate the possible truth of them, and if they be deemed true we suggest Carla release the power of judgment to the support group whose interests are balanced far more than Carla’s. Allow decisions to be made without expectation or attachment to the outcome. Our hopes, may we say, for long-term contact through Carla depend upon its maturing ability to be of service to other-selves by accepting their help and thus remaining a viable instrument.
 
 May we thank the questioner for allowing us to speak to this point, for we were aware of the distortions incumbent upon one whose will to serve is not regulated by knowledge of limitations of bodily complex distortion.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you please terminate this contact as soon as necessary since we are not aware of the vitality of the instrument at this time?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you please terminate this contact as soon as necessary since we are not aware of the vitality of Carla at this time?{{< /r >}}
 
-{{< l a="Ra" >}}In your way of speaking our hands are, to a certain extent, tied. This instrument has called upon inner reserves which are dearly bought. Therefore, we have the honor/duty of using this energy to the best of our ability. When it becomes low we shall most certainly, as always, express the need for ending the working. The only way of avoiding this sharing of service at whatever cost is to refrain from the working. It is a dilemma.{{< /l >}}
+{{< l a="Ra" >}}In your way of speaking our hands are, to a certain extent, tied. Carla has called upon inner reserves which are dearly bought. Therefore, we have the honor/duty of using this energy to the best of our ability. When it becomes low we shall most certainly, as always, express the need for ending the working. The only way of avoiding this sharing of service at whatever cost is to refrain from the working. It is a dilemma.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell me what the tone was that I heard in my left ear when you started your communication?{{< /r >}}
 
@@ -43,35 +43,35 @@ May we thank the questioner for allowing us to speak to this point, for we were 
 
 {{< l a="Ra" >}}Are you not all things?{{< /l >}}
 
-{{< r a="Don Elkins" >}}I think that it might be a good idea if we terminated the contact at this time to allow the instrument to gain more necessary energy before continuing. This is my decision at this time. I would very much like to continue the contact, but it seems to me, although I can’t tell the instrument’s level, that the instrument should not use up any more energy.{{< /r >}}
+{{< r a="Don Elkins" >}}I think that it might be a good idea if we terminated the contact at this time to allow Carla to gain more necessary energy before continuing. This is my decision at this time. I would very much like to continue the contact, but it seems to me, although I can’t tell Carla’s level, that Carla should not use up any more energy.{{< /r >}}
 
-{{< l a="Ra" >}}We are responding to an unasked query. However, it is most salient and therefore we beg your forgiveness for this infringement. The energy has been lost to the instrument, dedicated to this purpose only. You may do as you will, but this is the nature of the instrument’s preparation for contact and is the sole reason we may use it.{{< /l >}}
+{{< l a="Ra" >}}We are responding to an unasked query. However, it is most salient and therefore we beg your forgiveness for this infringement. The energy has been lost to Carla, dedicated to this purpose only. You may do as you will, but this is the nature of Carla’s preparation for contact and is the sole reason we may use it.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I’m not sure I fully understood you. Could you say that a little different way? Could you explain more completely?{{< /r >}}
 
-{{< l a="Ra" >}}Each of you in this working has consciously dedicated the existence now being experienced to service to others. This instrument has refined this dedication through long experience with the channeling, as you term it, of Confederation philosophy, as you may say. Thus when we first contacted this instrument it had offered its beingness, not only to service to other-selves but service by communication of this nature. As this contact has developed, this dedication of beingness has become quite specific. Thus once the vital energy is dedicated by the instrument to our communications, even if the working did not occur, this vital energy would be lost to the day-by-day experience of the instrument. Thus we indicated the importance of the instrument’s releasing of the will from the process of determining the times of working, for if the instrument desires contact, the energy is gathered and thus lost for ordinary or mundane purposes.{{< /l >}}
+{{< l a="Ra" >}}Each of you in this working has consciously dedicated the existence now being experienced to service to others. Carla has refined this dedication through long experience with the channeling, as you term it, of Confederation philosophy, as you may say. Thus when we first contacted Carla it had offered its beingness, not only to service to other-selves but service by communication of this nature. As this contact has developed, this dedication of beingness has become quite specific. Thus once the vital energy is dedicated by Carla to our communications, even if the working did not occur, this vital energy would be lost to the day-by-day experience of Carla. Thus we indicated the importance of Carla’s releasing of the will from the process of determining the times of working, for if Carla desires contact, the energy is gathered and thus lost for ordinary or mundane purposes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In that case, since the energy is already lost, we might as well continue with this session, and we should very carefully monitor the instrument and be the sole judge of when the sessions should occur. Am I correct?{{< /r >}}
+{{< r a="Don Elkins" >}}In that case, since the energy is already lost, we might as well continue with this session, and we should very carefully monitor Carla and be the sole judge of when the sessions should occur. Am I correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is profoundly correct. This instrument’s determination to continue contact during this period has already extended the low energy period.{{< /l >}}
+{{< l a="Ra" >}}This is profoundly correct. Carla’s determination to continue contact during this period has already extended the low energy period.{{< /l >}}
 
 {{< r a="Don Elkins" >}}This is very revealing to us. Thank you. Each of us gets the signals and dreams. I have been aware of clairaudient communication at least once in waking up. Can you suggest a method whereby we might, shall I say, nullify the effect of the influence that we don’t want from a negative source?{{< /r >}}
 
 {{< l a="Ra" >}}There are various methods. We shall offer the most available or simple. To share the difficult contact with the other-selves associated with this working and to meditate in love for these senders of images and light for self and other-selves is the most available means of nullifying the effects of such occurrences. To downgrade these experiences by the use of intellect or the disciplines of will is to invite the prolonging of the effects. Far better then to share in trust such experiences and join hearts and souls in love and light with compassion for the sender and armor for the self.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can you tell me the source of the instrument’s dream of this morning that she told to me as soon as she woke up?{{< /r >}}
+{{< r a="Don Elkins" >}}Can you tell me the source of Carla’s dream of this morning that she told to me as soon as she woke up?{{< /r >}}
 
-{{< l a="Ra" >}}The feeling of the dream, shall we say, was Orion-influenced. The clothing of the dream revealing more the instrument’s unconscious associative patterns of symbolism.{{< /l >}}
+{{< l a="Ra" >}}The feeling of the dream, shall we say, was Orion-influenced. The clothing of the dream revealing more Carla’s unconscious associative patterns of symbolism.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In meditation a number of years ago my arm started to glow, moving rapidly involuntarily. What was that?{{< /r >}}
 
 {{< l a="Ra" >}}The phenomenon was an analogy made available to you from your higher self. The analogy was that the being that you were was living in a way not understood by, shall we say, physicists, scientists, or doctors.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What I am trying to get at in this session is any practices that we might be able to do to best revitalize the instrument, for it is going to be necessary to do all we can to do this in order to maintain our contacts. Can you tell us what we could best do to increase the instrument’s vitality for these contacts?{{< /r >}}
+{{< r a="Don Elkins" >}}What I am trying to get at in this session is any practices that we might be able to do to best revitalize Carla, for it is going to be necessary to do all we can to do this in order to maintain our contacts. Can you tell us what we could best do to increase Carla’s vitality for these contacts?{{< /r >}}
 
-{{< l a="Ra" >}}Your experience was a function of your ability to contact intelligent infinity. Therefore, it does not have a direct bearing upon this instrument’s vital energy.
+{{< l a="Ra" >}}Your experience was a function of your ability to contact intelligent infinity. Therefore, it does not have a direct bearing upon Carla’s vital energy.
 
-We have spoken before of those things which aid this instrument in the vital energy: the sensitivity to beauty, to the singing of sacred music, to the meditation and worship, to the sharing of self with self in freely given love either in social or sexual intercourse. These things work quite directly upon the vitality. This instrument has a distortion towards appreciation of variety of experiences. This, in a less direct way, aids vitality.{{< /l >}}
+We have spoken before of those things which aid Carla in the vital energy: the sensitivity to beauty, to the singing of sacred music, to the meditation and worship, to the sharing of self with self in freely given love either in social or sexual intercourse. These things work quite directly upon the vitality. Carla has a distortion towards appreciation of variety of experiences. This, in a less direct way, aids vitality.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I was looking at the diagram of the advancement of magical practices starting from Malkuth and ending at Kether. I was wondering if these corresponded to the colors or the densities, with Malkuth as one, Yesod as two, Hod and Netzach being three, Tiphareth four, and so on. Is this correct?{{< /r >}}
 

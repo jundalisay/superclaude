@@ -91,10 +91,10 @@ Control is the key to negatively polarized use of catalyst. Acceptance is the ke
 
 <!-- 46.17 Questioner: I am assuming that the sub-Logos’ or the Logos’ plan is for positively and negatively polarized social memory complexes in fourth density and above. Can you tell me the purpose of the plan for these two types of social memory complexes with respect, shall we say, to Coulomb’s Law or negative and positive electrical polarity, or any way you can? -->
 
-<!-- Ra: Carla grows weary. We shall speak with you again. We may indicate the possibility, without further harm to this instrument, of approximately two sessions per your weekly period until these weeks of potential for attack and presence of very low physical energy are passed. May we say it is good to be with this group. -->
+<!-- Ra: Carla grows weary. We shall speak with you again. We may indicate the possibility, without further harm to Carla, of approximately two sessions per your weekly period until these weeks of potential for attack and presence of very low physical energy are passed. May we say it is good to be with this group. -->
 
 
-<!-- 46.18 Questioner: Only if there is anything we can do to make the instrument more comfortable or improve the contact?
+<!-- 46.18 Questioner: Only if there is anything we can do to make Carla more comfortable or improve the contact?
 
-Ra:  Each is supporting the instrument well and the instrument remains steady in its purpose. You are conscientious. All is well. We ward you ware of any laxity regarding the arrangement and orientation of appurtenances. -->
+Ra:  Each is supporting Carla well and Carla remains steady in its purpose. You are conscientious. All is well. We ward you ware of any laxity regarding the arrangement and orientation of appurtenances. -->
 

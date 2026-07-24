@@ -17,7 +17,7 @@ February 15, 1981
 
 {{< l a="Ra" >}}Carla's vital energies of the physical complex are low. The session will be appropriately shortened.{{< /l >}}
 
-{{< r a="Don Elkins" >}}She requests that you cause the instrument to cough about at least after each communication.
+{{< r a="Don Elkins" >}}She requests that you cause Carla to cough about at least after each communication.
 
 The way I intend to continue with the book is to follow on through the last 25,000-year cycle that we’re in now and possibly investigate a little of fourth-density conditions and thereby find many places that we can go back and delve further into the Law of One.
 

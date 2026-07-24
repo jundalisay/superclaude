@@ -22,7 +22,7 @@ It is from LSD. This was carefully planned by those entities which do not want h
 
 The substance has within it the facility of removing large stores of vital energy from the ingestor. 
 
-The first hope of the Orion entity which arranged this opportunity was that this instrument would become less polarized towards what you call the positive. 
+The first hope of the Orion entity which arranged this opportunity was that Carla would become less polarized towards what you call the positive. 
 
 Due to her conscious efforts, using the substance as a programmer for service to others and for thankfulness, she was spared this distortion and there was no result satisfactory to the Orion group.
 
@@ -34,9 +34,9 @@ This entity, however, is a very strong entity with very little distortion from u
 
 Thus this particular plan was not effected either, as the entity continued to give of itself in this context in an open or green-ray manner rather than attempting to receive or to manipulate other-self.
 
-The only remaining distortion available, since this entity would not detune and would not cease sharing love universally under this chemical substance, was simply to drain this entity of as much energy as possible. This entity has a strong distortion towards busy-ness which it has been attempting to overcome for some time, realizing it not to be the appropriate attitude for this work. In this particular area the ingestion of this substance did indeed, shall we say, cause distortions away from viability due to the busy-ness and the lack of desire to rest; this instrument staying alert for much longer than appropriate. 
+The only remaining distortion available, since this entity would not detune and would not cease sharing love universally under this chemical substance, was simply to drain this entity of as much energy as possible. This entity has a strong distortion towards busy-ness which it has been attempting to overcome for some time, realizing it not to be the appropriate attitude for this work. In this particular area the ingestion of this substance did indeed, shall we say, cause distortions away from viability due to the busy-ness and the lack of desire to rest; Carla staying alert for much longer than appropriate. 
 
-Thus much vital energy was lost, making this instrument unusually susceptible to infections such as it now experiences.{{< /l >}}
+Thus much vital energy was lost, making Carla unusually susceptible to infections such as it now experiences.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
@@ -53,7 +53,7 @@ this entity also needing to be aware of the moderate but steady intake of foodst
 
 {{< l a="Ra" >}}This is not an appropriate question for full answer. 
 
-We can say only that these entities are most conscientious. We may add that due to this instrument’s distortion towards imbalance in the space/time nexus, it would be well were this entity accompanied during exercise.{{< /l >}}
+We can say only that these entities are most conscientious. We may add that due to Carla’s distortion towards imbalance in the space/time nexus, it would be well were this entity accompanied during exercise.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}

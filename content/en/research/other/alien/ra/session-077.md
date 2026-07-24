@@ -31,7 +31,7 @@ She was instructed to spend space/time contemplating itself as the Creator. This
 
 There is no necessity for negative thought-forms regardless of pain distortions. The elimination of such creates the lack of possibility for negative elementals and other negative entities to use these thought-forms to create the worsening of the mind complex deviation from the normal distortions of cheerfulness/anxiety.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument would also like to know if the what we call tuning could be improved during times when we do not communicate with Ra, for that communication.{{< /r >}}
+{{< r a="Don Elkins" >}}Carla would also like to know if the what we call tuning could be improved during times when we do not communicate with Ra, for that communication.{{< /r >}}
 
 {{< l a="Ra" >}}That which has been stated in regard to the latter question will suffice to point the way for the present query.{{< /l >}}
 
@@ -45,13 +45,13 @@ There is no necessity for negative thought-forms regardless of pain distortions.
 
 The substance which caused the bodily reaction of the heartbeat was called Pituitone by those which manufacture it. That which caused the difficulty which seemed to be cramping of the lower abdominal musculature but was, in fact, more organic in nature was a substance called Spleentone.
 
-This instrument has a physical body complex of complicated balances which afford it physical existence. Were the view taken that certain functions and chemicals found in the healthy, as you call it, body complex are lacking in this one and, therefore, simply must be replenished, the intake of the many substances which this instrument began would be appropriate. However, this particular physical vehicle has, for approximately twenty-five of your years, been vital due to the spirit, the mind, and the will being harmoniously dedicated to fulfilling the service it chose to offer.
+Carla has a physical body complex of complicated balances which afford it physical existence. Were the view taken that certain functions and chemicals found in the healthy, as you call it, body complex are lacking in this one and, therefore, simply must be replenished, the intake of the many substances which Carla began would be appropriate. However, this particular physical vehicle has, for approximately twenty-five of your years, been vital due to the spirit, the mind, and the will being harmoniously dedicated to fulfilling the service it chose to offer.
 
 Therefore, physical healing techniques are inappropriate whereas mental and spiritual healing techniques are beneficial.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there any technique which we could do that we have not been doing that would be beneficial for the instrument in this case?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there any technique which we could do that we have not been doing that would be beneficial for Carla in this case?{{< /r >}}
 
-{{< l a="Ra" >}}We might suggest, without facetiousness, two. Firstly, let the instrument remove the possibility of further ingestion of this group of foodstuffs.
+{{< l a="Ra" >}}We might suggest, without facetiousness, two. Firstly, let Carla remove the possibility of further ingestion of this group of foodstuffs.
 
 Secondly, each of the group may become aware of the will to a greater extent. We cannot instruct upon this but merely indicate, as we have previously, that it is a vital key to the evolution of the mind/body/spirit complex.{{< /l >}}
 
@@ -119,14 +119,14 @@ Those Logoi whose creations have been set up without free will have not, in the 
 
 When our Logos designed this particular evolution of experience It decided to use the system of which we spoke creating, or allowing for, polarization through total free will. How is this different from the Logos that does not do this? I see the Logos creating the possibility of increase in vibration through the densities. Let me ask first: How are the densities provided for and set up by the Logos, if you can answer this?{{< /r >}}
 
-{{< l a="Ra" >}}This shall be the last full query of this working. The psychic attack upon this instrument has, shall we say, left scars which must be tended, in our own opinion, in order to maintain the instrument.
+{{< l a="Ra" >}}This shall be the last full query of this working. The psychic attack upon Carla has, shall we say, left scars which must be tended, in our own opinion, in order to maintain Carla.
 
 Let us observe your second density. Many come more rapidly to third density than others not because of an innate efficiency of catalysis but because of unusual opportunities for investment. In just such a way those of fourth density may invest third, those of fifth density may invest fourth. When fifth density has been obtained the process takes upon itself a momentum based upon the characteristics of wisdom when applied to circumstance. The Logos Itself, then, in these instances provides investment opportunities, if you wish to use that term. May we enquire if there are any brief queries at this space/time?{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything that we can do after this contact to increase the instrument’s comfort as related to the psychic attack, or is there anything we can do to make the instrument more comfortable or improve the contact in this present situation?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything that we can do after this contact to increase Carla’s comfort as related to the psychic attack, or is there anything we can do to make Carla more comfortable or improve the contact in this present situation?{{< /r >}}
 
 {{< l a="Ra" >}}The faculties of healing which each has commenced energizing may be used. The entity may be encouraged to remain motionless for a period. As it will not appreciate this, we suggest the proper discussion.
 
-The physical appurtenance called the censer was just a degree off, this having no deeper meaning. We do ask, for reasons having to do with the physical comfort of the instrument, that you continue in your careful efforts at alignment.{{< /l >}}
+The physical appurtenance called the censer was just a degree off, this having no deeper meaning. We do ask, for reasons having to do with the physical comfort of Carla, that you continue in your careful efforts at alignment.{{< /l >}}
 
 

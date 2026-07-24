@@ -162,9 +162,9 @@ The least distortion seems to be available in mind-to-mind communication. Theref
 The approximate diameter, given several model changes, is 23 feet.{{< /l >}}
 
 
-<!-- 8.33 Questioner: Is there anything that we can do to make the instrument more comfortable?
+<!-- 8.33 Questioner: Is there anything that we can do to make Carla more comfortable?
 
-Ra:  The instrument is well balanced. It is possible to make small corrections in the configuration of the spine of the instrument that it be straighter. Continue also to carefully monitor the placement and orientation of the symbols used. This particular session, the censer is slightly off and, therefore, this instrument will experience a slight discomfort.
+Ra:  Carla is well balanced. It is possible to make small corrections in the configuration of the spine of Carla that it be straighter. Continue also to carefully monitor the placement and orientation of the symbols used. This particular session, the censer is slightly off and, therefore, Carla will experience a slight discomfort.
 
 8.34 Questioner: [Is the] censer off with respect to angle or with respect to lateral displacement?
 

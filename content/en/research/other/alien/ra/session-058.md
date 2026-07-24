@@ -45,9 +45,9 @@ Should I dangle a weight 2 feet below my hand and place it over the body, and wh
 
 {{< l a="Ra" >}}A test is done by first holding the weight over your own hand and observing your particular configuration. Then using the other-self’s hand, repeat the procedure.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now in the case of the instrument we are concerned with the healing of the wrists and hands. Would I then test the energy center of the instrument’s hand and wrist area? Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Now in the case of Carla we are concerned with the healing of the wrists and hands. Would I then test the energy center of Carla’s hand and wrist area? Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}We have given you general information regarding this form of healing and have explicated the instrument’s condition. There is a line beyond which information is an intrusion upon the Law of Confusion.{{< /l >}}
+{{< l a="Ra" >}}We have given you general information regarding this form of healing and have explicated Carla’s condition. There is a line beyond which information is an intrusion upon the Law of Confusion.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I would like to trace the energy patterns and what is actually happening with these patterns and flow of energy in a couple of instances. I will first take the pyramid shape and trace the energy that is focused somehow by this shape. I will make a statement and let you correct it. I think that the pyramid can be in any orientation and provide some focusing of spiraling energy, but the greatest focusing occurs when one side of it is precisely parallel to magnetic north. Is this correct?{{< /r >}}
 
@@ -124,9 +124,9 @@ For instance, as an entity develops through his indigo would a signpost of his d
 
 
 
-{{< l a="Ra" >}}This will be the last full query of this working. Let us specify the three spirals of light energy which the pyramid exemplifies. Firstly, the fundamental spiral which is used for study and for healing. Second, the spiral to the apex which is used for building. Thirdly, the spiral spreading from the apex which is used for energizing. Contact with indigo ray need not necessarily show itself in any certain gift or guidepost, as you have said. There are some whose indigo energy is that of pure being and never is manifested, yet all are aware of such an entity’s progress. Others may teach or share in many ways contact with intelligent energy. Others continue in unmanifested form, seeking intelligent infinity. Thus the manifestation is a lesser signpost than that which is sensed or intuited about a mind/body/spirit complex. This violet-ray beingness is far more indicative of true self. Are there any brief queries or small matters we may clear up, if we can, before we leave this instrument?{{< /l >}}
+{{< l a="Ra" >}}This will be the last full query of this working. Let us specify the three spirals of light energy which the pyramid exemplifies. Firstly, the fundamental spiral which is used for study and for healing. Second, the spiral to the apex which is used for building. Thirdly, the spiral spreading from the apex which is used for energizing. Contact with indigo ray need not necessarily show itself in any certain gift or guidepost, as you have said. There are some whose indigo energy is that of pure being and never is manifested, yet all are aware of such an entity’s progress. Others may teach or share in many ways contact with intelligent energy. Others continue in unmanifested form, seeking intelligent infinity. Thus the manifestation is a lesser signpost than that which is sensed or intuited about a mind/body/spirit complex. This violet-ray beingness is far more indicative of true self. Are there any brief queries or small matters we may clear up, if we can, before we leave Carla?{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, I did have a question on what you meant by the “third spiral” and if that is too long I would just ask if there is anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Well, I did have a question on what you meant by the “third spiral” and if that is too long I would just ask if there is anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We may answer briefly. If you picture the candle flame, you may see the third spiral.{{< /l >}}
 

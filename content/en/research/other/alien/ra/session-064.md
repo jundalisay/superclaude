@@ -20,7 +20,7 @@ July 26, 1981
 
 {{< r a="Don Elkins" >}}Thank you. Could you explain the basic principles behind the ritual which we perform to initiate the contact and what I would call the basic white magical rituals— principles of protection and other principles? Could you please do this?{{< /r >}}
 
-{{< l a="Ra" >}}Due to your avenue of question we perceive the appropriateness of inclusion of the cause of this instrument’s transitory vital energy distortion. The cause is a bias towards the yearning for expression of devotion to the One Creator in group worship.
+{{< l a="Ra" >}}Due to your avenue of question we perceive the appropriateness of inclusion of the cause of Carla’s transitory vital energy distortion. The cause is a bias towards the yearning for expression of devotion to the One Creator in group worship.
 
 This entity was yearning for this protection both consciously in that it responds to the accoutrements of this expression, the ritual, the colors and their meanings as given by the distortion system of what you call the church, the song of praise, and the combined prayers of thanksgiving and, most of all, that which may be seen to be most centrally magical, the intake of that food which is not of this dimension but has been transmuted into metaphysical nourishment in what this distortion of expression calls the holy communion.
 
@@ -34,7 +34,7 @@ The principle behind any ritual of the white magical nature is to so configure t
 
 The smallest of lapses may disturb the regularity of this pattern of energies which forms the channel for these transmissions.
 
-We may note for your information that our pause was due to the necessity of being quite sure that the mind/body/spirit complex of the instrument was safely in the proper light configuration or density before we dealt with the situation. Far better would it be to allow the shell to become unviable than to allow the mind/body/spirit complex to be shall we say, misplaced.{{< /l >}}
+We may note for your information that our pause was due to the necessity of being quite sure that the mind/body/spirit complex of Carla was safely in the proper light configuration or density before we dealt with the situation. Far better would it be to allow the shell to become unviable than to allow the mind/body/spirit complex to be shall we say, misplaced.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Could you describe or tell me of rituals or technique used by Ra in seeking in the direction of service?{{< /r >}}
 

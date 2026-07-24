@@ -29,7 +29,7 @@ Fifty kaspu [A kaspu is the space that can be covered in two hours travel, i.e. 
 
 Six cubits is his mouth, twelve cubits his...,
 
-Twelve cubits is the circuit of his ears...;
+12 cubits is the circuit of his ears...;
 
 For the space of sixty cubits he ... a bird;
 In water nine cubits deep he draggeth...."

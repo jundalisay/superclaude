@@ -15,7 +15,7 @@ September 9, 1981
 
 
 {{< r a="Don Elkins" >}}
-The instrument has complained of intensive psychic attack for the past diurnal period, approximately. Is there a reason for the intensification of this at this time?
+Carla has complained of intensive psychic attack for the past diurnal period, approximately. Is there a reason for the intensification of this at this time?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -28,7 +28,7 @@ Can you tell me what this reason is, please?
 {{< l a="Ra" >}}
 The cause is that with which you are intimately involved, that is, the cause is the intensive seeking for what you may call enlightenment. This seeking upon your parts has not abated, but intensified.
 
-In the general case, pain, as you call this distortion and the various exaggerations of this distortion by psychic attack would, after the depletion of physical complex energy, begin the depletion of vital energy. This instrument guards its vital energy due to previous errors upon its part. Its subconscious will, which is preternaturally strong for this density, has put a ward upon this energy complex. Thus the Orion visitor strives with more and more intensity to disturb this vital energy as this group intensifies its dedication to service through enlightenment.
+In the general case, pain, as you call this distortion and the various exaggerations of this distortion by psychic attack would, after the depletion of physical complex energy, begin the depletion of vital energy. Carla guards its vital energy due to previous errors upon its part. Its subconscious will, which is preternaturally strong for this density, has put a ward upon this energy complex. Thus the Orion visitor strives with more and more intensity to disturb this vital energy as this group intensifies its dedication to service through enlightenment.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -179,9 +179,9 @@ There is much in this line of questioning which is somewhat muddled. May we, at 
 {{< r a="Don Elkins" >}}
 I will, at the next session, then attempt to turn more toward the heart. I was attempting in this session to get at a point that I thought was central to the evolution of spirit but I seem to have gone awry. I’m sorry for that. It is sometimes very, very difficult for me to question wisely in these areas.
 
-I will just ask if there is anything that we can do to benefit the contact or make the instrument more comfortable?
+I will just ask if there is anything that we can do to benefit the contact or make Carla more comfortable?
 {{< /r >}}
 {{< l a="Ra" >}}
-You are most conscientious and the alignments are especially good. We thank you, my friends, and have been glad to speak with you. We are attempting to be of the greatest aid to you by taking care not to deplete this instrument. Thus although a reserve remains we will attempt from this working onward to keep this reserve, for this instrument has arranged its subconscious to accept this configuration.
+You are most conscientious and the alignments are especially good. We thank you, my friends, and have been glad to speak with you. We are attempting to be of the greatest aid to you by taking care not to deplete Carla. Thus although a reserve remains we will attempt from this working onward to keep this reserve, for Carla has arranged its subconscious to accept this configuration.
 {{< /l >}}
 

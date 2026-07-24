@@ -21,7 +21,7 @@ June 5, 1981
 
 {{< l a="Ra" >}}She appreciates each entity’s caring. 
 
-A caring atmosphere offers the greatest contrast to the discomfort of such psychic attacks, being the reciprocal, that is, the atmosphere of psychic support. This each of you do as a subconscious function of true attitudinal, mental, emotional, and spiritual distortions towards this instrument. There is no magic greater than honest distortion toward love.{{< /l >}}
+A caring atmosphere offers the greatest contrast to the discomfort of such psychic attacks, being the reciprocal, that is, the atmosphere of psychic support. This each of you do as a subconscious function of true attitudinal, mental, emotional, and spiritual distortions towards Carla. There is no magic greater than honest distortion toward love.{{< /l >}}
 
 
 

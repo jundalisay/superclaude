@@ -12,21 +12,21 @@ date: 1982-08-26
 November 18, 1982
 
 
-{{< r a="Don Elkins" >}}Would you please give me the condition of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Would you please give me the condition of Carla?{{< /r >}}
 
-{{< l a="Ra" >}}This instrument’s physical deficit continues but has the potential for the lessening due to the removal in your probable future of foodstuffs to which the instrument has significant allergy. The vital energy levels are somewhat lessened than the last asking but remain strong. The change in the mental/emotional energy level is towards the distortion of the weakening of this complex.{{< /l >}}
+{{< l a="Ra" >}}Carla’s physical deficit continues but has the potential for the lessening due to the removal in your probable future of foodstuffs to which Carla has significant allergy. The vital energy levels are somewhat lessened than the last asking but remain strong. The change in the mental/emotional energy level is towards the distortion of the weakening of this complex.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What are the foodstuffs that are creating the allergic reaction?{{< /r >}}
 
 {{< l a="Ra" >}}That which you call the buttermilk, though appropriately used in the healing work undertaken for the throat and chest areas, is the substance to which the entity has allergy.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument asks if it will be all right to keep the small gold cross on while she is in one of these sessions. Or will it cause some distortion that is not advisable?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla asks if it will be all right to keep the small gold cross on while she is in one of these sessions. Or will it cause some distortion that is not advisable?{{< /r >}}
 
-{{< l a="Ra" >}}We scan the mental distortions of the instrument. Although the presence of the metallic substance is, in general, not recommended, in this instance, as we find those distortions weakening the mental/emotional complex of the instrument due to its empathic distortions, the figure is specifically recommended for use by this instrument. We would request that should any strengthening be done to the chain, as we find intended by this instrument, the strengthening links which symbolize eternity to this instrument be as high in purity or higher than the remainder of the device.
+{{< l a="Ra" >}}We scan the mental distortions of Carla. Although the presence of the metallic substance is, in general, not recommended, in this instance, as we find those distortions weakening the mental/emotional complex of Carla due to its empathic distortions, the figure is specifically recommended for use by Carla. We would request that should any strengthening be done to the chain, as we find intended by Carla, the strengthening links which symbolize eternity to Carla be as high in purity or higher than the remainder of the device.
 
-In this nexus that which this device represents to this instrument is a much-needed strengthener of the mental/emotional patterns which have been much disrupted from the usual configuration of distortions.{{< /l >}}
+In this nexus that which this device represents to Carla is a much-needed strengthener of the mental/emotional patterns which have been much disrupted from the usual configuration of distortions.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything further that needs to be done for or by the instrument to remove the magical working, or any of its after-effects, on her throat area by our fifth-density, negative companion?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything further that needs to be done for or by Carla to remove the magical working, or any of its after-effects, on her throat area by our fifth-density, negative companion?{{< /r >}}
 
 {{< l a="Ra" >}}No.{{< /l >}}
 
@@ -68,9 +68,9 @@ We now speak of that genie, or elemental, or mythic figure, culturally determine
 
 {{< r a="Don Elkins" >}}In the previous session you mentioned the use of the forty-five minute interval of the tape recorder as a signal for ending the session. Is this still the appropriate time?{{< /r >}}
 
-{{< l a="Ra" >}}This is, of course, at the discretion of the questioner for this instrument has some transferred energy and remains open as it has unfailingly done. However, the fragility of the instrument has been more and more appreciated by us. We, in the initial observations, saw the strength of will and overestimated greatly the recuperative abilities of the physical complex of this entity.
+{{< l a="Ra" >}}This is, of course, at the discretion of the questioner for Carla has some transferred energy and remains open as it has unfailingly done. However, the fragility of Carla has been more and more appreciated by us. We, in the initial observations, saw the strength of will and overestimated greatly the recuperative abilities of the physical complex of this entity.
 
-Therefore, we may say that ending a working at approximately this amount of energy expenditure; that is, some point soon following upon the sound vibration of which you speak, would be appropriate and, insofar as we may determine, may well extend the incarnational amount of your space/time which this instrument shall be able to offer to this contact.{{< /l >}}
+Therefore, we may say that ending a working at approximately this amount of energy expenditure; that is, some point soon following upon the sound vibration of which you speak, would be appropriate and, insofar as we may determine, may well extend the incarnational amount of your space/time which Carla shall be able to offer to this contact.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In that case I will just ask one additional short question as we terminate for this session. May I ask if the Logos of this system planned for the mating process as possibly depicted in Card Six— I don’t know if this is related— by some type of DNA imprinting as has been studied by our science. In many second-density creatures seem to have some sort of imprinting that creates a lifetime mating relationship and I was wondering if this was designed by the Logos for that particular mechanism and if it was also carried into third density?{{< /r >}}
 
@@ -78,7 +78,7 @@ Therefore, we may say that ending a working at approximately this amount of ener
 
 The free will of third-density entities is far stronger than the rather mild carryover from second-density DNA encoding and it is not part of the conscious nature of many of your mind/body/spirit complexes to be monogamous due to the exercise of free will. However, as has been noted there are many signposts in the deep mind indicating to the alert adept the more efficient use of catalyst. As we have said, the Logos of your peoples has a bias towards kindness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. In closing I will just ask if there is anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. In closing I will just ask if there is anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We note the relative discomfort of this group at this space/time and offer those previous statements made by Ra as possible aids to the regaining of the extraordinary harmony which this group has the capability of experiencing in a stable manner.
 

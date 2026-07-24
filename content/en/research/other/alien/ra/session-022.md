@@ -20,15 +20,15 @@ February 10, 1981
 
 This has brought her to this nexus in space/time with the conscious and unconscious distortion towards service, with the further conscious distortion towards service by communication.
 
-Each time that we perform this working our social memory complex vibrational distortion meshes more firmly with this instrument’s unconscious distortions towards service.
+Each time that we perform this working our social memory complex vibrational distortion meshes more firmly with Carla’s unconscious distortions towards service.
 
-Thus we are becoming a part of this instrument’s vibratory complex and it a part of ours.
+Thus we are becoming a part of Carla’s vibratory complex and it a part of ours.
 
 This occurs upon the unconscious level, the level whereby the mind has gone down through to the roots of consciousness which you may call cosmic.
 
-This instrument is not consciously aware of this slow changing of the meshing vibratory complex. However, as the dedication on both levels continues, and the workings continue, there are signals sent from the unconscious in a symbolic manner.
+Carla is not consciously aware of this slow changing of the meshing vibratory complex. However, as the dedication on both levels continues, and the workings continue, there are signals sent from the unconscious in a symbolic manner.
 
-Because this instrument is extremely keen in its sense of smell this association takes place unconsciously, and the thought-form of this odor is witnessed by the entity.{{< /l >}}
+Because Carla is extremely keen in its sense of smell this association takes place unconsciously, and the thought-form of this odor is witnessed by the entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}She would like to know why she feels more healthy now after she does these sessions. She’s generally feeling more healthy as time goes on.{{< /r >}}
 
@@ -155,7 +155,7 @@ However, requests being made for healing and other understandings, information w
 
 The difficulties became apparent as those trained in this learning began to attempt to use crystal powers for those things other than healing, as they were involved not only with learning but became involved with what you would call the governmental structure.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was all of their information given to them in the way you’re giving our information now, through an instrument such as this instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Was all of their information given to them in the way you’re giving our information now, through an instrument such as Carla?{{< /r >}}
 
 {{< l a="Ra" >}}There were visitations from time to time but none of importance in the, shall we say, historical passage of events in your space/time continuum.{{< /l >}}
 

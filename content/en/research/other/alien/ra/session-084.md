@@ -16,7 +16,7 @@ April 14, 1982
 
 
 {{< r a="Don Elkins" >}}
-In the last session you mentioned least distorted complex protein in that the body complex of the instrument was capable of greatly increased distortion.
+In the last session you mentioned least distorted complex protein in that the body complex of Carla was capable of greatly increased distortion.
 
 Would you define the protein of which you spoke and we would like to know, increased distortion in which direction, towards health or ill-health?
 {{< /r >}}
@@ -70,11 +70,11 @@ We may encourage meditation upon the functions of the will.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Can you make any suggestions about the instrument’s feet or how they got in the bad shape they are in, and would alternating the shoes help?
+Can you make any suggestions about Carla’s feet or how they got in the bad shape they are in, and would alternating the shoes help?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The distortion referred to above; that is, the complex of juvenile rheumatoid arthritis and lupus erythematosus acts in such a way as to cause various portions of the body complex to become distorted in the way in which the instrument’s pedal appendages are now distorted.
+The distortion referred to above; that is, the complex of juvenile rheumatoid arthritis and lupus erythematosus acts in such a way as to cause various portions of the body complex to become distorted in the way in which Carla’s pedal appendages are now distorted.
 
 We may suggest care in resumption of the exercise but determination as well. The alternation of footwear shall prove efficacious.
 
@@ -106,7 +106,7 @@ I’m interested… I can’t help but be interested in the fact that he had rep
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The nature of contact is such that in order for the deep portion of the trunk of the tree of mind affected to be able to accept the contact, some symbology which may rise to the conscious mind is necessary as a framework for the explanation of the fruits of the contact. In such cases the entity’s own expectations fashion the tale which shall be most acceptable to that entity, and in the dream state, or a trance state in which visions may be produced, this seeming memory is fed into the higher levels of the so-called subconscious and the lower levels of the conscious. From this point the story may surface as any memory and cause the instrument to function without losing balance or sanity.
+The nature of contact is such that in order for the deep portion of the trunk of the tree of mind affected to be able to accept the contact, some symbology which may rise to the conscious mind is necessary as a framework for the explanation of the fruits of the contact. In such cases the entity’s own expectations fashion the tale which shall be most acceptable to that entity, and in the dream state, or a trance state in which visions may be produced, this seeming memory is fed into the higher levels of the so-called subconscious and the lower levels of the conscious. From this point the story may surface as any memory and cause Carla to function without losing balance or sanity.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}

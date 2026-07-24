@@ -15,9 +15,9 @@ June 9, 1982
 
 ## Session 89
 
-{{< r a="Don Elkins" >}}During the last intensive meditation the instrument experienced very strong conditioning from an entity which did not identify itself and which did not leave when she asked it to. Will you tell us what was occurring then?{{< /r >}}
+{{< r a="Don Elkins" >}}During the last intensive meditation Carla experienced very strong conditioning from an entity which did not identify itself and which did not leave when she asked it to. Will you tell us what was occurring then?{{< /r >}}
 
-{{< l a="Ra" >}}We find the instrument to have been given the opportunity to become a channel for a previously known friend. This entity was not able to answer the questioning of spirits in the name of Christ as is this instrument’s distortion of the means of differentiating betwixt those of positive and those of negative orientation. Therefore, after some resistance, the entity found the need to take its leave.{{< /l >}}
+{{< l a="Ra" >}}We find Carla to have been given the opportunity to become a channel for a previously known friend. This entity was not able to answer the questioning of spirits in the name of Christ as is Carla’s distortion of the means of differentiating betwixt those of positive and those of negative orientation. Therefore, after some resistance, the entity found the need to take its leave.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was this particular entity the fifth-density visitor that we have had quite often previously?{{< /r >}}
 
@@ -25,7 +25,7 @@ June 9, 1982
 
 {{< r a="Don Elkins" >}}Is he back with us at this time?{{< /r >}}
 
-{{< l a="Ra" >}}No. The attempt to speak was due to the vigilant eye of the minions of this entity which noted what one may call a surge of natural telepathic ability upon the part of the instrument. This ability is cyclical, of the eighteen diurnal period cycle, as we have mentioned aforetimes. Thusly, this entity determined to attempt another means of access to the instrument by free will.{{< /l >}}
+{{< l a="Ra" >}}No. The attempt to speak was due to the vigilant eye of the minions of this entity which noted what one may call a surge of natural telepathic ability upon the part of Carla. This ability is cyclical, of the eighteen diurnal period cycle, as we have mentioned aforetimes. Thusly, this entity determined to attempt another means of access to Carla by free will.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was this what I might refer to as an increase of ability to receive telepathically over a broader range of basic frequencies so as to include not only the Confederation but this particular entity?{{< /r >}}
 
@@ -37,11 +37,11 @@ June 9, 1982
 
 {{< r a="Don Elkins" >}}Question two: Jim has also felt very strong conditioning which was unbidden while channeling Latwii recently and in his personal meditations. Would you also tell us what occurred in these cases?{{< /r >}}
 
-{{< l a="Ra" >}}The entity which has been your companion has a vibratory frequency but a small amount lesser than that of the social memory complex known as Latwii. Also, Latwii is the primary comforter of the Confederation for entities seeking at the vibratory complex level of the one known as Jim. Therefore, this same companion has been attempting the contact of this instrument also, although this instrument would have great difficulty in distinguishing the actual contact due to the lack of experience of your companion at this type of service. Nevertheless, it is well that this instrument also choose some manner of the challenging of contacts.{{< /l >}}
+{{< l a="Ra" >}}The entity which has been your companion has a vibratory frequency but a small amount lesser than that of the social memory complex known as Latwii. Also, Latwii is the primary comforter of the Confederation for entities seeking at the vibratory complex level of the one known as Jim. Therefore, this same companion has been attempting the contact of Carla also, although Carla would have great difficulty in distinguishing the actual contact due to the lack of experience of your companion at this type of service. Nevertheless, it is well that Carla also choose some manner of the challenging of contacts.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How many of our years ago was Ra’s third density ended?{{< /r >}}
 
-{{< l a="Ra" >}}The calculations necessary for establishing this point are difficult since so much of what you call time is taken up before and after third density as you see the progress of time from your vantage point. We may say in general that the time of our enjoyment of the choice-making was approximately 2.6 million of your sun-years in your past. However— we correct this instrument. Your term is billion, 2.6 billion of your years in your past. However, this time, as you call it, is not meaningful for our intervening space/time has been experienced in a manner quite unlike your third-density experience of space/time.{{< /l >}}
+{{< l a="Ra" >}}The calculations necessary for establishing this point are difficult since so much of what you call time is taken up before and after third density as you see the progress of time from your vantage point. We may say in general that the time of our enjoyment of the choice-making was approximately 2.6 million of your sun-years in your past. However— we correct Carla. Your term is billion, 2.6 billion of your years in your past. However, this time, as you call it, is not meaningful for our intervening space/time has been experienced in a manner quite unlike your third-density experience of space/time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}It appears that the end of Ra’s third density coincided with the beginning of this planet’s second density. Is that correct?{{< /r >}}
 
@@ -107,7 +107,7 @@ Just in this way each archetype has within it several root atoms of organization
 
 We may note, with sympathy, that you undoubtedly feel choked by the opposite difficulty, that of a great mass of observation upon this system, all of which has some merit as each student will experience the archetypical mind and its structure in an unique way useful to that student. We suggest that one or more of this group do that which we have suggested in order that we may, without infringement, offer observations on this interesting subject which may be of further aid to those inquiring in this area.
 
-We would note at this time that the instrument is having almost continuous pain flares. Therefore, we ask that each of the support group be especially aware of any misinformation in order that we may correct any distortions of information the soonest possible.{{< /l >}}
+We would note at this time that Carla is having almost continuous pain flares. Therefore, we ask that each of the support group be especially aware of any misinformation in order that we may correct any distortions of information the soonest possible.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Now as I understand it, what you suggest as far as the tarot goes is to study the writings that we have available and from those formulate questions. Is this correct?{{< /r >}}
 
@@ -197,13 +197,13 @@ First one entity began its work. Quickly the second found the first. These entit
 
 Ra stated that archetypes are helpful when used in a controlled way. Would you give me an example of what you mean by using an archetype in a controlled way?{{< /r >}}
 
-{{< l a="Ra" >}}We speak with some regret in stating that this shall be our last query of length. There is substantial energy left but this instrument has distortions that rapidly approach the limit of our ability to maintain secure contact.
+{{< l a="Ra" >}}We speak with some regret in stating that this shall be our last query of length. There is substantial energy left but Carla has distortions that rapidly approach the limit of our ability to maintain secure contact.
 
 The controlled use of the archetype is that which is done within the self for the polarization of the self and to the benefit of the self, if negatively polarized, or others, if positively polarized, upon the most subtle of levels.
 
 Keep in mind at all times that the archetypical mind is a portion of the deep mind and informs thought processes. When the archetype is translated without regard for magical propriety into the manifested daily actions of an individual the greatest distortions may take place and great infringement upon the free will of others is possible. This is more nearly acceptable to one negatively polarized. However, the more carefully polarized of negative mind/body/spirits will also prefer to work with a finely tuned instrument. May we ask if there are any brief queries before we leave this working?{{< /l >}}
 
-{{< r a="Don Elkins" >}}I’ll just make the statement that I perceive that a negative polarity harvest is possible with less negativity in the environment like Ra’s environment than in the environment such as we have at present and ask if that is correct, and then is there anything that we can do to improve the contact or the comfort of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}I’ll just make the statement that I perceive that a negative polarity harvest is possible with less negativity in the environment like Ra’s environment than in the environment such as we have at present and ask if that is correct, and then is there anything that we can do to improve the contact or the comfort of Carla?{{< /r >}}
 
 {{< l a="Ra" >}}Firstly, the requirements of harvest are set. It is, however, easier to serve the self completely or nearly so if there is little resistance.{{< /l >}}
 

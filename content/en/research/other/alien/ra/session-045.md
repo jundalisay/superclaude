@@ -18,11 +18,11 @@ April 6, 1981
 
 {{< r a="Don Elkins" >}}Did the period of abstinence from contact help her physical condition?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. The probability of this instrument’s development of what you would call disease either of the pulmonary nature or the renal nature was quite significant at our previous contact. You have averted a possible serious physical malfunction of her body.
+{{< l a="Ra" >}}This is correct. The probability of Carla’s development of what you would call disease either of the pulmonary nature or the renal nature was quite significant at our previous contact. You have averted a possible serious physical malfunction of her body.
 
 Your prayerful support was helpful as was her unflagging determination to accept that which was best in the long run and thus maintain the exercises recommended without undue impatience.
 
-Those things which aid this instrument are in some ways contradictory and require balance. Thus this instrument is aided by rest but also by diversions of an active nature. This makes it more difficult to aid this instrument. However, once this is known, the balancing may be more easily accomplished.{{< /l >}}
+Those things which aid Carla are in some ways contradictory and require balance. Thus Carla is aided by rest but also by diversions of an active nature. This makes it more difficult to aid Carla. However, once this is known, the balancing may be more easily accomplished.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell me if a large percentage of the Wanderers here now are those of Ra?{{< /r >}}
 

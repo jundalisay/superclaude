@@ -106,7 +106,7 @@ This will be the final question unless we may speak further upon this question t
 
 {{< l a="Ra" >}}The racial memory contains all that has been experienced. Thus there is some, shall we say, contamination even of the sexual, this showing mostly in your own culture as the various predispositions to adversary relationships, or, as you call them, marriages, rather than the free giving one to another in the love and the light of the Infinite Creator.{{< /l >}}
 
-{{< r a="Don Elkins" >}}That was precisely the point which I was trying to make. Thank you very much. Not to tire the instrument, I will just ask, then, if there is anything we can do to make the instrument more comfortable or to improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}That was precisely the point which I was trying to make. Thank you very much. Not to tire Carla, I will just ask, then, if there is anything we can do to make Carla more comfortable or to improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}Please be aware that this instrument is somewhat fatigued. The channel is very clear. However, we find the vital energy low. We do not wish to deplete the instrument. However, there is a, shall we say, energy exchange which we feel an honor/duty to offer when this instrument opens itself. Therefore, counsel we this instrument to attempt to assess the vital energies carefully before offering itself as open channel.{{< /l >}}
+{{< l a="Ra" >}}Please be aware that Carla is somewhat fatigued. The channel is very clear. However, we find the vital energy low. We do not wish to deplete Carla. However, there is a, shall we say, energy exchange which we feel an honor/duty to offer when Carla opens itself. Therefore, counsel we Carla to attempt to assess the vital energies carefully before offering itself as open channel.{{< /l >}}
 

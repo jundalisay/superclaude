@@ -15,7 +15,7 @@ March 22, 1983
  
 
 
-102.2 Questioner: Will Ra please tell us what caused the pain and cramping in the instrument’s stomach, and what could be done to heal it?
+102.2 Questioner: Will Ra please tell us what caused the pain and cramping in Carla’s stomach, and what could be done to heal it?
 
 
 ## Session 102
@@ -30,15 +30,15 @@ However, the distortions energized during this momentary lapse from free energy 
 
 There is also pre-existing weakness in pancreatic function, especially that linked with the hypothalamus. There is also the pre-existing damage to portions of the liver.
 
-These lacks or distortions manifest in that portion of the system directly proceeding from the jejunum. Further, there is some irritation closer to the duodenum which causes the instrument to fail in assimilating foodstuffs. This is an allopathically caused irritation.
+These lacks or distortions manifest in that portion of the system directly proceeding from the jejunum. Further, there is some irritation closer to the duodenum which causes Carla to fail in assimilating foodstuffs. This is an allopathically caused irritation.
 
 The diet is of central import.
 
-We can go no further in observing the system of the entity as a full discussion of those distortions towards various weakness/strengths which contribute to the present difficulty begin with the lips and end with the anus. We may note that the instrument has remained centered upon the Creator at a percentage exceeding ninety.
+We can go no further in observing the system of the entity as a full discussion of those distortions towards various weakness/strengths which contribute to the present difficulty begin with the lips and end with the anus. We may note that Carla has remained centered upon the Creator at a percentage exceeding ninety.
 
 This is the key. Continue in thanksgiving and gratitude for all things.
 
-There are stronger anti-spasmodic drugs which the one not known to this instrument, but known as Arthur, may aid by the offering. The recommendation to do this, being as it is that which does not retain or remove life and does further remove from the instrument its opportunities for study in this situation, needs must be withheld.
+There are stronger anti-spasmodic drugs which the one not known to Carla, but known as Arthur, may aid by the offering. The recommendation to do this, being as it is that which does not retain or remove life and does further remove from Carla its opportunities for study in this situation, needs must be withheld.
 
 We are not in a position to recommend treatment at this space/time beyond the watching of the types of foodstuffs ingested.{{< /l >}}
 
@@ -46,15 +46,15 @@ We are not in a position to recommend treatment at this space/time beyond the wa
 
 {{< l a="Ra" >}}Arthur Schoen is of your locality.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What foods should the instrument eliminate from her diet in order to alleviate these painful attacks?{{< /r >}}
+{{< r a="Don Elkins" >}}What foods should Carla eliminate from her diet in order to alleviate these painful attacks?{{< /r >}}
 
 {{< l a="Ra" >}}Bob has recommendations.
 
 Further, all foodstuffs are to be cooked so that those things which are ingested be soft and easily macerated. There is a complex addiction, due to long-standing eating habits, to your sugars.
 
-It is to be recommended that, therefore, this sugar be given in its more concentrated form in your time of late afternoon, as you term it, with the ingestion of the sugared libation approximately one to two of your hours after the evening meal. It is further suggested that, since this instrument has been using sugars for carbohydrates, that a small amount of carbohydrate, low in sugar, be ingested approximately one to two of your hours before the sleeping period.{{< /l >}}
+It is to be recommended that, therefore, this sugar be given in its more concentrated form in your time of late afternoon, as you term it, with the ingestion of the sugared libation approximately one to two of your hours after the evening meal. It is further suggested that, since Carla has been using sugars for carbohydrates, that a small amount of carbohydrate, low in sugar, be ingested approximately one to two of your hours before the sleeping period.{{< /l >}}
 
-{{< r a="Don Elkins" >}}As I understand what you say, the instrument is to have no sugar until late in the afternoon. Is that correct?{{< /r >}}
+{{< r a="Don Elkins" >}}As I understand what you say, Carla is to have no sugar until late in the afternoon. Is that correct?{{< /r >}}
 
 {{< l a="Ra" >}}No. The concentrated sugar; that is, the dessert, the ice cream, the cookie, should be ingested at that time.
 
@@ -70,15 +70,15 @@ Small amounts of the fructose, maple, or raw honey may be ingested periodically 
 
 {{< r a="Don Elkins" >}}Then what else causes the spasm?{{< /r >}}
 
-{{< l a="Ra" >}}We speak of two types of cause. The first or proximate cause was a meal with too much oil and too large a burden of undercooked vegetable material. The sugar of the dessert and the few sips of your coffee mixture also were not helpful. The second cause— and this shall be stated clearly— is the energizing of any pre-existing condition in order to keep this group from functioning by means of removing the instrument from the ranks of those able to work with those of Ra.{{< /l >}}
+{{< l a="Ra" >}}We speak of two types of cause. The first or proximate cause was a meal with too much oil and too large a burden of undercooked vegetable material. The sugar of the dessert and the few sips of your coffee mixture also were not helpful. The second cause— and this shall be stated clearly— is the energizing of any pre-existing condition in order to keep this group from functioning by means of removing Carla from the ranks of those able to work with those of Ra.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now, is there— the two areas then that the instrument can look to for curing this problem… I understand that the yellow-ray blockage problem has completely repaired, shall I say. If this is not correct, could you make suggestions on that, please?{{< /r >}}
+{{< r a="Don Elkins" >}}Now, is there— the two areas then that Carla can look to for curing this problem… I understand that the yellow-ray blockage problem has completely repaired, shall I say. If this is not correct, could you make suggestions on that, please?{{< /r >}}
 
 {{< l a="Ra" >}}Each entity must, in order to completely unblock yellow ray, love all which are in relationship to it, with hope only of the other-selves’ joy, peace, and comfort.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The second thing that the instrument must do to effect this cure is to be careful of diet which includes all that Ra has just stated and what Bob recommends from his readings. There seem to be so many different things that could cause this spasm. I was just wondering if there is a general approach to foods.
+{{< r a="Don Elkins" >}}The second thing that Carla must do to effect this cure is to be careful of diet which includes all that Ra has just stated and what Bob recommends from his readings. There seem to be so many different things that could cause this spasm. I was just wondering if there is a general approach to foods.
 
-Could Ra recommend, say, those foods the instrument could eat that would have no chance of creating the problem that caused the spasm. Could Ra do that, please?{{< /r >}}
+Could Ra recommend, say, those foods Carla could eat that would have no chance of creating the problem that caused the spasm. Could Ra do that, please?{{< /r >}}
 
 {{< l a="Ra" >}}No.{{< /l >}}
 
@@ -88,13 +88,13 @@ Could Ra recommend, say, those foods the instrument could eat that would have no
 
 {{< r a="Don Elkins" >}}Why cannot Ra do that?{{< /r >}}
 
-{{< l a="Ra" >}}There are no foods which this instrument can take with total confidence that no spasm shall occur. The spasming portions of the vehicle have become sensitized through great distortions towards that which you call pain.{{< /l >}}
+{{< l a="Ra" >}}There are no foods which Carla can take with total confidence that no spasm shall occur. The spasming portions of the vehicle have become sensitized through great distortions towards that which you call pain.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is there a group of foods which is most likely not to cause the spasming condition or any foods that Ra could mention that are highly probable not to cause spasm?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would Ra please mention which foods are highly probable in not causing any spasming in the instrument’s digestive system?{{< /r >}}
+{{< r a="Don Elkins" >}}Would Ra please mention which foods are highly probable in not causing any spasming in Carla’s digestive system?{{< /r >}}
 
 {{< l a="Ra" >}}The liquids not containing carbonation, the well-cooked vegetable which is most light and soft, the well-cooked grains, the non-fatted meat such as the fish. You may note that some recommended foodstuffs overlap allergies and sensitivities due to the juvenile rheumatoid arthritic distortions. Further, although sugar such as is in your sweetened desserts represents a potential, we may suggest that it be included at this period for aforementioned reasons.{{< /l >}}
 
@@ -117,7 +117,7 @@ One of your moon’s revolutions has a good possibility/probability vortex of se
 
 May we ask for one more query of normal length as this entity, though filled with enough transferred energy, has the most fragile framework through which we may channel this and our energies.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Obviously we would very much like to not get to the point of surgery, and the only other alternative that comes to mind other than the diet and the instrument’s personal mental work is healing through a healer, and I would like Ra’s recommendation with respect to a non-allopathic type healer and any recommendations Ra could make for either Jim or myself to act in that capacity or anyone else Ra could recommend so that we wouldn’t have to go through this surgical operation if it seems to become necessary and if we could start working on one of these other approaches right away I think it might be highly recommended. Would Ra comment on that, please?{{< /r >}}
+{{< r a="Don Elkins" >}}Obviously we would very much like to not get to the point of surgery, and the only other alternative that comes to mind other than the diet and Carla’s personal mental work is healing through a healer, and I would like Ra’s recommendation with respect to a non-allopathic type healer and any recommendations Ra could make for either Jim or myself to act in that capacity or anyone else Ra could recommend so that we wouldn’t have to go through this surgical operation if it seems to become necessary and if we could start working on one of these other approaches right away I think it might be highly recommended. Would Ra comment on that, please?{{< /r >}}
 
 {{< l a="Ra" >}}We salute the opening of compassion circuitry in the questioner but note that that which is being experienced by this group is being experienced within an healing atmosphere.
 

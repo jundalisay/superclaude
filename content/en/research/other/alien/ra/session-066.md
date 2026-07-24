@@ -13,25 +13,25 @@ tags: ['', '']
 
 August 12, 1981
 
-66.1 Questioner: Could you give me an indication of the instrument’s condition?
+66.1 Questioner: Could you give me an indication of Carla’s condition?
 
 Ra:  The vital energies are somewhat depleted at this time but not seriously so. The physical energy level is extremely low. Otherwise, it is as previously stated.
 
-66.2 Questioner: Is there anything that we can do, staying within the first distortion, to seek aid from the Confederation in order to alleviate the instrument’s physical problems?
+66.2 Questioner: Is there anything that we can do, staying within the first distortion, to seek aid from the Confederation in order to alleviate Carla’s physical problems?
 
 Ra:  No.
 
-66.3 Questioner: Can you tell me the most appropriate method for attempting to alleviate the instrument’s physical problems?
+66.3 Questioner: Can you tell me the most appropriate method for attempting to alleviate Carla’s physical problems?
 
-Ra:  The basic material has been covered before concerning the nurturing of this instrument. We recapitulate: the exercise according to ability, not to exceed appropriate parameters, the nutrition, the social intercourse with companions, the sexual activity in green ray or above, and in general, the sharing of the distortions of this group’s individual experiences in an helpful, loving manner.
+Ra:  The basic material has been covered before concerning the nurturing of Carla. We recapitulate: the exercise according to ability, not to exceed appropriate parameters, the nutrition, the social intercourse with companions, the sexual activity in green ray or above, and in general, the sharing of the distortions of this group’s individual experiences in an helpful, loving manner.
 
-These things are being accomplished with what we consider great harmony, given the density in which you dance. The specific attention and activities with which those with physical complex distortions may alleviate these distortions are known to this instrument.
+These things are being accomplished with what we consider great harmony, given the density in which you dance. The specific attention and activities with which those with physical complex distortions may alleviate these distortions are known to Carla.
 
-Finally, it is well for this instrument to continue the practices it has lately begun.
+Finally, it is well for Carla to continue the practices it has lately begun.
 
 66.4 Questioner: Which practices are those?
 
-Ra:  These practices concern exercises which we have outlined previously. We may say that the variety of experiences which this entity seeks is helpful as we have said before, but as this instrument works in these practices the distortion seems less mandatory.
+Ra:  These practices concern exercises which we have outlined previously. We may say that the variety of experiences which this entity seeks is helpful as we have said before, but as Carla works in these practices the distortion seems less mandatory.
 
 66.5 Questioner: I would like to investigate the mechanism of healing using the crystallized healer. I am going to make a statement, and I would appreciate it if you would correct my thinking.
 
@@ -91,7 +91,7 @@ Ra:  This is correct. We may speak slightly further upon this type of opportunit
 
 There are times when the malcondition to be altered is without emotional, mental, or spiritual interest to the entity and is merely that which has, perhaps by chance genetic arrangement, occurred. In these cases that which is apparently dematerialized will remain dematerialized and may be observed as so by any observer. The malcondition which has an emotional, mental, or spiritual charge is likely not to remain dematerialized in the sense of the showing of the objective referent to an observer. However, if the opportunity has been taken by the seeker the apparent malcondition of the physical complex will be at variance with the actual health, as you call this distortion, of the seeker and the lack of experiencing the distortions which the objective referent would suggest still held sway.
 
-For instance, in this instrument the removal of three small cysts was the removal of material having no interest to the entity. Thus these growths remained dematerialized after the so-called psychic surgery experience. In other psychic surgery the kidneys of this instrument were carefully offered a new configuration of beingness which the entity embraced. However, this particular portion of the mind/body/spirit complex carried a great deal of emotional, mental, and spiritual charge due to this distorted functioning being the cause of great illness in a certain configuration of events which culminated in this entity’s conscious decision to be of service. Therefore, any objective scanning of this entity’s renal complex would indicate the rather extreme dysfunctional aspect which it showed previous to the psychic surgery experience, as you call it.
+For instance, in Carla the removal of three small cysts was the removal of material having no interest to the entity. Thus these growths remained dematerialized after the so-called psychic surgery experience. In other psychic surgery the kidneys of Carla were carefully offered a new configuration of beingness which the entity embraced. However, this particular portion of the mind/body/spirit complex carried a great deal of emotional, mental, and spiritual charge due to this distorted functioning being the cause of great illness in a certain configuration of events which culminated in this entity’s conscious decision to be of service. Therefore, any objective scanning of this entity’s renal complex would indicate the rather extreme dysfunctional aspect which it showed previous to the psychic surgery experience, as you call it.
 
 The key is not in the continuation of the dematerialization of distortion to the eye of the beholder but rather lies in the choosing of the newly materialized configuration which exists in time/space.
 

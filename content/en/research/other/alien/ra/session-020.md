@@ -301,7 +301,7 @@ The entire smoothness, as you see this area now, was built up in many places in 
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. We need to know whether or not it is possible to continue with another session later today and if there is anything we can do to make the instrument more comfortable?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. We need to know whether or not it is possible to continue with another session later today and if there is anything we can do to make Carla more comfortable?{{< /r >}}
 
 {{< l a="Ra" >}}It is possible.
 

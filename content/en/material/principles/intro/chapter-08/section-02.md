@@ -20,18 +20,25 @@ Chapter 9 explained that Einstein's system for judging space is to use the metri
 {{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself" >}}
 
 
-But to Material Superphysics, the proper and natural way to judge the space of a cloud on Trafalgar square is to know the nature of both:
+Descartes' Physics would explain that this works since time is made up of independent moments. 
+
+We extend this maxim to say reality is made up of independent spacetime slices that separated by Planck length as the macro-aetherspace (dark energy) which is the same substance as the aetherspace (atomic space).
+
+THERFORE, the space between A and B is the **EFFECT** of the relational (relativistic) differences between the nature of A and B.
+
+THEREFORE, the proper and natural way to judge the space of a cloud on Trafalgar square is to know the nature of both:
 - the cloud, and
 - Trafalgar square
 
-In this way, the proper location is determined by the relative differences of those two natures.
+The natures of both are known by taking notes of their changing natures per perception time. 
+
 
 A blind observer can know the cloud by the thunder it creates and how it compares to other sounds from Trafalgar square which he learns by experience. In this way, this system can work even without light.  
 
 
-### The Aethereal, Non-Radiant, Experiential Way
+## The Aethereal, Non-Radiant, Experiential Way
 
-Assuming Trafalgar square has four squares `A1, A2, B1, B2`. The person has existed in all squares and has heard thunder above each one, as well as above all the other squares. This leads to 16 total experiences. 
+Assuming Trafalgar square has four squares `A1, A2, B1, B2`. The person has existed in all squares and has heard thunder above each one, as well as above all the other squares. This leads to 16 total experiences as the "plenum". 
 
 {{< img src="/graphics/physics/clouds.png" alt="The Superphysics way of observing" cap="The Superphysics way of observing" >}}
 
@@ -55,7 +62,7 @@ Yes, c and lambda helped physicists understand the universe beyond the solar sys
 Notice how this system is similar to quantum mechanics which assigns a probability to each location through a 'path integral' formulation. 
 
 
-### The Francis Bacon Tables
+## The Francis Bacon Tables
 
 The list of experiences of the blind man in our example allowed him to know which square the lightning came from. 
 
@@ -72,6 +79,7 @@ Nowadays, this is known as the training data used by machine learning models.
 This means that our system will answer questions about space and movement based on training data instead of simple inputs like mass, velocity, distance, etc. 
 
 
+Update July 2026: We call our system as the 4th density way of judging space and time as opposed to the 3rd density way done by Modern Physics.
 
 
 <!-- As an alternative to general relativity, we present a draft of "gravitational relativity" derived from Kepler, as a subset of a unifying "universal relativity" from his concept of harmonic ratios.  -->

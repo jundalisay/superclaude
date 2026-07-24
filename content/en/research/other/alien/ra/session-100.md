@@ -15,17 +15,17 @@ tags: ['']
 November 29, 1982
 
 
-{{< r a="Don Elkins" >}}The instrument asks if there is some problem with the swirling waters since she feels very dizzy after each application.{{< /r >}}
+{{< r a="Don Elkins" >}}Carla asks if there is some problem with the swirling waters since she feels very dizzy after each application.{{< /r >}}
 
-{{< l a="Ra" >}}The instrument has the propensity for attempting to exceed its limits. If one considers the metaphysical or time/space aspect of an incarnation, this is a fortunate and efficient use of catalyst as the will is constantly being strengthened and, further, if the limitations are exceeded in the service of others the polarization is also most efficient. 
+{{< l a="Ra" >}}Carla has the propensity for attempting to exceed its limits. If one considers the metaphysical or time/space aspect of an incarnation, this is a fortunate and efficient use of catalyst as the will is constantly being strengthened and, further, if the limitations are exceeded in the service of others the polarization is also most efficient. 
 
-However, we perceive the query to speak to the space/time portion of incarnational experience and in that framework would again ask the instrument to consider the value of martyrdom. The instrument may examine its range of reactions to the swirling waters. 
+However, we perceive the query to speak to the space/time portion of incarnational experience and in that framework would again ask Carla to consider the value of martyrdom. Carla may examine its range of reactions to the swirling waters. 
 
 It will discover a correlation between it and other activity. When the so-called aerobic exercise is pursued no less than three of your hours, and preferably five of your hours, should pass betwixt it and the swirling waters. 
 
 When the walking has been accomplished a period of no less than, we believe, forty of your minutes must needs transpire before the swirling waters and preferably twice that amount of your space/time. 
 
-Some greeting has encouraged the dizziness felt by the instrument. However, its source is largely the determination of the instrument to remain immersed in the swirling waters past the period of space/time it may abide therein without exceeding its physical limits.{{< /l >}}
+Some greeting has encouraged the dizziness felt by Carla. However, its source is largely the determination of Carla to remain immersed in the swirling waters past the period of space/time it may abide therein without exceeding its physical limits.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}Colonel Stevens would like to better understand the effect of the quarantine and first distortion. Would Ra comment on the purpose of the so-called Pleiades contact in Switzerland with Billy Meier— an entity known as Semjase and others.{{< /r >}}
@@ -57,8 +57,8 @@ That the transformation occurs by pull which attempts to turn the entity toward 
 {{< r a="Don Elkins" >}}The entities— the small black— or russet— and white entities have been now changed so that they appear to be sphinxes which we are assuming mean that the catalyst has been mastered. I am also assuming that they act as the power that moves the chariot depicted here so as this mastery enables the mind in its transformation to become mobile unlike it was prior to this mastery, locked within the illusion. Would Ra comment on that?{{< /r >}}
 {{< l a="Ra" >}}Firstly, we ask that the student consider the Great Way not as the culmination of a series of seven activities or functions but as a far more clearly delineated image of the environment within which the mind, body, or spirit shall function. Therefore, the culturally determined creatures called sphinxes do not indicate mastery over catalyst. The second supposition, that of placing the creatures as the movers of the chariot of mind, has far more virtue. You may connote the concept of time to the image of the sphinx. The mental and mental/emotional complex ripens and moves and is transformed in time.{{< /l >}}
 
-{{< r a="Don Elkins" >}}There is the forty-five minute signal. Does Ra suggest a termination of this session, taking into consideration the instrument’s condition and all the other conditions that we have placed on this?{{< /r >}}
-{{< l a="Ra" >}}Information pertinent to this query has been previously covered. The choice of termination time, as you call it, is solely that of the questioner until the point at which we perceive the instrument beginning to use its vital resources due to the absence of transferred or native physical energy. The instrument remains open, as always.{{< /l >}}
+{{< r a="Don Elkins" >}}There is the forty-five minute signal. Does Ra suggest a termination of this session, taking into consideration Carla’s condition and all the other conditions that we have placed on this?{{< /r >}}
+{{< l a="Ra" >}}Information pertinent to this query has been previously covered. The choice of termination time, as you call it, is solely that of the questioner until the point at which we perceive Carla beginning to use its vital resources due to the absence of transferred or native physical energy. Carla remains open, as always.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In that case I will ask only one more question and that will be having to do with the sword and the scepter. It would seem that the sword would be the power of the negative adept indicating control over other-selves and the scepter would indicate the power of the positive adept with unity in mind, body, and spirit. However, they seem to be in opposite hands than I would have guessed. Would Ra comment on that?{{< /r >}}
 {{< l a="Ra" >}}These symbols are astrological in origin. The shapes, therefore, may be released from their stricture. We may note that there is an overriding spiritual environment and protection for the environment of the mind. We may further note that the negatively polarized adept will attempt to fashion that covenant for its own use whereas the positively polarized entity may hold forth that which is exemplified by the astrological sword; that is, light and truth.{{< /l >}}
@@ -66,7 +66,7 @@ That the transformation occurs by pull which attempts to turn the entity toward 
 {{< r a="Don Elkins" >}}Would there be two more appropriate objects or symbols to have the entity in Card Seven holding in its hands, other than the ones shown?{{< /r >}}
 {{< l a="Ra" >}}We leave this consideration to you, O student, and shall comment upon any observation which you may make.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I will save that for next session and I will ask if there is anything we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I will save that for next session and I will ask if there is anything we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 {{< l a="Ra" >}}All is well. The appurtenances are most conscientiously placed. We thank this diligent group. There is much greater distortion towards harmony at this asking and we join you in praise and thanksgiving. This is always the greatest boon to improvement of the contact, for it is the harmony of the group which supports this contact.{{< /l >}}
 
 

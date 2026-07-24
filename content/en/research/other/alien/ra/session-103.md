@@ -13,18 +13,18 @@ tags: ['']
 June 10, 1983
 
 
-103.2 Questioner: What is the situation with respect— and condition with respect— to the physical problems with the digestive portions of the body that the instrument had previously?
+103.2 Questioner: What is the situation with respect— and condition with respect— to the physical problems with the digestive portions of the body that Carla had previously?
 
 
-{{< l a="Ra" >}}The yellow-ray— We must correct ourselves. I am Ra. Please expel breath across this instrument’s chest area.
+{{< l a="Ra" >}}The yellow-ray— We must correct ourselves. I am Ra. Please expel breath across Carla’s chest area.
 
 [This was done as directed.]
 
-The channel is now satisfactory. We find the yellow-ray, chemical body of the instrument to be exhausted, but to be attempting the improvement by action such as exercise and diet. We may state that the infection has not completely left the body complex, although it is far less virulent.{{< /l >}}
+The channel is now satisfactory. We find the yellow-ray, chemical body of Carla to be exhausted, but to be attempting the improvement by action such as exercise and diet. We may state that the infection has not completely left the body complex, although it is far less virulent.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument asks the question why she lost her joy in the recent past? Would Ra comment, please?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla asks the question why she lost her joy in the recent past? Would Ra comment, please?{{< /r >}}
 
-{{< l a="Ra" >}}The instrument made a free-will decision not to address the physical catalyst causing great pain by means of the allopathically prescribed chemical compound which the instrument was sure would be efficacious due to its reliance upon the suggestions of Ra. Thus the catalyst was given in a more complete form. The outer service to others became nearly impossible, causing the entity to experience once again the choice of the martyr; that is, to put value in a fatal action and die or to put value on consciousness of the creation and of the One Creator and, thereby, live. The instrument, through will, chose the latter path. However, the mind and mental/emotional distortions did not give the support to this decision necessary to maintain a state of unity which this entity normally experiences and has experienced since its incarnation’s beginnings.
+{{< l a="Ra" >}}Carla made a free-will decision not to address the physical catalyst causing great pain by means of the allopathically prescribed chemical compound which Carla was sure would be efficacious due to its reliance upon the suggestions of Ra. Thus the catalyst was given in a more complete form. The outer service to others became nearly impossible, causing the entity to experience once again the choice of the martyr; that is, to put value in a fatal action and die or to put value on consciousness of the creation and of the One Creator and, thereby, live. Carla, through will, chose the latter path. However, the mind and mental/emotional distortions did not give the support to this decision necessary to maintain a state of unity which this entity normally experiences and has experienced since its incarnation’s beginnings.
 
 Since this catalyst has been accepted, the work begun to remove distortions blocking the indigo ray might well be continued apace.{{< /l >}}
 
@@ -36,21 +36,21 @@ Since this catalyst has been accepted, the work begun to remove distortions bloc
 
 {{< l a="Ra" >}}This entity has, for some period of your space/time, been at rest. However, it has been alerted to the workings taking place and is soon to be your companion once again.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can Ra recommend anything that the instrument can do, or that we can do, to improve any of the energies of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Can Ra recommend anything that Carla can do, or that we can do, to improve any of the energies of Carla?{{< /r >}}
 
-{{< l a="Ra" >}}This is previously covered material. We have outlined the path the instrument may take in thought.{{< /l >}}
+{{< l a="Ra" >}}This is previously covered material. We have outlined the path Carla may take in thought.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I didn’t mean to cover previously covered material. I meant to add any of this to specifically focus on at this time, the best possible thing that we or the instrument could do to improve these energies, the salient activity.{{< /r >}}
+{{< r a="Don Elkins" >}}I didn’t mean to cover previously covered material. I meant to add any of this to specifically focus on at this time, the best possible thing that we or Carla could do to improve these energies, the salient activity.{{< /r >}}
 
-{{< l a="Ra" >}}Before responding we ask your vigilance during pain flares as the channel is acceptable but is being distorted periodically by the severe physical distortions of the yellow-ray, chemical body of the instrument.
+{{< l a="Ra" >}}Before responding we ask your vigilance during pain flares as the channel is acceptable but is being distorted periodically by the severe physical distortions of the yellow-ray, chemical body of Carla.
 
 Those salient items for the support group are praise and thanksgiving in harmony. These the group has accomplished with such a degree of acceptability that we cavil not at the harmony of the group.
 
-As to the instrument, the journey from worth in action to worth in esse is arduous. The entity has denied itself in order to be free from that which it calls addiction.
+As to Carla, the journey from worth in action to worth in esse is arduous. The entity has denied itself in order to be free from that which it calls addiction.
 
-This sort of martyrdom, and here we speak of the small but symbolically great sacrifice of the clothing, causes the entity to frame a selfhood in poorness which feeds unworthiness unless the poverty is seen to be true richness. In other words, good works for the wrong reasons cause confusion and distortion. We encourage the instrument to value itself and to see that its true requirements are valued by the self. We suggest contemplation of true richness of being.{{< /l >}}
+This sort of martyrdom, and here we speak of the small but symbolically great sacrifice of the clothing, causes the entity to frame a selfhood in poorness which feeds unworthiness unless the poverty is seen to be true richness. In other words, good works for the wrong reasons cause confusion and distortion. We encourage Carla to value itself and to see that its true requirements are valued by the self. We suggest contemplation of true richness of being.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything else that either we or the instrument can do that would specifically work on the vital energy to increase it of the instrument?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything else that either we or Carla can do that would specifically work on the vital energy to increase it of Carla?{{< /r >}}
 
 {{< l a="Ra" >}}We have come up against the full stop of free will.{{< /l >}}
 
@@ -84,7 +84,7 @@ Time/space is close in this concept complex, brought close due to the veiling pr
 
 {{< r a="Don Elkins" >}}I am assuming that the skirt is skewed to the left for the same reason that it is in Card Number Four, indicating the distance service-to-self polarized entities keep from others, and I am also assuming that the face is turned to the left for the same reason that it is in Card Number Five, because of the nature of catalyst. Is this roughly correct?{{< /r >}}
 
-{{< l a="Ra" >}}Please expel breath over the breast of the instrument from right to left.
+{{< l a="Ra" >}}Please expel breath over the breast of Carla from right to left.
 
 [This was done as directed.]
 
@@ -94,9 +94,9 @@ Your previous supposition is indeed roughly correct. We might also note that we,
 
 {{< r a="Don Elkins" >}}Our appropriate time for working right now, I believe, is close to a close, and I would like to ask, that is, the two times we had to expel breath— what is the problem, or what is— Why in this session do we have to do that, when we didn’t in most others?{{< /r >}}
 
-{{< l a="Ra" >}}This instrument is unaware of the method used to contact Ra. However, its desire was particularly strong, at the outset of this working, for this working to transpire. Thus it inadvertently was somewhat premature in its leaving of the yellow-ray, physical body.
+{{< l a="Ra" >}}Carla is unaware of the method used to contact Ra. However, its desire was particularly strong, at the outset of this working, for this working to transpire. Thus it inadvertently was somewhat premature in its leaving of the yellow-ray, physical body.
 
-In this state the object was dropped upon the instrument which you call the tie-pin microphone. The unexpected contact caused injury of the chest muscles and we would advise some care depending from this working to avoid stress so that this injury may heal. There is a metaphysical component to this injury and, therefore, we wished to be quite sure that all portions of the environment were cleansed. Since this place of working has not its usual level of protection we used your breath to so cleanse the environment, which was at risk.{{< /l >}}
+In this state the object was dropped upon Carla which you call the tie-pin microphone. The unexpected contact caused injury of the chest muscles and we would advise some care depending from this working to avoid stress so that this injury may heal. There is a metaphysical component to this injury and, therefore, we wished to be quite sure that all portions of the environment were cleansed. Since this place of working has not its usual level of protection we used your breath to so cleanse the environment, which was at risk.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is the reason for the lack of usual level of protection the fact that it has been a considerable time since we have worked in here?{{< /r >}}
 
@@ -110,8 +110,8 @@ In this state the object was dropped upon the instrument which you call the tie-
 
 {{< l a="Ra" >}}That is acceptable.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I don’t want to overtire the instrument. We’re running close to time. I will just ask if there is anything we can do to improve the contact or make the instrument more comfortable, or if there is anything else that Ra could state at this time that would aid us?{{< /r >}}
+{{< r a="Don Elkins" >}}I don’t want to overtire Carla. We’re running close to time. I will just ask if there is anything we can do to improve the contact or make Carla more comfortable, or if there is anything else that Ra could state at this time that would aid us?{{< /r >}}
 
-{{< l a="Ra" >}}All is well. The alignments are conscientious. The love and harmony of the group are strong. We would simply remind you that care be taken with the instrument’s chest, that the Banishing Ritual be resumed regularly, and that all things continue in love and in light. We thank you for the opportunity to serve.
+{{< l a="Ra" >}}All is well. The alignments are conscientious. The love and harmony of the group are strong. We would simply remind you that care be taken with Carla’s chest, that the Banishing Ritual be resumed regularly, and that all things continue in love and in light. We thank you for the opportunity to serve.
 {{< /l >}}
 

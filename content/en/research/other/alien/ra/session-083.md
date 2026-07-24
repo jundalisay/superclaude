@@ -22,9 +22,9 @@ She is not gaining weight.
 
 She has no longer any physical material which, to any observable extent, must be used in order for this contact to occur. 
 
-This is due to the determination of the group that the instrument shall not use the vital energy which would be necessary since the physical energy complex level is in deficit. 
+This is due to the determination of the group that Carla shall not use the vital energy which would be necessary since the physical energy complex level is in deficit. 
 
-Since the energy, therefore, for these contacts is a product of energy transfer the instrument must no longer pay this physical price. Therefore, she is not losing the weight.
+Since the energy, therefore, for these contacts is a product of energy transfer Carla must no longer pay this physical price. Therefore, she is not losing the weight.
 
 However, the weight gain is the product of 2 factors:
 
@@ -32,7 +32,7 @@ However, the weight gain is the product of 2 factors:
 
 2. The energizing of these difficulties.
 
-It is fortunate for the outlook of this contact and the incarnation of this entity that it is not distorted towards the overeating as the overloading of this much distorted physical complex would override even the most fervent affirmations of health/illness and turn the instrument towards the distortions of illness/health or, in the extreme case, the physical death.
+It is fortunate for the outlook of this contact and the incarnation of this entity that it is not distorted towards the overeating as the overloading of this much distorted physical complex would override even the most fervent affirmations of health/illness and turn Carla towards the distortions of illness/health or, in the extreme case, the physical death.
 {{< /l >}}
 
 
@@ -150,11 +150,11 @@ The various unmanifested activities of the self were found to be productive in s
 
 {{< l a="Ra" >}}This shall be the last query of this working of a full length. You may see, in some cases, an entity which, either by pre-incarnative choice or by constant reprogramming while in incarnation, has developed an esurient program of catalyst. Such an entity is quite desirous of using the catalyst and has determined to its own satisfaction that what you may call the large board needs to be applied to the forehead in order to obtain the attention of the self. In these cases it may indeed seem a great waste of the catalyst of pain and a distortion towards feeling the tragedy of so much pain may be experienced by the other-self. However, it is well to hope that the other-self is grasping that which it has gone to some trouble to offer itself; that is, the catalyst which it desires to use for the purpose of evolution. May we ask if there are any brief queries at this time?{{< /l >}}
 
-{{< r a="Don Elkins" >}}I noticed you started this session with “I communicate now.” You usually use “We communicate now.” Is there any significance or difference with respect to that, and then is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I noticed you started this session with “I communicate now.” You usually use “We communicate now.” Is there any significance or difference with respect to that, and then is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We am Ra. You may see the grammatical difficulties of your linguistic structure in dealing with a social memory complex. There is no distinction between the first person singular and plural in your language when pertaining to Ra.
 
-We offer the following, not to infringe upon your free will, but because this instrument has specifically requested information as to its maintenance and the support group does so at this querying. We may suggest that the instrument has two areas of potential distortion, both of which may be aided in the bodily sense by the ingestion of those things which seem to the instrument to be desirable. We do not suggest any hard and fast rulings of diet although we may suggest the virtue of the liquids. The instrument has an increasing ability to sense that which will aid its bodily complex. It is being aided by affirmations and also by the light which is the food of the density of resting.
+We offer the following, not to infringe upon your free will, but because Carla has specifically requested information as to its maintenance and the support group does so at this querying. We may suggest that Carla has two areas of potential distortion, both of which may be aided in the bodily sense by the ingestion of those things which seem to Carla to be desirable. We do not suggest any hard and fast rulings of diet although we may suggest the virtue of the liquids. Carla has an increasing ability to sense that which will aid its bodily complex. It is being aided by affirmations and also by the light which is the food of the density of resting.
 
-We may ask the support group to monitor the instrument as always so that in the case of the desire for the more complex proteins that which is the least distorted might be offered to the bodily complex which is indeed at this time potentially capable of greatly increased distortion.{{< /l >}}
+We may ask the support group to monitor Carla as always so that in the case of the desire for the more complex proteins that which is the least distorted might be offered to the bodily complex which is indeed at this time potentially capable of greatly increased distortion.{{< /l >}}
 

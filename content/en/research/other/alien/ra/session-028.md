@@ -79,7 +79,7 @@ Would one individualized consciousness create one galaxy of stars, the type that
 
 {{< l a="Ra" >}}It would seem that if one Logos creates the intelligent energy ways for a large system there would not be the necessity or possibility of the further sub-Logos differentiation. However, within limits, this is precisely the case, and it is perceptive that this has been seen.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. Could you please make the instrument cough?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. Could you please make Carla cough?{{< /r >}}
 
 {{< l a="Ra" >}}[Cough.]{{< /l >}}
 
@@ -113,7 +113,7 @@ When this major galaxy is formed by the Logos, polarity then exists in a sense t
 
 {{< l a="Ra" >}}This is correct. All is potentially available from the beginning of your physical space/time; it then being the function of consciousness complexes to begin to use the physical materials to gain experience to then polarize in a metaphysical sense. The potentials for this are not created by the experiencer but by intelligent energy.
 
-This will be the last full question of this session due to our desire to foster this instrument as it slowly regains physical complex energy. May we ask if you have one or two questions we may answer shortly before we close?{{< /l >}}
+This will be the last full question of this session due to our desire to foster Carla as it slowly regains physical complex energy. May we ask if you have one or two questions we may answer shortly before we close?{{< /l >}}
 
 {{< r a="Don Elkins" >}}I am assuming that the process of creation, then, after the original creation of the major galaxy, is continued by the further individualization of consciousness of the Logos so that there are many, many portions of individualized consciousness then creating further items, you might say, for experience all over the galaxy. Is this correct?{{< /r >}}
 

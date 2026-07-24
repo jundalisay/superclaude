@@ -228,7 +228,7 @@ The entity, child or adult, as you call it, is not an instrument to be played. T
 
 There are two things especially important in this relationship other than the basic acceptance of the child by the parent. Firstly, the experience of whatever means the parent uses to worship and give thanksgiving to the One Infinite Creator, should if possible be shared with the child entity upon a daily basis, as you would say. Secondly, the compassion of parent to child may well be tempered by the understanding that the child entity shall learn the biases of service to others or service to self from the parental other-self. This is the reason that some discipline is appropriate in the teach/learning. This does not apply to the activation of any one energy center for each entity is unique and each relationship with self and other-self doubly unique. The guidelines given are only general for this reason.
 
-Is there a brief query before we leave this instrument?{{< /l >}}
+Is there a brief query before we leave Carla?{{< /l >}}
 
 {{< r a="Don Elkins" >}}If this is not brief enough, don’t bother to answer it. But first, I just wondered if certain parts are always removed, the same parts removed in cattle mutilations and is that related to the energy centers and why these parts, these particular parts were removed.{{< /r >}}
 

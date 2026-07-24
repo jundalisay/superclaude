@@ -19,13 +19,13 @@ Please adjust, without the touching Carla's body, the item which presses on her 
 
 There is a line of interference crossing the crown of the head.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is it this? [A two inch fold in the sheet is located three inches from the crown of the instrument’s head and is laid flat on the bed.] 
+{{< r a="Don Elkins" >}}Is it this? [A two inch fold in the sheet is located three inches from the crown of Carla’s head and is laid flat on the bed.] 
 {{< /r >}}
 
 {{< l a="Ra" >}}yes. Please increase the distance from the crown of the head.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}[Ruffles in the sheet are smoothed all along the length of the sheet next to the instrument’s head.] Is that satisfactory?{{< /r >}}
+{{< r a="Don Elkins" >}}[Ruffles in the sheet are smoothed all along the length of the sheet next to Carla’s head.] Is that satisfactory?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 

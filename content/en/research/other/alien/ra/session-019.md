@@ -90,5 +90,5 @@ This is a chemical reaction of short duration.
 
 She, however, has not used this particular substance at any time while performing this service. We believe we have covered the use of such chemical agents as LSD, this being positive to a certain extent due to the energizing or speeding up of the vital forces. 
 
-However, it is not recommended for this instrument due to the toll it takes upon the vital energies once the substance wears off, this being true of any speeding-up chemical.{{< /l >}}
+However, it is not recommended for Carla due to the toll it takes upon the vital energies once the substance wears off, this being true of any speeding-up chemical.{{< /l >}}
 

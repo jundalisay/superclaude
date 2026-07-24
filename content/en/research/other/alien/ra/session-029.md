@@ -106,7 +106,7 @@ This point only becomes important when you consider that when all of creation in
 
 {{< r a="Don Elkins" >}}This denser illusion then I will assume would increase the gravitational acceleration above the measured 32.2 feet per second squared that we now experience. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}Your entities do not have the instrumentation to measure spiritual gravity but only to observe a few of its extreme manifestations.{{< /l >}}
+{{< l a="Ra" >}}Your entities do not have Carlaation to measure spiritual gravity but only to observe a few of its extreme manifestations.{{< /l >}}
 
 {{< r a="Don Elkins" >}}This I know, that we can’t measure spiritual gravity, but I was just wondering if the, the physical effect would be measurable as an increase in the gravitational constant? That was my question.{{< /r >}}
 
@@ -157,14 +157,14 @@ This balance is what is necessary for work to be done in seeking the gateway to 
 The particular Logos of your major galaxy has used a large portion of Its coalesced material to reflect the beingness of the Creator. In this way there is much of your galactic system which does not have the progression of which you speak but dwells spiritually as a portion of the Logos. Of those entities upon which consciousness dwells there is, as you surmise, a variety of time/space periods during which the higher densities of experience are attained by consciousness. Does this fulfill the requirements of your query?{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I’ll study it and possibly have something tomorrow since I don’t want to overtire the instrument. The instrument had a question if you have time for a short question, and I will read it. The instrument does not desire to do physical healing work. 
+I’ll study it and possibly have something tomorrow since I don’t want to overtire Carla. Carla had a question if you have time for a short question, and I will read it. Carla does not desire to do physical healing work. 
 
 She already does spiritual balancing by hands. Can she read the private healing material without doing physical healing? I am assuming that she means can she read it without creating problems in her life pattern? She does not wish to incur lessening of positive polarity. 
 
 Can she read this material under those conditions?{{< /r >}}
 
 
-{{< l a="Ra" >}}We shall speak shortly due to the fact that we are attempting to conserve this instrument’s vital energies during the three-month period of which we have spoken.
+{{< l a="Ra" >}}We shall speak shortly due to the fact that we are attempting to conserve Carla’s vital energies during the three-month period of which we have spoken.
 
-This entity has a experiential history of healing on levels other than the so-called physical. Thus it is acceptable that this material be read. However, the exercise of fire shall never be practiced by this instrument as it is used in the stronger form for the physical healing.{{< /l >}}
+This entity has a experiential history of healing on levels other than the so-called physical. Thus it is acceptable that this material be read. However, the exercise of fire shall never be practiced by Carla as it is used in the stronger form for the physical healing.{{< /l >}}
 

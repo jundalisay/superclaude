@@ -16,7 +16,7 @@ February 24, 1982
 
 
 {{< r a="Don Elkins" >}}
-The instrument would like to ask, is there any danger in receiving too much transferred energy with the instrument in her present condition?
+Carla would like to ask, is there any danger in receiving too much transferred energy with Carla in her present condition?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -36,14 +36,14 @@ In that case, she would like to know the function of the energy transfer during 
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The function of this energy transfer is a most helpful one in that it serves to strengthen the shuttle through which the instreaming contact is received. The contact itself will monitor the condition of the instrument and cease communication when the distortions of the instrument begin to fluctuate towards the distortions of weakness or pain. However, while the contact is ongoing the strength of the channel through which this contact flows may be aided by the energy transfer of which you spoke.
+The function of this energy transfer is a most helpful one in that it serves to strengthen the shuttle through which the instreaming contact is received. The contact itself will monitor the condition of Carla and cease communication when the distortions of Carla begin to fluctuate towards the distortions of weakness or pain. However, while the contact is ongoing the strength of the channel through which this contact flows may be aided by the energy transfer of which you spoke.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
 We have been ending our banishing ritual prior to the session here by a gesture that relieves us of the magical personality. I was just wondering if we should omit that gesture so as to maintain the magical personality while performing the Circle of One and then only relinquish the magical personality either after that has formed or after the session? Which would be more appropriate?
 {{< /r >}}
 {{< l a="Ra" >}}
-The practice of magical workings demands the most rigorous honesty. If your estimate of your ability is that you can sustain the magical personality throughout this working, it is well. As long as you have some doubt it is inadvisable. In any case it is appropriate for this instrument to return its magical personality rather than carry this persona into the trance state, for it does not have the requisite magical skill to function in this circumstance and would be far more vulnerable than if the waking personality is offered as channel. This working is indeed magical in nature in the basic sense. However, it is inappropriate to move more quickly than one’s feet may walk.
+The practice of magical workings demands the most rigorous honesty. If your estimate of your ability is that you can sustain the magical personality throughout this working, it is well. As long as you have some doubt it is inadvisable. In any case it is appropriate for Carla to return its magical personality rather than carry this persona into the trance state, for it does not have the requisite magical skill to function in this circumstance and would be far more vulnerable than if the waking personality is offered as channel. This working is indeed magical in nature in the basic sense. However, it is inappropriate to move more quickly than one’s feet may walk.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -99,7 +99,7 @@ There have been refinements.
 The archetypical mind of the Logos prior to this experiment in extension of the first distortion then was what I would consider to be less complex than it is now, possibly containing fewer archetypes. Is this correct?
 {{< /r >}}
 {{< l a="Ra" >}}
-We must ask your patience. We perceive a sudden flare of the distortion known as pain in this instrument’s left arm and manual appendage. Please do not touch this instrument. We shall examine the mind complex and attempt to reposition the limb so that the working may continue. Then please repeat the query.
+We must ask your patience. We perceive a sudden flare of the distortion known as pain in Carla’s left arm and manual appendage. Please do not touch Carla. We shall examine the mind complex and attempt to reposition the limb so that the working may continue. Then please repeat the query.
 
 [Two-minute pause.]
 
@@ -321,7 +321,7 @@ This is most perceptive. The Archetype Seven is one difficult to enunciate. We m
 
 One may also see the Way of the Mind as showing the kingdom or fruits of appropriate travel through the mind in that the mind continues to move as majestically through the material it conceives of as a chariot drawn by royal lions or steeds.
 
-At this time we would suggest one more full query for this instrument is experiencing some distortions towards pain.
+At this time we would suggest one more full query for Carla is experiencing some distortions towards pain.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -337,10 +337,10 @@ Are there any brief queries at this working?
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Only is there anything that we can do to make the instrument more comfortable or improve the contact?
+Only is there anything that we can do to make Carla more comfortable or improve the contact?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-All is well. For some small portion of your future the instrument would be well advised to wear upon the hands those aids to comfort which it has neglected to use. There has been some trauma to both hands and arms and, therefore, we have had to somewhat abbreviate this working.
+All is well. For some small portion of your future Carla would be well advised to wear upon the hands those aids to comfort which it has neglected to use. There has been some trauma to both hands and arms and, therefore, we have had to somewhat abbreviate this working.
 {{< /l >}}
 

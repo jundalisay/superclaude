@@ -15,11 +15,11 @@ September 18, 1981
 
 
 {{< r a="Don Elkins" >}}
-Could you first please give me the condition of the instrument?
+Could you first please give me the condition of Carla?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-It is as previously stated with the exception of a slight improvement in the vital energy distortions. One may note to the support group, without infringement, that it is well to aid the instrument in the reminders that while physical complex distortions remain as they are it is not advisable to use the increased vital energies for physical complex activities as this will take a somewhat harsh toll.
+It is as previously stated with the exception of a slight improvement in the vital energy distortions. One may note to the support group, without infringement, that it is well to aid Carla in the reminders that while physical complex distortions remain as they are it is not advisable to use the increased vital energies for physical complex activities as this will take a somewhat harsh toll.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -158,7 +158,7 @@ There are, shall I say, certain rules of white magic. I will read these few that
 {{< /r >}}
 
 {{< l a="Ra" >}}
-To comment upon this list is to play the mechanic which views the instruments of the orchestra and adjusts and tunes the instruments. You will note these are mechanical details. The art does not lie herein.
+To comment upon this list is to play the mechanic which views Carlas of the orchestra and adjusts and tunes Carlas. You will note these are mechanical details. The art does not lie herein.
 
 The one item of least import is what you call the time of day. This is important in those experiential nexi wherein the entities search for the metaphysical experience without conscious control over the search. The repetition of workings gives this search structure. In this particular group the structure is available without the need for inevitable sameness of times of working. We may note that this regularity is always helpful.
 {{< /l >}}
@@ -196,5 +196,5 @@ I see the most important product of this communication being a vehicle of partia
 {{< l a="Ra" >}}
 You are correct. We may note that this is the goal of all artifacts and experiences which entities may come into contact with and is not only the property of Ra or this contact.
 
-We find that this instrument has neglected to continue to remind its self of the need for holding some portion of energy back for reserve. This is recommended as a portion of the inner program to be reinstated as it will lengthen the number of workings we may have. This is acceptable to us. The transferred energy grows quite, quite low. We must leave you shortly.
+We find that Carla has neglected to continue to remind its self of the need for holding some portion of energy back for reserve. This is recommended as a portion of the inner program to be reinstated as it will lengthen the number of workings we may have. This is acceptable to us. The transferred energy grows quite, quite low. We must leave you shortly.
 {{< /l >}}

@@ -124,7 +124,7 @@ Similarly, the negatively oriented Wanderer dares to hazard the forgetting in or
 
 {{< r a="Don Elkins" >}}I was also wondering if three was the minimum number necessary for this type of working? Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}For protection of this instrument this is necessary as the minimum grouping and also as the most efficient number due to the exceptional harmony in this group. In other groups the number could be larger, but we have observed in this contact that the most efficient support is given by the individual mind/body/spirits present at this time.{{< /l >}}
+{{< l a="Ra" >}}For protection of Carla this is necessary as the minimum grouping and also as the most efficient number due to the exceptional harmony in this group. In other groups the number could be larger, but we have observed in this contact that the most efficient support is given by the individual mind/body/spirits present at this time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I’m a little fuzzy on a point with respect to the higher self. Now we each, I am assuming, have a separate or different higher self at sixth-density positive level. Is this correct? Each of us in the room that is, here, the three of us?{{< /r >}}
 
@@ -134,12 +134,12 @@ Firstly, it is correct that each in this dwelling place has one Oversoul, as you
 
 {{< r a="Don Elkins" >}}It is very difficult at times for us to even get a small percentage of understanding from some of these concepts because of our limitation of awareness here. I think some meditation on the communication today will help us in formulating questions about these concepts.{{< /r >}}
 
-{{< l a="Ra" >}}May we ask for any brief queries before we leave this instrument?{{< /l >}}
+{{< l a="Ra" >}}May we ask for any brief queries before we leave Carla?{{< /l >}}
 
-{{< r a="Don Elkins" >}}I’ll just ask one little short one that you may not be able to answer before the final… The short one is, can you tell me what percentage of the Wanderers on Earth today have been successful in penetrating the memory block and becoming aware who they are, and then finally, is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I’ll just ask one little short one that you may not be able to answer before the final… The short one is, can you tell me what percentage of the Wanderers on Earth today have been successful in penetrating the memory block and becoming aware who they are, and then finally, is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We can approximate the percentage of those penetrating intelligently their status. This is between eight and one-half and nine and three-quarters percent. There is a larger percentile group of those who have a fairly well defined, shall we say, symptomology indicating to them that they are not of this, shall we say, “insanity.” This amounts to a bit over fifty percent of the remainder. Nearly one-third of the remainder are aware that something about them is different, so you see there are many gradations of awakening to the knowledge of being a Wanderer. We may add that it is to the middle and first of these groups that this information will make sense.{{< /l >}}
 
 
-<!-- This instrument is well. The resting place is somewhat deleterious in its effect upon the comfort of the dorsal side of this instrument’s physical vehicle. -->
+<!-- Carla is well. The resting place is somewhat deleterious in its effect upon the comfort of the dorsal side of Carla’s physical vehicle. -->
 

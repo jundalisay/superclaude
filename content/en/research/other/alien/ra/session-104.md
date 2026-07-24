@@ -35,15 +35,15 @@ However, the habitation you enjoy does not offer such opportunity and instead of
 
 We suggest the support group encourage any exercise except that which exceeds the time limit which is already far beyond the physical limitations of this body complex. It is the way of distortion that in order to balance a distortion one must accentuate it. Thusly, the over-wearing of the body may, if correctly motivated, produce a lack of deficit at which juncture the lesser exercise limitations should be put into practice.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument has determined that the unwise use of her will is its use without the joy and faith components and constitutes martyrdom. Would Ra comment on that, please?{{< /r >}}
+{{< r a="Don Elkins" >}}Carla has determined that the unwise use of her will is its use without the joy and faith components and constitutes martyrdom. Would Ra comment on that, please?{{< /r >}}
 
-{{< l a="Ra" >}}We are pleased that the entity has pondered that which has been given. We would comment as follows. It is salubrious for the instrument to have knowledge which is less distorted towards martyrdom and which is rich in promise. The entity which is strong to think shall either be strong to act or that which it has shall be removed. Thus manifestation of knowledge is an area to be examined by the instrument.
+{{< l a="Ra" >}}We are pleased that the entity has pondered that which has been given. We would comment as follows. It is salubrious for Carla to have knowledge which is less distorted towards martyrdom and which is rich in promise. The entity which is strong to think shall either be strong to act or that which it has shall be removed. Thus manifestation of knowledge is an area to be examined by Carla.
 
 We would further note that balancing which, in this entity’s case, is best accomplished in analysis and manifestation seated with the contemplation of silence, may be strengthened by manifested silence and lack of routine activity. We may go no further than this recommendation of regularized leisure, and desire that the entity discover the fundamental truths of these distortions as it will.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything further that we can do to help the instrument’s stomach and back spasming problem?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything further that we can do to help Carla’s stomach and back spasming problem?{{< /r >}}
 
-{{< l a="Ra" >}}The greatest aid is already being given to the fullest. The encouragement of the instrument to refrain from the oil-fried nature of foodstuffs in its intake is helpful. Cheerful harmony is helpful. The spasms must subside as a function of the entity’s indigo-ray work and, to some extent, the recommendations made in response to a previous query. The definitive refraining from over-stepping the already swollen boundaries of physical limitation is recommended. The infection remains and the symptoms are now far less medicable, the entity having chosen the catalyst.{{< /l >}}
+{{< l a="Ra" >}}The greatest aid is already being given to the fullest. The encouragement of Carla to refrain from the oil-fried nature of foodstuffs in its intake is helpful. Cheerful harmony is helpful. The spasms must subside as a function of the entity’s indigo-ray work and, to some extent, the recommendations made in response to a previous query. The definitive refraining from over-stepping the already swollen boundaries of physical limitation is recommended. The infection remains and the symptoms are now far less medicable, the entity having chosen the catalyst.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell us what is wrong with our cat Gandalf’s eyes?{{< /r >}}
 
@@ -101,7 +101,7 @@ Otherwise, it may choose to reincarnate to be with those companions it has loved
 
 {{< r a="Don Elkins" >}}Forty to six— what, each day, once a day, or something like that?{{< /r >}}
 
-{{< l a="Ra" >}}Please expel breath over this instrument’s breast.
+{{< l a="Ra" >}}Please expel breath over Carla’s breast.
 
 [This was done as directed.]{{< /l >}}
 

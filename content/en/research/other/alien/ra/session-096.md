@@ -33,11 +33,11 @@ Those concepts relating to the spiritual contemplation of personal catalyst have
 
 This entity has an habitual attitude which is singular; that is, when there is some necessity for action the entity is accustomed to analyzing the catalyst in terms of service and determining a course. 
 
-There was a most unusual variation in this configuration of attitude when this instrument beheld the dwelling which is to be inhabited by this group.
+There was a most unusual variation in this configuration of attitude when Carla beheld the dwelling which is to be inhabited by this group.
 
 She perceived those elementals and beings of astral character of which we have spoken.
 
-The instrument desired to be of service by achieving the domicile in question but found its instincts reacting to the unwelcome presences. 
+Carla desired to be of service by achieving the domicile in question but found its instincts reacting to the unwelcome presences. 
 
 The division of mind configuration was increased by the continuing catalyst of lack of control. Had this entity been able to physically begin cleansing the dwelling the, shall we say, opening would not have occurred.
 
@@ -45,7 +45,7 @@ Although this entity attempted clear communication upon this matter, and althoug
 
 Therefore, there was an opening, quite rare for this mind/body/spirit complex, and into this opening the one which greets you moved and performed what may be considered to be the most potent of its purely magical manifestations to this present nexus, as you know time.
 
-It is well that she is not distorted towards what you may call hysteria, for the potential of this working was such that had the instrument allowed fear to become greater than the will to persevere when it could not breathe, each attempt at respiration would have been even more nearly impossible until the suffocation occurred which was desired by the one which greets you in its own way. 
+It is well that she is not distorted towards what you may call hysteria, for the potential of this working was such that had Carla allowed fear to become greater than the will to persevere when it could not breathe, each attempt at respiration would have been even more nearly impossible until the suffocation occurred which was desired by the one which greets you in its own way. 
 
 Thus the entity would have passed from this incarnation.{{< /l >}}
 
@@ -53,9 +53,9 @@ Thus the entity would have passed from this incarnation.{{< /l >}}
 Does this threat, shall I say, still exist and, if so, is there something we can do to alleviate it?{{< /r >}}
 
 {{< l a="Ra" >}}
-This threat no longer exists, if you wish to phrase this greeting in this manner. The communication which was effected by the scribe and then by the questioner did close the opening and enable the instrument to begin assimilating the catalyst it had received.{{< /l >}}
+This threat no longer exists, if you wish to phrase this greeting in this manner. The communication which was effected by the scribe and then by the questioner did close the opening and enable Carla to begin assimilating the catalyst it had received.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The instrument asks, since this has to do with that house, is the house capable of being transformed by the painting and cleaning? We are able to undertake… that is, we don’t plan to put down all new carpets. Are the carpets that are there now acceptable?
+{{< r a="Don Elkins" >}}Carla asks, since this has to do with that house, is the house capable of being transformed by the painting and cleaning? We are able to undertake… that is, we don’t plan to put down all new carpets. Are the carpets that are there now acceptable?
 
 I want to either bring this particular house up to acceptable limits— you say it will be neutral after we do the salting. I have only a concern with the conditions for our work here. The physical location isn’t that important. In fact I don’t consider this important at all. If the house is not capable of being brought up to good conditions that will afford us no problems of the type we’ve experienced then I may select a different one. It’s not that important. Would Ra comment on this?{{< /r >}}
 
@@ -76,7 +76,7 @@ The sequence of events that I am considering, which may be easily changed, is fi
 {{< l a="Ra" >}}
 Any sequence which results in the cleansings is acceptable. It is to be noted that the thresholds are not to be crossed during the cleansing. Since such stricture upon use of the limen may affect your considerations we make note of this.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was the unusual sound on the instrument’s tape recorder that occurred while she was trying to record her singing a greeting from our fifth-density, negative associate?{{< /r >}}
+{{< r a="Don Elkins" >}}Was the unusual sound on Carla’s tape recorder that occurred while she was trying to record her singing a greeting from our fifth-density, negative associate?{{< /r >}}
 
 {{< l a="Ra" >}}No. Rather it was a greeting from a malfunctioning electronic machine.{{< /l >}}
 
@@ -86,7 +86,7 @@ Any sequence which results in the cleansings is acceptable. It is to be noted th
 
 {{< r a="Don Elkins" >}}What was the origin of this malfunction?{{< /r >}}
 
-{{< l a="Ra" >}}There are two difficulties with the machine. Firstly, this instrument has a strong effect upon electromagnetic and electronic machines and instruments, and likely, if continued use of these is desired, should request that another handle the machines. Also, there was some difficulty from physical interference due to the material you call tape catching upon adjoining, what you would call, buttons when the “play” button, as you call it, is depressed.{{< /l >}}
+{{< l a="Ra" >}}There are two difficulties with the machine. Firstly, Carla has a strong effect upon electromagnetic and electronic machines and instruments, and likely, if continued use of these is desired, should request that another handle the machines. Also, there was some difficulty from physical interference due to the material you call tape catching upon adjoining, what you would call, buttons when the “play” button, as you call it, is depressed.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How is Ra able to know all of this information? This is a somewhat unimportant question, but it is just amazing to me that Ra is able to know all of these trivial things. What do you do, move in time/space and inspect the problem or what?{{< /r >}}
 
@@ -112,7 +112,7 @@ Was there a significance with respect to the hawk that landed the other day just
 
 {{< r a="Don Elkins" >}}Would Ra comment on the technique of blessing the water we will use to sprinkle on the salt? I assume we just sprinkle the water directly off of our finger tips onto the line of salt. And also how much, in general, should be sprinkled on the salt? How wet we should get it? This is trivial, but I’d like to get it right.{{< /r >}}
 
-{{< l a="Ra" >}}The blessing of the water may be that one we have previously given, or it may be that one which is written within the liturgy of this instrument’s distortion of the worship of the One Creator, or it may simply be obtained from what you call your Catholic Church in the form of holy water.
+{{< l a="Ra" >}}The blessing of the water may be that one we have previously given, or it may be that one which is written within the liturgy of Carla’s distortion of the worship of the One Creator, or it may simply be obtained from what you call your Catholic Church in the form of holy water.
 
 The intention of blessing is the notable feature of blessed water. The water may be sprinkled not so that all salt is soaked but so that a goodly portion has been dampened. This is not a physical working. The substances need to be seen in their ideal state so that water may be seen to be enabling the salt.{{< /l >}}
 
@@ -154,12 +154,12 @@ On the second card, in addition to removing the letters and stars, I assume we s
 
 {{< l a="Ra" >}}Again, this is a matter of choice. Though astrological in nature, this particular scepter has possibilities of relevancy in the originally intended concept complex.
 
-This instrument is experiencing some small lack of that distortion which you call the proper breathing due to the experience of your near past, as you perceive it. Therefore, as this instrument has requested a substantial enough amount of transferred energy to be retained that it might effect a comfortable re-entry, we shall at this time ask for one more query, after noting the following.
+Carla is experiencing some small lack of that distortion which you call the proper breathing due to the experience of your near past, as you perceive it. Therefore, as Carla has requested a substantial enough amount of transferred energy to be retained that it might effect a comfortable re-entry, we shall at this time ask for one more query, after noting the following.
 
 We did not complete our statement upon the dimensions of the crux ansata. It is given in many places. There are decisions to be made as to which drawing of this image is the appropriate one. We may, of course, suggest viewing the so-called Great Pyramid if the puzzle is desired. We do not wish to work this puzzle. It was designed in order that in its own time it be deciphered. In general, of course, this image has the meaning previously stated.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}Continue in harmony, communication, praise, and thanksgiving.
 
-We would note that this instrument’s distortions would be lessened were it to refrain from the speaking to some extent for a diurnal period or perhaps two if the difficulty remains. We would also recommend against the activity such as running which would cause rapid respiration. This after-effect of the greeting is not necessarily long-lasting. However, as this instrument has some blood vessels in the forward regions of the skull — that is, the integument covering the skull — greatly swollen at this time, and since this instrument has the distortion known as the streptococcal infection, it is best to be full of care for a short period in order that the distortions do not catapult the entity into longer-term after-effects.{{< /l >}}
+We would note that Carla’s distortions would be lessened were it to refrain from the speaking to some extent for a diurnal period or perhaps two if the difficulty remains. We would also recommend against the activity such as running which would cause rapid respiration. This after-effect of the greeting is not necessarily long-lasting. However, as Carla has some blood vessels in the forward regions of the skull — that is, the integument covering the skull — greatly swollen at this time, and since Carla has the distortion known as the streptococcal infection, it is best to be full of care for a short period in order that the distortions do not catapult the entity into longer-term after-effects.{{< /l >}}

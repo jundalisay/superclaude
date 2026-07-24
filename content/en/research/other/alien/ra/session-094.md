@@ -24,7 +24,7 @@ There is the distortion called systemic lupus erythematosus which causes the mus
 
 Lastly, there is the nerve damage, more especially to the left, but in both appendages from the thoracic outlet.
 
-In the course of the waking behavior the instrument can respond to the various signals which ring the tocsin of pain, thus alerting the mind complex, which in turn moves the physical complex in many and subtle configurations which relieve the various distortions. Your friend greets these distortions, as has been stated before, immediately prior to the beginning of the working. However, during the working the instrument is not with its yellow-ray chemical vehicle and thusly the many small movements which could most effectively aid in the decrease of these distortions is not possible. Ra must carefully examine the mental configurations of the mind complex in order to make even the grossest manipulation. It is not our skill to use a yellow-ray vehicle.
+In the course of the waking behavior Carla can respond to the various signals which ring the tocsin of pain, thus alerting the mind complex, which in turn moves the physical complex in many and subtle configurations which relieve the various distortions. Your friend greets these distortions, as has been stated before, immediately prior to the beginning of the working. However, during the working Carla is not with its yellow-ray chemical vehicle and thusly the many small movements which could most effectively aid in the decrease of these distortions is not possible. Ra must carefully examine the mental configurations of the mind complex in order to make even the grossest manipulation. It is not our skill to use a yellow-ray vehicle.
 
 The weight of the cover has some deleterious effect upon these distortions in some cases and thus we mentioned that there was a small thing which could be done; that is, the framing of that which lifted the coverlet from the body slightly. In order to compensate for loss of warmth the wearing of material warming the manual appendages would then be indicated.{{< /l >}}
 
@@ -36,7 +36,7 @@ The weight of the cover has some deleterious effect upon these distortions in so
 
 {{< l a="Ra" >}}This is partially correct.
 
-The incorrect portion is: The entity of which you speak has found its puissance less than adequate to mount a continuous assault upon this instrument’s physical vehicle and has, shall we say, chosen the more effective of the space/time nexi of this instrument’s experience for its service.{{< /l >}}
+The incorrect portion is: The entity of which you speak has found its puissance less than adequate to mount a continuous assault upon Carla’s physical vehicle and has, shall we say, chosen the more effective of the space/time nexi of Carla’s experience for its service.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Why do I feel so extremely tired on several recent occasions?{{< /r >}}
 
@@ -46,7 +46,7 @@ The contact which you now experience costs a certain amount of the energy which 
 
 The brunt of this cost falls on Carla. But it is caparisoned by pre-incarnative design with the light and gladsome armor of faith and will to a far more conscious extent than most mind/body/spirit complexes are able to enjoy without much training and initiation.
 
-Those of the support group also offer the essence of will and faith in service to others, supporting the instrument as it releases itself completely in the service of the One Creator.
+Those of the support group also offer the essence of will and faith in service to others, supporting Carla as it releases itself completely in the service of the One Creator.
 
 Therefore, each of the support group also experiences a weariness of the spirit which is indistinguishable from physical energy deficit except that if each experiments with this weariness each shall discover the physical energy in its usual distortion.{{< /l >}}
 
@@ -70,9 +70,9 @@ Any seeker discovering in itself this complex of mental and mental/emotional dis
 
 As we approach the second portion of the query we view the possibility of infringement upon free will. However, we believe we may make reply within the boundaries of the Law of Confusion.
 
-This particular instrument was not trained, nor did it study, nor worked it at any discipline in order to contact Ra. We were able, as we have said many times, to contact this group using this instrument because of the purity of this instrument’s dedication to the service of the One Infinite Creator and also because of the great amount of harmony and acceptance enjoyed each by each within the group; this situation making it possible for the support group to function without significant distortion.
+This particular instrument was not trained, nor did it study, nor worked it at any discipline in order to contact Ra. We were able, as we have said many times, to contact this group using Carla because of the purity of Carla’s dedication to the service of the One Infinite Creator and also because of the great amount of harmony and acceptance enjoyed each by each within the group; this situation making it possible for the support group to function without significant distortion.
 
-We are humble messengers. How can any thought be taken by an instrument as to the will of the Creator? We thank this group that we may speak through it, but the future is mazed. We cannot know whether our geste may, after one final working, be complete. Can the instrument, then, think for a moment that it shall cease in the service of the One Infinite Creator? We ask the instrument to ponder these queries and observations.{{< /l >}}
+We are humble messengers. How can any thought be taken by an instrument as to the will of the Creator? We thank this group that we may speak through it, but the future is mazed. We cannot know whether our geste may, after one final working, be complete. Can Carla, then, think for a moment that it shall cease in the service of the One Infinite Creator? We ask Carla to ponder these queries and observations.{{< /l >}}
 
 {{< r a="Don Elkins" >}}From the previous session the statement was made that much is veiled to the most apparently clear observation. Would Ra expand on what was meant by that statement? I assume that this means the veiling of all of that that is outside the limits of what we call our physical perception having to do with the spectrum of light, etc., but I also intuit there is more than that veiled. Would Ra expand on that concept?{{< /r >}}
 
@@ -168,7 +168,7 @@ The cross formed by the living limbs of the image signifies that which is the na
 
 I am Ra. As we observe a lull in the questioning we shall take this opportunity to say that the level of transferred energy dwindles rapidly and we would offer the opportunity for one more full question at this working, if it is desired.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I would just state that this card, being male, would indicate that as experience is gained the mind becomes the motivator or that which reaches or “does” more than the simple experiencer prior to the catalytic action. That is, there is a greater tendency for the mind to direct the mind/body/spirit complex, and other than that I would just ask if there is anything that we can do to make the instrument more comfortable or improve the contact?{{< /r >}}
+{{< r a="Don Elkins" >}}I would just state that this card, being male, would indicate that as experience is gained the mind becomes the motivator or that which reaches or “does” more than the simple experiencer prior to the catalytic action. That is, there is a greater tendency for the mind to direct the mind/body/spirit complex, and other than that I would just ask if there is anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}In the context of your penultimate query we would suggest that you ponder again the shape of the garment which the image wears. Such habiliment is not natural. The shape is significant and is so along the lines of your query.{{< /l >}}
 

@@ -93,7 +93,7 @@ We cannot offer shortcuts to enlightenment. Enlightenment is of the moment, is a
 
 {{< r a="Don Elkins" >}}Do I always speak to the same individualized portion of consciousness in each of the sessions?{{< /r >}}
 
-{{< l a="Ra" >}}You speak to the same entity through a channel or instrument. This instrument is at times lower in vital energy. This will sometimes hamper our proceedings. However, this instrument has a great deal of faithfulness to the task and gives whatever it has to this task. Therefore, we may continue even when energy is low. This is why we usually speak to the ending of the session due to our estimation of the instrument’s levels of vital energy.{{< /l >}}
+{{< l a="Ra" >}}You speak to the same entity through a channel or instrument. Carla is at times lower in vital energy. This will sometimes hamper our proceedings. However, Carla has a great deal of faithfulness to the task and gives whatever it has to this task. Therefore, we may continue even when energy is low. This is why we usually speak to the ending of the session due to our estimation of Carla’s levels of vital energy.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I would like to make a point clear now that I am sure of myself. People of this planet, following any religion or no religion at all, or having no intellectual knowledge of the Law of One or of anything at all, can still be harvested into the fourth density if they are of that vibration. Is this not correct?{{< /r >}}
 
@@ -264,9 +264,9 @@ Each individual becomes aware of the time of harvest and the need on a self-leve
 Would you like me to continue formatting Session 18 in this same style next?
 
 
-<!-- 17.44 Questioner: My only question is there anything we can do to make the instrument [inaudible]?
+<!-- 17.44 Questioner: My only question is there anything we can do to make Carla [inaudible]?
 
-Ra:  This instrument is not wearing the appropriate apparel for this work. As inpourings occur in the regions of the, what you may call, seventh chakra as you speak of these energy centers, filtering through the sixth and so forth, the entity’s other or base chakras become somewhat de-energized. Thus, this entity should be more careful in its selection of warm apparel for the part of the body complex you call the feet.
+Ra:  Carla is not wearing the appropriate apparel for this work. As inpourings occur in the regions of the, what you may call, seventh chakra as you speak of these energy centers, filtering through the sixth and so forth, the entity’s other or base chakras become somewhat de-energized. Thus, this entity should be more careful in its selection of warm apparel for the part of the body complex you call the feet.
 
 May we answer any other brief questions?
 

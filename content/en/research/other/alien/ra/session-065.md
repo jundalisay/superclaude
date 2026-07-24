@@ -13,9 +13,9 @@ tags: ['', '']
 
 August 8, 1981
 
-65.1 Questioner: Could you first please give us an indication of the instrument’s condition and the level of vital and physical energies?
+65.1 Questioner: Could you first please give us an indication of Carla’s condition and the level of vital and physical energies?
 
-Ra:  This instrument’s vital energies are as previously stated. The physical energies are greatly distorted towards weakness at this space/time due to the distortion complexes symptomatic of that which you call the arthritic condition. The level of psychic attack is constant but is being dealt with by this instrument in such a way as to eliminate serious difficulties due to its fidelity and that of the support group.
+Ra:  Carla’s vital energies are as previously stated. The physical energies are greatly distorted towards weakness at this space/time due to the distortion complexes symptomatic of that which you call the arthritic condition. The level of psychic attack is constant but is being dealt with by Carla in such a way as to eliminate serious difficulties due to its fidelity and that of the support group.
 
 65.2 Questioner: I may be re-covering a little ground already covered in previous questioning today, but I am trying to get a clearer picture of some things that I don’t understand and possibly develop a plan of my own for activity in the future.
 
@@ -29,7 +29,7 @@ Ra:  This is the intention which Wanderers had prior to incarnation. There are m
 
 65.4 Questioner: I noticed that you are speaking more slowly than usual. Is there a reason for this?
 
-Ra:  This instrument is somewhat weak and although strong in vital energy and well able to function at this time is somewhat more fragile than the usual condition we find. We may note a continuing bearing of the physical distortion called pain which has a weakening effect upon physical energy. In order to use the considerable store of available energy without harming the instrument we are attempting to channel even more narrow-band than is our wont.
+Ra:  Carla is somewhat weak and although strong in vital energy and well able to function at this time is somewhat more fragile than the usual condition we find. We may note a continuing bearing of the physical distortion called pain which has a weakening effect upon physical energy. In order to use the considerable store of available energy without harming Carla we are attempting to channel even more narrow-band than is our wont.
 
 65.5 Questioner: Thank you. Now, have I properly analyzed the condition that creates the possibility of greater service as follows: 1) Seniority by vibration of incarnation has greatly polarized those upon the surface now, and the influx of Wanderers has greatly increased the mental configuration, I might say, toward things of a more spiritual nature. This, I would assume, would be one of the factors creating a better atmosphere for service. Is this correct?
 

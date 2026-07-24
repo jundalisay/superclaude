@@ -46,7 +46,7 @@ It is to be noted that a crystal is available.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Which crystal is that?{{< /r >}}
 
-{{< l a="Ra" >}}The flawed but sufficient crystal which rests upon the digit of this instrument’s right hand.{{< /l >}}
+{{< l a="Ra" >}}The flawed but sufficient crystal which rests upon the digit of Carla’s right hand.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would you tell me how to use that crystal for this purpose?{{< /r >}}
 
@@ -199,7 +199,7 @@ The initiation of [the] Queen’s Chamber has to do with the abandoning of self 
 
 {{< r a="Don Elkins" >}}Thank you. I want to go on more questioning on the pyramid, but I want to ask a question [name] has here. I’ll throw it in at this point. Could you please expand on the concept of space/time and time/space and how to get past this, the concept of these things, and at what density level do these concepts no longer affect the individual?{{< /r >}}
 
-{{< l a="Ra" >}}This will be the last full query of this working. This instrument has some vital energy left. However, we become concerned with the increasing distortions of the body complex towards pain.
+{{< l a="Ra" >}}This will be the last full query of this working. Carla has some vital energy left. However, we become concerned with the increasing distortions of the body complex towards pain.
 
 The space/time and time/space concepts are those concepts describing as mathematically as possible the relationships of your illusion, that which is seen to that which is unseen. These descriptive terms are clumsy. They, however, suffice for this work.
 
