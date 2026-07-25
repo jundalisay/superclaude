@@ -1,13 +1,14 @@
 ---
 title: "Why Newtonian Science is a 3rd Density Science"
-date: 2023-12-28
+date: 2026-07-25
 # image: /graphics/physics/aether.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
+c: firebrick
 a: Newton
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
+# icon: "Juan"
 ---
 
 
@@ -21,9 +22,9 @@ This means that there is a better system of physics and that the Newtonian syste
 
 Newton's system rests upon matter as its foundation—the lowest Element in Nature, called Prittvi in Hindu Physics and 金 (jīn) in Taoist Physics.
 
-{{< q a="Newton" c="Principia Mathematica Book 3, Rule 3">}}
+{{< q a="Newton" c="Principia Mathematica Book 3, Rule 3" >}}
 The smallest particles of all bodies are hard, impenetrable, moveable, and have inertia. This is the foundation of all [my] philosophy.
-{{< /q 3">}}
+{{< /q >}}
 
 This stands in stark opposition to Descartes' system of Physics which was mainstream Physics in Europe in the 17th century.
 
@@ -63,6 +64,7 @@ Densities | Materiality | Examples
 8 | One | Absolute Entity (Nirguna Brahma)
 
 
+{{< youtube tNDSPesvtwQ >}}
 
 ## Newton's Limitation
 

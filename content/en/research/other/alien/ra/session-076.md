@@ -147,22 +147,56 @@ Is this 3rd-density choice the same throughout all of the creation of which you 
 
 However, the proportions remain the same, the dimensions all being somewhat etiolated and weakened by the Logos to have a variant experience of the Creator. 
 
-This creation is seen by us to be quite vivid.{{< /l >}}
+This creation is seen by us to be quite vivid.
 
 This creation is somewhat more condensed by its Logos than some other Logoi have chosen. Thus each experience of the Creator by the Creator in this system of distortions is brighter or more vivid.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am assuming that on entering into third density, for this planet, disease did not exist in any form. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}I am assuming that on entering into third density, for this planet, disease did not exist in any form.{{< /r >}}
 
-{{< l a="Ra" >}}This is incorrect.{{< /l >}}
+{{< l a="Ra" >}}
+Wrong.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the form of disease, and why did this exist at beginning third density?{{< /r >}}
 
-{{< l a="Ra" >}}Firstly, that which you speak of as disease is a functional portion of the body complex which offers the body complex the opportunity to cease viability. This is a desirable body complex function. The second portion of the answer has to do with second-density other-selves of a microscopic, as you would call it, size which have in some forms long existed and perform their service by aiding the physical body complex in its function of ceasing viability at the appropriate space/time.{{< /l >}}
+{{< l a="Ra" >}}
+Disease is a functional portion of the body which offers the body the opportunity to die. 
 
-{{< r a="Don Elkins" >}}What I am trying to understand is the difference between the plan of the Logos for these second-density entities and the generation of what I would guess to be a more or less runaway array of feedback to create various physical problems that act as catalyst in our present third-density condition. Could you give me an indication of that; of whether my thinking is anywhere near right on that?{{< /r >}}
-{{< l a="Ra" >}}Carla’s physical body complex is becoming more distorted towards pain. We shall, therefore, speak to this subject as our last full query of this working. Your query contains some internal confusion which causes the answer to be perhaps more general than desired. We invite refinements of the query. The Logos planned for entities of mind/body/spirit complex to gain experience until the amount of experience was sufficient for an incarnation. This varied only slightly from second-density entities whose mind/body complexes existed for the purpose of experiencing growth and seeking consciousness. As the third density upon your planet proceeded, as has been discussed, the need for the physical body complex to cease became more rapidly approached due to intensified and more rapidly gained catalyst. This catalyst was not being properly assimilated. Therefore, the, shall we say, lifetimes needed to be shorter that learning might continue to occur with the proper rhythm and increment. Thus more and more opportunities have been offered, as your density has progressed, for disease. May we ask if there are further brief queries before we close?{{< /l >}}
+**This is a desirable body complex function.** 
 
-{{< r a="Don Elkins" >}}I had one that is totally, possibly, [of] no value. You don’t have to expand on it, but there is a crystal skull in the possession of a woman near Toronto that may be of some value in investigating these communications with Ra since I think possibly this had some origin from Ra. Can you tell me anything about that? And then, finally, is there anything that we could do to improve the contact or to make Carla more comfortable?{{< /r >}}
+The form is a second-density microscopic other-self. It is of a size which have in some forms long existed and perform their service by aiding the physical body to die at the appropriate space/time.
+{{< /l >}}
 
-{{< l a="Ra" >}}Although your query is one which uncovers interesting material we can not answer due to the potential an answer may have for affecting your actions. The appurtenances are carefully placed and requisite care taken.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+What is the difference between the plan of the Logos for these 2nd-density entities and the generation of runaway array of feedback to create various physical problems that act as catalyst in our present 3rd-density condition. 
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Carla’s physical body is becoming more distorted towards pain. 
+
+Your query has some internal confusion. 
+
+The Logos planned for entities of mind/body/spirit complex to gain experience until the amount of experience was sufficient for an incarnation. 
+
+This varied only slightly from 2nd-density entities whose mind/body complexes existed for the purpose of experiencing growth and seeking consciousness. 
+
+As the 3rd density upon your planet proceeded, the need for the physical body complex to cease became more rapidly approached due to intensified and more rapidly gained catalyst. 
+
+This catalyst was not being properly assimilated. 
+
+Therefore, the lifetimes needed to be shorter that learning might continue to occur with the proper rhythm and increment. 
+
+Thus more and more opportunities have been offered, as your density has progressed, for disease. 
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+there is a crystal skull in the possession of a woman near Toronto that may be of some value in investigating these communications with Ra since I think possibly this had some origin from Ra. 
+{{< /r >}}
+
+{{< l a="Ra" >}}
+We can not answer due to the potential an answer may have for affecting your actions. 
+{{< /l >}}
 
