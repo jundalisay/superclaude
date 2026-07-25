@@ -78,3 +78,26 @@ Descartes, by contrast, embraces the mind as foundational. His system recognizes
 
 **We therefore classify Newton's system as a 3rd density paradigm**, while Descartes' system represents a **4th density science**—one that acknowledges consciousness as primary and matter as secondary.
 
+
+## The Sciences Explain the Different Human Viewpoints
+
+The earliest continuous science is from the Vedas which explained reality as an illusion or a dream. 
+
+This is mirrored by Tantra, Taoism, Buddhism, the ancient Greeks, Descartes, George Berkeley, and Leibniz. 
+
+However, the British took an opposite view with Newton believing physicality to be real. 
+
+Rather than to say one is wrong, we more accurately say that they are explaining Nature from different densities where their minds reside:
+
+
+Densities | Newton | Descartes, Superphysics | Advanced Superphysics, Tantra, Taoism | Buddhism, Hinduism
+--- | --- | --- | --- | ---
+1 | ✅ | ✅ | ✅ | 
+2 | ✅ | ✅ | ✅ | 
+3 | ✅ | ✅ | ✅ | 
+4 |  | ✅ | ✅ | 
+5 |  |  | ✅ | ✅
+6 |  |  | ✅ | ✅
+7 |  |  | ✅ | ✅
+8 |  |  | | 
+
