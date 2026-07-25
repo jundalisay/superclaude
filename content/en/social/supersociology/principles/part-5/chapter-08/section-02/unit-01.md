@@ -13,6 +13,10 @@ image: "/photos/medieval/magellan.jpg"
 
 Its core goal was to increase a nation’s wealth and power by controlling trade, accumulating precious metals, and maintaining a favorable balance of trade.
 
+As mercantilism was the engine of colonialism, conquest, and the slave trade, we classify it as warrior + trader. 
+
+![Trader](/graphics/social/trader.jpg)
+
 
 ## Key principles included:
 

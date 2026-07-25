@@ -40,27 +40,50 @@ Let us offer an example. In a particular entity, let us use Carla, the rays may 
 
 This description may be seen to be both unbalanced and in perfect balance. The latter understanding is extremely helpful in dealing with other-selves. The ability to feel blockages is useful only to the healer. There is not properly a tiny fraction of judgment when viewing a balance in colors. Of course when we see many of the energy plexi weakened and blocked, we may understand that an entity has not yet grasped the baton and begun the race. However, the potentials are always there. All the rays fully balanced are there in waiting to be activated.
 
-Perhaps another way to address your query is this: In the fully potentiated entity the rays mount one upon the other with equal vibratory brilliance and scintillating sheen until the surrounding color is white. This is what you may call potentiated balance in third density.{{< /l >}}
+In the fully potentiated entity, the rays mount one upon the other with equal vibratory brilliance and scintillating sheen until the surrounding color is white. 
 
-{{< r a="Don Elkins" >}}Is it possible for a third-density planet to form a social memory complex which operates in third density?{{< /r >}}
+you may call this potentiated balance in third density.{{< /l >}}
 
-{{< l a="Ra" >}}It is possible only in the latter or seventh portion of such a density when entities are harmoniously readying for graduation.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Is it possible for a 3rd-density planet to form a social memory complex which operates in third density?{{< /r >}}
+
+{{< l a="Ra" >}}
+It is possible only in the latter or seventh portion of such a density when entities are harmoniously readying for graduation.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Could you give me an example of a planet of this nature, both a third-density service-to-others type and a third-density self-service type at this level of attainment conditions?{{< /r >}}
 
-{{< l a="Ra" >}}As far as we are aware there are no negatively oriented third-density social memory complexes. Positively oriented social memory complexes of third density are not unheard of but quite rare. However, an entity from the star Sirius’ planetary body has approached this planetary body twice. This entity is late third-density and is part of a third-density social memory complex. This has been referred to in the previous material. The social memory complex is properly a fourth-density phenomenon.{{< /l >}}
+{{< l a="Ra" >}}
+As far as we are aware, there are no negatively oriented third-density social memory complexes.
 
-{{< r a="Don Elkins" >}}I was wondering if that particular social memory complex from the Sirius star evolved from trees?{{< /r >}}
+Positively oriented social memory complexes of 3rd density are quite rare.
 
-{{< l a="Ra" >}}This approaches correctness. Those second-density vegetation forms which graduated into third density upon this planet bearing the name of Dog were close to the tree as you know it.{{< /l >}}
+However, an entity from Sirius’ planetary body has approached Earth twice.
 
-{{< r a="Don Elkins" >}}I was also wondering then if, since action of a bellicose nature is impossible as far as I understand for vegetation, would not they have the advantage as they move into third density from second as to not carrying a racial memory of a bellicose nature and therefore develop a more harmonious society and accelerate their evolution in this nature? Is this true?{{< /r >}}
+It is late 3rd-density and is part of a 3rd-density social memory complex. 
 
-{{< l a="Ra" >}}This is correct. However, to become balanced and begin to polarize properly it is then necessary to investigate movements of all kinds, especially bellicosity.{{< /l >}}
+The social memory complex is properly a 4th-density phenomenon.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Did that social memory complex from Sirius evolve from trees?{{< /r >}}
+
+{{< l a="Ra" >}}
+This approaches correctness. Those 2nd-density vegetation forms which graduated into 3rd density on this planet named Dog. They were close to the tree.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+bellicose action is impossible for vegetation. would not they have the advantage as they move into third density from second as to not carrying a racial memory of a bellicose nature and therefore develop a more harmonious society and accelerate their evolution in this nature?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. However, to become balanced and begin to polarize properly it is then necessary to investigate movements of all kinds, especially bellicosity.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}I am assuming, then, that their investigations of bellicosity were primarily the type that they extracted from Hickson’s memory rather than warfare among themselves? Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. Entities of this heritage would find it nearly impossible to fight. Indeed, their studies of movements of all kinds is their form of meditation due to the fact that their activity is upon the level of what you would call meditation and thus must be balanced, just as your entities need constant moments of meditation to balance your activities.{{< /l >}}
+{{< l a="Ra" >}}This is correct. 
+
+Entities of this heritage would find it nearly impossible to fight. Indeed, their studies of movements of all kinds is their form of meditation due to the fact that their activity is upon the level of what you would call meditation and thus must be balanced, just as your entities need constant moments of meditation to balance your activities.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}I believe this is an important point for us in understanding the balancing aspect of meditation since we have here its antithesis in another type of evolution. These entities moved, we are told by Charlie Hickson, without moving their legs. They… I am assuming they use a principle that is somewhat similar to the principle of movement of your crystal bells in moving their physical vehicles. Is this correct?{{< /r >}}
 

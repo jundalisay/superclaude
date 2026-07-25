@@ -25,9 +25,13 @@ A startup company, for example, would need a lot of workers to get it up and run
 - The founders wear many hats. -->
 
 
-The main feeling of traders is the desire for wealth. 
+
+
+The main feeling of traders is the desire for wealth via profits, as opposed to getting wealth by plunder which is of a warrior mentality. 
 
 This desire for wealth is embodied in the idea of Mercantilism, Capitalism, and Neoliberalism. 
+
+![Trader](/graphics/social/trader.jpg)
 
 
 <!-- As a political system, democracy is a system of government where power rests with the people, who exercise it directly or through elected representatives. Its core principle is **rule of the majority**, balanced by protection of individual rights and the rule of law.

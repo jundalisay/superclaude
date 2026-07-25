@@ -114,7 +114,7 @@ Thus, we felt a strong need to involve our thought-forms in whatever way we of t
 
 
 {{< r a="Don Elkins" >}}
-Then what you did, I am assuming, then, is to create an air of mystery with the UFO phenomena, as we call it, and then by telepathy send many messages that could be either accepted or rejected under the— following, of course, the Law of One so that the population would start thinking seriously about the consequences of what they were doing. Is this correct?{{< /r >}}
+So you created an air of mystery with the UFO phenomena. Then by telepathy, you send many messages that could be either accepted or rejected under the Law of One so that the population would start thinking seriously about the consequences of what they were doing.{{< /r >}}
 
 {{< l a="Ra" >}}
 This is partially correct. There are other services we may perform. 
@@ -126,48 +126,90 @@ The use of intelligent energy transforming matter into energy is of such a natur
 Therefore, we are offering ourselves as those who continue the integration of soul or spirit complex during transition from space/time to time/space.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Could you please give me an example from, let us say, Hiroshima or Nagasaki of how this is done?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you please give me an example from Hiroshima or Nagasaki of how this is done?{{< /r >}}
 
 {{< l a="Ra" >}}
-Those who were destroyed, not by radiation, but by the trauma of the energy release, found not only the body/mind/spirit complex made unviable, but also a disarrangement of that unique vibratory complex you have called the spirit complex, which we understand as a mind/body/spirit complex, to be completely disarranged without possibility of re-integration. 
+People were destroyed by the trauma of the energy release.
 
-This would be the loss to the Creator of part of the Creator and thus we were given permission, not to stop the events, but to ensure the survival of the, shall we say, disembodied mind/body/spirit complex. 
+<!-- Those who were , not by radiation, but  -->
 
-This we did in those events which you mention, losing no spirit or portion or holograph or microcosm of the macrocosmic Infinite One.{{< /l >}}
+This:
+- made their body/mind/spirit complex unviable
+- disarranged their unique vibratory complex called the spirit complex without possibility of re-integration
 
-{{< r a="Don Elkins" >}}Could you please make Carla cough and then tell me just vaguely how you accomplished this?{{< /r >}}
+ <!-- which we understand as a mind/body/spirit complex, to be completely disarranged .  -->
 
-{{< l a="Ra" >}}[Cough.] I am Ra. This is accomplished through our understanding of dimensional fields of energy. The higher or more dense energy field will control the less dense.{{< /l >}}
+This would be the loss to the Creator of part of the Creator.
 
-{{< r a="Don Elkins" >}}But then, in general then you’re saying that if we— you will allow earth, the population of this planet to have a nuclear war and many deaths from that war, but you will be able to create a condition where these deaths will be no more traumatic, shall I say, with respect to entrance to the heaven world or astral world or whatever we call it than death by a bullet or normal means of dying of old age. Is this correct?{{< /r >}}
+Thus we were given permission, not to stop the events, but to ensure the survival of the disembodied mind/body/spirit complex.
 
-{{< l a="Ra" >}}This is incorrect. It would be more traumatic. However, the entity would remain an entity.{{< /l >}}
+This we did in those events which you mention. We lost no spirit or portion or holograph or microcosm of the macrocosmic Infinite One.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can you tell me the condition of the entities who were, shall I say, killed in Nagasaki and Hiroshima. At this time, what is their condition?{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+How did you accomplish this?{{< /r >}}
+
+{{< l a="Ra" >}}
+This is accomplished through our understanding of dimensional fields of energy. 
+
+The higher or more dense energy field will control the less dense.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+But then, in general then you’re saying that if we— you will allow earth, the population of this planet to have a nuclear war and many deaths from that war, but you will be able to create a condition where these deaths will be no more traumatic with respect to entrance to the heaven world or astral world or whatever we call it than death by a bullet or normal means of dying of old age.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Wrong. It would be more traumatic. 
+
+However, the entity would remain an entity.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+What is the condition of the entities who were killed in Nagasaki and Hiroshima.
+{{< /r >}}
 
 {{< l a="Ra" >}}They of this trauma have not yet fully begun the healing process. They are being helped as much as is possible.{{< /l >}}
 
-{{< r a="Don Elkins" >}}When the healing process is complete with these entities, will this experience of the death due to the nuclear bomb cause them to be, shall we say, regressed in their climb toward the fourth density?{{< /r >}}
+{{< r a="Don Elkins" >}}When the healing process is complete with these entities, will this experience of the death due to the nuclear bomb cause them to be regressed in their climb toward the fourth density?{{< /r >}}
 
-{{< l a="Ra" >}}Such actions as nuclear destruction affect the entire planet. There are no differences at this level of destruction, and the planet will need to be healed.{{< /l >}}
+{{< l a="Ra" >}}
+Such actions as nuclear destruction affect the entire planet. 
 
-{{< r a="Don Elkins" >}}I was thinking specifically if an entity was in Hiroshima or Nagasaki at that time and he was reaching harvestability at the end of our cycle, would this death by nuclear bomb possibly create such trauma that he would not be able to be harvestable at the end of the cycle? That was specifically my question.{{< /r >}}
+There are no differences at this level of destruction, and the planet will need to be healed.{{< /l >}}
 
-{{< l a="Ra" >}}This is incorrect. Once the healing has taken place the harvest may go forth unimpeded. However, the entire planet will undergo healing for this action, no distinction being made betwixt victim and aggressor, this due to damage done to the planet.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you please make Carla cough? And…{{< /r >}}
+{{< r a="Don Elkins" >}}
+I was thinking specifically if an entity was in Hiroshima or Nagasaki at that time and he was reaching harvestability at the end of our cycle, would this death by nuclear bomb possibly create such trauma that he would not be able to be harvestable at the end of the cycle?
+{{< /r >}}
 
-{{< l a="Ra" >}}[Cough.]{{< /l >}}
+{{< l a="Ra" >}}
+Wrong. 
 
-{{< r a="Don Elkins" >}}And then, can you describe the mechanism of the planetary healing?{{< /r >}}
+Once the healing has taken place, the harvest may go forth unimpeded. 
 
-{{< l a="Ra" >}}Healing is a process of acceptance, forgiveness, and, if possible, restitution. The restitution not being available in time/space, there are many among your peoples now attempting restitution while in the physical.{{< /l >}}
+However, the entire planet will undergo healing for this action, no distinction being made betwixt victim and aggressor, this due to damage done to the planet.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How do these people attempt this restitution in [the] physical?{{< /r >}}
 
-{{< l a="Ra" >}}These attempt feelings of love towards the planetary sphere and comfort and healing of the scars and the imbalances of these actions.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Please describe the mechanism of the planetary healing
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}Then as the UFO phenomena was made obvious to many of the population, many groups of people reported contact; many groups of people reported telepathic communication with UFO entities and many recorded the results of what they considered telepathic communication. Was the Confederation, shall we say, oriented to impressing telepathic communication on groups that became interested in UFOs?{{< /r >}}
+
+{{< l a="Ra" >}}Healing is a process of acceptance, forgiveness, and, if possible, restitution. 
+
+The restitution not being available in time/space, there are many among your peoples now attempting restitution while in the physical.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}How?{{< /r >}}
+
+{{< l a="Ra" >}}These attempt feelings of love towards the planetary sphere and comfort and healing of the scars and the imbalances of these actions.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}Then as the UFO phenomena was made obvious to many of the population, many groups of people reported contact; many groups of people reported telepathic communication with UFO entities and many recorded the results of what they considered telepathic communication. 
+
+Was the Confederation, shall we say, oriented to impressing telepathic communication on groups that became interested in UFOs?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct although some of our members have removed themselves from the time/space using thought-form projections into your space/time, and have chosen, from time to time, with permission of the Council, to appear in your skies without landing.{{< /l >}}
 
@@ -175,27 +217,40 @@ This we did in those events which you mention, losing no spirit or portion or ho
 
 {{< l a="Ra" >}}Except for isolated instances of those of, shall we say, no affiliation, this is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is it necessary in each case for the entity who is contacted in one of these landings to be calling the Orion group, or do some of these entities come in contact with the Orion group even though they are not calling that group?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Is it necessary in each case for the entity who is contacted in one of these landings to be calling the Orion group, or do some of these entities come in contact with the Orion group even though they are not calling that group?
+{{< /r >}}
 
-{{< l a="Ra" >}}You must plumb the depths of fourth-density negative understanding. This is difficult for you. Once having reached third-density space/time continuum through your so-called windows, these crusaders may plunder as they will, the results completely a function of the polarity of the, shall we say, witness/subject or victim.
+{{< l a="Ra" >}}
+You must plumb the depths of fourth-density negative understanding. 
 
-This is due to the sincere belief of fourth-density negative that to love self is to love all. Each other-self which is thus either taught or enslaved thus has a teacher which teaches love of self. Exposed to this teaching, it is intended that there be brought to fruition an harvest of fourth-density negative or self-serving mind/body/spirit complexes.{{< /l >}}
+This is difficult for you. 
 
-{{< r a="Don Elkins" >}}Could you make Carla cough, please?{{< /r >}}
+Once having reached 3rd-density space/time continuum through your so-called windows, these crusaders may plunder as they will, the results completely a function of the polarity of the witness/subject or victim.
 
-{{< l a="Ra" >}}[Cough.]{{< /l >}}
+This is due to the sincere belief of 4th-density negative that to love self is to love all. 
 
-{{< r a="Don Elkins" >}}Then I am assuming all of the UFO groups who were getting telepathic contact from the Confederation were, shall we say, high-priority targets for the Orion crusaders, and I would assume that a large percentage of them were, shall we say, had their information polluted then. Can you tell me, do you have any idea what percentage of these groups were heavily polluted by the Orion information and if any of them were able to remain purely a Confederation channel?{{< /r >}}
+Each other-self which is thus either taught or enslaved thus has a teacher which teaches love of self. 
 
-{{< l a="Ra" >}}To give you this information would be to infringe upon the free will or confusion of some living. We can only ask each group to consider the relative effect of philosophy and your so-called specific information. It is not the specificity of the information which attracts negative influences. It is the importance placed upon it.
+Exposed to this teaching, it is intended that there be brought to fruition an harvest of fourth-density negative or self-serving mind/body/spirit complexes.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Then I am assuming all of the UFO groups who were getting telepathic contact from the Confederation were, shall we say, high-priority targets for the Orion crusaders, and I would assume that a large percentage of them were, shall we say, had their information polluted then. 
+
+Do you have any idea what percentage of these groups were heavily polluted by the Orion information and if any of them were able to remain purely a Confederation channel?{{< /r >}}
+
+
+{{< l a="Ra" >}}To give you this information would be to infringe upon the free will or confusion of some living. We can only ask each group to consider the relative effect of philosophy and your so-called specific information. 
+
+It is not the specificity of the information which attracts negative influences. It is the importance placed upon it.
 
 This is why we iterate quite often, when asked for specific information, that it pales to insignificance, just as the grass withers and dies while the love and the light of the One Infinite Creator redounds to the very infinite realms of creation forever and ever, creating and creating itself in perpetuity.
 
-Why then be concerned with the grass that blooms, withers and dies in its season only to grow once again due to the infinite love and light of the One Creator? This is the message we bring. Each entity is only superficially that which blooms and dies. In the deeper sense there is no end to beingness.{{< /l >}}
+Why then be concerned with the grass that blooms, withers and dies in its season only to grow once again due to the infinite love and light of the One Creator? 
 
-{{< r a="Don Elkins" >}}Thank you very much. Could you please make Carla cough?{{< /r >}}
+This is the message we bring. Each entity is only superficially that which blooms and dies. In the deeper sense there is no end to beingness.{{< /l >}}
 
-{{< l a="Ra" >}}[Cough.]{{< /l >}}
 
 {{< r a="Don Elkins" >}}As you have stated before, it is a strait and narrow path. There are many distractions.
 
@@ -206,11 +261,14 @@ Carla asks: you speak of various types of energy blockages and transfers, positi
 She states, please explain these blockages and energy transfers with emphasis upon what an individual seeking to be in accordance with the Law of One may positively do in this area? Is it possible for you to answer this question?{{< /r >}}
 
 
-{{< l a="Ra" >}}It is partially possible, given the background we have laid. This is properly a more advanced question. Due to the specificity of the question we may give general answer.
+{{< l a="Ra" >}}
+It is partially possible, given the background we have laid. This is properly a more advanced question. Due to the specificity of the question we may give general answer.
 
 The first energy transfer is red ray. It is a random transfer having to do only with your reproductive system.
 
-The orange- and the yellow-ray attempts to have sexual intercourse create, firstly, a blockage if only one entity vibrates in this area, thus causing the entity vibrating sexually in this area to have a never-ending appetite for this activity. What these vibratory levels are seeking is green-ray activity. There is the possibility of orange- or yellow-ray energy transfer; this being polarizing towards the negative: one being seen as object rather than other-self; the other seeing itself as plunderer or master of the situation.
+The orange- and the yellow-ray attempts to have sexual intercourse create, firstly, a blockage if only one entity vibrates in this area, thus causing the entity vibrating sexually in this area to have a never-ending appetite for this activity. 
+
+What these vibratory levels are seeking is green-ray activity. There is the possibility of orange- or yellow-ray energy transfer; this being polarizing towards the negative: one being seen as object rather than other-self; the other seeing itself as plunderer or master of the situation.
 
 In third* ray there are 2 possibilities.
 

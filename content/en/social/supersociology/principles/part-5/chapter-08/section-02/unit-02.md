@@ -25,6 +25,12 @@ The pursuit of profit was formalized by the Marginal Revolution as profit maximi
 
 Private ownership merged with free markets and the pursuit of profits led to Capitalism. 
 
+Unlike the mercanilist system where the people were not traders in commodities, the capitalist system pushes people to be traders by investing and trading in stocks. 
+
+This is why we classify it as trader + trader.
+
+![Trader](/graphics/social/trader.jpg)
+
 
 <!-- While its early roots lay in the ideas of Adam Smith and classical economics, it was **neoclassical economics**—developed from the late 19th century onward—that provided the precise theoretical framework that established and legitimized modern capitalism.
 

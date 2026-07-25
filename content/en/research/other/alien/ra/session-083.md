@@ -37,44 +37,110 @@ It is fortunate for the outlook of this contact and the incarnation of this enti
 
 
 {{< r a="Don Elkins" >}}
-Asking if there is any significant difference, and what was the difference, before the veil in the following while incarnate in third density: sleep, dreams, physical pain, mental pain, sex, disease, catalyst programming, random catalyst, relationships, or communication with the higher self or with the mind/body/spirit totality or any other mind, body, or spirit functions before the veil that would be significant with respect to their difference after the veil?
+Is there any significant difference before the veil in third density: 
+- sleep
+- dreams
+- physical pain
+- mental pain
+- sex
+- disease
+- catalyst programming
+- random catalyst
+- relationships
+- communication with the higher self or with the mind/body/spirit totality or any other mind, body, or spirit functions before the veil that would be significant with respect to their difference after the veil?
 {{< /r >}}
 
 
 {{< l a="Ra" >}}
-Firstly, let us establish that both before and after the veil the same conditions existed in time/space; that is, the veiling process is a space/time phenomenon.
+Firstly, both before and after the veil, the same conditions existed in time/space -- the veiling process is a space/time phenomenon.
 
-Secondly, the character of experience was altered drastically by the veiling process. In some cases such as the dreaming and the contact with the higher self, the experience was quantitatively different due to the fact that the veiling is a primary cause of the value of dreams and is also the single door against which the higher self must stand awaiting entry. Before veiling, dreams were not for the purpose of using the so-called unconscious to further utilize catalyst but were used to learn/teach from teach/learners within the inner planes as well as those of outer origin of higher density. As you deal with each subject of which you spoke you may observe, during the veiling process, not a quantitative change in the experience but a qualitative one.
+Secondly, the character of experience was altered drastically by the veiling process.
 
-Let us, as an example, choose your sexual activities of energy transfer. If you have a desire to treat other subjects in detail please query forthwith. In the instance of the sexual activity of those not dwelling within the veiling each activity was a transfer. There were some transfers of strength. Most were rather attenuated in the strength of the transfer due to the lack of veiling.
+In some cases, such as the dreaming and the contact with the higher self, the experience was quantitatively different due to the fact that the veiling is:
+- a primary cause of the value of dreams and
+- the single door against which the higher self must stand awaiting entry. 
 
-In the third density entities are attempting to learn the ways of love. If it can be seen that all are one being it becomes much more difficult for the undisciplined personality to choose one mate and, thereby, initiate itself into a program of service. It is much more likely that the sexual energy will be dissipated more randomly without either great joy or great sorrow depending from these experiences.
+Before veiling, dreams were not for the purpose of using the so-called unconscious to further utilize catalyst but were used to learn/teach from teach/learners within the inner planes as well as those of outer origin of higher density. 
 
-Therefore, the green-ray energy transfer, being almost without exception the case in sexual energy transfer prior to veiling, remains weakened and without significant crystallization. The sexual energy transfers and blockages after veiling have been discussed previously. It may be seen to be a more complex study but one far more efficient in crystallizing those who seek the green-ray energy center.{{< /l >}}
+As you deal with each subject of which you spoke you may observe, during the veiling process, not a quantitative change in the experience but a qualitative one.
 
-{{< r a="Don Elkins" >}}Let’s take, then, since we are on the subject of sex, the relationship before and after the veil of disease, in this particular case venereal disease. Was this type of disease in existence prior to the veil?{{< /r >}}
+Let us, use your sexual activities of energy transfer as example.
 
-{{< l a="Ra" >}}There has been that which is called disease, both of this type and others, before and after this great experiment. However, since the venereal disease is in large part a function of the thought-forms of a distorted nature which are associated with sexual energy blockage the venereal disease is almost entirely the product of mind/body/spirit complexes’ interaction after the veiling.{{< /l >}}
+In the instance of the sexual activity of those not dwelling within the veiling each activity was a transfer. There were some transfers of strength. Most were rather attenuated in the strength of the transfer due to the lack of veiling.
 
-{{< r a="Don Elkins" >}}You mentioned it did exist in a small way prior to the veil. What was the source of its development prior to the veiling process?{{< /r >}}
+In the 3rd density entities are attempting to learn the ways of love. 
 
-{{< l a="Ra" >}}The source was as random as the nature of disease distortions are, at heart, in general. Each portion of the body complex is in a state of growth at all times. The reversal of this is seen as disease and has the benign function of ending an incarnation at an appropriate space/time nexus. This was the nature of disease, including that which you call venereal.{{< /l >}}
+If it can be seen that all are one being it becomes much more difficult for the undisciplined personality to choose one mate and, thereby, initiate itself into a program of service. 
 
-{{< r a="Don Elkins" >}}I’ll make this statement and you can correct me, then. As I see the nature of the action of disease, specifically before the veil, it seems to me that the Logos had decided upon a program where an individual mind/body/spirit would continue to grow in mind and the body would be the third-density analog of this mind, and the growth would be continual unless there was a lack of growth or an inability, for some reason, for the mind to continue along the growth patterns. If this growth decelerated or stopped, then what we call disease would then act in a way so as to eventually terminate this physical experience so that a new physical experience could be started to continue the growth process, after a review of the entire process had taken place between incarnations. Would you clear up my thinking on that, please?{{< /r >}}
+It is much more likely that the sexual energy will be dissipated more randomly without either great joy or great sorrow depending from these experiences.
 
-{{< l a="Ra" >}}Your thinking is sufficiently clear on this subject.{{< /l >}}
+Therefore, the green-ray energy transfer, being almost without exception the case in sexual energy transfer prior to veiling, remains weakened and without significant crystallization. 
 
-{{< r a="Don Elkins" >}}One thing I don’t understand is why, if there was no veil, that the review of incarnation after the incarnation would help the process since it seems to me that the entity should already be aware of what was happening. Possibly this has to do with the nature of space/time and time/space. Could you clear that up, please?{{< /r >}}
+The sexual energy transfers and blockages after veiling have been discussed previously. It may be seen to be a more complex study but one far more efficient in crystallizing those who seek the green-ray energy center.
+{{< /l >}}
 
-{{< l a="Ra" >}}It is true that the nature of time/space is such that a lifetime may be seen whole as a book or record, the pages studied, riffled through, and re-read. However, the value of review is that of the testing as opposed to the studying. At the testing, when the test is true, the distillations of all study are made clear.
+{{< r a="Don Elkins" >}}
+Let’s take the relationship before and after the veil of venereal disease. Was this type of disease in existence prior to the veil?{{< /r >}}
+
+{{< l a="Ra" >}}
+There has been that which is called disease, both of this type and others, before and after this great experiment. 
+
+However, since the venereal disease is in large part a function of the thought-forms of a distorted nature which are associated with sexual energy blockage the venereal disease is almost entirely the product of mind/body/spirit complexes’ interaction after the veiling.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+You mentioned it did exist in a small way prior to the veil. What was the source of its development prior to the veiling process?{{< /r >}}
+
+{{< l a="Ra" >}}
+The source was as random as the nature of disease distortions are, at heart, in general. 
+
+Each portion of the body complex is in a state of growth at all times. The reversal of this is seen as disease and has the benign function of ending an incarnation at an appropriate space/time nexus. This was the nature of disease, including that which you call venereal.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+As I see the nature of the action of disease, specifically before the veil, it seems to me that the Logos had decided on a program where an individual mind/body/spirit would continue to grow in mind and the body would be the 3rd-density analog of this mind. The growth would be continual unless there was a lack of growth or an inability, for some reason, for the mind to continue along the growth patterns. 
+
+If this growth decelerated or stopped, then what we call disease would then act in a way so as to eventually terminate this physical experience so that a new physical experience could be started to continue the growth process, after a review of the entire process had taken place between incarnations.
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+if there was no veil, the review of incarnation after the incarnation would help the process since it seems to me that the entity should already be aware of what was happening. 
+
+Possibly this has to do with the nature of space/time and time/space.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+The nature of time/space is such that a lifetime may be seen whole as a book or record, the pages studied, riffled through, and re-read. 
+
+However, the value of review is that of the testing as opposed to the studying. 
+
+At the testing, when the test is true, the distillations of all study are made clear.
 
 During the process of study, which you may call the incarnation, regardless of an entity’s awareness of the process taking place, the material is diffused and over-attention is almost inevitably placed upon detail.
 
-The testing upon the cessation of the incarnative state is not that testing which involves the correct memorization of many details. This testing is, rather, the observing of self by self, often with aid as we have said. In this observation one sees the sum of all the detailed study; that being an attitude or complex of attitudes which bias the consciousness of the mind/body/spirit.{{< /l >}}
+The testing upon the cessation of the incarnative state is not that testing which involves the correct memorization of many details. 
 
-{{< r a="Don Elkins" >}}I just thought of an analogy while you were saying that, in that I fly an airplane, and I have testing in a simulator, but this is not too much of a test since I know we’re bolted to the ground and can’t get hurt. However, when we’re actually flying and making the approach, landing etc., in the airplane, even though it’s the same, it is, I guess a poor analogy with respect to what was happening prior to the veil. I know all of the conditions in both cases, and yet I cannot get too interested in the simulator work, because I know that it is bolted to the ground. I see this as the entities prior to the veil knowing they were [chuckling] bolted to the creation, so to speak, or part of it. Is this a reasonable analogy?{{< /r >}}
+This testing is, rather, the observing of self by self, often with aid as we have said. 
+
+In this observation one sees the sum of all the detailed study; that being an attitude or complex of attitudes which bias the consciousness of the mind/body/spirit.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I just thought of an analogy while you were saying that, in that I fly an airplane, and I have testing in a simulator, but this is not too much of a test since I know we’re bolted to the ground and can’t get hurt. 
+
+However, when we’re actually flying and making the approach, landing etc., in the airplane, even though it’s the same, it is, I guess a poor analogy with respect to what was happening prior to the veil. I know all of the conditions in both cases, and yet I cannot get too interested in the simulator work, because I know that it is bolted to the ground. I see this as the entities prior to the veil knowing they were [chuckling] bolted to the creation, so to speak, or part of it. Is this a reasonable analogy?
+{{< /r >}}
+
 
 {{< l a="Ra" >}}This is quite reasonable, although it does not bear upon the function of the review of incarnation, but rather bears upon the experiential differences before and after veiling.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Now before the veil an entity would be aware that he was experiencing a disease. As an example, would you give me, if you are aware of a case, of a disease an entity might experience prior to the veil and how he would react to this and think about it and what effect it would have on him in a complete sense. Would you, could you give me an example, please?{{< /r >}}
 
@@ -82,23 +148,60 @@ The testing upon the cessation of the incarnative state is not that testing whic
 
 {{< r a="Don Elkins" >}}Was there any uniformity or like functions of societies or social organizations prior to the veil?{{< /r >}}
 
-{{< l a="Ra" >}}The third density is, by its very fiber, a societal one. There are societies wherever there are entities conscious of the self and conscious of other-selves and possessed with intelligence adequate to process information indicating the benefits of communal blending of energies. The structures of society before as after veiling were various. However, the societies before veiling did not depend in any case upon the intentional enslavement of some for the benefit of others, this not being seen to be a possibility when all are seen as one. There was, however, the requisite amount of disharmony to produce various experiments in what you may call governmental or societal structures.{{< /l >}}
+{{< l a="Ra" >}}
+The third density is, by its very fiber, a societal one. 
 
-{{< r a="Don Elkins" >}}In our present illusion we have undoubtedly lost sight of techniques of enslavement that are used since we are so far departed from the pre-veil experience. I am sure that many with service-to-others orientation are using techniques of enslavement even though they are not aware these are techniques of enslavement simply because they have been evolved over so long a period of time and we are so deep into the illusion. Is this not correct?{{< /r >}}
+There are societies wherever there are entities conscious of the self and conscious of other-selves and possessed with intelligence adequate to process information indicating the benefits of communal blending of energies. 
 
-{{< l a="Ra" >}}This is incorrect.{{< /l >}}
+The structures of society before as after veiling were various. 
 
-{{< r a="Don Elkins" >}}Then you say that there are no cases where those who are service-to-others oriented are using in any way techniques of enslavement that have grown as a result of the evolution of our social structures? Is this what you mean?{{< /r >}}
+However, the societies before veiling did not depend in any case upon the intentional enslavement of some for the benefit of others, this not being seen to be a possibility when all are seen as one. 
 
-{{< l a="Ra" >}}It was our understanding that your query concerned conditions before the veiling. There was no unconscious slavery, as you call this condition, at that period. At the present space/time the condition of well-meant and unintentional slavery are so numerous that it beggars our ability to enumerate them.{{< /l >}}
+There was, however, the requisite amount of disharmony to produce various experiments in what you may call governmental or societal structures.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then for a service-to-others oriented entity at this time meditation upon the nature of these little-expected forms of slavery might be productive in polarization I would think. Am I correct?{{< /r >}}
 
-{{< l a="Ra" >}}You are quite correct.{{< /l >}}
+{{< r a="Don Elkins" >}}
+In our present illusion we have lost sight of techniques of enslavement that are used since we are so far departed from the pre-veil experience. 
 
-{{< r a="Don Elkins" >}}I would say that a very high percentage of the laws and restrictions within what we call our legal system are of a nature of enslavement of which I just spoke. Would you agree with this?{{< /r >}}
+I am sure that many with service-to-others orientation are using techniques of enslavement even though they are not aware these are techniques of enslavement simply because they have been evolved over so long a period of time and we are so deep into the illusion.{{< /r >}}
 
-{{< l a="Ra" >}}It is a necessary balance to the intention of law, which is to protect, that the result would encompass an equal distortion towards imprisonment. Therefore, we may say that your supposition is correct. This is not to denigrate those who, in green- and blue-ray energies, sought to free a peaceable people from the bonds of chaos but only to point out the inevitable consequences of codification of response which does not recognize the uniqueness of each and every situation within your experience.{{< /l >}}
+{{< l a="Ra" >}}
+Wrong.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Then you say that there are no cases where those who are service-to-others oriented are using in any way techniques of enslavement that have grown as a result of the evolution of our social structures?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+It was our understanding that your query concerned conditions before the veiling. 
+
+There was no unconscious slavery back then. 
+
+At the present, there are so many well-meant and unintentional slavery.
+<!-- are so numerous that it beggars our ability to enumerate them. -->
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Then for a service-to-others oriented entity at this time meditation upon the nature of these little-expected forms of slavery might be productive in polarization I would think.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+A very high percentage of the laws in our legal system are of enslavement
+{{< /r >}}
+
+{{< l a="Ra" >}}
+It is a necessary balance to the intention of law, which is to protect, that the result would encompass an equal distortion towards imprisonment. 
+
+Therefore, you are correct.
+
+This is not to denigrate those who, in green- and blue-ray energies, sought to free a peaceable people from the bonds of chaos but only to point out the inevitable consequences of codification of response which does not recognize the uniqueness of each and every situation within your experience.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is the veil supposed to be what I would call semi-permeable?{{< /r >}}
 
@@ -106,19 +209,39 @@ The testing upon the cessation of the incarnative state is not that testing whic
 
 {{< r a="Don Elkins" >}}What techniques and methods of penetration of the veil were planned and are there any others that have occurred other than those planned?{{< /r >}}
 
-{{< l a="Ra" >}}There were none planned by the first great experiment. As all experiments, this rested upon the nakedness of hypothesis. The outcome was unknown. It was discovered, experientially and empirically, that there were as many ways to penetrate the veil as the imagination of mind/body/spirit complexes could provide. The desire of mind/body/spirit complexes to know that which was unknown drew to them the dreaming and the gradual opening to the seeker of all of the balancing mechanisms leading to adepthood and communication with teach/learners which could pierce this veil.
+{{< l a="Ra" >}}
+There were none planned by the first great experiment. 
+
+As all experiments, this rested upon the nakedness of hypothesis. The outcome was unknown. 
+
+It was discovered, experientially and empirically, that there were as many ways to penetrate the veil as the imagination of mind/body/spirit complexes could provide. 
+
+The desire of mind/body/spirit complexes to know that which was unknown drew to them the dreaming and the gradual opening to the seeker of all of the balancing mechanisms leading to adepthood and communication with teach/learners which could pierce this veil.
 
 The various unmanifested activities of the self were found to be productive in some degree of penetration of the veil. In general, we may say that by far the most vivid and even extravagant opportunities for the piercing of the veil are a result of the interaction of polarized entities.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you expand on what you mean by that interaction of polarized entities in piercing the veil?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Could you expand on what you mean by that interaction of polarized entities in piercing the veil?{{< /r >}}
 
-{{< l a="Ra" >}}We shall state two items of note. The first is the extreme potential for polarization in the relationship of two polarized entities which have embarked upon the service-to-others path or, in some few cases, the service-to-self path. Secondly, we would note that effect which we have learned to call the doubling effect. Those of like mind which together seek shall far more surely find.{{< /l >}}
+{{< l a="Ra" >}}
+We shall state two items of note.
 
-{{< r a="Don Elkins" >}}Specifically, by what process in the first case, when two polarized entities would attempt to penetrate the veil, whether they be positively or negatively polarized— specifically by what technique would they penetrate the veil?{{< /r >}}
+1. The extreme potential for polarization in the relationship of two polarized entities which have embarked on the service-to-others path or, in some few cases, the service-to-self path.
+2. The doubling effect. Those of like mind which together seek shall far more surely find.
+{{< /l >}}
 
-{{< l a="Ra" >}}The penetration of the veil may be seen to begin to have its roots in the gestation of green-ray activity, that all-compassionate love which demands no return. If this path is followed the higher energy centers shall be activated and crystallized until the adept is born. Within the adept is the potential for dismantling the veil to a greater or lesser extent that all may be seen again as one. The other-self is primary catalyst in this particular path to the piercing of the veil, if you would call it that.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What was the mechanism of the very first veiling process? I don’t know if you can answer that. Would you try to, though, answer that?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Specifically, by what process in the first case, when two polarized entities would attempt to penetrate the veil, whether they be positively or negatively polarized— specifically by what technique would they penetrate the veil?{{< /r >}}
+
+
+{{< l a="Ra" >}}The penetration of the veil may be seen to begin to have its roots in the gestation of green-ray activity, that all-compassionate love which demands no return. 
+
+If this path is followed the higher energy centers shall be activated and crystallized until the adept is born. Within the adept is the potential for dismantling the veil to a greater or lesser extent that all may be seen again as one. The other-self is primary catalyst in this particular path to the piercing of the veil, if you would call it that.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}What was the mechanism of the very first veiling process?
+{{< /r >}}
 
 {{< l a="Ra" >}}The mechanism of the veiling between the conscious and unconscious portions of the mind was a declaration that the mind was complex. This, in turn, caused the body and the spirit to become complex.{{< /l >}}
 
@@ -152,9 +275,15 @@ The various unmanifested activities of the self were found to be productive in s
 
 {{< r a="Don Elkins" >}}I noticed you started this session with “I communicate now.” You usually use “We communicate now.” Is there any significance or difference with respect to that, and then is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}We am Ra. You may see the grammatical difficulties of your linguistic structure in dealing with a social memory complex. There is no distinction between the first person singular and plural in your language when pertaining to Ra.
+{{< l a="Ra" >}}
+We am Ra. 
 
-We offer the following, not to infringe upon your free will, but because Carla has specifically requested information as to its maintenance and the support group does so at this querying. We may suggest that Carla has two areas of potential distortion, both of which may be aided in the bodily sense by the ingestion of those things which seem to Carla to be desirable. We do not suggest any hard and fast rulings of diet although we may suggest the virtue of the liquids. Carla has an increasing ability to sense that which will aid its bodily complex. It is being aided by affirmations and also by the light which is the food of the density of resting.
+You may see the grammatical difficulties of your linguistic structure in dealing with a social memory complex. 
+
+There is no distinction between the first person singular and plural in your language when pertaining to Ra.
+
+We offer the following, not to infringe upon your free will, but because Carla has specifically requested information as to its maintenance and the support group does so at this querying. 
+
+We may suggest that Carla has two areas of potential distortion, both of which may be aided in the bodily sense by the ingestion of those things which seem to Carla to be desirable. We do not suggest any hard and fast rulings of diet although we may suggest the virtue of the liquids. Carla has an increasing ability to sense that which will aid its bodily complex. It is being aided by affirmations and also by the light which is the food of the density of resting.
 
 We may ask the support group to monitor Carla as always so that in the case of the desire for the more complex proteins that which is the least distorted might be offered to the bodily complex which is indeed at this time potentially capable of greatly increased distortion.{{< /l >}}
-
