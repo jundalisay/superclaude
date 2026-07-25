@@ -3,7 +3,7 @@ heading: "Unit 2"
 title: "Technocracy"
 date: 2026-06-17
 # date: 2021-06-29
-weight: 8
+weight: 9
 image: "/photos/physics/photoelectric.jpg"
 # writer:
 #   name: Juan
@@ -15,11 +15,21 @@ image: "/photos/physics/photoelectric.jpg"
 
 ## Governance Rooted in Science and Expertise
 
-**Technocracy** is a system of decision‑making and leadership where authority is entrusted to those with specialized knowledge, technical skill, and proven expertise—rather than solely to politicians, popularity, or tradition. 
+**Technocracy** is a system of leadership where authority is in experts instead of elected politicians, despots, or traditional dynasties. 
+
+<!-- traditional  entrusted to those with specialized knowledge, technical skill, and proven expertise—rather than solely to politicians, popularity, or tradition.  -->
+
+This happens when traders dominate and want to maintain their dominance. 
+
+
+![Thinker](/graphics/social/thinker.jpg)
+
 
 At its core, it believes the most effective solutions come from intellectual means.
 
-It places **research** at the very start of every policy: before acting, leaders gather data, study trends, test ideas, and consult studies to understand exactly what a problem is and how it can best be solved.
+It places **research** at the very start of every policy.
+
+ <!-- before acting, leaders gather data, study trends, test ideas, and consult studies to understand exactly what a problem is and how it can best be solved. -->
 
 
 The earliest example of a technocracy was the Song Dynasty which was highly intellectual having the following features:

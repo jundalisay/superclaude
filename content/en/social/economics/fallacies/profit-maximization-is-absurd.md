@@ -78,9 +78,23 @@ Rent | Landlords (Service) -->
 In a healthy society, all revenue is naturally and fairly distributed, with the most revenue formerly going to the landlord class as taxes. 
 - This was because employment was done personally via apprenticeship, servitude, or exchange.
 
-The establishment of paper money led to banking and therefore regular wages and formal employment. This led to the rise of the business or merchant class over the landlords.
+The establishment of paper money led to banking and therefore regular wages and formal employment. This led to:
+- the decline of slavery as people were now paid in money instead of food and basic necessities
+- the rise of the business or merchant class over the landlords
 
-This gave profits a bigger share of the social revenue, compared to taxes. This is why all governments are now in debt. 
+
+This gave profits a bigger share of the social revenue, compared to taxes. 
+
+This is why all governments are now in debt since in-kind taxation was replaced by money taxation. 
+
+{{< q a="PR Sarkar" c="Agrarian Revolution">}}
+The best system of taxation was in vogue in the ancient Hindu Age when only 25% of the entire produce was given to the king as taxes. The farmers could also give cows, horses or sheep as taxes. In such a system, **farmers did not face any inconvenience**. Today, however, farmers face much inconvenience because they have to pay their taxes in cash. Farmers cannot always arrange cash by selling agricultural produce, because **a proper market does not always exist**.
+{{< /q >}}
+
+
+{{< q a="Ra" c="Law of One, Session 23">}}
+The root cause of decline of Ancient Egypt was the formation of a money system and a very active trading which increased those tendencies towards greed and power.
+{{< /q >}}
 
 <!-- , according to natural rates, by agreements or higgling and bargaining, between:
 - profit earners (we call this the merchant class)
@@ -93,6 +107,10 @@ If most of the revenue goes to the merchant class, then:
 - the working class will have less money to learn new skills and maintain their families, leading to less skills and productivity for society
 - the ruling class will have less funds for basic services and be less able to maintain a strong government
 
+
+{{< i s="/graphics/econ/dcit.png" a="DCIT" c="Our DCIT maintains the balance between the 4 classes. Economics and Sociology are so backward as to not even know that there are 4 classes" >}}
+
+
 This often leads to some kind of crisis which the merchant class can avoid by moving overseas, unlike working and ruling classes who stay stuck with the problem.
 
 It would be like a basketball team where all of the salary goes to the star player, such as Lebron James, and the four other members play for food. This would cause the team to fail and Lebron to simply move to another team to continue getting a high salary.
@@ -100,6 +118,8 @@ It would be like a basketball team where all of the salary goes to the star play
 <!-- d t="June 2021" >}}
 We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
  /d >}} -->
+
+
 
 
 {{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
@@ -215,3 +235,4 @@ Date | Update
 6/2021 | replaced social liberty with dharmic or taoic liberty
 4/2026 | replaced solution as barter credits
 {{< /dc >}}
+

@@ -15,7 +15,20 @@ image: "/photos/meta/church.jpg"
 
 A theocracy is a system of government in which religious law and religious leaders hold supreme authority. 
 
-The state claims to derive its legitimacy directly from a deity or sacred text, and political decisions are justified as expressions of divine will. In a pure theocracy, there is no separation between church and state — religious and civil matters are one and the same.
+This is a combination of the warrior and thinker classes.
+
+
+This happens because warriors need to continue their reign beyond the original warrior or king who established a dynasty or government.  
+
+So the warrior teams up with a thinker to establish a religion that can be perpetuated forever since ideas are above space and time. 
+
+
+
+<!-- The state claims to derive its legitimacy directly from a deity or sacred text, and political decisions are justified as expressions of divine will. In a pure theocracy, there is no separation between church and state — religious and civil matters are one and the same. -->
+
+
+![Thinker](/graphics/social/thinker.jpg)
+
 
 ## Core Principles
 
