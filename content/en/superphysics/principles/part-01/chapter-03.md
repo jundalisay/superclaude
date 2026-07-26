@@ -1,22 +1,28 @@
 ---
-heading: "Unit 1"
-title: "The Higher and Lower Mind and the Main Aethereal and Biophysical Layers"
+heading: "Chapter 3"
+title: "The Higher and Lower Mind"
 #date: 2020-12-10
 date: 2025-10-07
 weight: 4
 image: /photos/physics/balloon.jpg
-description: "Everything in existence is an idea of the Creator of that existence"
+description: "The Higher and Lower Mind arises from the 3 Domains"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-07b
+# aliases:
+#   /superphysics/principles/chapter-07b
 ---
 
+The division of existence into the 3 domains means that mind which experiences these domains also have 3 types which are commonly known as:
+
+- Conscious
+- Subconscious
+- Unconscious
 
 
-Our definition of life is based on the metaphysical expression by nodes which manipulate the waves flowing through it to match its own configuration. 
+
+<!-- Our definition of life is based on the metaphysical expression by nodes which manipulate the waves flowing through it to match its own configuration. 
 
 This means that expression is based on subtlety which is caused by the flexibility of waves. 
 
@@ -66,3 +72,4 @@ This is the mind that occupies the lower part of the metaphysical domain, making
 Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
 {{< /q >}}
 
+ -->

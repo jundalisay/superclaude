@@ -5,6 +5,10 @@ a: "Khun"
 c: firebrick
 date: 2022-06-25
 weight: 12
+writer:
+  name: "Thomas Khun"
+  url: https://en.wikipedia.org/wiki/Thomas_Kuhn
+icon: "Thomas Khun"
 ---
 
 

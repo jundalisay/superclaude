@@ -1,58 +1,57 @@
 ---
 heading: "Section 4"
-title: "The Water Element"
+title: "The Radiant Layer"
 # date: 2015-09-09
 date: 2020-12-03
-weight: 12
-image: /photos/physics/water.jpg
-description: "The Water Element is responsible for the diversity and change in the universe whether mental, biological, or material"
+# 2020-01-04
+weight: 9
+image: /photos/physics/fire.jpg
+description: "The Radiant Layer is electromagnetism in Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 aliases:
-  /superphysics/principles/chapter-02e
+  /superphysics/principles/chapter-02d
 ---
 
+
+<!-- ## The Radiant Layer (Electromagnetism) -->
 
 
 System | Name
 --- | --- 
-Superphysics | Conversion, Water
-Physics | Weak Force
-Greek | Water
-Indian | Apas
-Chinese | 土
-Japanese | 水
-Vietnamese | Thổ
+Superphysics | Radiance, Fire
+Physics | Electromagnetism
+Greek | Fire
+Indian | Tejas
+Chinese | 火
+Japanese | 火
+Vietnamese | Hỏa
 
 
-{{< i s="/photos/physics/water.jpg" a="Water" >}}
-
-This is responsible for the diversity and change in the universe whether mental, biological, or material. 
-
-In Physics, this manifests as chemistry, chemical change, and chemical reactions. 
-
-Historically, the Chinese invented gunpowder by using the principles of change of the Water Element. 
-
-In Material Superphysics, this is called the Convertible Layer which is responsible for:
-- 'flavor changing' or changing the nature of particles
-- intermolecular and intramolecular forces
-
-For example, neutrinos are part of the Convertible Layer and are detected in **liquids** such as argon. 
-
-In Bio Superphysics, the Water Element is the blood, lymph, and sperm which create the diversity in the realm of human biology.
-
-In Spiritual Superphysics, this is the creative aspect based on the Sex Chakra.  
+{{< i s="/photos/physics/fire.jpg" a="Fire" >}}
 
 
-Subscience | Name | Use of the Convertible Layer
+This element handles information and 'energy'.
+
+This most commonly is seen as light and felt as heat. 
+
+Light is responsible for color-information. We perceive and learn mostly through our eyes. This proves the importance of the Fire Element for perception.
+
+Magnetism is sourced from the Air Element but is facilitated by the Fire Element through virtual photons and electrons. 
+
+In Bio Superphysics, in relationships, the Fire Element is the origin of the heat of passion. Hot climates lead to increased sexual activity of the Water Element because the Fire Element is superior to Water. 
+
+Sexual activity is reduced by separating male and female as adding space which is of the Air Element since Air is superior to both Fire and Water.
+
+In Spiritual Superphysics, the Fire Element is the basis for the aura. It gives information to others on what feelings or general ideas an entity has to those who are sensitive enough to detect auras.  
+
+
+Subscience | Name | Use of the Fire Element
 --- | --- | ---
-Material Superhysics | Convertible | This is the start of the Weak Force in Physics
-Bio Superphysics | Water | This shows the evolution or change in cells and organisms, including reproduction
-Spiritual Superphysics | Subtle | This facilitates creativity 
-
-<!-- and  dynamics of the Sex Chakra -->
-
-
+Material Superhysics | Radiant Layer | The start of electromagnetism
+Bio Superphysics | Fire Element | The effects of heat and desire to the mind and body
+Spiritual Superphysics | Radiant Stratum | The basis of ambition, greed, etc.
+ <!-- dynamics of the Navel Chakra -->
 

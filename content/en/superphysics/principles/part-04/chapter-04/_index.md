@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 4"
-title: "The 5 Mental Elements"
+title: "The 5 Mental Layers"
 date: 2020-01-02
 weight: 16
-image: /photos/meta/5elements.jpg
+image: "/graphics/super/15layers.jpg"
 description: ""
 ---
 

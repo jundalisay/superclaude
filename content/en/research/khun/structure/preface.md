@@ -346,11 +346,7 @@ If science is the constellation of facts, theories, and methods collected
 in current texts, then scientists are the men who, successfully or not,
 have striven to contribute one or another element to that particular
 constellation. Scientific development becomes the piecemeal process by
-which these items have been
-Vol. II, No. 2
-1
-The Structure of Scientific Revolutions
-added, singly and in combination, to the ever growing stockpile that
+which these items have been added, singly and in combination, to the ever growing stockpile that
 constitutes scientific technique and knowledge. And history of science
 becomes the discipline that chronicles both these successive increments
 and the obstacles that have inhibited their accumulation. Concerned

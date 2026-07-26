@@ -1,69 +1,74 @@
 ---
 heading: "Section 1"
-title: "The Higher and Lower Mind and the Main Aethereal and Biophysical Layers"
-#date: 2020-12-10
+title: "The 5 Mental Layers"
 date: 2025-10-07
-weight: 4
-image: /photos/physics/balloon.jpg
-description: "Everything in existence is an idea of the Creator of that existence"
+weight: 3
+image: /photos/meta/5elements.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-07b
 ---
 
+The 5 Mental layers are the internal divisions created by the belligerence of the Positive and Negative in the metaphysical domain. 
+
+This is studied by Spiritual Superphysics.
+
+{{< i s="/graphics/super/operative.svg" a="5 Strata" >}}
+
+<!-- We can discard the names of Air, Fire, Water, Earth in the metaphysical domain as those names denote physical phenomena.  -->
+
+We use the abstract descriptive names as follows:
+
+Stratum | Sanskrit Equivalent | Sassani Equivalent
+--- | --- | ---
+Causal | Hiranmaya | Oversoul (7th density)
+Essential | Vijinanamaya | Soul (6th density)
+Astral | Atimanasa | Higher Mind and Template Reality (5th density)
+Subtle | Manomaya | Collective Mind (4th density)
+Crude | Kamamaya | Physical Mind (3rd density)
 
 
-Our definition of life is based on the metaphysical expression by nodes which manipulate the waves flowing through it to match its own configuration. 
+<!-- In Asian Metaphysics, this is known as lokas.
 
-This means that expression is based on subtlety which is caused by the flexibility of waves. 
-
-This flexibility comes from the Positive Force.
-
-And so we say that:
-- life and spirituality comes from the Positive Force
-- matter and selfishness comes from the Negative Force 
+In Vedic and yogic cosmology, **Lokas** are distinct planes or realms of existence—from the most tangible physical world to the subtlest spiritual states. Rather than being distant, abstract places, they describe layers of consciousness and energy that shape our experience. Understanding them gives practical tools for growth, healing, and alignment.
 
 
-In spirituality, the physical domain is discarded.
+## The Core Lokas and Their Practical Purpose
 
-So does this mean that metaphysical entities have all the same level of intelligence and subtlety?
+Traditionally grouped into **three main tiers**, each serves a specific function in metaphysical practice:
 
-The Positive and Negative still work in the same way in the metaphysical domain as in the physical. The only difference is that in the physical domain, the Negative is very dominant. 
+### 1. Bhur Loka – The Physical Realm
 
-Moreover, the Asian scriptures, particularly the Buddhist texts, assert that even metaphysical beings, called devas and elementals, have hierarchies between them. 
+This is the material world we inhabit: body, matter, senses, and daily life.
+- **Practical use**: Grounding all spiritual work. It reminds us that insight must translate into right action, healthy living, and care for the body and environment.
+- **Application**: Any healing, service, or mindful activity that anchors higher energy into tangible reality.
 
-It follows that the 2 domains and 5 Elements stratification is still in force, but with slight differences. 
+### 2. Bhuva Loka – The Subtle / Astral Realm
+The plane of emotions, thoughts, vital energy, dreams, and the subconscious.
+- **Practical use**: Access root causes of patterns, release emotional blockages, and work with energy before issues manifest physically.
+- **Application**: Meditation, breathwork, pranic healing, dreamwork, and clearing limiting beliefs or past impressions.
 
-In the metaphysical domain, we call:
-- the upper domain as the higher mind 
-- the lower domain as the lower mind
-- the 5 Elements as the 5 Strata
+### 3. Swarga Loka – The Celestial / Mental Realm
+The plane of higher intellect, inspiration, joy, and aligned intention—often misunderstood as a "heavenly reward."
+- **Practical use**: Access guidance, clarity, creativity, and positive qualities like courage or compassion.
+- **Application**: Visualization, prayer, intention-setting, and connecting with wise energies or higher purpose.
 
+### Beyond: Mahar, Jana, Tapo, Satya Lokas
+These are progressively subtler realms of pure wisdom, unity, and truth.
+- **Practical use**: Dissolve ego-based thinking, expand awareness beyond the self, and align with universal order.
+- **Application**: Deep contemplation, self-inquiry, and practices that reduce attachment to outcome.
 
-## Higher Mind and Lower Mind
+## Why This Matters for Your Practice
+The Lokas are not destinations to reach one day—they are **states you move through every day**:
+- **Imbalance** happens when you identify too much with one realm: ignoring the body (too focused on higher lokas), or being trapped only in material concerns (stuck in Bhu Loka).
+- **Mastery** means moving freely between them: using the physical as a foundation, the subtle as a tool, and the higher realms as guidance.
 
-Physical Existence is within 2 domains: physical and metaphysical.
+## A Practical Takeaway
+Working with the Lokas teaches you to:
+- **Heal holistically**: address physical, emotional, and mental layers together.
+- **Align purpose**: match your actions with your highest intentions.
+- **Expand awareness**: see reality as more than just what the senses can perceive.
 
-Witin metaphysical existence is the 2 parts of the higher and lower mind. 
-
-
-1. Higher Mind
-
-This is the subtler mind that occupies the higher parts of the metaphysical domain, and is called the soul. Philosophers call this the spiritual mind or subjective mind.
-
-The higher mind is more alive than the lower mind. 
-
-
-2. A physical mind 
-
-This is the mind that occupies the lower part of the metaphysical domain, making it contiguous to the physical domain. This is what scientists believe in. Philosophers call this the crude mind or objective mind.
-
-
-{{< q a="William Benham" c="The Laws of Scientific Hand Reading, Part 2, Chapter 1" >}}
-Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
-{{< /q >}}
-
-
+ -->
