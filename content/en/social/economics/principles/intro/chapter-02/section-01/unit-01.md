@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "Value as Waves"
 # date: 2022-03-28
 dateorig: Originally written in 2016

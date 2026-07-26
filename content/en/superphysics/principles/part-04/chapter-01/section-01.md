@@ -1,11 +1,11 @@
 ---
 heading: "Section 1"
-title: "The 5 Elements as the 15 Layers of Reality"
+title: "The 15 Layers of Reality"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
 weight: 4
-image: /graphics/super/domains.svg
+image: /graphics/super/15layer.jpg
 description: "We are inside the Mind of the Supreme Entity, as its thoughts in Existence"
 writer:
   name: Juan
@@ -75,4 +75,28 @@ Material | Strong Force
 
 
 This is because physicists impose a limitation on themselves to ignore or avoid metaphysical perceptions like ideas, feelings, and spirits. This in turn is because their minds favor the material and crude perceptions as being universal or common to all. 
+
+
+## The 15 Layers
+
+Since the Elements are based on perception we extend the same 5 Elements model to biophysical and mental perceptions to create 15 layers:
+
+Layer | Current Name
+--- | ---
+Material | Strong Force
+Conversion | Weak Force
+Radiant | Electromagnetism
+Spatial | Spacetime
+Aethreal | Observer
+Earth | Pritvi
+Water | Jala
+Prana | Tejas
+Chi | Vayu
+Akasha | Akasha
+Crude | 3rd Density
+Subtle | 4th Density
+Astral | 5th Density
+Essential | 6th Density
+Causal | 7th Density
+
 

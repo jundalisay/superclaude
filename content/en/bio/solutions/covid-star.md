@@ -163,7 +163,9 @@ Science explains that the monarchs have some kind of magnetic guidance system fr
 
 We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense.
 
-This also does not require any memory of past locations. All it needs is an optical system designed by genetics to tap into the wavelength of that star.
+This also does not require any memory of past locations. All it needs is an optical system designed by genetics to tap into the wavelength of that star. 
+
+People forget that the sun is a star too!
 
 Accordingly, Monarch Butterflies are known for having complex eyes compared to other insects. 
 

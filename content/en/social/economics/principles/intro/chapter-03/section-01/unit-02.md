@@ -1,7 +1,7 @@
 ---
-heading: "Unit 1"
-linkTitle: "4 Kinds of Exchangeable Value"
-title: "The Four Kinds of Exchangeable Value from Relativistic Pricing"
+heading: "Unit 2"
+linkTitle: "4 Kinds"
+title: "4 Kinds of Exchangeable Value"
 # date: 2022-03-26
 image: /graphics/econ/laws.png
 weight: 5

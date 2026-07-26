@@ -47,3 +47,17 @@ Therefore, we can say that spirituality is the flow towards (the abstract) God.
 
 This is why we define spirituality as any concept or idea that related to the pure Positive Force, with the Absolute as reference.
 
+
+
+## The 5 Layers of the Mind
+
+We use the 5 Layers of the Mind in Spiritual Superphysics
+
+Layer | Characteristics
+--- | ---
+Causal | 7th Density
+Essential | 6th Density
+Astral | 5th Density
+Subtle | 4th Density
+Crude | 1st-3rd Densities
+

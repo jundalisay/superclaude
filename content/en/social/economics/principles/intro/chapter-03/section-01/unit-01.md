@@ -1,7 +1,7 @@
 ---
-heading: "Section 1"
-linkTitle: Relational Pricing and Exchange
+heading: "Unit 1"
 title: "Exchangeable Value as Relational Pricing"
+linkTitle: "Relational Pricing"
 # date: 2022-03-26
 image: /photos/buy.jpg
 weight: 3
@@ -11,8 +11,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
-
 
 
 
@@ -130,5 +128,3 @@ This "paradox" is used by Economics, together with marginal utility, in order to
 
 This paradox is nullified by our concept of minimum requirements and the grain index. 
  -->
-
- 
