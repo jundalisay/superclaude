@@ -101,3 +101,7 @@ Densities | Newton | Descartes, Superphysics | Advanced Superphysics, Tantra, Ta
 7 |  |  | ✅ | ✅
 8 |  |  | | 
 
+
+We created Superphysics to explain up to 4th density phenomena, and Advanced Superphysics to explain the rest. 
+
+
