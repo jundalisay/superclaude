@@ -12,6 +12,10 @@ icon: "Social Superphysics"
 ---
 
 
+
+The Worker Culture revolves around the bodily needs and the experience and expression of those needs.
+
+
 <!-- The Workers are the most numerous of any population. 
 
 The Worker Cycle is the beginning of a society.

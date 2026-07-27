@@ -3,8 +3,8 @@ heading: "Section 3"
 title: "The Platonic Shapes"
 date: 2024-02-24
 weight: 7
-image: /graphics/meta/ideas.jpg
-description: "Ideas are connected by the cognition"
+image: /photos/math/shapes.jpg
+description: "The tetras lead to the Platonic Shapes"
 toc: false
 icon: "Juan"
 tags: ['vortices']
@@ -57,5 +57,7 @@ The problem is in implementing those solutions in the physical real world becaus
 Postive and Negative direction is most obviously seen in postive and negative poles of a magnet. Subtly it is also seen in positive and negative charges. 
 
 This is more obvious in the vacuum of outer space when we test 2 spinning balls next to each other in zero gravity. 
+
+
 
 

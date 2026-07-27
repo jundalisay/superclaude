@@ -1,5 +1,5 @@
 ---
-heading: "Unit 2"
+heading: "Section 2"
 title: "Elementals"
 date: 2025-10-06
 weight: 6
@@ -9,13 +9,17 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
+tags: ['Elementals', 'gaia']
 aliases:
   /superphysics/principles/chapter-07d
 ---
 
 
 
-## Elementals or Nature Spirits, Aliens, Spirits, Ghosts 
+## Gaia The Mother of Elements and Spirits
+
+Gaia is the living, breathing consciousness of the planet itself and is the collective wave of all living creatures including non-physical elementals or nature spirits.
+
 
 Not all minds have to be attached so dependently to the physical domain. 
 
@@ -116,8 +120,6 @@ This is the same mechanism used by elementals for their expressions to be percei
 A person who detects elementals raises his gravitational signature to be close to the frequency of those elementals.
 
 This means that people who can detect elementals are subtle and not crude.
-
-
 
 
 ## Alternative to Excessive Capitalism

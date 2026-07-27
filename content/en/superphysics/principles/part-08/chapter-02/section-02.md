@@ -1,5 +1,5 @@
 ---
-heading: "Unit 2"
+heading: "Section 2"
 title: "Desire-based Evolution"
 date: 2025-10-06
 weight: 7
@@ -12,6 +12,7 @@ icon: Juan
 aliases:
   /superphysics/principles/chapter-07j
 ---
+
 
 
 The previous section explained how advanced aliens have been documented consistently by ancient civilizations who did not talk to each other. 

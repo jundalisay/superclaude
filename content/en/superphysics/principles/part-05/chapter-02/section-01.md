@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "The Connection of Ideas"
 date: 2024-02-24
 weight: 2
-image: /graphics/meta/ideas.jpg
+image: /photos/meta/cause.jpg
 description: "Ideas are connected by the cognition"
 toc: false
 icon: "Juan"

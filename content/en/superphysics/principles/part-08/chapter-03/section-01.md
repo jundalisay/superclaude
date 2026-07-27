@@ -1,5 +1,5 @@
 ---
-heading: "Unit 1"
+heading: "Section 1"
 title: "Life Forms"
 date: 2025-10-06
 weight: 4
@@ -10,4 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 ---
+
+
+
+Life forms begin from 2nd density up to 7th density. 
 

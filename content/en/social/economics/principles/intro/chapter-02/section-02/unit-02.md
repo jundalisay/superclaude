@@ -1,10 +1,10 @@
 ---
-heading: "Unit 1"
+heading: "Unit 2"
 title: "Use Value and Marginal Utility"
 date: 2025-01-20
 image: /photos/stuff/gauge.jpg
 # image: /photos/social/pantry.jpg
-weight: 16
+weight: 6
 description: "We expose the flaws of Marginal Utility"
 writer:
   name: Juan

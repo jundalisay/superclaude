@@ -1,18 +1,16 @@
 ---
-heading: "Unit 2"
+heading: "Section 2"
 title: "Mind, Soul, Spirit, Essence"
 date: 2020-12-10
 weight: 6
 tags: ["life", "mind", "soul"]
-image: /photos/psych/free.jpg
+image: /photos/psych/schizo.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 ---
-
-
 
 
 ## Definitions: Mind, Soul, Spirit, Essence

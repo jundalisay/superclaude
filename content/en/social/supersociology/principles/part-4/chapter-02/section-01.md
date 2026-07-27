@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1"
-title: "The Thinking Class and Thinker Cycle"
+title: "Ideas"
 date: 2019-12-17
 weight: 6
 image: "/photos/medieval/bacon.jpg"
@@ -9,4 +9,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Social Superphysics"
 ---
+
+
+
+The Thinker Culture revolves around ideas and the experience and expression of ideas.
 

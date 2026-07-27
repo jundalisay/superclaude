@@ -3,8 +3,8 @@ heading: "Section 1"
 title: "Vortices"
 date: 2024-02-24
 weight: 2
-image: /graphics/meta/ideas.jpg
-description: "Ideas are connected by the cognition"
+image: /photos/physics/galaxy.jpg
+description: "Vortices are active nodes"
 toc: false
 icon: "Juan"
 tags: ['vortices']
@@ -88,3 +88,5 @@ An idea can be learned, or a problem can be solved, faster by approaching the id
 This angle and shape are consequences of the Negative force which surrounds each idea or identity in order to separate it from other identities.
 
 Without the knowledge of this shape, the only alternative is to approach a big problem from all possible angles, leading to a waste of time and effort as trial and error.
+
+
