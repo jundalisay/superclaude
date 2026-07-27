@@ -1,23 +1,45 @@
 ---
-heading: "Unit 3"
+heading: "Unit 1"
 title: "Use Value Versus Exchangeable Value"
-# date: 2022-03-28
-weight: 8
+date: 2022-03-28
+weight: 3
 image: /photos/econ/bake.jpg
-# description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith"
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
-draft: true
+icon: "Juan"
 toc: false
 ---
 
 
 
-### The 4 Laws of Exchangeable Value
+The Previous chapter explained the 2 perspectives in society:
 
-The engine of value is desire. <!-- The cause of value therefore is the feeling called 'desire', of which the strongest is the ego or the feeling or desire of the self. -->
+1. Personal
+2. Societal or Collective
+
+This leads to 2 kinds of perspectives of economic value:
+
+1. Use Value
+2. Exchangeable Value
+
+Use value is regulated by personal budgeting which involve personal arithmetic and algebra.
+
+Exchangeable value however is more complex as society has a more complex nature than an individual, as it is made up of many individuals. 
+
+
+## Morality as Regulator of Exchangeable Value
+
+While the conscience is the regulator for the self, morality is the regulator for society by activating the common interest over the selfish interest. 
+
+
+
+
+
+<!-- ### The 4 Laws of Exchangeable Value
+
+The engine of value is desire.
 
 - Western philosophies, such as liberalism, utilitarianism, and objectivism, teach the **pursuit** of desire
 - Asian philosophies, such as Buddhism, Hinduism, and Taoism, teach the **renunciation and control** of desire
@@ -48,3 +70,6 @@ This classification is different from the messy* organization of Economics as mi
 
 
 Before we explain the four laws of value, we have to explain the different kinds of value. 
+
+
+ -->

@@ -1,9 +1,9 @@
 ---
-heading: "Section 2"
-title: "Personal Versus Societal"
+heading: "Section 1"
+title: "Value as Waves"
 # linkTitle: Value
 description: The Metaphysics Of Value in Economic Superphysics
 image: /photos/meta/kindness.jpg
-# date: 2022-08-10
+date: 2026-07-26
 weight: 7
 ---

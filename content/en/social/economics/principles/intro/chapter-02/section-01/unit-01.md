@@ -4,7 +4,7 @@ title: "Value as Waves"
 # date: 2022-03-28
 dateorig: Originally written in 2016
 weight: 3
-image: /photos/econ/bake.jpg
+image: /photos/econ/stocks.jpg
 description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith"
 writer:
   name: Juan

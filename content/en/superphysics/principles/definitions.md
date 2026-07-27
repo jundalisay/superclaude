@@ -246,6 +246,7 @@ Commercialization | the shifting of an economy or trade into objective money-bas
 Commodity | a raw material or not-so-processed good for sale 
 Donation | Irregular Revenue from the abundance experienced by others 
 Effective Demand | The demand of the people who are willing to pay the rent, labour, and profits needed to make them and bring them to market (Smith)
+Economic value | the physicalised value for life activities
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
