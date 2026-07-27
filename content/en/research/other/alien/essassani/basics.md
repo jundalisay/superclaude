@@ -1,5 +1,5 @@
 ---
-title: "Basic Beliefs of the Sassani fron Essassani"
+title: "Basic Beliefs of the Sassani"
 weight: 2
 image: "/covers/essassani.jpg"
 description: "The Metaphysics followed by the Sassani"
