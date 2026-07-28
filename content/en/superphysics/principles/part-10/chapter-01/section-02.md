@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /superphysics/principles/chapter-10/section-01/unit-03
 ---
+
 
 
 Unit 1 explained that the society organism is an oversoul made up of individual souls bound together by the glue of common interest. 

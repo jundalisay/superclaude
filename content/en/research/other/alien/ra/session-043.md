@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 110
 date: 1981-01-24
-tags: ['Orion', '']
+tags: ['Orion', 'cattle mutilations']
 ---
 
 
@@ -28,6 +28,9 @@ There is a line of interference crossing the crown of the head.{{< /l >}}
 {{< r a="Don Elkins" >}}[Ruffles in the sheet are smoothed all along the length of the sheet next to Carla’s head.] Is that satisfactory?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
+
+
+## Cattle mutilations
 
 {{< r a="Don Elkins" >}}
 The parts removed in cattle mutilations are the same every time.
