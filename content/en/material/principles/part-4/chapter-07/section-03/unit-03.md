@@ -3,7 +3,7 @@ heading: "Unit 3"
 title: "Beta Decay"
 date: 2025-09-10
 image: /photos/physics/reactor.jpg
-description: "The Weak Force is most known by Modern Physics for particle decay."
+description: "This is the easiest way to see the **Law of Conservation of Substance** at work."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -36,7 +36,9 @@ Beta decay is the most common type of radioactive decay, observed in over 97% of
 
 It is where a nucleus transforms by emitting a beta particle (an electron or anti-electron) and an antineutrino or neutrino. 
 
-There are 3 Types of Beta Decay.
+This is the easiest way to see the **Law of Conservation of Substance** at work.
+
+There are 3 Types of Beta Decay.0
 
 
 ### 1. β⁻ Decay (Electron Emission)
