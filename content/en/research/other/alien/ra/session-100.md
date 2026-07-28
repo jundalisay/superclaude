@@ -43,24 +43,73 @@ That the transformation occurs by pull which attempts to turn the entity toward 
 {{< l a="Ra" >}}We shall. The concept of the pull towards mental polarity may well be examined in the light of what the student has already accreted concerning the nature of the conscious, exemplified by the male, and the unconscious, exemplified by the female. Indeed, both the prostituted and the virginal of deep mind invite and await the reaching. In this image of Transformation of Mind, then, each of the females points the way it would go, but is not able to move, nor are the two female entities striving to do so. They are at rest. The conscious entity holds both and will turn itself one way or the other or, potentially, backwards and forwards, rocking first one way then the other and not achieving the transformation. In order for the Transformation of Mind to occur, one principle governing the use of the deep mind must be abandoned. The triangular shape formed by the shoulders and crossed elbows of consciousness is a shape to be associated with transformation. Indeed, you may see this shape echoed twice more in the image, each echo having its own riches to add to the impact of this complex of concepts.{{< /l >}}
 
 {{< r a="Don Elkins" >}}We will probably return to this card next session for more of an observation after we study Ra’s comments. To conserve and efficiently use the time at this time I will make some notes with respect to Card Seven. First, the veil between the conscious and the unconscious mind has been removed. The veil is the curtain, I would assume, at the top which is lifted. Even though this veil has been removed perception of intelligent infinity is still distorted according to the seeker’s beliefs and means of seeking. Would Ra comment on that?{{< /r >}}
-{{< l a="Ra" >}}As one observes the veil of the image of the Great Way of Mind it may be helpful to ideate using the framework of environment. The Great Way of Mind, Body, or Spirit is intended to limn the milieu within which the work of mind, body, or spirit shall be placed. Thusly, the veil is shown both somewhat lifted and still present, since the work of mind and its transformation involves progressive lifting of the great veil betwixt conscious and deep minds. The complete success of this attempt is not properly a portion of third-density work and, more especially, third-density mental processes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The fact that the veil is raised higher on the right-hand side than on the left indicates to me that the adept choosing the positive polarity will have greater success in penetrating the veil. Would Ra comment?{{< /r >}}
-{{< l a="Ra" >}}This is a true statement if it is realized that the questioner speaks of potential success. Indeed, your third-density experience is distorted or skewed so that the positive orientation has more aid than the so-called negative.{{< /l >}}
+{{< l a="Ra" >}}
+As one observes the veil of the image of the Great Way of Mind it may be helpful to ideate using the framework of environment. 
 
-{{< r a="Don Elkins" >}}It would also seem to me that, since Ra stated in the last session the limit of the viewpoint is the source of all distortions, that the very nature of the service-to-self distortions that create the left-hand path are a function of the veil [and] therefore are dependent, you might say, to some degree, on at least a partial continued veiling. Does this make any sense?{{< /r >}}
-{{< l a="Ra" >}}There is the thread of logic in what you suppose. The polarities are both dependent upon a limited viewpoint. However, the negative polarity depends more heavily upon the illusory separation betwixt the self and all other mind/body/spirit complexes. The positive polarity attempts to see through the illusion to the Creator in each mind/body/spirit complex, but for the greater part is concerned with behaviors and thoughts directed towards other-selves in order to be of service. This attitude in itself is full of the stuff of your third-density illusion.{{< /l >}}
+The Great Way of Mind, Body, or Spirit is intended to limn the milieu within which the work of mind, body, or spirit shall be placed. 
 
-{{< r a="Don Elkins" >}}The crown of three stars, we are guessing, indicates mastery and balancing of the mind, body, and spirit. Is this in any way correct?{{< /r >}}
+Thusly, the veil is shown both somewhat lifted and still present, since the work of mind and its transformation involves progressive lifting of the great veil betwixt conscious and deep minds. 
+
+The complete success of this attempt is not properly a portion of 3rd density work and, more especially, 3rd density mental processes.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+The fact that the veil is raised higher on the right-hand side than on the left indicates to me that the adept choosing the positive polarity will have greater success in penetrating the veil.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+This is a true statement if it is realized that the questioner speaks of potential success.
+
+Your 3rd density experience is distorted or skewed so that the positive orientation has more aid than the negative.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+It would also seem to me that, since Ra stated in the last session the limit of the viewpoint is the source of all distortions, that the very nature of the service-to-self distortions that create the left-hand path are a function of the veil [and] therefore are dependent, you might say, to some degree, on at least a partial continued veiling.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+That is logical. 
+
+The polarities are both dependent on a limited viewpoint. 
+
+However, the negative polarity depends more heavily on the illusory separation between the self and all other mind/body/spirit complexes. 
+
+The positive polarity attempts to see through the illusion to the Creator in each mind/body/spirit complex, but for the greater part is concerned with behaviors and thoughts directed towards other-selves in order to be of service. 
+
+This attitude in itself is full of the stuff of your 3rd density illusion.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I guess the crown of 3 stars indicates mastery and balancing of the mind, body, and spirit.{{< /r >}}
+
 {{< l a="Ra" >}}This device is astrological in origin and the interpretation given somewhat confusing. We deal, in this image, with the environment of mind. It is perhaps appropriate to release the starry crown from its stricture.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The entities— the small black— or russet— and white entities have been now changed so that they appear to be sphinxes which we are assuming mean that the catalyst has been mastered. I am also assuming that they act as the power that moves the chariot depicted here so as this mastery enables the mind in its transformation to become mobile unlike it was prior to this mastery, locked within the illusion. Would Ra comment on that?{{< /r >}}
-{{< l a="Ra" >}}Firstly, we ask that the student consider the Great Way not as the culmination of a series of seven activities or functions but as a far more clearly delineated image of the environment within which the mind, body, or spirit shall function. Therefore, the culturally determined creatures called sphinxes do not indicate mastery over catalyst. The second supposition, that of placing the creatures as the movers of the chariot of mind, has far more virtue. You may connote the concept of time to the image of the sphinx. The mental and mental/emotional complex ripens and moves and is transformed in time.{{< /l >}}
 
-{{< r a="Don Elkins" >}}There is the forty-five minute signal. Does Ra suggest a termination of this session, taking into consideration Carla’s condition and all the other conditions that we have placed on this?{{< /r >}}
+{{< r a="Don Elkins" >}}The entities— the small black— or russet— and white entities have been now changed so that they appear to be sphinxes which we are assuming mean that the catalyst has been mastered.
+
+I am also assuming that they act as the power that moves the chariot depicted here so as this mastery enables the mind in its transformation to become mobile unlike it was prior to this mastery, locked within the illusion. Would Ra comment on that?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+1. We ask that the student consider the Great Way not as the culmination of a series of seven activities or functions but as a far more clearly delineated image of the environment within which the mind, body, or spirit shall function.
+
+Therefore, the culturally determined creatures called sphinxes do not indicate mastery over catalyst. 
+
+2. The placing the creatures as the movers of the chariot of mind, has far more virtue. 
+
+You may connote the concept of time to the image of the sphinx. The mental and mental/emotional complex ripens and moves and is transformed in time.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+There is the forty-five minute signal. Does Ra suggest a termination of this session, taking into consideration Carla’s condition and all the other conditions that we have placed on this?{{< /r >}}
+
 {{< l a="Ra" >}}Information pertinent to this query has been previously covered. The choice of termination time, as you call it, is solely that of the questioner until the point at which we perceive Carla beginning to use its vital resources due to the absence of transferred or native physical energy. Carla remains open, as always.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In that case I will ask only one more question and that will be having to do with the sword and the scepter. It would seem that the sword would be the power of the negative adept indicating control over other-selves and the scepter would indicate the power of the positive adept with unity in mind, body, and spirit. However, they seem to be in opposite hands than I would have guessed. Would Ra comment on that?{{< /r >}}
+
 {{< l a="Ra" >}}These symbols are astrological in origin. The shapes, therefore, may be released from their stricture. We may note that there is an overriding spiritual environment and protection for the environment of the mind. We may further note that the negatively polarized adept will attempt to fashion that covenant for its own use whereas the positively polarized entity may hold forth that which is exemplified by the astrological sword; that is, light and truth.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would there be two more appropriate objects or symbols to have the entity in Card Seven holding in its hands, other than the ones shown?{{< /r >}}

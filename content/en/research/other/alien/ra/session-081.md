@@ -35,7 +35,7 @@ Why is this an inevitable consequence? What is the mechanism of contact creating
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The mechanism creating weariness is that connection betwixt the density wherein Carla’s mind/body/spirit complex is safely kept during these workings and the altogether variant density in which Carla’s physical body complex resides at this space/time. As Carla takes on more of the coloration of the resting density the third-density experience seems more heavy and wearisome. This was accepted by Carla, as it desired to be of service. Therefore, we accept also this effect about which nothing of which we are aware may be done.
+The mechanism creating weariness is that connection betwixt the density wherein Carla’s mind/body/spirit complex is safely kept during these workings and the altogether variant density in which Carla’s physical body complex resides at this space/time. As Carla takes on more of the coloration of the resting density the third density experience seems more heavy and wearisome. This was accepted by Carla, as it desired to be of service. Therefore, we accept also this effect about which nothing of which we are aware may be done.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -198,7 +198,7 @@ Although it would be possible for us to move at will throughout the creation wit
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Was the call in each instance from the third-density beings or was this call from additional or other densities?
+Was the call in each instance from the third density beings or was this call from additional or other densities?
 {{< /r >}}
 {{< l a="Ra" >}}
 In general, the latter supposition is correct. In the particular case of the Sun sub-Logos, third density is the density of calling.

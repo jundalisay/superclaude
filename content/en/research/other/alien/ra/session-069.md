@@ -24,7 +24,7 @@ This is correct, although we have physical energy transferred and available for 
 Thank you. A question I didn’t get to ask the previous session which I will be forced to continue at this time is, is the trance state the only condition from which a mind/body/spirit positive entity may be lured by a negative adept to a negative time/space configuration?
 {{< /r >}}
 {{< l a="Ra" >}}
-This is a misperceived concept. The mind/body/spirit complex which freely leaves the third-density physical complex is vulnerable when the appropriate protection is not at hand. You may perceive carefully that very few entities which choose to leave their physical complexes are doing work of such a nature as to attract the polarized attention of negatively oriented entities. The danger to most in trance state, as you term the physical complex being left, is the touching of the physical complex in such a manner as to attract the mind/body/spirit complex back thereunto or to damage the means by which that which you call ectoplasm is being recalled.
+This is a misperceived concept. The mind/body/spirit complex which freely leaves the third density physical complex is vulnerable when the appropriate protection is not at hand. You may perceive carefully that very few entities which choose to leave their physical complexes are doing work of such a nature as to attract the polarized attention of negatively oriented entities. The danger to most in trance state, as you term the physical complex being left, is the touching of the physical complex in such a manner as to attract the mind/body/spirit complex back thereunto or to damage the means by which that which you call ectoplasm is being recalled.
 
 Carla is an anomaly in that it is well that Carla not be touched or artificial light thrown upon it while in the trance state. However, the ectoplasmic activity is interiorized. The main difficulty, as you are aware, is then the previously discussed negative removal of the entity under its free will.
 
@@ -75,7 +75,7 @@ Your query is somewhat opaque. Please restate for specificity.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I was just guessing that since the mind/body/spirit complex is willed from the third-density body for a particular duty of service to others, that this then would create a situation primarily with respect to the first distortion where the opportunity for balancing this service by the negative service would be available and, therefore, shall I say, magically possible for the intrusion of the other polarization. Is this thinking at all correct?
+I was just guessing that since the mind/body/spirit complex is willed from the third density body for a particular duty of service to others, that this then would create a situation primarily with respect to the first distortion where the opportunity for balancing this service by the negative service would be available and, therefore, shall I say, magically possible for the intrusion of the other polarization. Is this thinking at all correct?
 {{< /r >}}
 {{< l a="Ra" >}}
 No. The free will of Carla is indeed a necessary part of the opportunity afforded the Orion group. However, this free will and the first distortion applies only to Carla. The entire hope of the Orion group is to infringe upon free will without losing polarity. Thus this group, if represented by a wise entity, attempts to be clever.

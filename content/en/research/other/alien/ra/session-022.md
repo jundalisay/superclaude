@@ -161,7 +161,7 @@ There were those peripherally associated with this culture which did not stay. H
 
 {{< r a="Don Elkins" >}}Are all of these entities still with us in this cycle?{{< /r >}}
 
-{{< l a="Ra" >}}The entities repeating the 3rd-density major cycle have, in some few cases, been able to leave. 
+{{< l a="Ra" >}}The entities repeating the 3rd density major cycle have, in some few cases, been able to leave. 
 
 These entities have chosen to join their brothers and sisters.{{< /l >}}
 

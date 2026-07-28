@@ -57,7 +57,7 @@ Thus, our visit was relatively short, for we found ourselves in the hypocritical
 
 {{< r a="Don Elkins" >}}Was it possible to take an Earthling and place him on Venus? Would he survive?{{< /r >}}
 
-{{< l a="Ra" >}}The 3rd-density conditions are not hospitable to the life-forms of your peoples.
+{{< l a="Ra" >}}The 3rd density conditions are not hospitable to the life-forms of your peoples.
 
 The fifth and sixth dimensions of that planetary sphere are quite conducive to growing/learning/teaching.{{< /l >}}
 
@@ -83,7 +83,7 @@ We were allowed this experiment by the Council which guards this planet.{{< /l >
 
 {{< r a="Don Elkins" >}}Both.{{< /r >}}
 
-{{< l a="Ra" >}}In your past, there were 3rd-density beings on Maldek.
+{{< l a="Ra" >}}In your past, there were 3rd density beings on Maldek.
 
 They destroyed their planet and were forced to find room for themselves on this 3rd density which is the only one in your solar system at their time/space present which was hospitable and capable of offering the lessons necessary to decrease their mind/body/spirit distortions with respect to the Law of One.{{< /l >}}
 
@@ -115,7 +115,7 @@ Thus, the illusion is created of light, or more properly but less understandably
 
 This is in varying degrees of intensity. The spirit complex of each harvested entity moves along the line of light until the light grows too glaring, at which time the entity stops.
 
-This entity may have barely reached 3rd density or may be very, very close to the ending of the 3rd-density light/love distortion vibratory complex.
+This entity may have barely reached 3rd density or may be very, very close to the ending of the 3rd density light/love distortion vibratory complex.
 
 Nevertheless, those who fall within this octave of intensifying light/love then experience a major cycle during which the opportunities are many for the discovery of the distortions which are inherent in each entity and, therefore, the lessening of these distortions.{{< /l >}}
 

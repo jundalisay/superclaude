@@ -42,7 +42,7 @@ This desire will then tend to create opportunities to regain negative polarity.{
 
 
 {{< r a="Don Elkins" >}}
-The 3rd-density entity on this planet calls an Orion Crusader. Is this a polarizing type of action that affects both entities?
+The 3rd density entity on this planet calls an Orion Crusader. Is this a polarizing type of action that affects both entities?
 {{< /r >}}
 
 
@@ -57,17 +57,17 @@ The Orion response increases its negative polarity as it is disseminating the ne
 
 There are instances, however, when the contact becomes a contest which is prototypical of negativity. 
 
-In this contest, the caller will attempt, not to ask for aid, but to demand results. Since the third-density negatively oriented harvestable entity has at its disposal an incarnative experiential nexus and since Orion Crusaders are, in a great extent, bound by the first distortion in order to progress, the Orion entity is vulnerable to such bidding if properly done. 
+In this contest, the caller will attempt, not to ask for aid, but to demand results. Since the third density negatively oriented harvestable entity has at its disposal an incarnative experiential nexus and since Orion Crusaders are, in a great extent, bound by the first distortion in order to progress, the Orion entity is vulnerable to such bidding if properly done. 
 
-In this case, the third-density entity becomes master and the Orion Crusader becomes entrapped and can be bid. This is rare. 
+In this case, the third density entity becomes master and the Orion Crusader becomes entrapped and can be bid. This is rare. 
 
-However, when it has occurred, the Orion entity or social memory complex involved has experienced loss of negative polarity in proportion to the strength of the bidding third-density entity.
+However, when it has occurred, the Orion entity or social memory complex involved has experienced loss of negative polarity in proportion to the strength of the bidding third density entity.
 {{< /l >}}
 
 
 {{< r a="Don Elkins" >}} You mentioned that this will work when the bidding is properly done. What did you mean?{{< /r >}}
 
-{{< l a="Ra" >}} To properly bid is to be properly negative. The percentage of thought and behavior involving service to self must approach 99% in order for a third-density negative entity to be properly configured for such a contest of bidding.{{< /l >}}
+{{< l a="Ra" >}} To properly bid is to be properly negative. The percentage of thought and behavior involving service to self must approach 99% in order for a third density negative entity to be properly configured for such a contest of bidding.{{< /l >}}
 
 {{< r a="Don Elkins" >}} What method of communication with the Orion entity would a negative bidder of this type use?{{< /r >}}
 

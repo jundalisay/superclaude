@@ -14,7 +14,8 @@ March 18, 1981
 
 
 
-{{< r a="Don Elkins" >}}I’m trying to make a simple model of the portion of the universe that we find ourselves in. Starting with the Logos, or sub-Logos, our sun, we have white light emanating from this. This is made up of frequencies ranging from the red to the violet. 
+{{< r a="Don Elkins" >}}
+I’m trying to make a simple model of the portion of the universe that we find ourselves in. Starting with the Logos, or sub-Logos, our sun, we have white light emanating from this. This is made up of frequencies ranging from the red to the violet. 
 
 I am assuming that this white light then contains the experiences through all of the densities and as we go into the eighth density we go into a black hole which emerges on the other side as another Logos or sun and starts another octave of experience.{{< /r >}}
 
@@ -37,15 +38,35 @@ Therefore, the concept of moving through the black hole of the ultimate spiritua
 
 {{< r a="Don Elkins" >}}Then the bodily energy centers for an individual would be, assuming that the individual evolves in a straight line from first through to eighth density, would each of these energy centers, centers or chakras be activated to completion if everything worked as it should? Would each be activated to completion and greatest intensity by the end of the experience in each density?{{< /r >}}
 
-{{< l a="Ra" >}}Hypothetically speaking, this is correct. However, the fully activated being is rare. Much emphasis is laid upon the harmonies and balances of individuals. It is necessary for graduation across densities for the primary energy centers to be functioning in such a way as to communicate with intelligent infinity and to appreciate and bask in this light in all of its purity. However, to fully activate each energy center is the mastery of few, for each center has a variable speed of rotation or activity. The important observation to be made once all necessary centers are activated to the minimal necessary degree is the harmony and balance between these energy centers.{{< /l >}}
+{{< l a="Ra" >}}
+Hypothetically speaking, yes. 
 
-{{< r a="Don Elkins" >}}Thank you. Taking as an example the transition between second and third density, when this transition takes place, does the frequency of vibration which forms the photon (the core of all particles of the density), does this frequency increase from a frequency corresponding to second density or orange, the color orange, the frequency we measure for the color orange, to the frequency we measure for the color yellow? What I am getting at is, do all the vibrations that form the density, basic vibrations of the photon, increase in a quantum fashion over a relatively short period of time?{{< /r >}}
+However, the fully activated being is rare. 
 
-{{< l a="Ra" >}}This is correct. Then you see within each density the gradual up-grading of vibratory levels.{{< /l >}}
+Much emphasis is laid upon the harmonies and balances of individuals. It is necessary for graduation across densities for the primary energy centers to be functioning in such a way as to communicate with intelligent infinity and to appreciate and bask in this light in all of its purity. 
 
-{{< r a="Don Elkins" >}}Would— this is a guess. Would the frequency going from second to third increase from the middle orange frequency or average orange frequency to the middle yellow frequency or average yellow frequency?{{< /r >}}
+However, to fully activate each energy center is the mastery of few, for each center has a variable speed of rotation or activity. The important observation to be made once all necessary centers are activated to the minimal necessary degree is the harmony and balance between these energy centers.
+{{< /l >}}
 
-{{< l a="Ra" >}}This query is indeterminate. We shall attempt to be of aid. However, the frequency that is the basis of each density is what may be called a true color. This term is impossible to define given your system of sensibilities and scientific measurements, for color has vibratory characteristics both in space/time and in time/space. The true color is then overlaid and tinged by the rainbow of the various vibratory levels within that density and the attraction vibrations of the next true color density.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Taking as an example the transition between 2nd and 3rd density, when this transition takes place, does the frequency of vibration which forms the photon (the core of all particles of the density), does this frequency increase from a frequency corresponding to second density or orange, the color orange, the frequency we measure for the color orange, to the frequency we measure for the color yellow? 
+
+What I am getting at is, do all the vibrations that form the density, basic vibrations of the photon, increase in a quantum fashion over a relatively short period of time?{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. Then you see within each density the gradual up-grading of vibratory levels.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Would the frequency going from 2nd to 3rd increase from the middle orange frequency or average orange frequency to the middle yellow frequency or average yellow frequency?{{< /r >}}
+
+{{< l a="Ra" >}}
+This query is indeterminate. 
+
+The frequency that is the basis of each density is what may be called a true color. This term is impossible to define given your system of sensibilities and scientific measurements, for color has vibratory characteristics both in space/time and in time/space. 
+
+The true color is then overlaid and tinged by the rainbow of the various vibratory levels within that density and the attraction vibrations of the next true color density.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}How long was the time of transition on this planet between second and third density? Generation and a half I believe. Is that correct?{{< /r >}}
 
@@ -53,7 +74,7 @@ Therefore, the concept of moving through the black hole of the ultimate spiritua
 
 {{< r a="Don Elkins" >}}Then what will be the time of transition on this planet from third to fourth density?{{< /r >}}
 
-{{< l a="Ra" >}}This is difficult to estimate due to the uncharacteristic anomalies of this transition. There are at this space/time nexus beings incarnate which have begun fourth-density work. However, the third-density climate of planetary consciousness is retarding the process. At this particular nexus the possibility/probability vortices indicate somewhere between 100 and 700 of your years as transition period. This cannot be accurate due to the volatility of your peoples at this space/time.{{< /l >}}
+{{< l a="Ra" >}}This is difficult to estimate due to the uncharacteristic anomalies of this transition. There are at this space/time nexus beings incarnate which have begun fourth-density work. However, the third density climate of planetary consciousness is retarding the process. At this particular nexus the possibility/probability vortices indicate somewhere between 100 and 700 of your years as transition period. This cannot be accurate due to the volatility of your peoples at this space/time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Has the vibration of the basic, of the photon, of all our particles increased in frequency already?{{< /r >}}
 
@@ -75,20 +96,37 @@ Therefore, the concept of moving through the black hole of the ultimate spiritua
 
 {{< l a="Ra" >}}This is partially correct. The other portion of healing has to do with forgiveness of self and a greatly heightened respect for the self. This may conveniently be expressed by taking care in dietary matters. This is quite frequently a part of the healing and forgiving process. Your basic premise is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In dietary matters, what would be the foods that one would include and what would be the foods that one would exclude in a general way for the most or the greatest care of one’s bodily complex?{{< /r >}}
+{{< r a="Don Elkins" >}}In dietary matters, what would be the foods that one would include and exclude for the greatest care of one’s body?{{< /r >}}
 
-{{< l a="Ra" >}}Firstly, we underline and emphasize that this information is not to be understood literally but as a link or psychological nudge for the body and the mind and spirit. Thus it is the care and respect for the self that is the true thing of importance. In this light we may iterate the basic information given for Carla’s diet. The vegetables, the fruits, the grains, and to the extent necessary for the individual metabolism, the animal products. These are those substances showing respect for the self. In addition, though this has not been mentioned, for Carla is not in need of purification, those entities in need of purging the self of a poison thought-form or emotion complex do well to take care in following a program of careful fasting until the destructive thought-form has been purged analogously with the by-products of ridding the physical vehicle of excess material. Again you see the value not to the body complex but used as a link for the mind and spirit. Thus self reveals self to self.{{< /l >}}
+{{< l a="Ra" >}}
+<!-- Firstly, we underline and emphasize that this information is not to be understood literally but as a link or psychological nudge for the body and the mind and spirit. Thus  -->
 
-{{< r a="Don Elkins" >}}Thank you. A very important concept. Does the fact that basic vibration that we experience now is green true color, or fourth density, account for the fact that there are many mental effects upon material objects that are now observable for the first time in a mass way like the bending of metal by mind?{{< /r >}}
+It is the care and respect for the self that is the true thing of importance. 
 
-{{< l a="Ra" >}}This shall be the final query in total of this working. This is not only correct but we suggest you take this concept further and understand the great number of entities with the so-called mental diseases being due to the effect of this green-ray true color upon the mental configurations of those unready mentally to face the self for the first time.
+We may iterate the basic information given for Carla’s diet. 
 
-Are there any brief queries before we close?{{< /l >}}
+The vegetables, fruits, grains, and to the extent necessary for the individual metabolism, the animal products. 
 
-{{< r a="Don Elkins" >}}Just two. With respect to what you just said, would then people incarnating here by seniority of vibration who incarnate for the service-to-self path be ones who would have extreme difficulty mentally with this green-ray vibration?{{< /r >}}
+These are those substances showing respect for the self. 
 
-{{< l a="Ra" >}}This is incorrect. It is rather the numbers who have distracted themselves and failed to prepare for this transition yet who are somewhat susceptible to its influence who may be affected.{{< /l >}}
+Carla is not in need of purification.
 
----
+But those entities in need of purging of a poison thought-form or emotion complex should do careful fasting until the destructive thought-form has been purged analogously with the by-products of ridding the physical vehicle of excess material.
 
-Would you like me to format Session 41 in the same style next?
+The value is not to the body complex but used as a link for the mind and spirit. Thus self reveals self to self.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Does the fact that basic vibration that we experience now is green true color, or fourth density, account for the fact that there are many mental effects upon material objects that are now observable for the first time in a mass way like the bending of metal by mind?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes. We suggest you take this concept further and understand the great number of entities with the mental diseases due to the effect of this green-ray true color upon the mental configurations of those unready mentally to face the self for the first time.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Would then people incarnating here by seniority of vibration who incarnate for the service-to-self path be ones who would have extreme difficulty mentally with this green-ray vibration?{{< /r >}}
+
+{{< l a="Ra" >}}
+No. It is rather the numbers who have distracted themselves and failed to prepare for this transition yet who are somewhat susceptible to its influence who may be affected.{{< /l >}}
+

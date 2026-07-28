@@ -86,13 +86,23 @@ However, the progression is from the galaxy spiraling energy to the solar spiral
 
 {{< r a="Don Elkins" >}}How does the second density progress to the third?{{< /r >}}
 
-{{< l a="Ra" >}}The second density strives towards the third density which is the density of self-consciousness or self-awareness. The striving takes place through the higher second-density forms who are invested by third-density beings with an identity to the extent that they become self-aware mind/body complexes, thus becoming mind/body/spirit complexes and entering third density, the first density of consciousness of spirit.{{< /l >}}
+{{< l a="Ra" >}}
+The 2nd density strives towards the 3rd density which is the density of self-consciousness or self-awareness. 
+
+The striving takes place through the higher 2nd-density forms who are invested by 3rd density beings with an identity to the extent that they become self-aware mind/body complexes, thus becoming mind/body/spirit complexes and entering third density, the first density of consciousness of spirit.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}What is the density of Earth now?{{< /r >}}
 
-{{< l a="Ra" >}}It is third density in its beingness of mind/body/spirit complexes. It is now in a space/time continuum, fourth density. This is causing a somewhat difficult harvest.{{< /l >}}
+{{< l a="Ra" >}}
+It is 3rd density in its beingness of mind/body/spirit complexes. It is now in a space/time continuum, 4th density. 
 
-{{< r a="Don Elkins" >}}How does a 3rd-density planet become a 4th-density?{{< /r >}}
+This is causing a somewhat difficult harvest.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+How does a 3rd density planet become a 4th-density?{{< /r >}}
+
 
 {{< l a="Ra" >}}
 The 4th density is as regularized in its approach as the striking of a clock upon the hour. 
@@ -103,8 +113,10 @@ However, the thought-forms of your people during this transition period are such
 
 Thus, the entry into the vibration of love, sometimes called by your people the vibration of understanding, is not effective with the present societal complex. 
 
-Thus, the harvest shall be such that many will repeat the third-density cycle. The energies of your Wanderers, your teachers, and your adepts at this time are all bent upon increasing the harvest. However, there are few to harvest.{{< /l >}}
+Thus, the harvest shall be such that many will repeat the 3rd density cycle. 
 
+The energies of your Wanderers, your teachers, and your adepts at this time are all bent upon increasing the harvest. However, there are few to harvest.
+{{< /l >}}
 
 
 <!-- 13.24 Questioner: I would like to apologize for asking sometimes wrong or inappropriate questions. It’s difficult sometimes to ask precisely the right question. I don’t wish to go over any ground [that we’ve already covered]. I notice this period is slightly shorter than previous periods. Is there a reason for this?

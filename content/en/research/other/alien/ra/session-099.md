@@ -72,13 +72,32 @@ We now speak of that genie, or elemental, or mythic figure, culturally determine
 
 Therefore, we may say that ending a working at approximately this amount of energy expenditure; that is, some point soon following upon the sound vibration of which you speak, would be appropriate and, insofar as we may determine, may well extend the incarnational amount of your space/time which Carla shall be able to offer to this contact.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In that case I will just ask one additional short question as we terminate for this session. May I ask if the Logos of this system planned for the mating process as possibly depicted in Card Six— I don’t know if this is related— by some type of DNA imprinting as has been studied by our science. In many second-density creatures seem to have some sort of imprinting that creates a lifetime mating relationship and I was wondering if this was designed by the Logos for that particular mechanism and if it was also carried into third density?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Did the Logos of this system plan for the mating process as possibly depicted in Card Six— I don’t know if this is related— by some type of DNA imprinting as has been studied by our science. 
 
-{{< l a="Ra" >}}There are some of your second-density fauna which have instinctually imprinted monogamous mating processes. The third-density physical vehicle which is the basic incarnational tool of manifestation upon your planet arose from entities thusly imprinted, all the aforesaid being designed by the Logos.
+In many 2nd-density creatures seem to have some sort of imprinting that creates a lifetime mating relationship.
 
-The free will of third-density entities is far stronger than the rather mild carryover from second-density DNA encoding and it is not part of the conscious nature of many of your mind/body/spirit complexes to be monogamous due to the exercise of free will. However, as has been noted there are many signposts in the deep mind indicating to the alert adept the more efficient use of catalyst. As we have said, the Logos of your peoples has a bias towards kindness.{{< /l >}}
+I was wondering if this was designed by the Logos for that particular mechanism and if it was also carried into 3rd density?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}Thank you. In closing I will just ask if there is anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
+
+{{< l a="Ra" >}}
+There are some of your 2nd-density fauna which have instinctually imprinted monogamous mating processes. 
+
+The 3rd density physical vehicle which is the basic incarnational tool of manifestation on your planet arose from entities thusly imprinted, all the aforesaid being designed by the Logos.
+
+The free will of 3rd density entities is far stronger than the rather mild carryover from 2nd-density DNA encoding.
+
+It is not part of the conscious nature of many of your mind/body/spirit complexes to be monogamous due to the exercise of free will. 
+
+However, as has been noted there are many signposts in the deep mind indicating to the alert adept the more efficient use of catalyst. 
+
+The Logos of your peoples has a bias towards kindness.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
 {{< l a="Ra" >}}We note the relative discomfort of this group at this space/time and offer those previous statements made by Ra as possible aids to the regaining of the extraordinary harmony which this group has the capability of experiencing in a stable manner.
 

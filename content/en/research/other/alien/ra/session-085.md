@@ -25,7 +25,7 @@ We commend the vigilance and care of this group.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What is the nature of this crisis?{{< /r >}}
 
-{{< l a="Ra" >}}The nature of this crisis is the determination of the relative polarity of your companion and yourselves. You are in the position of being in the third-density illusion and consequently having the conscious collective magical ability of the neophyte, whereas your companion is most adept. However, the faculties of will and faith and the calling to the light have been used by this group to the exclusion of any significant depolarization from the service-to-others path.
+{{< l a="Ra" >}}The nature of this crisis is the determination of the relative polarity of your companion and yourselves. You are in the position of being in the third density illusion and consequently having the conscious collective magical ability of the neophyte, whereas your companion is most adept. However, the faculties of will and faith and the calling to the light have been used by this group to the exclusion of any significant depolarization from the service-to-others path.
 
 If your companion can possibly depolarize this group it must do so and that quickly, for in this unsuccessful attempt at exploring the wisdom of separation it is encountering some depolarization. This shall continue. Therefore, the efforts of your companion are pronounced at this space/time and time/space nexus.{{< /l >}}
 
@@ -49,7 +49,7 @@ If your companion can possibly depolarize this group it must do so and that quic
 
 {{< l a="Ra" >}}We are unsure as to our success in realigning your modes of mentation. We may, however, comment.
 
-The polarization process, as it enters fourth density, is one which occurs with full knowledge of the veiling process which has taken place in third density. This veiling process is that which is a portion of the third-density experience. The knowledge and memory of the outcome of this and all portions of the third-density experience informs the higher-density polarized entity. It, however, does not influence the choice which has been made and which is the basis for further work past third density in polarization. Those which have chosen the service-to-others* path have simply used the veiling process in order to potentiate that which is not. This is an entirely acceptable method of self-knowledge of and by the Creator.
+The polarization process, as it enters fourth density, is one which occurs with full knowledge of the veiling process which has taken place in third density. This veiling process is that which is a portion of the third density experience. The knowledge and memory of the outcome of this and all portions of the third density experience informs the higher-density polarized entity. It, however, does not influence the choice which has been made and which is the basis for further work past third density in polarization. Those which have chosen the service-to-others* path have simply used the veiling process in order to potentiate that which is not. This is an entirely acceptable method of self-knowledge of and by the Creator.
 
 * This should be service-to-self. Don and Ra corrected the error later in the session.{{< /l >}}
 

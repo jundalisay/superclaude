@@ -98,7 +98,7 @@ Thus true color orange is that which it is, without difference. However, the man
 
 {{< l a="Ra" >}}This information has been covered in a previous session. To perhaps simplify your asking, each center may be seen to be activated potentially in third density, the late second-density entities having the capability, if efficient use is made of experience, of vibrating and activating the green-ray energy center.
 
-The third-density being, having the potential for complete self-awareness, thus has the potential for the minimal activation of all energy centers. The fourth, fifth, and sixth densities are those refining the higher energy centers. The seventh density is a density of completion and the turning towards timelessness or foreverness.{{< /l >}}
+The third density being, having the potential for complete self-awareness, thus has the potential for the minimal activation of all energy centers. The fourth, fifth, and sixth densities are those refining the higher energy centers. The seventh density is a density of completion and the turning towards timelessness or foreverness.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Well, then would an animal in second density have all of the energy centers in some way in its being but just not activated?{{< /r >}}
 

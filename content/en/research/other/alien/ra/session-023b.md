@@ -22,7 +22,7 @@ As the cycle ended 25,000 years ago, what was the reaction of the Confederation 
 Was any action taken immediately, or did you wait for a call?{{< /r >}}
 
 {{< l a="Ra" >}}
-The Council of Saturn acted only in allowing the entry into 3rd density of other mind/body/spirit complexes of third density, not Wanderers, but those who sought further third-density experience. 
+The Council of Saturn acted only in allowing the entry into 3rd density of other mind/body/spirit complexes of third density, not Wanderers, but those who sought further third density experience. 
 
 This was done randomly so that free will would not be violated for there was not yet a call.{{< /l >}}
 

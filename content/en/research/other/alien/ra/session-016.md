@@ -1,6 +1,6 @@
 ---
 heading: Session 16
-title: "Guardians"
+title: "Fourth Density"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
@@ -20,7 +20,13 @@ January 31, 1981
 
 {{< r a="Don Elkins" >}}But it seems to me that it would be the free will of, say the Orion group, to interfere. How is this balanced against the other concept you just gave?{{< /r >}}
 
-{{< l a="Ra" >}}The balancing is from dimension to dimension. The attempts of the so-called Crusaders to interfere with free will are acceptable upon the dimension of their understanding. However, the mind/body/spirit complexes of this dimension you call third form a dimension of free will which is not able to, shall we say, recognize in full, the distortions towards manipulation. Thus, in order to balance the dimensional variances in vibration, a quarantine was set up, this being a balancing situation whereby the free will of the Orion group is not stopped but given a challenge. Meanwhile, the third-density group is not hindered from free choice.{{< /l >}}
+{{< l a="Ra" >}}The balancing is from dimension to dimension. The attempts of the so-called Crusaders to interfere with free will are acceptable upon the dimension of their understanding. 
+
+However, the mind/body/spirit complexes of this dimension you call third form a dimension of free will which is not able to, shall we say, recognize in full, the distortions towards manipulation. 
+
+Thus, in order to balance the dimensional variances in vibration, a quarantine was set up, this being a balancing situation whereby the free will of the Orion group is not stopped but given a challenge. 
+
+Meanwhile, the 3rd density group is not hindered from free choice.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Could these windows that occur… let the Orion group come through once in a while… does this have anything to do with this free will distortion?{{< /r >}}
 
@@ -78,20 +84,44 @@ January 31, 1981
 
 {{< r a="Don Elkins" >}}Was the recipient of the laws… of the Ten Commandments positively or negatively oriented?{{< /r >}}
 
-{{< l a="Ra" >}}The recipient was of extreme positivity, thus accounting for some of the pseudo-positive characteristics of the information received. As with contacts which are not successful, Moishe did not remain a credible influence among those who had first heard the philosophy of One. He was removed from this third-density vibratory level in a lessened or saddened state, having lost the honor and faith with which he had begun the conceptualization of the Law of One and the freeing of those who were of his tribes.{{< /l >}}
+{{< l a="Ra" >}}
+The recipient was of extreme positivity, thus accounting for some of the pseudo-positive characteristics of the information received. 
 
-{{< r a="Don Elkins" >}}If this entity was positively oriented, how was the Orion group able to contact him?{{< /r >}}
+As with contacts which are not successful, Moishe did not remain a credible influence among those who had first heard the philosophy of One.
 
-{{< l a="Ra" >}}This was an intensive battleground between positively oriented forces of Confederation origin and negatively oriented sources. Moishe was open to impression and received the Law of One in its most simple form. However, the information became negatively oriented due to his people’s pressure to do specific physical things in the third-density planes. This left him open for the type of information and philosophy of a self-service nature.{{< /l >}}
+He was removed from this 3rd density vibratory level in a lessened or saddened state, having lost the honor and faith with which he had begun the conceptualization of the Law of One and the freeing of those who were of his tribes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}It would be unlike an entity fully aware of the knowledge of the Law of One to ever say “Thou shalt not.” Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< r a="Don Elkins" >}}
+If Moses was positively oriented, how was the Orion group able to contact him?{{< /r >}}
+
+
+{{< l a="Ra" >}}This was an intensive battleground between positively oriented forces of Confederation origin and negatively oriented sources. 
+
+Moishe was open to impression and received the Law of One in its simplest form. 
+
+However, the information became negatively oriented due to his people’s pressure to do specific physical things in the 3rd density planes.
+
+This left him open for the type of information and philosophy of a self-service nature.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+It would be unlike an entity fully aware of the knowledge of the Law of One to ever say “Thou shalt not.”{{< /r >}}
+
+{{< l a="Ra" >}}Yes.{{< /l >}}
+
 {{< n n="The Sassani confirm that the Anunnaki’s Ten Commandments were later corrupted by scribes." >}}
+
 
 {{< r a="Don Elkins" >}}Can you give me some kind of history of your social memory complex and how you became aware of the Law of One?{{< /r >}}
 
-{{< l a="Ra" >}}The path of our learning is graven in the present moment. There is no history, as we understand your concept. Picture, if you will, a circle of being. We know the alpha and omega as infinite intelligence. The circle never ceases. It is present. The densities we have traversed at various points in the circle correspond to the characteristics of cycles:
+{{< l a="Ra" >}}
+The path of our learning is graven in the present moment. There is no history, as we understand your concept. 
+
+Imagine a circle of being. We know the alpha and omega as infinite intelligence. The circle never ceases. It is present. 
+
+The densities we have traversed at various points in the circle correspond to the characteristics of cycles:
+
 1. The cycle of awareness
 2. The cycle of growth
 3. The cycle of self-awareness
@@ -101,15 +131,34 @@ January 31, 1981
 7. The gateway cycle
 8. The octave which moves into a mystery we do not plumb.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You said that the Confederation said that there is actually no past or future… all is present. Would this be a good analogy?{{< /r >}}
+{{< r a="Don Elkins" >}}
+You said that the Confederation said that there is actually no past or future… all is present.{{< /r >}}
 
-{{< l a="Ra" >}}There is past, present, and future in third density. We are removed from the space/time continuum, it may be seen that in the cycle of completion there exists only the present. We seek to learn this understanding. At the seventh level or dimension, we shall, if our humble efforts are sufficient, become one with all, thus having no memory, no identity, no past or future, but existing in the all.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does this mean that you would have awareness of all that is?{{< /r >}}
+{{< l a="Ra" >}}
+There is past, present, and future in 3rd density.
 
-{{< l a="Ra" >}}This is partially correct. It would not be our awareness, but simply awareness of the Creator. In the Creator is all that there is. Therefore, this knowledge would be available.{{< /l >}}
+We are removed from the space/time continuum, it may be seen that in the cycle of completion there exists only the present. 
 
-{{< r a="Don Elkins" >}}I was wondering how many inhabited planets there are in our galaxy and if they all reach higher density by the Law of One, or if there is any other way— it doesn’t seem to me that there would be any other way to reach higher density. How many inhabited planets are there in our galaxy?{{< /r >}}
+We seek to learn this understanding. 
+
+At the 7th level or dimension, we shall become one with all, thus having no memory, no identity, no past or future, but existing in the all.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Does this mean that you would have awareness of all that is?{{< /r >}}
+
+
+{{< l a="Ra" >}}This is partially correct. It would not be our awareness, but simply awareness of the Creator. In the Creator is all that there is.
+
+Therefore, this knowledge would be available.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I was wondering how many inhabited planets there are in our galaxy and if they all reach higher density by the Law of One, or if there is any other way— it doesn’t seem to me that there would be any other way to reach higher density. 
+
+How many inhabited planets are there in our galaxy?{{< /r >}}
+
 
 {{< l a="Ra" >}}Approximately one fifth of all planetary entities contain awareness of one or more densities. Some planetary spheres are hospitable only for certain densities. Your Earth, for instance, is at this time hospitable to levels or densities one through four.{{< /l >}}
 
@@ -202,7 +251,7 @@ The other information must be withheld. The free will of your future is not maki
 
 {{< r a="Don Elkins" >}}Are these thought-forms able to attack only cattle or can they also attack human beings?{{< /r >}}
 
-{{< l a="Ra" >}}These thought-forms cannot attack third-density beings.{{< /l >}}
+{{< l a="Ra" >}}These thought-forms cannot attack third density beings.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell me of the silver flecks that we have found sometimes on our faces or elsewhere?{{< /r >}}
 
@@ -216,21 +265,50 @@ The other information must be withheld. The free will of your future is not maki
 
 {{< l a="Ra" >}}Entities consciously do not create these. The roots of mind complex, having touched in understanding, intelligent infinity, create them.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What are the conditions in fourth density?{{< /r >}}
+## 4th Density
 
-{{< l a="Ra" >}}There are no words for positively describing fourth density. Beyond fourth density our ability grows more limited still until we become without words. That which fourth density is not: it is not of words, unless chosen. It is not of heavy chemical vehicles for body complex activities. It is not of disharmony within self. It is not of disharmony within peoples. It is not within limits of possibility to cause disharmony in any way.
+{{< r a="Don Elkins" >}}What are the conditions in 4th density?{{< /r >}}
 
-Approximations of positive statements: it is a plane of a type of bipedal vehicle which is much denser and more full of life; it is a plane wherein one is aware of the thoughts of other-selves; it is a plane where one is aware of the vibrations of other-selves; it is a plane of compassion and understanding of the sorrows of third density; it is a plane striving towards wisdom or light; it is a plane wherein individual differences are pronounced although automatically harmonized by group consensus.{{< /l >}}
+{{< l a="Ra" >}}
+There are no words for positively describing 4rth density.
 
-{{< r a="Don Elkins" >}}Could you define density?{{< /r >}}
+Beyond 4th density our ability grows more limited still until we become without words.
 
-{{< l a="Ra" >}}Density is a mathematical word. The closest analogy is that of music, whereby after seven notes on your western scale, the eighth note begins a new octave. Within your great octave of existence which we share with you, there are seven octaves or densities. Within each density there are seven sub-densities. Within each sub-density, seven sub-sub-densities, and so on infinitely.{{< /l >}}
+The 4th density is:
+- not of words, unless chosen
+- not of heavy chemical vehicles for body complex activities
+- not of disharmony within self
+- not of disharmony within peoples
+- not within limits of possibility to cause disharmony in any way
 
-{{< r a="Don Elkins" >}}Each density has seven sub-densities which again have seven sub-densities which again have seven sub-densities. This expands at an extremely large rate as things are increased in powers of seven. Does this mean that in any density level anything that you can think of is happening? And many things that you never thought of are happening… everything is happening… this is confusing…{{< /r >}}
+The 4th density is a plane:
+- of a type of bipedal vehicle which is much denser and fuller of life
+- wherein one is aware of the thoughts and vibrations of other-selves
+- of compassion and understanding of the sorrows of 3rd density
+- striving towards wisdom or light
+- wherein individual differences are pronounced although automatically harmonized by group consensus.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does what we do, when we think of possibilities that can occur, say daydreaming: Do these become real in these densities?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Could you define density?{{< /r >}}
 
-{{< l a="Ra" >}}This depends upon the nature of the daydream. This is a large subject. If the daydream is one which attracts to self, this then becomes reality to self. If it is contemplative general daydream, this may enter the infinity of possibility/probability complexes and occur elsewhere, having no particular attachment to the energy fields of the creator.{{< /l >}}
+{{< l a="Ra" >}}
+Density is a mathematical word. The closest analogy is that of music, whereby after seven notes on your western scale, the eighth note begins a new octave. 
+
+Within your great octave of existence which we share with you, there are seven octaves or densities. Within each density there are seven sub-densities. Within each sub-density, seven sub-sub-densities, and so on infinitely.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}Each density has seven sub-densities which again have seven sub-densities which again have seven sub-densities. This expands at an extremely large rate as things are increased in powers of seven. 
+
+Does this mean that in any density level anything that you can think of is happening? And many things that you never thought of are happening… everything is happening… this is confusing…
+
+Does what we do, when we think of possibilities that can occur, say daydreaming: Do these become real in these densities?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+This depends on the nature of the daydream. This is a large subject. 
+
+If the daydream is one which attracts to self, this then becomes reality to self. If it is contemplative general daydream, this may enter the infinity of possibility/probability complexes and occur elsewhere, having no particular attachment to the energy fields of the creator.{{< /l >}}
 
 {{< r a="Don Elkins" >}}If I were to daydream strongly about building a ship, would this occur in one of these other densities?{{< /r >}}
 
@@ -238,7 +316,7 @@ Approximations of positive statements: it is a plane of a type of bipedal vehicl
 
 {{< r a="Don Elkins" >}}And then if, say, an entity daydreams strongly about battling another entity, would this occur?{{< /r >}}
 
-{{< l a="Ra" >}}In this case the entity’s fantasy concerns the self and other-self; this binds the thought-form to the possibility/probability complex connected with the self which is the creator of this thought-form. This then would increase the possibility/probability of bringing this into third-density occurrence.{{< /l >}}
+{{< l a="Ra" >}}In this case the entity’s fantasy concerns the self and other-self; this binds the thought-form to the possibility/probability complex connected with the self which is the creator of this thought-form. This then would increase the possibility/probability of bringing this into third density occurrence.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Does the Orion group use this principle to create conditions brought about to suit their purpose?{{< /r >}}
 
@@ -252,7 +330,7 @@ Approximations of positive statements: it is a plane of a type of bipedal vehicl
 
 {{< l a="Ra" >}}Wanderers become completely the creature of third density in mind/body complex. There is just as much chance of such influence to a Wanderer entity as to a mind/body/spirit complex of Earth. The only difference occurs in the spirit complex which, if it wishes, has an armor of light, if you will, which enables it to recognize more clearly that which is not as it would appropriately be desired by the mind/body/spirit complex. This is not more than a bias and cannot be called an understanding.
 
-The Wanderer is, in its own mind/body/spirit complex, less distorted towards the deviousness of third-density positive/negative confusions. Thus, it often does not recognize as easily as a more negative individual the negative nature of thoughts or beings.{{< /l >}}
+The Wanderer is, in its own mind/body/spirit complex, less distorted towards the deviousness of third density positive/negative confusions. Thus, it often does not recognize as easily as a more negative individual the negative nature of thoughts or beings.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would then the Wanderers, as they incarnate here, be high-priority targets of the Orion group?{{< /r >}}
 
@@ -261,7 +339,3 @@ The Wanderer is, in its own mind/body/spirit complex, less distorted towards the
 {{< r a="Don Elkins" >}}And if a Wanderer were to be successfully infringed upon, shall I say, by the Orion group, what would happen to this Wanderer at the harvest?{{< /r >}}
 
 {{< l a="Ra" >}}If the Wanderer entity demonstrated through action a negative orientation towards other-selves it would be as we have said before, caught into the planetary vibration and, when harvested, possibly repeat again the master cycle of third density as a planetary entity.{{< /l >}}
-
----
-
-Would you like me to continue formatting Session 17 in this same style next?

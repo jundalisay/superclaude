@@ -47,7 +47,7 @@ The second station is the evocation of the great cross of life. This is an exten
 
 You may note that in the ritual which we offered you to properly begin the Ra workings the first focus is upon the Creator. We would further note a point which is both subtile and of some interest. The upward spiraling light developed in its path by the will, and ultimately reaching an high place of mating with the inward fire of the One Creator, still is only preparation for the work upon the mind/body/spirit which may be done by the adept. There is some crystallization of the energy centers used during each working so that the magician becomes more and more that which it seeks.
 
-More importantly, the time/space mind/body/spirit analog, which is evoked as the magical personality, has its only opportunity to gain rapidly from the experience of the catalytic action available to the third-density space/time mind/body/spirit. Thus the adept is aiding the Creator greatly by offering great catalyst to a greater portion of the creation which is identified as the mind/body/spirit totality of an entity.{{< /l >}}
+More importantly, the time/space mind/body/spirit analog, which is evoked as the magical personality, has its only opportunity to gain rapidly from the experience of the catalytic action available to the third density space/time mind/body/spirit. Thus the adept is aiding the Creator greatly by offering great catalyst to a greater portion of the creation which is identified as the mind/body/spirit totality of an entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Desire and will are key factors in the process. Is this correct?{{< /r >}}
 

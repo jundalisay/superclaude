@@ -60,7 +60,7 @@ His life would then have been prolonged. But the path for his incarnation would 
 
 Thusly, one may observe the greatest amount of understanding, of which this entity was indeed capable, taking place as the entity in meditation felt and knew that the hour had come for that to be fulfilled which was its incarnation.
 
-All mind/body/spirit complexes in 3rd-density shall die to the illusion.
+All mind/body/spirit complexes in 3rd density shall die to the illusion.
 
 Each yellow-ray physical-complex body shall cease to be viable.
 

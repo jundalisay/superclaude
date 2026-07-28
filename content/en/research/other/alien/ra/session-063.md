@@ -75,7 +75,7 @@ The fourth-density entities which incarnate at this space/time are fourth densit
 
 You may note that fourth-density entities have a great abundance of compassion.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now, at present we have, in third-density incarnation on this plane, those third-density entities of the planet Earth who have been here for some number of incarnations who will graduate in the three-way split, either positive polarity remaining for fourth-density experience on this plane, the negative polarity harvestable going to another planet, and the rest unharvestable third density going to another third-density planet. In addition to these entities, I am assuming that we have here already some entities harvestable from other third-density planets who have come here and incarnated in third-density form to make the transition with this planet into fourth density, plus Wanderers.
+{{< r a="Don Elkins" >}}Now, at present we have, in third density incarnation on this plane, those third density entities of the planet Earth who have been here for some number of incarnations who will graduate in the three-way split, either positive polarity remaining for fourth-density experience on this plane, the negative polarity harvestable going to another planet, and the rest unharvestable third density going to another third density planet. In addition to these entities, I am assuming that we have here already some entities harvestable from other third density planets who have come here and incarnated in third density form to make the transition with this planet into fourth density, plus Wanderers.
 
 Is this correct?{{< /r >}}
 
@@ -95,23 +95,23 @@ Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is a recent, shall we say, phenomenon and the number is not yet in excess of 35,000 entities.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now these entities incarnate into a third-density vibratory body. I am trying to understand how this transition takes place from third to fourth density. I will take the example of one of these entities of which we are speaking who is now in a third-density body. He will grow older and then will it be necessary that he die from the third-density physical body and reincarnate in a fourth-density body for that transition?{{< /r >}}
+{{< r a="Don Elkins" >}}Now these entities incarnate into a third density vibratory body. I am trying to understand how this transition takes place from third to fourth density. I will take the example of one of these entities of which we are speaking who is now in a third density body. He will grow older and then will it be necessary that he die from the third density physical body and reincarnate in a fourth-density body for that transition?{{< /r >}}
 
 {{< l a="Ra" >}}These entities are those incarnating with what you may call a double body in activation. It will be noted that the entities birthing these fourth-density entities experience a great feeling of, shall we say, the connection and the use of spiritual energies during pregnancy. This is due to the necessity for manifesting the double body.
 
-This transitional body is one which will be, shall we say, able to appreciate fourth-density vibratory complexes as the instreaming increases without the accompanying disruption of the third-density body. If a third-density entity were, shall we say, electrically aware of fourth-density in full, the third-density electrical fields would fail due to incompatibility.
+This transitional body is one which will be, shall we say, able to appreciate fourth-density vibratory complexes as the instreaming increases without the accompanying disruption of the third density body. If a third density entity were, shall we say, electrically aware of fourth-density in full, the third density electrical fields would fail due to incompatibility.
 
-To answer your query about death, these entities will die according to third-density necessities.{{< /l >}}
+To answer your query about death, these entities will die according to third density necessities.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You are saying, then, that for the transition from third to fourth density for one of the entities with doubly activated bodies, in order to make the transition the third-density body will go through the process of what we call death. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}You are saying, then, that for the transition from third to fourth density for one of the entities with doubly activated bodies, in order to make the transition the third density body will go through the process of what we call death. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}The third and fourth, combination, density’s body will die according to the necessity of third-density mind/body/spirit complex distortions.
+{{< l a="Ra" >}}The third and fourth, combination, density’s body will die according to the necessity of third density mind/body/spirit complex distortions.
 
-We may respond to the heart of your questioning by noting that the purpose of such combined activation of mind/body/spirit complexes is that such entities, to some extent, consciously are aware of those fourth-density understandings which third density is unable to remember due to the forgetting. Thus fourth-density experience may be begun with the added attraction, to an entity oriented towards service to others, of dwelling in a troubled third-density environment and offering its love and compassion.{{< /l >}}
+We may respond to the heart of your questioning by noting that the purpose of such combined activation of mind/body/spirit complexes is that such entities, to some extent, consciously are aware of those fourth-density understandings which third density is unable to remember due to the forgetting. Thus fourth-density experience may be begun with the added attraction, to an entity oriented towards service to others, of dwelling in a troubled third density environment and offering its love and compassion.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would the purpose in transitioning to Earth prior to the complete changeover then be for the experience to be gained here during the harvesting process?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. These entities are not Wanderers in the sense that this planetary sphere is their fourth-density home planet. However, the experience of this service is earned only by those harvested third-density entities which have demonstrated a great deal of orientation towards service to others. It is a privilege to be allowed this early an incarnation as there is much experiential catalyst in service to other-selves at this harvesting.{{< /l >}}
+{{< l a="Ra" >}}This is correct. These entities are not Wanderers in the sense that this planetary sphere is their fourth-density home planet. However, the experience of this service is earned only by those harvested third density entities which have demonstrated a great deal of orientation towards service to others. It is a privilege to be allowed this early an incarnation as there is much experiential catalyst in service to other-selves at this harvesting.{{< /l >}}
 
 {{< r a="Don Elkins" >}}There are many children now who demonstrate the ability to bend metal mentally which is a fourth-density phenomenon. Would most of these children, then, be this type of entity of which we speak?{{< /r >}}
 
@@ -119,17 +119,17 @@ We may respond to the heart of your questioning by noting that the purpose of su
 
 {{< r a="Don Elkins" >}}Is the reason that they can do this and the fifth- and sixth-density Wanderers who are here cannot do it the fact that they have the fourth-density body in activation?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. Wanderers are third-density activated in mind/body/spirit and are subject to the forgetting which can only be penetrated with disciplined meditation and working.{{< /l >}}
+{{< l a="Ra" >}}This is correct. Wanderers are third density activated in mind/body/spirit and are subject to the forgetting which can only be penetrated with disciplined meditation and working.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I am assuming that the reason for this is that, first, since the entities of harvestable third density who have very recently come here, they’re coming here late enough so that they will not affect the, shall I say, polarization through their teachings. They are not infringing on the first distortion because they are children now and they won’t be old enough to really affect any of the polarization until the transition is well into transition. However, the Wanderers who came here and are older and have a greater ability to affect [polarization] must do that affecting as a function of their ability to penetrate the forgetting process in order to be within the first distortion. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is quite correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}It would seem to me that some of the harvestable third-density entities are, however, relatively old since I know of some individuals who can bend metal who are over 50 years old and some over 30. Would there be other entities who can bend metal for other reasons than having dual activated bodies?{{< /r >}}
+{{< r a="Don Elkins" >}}It would seem to me that some of the harvestable third density entities are, however, relatively old since I know of some individuals who can bend metal who are over 50 years old and some over 30. Would there be other entities who can bend metal for other reasons than having dual activated bodies?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct. Any entity who, by accident or by careful design, penetrates intelligent energy’s gateway may use the shaping powers of this energy.{{< /l >}}
 
-{{< r a="Don Elkins" >}}OK. Now as this transition continues into fourth-density activation, in order to inhabit this fourth-density sphere it will be necessary for all third-density physical bodies to go through the process which we refer to as death. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}OK. Now as this transition continues into fourth-density activation, in order to inhabit this fourth-density sphere it will be necessary for all third density physical bodies to go through the process which we refer to as death. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
@@ -147,7 +147,7 @@ We may respond to the heart of your questioning by noting that the purpose of su
 
 {{< r a="Don Elkins" >}}Sorry I am so stupid on this, but this particular concept is very difficult for me to understand. It is something that I’m afraid requires some rather dumb questions on my part to fully understand. I don’t think I’ll ever fully understand, but [inaudible] even get a grasp of it.
 
-Then as the fourth-density sphere is activated there is heat energy being generated. I assume this heat energy is generated in the third-density sphere only. Is this correct?{{< /r >}}
+Then as the fourth-density sphere is activated there is heat energy being generated. I assume this heat energy is generated in the third density sphere only. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is quite correct. The experiential distortions of each dimension are discrete.{{< /l >}}
 
@@ -161,9 +161,9 @@ Then as the fourth-density sphere is activated there is heat energy being genera
 
 {{< r a="Don Elkins" >}}I will make this statement, and you correct me. What we have is, as our planet is spiraled by the spiraling action of the entire major galaxy, as the big wheel in the sky turns and our planetary system spirals into the new position, the fourth-density vibrations become more and more pronounced. These atomic core vibrations begin to create, more and more completely, the green, that is the green core vibrations complete more and more completely the fourth-density sphere and the fourth-density bodily complexes for inhabitation of that sphere. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is partially correct. To be corrected is the concept of the creation of green-ray density bodily complexes. This creation will be gradual and will take place beginning with your third-density type of physical vehicle and, through the means of bisexual reproduction, become by evolutionary processes, the fourth-density body complexes.{{< /l >}}
+{{< l a="Ra" >}}This is partially correct. To be corrected is the concept of the creation of green-ray density bodily complexes. This creation will be gradual and will take place beginning with your third density type of physical vehicle and, through the means of bisexual reproduction, become by evolutionary processes, the fourth-density body complexes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then are these entities of which we spoke, the third-density harvestable who have been transferred, are they the ones who then will, by bisexual reproduction, create the fourth-density complexes that are necessary?{{< /r >}}
+{{< r a="Don Elkins" >}}Then are these entities of which we spoke, the third density harvestable who have been transferred, are they the ones who then will, by bisexual reproduction, create the fourth-density complexes that are necessary?{{< /r >}}
 
 {{< l a="Ra" >}}The influxes of true-color green energy complexes will more and more create the conditions in which the atomic structure of cells of bodily complexes is that of the density of love. The mind/body/spirit complexes inhabiting these physical vehicles will be, and to some extent, are, those of whom you spoke and, as harvest is completed, the harvested entities of this planetary influence.{{< /l >}}
 
@@ -171,7 +171,7 @@ Then as the fourth-density sphere is activated there is heat energy being genera
 
 {{< l a="Ra" >}}You are perceptive. You may see a three-dimensional clock face or spiral of endlessness which is planned by the Logos for this purpose.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I understand that the Logos did not plan for the heating effect that occurs in our third-density transition into fourth. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}I understand that the Logos did not plan for the heating effect that occurs in our third density transition into fourth. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct except for the condition of free will which is, of course, planned by the Logos as It, Itself, is a creature of free will. In this climate an infinity of events or conditions may occur. They cannot be said to be planned by the Logos but can be said to have been freely allowed.{{< /l >}}
 
@@ -179,7 +179,7 @@ Then as the fourth-density sphere is activated there is heat energy being genera
 
 {{< l a="Ra" >}}This is correct except that the spiritual configuration as well as mental biases of your peoples has been responsible for these distortions of the body complex of your planetary sphere.{{< /l >}}
 
-{{< r a="Don Elkins" >}}When the third density goes out of activation and into potentiation that will leave us with a planet that is first, second, and fourth density. At that time there will be no activated third-density vibrations on this planet. Am I correct in assuming that all third-density vibrations on this planet now are those vibrations that compose the bodily complexes of entities such as us; and that that is the sum total of third-density vibrations on this planet at this time?{{< /r >}}
+{{< r a="Don Elkins" >}}When the third density goes out of activation and into potentiation that will leave us with a planet that is first, second, and fourth density. At that time there will be no activated third density vibrations on this planet. Am I correct in assuming that all third density vibrations on this planet now are those vibrations that compose the bodily complexes of entities such as us; and that that is the sum total of third density vibrations on this planet at this time?{{< /r >}}
 
 {{< l a="Ra" >}}This will be the last full query of this working. Carla has energy left due to transfer but there is discomfort. We do not wish to deplete Carla. May we say that Carla seems in better configuration, despite attack, than previous workings.
 

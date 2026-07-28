@@ -55,11 +55,35 @@ The yellow ray is a focal and very powerful ray and concerns the entity in relat
 
 {{< l a="Ra" >}}The violet ray, just as the red ray, is constant in the sexual experience. Its experience by other-self may be distorted or completely ignored or not apprehended by other-self. However, the violet ray, being the sum and substance of the mind/body/spirit complex, surrounds and informs any action by a mind/body/spirit complex.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Do the energy transfers of this nature occur in fourth, fifth, sixth, and seventh density? I mean, of all the rays?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Do the energy transfers of this nature occur in 4th, 5th, 6th, and 7th density? 
 
-{{< l a="Ra" >}}The rays, as you understand them, have such a different meaning in the next density and the next and so forth that we must answer your query in the negative. Energy transfers only take place in fourth, fifth, and sixth densities. These are still of what you would call a polarized nature. However, due to the ability of these densities to see the harmonies between individuals, these entities choose those mates which are harmonious, thus allowing constant transfer of energy and the propagation of the body complexes which each density uses. The process is different in the fifth and the sixth density than you may understand it. However, it is in these cases still based upon polarity. In the seventh density there is not this particular energy exchange as it is unnecessary to recycle body complexes.{{< /l >}}
+I mean, of all the rays?{{< /r >}}
 
-{{< r a="Don Elkins" >}}I am assuming from what we have previously looked at… we have on Earth today and have had in the past fourth-, fifth-, and sixth-density Wanderers. As they come into incarnation in the physical of this density for a period as a Wanderer, what types of polarizations with respect to these various rays do they find affecting them? Can you tell me that?{{< /r >}}
+
+{{< l a="Ra" >}}
+The rays have such a different meaning in the next density and the next and so forth.
+
+So no. 
+
+Energy transfers only take place in 4th, 5th, and 6th densities.
+
+These are still polarized. 
+
+However, due to the ability of these densities to see the harmonies between individuals, these entities choose those mates which are harmonious.
+
+This allows constant transfer of energy and the propagation of the body complexes which each density uses. 
+
+The process is different in the 5th and the 6th density. 
+
+However, it is in these cases still based upon polarity. 
+
+In the 7th density, there is not this particular energy exchange as it is unnecessary to recycle body complexes.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I am assuming from what we have previously looked at… we have on Earth today and have had in the past fourth-, fifth-, and sixth-density Wanderers. As they come into incarnation in the physical of this density for a period as a Wanderer, what types of polarizations with respect to these various rays do they find affecting them? Can you tell me that?{{< /r >}}
 
 {{< l a="Ra" >}}I believe I grasp the thrust of your query. Please ask further if this answer is not sufficient.
 
@@ -81,7 +105,7 @@ The sixth-density, whose means of propagation you may liken to what you call fus
 
 {{< l a="Ra" >}}This question is sufficiently clear for us to attempt explanation of what, as you have observed, is not easily grasped material for the intellectual mind. The nature of vibration is such that it may be seen as having mathematically strait or narrow steps. These steps may be seen as having boundaries. Within each boundary there are infinite gradations of vibration or color. However, as one approaches a boundary, an effort must be made to cross that boundary. These colors are a simplistic way of expressing the boundary divisions of your density. There is also the time/space analogy which may be seen as the color itself in a modified aspect.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. Is it possible for an entity in third-density physical to vary widely across the entire band of colors or is the entity pretty well zeroed in on one color?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. Is it possible for an entity in third density physical to vary widely across the entire band of colors or is the entity pretty well zeroed in on one color?{{< /r >}}
 
 {{< l a="Ra" >}}This will be the last full question of this working. Please restate for clarity.{{< /l >}}
 

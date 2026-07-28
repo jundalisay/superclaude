@@ -68,7 +68,7 @@ Yes basically correct.
 
 However, the balanced entity will see in the seeming attack of an other-self the causes of this action which are, in most cases, of a more complex nature than the cause of the attack of the 2nd-density bull as was your example. 
 
-Thus this balanced entity would be open to many more opportunities for service to a 3rd-density other-self.{{< /l >}}
+Thus this balanced entity would be open to many more opportunities for service to a 3rd density other-self.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
@@ -106,7 +106,7 @@ We spent much time/space in contemplation of those ways of the Creator which imb
 {{< r a="Don Elkins" >}}
 I will make an analogy for this in 3rd density.
 
-Many entities here feel great compassion toward relieving the physical problems of 3rd-density other-selves by:
+Many entities here feel great compassion toward relieving the physical problems of 3rd density other-selves by:
 - bringing them food if there is hunger
 - bringing them medicine if they need medicine
 - being selfless in all of these services
@@ -182,7 +182,7 @@ How can an individual assess what energy centers within its being are activated 
 
 In examining these inappropriate activities of mind, body, and spirit complexes the entity may then place these distortions in the proper vibrational ray and thus see where work is needed.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In the last session you said, “the self, if conscious to a great enough extent of the workings of the catalyst of fasting, and the techniques of programming, may through concentration of the will and the faculty of faith alone cause reprogramming without the analogy of the fasting, diet, or other analogous body complex disciplines.” What are the techniques of programming which the higher self uses to ensure that the desired lessons are learned or attempted by the third-density self in our third-density incarnational laboratory?{{< /r >}}
+{{< r a="Don Elkins" >}}In the last session you said, “the self, if conscious to a great enough extent of the workings of the catalyst of fasting, and the techniques of programming, may through concentration of the will and the faculty of faith alone cause reprogramming without the analogy of the fasting, diet, or other analogous body complex disciplines.” What are the techniques of programming which the higher self uses to ensure that the desired lessons are learned or attempted by the third density self in our third density incarnational laboratory?{{< /r >}}
 
 {{< l a="Ra" >}}There is but one technique for this growing or nurturing of will and faith, and that is the focusing of the attention. The attention span of those you call children is considered short. The spiritual attention span of most of your peoples is that of the child. Thus it is a matter of wishing to become able to collect one’s attention and hold it upon the desired programming.
 
@@ -232,6 +232,3 @@ Is there a brief query before we leave Carla?{{< /l >}}
 
 {{< r a="Don Elkins" >}}If this is not brief enough, don’t bother to answer it. But first, I just wondered if certain parts are always removed, the same parts removed in cattle mutilations and is that related to the energy centers and why these parts, these particular parts were removed.{{< /r >}}
 
----
-
-Would you like me to format Session 43 in the same style next?

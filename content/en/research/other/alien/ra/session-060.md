@@ -75,7 +75,7 @@ This is why we suggested Carla’s thoughts dwelling upon the possibility of its
 
 {{< l a="Ra" >}}This is correct. It is our honor/duty to attempt to remove the distortions that the use of this shape has caused in the thinking of your peoples and in the activities of some of your entities. We do not deny that such shapes are efficacious, nor do we withhold the general gist of this efficacy. However, we wish to offer our understanding, limited though it is, that contrary to our naïve beliefs many thousands of your years ago the optimum shape for initiation does not exist.
 
-Let us expand upon this point. When we were aided by sixth-density entities during our own third-density experiences we, being less bellicose in the extreme, found this teaching to be of help. In our naïveté in third density we had not developed the interrelationships of your barter or money system and power. We were, in fact, a more philosophical third-density planet than your own and our choices of polarity were much more centered about the, shall we say, understanding of sexual energy transfers and the appropriate relationships between self and other-self.
+Let us expand upon this point. When we were aided by sixth-density entities during our own third density experiences we, being less bellicose in the extreme, found this teaching to be of help. In our naïveté in third density we had not developed the interrelationships of your barter or money system and power. We were, in fact, a more philosophical third density planet than your own and our choices of polarity were much more centered about the, shall we say, understanding of sexual energy transfers and the appropriate relationships between self and other-self.
 
 We spent a much larger portion of our space/time working with the unmanifested being. In this less complex atmosphere it was quite instructive to have this learn/teaching device and we benefited without the distortions we found occurring among your peoples.
 
@@ -109,19 +109,19 @@ When an entire planetary system of peoples and cultures repeatedly experiences d
 
 {{< l a="Ra" >}}You may say that your sphere is of an honey-comb nature. The center is, however, solid if you would so call that which is molten.{{< /l >}}
 
-{{< r a="Don Elkins" >}}And the honey-comb nature— are there third-density incarnate entities living in the honey-combed areas? Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}And the honey-comb nature— are there third density incarnate entities living in the honey-combed areas? Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This was at one time correct. This is not correct at this present space/time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}And there are no— are there any inner civilizations or entities living in these areas that are some of the other than physically incarnate who do come and materialize on the Earth’s surface at times?{{< /r >}}
 
-{{< l a="Ra" >}}As we have noted, there are some which do as you say. Further, there are some inner plane entities of this planet which prefer to do some materialization into third-density visible in these areas. There are also bases, shall we say, in these areas of those from elsewhere, both positive and negative. There are abandoned cities.{{< /l >}}
+{{< l a="Ra" >}}As we have noted, there are some which do as you say. Further, there are some inner plane entities of this planet which prefer to do some materialization into third density visible in these areas. There are also bases, shall we say, in these areas of those from elsewhere, both positive and negative. There are abandoned cities.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What are these bases used for by those from elsewhere?{{< /r >}}
 
-{{< l a="Ra" >}}These bases are used for the work of materialization of needed equipment for communication with third-density entities and for resting places for some equipment which you might call small craft. These are used for surveillance when it is requested by entities. Thus some of the, shall we say, teachers of the Confederation speak partially through these surveillance instruments along computerized lines, and when information is desired and those requesting it are of the proper vibratory level the Confederation entity itself will then speak.{{< /l >}}
+{{< l a="Ra" >}}These bases are used for the work of materialization of needed equipment for communication with third density entities and for resting places for some equipment which you might call small craft. These are used for surveillance when it is requested by entities. Thus some of the, shall we say, teachers of the Confederation speak partially through these surveillance instruments along computerized lines, and when information is desired and those requesting it are of the proper vibratory level the Confederation entity itself will then speak.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Am I to understand then that the Confederation entity needs communication equipment and craft to communicate with the third-density incarnate entity requesting the information?{{< /r >}}
+{{< r a="Don Elkins" >}}Am I to understand then that the Confederation entity needs communication equipment and craft to communicate with the third density incarnate entity requesting the information?{{< /r >}}
 
 {{< l a="Ra" >}}This is incorrect. However, many of your peoples request the same basic information in enormous repetition, and for a social memory complex to speak ad infinitum about the need to meditate is a waste of the considerable abilities of such social memory complexes.
 

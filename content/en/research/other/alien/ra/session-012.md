@@ -161,7 +161,7 @@ Many of your so-called contacts among your people have been confused and self-de
 
 {{< r a="Don Elkins" >}}Who are the Men in Black?{{< /r >}}
 
-{{< l a="Ra" >}}The Men in Black are a thought-form type of entity which have some beingness to their make-up. They have certain physical characteristics given them. However, their true vibrational nature is without third-density vibrational characteristics and, therefore, they are able to materialize and dematerialize when necessary.{{< /l >}}
+{{< l a="Ra" >}}The Men in Black are a thought-form type of entity which have some beingness to their make-up. They have certain physical characteristics given them. However, their true vibrational nature is without third density vibrational characteristics and, therefore, they are able to materialize and dematerialize when necessary.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Are all of these Men in Black then used by the Orion crusaders?{{< /r >}}
 
@@ -241,7 +241,7 @@ We will use Carla as example.
 
 The portions of its ailment, as you call this distortion complex, that can be perfected in balance are due primarily to a blockage of the indigo-ray or pineal energy center. 
 
-This center receives the intelligent energy from all sources lawful within the one Creation; that is, lawful in this third-density distortion or illusion. If there is no blockage, these energies pour or stream down into the mind/body/spirit complex perfecting moment by moment the individual’s body complex.
+This center receives the intelligent energy from all sources lawful within the one Creation; that is, lawful in this third density distortion or illusion. If there is no blockage, these energies pour or stream down into the mind/body/spirit complex perfecting moment by moment the individual’s body complex.
 
 She also experiences some distortion of the green-ray energy center which you may call the heart center. 
 

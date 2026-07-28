@@ -50,19 +50,29 @@ This was the conscious decision of the great majority of Maldekians.
 
 The transition to Earth began approximately 500,000 years ago using the type of body complex available then as the ape type.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Have any of the Maldek entities transformed now? Are they now still second-density or are they forming some third-density planet now?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Have any of the Maldekians transformed now? Are they now still 2nd density or are they forming some 3rd density planet now?
+{{< /r >}}
 
-{{< l a="Ra" >}}Their consciousness has always been third-density.
 
-The alleviation mechanism was designed by the placement of this consciousness in second-dimensional physical chemical complexes which are not dexterous or manipulative to the extent which is appropriate to the workings of the third-density distortions of the mind complex.{{< /l >}}
+{{< l a="Ra" >}}Their consciousness has always been 3rd density.
 
-{{< r a="Don Elkins" >}}Did they graduate at the end of a 75,000-year cycle and gotten out of the second-density body into third-density-type bodies?{{< /r >}}
+The alleviation mechanism was designed by the placement of their consciousness in 2nd-dimensional physical chemical complexes which are not dexterous or manipulative to the extent.
 
-{{< l a="Ra" >}}Many of these entities were able to remove the accumulation of karma. They were able to accept a third-density cycle within a third-density body.
+This is appropriate to the workings of the 3rd density distortions of the mind complex.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Did they graduate at the end of a 75,000-year cycle and gotten out of the 2nd-density body into 3rd density-type bodies?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Many of these entities were able to remove the accumulation of karma. They were able to accept a third density cycle within a third density body.
 
 Most of those beings so succeeding have incarnated elsewhere in the creation for the succeeding cycle in third density.
 
-As this planet reached third density some few of these entities became able to join the vibration of this sphere in the third-density form.
+As Earth reached 3rd density, some few of these entities became able to join the vibration of this sphere in the 3rd density form.
 
 There remain a few who have not yet alleviated through the mind/body/spirit coordination of distortions the previous action taken by them. Therefore, they remain.{{< /l >}}
 
@@ -155,7 +165,7 @@ The Indians are descendants of these entities.
 
 Like the other incarnates of this cycle, they came from elsewhere.
 
-However, these particular entities were largely drawn from a second-density planet which had some difficulty, due to the age of its sun, in achieving third-density life conditions. This planet was from the galaxy Deneb.
+However, these particular entities were largely drawn from a second-density planet which had some difficulty, due to the age of its sun, in achieving third density life conditions. This planet was from the galaxy Deneb.
 
 The Atlantean race was a very conglomerate social complex which began to form approximately 31,000 years ago.
 

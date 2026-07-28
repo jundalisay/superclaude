@@ -32,7 +32,12 @@ We communicate at a set rate which is dependent upon our careful manipulation of
 
 {{< r a="Don Elkins" >}}Why does rapid aging occur on this planet?{{< /r >}}
 
-{{< l a="Ra" >}}Rapid aging occurs upon this third-density planet due to an ongoing imbalance of receptor web complex in the etheric portion of the energy field of this planet. The thought-form distortions of your peoples have caused the energy streamings to enter the planetary magnetic atmosphere, if you would so term this web of energy patterns, in such a way that the proper streamings are not correctly imbued with balanced vibratory light/love from the cosmic level of this octave of existence.{{< /l >}}
+{{< l a="Ra" >}}
+Rapid aging occurs upon this third density planet due to an ongoing imbalance of receptor web complex in the etheric portion of the energy field of this planet. 
+
+The thought-form distortions of your peoples have caused the energy streamings to enter the planetary magnetic atmosphere, if you would so term this web of energy patterns, in such a way that the proper streamings are not correctly imbued with balanced vibratory light/love from the cosmic level of this octave of existence.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}You want to help the population of this planet more fully understand and practice the Law of One so that this rapid aging could be changed to normal aging?{{< /r >}}
 
@@ -74,25 +79,55 @@ The third blockage resembles most closely that which you have called ego. It is 
 
 Those with blockages in these first three energy centers, or nexi, will have continuing difficulties in ability to further their seeking of the Law of One.
 
-The center of heart, or green ray, is the center from which third-density beings may springboard, shall we say, towards infinite intelligence. Blockages in this area may manifest as difficulties in expressing what you may call universal love or compassion.
+The center of heart, or green ray, is the center from which third density beings may springboard towards infinite intelligence. Blockages in this area may manifest as difficulties in expressing what you may call universal love or compassion.
 
 The blue-ray center of energy streaming is the center which, for the first time, is outgoing as well as inpouring. Those blocked in this area may have difficulty in grasping the spirit/mind complexes of its own entity and further difficulty in expressing such understandings of self. Entities blocked in this area may have difficulties in accepting communication from other mind/body/spirit complexes.
 
-The next center is the pineal or indigo-ray center. Those blocked in this center may experience a lessening of the influx of intelligent energy due to manifestations which appear as unworthiness. This is that of which you spoke. As you can see, this is but one of many distortions due to the several points of energy influx into the mind/body/spirit complex. The indigo-ray balancing is quite central to the type of work which revolves about the spirit complex, which has its influx then into the transformation or transmutation of third density to fourth density, it being the energy center receiving the least-distorted outpourings of love/light from intelligent energy and having also the potential for the key to the gateway of intelligent infinity.
+The next center is the pineal or indigo-ray center. Those blocked in this center may experience a lessening of the influx of intelligent energy due to manifestations which appear as unworthiness. This is that of which you spoke. As you can see, this is but one of many distortions due to the several points of energy influx into the mind/body/spirit complex. 
+
+The indigo-ray balancing is quite central to the type of work which revolves about the spirit complex, which has its influx then into the transformation or transmutation of 3rd density to 4th density, it being the energy center receiving the least-distorted outpourings of love/light from intelligent energy and having also the potential for the key to the gateway of intelligent infinity.
 
 The remaining center of energy influx is simply the total expression of the entity’s vibratory complex of mind, body, and spirit. It is as it will be, “balanced” or “imbalanced” has no meaning at this energy level, for it gives and takes in its own balance. Whatever the distortion may be, it cannot be manipulated as can the others and, therefore, has no particular importance in viewing the balancing of an entity.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You previously gave us some information about what we should do in balancing. Is there any information that we can publish now about any particular exercises or methods of balancing these centers?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Is there any information that we can publish now about any exercises or methods of balancing these centers?{{< /r >}}
 
-{{< l a="Ra" >}}The exercises given for publication seen in comparison with the material now given are in total a good beginning. It is important to allow each seeker to enlighten itself rather than for any messenger to attempt in language to teach/learn for the entity, thus being teach/learner and learn/teacher. This is not in balance with your third density. We learn from you. We teach to you. Thus, we teach/learn. If we learned for you, this would cause imbalance in the direction of the distortion of free will. There are other items of information allowable. However, you have not yet reached these items in your lines of questioning and it is our belief/feeling complex that the questioner shall shape this material in such a way that your mind/body/spirit complexes shall have entry to it, thus we answer your queries as they arise in your mind complex.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Yesterday you stated “the harvest is now. There is not at this time any reason to include efforts upon these distortions toward longevity, but rather to encourage distortions towards the heart of self. For this which resides clearly in the violet-ray energy field will determine the harvest of each mind/body/spirit complex.” Could you tell us how to seek or the best way to seek the heart of self?{{< /r >}}
+{{< l a="Ra" >}}The exercises given for publication seen in comparison with the material now given are in total a good beginning. 
 
-{{< l a="Ra" >}}You have been given information on healing. This information may be seen in a more general context as ways to understand the self. The understanding, experiencing, accepting, and merging of self with self and with other-self, and finally with the Creator, is the path to the heart of self. In each infinitesimal part of your self resides the One in all of Its power. Therefore, we can only encourage these lines of contemplation, always stating the prerequisite of meditation, contemplation, or prayer as a means of subjectively/objectively using or combining various understandings to enhance the seeking process. Without such a method of reversing the analytical process, one could not integrate into unity the many understandings gained in such seeking.{{< /l >}}
+It is important to allow each seeker to enlighten itself rather than for any messenger to attempt in language to teach/learn for the entity, thus being teach/learner and learn/teacher. 
 
-{{< r a="Don Elkins" >}}You mentioned that when there was no harvest at the end of the last 25,000-year period, “there were harvestable entities who shall choose the manner of their entrance into the fourth density.” Can you tell me what you mean by how “they will choose the manner of their entrance into the fourth density?”{{< /r >}}
+This is not in balance with your third density. We learn from you. We teach to you. Thus, we teach/learn. If we learned for you, this would cause imbalance in the direction of the distortion of free will. 
+
+There are other items of information allowable. However, you have not yet reached these items in your lines of questioning and it is our belief/feeling complex that the questioner shall shape this material in such a way that your mind/body/spirit complexes shall have entry to it, thus we answer your queries as they arise in your mind complex.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Yesterday you stated “the harvest is now. 
+
+There is not at this time any reason to include efforts upon these distortions toward longevity, but rather to encourage distortions towards the heart of self. 
+
+For this which resides clearly in the violet-ray energy field will determine the harvest of each mind/body/spirit complex.” 
+
+Could you tell us how to seek the heart of self?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+You have been given information on healing. 
+
+This information may be seen in a more general context as ways to understand the self. The understanding, experiencing, accepting, and merging of self with self and with other-self, and finally with the Creator, is the path to the heart of self. In each infinitesimal part of your self resides the One in all of Its power. 
+
+Therefore, we can only encourage these lines of contemplation, always stating the prerequisite of meditation, contemplation, or prayer as a means of subjectively/objectively using or combining various understandings to enhance the seeking process. Without such a method of reversing the analytical process, one could not integrate into unity the many understandings gained in such seeking.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}You mentioned that when there was no harvest at the end of the last 25,000-year period, “there were harvestable entities who shall choose the manner of their entrance into the fourth density.” 
+
+Can you tell me what you mean by how “they will choose the manner of their entrance into the fourth density?”{{< /r >}}
+
 
 {{< l a="Ra" >}}These shepherds or “Elder Race” shall choose the time/space of their leaving. They are unlikely to leave until their other-selves are harvestable also.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What do you mean by their other-selves being harvestable?{{< /r >}}
 
@@ -100,11 +135,21 @@ The remaining center of energy influx is simply the total expression of the enti
 
 {{< r a="Don Elkins" >}}I’ve heard about the Elder Race before in a book, *Road in the Sky*, by George Hunt Williamson, and I was wondering if this Elder Race was the same that he talked about?{{< /r >}}
 
-{{< l a="Ra" >}}The question now resolves itself, for we have spoken previously of the manner of decision-making which caused these entities to remain here upon the closing of the second major cycle of your current master cycle. There are some distortions in the descriptions of the one known as Michel; however, these distortions have primarily to do with the fact that these entities are not a social memory complex, but rather a group of mind/body/spirit complexes dedicated to service. These entities work together, but are not completely unified; thus, they do not completely see each the other’s thoughts, feelings, and motives. However, their desire to serve is the fourth-dimensional type of desire, thus melding them into what you may call a brotherhood.{{< /l >}}
+{{< l a="Ra" >}}
+The question now resolves itself, for we have spoken previously of the manner of decision-making which caused these entities to remain here upon the closing of the second major cycle of your current master cycle. 
+
+There are some distortions in the descriptions of the one known as Michel; however, these distortions have primarily to do with the fact that these entities are not a social memory complex, but rather a group of mind/body/spirit complexes dedicated to service. These entities work together, but are not completely unified; thus, they do not completely see each the other’s thoughts, feelings, and motives. However, their desire to serve is the fourth-dimensional type of desire, thus melding them into what you may call a brotherhood.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Are there any Wanderers with these Elder Race, or not?{{< /r >}}
 
-{{< l a="Ra" >}}These are planetary entities harvested — Wanderers only in the sense that they chose, in fourth-density love, to immediately reincarnate in third density rather than proceeding towards fourth density. This causes them to be Wanderers of a type, Wanderers who have never left the Earth plane because of their free will rather than because of their vibrational level.{{< /l >}}
+
+{{< l a="Ra" >}}
+These are planetary entities harvested — Wanderers only in the sense that they chose, in 4th-density love, to immediately reincarnate in 3rd density rather than proceeding towards 4th density. 
+
+This causes them to be Wanderers of a type, Wanderers who have never left the Earth plane because of their free will rather than because of their vibrational level.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}You stated “we offer the Law of One, the solving of paradoxes.” The first paradox or distortion was the distortion of free will. Could you tell me if there’s a sequence? Is there a first, second, third, fourth distortion of the Law of One?{{< /r >}}
 

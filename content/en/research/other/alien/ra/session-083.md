@@ -98,7 +98,7 @@ Each portion of the body complex is in a state of growth at all times. The rever
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-As I see the nature of the action of disease, specifically before the veil, it seems to me that the Logos had decided on a program where an individual mind/body/spirit would continue to grow in mind and the body would be the 3rd-density analog of this mind. The growth would be continual unless there was a lack of growth or an inability, for some reason, for the mind to continue along the growth patterns. 
+As I see the nature of the action of disease, specifically before the veil, it seems to me that the Logos had decided on a program where an individual mind/body/spirit would continue to grow in mind and the body would be the 3rd density analog of this mind. The growth would be continual unless there was a lack of growth or an inability, for some reason, for the mind to continue along the growth patterns. 
 
 If this growth decelerated or stopped, then what we call disease would then act in a way so as to eventually terminate this physical experience so that a new physical experience could be started to continue the growth process, after a review of the entire process had taken place between incarnations.
 {{< /r >}}

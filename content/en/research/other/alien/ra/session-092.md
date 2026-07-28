@@ -51,9 +51,14 @@ The promptings were duple. There was the recovery of much negative polarity upon
 
 {{< r a="Don Elkins" >}}Then, this occurs because the Potentiator of the Mind is directly connected, through the roots of the tree of mind, to the archetypical mind and to the Logos which created it and because the veil between the Matrix and Potentiator of the Mind allows for the development of the will. Would Ra comment?{{< /r >}}
 
-{{< l a="Ra" >}}As the mind/body/spirit complex which has not yet reached the point of the conscious awareness of the process of evolution prepares for incarnation it has programmed for it a less than complete, that is to say a partially randomized, system of learnings. The amount of randomness of potential catalyst is proportional to the newness of the mind/body/spirit complex to third density. This, then, becomes a portion of that which you may call a potential for incarnational experience.
+{{< l a="Ra" >}}
+As the mind/body/spirit complex which has not yet reached the point of the conscious awareness of the process of evolution prepares for incarnation it has programmed for it a less than complete, that is to say a partially randomized, system of learnings. 
 
-This is indeed carried within that portion of the mind which is of the deep mind, the architecture of which may be envisioned as being represented by that concept complex known as the Potentiator.
+The amount of randomness of potential catalyst is proportional to the newness of the mind/body/spirit complex to third density. 
+
+This, then, becomes a portion of that which you may call a potential for incarnational experience.
+
+This is carried within that portion of the mind which is of the deep mind, the architecture of which may be envisioned as being represented by that concept complex known as the Potentiator.
 
 It is not in the archetypical mind of an entity that the potential for incarnational experience resides but in the mind/body/spirit complex’s insertion, shall we say, into the energy web of the physical vehicle and the chosen planetary environment. However, to more deeply articulate this portion of the mind/body/spirit complex’s beingness, this archetype, the Potentiator of the Mind, may be evoked with profit to the student of its own evolution.{{< /l >}}
 
@@ -105,11 +110,16 @@ In a more general sense, that which reaches may be seen as a male principle. Tha
 
 {{< l a="Ra" >}}This is quite correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am assuming that she sits between the different colored columns, one on her left, one on on her right (the dark one is on her left), to indicate at this position an equal opportunity, you might say, for potentiation of the mind to be of the negative or positive paths. Would Ra comment on this?{{< /r >}}
+{{< r a="Don Elkins" >}}I am assuming that she sits between the different colored columns, one on her left, one on on her right (the dark one is on her left), to indicate at this position an equal opportunity, you might say, for potentiation of the mind to be of the negative or positive paths.
+{{< /r >}}
 
-{{< l a="Ra" >}}Although this is correct it is not as perceptive as the notice that the Priestess, as this figure has been called, sits within a structure in which polarity, symbolized as you correctly noted by the light and dark pillars, is an integral and necessary part. The unfed mind has no polarity just as intelligent infinity has none. The nature of the sub-sub-sub-Logos which offers the third-density experience is one of polarity, not by choice but by careful design.
+{{< l a="Ra" >}}
+This is correct. But it is not as perceptive as the notice that the Priestess sits within a structure in which polarity, symbolized as you correctly noted by the light and dark pillars, is an integral and necessary part. 
 
-We perceive an unclear statement. The polarity of Potentiator is there not for the Matrix to choose. It is there for the Matrix to accept as given.{{< /l >}}
+The unfed mind has no polarity just as intelligent infinity has none. The nature of the sub-sub-sub-Logos which offers the third density experience is one of polarity, not by choice but by careful design.
+
+The polarity of Potentiator is there not for the Matrix to choose. It is there for the Matrix to accept as given.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}In other words, this particular illusion has polarity as its foundation which might be represented by the structural significance of these columns.
 

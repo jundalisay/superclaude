@@ -22,7 +22,7 @@ As individualized entities emerge in space/time then I would assume that they ha
 
 {{< l a="Ra" >}}This statement is quite perceptive and correct until the final phrase.
 
-The polarities begin to be explored only at the point when a third-density entity becomes aware of the possibility of choice between the concept or distortion of service to self or service to others. This marks the end of what you may call the unselfconscious or innocent phase of conscious awareness.{{< /l >}}
+The polarities begin to be explored only at the point when a third density entity becomes aware of the possibility of choice between the concept or distortion of service to self or service to others. This marks the end of what you may call the unselfconscious or innocent phase of conscious awareness.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would you define mind, body, and spirit separately?{{< /r >}}
 
@@ -78,7 +78,7 @@ Just as a passing point, I was wondering, in— on this planet during the second
 
 {{< r a="Don Elkins" >}}Can you tell me the philosophy behind this mechanism of propagation of the bodily complex?{{< /r >}}
 
-{{< l a="Ra" >}}The second density is one in which the groundwork is being laid for third-density work. In this way it may be seen that the basic mechanisms of reproduction capitulate into a vast potential in third density for service to other-self and to self; this being not only by the functions of energy transfer but also [by] the various services performed due to the close contact of those who are, shall we say, magnetically attracted, one to the other; these entities thus having the opportunities for many types of service which would be unavailable to the independent entity.{{< /l >}}
+{{< l a="Ra" >}}The second density is one in which the groundwork is being laid for third density work. In this way it may be seen that the basic mechanisms of reproduction capitulate into a vast potential in third density for service to other-self and to self; this being not only by the functions of energy transfer but also [by] the various services performed due to the close contact of those who are, shall we say, magnetically attracted, one to the other; these entities thus having the opportunities for many types of service which would be unavailable to the independent entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was the basic reason, the original reason for this then to increase opportunity for experience of the One Creator? Is this correct?{{< /r >}}
 
@@ -90,7 +90,7 @@ Just as a passing point, I was wondering, in— on this planet during the second
 
 {{< r a="Don Elkins" >}}I was wondering if the male cat, Gandalf, has benefited by that mechanism in some way or by other mechanisms in increasing spiritual potential or understanding.{{< /r >}}
 
-{{< l a="Ra" >}}We examine this information and find it harmless. The second-density entity, sound vibration Gandalf, is a rare sample of its species due first to previous individualization, secondly due to a great amount of investment in this particular life experience. This is the greatest catalyst in this entity’s progress. It is very unusual, as we have said. However, the experiences of bisexual reproduction which were of the nature of the entity Gandalf were to a small extent of spiritual benefit due to an unusual relationship with another entity, this also what you call a cat. This entity also being of an unusually third-density orientation or investment from previous life experiences. Thus the formation of what could be seen to be recognizably love did exist in this relationship.{{< /l >}}
+{{< l a="Ra" >}}We examine this information and find it harmless. The second-density entity, sound vibration Gandalf, is a rare sample of its species due first to previous individualization, secondly due to a great amount of investment in this particular life experience. This is the greatest catalyst in this entity’s progress. It is very unusual, as we have said. However, the experiences of bisexual reproduction which were of the nature of the entity Gandalf were to a small extent of spiritual benefit due to an unusual relationship with another entity, this also what you call a cat. This entity also being of an unusually third density orientation or investment from previous life experiences. Thus the formation of what could be seen to be recognizably love did exist in this relationship.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Thank you. Can you give me a brief history of the metaphysical principles of the development of each of our planets around the sun and their function with respect to evolution of beings?{{< /r >}}
 

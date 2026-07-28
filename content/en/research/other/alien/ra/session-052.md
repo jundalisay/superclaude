@@ -101,7 +101,7 @@ There are two other reasons for choosing this service which have to do with the 
 
 The Wanderer, if it remembers and dedicates itself to service, will polarize much more rapidly than is possible in the far more etiolated realms of higher-density catalyst.
 
-The final reason is within the mind/body/spirit totality or the social memory complex totality which may judge that an entity or members of a societal entity can make use of third-density catalyst to recapitulate a learning/teaching which is adjudged to be less than perfectly balanced. This especially applies to those entering into and proceeding through sixth density wherein the balance between compassion and wisdom is perfected.{{< /l >}}
+The final reason is within the mind/body/spirit totality or the social memory complex totality which may judge that an entity or members of a societal entity can make use of third density catalyst to recapitulate a learning/teaching which is adjudged to be less than perfectly balanced. This especially applies to those entering into and proceeding through sixth density wherein the balance between compassion and wisdom is perfected.{{< /l >}}
 
 {{< r a="Don Elkins" >}}You were speaking of the slingshot effect. You must put energy into the craft until it approaches the speed of light. This requires more and more and more energy. The time dilation occurs and it seems to me that it would be possible to, by moving at 90° to the direction of travel, somehow change this stored energy in its application of direction or sense so that you move out of space/time into time/space with a 90° deflection. Then the energy would be taken out in time/space and you would re-enter space/time at the end of this energy reversal.{{< /r >}}
 

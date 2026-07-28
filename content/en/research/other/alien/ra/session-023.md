@@ -149,7 +149,7 @@ You probably can’t answer this question but I will ask it now since we are in 
 What happened to Akhenaten after his physical death?{{< /r >}}
 
 {{< l a="Ra" >}}
-He was put through the series of healing and review of incarnational experience which is appropriate for 3rd-density experience.
+He was put through the series of healing and review of incarnational experience which is appropriate for 3rd density experience.
 
 He had been somewhat in the distortions of power ameliorated by the great devotion to the Law of One.
 

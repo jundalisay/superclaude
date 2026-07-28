@@ -54,7 +54,7 @@ Is there some way that we could, as a unit then, do something to reduce the effe
 {{< l a="Ra" >}}
 We have given you the information concerning that which aids this particular mind/body/spirit complex. We can speak no further.
 
-We think that each is in remarkable harmony with each for this particular third-density illusion at this space/time nexus.{{< /l >}}
+We think that each is in remarkable harmony with each for this particular third density illusion at this space/time nexus.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}

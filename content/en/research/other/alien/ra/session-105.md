@@ -92,25 +92,52 @@ The garlic and onion, renewed weekly, should remain permanently hung, suspended 
 
 {{< l a="Ra" >}}No change is necessary. The points necessary to be included in consecration or deconsecration of a place are covered. We may suggest that each second-density, woody plant which you have invested during your tenancy within this dwelling be thanked and blessed.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there any other suggestion that Ra could make with respect to any part of this move that is planned, and will we have any problems at all in contacting Ra in the new dwelling, and if so, would Ra tell us about those and what we could do to alleviate any problems in contacting Ra in the new location?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Will we have any problems in contacting you in the new dwelling? If so, would you tell us about those and what we could do to alleviate any such problems?
+{{< /r >}}
 
-{{< l a="Ra" >}}We weigh this answer carefully, for it comes close to abrogation of free will, but find the proximity acceptable due to Carla’s determination to be of service to the One Infinite Creator regardless of personal circumstance.
+{{< l a="Ra" >}}
+We weigh this answer carefully, for it comes close to abrogation of free will, but find the proximity acceptable due to Carla’s determination to be of service to the One Infinite Creator regardless of personal circumstance.
 
-Any physical aid upon the part of Carla in the packing and unpacking will activate those allergic reactions lying dormant for the most part at this time. This entity is allergic to those items which are unavoidable in transitions within your third-density illusion that is, dust, mildew, etc. The one known as Bob will be of aid in this regard. The scribe should take care also to imbibe a doubled quantity of liquids in order that any allergically caused toxins may be flushed from the body complex.
+Any physical aid upon the part of Carla in the packing and unpacking will activate those allergic reactions lying dormant for the most part at this time. 
 
-There is no difficulty in resuming contact through this tuned instrument with the social memory complex, Ra, in the chosen dwelling, or, indeed, in any place whatsoever once physical and metaphysical cleansing has been accomplished.{{< /l >}}
+She is allergic to dust, mildew, etc.
 
-{{< r a="Don Elkins" >}}I have come to the conclusion that the meaning of the hawk that we had about a year ago when we started to move the first time had to do with the non-benign nature, in the metaphysical sense, of the house which I had picked for the move. If it isn’t a problem with the Law of Confusion I think that it’d be philosophically interesting to know if I am correct with respect to that.{{< /r >}}
+These are unavoidable within your 3rd density illusion.
 
-{{< l a="Ra" >}}What bird comes to affirm for Ra? What bird would be chosen to warn? We ask the questioner to ponder these queries.{{< /l >}}
+Bob will be of aid in this regard. The scribe should take care also to imbibe a doubled quantity of liquids in order that any allergically caused toxins may be flushed from the body.
 
-{{< r a="Don Elkins" >}}We have been, you might say, experimentally determining a lot of things about the body, the next portion of the tarot, and have been experiencing some of the feedback effects, I might say, between the mind and the body. I sense from everything that we have done so far with respect to these effects that the great value of the third-density, yellow-ray body at this time is as a device that feeds back catalyst to a mind to create the polarization. I would say that this is the major value of the third-density body here and would ask Ra if initially when the mind/body/spirit— not the mind/body/spirit complex, but the mind/body/spirit— was designed for third-density experience if this was the major use of the yellow-ray body and if not, what was the purpose of the yellow-ray body?{{< /r >}}
+There is no difficulty in resuming contact through this tuned instrument with the social memory complex, Ra, in the chosen dwelling, or, indeed, in any place whatsoever once physical and metaphysical cleansing has been accomplished.
+{{< /l >}}
 
-{{< l a="Ra" >}}The description which began your query is suitable for the function of the mind/body/spirit or the mind/body/spirit complex. The position in creation of physical manifestation changed not one whit when the veil of forgetting was dropped.{{< /l >}}
+{{< r a="Don Elkins" >}}
+I think that the meaning of the hawk that we had about a year ago when we started to move the first time had to do with the non-benign nature, in the metaphysical sense, of the house which I had picked for the move. 
+
+If it isn’t a problem with the Law of Confusion I think that it’d be philosophically interesting to know if I am correct with respect to that.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+What bird comes to affirm for Ra? What bird would be chosen to warn? We ask the questioner to ponder these queries.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+We have been experimentally determining a lot of things about the body, the next portion of the tarot, and have been experiencing some of the feedback effects, I might say, between the mind and the body. 
+
+I sense from everything that we have done so far with respect to these effects that the great value of the third density, yellow-ray body at this time is as a device that feeds back catalyst to a mind to create the polarization. 
+
+I would say that this is the major value of the third density body here and would ask Ra if initially when the mind/body/spirit— not the mind/body/spirit complex, but the mind/body/spirit— was designed for third density experience if this was the major use of the yellow-ray body and if not, what was the purpose of the yellow-ray body?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The description which began your query is suitable for the function of the mind/body/spirit or the mind/body/spirit complex. The position in creation of physical manifestation changed not one whit when the veil of forgetting was dropped.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Then the yellow-ray body, from the very beginning, was designed as what Ra has called an athanor for the mind, a device, you might say, to accelerate the evolution of the mind. Is this correct?{{< /r >}}
 
+
 {{< l a="Ra" >}}It is perhaps more accurate to note that the yellow-ray, physical vehicle is a necessity without which the mind/body/spirit complex cannot pursue evolution at any pace.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Then you are saying that the evolution of that portion of the individual that is not yellow-ray is not possible without the clothing, at intervals, in the yellow-ray body. Is this correct?{{< /r >}}
 
@@ -132,23 +159,58 @@ The patterns of illness, disease, and death are a benignant demesne within the p
 
 {{< r a="Don Elkins" >}}At the end of an incarnation, before veiling, did the entity appear physically to have aged, say like entities at the normal end of incarnation in our present illusion— did they, were they wrinkled and old, did they… Did the Significator look like that?{{< /r >}}
 
-{{< l a="Ra" >}}The Significator of Mind, Body, or Spirit is a portion of the archetypical mind and looks as each envisions such to appear. The body of a mind/body/spirit before veiling showed all the signs of aging which acquaint you now with the process leading to the removal from third-density incarnation of the mind/body/spirit complex. It is well to recall that the difference betwixt mind/body/spirits and mind/body/spirit complexes is a forgetting within the deeper mind. Physical appearances and surface and instinctual activities are much the same.{{< /l >}}
+{{< l a="Ra" >}}The Significator of Mind, Body, or Spirit is a portion of the archetypical mind and looks as each envisions such to appear. The body of a mind/body/spirit before veiling showed all the signs of aging which acquaint you now with the process leading to the removal from third density incarnation of the mind/body/spirit complex. 
 
-{{< r a="Don Elkins" >}}Then I was wondering the root reason for the change in appearance that we see as the aging process? I am trying to uncover a basic philosophical premise here that I may be shooting in the dark at and not questioning on correctly, but I am trying to get at the reason behind the design of this change in appearance when it seems to me that it was just as possible for the mind/body/spirit or mind/body/spirit complex just to simply look the same throughout an incarnation. Could Ra explain the reason for this change?{{< /r >}}
+It is well to recall that the difference betwixt mind/body/spirits and mind/body/spirit complexes is a forgetting within the deeper mind. Physical appearances and surface and instinctual activities are much the same.{{< /l >}}
 
-{{< l a="Ra" >}}When the discipline of the personality has led the mind/body/spirit complex into the fifth and especially the sixth level of study it is no longer necessary to build destruction of the physical vehicle into its design, for the spirit complex is so experienced as a shuttle that it is aware when the appropriate degree of intensity of learning and increment of lesson has been achieved. Within third density, not to build into the physical vehicle its ending would be counterproductive to the mind/body/spirit complexes therein residing, for within the illusion it seems more lovely to be within the illusion than to drop the garment which has carried the mind/body/spirit complex and move on.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I see, then, that it is, shall we say, when an individual reaches a very old age, then, it becomes apparent to him in third density that he’s worn out. Therefore, he’s not attached to this vehicle as firmly with a desire to stay in it as he would be with a good-looking, well-functioning one.
+## Why 3rd Density Bodies Age
 
-Now, after the veil, the body is definitely an athanor for the mind. Prior to the veiling, did the body serve as an athanor for the mind at all?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What is the reason for the change in appearance as the aging process?
+
+I think it was just as possible for the mind/body/spirit to simply look the same throughout an incarnation.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+When the discipline of the personality has led the mind/body/spirit complex into the 5th and especially the 6th level of study, it is no longer necessary to age.
+
+ <!-- build destruction of the physical vehicle into its design. -->
+
+This is because the spirit complex is so experienced as a shuttle that it is aware when the appropriate degree of intensity of learning and increment of lesson has been achieved.
+
+Within 3rd density, it would be counterproductive to the mind/body/spirit complexes therein residing not to have its body age. 
+
+ <!-- build into the physical vehicle its ending. -->
+
+This is because aging goes with the illusion.
+
+It seems more lovely to age then die than to just die.
+
+<!-- be within the illusion than to drop the garment which has carried the mind/body/spirit complex and move on. -->
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+So when an individual reaches a very old age, his aged body makes it apparent to him in third density that he’s worn out.
+
+And so, he’s won't be attached to this vehicle as firmly compared to when he was good-looking and well-functioning.
+
+Now, after the veil, the body is definitely an athanor [oven] for the mind. 
+
+Prior to the veiling, did the body serve as an athanor for the mind at all?
+{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
 
-{{< l a="Ra" >}}We find the weariness of the group well-balanced by its harmony.
+{{< l a="Ra" >}}
+We find the weariness of the group well-balanced by its harmony.
 
-That weariness shall continue in any future circumstance during your incarnations. Therefore look you to your love and thanksgiving for each other and join always in fellowship, correcting each broken strand of that affection with patience, comfort, and quietness. We find all meticulously observed in the alignments and give you these words only as reminder.
+That weariness shall continue in any future circumstance during your incarnations. 
+
+Therefore look you to your love and thanksgiving for each other and join always in fellowship, correcting each broken strand of that affection with patience, comfort, and quietness. We find all meticulously observed in the alignments and give you these words only as reminder.
 
 All that can be done for Carla seems done with an whole heart, and Carla itself is working in the indigo ray with perseverance.
 

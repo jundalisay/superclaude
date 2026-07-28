@@ -104,7 +104,7 @@ Firstly, let us remove the concept of reluctance from the equation and then seco
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I think to try and clear up this point I’m going to ask a few questions that are related that will possibly enable me to understand this better because I am really confused about this and I think it is a very important point in understanding the creation and the Creator in general, you might say. If a Wanderer of fourth, fifth, or sixth density dies from this third-density state in which we presently find ourselves, does he then find himself in third-density time/space after death?
+I think to try and clear up this point I’m going to ask a few questions that are related that will possibly enable me to understand this better because I am really confused about this and I think it is a very important point in understanding the creation and the Creator in general, you might say. If a Wanderer of fourth, fifth, or sixth density dies from this third density state in which we presently find ourselves, does he then find himself in third density time/space after death?
 {{< /r >}}
 {{< l a="Ra" >}}
 This will depend upon the plan which has been approved by the Council of Nine. Some Wanderers offer themselves for but one incarnation while others offer themselves for varying lengths of your time up to and including the last two cycles of 25,000 years. If the agreed-upon mission is complete the Wanderer’s mind/body/spirit complex will go to the home vibration.

@@ -88,7 +88,7 @@ Any organization which demands obedience without question upon the basis of rela
 
 
 {{< r a="Don Elkins" >}}
-One point that I am not clear on is the understanding and use of the first distortion by fifth- and fourth-density negative entities in manipulating third-density entities. I would like to know how the first distortion affects the attempts to carry out the conquest of third-density entities and the attempt to add them, through or under the premise of the first distortion, to their social memory complexes. Would you expand that, please?
+One point that I am not clear on is the understanding and use of the first distortion by fifth- and fourth-density negative entities in manipulating third density entities. I would like to know how the first distortion affects the attempts to carry out the conquest of third density entities and the attempt to add them, through or under the premise of the first distortion, to their social memory complexes. Would you expand that, please?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -102,7 +102,7 @@ It seems, though, that in the case of many UFO contacts that have occurred on th
 {{< /r >}}
 
 {{< l a="Ra" >}}
-We misperceived your query, thinking it was directed towards this particular type of contact. The nature of the fourth-density's observance of the free will distortion, while pursuing the seeding of the third-density thought patterns, is material which has already been covered. That which can be offered of the negatively oriented information is offered. It is altered to the extent that the entity receiving such negative information is of positive orientation. Thus many such contacts are of a mixed nature.
+We misperceived your query, thinking it was directed towards this particular type of contact. The nature of the fourth-density's observance of the free will distortion, while pursuing the seeding of the third density thought patterns, is material which has already been covered. That which can be offered of the negatively oriented information is offered. It is altered to the extent that the entity receiving such negative information is of positive orientation. Thus many such contacts are of a mixed nature.
 {{< /l >}}
 
 
@@ -114,7 +114,7 @@ I'm sorry for getting confused. Fourth-density negative seems to be aware of the
 {{< l a="Ra" >}}
 The answer may still not satisfy the questioner.
 
-The fourth-density negative entity has made the choice available to each at third-density harvest. It is aware of the full array of possible methods of viewing the universe of the One Creator and it is convinced that the ignoring and non-use of the green-ray energy center will be the method most efficient in providing harvestability of fourth density. Its operations among those of third density which have not yet made this choice are designed to offer to each the opportunity to consider the self-serving polarity and its possible attractiveness.
+The fourth-density negative entity has made the choice available to each at third density harvest. It is aware of the full array of possible methods of viewing the universe of the One Creator and it is convinced that the ignoring and non-use of the green-ray energy center will be the method most efficient in providing harvestability of fourth density. Its operations among those of third density which have not yet made this choice are designed to offer to each the opportunity to consider the self-serving polarity and its possible attractiveness.
 {{< /l >}}
 
 
@@ -150,7 +150,7 @@ If one entity in the social memory complex is responsible for this addition to i
 
 
 {{< r a="Don Elkins" >}}
-Then assuming that a single negatively polarized entity is responsible for the recruiting of a harvested third-density entity and adds this polarity to his negative polarity and power, what type of ability or what type of benefit is this and how is it used by the entity?
+Then assuming that a single negatively polarized entity is responsible for the recruiting of a harvested third density entity and adds this polarity to his negative polarity and power, what type of ability or what type of benefit is this and how is it used by the entity?
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -228,7 +228,7 @@ OK. In our particular illusion, the sexual potential, it seems, for the male pea
 {{< /r >}}
 
 {{< l a="Ra" >}}
-We must make clear distinction between the yellow-ray, third-density, chemical bodily complex and the body complex which is a portion of the mind/body/spirit complex. The male, as you call this polarity, has an extremely active yellow-ray desire at the space/time in its incarnation when its sperm is the most viable and full of the life-giving spermata. Thusly the red ray seeks to reproduce most thickly at the time when this body is most able to fulfill the red-ray requirements.
+We must make clear distinction between the yellow-ray, third density, chemical bodily complex and the body complex which is a portion of the mind/body/spirit complex. The male, as you call this polarity, has an extremely active yellow-ray desire at the space/time in its incarnation when its sperm is the most viable and full of the life-giving spermata. Thusly the red ray seeks to reproduce most thickly at the time when this body is most able to fulfill the red-ray requirements.
 
 The yellow-ray, chemical body complex of the female, as you call this polarity, must needs have a continued and increasing desire for the sexual intercourse for it can only conceive once in one fifteen to eighteen month period, given that it carries the conceived body complex, bears it, and suckles it. This is draining to the physical body of yellow ray. To compensate for this the desire increases so that the yellow-ray body is predisposed to continue in sexual congress, thus fulfilling its red-ray requirement to reproduce as thickly as possible.
 
@@ -284,7 +284,7 @@ Would you do that?
 {{< l a="Ra" >}}
 You are correct in assuming that the energy of which we speak in discussing sexual energy transfers is a form of vibratory bridge between space/time and time/space. Although this distinction is not apart from that which follows, that which follows may shed light upon that basic statement.
 
-Due to the veiling process the energy transferred from male to female is different than that transferred from female to male. Due to the polarity difference of the mind/body/spirit complexes of male and female the male stores physical energy, the female mental and mental/emotional energy. When third-density sexual energy transfer is completed the male will have offered the discharge of physical energy. The female is, thereby, refreshed, having far less physical vitality. At the same time, if you will use this term, the female discharges the efflux of its stored mental and mental/emotional energy, thereby offering inspiration, healing, and blessing to the male which by nature is less vital in this area.
+Due to the veiling process the energy transferred from male to female is different than that transferred from female to male. Due to the polarity difference of the mind/body/spirit complexes of male and female the male stores physical energy, the female mental and mental/emotional energy. When third density sexual energy transfer is completed the male will have offered the discharge of physical energy. The female is, thereby, refreshed, having far less physical vitality. At the same time, if you will use this term, the female discharges the efflux of its stored mental and mental/emotional energy, thereby offering inspiration, healing, and blessing to the male which by nature is less vital in this area.
 
 At this time may we ask for one more full query.
 {{< /l >}}

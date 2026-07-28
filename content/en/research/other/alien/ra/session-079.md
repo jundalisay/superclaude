@@ -47,7 +47,7 @@ The practice of magical workings demands the most rigorous honesty. If your esti
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I would like to question about the third-density experience of those just prior to the original extension of the first distortion to the sub-Logoi to create the split of polarity. Can you describe in general the differences between the third-density experience of these mind/body/spirit complexes and the ones who have evolved upon this planet in this experience that we experience now?
+I would like to question about the third density experience of those just prior to the original extension of the first distortion to the sub-Logoi to create the split of polarity. Can you describe in general the differences between the third density experience of these mind/body/spirit complexes and the ones who have evolved upon this planet in this experience that we experience now?
 {{< /r >}}
 {{< l a="Ra" >}}
 This material has been previously covered. Please query for specific interest.
@@ -61,7 +61,7 @@ No.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Was the reincarnational process like the one that we experience here in which the third-density body is entered and exited for numerous times during the cycle?
+Was the reincarnational process like the one that we experience here in which the third density body is entered and exited for numerous times during the cycle?
 {{< /r >}}
 {{< l a="Ra" >}}
 This is correct.
@@ -71,7 +71,7 @@ This is correct.
 Is it possible to give a time of incarnation with respect to our years and would you do so if it is?
 {{< /r >}}
 {{< l a="Ra" >}}
-The optimal incarnative period is somewhere close to a measure you call a millennium. This is, as you may say, a constant regardless of other factors of the third-density experience.
+The optimal incarnative period is somewhere close to a measure you call a millennium. This is, as you may say, a constant regardless of other factors of the third density experience.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}

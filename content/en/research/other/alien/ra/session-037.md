@@ -30,28 +30,75 @@ It will not be seen often. We do not wish to puff up the pride, but we shall not
 Secondly, the use you make of these transmissions is completely at your discretion. We suggest the flowing of the natural intuitive senses and a minimum of the distortion towards concern. We are content, as we have said, to be able to aid in the evolution of one of your peoples. Whatever efforts you make cannot disappoint us, for that number already exceeds one.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}I have been very hesitant to ask certain questions for fear that they would be regarded, as I regard them, as questions of unimportance or too great a specificity and thereby reduce our contact with you. In order to disseminate some of the information that I consider to be of extreme importance; that is, the non-transient type of information, information having to do with the evolution of the mind, the body, and the spirit, it seems almost necessary in our society to include information that is of little value simply because that’s how our… our society works and… how the system of distribution appraises that which is offered for distribution. Could you comment on this problem that I have?{{< /r >}}
+{{< r a="Don Elkins" >}}
+I want to disseminate extremely important information about the evolution of the mind, the body, and the spirit.
 
-{{< l a="Ra" >}}The level and purity of this contact is dependent upon the level and purity of information sought. Thusly, the continued requests for specific information from this particular source is deleterious to the substance of your purpose. Moreover, as we scanned your mind to grasp your situation as regards the typescript of some of our words, we found that you had been criticized for the type of language construction used to convey data. Due to our orientation with regard to data, even the most specifically answered question would be worded by our group in such a way as to maximize the accuracy of the nuances of the answer. This, however, mitigates against what your critic desires in the way of simple, lucid prose. More than this we cannot say. These are our observations of your situation. What you wish to do is completely your decision and we remain at your service in whatever way we may be without breaking the Way of Confusion.{{< /l >}}
+Our society thinks that this information is of little value simply because that’s how our society works.{{< /r >}}
 
-{{< r a="Don Elkins" >}}We will attempt to work around these problems in dissemination of the Law of One. It will take some careful work to do this but we will. I personally will not cease while still incarnate to attempt to disseminate this. I believe it will be necessary to write a book, most probably about UFOs since the Law of One is connected with the phenomenon. It’s connected with all phenomena, but this is the… seems to be the easiest entry into dissemination. My first plan is to, using the UFO in the advertising sense that it was meant by the Confederation, use this as an entry into an explanation of the process of evolution that has gone on on this planet and how the rest of the… or the Confederation has been involved in a more understandable way, shall I say, for the population who will read it, using the Ra material in undistorted form just as it has been recorded here in various places through the book to amplify and clarify what we are saying in the book. This is the only way that I can see right now to create enough dissemination for the people who would like to have the Law of One for them to be able to get it. I could just go ahead and print up the material we have off the tape recorder and publish it but we would be unable to disseminate it very well because of distribution problems. Will you comment on my second idea of doing a general book on UFOs including the material from the Law of One?{{< /r >}}
 
-{{< l a="Ra" >}}We shall comment. We hope that your Ra plans materialize. This is a cosmic joke. You were asking for such an example of humor and we feel this is a rather appropriate nexus in which one may be inserted. Continue with your intentions to the best of your natures and abilities. What more can be done, my friends?{{< /l >}}
+{{< l a="Ra" >}}
+The level and purity of this contact is dependent on the level and purity of information sought. 
 
-{{< r a="Don Elkins" >}}In that case, we’ll go ahead with the questions we have here continuing the last session. You said that each third-density entity has an higher self in the sixth density which is moving to the mind/body/spirit complex of the entity as needed. Does this higher self also evolve in growth through the densities beginning with the first density, and does each higher self have a corresponding higher self advanced in densities beyond it?{{< /r >}}
+Thusly, the continued requests for specific information from us is harmful to your purpose. 
 
-{{< l a="Ra" >}}To simplify this concept is our intent. The higher self is a manifestation given to the late sixth-density mind/body/spirit complex as a gift from its future selfness. The mid-seventh density’s last action before turning towards the allness of the Creator and gaining spiritual mass is to give this resource to the sixth-density self, moving as you measure time in the stream of time.
+We scanned your mind  and found that you had been criticized for the type of language construction used to convey data.
 
-This self, the mind/body/spirit complex of late sixth density, has then the honor/duty of using both the experiences of its total living bank or memory of experienced thoughts and actions, and using the resource of the mind/body/spirit complex totality left behind as a type of infinitely complex thought-form.
+Due to our orientation with data, even the most specifically answered question would be worded by our group that maximizes the accuracy of the nuances of the answer. 
+
+This, however, is the opposite of how your critic wants simple answers. 
+
+What you wish to do is completely your decision. We remain at your service in whatever way we may be without breaking the Way of Confusion.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I believe it will be necessary to write a book, most probably about UFOs since the Law of One is connected with the phenomenon. 
+
+It’s connected with all phenomena, but this is the… seems to be the easiest entry into dissemination. My first plan is to, using the UFO in the advertising sense that it was meant by the Confederation, use this as an entry into an explanation of the process of evolution that has gone on on this planet and how the rest of the… or the Confederation has been involved in a more understandable way, shall I say, for the population who will read it, using the Ra material in undistorted form just as it has been recorded here in various places through the book to amplify and clarify what we are saying in the book. 
+
+This is the only way that I can see right now to create enough dissemination for the people who would like to have the Law of One for them to be able to get it. 
+
+I could just go ahead and print up the material we have off the tape recorder and publish it but we would be unable to disseminate it very well because of distribution problems. Will you comment on my second idea of doing a general book on UFOs including the material from the Law of One?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+We hope that your Ra plans materialize. 
+
+This is a cosmic joke. You were asking for such an example of humor and we feel this is a rather appropriate nexus in which one may be inserted. Continue with your intentions to the best of your natures and abilities. 
+
+What more can be done, my friends?{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+You said that each 3rd density entity has an higher self in the 6th density which is moving to the mind/body/spirit complex of the entity as needed. 
+
+Does this higher self also evolve in growth through the densities beginning with the first density, and does each higher self have a corresponding higher self advanced in densities beyond it?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+To simplify this concept is our intent. The higher self is a manifestation given to the late sixth-density mind/body/spirit complex as a gift from its future selfness. 
+
+The mid-7th density’s last action before turning towards the allness of the Creator and gaining spiritual mass is to give this resource to the sixth-density self, moving as you measure time in the stream of time.
+
+This self, the mind/body/spirit complex of late 6th density, has then the honor/duty of using both the experiences of its total living bank or memory of experienced thoughts and actions, and using the resource of the mind/body/spirit complex totality left behind as a type of infinitely complex thought-form.
 
 In this way you may see your self, your higher self or Oversoul, and your mind/body/spirit complex totality as three points in a circle. The only distinction is that of your time/space continuum. All are the same being.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does each entity have an individual mind/body/spirit complex totality or do a number of entities share the same mind/body/spirit complex totality?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Does each entity have an individual mind/body/spirit complex totality or do a number of entities share the same mind/body/spirit complex totality?
+{{< /r >}}
 
-{{< l a="Ra" >}}Both of these statements are correct given the appropriate time/space conditions. Each entity has its totality and at the point at which a planetary entity becomes a social memory complex the totality of this union of entities also has its Oversoul and its social memory complex totality as resource. As always, the sum, spiritually speaking, is greater than the sum of its parts so that the Oversoul of a social memory complex is not the sum of the Oversouls of its member entities but operates upon the way of what we have called squares and what we grasp you prefer to call doubling.{{< /l >}}
+
+{{< l a="Ra" >}}Both of these statements are correct given the appropriate time/space conditions. Each entity has its totality and at the point at which a planetary entity becomes a social memory complex the totality of this union of entities also has its Oversoul and its social memory complex totality as resource. 
+
+As always, the sum, spiritually speaking, is greater than the sum of its parts so that the Oversoul of a social memory complex is not the sum of the Oversouls of its member entities but operates upon the way of what we have called squares and what we grasp you prefer to call doubling.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Could you define spiritual mass?{{< /r >}}
 
-{{< l a="Ra" >}}Spiritual mass is that which begins to attract the out-moving and ongoing vibratory oscillations of beingness into the gravity, speaking in a spiritual sense, well of the great central sun, core, or Creator of the infinite universes.{{< /l >}}
+{{< l a="Ra" >}}
+Spiritual mass is that which begins to attract the out-moving and ongoing vibratory oscillations of beingness into the gravity, speaking in a spiritual sense, well of the great central sun, core, or Creator of the infinite universes.{{< /l >}}
 
 

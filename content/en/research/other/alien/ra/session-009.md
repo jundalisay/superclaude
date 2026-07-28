@@ -52,11 +52,11 @@ Thus, the gateway from intelligent energy to intelligent infinity opens regardle
 
 {{< r a="Don Elkins" >}}Where did the first people on Earth come from? How did they evolve?{{< /r >}}
 
-{{< l a="Ra" >}}You speak of 3rd-density experience.
+{{< l a="Ra" >}}You speak of 3rd density experience.
 
 The first of those to come here were brought from Mars.
 
-Its environment became inhospitable to 3rd-density beings. The first entities, therefore, were of this race manipulated by the guardians at that time.{{< /l >}}
+Its environment became inhospitable to 3rd density beings. The first entities, therefore, were of this race manipulated by the guardians at that time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What race is that, and how did they get from Mars to here?{{< /r >}}
 
@@ -76,7 +76,7 @@ This beginning action led to the quarantine of Earth. For it was felt that the f
 
 {{< l a="Ra" >}}They were attempting to learn the Laws of Love which form one of the primal distortions of the Law of One.
 
-However, their tendencies towards bellicose actions caused such difficulties in their atmosphere that it became inhospitable for third-density experience before the end of its cycle.
+However, their tendencies towards bellicose actions caused such difficulties in their atmosphere that it became inhospitable for third density experience before the end of its cycle.
 
 Thus, the Red Planet entities were unharvested and continued in your illusion to attempt to learn the Law of Love.{{< /l >}}
 
@@ -88,7 +88,7 @@ Thus, the Red Planet entities were unharvested and continued in your illusion to
 
 {{< l a="Ra" >}}There have been visitors to your sphere at various times for the last 4 million years.
 
-These visitors do not effect the cycling of the planetary sphere. It was not third-density in its environment until the time previously mentioned.{{< /l >}}
+These visitors do not effect the cycling of the planetary sphere. It was not third density in its environment until the time previously mentioned.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Then there were second-density entities here prior to approximately 75,000 years ago. What type of entities were these?{{< /r >}}
 

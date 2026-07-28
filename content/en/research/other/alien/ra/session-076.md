@@ -140,7 +140,7 @@ But it is the axis on which the creation turns.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
-Is this 3rd-density choice the same throughout all of the creation of which you are aware?
+Is this 3rd density choice the same throughout all of the creation of which you are aware?
 {{< /r >}}
 
 {{< l a="Ra" >}}We are aware of creations in which 3rd density is longer and more space/time is given to the choosing. 
@@ -169,7 +169,7 @@ The form is a second-density microscopic other-self. It is of a size which have 
 
 
 {{< r a="Don Elkins" >}}
-What is the difference between the plan of the Logos for these 2nd-density entities and the generation of runaway array of feedback to create various physical problems that act as catalyst in our present 3rd-density condition. 
+What is the difference between the plan of the Logos for these 2nd-density entities and the generation of runaway array of feedback to create various physical problems that act as catalyst in our present 3rd density condition. 
 {{< /r >}}
 
 

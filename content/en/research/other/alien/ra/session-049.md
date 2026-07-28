@@ -16,11 +16,11 @@ April 22, 1981
 
 {{< l a="Ra" >}}Carla's vital energies are improving with time. Her physical energies are less than your previous asking.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Carla asked: “You have suggested several times that sexual energy transfers aid my vital energy and this contact. It seems that this is not true for all people -- the sexual circuitry and the spiritual circuitry are not the same. Am I an anomaly, or is the positive effect of sexual activity on spiritual energy normal for all 3rd-density beings?”{{< /r >}}
+{{< r a="Don Elkins" >}}Carla asked: “You have suggested several times that sexual energy transfers aid my vital energy and this contact. It seems that this is not true for all people -- the sexual circuitry and the spiritual circuitry are not the same. Am I an anomaly, or is the positive effect of sexual activity on spiritual energy normal for all 3rd density beings?”{{< /r >}}
 
 {{< l a="Ra" >}}Carla is not anomalous.
 
-But she is somewhat less distorted towards the separation of mind, body, and spirit than many of 3rd-density entities.
+But she is somewhat less distorted towards the separation of mind, body, and spirit than many of 3rd density entities.
 
 The energies of sexual transfer would, if run through the undeveloped spiritual electrical or magnetic complex which you call circuitry, blow out that circuit.
 
@@ -70,7 +70,7 @@ In positive, the fifth-density complex uses sixth-density teach/learners to stud
 
 In fifth-density negative, service to self has become extremely intense and the self has shrunk or compacted so that the dialogues with the teach/learners are used exclusively in order to intensify wisdom. There are very, very few fifth-density negative Wanderers for they fear the forgetting. There are very, very few fifth-density Orion members for they do not any longer perceive any virtue in other-selves.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. I would like to take as an example an entity, at birth, who is roughly high on the seniority list for positive polarization and possible harvestability at the end of this cycle and follow a full cycle of his experience starting before his incarnation— which body is activated, process of becoming incarnate, the activation of the third-density physical body, process as the body moves through this density and is acted upon by catalyst, and then the process of death, and the activation of the various bodies so that we make a full circuit from a point prior to incarnation back around through incarnation and death and back to that position you might say in one cycle of incarnation in this density. Could you do that for me?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. I would like to take as an example an entity, at birth, who is roughly high on the seniority list for positive polarization and possible harvestability at the end of this cycle and follow a full cycle of his experience starting before his incarnation— which body is activated, process of becoming incarnate, the activation of the third density physical body, process as the body moves through this density and is acted upon by catalyst, and then the process of death, and the activation of the various bodies so that we make a full circuit from a point prior to incarnation back around through incarnation and death and back to that position you might say in one cycle of incarnation in this density. Could you do that for me?{{< /r >}}
 
 {{< l a="Ra" >}}Your query is most distorted for it assumes that creations are alike. Each mind/body/spirit complex has its own patterns of activation and its own rhythms of awakening. The important thing for harvest is the harmonious balance between the various energy centers of the mind/body/spirit complex. This is to be noted as of relative import. We grasp the thrust of your query and will make a most general answer stressing the unimportance of such arbitrary generalizations.
 

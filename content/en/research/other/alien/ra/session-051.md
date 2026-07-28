@@ -56,7 +56,7 @@ Firstly, we agree that this material is transient.
 
 Secondly, those for the most part coming from distant points, as you term them, do not need craft as you know them. The query itself requires understanding which you do not possess.
 
-Firstly, there are a few 3rd-density entities who have learned how to use craft to travel between star systems while experiencing the limitations you now understand. 
+Firstly, there are a few 3rd density entities who have learned how to use craft to travel between star systems while experiencing the limitations you now understand. 
 
 However, such entities have learned to use hydrogen in a way different from your understanding now. 
 

@@ -89,13 +89,38 @@ We would then say appropriate words to bid farewell to lower astrals. Those word
 {{< r a="Don Elkins" >}}From that statement I interpret the following meaning: That if the Experience of the Mind has sufficiently chosen the right-hand path, as total purity is approached in choosing of the right-hand path, then total imperviousness from the effect of the left-hand catalyst is also approached. Is this correct?{{< /r >}}
 {{< l a="Ra" >}}This is exquisitely perceptive. The seeker which has purely chosen the service-to-others path shall certainly not have a variant apparent incarnational experience. There is no outward shelter in your illusion from the gusts, flurries, and blizzards of quick and cruel catalyst. However, to the pure, all that is encountered speaks of the love and the light of the One Infinite Creator. The cruelest blow is seen with an ambiance of challenges offered and opportunities to come. Thusly, the great pitch of light is held high above such an one so that all interpretation may be seen to be protected by light.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I have often wondered about the action of random and programmed catalyst with respect to the entity with the very strong positive or negative polarization. Would one or either be free to a great extent from random catalyst occurring such as great natural catastrophes or warfare or something like that [that] generates a lot of random catalyst in the physical vicinity of a highly polarized entity? Does this great cat, then, have effect on such random catalyst upon the right-hand path?{{< /r >}}
-{{< l a="Ra" >}}In two circumstances this is so. Firstly, if there has been the pre-incarnative choice that, for instance, one shall not take life in the service of the cultural group, events shall fall in a protective manner. Secondly, if any entity is able to dwell completely in unity the only harm that may occur to it is the changing of the outward physical, yellow-ray vehicle into the more light-filled mind/body/spirit complex’s vehicle by the process of death. All other suffering and pain is as nothing to one such as this. We may note that this perfect configuration of the mind, body, and spirit complexes, while within the third-density vehicle, is extraordinarily rare.{{< /l >}}
+{{< r a="Don Elkins" >}}
+I have often wondered about the action of random and programmed catalyst with respect to the entity with the very strong positive or negative polarization. 
 
-{{< r a="Don Elkins" >}}Am I to understand, then, that there is no protection at all if the Experience of the Mind has become negative and the negative path is traveled? All random catalyst may affect the negatively polarized individual as a function of the statistical nature of the random catalyst. Is this correct?{{< /r >}}
-{{< l a="Ra" >}}This is correct. You may note some of those of your peoples which, at this space/time nexus, seek places of survival. This is due to the lack of protection when service to self is invoked.{{< /l >}}
+Would one or either be free to a great extent from random catalyst occurring such as great natural catastrophes or warfare or something like that [that] generates a lot of random catalyst in the physical vicinity of a highly polarized entity? Does this great cat, then, have effect on such random catalyst on the right-hand path?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}The possibility of the legs of the entity of Card Four being at approximate right angles was linked with the tesseract, mentioned in a much earlier session by Ra, as the direction of transformation from space/time into time/space and I was thinking that possibly it was also linked with the crux ansata. Am I in any way correct with this observation?{{< /r >}}
+
+{{< l a="Ra" >}}
+In 2 circumstances this is so.
+
+1. If there has been the pre-incarnative choice that, for instance, one shall not take life in the service of the cultural group, events shall fall in a protective manner.
+
+2. If any entity is able to dwell completely in unity the only harm that may occur to it is the changing of the outward physical, yellow-ray vehicle into the more light-filled mind/body/spirit complex’s vehicle by the process of death. 
+
+All other suffering and pain is as nothing to one such as this. We may note that this perfect configuration of the mind, body, and spirit complexes, while within the third density vehicle, is extraordinarily rare.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+So there is no protection at all if the Experience of the Mind has become negative and the negative path is traveled? 
+
+All random catalyst may affect the negatively polarized individual as a function of the statistical nature of the random catalyst?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. Some people seek places of survival. This is due to the lack of protection when service to self is invoked.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+The possibility of the legs of the entity of Card Four being at approximate right angles was linked with the tesseract, mentioned in a much earlier session by Ra, as the direction of transformation from space/time into time/space and I was thinking that possibly it was also linked with the crux ansata. Am I in any way correct with this observation?{{< /r >}}
+
+
 {{< l a="Ra" >}}This shall be the last query of this working, as transferred energy wanes. The observation of the right angles and their transformational meaning is most perceptive, O student. Each of the images leading to the Transformations of Mind, Body, and Spirit and ultimately to the great transformative Choice [has] the increasing intensity of increasing articulation of concept; that is to say, each image in which you find this angle may increasingly be seen to be a more and more stridently calling voice of opportunity to use each resource, be it Experience as you now observe or further images, for the grand work of the adept which builds towards transformation using the spirit’s bountiful shuttle to intelligent infinity. Please ask any brief queries at this space/time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}

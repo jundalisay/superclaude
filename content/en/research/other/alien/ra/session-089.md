@@ -39,59 +39,133 @@ June 9, 1982
 
 {{< l a="Ra" >}}The entity which has been your companion has a vibratory frequency but a small amount lesser than that of the social memory complex known as Latwii. Also, Latwii is the primary comforter of the Confederation for entities seeking at the vibratory complex level of the one known as Jim. Therefore, this same companion has been attempting the contact of Carla also, although Carla would have great difficulty in distinguishing the actual contact due to the lack of experience of your companion at this type of service. Nevertheless, it is well that Carla also choose some manner of the challenging of contacts.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How many of our years ago was Ra’s third density ended?{{< /r >}}
+{{< r a="Don Elkins" >}}How many of our years ago did your 3rd density end?{{< /r >}}
 
-{{< l a="Ra" >}}The calculations necessary for establishing this point are difficult since so much of what you call time is taken up before and after third density as you see the progress of time from your vantage point. We may say in general that the time of our enjoyment of the choice-making was approximately 2.6 million of your sun-years in your past. However— we correct Carla. Your term is billion, 2.6 billion of your years in your past. However, this time, as you call it, is not meaningful for our intervening space/time has been experienced in a manner quite unlike your third-density experience of space/time.{{< /l >}}
+{{< l a="Ra" >}}
+The calculation for this is difficult since so much of time is taken up before and after 3rd density.
 
-{{< r a="Don Elkins" >}}It appears that the end of Ra’s third density coincided with the beginning of this planet’s second density. Is that correct?{{< /r >}}
+But generally, the time of our enjoyment of the choice-making was approximately 2.6 billion sun-years in your past. 
+
+However, this time is not meaningful for our intervening space/time has been experienced in a manner quite unlike your 3rd density experience of space/time.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}It appears that the end of Ra’s 3rd density coincided with the beginning of Earth's 2nd density.{{< /r >}}
+
 
 {{< l a="Ra" >}}This is roughly correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Did the planet Venus become a fourth-density planet at that time?{{< /r >}}
 
-{{< l a="Ra" >}}This is so.{{< /l >}}
+{{< r a="Don Elkins" >}}Did Venus become a 4th-density planet at that time?{{< /r >}}
 
-{{< r a="Don Elkins" >}}Did it later, then, become a fifth-density planet?{{< /r >}}
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
-{{< l a="Ra" >}}It later became a fourth/fifth-density planet; then, later a fifth-density planet for a large measure of your time. Both fourth- and fifth-density experiences were possible upon the planetary influence of what you call Venus.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Did it later, then, become a 5th-density planet?{{< /r >}}
+
+{{< l a="Ra" >}}
+It later became a 4th/5th-density planet.
+
+Then, later a 5th-density planet for a large measure of your time. 
+
+Both 4th- and 5th-density experiences were possible on Venus.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What is its density at present?{{< /r >}}
 
-{{< l a="Ra" >}}Its core vibrational frequency is sixth density. However we, as a social memory complex, had elected to leave that influence. Therefore, the beings inhabiting this planetary influence at this space/time are fifth-density entities. The planet may be considered a fifth/sixth-density planet.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What was your reason for leaving?{{< /r >}}
+{{< l a="Ra" >}}
+Its core vibrational frequency is 6th density.
+
+However we, as a social memory complex, had elected to leave that influence. 
+
+Therefore, the beings inhabiting this planetary influence at this space/time are 5th-density entities.
+
+The planet may be considered a 5th/6th-density planet.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}Why did you leave?{{< /r >}}
+
 
 {{< l a="Ra" >}}We wished to be of service.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I have here a deck of twenty-two tarot cards which have been copied, according to information we have, from the walls of, I would suspect, the large pyramid at Giza. If necessary we can duplicate these cards in the book that we are preparing. I would ask Ra if these cards represent an exact replica of that which is in the Great Pyramid?{{< /r >}}
+{{< r a="Don Elkins" >}}I have here a deck of 22 tarot cards which have been copied from the walls of the large pyramid at Giza.
+
+If necessary we can duplicate these cards in the book that we are preparing. I would ask Ra if these cards represent an exact replica of that which is in the Great Pyramid?{{< /r >}}
+
 
 {{< l a="Ra" >}}The resemblance is substantial.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In other words, you might say that these were better than, say, 95% correct as far as representing what is on the walls of the Great Pyramid?{{< /r >}}
+{{< r a="Don Elkins" >}}
+In other words, you might say that these were better than, say, 95% correct as far as representing what is on the walls of the Great Pyramid?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The way I understand this, then, Ra gave these archetypical concepts to the priests of Egypt who then drew them upon the walls of one of the chambers of the Great Pyramid. What was the technique of transmission of this information to the priests? At this time, was Ra walking the surface among the Egyptians, or was this done through some form of channeling?{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+You gave these archetypical concepts to the priests of Egypt who then drew them on the walls of one of the chambers of the Great Pyramid. 
+
+What was the technique of transmission of this information to the priests? 
+
+At this time, was Ra walking the surface among the Egyptians, or was this done through some form of channeling?{{< /r >}}
+
 
 {{< l a="Ra" >}}This was done partially through old teachings and partially through visions.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then at this particular time Ra had long since vacated the planet as far as walking among the Egyptians. Is this correct?{{< /r >}}
+
+{{< r a="Don Elkins" >}}Then at this particular time Ra had long since vacated the planet as far as walking among the Egyptians?{{< /r >}}
+
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I would like to question Ra on each of these cards in order to better understand the archetypes. Is this agreeable?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Can I ask you each of these cards in order to better understand the archetypes?
+{{< /r >}}
 
-{{< l a="Ra" >}}As we have previously stated, these archetypical concept complexes are a tool for learn/teaching. Thusly, if we were to offer information that were not a response to observations of the student we would be infringing upon the free will of the learn/teacher by being teach/learner and learn/teacher at once.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In that case, I’ll ask you… You stated that Ra used the tarot to develop the magical personality. Was this done by the system of learning to become, in mind, the essence of each archetype and in this way develop the magical personality?{{< /r >}}
+{{< l a="Ra" >}}
+These archetypical concept complexes are a tool for learn/teaching.
 
-{{< l a="Ra" >}}This is incorrect. The clothing one’s self within the archetype is an advanced practice of the adept which has long studied this archetypical system. The concept complexes which together are intended to represent the architecture of a significant and rich portion of the mind are intended to be studied as individual concept complexes; as Matrix, Potentiator, etc., in viewing mind/body/spirit connections; and in pairs with some concentration upon the polarity of the male and the female. If these are studied there comes the moment when the deep threnodies and joyful ditties of the deep mind can successfully be brought forward to intensify, articulate, and heighten some aspect of the magical personality.{{< /l >}}
+Thusly, if we were to offer information that were not a response to observations of the student we would be infringing upon the free will of the learn/teacher by being teach/learner and learn/teacher at once.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You stated that each archetype is a concept complex. Would you please define what you mean by that statement?{{< /r >}}
 
-{{< l a="Ra" >}}Upon the face of it such a definition is without merit, being circular. A concept complex is a complex of concepts just as a molecule is a complex structure made up of more than one type of energy nexus or atom. Each atom within a molecule is its unique identity and, by some means, can be removed from the molecule. The molecule of water can, by chemical means, be caused to separate into hydrogen and oxygen. Separately they cannot be construed to equal water. When formed in the molecular structure which exemplifies water the two are irrefragably water.
+{{< r a="Don Elkins" >}}
+You used the tarot to develop the magical personality. 
 
-Just in this way each archetype has within it several root atoms of organizational being. Separately the overall structure of the complex cannot be seen. Together the concept complex is irrefragably one thing. However, just as it is most useful in grasping the potentials in your physical systems of the constituting nature of water, so in grasping the nature of an archetype it is useful to have a sense of its component concepts.{{< /l >}}
+Was this done by the system of learning to become, in mind, the essence of each archetype and in this way develop the magical personality?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+No. The clothing one’s self within the archetype is an advanced practice of the adept which has long studied this archetypical system. 
+
+The concept complexes which together are intended to represent the architecture of a significant and rich portion of the mind are intended to be studied as individual concept complexes; as Matrix, Potentiator, etc., in viewing mind/body/spirit connections.
+
+In pairs with some concentration upon the polarity of the male and the female. If these are studied there comes the moment when the deep threnodies and joyful ditties of the deep mind can successfully be brought forward to intensify, articulate, and heighten some aspect of the magical personality.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}You stated that each archetype is a concept complex?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Upon the face of it such a definition is without merit, being circular. 
+
+A concept complex is a complex of concepts just as a molecule is a complex structure made up of more than one type of energy nexus or atom. 
+
+Each atom within a molecule is its unique identity and can be removed from the molecule.
+
+The molecule of water can, by chemical means, be caused to separate into hydrogen and oxygen. 
+
+Separately, they cannot be construed to equal water. 
+
+When formed in the molecular structure which exemplifies water the two are irrefragably water.
+
+Just in this way each archetype has within it several root atoms of organizational being. Separately the overall structure of the complex cannot be seen. 
+
+Together the concept complex is irrefragably one thing. However, just as it is most useful in grasping the potentials in your physical systems of the constituting nature of water, so in grasping the nature of an archetype it is useful to have a sense of its component concepts.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In Archetype Number One, represented by tarot card number one, the Matrix of the Mind seems to me to have four basic parts to the complex. Looking at the card we have, first and most obvious, the Magician as a part, and what seems to be an approaching star. A stork or similar bird seems to be in a cage. On top of the cage we have something that is very difficult to discern. Am I in any way correct in this analysis?{{< /r >}}
 
@@ -119,7 +193,9 @@ We would note at this time that Carla is having almost continuous pain flares. T
 
 Any observations made by a student which has fulfilled these considerations will receive our comments in return. Our great avoidance of interpreting, for the first time, for the learn/teacher various elements of a picture upon a piece of pasteboard is involved both with the Law of Confusion and with the difficulties of the distortions of the pictures upon the pasteboard. Therefore, we may suggest a conscientious review of that which we have already given concerning this subject as opposed to the major reliance being either upon any rendition of the archetype pictures or any system which has been arranged as a means of studying these pictures.{{< /l >}}
 
-{{< r a="Don Elkins" >}}All right, we’ll attempt to do that. Ra stated that a major breakthrough was made when proper emphasis was put on Arcanum Twenty-Two. This didn’t happen until after Ra had completed third density. I assume from this that Ra, being polarized positively, probably had some of the same difficulty that occurred prior to the veil in that the negative polarity was not appreciated. That’s a guess. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}All right, we’ll attempt to do that. Ra stated that a major breakthrough was made when proper emphasis was put on Arcanum Twenty-Two. This didn’t happen until after Ra had completed third density. 
+
+I assume from this that Ra, being polarized positively, probably had some of the same difficulty that occurred prior to the veil in that the negative polarity was not appreciated. That’s a guess. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}In one way it is precisely correct. Our harvest was overwhelmingly positive and our appreciation of those which were negative was relatively uninformed. However, we were intending to suggest that in the use of the system known to you as the tarot for advancing the spiritual evolution of the self a proper understanding, if we may use this misnomer, of Archetype Twenty-Two is greatly helpful in sharpening the basic view of the Significator of Mind, Body, and Spirit and, further, throws into starker relief the Transformation and Great Way of Mind, Body, and Spirit complexes.{{< /l >}}
 
@@ -127,13 +203,29 @@ Any observations made by a student which has fulfilled these considerations will
 
 {{< l a="Ra" >}}We had no negative harvest as such although there had been two entities which had harvested themselves during the third density in the negative or service-to-self path. There were, however, those upon the planetary surface during third density whose vibratory patterns were in the negative range but were not harvestable.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What was Ra’s average total population incarnate on Venus in third density, the number?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What was the average total population on Venus when you were in 3rd density?{{< /r >}}
 
-{{< l a="Ra" >}}We were a small population which dwelt upon what you would consider difficult conditions. Our harvest was approximately 6 million 500 thousand mind/body/spirit complexes. There were approximately 32 million mind/body/spirit complexes repeating third density elsewhere.{{< /l >}}
+
+{{< l a="Ra" >}}
+We were a small population which dwelt on difficult conditions. 
+
+Our harvest was approximately 6 million 500 thousand mind/body/spirit complexes. 
+
+There were approximately 32 million mind/body/spirit complexes repeating third density elsewhere.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What was the attitude just prior to harvest of those harvestable entities of Ra with respect to those who were obviously unharvestable?{{< /r >}}
 
-{{< l a="Ra" >}}Those of us which had the gift of polarity felt deep compassion for those who seemed to dwell in darkness. This description is most apt as ours was a harshly bright planet in the physical sense. There was every attempt made to reach out with whatever seemed to be needed. However, those upon the positive path have the comfort of companions and we of Ra spent a great deal of our attention upon the possibilities of achieving spiritual or metaphysical adepthood, or work in indigo ray, through the means of relationships with other-selves. Consequently, the compassion for those in darkness was balanced by the appreciation of the light.{{< /l >}}
+
+{{< l a="Ra" >}}
+Those of us which had the gift of polarity felt deep compassion for those who seemed to dwell in darkness. This description is most apt as ours was a harshly bright planet in the physical sense. 
+
+There was every attempt made to reach out with whatever seemed to be needed. However, those upon the positive path have the comfort of companions and we of Ra spent a great deal of our attention upon the possibilities of achieving spiritual or metaphysical adepthood, or work in indigo ray, through the means of relationships with other-selves. 
+
+Consequently, the compassion for those in darkness was balanced by the appreciation of the light.{{< /l >}}
+
+
 
 {{< r a="Don Elkins" >}}Would Ra’s attitude toward the same unharvestable entities be different at this nexus than at the time of harvest of third density?{{< /r >}}
 
@@ -141,29 +233,50 @@ Any observations made by a student which has fulfilled these considerations will
 
 {{< r a="Don Elkins" >}}What techniques did the two negatively harvested entities use for negative polarization on such a positively polarized planet?{{< /r >}}
 
-{{< l a="Ra" >}}The technique of control over others and domination unto the physical death was used in both cases. Upon a planetary influence much unused to slaughter these entities were able to polarize by this means. Upon your third-density environment at the time of your experiencing such entities would merely be considered, shall we say, ruthless despots which waged the holy war.{{< /l >}}
+{{< l a="Ra" >}}
+The technique of control over others and domination unto the physical death was used in both cases. 
 
-{{< r a="Don Elkins" >}}Did these two entities evolve from the second density of the planet Venus along with the rest of the population of Venus that became Ra from second density to third?{{< /r >}}
+Upon a planetary influence, much unused to slaughter these entities were able to polarize by this means.
 
-{{< l a="Ra" >}}No.{{< /l >}}
+On your 3rd density environment at the time of your experiencing, such entities would merely be considered ruthless despots which waged the holy war.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What was the origin of the two entities of which you speak?{{< /r >}}
 
-{{< l a="Ra" >}}These entities were Wanderers from early positive fifth density.{{< /l >}}
+{{< r a="Don Elkins" >}}Did these 2 entities evolve from the 2nd density of Venus along with the rest of the population of Venus that became Ra from 2nd density to 3rd?{{< /r >}}
 
-{{< r a="Don Elkins" >}}And yet, though they had already evolved through a positive fourth density they, shall we say, flipped polarity in the reincarnating in third density. Is this correct?{{< /r >}}
+{{< l a="Ra" >}}
+No.{{< /l >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+
+{{< r a="Don Elkins" >}}What was the origin of the 2 entities of which you speak?{{< /r >}}
+
+{{< l a="Ra" >}}
+These entities were Wanderers from early positive 5th density.{{< /l >}}
+
+{{< r a="Don Elkins" >}}And yet, though they had already evolved through a positive fourth density they, shall we say, flipped polarity in the reincarnating in third density.{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What was the catalyst for their change?{{< /r >}}
 
-{{< l a="Ra" >}}In our peoples there was what may be considered, from the viewpoint of wisdom, an overabundance of love. These entities looked at those still in darkness and saw that those of a neutral or somewhat negative viewpoint found such harmony, shall we say, sickening. The Wanderers felt that a more wisdom-oriented way of seeking love could be more appealing to those in darkness.
 
-First one entity began its work. Quickly the second found the first. These entities had agreed to serve together and so they did, glorifying the One Creator, but not as they intended. About them were soon gathered those who found it easy to believe that a series of specific knowledges and wisdoms would advance one towards the Creator. The end of this was the graduation into fourth-density negative of the Wanderers, which had much power of personality, and some small deepening of the negatively polarized element of those not polarizing positively. There was no negative harvest as such.{{< /l >}}
+{{< l a="Ra" >}}
+Our peoples had an overabundance of love.
+
+These entities looked at those still in darkness and saw that those of a neutral or somewhat negative viewpoint found such harmony, shall we say, sickening. 
+
+The Wanderers felt that a more wisdom-oriented way of seeking love could be more appealing to those in darkness.
+
+First one entity began its work. Quickly the second found the first. 
+
+These entities had agreed to serve together and so they did, glorifying the One Creator, but not as they intended. About them were soon gathered those who found it easy to believe that a series of specific knowledges and wisdoms would advance one towards the Creator. The end of this was the graduation into fourth-density negative of the Wanderers, which had much power of personality, and some small deepening of the negatively polarized element of those not polarizing positively. There was no negative harvest as such.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the reason for the wandering of these two Wanderers, and were they male and female?{{< /r >}}
 
-{{< l a="Ra" >}}All Wanderers come to be of assistance in serving the Creator, each in its own way. The Wanderers of which we have been speaking were indeed incarnated male and female as this is by far the most efficient system of partnership.{{< /l >}}
+{{< l a="Ra" >}}
+All Wanderers come to be of assistance in serving the Creator, each in its own way. The Wanderers of which we have been speaking were indeed incarnated male and female as this is by far the most efficient system of partnership.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}As a wild guess, one of these entities wouldn’t be the one who has been our companion here for some time in our sessions, would it?{{< /r >}}
 

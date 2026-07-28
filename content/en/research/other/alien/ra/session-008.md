@@ -105,7 +105,7 @@ Consider a race who watches a movie. It experiences a story and identifies with 
 
 {{< l a="Ra" >}}The configuration of their beings is their normal configuration. The unusualness is not remarkable. We ourselves, when we chose a mission among your peoples, needed to study your peoples for had we arrived in no other form than our own, we would have been perceived as light.
 
-They were third-density beings of a fairly high order, from Sirius. We should express the understanding to you that these entities would not have used the mind/body/spirit complex, Charlie, except for the resolve of this entity before incarnation to be of service.{{< /l >}}
+They were third density beings of a fairly high order, from Sirius. We should express the understanding to you that these entities would not have used the mind/body/spirit complex, Charlie, except for the resolve of this entity before incarnation to be of service.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the home or origin of the entities that took Charlie?{{< /r >}}
 

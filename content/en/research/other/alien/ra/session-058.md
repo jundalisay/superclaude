@@ -95,7 +95,7 @@ Now, as I understand it, the pyramid shape acts as a funnel, in this way increas
 
 {{< l a="Ra" >}}In general, this is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the pure crystalline shape, such as the diamond, you mentioned as being frozen light— it seems that this third-density physical manifestation of light is somehow a window or focusing mechanism for the third distortion in the general sense. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Then the pure crystalline shape, such as the diamond, you mentioned as being frozen light— it seems that this third density physical manifestation of light is somehow a window or focusing mechanism for the third distortion in the general sense. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is basically correct. However, it may be noted that only the will of the crystallized entity may cause interdimensional light to flow through this material. The more regularized the entity, and the more regularized the crystal, the more profound the effect.{{< /l >}}
 
@@ -111,7 +111,7 @@ Now, as I understand it, the pyramid shape acts as a funnel, in this way increas
 
 {{< r a="Don Elkins" >}}Then you are saying that this wouldn’t be useful in our present density. Will it be useful in fourth-density on this planet in the very near future?{{< /r >}}
 
-{{< l a="Ra" >}}The end of such energy focusing is to build, not to destroy, and it does become quite useful as, shall we say, an alternative to third-density building methods.{{< /l >}}
+{{< l a="Ra" >}}The end of such energy focusing is to build, not to destroy, and it does become quite useful as, shall we say, an alternative to third density building methods.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is it also used for healing?{{< /r >}}
 

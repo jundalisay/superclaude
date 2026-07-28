@@ -40,7 +40,7 @@ Was this related to the energy centers and why they were important if that was s
 {{< l a="Ra" >}}
 This is basically correct if you may understand that there is a link between energy centers and various thought-forms. Thus the fears of the mass consciousness create the climate for the concentration upon the removal of bodily parts which symbolize areas of concern or fear in the mass consciousness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Are you saying, then, that these parts that are removed are related to the mass consciousness of the third-density human form on the planet and this fear is being used in some way by the second-density entities or, correction, the thought-form entities that do the mutilations?{{< /r >}}
+{{< r a="Don Elkins" >}}Are you saying, then, that these parts that are removed are related to the mass consciousness of the third density human form on the planet and this fear is being used in some way by the second-density entities or, correction, the thought-form entities that do the mutilations?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct as latterly stated. The thought-form entities feed upon fear; thus they are able to do precise damage according to systems of symbology. The other second-density types of which you speak need the, what you call, blood.{{< /l >}}
 
@@ -138,7 +138,7 @@ We shall simplify by concentrating upon what we consider to be the central idea 
 
 {{< r a="Don Elkins" >}}I was wondering, then, if the mechanism of teach/learning was the same, relatively, then in fourth density. From what you say, it seems that it is necessary for first the call to exist for the teach/learning of fifth density to be given to fourth just as a call must exist here before fourth-density lessons are given to third. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This query is misguided, for experience in fourth density is emphatically not the same as third-density experience. However, it is correct that the same mechanism of calling predisposes the information received in a way consonant with free will.
+{{< l a="Ra" >}}This query is misguided, for experience in fourth density is emphatically not the same as third density experience. However, it is correct that the same mechanism of calling predisposes the information received in a way consonant with free will.
 
 You may ask one more full question at this working.{{< /l >}}
 

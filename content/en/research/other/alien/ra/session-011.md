@@ -35,15 +35,26 @@ This is approximate due to the fact that parallel possibility/probability vortic
 
 It is not a planet as it is locked in first density.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You said that entities from Maldek might go to— some may go to fourth-density negative. Are there people who go out of our present third density to places in the universe and serve, which are fourth-density self-service or negative type of planets? As our cycle ends and graduation occurs, is it possible for anyone to go from this third to a fourth-density planet that is a self-service type or negative type?{{< /r >}}
+{{< r a="Don Elkins" >}}
+You said that entities from Maldek might go to 4th-density negative.
 
-{{< l a="Ra" >}}Yes. In this harvest the probability/possibility vortex indicates a harvest, though small, of this type.{{< /l >}}
+Are there people who go out of our present 3rd density to places in the universe and serve, which are 4th-density self-service or negative type of planets? 
+
+As our cycle ends and graduation occurs, is it possible for anyone to go from this 3rd to a 4th-density planet that is a self-service type or negative type?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes. In this harvest the probability/possibility vortex indicates a harvest, though small, of this type.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What happened to Hitler?{{< /r >}}
 
-{{< l a="Ra" >}}He is at this time in a healing process in the middle astral planes of your spherical force field.
+{{< l a="Ra" >}}
+He is at this time in a healing process in the middle astral planes of your spherical force field.
 
 He was greatly confused and, although aware of the circumstance of change in vibratory level associated with the cessation of the chemical body complex, nevertheless, needed a great deal of care.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Is there anyone in our history that is commonly known who went to a fourth-density self-service or negative type planet or who will go there?{{< /r >}}
 
@@ -170,7 +181,7 @@ The scientists were overwhelmingly positive in their orientation. The scientists
 
 {{< l a="Ra" >}}Nikola received information from Confederation sources wanting to aid this extremely angelically positive entity in bettering the existence of its fellow mind/body/spirit complexes.
 
-It is unfortunate that like many Wanderers the vibratory distortions of third-density illusion caused Nikola to become extremely distorted in its perceptions of its fellow mind/body/spirit complexes so that his mission was hindered and in the result, perverted from its purposes.{{< /l >}}
+It is unfortunate that like many Wanderers the vibratory distortions of 3rd density illusion caused Nikola to become extremely distorted in its perceptions of its fellow mind/body/spirit complexes so that his mission was hindered and in the result, perverted from its purposes.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How was Tesla’s work supposed to benefit man on Earth, and what were its purposes?{{< /r >}}
 

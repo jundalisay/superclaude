@@ -66,35 +66,68 @@ Therefore, the 5D entity may dissolve one manifestation and create another.
 
 Consequently, the choice of a 5D entity or complex of entities wishing to communicate with your peoples would choose to resemble your peoples’ physical-complex, chemical, yellow-ray vehicles.{{< /l >}}
 
-{{< r a="Don Elkins" >}}If you were to move a third-density entity from some other planet to this planet, roughly what percentage of all of those within the knowledge of Ra would look enough like those entities of Earth so that they would go unnoticed in a crowd?{{< /r >}}
+{{< r a="Don Elkins" >}}
+If you were to move a 3rd density entity from some other planet to this planet, roughly what percentage of all of those within the knowledge of Ra would look enough like those entities of Earth so that they would go unnoticed in a crowd?
+{{< /r >}}
 
 {{< l a="Ra" >}}Perhaps 5%.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then there is an extreme variation in the form of the physical vehicle in third density in the universe. I assume this is also true of fourth density. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Then there is an extreme variation in the form of the physical vehicle in third density in the universe. I assume this is also true of fourth density. 
+{{< /r >}}
 
-{{< l a="Ra" >}}This is so. There is a great theoretical distance between demanding that the creatures of an infinite creation be unnoticeably similar to oneself and observing those signs which may be called human which denote the third-density characteristics of self-consciousness.
+
+{{< l a="Ra" >}}
+This is so. There is a great theoretical distance between demanding that the creatures of an infinite creation be unnoticeably similar to oneself and observing those signs which may be called human which denote the third density characteristics of self-consciousness.
 
 The grouping into pairs, societal groups, and races. The further characteristic means of using self-consciousness to refine and search for the meaning of the milieu.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, within Ra’s knowledge of third-density physical forms, what percentage would be similar enough to this planet’s physical form that we would assume the entity to be human even though they were a bit different? This would have to be very rough because of my definition being very rough.{{< /r >}}
+{{< r a="Don Elkins" >}}
+Well, within Ra’s knowledge of 3rd density physical forms, what percentage would be similar enough to this planet’s physical form that we would assume the entity to be human even though they were a bit different? 
 
-{{< l a="Ra" >}}This percentage is still small; perhaps thirteen to fifteen percent due to the capabilities of various second-density life forms to carry out each necessary function for third-density work. Thusly to be observed would be behavior indicating self-consciousness and purposeful interaction with a sentient ambiance about the entity rather than those characteristics which familiarly connote to your peoples the humanity of your third-density form.{{< /l >}}
+This would have to be very rough because of my definition being very rough.{{< /r >}}
 
-{{< r a="Don Elkins" >}}Now my line of questioning I am trying to link to the creation of various Logos and their original use of a system of archetypes in their creation and I apologize for possibly a lack of efficiency in doing this, but I find this somewhat difficult. Now, for this particular Logos in the beginning, prior to its creation of first density, did the archetypical system which it had chosen for its creations include the forms that would evolve, and in particular third density human form, or was this related to the archetypical concept at all?{{< /r >}}
+
+{{< l a="Ra" >}}
+This percentage is still small; perhaps 13-15% due to the capabilities of various 2nd-density life forms to carry out each necessary function for third density work. 
+
+Thusly to be observed would be behavior indicating self-consciousness and purposeful interaction with a sentient ambiance about the entity rather than those characteristics which familiarly connote to your peoples the humanity of your third density form.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+My line of questioning I am trying to link to the creation of various Logos and their original use of a system of archetypes in their creation and I apologize for possibly a lack of efficiency in doing this, but I find this somewhat difficult. 
+
+For this particular Logos in the beginning, prior to its creation of first density, did the archetypical system which it had chosen for its creations include the forms that would evolve, and in particular third density human form, or was this related to the archetypical concept at all?
+{{< /r >}}
+
 
 {{< l a="Ra" >}}The choice of form is prior to the formation of the archetypical mind. As the Logos creates Its plan for evolution, then the chosen form is invested.{{< /l >}}
 
+
 {{< r a="Don Elkins" >}}Was there a reason for choosing the forms that have evolved upon this planet and, if so, what was it?{{< /r >}}
+
 
 {{< l a="Ra" >}}We are not entirely sure why our Logos and several neighboring Logoi of approximately the same space/time of flowering chose the bipedal, erect form of the second-density apes to invest.
 
-It has been our supposition, which we share with you as long as you are aware that this is mere opinion, that our Logos was interested in, shall we say, further intensifying the veiling process by offering to the third-density form the near complete probability for the development of speech taking complete precedence over concept communication or telepathy. We also have the supposition that the so-called opposable thumb was looked upon as an excellent means of intensifying the veiling process so that rather than rediscovering the powers of the mind the third-density entity would, by the form of its physical manifestation, be drawn to the making, holding, and using of physical tools.{{< /l >}}
+We suppose that:
+- our Logos was interested in further intensifying the veiling process by offering to the 3rd density form the near complete probability for the development of speech taking complete precedence over concept communication or telepathy. 
+- the opposable thumb was looked on as an excellent means of intensifying the veiling process so that rather than rediscovering the powers of the mind the third density entity would, by the form of its physical manifestation, be drawn to the making, holding, and using of physical tools.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I will guess that the system of archetypes then was devised to further extend these particular principles. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}The phrasing is faulty. However, it is correct that the images of the archetypical mind are the children of the third-density physical manifestations of form of the Logos which has created the particular evolutionary opportunity.{{< /l >}}
+{{< r a="Don Elkins" >}}
+I will guess that the system of archetypes then was devised to further extend these particular principles.
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}The archetypes are the biases of a very fundamental nature that, under free will, generate the experiences of each entity. Is this correct?{{< /r >}}
+
+{{< l a="Ra" >}}
+The phrasing is faulty. However, it is correct that the images of the archetypical mind are the children of the third density physical manifestations of form of the Logos which has created the particular evolutionary opportunity.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+The archetypes are the biases of a very fundamental nature that, under free will, generate the experiences of each entity.
+{{< /r >}}
+
 
 {{< l a="Ra" >}}The archetypical mind is part of that mind which informs all experience.
 
@@ -106,7 +139,7 @@ The other root of mind to be recalled is that racial or planetary mind which als
 
 {{< r a="Don Elkins" >}}At what point in the evolutionary process does the archetypical mind first have effect upon the entity?{{< /r >}}
 
-{{< l a="Ra" >}}At the point at which an entity, either by accident or design, reflects an archetype, the archetypical mind resonates. Thusly random activation of the archetypical resonances begins almost immediately in third-density experience. The disciplined use of this tool of evolution comes far later in this process.{{< /l >}}
+{{< l a="Ra" >}}At the point at which an entity, either by accident or design, reflects an archetype, the archetypical mind resonates. Thusly random activation of the archetypical resonances begins almost immediately in third density experience. The disciplined use of this tool of evolution comes far later in this process.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What was the ultimate objective of this Logos in designing the archetypical mind as It did?{{< /r >}}
 

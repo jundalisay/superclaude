@@ -48,7 +48,7 @@ There are over 4 billion incarnate today. Were the over 4 billion people who are
 
 These become able to take up 3rd density once again and were gradually loosed from self-imposed limitations of form.
 
-2. The  other 3rd-density entrance or neophytes whose vibratory patterns matched the Earth experiential nexus. 
+2. The  other 3rd density entrance or neophytes whose vibratory patterns matched the Earth experiential nexus. 
 
 These then filtered in through incarnative processes. 
 
@@ -104,11 +104,11 @@ The transfer, as you call it, has been gradual. Over two billion souls are those
 
 {{< r a="Don Elkins" >}}In the Giza pyramid there was no chamber at position two. Do you ever make use of position two by putting a chamber in that position, say on other planets or in other pyramids?{{< /r >}}
 
-{{< l a="Ra" >}}This position is useful only to those whose abilities are such that they are capable of serving as conductors of this type of focused spiral. One would not wish to attempt to train third-density entities in such disciplines.{{< /l >}}
+{{< l a="Ra" >}}This position is useful only to those whose abilities are such that they are capable of serving as conductors of this type of focused spiral. One would not wish to attempt to train third density entities in such disciplines.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Then the third spiral radiating from the top of the pyramid you say is used for energizing. Can you tell me what you mean by “energizing?”{{< /r >}}
 
-{{< l a="Ra" >}}The third spiral is extremely full of the positive effects of directed prana and that which is placed over such a shape will receive shocks energizing the electro-magnetic fields. This can be most stimulating in third-density applications of mental and bodily configurations. However, if allowed to be in place over-long such shocks may traumatize the entity.{{< /l >}}
+{{< l a="Ra" >}}The third spiral is extremely full of the positive effects of directed prana and that which is placed over such a shape will receive shocks energizing the electro-magnetic fields. This can be most stimulating in third density applications of mental and bodily configurations. However, if allowed to be in place over-long such shocks may traumatize the entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Are there any other effects of the pyramid shape beside the spirals that we have just discussed?{{< /r >}}
 

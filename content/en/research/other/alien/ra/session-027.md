@@ -43,7 +43,7 @@ Consider, if you will, the intelligent infinity present in the absorption of liv
 
 The release and use of intelligent infinity for a brief period begins to absorb all the consecutive or interlocking dimensions, thus offering brief glimpses of those projecting to the material their thought. These beings thus beginning to materialize but not remaining visible. 
 
-These beings were the thought-form or third-density-visible manifestation of our social memory complex as we offered contact from our intelligent infinity to the intelligent infinity of the stone.{{< /l >}}
+These beings were the thought-form or third density-visible manifestation of our social memory complex as we offered contact from our intelligent infinity to the intelligent infinity of the stone.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}

@@ -207,9 +207,6 @@ This is a distorted perception of oneness with other-selves.
 
 It allowed the Orion group to form the concept of the holy war.{{< /l >}}
 
----
-
-Would you like me to continue formatting Session 19 in the same style next?
 
 
 
@@ -228,3 +225,4 @@ Ra:
 2. manipulate the body to alleviate the distortion towards physical complex pain.
 3. exercise -->
 <!-- 4.  The final injunction: to take special care with the alignments this second session so that the entity may gain as much aid as possible from the various symbols. We suggest you check these symbols most carefully. This entity is slightly misplaced from the proper configuration. Not important at this time. More important when a second session is to be scheduled. -->
+

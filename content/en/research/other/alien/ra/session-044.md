@@ -87,6 +87,3 @@ This is incorrect. These stations are relationships. Each path has these relatio
 
 {{< l a="Ra" >}}We shall respond to the meaning of this term in a specialized sense. The ipsissimus is one who has mastered the Tree of Life and has used this mastery for negative polarity.{{< /l >}}
 
----
-
-Would you like me to format Session 45 in the same style next?

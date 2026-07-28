@@ -27,7 +27,7 @@ I have several different questions. In this session I hope to establish, by sear
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The connection between polarization and harvestability is most important in third-density harvest. In this density an increase in the serving of others or the serving of self will almost inevitably increase the ability of an entity to enjoy an higher intensity of light. Thus in this density, we may say, it is hardly possible to polarize without increasing in harvestability.
+The connection between polarization and harvestability is most important in third density harvest. In this density an increase in the serving of others or the serving of self will almost inevitably increase the ability of an entity to enjoy an higher intensity of light. Thus in this density, we may say, it is hardly possible to polarize without increasing in harvestability.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}

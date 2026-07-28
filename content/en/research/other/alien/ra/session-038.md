@@ -45,21 +45,21 @@ In the fully potentiated entity, the rays mount one upon the other with equal vi
 you may call this potentiated balance in third density.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Is it possible for a 3rd-density planet to form a social memory complex which operates in third density?{{< /r >}}
+Is it possible for a 3rd density planet to form a social memory complex which operates in third density?{{< /r >}}
 
 {{< l a="Ra" >}}
 It is possible only in the latter or seventh portion of such a density when entities are harmoniously readying for graduation.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you give me an example of a planet of this nature, both a third-density service-to-others type and a third-density self-service type at this level of attainment conditions?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you give me an example of a planet of this nature, both a third density service-to-others type and a third density self-service type at this level of attainment conditions?{{< /r >}}
 
 {{< l a="Ra" >}}
-As far as we are aware, there are no negatively oriented third-density social memory complexes.
+As far as we are aware, there are no negatively oriented third density social memory complexes.
 
 Positively oriented social memory complexes of 3rd density are quite rare.
 
 However, an entity from Sirius’ planetary body has approached Earth twice.
 
-It is late 3rd-density and is part of a 3rd-density social memory complex. 
+It is late 3rd density and is part of a 3rd density social memory complex. 
 
 The social memory complex is properly a 4th-density phenomenon.{{< /l >}}
 
@@ -93,7 +93,7 @@ Entities of this heritage would find it nearly impossible to fight. Indeed, thei
 
 {{< l a="Ra" >}}This is largely correct. It is an electromagnetic phenomenon which is controlled by thought impulses of a weak electrical nature.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was their craft visible to— would it have been visible to anyone of our density on our planet who might have seen it or might have been in that area at that time? Is it a third-density material the same as this chair or anything we have here?{{< /r >}}
+{{< r a="Don Elkins" >}}Was their craft visible to— would it have been visible to anyone of our density on our planet who might have seen it or might have been in that area at that time? Is it a third density material the same as this chair or anything we have here?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct. Please ask one more full question before we close as Carla has low vital energy at this space/time.{{< /l >}}
 
@@ -105,6 +105,3 @@ The early fourth density is one of the most intensive struggle. When the order o
 
 This is often quite damaging to the further polarization of fourth-density negative entities, for the further negative polarization can only come about through group effort. As the fourth-density entities manage to combine, they then polarize through such services to self as those offered by the crusaders of Orion.{{< /l >}}
 
----
-
-Would you like me to format the next session in the same style?

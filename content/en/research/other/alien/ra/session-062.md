@@ -168,13 +168,13 @@ These distortions remove the focus from the One Infinite Source of love and ligh
 
 {{< l a="Ra" >}}This is precisely correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then as the fourth-density vibrations come in this means that the planet can support entities of fourth-density core vibration. Will the planet then still be first-density core vibration and will there be second-density entities on it with second-density vibrations, and will there be third-density entities with third-density vibrations?{{< /r >}}
+{{< r a="Don Elkins" >}}Then as the fourth-density vibrations come in this means that the planet can support entities of fourth-density core vibration. Will the planet then still be first-density core vibration and will there be second-density entities on it with second-density vibrations, and will there be third density entities with third density vibrations?{{< /r >}}
 
 {{< l a="Ra" >}}This will be the last full query of this working. There is energy but the distortions of Carla suggest to us it would be well to shorten this working with your permission.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Yes.{{< /r >}}
 
-{{< l a="Ra" >}}You must see the Earth, as you call it, as being seven Earths. There is red, orange, yellow, and there will soon be a completed green color vibratory locus for fourth-density entities which they will call Earth. During the fourth-density experience, due to the lack of development of fourth-density entities, the third-density planetary sphere is not useful for habitation since the early fourth-density entity will not know precisely how to maintain the illusion that fourth density cannot be seen or determined from any instrumentation available to any third density.
+{{< l a="Ra" >}}You must see the Earth, as you call it, as being seven Earths. There is red, orange, yellow, and there will soon be a completed green color vibratory locus for fourth-density entities which they will call Earth. During the fourth-density experience, due to the lack of development of fourth-density entities, the third density planetary sphere is not useful for habitation since the early fourth-density entity will not know precisely how to maintain the illusion that fourth density cannot be seen or determined from any instrumentation available to any third density.
 
 Thus in fourth density the red, orange, and green energy nexi of your planet will be activated while the yellow is in potentiation along with the blue and the indigo.{{< /l >}}
 

@@ -23,7 +23,7 @@ I have the impression that in the near future the seeking will increase by many 
 
 Ra:  The generalities of expression can never be completely correct. However, we may note that when faced with a hole in the curtain, an entity’s eyes may well peer for the first time through the window beyond. This tendency is probable given the possibility/probability vortices active within your space/time and time/space continua at this nexus.
 
-65.3 Questioner: I have assumed that the reason that so many Wanderers and those harvested third-density entities who have been transferred here find it a privilege and an exceptionally beneficial time to be incarnate upon this planet is that the effect that I just spoke of gives them the opportunity to be more fully of service because of the increased seeking. Is this, in general, correct?
+65.3 Questioner: I have assumed that the reason that so many Wanderers and those harvested third density entities who have been transferred here find it a privilege and an exceptionally beneficial time to be incarnate upon this planet is that the effect that I just spoke of gives them the opportunity to be more fully of service because of the increased seeking. Is this, in general, correct?
 
 Ra:  This is the intention which Wanderers had prior to incarnation. There are many Wanderers whose dysfunction with regard to the planetary ways of your peoples have caused, to some extent, a condition of being caught up in a configuration of mind complex activity which, to the corresponding extent, may prohibit the intended service.
 
@@ -35,7 +35,7 @@ Ra:  Carla is somewhat weak and although strong in vital energy and well able to
 
 Ra:  This is correct.
 
-65.6 Questioner: Would the coming changes as we progress into fourth density— I’m speaking of changes not only in the physical third-density planet due to the heating effect but also the changes that are heralding fourth-density vibrations such as the ability of people to perform what we term paranormal activities— I’m assuming that both of these are also and will act as catalyst to create a greater seeking. Is this correct?
+65.6 Questioner: Would the coming changes as we progress into fourth density— I’m speaking of changes not only in the physical third density planet due to the heating effect but also the changes that are heralding fourth-density vibrations such as the ability of people to perform what we term paranormal activities— I’m assuming that both of these are also and will act as catalyst to create a greater seeking. Is this correct?
 
 Ra:  This is partially correct. The paranormal events occurring are not designed to increase seeking but are manifestations of those whose vibratory configuration enables these entities to contact the gateway to intelligent infinity. These entities capable of paranormal service may determine to be of such service on a conscious level. This, however, is a function of the entity and its free will and not the paranormal ability.
 
@@ -103,13 +103,13 @@ Ra:  You are quite correct.
 
 65.17 Questioner: Then we deal with an entity that has not yet formed a social memory but is yet an entity just as one of us can be called a single entity. Can we continue this observation of the, shall I say, conglomerate entity through the galactic entity, or shall I say, small planetary system type of— Let me try to phrase it this way. Could I look at a single sun in its planetary system as an entity and then look at a major galaxy with its billions of stars as an entity? Can I continue this extrapolation in this way?
 
-Ra:  You can but not within the framework of third-density space/time.
+Ra:  You can but not within the framework of third density space/time.
 
 Let us attempt to speak upon this interesting subject. In your space/time you and your peoples are the parents of that which is in the womb. The Earth, as you call it, is ready to be born and the delivery is not going smoothly. When this entity has become born it will be instinct with the social memory complex of its parents which have become fourth-density positive. In this density there is a broader view.
 
 You may begin to see your relationship to the Logos or sun with which you are most intimately associated. This is not the relationship of parent to child but of Creator, that is Logos, to Creator that is the mind/body/spirit complex, as Logos. When this realization occurs you may then widen the field of “eyeshot,” if you will, infinitely recognizing parts of the Logos throughout the one infinite creation and feeling, with the roots of Mind informing the intuition, the parents aiding their planets in evolution in reaches vast and unknown in the creation, for this process occurs many, many times in the evolution of the creation as an whole.
 
-65.18 Questioner: The Wanderer goes through the forgetting process. You mentioned that those who have both third- and fourth-density bodies activated now do not have the forgetting that the Wanderer has. I was just wondering if, say, a sixth-density Wanderer were here with a third-density body activated, would he have gone through a forgetting that was in sections, shall I say, with a forgetting of fourth, fifth, and sixth densities and if he were to have his fourth-density body activated he would have a partial additional memory and then another partial if his fifth were activated and then the full memory if he had the sixth activated? Does this make any sense?
+65.18 Questioner: The Wanderer goes through the forgetting process. You mentioned that those who have both third- and fourth-density bodies activated now do not have the forgetting that the Wanderer has. I was just wondering if, say, a sixth-density Wanderer were here with a third density body activated, would he have gone through a forgetting that was in sections, shall I say, with a forgetting of fourth, fifth, and sixth densities and if he were to have his fourth-density body activated he would have a partial additional memory and then another partial if his fifth were activated and then the full memory if he had the sixth activated? Does this make any sense?
 
 Ra:  No.
 
@@ -117,7 +117,7 @@ Ra:  No.
 
 Ra:  The reason is twofold. First, the genetic properties of the connection between the mind/body/spirit complex and the cellular structure of the body is different for third density than for third/fourth density.
 
-Secondly, the free will of third-density entities needs be preserved. Thus Wanderers volunteer for third-density genetic or DNA connections to the mind/body/spirit complex. The forgetting process can be penetrated to the extent of the Wanderer remembering what it is and why it is upon the planetary sphere. However, it would be an infringement if Wanderers penetrated the forgetting so far as to activate the more dense bodies and thus be able to live, shall we say, in a god-like manner. This would not be proper for those who have chosen to serve.
+Secondly, the free will of third density entities needs be preserved. Thus Wanderers volunteer for third density genetic or DNA connections to the mind/body/spirit complex. The forgetting process can be penetrated to the extent of the Wanderer remembering what it is and why it is upon the planetary sphere. However, it would be an infringement if Wanderers penetrated the forgetting so far as to activate the more dense bodies and thus be able to live, shall we say, in a god-like manner. This would not be proper for those who have chosen to serve.
 
 The new fourth-density entities which are becoming able to demonstrate various newer abilities are doing so as a result of the present experience, not as a result of memory. There are always a few exceptions, and we ask your forgiveness for constant barrages of over-generalization.
 

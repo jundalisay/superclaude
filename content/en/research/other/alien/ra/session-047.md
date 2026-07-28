@@ -32,7 +32,7 @@ The positive, upon the other hand, shall we say, has the full spectrum of true-c
 
 {{< l a="Ra" >}}Let us clarify further. As we have previously stated, all beings have the potential for all possible vibratory rates. Thus the potential of the green and blue energy center activation is, of course, precisely where it must be in a creation of Love. However, the negatively polarized entity will have achieved harvest due to extremely efficient use of red and yellow/orange, moving directly to the gateway indigo bringing through this intelligent energy channel the instreamings of intelligent infinity.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then at fourth-density graduation into fifth is there anything like the percentages you gave for third-density graduation into fourth for polarization?{{< /r >}}
+{{< r a="Don Elkins" >}}Then at fourth-density graduation into fifth is there anything like the percentages you gave for third density graduation into fourth for polarization?{{< /r >}}
 
 {{< l a="Ra" >}}There are, in your modes of thinking, responses we can make, which we shall make. However, the important point is that the graduations from density to density do occur. The positive/negative polarity is a thing which will, at the sixth level, simply become history. Therefore, we speak in an illusory time continuum when we discuss statistics of positive versus negative harvest into fifth. A large percentage of fourth-density negative entities continue the negative path from fourth- to fifth-density experience, for without wisdom the compassion and desire to aid other-self is not extremely well-informed. Thus though one loses approximately two percent moving from negative to positive during the fourth-density experience we find approximately eight percent of graduations into fifth density those of the negative.{{< /l >}}
 
@@ -70,7 +70,7 @@ The violet-ray body may perhaps be understood as what you might call the Buddha 
 
 Each of these bodies has an effect upon your mind/body/spirit complex in your life beingness. The interrelationships, as we have said, are many and complex.
 
-Perhaps one suggestion that may be indicated is this: The indigo-ray body may be used by the healer once the healer becomes able to place its consciousness in this etheric state. The violet-ray or Buddhic body is of equal efficacy to the healer for within it lies a sense of wholeness which is extremely close to unity with all that there is. These bodies are part of each entity and the proper use of them and understanding of them is, though far advanced from the standpoint of third-density harvest, nevertheless useful to the adept.{{< /l >}}
+Perhaps one suggestion that may be indicated is this: The indigo-ray body may be used by the healer once the healer becomes able to place its consciousness in this etheric state. The violet-ray or Buddhic body is of equal efficacy to the healer for within it lies a sense of wholeness which is extremely close to unity with all that there is. These bodies are part of each entity and the proper use of them and understanding of them is, though far advanced from the standpoint of third density harvest, nevertheless useful to the adept.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Which bodies do we have immediately after physical death from this yellow-ray body that I now inhabit?{{< /r >}}
 

@@ -32,13 +32,27 @@ This then creates, I would assume, the planetary or racial mind. Is this correct
 
 {{< l a="Ra" >}}This racial or planetary mind is, for this Logos, a repository of biases remembered by the mind/body/spirit complexes which have enjoyed the experience of this planetary influence.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Some entities on this planet evolved through second density into third and some were transferred from other planets to re-cycle in third density here.
 
-Did the ones who were transferred here to re-cycle in third density add to the planetary or racial mind?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Some entities on this planet evolved through 2nd density into 3rd.
 
-{{< l a="Ra" >}}Not only did each race add to the planetary mind but also each race possesses a racial mind.
+Some were transferred from other planets to re-cycle in 3rd density here.
 
-Thus we made this distinction in discussing this portion of mind. This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.{{< /l >}}
+Did the ones who were transferred here to re-cycle in 3rd density add to the planetary or racial mind?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Each race:
+- possesses a racial mind
+- added to the planetary mind
+
+Thus we made this distinction in discussing this portion of mind. 
+
+This portion of mind is formed in the series of seemingly non-simultaneous experiences which are chosen in freedom of will by the mind/body/spirit complexes of the planetary influence. 
+
+Therefore, although this Akashic, planetary, or racial mind is indeed a root of mind it may be seen in sharp differentiation from the deeper roots of mind which are not a function of altering memory, if you will.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What occurred when the microphone cords were slightly moved?{{< /r >}}
 
@@ -128,7 +142,7 @@ Without potentiation the conscious mind has no inwardness. That hand, O student,
 
 {{< r a="Don Elkins" >}}The square cage may represent the material illusion, an unmagical shape.{{< /r >}}
 
-{{< l a="Ra" >}}The square, wherever seen, is the symbol of the third-density illusion and may be seen either as unmagical or, in the proper configuration, as having been manifested within; that is, the material world given life.{{< /l >}}
+{{< l a="Ra" >}}The square, wherever seen, is the symbol of the third density illusion and may be seen either as unmagical or, in the proper configuration, as having been manifested within; that is, the material world given life.{{< /l >}}
 
 {{< r a="Don Elkins" >}}The dark area around the square would then be the darkness of the subconscious mind.{{< /r >}}
 

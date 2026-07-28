@@ -24,13 +24,13 @@ In this dimension, the mind/body/spirit in its eternal dance of the present may 
 
 This mind/body/spirit complex totality functions as a resource for what you perhaps would call the Higher Self. 
 
-The Higher Self, in turn, is a resource for examining the distillations of third-density experience and programming further experience. 
+The Higher Self, in turn, is a resource for examining the distillations of third density experience and programming further experience. 
 
 This is also true of densities 4-6 with the mind/body/spirit complex totality coming into consciousness in the course of 7th density.
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then would the mind/body/spirit complex totality be responsible for programming changes in catalyst during, say, a third-density experience of the mind/body/spirit complex so that the proper catalyst would be added, shall we say, as conditions for that complex changed during third-density experience? Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Then would the mind/body/spirit complex totality be responsible for programming changes in catalyst during, say, a third density experience of the mind/body/spirit complex so that the proper catalyst would be added, shall we say, as conditions for that complex changed during third density experience? Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is incorrect. The Higher Self, as you call it, that is, that self which exists with full understanding of the accumulation of experiences of the entity, aids the entity in achieving healing of the experiences which have not been learned properly and assists as you have indicated in further life experience programming, as you may call it.
 
@@ -70,75 +70,188 @@ Thus the higher self is like the map in which the destination is known; the road
 
 {{< l a="Ra" >}}This is correct. The higher self is of a certain advancement within sixth density going into the seventh. After the seventh has been well entered the mind/body/spirit complex becomes so totally a mind/body/spirit complex totality that it begins to gather spiritual mass and approach the octave density. Thus the looking backwards is finished at that point.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is the higher self of every entity of a sixth-density nature?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Is the higher self of every entity of a 6th density nature?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. This is an honor/duty of self to self as one approaches seventh density.{{< /l >}}
+{{< l a="Ra" >}}
+Yes. This is an honor/duty of self to self as one approaches 7th density.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, let, let me be sure I understand this then. We have spoken of certain particular individuals. For instance, we were speaking of George Patton in a previous communication. Then his higher self at the time of his incarnation here as George Patton about forty years ago, his higher self was at that time sixth-density? Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. We make note at this time that each entity has several beings upon which to call for inner support. Any of these may be taken by an entity to be the mind/body/spirit complex totality. However, this is not the case. The mind/body/spirit complex totality is a nebulous collection of all that may occur held in understanding; the higher self itself a projection or manifestation of mind/body/spirit complex totality which then may communicate with the mind/body/spirit during the discarnate part of a cycle of rebirth or, during the incarnation may communicate if the proper pathways or channels through the roots of mind are opened.{{< /l >}}
+{{< r a="Don Elkins" >}}
+George Patton's his higher self about 40 years ago was at that time 6th-density?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}These channels would then be opened by meditation and I am assuming that intense polarization would help in this. Is this correct?{{< /r >}}
+{{< l a="Ra" >}}
+Yes. 
 
-{{< l a="Ra" >}}This is partially correct. Intense polarization does not necessarily develop, in the mind/body/spirit complex, the will or need to contact the Oversoul. Each path of life experience is unique. However, given the polarization, the will is greatly enhanced and vice-versa.{{< /l >}}
+Each entity has several beings to call for inner support.
 
-{{< r a="Don Elkins" >}}Let me take as an example the one you said was called Himmler. We are assuming from this that his higher self was of sixth density and it was stated that Himmler had selected the negative path. Would his higher self then dwell in a sixth-density negative type of situation? Could you expand on this concept?{{< /r >}}
+Any of these may be taken by an entity to be the mind/body/spirit complex totality. 
 
-{{< l a="Ra" >}}There are no [negative] beings which have attained the Oversoul manifestation, which is the honor/duty of the mind/body/spirit complex totality of late sixth density, as you would term it in your time measurements. These negatively oriented mind/body/spirit complexes have a difficulty which to our knowledge has never been overcome, for after fifth-density graduation wisdom is available but must be matched with an equal amount of love. This love/light is very, very difficult to achieve in unity when following the negative path and during the earlier part of the sixth density, society complexes of the negative orientation will choose to release the potential and leap into the sixth-density positive.
+However, this is not the case. 
 
-Therefore, the Oversoul which makes its understanding available to all who are ready for such aid is towards the positive. However, the free will of the individual is paramount, and any guidance given by the higher self may be seen in either the positive or negative polarity depending upon the choice of a mind/body/spirit complex.{{< /l >}}
+The mind/body/spirit complex totality is a nebulous collection of all that may occur held in understanding.
 
-{{< r a="Don Elkins" >}}Then using Himmler as an example, was his higher self at the time he was incarnate in the 1940s a sixth-density positively oriented higher self?{{< /r >}}
+The higher self itself a projection or manifestation of mind/body/spirit complex totality.
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+This then may communicate with the mind/body/spirit during the discarnate part of a cycle of rebirth or, during the incarnation may communicate if the proper pathways or channels through the roots of mind are opened.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+These channels would then be opened by meditation. I am assuming that intense polarization would help in this.
+{{< /r >}}
+
+{{< l a="Ra" >}}
+This is partially correct. 
+
+Intense polarization does not necessarily develop, in the mind/body/spirit complex, the will or need to contact the Oversoul. 
+
+Each path of life experience is unique. However, given the polarization, the will is greatly enhanced and vice-versa.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+We are assuming that Himmler's higher self was of 6th density who chose the negative path.
+
+Would his higher self then dwell in a sixth-density negative type of situation?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+There are no negative beings which have attained the Oversoul manifestation, which is the honor/duty of the mind/body/spirit complex totality of late 6th density. 
+
+These negatively oriented mind/body/spirit complexes have a difficulty which to our knowledge has never been overcome, for after 5th-density graduation wisdom is available but must be matched with an equal amount of love. 
+
+This love/light is very difficult to achieve in unity when following the negative path and during the earlier part of the 6th density, society complexes of the negative orientation will choose to release the potential and leap into the sixth-density positive.
+
+Therefore, the Oversoul which makes its understanding available to all who are ready for such aid is towards the positive. 
+
+However, the free will of the individual is paramount, and any guidance given by the higher self may be seen in either the positive or negative polarity depending upon the choice of a mind/body/spirit complex.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Was Himmler's higher self in the 1940s a sixth-density positively oriented higher self?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Was Himmler in any way in contact with his higher self at that time while he was incarnate in the 1940s?{{< /r >}}
 
-{{< l a="Ra" >}}We remind you that the negative path is one of separation. What is the first separation: the self from the self. The one known as Himmler did not choose to use its abilities of will and polarization to seek guidance from any source but its conscious drives, self-chosen in the life experience and nourished by previous biases created in other life experiences.{{< /l >}}
+{{< l a="Ra" >}}
+The negative path is one of separation. 
 
-{{< r a="Don Elkins" >}}Well, then let’s say that when Himmler, for instance, reaches sixth-density negative at the beginnings of sixth-density negative, at this time would it be [the] case that an entity would realize that his higher self is sixth-density positively oriented and for that reason make the jump from negative to positive orientation?{{< /r >}}
+What is the first separation: the self from the self.
 
-{{< l a="Ra" >}}This is incorrect. The sixth-density negative entity is extremely wise. It observes the spiritual entropy occurring due to the lack of ability to express the unity of sixth density. Thus, loving the Creator and realizing at some point that the Creator is not only self but other-self as self, this entity consciously chooses an instantaneous energy reorientation so that it may continue its evolution.{{< /l >}}
+Himmler did not choose to use its abilities of will and polarization to seek guidance from any source but its conscious drives, self-chosen in the life experience and nourished by previous biases created in other life experiences.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the sixth-density entity who has reached that point in positive orientation may choose to become what we call a Wanderer and move back. I am wondering if this ever occurs with a negatively oriented sixth-density entity? Do any move back as Wanderers?{{< /r >}}
 
-{{< l a="Ra" >}}Once the negatively polarized entity has reached a certain point in the wisdom density it becomes extremely unlikely that it will choose to risk the forgetting, for this polarization is not selfless but selfish and with wisdom realizes the jeopardy of such “wandering.” Occasionally a sixth-density negative entity becomes a Wanderer in an effort to continue to polarize towards the negative. This is extremely unusual.{{< /l >}}
+{{< r a="Don Elkins" >}}
+When Himmler reaches 6th-density negative at the beginnings of sixth-density negative, at this time would it be [the] case that an entity would realize that his higher self is sixth-density positively oriented and for that reason make the jump from negative to positive orientation?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}Then what is the motivation for the… Oh, let me finish that question first. What is the motiv— what is the mechanism that this unusual sixth-density entity would wish to gain to polarize more negatively through wandering?{{< /r >}}
+{{< l a="Ra" >}}
+Yes. The 6th density negative entity is extremely wise. 
 
-{{< l a="Ra" >}}The Wanderer has the potential of greatly accelerating the density whence it comes in its progress in evolution. This is due to the intensive life experiences and opportunities of the third density. Thusly the positively oriented Wanderer chooses to hazard the danger of the forgetting in order to be of service to others by radiating love of others. If the forgetting is penetrated the amount of catalyst in third density will polarize the Wanderer with much greater efficiency than shall be expected in the higher and more harmonious densities.
+It observes the spiritual entropy occurring due to the lack of ability to express the unity of 6th density.
 
-Similarly, the negatively oriented Wanderer dares to hazard the forgetting in order that it might accelerate its progress in evolution in its own density by serving itself in third density by offering to other-selves the opportunity to hear the information having to do with negative polarization.{{< /l >}}
+Thus, loving the Creator and realizing at some point that the Creator is not only self but other-self as self, he consciously chooses an instantaneous energy reorientation so that it may continue its evolution.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Are there any examples of sixth-density negatively polarized Wanderers in our historical past?{{< /r >}}
 
-{{< l a="Ra" >}}This information could be harmful. We withhold it. Please attempt to view the entities about you as part of the Creator. We can explain no further.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Then the 6th density entity who has reached that point in positive orientation may choose to become a Wanderer and move back. 
 
-{{< r a="Don Elkins" >}}Thank you. I was wondering if qualification for contact with Ra might include— of the type we’re doing now— might include penetrating this forgetting process? Is this correct?{{< /r >}}
+Does this occur with a negative 6th-density entity? Do any move back as Wanderers?
+{{< /r >}}
 
-{{< l a="Ra" >}}This is quite correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Otherwise the Law of Confusion would prohibit this? Is this correct?{{< /r >}}
+{{< l a="Ra" >}}
+Once the negatively polarized entity has reached a certain point in the wisdom density it becomes extremely unlikely that it will choose to risk the forgetting, for this polarization is not selfless but selfish and with wisdom realizes the jeopardy of such “wandering.” 
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+Occasionally a sixth-density negative entity becomes a Wanderer in an effort to continue to polarize towards the negative. This is extremely unusual.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}I was also wondering if three was the minimum number necessary for this type of working? Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}For protection of Carla this is necessary as the minimum grouping and also as the most efficient number due to the exceptional harmony in this group. In other groups the number could be larger, but we have observed in this contact that the most efficient support is given by the individual mind/body/spirits present at this time.{{< /l >}}
+{{< r a="Don Elkins" >}}
+What is the mechanism that this unusual 6th density entity would wish to gain to polarize more negatively through wandering?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}I’m a little fuzzy on a point with respect to the higher self. Now we each, I am assuming, have a separate or different higher self at sixth-density positive level. Is this correct? Each of us in the room that is, here, the three of us?{{< /r >}}
 
-{{< l a="Ra" >}}This shall be the last full question of this working. We shall attempt to aim for the intention of your query as we understand it. Please request any additional information.
+{{< l a="Ra" >}}
+The Wanderer can greatly accelerate the density whence it comes in its progress in evolution. 
 
-Firstly, it is correct that each in this dwelling place has one Oversoul, as you may call it. However, due to the repeated harmonious interactions of this triad of entities there may be seen to be a further harmonious interaction besides the three entities’ higher selves; that is, each social memory complex has an Oversoul of a type which is difficult to describe to you in words. In this group there are two such social memory complex totalities blending their efforts with your higher selves at this time.{{< /l >}}
+This is due to the intensive life experiences and opportunities of the 3rd density.
 
-{{< r a="Don Elkins" >}}It is very difficult at times for us to even get a small percentage of understanding from some of these concepts because of our limitation of awareness here. I think some meditation on the communication today will help us in formulating questions about these concepts.{{< /r >}}
+Thus the positively oriented Wanderer chooses to hazard the forgetting in order to be of service to others by radiating love of others. 
 
-{{< l a="Ra" >}}May we ask for any brief queries before we leave Carla?{{< /l >}}
+If the forgetting is penetrated the amount of catalyst in 3rd density will polarize the Wanderer with much greater efficiency than shall be expected in the higher and more harmonious densities.
 
-{{< r a="Don Elkins" >}}I’ll just ask one little short one that you may not be able to answer before the final… The short one is, can you tell me what percentage of the Wanderers on Earth today have been successful in penetrating the memory block and becoming aware who they are, and then finally, is there anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
+Similarly, the negatively oriented Wanderer dares to hazard the forgetting in order that it might accelerate its progress in evolution in its own density by serving itself in third density by offering to other-selves the opportunity to hear the information having to do with negative polarization.
+{{< /l >}}
 
-{{< l a="Ra" >}}We can approximate the percentage of those penetrating intelligently their status. This is between eight and one-half and nine and three-quarters percent. There is a larger percentile group of those who have a fairly well defined, shall we say, symptomology indicating to them that they are not of this, shall we say, “insanity.” This amounts to a bit over fifty percent of the remainder. Nearly one-third of the remainder are aware that something about them is different, so you see there are many gradations of awakening to the knowledge of being a Wanderer. We may add that it is to the middle and first of these groups that this information will make sense.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Are there any examples of 6th density negatively polarized Wanderers in our historical past?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+This information could be harmful. We withhold it. 
+
+Please attempt to view the entities around you as part of the Creator.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Thank you. I was wondering if qualification for contact with Ra might include— of the type we’re doing now— might include penetrating this forgetting process? Otherwise the Law of Confusion would prohibit this?{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. Yes.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Is three the minimum number necessary for this type of working?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+For protection of Carla this is necessary as the minimum grouping and also as the most efficient number due to the exceptional harmony in this group. 
+
+In other groups the number could be larger, but we have observed in this contact that the most efficient support is given by the individual mind/body/spirits present at this time.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I assume we have a separate or different higher self at 6th density positive level.
+
+Each of us in the room that is, here, the three of us?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+In this dwelling place each has one Oversoul.
+
+However, due to the repeated harmonious interactions of this triad of entities there may be seen to be a further harmonious interaction besides the 3 entities’ higher selves.
+
+Each social memory complex has an Oversoul of a type. 
+
+In this group there are 2 such social memory complex totalities blending their efforts with your higher selves at this time.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Can you tell me what percentage of the Wanderers on Earth today have been successful in penetrating the memory block and becoming aware who they are?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+We can approximate between 8.5 and 9.75%. 
+
+There is a larger percentile group a bit over fifty percent of the remainder of those who have a fairly well defined symptomology indicating to them that they are not of this “insanity.” 
+
+Nearly 1/3 of the remainder are aware that something about them is different, so you see there are many gradations of awakening to the knowledge of being a Wanderer. 
+
+We may add that it is to the middle and first of these groups that this information will make sense.{{< /l >}}
 
 
 <!-- Carla is well. The resting place is somewhat deleterious in its effect upon the comfort of the dorsal side of Carla’s physical vehicle. -->

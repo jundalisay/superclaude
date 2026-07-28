@@ -72,7 +72,7 @@ These entities from Maldek were transferred how many years ago?{{< /r >}}
 
 {{< r a="Don Elkins" >}}Then no incarnation occurred before this master 75,000-year cycle of Maldek entities. Correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct in the sense of incarnation in third-density time/space.{{< /l >}}
+{{< l a="Ra" >}}This is correct in the sense of incarnation in third density time/space.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Were there any of these entities then incarnated in second density before the 75,000-year cycle?{{< /r >}}
 
@@ -80,11 +80,11 @@ These entities from Maldek were transferred how many years ago?{{< /r >}}
 
 {{< r a="Don Elkins" >}}So at the start of this 75,000-year cycle the quarantine was set up. I am assuming then that the Guardians were aware of the infringements on free will that would occur if they didn’t set this up at that time and therefore did it.{{< /r >}}
 
-{{< l a="Ra" >}}This is partially incorrect. The incorrectness is: those entities whose third-density experience on Mars was brought to a close prematurely were aided genetically while being transferred to this third density. This, although done in a desire to aid, was seen as infringement upon free will. The light quarantine which consists of the Guardians, or gardeners as you may call them, which would have been in effect thus was intensified.{{< /l >}}
+{{< l a="Ra" >}}This is partially incorrect. The incorrectness is: those entities whose third density experience on Mars was brought to a close prematurely were aided genetically while being transferred to this third density. This, although done in a desire to aid, was seen as infringement upon free will. The light quarantine which consists of the Guardians, or gardeners as you may call them, which would have been in effect thus was intensified.{{< /l >}}
 
-{{< r a="Don Elkins" >}}When the 75,000-year cycle started, the life span was approximately 900 years, average. What was the process and scheduling of— mechanism of reincarnation at that time, how did the time in between incarnations into third-density physical apply to the growth of the mind/body/spirit complex?{{< /r >}}
+{{< r a="Don Elkins" >}}When the 75,000-year cycle started, the life span was approximately 900 years, average. What was the process and scheduling of— mechanism of reincarnation at that time, how did the time in between incarnations into third density physical apply to the growth of the mind/body/spirit complex?{{< /r >}}
 
-{{< l a="Ra" >}}The incarnation pattern of the beginning third-density mind/body/spirit complex begins in darkness. Third density is a sleep and a forgetting. This is the only plane of forgetting. It is necessary for the third-density entity to forget so that the mechanisms of confusion or free will may operate on the newly individuated consciousness complex.
+{{< l a="Ra" >}}The incarnation pattern of the beginning third density mind/body/spirit complex begins in darkness. Third density is a sleep and a forgetting. This is the only plane of forgetting. It is necessary for the third density entity to forget so that the mechanisms of confusion or free will may operate on the newly individuated consciousness complex.
 
 Thus, the beginning entity is one in all innocence oriented towards animalistic behavior. It uses other-selves only as extensions of self for the preservation of the all-self. The entity becomes slowly aware that it has needs that are not animalistic and useless for survival as the need for:
 - companionship
@@ -96,7 +96,7 @@ These are the beginning needs.
 
 As the incarnations begin to accumulate, further needs are discovered: the need to trade, love, be loved, elevate animalistic behaviors to a more universal perspective.
 
-During the first portion of third-density cycles, incarnations are automatic and occur rapidly upon the cessation of energy complex of the physical vehicle. 
+During the first portion of third density cycles, incarnations are automatic and occur rapidly upon the cessation of energy complex of the physical vehicle. 
 
 There is small need to review or to heal the experiences of the incarnation. As the chakras begin to be activated to a higher extent, more of the content of experience during incarnation deals with the lessons of love. 
 

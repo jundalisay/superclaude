@@ -33,7 +33,7 @@ We would single out one physical distortion for discussion. The fourth-density n
 
 {{< r a="Don Elkins" >}}Carla has mentioned what she refers to as bleed-through or being aware, during these sessions sometimes, of the communication. Would you comment on this?{{< /r >}}
 
-{{< l a="Ra" >}}We have the mind/body/spirit complex of Carla with us. As this entity begins to awaken from the metaphorical crib of experiencing light and activity in our density it is beginning to be aware of the movement of thought. It does not grasp these thoughts any more than your third-density infant may grasp the first words it perceives. The experience should be expected to continue and is an appropriate outgrowth of the nature of these workings and of the method by which Carla has made itself available to our words.{{< /l >}}
+{{< l a="Ra" >}}We have the mind/body/spirit complex of Carla with us. As this entity begins to awaken from the metaphorical crib of experiencing light and activity in our density it is beginning to be aware of the movement of thought. It does not grasp these thoughts any more than your third density infant may grasp the first words it perceives. The experience should be expected to continue and is an appropriate outgrowth of the nature of these workings and of the method by which Carla has made itself available to our words.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Carla mentioned a recurrence of the need for going to the bathroom prior to this session. Is this because of the low vital energy?{{< /r >}}
 
@@ -73,7 +73,7 @@ We wished to state, thirdly, that once Carla is aware that the picture-taking wi
 
 {{< r a="Don Elkins" >}}Was the concept given to— let me ask— you say it originated there… was this concept devised for a training tool for those inhabiting Venus at that time or was it devised by those of Venus as a training tool for those of Earth?{{< /r >}}
 
-{{< l a="Ra" >}}The tarot was devised by the third-density population of Venus a great measure of your space/time in your past. As we have noted the third-density experience of those of Venus dealt far more deeply and harmoniously with what you would call relationships with other-selves, sexual energy transfer work, and philosophical or metaphysical research. The product of many, many generations of work upon what we conceived to be the archetypical mind produced the tarot which was used by our peoples as a training aid in developing the magical personality.{{< /l >}}
+{{< l a="Ra" >}}The tarot was devised by the third density population of Venus a great measure of your space/time in your past. As we have noted the third density experience of those of Venus dealt far more deeply and harmoniously with what you would call relationships with other-selves, sexual energy transfer work, and philosophical or metaphysical research. The product of many, many generations of work upon what we conceived to be the archetypical mind produced the tarot which was used by our peoples as a training aid in developing the magical personality.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I'll make a guess that those of Venus third density who were the initial ones to partially penetrate the veil gleaned information as to the nature of the archetypical mind and the veiling process and from this designed the tarot as a method of teaching others. Is this correct?{{< /r >}}
 

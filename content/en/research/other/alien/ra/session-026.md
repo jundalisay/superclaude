@@ -226,7 +226,7 @@ You must plumb the depths of fourth-density negative understanding.
 
 This is difficult for you. 
 
-Once having reached 3rd-density space/time continuum through your so-called windows, these crusaders may plunder as they will, the results completely a function of the polarity of the witness/subject or victim.
+Once having reached 3rd density space/time continuum through your so-called windows, these crusaders may plunder as they will, the results completely a function of the polarity of the witness/subject or victim.
 
 This is due to the sincere belief of 4th-density negative that to love self is to love all. 
 

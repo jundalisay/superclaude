@@ -4,7 +4,7 @@ heading: "Unit 2"
 date: 2025-10-19
 weight: 8
 image: /photos/physics/comet.jpg
-description: "From atoms and molecules to human beings with developed consciousness, all entities feel attraction for one another"
+description: ""
 icon: "Juan"
 writer:
   name: Juan
@@ -14,8 +14,15 @@ aliases:
 ---
 
 
-{{< youtube Su1Qn6luBHc >}}
+<!-- {{< youtube Su1Qn6luBHc >}} -->
 
+
+We define Superphysics Astrology as the effects of non-Earth phenomena on Earth. 
+
+This definition can be extended to other planets and spaceships when humans start exploring the solar system and the galaxy. 
+
+
+## Starlight and Gravitation as Transmitter of Cosmic Ideas
 
 Material Superphysics explains that the physical phenomena on Earth such as storms and rain are caused by our sun and by gravitational effects from other massive bodies within our solar system.
 
@@ -37,6 +44,25 @@ This is light intensity. This includes solar flares that increase the radiation 
 2. Quality
 
 This is light color and color-change.  For example, Betelgeus is slowly changing from yellow to red.
+
+
+## Natal and Non-Natal Astrology
+
+The dynamics of the relation between cosmic light and the chakra-receivers leads to 2 kinds of astrology as natal and non-natal.
+
+1. Natal Astrology
+
+This is the position of the cosmos at the time of birth. This principle is based on dharmagenesis.
+
+2. Non-Natal Astrology
+
+This is the ongoing effects of the cosmos on Earth and things on Earth. 
+
+Examples are:
+- The Overview Effect
+- Solar flares causing electrical disruptions (the sun is a star)
+- Asteroids and comets causing weather anomalies
+
 
 
 ## The Overview Effect

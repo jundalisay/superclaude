@@ -17,18 +17,18 @@ aliases:
 
 ## General Classification According to Physicality
 
-The physicality of the Elementals follows 3 tracks:
+The physicality of the Elementals follows 3 tracks mirroring the 3 domains:
 
 Tracks | Examples
 --- | ---
 Metaphysical | Devas
-Semi-physical | Viruses, Luminous beings
+Quasi-physical | Viruses, Luminous beings
 Physical | Carbon Atoms and other organic mater
 
 {{< img src="/graphics/bio/tracks.jpg" alt="Elemental Tracks" cap="">}}
 
 
-#### Physical 
+### Physical 
 
 Physical elementals are **organic matter** that serve as the basis for life. We say that life begins through such Elementals that take the form of non-living carbon atoms. 
 
@@ -55,7 +55,7 @@ Life begins in such organic matter when 3 ingredient are net:
 3. Suitable Environment with the 5 Layers
 
 
-#### Semi-physical
+### Quasi-physical
 
 These are not atomic but can take residence in atomic or organic structures in order to get expression. Unlike the Physical Elementals that require long evolution into independent physical organisms, these require a relatively short term to gain expression.
 
@@ -73,34 +73,13 @@ Unlike mental disorders which are recurring, the influence from such elementals 
 
 The most common example is when a person goes to a new place which appeals to him so much that he wants to say for no specific reason.  
 
+Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddhist, and Taoist tradition, as well as New Age sources (we use Ra and the Sassani). 
 
-
-#### Metaphysical 
-
-Since the purpose of life and mind is independent expression, then the metaphysical is its natural home, just as the physical is the home for matter and non-living things.
-
-<!-- This is similar to luminous beings which can possess people.### The Metaphysical  -->
-
-
-<!-- We go with Paracelsus and classify the Elementals according to the Elements which we call Strata.
-
-Like him, we are gutsy enough to analyze the Elemental realm in a systemic manner and compare it with the systems of other cultures. But unlike him, we use all 5 Elements instead of 4. -->
-
-
-<!-- Bio-Superphysics applies the 5 Elements to the metaphysical domain in order to classify the Elementals.  -->
-
-Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddhist, and Taoist tradition as these are very common in India. 
-
-Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits and/or elementals - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
+Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits and/or elementals - Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
 
 {{< img src="/photos/bio/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism i.e. a fariy godmother is an entity that has super powers" >}}
 
-
-<!-- We categorize the beings in our Elemental Zoo into Five just as the biological -->
-
-
-
-We classify the metaphysical elementals into the 5 strata similar to how physical life is organized into kingdoms, genus, species, etc:
+We classify the quasiphysical elementals into the 5 Elements similar to how physical life is organized into kingdoms, genus, species, etc:
 
 Strata | Indian Class Name | Paracelsus Name
 --- | --- | ---
@@ -109,6 +88,13 @@ Spatial | Ghandarva | Sylphs
 Radiant | Yaksa | Vulcani
 Convertible | Kinnara | Nymphs
 Material | Prakrtilina | Gnomes
+
+
+### Metaphysical 
+
+Since the purpose of life and mind is independent expression, then the metaphysical is its natural home, just as the physical is the home for matter and non-living things.
+
+These are spirits and devas. 
 
 <!-- 1 prakrtiliina 
 2  Kinnara
@@ -120,7 +106,6 @@ Material | Prakrtilina | Gnomes
 
 
 Like anything above the Physical Radiant Layer, these can be triggered by sound of the Aethereal layer. 
-
 
 
 ## Node-Based Classification: Naming as They are Detected

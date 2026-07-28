@@ -15,25 +15,65 @@ January 29, 1981
 
 
 
-{{< r a="Don Elkins" >}}You said the second density strives towards the third density which is the density of self-consciousness or self-awareness. The striving takes place through higher second-density forms invested by third-density beings. Could you explain what you mean by this?{{< /r >}}
+{{< r a="Don Elkins" >}}
+You said the 2nd density strives towards the 3rd density which is the density of self-consciousness or self-awareness. 
 
-{{< l a="Ra" >}}Third-density beings clothe some second-density beings with self-awareness just like you put on clothes. This is often done through pets. It has also been done by various other means of investiture. These include many religious practice complexes which personify and send love to various natural second-density beings in their group form.{{< /l >}}
+The striving takes place through higher second-density forms invested by third density beings. Could you explain what you mean by this?{{< /r >}}
 
-{{< r a="Don Elkins" >}}When this Earth was second-density, how did the second-density beings on this Earth become so invested?{{< /r >}}
 
-{{< l a="Ra" >}}There was not this type of investment as spoken but the simple third-density investment which is the line of spiraling light calling distortion upward from density to density. The process takes longer when there is no investment made by incarnate third-density beings.{{< /l >}}
+{{< l a="Ra" >}}
+3rd density beings clothe some 2nd-density beings with self-awareness just like you put on clothes. 
 
-{{< r a="Don Elkins" >}}Then what was the second-density form that became Earth-man in the third density? What did he look like in the second density?{{< /r >}}
+This is often done through pets. 
 
-{{< l a="Ra" >}}The difference between second- and third-density bodily forms would in many cases have been more like one to the other. In the case of Earth the process was interrupted by those who incarnated here from Mars. They were adjusted by genetic changing and, therefore, there was some difference which was of a very noticeable variety rather than the gradual raising of the bipedal forms upon your second-density level to third-density level. 
+It has also been done by various other means of investiture. These include many religious practice complexes which personify and send love to various natural second-density beings in their group form.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}When this Earth was 2nd-density, how did the second-density beings on this Earth become so invested?{{< /r >}}
+
+
+{{< l a="Ra" >}}There was not this type of investment as spoken but the simple 3rd density investment which is the line of spiraling light calling distortion upward from density to density. The process takes longer when there is no investment made by incarnate third density beings.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Then what was the 2nd-density form that became Earth-man in the third density? What did he look like in the second density?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The difference between 2nd- and 3rd density bodily forms would in many cases have been more like one to the other. In the case of Earth the process was interrupted by those who incarnated here from Mars. 
+
+They were adjusted by genetic changing and, therefore, there was some difference which was of a very noticeable variety rather than the gradual raising of the bipedal forms upon your second-density level to third density level. 
 
 This has nothing to do with the so-called placement of the soul. This has only to do with the circumstances of the influx of those from that culture.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I understand that this occurred 75,000 years ago. 
+{{< r a="Don Elkins" >}}
+I understand that this occurred 75,000 years ago. 
 
-Then it was our third-density process of evolution began. Can you tell me the history, hitting only the points of development, shall I say, that occurred within this 75,000 years, any particular times or points where the attempts were made to increase the development of this third density?{{< /r >}}
+Then it was our third density process of evolution began. 
 
-{{< l a="Ra" >}}The first attempt to aid your peoples was 75,000 years ago. The next attempt was approximately 58,000 years ago, continuing for a long period with those of Mu. The next attempt was approximately 13,000 years ago when some intelligent information was offered to those of Atlantis, this being of the same type of healing and crystal working of which we have spoken previously. The next attempt was 11,000 years ago in Egypt. The same beings which came with us returned approximately 3,500 years later in order to attempt to aid the South American mind/body/spirit social complex once again. However, the pyramids of those cities were not to be used in the appropriate fashion. Therefore, this was not pursued further. There was a landing approximately 3,000 years ago also in your South America. There were a few attempts to aid your peoples approximately 2,300 years ago in Egypt. The remaining part of the cycle, we have never been gone from your fifth dimension and have been working in this last minor cycle to prepare for harvest.{{< /l >}}
+Can you tell me the historical development that occurred within this 75,000 years, any particular times or points where the attempts were made to increase the development of this third density?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The first attempt to aid your peoples was 75,000 years ago. 
+
+The next attempt was approximately 58,000 years ago, continuing for a long period with those of Mu. 
+
+The next attempt was approximately 13,000 years ago when some intelligent information was offered to those of Atlantis.
+
+This was of the same type of healing and crystal working of which we have spoken previously. 
+
+The next attempt was 11,000 years ago in Egypt. 
+
+The same beings which came with us returned approximately 3,500 years later in order to attempt to aid the South American mind/body/spirit social complex once again. However, the pyramids of those cities were not to be used in the appropriate fashion. 
+
+Therefore, this was not pursued further. 
+
+There was a landing approximately 3,000 years ago also in your South America.
+
+There were a few attempts to aid your peoples approximately 2,300 years ago in Egypt. The remaining part of the cycle, we have never been gone from your fifth dimension and have been working in this last minor cycle to prepare for harvest.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Was the Egyptian visit of 11,000 years ago the only one where you actually walked the Earth?{{< /r >}}
 
@@ -47,25 +87,46 @@ Then it was our third-density process of evolution began. Can you tell me the hi
 
 {{< l a="Ra" >}}Imagine the many force fields of the Earth in their geometrically precise web. Energies stream into the Earth planes from magnetically determined points. Due to growing thought-form distortions in understanding of the Law of One, the planet itself was imbalanced. The balancing pyramidal structures were charged with crystals which drew the appropriate balance from the energy forces streaming into the various geometrical centers of electromagnetic energy which surround and shape the planetary sphere.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does the balancing refer to balancing of the individual who is initiated in the pyramid or does it refer to the physical balancing of the Earth on its axis in space?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Does the balancing refer to balancing of the individual who is initiated in the pyramid or does it refer to the physical balancing of the Earth on its axis in space?{{< /r >}}
 
-{{< l a="Ra" >}}The balancing pyramidal structures could be and were used for individual initiation. However, the use of these pyramids was also designed for the balancing of the planetary energy web. The other pyramids are not placed properly for Earth healing but for healing of mind/body/spirit complexes. It came to our attention that your density was distorted towards a premature aging process. We were attempting to aid in giving the mind/body/spirit complexes of third density on Earth, more of a time/space continuum in one incarnation pattern in order to have a fuller opportunity to learn/teach the Laws or Ways of the primal distortion of the Law of One which is Love.{{< /l >}}
+{{< l a="Ra" >}}
+The balancing pyramidal structures could be and were used for individual initiation. However, the use of these pyramids was also designed for the balancing of the planetary energy web. The other pyramids are not placed properly for Earth healing but for healing of mind/body/spirit complexes. 
 
-{{< r a="Don Elkins" >}}The balancing pyramids were to do what we call increase the life span of entities here so that they would gain more wisdom of the Law of One while in the physical at one time. Is this correct?{{< /r >}}
+It came to our attention that your density was distorted towards a premature aging process. We were attempting to aid in giving the mind/body/spirit complexes of 3rd density on Earth, more of a time/space continuum in one incarnation pattern in order to have a fuller opportunity to learn/teach the Laws or Ways of the primal distortion of the Law of One which is Love.
+{{< /l >}}
 
-{{< l a="Ra" >}}This is correct. However, the pyramids not called by us by the vibrational sound complex, balancing pyramids, were more numerous and were used exclusively for the above purpose and the teach/learning of healers to charge and enable these processes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}George Van Tassel built a machine in our western desert called an “Integratron.” Will this machine work for that purpose, of increasing the life span?{{< /r >}}
+{{< r a="Don Elkins" >}}
+The balancing pyramids were to do what we call increase the life span of entities here so that they would gain more wisdom of the Law of One while in the physical at one time.
+{{< /r >}}
 
-{{< l a="Ra" >}}The machine is incomplete and will not function for that purpose.{{< /l >}}
+
+{{< l a="Ra" >}}
+Yes. 
+
+However, the pyramids not called by us by the vibrational sound complex, balancing pyramids, were more numerous and were used exclusively for the above purpose and the teach/learning of healers to charge and enable these processes.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}George Van Tassel built a machine in our western desert called an “Integratron.”
+
+Will this machine work for increasing the life span?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+No. The machine is incomplete.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Who gave George the information on how to build it?{{< /r >}}
 
-{{< l a="Ra" >}}There were two contacts:
-1. The Confederation.
-2. The Orion group.
+{{< l a="Ra" >}}There were 2 contacts:
+1. The Confederation
+2. The Orion group
 
-The Confederation was caused to find the distortion towards non-contact due to the alteration of the vibrational mind complex patterns of the one called George. Thus, the Orion group used Carla. However, Carla, though confused, was a mind/body/spirit complex devoted at the heart to service to others, so the, shall we say, worst that could be done was to discredit this source.{{< /l >}}
+The Confederation was caused to find the distortion towards non-contact due to the alteration of the vibrational mind complex patterns of the one called George. Thus, the Orion group used Carla. 
+
+However, Carla, though confused, was a mind/body/spirit complex devoted at the heart to service to others, so the, shall we say, worst that could be done was to discredit this source.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Would there be any value to the people of this planet now, at this time, to complete this machine?{{< /r >}}
 
@@ -77,23 +138,60 @@ The Confederation was caused to find the distortion towards non-contact due to t
 
 {{< r a="Don Elkins" >}}There was no harvest? What about 25,000 years ago? Was there a harvest then?{{< /r >}}
 
-{{< l a="Ra" >}}A harvesting began taking place in the latter portion, as you measure time/space, of the second cycle, with individuals finding the gateway to intelligent infinity. The harvest of that time, though extremely small, were those entities of extreme distortion towards service to the entities which now were to repeat the major cycle. These entities, therefore, remained in third density although they could, at any moment/present nexus, leave this density through use of intelligent infinity.{{< /l >}}
+{{< l a="Ra" >}}
+A harvesting began taking place in the latter portion, as you measure time/space, of the 2nd cycle, with individuals finding the gateway to intelligent infinity. 
 
-{{< r a="Don Elkins" >}}Then the harvest 25,000 years ago, the entities who could have been harvested to the fourth density remained here in service to this planetary population. Is this correct?{{< /r >}}
+The harvest of that time, though extremely small, were those entities of extreme distortion towards service to the entities which now were to repeat the major cycle. 
 
-{{< l a="Ra" >}}This is correct. Thus, there was no harvest, but there were harvestable entities who shall choose the manner of their entrance into fourth dimension.{{< /l >}}
+These entities, therefore, remained in 3rd density although they could, at any moment/present nexus, leave this density through use of intelligent infinity.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then for the last 2,300 years you have been actively working to create as large a harvest as possible at the end of the total 75,000-year cycle. Can you state with respect to the Law of One why you do this, just as a statement of your reasons for this?{{< /r >}}
 
-{{< l a="Ra" >}}I speak for the social memory complex termed Ra. We came among you to aid you. Our efforts in service were perverted. Our desire then is to eliminate as far as possible the distortions caused by those misreading our information and guidance. The general cause of service such as the Confederation offers is that of the primal distortion of the Law of One, which is service. The One Being of the creation is like unto a body, if you will accept this third-density analogy. Would we ignore a pain in the leg? A bruise upon the skin? A cut which is festering? No. There is no ignoring a call. We, the entities of sorrow, choose as our service the attempt to heal the sorrow which we are calling analogous to the pains of a physical body complex distortion.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Then the harvest 25,000 years ago, the entities who could have been harvested to the fourth density remained here in service to this planetary population{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. 
+
+Thus, there was no harvest, but there were harvestable entities who shall choose the manner of their entrance into 4th dimension.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Then for the last 2,300 years you have been actively working to create as large a harvest as possible at the end of the total 75,000-year cycle. Can you state with respect to the Law of One why you do this, just as a statement of your reasons for this?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+I speak for the social memory complex termed Ra. We came among you to aid you. 
+
+Our efforts in service were perverted. 
+
+Back then we wanted to eliminate the distortions caused by those misreading our information and guidance. 
+
+The general cause of service such as the Confederation offers is that of the primal distortion of the Law of One, which is service. 
+
+The One Being of the creation is like unto a body, if you will accept this third density analogy. 
+
+Would we ignore a pain in the leg? A bruise upon the skin? A cut which is festering? 
+
+No. There is no ignoring a call. 
+
+We, the entities of sorrow, choose as our service the attempt to heal the sorrow which we are calling analogous to the pains of a physical body complex distortion.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}At what density level is Ra?{{< /r >}}
 
-{{< l a="Ra" >}}I am sixth density with a strong seeking towards seventh density. The harvest for us will be in only approximately 2.5 million years. We want to be ready for harvest as it approaches in our space/time continuum.{{< /l >}}
+{{< l a="Ra" >}}
+I am sixth density with a strong seeking towards seventh density. 
 
-{{< r a="Don Elkins" >}}And you ready yourselves for harvest through the best service you can provide. Is this correct?{{< /r >}}
+The harvest for us will be in only approximately 2.5 million years. We want to be ready for harvest as it approaches in our space/time continuum.
+{{< /l >}}
 
-{{< l a="Ra" >}}This is correct. We offer the Law of One, the solving of paradoxes, the balancing of love/light and light/love.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+You ready yourselves for harvest through the best service you can provide.{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes. We offer the Law of One, the solving of paradoxes, the balancing of love/light and light/love.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}How long is one of your cycles?{{< /r >}}
 
@@ -142,10 +240,6 @@ The Confederation was caused to find the distortion towards non-contact due to t
 {{< r a="Don Elkins" >}}Where did the information come from that Edgar Cayce channeled?{{< /r >}}
 
 {{< l a="Ra" >}}The intelligent infinity is brought into intelligent energy from eighth density or the octave. Edgar used this gateway to view the present, which is not the continuum you experience but the potential social memory complex of Earth called the “Akashic Record”.{{< /l >}}
-
----
-
-Would you like me to continue formatting Session 15 in this same style next?
 
 
 <!-- 14.33 Questioner: Is there anything that we can do to make Carla more comfortable or help during the transmission?

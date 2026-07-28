@@ -29,9 +29,9 @@ So more and more second-density entities are making it into third density. Can y
 {{< /r >}}
 
 {{< l a="Ra" >}}
-Perhaps the most common occurrence of second-density graduation during third-density cycle is the so-called pet.
+Perhaps the most common occurrence of second-density graduation during third density cycle is the so-called pet.
 
-The animal which is exposed to the individualizing influences of the bond between animal and third-density entity, this individuation causes a sharp rise in the potential of the second-density entity so that upon the cessation of physical complex the mind/body complex does not return unto the undifferentiated consciousness of that species, if you will.
+The animal which is exposed to the individualizing influences of the bond between animal and third density entity, this individuation causes a sharp rise in the potential of the second-density entity so that upon the cessation of physical complex the mind/body complex does not return unto the undifferentiated consciousness of that species, if you will.
 {{< /l >}}
 
 
@@ -39,7 +39,7 @@ The animal which is exposed to the individualizing influences of the bond betwee
 
 
 {{< l a="Ra" >}}
-As a 2nd-density entity returns as 3rd-density for the beginning of this process of learning, it is equipped with the lowest of these vibrational distortions, forms of third-density consciousness. It is equipped with self-consciousness.{{< /l >}}
+As a 2nd-density entity returns as 3rd density for the beginning of this process of learning, it is equipped with the lowest of these vibrational distortions, forms of third density consciousness. It is equipped with self-consciousness.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
@@ -116,14 +116,14 @@ The charge is provided by individualized consciousness. Is this correct?
 **The charge is provided by the individualized entity using the inpourings and instreamings of energy by the choices of free will.**
 {{< /l >}} 
 
-{{< r a="Don Elkins" >}}Thank you. As soon as the third density started 75,000 years ago and we have incarnate third-density entities, what was the average human life span at that time?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. As soon as the third density started 75,000 years ago and we have incarnate third density entities, what was the average human life span at that time?{{< /r >}}
 
 {{< l a="Ra" >}}
 At the beginning of this particular portion of your space/time continuum the average lifetime was approximately nine hundred of your years.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Did the average life span grow longer or shorter as we progress on into third-density experience?{{< /r >}}
+Did the average life span grow longer or shorter as we progress on into third density experience?{{< /r >}}
 
 {{< l a="Ra" >}}
 There is a particular use for this span of life in this density and, given the harmonious development of the learning/teachings of this density, the life span of the physical complex would remain the same throughout the cycle. However, your particular planetary sphere developed vibrations by the second major cycle which shortened the life span dramatically.
@@ -150,7 +150,7 @@ The causes of this shortening are always an ineuphonious or inharmonious relatio
 {{< l a="Ra" >}}
 This is incorrect. There was not a strong negative polarization due to this influx. The lessening of the life span was due primarily to the lack of the building up of positive orientation. When there is no progress those conditions which grant progress are gradually lost. This is one of the difficulties of remaining unpolarized. The chances, shall we say, of progress become steadily less.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The way I understand it, at the beginning of this 75,000-year cycle, then, we have a mixture of entities— those who have graduated from second density on Earth to become third-density and then a group of entities transferred from the planet Mars to incarnate into third density here. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}The way I understand it, at the beginning of this 75,000-year cycle, then, we have a mixture of entities— those who have graduated from second density on Earth to become third density and then a group of entities transferred from the planet Mars to incarnate into third density here. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
@@ -160,7 +160,7 @@ This is incorrect. There was not a strong negative polarization due to this infl
 
 {{< r a="Don Elkins" >}}Thank you. What percentage of the entities, roughly, were— who were in third density here at that time were Martian and what percentage were harvested out of Earth’s second density?{{< /r >}}
 
-{{< l a="Ra" >}}There were perhaps one-half of the third-density population being entities from the Red Planet, Mars, as you call it. Perhaps one-quarter from second density of your planetary sphere. Approximately one-quarter from other sources, other planetary spheres whose entities chose this planetary sphere for third-density work.{{< /l >}}
+{{< l a="Ra" >}}There were perhaps one-half of the third density population being entities from the Red Planet, Mars, as you call it. Perhaps one-quarter from second density of your planetary sphere. Approximately one-quarter from other sources, other planetary spheres whose entities chose this planetary sphere for third density work.{{< /l >}}
 
 {{< r a="Don Elkins" >}}When they incarnated here did they mix— did all three of these types mix together in societies or groups or were they separated by group or society?{{< /r >}}
 
@@ -189,7 +189,7 @@ Thus, the remaining time span is given to optimize the understandings which resu
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then at present our lifespan is too short for those who are new to 3rd-density lessons.{{< /r >}}
+{{< r a="Don Elkins" >}}Then at present our lifespan is too short for those who are new to 3rd density lessons.{{< /r >}}
 
 {{< l a="Ra" >}}
 Yes. 
@@ -209,9 +209,9 @@ There was also the aid of one of the Confederation which worked with those of Ma
 
 For the most part, the participation was limited, as it was appropriate to allow the full travel of the workings of the confusion mechanism to operate in order for the planetary entities to develop that which they wished in, shall we say, freedom within their own thinking.
 
-It is often the case that a 3rd-density planetary cycle will take place in such a way that there need be no outside or other-self aid in the form of information. 
+It is often the case that a 3rd density planetary cycle will take place in such a way that there need be no outside or other-self aid in the form of information. 
 
-Rather, the entities themselves are able to work themselves towards the appropriate polarizations and goals of 3rd-density learn/teachings.
+Rather, the entities themselves are able to work themselves towards the appropriate polarizations and goals of 3rd density learn/teachings.
 {{< /l >}}
 
 
@@ -222,9 +222,9 @@ This would have then made them harvestable at the end of that 25,000-year period
 {{< l a="Ra" >}}
 It is partly correct.
 
-The original desire is that entities seek and become one. If entities can do this in a moment, they may go forward in a moment, and, thus, were this to occur in a major cycle, indeed, the third-density planet would be vacated at the end of that cycle.
+The original desire is that entities seek and become one. If entities can do this in a moment, they may go forward in a moment, and, thus, were this to occur in a major cycle, indeed, the third density planet would be vacated at the end of that cycle.
 
-It is, however, more toward the median or mean, shall we say, of third-density developments throughout the one infinite universe that there be a small harvest after the first cycle; the remainder having significantly polarized, the second cycle having a much larger harvest; 
+It is, however, more toward the median or mean, shall we say, of third density developments throughout the one infinite universe that there be a small harvest after the first cycle; the remainder having significantly polarized, the second cycle having a much larger harvest; 
 
 The remainder being even more significantly polarized, the third cycle culminating the process and the harvest being completed.{{< /l >}}
 

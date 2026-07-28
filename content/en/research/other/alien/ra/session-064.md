@@ -56,7 +56,7 @@ We may answer further if you have specific queries.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What about fourth-density experience of Ra? Would that also lie beyond the Law of Confusion?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. Let us express a thought. Ra is not elite. To speak of our specific experiences to a group which honors us is to guide to the point of a specific advising. Our work was that of your peoples, of experiencing the catalyst of joys and sorrows. Our circumstances were somewhat more harmonious. Let it be said that any entity or group may create the most splendid harmony in any outer atmosphere. Ra’s experiences are no more than your own. Yours is the dance at this space/time in third-density harvest.{{< /l >}}
+{{< l a="Ra" >}}This is correct. Let us express a thought. Ra is not elite. To speak of our specific experiences to a group which honors us is to guide to the point of a specific advising. Our work was that of your peoples, of experiencing the catalyst of joys and sorrows. Our circumstances were somewhat more harmonious. Let it be said that any entity or group may create the most splendid harmony in any outer atmosphere. Ra’s experiences are no more than your own. Yours is the dance at this space/time in third density harvest.{{< /l >}}
 
 {{< r a="Don Elkins" >}}The question was brought up recently having to do with possible records left near, in, or under the Great Pyramid at Giza. I have no idea whether this would be of benefit. I will just ask if there is any benefit in investigating in this area?{{< /r >}}
 
@@ -84,7 +84,7 @@ The most interesting portion of this information, like that of each cycle, is th
 
 {{< r a="Don Elkins" >}}Thank you. I read that recent research has indicated that the normal sleep cycle for entities on this planet occurs one hour later each diurnal period so that we have a 25-hour cycle instead of a 24. Is this correct, and if so, why is this?{{< /r >}}
 
-{{< l a="Ra" >}}This is in some cases correct. The planetary influences from which those of Mars experience memory have some effect upon these third-density physical bodily complexes. This race has given its genetic material to many bodies upon your plane.{{< /l >}}
+{{< l a="Ra" >}}This is in some cases correct. The planetary influences from which those of Mars experience memory have some effect upon these third density physical bodily complexes. This race has given its genetic material to many bodies upon your plane.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Thank you. Ra mentioned the ones Stuart and Douglas in a recent session. These are members of what we call our medical profession. What is the value, overall value, shall I say, of modern medical techniques in alleviating bodily distortions with respect to the purpose for these distortions and what we might call karma and other effects?{{< /r >}}
 

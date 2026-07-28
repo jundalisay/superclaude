@@ -14,7 +14,8 @@ tags: ['densities', '']
 February 3, 1981
 
 
-{{< l a="Ra" >}}We have difficulty dealing with your time/space. There may again be errors of this type. Feel free to question us that we may recalculate in your time/space measurements.
+{{< l a="Ra" >}}
+We have difficulty dealing with your time/space. There may again be errors of this type. Feel free to question us that we may recalculate in your time/space measurements.
 
 The error we have discovered concerns one of the arrivals of both the Orion group into your planetary sphere of influence and the corresponding arrival of emissaries of the Confederation.
 
@@ -32,7 +33,7 @@ This is going to occur with some inconvenience, as we have said before, due to t
 
 You will find a sharp increase in the number of people, as you call mind/body/spirit complexes, whose vibrational potentials include the potential for fourth-vibrational distortions. Thus, there will seem to be, shall we say, a new breed. These are those incarnating for fourth-density work.
 
-There will also be a sharp increase in the short run of negatively oriented or polarized mind/body/spirit complexes and social complexes, due to the polarizing conditions of the sharp delineation between fourth-density characteristics and third-density self-service orientation.
+There will also be a sharp increase in the short run of negatively oriented or polarized mind/body/spirit complexes and social complexes, due to the polarizing conditions of the sharp delineation between fourth-density characteristics and third density self-service orientation.
 
 Those who remain in fourth density upon this plane will be of the so-called positive orientation. Many will come from elsewhere, for it would appear that with all of the best efforts of the Confederation, which includes those from your peoples’ inner planes, inner civilizations, and those from other dimensions, the harvest will still be much less than that which this planetary sphere is capable of comfortably supporting in service.{{< /l >}}
 
@@ -56,7 +57,7 @@ We cannot offer shortcuts to enlightenment. Enlightenment is of the moment, is a
 
 {{< r a="Don Elkins" >}}What was its purpose in coming here?{{< /r >}}
 
-{{< l a="Ra" >}}It was a drone designed to listen to the various signals of your peoples. You were, at that time, beginning work in a more technical sphere. We were interested in determining the extent and the rapidity of your advances. This drone was powered by a simple fission motor or engine as you would call it. It was not that type which you now know, but was very small. However, it has the same destructive effect upon third-density molecular structures. Thus as it malfunctioned we felt it was best to pick a place for its destruction rather than attempt to retrieve it, for the possibility/probability modes of this maneuver looked very, very minute.{{< /l >}}
+{{< l a="Ra" >}}It was a drone designed to listen to the various signals of your peoples. You were, at that time, beginning work in a more technical sphere. We were interested in determining the extent and the rapidity of your advances. This drone was powered by a simple fission motor or engine as you would call it. It was not that type which you now know, but was very small. However, it has the same destructive effect upon third density molecular structures. Thus as it malfunctioned we felt it was best to pick a place for its destruction rather than attempt to retrieve it, for the possibility/probability modes of this maneuver looked very, very minute.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was its danger both blast and radiation?{{< /r >}}
 
@@ -105,9 +106,9 @@ We cannot offer shortcuts to enlightenment. Enlightenment is of the moment, is a
 
 {{< r a="Don Elkins" >}}Can you tell me what the Orion group did in order to try to cause his downfall?{{< /r >}}
 
-{{< l a="Ra" >}}We may describe in general what occurred. The technique was that of building upon other negatively oriented information. This information had been given by the one whom your peoples called “Yahweh.” This information involved many strictures upon behavior and promised power of the third-density, service-to-self nature. These two types of distortions were impressed upon those already oriented to think these thought-forms.
+{{< l a="Ra" >}}We may describe in general what occurred. The technique was that of building upon other negatively oriented information. This information had been given by the one whom your peoples called “Yahweh.” This information involved many strictures upon behavior and promised power of the third density, service-to-self nature. These two types of distortions were impressed upon those already oriented to think these thought-forms.
 
-This eventually led to many challenges of the entity known as Jesus. It eventually led to one, sound vibration complex “Judas,” as you call this entity, who believed that it was doing the appropriate thing in bringing about or forcing upon the one you call Jesus the necessity for bringing in the third-density planetary power distortion of third-density rule over others.
+This eventually led to many challenges of the entity known as Jesus. It eventually led to one, sound vibration complex “Judas,” as you call this entity, who believed that it was doing the appropriate thing in bringing about or forcing upon the one you call Jesus the necessity for bringing in the third density planetary power distortion of third density rule over others.
 
 This entity, Judas, felt that, if pushed into a corner, the entity you call Jesus would then be able to see the wisdom of using the power of intelligent infinity in order to rule others. The one you call Judas was mistaken in this estimation of the reaction of the entity, Jesus, whose teach/learning was not oriented towards this distortion. This resulted in the destruction of the bodily complex of the one known as Jesus to you.{{< /l >}}
 
@@ -229,9 +230,9 @@ In your particular space/time continuum distortion there are seven sub-planes of
 
 You will discover the vibrational nature of these seven planes as you pass through your experiential distortions, meeting other-selves of the various levels which correspond to the energy influx centers of the physical vehicle.
 
-The invisible, or inner, third-density planes are inhabited by those who are not of body complex natures such as yours; that is, they do not collect about their spirit/mind complexes a chemical body. Nevertheless these entities are divided in what you may call an artificial dream within a dream into various levels. In the upper levels, desire to communicate knowledge back down to the outer planes of existence becomes less, due to the intensive learn/teaching which occurs upon these levels.{{< /l >}}
+The invisible, or inner, third density planes are inhabited by those who are not of body complex natures such as yours; that is, they do not collect about their spirit/mind complexes a chemical body. Nevertheless these entities are divided in what you may call an artificial dream within a dream into various levels. In the upper levels, desire to communicate knowledge back down to the outer planes of existence becomes less, due to the intensive learn/teaching which occurs upon these levels.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then is it necessary to penetrate one plane at a time as we move from what we call third-density physical through these planes?{{< /r >}}
+{{< r a="Don Elkins" >}}Then is it necessary to penetrate one plane at a time as we move from what we call third density physical through these planes?{{< /r >}}
 
 {{< l a="Ra" >}}Some penetrate several planes at one time.
 
@@ -259,9 +260,6 @@ You will find ill health, as you call this distortion, to frequently be the resu
 
 Each individual becomes aware of the time of harvest and the need on a self-level to bend mind, body, and spirit towards the learn/teaching of these lessons, is given priority in order that this entity may have the best possible chance, shall we say, of succeeding in this attempt.{{< /l >}}
 
----
-
-Would you like me to continue formatting Session 18 in this same style next?
 
 
 <!-- 17.44 Questioner: My only question is there anything we can do to make Carla [inaudible]?
