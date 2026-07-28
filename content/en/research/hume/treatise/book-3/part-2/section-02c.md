@@ -48,7 +48,7 @@ It is impossible there can be naturally a fixed right or property while the oppo
 - impel them in contrary directions, and
 - are not restrained by any convention or agreement.
 
-The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
+**The convention for the distinction of property and for the stability of possession is most necessary to establish human society.**
 
 After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
 
@@ -69,41 +69,13 @@ Everyone is actuated by it.
 Everyone has has a reason to fear it when it:
 - acts unrestrained, and
 - gives way to its first and most natural movements.
-
-The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
-
-
-
-
-The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
-
-After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
-
-All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
-
-Vanity, pity, and love are esteemed as:
-- social passions, and
-- bonds of union among men.
-
-Envy and revenge are pernicious.
-
-But they operate only by intervals and are directed against our superiors or enemies.
-
-This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.
-
-Everyone is actuated by it.
-
-Everyone has has a reason to fear it when it:
-- acts unrestrained, and
-- gives way to its first and most natural movements.
-
 
 The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
 
 
 ## The Social, Restrained Self-Interest
 
-No human affection has a sufficient force and proper direction to:
+No human affection has enough force and proper direction to:
 - counterbalance the love of gain, and
 - render men fit members of society by making them abstain from the possessions of others.
 
@@ -122,9 +94,9 @@ The question on the evil or goodness of human nature does not enter the other qu
 
 Only men's sagacity or folly is to be considered in the evil or goodness of human nature.
 
-Self-interest alone restrains self-interest, whether it is vicious or virtuous.
-- If self-interest is virtuous, then men become social by their virtue.
-- If self-interest is vicious, then men become social by their vice.
+**[Positive] Self-interest alone restrains [Negative] self-interest**, whether it is vicious [Negative] or virtuous [Positive].
+- If self-interest is virtuous [Positive], then men become social by their virtue.
+- If self-interest is vicious [Negative], then men become social by their vice.
 
 Self-interest restrains itself by establishing the rule for the stability of possession.
 
@@ -140,9 +112,11 @@ For example, if:
 
 In this case, man's very first state and situation would be social.
 
-Human nature is composed of two principal parts requisite in all its actions:
-- The affections
-- The understanding
+Human nature is composed of 2 principal parts requisite in all its actions:
+
+
+1. The affections
+2. The understanding
 
 The blind motions of the affections incapacitate men for society without the direction of the understanding.
 

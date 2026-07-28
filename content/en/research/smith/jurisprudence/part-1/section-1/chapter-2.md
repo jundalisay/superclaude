@@ -38,28 +38,46 @@ There is no government in a nation of hunters. The society consists of a few ind
 
 But they have no authority one over another. The whole society interests itself in any offence. 
 
-If possible they make it up between the parties, if not they banish from their society, kill or deliver up to the resentment of the injured him who has committed the crime. But this is no regular government. They might have a respected leader, yet he never can do anything without the consent of the whole. Thus, among hunters there is no regular government, they live according to the laws of nature.
+If possible they make it up between the parties, if not they banish from their society, kill or deliver up to the resentment of the injured him who has committed the crime. 
 
-The appropriation of herds and flocks introduced an inequality of fortune. It led to regular government. Until there is property, there can be no government. The very end of government is to= 
+But this is no regular government. They might have a respected leader, yet he never can do anything without the consent of the whole. 
+
+Thus, among hunters there is no regular government, they live according to the laws of nature.
+
+**The appropriation of herds and flocks introduced an inequality of fortune.** 
+
+It led to regular government. 
+
+**Until there is property, there can be no government.** 
+
+The very end of government is to:
 - secure wealth [utility], and
 - defend the rich from the poor.
 
-In this age of shepherds, if Person A had 500 oxen and Person B had none, a government would be needed to secure them from him. This inequality of fortune makes a distinction between the rich and the poor. It gave the rich much influence over the ooor.
+In this age of shepherds, if Person A had 500 oxen and Person B had none, a government would be needed to secure them from him. 
 
-Those who had no herds depended on those who had herds because the poor could no longer do hunting because the wild animals had become domesicated. Those who had more flocks and herds necessarily gained great influence over the rest.
+This inequality of fortune makes a distinction between the rich and the poor. It gave the rich much influence over the ooor.
+- Those who had no herds depended on those who had herds because the poor could no longer do hunting because the wild animals had become domesicated. 
+- Those who had more flocks and herds necessarily gained great influence over the rest.
 
-Accordingly in the Old Testament, Abraham, Lot, and the other patriarchs were like little petty princes. This inequality of fortune in a nation of shepherds occasioned greater influence than in any period after that.
+Accordingly in the Old Testament, Abraham, Lot, and the other patriarchs were like little petty princes. 
 
-A nation of shepherds has no way to spend their property other than giving it in presents to the poor. Through this, they gain influence over them as to make them their slaves.
+This inequality of fortune in a nation of shepherds occasioned greater influence than in any period after that.
+
+A nation of shepherds has no way to spend their property other than giving it in presents to the poor. 
+- Through this, they gain influence over them as to make them their slaves.
 
 At present, on the other hand, a man may spend for a great estate and yet have no dependents. The arts and manufactures are increased by his spending yet it makes very few persons dependent.
 
 How could one man gain more authority than the rest as a chieftain?
 
-A nation consists of many families that have agreed to live with one another. At their public meetings, there will always be one of superior influence to the rest. He will direct and govern their resolutions, which is all the authority of a chieftain in a barbarous country. The chieftain is the leader of the nation.
+A nation consists of many families that have agreed to live with one another. 
+
+At their public meetings, there will always be one of superior influence to the rest. He will direct and govern their resolutions, which is all the authority of a chieftain in a barbarous country. 
+
+The chieftain is the leader of the nation.
 
 His son naturally becomes the chief of the young people. On the fathers' death, the son succeeds to his authority. Thus, chieftainship becomes hereditary.
-
 
 
 ## Gift-giving 
@@ -75,7 +93,8 @@ The powers of government* are:
 2. judicial, or that which obliges private persons to obey these laws, and punishes those who disobey 
 3. the executive, or as some call it, the federal power, to which belongs the making war and peace.
 
-> *Superhysics Note: We add the fourth power of government which is resource-allocation which is currently part of the executive power
+
+{{< n n="We add the fourth power of government which is resource-allocation which is currently part of the executive power" >}}
 
 
 All these powers in the original form of government belonged to the whole body of the people.

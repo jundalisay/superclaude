@@ -4,10 +4,7 @@ title: "Introduction"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
-image: /covers/ra.jpg
 ---
-
-
 
 
 Don Elkins: This book is an exact transcript from tape recordings of twenty-six sessions of an experiment designed to communicate with an extraterrestrial being. We started the experiment in 1962 and refined the process for nineteen years. In 1981 the experimental results of our efforts changed profoundly in quality and precision. This book is simply a report of the beginning of this latter phase of our work.
