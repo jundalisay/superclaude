@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Our Simple Ideas of Sensation"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 18
 ---
 

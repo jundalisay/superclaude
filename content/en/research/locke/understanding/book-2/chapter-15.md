@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "Idea of Duration and Expansion"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 38
 ---
 

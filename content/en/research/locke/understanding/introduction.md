@@ -2,7 +2,7 @@
 title: Introduction
 linkTitle: "Understanding"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 12
 ---
 

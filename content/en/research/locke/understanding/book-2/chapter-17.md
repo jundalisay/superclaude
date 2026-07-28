@@ -2,7 +2,7 @@
 heading: Chapter 17
 title: "Infinity"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 44
 ---
 

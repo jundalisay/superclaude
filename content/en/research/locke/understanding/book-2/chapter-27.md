@@ -2,7 +2,7 @@
 heading: Chapter 27
 title: "Introduction"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 84
 ---
 

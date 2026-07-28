@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "Truth In General"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 16
 ---
 

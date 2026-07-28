@@ -32,17 +32,24 @@ Accordingly we see the positive law of God every where joins them together, with
 Had but this one thing been well considered, without looking any deeper into the matter, it might perhaps have kept men from running into those gross mistakes, they have made, about this power of parents; which, however it might, without any great harshness, bear the name of absolute dominion, and regal authority, when under the title of paternal power it seemed appropriated to the father, would yet have founded but oddly, and in the very name shewn the absurdity, if this supposed absolute power over children had been called parental; and thereby have discovered, that it belonged to the mother too: for it will but very ill serve the turn of those men, who contend so much for the absolute power and authority of the fatherhood, as they call it, that the mother should have any share in it; and it would have but ill supported the monarchy they contend for, when by the very name it appeared, that that fundamental authority, from whence they would derive their government of a single person only, was not placed in one, but two persons jointly. But to let this of names pass.
 
 
-Sect. 54. 
+### Sect. 54
 
 Though I have said above, Chap. II. That all men by nature are equal, I cannot be supposed to understand all sorts of equality: age or virtue may give men a just precedency: excellency of parts and merit may place others above the common level: birth may subject some, and alliance or benefits others, to pay an observance to those to whom nature, gratitude, or other respects, may have made it due: and yet all this consists with the equality, which all men are in, in respect of jurisdiction or dominion one over another; which was the equality I there spoke of, as proper to the business in hand, being that equal right, that every man hath, to his natural freedom, without being subjected to the will or authority of any other man.
 
-Sect. 55. Children, I confess, are not born in this full state of equality, though they are born to it. Their parents have a sort of rule and jurisdiction over them, when they come into the world, and for some time after; but it is but a temporary one. The bonds of this subjection are like the swaddling clothes they are wrapt up in, and supported by, in the weakness of their infancy: age and reason as they grow up, loosen them, till at length they drop quite off, and leave a man at his own free disposal.
 
-Sect. 56. Adam was created a perfect man, his body and mind in full possession of their strength and reason, and so was capable, from the first instant of his being to provide for his own support and preservation, and govern his actions according to the dictates of the law of reason which God had implanted in him. 
+### Sect. 55
+
+Children are not born in this full state of equality, though they are born to it. Their parents have a sort of rule and jurisdiction over them, when they come into the world, and for some time after; but it is but a temporary one. The bonds of this subjection are like the swaddling clothes they are wrapt up in, and supported by, in the weakness of their infancy: age and reason as they grow up, loosen them, till at length they drop quite off, and leave a man at his own free disposal.
+
+
+### Sect. 56
+
+Adam was created a perfect man, his body and mind in full possession of their strength and reason, and so was capable, from the first instant of his being to provide for his own support and preservation, and govern his actions according to the dictates of the law of reason which God had implanted in him. 
 
 From him the world is peopled with his descendants, who are all born infants, weak and helpless, without knowledge or understanding: but to supply the defects of this imperfect state, till the improvement of growth and age hath removed them, Adam and Eve, and after them all parents were, by the law of nature, under an obligation to preserve, nourish, and educate the children they had begotten; not as their own workmanship, but the workmanship of their own maker, the Almighty, to whom they were to be accountable for them.
 
-Sect. 57. 
+
+### Sect. 57
 
 The law, that was to govern Adam, was the same that was to govern all his posterity, the law of reason. But his offspring having another way of entrance into the world, different from him, by a natural birth, that produced them ignorant and without the use of reason, they were not presently under that law; for no body can be under a law, which is not promulgated to him; and this law being promulgated or made known by reason only, he that is not come to the use of his reason, cannot be said to be under this law; and Adam’s children, being not presently as soon as born under this law of reason, were not presently free: for law, in its true notion, is not so much the limitation as the direction of a free and intelligent agent to his proper interest, and prescribes no farther than is for the general good of those under that law: could they be happier without it, the law, as an useless thing, would of itself vanish; and that ill deserves the name of confinement which hedges us in only from bogs and precipices. 
 
@@ -122,5 +129,3 @@ Sect. 75. Thus it was easy, and almost natural for children, by a tacit, and sca
 ### Sect. 76. 
 
 Thus the natural fathers of families, by an insensible change, became the politic monarchs of them too: and as they chanced to live long, and leave able and worthy heirs, for several successions, or otherwise; so they laid the foundations of hereditary, or elective kingdoms, under several constitutions and manners, according as chance, contrivance, or occasions happened to mould them. But if princes have their titles in their fathers right, and it be a sufficient proof of the natural right of fathers to political authority, because they commonly were those in whose hands we find, de facto, the exercise of government: I say, if this argument be good, it will as strongly prove, that all princes, nay princes only, ought to be priests, since it is as certain, that in the beginning, the father of the family was priest, as that he was ruler in his own houshold.
-
-

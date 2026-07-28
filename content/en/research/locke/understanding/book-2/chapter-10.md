@@ -2,7 +2,7 @@
 heading: Chapter 10
 title: "Retention"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 24
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 14
 title: "Judgement"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 42
 ---
 

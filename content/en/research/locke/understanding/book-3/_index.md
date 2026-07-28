@@ -2,6 +2,6 @@
 heading: Book 3
 title: "Essay On Human Understanding"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 6
 ---

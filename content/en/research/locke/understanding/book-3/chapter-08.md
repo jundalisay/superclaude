@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Abstract and Concrete Terms"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 18
 ---
 

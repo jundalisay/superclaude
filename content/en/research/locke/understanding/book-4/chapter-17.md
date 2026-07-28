@@ -2,7 +2,7 @@
 heading: Chapter 17
 title: "Reason"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 54
 ---
 

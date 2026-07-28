@@ -2,7 +2,7 @@
 heading: Chapter 16
 title: "Probability"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 52
 ---
 

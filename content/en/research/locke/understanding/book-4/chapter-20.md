@@ -2,7 +2,7 @@
 heading: Chapter 20
 title: "Wrong Assent or Error"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 54
 ---
 

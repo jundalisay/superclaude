@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Names of Simple Ideas"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 7
 ---
 

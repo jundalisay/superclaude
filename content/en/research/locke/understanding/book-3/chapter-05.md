@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "THE NAMES OF MIXED MODES AND RELATIONS"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 9
 ---
 

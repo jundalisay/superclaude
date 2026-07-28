@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "Particles"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 15
 ---
 

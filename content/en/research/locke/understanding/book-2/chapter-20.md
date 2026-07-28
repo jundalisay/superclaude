@@ -2,7 +2,7 @@
 heading: Chapter 20
 title: "Modes Of Pleasure And Pain"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 56
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Words Or Language In General"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 2
 ---
 

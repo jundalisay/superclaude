@@ -2,7 +2,7 @@
 heading: Chapter 9
 title: "The Imperfection of Words"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 21
 ---
 

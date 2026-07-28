@@ -2,7 +2,7 @@
 heading: Chapter 16
 title: "Idea of Number"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 42
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Extent Of Human Knowledge"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 12
 ---
 

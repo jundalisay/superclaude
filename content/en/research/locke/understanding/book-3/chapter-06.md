@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "THE NAMES OF SUBSTANCES"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 12
 ---
 

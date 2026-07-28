@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "Speculative And Practical Considerations on Innate Principles"
 description: Principles not innate, unless their Ideas be innate
-c: "steelblue"
+c: "firebrick"
 weight: 12
 ---
 

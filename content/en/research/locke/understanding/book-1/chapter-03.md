@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "There are No Innate Practical Principles"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 8
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "Idea of Solidity"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 14
 ---
 

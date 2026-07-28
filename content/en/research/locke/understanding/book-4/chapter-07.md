@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "Maxims"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 22
 ---
 

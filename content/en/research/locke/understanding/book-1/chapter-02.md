@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "There are No Innate Speculative Principles"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 6
 ---
 

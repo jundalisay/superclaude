@@ -2,6 +2,6 @@
 heading: Book 4
 title: "Knowledge And Probability"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 8
 ---

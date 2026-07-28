@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "UNIVERSAL PROPOSITIONS: THEIR TRUTH AND CERTAINTY"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 18
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "The Remedies Of The Foregoing Imperfections And Abuses Of Words"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 28
 ---
 

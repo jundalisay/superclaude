@@ -2,7 +2,7 @@
 heading: Chapter 25
 title: "Relation"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 74
 ---
 

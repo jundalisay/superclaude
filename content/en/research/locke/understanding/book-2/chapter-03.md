@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Simple Ideas of Sense"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 12
 ---
 

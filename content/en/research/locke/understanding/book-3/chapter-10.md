@@ -2,7 +2,7 @@
 heading: Chapter 10
 title: "The Abuse of Words"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 24
 ---
 

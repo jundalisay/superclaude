@@ -2,7 +2,7 @@
 heading: Chapter 21
 title: "Power"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 60
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 12
 title: "Complex Ideas"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 32
 ---
 

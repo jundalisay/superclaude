@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Degrees Of Our Knowledge"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 8
 ---
 

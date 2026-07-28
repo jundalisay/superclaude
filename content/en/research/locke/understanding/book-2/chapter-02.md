@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Simmple Ideas"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 8
 ---
 

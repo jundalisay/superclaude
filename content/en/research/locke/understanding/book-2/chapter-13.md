@@ -2,7 +2,7 @@
 heading: Chapter 13
 title: "Complex Ideas of Simple Modes"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 34
 ---
 

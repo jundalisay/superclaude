@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Ideas In General, And Their Original"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 6
 ---
 

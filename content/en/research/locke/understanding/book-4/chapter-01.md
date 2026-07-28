@@ -2,7 +2,7 @@
 heading: Book 4
 title: "Essay On Human Understanding"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 8
 ---
 

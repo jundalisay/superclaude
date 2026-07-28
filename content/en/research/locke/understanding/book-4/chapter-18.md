@@ -2,7 +2,7 @@
 heading: Chapter 18
 title: "Faith and Reason"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 54
 ---
 

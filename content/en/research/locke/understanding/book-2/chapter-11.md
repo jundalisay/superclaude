@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "Discerning, And Other Operations Of The Mind"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 26
 ---
 

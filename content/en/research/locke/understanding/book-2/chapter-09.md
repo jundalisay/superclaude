@@ -2,7 +2,7 @@
 heading: Chapter 9
 title: "Perception"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 22
 ---
 

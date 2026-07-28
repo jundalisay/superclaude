@@ -2,7 +2,7 @@
 heading: Chapter 21
 title: "THE DIVISION OF THE SCIENCES"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 58
 ---
 

@@ -2,6 +2,6 @@
 heading: Book 2
 title: "Ideas"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 4
 ---

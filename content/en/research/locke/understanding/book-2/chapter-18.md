@@ -2,7 +2,7 @@
 heading: Chapter 18
 title: "Other Simple Modes"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 48
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "The Reality Of Knowledge"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 28
 ---
 

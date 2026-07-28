@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Trifling PROPOSITIONS"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 24
 ---
 

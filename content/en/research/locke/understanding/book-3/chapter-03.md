@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "General Terms"
 description: 
-c: "steelblue"
+c: "firebrick"
 weight: 5
 ---
 

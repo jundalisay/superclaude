@@ -2,7 +2,7 @@
 heading: Chapter 14
 title: "Idea of Duration and its Simple Modes"
 description: An Inquiry into the Understanding pleasant and useful
-c: "steelblue"
+c: "firebrick"
 weight: 36
 ---
 
