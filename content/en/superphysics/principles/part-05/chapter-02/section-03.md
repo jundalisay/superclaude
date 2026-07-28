@@ -1,53 +1,36 @@
 ---
-heading: "Section 3"
-title: "Belief Systems"
-date: 2024-02-24
-weight: 10
-image: /photos/meta/god.jpg
-description: "Compound Ideas Involve Belief, Opinion, Concept, Gnómé, Indoctrination, Dogma"
+title: "Identity Versus Entity"
+heading: "Unit 2"
+date: 2024-01-24
+weight: 6
+image: /photos/social/pass.jpg
+description: ""
+icon: "Superphysics"
 toc: false
-icon: "Juan"
-tags: ['beliefs']
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /superphysics/principles/chapter-05c
 ---
 
 
 
+We define "identity" as a discrete resultant perception separate from other perceptions or a mass of perceptions.
 
-## Belief Systems and Religions
+This discreteness comes from the separation created by the Negative Force on the parts of the Supreme Entity. 
 
-Beliefs can be organized into a belief system, as a logical collection of related ideas that the ego can adopt and attach itself to.
+"Entity" is anything that has identity and other properties.
 
-This belief system is an expression of culture, as an expression of a society, just as personality is the expression of a person.
-- A society is a metaphysical organism made up of individual souls connected and united together
+In contrast, the word "identity" emphasizes only the property of separation or discreteness. 
 
-Most belief system are unorganized. 
+So love and hate are identities as love-idea and hate-idea. But they are not entities unless love and hate have other properties like size, structure, energy, etc. 
 
-An organized belief system has the following components:
 
-1. A founder
-2. Scripture or text from the founder
-3. An organization with rules
+### Identity-Relationship Versus Entity-Relationship
 
-A religion has all these components, with the difference that religions deal with metaphysics. 
+An identity-relationship is the relation between identities. An example is the relation of numbers 1, 2, 3, 4..
 
-This is why we call Modern Physics as a religion whenever it deals with the cause of Existence. 
-
-Belief System | Founder | Text | Organization
---- | --- | --- | --- | 
-Catholicism | Jesus | Bible | Catholic Church
-Islam | Mohammad | Quran | Local Mosque Organization 
-Buddhism | Buddha | Tipataka | Local Sangha
-Communism | Marx | Communist Manifesto | Communist Party
-Nazism | Hitler | Mein Kampf | Nazi Party
-Modern Capitalism | Samuelson | Economics | Liberal Party
-Classical Physics | Newton | Principia Mathematica | Royal Society
-Modern Physics | Einstein | Annus mirabilis papers | CERN
-
-From this table, we can see that belief systems contain the vibration of the founder and the culture of the society that established them. 
-
+An entity-relationship is the relation between entities (that have other qualities). Examples are the relation between:
+- father and son
+- table and chair
+- flag and country
 

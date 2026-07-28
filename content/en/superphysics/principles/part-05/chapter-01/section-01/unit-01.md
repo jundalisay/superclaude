@@ -1,12 +1,12 @@
 ---
-title: "Everything is an Idea"
+title: "Ignorance and Dogma"
 heading: "Unit 1"
 date: 2020-01-02
 weight: 3
 image: /photos/idea.jpg
-description: "Everything is an idea of the Creator of that existence"
+description: "Ignorance and Dogma are metaphysical voids"
 icon: "Juan"
-tags: ['ideas']
+tags: ['dogma']
 toc: false
 writer:
   name: Juan
@@ -43,7 +43,7 @@ In this case, the physical disease started to exist through the senses of the Wu
 <!-- It means that the complete metaphysical idea existed in Nature, before humans could completely recreate it in their minds. -->
 
 
-## Dogma and Ignorance as the Aether Drag
+## Dogma and Ignorance as Void
 
 A materialist will say that this example is proof that ideas are created by material perceptions. 
 
@@ -57,16 +57,24 @@ Then after more visual observations (Fire Element) through time (Air Element), t
 
 Had the medical sciences been defincient in knowledge through dogma or ignorance, as in the Roman times, then Covid would simply be classed as a general and crude idea as a "plague". The subsequent refined idea-solution as vaccines would then never be formed. 
 
-We call dogma or ignorance as "aether drag" that blocks the refinement of ideas and the looping from real experience to true idea. 
+We call ignorance as "void".
 
-The continuation of this loop includes the evolution of its idea from ’ to ‘Covid-19’ as an example of metaphysical ‘aether drag’ which will be in Material Superphysics.
+The perpetuating of ignorance would then be dogma.
 
-{{< i s="/graphics/super/covid.jpg" a="Covid in evolution" c="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example a metaphysical 'aether (dark energy) drag'" >}}
+This dogma blocks:
+- the refinement of ideas and
+- the looping from real experience to true idea
 
-This metaphysical aether drag is consistent with the physical aether drag in Physics which now manifests in time dilation as explained by Material Superphysics.
+This dogma has force because it is from the Negative Force, just as knowledge as the connection of ideas to remove gaps between them, is from the Positive Force. 
+
+
+{{< i s="/graphics/super/covid.jpg" a="Covid in evolution" c="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is the Positive Force getting rid of ignorance-voids." >}}
+
+
+<!-- This metaphysical void is consistent with the physical aether drag in Physics which now manifests in time dilation as explained by Material Superphysics.
 - Dark energy as the Negative force in the marco-aetherspace splits up universes and atoms (as the atomic space or aetherspace)
 - Being free from material influence makes the material aetherspace contract, reducing the negative drag of the aetherspace or dark energy.
-- This is consistent with dark energy being found to expand faster, as an aether dash, at the distant parts of the universe compared to the closer parts.
+- This is consistent with dark energy being found to expand faster, as an aether dash, at the distant parts of the universe compared to the closer parts. -->
 
 <!-- In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19.  -->
 
@@ -129,74 +137,4 @@ Unlike science which manipulates the brain and hopes that it changes the soul or
 
 <!-- ## Tap into your feelings, the deeper the better -->
 
-
-
-## The Solutions to Existing Problems Already Pre-Exist
-
-We can say that Superphysics has a  metaphysics-first policy that must connect to physical phenomena.
-
-{{< img src="/photos/objects/mug.jpg" alt="Mug Economics" >}}
-
-For example, Superphysics would say that a physical mug existed only after the maker of mugs had the idea of a mug, as to be able to create a physical mug.
-
-Whereas science would say that the mug was created by forces of heat on glass particles, totally ignoring WHY those heat and glass were joined artificially in the first place. This ignorance is a self-imposed blockage or aether drag from the Negative Force that imprisons Science.  
-
-Since science, as the scientific method, was invented to solve problems, then this blockage that drags minds away from metaphysical causes, also limits the solutions that science can offer.
-
-This in turn is why there are still so many problems in the world.
-
-But Superphysics is not trapped by the Negative, and so it has far more solutions to offer. 
-
-For example, in the Covid example, the existence of Covid means that its idea in Nature already existed in metaphysicality long before its actual physical existence. 
-
-Therefore, the solution to Covid already exists in Nature just as a teacher who gives a math problem already has the answer*.
-
-{{< b >}}
-### Update Dec 14, 2021
-
-This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. 
-
-Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. 
-
-The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. Superphysics is pro-vaccination just like we are ok with paracetamol for headaches. But both are just workarounds to buy time to find the root cause of the virus and the headache. 
-{{< /b >}}
-
-
-There might be some math problems that seem to have no answers, such as those paradoxes that involve infinity. 
-
-But it means that they are just pure abstract and imagined problems, and not real ones. They are just from the minds of intellectuals who have nothing worthwhile to do.
-
-Our invention of the concept of abstract Pre-Existence deals with such people by acting as a 'sink' to suck in such imagination energy and nullify it. This is to focus human energies on solving **real** problems and stop wasting them.
-
-
-
-<!-- {{< me date="August 1, 2022" >}}
-*Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
-{{< /me >}}
- -->
-
-<!-- Thus:
-- every physical thing or perception has a corresponding metaphysical idea or feeling
-- every idea or feeling exists before its physical version does.
-
-For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
-
-Therefore, the metaphysical aethereal idea is superior and prior to its physical material form.  
-- The material form is easy and obvious.
-- The aethereal idea is abstract and hard to grasp.   -->
-
-
-
-## Do You Have a Problem? The Solution Already Exists!
-
-<!-- All the data served by the internet pre-exists. This means that all possibilities already pre-exist.  -->
-
-If you have a problem, then it follows that its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem*.
-
-{{< f f="*The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag or staticity. This drag is caused by the Negative Force." >}}
-
-
-For example, no one has ever imagined that humans should have three or four legs, and that having only two legs was a problem. Thus, there has never been a search for its solution. 
-
-On the contrary, people have imagined that our inability to fly was a problem and so the solution manifested itself as powered flight. The metaphysical solution often arrives much faster than the actual physical solution, though in rare cases they can come together by coincidence.
 

@@ -17,8 +17,6 @@ aliases:
 
 
 
-
-
 ## Belief, Opinion, Concept, Gnómé, Indoctrination, Dogma
 
 Compound ideas can be connected to other compound ones that impart a similar vibration or feeling in order to reinforce each other. This is caled a concept or conception. 

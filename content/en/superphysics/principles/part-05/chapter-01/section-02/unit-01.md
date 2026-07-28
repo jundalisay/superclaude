@@ -1,5 +1,5 @@
 ---
-title: "Ideas are Static Particles, Feelings are Dynamic Waves"
+title: "Ideas versus Feelings"
 heading: "Section 2"
 date: 2024-01-24
 weight: 6
@@ -88,30 +88,7 @@ This is consistent with our interpretation of reality as spatial slices glued to
 {{< img src="/graphics/flip.jpg" size="" alt="Slices of Reality" cap="Our reality is really made up of many slices of waves sown together by our abstract minds, in our abstract minds" >}}
 
 
-## Identity Versus Entity
-
-We define "identity" as a discrete resultant perception separate from other perceptions or a mass of perceptions.
-
-This discreteness comes from the separation created by the Negative Force on the parts of the Supreme Entity. 
-
-"Entity" is anything that has identity and other properties.
-
-In contrast, the word "identity" emphasizes only the property of separation or discreteness. 
-
-So love and hate are identities as love-idea and hate-idea. But they are not entities unless love and hate have other properties like size, structure, energy, etc. 
-
-
-### Identity-Relationship Versus Entity-Relationship
-
-An identity-relationship is the relation between identities. An example is the relation of numbers 1, 2, 3, 4..
-
-An entity-relationship is the relation between entities (that have other qualities). Examples are the relation between:
-- father and son
-- table and chair
-- flag and country
-
-
-## Feelings Versus Ideas 
+## Ideas are Static Particles, Feelings are Dynamic Waves
 
 This is opposite of most of Western philosophy which puts emphasis on ideas over feelings. This is why the West emphasizes criticial thinking, but has no concept of critical feeling.
 
@@ -135,27 +112,3 @@ This matches the reality of the current prevalence of:
 - environmental destruction
 - the gap between rich and poor as proven by the words Global North and South, First world and Third world
   - This is really based on the mercantile system which evolved into Capitalism which enshrined the merchant class
-
-
-
-## Concepts Emerging from the Difference of Ideas and Feelings
-
-The differences in the nature of idea and feeling, as nodes versus waves, leads to the following concepts:
-
-1. The connection of ideas as simple thoughts and compound beliefs
-2. The geometry of ideas
-3. Mental configuration as personality
-4. The Conservation of Idea
-5. Samskara that batters the mind into a personality
-6. Truth checking as dharma
-
-
-<!-- These ideas and feelings are all made up of the positive and negative aspects. This is similar to:
-
-- data being made up of 1's and 0's
-- electricity arising from positive and negative charges
- -->
-<!-- 
-The Hindus call this Virtual Reality or Existence as **Brahma** and the Taoists call Its flow as the **Tao**. 
-- The ‘on’ or 'published' state is called **Saguna Brahma** 
-- The ‘off’ or 'draft' state is called **Nirguna Brahma** -->
