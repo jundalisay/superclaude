@@ -44,7 +44,7 @@ Her second question was: How may I best revitalize myself not only now but in th
 
 
 {{< l a="Ra" >}}
-She is aware of the basic needs of its constitution, those being meditation, acceptance of limitations, experiences of joy through association with others and with the beauty as of the singing, and the exercising with great contact, whenever possible, with the life forces of second density, especially those of trees; 
+She is aware of the basic needs of its constitution, those being meditation, acceptance of limitations, experiences of joy through association with others and with the beauty as of the singing, and the exercising with great contact, whenever possible, with the life forces of 2nd density, especially those of trees; 
 
 this entity also needing to be aware of the moderate but steady intake of foodstuffs, exercise being suggested at a fairly early portion of the day and at a later portion of the day before the resting.{{< /l >}}
 

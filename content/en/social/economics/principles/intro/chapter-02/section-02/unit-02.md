@@ -20,8 +20,12 @@ Use Value requires 1 entity | We replace Marginal Utility with Minimum Needs sin
 {{< /dc >}}
 
 
+## Use Value is Personal and Subjective
 
-In Neoclassical Economics, the use-value is called 'utility' and is the foundation of its theories like marginal utility.
+
+The previous unit explained that use value aligns with the personal perspective.
+
+In Neoclassical Economics, the use-value is called 'utility' and is the foundation of its theories like **marginal utility**.
 
 According to Economics, utility is the satifaction that you get from a good or service.
 
@@ -30,13 +34,10 @@ Initially, this satisfaction increases with every additional item bought. But in
 <!-- At this point, you say you have all the items that you need.  -->
 
 This can be seen as gradual Destructive Interference that flattens the desire for that utility.
+- For example, adding a few essential apps on your phone can address your desire for useful tools
 
-
-For example:
-- adding a few essential apps on your phone can address your desire for useful tools
-- but adding too many apps will occupy disk space and drain battery while adding to information overload
-
-In the latter case, the wave overcorrects and goes beyond flat. It takes an opposite form to the original desire, leading to aversion. 
+But adding too many apps will occupy disk space and drain battery while adding to information overload
+- In this case, the wave overcorrects and goes beyond flat. It takes an opposite form to the original desire, leading to aversion. 
 
 {{< i s="/graphics/physics/interfere2.jpg" a="Interference" >}}
 
@@ -49,18 +50,30 @@ This system of marginal utility requires **the quantification of pleasure or uti
 - This is then ‘maximized’ as ‘profit maximization’ in Economics. 
 
 The problem is that, in the physical domain, objects are finite. **So a maximization of objects in one area will lead to a minimization in another**. 
-- **This minimization leads to poverty and inequality.** 
+**This minimization in a society leads to poverty and inequality** -- this is the main error of using personal use-values in a societal conxtext, which really requires exchangeable value, not use-value. 
+- This is fixed by our 3rd and 4th laws of value to be explained later. 
 
-When the maximization is done unnaturally, such as through speculation, the fake maximization will be exposed for its true value which is not so high. 
+In the societal context, when the maximization is done unnaturally, such as through speculation, the fake maximization will be exposed for its true value which is not so high. 
 - **This leads to as economic crashes.** 
 
-Supereconomics disregards marginal utility because:
+This is why marginal utility should only be applied on personal economics, called budgeting.
 
-1. Use value or utility is just one of the pre-exchangeable values
+For example:
+- you stop eating ice cream when you feel you are full
+- you eat ice cream in the summer to maximize its effect
+- you minimize eating ice cream if you want to slim down
+
+
+
+
+Supereconomics downgrades the imporatnce of marginal utility in the societal view because:
+
+### 1. Use value or utility is just one of the pre-exchangeable values
 
 There are other values like historical value, environmental value, sentimental value, etc. 
 
-2. Maximization of exchangeable value increases untruth
+
+### 2. Maximization of exchangeable value increases untruth
 
 Utility functions are measured in money which is not exactly the same as the product or service being exchanged. Maximizing a money-based utility function maximizes the untruth. 
 
@@ -72,9 +85,9 @@ But what if there is no pepperoni pizza available? Or what if the store is close
 
 So marginal utility and maximization are just good in theory and not in practice. 
 
-This is why there are so many economic problems in economic systems. 
+This is why there are so many economic problems in economic systems from the crudeness and oversimplification of mind arising from the focus on objectivity. 
 
-
+This is fixed by the 1st Law of Value which restores subjectivity through relationality.  
 
 
 <!-- limit is $5
@@ -94,10 +107,6 @@ This error manifests as investors denying investments to sectors, industries, or
 - This then causes economies to regularly stagnate, and even decline, due to the decline of those underinvested sectors or industries. 
  -->
 
-
-This flaw of Economics comes from the crudeness and oversimplification of mind of the economist arising from the focus on objectivity. 
-
-This is fixed by the 1st Law of Value which restores subjectivity through relationality.  
 
 
 

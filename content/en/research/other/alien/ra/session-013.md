@@ -70,26 +70,26 @@ However, the progression is from the galaxy spiraling energy to the solar spiral
 
 {{< r a="Don Elkins" >}}Does this first density then progress to greater awareness?{{< /r >}}
 
-{{< l a="Ra" >}}The spiraling energy, which is the characteristic of what you call “light,” moves in straight line spiral. This gives spirals an inevitable vector upwards to a more comprehensive beingness with regards to intelligent infinity. Thus, first dimensional beingness strives towards the second-density lessons of a type of awareness which includes growth rather than dissolution or random change.{{< /l >}}
+{{< l a="Ra" >}}The spiraling energy, which is the characteristic of what you call “light,” moves in straight line spiral. This gives spirals an inevitable vector upwards to a more comprehensive beingness with regards to intelligent infinity. Thus, first dimensional beingness strives towards the 2nd density lessons of a type of awareness which includes growth rather than dissolution or random change.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Could you define what you mean by growth?{{< /r >}}
 
-{{< l a="Ra" >}}Picture, if you will, the difference between first-vibrational mineral or water life and the lower second-density beings which begin to move about within and upon its being. This movement is the characteristic of second density, the striving towards light and growth.{{< /l >}}
+{{< l a="Ra" >}}Picture, if you will, the difference between first-vibrational mineral or water life and the lower 2nd density beings which begin to move about within and upon its being. This movement is the characteristic of 2nd density, the striving towards light and growth.{{< /l >}}
 
 {{< r a="Don Elkins" >}}By striving toward light, what do you mean?{{< /r >}}
 
-{{< l a="Ra" >}}A very simplistic example of second-density growth striving towards light is that of the leaf striving towards the source of light.{{< /l >}}
+{{< l a="Ra" >}}A very simplistic example of 2nd density growth striving towards light is that of the leaf striving towards the source of light.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there any physical difference between first and second density? For instance, if I could see a second-density planet and a first-density planet side by side, in my present condition, could I see both of them? Would they be both visible?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there any physical difference between first and 2nd density? For instance, if I could see a 2nd density planet and a first-density planet side by side, in my present condition, could I see both of them? Would they be both visible?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct. All of the octave of your densities would be clearly visible were not the fourth through the seventh freely choosing not to be visible.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How does the second density progress to the third?{{< /r >}}
+{{< r a="Don Elkins" >}}How does the 2nd density progress to the third?{{< /r >}}
 
 {{< l a="Ra" >}}
 The 2nd density strives towards the 3rd density which is the density of self-consciousness or self-awareness. 
 
-The striving takes place through the higher 2nd-density forms who are invested by 3rd density beings with an identity to the extent that they become self-aware mind/body complexes, thus becoming mind/body/spirit complexes and entering third density, the first density of consciousness of spirit.
+The striving takes place through the higher 2nd density forms who are invested by 3rd density beings with an identity to the extent that they become self-aware mind/body complexes, thus becoming mind/body/spirit complexes and entering third density, the first density of consciousness of spirit.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}What is the density of Earth now?{{< /r >}}

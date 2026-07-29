@@ -164,11 +164,11 @@ These distortions remove the focus from the One Infinite Source of love and ligh
 
 {{< l a="Ra" >}}The love and devotion of this group misses nothing. Be at peace. There is some toll for this work. Carla embraces this or we could not speak. Rest then in that peace and love and do as you will, as you wish, as you feel. Let there be an end to worry when this is accomplished. The great healer of distortions is love.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I have a question that I couldn’t properly answer last night. It was asked by Morris. It has to do with the vibrations of the densities. I understand that first density is composed of core atomic vibrations that are in the red spectrum, second in the orange, etc. Am I to understand that the core vibrations of our planet are still in the red and that second-density beings are still in the orange at this time/space or space/time right now and that each density as it exists on our planet at this time has a different core vibration, or is this incorrect?{{< /r >}}
+{{< r a="Don Elkins" >}}I have a question that I couldn’t properly answer last night. It was asked by Morris. It has to do with the vibrations of the densities. I understand that first density is composed of core atomic vibrations that are in the red spectrum, second in the orange, etc. Am I to understand that the core vibrations of our planet are still in the red and that 2nd density beings are still in the orange at this time/space or space/time right now and that each density as it exists on our planet at this time has a different core vibration, or is this incorrect?{{< /r >}}
 
 {{< l a="Ra" >}}This is precisely correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then as the fourth-density vibrations come in this means that the planet can support entities of fourth-density core vibration. Will the planet then still be first-density core vibration and will there be second-density entities on it with second-density vibrations, and will there be third density entities with third density vibrations?{{< /r >}}
+{{< r a="Don Elkins" >}}Then as the fourth-density vibrations come in this means that the planet can support entities of fourth-density core vibration. Will the planet then still be first-density core vibration and will there be 2nd density entities on it with 2nd density vibrations, and will there be third density entities with third density vibrations?{{< /r >}}
 
 {{< l a="Ra" >}}This will be the last full query of this working. There is energy but the distortions of Carla suggest to us it would be well to shorten this working with your permission.{{< /l >}}
 

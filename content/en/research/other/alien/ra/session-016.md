@@ -170,7 +170,7 @@ How many inhabited planets are there in our galaxy?{{< /r >}}
 
 {{< l a="Ra" >}}
 - First density: 17%
-- Second density: 20%
+- 2nd density: 20%
 - Third density: 27%
 - Fourth density: 16%
 - Fifth density: 6%
@@ -187,19 +187,53 @@ The other information must be withheld. The free will of your future is not maki
 
 {{< r a="Don Elkins" >}}Can you tell me what percentage of third-, fourth-, and fifth-density planets which you have spoken of here are negatively polarized, polarized towards service for self?{{< /r >}}
 
-{{< l a="Ra" >}}This is not a query to which we may speak given the Law of Confusion. We may say only that the negatively or self-service oriented planetary spheres are much fewer. To give you exact numbers would not be appropriate.{{< /l >}}
+{{< l a="Ra" >}}
+This is not a query to which we may speak given the Law of Confusion [free will]. 
 
-{{< r a="Don Elkins" >}}I would like to make an analogy about why there are fewer negatively oriented and ask you if the analogy is good. In a positively oriented society with service to others, it would be simple to move a large boulder by getting everyone to help move it. In a society oriented towards service to self, it would be much more difficult to get everyone to work on the boulder for the good of all; therefore, it is much easier to get things done to create the service-to-other principle and to grow in positively oriented communities than it is in negative. Is this correct?{{< /r >}}
+The negatively or self-service oriented planetary spheres are much fewer. 
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+To give you exact numbers would not be appropriate.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+In a positively oriented society with service to others, it would be simple to move a large boulder by getting everyone to help move it.
+
+In a society oriented towards service to self, it would be much more difficult to get everyone to work on the boulder for the good of all.
+
+Therefore, it is much easier to get things done to create the service-to-other principle and to grow in positively oriented communities than it is in negative.
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}How was the Confederation of Planets formed and why?{{< /r >}}
 
-{{< l a="Ra" >}}The desire to serve begins, in the dimension of love or understanding, to be an overwhelming goal of the social memory complex. Thus, those percentiles of planetary entities, plus approximately four percent more of whose identity we cannot speak, found themselves long, long ago in your time seeking the same thing: service to others. The relationship between these entities as they entered an understanding of other beings, other planetary entities, and other concepts of service was to share and continue together these commonly held goals of service. Thus, each voluntarily placed the social memory complex data in what you may consider a central thought complex available to all. This then created a structure whereby each entity could work in its own service while calling upon any other understandings needed to enhance the service. This is the cause of the formation and the manner of the working of the Confederation.{{< /l >}}
+{{< l a="Ra" >}}
+The desire to serve begins, in the dimension of love or understanding, is an overwhelming goal of the social memory complex.
 
-{{< r a="Don Elkins" >}}With such a large number of planets in this galaxy, I was wondering if— you say there are approximately five hundred Confederation planets. That seems to me to be a relatively small percentage of the total number of fourth- and fifth-density planets around. Is there any reason for this relatively small percentage in this Confederation?{{< /r >}}
+Thus, those percentiles of planetary entities, plus approximately 4% more of whose identity we cannot speak, found themselves long ago seeking the same thing: service to others. 
 
-{{< l a="Ra" >}}There are many Confederations. This Confederation works with the planetary spheres of seven of your galaxies and is responsible for the callings of the densities of these galaxies.{{< /l >}}
+The relationship between these entities as they entered an understanding of other beings, other planetary entities, and other concepts of service was to share and continue together these commonly held goals of service. 
+
+Thus, each voluntarily placed the social memory complex data in what you may consider a central thought complex available to all. 
+
+This then created a structure whereby each entity could work in its own service while calling upon any other understandings needed to enhance the service. 
+
+This is the cause of the formation and the manner of the working of the Confederation.{{< /l >}}
+
+
+
+{{< r a="Don Elkins" >}}
+You say there are approximately 500 Confederation planets. With such a large number of planets in this galaxy, that seems a relatively small percentage of the total number of 4th- and 5th-density planets around. 
+
+Is there any reason for this relatively small percentage in this Confederation?{{< /r >}}
+
+
+{{< l a="Ra" >}}There are many Confederations. 
+
+This Confederation works with the planetary spheres of seven of your galaxies and is responsible for the callings of the densities of these galaxies.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would you define the word galaxy as you just used it?{{< /r >}}
 
@@ -239,7 +273,7 @@ The other information must be withheld. The free will of your future is not maki
 
 {{< r a="Don Elkins" >}}I was wondering if cattle mutilations that we now experience across the country and elsewhere could be explained by you.{{< /r >}}
 
-{{< l a="Ra" >}}Most mutilations take place according to the ways of your second-density beings which feed upon carrion. A portion of these so-called mutilations are those which are of what you may call multi-dimensional type: a thought-form construct using various parts in order to have life and being in third density.{{< /l >}}
+{{< l a="Ra" >}}Most mutilations take place according to the ways of your 2nd density beings which feed upon carrion. A portion of these so-called mutilations are those which are of what you may call multi-dimensional type: a thought-form construct using various parts in order to have life and being in third density.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Where do these thought-forms come from?{{< /r >}}
 

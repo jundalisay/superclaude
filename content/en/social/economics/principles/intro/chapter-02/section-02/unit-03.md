@@ -1,14 +1,24 @@
 ---
-heading: "Unit 2"
+heading: "Unit 3"
 title: "Profit Maximization"
 date: 2025-01-20
 image: /photos/objects/money.jpg
-weight: 22
+weight: 8
 description: "We expose the flaws of Profit Maximization"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+
+
+The previous unit explained that marginal utility should not be the basis for judging societal economic value because utility is subjective and personal. 
+
+It might be useful to a rich person to destroy a forest which has little use value to him, so he can build homes for fellow rich people who will find use for those homes.  
+
+But this would ignore environmental value, which is a kind of pre-exchangeable value.
+
+Economics, on the other hand, looks mostly on use-value because it is based on the self instead of the society organism. 
 
 
 

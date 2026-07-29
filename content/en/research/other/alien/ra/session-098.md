@@ -65,7 +65,7 @@ Thus the allergy may be seen in its pure form as the mental/emotional distortion
 
 We suggest ten treatments from this healer and further suggest a clear reading and subsequent following, upon the part of Carla, of the priorities of allergy, especially to your foodstuffs. Lastly, the effects of the working become apparent upon the walking when the body complex has begun to exert itself to the point of increased respiration. 
 
-Also a contributing factor is the number of your second-density substances to which Carla is allergic.
+Also a contributing factor is the number of your 2nd density substances to which Carla is allergic.
 {{< /l >}}
 
 
@@ -86,7 +86,7 @@ Keep in mind that this entity is harvestable third density.{{< /l >}}
 Would you explain the reason for saying “Keep in mind that this is harvestable third density” and tell me if you have any other specific recommendations with respect to the proposed operation on the growth?{{< /r >}}
 
 
-{{< l a="Ra" >}}We stated this in order to elucidate our use of the term “spirit complex” as applied to what might be considered a second-density entity. The implications are that this entity shall have far more cause to abide and heal that it may seek the presence of the loved ones.{{< /l >}}
+{{< l a="Ra" >}}We stated this in order to elucidate our use of the term “spirit complex” as applied to what might be considered a 2nd density entity. The implications are that this entity shall have far more cause to abide and heal that it may seek the presence of the loved ones.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is there any additional recommendation that Ra could make with respect to the proposed operation?{{< /r >}}
 

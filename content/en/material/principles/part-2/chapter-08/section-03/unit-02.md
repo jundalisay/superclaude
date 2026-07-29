@@ -50,7 +50,7 @@ Because the dark energy wave is not uniform but oscillatory, the expansion of an
 
 ### The Universe and Its Expansion is Subjective
 
-The Dark Energy Wave matches the form of the Atomic Space of the observing mind, which in turn follows the form imposed on it by the DNA which itself is a product of the pineal gland or aethereal crown chakra which is rooted in the Identity Space within the Aethereal Layer. 
+The Dark Energy Wave matches the form of the Atomic Space of the observing mind, which in turn follows the form imposed on it by the DNA which itself is a product of the pineal gland or aethereal ajna chakra which is rooted in the Identity Space within the Aethereal Layer (The Existence Space is the crown chakra). 
 
 This is why the expansion speed of the universe depends on the observing mind. 
 

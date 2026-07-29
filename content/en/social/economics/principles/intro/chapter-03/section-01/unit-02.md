@@ -1,7 +1,7 @@
 ---
 heading: "Unit 2"
-linkTitle: "4 Kinds"
 title: "4 Kinds of Exchangeable Value"
+linkTitle: "4 Kinds"
 # date: 2022-03-26
 image: /graphics/econ/laws.png
 weight: 5
@@ -15,15 +15,20 @@ aliases:
 
 
 
-The previous section explained that exchangeable value has different perspectives and scopes, as relational pricing.
+Chapter 2 explained that exchangeable value balances the subjectivity of personal value-perceptions with the objectiveness of societal value-perceptions. 
 
+The previous unit explained the different subjective perspectives and scopes manifest as relational pricing.
+
+<!-- 
 We began with a bilateral exchange, as:
 - buyer
 - seller
 
 We also introduced use values, cultural values, sentimental values, etc. These can be regarded as either personal or societal. 
 - The personal values are derived from the nature of the person-organism or individual soul
-- The societal values are derived from the nature of the society-organism or the soul of society
+- The societal values are derived from the nature of the society-organism or the soul of society -->
+
+This gives us supply and demand with a personal and a societal perspective.
 
 
 Valuation | Source

@@ -66,7 +66,7 @@ Am I correct in assuming that when your response to the animal and to the other-
 {{< l a="Ra" >}}
 Yes basically correct. 
 
-However, the balanced entity will see in the seeming attack of an other-self the causes of this action which are, in most cases, of a more complex nature than the cause of the attack of the 2nd-density bull as was your example. 
+However, the balanced entity will see in the seeming attack of an other-self the causes of this action which are, in most cases, of a more complex nature than the cause of the attack of the 2nd density bull as was your example. 
 
 Thus this balanced entity would be open to many more opportunities for service to a 3rd density other-self.{{< /l >}}
 

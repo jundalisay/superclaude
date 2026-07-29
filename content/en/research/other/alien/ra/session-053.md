@@ -101,7 +101,7 @@ The feeling of being awakened or activated is the goal of this type of contact. 
 
 {{< r a="Don Elkins" >}}Well, are both those who are taken on Confederation and Orion craft then experiencing a seeming physical examination?{{< /r >}}
 
-{{< l a="Ra" >}}Your query indicates incorrect thinking. The Orion group uses the physical examination as a means of terrifying the individual and causing it to feel the feelings of an advanced second-density being such as a laboratory animal. The sexual experiences of some are a sub-type of this experience. The intent is to demonstrate the control of the Orion entities over the Terran inhabitant.
+{{< l a="Ra" >}}Your query indicates incorrect thinking. The Orion group uses the physical examination as a means of terrifying the individual and causing it to feel the feelings of an advanced 2nd density being such as a laboratory animal. The sexual experiences of some are a sub-type of this experience. The intent is to demonstrate the control of the Orion entities over the Terran inhabitant.
 
 The thought-form experiences are subjective and, for the most part, do not occur in this density.{{< /l >}}
 

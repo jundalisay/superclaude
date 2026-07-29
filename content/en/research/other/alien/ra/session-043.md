@@ -40,11 +40,11 @@ Was this related to the energy centers and why they were important if that was s
 {{< l a="Ra" >}}
 This is basically correct if you may understand that there is a link between energy centers and various thought-forms. Thus the fears of the mass consciousness create the climate for the concentration upon the removal of bodily parts which symbolize areas of concern or fear in the mass consciousness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Are you saying, then, that these parts that are removed are related to the mass consciousness of the third density human form on the planet and this fear is being used in some way by the second-density entities or, correction, the thought-form entities that do the mutilations?{{< /r >}}
+{{< r a="Don Elkins" >}}Are you saying, then, that these parts that are removed are related to the mass consciousness of the third density human form on the planet and this fear is being used in some way by the 2nd density entities or, correction, the thought-form entities that do the mutilations?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct as latterly stated. The thought-form entities feed upon fear; thus they are able to do precise damage according to systems of symbology. The other second-density types of which you speak need the, what you call, blood.{{< /l >}}
+{{< l a="Ra" >}}This is correct as latterly stated. The thought-form entities feed upon fear; thus they are able to do precise damage according to systems of symbology. The other 2nd density types of which you speak need the, what you call, blood.{{< /l >}}
 
-{{< r a="Don Elkins" >}}These other second-density types need the blood to remain in the physical? Do they come in and out of our physical density from one of the astral planes?{{< /r >}}
+{{< r a="Don Elkins" >}}These other 2nd density types need the blood to remain in the physical? Do they come in and out of our physical density from one of the astral planes?{{< /r >}}
 
 {{< l a="Ra" >}}These entities are, shall we say, creatures of the Orion group. They do not exist in astral planes as do the thought-forms but wait within the Earth’s surface. We, as always, remind you that it is our impression that this type of information is unimportant.{{< /l >}}
 
@@ -150,5 +150,5 @@ You may ask one more full question at this working.{{< /l >}}
 
 {{< l a="Ra" >}}Without infringing upon free will we feel it possible to state that the Faraday cage and the isolation tank are gadgets.
 
-The surrounding of self in a sylvan atmosphere, apart from distractions, in a place of working used for no other purpose, in which you and your associates agree to lay aside all goals but that of the meditative seeking of the Infinite Creator is, shall we say, not gadgetry but the making use of the creation of the Father in second-density love, and in the love and support of other-selves. Are there any brief queries before this working is at an end?{{< /l >}}
+The surrounding of self in a sylvan atmosphere, apart from distractions, in a place of working used for no other purpose, in which you and your associates agree to lay aside all goals but that of the meditative seeking of the Infinite Creator is, shall we say, not gadgetry but the making use of the creation of the Father in 2nd density love, and in the love and support of other-selves. Are there any brief queries before this working is at an end?{{< /l >}}
 

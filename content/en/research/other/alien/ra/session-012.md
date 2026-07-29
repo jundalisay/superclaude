@@ -175,7 +175,8 @@ Many of your so-called contacts among your people have been confused and self-de
 
 {{< l a="Ra" >}}There are no mistakes under the Law of One.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What I’m saying is would I be polarizing more toward self-service or toward service for others when I did this act of locking up the thought-form or construct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Would I be polarizing more toward self-service or toward service for others when I did this act of locking up the thought-form or construct?{{< /r >}}
 
 {{< l a="Ra" >}}You may consider that question for yourself. We interpret the Law of One, but not to the extent of advice.{{< /l >}}
 

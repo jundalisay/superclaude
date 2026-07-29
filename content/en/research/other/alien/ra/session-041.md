@@ -80,7 +80,7 @@ We have observed that those whom you call scientists have puzzled over the vario
 
 {{< r a="Don Elkins" >}}Is this energy center, then, on a very small scale related to the orange energy center in man?{{< /r >}}
 
-{{< l a="Ra" >}}The true color is precisely the same. However, the consciousness of the second-density beginning is primitive and the use of orange ray limited to the expression of self which may be seen to be movement and survival.
+{{< l a="Ra" >}}The true color is precisely the same. However, the consciousness of the 2nd density beginning is primitive and the use of orange ray limited to the expression of self which may be seen to be movement and survival.
 
 In third density, at this time, those clinging to orange ray have a much more complex system of distortions through which orange ray is manifested. This is somewhat complicated. We shall endeavor to simplify.
 
@@ -96,15 +96,15 @@ Thus true color orange is that which it is, without difference. However, the man
 
 {{< r a="Don Elkins" >}}And then what entity would be the simplest that would have red, orange, yellow, and green activation?{{< /r >}}
 
-{{< l a="Ra" >}}This information has been covered in a previous session. To perhaps simplify your asking, each center may be seen to be activated potentially in third density, the late second-density entities having the capability, if efficient use is made of experience, of vibrating and activating the green-ray energy center.
+{{< l a="Ra" >}}This information has been covered in a previous session. To perhaps simplify your asking, each center may be seen to be activated potentially in third density, the late 2nd density entities having the capability, if efficient use is made of experience, of vibrating and activating the green-ray energy center.
 
 The third density being, having the potential for complete self-awareness, thus has the potential for the minimal activation of all energy centers. The fourth, fifth, and sixth densities are those refining the higher energy centers. The seventh density is a density of completion and the turning towards timelessness or foreverness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, then would an animal in second density have all of the energy centers in some way in its being but just not activated?{{< /r >}}
+{{< r a="Don Elkins" >}}Well, then would an animal in 2nd density have all of the energy centers in some way in its being but just not activated?{{< /r >}}
 
 {{< l a="Ra" >}}This is precisely correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now, the animal in second density is composed of light as are all things. What I am trying to get at is the relationship between the light that the various bodies of the animal are created of and the relationship of this to the energy centers which are active and the ones which are not active and how this is linked with the Logos. It is a difficult question to ask. Can you give me some kind of answer on that?{{< /r >}}
+{{< r a="Don Elkins" >}}Now, the animal in 2nd density is composed of light as are all things. What I am trying to get at is the relationship between the light that the various bodies of the animal are created of and the relationship of this to the energy centers which are active and the ones which are not active and how this is linked with the Logos. It is a difficult question to ask. Can you give me some kind of answer on that?{{< /r >}}
 
 {{< l a="Ra" >}}The answer is to redirect your thought processes from any mechanical view of evolution. The will of the Logos posits the potentials available to the evolving entity. The will of the entity as it evolves is the single measure of the rate and fastidiousness of the activation and balancing of the various energy centers.{{< /l >}}
 

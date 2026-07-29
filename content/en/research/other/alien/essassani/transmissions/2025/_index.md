@@ -1,6 +1,6 @@
 ---
 title:  "2025"
-weight: 100
+weight: 130
 description: ""
 image: "/covers/essassani.jpg"
 ---

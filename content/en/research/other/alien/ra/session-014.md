@@ -18,18 +18,18 @@ January 29, 1981
 {{< r a="Don Elkins" >}}
 You said the 2nd density strives towards the 3rd density which is the density of self-consciousness or self-awareness. 
 
-The striving takes place through higher second-density forms invested by third density beings. Could you explain what you mean by this?{{< /r >}}
+The striving takes place through higher 2nd density forms invested by third density beings. Could you explain what you mean by this?{{< /r >}}
 
 
 {{< l a="Ra" >}}
-3rd density beings clothe some 2nd-density beings with self-awareness just like you put on clothes. 
+3rd density beings clothe some 2nd density beings with self-awareness just like you put on clothes. 
 
 This is often done through pets. 
 
-It has also been done by various other means of investiture. These include many religious practice complexes which personify and send love to various natural second-density beings in their group form.{{< /l >}}
+It has also been done by various other means of investiture. These include many religious practice complexes which personify and send love to various natural 2nd density beings in their group form.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}When this Earth was 2nd-density, how did the second-density beings on this Earth become so invested?{{< /r >}}
+{{< r a="Don Elkins" >}}When this Earth was 2nd density, how did the 2nd density beings on this Earth become so invested?{{< /r >}}
 
 
 {{< l a="Ra" >}}There was not this type of investment as spoken but the simple 3rd density investment which is the line of spiraling light calling distortion upward from density to density. The process takes longer when there is no investment made by incarnate third density beings.
@@ -37,13 +37,13 @@ It has also been done by various other means of investiture. These include many 
 
 
 {{< r a="Don Elkins" >}}
-Then what was the 2nd-density form that became Earth-man in the third density? What did he look like in the second density?{{< /r >}}
+Then what was the 2nd density form that became Earth-man in the third density? What did he look like in the 2nd density?{{< /r >}}
 
 
 {{< l a="Ra" >}}
 The difference between 2nd- and 3rd density bodily forms would in many cases have been more like one to the other. In the case of Earth the process was interrupted by those who incarnated here from Mars. 
 
-They were adjusted by genetic changing and, therefore, there was some difference which was of a very noticeable variety rather than the gradual raising of the bipedal forms upon your second-density level to third density level. 
+They were adjusted by genetic changing and, therefore, there was some difference which was of a very noticeable variety rather than the gradual raising of the bipedal forms upon your 2nd density level to third density level. 
 
 This has nothing to do with the so-called placement of the soul. This has only to do with the circumstances of the influx of those from that culture.{{< /l >}}
 
@@ -91,9 +91,14 @@ There were a few attempts to aid your peoples approximately 2,300 years ago in E
 Does the balancing refer to balancing of the individual who is initiated in the pyramid or does it refer to the physical balancing of the Earth on its axis in space?{{< /r >}}
 
 {{< l a="Ra" >}}
-The balancing pyramidal structures could be and were used for individual initiation. However, the use of these pyramids was also designed for the balancing of the planetary energy web. The other pyramids are not placed properly for Earth healing but for healing of mind/body/spirit complexes. 
+The balancing pyramidal structures could be and were used for individual initiation. 
 
-It came to our attention that your density was distorted towards a premature aging process. We were attempting to aid in giving the mind/body/spirit complexes of 3rd density on Earth, more of a time/space continuum in one incarnation pattern in order to have a fuller opportunity to learn/teach the Laws or Ways of the primal distortion of the Law of One which is Love.
+However, the use of these pyramids was also designed for the balancing of the planetary energy web. The other pyramids are not placed properly for Earth healing but for healing of mind/body/spirit complexes. 
+
+It came to our attention that your density was distorted towards a premature aging process.
+
+We were attempting to aid in giving the 3rd density beings on Earth more lifespan in order to have a fuller opportunity to learn/teach the Laws or Ways of Love.
+<!-- the primal distortion of the Law of One which is Love. -->
 {{< /l >}}
 
 
@@ -167,7 +172,7 @@ Back then we wanted to eliminate the distortions caused by those misreading our 
 
 The general cause of service such as the Confederation offers is that of the primal distortion of the Law of One, which is service. 
 
-The One Being of the creation is like unto a body, if you will accept this third density analogy. 
+The One Being of the creation is like unto a body, if you will accept this 3rd density analogy. 
 
 Would we ignore a pain in the leg? A bruise upon the skin? A cut which is festering? 
 

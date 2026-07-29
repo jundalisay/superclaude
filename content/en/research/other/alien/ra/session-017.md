@@ -23,29 +23,58 @@ We gave dates of 2,600 years for the Orion entry, 2,300 for Confederation entry.
 
 The recalculation indicates numbers 3,600 for Orion entry, 3,300 for Confederation entry.{{< /l >}}
 
-{{< r a="Don Elkins" >}}We are now in the fourth density. Will the effects of the fourth density increase in the next thirty years? Will we see more changes in our environment and our effect upon our environment?{{< /r >}}
+{{< r a="Don Elkins" >}}
+We are now in the 4th density. 
 
-{{< l a="Ra" >}}The fourth density is a vibrational spectrum. Your time/space continuum has spiraled your planetary sphere and your, what we would call galaxy, what you call star, into this vibration.
+Will the effects of the 4th density increase in the next 30 years? 
 
-This will cause the planetary sphere itself to electromagnetically realign its vortices of reception of the instreaming of cosmic forces expressing themselves as vibrational webs so that the Earth will thus be fourth-density magnetized, as you might call it.
+Will we see more changes in our environment and our effect upon our environment?{{< /r >}}
 
-This is going to occur with some inconvenience, as we have said before, due to the energies of the thought-forms of your peoples which disturb the orderly constructs of energy patterns within your Earth spirals of energy which increases entropy and unusable heat. This will cause your planetary sphere to have some ruptures in its outer garment while making itself appropriately magnetized for fourth density. This is the planetary adjustment.
 
-You will find a sharp increase in the number of people, as you call mind/body/spirit complexes, whose vibrational potentials include the potential for fourth-vibrational distortions. Thus, there will seem to be, shall we say, a new breed. These are those incarnating for fourth-density work.
+{{< l a="Ra" >}}
+The 4th density is a vibrational spectrum. Your time/space continuum has spiraled your planetary sphere and your star, into this vibration.
 
-There will also be a sharp increase in the short run of negatively oriented or polarized mind/body/spirit complexes and social complexes, due to the polarizing conditions of the sharp delineation between fourth-density characteristics and third density self-service orientation.
+This will cause the planetary sphere itself to electromagnetically realign its vortices of reception of the instreaming of cosmic forces expressing themselves as vibrational webs.
 
-Those who remain in fourth density upon this plane will be of the so-called positive orientation. Many will come from elsewhere, for it would appear that with all of the best efforts of the Confederation, which includes those from your peoples’ inner planes, inner civilizations, and those from other dimensions, the harvest will still be much less than that which this planetary sphere is capable of comfortably supporting in service.{{< /l >}}
+This will magnetize the Earth into fourth-density.
+
+This is going to occur with some inconvenience due to the energies of the thought-forms of your peoples which disturb the orderly constructs of energy patterns within your Earth spirals of energy which increases entropy and unusable heat. 
+
+This will cause your Earth to have some ruptures in its outer garment while making itself appropriately magnetized for 4th density.
+
+This is the planetary adjustment.
+
+You will find a sharp increase in the number of people whose vibrational potentials include the potential for 4th-vibrational distortions. 
+
+Thus, there will seem to be a new breed. These are those incarnating for 4th-density work.
+
+There will also be a sharp increase in the short run of negatively oriented or polarized mind/body/spirit complexes and social complexes.
+
+This is due to the polarizing conditions of the sharp delineation between 4th-density characteristics and 3rd density self-service orientation.
+
+Those who remain in 4th density on this plane will be of the positive orientation.
+
+Many will come from elsewhere, for it would appear that with all of the best efforts of the Confederation, which includes those from your peoples’ inner planes, inner civilizations, and those from other dimensions, the harvest will still be much less than that which this planetary sphere is capable of comfortably supporting in service.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Is it possible to help an entity to reach fourth-density level in these last days?{{< /r >}}
 
-{{< l a="Ra" >}}It is impossible to help another being directly. It is only possible to make catalyst available in whatever form, the most important being the radiation of realization of oneness with the Creator from the self, less important being information such as we share with you.
+{{< l a="Ra" >}}
+It is impossible to help another being directly. 
 
-We, ourselves, do not feel an urgency for this information to be widely disseminated. It is enough that we have made it available to three, four, or five. This is extremely ample reward, for if one of these obtains fourth-density understanding due to this catalyst then we shall have fulfilled the Law of One in the distortion of service.
+It is only possible to make catalyst available in whatever form, the most important being the radiation of realization of oneness with the Creator from the self, less important being information such as we share with you.
+
+We, ourselves, do not feel an urgency for this information to be widely disseminated.
+
+It is enough that we have made it available to 3-5. 
+
+This is extremely ample reward, for if one of these obtains 4th-density understanding due to this catalyst then we shall have fulfilled the Law of One in the distortion of service.
 
 We encourage a dispassionate attempt to share information without concern for numbers or quick growth among others. That you attempt to make this information available is, in your term, your service. The attempt, if it reaches one, reaches all.
 
-We cannot offer shortcuts to enlightenment. Enlightenment is of the moment, is an opening to intelligent infinity. It can only be accomplished by the self, for the self. Another self cannot teach/learn enlightenment, but only teach/learn information, inspiration, or a sharing of love, of mystery, of the unknown that makes the other-self reach out and begin the seeking process that ends in a moment, but who can know when an entity will open the gate to the present?{{< /l >}}
+We cannot offer shortcuts to enlightenment. Enlightenment is of the moment, is an opening to intelligent infinity. It can only be accomplished by the self, for the self. 
+
+Another self cannot teach/learn enlightenment, but only teach/learn information, inspiration, or a sharing of love, of mystery, of the unknown that makes the other-self reach out and begin the seeking process that ends in a moment, but who can know when an entity will open the gate to the present?{{< /l >}}
 
 {{< r a="Don Elkins" >}}In meditation a few nights ago I had the impression of a question about a crater in Russia. I believe it was in Tunguska. Can you tell me what caused the crater?{{< /r >}}
 

@@ -94,8 +94,7 @@ If the baker's valuation is:
 
 Since our economic system priortizes the circulation of goods and services, then we have to know the nature of the relationality (relativity) of prices. 
 
-For this, we use Cartesian Relativity. This is done by expanding one's perspective from the local transaction into the whole of society.
-
+For this, we use Cartesian Relativity as **Relationality**. This is done by expanding one's perspective from the local transaction into the whole of society.
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
 Imagine a ship being carried out to sea. 

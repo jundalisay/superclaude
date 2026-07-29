@@ -32,7 +32,7 @@ These are two advantages of this particular method of the Creator experiencing I
 
 {{< r a="Don Elkins" >}}Can you expand somewhat on the concept that this action not only allows the Creator to know Itself better but also creates, in our density, an offspring or makes available the pathway for another entity to enter the density?{{< /r >}}
 
-{{< l a="Ra" >}}As we have previously said, the sexual energy transfers include the red-ray transfer which is random and which is a function of the second-density attempt to grow, to survive, shall we say. This is a proper function of the sexual interaction. The offspring, as you call the incarnated entity which takes on the mind/body complex opportunity offered by this random act or event called the fertilization of egg by seed, causes an entity to have the opportunity to then enter this density as an incarnate entity.
+{{< l a="Ra" >}}As we have previously said, the sexual energy transfers include the red-ray transfer which is random and which is a function of the 2nd density attempt to grow, to survive, shall we say. This is a proper function of the sexual interaction. The offspring, as you call the incarnated entity which takes on the mind/body complex opportunity offered by this random act or event called the fertilization of egg by seed, causes an entity to have the opportunity to then enter this density as an incarnate entity.
 
 This gives the two who were engaged in this bisexual reproductive energy transfer the potential for great service in this area of the nurturing of the small-experienced entity as it gains in experience.
 

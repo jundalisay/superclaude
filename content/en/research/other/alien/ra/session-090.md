@@ -89,7 +89,7 @@ This would have to be very rough because of my definition being very rough.{{< /
 
 
 {{< l a="Ra" >}}
-This percentage is still small; perhaps 13-15% due to the capabilities of various 2nd-density life forms to carry out each necessary function for third density work. 
+This percentage is still small; perhaps 13-15% due to the capabilities of various 2nd density life forms to carry out each necessary function for third density work. 
 
 Thusly to be observed would be behavior indicating self-consciousness and purposeful interaction with a sentient ambiance about the entity rather than those characteristics which familiarly connote to your peoples the humanity of your third density form.
 {{< /l >}}
@@ -108,7 +108,7 @@ For this particular Logos in the beginning, prior to its creation of first densi
 {{< r a="Don Elkins" >}}Was there a reason for choosing the forms that have evolved upon this planet and, if so, what was it?{{< /r >}}
 
 
-{{< l a="Ra" >}}We are not entirely sure why our Logos and several neighboring Logoi of approximately the same space/time of flowering chose the bipedal, erect form of the second-density apes to invest.
+{{< l a="Ra" >}}We are not entirely sure why our Logos and several neighboring Logoi of approximately the same space/time of flowering chose the bipedal, erect form of the 2nd density apes to invest.
 
 We suppose that:
 - our Logos was interested in further intensifying the veiling process by offering to the 3rd density form the near complete probability for the development of speech taking complete precedence over concept communication or telepathy. 
@@ -165,9 +165,9 @@ This form of expression of hostility is an interesting result which is apparentl
 
 {{< r a="Don Elkins" >}}Then what you are saying is that once the path is recognized, either the positive or the negative polarized entity can find hints along his path as to the efficiency of that path. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}That which you say is correct upon its own merits, but is not a repetition of our statement. Our suggestion was that within the experiential nexus of each entity within its second-density environment and within the roots of mind there were placed biases indicating to the watchful eye the more efficient of the two paths. Let us say, for want of a more precise adjective, that this Logos has a bias towards kindness.{{< /l >}}
+{{< l a="Ra" >}}That which you say is correct upon its own merits, but is not a repetition of our statement. Our suggestion was that within the experiential nexus of each entity within its 2nd density environment and within the roots of mind there were placed biases indicating to the watchful eye the more efficient of the two paths. Let us say, for want of a more precise adjective, that this Logos has a bias towards kindness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then you say that the more efficient of the two paths was suggested in a subliminal way to second density to be the service-to-others path. Am I correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Then you say that the more efficient of the two paths was suggested in a subliminal way to 2nd density to be the service-to-others path. Am I correct?{{< /r >}}
 
 {{< l a="Ra" >}}We did not state which was the more efficient path. However, you are correct in your assumption, as you are aware from having examined each path in some detail in previous querying.{{< /l >}}
 

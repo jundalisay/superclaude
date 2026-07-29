@@ -54,13 +54,13 @@ In terms of the spiritual, this channel is then much opened due to the lack of n
 
 {{< r a="Don Elkins" >}}I would like to know how the mind/body/spirit complexes originate. How, going back as far as necessary, does the— Do they originate by spirit forming mind and mind forming body? Can you tell me this?{{< /r >}}
 
-{{< l a="Ra" >}}We ask you to consider that you are attempting to trace evolution. This evolution is as we have previously described, the consciousness being first, in first density, without movement, a random thing. Whether you may call this mind or body complex is a semantic problem. We call it mind/body complex recognizing always that in the simplest iota of this complex exists in its entirety the One Infinite Creator; this mind/body complex then in second density discovering the growing and turning towards the light, thus awakening what you may call the spirit complex, that which intensifies the upward spiraling towards the love and light of the Infinite Creator.
+{{< l a="Ra" >}}We ask you to consider that you are attempting to trace evolution. This evolution is as we have previously described, the consciousness being first, in first density, without movement, a random thing. Whether you may call this mind or body complex is a semantic problem. We call it mind/body complex recognizing always that in the simplest iota of this complex exists in its entirety the One Infinite Creator; this mind/body complex then in 2nd density discovering the growing and turning towards the light, thus awakening what you may call the spirit complex, that which intensifies the upward spiraling towards the love and light of the Infinite Creator.
 
 The addition of this spirit complex, though apparent rather than real, it having existed potentially from the beginning of space/time, perfects itself by graduation into third density. When the mind/body/spirit complex becomes aware of the possibility of service to self or other-self, then the mind/body/spirit complex is activated.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Thank you. I don’t wish to cover ground that we have covered before but it sometimes is helpful to restate these concepts for complete clarity since words are a poor tool for what we do.
 
-Just as a passing point, I was wondering, in— on this planet during the second density I believe there was habitation at the same time/space of bipedal entities and what we call the dinosaurs. Is this correct?{{< /r >}}
+Just as a passing point, I was wondering, in— on this planet during the 2nd density I believe there was habitation at the same time/space of bipedal entities and what we call the dinosaurs. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
@@ -72,25 +72,25 @@ Just as a passing point, I was wondering, in— on this planet during the second
 
 {{< l a="Ra" >}}These entities could not feed their body complexes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Now, in second density the concept of bisexual reproduction first originates. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Now, in 2nd density the concept of bisexual reproduction first originates. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell me the philosophy behind this mechanism of propagation of the bodily complex?{{< /r >}}
 
-{{< l a="Ra" >}}The second density is one in which the groundwork is being laid for third density work. In this way it may be seen that the basic mechanisms of reproduction capitulate into a vast potential in third density for service to other-self and to self; this being not only by the functions of energy transfer but also [by] the various services performed due to the close contact of those who are, shall we say, magnetically attracted, one to the other; these entities thus having the opportunities for many types of service which would be unavailable to the independent entity.{{< /l >}}
+{{< l a="Ra" >}}The 2nd density is one in which the groundwork is being laid for third density work. In this way it may be seen that the basic mechanisms of reproduction capitulate into a vast potential in third density for service to other-self and to self; this being not only by the functions of energy transfer but also [by] the various services performed due to the close contact of those who are, shall we say, magnetically attracted, one to the other; these entities thus having the opportunities for many types of service which would be unavailable to the independent entity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Was the basic reason, the original reason for this then to increase opportunity for experience of the One Creator? Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is not merely correct but is the key to that which occurs in all densities.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Does the process of bisexual reproduction or the philosophy of it play a part in the spiritual growth of second-density entities?{{< /r >}}
+{{< r a="Don Elkins" >}}Does the process of bisexual reproduction or the philosophy of it play a part in the spiritual growth of 2nd density entities?{{< /r >}}
 
-{{< l a="Ra" >}}In isolated instances this is so due to efficient perceptions upon the part of entities or species. For the greater part, by far, this is not the case in second density, the spiritual potentials being those of third density.{{< /l >}}
+{{< l a="Ra" >}}In isolated instances this is so due to efficient perceptions upon the part of entities or species. For the greater part, by far, this is not the case in 2nd density, the spiritual potentials being those of third density.{{< /l >}}
 
 {{< r a="Don Elkins" >}}I was wondering if the male cat, Gandalf, has benefited by that mechanism in some way or by other mechanisms in increasing spiritual potential or understanding.{{< /r >}}
 
-{{< l a="Ra" >}}We examine this information and find it harmless. The second-density entity, sound vibration Gandalf, is a rare sample of its species due first to previous individualization, secondly due to a great amount of investment in this particular life experience. This is the greatest catalyst in this entity’s progress. It is very unusual, as we have said. However, the experiences of bisexual reproduction which were of the nature of the entity Gandalf were to a small extent of spiritual benefit due to an unusual relationship with another entity, this also what you call a cat. This entity also being of an unusually third density orientation or investment from previous life experiences. Thus the formation of what could be seen to be recognizably love did exist in this relationship.{{< /l >}}
+{{< l a="Ra" >}}We examine this information and find it harmless. The 2nd density entity, sound vibration Gandalf, is a rare sample of its species due first to previous individualization, secondly due to a great amount of investment in this particular life experience. This is the greatest catalyst in this entity’s progress. It is very unusual, as we have said. However, the experiences of bisexual reproduction which were of the nature of the entity Gandalf were to a small extent of spiritual benefit due to an unusual relationship with another entity, this also what you call a cat. This entity also being of an unusually third density orientation or investment from previous life experiences. Thus the formation of what could be seen to be recognizably love did exist in this relationship.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Thank you. Can you give me a brief history of the metaphysical principles of the development of each of our planets around the sun and their function with respect to evolution of beings?{{< /r >}}
 

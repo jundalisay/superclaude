@@ -58,6 +58,7 @@ The first of those to come here were brought from Mars.
 
 Its environment became inhospitable to 3rd density beings. The first entities, therefore, were of this race manipulated by the guardians at that time.{{< /l >}}
 
+
 {{< r a="Don Elkins" >}}What race is that, and how did they get from Mars to here?{{< /r >}}
 
 {{< l a="Ra" >}}The race is a combination of the mind/body/spirit complexes of those of Mars and a careful series of genetical adjustments made by the guardians of that time.
@@ -90,25 +91,25 @@ Thus, the Red Planet entities were unharvested and continued in your illusion to
 
 These visitors do not effect the cycling of the planetary sphere. It was not third density in its environment until the time previously mentioned.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then there were second-density entities here prior to approximately 75,000 years ago. What type of entities were these?{{< /r >}}
+{{< r a="Don Elkins" >}}Then there were 2nd density entities here prior to approximately 75,000 years ago. What type of entities were these?{{< /r >}}
 
-{{< l a="Ra" >}}The second density is the density of the higher plant life and animal life which exists without the upward drive towards the infinite.
+{{< l a="Ra" >}}The 2nd density is the density of the higher plant life and animal life which exists without the upward drive towards the infinite.
 
-These second-density beings are of an octave of consciousness just as you find various orientations of consciousness among the conscious entities of your vibration.{{< /l >}}
+These 2nd density beings are of an octave of consciousness just as you find various orientations of consciousness among the conscious entities of your vibration.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Did any of these second-density entities have shapes like ours— two arms, two legs, head, and walk upright on two feet?{{< /r >}}
+{{< r a="Don Elkins" >}}Did any of these 2nd density entities have shapes like ours— two arms, two legs, head, and walk upright on two feet?{{< /r >}}
 
-{{< l a="Ra" >}}The two higher of the sub-vibrational levels of second-density beings had the configuration of the biped.{{< /l >}}
+{{< l a="Ra" >}}The two higher of the sub-vibrational levels of 2nd density beings had the configuration of the biped.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Where did these beings come from? Do these beings then evolve from second density to third density?{{< /r >}}
+{{< r a="Don Elkins" >}}Where did these beings come from? Do these beings then evolve from 2nd density to third density?{{< /r >}}
 
 {{< l a="Ra" >}}Yes, although no guarantee can be made of the number of cycles it will take an entity to learn the lessons of consciousness of self which are the prerequisite for transition to third density.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is there any race of people on our planet now who were incarnated here from second density?{{< /r >}}
+{{< r a="Don Elkins" >}}Is there any race of people on our planet now who were incarnated here from 2nd density?{{< /r >}}
 
-{{< l a="Ra" >}}There are no second-density consciousness complexes here on your sphere at this time.
+{{< l a="Ra" >}}There are no 2nd density consciousness complexes here on your sphere at this time.
 
-However, there are 2 races which use the second-density form.
+However, there are 2 races which use the 2nd density form.
 
 1. The entities of Maldek.
 
@@ -120,7 +121,7 @@ The other race is that being offered a dwelling in this density by guardians who
 
 {{< r a="Don Elkins" >}}I didn’t understand what these vehicles or beings were for that were appropriate in the event of nuclear war.{{< /r >}}
 
-{{< l a="Ra" >}}These are beings which exist as instinctual second-density beings which are being held in reserve to form what you would call a gene pool in case these body complexes are needed.
+{{< l a="Ra" >}}These are beings which exist as instinctual 2nd density beings which are being held in reserve to form what you would call a gene pool in case these body complexes are needed.
 
 These body complexes are greatly able to withstand the rigors of radiation which the body complexes you now inhabit could not do.{{< /l >}}
 

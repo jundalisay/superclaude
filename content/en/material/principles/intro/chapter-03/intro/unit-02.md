@@ -36,6 +36,17 @@ This leads to the 4 Rules of Motion in the Physical domain as the implementing r
 4. State-Change (Spread)
 
 
+| Rule | Equation |
+|---|---|
+| 1 | $\sum_i \Delta x_i = 0$ |
+| 2 | $F_c = mr\omega^2$ |
+| 3 | $m_A\Delta v_A = -m_B\Delta v_B,\ \ \alpha=\frac{S_B}{S_A+S_B},\ \ S=(m,\sigma,\rho)$ |
+| 4 | $\Delta v = \dfrac{F}{m}\cdot\dfrac{\epsilon}{\vert\omega_F-\omega_i\vert+\epsilon}$ |
+
+
+This will be explained in the next Section.
+
+
 <!-- The singularity of Existence is proven by the Conservation Laws which produce movement according to the 4 rules of motion.
 
 You can think of the 4 rules as the implementing rules of the law of conserved motion which is from the wave nature of Existence arising from the 2 Forces. -->

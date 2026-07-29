@@ -29,7 +29,7 @@ The swirling waters then must needs be viewed as being appropriate four to five 
 
 The yellow-ray, physical body has been experiencing that which is called lupoid changes in much tissue of muscle and some of the organs as well. The exercise regains the wasting physical muscular strength.
 
-In some ways the walking is the more appropriate exercise due to the proximity of the entity to second-density creatures, particularly your trees.
+In some ways the walking is the more appropriate exercise due to the proximity of the entity to 2nd density creatures, particularly your trees.
 
 However, the habitation you enjoy does not offer such opportunity and instead offers the proximity to creations of mind/body/spirit complexes. This does not feed the mental/emotional needs of this entity although it produces the same physical result. The exercise fulfills more of the mental/emotional need due to the entity’s fondness for rhythmic expressions of the body such as those found in athletic endeavors derivative of the artifact system which is known among your peoples as the dance.
 

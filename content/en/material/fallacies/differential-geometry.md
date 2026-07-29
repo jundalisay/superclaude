@@ -65,6 +65,14 @@ This replaced differential geometry with Euclidean geometry and data science.
 
 Riemann geometry is merely a mix of the properties of Euclidean geometry focusing on effects instead of causes. 
 
+
+## Supermath Uses Spin
+
+Instead of effect-based geometry, we use spin of the bodies to plot their movement in the aether ocean.
+
+
+
+
 <!-- We use Euclidean geometry to theoretically plot the ratios needed by Buddhist monks levitate, or by UFOs zip in zigzag faster than sound without using any sophistical manifold. The ratios must be correct otherwise the levitating monk or vehicle will hit a wall (i.e. go to the wrong Euclidean spacetime coordinates).  
 
 Surveyors use triangles to map fixed surfaces. Gauss used metric tensor (triangle) to map curved, transforming surfaces. These triangles are effects, not causes. 

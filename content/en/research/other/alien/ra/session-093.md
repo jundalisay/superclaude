@@ -118,7 +118,7 @@ All that you perceive seems to be consciously perceived. This is not the correct
 
 {{< r a="Don Elkins" >}}Is there any significance to the serpent? Is there any polarity to the serpent as we experience it in this illusion?{{< /r >}}
 
-{{< l a="Ra" >}}We assume that you question the serpent as used in these images rather than the second-density life form which is a portion of your experience. There is a significance to the serpent form in a culture which coexists with your own but which is not your own; that is, the serpent as symbol of that which some call the kundalini and which we have discussed in previous material.{{< /l >}}
+{{< l a="Ra" >}}We assume that you question the serpent as used in these images rather than the 2nd density life form which is a portion of your experience. There is a significance to the serpent form in a culture which coexists with your own but which is not your own; that is, the serpent as symbol of that which some call the kundalini and which we have discussed in previous material.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Is there any other aspect of this third card that Ra could comment on at this time?{{< /r >}}
 

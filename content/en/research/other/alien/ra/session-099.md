@@ -56,7 +56,7 @@ The wings of Card Five, I am guessing, have to do with a protection over the— 
 
 {{< r a="Don Elkins" >}}Thank you. Card Number Six I see as the Transformation of the Mind, the male’s crossed arms representing transformation, transformation being possible either toward the left- or the right-hand path, the right-hand path being beckoned or led by the female, the Potentiator. The one on the right having the serpent of wisdom at the brow and being fully clothed, the one on the left having less clothing and indicating that the Matrix or Potentiator would be more concerned and attracted to the physical illusion as the left-hand path is chosen and more concerned and attracted to the mental as the right-hand path is chosen.
 
-The creature above points an arrow at the left-hand path indicating that if this path is chosen the chips, shall we say, will fall where they may, the path being unprotected as far as the random activity of catalyst. And the intellectual abilities of the chooser of that path would be the main guardian rather than a designed or built-in protection by the Logos for the right-hand path. The entity firing the arrow being what seems to be a second density entity would indicate that this catalyst could be produced by a lesser-evolved source, you might say. Would Ra comment on these observations of Card Six, the Transformation of the Mind?{{< /r >}}
+The creature above points an arrow at the left-hand path indicating that if this path is chosen the chips, shall we say, will fall where they may, the path being unprotected as far as the random activity of catalyst. And the intellectual abilities of the chooser of that path would be the main guardian rather than a designed or built-in protection by the Logos for the right-hand path. The entity firing the arrow being what seems to be a 2nd density entity would indicate that this catalyst could be produced by a lesser-evolved source, you might say. Would Ra comment on these observations of Card Six, the Transformation of the Mind?{{< /r >}}
 
 {{< l a="Ra" >}}We shall speak upon several aspects seriatim. Firstly, let us examine the crossed arms of the male who is to be transformed. What, O student, do you make of the crossing? What see you in this tangle? There is a creative point to be found in this element which was not discussed overmuch by the questioner.
 
@@ -75,18 +75,18 @@ Therefore, we may say that ending a working at approximately this amount of ener
 {{< r a="Don Elkins" >}}
 Did the Logos of this system plan for the mating process as possibly depicted in Card Six— I don’t know if this is related— by some type of DNA imprinting as has been studied by our science. 
 
-In many 2nd-density creatures seem to have some sort of imprinting that creates a lifetime mating relationship.
+In many 2nd density creatures seem to have some sort of imprinting that creates a lifetime mating relationship.
 
 I was wondering if this was designed by the Logos for that particular mechanism and if it was also carried into 3rd density?
 {{< /r >}}
 
 
 {{< l a="Ra" >}}
-There are some of your 2nd-density fauna which have instinctually imprinted monogamous mating processes. 
+There are some of your 2nd density fauna which have instinctually imprinted monogamous mating processes. 
 
 The 3rd density physical vehicle which is the basic incarnational tool of manifestation on your planet arose from entities thusly imprinted, all the aforesaid being designed by the Logos.
 
-The free will of 3rd density entities is far stronger than the rather mild carryover from 2nd-density DNA encoding.
+The free will of 3rd density entities is far stronger than the rather mild carryover from 2nd density DNA encoding.
 
 It is not part of the conscious nature of many of your mind/body/spirit complexes to be monogamous due to the exercise of free will. 
 

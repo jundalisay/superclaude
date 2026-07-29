@@ -74,7 +74,7 @@ These entities from Maldek were transferred how many years ago?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct in the sense of incarnation in third density time/space.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Were there any of these entities then incarnated in second density before the 75,000-year cycle?{{< /r >}}
+{{< r a="Don Elkins" >}}Were there any of these entities then incarnated in 2nd density before the 75,000-year cycle?{{< /r >}}
 
 {{< l a="Ra" >}}This is incorrect. These particular entities were incarnate in time/space third density in the so-called inner planes. They undergo the process of healing and approaching realization of their action.{{< /l >}}
 

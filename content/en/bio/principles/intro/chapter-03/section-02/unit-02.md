@@ -75,7 +75,7 @@ This concept directly parallels:
 
 According to these traditions, these organizing forces emanate from specific control centers:
 
-**In humans**: The pineal gland (corresponding to the crown chakra or sahasrara) serves as the primary organizing center. This suggests that human evolution begins not at the genetic level, but from this central coordinating point.
+**In humans**: The pineal gland (corresponding to the 3rd eye chakra or ajna) serves as the primary organizing center. This suggests that human evolution begins not at the genetic level, but from this central coordinating point.
 
 **In other organisms**: The controlling center varies by species:
 - Some plants: the roots serve as the organizing center
@@ -179,7 +179,7 @@ The big problem for biology is that they don't know the mechanism for jumping ge
 
 But Descartes already fully explained this in Description of the Human Body 1664 through his concept of animal spirits which flow through the cells and direct cellular growth.
 
-The animal spirits are called chi in Taoism and vayu in Hinduism. These emanate from the pineal gland (crown chakra). i.e. human evolution starts from the pineal gland.
+The animal spirits are called chi in Taoism and vayu in Hinduism. These emanate from the pineal gland (ajna). i.e. human evolution starts from the pineal gland.
 
 In lesser organism, it begins in the controlling center of the organism. This center varies. For example, in some plants it is in the roots, in others it is in the seed
 

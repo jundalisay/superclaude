@@ -63,7 +63,7 @@ This is appropriate to the workings of the 3rd density distortions of the mind c
 
 
 {{< r a="Don Elkins" >}}
-Did they graduate at the end of a 75,000-year cycle and gotten out of the 2nd-density body into 3rd density-type bodies?
+Did they graduate at the end of a 75,000-year cycle and gotten out of the 2nd density body into 3rd density-type bodies?
 {{< /r >}}
 
 
@@ -165,7 +165,7 @@ The Indians are descendants of these entities.
 
 Like the other incarnates of this cycle, they came from elsewhere.
 
-However, these particular entities were largely drawn from a second-density planet which had some difficulty, due to the age of its sun, in achieving third density life conditions. This planet was from the galaxy Deneb.
+However, these particular entities were largely drawn from a 2nd density planet which had some difficulty, due to the age of its sun, in achieving third density life conditions. This planet was from the galaxy Deneb.
 
 The Atlantean race was a very conglomerate social complex which began to form approximately 31,000 years ago.
 

@@ -52,7 +52,7 @@ Very often the catalyst for emotional pain, whether it be the death of the physi
 
 {{< r a="Don Elkins" >}}Do what we call contagious diseases play any part in this process with respect to the unmanifested self?{{< /r >}}
 
-{{< l a="Ra" >}}These so-called contagious diseases are those entities of second density which offer an opportunity for this type of catalyst. If this catalyst is unneeded, then these second-density creatures, as you would call them, do not have an effect. In each of these generalizations you may please note that there are anomalies so that we cannot speak to every circumstance but only to the general run or way of things as you experience them.{{< /l >}}
+{{< l a="Ra" >}}These so-called contagious diseases are those entities of 2nd density which offer an opportunity for this type of catalyst. If this catalyst is unneeded, then these 2nd density creatures, as you would call them, do not have an effect. In each of these generalizations you may please note that there are anomalies so that we cannot speak to every circumstance but only to the general run or way of things as you experience them.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What part do what we call birth defects play in this process?{{< /r >}}
 

@@ -95,7 +95,7 @@ Let the seeker then investigate the archetypical mind using, basically, one of t
 
 
 {{< r a="Don Elkins" >}}
-Could you give me an idea of the length of the first and second density for Earth?
+Could you give me an idea of the length of the first and 2nd density for Earth?
 {{< /r >}}
 
 {{< l a="Ra" >}}There is no method of estimation of the time/space before timelessness gave way, in your first density, to the beginnings of your time. 
@@ -164,12 +164,12 @@ Disease is a functional portion of the body which offers the body the opportunit
 
 **This is a desirable body complex function.** 
 
-The form is a second-density microscopic other-self. It is of a size which have in some forms long existed and perform their service by aiding the physical body to die at the appropriate space/time.
+The form is a 2nd density microscopic other-self. It is of a size which have in some forms long existed and perform their service by aiding the physical body to die at the appropriate space/time.
 {{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
-What is the difference between the plan of the Logos for these 2nd-density entities and the generation of runaway array of feedback to create various physical problems that act as catalyst in our present 3rd density condition. 
+What is the difference between the plan of the Logos for these 2nd density entities and the generation of runaway array of feedback to create various physical problems that act as catalyst in our present 3rd density condition. 
 {{< /r >}}
 
 
@@ -180,7 +180,7 @@ Your query has some internal confusion.
 
 The Logos planned for entities of mind/body/spirit complex to gain experience until the amount of experience was sufficient for an incarnation. 
 
-This varied only slightly from 2nd-density entities whose mind/body complexes existed for the purpose of experiencing growth and seeking consciousness. 
+This varied only slightly from 2nd density entities whose mind/body complexes existed for the purpose of experiencing growth and seeking consciousness. 
 
 As the 3rd density upon your planet proceeded, the need for the physical body complex to cease became more rapidly approached due to intensified and more rapidly gained catalyst. 
 

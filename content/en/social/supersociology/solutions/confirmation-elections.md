@@ -86,9 +86,16 @@ Parliamentary countries can go on for many months without a government such as i
 
 This new system allows dynamism and a proper matching of policies to the actual needs of the people with a 1 year lag at the most. 
 
+The frequent campaining will exhaust the candidates, leaving only the most dedicated ones continue. This naturally weeds out the strong from the weak, leading to a natural binary effect. 
+
+This will also exhaust the voters, leaving only the most politically inclined active in voting. 
+
+This prevents the stalemates seen in parliamentary voting. 
+
+There will still be split votes for a few years until the strongest and most consistent candidate gains favor.
+
 In the US, they had to wait for 4 years for Trump to finish his term before his policies could be reversed.
 
 In the beginning, there will be flip-flopping of policies as the society changes leaders every 2 years at worst. But after 10-20 years, the patterns become clear and the differences between policies and parties will be smoothened. You could say that the whole election system would be like a giant 'primaries' eventually leading to a binary system because of the annual frequency of the elections.
-
 
 The next post will explain Hume's other political innovation called the Council of Opposition

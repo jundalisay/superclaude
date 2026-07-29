@@ -90,7 +90,7 @@ The garlic and onion, renewed weekly, should remain permanently hung, suspended 
 
 {{< r a="Don Elkins" >}}Are Jim’s plans and ritual for deconsecrating this dwelling sufficient, or should something be added or changed?{{< /r >}}
 
-{{< l a="Ra" >}}No change is necessary. The points necessary to be included in consecration or deconsecration of a place are covered. We may suggest that each second-density, woody plant which you have invested during your tenancy within this dwelling be thanked and blessed.{{< /l >}}
+{{< l a="Ra" >}}No change is necessary. The points necessary to be included in consecration or deconsecration of a place are covered. We may suggest that each 2nd density, woody plant which you have invested during your tenancy within this dwelling be thanked and blessed.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 Will we have any problems in contacting you in the new dwelling? If so, would you tell us about those and what we could do to alleviate any such problems?

@@ -14,32 +14,32 @@ tags: ['densities', 'Dewey Larson']
 February 9, 1981
 
 
-{{< r a="Don Elkins" >}}What happened to the 2nd-density entities who were on this planet who were unharvestable— I assume there were some that didn’t make the harvest into the 3rd density.{{< /r >}}
+{{< r a="Don Elkins" >}}What happened to the 2nd density entities who were on this planet who were unharvestable— I assume there were some that didn’t make the harvest into the 3rd density.{{< /r >}}
 
 {{< l a="Ra" >}}The 2nd density is able to repeat during 3rd density a portion of its cycle.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Then the 2nd-density entities that did not get harvested at the beginning of this 75,000-year period, some are still in second density on this planet. Were any of these who remained in second density harvested into third density in the past 75,000 years?
+Then the 2nd density entities that did not get harvested at the beginning of this 75,000-year period, some are still in 2nd density on this planet. Were any of these who remained in 2nd density harvested into third density in the past 75,000 years?
 {{< /r >}}
 
 {{< l a="Ra" >}}This has been increasingly true.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-So more and more second-density entities are making it into third density. Can you give me an example of a second-density entity coming into third density, say, in the recent past?
+So more and more 2nd density entities are making it into third density. Can you give me an example of a 2nd density entity coming into third density, say, in the recent past?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-Perhaps the most common occurrence of second-density graduation during third density cycle is the so-called pet.
+Perhaps the most common occurrence of 2nd density graduation during third density cycle is the so-called pet.
 
-The animal which is exposed to the individualizing influences of the bond between animal and third density entity, this individuation causes a sharp rise in the potential of the second-density entity so that upon the cessation of physical complex the mind/body complex does not return unto the undifferentiated consciousness of that species, if you will.
+The animal which is exposed to the individualizing influences of the bond between animal and third density entity, this individuation causes a sharp rise in the potential of the 2nd density entity so that upon the cessation of physical complex the mind/body complex does not return unto the undifferentiated consciousness of that species, if you will.
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Please give me an example of an entity in 3rd density that was just previously a 2nd-density entity? What type of entity do they become here?{{< /r >}}
+{{< r a="Don Elkins" >}}Please give me an example of an entity in 3rd density that was just previously a 2nd density entity? What type of entity do they become here?{{< /r >}}
 
 
 {{< l a="Ra" >}}
-As a 2nd-density entity returns as 3rd density for the beginning of this process of learning, it is equipped with the lowest of these vibrational distortions, forms of third density consciousness. It is equipped with self-consciousness.{{< /l >}}
+As a 2nd density entity returns as 3rd density for the beginning of this process of learning, it is equipped with the lowest of these vibrational distortions, forms of third density consciousness. It is equipped with self-consciousness.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
@@ -150,7 +150,7 @@ The causes of this shortening are always an ineuphonious or inharmonious relatio
 {{< l a="Ra" >}}
 This is incorrect. There was not a strong negative polarization due to this influx. The lessening of the life span was due primarily to the lack of the building up of positive orientation. When there is no progress those conditions which grant progress are gradually lost. This is one of the difficulties of remaining unpolarized. The chances, shall we say, of progress become steadily less.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The way I understand it, at the beginning of this 75,000-year cycle, then, we have a mixture of entities— those who have graduated from second density on Earth to become third density and then a group of entities transferred from the planet Mars to incarnate into third density here. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}The way I understand it, at the beginning of this 75,000-year cycle, then, we have a mixture of entities— those who have graduated from 2nd density on Earth to become third density and then a group of entities transferred from the planet Mars to incarnate into third density here. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}This is correct.{{< /l >}}
 
@@ -158,9 +158,9 @@ This is incorrect. There was not a strong negative polarization due to this infl
 
 {{< l a="Ra" >}}You must remember that those transferred to this sphere were in the middle of their third density so that this third density was an adaptation rather than a beginning.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. What percentage of the entities, roughly, were— who were in third density here at that time were Martian and what percentage were harvested out of Earth’s second density?{{< /r >}}
+{{< r a="Don Elkins" >}}Thank you. What percentage of the entities, roughly, were— who were in third density here at that time were Martian and what percentage were harvested out of Earth’s 2nd density?{{< /r >}}
 
-{{< l a="Ra" >}}There were perhaps one-half of the third density population being entities from the Red Planet, Mars, as you call it. Perhaps one-quarter from second density of your planetary sphere. Approximately one-quarter from other sources, other planetary spheres whose entities chose this planetary sphere for third density work.{{< /l >}}
+{{< l a="Ra" >}}There were perhaps one-half of the third density population being entities from the Red Planet, Mars, as you call it. Perhaps one-quarter from 2nd density of your planetary sphere. Approximately one-quarter from other sources, other planetary spheres whose entities chose this planetary sphere for third density work.{{< /l >}}
 
 {{< r a="Don Elkins" >}}When they incarnated here did they mix— did all three of these types mix together in societies or groups or were they separated by group or society?{{< /r >}}
 

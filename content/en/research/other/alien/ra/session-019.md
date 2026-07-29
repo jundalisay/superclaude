@@ -32,11 +32,11 @@ In this context each and every entity of consciousness has/is/will experienced/e
 
 
 {{< r a="Don Elkins" >}}
-<sup>2</sup> Is this 2nd-density being the animal?{{< /r >}}
+<sup>2</sup> Is this 2nd density being the animal?{{< /r >}}
 
 
 {{< l a="Ra" >}}
-There are 3 types of 2nd-density entities which become enspirited.
+There are 3 types of 2nd density entities which become enspirited.
 
 1. Animal — this is the most predominant. 
 2. Vegetable, especially the tree — these can give and receive enough love to become individualized. 
@@ -71,20 +71,20 @@ You may then see that there is an inevitable pull towards the, what you may call
 
 
 {{< r a="Don Elkins" >}}
-<sup>5</sup> Was the first 2nd-density entities evolving into 3rd on Earth helped by the transfer of beings from Mars, or was it totally independent?
+<sup>5</sup> Was the first 2nd density entities evolving into 3rd on Earth helped by the transfer of beings from Mars, or was it totally independent?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-There were some 2nd-density entities which graduated into 3rd density with no outside stimulus but only the efficient use of experience. 
+There were some 2nd density entities which graduated into 3rd density with no outside stimulus but only the efficient use of experience. 
 
 Others of your planetary 2nd density joined the 3rd density cycle due to harvesting efforts by vibratory aid from the Confederation. 
 
-This communication was, however, telepathic rather than telepathic/vocal or telepathic/written due to the nature of 2nd-density beings.
+This communication was, however, telepathic rather than telepathic/vocal or telepathic/written due to the nature of 2nd density beings.
 {{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
-<sup>6</sup> Who sent the aid to the 2nd-density beings?{{< /r >}}
+<sup>6</sup> Who sent the aid to the 2nd density beings?{{< /r >}}
 
 
 {{< l a="Ra" >}}We call ourselves the Confederation of Planets in the Service of the Infinite Creator.{{< /l >}}
@@ -94,7 +94,7 @@ This communication was, however, telepathic rather than telepathic/vocal or tele
 <sup>7</sup> Then the Confederation also aided in 2nd density to 3rd density transition.{{< /r >}}
 
 {{< l a="Ra" >}}
-A portion of the Confederation which is not working with 3rd density but finds its aid best used in other harvests — that is the 2nd-density harvest — is responsible for aid in these harvests. 
+A portion of the Confederation which is not working with 3rd density but finds its aid best used in other harvests — that is the 2nd density harvest — is responsible for aid in these harvests. 
 
 The Confederation is composed of many of those in other densities, in your own density, within your planetary sphere, and within the inner or angelic realms. 
 
@@ -104,12 +104,12 @@ This 2nd density to 3rd density transition happened 75,000 years ago approximate
 
 
 {{< r a="Don Elkins" >}}
-<sup>9</sup> Where did the 2nd-density beings get 3rd density bodies to incarnate into?
+<sup>9</sup> Where did the 2nd density beings get 3rd density bodies to incarnate into?
 {{< /r >}}
 
 
 {{< l a="Ra" >}}
-The 2nd-density plane was exposed to 3rd density vibrations to become the 3rd density “human” entities. 
+The 2nd density plane was exposed to 3rd density vibrations to become the 3rd density “human” entities. 
 
 There was loss of body hair, the clothing of the body to protect it, the changing of the structure of the neck, jaw, and forehead in order to allow the easier vocalization, and the larger cranial development characteristic of third density needs. This was a normal transfiguration.
 {{< /l >}}
@@ -130,7 +130,7 @@ There is one necessity for 3rd density — self-awareness, or self-consciousness
 
 In order to be capable of such, this chemical complex of body must be capable of the abstract thought. Thus, the fundamental necessity is the combination of rational and intuitive thinking. 
 
-This was transitory in the 2nd-density forms operating largely upon intuition which proved through practice to yield results. 
+This was transitory in the 2nd density forms operating largely upon intuition which proved through practice to yield results. 
 
 The 3rd density mind was capable of processing information as to think abstractly and in “useless” ways for survival. 
 
@@ -176,26 +176,34 @@ Thus, each may aid each by reflection. This is also a primary reason for the wea
 
 
 {{< r a="Don Elkins" >}}
-<sup>14</sup> Then we have 2nd-density beings who have primarily motivation towards service to self and possibly a little bit of service to others with respect to their immediate families going into 3rd density. 
+<sup>14</sup> Then we have 2nd density beings who have primarily motivation towards service to self and possibly a little bit of service to others with respect to their immediate families going into 3rd density. 
 
 They carry this bias with them but being in a position now where this bias will slowly be modified to one which is aimed toward a social complex and then ultimately toward union with the all. 
+{{< /r >}}
 
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
 Then the newest 3rd density beings who’ve just made the transition from 2nd are still strongly biased towards self-service. 
 
 There must be many other mechanisms to create an awareness of the possibility of service to others. I’m wondering: about the mechanism; when the split takes place where the entity is able to continue on the road towards service to self that will eventually take him to 4th or 5th density. 
 
-I assume that an entity can continue — can start, say, in second density with service totally to self and continue right on through and just stay on what we would call the path of service to self and never ever be pulled over.
+I assume that an entity can continue — can start, say, in 2nd density with service totally to self and continue right on through and just stay on what we would call the path of service to self and never ever be pulled over.
 {{< /r >}}
 
 
 {{< l a="Ra" >}}
-No. The 2nd-density concept of serving self includes the serving of those associated with tribe or pack. 
+No. The 2nd density concept of serving self includes the serving of those associated with tribe or pack. 
 
-This is not seen in 2nd density as separation of self and other-self. All is seen as self since in some forms of 2nd-density entities, if the tribe or pack becomes weakened, so does the entity within the tribe or pack. 
+This is not seen in 2nd density as separation of self and other-self. All is seen as self since in some forms of 2nd density entities, if the tribe or pack becomes weakened, so does the entity within the tribe or pack. 
 
 The new or initial 3rd density entity has this innocent bias or distortion towards viewing those in the family, the society, country, as self. 
 
-Thus though a distortion not helpful for progress in third density, it is without polarity. The break becomes apparent when the entity perceives other-selves as other-selves and consciously determines to manipulate other-selves for the benefit of the self. This is the beginning of the road of which you speak.
+Thus though a distortion not helpful for progress in 3rd density, it is without polarity. 
+
+The break becomes apparent when the entity perceives other-selves as other-selves and consciously determines to manipulate other-selves for the benefit of the self. This is the beginning of the road of which you speak.
 {{< /l >}}
 
 
@@ -205,7 +213,9 @@ Thus though a distortion not helpful for progress in third density, it is withou
 
 
 {{< l a="Ra" >}}
-The majority of 3rd density beings is far along the chosen path before realization of that path is conscious. We speak in generalities which is dangerous for always inaccurate. However, we realize you look for the overview; so we will eliminate anomalies and speak of majorities.
+The majority of 3rd density beings is far along the chosen path before realization of that path is conscious. 
+
+We speak in generalities which is dangerous for always inaccurate. However, we realize you look for the overview; so we will eliminate anomalies and speak of majorities.
 {{< /l >}}
 
 

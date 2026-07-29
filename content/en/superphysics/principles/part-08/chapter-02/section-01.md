@@ -133,9 +133,9 @@ This is matched by Supersociology where:
 The DNA caries the wave-programming of each cell as a part of the overall programming for the whole body. 
 
 
-## The DNA as an effect of the Crown Chakra (Vortex)
+## The DNA as an effect of the 3rd Eye Chakra (Vortex)
 
-In Cartesian science, the programming of the entire body is sourced from the crown chakra which manifests as the pineal gland .
+In Cartesian science, the programming of the entire body is sourced from the 3rd Eye chakra which manifests as the pineal gland .
 
 This chakra rotates, creating the twisted double helix shape of the DNA. The twist is easily seen in quasar jets that also have a double helix shape.
 

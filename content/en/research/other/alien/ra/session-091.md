@@ -80,7 +80,7 @@ The resulting snap would strike hard at the anchored portion of the elastic band
 
 The process through which you as a group go in recalling Carla could be likened unto taking this elastic and gently lessening its degree of tension until it was without perceptible stretch.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their second-density experiences to create the large number of different races that we experience on this planet?{{< /r >}}
+{{< r a="Don Elkins" >}}Would then possibly the different races that inhabit this planet be from different planets in our local vicinity or the planets of nearby Logoi that have evolved through their 2nd density experiences to create the large number of different races that we experience on this planet?{{< /r >}}
 
 {{< l a="Ra" >}}There are correctnesses to your supposition.
 
@@ -94,7 +94,7 @@ In looking at planetary origins, do not look at skin color but:
 
 {{< l a="Ra" >}}This is unimportant harmless information.
 
-There are 3 major planetary influences besides those of your own 2nd-density derivation, and 13 minor planetary groups in addition to the above.{{< /l >}}
+There are 3 major planetary influences besides those of your own 2nd density derivation, and 13 minor planetary groups in addition to the above.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Do all Logo evolving after the veil have 22 archetypes?{{< /r >}}
 

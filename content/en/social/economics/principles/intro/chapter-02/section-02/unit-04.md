@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 4"
 title: "The Different Kinds of Values"
 linkTitle: Kinds of Values
 # date: 2022-03-26

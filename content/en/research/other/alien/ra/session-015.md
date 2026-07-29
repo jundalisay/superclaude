@@ -13,9 +13,6 @@ tags: ['', '']
 January 30, 1981
 
 
-
-{{< r a="Don Elkins" >}}Do I have to hurry and ask the questions, or can I take my time to ask the questions?{{< /r >}}
-
 {{< l a="Ra" >}}Carla’s reserve of vital energy is a product of body, mind, and spirit distortions in the various complexes. This is the key to the length of time which we may expend.
 
 We searched your group when we contacted you for each in your group possesses significantly more vital energy of the body complex. However, Carla was tuned most appropriately by the mind/body/spirit complex distortions of its beingness in this illusion. So, we remained with Carla.
@@ -33,7 +30,7 @@ We communicate at a set rate which is dependent upon our careful manipulation of
 {{< r a="Don Elkins" >}}Why does rapid aging occur on this planet?{{< /r >}}
 
 {{< l a="Ra" >}}
-Rapid aging occurs upon this third density planet due to an ongoing imbalance of receptor web complex in the etheric portion of the energy field of this planet. 
+Rapid aging occurs on this 3rd density planet due to an ongoing imbalance of receptor web complex in the etheric portion of the energy field of this planet. 
 
 The thought-form distortions of your peoples have caused the energy streamings to enter the planetary magnetic atmosphere, if you would so term this web of energy patterns, in such a way that the proper streamings are not correctly imbued with balanced vibratory light/love from the cosmic level of this octave of existence.
 {{< /l >}}
@@ -69,25 +66,68 @@ In a balanced individual each energy center is balanced and functioning brightly
 
 {{< r a="Don Elkins" >}}How does an individual go about balancing himself? What is the first step?{{< /r >}}
 
-{{< l a="Ra" >}}The steps are only one; that is, an understanding of the energy centers which make up the mind/body/spirit complex. This understanding may be briefly summarized as follows:
+{{< l a="Ra" >}}
+There is only 1 step: an understanding of the energy centers which make up the mind/body/spirit complex.
 
-The first balancing is of the Malkuth, or Earth, vibratory energy complex, called the red-ray complex. An understanding and acceptance of this energy is fundamental.
+1. [Red Base Chakra]
 
-The next energy complex which may be blocked is the emotional or personal complex, also known as the orange-ray complex. This blockage will often demonstrate itself as personal eccentricities or distortions with regard to self-conscious understanding or acceptance of self.
+The first balancing is of the Malkuth, or Earth, vibratory energy complex, called the red-ray complex. 
 
-The third blockage resembles most closely that which you have called ego. It is the yellow-ray or solar plexus center. Blockages in this center will often manifest as distortions towards power, manipulation, and other social behaviors concerning those close and those associated with the mind/body/spirit complex.
+An understanding and acceptance of this energy is fundamental.
 
-Those with blockages in these first three energy centers, or nexi, will have continuing difficulties in ability to further their seeking of the Law of One.
+2. [Orange Sex Chakra]
 
-The center of heart, or green ray, is the center from which third density beings may springboard towards infinite intelligence. Blockages in this area may manifest as difficulties in expressing what you may call universal love or compassion.
+The next energy complex which may be blocked is the emotional or personal complex, also known as the orange-ray complex. 
 
-The blue-ray center of energy streaming is the center which, for the first time, is outgoing as well as inpouring. Those blocked in this area may have difficulty in grasping the spirit/mind complexes of its own entity and further difficulty in expressing such understandings of self. Entities blocked in this area may have difficulties in accepting communication from other mind/body/spirit complexes.
+This blockage will often demonstrate itself as personal eccentricities or distortions with regard to self-conscious understanding or acceptance of self.
 
-The next center is the pineal or indigo-ray center. Those blocked in this center may experience a lessening of the influx of intelligent energy due to manifestations which appear as unworthiness. This is that of which you spoke. As you can see, this is but one of many distortions due to the several points of energy influx into the mind/body/spirit complex. 
 
-The indigo-ray balancing is quite central to the type of work which revolves about the spirit complex, which has its influx then into the transformation or transmutation of 3rd density to 4th density, it being the energy center receiving the least-distorted outpourings of love/light from intelligent energy and having also the potential for the key to the gateway of intelligent infinity.
+3. [Yellow Navel Chakra]
 
-The remaining center of energy influx is simply the total expression of the entity’s vibratory complex of mind, body, and spirit. It is as it will be, “balanced” or “imbalanced” has no meaning at this energy level, for it gives and takes in its own balance. Whatever the distortion may be, it cannot be manipulated as can the others and, therefore, has no particular importance in viewing the balancing of an entity.{{< /l >}}
+The third blockage resembles most closely the ego. 
+
+It is the yellow-ray or solar plexus center. 
+
+Blockages in this center will often manifest as distortions towards power, manipulation, and other social behaviors concerning those close and those associated with the mind/body/spirit complex.
+
+Those with blockages in these first 3 energy centers, or nexi, will have continuing difficulties in ability to further their seeking of the Law of One.
+
+
+4. [Green Heart Chakra]
+
+The center of heart, or green ray, is the center from which 3rd density beings may springboard towards infinite intelligence. 
+
+Blockages in this area may manifest as difficulties in expressing what you may call universal love or compassion.
+
+5. [Blue Throat Chakra]
+
+The blue-ray center of energy streaming is the center which, for the first time, is outgoing as well as inpouring. 
+
+Those blocked in this area may have difficulty in grasping the spirit/mind complexes of its own entity and further difficulty in expressing such understandings of self. 
+
+Entities blocked in this area may have difficulties in accepting **communication** from other mind/body/spirit complexes.
+
+
+6. [Indigo Third Eye Chakra]
+
+The next center is the pineal or indigo-ray center.
+
+Those blocked in this center may experience a lessening of the influx of intelligent energy due to manifestations which appear as unworthiness. 
+
+This is what you spoke of. This is but one of many distortions due to the several points of energy influx into the mind/body/spirit complex. 
+
+The indigo-ray balancing is quite central to the type of work which revolves about the spirit complex, which has its influx then into the transformation or transmutation of 3rd density to 4th density.
+
+It is the energy center receiving the least-distorted outpourings of love/light from intelligent energy and having also the potential for the key to the gateway of intelligent infinity.
+
+
+7. [Violet Crown Chakra]
+
+The remaining center of energy influx is simply the total expression of the entity’s vibratory complex of mind, body, and spirit. 
+
+It is as it will be, “balanced” or “imbalanced” has no meaning at this energy level, for it gives and takes in its own balance. Whatever the distortion may be, it cannot be manipulated as can the others and, therefore, has no particular importance in viewing the balancing of an entity.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}
 Is there any information that we can publish now about any exercises or methods of balancing these centers?{{< /r >}}
@@ -117,7 +157,9 @@ You have been given information on healing.
 
 This information may be seen in a more general context as ways to understand the self. The understanding, experiencing, accepting, and merging of self with self and with other-self, and finally with the Creator, is the path to the heart of self. In each infinitesimal part of your self resides the One in all of Its power. 
 
-Therefore, we can only encourage these lines of contemplation, always stating the prerequisite of meditation, contemplation, or prayer as a means of subjectively/objectively using or combining various understandings to enhance the seeking process. Without such a method of reversing the analytical process, one could not integrate into unity the many understandings gained in such seeking.
+Therefore, we can only encourage these lines of contemplation, always stating the prerequisite of meditation, contemplation, or prayer as a means of subjectively/objectively using or combining various understandings to enhance the seeking process. 
+
+Without such a method of reversing the analytical process, one could not integrate into unity the many understandings gained in such seeking.
 {{< /l >}}
 
 
@@ -138,7 +180,9 @@ Can you tell me what you mean by how “they will choose the manner of their ent
 {{< l a="Ra" >}}
 The question now resolves itself, for we have spoken previously of the manner of decision-making which caused these entities to remain here upon the closing of the second major cycle of your current master cycle. 
 
-There are some distortions in the descriptions of the one known as Michel; however, these distortions have primarily to do with the fact that these entities are not a social memory complex, but rather a group of mind/body/spirit complexes dedicated to service. These entities work together, but are not completely unified; thus, they do not completely see each the other’s thoughts, feelings, and motives. However, their desire to serve is the fourth-dimensional type of desire, thus melding them into what you may call a brotherhood.
+There are some distortions in the descriptions of the one known as Michel; however, these distortions have primarily to do with the fact that these entities are not a social memory complex, but rather a group of mind/body/spirit complexes dedicated to service. 
+
+These entities work together, but are not completely unified; thus, they do not completely see each the other’s thoughts, feelings, and motives. However, their desire to serve is the fourth-dimensional type of desire, thus melding them into what you may call a brotherhood.
 {{< /l >}}
 
 

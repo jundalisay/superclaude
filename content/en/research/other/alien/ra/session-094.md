@@ -104,7 +104,7 @@ Thusly an entire exchange of information may be meaningless because the actual c
 
 {{< l a="Ra" >}}The archetype of Experience of the Mind reaches not, O student, but with firm authority grasps what it is given. The remainder of your remarks are perceptive.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Experience is seated on the square of the material illusion which is colored much darker than in Card Number Three. However, there is a cat inside this. I am guessing that as experience is gained the second-density nature of the illusion is understood and the negative and positive aspects are separated. Would Ra comment on this?{{< /r >}}
+{{< r a="Don Elkins" >}}Experience is seated on the square of the material illusion which is colored much darker than in Card Number Three. However, there is a cat inside this. I am guessing that as experience is gained the 2nd density nature of the illusion is understood and the negative and positive aspects are separated. Would Ra comment on this?{{< /r >}}
 
 {{< l a="Ra" >}}This interpretation varies markedly from Ra’s intention. We direct the attention to the cultural meaning of the great cat which guards. What, O student, does it guard? And with what oriflamme does it lighten that darkness of manifestation? The polarities are, indeed, present; the separation nonexistent except through the sifting which is the result of cumulative experience. Other impressions were intended by this configuration of the seated image with its milk-white leg and its pointed foot.{{< /l >}}
 

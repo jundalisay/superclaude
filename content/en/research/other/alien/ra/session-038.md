@@ -34,9 +34,20 @@ At this space/time nexus neither the one known as Don nor the one known as Jim i
 
 {{< r a="Don Elkins" >}}Could you tell me how each of the rays, red through violet, would appear in a perfectly balanced, undistorted entity?{{< /r >}}
 
-{{< l a="Ra" >}}We cannot tell you this for each balance is perfect and each unique. We do not mean to be obscure.
+{{< l a="Ra" >}}
+We cannot tell you this for each balance is perfect and each unique. We do not mean to be obscure.
 
-Let us offer an example. In a particular entity, let us use Carla, the rays may be viewed as extremely even, red, orange, yellow. The green ray is extremely bright. This is, shall we say, balanced by a dimmer indigo. Between these two the point of balance resides, the blue ray of the communicator sparkling in strength above the ordinary. In the violet ray we see this unique spectrograph, if you will, and at the same time the pure violet surrounding the whole; this in turn, surrounded by that which mixes the red and violet ray, indicating the integration of mind, body, and spirit; this surrounded in turn by the vibratory pattern of this entity’s true density.
+Let us offer an example. 
+
+In Carla, the rays may be viewed as extremely even, red, orange, yellow. 
+
+The green ray is extremely bright. 
+
+This is balanced by a dimmer indigo. 
+
+Between these 2 the point of balance resides, the blue ray of the communicator sparkling in strength above the ordinary. 
+
+In the violet ray we see this unique spectrograph, if you will, and at the same time the pure violet surrounding the whole; this in turn, surrounded by that which mixes the red and violet ray, indicating the integration of mind, body, and spirit; this surrounded in turn by the vibratory pattern of this entity’s true density.
 
 This description may be seen to be both unbalanced and in perfect balance. The latter understanding is extremely helpful in dealing with other-selves. The ability to feel blockages is useful only to the healer. There is not properly a tiny fraction of judgment when viewing a balance in colors. Of course when we see many of the energy plexi weakened and blocked, we may understand that an entity has not yet grasped the baton and begun the race. However, the potentials are always there. All the rays fully balanced are there in waiting to be activated.
 
@@ -50,7 +61,7 @@ Is it possible for a 3rd density planet to form a social memory complex which op
 {{< l a="Ra" >}}
 It is possible only in the latter or seventh portion of such a density when entities are harmoniously readying for graduation.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you give me an example of a planet of this nature, both a third density service-to-others type and a third density self-service type at this level of attainment conditions?{{< /r >}}
+{{< r a="Don Elkins" >}}Could you give me an example of a planet of this nature, both a 3rd density service-to-others type and a 3rd density self-service type at this level of attainment conditions?{{< /r >}}
 
 {{< l a="Ra" >}}
 As far as we are aware, there are no negatively oriented third density social memory complexes.
@@ -68,7 +79,7 @@ The social memory complex is properly a 4th-density phenomenon.{{< /l >}}
 Did that social memory complex from Sirius evolve from trees?{{< /r >}}
 
 {{< l a="Ra" >}}
-This approaches correctness. Those 2nd-density vegetation forms which graduated into 3rd density on this planet named Dog. They were close to the tree.{{< /l >}}
+This approaches correctness. Those 2nd density vegetation forms which graduated into 3rd density on this planet named Dog. They were close to the tree.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 bellicose action is impossible for vegetation. would not they have the advantage as they move into third density from second as to not carrying a racial memory of a bellicose nature and therefore develop a more harmonious society and accelerate their evolution in this nature?

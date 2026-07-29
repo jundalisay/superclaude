@@ -65,7 +65,7 @@ The desire of the scribe may be seen in much of this material to have affected t
 
 {{< r a="Don Elkins" >}}I sense that there is fruitful ground for investigation of our development in tracing the evolution of the bodily energy centers because these seven centers seem to be linked with all of the sevens that I spoke of previously and be central to our own development. Could you describe the process of evolution of these bodily energy centers starting with the most primitive form of life to have them?{{< /r >}}
 
-{{< l a="Ra" >}}This material has been covered previously to some extent. Therefore, we shall not repeat information upon which rays dwell in first and second density and the wherefores of this, but rather attempt to enlarge upon this information.
+{{< l a="Ra" >}}This material has been covered previously to some extent. Therefore, we shall not repeat information upon which rays dwell in first and 2nd density and the wherefores of this, but rather attempt to enlarge upon this information.
 
 The basic pivotal points of each level of development; that is, each density beyond second, may be seen to be as follows: Firstly, the basic energy of so-called red ray. This ray may be understood to be the basic strengthening ray for each density. It shall never be condescended to as less important or productive of spiritual evolution, for it is the foundation ray.
 

@@ -18,13 +18,13 @@ Traditional Chinese Medicine deals with chronic pain and emotional stress throug
 
 Both techniques work by restoring the flow of the chi to specific organs by focusing on acupoints on meridians. This is also done by yoga in a more general way. 
 
-These meridians are immaterial or aethereal channels that go out of the immaterial crown chakra (aethereal vortex in Cartesian Physics). These form a web like those formed by galaxy clusters. 
+These meridians are immaterial or aethereal channels that go out of the immaterial 3rd eye chakra (aethereal vortex in Cartesian Physics). These form a web like those formed by galaxy clusters. 
 
 {{< i s="/graphics/bio/acu.jpg" a="Acupuncture" >}}
 
 The acupoints are like the junctions or parts of the web that have the most clusters. 
 
-The pineal gland is the material version of the aethereal crown chakra.
+The pineal gland is the material version of the aethereal 3rd eye chakra.
 
 The fetus builds the material nerves and circulatory system of blood around or through these channels after the 7th week when the pineal gland is formed.
 
@@ -32,7 +32,7 @@ These channels let the animal spirits go to and fro, like an immaterial hydrauli
 
 The animal spirits are known as chi in Chinese medicine, pneuma in ancient Greece, and vayu in Hinduism, proving that they are universal.
 
-These animal spirits go out from the pineal gland to the organs and muscles to facilitate action and expression from the metaphysical onto the physical world. 
+These animal spirits go out from the pineal gland to the organs and muscles to facilitate faction and expression from the metaphysical onto the physical world. 
 
 They also go from the organs and muscles to the pineal gland, facilitating perception and learning.
 

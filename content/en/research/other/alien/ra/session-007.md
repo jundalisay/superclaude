@@ -159,19 +159,30 @@ A fifth-density social memory complex would be comprised of mind/body/spirit com
 
 Then the conglomerate or mass mind/body/spirit complex does its melding and the results are due to the infinitely various possibilities of combination of distortions.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How would the Orion group progress? A closer understanding of the Law of One created the condition of acceptability moving say from our third density to the fourth in our transition now, and I’m trying to understand how it would be possible, if you were in the Orion group, and pointed toward self-service, how you would progress, say, from the third density to the fourth. What learning would be necessary for that?{{< /r >}}
+{{< r a="Don Elkins" >}}
+How would the Orion group progress? 
 
-{{< l a="Ra" >}}Those not oriented towards seeking service for others can still use the gateway to intelligent infinity.
+A closer understanding of the Law of One created the condition of acceptability moving from our 3rd density to the 4th in our transition now.
+
+If you were in the Orion group pointed toward self-service, how you would progress, from the 3rd to 4th?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Those not oriented towards seeking service for others can still use the gateway to intelligent infinity.
 
 This is true at all densities in our octave.
 
 We cannot speak for those above us in the next quantum or octave of beingness.
 
-The beings are harvested because they can see and enjoy the light/love of the appropriate density.
+**The beings are harvested because they can see and enjoy the light/love of the appropriate density.**
 
 Those who have found this light/love, love/light without benefit of a desire for service nevertheless, by the Law of Free Will, have the right to the use of that light/love for whatever purpose.
 
-There are systems of study which enable the seeker of separation to gain these gateways.{{< /l >}}
+There are systems of study which enable the seeker of separation to gain these gateways.
+{{< /l >}}
+
+
+{{< n n="In Buddhism, the evil people will flip their polarity and become positive just before they are harvested. An example is Angulimala who healed in 3rd density">}}
 
 
 

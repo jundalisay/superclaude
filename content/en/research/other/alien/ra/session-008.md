@@ -26,7 +26,15 @@ Each entity will receive the opportunity that each needs. This information sourc
 
 {{< l a="Ra" >}}These of which we spoke are of third density and are part of the so-called military complex of various of your peoples’ societal divisions or structures.
 
-The bases are varied. There are bases, as you would call them, undersea in your southern waters near the Bahamas as well as in your Pacific seas in various places close to your Chilean borders on the water. There are bases upon your moon, as you call this satellite, which are at this time being reworked. There are bases which move about your lands. There are bases, if you would call them that, in your skies. These are the bases of your peoples, very numerous and, as we have said, potentially destructive.{{< /l >}}
+The bases are varied. There are bases undersea in your southern waters near the Bahamas as well as in your Pacific seas in various places close to your Chilean borders on the water.
+
+There are bases on your moon which are at this time being reworked. 
+
+There are bases which move about your lands. 
+
+There are bases in your skies. 
+
+These are the bases of your peoples, very numerous and potentially destructive.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Where do the people who operate these craft come from? Are they affiliated with any nation on Earth? What is their source?{{< /r >}}
 
@@ -34,21 +42,63 @@ The bases are varied. There are bases, as you would call them, undersea in your 
 
 As you intend the question, in its shallower aspect, these people are those in your and other-selves’ governments responsible for what you would term national security.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Am I to understand then that the United States has these craft in undersea bases?{{< /r >}}
+{{< r a="Don Elkins" >}}
+The United States has these craft in undersea bases?{{< /r >}}
 
-{{< l a="Ra" >}}You are correct.{{< /l >}}
+{{< l a="Ra" >}}Yes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}How did the United States learn of the technology to build these land [inaudible]?{{< /r >}}
 
-{{< l a="Ra" >}}There was a mind/body/spirit complex known to your people by the vibratory sound complex, Nikola. This entity departed the illusion and the papers containing the necessary understandings were taken by mind/body/spirit complexes serving your security of national divisional complex. Thus your people became privy to the basic technology. In the case of those mind/body/spirit complexes which you call Russians, the technology was given from one of the Confederation in an attempt, approximately twenty-seven of your years ago, to share information and bring about peace among your peoples. The entities giving this information were in error, but we did many things at the end of this cycle in attempts to aid your harvest from which we learned the folly of certain types of aid. That is a contributing factor to our more cautious approach at this date, even as the need is power upon power greater, and your people’s call is greater and greater.{{< /l >}}
+{{< l a="Ra" >}}
+After Nikola Tesla died, his papers containing the necessary understandings were taken by your government. 
 
-{{< r a="Don Elkins" >}}I’m puzzled by these craft that we have undersea bases for. They are [inaudible]. Is this technology sufficient to overshadow all other armaments? Do we have just the ability to fly in these craft or are there any weapons like there are… Were they given to us [inaudible] or are they just craft for transport? What is the basic mechanism of their [inaudible]? It’s really hard to believe is what I’m saying.{{< /r >}}
+Thus your people became privy to the basic technology. 
 
-{{< l a="Ra" >}}The craft are perhaps misnamed in some instances. It would be more appropriate to consider them as weaponry. The energy used is that of the field of electromagnetic energy which polarizes the Earth sphere. The weaponry is of two basic kinds: that which is called by your peoples psychotronic and that which is called by your peoples particle beam. The amount of destruction which is contained in this technology is considerable and the weapons have been used in many cases to alter weather patterns and to enhance the vibratory change which engulfs your planet at this time.{{< /l >}}
+<!-- 27 years ago -->
+In Russia, the technology was given in 1954 from one of the Confederation. This was an attempt to share information and bring peace among your peoples. 
+
+The entities giving this information were mistaken. But we did many things at the end of this cycle in attempts to aid your harvest from which we learned the folly of certain types of aid. 
+
+That is why we are more cautious now, even if:
+- the need is power on power greater, and
+- your people’s call is greater and greater
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}I’m puzzled by these craft that we have undersea bases for. They are [inaudible]. 
+
+Is this technology sufficient to overshadow all other armaments? 
+
+Do we have just the ability to fly in these craft or are there any weapons like there are… Were they given to us [inaudible] or are they just craft for transport? 
+
+What is the basic mechanism of their [inaudible]? It’s really hard to believe
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+
+The craft are perhaps misnamed in some instances. 
+
+It would be more appropriate to consider them as weaponry. 
+
+The energy used is that of the field of electromagnetic energy which polarizes the Earth sphere. 
+
+The weaponry is of 2 basic kinds:
+
+1. psychotronic 
+2. particle beam
+
+The amount of destruction contained in this technology is considerable.
+
+The weapons have been used in many cases to alter weather patterns and to enhance the vibratory change which engulfs your planet at this time.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}How have they been able to keep this a secret? Why aren’t these craft in use for transport?{{< /r >}}
 
-{{< l a="Ra" >}}The governments of each of your societal division illusions desire to refrain from publicity so that the surprise may be retained in case of hostile action from what your peoples call enemies.{{< /l >}}
+{{< l a="Ra" >}}
+The governments of each of your societal division illusions desire to refrain from publicity so that the surprise may be retained in case of hostile action from enemies.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How many of these craft does the United States have?{{< /r >}}
 
@@ -56,24 +106,33 @@ As you intend the question, in its shallower aspect, these people are those in y
 
 {{< r a="Don Elkins" >}}What is the maximum speed of one of these craft?{{< /r >}}
 
-{{< l a="Ra" >}}The maximum speed of these craft is equal to the Earth energy squared. This field varies. The limit is approximately one-half the light speed. This is due to imperfections in design.{{< /l >}}
+{{< l a="Ra" >}}The maximum speed of these craft is equal to the Earth energy squared. This field varies. 
 
-{{< r a="Don Elkins" >}}Wouldn’t this type of craft totally solve, or come close to solving, a lot of the energy problems as far as transport goes?{{< /r >}}
+The limit is approximately one-half the light speed. This is due to imperfections in design.{{< /l >}}
 
-{{< l a="Ra" >}}The technology your peoples possess at this time is capable of resolving each and every limitation which plagues your social memory complex at this present nexus of experience.
+{{< r a="Don Elkins" >}}
+Wouldn’t this type of craft totally solve, or come close to solving, a lot of the energy problems as far as transport goes?{{< /r >}}
+
+{{< l a="Ra" >}}
+The technology that your peoples possess at this time can resolve each and every limitation which plagues your social memory complex at this present nexus of experience.
 
 However, the concerns of some of your beings with distortions towards powerful energy cause these solutions to be withheld until the solutions are so needed that those with the distortion can then become further distorted in the direction of power.{{< /l >}}
 
+
 {{< r a="Don Elkins" >}}Some of the landings were of our peoples, you also mentioned that some were of the Orion group. What is their purpose?{{< /r >}}
+
 
 {{< l a="Ra" >}}Their purpose is conquest, unlike those of the Confederation who wait for the calling. The Orion group calls itself to conquest.
 
 There are 2 types of landings.
+
 1. Entities among your peoples are taken on their craft and programmed for future use.
 There are 2–3 levels of programming:
-   - The level that will be discovered by those who do research
-   - A triggering program
-   - A second and most deep triggering program crystallizing the entity thereby rendering it lifeless and useful as a kind of beacon.
+
+- The level that will be discovered by those who do research
+- A triggering program
+- A second and most deep triggering program crystallizing the entity thereby rendering it lifeless and useful as a kind of beacon.
+
 This is a form of landing.
 
 2. This is landing beneath the Earth’s crust through water.
@@ -105,7 +164,10 @@ Consider a race who watches a movie. It experiences a story and identifies with 
 
 {{< l a="Ra" >}}The configuration of their beings is their normal configuration. The unusualness is not remarkable. We ourselves, when we chose a mission among your peoples, needed to study your peoples for had we arrived in no other form than our own, we would have been perceived as light.
 
-They were third density beings of a fairly high order, from Sirius. We should express the understanding to you that these entities would not have used the mind/body/spirit complex, Charlie, except for the resolve of this entity before incarnation to be of service.{{< /l >}}
+They were third density beings of a fairly high order, from Sirius. 
+
+We should express the understanding to you that these entities would not have used the mind/body/spirit complex, Charlie, except for the resolve of this entity before incarnation to be of service.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What was the home or origin of the entities that took Charlie?{{< /r >}}
 
