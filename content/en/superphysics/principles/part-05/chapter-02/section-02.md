@@ -16,6 +16,9 @@ aliases:
 ---
 
 
+{{< i s="/graphics/psych/know.jpg" a="Knowledge" >}}
+
+
 
 ## Belief, Opinion, Concept, Gnómé, Indoctrination, Dogma
 
