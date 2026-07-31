@@ -16,17 +16,35 @@ During the few months that we've been pushing Cartesian-Spinozan Physics to repl
 - the believers in Newton was the need for objectivity and 
 - the believers in Einstein was the need for precision
 
-But the big problem is that the universe is made up of 5 Elements. 
-- Objectivity is only true for matter (3rd Element to Descartes, Material Layer to Superphysics).
-- Precision is true for electromagnetism (1st Element to Descartes, Radiant Layer to Superphysics) since it as the electroweak has the smallest particles as electrons and neutrinos. 
+
+
+## The 5 Elements
+
+But the big problem is that the universe is made up of **5 Elements**. 
+- Objectivity is only true for matter which is the 3rd Element to Descartes (Material Layer to Superphysics).
+- Precision is true for electromagnetism which is the 1st Element to Descartes (Radiant Layer to Superphysics). This is because the 1st Element is tasked with giving information.
+
 
 {{< i s="/graphics/physics/layers.png" a="layers" >}}
 
-The other Elements -- **spacetime and aether -- are not objective nor precise**. And so the requirements of science naturally keep out the complete knowledge of how the universe works. 
 
-> Spacetime and the aether are not objective nor precise
+The other Elements -- **spacetime and the pure aether -- are not objective nor precise**. 
+- Spacetime is tasked with facilitating forces which then separates identities
+- The pure aether is tasked with facilitating the creation and change of ideas
 
-Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises.
+And so the requirements of science necessarily keep out the complete knowledge of how the universe works. 
+
+<!-- > Spacetime and the aether are not objective nor precise -->
+
+The focus on objectivity is really a focus on crude matter.
+
+This goes against the natural order of the universe which is governed by the subtle.
+
+This is easily seen in our subtle invisible minds controlling our physical bodies. 
+
+Scientists end up ignoring the causal mechanism for everything. This then keeps the sciences stuck and people ignorant. 
+
+ <!-- using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises. -->
 
 
 <!-- q a="PR Sarkar" c="Civilization, Science and Spiritual Progress" >}}
@@ -34,12 +52,23 @@ Science teaches the proper use of material things. When the development of civil
 /q >}} -->
 
 
-Instead of demanding objectivity and precision, a superior requirement is for a system of reasoning to **answer questions or solve problems about real phenomena conclusively**. 
+Instead of demanding objectivity and precision, a superior requirement is for the sciences to create real solutions regardless if those causes and principles are immaterial or subtle. 
+ 
+ <!-- system of reasoning to **answer questions or solve problems about real phenomena conclusively**.  -->
 
-> A superior requirement is to answer questions about real phenomena conclusively
+> A superior requirement is to create real solutions
 
+This makes thinking out of the materialist or physicalist box the defaul mentality. 
 
-The answer could apply only to a single person who has a unique situation, and therefore be subjective. Or it could solve the problem in a general imprecise way.
+Moreover, this solution does not have to apply to all. 
+
+It is acceptable if it really solves the problem of Joe, but not Harry since:
+- the universe is subjective
+- Joe and Harry might have different mentalities and perception-densities
+
+This is opposite of the current science which requires solutions to be standard and applicable to all. 
+
+<!-- The answer could apply only to a single person who has a unique situation, and therefore be subjective. Or it could solve the problem in a general imprecise way. -->
 
 The important thing is that the problem is solved conclusively, without creating new problems.* 
 

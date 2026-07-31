@@ -1,6 +1,6 @@
 ---
 heading: Session 28
-title: "Love"
+title: "The Logos"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
@@ -24,12 +24,20 @@ It expands outward:
 
 
 {{< l a="Ra" >}}
-This concept is incorrect as is any concept of the one intelligent infinity. This concept is correct in the context of one particular Logos, or Love, or focus of this Creator which has chosen Its, shall we say, natural laws and ways of expressing them mathematically and otherwise.
+This concept is:
+- incorrect as is any concept of the one intelligent infinity
+- correct in the context of one particular Logos, or Love, or focus of this Creator which has chosen Its natural laws and ways of expressing them mathematically and otherwise.
 
-The one undifferentiated intelligent infinity, unpolarized, full and whole, is the macrocosm of the mystery-clad being. We are messengers of the Law of One. Unity, at this approximation of understanding, cannot be specified by any physics but only be activated or potentiated intelligent infinity due to the catalyst of free will. This may be difficult to accept. However, the understandings we have to share begin and end in mystery.{{< /l >}}
+The one undifferentiated intelligent infinity, unpolarized, full and whole, is the macrocosm of the mystery-clad being. 
+
+We are messengers of the Law of One. 
+
+Unity, at this approximation of understanding, cannot be specified by any physics but only be activated or potentiated intelligent infinity due to the catalyst of free will. This may be difficult to accept. However, the understandings we have to share begin and end in mystery.
+{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Well, we had yesterday arrived at a point where we were considering colors of light. [You] said that “the nature of the vibratory patterns of your universe is dependent upon the configurations placed on the original material or light by the focus of Love using Its intelligent energy to create a certain pattern of… of illusions or densities.” Then after this material you said that there’s further information which you’d be happy to share, but we ran out of time. Could you complete the further information on that?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Well, we had yesterday arrived at a point where we were considering colors of light. [You] said that “the nature of the vibratory patterns of your universe is dependent upon the configurations placed on the original material or light by the focus of Love using Its intelligent energy to create a certain pattern of… of illusions or densities.” Then after this material you said that there’s further information which you’d be happy to share, but we ran out of time. Could you complete the further information on that?{{< /r >}}
 
 {{< l a="Ra" >}}In discussing this information we then, shall we say, snap back into the particular methods of understanding or seeing that which is that the one, sound vibration complex, Dewey, offers; this being correct for the second meaning of intelligent infinity: the potential which then through catalyst forms the kinetic.
 

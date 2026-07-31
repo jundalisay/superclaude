@@ -17,14 +17,21 @@ February 23, 1981
 
 
 {{< r a="Don Elkins" >}}
-Is our sun (this planetary system) as we know it a sub-Logos or the physical manifestation of a sub-Logos?
+Is our sun a sub-Logos or the physical manifestation of a sub-Logos?
 {{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then I am assuming this sub-Logos created this planetary system in all of its densities. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is incorrect. The sub-Logos of your solar entity differentiated some experiential components within the patterns of intelligent energy set in motion by the Logos which created the basic conditions and vibratory rates consistent throughout your, what you have called, major galaxy.{{< /l >}}
+{{< r a="Don Elkins" >}}Then I am assuming this sub-Logos created this planetary system in all of its densities.
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+No. The sub-Logos of your solar entity differentiated some experiential components within the patterns of intelligent energy set in motion by the Logos which created the basic conditions and vibratory rates consistent throughout your major galaxy.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}Then is this sub-Logos which is our sun the same sub-Logos but just manifesting in different parts through the galaxy which is… is it all the stars in this galaxy?{{< /r >}}
 
