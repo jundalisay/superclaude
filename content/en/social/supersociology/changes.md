@@ -135,13 +135,19 @@ This requires humans to have the ability to detect those changes. This is done b
 
 **This will then allow human society to be one with Nature.**
 
+
+## The Changing Densities
+
 A known change in Nature is the upgrade of The Earth from 3rd Density to 4th Density. 
 
-Various sources assert that this happened in December 2012. 
+A previous change from 2nd Density to 3rd Density allowed humans to evolve from cavemen to civilized humans capable of government. 
+- A hallmark of the 3rd density is a social consciousness that animals do not have. 
+
+Various sources assert that the change from 3rd to 4th density of the Earth happened in December 2012. 
 
 This has led to the recent spike in wars, natural disasters, economic crises caused by humans remaining in 3rd density. 
 
-This creates a mismatch with the 4th density Earth. We take Covid in 2020 as a clear sign for this mismatch, with Covid naturally mopping up those of lower 3rd density vibration.
+This creates a mismatch with the 4th density Earth. **We take Covid in 2020 as a clear sign for this mismatch**, with Covid naturally mopping up those of lower 3rd density vibration.
 
 {{< i s="/photos/bio/virus.jpg" a="Covid" c="Covid is the clearest sign of a mismatch between 3rd and 4th densities, since it has never happened before" >}}
 
@@ -155,5 +161,3 @@ The knowledge of the densities, logi, waves, chakras, and vortices leads to clea
 - Countries should avoid war with China and instead push for an internal change within China
 
 Such political policies are within the domain of Supersociology just as economic policies are with Supereconomics. 
-
-
