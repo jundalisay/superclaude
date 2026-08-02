@@ -1,12 +1,12 @@
 ---
 heading: Session 60
-title: "Queen' Chamber"
+title: "Queen's Chamber"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
 weight: 161
 date: 1981-01-24
-tags: ['pyramids', '']
+tags: ['pyramids', 'ark of covenant']
 ---
 
 
@@ -73,37 +73,100 @@ This is why we suggested Carla’s thoughts dwelling upon the possibility of its
 
 {{< r a="Don Elkins" >}}The pyramid shape then, as I understand it, was deemed by your social memory complex at that time to be of paramount importance as, shall I say, a physical training aid for spiritual development. At this particular time in the evolution of our planet it seems that you place little or no emphasis on this shape. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. It is our honor/duty to attempt to remove the distortions that the use of this shape has caused in the thinking of your peoples and in the activities of some of your entities. We do not deny that such shapes are efficacious, nor do we withhold the general gist of this efficacy. However, we wish to offer our understanding, limited though it is, that contrary to our naïve beliefs many thousands of your years ago the optimum shape for initiation does not exist.
+{{< l a="Ra" >}}
+Yes. It is our honor/duty to attempt to remove the distortions that the use of this shape has caused in the thinking of your peoples and in the activities of some of your entities.
 
-Let us expand upon this point. When we were aided by sixth-density entities during our own third density experiences we, being less bellicose in the extreme, found this teaching to be of help. In our naïveté in third density we had not developed the interrelationships of your barter or money system and power. We were, in fact, a more philosophical third density planet than your own and our choices of polarity were much more centered about the, shall we say, understanding of sexual energy transfers and the appropriate relationships between self and other-self.
+Such shapes are effective.
 
-We spent a much larger portion of our space/time working with the unmanifested being. In this less complex atmosphere it was quite instructive to have this learn/teaching device and we benefited without the distortions we found occurring among your peoples.
+ <!-- nor do we withhold the general gist of this efficacy.  -->
+
+However, we wish to offer our understanding, limited though it is, that contrary to our naïve beliefs many thousands of your years ago the optimum shape for initiation does not exist.
+
+When we were aided by sixth-density entities during our own third density experiences we, being less bellicose in the extreme, found this teaching to be of help. 
+
+In our naïveté in third density, we had not developed the interrelationships of your barter or money system and power.
+
+We were a more philosophical 3rd density planet than your own.
+
+Our choices of polarity were much more centered around:
+- sexual energy transfers and
+- the appropriate relationships between self and other-self.
+
+We spent a much larger portion of our space/time working with the unmanifested being. 
+
+In this less complex atmosphere it was quite instructive to have this learn/teaching device and we benefited without the distortions we found occurring among your peoples.
 
 We have recorded these differences meticulously in the Great Record of Creation that such naïveté shall not be necessary again.
 
-At this space/time we may best serve you, we believe, by stating that the pyramid for meditation along with other rounded and arched or pointed circular shapes is of help to you. However, it is our observation that due to the complexity of influences upon the unmanifested being at this space/time nexus among your planetary peoples it is best that the progress of the mind/body/spirit complex take place without, as you call them, training aids because when using a training aid an entity then takes upon itself the Law of Responsibility for the quickened or increased rate of learn/teaching. If this greater understanding, if we may use this misnomer, is not put into practice in the moment-by-moment experience of the entity, then the usefulness of the training aid becomes negative.{{< /l >}}
+At this space/time we may best serve you, we believe, by stating that the pyramid for meditation along with other rounded and arched or pointed circular shapes is of help to you. 
 
-{{< r a="Don Elkins" >}}Thank you. I don’t know if this question will result in any usable direction, but I think I must ask it. What was the Ark of the Covenant, and what was its use?{{< /r >}}
+However, it is our observation that due to the complexity of influences upon the unmanifested being at this space/time nexus among your planetary peoples it is best that the progress of the mind/body/spirit complex take place without, as you call them, training aids because when using a training aid an entity then takes upon itself the Law of Responsibility for the quickened or increased rate of learn/teaching. 
 
-{{< l a="Ra" >}}The Ark of the Covenant was that place wherein those things most holy, according to the understanding of the one called Moishe, [were] placed. The article placed therein has been called by your peoples two tablets called the Ten Commandments. There were not two tablets. There was one writing in scroll. This was placed along with the most carefully written accounts by various entities of their beliefs concerning the creation by the One Creator.
+If this greater understanding, if we may use this misnomer, is not put into practice in the moment-by-moment experience of the entity, then the usefulness of the training aid becomes negative.
+{{< /l >}}
 
-This Ark was designed to constitute the place wherefrom the priests, as you call those distorted towards the desire to serve their brothers, could draw their power and feel the presence of the One Creator. However, it is to be noted that this entire arrangement was designed, not by the one known to the Confederation as Yahweh, but rather was designed by negative entities preferring this method of creating an elite called the Sons of Levi.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was this a device for communication then? You said they also drew power from it. What type of power? How did this work?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What was the Ark of the Covenant, and what was its use?{{< /r >}}
 
-{{< l a="Ra" >}}This was charged by means of the materials with which it was built being given an electromagnetic field. It became an object of power in this way and, to those whose faith became that untarnished by unrighteousness or separation, this power designed for negativity became positive and is so, to those truly in harmony with the experience of service, to this day. Thus the negative forces were partially successful but the positively oriented Moishe, as this entity was called, gave to your planetary peoples the possibility of a path to the One Infinite Creator which is completely positive.
+{{< l a="Ra" >}}
+It was where wherein those things most holy, according to the understanding of Moishe were placed.
+
+The article placed therein were 2 tablets called the Ten Commandments.
+
+There were not two tablets. There was one writing in scroll. 
+
+This was placed along with the most carefully written accounts by various entities of their beliefs concerning the creation by the One Creator.
+
+This Ark was designed to constitute the place wherefrom the priests, as you call those distorted towards the desire to serve their brothers, could draw their power and feel the presence of the One Creator.
+
+However, this entire arrangement was designed not by Yahweh but by negative entities who preferred this method of creating an elite called the Sons of Levi.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}Was this a device for communication then? You said they also drew power from it. What type of power? How did this work?
+{{< /r >}}
+
+{{< l a="Ra" >}}This was charged by means of the materials with which it was built being given an electromagnetic field. 
+
+It became an object of power in this way and, to those whose faith became that untarnished by unrighteousness or separation, this power designed for negativity became positive and is so, to those truly in harmony with the experience of service, to this day. 
+
+Thus, the negative forces were partially successful but the positively oriented Moishe, as this entity was called, gave to your planetary peoples the possibility of a path to the One Infinite Creator which is completely positive.
 
 This is in common with each of your orthodox religious systems which have all become somewhat mixed in orientation, yet offer a pure path to the One Creator which is seen by the pure seeker.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Where is the Ark of the Covenant now? Where is it located?{{< /r >}}
 
-{{< l a="Ra" >}}We refrain from answering this query due to the fact that it does still exist and is not that which we would infringe upon your peoples by locating.{{< /l >}}
+{{< r a="Don Elkins" >}}Where is the Ark of the Covenant now?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}Thank you. In trying to understand the energies, creative energies, it has occurred to me that I really do not understand why unusable heat is generated as our Earth moves from third into fourth density. I know it has to do with disharmony between the vibrations of third and fourth density but why this would show up as a physical heating within the Earth is beyond me. Can you enlighten me on that?{{< /r >}}
+{{< l a="Ra" >}}
+We refrain from answering this query due to the fact that it does still exist and is not that which we would infringe upon your peoples by locating.
+{{< /l >}}
 
-{{< l a="Ra" >}}The concepts are somewhat difficult to penetrate in your language. However, we shall attempt to speak to the subject. If an entity is not in harmony with its circumstances it feels a burning within. The temperature of the physical vehicle does not yet rise, only the heat of the temper or the tears, as we may describe this disharmony. However, if an entity persists for a long period of your space/time in feeling this emotive heat and disharmony, the entire body complex will begin to resonate to this disharmony, and the disharmony will then show up as the cancer or other degenerative distortion from what you call health.
+{{< r a="Don Elkins" >}}
+I do not understand why unusable heat is generated as our Earth moves from 3rd into 4th density.
 
-When an entire planetary system of peoples and cultures repeatedly experiences disharmony on a great scale the earth under the feet of these entities shall begin to resonate with this disharmony. Due to the nature of the physical vehicle, disharmony shows up as a blockage of growth or an uncontrolled growth since the primary function of a mind/body/spirit complex’s bodily complex is growth and maintenance. In the case of your planet the purpose of the planet is the maintenance of orbit and the proper location or orientation with regards to other cosmic influences. In order to have this occurring properly the interior of your sphere is hot in your physical terms. Thus instead of uncontrolled growth you begin to experience uncontrolled heat and its expansive consequences.{{< /l >}}
+I know it has to do with disharmony between the vibrations of third and fourth density but why this would show up as a physical heating within the Earth is beyond me.{{< /r >}}
+
+{{< l a="Ra" >}}
+The concepts are somewhat difficult to penetrate in your language. 
+
+If an entity is not in harmony with its circumstances it feels a burning within. 
+
+The temperature of the physical vehicle does not yet rise, only the heat of the temper or the tears, as we may describe this disharmony. 
+
+However, if an entity persists for a long period in feeling this emotive heat and disharmony, the entire body complex will begin to resonate to this disharmony.
+
+This will then show up as the cancer or other diseases.
+
+ <!-- degenerative distortion from what you call health. -->
+
+When an entire planetary system of peoples and cultures repeatedly experiences disharmony on a great scale the earth under the feet of these entities shall begin to resonate with this disharmony. 
+
+Due to the nature of the physical vehicle, disharmony shows up as a blockage of growth or an uncontrolled growth since the primary function of a mind/body/spirit complex’s bodily complex is growth and maintenance. In the case of your planet the purpose of the planet is the maintenance of orbit and the proper location or orientation with regards to other cosmic influences. 
+
+In order to have this occurring properly the interior of your sphere is hot in your physical terms. Thus instead of uncontrolled growth you begin to experience uncontrolled heat and its expansive consequences.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Is the Earth solid all the way through from one side to the other?{{< /r >}}
 

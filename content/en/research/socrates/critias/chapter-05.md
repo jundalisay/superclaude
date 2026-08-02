@@ -3,34 +3,84 @@ heading: "Chapter 5"
 title: "The Atlanteans"
 description: ""
 date: 2025-12-20
-weight: 4
+weight: 17
 c: "seagreen"
 ---
 
 
-As to the population, each of the lots in the plain had to find a leader for the men who were fit for military service, and the size of a lot was a square of ten stadia each way, and the total number of all the lots was sixty thousand.
+As to the population, each of the lots in the plain had to find a leader for the men who were fit for military service.
 
-Of the inhabitants of the mountains and of the rest of the country there was also a vast multitude, which was distributed among the lots and had leaders assigned to them according to their districts and villages. 
+The size of a lot was a square of 10 stadia each way.
 
-The leader was required to furnish for the war the sixth portion of a war-chariot, so as to make up a total of ten thousand chariots; also two horses and riders for them, and a pair of chariot-horses without a seat, accompanied by a horseman who could fight on foot carrying a small shield, and having a charioteer who stood behind the man-at-arms to guide the two horses; also, he was bound to furnish two heavy-armed soldiers, two archers, two slingers, three stone-shooters and three javelin-men, who were light-armed, and four sailors to make up the complement of twelve hundred ships. Such was the military order of the royal city—the order of the other nine governments varied, and it would be wearisome to recount their several differences.
+The total number of all the lots was 60,000.
 
-As to offices and honours, the following was the arrangement from the first. Each of the ten kings in his own division and in his own city had the absolute control of the citizens, and, in most cases, of the laws, punishing and slaying whomsoever he would. 
+The vast population:
+- was distributed among the lots
+- had leaders assigned to them according to their districts and villages. 
 
-The order of precedence among them and their mutual relations were regulated by the commands of Poseidon which the law had handed down. These were inscribed by the first kings on a pillar of orichalcum, which was situated in the middle of the island, at the temple of Poseidon, whither the kings were gathered together every fifth and every sixth year alternately, thus giving equal honour to the odd and to the even number.
+<!-- Of the inhabitants of the mountains and of the rest of the country there was also a vast multitude, which was  -->
 
-When they were gathered together they consulted about their common interests, and enquired if any one had transgressed in anything, and passed judgment, and before they passed judgment they gave their pledges to one another on this wise:—There were bulls who had the range of the temple of Poseidon; and the ten kings, being left alone in the temple, after they had offered prayers to the god that they might capture the victim which was acceptable to him, hunted the bulls, without weapons, but with staves and nooses; and the bull which they caught they led up to the pillar and cut its throat over the top of it so that the blood fell upon the sacred inscription. 
+The leader was required to furnish for the war:
+- the sixth portion of a war-chariot, so as to make up a total of 10,000 chariots
+- 2 horses and riders for them
+- a pair of chariot-horses without a seat, accompanied by a horseman who could fight on foot carrying a small shield, and having a charioteer who stood behind the man-at-arms to guide the 2 horses
 
-Now on the pillar, besides the laws, there was inscribed an oath invoking mighty curses on the disobedient. When therefore, after slaying the bull in the accustomed manner, they had burnt its limbs, they filled a bowl of wine and cast in a clot of blood for each of them; the rest of the victim they put in the fire, after having purified the column all round.
+He was bound to furnish:
+- 2 heavy-armed soldiers
+- 2 archers
+- 2 slingers
+- 3 stone-shooters
+- 3 javelin-men, who were light-armed
+- 4 sailors to make up the complement of 1,200 ships.
 
-Then they drew from the bowl in golden cups, and pouring a libation on the fire, they swore that they would judge according to the laws on the pillar, and would punish him who in any point had already transgressed them, and that for the future they would not, if they could help, offend against the writing on the pillar, and would neither command others, nor obey any ruler who commanded them, to act otherwise than according to the laws of their father Poseidon. 
+Such was the military order of the royal city—the order of the other 9 governments varied.
+
+It would be wearisome to recount their several differences.
+
+As to offices and honours, the following was the arrangement from the first. 
+
+Each of the 10 kings in his own division and in his own city had the absolute control of the citizens, and, in most cases, of the laws, punishing and slaying whomsoever he would. 
+
+The order of precedence among them and their mutual relations were regulated by the commands of Poseidon which the law had handed down. 
+
+These were inscribed by the first kings on a pillar of orichalcum, which was situated in the middle of the island, at the temple of Poseidon.
+- The kings were gathered together there every 5th and every 6th year alternately, thus giving equal honour to the odd and to the even number.
+
+When they were gathered together they consulted about their common interests, and enquired if any one had transgressed in anything, and passed judgment.
+
+Before they passed judgment, they gave their pledges to one another on this wise:
+
+There were bulls who had the range of the temple of Poseidon.
+
+The 10 kings, being left alone in the temple, after they had offered prayers to the god that they might capture the victim which was acceptable to him, hunted the bulls without weapons but with staves and nooses.
+
+The bull which they caught they led up to the pillar and cut its throat over the top of it so that the blood fell on the sacred inscription. 
+
+Now on the pillar, besides the laws, there was inscribed an oath invoking mighty curses on the disobedient. 
+
+When therefore, after slaying the bull in the accustomed manner, they had burnt its limbs, they filled a bowl of wine and cast in a clot of blood for each of them; the rest of the victim they put in the fire, after having purified the column all round.
+
+Then they drew from the bowl in golden cups and poured a libation on the fire.
+
+They swore that they:
+- would judge according to the laws on the pillar
+- would punish him who in any point had already transgressed them
+- would not offend against the writing on the pillar
+- would neither command others, nor obey any ruler who commanded them, to act otherwise than according to the laws of their father Poseidon. 
 
 This was the prayer which each of them offered up for himself and for his descendants, at the same time drinking and dedicating the cup out of which he drank in the temple of the god; and after they had supped and satisfied their needs, when darkness came on, and the fire about the sacrifice was cool, all of them put on most beautiful azure robes, and, sitting on the ground, at night, over the embers of the sacrifices by which they had sworn, and extinguishing all the fire about the temple, they received and gave judgment, if any of them had an accusation to bring against any one; and when they had given judgment, at daybreak they wrote down their sentences on a golden tablet, and dedicated it together with their robes to be a memorial.
 
-There were many special laws affecting the several kings inscribed about the temples, but the most important was the following: They were not to take up arms against one another, and they were all to come to the rescue if any one in any of their cities attempted to overthrow the royal house; like their ancestors, they were to deliberate in common about war and other matters, giving the supremacy to the descendants of Atlas. And the king was not to have the power of life and death over any of his kinsmen unless he had the assent of the majority of the ten.
+There were many special laws affecting the several kings inscribed about the temples, but the most important was the following: 
+
+They were not to take up arms against one another, and they were all to come to the rescue if any one in any of their cities attempted to overthrow the royal house; like their ancestors, they were to deliberate in common about war and other matters, giving the supremacy to the descendants of Atlas.
+
+The king was not to have the power of life and death over any of his kinsmen unless he had the assent of the majority of the ten.
 
 Such was the vast power which the god settled in the lost island of Atlantis.
 
-This he afterwards directed against our land for the following reasons, as tradition tells: For many generations, as long as the divine nature lasted in them, they were obedient to the laws, and well-affectioned towards the god, whose seed they were.
+This he afterwards directed against our land for the following reasons, as tradition tells: 
+
+For many generations, as long as the divine nature lasted in them, they were obedient to the laws, and well-affectioned towards the god, whose seed they were.
 
 They possessed true and great spirits, uniting gentleness with wisdom in the various chances of life, and in their intercourse with one another.
 

@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "The Sons of Poseidon [Enki]"
 description: ""
 date: 2025-12-20
-weight: 6
+weight: 9
 c: "seagreen"
 ---
 

@@ -71,38 +71,81 @@ Should I dangle a weight 2 feet below my hand and place it over the body, and wh
 
 {{< r a="Don Elkins" >}}Does it matter if the pyramid is solid or is made of four thin sides, or is there a difference in effect between those two makes?{{< /r >}}
 
-{{< l a="Ra" >}}As an energy collector, the shape itself is the only requirement. From the standpoint of the practical needs of your body complexes, if one is to house one’s self in such a shape, it is well that this shape be solid sided in order to avoid being inundated by outer stimuli.{{< /l >}}
+{{< l a="Ra" >}}
+As an energy collector, the shape itself is the only requirement. 
 
-{{< r a="Don Elkins" >}}Then if I just used a wire frame that were four pieces of wire and joined at the apex running down to the base, and the pyramid were totally open, this would do the same thing to the spiraling light energy? Is this correct?{{< /r >}}
+From the standpoint of the practical needs of your body complexes, if one is to house one’s self in such a shape, it is well that this shape be solid sided in order to avoid being inundated by outer stimuli.
+{{< /l >}}
 
-{{< l a="Ra" >}}The concept of the frame as equal to the solid form is correct. However, there are many metals not recommended for use in pyramid shapes designed to aid the meditative process. Those that are recommended are, in your system of barter, what you call expensive. The wood, or other natural materials, or the man-made plastic rods will also be of service.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Why is the spiraling light focused by something as open and simple as four wooden rods joined at an apex angle?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Then if I just used a wire frame that were four pieces of wire and joined at the apex running down to the base, and the pyramid were totally open, this would do the same thing to the spiraling light energy?
+{{< /r >}}
 
-{{< l a="Ra" >}}If you pictured light in the metaphysical sense, as water, and the pyramid shape as a funnel, this concept might become self-evident.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I can see how a solid-sided pyramid would act as a funnel. It seems to me that using just the four rods joined at the apex angle would be less efficient. Can you tell me how they are equivalent to the solid-sided pyramid?{{< /r >}}
+{{< l a="Ra" >}}
+The concept of the frame as equal to the solid form is correct. 
 
-{{< l a="Ra" >}}They are unequal in space/time, and we recommend for practical use the solid-sided pyramid or other focusing shape in order to give your physical bodily complexes respite from outside noise, rain, and other distractions to meditation. However, in time/space one is concerned with the electro-magnetic field produced by the shape. An equivalent field is produced by the solid and the open shape. Light is influenced metaphysically by this field rather than by visible shapes.{{< /l >}}
+However, there are many metals not recommended for use in pyramid shapes designed to aid the meditative process. 
 
-{{< r a="Don Elkins" >}}Thank you, that explains it nicely. I apologize for asking so many stupid questions on this, but I am really functioning here with very little knowledge. I do not wish to get into subject matter of no importance. 
+Those that are recommended are, in your system of barter, expensive. 
 
+The wood, or other natural materials, or the man-made plastic rods will also be of service.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Why is the spiraling light focused by something as open and simple as four wooden rods joined at an apex angle?{{< /r >}}
+
+{{< l a="Ra" >}}If you pictured light in the metaphysical sense, as water, and the pyramid shape as a funnel, this concept might become self-evident.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+I can see how a solid-sided pyramid would act as a funnel. 
+
+It seems to me that using just the four rods joined at the apex angle would be less efficient. Can you tell me how they are equivalent to the solid-sided pyramid?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+They are unequal in space/time, and we recommend for practical use the solid-sided pyramid or other focusing shape in order to give your physical bodily complexes respite from outside noise, rain, and other distractions to meditation.
+
+However, in time/space one is concerned with the electro-magnetic field produced by the shape. An equivalent field is produced by the solid and the open shape. 
+
+Light is influenced metaphysically by this field rather than by visible shapes.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
 I had assumed [that] questions about the pyramid were desired by you due to the fact that some danger was involved to some who had misused the pyramid, etc. 
 
 I am trying to understand the way light works and trying to get a grasp of how everything works together, and I was hoping that questions in this area on the pyramid would help me understand the third distortion, I’ll say, which is light. 
 
-Now, as I understand it, the pyramid shape acts as a funnel, in this way increasing the, I’ll say density of energy so that the individual may have a greater intensity of actually the third distortion. Is this correct?{{< /r >}}
+The pyramid shape acts as a funnel increasing the density of energy so that the individual may have a greater intensity of actually the third distortion.
+{{< /r >}}
 
-{{< l a="Ra" >}}In general, this is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the pure crystalline shape, such as the diamond, you mentioned as being frozen light— it seems that this third density physical manifestation of light is somehow a window or focusing mechanism for the third distortion in the general sense. Is this correct?{{< /r >}}
+{{< l a="Ra" >}}
+In general, this is correct.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Then the pure crystalline shape, such as the diamond, you mentioned as being frozen light— it seems that this third density physical manifestation of light is somehow a window or focusing mechanism for the third distortion in the general sense.
+{{< /r >}}
+
 
 {{< l a="Ra" >}}This is basically correct. However, it may be noted that only the will of the crystallized entity may cause interdimensional light to flow through this material. The more regularized the entity, and the more regularized the crystal, the more profound the effect.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}There are many people who are now bending metal, doing other things like that by mentally requesting this happen. What is happening in that case? What are they— Can you explain what’s happening there?{{< /r >}}
 
-{{< l a="Ra" >}}That which occurs in this instance may be likened to the influence of the second spiral of light in a pyramid being used by an entity. As this second spiral ends at the apex, the light may be likened unto a laser beam in the metaphysical sense and when intelligently directed may cause bending not only in the pyramid, but this is the type of energy which is tapped into by those capable of this focusing of the upward spiraling light. This is made possible through contact in indigo ray with intelligent energy.{{< /l >}}
+{{< l a="Ra" >}}
+That which occurs in this instance may be likened to the influence of the second spiral of light in a pyramid being used by an entity. 
+
+As this second spiral ends at the apex, the light may be likened unto a laser beam in the metaphysical sense and when intelligently directed may cause bending not only in the pyramid, but this is the type of energy which is tapped into by those capable of this focusing of the upward spiraling light. This is made possible through contact in indigo ray with intelligent energy.
+{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}Why are these people able to do this? They seem to have no training; they just are able to do it.{{< /r >}}
 
@@ -123,10 +166,27 @@ Now, as I understand it, the pyramid shape acts as a funnel, in this way increas
 For instance, as an entity develops through his indigo would a signpost of his development be this bending?{{< /r >}}
 
 
+{{< l a="Ra" >}}
+Let us specify the 3 spirals of light energy which the pyramid exemplifies. 
 
-{{< l a="Ra" >}}This will be the last full query of this working. Let us specify the three spirals of light energy which the pyramid exemplifies. Firstly, the fundamental spiral which is used for study and for healing. Second, the spiral to the apex which is used for building. Thirdly, the spiral spreading from the apex which is used for energizing. Contact with indigo ray need not necessarily show itself in any certain gift or guidepost, as you have said. There are some whose indigo energy is that of pure being and never is manifested, yet all are aware of such an entity’s progress. Others may teach or share in many ways contact with intelligent energy. Others continue in unmanifested form, seeking intelligent infinity. Thus the manifestation is a lesser signpost than that which is sensed or intuited about a mind/body/spirit complex. This violet-ray beingness is far more indicative of true self. Are there any brief queries or small matters we may clear up, if we can, before we leave Carla?{{< /l >}}
+1. The fundamental spiral which is used for study and for healing.
+2. The spiral to the apex which is used for building.
+3. The spiral spreading from the apex which is used for energizing. 
 
-{{< r a="Don Elkins" >}}Well, I did have a question on what you meant by the “third spiral” and if that is too long I would just ask if there is anything that we can do to make Carla more comfortable or improve the contact?{{< /r >}}
+Contact with indigo ray need not necessarily show itself in any certain gift or guidepost. 
 
-{{< l a="Ra" >}}We may answer briefly. If you picture the candle flame, you may see the third spiral.{{< /l >}}
+There are some whose indigo energy is that of pure being and never is manifested, yet all are aware of such an entity’s progress. 
+
+Others may teach or share in many ways contact with intelligent energy. Others continue in unmanifested form, seeking intelligent infinity. 
+
+Thus the manifestation is a lesser signpost than that which is sensed or intuited about a mind/body/spirit complex. This violet-ray beingness is far more indicative of true self. 
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+What do you mean by the “third spiral”?{{< /r >}}
+
+{{< l a="Ra" >}}
+The candle flame is an example of the third spiral.
+{{< /l >}}
 
