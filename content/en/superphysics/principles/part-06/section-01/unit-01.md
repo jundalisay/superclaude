@@ -4,7 +4,7 @@ title: "The 3 Actions of the Mind"
 date: 2020-12-06
 image: /photos/meta/read.jpg
 weight: 4
-description: "Everything in existence is an idea of the Creator of that existence"
+description: "The 3 Actions match the 3 gunas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,8 +12,6 @@ icon: "Juan"
 aliases:
   /superphysics/principles/chapter-08/section-07
 ---
-
-
 
 
 Everything already pre-exists in Existence as the Supreme Entity.
@@ -45,13 +43,22 @@ The operations of the mind are most intimately present to us. Yet, whenever we r
 
 This Mind has 3 actions due to the 2 Forces. This matches the 3 Gunas or Influences:
 
-1. Flow (association, expansion)
+
+Action | Guna | Thinking Example 
+--- | --- | --- 
+Flow | Upper | Moving from an idea to another 
+Force | Mid | Being attracted or repulsed by an idea
+Memory | Lower | Short or Long term
+
+
+
+### 1. Flow (association, expansion)
 
 This is the most natural action showing the "All-ness" of Existence. The flow includes logic or how the waves of the mind naturally jumps from one idea or node to another, even without thinking.
  
 Thinking makes the jumping more forceful, which is really just adding to the flow
 
-2. Force (attraction / repulsion)
+### 2. Force (attraction / repulsion)
 
 Quantification or digitization or digitalization are effects of the repulsion to the continuous analog flow.
 
@@ -62,11 +69,9 @@ This arises from counting discrete identities as instances.
 This makes each instance or number a unique identity itself, each with its own quality that is revealed when they are processed with other identities.
 
 
-3. Memory or storage
+### 3. Memory or storage
 
-This takes the form of notation.
-
-We call these 3 the operations of the mind.
+This takes the form of notation and is the opposite of flow.
 
 
 {{< i s="/graphics/super/actions.jpg" a="3 Actions" >}}
