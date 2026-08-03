@@ -177,7 +177,8 @@ I am assuming if we used the same geometrical configuration that is used at the 
 {{< l a="Ra" >}} For energy through the apex angle the Giza pyramid offers an excellent model. Simply be sure the pyramid is so small that there is no entity small enough to crawl inside it. {{< /l >}}
 
 
-{{< r a="Don Elkins" >}} <sup>66.26</sup> I assume that this energy then, this spiraling light energy, is somehow absorbed by the energy field of the body. Is this somehow connected to the indigo energy center?{< /r >}}
+{{< r a="Don Elkins" >}} <sup>66.26</sup> I assume that this energy then, this spiraling light energy, is somehow absorbed by the energy field of the body. Is this somehow connected to the indigo energy center?
+{{< /r >}}
 
 
 {{< l a="Ra" >}}
@@ -194,7 +195,10 @@ This is a radiation much like your sun’s rays. Thus it should be used with car
 
 {{< l a="Ra" >}} There is no application for direct healing using this energy although, if used in conjunction with meditation, it may offer to a certain percentage of entities some aid in meditation. In most cases it is most helpful in alleviating weariness and in the stimulation of physical or sexual activity. {{< /l >}}
 
-{{< r a="Don Elkins" >}} <sup>66.29</sup> In a transition from third to fourth density we have two other possibilities other than the type that we are experiencing now. We have the possibility of a totally positively polarized harvest and the possibility of a totally negatively polarized harvest that I understand have occurred elsewhere in the universe many times. When there is a totally negatively polarized harvest, when a whole planet, that is, has negatively polarized and makes the transition from third to fourth density, does the planet have the experience of the distortion of disease that this planet now experiences prior to that transition? {{< /r >}}
+{{< r a="Don Elkins" >}} 
+<sup>66.29</sup> In a transition from third to fourth density we have two other possibilities other than the type that we are experiencing now. We have the possibility of a totally positively polarized harvest and the possibility of a totally negatively polarized harvest that I understand have occurred elsewhere in the universe many times.
+
+When there is a totally negatively polarized harvest, when a whole planet, that is, has negatively polarized and makes the transition from third to fourth density, does the planet have the experience of the distortion of disease that this planet now experiences prior to that transition? {{< /r >}}
 
 {{< l a="Ra" >}} You are perceptive. The negative harvest is one of intense disharmony and the planet will express this. {{< /l >}}
 
