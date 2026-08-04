@@ -42,11 +42,6 @@ Yet
 
 
 
-
-
-
-
-
 One sound bears the same respect to another sound, that one string bears to another string: but in every string that is greater, all the other strings, that are lesse, are comprehended; though every string that is longer, doth not comprehend all the others, that are shorter: and therfore also in every Graver Sound, all others more Acute are comprehended; but not, on the contrary, in every Acuter Sound are the more Grave comprehended: whence it is evident, that the more Acute Termis to be found by the Division of the more Grave. Which Division that it ought to be Arithmeticall, i. e. into equall parts, is consequent from what was before observed in the sixth Præconsiderable.
 
 [Diagram of a line A to B with points D,C,E marked at specific intervals: 0 at A, 2 at D, 3 at C, 4 at E, and 6 at B.]
@@ -104,32 +99,3 @@ Ratio	Interval Name	Ratio	Interval Name	Ratio	Interval Name	Ratio	Interval Name	
 
 Here wee have not set downe all Consonances that are; in regard, that, to our more facile Invention of the rest, requisite it is that we first treat
 Of MUSIc.
-
-
-
-
-
-
-
-
-
-
-[11.] All *Harmonical Compositions* are performed by *Addition* of their [text cut off]
-
-their *Rations*, and Divisions by *Subduction*: *viz.*, Addition, by a Multiplication of the like *Terms*, or Collaterally thus =:
-Subtraction by a Multiplication of the *unlike* Terms, or obliquely thus X:
-
-For Example.
-
-1/2 + 1/3 = 5/6, i.e. \(\Delta 4 + \Delta 5 = \Delta 8\). B + + + + + + + + +
-1/2 + 1/3 = 5/6, i.e. \(\Delta 4 + \Delta 5 = \Delta 8\). W + 1/2 x 2/3 = + 3/5 1/2 x 2/3 = 3/5.
-1/2 - 1/3 = 1/6, i.e. \(\Delta 5 - \Delta 4 = \Delta 2\) Major. X + + + + + + + + + 1/2 - 1/3 = 1/6.
-1/2 - 1/3 = 1/6, i.e. \(\Delta 5 - \Delta 4 = \Delta 2\) Major. X 1/2 x 3/5 + 12/10 + 1/2 x 3/5 + 9/15 + 9/15 = 1/2 x 3/5 = 1/2x3/5 = ?
-
-as is visible from the divisions on the *foure Chordes* adjoyning.
-
-[12.] As may be seen in *Fig. An. 10*.
-
-[13.] That is, the double of the lesser *Term*, with the greater, giveth the excesse thereof above an *Eight*, *viz.*, if the Intervall exceedeth not a *Fifteenth*: but if they be further distant than a Fifteenth, yet not exceeding a *Two and twentieth*, then two Eights is to be added to the lesser Term 3, *i. e.*, it must be multiplied by four, &c.
-
-[14.] See the division of *AB* into 3: *An. 10. Arithmetically* thus: 1/2 - 1/3 = 1/6 X.

@@ -42,7 +42,7 @@ Hence also is it manifest, that Degrees cannot divide a whole Eighth, unless the
 
 
 
-42 A COMPENDIUM Of MUSICK. 43
+42
 
 **SUPERIUS.** | **TENORE.**
 --- | ---

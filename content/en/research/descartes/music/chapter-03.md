@@ -46,35 +46,6 @@ For satisfaction wherein, as in all things else practicall in Musick, not necess
 
 
 
-[8] That is, *is Four or Seven Notes higher*: For the Fifth is the *Fourth* from the First, and the Eight is the *Seventh*, &c.
-The knowledge of which *Notes*, together with all other *Consonances*, and *Musical Intervalls* (some few excepted, not now in use,) may be, without difficulty, obtained by inspection on the first Figure following.
-
-[Diagram top left]
-Exces. 8 7 6 5 4 3 2
-1 2 3 4 5 6 7 8
-Inclus. 1 2 3 4 5 6 7 8
-
-[Diagram bottom left]
-Inclus. 8 7 6
-1 2 3 4
-Exces. 1 2 3
-
-Whereof the Space from the Bridge to the Nuts, is understood to be divided into 540, or 10000 equall parts: the Number of which parts (accounting from the Bridge) to each equall division of the foure Chords, or Strings, numbred at the Bridge 1, 2, 3, 4; is to be found on the Right hand. The first (B o) presents you all the Intervalls under an *Eight*, and their proportions, names, and differences by parallel entrance towards the Right hand, and is thus to be read: *viz.*, Bo [542, or 10000], is to B 1 [5184, or 9600], as 25, to 24, as an *Unison*, to its Acute *Semitone minus*: Bo [540, or 10000], B 2 [50625, or 9375] :: 16, 15 :: *Unison, Sem major*; B 2 [270, or 5000], B 20 [28125, or 5208] :: 24, 25 :: *Unison, Sem minor*; B 21 [270, or 5000], B 19 [288, or 5·333] :: 15, 16 :: *Unison, Sem major*: The *Habitues*, or Proportion of B 1, to B 2, or of B 2, to B 1; or the difference of a *Semitone minus*, and *major*, or of a *Seventh major*, and *Semi-Eight*, is a *Diesis minor*, &c.
-Hence it appeareth that B o, if struck, when stop'd at 1, doth found a *Semitone minus* more acute, than if it doth, if struck, when unstop'd or open: and that a *Semitone minor* (as 01) is of the 25, and is subtracted from it, and 24 of the 25, and is added to it. And the like (*mutatis mutandis*) in all the Rest.
-The *Second Cord* (V F) is divided according to the *Third* (1 F) according to ♮, that is, from F to F as in the Scale, P. 41. And the *Fourth* (W A), as the like *instruments* are usually fitted.
-Thus having all the *Intervalls* under an *Eight*, those above are easily known: for they are all compounded either of one, or more Eights only, as the *Fifteenth*, *Two & twentieth*, *Nine and twentieth*, &c. or else of one, or more Eights, and some one of these. And (therefore) as B o was divided, to make the first few *Notes* after, above the *Unison*, so is B 21 understood to be divided, to make the seven next after, or above the *Diapason*, &c. *ad infinitum*.
-I Yet
-
-***
-
-*Note: In the diagram on the left page, the text is quite small and blurry. I have provided the clearest transcription possible of the visible portions of the two small circles. The horizontal musical note table at the top is represented schematically due to the limitations of text formatting for symbols.*
-
-
-
-
-
-
-
 But thus, where the last seconds are the half part of the first, and so there is only a double proportion multiplyed.
 
 From these two kinds of proportions in Time, there arise 2 kinds of Measures in Music:
