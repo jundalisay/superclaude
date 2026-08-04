@@ -12,45 +12,43 @@ description: ""
 
 Sunday, April 8, 1883
 
-It was Sunday morning. The Master, looking like a boy, was seated in his room, and
-near him was another boy, his beloved disciple Rakhal. M. entered and saluted the
-Master. Ramlal also was in the room, and Kishori, Manilal Mallick, and several other
-devotees gathered by and by.
+It was Sunday morning. The Master, looking like a boy, was seated in his room, and near him was another boy, his beloved disciple Rakhal. M. entered and saluted the
+Master. Ramlal also was in the room, and Kishori, Manilal Mallick, and several other devotees gathered by and by.
 
-Manilal Mallick, a business man, had recently been to Benares, where he owned a
-bungalow.
+Manilal Mallick, a business man, had recently been to Benares, where he owned a bungalow.
 
 
 ## Trailang a Swami and Bhāskarānanda
 
-MASTER: "So you have been to Benares. Did you see any holy men there?"
 
-MANILAL: "Yes, sir.
+{{< l a="Ramakrishna" >}}"So you have been to Benares. Did you see any holy men there?"{{< /l >}}
 
-I paid my respects to Trailanga Swami, Bhaskarananda, and others
+{{< r a="Manilal" >}}"Yes, sir.
 
-MASTER: "Tell us something about them."
+I paid my respects to Trailanga Swami, Bhaskarananda, and others{{< /r >}}
 
-MANILAL: "Trailanga Swami is living in the same temple where he lived before-on the
+{{< l a="Ramakrishna" >}}"Tell us something about them."{{< /l >}}
+
+{{< r a="Manilal" >}}"Trailanga Swami is living in the same temple where he lived before-on the
 Manikarnika Ghat; near the Benimadhav Minaret. People say he was formerly in a more
 exalted spiritual state. He could perform many miracles. Now he has lost much of that
-power."
+power."{{< /r >}}
 
-MASTER: "That is the criticism of worldly people."
+{{< l a="Ramakrishna" >}}"That is the criticism of worldly people."{{< /l >}}
 
-MANILAL: "Trailanga Swami keeps a strict vow of silence. Unlike him, Bhaskarananda is
-friendly with all."
+{{< r a="Manilal" >}}"Trailanga Swami keeps a strict vow of silence. Unlike him, Bhaskarananda is
+friendly with all."{{< /r >}}
 
-MASTER: "Did you have any conversation with Bhaskarananda?"
+{{< l a="Ramakrishna" >}}"Did you have any conversation with Bhaskarananda?"{{< /l >}}
 
-MANILAL: "Yes, sir. We had a long talk. Among other things we discussed the problem
+{{< r a="Manilal" >}}"Yes, sir. We had a long talk. Among other things we discussed the problem
 of good and evil. He said to me: 'Don't follow the path of evil. Give up sinful thoughts.
-That is how God wants us to act. Perform only those duties that are virtuous.' "
+That is how God wants us to act. Perform only those duties that are virtuous.' "{{< /r >}}
 
 
 ## The seer of God transcends good and evil
 
-MASTER: "Yes, that is also a path, meant for worldly-minded people. But those whose
+{{< l a="Ramakrishna" >}}"Yes, that is also a path, meant for worldly-minded people. But those whose
 spiritual consciousness has been awakened, who have realized that God alone is real and
 all else illusory, cherish a different ideal. They are aware that God alone is the Doer and
 others are His instruments.
@@ -63,11 +61,11 @@ machine and He is the Operator. I do as He does through me. I speak as He speaks
 through me. I move as He moves me.'
 
 "Fully awakened souls are beyond virtue and vice. They realize that it is God who does
-everything.
+everything.{{< /l >}}
 
 ## Seeing God in everything
 
-"There was a monastery in a certain place. The monks residing there went out daily to
+{{< l a="Ramakrishna" >}}"There was a monastery in a certain place. The monks residing there went out daily to
 beg their food. One day a monk, while out for his alms, saw a landlord beating a man
 mercilessly. The compassionate monk stepped in and asked the landlord to stop. But
 the landlord was filled with anger and turned his wrath against the innocent monk. He
@@ -80,23 +78,23 @@ monks said, 'Let us see whether he is fully conscious and can recognize us.' Sho
 into his ear, he said, 'Revered sir, who is giving you milk?' 'Brother,' replied the holy
 man in a low voice, 'He who beat me is now giving me milk.'
 
-"But one does not attain such a state of mind without the realization of God."
+"But one does not attain such a state of mind without the realization of God."{{< /l >}}
 
-MANILAL: "Sir, what you have just said applies to a man of a very lofty spiritual state. I talked on such topics in a general way with Bhaskarananda." 
+{{< r a="Manilal" >}}"Sir, what you have just said applies to a man of a very lofty spiritual state. I talked on such topics in a general way with Bhaskarananda." {{< /r >}}
 
-MASTER: "Does he live in a house?"
+{{< l a="Ramakrishna" >}}"Does he live in a house?"{{< /l >}}
 
-MANILAL: "Yes, sir. He lives with a devotee."
+{{< r a="Manilal" >}}"Yes, sir. He lives with a devotee."{{< /r >}}
 
-MASTER: "How old is he now?"
+{{< l a="Ramakrishna" >}}"How old is he now?"{{< /l >}}
 
-MANILAL: "About fifty-five."
+{{< r a="Manilal" >}}"About fifty-five."{{< /r >}}
 
-MASTER: "Did you talk about anything else?"
+{{< l a="Ramakrishna" >}}"Did you talk about anything else?"{{< /l >}}
 
-MANILAL: "I asked him how to cultivate bhakti. He said: 'Chant the name of God. Repeat the name of Rāma.' "
+{{< r a="Manilal" >}}"I asked him how to cultivate bhakti. He said: 'Chant the name of God. Repeat the name of Rāma.' "{{< /r >}}
 
-MASTER: "That is very good."
+{{< l a="Ramakrishna" >}}"That is very good."{{< /l >}}
 
 The worship was over in the temples and the bells rang for the food offerings in the shrines. As it was a summer noon the sun was very hot. The flood-tide began in the Ganges and a breeze came up from the south. Sri Ramakrishna was resting in his room
 after his meal. 
@@ -104,10 +102,10 @@ after his meal.
 The people of Basirhat, Rakhal 's birth-place, had been suffering from a severe drought
 during the summer months.
 
-MASTER (to Manilal): "Rakhal says that the people in his native village have been
+{{< l a="Ramakrishna" >}}"Rakhal says that the people in his native village have been
 suffering seriously from a scarcity of water. Why don't you build a reservoir there? That
 will do the people good. (Smiling) You have so much money; what will you do with all
-your wealth? But they say that telis are very calculating." 
+your wealth? But they say that telis are very calculating."{{< /l >}}
 
 (All laugh.)
 

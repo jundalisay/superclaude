@@ -23,6 +23,9 @@ $$E = G_l$$
 - G : Gravitational Signature or Svadharma
 - l : Layer or Element
 
+This also replaces the mass-energy equivalence of the scammer Einstein.
+
+
 ### Active Eagle
 
 $$F = D(G_l) + R(G_l) = \frac{G_l}{G_{ratio} \cdot r^n} + \frac{G_l \cdot \Omega_l}{c^k \cdot r^m}$$
@@ -39,16 +42,34 @@ $$F = D(G_l) + R(G_l) = \frac{G_l}{G_{ratio} \cdot r^n} + \frac{G_l \cdot \Omega
 
 $$\frac{GMm}{r^{2}}+\frac{3GmML^{2}}{c^{2}r^{4}}$$
 
+Relativity is replaced with the Eagle which uses Descartes' 4 rules of motions
+
+This:
+- adds spacetime slices to mass via the aetherspace
+- adds vortex rotation to inertia which has the imaginary number and Planck's constant
+
+The bending is done by the density difference between spacetime or aether particles, not by the warping of spacetime by mass.
+
+
 
 ### Time Dilation (Alternative to Special Relativity)
 
-$$\Delta t' = \frac{\Delta t}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$$
+$$\Delta t' = \frac{-i \cdot \Delta t}{\sqrt{\frac{v^2}{c^2}-1}}$$
+
+Time dilation is based on the frequency or density difference of the body or aetherspace with the aether, and not be speed. Rather the speed is the effect of the density differences. 
 
 - $v$ : **timespace vibrational frequency** instead of velocity
 
 When integrated with gravity:
 
-$$\Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{1}{c^2}\left(\frac{GM}{r} + \frac{3GML^2}{c^2 r^3}\right) \cdot 2}}$$
+
+<!-- - The **Photo-electric effect** is replaced with Tesla. Light is a ball when it has enough energy. 
+- **Einstein-Bose condensate** is replaced with Bose. The removal of energy converts the electromagnetism in gas from a ball into a wave. This is simply the reverse of the Photo-electric effect.
+- **Brownian Motion** is replaced with Kelvin. High energy causes the electromagnetism in matter to make the matter spread faster and gain gas properties. 
+
+
+These replacement theories remove the sophistry and blockages that Einstein put Physics in, so that the freed Physics will be in line with Nature, much easier to understand, teach, and develop technologies from (such as anti-gravity). 
+ -->
 
 
 ## Material

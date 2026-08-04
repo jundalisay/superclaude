@@ -14,45 +14,52 @@ Friday, March 9, 1883
 About 9AM, the Master was seated in his room with Rakhal, M., and a few other devotees. 
 
 It was the day of the new moon. As usual with him on such days, Sri Ramakrishna entered again and again into communion with the Divine Mother.
-He said to the devotees: "God alone exists, and all else is unreal. 
+
+
+{{< l a="Ramakrishna" >}}
+(to the devotees)
+
+God alone exists, and all else is unreal. 
 
 The Divine Mother has kept all deluded by Her maya. Look at men. Most of them are entangled in worldliness.
 
 They suffer so much, but still they have the same attachment to 'woman and gold'. The camel eats thorny shrubs, and blood gushes from its mouth; still it will eat thorns. 
 
 While suffering pain at the time of delivery, a woman says, 'Ah! I shall never go to my husband again.' But afterwards she forgets.
-"The truth is that no one seeks God. There are people who eat the prickly leaves of the pineapple and not the fruit."
+"The truth is that no one seeks God. There are people who eat the prickly leaves of the pineapple and not the fruit."{{< /l >}}
 
-DEVOTEE: "Sir, why has God put us in the world?"
+{{< r a="Devotee" >}}"Sir, why has God put us in the world?"{{< /r >}}
 
-MASTER: "The world is the field of action. Through action one acquires knowledge. The guru instructs the disciple to perform certain works and refrain from others. Again, he advises the pupil to perform action without desiring the result. The impurity of the mind is destroyed through the performance of duty. It is like getting rid of a disease by means of medicine, under the instruction of a competent physician.
+{{< l a="Ramakrishna" >}}"The world is the field of action. Through action one acquires knowledge. The guru instructs the disciple to perform certain works and refrain from others. Again, he advises the pupil to perform action without desiring the result. The impurity of the mind is destroyed through the performance of duty. It is like getting rid of a disease by means of medicine, under the instruction of a competent physician.
 
 Why doesn't God free us from the world? Ah, He will free us when the disease is cured.
 
-He will liberate us from the world when we are through with the enjoyment of 'woman and gold'. Once a man registers his name in the hospital, he cannot run away. The doctor will not let him go away unless his illness is completely cured."
+He will liberate us from the world when we are through with the enjoyment of 'woman and gold'. Once a man registers his name in the hospital, he cannot run away. The doctor will not let him go away unless his illness is completely cured."{{< /l >}}
 
 During these days Sri Ramakrishna's heart overflowed with motherly love like the love Yaśoda felt for Krishna. So he kept Rakhal with him. Rakhal felt toward the Master as a child feels toward its mother. He would sit leaning on the Master's lap as a young child leans on its mother while sucking her breast.
 
 Rakhal was thus seated by the Master when a man entered the room and said that a high tide was coming in the Ganges. The Master and the devotees ran to the Panchavati
 to see it. At the sight of a boat being tossed by the tide, Sri Ramakrishna exclaimed:
 
-"Look! Look! I hope nothing happens to it."
+{{< l a="Ramakrishna" >}}"Look! Look! I hope nothing happens to it."{{< /l >}}
 
 They all sat in the Panchavati. The Master asked M. to explain the cause of the tide. M. drew on the ground the figures of the sun, moon, and earth and tried to explain gravitation, ebb-tide, flood-tide, new moon, full moon, eclipse, and so forth.
 
-MASTER (to M.): "Stop it! I can't follow you. It makes me dizzy. My head is aching.
+{{< l a="Ramakrishna" >}}"Stop it! I can't follow you. It makes me dizzy. My head is aching.
 
 Well, how can they know of things so far off?
 
-"You see, during my childhood I could paint well; but arithmetic would make my head spin. I couldn't learn simple arithmetic."
+"You see, during my childhood I could paint well; but arithmetic would make my head spin. I couldn't learn simple arithmetic."{{< /l >}}
 
-Sri Ramakrishna returned to his room with the devotees. Looking at a picture of Yaśoda, on the wall, he said: "It is not well done. She looks like a garland-seller."
+Sri Ramakrishna returned to his room with the devotees. Looking at a picture of Yaśoda, on the wall, he said: 
+
+{{< l a="Ramakrishna" >}}"It is not well done. She looks like a garland-seller."{{< /l >}}
 
 The Master enjoyed a nap after his noon meal. Adhar and other devotees gradually gathered. This was Adhar's first visit. He was a deputy magistrate and about 30 years old.
 
-ADHAR (to the Master): "Sir, I have a question to ask. Is it good to sacrifice animals before the Deity? It certainly involves killing."
+{{< r a="Adhar" >}}"Sir, I have a question to ask. Is it good to sacrifice animals before the Deity? It certainly involves killing."{{< /r >}}
 
-MASTER: "The sastra prescribes sacrifice on special occasions. Such sacrifice is not harmful. Take, for instance, the sacrifice of a goat on the eighth day of the full or new moon.
+{{< l a="Ramakrishna" >}}"The sastra prescribes sacrifice on special occasions. Such sacrifice is not harmful. Take, for instance, the sacrifice of a goat on the eighth day of the full or new moon.
 
 "I am now in such a state of mind that I cannot watch a sacrifice. Also I cannot eat meat offered to the Divine Mother. Therefore I first touch my finger to it, then to my head, lest She should be angry with me.
 
@@ -62,16 +69,18 @@ One should not reason too much; it is enough if one loves the Lotus Feet of the 
 
 Too much reasoning throws the mind into confusion. You get clear water if you drink from the surface of a pool. Put your hand deeper and stir the water, and it becomes muddy. Therefore pray to God for devotion. 
 
-"Behind Dhruva's devotion there was desire. He practised austerities to gain his father's kingdom. But Prahlada's love for God was motiveless-a love that sought no return." 
+"Behind Dhruva's devotion there was desire. He practised austerities to gain his father's kingdom. But Prahlada's love for God was motiveless-a love that sought no return." {{< /l >}}
 
-A DEVOTEE: "How can one realize God?"
+{{< r a="A Devotee" >}}"How can one realize God?"{{< /r >}}
 
-MASTER: "Through that kind of love. But one must force one's demand on God. One should be able to say: 'O God, wilt Thou not reveal Thyself to me? I will cut my throat
-with a knife.' This is the tamas of bhakti." 
+{{< l a="Ramakrishna" >}}"Through that kind of love. But one must force one's demand on God. One should be able to say: 'O God, wilt Thou not reveal Thyself to me? I will cut my throat
+with a knife.' This is the tamas of bhakti." {{< /l >}}
 
-DEVOTEE: "Can one see God?"
+{{< r a="Devotee" >}}"Can one see God?"{{< /r >}}
 
-MASTER: "Yes, surely. One can see both aspects of God-God with form and without form. One can see God with form, the Embodiment of Spirit. Again, God can be directly perceived in a man with a tangible form. Seeing an Incarnation of God is the same as seeing God Himself. God is born on earth as man in every age."
+{{< l a="Ramakrishna" >}}"Yes, surely. One can see both aspects of God-God with form and without form. One can see God with form, the Embodiment of Spirit. Again, God can be directly perceived in a man with a tangible form. Seeing an Incarnation of God is the same as seeing God Himself. God is born on earth as man in every age."{{< /l >}}
+
+
 
 March 11, 1883
 
@@ -83,15 +92,15 @@ From early morning the devotees streamed in, alone or in parties. After the morn
 
 M. arrived early in the morning and found the Master talking smilingly to Bhavanath, Rakhal, and Kalikrishna. M. prostrated himself before him.
 
-MASTER (to M.): "I am glad you have come.
+{{< l a="Ramakrishna" >}}"I am glad you have come.
 
 (To the devotees) "One cannot be spiritual as long as one has shame, hatred, or fear.
 
-Great will be the joy today. But those fools who will not sing or dance, mad with God's name, will never attain God. How can one feel any shame or fear when the names of God are sung? Now sing, all of you."
+Great will be the joy today. But those fools who will not sing or dance, mad with God's name, will never attain God. How can one feel any shame or fear when the names of God are sung? Now sing, all of you."{{< /l >}}
 
 Bhavanath and his friend Kalikrishna sang:
 
-Thrice blessed is this day of joy!
+{{< r a="Bhavanath and Kalikrishna" >}}Thrice blessed is this day of joy!
 May all of us unite, O Lord,
 To preach Thy true religion here
 In India's holy land!
@@ -108,16 +117,19 @@ Safe at Thy feet, what fear have we
 Of death or danger? We have found
 The Fount of Immortality.
 To Thee the victory, O Lord!
-To Thee the victory!
+To Thee the victory!{{< /r >}}
 
-As Sri Ramakrishna listened to the song with folded hands, his mind soared to a far-off realm. He remained absorbed in meditation a long time. After a while Kalikrishna whispered something to Bhavanath. Then he bowed before the Master and rose. Sri Ramakrishna was surprised. He asked, "Where are you going?"
-BHAVANATH: "He is going away on a little business."
+As Sri Ramakrishna listened to the song with folded hands, his mind soared to a far-off realm. He remained absorbed in meditation a long time. After a while Kalikrishna whispered something to Bhavanath. Then he bowed before the Master and rose. Sri Ramakrishna was surprised. He asked, 
 
-MASTER: "What is it about?"
+{{< l a="Ramakrishna" >}}"Where are you going?"{{< /l >}}
 
-BHAVANATH: "He is going to the Baranagore Workingmen's Institute."
+{{< r a="Bhavanath" >}}"He is going away on a little business."{{< /r >}}
 
-MASTER: "It's his bad luck. A stream of bliss will flow here today. He could have enjoyed it. But how unlucky!
+{{< l a="Ramakrishna" >}}"What is it about?"{{< /l >}}
+
+{{< r a="Bhavanath" >}}"He is going to the Baranagore Workingmen's Institute."{{< /r >}}
+
+{{< l a="Ramakrishna" >}}"It's his bad luck. A stream of bliss will flow here today. He could have enjoyed it. But how unlucky!{{< /l >}}
 
 Sri Ramakrishna did not feel well; so he decided not to bathe in the Ganges. About 9AM a few jars of water were taken from the river, and with the help of the devotees
 he finished his bath on the verandah east of his room.
@@ -132,7 +144,11 @@ Krishna in the Vishnu temple.
 
 When the Master returned to his room, he found that other devotees had arrived, among them Ram, Nityagopal, and Kedār. They all saluted the Master, who greeted them cordially.
 
-He asked Nityagopal, "Will you eat something now?" "Yes", the devotee answered.
+He asked Nityagopal, 
+
+{{< l a="Ramakrishna" >}}"Will you eat something now?"{{< /l >}}
+
+{{< r a="Nityagopal" >}}"Yes", the devotee answered.{{< /r >}}
 
 Nityagopal, who was twenty-three or twenty-four years old and unmarried, was like a child. His mind was always soaring in the spiritual realm. He visited the Master sometimes alone and sometimes in Ram's company. The Master had observed the spiritual state of his mind and had become very fond of him. He remarked now and then that Nityagopal was in the state of a paramahamsa.
 
@@ -141,16 +157,16 @@ After Nityagopal had finished eating, the Master took him aside and gave him var
 A certain woman, about thirty-one years old and a great devotee, often visited Sri Ramakrishna and held him in high respect. She had been much impressed by
 Nityagopal's spiritual state and, looking upon him as her own son, often invited him to her house.
 
-MASTER (to Nityagopal): "Do you go there?"
+{{< l a="Ramakrishna" >}}"Do you go there?"{{< /l >}}
 
-NITYAGOPAL (like a child): "Yes, I do. She takes me".
+{{< r a="Nityagopal" >}}"Yes, I do. She takes me".{{< /r >}}
 
-MASTER: "Beware, holy man! Go there once in a great while, but not frequently; otherwise you will slip from the ideal. Maya is nothing but 'woman and gold'. A holy
-man must live away from woman. All sink there. 'Even Brahma and Vishnu struggle for life in that whirlpool.' "
+{{< l a="Ramakrishna" >}}"Beware, holy man! Go there once in a great while, but not frequently; otherwise you will slip from the ideal. Maya is nothing but 'woman and gold'. A holy
+man must live away from woman. All sink there. 'Even Brahma and Vishnu struggle for life in that whirlpool.' "{{< /l >}}
 
 Nityagopal listened to these words attentively.
 
-M. (to himself): "How strange! This young man has developed the state of a paramahamsa. 
+{{< r a="M." >}}"How strange! This young man has developed the state of a paramahamsa. 
 
 That is what the Master says now and then. Is there still a possibility of his falling into danger in spite of his high spiritual state? What an austere rule is laid
 down for a sādhu! He may slip from his ideal by associating intimately with women. 
@@ -161,26 +177,28 @@ In spite of his teacher's prohibition, Haridas conversed with a widow devotee. B
 
 Therefore Chaitanya banished him. What a severe punishment! How hard is the rule for one who has accepted the life of renunciation! Again, what love the Master cherishes for this devotee! 
 
-He is warning him even now, lest he should run into danger in the future."
+He is warning him even now, lest he should run into danger in the future."{{< /r >}}
 
 "Beware, holy man!" These words of the Master echoed in the hearts of the devotees, like the distant rumbling of thunder.
 
 The Master went with the devotees to the northeast verandah of his room. Among them was a householder from the village of Dakśineśwar, who studied Vedanta philosophy at home. 
 
-He had been discussing Om with Kedār before the Master. He said, "This Eternal Word, the Anāhata Śabda, is ever present both within and without."
+He had been discussing Om with Kedār before the Master. He said, 
 
-MASTER: "But the Word is not enough. There must be something indicated by the Word. Can your name alone make me happy? Complete happiness is not possible for
-me unless I see you."
+{{< r a="Devotee" >}}"This Eternal Word, the Anāhata Śabda, is ever present both within and without."{{< /r >}}
 
-DEVOTEE: "That Eternal Word itself is Brahman."
+{{< l a="Ramakrishna" >}}"But the Word is not enough. There must be something indicated by the Word. Can your name alone make me happy? Complete happiness is not possible for
+me unless I see you."{{< /l >}}
 
-MASTER (to Kedār): "Oh, don't you understand? He upholds the doctrine of the rishis of olden times. They once said to Rama: 'O Rama, we know You only as the son of Dasaratha. Let sages like Bharadvaja worship You as God Incarnate. 
+{{< r a="Devotee" >}}"That Eternal Word itself is Brahman."{{< /r >}}
 
-We want to realize Brahman, the Indivisible Existence-Knowledge-Bliss Absolute.' At these words Rama smiled and went away."
+{{< l a="Ramakrishna" >}}"Oh, don't you understand? He upholds the doctrine of the rishis of olden times. They once said to Rama: 'O Rama, we know You only as the son of Dasaratha. Let sages like Bharadvaja worship You as God Incarnate. 
 
-KEDĀR: "Those rishis could not recognize Rama as an Incarnation of God. They must have been fools," 
+We want to realize Brahman, the Indivisible Existence-Knowledge-Bliss Absolute.' At these words Rama smiled and went away."{{< /l >}}
 
-MASTER (seriously): "Please don't say such a thing. People worship God according to their tastes and temperaments. The mother cooks the same fish differently for her
+{{< r a="Kedār" >}}"Those rishis could not recognize Rama as an Incarnation of God. They must have been fools," {{< /r >}}
+
+{{< l a="Ramakrishna" >}}"Please don't say such a thing. People worship God according to their tastes and temperaments. The mother cooks the same fish differently for her
 children, that each one may have what suits his stomach. For some she cooks the rich dish of pilau . But not all the children can digest it. For those with weak stomachs she prepares soup. Some, again, like fried fish or pickled fish. It depends on one's taste.
 
 The rishis followed the path of jnāna. Therefore they sought to realize Brahman, the Indivisible Existence-Knowledge-Bliss Absolute. But those who follow the path of
@@ -188,14 +206,14 @@ devotion seek an Incarnation of God, to enjoy the sweetness of bhakti. The darkn
 
 Why, then, weren't the courtiers burnt up? It was because the brilliance of Rama was not like that of a material object. 
 
-As the lotus blooms when the sun rises, so the lotus of the heart of the people assembled in the court burst into blossom."
+As the lotus blooms when the sun rises, so the lotus of the heart of the people assembled in the court burst into blossom."{{< /l >}}
 
 As the Master uttered these words, standing before the devotees, he suddenly fell into an ecstatic mood. His mind was withdrawn from external objects. No sooner did he say, "the lotus of the heart burst into blossom", than he went into deep samādhi. He stood motionless, his countenance beaming and his lips parted in a smile.
 After a long time he returned to the normal consciousness of the world. 
 
 He drew a long breath and repeatedly chanted the name of Rama, every word showering nectar into the hearts of the devotees. The Master sat down, the others seating themselves around him.
 
-MASTER (to the devotees): "Ordinary people do not recognize the advent of an Incarnation of God. He comes in secret. Only a few of His intimate disciples can
+{{< l a="Ramakrishna" >}}"Ordinary people do not recognize the advent of an Incarnation of God. He comes in secret. Only a few of His intimate disciples can
 recognize Him. That Rama was both Brahman Absolute and a perfect Incarnation of God in human form was known only to twelve rishis. The other sages said to Him, 'Rama, we know You only as Dasaratha's son.'
 
 Can everyone comprehend Brahman, the Indivisible Existence-Knowledge-Bliss Absolute? 
@@ -203,7 +221,8 @@ Can everyone comprehend Brahman, the Indivisible Existence-Knowledge-Bliss Absol
 He alone has attained perfect love of God who, having reached the Absolute, keeps himself in the realm of the Relative in order to enjoy the divine lila . A man can describe the ways and activities of the Queen if he has previously visited her in England.
  
 Only then will his description of the Queen be correct. Sages like Bharadvaja adored Rama and said: 'O Rama, You are nothing but the Indivisible Satchidananda. You have appeared before us as a human being, but You look like a man because You have shrouded Yourself with Your own maya.' These rishis were great devotees of Rama: and
-had supreme love for God." 
+had supreme love for God."{{< /l >}}
+
 
 Presently some devotees from Konnagar arrived, singing kirtan to the accompaniment of drums and cymbals. As they reached the northeast verandah of Sri Ramakrishna's room, the Master joined in the music, dancing with them intoxicated with divine joy. 
 

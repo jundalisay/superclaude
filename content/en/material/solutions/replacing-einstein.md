@@ -71,23 +71,3 @@ However, unlike Einstein who used the photo-electric effect to sophistically giv
 
 Einstein then used this light-carries-time sophistry for Relativity. This is why anti-gravity technology is out of reach.  -->
 
-
-## Replacing Einstein
-
-We want to discover Nature for how It really is, and not how some limited human minds see it. This is to fully use all of Nature's features just as you want to use all the awesome features of your iPhone.
-
-This is why we replace all of Einstein's theories with Cartesian ones:
-
-- **General Relativity** is replaced with Poincare. The bending is done by spacetime particles, not mass.
-- **Special Relativity** is replaced with Lorentz. The relativistic effects is based on the difference between electromagnetism and spacetime
-- **Mass-energy equivalence** is replaced with Lorentz and Poincare. All material objects have electromagnetism in them. 
-- The **Photo-electric effect** is replaced with Tesla. Light is a ball when it has enough energy. 
-- **Einstein-Bose condensate** is replaced with Bose. The removal of energy converts the electromagnetism in gas from a ball into a wave. This is simply the reverse of the Photo-electric effect.
-- **Brownian Motion** is replaced with Kelvin. High energy causes the electromagnetism in matter to make the matter spread faster and gain gas properties. 
-
-
-These replacement theories remove the sophistry and blockages that Einstein put Physics in, so that the freed Physics will be in line with Nature, much easier to understand, teach, and develop technologies from (such as anti-gravity). 
-
-
-
-
