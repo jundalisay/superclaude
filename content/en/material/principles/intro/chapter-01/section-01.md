@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "The Five Layers of Material Superphysics"
+title: "The Five Physical Layers"
 # date: 2020-01-01
 image: "/photos/meta/5elements.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"

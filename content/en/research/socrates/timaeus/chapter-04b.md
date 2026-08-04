@@ -53,13 +53,20 @@ It would be useless to tell:
 
 <!-- How can we doubt the word of the children of the gods? Although they give no probable or certain proofs, still, as they declare that they are speaking of what took place in their own family, we must conform to custom and believe them. In this manner, then, according to them, the genealogy of these gods is to be received and set forth. -->
 
+
 ## Dharma
 
-Oceanus and Tethys were the children of Earth and Heaven. From these sprang Phorcys and Cronos and Rhea, and all that generation. From Cronos and Rhea sprang Zeus and Here, and all those who are said to be their brethren, and others who were the children of these.
+Oceanus and Tethys were the children of Earth and Heaven. From these sprang:
+- Phorcys
+- Cronos
+- Rhea, and all that generation. 
+
+From Cronos and Rhea sprang Zeus and Here, and all those who are said to be their brethren, and others who were the children of these.
 
 When all of them<!-- , both those who visibly appear in their revolutions as well as those other gods who are of a more retiring nature, --> had come into being, the Creator told them: 
 
 <!-- ‘Gods, children of gods, who are my works, and of whom I am the artificer and father, -->
+
 
 
 {{< l a="Creator" >}}
@@ -71,14 +78,18 @@ You are not immortal and indissoluble. But you are certainly not be dissolved, n
 
 3 tribes of mortal beings remain to be created. Without them, the universe will be incomplete<!-- , for it will not contain every kind of animal which it ought to contain, if it is to be perfect. On the other hand, if they were created by me and received life at my hands, they would be on an equality with the gods.  -->
 
+If created those 3 tribes, they would be on an equality with the gods.
+
 For them to be mortal and for this universe to be truly universal, you should:
 - do according to your natures
-- betake yourselves to the formation of animals
+- take the animal form
 - imitate My creative <!-- power which was shown by Me in creating you. -->
 
-Their immortal divine part is the guiding principle of those who are willing to follow dharma. In that divine part I will Myself sow the seed, and having made a beginning, will hand the work over to you.
+<!-- Their immortal divine part is the guiding principle of those who are willing to follow dharma. In that divine part I will Myself sow the seed, and having made a beginning, will hand the work over to you. -->
 
-<!--  justice --> and you—of that 
+Those who are worthy of being immortal are called divine. They follow justice [dharma]. I will myself sow the seed onto those divine [dharmic] and hand the work over to you.
+
+<!-- You will then interweave the mortal with the immortal, and make and beget living creatures, give them food, and make them to grow, and receive them again in death. -->
 
 You will then:
 - interweave the mortal with the immortal
@@ -101,27 +112,47 @@ They were to be sown in the instruments of time severally adapted to them, and t
 
 Human nature was of 2 kinds:
 
-1. The superior race would hereafter be called man. 
+1. The superior race would hereafter be called male [Shiva or Yang]. 
 
-Now, when they should be implanted in bodies by necessity, and be always gaining or losing some part of their bodily substance, then:
-- it would be necessary that they should all have in them one and the same faculty of sensation, arising out of irresistible impressions; 
-- They must have love, in which pleasure and pain mingle; also fear and anger, and the feelings which are akin or opposite to them; 
+This is:
+- implanted in bodies
+- always gaining or losing some part of that bodily substance
 
-If they conquered these they would live righteously. if they were conquered by them, unrighteously. 
+This is why human nature [3rd density]:
 
-He who lived well during his appointed time was to return and dwell in his native star, and there he would have a blessed and congenial existence. But if he failed in attaining this then:
+1. Must all have in them one and the same faculty of sensation, arising out of irresistible impressions
+2. Must have love in which mingles pleasure and pain, fear and anger, and the feelings which are akin or opposite to them [duality from the Positive and Negative]
 
-2. Man would would pass into a woman.
+If they conquered these they would live righteously.
 
-If, as a woman, he did not desist from evil, then he would continually be changed into some brute resembling the evil nature which he had acquired. He would not cease from his toils and transformations until he followed the revolution of the Same and the Like within him, and overcame by the help of reason the turbulent and irrational mob of later accretions, made up of fire [radiant] and air [spatial] and water [radioactivity] and earth [matter], and returned to the male form<!--  of his first and better state -->. 
+If they were conquered by these feelings, they would live unrighteously.
 
-Having given all these laws to his creatures, that he might be guiltless of future evil in any of them, the creator sowed some of them in the earth, and some in the moon, and some in the other instruments of time.
+He who lived well during his appointed time was to return and dwell in his native star [logos or black hole], and there he would have a blessed and congenial existence. 
 
-When he had sown them he committed to the younger gods the fashioning of their mortal bodies. He desired them to furnish what was still lacking to the human soul. 
 
-Having made all the suitable additions, to rule over them, and to pilot the mortal animal in the best and wisest manner which they could, and avert from him all but self-inflicted evils.
+2. The female [Shakti or Yin]
 
-When the Creator had made all these ordinances, He remained in his own accustomed nature. His children heard and were obedient to their father’s word, and receiving from him the immortal principle of a mortal creature, in imitation of their own creator they borrowed portions of fire, and earth, and water, and air from the world, which were hereafter to be restored. 
+But if he failed in attaining this, at the second birth he would pass into a woman [Shakti or Yin or Negative].
+
+If he still did not desist from evil, he would continually be changed into some brute who resembled him in the evil nature which he had acquired.
+
+He would not cease from his toils and transformations until he followed the revolution of the same and the like within him, and overcame by the help of reason the turbulent and irrational mob of later accretions, made up of fire and air and water and earth, and returned to the form of his first and better state. 
+
+The Creator gave all these laws to his creatures so that he might be guiltless of the future evil in any of them.
+
+He then sowed some of them in:
+- the earth
+- in the moon
+- in the other instruments of time
+
+When he had sown them he committed to the younger gods the fashioning of their mortal bodies, and desired them to furnish what was still lacking to the human soul, and having made all the suitable additions, to rule over them, and to pilot the mortal animal in the best and wisest manner which they could, and avert from him all but self-inflicted evils.
+
+
+When the Creator had made all these ordinances, He remained in his own accustomed nature. 
+
+His children:
+- heard and were obedient to their father’s word
+- received from him the immortal principle of a mortal creature, in imitation of their own creator they borrowed portions of fire, and earth, and water, and air from the world, which were hereafter to be restored. 
 
 These they took and welded them together, not with the indissoluble chains by which they were themselves bound, but with little pegs too small to be visible, making up out of all the four elements each separate body, and fastening the courses of the immortal soul in a body which was in a state of perpetual influx and efflux. 
 

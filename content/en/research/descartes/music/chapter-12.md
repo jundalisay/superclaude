@@ -5,6 +5,7 @@ weight: 52
 # date: 2022-08-08
 description: ""
 c: "darkgoldenrod"
+icon: Descartes
 ---
 
 
@@ -48,10 +49,20 @@ Besides, since all other Voices hold a respect to the Basse, as the principall; 
 The Second, being the next to the Basse, they call Tenor; this being also, in its kind, the chiefest, because it containes the Subject of the whole Modulation, and is comparatively the Nerve, which extended through the body of the Tune, doth sustain and conjoyn all the rest of its Members. And therefore it is wont, so much as possible...
 
 
-A syncopa is, when the end of one Note in one voice is heard at the same time with the beginning of one other Note of an advers part; as may bee seene in the Example set, where the last time of the Note B, is dissonant with the beginning of the Note C, which is therefore brought in, because there is yet remaining in the eares the recordation of the Note A, with which it made a Consonance; and so B bears it selfe to C, only as a Relative voyce, in which the Dissonances are carryed through: yea, the Variety of these doth cause, that the Consonances, among which they are set, are heard more distinctly, and also excite the more constant attention. For, when the Dissonance B C is heard, the expectation of the eare is encreased, and the judgement of the sweetnesse of the Symphony somewhat suspended, untill the Tune shall arrive at the Note D, in which it more satisfies the Hearing; and yet more perfectly in the Note E, with which, after the end of the Note D, hath kept up the attention, the Note F, instantly supervenient doth make an exquisite Consonance, for it is an Eighth [71].
+A syncopa is, when the end of one Note in one voice is heard at the same time with the beginning of one other Note of an advers part; as may bee seene in the Example set, where the last time of the Note B, is dissonant with the beginning of the Note C, which is therefore brought in, because there is yet remaining in the eares the recordation of the Note A, with which it made a Consonance; and so B bears it selfe to C, only as a Relative voyce, in which the Dissonances are carryed through: yea, the Variety of these doth cause, that the Consonances, among which they are set, are heard more distinctly, and also excite the more constant attention. 
+
+For, when the Dissonance B C is heard, the expectation of the eare is encreased, and the judgement of the sweetnesse of the Symphony somewhat suspended, untill the Tune shall arrive at the Note D, in which it more satisfies the Hearing; and yet more perfectly in the Note E, with which, after the end of the Note D, hath kept up the attention, the Note F, instantly supervenient doth make an exquisite Consonance, for it is an Eighth [71].
 
 Therefore, these Consonances are used in Cadences because what hath been the longer expected, doth the more please when it comes: and therefore the sound, after a Dissonance heard, doth better acquiesce in a most perfect Consonance, or Unison. But heere Degrees are to be set betwixt Dissonances: for whatever is not a Consonance, ought to be accounted a Dissonance.
 
-Moreover, wee are to observe, that the Hearing is more satisfied in the end by an Eighth, than by a Fifth, and best of all by an Unison; not because a Fifth is not gratefull to the eare, as to the reason of Consonance: but   because in the end we are to regard Quiet, which is found greater in those sounds, betwixt which is lesse difference, or none at all, as in a Unison. Now this Quiet, or Cadence is delectable not only in the end: but also in the midle the avoidance of this Cadence introduceth no small delight; namely, when one part seems willing to quiesce, and another proceeds on. And this is a kinde of Figure in Musick, such as are Rhetoricall Figures in Oration, of which sort are Consequence, Imitation, &c. which are effected, when either two parts successively, i. e. at divers times, sing wholly the same, or a quite Contrary, which at last they are wont to doe. And truely this, in certain parts of a Tune, doth sometimes much advantage Musick; but as for those artificiall Counter-poynts, as they call them; in such Composure where that Artifice is observed perpetually from the beginning to the end: we conceive, they may belong not more to Musick, than Acrosticks, or retrograde Verses to Poesie, which was invented to charm the mind into respective passions, as well as Musick.
+Moreover, the Hearing is more satisfied in the end by an Eighth, than by a Fifth, and best of all by an Unison.
+
+It is not because a Fifth is not gratefull to the eare, as to the reason of Consonance: but   because in the end we are to regard Quiet, which is found greater in those sounds, betwixt which is lesse difference, or none at all, as in a Unison. 
+
+This Quiet, or Cadence is delectable not only in the end: but also in the midle the avoidance of this Cadence introduceth no small delight; namely, when one part seems willing to quiesce, and another proceeds on. And this is a kinde of Figure in Musick, such as are Rhetoricall Figures in Oration, of which sort are Consequence, Imitation, &c. which are effected, when either two parts successively, i. e. at divers times, sing wholly the same, or a quite Contrary, which at last they are wont to doe. 
+
+This, in certain parts of a Tune, sometimes does much advantage Music.
+
+But as for those artificiall Counter-poynts, as they call them; in such Composure where that Artifice is observed perpetually from the beginning to the end: we conceive, they may belong not more to Musick, than Acrosticks, or retrograde Verses to Poesie, which was invented to charm the mind into respective passions, as well as Musick.
 
 

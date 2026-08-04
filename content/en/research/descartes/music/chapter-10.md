@@ -5,6 +5,7 @@ weight: 35
 # date: 2022-08-08
 description: ""
 c: "darkgoldenrod"
+icon: Descartes
 ---
 
 
@@ -31,4 +32,48 @@ But if we consider them in the second Capacity; namely, how these Degrees may, a
 
 Hence also is it manifest, that Degrees cannot divide a whole Eighth, unless they divide a Ditone, a Third *minor*, and a Fourth; which is thus done. A Ditone is divided into a Tone *major*, and a Tone *minor* [40]; a Third *minor* is divided into a Tone *major*, and a Semitone *majus* [41]; a Fourth, into a Third minor, and also a Tone *minor* [42], which Third is again divided into a Tone
 
+
+
+
+
+
+
+
+
+
+
+42 A COMPENDIUM Of MUSICK. 43
+
+**SUPERIUS.** | **TENORE.**
+--- | ---
+[diagram labels]
+F | 64 | 144 | F
+E | 72 | 160 or 162 | E
+D | 80 or 81 | 180 | D
+C | 90 | 192 | C
+B | 96 | 216 | B
+A | 108 | 240 | A
+G | 120 | 270 | G
+F | 135 | 288 | F
+E | 144 | 320 or 324 | E
+
+**CONTRA TENOR.** | **BASSUS.**
+--- | ---
+[diagram labels]
+B | 96 | 216 | G
+A | 108 | 240 | F
+G | 120 | 270 | E
+F | 135 | 288 | D
+E | 144 | 320 or 324 | C
+D | 160 or 162 | 360 | B
+C | 180 | 384 | A
+B | 192 | 432 | G
+A | 216 | 480 | F
+| | 540 | |
+
+Now the use of these Numbers is, to teach what proportion all the Notes hold among themselves, such as are contained in all the parts of one Tune: for the founds of these Notes hold the same proportion one to another, as the numbers appointed on the same Chords. So as if the string be divided into 540 equall parts, and the found thereof represent the most Grave Term F: 480 parts of the same string will yield the found of the Term G; and so consequently.
+
+And here we have ordered 4 degrees of Parts, that it might appear, how much they ought to be distant each from other: not that the Cliffs; ♯, ♮, and ♭ are not often set in other places, which is done according to the variety of Degrees, which are run over from each part: but because this Mode seemes to be the most Naturall, and is the most frequent.
+
+Again, here have we set Numbers only in the Naturall Chords, and so long as they are not removed from their proper seat; but if Dieses be found in some notes, or ♮, or ♭, which may remove them from their proper seats: then are those to be explicated by other Numbers, whose quantity is to be deduced from other Notes of other Parts, with which these kinds of Dieses make a Consonance.
 

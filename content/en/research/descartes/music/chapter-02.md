@@ -5,60 +5,133 @@ weight: 6
 # date: 2022-08-08
 description: ""
 c: "darkgoldenrod"
+icon: Descartes
 ---
 
 
+## Praeconsiderables
 
-Time in sounds is calculated through:
-- equal parts, which are most easily perceived by the senses according to previous article 4 or
-- parts that are in duple (2:1) or triple (3:1) ratio are the most easily sensed and distinguished by hearing and practice (accrodng to article 5 and 6).
+1. Each Sense is capable of some pleasurable sensation.
 
-Suppose someone tries to sing evenly spaced notes, placing a note every fifth unit (e.g., 5, 10, 15…), they will find it difficult. 
+2. This pleasurable sensation requires a certain proportion of the object to the sense. 
 
-If, instead, they place four notes between 5 and 9, then continue with 8, etc., they create easier patterns for singing.
+For instance:
+- the noise of Thunder and Guns are not convenient to Music because they offend the Ear
+- the sun hurts the sight
 
-From these 2 kinds of proportions of time, there arises 2 kinds of measures in music:
+3. The Object must be easy and not confusing for the Sense
 
-1. Ternary division (into 3s)
-2. Binary division (into 2s)
+For instance, we prefer a shapes than complex ones. 
 
-<!-- These help our imagination recognize rhythm more easily. And the simplest proportions are most pleasing in songs.
+<!-- ) that any Figure exceedinglie implicite, though exactly regular, such is the Mother in the Astrolabe, is not so pleasant to the Aspect, as another consisting of lines more equal; such as is in the same Net: the reason wherof is, because the sense doth more fully satisfie it self in the one, then in the other, wherein are many things which it doth not perceive sufficiently distinct. -->
 
-Thus, if we divide time into equal parts, it is easiest for us to understand and follow patterns like:
+4. The sense perceives Objects that have less differences* between their parts.
 
-2:1 (half note to whole note)
+{{< b >}}
+Distinction is the first Note or Term of any Consonance, or other Musical Intervall, an *Union*; and the other, according to its difference, in found, from the former.
 
-4:2:1 (quarter, half, whole)
+Sounds can only be distinguished, or their Differences be known than by their mutual habitude.
 
-or more complexly, 6:3:1, 8:4:2:1, etc.
+This creates ratios as Audible Differences.
 
-When musical divisions maintain these proportions, the mind more easily comprehends the melody and rhythm.
+The Sounds of strings are according to their Rations, not visible Differences.
 
-Final Note:
-This passage concludes with the idea that music is an imitation of spiritual movements, and that voice, breath, and beat express the natural rhythms of life—thus making music not only a mathematical structure but also a deeply human expression. -->
+For Example, as these 3 Chords have \(a :: b :: c\), *Union*, an equality of *Rations*: 
+
+(for \(6 :: 1 :: 2\) *Eighth* \(a, b :: b, c\), for their Sounds \(c :: 1 :: 1\) \(4 :: 2\) *Twelfth*, (an *Union*, *Eighth*, and *Fifteenth*) have an equality of *Differences*. (For \(1 + 7 = 8\), and \(8 + 7 = 15\).) And as these \(a :: b :: c\), *Union*, three Chords have an inequality of Rations: (though an equality \(1 :: 1\) \(3 :: 2\) *Fifth* of Differences visible, for \(d + g = e\), and \(e + g = f\), for their Sounds (an *Union*, *Fifth*, and *Eighth*) have an inequality of Differences audiible. 
+
+For as the Ration of \(d\) to \(e\), is \(\frac{1}{2}\): (and is a Fifth, by Fig. first, p. 10.) to the difference of an Union and a Fifth is a Fifth, (\(1 + 4 = 5\).) and as R\(e\) to \(f\) is \(\frac{1}{2}\): (and is a Fourth by Fig. first, p. 10.) to the difference of a Fifth and an Eighth is a Fourth, (\(5 + 3 = 8\).)
+
+Therefore, Sounds, thus numbred, are as it were imperfect (because not equally distant) audiible Indices, or Logarithms of their Chords. Here the Reader may observe that for the Difference of an *Eighth*, I have added only seven, of a *Fifth* four; and of a *Fourth* three: and the reason is, because the exclusive account is always one lesse than the inclusive, as is made visible *Animad*.
+{{< /b >}}
 
 
-This Division is noted by a percussion, or stroke that assists our Imagination. In this way, we may the more easily perceive all the members of the Tune, and be delighted with their inherent proportion.
+5. The parts of an Object are more similar with each other, when they mutually hold the greater proportion* each to other.
 
-This proportion is most frequently kept in the members of the Tune, in order to the helping of our Imagination; so that while we yet heare the last of the time, we may remember what was in the first, and what was in the rest of the Tune. 
 
-Which is effected, if the whole Tune be composed of 8, or 16, or 32, or 64, &c. members: so that all Division may proceed from a double proportion.
+{{< b >}}
+For example, there are 2 kinds on strings:
 
-For then, when we have heard the Two first members, we apprehend them as one, while yet we conjoyne the Third member with the 
+1. Audible
 
-First, so that the proportion becomes triple: afterward, when we have heard the Fourth, we conjoyn it with the Third, and so apprehend it as one and the same. Then we again conjoyn the Two First with the Two Last, and so apprehend those Four together as One.
+This has a *Rational* or *Geometrical* measure
 
-Thus doth our Imagination proceed even to the end: where at length it conceives the whole Tune, as one intire thing composed of many equall members.
+2. Visible
 
-Few have understood, how this Measure can be exhibited to the ears without a percussion, or stroke in Musick, very diminuite and of many voyces. 
+This has an *Arithmetical* measure.
+{{< /b >}}
 
-This we say is effected only by a certain intention of the Spirit or breath, in Vocal Musick; or of the Touch, in Instrumental; so as from the beginning of each stroke, the sound is emitted more distinctly. 
 
-Which all Singers naturally observe, and those who play on Instruments; principally in tunes, at whole numbers we are wont to dance and leap: for, this Rule is there kept, that we may distinguish every stroke of the Music, with a single motion of our bodies; to the doing of which we are all naturally impelled by Music. 
 
-For certain it is, that a sound doth concuss, or make all circumjacent bodies, as is exemplified in Thunder, and the ringing of Bells; the reason whereof is to be referred to the disquisition of Physiology. But, inasmuch as the Hwi is confessed by all men, and that the sound is emitted more strongly, and distinctly in the beginning of each Measure, as we have formerly hinted: we may well affirm, that that sound doth more instantly and violently concuss or agitate our Spirits, by which we are excited to motion; as also by consequence, that Beasts may dance to number, or keep time with their Feet, if they be taught and accustomed thereto; because to this nothing more is required, then only a mere natural Impetus, or pleasant violence.
+6. That proportion between the parts of an Object should be *Arithmetical*, not Geometrical.
 
-Now concerning those various Affections, or Passions, which Music by its various Measures can excite in us; we lay, in the General, that a slow measure doth excite in us gentle, and sluggish motions, such as a kind of Languor, Sadness, Fear, Pride, and other heavy, and dull Passions: and a more nimble and swift measure doth, proportionately, excite more nimble and sprightly Passions, such as Joy, Anger, Courage, etc. The same may be also said of the double kind of percussion, viz., that a Quadrate, or such as is perpetually resolved into equals, is slower and duller, then a Tetriate, or such as doth consist of Three equal parts. The reason whereof is, because this doth more possess and employ the sense, inasmuch as therein are more (namely 3) members to be adverted, while in the other are only 2, but a more exact & ample disquisition of this rare secret, doth depend upon the exquisite cognition of the Motions of the Mind; of which this place is incapable.
+This is because there are not so many things advertisable since the Differences are everywhere equal.
 
-However, we shall not omit, that so great is the force of Time in Music, as that it alone can of itself offer a certain Delectation; as is experimented in that Military Instrument, the Drum, wherein nothing else is required then merely measure of Time; which therefore (I conceive) cannot there be composed of only 2, or 3 Parts, but also of 5, or perhaps 7 others. For since in such an Instrument the sense hath nothing else to take notice of, but bare Time: therefore in Time may be the greater Diversity, that so it may the more exercise and employ the sense.
+Therefore, it is easier for the sense to distinctly perceive all things occurring therein*.
+
+
+
+
+{{< b >}}
+Just like in Lines and Numbers, there are in *Sounds* two *Proportions* and *Progressions*:
+
+1. *Arithmetical*
+
+Examples are Second, Third, and Fourth: for 2 - 1 = 3 - 2 = 1
+
+2. *Geometrical*
+
+Examples are Second, Third, and Fifth: for 1, 2 :: 2, 4.
+
+As was said before *Animad*, when *Strings* are *audibly* in an *Arithmetical* proportion, or progression, they then are *visibly* in a *Geometrical*.
+
+This is why Chords, as a *Sound*, should be Geometrically divided, not Arithmetically.
+
+This is so that the hearing has not so much to advertise since the audible Differences are always equal.
+
+<!-- , &c. whereof more, after *Anim. 78, P. 1.*. -->
+{{< /b >}}
+
+
+
+For example, the proportion of these lines below is more easily distinguished by the eyes, than the latter ones:
+
+```
+2 |—|—|
+3 |—|—|—|
+4 |—|—|—|—|
+```
+
+```
+2 |—|—| [A]
+√8 |—|—|—| [B @ 2.82.. So, AB is 0.8284 and BC is 1.172+]
+4 |—|—|—|—| [C]
+```
+
+
+In the first batch, the eye is required only to advertise the Unity for the difference of each line.
+
+But in the second batch, the parts AB, and BC, which have irrational ratios.
+
+The eye:
+- cannot perfectly perceive them together and at once.
+- can only perceive their proportion *Arithmetical*
+
+It sees 2 parts in AB, but 3 parts in BC.
+
+This shows that the sense is perpetually deceived.
+
+
+7. The Mind is not pleasured by objects that are:
+- easiest to perceive 
+- most difficult to perceive
+
+Instead, the Mind is pleasured when its natural desire carries the senses towards their proper Objects which are not perceived so easily or totally, nor perceived with so much difficulty that the sense is tired by it.
+
+
+8. *Variety*, is most grateful in all things. 
+
+
+<!-- These Propositions conceded, let us consider the first *Affection* of a Sound. -->
+
 

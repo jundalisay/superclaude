@@ -36,3 +36,12 @@ This is most obvious in liquid dynamics and aerodynamics.
 
 **Equation Meaning:** add up how far every identity moved, and it must total zero — nothing moves without something else moving to fill its place.
 
+
+The 1st rule is one of the 2 movements described by Timeaus:
+
+{{< q a="Timaeus" c="Timeaus by Plato" >}}
+Of the heavenly, God gave to each of them 2 movements:
+
+1. A movement on the same spot after the same manner, whereby they ever continue to think consistently the same thoughts about the same things
+2. A forward movement in which they are controlled by the revolution of the Same and the like; but by the other 5 motions they were unaffected, in order that each of them might attain the highest perfection.
+{{< /q >}}
