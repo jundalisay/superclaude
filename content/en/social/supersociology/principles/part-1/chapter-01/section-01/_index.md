@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "Basic Principles"
+title: "The Nature of Society"
 linkTitle: "Basics"
 # date2022-01-31
 image: /photos/social/give.jpg
