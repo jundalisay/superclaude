@@ -6,8 +6,8 @@ description: "We list the new simplifications"
 c: "darkslategray"
 image: /photos/math/4ops.jpg
 showdate: true
-featured: true
-weight: 3
+# featured: true
+# weight: 3
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-heading: "Section 2"
+heading: "Unit 2"
 title: "Mercantilism"
 # date: 2022-03-27
 date: 2021-12-17
-weight: 6
+weight: 16
 # date: 2022-08-08
 image: /photos/objects/galleon.jpg
 description: "Mercantilism is an economic policy that emphasizes government intervention to increase the nation's revenue"

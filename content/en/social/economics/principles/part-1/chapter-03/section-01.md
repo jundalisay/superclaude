@@ -1,84 +1,30 @@
 ---
-heading: "Unit 4"
-title: "The Four Revenues: Rent, Wages, Profits, Donations"
-linkTitle: Four Revenues
-date: 2016-01-01
-weight: 14
-image: /photos/econ/bake.jpg
-description : "Rent, Wages, Profit, and Donations are the four revenue types of Classical Economics which matches the four classes of people"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+heading: "Section 1"
+title: "Wages"
+description: Wages are the revenue of the worker class
+image: /photos/econ/worker.jpg
+weight: 3
 ---
 
 
 
-An important feature of Smith's Political Economy (and the science of Superphysics which we created from it) is the classification ofall revenue into either rent, wages, and profit.
+## Wages: Regular 
 
+We define wages as the revenue to live, obtained from the abundance experienced by employers.
 
-### Classification is Essential in the ANI of Superecononics
+Wages are the revenue needed to maintain oneself and whatever else is important to one's life (such as one's family). Having high wages therefore means having more ability to live life, as compared to a low wage person who is limited in life. 
 
-Such classification is not so important to Economics which focuses on the quantity or dollar value of revenue instead of its quality.
-
-This classification is difficult nowadays when other kinds of revenue have been introduced, such as interest income, different kinds of taxes, royalties, revenue from membership fees, etc. 
-
-Smith did not give a clear system of classifying revenues. He just said that some kinds of revenue can be confounded with others, and gave examples of them.
-
-It's necessary to define the essence of those three revenues to make classification easier so that, in theory, we can put the entire economic system under the management of an impartial spectator Automated Natural Intelligence (ANI). 
-
-- That ANI will not have vested interests nor be greedy as the current managers of capitalist or communist systems. 
-- It will also (Cartesian) relativistic links between prices in order to reduce uncertainty
-
-Metaphysically, ANI would be more moral than a human because it can get its energy from solar power. It doesn't need to eat or ingest other living beings to sustain its physical existence.
-
-The AI would be able to classify each person and then micromanage economic policies in real time to prevent that person or any class of persons from being economically neglected. This would fix the distribution of wealth so that there would no longer be extreme poverty, financial crises, recessions, or even conflicts.
-
-
-### The Four Classes
-
-Below are the most basic definitions or essence of each kind of revenue to aid in classifying other revenues. We've added a fourth and final kind of revenue called 'Donations' in order to complete Smith's system and integrate it seamlessly with the Eastern varna shrama system as:
-
-- shudras (workers)
-- ksattriyas (rulers)
-- brahmins (intellectuals)
-- vaesyas (merchants)
-
-{{< img src="/graphics/econ/revenuematrix.png" alt="Revenue Matrix" >}}
-
-
-Those four are equivalent to the classification of Socrates:
-
-- democrats
-- tyrants
-- aristocrats
-- oligarchs
-
-
-
-## Rent: Regular Arbitrary Revenue From the Lack of Land
-
-Rent is a regular revenue from the lack of land while taxes are also a regular revenue from the lack of power by the other person. Rent-seeking is someone who can gain revenue because he can do so, without necessarily creating value in return.
-
-{{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 11" >}}
-The rent of land is naturally a monopoly price.
-{{< /q >}}
-
-A landlord can charge rent for his land because he or his forefathers were able to own or conquer that land. You have no choice but to pay rent if you want to use his land. 
-
-This lack of choice is in turn caused by the fact that humans have no choice but tolive on landinstead of the water or air. The same idea is true withtaxes -- the government or ruling party can charge taxes because they were able to gain power in the country -- you have no choice but to pay taxes, because you must live under some form of civilized society. In Eastern metaphysics, we can say that rent is usually the revenue of the warrior class or ksatriyas.
-
-
-
-## Wages: Regular Revenue to Live, from the Abundance Experienced by Employers
-
-Wages are therevenue needed to maintain oneself and whatever else is important to one's life (such as one's family). Having high wages therefore means having more ability to live life, as compared to a low wage person who is limited in life. Labor or work is the main activity required to live. You need to work to find something to eat which in turn is needed to stay alive.
+Labor or work is the main activity required to live. You need to work to find something to eat which in turn is needed to stay alive.
 
 {{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 8" >}} 
 According to Cantillon, the lowest labourer must earn at least double his own maintenance so that he can bring up two children with the help of his wife.
 {{< /q >}}
 
-A slave does not earn wages becausehis life does not belong to himself. Instead, his ability to live is determined by his master, just like a machine. We do not say that a machine's gasoline is part of its revenue. In Eastern metaphysics, we can say that wages are usually the revenue of the masses as the worker class or shudras.
+A slave does not earn wages because his life does not belong to himself. Instead, his ability to live is determined by his master, just like a machine. We do not say that a machine's gasoline is part of its revenue. 
+
+The switch from slavery in the United States into wages weakened the warrior class and strengthened the trader class since wages were denominated in money which as controlled by the trader class. 
+
+In Eastern metaphysics, we can say that wages are usually the revenue of the masses as the worker class or shudras.
 
 
 

@@ -5,7 +5,7 @@ date: 2025-05-02
 description: "We list the events in the evolution of Superphysics from 2020-present"
 c: "darkslategray"
 showdate: true
-weight: 4
+# weight: 4
 draft: true
 ---
 

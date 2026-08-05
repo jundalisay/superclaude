@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 11"
-title: "The Trader Class"
+title: "Trader Economic Systems"
 date: 2015-01-17
 weight: 52
 image: /photos/objects/money.jpg

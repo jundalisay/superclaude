@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 3"
 # title: Stores of Value
-title: "Manifestation"
-description: We use grains to replace money
+title: "Revenues"
+description: Wages are the revenue of the worker class
 image: /photos/grains.jpg
 weight: 8
 ---

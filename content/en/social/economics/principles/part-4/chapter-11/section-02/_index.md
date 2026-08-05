@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 7"
-title: "Measures of Trade"
+heading: "Section 2"
+title: "Capitalism"
 date: 2015-01-17
-weight: 22
-image: /photos/econ/balance.jpg
+weight: 52
+image: /photos/econ/stock.jpg
 description: ""
 writer:
   name: Juan

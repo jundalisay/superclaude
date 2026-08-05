@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Section 2"
 title: "Primary Arbitrage"
 # date: 2020-04-17
 date: 2022-01-25
@@ -162,5 +162,3 @@ Our soldiers are not the most industrious people. Yet when they are liberally pa
 {{< /q >}}
 
 <!-- This productive Supereconomic system will be essential in helping societies rise up from the ashes of the debt and decline from Covid, through the Invisible Hand of Human Dharma. -->
-
-

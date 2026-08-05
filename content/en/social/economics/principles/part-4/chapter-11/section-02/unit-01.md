@@ -1,11 +1,11 @@
 ---
-heading: "Section 3"
+heading: "Unit 1"
 title: "Capitalism: Outside Ownership"
 linkTitle: Capitalism
 # date: 2015-07-24
 date: 2021-12-16
 weight: 67
-image: /photos/objects/gold.jpg
+image: /photos/objects/stock.jpg
 description: "Superphysics defines capitalism as an economic system that uses outside ownership to amass private profits"
 writer:
   name: Juan

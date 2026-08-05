@@ -1,94 +1,68 @@
 ---
-heading: Unit 2
-title: The 3 Problems with Money
-date: 2020-04-18
-weight: 24
-image: "/photos/objects/money.jpg"
-description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
+heading: "Unit 2"
+title: "The Time Value of Money"
+date: 2023-11-03
+weight: 21
+image: /photos/objects/clock.jpg
+description: "In Supereconomics, capital is anything that creates value"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
-toc: false
 ---
 
 
 
 
-People have loved money ever since it was invented. The philosophers David Hume and Socrates, on the other hand, were not so keen on money because of its drawbacks, which we distill into three:
+## The Time Value of Money as an Effect of the Force of Capital
+
+<!-- The Force of Capital 
+The Time Value of Capital  -->
+{{< i s="/graphics/econ/resourcemechanism.png" a="Resource Mechanisms" c="Money is the crudest resource mechanism. This is why it is often said to be the root of all evil." >}}
+
+The time value of money states that a dollar today is worth more than a dollar tomorrow. This is due to a few key reasons:
+
+1. Potential to Earn Interest
+
+If you have money now, you can invest it and earn interest or returns. A dollar tomorrow misses out on this growth opportunity.
+
+2. Inflation
+
+Over time, inflation reduces the purchasing power of money. A dollar today buys more than it will in the future due to rising prices.
+
+3. Risk
+
+There's always a chance you won't receive the promised future sum of money due to unforeseen circumstances. Money in hand is more certain.
 
 
-## 1. Money builds ego
+### Practical Example
 
-![Egotistic person](https://sorasystem.sirv.com/richpoor.png)
+Imagine you have two options:
 
-Having a lot of money gives theego power over other egos, giving a feeling of superiority to the monied-ego, leading to arbitrary actions which encroaches on other egos, creatinginjusticeand eventually,evil.
+1. Receive $100 today.
+2. Receive $105 in one year.
 
-A dirt-poor evil bum can hurt a few people, but an ultra rich evil man can hurt so many.
+Even though $105 seems like more, the time value of money tells us that $100 is actually worth more today. 
 
-We solve this by using the effort theory of value, facilitated bysocial contractsin order to prevent injustice and the growth of evil. This will prevent democracies from degenerating into tyranny and aristocracies from slipping into oligrachy, in Socrates-speak.
+This is because you could invest the $100 and earn interest, making it worth more than $105 after a year.
 
-{{< q a="David Hume" >}}
-None of the most furious excesses of love and ambition are in any respect to be compared to the extremes of avarice.
-{{< /q >}}
-
+In a year, due to inflation, $105 might not buy the same things $100 does today.
 
 
-## 2. Money destroys information in every exchange
+### Key Formula
 
-If you work for 1 hour in exchange for $10, then your work-information generated in that hour will be overwritten by the $10-money-information, just as a particle is bumped off by another particle. You don't remember most of what you did in every day of the first month of your first job, but you remember your first salary amount very well.
+Time Value of Money calculations often rely on these concepts:
 
-In contrast, a productivity-for-productivity system would retain all the information about that productivity, allowing precision in productivity-allocation.
-
-Why hire a plumber and a carpenter to fix your kitchen sink and dinner table, when you can just hire one guy that has experience in both?
-
-{{< q a="David Hume" >}}
-The lack of money can never injure any state within itself because people and commodities are the real strength of any community.
-{{< /q >}}
+Concept | Meaning
+--- | ---
+Present Value (PV) | The value of a sum of money today
+Future Value (FV) | The value of money at a specific point in the future, considering potential growth
+Interest Rate (r) | The rate of return you can earn on an investment
+Time (t) | The number of periods (e.g., years) involved
 
 
 
-## 3. Money only works for the here and now
+Time Value of Money is a cornerstone of finance. Understanding it is crucial for:
 
-Prices can only be assigned by the mind relative to the current moment and place. This is why asset prices fluctuate far more than wages or most commodities that circulate regularly.
-
-Money doesn't work for things that have a not-so-obvious-value (wave-value) such as:
-- the unseen labour being done by a rainforest in cleaning the air
-- the health benefits of eating a vegetable
-- the inventions that will only have impact after long and costly research
-
-Economics has no way to accurately put a price on the future effects of such things, but Superphysics has, through relativistic effort-valuation and resource credits.
-
-{{< q a="David Hume" >}}
-Deprive a man of all business and serious occupation, he runs restless from one amusement to another. He feels such a great weight and oppression from idleness and forgets the future ruin of his immoderate expences.
-{{< /q >}}
-
-
-The key is not in having a lot of money or having no money, but in having the right amount of money:
-
-{{< q a="Socrates" >}}
-Under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.
-<cite>The Simple Republic, Book 2</cite>
-{{< /q >}}
-
-{{< q a="Adam Smith" >}}
-Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
-<cite>Lectures On Jurisprudence</cite>
-{{< /q >}}
-
-
-<!-- In the next post, we shall show the pattern of how the allure of money naturally leads to corruption and crises throughout history.  -->
-
-
-<!-- According to Adam Smith, the invention of stamped coins as metal money created a convenience in exchanging goods and services, allowing circulation of resources to become faster. The invention of paper money through cash accounts by the French and paper money by the Chinese allowed circulation to be even faster, but also more dangerous:
-
-“The commerce and industry of the country, however, it must be acknowledged, though they may be somewhat augmented, cannot be altogether so secure, when they are thus, as it were, suspended upon the Daedalian wings of paper money, as when they travel about upon the solid ground of gold and silver”
-ros and cons of barter, metal money, paper money, and electronic money and cryptocurrencies as tools of trade:
-Speed Stability Accessibility
-Barter  Slow  Stable  Medium
-Metal Money Medium  Very stable High
-Paper Money Fast  Unstable  Very High
-Electronic Money & crypto Very Fast Very unstable Low
-The ideal tool of trade would be something that has high speed, low volatility or perishability, and high availability. Paper is sup
-As you can see, paper money has the most advantages which allow it to be the main tool of trade even at a time of electronic cash and cryptocurrencies -- you can store a lot of it in your pocket even without electricity and will be accepted everywhere.
- -->
+- Investment Decisions: Comparing potential investments to decide which ones will earn the most money over time.
+- Retirement Planning: Calculating how much you need to save today to have enough money in the future.
+- Loan Evaluations: Analyzing the true cost of borrowing money, considering the interest paid over time.

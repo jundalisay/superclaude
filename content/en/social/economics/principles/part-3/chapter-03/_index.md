@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 3"
-title: "Manifestation"
+title: "Donations"
 # Regulations"
 date: 2015-01-17
 weight: 12
-image: "/photos/social/lawmaker.jpg"
-description: "Regulations create balance"
+image: /photos/econ/singer.jpg
+description: "Donations are the revenue of the Thinker Class"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

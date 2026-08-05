@@ -80,5 +80,7 @@ Economics | Personal | Society
 Subjective and Variable | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
 
 
-
+We can say that:
+- Supereconomics, with its basis on society, is a 4th density science
+- Economics, with its basis on the self, is a 3rd density science
 

@@ -1,16 +1,15 @@
 ---
-heading: "Unit 2"
+heading: "Unit 3"
 linkTitle: "The 4 Laws of Exchangeable Value"
 title: "The 4 Laws of Exchangeable Value arise from the different perspectives of the self and society as the difference between a wave and multiple waves"
 # date: 2022-03-26
 image: /graphics/econ/laws.png
-weight: 15
+weight: 10
 description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 

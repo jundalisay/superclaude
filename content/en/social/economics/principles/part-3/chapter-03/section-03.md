@@ -1,6 +1,6 @@
 ---
-heading: Section 2
-title: "Wages and Profits"
+heading: Section 3
+title: "5 Factors That Affect Wages and Profits"
 date: 2016-12-21
 weight: 8
 image: "/photos/econ/computer.jpg"
@@ -14,9 +14,6 @@ toc: false
 ---
 
 
-
-
-## 5 Factors that Affect Wages and Profits
 
 <!-- Are you looking for a career that gives a high salary or deciding what kind of business to establish?  -->
 

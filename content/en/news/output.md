@@ -3,8 +3,8 @@ title: "The Output of Superphysics as of"
 c: "darkslategray"
 date: 2024-11-29
 showdate: true
-featured: true
-weight: 5
+# featured: true
+# weight: 5
 author: Juan
 image: "/graphics/sp.jpg"
 description: "We list the output of Superphysics as a whole"

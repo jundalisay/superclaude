@@ -2,12 +2,13 @@
 title: "Breaking Changes"
 date: 2024-08-26
 # orig date: 2023-04-22
-featured: true
+# featured: true
 weight: 2
 description: "Here are Breaking Changes in Superphysics"
 c: "darkslategray"
 image: "/photos/physics/smash.jpg"
 # showdate: true
+draft: true
 ---
 
 

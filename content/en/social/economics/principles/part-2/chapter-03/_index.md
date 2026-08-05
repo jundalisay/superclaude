@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 3"
-title: Manifestation
+title: Revenue
 # Effort
-description: Effort Creates Value from Capital
+description: The Revenue of the Warrior class is Rent and Taxes
 image: /photos/bio/muscle.jpg
 weight: 8
 ---
