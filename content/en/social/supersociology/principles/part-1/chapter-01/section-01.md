@@ -62,6 +62,8 @@ In this way, a society can refer to:
   - This the source of its culture in the physical sense (e.g. physical Chinese using physical chopsticks)
 
 
+
+
 English | Superphysics | Sanskrit
 --- | --- | ---
 Soul | Aethereal Mind | Jivatman
@@ -73,6 +75,9 @@ In a nutshell:
 - the 2 Forces fight each other and causes waves
 - the waves are therefore the effect of the destabilization of the Absolute Entity which then leads to Existence and the Supreme Entity, both of which have a wave-nature
 - the wave-nature creates diversity and cycles
+
+
+> Waves are the effect of the destabilization of the Absolute Entity
 
 
 By referring to a society as a soul, we:
@@ -102,7 +107,7 @@ Since a team is a society, it also is subject to social cycles which manifest as
 
 
 
-{{< q a="Hume" c="The Treatise Of Human Nature Section 1, Part 3, Book 3" >}}
+{{< q a="David Hume" c="The Treatise Of Human Nature Section 1, Part 3, Book 3" >}}
 The minds of all men are similar in their feelings and operations. No one can be actuated by any affection which others are not susceptible to. In wound-up strings, the motion of one string communicates itself to the rest. So all the affections readily pass from one person to another, and beget correspondent movements in every human creature.
 {{< /q >}}
 
@@ -116,7 +121,14 @@ Few people ever reflect that from the evil of other men, something of evil is co
 
 This flexibility lets souls send and receive invisible information via intuition. In our music analogy, the orchestra can get visual hints from the conductor to speed up the tempo or make the strings louder. 
 
+{{< n n="The conductor is represented by a political party called a Guardian Party that matches Socrates' descriptions" >}}
+
+
 This flexible quality also lets souls merge and agree, as proven by the phrase "the meeting of minds" or "being on the same page". This would be like an orchestra adding more instruments that jive with its style. 
+
+This will allow easier group consensus as a check to individual freedoms. This is because:
+- inviduality and free will is 3rd density vibration
+- consensus and unity is 4th density vibration
 
 It explains why Chinese adopted chopsticks, while Europeans adopted spoon and fork
 
@@ -140,7 +152,7 @@ For example:
 - A sports team begins when the souls of playes agree to play together
 
 
-### The Scalability of Societies via Common Interest
+### The Scalability of Societies via Common Interest: Earth Government
 
 The ability of waves to merge to become a bigger wave is best seen in an orchestra where single instruments can merge to become a single, larger, and more sophisticated sound-wave. 
 
@@ -157,7 +169,7 @@ Since societies are made up of waves of individual souls, then they can agree an
 
 This unity is based on the similarities of the waves in the group. In a society, this is called the common interest. 
 
-Social Superphysics aims to form such a unified society by explaining the properties of the soul, as well as the dynamics of common interest, as explained by Socrates, David Hume, Hinduism, Buddhism, and Taoism. 
+Social Superphysics aims to form such a unified society, through an Earth government, by explaining the properties of the soul, as well as the dynamics of common interest, as explained by Socrates, David Hume, Hinduism, Buddhism, and Taoism. 
 
 
 Lateral Type | Metaphysical Organism | Physical Example | Parts | Explanation
@@ -179,6 +191,4 @@ The entire human species is therefore one big society made up of all human minds
 
 If common interest naturally unites humans into societies, why do we see so much inequality, hate, and conflict?
 
-These are caused by the ego, as the feeling of the self. 
-
-
+These are caused by the ego, as the feeling of the self, as an effect of the Negative Force called Shakti and Yin that creates a 3rd density reality.
