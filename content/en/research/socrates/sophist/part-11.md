@@ -13,11 +13,17 @@ icon: "Socrates"
 
 
 {{< l a="Foreigner" >}}
-Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye—it may or may not be, and may or may not be capable of definition.
+Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being.
 
-But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. 
+For as to whether there is an opposite of being, to that enquiry we have long said good-bye—it may or may not be, and may or may not be capable of definition.
 
-And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
+But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that 
+
+There is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, 
+
+by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. 
+
+Through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
 
 He who is sceptical of this contradiction, must think how he can find something better to say; or if he sees a puzzle, and his pleasure is to drag words this way and that, the argument will prove to him, that he is not making a worthy use of his faculties; for there is no charm in such puzzles, and there is no difficulty in detecting them; but we can tell him of something else the pursuit of which is noble and also difficult.
 

@@ -14,9 +14,16 @@ icon: "Socrates"
 
 
 {{< l a="Foreigner" >}}
-Since, then, we are agreed that some classes have a communion with one another, and others not, and some have communion with a few and others with many, and that there is no reason why some should not have universal communion with all, let us now pursue the enquiry, as the argument suggests, not in relation to all ideas, lest the multitude of them should confuse us, but let us select a few of those which are reckoned to be the principal ones, and consider their several natures and their capacity of communion with one another, in order that if we are not able to apprehend with perfect clearness the notions of being and not-being, we may at least not fall short in the consideration of them, so far as they come within the scope of the present enquiry, if peradventure we may be allowed to assert the reality of not-being, and yet escape unscathed.
+We agreed that:
+- some classes have a communion with one another, and others not. 
+- some have communion with a few and others with many.
+- There is no reason why some should not have universal communion with all
 
-The most important of all the genera are those which we were just now mentioning—being and rest and motion. And two of these are, as we affirm, incapable of communion with one another.
+ <!-- let us now pursue the enquiry, as the argument suggests, not in relation to all ideas, lest the multitude of them should confuse us, but let us select a few of those which are reckoned to be the principal ones, and consider their several natures and their capacity of communion with one another, in order that if we are not able to apprehend with perfect clearness the notions of being and not-being, we may at least not fall short in the consideration of them, so far as they come within the scope of the present enquiry, if peradventure we may be allowed to assert the reality of not-being, and yet escape unscathed. -->
+
+The most important of all the genera are those which we were just now mentioning—being and rest and motion.
+
+These 2 are incapable of communion with one another.
 
 Whereas being surely has communion with both of them, for both of them are. That makes up three of them. Each of them is other than the remaining two, but the same with itself.
 

@@ -17,13 +17,29 @@ the Persians have the highest form of the one, and we of the other; almost all t
 
 Neither the one, if it be exclusively and excessively attached to monarchy, nor the other, if it be similarly attached to freedom, observes moderation; but your states, the Laconian and Cretan, have more of it; and the same was the case with the Athenians and Persians of old time, but now they have less. Shall I tell you why?
 
-Hear, then:—There was a time when the Persians had more of the state which is a mean between slavery and freedom. In the reign of Cyrus they were freemen and also lords of many others: the rulers gave a share of freedom to the subjects, and being treated as equals, the soldiers were on better terms with their generals, and showed themselves more ready in the hour of danger. And if there was any wise man among them, who was able to give good counsel, he imparted his wisdom to the public; for the king was not jealous, but allowed him full liberty of speech, and gave honour to those who could advise him in any matter. And the nation waxed in all respects, because there was freedom and friendship and communion of mind among them.
+There was a time when the Persians were in between slavery and freedom.
 
-How, then, was this advantage lost under Cambyses, and again recovered under Darius? Shall I try to divine?
+In the reign of Cyrus, they were freemen and also lords of many others.
+- The rulers gave a share of freedom to the subjects
+- The soldiers were treated as equals and were on better terms with their generals, and showed themselves more ready in the hour of danger
 
-I imagine that Cyrus, though a great and patriotic general, had never given his mind to education, and never attended to the order of his household.
+If there was any wise man among them, who was able to give good counsel, he imparted his wisdom to the public; for the king was not jealous, but allowed him full liberty of speech, and gave honour to those who could advise him in any matter. 
 
-I think that from his youth upwards he was a soldier, and entrusted the education of his children to the women; and they brought them up from their childhood as the favourites of fortune, who were blessed already, and needed no more blessings. They thought that they were happy enough, and that no one should be allowed to oppose them in any way, and they compelled every one to praise all that they said or did. This was how they brought them up.
+The nation waxed in all respects, because there was freedom and friendship and communion of mind among them.
+
+How, then, was this advantage lost under Cambyses, and again recovered under Darius?
+
+Cyrus was a great and patriotic general. But had never:
+- given his mind to education
+- attended to his household
+
+From his youth upwards he was a soldier, and entrusted the education of his children to the women.
+
+They brought them up from their childhood as the favourites of fortune, who were blessed already, and needed no more blessings. 
+
+They thought that they were happy enough, and that no one should be allowed to oppose them in any way, and they compelled every one to praise all that they said or did. 
+
+This was how they brought them up.
 
 Such an one as women were likely to give them, and especially princesses who had recently grown rich, and in the absence of the men, too, who were occupied in wars and dangers, and had no time to look after them.
 

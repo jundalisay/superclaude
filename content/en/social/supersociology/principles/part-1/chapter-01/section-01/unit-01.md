@@ -1,6 +1,6 @@
 ---
 title: "The Society Organism"
-heading: "Section 1"
+heading: "Unit 1"
 image: "/graphics/meta/ideas.jpg"
 date: 2021-07-01
 weight: 3
@@ -167,22 +167,12 @@ We can say that **the common interest is the conscience of the soul of society**
 
 Since societies are made up of waves of individual souls, then they can agree and merge with other societies to form nations, which can merge to form confederations, which can finally form a global human society. 
 
-This unity is based on the similarities of the waves in the group. In a society, this is called the common interest. 
+This unity is based on the similarities of the waves in the group, creating waves being within waves. In a society, this is called the common interest. 
+
+{{< i s="/graphics/social/multiwaves.jpg" a="Waves of Society" c="The personal wave is within the family wave which is within a town or city wave which is within a national wave which is within an international wave" >}}
+
 
 Social Superphysics aims to form such a unified society, through an Earth government, by explaining the properties of the soul, as well as the dynamics of common interest, as explained by Socrates, David Hume, Hinduism, Buddhism, and Taoism. 
-
-
-Lateral Type | Metaphysical Organism | Physical Example | Parts | Explanation
---- | --- | --- | --- | ---
-Personal | Mind or Soul (Jivatman) | You or Self (Jiva) | Perception  Your perceptions mold your mind | 
-Group | Soul of society | A basketball team | Individual minds | Society is molded by the minds inside it (A weak basketbal team is one with weak members) 
-Species | Soul of species | Human species | Individual societies | Species evolve as one in order to live better 
-Planetary | Soul of planet | Earthlings | Each species (cats, dogs, humans, potatoes) | All species evolve according to their planet's conditions | 
-Stellar | Soul of the star system | system | Individual planets | All planets affect each other 
-Galactic | Soul of galaxy | Milky way | Individual stars | Life begins from supernova which spread throughout its galaxy 
-Universal | Soul of universe |  Physical Universe | Individual galaxies | The galaxies form the mind of the universe as a portion of Existence
-Multiversal | Soul of Existence (Paramatman) | Multiverse (Brahma) | Individual Universes and Realities |  The physical and metaphysical parts of the universe form Brahma 
-
 
 The entire human species is therefore one big society made up of all human minds or souls. 
 - David Hume and Socrates use the analogy of citizens being the individual souls, with their government as the oversoul. 

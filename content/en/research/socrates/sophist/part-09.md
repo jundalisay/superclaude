@@ -171,13 +171,20 @@ No.
 {{< /r >}}
 
 {{< l a="Foreigner" >}}
-Then by this admission everything is instantly overturned, as well the doctrine of universal motion as of universal rest, and also the doctrine of those who distribute being into immutable and everlasting kinds; for all these add on a notion of being, some affirming that things 'are' truly in motion, and others that they 'are' truly at rest.
+This instantly overturns the doctrine of:
+- universal motion
+- universal rest
+- those who distribute being into immutable and everlasting kinds
+
+This is because all these add on a notion of being. Some affirm that things 'are' truly in motion, and others that they 'are' truly at rest.
 
 Those who would at one time compound, and at another resolve all things, whether making them into one and out of one creating infinity, or dividing them into finite elements, and forming compounds out of these; whether they suppose the processes of creation to be successive or continuous, would be talking nonsense in all this if there were no admixture.
 
 Most ridiculous of all will the men themselves be who want to carry out the argument and yet forbid us to call anything, because participating in some affection from another, by the name of that other.
 
-This is because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse; and therefore they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
+This is because they are compelled to use the words 'to be,' 'apart,' 'from others,' 'in itself,' and ten thousand more, which they cannot give up, but must make the connecting links of discourse.
+
+Therefore, they do not require to be refuted by others, but their enemy, as the saying is, inhabits the same house with them; they are always carrying about with them an adversary, like the wonderful ventriloquist, Eurycles, who out of their own bellies audibly contradicts them.
 
 If we suppose that all things have the power of communion with one another — what will follow?
 {{< /l >}}
@@ -189,9 +196,9 @@ Even I can solve that riddle. Why, because motion itself would be at rest, and r
 {{< l a="Foreigner" >}}
 But this is utterly impossible. Then only the third hypothesis remains.
 
-For, surely, either all things have communion with all; or nothing with any other thing; or some things communicate with some things and others not.
+Either all things have communion with all, or nothing has communion with any other thingm, or some things communicate with some things and others not.
 
-Two out of these three suppositions have been found to be impossible.
+2 of these 3 suppositions have been found to be impossible.
 
 Every one then, who desires to answer truly, will adopt the third and remaining hypothesis of the communion of some with some.
 
@@ -223,7 +230,9 @@ How are we to call it? By Zeus, have we not lighted unwittingly upon our free an
 
 Should we not say that the division according to classes, which neither makes the same other, nor makes other the same, is the business of the dialectical science?
 
-Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. This is the knowledge of classes which determines where they can have communion with one another and where not.
+Then, surely, he who can divide rightly is able to see clearly one form pervading a scattered multitude, and many different forms contained under one higher form; and again, one form knit together into a single whole and pervading many such wholes, and many forms, existing only in separation and isolation. 
+
+This is the knowledge of classes which determines where they can have communion with one another and where not.
 
 The art of dialectic would be attributed by you only to the philosopher pure and true?
 {{< /l >}}

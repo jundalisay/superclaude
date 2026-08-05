@@ -52,9 +52,7 @@ There is something ridiculous in the expression 'master of himself' because the 
 {{< /q >}}
 
 
-## The Solution: Harness the Common Interest via Social Networkism 
-
-<!-- Dialectical Social Networkism -->
+## The Solution: Harness the Common Interest via Collectividuality
 
 It would be easier to prevent the growth of ego by pointing out that no one is perfect:
 
