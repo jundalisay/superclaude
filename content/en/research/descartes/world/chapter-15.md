@@ -21,64 +21,55 @@ They see the `sun` as completely full of light and like our sun. It sends rays f
 
 {{< img src="/graphics/physics/orbit.jpg" alt="Orbits" >}}
 
-The planetary gravitational territory `ABCD` turns around the Earth. 
+<!-- gravitational territory -->
+The planetary vortex `ABCD` turns around the Earth. 
 - Its air-aether offers some resistance to those rays from the sun. 
 
-All the parts of the stellar gravitational territory that are between `sun` and `D` strengthen the rays. 
-- The planetary gravitational territory between `D` and `e` is comparatively smaller.
+<!-- gravitational territory -->
+All the parts of the stellar vortex that are between `sun` and `D` strengthen the rays. 
+- The planetary vortex between `D` and `e` is comparatively smaller.
 - This is why it can remove only very little of the force of those rays.
 
-Even all the action of the air-aether of the stellar gravitational territory `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
+Even all the action of the air-aether of the stellar vortex `FGGF` is not enough to impede the rays of the many fixed stars from reaching the Earth.
  <!-- from the sides not lit by the sun. -->
 
 
 {{< img src="/graphics/physics/fig_2-w.jpg" alt="Solar Systems" >}}
 
-
-The stellar gravitational territories are those with a sun or star at its center.
-- Those territories can be rather unequal in size. 
-- But they must always be exactly of the same force.
-  - In this way, all the fire-aether in the line `SB` must tend as strongly towards `e` as line `eB` tends towards `S`. 
-  - This means that force of line `SB` is the same as the force of line `eB`
-- But the force of line `earth-B` is less than the force of `eB`.
-  - This means the force of line `earth-B` cannot prevent line `eB` from extending to `earth`
-
-Likewise, Star `A` can extend its rays to `earth`
-- The air-aether between `A` and `2` helps those rays more than the air-aether between `4` and `earth` resists them. 
-- The air-aether between `3` and `4` helps them no less than that between `3` and `2` resists them.
-
-<!-- - Line `sirius-2` helps it move to `earth` more than line `earth-4` resists it.
-- Line `2-3` helps it more than line `4-3` resists it. -->
-
-This is why the stars look disproportional and mixed up.
-
-<!-- If they are not equal, they will be destroyed in a short time, or at least they will change until they have acquired it. -->
+ <!-- gravitational territories -->
+The stellar vortices are those with a sun or star at its center.
+- These territories can be rather unequal in size. 
 
 
-<!-- - It cannot impede the force of the ray `moon-B`* to extend to `earth`. 
+But their air-aether must always be exactly of the same force so that all the air-aether in the line `SB` must tend as strongly toward `e` just as the air-aether in the line `εB` tends toward `S`.
 
-In the same way, `sirius` can extend its rays to `earth`
-- The matter of the heaven between `sirius` and `2` aids them more than the matter between `4` and `earth` resists them.
+{{< n n="The resulting space pressure is equal to maintain their current vortex size and relative locations" >}}
 
-Likewise:
-- the matter between `3` and `4` aids the ray of `sirius` towards `earth`   
-- the matter between `3` and `2` resists the ray of `sirius` towards `earth` -->
 
-<!-- , and in addition in as much as that between 3 and 4 aids them no less than that between 3 and 2 resists them.  -->
+If they are unequal, then the air-aether will be destroyed in a short time, or at least the air-aether will change until they are both equal.
 
-<!-- Thus, those [aethereal] stars are the same as the physical stars that we see in the real world. -->
-<!-- judging others proportionately, those stars must appear no less confusedly arranged, nor less in number, nor less unequal to one another, than do those we see in the real world. -->
+This means that force of line `SB` is the same as the force of line `eB`
 
-The stars never appear in their actual places. 
+But the force of line `earth-B` is less than the force of `eB` [because it is not a star?].
+- This means the force of line `earth-B` cannot prevent line `eB` from extending to `earth`
+
+In the same way, star `A` can extend its rays to the `earth`
+
+The air-aether between `A` and `2` **aids them** more than the air-aether between `4` and `earth` resists them [because earth is not a star?].
+- This aid from the vortex of `A` on that ray goes through the aid between `3` and `4` and the resistance between `3` and `2`. [There is a net positive push]
+
+This is why based on the proportions of stellar vortices, those stars appear confusedly arranged both in number and proportion.
+- They can never appear in the true place where they are.
+
+<!-- The stars never appear in their actual places.  -->
 
 For example:
 - Star `e` appears as if it were in the straight line `earth-B`
 - Star `A` appears as if it were in the straight line `earth-4`.
 
-**This is because the territories are unequal in size.** 
+**This is because the vortices are unequal in size.** 
 - **The edges that separate them are arranged in a way that the rays that pass through them, from the stars toward the earth, always meet them obliquely, never at right angles.**
 
-<!-- just about never so disposed that  -->
 
 This makes the light **bend and undergo a great deal of refraction**.
 - I demonstrated this in the Dioptrics
@@ -86,7 +77,7 @@ This makes the light **bend and undergo a great deal of refraction**.
 
 <!-- TB -->
 Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compared to the diameter of the Earth's orbit around the sun.
-- This makes the Earthlings always see the stars as fixed in the firmament. 
+- This makes the Earthlings always see, whenever the Earth is in its own orbit, the stars as fixed in the firmament. 
 - **This is why astronomers say that they cannot observe parallax in the stars**.*
 
 
@@ -98,9 +89,21 @@ Those lines `earth-R`, `earth-4`, and ones like them are so extremely long compa
 
 ## Gravitational Lensing 
 
-The same star can often appear in different places because of the different edges that divert its rays toward the earth.
+Regarding the **number** of those stars, the same star can often appear in different places because of the different edges that divert its rays toward the earth. 
 
 {{< img src="/graphics/physics/lensingangles.png" alt="Lensing" cap="Superphysics Note: Here we put the modern representation of gravitational lensing which is  consistent with the graphic at the start of this Chapter. Unlike Modern Physics which sources the cause of lensing to dark matter which does not exist, Descartes sources it from the spatial territory of the star or galaxy itself. Unlike Newton's space which is based on the central mass, this Cartesian space is based on the *edge* of the territory. This is why a blob of a non-spiral galaxy can have lensing measured from its edges and not from its non-center" >}}
+
+
+<!-- For, generally, all the bodies that send out stronger rays against the eyes of onlookers than do the bodies surrounding them appear proportionately that much greater than they, and consequently those stars must always seem larger than the parts of their heavens that are equal to them and that neighbor them, as I will explain below. In addition to this, however, the surfaces FG, GG, GF and ones like them, where the refractions of [the stars'] rays take place, can be curved in such a way that they greatly increase [the stars'] size; indeed, even when completely flat, they increase it.
+
+Moreover, it is very probable that those surfaces, being in a matter that is very fluid and that never ceases to move, should always shake and quiver somewhat, and consequently that the stars one sees through them should appear to scintillate and vibrate, just as ours do, and even, because of their vibration, appear a bit larger. In this way, the image of the moon appears larger when viewed from the bottom of a lake of which the surface is not very stirred up or agitated, but merely a bit rippled by the breath of some wind.
+
+And, finally, it can happen that, over the course of time, those surfaces change a bit, or indeed even that some of them bend rather noticeably in a short time, even if this is only on the occasion of a comet's approaching them. By this means, several stars seem after a long time to change a bit in place without changing in size, or to change a bit in size without changing in place. Indeed, some even begin rather suddenly to appear or to disappear, just as one has seen happen in the real world.[65]
+
+As for the planets and the comets that are in the same heaven as the sun, knowing that the parts of the third element of which they are composed are so large or so joined severally together that they can resist the action of light, it is easy to understand that they must appear by means of the rays that the sun sends toward them and that are reflected from there toward the earth, just as the opaque or obscure objects that are in a room can be seen there by means of the rays that the lamp shining there sends toward them and that return from them toward the eyes of the onlookers. In addition, the rays of the sun have a quite noteworthy advantage over those of a lamp. It consists in their force's being conserved, or even being increasingly strengthened to the degree that they move away from the sun, until they have reached the exterior surface of its heaven, because all the matter of that heaven tends there. By contrast, the rays of a lamp are weakened as they move away, in proportion to the size of the spherical surfaces they illuminate and, indeed, still somewhat more because of the resistance of the air through which they pass. Whence it is that the objects close to that lamp are noticeably more lighted by it than those far from it, and that the lowest planets are not, in the same proportion, more lighted by the sun than the highest, nor even more than the comets, which are incomparably more distant.
+
+Now, experience shows us that the same thing also happens in the real world. I do not believe, however, that it is possible to give a reason for it if one supposes that light is anything in the objects other than an action or disposition such as I have set forth. I say an action or disposition; for, if you have attended well to what I have just demonstrated, to wit, that, if the space where the sun is were totally void, the parts of its heaven would not cease to tend toward the eyes of onlookers in the same way as when they are pushed by its matter (and even with almost as much force), you can well judge that there is just about no need to have any action in the sun itself nor just about even for it to be anything other than pure space in order to appear as we see it. This is something you would perhaps earlier have taken to be a quite paradoxical proposition. Furthermore, the motion those planets have about their center is the reason why they twinkle, though much less strongly and in another way than do the fixed stars; because the moon is deprived of that motion, it does not twinkle at all.
+ -->
 
 
 
@@ -113,17 +116,17 @@ This is similar to how objects are multiplied when one looks through glasses or 
 {{< img src="/graphics/physics/lensing.jpg" alt="lensing" cap="Descartes described how gravitational lensing works far ahead of Einstein">}}
 
 
-Stars appear much smaller than they are because of their extreme distance. This is why:
-- most of them must not appear at all
+
+Regarding their size, stars appear much smaller than they are because of their extreme distance. This is why:
+- most of them do not appear at all
 - others appear only insofar as the rays of stars joined together render the parts of the firmament through which they pass a bit whiter. This is similar to:
   - the stars which astronomers call "nebulous," or
-  - the great belt of our heaven that the poets pretend to be whitened by the milk of Juno*.
-
+  - the great belt of our [galactic] vortex that the poets pretend to be whitened by the milk of Juno*.
 
 {{< f f="*Translator's Note: Among the startling telescopic discoveries announced by Galileo in his Copernican works of the 1610s was the composition of the Milky Way; magnification revealed it to consist of a huge number of separate stars." >}}
 
 
-Despite this, the less distant stars are about equal to our sun<!-- , in order to judge that they can appear as large as the largest of our world -->.
+Despite this, the less distant stars are about equal to our sun, in order to judge that they can appear as large as the largest of our world.
 
 
 ## Edges

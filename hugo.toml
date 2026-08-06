@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir = false
     items = [
       { key = "superphysics", url = "/superphysics" },
       { key = "supermath", url = "/supermath" },
-      { key = "material", url = "/material" },
+      { key = "physics", url = "/material" },
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },

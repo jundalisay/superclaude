@@ -11,6 +11,7 @@ writer:
 icon: "Juan"
 aliases:
   /superphysics/principles/chapter-11c
+  /superphysics/principles/chapter-11/section-03/unit-01/
 ---
 
 
@@ -51,3 +52,4 @@ This is done by reorganizing your abstract mind to have the same shape and vibra
 ## Perceiving Elementals 
 
 This requires developing the heart, throat, and third eye chakras. 
+
