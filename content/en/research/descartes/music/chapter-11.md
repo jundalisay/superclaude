@@ -77,3 +77,45 @@ Which Numbers are also too great to explicate any intervall which may not be ing
 
 Here we shall end our explication of all the Affections of a Sound; having first only taken notice, in order to the probation of what we formerly said, that all the Variety of sounds, as to Grave and Acute, doth arise in Musick only from these Numbers 2, 3, and 5. we say that all numbers, by which all well Degrees, as Dissonances are explicated, are compoſed of those three, and by them, division being made, may at length be resolved even to an unity.
 
+
+
+**[Table 1: Ratios and Musical Intervals (Left page)]**
+
+
+[62.] *Viz.* Semitonium medium, as before An. 53.
+
+[63.] For \(\frac{1}{5} + \frac{1}{6} = \frac{11}{30}\); \(\frac{1}{4} + \frac{1}{7} = \frac{11}{28}\); \(\frac{1}{5} + \frac{1}{8} = \frac{13}{40}\); \(\frac{1}{7} + \frac{1}{8} = \frac{15}{56}\);
+\(\frac{1}{2} - \frac{1}{12} = \frac{5}{12}\); \(\frac{1}{3} - \frac{1}{6} = \frac{1}{6}\); \(\frac{1}{3} - \frac{1}{8} = \frac{5}{24}\); \(\frac{1}{2} - \frac{1}{8} = \frac{3}{8}\).
+
+[64.] See p. 22.
+
+[65.] *Viz.* p. 28.
+
+[66.] See Figure An. 61.
+
+[67.] For \(\frac{1}{3} - \frac{1}{20} = \frac{17}{60}\); \(\frac{1}{4} - \frac{1}{20} = \frac{4}{20} = \frac{1}{5}\); \(\frac{1}{3} - \frac{1}{15} = \frac{4}{15}\); \(\frac{1}{3} - \frac{1}{13} = \frac{10}{39}\);
+\(\frac{1}{3} - \frac{1}{10} = \frac{7}{30}\); \(\frac{1}{2} - \frac{1}{5} = \frac{3}{10}\); \(\frac{1}{3} - \frac{1}{4} = \frac{1}{12}\).
+
+[68.] 480.
+
+
+
+**[Table 2: Ratios and Musical Intervals (Right page)]**
+*(This table is similar to the left one, with faint fractions for intervals. Visible headers include: Ninth major, Ninth minor, Seventh major, Seventh minor, Sixth major, Sixth minor, Fifth, Fourth, Tone major, etc.)*
+
+[68.] 480.405 :: 384.324 :: 32.27.
+480.324 :: 40.27.
+324.240 :: 27.20.
+405.240 :: 324.192 :: 27.16.
+
+[69.] For \(\frac{1}{5} + \frac{1}{6} = \frac{11}{30}\) ; \(\frac{1}{5} + \frac{1}{8} = \frac{13}{40}\) ; \(\frac{1}{7} + \frac{1}{8} = \frac{15}{56}\).
+
+[70.] 540.384 :: 405.288 :: 45.32.
+384.270 :: 288.202 \(\frac{1}{2}\) :: 576.405 :: 64.45.
+
+[71.] *viz.* the firſt compound *Eighth*, i. e. a *Fifteenth*.
+
+[72.] *viz.* without altering the order of Succeſſion, p. 30, and 41.
+
+Otherwiſe, of Eighths conſidered only as conſiſting of three *major* Tones, two *minor* Tones, and two *major* Semitones. There are 210 ſeveral ſorts, or *Moods*; and may be found, by the Laws of *Combination*, as in this Table following; where note *a* is put for a *major Tone*; *b* for a *minor Tone*; and *c* for a *major Semitone*
+

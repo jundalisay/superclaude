@@ -56,8 +56,6 @@ Let, therfore, AB bee the more Grave Term, in which if I would find the Acuter T
 
 
 
-
-
 From the first Division arises only 1 Consonance.
 
 From the second, two.

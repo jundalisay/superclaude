@@ -70,13 +70,32 @@ We say, that 12th is composed of an Eighth, and the residue thereof, viz. a Fift
 
 For composed it is of A C, A D, which is an Eighth; and A D, A B, which is a Fifth: and so it falls out in the rest. 
 
+{{< i s="/graphics/d/acdb.jpg" a="acdb" >}}
+
+
 Whence it comes, that one Eighth does not so multiply the numbers of proportion if it compoſe others, as all others do; and is therefore the only Consonance which is capable of Gemination, or Doubling. 
 
-For, if it be Geminated, it makes only 4 [15], or 8, if regeminated: but if a Fifth be Geminated, which is the First after an Eighth, it makes 9 [16]: for from 4_5 to 6_5 is a Fifth; in like manner from 6_5 to 9_5 which number is far greater then 4, and exceeds the series of the first six Numbers, in which we have formerly included all Consonances [17].
+For, if it be Geminated, it makes only 4*, or 8, if regeminated.
+
+{{< f f="*Viz.* for the graver Terms. See the division of AB into 4. An. 10.">}}
+
+
+But if a Fifth be Geminated, which is the First after an Eighth, it makes 9*
+
+{{< f f="For 1/4 : 1/5 = 5/4" >}}
+ 
+
+For from 4_5 to 6_5 is a Fifth; in like manner from 6_5 to 9_5 which number is far greater then 4, and exceeds the series of the first six Numbers, in which we have formerly included all Consonances*.
+
+{{< i s="/graphics/d/3rd.jpg" a="3rd major" c="*Viz.* p. 9. And may be made out from the division of A B into fix An. 10, if according to the method of our Authour, p. 17, we convert 1/2 thereof, *viz.* from 6 to 3 ( which containeth the space of an Eighth) into the Circle following; so that the point at 6 be joyned to the point at 3, and the Circle be divided into three equally (as is 6, 3) at 4 and 5." >}}
+
 
 From this it naturally follows; that of all Consonancies, of what kind soever, there are but three Species: one is Simple: another Compound of a Simple and an Eighth: a third compoſed of a Simple and 2. Eighths. Nor can any other Species be added, which is compoſed of 3 Eighths, and another simple Consonance; because these are the extream limits, nor is there any progression beyond three Eighths; since then the numbers of Proportions would be multiplied excessively. From whence is deduced a general Catalogue of all Consonances whatsoever, which is here presented in the following Table.
 
-### Second Figure
+
+{{< i s="/graphics/d/fig2a.jpg" a="Figure 2" >}}
+
+<!-- ### Second Figure
 
 | | Simple Consonances. | First Compound Consonances. | Second Compound Consonances. |
 | :--- | :---: | :---: | :---: |
@@ -87,32 +106,97 @@ From this it naturally follows; that of all Consonancies, of what kind soever, t
 | Sixths majors | 3/5 | 3/10 | 3/20 |
 | Thirds minors | 5/6 | 5/12 | 5/24 |
 | Sixths minors | 5/8 | 5/16 | 5/32 |
+ -->
+
+
+Here we have added the Sixth Minor, which we had not observed in Chapter 5. 
+
+It may be educated from what hath been said of an Eighth, from which if a Ditone be cut off, the remainder will be a Sixth Minor*.
+
+{{< f f="As 1/2 - 1/4 = 1/4 X" >}}
 
 
 
-Here we have added the Sixth Minor, which we had not observed in the precedent Chapter; in regard it may be educated from what hath been said of an Eighth, from which if a Ditone be cut off, the remainder will be a Sixth Minor.
+Whereas we even now affirmed, that all Consonances were comprehended in an Eighth*.
 
-Whereas we even now affirmed, that all Consonances were comprehended in an Eighth [19]; we are concerned to inquire how that comes to pass, and how they proceed from the Division thereof, that so their nature may be the more plainly and distinctly understood.
 
-First, it is most certain, that that Division of an Eighth, from which all Consonances arise, ought to be Arithmetical, or into equal parts: now what that is, which ought to be divided, is evident in the string A B, which is distant from A C, the part C B; but the found A B, differs from the found A C, an Eighth: therefore will the space of an Eighth be the part C B. That therefore is, which ought to be divided into two equals, that the whole Eighth may be divided, which is effected in D [20]. 
+{{< f f="Or composed of one or more Eights only, or together with some one that is contained therein, p. 11." >}}
+
+
+We are concerned to inquire how that comes to pass, and how they proceed from the Division thereof, that so their nature may be the more plainly and distinctly understood.
+
+
+First, the Division of an Eighth, from which all Consonances arise, should be Arithmetical, or into equal parts.
+
+What that is, which ought to be divided, is evident in the string A B, which is distant from A C, the part C B.
+
+{{< i s="/graphics/d/fig2.jpg" a="Figure 2" >}}
+
+But the sound A B, differs from the sound A C, an Eighth.
+
+Therefore, will the space of an Eighth be the part C B. That therefore is, which ought to be divided into two equals, that the whole Eighth may be divided, which is effected in D*. 
+
+{{< f f="*As, in Fig. 1, An. 8, is the Eighth on the Chorde B 0; *viz.* 0 21 at 8." >}}
+
 
 From which Division, that we may understand what Consonance is properly, and per se generated; we are to consider that A B, which is the more grave Term, is divided in D, not in order to it self, for then it would have been divided in C, as was done before: nor, as the Case stands now, is an Union divided, but an Octave, which consists of two Terms, and therefore when the more Grave Term is divided, that Division is made in order to another more Acute. 
 
 Whence it comes that the Consonance properly arising from the Division, is between the Terms A C, A D, which is a Fifth; not betwixt A D, A B, which is a Fourth: because the part D B, is only the residue, and generates a Consonance by accident; from hence, that found which makes a Consonance with one Term of an Eighth, ought also to make a Consonance with the other.
 
-The space C B being divided in D, I might by the same reason divide C D in E [21]; from whence a Ditone would be directly generated, and by accident all the other Consonances: nor is it requisite that C E be further divided; yet if that were done, viz. in F [22], then would from thence arise a greater Tone, and by accident a lesser Tone, and the Semitones [23], of which hereafter: for, in a voyage, they are successively admitted, but not in Consonances.
+The space C B being divided in D, I might by the same reason divide C D in E*
+
+{{< f f="As, on the same Chorde, is 8 21 at 14." >}}
+
+
+From whence a Ditone would be directly generated, and by accident all the other Consonances: nor is it requisite that C E be further divided; yet if that were done, viz. in F.
+
+{{< f f="As, on the same Chorde, is 14 21 at 17." >}}
+
+
+Then would from thence arise a greater Tone, and by accident a lesser Tone, and the Semitones [23], of which hereafter.
+
+{{< f f="It should have been only the *Semi-tone major*, for the *Semi-tone minor* is not to bee found without an other Subdivision." >}}
+
+
+
+
+  for, in a voyage, they are successively admitted, but not in Consonances.
+
+{{< f f="As, on the same Chorde, is 14 21 at 17." >}}
+
 
 Nor let any think it imaginary, what we say, that only a Fifth and a Ditone are generated from the Division of an Eighth properly; and all other Consonances by Accident; for Experience teacheth the same in the strings of a Lute or other Instrument, whereof if one be stroke, the force of that found will strike all the other strings which shall be more Acute in any kind of Fifth or Ditone: but in the others which are distant a Fourth, or other Consonance, the same shall not happen. Which force of Consonances must undoubtedly arise from hence, either from their Perfection, or Imperfection, inasmuch as these are first Consonances of themselves, but all others are only by Accident, because they necessarily flow from others.
 
 
-
-
 But let us enquire, whether that be true, which we formerly said, *viz.* That all Simple Consonances are comprehended in an Eighth: this we shall easily justify, if we shall turn *CB*, the half of *AB*, which contains an Eighth, into a Circle; so that the point *B* may be joined to the point *C*. Then let the Circle be divided in *D* and *E*, as it was divided in *CB*: and the reason why all the Consonances ought so to be found out, is because no found can be consonant to one Term of an Eighth, but it must also be consonant to the other Term of the same, as we have already proved. From whence it comes, that if in the subsequent Figure one part of the Circle make a Consonance; the residue must also contain some Consonance.
 
-Third Figure.
+{{< i s="/graphics/d/fig3.jpg" a="Figure 3" >}}
 
-[Diagram: Concentric circles divided by radii from the center to points marked C (left), B (bottom), E (top left), D (top right). The center point is marked with an asterisk. In the innermost circle is written "An Eighth". In the middle ring, the top-right quadrant contains "Diatesseron or Fourth", the bottom-right quadrant contains "Diapente or Fifth", and the bottom-left quadrant contains "Ditone or Third major". The outermost ring contains the text "Third minor" in the top-right, "Hexachordon minus or Sixth minor" in the bottom-right, and "Hexachordon majus or Sixth major" in the bottom-left.]
+This Figure shows:
+- how rightly an Eighth is named Diapason, because it comprehends in it self all the intervals of other Consonances. 
+- only Simple Consonances from which we would find out also Compound ones
 
-From this Figure it is demonstrated how rightly an Eighth is named Diapason, because it comprehends in it self all the intervals of other Consonances. Here we have exhibited only Simple Consonances; where if we would find out also Compound ones, all we are to do is only to add, to the intervals above described, one or two whole Circles; and then it will appear that an Eighth
+We do this by adding, to the intervals above described, one or two whole Circles; and then it will appear that an Eighth
 
-C
+
+
+
+[24.] *Viz.* An *Eighth*, from the first division of A B, p.
+14: a *Fifth*, 3 from the Second : and a *Ditone* from the
+Third.
+
+[25.] 2 gives the Eighth; 3 the Fifth; and 5 the Third
+*major* : see also A B An. 10.
+
+[26.] Here endeth the *Former Tract*, as it is called, p. 27,
+l. 25.
+
+
+
+
+
+
+Eighth doth compofe all Confonances.
+
+From what hath preceded, we collect that all Confonances may be referred to Three Kinds; for (1) either they arife from the firft Divifion of an Union, fuch are thofe which are called Eighths, which make the Firft Genus: or (2) they arife from the Divifion of an Eighth into two equal parts, fuch are Fifths and Fourths, which we may therefore call Confonances of the Second Divifion: or (3) they arife from the Divifion of a Fifth, which are Confonances of the Third and laft kind. We again divide them into fuch Confonances as arife from thofe Divifions *per fe*; and thofe which arife *per Accidens*; and that there are only three Confonances *per fe* [24], we have formerly fayd, which may be confirmed from the Fifth Figure, in which we extracted the Confonances from the Numbers themfelves: For therein we are to take notice, that there are only three fonorous Numbers, 2, 3, and 5 [25], for the number 4, and number 6, are compounded of them, and are therefore fonorous numbers only by Accident, as doth there appear; where, in a right order and a ftreight line, they do not generate new Confonances, but only fuch as are compofed from the former: for example, 4 generates a Fifteenth, and 6 a Nineteenth; but *per Accidens* and in a tranfverſe line, 4 generates a Fourth, and 6 a Third leffer; where we are to obſerve by the By, that in the Number 4, a Fourth is immediately generated from an Eighth, and is in a manner a certain Monfter, or difficult and imperfect Product of an Eighth [26].
+
