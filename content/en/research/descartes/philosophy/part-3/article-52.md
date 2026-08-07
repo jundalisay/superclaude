@@ -75,10 +75,7 @@ I consider all the vortices whose centers are `F`, `f` together as only one terr
 
 <!-- Initially, the matter of the fire-aether gradually increased* because the air-aether particles wore each other down through constant motion.  -->
 
-{{< n n="This is the start of the cosmic microwave background radiation as heat. Note that there is still no light at this point even if the fire-aether exists." >}}
-
-
-{{< img src="/graphics/physics/creation.jpg" alt="Formation of stars" >}}
+<!-- {{< n n="This is the start of the cosmic microwave background radiation as heat. Note that there is still no light at this point even if the fire-aether exists." >}} -->
 
 <!-- After the air-aether particles were more worn down, they occupied less space than before. 
 - Thus, they did not extend to the centers. 
@@ -99,20 +96,28 @@ There, it formed certain very fluid spherical bodies:
 
 The particles of the air-aether have been rubbing against each other from the very beginning.
 
-In this process, the fire-aether was formed from the filings of the corners of the air-aether.
+This gradually increased the fire-aether which was formed from the scraping of the corners of the air-aether.
 - These gradually increased.
 
-When there was found in the universe more of it than was needed to fill the interstices that the particles of the second element, being round, necessarily leave between them, the rest flowed towards the centers marked S, F, F.
+{{< n n="high density was being converted to low density as the universe increased in size. This created fast, high density 1st Element" >}}
 
-There, they composed very subtle and very fluid bodies:
+When there was more fire-aether that was needed to fill the gaps between the particles of the air-aether, that excess fire-aether left those gaps and went into the centers `S`, `F`, `f`.
+
+There, they created very subtle and very fluid bodies:
 - the Sun at the center `S`
 - the Stars at the other centers. 
 
-After all the corners of the air-aether particles had been worn down and rounded, they:
-- occupied less space than before
-- no longer extended all the way to the centers
+{{< img src="/graphics/physics/creation.jpg" alt="Formation of stars" >}}
 
-Instead they receding equally from them on all sides leaving behind round spaces there.
 
-These were immediately filled by the fire-aether which flowed there from all surrounding places, because the laws of nature are such that all bodies moving in a circle must continually make some effort to recede from the centers around which they move. [2nd rule of motion]
+After all the corners of the air-aether were blunted and rounded, they occupied less space than before and no longer extended to the centers.
+
+{{< n n="The reduction of density inside the vortex allowed the 1st element to rush in to fill it. This also happens in quasars but not in galaxies due to the reversal of polarity" >}}
+
+
+This made them move away from the centers equally on all sides, leaving round spaces there.
+
+These round spaces were immediately filled by the fire-aether that flocked there from all surrounding places due to the all bodies moving in a circle continually makes some effort to move away from the centers around which they move*.
+
+{{< n n="We call this the 2nd Rule of Motion" >}}
 
