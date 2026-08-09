@@ -28,6 +28,7 @@ He spreads reports at Change Alley that:
 - peace is to be concluded, etc.1
 
 On the other hand, those who want to buy a stock want it to fall.
+
 They propagate reports that will sink the stocks as low as possible, such as:
 - the continuation of war
 - the planning of new subscriptions, etc.
@@ -42,11 +43,11 @@ But after the South Sea Scheme, this was thought on as an expedient to prevent s
 
 There is no redress for a sum above £52, yet all the great sums that are lost are punctually paid. Persons who game must keep their credit or else nobody will deal with them.
 
-It is the same in stock-jobbing. Those who do not keep their credit will soon be= 
+It is the same in stock-jobbing. Those who do not keep their credit will soon be:
 - turned out, and
 - called lame duck in the language of Change Alley.
 
-It is unnecessary to give any account of particular funds, as they are all of= 
+It is unnecessary to give any account of particular funds, as they are all of:
 - the same nature, and
 - equal security.
 

@@ -12,8 +12,6 @@ icon: Descartes
 
 Frequent it is among Practitioners to treat of these Modes, and what they are, all well know; therefore would it be superfluous here to insist thereon: wee shall observe only, that they have their originall from hence, that an Eighth is not divided into equall Degrees, for one while a Tone, another while a Semitone...
 
-46 A COMPENDIUM Of MUSICK. 47
-
 Or thus [68]:
 ```
 { Third minor defective  { G ad b. 480, 405.

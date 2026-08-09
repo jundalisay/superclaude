@@ -12,7 +12,6 @@ icon: Descartes
 <!-- By the same way will it be conceived, if any say that a sound doth strike the ears with many percussions or verberations, and that by so much the more swiftly, by how much the more acute the sound is; for then, that the sound AB may arrive at the requisite Uniformity with the sound CD, it ought to strike the ears with only five touches or verberations, while CD strikes only once: but the sound Cf will not so soone returne to an Unifonance...
 
 A Third Minor ariseth from a Ditone, as a Fourth from a Fifth [33], and is therefore more imperfect than a Fourth, as a Ditone, is than a Fifth.
-
  -->
 
 
@@ -62,51 +61,3 @@ Here the Series of Consonances would Exact from us a Discourse concerning their 
 But a more exact Disquisition of this, may be collected from the Præcedents; and it exceeds the limits of a Compendium. For, so various are they, and upon so light circumstances supported; that, a whole Volume would not suffice to perfect their Theory. This, therefore, shall we only say, that the chiefest Variety doth arise from these four last; whereof a Ditone and Sixth Major are more gratefull, more sprightfull, and exhilarating than a Third and Sixth Minor; as hath been observed by Practicall Musicians, and may be easily deduced from hence, that a Third Minor is generated from a Ditone only by Accident, but a Sixth Major per se, because it is no other but a Ditone Compound.
 
 
-
-
-
-
-
-[36.] *Viz.* of the Graver Term. See Fig. AB An. 10.
-
-[37.] Note, that in every Muſical Syſteme, (whereof
-there are two ſorts; the greater of Ten parallel Lines,
-and the leſſer of Five:) every Line is the feat of one
-Note, and every intervall of another, and therefore C
-is a Note higher than B, and G lower than E. See
-P. 40.
-
-[38.] For \(\frac{1}{4} - \frac{1}{5} = \frac{1}{20}\); *viz.* of the Graver Term.
-
-[39.] *Viz.* p. 14, where CB, the ſpace of an Eighth, is di-
-vided into CE a *Ditone*; ED a *Third minor*; and DB
-a *Fourth*.
-
-[40.] *Viz.* by dividing CB, p. 14, equally into Two, at
-F: or DG, Fig. An. 10, at F: or 14 21 of the Chorde B 0,
-Fig. 1, An. 8, at 17.
-
-[41.] By dividing EG, Fig. An. 10, at F: or 8 14 of the
-Chorde B 0, Fig. 1, An. 8, at 11.
-
-[42.] By dividing GI, Fig. An. 10, at H; or EH at G:
-or 0 8 of the Chord B 0, Fig. 1, An. 8, at 6.
-
-[43.] As 0 6, Fig. 1, An. 8, at 2.
-
-[44.] As DG = DE, + EF, + FG; Fig. An. 10: or 14
-21 = 14 15, + 15 17, + 17 21; of the Chorde B 0, Fig. 1,
-An. 8.
-
-[45.] As DE, + EF = DF; Fig. An. 10: or 14 15 + 15
-17, = 14 17; of the Chorde B 0, Fig. 1, An. 8.
-
-[46.] As 14 15, with 11 14 of the Chorde B 0, Fig. 1,
-An. 8.
-
-[47.] 64.75 :: 324. 379.6875 :: 6000, 7031 ¼.
-
-[48.] Becauſe a *Semitone major* makes no *Conſonance*
-with the other two.
-
-[49.] Be-

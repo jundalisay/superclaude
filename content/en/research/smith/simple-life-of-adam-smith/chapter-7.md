@@ -39,6 +39,7 @@ The magnificence of the buildings and the beauty of the river elated her heart [
 Smith himself once suffered for praising its charms.
 It was at a London table.
 Johnson was present.
+
 He did not like Smith nor Glasgow.
 He cut him short by asking “Pray, sir, have you seen Brentford?”
 Boswell took a pride in Glasgow himself.
