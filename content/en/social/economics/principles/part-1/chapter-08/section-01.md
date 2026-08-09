@@ -1,67 +1,22 @@
 ---
-heading: "Section 1"
-title: "Demand Efficiency"
-date: 2024-11-20
-weight: 8
-image: /photos/econ/store.jpg
-description: "Demand Efficiency is the control of demand to make the collective demand as efficient as possible. "
+heading: Section 1
+title: "The Usufruct Economy-as-a-Service"
+date: 2025-01-18
+image: "/graphics/econ/usufruct.jpg"
+description: "We explain how the Usufruct Economy will work and how it integrates with a moneyless points-based system"
+weight: 4
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Supereconomics"
+aliases:
+  /social/economics/principles/part-1/chapter-10b
 ---
 
 
+The general Supereconomics solution to demand is the Usufruct Economy, deployed as a service. Thus we call it Economy-as-a-Service or EaaS.
 
-Demand Efficiency is the control of demand to make the collective demand as efficient as possible. 
+The main problem of unaddressed demand stems from the Negative Force of materialism that blocks the flow of creativity, production, and transportation. 
 
+Supereconomics addresses this through the Usufruct Economy, which is based on aethereal trust and fellow feeling, instead of material identity and preservation. 
 
-
-<!-- 
-Supply can be delivered to Effective Demand through 2 ways:
-
-1. Retail
-
-2. Commerce
-
-
-
-Demand is readily addressed by retail, as opposed to wholesale which trades items in bulk. 
-
-The capital and labor of wholesale is designed to work with bulky items, whereas those of retail can work with smaller items that can be sold individually per person.   
-
-
-## Small Retail and Marketplaces
-
-A shop is the most common retail establishment whether in ancient or modern times. This is because it requires the least capital and labor. 
-
-A shop can be run well by only 1 person, whereas a large retail shop cannot. 
-
-As such, shops deal with niche products and servies and are can be more sustainable than large retail.   
-
-Some shops can last as long as their owners, while others last for many generations when handed down from parent to child. 
-
-
-{{< i s="/photos/econ/store.jpg" a="Store" >}}
-
-
-To increase demand efficiency, shops are grouped together into marketplaces. This is situated in an accessible place where more people can gather.
-
-Historically, this was near the city center which was near the home or palace of the ruler. This is also so that the ruler can extract tax payments more conveniently. 
-
-
-
-## Large Retail
-
-The invention of airconditioning led to the creation of malls and large retail establishments. This is frequently larger than a marketplace. 
- -->
-
-
-<!-- Malls
-
-Shops
-
-Markets
-
-Auction 
-
-Events  -->

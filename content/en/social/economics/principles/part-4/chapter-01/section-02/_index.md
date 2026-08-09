@@ -1,8 +1,8 @@
 ---
 heading: "Section 2"
-title: Competition
+title: "Choice"
 description: 
-image: /photos/econ/competition.jpg
+image: /photos/econ/choice.jpg
 date: 2022-01-29
 weight: 5
 ---

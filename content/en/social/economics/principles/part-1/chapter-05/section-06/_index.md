@@ -1,10 +1,9 @@
 ---
-heading: "Chapter 5"
-title: Systems 
+heading: "Section 6"
+title: Housing
 # to Address Demand
 description: "This is patterned as the life support of a ship"
-# How do we address Demand?
-image: /photos/econ/store.jpg
+image: /photos/objects/house.jpg
 weight: 22
 ---
 

@@ -25,16 +25,19 @@ coordinates work, investments, resources (supply/demand)    -->
 
 In order to address all the demand in society, supply has to be exchanged through a medium. 
 
-This creates the Fourth Law of Value which states that **value is transferred through fair exchange** whether it be through money, barter, points, promises, etc. 
+This creates the Fourth Law of Value which states that **value is transferred through fair exchange** * whether it be through money, barter, points, promises, etc. 
 
 This mirrors the Second Law of Thermodynamics which relates to heat transfer and entropy.
 
-![Third Law](/graphics/econ/law4.jpg)
+![Fourth Law](/graphics/econ/law4.jpg)
 
-{{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
+   
+{{< f f="*Note that we specifically wrote 'fair exchange' instead of 'free and fair exchange' because free will is a 3rd density propensity which might go against dharma of the 2nd Law of Value and balance of the 3rd Law of Value." >}}
  
 
 Exchange exists in both Economics and Supereconomics. The latter, however, allows more mediums of exchange as fiat, barter, and points. 
+
+{{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
 
 
 ## Market Price

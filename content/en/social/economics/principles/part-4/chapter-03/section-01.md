@@ -14,6 +14,7 @@ writer:
 
 <!-- We define profits as Irregular Revenue from the lack experienced by others. -->
 
+
 Profits are the revenue arising from the external lack experienced by other people, whether as lack of knowledge or cognition, or lack of goods or commodities. We definecommodities asanything that can be traded, whether physical or non-physical such as information. In fact, information can be commoditized in our system.
 
 A shortage of anything that is in demand will naturally cause high prices and high profits for its seller. For example, food suppliers have high profits during famines. 

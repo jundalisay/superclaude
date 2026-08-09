@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Shelter and Housing"
 date: 2024-11-20
 weight: 18
-image: /photos/social/family.jpg
+image: /photos/objects/house.jpg
 description: "This is patterned after the rooms on a ship"
 writer:
   name: Juan
@@ -62,8 +62,12 @@ This means that the government will have control of the land in order to provide
 Permanent shelters need to be safe from earthquakes and typhoons as much as possible. 
 
 
+## Land Policy
 
-## Desinged for Exploring the Stars
+Housing and shelter on Earth requires land policy which will be discussed in Part 2.
+
+
+## Designed for Exploring the Stars
 
 The Usufruct Economy is designed to transition a rigid Earth-based economy into a flexible one as humans evolve into a space-faring species after levitation and telportation technologies are discovered.
 

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
-title: Measures
-description: Measures of Supply
-image: /photos/econ/dump.jpg
-weight: 32
+title: Capital Problems
+description: Capital Problems are caused by Underspending or Overspending
+image: /photos/econ/stocks.jpg
+weight: 80
 ---

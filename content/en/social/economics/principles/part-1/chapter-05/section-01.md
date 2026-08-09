@@ -13,6 +13,20 @@ aliases:
 ---
 
 
+We list essential services that are part of Minimum Needs.
+
+
+1. Water and Sanitation
+2. Energy
+3. Food and Nutrition
+4. Healthcare and Medical Services
+5. Shelter and Housing
+6. Transportation and Mobility
+7. Communications and Information
+8. Education and Child Development
+
+
+
 
 <!-- Exchangeable Value is addressed in 2 ways:
 

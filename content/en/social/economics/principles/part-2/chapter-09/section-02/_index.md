@@ -1,9 +1,13 @@
 ---
 heading: "Section 2"
-title: Underspending
-description: Supply Problems
-image: /photos/econ/stocks.jpg
-weight: 8
+title: "Solutions to Underdemand"
+date: 2015-01-17
+weight: 4
+image: /photos/social/leader.jpg
+description: ""
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 

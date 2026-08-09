@@ -1,8 +1,9 @@
 ---
 heading: "Chapter 9"
-title: Problems in Demand 
-description: Problems in Demand are caused by Underdemand or Overdemand
-image: /photos/social/poverty.jpg
-weight: 37
+title: "Worker Economic Systems"
+# linkTitle: Law 1
+description: 
+image: /photos/bio/plant.jpg
+date: 2026-05-11
+weight: 126
 ---
-

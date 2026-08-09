@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 6"
-title: Model
-# "Balanced Economic Development"
+title: Natural Balance Model
 date: 2015-01-17
 weight: 26
 image: /photos/econ/cocoa.jpg

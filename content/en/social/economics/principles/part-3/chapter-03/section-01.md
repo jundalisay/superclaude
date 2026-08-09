@@ -51,3 +51,6 @@ In her present condition, Great Britain resembles an unwholesome body with some 
 
 
 {{< u d="Sep 2020" u="These four cycles were instrumental in correctly predicting the Covid economic collapse." >}} 
+
+
+
