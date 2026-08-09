@@ -1,10 +1,10 @@
 ---
 heading: "Unit 3"
-title: "The GN Ratio"
-date: 2018-06-03
-weight: 8
-image: /graphics/econ/is.jpg
-description: ""
+title: "GL Ratio"
+date: 2015-01-17
+weight: 41
+c: royalblue
+description: "The GJ Ratio shows productive employment"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,5 +12,6 @@ writer:
 
 
 
-The GN ratio is the rise or fall in inflation as the society gets wealthier. A rising slope may indicate the dominance of speculation, as a sign of liberal morals
+The GL Ratio is the rise or fall in education as the society gets wealthier. 
 
+A rising slope may indicate investments in higher education and austere morals as opposed to liberal morals

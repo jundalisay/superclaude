@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "Capitalism"
+title: "Undercirculation"
 date: 2015-01-17
-weight: 52
-image: /photos/econ/stock.jpg
+weight: 5
+image: /photos/econ/nomoney.jpg
 description: ""
 writer:
   name: Juan

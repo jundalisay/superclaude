@@ -2,11 +2,11 @@
 heading: Unit 1
 title: "Free Choice"
 description: "Free Choice is an essential part of our third law of value. Freedom is from the 1st Law. Choice is from the 3rd law. "
-image: /photos/econ/choice.jpg
+image: /photos/social/contest.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 3
 icon: "Juan"
 aliases:
   /social/economics/principles/part-4/chapter-01c
@@ -64,47 +64,3 @@ It would be like a beauty contest where the organizers forced the judges to choo
 
 For example, Apple has become a huge company that bans others from copying its tech via Intellectual Property. This system makes welfare go to the top, increasing inequality, which is really just poverty taking place in a rich country. To solve this, economists teach that competitors must be equal to prevent inequality, which contradicts their teaching of profit maximization which creates the inequality in the first place. -->
 
-
-
-
-
-<!-- Adam Smith said that 
-But if your question is about free competition (with justice integrated) instead of equal competition (with no justice): "Where does Smith say that poverty will be minimum and welfare, maximum, when competitors are free under the umbrella of justice provided by the sovereign?"  -->
-
-
-Then the quotes are mostly found in Book 5
-
-### Free Competition Lowers Taxes or Prices But Raises Revenue
-
-{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
-A big capital or credit is needed to collect taxes. These would alone restrain the competition for such an undertaking to very few people. The competition is further reduced by the knowledge or experience needed. Those few with all of these would find it for their interest to combine and be co-partners.
-{{< /q >}}
-
-{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2, Article 2" >}}
-A tax on the profits from any trade can never fall finally on the dealers. They must ordinarily have their reasonable profit. If the competition is free, he can seldom have more than that profit.
-{{< /q >}}
-
-{{< q a="Adam Smith" >}}
-The usual corporation spirit, wherever the law does not restrain it, prevails in all regulated companies. When they have been allowed to act according to their natural genius, they have always, in order to confine the competition to as small a number of persons as possible, endeavoured to subject the trade to many burdensome regulations.
-{{< /q >}}
-
-{{< q a="Adam Smith" >}}
-In almost all countries, the revenue of the sovereign is drawn from the revenue of the people. The greater the revenue of the people, the greater their annual produce, the more they can give to the sovereign. It is his interest to increase as much as possible that annual produce. 
-{{< /q >}}
-
-{{< q a="Adam Smith" >}}
-It is especially the interest of one whose revenue arises chiefly from a land-rent, like that of the sovereign of Bengal. That rent must necessarily be in proportion to the quantity and value of the produce. The rent and the value of the produce must depend on the extent of the market. The quantity will always be suited exactly to the consumption of those who can pay for it. The price they pay will always be in proportion to the eagerness of their competition.
-{{< /q >}}
-
-
-
-### Free Competition Increases Innovation
-
-{{< q a="Adam Smith" >}}
-The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the long run. It encourages production and increases the competition of the producers. Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
-{{< /q >}}
-
-
-<!-- q a="Adam Smith" >}}
-The words regulation and deregulation are ambigous. Regulating a criminal away from owning a gun is a good rule. But regulating the army to avoid guns is absurd. Therefore, regulation and deregulation are always relative to the common interest.
-/q >}} -->

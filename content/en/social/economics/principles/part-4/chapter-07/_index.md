@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 7"
-title: "Measures of Trade"
+title: "Trade Problems"
 date: 2015-01-17
-weight: 22
-image: /photos/econ/balance.jpg
+weight: 32
+image: /photos/people/ponzi.jpg
 description: ""
 writer:
   name: Juan

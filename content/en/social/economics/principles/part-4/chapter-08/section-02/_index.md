@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "GR Ratios"
+title: "Solutions to Undertrading"
 date: 2015-01-17
-weight: 26
-image: /photos/econ/balance.jpg
+weight: 8
+image: /photos/social/leader.jpg
 description: ""
 writer:
   name: Juan

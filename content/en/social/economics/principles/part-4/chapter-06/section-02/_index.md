@@ -1,9 +1,10 @@
 ---
 heading: "Section 2"
-title: "Capitalism"
+title: "Measure"
 date: 2015-01-17
-weight: 52
-image: /photos/econ/stock.jpg
+weight: 15
+draft: true
+image: /photos/econ/ship.jpg
 description: ""
 writer:
   name: Juan

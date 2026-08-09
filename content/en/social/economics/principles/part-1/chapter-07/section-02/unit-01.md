@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "The Poverty Cycle"
 # date: 2022-08-18
 weight: 4
-image: /photos/social/poverty.jpg
+image: /photos/econ/nomoney.jpg
 description: "Poverty Cycle is a result of the weaknesses in the worker class"
 writer:
   name: Juan

@@ -1,166 +1,160 @@
 ---
-heading: "Unit 3"
-title: "Supply Efficiency and Inefficiency"
-# title: "Producer's & Consumer's Surplus and Deadweight Loss"
-date: 2019-06-17
-weight: 25
-image: "/graphics/econ/supplydemand.jpg"
-description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
+heading: Unit 3
+title: "The Modern Economic Table"
+date: 2021-06-26
+image: "/graphics/econ/physiocrats.jpg"
+description: "The Modern Economic Table is our main tool to determine the real price of things"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-toc: false
+weight: 26
+icon: "Supereconomics"
 aliases:
-  /social/economics/fallacies/supply
+  /social/economics/principles/part-4/chapter-07e
+#   /social/economics/solutions/modern-economic-table/
 ---
 
 
 
-Chapter 3 explained the different types of effort. 
+The Eagle in the layer of economics manifests as supply and demand ratios:
 
-Chapter 4 explained that these efforts will likely be valued by the demand that allows the most primary arbitrage. 
-
-The best match real-time of effort and need, as supply and demand, is one of the goals of Supereconomics. 
-
-Inefficiencies can be grouped into 2:
-
-1. Demand Inefficiency
-
-This is when nominal value is decreasing. 
-
-2. Supply Inefficiency
-
-This is when real value, as costs, is increasing.
+{{< img src="https://sorasystem.sirv.com/graphics/pspdD.png" alt="Supply and Demand Equation" >}}
 
 
-<!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Bio Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
-
-<!-- The subjective match of supply and demand via primary arbitrage will increase the revenue for the suppliers and benefits for the purchasers.   -->
-
-This leads to the following table:
-
-Name | Nominal Value | Real Value | Meaning
---- | --- | --- | ---
-Demand Efficiency | Increase | Stable | Demand is matched as precisely to Supply as Possible
-Demand Inefficiency | Decrease | Stable | There is a mismatch between Demand and Supply
-Supply Inefficiency | Stable | Increase | Costs decline
-Supply Efficiency | Stable | Decrease | Costs increase
+- The `G` manifests as the effectual demand or `d` of the people.
+- The layer limit {{< sub v="l" >}} manifests as their absolute demand or `D` (a concept that does not exist in Economics).
+- This `D` works in the same way as `c` works in `E = mc{{< s v="2" >}}`, where `c` acts as the speed limit of the physical universe.
 
 
-{{< i s="/graphics/econ/supplydemand.jpg" a="Supply and Demand shifts" >}}
+Neoclassical Economics, as the commercial system, is unable to arrive at the real price of everything because they use money which actually wipes out information with every exchange.
 
+- If you barter 1 bread with 1 potato, then the real price of bread is 1 bread : 1 potato
+- If potato can be bartered for 2 lemons, then the real value of 1 bread is 2 lemons or 1 potato
+- If tomorrow, 1 potato exchanges only for 1 lemon, then the real value of 1 bread is 1 potato or 1 lemon
+  - This means that the price of bread only crashes for the lemon owners but not for the potato owners. 
+  - If the ratio of 1 bread still exchanges for 1 potato, then the real value or economic `G` of bread is more linked to potatoes instead of lemons. 
 
-## Demand Efficiency and Inefficency
-
-This happens when the demanders actually get what they need instead of getting something that they don't. 
-
-For example, a young adult might want to buy first first gasoline powered car. But advertising and propaganda from electric vehicles persuades him to buy an electric vehicle instead. 
-
-He soon realizes the problems with electric vehicles like:
-- limited range
-- limited charging stations
-- slow charging
-
-His purchase makes him less productive had he bought a normal car. 
-
-
-## Supply Efficiency and Inefficency
-
-This happens when there is a match of suppliers to demanders from the supply side. 
-
-For example, there are 9 job applicants in your company. You are looking for someone who can stay long in the job.
-
-Applicant | Skill | Asking Salary | Willing to Stay Long?
---- | --- | --- | ---
-A | Low | Low | Yes
-B | Low | Medium | Yes
-C | Low | High | Yes
-D | Medium | Low | No
-E | Medium | Medium | Yes
-F | *Medium* | *High* | *No*
-G | High | Low | Yes
-H | **High** | **Medium** | **Yes**
-I | High | High | No
-
-The best match for the job would be Person H. 
-
-- Supply Efficiency is in employing Person H as having the best match. Hiring him would be like winning a jackpot.
-- Supply Inefficiency is in employing Person F as having the worst match. Hiring him would be a real loss.
-
-
-## The Inefficiencies of Economics
-
-Our model is different from Economics which has 3 inefficiencies from market dis-equilibrium:
-
-Inefficiency | Defintion
---- | ---
-[Producer’s Surplus](https://www.investopedia.com/terms/p/producer_surplus.asp) | The difference between how much of a good the producer is willing to supply versus how much he receives, or the gain the producer receives
-[Consumer’s Surplus](https://www.investopedia.com/terms/c/consumer_surplus.asp) | A situation when “the price that consumers pay for a product or service is less than the price they’re willing to pay,” or a bargain
-[Deadweight loss](https://www.investopedia.com/terms/d/deadweightloss.asp) | A cost to society created by market inefficiency
-
-Ideally, there should be no producer’s gain nor consumer’s bargain. These are traditionally plotted as the red and blue areas in the chart below. 
-
-![Surplus](/graphics/econ/deadweight.png)
-
-However, no one seems to have a name for the area on the right side of equilibrium. This is because while the demand curve is real, the supply curve is imaginary, merely representing the desire of suppliers. 
-
-Since the mind only gives names to real experiences, that area cannot get a name because it is not really experienced — an overpriced product that cannot be sold at that price simply is not sold, and is not plotted at all.
-
-We classify the Inefficiencies of Economics under our supply and demand inefficiency model
-
-Inefficiency | Classification
---- | ---
-Producer’s Surplus | Supply Efficiency
-Consumer’s Surplus | Demand Efficiency
-Deadweight loss | Supply and Demand Inefficiency
+The real value of things prevents our proposed system from crashing because [the ratio of values](/social/economics/principles/intro/chapter-04/) are maintained and not made absolute or constant as in the commercial system.
 
 
 
-## The Proper Surpluses Plotted Realistically
+## Replacing Nominal Value with Real Value
 
-To eliminate this unreal area, we will apply our efficiency model as the supereconomic supply and demand curves below:
+We can restore these natural ratios by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by removing the constant speed of light `c`, and instead using the other qualities of the star or galaxy where it comes from.
 
-![Supply and Demand of Superphysics](/charts/econ/prod.png)
+So in order to know a bread's "supereconomic" `G` or real value, we need to know what that bread was exchanged with, and not its money price. 
+
+This chain of exchanges can then be backpropagated in order to know its relational value to other goods or services. 
+
+Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation. This feature is standard in our points-based economic system. 
+
+Economics, on the other hand, allows only money-purchases so that `1` bread is equal to `1` dollar, for example. 
+
+**But it has no idea of where that 1 dollar came from.** 
+
+Did it come from wages? Or from a sale of a tomato? Was it donated? 
+
+If you use machine-learning to backpropagate all the transactions for bread, you will end up with a dollar price but still not know what that dollar price really represents since the data was never recorded.
+
+> If you use machine-learning to backpropagate all the transactions, you will end up with a dollar price without knowing what it really represents
 
 
-This shows the following:
+The best that they can do is apply stochastic calculus to create probabilistic "algorithmic trading" and "dynamic stochastic general equilibrium" which have caused crashes. 
 
-- A new tax raises prices (blue dashed line) and has the same effect as a price ceiling in terms of loss (red area)
+Economists have no choice but to concede and say that price movements are mysterious, blaming "herd behavior".
 
-- A new technology lower prices and create real material gains. It makes consumer bargains permanent, while spreading it to more people (orange area).
+This is similar to how physicists say that quantum effects are mysterious, pointing to the Heisenberg uncertainty principle.
 
-{{< f f="New production technologies decrease costs. These then either increases profits or allows more to be produced. The former creates a 'producer’s surplus' or gain. An example is the iPhone. The latter spreads the consumer's surplus or bargain to more people. An example is the Android phone." >}}
+<!-- > Economists have no choice but to concede that price movements are mysterious just as Physicists say quantum effects are mysterious -->
 
-- A man-made environmental limit* checks overconsumption just as a man-made price ceiling discourages underconsumption. Such a limit might raise prices by preventing economies of scale. But such prices can be later reduced by technological advancement. From this view, <b>we can say that an environmental limit is a win-win: it preserves nature, while advancing technology</b>.
-
-{{< f f="*Update Sept 2021: The man-made environmental limit is one of the key features of Supereconomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits." >}}
+{{< i s="/photos/econ/receipt.jpg" c="Commercial receipts just give the money value and has no information where that money value came from. This is the same problem that leads to tax avoidance and evasion, which then leads to budget deficits, weak governments, and subsequent instability." >}}
 
 
-From this new curve, we can get more realistic information:
+Our model on the other hand, follows Smith and the Physiocrats, and uses [grain-based valuation](/social/economics/principles/part-4/chapter-07c) to predict price movements from the outside looking in, or the top-down approach. This helped us to correctly predict:
+- The rise of bitcoin in 2017
+- The global economic crisis starting in 2019. It actually started in Q1 2020 and this shows that a bottom-up approach would be more accurate 
 
-- The producer’s surplus is often larger than the consumer’s surplus because it takes time to oversupply the market.
-- The real world producer’s surplus is never as high as it is thought to be, unless there is a monopoly
-- The producer’s surplus usually happens first and is followed by a consumer’s surplus much later when oversupply is achieved
 
-When an overpriced product cannot be sold, its price is slashed, creating a bargain or ‘consumer surplus’. Normally, bargains are not so high, ranging from 5% to 50%, while 70%-90% discounts are rare. But the supply curve in Economics seems to say that 90% discounts are natural if an overly mass-produced product can't be sold (the big yellow area in the Economics curves). 
+## The Modern Economic Table
 
-<!-- have the same probability as 5% discounts . -->
-<!--   if in a monopoly, or 
-- lowers prices and increases sales and makes consumer surpluses or bargains permanent(like in Android phones) -->
+This bottom-up approach is exactly what Francois Quesnay had in mind when he created [the Economic Table](/social/economics/solutions/modern-economic-table) to list the exchanges of commodities and trace their final total value or contribution to the economy. 
 
-<!-- Perfect competition with new technologies creates a permanent drop in prices as a permanent consumer surplus as seen in Android, while new technologies in a monopoly creates a producer surplus as seen in Apple -->
 
-Our curves also show slight moral similarities and differences with those of Economics. Whereas Economics sees producer’s and consumer’s surplus as bad, Superphysics sees consumer’s surplus as initially good since it is never bad to supply goods and services to all.
+{{< youtube r8g949AxUU0 >}}
 
-{{< q a="Adam Smith" c="Wealth of Nations Book 4" >}}
-Consumption is the sole end and purpose of all production.. the interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. The maxim is so perfectly self-evident that it would be absurd to attempt to prove it. But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer; it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce. 
+
+The Modern Economic Table was invented by Francois Quesnay of the Physiocrats in the 18th century. It represents the flow of value-creation between productive and unproductive members of society. 
+
+{{< img src="/graphics/econ/physiocrats.gif" alt="The Economic Table" cap="The Economic Table traces the journey of productive versus unproductive labor in creating real value in an economy" >}}
+
+
+<!-- This system can be backpropagated in order to automate the process so that it can help visualize the map or neural network of the kinetic desire of human society. This then would allow demand to be predicted so that supply can be allocated ahead of time in order to prevent scarcity and the subsequent inequality and poverty that it creates. -->
+
+{{< q a="Riqueti" c="Philosophie Rurale, 1763" >}}
+The third greatest invention of our time is the Economic Table.
+{{< /q >}}
+
+<!-- They say that it serves as data-driven proof of how real wealth is generated from agriculture and mining instead of from manufacturing and services which merely add value.
+
+![Economic table](https://ik.imagekit.io/sora/charts/economictable_wNstQSmMc.jpg) -->
+
+<!-- Of course, this is not totally true. It is true that raw materials and agriculture create value from scratch, as coming from Mother Nature. But the value added by manufacturing and services might just be as valuable, or even more valuable than the initial value created from Nature. In Supereconomics, we call it Value-adding Effort. 
+
+An easy proof is Singapore which has zero agriculture and extractive industries, yet is very wealthy because of its commerce and manufacturing. This is also mostly true for Japan and South Korea. 
+
+But since those countries would be nothing without those foreign imports, then we can say that the Physiocrats are correct in a broad, general sense.
+
+me date="July 2022"
+The inflation in Singapore from the global food crisis is proof that a zero-agriculture policy is not so sustainable
+/me -->
+
+
+Like Adam Smith, the Physiocrats advocated productivity instead of money, luxury and idleness. This is why they advocated massive investment in agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
+
+{{< q a="Francois Quesnay" >}}
+We do not mean the small-scale cultivation carried on with oxen. This ungrateful cultivation reveals the poverty and ruin of the Nations where it prevails. It has nothing to do with the order of the Table.
+{{< /q >}}
+
+- While Economics supports the cause of merchants and money, the Physiocrats supported the cause of farmers and food. 
+- While Economics advocates liberalism so that money can circulate freely, Physiocracy, along with Smith, advocates the regulation of money-arbitrage which we call **secondary arbitrage**.
+
+<!-- By using, the social cycles of Socrates, we can classify the modern economists as part of the oligarch class, and the Physiocrats as the democrat class. Adam Smith would be the aristocratic class of philosophers, while Communism would be the tyranny class which started out as the democrat class.
+ -->
+
+{{< q a="Francois Quesnay" >}}
+Maxim 7 Complete Circulation: Let the sum total of the revenues be annually returned into and along the entire course of circulation; let no money fortunes be accumulated Maxim 10 Revenue Expended in the Country: Let none of the revenue pass into the home of the stranger without return either in money or merchandise. Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an apparent advantage in reciprocal commerce with foreign countries, which is simply a balance received in money, without examining and comparing the profits that result from the merchandise one has sold and the merchandise which has been bought.
 {{< /q >}}
 
 
-However, oversupply hurts the environment in the long run, and so we also see excessive consumer surplus and consumerism as bad. Therefore, while the goal of both Superphysics and Economics is balance, Superphysics ensures that supplies are delivered to everyone as they are needed, and not in excess, since it factors in the environment in its models through environmental limits* (unlike Economics). This real-time delivery and regulation system is then implemented by [ISAIAH](/superphysics/solutions/isaiah), which is our implementation of Socrates’ Guardians.
+## Our Modern Economic Table is an Online Ledger
+
+<!-- Leads to Real Prices and Fair (Non-commercial) Taxation -->
+
+This regulation is done through the Economic Table which lists the chain of transactions that are involved in turning a raw material into a finished product which then manifests as wealth. The chain shows the increase in the market value and the natural price of a commodity as it is processed subsequently by [human effort](/social/economics/principles/part-2/chapter-01b/). 
+
+We then implement this transaction system as a ledger of points-transactions.
+
+![Table](/graphics/econ/physiocrats.jpg)
 
 
-{{< img src="https://sorasystem.sirv.com/photos/orang.jpg" alt="Poor Orangutan on a tree" cap="Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Supereconomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)" >}}
+In this way, the ledger can show the **real price** of products, commodities, and services relative to grain. This will then relativistically reveal which companies and industries are generating the most wealth for the least expense. 
 
+Modern Economics has no concept of real or natural price because it is grounded on money, which wipes out the relativity of real prices in order to create arbitrage and profit maximization. This then explains why economic systems are unstable and have systemic risk.
+
+Supereconomics uses the ledger-based comparison of subjective market price (effect) to its objective natural price (cause) to achieve 2 goals:
+
+1. A points-based taxation system which can check inflation and inequality at its root. 
+
+When done online and with machine learning, this can lead to granular adjustments of tax rates for every kind of commodity. In this way, public revenue is increased without stifling economic activity. 
+
+Taxation can also be used more quickly to respond to sudden events like natural disasters in order to drive donations and rebuild capital faster. It can also be used to stifle harmful activities like deforestation or pollution. 
+
+This would make taxation much more convenient since it is imposed automatically. There would be no more need for filing income taxes because the tax due is computed automatically with each commercial transaction or barter exchange
+
+
+2. A way to show in real-time which goods and products have overinvestments and which have underinvestments. 
+
+This then would allow an Investment Fund to adjust its rate of return in order to pump up underinvestments and reduce overinvestment.
+
+As you can see, Supereconomics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DSTI.
 

@@ -1,9 +1,9 @@
 ---
-heading: "Section 2"
-title: "Capitalism"
+heading: "Section 3"
+title: "Overcirculation"
 date: 2015-01-17
-weight: 52
-image: /photos/econ/stock.jpg
+weight: 11
+image: /photos/people/ponzi.jpg
 description: ""
 writer:
   name: Juan

@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "Overcapitalization and Undercapitalization "
+title: "Overcapitalization and Undercapitalization"
 # date: 2022-03-27
 date: 2022-01-13
 weight: 3
@@ -11,4 +11,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+
+
+Problems with Supply are from Overcapitalization and Undercapitalization.
 

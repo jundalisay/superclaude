@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 9"
-title: "Trade Problems"
+title: "Trader Economic Systems"
 date: 2015-01-17
-weight: 32
-image: /photos/people/ponzi.jpg
-description: ""
+weight: 52
+image: /photos/objects/money.jpg
+description: "The Trader Class runs the 4th Law"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

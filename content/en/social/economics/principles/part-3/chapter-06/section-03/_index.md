@@ -2,7 +2,7 @@
 heading: "Section 3"
 title: Balance Ratios
 date: 2015-01-17
-weight: 16
+weight: 6
 image: /photos/econ/cocoa.jpg
 description: "Balanced Economic Development is essential in Supereconomics"
 writer:

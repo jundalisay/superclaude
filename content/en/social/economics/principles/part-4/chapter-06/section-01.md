@@ -1,39 +1,127 @@
 ---
-heading: "Section 1"
-title: "The Circulation of Demand and Supply"
-date: 2021-12-24
-weight: 40
+heading: Section 2
+title: "The Circular Flow of Economics vs Supereconomics"
+# heading: "Profits vs Balance"
+date: 2019-10-17
+weight: 52
 image: /graphics/econ/circular.png
-description: ""
+description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-draft: true
+icon: "Supereconomics"
+toc: false
+aliases:
+  /social/economics/principles/part-4/chapter-07c/
 ---
 
 
 
+To maximize profits, business-systems pool money together in order to create the equity that makes up the firms and corporations. Such organizations then create, buy, and sell real goods and services via secondary arbitrage*.
 
 
-### Profit Cycle
+{{< f f="*The difference between market prices" >}}
 
-Figure 1. The Money Cycle by the people who live by profits (purple), the Budget Deficit Cycle by the people who live by rent [taxes] (blue), and the Poverty Cycle by the people who live by wages (red).
 
-The Selfish-interest and Monetary dogmas create a money cycle (above, in purple) that eventually destroys the nominal value that is in excess of what is needed by industry, or even all of the nominal value that the cycle created—as evidenced in bubbles, crashes, crunches, and recessions. 
+In time, these become very good at accumulating capital and starving others of it, causing a recession or crisis. 
 
-It also creates a poverty cycle (in red) that creates negative value as debt and manifests as inequality or the gap between the rich and the poor.
+Notice how 'businesses' is a huge entity in the Circular Flow of Economics below. 
 
-Lastly, it creates a budget deficit cycle (in blue) for the government, which explains the always-growing debt of most countries that adopt the current economic theory. 
+- To prevent inequality in Economics, taxation is imposed as fiscal policy
+- To prevent the starvation of capital, monetary easing is intiated as monetary policy
 
-As the lifeblood of Capitalism is this money cycle, it will self-destruct just like a Ponzi scheme or an Enron scenario:
+![Circular FLow in Economics](https://socioecons.files.wordpress.com/2015/04/02-circular-flow-mixed-economy.png)
 
-1946 – (Bar 1) Bretton Woods marks the beginning of its own demise by making the US dollar an international reserve currency, violating Adam Smith’s rule to isolate money.
 
-1979 – (Bar 2) After 26 years, Bretton Woods proves unsustainable and is ended by the Nixon Shock—Nixon ended it abruptly to protect America’s economic interests—proving Adam Smith correct. The lack of a gold standard leads to inflation for most of the 1970's.
+The Circular Flow of Supereconomics, on the other hand, ensures the proper balance of capital by checking the 2 types of arbitrage through 5 tools:
+- Basic Universal Revenue for Minimum Needs will check primary arbitrage in the local level
+- Pool Clearing will check primary arbitrage in the international level
+- The Economic Table of the Physiocrats will check the secondary arbitrage internally
+- The Value Trade Theory will check the secondary arbitrage externally
+- Social Fair tax will check both primary and secondary arbitrage on the local level
 
-1998 – (Bar 3) After 27 years since the Nixon Shock, the floodgates of overtrading are opened with the repeal of the Glass-Steagall Act, through the lobbying of Citigroup which wanted to be a “superbank” (PBS, 2003), violating Adam Smith’s rule to have small banks. They create new nominal value vehicles called CDOs to be traded.
+<!--  ![Circular flow of value](https://sorasystem.sirv.com/graphics/soranomiccycle.png) -->
 
-2007 – (Bar 4) Within ten years of the repeal of Glass-Steagall, a huge credit crunch creates a global recession—as banks, very quickly, as expected, protect their own interests—eventually forcing governments to bail them out and print more money in order to increase trade. By now, the weakness of the temporary patch I called the “Keynesian countermeasures” in fighting selfish-interests is glaringly apparent, proving Adam Smith correct again.
 
-2012 – (5) Five years later, the US federal government faces a “fiscal cliff” and the Eurozone is in crisis. Global gold prices and social inequality reach record levels as most of the global value is only nominal, and real value is unable to meet effectual demand. Soon, the gap between demand and real value will be unsustainable, leading to a global crash of trade courtesy of the selfish hand, as people are expected to protect their own selfish interests.
+{{< img src="/graphics/econ/circular.png" alt="Circular flow in Supereconomics" cap="In the circular flow of Supereconomics, the features of Points-based taxation, Basic Universal Revenue, Pool Clearing, Economic Table, and Value-Trade Theory help achieve and maintain zero inflation. This makes it more robust than Economics, which only uses commercial or money-taxation." >}}
+
+
+## The High Market Prices of Economics vs the Low Market Prices of Supereconomics
+
+The dominance of business, arbitrage, and profit maximization in Economics leads to high market prices.
+
+This is common in all economic systems
+
+ After money is invented, it is pooled into corporations which is used to:
+- create economies of scale, and
+- lobby laws and lawyers to create intellectual property laws and tax breaks.
+
+Such laws then prevent competition that could hamper the egos of those oligarchs and corporations.
+
+The common justification is that by protecting their interests, employment is preserved and social order is maintained. 
+
+This is so easily countered by the fact that people can employ themselves as entrepreneurs, and each other as partnerships. This is especially true after the invention of the internet.
+
+{{< q a="Adam Smith" >}}
+The proposal of any new commercial law which comes from this order, should always be listened to with great precaution. It should never be adopted until after long and careful examination with the most scrupulous and the most suspicious attention.
+{{< /q >}}
+
+
+An easy example is the high price of iPhones wherein Apple works hard to protect its intellectual property and brand image.
+
+<!-- through the (in)justice system.  -->
+
+This gives it high profits as unnatural prices which then benefits its investors or a tiny segment of society. 
+
+This is bad because:
+
+- It sucks the capital of society into a single industry or product
+
+This starves the other industries. For example, the medical industry needs a lot of funding to develop drugs* that can save lives. Yet, these are not developed because those patients often have no paying capacity.
+
+- The intellectually-protected technology cannot be applied for other uses
+
+This prevents innovation as if the technology never existed. It is true that Capitalism spurs innovation, but only for the profitable parts.
+
+In some cases, it actually creates negative innovation if you see a profitable tech company as sponge that sucks all the talent and creates a brain-drain for other sectors of science & technology
+
+
+{{< d t="Update Dec 2020" >}} 
+*This has become true with vaccines that could have been used to prevent Covid from being so bad as it is now
+{{< /d >}} 
+
+
+## High Prices Lead to Bad Things
+
+High market prices have led to povert,y inequality, and revolution ever since money was invented. 
+
+The high market prices of assets such as stocks and property have led to stock and real estate crashes which destroy value and savings. This then destroys the accumulated work done. 
+
+This regular destruction of wealth and low purchasing power of savings then implies that people are really just working everyday for food, rent, and utilities in order to keep on working for food, rent, and utilities.
+- This is not so different from a slave.
+
+![Wage gap](https://sorasystem.sirv.com/graphics/wagegap.png)
+
+Slave wages have been a thing since the 1970's. Objectively, the baby boomers have taken all the good parts of the economy for themselves and are "squatting" on the real value of society.
+- They make the younger generations their economic slaves 
+
+
+{{< q a="Adam Smith" >}}
+The natural price is the lowest..he is likely to sell them for any considerable time.. [It is]..the central price, to which the prices of all commodities are continually gravitating... The market price.. is regulated by the proportion between the quantity.. actually brought to market, and the demand of those who are willing to pay the natural price.
+{{< /q >}}
+
+
+## The Goal of Superphysics: Zero Inflation
+
+All of these then lead us to create one of the main goals of Superphysics which is zero inflation. This is different from the goal of Economics which is an inflation of 2-4%. 
+
+To explain why a 2% inflation target is bad, we first have to define inflation and deflation [in Part 2](/social/economics/principles/part-1/chapter-07/) and show why the 2% inflation target of Economics naturally leads to inequality by favoring the business class, at the expense of the working class. 
+
+These then explain why economic crises, poverty, and inequality still persist despite over 100 years of Economics --because its principles actually create crises, poverty, and inequality.
+
+
+{{< u d="June 2021" u="Overhauled to Superphysics and added Basic Universal revenue, Pool clearing, fairtax, etc" >}}
+
+
+
 

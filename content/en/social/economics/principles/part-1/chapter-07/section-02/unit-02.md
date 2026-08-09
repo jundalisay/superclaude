@@ -1,8 +1,8 @@
 ---
-heading: "Unit 1"
+heading: "Unit 2"
 title: "Deflation from Declining Population"
 # date: 2022-08-18
-weight: 4
+weight: 6
 image: /photos/social/bow.jpg
 description: ""
 writer:
