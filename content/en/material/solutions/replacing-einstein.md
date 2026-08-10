@@ -51,7 +51,21 @@ A tennis ball hitting the water can have 3 outcomes depending on the energy of t
 
 This is now seen in the Photoelectric Effect credited to Einstein. 
 
-Einstein used the Photoelectric Effect to create the concept of quanta, which were the light balls to Descartes. Einstein then imbued the property of time on those quanta in order to create the theory of Relativity wherein light is used as a measuring rod. 
+
+## Photo-electric Effect Scam
+
+Einstein used the Photoelectric Effect to create the concept of quanta, which were the light balls to Descartes. 
+
+This is by grouping `h` with `E` in `E = hf`
+
+Einstein then imbued the property of time on those quanta in order to create the theory of Relativity wherein light is used as a measuring rod. 
+
+But Descartes would do the ooposite and base the photoelectric effect on `f` instead of `E`
+
+Instead of extending `E = hf` to time as measuring rod, Descartes would have extended it to `f` as wave-frequencies.
+
+{{< youtube fk3JM-EXYOk >}}
+
 
 To Descartes, this measuring rod property of light is a consequence of it being a carrier. In this case, light becomes a carrier of spacetime information. 
 

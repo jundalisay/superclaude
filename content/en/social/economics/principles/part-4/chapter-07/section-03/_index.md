@@ -1,13 +1,12 @@
 ---
 heading: "Section 3"
-title: "Overcirculation"
+title: "Logistics Efficiency"
 date: 2015-01-17
-weight: 11
-image: /photos/people/ponzi.jpg
+weight: 7
+image: /photos/econ/rider.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 

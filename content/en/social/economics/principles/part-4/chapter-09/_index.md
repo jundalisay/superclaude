@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 9"
-title: "Trader Economic Systems"
+title: "Solutions"
 date: 2015-01-17
-weight: 52
-image: /photos/objects/money.jpg
-description: "The Trader Class runs the 4th Law"
+weight: 42
+image: /photos/social/leader.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

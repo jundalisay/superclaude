@@ -1,43 +1,53 @@
 ---
 heading: "Unit 1"
-title: "The Poverty Cycle"
-# date: 2022-08-18
-weight: 4
-image: /photos/econ/nomoney.jpg
-description: "Poverty Cycle is a result of the weaknesses in the worker class"
+linkTitle: Demand Efficiency
+title: "Demand Efficiency and Inefficiency"
+date: 2025-01-27
+weight: 3
+image: /photos/bio/lettuce.jpg
+description: "The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+toc: false
+aliases:
+  /social/economics/principles/part-1/chapter-06b
 ---
 
 
-Both Absolute and Effective Demand have to be matched by productivity. 
 
-In some cases, people demand more than they can supply. This is seen as living beyond one's means. 
+The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system.   
 
-This is a common problem among the worker class as they are weak against the onslaught of their desires  as their absolute and effective demand.
+Nominal Value Realized | Real Value Realized | Name
+--- | --- | ---
+Increase | Stable | Demand Efficiency
+Decrease | Stable | Demand Inefficiency
 
-This leads to the poverty cycle which has 4 phases:
-<!-- The poverty cycle is the effect of inherent weaknesses in the worker class.  -->
+Demand Efficiency is when there is a match of suppliers to demanders from the demand side. Demand Inefficiency is when there is a mismatch.
 
-1. The worker gets low wages
-2. Inflation or lack of discipline causes an increase in expenses
-3. Poverty results from the mismatch of revenue and expense
-4. Poverty creates a lack of empowerment which prevents the worker from raising his revenue 
+Most people have a specific need.
 
+For example, let's say you need a specific  a spare part that fits a machine. Normally, a person would go to a hardwarre store to look for that part.
 
-{{< i s="/graphics/econ/wagecycle.gif" a="Wages" >}}
+Some stores might have it, some might not. Asume there are 3 stores:
 
+Store | Availability of Speific Spare Part | Distance from Buyer
+--- | --- | ---
+A | none | Near
+B | 2 spare parts, too expensive | Moderate
+C | 3 spare parts, 1 is ideal for price point and specs | Far
 
-### Preventing the Poverty Cycle
+The spare part is in Store C which is farthest. It is the business organization that has the real value to address the nominal value you assign to the spare part. 
 
-The root cause of the poverty cycle is unchecked demand. 
+- Maximum demand efficiency is you going to Store C directly to get that part or having it delivered to you 
+- Maximum demand inefficiency is you going to through Store A, then Store B, then Store C before actually finding the part that is ideal for your need (nominal value) and budget (real value).
 
-The Minimum Needs Policy offers a counterweight to basic effective demand which it seeks to supply. 
+Therefore, we can say that:
+- demand efficiency is when demand is satisfied at the least cost or real value to society 
+- demand inefficiency is when demand is not satisfied or is satisfied in a costly way
 
-However, provding the basics such as education, food, and lodging will not prevent people from losing money from excessive spending. 
+Increased demand efficiency allows more nominal value to be realized and so leads to an increase of real wealth.
 
-Such spending can be blocked by having transactions done through a centralized system or app. 
+This will be revealed by the supereconomic ratios. 
 
-The system will deny such impoverishing transactions and prevent the poverty cycle from starting.  
 

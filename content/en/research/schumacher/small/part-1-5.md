@@ -4,6 +4,7 @@ title: "A Question of Size"
 icon: EF Schumacher
 description: 
 date: 2026-08-09
+weight: 7
 ---
 
 

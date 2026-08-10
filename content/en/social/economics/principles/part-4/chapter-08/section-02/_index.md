@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "Solutions to Undertrading"
+title: "Undercirculation"
 date: 2015-01-17
-weight: 8
-image: /photos/social/leader.jpg
+weight: 5
+image: /photos/econ/nomoney.jpg
 description: ""
 writer:
   name: Juan

@@ -1,8 +1,9 @@
 ---
 heading: "Chapter 7"
-title: Problems in Demand 
-description: Problems in Demand are caused by Underdemand or Overdemand
-image: /photos/social/poverty.jpg
-weight: 37
+title: The Demand Ratios
+description: The Demand Ratios expose the Relationality in the 1st Law
+image: /photos/bio/lettuce.jpg
+weight: 28
 ---
+
 

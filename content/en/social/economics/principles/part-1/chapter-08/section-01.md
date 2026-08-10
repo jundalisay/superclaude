@@ -1,22 +1,43 @@
 ---
-heading: Section 1
-title: "The Usufruct Economy-as-a-Service"
-date: 2025-01-18
-image: "/graphics/econ/usufruct.jpg"
-description: "We explain how the Usufruct Economy will work and how it integrates with a moneyless points-based system"
+heading: "Section 1"
+title: "Underdemand and Overdemand"
+date: 2026-05-01
 weight: 4
+image: /photos/objects/car.jpg
+description: ""
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
-aliases:
-  /social/economics/principles/part-1/chapter-10b
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 
-The general Supereconomics solution to demand is the Usufruct Economy, deployed as a service. Thus we call it Economy-as-a-Service or EaaS.
 
-The main problem of unaddressed demand stems from the Negative Force of materialism that blocks the flow of creativity, production, and transportation. 
+<!-- The arbitariness of demand leads to the arbitariness of nominal value.
 
-Supereconomics addresses this through the Usufruct Economy, which is based on aethereal trust and fellow feeling, instead of material identity and preservation. 
+A mind that has not been trained for self-control will likely by a slave to this arbitrariness from the Negative Force.
+
+This leads people to want many things that they cannot afford. 
+ -->
+
+{{< i s="/photos/objects/car.jpg" a="Car" >}}
+
+
+Violations of the First Law come from the Negative Force which prevents either lateral or vertical connections.
+
+1. Lateral Connections
+
+These are connections to other living entities such as people, animals, or plants.
+
+2. Vertical Connections
+
+The lateral connections are dependent on vertical connections such as the one between spirit and matter.
+
+Those who are disconnected in spirit focus too much on matter and on themselves. 
+
+
+When there is too much negative spinning energy in disconnection this manifests as hoarding, ambition, or greed.
+
+This is seen in people buying more than they need. 
+
+When there is too much negative static energy in disconnection this manifests as laziness, lethargy, or inaction.
 

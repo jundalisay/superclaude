@@ -1,55 +1,130 @@
 ---
 heading: "Unit 2"
-title: "Deflation from Declining Population"
-# date: 2022-08-18
-weight: 6
-image: /photos/social/bow.jpg
-description: ""
+title: "Demand Inflation, Deflation"
+linkTitle: Demand Inflation
+# date: 2022-03-27
+# date: 2022-08-10
+weight: 4
+image: /photos/econ/prices.jpg
+description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+toc: false
+aliases:
+  /social/economics/principles/part-1/chapter-06c
 ---
 
 
 
-In Supereconomics, **deflation** is really demand deflation.
+Demand is based on Population size.
 
-A common cause of deflation today is a **shrinking and aging population**.
+Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline.
 
+This definition obviously does not hold because Japan has been in deflation for a long time and yet its prices, such as rent and consumer prices, remain high.
 
-## How a Declining Population Causes Deflation
-
-When birth rates fall and the population ages or shrinks, several economic changes take place:
-- **Lower demand**: Fewer people mean fewer consumers buying housing, food, clothing, cars, and services. When demand weakens faster than supply, businesses cut prices to attract buyers.
-- **Slower investment**: With fewer workers and smaller future markets, companies are less likely to build new factories, open stores, or expand operations. This reduces economic activity further.
-- **Higher savings, lower spending**: Older populations tend to save more and spend less as they retire, while there are fewer young people entering the workforce to earn and spend. This creates a cycle of slow growth and falling prices.
-- **Labor shortages and slow growth**: While fewer workers can push up wages in some sectors, overall economic output declines, reducing tax revenue and limiting the government’s ability to stimulate the economy.
-
-Japan is the most well-known example: its decades-long population decline has been closely linked to persistent low growth and deflationary pressures.
+What really 'deflated' was economic activity, arising from Japan's declining population. Activity is based on the desire, will, or demand to act. This is why Superphysics defines:
+- inflation as **demand inflation** *
+- deflation as **demand deflation**
 
 
-## The Solution: Immigration and Integration
+{{< f f="*From the viewpoint of Economics, the Superphysics definition is Demand-Pull Inflation. Cost-push inflation is merely demand-pull inflation from the viewpoint of the suppliers and producers." >}}
 
-Countries like Singapore and Japan try to create financial incentives to increase population growth again. But these have been unsuccessful.
 
-Since reversing falling birth rates takes generations, the most direct and effective policy to counter population-driven deflation is to **allow more foreigners to settle and integrate into the country**. 
+> What really 'deflated' was economic activity
 
-A country with declining population, such as Japan can establish Japanese education in a country with rising population such as India. 
+![Downturn in financial market](/photos/econ/crash.jpg)
 
-The graduates of those schools can then be given a chance to work in Japan. 
 
-<!-- 
-Here is how it works:
-- **Boosts demand**: More people mean more households, more consumption, and higher demand for housing, goods, and services—stopping prices from falling.
-- **Replenishes the workforce**: Immigrants fill labor gaps, keep businesses running, and support industries that would otherwise shrink. They also pay taxes, helping fund pensions and healthcare for the aging population.
-- **Stimulates investment**: A growing population signals future opportunity, encouraging companies to invest and expand, which creates jobs and raises productivity.
-- **Drives innovation**: New arrivals bring different skills, ideas, and entrepreneurship, which helps keep the economy dynamic and competitive.
+With this new definition, we can derive the following concepts intuitively:
 
-However, **successful integration is key**. When immigrants are welcomed, given equal rights, access to education, and opportunities to participate fully in society, they become productive members of the economy. Without integration, social tensions can arise, and economic benefits are reduced.
+### Zero Inflation 
 
----
+Zero Inflation means that the demand of society is satsified as quickly as possible so as to not have leftover unanswered demand. It also implies that the amount of money circulating is just enough to circulate the supply to the demand. 
 
-## ✅ Conclusion
-A shrinking population creates a structural deflationary force that is difficult to fix with monetary policy alone. Allowing more foreigners to settle and integrate is not just a demographic solution—it is an economic necessity. It restores balance to demand and supply, sustains growth, and prevents the economy from falling into a long-term slump caused by fewer people and fewer opportunities.
+If a society were one huge family, then it would be a family where all the children are fed and satisfied. 
 
--->
+### Stagflation
+
+Stagflation is a situation where rich people can still demand even if production stagnates or even declines. The demand of the rich allows money to overcirculate. 
+
+An analogy is a family wherein some children have much more than others.
+
+Real-world examples are:
+- the Stagflation of the 1970s and 2022
+- the third world debt which circulated among the cronies of corrupt dictators
+
+### Recession or Depression
+
+Recession is a situation where even the rich cannot demand (or merely withholding their demand in the hopes of higher future profits).
+
+In this case, there is an undercirculation of money. This is similar to a family in poverty wherein the children go hungry.
+
+A depression is a prolonged recession. Both recession and depression are effects of the Negative Force.
+
+
+### Hyperinflation
+
+Hyperinflation is a situation where production declines relative to demand. 
+
+Unlike stagflation which is largely caused by the private sector, hyperinflation is caused by the government reacting to an earlier round of inflation. This prompts it to oversupply money. 
+
+Anciently, this happened when a king debased his currency, causing it to overcirculate. An example is a family where the father demands all the resources. 
+
+Modern examples are:
+- the Weimar republic
+- Zimbabwe under Mugabe
+- Venezuela under Maduro
+
+
+### Deflation
+
+This is a situation where demand declines nationwide. It would be like a family wherein some of the children moved out or died out. 
+
+Examples are:
+- modern Japan
+- the Babylonian exile of the Jews
+- the Roman Plague of Justinian
+- Update Dec 2020: A recent example is the demand deflation during the first months of the pandemic
+
+<!-- - **Wage-induced Inflation** is an increase in the demand of workers
+
+- **Profit-induced Inflation** is an increase in the demand of business owners
+
+- **Wage-induced Inflation** is an increase in the demand of workers
+ -->
+Under Classical Economics, any oversupply of money will cause a rise in demand which will then eat all the supplies, leading to a crash. <!-- be cancelled out by demand inflation which will then cannibalize productivity, leading to a crash. --> For example:
+- a Roman emperor who debases his currency will cause inflation which will cause the citizens to support a usurper using the old currency
+- A bank that oversupplies bank notes would create a bank run, allowing other banks to take its place in the economy. 
+
+This natural competition between emperors and banks creates a reliable balance and predictable outcomes.
+
+
+All kinds of inflation and deflation, therefore, are signs that the natural balance of an economy has been disrupted. 
+
+Balance is essential to make systems last long. This applies to material bodies, living organisms, political systems, social relationships, business organizatios, economics, etc. This principle will be explained in Part 4 as part of the Fourth Law of Value
+
+
+## How Balance Is Disrupted
+
+According to the Four Social Cycles, the Worker, Warrior, Thinker, and Trader have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
+
+However, sometimes the dominant class wants to stay in power. In the economy, this is done in the following ways:
+
+Class | Examples | Revenue Model
+--- | ---  | ---
+1 Worker | Communism, Populism | Wages
+2 Warrior | Tyranny, Dictatorship | Tax
+3 Thinker | Research, Religions | Research Grants, Tithes, Dogma
+4 Trader | Mercantilism | Profits
+
+The overdominance of each class manifests as problems:
+
+Class | Problem
+--- | ---  
+1 Worker | Ponzi Schemes
+2 Warrior | Wasteful Government Spending as Budget Deficit, Hyperinflation
+3 Thinker | Moral Hazard
+4 Trader | Depression Stagflation
+
+<!-- As the most pressing and obvious disruption was caused by Neoclassical Economics, we shall explain it in Part 4.  -->

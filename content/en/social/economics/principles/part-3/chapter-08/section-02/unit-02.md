@@ -1,16 +1,16 @@
 ---
 heading: "Unit 2"
-title: "GS Ratio"
-description : ""
+title: "Monopoly by Capitalists"
+# date: 2022-12-24
+date: 2021-12-17
 weight: 6
-# orig date: 2016-01-01
-date: 2025-01-19
-image: /photos/econ/rider.jpg
+image: /photos/countries/capcom.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: Juan
 ---
 
 
 
-The GS ratio is from the rise or fall in services as the society gets wealthier. A rising slope may indicate investments in services and a probable rise in liberal morals and the merchant class

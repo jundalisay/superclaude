@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "Undercirculation"
+title: "Logistics Ratios"
 date: 2015-01-17
 weight: 5
-image: /photos/econ/nomoney.jpg
+image: /photos/econ/rider.jpg
 description: ""
 writer:
   name: Juan

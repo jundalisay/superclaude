@@ -1,9 +1,9 @@
 ---
 heading: "Section 3"
-title: "Solutions to Overtrading"
+title: "Overcirculation"
 date: 2015-01-17
-weight: 14
-image: /photos/objects/money.jpg
+weight: 11
+image: /photos/people/ponzi.jpg
 description: ""
 writer:
   name: Juan

@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 7"
-title: Capital Problems
-description: Capital Problems are caused by Underspending or Overspending
+heading: "Chapter 8"
+title: Capital Ratios
+description: 
 image: /photos/econ/stocks.jpg
-weight: 80
+weight: 78
 ---

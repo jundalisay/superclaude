@@ -4,6 +4,7 @@ title: "The Modern World"
 icon: EF Schumacher
 description: 
 date: 2026-08-09
+weight: 2
 ---
 
 

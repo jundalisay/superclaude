@@ -1,11 +1,12 @@
 ---
-heading: "Chapter 9"
-title: Economic Imbalances
-description: The Trader Class usually causes imbalance
-image: /photos/people/rand.jpg
-date: 2022-01-28
-weight: 50
+heading: "Chapter 10"
+title: "Solutions to Keep Balance"
+weight: 62
+image: /photos/stuff/scale.jpg
+description: "Balance is maintained by the 3rd Law"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 

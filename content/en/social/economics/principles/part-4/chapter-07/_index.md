@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 7"
-title: "Trade Problems"
+title: "Trade Ratios"
 date: 2015-01-17
 weight: 32
-image: /photos/people/ponzi.jpg
+image: /photos/econ/rider.jpg
 description: ""
 writer:
   name: Juan

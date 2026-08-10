@@ -1,33 +1,17 @@
 ---
 heading: "Unit 1"
-title: "GO Ratio"
-description : ""
+title: "Laissez Faire, Liberalism, Neoliberalism"
+# date: 2022-12-24
+date: 2021-12-17
 weight: 4
-# orig date: 2016-01-01
-date: 2025-01-19
-image: /photos/social/lawmaker.jpg
+image: /photos/countries/capcom.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: Juan
+aliases:
+  /social/economics/principles/part-3/chapter-09b
 ---
 
-
-
-
-<!-- Sometimes, the circulation of value in an economy is hampered by either man-made or natural causes. 
-
-Examples of man-made causes are trade wars, concentration of wealth, and conflict.
-
-Examples of natural causes are natural disasters such as pandemics, droughts, and earthquakes.
-
-In such cases, the government needs to step in and spend to jumpstart the economy. 
-
-Unlike the economic system that can only spend money (and thus keep the financial industry employed), supereconomic allows moneyless spending through barter-credits. 
-
- -->
-
-
-
-
-GO is ratio of the rise or fall in government as the society gets wealthier. A rising slope may likewise indicate the spread of austere morals as state control, as opposed to liberalism
 

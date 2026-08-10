@@ -1,9 +1,8 @@
 ---
 heading: "Chapter 8"
-title: Solutions 
-# to Demand Problems
-description: We give Solutions to Need
-image: "/graphics/econ/usufruct.jpg"
-weight: 120
+title: Problems in Demand 
+description: Problems in Demand are caused by Underdemand or Overdemand
+image: /photos/social/poverty.jpg
+weight: 37
 ---
 

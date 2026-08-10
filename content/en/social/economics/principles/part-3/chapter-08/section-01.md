@@ -1,25 +1,56 @@
 ---
 heading: "Section 1"
-title: "Industry Efficiency"
-date: 2026-01-18
-weight: 3
-image: /photos/econ/worker.jpg
-description: "Industry Efficiency is how an economy is properly maximizing its capital to meet its demand."
+title: "Underregulation and Overregulation"
+date: 2026-04-17
+weight: 4
+image: /photos/countries/capcom.jpg
+description: ""
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay
+  url: https://www.linkedin.com/in/jundalisay/
+icon: Juan
 ---
 
 
 
-Industry Efficiency is how an economy is properly maximizing its capital to meet its demand. 
+The government has the burden of balancing the various forces in society. 
+
+Sometimes, it fails at this important task.
+- Sometimes, it underregulates, as in Capitalist countries.
+- Sometimes, it overregulates, as in Communist countries. 
 
 
-This is based on industry ratios.
 
-Industry Ratio | Description
---- | ---
-GO | the rise or fall in government as the society gets wealthier. A rising slope may likewise indicate the spread of austere morals as state control, as opposed to liberalism
-GS | the rise or fall in services as the society gets wealthier. A rising slope may indicate investments in services and a probable rise in liberal morals and the merchant class
-GA | the rise or fall in agriculture as the society gets wealthier. A rising slope indicate increased investments in agriculture as opposed to services or manufacturing and could also be a sign of austere morals or of the rise of the laborer class
-GM | the rise or fall in manufacturing as the society gets wealthier. A rising slope indicate investments in manufacturing and likewise a probable rise in austere morals or of the rise of the intellectual class
+
+<!-- We give the problems that arise from such failures of government and economic systems.  -->
+
+
+<!-- 1 demand
+  overspending
+    gambling
+
+
+2 capital
+  asset overpricing
+  excess capacity (too proud capital)
+
+3 imbalance
+  wrong long term policies 
+
+4 overcirculation
+  hyperinflation
+  securitization as insurance 
+
+
+
+Sociology problems
+
+1 Drugs
+
+2 Violent Crime
+
+3 Dogma
+
+4 Economic problems -->
+
+

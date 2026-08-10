@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "Capitalism"
+title: "Solutions to Undertrading"
 date: 2015-01-17
-weight: 52
-image: /photos/econ/stock.jpg
+weight: 8
+image: /photos/social/leader.jpg
 description: ""
 writer:
   name: Juan

@@ -1,52 +1,35 @@
 ---
-heading: "Section 2"
-title: "The Great Depression"
-date: 2015-01-17
-weight: 8
-image: /photos/social/leader.jpg
+heading: "Section 1"
+title: "The Profit Cycle"
+date: 2021-12-24
+weight: 4
+image: /graphics/econ/circular.png
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+draft: true
 ---
 
 
 
-## The Supereconomics Solution to the Great Depression: Essential Barter and Deficit Investment
+Figure 1. The Money Cycle by the people who live by profits (purple), the Budget Deficit Cycle by the people who live by rent [taxes] (blue), and the Poverty Cycle by the people who live by wages (red).
 
-<!-- The Great Depression was caused by the scarcity of money which was, in turn, caused by profit maximization. 
+The Selfish-interest and Monetary dogmas create a money cycle (above, in purple) that eventually destroys the nominal value that is in excess of what is needed by industry, or even all of the nominal value that the cycle created—as evidenced in bubbles, crashes, crunches, and recessions. 
 
-This scarcity led to the failure of many businesses. This then led to massive unemployment which led to a decline in demand. These created a cycle of downturns that caused a lot of hunger and poverty. -->
+It also creates a poverty cycle (in red) that creates negative value as debt and manifests as inequality or the gap between the rich and the poor.
 
-The Great Depression was caused by the doctrine of profit maximization which was gradually established from the 1870s to the 1890s and later formalized as Neo-Classical Economics. 
+Lastly, it creates a budget deficit cycle (in blue) for the government, which explains the always-growing debt of most countries that adopt the current economic theory. 
 
-This prevented the self-correcting mechanisms in an economy that chased value instead of profits. 
+As the lifeblood of Capitalism is this money cycle, it will self-destruct just like a Ponzi scheme or an Enron scenario:
 
-Neo-Classical Economics then absurdly blamd Classical Economics for the problems created by Neo-Classical Economics.
+1946 – (Bar 1) Bretton Woods marks the beginning of its own demise by making the US dollar an international reserve currency, violating Adam Smith’s rule to isolate money.
 
-The easiest solution in the paradigm of Classical Economics is to get rid of profit maximization. 
+1979 – (Bar 2) After 26 years, Bretton Woods proves unsustainable and is ended by the Nixon Shock—Nixon ended it abruptly to protect America’s economic interests—proving Adam Smith correct. The lack of a gold standard leads to inflation for most of the 1970's.
 
-Supereconomics replaces it with **minimum needs**. 
+1998 – (Bar 3) After 27 years since the Nixon Shock, the floodgates of overtrading are opened with the repeal of the Glass-Steagall Act, through the lobbying of Citigroup which wanted to be a “superbank” (PBS, 2003), violating Adam Smith’s rule to have small banks. They create new nominal value vehicles called CDOs to be traded.
 
-During the transition from Neoclassical Economics to Supereconomics, the following steps can be taken to transition to a minimum needs system:
+2007 – (Bar 4) Within ten years of the repeal of Glass-Steagall, a huge credit crunch creates a global recession—as banks, very quickly, as expected, protect their own interests—eventually forcing governments to bail them out and print more money in order to increase trade. By now, the weakness of the temporary patch I called the “Keynesian countermeasures” in fighting selfish-interests is glaringly apparent, proving Adam Smith correct again.
 
-1. Implement a barter system of credit in order to maintain the essential parts of the economy. 
+2012 – (5) Five years later, the US federal government faces a “fiscal cliff” and the Eurozone is in crisis. Global gold prices and social inequality reach record levels as most of the global value is only nominal, and real value is unable to meet effectual demand. Soon, the gap between demand and real value will be unsustainable, leading to a global crash of trade courtesy of the selfish hand, as people are expected to protect their own selfish interests.
 
-This is opposed to monetary solutions and will prevent inflation and the cannibalization of the economy. This works on circulating capital.
-
-2. The government raises bonds to acquire failing companies that are essential to the economy
-
-A collapse of an essential corporation, such as those in utilities and public transportation, would lead to a domino effect. 
-
-The government should intervene by buying those companies at a discount and then propping them up with taxpayer money. 
-
-When the economy recovers, they can sell some of the shares back to the market. 
-
-This is opposed to deficit spending, since it will be "deficit investment" and works on fixed capital.
-
-
-<!-- The government would borrow from the wealthy by issuing bonds, which it will then use to recapitalize those enterprises. The competitors of those enterprises will then be awakened into action, at the prospect of them losing market share to the nationalized company. This will then restart employment which will drive demand anew.
-
-After the nationalized companies have gone back to health, the government can then sell them in order to pay back the bondholders. 
-
-Unfortunately, because of the doctrine of laissez-faire pushed by Mercantilism from the 18th-19th centuries, policymakers are unable to think of this solution.   -->

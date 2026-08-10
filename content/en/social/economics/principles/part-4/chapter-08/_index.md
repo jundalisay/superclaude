@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 8"
-title: "Solutions"
+title: "Trade Problems"
 date: 2015-01-17
-weight: 42
-image: /photos/social/leader.jpg
+weight: 35
+image: /photos/people/ponzi.jpg
 description: ""
 writer:
   name: Juan

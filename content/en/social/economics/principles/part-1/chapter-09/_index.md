@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 9"
-title: "Worker Economic Systems"
-# linkTitle: Law 1
-description: 
-image: /photos/bio/plant.jpg
-date: 2026-05-11
-weight: 126
+title: Solutions 
+# to Demand Problems
+description: We give Solutions to Need
+image: "/graphics/econ/usufruct.jpg"
+weight: 120
 ---
+

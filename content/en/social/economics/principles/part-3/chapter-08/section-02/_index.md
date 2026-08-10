@@ -1,13 +1,10 @@
 ---
 heading: "Section 2"
-title: "Industry Ratios"
-date: 2015-01-17
-weight: 4
-image: /photos/econ/power.jpg
+title: Underregulation
+linkTitle: ""
 description: ""
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
+image: /photos/econ/monopoly.jpg
+date: 2026-05-01
+weight: 10
 ---
-
 

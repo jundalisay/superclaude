@@ -1,9 +1,9 @@
 ---
 heading: "Section 1"
-title: "Bilateral and Multilateral Clearing as the Solution to Under and Overtrading"
-date: 2022-01-11
+title: "Problems in Trade"
+date: 2015-01-17
 weight: 3
-image: /photos/econ/barter.jpg
+image: /photos/people/ponzi.jpg
 description: ""
 writer:
   name: Juan
@@ -11,9 +11,6 @@ writer:
 ---
 
 
-Clearing uses real value to solve:
-- undertrading by allowing real value to circulate 
-- overtrading by exposing the real value of things that might be inflated
-
+The problems in Trade are undercirculation and overcirculation.
 
 

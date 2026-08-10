@@ -1,56 +1,20 @@
 ---
 heading: "Section 1"
-title: "Underregulation and Overregulation"
-date: 2026-04-17
+title: "The Earth Government"
+date: 2022-01-11
 weight: 4
-image: /photos/countries/capcom.jpg
+image: /photos/social/lawmaker.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: Juan
 ---
 
 
+The best solution to overregulation and underregulation is a representative world government, called an Earth Government, divided into 2 houses. 
 
-The government has the burden of balancing the various forces in society. 
+Having a world government creates regulation that solves global underregulation. This is the most important need nowadays.
 
-Sometimes, it fails at this important task.
-- Sometimes, it underregulates, as in Capitalist countries.
-- Sometimes, it overregulates, as in Communist countries. 
-
-
-
-
-<!-- We give the problems that arise from such failures of government and economic systems.  -->
-
-
-<!-- 1 demand
-  overspending
-    gambling
-
-
-2 capital
-  asset overpricing
-  excess capacity (too proud capital)
-
-3 imbalance
-  wrong long term policies 
-
-4 overcirculation
-  hyperinflation
-  securitization as insurance 
-
-
-
-Sociology problems
-
-1 Drugs
-
-2 Violent Crime
-
-3 Dogma
-
-4 Economic problems -->
+Making it representative and split into upper and lower houses can better prevent it from being tyrannical. 
 
 

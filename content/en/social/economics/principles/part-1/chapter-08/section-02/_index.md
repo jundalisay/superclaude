@@ -1,13 +1,8 @@
 ---
 heading: "Section 2"
-title: "Solutions to Underdemand"
-date: 2015-01-17
-weight: 4
-image: /photos/social/poverty.jpg
-description: ""
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
+title: Underdemand 
+description: Underdemand is going below the common interest
+image: /photos/econ/nomoney.jpg
+weight: 7
 ---
-
 
