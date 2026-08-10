@@ -5,8 +5,9 @@ heading: Based on the four laws of value
 image: /graphics/econ.jpg
 date: 2020-01-27
 featured: true
-youtube: "S0L13XsbUKs"
+youtube: "6MoytkEZgPg"
 aliases:
   /economics
 ---
+
 

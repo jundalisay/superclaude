@@ -1,6 +1,4 @@
-# tactiq.io free youtube transcript
-# ELAN - 69 - Blessing in Disguise (with bonus materials, including previously unreleased sharings)
-# https://www.youtube.com/watch/1jPVVx1BIcc
+# ELAN - 69 - Blessing in Disguise 
 
 00:00:01.439 greetings this evening of your time how
 00:00:03.600 are
