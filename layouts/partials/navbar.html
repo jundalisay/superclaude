@@ -89,7 +89,7 @@
     <div class="max-w-[1400px] mx-auto px-4 py-3 grid grid-cols-2 sm:grid-cols-3 gap-1">
       {{- range $sections }}
       {{- $i18nKey := printf "nav_%s" . }}
-      <a href="{{ printf '/%s/' . | relLangURL }}" class="px-3 py-2 text-sm font-medium rounded-lg text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition-colors">{{ i18n $i18nKey }}</a>
+      <a href="{{ printf "/%s/" . | relLangURL }}" class="px-3 py-2 text-sm font-medium rounded-lg text-sp-muted hover:text-teal-600 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition-colors">{{ i18n $i18nKey }}</a>
       {{- end }}
     </div>
   </div>
