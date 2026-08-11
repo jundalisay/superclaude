@@ -19,19 +19,20 @@ If the universe coheres merely from serial succession, then:
 - quality is next
 - quantity is last. 
 
-These qualities are not even being.
-- They are qualities and movements of substance.
-
- it,-or else even the not-white and the not-straight would be being; at least we say even these are, e.g. 'there is a not-white'. Further, none of the categories other than substance can exist apart. 
+These qualities are not even being [foundational existence].
+- They are qualities and movements of substance [effects of foundational existence].
+- Otherwise, white and not-white and not-straight would be being [foundational existence] at least we say even these are, e.g. 'there is a not-white'. Further, none of the categories other than substance can exist apart. 
 
 The early philosophers also in practice testify to the primacy of substance; for it was of substance that they sought the principles and elements and causes. The thinkers of the present day tend to rank universals as substances (for genera are universals, and these they tend to describe as principles and substances, owing to the abstract nature of their inquiry); but the thinkers of old ranked particular things as substances, e.g. fire and earth, not what is common to both, body.
 
-There are three kinds of substance:
+There are 3 kinds of substance:
 
 1. Sensible. This is divided into
   - eternal
   - perishable
+
 2. Plants and animals of which we must grasp the elements, whether one or many
+
 3. Immovable. Some think that these can exist apart, some dividing it into two, others identifying the Forms and the objects of mathematics, and others positing, of these two, only the objects of mathematics. 
 
 Kinds 1 and 2 are the subject of physics since they imply movement. But the third kind belongs to another science, if there is no principle common to it and to the other kinds.
@@ -43,7 +44,9 @@ Sensible substance is changeable.
 
 If change comes from opposites or from intermediates, and not from all opposites (for the voice is not-white, (but it does not therefore change to white)), but from the contrary, there must be something underlying which changes into the contrary state; for the contraries do not change. 
 
-Further, something persists, but the contrary does not persist; there is, then, some third thing besides the contraries, viz. the matter. Now since changes are of four kinds-either in respect of the 'what' or of the quality or of the quantity or of the place, and change in respect of 'thisness' is simple generation and destruction, and change in quantity is increase and diminution, and change in respect of an affection is alteration, and change of place is motion, changes will be from given states into those contrary to them in these several respects. 
+Further, something persists, but the contrary does not persist.
+
+There is, then, some third thing besides the contraries, viz. the matter. Now since changes are of four kinds-either in respect of the 'what' or of the quality or of the quantity or of the place, and change in respect of 'thisness' is simple generation and destruction, and change in quantity is increase and diminution, and change in respect of an affection is alteration, and change of place is motion, changes will be from given states into those contrary to them in these several respects. 
 
 The matter, then, which changes must be capable of both states. And since that which 'is' has two senses, we must say that everything changes from that which is potentially to that which is actually, e.g. from potentially white to actually white, and similarly in the case of increase and diminution. Therefore not only can a thing come to be, incidentally, out of that which is not, but also all things come to be out of that which is, but is potentially, and is not actually. 
 
@@ -53,7 +56,7 @@ All things that change have matter, but different matter; and of eternal things 
 
 From what sort of non-being generation proceeds? 
 
-'Non-being' has three senses. 
+'Non-being' has 3 senses. 
 
 If, then, one form of non-being exists potentially, still it is not by virtue of a potentiality for any and every thing, but different things come from different things; nor is it satisfactory to say that 'all things were together'; for they differ in their matter, since otherwise why did an infinity of things come to be, and not one thing? 
 
