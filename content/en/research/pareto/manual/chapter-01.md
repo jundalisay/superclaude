@@ -4,6 +4,7 @@ title: "General Principles"
 weight: 2
 description: "Modern works about Physics"
 c: "firebrick"
+a: "Pareto"
 ---
 
 

@@ -828,7 +828,7 @@
 00:38:54.520 result in the loss of your individuality
 00:38:57.640 ity in in fact the absorption of your
 00:39:00.960 personality of your identity into the
-00:39:03.920 identity of all that is allow us now to
+00:39:03.920 identity of All-That-Is allow us now to
 00:39:07.400 expound from a slightly different
 00:39:09.359 direction on the following
 00:39:11.520 idea from our
@@ -1617,12 +1617,12 @@
 01:14:01.320 actions literally do speak louder than
 01:14:03.960 words or thoughts to the
 01:14:05.840 universe my question is who is the
-01:14:08.800 universe is the universe all that is all
-01:14:11.639 that is our version of all that is and
-01:14:14.800 your version of all that is all that is
-01:14:18.480 at the same time all that is is each and
+01:14:08.800 universe is the universe All-That-Is all
+01:14:11.639 that is our version of All-That-Is and
+01:14:14.800 your version of All-That-Is All-That-Is
+01:14:18.480 at the same time All-That-Is is each and
 01:14:20.800 every manifestation within the totality
-01:14:23.040 of all that is at the same time time it
+01:14:23.040 of All-That-Is at the same time time it
 01:14:25.480 is self-aware and you can understand
 01:14:28.199 that you are an expression of all that
 01:14:30.679 is therefore most obviously if you
@@ -1798,7 +1798,7 @@
 01:22:37.960 who created the universes the
 01:22:41.480 multi-dimensions in a sense you can say
 01:22:44.120 that you did in a sense you can say that
-01:22:45.840 all that is did it depends how you
+01:22:45.840 All-That-Is did it depends how you
 01:22:47.840 choose to look at it it depends with
 01:22:49.960 what it is you are actually defining
 01:22:52.520 well actually um
@@ -1808,23 +1808,23 @@
 01:23:03.360 arbitrary
 01:23:04.880 explanation it is only true within a
 01:23:07.320 certain framework but understand you can
-01:23:09.560 figure it this way all that is created
+01:23:09.560 figure it this way All-That-Is created
 01:23:13.159 you you created your
-01:23:15.760 reality okay since all that is created
+01:23:15.760 reality okay since All-That-Is created
 01:23:18.239 you so therefore in a sense you can
 01:23:20.120 label the Big Bang in a sense with that
 01:23:22.080 analogy as a co-creation of yourself and
 01:23:25.760 the infinite right but okay our self and
-01:23:28.440 the infinite all that is created you and
+01:23:28.440 the infinite All-That-Is created you and
 01:23:30.159 you created your reality um what I'm
 01:23:34.760 going into is uh how did uh the whole I
 01:23:40.560 mean basically before there was all that
 01:23:42.520 is how did that happen there was no
-01:23:45.080 before all that is understand before
+01:23:45.080 before All-That-Is understand before
 01:23:47.920 during an after art simply designation
-01:23:50.760 timeline designations all that is has
+01:23:50.760 timeline designations All-That-Is has
 01:23:53.639 always exist existed and will always
-01:23:56.679 exist in fact all that is has existed
+01:23:56.679 exist in fact All-That-Is has existed
 01:24:01.080 before even within your time frame the
 01:24:04.280 idea you label purpose therefore all
 01:24:07.480 that is needs no purpose to continue to
@@ -1872,9 +1872,9 @@
 01:25:59.199 creation but it was the creation of
 01:26:01.560 physical reality before which all that
 01:26:04.520 is still always existed right see I
-01:26:08.560 understand that all that is always
+01:26:08.560 understand that All-That-Is always
 01:26:10.560 existed um so therefore there's no way
-01:26:13.719 that all that is was created by anything
+01:26:13.719 that All-That-Is was created by anything
 01:26:15.520 else because it was always existing
 01:26:17.199 exactly
 01:26:18.840 okay um again you are treading on the
@@ -1903,13 +1903,13 @@
 01:27:23.239 understand it more to myself so but but
 01:27:25.880 do understand again one of the things
 01:27:28.119 that you are attempting to do is assign
-01:27:29.639 a purpose to all that is to make some
-01:27:31.560 sense perhaps you can say of all that is
-01:27:33.880 but all that is simply is not bound by
+01:27:29.639 a purpose to All-That-Is to make some
+01:27:31.560 sense perhaps you can say of All-That-Is
+01:27:33.880 but All-That-Is simply is not bound by
 01:27:35.960 the idea of purpose purpose is a concept
 01:27:38.679 purpose was created meaning it had a
 01:27:40.880 beginning before that beginning all that
-01:27:42.920 is existed and all that is simply needs
+01:27:42.920 is existed and All-That-Is simply needs
 01:27:45.480 no purpose to exist simply is simply
 01:27:51.440 exists I understand um
 01:27:54.760 I understand what you're saying exactly
@@ -1993,7 +1993,7 @@
 01:31:27.560 and every one of you bring to this
 01:31:29.760 interaction for you very literally are
 01:31:32.600 each a blessed gift a blessed spark and
-01:31:36.000 extension of all that is and we benefit
+01:31:36.000 extension of All-That-Is and we benefit
 01:31:39.880 and expand and grow by interacting with
 01:31:43.360 the blessing that you give therefore
 01:31:46.440 understand that you sometimes do

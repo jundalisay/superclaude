@@ -2,6 +2,7 @@
 title: "The Balance Sheet of a Points-Based Economic System"
 # heading: "Materialistic Systems Have Caused So Many Problems"
 date: 2022-08-01
+lastmod: 2026-08-10
 # image: "/photos/objects/regicide.jpg"
 image: "/photos/econ/balance.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
@@ -225,4 +226,8 @@ If equity will no longer be a thing, then what will rich people do with their mo
 For example, an Arab sheik has 100 million dollars and personally knows very few worthy entrepreneurs. How can he use his money so that it preserves their value, at least?
 
 The cash saved by the points-system will be used to grow the global economy via Pool Clearing.
+
+The video below explains it:
+
+{{< youtube e0z52UTlXOY >}}
 
