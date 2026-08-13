@@ -564,9 +564,8 @@ I—I—I understand that, and I realize.
 {{< /r >}}
 
 {{< l a="Elan">}}
-But what you are not understanding completely is that all—all you have to do—and I again understand this sounds too simple to be true—is stop doing that. Stop it. When you find yourself doing it, acknowledge it. Remind yourself, "All right, can someone evaluate this right now? Well, obviously not. Then why am I thinking about what someone will think about this? It is not relevant to what I am doing. All right, well, I had this idea, I entertained it, I push it aside." Then you will be reg
+But what you are not understanding completely is that all—all you have to do—and I again understand this sounds too simple to be true—is stop doing that. Stop it. When you find yourself doing it, acknowledge it. Remind yourself, "All right, can someone evaluate this right now? Well, obviously not. Then why am I thinking about what someone will think about this? It is not relevant to what I am doing. All right, well, I had this idea, I entertained it, I push it aside."
 {{< /l >}}
-
 
 
 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "Four Wave Properties: Commonality, Density, Strength, Spread"
 date: 2025-10-04
 weight: 2

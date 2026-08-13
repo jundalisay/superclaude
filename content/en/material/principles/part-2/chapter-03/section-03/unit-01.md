@@ -125,6 +125,24 @@ The *dead force*, or simple gravitation in a body at rest, produces no observabl
 {{< i s="/graphics/physics/sponge.jpg" a="Expansion of the Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" >}}
 
 
+## The Proper Way to Interpret and Use General Dark Matter Knowledge
+
+Since dark matter totally depends on observer, its general practical use, outside of anti-gravity and chemistry, is to gauge the current wave-status of society.
+- This is where Material Superphysics connects to Social Superphysics via dark energy through the pure aether which is the layer above it.   
+
+Researchers could make a survey on whether people think that dark energy is:
+- speeding up
+- constant
+- slowing down
+
+This would then expose what part of the wave (of the society organism) the human species is currently in. 
+
+We assume that the wave is in the slowing speed as part of the transition to 4th density. 
+
+A wave in the accelerating part would mean that humans are new to 3rd density or are just entering the higher aspects of 3rd density. 
+
+
+
 <!-- ## Red Shift from Spacetime Edges Show the Expansion
 
 The aetherspace splits up spacetime, causing space to expand while mamtter stays the same.
