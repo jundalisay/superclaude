@@ -21,6 +21,7 @@ This manifests as the expansion of the universe that is observed to have differe
 - Expansion is the default action of the macro-aetherspace
 - Contraction is the default action of the aetherspace and micro-aetherspace
 
+These actions are done in relation or with the application of spacetime or the crude aether which is subservient to the macro-aetherspace.
 
 
 ## Bob Lazar and the Gravity "A" Wave

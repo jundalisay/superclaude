@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "What is Supermath?"
 date: 2025-03-08
-image: "/graphics/math/math.jpg"
+image: "/photos/math/what.jpg" 
 description: "Supermath"
 weight: 4
 aliases:

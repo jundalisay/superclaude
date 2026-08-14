@@ -58,3 +58,11 @@ When a human goes to another star or galaxy, he measures the time for cesium to 
 This convention creates standard units for space and time that are universal.
 
 
+## Other Conventions
+
+While we push for base-6, others such as the British push for 12, while the Sassani push for 9, and Tesla pushed for 3, 6, 9. 
+
+So we are in between Tesla and the Sassani mentality and can relate to the British, but not so much to the French.
+
+
+

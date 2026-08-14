@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Supermath: Filling Mathematical Voids"
 date: 2025-03-08
-image: /photos/math/supermath.jpg
+image: "/photos/math/what.jpg" 
 description: "Supermath"
 weight: 4
 aliases:

@@ -10,17 +10,24 @@ c: "royalblue"
 
 
 
-{{< l a="Socrates" >}}How does the legislator make names? and to what does he look? Consider this in the light of the previous instances: to what does the carpenter look in making the shuttle? He looks to that which is naturally fitted to act as a shuttle.
+{{< l a="Socrates" >}}How does the legislator make names? He looks to what? 
 
-Suppose the shuttle to be broken in making, will he make another, looking to the broken one? or will he look to the form according to which he made the other?{{< /l >}}
+To what does the carpenter look in making the shuttle? He looks to that which is naturally fitted to act as a shuttle.
 
-{{< r a="Hermogenes" >}}To the latter, I should imagine.{{< /r >}}
+Suppose the shuttle is broken, will he make another, looking to the broken one? or will he look to the form according to which he made the other?
+{{< /l >}}
+
+{{< r a="Hermogenes" >}}To the latter, I think.{{< /r >}}
 
 {{< l a="Socrates" >}}He can be justly called the true or ideal shuttle.
 
-Whatever shuttles are wanted, for the manufacture of garments, thin or thick, of flaxen, woollen, or other material, ought all of them to have the true form of the shuttle; and whatever is the shuttle best adapted to each kind of work, that ought to be the form which the maker produces in each case.{{< /l >}}
+Whatever shuttles are wanted, for the manufacture of garments, thin or thick, of flaxen, woollen, or other material, ought all of them to have the true form of the shuttle.
 
-{{< l a="Socrates" >}}And the same holds of other instruments: when a man has discovered the instrument which is naturally adapted to each work, he must express this natural form, and not others which he fancies, in the material, whatever it may be, which he employs; for example, he ought to know how to put into iron the forms of awls adapted by nature to their several uses?{{< /l >}}
+Whatever is the shuttle best adapted to each kind of work, that ought to be the form which the maker produces in each case.{{< /l >}}
+
+{{< l a="Socrates" >}}
+The same holds of other instruments: when a man has discovered the instrument which is naturally adapted to each work, he must express this natural form, and not others which he fancies, in the material, whatever it may be, which he employs; for example, he ought to know how to put into iron the forms of awls adapted by nature to their several uses?
+{{< /l >}}
 
 {{< r a="Hermogenes" >}}Certainly.{{< /r >}}
 
