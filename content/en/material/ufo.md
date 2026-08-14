@@ -47,16 +47,32 @@ Lazar sources anti-gravity from the Gravity-A wave from the proton.
 
 {{< i s="/graphics/physics/gravitya.jpg" a="Gravity A is the aetherspace" c="Gravity A is the aetherspace in Superphysics" >}}
 
+In a nutshell:
+- Gravity-A waves are low density or low frequency atomic space
+- Gravity-B waves are high density or high frequency aether or empty space
 
-His explanation for the gravity amplifiers fit with Cartesian Physics which regards gravity as a pushing force.
+His explanation for the gravity amplifiers fit with Cartesian Physics which regards gravity as a pushing force from the aether.
 
 However, his source for anti-gravity is the atom's aetherspace which he says extends past the atom's perimeter. 
 
-This excess aetherspace is then amplified and then phase-shift to propel the ship, converting to the gravity-B waves or the force of spacetime (mos3 in Superphysics). 
+This excess aetherspace is then amplified and then phase-shift to propel the ship, converting to the Gravity-B waves or the force of spacetime (mos3 in Superphysics). 
 
-We agree that the aetherspace can be amplified, made larger, and then funneled to certain directions.
+We agree that the mechanism is the aetherspace.
 
-This is because that technique matches known telekinesis wherein organic chi is the aetherspace which is then harnessed or pooled and then directed to a certain direction to create physical movement.
+However, we disagree that the aetherspace can extend past the perimeter of the atom as this would make the atom larger. 
+
+Instead, we say that the aetherspace increases its frequency to create a lesser difference between the atom and empty space. 
+- This *bends* the aether just outside the atom, cancelling the pushing force
+- Bending the aether to the other direction causes reverse or anti gravity
+
+{{< youtube 02T4dpYyytU >}}
+
+
+### Chi
+
+Levitating monks use meditation to raise the frequency of their atomic space to match the aether, as organic chi, and cancel gravity. 
+
+<!-- This is because that technique matches known telekinesis wherein organic chi is the aetherspace which is then harnessed or pooled and then directed to a certain direction to create physical movement. -->
 
 {{< youtube QdBN3iN6pi4 >}}
 

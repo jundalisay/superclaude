@@ -58,7 +58,8 @@ defaultContentLanguageInSubdir = false
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
+      { key = "economics", url = "/social/economics" },
+      { key = "history", url = "/social/history/" }
     ]
   [[languages.en.params.nav_groups]]
     title = "Research"
@@ -149,7 +150,8 @@ defaultContentLanguageInSubdir = false
         { key = "bio", url = "/bio" },
         { key = "spiritual", url = "/spiritual" },
         { key = "society", url = "/social/supersociology" },
-        { key = "economics", url = "/social/economics" }
+        { key = "economics", url = "/social/economics" },
+        { key = "history", url = "/social/history/" }        
       ]
     [[languages.zh.params.nav_groups]]
       title = "About"
@@ -223,7 +225,8 @@ defaultContentLanguageInSubdir = false
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
+      { key = "economics", url = "/social/economics" },
+      { key = "history", url = "/social/history/" }
     ]
   [[languages.fr.params.nav_groups]]
     title = "About"
@@ -250,7 +253,8 @@ defaultContentLanguageInSubdir = false
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
+      { key = "economics", url = "/social/economics" },
+      { key = "history", url = "/social/history/" }
     ]
   [[languages.es.params.nav_groups]]
     title = "About"
@@ -277,7 +281,8 @@ defaultContentLanguageInSubdir = false
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
+      { key = "economics", url = "/social/economics" },
+      { key = "history", url = "/social/history/" }
     ]
   [[languages.ar.params.nav_groups]]
     title = "About"
@@ -303,7 +308,8 @@ defaultContentLanguageInSubdir = false
       { key = "bio", url = "/bio" },
       { key = "spiritual", url = "/spiritual" },
       { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" }
+      { key = "economics", url = "/social/economics" },
+      { key = "history", url = "/social/history/" }
     ]
   [[languages.hi.params.nav_groups]]
     title = "About"

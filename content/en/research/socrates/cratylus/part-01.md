@@ -1,217 +1,215 @@
 ---
+heading: Part 1
 title: "The Action of Naming"
 description: ""
 date: 2025-12-20
 weight: 3
-c: "seagreen"
+c: "royalblue"
 ---
+
 
 
 PERSONS OF THE DIALOGUE: Socrates, Hermogenes, Cratylus.
 
 
-HERMOGENES: Socrates, our friend Cratylus has been arguing about names; he says that they are natural and not conventional; not a portion of the human voice which men agree to use; but that there is a truth or correctness in them, which is the same for Hellenes as for barbarians. Whereupon I ask him, whether his own name of Cratylus is a true name or not, and he answers “Yes.” 
+{{< r a="Hermogenes" >}}Socrates, our friend Cratylus has been arguing about names; he says that they are natural and not conventional; not a portion of the human voice which men agree to use; but that there is a truth or correctness in them, which is the same for Hellenes as for barbarians. Whereupon I ask him, whether his own name of Cratylus is a true name or not, and he answers “Yes.” 
 
-And Socrates? “Yes.” Then every man’s name, as I tell him, is that which he is called. To this he replies—“If all the world were to call you Hermogenes, that would not be your name.” And when I am anxious to have a further explanation he is ironical and mysterious, and seems to imply that he has a notion of his own about the matter, if he would only tell, and could entirely convince me, if he chose to be intelligible. Tell me, Socrates, what this oracle means; or rather tell me, if you will be so good, what is your own view of the truth or correctness of names, which I would far sooner hear.
+And Socrates? “Yes.” Then every man’s name, as I tell him, is that which he is called. To this he replies—“If all the world were to call you Hermogenes, that would not be your name.” And when I am anxious to have a further explanation he is ironical and mysterious, and seems to imply that he has a notion of his own about the matter, if he would only tell, and could entirely convince me, if he chose to be intelligible. Tell me, Socrates, what this oracle means; or rather tell me, if you will be so good, what is your own view of the truth or correctness of names, which I would far sooner hear.{{< /r >}}
 
-SOCRATES: Son of Hipponicus, there is an ancient saying, that “hard is the knowledge of the good.” And the knowledge of names is a great part of knowledge. If I had not been poor, I might have heard the fifty-drachma course of the great Prodicus, which is a complete education in grammar and language—these are his own words—and then I should have been at once able to answer your question about the correctness of names. But, indeed, I have only heard the single-drachma course, and therefore, I do not know the truth about such matters; I will, however, gladly assist you and Cratylus in the investigation of them. When he declares that your name is not really Hermogenes, I suspect that he is only making fun of you;—he means to say that you are no true son of Hermes, because you are always looking after a fortune and never in luck. But, as I was saying, there is a good deal of difficulty in this sort of knowledge, and therefore we had better leave the question open until we have heard both sides.
+{{< l a="Socrates" >}}Son of Hipponicus, there is an ancient saying, that “hard is the knowledge of the good.” And the knowledge of names is a great part of knowledge. If I had not been poor, I might have heard the fifty-drachma course of the great Prodicus, which is a complete education in grammar and language—these are his own words—and then I should have been at once able to answer your question about the correctness of names. But, indeed, I have only heard the single-drachma course, and therefore, I do not know the truth about such matters; I will, however, gladly assist you and Cratylus in the investigation of them. When he declares that your name is not really Hermogenes, I suspect that he is only making fun of you;—he means to say that you are no true son of Hermes, because you are always looking after a fortune and never in luck. But, as I was saying, there is a good deal of difficulty in this sort of knowledge, and therefore we had better leave the question open until we have heard both sides.{{< /l >}}
 
-HERMOGENES: I have often talked over this matter, both with Cratylus and others, and cannot convince myself that there is any principle of correctness in names other than convention and agreement; any name which you give, in my opinion, is the right one, and if you change that and give another, the new name is as correct as the old—we frequently change the names of our slaves, and the newly-imposed name is as good as the old: for there is no name given to anything by nature; all is convention and habit of the users;—such is my view. But if I am mistaken I shall be happy to hear and learn of Cratylus, or of any one else.
+{{< r a="Hermogenes" >}}I have often talked over this matter, both with Cratylus and others, and cannot convince myself that there is any principle of correctness in names other than convention and agreement; any name which you give, in my opinion, is the right one, and if you change that and give another, the new name is as correct as the old—we frequently change the names of our slaves, and the newly-imposed name is as good as the old: for there is no name given to anything by nature; all is convention and habit of the users;—such is my view. But if I am mistaken I shall be happy to hear and learn of Cratylus, or of any one else.{{< /r >}}
 
-SOCRATES: I dare say that you may be right, Hermogenes: let us see;—Your meaning is, that the name of each thing is only that which anybody agrees to call it?
+{{< l a="Socrates" >}}I dare say that you may be right, Hermogenes: let us see;—Your meaning is, that the name of each thing is only that which anybody agrees to call it?{{< /l >}}
 
-HERMOGENES: That is my notion.
+{{< r a="Hermogenes" >}}That is my notion.{{< /r >}}
 
-SOCRATES: Whether the giver of the name be an individual or a city?
+{{< l a="Socrates" >}}Whether the giver of the name be an individual or a city?{{< /l >}}
 
-HERMOGENES: Yes.
+{{< r a="Hermogenes" >}}Yes.{{< /r >}}
 
-SOCRATES: Well, now, let me take an instance;—suppose that I call a man a horse or a horse a man, you mean to say that a man will be rightly called a horse by me individually, and rightly called a man by the rest of the world; and a horse again would be rightly called a man by me and a horse by the world:—that is your meaning?
+{{< l a="Socrates" >}}Well, now, let me take an instance;—suppose that I call a man a horse or a horse a man, you mean to say that a man will be rightly called a horse by me individually, and rightly called a man by the rest of the world; and a horse again would be rightly called a man by me and a horse by the world:—that is your meaning?{{< /l >}}
 
-HERMOGENES: He would, according to my view.
+{{< r a="Hermogenes" >}}He would, according to my view.{{< /r >}}
 
-SOCRATES: But how about truth? You acknowledge that:
+{{< l a="Socrates" >}}But how about truth? You acknowledge that:
 - there is in words a true and a false.
 - there are true and false propositions
 - a true proposition says that which is, and a false proposition says that which is not
-- therefore in a proposition there is a true and false
+- therefore in a proposition there is a true and false{{< /l >}}
 
+{{< l a="Socrates" >}}But is a proposition true as a whole only, and are the parts untrue?{{< /l >}}
 
-SOCRATES: But is a proposition true as a whole only, and are the parts untrue?
+{{< r a="Hermogenes" >}}No; the parts are true as well as the whole.{{< /r >}}
 
-HERMOGENES: No; the parts are true as well as the whole.
+{{< l a="Socrates" >}}Would you say the large parts and not the smaller ones, or every part?{{< /l >}}
 
-SOCRATES: Would you say the large parts and not the smaller ones, or every part?
+{{< r a="Hermogenes" >}}I should say that every part is true.{{< /r >}}
 
-HERMOGENES: I should say that every part is true.
+{{< l a="Socrates" >}}Is a proposition resolvable into any part smaller than a name?{{< /l >}}
 
-SOCRATES: Is a proposition resolvable into any part smaller than a name?
+{{< r a="Hermogenes" >}}No; that is the smallest.{{< /r >}}
 
-HERMOGENES: No; that is the smallest.
+{{< l a="Socrates" >}}Then the name is a part of the true proposition?{{< /l >}}
 
-SOCRATES: Then the name is a part of the true proposition?
+{{< r a="Hermogenes" >}}Yes.{{< /r >}}
 
-HERMOGENES: Yes.
-
-SOCRATES: Yes, and a true part. The part of a falsehood also a falsehood.
+{{< l a="Socrates" >}}Yes, and a true part. The part of a falsehood also a falsehood.
 
 Then, if propositions may be true and false then:
 - names may be true and false
-- the name of anything is that which any one affirms to be the name
+- the name of anything is that which any one affirms to be the name{{< /l >}}
 
-SOCRATES: And will there be so many names of each thing as everybody says that there are? and will they be true names at the time of uttering them?
+{{< l a="Socrates" >}}And will there be so many names of each thing as everybody says that there are? and will they be true names at the time of uttering them?{{< /l >}}
 
-HERMOGENES: Yes, Socrates, I can conceive no correctness of names other than this; you give one name, and I another; and in different cities and countries there are different names for the same things; Hellenes differ from barbarians in their use of names, and the several Hellenic tribes from one another.
+{{< r a="Hermogenes" >}}Yes, Socrates, I can conceive no correctness of names other than this; you give one name, and I another; and in different cities and countries there are different names for the same things; Hellenes differ from barbarians in their use of names, and the several Hellenic tribes from one another.{{< /r >}}
 
-SOCRATES: But would you say, Hermogenes, that the things differ as the names differ? and are they relative to individuals, as Protagoras tells us? For he says that man is the measure of all things, and that things are to me as they appear to me, and that they are to you as they appear to you. Do you agree with him, or would you say that things have a permanent essence of their own?
+{{< l a="Socrates" >}}But would you say, Hermogenes, that the things differ as the names differ? and are they relative to individuals, as Protagoras tells us? For he says that man is the measure of all things, and that things are to me as they appear to me, and that they are to you as they appear to you. Do you agree with him, or would you say that things have a permanent essence of their own?{{< /l >}}
 
-HERMOGENES: There have been times, Socrates, when I have been driven in my perplexity to take refuge with Protagoras; not that I agree with him at all.
+{{< r a="Hermogenes" >}}There have been times, Socrates, when I have been driven in my perplexity to take refuge with Protagoras; not that I agree with him at all.{{< /r >}}
 
-SOCRATES: What! have you ever been driven to admit that there was no such thing as a bad man?
+{{< l a="Socrates" >}}What! have you ever been driven to admit that there was no such thing as a bad man?{{< /l >}}
 
-HERMOGENES: No, indeed; but I have often had reason to think that there are very bad men, and a good many of them.
+{{< r a="Hermogenes" >}}No, indeed; but I have often had reason to think that there are very bad men, and a good many of them.{{< /r >}}
 
-SOCRATES: Well, and have you ever found any very good ones?
+{{< l a="Socrates" >}}Well, and have you ever found any very good ones?{{< /l >}}
 
-HERMOGENES: Not many.
+{{< r a="Hermogenes" >}}Not many.{{< /r >}}
 
-SOCRATES: Still you have found them?
+{{< l a="Socrates" >}}Still you have found them?{{< /l >}}
 
-HERMOGENES: Yes.
+{{< r a="Hermogenes" >}}Yes.{{< /r >}}
 
-SOCRATES: And would you hold that the very good were the very wise, and the very evil very foolish? Would that be your view?
+{{< l a="Socrates" >}}And would you hold that the very good were the very wise, and the very evil very foolish? Would that be your view?{{< /l >}}
 
-HERMOGENES: It would.
+{{< r a="Hermogenes" >}}It would.{{< /r >}}
 
-SOCRATES: But if Protagoras is right, and the truth is that things are as they appear to any one, how can some of us be wise and some of us foolish?
+{{< l a="Socrates" >}}But if Protagoras is right, and the truth is that things are as they appear to any one, how can some of us be wise and some of us foolish?{{< /l >}}
 
-HERMOGENES: Impossible.
+{{< r a="Hermogenes" >}}Impossible.{{< /r >}}
 
-SOCRATES: And if, on the other hand, wisdom and folly are really distinguishable, you will allow, I think, that the assertion of Protagoras can hardly be correct. For if what appears to each man is true to him, one man cannot in reality be wiser than another.
+{{< l a="Socrates" >}}And if, on the other hand, wisdom and folly are really distinguishable, you will allow, I think, that the assertion of Protagoras can hardly be correct. For if what appears to each man is true to him, one man cannot in reality be wiser than another.{{< /l >}}
 
-HERMOGENES: He cannot.
+{{< r a="Hermogenes" >}}He cannot.{{< /r >}}
 
-SOCRATES: Nor will you be disposed to say with Euthydemus, that all things equally belong to all men at the same moment and always; for neither on his view can there be some good and others bad, if virtue and vice are always equally to be attributed to all.
+{{< l a="Socrates" >}}Nor will you be disposed to say with Euthydemus, that all things equally belong to all men at the same moment and always; for neither on his view can there be some good and others bad, if virtue and vice are always equally to be attributed to all.{{< /l >}}
 
-HERMOGENES: There cannot.
+{{< r a="Hermogenes" >}}There cannot.{{< /r >}}
 
-SOCRATES: But if neither is right, and things are not relative to individuals, and all things do not equally belong to all at the same moment and always, they must be supposed to have their own proper and permanent essence: they are not in relation to us, or influenced by us, fluctuating according to our fancy, but they are independent, and maintain to their own essence the relation prescribed by nature.
+{{< l a="Socrates" >}}But if neither is right, and things are not relative to individuals, and all things do not equally belong to all at the same moment and always, they must be supposed to have their own proper and permanent essence: they are not in relation to us, or influenced by us, fluctuating according to our fancy, but they are independent, and maintain to their own essence the relation prescribed by nature.{{< /l >}}
 
-HERMOGENES: I think, Socrates, that you have said the truth.
+{{< r a="Hermogenes" >}}I think, Socrates, that you have said the truth.{{< /r >}}
 
-SOCRATES: Does what I am saying apply only to the things themselves, or equally to the actions which proceed from them? Are not actions also a class of being?
+{{< l a="Socrates" >}}Does what I am saying apply only to the things themselves, or equally to the actions which proceed from them? Are not actions also a class of being?{{< /l >}}
 
-HERMOGENES: Yes, the actions are real as well as the things.
+{{< r a="Hermogenes" >}}Yes, the actions are real as well as the things.{{< /r >}}
 
-SOCRATES: Then the actions also are done according to their proper nature, and not according to our opinion of them? In cutting, for example, we do not cut as we please, and with any chance instrument; but we cut with the proper instrument only, and according to the natural process of cutting; and the natural process is right and will succeed, but any other will fail and be of no use at all.
+{{< l a="Socrates" >}}Then the actions also are done according to their proper nature, and not according to our opinion of them? In cutting, for example, we do not cut as we please, and with any chance instrument; but we cut with the proper instrument only, and according to the natural process of cutting; and the natural process is right and will succeed, but any other will fail and be of no use at all.{{< /l >}}
 
-HERMOGENES: I should say that the natural way is the right way.
+{{< r a="Hermogenes" >}}I should say that the natural way is the right way.{{< /r >}}
 
-SOCRATES: Again, in burning, not every way is the right way; but the right way is the natural way, and the right instrument the natural instrument. This holds good of all actions.
+{{< l a="Socrates" >}}Again, in burning, not every way is the right way; but the right way is the natural way, and the right instrument the natural instrument. This holds good of all actions.
 
 Speech is a kind of action.
 
-And will a man speak correctly who speaks as he pleases? Will not the successful speaker rather be he who speaks in the natural way of speaking, and as things ought to be spoken, and with the natural instrument? Any other mode of speaking will result in error and failure.
+And will a man speak correctly who speaks as he pleases? Will not the successful speaker rather be he who speaks in the natural way of speaking, and as things ought to be spoken, and with the natural instrument? Any other mode of speaking will result in error and failure.{{< /l >}}
 
-SOCRATES: And is not naming a part of speaking? for in giving names men speak.
+{{< l a="Socrates" >}}And is not naming a part of speaking? for in giving names men speak.
 
 And if speaking is a sort of action and has a relation to acts, then naming is also a sort of action.
 
 We saw that actions were not relative to ourselves, but had a special nature of their own.
 
-Then the argument would lead us to infer that names ought to be given according to a natural process, and with a proper instrument, and not at our pleasure: in this and no other way shall we name with success.
+Then the argument would lead us to infer that names ought to be given according to a natural process, and with a proper instrument, and not at our pleasure: in this and no other way shall we name with success.{{< /l >}}
 
-SOCRATES: But again, that which has to be cut has to be cut with something. And that which has to be woven or pierced has to be woven or pierced with something.
+{{< l a="Socrates" >}}But again, that which has to be cut has to be cut with something. And that which has to be woven or pierced has to be woven or pierced with something.
 
-And that which has to be named has to be named with something.
+And that which has to be named has to be named with something.{{< /l >}}
 
-SOCRATES: What is that with which we pierce?
+{{< l a="Socrates" >}}What is that with which we pierce?{{< /l >}}
 
-HERMOGENES: An awl.
+{{< r a="Hermogenes" >}}An awl.{{< /r >}}
 
-SOCRATES: And with which we weave?
+{{< l a="Socrates" >}}And with which we weave?{{< /l >}}
 
-HERMOGENES: A shuttle.
+{{< r a="Hermogenes" >}}A shuttle.{{< /r >}}
 
-SOCRATES: And with which we name?
+{{< l a="Socrates" >}}And with which we name?{{< /l >}}
 
-HERMOGENES: A name.
+{{< r a="Hermogenes" >}}A name.{{< /r >}}
 
-SOCRATES: Very good: then a name is an instrument?
+{{< l a="Socrates" >}}Very good: then a name is an instrument?{{< /l >}}
 
-HERMOGENES: Certainly.
+{{< r a="Hermogenes" >}}Certainly.{{< /r >}}
 
-SOCRATES: Suppose that I ask, “What sort of instrument is a shuttle?” And you answer, “A weaving instrument.”
+{{< l a="Socrates" >}}Suppose that I ask, “What sort of instrument is a shuttle?” And you answer, “A weaving instrument.”{{< /l >}}
 
-HERMOGENES: Well.
+{{< r a="Hermogenes" >}}Well.{{< /r >}}
 
-SOCRATES: And I ask again, “What do we do when we weave?”—The answer is, that we separate or disengage the warp from the woof.
+{{< l a="Socrates" >}}And I ask again, “What do we do when we weave?”—The answer is, that we separate or disengage the warp from the woof.{{< /l >}}
 
-HERMOGENES: Very true.
+{{< r a="Hermogenes" >}}Very true.{{< /r >}}
 
-SOCRATES: And may not a similar description be given of an awl, and of instruments in general?
+{{< l a="Socrates" >}}And may not a similar description be given of an awl, and of instruments in general?{{< /l >}}
 
-HERMOGENES: To be sure.
+{{< r a="Hermogenes" >}}To be sure.{{< /r >}}
 
-SOCRATES: And now suppose that I ask a similar question about names: will you answer me? Regarding the name as an instrument, what do we do when we name?
+{{< l a="Socrates" >}}And now suppose that I ask a similar question about names: will you answer me? Regarding the name as an instrument, what do we do when we name?{{< /l >}}
 
-HERMOGENES: I cannot say.
+{{< r a="Hermogenes" >}}I cannot say.{{< /r >}}
 
-SOCRATES: Do we not give information to one another, and distinguish things according to their natures?
+{{< l a="Socrates" >}}Do we not give information to one another, and distinguish things according to their natures?{{< /l >}}
 
-HERMOGENES: Certainly we do.
+{{< r a="Hermogenes" >}}Certainly we do.{{< /r >}}
 
-SOCRATES: Then a name is an instrument of teaching and of distinguishing natures, as the shuttle is of distinguishing the threads of the web.
+{{< l a="Socrates" >}}Then a name is an instrument of teaching and of distinguishing natures, as the shuttle is of distinguishing the threads of the web.{{< /l >}}
 
-HERMOGENES: Yes.
+{{< r a="Hermogenes" >}}Yes.{{< /r >}}
 
-SOCRATES: And the shuttle is the instrument of the weaver?
+{{< l a="Socrates" >}}And the shuttle is the instrument of the weaver?{{< /l >}}
 
-HERMOGENES: Assuredly.
+{{< r a="Hermogenes" >}}Assuredly.{{< /r >}}
 
-SOCRATES: Then the weaver will use the shuttle well—and well means like a weaver? and the teacher will use the name well—and well means like a teacher?
+{{< l a="Socrates" >}}Then the weaver will use the shuttle well—and well means like a weaver? and the teacher will use the name well—and well means like a teacher?{{< /l >}}
 
-HERMOGENES: Yes.
+{{< r a="Hermogenes" >}}Yes.{{< /r >}}
 
-SOCRATES: And when the weaver uses the shuttle, whose work will he be using well?
+{{< l a="Socrates" >}}And when the weaver uses the shuttle, whose work will he be using well?{{< /l >}}
 
-HERMOGENES: That of the carpenter.
+{{< r a="Hermogenes" >}}That of the carpenter.{{< /r >}}
 
-SOCRATES: And is every man a carpenter, or the skilled only?
+{{< l a="Socrates" >}}And is every man a carpenter, or the skilled only?{{< /l >}}
 
-HERMOGENES: Only the skilled.
+{{< r a="Hermogenes" >}}Only the skilled.{{< /r >}}
 
-SOCRATES: And when the piercer uses the awl, whose work will he be using well?
+{{< l a="Socrates" >}}And when the piercer uses the awl, whose work will he be using well?{{< /l >}}
 
-HERMOGENES: That of the smith.
+{{< r a="Hermogenes" >}}That of the smith.{{< /r >}}
 
-SOCRATES: And is every man a smith, or only the skilled?
+{{< l a="Socrates" >}}And is every man a smith, or only the skilled?{{< /l >}}
 
-HERMOGENES: The skilled only.
+{{< r a="Hermogenes" >}}The skilled only.{{< /r >}}
 
-SOCRATES: And when the teacher uses the name, whose work will he be using?
+{{< l a="Socrates" >}}And when the teacher uses the name, whose work will he be using?{{< /l >}}
 
-HERMOGENES: There again I am puzzled.
+{{< r a="Hermogenes" >}}There again I am puzzled.{{< /r >}}
 
-SOCRATES: Cannot you at least say who gives us the names which we use?
+{{< l a="Socrates" >}}Cannot you at least say who gives us the names which we use?{{< /l >}}
 
-HERMOGENES: Indeed I cannot.
+{{< r a="Hermogenes" >}}Indeed I cannot.{{< /r >}}
 
-SOCRATES: Does not the law seem to you to give us them?
+{{< l a="Socrates" >}}Does not the law seem to you to give us them?{{< /l >}}
 
-HERMOGENES: Yes, I suppose so.
+{{< r a="Hermogenes" >}}Yes, I suppose so.{{< /r >}}
 
-SOCRATES: Then the teacher, when he gives us a name, uses the work of the legislator?
+{{< l a="Socrates" >}}Then the teacher, when he gives us a name, uses the work of the legislator?{{< /l >}}
 
-HERMOGENES: I agree.
+{{< r a="Hermogenes" >}}I agree.{{< /r >}}
 
-SOCRATES: And is every man a legislator, or the skilled only?
+{{< l a="Socrates" >}}And is every man a legislator, or the skilled only?{{< /l >}}
 
-HERMOGENES: The skilled only.
+{{< r a="Hermogenes" >}}The skilled only.{{< /r >}}
 
-SOCRATES: Then, Hermogenes, not every man is able to give a name, but only a maker of names; and this is the legislator, who of all skilled artisans in the world is the rarest.
+{{< l a="Socrates" >}}Then, Hermogenes, not every man is able to give a name, but only a maker of names; and this is the legislator, who of all skilled artisans in the world is the rarest.{{< /l >}}
 
-HERMOGENES: True.
-
-
-
+{{< r a="Hermogenes" >}}True.{{< /r >}}
