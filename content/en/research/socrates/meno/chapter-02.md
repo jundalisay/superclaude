@@ -5,6 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: "Meno"
 description: "A shape is the only thing which always follows colour."
 icon: "Socrates"
 ---

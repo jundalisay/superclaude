@@ -5,6 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: "Meno"
 description: "Meno, I am not teaching the boy anything"
 icon: "Socrates"
 ---

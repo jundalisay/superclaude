@@ -4,7 +4,7 @@ heading: "Chapter 13"
 weight: 26
 c: "indigo"
 description: "Parmenides goes back to talk about the Absolute One"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

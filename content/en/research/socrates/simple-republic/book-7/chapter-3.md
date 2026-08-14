@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 8
 c: "steelblue"
 description: "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

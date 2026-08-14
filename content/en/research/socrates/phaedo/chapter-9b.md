@@ -4,7 +4,7 @@ heading: Chapter 9b
 weight: 22
 c: "indigo"
 description: "The ship was crowned on the day before the trial and this kept Socrates in prison and delayed his execution"
-icon: "Socrates"
+a: "Phaedo"
 ---
 
 

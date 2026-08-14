@@ -6,6 +6,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "darkgoldenrod"
+icon: "Timaeus"
 description: "Critias tells the story of ancient Egypt and Atlantis"
 ---
 

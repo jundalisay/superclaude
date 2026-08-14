@@ -4,7 +4,7 @@ heading: "Chapter 1"
 weight: 4
 c: "indigo"
 description: "Unenlightened humans are like those stuck inside a dark cave who see only shadows of objects and not the hidden nature and essence of things"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

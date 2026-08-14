@@ -6,6 +6,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: Crito
 description: "Socrates tells Crito of his vision"
 icon: "Socrates"
 ---

@@ -3,6 +3,7 @@ title: "The Charges against Socarates"
 weight: 2
 description: "The Charges against Socarates by Meletus and others"
 c: "steelblue"
+icon: Socrates
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

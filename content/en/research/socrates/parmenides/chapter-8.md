@@ -4,7 +4,7 @@ heading: "Chapter 8"
 weight: 16
 c: "indigo"
 description: "The One is affected by time"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 <!-- And that which differs in age from some other less than formerly, from being older will become younger in relation to that other than which it was older.

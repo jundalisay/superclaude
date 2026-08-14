@@ -4,7 +4,7 @@ heading: "Chapter 1 of Book 6"
 weight: 12
 c: "steelblue"
 description: "A true philosopher-leader must love knowledge, learning, and have a good memory. He must not be mean nor selfish. Sophists corrupt philosophers by tapping into shallow public opinion"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

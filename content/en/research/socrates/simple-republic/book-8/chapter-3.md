@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 8
 c: "steelblue"
 description: "Oligarchy turns to democracy after the people taste the pleasures of wealth"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

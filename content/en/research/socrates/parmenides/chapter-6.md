@@ -4,7 +4,7 @@ heading: "Chapter 6"
 weight: 12
 c: "indigo"
 description: "The One is in Itself which was a Whole and also in Others within that Whole"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

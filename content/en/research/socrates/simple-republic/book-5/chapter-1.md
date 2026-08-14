@@ -4,7 +4,7 @@ heading: "Chapter 4 of Book 5"
 weight: 10
 c: "steelblue"
 description: "Women should have the same rights as men"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

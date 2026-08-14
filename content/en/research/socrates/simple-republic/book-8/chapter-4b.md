@@ -4,7 +4,7 @@ heading: "Chapter 4b"
 weight: 13
 c: "steelblue"
 description: "Democracy naturally turns into Tyranny"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

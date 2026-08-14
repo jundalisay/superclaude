@@ -4,7 +4,7 @@ heading: "Chapter 7"
 weight: 14
 c: "indigo"
 description: "The One is affected by time"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

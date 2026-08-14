@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 6
 c: "indigo"
 description: "The One is the One when viewed by Itself as an Immovable and Timeless Singularity"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

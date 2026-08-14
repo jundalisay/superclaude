@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 8
 c: "steelblue"
 description: "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

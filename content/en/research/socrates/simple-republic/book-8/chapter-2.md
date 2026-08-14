@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 4
 c: "steelblue"
 description: "Oligarchy emerges from Timocracy which is after the aristocracy of philosophers"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

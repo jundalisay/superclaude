@@ -5,6 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: "Meno"
 description: "I would define virtue as the power of governing mankind."
 icon: "Socrates"
 ---

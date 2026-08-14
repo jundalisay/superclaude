@@ -4,7 +4,7 @@ heading: "Chapter 4"
 weight: 10
 c: "indigo"
 description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
-icon: "Socrates"
+a: "Phaedo"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 14
 c: "steelblue"
 description: "Knowledge is the total perception and understanding of a thing, but Opinion is a single perception or view of it"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

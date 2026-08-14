@@ -4,7 +4,7 @@ heading: "Chapter 3b"
 weight: 9
 c: "steelblue"
 description: "How does the democratical man grow out of the oligarchical?"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

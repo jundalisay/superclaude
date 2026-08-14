@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 6
 c: "steelblue"
 description: "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

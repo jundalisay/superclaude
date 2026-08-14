@@ -6,6 +6,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: "Meno"
 description: "Meno, Socrates, A Slave of Meno (Boy), Anytus"
 icon: "Socrates"
 ---

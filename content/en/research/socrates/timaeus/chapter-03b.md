@@ -6,6 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 weight: 18
 c: "darkgoldenrod"
+icon: "Timaeus"
 description: "Why did the Creator make this world of generation?"
 ---
 

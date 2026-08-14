@@ -4,4 +4,5 @@ linkTitle: "Symposium"
 weight: 7
 description: "Symposium by Plato Simplified"
 c: "steelblue"
+icon: "Socrates"
 ---

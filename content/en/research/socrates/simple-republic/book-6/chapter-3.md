@@ -4,7 +4,7 @@ heading: "Chapter 3 of Book 6"
 weight: 16
 c: "steelblue"
 description: "The knowledge of the Truth is real pleasure"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

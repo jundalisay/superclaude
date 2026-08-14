@@ -4,7 +4,7 @@ heading: "Chapter 9"
 weight: 18
 c: "indigo"
 description: "The One changes Itself into multiplicity from Its Will to Change which occurs in timeless Moments"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

@@ -4,6 +4,7 @@ title: "The Design of Atlantis"
 description: ""
 date: 2025-12-20
 weight: 14
+a: "Critias"
 c: "seagreen"
 ---
 
@@ -11,11 +12,41 @@ c: "seagreen"
 
 They arranged the whole country in the following manner:
 
-First of all they bridged over the zones of sea which surrounded the ancient metropolis, making a road to and from the royal palace. And at the very beginning they built the palace in the habitation of the god and of their ancestors, which they continued to ornament in successive generations, every king surpassing the one who went before him to the utmost of his power, until they made the building a marvel to behold for size and for beauty. And beginning from the sea they bored a canal of three hundred feet in width and one hundred feet in depth and fifty stadia in length, which they carried through to the outermost zone, making a passage from the sea up to this, which became a harbour, and leaving an opening sufficient to enable the largest vessels to find ingress. Moreover, they divided at the bridges the zones of land which parted the zones of sea, leaving room for a single trireme to pass out of one zone into another, and they covered over the channels so as to leave a way underneath for the ships; for the banks were raised considerably above the water. Now the largest of the zones into which a passage was cut from the sea was three stadia in breadth, and the zone of land which came next of equal breadth; but the next two zones, the one of water, the other of land, were two stadia, and the one which surrounded the central island was a stadium only in width. The island in which the palace was situated had a diameter of five stadia. All this including the zones and the bridge, which was the sixth part of a stadium in width, they surrounded by a stone wall on every side, placing towers and gates on the bridges where the sea passed in. The stone which was used in the work they quarried from underneath the centre island, and from underneath the zones, on the outer as well as the inner side. One kind was white, another black, and a third red, and as they quarried, they at the same time hollowed out double docks, having roofs formed out of the native rock. Some of their buildings were simple, but in others they put together different stones, varying the colour to please the eye, and to be a natural source of delight. The entire circuit of the wall, which went round the outermost zone, they covered with a coating of brass, and the circuit of the next wall they coated with tin, and the third, which encompassed the citadel, flashed with the red light of orichalcum. The palaces in the interior of the citadel were constructed on this wise:—In the centre was a holy temple dedicated to Cleito and Poseidon, which remained inaccessible, and was surrounded by an enclosure of gold; this was the spot where the family of the ten princes first saw the light, and thither the people annually brought the fruits of the earth in their season from all the ten portions, to be an offering to each of the ten. 
+First of all they bridged over the zones of sea which surrounded the ancient metropolis, making a road to and from the royal palace.
 
-Here was Poseidon's own temple which was a stadium in length, and half a stadium in width, and of a proportionate height, having a strange barbaric appearance. All the outside of the temple, with the exception of the pinnacles, they covered with silver, and the pinnacles with gold. In the interior of the temple the roof was of ivory, curiously wrought everywhere with gold and silver and orichalcum; and all the other parts, the walls and pillars and floor, they coated with orichalcum. 
+At the very beginning, they built the palace in the habitation of the god and of their ancestors.
 
-In the temple they placed statues of gold: there was the god himself standing in a chariot—the charioteer of six winged horses—and of such a size that he touched the roof of the building with his head; around him there were a hundred Nereids riding on dolphins, for such was thought to be the number of them by the men of those days. There were also in the interior of the temple other images which had been dedicated by private persons. And around the temple on the outside were placed statues of gold of all the descendants of the ten kings and of their wives, and there were many other great offerings of kings and of private persons, coming both from the city itself and from the foreign cities over which they held sway. 
+They continued to ornament this in successive generations. Every king surpassed the one who went before him to the utmost of his power, until they made the building a marvel to behold for size and for beauty.
+
+Beginning from the sea they bored a canal of 300 feet wide and 100 feet deep and 50 stadia long, which they carried through to the outermost zone.
+
+This:
+- made a passage from the sea up to this, which became a harbour
+- left an opening sufficient to enable the largest vessels to find ingress. 
+
+They divided at the bridges the zones of land which parted the zones of sea, leaving room for a single trireme to pass out of one zone into another.
+
+They covered over the channels so as to leave a way underneath for the ships; for the banks were raised considerably above the water. 
+
+The largest of the zones into which a passage was cut from the sea was three stadia in breadth, and the zone of land which came next of equal breadth; but the next two zones, the one of water, the other of land, were two stadia, and the one which surrounded the central island was a stadium only in width. The island in which the palace was situated had a diameter of five stadia. 
+
+All this including the zones and the bridge, which was the sixth part of a stadium in width, they surrounded by a stone wall on every side, placing towers and gates on the bridges where the sea passed in. The stone which was used in the work they quarried from underneath the centre island, and from underneath the zones, on the outer as well as the inner side. 
+
+One kind was white, another black, and a third red, and as they quarried, they at the same time hollowed out double docks, having roofs formed out of the native rock. 
+
+Some of their buildings were simple, but in others they put together different stones, varying the colour to please the eye, and to be a natural source of delight. 
+
+The entire circuit of the wall, which went round the outermost zone, they covered with a coating of brass, and the circuit of the next wall they coated with tin, and the third, which encompassed the citadel, flashed with the red light of orichalcum. 
+
+The palaces in the interior of the citadel were constructed on this wise:—In the centre was a holy temple dedicated to Cleito and Poseidon, which remained inaccessible, and was surrounded by an enclosure of gold; this was the spot where the family of the ten princes first saw the light, and thither the people annually brought the fruits of the earth in their season from all the ten portions, to be an offering to each of the ten. 
+
+Here was Poseidon's own temple [Enki] which was 1 stadium long, and half a stadium in width, and of a proportionate height, having a strange barbaric appearance. 
+
+All the outside of the temple, with the exception of the pinnacles, they covered with silver, and the pinnacles with gold. In the interior of the temple the roof was of ivory, curiously wrought everywhere with gold and silver and orichalcum; and all the other parts, the walls and pillars and floor, they coated with orichalcum. 
+
+In the temple, they placed statues of gold: there was the god himself standing in a chariot—the charioteer of six winged horses—and of such a size that he touched the roof of the building with his head.
+
+Around him there were a hundred Nereids riding on dolphins, for such was thought to be the number of them by the men of those days. There were also in the interior of the temple other images which had been dedicated by private persons. And around the temple on the outside were placed statues of gold of all the descendants of the ten kings and of their wives, and there were many other great offerings of kings and of private persons, coming both from the city itself and from the foreign cities over which they held sway. 
 
 There was an altar too, which in size and workmanship corresponded to this magnificence, and the palaces, in like manner, answered to the greatness of the kingdom and the glory of the temple.
 

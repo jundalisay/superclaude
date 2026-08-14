@@ -4,7 +4,7 @@ heading: "Chapter 12"
 weight: 24
 c: "indigo"
 description: "The existence of the One not only creates the Whole and Others, but also the Illusion of separation to create the multiplicity"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

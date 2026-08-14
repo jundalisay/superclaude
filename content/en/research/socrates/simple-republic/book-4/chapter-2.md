@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 12
 c: "steelblue"
 description: "The four virtues as wisdom, courage, temperance, and justice. Justice is dharma, while injustice is adharma"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

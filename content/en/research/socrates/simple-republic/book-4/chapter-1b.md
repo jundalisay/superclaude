@@ -4,7 +4,7 @@ heading: "Chapter 1b"
 weight: 10
 c: "steelblue"
 description: "Socrates emphasized self-restraint in well-ordered States"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

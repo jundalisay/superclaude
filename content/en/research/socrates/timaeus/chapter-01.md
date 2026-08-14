@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 c: "darkgoldenrod"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
-icon: "Socrates"
+icon: "Timaeus"
 ---
 
 

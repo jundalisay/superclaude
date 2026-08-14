@@ -4,6 +4,7 @@ title: "Names"
 description: ""
 date: 2026-08-12
 weight: 6
+a: "Hermogenes"
 c: "royalblue"
 ---
 

@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 6
 c: "steelblue"
 description: "The first proof of happiness is the rankings of the States"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

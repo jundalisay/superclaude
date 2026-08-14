@@ -4,6 +4,7 @@ title: "The Action of Naming"
 description: ""
 date: 2025-12-20
 weight: 3
+a: "Hermogenes"
 c: "royalblue"
 ---
 

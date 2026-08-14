@@ -4,7 +4,7 @@ heading: "Chapter 11"
 weight: 22
 c: "indigo"
 description: "The One is in everything that exists"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

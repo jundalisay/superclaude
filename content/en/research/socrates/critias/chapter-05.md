@@ -4,6 +4,7 @@ title: "The Atlanteans"
 description: ""
 date: 2025-12-20
 weight: 17
+a: "Critias"
 c: "seagreen"
 ---
 

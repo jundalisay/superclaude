@@ -4,6 +4,7 @@ title: "Arbitrary Names"
 description: ""
 date: 2026-08-12
 weight: 16
+a: "Hermogenes"
 c: "royalblue"
 ---
 
@@ -21,27 +22,17 @@ SOCRATES: There is also reason, my friend, in Pan being the double-formed son of
 
 HERMOGENES: How do you make that out?
 
-SOCRATES: You are aware that speech signifies all things (pan), and is always turning them round and round, and has two forms, true and false?
+SOCRATES: You are aware that speech signifies all things (pan), and is always turning them round and round, and has two forms, true and false.
 
-HERMOGENES: Certainly.
+The truth that is in him is the smooth or sacred form which dwells above among the Gods, whereas falsehood dwells among men below, and is rough like the goat of tragedy; for tales and falsehoods have generally to do with the tragic or goatish life, and tragedy is the place of them.
 
-SOCRATES: Is not the truth that is in him the smooth or sacred form which dwells above among the Gods, whereas falsehood dwells among men below, and is rough like the goat of tragedy; for tales and falsehoods have generally to do with the tragic or goatish life, and tragedy is the place of them?
-
-HERMOGENES: Very true.
-
-SOCRATES: Then surely Pan, who is the declarer of all things (pan) and the perpetual mover (aei polon) of all things, is rightly called aipolos (goat-herd), he being the two-formed son of Hermes, smooth in his upper part, and rough and goatlike in his lower regions. And, as the son of Hermes, he is speech or the brother of speech, and that brother should be like brother is no marvel. But, as I was saying, my dear Hermogenes, let us get away from the Gods.
+Then surely Pan, who is the declarer of all things (pan) and the perpetual mover (aei polon) of all things, is rightly called aipolos (goat-herd), he being the two-formed son of Hermes, smooth in his upper part, and rough and goatlike in his lower regions. And, as the son of Hermes, he is speech or the brother of speech, and that brother should be like brother is no marvel. But, as I was saying, my dear Hermogenes, let us get away from the Gods.
 
 HERMOGENES: From these sort of Gods, by all means, Socrates. But why should we not discuss another kind of Gods—the sun, moon, stars, earth, aether, air, fire, water, the seasons, and the year?
 
-SOCRATES: You impose a great many tasks upon me. Still, if you wish, I will not refuse.
+SOCRATES: I shall take first of all him whom you mentioned first—the sun.
 
-HERMOGENES: You will oblige me.
-
-SOCRATES: How would you have me begin? Shall I take first of all him whom you mentioned first—the sun?
-
-HERMOGENES: Very good.
-
-SOCRATES: The origin of the sun will probably be clearer in the Doric form, for the Dorians call him alios, and this name is given to him because when he rises he gathers (alizoi) men together or because he is always rolling in his course (aei eilein ion) about the earth; or from aiolein, of which the meaning is the same as poikillein (to variegate), because he variegates the productions of the earth.
+The origin of the sun will probably be clearer in the Doric form, for the Dorians call him alios, and this name is given to him because when he rises he gathers (alizoi) men together or because he is always rolling in his course (aei eilein ion) about the earth; or from aiolein, of which the meaning is the same as poikillein (to variegate), because he variegates the productions of the earth.
 
 HERMOGENES: But what is selene (the moon)?
 
@@ -49,23 +40,13 @@ SOCRATES: That name is rather unfortunate for Anaxagoras.
 
 HERMOGENES: How so?
 
-SOCRATES: The word seems to forestall his recent discovery, that the moon receives her light from the sun.
+SOCRATES: The word seems to forestall his recent discovery, that the moon receives her light from the sun because the two words selas (brightness) and phos (light) have much the same meaning.
 
-HERMOGENES: Why do you say so?
+This light about the moon is always new (neon) and always old (enon), if the disciples of Anaxagoras say truly. For the sun in his revolution always adds new light, and there is the old light of the previous month.
 
-SOCRATES: The two words selas (brightness) and phos (light) have much the same meaning?
+SOCRATES: The moon is also called selanaia.
 
-HERMOGENES: Yes.
-
-SOCRATES: This light about the moon is always new (neon) and always old (enon), if the disciples of Anaxagoras say truly. For the sun in his revolution always adds new light, and there is the old light of the previous month.
-
-HERMOGENES: Very true.
-
-SOCRATES: The moon is not unfrequently called selanaia.
-
-HERMOGENES: True.
-
-SOCRATES: And as she has a light which is always old and always new (enon neon aei) she may very properly have the name selaenoneoaeia; and this when hammered into shape becomes selanaia.
+As she has a light which is always old and always new (enon neon aei) she may very properly have the name selaenoneoaeia; and this when hammered into shape becomes selanaia.
 
 HERMOGENES: A real dithyrambic sort of name that, Socrates. But what do you say of the month and the stars?
 
@@ -75,9 +56,7 @@ HERMOGENES: What do you say of pur (fire) and udor (water)?
 
 SOCRATES: I am at a loss how to explain pur; either the muse of Euthyphro has deserted me, or there is some very great difficulty in the word. Please, however, to note the contrivance which I adopt whenever I am in a difficulty of this sort.
 
-HERMOGENES: What is it?
-
-SOCRATES: I will tell you; but I should like to know first whether you can tell me what is the meaning of the pur?
+Bbut I should like to know first whether you can tell me what is the meaning of the pur?
 
 HERMOGENES: Indeed I cannot.
 
@@ -87,15 +66,9 @@ HERMOGENES: What is the inference?
 
 SOCRATES: Why, you know that any one who seeks to demonstrate the fitness of these names according to the Hellenic language, and not according to the language from which the words are derived, is rather likely to be at fault.
 
-HERMOGENES: Yes, certainly.
+Consider whether this pur is not foreign; for the word is not easily brought into relation with the Hellenic tongue, and the Phrygians may be observed to have the same word slightly changed, just as they have udor (water) and kunes (dogs), and many other words.
 
-SOCRATES: Well then, consider whether this pur is not foreign; for the word is not easily brought into relation with the Hellenic tongue, and the Phrygians may be observed to have the same word slightly changed, just as they have udor (water) and kunes (dogs), and many other words.
-
-HERMOGENES: That is true.
-
-SOCRATES: Any violent interpretations of the words should be avoided; for something to say about them may easily be found. And thus I get rid of pur and udor. Aer (air), Hermogenes, may be explained as the element which raises (airei) things from the earth, or as ever flowing (aei rei), or because the flux of the air is wind, and the poets call the winds “air-blasts,” (aetai); he who uses the term may mean, so to speak, air-flux (aetorroun), in the sense of wind-flux (pneumatorroun); and because this moving wind may be expressed by either term he employs the word air (aer = aetes rheo). Aither (aether) I should interpret as aeitheer; this may be correctly said, because this element is always running in a flux about the air (aei thei peri tou aera reon). The meaning of the word ge (earth) comes out better when in the form of gaia, for the earth may be truly called “mother” (gaia, genneteira), as in the language of Homer (Od.) gegaasi means gegennesthai.
-
-HERMOGENES: Good.
+Any violent interpretations of the words should be avoided; for something to say about them may easily be found. And thus I get rid of pur and udor. Aer (air), Hermogenes, may be explained as the element which raises (airei) things from the earth, or as ever flowing (aei rei), or because the flux of the air is wind, and the poets call the winds “air-blasts,” (aetai); he who uses the term may mean, so to speak, air-flux (aetorroun), in the sense of wind-flux (pneumatorroun); and because this moving wind may be expressed by either term he employs the word air (aer = aetes rheo). Aither (aether) I should interpret as aeitheer; this may be correctly said, because this element is always running in a flux about the air (aei thei peri tou aera reon). The meaning of the word ge (earth) comes out better when in the form of gaia, for the earth may be truly called “mother” (gaia, genneteira), as in the language of Homer (Od.) gegaasi means gegennesthai.
 
 SOCRATES: What shall we take next?
 
@@ -104,10 +77,6 @@ HERMOGENES: There are orai (the seasons), and the two names of the year, eniauto
 SOCRATES: The orai should be spelt in the old Attic way, if you desire to know the probable truth about them; they are rightly called the orai because they divide (orizousin) the summers and winters and winds and the fruits of the earth. The words eniautos and etos appear to be the same,—“that which brings to light the plants and growths of the earth in their turn, and passes them in review within itself (en eauto exetazei)”: this is broken up into two words, eniautos from en eauto, and etos from etazei, just as the original name of Zeus was divided into Zena and Dia; and the whole proposition means that his power of reviewing from within is one, but has two names, two words etos and eniautos being thus formed out of a single proposition.
 
 HERMOGENES: Indeed, Socrates, you make surprising progress.
-
-SOCRATES: I am run away with.
-
-HERMOGENES: Very true.
 
 SOCRATES: But am not yet at my utmost speed.
 
@@ -119,9 +88,7 @@ HERMOGENES: Surely, we must not leave off until we find out their meaning.
 
 SOCRATES: By the dog of Egypt I have a not bad notion which came into my head only this moment: I believe that the primeval givers of names were undoubtedly like too many of our modern philosophers, who, in their search after the nature of things, are always getting dizzy from constantly going round and round, and then they imagine that the world is going round and round and moving in all directions; and this appearance, which arises out of their own internal condition, they suppose to be a reality of nature; they think that there is nothing stable or permanent, but only flux and motion, and that the world is always full of every sort of motion and change. The consideration of the names which I mentioned has led me into making this reflection.
 
-HERMOGENES: How is that, Socrates?
-
-SOCRATES: Perhaps you did not observe that in the names which have been just cited, the motion or flux or generation of things is most surely indicated.
+Perhaps you did not observe that in the names which have been just cited, the motion or flux or generation of things is most surely indicated.
 
 HERMOGENES: No, indeed, I never thought of it.
 
@@ -143,29 +110,23 @@ HERMOGENES: That is surely probable.
 
 SOCRATES: Yes; and the very word thallein (to flourish) seems to figure the growth of youth, which is swift and sudden ever. And this is expressed by the legislator in the name, which is a compound of thein (running), and allesthai (leaping). Pray observe how I gallop away when I get on smooth ground. There are a good many names generally thought to be of importance, which have still to be explained.
 
-HERMOGENES: True.
+There is the meaning of the word techne (art), for example.
 
-SOCRATES: There is the meaning of the word techne (art), for example.
-
-HERMOGENES: Very true.
-
-SOCRATES: That may be identified with echonoe, and expresses the possession of mind: you have only to take away the tau and insert two omichrons, one between the chi and nu, and another between the nu and eta.
+That may be identified with echonoe, and expresses the possession of mind: you have only to take away the tau and insert two omichrons, one between the chi and nu, and another between the nu and eta.
 
 HERMOGENES: That is a very shabby etymology.
 
 SOCRATES: Yes, my dear friend; but then you know that the original names have been long ago buried and disguised by people sticking on and stripping off letters for the sake of euphony, and twisting and bedizening them in all sorts of ways: and time too may have had a share in the change. Take, for example, the word katoptron; why is the letter rho inserted? This must surely be the addition of some one who cares nothing about the truth, but thinks only of putting the mouth into shape. And the additions are often such that at last no human being can possibly make out the original meaning of the word. Another example is the word sphigx, sphiggos, which ought properly to be phigx, phiggos, and there are other examples.
 
-HERMOGENES: That is quite true, Socrates.
-
 SOCRATES: And yet, if you are permitted to put in and pull out any letters which you please, names will be too easily made, and any name may be adapted to any object.
 
-HERMOGENES: True.
+Yes, that is true. And therefore a wise dictator, like yourself, should observe the laws of moderation and probability.
 
-SOCRATES: Yes, that is true. And therefore a wise dictator, like yourself, should observe the laws of moderation and probability.
+But do not be too much of a precisian, or “you will unnerve me of my strength (Iliad.).” When you have allowed me to add mechane (contrivance) to techne (art) I shall be at the top of my bent, for I conceive mechane to be a sign of great accomplishment—anein; for mekos has the meaning of greatness, and these two, mekos and anein, make up the word mechane. 
 
-HERMOGENES: Such is my desire.
+But, as I was saying, being now at the top of my bent, I should like to consider the meaning of the two words arete (virtue) and kakia (vice); arete I do not as yet understand, but kakia is transparent, and agrees with the principles which preceded, for all things being in a flux (ionton), kakia is kakos ion (going badly); and this evil motion when existing in the soul has the general name of kakia, or vice, specially appropriated to it. The meaning of kakos ienai may be further illustrated by the use of deilia (cowardice), which ought to have come after andreia, but was forgotten, and, as I fear, is not the only word which has been passed over. Deilia signifies that the soul is bound with a strong chain (desmos), for lian means strength, and therefore deilia expresses the greatest and strongest bond of the soul; and aporia (difficulty) is an evil of the same nature (from a (alpha) not, and poreuesthai to go), like anything else which is an impediment to motion and movement. 
 
-SOCRATES: And mine, too, Hermogenes. But do not be too much of a precisian, or “you will unnerve me of my strength (Iliad.).” When you have allowed me to add mechane (contrivance) to techne (art) I shall be at the top of my bent, for I conceive mechane to be a sign of great accomplishment—anein; for mekos has the meaning of greatness, and these two, mekos and anein, make up the word mechane. But, as I was saying, being now at the top of my bent, I should like to consider the meaning of the two words arete (virtue) and kakia (vice); arete I do not as yet understand, but kakia is transparent, and agrees with the principles which preceded, for all things being in a flux (ionton), kakia is kakos ion (going badly); and this evil motion when existing in the soul has the general name of kakia, or vice, specially appropriated to it. The meaning of kakos ienai may be further illustrated by the use of deilia (cowardice), which ought to have come after andreia, but was forgotten, and, as I fear, is not the only word which has been passed over. Deilia signifies that the soul is bound with a strong chain (desmos), for lian means strength, and therefore deilia expresses the greatest and strongest bond of the soul; and aporia (difficulty) is an evil of the same nature (from a (alpha) not, and poreuesthai to go), like anything else which is an impediment to motion and movement. Then the word kakia appears to mean kakos ienai, or going badly, or limping and halting; of which the consequence is, that the soul becomes filled with vice. And if kakia is the name of this sort of thing, arete will be the opposite of it, signifying in the first place ease of motion, then that the stream of the good soul is unimpeded, and has therefore the attribute of ever flowing without let or hindrance, and is therefore called arete, or, more correctly, aeireite (ever-flowing), and may perhaps have had another form, airete (eligible), indicating that nothing is more eligible than virtue, and this has been hammered into arete. I daresay that you will deem this to be another invention of mine, but I think that if the previous word kakia was right, then arete is also right.
+Then the word kakia appears to mean kakos ienai, or going badly, or limping and halting; of which the consequence is, that the soul becomes filled with vice. And if kakia is the name of this sort of thing, arete will be the opposite of it, signifying in the first place ease of motion, then that the stream of the good soul is unimpeded, and has therefore the attribute of ever flowing without let or hindrance, and is therefore called arete, or, more correctly, aeireite (ever-flowing), and may perhaps have had another form, airete (eligible), indicating that nothing is more eligible than virtue, and this has been hammered into arete. I daresay that you will deem this to be another invention of mine, but I think that if the previous word kakia was right, then arete is also right.
 
 HERMOGENES: But what is the meaning of kakon, which has played so great a part in your previous discourse?
 

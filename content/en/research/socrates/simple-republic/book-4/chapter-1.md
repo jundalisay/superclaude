@@ -4,7 +4,7 @@ heading: "Chapter 1"
 weight: 8
 c: "steelblue"
 description: "Socrates gives the policies for wealth, war, and federalism"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

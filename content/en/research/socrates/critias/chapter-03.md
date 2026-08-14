@@ -4,6 +4,7 @@ title: "The Sons of Poseidon [Enki]"
 description: ""
 date: 2025-12-20
 weight: 9
+a: "Critias"
 c: "seagreen"
 ---
 

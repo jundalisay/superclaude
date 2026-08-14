@@ -4,7 +4,7 @@ heading: "Chapter 4b"
 weight: 14
 c: "steelblue"
 description: "The Foundations of Dialectics Should be Taught to the Youth "
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

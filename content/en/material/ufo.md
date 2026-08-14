@@ -68,6 +68,13 @@ Instead, we say that the aetherspace increases its frequency to create a lesser 
 {{< youtube 02T4dpYyytU >}}
 
 
+<video width="640" height="360" controls poster="thumbnail.jpg">
+  <source src="/v/yahyel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 ### Chi
 
 Levitating monks use meditation to raise the frequency of their atomic space to match the aether, as organic chi, and cancel gravity. 

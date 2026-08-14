@@ -5,7 +5,7 @@ weight: 20
 # date= 2015-09-09
 c: "darkgoldenrod"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
-icon: "Socrates"
+icon: "Timaeus"
 ---
 
 

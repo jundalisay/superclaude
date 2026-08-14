@@ -5,7 +5,7 @@ heading: "Chapter 5"
 weight: 10
 c: "indigo"
 description: "The One is necessarily both at rest and in motion"
-icon: "/icons/Parmenides.jpg"
+icon: Parmenides
 ---
 
 

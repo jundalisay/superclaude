@@ -5,6 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "indigo"
+a: "Meno"
 description: "Socrates talks about Protogoras"
 icon: "Socrates"
 ---

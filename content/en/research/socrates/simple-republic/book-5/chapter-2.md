@@ -4,7 +4,7 @@ heading: "Chapter 2 of Book 5"
 weight: 12
 c: "steelblue"
 description: "Unity is the greatest good to be pursued by the state"
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

@@ -6,6 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 weight: 16
 c: "darkgoldenrod"
+icon: "Timaeus"
 description: "Timaeus is the most of an astronomer amongst us. He has made the nature of the universe his special study"
 ---
 

@@ -4,7 +4,7 @@ heading: "Chapter 4"
 weight: 12
 c: "steelblue"
 description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things."
-author: "Socrates"
+a: "Socrates"
 icon: "Socrates"
 ---
 

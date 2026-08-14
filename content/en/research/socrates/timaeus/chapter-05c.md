@@ -7,7 +7,7 @@ description: "The Simplified Timaeus by Plato"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "Socrates"
+icon: "Timaeus"
 ---
 
 
