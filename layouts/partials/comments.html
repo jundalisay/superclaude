@@ -66,6 +66,17 @@ document.getElementById('basinForm')?.addEventListener('submit', async function(
   e.preventDefault();
   const form = this;
   const btn = form.querySelector('button[type="submit"]');
+
+  // Block submissions from savamask.com without revealing why
+  const emailValue = form.querySelector('#comment-email')?.value || '';
+  if (emailValue.toLowerCase().includes('savmask.com')) {
+    btn.disabled = false;
+    btn.textContent = '{{ i18n "comment_submit" }}';
+    alert('Error sending comment. Please try again.');
+    return;
+  }
+
+
   btn.disabled = true;
   btn.textContent = 'Sending...';
   try {
@@ -88,3 +99,4 @@ document.getElementById('basinForm')?.addEventListener('submit', async function(
   }
 });
 </script>
+

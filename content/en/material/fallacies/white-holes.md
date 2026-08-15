@@ -75,14 +75,19 @@ In response to this, Relativists (fans of Einstein) make another absurd proposit
 This is proof of Einstein's sophistry -- a lie is covered up by another lie. 
 
 
-### The Solution
+### The Solution: Quasars as "White" Holes
 
 Our solution to white holes are based on Descartes' vortices which have a positive (anticlockwise) and negative (clockwise) spin.
 
-Since the Milky Way is spinning clockwise, a negative direction, and has a supermassive BLACK hole, then it follows that quasars spin anti clockwise and are a bright WHITE hole. 
+Since the Milky Way is spinning clockwise which is a negative direction, aside from having a supermassive **BLACK** hole, then it follows that quasars spin anti clockwise and are a bright **WHITE** hole. 
 
-Quasars as white holes are consistent with Sassani descriptions of white and black holes in the inside out universe where stars are alternating black and white holes. 
-- We explain it as the difference between space particles (2nd Element) and aether vortices (5th Element), a difference that is not used in our universe.
+So quasars are "white" holes. 
+
+This is consistent with Sassani descriptions of white and black holes in the "Inside out universe" where stars are alternating black and white holes. 
+- We explain it as the difference between space particles (2nd Element) and the pure aether vortices (5th Element), a difference that is not used in our universe.
+
+
+{{< i s="/photos/physics/quasar.jpg" a="Quasars" c="The centers of quasars are really bright just as the center of galaxies are really dark" >}}
 
 
 

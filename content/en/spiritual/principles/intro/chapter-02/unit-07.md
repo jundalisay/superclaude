@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Unit 7"
 title: "The 10 Spiritual Virtues"
 date: 2024-07-11
 image: "/photos/social/pantry.jpg"
@@ -8,7 +8,7 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: "Lam"
-weight: 4
+weight: 41
 ---
 
 
