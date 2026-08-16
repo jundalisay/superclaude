@@ -21,13 +21,20 @@ This is studied by Spiritual Superphysics.
 
 We use the abstract descriptive names as follows:
 
-Stratum | Sanskrit Equivalent | Sassani Equivalent
+Stratum | Sanskrit Equivalent (Kosha) | Sassani Equivalent
 --- | --- | ---
 Causal | Hiranmaya | Oversoul (7th density)
 Essential | Vijinanamaya | Soul (6th density)
 Astral | Atimanasa | Higher Mind and Template Reality (5th density)
 Subtle | Manomaya | Collective Mind (4th density)
 Crude | Kamamaya | Physical Mind (3rd density)
+
+
+## Koshas Versus Lokas
+
+Koshas are densities while lokas are dimensions. These can usually be used interchangeably unless when referring to specific techniques or technologies. 
+
+
 
 
 <!-- In Asian Metaphysics, this is known as lokas.

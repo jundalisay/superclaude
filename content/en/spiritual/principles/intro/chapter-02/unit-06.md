@@ -8,3 +8,7 @@ icon: "Juan"
 weight: 18
 ---
 
+
+
+The Crude Layer is the Kamamaya kosha or Physical Mind (3rd density)
+

@@ -6,6 +6,9 @@ image: "/photos/meta/cause.jpg"
 description: ""
 icon: "Juan"
 weight: 5
-draft: true
 ---
+
+
+
+The Causal Layer is called the Hiranmaya kosha and Oversoul (7th density) in Metaphysics.
 

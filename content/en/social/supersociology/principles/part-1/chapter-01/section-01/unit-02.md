@@ -1,7 +1,7 @@
 ---
 title: "The Scalability of Society"
 heading: "Unit 2"
-image: "/photo/social/team.jpg"
+image: "/photos/social/colony.jpg"
 date: 2021-07-01
 weight: 5
 description : "A society is scalable universally"

@@ -36,17 +36,14 @@ The main principle is that mentality creates reality. This means that anything i
 
 We apply the MSQ Model for Spirituality with 5 layers:
 
-Layer | Indian Loka 
---- | ---
-Causal | Jana, Tapa, Satya
-Essential | Mahar
-Astral | Svar
-Subtle | Bhuvar
-Crude | Bhur 
 
-
-
-
+Stratum | Sanskrit Equivalent | Sassani Equivalent
+--- | --- | ---
+Causal | Hiranmaya | Oversoul (7th density)
+Essential | Vijinanamaya | Soul (6th density)
+Astral | Atimanasa | Higher Mind and Template Reality (5th density)
+Subtle | Manomaya | Collective Mind (4th density)
+Crude | Kamamaya | Physical Mind (3rd density)
 
 
 ## All is Possible with God

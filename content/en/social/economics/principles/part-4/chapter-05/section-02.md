@@ -11,6 +11,7 @@ writer:
 icon: "Juan"
 aliases:
   /social/economics/inverted-yield-curve
+  /social/economics/principles/part-4/chapter-05b
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "I Do Not Have a Physical Body"
+title: "I Do Not Have a Physical Body Yet I Am Writing This Book"
 description: "I can quite literally be called a ghost writer"
 c: "purple"
 weight: 3
@@ -9,11 +9,9 @@ a: "Seth"
 
 
 
-# CHAPTER 1
+I can literally be called a ghost writer, though I do not approve of the term "ghost." 
 
-**I DO NOT HAVE A PHYSICAL BODY, YET I AM WRITING THIS BOOK**
-
-You have heard of ghost hunters. I can quite literally be called a ghost writer, though I do not approve of the term "ghost." It is true that I am usually not seen in physical terms. I do not like the word "spirit," either; and yet if your definition of that word implies the idea of a personality without a physical body, then I would have to agree that the description fits me.
+I am usually not seen in physically. I do not like the word "spirit," either. Yet if your definition of that word implies the idea of a personality without a physical body, then I would have to agree that the description fits me.
 
 I address an unseen audience. However, I know that my readers exist, and therefore I shall ask each of them, now, to grant me the same privilege.
 
@@ -136,5 +134,3 @@ In the first place, language as you know it is a slow affair: letter by letter s
 I am aware of a different kind of experience, not linear, and can focus upon and react to an infinite variety of simultaneous events. Ruburt could not express them, and so they must be leveled out into linear expression if they are to be communicated. This ability to perceive and react to unlimited simultaneous events is a basic characteristic of each whole self or entity. Therefore, I do not claim it as some feat that is exclusively my own.
 
 Each reader, being presently ensconced within a physical form, I presume, knows only a small portion of himself – as I mentioned earlier. The entity is the overall identity of which his personality is one manifestation – an independent and eternally valid portion. In these communications, therefore, Ruburt's consciousness expands, and yet focuses in a different dimension, a dimension between his reality and mine, a field relatively free of distraction. Here I impress certain concepts upon him, with his permission and assent. They are not neutral, in that all knowledge or information bears the stamp of the personality who holds it or passes it on.
-
-

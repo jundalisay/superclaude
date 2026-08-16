@@ -33,6 +33,9 @@ A good match will have high capital efficiency.
 A bad match will have a low one. 
 
 
+Note that circulating capital efficiency is handled by the 4th Law.
+
+
 
 ## Job Placement
 

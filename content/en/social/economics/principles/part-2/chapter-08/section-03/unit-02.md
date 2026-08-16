@@ -1,14 +1,13 @@
 ---
 heading: "Unit 2"
-title: "Excess Capacity"
+title: "Low Education"
 date: 2025-02-06
-weight: 8
-image: /photos/objects/car.jpg
+weight: 11
+image: /photos/social/african.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
-
 
 

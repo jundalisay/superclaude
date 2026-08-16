@@ -1,9 +1,9 @@
 ---
 heading: Chapter 2
 title: "My Present Environment, Work, And Activities"
-description: "Seth is a disembodied mind i.e. dead guy"
+description: ""
 c: "purple"
-weight: 3
+weight: 8
 a: "Seth"
 ---
 
@@ -191,5 +191,72 @@ Using the inner senses, we become conscious creators, cocreators. But you are un
 
 There is no four o'clock in the afternoon or nine o'clock in the evening in my environment. By this I mean that I am not restricted to a time sequence. There is nothing preventing me from experiencing such sequences if I choose. We experience time, or what you would call **its** equivalent nature, in terms of intensities of experience – a psychological time with its own peaks and valleys.
 
-This is somewhat similar to your own emotional feelings when time seems speeded up or slowed down, but it is vastly different in important ways. Our psychological time
+This is somewhat similar to your own emotional feelings when time seems speeded up or slowed down, but it is vastly different in important ways. Our psychological time could be compared in terms of environment to the walls of a room, but in our case the walls would be constantly changing in color, size, height, depth and width. 
+
+Our psychological structures are different.
+
+We  consciously utilize a multidimensional psychological reality that you inherently possess,  but are unfamiliar with at an egotistical level. It is natural, then, that our environment  would have multidimensional qualities that the physical senses would never perceive. 
+
+I project a portion of my reality as I dictate this book to an undifferentiated level between systems that is relatively clear of camouflage. It is an inactive area, 
+comparatively speaking. If you were thinking in terms of physical reality, then this area could be likened to one immediately above the atmosphere of your earth. 
+
+However I am  speaking of psychological and psychic atmospheres, and this area is sufficiently  distant from Ruburt's physically oriented self so that the communications can be  relatively understood. 
+
+It is also in a way distant from my own environment, for in my own environment I  would have some difficulties in relating information in physically oriented terms. 
+
+Distance does not refer to space. 
+
+Creation and perception are far more intimately connected than any of your  scientists realize. 
+
+Your physical senses create the reality that they perceive. A tree is something far different to a microbe, a bird, an insect, and a man who stands beneath it. 
+
+I am not saying that the tree only appears to be different. It is different. You  perceive its reality through one set of highly specialized senses. This does not mean that its reality exists in that form in any more basic way than it exists in the form perceived  by the microbe, insect, or bird. You cannot perceive the quite valid reality of that tree in  any context but your own. This applies to anything within the physical system that you  know. 
+
+It is not that physical reality is false. It is that the physical picture is simply one of an infinite number of ways of perceiving the various guises through which 
+consciousness expresses itself. The physical senses force you to translate experience into physical perceptions. The inner senses open your range of perception, allow you to  interpret experience in a far freer manner and to create new forms and new channels  through which you, or any consciousness, can know itself. 
+
+Consciousness is, among other things, a spontaneous exercise in creativity. 
+
+You are learning now, in a three-dimensional context, the ways in which your emotional and psychic existence can create varieties of physical form. You manipulate within the psychic environment, and these manipulations are then automatically impressed upon  the physical mold. Now our environment is in itself creative in a different manner than  yours. 
+
+Your environment is creative in that trees bear fruit, that there is a self-sustaining principle, that the earth feeds its own, for example. The naturally creative  aspects are the materializations of the deepest psychic, spiritual, and physical  inclinations of the species, set up in your terms eons ago, and a part of the racial bank  of psychic knowledge. 
+
+We endow the elements of our environment with an even greater creativity that is difficult to explain. We do not have flowers that grow, for example. But the intensity, the  condensed psychic strength of our psychological natures forms new dimensions of  activity. 
+
+If you paint a picture within three-dimensional existence, then the painting must be on a flat surface, merely hinting at the complete three-dimensional experience  that you cannot insert into it. In our environment, however, we could actually create  whatever dimensional effects we desired. All of these abilities are not ours alone. 
+
+They  are your heritage. As you will see later in this book, you exercise your own inner senses,  and multidimensional abilities, more frequently than it might seem, in other states of  consciousness than the normal, waking one. 
+
+Since my own environment does not have easily defined physical elements, you will be able to understand its nature by inference, as I explain some related topics throughout this book. 
+
+Your own physical environment appears as it does to you because of your own psychological structure. If you gained your sense of personal continuity through 
+associative processes primarily, rather than as a result of the familiarity of self moving 
+through time, then you would experience physical reality in an entirely different fashion. 
+
+Objects from past and present could be perceived at once, their presence  justified through associative connections. Say that your father throughout his lifetime 
+has eight favorite chairs. If your perceptive mechanisms were primarily set up as a  result of intuitive association rather than time sequence, then you would perceive all of  these chairs at one time; or seeing one, you would be aware of the others. 
+
+So  environment is not a separate thing in itself, but the result of perceptive patterns, and  these are determined by psychological structure. 
+
+So if you want to know what my environment is like, you will have to understand what I am. In order to explain, I shall have to speak about the nature of consciousness 
+in general. In doing so I shall end up telling you much about yourself. The inner portions of your identity are already aware of much that I will tell you. Part of my 
+purpose is to acquaint your egotistical self with knowledge that is already known to a  larger portion of your own consciousness, that you have long ignored. 
+
+You look out into the physical universe, and interpret reality according to the information received from your "outer senses." I will stand, figuratively speaking, in 
+physical reality and look inward for you, and describe those realities of consciousness and experience that you are presently too fascinated to see. For you are fascinated with  physical reality, and you are in as deep a trance now as the woman is through whom I write this book. 
+
+All of your attention is focused in a highly specialized way upon one shining, bright point that you call reality. There are other realities all about you, but you ignore their existence, and you blot out all stimuli that come from them. There is a reason for such 
+a trance, as you will discover, but little by little you must wake up. My purpose is to 
+open your inner eyes. 
+
+My environment includes, of course, those other personalities with whom I come in 
+contact. Communication, perception, and environment can hardly be separated. 
+
+Therefore the kind of communication that is carried on by myself and my associates is  extremely important in any discussion of our environment. 
+
+In the following chapter I hope to give you an idea, quite simply, of our existence, the 
+work in which we are involved, the dimension in which we exist, the purposes that we 
+hold dear; and most of all, of those concerns that make up our experience. 
+
+
 

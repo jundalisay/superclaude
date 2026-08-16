@@ -4,11 +4,10 @@ title: "The Essential Layer"
 date: 2024-07-11
 image: "/photos/meta/creed.jpg"
 description: ""
-writer:
-  name: Lam
-  url: https://www.linkedin.com/in/baolamnguyen/
-icon: "Lam"
+icon: "Juan"
 weight: 9
-draft: true
 ---
 
+
+
+The Essential Layer is the Vijinanamaya kosha and the Soul (6th density)

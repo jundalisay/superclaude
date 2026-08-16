@@ -5,7 +5,7 @@ description: ""
 date: 2025-12-20
 weight: 3
 a: "Hermogenes"
-c: "royalblue"
+c: "forestgreen"
 ---
 
 

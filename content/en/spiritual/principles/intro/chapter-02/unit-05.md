@@ -8,3 +8,5 @@ icon: "Juan"
 weight: 17
 ---
 
+
+The Subtle Layer is the Manomaya Kosha or the Collective Mind (4th density)

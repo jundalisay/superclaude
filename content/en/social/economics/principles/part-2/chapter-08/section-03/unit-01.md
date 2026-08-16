@@ -1,24 +1,17 @@
 ---
 heading: "Unit 1"
-title: "Overspending and Budget Deficit"
-date: 2025-02-06
-weight: 8
-image: /photos/objects/car.jpg
-description: "The arbitariness of demand leads to the arbitariness of nominal value"
+title: Undercap in Macroeconomics
+description: ""
+date: 2026-08-16
+image: /photos/social/african.jpg
+weight: 3
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay
+  url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
 
-The arbitariness of demand leads to the arbitariness of nominal value.
+Undercapitalization is a problem in countries that reveals itself in the medium and long terms.
 
-A mind that has not been trained for self-control will likely by a slave to this arbitrariness from the Negative Force.
-
-This leads people to want many things that they cannot afford. 
-
-
-{{< i s="/photos/objects/car.jpg" a="Car" >}}
-
-
+This is solved by long term planning, cooperation, and political stability.
