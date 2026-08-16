@@ -1,11 +1,10 @@
 ---
 heading: "Unit 5"
 title: "The Subtle Layer"
-date: 2024-07-11
-image: "/photos/social/pantry.jpg"
+date: 2026-08-16
+image: "/photos/meta/heart.jpg"
 description: ""
 icon: "Juan"
-weight: 4
-draft: true
+weight: 17
 ---
 

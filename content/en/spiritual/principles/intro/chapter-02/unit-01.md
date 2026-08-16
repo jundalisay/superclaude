@@ -2,14 +2,10 @@
 heading: "Unit 1"
 title: "The 5 Mental Layers"
 date: 2024-07-11
-image: "/photos/social/pantry.jpg"
-description: "The 10 virtues are based on Yama and Niyama"
-writer:
-  name: Lam
-  url: https://www.linkedin.com/in/baolamnguyen/
-icon: "Lam"
+image: "/photos/super/mental.jpg"
+description: ""
+icon: "Juan"
 weight: 4
-draft: true
 ---
 
 
@@ -27,8 +23,8 @@ Layer | Manifestations
 --- | ---
 Causal | Brahma
 Essential | Soul, Idea
-Astral | 
-Subtle | 
+Astral | Spirit
+Subtle | Living Organisms
 Crude | Thoughts
 
 

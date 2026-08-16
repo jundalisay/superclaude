@@ -1,3 +1,18 @@
+---
+heading: ""
+title: "?"
+description: ""
+c: "purple"
+# date: 1984-06-25
+icon: Elan
+showdate: true
+weight: 3
+tags: ['']
+---
+
+
+
+
 {{< l a="Elan">}}
 There is a common notion upon your planet in your Society. It is by the way not unique to you, your Society, but a bit shall we say rare in the overall scheme of things from our perspective. And this is the notion that your life happens to you, that you exist within a life. One of the things that it is our pleasure in that sense to share with you is that from again our perspective, more appropriately could you consider that your life does not so much happen to you but actually through you or from you. Another way to put this is again sometimes you believe that you exist within a reality and that is one perspective, one particular point of view. But another point of view, perhaps you can say a bit more of an expansive point of view, is that the reality exists within you. Anything that you perceive to be external to you is literally existing within you. And therefore again from the perspective of seeming to exist within it, all the external ideas, all the external events, all the external places, all the external seeming people are but reflections of ideas within your overall Consciousness. Therefore one of the reasons we entitled this interaction "Interactive Reflections" is that being that there reflecting back to you portions or ideas within yourself, they are doing so for a reason, they are doing so in a particular timing. By definition our suggestion is that you can interact with these Reflections, you can allow your becoming aware of them to be the action of the reflection, but your willingness to glean from any reflection then allows you to act on what you learn from it because it all does exist within you. Anything that exists, any of these Reflections, belong there. Simply there is no such thing as something slipping in into creation; it is either there or not there. All the things that exist in that sense exist. So therefore you may understand that there are no pointless Creations, there are no extraneous Creations. There is however the tendency to label something as extraneous which is then not using something that you are reflecting back to yourself in a positive way. Therefore allow us to begin by saying that there are no pointless or extraneous creations, and any reflection, any idea that you become aware of in your life, you can use in action in a positive way.
 {{< /l >}}
@@ -338,7 +353,7 @@ Do understand it is possible in your life to create joy and ecstasy and only exp
 One other idea: when you decide to change, when you make the decision that I wish change, all that you need do in that sense to realize that change is to trust that you have changed and then act as though you trust that you have changed. And when the subject of trust comes up very often we hear from your Society a collective psychic groan: "Oh no you mean I have to have trust? I have to have faith? Oh no There Goes My reality." All right allow us to share something we have shared many times before, perhaps you can listen as if a new: doubt is not a lack of trust, and in fact there is no such thing as a lack of trust. Trust is what holds together the fabric of your very reality. Trust is the mechanism through which your higher self expresses as a physical self. The moment that that trust is gone you simply disappear, and that trust is in full place you will not disappear. Understand it is not that you do not have trust; it is that doubt is an infinite trust in the thing you say you don't prefer. So therefore it is not a matter of gathering up Trust, of doing psychic exercises so that you can strengthen your trust, no. It is a matter of realizing and acknowledging where you have placed that trust, and that what you again are calling doubt is a trust in what you don't prefer that gives you the opportunity to look at why you would trust in something you don't prefer, and also gives you the opportunity in acknowledging it to then decide to trust in what you do prefer. Simply taking the trust you already have — you do not have to create it, it is there — and reapply it, reassign it to the things that are reflective of who you are. And it is that simple. You can make it more complicated if you wish, if you need in that sense to have a very complex process to validate the change, go right ahead. But now you may realize that that is exactly what you're doing and you can grant that validation in the given moment and apply your trust consciously as the new you, as the preferred you. How would that preferred you act? If the quote unquote old unpreferred you comes up, the new you doesn't mind. The new you says "oh thank you, the more information that I have the more choices that I have, the more options that I have, the more enriched is my experience and ability to choose." So thank that quote unquote old self. Your old self wouldn't thank itself, but your new self can. Your new self contains these definitions. Your new self can thank your old self for the suggestion but then not move, then not act until you remind yourself from the perspective of your new self what that new self would do. Then by acting according to the perspective of the preferred you, you are the preferred you. And all that ever had you being the old you was the same mechanism whereby you acted as though you believed perhaps something negative, perhaps something limiting. But what we are speaking of is nothing you must learn; you are all experts, you are all Masters. You have been up till now perhaps the masters of limitation; now you are the masters of integration and therefore act that way. Always when meeting another Master, the way that you can identify a master is that Master will be the first to reflect back to you that you are already a master as well. For a true Master fully understands and realizes the equality of all ideas within all that is. So perhaps perhaps you can use that as you say as a litmus test. Allow us now to proceed again to the interaction.
 {{< /l >}}
 
-{{< r a="Asker">">
+{{< r a="Asker" >}}
 Shedding male then female. Hi, greetings.
 {{< /r >}}
 
@@ -658,28 +673,20 @@ Well yeah I'm um we talked last time about night dreams and he told me to face t
 Well how exciting. Yes it was.
 {{< /l >}}
 
-{{< l a="Elan">">
+{{< l a="Elan" >}}
 And I didn't by the way for the other individuals present, we simply suggested when this individual had mentioned being chased in her nighttime dreams to Simply assume all the symbols in her dreams are just that in the dream that someone else is chasing her. She was then instructed in that sense to look at what she is running away from within herself, and this was termed facing the bear — turning around and facing what she has been running away from. For again there is nothing that you can create nothing that you cannot use in a positive way, and what reconciles is the mere willingness to look at the symbol. Then you will not need the protection from it; you can simply integrate it, acknowledge it, keep it if you like it, choose a new if you do not.
 {{< /l >}}
 
 {{< r a="Asker">}}
-Do proceed okay. So what I experienced was an incident of sexual harassment where I work.
+I experienced sexual harassment where I work.
 {{< /r >}}
 
 {{< l a="Elan">}}
-Oh right, what an exciting symbol and an opportunity to assert who you are.
+What an exciting symbol and an opportunity to assert who you are.
 {{< /l >}}
 
 {{< r a="Asker">}}
 Wow it was exciting for someone I'm sure.
-{{< /r >}}
-
-{{< l a="Elan">}}
-Do you understand what we mean?
-{{< /l >}}
-
-{{< r a="Asker">}}
-Yes.
 {{< /r >}}
 
 {{< l a="Elan">}}

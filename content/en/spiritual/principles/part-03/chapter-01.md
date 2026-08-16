@@ -1,22 +1,14 @@
 ---
-title: Vedic Philosophy
-description: "Vedic Philosophy"
-image: "/photos/social/poverty.jpg"
-# youtube: 6R4PY3kPQD8
-draft: true
+heading: Chapter 1
+title: Knowledge
+description: ""
+image: "/photos/meta/read.jpg"
+weight: 3
 ---
 
 
-Vedic Philosophy solves the infinite regression by splitting God into 2 concepts: Nirguna Brahma and Saguna Brahma. 
+Jñāna Yoga, the Yoga of Wisdom, is the path of **discernment, reflection, and realization**. Its core method is: *hear the truth, reflect upon it, and meditate until you directly experience it.* 
 
-Superphysics translates the Nirguna as the Absolute Entity, and Saguna as the Supreme Entity. 
+It teaches that suffering and bondage arise from **ignorance**—mistaking the temporary for the eternal, the false self for the True Self. Liberation comes not by rituals, devotion, or works alone, but by **knowing reality exactly as it is**—until ignorance dissolves in the light of understanding.
 
-So the programmer and code is the Absolute. At that point there is no Existence, and the Absolute is in Pre-Existence.  
 
-The code is deployed by the Absolute turning into the Supreme server and browsers from Itself. At that point, Existence is generated. Nature then maintains that Existence as the mechanical part of the Supreme. 
-
-The concept of time exists only in Existence and not in Pre-Existence. 
-
-Samadhi is when the browser matches the code of the server and becomes a server itself. 
-
-I made a video of the 3 modes of space and time within reality: https://youtu.be/X_P0GEu4HQY

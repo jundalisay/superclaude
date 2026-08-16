@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Unit 1"
 title: "Vegetarian Diets"
 date: 2024-12-31
 image: "/photos/bio/lettuce.jpg"

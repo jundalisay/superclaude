@@ -1,7 +1,8 @@
 ---
+heading: Part 2
 title: The Path of Discipline (Raja Yoga)
-linkTitle: "Raja Yoga"
 description: ""
-image: "/photos/meta/yoga.jpg"
+weight: 7
+image: "/photos/medieval/arab.jpg"
 ---
 

@@ -1,6 +1,8 @@
 ---
+heading: Part 3
 title: The Path of Knowledge (Jnana Yoga)
 linkTitle: "Jnana Yoga"
 description: ""
-image: "/photos/meta/read.jpg"
+weight: 11
+image: "/photos/meta/buddhist.jpg"
 ---

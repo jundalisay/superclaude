@@ -2,13 +2,10 @@
 heading: "Unit 2"
 title: "The Causal Layer"
 date: 2024-07-11
-image: "/photos/social/pantry.jpg"
+image: "/photos/meta/cause.jpg"
 description: ""
-writer:
-  name: Lam
-  url: https://www.linkedin.com/in/baolamnguyen/
-icon: "Lam"
-weight: 4
+icon: "Juan"
+weight: 5
 draft: true
 ---
 

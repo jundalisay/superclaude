@@ -1340,9 +1340,6 @@
   :where(.divide-sp-border > :not(:last-child)) {
     border-color: var(--color-sp-border);
   }
-  .self-center {
-    align-self: center;
-  }
   .truncate {
     overflow: hidden;
     text-overflow: ellipsis;
