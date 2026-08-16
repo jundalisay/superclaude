@@ -15,6 +15,9 @@ writer:
 
 The UFO videos released by the US Department of War cleary shows flying objects defying Newtonian Physics.
 
+{{< youtube S27zczNIzyM >}}
+
+
 This means that there is a better system of physics and that the Newtonian system is wrong (unless you say that it is totally OK to be locked out of such advanced UFO technologies).
 
 

@@ -16,11 +16,14 @@ While building our alternative economic system, we experimented with different f
 - barter
 - ecommerce with barter
 - moneyless gift system
+- disaster relief resource allocation
 - timebanking
 - moneyless with ecommerce
 - finally, moneyless with ecommerce and barter
 
 
+
+## Barter Versus Money
 
 Barter and moneyless is feasible but only for the small scale. We realized that the new system still needed money simply because it would be very difficult to mitigate the risk with long-distance barter and points transactions. 
 
@@ -51,17 +54,18 @@ For example, bitcoin is not wealth because it is merely a cryptographic hash in 
 
 Without that bitcoin, fewer goods and services would be experienced and so there would be less wealth.
 
-Why do we need money or bitcoin? Why don’t we just have total fellow feeling for our fellow-creatures and give things for free and get things for free? 
+**Why do we need money or bitcoin? Why don’t we just have total fellow feeling for our fellow-creatures and give things for free and get things for free?**
 
 
-It’s because, according to David Hume, human minds have an infirmity called the ego or the feeling of the self which prevents such fellow feeling. 
+## Ego Versus Fellow-Feeling
+
+This is because, according to David Hume, human minds have an infirmity called the ego or the feeling of the self which prevents such fellow feeling. 
 
 This makes us need physical tangible things like barter and money to act as tools to exchange our concept of valuation.
 
-So money is just one workaround (out of many) to a problem imposed by Nature.
+So money is just one workaround (out of many) to a problem imposed by Nature, as the Negative Force which is called Yin in Taoism or Shakti in Hinduism.
 
-We solve this quirk of human nature by using [points](https://pantrypoints.com) instead of money.
-
+We solve this quirk of human nature by using [points](https://pantrypoints.com) instead of money. This is sourced from the Positive Force as Yang and Shiva.
 
 Points have the same objectivity as money, but is not controlled by any single entity.
 
