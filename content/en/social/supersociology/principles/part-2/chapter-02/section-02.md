@@ -1,7 +1,7 @@
 ---
 title: "Human Rights"
 heading: "Section 2"
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/give.jpg"
 date: 2021-07-01
 weight: 8
 # description : "A society is three or more entities working towards a common interest or goal"

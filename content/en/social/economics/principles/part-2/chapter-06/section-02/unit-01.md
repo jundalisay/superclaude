@@ -4,7 +4,7 @@ title: "Productivity"
 # date: 2022-03-27
 # date: 2022-08-10
 weight: 4
-image: /graphics/econ/law2nd.jpg
+image: /photos/econ/lift.jpg
 description: ""
 writer:
   name: Juan

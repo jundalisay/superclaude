@@ -1,10 +1,10 @@
 ---
-title: Country-Specific
+title: Taiwan
 weight: 23
-linkTitle: Countries
 # date: 2023-06-17
-description: "Research about specific countries"
+description: "Taiwan"
 c: "darkslategray"
-youtube: "S0L13XsbUKs"
+image: "/flags/tw.png"
+# youtube: "S0L13XsbUKs"
 ---
 

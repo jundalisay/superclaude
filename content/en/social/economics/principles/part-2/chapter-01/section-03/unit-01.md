@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "The Effort Theory of Value"
 date: 2015-10-30
 weight: 8
-image: "/photos/objects/car.jpg"
+image: "/photos/econ/singer.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 icon: "Supereconomics"
 writer:

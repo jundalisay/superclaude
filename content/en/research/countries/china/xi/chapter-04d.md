@@ -51,43 +51,31 @@ basis of production and development. At the new historical starting point, Comra
 attaches great importance to the issue of common prosperity and emphasizes that achieving common
 prosperity is the essential requirement of socialism.
 
-An important aspect that distinguishes socialism from capitalism lies in its profound criticism of
-capitalist polarization and huge economic and social inequality, emphasizing adherence to the
-people-centered approach and dedication to the pursuit of all-round human development and
-common prosperity for all people. In his speech at the celebration of the 95th anniversary of the
-founding of the CCP, Comrade Xi Jinping emphasized: "Leading the people
-to create a happy life is the unswerving goal of our party. We must conform to the people's yearning
-for a better life, adhere to the people-centered development thinking, focus on ensuring and
-improving people's livelihood, develop various social undertakings, increase the intensity of income
-distribution and regulation, win the battle against poverty, ensure the people's equal participation
-and equal development rights, so that the results of reform and development will benefit all the
-people more equitably, and steadily move towards the goal of achieving common prosperity for all
-the people. "4
+An important aspect that distinguishes socialism from capitalism lies in its profound criticism of capitalist polarization and huge economic and social inequality, emphasizing adherence to the people-centered approach and dedication to the pursuit of all-round human development and common prosperity for all people. In his speech at the celebration of the 95th anniversary of the founding of the CCP, Comrade Xi Jinping emphasized: "Leading the people
+to create a happy life is the unswerving goal of our party. 
 
-The main contradiction in our society has changed from the contradiction between the people's
-growing material and cultural needs and backward social production to the contradiction between
-the people's growing need for a better life and unbalanced and inadequate development. To adapt to
-the changes in the main contradictions in society, it is necessary not only to promote high-quality
-economic development, solve the problem of insufficient development, and further expand the
-"cake", but also to coordinate the distribution of income, solve the problem of unbalanced
-development, and further divide the "cake.” In view of the imbalance in development, especially the
-widening gap between income and personnel, Comrade Xi Jinping particularly stressed the need to
-achieve shared development. "The 'cake' of China's economic development continues to expand, but
-the problem of unfair distribution is more prominent, and the gap between income and the level of
-public services in urban and rural areas is large. In sharing the achievements of reform and
-development, there are still imperfections in both the actual situation and the system design. To this
-end, we must adhere to the principle that development is for the people, development depends on
-the people, and the fruits of development are shared by the people, and make more effective
-institutional arrangements so that all the people can steadily advance in the direction of common
-prosperity. "1 Practice shows that only by earnestly solving the problem of sharing the fruits of
-reform and achieving common prosperity in shared development can we fully embody the
-superiority of socialism, effectively enhance the momentum of development, and consolidate and
-strengthen the mass foundation for the party's long-term ruling power.
+We must:
+- conform to the people's yearning for a better life
+- adhere to the people-centered development thinking
+- focus on ensuring and improving people's livelihood
+- develop various social undertakings
+- increase the intensity of income distribution and regulation
+- win the battle against poverty
+- ensure the people's equal participation and equal development rights
 
-2. Gradually realize common prosperity for all the people
+This is so that the results of reform and development will benefit all the people more equitably, and steadily move towards the goal of achieving common prosperity for all the people. "4
 
-The gradual realization of common prosperity is a systematic project. "Our country is in the primary
-stage of socialism and will be for a long time, and we cannot do things beyond the stage, but this
+The main contradiction in our society has changed from the contradiction between the people's growing material and cultural needs and backward social production to the contradiction between the people's growing need for a better life and unbalanced and inadequate development. 
+
+To adapt to the changes in the main contradictions in society, it is necessary not only to promote high-quality economic development, solve the problem of insufficient development, and further expand the "cake", but also to coordinate the distribution of income, solve the problem of unbalanced development, and further divide the "cake.” In view of the imbalance in development, especially the widening gap between income and personnel, Comrade Xi Jinping particularly stressed the need to achieve shared development. 
+
+"The 'cake' of China's economic development continues to expand, but the problem of unfair distribution is more prominent, and the gap between income and the level of public services in urban and rural areas is large. In sharing the achievements of reform and development, there are still imperfections in both the actual situation and the system design. 
+
+To this end, we must adhere to the principle that development is for the people, development depends on the people, and the fruits of development are shared by the people, and make more effective institutional arrangements so that all the people can steadily advance in the direction of common prosperity. "1 Practice shows that only by earnestly solving the problem of sharing the fruits of reform and achieving common prosperity in shared development can we fully embody the superiority of socialism, effectively enhance the momentum of development, and consolidate and strengthen the mass foundation for the party's long-term ruling power.
+
+### 2. Gradually realize common prosperity for all the people
+
+The gradual realization of common prosperity is a systematic project. "Our country is in the primary stage of socialism and will be for a long time, and we cannot do things beyond the stage, but this
 does not mean that we will do nothing in gradually realizing common prosperity, but we must do as
 much as possible according to the existing conditions, accumulate small victories into big victories,
 and constantly advance towards the goal of common prosperity for all the people." 2 To gradually

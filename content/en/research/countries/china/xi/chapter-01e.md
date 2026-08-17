@@ -5,16 +5,15 @@ weight: 14
 date: 2025-10-13
 description: ""
 c: "firebrick"
+image: /flags/cn.png
 icon: "China"
 ---
 
 
 
-The 19th National Congress of the CCP pointed out: "The entry of socialism
-with Chinese characteristics into a new era means that the Chinese nation, which has suffered for a
-long time in modern times, has ushered in a great leap from standing up, getting rich to becoming
-strong, and ushered in the bright prospect of realizing the great rejuvenation of the Chinese nation;
-it means that scientific socialism has radiated strong vitality in China in the 21st century and held
+The 19th National Congress of the CCP pointed out: "The entry of socialismwith Chinese characteristics into a new era means that the Chinese nation, which has suffered for a long time in modern times, has ushered in a great leap from standing up, getting rich to becoming strong, and ushered in the bright prospect of realizing the great rejuvenation of the Chinese nation; 
+
+It means that scientific socialism has radiated strong vitality in China in the 21st century and held
 high the great banner of socialism with Chinese characteristics in the world; it means that the path,
 theory, system, and system of socialism with Chinese characteristics have been brought high. The
 continuous development of culture has expanded the way for developing countries to modernize,

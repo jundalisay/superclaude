@@ -2,7 +2,7 @@
 heading: "Alternative to the Nobel Prize"
 title: "The Super Prize"
 # date: 2022-01-03 ~~Relativity~~
-image: /photos/objects/king.jpg
+image: /photos/stuff/prize.jpg
 description: "We propose the Super Prize to as an Alternative to the Nobel Prize"
 writer:
   name: Juan
@@ -27,5 +27,5 @@ Unlike the Nobel Prize that gives money, the Superprize will give resources from
 This prize is modelled after the prize from the Select Society which encouraged innovations in Scotland. 
 
 
-{{< i s="/photos/objects/king.jpg" a="king" c="" >}}
+{{< i s="/photos/stuff/prize.jpg" a="king" c="" >}}
 

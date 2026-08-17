@@ -65,16 +65,15 @@ accelerate the promotion of market clearance, and release a large number of prec
 adopt effective measures to do a good job in stabilizing employment, finance, foreign trade, foreign
 investment, investment, and expectations, and maintain economic operation in a reasonable range.
 
-In the above seven aspects, the most important thing is to guard the bottom line of no systemic
-financial risks, and balance the relationship between stable growth and risk prevention. The central
-role of finance in the modern economy is reflected in the impact on economic development. Once a
-major financial risk occurs, it will cause economic losses to the relevant entities, affect the
-development of the real economy, and serious financial risks may even trigger economic crisis or
-even social crisis. Therefore, it is necessary to put the prevention and resolution of systemic financial
-risks in a more important position, effectively strengthen the party's centralized and unified
-leadership over financial work, further deepen the reform of the financial system, improve financial
-supervision, strengthen financial security capacity building, and resolutely guard the bottom line of
-not occurring systemic financial risks.
+In the above seven aspects, the most important thing is to:
+- guard the bottom line of no systemic financial risks
+- balance the relationship between stable growth and risk prevention
+
+The central role of finance in the modern economy is reflected in the impact on economic development. 
+
+Once a major financial risk occurs, it will cause economic losses to the relevant entities, affect the development of the real economy, and serious financial risks may even trigger economic crisis or even social crisis. 
+
+Therefore, it is necessary to put the prevention and resolution of systemic financial risks in a more important position, effectively strengthen the party's centralized and unified leadership over financial work, further deepen the reform of the financial system, improve financial supervision, strengthen financial security capacity building, and resolutely guard the bottom line of not occurring systemic financial risks.
 
 (2) Take the initiative to pre-adjust and fine-tune, strengthen policy coordination, and improve
 macro-control capabilities. Innovation and improvement of macro-control are objective

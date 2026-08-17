@@ -2,7 +2,6 @@
 title: "How to Fix Kant"
 # subtitle: "Decon Notation to Make Math Fun Again"
 date: 2020-09-21
-image: /covers/kant.jpg
 description : "To prove that Kant's system is useless, let's translate his definitions into ordinary English"
 writer:
   name: Juan
