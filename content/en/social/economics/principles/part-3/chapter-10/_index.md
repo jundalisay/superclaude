@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11"
+heading: "Chapter 10"
 title: Thinker Economic Systems
 linkTitle: Thinkers
 description: 

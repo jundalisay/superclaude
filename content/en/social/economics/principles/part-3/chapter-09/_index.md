@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 10"
+heading: "Chapter 9"
 title: "Solutions to Keep Balance"
 weight: 62
 image: /photos/stuff/scale.jpg

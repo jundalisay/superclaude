@@ -1,8 +1,8 @@
 ---
 heading: "Section 2"
-title: "Solutions to Underdemand"
+title: "Solutions to Undercapitalization"
 date: 2015-01-17
-weight: 4
+weight: 7
 image: /photos/social/leader.jpg
 description: ""
 writer:

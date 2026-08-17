@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "The Second Law of Value"
 # date: 2022-01-03
 # date: 2022-01-31
-image: "/graphics/econ/law2.png"
+image: "/graphics/econ/law2.jpg"
 description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or dharma."
 writer:
   name: Juan
@@ -27,7 +27,7 @@ We simplify this to: **value is created to remove the lack in society.**
 
 This also mirrors the First Law of Thermodynamics, known as the law of conservation of energy. It states that energy cannot be created nor destroyed but merely changes forms.
 
-{{< i s="/graphics/econ/law2.png" a="Second Law" >}}
+{{< i s="/graphics/econ/law2.jpg" a="Second Law" >}}
 
 > Value is created to remove the lack in society
 

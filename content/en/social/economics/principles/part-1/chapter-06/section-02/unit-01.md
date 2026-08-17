@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Grain Index"
 date: 2025-01-27
 weight: 3
-image: /photos/bio/lettuce.jpg
+image: /photos/grains.jpg
 description: "The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system"
 writer:
   name: Juan

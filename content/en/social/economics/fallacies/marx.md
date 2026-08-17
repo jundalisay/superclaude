@@ -12,18 +12,27 @@ toc: false
 
 
 
-Marxist Economics is explained in Das Kapital (1867) where Marx explains the nature of value, and in Critique of Political Economy (1859) where he explains the nature of money. 
+Marxist economics is explained in Das Kapital (1867), where Marx explores the nature of value, and in A Contribution to the Critique of Political Economy (1859), where he explains the nature of money.
 
-Both of these writings do not have the concept of **dharma** or the **invisible hand** which is essential in any long running prosperous economy.
+Both of these foundational texts lack the concept of **dharma** or the **invisible hand**—metaphysical anchors that are essential for any long-running, prosperous economic system.
+
 
 
 ## Fails at 3 of the 4 Laws of Value
 
-In our 4 Laws of Value model, Marxist Economics really operates on **one Law** which is the 1st Law:
+Supereconomics uses a 4 Laws of Value model which is based on the 4 Rules of Motion of Descartes' Physics which in turn is based on the 4 properties of waves:
+
+1. Exchangeable Value is based on Relational Desire
+2. Exchangeable Value is created to remove the lack in society (invisible hand law)
+3. There must be balance in the creation and spread of Exchangeable Value
+4. Exchangeable Value is transferred through fair exchange
+
+
+Marxist economics operates almost exclusively on **Law 1: Exchangeable Value is based on Relational Desire**.
 
 ![1st Law](/graphics/econ/law1.jpg)
 
-This is best seen in the quote:
+This focus is best summarized by the famous dictum:
 
 {{< q a="Karl Marx" c="Critique of the Gotha Program, Section 1" >}}
 From each according to his ability, to each according to his needs!
@@ -41,6 +50,15 @@ This is given by our equation:
 - Vi: The individual valuation of any identity in the chain.
 - Vu: The minimum societally-acceptable valuation
 - σ: step function where the output is 1 (valid) if Vi ≥ Vu, and 0 (invalid/null) if Vi < Vu.
+
+
+
+But this is based on Adam Smith, and not on Marx or any religion:
+
+
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1 Chapter 8" >}}
+No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable. It is but equity, besides, that they who feed, clothe, and lodge the whole body of the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, clothed, and lodged.
+{{< /q >}}
 
 
 Marx correctly views **demand** as the most important feature of an economic system. This is still consistent with current China's economic system where social needs are given highest regard. 
@@ -79,7 +97,7 @@ Marxism having only 1 law, compared to Capitalism having 2 laws, explains why:
 
 ## China's Reform
 
-China opened up to Capitalism and so upgraded to having laws 1, 2, and 4. 
+When China opened its market, it adopted aspects of capitalist mechanics, effectively upgrading its economic system to incorporate Laws 1, 2, and 4.
 
 Its recent spectacular rise came with Xi Jinping actually implementing Law 3 which is economic balance by actually regulating its tech stocks and controlling its currency and banking.
 
@@ -135,9 +153,9 @@ Capitalism also has no metaphysics and is also materialist.
 
 The difference is that Capitalism focuses on **money**, but Marxism focuses on **physical labor**. 
 
-Here, Capitalism has the edge because it allows metaphysical freedom (as expression of ideas, free association in groups) to get that money whereas Marxism does not. 
+Capitalism retains an operational advantage because it grants individuals the operational freedom of association, expression, and enterprise necessary to generate that money. These it had learned through the long period from Mercantilism (which trades commodities) and its modern version as Capitalism (which trades stocks).
 
-Marx flipped Hegel's metaphysics to make dialectical materialism that is devoid of consciousness and spirit -- the same spirit that drives innovation, hard work, and association. 
+But Marx was not a trader and so he never sensed the metaphysics behind gambling, trading, chance, and herd mentality. Instead of building on Hegel's metaphysics, he totally flipped it, stripping away mind and spirit, eliminating the internal driver of human innovation, organic association, and productivity.
 
 This is why Marxist countries are generally not as innovative, have less trade networks, have lower productivity than Capitalist countries. 
 
@@ -147,4 +165,10 @@ This is why Marxist countries are generally not as innovative, have less trade n
 Supereconomics, based on Adam Smith and David Hume, can replace both Capitalism and Communism by establishing the 4 Laws of Value. 
 
 This will create the rapid economic growth of Capitalism with the inclusive steady progress of Socialism. 
+
+China should give freedom to allow Law 2 and 4 to grow the economy. 
+
+The US, on the contrary, should stifle wild freedom by adopting Law 3, and individuality by adopting Law 1. 
+
+Correcting their mutual shortcomings will make the Chinese and American economic systems more compatible, leading to a better global economic integration without trade wars. 
 
