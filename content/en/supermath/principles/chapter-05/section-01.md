@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "Implementations of Supermath and Qualimath"
 date: 2026-01-06
-image: "/photos/social/contest.jpg"
+image: "/photos/objects/ufo.jpg"
 description: ""
 weight: 4
 ---
@@ -18,6 +18,9 @@ This will create 4 factors as:
 2. Frequency
 3. Energy or Volume
 4. Phasing
+
+
+{{< i s=""/photos/objects/ufo.jpg" a="UFO" c="Supermath and Qualimath are all created for aether tech" >}}
 
 
 **Qualimath** is for metaphysical tetras. Examples are:

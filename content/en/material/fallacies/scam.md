@@ -12,6 +12,7 @@ writer:
 icon: "Juan"
 aliases:
   /material/scam
+  /material/fallacies/simultaniety/
 ---
 
 

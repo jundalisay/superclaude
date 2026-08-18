@@ -1,7 +1,7 @@
 ---
 title: "The Fallacy of Marxist Economics"
 date: 2026-08-17
-image: /photos/medieval/marx.jpg
+image: /photos/people/marx.jpg
 description : "The ideas of Karl Marx are opposite that of Adam Smith despite both aiming for the good of society"
 writer:
   name: Juan

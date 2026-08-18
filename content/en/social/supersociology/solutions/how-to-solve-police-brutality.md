@@ -1,6 +1,6 @@
 ---
 title: "How to Solve Police Brutality"
-heading: "Filter trainees and train the police for fellow-feeling"
+# heading: "Filter trainees and train the police for fellow-feeling"
 date: 2020-06-09
 image: /photos/social/protests.jpg
 # image: "https://sorasystem.sirv.com/photos/protests.jpg"

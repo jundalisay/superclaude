@@ -1,6 +1,6 @@
 ---
+# heading: "An election system based on data science"
 title: "Confirmation Elections to Solve Divided Votes"
-heading: "An election system based on data science"
 date: 2021-08-18
 image: "/photos/social/handshake.jpg"
 description: "Confirmation Elections are Adam Smith's solution to votes being split in countries that have no primaries"

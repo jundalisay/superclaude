@@ -1,6 +1,6 @@
 ---
 title: "What are Learning Points?"
-heading: "A modular learning system"
+# heading: "A modular learning system"
 date: 2021-08-18
 image: /photos/econ/writer.jpg
 description: "Learning points allow modular learning to make education faster and more efficient. It works with ISAIAH Match"

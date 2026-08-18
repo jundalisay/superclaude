@@ -4,6 +4,6 @@ title: "Dynamics"
 date: 2026-01-20
 weight: 11
 description: ""
-image: "/photos/medieval/marx.jpg"
+image: "/photos/people/marx.jpg"
 ---
 

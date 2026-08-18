@@ -6,7 +6,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-image: /photos/medieval/marx.jpg
+image: /photos/people/marx.jpg
 # c: "firebrick"
 # a: "Karl Marx"
 ---
@@ -17,7 +17,7 @@ image: /photos/medieval/marx.jpg
 
 The common definition of socialism nowadays came from the 19th century from Marx who mixed up socialism with communism. It mixes up authoritarianism with socialism. Authoritarian + socialist is a contradiction like controlled + freedom.
 
-{{< i s="/photos/medieval/marx.jpg" a="Marx" >}}
+{{< i s="/photos/people/marx.jpg" a="Marx" >}}
 
 <!-- This is why the common definition refers to "civil rights of a person and the rule of law". -->
 

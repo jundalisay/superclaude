@@ -1,6 +1,6 @@
 ---
 title: "Dogmism: Breaking the Cycle of Extremism"
-heading: "Separating the idea from the person"
+# heading: "Separating the idea from the person"
 date: 2021-09-12 
 image: "/photos/psych/war.jpg"
 description: "We propose dogmism to break the Cycle of Extremism"

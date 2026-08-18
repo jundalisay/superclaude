@@ -67,7 +67,7 @@ The suppositions of astronomers are almost all false or uncertain.
 
 While walking at night without a torch through difficult places, you might use a stick to guide you. This lets you feel the various objects around you, distinguishing them as trees, stones, sand, water, grass, mud, etc. 
 
-{{< img src="/graphics/psych/blind.jpg" alt="Blind Man" >}}
+{{< img src="/photos/psych/blind.jpg" alt="Blind Man" >}}
 
 
 This kind of feeling is a little confused and obscure to those who are not used to it.

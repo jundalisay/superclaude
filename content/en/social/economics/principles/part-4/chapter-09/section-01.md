@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "Bilateral and Multilateral Clearing as the Solution to Under and Overtrading"
+title: "Multilateral Clearing"
 date: 2022-01-11
 weight: 3
 image: /photos/econ/barter.jpg
@@ -10,6 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
+
+<!-- Bilateral and  as the Solution to Under and Overtrading -->
 
 Clearing uses real value to solve:
 - undertrading by allowing real value to circulate 

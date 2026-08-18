@@ -2,7 +2,7 @@
 title: "Non-Traditional Spiritual Groups"
 heading: ""
 date: 2026-07-26
-image: "/photos/bio/lettuce.jpg"
+image: "/photos/meta/think.jpg"
 description: ""
 weight: 6
 ---

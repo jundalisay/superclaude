@@ -1,7 +1,7 @@
 ---
 title: "The Non-Need for Monoposony"
 # date: 2015-04-29
-image: /covers/marx.jpg
+image: /photos/people/marx.jpg
 description : "The ideas of Karl Marx are opposite that of Adam Smith despite both aiming for the good of society"
 writer:
   name: Juan
