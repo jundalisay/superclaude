@@ -2,7 +2,7 @@
 heading: Part 1
 title: "Charles Manson"
 description: ""
-c: "purple"
+c: "indigo"
 date: 2013-11-10
 icon: Bashar
 weight: 750
