@@ -20,7 +20,7 @@ This will create 4 factors as:
 4. Phasing
 
 
-{{< i s=""/photos/objects/ufo.jpg" a="UFO" c="Supermath and Qualimath are all created for aether tech" >}}
+{{< i s="/photos/objects/ufo.jpg" a="UFO" c="Supermath and Qualimath are all created for aether tech" >}}
 
 
 **Qualimath** is for metaphysical tetras. Examples are:
