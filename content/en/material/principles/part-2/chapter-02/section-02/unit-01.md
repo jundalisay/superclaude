@@ -80,11 +80,13 @@ We downgrade simultaneity of time as a convention. For example, modern culture e
 - a fully paid house by their 40s
 - retirement by their 60s
 
-These are just conventions.
+**These are just conventions.**
 
 The constant speed of light is disproven by quasars and pulsars (reverse vortices) having light that travels faster than c
 
-By pegging time to c, Einstein blocked out aethereal time and therefore the aethereal and spatial layers. 
+By pegging time to c, Einstein blocked out aethereal time and therefore the aethereal and spatial layers. This in turn, had prevented the discovery of anti-gravity and teleportation technologies which are already used by UFOs. The Einstien-fans then have to reject proofs of UFOs just to protect their own ignorance of how Nature works. 
+
+
 
 <!-- This is why we downgrade his 
 
