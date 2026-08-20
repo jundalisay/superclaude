@@ -48,6 +48,11 @@ Jesus' Cosmology Model can thus boost Kepler's advocacy to use star-data to pred
 
 The capacity of stars to affect physical reality is also evidenced by the Sassani who talk about the influence of the Orion star system on Earth starting 6,000 years ago that caused the ancient conflicts in the Middle East as well as modern Nazism.
 
+PR Sarkar on the other hand points the cause of Nazism and WWII as the Magha star which is Regulus. 
+
+We fix the discrepancy by hypothesizing that Regulus affected Orion which caused the Orion war. 
+
+
 <!-- , and by PR Sarkar who talked about Magha star causing the Nazi oppression and World War 2. And so logically, the Magha star is in the Orion system.  -->
 
 
