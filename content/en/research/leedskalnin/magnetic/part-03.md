@@ -28,9 +28,11 @@ Now you can see that one-half of the electricity escaped their notice.
 If the researchers had used the same kind of equipment I use to demonstrate what magnetic current is, they would have found out a long time ago what electricity is. 
 
 
-Positive electricity is composed of streams of north pole individual magnets.
+**Positive electricity** is composed of streams of north pole individual magnets.
 
-Negative electricity is composed of streams of south pole individual magnets. 
+**Negative electricity** is composed of streams of south pole individual magnets. 
+
+{{< n n="We call positive electricity as male charge, and negative electricity as female charge">}}
 
 They are running one stream of magnets against the other stream in whirling right hand twist, and with high speed.
    
@@ -90,13 +92,34 @@ To see finer things yet I look in a gray cloud with the eye open until I see a d
 
 The scene lasts about a minute and when it is gone then nobody can know when the next scene will come around.
    
-Matter: Every form of existence, whether it be rock tree or animal, has a beginning and an end, but the three things that all matter is constructed from has no beginning and no end. They are the North and South poles individual magnets, and the neutral particles of matter. These three different things are the construction blocks of everything. To begin, a meteor rock falls in the sun, the sun dissolves the rock to the final division of matter, the North and South pole individual magnets, and the sunlight then sends them out here. The vegetation absorbs some of the magnets and the sunlight, and then grows. We eat the vegetation products and build up our body, and then when we die and our body is cremated, the ashes can be made into a rock, and then the rock can be sent to the sun to be dissolved again. The North and South pole magnets can be detected while they are coming down from the sun by radio.  The radio waves are made by the North and South pole magnets. They spread around the earth, and the North and South pole. Magnets that are coming down from the sun are hitting the radio waves across, and so disturbing their paths. That is the reason why we cannot hear the radio as well in the day time as we do at night. At night time we only get those magnets that are coming down from other suns or stars, but in the day time we get them all.  Today, yesterday's sunlight is neutral particles of matter. If you had been high up above the earth yesterday there would not have been as much light there as there was on the ground. There you would have seen stars the same as at night time down here. In the empty space between the stars there is not much light, so the stars can be seen. Sunlight is light when it passes through some obstruction like the air, by going through an empty space it is not much of a light.
+Matter: Every form of existence, whether it be rock tree or animal, has a beginning and an end, but the three things that all matter is constructed from has no beginning and no end. 
+
+They are the North and South poles individual magnets, and the neutral particles of matter. These three different things are the construction blocks of everything. 
+
+To begin, a meteor rock falls in the sun, the sun dissolves the rock to the final division of matter, the North and South pole individual magnets, and the sunlight then sends them out here. The vegetation absorbs some of the magnets and the sunlight, and then grows. 
+
+We eat the vegetation products and build up our body, and then when we die and our body is cremated, the ashes can be made into a rock, and then the rock can be sent to the sun to be dissolved again. The North and South pole magnets can be detected while they are coming down from the sun by radio.  
+
+The radio waves are made by the North and South pole magnets. They spread around the earth, and the North and South pole. Magnets that are coming down from the sun are hitting the radio waves across, and so disturbing their paths. 
+
+That is the reason why we cannot hear the radio as well in the day time as we do at night. At night time we only get those magnets that are coming down from other suns or stars, but in the day time we get them all.  Today, yesterday's sunlight is neutral particles of matter. If you had been high up above the earth yesterday there would not have been as much light there as there was on the ground. There you would have seen stars the same as at night time down here. 
+
+In the empty space between the stars there is not much light, so the stars can be seen. Sunlight is light when it passes through some obstruction like the air, by going through an empty space it is not much of a light.
+
 
 ## ELECTRONS
 
-Millions of people all over the world are being fooled by the non-existing electrons. Here is how the electrons came into existence. Thomson invented an imaginary baby and called it an electron. Rutherford adopted it and now the men with the long hair are nursing it. The electron has a brother and its name is proton, but it is heavy and lazy. It remains stationary in the middle, but the electron has to run around it. To the electrical engineers the positive electricity is everything, the negative electricity is nothing, but to the physicists the negative electricity is everything, and the positive electricity is nothing. Looking from a neutral standpoint they cancel each other, so we have no electricity, but we have something. If we do not know how to handle the thing that comes through a wire from a generator or a battery, we will get badly shocked.  Read the booklet "Magnetic Current" then you will know what the thing is, and the way it runs through a wire.
+Millions of people all over the world are being fooled by the non-existing electrons. Here is how the electrons came into existence. 
+
+Thomson invented an imaginary baby and called it an electron. Rutherford adopted it and now the men with the long hair are nursing it. The electron has a brother and its name is proton, but it is heavy and lazy. 
+
+It remains stationary in the middle, but the electron has to run around it. To the electrical engineers the positive electricity is everything, the negative electricity is nothing, but to the physicists the negative electricity is everything, and the positive electricity is nothing. Looking from a neutral standpoint they cancel each other, so we have no electricity, but we have something. 
+
+If we do not know how to handle the thing that comes through a wire from a generator or a battery, we will get badly shocked.  Read the booklet "Magnetic Current" then you will know what the thing is, and the way it runs through a wire.
    
-The invention of an electron came by a tricky method in using electricity in a vacuum tube. Normally whether it be a generator or a battery, the positive terminal will have to be connected to the negative terminal, but in the vacuum tube two batteries with different strength were used, the smaller battery was connected normally, but the larger battery's negative terminal was connected to the smaller battery's negative terminal, and the positive terminal was left alone. That connection gave the negative terminal a double dose of strength, and so it became hotter and could push more. It was called cathode and the positive terminal anode, and the electricity that passed from the cathode to the anode was called electrons.
+The invention of an electron came by a tricky method in using electricity in a vacuum tube. Normally whether it be a generator or a battery, the positive terminal will have to be connected to the negative terminal, but in the vacuum tube two batteries with different strength were used, the smaller battery was connected normally, but the larger battery's negative terminal was connected to the smaller battery's negative terminal, and the positive terminal was left alone. 
+
+That connection gave the negative terminal a double dose of strength, and so it became hotter and could push more. It was called cathode and the positive terminal anode, and the electricity that passed from the cathode to the anode was called electrons.
    
 In case the inventor had used normally direct methods to find out what the electricity was he would have found out that the positive and negative electricity is in equal strength, and are running positive electricity against the negative electricity. That can be seen by connecting each of two pieces of soft iron wire with each terminal of a car battery and then by putting together and pulling away each loose end of the soft iron wire. More sparks can be seen coming out of the positive terminal than from the negative terminal. This direct method is more reliable than the tricky method in the vacuum tube. The trouble with the physicists is they use indirect and ultra-indirect methods to come to their conclusions.
  

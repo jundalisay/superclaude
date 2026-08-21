@@ -11,6 +11,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /superphysics/principles/chapter-07/section-04/unit-08/
 ---
 
 

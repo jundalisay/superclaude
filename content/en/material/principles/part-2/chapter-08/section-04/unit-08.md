@@ -47,10 +47,15 @@ This is called microlensing by Modern Physics.
 
 Descartes explained that comet tails and antitails are the effect of gravitational lensing within a solar system. 
 
-{{< q a="Rene Descates" c="Principia Philosophia, Part 3, Article 136" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 136" >}}
 <!-- The curved rays coming from H and from all the other places between G and H toward 4. It is also evident that if the Earth is toward 2, we should see the comet by means of the straight rays CE2, and its mane by means of all the curved rays passing between lines CE2 and CD2 converging toward 2. The only difference is that  -->
 When the Earth is toward 2, this comet will appear in the morning with its tail seeming to precede it.
 {{< /q >}}
+
+
+People didn't know that Descartes was referring to INTERSTELLAR comets and not Intrastellar ones, whereas Newtons' comets are all intrastellar. 
+
+This is why the dynamics Comet 3I/ATLAS cannot be explained by Newtonian Physics but are fully explainable by Descartes' Physics.
 
 
 <!-- 2025 Comet 3I/ATLAS -->

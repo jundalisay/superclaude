@@ -18,15 +18,15 @@ Points-Banking is the main feature of our proposed points-based economic system.
 
 The system works on barter-credits which are claims to the goods and services offered by others. Unlike barter which requires immediate fulfillment of an exchange, barter-credits does not force an immediate fulfillment.
 
-For example, in a **barter transaction**, John gives 1 kilo of potatoes, valued at $1, for a sandwich, also valued at $1, offered by Martha. This requires the potato and sandwich to be available at the same time.   
+For example, in a **barter transaction**, John gives 1 kilo of potatoes, valued at 1 USD, for a sandwich, also valued at 1 USD, offered by Martha. This requires the potato and sandwich to be **available at the same time**.   
 
 In a **barter-credit transaction**, John gives the potatoes even if Martha doesn't have the sandwich ready on that day. In effect, the potatoes are on credit, and the Martha has a debt payable in sandwiches.
 
 To mitigate inflation and the time-value of money, the value is pegged to 1 kilogram of grain, such as rice or wheat. 
 
-In this case, if 1 kilogram of wheat is $1, then Martha owes whatever is the value of 1 kilogram of rice **at the time she makes the payment**. If Martha decides to pay 1 month from now when rice is up to $1.10 per kilogram, then she owes $1.10 worth of sandwiches instead of $1. 
+In this case, if 1 kilogram of wheat is 1 USD, then Martha owes whatever is the value of 1 kilogram of rice **at the time she makes the payment**. If Martha decides to pay 1 month from now when rice is up to 1.10 USD per kilogram, then she owes 1.10 USD worth of sandwiches instead of 1 USD. 
 
-The advantage of this is that she can pay whenever she wants as long as it is acceptable to John. If she decides to pay 20 years from now, when rice is $2 a kilogram, then she will give $2 worth of sandiwiches.    
+The advantage of this is that she can pay whenever she wants as long as it is acceptable to John. If she decides to pay 20 years from now, when rice is 2 USD a kilogram, then she will give 2 USD worth of sandiwiches.    
 
 
 {{< youtube ZErxZt4V2t4 >}}
@@ -75,27 +75,27 @@ It will let the family will pay you in points {{< c v="green" >}}which you can o
 
 ### The Advantages of Points-based Barter-Credits
 
-As you can see, the advantages of points are:
+As you can see, there are advantages of using points:
 
-1. A Vent for Excess Productivity
+**1. A Vent for Excess Productivity**
 
 Martha might be an excellent sandwich maker able to make a lot of sandwiches that she needs to dispose of. By getting sandwiches instead of cash, John helps her get rid of her inventory while saving precious cash.  
 
 <!-- That family might have a core competency not available in the market. For example, one parent might work for Apple and get free devices or have discounts on devices. The deal might be for you to babysit in exchange for an iPhone at a cheaper rate than that offered in the market.  -->
 
-2. Inflation-Resistance
+**2. Inflation-Resistance**
 
-The points themselves do not suffer as much from inflation nor bear interest cost or revenue. 
+The points themselves do not suffer as much from inflation nor bear interest cost or revenue. This is because grains are more stable than oil or currencies. 
 
 <!-- This frees the family from having to pay interest for their promise to pay.  -->
 
-3. Immediate Need
+**3. Immediate Need**
 
 Martha might need the potatoes for her restaurant right away, but has no cash available and might find financing expensive. A points system lets her get the potatoes quickly without needing such expensive financing.
 
 <!-- might have an immediate need for something that the family has to offer. For example, they might be farmers and you might need food immediately. Doing a direct trade for babysitting for food saves the family from needing to have cash to avail of babysitting.  -->
 
-4. Lack of Temptation to Steal
+**4. Lack of Temptation to Steal**
 
 Points constitute a bilateral agreement and cannot be stolen by others. This is different from a money-object which is physical in nature and can be stolen or lost.  
 
@@ -108,14 +108,33 @@ Receiving food regularly in exchange for babysitting services will free you from
 - The points represent something subjective, such as an iPhone or babysitting. There less temptation to steal the points. If someone steals my points for the iPhone, then the family can merely report it at their leisure. This is different from the financial system where frauds must be reported immediately before the thieves spend the stolen money
 - The family might not have money in the first place, but have goods to offer. Without the points system, the babysitter job opening would not happen. Having the points system thus allows employment opportunities where there were none.   -->
 
-5. Long Term Debt
+**5. Long Term Debt**
 
 The value of the points are pegged to grains. This allows the debt to stretch for the lifetime of either party and is naturally extinguished after death. 
 
 
-6. Low Cost
+**6. Low Cost**
 
-Fancy paper bills are not needed to facilitate the tranasaction. It can be done offline with simple paper cards or a mobile app.  
+Fancy paper bills are not needed to facilitate the tranasaction. It can be done offline with simple paper cards or a mobile app.  Even without these, the parties can just have a verbal agreement since the main mechanism needed is aethereal trust instead of anything physical or material. 
+
+
+### The Disadvantages
+
+We have been using and promoting this system since 2017. We have found a few disadvantages.
+
+**1. It requires high level morality**
+
+The money system works without morality but cannot work without money. You can use your coins to get drinks from a vending machine operating without any morals. 
+
+The points system on the other hand works without money but cannot work without morality. So it needs moral imposition. This means the people cannot be liberal as they have to be bound by common interest. This is why Socrates was against democracy, and why it worked in the Inca empire which was not democratic. 
+
+
+**2. The users need to be trained to use it**
+
+This is the biggest challenge and is why our system is currently very limited in size as we are doing other things. 
+
+
+
 
 
 ## Points Banking for Multilateral Barter Credits (Points Transfer)
