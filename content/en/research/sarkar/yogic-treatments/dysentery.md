@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "Dysentery happens when undigested half-cooked or uncooked food fails to get digested and come out as loose movement"
 image: "/photos/med/dys.jpg"
 icon: "PR Sarkar"
+tags: ['Dysentery', '', '']
 ---
 
 

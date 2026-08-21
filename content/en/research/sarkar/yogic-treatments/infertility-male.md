@@ -4,7 +4,9 @@ weight: 42
 description: "In most cases, if not all, impotency is a disease of the intemperate"
 image: "/photos/med/sperm.jpg"
 icon: "PR Sarkar"
+tags: ['Impotency', 'Infertility']
 ---
+
 
 
 ## Symptoms for Impotency and Infertility
@@ -127,3 +129,4 @@ Impotency and infertility are diseases of over-indulgence. One should keep contr
 
 Drink this amount every day early in the morning. Generally this will cure impotency within 2 or 3 weeks.
 {{< /box >}}
+

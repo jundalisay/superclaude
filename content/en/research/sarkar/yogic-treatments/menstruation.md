@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "In a healthy woman the menstrual discharge is usually about 1/4 seer. If for any reason the quantity is less than normal, it is called hypomenorrhoea"
 image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
+tags: ['Abnormal Menstruation']
 ---
 
 

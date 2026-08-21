@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity"
 image: "/photos/med/run.jpg"
 icon: "PR Sarkar"
+tags: ['fasting', 'sunbathing', 'mud packs']
 ---
 
 
@@ -90,7 +91,8 @@ Pure, fresh air has the power to cure diseases. It is advisable to breathe in as
 
 If the body does not work up a sufficient sweat, then you should know that you have not taken the air properly.
 
-> *Superphysics note= Breathing sea-air is good for iodine intake to avoid goiter or gland swelling
+{{< n n="Breathing sea-air is good for iodine intake to avoid goiter or gland swelling" >}}
+
 
 
 ## Fasting
@@ -99,6 +101,8 @@ During fasting the body’s organs get a good rest, and the healing process is m
 Only persons in very good health and with good energy should fast without water. Persons suffering from gall or kidney-stones should never undertake a waterless fast. 
 
 Sick persons and people in mediocre health should observe fasting taking plenty of lemon juice and water. Persons who are very weak may take a small quantity of fruit and milk. Persons who, for whatever reason, do not fast on Ekádashii, Púrńimá and Amávasyá should at least abstain from taking rice, fried vegetables, pulses and non-vegetarian food on those days. They should also take just a little milk, fruit and dry things on the evenings of Púrńimá and Amávasyá.
+
+
 
 ## Mental Purity
 

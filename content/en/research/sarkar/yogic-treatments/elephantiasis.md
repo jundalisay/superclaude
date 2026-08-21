@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "This is the swelling of the legs, sometimes it attacks the arms too. The legs will grow to resemble those of elephants"
 image: "/photos/med/elephantiasis.jpg"
 icon: "PR Sarkar"
+tags: ['Elephantiasis', '', '']
 ---
 
 

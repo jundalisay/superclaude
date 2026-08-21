@@ -4,7 +4,7 @@ title: "Grain Index"
 date: 2025-01-27
 weight: 3
 image: /photos/grains.jpg
-description: "The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system"
+description: "The grain index is replaces monetary valuation to impose relationality of the 1st law, implement the 3rd law, and keep the 4th law of value"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

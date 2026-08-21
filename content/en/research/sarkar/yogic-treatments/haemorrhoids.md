@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
 image: "/photos/med/hem.jpg"
 icon: "PR Sarkar"
+tags: ['Hemorrhoids', 'Piles']
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Other Sources"
 linkTitle: "Others"
 description: "Dialectics analyzes the totality of knowledge. This is why we scrape the ideas from fringe philosophies like New Age, aliens, enlightened dead people, etc"
-c: "violet"
+c: "indigo"
 weight: 150
 a: "Bashar"
 y: "Non-human"

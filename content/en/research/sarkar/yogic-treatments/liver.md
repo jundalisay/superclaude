@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: ""
 image: "/photos/med/hepa.jpg"
 icon: "PR Sarkar"
+tags: ['liver']
 ---
 
 ### Cough due to liver trouble

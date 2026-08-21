@@ -6,6 +6,7 @@ author: "PR Sarkar"
 description: "During intercourse or a wet dream, spermatozoa are emitted in the semen. If the semen cannot find an outlet, or if its flow is unnaturally obstructed, then the semen decomposes in the storage sacks"
 image: "/photos/med/hydro.jpg"
 icon: "PR Sarkar"
+tags: ['Hydrocele']
 ---
 
 

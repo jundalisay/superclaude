@@ -5,8 +5,8 @@ author: "PR Sarkar"
 description: "The uterus lies in a suspended position supported by a few ligaments behind the navel region."
 image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
+tags: ['Displaced Uterus']
 ---
-
 
 
 ## Symptoms of Displaced Uterus
@@ -71,3 +71,4 @@ The loss of these important glands:
 - often makes the woman go mad. 
 
 So as soon as a woman realizes that she has a displaced uterus, she should be especially careful to avoid constipation and to see that her urination remains normal.
+

@@ -4,6 +4,7 @@ weight: 60
 description: "Rheumatism patients should drink a sufficient quantity of water (say four to five seers a day, but not much at a time), and should also observe the bathing and sun-bathing procedures"
 image: "/photos/med/rheuma.jpg"
 icon: "PR Sarkar"
+tags: ['Rheumatism']
 ---
 
 

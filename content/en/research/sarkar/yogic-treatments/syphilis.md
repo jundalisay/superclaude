@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "When the disease erupts in a body which has already been suffering from vitiation of the pitta, it is called 'pitta syphilis'"
 image: "/photos/med/syph.jpg"
 icon: "PR Sarkar"
+tags: ['Syphilis']
 ---
 
 

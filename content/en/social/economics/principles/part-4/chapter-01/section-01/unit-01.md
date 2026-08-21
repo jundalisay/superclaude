@@ -55,9 +55,9 @@ Exchange exists in both Economics and Supereconomics. The latter, however, allow
 
 ## Market Price
 
-In our cake example, Mr. Chef baked a cake at $2 real price and exchanged it into $4 by selling it. 
+In our cake example, Mr. Chef baked a cake at 2 USD real price and exchanged it into 4 USD by selling it. 
 
-The $4 is called the **market price** which is the actual price that the item is exchanged. Unlike the nominal price that might vary from customer to customer, the market price is applied to all customers. 
+The 4 USD is called the **market price** which is the actual price that the item is exchanged. Unlike the nominal price that might vary from customer to customer, the market price is applied to all customers. It represents a societal exchangeable value.
 
 {{< img src="/graphics/econ/law4th.jpg" alt="Fourth Law Definition" cap="Economics does not have a concept of real price and so bubbles form in economic systems. Moreover,  uses the difference  does not limit arbitrage with real prices, and so there is nothing stopping bubbles from forming" >}}
 
@@ -92,7 +92,9 @@ The Fourth Law spreads that value through *secondary arbtirage* or the differenc
 
 For example, if only a few people in your society wanted guitar songs, and most wanted piano songs instead, then you would rather sell your guitar songs to another society that valued it. You would not try to shift to making piano songs, which is not your core competency. 
 
-We can say in a sense that primary arbitrage is wholesale while secondary arbitrage is retail. 
+We can say that:
+- primary arbitrage is wholesale
+- secondary arbitrage is retail
 
 
 ## The Resulting Concepts from the Fourth Law

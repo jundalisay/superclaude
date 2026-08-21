@@ -4,6 +4,7 @@ weight: 46
 description: "The Sanskrit word Kustha means skin disease. But leprosy is Batarakta Roga, not kustha."
 image: "/photos/med/leprosy.jpg"
 icon: "PR Sarkar"
+tags: ['Leprosy']
 ---
 
 

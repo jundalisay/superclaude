@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "If a woman suffers from anaemia for whatever reason, the organs of the body become incapable of supplying an adequate amount of blood to the uterus"
 image: "/photos/med/leucorrhea.jpg"
 icon: "PR Sarkar"
+tags: ['Leucoderma', 'white leprosy']
 ---
 
 

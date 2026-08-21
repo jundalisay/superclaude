@@ -6,6 +6,7 @@ author: "PR Sarkar"
 description: "Due to this excessive acidity, the blood becomes acid-dominated. This overworks the blood-purifying organs"
 image: "/photos/med/heartburn.jpg"
 icon: "PR Sarkar"
+tags: ['acidity', 'Dyspepsia', 'heartburn', 'Gastritis']
 ---
 
 

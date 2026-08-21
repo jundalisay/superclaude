@@ -1,11 +1,12 @@
 ---
 title: "Article 1 Sections 1-6"
-
 weight: 1
 image: "/flags/us.png"
 description: "All legislative Powers are with the US Congress, consisting of a Senate a House of Representatives"
 icon: /flags/us.png
 ---
+
+We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
 
 ## Article 1

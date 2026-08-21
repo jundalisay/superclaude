@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "If due to high blood pressure or some other cause any portion of the brain’s nervous system becomes damaged, the part of the body controlled by that portion of the nervous system also becomes inoperative. This inoperativeness of a particular part of the body is called paralysis or palsy"
 image: "/photos/med/rheuma2.jpg"
 icon: "PR Sarkar"
+tags: ['paralysis']
 ---
 
 

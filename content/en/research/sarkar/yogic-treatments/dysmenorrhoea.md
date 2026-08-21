@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
 image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
+tags: ['Dysmenorrhoea', '', '']
 ---
 
 
@@ -17,7 +18,7 @@ icon: "PR Sarkar"
 
 ![Woman in Pain](/photos/med/toilet.jpg)
 
-## Causes
+### Causes
 
 Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease. 
 

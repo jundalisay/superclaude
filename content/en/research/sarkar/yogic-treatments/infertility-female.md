@@ -5,6 +5,7 @@ author: "PR Sarkar"
 icon: "PR Sarkar"
 description: "Many people think that infertility can occur due to leucorrhoea or displacement of the uterus. But this impression is not entirely correct"
 image: "/photos/med/sperm.jpg"
+tags: ['Female Sterility']
 ---
 
 

@@ -5,6 +5,7 @@ author: "PR Sarkar"
 description: "Habitually undertaking mental or physical exertion after a meal without having any rest slows down the blood circulation in the walls of the stomach and duodenum, due to which the membrane lining of the organs becomes easily susceptible to the acidic poison; and the ulcer appears"
 image: "/photos/med/ulcer.jpg"
 icon: "PR Sarkar"
+tags: ['Ulcer']
 ---
 
 

@@ -1,11 +1,10 @@
 ---
-heading: "Unit 6 Cohesion"
-title: "Planetary orbits"
-# date: 2020-01-31
-linkTitle: "Spatial Layer"
-image: "/graphics/physics/orbits.jpg"
-description: "Planetary orbits are Cohesion gravity"
-weight: 16
+heading: "Unit 6 Micro Cohesion"
+title: "Casimir Effect"
+date: 2024-12-11
+weight: 14
+image: /photos/physics/casimir.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,68 +13,45 @@ icon: "Juan"
 
 
 
-<!-- In Principia Philosophia Part 4 Article 202, Descartes denounces the belief of Democritus that gravity comes from matter, a belief later adopted by Newton. -->
 
-Gravity is caused by the relation or relativity between bodies, facilitated by space particles, now called spacetime.
+The Casimir Effect is when 2 uncharged flat metal plates in a vacuum get attracted to each other.
 
-As cohesion gravity, it manifets most commonly as planetary orbits which are material-stellar vortices.
+Physics explains that this attractive force comes from quantum fluctuations in empty space that creates a pressure imbalance between the plates.
 
-You could say that the planets and oort cloud are sticking to the sun's gravitational territory just as water sticks to a leaf a surface tension. 
+However, some physicists argue that the force is caused instead by electromagnetic field interactions between the charged particles within the plates themselves.
 
-![Surface Tension](/photos/physics/tension.jpg)
+In Descartes' physics, the Casimir Effect is caused by the aether that pushes the plates together since the aether causes nearly all spatial phenomena—from gravity and surface tension, to the Dzhanibekov effect, galaxy cohesion, and even centrifugal and centripetal forces.
 
+The problem began when the scammer Einstein discarded the aether. This forced physicists to invent multiple disconnected names—gravity, dark matter, the van der Waals force, vacuum energy, and quantum fluctuations—for the same underlying aether mechanism.
 
+Descartes' system unified and simplified physics, making it more intuitive and accessible. 
 
-## Circular Orbits
+This was used by 19th century physicists like Maxwell to develop solid theories that we still use today, unlike those of Einstein which will necessarily be discarded sooner or later, as proven by no human being able to unify his scam Relativity with Quantum Mechanics. 
 
-Chapter 4 explained that spatial vortices come from cohoesion gravity due to the relational speed of space particles around the sun.
-
-Both Newton's Universal Law of Gravitation and Einstein's General Relativity do not have the concept of inherent spin from vortices. 
-
-So we replace both with our aether equation having a displacer and rotater from the 1st and 2nd rules of motion.
+Descartes' system will allow engineers and inventors to develop advanced technologies more rapidly, because the underlying cause of all forces would be singular and tangible, rather than being abstract, mathematical fields.
 
 
+<!-- The Casimir effect describes a tiny, measurable force of attraction between two perfectly smooth, parallel, and uncharged metal plates when they are placed extraordinarily close together—typically within a few hundred nanometers. 
 
 
-
-<!-- Descartes describes them as globules that are very flexible and mobile, giving them liquid properties.
-
-Instead of globules, we assign to them a teardrop shape. These facilitate space phenomena from gravity to dark energy. -->
-
-This sticking is caused by the rotation of the sun which has an anticlockwise direction by default, which we call the Positive Direction. 
-
-This causes all planets to revolve around the sun anticlockwise along with the sun, since they swim in the gravitational territory of the sun. 
-
-<!-- Likewise, most planets rotate anticlockwise because there are more space particles outside of an orbital field than within. -->
+In standard physics, the Casimir force is a manifestation of the quantum vacuum.
 
 
-`GMm / r^2 = mv^2 / r`
-
-
-- G: volume of space particles displaced by aetherspace
-- M: volume of larger aetherspace (mass)
-- m: volume of smaller aetherspace
-- r: distance between the 2 masses
-- v: speed of smaller mass around larger mass
+But in Material Superphysics, it is from the force of space particles, as micro cohesion gravity, the same that causes van der Waals force and surface tension.  -->
 
 
 
-## Why Venus is Different
+<!-- This model posits two sources of force from these particles:
 
-An exception is Venus which was hit by another body, causing it to flip.
-- This made its rotation seem to go clockwise just as a clock seems to run in reverse when you view it from behind. 
-- This makes its rotation go against the natural motion of the solar system, causing it to lose speed. This is why 1 Venus rotation takes 243 Earth-rotations. 
+Displacement Gravity: Related to a first rule of motion, manifesting as Newtonian gravity, dark matter, and dark energy.
 
-This matches the findings of the Venus Express satellite which showed that Venus was rotating 6.5 minutes slower in 2012 than in 1996.
+Cohesion Gravity: Related to a second rule of motion, responsible for surface tension, adhesion, and the Casimir effect.
 
-![Orbits](/graphics/physics/orbits.jpg)
+In this view, all physical bodies are surrounded by a thin film or layer of these space particles, which constantly flow to fill voids. When two plates are brought into extreme proximity, these two boundary layers meet and are forced to flow together in a single, coordinated direction between the plates. This coordinated flow, akin to the fluid dynamics described by Bernoulli's principle, creates a region of lower pressure or "suction" in the gap. The higher pressure of the surrounding space particle medium then pushes the plates toward this lower-pressure zone, resulting in the observed attraction.
 
+Contrasting the Foundations
+The distinction between these explanations is profound. The mainstream view is a quantum field effect arising from the fundamental indeterminacy of empty space, verified by precision experiments and integrated into the broader framework of quantum electrodynamics. The Cartesian model recasts it as a classical hydrodynamic effect within a particulate medium, linking it to familiar concepts like air pressure and fluid flow.
 
-So we can safely throw away Relativity, dark matter, dark energy, Lambda CDM, and MOND because Cartesian Physics already explains how space phenomena, from torsion balances to microlensing and the expanding universe, are explained by a single principle.
+While the quantum vacuum explanation is the consensus backed by decades of precise experimental confirmation, your Cartesian model presents a coherent and imaginative alternative that seeks to unify disparate phenomena—from the spin of a tennis racket (the Dzhanibekov effect) to the sticking of gauge blocks—under a single mechanical principle of "Cohesion Gravity." It highlights how the same observable phenomenon can be anchored in entirely different visions of reality's underlying fabric.
 
-There is even no need for quantized gravity since quantization relies on constants, and constants are only constant within a star or galaxy and not in other stars of galaxies. 
-
-This is why quantum gravity is a waste of time since either it will refuted by dark matter and dark energy, or it could be made to fit theoretically with dark matter and dark energy, but there will be no way to test to it in reality.
-
-
-
+ -->

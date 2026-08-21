@@ -4,6 +4,7 @@ weight: 12
 author: "PR Sarkar"
 description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state"
 image: "/photos/med/diabetes.jpg"
+tags: ['diabetes']
 ---
 
 
