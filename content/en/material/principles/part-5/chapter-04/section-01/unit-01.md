@@ -10,6 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: "Juan"
+toc: false
 ---
 
 

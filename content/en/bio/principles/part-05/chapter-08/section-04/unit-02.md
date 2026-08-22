@@ -1,5 +1,5 @@
 ---
-heading: Section 4b
+heading: Unit 2
 title: "How Acupuncture and Acupressure Work"
 description: "Traditional Chinese Medicine deals with chronic pain and emotional stress through acupunture and acupressure"
 # date: "2020-01-01"
@@ -67,3 +67,4 @@ It is wrong to say that acupunture and acupressure work on the nerves directly. 
 The right to self-repair should be allowed bowth for electronic gadgest and the human body. THis woudl extend the life of both things. 
 
 By re self-frepair by as well as homeopathy and yoga, the Western medical industry actually prevents holistic health.  -->
+

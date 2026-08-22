@@ -64,7 +64,7 @@ Likewise, the heat applied on a ice has no force at all.
 
 
 
-## Frequency Insted of Energy-Quanta
+## Frequency Instead of Energy-Quanta
 
 We assign the cause of the photo electric effect to frequency instead of energy or quantazation.
 

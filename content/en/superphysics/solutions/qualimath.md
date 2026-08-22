@@ -48,10 +48,19 @@ Then the identity of the second state is successively doubled until it matches t
 
 Combining the two states leads to the final state as the answer.  
 
-States are essential to Descartes' (Cartesian) Physics because his 1st Rule defines inertia as state-continuity, and movmement as state-change.  
+States are essential to Descartes' (Cartesian) Physics because his 4th Rule of Motion defines inertia as **state-continuity**, and movement as **state-change**.  
 
-Moreover, Cartesian Physics is based on the aether which moves instantly and not in a sequential manner.  
+Moreover, Cartesian Physics is based on the aether which moves instantly or arbitrarily and not in a sequential manner.  
+- This is used by advanced aliens to facilitate teleportation of their UFOs by state change **within** the aether
 
-This is why calculus is irrelevant to it, but is so important to Newtonian Physics which is based on sequential material movement, instead of aethereal state-change.  
+This is why calculus is:
+- irrelevant to Qualimath which is based on state 
+- so important to Newtonian Physics which is based on sequential material movement, instead of aethereal state-change.  
 
 With Qualimath, we can now provide aethereal empirical evidence of Cartesian Physics to augment the material evidence of Newtonian Physics in order to complete the explanation of Reality and how it is generated in real-time as a never ending chain of state-change.
+
+
+### Update August 2026
+
+We use spin through tetras to facilitate state-change. 
+
