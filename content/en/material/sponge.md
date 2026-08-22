@@ -14,7 +14,7 @@ Modern Physics usually visualizes the expanding universe as a dotted balloon tha
 
 However, this is not totally correct since it shows that the dots themselves expand. But galaxies and stars do not expand with the expansion of space.
 
-We fix this by changing the analogy to a sponge that expands when filled with water. This creates a web structure that matches observations. 
+We fix this by changing the analogy to a **sponge** that expands when filled with water. This creates a web structure that matches observations. 
 
 {{< i s="/graphics/physics/balloon.jpg" a="Balloon" >}}
 
@@ -41,11 +41,18 @@ Instead of a cosmic web, it would be better to call the universe as a cosmic spo
 {{< i s="/graphics/physics/sponge2.jpg" a="Sponge" c="The visualization of NASA of the cosmic web matches Descartes' sponge" >}}
 
 
-Another sponge structure is the brain which also has these 2 spaces: the normal space for the nerves, and chi or vayu for organic aetherspace. Instead of chi, Descartes uses the words "animal spirits" which came from the Greeks.
+Another sponge structure is the brain which also has these 2 spaces: 
+
+1. The normal space for the nerves
+2. Chi or vayu for organic aetherspace
+
+Instead of chi, Descartes uses the word "animal spirits" which came from the Greeks.
 
 In this way, Physics and Biology use the same principles, making it easier to understand how Nature works. 
 
-This is still consistent with Newton's Physics where Newton assigned the cause of gravity to Spirit which is the same mechanism for the nerves. This is why we are fundamentally against Einstein, but not fundamentally against Newton, since his "Spirit" can be easily equated to Descartes' aether or Substance, or the "chi" of Taoist Physics.
+This is still consistent with Newton's Physics where Newton assigned the cause of gravity to **Spirit** which is the same mechanism for the nerves. 
+
+This is why we are fundamentally against Einstein, but not fundamentally against Newton, since his "Spirit" can be easily equated to Descartes' aether or Substance, or the "chi" of Taoist Physics.
 
 
 {{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
@@ -70,18 +77,29 @@ For example, the sponge pattern in the cosmos is explained by acoustic oscillati
 
 It follows that the complexity of brain is caused by a lot of idea-objects bubbling in the aetherspace of the creature's brain. This then leads to more neural connections, and is why cognitive stimulation is encouraged during brain development.
 
+
 This means that a cognitive stimulation with high variety is better than a focused one, just as a large multicolored galaxy cluster is more attractive than a small one with bright galaxies.
 
+
+## The Expansion of the Universe is Subjective
+
 Moreover, this means that the expansion of the mind leads to the expansion of the universe since the mind and universe are both made of the same aether substance:
-- When humans were cavemen, the universe was just a flat Earth with a revolving firmament
-- When humans circled the world, the universe extended a little beyond Saturn (the stars were thought to be near Saturn)
-- When humans invented large telescopes, the universe started to constantly expand 
-- When humans invented space telescopes, the universe started to variably expand 
+- When humans were cavemen, the universe was just a **fixed** flat Earth with a revolving firmament
+- When humans circled the world, the universe **extended** a little beyond Saturn (the stars were thought to be near Saturn)
+- When humans invented large telescopes, the universe started to **constantly expand **
+- When humans invented space telescopes, the universe started to **variably expand** 
 
 So the increase in cognition leads to the increase in idea-objects which "expands" the universe. 
-- The increase in cognition depends on the DESIRE to increase cognition i.e. to know more
+- The increase in cognition depends on the **DESIRE** to increase cognition i.e. to know more
 - This is consistent with Lamarck's evolution theory being based on desire, instead of chance as in Darwin's Theory
 
+The intimate connection between True Physics and True Biology is why Descartes shifted to Biology after explaining how the physical universe works. 
+
+In contrast, Newton and Einstein did not venture into Biology. 
+- Newton went towards finance and Biblical predictions with zero or little impact
+- Einstein went towards politics with zero impact
+
+This is very different from Descartes' animal spirits which have been carried by Keynes into Economics. 
 
 Hopefully, the mountain of evidence for Cartesian Physics will expose the utter stupidity of Einstein's scam Relativity that is keeping humans stuck on a burning Earth.
 
