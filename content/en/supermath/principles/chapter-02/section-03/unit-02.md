@@ -1,5 +1,5 @@
 ---
-heading: "Section 4"
+heading: "Unit 2"
 title: "The Periodic Table of Elements as Qualitative Instances"
 date: 2025-03-18
 image: "/graphics/physics/pentagonic.jpg"
@@ -48,6 +48,3 @@ This gives a quality for each material number:
 6. Versatile
 7. Abundant
 8. Life-giving
-
-
-

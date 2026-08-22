@@ -4,7 +4,7 @@ title: "Geometries"
 date: 2025-03-18
 image: "/photos/physics/lab.jpg"
 description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
-weight: 11
+weight: 14
 draft: true
 # was chapter 2b
 ---

@@ -1,6 +1,6 @@
 ---
-heading: "Section 6"
-title: "Fractals"
+heading: "Unit 5"
+title: "Fractals as Dynamic Geometric Tetras"
 date: 2025-11-06
 image: "/photos/objects/fractal.jpg"
 description: ""
@@ -52,3 +52,4 @@ We use fractals which are repeating patterns within these shapes to show the dyn
 
 
  -->
+

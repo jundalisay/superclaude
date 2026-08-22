@@ -1,5 +1,5 @@
 ---
-heading: "Section 5"
+heading: "Unit 3"
 title: "Dynamic Vortex (Complex) Numbers"
 date: 2026-04-13
 image: "/graphics/super/vortex.jpg"

@@ -35,6 +35,9 @@ Communist systems let a single party hold power indefinitely and so reforms ofte
 
 Instead of holding elections every 4 years, elections for top positions will be held annually through 'confirmation elections' in which the people just have to vote 'yes' or 'no' on whether their current leaders should remain in power.  
 
+{{< youtube uxHkdzv6f5A >}}
+
+
 For example, a country has:
 - 1 president
 - 1 vice-president
