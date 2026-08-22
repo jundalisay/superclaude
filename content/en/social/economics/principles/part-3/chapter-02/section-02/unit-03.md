@@ -19,12 +19,12 @@ Earlier, we explained Flow Taxation which is based on dividing the tax equally a
 We implement it through [Pointtax](https://pantrypoints.com/services/tax) is a taxation system that is based on points which represent barter-credits pegged to the value of grains such as rice.
 
 
-For example, John, an apple farmer,  purchases 1 cake slice from Martha worth $2. Assuming 1 kilo of rice is $1, then John owes Martha 2 points. 
+For example, John, an apple farmer,  purchases 1 cake slice from Martha worth 2 USD. Assuming 1 kilo of rice is 1 USD, then John owes Martha 2 points. 
 
 
 {{< img src="/photos/buy.jpg" alt="Buying apples" cap="Buyers will have a choice to pay in money or in kind and therefore pay tax in money or in kind" >}}
 
-Assume 1 kilo of apples is $4 or 4 points, and Martha accepts apples as payment. 
+Assume 1 kilo of apples is 4 USD or 4 points, and Martha accepts apples as payment. 
 - It follows that John can give 500 grams of apples to Martha to clear his debt. 
 
 Assume that the sales tax 10%. 
