@@ -6,9 +6,24 @@ enableRobotsTXT = true
 summarylength = 30
 
 [pagination]
-  pagerSize = 12
+  pagerSize = 32
   
+[build]
+  noChmod = true
+  noTimes = true
+  enableRobotsTXT = true
+  writeStats = false
 
+[permalinks]
+  # This prevents pagination URLs from being generated for taxonomies
+  tags = "/tags/:slug/"
+  categories = "/categories/:slug/"
+
+[module]
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'  # Single source, single output
+    
 
 [markup]
   [markup.tableOfContents]
@@ -293,32 +308,32 @@ defaultContentLanguageInSubdir = false
       { key = "help", url = "/help" }
     ]
 
-  [languages.hi]
-    languageName = "हिन्दी"
-    weight = 6
-    contentDir = "content/hi"
-    [languages.hi.params]
-      rtl = false
-  [[languages.hi.params.nav_groups]]
-    title = "Sciences"
-    items = [
-      { key = "superphysics", url = "/superphysics" },
-      { key = "supermath", url = "/supermath" },
-      { key = "material", url = "/material" },
-      { key = "bio", url = "/bio" },
-      { key = "spiritual", url = "/spiritual" },
-      { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" },
-      { key = "History", url = "/social/history/" }
-    ]
-  [[languages.hi.params.nav_groups]]
-    title = "About"
-    items = [
-      { key = "news", url = "/news" },
-      { key = "about", url = "/about" },
-      { key = "faqs", url = "/faqs" },
-      { key = "help", url = "/help" }
-    ]
+  # [languages.hi]
+  #   languageName = "हिन्दी"
+  #   weight = 6
+  #   contentDir = "content/hi"
+  #   [languages.hi.params]
+  #     rtl = false
+  # [[languages.hi.params.nav_groups]]
+  #   title = "Sciences"
+  #   items = [
+  #     { key = "superphysics", url = "/superphysics" },
+  #     { key = "supermath", url = "/supermath" },
+  #     { key = "material", url = "/material" },
+  #     { key = "bio", url = "/bio" },
+  #     { key = "spiritual", url = "/spiritual" },
+  #     { key = "society", url = "/social/supersociology" },
+  #     { key = "economics", url = "/social/economics" },
+  #     { key = "History", url = "/social/history/" }
+  #   ]
+  # [[languages.hi.params.nav_groups]]
+  #   title = "About"
+  #   items = [
+  #     { key = "news", url = "/news" },
+  #     { key = "about", url = "/about" },
+  #     { key = "faqs", url = "/faqs" },
+  #     { key = "help", url = "/help" }
+  #   ]
 
 
 [params]
