@@ -36,9 +36,9 @@ Light Beings | More advanced than Sassani
 Blue men | Compassionate race of energy beings 
 
 
-### The Oneta
+### The Onatayu
 
-The Oneta (Onetatayu) are explorers that act like explorer-gardeners. 
+The Onatayu are explorers that act like explorer-gardeners. 
 
 They have a long range observation program.
 

@@ -1,9 +1,10 @@
 ---
 heading: "Chapter 4"
-title: "Government"
-date: 2020-01-02
-weight: 13
-image: /photos/social/judge.jpg
+title: "Language"
+date: 2026-08-19
+weight: 8
+image: /photos/psych/consult.jpg
 description: ""
 ---
+
 
