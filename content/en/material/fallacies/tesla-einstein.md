@@ -110,7 +110,13 @@ It is true that Tesla's promises are possible.
 
 This is why his experiments failed. 
 
-The proper way of making his global transmission system work is to detect the 2nd Element around the Earth that will actually facilitate the energy transmission, then unify with it by matching its frequency i.e. it needs the unity of the 2nd, 1st, and 5th Elements. 
+In our aether tech-stack, anti-gravity is discovered first before free energy or long range wireless transmission. This is because matter has lower density and is easier to densify than virtual photons that are already high density. 
+- Free energy has really the same mechanism as long range wireless transmission
+
+{{< i s="/graphics/physics/stack.jpg" a="Tech stack" c="Anti gravity (as prelevitation) is naturally discovered first before free energy" >}}
+
+
+The proper way of making his global transmission system work is to detect the high density 2nd Element around the Earth that will actually facilitate the energy transmission, then unify with it by matching its frequency or density i.e. it needs the unity of the 2nd, 1st, and 5th Elements. 
 
 
 {{< i s="/graphics/physics/unify.jpg" a="2nd Element" c="The energy has to match the space" >}}
