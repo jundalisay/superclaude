@@ -5,6 +5,8 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 summarylength = 30
 
+disableLanguages = ["zh", "fr", "es", "ar", "hi"]
+
 [pagination]
   pagerSize = 32
   
