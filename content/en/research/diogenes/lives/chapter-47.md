@@ -6,7 +6,7 @@ date: 2025-08-21
 weight: 92
 description: "LIFE OF Leucippus"
 c: "darkslategray"
-tags: ['Stoic']
+tags: ['Stoics']
 ---
 
 

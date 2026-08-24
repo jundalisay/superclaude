@@ -5,8 +5,6 @@ date: 2025-03-08
 image: "/photos/objects/potatoes.jpg"
 description: "Groupings add a dimension or layer to instances"
 weight: 8
-aliases:
-  /superphysics/principles/chapter-08k/
 ---
  
 

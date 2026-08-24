@@ -9,9 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 26
 icon: "Supereconomics"
-aliases:
-  /social/economics/principles/part-4/chapter-07e
-#   /social/economics/solutions/modern-economic-table/
 ---
 
 

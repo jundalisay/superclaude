@@ -10,8 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 weight: 14
-aliases:
-  /social/economics/principles/part-4/chapter-01b
 ---
 
 

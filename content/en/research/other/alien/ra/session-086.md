@@ -6,7 +6,7 @@ c: "indigo"
 weight: 241
 image: /covers/ra.jpg
 date: 1981-01-24
-tags: ['dream']
+tags: ['dreams']
 ---
 
 

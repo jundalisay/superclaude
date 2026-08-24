@@ -5,8 +5,6 @@ weight: 3
 date: 2018-06-03
 description : "Donations are the revenue of the Thinker Class"
 image: /photos/econ/singer.jpg
-aliases:
-  /social/economics/principles/part-3/chapter-02c
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
