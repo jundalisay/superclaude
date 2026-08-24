@@ -11,7 +11,6 @@ weight: 6
 icon: "Juan"
 aliases:
   /signature
-  /material/principles/gravsigs/
 ---
 
 

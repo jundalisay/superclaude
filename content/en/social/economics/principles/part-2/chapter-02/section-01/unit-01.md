@@ -8,8 +8,6 @@ description: "In Supereconomics, capital is anything that creates value"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /social/economics/principles/part-2/chapter-02b/
 ---
 
 

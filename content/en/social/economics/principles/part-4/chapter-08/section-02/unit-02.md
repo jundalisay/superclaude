@@ -10,8 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 toc: false
-aliases:
-  /social/economics/principles/part-4/chapter-09b
 ---
 
 

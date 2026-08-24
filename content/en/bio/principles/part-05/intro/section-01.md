@@ -8,9 +8,6 @@ date: 2024-07-08
 weight: 2
 image: "/photos/meta/chakras.jpg"
 icon: "Bio Superphysics"
-aliases:
-  /medical/principles/chapter-01/
-  /bio/principles/chapter-01
 ---
 
 

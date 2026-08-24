@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
-aliases:
-  /superphysics/principles/chapter-10/section-04/unit-05/
 ---
 
 

@@ -9,8 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: "Superphysics"
-aliases:
-  /material/principles/intro/chapter-01b/
 ---
 
 

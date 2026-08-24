@@ -10,8 +10,6 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /material/principles/part-2/chapter-06b  
 ---
 
 

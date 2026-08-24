@@ -8,8 +8,6 @@ weight: 19
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vmagnet.jpg
 icon: "Juan"
-aliases:
-  /material/principles/part-3/chapter-03d
 ---
 
 

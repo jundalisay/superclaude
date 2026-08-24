@@ -11,9 +11,6 @@ math: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# Abstract Reality
-aliases:
-  /superphysics/principles/chapter-08e
 ---
 
 

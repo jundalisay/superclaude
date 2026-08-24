@@ -7,8 +7,6 @@ date: 2020-01-25
 weight: 5
 image: "/photos/bio/lettuce.jpg"
 icon: "Bio Superphysics"
-aliases:
-  /bio/principles/chapter-02
 ---
 
 

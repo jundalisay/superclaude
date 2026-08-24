@@ -9,9 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
-aliases:
-  /social/economics/import-substitution-vs-export-promotion
-  /social/economics/principles/part-4/chapter-09/chapter-09b/
 ---
 
 

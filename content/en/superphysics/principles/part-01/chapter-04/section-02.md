@@ -9,9 +9,6 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /superphysics/principles/chapter-01c
-  /superphysics/principles/chapter-01/section-02b  
 ---
 
 

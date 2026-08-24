@@ -2,9 +2,9 @@
 title: "Civil Rights"
 heading: "Chapter 2"
 weight: 6
-image: "/flags/jp.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
+sicon: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
 description: "Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation"
-icon: "/flags/jp.png"
 ---
 
 

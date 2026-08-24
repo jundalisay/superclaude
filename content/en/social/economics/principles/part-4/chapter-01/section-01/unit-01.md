@@ -12,8 +12,6 @@ writer:
 icon: "Juan"
 weight: 5
 toc: false
-aliases:
-  /social/economics/principles/part-4/chapter-01/unit-02/
 ---
 
 

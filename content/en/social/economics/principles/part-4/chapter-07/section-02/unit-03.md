@@ -11,8 +11,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "/icons/pantry.png"
-aliases:
-  /social/economics/principles/part-3/chapter-08a
 ---
 
 

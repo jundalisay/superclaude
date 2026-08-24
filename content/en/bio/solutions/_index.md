@@ -8,8 +8,5 @@ linkTitle: "Solutions"
 image: /photos/ok.jpg
 # date: 2020-10-30
 featured: true
-aliases:
-  /medical/solutions
-  /medical/physical/solutions/
 ---
 

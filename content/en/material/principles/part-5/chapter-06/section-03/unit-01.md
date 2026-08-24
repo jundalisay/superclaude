@@ -10,8 +10,6 @@ writer:
 weight: 5
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/part-5/chapter-06/section-03b/
 ---
 
 

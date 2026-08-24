@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
-aliases:
-  /bio/principles/part-02/chapter-05/section-01b
 ---
 
 

@@ -11,8 +11,6 @@ writer:
 weight: 4
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/intro/chapter-07/chapter-07
 ---
 
 

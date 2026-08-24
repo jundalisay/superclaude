@@ -10,8 +10,6 @@ description : "China's century of humiliation came from the Song Dynasty"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay 
-aliases:  
-  /social/cycles/china-ancient
 ---
 
 

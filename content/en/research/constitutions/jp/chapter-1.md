@@ -2,9 +2,9 @@
 title: "The Emperor"
 heading: "Article 1"
 weight: 4
-image: "/flags/jp.png"
 description: "The Emperor shall be the symbol of the State and of the unity of the People"
-icon: "/flags/jp.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
+sicon: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
 ---
 
 <!-- THE CONSTITUTION OF JAPAN Promulgated on November 3, 1946 Came into effect on May 3, 1947  -->

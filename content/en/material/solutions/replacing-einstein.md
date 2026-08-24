@@ -10,8 +10,6 @@ writer:
 icon: "/icons/spmat.png"
 toc: false
 weight: 10
-aliases:
-  /material/solutions/replacing-einstein
 ---
 
 

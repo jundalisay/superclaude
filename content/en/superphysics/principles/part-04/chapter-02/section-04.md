@@ -11,8 +11,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-02d
 ---
 
 

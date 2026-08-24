@@ -3,7 +3,7 @@ title: "Japan (Wo)"
 heading: "Chapter 45"
 weight: 56
 description: "The country of Wo is northeast of Canton. It is currently called Ji-pon, meaning a country near where the sun rises."
-image: "/flags/jp.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
 writer:
   name: Chau Ju Kua
   url: https://en.wikipedia.org/wiki/Zhao_Rukuo

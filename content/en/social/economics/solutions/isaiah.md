@@ -7,8 +7,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
-aliases:
-  /superphysics/solutions/isaiah/
 ---
 
 

@@ -10,8 +10,6 @@ writer:
 weight: 4
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/part-1/chapter-01b/
 ---
 
 

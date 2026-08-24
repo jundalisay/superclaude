@@ -10,8 +10,6 @@ toc: false
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /superphysics/principles/chapter-05b
 ---
 
 

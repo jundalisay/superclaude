@@ -7,8 +7,6 @@ weight: 4
 image: /graphics/physics/vortex.jpg
 description: "Black holes are stellar vortices. Supermassive black holes are galactic vortices"
 icon: Juan
-aliases:
-  /material/principles/part-2/chapter-04d/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

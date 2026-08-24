@@ -1,4 +1,4 @@
-{{ $a := .Get "a" | default "" }}
+<!-- {{ $a := .Get "a" | default "" }}
 {{ $imgName := printf "/icons/%s.jpg" $a }}
 
 <div class="reveal-on-scroll fly-in-left flex justify-start items-start gap-3 px-2 py-4 relative"
@@ -24,3 +24,94 @@
     </div>
   </div>
 </div>
+ -->
+
+
+{{ $a := .Get "a" | default "User" }}
+{{ $c := .Get "c" | default "" }}
+{{ $v := .Get "v" | default "" }}
+{{ $size := .Get "size" | default "12" }}
+
+{{/* Generate initials for fallback */}}
+{{ $initials := "" }}
+{{ range split $a " " }}
+  {{ if ge (len .) 1 }}
+    {{ $initials = printf "%s%s" $initials (substr . 0 1) }}
+  {{ end }}
+{{ end }}
+
+{{/* Define color map for consistent avatar colors */}}
+{{ $colorMap := dict 
+  "Socrates" "#4A90D9"
+  "Plato" "#8E44AD"
+  "Aristotle" "#D35400"
+  "Francis Bacon" "#8B4513"
+  "Rene Descartes" "#2C3E50"
+  "George Berkeley" "#2E86C1"
+  "Adam Smith" "#27AE60"
+  "David Hume" "#F39C12"
+  "John Locke" "#1A5276"
+  "Immanuel Kant" "#C0392B"
+  "Friedrich Nietzsche" "#2980B9"
+  "Bertrand Russell" "#27AE60"
+  "Ludwig Wittgenstein" "#7D3C98"
+  "Karl Marx" "#E74C3C"
+  "Max Weber" "#D4AC0D"
+  "Emile Durkheim" "#1ABC9C"
+  "Sigmund Freud" "#5D6D7E"
+  "Carl Jung" "#6C3483"
+  "Buddha" "#F1C40F"
+  "Confucius" "#B7950B"
+  "Lao Tzu" "#2ECC71"
+}}
+{{ $bgColor := index $colorMap $a | default "#4A90D9" }}
+
+<div class="reveal-on-scroll fly-in-left flex justify-start items-start gap-3 px-2 py-4 relative"
+     data-animate="show">
+     
+  <div class="flex-shrink-0">
+    {{ if $v }}
+      {{/* Use SVG if provided - wrap in a properly sized container */}}
+      <div class="w-{{ $size }} h-{{ $size }} rounded-full shadow-lg border-2 overflow-hidden flex items-center justify-center bg-white">
+        <div class="w-full h-full scale-125">
+          {{ $v | safeHTML }}
+        </div>
+      </div>
+    {{ else }}
+      {{/* Try JPG image first, fallback to SVG initials */}}
+      {{ $imgName := printf "/icons/%s.jpg" $a }}
+      <img class="w-{{ $size }} h-{{ $size }} rounded-full shadow-lg border-2 object-cover" 
+           src="{{ $imgName }}" alt="{{ $a }}" 
+           onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+      
+      {{/* Fallback SVG initials */}}
+      <svg class="w-{{ $size }} h-{{ $size }} rounded-full shadow-lg border-2 hidden" 
+           viewBox="0 0 100 100" 
+           style="background: {{ $bgColor }};">
+        <text x="50" y="58" 
+              text-anchor="middle" 
+              font-family="Arial, sans-serif" 
+              font-size="40" 
+              font-weight="bold" 
+              fill="white">
+          {{ $initials | upper }}
+        </text>
+      </svg>
+    {{ end }}
+  </div>
+
+  <div class="flex flex-col items-start max-w-[95%] md:max-w-[80%]">
+    <div class="flex items-center mb-1">
+      <span class="text-xs font-semibold text-gray-600 dark:text-gray-400 ml-1">
+        {{ $a }} {{ with $c }}— {{ . }}{{ end }}
+      </span>
+    </div>
+
+    <div class="border border-gray-400 p-4 shadow-md rounded-2xl rounded-tl-none text-left">
+      <div class="prose-sm dark:prose-invert">
+        {{ .Inner | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+

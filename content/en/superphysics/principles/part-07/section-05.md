@@ -8,8 +8,6 @@ description: "Relationality is based on Descartes' Relativity"
 icon: "Juan"
 aliases:
   /relationality
-  /material/principles/universal-relativity/
-  /superphysics/principles/chapter-06e  
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

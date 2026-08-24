@@ -11,8 +11,6 @@ riter:
 weight: 34
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/part-4/chapter-09
 ---
 
 

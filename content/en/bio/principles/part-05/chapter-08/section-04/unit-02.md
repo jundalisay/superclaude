@@ -8,8 +8,6 @@ weight: 11
 image: "/photos/bio/acu.jpg"
 tags: ["Acupuncture, Acupressure"]
 icon: "Bio Superphysics"
-aliases:
-  /bio/principles/part-05/chapter-03c
 ---
 
 

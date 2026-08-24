@@ -10,8 +10,6 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /material/solutions/how-to-fix-general-relativity
 ---
 
 

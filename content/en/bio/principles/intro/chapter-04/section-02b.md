@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Bio Superphysics"
-aliases:
-  /medical/principles/chapter-02c
 ---
 
 

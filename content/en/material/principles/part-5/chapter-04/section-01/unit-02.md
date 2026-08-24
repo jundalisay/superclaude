@@ -11,8 +11,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/part-5/chapter-04/section-01b
 ---
 
 

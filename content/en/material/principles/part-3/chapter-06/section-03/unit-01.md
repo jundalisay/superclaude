@@ -12,7 +12,6 @@ icon: "Juan"
 toc: false
 aliases:
   /charges
-  /material/charges
 ---
 
 

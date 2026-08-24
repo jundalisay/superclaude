@@ -12,7 +12,6 @@ writer:
 icon: "Juan"
 aliases:
   /motion
-  /superphysics/principles/chapter-01f
 ---
 
 

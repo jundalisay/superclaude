@@ -10,8 +10,6 @@ writer:
 weight: 34
 draft: true
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-06g
 ---
 
 

@@ -6,9 +6,6 @@ image: "/graphics/physics/comets.jpg"
 description: "Here we explain how comets can lead to climate change"
 weight: 7
 icon: "Juan"
-aliases:
-  /material/principles/part-2/chapter-08b
-# linked to public
 ---
 
 

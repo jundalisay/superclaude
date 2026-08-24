@@ -9,9 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 8
 icon: "Juan"
-aliases:
-  /material/principles/part-1/chapter-05d
-# was 5d
 ---
 
 

@@ -5,6 +5,7 @@
 {{- $hasImage := .Params.image -}}
 {{- $heading := .Params.heading -}}
 {{- $iconName := .Params.icon -}}
+{{- $sicon := .Params.sicon -}}
 {{- $showDate := .Params.showdate -}}
 {{- $description := .Description -}}
 
@@ -86,7 +87,11 @@
                 {{ end }}
                 <div class="flex flex-wrap items-center gap-y-4 gap-x-6 pt-8 border-t border-white/10 text-sm text-slate-300">
                     <div class="flex items-center gap-2">
-                        {{ if $iconName }}
+                        {{ if $sicon }}
+                        <div class="w-6 h-6 rounded-full ring-1 ring-white/20 overflow-hidden bg-white">
+                            {{ $sicon | safeHTML }}
+                        </div>
+                        {{ else if $iconName }}
                         <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
                         {{ end }}
                         {{- $displayName := .Params.writer.name | default $iconName | default .Params.author -}}
@@ -333,4 +338,3 @@ details[open] .details-arrow { transform: rotate(180deg); }
     </ul>
     {{ end }}
 {{ end }}
-

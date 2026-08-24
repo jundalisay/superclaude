@@ -7,8 +7,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 6
-aliases:
-  /research/social/unity-constitution/part-03/
 ---
 
 

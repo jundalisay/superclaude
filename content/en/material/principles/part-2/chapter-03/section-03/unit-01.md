@@ -10,8 +10,6 @@ tags: [ "dark energy" ]
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /material/principles/part-2/chapter-07c
 ---
 
 

@@ -7,8 +7,6 @@ weight: 9
 description: ""
 image: /photos/physics/rainbow.jpg
 icon: "Juan"
-aliases:
-  /material/principles/part-3/chapter-04b
 ---
 
 

@@ -10,8 +10,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
-aliases:
-  /superphysics/principles/chapter-11d
 ---
 
 

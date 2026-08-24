@@ -10,8 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 6
 toc: false
-aliases:
-  /social/supersociology/principles/collective-wave-of-desire/
 ---
 
 

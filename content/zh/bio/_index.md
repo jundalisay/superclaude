@@ -6,7 +6,5 @@ youtube: yhD-Kb_bRBY
 image: /graphics/bio.jpg
 date: 2020-10-31
 featured: true
-aliases:
-  /medical
 ---
 

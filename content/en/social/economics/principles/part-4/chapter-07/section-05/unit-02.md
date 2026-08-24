@@ -11,10 +11,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 toc: false
-aliases:
-  /social/economics/principles/part-4/chapter-07c/
 ---
-
 
 
 To maximize profits, business-systems pool money together in order to create the equity that makes up the firms and corporations. Such organizations then create, buy, and sell real goods and services via secondary arbitrage*.

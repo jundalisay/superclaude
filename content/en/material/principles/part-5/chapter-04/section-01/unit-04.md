@@ -11,8 +11,6 @@ writer:
 weight: 12
 icon: Juan
 toc: false
-aliases:
-  /material/principles/part-5/chapter-04c
 ---
 
 

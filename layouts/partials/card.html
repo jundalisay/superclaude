@@ -1,5 +1,6 @@
 {{- $page := . -}}
 {{- $hasImage := .Params.image -}}
+{{- $hasSvg := .Params.s -}}
 {{- $color := .Params.c | default "darkslategray" -}}
 {{- $showDate := .Params.showdate -}}
 {{- $heading := .Params.heading -}}
@@ -11,7 +12,7 @@
 {{- $hasElectrons := .Params.e -}}
 
 <article class="card-reveal rounded-2xl overflow-hidden group cursor-pointer h-full hover:shadow-2xl hover:-translate-y-2 transition-all duration-500
-  {{ if $hasImage }}relative{{ else }}flex flex-col bg-sp-card border border-sp-border {{ end }} ">
+  {{ if or $hasImage $hasSvg }}relative{{ else }}flex flex-col bg-sp-card border border-sp-border {{ end }} ">
   <a href="{{ .RelPermalink }}" class="block h-full">
 
   {{/* ── IMAGE CARD ── */}}
@@ -44,6 +45,41 @@
 
 <style>
   /* Hide scrollbar for Chrome, Safari and Opera */
+  .absolute.left-0.right-0.p-4::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
+  {{/* ── SVG BACKGROUND CARD ── */}}
+  {{ else if $hasSvg }}
+<div class="relative w-full aspect-[4/3] group-hover:scale-105 ease-out overflow-hidden bg-slate-900">
+  <div class="w-full h-full flex items-center justify-center bg-white">
+    {{ .Params.s | safeHTML }}
+  </div>
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+  
+  {{ if $heading }}
+  <div class="absolute top-3 left-3 z-10">
+    <span class="text-sm font-display font-semibold px-2.5 py-1 rounded-full bg-black text-white backdrop-blur-sm">{{ $heading }}</span>
+  </div>
+  {{ end }}
+  
+  <div class="absolute left-0 right-0 p-4 transition-all duration-300" 
+       style="bottom: 0; max-height: calc(100% - 2rem); overflow-y: auto; scrollbar-width: none; -ms-overflow-style: none;">
+    <div class="bg-black/80 backdrop-blur-sm -mx-4 px-4 py-3 rounded-t-lg">
+      <h2 class="text-white text-xl md:text-2xl font-display font-semibold leading-tight line-clamp-4">
+        {{ .Title }}
+      </h2>
+    </div>
+    {{ if and $showDate .Date }}
+      <time class="text-xs text-white/60 mt-2 block px-1" datetime="{{ .Date.Format "2006-01-02" }}">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </time>
+    {{ end }}
+  </div>
+</div>
+
+<style>
   .absolute.left-0.right-0.p-4::-webkit-scrollbar {
     display: none;
   }

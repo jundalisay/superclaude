@@ -11,8 +11,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Bio Superphysics"
-aliases:
-  /bio/principles/intro/chapter-02b
 ---
 
 

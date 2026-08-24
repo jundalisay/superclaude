@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
-aliases:
-  /medical/principles/chapter-04/
 ---
 
 

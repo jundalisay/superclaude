@@ -10,8 +10,6 @@ description: The Supereconomic Healthcare Policy is to implement the 5 Paradigms
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /social/economics/principles/part-3/chapter-05f/
 ---
 
 

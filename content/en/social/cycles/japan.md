@@ -1,9 +1,9 @@
 ---
-title: "How to fix Japan: Why Abenomics and Keynesian Economics Failed"
+title: "How to fix Japan"
 linkTitle: Japan
-heading: "The Way of Structural Reform"
+# heading: "The Way of Structural Reform"
 date: 2020-09-23
-image: "/flags/jp.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>"
 description : "The failure of Abenomics is due to Keynesian Economics which is flawed to begin with"
 writer:
   name: Juan
@@ -19,9 +19,10 @@ Current Cycle | Years per Day | Current Week | Current Month | Current Year
 ? | ? | ? | ? | ?
 
 
-{{< i s="/flags/jp.png" a="Japan Flag" >}}
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='40' fill='#fff'/><circle cx='30' cy='20' r='12' fill='#BC002D'/></svg>
 
 
+## Why Abenomics and Keynesian Economics Failed
 
 Japan has been suffering from chronic deflation since 1991 after the bursting of their asset price bubble. 
 

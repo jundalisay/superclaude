@@ -11,8 +11,6 @@ writer:
 icon: "Juan"
 featured: true
 aliases:
-  /material/fallacies/simultaneity
-  /material/fallacies/superluminal  
   /lightspeed
 ---
 

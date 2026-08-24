@@ -9,9 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 6
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-08l
-  /superphysics/principles/chapter-08/section-13
 ---
 
 

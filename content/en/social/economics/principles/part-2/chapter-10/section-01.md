@@ -1,14 +1,11 @@
 ---
 heading: "Section 1"
 title: "The Warrior Economy"
-# linkTitle: Law 1
 description: 
 image: /photos/medieval/spartan.jpg
 date: 2026-05-11
 weight: 6
 toc: false
-aliases:
-  /social/economics/principles/part-2/chapter-11b/
 ---
 
 

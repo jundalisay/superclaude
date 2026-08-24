@@ -10,10 +10,8 @@ writer:
 weight: 20
 icon: "Juan"
 aliases:
-  /material/principles/part-1/chapter-04b
-  /material/principles/part-1/chapter-04/section-02b/
+  /sponge
 ---
-
 
 
 Material Superphysics is based on the Aether, from Descartes' Physics (or Empedocles, or Vedic philosophy of India).

@@ -9,8 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"  
-aliases:
-  /social/economics/principles/intro/chapter-06
 ---
 
 

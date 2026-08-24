@@ -11,7 +11,6 @@ writer:
 icon: "Juan"
 aliases:
   /dialectics
-  /superphysics/principles/chapter-10
 ---
 
 

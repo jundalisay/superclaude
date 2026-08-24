@@ -47,8 +47,6 @@ disableLanguages = ["fr", "es", "ar", "hi"]
 
 # Using a single $ for inline math can sometimes accidentally trigger e.g. $10.00). you can remove ['$', '$'] from the inline delimiters and exclusively use \\( ... \\) for your inline math.
 
-
-
 [sitemap]
   changeFreq = "weekly"  # Changed from changefreq to changeFreq
   priority = 0.5

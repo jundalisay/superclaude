@@ -10,8 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 tags: ['Elementals', 'gaia']
-aliases:
-  /superphysics/principles/chapter-07d
 ---
 
 

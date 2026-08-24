@@ -6,8 +6,6 @@ date: 2025-11-11
 weight: 40
 image: /photos/econ/rider.jpg
 description: "The resources in a society are distributed by the logistics industry or system"
-aliases:
-  /social/economics/principles/part-1/chapter-05b/
 icon: Juan
 writer:
   name: Juan

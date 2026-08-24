@@ -10,9 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 aliases:
-  /dsit
   /dcit
-  /social/economics/principles/dcti
 ---
 
 

@@ -12,8 +12,8 @@ writer:
 toc: false
 aliases:
   /effort-theory
-  /social/economics/principles/part-2/chapter-01c
 ---
+
 
 
 <!-- According to Adam Smith, this is wrong because the pleasure that we get from objects is impermanent. It is part of the deception of Nature (which in Eastern Philosophy is called Maya).

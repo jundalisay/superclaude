@@ -9,9 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 2
 icon: "Juan"
-aliases:
-  /material/principles/qos
-# was 3
 ---
 
 

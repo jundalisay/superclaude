@@ -6,9 +6,6 @@ date: 2024-07-07
 weight: 27
 image: "/graphics/bio/war.jpg"
 icon: "Bio Superphysics"
-aliases:
-  /bio/principles/part-05/chapter-04b/
-# was bio/principles/chapter6b
 ---
 
 

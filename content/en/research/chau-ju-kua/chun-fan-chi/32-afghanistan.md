@@ -3,12 +3,11 @@ title: "Afghanistan"
 heading: "Chapter 32-33"
 weight: 40
 description: "Ghazni is reached from Malopa in 120 stages. It is in the northwest and is exceptionally cold. The winter's snow does not melt until the spring."
-image: "/flags/af.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='13.33' fill='#000'/><rect y='13.33' width='60' height='13.33' fill='#D32011'/><rect y='26.66' width='60' height='13.33' fill='#007A36'/><rect x='20' y='10' width='20' height='20' fill='#fff'/><path d='M30 12l2 4 4-1-3 3 2 4-4-2-4 2 2-4-3-3 4 1z' fill='#000'/></svg>"
 writer:
   name: Chau Ju Kua
   url: https://en.wikipedia.org/wiki/Zhao_Rukuo
 ---
-
 
 
 ## 32. Ghazni (Kitzini)

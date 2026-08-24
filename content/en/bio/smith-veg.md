@@ -11,8 +11,6 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 icon: "Lam"
-aliases:
-  /medical/smith-veg/
 ---
 
 

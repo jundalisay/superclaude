@@ -9,8 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 featured: true
-aliases:
-  /fallacies/economics/inelastic-supply-curve
 ---
 
 

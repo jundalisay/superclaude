@@ -12,8 +12,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 tags: ["Homeopathy"]
 icon: "Bio Superphysics"
-aliases:
-  /bio/principles/chapter-03b
 ---
 
 

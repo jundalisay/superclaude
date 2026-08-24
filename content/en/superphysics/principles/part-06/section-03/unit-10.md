@@ -10,12 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 30
 icon: "Juan"
-aliases:
-  /superphysics/principles/chapter-08h
-  /superphysics/fallacies/red-herring/
 ---
-
-
 
 
 **Qualimath** can be applied both to quantitative and qualitative mental processes or operations of thinking. 

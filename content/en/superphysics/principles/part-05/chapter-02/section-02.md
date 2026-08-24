@@ -11,9 +11,8 @@ tags: ['ideas']
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /superphysics/principles/chapter-05c
 ---
+
 
 
 {{< i s="/graphics/psych/know.jpg" a="Knowledge" >}}

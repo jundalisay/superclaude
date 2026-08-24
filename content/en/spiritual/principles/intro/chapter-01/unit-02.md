@@ -9,8 +9,6 @@ writer:
   url: https://www.linkedin.com/in/baolamnguyen/
 weight: 6
 icon: "Lam"
-aliases:
-  /spiritual/principles/chapter-02/
 ---
 
 

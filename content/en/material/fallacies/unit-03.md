@@ -10,12 +10,8 @@ draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /material/principles/part-2/chapter-10/
-# dunno  /material/principles/part-2/chapter-07c  
 ---
 
-<!-- /material/principles/part-2/chapter-10/ -->
 
 
 The pervious part explained the essential ingredients for Einstein's Special Relativity.

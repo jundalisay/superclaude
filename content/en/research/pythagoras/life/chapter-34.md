@@ -8,8 +8,6 @@ weight: 48
 c: "indigo"
 description: "Pythagoreans were ordered to use their native language because the Pythagoreans did not approve of foreign languages"
 icon: /icons/py.png
-aliases:
-  /research/pythagoras/iamblichus/chapter-34
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "South Africa"
-heading: "How to Fix South Africa"
+# heading: "How to Fix South Africa"
 date: 2017-01-18
 weight: 170
-image: "/flags/za.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='20' fill='#E03C31'/><rect y='20' width='60' height='20' fill='#001489'/><path d='M0 0l30 20L0 40z' fill='#000'/><path d='M0 4l22 16L0 36z' fill='#FFB81C'/><path d='M0 8l14 12L0 32z' fill='#007749'/></svg>"
 description : ""
 ---
 

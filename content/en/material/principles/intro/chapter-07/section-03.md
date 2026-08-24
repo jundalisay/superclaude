@@ -10,9 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 9
 icon: "Juan"
-aliases:
-  /material/principles/intro/chapter-07b
-  /material/principles/intro/chapter-07/chapter-07b
 ---
 
 

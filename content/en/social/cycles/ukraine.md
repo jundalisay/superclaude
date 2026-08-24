@@ -4,7 +4,7 @@ linkTitle: Ukraine
 # heading: "Negative Warrior"
 # date: 2021-07-27
 date: 2023-02-26
-image: "/flags/ua.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='20' fill='#0057B7'/><rect y='20' width='60' height='20' fill='#FFDD00'/></svg>"
 description: "The social cycles of Ukraine is yet to be determined"
 writer:
   name: Juan
@@ -17,12 +17,10 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 To be determined | - | -
 
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='20' fill='#0057B7'/><rect y='20' width='60' height='20' fill='#FFDD00'/></svg>
+
 
 The Russia-Ukraine war is now on its second year, creating nearly the worst reality after a year of conflict.
-
-
-{{< img src="/photos/countries/ua/war.jpg" alt="Russian Invasion" >}}
-
 
 The best reality in 2022 would have been for the Ukranian President to flee in February, allowing Russia to control all of Ukraine. This would have prevented:
 - the massive deaths, casualties, and destruction in Ukraine
@@ -30,6 +28,10 @@ The best reality in 2022 would have been for the Ukranian President to flee in F
 - the massacre at Bucha and other places
 - the Ukrainian [refugee crisis](https://www.timesofisrael.com/raped-abused-exploited-ukrainian-women-seeking-refuge-in-israel-find-no-haven/)
 - the global [food](https://en.wikipedia.org/wiki/2022%E2%80%932023_food_crises) and [supply chain crisis](https://en.wikipedia.org/wiki/2021%E2%80%932023_global_supply_chain_crisis) 
+
+{{< img src="/photos/countries/ua/war.jpg" alt="Russian Invasion" >}}
+
+
 
 The worst reality is for Russia to use nuclear weapons, with North Korea and even China joining in to create World War 3.
 

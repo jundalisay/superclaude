@@ -9,9 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-aliases:
-  /social/supersociology/principles/part-1/chapter-03b
-#2b daw
 ---
 
 
