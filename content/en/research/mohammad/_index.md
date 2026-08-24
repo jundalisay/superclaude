@@ -1,6 +1,6 @@
 ---
 title: "Mohammad (The Prophet)"
-heading: "Anunnaki-influenced"
+heading: "Orion-influenced"
 linkTitle: "Prophet Mohammad"
 description: "This is the simplified version of the Quran to make it easily readable"
 c: "maroon"
