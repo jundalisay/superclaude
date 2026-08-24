@@ -8,8 +8,6 @@ writer:
 icon: "Leibniz"
 c: "firebrick"
 weight: 8
-aliases: 
-  /research/leibniz/theodicy/part-01/part-12/
 ---
 
 

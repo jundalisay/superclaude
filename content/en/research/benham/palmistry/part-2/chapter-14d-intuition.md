@@ -6,8 +6,6 @@ description: "The line of Intuition lies at the side of the hand near the percus
 weight: 76
 author: "Benham"
 icon: "William Benham"
-aliases:
-  /research/benham/palmistry/part-2/chapter-14b-intuition/
 ---
 
 

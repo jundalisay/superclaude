@@ -4,8 +4,6 @@ heading: "Chapter 7"
 date: 2025-10-16
 weight: 75
 description: ""
-aliases:
-  /research/indian/kundalini/secion-1/chapter-07/
 ---
 
 

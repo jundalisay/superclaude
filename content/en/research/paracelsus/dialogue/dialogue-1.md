@@ -8,8 +8,6 @@ writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
 date: 2024-02-24
-aliases:
-  /research/paracelsus/alchemy/dialogue-1
 ---
 
 {{< n n="The Romans switched from paganism into Catholicism. This left many intellectuals, unwilling to abandon ancient beliefs, without any support. To drive their cause, they adopted the alchemy from Persia which itself was driven by the Persian lust for gold. This is because Annunaki began the first human civilizations in the Middle East where gold and metals were abundant. This is exactly what the fertile crescent is." >}}

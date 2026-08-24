@@ -6,8 +6,6 @@ weight: 4
 contributors: ['John Stuart Mill']
 description: "Liberty is non-harm and should not be applied to backward societies where despotism is best"
 icon: "John Stuart Mill"
-aliases:
-  /research/mill/liberty/chapter-01
 ---
 
 

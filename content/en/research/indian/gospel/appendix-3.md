@@ -5,8 +5,6 @@ a: "M"
 heading: "Appendix A3"
 weight: 708
 description: ""
-aliases:
-  /research/indian/gospel/appendix/a3
 ---
 
 

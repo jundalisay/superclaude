@@ -8,8 +8,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 19
-aliases:
-  /research/smith/astronomy/descartes
 ---
 
 

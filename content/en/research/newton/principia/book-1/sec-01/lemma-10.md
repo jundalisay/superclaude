@@ -4,12 +4,7 @@ description: "We simplify Lemma 7-9 of Principia Mathematica by Isaac Newton"
 author: Newton
 weight: 11
 c: "firebrick"
-aliases:
-  /research/newton/principia/book-1/sec-01/lemma-11
 ---
-
-
-
 
 ### Lemma 10
 

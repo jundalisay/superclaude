@@ -8,8 +8,6 @@ writer:
   name: Paracelsus
   url: https://en.wikipedia.org/wiki/Paracelsus/
 date: 2024-02-24
-aliases:
-  /research/paracelsus/alchemy/dialogue-3
 ---
 
 

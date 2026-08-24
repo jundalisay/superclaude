@@ -5,8 +5,6 @@ weight: 6
 description: The Magna Carta
 author: "King John"
 icon: England
-aliases:
-  /research/england/magna-carta/article-62/
 ---
 
 

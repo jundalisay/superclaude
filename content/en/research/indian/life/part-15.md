@@ -5,8 +5,6 @@ c: "indigo"
 weight: 28
 author: "Swāmi Nikhilānanda"
 description: "Shri Ramakrishna taught the steep path of renunciation to the young men destined to be monks."
-aliases:
-  /research/indian/gospel/intro/part-15/
 ---
 
 

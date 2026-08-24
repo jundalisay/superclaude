@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
 weight: 6
 icon: "Spinoza"
-aliases:
-  /research/spinoza/simple-ethics/propositions-1-10
 ---
 
 

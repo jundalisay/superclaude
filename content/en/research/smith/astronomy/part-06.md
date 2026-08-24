@@ -7,8 +7,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 14
-aliases:
-  /research/smith/astronomy/brahe/
 ---
 
 

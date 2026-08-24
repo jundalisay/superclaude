@@ -8,8 +8,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-aliases:
-  /research/smith/wealth-of-nations/book-4/chapter-5jj
 --- 
 
 

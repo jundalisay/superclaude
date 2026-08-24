@@ -6,7 +6,5 @@ description: The Magna Carta
 author: "King John"
 image: "/covers/magna.jpg"
 icon: gb
-aliases:
-  /research/england/magna-carta/
 ---
 

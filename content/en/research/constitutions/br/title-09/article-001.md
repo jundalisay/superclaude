@@ -5,8 +5,6 @@ weight: 4
 c: "darkslategray"
 description: ""
 icon: "Brazil"
-aliases:
-  /research/constitutions/br/title-09/chapter-02
 ---
 
 

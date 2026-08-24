@@ -9,8 +9,6 @@ writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
 icon: "Engels"
-aliases:
-  /research/engels/dialectics/2
 ---
 
 

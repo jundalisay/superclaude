@@ -8,9 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 weight: 48
-aliases:
-  /research/hume/essays/the-ideal-system-of-government
-  /research/hume/essays/part-2/16
 ---
 
 <!-- Here is the ideal form of government: -->

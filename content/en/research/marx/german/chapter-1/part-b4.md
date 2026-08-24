@@ -6,8 +6,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: "Karl Marx"
 c: "firebrick"
-aliases:
-  /research/marx/german/chapter-1/part-b4
 ---
 
 

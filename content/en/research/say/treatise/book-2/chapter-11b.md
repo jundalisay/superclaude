@@ -8,10 +8,7 @@ writer:
   name: Jean Baptiste Say
   url: https://en.wikipedia.org/wiki/Jean-Baptiste_Say
 icon: Jean Baptiste Say
-aliases:
-  /research/say/treatise/b2c22/
 ---
-
 
 
 ## Section 2. The influence of the Quality of a national product on the local distribution of the Population
@@ -26,16 +23,10 @@ For the earth to be cultivated, it is necessary that population should be spread
 to flourish, it is desirable to collect together in those spots, where the arts may be exercised with the most advantage;
 that is to say, where there can be the greatest subdivision of labour. The dyer naturally establishes himself near the clothier; the druggist near the dyer; the agent, or owner, of a vessel employed in the transport of drugs will approximate in locality to the druggist; and so of other producers in general.
 
+From the period of the irruption of the barbarians into the Roman empire, down to the 17th century, that is to say, to a date almost within living memory, the towns made but little figure in the larger states of Europe. 
 
-From the period of the irruption of the barbarians into the Roman empire, down to the 17th century, that is to say, to a
-date almost within living memory, the towns made but little
-figure in the larger states of Europe. That portion of the popu-
-lation, which was thought to live upon the cultivators of the
-land, was not then, as now, composed principally of merchants
-and manufacturers, but consisted of a nobility, surrounded by
-numerous retainers, of churchmen and other idlers, the ten-
-ants of the chateau, the abbey, or the convent, with their sev-
-eral dependencies; very few of them living within the towns.
+That portion of the population, which was thought to live upon the cultivators of the land, was not then, as now, composed principally of merchants and manufacturers, but consisted of a nobility, surrounded by numerous retainers, of churchmen and other idlers, the ten-
+ants of the chateau, the abbey, or the convent, with their several dependencies; very few of them living within the towns.
 
 The products of manufacture and commerce were very limited indeed; the manufacturers were the poor cottagers, and the merchants mere pedlars; a few rude implements of husbandry, and some very clumsy utensils and articles of furniture, answered all the purposes of cultivation and ordinary
 life. 

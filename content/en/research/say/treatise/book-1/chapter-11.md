@@ -8,8 +8,6 @@ writer:
   name: Jean Baptiste Say
   url: https://en.wikipedia.org/wiki/Jean-Baptiste_Say
 icon: Jean Baptiste Say
-aliases:
-  /research/say/treatise/b1c11/
 ---
 
 

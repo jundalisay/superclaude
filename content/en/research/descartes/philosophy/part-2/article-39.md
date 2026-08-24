@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-2/section-04c
 ---
 
 

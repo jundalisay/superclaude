@@ -5,8 +5,6 @@ weight: 16
 description: "People say that logic has 2 main parts -- The theory of elements and Methodology"
 c: "steelblue"
 author: Hegel
-aliases:
-  /research/hegel/science/intro-2
 ---
 
 

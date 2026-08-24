@@ -7,8 +7,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 18
-aliases:
-  /research/smith/astronomy/kepler
 ---
 
 

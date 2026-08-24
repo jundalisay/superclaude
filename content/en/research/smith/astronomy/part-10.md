@@ -8,8 +8,6 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 22
-aliases:
-  /research/smith/astronomy/newton
 ---
 
 

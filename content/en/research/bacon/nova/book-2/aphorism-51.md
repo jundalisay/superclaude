@@ -7,8 +7,6 @@ description: "In this, the matter or efficient agent is scanty or small compared
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
-aliases:
-  /research/bacon/nova/book-2/chapter-18
 ---
 
 

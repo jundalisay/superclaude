@@ -4,8 +4,6 @@ title: "The Original Sin"
 description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense"
 weight: 6
 image: "/graphics/history/genes.jpg"
-aliases:
-  /research/ancient/jewish/old-testament/genesis-03
 ---
 
 

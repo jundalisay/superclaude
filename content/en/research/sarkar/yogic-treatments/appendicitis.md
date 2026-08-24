@@ -6,8 +6,6 @@ description: "Swelling of the appendix and simultaneous unbearable pain in the a
 image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
 tags: ['appendicitis']
-aliases:
-  /research/sarkar/yogic-treatments/appendicitis
 ---
 
 

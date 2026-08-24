@@ -7,8 +7,6 @@ description: If all the parts of the universe are interchained in a certain meas
 c: "steelblue"
 author: "H. Poincare"
 icon: "Henri Poincare"
-# aliases:
-#   /research/poincare/part-1
 ---
 
 

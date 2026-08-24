@@ -7,9 +7,6 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-aliases:
-  /research/smith/astronomy/copernicus
-# date: 2022-09-20
 ---
 
 

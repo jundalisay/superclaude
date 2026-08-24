@@ -6,8 +6,6 @@ description: "The effects produced by harmony and aversion"
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
-aliases:
-  /research/bacon/nova/book-2/chapter-17e
 ---
 
 

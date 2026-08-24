@@ -13,9 +13,9 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /ani
-  /superphysics/solutions/isaia
-  /superphysics/principles/chapter-08o
-  /superphysics/principles/chapter-08/section-15  
+# /superphysics/solutions/isaia
+# /superphysics/principles/chapter-08o
+# /superphysics/principles/chapter-08/section-15  
 ---
 
 

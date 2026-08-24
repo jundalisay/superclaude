@@ -5,8 +5,6 @@ icon: Newton
 description: "The hypothesis of vortices is problematic.  It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description"
 author: Isaac Newton
 icon: "Newton"
-aliases:
-  /research/newton/principia/definitions/scholium/
 ---
 
 

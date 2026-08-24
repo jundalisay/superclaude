@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "#DE3163"
 icon: "Rene Descartes"
-aliases:
-  /research/descartes/man/section-01/
 ---
 
 

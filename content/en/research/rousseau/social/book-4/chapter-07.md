@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 14
 date: 2025-01-11
-aliases:
-  /research/rousseau/social/book-4/chapter-07b/
 ---
 
 

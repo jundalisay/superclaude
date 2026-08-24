@@ -5,8 +5,6 @@ description: "Aristæus was the successor of Pythagoras. He was the son of Damop
 weight: 52
 author: "Iamblichus"
 c: "indigo"
-aliases:
-  /research/pythagoras/iamblichus/chapter-36
 --- 
 
 

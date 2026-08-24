@@ -6,8 +6,6 @@ description: As long as we do not go outside the domain of consciousness, the no
 c: "steelblue"
 author: "H. Poincare"
 icon: "Henri Poincare"
-# aliases:
-#   /research/poincare/part-1
 ---
 
 

@@ -5,8 +5,6 @@ description: ""
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
-aliases:
-  /research/bacon/nova/book-2/footnotes/
 ---
 
 

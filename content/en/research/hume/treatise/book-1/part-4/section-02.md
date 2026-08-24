@@ -9,8 +9,6 @@ writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
-aliases:
-  /research/hume/treatise/book-1/part-4/section-2/
 ---
 
 

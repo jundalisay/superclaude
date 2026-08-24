@@ -5,8 +5,6 @@ description: "Anu formed man of the dust of the ground, and breathed into his no
 weight: 4
 c: "firebrick"
 a: "Anu"
-aliases:
-  /research/ancient/jewish/old-testament/genesis-02
 ---
 
 

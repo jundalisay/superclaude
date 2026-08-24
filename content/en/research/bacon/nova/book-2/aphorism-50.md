@@ -6,8 +6,6 @@ description: "These point out, that which is advantageous to mankind."
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
-aliases:
-  /research/bacon/nova/book-2/chapter-1
 ---
 
 

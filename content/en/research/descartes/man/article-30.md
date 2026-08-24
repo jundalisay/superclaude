@@ -8,8 +8,6 @@ c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-aliases:
-  /research/descartes/man/section-30b/
 ---
 
 

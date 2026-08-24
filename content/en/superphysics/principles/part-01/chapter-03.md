@@ -10,8 +10,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-# aliases:
-#   /superphysics/principles/chapter-07b
 ---
 
 The division of existence into the 3 domains means that mind which experiences these domains also have 3 types which are commonly known as:

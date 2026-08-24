@@ -9,8 +9,6 @@ writer:
 c: "darkgoldenrod"
 icon: "Rene Descartes"
 image: /graphics/physics/world-13eee.jpg
-# aliases:
-#   /research/descartes/philosophy/part-3/article-56
 ---
 
 

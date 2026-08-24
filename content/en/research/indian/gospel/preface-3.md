@@ -7,8 +7,6 @@ weight: 2
 author: M
 icon: M
 description: ""
-aliases:
-  /research/indian/gospel/intro/part-02/
 ---
 
 
