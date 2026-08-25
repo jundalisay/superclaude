@@ -4,7 +4,7 @@ heading: "Chapter 1"
 date: 2019-01-01
 weight: 2
 image: /photos/meta/ghost.jpg
-description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
+description: "All that we perceive is either physical, quasi physical, or metaphysical"
 icon: "Juan"
 tags: ["domains"]
 writer:
@@ -20,10 +20,10 @@ There are 3 Domains in Existence | Physical, Quasiphysical and Metaphysical Doma
 {{< /b >}}
 
 
-{{< youtube TpN23dGFcSA >}}
+{{< youtube z_Xm6AeiHYA  >}}
 
 We know the existence of thing through our perceptions of it. Each perception has 3 aspects:
-
+  
 1. Physical
 
 An example is a rock.
@@ -34,12 +34,9 @@ An example is space. We can see space. But we cannot touch or explain our percep
 
 3. Metaphysical
 
-An example is an idea. We know we have an idea, but we cannot see it nor touch it. 
+An example is an idea. We know we have an idea, but we cannot see it nor touch it. We say that the idea is metaphysical,
 
 
-<!-- For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
-
-{{< i s="/photos/objects/mug.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}} -->
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
 The two are one and the same thing displayed through different attributes:
