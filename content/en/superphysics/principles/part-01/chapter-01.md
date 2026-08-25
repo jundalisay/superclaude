@@ -100,10 +100,17 @@ The schools by natural philosophy were meant for the knowledge of the efficients
 metaphysics the knowledge of the forms of natures simple.
 {{< /q >}}
 
-This domain exists only because we have abstract minds which have an innate ability to 'house' or have ideas and thoughts.
+Modern science already knows a lot about the Physical Domain but knows nothing of the Metaphysical. 
 
-- We are able to conceive an idea, or think of a thought, **if it bounces back in our minds onto our consciousness**.
-- We are unable to have that idea or thought if it does not bounce back to our consciousness.
+This is where Superphysics comes in.
+
+This domain exists because our minds have an ethereal component that creates the necessary relation to the abstract ideas which serve as the primary objects of this domain. 
+
+### Ideas Bounce Back. Or Not.
+
+We are able to conceive an idea, or think of a thought, **if it bounces back in our minds onto our consciousness** just like how we are able to verify the existence of a rock by touching it.
+
+We are unable to have that idea or thought if it does not bounce back to our consciousness.
 
 An example of a metaphysical object not bouncing back is when we forget a password to our email. 
 
@@ -135,7 +142,7 @@ Aĺl men by nature desire to know. An indication of this is the delight we take 
 
 ### The Metaphysical Domain Versus the Physical Domain
 
-The metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. 
+The metaphysical domain exists inside our abstract minds and is infinitely larger and richer than the physical domain of our senses. This is proven by our minds being ”rich” with ideas.
 
 
 {{< q a="Socrates" c="The Republic by Plato Simplifed, Book 9, Chapter 3" >}}
@@ -152,12 +159,12 @@ We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This 
 {{< i s="/graphics/super/cycle.svg" a="Venn Diagram" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
 
 
-{{< q a="Timaeus" c="Timaeus by Plato Simplifed">}}
+{{< q a="Timaeus" c="Timaeus by Plato Simplifed" >}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
 {{< /q >}}
 
 
-These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
+These 3 regions of metaphysical domain, physical domain, and current perception (or quasi physical as a merger of both) are expressed in our Superphysics icon.
 
 {{< img src="/icons/sp.svg"  alt="Superphysics icon">}}
 
@@ -196,14 +203,15 @@ Quasiphysical shares the nature of both Physical and Metaphysical. This is most 
 Metaphysical is the nature of being detectable by the abstract mind without the direct support of the bodily senses. Technically being part of the upper Elements such as the (upper) Fire, Air, and Aether Elements, and the (Upper) Spatial, and Aethereal Layers.
 
 
-## Concepts Emerging from the 2 Domains
+## Concepts Emerging from the 3 Domains
 
-The concept of the 2 Domains leads to the following concepts:
+The concept of the 3 Domains leads to the following concepts:
 
 1. Reality 
 2. Abstract Spaces of Reality
 3. Vortices and Ideas within Reality
 4. Operational Divisions of Reality
 5. The 5 Elements of Reality
+6. Relationality
 
 
