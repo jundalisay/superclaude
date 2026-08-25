@@ -5,7 +5,7 @@ heading: "Install Islamic Feudal Lords"
 # date: 2021-08-16
 date: 2021-09-18
 weight: 2
-s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='13.33' fill='#000'/><rect y='13.33' width='60' height='13.33' fill='#D32011'/><rect y='26.66' width='60' height='13.33' fill='#007A36'/><rect x='20' y='10' width='20' height='20' fill='#fff'/><path d='M30 12l2 4 4-1-3 3 2 4-4-2-4 2 2-4-3-3 4 1z' fill='#000'/></svg>"
+c: white
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
 ---
 
