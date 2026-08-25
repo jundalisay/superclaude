@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "The Higher and Lower Mind"
 #date: 2020-12-10
 date: 2025-10-07
-weight: 4
+weight: 8
 image: /photos/physics/balloon.jpg
 description: "The Higher and Lower Mind arises from the 3 Domains"
 writer:
@@ -14,9 +14,17 @@ icon: "Juan"
 
 The division of existence into the 3 domains means that mind which experiences these domains also have 3 types which are commonly known as:
 
-- Conscious
-- Subconscious
-- Unconscious
+- Conscious—- this relates to the physical
+- Subconscious—- this relates to the quasi physical 
+- Unconscious—- this relates to the metaphysical
+
+## Higher Mind 
+
+
+
+
+
+## Lower Mind
 
 
 
@@ -34,6 +42,7 @@ And so we say that:
 In spirituality, the physical domain is discarded.
 
 So does this mean that metaphysical entities have all the same level of intelligence and subtlety?
+
 
 The Positive and Negative still work in the same way in the metaphysical domain as in the physical. The only difference is that in the physical domain, the Negative is very dominant. 
 
