@@ -34,8 +34,7 @@ An example is space. We can see space. But we cannot touch or explain our percep
 
 3. Metaphysical
 
-An example is an idea. We know we have an idea, but we cannot see it nor touch it. We say that the idea is metaphysical,
-
+An example is an idea. We know we have an idea, but we cannot see it nor touch it.
 
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
@@ -43,19 +42,6 @@ The two are one and the same thing displayed through different attributes:
 1. A circle existing in nature
 2. The idea of a circle existing
 {{< /q >}}
-
-
-
-<!-- ## The Two Domains
-
-This means that the mug exists in two domains of reality:
-
-1. The *physical* mug exists in the physical domain, which we see and touch. 
-  - This mug is made of glass.
-
-2. The *metaphysical* mug exists in the metaphysical domain, as our idea of what a mug is. 
-  - This mug-idea is made of aether.
-  - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds. -->
 
 
 {{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
@@ -67,23 +53,39 @@ Let the investigation of forms, which are eternal and immutable, constitute meta
 
 
 
-### The Physical Domain
+## The Physical Domain
 
-This domain exists only because of our physical senses, most commonly by our sight and touch which are really 'electromagnetic' types of perception. This will make sense when we talk about the 5 Layers of Reality.
+This domain exists only because of our physical senses, most commonly by:
+- sight, which we classify as an ‘electromagnetic' or ‘radiant’ type of perceptio
+- touch, which is a ‘material’ type of perception
 
-Our senses let us perceive the mug physically by receiving the sensations of light and touch that **bounce back to them**. 
-- Invisible and intangible objects are those that **do not let sensations of light or touch bounce back**. 
-  - An example is the air which lets light and our hands pass through.  
+This will make sense when we talk about the 5 Layers of Reality that explains the ‘radiant’ and ‘material’ layers.
+
+Your senses lets you perceive the rock physically by receiving the sensations of light and touch that **bounce from the rock to you** through the medium of space.
+- It is this bouncing back that lets you know the rock exists.
+- Likewise, the light and touch that bounce from you into the rock makes the rock know that you exist
+
+This mutual bouncing back makes the rock and you exist to each other, by establishing a perception-relation which we call “relationality”.
 
 
-<!-- a="Francis Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
+### Non-Existing Things Have No Relation to You
 
-Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits -->
+Invisible and intangible objects are those that **do not let sensations of light or touch bounce back to you**. 
+
+An example is the air which lets light pass through
+
+The air has no relation to the eye and so is unseen. But it is related to the lungs which is very important for breathing. 
+
+Another example is spirits or elementals that is not seen by all people.
+
+Spirits have no relation to people who choose physical pleasures. But they are very important to those who are on the spiritual path, just as money and physical assets are important to those on the materialistic path. 
+
+{{< q a="Francis Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches.Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits >}}
 
 
-### The Quasi-Physical Domain
+## The Quasi-Physical Domain
 
-This domain exists in between the Physical and Metaphysical. 
+This domain exists in between the Physical and Metaphysical, bridging both. 
 
 This is the boundary of universes in the multiverse.
 
@@ -91,7 +93,7 @@ Space, time, and dimensions exist in this domain.
 
 
 
-### The Metaphysical Domain with Metaphysical Objects, as Ideas
+## The Metaphysical Domain with Metaphysical Objects, as Ideas
 
 {{< q a="Francis Bacon" c="The Interpretation of Nature, Chap 13" >}}
 The schools by natural philosophy were meant for the knowledge of the efficients or things concrete; and by
