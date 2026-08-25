@@ -80,7 +80,10 @@ Another example is spirits or elementals that is not seen by all people.
 
 Spirits have no relation to people who choose physical pleasures. But they are very important to those who are on the spiritual path, just as money and physical assets are important to those on the materialistic path. 
 
-{{< q a="Francis Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches.Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits >}}
+{{< q a="Francis Bacon" c="Nova Organum" >}}
+Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches.Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits 
+{{< /q >}}
+
 
 
 ## The Quasi-Physical Domain

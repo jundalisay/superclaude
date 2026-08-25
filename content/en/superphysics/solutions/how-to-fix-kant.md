@@ -196,3 +196,12 @@ The occupation with the auxiliary sciences [logic] constitutes a waste of one's 
 {{< /q >}}
 
  -->
+
+
+ ### Update August 2026
+
+ We prevent Kant-style abstract-only thinking with Supermath Tetras that impose that math should be based on reality. This prevents math scams like Riemann Zeta Function, Ramanujan Summation, Zeno's Paradoxes etc. 
+
+ In this way, humans will no longer waste their lives solving still unsolvable non-problems. 
+ 
+

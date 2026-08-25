@@ -30,7 +30,7 @@ In law enforcement, this would mean making morality and sociability as the top r
 
 Currently, applicants must pass the Police Academy which trains them in law enforcement processes. Physical fitness is emphasized, and moral fitness is determined through psychological tests, polygraph, and background checks.
 
-The problem with this is that proper morality is not part of the training, and, even if it were, it is not maintained during the career of the police officer. 
+The problem with this is that **proper morality is not part of the training**, and, even if it were, it is not maintained during the career of the police officer. 
 
 This leads to the common phenomenon of good cops turning bad, whether through bribery or the use of excessive force, as seen in the murder of George Floyd. These abuses then make the masses clamor to overhaul the system of law enforcement.
 
