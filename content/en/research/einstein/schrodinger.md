@@ -3,6 +3,7 @@ title: "Does Schrödinger’s Wave Mechanics Completely Determine a System's Mot
 description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy"
 c: "firebrick"
 weight: 41
+a: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein
