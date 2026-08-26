@@ -1,6 +1,6 @@
 ---
 title:  "1990"
-weight: 86
+weight: 90
 description: ""
 image: "/covers/essassani.jpg"
 ---

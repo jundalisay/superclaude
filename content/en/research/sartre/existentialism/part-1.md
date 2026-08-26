@@ -5,7 +5,8 @@ title: "Existentialism Is a Humanism"
 weight: 4
 # description: "Treatise on Political Economy by JB Say"
 c: firebrick
-# a: Jean Paul Sartre
+a: Sartre
+#  Jean Paul
 ---
 
 
@@ -75,5 +76,3 @@ What we choose is always the better; and nothing can be better for us unless it 
 Or if, to take a more personal case, I decide to marry and to have children, even though this decision proceeds simply from my situation, from my passion or my desire, I am thereby committing not only myself, but humanity as a whole, to the practice of monogamy. I am thus responsible for myself and for all men, and I am creating a certain image of man as I would have him to be. In fashioning myself I fashion man.
 
 This may enable us to understand what is meant by such terms – perhaps a little grandiloquent – as anguish, abandonment and despair. As you will soon see, it is very simple. First, what do we mean by anguish?
-
-
