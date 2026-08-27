@@ -166,21 +166,19 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('new-site-link').href = newUrl;
   document.getElementById('new-site-button').href = newUrl;
   
-  // Check if user has already dismissed the popup
-  // if (localStorage.getItem('superphysicsPopupDismissed') === 'true') {
-  //   popup.style.display = 'none';
-  // }
+  // Make sure popup is visible on page load
+  popup.style.display = 'flex'; // or 'block' depending on your CSS
   
   closeBtn.addEventListener('click', function() {
     popup.style.display = 'none';
-    localStorage.setItem('superphysicsPopupDismissed', 'true');
+    // No localStorage - it will show again on next page load
   });
   
   // Close when clicking outside the modal box
   popup.addEventListener('click', function(e) {
     if (e.target === popup) {
       popup.style.display = 'none';
-      // localStorage.setItem('superphysicsPopupDismissed', 'true');
+      // No localStorage - it will show again on next page load
     }
   });
 });
