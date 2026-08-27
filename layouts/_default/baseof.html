@@ -82,5 +82,99 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 });
 </script>
 
+
+
+<!-- ========================================== -->
+<!-- CLOSING NOTICE POPUP                       -->
+<!-- ========================================== -->
+<!-- <div id="closing-popup" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm p-4">
+  <div class="relative bg-slate-900 border border-teal-500/30 rounded-2xl p-8 max-w-md w-full text-center shadow-2xl shadow-teal-500/10 animate-fade-in">
+    <button id="close-popup" class="absolute top-4 right-4 text-gray-400 hover:text-white transition-colors" aria-label="Close popup">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="mx-auto" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <filter id="drop-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="4" flood-color="#000" flood-opacity="0.35"/>
+    </filter>  
+    <linearGradient id="board-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a2a2a"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </linearGradient>
+    <linearGradient id="gold-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e6c875"/>
+      <stop offset="50%" stop-color="#ffd700"/>
+      <stop offset="100%" stop-color="#b38f38"/>
+    </linearGradient>
+  </defs>
+  <circle cx="55" cy="22" r="3" fill="none" stroke="#666" stroke-width="2.5"/>
+  <circle cx="145" cy="22" r="3" fill="none" stroke="#666" stroke-width="2.5"/>
+  <path d="M 55 24 L 70 65" stroke="#777" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 145 24 L 130 65" stroke="#777" stroke-width="2" stroke-linecap="round"/>
+  <g transform="rotate(-3 100 115)" filter="url(#drop-shadow)">
+    <rect x="15" y="65" width="170" height="100" rx="14" fill="url(#board-grad)"/>
+    <rect x="22" y="72" width="156" height="86" rx="9" fill="none" stroke="url(#gold-border)" stroke-width="2" stroke-dasharray="none"/>
+    <rect x="25" y="75" width="150" height="80" rx="7" fill="none" stroke="#333" stroke-width="1"/>
+    <circle cx="28" cy="78" r="1.5" fill="#888"/>
+    <circle cx="172" cy="78" r="1.5" fill="#888"/>
+    <circle cx="28" cy="152" r="1.5" fill="#888"/>
+    <circle cx="172" cy="152" r="1.5" fill="#888"/>
+    <text x="100" y="123" 
+          font-family="Arial, Helvetica, sans-serif" 
+          font-size="28" 
+          font-weight="900" 
+          letter-spacing="3.5" 
+          fill="#dc2626" 
+          text-anchor="middle"
+          dominant-baseline="central">
+      CLOSING!
+    </text>
+  </g>
+</svg>
+
+
+    <h3 class="text-2xl font-display font-bold text-white mb-4">Superphysics is closing!</h3>
+    <p class="text-gray-300 mb-6 leading-relaxed">
+      We have moved this site to free hosting at <br>
+      <a href="https://superphysics.pages.dev" class="text-teal-400 hover:text-teal-300 font-semibold underline decoration-teal-400/50 hover:decoration-teal-300 transition-all break-all">superphysics.pages.dev</a>
+    </p>
+    <p class="text-gray-400 text-sm mb-6">So please go there instead.</p>
+    
+    <a href="https://superphysics.pages.dev" class="inline-block w-full px-6 py-3 bg-teal-500 hover:bg-teal-400 text-white font-bold rounded-xl transition-all hover:scale-105 shadow-[0_0_20px_rgba(20,184,166,0.4)]">
+      Go to New Site
+    </a>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const popup = document.getElementById('closing-popup');
+  const closeBtn = document.getElementById('close-popup');
+  
+  // Check if user has already dismissed the popup
+  // if (localStorage.getItem('superphysicsPopupDismissed') === 'true') {
+  //   popup.style.display = 'none';
+  // }
+  
+  closeBtn.addEventListener('click', function() {
+    popup.style.display = 'none';
+    localStorage.setItem('superphysicsPopupDismissed', 'true');
+  });
+  
+  // Close when clicking outside the modal box
+  popup.addEventListener('click', function(e) {
+    if (e.target === popup) {
+      popup.style.display = 'none';
+      // localStorage.setItem('superphysicsPopupDismissed', 'true');
+    }
+  });
+});
+</script>
+ -->
+
 </body>
 </html>
