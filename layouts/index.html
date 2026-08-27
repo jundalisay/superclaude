@@ -442,4 +442,234 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 </style>
 
+
+<!-- Add this popup overlay to your site, ideally near the end of the body or in a partial -->
+<div id="movePopup" class="popup-overlay">
+  <div class="popup-card">
+    <div class="popup-icon">🚀</div>
+    <h2 class="popup-title">Superphysics is closing!</h2>
+    <p class="popup-message">
+      We have moved this site to free hosting at 
+      <a href="https://super.pages.dev" target="_blank" rel="noopener noreferrer" class="popup-link">super.pages.dev</a>
+    </p>
+    <p class="popup-sub">Please go there instead.</p>
+    <div class="popup-actions">
+      <a href="https://super.pages.dev" target="_blank" rel="noopener noreferrer" class="popup-btn primary">Visit New Site</a>
+      <button id="closePopupBtn" class="popup-btn secondary">Dismiss</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  /* Popup overlay – full screen with blur backdrop */
+  .popup-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.4s ease, visibility 0.4s ease;
+    font-family: 'Quicksand', system-ui, -apple-system, sans-serif;
+  }
+
+  .popup-overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* Popup card – glassmorphism with teal accents */
+  .popup-card {
+    max-width: 480px;
+    width: 100%;
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(20, 184, 166, 0.3);
+    border-radius: 2rem;
+    padding: 2.5rem 2rem 2rem;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(20, 184, 166, 0.1);
+    text-align: center;
+    transform: scale(0.95) translateY(20px);
+    transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.4s ease;
+    opacity: 0;
+  }
+
+  .popup-overlay.active .popup-card {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+
+  .popup-icon {
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+    100% { transform: translateY(0); }
+  }
+
+  .popup-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #f0fafc, #b7e4e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .popup-message {
+    color: #d1d5db;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .popup-link {
+    color: #5eead4;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(94, 234, 212, 0.3);
+    transition: border-color 0.2s, color 0.2s;
+  }
+
+  .popup-link:hover {
+    color: #a7f3d0;
+    border-bottom-color: #5eead4;
+  }
+
+  .popup-sub {
+    color: #94a3b8;
+    font-size: 0.95rem;
+    margin-top: 0.25rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .popup-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+  }
+
+  .popup-btn {
+    padding: 0.75rem 1.75rem;
+    border-radius: 9999px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Quicksand', system-ui, sans-serif;
+    min-width: 130px;
+  }
+
+  .popup-btn.primary {
+    background: linear-gradient(145deg, #14b8a6, #0d9488);
+    color: white;
+    box-shadow: 0 8px 20px -8px rgba(20, 184, 166, 0.4);
+  }
+
+  .popup-btn.primary:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 28px -8px rgba(20, 184, 166, 0.6);
+    background: linear-gradient(145deg, #2dd4bf, #0d9488);
+  }
+
+  .popup-btn.secondary {
+    background: rgba(255, 255, 255, 0.08);
+    color: #e2e8f0;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(4px);
+  }
+
+  .popup-btn.secondary:hover {
+    background: rgba(255, 255, 255, 0.16);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+
+  /* responsive tweaks */
+  @media (max-width: 480px) {
+    .popup-card {
+      padding: 2rem 1.25rem;
+    }
+    .popup-title {
+      font-size: 1.7rem;
+    }
+    .popup-btn {
+      min-width: 110px;
+      padding: 0.65rem 1.25rem;
+      font-size: 0.9rem;
+    }
+  }
+</style>
+
+<script>
+  (function() {
+    // Show popup after a short delay (ensures page is ready)
+    function showPopup() {
+      const overlay = document.getElementById('movePopup');
+      if (overlay) {
+        overlay.classList.add('active');
+      }
+    }
+
+    // Close popup function
+    function closePopup() {
+      const overlay = document.getElementById('movePopup');
+      if (overlay) {
+        overlay.classList.remove('active');
+      }
+    }
+
+    // Wait for DOM and then show popup after 600ms
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(showPopup, 600);
+      });
+    } else {
+      setTimeout(showPopup, 600);
+    }
+
+    // Attach close event to the dismiss button
+    const closeBtn = document.getElementById('closePopupBtn');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closePopup);
+    }
+
+    // Optional: close popup when clicking outside the card
+    const overlay = document.getElementById('movePopup');
+    if (overlay) {
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay) {
+          closePopup();
+        }
+      });
+    }
+
+    // Also close with Escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closePopup();
+      }
+    });
+  })();
+</script>
+
 {{ end }}
