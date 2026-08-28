@@ -5,24 +5,31 @@ description: ""
 c: "purple"
 weight: 73
 a: "Seth"
+tags: ['anima']
 ---
 
 
-As I mentioned earlier, each person lives both male and female lives. As a rule,  conscious memory of these is not retained. To prevent an overidentification of the 
-individual with his present sex, within the male there resides an inner personification of femaleness. This personification of femaleness in the male is the true meaning of what Jung called the "anima." 
 
-The anima in the male is, therefore, the psychic memory and identification of all the previous female existences in which the inner self has been involved. It contains within it the knowledge of the present male's past female histories, and the intuitive understanding of all the female qualities with which the personality is innately 
-endowed. 
+Each person lives both male and female lives. 
 
-The anima, therefore, is an important safeguard, preventing the male from over-identifying with whatever cultural male characteristics have been imposed upon him 
-through present background, environment, and education. The anima serves not only as a personal but as a mass-civilizing influence, mellowing strongly aggressive 
-tendencies and serving also as a bridge both in communicating with women in a family relationship, and in communication also as it is applied through the arts and 
+As a rule, conscious memory of these is not retained. 
+
+To prevent an overidentification of the individual with his present sex, within the male there resides an inner personification of femaleness. 
+
+This personification of femaleness in the male is the true meaning of what Jung called the "anima." 
+
+The anima in the male is, therefore, the psychic memory and identification of all the previous female existences in which the inner self has been involved. 
+
+It contains within it the knowledge of the present male's past female histories, and the intuitive understanding of all the female qualities with which the personality is innately endowed. 
+
+The anima, therefore, is an important safeguard, preventing the male from over-identifying with whatever cultural male characteristics have been imposed upon him through present background, environment, and education.
+
+The anima serves not only as a personal but as a mass-civilizing influence, mellowing strongly aggressive tendencies and serving also as a bridge both in communicating with women in a family relationship, and in communication also as it is applied through the arts and 
 verbalization. 
 
-The male will often dream of himself, therefore, as a female. The particular way in which he does so, can tell him much about his own reincarnational background in 
-which he operated as a female. Maleness and femaleness are obviously not opposites, but merging tendencies. The priestess, the mother, the young witch, the wife, and the old wise woman - these general types are archetypes, simply because they are "root 
-elements" representing, symbolically, the various kinds of so-called female qualities and 
-the various kinds of female lives that have been lived by males. 
+The male will often dream of himself, therefore, as a female. The particular way in which he does so, can tell him much about his own reincarnational background in which he operated as a female.
+
+Maleness and femaleness are obviously not opposites, but merging tendencies. The priestess, the mother, the young witch, the wife, and the old wise woman - these general types are archetypes, simply because they are "root elements" representing, symbolically, the various kinds of so-called female qualities and the various kinds of female lives that have been lived by males. 
 
 They have also been lived by females, of course. However, the women do not need to 
 be reminded of their femaleness, but again, so that they do not overidentify with their 
@@ -399,23 +406,9 @@ showing a lack of muscular development. Poets and artists, while somewhat of thi
 nature, as a rule are more deeply appreciative of the physical values of earthly 
 existence, although they have many of the same characteristics. 
 
-The attitude toward the body will always vary, therefore. Various types of bodies may 
-
-
-
-be chosen, but there will still be overall preferences on the part of the whole self, and 
-characteristics that will lead the whole self, so that generally the various lives lived will 
+The attitude toward the body will always vary, therefore. Various types of bodies may be chosen, but there will still be overall preferences on the part of the whole self, and characteristics that will lead the whole self, so that generally the various lives lived will 
 still have their own individual flavor. 
 
-It is almost impossible to speak of when the personality enters the physical body 
-without discussing the ways in which it leaves it, for all this is highly dependent upon 
-personal characteristics and attitudes toward physical reality. Decisions as to future 
-lives may be made not only in between-life conditions but also in dream states in any 
-given life. 
+It is almost impossible to speak of when the personality enters the physical body without discussing the ways in which it leaves it, for all this is highly dependent upon personal characteristics and attitudes toward physical reality. Decisions as to future lives may be made not only in between-life conditions but also in dream states in any given life. 
 
-You may have already decided for example, now, upon the circumstances for your 
-next incarnation. Although in your terms your new parents may be infants now, or in 
-your scale of time not even born, the arrangements may still be made. 
-
-
-
+You may have already decided for example, now, upon the circumstances for your next incarnation. Although in your terms your new parents may be infants now, or in your scale of time not even born, the arrangements may still be made. 

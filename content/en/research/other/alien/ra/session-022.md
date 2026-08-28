@@ -266,11 +266,11 @@ Was it necessary for them to have a unified social complex for these visitations
 There were 2 conditions:
 
 1. The calling of a group of people whose square overcame the integrated resistance of those unwilling to search or learn
-2. The relative naïveté of the Confederation members who felt that direct transfer of information would necessarily be as helpful for Atlanteans as it had been for the Confederation entity. 
+2. The relative naivete of the Confederation members who felt that direct transfer of information would necessarily be as helpful for Atlanteans as it had been for the Confederation entity. 
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-So these naïve Confederation entities had had the same thing happen to them in the past. And so they were doing the same thing for the Atlantean entities.
+<sup>26</sup> So these naive Confederation entities had had the same thing happen to them in the past. And so they were doing the same thing for the Atlantean entities.
 {{< /r >}}
 
 {{< l a="Ra" >}}
@@ -282,7 +282,7 @@ It is our duty as well as honor to continue with your peoples until all traces o
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-So many Atlanteans had started going in the direction of the Law of One and living the Law of One for their call to be heard by the Confederation. 
+<sup>27</sup> So many Atlanteans had started going in the direction of the Law of One and living the Law of One for their call to be heard by the Confederation. 
 
 This call was heard because, using the Law of Squares, it overrode the opposition of the Atlantean entities that were not calling. 
 
@@ -301,7 +301,7 @@ There is no multiplicity to the Law of One.
 
 
 {{< r a="Don Elkins" >}} 
-What was the average life span of the Atlantean population? {{< /r >}}
+<sup>28</sup> What was the average life span of the Atlantean population? {{< /r >}}
 
 {{< l a="Ra" >}}
 The average life span, as we have said, is misleading.

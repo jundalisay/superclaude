@@ -8,42 +8,28 @@ a: "Seth"
 ---
 
 
-After-death experiences will not seem so alien or incomprehensible if you realize that you encounter similar situations as a normal part of your present existence. 
+<!-- After-death experiences will not seem so alien or incomprehensible if you realize that you encounter similar situations as a normal part of your present existence.  -->
 
-In sleep and dream states you are involved in the same dimension of existence in 
-which you will have your after-death experiences. You do not remember the most 
-important part of these nightly adventures, and so those you do recall seem bizarre or 
-chaotic as a rule. This is simply because in your present state of development you are 
-not able to manipulate consciously within more than one environment. 
+The sleep and dream states are in the same dimension of existence as your after-death experiences. 
 
-You do exist consciously in a coherent, purposeful creative state while the physical 
-body sleeps, however, and you carry on many of the activities that I told you would be 
-encountered after death. You simply turn the main focus of your attention in a different 
-dimension of activity, one in which you have indeed continuously operated. 
+You do not remember the most important part of these nightly adventures, and so those you do recall seem bizarre or chaotic.
 
-Now, as you have memory of your waking life and as you retain a large body of such 
-memory for daily physical encounters, and as this fount of memory provides you with a 
-sense of daily continuity, so also does your dreaming self have an equally large body of 
-memory. As there is continuity to your daily life, so there is continuity in your sleeping 
-life. 
+This is simply because in your present state of development you are unable to manipulate consciously within more than one environment. 
 
-A portion of you, therefore, is aware of each and every dream encounter and 
-experience. Dreams are no more hallucinatory than your physical life is. Your waking 
-physical self is the dreamer, as far as your dreaming self is concerned: You are the 
-dreamer it sends on its way. Your daily experiences are the dreams that it dreams, so 
-when you look at your dreaming self or consider it, you do so with a highly prejudiced 
+<!-- You do exist consciously in a coherent, purposeful creative state while the physical body sleeps, however, and you carry on many of the activities that I told you would be encountered after death. You simply turn the main focus of your attention in a different dimension of activity, one in which you have indeed continuously operated.  -->
+
+<!-- Now, as you have memory of your waking life and as you retain a large body of such memory for daily physical encounters, and as this fount of memory provides you with a sense of daily continuity, so also does  -->
+
+Your dreaming self also has an equally large body of memory just as your waking self.
+
+There is continuity in your sleeping life just like your daily life. 
+
+A portion of you, therefore, is aware of each and every dream encounter and experience. Dreams are no more hallucinatory than your physical life is. Your waking physical self is the dreamer, as far as your dreaming self is concerned: You are the dreamer it sends on its way. Your daily experiences are the dreams that it dreams, so when you look at your dreaming self or consider it, you do so with a highly prejudiced 
 eye, taking it for granted that your "reality" is real, and its reality is illusion. 
 
-Its reality is far more native to your being, however. If you do not find coherence in 
-the dream state, it is because you have hypnotized yourselves into believing that none 
-exists. Of course you try to translate your nightly adventures into physical terms upon 
-awakening, and attempt to fit them into your often limited distortion of the nature of 
-reality. 
+Its reality is far more native to your being, however. If you do not find coherence in the dream state, it is because you have hypnotized yourselves into believing that none exists. Of course you try to translate your nightly adventures into physical terms upon awakening, and attempt to fit them into your often limited distortion of the nature of reality. 
 
-To some extent this is natural. You are focused in a daily life for a reason. You have 
-adopted it as a challenge. But within its framework you are also meant to grow and develop, and to extend the limits of your consciousness. It is very difficult to admit that you are in many ways more effective and creative in the sleep state than the waking 
-state, and somewhat shattering to admit that the dream body can indeed fly, defying 
-both time and space. It is much easier to pretend that all such experiences are symbolic 
+To some extent this is natural. You are focused in a daily life for a reason. You have adopted it as a challenge. But within its framework you are also meant to grow and develop, and to extend the limits of your consciousness. It is very difficult to admit that you are in many ways more effective and creative in the sleep state than the waking state, and somewhat shattering to admit that the dream body can indeed fly, defying both time and space. It is much easier to pretend that all such experiences are symbolic 
 and not literal, to evolve complicated psychological theories, for example, to explain 
 flying dreams. 
 

@@ -10,52 +10,25 @@ a: "Seth"
 
 
 
-In other levels of reality, the rules of the game change. After death in your terms, you  are quite free perceptively. The future appears as clearly as the past. Even this is highly 
-complicated, however, for there is not just one past. You accept as real only certain 
-classifications of events and ignore others. We have mentioned events. There are also 
-probable pasts therefore, that exist quite outside your comprehension. You choose one 
-particular group of these, and latch upon this group of events as the only ones possible, 
-not realizing that you have selected from an infinite variety of past events. 
+In other levels of reality, the rules of the game change. After death in your terms, you  are quite free perceptively. The future appears as clearly as the past. Even this is highly complicated, however, for there is not just one past. You accept as real only certain classifications of events and ignore others. We have mentioned events. 
 
-There are then, obviously, probable futures and probable presents. I am trying to 
-discuss this in your terms, since basically, you must understand, the words past," 
-"present," and "future" are no more meaningful as far as true experience is concerned 
-than are the words "ego," "conscious," or "unconscious." 
+There are also probable pasts therefore, that exist quite outside your comprehension. You choose one particular group of these, and latch upon this group of events as the only ones possible, not realizing that you have selected from an infinite variety of past events. 
 
-Not only are you part of other independent selves, each one focused in its own 
-reality, but there is a sympathetic relationship that exists. For example, because of this 
-relationship, your experience need not be limited by the physical perceptive 
-mechanisms. You can draw upon knowledge that belongs to these other independent 
-selves. You can learn to focus your attention away from physical reality, to learn new 
-methods of perception that will enable you to enlarge your concept of reality and greatly 
-expand your own experience. 
+There are then, obviously, probable futures and probable presents. I am trying to discuss this in your terms, since basically, you must understand, the words past," "present," and "future" are no more meaningful as far as true experience is concerned than are the words "ego," "conscious," or "unconscious." 
 
-It is only because you believe that physical existence is the only valid one, that it 
-does not occur to you to look for other realities. Such things as telepathy and 
-clairvoyance can give you hints of other kinds of perception, but you are also involved in 
-quite definite experiences both while you are normally waking and while you are asleep. 
+Not only are you part of other independent selves, each one focused in its own reality, but there is a sympathetic relationship that exists. For example, because of this relationship, your experience need not be limited by the physical perceptive mechanisms. You can draw upon knowledge that belongs to these other independent selves. 
 
-The so-called stream of consciousness is simply that - one small stream of thoughts, 
-images, and impressions - that is part of a much deeper river of consciousness that 
-represents your own far greater existence and experience. You spend all your time 
-examining this one small stream, so that you become hypnotized by its flow, and 
-entranced by its motion. Simultaneously these other streams of perception and con- 
-sciousness go by without your notice, yet they are very much a part of you, and they 
-represent quite valid aspects, events, actions, emotions with which you are also 
-involved in other layers of reality. 
+You can learn to focus your attention away from physical reality, to learn new methods of perception that will enable you to enlarge your concept of reality and greatly expand your own experience. 
 
-You are as actively and vividly concerned in these realities as you are in the one in 
-which your main attention is now focused. Now, as you are merely concerned with your 
-physical body and physical self as a rule, you give your attention to the stream of 
-consciousness that seems to deal with it. These other streams of consciousness, however, are connected with other self-forms that you do not perceive. The body, in 
-other words, is simply one manifestation of what you are in one reality, but in these 
-other realities you have other forms. 
+It is only because you believe that physical existence is the only valid one, that it does not occur to you to look for other realities. Such things as telepathy and clairvoyance can give you hints of other kinds of perception, but you are also involved in quite definite experiences both while you are normally waking and while you are asleep. 
 
-"You" are not divorced from these other streams of consciousness in any basic way; 
-only your focus of attention closes you off from them, and from the events in which they 
-are involved. If you think of your stream of consciousness as transparent, however, 
-then you can learn to look through and beneath it to others that lie in other beds of 
-reality. 
+The so-called stream of consciousness is simply that - one small stream of thoughts, images, and impressions - that is part of a much deeper river of consciousness that represents your own far greater existence and experience. You spend all your time examining this one small stream, so that you become hypnotized by its flow, and entranced by its motion. Simultaneously these other streams of perception and consciousness go by without your notice, yet they are very much a part of you, and they represent quite valid aspects, events, actions, emotions with which you are also involved in other layers of reality. 
+
+You are as actively and vividly concerned in these realities as you are in the one in which your main attention is now focused. Now, as you are merely concerned with your physical body and physical self as a rule, you give your attention to the stream of consciousness that seems to deal with it. These other streams of consciousness, however, are connected with other self-forms that you do not perceive. 
+
+The body, in other words, is simply one manifestation of what you are in one reality, but in these other realities you have other forms. 
+
+"You" are not divorced from these other streams of consciousness in any basic way; only your focus of attention closes you off from them, and from the events in which they are involved. If you think of your stream of consciousness as transparent, however, then you can learn to look through and beneath it to others that lie in other beds of reality. 
 
 You can also learn to rise above your present stream of consciousness and perceive others that run, for analogy's sake, parallel. The point is that you are only limited to the self you know if you think that you are, and if you do not realize that that 
 self is far from your entire identity. 
@@ -152,34 +125,40 @@ present stage of development, and it does vary. Many people take excursions into
 realities - swim, so to speak, through other streams of consciousness as a part of their 
 normal waking lives. Sometimes strange fish pop up in those waters! 
 
-Now I am obviously such a one in your terms, swimming up through other 
-dimensions of reality and observing a dimension of existence that is yours rather than 
-my own. There are, therefore, channels that exist between all these streams of 
-consciousness, all these symbolic rivers of psychological and psychic experience, and 
-there are journeys that can be made from my dimension as well as yours. 
+Now I am obviously such a one in your terms, swimming up through other dimensions of reality and observing a dimension of existence that is yours rather than my own.
 
-Now initially Ruburt and Joseph and I were a part of the same entity, or overall 
-identity, and so symbolically speaking, there are psychic currents that unite us. All of 
-these merge into what has often been compared to as an ocean of consciousness, a well 
-from which all actuality springs. Start with any one consciousness, and theoretically 
+There are, therefore, channels that exist between all these streams of consciousness, all these symbolic rivers of psychological and psychic experience, and there are journeys that can be made from my dimension as well as yours. 
+
+Initially Ruburt and Joseph and I were a part of the same entity. There are psychic currents that unite us. 
+
+All of these merge into an ocean of consciousness, a well from which all actuality springs. Start with any one consciousness, and theoretically 
 you will find all others. 
 
-Now often the ego acts as a dam, to hold back other perceptions - not because it was 
-meant to, or because it is in the nature of an ego to behave in such a fashion, or even 
-because it is a main function of an ego, but simply because you have been taught that 
-the purpose of an ego is restrictive rather than expanding. You actually imagine that 
-the ego is a very weak portion of the self, that it must defend itself against other areas 
-of the self that are far stronger and more persuasive and indeed more dangerous; and 
-so you have trained it to wear blinders, and quite against its natural inclinations. 
+Often the ego acts as a dam to hold back other perceptions. It is not because:
+- it was meant to, or
+- it is in the nature of an ego to behave in such a fashion, or
+- it is a main function of an ego
 
-The ego does want to understand and interpret physical reality, and to relate to it. It 
-wants to help you survive within physical existence, but by putting blinders upon it, 
-you hamper its perception and native flexibility. Then because it is inflexible you say 
-that this is the natural function and characteristic of the ego. 
+But it is simply because you have been taught that the purpose of an ego is restrictive rather than expanding.
 
-It cannot relate to a reality that you will not allow it to perceive. It can poorly help 
-you to survive when you do not allow it to use its abilities to discover those true 
-conditions in which it must manipulate. You put blinders upon it, and then say that it 
-cannot see. 
+You actually imagine that the ego:
+- is a very weak portion of the self
+- must defend itself against other areas of the self that are far stronger and more persuasive and more dangerous.
+
+So you have trained it to wear blinders, against its natural inclinations. 
+
+The ego wants to understand and interpret physical reality, and to relate to it. 
+
+It wants to help you survive within physical existence.
+
+But by putting blinders upon it, you hamper its perception and native flexibility.
+
+Then because it is inflexible you say that this is the natural function and characteristic of the ego. 
+
+It cannot relate to a reality that you will not allow it to perceive.
+
+It can poorly help you to survive when you do not allow it to use its abilities to discover those true conditions in which it must manipulate. 
+
+You put blinders upon it, and then say that it cannot see. 
 
 

@@ -8,77 +8,56 @@ a: "Seth"
 ---
  
 
-Within your own personality all facets of your consciousness converge, whether or 
-not you are aware of it. 
+All facets of your consciousness converge within your own personality.
 
-Consciousness can be turned in many directions, obviously, both inward and 
-outward. You are aware of fluctuations in your normal consciousness, and closer atten- 
-tion would make some of this quite clear. You expand or narrow the scope of your 
-attention constantly. You may focus upon one object almost to the exclusion of 
-everything else at times, so that you literally are not conscious of the room in which you 
-sit. 
+Consciousness can be turned in many directions, both inward and outward. 
 
-You may be "conscious" and reacting to a remembered event so strongly that you are 
-relatively unaware of present events. You take all of these fluctuations for granted. They 
-do not disturb you. If you are Lost in a book and unaware momentarily of your 
+You expand or narrow the scope of your attention constantly. You may focus on one object almost to the exclusion of everything else at times, so that you are not conscious of the room in which you sit. 
+
+You may be "conscious" and reacting to a remembered event so strongly that you are relatively unaware of present events. 
+
+You take all of these fluctuations for granted. 
+
+<!-- They do not disturb you. If you are Lost in a book and unaware momentarily of your 
 immediate environment, you are not afraid that it will be gone when you want to turn 
 your attention back to it. Nor in a daydream do you usually worry about returning 
-safely to the present moment. 
+safely to the present moment.  -->
 
-To some extent, all of these are small examples of the mobility of your 
-consciousness, and the ease with which it can be used. In a strange manner, symbols 
-can be regarded as samples of the way you perceive it various levels of consciousness. 
-Their changing guises can be used as signposts. Fire, for example, is a symbol made 
-physical, so a real fire tells you obviously that you are perceiving reality with your 
-physically attuned consciousness. 
+<!-- To some extent, all of these are small examples of the mobility of your 
+consciousness, and the ease with which it can be used. In a strange manner, -->
 
-A mental picture of a fire automatically tells you that another kind of consciousness 
-is involved. A fire mentally seen that has warmth but does not bum destructively 
-obviously means something else. All symbols are an attempt to express feelings, feelings 
-that can never be expressed adequately through language. Symbols represent the 
-infinite variations of feelings, and in various stages of consciousness these will appear 
-in different terms, but they will always accompany you. 
+Symbols can be regarded as samples of how you perceive it in various levels of consciousness. 
 
-There are several exceptions, however, in which pure knowing or pure feeling is 
-involved without the necessity for symbols. These stages of consciousness are 
-infrequent and seldom translated into normal conscious terms. 
+Their changing guises can be used as signposts. Fire, for example, is a symbol made physical, so a real fire tells you obviously that you are perceiving reality with your physically attuned consciousness. 
 
+A mental picture of a fire automatically tells you that another kind of consciousness is involved. A fire mentally seen that has warmth but does not bum destructively obviously means something else. All symbols are an attempt to express feelings, feelings 
+that can never be expressed adequately through language. Symbols represent the infinite variations of feelings, and in various stages of consciousness these will appear in different terms, but they will always accompany you. 
 
+There are several exceptions, however, in which pure knowing or pure feeling is involved without the necessity for symbols. These stages of consciousness are infrequent and seldom translated into normal conscious terms. 
 
-Let us take a particular feeling and follow it through as it might be expressed at 
+<!-- Let us take a particular feeling and follow it through as it might be expressed at 
 various levels of consciousness. Begin with a feeling of joy. In normal consciousness, 
 the immediate environment will be perceived in a far different manner than it would be, 
-say, if an individual were in a state of depression. The feeling of joy changes the objects 
-themselves, in that the perceiver sees them in a far brighter light. He creates the objects 
-far more vividly and with greater clarity. In feedback fashion, the environment then 
-seems to reinforce his joy. What he sees, however, is still physical, the objects of the 
-material world. Pretend now that he begins to daydream and falls into a reverie. Into his 
-inner mind come pictures or symbols of material objects, people or events, from 
-perhaps the past as well as present and future imaginings, the joy now being expressed 
-with greater freedom mentally, but with symbols. 
+say, if an individual were in a state of depression.  -->
 
-The joy stretches out, so to speak, into the future, sheds also its light into the past, 
-and may cover greater areas of expansion than could be shown in physical terms at 
-that moment. Now imagine that our individual from his reverie falls either into a trance 
-state or into a deep sleep. He may see images that are highly symbolic to him of joy or 
-exuberance. Logically there may be little connection between them, but intuitively the 
-connections are clear. He now enters into his mental experiences far more deeply than 
-in the reverie state, and may have a series of dream episodes in which he is able to 
-express his joy and share it with others. 
+Joy feels different from depression. The joy changes the objects themselves, in that the perceiver sees them in a far brighter light. He creates the objects far more vividly and with greater clarity. 
 
-He is still dealing with physically oriented symbols, however. Now since we are using 
-this discussion as a case in point we will continue to follow it even further. He may form 
-images of dream cities or people that are of a very joyful nature, translate the emotion 
-itself into whatever symbols are pertinent to him. An exuberance may be translated into 
-images of playing animals, flying people, or animals or landscapes of great beauty. 
-Again, the logical connections will be lacking, but the entire episode will be connected 
-by this emotion. 
+In feedback fashion, the environment then seems to reinforce his joy. What he sees, however, is still physical, the objects of the material world. 
 
-The physical body all the while is greatly benefitted, because the beneficial feelings 
-automatically renew and replenish its recuperative abilities. The feelings of joy now may 
-lead to images of Christ, Buddha, or the prophets. These symbols are the changing 
-scenes characteristic of consciousness at various stages. The experiences are to be 
-considered as creations; creative acts all native to consciousness at various stages. 
+Pretend now that he begins to daydream and falls into a reverie. Into his inner mind come pictures or symbols of material objects, people or events, from perhaps the past as well as present and future imaginings, the joy now being expressed with greater freedom mentally, but with symbols. 
+
+The joy stretches out, so to speak, into the future, sheds also its light into the past, and may cover greater areas of expansion than could be shown in physical terms at that moment. Now imagine that our individual from his reverie falls either into a trance 
+state or into a deep sleep. 
+
+He may see images that are highly symbolic to him of joy or exuberance. Logically there may be little connection between them, but intuitively the connections are clear. 
+
+He now enters into his mental experiences far more deeply than in the reverie state, and may have a series of dream episodes in which he is able to express his joy and share it with others. 
+
+He is still dealing with physically oriented symbols, however. Now since we are using this discussion as a case in point we will continue to follow it even further. He may form images of dream cities or people that are of a very joyful nature, translate the emotion itself into whatever symbols are pertinent to him. An exuberance may be translated into images of playing animals, flying people, or animals or landscapes of great beauty. 
+
+Again, the logical connections will be lacking, but the entire episode will be connected by this emotion. 
+
+The physical body all the while is greatly benefitted, because the beneficial feelings automatically renew and replenish its recuperative abilities. The feelings of joy now may lead to images of Christ, Buddha, or the prophets. These symbols are the changing scenes characteristic of consciousness at various stages. The experiences are to be considered as creations; creative acts all native to consciousness at various stages. 
 
 Beyond this are states in which the symbols themselves begin to fade away, become 
 indistinct, distant. Here you begin to draw into regions of consciousness in which 
@@ -308,12 +287,7 @@ symbol bank as far as your present life is concerned.
 
 There is a great unity between your daytime symbols and your dreaming ones. In a 
 miraculous shorthand, many symbols carry the burden of far more than one 
-experience, of course, and one symbol will therefore evoke not only one given 
-
-
-
-experience, but similar ones. Personal association, therefore, is highly involved with 
-your personal bank of symbols, and it operates in the dream states precisely as In 
+experience, of course, and one symbol will therefore evoke not only one given experience, but similar ones. Personal association, therefore, is highly involved with your personal bank of symbols, and it operates in the dream states precisely as In 
 waking life - but with greater freedom, and drawing from the future, in your terms, as 
 well as from the past. 
 
@@ -321,7 +295,7 @@ Therefore, you have greater use of symbolism in the dream state, for you are awa
 past and future symbols. These vary in intensity; Often they cluster together. Such 
 multidimensional symbols will appear then in many ways, not simply visually. They will 
 affect not only your own Physical reality, but all realities in which you are involved. In a 
-manner f speaking the symbols that you know are but the tail end of greater symbols. 
+manner of speaking the symbols that you know are but the tail end of greater symbols. 
 
 Resume dictation. When I referred to your personal bank of symbols, I meant to 
 specify that this bank was yours from the day of your birth and before. It contained the 
@@ -362,12 +336,7 @@ as you know it unconsciously, and any one multidimensional symbol can contain al
 the reality that you know. 
 
 Physically, smell, sight, and sound are combined together to give you your main 
-sense data and compose your physical senses. At other levels, however, these are 
-
-
-
-separated. Odors therefore have a visual reality, and, as you know, visual data can also 
-be perceived in terms of other sense perceptions. 
+sense data and compose your physical senses. At other levels, however, these are separated. Odors therefore have a visual reality, and, as you know, visual data can also be perceived in terms of other sense perceptions. 
 
 The symbols can come together or fly apart, can be perceived separately or as a 
 unity. As each event has its own symbol for you, so you have your characteristic way of 
@@ -417,8 +386,6 @@ used, not only in your system but in others. As mentioned earlier, no system of 
 is closed. Your thoughts and images and feelings therefore alter the given sense data in 
 some other systems. 
 
-
-
 The innovative patterns developed in those systems, however, can be to some extent 
 perceived within your own. There are constant bleed-throughs. In your various stages of 
 consciousness you pass through areas that can be correlated with many of these 
@@ -453,10 +420,10 @@ is either too quick or too slow for the particular psychological environment in 
 dwell. 
 
 Pauses then occur. To put it as simply as possible, there is an almost inconceivable 
-moment in which a no-reality occurs, in which 
+moment in which a no-reality occurs, in which a symbol is caught between motion and no motion, a time of uncertainty. This is of 
+course translated in many ways, and reflected. 
 
-a symbol is caught between motion and no motion, a time of uncertainty. This is of 
-course translated in many ways, and reflected. In such periods, certain symbols can be 
+In such periods, certain symbols can be 
 lost to all intents and purposes, dropping out of an individual's experience, leaving gaps 
 of inertia. 
 
@@ -470,12 +437,7 @@ reality in which nothing appears and no signs of any consciousness outside of yo
 is apparent. 
 
 Such blank spots can be seeded with new symbols, and are often used as channels 
-through which new creative ideas and inventions are inserted. These gaps are 
-
-
-
-recognized by others, therefore, and viewed as dark spaces. They also represent areas of 
-no resistance for those mind-travelers who are probing inner realities. They represent 
+through which new creative ideas and inventions are inserted. These gaps are recognized by others, therefore, and viewed as dark spaces. They also represent areas of no resistance for those mind-travelers who are probing inner realities. They represent 
 uncluttered areas, but also open channels, inactive in themselves but passively waiting. 
 Now some symbols also wait in such a passive manner to be activated. 
 
