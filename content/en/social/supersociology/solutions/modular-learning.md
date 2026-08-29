@@ -7,7 +7,7 @@ description: "Learning points allow modular learning to make education faster an
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 draft: true
 ---
 

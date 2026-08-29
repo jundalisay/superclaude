@@ -88,7 +88,7 @@ Hume explains that this is because the mind has a tendency to stitch together th
 
 This then makes the stitched-identity an illusion. Instead, the diversity is the real phenomenon, consistent with Hindu philosophy:
 
-{{< q a="Brihadaranyaka Upanishad" c="1.4.7" >}}
+{{< q a="Brihadaranyaka Upanishad" c="1.4.7" v="<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500' width='100%' height='100%'> <g fill='#666666'> <path d='M 190 140 C 240 130 260 170 230 210 C 210 235 185 240 165 245 C 210 245 260 270 250 340 C 240 410 160 440 90 380 C 70 360 55 330 45 290 C 55 320 75 350 100 365 C 140 390 195 380 205 330 C 215 280 165 265 130 265 C 145 250 175 245 190 220 C 205 195 190 165 155 165 C 125 165 100 180 80 205 C 85 180 110 145 150 140 C 165 138 180 138 190 140 Z' /> <path d='M 230 260 C 280 210 370 200 420 250 C 470 300 460 370 380 400 C 330 420 290 380 310 340 C 330 300 390 300 405 335 C 415 360 395 380 370 380 C 420 360 425 310 395 275 C 360 235 290 240 250 280 Z' /> <path d='M 195 60 C 250 80 330 110 390 110 C 330 130 240 130 195 105 C 240 120 310 120 360 100 C 310 95 240 75 195 60 Z' /> <polygon points='295,25 310,50 295,75 280,50' /> </g> </svg>" >}}
 This (universe) was then undifferentiated. It differentiated only into name and form—it was called such and such, and was of such and such form. This Self has entered into these bodies up to the tip of the nails.. The Self alone is to be meditated upon, for all these are unified in It.]
 {{< /q >}}
 

@@ -8,7 +8,7 @@ image: "/photos/social/police"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 

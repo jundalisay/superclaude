@@ -6,7 +6,7 @@ description: "Confirmation Elections are Adam Smith's solution to votes being sp
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 draft: true
 ---
 

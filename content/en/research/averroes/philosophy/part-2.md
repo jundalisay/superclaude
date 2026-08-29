@@ -83,7 +83,7 @@ This is obviously a misleading sect.
 
 The people have been called by the Quran to verify the existence of the Creator by arguments of reason which are mentioned in it: 
 
-{{< l a="Mohammad" >}}
+{{< l a="Mohammad" v="<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='100%' height='100%'> <path d='M 50 15 C 40 15 36 21 35 29 C 34 37 36 44 38 48 C 40 52 39 57 36 62 C 31 70 20 73 10 79 L 10 85 L 90 85 L 90 79 C 80 73 69 70 64 62 C 61 57 60 52 62 48 C 64 44 66 37 65 29 C 64 21 60 15 50 15 Z' fill='#2d4356' /> </svg>">}}
 “O men of Mecca, serve your Lord who has created you and those before you,”[26] and “Is there any doubt concerning God, the Creator of heaven and earth?”[27]
 {{< /l >}}
 

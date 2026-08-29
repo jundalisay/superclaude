@@ -43,6 +43,7 @@ Vl3,t = Vli,t / P
 For example, the table below shows the economy growing by 1 unit each year. But it exposes an imbalance favoring market price at year 3. Thus, even if the consolidated price shows growth, the third law exposes market price as being unnatural -- it overfeeds the merchant class and starves the working class.
 
 Year | Total Value of Economy | Nominal | Real | Market
+--- | --- | --- |--- | ---
 1 | 10 | 3 | 4 | 3
 2 | 11 | 3 | 4 | 4
 3 | 12 | 2 | 3 | 7

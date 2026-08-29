@@ -2,7 +2,7 @@
 title: "Vietnam"
 # date: 2021-07-27
 date: 2024-02-26
-image: "/flags/vn.png"
+s: "<svg viewBox='0 0 30 20' xmlns='http://www.w3.org/2000/svg' version='1.1'> <rect width='30' height='20' fill='#da251d'/> <polygon points='15,4 11.47,14.85 20.71,8.15 9.29,8.15 18.53,14.85' fill='#ff0'/> </svg>"
 # description: "The social cycles of Ukraine is yet to be determined"
 writer:
   name: Juan

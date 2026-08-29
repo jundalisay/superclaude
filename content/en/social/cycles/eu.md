@@ -1,5 +1,5 @@
 ---
-title: "How to Fix the EU"
+title: "EU"
 # heading: "Worker"
 linkTitle: EU
 date: 2025-01-06
@@ -19,7 +19,9 @@ Current Cycle | Years per Cycle | Social Age
 Trader | ? | ? 
 
 
-The decline of the EU is consistent with the decline of the Trading Class
+## How to Fix the
+
+The decline of the EU is consistent with the decline of the Trading Class.
 
 
 ### History of the EU

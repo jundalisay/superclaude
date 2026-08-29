@@ -8,7 +8,7 @@ description: "The Executive Branch Represents the Leaders and Warriors"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 

@@ -4,7 +4,7 @@ date: 2026-05-31
 c: "teal"
 image: /graphics/math.jpg
 description: "FAQ on Supermath"
-icon: "Supermath"
+s: "<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>"
 weight: 600
 toc: false
 ---
@@ -14,7 +14,7 @@ toc: false
 What is Supermath?
 {{< /r >}}
 
-{{< l a="Supermath" >}}
+{{< l a="Supermath" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>" >}}
 Supermath is mathematics based on identities. Supermath is for discrete identities as particles, while Qualimath is for pure identities as waves.
 {{< /l >}}
 
@@ -24,7 +24,7 @@ What is a pure identity?
 {{< /r >}}
 
 
-{{< l a="Supermath" >}}
+{{< l a="Supermath" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>" >}}
 A pure identity is an identity that has less disconnection and therefore more relationality. This is from the Cartesian Paradigm where everything is filled with a plenum or an aethereal God susbtance, called citta in Asian Physics.
 
 A pure identity is crudified by the Negative force into normal identities which is what is operated on by mathematics as numerical identities. 
@@ -36,7 +36,7 @@ What's the difference between math and supermath?
 {{< /r >}}
 
 
-{{< l a="Supermath" >}}
+{{< l a="Supermath" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>" >}}
 A pure identity is an identity that has less disconnection and therefore more relationality. This is from the Cartesian Paradigm where everything is filled with a plenum or an aethereal God susbtance, called citta in Asian Physics.
 
 A pure identity is crudified by the Negative force into normal identities which is what is operated on by mathematics as numerical identities. Supermath has relationality by default. Math does not. 
@@ -48,7 +48,7 @@ How sure are you that Supermath is correct?
 {{< /r >}}
 
 
-{{< l a="Supermath" >}}
+{{< l a="Supermath" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>" >}}
 Because we noticed it matches the math of an advanced alien race called the Sassani. It proves that it is based on universal principles, unlike math which is stuck on paradoxes like the 7 problems of the Millennium Prize. 
 {{< /l >}}
 
@@ -63,7 +63,7 @@ Why are you taking so long to develop Supermath and Qualimath?
 {{< /r >}}
 
 
-{{< l a="Supermath" >}}
+{{< l a="Supermath" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>" >}}
 Because we are basing it on the real world. The whole point of Supermath is to lead to Qualimath. The whole point of Qualimath is to discover the objective relationalities between materials such as aluminum, copper, iron, for Material Superphysics or a tomato plant and a basil plant for Bio Superphysics, or the marriage compatibility between John and Mary for marriage under Supersociology. 
 
 We have a bit of data for plants and people and societies, but none yet for materials. The problem with materials is that the relationalities have to be very precise and we don't have the equipment or the time for such rigor. 

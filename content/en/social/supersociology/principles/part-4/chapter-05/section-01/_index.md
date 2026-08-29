@@ -8,5 +8,5 @@ description: "The Judicial Branch Represents the Thinkers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---

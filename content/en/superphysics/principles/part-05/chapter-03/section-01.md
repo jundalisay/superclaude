@@ -26,6 +26,7 @@ For example, 3 waves intersect creates a spatial hexagon or a linear triangle.
 {{< i s="/graphics/super/hex.jpg" a="Hex" >}}
 
 
+
 ## Vortices: Positive and Negative Direction
 
 At its most basic configuration, only 2 waves go against each other as a Positive Wave and a Negative Wave. 
@@ -40,7 +41,8 @@ This Positive Direction was noted by the ancient Vedics as the swastika symbol.
 - ka (-क) is a suffix that forms a noun.
 
 
-{{< i s="/icons/swasti.png" a="Swastika" >}}
+<svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100px" height="100px"> <g fill="none" stroke="#be1111" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"> <path d="M 50,50 L 20,50 C 15,50 15,10 5,10" /> <path d="M 50,50 L 50,20 C 50,15 90,15 95,5" /> <path d="M 50,50 L 80,50 C 85,50 85,90 95,90" /> <path d="M 50,50 L 50,80 C 50,85 10,85 5,95" /> </g> <g fill="#be1111"> <circle cx="30" cy="27" r="5.5" /> <circle cx="70" cy="27" r="5.5" /> <circle cx="30" cy="65" r="5.5" /> <circle cx="70" cy="65" r="5.5" /> </g> </svg>
+
 
 - If the Negative Wave is more powerful, then it will be on top and the flow will be clockwise. We call this a Negative Direction.
 
@@ -77,7 +79,8 @@ Taoism on the other hand emphasizes the 2 Forces called:
 
 Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a **counterclockwise or Positive direction**. 
 
-{{< i s="/icons/tao.png" a="Yin Yang" >}}
+<svg class="mx-auto" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"> <circle cx="50" cy="50" r="45" fill="#00a88f" /> <circle cx="50" cy="50" r="37" fill="#f4f5f6" /> <path d="M 50 13 A 37 37 0 0 0 50 87 A 18.5 18.5 0 0 0 50 50 A 18.5 18.5 0 0 1 50 13 Z" fill="#384047" /> <circle cx="50" cy="31.5" r="6" fill="#384047" /> <circle cx="50" cy="68.5" r="6" fill="#f4f5f6" /> </svg>
+
 
 This is proven by most of the planets in our solar system rotating in counterclockwise direction. Venus was once habitable when it rotated counterclockwise. We hypothesize that it became hell when it flipped into a clockwise direction.
 

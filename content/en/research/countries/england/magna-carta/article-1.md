@@ -4,12 +4,12 @@ weight: 2
 # date: 2022-01-31
 description: The Magna Carta
 author: "King John"
-icon: England
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900' width='100%' height='100%'> <rect width='1600' height='900' fill='#FFFFFF'/> <rect x='680' y='0' width='240' height='900' fill='#CE1124'/> <rect x='0' y='330' width='1600' height='240' fill='#CE1124'/> </svg>"
 ---
 
 
 
-The following rights are to be followed forever= 
+The following rights are to be followed forever:
 
 
 **Article 1**

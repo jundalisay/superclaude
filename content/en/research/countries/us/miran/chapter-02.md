@@ -61,7 +61,7 @@ Such problems are compounded by aggressive Chinese espionage.
 
 According to the Wall Street Journal, in September alone:
 
-{{< q a="Wall Street Journal" >}}
+{{< q a="Wall Street Journal" v="<svg width='100%' height='100%' viewBox='0 0 500 300' xmlns='http://www.w3.org/2000/svg'><style>@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&amp;display=swap');.title{font-family:'Playfair Display', Georgia, serif;font-weight:900;font-size:31px;fill:#000000;letter-spacing:1px;}.monogram{font-family:'Playfair Display', Georgia, serif;font-weight:900;font-size:245px;fill:#000000;letter-spacing:-4px;}</style><text x='250' y='62' text-anchor='middle' class='title'>THE WALL STREET JOURNAL.</text><text x='250' y='260' text-anchor='middle' class='monogram'>WSJ</text></svg>" >}}
 the FBI said a Chinese state-linked firm hacked 260,000 internet-connected devices, including cameras and routers, in the U.S., Britain, France, Romania, etc. A Congressional probe said Chinese cargo cranes used at U.S. seaports had embedded technology that could allow Beijing to secretly control them.” 
 {{< /q >}}
 

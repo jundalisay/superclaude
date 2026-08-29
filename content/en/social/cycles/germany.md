@@ -1,9 +1,9 @@
 ---
-title: "How to Fix Germany"
+title: "Germany"
 # heading: "Negative Thinker"
 date: 2025-01-03
 # date: 2024-07-15
-image: "/flags/de.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 5 3'> <desc>Flag of Germany</desc> <rect id='black_stripe' width='5' height='3' y='0' x='0' fill='#000'/> <rect id='red_stripe' width='5' height='2' y='1' x='0' fill='#D00'/> <rect id='gold_stripe' width='5' height='1' y='2' x='0' fill='#FFCE00'/> </svg>"
 description: "The best solution for Germany is the left-wing BSW party led by Sahra Wagenknecht."
 writer:
   name: Juan
@@ -16,6 +16,11 @@ weight: 93
 2005-2021 worker merkel
 2022-     warrior -->
 
+
+<!-- <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 5 3'> <desc>Flag of Germany</desc> <rect id='black_stripe' width='5' height='3' y='0' x='0' fill='#000'/> <rect id='red_stripe' width='5' height='2' y='1' x='0' fill='#D00'/> <rect id='gold_stripe' width='5' height='1' y='2' x='0' fill='#FFCE00'/> </svg> -->
+
+
+## How to Fix Germany
 
 The current decline of Germany, made obvious by the collapse of its government, comes from the wrong policies of the Merkel era -- it is strange how Germany wasted away its nuclear energy and heavy industries.
 
@@ -31,7 +36,10 @@ After unification:
 - the liberal policy privatized industry for dependence to Western capital markets
 - the socialist policy stifled energy for dependence to Russia
 
-{{< i s="/flags/de.png" a="Germany" >}}
+
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 5 3' width="400" class="mx-auto"> <desc>Flag of Germany</desc> <rect id='black_stripe' width='5' height='3' y='0' x='0' fill='#000'/> <rect id='red_stripe' width='5' height='2' y='1' x='0' fill='#D00'/> <rect id='gold_stripe' width='5' height='1' y='2' x='0' fill='#FFCE00'/> </svg>
+
+
 
 
 So these 2 forces merge and mutate into Merkel's weird policies that are now destroying Germany.

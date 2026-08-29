@@ -1,10 +1,9 @@
 ---
 title: "Is it correct for the United States to abduct Maduro?"
-# date: 2021-08-16
-date: 2021-09-18
-weight: 2
-image: "/flags/ve.png"
-# description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
+date: 2026-01-08
+weight: 21
+s: "<svg xmlns='http://www.w3.org/2000/svg' version='1.1' viewBox='0 0 180 120'> <defs> <g id='d' transform='translate(0 -36)'> <g id='c'> <g id='b'> <path d='M0,-5V0H3z' fill='#fff' transform='rotate(18 0 -5)' id='a'/> <use xlink:href='#a' transform='scale(-1 1)'/> </g> <use xlink:href='#b' transform='rotate(72)'/> </g> <use xlink:href='#b' transform='rotate(-72)'/> <use xlink:href='#c' transform='rotate(144)'/> </g> </defs> <path d='M 0,0 H 180 V 120 H 0 Z' fill='#cf142b'/> <path d='M 0,80 H 180 V 0 H 0 Z' fill='#00247d'/> <path d='M 0,0 H 180 V 40 H 0 Z' fill='#fc0'/> <g transform='translate(0 .2422087)' stroke-width='0.96302092'> <use xlink:href='#d' transform='rotate(-70 105.506451 -23.4739353) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-45.93376 147.3700758 -62.4017001) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-30 205.590447 -127.0402897) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-10 537.6970712 -472.5906531) scale(1.0383988)' width='100%' height='100%'/> <g transform='matrix(-1 0 0 1 180.05129 .0000092)'> <use xlink:href='#d' transform='rotate(-70 105.506451 -23.4739353) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-45.93376 147.3700758 -62.4017001) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-30 205.590447 -127.0402897) scale(1.0383988)' width='100%' height='100%'/> <use xlink:href='#d' transform='rotate(-10 537.6970712 -472.5906531) scale(1.0383988)' width='100%' height='100%'/> </g> </g> </svg>"
+description : ""
 ---
 
 

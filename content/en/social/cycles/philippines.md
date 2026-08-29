@@ -9,7 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 155
-sicon: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1200' height='600' viewBox='-28 -45 180 90' fill='#fcd116'> <title>Flag of the Philippines</title> <path fill='#0038a8' d='m-28-45h180V0L0 44z'/> <path fill='#ce1126' d='m0 0h152v45H-28z'/> <path fill='#fff' d='m49.942 0L-28 45v-90z'/> <circle r='9'/> <g id='c'> <g id='b'> <path id='a' d='m0 0-3.164-15.909.945-.946zl-1.169-17.831L0-19l1.169 1.169zl2.219-16.855.945.946z'/> <use transform='scale(-1)' xlink:href='#a'/> </g> <use transform='rotate(90)' xlink:href='#b'/> </g> <use transform='rotate(45)' xlink:href='#c'/> <path id='s' d='m40.942 0-3.382 1.176L37.487 4.755l-2.163-2.853-3.427 1.037L33.942 0l-2.045-2.939 3.427 1.037 2.163-2.853L37.56-1.176z'/> <use transform='rotate(120,-2.019,0)' xlink:href='#s'/> <use transform='rotate(240,-2.019,0)' xlink:href='#s'/> </svg>"
+sicon: "<svg width='100' viewBox='-28 -45 180 90' fill='#fcd116'> <title>Flag of the Philippines</title> <path fill='#0038a8' d='m-28-45h180V0L0 44z'/> <path fill='#ce1126' d='m0 0h152v45H-28z'/> <path fill='#fff' d='m49.942 0L-28 45v-90z'/> <circle r='9'/> <g id='c'> <g id='b'> <path id='a' d='m0 0-3.164-15.909.945-.946zl-1.169-17.831L0-19l1.169 1.169zl2.219-16.855.945.946z'/> <use transform='scale(-1)' xlink:href='#a'/> </g> <use transform='rotate(90)' xlink:href='#b'/> </g> <use transform='rotate(45)' xlink:href='#c'/> <path id='s' d='m40.942 0-3.382 1.176L37.487 4.755l-2.163-2.853-3.427 1.037L33.942 0l-2.045-2.939 3.427 1.037 2.163-2.853L37.56-1.176z'/> <use transform='rotate(120,-2.019,0)' xlink:href='#s'/> <use transform='rotate(240,-2.019,0)' xlink:href='#s'/> </svg>"
 aliases:
   /maharlikanism
 ---
@@ -21,8 +21,8 @@ Current Cycle | Years per Cycle | Social Age
 Positive Warrior  | 12 | 5.5
 
 
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='20' fill='#0038A8'/><rect y='20' width='60' height='20' fill='#CE1126'/><path d='M0 0l30 20L0 40z' fill='#fff'/><path d='M10 14l1 3h3l-2 2 1 3-3-2-3 2 1-3-2-2h3z' fill='#FCD116'/><circle cx='10' cy='27' r='3' fill='#FCD116'/></svg>
 
-{{< i s="/flags/ph.png" a="Philippine Flag" >}}
 
 <!-- The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian , which is embodied in the neoliberal economic plan called . -->
 

@@ -8,7 +8,7 @@ description: "The Self-Regulation espoused by Adam Smith and David Hume requires
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 

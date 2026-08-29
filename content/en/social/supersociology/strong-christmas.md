@@ -7,7 +7,6 @@ description: "As we go through the first parts of the crisis years, we wish ever
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/xmastree.png
 ---
 
 

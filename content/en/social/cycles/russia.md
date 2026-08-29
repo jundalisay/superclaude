@@ -5,7 +5,7 @@ heading: "Negative Warrior"
 # date: 2021-07-27
 date: 2022-03-05
 weight: 161
-image: "/flags/ru.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 9 6'><rect fill='#fff' width='9' height='3'/><rect fill='#d52b1e' y='3' width='9' height='3'/><rect fill='#0039a6' y='2' width='9' height='2'/></svg>"
 description: "The social cycles of Russia last 15 years"
 writer:
   name: Juan

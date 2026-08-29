@@ -3577,6 +3577,15 @@
   .\[\&\:\:-webkit-details-marker\]\:hidden::-webkit-details-marker {
     display: none;
   }
+  .\[\&\>svg\]\:h-full > svg {
+    height: 100%;
+  }
+  .\[\&\>svg\]\:w-full > svg {
+    width: 100%;
+  }
+  .\[\&\>svg\]\:object-cover > svg {
+    object-fit: cover;
+  }
 }
 .dark {
   --color-sp-bg: #000;

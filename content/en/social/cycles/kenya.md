@@ -2,12 +2,13 @@
 title: "Kenya"
 date: 2020-09-23
 draft: true
-s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'><rect width='60' height='13' fill='#000'/><rect y='13' width='60' height='14' fill='#BB0000'/><rect y='27' width='60' height='13' fill='#006600'/><rect y='15' width='60' height='4' fill='#fff'/><rect y='21' width='60' height='4' fill='#fff'/><path d='M30 10l3 6 4-2-3 6 5 0-5 5 3 5-4-2-3 6-3-6-4 2 3-5-5-5 5 0-3-6 4 2z' fill='#fff'/><path d='M30 14l2 5 3-1-2 5 4 0-4 4 2 5-3-1-2 5-2-5-3 1 2-5-4-4 4 0-2-5 3 1z' fill='#BB0000'/></svg>"
+s: "<svg viewBox='-120 -80 240 160'> <defs> <path id='A' stroke-miterlimit='10' d='M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z' transform='rotate(30)'/> </defs> <path fill='#fff' d='M-120-80h240V80h-240z'/> <path d='M-120-80h240v48h-240z'/> <path fill='#060' d='M-120 32h240v48h-240z'/> <g id='B'> <use xlink:href='#A' stroke='#000'/> <use xlink:href='#A' fill='#fff'/> </g> <use xlink:href='#B' transform='scale(-1 1)'/> <path fill='#b00' d='M-120-24v48h101c3 8 13 24 19 24s16-16 19-24h101v-48H19C16-32 6-48 0-48s-16 16-19 24z'/> <path id='C' d='M19 24c3-8 5-16 5-24s-2-16-5-24c-3 8-5 16-5 24s2 16 5 24'/> <use xlink:href='#C' transform='scale(-1 1)'/> <g fill='#fff'> <ellipse rx='4' ry='6'/> <path id='D' d='M1 5.85s4 8 4 21-4 21-4 21z'/> <use xlink:href='#D' transform='scale(-1)'/> <use xlink:href='#D' transform='scale(-1 1)'/> <use xlink:href='#D' transform='scale(1 -1)'/> </g> </svg>"
 description : ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 97
+sicon: "<svg width='100' height='66.67' viewBox='-120 -80 240 160'> <defs> <path id='A' stroke-miterlimit='10' d='M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z' transform='rotate(30)'/> </defs> <path fill='#fff' d='M-120-80h240V80h-240z'/> <path d='M-120-80h240v48h-240z'/> <path fill='#060' d='M-120 32h240v48h-240z'/> <g id='B'> <use xlink:href='#A' stroke='#000'/> <use xlink:href='#A' fill='#fff'/> </g> <use xlink:href='#B' transform='scale(-1 1)'/> <path fill='#b00' d='M-120-24v48h101c3 8 13 24 19 24s16-16 19-24h101v-48H19C16-32 6-48 0-48s-16 16-19 24z'/> <path id='C' d='M19 24c3-8 5-16 5-24s-2-16-5-24c-3 8-5 16-5 24s2 16 5 24'/> <use xlink:href='#C' transform='scale(-1 1)'/> <g fill='#fff'> <ellipse rx='4' ry='6'/> <path id='D' d='M1 5.85s4 8 4 21-4 21-4 21z'/> <use xlink:href='#D' transform='scale(-1)'/> <use xlink:href='#D' transform='scale(-1 1)'/> <use xlink:href='#D' transform='scale(1 -1)'/> </g> </svg>"
 ---
 
 

@@ -51,7 +51,7 @@ The Drug dismayed, rushed away, the demon Bûiti, the unseen death, the hell-bor
 <sup>3</sup> (7). And the Drug said unto Angra Mainyu: 
 
 
-{{< r a="Drug" >}}
+{{< r a="Drug" v="" >}}
 O baneful Angra Mainyu! I see no way to kill him, so great is the glory of the holy Zarathustra.
 {{< /r >}}
 

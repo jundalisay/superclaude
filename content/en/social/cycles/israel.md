@@ -1,6 +1,5 @@
 ---
-title: "How to Fix Israel"
-linkTitle: Israel
+title: "Israel"
 heading: "Negative Thinker"
 # date: 2021-07-27
 # date: 2023-07-27
@@ -21,6 +20,9 @@ Negative Thinker  | 12 | 3 | 2 | 5
 
 {{< i s="/flags/il.png" a="Israeli Flag" >}}
 
+
+
+## How to Fix Israel
 
 Israel is the easiest country to plot because its history has been recorded by both the Romans and Arabs.
 

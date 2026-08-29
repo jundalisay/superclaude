@@ -3,9 +3,8 @@ title: "Supereconomics FAQ"
 date: 2024-07-17
 c: "teal"
 image: /graphics/econ.jpg
-a: Supereconomics
 description: "FAQ on Supereconomics"
-icon: "Supereconomics"
+sicon: "<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>"
 weight: 200
 toc: false
 ---
@@ -17,7 +16,7 @@ What is Supereconomics?
 <!-- - Socrates' True Nature and Law of Social Cycles
 - Adam Smith's Wealth of Nations which is derived from David Hume's Labour Theory of Value
 - Vedic Varnashrama system -->
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 It's the implementation of Superphysics for economics. It's based on the 4 Laws of Value which we derived from the 4 Laws of Thermodynamics which exists from the wave nature of the universe.
 
 Basically, we equate energy with the desire to supply and demand goods and services. In this way, a supereconomy can run continuously without overheating or stalling without any blockages from inequality or deficiencies form poverty.
@@ -36,7 +35,7 @@ Is Supereconomics capitalist or communist or socialist?
 
 
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 Neither. It's natural or dharmic economics. For example, a forest will optimize itself without any philosophy behind it other than having water, nutrients, air -- things that living things need. 
 
 Communism is wrong because it focuses on control of the whole instead of productivity. 
@@ -54,7 +53,7 @@ We solve the problems of both by having Minimum Needs as the floor (to prevent C
 How Does Minimum Needs Work?
 {{< /r >}}
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 It's based on the Supersociology definition of a society as a single metaphysical organism. Basically, everyone is important and so their minimum needs must be met. This is lacking in modern economics which is based on Selfish-interest. 
 
 In Economics, no one cares if people starve. Supreconomics on the other hand cares for its members.
@@ -67,7 +66,7 @@ In Economics, no one cares if people starve. Supreconomics on the other hand car
 Is it a welfare state? What about the lazy and stupid people that don't want to work? 
 {{< /r >}}
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 You can say its an "exchange" state. Everyone can do something and so the supereconomy will provide for them if they can provide some service in return. Currently, exchange uses money. Our system is different because it allows barter aside from money. 
 
 Barter for wealth creation has been proven by Kyle MacDonald and Demi Skipper who traded a paper clip and bobby pin for a house.    
@@ -100,7 +99,7 @@ What are bilateral and multilateral clearing?
 {{< /r >}}
 
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 Barter credits are debt which need to be cleared. If I borrow a pen from you, I have to give it back eventually. 
 
 I **clear** my obligation to you after I return your pen. So clearing means to pay off debts, render the required service, give back what is owed, etc. 
@@ -114,7 +113,7 @@ Can you give an example of points banking and multilateral clearing?
 {{< /r >}}
 
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 For example, I grow tomatoes and give them to a barber in exchange for a haircut every month or so. But he doesn't need so many tomatoes. So I give my tomatoes to the points banker for him to give them to someone who needs them, such as a restaurant. 
 
 The restaurant then gives me cooked food to pay for my tomatoes. The service of vetting the restaurant and getting all parties to agree is the job of the points banker. In exchange for this service, he gets a cut of the goods and services that are circulated between the parties. 
@@ -129,7 +128,7 @@ That's just trade. How can barter be used for capital and production? People pro
 {{< /r >}}
 
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 Investors can give their machines, equipment, property, etc in exchange for a supply of products from the company that they will invest in. They can then consign those to a retailer for a stream of cash, or use or sell them themselves. 
 
 In this way, the company doesn't need to have so much cash just to get started. Cash will really be more for operations instead of capital expenses.
@@ -141,7 +140,7 @@ So you're saying the investor will be paid in goods which they will pick up, sto
 <!-- That's just trade. How can barter be used for capital and production? People produce to get money, not for getting stuff that they might not need.  -->
 {{< /r >}}
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 Yes and no. Their debtors will pay goods into the investors' account with a Points Banker.
 
 The Points Banker will then find someone who wants those goods, getting either cash or other goods in exchange. In this way, the Points Banker will be the nexus not only for supply and demand, but also for taxation. 
@@ -153,7 +152,7 @@ How can a barter credit system be used for taxation?
 {{< /r >}}
 
 
-{{< l a="Supereconomics" >}}
+{{< l a="Supereconomics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><style>.num{font-family:'Arial Round MT Bold', 'Nunito', 'Segoe UI', sans-serif;font-weight:bold;}</style><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='48.2' width='100' height='3.6' fill='black'/><circle cx='50' cy='50' r='21' fill='black'/></mask></defs><path d='M 50,2 L 98,50 L 2,50 Z' fill='#027D51' mask='url(#cutout)'/><path d='M 2,50 L 98,50 L 50,98 Z' fill='#00C8A0' mask='url(#cutout)'/><polygon points='50,2 98,50 50,98 2,50' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linejoin='round'/><line x1='2' y1='50' x2='98' y2='50' stroke='#FFFFFF' stroke-width='1.8'/><circle cx='50' cy='50' r='21' fill='#FFFFFF'/><text x='50' y='67.5' text-anchor='middle' fill='#FF8C00' class='num' font-size='16'>1</text><text x='61.5' y='56.5' text-anchor='middle' fill='#D84315' class='num' font-size='18'>2</text><text x='49.5' y='47.5' text-anchor='middle' fill='#0072CE' class='num' font-size='17'>3</text><text x='36' y='56.5' text-anchor='middle' fill='#2E7D32' class='num' font-size='18'>4</text></svg>" >}}
 The tool of trade gets information of the supply and demand in realtime. This lets the companies and the government know the actual supply and demand, as well as forecasts. For offline cards, the "points banker" will get the data. 
 {{< /l >}}
 

@@ -8,7 +8,7 @@ description: "We propose a Fourth Branch of Government called the Resources bran
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 

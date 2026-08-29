@@ -13,7 +13,7 @@ Come and I'll teach you about the mysteries that no human will see, because ther
 A luminous cloud (Spirit) appeared there. He said:
 {{< /l >}}
 
-{{< r a="Spirit" >}}
+{{< r a="Spirit" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect width='100' height='100' fill='#FFD700'/></svg>" >}}
 Let an angel come into being to attend me.
 {{< /r >}}
 
@@ -21,19 +21,19 @@ Let an angel come into being to attend me.
 A great angel, the Self-Begotten, the God of the Light, emerged from the cloud. Because of him, another 4 angels came into being from another cloud. They attended the angelic Self-Begotten.
 
 
-{{< l a="Self-Begotten" >}}
+{{< l a="Self-Begotten" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect width='100' height='100' fill='#FFD700'/></svg>" >}}
 Let a realm come into being. 
 {{< /l >}}
 
 And it came into being just as he said. He created the first luminary to rule over it.
 
-{{< l a="Self-Begotten" >}}
+{{< l a="Self-Begotten" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect width='100' height='100' fill='#FFD700'/></svg>" >}}
 Let angels come into being to serve it.
 {{< /l >}}
 
 Myriads without number came into being.
 
-{{< l a="Self-Begotten" >}}
+{{< l a="Self-Begotten" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect width='100' height='100' fill='#FFD700'/></svg>" >}}
 Let a luminous realm come into being
 {{< /l >}}
 

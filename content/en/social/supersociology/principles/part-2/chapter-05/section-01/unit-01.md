@@ -8,7 +8,7 @@ description: "The Legislative Branch Represents the Workers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Social Superphysics"
+icon: "Juan"
 ---
 
 

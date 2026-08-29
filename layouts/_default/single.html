@@ -3,6 +3,7 @@
 {{- $youtube := .Params.youtube -}}
 {{- $color := .Params.c | default "darkslategray" -}}
 {{- $hasImage := .Params.image -}}
+{{- $svgBanner := .Params.s -}} {{/* NEW: SVG from front matter */}}
 {{- $heading := .Params.heading -}}
 {{- $iconName := .Params.icon -}}
 {{- $sicon := .Params.sicon -}}
@@ -46,6 +47,10 @@
     <video autoplay muted loop playsinline class="w-full h-full object-cover absolute inset-0 opacity-50">
         <source src="{{ $hasVideo }}" type="video/mp4"/>
     </video>
+    {{ else if $svgBanner }}
+    <div class="w-full h-full absolute inset-0 flex items-center justify-center opacity-60">
+        {{ $svgBanner | safeHTML }}
+    </div>
     {{ else if $hasImage }}
     <img src="{{ $hasImage }}" alt="{{ .Title }}" class="w-full h-full object-cover absolute inset-0 opacity-60"/>
     {{ end }}
@@ -53,7 +58,7 @@
     <div class="relative flex flex-col justify-end flex-1 pt-32 pb-16 px-6 max-w-[1400px] mx-auto w-full">
         <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-12 w-full">
             <div class="flex-1 w-full">
-                <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 {{ if $hasImage }}bg-black{{ else }}bg-transparent{{ end }} font-display uppercase tracking-wider p-2 w-fit" aria-label="Breadcrumb">
+                <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }} font-display uppercase tracking-wider p-2 w-fit" aria-label="Breadcrumb">
 
 
                     {{- /* Use 'after 1' to skip the first ancestor (the home/root page) */ -}}
@@ -75,13 +80,13 @@
 
                 </nav>
                 {{ if $heading }}
-                <p class="font-display text-teal-400 font-semibold text-sm mb-3 tracking-widest uppercase p-2 w-fit {{ if $hasImage }}bg-black{{ else }}bg-transparent{{ end }}">{{ $heading }}</p>
+                <p class="font-display text-teal-400 font-semibold text-sm mb-3 tracking-widest uppercase p-2 w-fit {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">{{ $heading }}</p>
                 {{ end }}
-                <h1 class="font-display font-bold text-3xl md:text-6xl text-white max-w-5xl leading-tight mb-4 p-2 {{ if $hasImage }}bg-black{{ else }}bg-transparent{{ end }}">
+                <h1 class="font-display font-bold text-3xl md:text-6xl text-white max-w-5xl leading-tight mb-4 p-2 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">
                     {{ .Title }}
                 </h1>
                 {{ if $description }}
-                <p class="text-lg md:text-xl text-slate-300 max-w-3xl mb-8 leading-relaxed font-light italic p-2 {{ if $hasImage }}bg-black{{ else }}bg-transparent{{ end }}">
+                <p class="text-lg md:text-xl text-slate-300 max-w-3xl mb-8 leading-relaxed font-light italic p-2 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">
                     {{ $description }}
                 </p>
                 {{ end }}

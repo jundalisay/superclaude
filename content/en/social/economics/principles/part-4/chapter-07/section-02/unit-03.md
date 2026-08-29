@@ -10,7 +10,7 @@ description: "Our ratios determine the useful productivity just as capitalism ha
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/icons/pantry.png"
+# sicon: ""
 ---
 
 
