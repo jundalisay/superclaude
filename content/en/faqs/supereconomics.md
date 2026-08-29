@@ -10,7 +10,7 @@ weight: 200
 toc: false
 ---
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 What is Supereconomics?
 {{< /r >}}
 
@@ -30,7 +30,7 @@ Instead of being split into macro and micro, it is divided into:
 {{< /l >}}
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 Is Supereconomics capitalist or communist or socialist?
 {{< /r >}}
 
@@ -50,7 +50,7 @@ We solve the problems of both by having Minimum Needs as the floor (to prevent C
 
 <!--  unified under the 4 Supersociology classes of Worker, Warrior, Thinker, Trader, as the division of labor The goal of Supereconomics is to harmonize the supply with demand in real time globally so that the problems of lack can be made obsolete. This can be only made possible if the wave-nature of societies is understood -->
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 How Does Minimum Needs Work?
 {{< /r >}}
 
@@ -63,7 +63,7 @@ In Economics, no one cares if people starve. Supreconomics on the other hand car
 {{< /l >}}
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 Is it a welfare state? What about the lazy and stupid people that don't want to work? 
 {{< /r >}}
 
@@ -95,7 +95,7 @@ Taxation becomes fairer and more effective because taxes are based on the kind o
 In economics, this means that you do what you were meant to do in this life. By focusing on what you were meant to do then you get revenue from society from the benefits that it gets from everyone doing what they were meant to do. No the system will tax the kinds of products that they make. This is already done by excise taxes for example. Can you give an example? How can you help me know what I'm supposed to do? -->
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 What are bilateral and multilateral clearing?
 {{< /r >}}
 
@@ -109,7 +109,7 @@ Bilateral clearing is done by 2 people. Multilateral clearing is done by a centr
 {{< /l >}}
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 Can you give an example of points banking and multilateral clearing?
 {{< /r >}}
 
@@ -124,7 +124,7 @@ We call this points taxation.
 
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 That's just trade. How can barter be used for capital and production? People produce to get money, not for getting stuff that they might not need. 
 {{< /r >}}
 
@@ -136,7 +136,7 @@ In this way, the company doesn't need to have so much cash just to get started. 
 {{< /l >}}
 
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 So you're saying the investor will be paid in goods which they will pick up, store, then resell for cash?
 <!-- That's just trade. How can barter be used for capital and production? People produce to get money, not for getting stuff that they might not need.  -->
 {{< /r >}}
@@ -148,7 +148,7 @@ The Points Banker will then find someone who wants those goods, getting either c
 {{< /l >}}
 
 
-<!-- {{< r a="Asker" >}}
+<!-- {{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 How can a barter credit system be used for taxation?
 {{< /r >}}
 
@@ -157,7 +157,7 @@ How can a barter credit system be used for taxation?
 The tool of trade gets information of the supply and demand in realtime. This lets the companies and the government know the actual supply and demand, as well as forecasts. For offline cards, the "points banker" will get the data. 
 {{< /l >}}
 
-{{< r a="Asker" >}}
+{{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
 What about industry? If there are so many producers, then products and services flood the market and prices go down. 
 {{< /r >}} -->
 
