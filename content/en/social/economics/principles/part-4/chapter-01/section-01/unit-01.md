@@ -41,14 +41,19 @@ Exchange exists in both Economics and Supereconomics. The latter, however, allow
 
 ## Formula
 
-**V<sub>l4,t</sub> = k • P<sub>t</sub> • γ**
-
-
+<!-- **V<sub>l4,t</sub> = k • P<sub>t</sub> • γ**
 - **V<sub>l4,t</sub>**: Market Price as the actual value exchanged (markup, fee, or payment) at time t (Exchangeable Value from Law 4)
 - **k**: The Fair Exchange Coefficient: The agreed-upon "Markup" or "Service Fee" ratio. Unlike interest, k is a percentage of actual output, not a fixed percentage of a past debt. We call this "secondary arbitrage."
 - **P<sub>t</sub>**: Consolidated Price as the total value of the economy or the individual's productivity at time t which includes Value from Law 1 and 2
-- **γ**: Circulation Coefficient (velocity of value transfer), y > 1 is overcirculation, y < 1 is undercirculation
+- **γ**: Circulation Coefficient (velocity of value transfer), y > 1 is overcirculation, y < 1 is undercirculation -->
 
+
+**M<sub>t</sub> = k • P<sub>t</sub> • γ**
+
+- **M<sub>t</sub>**: Market Price as the actual value exchanged (markup, fee, or payment) at time t as Exchangeable Value from Law 4
+- **k**: The Fair Exchange Coefficient: The agreed-upon "Markup" or "Service Fee" ratio. Unlike interest, k is a percentage of actual output, not a fixed percentage of a past debt. We call this "secondary arbitrage."
+- **P<sub>t</sub>**: Consolidated Price as the total value of the economy or the individual's productivity at time t which includes Value from Law 1 and 2. This is a "Pre-Natural Price" since M is still unknown
+- **γ**: Circulation Coefficient (velocity of value transfer), y > 1 is overcirculation, y < 1 is undercirculation
 
 
 ## Market Price

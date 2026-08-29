@@ -10,8 +10,7 @@ a: "Seth"
 
 
 Christian dogma speaks of the ascension of Christ, implying of course a vertical ascent into the heavens, and the development of the soul is often discussed in terms of 
-direction. 
-To progress is supposedly to ascend, while the horror of religious punishment, hell, is seen at the bottom of all things. 
+direction. To progress is supposedly to ascend, while the horror of religious punishment, hell, is seen at the bottom of all things. 
 
 Development is therefore considered in a one-line direction only, in Christian terms. 
 Seldom, for example, is it thought of in horizontal terms. The idea of evolution in its 
@@ -36,78 +35,49 @@ there is good, there must be evil. This is like saying that because an apple has
 must have a bottom - but without any understanding of the fact that both are a portion 
 of the apple. 
 
-We go back to our fundamentals: You create reality through your feelings, thoughts, 
-and mental actions. Some of these are physically materialized, others are actualized in 
-probable systems. You are presented with an endless series of choices, it seems, at any 
-point, some more or less favorable than others. 
+Our fundamentals: You create reality through your feelings, thoughts, and mental actions.
+
+Some of these are physically materialized, others are actualized in probable systems. You are presented with an endless series of choices, it seems, at any point, some more or less favorable than others. 
 
 Each mental act is a reality for which you are responsible. 
 
-That is what you are in this particular system of reality for. As long as you believe in a 
-devil, for example, you will create one that is real enough for you, and for the others 
-who continue to create him. 
+That is what you are in this particular system of reality for. As long as you believe in a devil, for example, you will create one that is real enough for you, and for the others who continue to create him. 
 
-Because of the energy he is given by others, he will have a certain consciousness of 
-his own, but such a mock devil has no power or reality to those who do not believe in 
-his existence, and who do not give him energy through their belief. He is, in other 
-words, a superlative hallucination As mentioned earlier, those who believe in a hell and 
-assign themselves to it through their belief can indeed experience one, but certainly in 
-nothing like eternal terms. No soul is forever ignorant. 
+Because of the energy he is given by others, he will have a certain consciousness of his own, but such a mock devil has no power or reality to those who do not believe in 
+his existence, and who do not give him energy through their belief. He is, in other words, a superlative hallucination As mentioned earlier, those who believe in a hell and 
+assign themselves to it through their belief can indeed experience one, but certainly in nothing like eternal terms. No soul is forever ignorant. 
 
-Now those who have such beliefs actually lack a necessary deep trust in the nature 
-of consciousness, of the soul, and of All That Is. They concentrate upon not what they 
-think of as the power of good, but fearfully upon what they think of as the power of evil. 
+Those who have such beliefs actually lack a necessary deep trust in the nature of consciousness, of the soul, and of All That Is. They concentrate upon not what they  think of as the power of good, but fearfully upon what they think of as the power of evil. 
 
-The hallucination is created, therefore, out of fear and of restriction. The devil idea is 
-merely the mass projection of certain fears - mass in that it is produced by many 
-people, but also limited in that there have always been those who rejected this 
-principle. 
+The hallucination is created, therefore, out of fear and of restriction. The devil idea is merely the mass projection of certain fears - mass in that it is produced by many 
+people, but also limited in that there have always been those who rejected this principle. 
 
-Some very old religions understood the hallucinatory nature of the devil concept, but 
-even in Egyptian times, the simpler and more distorted ideas became prevalent, 
-particularly with the masses of people. In some ways, men in those times could not 
-understand the concept of a god without the concept of a devil. 
+Some very old religions understood the hallucinatory nature of the devil concept, but even in Egyptian times, the simpler and more distorted ideas became prevalent, 
+particularly with the masses of people. In some ways, men in those times could not understand the concept of a god without the concept of a devil. 
 
-Storms, for example, are highly creative natural events, though they can also cause 
-destruction. Early man could see only the destruction. Some intuitively understood that 
-any effects are creative, despite their appearances, but few could convince their fellow 
-men. 
+Storms, for example, are highly creative natural events, though they can also cause destruction. 
 
-The light-and-darkness contrast presents us with the same kind of picture. The good 
-was seen as light, for men felt safer in the day. The evil was therefore assigned to 
-nightfall. Within the mass of distortions, however, hidden beneath the dogma there was 
-always a hint of the basic creativity of every effect. 
+Early man could see only the destruction. Some intuitively understood that any effects are creative, despite their appearances, but few could convince their fellow men. 
 
-There are, then, no devils waiting to carry anyone off, unless you create them 
-yourself, in which case the power resides in you and not in the mock devils. The 
-Crucifixion and attendant drama made sense within your reality at the time. It arose 
-into the world of physical actuality out of the inner reality from which your deepest 
-intuitions and insights also spring. 
+The light-and-darkness contrast presents us with the same kind of picture. The good was seen as light, for men felt safer in the day. 
 
-The race brought forth the events, then, that would best convey in physical terms 
-this deeper nonphysical knowledge of the indestructibility of the soul. This particular 
-drama would not have made sense to other systems with different root assumptions 
-than your own. 
+The evil was therefore assigned to nightfall. Within the mass of distortions, however, hidden beneath the dogma there was always a hint of the basic creativity of every effect. 
 
-The symbolism of ascent or descent, or of light and dark, would be meaningless to 
-other realities with different perceptive mechanisms. While your religions are built 
-around an enduring kernel of truth, the symbolism used was craftily selected by the 
-inner self in line with its knowledge of those root assumptions you hold as valid in the 
-physical universe. Other information, in dreams for example, will also be given to you with the same symbolism, generally speaking. The symbolism itself, however, was 
-simply used by the inner self. It does not inherently belong to inner reality. 
+There are, then, no devils waiting to carry anyone off, unless you create them yourself.
+- In this case the power resides in you and not in the mock devils. 
 
-Many probable systems have perceptive mechanisms far different from your own. In 
-fact, some are based upon gestalts of awareness completely alien to you. Quite without 
-realizing it, your ego is a result of group consciousness, for example; the one 
-consciousness that most directly faces the exterior world, is dependent upon the minute 
-consciousness that resides within each living cell of your body; and as a rule you are 
+The Crucifixion and attendant drama made sense within your reality at the time. It arose into the world of physical actuality out of the inner reality from which your deepest intuitions and insights also spring. 
+
+The race brought forth the events, then, that would best convey in physical terms this deeper nonphysical knowledge of the indestructibility of the soul. This particular drama would not have made sense to other systems with different root assumptions than your own. 
+
+The symbolism of ascent or descent, or of light and dark, would be meaningless to other realities with different perceptive mechanisms. While your religions are built around an enduring kernel of truth, the symbolism used was craftily selected by the inner self in line with its knowledge of those root assumptions you hold as valid in the physical universe. Other information, in dreams for example, will also be given to you with the same symbolism, generally speaking. The symbolism itself, however, was simply used by the inner self. It does not inherently belong to inner reality. 
+
+Many probable systems have perceptive mechanisms far different from your own. In fact, some are based upon gestalts of awareness completely alien to you. Quite without realizing it, your ego is a result of group consciousness, for example; the one consciousness that most directly faces the exterior world, is dependent upon the minute consciousness that resides within each living cell of your body; and as a rule you are 
 only aware of one ego - at least at a time. 
 
-In some systems the "individual" is quite aware of having more egos than one, in 
-your terms. The entire psychological organization is in a way richer than your own. A Christ who was not aware of this would not appear in such a system, you see. There are kinds of perception with which you are not familiar, worlds in which your idea of light does not exist, where almost infinite gradations of thermal qualities are absorbed in terms of sensation, not of light. 
+In some systems the "individual" is quite aware of having more egos than one, in your terms. The entire psychological organization is in a way richer than your own. A Christ who was not aware of this would not appear in such a system, you see. There are kinds of perception with which you are not familiar, worlds in which your idea of light does not exist, where almost infinite gradations of thermal qualities are absorbed in terms of sensation, not of light. 
 
-In any of these worlds, the Christ drama could never appear as it appeared within 
-your own. Now the same thing applies to each of your great religions, though as I have 
+In any of these worlds, the Christ drama could never appear as it appeared within your own. Now the same thing applies to each of your great religions, though as I have 
 said in the past, the Buddhists come closer, generally speaking, to a description of the 
 nature of reality. They have not understood the eternal validity of the soul, however, in 
 terms of its exquisite invulnerability, nor been able to hold a feeling for its unique 
@@ -463,3 +433,5 @@ In the original experience, however, the true nature of the Speaker is apparent.
 objective life of a given individual. It is simply living on different terms. 
 
 These various stages of consciousness and fluctuations of psychic activity can also be examined through direct experience from the waking state. In the following chapter we will let you become more aware of these ever-active portions of your own reality. 
+
+
