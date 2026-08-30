@@ -63,37 +63,13 @@ B.C. | Events After the Deluge
 2113 | Enlil entrusts the Lands of Shcm to Nannar; Ur declared capital of new empire. Ur-Nammu ascends throne, is named Protector of Nippur. A Nippurian priest—Terah, Abraham's lather—comes to Ur to liaison with its royal court. 
 2096 | Ur-Nammu dies in battle. The people consider his untimely death a betrayal by Anu and Enlil. Terah
 departs with his family for Harran.
-
-2095 Shulgi ascends (he throne of Ur, strengthens imperialties. As empire thrives. Shulgi falls under charms of
-Inanna, becomes her lover. Grants Larsa to Elamites
-in exchange for serving as his Foreign Legion.
-2080 Theban princes loyal to Ra/Marduk press northward
-under Mentuhotep I. Nabu, Marduk's son, gains adherents for his father in Western Asia.
-2055 On Nannar's orders, Shulgi sends Elamite troops to
-suppress unrest in Canaanite cities. Elamites reach the
-gateway to the Sinai peninsula and its Spaceport.
-2048 Shulgi dies. Marduk moves to the Land of the Hittites.
-Abraham ordered to southern Canaan with an elite
-corps of cavalrymen.
-2047 Amar-Sin (the biblical Amraphel) becomes king of
-Ur. Abraham goes to Egypt, stays five years, then returns with more troops.
-2041 Guided by Inanna, Amar-Sin forms a coalition of
-Kings of the East, launches military expedition to Canaan and the Sinai. Its leader is the Elamite Khedorla'omer. Abraham blocks the advance at the gateway
-to the Spaceport. 
-
-2038 Shu-Sin replaces Amar-Sin on throne of Ur as the empire disintegrates.
-2029 Ibbi-Sin replaces Shu-Sin. The western provinces tilt
-increasingly to Marduk.
-2024 Leading his followers, Marduk marches on Sumer,
-enthrones himself in Babylon. Fighting spreads to
-central Mesopotamia. Nippur's Holy of Holies is
-defiled. Enlil demands punishment for Marduk and
-Nabu: Enki opposes, but his son Nergal sides with Enlil.
-As Nabu marshals his Canaanite followers to capture
-the Spaceport, the Great Anunnaki approve the use
-of nuclear weapons. Nergal and Ninurta destroy the
-Spaceport and the errant Canaanite cities.
-2023 The winds carry the radioactive cloud to Sumer. People die a terrible death, animals perish, the water is
-poisoned, the soil becomes barren. Sumer and its great
-civilization lie prostrate. Its legacy passes to Abraham's seed as he begets—at age 100—a legitimate
-heir: Isaac. 
+2095 | Shulgi ascends (he throne of Ur, strengthens imperialties. As empire thrives. Shulgi falls under charms of Inanna, becomes her lover. Grants Larsa to Elamites in exchange for serving as his Foreign Legion.
+2080 | Theban princes loyal to Ra/Marduk press northward under Mentuhotep I. Nabu, Marduk's son, gains adherents for his father in Western Asia.
+2055 | On Nannar's orders, Shulgi sends Elamite troops to suppress unrest in Canaanite cities. Elamites reach the gateway to the Sinai peninsula and its Spaceport. 
+2048 | Shulgi dies. Marduk moves to the Land of the Hittites. Abraham ordered to southern Canaan with an elite corps of cavalrymen.
+2047 | Amar-Sin (the biblical Amraphel) becomes king of Ur. Abraham goes to Egypt, stays five years, then returns with more troops. 
+2041 | Guided by Inanna, Amar-Sin forms a coalition of Kings of the East, launches military expedition to Canaan and the Sinai. Its leader is the Elamite Khedorla'omer. Abraham blocks the advance at the gateway to the Spaceport. 
+2038 | Shu-Sin replaces Amar-Sin on throne of Ur as the empire disintegrates.
+2029 | Ibbi-Sin replaces Shu-Sin. The western provinces tilt increasingly to Marduk.
+2024 | Leading his followers, Marduk marches on Sumer, enthrones himself in Babylon. Fighting spreads to central Mesopotamia. Nippur's Holy of Holies is defiled. Enlil demands punishment for Marduk and Nabu: Enki opposes, but his son Nergal sides with Enlil. As Nabu marshals his Canaanite followers to capture the Spaceport, the Great Anunnaki approve the use of nuclear weapons. Nergal and Ninurta destroy the Spaceport and the errant Canaanite cities. 
+2023 | The winds carry the radioactive cloud to Sumer. People die a terrible death, animals perish, the water is poisoned, the soil becomes barren. Sumer and its great civilization lie prostrate. Its legacy passes to Abraham's seed as he begets—at age 100—a legitimate heir: Isaac. 
