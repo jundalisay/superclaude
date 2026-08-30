@@ -9,6 +9,7 @@ date: 2026-01-20
 lastmod: 2026-04-30
 image: /graphics/econ/law1.jpg
 description: "Exchangeable value is based on relational desire."
+toc: false
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -64,23 +65,20 @@ The result is the nominal price which manifests as a range.
 
 <!-- Since exchangeable value is societal, the exchangeable value arising from demand is relational. This is denoted as: -->
 
+(**N** = **DA**<sub>t</sub> : **DB**<sub>t</sub> : **DC**<sub>t</sub> • **σ** (**D**<sub>i</sub> - **D**<sub>m</sub>)
 
-**N** = <b>(V<sub>A1</sub> : V<sub>B1</sub></b> ... )  • σ (V<sub>i</sub> - V<sub>u</sub>)</b>
+- **N** : Nominal Price Range
+- **DA**<sub>t</sub> : Effective Demand of Person A at time t 
+- **DB**<sub>t</sub> : Effective Demand of Person B at time t
+- **DC**<sub>t</sub> : Effective Demand of Person C at time t
+- **D**<sub>i</sub> : Effective Demand of an individual in the chain
+- **D**<sub>m</sub> : The minimum societally-acceptable demand
+- **σ** : step function where the output is 1 (valid) if **D**<sub>i</sub> ≥ **D**<sub>m</sub>, and 0 (invalid/null) if **D**<sub>i</sub> < **D**<sub>m</sub>
 
-<!-- V<sub>n1</sub></b> -->
-
-<ul>
-<li><b>N</b>: Nominal Price Range</li>
-<li><b>V<sub>A1</sub></b>: value perception of identity A at time 1</li>
-<li><b>V<sub>B1</sub></b>: value perception of identity B at time 1</li>
-<li><b>V<sub>i</sub></b>: The individual valuation of any identity in the chain.</li>
-<li><b>V<sub>u</sub></b>: The minimum societally-acceptable valuation</li>
-<li><b>σ</b>: step function where the output is 1 (valid) if V<sub>i</sub> ≥ V<sub>u</sub>, and 0 (invalid/null) if V<sub>i</sub> < V<sub>u</sub>.</li>
-</ul>
 
 The ratio sign represents **relationality**. This creates an economic relational chain. 
 
-The gravitational signature or metaphysical spin is within V<sub>i</sub> that is applied onto the chain that includes people in the society. 
+The gravitational signature or metaphysical spin is within D<sub>i</sub> that is applied onto the chain that includes people in the society. 
 - A bigger society will have more diverse spins
 
 This means that the resulting nominal value is a result of interaction of spins which represents the causal feeling behind the valuation. 
@@ -125,7 +123,7 @@ Minimum needs is a fundamental and foundational part of both GNH and SMOP as par
 - Underdemand
 - Overedemand
 
-Minimum needs manifests as <b>V<sub>u</sub></b> which is checked against individual demand <b>V<sub>i</sub></b> and applied onto the chain by <b>σ</b>.
+Minimum needs manifests as <b>D<sub>m</sub></b> which is checked against individual demand <b>D<sub>i</sub></b> and applied onto the chain by <b>σ</b>.
 
 {{< i s="/graphics/econ/minimumneeds.jpg" a="Minimum Needs" c="Minimum needs are facilitated by public infrastructure in line with Adam Smith's public institutions in Book 5 of the Wealth of Nations. These serve as the economic floor for society that prevents humans from degrading into the animal level as starvation and violence which are 2nd density dynamics" >}}
 

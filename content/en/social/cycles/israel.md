@@ -4,7 +4,7 @@ heading: "Negative Thinker"
 # date: 2021-07-27
 # date: 2023-07-27
 date: 2023-11-05
-image: "/flags/il.png"
+s: "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 800'> <path d='M 0,0 H 1100 V 800 H 0 Z' fill='#fff'/> <path d='M 0,75 H 1100 V 200 H 0 Z' fill='#0038b8'/> <path d='M 0,600 H 1100 V 725 H 0 Z' fill='#0038b8'/> <path d='M 423.81566,472.85253 H 676.18435 L 550.00001,254.29492 Z m 126.18435,72.85255 126.1843,-218.55765 H 423.81566 Z' fill='none' stroke='#0038b8' stroke-width='27.5'/> </svg>"
 description: "The social cycles of Israel last 12 years"
 writer:
   name: Juan
@@ -18,8 +18,7 @@ Current Cycle | Years per Day | Current Week | Current Month | Current Year
 Negative Thinker  | 12 | 3 | 2 | 5
 
 
-{{< i s="/flags/il.png" a="Israeli Flag" >}}
-
+<svg class="mx-auto" width="400px" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 800'> <path d='M 0,0 H 1100 V 800 H 0 Z' fill='#fff'/> <path d='M 0,75 H 1100 V 200 H 0 Z' fill='#0038b8'/> <path d='M 0,600 H 1100 V 725 H 0 Z' fill='#0038b8'/> <path d='M 423.81566,472.85253 H 676.18435 L 550.00001,254.29492 Z m 126.18435,72.85255 126.1843,-218.55765 H 423.81566 Z' fill='none' stroke='#0038b8' stroke-width='27.5'/> </svg>
 
 
 ## How to Fix Israel

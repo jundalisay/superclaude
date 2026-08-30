@@ -7,7 +7,8 @@
 
       <!-- Logo -->
       <a href="{{ "/" | relLangURL }}" class="flex items-center gap-2.5 shrink-0 group">
-        <img src="/icons/sp.svg" class="w-8 h-8" alt="">
+        <svg width='35px' height='35px' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>
+        <!-- <img src="" class="w-8 h-8" alt=""> -->
         <span class="font-bold text-lg text-sp-text hidden sm:block tracking-tight">{{ i18n "site_name" }}</span>
       </a>
 

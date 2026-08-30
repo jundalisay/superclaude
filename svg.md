@@ -11,6 +11,11 @@ swastika
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100px" height="100px"> <g fill="none" stroke="#be1111" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"> <path d="M 50,50 L 20,50 C 15,50 15,10 5,10" /> <path d="M 50,50 L 50,20 C 50,15 90,15 95,5" /> <path d="M 50,50 L 80,50 C 85,50 85,90 95,90" /> <path d="M 50,50 L 50,80 C 50,85 10,85 5,95" /> </g> <g fill="#be1111"> <circle cx="30" cy="27" r="5.5" /> <circle cx="70" cy="27" r="5.5" /> <circle cx="30" cy="65" r="5.5" /> <circle cx="70" cy="65" r="5.5" /> </g> </svg>
 
 
+malaysia
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 13440 6720' fill='none'> <title>Flag of Malaysia</title> <g transform='scale(480)'> <path fill='#fff' d='m0 0h28v14H0z'/> <path stroke='#c00' d='m1 .5h27m0 2H1m0 2h27m0 2H1'/> <path fill='#006' d='m0 0h14v8.5H0z'/> <path stroke='#c00' d='m0 8.5h28m0 2H0m0 2h28'/> </g> <path fill='#fc0' d='m4200 720 107 732 414-613-222 706 639-373-506 540 738-59-690 267 690 267-738-59 506 540-639-373 222 706-414-613-107 732-107-732-414 613 222-706-639 373 506-540-738 59 690-267-690-267 738 59-506-540 639 373-222-706 414 613zm-600 30a1280 1280 0 1 0 0 2340 1440 1440 0 1 1 0-2340z'/> </svg>
+
+eu
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='400'> <rect width='900' height='600' fill='#039'/> <g fill='#fc0' transform='translate(450,300)'> <path id='s' d='M0,162.5 22.041947,230.338137 -35.664619,188.411863H35.664619L-22.041947,230.338137z'/> <use xlink:href='#s' y='-400'/> <g id='s5'> <use xlink:href='#s' transform='rotate(30) rotate(-30,0,200)'/> <use xlink:href='#s' transform='rotate(60) rotate(-60,0,200)'/> <use xlink:href='#s' transform='rotate(90) rotate(-90,0,200)'/> <use xlink:href='#s' transform='rotate(120) rotate(-120,0,200)'/> <use xlink:href='#s' transform='rotate(150) rotate(-150,0,200)'/> </g> <use xlink:href='#s5' transform='scale(-1,1)'/> </g> </svg>
 
 
 superhistory
@@ -38,6 +43,227 @@ yinyang
 
 msp
 <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask><radialGradient id='centerGrad' cx='35%' cy='35%' r='65%'><stop offset='0%' stop-color='#FF5388'/><stop offset='50%' stop-color='#D81E5B'/><stop offset='100%' stop-color='#900C3F'/></radialGradient></defs><polygon points='50,0 100,50 0,50' fill='#FF7A38' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><circle cx='50' cy='50' r='18' fill='url(#centerGrad)'/></svg>
+
+
+sassani
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <!-- Skin Base Gradient -->
+    <radialGradient id="skinGrad" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#e8f8f5"/>
+      <stop offset="50%" stop-color="#b2e2d8"/>
+      <stop offset="85%" stop-color="#73bdad"/>
+      <stop offset="100%" stop-color="#4e9989"/>
+    </radialGradient>
+
+    <!-- Shadow / Shading Gradient -->
+    <radialGradient id="headShadow" cx="50%" cy="75%" r="50%">
+      <stop offset="0%" stop-color="#3d8274" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3d8274" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Forehead Highlight -->
+    <radialGradient id="foreheadHighlight" cx="50%" cy="25%" r="35%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blush / Flush Tint -->
+    <radialGradient id="blushGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e88b88" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#e88b88" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Eye Iris Outer Gradient -->
+    <radialGradient id="irisGrad" cx="45%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#1ad1d7"/>
+      <stop offset="40%" stop-color="#008b9b"/>
+      <stop offset="75%" stop-color="#00485c"/>
+      <stop offset="100%" stop-color="#021c27"/>
+    </radialGradient>
+
+    <!-- Eye Glow Soft -->
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#005b66" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Lip Gradient -->
+    <linearGradient id="lipGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#db7b7b"/>
+      <stop offset="50%" stop-color="#c95b5f"/>
+      <stop offset="100%" stop-color="#8e3337"/>
+    </linearGradient>
+
+    <!-- Ear Soft Gradient Left -->
+    <linearGradient id="earGradL" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a3dad0"/>
+      <stop offset="100%" stop-color="#519e8f"/>
+    </linearGradient>
+
+    <!-- Ear Soft Gradient Right -->
+    <linearGradient id="earGradR" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a3dad0"/>
+      <stop offset="100%" stop-color="#519e8f"/>
+    </linearGradient>
+
+    <!-- Eye Depth Shadow Filter -->
+    <filter id="shadowFilter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.4"/>
+      </feComponentTransfer>
+      <feMerge> 
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Neck -->
+  <path d="M 215 380 Q 250 400 285 380 L 295 500 Q 250 500 205 500 Z" fill="url(#skinGrad)" />
+  <path d="M 215 380 Q 250 400 285 380 L 295 500 Q 250 500 205 500 Z" fill="#2d6056" opacity="0.25" />
+
+  <!-- Ears -->
+  <!-- Left Ear -->
+  <path d="M 115 230 C 50 200 40 260 70 320 C 85 350 110 330 115 300 Z" fill="url(#earGradL)"/>
+  <path d="M 110 240 C 70 220 65 260 85 305" fill="none" stroke="#46887a" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Right Ear -->
+  <path d="M 385 230 C 450 200 460 260 430 320 C 415 350 390 330 385 300 Z" fill="url(#earGradR)"/>
+  <path d="M 390 240 C 430 220 435 260 415 305" fill="none" stroke="#46887a" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Head Base -->
+  <path d="M 250 40 
+           C 370 40 415 150 400 260 
+           C 385 370 310 420 250 420 
+           C 190 420 115 370 100 260 
+           C 85 150 130 40 250 40 Z" 
+        fill="url(#skinGrad)" />
+
+  <!-- Head Contour Shadowing -->
+  <path d="M 250 40 
+           C 370 40 415 150 400 260 
+           C 385 370 310 420 250 420 
+           C 190 420 115 370 100 260 
+           C 85 150 130 40 250 40 Z" 
+        fill="url(#headShadow)" />
+
+  <!-- Forehead Dome Highlight -->
+  <ellipse cx="250" cy="160" rx="110" ry="90" fill="url(#foreheadHighlight)" />
+
+  <!-- Cheekbone & Nose Bridge Structures -->
+  <!-- Blush Left -->
+  <ellipse cx="170" cy="330" rx="35" ry="20" fill="url(#blushGrad)" />
+  <!-- Blush Right -->
+  <ellipse cx="330" cy="330" rx="35" ry="20" fill="url(#blushGrad)" />
+
+  <!-- Nose -->
+  <!-- Nose Shadow Soft -->
+  <path d="M 240 280 C 245 325 235 340 242 343 C 247 345 253 345 258 343 C 265 340 255 325 260 280" fill="#3a7569" opacity="0.2"/>
+  <!-- Nose Tip Highlight -->
+  <ellipse cx="250" cy="338" rx="6" ry="4" fill="#ffffff" opacity="0.5"/>
+  <!-- Nostrils -->
+  <path d="M 242 344 C 245 342 248 345 245 347 C 241 349 238 346 242 344 Z" fill="#234a42"/>
+  <path d="M 258 344 C 255 342 252 345 255 347 C 259 349 262 346 258 344 Z" fill="#234a42"/>
+
+  <!-- Eyebrows -->
+  <path d="M 130 220 Q 175 195 215 220" fill="none" stroke="#3b5952" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M 370 220 Q 325 195 285 220" fill="none" stroke="#3b5952" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- EYES -->
+  
+  <!-- LEFT EYE -->
+  <g filter="url(#shadowFilter)">
+    <!-- Eye Socket Background / Crease -->
+    <path d="M 115 265 C 120 215 210 215 225 265 C 230 295 190 320 150 310 C 120 300 110 285 115 265 Z" fill="#183632"/>
+
+    <!-- Eye Sclera / Base -->
+    <path d="M 120 265 C 130 225 205 225 220 265 C 225 290 190 310 150 302 C 128 298 118 285 120 265 Z" fill="#081419"/>
+
+    <!-- Iris -->
+    <ellipse cx="170" cy="268" rx="38" ry="34" fill="url(#irisGrad)"/>
+    <ellipse cx="170" cy="268" rx="20" ry="18" fill="url(#eyeGlow)"/>
+
+    <!-- Pupil -->
+    <ellipse cx="170" cy="268" rx="18" ry="24" fill="#02080a"/>
+    <ellipse cx="170" cy="268" rx="12" ry="18" fill="#000000"/>
+
+    <!-- Highlights -->
+    <!-- Large Catchlight -->
+    <circle cx="158" cy="255" r="7" fill="#ffffff" opacity="0.9"/>
+    <!-- Secondary Catchlight -->
+    <circle cx="180" cy="278" r="3.5" fill="#ffffff" opacity="0.7"/>
+    <circle cx="150" cy="275" r="2" fill="#a6ffff" opacity="0.6"/>
+    <!-- Rim Light Soft -->
+    <path d="M 142 285 A 30 28 0 0 0 192 285" fill="none" stroke="#52f6ff" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+
+    <!-- Eyelids & Lashes -->
+    <!-- Upper Eyeline -->
+    <path d="M 115 266 C 130 218 205 218 227 262" fill="none" stroke="#091414" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 115 266 C 130 218 205 218 227 262" fill="none" stroke="#1d423c" stroke-width="2" stroke-linecap="round"/>
+    <!-- Lower Eyeline -->
+    <path d="M 120 268 C 135 298 185 310 222 270" fill="none" stroke="#122b27" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- RIGHT EYE -->
+  <g filter="url(#shadowFilter)">
+    <!-- Eye Socket Background / Crease -->
+    <path d="M 385 265 C 380 215 290 215 275 265 C 270 295 310 320 350 310 C 380 300 390 285 385 265 Z" fill="#183632"/>
+
+    <!-- Eye Sclera / Base -->
+    <path d="M 380 265 C 370 225 295 225 280 265 C 275 290 310 310 350 302 C 372 298 382 285 380 265 Z" fill="#081419"/>
+
+    <!-- Iris -->
+    <ellipse cx="330" cy="268" rx="38" ry="34" fill="url(#irisGrad)"/>
+    <ellipse cx="330" cy="268" rx="20" ry="18" fill="url(#eyeGlow)"/>
+
+    <!-- Pupil -->
+    <ellipse cx="330" cy="268" rx="18" ry="24" fill="#02080a"/>
+    <ellipse cx="330" cy="268" rx="12" ry="18" fill="#000000"/>
+
+    <!-- Highlights -->
+    <!-- Large Catchlight -->
+    <circle cx="318" cy="255" r="7" fill="#ffffff" opacity="0.9"/>
+    <!-- Secondary Catchlight -->
+    <circle cx="340" cy="278" r="3.5" fill="#ffffff" opacity="0.7"/>
+    <circle cx="310" cy="275" r="2" fill="#a6ffff" opacity="0.6"/>
+    <!-- Rim Light Soft -->
+    <path d="M 302 285 A 30 28 0 0 0 352 285" fill="none" stroke="#52f6ff" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+
+    <!-- Eyelids & Lashes -->
+    <!-- Upper Eyeline -->
+    <path d="M 385 266 C 370 218 295 218 273 262" fill="none" stroke="#091414" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 385 266 C 370 218 295 218 273 262" fill="none" stroke="#1d423c" stroke-width="2" stroke-linecap="round"/>
+    <!-- Lower Eyeline -->
+    <path d="M 380 268 C 365 298 315 310 278 270" fill="none" stroke="#122b27" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- LIPS / MOUTH -->
+  <g>
+    <!-- Mouth Shadow Line -->
+    <path d="M 195 370 Q 250 395 305 370" fill="none" stroke="#3d1e20" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Upper Lip -->
+    <path d="M 195 370 Q 225 362 250 367 Q 275 362 305 370 Q 275 373 250 373 Q 225 373 195 370 Z" fill="url(#lipGrad)"/>
+
+    <!-- Lower Lip -->
+    <path d="M 205 372 Q 250 393 295 372 Q 270 390 250 390 Q 230 390 205 372 Z" fill="url(#lipGrad)"/>
+
+    <!-- Lip Highlight -->
+    <ellipse cx="250" cy="380" rx="12" ry="3" fill="#ffffff" opacity="0.4"/>
+    <!-- Corner Smile Accent Softening -->
+    <circle cx="195" cy="370" r="2" fill="#3d1e20" opacity="0.5"/>
+    <circle cx="305" cy="370" r="2" fill="#3d1e20" opacity="0.5"/>
+  </g>
+
+  <!-- Chin Crease / Accent -->
+  <path d="M 235 402 Q 250 407 265 402" fill="none" stroke="#3d756a" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+</svg>
+
+
+
 
 scroll
 <svg viewBox='0 0 128 128' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--noto' preserveAspectRatio='xMidYMid meet'> <path fill='#d68b52' d='M22.13 18.65h23.19v15.08H22.13z'> </path> <ellipse cx='114.59' cy='108.83' rx='9.41' ry='12.65' fill='#f2bd72'> </ellipse> <path d='M114.59 96.18h-5.18s.04-63.41.04-74.11s-7.61-15.55-10.42-15.55h-76.9s10.1 1.21 10.23 15.55c.09 10.21 0 62.8 0 79.61s6.37 19.79 6.37 19.79h75.38c.07 0 .14-.01.21-.02c.09 0 .18.02.27.02c5.2 0 9.41-5.66 9.41-12.65c0-6.97-4.21-12.64-9.41-12.64z' fill='#ffd8a1'> </path> <path d='M114.59 96.18h-5.18s.04-63.41.04-74.11s-7.61-15.55-10.42-15.55h-76.9s10.1 1.21 10.23 15.55c.09 10.21 0 62.8 0 79.61s6.37 19.79 6.37 19.79h75.38c.07 0 .14-.01.21-.02c.09 0 .18.02.27.02c5.2 0 9.41-5.66 9.41-12.65c0-6.97-4.21-12.64-9.41-12.64z' fill='#ffd8a1'> </path> <path d='M32.26 100.75l.09-9.1s59.53 6.46 77.04-14.12v22.99l-77.13.23z' fill='#f2bd72'> </path> <g opacity='.6' fill='none' stroke='#9e673c' stroke-width='3.005' stroke-linecap='round' stroke-miterlimit='10'> <path d='M45.52 30.1c1.17 0 2.35-.02 3.52 0c.89.02 1.72.14 2.63.05c.98-.1 1.96-.29 2.96-.26c1.22.04 2.39.41 3.62.41c.6 0 1.14-.17 1.73-.2c.68-.03 1.36 0 2.04 0h4.3' opacity='.77'> </path> <path d='M79.01 30.1c.73 0 1.49.06 2.21-.05c1.12-.17 2.19-.63 3.36-.53c1.25.11 2.31.84 3.54 1.03c1.99.29 3.86-.9 5.87-1.09c.64-.06 1.28-.02 1.92.03c1.45.12 2.88.3 4.31.53' opacity='.77'> </path> <path d='M45.52 53.51c1 0 2.04.1 3.03 0c1.39-.14 2.73-.63 4.16-.56c1.44.07 2.76.7 4.17.95c1.94.33 3.89-.08 5.81-.33c2.05-.27 4-.05 6.06-.05h7.7' opacity='.77'> </path> <path d='M86.77 53.51c.74 0 1.48-.01 2.22 0c1.25.02 2.18-.38 3.37-.61c1.69-.33 3.38.19 5.05.36c1.23.12 2.52.26 3.75.25' opacity='.77'> </path> <path d='M68.56 76.96c1.34 0 2.74-.09 4.05.09c2.27.32 4.18-.39 6.41-.62c2.09-.22 4.18.2 6.28.37c2.18.18 4.37.1 6.56.02c2.27-.08 4.54.13 6.83.13' opacity='.77'> </path> <path d='M44.58 76.96c1.96 0 3.89.37 5.85.23c.66-.05 1.32-.14 1.99-.17c1.33-.07 2.67.23 3.98.08c.87-.1 1.7-.14 2.58-.14' opacity='.77'> </path> <path d='M68.56 18.48c1.34 0 2.74-.09 4.05.09c2.27.32 4.18-.39 6.41-.62c2.09-.22 4.18.2 6.28.37c2.18.18 4.37.1 6.56.02c2.27-.08 4.54.13 6.83.13' opacity='.77'> </path> <path d='M44.58 18.48c1.96 0 3.89.37 5.85.23c.66-.05 1.32-.14 1.99-.17c1.33-.07 2.67.23 3.98.08c.87-.1 1.7-.14 2.58-.14' opacity='.77'> </path> <path d='M45.52 41.87c.96 0 1.89.04 2.83.11c1.68.12 3.24-.64 4.87-.81c2.05-.21 4.07.45 6.1.75c2.01.3 4.05.12 6.07 0c.92-.06 1.88-.14 2.8-.12c.99.02 1.93.33 2.92.32c1.27-.01 2.44-.57 3.69-.76c2.78-.43 5.55.97 8.36.78c.92-.06 1.81-.29 2.72-.38c1.12-.11 2.25-.01 3.37.09l4.98.45' opacity='.77'> </path> <path d='M45.52 65.26c.96 0 1.89.04 2.83.11c1.68.12 3.24-.64 4.87-.81c2.05-.21 4.07.45 6.1.75c2.01.3 4.05.12 6.07 0c.92-.06 1.88-.14 2.8-.12c.99.02 1.93.33 2.92.32c1.27-.01 2.44-.57 3.69-.76c2.78-.43 5.55.97 8.36.78c.92-.06 1.81-.29 2.72-.38c1.12-.11 2.25-.01 3.37.09l4.98.45' opacity='.77'> </path> <path d='M58.39 88.62c.52.01.99-.11 1.5-.13c.74-.04 1.47.17 2.2.28c1.75.26 3.58.39 5.32.01c.98-.22 1.91-.59 2.91-.73c2.51-.36 4.99.76 7.54.75c2.2-.02 4.56-1.02 6.73-.44c1.42.37 2.88.28 4.38.28' opacity='.77'> </path> </g> <path d='M38.25 96.18v6.17h84.41c-1.64-3.69-4.64-6.17-8.07-6.17H38.25z' fill='#fcebcd'> </path> <ellipse cx='38.73' cy='108.83' rx='9.41' ry='12.65' fill='#f2bd72'> </ellipse> <path d='M45.71 108.17c0 5.33-3.34 8.35-6.92 9.33c-4.61 1.26-6.53.16-6.53.16V98.68s3.25-.82 6.72.16c3.54.99 6.73 4 6.73 9.33z' fill='#784d30'> </path> <ellipse cx='33.48' cy='108.17' rx='6.72' ry='9.65' fill='#784d30'> </ellipse> <ellipse cx='33.48' cy='108.18' rx='6.72' ry='9.65' fill='#784d30'> </ellipse> <ellipse cx='24.86' cy='108.18' rx='4.46' ry='4.5' fill='#ba793e'> </ellipse> <path d='M33.02 105.44c1.27.39 2.82 3.08.18 5.66c-.67.65.02 2.09.48 3.3c.58 1.54 1 2.37 2.34 1.45c1.8-1.22 3.51-4.71 3.51-7.67c0-4.79-2.71-8.68-6.05-8.68c-1.72 0-3.06.55-4.19 2.88c-.5 1.04-.55 2.37 1.04 2.53c0 .01 1.78.26 2.69.53z' fill='#ba793e'> </path> <ellipse cx='22.34' cy='20.09' rx='10.09' ry='13.57' fill='#f2bd72'> </ellipse> <g> <path d='M29.32 19.43c0 5.33-3.34 8.35-6.92 9.33c-4.61 1.26-6.53.16-6.53.16V9.94s3.25-.82 6.72.16c3.53.98 6.73 4 6.73 9.33z' fill='#784d30'> </path> <ellipse cx='17.09' cy='19.43' rx='6.72' ry='9.65' fill='#784d30'> </ellipse> <ellipse cx='17.09' cy='19.44' rx='6.72' ry='9.65' fill='#784d30'> </ellipse> <ellipse cx='8.46' cy='19.44' rx='4.46' ry='4.5' fill='#ba793e'> </ellipse> <path d='M16.62 16.7c1.27.39 2.82 3.08.18 5.66c-.67.65.02 2.09.48 3.3c.58 1.54 1 2.37 2.34 1.45c1.8-1.22 3.51-4.71 3.51-7.67c0-4.79-2.71-8.68-6.05-8.68c-1.72 0-3.06.55-4.19 2.88c-.5 1.04-.55 2.37 1.04 2.53c0 .01 1.79.25 2.69.53z' fill='#ba793e'> </path> </g> </svg>
