@@ -77,121 +77,64 @@ only aware of one ego - at least at a time.
 
 In some systems the "individual" is quite aware of having more egos than one, in your terms. The entire psychological organization is in a way richer than your own. A Christ who was not aware of this would not appear in such a system, you see. There are kinds of perception with which you are not familiar, worlds in which your idea of light does not exist, where almost infinite gradations of thermal qualities are absorbed in terms of sensation, not of light. 
 
-In any of these worlds, the Christ drama could never appear as it appeared within your own. Now the same thing applies to each of your great religions, though as I have 
-said in the past, the Buddhists come closer, generally speaking, to a description of the 
-nature of reality. They have not understood the eternal validity of the soul, however, in 
-terms of its exquisite invulnerability, nor been able to hold a feeling for its unique 
-character. But Buddha, like Christ, interpreted what he almost knew in terms of your 
-own reality. Not only of your own physical reality, but your own probable physical 
-reality. 
+In any of these worlds, the Christ drama could never appear as it appeared within your own. 
 
-The methods, the secret methods behind all of the religions, were meant to lead man 
-into a realm of understanding that existed apart from the symbols and the stories, into 
-inner realizations that would take him both within and without the physical world that 
-he knew. There are many manuscripts still not discovered, from old monasteries par- 
-ticularly in Spain, that tell of underground groups within religious orders who kept 
+The same thing applies to each of your great religions, though as I have said in the past, the Buddhists come closer, generally speaking, to a description of the nature of reality. They have not understood the eternal validity of the soul, however, in terms of its exquisite invulnerability, nor been able to hold a feeling for its unique character. But Buddha, like Christ, interpreted what he almost knew in terms of your own reality. Not only of your own physical reality, but your own probable physical reality. 
+
+The methods, the secret methods behind all of the religions, were meant to lead man into a realm of understanding that existed apart from the symbols and the stories, into inner realizations that would take him both within and without the physical world that he knew. There are many manuscripts still not discovered, from old monasteries particularly in Spain, that tell of underground groups within religious orders who kept 
 these secrets alive when other monks were copying old Latin manuscripts. 
 
-There were tribes who never learned to write in Africa and Australia who also knew 
-these secrets, and men called "Speakers" who memorized them and spread them 
-upward, even throughout northern portions of Europe, before the time of Christ. 
+There were tribes who never learned to write in Africa and Australia who also knew these secrets, and men called "Speakers" who memorized them and spread them upward, even throughout northern portions of Europe, before the time of Christ. 
 
-Offhand, the work involved could take five years, for there were several versions, and 
-a group of leaders, each going in different directions, who taught their people. The world 
-was far more ripe for Christianity than people suppose, because of these groups. The 
-ideas were "buried" already throughout Europe. 
+Offhand, the work involved could take five years, for there were several versions, and a group of leaders, each going in different directions, who taught their people. The world 
+was far more ripe for Christianity than people suppose, because of these groups. The ideas were "buried" already throughout Europe. 
 
-Many important concepts were lost, however. The emphasis was on practical 
-methods of living - quite simply - rules that could be understood, but the reasons for 
-them were forgotten. 
+Many important concepts were lost, however. The emphasis was on practical methods of living - quite simply - rules that could be understood, but the reasons for them were forgotten. 
 
 The Druids obtained some of their concepts from Speakers. So did the Egyptians. 
 
 The Speakers predated the emergence of any religions that you know, and the religions of the Speakers arose spontaneously in many scattered areas, then grew like wildfire from the heart of Africa and Australia. There was one separate group in an area where 
 the Aztecs dwelled at a later date, though the land mass was somewhat different then, and some of the lower cave dwellings at times were under water. 
 
-Various bands of the Speakers continued through the centuries. Because they were 
-trained so well, the messages retained their authenticity. They believed, however, that it 
-was wrong to set words into written form, and so did not record them. They also used 
-natural earth symbols, but clearly understood the reasons for this. The Speakers, 
-singly, existed in your Stone Age period, and were leaders. Their abilities helped the 
-cavemen survive. There was little physical communication, however, in those days 
+Various bands of the Speakers continued through the centuries. Because they were trained so well, the messages retained their authenticity. They believed, however, that it was wrong to set words into written form, and so did not record them. They also used natural earth symbols, but clearly understood the reasons for this. 
+
+The Speakers, singly, existed in your Stone Age period, and were leaders. Their abilities helped the cavemen survive. There was little physical communication, however, in those days 
 between the various Speakers, and some were unaware of the existence of the others. 
 
-Their message was as "pure" and undistorted as possible. It was for this reason 
-however, through the centuries, that many who heard it translated it into parables and 
-tales. Now, strong portions of Jewish scriptures carry traces of the message of these 
-early Speakers, but even here, distortions have hidden the messages. 
+Their message was as "pure" and undistorted as possible. It was for this reason however, through the centuries, that many who heard it translated it into parables and tales. Now, strong portions of Jewish scriptures carry traces of the message of these early Speakers, but even here, distortions have hidden the messages. 
 
-Since consciousness forms matter, and not the other way around, then thought 
-exists before the brain and after it. A child can think coherently before he learns 
-vocabulary - but he cannot impress the physical universe in its terms. So this inner 
-knowledge has always been available, but is to become physically manifest - literally 
-made flesh. The Speakers were the first to impress this inner knowledge upon the 
-physical system, to make it physically known. Sometimes only one or two Speakers 
-were alive in several centuries. Sometimes there were many. They looked around them 
-and knew that the world sprang from their interior reality. They told others. They knew 
-that the seemingly solid natural objects about them were composed of many minute 
-consciousnesses . 
+Since consciousness forms matter, and not the other way around, then thought exists before the brain and after it. A child can think coherently before he learns vocabulary - but he cannot impress the physical universe in its terms. So this inner knowledge has always been available, but is to become physically manifest - literally made flesh. The Speakers were the first to impress this inner knowledge upon the 
+physical system, to make it physically known. 
 
-They realized that from their own creativity they formed idea into matter, and that 
-the stuff of matter was itself conscious and alive. They were intimately familiar with the 
-natural rapport existing between themselves and their environment, therefore, and 
-knew that they could alter their environment through their own acts. 
+Sometimes only one or two Speakers were alive in several centuries. Sometimes there were many. They looked around them and knew that the world sprang from their interior reality. They told others. They knew that the seemingly solid natural objects about them were composed of many minute consciousnesses . 
 
-Generally speaking, once a Speaker always a speaker, in your terms. In some 
-incarnations, the abilities might be used so powerfully that all other aspects of the 
-personality remained in the background. At other times the capacities might be timidly 
-used. The Speakers possess an extraordinary vividness of feeling and thought pro- 
-jection. 
+They realized that from their own creativity they formed idea into matter, and that the stuff of matter was itself conscious and alive. They were intimately familiar with the 
+natural rapport existing between themselves and their environment, therefore, and knew that they could alter their environment through their own acts. 
 
-They can impress others with greater import through their communications. They 
-can move from inner to outer reality with easy ability. They know instinctively how to 
-use symbolism. They are highly creative on an unconscious level, constantly forming 
-psychic frameworks beneath normal consciousness that can be used both by 
-themselves and others in dream and trance states. They often appear to others in the 
-dream condition, and they help dreamers in the manipulation of inner reality. They 
-form images with which the dreamers can relate, images that can be used as bridges 
-and then as gateways into kinds of consciousness more separated from your own. 
+Generally speaking, once a Speaker always a speaker, in your terms. In some incarnations, the abilities might be used so powerfully that all other aspects of the personality remained in the background. At other times the capacities might be timidly used. The Speakers possess an extraordinary vividness of feeling and thought projection. 
 
-The symbolism of the gods, the idea of the gods on Olympus, for example, the 
-crossing-over point at the River Styx - that kind of phenomenon was originated by the 
-Speakers. The symbolisms and frameworks of religion, therefore, had to exist not only 
-in the physical world but also in the unconscious one. Outside of your own framework, 
+They can impress others with greater import through their communications. They can move from inner to outer reality with easy ability. They know instinctively how to 
+use symbolism. They are highly creative on an unconscious level, constantly forming psychic frameworks beneath normal consciousness that can be used both by themselves and others in dream and trance states. They often appear to others in the dream condition, and they help dreamers in the manipulation of inner reality. They form images with which the dreamers can relate, images that can be used as bridges and then as gateways into kinds of consciousness more separated from your own. 
 
+The symbolism of the gods, the idea of the gods on Olympus, for example, the crossing-over point at the River Styx - that kind of phenomenon was originated by the Speakers. The symbolisms and frameworks of religion, therefore, had to exist not only in the physical world but also in the unconscious one. Outside of your own framework, houses as such or dwellings as such are not needed, and yet in trance encounters or 
+dream encounters with other realities, such structures are frequently seen. They are transformations of data into terms that will be meaningful to you. 
 
+After death, for example, an individual may continue to create these - masses of individuals may - until they realize that the frameworks are no longer necessary. The 
+Speakers were not confined in their activities, therefore, to waking consciousness. 
 
-houses as such or dwellings as such are not needed, and yet in trance encounters or 
-dream encounters with other realities, such structures are frequently seen. They are 
-transformations of data into terms that will be meaningful to you. 
+In all periods of your time they went about their duties both in the waking and sleep state. 
 
-After death, for example, an individual may continue to create these - masses of 
-individuals may - until they realize that the frameworks are no longer necessary. The 
-Speakers were not confined in their activities, therefore, to waking consciousness. In all 
-periods of your time they went about their duties both in the waking and sleep state. 
-Much of the most pertinent information, in fact, was memorized by trainees during the 
-dream condition, and passed on in the same manner. These unwritten manuscripts 
-therefore were also illustrated, so to speak, by dream journeys or field trips into other 
-kinds of reality. Such training still goes on. The particular psychic or story framework 
-may vary. For example, conventional images of the Christian God and the saints may be 
-utilized by the Speakers, with all of this highly vivid. The dreamer may find himself then 
-in a magnificent harem, or instead in a brilliantly illuminated field or sky. Some 
-Speakers confine their abilities to the dream state; and, waking, are largely unconscious 
-of their own abilities or experience. 
+Much of the most pertinent information, in fact, was memorized by trainees during the dream condition, and passed on in the same manner. These unwritten manuscripts therefore were also illustrated, so to speak, by dream journeys or field trips into other kinds of reality. Such training still goes on. The particular psychic or story framework may vary. For example, conventional images of the Christian God and the saints may be 
+utilized by the Speakers, with all of this highly vivid. The dreamer may find himself then in a magnificent harem, or instead in a brilliantly illuminated field or sky. Some 
+Speakers confine their abilities to the dream state; and, waking, are largely unconscious of their own abilities or experience. 
 
-Now it is meaningless to call such dreams or dream places hallucinations, for they 
-are representations of definite "objective" realities that you cannot perceive as yet in 
-their own guise. The Egyptian religion was largely based upon the work of the Speakers, 
-and great care was given to their training. The outward manifestations given to the 
-masses of the people became so distorted, however, that the original unity of the 
-religion finally decayed. 
+Now it is meaningless to call such dreams or dream places hallucinations, for they are representations of definite "objective" realities that you cannot perceive as yet in 
+their own guise. The Egyptian religion was largely based upon the work of the Speakers, and great care was given to their training. The outward manifestations given to the 
+masses of the people became so distorted, however, that the original unity of the religion finally decayed. 
 
-However, efforts were being made then to map inner reality in ways that have not 
-been attempted since. It is true that in the dream state and in some other levels of 
-existence close to your own, there is strong individual play in the creation of images, 
-and a magnificent use of symbolism, but all of this takes place, again, in an "objective" 
-definite environment, an environment whose characteristics make such phenomena 
-possible - a field of activity, then, with its own rules. Now the Speakers are familiar with 
+However, efforts were being made then to map inner reality in ways that have not been attempted since. It is true that in the dream state and in some other levels of 
+existence close to your own, there is strong individual play in the creation of images, and a magnificent use of symbolism, but all of this takes place, again, in an "objective" 
+definite environment, an environment whose characteristics make such phenomena possible - a field of activity, then, with its own rules. Now the Speakers are familiar with 
 those rules, and often serve as guides. They have at times worked within organizations 
 as in Egypt, where they worked through the temples and became involved with the 
 power structures. As a rule, however, they are far more solitary. 
@@ -212,39 +155,22 @@ actions occurred. The very definite rules of that system then would be quite obs
 you. 
 
 
+The Speakers are familiar with the rules within many systems. Still, however, most of these systems in larger terms are somewhat connected with your own kind of 
+reality. There are an infinite number of inner universes. 
 
-Now the Speakers are familiar with the rules within many systems. Still, however, 
-most of these systems in larger terms are somewhat connected with your own kind of 
-reality. There are an infinite number of inner universes. Only the very highest, most 
-developed gestalt consciousness can be aware of anything like their totality. In this 
-larger context, then, the Speakers must be called local. There is something like a chart 
-mapping many of the nearby systems of reality, and I hope some day in your terms to 
-make this available. In order to do so, Ruburt must be trained somewhat more 
-intensely. There are points of coincidence where under certain conditions entry may be 
-made from one of these systems to the other. They need not exist separately in space as 
-you know it, of course. 
+Only the very highest, most developed gestalt consciousness can be aware of anything like their totality. In this larger context, then, the Speakers must be called local. There is something like a chart mapping many of the nearby systems of reality, and I hope some day in your terms to make this available. In order to do so, Ruburt must be trained somewhat more intensely. There are points of coincidence where under certain conditions entry may be made from one of these systems to the other. They need not exist separately in space as you know it, of course. 
 
 These are called coordination points, where one camouflage merges into the other. 
-Some of these are geographical in your system, but in all cases, a tuning-in of 
-consciousness is a necessary preliminary. Such entries can only be made in an out-of- 
-body condition. Each individual in his dreams has access to the information possessed 
-by the Speakers. There are adjacent states of consciousness that occur within the sleep 
-pattern, that cannot be picked up by your EEG's - adjacent "corridors" through which 
+
+Some of these are geographical in your system, but in all cases, a tuning-in of consciousness is a necessary preliminary. Such entries can only be made in an out-of-body condition. Each individual in his dreams has access to the information possessed by the Speakers. There are adjacent states of consciousness that occur within the sleep pattern, that cannot be picked up by your EEG's - adjacent "corridors" through which 
 your consciousness travels. 
 
-The higher centers of intuition are activated while physically oriented portions of 
-consciousness remain with the body. The "absent" portion of the self cannot be traced 
-through brain patterns, though the point of its departure and the point of its return 
-may show a particular pattern. The "time out" itself, however, will not be detected in 
-any way, the tracings showing only whatever characteristic pattern was being given 
-immediately before departure. 
+The higher centers of intuition are activated while physically oriented portions of consciousness remain with the body. The "absent" portion of the self cannot be traced 
+through brain patterns, though the point of its departure and the point of its return may show a particular pattern. The "time out" itself, however, will not be detected in any way, the tracings showing only whatever characteristic pattern was being given immediately before departure. 
 
-Now this happens in every night's sleep. Two areas of activity are involved, one very 
-passive and one acutely active. In one state this portion of consciousness is passive, 
-receiving information. In the next stage it is active as it takes part through action - the 
-concepts given it are then vividly perceived through participation and examples. This is 
-the most protected area of sleep. The rejuvenating characteristics enter in here, and it is 
-during this period that the Speakers act as teachers and guides. 
+Now this happens in every night's sleep. Two areas of activity are involved, one very passive and one acutely active. In one state this portion of consciousness is passive, 
+receiving information. In the next stage it is active as it takes part through action - the concepts given it are then vividly perceived through participation and examples. This is 
+the most protected area of sleep. The rejuvenating characteristics enter in here, and it is during this period that the Speakers act as teachers and guides. 
 
 This information is, then, often interpreted on return by other layers of the self such 
 as the body consciousness and subconscious, where it is formed into dreams that will 
@@ -416,22 +342,17 @@ personally. If you discover, say, that a fountain in a dream represents refreshm
 when you are tired or depressed, think of a fountain. In another layer of reality, of 
 course, you will be creating one. 
 
-In the most protected areas of sleep you are dealing with experience that is pure 
-feeling or knowing, and disconnected from both words or images. 
+In the most protected areas of sleep you are dealing with experience that is pure feeling or knowing, and disconnected from both words or images. 
 
 These experiences are translated into dreams later, necessitating a return to areas of consciousness more familiar with physical data. Here a great creative synthesis and a great creative diversification takes place, in which any given dream image has meaning to various layers of the self - on one level representing a truth you have lived and on other levels representing this truth as it is more specifically applied to various areas of experience or problems. There will be a metamorphosis, therefore, of one symbol turning into many, and the conscious mind may only perceive a chaos of various dream 
 images, because the inner organization and unity is partially hidden in the other areas 
 of consciousness through which the reasoning mind cannot follow. 
 
-The unconscious and subconscious areas, however, are aware of much more of this 
-information than the ego, for it receives only the minute residue of dream material as a 
-rule. The Speakers therefore may appear within dreams as historical characters, as 
-prophets, as trusted old friends, or in whatever guise will impress the particular 
+The unconscious and subconscious areas, however, are aware of much more of this information than the ego, for it receives only the minute residue of dream material as a 
+rule. The Speakers therefore may appear within dreams as historical characters, as prophets, as trusted old friends, or in whatever guise will impress the particular 
 personality. 
 
 In the original experience, however, the true nature of the Speaker is apparent. The production of dreams is as "sophisticated" an endeavor as is the production of the 
 objective life of a given individual. It is simply living on different terms. 
 
 These various stages of consciousness and fluctuations of psychic activity can also be examined through direct experience from the waking state. In the following chapter we will let you become more aware of these ever-active portions of your own reality. 
-
-
