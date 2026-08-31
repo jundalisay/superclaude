@@ -1,8 +1,8 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "Trade Model"
 date: 2015-01-17
-weight: 5
+weight: 3
 image: /photos/econ/ship.jpg
 description: ""
 writer:
@@ -11,7 +11,8 @@ writer:
 ---
 
 
-The Trade model the proper circulation of goods and services. This is divided into financial circulation and physical circulation. 
+
+The Trade model plots the proper circulation of goods and services. This is divided into financial circulation and physical circulation. 
 
 
 ## Financial Circulation

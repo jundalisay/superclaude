@@ -1,9 +1,9 @@
 ---
-heading: "Section 4"
-title: "Money"
+heading: "Section 1"
+title: "Trade Model"
 date: 2015-01-17
-weight: 22
-image: /photos/objects/money.jpg
+weight: 2
+image: /photos/econ/ship.jpg
 description: ""
 writer:
   name: Juan

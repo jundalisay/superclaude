@@ -2,13 +2,14 @@
 heading: "Unit 3"
 title: "Physical Circulation"
 date: 2015-01-17
-weight: 5
-image: /photos/econ/ship.jpg
+weight: 7
+image: /photos/econ/rider.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 ## The Equation, Defined for Ecommerce
