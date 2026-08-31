@@ -1,12 +1,12 @@
 ---
 heading: "Section 2"
-title: "Barter Trade"
-date: 2015-01-17
+title: "Purchasing Power"
+# date: 2022-03-27
+date: 2021-12-30
 weight: 6
-image: /photos/econ/barter.jpg
-description: "Balance is maintained by the 3rd Law"
+image: /photos/objects/gold.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-

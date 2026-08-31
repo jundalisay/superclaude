@@ -10,20 +10,23 @@ description: "Bashar answers Questions about Aliens"
 
 Physical Aliens | Description
 --- | ---
-Humans | Genetically manipulated homo erectus by the Anunnaki
 Anunnaki | Creators of humans, from Cygnus. They have blue blood, blue-tinted skin
-Sassani | Hybrid of humans and grays, from Orion
 Grays | Genetically modified future humans, from Zeta Reticuli
+Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, overseen by Mantis Beings
+Humans | Genetically manipulated homo erectus by the Anunnaki
 Lyrian | (Vega) Evolved from Anunnaki
-Oneta | DNA experts
+Mantis Beings | Manages the hybridization agenda
+Marbles | 10 feet spheres 12 tentacles that roll around in the inside-out universe
+Onatayu | DNA experts
 Plaedians | Direct offshoot Orion diaspora, also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
 Reptilians | Genetically manipulated dinosaurs
+Sassani | Hybrid of humans and grays, from Orion
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
 Tall Whites | Nordics
-Marbles | 10 feet spheres 12 tentacles roll around
-Wanderers | Helps with the hybridization agenda
+Thuk | Has the ability to remove memory or disconnect entities from akashic (aethereal) memory
 Virgo | Bashar is not allowed to discuss them
+Wanderers | Helps with the hybridization agenda
 
 
 <!-- The inside out universe  -->
@@ -137,7 +140,8 @@ After the third day, Shakana went back to energy and everyone woke up.
 From that day, the Sassani did not need to sleep anymore.
 
 
-## Maldekians (from Elan)
+
+## Maldekians (from Elan, supported by Ra and Sumerian texts as Marduk)
 
 The asteroid belt was formerly a planet Maldek
 
@@ -149,6 +153,7 @@ This led to the infusion of consciounsess on Earth causing the start of humans (
 
 
 
+## Others
 
 Ra oversees the genetic programs
 

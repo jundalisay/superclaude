@@ -1,0 +1,608 @@
+{{ define "main" }}
+<style>
+  /* ===== THEME TOGGLE ===== */
+  .theme-toggle {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 9999px;
+    padding: 6px 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+  }
+  .theme-toggle:hover {
+    background: rgba(255,255,255,0.15);
+  }
+  .theme-toggle .icon-sun,
+  .theme-toggle .icon-moon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    line-height: 1;
+  }
+  [data-theme="light"] .theme-toggle .icon-moon { display: none; }
+  [data-theme="dark"] .theme-toggle .icon-sun { display: none; }
+  [data-theme="light"] .theme-toggle .icon-sun { display: inline-block; }
+  [data-theme="dark"] .theme-toggle .icon-moon { display: inline-block; }
+
+  /* ===== VIDEO HERO (half screen) ===== */
+  .video-hero {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+    background: var(--bg-secondary);
+  }
+  .video-hero video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.25;
+  }
+  .video-hero .overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(5,22,32,0.2), var(--bg-primary) 85%);
+    pointer-events: none;
+  }
+  .video-hero .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+  .video-hero h1 {
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+  }
+  .video-hero p {
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin-top: 0.5rem;
+  }
+
+  /* ===== SHIMMER ===== */
+  .shimmer-text {
+    background-image: linear-gradient(100deg, var(--base-color) 30%, #ffffff 50%, var(--base-color) 70%);
+    background-size: 250% 100%;
+    background-position: 100% 0;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shimmer 4s ease-in-out infinite;
+  }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -100% 0; }
+  }
+  [data-theme="light"] .shimmer-text {
+    background-image: linear-gradient(100deg, #0166a7 30%, #0a1a24 50%, #0166a7 70%);
+  }
+
+  /* ===== TABS ===== */
+  .subnav-tab {
+    cursor: pointer;
+    transition: color 0.2s, border-color 0.2s;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 6px;
+    color: var(--tab-color);
+    font-weight: 600;
+  }
+  .subnav-tab.active {
+    color: var(--tab-active);
+    border-bottom-color: var(--tab-active);
+  }
+  .subnav-tab:hover {
+    color: var(--tab-active);
+  }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* ===== CARDS ===== */
+  .section-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 1rem;
+    transition: background 0.3s, border-color 0.3s;
+  }
+  .divider-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background: #FAA732;
+    flex-shrink: 0;
+  }
+  .border-white\/10 { border-color: rgba(255,255,255,0.08); }
+  .border-white\/5 { border-color: rgba(255,255,255,0.04); }
+
+  /* ===== LINKS ===== */
+  a { color: var(--tab-active); transition: color 0.2s; }
+  a:hover { color: var(--text-primary); }
+
+  p {padding: 4px 0px; font-size: 1.3em;}
+  /* ===== SCROLL ===== */
+  .scroll-mt-28 { scroll-margin-top: 7rem; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 640px) {
+    .video-hero { height: 40vh; }
+  }
+</style>
+
+
+
+<!-- ===== VIDEO HERO (half screen) ===== -->
+<section class="video-hero" style="margin-top: 64px;">
+  <video autoplay muted loop playsinline>
+    <source src="/socrates.mp4" type="video/mp4">
+  </video>
+  <div class="overlay"></div>
+  <div class="content">
+    <h1 class="font-display">
+      <span class="shimmer-text" style="--base-color: #0166a7;">About</span>
+      <span class="shimmer-text" style="--base-color: #01bca4;">Superphysics</span>
+    </h1>
+    <p>A unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether.</p>
+  </div>
+</section>
+
+<!-- ===== TABS ===== -->
+<div class="max-w-6xl mx-auto px-6 pt-6 pb-2">
+  <div id="subnav" class="flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-sm md:text-base font-display font-semibold border-b border-white/10 pb-2" style="color: var(--tab-color); border-color: var(--card-border);">
+    <span class="subnav-tab active" data-tab="origin">The Start</span>
+    <span class="subnav-tab" data-tab="branches">Five Branches</span>
+    <span class="subnav-tab" data-tab="vision">Vision &amp; Mission</span>
+    <span class="subnav-tab" data-tab="timeline">Crisis Timeline</span>
+    <span class="subnav-tab" data-tab="contact">Team</span>
+  </div>
+</div>
+
+<!-- ===== TAB PANELS ===== -->
+<div class="max-w-6xl mx-auto px-6 pb-16">
+
+  <!-- ORIGIN -->
+  <section id="origin" class="tab-panel active scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">It began with the financial crisis</h2>
+      </div>
+      <div class="space-y-5 leading-relaxed" style="color: var(--text-secondary);">
+
+        <iframe class="mx-auto pb-16" width="560" height="315" src="https://www.youtube.com/embed/QyrxLqI9Qcg?si=hifVKR4YdToQN1bl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+        <p class="py-2">Superphysics was founded by Juan from his personal research on the 2008 Financial Crisis — a crisis that happened because Alan Greenspan failed to regulate the banking industry, citing Adam Smith as his justification for non-regulation.</p>
+        <p>So was Adam Smith such a bad guy for causing so much economic pain that actually caused deaths around the world?</p>
+        <p>Reading <i>The Wealth of Nations</i> told a different tale. Smith advocated strict regulation of banking, comparing it to <a href="#">building firewalls to prevent the spread of fire</a>. Greenspan was really citing <b>Samuelson</b> and neoliberal writers who elevated selfish-interest over the common interest.</p>
+        <p>Since Greenspan and Samuelson were the bad guys, Smith became the good guy to us:</p>
+        <ul class="space-y-3 pl-1">
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>Smith described the <a href="#">invisible hand</a> as a concept of dharma, citing David Hume. We reinterpret his "self-interest" as personal dharma or purpose in life as <em>svadharma</em>, in line with Socrates, Hinduism, and Taoism.</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>Hume agreed with Descartes, and cited Plato.</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>Descartes' aether traces back to Plato.</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>Plato wrote about Socrates.</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>Socrates spoke of <a href="#">reincarnation and chakras</a>, and of dharma versus adharma which was wrongly interpreted as justice or δικία and injustice or ἀδικία.</li> 
+        </ul>
+        <p>Socrates became the essential link between Western and Eastern philosophy — the thread we pulled to form Superphysics: a dialectical system for solving problems, the way the scientific method solves science problems and formulas solve math problems.</p>
+      </div>
+    </div>
+
+    <div class="max-w-3xl mx-auto">
+      <div class="flex items-center gap-3 my-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">Unifying human knowledge</h2>
+      </div>
+      <div class="space-y-5 leading-relaxed mb-8" style="color: var(--text-secondary);">
+        <p>Superphysics unifies Science with Philosophy, Physics with Metaphysics.</p>
+        <p>Its core is Asian philosophy since the Hindus, Buddhists, and Taoists already explained how the Supreme Entity works as the <strong style="color: var(--tab-active);">cause</strong> of everything. Its external implementation is Western science, which already explains how physical things work as the <strong style="color: #5ba3d0;">effect</strong>. Mastery of cause and effect, East and West, makes it a tool for solving anything.</p>
+      </div>
+    </div>
+  </section>
+
+<section id="branches" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-5xl mx-auto">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">Each science is based on core Superphysics</h2>
+      </div>
+      <p class="pb-6 mb-6">Core Superphysics has the concepts of "The One" and the "Supreme Entity" (Brahma or All-That-Is), 2 Forces (Positive-Negative or Yang-Yin or Shiva-Shakti), 3 Gunas, 4 Rules of Motion, 5 Layers (5 Elements), and a wave-based Existence</p>
+
+
+      <div class="grid md:grid-cols-2 gap-5">
+        
+        <!-- MATERIAL -->
+<div onclick="window.location.href='/material'" class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 overflow-hidden shadow-lg cursor-pointer" style="border: 1px solid rgba(255, 0, 0, 0.25);">
+  <div class="flex items-center gap-4 mb-4">
+    <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center ring-1" style="background: indianred; box-shadow: inset 0 0 0 1px rgba(91,163,208,0.25);">
+      <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask><radialGradient id='centerGrad' cx='35%' cy='35%' r='65%'><stop offset='0%' stop-color='#FF5388'/><stop offset='50%' stop-color='#D81E5B'/><stop offset='100%' stop-color='#900C3F'/></radialGradient></defs><polygon points='50,0 100,50 0,50' fill='#FF7A38' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><circle cx='50' cy='50' r='18' fill='url(#centerGrad)'/></svg>              
+    </div>
+    <h3 class="font-display font-bold text-xl md:text-2xl" style="color: firebrick;">Material Superphysics</h3>
+  </div>
+  <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">Overhauls Newtonian Physics under the physics of Descartes and Spinoza, introducing the aethereal monad as the smallest particle in existence.</p>
+  <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+    <div>
+      <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-500 mb-1">Basic goal</span>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Put Newtonian Physics under Cartesian Physics and conclusively solve remaining mysteries in Physics.</p>
+    </div>
+    <div>
+      <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">Target output</span>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Levitation, teleportation, antimatter/fusion, precision fabrication technologies.</p>
+    </div>
+  </div>
+</div>
+
+        <!-- 2. BIO -->
+<div onclick="window.location.href='/bio'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(255, 105, 180, 0.3); box-shadow: 0 4px 15px rgba(255, 105, 180, 0.08);">
+    <div class="flex items-center gap-4 mb-4">
+    <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: pink; box-shadow: inset 0 0 0 1px rgba(1,188,164,0.25);">
+      <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='21' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#FF4093' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00D0B0' mask='url(#cutout)' /> <path d='M 50,65 C 38,57 34,48 34,41 A 11,11 0 0,1 50,33.5 A 11,11 0 0,1 66,41 C 66,48 62,57 50,65 Z' fill='#E23A28' /> <path d='M 33,52 L 41,52 L 43.5,48 L 46,56 L 49.5,41.5 L 53,61 L 55.5,50.5 L 58,52 L 67,52' fill='none' stroke='#FFFFFF' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round' /> </svg>
+    </div>
+    <h3 class="font-display font-bold text-xl md:text-2xl" style="color: deeppink">Bio Superphysics</h3>
+  </div>
+  <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">Connects Material and Social Superphysics to explain living things, solve disease, and improve health for humans, animals, and plants.</p>
+  <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+    <div>
+      <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">Basic goal</span>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Put Alternative Medicine on a level with Western Medicine.</p>
+    </div>
+    <div>
+      <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">Target output</span>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Automated Natural Intelligence (ANI) for predicting health issues, sound-based agriculture, seawater agriculture testing.</p>
+    </div>
+  </div>
+</div>
+
+        <!-- 4. SPIRITUAL -->
+        <div onclick="window.location.href='/spiritual'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(75, 0, 130, 0.25); box-shadow: 0 4px 15px rgba(75, 0, 130, 0.08);">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: lavender; box-shadow: inset 0 0 0 1px rgba(250,167,50,0.25);">
+              <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#5E4EA7' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><path d='M 52,36 L 52.8,37.3 L 54.1,36.5 L 53.3,35.2 Z' fill='#0080FF'/><path d='M 49.5,41.5 C 52,39.5 56,39.5 58.5,41.5 C 56,43 52,43 49.5,41.5 Z' fill='#0080FF'/><path d='M 45,41.5 C 47,41.5 48.5,43 48.5,45 C 48.5,47.5 45.5,48.5 43.5,48.5 C 46.5,48.5 49,50 49,53 C 49,56.5 45.5,58.5 42,58.5 C 38.5,58.5 37.5,55.5 37.5,53.5 C 37.5,53.5 40,53.5 40.5,55 C 41,56 42,56.5 43,56.5 C 45,56.5 46.5,55 46.5,53 C 46.5,50.5 44,50 42,50 L 40,50 L 40,47.5 L 42,47.5 C 44,47.5 46,46.5 46,44.5 C 46,43 44.5,42.5 43.5,42.5 C 42,42.5 41,43.5 40.5,44.5 C 39.5,43.5 38.5,42.5 40,41.5 C 41.5,40.5 43.5,41.5 45,41.5 Z M 48.5,48.5 C 51.5,45 57,43.5 60.5,46.5 C 63,48.8 63,52.5 61,55.5 C 59,58.5 55.5,59 53.5,59 C 53.5,59 53,56.5 54.5,55.5 C 56,54.5 58.5,55 59.5,53 C 60.5,51 60,48.5 58,47 C 55.5,45 51.5,46.5 49.5,50 C 49,49.5 48.5,49 48.5,48.5 Z' fill='#0099FF'/></svg>
+            </div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: indigo">Spiritual Superphysics</h3>
+          </div>
+          <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">Juan and Jose arrived at Superphysics through samadhi — a direct experience of the Supreme, felt as an understanding of how the universe works. Spiritual Superphysics explains how to reach samadhi by following one's dharma.</p>
+          <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">Goal</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Help everyone find their spiritual path, or true goal in life (dharma).</p>
+            </div>
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">Target output</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Classify major belief systems under Omnitheism, and suggest a fit based on personality type.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5. SUPERLOGIC -->
+<div onclick="window.location.href='/supermath'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(128, 128, 128, 0.25); box-shadow: 0 4px 15px rgba(128, 128, 128, 0.08);">
+  <div class="flex items-center gap-4 mb-4">
+    <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: rgba(167,139,250,0.12); box-shadow: inset 0 0 0 1px rgba(167,139,250,0.25);">
+      <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>
+    </div>
+    <h3 class="font-display font-bold text-xl md:text-2xl" style="color: gray">Superlogic</h3>
+  </div>
+  <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">The foundational logical system of Superphysics, based on Socratic Dialectics. Contains two sub-sciences:</p>
+  <div class="grid grid-cols-2 gap-3 pt-4 border-t" style="border-color: var(--card-border);">
+    <div class="rounded-xl p-3.5" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+      <h4 class="font-display font-semibold text-sm mb-1" style="color: var(--tab-active);">Supermath</h4>
+      <p class="text-xs leading-relaxed" style="color: var(--text-secondary);">Superlogic confined to numerical instances.</p>
+    </div>
+    <div class="rounded-xl p-3.5" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+      <h4 class="font-display font-semibold text-sm mb-1" style="color: var(--tab-active);">Qualimath</h4>
+      <p class="text-xs leading-relaxed" style="color: var(--text-secondary);">Superlogic applied to qualitative perceptions, patterned on Sassani math.</p>
+    </div>
+  </div>
+</div>
+</div>
+      
+
+        <!-- 3. SOCIAL (spans full width, has three sub-items) -->
+<div onclick="window.location.href='/social'" class="my-4 section-card rounded-2xl p-6 md:p-8 relative overflow-hidden md:col-span-1 cursor-pointer" style="border: 1px solid rgba(0, 128, 0, 0.2); box-shadow: 0 4px 15px rgba(0, 128, 0, 0.06);">
+  <div class="flex items-center gap-4 mb-4">
+    <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: palegreen; box-shadow: inset 0 0 0 1px rgba(91,163,208,0.25);">
+      <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#005A43' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00A878' mask='url(#cutout)'/><circle cx='50' cy='50' r='25.5' fill='none' stroke='#005A43' stroke-width='4.5'/><polygon points='50,27.5 61.5,39 50,50.5 38.5,39' fill='#4C73B7'/><polygon points='61.5,39 73,50.5 61.5,62 50,50.5' fill='#EF6969'/><polygon points='50,50.5 61.5,62 50,73.5 38.5,62' fill='#D49E2A'/><polygon points='38.5,39 50,50.5 38.5,62 27,50.5' fill='#47B475'/></svg>
+    </div>
+    <div>
+      <h3 class="font-display font-bold text-xl md:text-2xl" style="color: forestgreen;">Social Superphysics</h3>
+      <p class="text-sm md:text-base leading-relaxed mt-1" style="color: var(--text-secondary);">Applies Superphysics to chronic problems in society — split into three sub-sciences.</p>
+    </div>
+  </div>
+  <div class="grid sm:grid-cols-1 sm:grid-cols-3 gap-4 pt-4 border-t" style="border-color: var(--card-border);">
+    <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+      <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">Supersociology</h4>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Handles the abstract parts of society: politics, crime, war.</p>
+      <p class="text-xs leading-relaxed mt-2" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">Goal:</span> replace current Sociology with Socrates and Ibn Khaldun.</p>
+      <p class="text-xs leading-relaxed mt-1.5" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">Output:</span> Confirmation Elections, Constitutional Virtues, a World Constitution and National Constitution Template, ANI for predicting social cycles.</p>
+    </div>
+    <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+      <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">Supereconomics</h4>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Applies Superphysics to the economy, business, and labor.</p>
+      <p class="text-xs leading-relaxed mt-2" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">Goal:</span> replace Neoclassical Economics with Socrates-Smith Economics.</p>
+      <p class="text-xs leading-relaxed mt-1.5" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">Output:</span> a moneyless economy, Pool Clearing (a free trade system), replacing GDP with NDP, ANI for real-time economic coordination.</p>
+    </div>
+    <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+      <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">Superhistory</h4>
+      <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">Plots the history of the human species, split into societies, as training data for social-cycle predictions.</p>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+  </section>
+
+
+
+
+  <!-- VISION -->
+  <section id="vision" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-4xl mx-auto">
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="section-card rounded-2xl p-8"><h3 class="font-display font-semibold text-sm tracking-wide" style="color: var(--tab-active);">VISION</h3><p class="text-xl md:text-2xl font-display font-medium leading-snug" style="color: var(--text-primary);">To bring reality back within the Dharma.</p></div>
+        <div class="section-card rounded-2xl p-8"><h3 class="font-display font-semibold text-sm tracking-wide" style="color: #5ba3d0;">MISSION</h3><p class="text-xl md:text-2xl font-display font-medium leading-snug" style="color: var(--text-primary);">To create the sciences and systems that bring reality back within the Dharma.</p></div>
+      </div>
+      <div class="mt-10 leading-relaxed space-y-4" style="color: var(--text-secondary);">
+        <p>Adam Smith's <a href="#">Digression on Silver</a> describes a 500-year pattern of prices, which we extended into modern times. Every great crisis of the 20th century followed that extended pattern — pointing to a series of crises from 2019 to 2030 we call <strong style="color: var(--text-primary);">The Great Stagflation</strong>. Our goal is to implement Smith's alternative economic system during these years, turning the flaws of matter- and money-based systems into an opportunity.</p>
+        <p>We're looking for universities interested in our theories, publishers interested in our books, and companies and angels who want to support a points-based economic system that preserves their business and capital through a prolonged crisis.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TIMELINE -->
+<section id="timeline" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto">
+        <!-- Header -->
+<div class="flex flex-col items-center gap-3 mb-10">
+  <div class="flex items-center gap-3">
+    <div class="w-2 h-2 rounded-full bg-teal-400"></div>
+    <h2 class="font-display font-bold text-3xl md:text-4xl">
+      Our model predicted the crisis years starting in 2020, which would be a chance to push forward our 4th density science
+    </h2>
+  </div>
+  <a href="https://www.youtube.com/watch?v=cerRNeH561Y" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 mt-6 py-3 rounded-xl font-semibold text-sm md:text-base transition-all duration-300 hover:scale-105 hover:shadow-lg" style="background: #0d9488; color: white; box-shadow: 0 4px 12px rgba(13, 148, 136, 0.35);">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+    What's 4th Density?
+  </a>
+</div>
+
+
+
+
+
+        <!-- Timeline -->
+        <div class="relative pl-8 border-l border-slate-200 dark:border-slate-700">
+            <div class="space-y-10">
+                <!-- Item 1 -->
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-green-400 ring-4 ring-green-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-teal-600 dark:text-teal-400">2015</p>
+                    <p class="">
+                        We predict the crisis years to begin in 2020 as a long stagflation followed by war, based on the Great Depression + World War 2 pattern. We begin pitching the moneyless system (which has EF Schumacher's multilateral clearing) to strike at the root of the problem.
+                    </p>
+                </div>
+
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-teal-600 dark:text-red-400">2018</p>
+                    <p class="">
+                        We fail to get investment so we switch to the theory side and implement the moneyless system for ourselves and our partners as an offline system. 
+                    </p>
+                </div>                
+
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-red-600 dark:text-red-400">March 2020</p>
+                    <p class="">
+                        The crisis years arrived via Covid. The medical system broke down first, leading us to create <a href="#" class="text-teal-500 font-bold">Pantrypreneur Health</a> as a Bio Superphysics implementation. Our model predicts the financial system crashes next, which led to <a href="#" class="text-teal-500 hover:underline">Points Banking</a>. Economic and international law systems come under stress later. Our correct prediction expands our local partnerships. We focus on Descartes to solidify Superphysics. 
+                    </p>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-blue-500 dark:text-red-400">July 2022</p>
+                    <p class="">
+                        Russia's invasion of Ukraine demonstrates the failure of international law, while the collapse of Sri Lanka — and soon Pakistan — demonstrates the failure of economic systems.
+                    </p>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-amber-600 dark:text-red-400">October 2023</p>
+                    <p class="">
+                        The Israel-Hamas war makes the failure of international law even more visible: the powerful act arbitrarily. A sign of animal morals — survival of the fittest. We come up with the Anunnaki Quran and Torah, and the Earth Government as a solution.
+                    </p>
+                </div>
+
+                <!-- Item 4 -->
+                <div class="relative">
+                    <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+                    <p class="text-sm font-display font-semibold text-red-600 dark:text-red-400">March-August 2026</p>
+                    <p class="">
+                        The Iran war sends oil prices haywire, matching our prediction that the war will spread and escalate. The Nepal-Tibet flood in August make us realize that the pro-Einstein physicists have won and so <b>global warming will continue to kill people</b>. We abandon developing Material Superphysics chasing Nikola Tesla's free energy and anti-gravity (4th density) tech since humans <b>WANT</b> the such disasters (i.e. dying from a flood is a valid physical experience). Instead, we focus on 5th density non physical sciences (i.e. Spiritual Superphysics and Elementals of Bio Superphysics)
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+  <!-- Team -->
+  <section id="contact" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto text-center">
+      <div class="flex items-center justify-center gap-3 mb-6"><div class="divider-dot"></div><h2 class="font-display font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">Core Team</h2></div>
+      <p class="leading-relaxed mb-8" style="color: var(--text-secondary);">We're looking for universities, publishers, and companies ready to think past the current crisis. Reach us at <a href="mailto:superphysicsorg@gmail.com">superphysicsorg@gmail.com</a>.</p>
+<!--       <a href="#" class="group block rounded-2xl overflow-hidden border relative max-w-lg mx-auto" style="border-color: var(--card-border);">
+        <div class="aspect-[16/9] w-full overflow-hidden relative">
+          <img loading="lazy" src="/photos/team.jpg" alt="The Superphysics team" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+          <div class="absolute inset-0 bg-gradient-to-t from-[#051620] via-[#051620]/10 to-transparent"></div>
+          <div class="absolute inset-0 flex flex-col justify-end p-6 text-left"><h3 class="font-display font-bold text-xl text-white">Meet the team</h3><p class="text-blue-100/70 text-sm">The people behind Superphysics</p></div>
+        </div>
+      </a> -->
+<div class="mb-16">
+    <!-- Juan -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex gap-4 mb-4">
+        <img src="/photos/juan.jpg" alt="Juan" class="w-14 h-14 rounded-full object-cover">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">
+            <a href="https://www.linkedin.com/in/jundalisay/" target="_blank" rel="noopener noreferrer" class="hover:opacity-80 transition-opacity">Juan</a>
+          </h3>
+          <p class="text-xs font-medium text-teal-400/80">Founder</p>
+        </div>
+      </div>
+      <span class="leading-relaxed">Founded Superphysics and Pantrypoints after failing entry to Japan's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/sdetail02/1374094.htm" target="_blank" rel="noopener noreferrer" class="text-teal-400/80 hover:text-teal-300 transition-colors">Young Leader's Program</a> in 2009 due to disgust with "profit maximization" during the Financial Crisis. Created an alternative economic science that ballooned into non-materialist Superphysics. Has a "<a href="/research/benham/palmistry/part-2/chapter-14d-intuition/" class="text-teal-400/80 hover:text-teal-300 transition-colors">Line of Intuition</a>" and "Solomon Ring". Got samadhi in 2008 which prompted his research.</span>
+    </div>
+
+    <!-- Jing -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex gap-4 mb-4">
+        <img src="/photos/jing.jpg" alt="Jing" class="w-14 h-14 rounded-full object-cover ring-2">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">Jing</h3>
+          <p class="text-xs font-medium text-teal-400/80">Vice-President</p>
+        </div>
+      </div>
+      <span class="leading-relaxed" style="color: var(--text-secondary);">Vice-President of an agriculture association and joined in late 2018. Catholic who doesn't care about samadhi but is very keen on using Bio Superphysics for agriculture.</span>
+    </div>
+
+    <!-- Anh -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex gap-4 mb-4">
+        <img src="/photos/anh.jpg" alt="Anh" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(13, 148, 136, 0.3);">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">Anh</h3>
+          <p class="text-xs font-medium text-teal-400/80">Member #2</p>
+        </div>
+      </div>
+      <span class="leading-relaxed">Joined in December 2015 as member number 2. Holds a degree in special education.</span>
+    </div>
+
+  </div>
+
+  <!-- Volunteers Section -->
+  <div class="flex gap-3 mb-8 mt-16">
+    <h2 class="mx-auto font-display font-bold text-3xl md:text-4xl">Volunteers</h2>
+  </div>
+
+    <!-- Jose -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex items-center gap-4 mb-4">
+        <img src="/photos/jose.jpg" alt="Jose" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Jose</h3>
+          <p class="text-xs font-medium text-purple-400/80">Alternative Medicine Practitioner</p>
+        </div>
+      </div>
+      <span class="text-sm leading-relaxed" style="color: var(--text-secondary);">Alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, with experience in Chinese medicine. Has gotten samadhi a few times in India.</span>
+    </div>
+
+    <!-- Ehmil -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex gap-4 mb-4">
+        <img src="/photos/ehmil.jpg" alt="Ehmil" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Ehmil</h3>
+          <p class="text-xs font-medium text-purple-400/80">Geologist & Researcher</p>
+        </div>
+      </div>
+      <span class="text-sm leading-relaxed" style="color: var(--text-secondary);">Geologist and licensed researcher. Suggests ways to make Superphysics palatable to the scientific community, such as adding equations. Evangelical who doesn't care about samadhi but believes in manifestation and the Law of Attraction. Interested in Cartesian Physics for geological applications like earthquake detection.</span>
+    </div>
+
+    <!-- Adrian -->
+    <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+      <div class="flex items-center gap-4 mb-4">
+        <img src="/photos/adrian.jpg" alt="Adrian" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+        <div>
+          <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Adrian</h3>
+          <p class="text-xs font-medium text-purple-400/80">Mobile & Python Developer</p>
+        </div>
+      </div>
+      <span class="leading-relaxed" style="color: var(--text-secondary);">Mobile and Python developer. Has helped debug the Pantrypoints mobile apps.</span>
+    </div>
+  </div>
+</div>
+  </section>
+
+</div>
+
+
+<!-- ===== SCRIPTS ===== -->
+<script>
+  (function() {
+    // ---- TABS ----
+    const tabs = document.querySelectorAll('.subnav-tab');
+    const panels = {
+      origin: document.getElementById('origin'),
+      unified: document.getElementById('unified'),
+      branches: document.getElementById('branches'),
+      vision: document.getElementById('vision'),
+      timeline: document.getElementById('timeline'),
+      contact: document.getElementById('contact')
+    };
+
+    function activate(tabId) {
+      Object.values(panels).forEach(p => p && p.classList.remove('active'));
+      if (panels[tabId]) panels[tabId].classList.add('active');
+      tabs.forEach(t => t.classList.remove('active'));
+      tabs.forEach(t => { if (t.dataset.tab === tabId) t.classList.add('active'); });
+    }
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', function(e) {
+        const id = this.dataset.tab;
+        if (id && panels[id]) {
+          activate(id);
+          const panel = panels[id];
+          if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+
+    // initial state
+    const firstActive = document.querySelector('.subnav-tab.active');
+    if (firstActive) {
+      const id = firstActive.dataset.tab;
+      if (id && panels[id]) {
+        Object.values(panels).forEach(p => p && p.classList.remove('active'));
+        panels[id].classList.add('active');
+      }
+    } else {
+      activate('origin');
+    }
+
+    // ---- THEME TOGGLE ----
+    const toggleBtn = document.getElementById('themeToggle');
+    const themeLabel = document.getElementById('themeLabel');
+    const html = document.documentElement;
+
+    function setTheme(theme) {
+      html.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      themeLabel.textContent = theme === 'light' ? 'Light' : 'Dark';
+    }
+
+    // load saved theme
+    const saved = localStorage.getItem('theme') || 'dark';
+    setTheme(saved);
+
+    toggleBtn.addEventListener('click', () => {
+      const current = html.getAttribute('data-theme');
+      const next = current === 'light' ? 'dark' : 'light';
+      setTheme(next);
+    });
+  })();
+</script>
+
+{{ end }}

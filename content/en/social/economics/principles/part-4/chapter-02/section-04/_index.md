@@ -1,10 +1,10 @@
 ---
 heading: "Section 3"
-title: "Barter Trade"
+title: "Money"
 date: 2015-01-17
-weight: 8
-image: /photos/econ/barter.jpg
-description: "Balance is maintained by the 3rd Law"
+weight: 22
+image: /photos/objects/money.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

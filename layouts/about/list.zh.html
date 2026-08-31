@@ -1,0 +1,577 @@
+{{ define "main" }}
+<style>
+  /* ===== THEME TOGGLE ===== */
+  .theme-toggle {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 9999px;
+    padding: 6px 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+  }
+  .theme-toggle:hover {
+    background: rgba(255,255,255,0.15);
+  }
+  .theme-toggle .icon-sun,
+  .theme-toggle .icon-moon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    line-height: 1;
+  }
+  [data-theme="light"] .theme-toggle .icon-moon { display: none; }
+  [data-theme="dark"] .theme-toggle .icon-sun { display: none; }
+  [data-theme="light"] .theme-toggle .icon-sun { display: inline-block; }
+  [data-theme="dark"] .theme-toggle .icon-moon { display: inline-block; }
+
+  /* ===== VIDEO HERO (half screen) ===== */
+  .video-hero {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+    background: var(--bg-secondary);
+  }
+  .video-hero video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.25;
+  }
+  .video-hero .overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(5,22,32,0.2), var(--bg-primary) 85%);
+    pointer-events: none;
+  }
+  .video-hero .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+  .video-hero h1 {
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+  }
+  .video-hero p {
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin-top: 0.5rem;
+  }
+
+  /* ===== SHIMMER ===== */
+  .shimmer-text {
+    background-image: linear-gradient(100deg, var(--base-color) 30%, #ffffff 50%, var(--base-color) 70%);
+    background-size: 250% 100%;
+    background-position: 100% 0;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shimmer 4s ease-in-out infinite;
+  }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -100% 0; }
+  }
+  [data-theme="light"] .shimmer-text {
+    background-image: linear-gradient(100deg, #0166a7 30%, #0a1a24 50%, #0166a7 70%);
+  }
+
+  /* ===== TABS ===== */
+  .subnav-tab {
+    cursor: pointer;
+    transition: color 0.2s, border-color 0.2s;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 6px;
+    color: var(--tab-color);
+    font-weight: 600;
+  }
+  .subnav-tab.active {
+    color: var(--tab-active);
+    border-bottom-color: var(--tab-active);
+  }
+  .subnav-tab:hover {
+    color: var(--tab-active);
+  }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* ===== CARDS ===== */
+  .section-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 1rem;
+    transition: background 0.3s, border-color 0.3s;
+  }
+  .divider-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background: #FAA732;
+    flex-shrink: 0;
+  }
+  .border-white\/10 { border-color: rgba(255,255,255,0.08); }
+  .border-white\/5 { border-color: rgba(255,255,255,0.04); }
+
+  /* ===== LINKS ===== */
+  a { color: var(--tab-active); transition: color 0.2s; }
+  a:hover { color: var(--text-primary); }
+
+  p {padding: 4px 0px; font-size: 1.3em;}
+  /* ===== SCROLL ===== */
+  .scroll-mt-28 { scroll-margin-top: 7rem; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 640px) {
+    .video-hero { height: 40vh; }
+  }
+</style>
+
+
+
+<!-- ===== 视频主视觉（半屏） ===== -->
+<section class="video-hero" style="margin-top: 64px;">
+  <video autoplay muted loop playsinline>
+    <source src="/socrates.mp4" type="video/mp4">
+  </video>
+  <div class="overlay"></div>
+  <div class="content">
+    <h1 class="font-display">
+      <span class="shimmer-text" style="--base-color: #0166a7;">关于</span>
+      <span class="shimmer-text" style="--base-color: #01bca4;">超物理学</span>
+    </h1>
+    <p>科学与哲学的统一，物理学与形而上学的统一，物质与以太的统一。</p>
+  </div>
+</section>
+
+<!-- ===== 标签页 ===== -->
+<div class="max-w-6xl mx-auto px-6 pt-6 pb-2">
+  <div id="subnav" class="flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-sm md:text-base font-display font-semibold border-b border-white/10 pb-2" style="color: var(--tab-color); border-color: var(--card-border);">
+    <span class="subnav-tab active" data-tab="origin">起源</span>
+    <span class="subnav-tab" data-tab="branches">五大分支</span>
+    <span class="subnav-tab" data-tab="vision">愿景与使命</span>
+    <span class="subnav-tab" data-tab="timeline">危机时间线</span>
+    <span class="subnav-tab" data-tab="contact">团队</span>
+  </div>
+</div>
+
+<!-- ===== 标签面板 ===== -->
+<div class="max-w-6xl mx-auto px-6 pb-16">
+
+  <!-- 起源 -->
+  <section id="origin" class="tab-panel active scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">一切始于金融危机</h2>
+      </div>
+      <div class="space-y-5 leading-relaxed" style="color: var(--text-secondary);">
+
+        <iframe class="mx-auto pb-16" width="560" height="315" src="https://www.youtube.com/embed/QyrxLqI9Qcg?si=hifVKR4YdToQN1bl" title="YouTube 视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <p class="py-2">超物理学由 Juan 从他对 2008 年金融危机的个人研究中创立——这场危机之所以发生，是因为艾伦·格林斯潘未能监管银行业，并以亚当·斯密作为他不监管的理由。</p>
+        <p>那么亚当·斯密真的是个坏人吗？因为他造成了如此多的经济痛苦，甚至在全世界造成了死亡？</p>
+        <p>阅读《国富论》却讲述了不同的故事。斯密主张严格监管银行业，将其比作<a href="#">建造防火墙以防止火势蔓延</a>。格林斯潘实际上引用的是萨缪尔森和新自由主义作家，他们将自私利益置于共同利益之上。</p>
+        <p>既然格林斯潘和萨缪尔森是坏人，斯密就成了我们眼中的好人：</p>
+        <ul class="space-y-3 pl-1">
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>斯密将<a href="#">看不见的手</a>描述为达摩（dharma）的概念，引用大卫·休谟。我们将他的"自利"重新解释为个人的达摩或人生目标，即 <em>svadharma</em>，与苏格拉底、印度教和道教一致。</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>休谟同意笛卡尔的观点，并引用了柏拉图。</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>笛卡尔的以太可追溯到柏拉图。</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>柏拉图写下了关于苏格拉底的内容。</span></li>
+          <li class="flex gap-3"><span class="text-teal-400 mt-1">&#9670;</span><span>苏格拉底谈到了<a href="#">轮回和脉轮</a>，以及达摩与阿达摩（adharma），这被错误地解释为正义（δικία）和不正义（ἀδικία）。</span></li> 
+        </ul>
+        <p>苏格拉底成为西方哲学与东方哲学之间的关键纽带——我们抽取这根线索形成了超物理学：一个解决问题的辩证法体系，就像科学方法解决科学问题、公式解决数学问题一样。</p>
+      </div>
+    </div>
+
+    <div class="max-w-3xl mx-auto">
+      <div class="flex items-center gap-3 my-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">统一人类知识</h2>
+      </div>
+      <div class="space-y-5 leading-relaxed mb-8" style="color: var(--text-secondary);">
+        <p>超物理学统一了科学与哲学、物理学与形而上学。</p>
+        <p>其核心是亚洲哲学，因为印度教徒、佛教徒和道家已经解释了至高存在（Supreme Entity）如何作为万物的<strong style="color: var(--tab-active);">因</strong>而运作。其外部实现是西方科学，它已经解释了物理事物如何作为<strong style="color: #5ba3d0;">果</strong>而运作。掌握因果、东西方，使其成为解决一切问题的工具。</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="branches" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-5xl mx-auto">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="font-display mx-auto font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">每一门科学都基于核心超物理学</h2>
+      </div>
+      <p class="pb-6 mb-6">核心超物理学包含"太一"和"至高存在"（梵天或一切万有）的概念、两种力量（正-负或阳-阴或湿婆-沙克蒂）、三德（三 Gunas）、四大运动法则、五层（五大元素）以及基于波的存在。</p>
+
+      <div class="grid md:grid-cols-2 gap-5">
+        
+        <!-- 物质超物理学 -->
+        <div onclick="window.location.href='/material'" class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 overflow-hidden shadow-lg cursor-pointer" style="border: 1px solid rgba(255, 0, 0, 0.25);">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center ring-1" style="background: indianred; box-shadow: inset 0 0 0 1px rgba(91,163,208,0.25);">
+              <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask><radialGradient id='centerGrad' cx='35%' cy='35%' r='65%'><stop offset='0%' stop-color='#FF5388'/><stop offset='50%' stop-color='#D81E5B'/><stop offset='100%' stop-color='#900C3F'/></radialGradient></defs><polygon points='50,0 100,50 0,50' fill='#FF7A38' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><circle cx='50' cy='50' r='18' fill='url(#centerGrad)'/></svg>              
+            </div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: firebrick;">物质超物理学</h3>
+          </div>
+          <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">在笛卡尔和斯宾诺莎的物理学框架下改革牛顿物理学，引入以太单子作为存在的最小粒子。</p>
+          <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-500 mb-1">基本目标</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">将牛顿物理学纳入笛卡尔物理学框架，并最终解决物理学中剩余的谜团。</p>
+            </div>
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">目标输出</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">悬浮、传送、反物质/聚变、精密制造技术。</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 生物超物理学 -->
+        <div onclick="window.location.href='/bio'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(255, 105, 180, 0.3); box-shadow: 0 4px 15px rgba(255, 105, 180, 0.08);">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: pink; box-shadow: inset 0 0 0 1px rgba(1,188,164,0.25);">
+              <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='21' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#FF4093' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00D0B0' mask='url(#cutout)' /> <path d='M 50,65 C 38,57 34,48 34,41 A 11,11 0 0,1 50,33.5 A 11,11 0 0,1 66,41 C 66,48 62,57 50,65 Z' fill='#E23A28' /> <path d='M 33,52 L 41,52 L 43.5,48 L 46,56 L 49.5,41.5 L 53,61 L 55.5,50.5 L 58,52 L 67,52' fill='none' stroke='#FFFFFF' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round' /> </svg>
+            </div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: deeppink;">生物超物理学</h3>
+          </div>
+          <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">连接物质超物理学和社会超物理学，解释生命现象，解决疾病，改善人类、动物和植物的健康。</p>
+          <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">基本目标</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">将替代医学提升到与西方医学同等的水平。</p>
+            </div>
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">目标输出</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">用于预测健康问题的自动自然智能（ANI）、基于声音的农业、海水农业测试。</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 精神超物理学 -->
+        <div onclick="window.location.href='/spiritual'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(75, 0, 130, 0.25); box-shadow: 0 4px 15px rgba(75, 0, 130, 0.08);">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: lavender; box-shadow: inset 0 0 0 1px rgba(250,167,50,0.25);">
+              <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#5E4EA7' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><path d='M 52,36 L 52.8,37.3 L 54.1,36.5 L 53.3,35.2 Z' fill='#0080FF'/><path d='M 49.5,41.5 C 52,39.5 56,39.5 58.5,41.5 C 56,43 52,43 49.5,41.5 Z' fill='#0080FF'/><path d='M 45,41.5 C 47,41.5 48.5,43 48.5,45 C 48.5,47.5 45.5,48.5 43.5,48.5 C 46.5,48.5 49,50 49,53 C 49,56.5 45.5,58.5 42,58.5 C 38.5,58.5 37.5,55.5 37.5,53.5 C 37.5,53.5 40,53.5 40.5,55 C 41,56 42,56.5 43,56.5 C 45,56.5 46.5,55 46.5,53 C 46.5,50.5 44,50 42,50 L 40,50 L 40,47.5 L 42,47.5 C 44,47.5 46,46.5 46,44.5 C 46,43 44.5,42.5 43.5,42.5 C 42,42.5 41,43.5 40.5,44.5 C 39.5,43.5 38.5,42.5 40,41.5 C 41.5,40.5 43.5,41.5 45,41.5 Z M 48.5,48.5 C 51.5,45 57,43.5 60.5,46.5 C 63,48.8 63,52.5 61,55.5 C 59,58.5 55.5,59 53.5,59 C 53.5,59 53,56.5 54.5,55.5 C 56,54.5 58.5,55 59.5,53 C 60.5,51 60,48.5 58,47 C 55.5,45 51.5,46.5 49.5,50 C 49,49.5 48.5,49 48.5,48.5 Z' fill='#0099FF'/></svg>
+            </div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: indigo;">精神超物理学</h3>
+          </div>
+          <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">Juan 和 Jose 通过三摩地（samadhi）抵达了超物理学——一种对至高存在的直接体验，被感受为对宇宙运作方式的理解。精神超物理学解释了如何通过遵循自己的达摩（dharma）来达到三摩地。</p>
+          <div class="space-y-3 pt-4 border-t" style="border-color: var(--card-border);">
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">目标</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">帮助每个人找到他们的精神道路，或人生的真正目标（达摩）。</p>
+            </div>
+            <div>
+              <span class="inline-block text-[11px] font-semibold tracking-wide uppercase text-teal-400 mb-1">目标输出</span>
+              <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">将主要信仰体系分类在万神论（Omnitheism）之下，并根据人格类型建议适合的信仰。</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 超逻辑 -->
+        <div onclick="window.location.href='/supermath'" class="section-card rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 cursor-pointer" style="border: 1px solid rgba(128, 128, 128, 0.25); box-shadow: 0 4px 15px rgba(128, 128, 128, 0.08);">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: rgba(167,139,250,0.12); box-shadow: inset 0 0 0 1px rgba(167,139,250,0.25);">
+              <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#969696' mask='url(#cutout)'/><rect x='44' y='34.5' width='12' height='3' rx='1.5' fill='#3B71CA'/><g transform='translate(38,47.5) rotate(45)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#00A878'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#00A878'/></g><g transform='translate(50,61)'><rect x='-7.5' y='-2' width='15' height='4' rx='1.5' fill='#F09200'/><rect x='-2' y='-7.5' width='4' height='15' rx='1.5' fill='#F09200'/></g><g fill='#D84315'><circle cx='60' cy='42.5' r='2'/><rect x='52' y='46' width='16' height='3.5' rx='1.55'/><circle cx='60' cy='53' r='2'/></g></svg>
+            </div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: gray;">超逻辑</h3>
+          </div>
+          <p class="leading-relaxed text-sm md:text-base mb-5" style="color: var(--text-secondary);">超物理学的基础逻辑体系，基于苏格拉底辩证法。包含两个子科学：</p>
+          <div class="grid grid-cols-2 gap-3 pt-4 border-t" style="border-color: var(--card-border);">
+            <div class="rounded-xl p-3.5" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+              <h4 class="font-display font-semibold text-sm mb-1" style="color: var(--tab-active);">超数学</h4>
+              <p class="text-xs leading-relaxed" style="color: var(--text-secondary);">局限于数值实例的超逻辑。</p>
+            </div>
+            <div class="rounded-xl p-3.5" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+              <h4 class="font-display font-semibold text-sm mb-1" style="color: var(--tab-active);">质数学</h4>
+              <p class="text-xs leading-relaxed" style="color: var(--text-secondary);">应用于定性感知的超逻辑，以萨桑尼数学为模式。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 社会超物理学（全宽，含三个子项） -->
+      <div onclick="window.location.href='/social'" class="my-4 section-card rounded-2xl p-6 md:p-8 relative overflow-hidden md:col-span-1 cursor-pointer" style="border: 1px solid rgba(0, 128, 0, 0.2); box-shadow: 0 4px 15px rgba(0, 128, 0, 0.06);">
+        <div class="flex items-center gap-4 mb-4">
+          <div class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center" style="background: palegreen; box-shadow: inset 0 0 0 1px rgba(91,163,208,0.25);">
+            <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#005A43' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00A878' mask='url(#cutout)'/><circle cx='50' cy='50' r='25.5' fill='none' stroke='#005A43' stroke-width='4.5'/><polygon points='50,27.5 61.5,39 50,50.5 38.5,39' fill='#4C73B7'/><polygon points='61.5,39 73,50.5 61.5,62 50,50.5' fill='#EF6969'/><polygon points='50,50.5 61.5,62 50,73.5 38.5,62' fill='#D49E2A'/><polygon points='38.5,39 50,50.5 38.5,62 27,50.5' fill='#47B475'/></svg>
+          </div>
+          <div>
+            <h3 class="font-display font-bold text-xl md:text-2xl" style="color: forestgreen;">社会超物理学</h3>
+            <p class="text-sm md:text-base leading-relaxed mt-1" style="color: var(--text-secondary);">将超物理学应用于社会中的长期问题——分为三个子科学。</p>
+          </div>
+        </div>
+        <div class="grid sm:grid-cols-1 md:grid-cols-3 gap-4 pt-4 border-t" style="border-color: var(--card-border);">
+          <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+            <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">超社会学</h4>
+            <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">处理社会的抽象部分：政治、犯罪、战争。</p>
+            <p class="text-xs leading-relaxed mt-2" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">目标：</span>用苏格拉底和伊本·赫勒敦取代当前的社会学。</p>
+            <p class="text-xs leading-relaxed mt-1.5" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">输出：</span>确认选举、宪法美德、世界宪法和国家宪法模板、用于预测社会周期的 ANI。</p>
+          </div>
+          <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+            <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">超经济学</h4>
+            <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">将超物理学应用于经济、商业和劳动力。</p>
+            <p class="text-xs leading-relaxed mt-2" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">目标：</span>用苏格拉底-斯密经济学取代新古典经济学。</p>
+            <p class="text-xs leading-relaxed mt-1.5" style="color: var(--text-secondary);"><span class="text-teal-400/90 font-medium">输出：</span>无货币经济、池清算（自由贸易体系）、用 NDP 取代 GDP、用于实时经济协调的 ANI。</p>
+          </div>
+          <div class="rounded-xl p-4" style="background: var(--card-bg); border: 1px solid var(--card-border);">
+            <h4 class="font-display font-semibold text-base mb-1.5" style="color: var(--tab-active);">超历史</h4>
+            <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">绘制人类物种的历史，按社会划分，作为社会周期预测的训练数据。</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 愿景 -->
+  <section id="vision" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-4xl mx-auto">
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="section-card rounded-2xl p-8"><h3 class="font-display font-semibold text-sm tracking-wide" style="color: var(--tab-active);">愿景</h3><p class="text-xl md:text-2xl font-display font-medium leading-snug" style="color: var(--text-primary);">将现实带回达摩之中。</p></div>
+        <div class="section-card rounded-2xl p-8"><h3 class="font-display font-semibold text-sm tracking-wide" style="color: #5ba3d0;">使命</h3><p class="text-xl md:text-2xl font-display font-medium leading-snug" style="color: var(--text-primary);">创建将现实带回达摩之中的科学和体系。</p></div>
+      </div>
+      <div class="mt-10 leading-relaxed space-y-4" style="color: var(--text-secondary);">
+        <p>亚当·斯密的<a href="#">关于白银的插叙</a>描述了一个 500 年的价格模式，我们将其延伸到了现代。每一次 20 世纪的重大危机都遵循了那个延伸的模式——指向从 2019 年到 2030 年的一系列危机，我们称之为<strong style="color: var(--text-primary);">大滞胀</strong>。我们的目标是在这些年份中实施斯密的替代经济体系，将物质和货币体系的缺陷转化为机遇。</p>
+        <p>我们正在寻找对我们的理论感兴趣的大学、对我们的书籍感兴趣的出版商，以及希望在长期危机中通过基于积分的经济体系来保护其业务和资本的公司和天使投资人。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 时间线 -->
+  <section id="timeline" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto">
+      <!-- 标题 -->
+      <div class="flex flex-col items-center gap-3 mb-10">
+        <div class="flex items-center gap-3">
+          <div class="w-2 h-2 rounded-full bg-teal-400"></div>
+          <h2 class="font-display font-bold text-3xl md:text-4xl">
+            我们的模型预测危机从 2020 年开始，这将是一个推动我们第四密度科学的契机
+          </h2>
+        </div>
+        <a href="https://www.youtube.com/watch?v=cerRNeH561Y" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 mt-6 py-3 rounded-xl font-semibold text-sm md:text-base transition-all duration-300 hover:scale-105 hover:shadow-lg" style="background: #0d9488; color: white; box-shadow: 0 4px 12px rgba(13, 148, 136, 0.35);">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+          什么是第四密度？
+        </a>
+      </div>
+
+      <!-- 时间线 -->
+      <div class="relative pl-8 border-l border-slate-200 dark:border-slate-700">
+        <div class="space-y-10">
+          <!-- 项目 1 -->
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-green-400 ring-4 ring-green-400/15"></div>
+            <p class="text-sm font-display font-semibold text-teal-600 dark:text-teal-400">2015 年</p>
+            <p class="">我们预测危机将从 2020 年开始，以长期滞胀后接战争的形式出现，基于大萧条+第二次世界大战的模式。我们开始推广无货币体系（采用 E.F. 舒马赫的多边清算），从根源上解决问题。</p>
+          </div>
+
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+            <p class="text-sm font-display font-semibold text-teal-600 dark:text-red-400">2018 年</p>
+            <p class="">我们未能获得投资，因此转向理论方面，并为我们自己及合作伙伴以离线方式实施无货币体系。</p>
+          </div>                
+
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+            <p class="text-sm font-display font-semibold text-red-600 dark:text-red-400">2020 年 3 月</p>
+            <p class="">危机年份通过新冠疫情到来。医疗体系首先崩溃，导致我们创建<a href="#" class="text-teal-500 font-bold">Pantrypreneur Health</a>作为生物超物理学的实施。我们的模型预测金融体系接下来会崩溃，这导致了<a href="#" class="text-teal-500 hover:underline">积分银行</a>。经济和国际法体系随后承受压力。我们正确的预测扩大了我们的本地合作伙伴关系。我们专注于笛卡尔以巩固超物理学。</p>
+          </div>
+
+          <!-- 项目 2 -->
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+            <p class="text-sm font-display font-semibold text-blue-500 dark:text-red-400">2022 年 7 月</p>
+            <p class="">俄罗斯入侵乌克兰展示了国际法的失败，而斯里兰卡的崩溃——以及很快巴基斯坦的崩溃——展示了经济体系的失败。</p>
+          </div>
+
+          <!-- 项目 3 -->
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+            <p class="text-sm font-display font-semibold text-amber-600 dark:text-red-400">2023 年 10 月</p>
+            <p class="">以色列-哈马斯战争使国际法的失败更加明显：强者任意行事。这是动物道德的标志——适者生存。我们提出了阿努纳奇古兰经和妥拉，以及地球政府作为解决方案。</p>
+          </div>
+
+          <!-- 项目 4 -->
+          <div class="relative">
+            <div class="absolute -left-[38px] top-1 w-3 h-3 rounded-full bg-red-400 ring-4 ring-red-400/15"></div>
+            <p class="text-sm font-display font-semibold text-red-600 dark:text-red-400">2026 年 3 月-8 月</p>
+            <p class="">伊朗战争使油价失控，符合我们关于战争将蔓延和升级的预测。8 月的尼泊尔-西藏洪水让我们意识到亲爱因斯坦的物理学家已经获胜，因此<b>全球变暖将继续杀人</b>。我们放弃开发追逐尼古拉·特斯拉自由能和反重力（第四密度）技术的物质超物理学，因为人类<b>想要</b>这样的灾难（即死于洪水是一种有效的物理体验）。相反，我们专注于第五密度非物质科学（即精神超物理学和生物超物理学的元素层面）。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 团队 -->
+  <section id="contact" class="tab-panel scroll-mt-28 py-10">
+    <div class="max-w-3xl mx-auto text-center">
+      <div class="flex items-center justify-center gap-3 mb-6"><div class="divider-dot"></div><h2 class="font-display font-bold text-3xl md:text-4xl" style="color: var(--text-primary);">核心团队</h2></div>
+      <p class="leading-relaxed mb-8" style="color: var(--text-secondary);">我们正在寻找愿意超越当前危机思考的大学、出版商和公司。联系我们：<a href="mailto:superphysicsorg@gmail.com">superphysicsorg@gmail.com</a>。</p>
+
+      <div class="mb-16">
+        <!-- Juan -->
+        <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+          <div class="flex gap-4 mb-4">
+            <img src="/photos/juan.jpg" alt="Juan" class="w-14 h-14 rounded-full object-cover">
+            <div>
+              <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">
+                <a href="https://www.linkedin.com/in/jundalisay/" target="_blank" rel="noopener noreferrer" class="hover:opacity-80 transition-opacity">Juan</a>
+              </h3>
+              <p class="text-xs font-medium text-teal-400/80">创始人</p>
+            </div>
+          </div>
+          <span class="leading-relaxed">在 2009 年因对金融危机期间"利润最大化"概念的厌恶而未能进入日本的<a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/sdetail02/1374094.htm" target="_blank" rel="noopener noreferrer" class="text-teal-400/80 hover:text-teal-300 transition-colors">青年领袖计划</a>后，创立了超物理学和 Pantrypoints。创造了一种替代性经济科学，最终扩展为整个非物质主义超物理学。拥有"<a href="/research/benham/palmistry/part-2/chapter-14d-intuition/" class="text-teal-400/80 hover:text-teal-300 transition-colors">直觉线</a>"和"所罗门环"。在 2008 年获得三摩地，这促使他开始了研究。</span>
+        </div>
+
+        <!-- Jing -->
+        <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+          <div class="flex gap-4 mb-4">
+            <img src="/photos/jing.jpg" alt="Jing" class="w-14 h-14 rounded-full object-cover ring-2">
+            <div>
+              <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">Jing</h3>
+              <p class="text-xs font-medium text-teal-400/80">副主席</p>
+            </div>
+          </div>
+          <span class="leading-relaxed" style="color: var(--text-secondary);">一个农业协会的副主席，于 2018 年底加入。天主教徒，不关心三摩地，但非常热衷于将生物超物理学应用于农业。</span>
+        </div>
+
+        <!-- Anh -->
+        <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-teal-500 border-2">
+          <div class="flex gap-4 mb-4">
+            <img src="/photos/anh.jpg" alt="Anh" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(13, 148, 136, 0.3);">
+            <div>
+              <h3 class="font-display font-bold text-lg md:text-xl" style="color: var(--tab-active);">Anh</h3>
+              <p class="text-xs font-medium text-teal-400/80">第 2 号成员</p>
+            </div>
+          </div>
+          <span class="leading-relaxed">于 2015 年 12 月作为第 2 号成员加入。拥有特殊教育学位。</span>
+        </div>
+      </div>
+
+      <!-- 志愿者部分 -->
+      <div class="flex gap-3 mb-8 mt-16">
+        <h2 class="mx-auto font-display font-bold text-3xl md:text-4xl">志愿者</h2>
+      </div>
+
+      <!-- Jose -->
+      <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-purple-400 border-2">
+        <div class="flex items-center gap-4 mb-4">
+          <img src="/photos/jose.jpg" alt="Jose" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+          <div>
+            <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Jose</h3>
+            <p class="text-xs font-medium text-purple-400/80">替代医学从业者</p>
+          </div>
+        </div>
+        <span class="text-sm leading-relaxed" style="color: var(--text-secondary);">自 2000 年代以来的替代医学从业者，专注于顺势疗法和自然疗法，也有中医经验。在印度多次获得三摩地。</span>
+      </div>
+
+      <!-- Ehmil -->
+      <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-purple-400 border-2">
+        <div class="flex gap-4 mb-4">
+          <img src="/photos/ehmil.jpg" alt="Ehmil" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+          <div>
+            <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Ehmil</h3>
+            <p class="text-xs font-medium text-purple-400/80">地质学家与研究员</p>
+          </div>
+        </div>
+        <span class="text-sm leading-relaxed" style="color: var(--text-secondary);">地质学家和持证研究员。建议如何使超物理学更易于科学界接受，例如通过添加方程式。福音派基督徒，不关心三摩地，但相信显化法则和吸引力法则。对笛卡尔物理学在地质应用（如地震检测）方面感兴趣。</span>
+      </div>
+
+      <!-- Adrian -->
+      <div class="rounded-2xl p-6 md:p-7 relative overflow-hidden group transition-transform duration-300 hover:-translate-y-1 shadow-lg my-4 border-purple-400 border-2">
+        <div class="flex items-center gap-4 mb-4">
+          <img src="/photos/adrian.jpg" alt="Adrian" class="w-14 h-14 rounded-full object-cover ring-2" style="ring-color: rgba(167, 139, 250, 0.3);">
+          <div>
+            <h3 class="font-display font-bold text-lg md:text-xl" style="color: #a78bfa;">Adrian</h3>
+            <p class="text-xs font-medium text-purple-400/80">移动端与 Python 开发者</p>
+          </div>
+        </div>
+        <span class="leading-relaxed" style="color: var(--text-secondary);">移动端和 Python 开发者。曾协助调试 Pantrypoints 移动应用。</span>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+<!-- ===== SCRIPTS ===== -->
+<script>
+  (function() {
+    // ---- TABS ----
+    const tabs = document.querySelectorAll('.subnav-tab');
+    const panels = {
+      origin: document.getElementById('origin'),
+      unified: document.getElementById('unified'),
+      branches: document.getElementById('branches'),
+      vision: document.getElementById('vision'),
+      timeline: document.getElementById('timeline'),
+      contact: document.getElementById('contact')
+    };
+
+    function activate(tabId) {
+      Object.values(panels).forEach(p => p && p.classList.remove('active'));
+      if (panels[tabId]) panels[tabId].classList.add('active');
+      tabs.forEach(t => t.classList.remove('active'));
+      tabs.forEach(t => { if (t.dataset.tab === tabId) t.classList.add('active'); });
+    }
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', function(e) {
+        const id = this.dataset.tab;
+        if (id && panels[id]) {
+          activate(id);
+          const panel = panels[id];
+          if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+
+    // initial state
+    const firstActive = document.querySelector('.subnav-tab.active');
+    if (firstActive) {
+      const id = firstActive.dataset.tab;
+      if (id && panels[id]) {
+        Object.values(panels).forEach(p => p && p.classList.remove('active'));
+        panels[id].classList.add('active');
+      }
+    } else {
+      activate('origin');
+    }
+
+    // ---- THEME TOGGLE ----
+    const toggleBtn = document.getElementById('themeToggle');
+    const themeLabel = document.getElementById('themeLabel');
+    const html = document.documentElement;
+
+    function setTheme(theme) {
+      html.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      themeLabel.textContent = theme === 'light' ? 'Light' : 'Dark';
+    }
+
+    // load saved theme
+    const saved = localStorage.getItem('theme') || 'dark';
+    setTheme(saved);
+
+    toggleBtn.addEventListener('click', () => {
+      const current = html.getAttribute('data-theme');
+      const next = current === 'light' ? 'dark' : 'light';
+      setTheme(next);
+    });
+  })();
+</script>
+
+{{ end }}
