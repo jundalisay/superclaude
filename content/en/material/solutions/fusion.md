@@ -105,8 +105,6 @@ This will reduce the pushing force, allowing the thing to rise or at least be li
 
 This has already been done by Buddhist monks who can levitate at will. We can say that they ride the aether. 
 
-{{< youtube 6y3bqvRWRSA >}}
-
 
 <!-- ufORgD0s2Mo -->
 
@@ -127,7 +125,9 @@ We made this inference after a monk taught us how levitation works -- we combine
 
 An alternative way is to use the chi or internal aether directly to propel a mass. In the video below, the levitator uses his aethereal mind to force the aether down through his chakras to repel those on the floor. We call this the active version.
 
-{{< youtube QdBN3iN6pi4 >}}
+{{< youtube eQ-tVbhCnUc >}}
+
+<!-- {{< youtube QdBN3iN6pi4 >}} -->
 
 
 This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. 
@@ -196,14 +196,18 @@ So the steps towards sustainable fusion are:
 {{< d t="Update: February 2024" >}}
 We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But critics would say that all we did was to change the air pressure by sound. And so we need to redo the whole thing in a vacuum chamber which is expensive for which we need a grant. 
 
-But no one would give a grant to a totally new science paradigm and so this is a **dead end**. 
+But no one would give a grant to a totally new science paradigm and so this is a **dead end**. This has made us realize that humans have really chosen to be stuck as 3rd density and will put materialist blocks to avoid the upgrade to 4th density. 
 
-We move on instead on other implementations of the aether such as for our moneyless economic system where we note the gravity and fluctuations of price movements, in alternative medicine as chi and prana, and in Supersociology where we share videos on economic and foreign policy (e.g. Ukraine War, Gaza War) to change the aethereal spin of minds. 
+![Stack](/graphics/physics/stack.jpg)
+
+The 4th tech stack is daunting by itself. The blockages laid by materialist Einstien fan boys add to the difficulty and so we just abandon it.
+
+We move on to upgrade ourselves instead, by focusing on other implementations of the aether such as for our moneyless economic system where we note the gravity and fluctuations of price movements, in alternative medicine as chi and prana, and in Supersociology where we share videos on economic and foreign policy (e.g. Ukraine War, Gaza War) to change the aethereal spin of minds. 
 {{< /d >}}
 
 
 {{< d t="Update June 2026" >}}
-This post does not mention how to 'massage' the aether to get the desired effects. This will be mentioned in a future post after we actually get the time to test it on anoether 1 kg mass.
+This post does not mention how to 'massage' the aether to get the desired effects. This will be mentioned in a future post after we actually get the time to test it on another 1 kg mass.
 {{< /d >}}
 
 
