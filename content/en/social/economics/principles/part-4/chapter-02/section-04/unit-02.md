@@ -41,11 +41,11 @@ Imagine you have two options:
 1. Receive $100 today.
 2. Receive $105 in one year.
 
-Even though $105 seems like more, the time value of money tells us that $100 is actually worth more today. 
+Even though 105 dollars seems like more, the time value of money tells us that 100 dollars is actually worth more today. 
 
-This is because you could invest the $100 and earn interest, making it worth more than $105 after a year.
+This is because you could invest the 100 dollars and earn interest, making it worth more than 105 dollars after a year.
 
-In a year, due to inflation, $105 might not buy the same things $100 does today.
+In a year, due to inflation, 105 dollars might not buy the same things 100 dollars does today.
 
 
 ### Key Formula

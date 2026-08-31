@@ -4,29 +4,38 @@ title: The 3 Problems with Money
 date: 2020-04-18
 weight: 24
 image: "/photos/econ/cash.jpg"
-description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
+description: Barter credits solve the problems with money
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 toc: false
 ---
 
 
 
 
-People have loved money ever since it was invented. The philosophers David Hume and Socrates, on the other hand, were not so keen on money because of its drawbacks, which we distill into three:
+People have loved money ever since it was invented. The philosophers David Hume and Socrates, on the other hand, were not so keen on money because of its drawbacks, which we distill into three, which arise from its **static** nature:
 
 
 ## 1. Money builds ego
 
 ![Egotistic person](https://sorasystem.sirv.com/richpoor.png)
 
-Having a lot of money gives theego power over other egos, giving a feeling of superiority to the monied-ego, leading to arbitrary actions which encroaches on other egos, creatinginjusticeand eventually,evil.
+Money is naturally static and unconnected with other money. Put a coin beside a coin and nothing will happen no matter how long you wait. 
+
+But put a living thing, such as a man beside another man, or a plant beside another plant, then something will happen between them over time. 
+
+Because of this natural disconnection, the holders of money will naturally be also disconnected to others and instead be more connected to material objects.
+
+Having a lot of money gives the ego power over other egos, giving a feeling of superiority to the monied-ego since humans manifest as physical beings. 
+
+This leads to arbitrary actions which encroaches on other egos, creating injustice and eventually, evil.
 
 A dirt-poor evil bum can hurt a few people, but an ultra rich evil man can hurt so many.
 
-We solve this by using the effort theory of value, facilitated bysocial contractsin order to prevent injustice and the growth of evil. This will prevent democracies from degenerating into tyranny and aristocracies from slipping into oligrachy, in Socrates-speak.
+We solve this by using the **effort theory of value**, facilitated by social contracts in order to prevent injustice and the growth of evil. This will prevent democracies from degenerating into tyranny and aristocracies from slipping into oligrachy, in Socrates-speak. The contracts create or even force a connection between people to build fellow-feeling instead of ego and disconnection. 
+
 
 {{< q a="David Hume" >}}
 None of the most furious excesses of love and ambition are in any respect to be compared to the extremes of avarice.
@@ -36,11 +45,17 @@ None of the most furious excesses of love and ambition are in any respect to be 
 
 ## 2. Money destroys information in every exchange
 
-If you work for 1 hour in exchange for $10, then your work-information generated in that hour will be overwritten by the $10-money-information, just as a particle is bumped off by another particle. You don't remember most of what you did in every day of the first month of your first job, but you remember your first salary amount very well.
+If you work for 1 hour in exchange for 10 dollars, then your work-information generated in that hour will be overwritten by the 10-dollar-money-information, just as a particle is bumped off by another particle. 
+
+You don't remember most of what you did in every day of the first month of your first job, but you remember your first salary amount very well.
 
 In contrast, a productivity-for-productivity system would retain all the information about that productivity, allowing precision in productivity-allocation.
 
-Why hire a plumber and a carpenter to fix your kitchen sink and dinner table, when you can just hire one guy that has experience in both?
+For example, if you barter potatoes for a haircut, the barber can know that the potatoes and therefore, fertilizer and water was part of his revenue.
+
+This will then make people have concern for other industries and the interconnected nature of the economy.
+
+<!-- Why hire a plumber and a carpenter to fix your kitchen sink and dinner table, when you can just hire one guy that has experience in both? -->
 
 {{< q a="David Hume" >}}
 The lack of money can never injure any state within itself because people and commodities are the real strength of any community.
@@ -57,23 +72,21 @@ Money doesn't work for things that have a not-so-obvious-value (wave-value) such
 - the health benefits of eating a vegetable
 - the inventions that will only have impact after long and costly research
 
-Economics has no way to accurately put a price on the future effects of such things, but Superphysics has, through relativistic effort-valuation and resource credits.
+Economics has no way to accurately put a price on the future effects of such things, but Supereconomics has, through relational effort-valuation and barter credits.
 
 {{< q a="David Hume" >}}
 Deprive a man of all business and serious occupation, he runs restless from one amusement to another. He feels such a great weight and oppression from idleness and forgets the future ruin of his immoderate expences.
 {{< /q >}}
 
 
-The key is not in having a lot of money or having no money, but in having the right amount of money:
+The key is not in having a lot of money or having no money, but in having the right amount of money at the right time:
 
-{{< q a="Socrates" >}}
+{{< q a="Socrates" c="The Simple Republic, Book 2" >}}
 Under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.
-<cite>The Simple Republic, Book 2</cite>
 {{< /q >}}
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="Lectures On Jurisprudence" >}}
 Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
-<cite>Lectures On Jurisprudence</cite>
 {{< /q >}}
 
 
@@ -92,3 +105,4 @@ Electronic Money & crypto Very Fast Very unstable Low
 The ideal tool of trade would be something that has high speed, low volatility or perishability, and high availability. Paper is sup
 As you can see, paper money has the most advantages which allow it to be the main tool of trade even at a time of electronic cash and cryptocurrencies -- you can store a lot of it in your pocket even without electricity and will be accepted everywhere.
  -->
+
