@@ -2,7 +2,7 @@
 heading: Chapter 17
 title: "The Transfiguration of Jesus" 
 description: "After 6 days, Jesus took Peter, James, and John his brother, and brought them up into an high mountain"
-weight: 4
+weight: 24
 c: "indigo"
 ---
 
@@ -53,7 +53,7 @@ Tell the vision to no man, until the Son of man be risen again from the dead.
 <sup>14</sup> When they were come to people, there came to him a certain man, kneeling down to him:
 
 {{< r a="Man" >}}
-<sup>15</sup> Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water. <sup>16</sup> I brought him to your disciples, and they could not cure him. 
+<sup>15</sup> Lord, have mercy on my son: for he is lunatic. He often falls into the fire, and into the water. <sup>16</sup> I brought him to your disciples, and they could not cure him. 
 {{< /r >}}
 
 
@@ -66,23 +66,41 @@ Tell the vision to no man, until the Son of man be risen again from the dead.
 {{< /r >}}
 
 {{< l a="Jesus" >}}
-<sup>20</sup>  Because of your unbelief: If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
+<sup>20</sup>  Because of your unbelief: If you have faith as a grain of mustard seed, you shall say to this mountain, "move from here to there" and it shall move. Nothing shall be impossible unto you.
+
+<sup>21</sup> This kind of spirit goes out only by prayer and fasting.
+{{< /l >}}
+
+<sup>22</sup> While they abode in Galilee, Jesus said unto them:
+
+{{< l a="Jesus" >}}
+The Son of man shall be betrayed into the hands of men: <sup>23</sup> And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.
+{{< /l >}}
+
+<sup>24</sup> When they were come to Capernaum, they that received tribute [money] came to Peter, and said:
+
+{{< r a="People" >}}
+Does your master not pay tax? 
+{{< /r >}}
+
+{{< r a="Peter" >}}
+<sup>25</sup> Yes he does.
+{{< /r >}}
+
+When he came into the house, Jesus prevented him, saying:
+
+{{< l a="Jesus" >}}
+What do you think Simon? Do the kings of the earth take taxes from their own people, or from foreigners?
 {{< /l >}}
 
 
-{17:21} Howbeit this kind goeth not out but by prayer and fasting.
+{{< r a="Peter" >}}
+<sup>26</sup> From foreigners.
+{{< /r >}}
 
-{17:22} And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of
-men: {17:23} And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.
+{{< l a="Jesus" >}}
+Then the people are free [not to pay tax]. <sup>27</sup> Yet we should not offend the tax men. So go out to sea, and cast a hook. Take up the fish that your catch first and you will find a coin. Use that to pay our taxes.
+{{< /l >}}
 
-{17:24} And when they were come to Capernaum, they that received tribute [money] came to Peter, and said, Doth not your master pay tribute? {17:25} He saith, Yes. 
 
-When he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings
-of the earth take custom or tribute? of their own children, or of strangers?
-
-{17:26} Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free. 
-
-{17:27} Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh
-up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and
-thee. 
 
