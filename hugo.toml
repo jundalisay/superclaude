@@ -107,7 +107,7 @@ defaultContentLanguageInSubdir = false
       video = "/socrates.mp4"
       icons = [
         { img = "/icons/tao.png", title = "Metaphysics", sub = "1-50% Replicable: Paradoxical" },
-        { img = "/icons/sp.png", title = "Superphysics", sub = "51-99% Replicable: Subjective" },
+        { img = "/icons/sp-180.png", title = "Superphysics", sub = "51-99% Replicable: Subjective" },
         { img = "/icons/atom.png", title = "Physics", sub = "100% Replicable: Objective" },
       ]
 
@@ -121,7 +121,7 @@ defaultContentLanguageInSubdir = false
       title = "Six Sciences That Open Up The Universe"
       cards = [
         { img = "/avatars/descartes.jpg", c = "yellow", title = "Material Superphysics", sub = "Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza", url = "/material"},
-        { img = "/graphics/super/yin.jpg", c = "pink", title = "Bio Superphysics", sub = "Biology and Medicine that combines Western and Asian Principles", url = "/bio"},
+        { img = "/icons/yin.png", c = "pink", title = "Bio Superphysics", sub = "Biology and Medicine that combines Western and Asian Principles", url = "/bio"},
         { img = "/avatars/smith.jpg", c = "green", title = "Social Superphysics", sub = "A Society as a Metaphysical Organism with a Life Cycle", url = "/social"},
         { img = "/avatars/buddha.jpg", c = "indigo", title = "Spiritual Superphysics", sub = "Upgrading Experience beyond Matter and into the Aether or Akasha", url = "/spiritual"},
         { img = "/photos/meta/om.jpg", c = "gray", title = "Supermath and Qualimath", sub = "Mathematics based on Base-3, Base-6, Shapes, and Qualities", url = "/supermath"},
