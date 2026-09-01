@@ -1,41 +1,54 @@
 ---
-heading: Unit 9 Cohesion
-title: "Galactic Gravitational Lensing"
-# date: 2023-05-27
-image: /graphics/physics/lensing.jpg
-description: "In Cartesian Physics, there are 2 kinds of refraction of starlight (gravitational lensing)"
+heading: "Unit 9 Macro Cohesion"
+title: "Galaxy Clustering"
+date: 2025-01-07
+weight: 24
+image: /photos/physics/bao.jpg
+description: "Galaxy Clustering from space particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
 icon: "Juan"
 ---
 
 
 
-Galactic Gravitational Lensing is the bending of light caused by the intervention of a galactic vortex.
+Galaxy Clustering is a cosmic web made up of the clusters of galaxies that are bound by macro cohesion gravity from the natural affinity between galactic vortices. 
+- Modern Physics thinks of this as the effect of dark matter.
 
 
-### Bullet Cluster: Separation by Collision and Cohesion
-
-This is most famously seen in the Bullet Cluster, which is cited by physicists as proof of dark matter. 
+The clusters are connected by huge voids and is filled with filaments and walls.
 
 
-<!-- Physicists cite the Bullet Cluster as as proof of matter-less lensing. 
-- This leads them to invent dark matter since Newtonian Physics believes that lensing is caused by gravity, and gravity comes from matter. 
-- So dark matter is invisible matter
-
-But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space particles called the 2nd Element which is totally different from matter, which Descartes called the 3rd Element.
-- This difference of 2nd and 3rd Elements explains why they can be separated in the Bullet Cluster
-- Normally, they are united in planets, stars, and most galaxies. -->
+### Spacetime
 
 
-<!-- - So the invisibility of the lensing source matches this knowledge exactly -->
+The space particles (Dark matter) makes up about 27% of the universe and acts as an invisible gravitational scaffold. 
 
-{{< i s="/graphics/physics/bullet.jpg" a="Bullet Cluster" c="" >}}
-
-{{< youtube aDyohDWYPF8 >}}
+Without them, galaxies would not have enough mass to stay bound, and large-scale structures would never have formed so quickly or strongly. 
 
 
-<!-- The quanta of radiance is  -->
+### Macro-Aetherspace
 
+
+The macro-aetherspace (dark energy):
+- makes up roughly 68% of the universe
+- drives the accelerated expansion of space itself. 
+
+While space particles pull matter together, the macro-aetherspace pushes it apart on the largest scales.
+
+This cosmic repulsion:
+- Slows the growth of new structures over time.
+- Limits how large clusters can become.
+- Influences the overall pattern and distribution of galaxy clustering.
+
+Galaxy clustering results from the competition between these two forces.
+
+<!-- In the early universe, dark matter dominated and built structures rapidly. As the universe expanded, dark energy became more influential, stretching space and moderating further clustering.
+
+This delicate interplay explains the observed large-scale structure of the cosmos today. Studying galaxy clustering helps scientists measure the amounts and effects of both dark matter and dark energy, revealing the hidden architecture of our universe.
+ -->
+
+ <!-- similar to a cluster of ideas.  -->
+
+Since each idea is made up of citta or mindstuff, then each cluster has more of the macro-aetherspace (mos2) which is called dark energy.

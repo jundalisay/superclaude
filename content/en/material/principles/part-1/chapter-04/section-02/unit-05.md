@@ -93,26 +93,43 @@ This also emphasizes the liquid property of space which manifests as:
 
 The sponge universe has always existed and does not have a material start. 
 
+{{< i s="/graphics/physics/sponge2.jpg" a="Sponge" c="What Physics calls a cosmic web, we call a cosmic sponge or brain" >}}
+
+
 <!-- Descartes explained that gravity comes from the aether which is the substance of ideas and souls or abstract minds. -->
+
 
 
 ## Dark Energy
 
 Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
 
-The expansion is caused by 'dark energy' which we call the aetherspace which binds spacetime. 
+The expansion is caused by 'dark energy' which we call the macro-aetherspace which binds spacetime. 
 - These are bubbles that pop up everywhere and manifests as baryonic acoustic oscillations (BAOs).  
 - Bob Lazar calls them as Gravity-A waves, in contrast to Gravity-B which are space particles
 
-This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
+This macro-aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
 
+- The macro-aetherspace (dark energy) manifests as the holes in the cosmic sponge
+- The aether (empty space or dark matter) manifests as the cosmic sponge matter
 
 {{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
 
 
-## Heat Particles Solve the Hubble Tension
+While the cosmic sponge is the static model of the universe, the 2 anomalies are the dynamic model:
 
-<!-- The CMB as local heat of cluster/s -->
+1. Hubble Tension
+
+This is the manifestation of the displacement action of the spatial layer 
+
+2. Cosmic Birefringence
+
+This is the manifestation of the rotation action of the spatial layer 
+
+
+
+
+<!-- ## Heat Particles Solve the Hubble Tension
 
 The Hubble Tension is the difference in the expansion speed of the universe measured through red shift at 73 kilometers per second per megaparsec (measured by James Webb) and through the CMB at 67 (measured by Planck Satellite). 
 
@@ -122,16 +139,14 @@ This means that the Cosmic Microwave Background (CMB) is the heat from galaxies 
 - The CMB has a short range
 - Red shifted stars have a much longer range
 
-This difference causes the Hubble Tension. 
+This difference causes the Hubble Tension.  -->
 
 <!-- This is because heat particles have a shorter range than light particles because they are larger.  -->
 
 
-This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
+<!-- This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
 
 This is further consistent with the James Webb Space Telescope that found very distant galaxies already well-formed. This proves that those very distant galaxies are not ancient, but rather just very distant.
-
-
 
 The cause of these surprises was the false materialist belief called the [Big Bang Theory](/material/fallacies/big-bang) which says that the universe began as a primeval atom or singularity that exploded to create spacetime and the current galaxies. 
 
@@ -146,11 +161,9 @@ Such assumptions were destroyed by the findings of:
 - the **Planck satellite** which detected no gravitational waves in the CMB
 - **DESI** detecting variations in the acceleration of the expansion of space
 
-
-
 Since the aether or 5th Element is above spacetime or the 2nd Element, then the aether is not affected by space and time. 
 
-This means that the universe is eternal and infinite. 
+This means that the universe is eternal and infinite.  -->
 
 
 <!-- He described the expansion of space to be caused by the increase in space particles in an area without increasing the volume of matter. 

@@ -15,7 +15,7 @@ writer:
 Spatial Relationality has 3 versions matching the 3 sublayers:
 
 
-1. Timespace Relationalities
+## 1. Timespace Relationalities
 
 These have the relation of timespace and other sublayers
 
@@ -24,18 +24,44 @@ Examples are:
 - time travel (mos1 : mos2)
 
 
-2. Macro-Aetherspace (mos2) Relationalities
+## 2. Macro-Aetherspace (mos2) Relationalities
 
 These have the relation of the macro-aetherspace (dark energy wave) and other sublayers. 
 
-Examples are:
+### Displacement
+
+- Expansion of the Universe
+- Hubble Tension
+
+### Rotation
+
+- Cosmic Birefringence
+
+
+<!-- Examples are:
 - expansion of the universe (mos2 : mos3)
-- alternate realities, dimensions, and universes (mos2 : mos1)
+- alternate realities, dimensions, and universes (mos2 : mos1) -->
 
 
-3. Spacetime or Aether Relationalities
+## 3. Spacetime or Aether Relationalities
 
 These have the relation of spacetime and other sublayers. 
+
+### Displacement
+
+- Newtonian Gravity
+- Comet tails
+- BAOs
+
+### Rotation as Cohesion
+
+- van der Waals Force
+- Casimir Effect
+- Planetary orbits
+- Lensing
+- Clustering
+
+
 
 Examples are:
 - gravity (aether mos3: matter som1)

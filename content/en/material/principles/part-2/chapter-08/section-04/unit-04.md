@@ -1,10 +1,10 @@
 ---
-heading: "Unit 4 Macro Displacement"
-title: "Hubble Tension"
+heading: "Unit 4 Micro Cohesion"
+title: "Van Der Waals Force"
 date: 2024-12-11
 weight: 12
-image: /graphics/physics/hubble.jpg
-description: ""
+image: /photos/bio/gecko.jpg
+description: "We are pushed down to earth because the Earth displaces space particles."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,49 +12,123 @@ icon: "Juan"
 ---
 
 
-The Hubble Tension is the difference in the measured expansion speed of the universe.
+{{< b >}}
+### Superphysics Note: We organize gravities according to Descartes 2nd Element
 
-1. The heat measurement from the Cosmic Microwave Background show an expansion rate of about 67 km/s/Mpc
-2. The light measurement from the redshift of nearby galaxies and Type Ia supernovae yield a faster rate of roughly 73 km/s/Mpc
+This unit is about Micro C Gravity.
 
-
-![Hubble Tension](/graphics/physics/hubble.jpg)
-
-
-This is a proof of the difference in heat particles and light particles 
-
-- Heat particles have a shorter range and so its expansion is normal
-- Light particles have a longer range and so its expansion is faster as it has to cover a larger distance in the same amount of time
-
-We can say that:
-- the density of heat-bearing space is higher than light-bearing space. 
-- the density difference then is caused by the displacement of the low density by the high density.
+Material Superphysics | Physics
+--- | ---
+Micro Displacement Gravity | Newtonian Gravity, Inverse Square Law
+Displacement Gravity | Dark Matter
+Macro Displacement Gravity | Inter-galactic space (Cosmic Web), Baryonic Acoustic Oscillations
+**Micro Cohesion Gravity** | Van der Waals Force, Surface Tension, Dzhanibekov Effect, Gravitational Lensing, Comet Anti-Tails, Comet Non-Gravitational Acceleration
+Cohesion Gravity | Orbits, Galaxy Arms
+Macro Cohesion Gravity | Intra-galactic space (Galaxy Clusters)
+{{< /b >}}
 
 
-<!-- 
-Mainstream physics scrambles to resolve this by proposing exotic new physics, such as "early dark energy" or modifications to gravity. But what if the answer lies not in adding new particles, but in revisiting a 17th-century concept? The Hubble Tension may be the first empirical hint of a density gradient in a Cartesian aether.
 
-### The Cartesian Plenum Reimagined
-René Descartes famously rejected the concept of a true vacuum. He proposed that the universe is a *plenum*—a continuous, space-filling medium or "aether." In his vortex theory, the cosmos was not an empty stage, but a dynamic fluid where the density, pressure, and swirling motion of the aether dictated the behavior of light and matter. 
+The previous section explained that material gravity, what we call Micro Displacement Gravity, comes from the high pressure that arises from low pressure. This is caused by the displacement of space particles by mass.
 
-While Newtonian physics and Einstein’s relativity discarded the mechanical aether, the core Cartesian idea—that space is an active, continuous medium with physical properties—has quietly resurfaced in modern quantum field theory (e.g., the Higgs field, vacuum energy). If we view the cosmos through a modernized Cartesian lens, the Hubble Tension stops being a contradiction and becomes a direct measurement of the universe's density gradient.
+We are pushed down to earth because the Earth displaces space particles. 
+- These go up which then push us down.
 
-### Mapping the Tension to Aether Density
-In this framework, the speed at which we perceive the universe to be "expanding" is fundamentally tied to how light propagates through the aether at different cosmic epochs and densities.
+Most of these space particles are just above the Earth's surface, diminishing the farther you go up and away from the surface.
+- As a result, gravity is weaker as you go up
 
-**1. The CMB and the High-Density Primordial Aether**
-The Cosmic Microwave Background provides a snapshot of the universe when it was only 380,000 years old. In a Cartesian model, this early epoch represents a state of **high-density aether**. The medium was tightly packed, highly energetic, and possessed a specific refractive and dynamic resistance. The expansion rate we infer from the CMB (~67 km/s/Mpc) is not a measure of space stretching into nothingness, but rather a measurement of light interacting with this dense, primordial plenum. 
+{{< i s="/graphics/physics/gravityarea.jpg" a="Gravity Territory or Area" >}}
 
-**2. Local Redshift and the Low-Density Modern Aether**
-Conversely, when we measure the redshift of relatively nearby galaxies (using Cepheid variables and supernovae), we are measuring light that has traveled through the *local, modern* universe. Over 13.8 billion years, the cosmic aether has expanded, cooled, and rarefied. This **low-density local aether** offers less dynamic resistance to the propagation of light. Consequently, the redshift signatures we observe locally indicate a faster apparent expansion rate (~73 km/s/Mpc). 
 
-### The Discrepancy as Proof
-Under the standard Lambda-CDM model, the universe’s expansion rate should be uniform when scaled correctly, making the 67 vs. 73 discrepancy a crisis. But in a Cartesian density model, the discrepancy is exactly what we should expect. 
+So below you is low pressure space. This creates a high pressure space above you that then pushes you down. 
 
-Just as the speed of sound changes depending on whether it travels through dense water or thin air, the "expansion" metrics of the universe change depending on the density of the aetheric medium being measured. The CMB measures the high-density baseline; local redshift measures the low-density present. The "tension" is simply the friction between two different density regimes of the same continuous medium.
+We can call this as the material gravity of the Earth or a downward gravity. 
 
-### Conclusion
-To suggest that the Hubble Tension is proof of Descartes’ aether is, of course, a radical departure from the cosmological consensus. It requires us to abandon the idea of an expanding void and embrace a universe that is a dynamic, evolving plenum. 
 
-Yet, as our most precise instruments continue to confirm that the early universe and the local universe refuse to agree on the Hubble constant, the Cartesian perspective offers a beautifully elegant, unified explanation. The universe may not be tearing itself apart; it may simply be revealing the varying densities of the invisible, cosmic ocean in which we are immersed. -->
+## Micro Cohesion Gravity
+
+Crude gravity, which we call Micro Cohesion Gravity, is created by displacing space bluntly with mass.
+
+But gravity can also be produced by displacing space minutely and surgically. This causes the space particles to flow **AROUND** the mass.
+
+We call this Micro Cohesion Gravity as opposed to Micro Displacement Gravity which goes away from the mass. 
+
+This is because the space particles that cause Micro Cohesion Gravity are smaller than those from Micro Displacement.
+
+This makes the high-low pressure difference also finer or smaller. 
+
+ <!-- done by reducing the pressure between 2 surfaces by eliminating or reducing the flow of the space particles between them.  -->
+
+There are 2 easy examples of this:
+
+### 1. Gauge Blocks and Casimir Effect
+
+Gauge Blocks are rectangular blocks that are perfectly smooth. Two blocks together thus can have no space between them. 
+
+This creates a zero pressure between them and a high pressure outside, which then pushes them together. 
+
+{{< i s="/photos/physics/gauge.jpg" a="Gauge Blocks" >}}
+
+
+Galileo described this way back in 1638, during the same decade that Descartes wrote his theory of gravity via space particles in 1633. 
+
+
+{{< q a="Galileo" c="Two New Sciences, Day 1" >}}
+If you take 2 highly polished and smooth plates of marble, metal, or glass and place them face to face, one will slide over the other with the greatest ease. This shows that there is nothing of a viscous nature between them [no liquid virtual space particles]. But when you try to separate them, the plates exhibit such a repugnance to separation. The upper one will carry the lower one with it and keep it lifted indefinitely, even when the latter is big and heavy. This shows [by the pushing of the space-medium] the aversion of nature for empty space.
+{{< /q >}}
+
+
+Rather than call this as a vacuum force, it would be better to call it a pushing force, just to be consistent and simple.
+
+The center area formed by the 2 blocks must be either straight or wider at the center. In this way, this external space-pressure can converge on the center of gravity.
+
+
+
+
+### 2. Gecko Feet: Van Der Waals force
+
+This is done by gecko feet which have tiny flexible hairs called spatulae that insert themselves into the tiny holes and depressions on surfaces to push out the empty space.
+- This is similar to fine-grained sand being able to fill a bottle and eliminate all space
+
+This reduces the pressure there creating a high pressure elsewhere. This then 'glues' the gecko to the surface.
+
+
+{{< i s="/photos/bio/gecko.jpg" a="Gecko feet" c="In Material Superphysics, gecko feet stay glued using the same mechanism used by gauge blocks" >}}
+
+{{< box >}}
+According to Physics, geckos stay on the ceiling because of a "Van Der Waals force", an intermolecular binding force, that binds their feet to the ceiling and counteracts gravity
+
+This Van Der Waals force uses charge-based binding between molecules and are therefore electromagnetic. 
+
+However, this same force does not seem apply to gauge blocks that stick to each other without electromagnetism.
+
+So we refute the stated mechanism of the Van Der Waals force. We instead apply the same mechanism for gauge blocks. 
+{{< /box >}}
+
+
+<!--  Instead, the mechanism is said to be intermolecular binding, without any explanation
+
+Cartesian Physics explains that the mechanism for both are exactly the same -- the presence or absense of spacetime particles flowing between 2 surfaces
+
+This is the same mechanism for gravity
+
+This is because in Cartesian Physics, gravity is the pushing force of high pressure space particles onto low pressure -->
+
+
+The "Hamaker constant" A used in Van Der Waals force is therefore the same as Newton's G, mentioned in the previous section. 
+
+The difference is that:
+- Newton's G is the volume of space particles displaced by a body. This has a macro perspective.
+- The Hamaker constant is the volume of space particles flowing between surfaces. This has a quantum perspective.
+
+{{< i s="/graphics/physics/vander.jpg" a="Space particles" >}}
+
+Since G is a constant, then there is a limited weight that reverse gravity can keep up.
+
+<!-- This also means that the Van Der Waals force is part of the matter-space family of forces like gravity, friction, and surface tension
+
+This is opposed to the electromagnetic-space family like electricity, magnetism, and microlensing
+
+Microlensing wrongly uses G and so it fails when there is no mass, leading to the false idea of dark matter -->
+
 

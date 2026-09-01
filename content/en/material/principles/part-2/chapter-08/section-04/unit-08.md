@@ -1,69 +1,41 @@
 ---
-heading: "Unit 8 Cohesion"
-title: "Stellar Gravitational Lensing"
-# date: 2024-06-15
-image: "/photos/physics/atlas.jpg" 
-description: ""
-weight: 21
+heading: Unit 8 Cohesion
+title: "Galactic Gravitational Lensing"
+# date: 2023-05-27
+image: /graphics/physics/lensing.jpg
+description: "In Cartesian Physics, there are 2 kinds of refraction of starlight (gravitational lensing)"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+weight: 22
 icon: "Juan"
 ---
 
 
 
-Displacement Gravity as a relation between space particles and light particles is seen in gravitational lensing. 
-
-This was explained by Descartes in the World as refraction caused by space particles (2nd Element):
+Galactic Gravitational Lensing is the bending of light caused by the intervention of a galactic vortex.
 
 
-{{< q a="Rene Descartes" c="The World, Chapter 15" >}}
-The same star can often appear in different places because of the different edges that divert its rays toward the earth... This is similar to how objects are multiplied when one looks through glasses or other transparent bodies cut along several faces.
-{{< /q >}}
+### Bullet Cluster: Separation by Collision and Cohesion
+
+This is most famously seen in the Bullet Cluster, which is cited by physicists as proof of dark matter. 
 
 
-We notate this by adding a cohesion (vortex) term to the displacement term:
+<!-- Physicists cite the Bullet Cluster as as proof of matter-less lensing. 
+- This leads them to invent dark matter since Newtonian Physics believes that lensing is caused by gravity, and gravity comes from matter. 
+- So dark matter is invisible matter
 
-`2GM / c^2 R + 2GM / c^2 R`
-
-{{< youtube 1MoWYX3t0Pw >}}
-
-
-This leads to 2 kinds of gravitational lensing:
-
-1. Galactic Lensing
-
-This is called macrolensing by Modern Physics.
-
-2. Stellar Lensing 
-
-This is called microlensing by Modern Physics.
+But Cartesian Physics KNOWS that gravity comes from virtual (invisible) space particles called the 2nd Element which is totally different from matter, which Descartes called the 3rd Element.
+- This difference of 2nd and 3rd Elements explains why they can be separated in the Bullet Cluster
+- Normally, they are united in planets, stars, and most galaxies. -->
 
 
+<!-- - So the invisibility of the lensing source matches this knowledge exactly -->
 
-## 1919 Eddington Experiment
+{{< i s="/graphics/physics/bullet.jpg" a="Bullet Cluster" c="" >}}
 
-
-
-## Comet Tails and Antitails 
-
-Descartes explained that comet tails and antitails are the effect of gravitational lensing within a solar system. 
-
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 136" >}}
-<!-- The curved rays coming from H and from all the other places between G and H toward 4. It is also evident that if the Earth is toward 2, we should see the comet by means of the straight rays CE2, and its mane by means of all the curved rays passing between lines CE2 and CD2 converging toward 2. The only difference is that  -->
-When the Earth is toward 2, this comet will appear in the morning with its tail seeming to precede it.
-{{< /q >}}
+{{< youtube aDyohDWYPF8 >}}
 
 
-People didn't know that Descartes was referring to INTERSTELLAR comets and not Intrastellar ones, whereas Newtons' comets are all intrastellar. 
-
-This is why the dynamics Comet 3I/ATLAS cannot be explained by Newtonian Physics but are fully explainable by Descartes' Physics.
-
-
-<!-- 2025 Comet 3I/ATLAS -->
-
-
-<!-- 
-Galactic gravitational lensing are the more common ones such as galaxy cluster Abell 1689.
- -->
-
-<!-- This is why Cartesian Physics predicts that there is none or insignificant lensing in planets (as material lensing). -->
+<!-- The quanta of radiance is  -->
 
