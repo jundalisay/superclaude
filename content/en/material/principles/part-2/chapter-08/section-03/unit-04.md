@@ -1,60 +1,91 @@
 ---
 heading: "Unit 4 Macro Displacement"
-title: "Hubble Tension"
-date: 2024-12-11
-weight: 12
-image: /graphics/physics/hubble.jpg
+title: "Expansion of the Universe"
+date: 2024-12-19
+weight: 16
+image: /photos/physics/edge.jpg
 description: ""
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
 ---
 
 
-The Hubble Tension is the difference in the measured expansion speed of the universe.
-
-1. The heat measurement from the Cosmic Microwave Background show an expansion rate of about 67 km/s/Mpc
-2. The light measurement from the redshift of nearby galaxies and Type Ia supernovae yield a faster rate of roughly 73 km/s/Mpc
 
 
-![Hubble Tension](/graphics/physics/hubble.jpg)
+For decades, cosmologists have debated one of the most fundamental questions in physics: **Is the expansion of the universe speeding up, slowing down, or staying the same?**
+
+Mainstream astrophysics, based on observations of distant Type Ia supernovae, currently concludes that the expansion is **accelerating**, driven by a force called dark energy.
+
+However, this conclusion rests on the assumption that the universe is a single, isolated system expanding from a singular Big Bang event.
+
+**Material Superphysics** on the other hand proposes that:
+- the universe is indefinite and eternal
+- the expansion of the universe is inherently subjective
 
 
-This is a proof of the difference in heat particles and light particles 
+## The Dark Energy Wave Model
 
-- Heat particles have a shorter range and so its expansion is normal
-- Light particles have a longer range and so its expansion is faster as it has to cover a larger distance in the same amount of time
+In the Material Superphysics framework, our universe is not a solitary entity expanding into empty nothingness. Instead, it is one of many universes, each flowing within a vast, primordial **dark energy wave** that moves forward through a higher-dimensional layer.
 
-We can say that:
-- the density of heat-bearing space is higher than light-bearing space. 
-- the density difference then is caused by the displacement of the low density by the high density.
+This dark energy wave is the fundamental driver of all cosmic motion. It is not a force "pushing" galaxies apart in the conventional sense, but rather a rhythmic, wave-like current that carries entire universes along its trajectory.
+
+The pauses of this wave are called **Big Bangs** by Physics from where the expansion begins. This means that the universe pulsates through time. 
+
+![Dark Energy](/graphics/econ/darkenergy.jpg)
 
 
-<!-- 
-Mainstream physics scrambles to resolve this by proposing exotic new physics, such as "early dark energy" or modifications to gravity. But what if the answer lies not in adding new particles, but in revisiting a 17th-century concept? The Hubble Tension may be the first empirical hint of a density gradient in a Cartesian aether.
+## Three Phases of Expansion
 
-### The Cartesian Plenum Reimagined
-René Descartes famously rejected the concept of a true vacuum. He proposed that the universe is a *plenum*—a continuous, space-filling medium or "aether." In his vortex theory, the cosmos was not an empty stage, but a dynamic fluid where the density, pressure, and swirling motion of the aether dictated the behavior of light and matter. 
+Because the dark energy wave is not uniform but oscillatory, the expansion of any given universe depends entirely on where that universe sits along the wave's profile. We identify 3 distinct phases:
 
-While Newtonian physics and Einstein’s relativity discarded the mechanical aether, the core Cartesian idea—that space is an active, continuous medium with physical properties—has quietly resurfaced in modern quantum field theory (e.g., the Higgs field, vacuum energy). If we view the cosmos through a modernized Cartesian lens, the Hubble Tension stops being a contradiction and becomes a direct measurement of the universe's density gradient.
+| Phase | Position on the Wave | Expansion Behavior |
+| :--- | :--- | :--- |
+| **Phase 1** | Just after a pause (the "Big Bang" event) | **Accelerating** – the universe bursts forward as it exits stillness |
+| **Phase 2** | Midway between pauses | **Constant** – the universe coasts at a steady, uniform speed |
+| **Phase 3** | Nearing the next pause | **Decelerating** – the universe slows down as it approaches the next stillness |
 
-### Mapping the Tension to Aether Density
-In this framework, the speed at which we perceive the universe to be "expanding" is fundamentally tied to how light propagates through the aether at different cosmic epochs and densities.
 
-**1. The CMB and the High-Density Primordial Aether**
-The Cosmic Microwave Background provides a snapshot of the universe when it was only 380,000 years old. In a Cartesian model, this early epoch represents a state of **high-density aether**. The medium was tightly packed, highly energetic, and possessed a specific refractive and dynamic resistance. The expansion rate we infer from the CMB (~67 km/s/Mpc) is not a measure of space stretching into nothingness, but rather a measurement of light interacting with this dense, primordial plenum. 
 
-**2. Local Redshift and the Low-Density Modern Aether**
-Conversely, when we measure the redshift of relatively nearby galaxies (using Cepheid variables and supernovae), we are measuring light that has traveled through the *local, modern* universe. Over 13.8 billion years, the cosmic aether has expanded, cooled, and rarefied. This **low-density local aether** offers less dynamic resistance to the propagation of light. Consequently, the redshift signatures we observe locally indicate a faster apparent expansion rate (~73 km/s/Mpc). 
+### The Universe and Its Expansion is Subjective
 
-### The Discrepancy as Proof
-Under the standard Lambda-CDM model, the universe’s expansion rate should be uniform when scaled correctly, making the 67 vs. 73 discrepancy a crisis. But in a Cartesian density model, the discrepancy is exactly what we should expect. 
+The Dark Energy Wave matches the form of the Atomic Space of the observing mind, which in turn follows the form imposed on it by the DNA which itself is a product of the pineal gland or aethereal ajna chakra which is rooted in the Identity Space within the Aethereal Layer (The Existence Space is the crown chakra). 
 
-Just as the speed of sound changes depending on whether it travels through dense water or thin air, the "expansion" metrics of the universe change depending on the density of the aetheric medium being measured. The CMB measures the high-density baseline; local redshift measures the low-density present. The "tension" is simply the friction between two different density regimes of the same continuous medium.
+This is why the expansion speed of the universe depends on the observing mind. 
 
-### Conclusion
-To suggest that the Hubble Tension is proof of Descartes’ aether is, of course, a radical departure from the cosmological consensus. It requires us to abandon the idea of an expanding void and embrace a universe that is a dynamic, evolving plenum. 
+- When humans were cavemen the universe was static and very limited 
+- When humans developed telescopes the universe started to expand via red shift
+- When humans developed space telescopes the expansion of the universe started to accelerate 
 
-Yet, as our most precise instruments continue to confirm that the early universe and the local universe refuse to agree on the Hubble constant, the Cartesian perspective offers a beautifully elegant, unified explanation. The universe may not be tearing itself apart; it may simply be revealing the varying densities of the invisible, cosmic ocean in which we are immersed. -->
+Therefore, it is correct to say that the universe is static, expanding, and expanding faster because all of these mirror the observing mind. 
 
+This is exactly what happens in quantum collapse which is dependent on the observing mind. 
+
+<!-- that is 
+This means that **all three answers—accelerating, constant, and decelerating—are simultaneously correct**, depending on when and where you measure them within the wave cycle. -->
+
+
+<!-- Mainstream physics assumes that the expansion rate is an objective, observer-independent property of the universe. If we measure it, we should all agree on the result.
+
+Material Superphysics, however, asserts that **the expansion rate is subjective**—not in the philosophical sense of "mere opinion," but in the physical sense of **wave-function collapse**.
+
+Just as in quantum mechanics, where a particle's properties are not fixed until observed (the observer effect), the dark energy wave that drives cosmic expansion **interacts with the atomic space wave of the observer**. The observer is not a passive camera watching the universe from outside; the observer is embedded in the universe, and their own atomic structure generates a specific spatial frequency.
+
+When the dark energy wave encounters the observer's atomic space wave, the two waves **collapse into resonance**—much like how quantum waves collapse to match the observer's measurement apparatus. The observed expansion rate, therefore, is not an absolute feature of the cosmos, but a **relative reading** determined by the alignment (or misalignment) between the dark energy wave and the observer's local space-time wave.
+
+In simpler terms: **Two different observers, in two different positions along the dark energy wave, or with two different atomic configurations, will measure two different expansion rates—and both will be equally correct.**
+
+---
+
+## Implications for Cosmology
+
+This subjective framework resolves several long-standing paradoxes in mainstream physics:
+
+- **The Hubble Tension:** The current disagreement between measurements of the expansion rate using the cosmic microwave background (early universe) versus Cepheid variables (local universe) is not an experimental error—it is a direct consequence of observers measuring from different positions on the dark energy wave.
+- **Dark Energy:** There is no need for a mysterious, unobservable "dark energy" substance. The apparent acceleration is simply the local phase of the wave, not a fundamental force.
+- **The Fate of the Universe:** The universe will not expand forever into a cold, empty "heat death," nor will it collapse in a "Big Crunch." Instead, it will repeatedly pause and resume its flow, cycling through phases of acceleration, constancy, and deceleration indefinitely.
+ -->
+
+
+ 

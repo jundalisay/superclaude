@@ -30,8 +30,9 @@ These have the relation of the macro-aetherspace (dark energy wave) and other su
 
 ### Displacement
 
-- Expansion of the Universe
+- Gravity A waves
 - Hubble Tension
+- Expansion of the Universe
 
 ### Rotation
 

@@ -13,12 +13,17 @@ icon: Juan
 ---
 
 
+Section 1 clarified that we are talking about metaphysical waves and not physical ones. 
+
+A common example is our feelings. 
+
+Our feelings can vanish instantly or stay for a long time (like a traumatic experience). Whereas water-waves disappear gradually and never instantly, and can never be perpetual. 
+
+
 
 ## Waves within Waves
 
-Waves are flexible, as seen in the nature of water. 
-
-This allows small waves to go with larger waves. 
+Metaphysical waves are flexible, allowing small waves to go with larger waves. 
 
 For example, in the graphic below:
 - the red matter wave rides the orange convertible wave

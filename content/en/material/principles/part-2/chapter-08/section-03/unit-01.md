@@ -4,7 +4,7 @@ title: "Macro-Aetherspace Relationalities"
 date: 2024-12-19
 weight: 4
 image: /photos/physics/edge.jpg
-description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
+description: ""
 icon: "Juan"
 writer:
   name: Juan
@@ -14,7 +14,16 @@ writer:
 
 
 Macro-Aetherspace Relationalities manifests as:
-- Dark Energy
-- Gravity A waves
 
+## Displacement
+
+- Micro Displacement as Gravity-A waves for teleportation
+- Displacement as Hubble Tension
+- Macro Displacement as the expansion of the universe
+
+## Cohesion
+
+<!-- - Micro Cohesion as ? -->
+- Cohesion as Cosmic Birefringence
+<!-- - Macro Cohesion as  -->
 

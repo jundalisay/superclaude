@@ -1,10 +1,10 @@
 ---
-heading: "Unit 2"
-title: "Bob Lazar's Gravity-A Waves as Dark Energy"
-# date: 2024-07-22
-weight: 9
-image: /photos/objects/ufo.jpg
-description: "Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51"
+heading: "Unit 3 Macro Displacement"
+title: "Hubble Tension"
+date: 2024-12-11
+weight: 12
+image: /graphics/physics/hubble.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,32 +12,49 @@ icon: "Juan"
 ---
 
 
+The Hubble Tension is the difference in the measured expansion speed of the universe.
+
+1. The heat measurement from the Cosmic Microwave Background show an expansion rate of about 67 km/s/Mpc
+2. The light measurement from the redshift of nearby galaxies and Type Ia supernovae yield a faster rate of roughly 73 km/s/Mpc
 
 
-Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51. 
-
-{{< youtube 0dXvYASaIx4 >}}
-
-In Material Superphysics, this is the same as the aetherspace which surrounds the quarks in a proton. 
-
-The Gray UFO's mechanism is to use Element-115 that has a large aetherspace that extends beyond the atom. 
-
-That aetherspace is then amplified to repel gravity and to push the craft where it wants to go. 
-
-- The ordinary aetherspace is atomic space which facilitates contact forces
-- The marco-aetherspace is atomic space amplified to expand that contact force ability beyond material contact
+![Hubble Tension](/graphics/physics/hubble.jpg)
 
 
-<!-- In human levitation, this aetherspace is known as chi which is propelled downwards to resist gravity.  -->
+This is a proof of the difference in heat particles and light particles 
+
+- Heat particles have a shorter range and so its expansion is normal
+- Light particles have a longer range and so its expansion is faster as it has to cover a larger distance in the same amount of time
+
+We can say that:
+- the density of heat-bearing space is higher than light-bearing space. 
+- the density difference then is caused by the displacement of the low density by the high density.
 
 
-The aetherspace can be harnessed without Element 115. The Grays probably only use it because it is a compact source of ready-aetherspace.
+<!-- 
+Mainstream physics scrambles to resolve this by proposing exotic new physics, such as "early dark energy" or modifications to gravity. But what if the answer lies not in adding new particles, but in revisiting a 17th-century concept? The Hubble Tension may be the first empirical hint of a density gradient in a Cartesian aether.
 
-Our preferred theoretical way to amplify the aetherspace is through an external electro-aetheric field-force that replicates the natural aetherspace in atoms through Cartesian Relativity (see superpositioon and decoherence video).
+### The Cartesian Plenum Reimagined
+René Descartes famously rejected the concept of a true vacuum. He proposed that the universe is a *plenum*—a continuous, space-filling medium or "aether." In his vortex theory, the cosmos was not an empty stage, but a dynamic fluid where the density, pressure, and swirling motion of the aether dictated the behavior of light and matter. 
 
-This requires more power than what can be carried in the small craft of the Grays and is what is used by larger UFO craft.
+While Newtonian physics and Einstein’s relativity discarded the mechanical aether, the core Cartesian idea—that space is an active, continuous medium with physical properties—has quietly resurfaced in modern quantum field theory (e.g., the Higgs field, vacuum energy). If we view the cosmos through a modernized Cartesian lens, the Hubble Tension stops being a contradiction and becomes a direct measurement of the universe's density gradient.
 
-<!-- This is because the aetherspace naturally repels spacetime. -->
+### Mapping the Tension to Aether Density
+In this framework, the speed at which we perceive the universe to be "expanding" is fundamentally tied to how light propagates through the aether at different cosmic epochs and densities.
 
+**1. The CMB and the High-Density Primordial Aether**
+The Cosmic Microwave Background provides a snapshot of the universe when it was only 380,000 years old. In a Cartesian model, this early epoch represents a state of **high-density aether**. The medium was tightly packed, highly energetic, and possessed a specific refractive and dynamic resistance. The expansion rate we infer from the CMB (~67 km/s/Mpc) is not a measure of space stretching into nothingness, but rather a measurement of light interacting with this dense, primordial plenum. 
 
-<!-- https://youtu.be/cJWzBCV0ksc -->
+**2. Local Redshift and the Low-Density Modern Aether**
+Conversely, when we measure the redshift of relatively nearby galaxies (using Cepheid variables and supernovae), we are measuring light that has traveled through the *local, modern* universe. Over 13.8 billion years, the cosmic aether has expanded, cooled, and rarefied. This **low-density local aether** offers less dynamic resistance to the propagation of light. Consequently, the redshift signatures we observe locally indicate a faster apparent expansion rate (~73 km/s/Mpc). 
+
+### The Discrepancy as Proof
+Under the standard Lambda-CDM model, the universe’s expansion rate should be uniform when scaled correctly, making the 67 vs. 73 discrepancy a crisis. But in a Cartesian density model, the discrepancy is exactly what we should expect. 
+
+Just as the speed of sound changes depending on whether it travels through dense water or thin air, the "expansion" metrics of the universe change depending on the density of the aetheric medium being measured. The CMB measures the high-density baseline; local redshift measures the low-density present. The "tension" is simply the friction between two different density regimes of the same continuous medium.
+
+### Conclusion
+To suggest that the Hubble Tension is proof of Descartes’ aether is, of course, a radical departure from the cosmological consensus. It requires us to abandon the idea of an expanding void and embrace a universe that is a dynamic, evolving plenum. 
+
+Yet, as our most precise instruments continue to confirm that the early universe and the local universe refuse to agree on the Hubble constant, the Cartesian perspective offers a beautifully elegant, unified explanation. The universe may not be tearing itself apart; it may simply be revealing the varying densities of the invisible, cosmic ocean in which we are immersed. -->
+

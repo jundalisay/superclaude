@@ -1,5 +1,5 @@
 ---
-heading: "Unit 11 Macro Cohesion"
+heading: "Unit 6 Cohesion"
 title: "Cosmic Birefringence"
 date: 2026-08-19
 weight: 26
@@ -13,7 +13,7 @@ icon: "Juan"
 
 
 
-While we put the Hubble Tension as proof of macro displacement of the aether, we put the other related effect as *cosmic birefringence*.
+While we put the Hubble Tension as proof of the displacement of the macro-aetherspace, we put its related effect called *cosmic birefringence* as the cohesion of macro-aetherspace.
 
 This is the slight rotation of the plane of the light’s polarization that comes from the Cosmic Microwave Background (CMB) Radiation. 
 

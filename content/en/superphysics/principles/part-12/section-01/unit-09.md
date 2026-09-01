@@ -3,7 +3,7 @@ heading: "Unit 9"
 title: "Causes of Error in Science and Philosophy"
 date: 2025-10-26
 image: "/graphics/wtf.jpg"
-description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe. "
+description: ""
 weight: 21
 writer:
   name: Juan
@@ -13,6 +13,8 @@ icon: Juan
 
 
 
+## Objectivity from Lack of Samadhi or True Spirituality
+
 The cause of error in science is the imposition of universal objectivity. 
 
 The problem is that:
@@ -21,6 +23,7 @@ The problem is that:
 
 So science itself is negative or evil (if we associate the Negative Force with evil). 
 
+A mind will focus on objectivity if it cannot go into spiritual subjectivity. 
 
 The cause of error in Western philosophy is the lack of samadhi among its leading philosophers.
 
@@ -29,19 +32,29 @@ By reading what is known from Thales to Hegel, it is obvious that very few Weste
 Only the following seems to show symptoms of having experienced samadhi:
 
 1. Pythagoras
-2. Socrates
-3. Descartes
 
 Pythagoras was known to have some special power/s which support an enlightened state of mind. But these are way inferior to Asian philosophers from Patanjali to Ramakrishna and Yogananda. 
 
-
-
 For example, Yogananda's account of Sri Yukteswar's lifetrons and astra and causal realms are essential in us coming up with the 5 metaphysical layers of causal, essential, astral, subtle, and crude. 
 
- <!-- spiritual technique which leads to spiritual tradition that sustains itself.  -->
+2. Socrates
+
+Socrates did not fear death and pushed his followers not to fear it.
+
+3. Descartes
+
+Descartes had lucid dreams in an oven in November 10, 1619.
+
+{{< q a="Adrian Baillet" c="The Life of Rene Descartes" >}}
+In his dream, he found a dictionary on his table. He opened it, and seeing that it was a **"dictionary"**. Then a book of poems entitled "corpus poetarum" appeared in his hand.
+{{< /q >}}
 
 
-The lack of samadhi in the West is from the lack of technique which is from the lack of a teacher. 
+
+<!-- spiritual technique which leads to spiritual tradition that sustains itself.  -->
+
+
+The lack of samadhi or lucid dreaming ability in the West is from the lack of technique which is from the lack of a teacher. 
 
 The main enlightened teacher in Western philosophy seemed to be Pythagoras. 
 

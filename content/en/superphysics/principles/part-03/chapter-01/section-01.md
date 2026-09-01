@@ -35,6 +35,59 @@ The action of the Positive and Negative on each other breaks the homogeneity, cr
 {{< i s="/photos/physics/waves.jpg" a="Waves" c="" >}}
 
 
+## Metaphysical Waves vs Physical Waves
+
+A common misconception by science is to treat metaphysical waves as physical waves. 
+
+
+Physical waves have 5 properties because of the limitation of the physical domain
+
+1. Amplitude
+
+This is the maximum displacement of the wave from the mean position. It is the maximum height from the centre line to the crest or the trough. The crest is the highest point of the wave and the trough is the lowest point of the wave. It is measured in metres.
+
+2. Frequency
+
+This is the number of vibrations passing a fixed point in a given amount of time is called frequency. The unit of physical frequency is Hertz.
+
+3. Wavelength
+
+Wavelength is the distance between two identical points (adjacent crests or troughs). It is measured in metres. Frequency and wavelength are inversely proportional to each other.
+
+4. Time Period
+
+The time taken by a complete wave to pass through a particular point is called the time period. The time period is measured in seconds. The time period is the reciprocal of the frequency.
+
+5. Speed
+
+This is the distance travelled by a particular point on the wave in the given interval of time. Speed is measured in metres per second.
+
+
+Metaphysical waves on the other hand are not objective. This means they are not objectively measureable. Instead, they are subjectively measured through the waves of the observer. 
+
+This leads to 4 properties that are always have some relation to the observer:
+
+1. Commonality
+
+This does not exist in physical waves other than a wave having the nature of a wave.
+
+2. Density 
+
+This is frequency. 
+
+3. Balance 
+
+This is related to amplitude with focus on the **mean**.
+
+4. Spread
+
+This is similar to speed. However, this connects more to **dimensions** instead of spatial area since in the upper layers, there is no space. 
+
+Also, there is no rigid or regular waveforms like sine, sawtooth, triangle, or square waves. 
+
+
+
+
 ## Voids and Plena
 
 These disturbances create imbalances as:

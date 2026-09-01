@@ -63,30 +63,49 @@ He had 3 consecutive dreams in 1 night that he imagined could only have come fro
 
 <!-- After having fallen asleep, his imagination felt struck by the representation of  -->
 
-some ghosts that presented themselves to him, and which frightened him in such a way, that believing he was walking in the streets, he was obliged to lean on the left side to be able to advance to the place where he wanted to go, because he felt a great weakness on the right side on which he could not support himself. 
+He dreamt that some ghosts that presented themselves to him and frightened him.
 
-Being ashamed to walk in this way, he made an effort to straighten up: but he felt an impetuous wind that, carrying him in a kind of whirlwind, made him make three or four turns on his left foot. This was not yet what frightened him. 
+He believed that he was walking in the streets. So he leaned on the left side while walking where he wanted to go. This was because he felt a great weakness on the right side on which he could not support himself. 
 
-The difficulty he had in dragging himself made him believe he was falling at each step, until having perceived an open college on his way, he entered inside to find a retreat there, and a remedy for his evil. 
+Being ashamed to walk in this way, he made an effort to straighten up. But he felt an impetuous wind that carried him in a kind of whirlwind, made him make three or four turns on his left foot. This was not yet what frightened him. 
 
-He tried to reach the church of the college, where his first thought was to go say his prayer: but having noticed that he had passed a man of his acquaintance without greeting him, he wanted to retrace his steps to make him civility, and he was violently pushed back by the wind that was blowing against the church. At the same time he saw in the middle of the college courtyard another person who called him by his name in civil and obliging terms: and told him that if he wanted to go find Mr. N, he had something to give him.
+The difficulty he had in dragging himself made him believe he was falling at each step, until having perceived an open college on his way. 
 
+He entered inside to find a retreat there, and a remedy for his evil. 
+
+He tried to reach the church of the college, where his first thought was to go say his prayer. But having noticed that he had passed a man of his acquaintance without greeting him, he wanted to retrace his steps to make him civility.
+
+He was violently pushed back by the wind that was blowing against the church. 
+
+At the same time, he saw in the middle of the college courtyard another person who:
+- called him by his name in civil and obliging terms
+- told him that if he wanted to go find Mr. N, he had something to give him.
 
 
 ### Dream 1
 
 Descartes imagined that it was a melon that had been brought from some foreign country. 
 
-But what surprised him more, was to see that those who were gathering with this person around him to talk, were straight and firm on their feet: although he was still curved and wavering on the same ground, and that the wind that had thought of overthrowing him several times had diminished a lot. He woke up on this imagination, and he felt at the same time an effective pain, which made him fear that it was the operation of some evil genius who would have wanted to seduce him. Immediately he turned over on the right side, for it was on the left that he had fallen asleep, and that he had had the dream. He made a prayer to God to ask to be guaranteed from the bad effect of his dream, and to be preserved from all the misfortunes that could threaten him in punishment of his sins, which he recognized could be serious enough to attract the thunderbolts of heaven on his head: although he had led until then a life quite irreproachable in the eyes of men.
+But what surprised him more, was to see that those who were gathering with this person around him to talk, were straight and firm on their feet: although he was still curved and wavering on the same ground, and that the wind that had thought of overthrowing him several times had diminished a lot. 
+
+He woke up on this imagination. He felt at the same time an effective pain, which made him fear that it was the operation of some evil genius who would have wanted to seduce him.
+
+Immediately, he turned over on the right side, for it was on the left that he had fallen asleep, and that he had had the dream.
+
+He made a prayer to God to ask to be guaranteed from the bad effect of his dream, and to be preserved from all the misfortunes that could threaten him in punishment of his sins, which he recognized could be serious enough to attract the thunderbolts of heaven on his head: although he had led until then a life quite irreproachable in the eyes of men.
 
 
 ### Dream 2
 
-He fell asleep again after 2 hours of thinkin of the good and evil of this world.
+He fell asleep again after 2 hours of thinking of the good and evil of this world.
 
 He then dreamt of hearing a sharp loud noise like thunder. This woke him on the spot.
 
- and having opened his eyes, he perceived a lot of sparks of fire spread throughout the room. The thing had already often happened to him at other times: and it was not very extraordinary for him on waking up in the middle of the night to have his eyes sparkling enough to let him glimpse the objects closest to him. But on this last occasion he wanted to resort to reasons taken from philosophy: and he drew favorable conclusions for his mind from them, after having observed by opening, then by closing his eyes alternately, the quality of the species that were represented to him. Thus his fear dissipated, and he fell asleep again in a rather great calm.
+When he opened his eyes, he saw a lot of sparks of fire spreading throughout the room.
+
+The thing had already often happened to him at other times. It was not very extraordinary for him on waking up in the middle of the night to have his eyes sparkling enough to let him glimpse the objects closest to him.
+
+But on this last occasion he wanted to resort to reasons taken from philosophy: and he drew favorable conclusions for his mind from them, after having observed by opening, then by closing his eyes alternately, the quality of the species that were represented to him. Thus his fear dissipated, and he fell asleep again in a rather great calm.
 
 
 ### Dream 3
