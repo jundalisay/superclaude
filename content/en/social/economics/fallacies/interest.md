@@ -104,13 +104,14 @@ This was because Keynes shallowly believed that poverty and unemployment were ca
 - This leads to open market operations and quantitative easing.
 
 
-{{< f f="*A proof of this is the current obsession by banks to 'bank the unbanked'. This sophistry is just another way for bankers to find more customers and keep themselves employed, as opposed to letting those customers spend their savings themselves or move over into crypto (the competition of banks)." >}}
+{{< f f="*A proof of this is the current obsession by banks to 'bank the unbanked'. This sophistry is just another way for bankers to find more customers and keep themselves employed, as opposed to letting those customers spend their savings themselves or move over into crypto or barter (the competition of banks)." >}}
 
 
 
 We can say that:
 - Thomas Mun's book, [England's Treasure on Foreign Trade](/research/mun/englands-treasure), transferred economic power from monarchs onto merchants
-- Keynes' General Theory transferred economic power from merchants into merchant-banks which trade paper instruments on the 'money market', just as merchants traded commodities in the commodities market
+- Keynes' sophistical [General Theory](/research/keynes/general-theory/) transferred economic power from merchants into merchant-banks which trade paper instruments on the 'money market', just as merchants traded commodities in the commodities market
+
 
 
 These then make financial crises bigger than natural, as proven by the 1997 Asian Crisis and the 2008 Financial and Eurozone crisis. 
