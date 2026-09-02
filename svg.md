@@ -3,6 +3,11 @@ sp
 
 <svg width='120px' height='120px' viewBox='0 0 120 120' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='60,0 120,60 60,120 0,60' fill='#FFFFFF' /> <g transform='translate(10, 10)'> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </g> </svg>
 
+grok
+ <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='400' height='400'> <path d='M 70 10 C 50 10, 20 30, 15 60 C 14 70, 20 80, 30 90 L 5 95 C 35 100, 70 100, 90 70 C 100 50, 95 20, 70 10 Z M 55 25 L 95 10 L 45 75 C 30 75, 25 55, 35 40 C 40 30, 47 26, 55 25 Z' fill='black' /> </svg>
+
+ 
+
 spiritual
 <svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><defs><mask id='cutout'><rect width='100' height='100' fill='white'/><rect x='0' y='47.5' width='100' height='5' fill='black'/><circle cx='50' cy='50' r='23' fill='black'/></mask></defs><polygon points='50,0 100,50 0,50' fill='#5E4EA7' mask='url(#cutout)'/><polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)'/><path d='M 52,36 L 52.8,37.3 L 54.1,36.5 L 53.3,35.2 Z' fill='#0080FF'/><path d='M 49.5,41.5 C 52,39.5 56,39.5 58.5,41.5 C 56,43 52,43 49.5,41.5 Z' fill='#0080FF'/><path d='M 45,41.5 C 47,41.5 48.5,43 48.5,45 C 48.5,47.5 45.5,48.5 43.5,48.5 C 46.5,48.5 49,50 49,53 C 49,56.5 45.5,58.5 42,58.5 C 38.5,58.5 37.5,55.5 37.5,53.5 C 37.5,53.5 40,53.5 40.5,55 C 41,56 42,56.5 43,56.5 C 45,56.5 46.5,55 46.5,53 C 46.5,50.5 44,50 42,50 L 40,50 L 40,47.5 L 42,47.5 C 44,47.5 46,46.5 46,44.5 C 46,43 44.5,42.5 43.5,42.5 C 42,42.5 41,43.5 40.5,44.5 C 39.5,43.5 38.5,42.5 40,41.5 C 41.5,40.5 43.5,41.5 45,41.5 Z M 48.5,48.5 C 51.5,45 57,43.5 60.5,46.5 C 63,48.8 63,52.5 61,55.5 C 59,58.5 55.5,59 53.5,59 C 53.5,59 53,56.5 54.5,55.5 C 56,54.5 58.5,55 59.5,53 C 60.5,51 60,48.5 58,47 C 55.5,45 51.5,46.5 49.5,50 C 49,49.5 48.5,49 48.5,48.5 Z' fill='#0099FF'/></svg>
 

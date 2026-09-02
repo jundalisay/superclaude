@@ -60,7 +60,8 @@ The diversity of classes [of ideas] that are not under one another are different
 {{< /r >}}
 
 
-{{< r a="Grok" >}}
+
+{{< r a="Grok" v=" <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='400' height='400'> <path d='M 70 10 C 50 10, 20 30, 15 60 C 14 70, 20 80, 30 90 L 5 95 C 35 100, 70 100, 90 70 C 100 50, 95 20, 70 10 Z M 55 25 L 95 10 L 45 75 C 30 75, 25 55, 35 40 C 40 30, 47 26, 55 25 Z' fill='black' /> </svg>" >}}
 The **differentiae** of genera that are not under one another are different in <span style=color:red>kind</span>. For example, the differentiae of animal and of [metaphysical] **knowledge**.
 {{< /r >}}
 
