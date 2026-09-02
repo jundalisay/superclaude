@@ -6,6 +6,7 @@ date: 2022-12-24
 weight: 7
 image: /photos/econ/pool.jpg
 description: "Instead of world trade being done in an unregulated way, all in US dollars, each country joins the global pool"
+toc: false
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
@@ -101,5 +102,3 @@ Pool Clearing can also unify Hongkong, Taiwan, and China peacefully without the 
 Moreover, it can be [integrated with the logistics system](/social/economics/solutions/pool-clearing) so that shipping containers can be allocated correctly instead of having a shortage, like what happened during the pandemic. 
 
 This will create a coordinated global logistics system that can make trips as efficient as possible, reducing unecessary ones. This would then reduce emissions and consequently, global warming. 
-
-

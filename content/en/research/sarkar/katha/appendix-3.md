@@ -87,7 +87,7 @@ He is the Supreme Lord, the goal of all creatures and objects. But then the moot
 
 When He takes a samkalpa to assume human form*, how does it materialise? 
 
-{{< n n="The recurring cycles of 3,500 years means the mechanism for Taraka Brahma descending is based on the position or alignment of the heavenly bodies which move in a natural cyclic way. This is similar to the 3,600 year cycle of the Anunnaki. Our hypothesis is that each galaxy has its own Taraka Brahma who goes around the star systems to fix things i.e bring things back to dharma, like a maintenance crew for Saguna, employed by Nirguna." >}}
+{{< n n="The recurring cycles of 3,500 years means the mechanism for Taraka Brahma descending is based on the position or alignment of the heavenly bodies which move in a natural cyclic way. This is similar to the 3,600 year cycle of the Anunnaki. Our hypothesis is that each galaxy has its own Taraka Brahma who goes around the star systems to fix things i.e bring things back to dharma, like a maintenance crew for Saguna, employed by Nirguna. This is corroborated by Ra in the law of one who says that center of the Milky way decides the evolution of the densities. Galaxy rotation is always relativistic and so a regular cycle of 3,500 years has some reference to the galaxy's rotation," >}}
 
 
 Since he has no previous life, how did he get a physical medium for expression?

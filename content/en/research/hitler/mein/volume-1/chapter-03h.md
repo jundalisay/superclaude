@@ -13,7 +13,7 @@ icon: "Adolf Hitler"
 
 The wreck of the Pan-German Movement in Austria arose from 3 causes.
 
-1. The leaders did not have a clear concept of the importance of the social problem, particularly for a new revolutionary movement.
+### 1. The leaders did not have a clear concept of the importance of the social problem, particularly for a new revolutionary movement.
 
 Schönerer and his followers directed their attention principally to the bourgeois classes.
 
@@ -25,6 +25,7 @@ The German bourgeoisie, especially in its upper circles, is pacifist even to the
 aware of this--wherever the internal affairs of the nation or State are concerned.  -->
 
 In good times, which in this case means times of good government, such a psychological attitude makes this social layer extraordinarily valuable to the State. But when there is a bad government, such a quality has a destructive effect. 
+
 
 In order to assure the possibility of carrying through a really strenuous struggle, the Pan-German Movement should have devoted its efforts to winning over the masses. 
 
@@ -54,12 +55,13 @@ The only hope for any eleventh-hour effort to save it lay in the overthrow of th
 
 To overthrow the Parliament, should the Pan-Germanists have entered it 'to undermine it from within', as the current phrase was? Or should they have assailed the institution as such from the outside?
 
-They entered the Parliament and came out defeated. But they had found themselves obliged to enter.
+### 2. They entered the Parliament and came out defeated. 
+
+But they had found themselves obliged to enter.
 
 For in order to wage an effective war against such a power from the outside, indomitable courage and a ready spirit of sacrifice were necessary weapons. 
 
-In such cases the bull must be seized by the horns. Furious drives may bring the assailant to the ground again and again; but if he has a stout heart he will stand up, even though some bones may be broken, and only after a long and tough struggle will he achieve his
-triumph. 
+In such cases the bull must be seized by the horns. Furious drives may bring the assailant to the ground again and again; but if he has a stout heart he will stand up, even though some bones may be broken, and only after a long and tough struggle will he achieve his triumph. 
 
 New champions are attracted to a cause by the appeal of great sacrifices made for its sake, until that indomitable spirit is finally crowned with success. 
 
@@ -126,6 +128,7 @@ When they had taken their seats in Parliament their adherents outside hoped and 
 
 Whereupon the adherents of the movement soon grew impatient, because reports they read about their own deputies did not in the least come up to what had been expected when they voted for these deputies at the elections. The reason for this was not far to seek. 
 
+
 It was due to the fact that an unfriendly Press refrained from giving a true account of what the Pan-German representatives of the people were actually doing. 
 
 According as the new deputies got to like this mild form of 'revolutionary' struggle in Parliament and in the provincial diets they gradually became reluctant to resume the more hazardous work of expounding the principles of the movement before the broad masses of the people.
@@ -155,10 +158,9 @@ The movement must avoid everything which might lessen or weaken its power of inf
 Stern reality alone must mark the way to the goal. To be unwilling to walk the road of hardship means, only too often in this world, the total renunciation of our aims and purposes, whether that renunciation be consciously willed or not.
 The moment the Pan-German leaders, in virtue of their acceptance of the parliamentary principle, moved the centre of their activities away from the people and into Parliament, in that moment they sacrificed the future for the sake of a cheap momentary success. 
 
-They chose the easier way in the struggle and in doing so rendered themselves
-unworthy of the final victory.
+They chose the easier way in the struggle and in doing so rendered themselves unworthy of the final victory.
 
-The main reason for the collapse of the Pan-German Movement was because these very questions were not rightly appreciated. 
+**The main reason for the collapse of the Pan-German Movement was because these very questions were not rightly appreciated.**
 
 
 Back then, the Movement seemed chosen to take in its hands the leadership of the German element in Austria. 
@@ -174,7 +176,7 @@ If there had been a proper appreciation of the tremendous powers of endurance al
 
 Then the centre of gravity of the movement would not have been transferred to the Parliament but would have remained in the workshops and in the streets.
 
-The 3rd mistake also had its roots in the failure to understand the worth of the masses.
+### 3. The 3rd mistake also had its roots in the failure to understand the worth of the masses.
 
 The masses are first set in motion, along a definite direction, by men of superior talents; but then these masses once in motion are like a flywheel inasmuch as they sustain the momentum and steady balance of the offensive.
 

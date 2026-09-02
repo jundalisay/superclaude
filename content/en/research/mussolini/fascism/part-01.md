@@ -5,6 +5,7 @@ description: ""
 weight: 4
 a: "Mussolini"
 c: "firebrick"
+tags: ['Fascism']
 ---
 
 
@@ -133,6 +134,3 @@ A nation, as expressed in the State, is a living, ethical entity only in so far 
 Therefore the State is not only Authority which governs and confers legal form and spiritual value on individual wills, but it is also Power which makes its will felt and respected beyond its own frontiers, thus affording practical proof of the universal character of the decisions necessary to ensure its development. 
 
 This implies organization and expansion, potential if not actual. Thus the State equates itself to the will of man, whose development cannot he checked by obstacles and which, by achieving self-expression, demonstrates its infinity (21).
-
-
-

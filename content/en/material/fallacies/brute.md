@@ -24,7 +24,7 @@ Currently, the reactions are sustained only for around 100 seconds. Imagine powe
 
 The current brute force thinking that plagues Physics is also evident in the Large Hadron Collider where scientists are pushing for an super expensive Future Circular Collider with massive energy at 100 TeV, much more than that of the Large Hadron Collider at 13.6 TeV.
 
-However, the cost is also much larger at around $27 billion compared to the $4.75 billion spent for the Large Hadron Collider.
+However, the cost is also much larger at around 27 billion USD compared to the 4.75 billion USD spent for the Large Hadron Collider.
 
 Despite the huge cost and energy output used in their fusion reactors and particle colliders, the benefit to science and humanity have been zero. 
 
@@ -55,7 +55,7 @@ Physics will only be able to harness fusion if physicists evolve out of the brut
 
 This requires increasing the sensitivity of the heart since the heart chakra is the main detector for the aether, just as the eyes are the detector for light. 
 
-{{< i a="Meditation" src="/photos/meta/yoga.jpg" c="Meditation enhances heart sensitivity" >}}
+{{< i a="Meditation" src="/photos/meta/chakras.jpg" c="Meditation enhances heart sensitivity" >}}
 
 <!-- These can also be employed to harness energy in two ways:  
 

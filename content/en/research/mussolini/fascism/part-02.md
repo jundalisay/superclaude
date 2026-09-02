@@ -5,6 +5,7 @@ description: "The Fascist State, as a higher and more powerful expression of per
 weight: 14
 c: "firebrick"
 a: "Mussolini"
+tags: ['Fascism']
 ---
 
 

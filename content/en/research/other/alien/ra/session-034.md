@@ -73,7 +73,7 @@ What would be the difference in the yellow-ray activity of these two entities?
 {{< l a="Ra" >}}
 Let us take 2 such positively oriented active souls no longer in your physical time/space. 
 
-Albert Schweitzer went into a strange and barbaric society to heal it. 
+[Albert Schweitzer](https://en.wikipedia.org/wiki/Albert_Schweitzer) went into a strange and barbaric society to heal it. 
 
 He:
 - was able to mobilize great amounts of energy and money. 

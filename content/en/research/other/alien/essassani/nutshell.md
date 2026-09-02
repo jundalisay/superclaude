@@ -3,8 +3,10 @@ title: "The Sassani in a Nutshell"
 weight: 91
 c: "darkslategray"
 image: "/photos/alien/forest.jpg"
-description: "This is for people who have no knwoledge of vibrations and spirit mediums"
+description: "This is for people who have no knowledge of vibrations and spirit mediums"
 ---
+
+
 
 
 The Sassani are an alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality. 

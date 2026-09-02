@@ -154,7 +154,8 @@ At page 38 it has appeared that revered Baba told that while doing Dharma Samiks
 - Sadguru
 - Anandamurtiji*
 
-{{< n n="We equate this as Sarkar being the vehicle or connection to physicality, Baba being the personal relationship or connector to people, Sadguru being the teacher or connector to knowledge, and Anandamurti being the connector to Nirguna" >}}
+{{< n n="We equate this as Sarkar being the vehicle or connection to physicality (as 4th density), Baba being the personal relationship or connector to people, Sadguru being the teacher or connector to knowledge, and Anandamurti (as 7th density) being the connector to Nirguna (beyond as 8th density)" >}}
+
 
 It becomes really very difficult to make adjustments in all the 4 roles. Baba had to perform the liila of Kalyanasundaram and Rudrah. 
 
@@ -169,7 +170,7 @@ It is a mystery for me till today as to who was catching whose foot, and so to w
 
 <!-- I shall be highly grateful if the brothers whose sentiments I hurt, of course unknowingly, clarify this mystery to me. -->
 
-20) At page 15 of Ananda Yuga for the month of March-April 1983, Baba commanded to His own Self, saying:
+20. At page 15 of Ananda Yuga for the month of March-April 1983, Baba commanded to His own Self, saying:
 
 {{< q a="Baba" >}}
 Prabhat Rainjan Sarkar! You regain your health for sometime as you have to go to the field”. 
@@ -183,7 +184,7 @@ It did not take even a moment for the lifeless body of Shri Sarkar to obey and c
 
 Who commanded whom?*
 
-{{< n n="Anandamurti commanded Sarkar" >}}
+{{< n n="Obviously, Anandamurti commanded Sarkar" >}}
 
 
 21. At page 24 of Ananda Yuga for the month of May-June 1983, it has appeared that “at times Baba had to take 2 different bodies on the same day to protect His disciple”. 

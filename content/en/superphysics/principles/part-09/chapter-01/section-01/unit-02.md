@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+toc: false
 ---
 
 
@@ -47,6 +48,7 @@ We can say that the red color and the evaporation are the expressed emotions of 
 
 {{< img src="/graphics/psych/feelings2.jpg" alt="Feelings into Emotion for Rocks and Water" cap="Feelings are expressed by non living objects in very limited ways. A rock shows its emotions on perceiving heat by turning more red, while water shows it by turning into steam" >}}
 
+
 We classify the forces discovered by Physics into our 5 Elements + 3 Gunas model.
 
 Guna + Element | Force or Media 
@@ -65,15 +67,19 @@ Mid Material | Liquid (Water Pressure)
 Low Material | Solid (Contact Force)
 
 
+In the densities model, matter is 1st density which has limited expression of consciousness as point-awareness. This limits their feeling-expressions to also be within the 5 Elements which is also of the 1st density. 
+
+
+
 ## Feelings Hold the Key
 
-A lot of the problems in Physics exist because the nature of forces are not known. For example, modern people still cannot harness anti-gravity because of the overemphasis on brain and intellect. This is opposite of the ancient people who could levitate themselves as proven by Buddhist monks by focusing on their hearts and having compassion for all. 
+A lot of the problems in Physics exist because the nature of forces are not known. For example, modern people still cannot harness anti-gravity because of the overemphasis on brain and intellect. This is opposite of the ancient people who could levitate themselves as proven by Buddhist monks by focusing on their heart chakra which can sense the Earth's aether (as Schumann resonance). 
 
 More obviously, wars and economic crises are more severe from the 20th century because of the supremacy of the intellect and the disappearance of fellow-feeling and kindness. 
 
 Superphysics puts feelings back up, without appearing corny, uncool, old-fashioned or naive, by demonstrating the practical uses or benefits of having such feelings from the Positive Force. 
 
-For example, Economic Superphysics, as Supereconomics, uses a moneyless system where people get the gadgets of other people (who don't need them) through exchange. 
+For example, Economic Superphysics, as Supereconomics, uses a moneyless system where people get the goods of other people (who don't need them) through exchange via barter credits (delayed gratification) instead of having money-at-hand (instant gratification). 
 
 
 <!-- Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
