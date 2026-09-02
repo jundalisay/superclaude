@@ -1,5 +1,5 @@
 ---
-heading: "Unit 3 Macro Displacement"
+heading: "Unit 3 Displacement"
 title: "Hubble Tension"
 date: 2024-12-11
 weight: 12

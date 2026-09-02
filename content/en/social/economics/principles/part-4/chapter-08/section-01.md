@@ -13,4 +13,12 @@ writer:
 
 The problems in Trade are undercirculation and overcirculation.
 
+These are either qualitative (markup) or quantitaive (volume or speed). This matches rotater and displacer.
+
+This leads to 4 problems:
+
+1. Qualitative Undercirculation : this is from k
+2. Quantitative Undercirculation : this is from y
+3. Qualitative Overcirculation
+4. Quantitative Overcirculation
 

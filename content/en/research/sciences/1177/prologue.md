@@ -150,13 +150,15 @@ was and still is one of the preeminent centers in the world for the
 study of ancient civilizations in Egypt and the Near East. James
 Henry Breasted founded it upon his return from an epic journey
 through the Near East in 1919 and 1920, with fifty thousand
-dollars in seed money from John D. Rockefeller, Jr. Archaeologists
-27
-from the OI (as it is generally called) have excavated all over the
-Near East, from Iran to Egypt and beyond.
+dollars in seed money from John D. Rockefeller, Jr. 
+
+Archaeologists from the OI (as it is generally called) have excavated all over the
+Near East, from Iran to Egypt and beyond. 
+
 Fig. 2. Naval battle with Sea Peoples at Medinet Habu (after
 Medinet Habu, vol. 1, pl. 37; courtesy of the Oriental Institute of
 the University of Chicago).
+
 Much has been written about Breasted and the OI projects that
 began under his direction, including the excavations at Megiddo
 (biblical Armageddon) in Israel, which lasted from 1925 to
@@ -172,11 +174,12 @@ temples, and columns. Suffice it to say, the results are invaluable,
 especially since many of the inscriptions have suffered greatly as a
 result of erosion, damage by tourists, or other injuries. Were these
 inscriptions not transcribed, they would eventually become
-undecipherable to future generations. The results of the
-transcriptions from Medinet Habu were published in a series of
-28
-volumes, the first of which appeared in 1930, with subsequent
+undecipherable to future generations. 
+
+The results of the
+transcriptions from Medinet Habu were published in a series of volumes, the first of which appeared in 1930, with subsequent
 and related volumes appearing in the 1940s and 1950s.
+
 Although scholarly debate continues, most experts agree that
 the land and sea battles depicted on the walls at Medinet Habu
 were probably fought nearly simultaneously in the Egyptian delta
@@ -231,14 +234,16 @@ In a longer inscription found at Karnak (modern-day Luxor),
 we are given additional details about this earlier wave of
 incursions by the Sea Peoples. The names of the individual groups
 are included:
+
 [Beginning of the victory that his majesty achieved in the land of Libya] Eqwesh,
 Teresh, Lukka, Shardana, Shekelesh, Northerners coming from all lands…. the
 third season, saying: The wretched, fallen chief of Libya … has fallen upon the
 country of Tehenu with his bowmen—Shardana, Shekelesh, Eqwesh, Lukka,
 Teresh, taking the best of every warrior and every man of war of his country . . .
-30
+
 List of the captives carried off from this land of Libya and the countries which he
 brought with him . . .
+
 Sherden, Shekelesh, Eqwesh of the countries of the sea, who had no foreskins:
 Shekelesh 222 men
 Making 250 hands
@@ -268,16 +273,16 @@ Egypt. The identification of the Shardana and the Shekelesh as
 linked with Sardinia and Sicily, respectively.
 The description of the Eqwesh as being from “the countries of
 the sea” has led some scholars to suggest that they are Homer’s
-Achaeans, that is, the Mycenaeans of the Bronze Age Greek
-31
-mainland, whom Ramses III would perhaps identify as the Danuna
-in his Sea Peoples inscriptions two decades later. As for the final
+Achaeans, that is, the Mycenaeans of the Bronze Age Greek mainland, whom Ramses III would perhaps identify as the Danuna
+in his Sea Peoples inscriptions two decades later. 
+
+As for the final
 two names, scholars generally accept Lukka as a reference to
 peoples from southwestern Turkey, in the region later known
 during the classical era as Lycia. The origin of the Teresh is
-uncertain but might be linked to the Etruscans in Italy.20
-We are told little else in the inscriptions, and have no more
-than a very general idea where the battle or battles were fought.
+uncertain but might be linked to the Etruscans in Italy.
+
+We are told little else in the inscriptions, and have no more than a very general idea where the battle or battles were fought.
 Merneptah says only that the victory was “achieved in the land of
 Libya,” which he further identifies as “the country of Tehenu.”
 However, Merneptah clearly claims victory, for he lists the killed
@@ -292,6 +297,7 @@ delta.21 In any event, we do not know whether all of the Sea
 Peoples were killed or some survived, but we can probably
 assume the latter, since several of the groups returned in the
 second invasion thirty years later.
+
 In 1177 BC, as previously in 1207 BC, the Egyptians were
 victorious. The Sea Peoples would not return to Egypt a third
 time. Ramses boasted that the enemy were “capsized and
@@ -300,9 +306,7 @@ away; their soul is flown away. Their weapons are scattered in the
 sea.”22 However, it was a Pyrrhic victory. Although Egypt under
 Ramses III was the only major power to successfully resist the
 onslaught of the Sea Peoples, New Kingdom Egypt was never the
-same again afterward, most likely because of the other problems
-32
-faced by the entire Mediterranean region during this period, as we
+same again afterward, most likely because of the other problems faced by the entire Mediterranean region during this period, as we
 shall see below. The succeeding pharaohs, for the rest of the
 second millennium BC, were content to rule over a country much
 diminished in influence and power. Egypt became a second-rate
@@ -333,8 +337,8 @@ infantry and [chariotry] are stationed in Khatte, and that all of my ships are
 stationed in the land of Lukka? They have not arrived back yet, so the land is
 thus prostrate. May my father be aware of this matter. Now the seven ships of the
 enemy which have been coming have done harm to us. Now if other ships of the
-enemy turn up, send me a report somehow, so that I will know.24
-33
+enemy turn up, send me a report somehow, so that I will know.
+
 There is some dispute about whether the tablet ever reached
 the intended recipient on Cyprus. The original excavators who
 found the tablet thought the letter might never have been sent. It
@@ -348,6 +352,7 @@ that has since been repeated in textbooks for a generation of
 students, but scholars have now shown that the tablet was not
 found in a kiln and, as we shall see, was probably a copy of a
 letter that had been dispatched to Cyprus after all.
+
 There was a tendency on the part of earlier scholars to attribute
 any destruction from this period to the Sea Peoples.26 However, it
 may be presumptuous to lay the blame for the end of the Bronze

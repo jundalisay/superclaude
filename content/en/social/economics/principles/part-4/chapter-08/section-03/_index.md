@@ -3,7 +3,7 @@ heading: "Section 3"
 title: "Overcirculation"
 date: 2015-01-17
 weight: 11
-image: /photos/people/ponzi.jpg
+image: /photos/econ/fed.jpg
 description: ""
 writer:
   name: Juan
