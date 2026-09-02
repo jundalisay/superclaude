@@ -7,45 +7,35 @@ c: darkslategray
 ---
 
 
-In 1430 BC the Hittites and their king Tudhaliya I/II were dealing with a coalition of renegade states collectively known as Assuwa.
+In 1430 BC, the Hittites and their king Tudhaliya I/II were dealing with a coalition of renegade states collectively known as Assuwa.
 
-They were located in northwestern Turkey, just inland from the Dardanelles where the battle of Gallipoli was fought during World War I. The Hittite tablets give us the names of all twenty-two of these allied states that rose up in rebellion against the Hittites.
+They were located in northwestern Turkey, just inland from the Dardanelles where the battle of Gallipoli was fought during World War I.
 
-Most of these names do not mean much to us anymore and cannot be identified with a specific locale, except
-for the last two on the list: Wilusiya and Taruisa, which are most
-likely references to Troy and its surrounding area.56
+The Hittite tablets give us the names of these 22 allied states that rebelled against the Hittites.
 
-The rebellion apparently began as Tudhaliya I/II and his army
-were returning from a military campaign in west Anatolia. Upon
-hearing the news, the Hittite army simply turned around and
-headed northwest to Assuwa, to put down the rebellion. We are
-told in the Hittite account that Tudhaliya personally led the army
-and defeated the Assuwan confederacy. The records indicate that
-ten thousand Assuwan soldiers, six hundred teams of horses and
-their Assuwan charioteers, and “the conquered population, oxen,
-sheep, [and] the possessions of the land” were taken back to
-Hattusa as prisoners and booty.57 Included among these were the
-Assuwan king and his son Kukkuli, along with a few other members of the Assuwan royalty and their families. 
+<!-- Most of these names do not mean much to us anymore and cannot be identified with a specific locale, except
+for  -->
 
-Eventually, Tudhaliya appointed Kukkuli as king of Assuwa and reestablished
-Assuwa as a vassal state to the Hittite kingdom. However, Kukkuli
-then promptly rebelled, only to be defeated again by the Hittites.
+{{< n n="Our theory is that the Greeks were allied with Atlantean descendants in Crete. These were against the non-Atlanteans in the mainland as Turkey and Egypt. The Israelites are descended from Atlanteans via Noah. The Anunnaki pulled out, allowing the Jews to conquer and fill the void. This has continued to the current Middle East conflict as Anunnaki vs humans. Our solution is to point out the Anunnaki influence so that the conflict can be resolved." >}}
 
-Kukkuli was put to death, and the coalition of Assuwa was
-destroyed and vanished from the face of the earth. Its legacy lives
-on primarily in the modern name “Asia,” but also possibly in the
-story of the Trojan War, for the names Wilusiya and Taruisa bear a
-strong resemblance, according to scholars, to the Bronze Age
-names for the city of Troy—also known as Ilios—and its
-surrounding area, the Troad.
 
-The sword found at Hattusa, with the
-inscription left by Tudhaliya I/II, comes into play, for, as
+The last two on the list: Wilusiya and Taruisa, are most likely references to Troy and its surrounding area.
+
+The rebellion apparently began as Tudhaliya I/II and his army were returning from a military campaign in west Anatolia. Upon hearing the news, the Hittite army simply turned around and
+headed northwest to Assuwa, to put down the rebellion. 
+
+We are told in the Hittite account that Tudhaliya personally led the army and defeated the Assuwan confederacy. The records indicate that ten thousand Assuwan soldiers, six hundred teams of horses and their Assuwan charioteers, and “the conquered population, oxen, sheep, [and] the possessions of the land” were taken back to Hattusa as prisoners and booty.57 Included among these were the Assuwan king and his son Kukkuli, along with a few other members of the Assuwan royalty and their families. 
+
+Eventually, Tudhaliya appointed Kukkuli as king of Assuwa and reestablished Assuwa as a vassal state to the Hittite kingdom. However, Kukkuli then promptly rebelled, only to be defeated again by the Hittites.
+
+Kukkuli was put to death, and the coalition of Assuwa was destroyed and vanished from the face of the earth. Its legacy lives on primarily in the modern name “Asia,” but also possibly in the story of the Trojan War, for the names Wilusiya and Taruisa bear a strong resemblance, according to scholars, to the Bronze Age names for the city of Troy—also known as Ilios—and its surrounding area, the Troad.
+
+The sword found at Hattusa, with the inscription left by Tudhaliya I/II, comes into play, for, as
 mentioned above, this is not a sword of local manufacture. The
 sword is of a type used primarily on mainland Greece during the
-fifteenth century BC. It is a Mycenaean sword (or a very good
-imitation of one). Why such a sword was being used in the
-Assuwa Rebellion is a good question whose answer we do not
+fifteenth century BC. 
+
+It is a Mycenaean sword (or a very good imitation of one). Why such a sword was being used in the Assuwa Rebellion is a good question whose answer we do not
 know; was it wielded by an Assuwan soldier, or a Mycenaean
 mercenary, or someone else entirely?
 
@@ -54,14 +44,8 @@ and/or the rebellion, besides the primary one with the longest
 account. One, for instance, confirms the entire event, beginning with the simple statement “Thus speaks … Tudhaliya, the Great
 King: When I had destroyed Assuwa and returned to Hattusa.”
 
-The most interesting is a fragmentary letter that is
-tantalizingly incomplete but which manages to mention the king
-of Assuwa twice and Tudhaliya once, refers also to a military
-campaign, and mentions as well the land of Ahhiyawa, the king of
-Ahhiyawa, and islands belonging to the king of Ahhiyawa. The
-letter is damaged and incomplete, so it is dangerous to read too
-much into the occurrence of both Assuwa and Ahhiyawa within
-the same text, but it seems to indicate that Assuwa and Ahhiyawa
+The most interesting is a fragmentary letter that is tantalizingly incomplete but which manages to mention the king of Assuwa twice and Tudhaliya once, refers also to a military campaign, and mentions as well the land of Ahhiyawa, the king of Ahhiyawa, and islands belonging to the king of Ahhiyawa. The letter is damaged and incomplete, so it is dangerous to read too
+much into the occurrence of both Assuwa and Ahhiyawa within the same text, but it seems to indicate that Assuwa and Ahhiyawa
 were associated in some manner at this time.
 
 The letter—known as KUB XXVI 91 from its initial German
@@ -73,16 +57,10 @@ anywhere sent from that area and that king.60 But what area and
 king is it? Where is Ahhiyawa? That question has bedeviled
 academic scholarship for much of the past century, but most
 scholars now agree that it is mainland Greece and the
-Mycenaeans, probably based at the city of Mycenae. The
-attribution is made on the basis of some twenty-five tablets in the
-Hittite archive at Hattusa that mention Ahhiyawa in some context
-or another over the course of nearly three hundred years (from
-the fifteenth to the end of the thirteenth century BC), and which,
-when analyzed exhaustively, can only be referring to mainland
-Greece and the Mycenaeans.61 Again, we must make a brief
-excursus, this time to meet the Mycenaeans, before continuing the
+Mycenaeans, probably based at the city of Mycenae. The attribution is made on the basis of some 25 tablets in the Hittite archive at Hattusa that mention Ahhiyawa in some context
+or another over the course of nearly three hundred years (from the fifteenth to the end of the thirteenth century BC), and which,
+when analyzed exhaustively, can only be referring to mainland Greece and the Mycenaeans.61 Again, we must make a brief excursus, this time to meet the Mycenaeans, before continuing the
 story.
-
 
 
 ## Discovery Of The Mycenaeans
@@ -196,12 +174,7 @@ suddenly became players in the cosmopolitan world—a role that
 they would continue to exploit for the next several centuries, until
 the end of the Late Bronze Age.
 
-The Egyptians apparently knew the Mycenaeans as Tanaja,
-while the Hittites called them Ahhiyawa, and the Canaanites (if
-the texts at Ugarit a bit farther north in Syria are any indication)
-similarly called them Hiyawa—or so we think, for those toponyms fit nobody but the Mycenaeans. If those references are not to the
-Mycenaeans, then these peoples are unknown in the texts of the
-Egyptians and the other great powers of the Late Bronze Age in
-the Near East, but this seems unlikely given the quantities of
-Mycenaean vases and vessels found in those regions in contexts
-dating from the fourteenth to the twelfth century BC.
+The Egyptians apparently knew the Mycenaeans as Tanaja, while the Hittites called them Ahhiyawa, and the Canaanites (if
+the texts at Ugarit a bit farther north in Syria are any indication) similarly called them Hiyawa—or so we think, for those toponyms fit nobody but the Mycenaeans. If those references are not to the
+Mycenaeans, then these peoples are unknown in the texts of the Egyptians and the other great powers of the Late Bronze Age in the Near East, but this seems unlikely given the quantities of Mycenaean vases and vessels found in those regions in contexts dating from the fourteenth to the twelfth century BC.
+

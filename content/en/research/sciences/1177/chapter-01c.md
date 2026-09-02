@@ -2,7 +2,8 @@
 heading: Chapter 1c
 title: "Back To Egypt"
 weight: 12
-# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+image: "/photos/old/colossi.jpg"
+description: ""
 c: darkslategray
 ---
 

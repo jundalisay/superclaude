@@ -1,129 +1,177 @@
 ---
 heading: Chapter 2d
-title: "Gold, Fool’S Gold, And High-Level Trade"
-weight: 44
+title: "Rise Of Alashiya And Assyria"
+weight: 47
+# author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
 
 
 
-Egypt had gold from the mines in Nubia.
+Thus began Assyria’s rise to greatness, primarily at the expense of Mitanni. Assur-uballit quickly became one of the
+major players in the international world of realpolitik. He arranged for a royal marriage between his daughter and BurnaBuriash II, the Kassite king of Babylon, only to invade the city of
+Babylon itself some years later, after his grandson was assassinated in 1333 BC, and place a puppet king named Kurigalzu II on the throne.
 
-More than one king wrote to Amenhotep III and Akhenaten, requesting shipments of gold while acting as if it were nothing
-out of the ordinary—the refrain “gold is like dust in your land,”
-and similar phrases, are seen again and again in the Amarna
-Letters.
+Thus, the two last major players of the Late Bronze Age in the ancient Near East, Assyria and Cyprus, finally appear on stage. 
 
-In one letter, Tushratta of Mitanni invokes the family relationship and asks Amenhotep III to “send me much more gold
-than he [you] did to my father,” for, as he says, “in my brother’s
-country, gold is as plentiful as dirt.”29
+We now have a full cast of characters: Hittites, Egyptians, Mitannians, Kassites/Babylonians, Assyrians, Cypriots, Canaanites, Minoans, and Mycenaeans, all present and accounted
+for. They all interacted, both positively and negatively, during the coming centuries, though some, such as Mitanni, vanished from the stage long before the others.
 
-But it seems that the gold wasn’t always gold, as the
-Babylonian kings in particular complained. In one letter sent by
-Kadashman-Enlil to Amenhotep III, he said, “You have sent me as
-my greeting-gift, the only thing in six years, 30 minas of gold that
-looked like silver.”30 His successor in Babylon, the Kassite king
-Burna-Buriash II, similarly wrote in one letter to Amenhotep III’s
-successor, Akhenaten: “Certainly my brother [the king of Egypt]
-did not check the earlier (shipment of) gold that my brother sent
-to me. When I put the 40 minas of gold that were brought to me
-into a kiln, not (even) 10 minas, I swear, appeared.” 
 
-In another letter, he said: “The 20 minas of gold that were brought here
-were not all there. When they put it into the kiln, not 5 minas of
-gold appeared. The (part) that did appear, on cooling off looked
-like ashes. Was the gold ever identified (as gold)?”31
+## NEFERTITI AND KING TUT
 
-On the one hand, one might ask why the Babylonian kings
-were putting the gold sent by the Egyptian king into a kiln and
-melting it down. It must have been scrap metal sent for its value
-only rather than nice finished pieces being given as gifts, much as
-today one sees advertisements on late-night television urging the viewer to sell old and broken jewelry for cash, with the clear
-implication that it will be melted down immediately. They must
-have needed it to pay their artisans, architects, and other
-professionals, as indeed some of the letters state.
+Soon after his death, the reforms of Akhenaten were reversed, and an attempt was made to erase his name and his memory from
+the monuments and records of Egypt. The attempt almost
+succeeded, but through the efforts of archaeologists and
+epigraphers, we now know a great deal about Akhenaten’s reign,
+as well as his capital city of Akhetaten and even his royal tomb.
 
-On the other hand, we also have to ask whether the Egyptian
-king knew that the shipments he was sending were not actually
-gold, and if the action was deliberate, or whether the real gold
-was swapped out en route by unscrupulous merchants and
-emissaries. Burna-Buriash suspected the latter in the case of the
-forty minas of gold mentioned above, or at least offered
-Akhenaten a diplomatic way out of the uneasy situation, and
-wrote: “The gold that my brother sends me, my brother should
-not turn over to the charge of any deputy. My brother should
-make a [personal] check [of the gold], then my brother should
-seal and send it to me. Certainly my brother did not check the
-earlier (shipment of) gold that my brother sent to me. It was only
-a deputy of my brother who sealed and sent it to me.”32
+We also know about his family, including his beautiful wife Nefertiti, and their daughters, who are portrayed on a number of
+inscriptions and monuments.
 
-It also seems that the caravans loaded with gifts and sent
-between the two kings were frequently robbed en route. BurnaBuriash writes of two caravans belonging to Salmu, his messenger
-(and probably diplomatic representative), that he knows have
-been robbed. He even knows whom to blame: a man named
-Biriyawaza was responsible for the first heist, and a man
-supposedly named Pamahu (possibly a place-name mistaken for a
-personal name) perpetrated the second. Burna-Buriash asks when
-Akhenaten is going to prosecute the latter case, since it is within
-his jurisdiction, but he received no reply, at least as far as we
-know.33
+The well-known bust of Nefertiti was found by Ludwig
+Borchardt, the German excavator of Amarna (Akhetaten), in 1912
+and shipped back to Germany a few months later. But it was not
+unveiled to the public until 1924 at the Egyptian Museum of
+Berlin. The statue is still in Berlin today, despite many requests
+by the Egyptian government for its return, since it reportedly left
+Egypt under less than ideal circumstances. The story is told, but
+not confirmed, that the German excavators and the Egyptian
+government had an agreement to split the finds from the
+excavation equally, with the Egyptians getting first choice. 
 
-Moreover, we should not forget that these high-level gift
-exchanges were probably the tip of the iceberg of commercial
-interaction. An analogous, relatively modern, situation may be
-the following. In the 1920s, the anthropologist Bronisław
-Malinowski studied the Trobriand Islanders who were
-participating in the so-called Kula Ring in the South Pacific. 
+The Germans knew this but wanted the bust of Nefertiti for
+themselves. So they reportedly kept the bust uncleaned and
+placed it deliberately at the end of a long line of objects. When
+the Egyptian authorities passed on the filthy-looking head, the
+Germans promptly shipped it to Berlin. When it was finally put
+on display in 1924, the Egyptians were furious and demanded its
+return, but it remains in Berlin.43
 
-In this system, the chiefs of each island exchanged armbands and
-necklaces made of shells, with armbands always traveling one
-way around the ring and necklaces circulating in the other
-direction. The value of each object increased and decreased
-depending upon its lineage and past history of ownership (now
-referred to by archaeologists as an object’s “biography”).
+We also know now about Akhenaten’s son, Tutankhaten, who
+changed his name and ruled using the name by which we know
+him today, Tutankhamen, or King Tut. He was not born in
+Arizona, contrary to what Steve Martin once said on Saturday
+Night Live, nor did he ever move to Babylonia.44 He did, however,
+come to the throne of Egypt at an early age, when he was about
+eight years old—approximately the same age at which Thutmose
+III came to the throne almost 150 years earlier. Fortunately for
+Tut, there was no Hatshepsut around to rule on his behalf. Tut
+therefore was able to reign for approximately ten years before his
+premature death.
 
-Malinowski discovered that while the chiefs were in the
-ceremonial centers exchanging armbands and necklaces according
-to traditional pomp and circumstance, the men who served as
-crew on the canoes that transported the chiefs were busy trading
-with the locals on the beach for food, water, and other necessary
-staples of life.34 Such mundane commercial transactions were the
-real economic motives underlying the ceremonial gift exchanges
-of the Trobriand chiefs, but they would never admit to that fact.
+The vast majority of the details surrounding Tut’s short life
+are not immediately relevant to our study of the international
+world in which he lived. However, his death is relevant, in part
+because the discovery of his tomb in 1992 launched a modern worldwide obsession with ancient Egypt (known as Egyptomania)
+and established him as the most recognized king of all those who
+ruled during the Late Bronze Age, and because of the strong
+possibility that it may have been his widow who wrote to the
+Hittite king Suppiluliuma I, asking for a husband after Tut died.
+The cause of Tut’s death has been long debated—including the
+possibility that he might have been murdered by a blow to the
+back of his head—but recent scientific studies, including a CT
+scan of his skeleton, point to a broken leg followed by an
+infection as the most likely culprit.45 Whether he broke his leg by
+falling off a chariot, as is suspected, may never be proven, but it
+is now clear that he suffered from malaria as well and had
+congenital deformations, including a club foot. It has also been
+suggested that he may have been born of an incestuous brothersister relationship.46
+Tut was buried in a tomb within the Valley of the Kings. The
+tomb might not have originally been meant for him, as was the
+case for many of the dazzling objects found buried with him,
+since he died so suddenly and unexpectedly. It also proved
+remarkably hard for modern Egyptologists to locate, but Howard
+Carter finally discovered it in 1922.
 
-Similarly, we should not underestimate the importance of the
-messengers, merchants, and sailors who were transporting the
-royal gifts and other items across the deserts of the ancient Near
-East, and probably overseas to the Aegean as well. It is clear that
-there was much contact between Egypt, the Near East, and the
-Aegean during the Late Bronze Age, and undoubtedly ideas and
-innovations were occasionally transported along with the actual
-objects. Such transfers of ideas undoubtedly took place not only
-at the upper levels of society, but also at the inns and bars of the
-ports and cities along the trade routes in Greece, Egypt, and the
-Eastern Mediterranean. Where else would a sailor or crew
-member while away the time waiting for the wind to shift to the
-proper quarter or for a diplomatic mission to conclude its
-sensitive negotiations, swapping myths, legends, and tall tales?
+The Earl of Carnarvon had hired Carter for the express
+purpose of finding Tut’s tomb. Carnarvon, like some other
+members of the British aristocracy, was looking for something to
+do while wintering in Egypt. Unlike some of his compatriots,
+Carnarvon was under his doctor’s orders to be in Egypt each year,
+for he had been involved in a car accident in Germany in 1901—
+having rolled his car while doing the unheard-of speed of twenty
+miles per hour—and had punctured a lung, leading his doctor to
+fear that he would not survive a winter in England. So he had to
+spend winters in Egypt and promptly began playing amateur
+archaeologist, by hiring a pet Egyptologist.47
 
-Such events may perhaps have contributed to cultural influences
-spreading between Egypt and the rest of the Near East, and even
-across the Aegean. Such an exchange between cultures could
-possibly explain the similarities between the Epic of Gilgamesh and
-Homer’s later Iliad and Odyssey, and between the Hittite Myth of
-Kumarbi and Hesiod’s later Theogony.
+Carter had been inspector-general of monuments of Upper
+Egypt and then held an even more prestigious post at Saqqara.
+However, he had resigned after refusing to apologize to a group
+of French tourists who created a problem at the site in 1905. He
+was therefore most amenable to being hired by Carnarvon, as he
+was unemployed at the time and was working as an artist
+painting watercolor scenes for the tourists. The two men began
+working together in 1907.48
 
-We should also note that gift exchanges between Near Eastern
-rulers during the Late Bronze Age frequently included physicians,
-sculptors, masons, and skilled laborers, who were sent between
-the various royal courts. It is little wonder that there are certain
-similarities between architectural structures in Egypt, Anatolia,
-Canaan, and even the Aegean, if the same architects, sculptors,
-and stonemasons were working in each area. The recent finds of
-Aegean-style wall paintings and painted floors at Tell ed-Dab‘a in
-Egypt, mentioned in the previous chapter, as well as at Tel Kabri
-in Israel, Alalakh in Turkey, and Qatna in Syria, indicate that
-Aegean artisans may have made their way to Egypt and the Near
-East as early as the seventeenth century and perhaps as late as the
-thirteenth century BC.36
+After a decade of successful excavations at a variety of sites,
+the two men were able to begin work in the Valley of the Kings in
+1917. They were looking specifically for Tut’s tomb, which they
+knew must be somewhere in the valley. Carter then dug for six
+seasons, for several months each year, until Carnarvon’s funding,
+and perhaps interest as well, were about to run out. Carter
+pleaded for one last season, offering to pay for it himself, because
+there was one place in the valley that he hadn’t yet excavated.
+Carnarvon relented and Carter returned to the Valley of the
+Kings, beginning work on November 1, 1922.49 Carter realized
+that he had been pitching his camp in the same place every
+season, so now he moved his headquarters and dug where the
+camp had originally been positioned … and three days later, a
+member of his team found the first steps leading down into the
+tomb. As it turned out, one of the reasons why the tomb had lain
+undiscovered for thousands of years was that the entrance had
+been buried under dirt tossed by later diggers creating the nearby
+tomb of Ramses VI, who died almost a century after Tut.
+Since Carter had discovered the entrance to the tomb while
+Carnarvon was still in England, he sent a telegram immediately
+and then had to wait until Carnarvon was able to sail to Egypt.
+He also alerted the media. By the time Carnarvon arrived and
+they were ready to open the tomb on November 26, 1922,
+journalists surrounded them, as photographs from that day show.
+
+As an opening was chiseled in the door, Carter was able to
+peer through the hole and into the entrance corridor of the tomb, with the antechamber beyond. Carnarvon tugged on Carter’s
+jacket and asked him what he saw. Carter reportedly replied, “I
+see wonderful things,” or words to that effect, and indeed he later
+reported that he could see gold, everywhere the glint of gold.50
+Undoubtedly, relief was evident in his voice, for during the
+long wait for Carnarvon, Carter had been plagued by worries that
+the tomb had been looted at least once, if not twice, to judge by
+the replastering at the tomb’s entrance, with the stamps of the
+necropolis on it.51 The penalty for tomb robbing in ancient Egypt
+was death by impalement on a stick stuck in the ground, but this
+does not seem to have fazed many grave robbers.
+
+When Carter and Carnarvon did eventually get into the tomb,
+it became clear that it had indeed been robbed, to judge by the
+messy condition of the objects in the antechamber, tossed about
+like goods in a modern apartment or house that has been
+ransacked by burglars, and by the golden rings wrapped in a
+handkerchief and dropped in the entrance corridor, most likely by
+the robbers either in their haste to get out of the tomb or as they
+were being caught by the necropolis guards. However, the sheer
+quantity of goods remaining in the tomb was astounding—it took
+Carter and his associates most of the next ten years to completely
+excavate and catalog everything in the tomb, even though
+Carnarvon himself died of blood poisoning only eight days after
+the tomb was opened, thereby giving rise to the story of the
+“mummy’s curse.”
+
+The huge number of burial goods in Tut’s tomb led some
+Egyptologists to wonder what might once have been in the tomb
+of one of the pharaohs who had ruled much longer, such as
+Ramses III or even Amenhotep III, but all of those tombs had
+been robbed long ago. It is more likely, though, that the amazing
+goods in Tut’s tomb were unique and may have been the result of
+gifts from the Egyptian priests, who were grateful because he had
+reversed his father’s reforms and given power back to the priests
+of Amun and others. Until another unlooted royal Egyptian tomb is found, however, we have nothing with which to compare Tut’s
+tomb.
+
+When Tut died, he left widowed his young queen
+Ankhsenamen who was also his sister. And this is where we come
+to the saga of the Hittite king Suppiluliuma I and the Zannanza
+Affair, one of the most unusual diplomatic episodes of the
+fourteenth century BC.

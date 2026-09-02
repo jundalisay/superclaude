@@ -1,165 +1,189 @@
 ---
 heading: Chapter 5c
-title: Internal Rebellion
-weight: 134
+title: Decentralization And The Rise Of The Private Merchant
+weight: 138
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
 
 
 
-Some scholars have suggested that internal rebellions may have contributed to the turmoil at the end of the Late Bronze Age.
+Susan Sherratt concluded that the Sea Peoples represent the final step in the replacement of the old centralized politicoeconomic systems present in the Bronze Age with the new decentralized economic systems of the Iron Age—that is, the change from kingdoms and empires that controlled the
+international trade to smaller city-states and individual
+entrepreneurs who were in business for themselves.
 
-Such a scenario might be invoked to explain the destruction at Hazor in Canaan, where there is no evidence for an earthquake, nor is there specific evidence for warfare or invaders.
+She suggested that the Sea Peoples can “usefully be seen as a structural
+phenomenon, a product of the natural evolution and expansion of
+international trade in the 3rd and early 2nd millennium, which
+carried within it the seeds of the subversion of the palace-based
+command economies which had initiated such trade in the first
+place.”57
 
-Sharon Zuckerman has suggested that the destruction of Hazor Stratum IA, dating somewhere between 1230 and the early decades of the twelfth century BC, was caused by an internal rebellion of the city’s inhabitants, rather than an invasion by external peoples.
+Thus, while she concedes that the international trade routes
+might have collapsed, and that at least some of the Sea Peoples
+may have been migratory invaders, she ultimately concludes that
+it does not really matter where the Sea Peoples came from, or
+even who they were or what they did. Far more important is the
+sociopolitical and economic change that they represent, from a
+predominantly palatial-controlled economy to one in which
+private merchants and smaller entities had considerably more
+economic freedom.
 
-On its own, the hypothesis of internal rebellions is not enough to account for the collapse of the Late Bronze Age
-civilizations in the Aegean and Eastern Mediterranean.
+Although Sherratt’s argument is elegantly stated, other
+scholars had earlier made similar suggestions. For example, Klaus
+Kilian, excavator of Tiryns, once wrote: “After the fall of the Mycenaean palaces, when ‘private’ economy had been established
+in Greece, contacts continued with foreign countries. The wellorganized palatial system was succeeded by smaller local reigns,
+certainly less powerful in their economic expansion.”
 
+Michal Artzy, of the University of Haifa, even gave a name to
+some of the private merchants envisioned by Sherratt, dubbing
+them “Nomads of the Sea.” She suggested that they had been
+active as intermediaries who carried out much of the maritime
+trade during the fourteenth and thirteenth centuries BC.60
+However, more recent studies have taken issue with the type
+of transitional worldview proposed by Sherratt. Carol Bell, for
+instance, respectfully disagrees, saying: “It is simplistic … to view
+the change between the LBA and the Iron Age as the replacement
+of palace administered exchange with entrepreneurial trade. A
+wholesale replacement of one paradigm for another is not a good
+explanation for this change and restructuring.”
 
-## Invaders And The Collapse Of International Trade
+While there is no question that privatization may have begun
+as a by-product of palatial trade, it is not at all clear that this
+privatization then ultimately undermined the very economy from
+which it had come.62 At Ugarit, for example, scholars have
+pointed out that even though the city was clearly burned and
+abandoned, there is no evidence either in the texts found at the
+site or in the remains themselves that the destruction and collapse
+had been caused by decentralized entrepreneurs undermining the
+state and its control of international trade.63
 
-Even if an internal rebellion were not the outcome, the cutting of the trade routes could have had a severe, and immediate, impact upon Mycenaean kingdoms such as Pylos, Tiryns, and Mycenae, which needed to import both the copper and the tin needed to produce bronze, and which seem to have imported substantial quantities of additional raw materials as well, including gold, ivory, glass, ebony wood, and the terebinth
-resin used in making perfume. 
+In fact, combining textual observations with the fact that
+Ugarit was clearly destroyed by fire, and that there are weapons
+in the debris, we may safely reiterate that although there may
+have been the seeds of decentralization at Ugarit, warfare and
+fighting almost certainly caused the final destruction, with
+external invaders as the likely culprits. This is a far different
+scenario from that envisioned by Sherratt and her like-minded
+colleagues. Whether these invaders were the Sea Peoples is uncertain, however, although it is intriguing that one of the texts
+at Ugarit specifically mentions the Shikila/Shekelesh, known from
+the Sea Peoples inscriptions of Merneptah and Ramses III.
 
-While natural disasters such as earthquakes could cause a temporary disruption in trade, potentially leading to higher prices and perhaps to what we today
-would call inflation, more permanent disruptions would more likely have been the result of outside invaders targeting the
-affected areas. However, who would these invaders have been?
-
-Or is this where we invoke the Sea Peoples?
-
-Rather than the Sea Peoples, the ancient Greeks—ranging from historians like Herodotus and Thucydides in fifth-century BC Athens to the much-later traveler Pausanias—believed that a group known as the Dorians had invaded from the north at the end of the Bronze Age, thereby initiating the Iron Age.
-
-This concept was once much discussed by archaeologists and ancient historians of the Bronze Age Aegean; among their considerations was a new type of pottery called “Handmade Burnished Ware” or “Barbarian Ware.” 
-
-However, in recent decades it has become clear that there was no such invasion from the north at this time and no reason to accept the idea of a “Dorian Invasion” bringing
-the Mycenaean civilization to an end. 
-
-Despite the traditions of the
-later classical Greeks, it is clear that the Dorians had nothing to
-do with the collapse at the end of the Late Bronze Age and
-entered Greece only long after those events had transpired.46
-
-Moreover, recent studies now indicate that even during the
-decline of the Mycenaean world and the early years of the
-succeeding Iron Age, mainland Greece may still have retained its
-trade connections to the Eastern Mediterranean. 
-
-These
-connections, however, were probably no longer under the control
-of the elite classes who had dwelt in the Bronze Age palaces.47
-In northern Syria, on the other hand, we have numerous
-documents attesting to the fact that maritime invaders attacked
-Ugarit during this time period. Although we have little firm
-evidence for the origins of these marauders, we cannot dismiss
-the possibility that they included the Sea Peoples. 
-
-In addition,
-scholars have recently pointed out that many of the city-states in
-the Eastern Mediterranean, and Ugarit in particular, may have
-been hard-hit by the collapse of the international trade routes, which would have been vulnerable to depredations by maritime
-marauders.
-
-Itamar Singer, for instance, has suggested that Ugarit’s
-downfall may have been due to “the sudden collapse of the
-traditional structures of international trade, which were the
-lifeblood of Ugarit’s booming economy in the Bronze Age.”
-
-Christopher Monroe of Cornell University has put this into a
-larger context, pointing out that the wealthiest city-states in the
-Eastern Mediterranean were the hardest-hit by the events taking
-place during the twelfth century BC, since they were not only the
-most attractive targets for the invaders but also the most
-dependent on the international trade network. 
-
-He suggests that
-dependence, or perhaps overdependence, on capitalist enterprise,
-and specifically long-distance trade, may have contributed to the
-economic instability seen at the end of the Late Bronze Age.48
-However, we should not overlook the fact that Ugarit would
-have been a tempting target for both external invaders and
-homegrown pirates, as well as other possible groups. In this
-regard, we should consider again the letter from the Southern
-Archive, found in Court V of the palace in Ugarit (but not within
-a kiln), which mentions seven enemy ships that had been causing
-havoc in the Ugaritic lands. Whether or not these particular ships
-had anything to do with the final destruction of Ugarit, such
-enemy ships would have disrupted the international trade upon
-which Ugarit was vitally dependent.
+In any event, even if decentralization and private individual
+merchants were an issue, it seems unlikely that they caused the
+collapse of the Late Bronze Age, at least on their own. Instead of
+accepting the idea that private merchants and their enterprises
+undermined the Bronze Age economy, perhaps we should
+consider the alternative suggestion that they simply emerged out
+of the chaos of the collapse, as was suggested by James Muhly of
+the University of Pennsylvania twenty years ago. He saw the
+twelfth century BC not as a world dominated by “sea raiders,
+pirates, and freebooting mercenaries,” but rather as a world of
+“enterprising merchants and traders, exploiting new economic
+opportunities, new markets, and new sources of raw materials.”64
+Out of chaos comes opportunity, at least for a lucky few, as
+always.
 
 
-When such dramatic situations occur today, it seems that
-everyone has a piece of advice to give. Things were no different
-back then, during the Late Bronze Age. One letter found at Ugarit,
-possibly sent by the Hittite viceroy of Carchemish, gives the
-Ugarit king advice on how to deal with such enemy ships. He
-begins, “You have written to me: ‘Ships of the enemy have been
-seen at sea!’ ” and then advises: “Well, you must remain firm.
-Indeed, for your part, where are your troops, your chariots
-stationed? Are they not stationed near you? … Surround your cities with walls. Bring (your) infantry and chariotry into (them).
-Be on the lookout for the enemy and make yourself very
-strong!”49
-
-Another letter, found in the House of Rapanu and sent by a
-man named Eshuwara who was the senior governor of Cyprus, is
-undoubtedly related. In this letter, the governor says that he is
-not responsible for any damage done to Ugarit or its territory by
-the ships, especially since it is—he claims—Ugarit’s own ships
-and men who are committing the atrocities, and that Ugarit
-should be prepared to defend itself: “As for the matter concerning
-those enemies: (it was) the people from your country (and) your
-own ships (who) did this! And (it was) the people from your
-country (who) committed these transgressions(s) … I am writing
-to inform you and protect you. Be aware!” He then adds that
-there are twenty enemy ships, but that they have gone off in an
-unknown direction.50
-
-Finally, a letter in the Urtenu archive from an official in
-Carchemish, located in inland northern Syria, states that the king
-of Carchemish was on his way from Hittite territory to Ugarit
-with reinforcements, and that the various people named in the
-letter, including Urtenu and the city elders, should try to hold out
-until they arrived.51 It is unlikely that they arrived in time. If they
-did, they were of little use, for an additional, private letter
-usually thought to be one of the last communications from Ugarit
-describes an alarming situation: “When your messenger arrived,
-the army was humiliated and the city was sacked. Our food in the
-threshing floors was burnt and the vineyards were also destroyed.
-Our city is sacked. May you know it! May you know it!”52
-
-As noted above, the excavators of Ugarit report that the city
-was burned, with a destruction level reaching two meters high in
-some places, and that numerous arrowheads were found scattered
-throughout the ruins.53 There were also a number of hoards found
-buried in the city; some contained precious gold and bronze
-items, including figurines, weapons, and tools, some of them inscribed. All appear to have been items hidden just before the
-destruction took place; their owners never returned to retrieve
-them.54 However, even a severe and complete destruction of the
-city does not explain why the survivors did not rebuild, unless
-there were no survivors.
-
-Rather than complete annihilation, it may be the cutting of
-the trade routes, and the collapse of the international trading
-system as a whole, that are the most logical and complete
-explanations as to why Ugarit was never reoccupied after its
-destruction. In the words of one scholar, “The fact that Ugarit
-never rose from its ashes, as did other LBA cities of the Levant
-which suffered a similar fate, must have more substantial grounds
-than the destruction inflicted upon the city.”
+## Was It The Sea Peoples And Where Did They Go?
 
 
-However, there is a counterargument to this suggestion.
+We come, finally, to a consideration of the Sea Peoples, who
+remain as enigmatic and elusive as ever. Whether they are seen as
+sea raiders or migrating populations, the archaeological and
+textual evidence both indicate that the Sea Peoples, despite their
+moniker, most likely traveled both by land and by sea—that is, by
+any means possible.
 
-Ugarit’s international connections apparently continued right up
-until the sudden end of the city, for there is a letter from the king
-of Beirut sent to an Ugaritic official (the prefect) that arrived after
-the king of Ugarit had already fled the city.
+Those proceeding by sea would most likely have hugged the
+coastline, perhaps even putting in to a safe harbor every evening.
+However, questions remain as to whether the enemy ships
+mentioned in the Ugaritic texts belonged to the Sea Peoples or to
+renegade members of their own kingdom, as implied in the letter 
+sent by Eshuwara, the governor of Alashiya.65 
 
-In other words, Ugarit was destroyed by invaders and was never rebuilt, despite the fact that the international trade connections were at least partially if not still completely intact at the time of destruction.
+In this regard, we should take into account the letter just mentioned, from the
+House of Urtenu in Ugarit, that mentions the “Shikila people,”
+who, more likely than not, can be identified with the Shekelesh of
+the Egyptian records. 
 
-In fact, what jumps out from the materials in the Rapanu and Urtenu archives is the tremendous amount of international interconnection that apparently still existed in the Eastern Mediterranean even at the end of the Late Bronze Age.
+The letter was sent by the Hittite king, probably Suppiluliuma II, to the governor of Ugarit, and refers to
+a young king of Ugarit, who “does not know anything.” Singer,
+among other scholars, sees this as a probable reference to
+Ammurapi, who was the new king of Ugarit at the time. In the
+letter, the Hittite king says that he wishes to interview a man
+named Ibnadushu, who had been captured by the Shikila people
+“who live on ships,” in order to find out more information about
+these Shikila/Shekelesh.66 However, we do not know whether the
+interview ever took place or what else might have been learned
+from Ibnadushu.
 
-These international connections continued right up until almost the last moment before Ugarit’s destruction. 
+It is generally agreed that this document contains the only
+specific mention by name of the Sea Peoples outside of Egyptian
+records, although it has also been suggested that there might be
+others. The “enemy from the land of Alashiya” who attacked the
+last Hittite king, Suppiluliuma II, on land after he had fought
+three sea battles against Alashiyan (i.e., Cypriot) forces is possibly
+a reference to the Sea Peoples. So too is an inscription found at
+Hattusa in 1988, which may contain an indication that
+Suppiluliuma II was already fighting the Sea Peoples who had
+landed on the southern coast of Anatolia and were advancing
+north.
 
-This means that the end was sudden, rather than a gradual decline after trade routes had been cut or because of drought and famine, and that Ugarit specifically was destroyed by invaders, regardless of whether these forces had also cut the international trade routes.
+ Most documents and inscriptions, other than the Egyptian
+records, simply contain the more general phrase “enemy ships,”
+though, and do not specifically name the Sea Peoples.
+Those of the Sea Peoples who came by land possibly, and
+perhaps likely, proceeded along a predominantly coastal route,
+where the destruction of specific cities would have opened up
+entire new areas to them, in much the same way that Alexander
+the Great’s battles at the Granicus River, Issus, and Gaugamela
+opened up specific portions of the ancient Near East to his army almost a thousand years later. Assaf Yasur-Landau of the
+University of Haifa has suggested that some of the Sea Peoples
+could have begun their journey in Greece and passed through the
+Dardanelles to western Turkey/Anatolia. Others—perhaps most of
+them, he says—would simply have begun their journey at this
+point, perhaps joining those coming from the Aegean, with the
+route continuing along the southern coast of Turkey to Cilicia at
+its eastern end, and then down to the southern Levant via a route
+running along the coast. If they followed this route, they would
+have encountered the city of Troy, the kingdoms of Arzawa and
+Tarhuntassa in Anatolia, and the cities of Tarsus and Ugarit in
+southeastern Anatolia and northern Syria, respectively. Some or
+all of these sites do show signs of destruction and/or subsequent
+abandonment that occurred about the time that the Sea Peoples
+are presumed to have been active, but it is unclear whether they
+were actually responsible.68
+
+
+In fact, the archaeological evidence now seems to suggest that
+most of the sites in Anatolia were simply either completely or
+mostly abandoned at this time, rather than put to the torch by the
+Sea Peoples. We can speculate that if the international trade,
+transportation, and communication routes were disrupted by
+wars, famines, or other forces, the cities dependent upon these
+routes might have withered and died, with the result that their
+populations would have left gradually or fled rapidly, depending
+upon the speed of commercial and cultural decline. As one
+scholar has recently said, “while it is reasonable to assume that
+Cilicia and the Syrian coast were affected by the actions of the
+Sea Peoples, so far neither historical nor archaeological evidence
+for any kind of activity of the Sea Peoples in the Hittite
+homelands is attested … the real causes for the collapse of the
+Hittite state seem to be internal rather than external.”69
+
+
+A prime example of assigning blame without proof is the
+recent claim related to the radiocarbon dating at Tell Tweini, the
+site of the Late Bronze Age harbor town of Gibala within the kingdom of Ugarit. Here, the laboratory results led the excavators
+and their colleagues to conclude that they have found evidence of
+destruction wreaked by the Sea Peoples, and to specifically date it
+to 1192–1190 BC.70 They state, without caveat: “The Sea Peoples
+were seaborne foes from different origins. They launched a
+combined land-sea invasion that destabilized the already
+weakened power base of empires and kingdoms of the old world,
+and attempted to enter or control the Egyptian territory. The Sea
+Peoples symbolize the last step of a long and complex spiral of
+decline in the ancient Mediterranean world.”71
+
+

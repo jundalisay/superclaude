@@ -1,131 +1,247 @@
 ---
 heading: Chapter 3d
-title: "Foreign Contacts And The Greek Mainland In The Thirteenth Century Bc"
-weight: 63
+title: "Hittites, Assyrians, Amurru, And Ahhiyawa"
+weight: 69
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-At this time, back at Mycenae on the Greek mainland, that huge fortification walls, which are still
-visible, were erected in about 1250 BC. 
+The last kings of the Hittites—especially Tudhaliya IV (1237–1209 BC) and Suppiluliuma II (1207–? BC)—were very active
+during the last quarter of the thirteenth century, from ca. 1237 BC, even as their world and civilization were showing signs of
+coming to an end. 
 
-These were constructed about the same time as other projects—perhaps defensive
-measures—were undertaken, including an underground tunnel
-leading to a water source that inhabitants could access without
-leaving the protection of the city.
+Tudhaliya ordered that an entire pantheon of gods and goddesses be carved into the rock of a limestone outcrop
+at Yazilikaya (“Inscribed Rock”), along with a representation of
+himself, just a kilometer or so from the Hittite capital city of
+Hattusa.
 
-The famous Lion Gate was constructed at the entrance to the
-citadel of Mycenae in this period, as part of new fortification
-walls that encircled the city. Were these simply part of the
-protective measures for the city, or were they built as a
-demonstration of power and wealth? The fortification walls and
-the Lion Gate were constructed with huge stones—stones so large
-that they are now referred to as “Cyclopean masonry,” since the
-later Greeks thought that only the legendary single-eyed Cyclopes,
-with their brute strength, could have been strong enough to
-maneuver the blocks into position.
-
-Intriguingly, similar architecture, including corbel-vaulted
-galleries and secret tunnels to underground water systems, is
-found not only at several Mycenaean palatial sites, including
-Mycenae and Tiryns, but also in some Hittite structures, also
-dating to about the same period.33
+At this time, the Hittites were at war with the Assyrians in
+Mesopotamia. We have already met the Assyrians in an earlier
+chapter, in a discussion of Assur-uballit I, who ruled over Assyria
+at the time of the Amarna pharaohs, and who had sacked Babylon
+after a marriage alliance between the two powers went awry.56
 
 
-We know, from finds of Mycenaean pottery in the Eastern
-Mediterranean dating to the thirteenth century BC and Egyptian,
-Cypriot, Canaanite and other imports found in the Aegean during
-the same period, that the Mycenaeans were actively trading with
-Egypt, Cyprus, and other powers in the ancient Near East during
-these years. They had taken over the trade routes from the
-Minoans by this time, and trade actually increased during this
-period, as mentioned above.
+The Assyrians, after a brief period of relative dormancy following
+the reign of Assur-uballit, had become resurgent under their king,
+Adad-nirari I (1307–1275 BC). Under his leadership and that of
+his successors, the Assyrians emerged as a major power in the
+Near East at the beginning of the thirteenth century.
 
-Archaeologists excavating at the site of Tiryns, located
-in the Peloponnese region of mainland Greece, have recently
-documented evidence indicating that there may have been a
-specific group of Cypriots living at Tiryns during the late
-thirteenth century BC, which agrees well with suggestions made
-previously by other scholars that there was some sort of special
-commercial relationship between Tiryns and the island of Cyprus
-during this period. In particular, there seems to have been some
-sort of metalworking, and perhaps work in ceramics or faience as
-well, being conducted by Cypriots at Tiryns. It was at this time
-that Mycenaean clay transport containers, generally used for
-shipping wine, olive oil, and other commodities, were marked
-with Cypro-Minoan signs before they were fired. Even though the
-language of Cypro-Minoan has yet to be fully translated, it seems
-clear that these vessels were being manufactured for a specific
-market in Cyprus.
+Among his other accomplishments, Adad-nirari I fought
+against the Mitannians, capturing Washukanni and other cities.
+
+He placed a client king on their throne and extended the Assyrian
+Empire sufficiently far to the west that it now bordered the Hittite
+homeland and almost reached to the Mediterranean Sea. This may
+not have been as difficult as it sounds, however, since the Hittites
+under Suppiluliuma I had already inflicted a crushing defeat upon
+the Mitannians several decades earlier.57
+
+Following the reign of Shalmaneser I (1275–1245 BC), who
+continued many of the policies of Adad-nirari and may finally
+have brought the Mitannian kingdom to an end,58 one of the
+greatest of Assyria’s “warrior kings,” Tukulti-Ninurta I, who ruled
+ca. 1244–1208 BC, stepped onto the world stage. He followed in
+the footsteps of Adad-nirari but was perhaps also emulating his
+predecessor of the previous century, Assur-uballit, when he
+decided to attack Babylon. 
+
+However, Tukulti-Ninurta I surpassed
+Assur-uballit’s achievements: not only did he defeat the Kassite
+Babylonian king Kashtiliashu IV in battle and bring him to Assur
+in chains; he also took over their kingdom by ca. 1225 BC, ruling
+as king himself before installing a puppet king to govern on his
+behalf. But this was not a particularly successful move, since the
+puppet king, Enlil-nadin-shumi, was almost immediately attacked
+and overthrown by an Elamite army marching from their eastern
+homelands on the Iranian plateau, in what is now southwestern
+Iran. It would not be the only time that this happened, for we
+shall encounter the Elamites again soon.59
+
+In addition to his other achievements, Tukulti-Ninurta I, the
+Assyrian warrior king, also defeated the Hittites under Tudhaliya
+IV, thus dramatically changing the balance of power in the
+ancient Near East. It has even been suggested that he became so
+powerful that he sent a mina (a Near Eastern unit of weight,
+probably the equivalent of a little more than a modern American
+pound) of lapis lazuli as a gift to the Mycenaean king in Boeotian
+Thebes on mainland Greece, all the way across the Aegean.60
+
+Consequently, by the time of the first Sea Peoples attack on
+the Eastern Mediterranean in 1207 BC, just one year after TukultiNinurta was assassinated by one of his own sons, Assyria had
+been one of the major players on the international scene in the
+ancient Near East for nearly two hundred years. It was a kingdom
+linked by marriage, politics, war, and trade over the centuries
+with the Egyptians, Babylonians, Hittites, and Mitanni. It was,
+without question, one of the Great Powers during the Late Bronze
+Age.
+
+During the reign of the Assyrian king Tukulti-Ninurta, the
+Hittites were faced with an obvious and serious threat to their
+empire and were intent on stopping anyone attempting to move
+inland from the coast to Assyrian lands in the east. One strategy
+involved a treaty signed in approximately 1225 BC between
+Tudhaliya IV, king of the Hittites, and Shaushgamuwa, his
+brother-in-law by marriage. Shaushgamuwa was the king of
+Amurru, who controlled the coastal regions of northern Syria that
+provided potential access to the Assyrian lands. In the treaty, the
+homage with which we are now familiar is invoked: the enemy of
+my friend is also my enemy; the friend of my friend is also my
+friend. Thus, Tudhaliya IV (who refers to himself in the third
+person as “My Majesty”) declared to Shaushgamuwa:
+
+If the King of Egypt is the friend of My Majesty, he shall be your friend. But if he
+is the enemy of My Majesty, he shall be your enemy. And if the King of Babylonia
+is the friend of My Majesty, he shall be your friend. But if he is the enemy of My
+Majesty, he shall be your enemy. Since the King of Assyria is the enemy of My
+Majesty, he shall likewise be your enemy. Your merchant shall not go to Assyria,
+and you shall not allow his merchant into your land. He shall not pass through
+your land. But if he should come into your land, seize him and send him off to
+My Majesty. [Let] this matter [be placed] under [oath] (for you).61
+In our study of the ancient world, there are two items of
+special interest in this mutual-appreciation treaty. The first is that Tudhaliya IV says to Shaushgamuwa: “[You shall not allow(?)]
+any ship [of] Ahhiyawa to go to him (that is, the King of
+Assyria).”62 This is thought by many scholars to be a reference to
+an embargo: the one mentioned at the end of the previous
+chapter. If so, although the embargo is usually thought to be a
+fairly modern concept, it seems that one may have been put in
+place by the Hittites against the Assyrians more than three
+thousand years ago.63
+
+The second is the fact that, a few lines earlier, Tudhaliya IV
+had written, “And the Kings who are my equals in rank are the
+King of Egypt, the King of Babylonia, the King of Assyria, and the
+King of Ahhiyawa.”64 The strikethrough of the words “King of
+Ahhiyawa” is not a misprint in this book; it is a strikethrough
+found on the clay tablet of Tudhaliya IV. In other words, we have
+here a rough draft of the treaty, in which items could still be
+deleted, added, or edited. More importantly, we are in possession
+of an item that indicates that the king of Ahhiyawa was no longer
+considered to be equal in rank to the other major powers of the
+Late Bronze Age world: the kings of Egypt, Babylonia, and
+Assyria, and of the Hittites.
+
+It is reasonable to ask what had happened in the Aegean, or on
+the western coast of Anatolia, to cause this state of affairs. It must
+have been a fairly recent occurrence, for recall that in the reign of
+Hattusili III, Tudhaliya IV’s father, the king of Ahhiyawa had been
+referred to as a “Great King” and as a “brother” by the Hittite
+ruler. Perhaps a clue can be found in one of the Ahhiyawa texts,
+known as the “Milawata Letter.” 
+
+Dating most likely to the time of
+Tudhaliya IV, the letter makes it clear that the city of Milawata
+(Miletus) and its surrounding territory on the western coast of
+Anatolia, which had once been the main footprint of the
+Mycenaeans in the area, no longer belonged to the Ahhiyawan
+king but was now under Hittite control.65 This may have meant
+that the king of Ahhiyawa was no longer a Great King in the eyes
+of the Hittite king. However, we should consider the possibility that the Hittite king’s “demotion” of the Mycenaean ruler may
+have been the result of some event of even greater magnitude,
+perhaps something that had happened back in the Aegean—that
+is, on the Greek mainland—as we shall see in the next chapter.
 
 
-Surprisingly, the Linear B tablets found at Pylos and various
-other Mycenaean mainland sites do not specifically mention trade
-or contact with the outside world. The closest that they come is
-including what seem to be loanwords from the Near East, where
-the foreign name apparently came with the item. These include
-the words for sesame, gold, ivory, and cumin—for instance,
-“sesame” in Linear B is sa-sa-ma, coming from the Ugaritic word
-ššmn, the Akkadian word šammaššammu, and the Hurrian word
-sumisumi.
+While all of this was going on, Tudhaliya 4th attacked the island of Cyprus.
 
-On these tablets are also terms like ku-pi-ri-jo, which
-has been interpreted as meaning “Cypriot.” This appears at least 16 times in the tablets at Knossos, where it is used to describe
-spices, but it is used to directly modify wool, oil, honey, vases,
-and unguent ingredients as well. 
+It had been a major source of copper throughout the 2nd millennium BC. 
 
-It is also used at Pylos as an ethnic adjective to describe individuals associated with
-sheepherding, bronze working, and mixed commodities including
-wool, cloth, and alum, which might mean that there were ethnic
-Cypriots living at Pylos at the end of the thirteenth century BC.36
-Similarly, a second term, a-ra-si-jo, may also be a reference to
-Cyprus, as it was known in the Eastern Mediterranean, that is,
-Alashiya: Akkadian a-la-ši-ia, Egyptian ‘irs3, Hittite a-la-ši-ia, and
-Ugaritic altyy.
+The Hittites tried to control copper.
 
-There is also a series of ethnic names interpreted as West
-Anatolian, primarily female workers, found in the Linear B texts
-at Pylos. 
+However, we are not certain about his motivation for attacking Cyprus. 
 
-All refer to areas located on the western coast of Anatolia, including Miletus, Halikarnassus, Knidus, and Lydia
-(Asia). More than one scholar has suggested that there may also
-be Trojan women mentioned on these Pylos tablets. It has been
-hypothesized that all of these women may have been captured
-during Mycenaean raids on the western coast of Anatolia or the
-neighboring Dodecanese islands.
+It may instead have had something to do with the possible
+appearance of the Sea Peoples in the area or with the drought that
+is thought to have occurred in the Eastern Mediterranean at this
+time, as indicated by new scientific discoveries as well as longknown texts that mention an emergency shipment of grain sent
+from Ugarit in north Syria to the port city of Ura in Cilicia
+(located in southeastern Turkey).
 
-There are also a few debated words in the Linear B texts at
-both Pylos and Knossos, which some have suggested may be
-Canaanite gentilics (personal names). These include Pe-ri-ta =
-“the man from Beirut”; Tu-ri-jo = “the Tyrian (man from Tyre)”;
-and po-ni-ki-jo = “Phoenician (man or spice). In addition, A-ra-dajo = “the man from Arad (Arvad)” is also found only in the
-tablets at Knossos.39 There are names that seem Egyptian in origin
-but may have come via Canaan, namely, mi-sa-ra-jo = “Egyptian”
-and a3-ku-pi-ti-jo = “Memphite” or “Egyptian.” 
 
-The former term, mi-sa-ra-jo, apparently comes from the Semitic word for Egypt,
-Miṣraim, more commonly found in Akkadian and Ugaritic documents in Mesopotamia and Canaan. The latter term, a3-ku-piti-jo, may also be derived from a Near Eastern reference to Egypt,
-for an Ugaritic name for both Egypt and the city of Memphis was Ḥikupta. Strangely enough, the word is found in a Linear B tablet
-at Knossos as the name of an individual who was in charge of a
-flock of eighty sheep at a Cretan site; could he have been known
-as “the Egyptian”?40
+An inscription, originally written on a statue of Tudhaliya but
+then recopied onto a tablet from the time of Tudhaliya’s son
+Suppiluliuma II, reads: “I seized the king of Alashiya with his
+wives, his children, … All the goods, including silver and gold,
+and all the captured people I removed and brought home to
+Hattusa. I enslaved the country of Alashiya, and made it tributary
+on the spot.”67 Suppiluliuma II not only recopied Tudhaliya IV’s
+inscription but also conquered Cyprus himself for good measure.
+The inscription regarding his own military takeover of Cyprus
+reads: “I, Suppiluliuma, Great King, quickly [embarked upon] the
+sea. The ships of Alashiya met me in battle at sea three times. I
+eliminated them. I captured the ships and set them afire at sea.
+When I reached dry land once more, then the enemy from the land of Alashiya came against me [for battle] in droves. I [fought
+against] them.”68
 
-All of these loanwords and names in the Linear B tablets show
-unambiguously that the Aegean world was in contact with Egypt
-and the Near East during the Late Bronze Age. 
+Clearly, Suppiluliuma was successful in his naval attacks and
+perhaps in the invasion of Cyprus, but it is unclear why he had to
+fight and invade the island again, after Tudhaliya IV had already
+captured it. His attempt might simply have been to gain (or
+regain) control of the sources of copper or of the international
+trade routes in increasingly tumultuous times. But we may never
+know. It is also unclear where the final land battle was fought;
+scholars have suggested both Cyprus and the coast of Anatolia as
+possibilities.
 
-The fact that we do
-not have any records documenting specific data and exchanges
-may or may not be surprising, since we possess only the last year
-of the archives in each case: the tablets that were caught in the
-destructions and fired accidentally, for normally they would have
-been erased (by rubbing water on the surface of the clay) and
-reused each year or as needed. Moreover, we know that the
-Mycenaeans used these tablets only to record some of the
-economic activities of the palaces. It is conceivable that the
-“Foreign Office Archive” was housed elsewhere at the various
-Mycenaean sites, like similar archives at Amarna in Egypt and
-Hattusa in Anatolia.
+Upon assuming the throne following the death of his father,
+Suppiluliuma II had taken the name of his famous fourteenthcentury BC predecessor Suppiluliuma I (though the new king’s
+name was actually spelled slightly differently: Suppiluliama rather
+than Suppiluliuma). Perhaps he hoped to emulate some of his
+predecessor’s successes. Instead, he ended up presiding over the
+collapse of the Hittite Empire. In the course of doing so, he and
+the Hittite army, in addition to invading Cyprus, campaigned in
+western Anatolia once more.69 One scholar notes, in a recent
+article, that many of the documents dated to the time of
+Suppiluliuma II “point to a growing instability within the Hittite
+capital and a growing sense of mistrust,” though perhaps “unease”
+would be a better word to use, given what was soon to come.70
+
+
+
+## The Point Iria And Cape Gelidonya Shipwrecks
+
+Another wreck of an ancient sailing vessel, this time presumed to
+have been from Cyprus, based on the pottery that it carried as
+cargo, was excavated in 1993 and 1994 by maritime
+archaeologists off the Argolid coast of mainland Greece, not far
+from the site of Mycenae. Known as the Point Iria shipwreck, it is
+dated to approximately 1200 BC and may be evidence that trade between Cyprus and Mycenaean Greece was still ongoing at that
+time, despite Hittite incursions in Cyprus.71
+
+At approximately this same time, yet another ship sank off the
+coast of Anatolia, not far from where the Uluburun ship had gone
+down about a century earlier: the Cape Gelidonya shipwreck,
+named after the location of its watery grave off the southwestern
+coast of what is now modern Turkey. As noted earlier, this is the
+shipwreck with which George Bass began his career, and the field
+of underwater archaeology, in the 1960s. Bass had concluded that
+the wreck was of a Canaanite ship en route to the Aegean that
+had sunk in approximately 1200 BC.72
+
+Bass has gone back to the site a few times over the years, in
+order to explore the remains using new equipment that has
+become available as the result of dramatic improvements in the
+technology of underwater exploration during the past half
+century. He has found a few more objects that continue to support
+his original idea that the ship was probably traveling from the
+Near East, but, intriguingly, the new finds indicate that it is
+actually probably Cypriot in origin rather than Canaanite,
+according to new analyses done of the ship’s anchor and some of
+the ceramics on board.73
+
+Regardless of its exact origin in the Eastern Mediterranean, the
+Cape Gelidonya ship and its cargo are of considerable importance,
+though admittedly they are not nearly as impressive as the
+Uluburun shipwreck. The smaller vessel has usually been
+described as having “tramped” from port to port, exchanging
+items on a minor scale, rather than sailing on a direct commercial
+or diplomatic mission.74 Still, it is one more piece of evidence that
+international trade was ongoing at the end of the thirteenth
+century BC, even when things were beginning to fall apart in the
+Eastern Mediterranean and the Aegean regions.
+
+
+

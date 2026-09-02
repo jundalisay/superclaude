@@ -1,187 +1,250 @@
 ---
 heading: Chapter 5d
 title: Decentralization And The Rise Of The Private Merchant
-weight: 138
+weight: 142
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
 
 
 
-Susan Sherratt concluded that the Sea Peoples represent the final step in the replacement of the old centralized politicoeconomic systems present in the Bronze Age with the new decentralized economic systems of the Iron Age—that is, the change from kingdoms and empires that controlled the
-international trade to smaller city-states and individual
-entrepreneurs who were in business for themselves.
+The city was destroyed at about the time identified by the excavators.
 
-She suggested that the Sea Peoples can “usefully be seen as a structural
-phenomenon, a product of the natural evolution and expansion of
-international trade in the 3rd and early 2nd millennium, which
-carried within it the seeds of the subversion of the palace-based
-command economies which had initiated such trade in the first
-place.”57
+The excavators have not proven a role for the Sea Peoples for its destruction. 
 
-Thus, while she concedes that the international trade routes
-might have collapsed, and that at least some of the Sea Peoples
-may have been migratory invaders, she ultimately concludes that
-it does not really matter where the Sea Peoples came from, or
-even who they were or what they did. Far more important is the
-sociopolitical and economic change that they represent, from a
-predominantly palatial-controlled economy to one in which
-private merchants and smaller entities had considerably more
-economic freedom.
+They simply point out that the material culture of the settlement that was established on the
+tell after the destruction includes “the appearance of Aegean-type
+architecture, locally-made Mycenaean IIIC Early pottery, handmade burnished pottery, and Aegean-type loam-weights.”72 As
+they state, “these materials, also known from Philistine
+settlements, are cultural markers of foreign settlers, most
+probably the Sea Peoples.”73 While Tweini could be the best
+example yet of a site possibly destroyed and then resettled by the
+Sea Peoples, we cannot say so with absolute certainty. 
 
-Although Sherratt’s argument is elegantly stated, other
-scholars had earlier made similar suggestions. For example, Klaus
-Kilian, excavator of Tiryns, once wrote: “After the fall of the Mycenaean palaces, when ‘private’ economy had been established
-in Greece, contacts continued with foreign countries. The wellorganized palatial system was succeeded by smaller local reigns,
-certainly less powerful in their economic expansion.”
+We can further speculate that in at least some cases groups
+designated as the Sea Peoples might have entered the vacuum
+created by the destruction and/or abandonment of the cities,
+whether caused by themselves or others, and settled down
+without moving on, eventually leaving their artifacts behind them, as may have been the case at Tweini. In such
+circumstances, these Sea Peoples are likely to have occupied
+primarily, although not exclusively, the coastal cities, including
+sites like Tarsin and Mersin on the coast of southeastern Anatolia.
+The same may be true for the region now on the border between
+southwestern Turkey and northern Syria, in the area of Tell
+Ta’yinat, which recent evidence suggests became known as the
+“Land of Palistin” during the Iron Age.74
 
-Michal Artzy, of the University of Haifa, even gave a name to
-some of the private merchants envisioned by Sherratt, dubbing
-them “Nomads of the Sea.” She suggested that they had been
-active as intermediaries who carried out much of the maritime
-trade during the fourteenth and thirteenth centuries BC.60
-However, more recent studies have taken issue with the type
-of transitional worldview proposed by Sherratt. Carol Bell, for
-instance, respectfully disagrees, saying: “It is simplistic … to view
-the change between the LBA and the Iron Age as the replacement
-of palace administered exchange with entrepreneurial trade. A
-wholesale replacement of one paradigm for another is not a good
-explanation for this change and restructuring.”
+In fact, there are traditions, especially literary traditions,
+which specifically state that the Sea Peoples settled Tel Dor, in
+the north of what is now modern Israel. For example, the
+Egyptian story called “The Report of Wenamun,” which dates to
+the first half of the eleventh century BC, refers to Dor as a town
+of the Tjekker or Sikils (Shekelesh). Another Egyptian text, the
+“Onomasticon of Amenemope,” which dates to ca. 1100 BC, lists
+the Shardana, the Tjekker, and the Peleset, and also mentions the
+sites of Ashkelon, Ashdod, and Gaza (three of the five sites
+considered to be part of the Philistine “pentapolis”). Sites along
+the Carmel Coast and in the Akko Valley, as well as perhaps Tel
+Dan, have also been suggested as having been settled by the Sea
+Peoples, such as the Shardana and the Danuna. At many of these
+sites, including those with occupation levels designated as
+“Philistine,” such as at Ashdod, Ashkelon, Gaza, Ekron, and
+elsewhere, degenerate Aegean-style pottery and other cultural
+identifiers have been found.75 These may well be the only
+physical remains that we have of the elusive Sea Peoples, but the
+archaeological remains at many of these sites, and even farther
+north, seem to have more direct connections with Cyprus than
+with the Aegean. Nevertheless, there are clear links to nonCanaanite peoples in the twelfth century BC.76
+Interestingly, there seem to be no such remains, nor any such
+destruction, in the area that came to be known as Phoenicia, in
+what is now modern Lebanon. Despite scholarly discussions, it is
+still unclear why this should be so, or whether it is simply an 
+illusion caused by the relative lack of excavation here, compared
+to the other coastal regions of the Near East.77
 
-While there is no question that privatization may have begun
-as a by-product of palatial trade, it is not at all clear that this
-privatization then ultimately undermined the very economy from
-which it had come.62 At Ugarit, for example, scholars have
-pointed out that even though the city was clearly burned and
-abandoned, there is no evidence either in the texts found at the
-site or in the remains themselves that the destruction and collapse
-had been caused by decentralized entrepreneurs undermining the
-state and its control of international trade.63
+Among the many scenarios suggested to explain the final days
+of the Late Bronze Age in the Aegean and Eastern Mediterranean,
+the proposal made by Israel Finkelstein of Tel Aviv University a
+decade ago still seems most likely. He argues that the migration
+of the Sea Peoples was not a single event but a long process
+involving several phases, with the first phase starting in the early
+years of Ramses III, ca. 1177 BC, and the last phase ending during
+the time of Ramses VI, ca. 1130 BC. He says specifically that
+despite the description in the Egyptian texts of a single event, the migration of
+the Sea Peoples was at least a half-century-long process that had several
+phases…. It may have started with groups that spread destruction along the
+Levantine coast, including northern Philistia, in the beginning of the twelfth
+century and that were defeated by Ramesses III in his eighth year. Consequently,
+some of them were settled in Egyptian garrisons in the delta. Later groups of Sea
+Peoples, in the second half of the twelfth century, succeeded in terminating
+Egyptian rule in southern Canaan. After destroying the Egyptian strongholds …
+they settled in Philistia and established their major centers at Ashdod, Ashkelon,
+Tel Miqne, and other places. These people—the Philistines of the later biblical
+text—are easily identifiable by several Aegean-derived features in their material
+culture.78
 
-In fact, combining textual observations with the fact that
-Ugarit was clearly destroyed by fire, and that there are weapons
-in the debris, we may safely reiterate that although there may
-have been the seeds of decentralization at Ugarit, warfare and
-fighting almost certainly caused the final destruction, with
-external invaders as the likely culprits. This is a far different
-scenario from that envisioned by Sherratt and her like-minded
-colleagues. Whether these invaders were the Sea Peoples is uncertain, however, although it is intriguing that one of the texts
-at Ugarit specifically mentions the Shikila/Shekelesh, known from
-the Sea Peoples inscriptions of Merneptah and Ramses III.
+Most scholars agree with Finkelstein that the archaeological
+evidence seems to indicate that we should be looking primarily at
+the Aegean region, perhaps via the filter of western Anatolia and
+Cyprus as intermediate stops for some or most along the way,79
+rather than Sicily, Sardinia, and the Western Mediterranean for
+the origin of many of the Sea Peoples. However, Yasur-Landau
+suggests that if they were Mycenaeans, they were not those
+fleeing the ruins of their palaces, at Mycenae and elsewhere, just
+after those places were destroyed. He points out that there is no
+evidence of Linear B writing or other aspects of the wealthy palatial period from the thirteenth century BC on the Greek
+mainland at these Anatolian and Canaanite sites. Rather, the
+material culture of these settlers indicates that they were from
+“the rather humbler culture that came [immediately] afterward”
+during the early twelfth century BC. He also notes that some may
+even have been farmers rather than raiding warriors, looking to
+improve their lives by moving to a new area. Regardless, they
+were “an entire population of families on the move to a new
+home.”80 In any event, he believes that these migrants were not
+the cause of the collapse of the Late Bronze Age civilizations in
+this area but were instead “opportunists” who took advantage of
+the collapse to find themselves new homes.81
 
-In any event, even if decentralization and private individual
-merchants were an issue, it seems unlikely that they caused the
-collapse of the Late Bronze Age, at least on their own. Instead of
-accepting the idea that private merchants and their enterprises
-undermined the Bronze Age economy, perhaps we should
-consider the alternative suggestion that they simply emerged out
-of the chaos of the collapse, as was suggested by James Muhly of
-the University of Pennsylvania twenty years ago. He saw the
-twelfth century BC not as a world dominated by “sea raiders,
-pirates, and freebooting mercenaries,” but rather as a world of
-“enterprising merchants and traders, exploiting new economic
-opportunities, new markets, and new sources of raw materials.”64
-Out of chaos comes opportunity, at least for a lucky few, as
-always.
-
-
-## Was It The Sea Peoples And Where Did They Go?
-
-
-We come, finally, to a consideration of the Sea Peoples, who
-remain as enigmatic and elusive as ever. Whether they are seen as
-sea raiders or migrating populations, the archaeological and
-textual evidence both indicate that the Sea Peoples, despite their
-moniker, most likely traveled both by land and by sea—that is, by
-any means possible.
-
-Those proceeding by sea would most likely have hugged the
-coastline, perhaps even putting in to a safe harbor every evening.
-However, questions remain as to whether the enemy ships
-mentioned in the Ugaritic texts belonged to the Sea Peoples or to
-renegade members of their own kingdom, as implied in the letter 
-sent by Eshuwara, the governor of Alashiya.65 
-
-In this regard, we should take into account the letter just mentioned, from the
-House of Urtenu in Ugarit, that mentions the “Shikila people,”
-who, more likely than not, can be identified with the Shekelesh of
-the Egyptian records. 
-
-The letter was sent by the Hittite king, probably Suppiluliuma II, to the governor of Ugarit, and refers to
-a young king of Ugarit, who “does not know anything.” Singer,
-among other scholars, sees this as a probable reference to
-Ammurapi, who was the new king of Ugarit at the time. In the
-letter, the Hittite king says that he wishes to interview a man
-named Ibnadushu, who had been captured by the Shikila people
-“who live on ships,” in order to find out more information about
-these Shikila/Shekelesh.66 However, we do not know whether the
-interview ever took place or what else might have been learned
-from Ibnadushu.
-
-It is generally agreed that this document contains the only
-specific mention by name of the Sea Peoples outside of Egyptian
-records, although it has also been suggested that there might be
-others. The “enemy from the land of Alashiya” who attacked the
-last Hittite king, Suppiluliuma II, on land after he had fought
-three sea battles against Alashiyan (i.e., Cypriot) forces is possibly
-a reference to the Sea Peoples. So too is an inscription found at
-Hattusa in 1988, which may contain an indication that
-Suppiluliuma II was already fighting the Sea Peoples who had
-landed on the southern coast of Anatolia and were advancing
-north.
-
- Most documents and inscriptions, other than the Egyptian
-records, simply contain the more general phrase “enemy ships,”
-though, and do not specifically name the Sea Peoples.
-Those of the Sea Peoples who came by land possibly, and
-perhaps likely, proceeded along a predominantly coastal route,
-where the destruction of specific cities would have opened up
-entire new areas to them, in much the same way that Alexander
-the Great’s battles at the Granicus River, Issus, and Gaugamela
-opened up specific portions of the ancient Near East to his army almost a thousand years later. Assaf Yasur-Landau of the
-University of Haifa has suggested that some of the Sea Peoples
-could have begun their journey in Greece and passed through the
-Dardanelles to western Turkey/Anatolia. Others—perhaps most of
-them, he says—would simply have begun their journey at this
-point, perhaps joining those coming from the Aegean, with the
-route continuing along the southern coast of Turkey to Cilicia at
-its eastern end, and then down to the southern Levant via a route
-running along the coast. If they followed this route, they would
-have encountered the city of Troy, the kingdoms of Arzawa and
-Tarhuntassa in Anatolia, and the cities of Tarsus and Ugarit in
-southeastern Anatolia and northern Syria, respectively. Some or
-all of these sites do show signs of destruction and/or subsequent
-abandonment that occurred about the time that the Sea Peoples
-are presumed to have been active, but it is unclear whether they
-were actually responsible.68
+Yasur-Landau now takes issue with the traditional picture of a
+Philistine military takeover of Canaan. He says: “The
+circumstances of the settlement do not reflect a violent incursion.
+Recent discoveries at Ashkelon show that the migrants [actually]
+settled on a deserted site, on top of the unfinished remains of an
+Egyptian garrison…. There are no clear signs for any violent
+destruction at Ashdod … the signs of destruction described by the
+excavators [there] may be no more than evidence for cooking….
+At Ekron, the small Canaanite village … was indeed destroyed by
+fire, but … [was] replaced by another Canaanite village … before
+the arrival of the migrants.”82
 
 
-In fact, the archaeological evidence now seems to suggest that
-most of the sites in Anatolia were simply either completely or
-mostly abandoned at this time, rather than put to the torch by the
-Sea Peoples. We can speculate that if the international trade,
-transportation, and communication routes were disrupted by
-wars, famines, or other forces, the cities dependent upon these
-routes might have withered and died, with the result that their
-populations would have left gradually or fled rapidly, depending
-upon the speed of commercial and cultural decline. As one
-scholar has recently said, “while it is reasonable to assume that
-Cilicia and the Syrian coast were affected by the actions of the
-Sea Peoples, so far neither historical nor archaeological evidence
-for any kind of activity of the Sea Peoples in the Hittite
-homelands is attested … the real causes for the collapse of the
-Hittite state seem to be internal rather than external.”69
+Rather than a hostile military-style takeover, Yasur-Landau
+sees instead intercultural marriages and intercultural families,
+maintaining both Canaanite and Aegean traditions, mostly in the
+domestic arena. As he puts it, “material remains from early Iron
+Age Philistia reveal intricate, and predominantly peaceful,
+interactions between migrants and locals…. I would therefore
+venture to suggest that the general lack of violence connected
+with the foundation of the Philistine cities … and the co-existence
+of both Aegean and local cultural traditions indicate that these
+were joint foundations of Aegean migrants and local populations,
+rather than colonial enterprises.”83
+
+Other scholars agree, pointing out that, at most, the Philistines
+destroyed only the elite portions at some of the sites—the palace
+and its environs, for instance—and that the components that we
+now identify with the Philistines were “of a mixed nature and
+include features from the Aegean, Cyprus, Anatolia, Southeast
+Europe and beyond.”84 It does not appear that completely foreign
+elements simply replaced the previous Canaanite material culture
+lock, stock, and barrel (in terms of pottery, building practices,
+and so on); rather, what we now identify as Philistine culture
+may be the result of a hybridization and a mingling of different
+cultures, containing both the older local Canaanite and newer
+foreign intrusive elements.85
+In other words, although there is no question that there were
+new peoples entering and settling down in Canaan at this time, in
+this reconstruction the bogeyman specter of the invading Sea
+Peoples/Philistines has been replaced by a somewhat more
+peaceful picture of a mixed group of migrants in search of a new
+start in a new land. Rather than militant invaders intent only on
+destruction, they were more likely to have been refugees who did
+not necessarily always attack and conquer the local peoples but
+frequently simply settled down among them. Either way, they are
+unlikely, all by themselves, to have ended civilization in the
+Aegean and Eastern Mediterranean.86
 
 
-A prime example of assigning blame without proof is the
-recent claim related to the radiocarbon dating at Tell Tweini, the
-site of the Late Bronze Age harbor town of Gibala within the kingdom of Ugarit. Here, the laboratory results led the excavators
-and their colleagues to conclude that they have found evidence of
-destruction wreaked by the Sea Peoples, and to specifically date it
-to 1192–1190 BC.70 They state, without caveat: “The Sea Peoples
-were seaborne foes from different origins. They launched a
-combined land-sea invasion that destabilized the already
-weakened power base of empires and kingdoms of the old world,
-and attempted to enter or control the Egyptian territory. The Sea
-Peoples symbolize the last step of a long and complex spiral of
-decline in the ancient Mediterranean world.”71
+## ARGUMENTS FOR A SYSTEMS COLLAPSE
+
+In 1985, when Nancy Sandars published a revised edition of her
+classic book on the Sea Peoples, she wrote, “In the lands
+surrounding the Mediterranean, there have always been
+earthquakes, famines, droughts and floods, and in fact dark ages
+of a sort are recurrent.” Furthermore, she stated, “catastrophes
+punctuate human history but they are generally survived without
+too much loss. They are often followed by a much greater effort leading to greater success.”87 So what was different about this
+period, the end of the Late Bronze Age? Why didn’t the
+civilizations simply recover and carry on?
+
+As Sandars mused, “many explanations have been tried and
+few have stood. Unparalleled series of earthquakes, widespread
+crop-failures and famine, massive invasion from the steppe, the
+Danube, the desert—all may have played some part; but they are
+not enough.”88 She was correct. We must now turn to the idea of
+a systems collapse, a systemic failure with both a domino and a
+multiplier effect, from which even such a globalized
+international, vibrant, intersocietal network as was present during
+the Late Bronze Age could not recover.
+Colin Renfrew of Cambridge University, one of the most
+respected scholars ever to study the prehistoric Aegean region,
+had already suggested the idea of a systems collapse back in
+1979. At the time, he framed it in terms of catastrophe theory,
+wherein “the failure of a minor element started a chain reaction
+that reverberated on a greater and greater scale, until finally the
+whole structure was brought to collapse.”89 A potentially useful
+metaphor that comes to mind is the so-called butterfly effect,
+whereby the initial flapping of a butterfly’s wings may eventually
+result in a tornado or hurricane some weeks later on the other
+side of the world.90 We might, for example, cite the attack by the
+Assyrian king Tukulti-Ninurta I on the vaunted Hittite forces. His
+defeat of their army, at the end of the thirteenth century BC
+during Tudhaliya IV’s reign, may in turn have emboldened the
+neighboring Kashka to subsequently attack and burn the Hittite
+capital city of Hattusa.
+
+Renfrew noted the general features of systems collapse,
+itemizing them as follows: (1) the collapse of the central
+administrative organization; (2) the disappearance of the
+traditional elite class; (3) a collapse of the centralized economy;
+and (4) a settlement shift and population decline. It might take as
+much as a century for all aspects of the collapse to be completed, he said, and noted that there is no single, obvious cause for the
+collapse. Furthermore, in the aftermath of such a collapse, there
+would be a transition to a lower level of sociopolitical integration
+and the development of “romantic” Dark Age myths about the
+previous period. Not only does this fit the Aegean and the Eastern
+Mediterranean region ca. 1200 BC, but, as he pointed out, it also
+describes the collapse of the Maya, Old Kingdom Egypt, and the
+Indus Valley civilization at various points in time.91 As
+mentioned, such topics and discussions of “collapses” throughout
+history, and of the possibly cyclical rise and fall of empires, have
+subsequently been taken up by other scholars, most popularly and
+recently by Jared Diamond.
+
+Not surprisingly, not every scholar agrees with the idea of a
+systems collapse at the end of the Late Bronze Age. Robert Drews
+of Vanderbilt University, for instance, dismisses it out of hand
+because he does not think that it explains why the palaces and
+cities were destroyed and burned.93
+
+However, as we have seen, soon after 1200 BC, the Bronze
+Age civilizations collapsed in the Aegean, Eastern Mediterranean,
+and Near East, exhibiting all of the classic features outlined by
+Renfrew, from disappearance of the traditional elite class and a
+collapse of central administrations and centralized economies to
+settlement shifts, population decline, and a transition to a lower
+level of sociopolitical integration, not to mention the
+development of stories like those of the Trojan War eventually
+written down by Homer in the eighth century BC. More than the
+coming of the Sea Peoples in 1207 and 1177 BC, more than the
+series of earthquakes that rocked Greece and the Eastern
+Mediterranean during a fifty-year span from 1225 to 1175 BC,
+more than the drought and climate change that may have been
+ravaging these areas during this period, what we see are the
+results of a “perfect storm” that brought down the flourishing
+cultures and peoples of the Bronze Age—from the Mycenaeans and Minoans to the Hittites, Assyrians, Kassites, Cypriots,
+Mitannians, Canaanites, and even Egyptians.94
+
+I think that none of these individual factors would have been cataclysmic enough on their
+own to bring down even one of these civilizations, let alone all of
+them. 
+
+However, they could have combined to produce a scenario
+in which the repercussions of each factor were magnified, in what
+some scholars have called a “multiplier effect.”95 The failure of
+one part of the system might also have had a domino effect,
+leading to failures elsewhere. The ensuing “systems collapse”
+could have led to the disintegration of one society after another,
+in part because of the fragmentation of the global economy and
+the breakdown of the interconnections upon which each
+civilization was dependent.

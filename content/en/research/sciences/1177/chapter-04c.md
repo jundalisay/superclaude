@@ -1,158 +1,259 @@
 ---
-heading: Chapter 4c
-title: "Destructions In North Syria"
-weight: 84
+heading: Chapter 4e
+title: "Lachish"
+weight: 92
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
 
 
 
-The letters from the House of Urtenu showed that there was very little indication of trouble, apart from the mention of enemy ships in one letter, and that the trade routes seemed to be open right up until the end.
+Lachish, another site in modern Israel, also suffered 2 destructions during this period.
 
-The same was true in Emar, on the Euphrates River far to the east in inland Syria, where it has been noted that “the scribes
-were conducting normal business until the end.”23
+Here the seventh and sixth cities (Strata VII and VI) are identified as the last Canaanite cities, based on the material remains found during the excavations. 
 
-However, Ugarit was destroyed, apparently quite violently,
-during the reign of King Ammurapi, most likely between 1190 and
-1185 BC.
+This was a period of great prosperity for Lachish, during the period of Egyptian control of the region.
 
-It was not reoccupied until the Persian period, approximately 650 years later.24 The excavators report “evidence
-of destruction and fire throughout the city,” including “collapsed walls, burnt pisé plaster, and heaps of ashes,” with a destruction
-level that reached two meters high in places.
+It was one of the largest cities in all of Canaan at that time, with some six thousand people living in its territory, and large temples and public buildings within the city itself.49
+
+The Stratum VII city is thought to have been destroyed by fire in about 1200 BC, but the excavators have not speculated as to the nature of the destruction or who might have been responsible. In part, this is because it is unclear how much of the city was actually destroyed. At the moment, evidence for a fiery destruction has been found in only the remains of one temple (the so-called Fosse III Temple) and the domestic quarter in Area S.50 It is conceivable that the destruction could have been caused by the first wave of Sea Peoples, who came through the region in approximately 1207 BC, but there is no proof for such an attribution.
+
+The Stratum VI city has been the major focus of scholarly attention to date. It appears that the survivors of the Stratum VII
+conflagration simply rebuilt all or part of the city and continued
+the same material culture that had existed previously. 
+
+The Stratum 6 city is thought to have been an even richer and more
+prosperous city than the one that had just been destroyed, with a
+large public building (the Pillared Building) constructed in Area S
+where domestic structures had previously stood. 
+
+A new temple was also built, in Area P, but little remains of it because of the
+destruction that it subsequently suffered. Imported objects from
+Egypt, Cyprus, and the Aegean, primarily pottery vessels, were
+found throughout the city in this level, attesting to its
+international connections.
+
+An influx of poor refugees into the Stratum VI city just before large portions of it were violently
+destroyed.52 One structure in particular, the Pillared Building in
+Area S, “was destroyed suddenly and violently; ash layers and
+fallen mudbricks covered the whole structure, and several
+skeletons of adults, children and babies were found trapped under
+the collapsed wall.”
+
+Other buildings at Lachish were also destroyed at this time, after which there ensued a period of
+abandonment lasting up to three hundred years.54 According to
+Ussishkin: “The Level VI city was razed in a violent, fiery destruction, traces of which were detected at every point at which
+remains of Level VI were uncovered…. 
+
+The destruction was complete, the population liquidated or driven out.”
+
+Earlier archaeologists thought that the city had been destroyed
+in the late thirteenth century BC, ca. 1230 BC (with the Stratum
+VII city devastated even earlier),56 but the date of the destruction
+of Stratum VI has now been changed significantly by Ussishkin,
+primarily based on the discovery of a bronze plaque, possibly part
+of a door bolt, with the cartouche of Ramses III. 
+
+This plaque was part of a cache of broken or defective bronze objects lying buried
+and sealed beneath the destruction debris of the Stratum VI city.
+
+Just as with the Ramses III pen case at Megiddo, the find context of this object at Lachish indicates that the destruction of
+the city must have taken place during or after the time of Ramses
+III.
+
+Ussishkin therefore originally dated the destruction to ca. 1150 BC, based on the fact that the bronze plaque could not have been
+made before the accession of Ramses III to the throne in 1184 BC,
+and his belief that one must allow time for it “to have been used,
+then broken and finally discarded and set aside in this cache of
+defective or broken bronze objects.”
+
+He subsequently revised the date to 1130 BC, based upon the
+discovery that a scarab of Ramses IV had been found at the site,
+probably in this level, by the previous British excavators, and
+upon comparison with Megiddo VII: he argued that if Megiddo
+had lasted that long, then so probably had Lachish.59 
+
+Another scholar has recently noted that there is another possible scarab of
+Ramses IV in Tomb 570 at Lachish, but he has also emphasized
+that the reading of the name on both scarabs is not actually
+certain, and that the stratigraphy for the find-spot of the first one
+is not completely clear.
+
+Thus, once again, just as with the other sites at which we have
+looked, it is not at all clear who, or what, caused the destruction,
+or even when it happened at Lachish; all we can actually say with
+confidence is that it took place during or after the reign of Ramses 3rd. 
+
+As Ussishkin states, “The evidence points to the devastation of
+Level VI by a strong and resolute enemy, but the archaeological
+data provide no direct clue as to the nature and identity of that
+enemy or to the immediate circumstances surrounding the city’s
+downfall.”61 He notes that three candidates have been proposed by
+previous scholars: the Egyptian army, the Israelite tribes, and the
+invading Sea Peoples, but he also notes that “no remains of a
+battle were uncovered, apart from a single bronze arrowhead …
+uncovered in the Pillared Building in Area S.”62
+
+It is unlikely that the Egyptians caused the destruction, for
+Lachish was prospering during this period of their overlordship
+and was actively trading with them, as shown by the several items
+with royal cartouches inscribed upon them that were found in the
+ruins. It is still possible that the destruction was caused by the
+Israelites under Joshua, as William F. Albright of Johns Hopkins
+University thought, although that was when the destruction was
+believed to date to ca. 1230 BC.
 
 
-The destruction is believed to be caused by enemy attack rather than an earthquake, as had previously been suggested by
-Schaeffer, and that there was violent fighting in the city, including
-street fighting. 
+However, Ussishkin identifies the Sea Peoples as the most
+likely agents of destruction for the city of Stratum VI. In this he is
+following Olga Tufnell, a previous excavator of Lachish.64 Yet he
+presents no evidence that it was actually the Sea Peoples who
+were responsible; we simply see the end result of the destruction,
+with no indication as to who brought it about. Moreover, a date of
+1130 BC would seem to be far too late for the Sea Peoples, by
+approximately four decades, just as with the destruction at
+Megiddo. We should note that Ussishkin may be incorrect in
+linking the destruction of Lachish to that of Megiddo and placing
+it that late; there is no good reason to link the two, and so it may
+be that his original date of ca. 1150 BC (or possibly even earlier, if
+the Ramses III bronze bolt was not in use for very long) should be
+embraced instead.
 
-This, she says, is indicated by “the presence of
-numerous arrowheads dispersed throughout the destroyed or
-abandoned ruins,” as well as the fact that the inhabitants—eight
-thousand, more or less—fled in haste and did not return, not even
-to collect the hoards of valuables that some had buried before
-leaving.
+It is also possible that a massive earthquake caused the
+destruction of the Stratum VI city. The bodies of the four people
+killed in the Pillared Building were found “apparently trapped and crushed under falling debris while trying to escape it.” A child of
+two–three years had “either been thrown down on its face or had
+died while crawling along the ground,” while an infant “had been
+thrown or had fallen to the ground.”65 These observations,
+combined with the fact that no weapons were found in the debris,
+point to Mother Nature rather than humans as the responsible
+agent, as may also have been the case at other sites toward the
+end of the Late Bronze Age.66 Arguing against this hypothesis is
+the fact that no other evidence for an earthquake, such as cracked
+or tilted walls, was found by the excavators. Moreover, the new
+Canaanite temple built in Area P seems to have been pillaged and
+looted before its destruction by fire, which would seem to indicate
+human involvement.
 
-The most conclusive evidence of the date was a letter found within the House of Urtenu. The letter was sent to Ammurapi, the king of Ugarit, by an Egyptian chancellor named
-Bey who, we know from Egyptian sources, was executed in the fifth year of Pharaoh Siptah. Siptah was the penultimate pharaoh
-of the Nineteenth Dynasty in Egypt, who ruled ca. 1195–1189 BC,
-that is, just a few years before Ramses III of the Twentieth Dynasty.
+In summary, as with Hazor and Megiddo, it is unclear who
+destroyed Lachish VI or the earlier city of Lachish VII. Both, or
+neither, could have been devastated by the Sea Peoples, or by
+someone—or something—else entirely. 
 
-The letter is dated before Bey was executed in 1191 BC, which means that the destruction of the city cannot have taken place before this
-date. Thus, the destruction of the city is usually dated to 1190–1185 BC, though technically it could have been even later.
+As James Weinstein of
+Cornell University has said, “while the Sea Peoples may have been
+culpable for the end of Egyptian garrisons in southern and western
+Palestine, we must allow for the possibility that non–Sea Peoples’
+groups were responsible for the ruin of sites in other areas of the
+country.”
 
-A recent article has pointed out that this date can now be
-corroborated, on the basis of an astronomical observation found
-on another tablet at Ugarit. This records an eclipse of the sun that
-can be dated to January 21, 1192 BC, which also means that the
-city cannot have been destroyed before this date.27
 
-Contrary to previous popular accounts concerning the end of
-Ugarit,28 we probably cannot use the famous letter from the
-Southern Archive, found in Court V of the palace at Ugarit, either
-to date the destruction or to identify the destroyers. This was the
-letter that Schaeffer thought had been found in a kiln, before its
-dispatch to the king of Cyprus. It begins: “My father, now the
-ships of the enemy have come. They have been setting fire to my
-cities and have done harm to the land.” According to the original
-report, it was found in a kiln, along with more than seventy other
-tablets, where it had been placed for baking. The excavators and
-other scholars initially hypothesized that the enemy ships had
-returned and sacked the city before the urgent request for
-assistance could be dispatched, and this is the story that has been
-repeated over and over in scholarly and popular accounts from the
-past several decades. However, a recent reexamination of the findspot by additional researchers now indicates that it was not found
-in a kiln after all, but rather was probably stored within a basket
-that had fallen from the second floor after the building was
-abandoned.29
 
-As a result, although the letter can be used to discuss the
-presence of enemy ships and probably invaders, it is not clear
-whether it dates to the final days of Ugarit or to some slightly
-earlier period. And even if it is a reference to ships of the Sea
-Peoples, it is possible that it dates to the first wave of invaders,
-those who attacked Egypt in 1207 BC, rather than to the second
-wave who fought against Ramses III in 1177 BC.
 
-The site of Emar in inland Syria, with which Ugarit was in
-contact, was also destroyed at approximately the same time, in
-1185 BC, as we know from the date given on a legal document
-found there. However, it is not clear who caused the destruction at
-Emar. Tablets found there refer to unnamed “hordes” but do not
-point specifically to the Sea Peoples, as various scholars have
-noted.30
 
-The site of Ras Bassit, located on the northern border of Ugarit,
-was also destroyed at approximately this same time. The excavators believe it was an outpost of Ugarit and state that by
-approximately 1200 BC it was “partly evacuated, partly
-abandoned, then set on fire, just like the other sites of the region.”
-They attribute this destruction to the Sea Peoples, but the
-attribution is not definitive.31
+Of particular interest are the sites in southern Canaan, including
+those identified in the Bible and elsewhere as belonging to the socalled Philistine pentapolis, the five major Philistine sites:
+Ashkelon, Ashdod, Ekron, Gath, and Gaza.
 
-A similar situation has been described at Ras Ibn Hani, on the
-coast just to the south of Ugarit, which is thought to have been a
-secondary residence of the Ugaritic kings during the thirteenth
-century. The excavators and others envision this site as having
-been evacuated shortly before the destruction of Ugarit and then
-destroyed by the Sea Peoples. At least part of the site was
-immediately reoccupied, as was Ras Bassit, and it is on the basis of
-the pottery found in these reoccupation levels that the destroyers,
-and reoccupiers, of both sites are identified by the excavators as
-the Sea Peoples, a matter that we shall discuss further below.32
-Perhaps the best, and certainly the most recent, evidence for
-widespread destruction at this time has been found at Tell Tweini,
-the site of the Late Bronze Age harbor town of Gibala within the
-kingdom of Ugarit, located about thirty kilometers south of the
-modern city of Lattakia. Here, the site was abandoned after a
-“severe destruction” at the end of the Late Bronze Age. According
-to the excavators, “The destruction layer contains remains of
-conflicts (bronze arrowheads scattered around the town, fallen
-walls, burnt houses), ash from the conflagration of houses, and
-chronologically well-constrained ceramic assemblages fragmented
-by the collapse of the town.”33
+At the end of the Late Bronze Age, the earlier Canaanite cities at Ekron and Ashdod were violently destroyed and replaced with new settlements in which there was an almost complete change in material culture, including pottery, hearths, bathtubs, kitchenware, and architecture.
 
-By dating this destruction layer using “stratified radiocarbonbased archaeology” and “anchor points in ancient epigraphicliterary sources, Hittite-Levantine-Egyptian kings and astronomical observations,” the excavators say that they have finally been able
-“to precisely date the Sea People invasion in [the] northern
-Levant,” and to “offer the first firm chronology for this key period
-in human society.”34 The radiocarbon dates from the widespread
-ash layer (Level 7A) came back from the lab as dating specifically to ca. 1192–1190 BC.35 However, while they may well have dated
-the destruction of this Late Bronze Age site, the excavators have
-offered only circumstantial evidence that the destruction was
-wreaked by the Sea Peoples, as we will discuss below.
+This indicated either a change in population or a significant influx of new people—presumably the Philistines—following the collapse of Canaan and the withdrawal of Egyptian forces from the area.
 
-It is also relevant to point out that this date (1192–1190 BC) is
-fully thirteen to fifteen years before Ramses III meets the Sea
-Peoples in battle in 1177 BC. Even the destructions elsewhere that
-are dated to 1185 BC are still eight years before the culminating
-conflict. Perhaps we should be wondering just how long it would
-have taken such a proposed migratory group to make its way
-across the Mediterranean, or even just down the coast of the
-Levant to Egypt. This, though, would obviously depend upon their
-organizational ability, means of transportation, and ultimate goals,
-among other factors, and cannot readily be answered.
+Trude Dothan, professor emerita at the Hebrew University of Jerusalem and former codirector of the Ekron excavations says:
 
-Finally, we should also consider a site farther to the south, Tell
-Kazel, which was located in the region of Amurru, and which may
-have been the site of ancient Ṣumur, Ṣ the capital city of that
-kingdom. The site was destroyed at the end of the Late Bronze Age
-and the excavators have plausibly hypothesized that the Sea
-Peoples destroyed it, especially insofar as Ramses III specifically
-mentions it (that is, Amurru) in his Sea Peoples inscriptions. 
+“In Field I, the upper city or acropolis, we
+could follow the total destruction of the last Late Bronze Age
+Canaanite city by fire. Here the destruction is evident: the remains
+of a large mud-brick storage building, traces of figs and lentils in
+storage jars, and a large well-preserved silo are buried under the
+collapsed mud-bricks…. 
 
-Yet, in the occupation level just prior to the destruction, the excavators
-have identified what appears to be locally produced Mycenaean
-pottery and other indications of new inhabitants from the Aegean
-and Western Mediterranean.36 Thus, Reinhard Jung of the
-University of Vienna, who has studied this pottery, has
-hypothesized that “prior to the large Sea Peoples’ destruction,
-smaller groups of people arrived by ship at Tell Kazel and settled
-together within the local population.” He sees this as a pattern of
-small-scale immigration from the Aegean, but with indications
-that some of the people involved had earlier roots in southern
-continental Italy.37 If correct, this is an indication of the
-complexity of the period and of the people potentially involved,
-even to the point that destructions caused by the second wave of Sea Peoples, ca. 1177 BC, may have impacted earlier immigrants
-from the same origins who had already arrived and settled in the
-Eastern Mediterranean, perhaps during or after the original Sea
-Peoples incursions in the fifth year of Merneptah, back in 1207
-BC.
+The new Philistine city lies flush on the destruction of the Late Bronze Age settlement in the upper city
+and on the open fields of the Middle Bronze Age lower city.”70
+
+A similar situation seems to have arisen at Ashkelon, where
+recent excavations have documented the transformation of the
+settlement from an Egyptian garrison to a Philistine seaport
+sometime during the first half of the twelfth century BC—probably
+just after the reign of Ramses III, to judge from the several scarabs
+with his cartouche that have been found. 
+
+In Ashkelon, however,
+the transition appears to have been peaceful, at least insofar as
+one can tell from the limited area that has been exposed to date.
+
+The excavators have described the “sudden appearance of new
+cultural patterns expressed in architecture, ceramics, diet, and
+crafts, particularly weaving.” They connect these changes to the
+Sea Peoples, specifically the Philistines, and describe them as the
+result of migrations from the Mycenaean world.
+
+However, our understanding of this situation in Canaan at the
+end of the Late Bronze Age may still be evolving. Although the
+classic 1995 article on the coming of the Philistines to Canaan by
+Larry Stager of Harvard University describes the Philistines as
+“destroy[ing] indigenous cities and supplant[ing] them with their
+own in the four corners of the territory they conquered,” Assaf Yasur-Landau of the University of Haifa has recently taken issue
+with this traditional picture, as we shall see below.
+
+
+## Destructions In Mesopotamia
+
+Even as far to the east as Mesopotamia, evidence of destruction
+can be seen at multiple sites including Babylon, but these were
+clearly caused by forces other than the Sea Peoples. We know
+specifically that the Elamite army, once again marching from
+southwestern Iran, this time under the command of their king
+Shutruk-Nahhunte, caused at least some of this devastation.
+
+
+Shutruk-Nahhunte had come to the Elamite throne in 1190 BC
+and ruled until 1155 BC. Although Elam (like the other kingdoms
+in the region) seems to have been a fairly minor player on the
+world stage during most of the Late Bronze Age, it was connected
+to some of the great kingdoms through marriage. ShutrukNahhunte was married to the daughter of a Kassite Babylonian
+king, just as many of his predecessors had been. 
+
+One had married the daughter of Kurigalzu I back in the fourteenth century BC;
+another had married Kurigalzu’s sister; and another had married
+the daughter of Burna-Buriash later that same century. ShutrukNahhunte’s own mother was a Kassite princess, as he tells us in a
+letter that he wrote to the Kassite court, and which the German
+excavators found at Babylon.
+
+In that letter, he complains that he had been passed over for
+the Babylonian throne, despite being fully qualified for the
+position, including by birth. His indignation is palpable as he
+writes: “Why I, who am a king, son of a king, seed of a king, scion
+of a king, who am king for the lands, the land of Babylonia and for
+the land of E[lam], descendant of the eldest daughter of mighty
+King Kurigalzu, [why] do I not sit on the throne of the land of
+Babylonia?” He then threatened revenge, saying that he would
+“destroy your cities, dem[olish] your fortresses, stop up your [irrigation] ditches, cut down your orchards,” and proclaiming,
+“You may climb up to heaven, [but I’ll pull you down] by your
+hem, you may go down to hell, [but I’ll pull you up] by your
+hair!”
+
+He made good on his threats in 1158 BC, invading Babylonia,
+capturing the city and overthrowing the Kassite king, and then
+placing his own son on the throne. He also, most famously,
+brought back to the Elamite city of Susa massive amounts of booty
+from Babylon, including a diorite stele, nearly eight feet tall,
+inscribed with the law code of Hammurabi, as well as a victory
+monument of the even-earlier Akkadian king Naram-Sin, and
+numerous other items. These were subsequently discovered in
+1901 during the French excavations at Susa and sent to Paris,
+where they are now displayed in the Louvre.
+
+Shutruk-Nahhunte’s campaign was apparently motivated by his
+desire for the kingdom and territory of Babylon and Babylonia,
+and he may well have taken advantage of the turmoil in the
+Eastern Mediterranean at the time. Quite possibly he knew that
+there was almost nobody to whom the Kassite king could turn for
+assistance. The subsequent campaigns in Mesopotamia undertaken
+by Shutruk-Nahhunte’s son and grandson were very likely also
+influenced by the fact that the Great Powers of the previous
+centuries were either no longer in existence or much weakened.
+However, it is clear that none of the destruction associated with
+these military activities can be attributed to the Sea Peoples.
+
+

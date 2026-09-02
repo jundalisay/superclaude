@@ -2,7 +2,8 @@
 heading: Chapter 1e
 title: "Egypt And Canaan At The Battle Of Megiddo, 1479 Bc"
 weight: 17
-# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+image: "/photos/old/colossi.jpg"
+description: ""
 c: darkslategray
 ---
 
@@ -138,4 +139,5 @@ were so cordial that Amenhotep married not one but two
 Mitannian princesses.
 
 Mitanni, Assyria, Egyptians. The world was already growing more interconnected, even if sometimes only in war.
+
 

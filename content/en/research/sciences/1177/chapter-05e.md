@@ -1,250 +1,344 @@
 ---
 heading: Chapter 5e
 title: Decentralization And The Rise Of The Private Merchant
-weight: 142
+weight: 148
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
 
 
 
-The city was destroyed at about the time identified by the excavators.
+In 1987, Mario Liverani of the University of Rome, laid the blame upon the concentration of power and control in the palaces. When they collapsed, the extent of the disaster
+was magnified. 
 
-The excavators have not proven a role for the Sea Peoples for its destruction. 
+<!-- As he wrote, “the particular concentration in the
+Palace of all the elements of organization, transformation,
+exchange, etc.—a concentration which seems to reach its
+maximum in the Late Bronze Age—has the effect of transforming
+the physical collapse of the Palace into a general disaster for the
+entire kingdom.”96 In other words, to put it in modern investment
+terms, the Bronze Age rulers in the Aegean and the Near East
+should have diversified their portfolios, but they did not. -->
 
-They simply point out that the material culture of the settlement that was established on the
-tell after the destruction includes “the appearance of Aegean-type
-architecture, locally-made Mycenaean IIIC Early pottery, handmade burnished pottery, and Aegean-type loam-weights.”72 As
-they state, “these materials, also known from Philistine
-settlements, are cultural markers of foreign settlers, most
-probably the Sea Peoples.”73 While Tweini could be the best
-example yet of a site possibly destroyed and then resettled by the
-Sea Peoples, we cannot say so with absolute certainty. 
+Two decades later, Christopher Monroe cited Liverani’s work and suggested that the economy of the Late Bronze Age became unstable because of its increasing dependency on bronze and
+other prestige goods. Specifically, he saw “capitalist enterprise”— in which he included long-distance trade, and which dominated the palatial system present in the Late Bronze Age—as having
+transformed traditional Bronze Age modes of exchange, production, and consumption to such an extent that when external invasions and natural catastrophes combined in a
+“multiplier effect,” the system was unable to survive.97
 
-We can further speculate that in at least some cases groups
-designated as the Sea Peoples might have entered the vacuum
-created by the destruction and/or abandonment of the cities,
-whether caused by themselves or others, and settled down
-without moving on, eventually leaving their artifacts behind them, as may have been the case at Tweini. In such
-circumstances, these Sea Peoples are likely to have occupied
-primarily, although not exclusively, the coastal cities, including
-sites like Tarsin and Mersin on the coast of southeastern Anatolia.
-The same may be true for the region now on the border between
-southwestern Turkey and northern Syria, in the area of Tell
-Ta’yinat, which recent evidence suggests became known as the
-“Land of Palistin” during the Iron Age.74
+Monroe describes the interactions of the various powers in the Aegean and Eastern Mediterranean as an “intersocietal network,” which agrees with the picture
+presented here. He points out, as I have, that this period is “exceptional in the treaties, laws, diplomacy, and exchange that
+created the first great international era in world history.”
 
-In fact, there are traditions, especially literary traditions,
-which specifically state that the Sea Peoples settled Tel Dor, in
-the north of what is now modern Israel. For example, the
-Egyptian story called “The Report of Wenamun,” which dates to
-the first half of the eleventh century BC, refers to Dor as a town
-of the Tjekker or Sikils (Shekelesh). Another Egyptian text, the
-“Onomasticon of Amenemope,” which dates to ca. 1100 BC, lists
-the Shardana, the Tjekker, and the Peleset, and also mentions the
-sites of Ashkelon, Ashdod, and Gaza (three of the five sites
-considered to be part of the Philistine “pentapolis”). Sites along
-the Carmel Coast and in the Akko Valley, as well as perhaps Tel
-Dan, have also been suggested as having been settled by the Sea
-Peoples, such as the Shardana and the Danuna. At many of these
-sites, including those with occupation levels designated as
-“Philistine,” such as at Ashdod, Ashkelon, Gaza, Ekron, and
-elsewhere, degenerate Aegean-style pottery and other cultural
-identifiers have been found.75 These may well be the only
-physical remains that we have of the elusive Sea Peoples, but the
-archaeological remains at many of these sites, and even farther
-north, seem to have more direct connections with Cyprus than
-with the Aegean. Nevertheless, there are clear links to nonCanaanite peoples in the twelfth century BC.76
-Interestingly, there seem to be no such remains, nor any such
-destruction, in the area that came to be known as Phoenicia, in
-what is now modern Lebanon. Despite scholarly discussions, it is
-still unclear why this should be so, or whether it is simply an 
-illusion caused by the relative lack of excavation here, compared
-to the other coastal regions of the Near East.77
+However, most interestingly, Monroe further notes that such networks have ways of postponing the inevitable collapse, which
+comes to all societies eventually. 
 
-Among the many scenarios suggested to explain the final days
-of the Late Bronze Age in the Aegean and Eastern Mediterranean,
-the proposal made by Israel Finkelstein of Tel Aviv University a
-decade ago still seems most likely. He argues that the migration
-of the Sea Peoples was not a single event but a long process
-involving several phases, with the first phase starting in the early
-years of Ramses III, ca. 1177 BC, and the last phase ending during
-the time of Ramses VI, ca. 1130 BC. He says specifically that
-despite the description in the Egyptian texts of a single event, the migration of
-the Sea Peoples was at least a half-century-long process that had several
-phases…. It may have started with groups that spread destruction along the
-Levantine coast, including northern Philistia, in the beginning of the twelfth
-century and that were defeated by Ramesses III in his eighth year. Consequently,
-some of them were settled in Egyptian garrisons in the delta. Later groups of Sea
-Peoples, in the second half of the twelfth century, succeeded in terminating
-Egyptian rule in southern Canaan. After destroying the Egyptian strongholds …
-they settled in Philistia and established their major centers at Ashdod, Ashkelon,
-Tel Miqne, and other places. These people—the Philistines of the later biblical
-text—are easily identifiable by several Aegean-derived features in their material
-culture.78
+As he says, “revolts are quelled, raw materials are found, new markets are opened, price controls are put into effect, merchants’ properties are confiscated,
+embargoes [are] placed, and war is waged.”99 He also says, though, that “generally the rulers of the core power or powers treat the symptoms rather than the causes of instability,” and
+concludes that the “violent destruction of the Late Bronze palatial civilization, as attested in the textual and archaeological record, was, like many collapses, the inevitable result of limited foresight.”
 
-Most scholars agree with Finkelstein that the archaeological
-evidence seems to indicate that we should be looking primarily at
-the Aegean region, perhaps via the filter of western Anatolia and
-Cyprus as intermediate stops for some or most along the way,79
-rather than Sicily, Sardinia, and the Western Mediterranean for
-the origin of many of the Sea Peoples. However, Yasur-Landau
-suggests that if they were Mycenaeans, they were not those
-fleeing the ruins of their palaces, at Mycenae and elsewhere, just
-after those places were destroyed. He points out that there is no
-evidence of Linear B writing or other aspects of the wealthy palatial period from the thirteenth century BC on the Greek
-mainland at these Anatolian and Canaanite sites. Rather, the
-material culture of these settlers indicates that they were from
-“the rather humbler culture that came [immediately] afterward”
-during the early twelfth century BC. He also notes that some may
-even have been farmers rather than raiding warriors, looking to
-improve their lives by moving to a new area. Regardless, they
-were “an entire population of families on the move to a new
-home.”80 In any event, he believes that these migrants were not
-the cause of the collapse of the Late Bronze Age civilizations in
-this area but were instead “opportunists” who took advantage of
-the collapse to find themselves new homes.81
-
-Yasur-Landau now takes issue with the traditional picture of a
-Philistine military takeover of Canaan. He says: “The
-circumstances of the settlement do not reflect a violent incursion.
-Recent discoveries at Ashkelon show that the migrants [actually]
-settled on a deserted site, on top of the unfinished remains of an
-Egyptian garrison…. There are no clear signs for any violent
-destruction at Ashdod … the signs of destruction described by the
-excavators [there] may be no more than evidence for cooking….
-At Ekron, the small Canaanite village … was indeed destroyed by
-fire, but … [was] replaced by another Canaanite village … before
-the arrival of the migrants.”82
+I am in agreement with Monroe up until this last point, for I do not think that we are justified in blaming the collapse simply
+on “limited foresight,” given the multiple probable factors explored above, which the ancient leaders could not possibly
+have completely predicted. An unanticipated systems collapse— quite possibly triggered by climate change, as hypothesized
+recently by Brandon Drake and the team led by David Kaniewski,101 or precipitated by earthquakes or invasion—seems
+much more likely, but Monroe’s words might serve as something
+of a warning for us today, for his description of the Late Bronze
+Age, especially in terms of its economy and interactions, could
+well apply to our current globalized society, which is also feeling
+the effects of climate change.
 
 
-Rather than a hostile military-style takeover, Yasur-Landau
-sees instead intercultural marriages and intercultural families,
-maintaining both Canaanite and Aegean traditions, mostly in the
-domestic arena. As he puts it, “material remains from early Iron
-Age Philistia reveal intricate, and predominantly peaceful,
-interactions between migrants and locals…. I would therefore
-venture to suggest that the general lack of violence connected
-with the foundation of the Philistine cities … and the co-existence
-of both Aegean and local cultural traditions indicate that these
-were joint foundations of Aegean migrants and local populations,
-rather than colonial enterprises.”83
 
-Other scholars agree, pointing out that, at most, the Philistines
-destroyed only the elite portions at some of the sites—the palace
-and its environs, for instance—and that the components that we
-now identify with the Philistines were “of a mixed nature and
-include features from the Aegean, Cyprus, Anatolia, Southeast
-Europe and beyond.”84 It does not appear that completely foreign
-elements simply replaced the previous Canaanite material culture
-lock, stock, and barrel (in terms of pottery, building practices,
-and so on); rather, what we now identify as Philistine culture
-may be the result of a hybridization and a mingling of different
-cultures, containing both the older local Canaanite and newer
-foreign intrusive elements.85
-In other words, although there is no question that there were
-new peoples entering and settling down in Canaan at this time, in
-this reconstruction the bogeyman specter of the invading Sea
-Peoples/Philistines has been replaced by a somewhat more
-peaceful picture of a mixed group of migrants in search of a new
-start in a new land. Rather than militant invaders intent only on
-destruction, they were more likely to have been refugees who did
-not necessarily always attack and conquer the local peoples but
-frequently simply settled down among them. Either way, they are
-unlikely, all by themselves, to have ended civilization in the
-Aegean and Eastern Mediterranean.86
+## A Review Of Possibilities And Complexity Theory
+
+### Major Observations
+
+1. Separate flourishing civilizations during the 15th to 13th centuries BC in the Aegean and Eastern Mediterranean, from the
+Mycenaeans and the Minoans to the Hittites, Egyptians, Babylonians, Assyrians, Canaanites, and Cypriots. 
+
+These were independent but consistently interacted with each
+other, especially through international trade routes.
+
+2. Many cities were destroyed and that the Late Bronze Age civilizations and life as the inhabitants knew it in the Aegean, Eastern Mediterranean, Egypt, and the Near
+East came to an end ca. 1177 BC or soon thereafter.
+
+3. No unequivocal proof has been offered as to who or what caused this disaster, which resulted in the collapse of these
+civilizations and the end of the Late Bronze Age.
 
 
-## ARGUMENTS FOR A SYSTEMS COLLAPSE
+### Discussion of Possibilities
 
-In 1985, when Nancy Sandars published a revised edition of her
-classic book on the Sea Peoples, she wrote, “In the lands
-surrounding the Mediterranean, there have always been
-earthquakes, famines, droughts and floods, and in fact dark ages
-of a sort are recurrent.” Furthermore, she stated, “catastrophes
-punctuate human history but they are generally survived without
-too much loss. They are often followed by a much greater effort leading to greater success.”87 So what was different about this
-period, the end of the Late Bronze Age? Why didn’t the
-civilizations simply recover and carry on?
+A. There were earthquakes during this period, but usually societies can recover from these.
 
-As Sandars mused, “many explanations have been tried and
-few have stood. Unparalleled series of earthquakes, widespread
-crop-failures and famine, massive invasion from the steppe, the
-Danube, the desert—all may have played some part; but they are
-not enough.”88 She was correct. We must now turn to the idea of
-a systems collapse, a systemic failure with both a domino and a
-multiplier effect, from which even such a globalized
-international, vibrant, intersocietal network as was present during
-the Late Bronze Age could not recover.
-Colin Renfrew of Cambridge University, one of the most
-respected scholars ever to study the prehistoric Aegean region,
-had already suggested the idea of a systems collapse back in
-1979. At the time, he framed it in terms of catastrophe theory,
-wherein “the failure of a minor element started a chain reaction
-that reverberated on a greater and greater scale, until finally the
-whole structure was brought to collapse.”89 A potentially useful
-metaphor that comes to mind is the so-called butterfly effect,
-whereby the initial flapping of a butterfly’s wings may eventually
-result in a tornado or hurricane some weeks later on the other
-side of the world.90 We might, for example, cite the attack by the
-Assyrian king Tukulti-Ninurta I on the vaunted Hittite forces. His
-defeat of their army, at the end of the thirteenth century BC
-during Tudhaliya IV’s reign, may in turn have emboldened the
-neighboring Kashka to subsequently attack and burn the Hittite
-capital city of Hattusa.
+B. There is textual evidence for famine, and now scientific evidence for droughts and climate change, in both the
+Aegean and the Eastern Mediterranean, but again societies have recovered from these time and time again.
 
-Renfrew noted the general features of systems collapse,
-itemizing them as follows: (1) the collapse of the central
-administrative organization; (2) the disappearance of the
-traditional elite class; (3) a collapse of the centralized economy;
-and (4) a settlement shift and population decline. It might take as
-much as a century for all aspects of the collapse to be completed, he said, and noted that there is no single, obvious cause for the
-collapse. Furthermore, in the aftermath of such a collapse, there
-would be a transition to a lower level of sociopolitical integration
-and the development of “romantic” Dark Age myths about the
-previous period. Not only does this fit the Aegean and the Eastern
-Mediterranean region ca. 1200 BC, but, as he pointed out, it also
-describes the collapse of the Maya, Old Kingdom Egypt, and the
-Indus Valley civilization at various points in time.91 As
-mentioned, such topics and discussions of “collapses” throughout
-history, and of the possibly cyclical rise and fall of empires, have
-subsequently been taken up by other scholars, most popularly and
-recently by Jared Diamond.
+C. There may be circumstantial evidence for internal rebellions in Greece and elsewhere, including the Levant,
+although this is not certain. Again, societies frequently
+survive such revolts. Moreover, it would be unusual
+(notwithstanding recent experience in the Middle East to
+the contrary) for rebellions to occur over such a wide area
+and for such a prolonged period of time.
 
-Not surprisingly, not every scholar agrees with the idea of a
-systems collapse at the end of the Late Bronze Age. Robert Drews
-of Vanderbilt University, for instance, dismisses it out of hand
-because he does not think that it explains why the palaces and
-cities were destroyed and burned.93
+D. There is archaeological evidence for invaders, or at least newcomers probably from the Aegean region, western
+Anatolia, Cyprus, or all of the above, found in the Levant from Ugarit in the north to Lachish in the south. Some of
+the cities were destroyed and then abandoned; others were
+reoccupied; and still others were unaffected.
 
-However, as we have seen, soon after 1200 BC, the Bronze
-Age civilizations collapsed in the Aegean, Eastern Mediterranean,
-and Near East, exhibiting all of the classic features outlined by
-Renfrew, from disappearance of the traditional elite class and a
-collapse of central administrations and centralized economies to
-settlement shifts, population decline, and a transition to a lower
-level of sociopolitical integration, not to mention the
-development of stories like those of the Trojan War eventually
-written down by Homer in the eighth century BC. More than the
-coming of the Sea Peoples in 1207 and 1177 BC, more than the
-series of earthquakes that rocked Greece and the Eastern
-Mediterranean during a fifty-year span from 1225 to 1175 BC,
-more than the drought and climate change that may have been
-ravaging these areas during this period, what we see are the
-results of a “perfect storm” that brought down the flourishing
-cultures and peoples of the Bronze Age—from the Mycenaeans and Minoans to the Hittites, Assyrians, Kassites, Cypriots,
-Mitannians, Canaanites, and even Egyptians.94
+E. The international trade routes were affected, if not completely cut, for a period of time, but the extent to which this would have impacted the various individual civilizations is not altogether clear—even if some were overly dependent upon foreign goods for their survival, as has been suggested in the case of the Mycenaeans.
 
-I think that none of these individual factors would have been cataclysmic enough on their
-own to bring down even one of these civilizations, let alone all of
-them. 
 
-However, they could have combined to produce a scenario
-in which the repercussions of each factor were magnified, in what
-some scholars have called a “multiplier effect.”95 The failure of
-one part of the system might also have had a domino effect,
-leading to failures elsewhere. The ensuing “systems collapse”
-could have led to the disintegration of one society after another,
-in part because of the fragmentation of the global economy and
-the breakdown of the interconnections upon which each
-civilization was dependent.
+
+
+
+<!-- Sometimes a civilization cannot recover from invaders or an earthquake, or survive a drought or a rebellion,
+but at the moment, for lack of a better explanation, it looks as
+though the best solution is to suggest that all of these factors
+together contributed to the collapse of what had been the
+dominant Late Bronze Age kingdoms and societies in these
+regions.  -->
+
+I think that systems collapsed by a series of events linked together via a “multiplier effect” in which one factor affected the others, thereby magnifying the
+effects of each. 
+
+Perhaps the inhabitants could have survived one
+disaster, such as an earthquake or a drought, but they could not
+survive the combined effects of earthquake, drought, and
+invaders all occurring in rapid succession. 
+
+A “domino effect” then ensued, in which the disintegration of one civilization led to the
+fall of the others. Given the globalized nature of their world, the
+effect upon the international trade routes and economies of even
+one society’s collapse would have been sufficiently devastating
+that it could have led to the demise of the others. If such were the
+case, they were not too big to fail.
+
+However, despite my comments above, systems collapse might
+be just too simplistic an explanation to accept as the entire reason
+for the ending of the Late Bronze Age in the Aegean, Eastern
+Mediterranean, and Near East.
+
+It is possible that we need to turn to what is called complexity science, or, perhaps more
+accurately, complexity theory, in order to get a grasp of what
+may have led to the collapse of these civilizations.
+
+Complexity science or theory is the study of a complex system
+or systems, with the goal of explaining “the phenomena which
+emerge from a collection of interacting objects.” 
+
+It has been used in attempts to explain, and sometimes solve, problems as diverse
+as traffic jams, stock market crashes, illnesses such as cancer, environmental change, and even wars, as Neil Johnson of Oxford
+University has recently written.104 While it has made its way from
+the realm of mathematics and computational science to
+international relations, business, and other fields over the past
+several decades, it has only rarely been applied in the field of
+archaeology. 
+
+Intriguingly, and perhaps presciently, Carol Bell
+explored the topic briefly in her 2006 book on the evolution of,
+and changes in, long-distance trading relationships in the Levant
+from the Late Bronze Age to the Iron Age. She noted that it was a
+promising theoretical approach that might be of use as an
+explanatory model for the cause of the collapse and for the
+restructuring that followed.
+
+For a problem to be a potential candidate for a complexity
+theory approach, Johnson states that it has to involve a system
+that “contains a collection of many interacting objects or
+‘agents’.”106 In our case, those would be the various civilizations
+active during the Late Bronze Age: the Mycenaeans, Minoans,
+Hittites, Egyptians, Canaanites, Cypriots, and so on. 
+
+In one aspect
+of complexity theory, behavior of those objects is affected by
+their memories and “feedback” from what has happened in the
+past. They are able to adapt their strategies, partly on the basis of
+their knowledge of previous history. Automobile drivers, for
+example, are generally familiar with the traffic patterns in their
+home area and are able to predict the fastest route to take to
+work or back home again. If a traffic jam arises, they are able to
+take alternative routes to avoid the problem.
+
+Similarly, toward
+the end of the Late Bronze Age, seafaring merchants from Ugarit
+or elsewhere might have taken steps to avoid enemy ships or
+areas in which such ships and marauders were frequently based,
+including the coastal portions of the Lukka lands (i.e., the region
+later known as Lycia, in southwestern Anatolia).
+
+Johnson also states that the system is typically “alive,”
+meaning that it evolves in a nontrivial and often complicated
+way, and that it is also “open,” meaning that it can be influenced by its environment. As he puts it, this means that the complicated
+stock markets today, about which analysts often talk as if they
+were living, breathing organisms, can be influenced or driven by
+outside news about the earnings of a particular company or an
+event on the other side of the world. Just so, Sherratt—in her
+analogy published a decade ago, and quoted above in the preface
+—described the similarities between the Late Bronze Age world
+and our own “increasingly homogenous yet uncontrollable global
+economy and culture, in which … political uncertainties on one
+side of the world can drastically affect the economies of regions
+thousands of miles away.”108 Such influences or stressors on the
+“system” in the Aegean and Eastern Mediterranean at the end of
+the Late Bronze Age might well be the probable, possible, and
+conceivable earthquakes, famine, drought, climate change,
+internal rebellion, external invasion, and cutting of the trade
+routes discussed above.
+
+The most important premise, we might argue, is that Johnson
+asserts that such a system exhibits phenomena that “are generally
+surprising, and may be extreme.” 
+
+As he says, this “basically
+means that anything can happen—and if you wait long enough, it
+generally will.” For example, as he notes, all stock markets will
+eventually have some sort of crash, and all traffic systems will
+eventually have some kind of jam. These are generally
+unexpected when they arise, and could not have been specifically
+predicted in advance, even though one knew full well that they
+could and would occur.
+
+In our case, since there has never been a civilization in the
+history of the world that hasn’t collapsed eventually, and since
+the reasons are frequently the same, as Jared Diamond and a host
+of others have pointed out, the eventual collapse of the Late
+Bronze Age civilizations was predictable, but it is unlikely that we
+would have been able to predict when it would happen, or that
+they would all collapse at the same time, even with a full working
+knowledge of each civilization. As Johnson writes, “even a detailed knowledge of the specifications of a car’s engine, colour
+and shape, is useless when trying to predict where and when
+traffic jams will arise in a new road system. Likewise,
+understanding individuals’ personalities in a crowded bar would
+give little indication as to what large-scale brawls might
+develop.”
+
+
+So what use might complexity theory be in the effort to
+explain the collapse at the end of the Late Bronze Age, if it cannot
+help us predict when it would happen or why? Carol Bell pointed
+out that the trading networks of the Aegean and Eastern
+Mediterranean are examples of complex systems. She therefore
+cited the work of Ken Dark, of the University of Reading, who
+noted that “as such systems become more complex, and the
+degree of interdependence between their constituent parts grows,
+keeping the overall system stable becomes more difficult.”
+
+Known as “hyper-coherence,” this occurs, as Dark says, “when
+each part of the system becomes so dependent upon each other
+that change in any part produces instability in the system as a
+whole.”112 Thus, if the Late Bronze Age civilizations were truly
+globalized and dependent upon each other for goods and services,
+even just to a certain extent, then change to any one of the
+relevant kingdoms, such as the Mycenaeans or the Hittites, would
+potentially affect and destabilize them all.
+
+Moreover, it is especially relevant that the kingdoms, empires,
+and societies of the Late Bronze Age Aegean and Eastern
+Mediterranean can each be seen as an individual sociopolitical
+system. As Dark says, such “complex socio-political systems will
+exhibit an internal dynamic which leads them to increase in
+complexity…. [T]he more complex a system is, the more liable it
+is to collapse.”
+
+Thus, in the Late Bronze Age Aegean and Eastern
+Mediterranean, we have individual sociopolitical systems, the
+various civilizations, that were growing more complex and thus
+apparently more liable to collapse. At the same time, we have complex systems, the trading networks, that were both
+interdependent and complicated in their relationships, and thus
+were open to instability the minute there was a change in one of
+the integral parts. Here is where one malfunctioning cog in an
+otherwise well-oiled machine might turn the entire apparatus into
+a pile of junk, just as a single thrown rod can wreck the engine of
+a car today.
+
+Therefore, rather than envisioning an apocalyptic ending
+overall—although perhaps certain cities and kingdoms like Ugarit
+met a dramatic, blazing end—we might better imagine that the
+end of the Late Bronze Age was more a matter of a chaotic
+although gradual disintegration of areas and places that had once
+been major and in contact with each other, but were now
+diminished and isolated, like Mycenae, because of internal and/or
+external changes that affected one or more of the integral parts of
+the complex system. It is clear that such damage would have led
+to a disruption of the network. We might picture a modern power
+grid that has been disrupted, perhaps by a storm or an
+earthquake, wherein the electric company can still produce power
+but cannot get it out to the individual consumers; we see such
+events on an annual basis in the United States, caused by
+anything and everything from tornadoes in Oklahoma to
+snowstorms in Massachusetts. If the disruption is permanent, as
+might be the case in a major catastrophe, such as a nuclear
+explosion today, eventually even the production of the electricity
+will halt. The analogy may hold for the Late Bronze Age, albeit at
+a lower technological level.
+
+Moreover, as Bell noted, the consequence of such instability is
+that when the complex system does collapse, it “decomposes into
+smaller entities,” which is exactly what we see in the Iron Age
+that follows the end of these Bronze Age civilizations.114 Thus, it
+seems that employing complexity theory, which allows us to take
+both catastrophe theory and systems collapse one step further,
+may be the best approach to explaining the end of the Late Bronze Age in the Aegean and Eastern Mediterranean in the years
+following 1200 BC. The real questions are not so much “Who did
+it?” or “What event caused it?”—for there seem to have been any
+number of elements and people involved—as “Why did it
+happen?” and “How did it happen?” Whether it could have been
+avoided is yet another question entirely.
+
+However, in suggesting that complexity theory should be
+brought to bear on the analysis of the causes of the Late Bronze
+Age collapse, we may just be applying a scientific (or possibly
+pseudoscientific) term to a situation in which there is insufficient
+knowledge to draw firm conclusions. It sounds nice, but does it
+really advance our understanding? Is it more than just a fancy
+way to state a fairly obvious fact, namely, that complicated things
+can break down in a variety of ways?
+
+There is little doubt that the collapse of the Late Bronze Age
+civilizations was complex in its origins. We do know that many
+possible variables may have had a contributing role in the
+collapse, but we are not even certain that we know all of the
+variables and we undoubtedly do not know which ones were
+critical—or whether some were locally important but had little
+systemic effect. To carry our analogy of a modern traffic jam
+further: we do know most of the variables in a traffic jam. We
+know something about the number of cars and the roads they
+traveled along (whether wide or narrow) and we are certainly
+able to predict to a large extent the effect of some external
+variables, for example, a blizzard on a major thruway. But for the
+Late Bronze Age, we suspect, though we do not know for certain,
+that there were hundreds more variables than there are in a
+modern traffic system.
+
+Moreover, the argument that the Bronze Age civilizations
+were increasing in complexity and were therefore prone to
+collapse does not really make all that much sense, especially
+when one considers their “complexity” relative to that of the
+Western European civilizations of the last three hundred years.
+
+Thus, while it is possible that complexity theory might be a useful
+way to approach the collapse of the Late Bronze Age once we
+have more information available as to the details of all the
+relevant civilizations, it may not be of much use at this stage,
+except as an interesting way to reframe our awareness that a
+multitude of factors were present at the end of the Late Bronze
+Age that could have helped destabilize, and ultimately led to the
+collapse of, the international system that had been in place,
+functioning quite well at various levels, for several previous
+centuries.
+
+
+And yet, scholarly publications still continue to suggest a linear progression for the collapse of the Late Bronze Age, despite
+the fact that it is not accurate to simply state that a drought
+caused famine, which eventually caused the Sea Peoples to start
+moving and creating havoc, which caused the Collapse.115 
+
+The progression wasn’t that linear; the reality was much more messy.
+
+There probably was not a single driving force or trigger, but
+rather a number of different stressors, each of which forced the
+people to react in different ways to accommodate the changing
+situation(s). Complexity theory, especially in terms of visualizing
+a nonlinear progression and a series of stressors rather than a
+single driver, is therefore advantageous both in explaining the
+collapse at the end of the Late Bronze Age and in providing a way
+forward for continuing to study this catastrophe.

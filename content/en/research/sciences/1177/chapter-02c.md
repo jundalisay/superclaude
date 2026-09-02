@@ -1,161 +1,192 @@
 ---
-heading: Chapter 2c
-title: "The Amarna Archives"
-weight: 39
+heading: Chapter 2d
+title: "Gold, Fool’S Gold, And High-Level Trade"
+weight: 44
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
 
-An archive of royal records of Amenhotep III was found in Tell el-Amarna, which contains the ruins of the city once called Akhetaten (meaning “Horizon of the Solar Disk”).10 
+Egypt had gold from the mines in Nubia.
 
-Amenhotep 3rd’s heretic son, Amenhotep IV, better known as Akhenaten, had built it in the mid-fourteenth century BC as a new capital city.
+More than one king wrote to Amenhotep III and Akhenaten, requesting shipments of gold while acting as if it were nothing
+out of the ordinary—the refrain “gold is like dust in your land,”
+and similar phrases, are seen again and again in the Amarna
+Letters.
 
-Akhenaten was Amenhotep III’s successor, probably serving as
-coruler with his father for a few years before Amenhotep died in
-1353 BC.
+In one letter, Tushratta of Mitanni invokes the family relationship and asks Amenhotep III to “send me much more gold
+than he [you] did to my father,” for, as he says, “in my brother’s
+country, gold is as plentiful as dirt.”29
 
-Soon after assuming sole power, Akhenaten implemented what is now called the “Amarna Revolution.” He
-closed down the temples belonging to Ra, Amun, and other major
-deities, seized their vast treasuries, and generated for himself
-unrivaled power, as the head of the government, military, and
-religion. He condemned the worship of every Egyptian deity
-except Aten, the disk of the sun, whom he—and he alone—was
-allowed to worship directly.
+But it seems that the gold wasn’t always gold, as the
+Babylonian kings in particular complained. In one letter sent by
+Kadashman-Enlil to Amenhotep III, he said, “You have sent me as
+my greeting-gift, the only thing in six years, 30 minas of gold that
+looked like silver.”30 His successor in Babylon, the Kassite king
+Burna-Buriash II, similarly wrote in one letter to Amenhotep III’s
+successor, Akhenaten: “Certainly my brother [the king of Egypt]
+did not check the earlier (shipment of) gold that my brother sent
+to me. When I put the 40 minas of gold that were brought to me
+into a kiln, not (even) 10 minas, I swear, appeared.” 
 
-This is sometimes seen as the first attempt at monotheism,
-since seemingly only one god was worshipped, but in fact the
-matter is quite debatable (and has been the subject of numerous scholarly discussions). For the ordinary Egyptians, there were
-essentially two gods: Aten and Akhenaten, for the people were
-allowed to pray only to Akhenaten; he then prayed to Aten on
-their behalf. Akhenaten may have been a religious heretic, and
-perhaps even a fanatic to a certain degree, but he was also
-calculating and a powermonger rather than a zealot.
+In another letter, he said: “The 20 minas of gold that were brought here
+were not all there. When they put it into the kiln, not 5 minas of
+gold appeared. The (part) that did appear, on cooling off looked
+like ashes. Was the gold ever identified (as gold)?”31
 
-His religious
-revolution may actually have been a shrewd political and
-diplomatic move, designed to restore the power of the king:
-power that had slowly been lost to the priests during the reigns of
-previous pharaohs.
+On the one hand, one might ask why the Babylonian kings
+were putting the gold sent by the Egyptian king into a kiln and
+melting it down. It must have been scrap metal sent for its value
+only rather than nice finished pieces being given as gifts, much as
+today one sees advertisements on late-night television urging the viewer to sell old and broken jewelry for cash, with the clear
+implication that it will be melted down immediately. They must
+have needed it to pay their artisans, architects, and other
+professionals, as indeed some of the letters state.
+
+On the other hand, we also have to ask whether the Egyptian
+king knew that the shipments he was sending were not actually
+gold, and if the action was deliberate, or whether the real gold
+was swapped out en route by unscrupulous merchants and
+emissaries. Burna-Buriash suspected the latter in the case of the
+forty minas of gold mentioned above, or at least offered
+Akhenaten a diplomatic way out of the uneasy situation, and
+wrote: “The gold that my brother sends me, my brother should
+not turn over to the charge of any deputy. My brother should
+make a [personal] check [of the gold], then my brother should
+seal and send it to me. Certainly my brother did not check the
+earlier (shipment of) gold that my brother sent to me. It was only
+a deputy of my brother who sealed and sent it to me.”32
+
+It also seems that the caravans loaded with gifts and sent
+between the two kings were frequently robbed en route. BurnaBuriash writes of two caravans belonging to Salmu, his messenger
+(and probably diplomatic representative), that he knows have
+been robbed. He even knows whom to blame: a man named
+Biriyawaza was responsible for the first heist, and a man
+supposedly named Pamahu (possibly a place-name mistaken for a
+personal name) perpetrated the second. Burna-Buriash asks when
+Akhenaten is going to prosecute the latter case, since it is within
+his jurisdiction, but he received no reply, at least as far as we
+know.33
+
+Moreover, we should not forget that these high-level gift
+exchanges were probably the tip of the iceberg of commercial
+interaction. An analogous, relatively modern, situation may be
+the following. In the 1920s, the anthropologist Bronisław
+Malinowski studied the Trobriand Islanders who were
+participating in the so-called Kula Ring in the South Pacific. 
+
+In this system, the chiefs of each island exchanged armbands and
+necklaces made of shells, with armbands always traveling one
+way around the ring and necklaces circulating in the other
+direction. The value of each object increased and decreased
+depending upon its lineage and past history of ownership (now
+referred to by archaeologists as an object’s “biography”).
+
+Malinowski discovered that while the chiefs were in the
+ceremonial centers exchanging armbands and necklaces according
+to traditional pomp and circumstance, the men who served as
+crew on the canoes that transported the chiefs were busy trading
+with the locals on the beach for food, water, and other necessary
+staples of life.34 Such mundane commercial transactions were the
+real economic motives underlying the ceremonial gift exchanges
+of the Trobriand chiefs, but they would never admit to that fact.
+
+Similarly, we should not underestimate the importance of the
+messengers, merchants, and sailors who were transporting the
+royal gifts and other items across the deserts of the ancient Near
+East, and probably overseas to the Aegean as well. It is clear that
+there was much contact between Egypt, the Near East, and the
+Aegean during the Late Bronze Age, and undoubtedly ideas and
+innovations were occasionally transported along with the actual
+objects. Such transfers of ideas undoubtedly took place not only
+at the upper levels of society, but also at the inns and bars of the
+ports and cities along the trade routes in Greece, Egypt, and the
+Eastern Mediterranean. Where else would a sailor or crew
+member while away the time waiting for the wind to shift to the
+proper quarter or for a diplomatic mission to conclude its
+sensitive negotiations, swapping myths, legends, and tall tales?
+
+Such events may perhaps have contributed to cultural influences
+spreading between Egypt and the rest of the Near East, and even
+across the Aegean. Such an exchange between cultures could
+possibly explain the similarities between the Epic of Gilgamesh and
+Homer’s later Iliad and Odyssey, and between the Hittite Myth of
+Kumarbi and Hesiod’s later Theogony.
+
+We should also note that gift exchanges between Near Eastern
+rulers during the Late Bronze Age frequently included physicians,
+sculptors, masons, and skilled laborers, who were sent between
+the various royal courts. It is little wonder that there are certain
+similarities between architectural structures in Egypt, Anatolia,
+Canaan, and even the Aegean, if the same architects, sculptors,
+and stonemasons were working in each area. The recent finds of
+Aegean-style wall paintings and painted floors at Tell ed-Dab‘a in
+Egypt, mentioned in the previous chapter, as well as at Tel Kabri
+in Israel, Alalakh in Turkey, and Qatna in Syria, indicate that
+Aegean artisans may have made their way to Egypt and the Near
+East as early as the seventeenth century and perhaps as late as the
+thirteenth century BC.36
 
 
-But Akhenaten did not undo everything that his ancestors had
-put into place. In particular, he recognized the importance of
-maintaining international relationships, especially with the kings
-of the lands surrounding Egypt. Akhenaten carried on his father’s
-tradition of diplomatic negotiations and trade partnerships with
-foreign powers, both high and low, including those with
-Suppiluliuma and the Hittites.11 He kept an archive of the
-correspondence with these kings and governors in his capital city,
-Akhetaten. These are the so-called Amarna Letters, inscribed on
-clay tablets, which the peasant woman accidentally uncovered in
-1887.
+From the Amarna Letters that date specifically to the time of
+Akhenaten, we know that Egypt’s international contacts expanded
+during his reign to include the rising power of Assyria, under its
+king Assur-uballit I, who had come to the throne in the decade
+before Amenhotep III died.
 
-The archive was originally housed in the “records office” of
-the city. It is a treasure trove of correspondence with kings and
-governors with whom both Amenhotep and his son Akhenaten
-had diplomatic relationships, including Cypriot and Hittite rulers,
-and Babylonian and Assyrian kings. There are also letters to and
-from the local Canaanite rulers, including Abdi-Hepa of
-Jerusalem and Biridiya of Megiddo. The letters from these local
-rulers, who were usually vassals of the Egyptians, are full of
-requests for Egyptian help, but those sent between the rulers of
-the Great Powers (Egypt, Assyria, Babylon, Mitanni, and the
-Hittites) are more frequently filled with requests and mentions of
-gifts made on a much higher diplomatic level. This Amarna
-archive, along with that found at Mari from the eighteenth
-88
-century BC, is among the first in the history of the world to
-document the substantial and sustained international relations of
-the Bronze Age in Egypt and the Eastern Mediterranean.12
-The letters were written in Akkadian, the diplomatic lingua
-franca of the day used in international relations, on nearly four
-hundred clay tablets. Having been sold on the antiquities market
-at the time of their discovery, the tablets are now dispersed
-among museums in England, Egypt, the United States, and
-Europe, including the British Museum in London, the Cairo
-Museum in Egypt, the Louvre in Paris, the Oriental Museum at
-the University of Chicago, the Pushkin Museum in Russia, and the
-Vorderasiatisches Museum in Berlin (which has almost two-thirds
-of the tablets).13
+There are also eight letters to and from the king of the island of Cyprus, known to the Egyptians and
+others of the ancient world as Alashiya, which provide confirmation of contact with Egypt.
 
+These letters sent to and from Cyprus, which probably date to
+the time of Akhenaten rather than Amenhotep III, are of great
+interest, in part of because of the staggering amount of raw
+copper mentioned in one of the letters. 
 
-## GREETING-GIFTS AND FAMILY RELATIONS
+Cyprus was the primary source of copper for most of the major Aegean and Eastern
+Mediterranean powers during the Late Bronze Age, as is made
+clear by the discussions found in the letters, including that in
+which the king of Alashiya apologizes for sending only five
+hundred talents of copper because of an illness that is ravaging his island.38 It is currently thought that such raw copper was
+probably shipped in the shape of oxhide ingots, such as those that
+have been found on the Uluburun shipwreck discussed in the next
+section. Each of the oxhide ingots on board the ship weighs about
+sixty pounds, meaning that this one consignment mentioned in
+the Amarna Letter would have consisted of some thirty thousand
+pounds of copper—an amount for which the Cypriot king is
+(ironically?) apologetic because it is so small!
 
-These letters, including copies of those sent to the foreign rulers
-and replies from those rulers, provide us with insights into
-trading and international connections in the time of Amenhotep
-III and Akhenaten during the mid-fourteenth century BC. It is
-apparent that much of the contact involved “gift giving”
-conducted at the very highest levels—from one king to another.
-For instance, one Amarna Letter, sent to Amenhotep III by
-Tushratta, the king of Mitanni in northern Syria who came to the
-throne about 1385 BC, opens with a paragraph containing
-traditional greetings and then goes on to discuss the gifts that he
-has sent, brought by his messengers:
+As for Assyria, there are two letters in the Amarna archive from Assur-uballit I, who ruled that kingdom from ca. 1365 to
+1330 BC. It is not clear to which Egyptian pharaoh these two
+letters were addressed, for one simply begins, “Say to the King of
+Egypt,” while the name given in the other is unclear and the
+reading is uncertain. Previous translators have suggested that
+they were probably sent to Akhenaten, but at least one scholar
+proposes that the second one might be addressed to Ay, who
+came to the throne after the death of Tutankhamen.39 This seems
+unlikely, given the late date for Ay’s accession to the throne (ca.
+1325 BC), and, in fact, the letters are much more likely to have
+been sent to Amenhotep III or Akhenaten, as were the vast
+majority of letters from other rulers.
 
-Say to Nibmuareya [Amenhotep III], the king of Egypt, my brother: Thus [says]
-Tushratta, the king of Mitanni, your brother. For me, all goes well. For you, may
-all go well. For Kelu-Hepa [your wife], may all go well. For your household, for
-your wives, for your sons, for your magnates [chief men], for your warriors, for
-your horses, for your chariots, and in your country, may all go very well . . .
+The first of these letters is simply a message of greeting and
+includes a brief list of gifts, such as “a beautiful chariot, 2 horses,
+[and] 1 date-stone of genuine lapis lazuli.”40 The second is longer
+and contains the by-now-standard request for gold, with the usual
+disclaimer: “Gold in your country is dirt; one simply gathers it
+up.” However, it also contains an interesting comparison to the
+king of Hanigalbat, that is, Mitanni, in which the new king of
+Assyria states that he is “the equal of the king of Hanigalbat”—an
+obvious reference to his position in the pecking order of the socalled Great Powers of the day, of which Assyria and its king
+strongly wished to be a part.41
 
-I herewith send you 1 chariot, 2 horses, 1 male attendant, 1 female attendant,
-from the booty from the land of Hatti. As the greeting-gift of my brother, I send
-you 5 chariots, 5 teams of horses. And as the greeting-gift of Kelu-Hepa, my
-sister, I send her 1 set of gold toggle-pins, 1 set of gold earrings, 1 gold mašuring, and a scent container that is full of “sweet oil.”
-I herewith send Keliya, my chief minister, and Tunip-ibri. May my brother let
-them go promptly so they can report back to me promptly, and I hear the
-greeting of my brother and rejoice. May my brother seek friendship with me, and
-may my brother send his messengers to me that they may bring my brother’s
-greetings to me and I hear them.14
+It seems that Assur-uballit was not idly boasting, for he was
+more than an equal to the then-current Mitannian king, Shuttarna II.
 
-Another royal letter, from Akhenaten to Burna-Buriash II, the
-Kassite king of Babylon, includes a detailed list of the gifts that he
-has sent. The itemization of the gifts takes up more than three
-hundred lines of writing on the tablet. Included are objects of
-gold, copper, silver, and bronze, containers of perfume and sweet
-oil, finger-rings, foot-bracelets, necklaces, thrones, mirrors, linen
-cloth, stone bowls, and ebony boxes.15 Similar detailed letters
-with comparable long lists of objects, sometimes sent as part of a
-dowry accompanying a daughter and sometimes just sent as gifts,
-come from other kings, such as Tushratta of Mitanni.16 We should
-also note that the “messengers” referred to in these, and other,
-letters were often ministers, essentially sent as ambassadors, but
-were frequently also merchants, apparently serving double duty
-for both themselves and the king.
+Assur-uballit defeated Shuttarna in battle, probably about 1360
+BC, and ended the Mitannian domination of Assyria that had
+begun a little more than a century earlier, when the earlier
+Mitannian king Saushtatar had stolen the gold and silver door
+from the Assyrian capital and taken it to the Mitannian capital of
+Washukanni.
 
-In these letters, the kings involved often referred to each other
-as relatives, calling one another “brother” or “father/son,” even
-though usually they were not actually related, thereby creating
-“trade partnerships.”17 Anthropologists have noted that such
-efforts to create imaginary family relationships happen most
-frequently in preindustrial societies, specifically to solve the
-problem of trading when there are no kinship ties or statesupervised markets.18 Thus, a king of Amurru wrote to the
-neighboring king of Ugarit (both areas were located in coastal northern Syria): “My brother, look: I and you, we are brothers.
-Sons of a single man, we are brothers. Why should we not be on
-good terms with each other? Whatever desire you will write to
-me, I will satisfy it; and you will satisfy my desires. We form a
-unit.”19
-
-It should be emphasized that these two kings (of Amurru and
-Ugarit) were not necessarily related at all, even by marriage. Not
-all were, and not all appreciated this shortcut approach to
-diplomatic relations. The Hittites of Anatolia seem to have been
-especially prickly in this regard, for one Hittite king wrote to
-another king: “Why should I write to you in terms of
-brotherhood? Are we sons of the same mother?”
-
-It is not always clear what relationship merits use of the term “brother,” as opposed to “father” and “son,” but it usually seems to indicate equality in status or in age, with “father/son” being reserved to show respect. The Hittite kings, for instance, use “father” and “son” more frequently in their correspondence than do the rulers of any other major Near Eastern power, while the Amarna Letters employ almost entirely the term “brother,” whether for the mighty king of Assyria or the less-powerful king of Cyprus. It seems that the Egyptian pharaohs regarded the other Near Eastern kings, their trade partners, as members of an international brotherhood, regardless of age or years on the throne.
-
-In some cases, however, the two kings were actually related by marriage. For instance, in letters from Tushratta of Mitanni to Amenhotep III, Tushratta refers to Amenhotep III’s wife KeluHepa as his sister, which she actually was (his father had given her in marriage to Amenhotep III). Similarly, Tushratta also gave his own daughter, Tadu-Hepa, to Amenhotep III in another arranged marriage, which made Tushratta both brother-in-law (“brother”) and father-in-law (“father”) to Amenhotep.
-
-Thus, one of his letters legitimately starts with “Say to … the king of Egypt, my brother, my son-in-law … Thus speaks Tushratta, the king of the land of Mitanni, your father-in-law.”22 After Amenhotep III’s death, Akhenaten seems to have taken (or inherited) Tadu-Hepu as one of his wives, which gave Tushratta the right to call himself father-in-law to both Amenhotep III and Akhenaten in different Amarna Letters.
-
-In each case, the royal marriage was arranged to cement relations and treaties between the two powers, and specifically between the two individual kings. This also therefore gave Tushratta the right to call Amenhotep III his “brother” (though, technically, he was his brother-in-law) and to expect better relations with Egypt than he might otherwise have had. The marriages were accompanied by elaborate dowries, which are recorded in several of the Amarna Letters. For instance, one letter from Tushratta to Amenhotep III, which is only partially intact and not entirely legible, still lists 241 lines of gifts, of which he himself says: “It is all of these wedding-gifts, of every sort, that Tushratta, the king of Mitanni, gave to Nimmureya [Amenhotep III], the king of Egypt, his brother and his son-in-law. He gave them at the same time that he gave Tadu-Hepa, his daughter, to Egypt and to Nimmureya to be his wife.”
-
-Amenhotep III seems to have utilized this diplomatic angle of dynastic marriage to a greater extent than did any other king of his time, for we know that he married, and had in his harem, the daughters of the Kassite kings Kurigalzu I and Kadashman-Enlil I of Babylon, Kings Shuttarna II and Tushratta of Mitanni, and King Tarkhundaradu of Arzawa (located in southwestern Anatolia).25 Each marriage undoubtedly cemented yet another diplomatic treaty and allowed the kings in question to practice diplomatic relations as if between family members.
-
-Some kings attempted to take advantage of the link between dynastic marriage and gift giving right away, forgoing the other niceties. For instance, one Amarna Letter, probably from the Kassite king Kadashman-Enlil of Babylon to Amenhotep III, directly combines the two, when Kadashman-Enlil writes: Moreover, you, my brother … as to the gold I wrote you about, send me whatever is on hand, as much as possible, before your messenger [comes] to me, right now, in all haste … If during this summer, during the months of Tammuz or Ab, you send the gold I wrote you about, I will give you my daughter.26 For this cavalier attitude toward his own daughter, Amenhotep III admonished Kadashman-Enlil in another letter: “It is a fine thing that you give your daughters in order to acquire a nugget of gold from your neighbors!”27 And yet, at some point during his reign, the transaction did take place, for we know from three other Amarna Letters that Amenhotep III did marry a daughter of Kadashman-Enlil, although we do not know her name.

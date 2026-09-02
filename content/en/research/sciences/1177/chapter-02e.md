@@ -1,246 +1,265 @@
 ---
 heading: Chapter 2e
-title: "Rise Of Alashiya And Assyria"
-weight: 47
-# author: Cronin
-# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+title: "Suppiluliuma And The Zannanza Affair"
+weight: 51
+description: ""
 c: darkslategray
 ---
 
 
 
-From the Amarna Letters that date specifically to the time of
-Akhenaten, we know that Egypt’s international contacts expanded
-during his reign to include the rising power of Assyria, under its
-king Assur-uballit I, who had come to the throne in the decade
-before Amenhotep III died.
+After Tudhaliya I/II, the Hittites of Turkey had languished under comparatively weak rulers. 
 
-There are also eight letters to and from the king of the island of Cyprus, known to the Egyptians and
-others of the ancient world as Alashiya, which provide confirmation of contact with Egypt.
+Their fortunes began to rise again about 1350 BC, under a new king named Suppiluliuma I, briefly mentioned earlier in relation to Akhenaten’s correspondence and archives.
 
-These letters sent to and from Cyprus, which probably date to
-the time of Akhenaten rather than Amenhotep III, are of great
-interest, in part of because of the staggering amount of raw
-copper mentioned in one of the letters. 
+As a young prince acting on the orders of his father, Suppiluliuma I had helped the Hittites to regain control of Anatolia.
 
-Cyprus was the primary source of copper for most of the major Aegean and Eastern
-Mediterranean powers during the Late Bronze Age, as is made
-clear by the discussions found in the letters, including that in
-which the king of Alashiya apologizes for sending only five
-hundred talents of copper because of an illness that is ravaging his island.38 It is currently thought that such raw copper was
-probably shipped in the shape of oxhide ingots, such as those that
-have been found on the Uluburun shipwreck discussed in the next
-section. Each of the oxhide ingots on board the ship weighs about
-sixty pounds, meaning that this one consignment mentioned in
-the Amarna Letter would have consisted of some thirty thousand
-pounds of copper—an amount for which the Cypriot king is
-(ironically?) apologetic because it is so small!
+The reemergence of the Hittites at this time posed a threat to Amenhotep III and his empire, so it is not surprising that the treaties negotiated by Amenhotep III, and the dynastic marriages that he arranged, were initiated with the rulers of
+virtually all the lands surrounding the Hittite homelands, from
+Ugarit on the coast of north Syria to Babylon in Mesopotamia to
+the east and Arzawa in Anatolia to the west. 
 
-As for Assyria, there are two letters in the Amarna archive from Assur-uballit I, who ruled that kingdom from ca. 1365 to
-1330 BC. It is not clear to which Egyptian pharaoh these two
-letters were addressed, for one simply begins, “Say to the King of
-Egypt,” while the name given in the other is unclear and the
-reading is uncertain. Previous translators have suggested that
-they were probably sent to Akhenaten, but at least one scholar
-proposes that the second one might be addressed to Ay, who
-came to the throne after the death of Tutankhamen.39 This seems
-unlikely, given the late date for Ay’s accession to the throne (ca.
-1325 BC), and, in fact, the letters are much more likely to have
-been sent to Amenhotep III or Akhenaten, as were the vast
-majority of letters from other rulers.
+They were most
+likely sought in an attempt at first to take advantage of the
+relative weakness of the Hittites during the early part of
+Suppiluliuma I’s reign, and subsequently, as the Hittites began to
+rise again under his leadership, to limit the extent of their
+activities.
 
-The first of these letters is simply a message of greeting and
-includes a brief list of gifts, such as “a beautiful chariot, 2 horses,
-[and] 1 date-stone of genuine lapis lazuli.”40 The second is longer
-and contains the by-now-standard request for gold, with the usual
-disclaimer: “Gold in your country is dirt; one simply gathers it
-up.” However, it also contains an interesting comparison to the
-king of Hanigalbat, that is, Mitanni, in which the new king of
-Assyria states that he is “the equal of the king of Hanigalbat”—an
-obvious reference to his position in the pecking order of the socalled Great Powers of the day, of which Assyria and its king
-strongly wished to be a part.41
+We know a lot about Suppiluliuma from the Hittite records,
+especially one set of tablets written by his son and eventual
+successor, Mursili II, containing what are known as the Plague Prayers.
 
-It seems that Assur-uballit was not idly boasting, for he was
-more than an equal to the then-current Mitannian king, Shuttarna II.
+Suppiluliuma died, after a reign of about 30 years, of a plague that had been brought back to the Hittite homelands via Egyptian prisoners of war who had been captured
+during a war fought in northern Syria. The plague ravaged the Hittite populace. Many members of the royal family died,
+including Suppiluliuma.
 
-Assur-uballit defeated Shuttarna in battle, probably about 1360
-BC, and ended the Mitannian domination of Assyria that had
-begun a little more than a century earlier, when the earlier
-Mitannian king Saushtatar had stolen the gold and silver door
-from the Assyrian capital and taken it to the Mitannian capital of
-Washukanni.
+Mursili saw the deaths, and especially that of his father, as divine retribution for a murder that had been committed at the
+beginning of Suppiluliuma’s reign, and for which he had never asked forgiveness from the gods. It was Suppiluliuma’s own
+brother who had been murdered: a Hittite prince named Tudhaliya the Younger. It is not clear whether Suppiluliuma was
+directly involved in the murder, but he certainly benefited, for
+Tudhaliya had been intended for the Hittite throne instead of
+Suppiluliuma, despite all of the great military victories that
+Suppiluliuma had accomplished on behalf of his father. 
 
-Thus began Assyria’s rise to greatness, primarily at the
-expense of Mitanni. Assur-uballit quickly became one of the
-major players in the international world of realpolitik. He
-arranged for a royal marriage between his daughter and BurnaBuriash II, the Kassite king of Babylon, only to invade the city of
-Babylon itself some years later, after his grandson was
-assassinated in 1333 BC, and place a puppet king named
-Kurigalzu II on the throne.42
-Thus, the two last major players of the Late Bronze Age in the
-ancient Near East, Assyria and Cyprus, finally appear on stage.
-We now have a full cast of characters: Hittites, Egyptians,
-Mitannians, Kassites/Babylonians, Assyrians, Cypriots,
-Canaanites, Minoans, and Mycenaeans, all present and accounted
-for. They all interacted, both positively and negatively, during the
-coming centuries, though some, such as Mitanni, vanished from
-the stage long before the others.
+Mursili writes:
+
+But now you, O gods, have eventually taken vengeance on my father for this
+affair of Tudhaliya the Younger. My father [died] because of the blood of
+Tudhaliya, and the princes, the noblemen, the commanders of the thousands,
+and the officers who went over to my father, they also died because of that
+affair. This same affair also came upon the Land of Hatti, and the population of
+the Land of Hatti began to perish because of this affair.54
+We do not know any more details about Suppiluliuma’s power
+grab, except that it obviously worked. However, we are then told
+about additional important events from his reign, courtesy of a
+lengthy document entitled the Deeds of Suppiluliuma, also written
+by his son and successor, Mursili II. The details of Suppiluliuma’s
+reign could take up an entire book, which will undoubtedly be
+written at some point. Here it will have to suffice to say simply
+that Suppiluliuma was able to bring most of Anatolia back under
+Hittite control, through almost continual warfare and shrewd diplomacy.
+
+He also expanded Hittite influence, and the empire’s
+borders, down into northern Syria, where he may have destroyed
+the city of Alalakh, capital city of the kingdom of Mukish.55 His
+numerous campaigns to the south and east eventually brought
+him into conflict with the Egyptians, although not until the time
+of Akhenaten. These also brought him into conflict with Mitanni,
+farther to the east, during the reign of its kingTushratta.
+Suppiluliuma eventually defeated and subjugated the kingdom of
+Mitanni, but only after a number of attempts—including the socalled Great Syrian War, when Suppiluliuma sacked and
+plundered the Mitanni capital Washukanni.
+
+Among the other towns that Suppiluliuma attacked and
+destroyed within the Mitanni lands was the site of ancient Qatna
+—modern Tell Mishrife—that is today being excavated by Italian,
+German, and Syrian archaeologists. Tremendous finds have been
+made just in the past decade, including an unlooted royal tomb,
+Aegean-style wall paintings with pictures of turtles and dolphins,
+a piece of clay with the throne name of Akhenaten (probably
+used to seal a jar or originally attached to a letter), and dozens of
+tablets from the royal archive, all located within or underneath
+the palace. In among these tablets is a letter dating to about 1340
+BC from Hanutti, the commander in chief of the Hittite army
+under Suppiluliuma, telling King Idadda of Qatna to prepare for
+war. The letter was found in the burned remains of the king’s
+palace, evidence that the Hittites had attacked and been
+victorious.57
+
+Suppiluliuma seems to have married a Babylonian princess, probably after banishing his primary wife (and mother of his sons) overseas to Ahhiyawa for
+an unnamed transgression.58 He also married off one of his daughters to Shattiwaza, the son of Tushratta, whom he placed
+on the throne of Mitanni as a vassal king after sending a Hittite
+army with him to win his father’s throne. However, the most interesting marriage linked to Suppiluliuma’s reign is one that
+never happened. It is known today as the “Zannanza Affair.”
+
+We learn of the Zannanza Affair in the Deeds of Suppiluliuma, as written by his son Mursili II, the same son who was responsible
+for writing the Plague Prayers. Apparently a letter was received at
+the Hittite court one day, purportedly from the queen of Egypt.
+The letter was regarded with suspicion because it contained an
+offer that had never before been made by a ruler of Egypt. It was
+a request so surprising that Suppiluliuma immediately doubted
+the letter’s authenticity. It read, simply:
+
+My husband is dead. I have no son. But they say that you have many sons. If you
+would give me one of your sons, he would become my husband. I will never take
+a servant of mine and make him my husband!
+
+The Deeds record that the sender of the letter was a woman named “Dahamunzu.” However, this is simply a Hittite word
+meaning “the wife of the king.” In other words, the letter was
+supposedly from the queen of Egypt. But this made no sense,
+because Egyptian royalty did not marry foreigners. 
+
+In all of his treaty negotiations, for instance, Amenhotep III had never once
+given away a member of his family in marriage to a foreign ruler,
+despite being asked on more than one occasion to do so. Now, the
+queen of Egypt was offering not only to marry Suppiluliuma’s son
+but to immediately make him pharaoh of Egypt. Such an offer
+was unbelievable, and so Suppiluliuma’s response is
+understandable. 
+
+He sent a trusted messenger named Hattusa-ziti to Egypt, to ask whether the queen had indeed sent the letter, and
+whether she was serious about her offer.
+
+Hattusa-ziti traveled to Egypt, as instructed, and returned not only with an additional letter from the queen but also with her
+special envoy, a man named Hani. The letter was written in
+Akkadian, rather than in either Egyptian or Hittite. 
 
 
-## NEFERTITI AND KING TUT
+It still survives today in a fragmentary form after its discovery at Hattusa, within the Hittite archives, and reflects the queen’s anger at being doubted. As quoted in the Deeds, it reads as follows:
 
-Soon after his death, the reforms of Akhenaten were reversed,
-and an attempt was made to erase his name and his memory from
-the monuments and records of Egypt. The attempt almost
-succeeded, but through the efforts of archaeologists and
-epigraphers, we now know a great deal about Akhenaten’s reign,
-as well as his capital city of Akhetaten and even his royal tomb.
+Had I a son, would I have written about my own and my country’s shame to a
+foreign land? You did not believe me, and you even spoke thus to me! He who
+was my husband is dead. I have no son! Never shall I take a servant of mine and
+make him my husband! I have written to no other country. Only to you have I
+written. They say you have many sons; so give me one son of yours. To me he
+will be husband. In Egypt he will be king!
 
-We also know about his family, including his beautiful wife Nefertiti, and their daughters, who are portrayed on a number of
-inscriptions and monuments.
+Since Suppiluliuma was still skeptical, the Egyptian envoy Hani spoke next, saying:
 
-The well-known bust of Nefertiti was found by Ludwig
-Borchardt, the German excavator of Amarna (Akhetaten), in 1912
-and shipped back to Germany a few months later. But it was not
-unveiled to the public until 1924 at the Egyptian Museum of
-Berlin. The statue is still in Berlin today, despite many requests
-by the Egyptian government for its return, since it reportedly left
-Egypt under less than ideal circumstances. The story is told, but
-not confirmed, that the German excavators and the Egyptian
-government had an agreement to split the finds from the
-excavation equally, with the Egyptians getting first choice. 
+Oh my Lord! This is our country’s shame! If we had a son of the king at all,
+would we have come to a foreign country and kept asking for a lord for
+ourselves? Niphururiya [the Egyptian king] is dead. He has no sons! Our Lord’s
+wife is solitary. We are seeking a son of our Lord [i.e. Suppiluliuma] for the
+kingship in Egypt. And for the woman, our Lady, we seek him as her husband!
+Furthermore, we went to no other country, only here did we come! Now, oh our
+Lord, give us a son of yours!61
 
-The Germans knew this but wanted the bust of Nefertiti for
-themselves. So they reportedly kept the bust uncleaned and
-placed it deliberately at the end of a long line of objects. When
-the Egyptian authorities passed on the filthy-looking head, the
-Germans promptly shipped it to Berlin. When it was finally put
-on display in 1924, the Egyptians were furious and demanded its
-return, but it remains in Berlin.43
+According to the Deeds, Suppiluliuma was finally persuaded
+by this speech and decided to send one of his sons, named
+Zannanza, to Egypt. He was not risking much, for Zannanza was
+the fourth of his five sons. The older three were already serving
+him in various capacities, so he could spare Zannanza. If things
+went well, his son would become king of Egypt; if things did not
+go well, he still had four other sons.
 
-We also know now about Akhenaten’s son, Tutankhaten, who
-changed his name and ruled using the name by which we know
-him today, Tutankhamen, or King Tut. He was not born in
-Arizona, contrary to what Steve Martin once said on Saturday
-Night Live, nor did he ever move to Babylonia.44 He did, however,
-come to the throne of Egypt at an early age, when he was about
-eight years old—approximately the same age at which Thutmose
-III came to the throne almost 150 years earlier. Fortunately for
-Tut, there was no Hatshepsut around to rule on his behalf. Tut
-therefore was able to reign for approximately ten years before his
-premature death.
+As it turned out, things did not go well. After several weeks, a
+messenger arrived and informed Suppiluliuma that the party
+traveling to Egypt had been ambushed en route and Zannanza
+had been killed. Those responsible had escaped and had still not
+been identified. Suppiluliuma was furious; he had no doubt that the Egyptians were somehow responsible for this … and had
+perhaps even lured him into sending his son to his death. 
 
-The vast majority of the details surrounding Tut’s short life
-are not immediately relevant to our study of the international
-world in which he lived. However, his death is relevant, in part
-because the discovery of his tomb in 1992 launched a modern worldwide obsession with ancient Egypt (known as Egyptomania)
-and established him as the most recognized king of all those who
-ruled during the Late Bronze Age, and because of the strong
-possibility that it may have been his widow who wrote to the
-Hittite king Suppiluliuma I, asking for a husband after Tut died.
-The cause of Tut’s death has been long debated—including the
-possibility that he might have been murdered by a blow to the
-back of his head—but recent scientific studies, including a CT
-scan of his skeleton, point to a broken leg followed by an
-infection as the most likely culprit.45 Whether he broke his leg by
-falling off a chariot, as is suspected, may never be proven, but it
-is now clear that he suffered from malaria as well and had
-congenital deformations, including a club foot. It has also been
-suggested that he may have been born of an incestuous brothersister relationship.46
-Tut was buried in a tomb within the Valley of the Kings. The
-tomb might not have originally been meant for him, as was the
-case for many of the dazzling objects found buried with him,
-since he died so suddenly and unexpectedly. It also proved
-remarkably hard for modern Egyptologists to locate, but Howard
-Carter finally discovered it in 1922.
+As the Deeds record, When my father [Suppiluliuma] heard of the murder of Zannanza, he began to
+lament for Zannanza, and to the gods he spoke thus: “O Gods! I did no evil, yet
+the people of Egypt did this to me! They also attacked the frontier of my
+country!”
 
-The Earl of Carnarvon had hired Carter for the express
-purpose of finding Tut’s tomb. Carnarvon, like some other
-members of the British aristocracy, was looking for something to
-do while wintering in Egypt. Unlike some of his compatriots,
-Carnarvon was under his doctor’s orders to be in Egypt each year,
-for he had been involved in a car accident in Germany in 1901—
-having rolled his car while doing the unheard-of speed of twenty
-miles per hour—and had punctured a lung, leading his doctor to
-fear that he would not survive a winter in England. So he had to
-spend winters in Egypt and promptly began playing amateur
-archaeologist, by hiring a pet Egyptologist.47
 
-Carter had been inspector-general of monuments of Upper
-Egypt and then held an even more prestigious post at Saqqara.
-However, he had resigned after refusing to apologize to a group
-of French tourists who created a problem at the site in 1905. He
-was therefore most amenable to being hired by Carnarvon, as he
-was unemployed at the time and was working as an artist
-painting watercolor scenes for the tourists. The two men began
-working together in 1907.48
+It still remains an unsolved mystery as to who ambushed and
+killed Zannanza. It also remains an open question as to who in
+Egypt would have sent the letter to Suppiluliuma, for there are
+two potential queens, both of whom were widowed. 
 
-After a decade of successful excavations at a variety of sites,
-the two men were able to begin work in the Valley of the Kings in
-1917. They were looking specifically for Tut’s tomb, which they
-knew must be somewhere in the valley. Carter then dug for six
-seasons, for several months each year, until Carnarvon’s funding,
-and perhaps interest as well, were about to run out. Carter
-pleaded for one last season, offering to pay for it himself, because
-there was one place in the valley that he hadn’t yet excavated.
-Carnarvon relented and Carter returned to the Valley of the
-Kings, beginning work on November 1, 1922.49 Carter realized
-that he had been pitching his camp in the same place every
-season, so now he moved his headquarters and dug where the
-camp had originally been positioned … and three days later, a
-member of his team found the first steps leading down into the
-tomb. As it turned out, one of the reasons why the tomb had lain
-undiscovered for thousands of years was that the entrance had
-been buried under dirt tossed by later diggers creating the nearby
-tomb of Ramses VI, who died almost a century after Tut.
-Since Carter had discovered the entrance to the tomb while
-Carnarvon was still in England, he sent a telegram immediately
-and then had to wait until Carnarvon was able to sail to Egypt.
-He also alerted the media. By the time Carnarvon arrived and
-they were ready to open the tomb on November 26, 1922,
-journalists surrounded them, as photographs from that day show.
+One was Nefertiti, wife of Akhenaten; the other was Ankhsenamen, wife of
+King Tut.63 However, given the information in the letters—that is,
+that the queen had no sons—and given the chain of events that
+followed the murder of Zannanza, with the throne of Egypt going
+to a man named Ay, who married Ankhsenamen despite being old
+enough to be her grandfather, the identification of the mysterious
+royal letter writer as Ankhsenamen makes the most sense. It is
+unclear whether Ay had anything to do with the actual
+assassination of the Hittite prince, but since he had the most to
+gain, suspicion clearly falls upon him.
 
-As an opening was chiseled in the door, Carter was able to
-peer through the hole and into the entrance corridor of the tomb, with the antechamber beyond. Carnarvon tugged on Carter’s
-jacket and asked him what he saw. Carter reportedly replied, “I
-see wonderful things,” or words to that effect, and indeed he later
-reported that he could see gold, everywhere the glint of gold.50
-Undoubtedly, relief was evident in his voice, for during the
-long wait for Carnarvon, Carter had been plagued by worries that
-the tomb had been looted at least once, if not twice, to judge by
-the replastering at the tomb’s entrance, with the stamps of the
-necropolis on it.51 The penalty for tomb robbing in ancient Egypt
-was death by impalement on a stick stuck in the ground, but this
-does not seem to have fazed many grave robbers.
+When Suppiluliuma vowed to enact vengeance for the death
+of his son, he made plans to attack Egyptian territory. Ay warned
+him not to do so, in correspondence that still exists in
+fragmentary condition, but Suppiluliuma declared war anyway
+and sent the Hittite army into southern Syria, where it attacked
+numerous cities and brought back thousands of prisoners, including many Egyptian soldiers.64 Lest anyone wonder whether
+someone would go to war over a single person, one need only look at the story of the Trojan War, where the Mycenaeans fought
+the Trojans for ten years, reportedly because of the kidnapping of
+the beautiful Helen, to which we shall soon turn. One can also point to the assassination of Archduke Ferdinand in Sarajevo on
+June 28, 1914, which many see as the flash point igniting World
+War I.
 
-When Carter and Carnarvon did eventually get into the tomb,
-it became clear that it had indeed been robbed, to judge by the
-messy condition of the objects in the antechamber, tossed about
-like goods in a modern apartment or house that has been
-ransacked by burglars, and by the golden rings wrapped in a
-handkerchief and dropped in the entrance corridor, most likely by
-the robbers either in their haste to get out of the tomb or as they
-were being caught by the necropolis guards. However, the sheer
-quantity of goods remaining in the tomb was astounding—it took
-Carter and his associates most of the next ten years to completely
-excavate and catalog everything in the tomb, even though
-Carnarvon himself died of blood poisoning only eight days after
-the tomb was opened, thereby giving rise to the story of the
-“mummy’s curse.”
+Ironically, as pointed out above and in the Plague Prayers of Mursili, the Egyptian prisoners of war who were brought back by
+the Hittite army are thought to have brought with them a dreadful illness, which spread rapidly throughout the Hittite
+homelands. Soon thereafter, in approximately 1322 BC,
+Suppiluliuma died from this plague—perhaps as much a victim of
+Egyptian-Hittite contretemps as was his son Zannanza.
 
-The huge number of burial goods in Tut’s tomb led some
-Egyptologists to wonder what might once have been in the tomb
-of one of the pharaohs who had ruled much longer, such as
-Ramses III or even Amenhotep III, but all of those tombs had
-been robbed long ago. It is more likely, though, that the amazing
-goods in Tut’s tomb were unique and may have been the result of
-gifts from the Egyptian priests, who were grateful because he had
-reversed his father’s reforms and given power back to the priests
-of Amun and others. Until another unlooted royal Egyptian tomb is found, however, we have nothing with which to compare Tut’s
-tomb.
 
-When Tut died, he left widowed his young queen
-Ankhsenamen who was also his sister. And this is where we come
-to the saga of the Hittite king Suppiluliuma I and the Zannanza
-Affair, one of the most unusual diplomatic episodes of the
-fourteenth century BC.
+## Hittites And Mycenaeans
+
+One additional note can be made about the Hittites at this time.
+During Suppiluliuma’s reign, there began for the Hittites a period
+during which they were one of the great powers of the ancient
+world, on a par with the Egyptians and exceeding the influence of
+the Mitannians, Assyrians, Kassites/Babylonians, and Cypriots.
+They maintained their position through a combination of
+diplomacy, threats, war, and trade. In fact, archaeologists
+excavating Hittite sites have found trade goods from most of
+those other countries (we might call them nation-states in modern
+parlance). Moreover, Hittite goods have been found in virtually
+all of those countries.
+
+The exception is the area of the Aegean. Hittite objects are
+close to nonexistent in Bronze Age contexts on mainland Greece,
+Crete, the Cycladic islands, and even Rhodes, despite the latter’s
+close proximity to Turkey. 
+
+There are only a dozen such objects that have been discovered, in contrast to hundreds of Egyptian,
+Canaanite, and Cypriot imports that have been found in the same
+contexts in the Aegean. Conversely, almost no Mycenaean or
+Minoan objects were imported into the Hittite homelands in
+central Anatolia, despite the fact that imported goods from Cyprus, Assyria, Babylon, and Egypt made it through the
+mountain passes and up onto the central Anatolian plateau. 
+
+This glaring anomaly in the trade patterns of the ancient
+Mediterranean world is not restricted just to the time of
+Suppiluliuma and the fourteenth century BC, but is demonstrable
+across most of three centuries, from the fifteenth through the
+thirteenth centuries BC.
+
+It may simply be that neither side produced objects that the
+other wanted, or that the objects exchanged were perishable (e.g.,
+olive oil, wine, wood, textiles, metals) and have long since
+disintegrated or been made into other objects, but the dearth of
+trade may also have been deliberate. We will see, in the next
+section, a Hittite diplomatic treaty in which a deliberate
+economic embargo against the Mycenaeans is spelled out—“no
+ship of the Ahhiyawa may go to him”—and it seems quite likely
+that we are looking here at one of the earliest examples in history
+of such an embargo.
+
+As has been pointed out elsewhere,66 such a scenario, and a
+motivation for instituting an embargo, is supported by evidence
+that the Mycenaeans actively encouraged anti-Hittite activities in
+western Anatolia.67 As noted at the beginning of this section, if
+Amenhotep III had sent an embassy to the Aegean, as recorded on
+his so-called Aegean List at his mortuary temple at Kom el-Hetan,
+in order to help contain the rising power of the Hittites, such
+Egyptian anti-Hittite overtures, particularly those that benefited
+Mycenae, may have found an eager ally in the Aegean.
+
+Alternatively, the hostility and lack of trade between
+Mycenaeans and Hittites might well have been the result of an
+anti-Hittite treaty signed between Egypt and the Aegean during
+the time of Amenhotep III. In short, it seems that the politics,
+trade, and diplomacy of thirty-five hundred years ago, especially
+during the fourteenth century BC, were not all that dissimilar to
+those practiced as part and parcel of the globalized economy of
+our world today, complete with economic embargoes, diplomatic embassies, and both gifts and power plays at the highest
+diplomatic levels.

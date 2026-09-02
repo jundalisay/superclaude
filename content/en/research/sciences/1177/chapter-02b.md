@@ -1,131 +1,162 @@
 ---
 heading: Chapter 2b
-title: "Act Ii An (Aegean) Affair To Remember: The Fourteenth Century BC"
-weight: 34
+title: "The Amarna Archives"
+weight: 33
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
-1. Keftiu (Crete) and
-2. Tanaja (mainland Greece)
 
-3. Knossos and its port city of Amnisos
-4. Phaistos and Kydonia, listed in an order that goes from east to west
+An archive of royal records of Amenhotep III was found in Tell el-Amarna, which contains the ruins of the city once called Akhetaten (meaning “Horizon of the Solar Disk”).10 
 
-All of these either had Minoan palaces or, in the case of Amnisos, functioned as a port for a nearby Minoan palace.
+Amenhotep 3rd’s heretic son, Amenhotep IV, better known as Akhenaten, had built it in the mid-fourteenth century BC as a new capital city.
 
-Next on the list comes the island of Kythera, positioned midway between Crete and mainland Greece, and then important Mycenaean sites and regions on mainland Greece, including Mycenae and its port city of Nauplion, the region of Messenia, and perhaps the city of Thebes in Boeotia. Last on the list are more names from Minoan Crete, this time in order from west to east and including Amnisos again.
+Akhenaten was Amenhotep III’s successor, probably serving as
+coruler with his father for a few years before Amenhotep died in
+1353 BC.
 
-The list looks suspiciously like an itinerary of a round-trip
-voyage from Egypt to the Aegean and back again.
+Soon after assuming sole power, Akhenaten implemented what is now called the “Amarna Revolution.” He
+closed down the temples belonging to Ra, Amun, and other major
+deities, seized their vast treasuries, and generated for himself
+unrivaled power, as the head of the government, military, and
+religion. He condemned the worship of every Egyptian deity
+except Aten, the disk of the sun, whom he—and he alone—was
+allowed to worship directly.
 
-According to
-the order of the names, the voyagers from Egypt went first to
-Crete, perhaps to visit the Minoan royalty and merchants with
-whom, by this point, the Egyptians had been familiar for almost a
-century.
+This is sometimes seen as the first attempt at monotheism,
+since seemingly only one god was worshipped, but in fact the
+matter is quite debatable (and has been the subject of numerous scholarly discussions). For the ordinary Egyptians, there were
+essentially two gods: Aten and Akhenaten, for the people were
+allowed to pray only to Akhenaten; he then prayed to Aten on
+their behalf. Akhenaten may have been a religious heretic, and
+perhaps even a fanatic to a certain degree, but he was also
+calculating and a powermonger rather than a zealot.
 
-They then continued, via Kythera, to mainland Greece to
-visit the Mycenaeans—the new power on the scene, who were
-taking over the trade routes to Egypt and the Near East from the
-Minoans about this time. And then they returned to Egypt via
-Crete as the fastest and most direct route, calling at Amnisos for
-water and food as one of the last stops on the homeward journey,
-just as they had made that port their first stop shortly after
-setting out.
-
-The lists on the statue bases as a whole catalog the world
-known to the Egyptians of Amenhotep III’s time. Most of the
-names were already known from other documents and treaties;
-among these familiar names were the Hittites and the
-Kassites/Babylonians (about whom more below), as well as cities in Canaan. The Aegean place-names, however, were (and still are)
-exceptional and were carved in a particular order. Some were
-even specifically recarved, for the first three names were recut (to
-their present values) at some point before or while the list was on
-display.5
-
-Some scholars believe that this list is merely propaganda, idle
-boasting by a pharaoh who had heard of faraway places and
-yearned to conquer them or wished to convince people that he
-had. Others believe that the list is not mendacious selfaggrandizement, but is based on factual knowledge and actual
-contacts in that long-ago time. This latter explanation seems more
-likely, for we know, from the numerous other depictions in tombs
-of nobles dating to the time of Hatshepsut and Thutmose III in the
-fifteenth century BC, that there were multiple contacts with the
-Aegean during that earlier time, including instances in which
-diplomatic ambassadors and/or merchants came to Egypt bearing
-gifts. It is probable that such contacts continued into the next
-century, during the reign of Amenhotep III. If so, we may have
-here the earliest written record of a round-trip voyage from Egypt
-to the Aegean, a voyage undertaken more than thirty-four
-centuries ago, a few decades before the boy king Tut ruled the
-eternal land.
-
-The suggestion that we are looking at the documentation of an
-early fourteenth-century BC voyage from Egypt to the Aegean,
-rather than a record of Mycenaeans and Minoans coming to
-Egypt, seems plausible for the following fascinating reason. There
-are a number of objects with the cartouche (royal name) of either
-Amenhotep III or his wife Queen Tiyi carved upon them that have
-been found by archaeologists at six sites scattered around the
-Aegean area—on Crete, mainland Greece, and Rhodes. There is a
-correlation between the Aegean find-spots of these objects and
-the sites named on the Aegean List, for four of the six sites are
-included among the names carved on it.
-
-Some of these inscribed objects are simply scarabs and small
-stamp seals, but one is a vase; all have the cartouche of either the
-pharaoh or his wife. Most important are the numerous fragments
-of double-sided plaques made of faience, a material halfway
-between pottery and glass, which were found at Mycenae,
-probably the leading city in fourteenth-century BC Greece. These
-fragments, of which there are at least twelve, come from a total
-of nine or more original plaques, each measuring about six to
-eight inches in length, about four inches wide, and less than an
-inch thick. All had Amenhotep III’s titles baked onto them in
-black paint, reading on both sides of each plaque, “the good god,
-Neb-Ma’at-Re, son of Re, Amenhotep, prince of Thebes, given
-life.”6
-
-Egyptologists refer to these as foundation deposit plaques.
-They are normally found, at least in Egypt, placed in specific
-deposits under temples or, sometimes, statues of the king.7 They
-function much as time capsules do in our present culture, and as
-such deposits have done since the Early Bronze Age in
-Mesopotamia. Their presumed purpose was to ensure that the
-gods and future generations would know the identity and
-generosity of the donor/builder, and the date when the building,
-statue, or other construction was completed.
-
-What makes these plaques at Mycenae unique is simply that—
-they are unique in the Aegean. Actually, they are exclusive to
-Mycenae, out of all the places in the entire ancient Mediterranean
-world, for such faience plaques with Amenhotep III’s name on
-them have never been found anywhere else outside of Egypt. The
-first fragments at Mycenae were found and published by Greek
-archaeologists back in the late 1800s and early 1900s, when they
-were thought to be made out of “porcelain,” and Amenhotep’s
-name was not yet clearly recognized or deciphered. More were
-discovered over the years, including some by the eminent British
-archaeologist Lord William Taylor within the Cult Center at
-Mycenae. The most recent fragment was discovered just a few years ago, discarded deep within a well at Mycenae, by UC
-Berkeley archaeologist Kim Shelton.
-
-None of the fragments have been found in their original
-context at Mycenae. In other words, we have no idea how they
-were originally used at the site. But the mere fact that they are at
-Mycenae, and nowhere else in the world, indicates that there is
-probably a special relationship between this site and Egypt during
-the time of Amenhotep III, especially since it is at Mycenae that
-the vase of Amenhotep III was also found, as well as two scarabs
-of his wife Queen Tiyi. Considering that this region was on the
-fringes—the very periphery—of the known and civilized region
-with which Egypt was in contact during this period, the
-correlation of these objects with the names on the Aegean List
-suggests that something unusual in terms of international contact
-had probably taken place during Amenhotep III’s reign.
+His religious
+revolution may actually have been a shrewd political and
+diplomatic move, designed to restore the power of the king:
+power that had slowly been lost to the priests during the reigns of
+previous pharaohs.
 
 
-The imported Egyptian and Near Eastern objects found in the Aegean form an interesting pattern, perhaps related to the Aegean List. Minoan Crete apparently continued to be the principal destination within the Aegean of the trade routes from Egypt and the Near East during at least the early part of the fourteenth century BC. However, since objects from Egypt, Canaan, and Cyprus are found in approximately equal quantities on Crete, it may be that goods from Egypt were no longer the dominant cargo being carried by the merchants and traders sailing between Crete and the Eastern Mediterranean, as had been the case during the previous centuries. If Egyptian and Minoan envoys and traders dominated the routes to the Aegean during the earlier periods, they were now most likely either joined, or even replaced, by others from Canaan and Cyprus.
+But Akhenaten did not undo everything that his ancestors had
+put into place. In particular, he recognized the importance of
+maintaining international relationships, especially with the kings
+of the lands surrounding Egypt. Akhenaten carried on his father’s
+tradition of diplomatic negotiations and trade partnerships with
+foreign powers, both high and low, including those with
+Suppiluliuma and the Hittites.11 He kept an archive of the
+correspondence with these kings and governors in his capital city,
+Akhetaten. These are the so-called Amarna Letters, inscribed on
+clay tablets, which the peasant woman accidentally uncovered in
+1887.
+
+The archive was originally housed in the “records office” of
+the city. It is a treasure trove of correspondence with kings and
+governors with whom both Amenhotep and his son Akhenaten
+had diplomatic relationships, including Cypriot and Hittite rulers,
+and Babylonian and Assyrian kings. There are also letters to and
+from the local Canaanite rulers, including Abdi-Hepa of
+Jerusalem and Biridiya of Megiddo. The letters from these local
+rulers, who were usually vassals of the Egyptians, are full of
+requests for Egyptian help, but those sent between the rulers of
+the Great Powers (Egypt, Assyria, Babylon, Mitanni, and the
+Hittites) are more frequently filled with requests and mentions of
+gifts made on a much higher diplomatic level. This Amarna
+archive, along with that found at Mari from the eighteenth
+88
+century BC, is among the first in the history of the world to
+document the substantial and sustained international relations of
+the Bronze Age in Egypt and the Eastern Mediterranean.12
+The letters were written in Akkadian, the diplomatic lingua
+franca of the day used in international relations, on nearly four
+hundred clay tablets. Having been sold on the antiquities market
+at the time of their discovery, the tablets are now dispersed
+among museums in England, Egypt, the United States, and
+Europe, including the British Museum in London, the Cairo
+Museum in Egypt, the Louvre in Paris, the Oriental Museum at
+the University of Chicago, the Pushkin Museum in Russia, and the
+Vorderasiatisches Museum in Berlin (which has almost two-thirds
+of the tablets).13
+
+
+## GREETING-GIFTS AND FAMILY RELATIONS
+
+These letters, including copies of those sent to the foreign rulers
+and replies from those rulers, provide us with insights into
+trading and international connections in the time of Amenhotep
+III and Akhenaten during the mid-fourteenth century BC. It is
+apparent that much of the contact involved “gift giving”
+conducted at the very highest levels—from one king to another.
+For instance, one Amarna Letter, sent to Amenhotep III by
+Tushratta, the king of Mitanni in northern Syria who came to the
+throne about 1385 BC, opens with a paragraph containing
+traditional greetings and then goes on to discuss the gifts that he
+has sent, brought by his messengers:
+
+Say to Nibmuareya [Amenhotep III], the king of Egypt, my brother: Thus [says]
+Tushratta, the king of Mitanni, your brother. For me, all goes well. For you, may
+all go well. For Kelu-Hepa [your wife], may all go well. For your household, for
+your wives, for your sons, for your magnates [chief men], for your warriors, for
+your horses, for your chariots, and in your country, may all go very well . . .
+
+I herewith send you 1 chariot, 2 horses, 1 male attendant, 1 female attendant,
+from the booty from the land of Hatti. As the greeting-gift of my brother, I send
+you 5 chariots, 5 teams of horses. And as the greeting-gift of Kelu-Hepa, my
+sister, I send her 1 set of gold toggle-pins, 1 set of gold earrings, 1 gold mašuring, and a scent container that is full of “sweet oil.”
+I herewith send Keliya, my chief minister, and Tunip-ibri. May my brother let
+them go promptly so they can report back to me promptly, and I hear the
+greeting of my brother and rejoice. May my brother seek friendship with me, and
+may my brother send his messengers to me that they may bring my brother’s
+greetings to me and I hear them.14
+
+Another royal letter, from Akhenaten to Burna-Buriash II, the
+Kassite king of Babylon, includes a detailed list of the gifts that he
+has sent. The itemization of the gifts takes up more than three
+hundred lines of writing on the tablet. Included are objects of
+gold, copper, silver, and bronze, containers of perfume and sweet
+oil, finger-rings, foot-bracelets, necklaces, thrones, mirrors, linen
+cloth, stone bowls, and ebony boxes.15 Similar detailed letters
+with comparable long lists of objects, sometimes sent as part of a
+dowry accompanying a daughter and sometimes just sent as gifts,
+come from other kings, such as Tushratta of Mitanni.16 We should
+also note that the “messengers” referred to in these, and other,
+letters were often ministers, essentially sent as ambassadors, but
+were frequently also merchants, apparently serving double duty
+for both themselves and the king.
+
+In these letters, the kings involved often referred to each other
+as relatives, calling one another “brother” or “father/son,” even
+though usually they were not actually related, thereby creating
+“trade partnerships.”17 Anthropologists have noted that such
+efforts to create imaginary family relationships happen most
+frequently in preindustrial societies, specifically to solve the
+problem of trading when there are no kinship ties or statesupervised markets.18 Thus, a king of Amurru wrote to the
+neighboring king of Ugarit (both areas were located in coastal northern Syria): “My brother, look: I and you, we are brothers.
+Sons of a single man, we are brothers. Why should we not be on
+good terms with each other? Whatever desire you will write to
+me, I will satisfy it; and you will satisfy my desires. We form a
+unit.”19
+
+It should be emphasized that these two kings (of Amurru and
+Ugarit) were not necessarily related at all, even by marriage. Not
+all were, and not all appreciated this shortcut approach to
+diplomatic relations. The Hittites of Anatolia seem to have been
+especially prickly in this regard, for one Hittite king wrote to
+another king: “Why should I write to you in terms of
+brotherhood? Are we sons of the same mother?”
+
+It is not always clear what relationship merits use of the term “brother,” as opposed to “father” and “son,” but it usually seems to indicate equality in status or in age, with “father/son” being reserved to show respect. The Hittite kings, for instance, use “father” and “son” more frequently in their correspondence than do the rulers of any other major Near Eastern power, while the Amarna Letters employ almost entirely the term “brother,” whether for the mighty king of Assyria or the less-powerful king of Cyprus. It seems that the Egyptian pharaohs regarded the other Near Eastern kings, their trade partners, as members of an international brotherhood, regardless of age or years on the throne.
+
+In some cases, however, the two kings were actually related by marriage. For instance, in letters from Tushratta of Mitanni to Amenhotep III, Tushratta refers to Amenhotep III’s wife KeluHepa as his sister, which she actually was (his father had given her in marriage to Amenhotep III). Similarly, Tushratta also gave his own daughter, Tadu-Hepa, to Amenhotep III in another arranged marriage, which made Tushratta both brother-in-law (“brother”) and father-in-law (“father”) to Amenhotep.
+
+Thus, one of his letters legitimately starts with “Say to … the king of Egypt, my brother, my son-in-law … Thus speaks Tushratta, the king of the land of Mitanni, your father-in-law.”22 After Amenhotep III’s death, Akhenaten seems to have taken (or inherited) Tadu-Hepu as one of his wives, which gave Tushratta the right to call himself father-in-law to both Amenhotep III and Akhenaten in different Amarna Letters.
+
+In each case, the royal marriage was arranged to cement relations and treaties between the two powers, and specifically between the two individual kings. This also therefore gave Tushratta the right to call Amenhotep III his “brother” (though, technically, he was his brother-in-law) and to expect better relations with Egypt than he might otherwise have had. The marriages were accompanied by elaborate dowries, which are recorded in several of the Amarna Letters. For instance, one letter from Tushratta to Amenhotep III, which is only partially intact and not entirely legible, still lists 241 lines of gifts, of which he himself says: “It is all of these wedding-gifts, of every sort, that Tushratta, the king of Mitanni, gave to Nimmureya [Amenhotep III], the king of Egypt, his brother and his son-in-law. He gave them at the same time that he gave Tadu-Hepa, his daughter, to Egypt and to Nimmureya to be his wife.”
+
+Amenhotep III seems to have utilized this diplomatic angle of dynastic marriage to a greater extent than did any other king of his time, for we know that he married, and had in his harem, the daughters of the Kassite kings Kurigalzu I and Kadashman-Enlil I of Babylon, Kings Shuttarna II and Tushratta of Mitanni, and King Tarkhundaradu of Arzawa (located in southwestern Anatolia).25 Each marriage undoubtedly cemented yet another diplomatic treaty and allowed the kings in question to practice diplomatic relations as if between family members.
+
+Some kings attempted to take advantage of the link between dynastic marriage and gift giving right away, forgoing the other niceties. For instance, one Amarna Letter, probably from the Kassite king Kadashman-Enlil of Babylon to Amenhotep III, directly combines the two, when Kadashman-Enlil writes: Moreover, you, my brother … as to the gold I wrote you about, send me whatever is on hand, as much as possible, before your messenger [comes] to me, right now, in all haste … If during this summer, during the months of Tammuz or Ab, you send the gold I wrote you about, I will give you my daughter.26 For this cavalier attitude toward his own daughter, Amenhotep III admonished Kadashman-Enlil in another letter: “It is a fine thing that you give your daughters in order to acquire a nugget of gold from your neighbors!”27 And yet, at some point during his reign, the transaction did take place, for we know from three other Amarna Letters that Amenhotep III did marry a daughter of Kadashman-Enlil, although we do not know her name.
+

@@ -2,6 +2,7 @@
 heading: Chapter 1b
 title: "Flashback: Mesopotamia And The Minoans"
 weight: 8
+image: "/photos/old/colossi.jpg"
 c: darkslategray
 ---
 

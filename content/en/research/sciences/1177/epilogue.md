@@ -118,15 +118,14 @@ which were needed to keep the globalized economy of that time
 functioning and flowing smoothly. The cutting, or even partial
 dismantling, of those related networks would have had a
 disastrous effect back then, just as it would on our world today.
-237
-However, as was the case with the fall of the western Roman
-Empire, the end of the Bronze Age empires in the Eastern
+
+However, as was the case with the fall of the western Roman Empire, the end of the Bronze Age empires in the Eastern
 Mediterranean was not the result of a single invasion or cause,
 but came about because of multiple incursions and manifold
-reasons. Many of the same invaders responsible for the
-destructions in 1177 BC had been active during the reign of
-Pharaoh Merneptah in 1207 BC, thirty years earlier. Earthquakes,
-drought, and other natural disasters had also ravaged the Aegean
+reasons. Many of the same invaders responsible for the destructions in 1177 BC had been active during the reign of
+Pharaoh Merneptah in 1207 BC, thirty years earlier. 
+
+Earthquakes, drought, and other natural disasters had also ravaged the Aegean
 and Eastern Mediterranean for decades. Therefore, no single
 incident can really be imagined to have brought about the end of
 the Bronze Age; rather, the end must have come as the
@@ -168,8 +167,8 @@ empires, followed by the rise of new empires, which eventually
 fall and are replaced in turn by even newer empires, in a repeated
 cadence of birth, growth and evolution, decay or destruction, and
 ultimately renewal in a new form.
-One of the most interesting, and fertile, fields of current
-research on the ancient world lies in the consideration of what
+
+One of the most interesting, and fertile, fields of current research on the ancient world lies in the consideration of what
 happens after civilizations collapse, “beyond collapse,” but this is
 a topic for another book.7 An example of this research is the work
 of William Dever, professor emeritus at the University of Arizona
@@ -183,13 +182,12 @@ research, [this period] emerges rather as the catalyst of a new age
 and would bequeath to the modern Western world a cultural
 heritage, especially through the Phoenicians and Israelites, of
 which we are still the benefactors.”8
+
 Moreover, as Christopher Monroe has stated, “all civilizations
 eventually experience violent restructuring of material and
 ideological realities such as destruction or re-creation.”9 We see
 this in the constant rise and fall of empires over time, including
-the Akkadians, Assyrians, Babylonians, Hittites, Neo-Assyrians,
-239
-Neo-Babylonians, Persians, Macedonians, Romans, Mongols,
+the Akkadians, Assyrians, Babylonians, Hittites, Neo-Assyrians, Neo-Babylonians, Persians, Macedonians, Romans, Mongols,
 Ottomans, and others, and we should not think that our current
 world is invulnerable, for we are in fact more susceptible than we
 might wish to think. While the 2008 collapse of Wall Street in the
@@ -238,5 +236,3 @@ innovative ideas, such as the alphabet, monotheistic religion, and
 eventually democracy. Sometimes it takes a large-scale wildfire to
 help renew the ecosystem of an old-growth forest and allow it to
 thrive afresh.
-
-

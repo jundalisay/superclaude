@@ -7,58 +7,92 @@ c: darkslategray
 ---
 
 
-The chronology for Egyptian regnal dates follows the most
-commonly accepted scheme, for which see, for example, Kitchen
-1982 and Clayton 1994. The following list does not include all
-names mentioned in the text, but rather those of the major rulers
-and related personnel.
-
-Adad-nirari I: King of Assyria; ruled 1307–1275 BC. Conquered kingdom of Mitanni.
-Ahmose: Egyptian queen, Eighteenth Dynasty; ca. 1520 BC. Wife of Thutmose I and
-mother of Hatshepsut.
-
-Ahmose I: Pharaoh and founder of the Eighteenth Dynasty; ruled 1570–1546 BC.
-Responsible, along with his brother Kamose, for expelling the foreign Hyksos from
-Egypt.
-
-Akhenaten: Heretic pharaoh, Eighteenth Dynasty; ruled 1353–1334 BC. Banned all
-gods and goddess except for Aten; possible monotheist. Husband of Nefertiti; father
-of Tutankhamen.
-
-Amenhotep III: Pharaoh, Eighteenth Dynasty; ruled 1391–1353 BC. Extensive
-correspondence with fellow royal rulers found at the site of Amarna; established trade connections as far away as Mesopotamia and the Aegean.
-
-Ammistamru I: King of Ugarit; ruled ca. 1360 BC. Corresponded with the Egyptian
-pharaohs.
-
-Ammistamru II: King of Ugarit; ruled 1260–1235 BC. In charge during the time that
-Sinaranu sent his ship from Ugarit to Crete.
-
-Ammurapi: Last king of Ugarit; ruled ca. 1215–1190/85 BC.
-
-Ankhsenamen: Egyptian queen, Eighteenth Dynasty; ca. 1330 BC. Daughter of
-
-Akhenaten and wife of Tutankhamen.
-
-Apophis: Hyksos king; ruled in Egypt ca. 1574 BC as part of the Fifteenth Dynasty.
-Quarreled with Seknenre, the Egyptian pharaoh ruling simultaneously elsewhere in
-the country.
-
-Assur-uballit I: King of Assyria; ruled 1363–1328 BC. Corresponded with Amarna
-pharaohs; major player in the world of realpolitik.
-
-Ay: Pharaoh, Eighteenth Dynasty; ruled 1325–1321 BC. Military man who became
-pharaoh by marrying Ankhsenamen after the death of Tutankhamen.
-
-Burna-Buriash II: Kassite king of Babylon; ruled 1359–1333 BC. Corresponded with
-Amarna pharaohs.
-
-Hammurabi: King of Babylon; ruled 1792–1750 BC. Renowned for his law code.
-Hatshepsut: Egyptian queen/pharaoh, Eighteenth Dynasty; ruled 1504–1480 BC. Came
-to the throne as regent for her stepson Thutmose III; ruled as pharaoh for
+<!-- Person | Description
+--- | ---
+Adad-nirari 1st | King of Assyria; ruled 1307–1275 BC. Conquered kingdom of Mitanni. 
+Ahmose | Egyptian queen, Eighteenth Dynasty; ca. 1520 BC. Wife of Thutmose 1st and mother of Hatshepsut.
+Ahmose 1st | Pharaoh and founder of the 18th Dynasty; ruled 1570–1546 BC. Responsible, along with his brother Kamose, for expelling the foreign Hyksos from Egypt.
+Akhenaten | Heretic pharaoh, Eighteenth Dynasty; ruled 1353–1334 BC. Banned all gods and goddess except for Aten; possible monotheist. Husband of Nefertiti; father of Tutankhamen. 
+Amenhotep 3rd | Pharaoh, Eighteenth Dynasty; ruled 1391–1353 BC. Extensive correspondence with fellow royal rulers found at the site of Amarna; established trade connections as far away as Mesopotamia and the Aegean.
+Ammistamru 1st | King of Ugarit; ruled ca. 1360 BC. Corresponded with the Egyptian pharaohs.
+Ammistamru 2nd | King of Ugarit; ruled 1260–1235 BC. In charge during the time that Sinaranu sent his ship from Ugarit to Crete
+Ammurapi | Last king of Ugarit; ruled ca. 1215–1190/85 BC
+Ankhsenamen | Egyptian queen, Eighteenth Dynasty; ca. 1330 BC. Daughter of Akhenaten and wife of Tutankhamen
+Apophis | Hyksos king; ruled in Egypt ca. 1574 BC as part of the Fifteenth Dynasty. Quarreled with Seknenre, the Egyptian pharaoh ruling simultaneously elsewhere in the country.
+Assur-uballit 1st | King of Assyria; ruled 1363–1328 BC. Corresponded with Amarna pharaohs; major player in the world of realpolitik
+Ay | Pharaoh, 18th Dynasty; ruled 1325–1321 BC. Military man who became pharaoh by marrying Ankhsenamen after the death of Tutankhamen
+Burna-Buriash 2nd | Kassite king of Babylon; ruled 1359–1333 BC. Corresponded with Amarna pharaohs
+Hammurabi | King of Babylon; ruled 1792–1750 BC. Renowned for his law code. 
+Hatshepsut | Egyptian queen/pharaoh, Eighteenth Dynasty; ruled 1504–1480 BC. Came to the throne as regent for her stepson Thutmose III; ruled as pharaoh for
 approximately twenty years.
+ -->
 
-Hattusili I: Hittite king; ruled 1650–1620 BC. Probably responsible for moving the Hittite capital to Hattusa.
+
+| Name | Title / Role | Reign / Date | Key Notes |
+| :--- | :--- | :--- | :--- |
+| Adad-nirari I | King of Assyria | 1307–1275 BC | Conquered the kingdom of Mitanni. |
+| Ahmose | Egyptian queen | ca. 1520 BC | Eighteenth Dynasty; wife of Thutmose I and mother of Hatshepsut. |
+| Ahmose I | Pharaoh | 1570–1546 BC | Founder of the 18th Dynasty; expelled the Hyksos from Egypt with his brother Kamose. |
+| Akhenaten | Pharaoh | 1353–1334 BC | Eighteenth Dynasty; banned all gods except Aten; husband of Nefertiti; father of Tutankhamen. [According to Ra of Law of One, Akhenaten was the enlightened leader] |
+| Amenhotep III | Pharaoh | 1391–1353 BC | Eighteenth Dynasty; extensive correspondence found at Amarna; trade connections to Mesopotamia and the Aegean. |
+| Ammistamru I | King of Ugarit | ca. 1360 BC | Corresponded with Egyptian pharaohs. |
+| Ammistamru II | King of Ugarit | 1260–1235 BC | In charge during Sinaranu's voyage from Ugarit to Crete. |
+| Ammurapi | King of Ugarit | ca. 1215–1190/85 BC | Last king of Ugarit. |
+| Ankhsenamen | Egyptian queen | ca. 1330 BC | Eighteenth Dynasty; daughter of Akhenaten and wife of Tutankhamen. |
+| Apophis | Hyksos king | ca. 1574 BC | Fifteenth Dynasty; quarreled with Seknenre. |
+| Assur-uballit I | King of Assyria | 1363–1328 BC | Corresponded with Amarna pharaohs; a major player in realpolitik. |
+| Ay | Pharaoh | 1325–1321 BC | Eighteenth Dynasty; military man who became pharaoh by marrying Ankhsenamen after Tutankhamen's death. |
+| Burna-Buriash II | Kassite king of Babylon | 1359–1333 BC | Corresponded with Amarna pharaohs. |
+| Hammurabi | King of Babylon | 1792–1750 BC | Renowned for his law code. |
+| Hatshepsut | Egyptian queen/pharaoh | 1504–1480 BC | Eighteenth Dynasty; came to power as regent for Thutmose III; ruled as pharaoh for about 20 years. |
+| Hattusili I | Hittite king | 1650–1620 BC | Probably responsible for moving the Hittite capital to Hattusa. |
+| Hattusili III | Hittite king | 1267–1237 BC | Signed peace treaty with Egyptian pharaoh Ramses II. |
+| Idadda | King of Qatna | ca. 1340 BC | Presumably defeated by Hanutti, commander in chief of the Hittite army under Suppiluliuma I. |
+| Kadashman-Enlil I | Kassite king of Babylon | ca. 1374–1360 BC | Corresponded with Amarna pharaohs; daughter married Egyptian pharaoh Amenhotep III. |
+| Kamose | Pharaoh | 1573–1570 BC | Last king of the Seventeenth Dynasty; responsible, along with his brother Ahmose, for expelling the Hyksos from Egypt. |
+| Kashtiliashu IV | Kassite king of Babylon | ca. 1232–1225 BC | Defeated by Tukulti-Ninurta I of Assyria. |
+| Khyan | Hyksos king | ca. 1600 BC | Fifteenth Dynasty; items with his name inscribed found in Anatolia, Mesopotamia, and the Aegean. |
+| Kukkuli | King of Assuwa | ca. 1430 BC | Initiated the Assuwan Rebellion against the Hittites. |
+| Kurigalzu I | Kassite king of Babylon | ca. 1400–1375 BC | Corresponded with Amarna pharaohs; daughter married Egyptian pharaoh Amenhotep III. |
+| Kurigalzu II | Kassite king of Babylon | ca. 1332–1308 BC | Puppet king placed on the throne by Assur-uballit I of Assyria. |
+| Kushmeshusha | King of Cyprus | early 12th century BC | A letter from this king was found in the House of Urtenu at Ugarit. |
+| Manetho | Egyptian priest | 3rd century BC | Lived and wrote during the Hellenistic period. |
+| Merneptah | Pharaoh | 1212–1202 BC | Nineteenth Dynasty; known for his stele mentioning Israel and for fighting the first wave of the Sea Peoples. |
+| Mursili I | Hittite king | 1620–1590 BC | Destroyed Babylon in 1595 BC, ending Hammurabi’s dynasty. |
+| Mursili II | Hittite king | 1321–1295 BC | Son of Suppiluliuma I; wrote the Plague Prayers and other important documents. |
+| Muwattalli II | Hittite king | 1295–1272 BC | Fought against Ramses II at the Battle of Qadesh. |
+| Nefertiti | Egyptian queen | ca. 1350 BC | Married to Akhenaten; may have been a power behind the throne. |
+| Niqmaddu II | King of Ugarit | ca. 1350–1315 BC | Corresponded with Egyptian pharaohs during the Amarna Period. |
+| Niqmaddu III | King of Ugarit | ca. 1225–1215 BC | Penultimate king of Ugarit. |
+| Niqmepa | King of Ugarit | ca. 1313–1260 BC | Son of Niqmaddu II and father of Ammistamru II. |
+| Ramses II | Pharaoh | 1279–1212 BC | Nineteenth Dynasty; fought Muwattalli II at Qadesh and later signed a peace treaty with Hattusili III. |
+| Ramses III | Pharaoh | 1184–1153 BC | Twentieth Dynasty; fought the second wave of the Sea Peoples; assassinated in a harem conspiracy. |
+| Saushtatar | King of Mitanni | ca. 1430 BC | Expanded the Mitannian kingdom by attacking the Assyrians; may have fought the Hittites. |
+| Seknenre | Pharaoh | ca. 1574 BC | Seventeenth Dynasty; likely killed in battle, with a mortal head wound visible on his mummy. |
+| Shattiwaza | King of Mitanni | ca. 1340 BC | Son of Tushratta. |
+| Shaushgamuwa | King of Amurru | ca. 1225 BC | Signed a treaty with the Hittites mentioning Ahhiyawa. |
+| Shutruk-Nahhunte | Elamite king | 1190–1155 BC | Attacked Babylon and overthrew its king in 1158 BC. |
+| Shuttarna II | King of Mitanni | ca. 1380 BC | Corresponded with Amarna pharaohs; daughter married Amenhotep III. |
+| Sinaranu | Merchant in Ugarit | ca. 1260 BC | Sent ships to Minoan Crete; exempt from taxation. |
+| Suppiluliuma I | Hittite king | ca. 1350–1322 BC | Expanded Hittite holdings; corresponded with an Egyptian queen who requested one of his sons as her husband. |
+| Suppiluliuma II | Hittite king | ca. 1207 BC onward | Last Hittite king; fought naval battles and invaded Cyprus. |
+| Tarkhundaradu | King of Arzawa | ca. 1360 BC | Corresponded with Amarna pharaohs; daughter married Amenhotep III. |
+| Thutmose I | Pharaoh | 1524–1518 BC | Eighteenth Dynasty; father of Hatshepsut and Thutmose II. |
+| Thutmose II | Pharaoh | 1518–1504 BC | Eighteenth Dynasty; half-brother and husband of Hatshepsut; father of Thutmose III. |
+| Thutmose III | Pharaoh | 1479–1450 BC | Eighteenth Dynasty; fought the Battle of Megiddo in his first year. |
+| Tiyi | Egyptian queen | ca. 1375 BC | Wife of Amenhotep III; mother of Akhenaten. |
+| Tudhaliya I/II | Hittite king | ca. 1430 BC | Put down the Assuwan Rebellion; dedicated Mycenaean swords at Hattusa. |
+| Tudhaliya IV | Hittite king | 1237–1209 BC | Responsible for the sanctuary at Yazlıkaya, near Hattusa. |
+| Tukulti-Ninurta I | King of Assyria | 1243–1207 BC | Defeated Kashtiliashu IV of Babylon. |
+| Tushratta | King of Mitanni | ca. 1360 BC | Son of Shuttarna II; corresponded with Amarna pharaohs; daughter married Amenhotep III. |
+| Tutankhamen | Pharaoh | 1336–1327 BC | Eighteenth Dynasty; famous boy king whose tomb contained fabulous wealth. |
+| Twosret | Egyptian queen | 1187–1185 BC | Last ruler of the Nineteenth Dynasty; widow of Pharaoh Seti II. |
+| Zannanza | Hittite prince | ca. 1324 BC | Son of Suppiluliuma I; assassinated en route to marry an Egyptian queen. |
+| Zimri-Lim | King of Mari | 1776–1758 BC | Contemporary of Hammurabi; author of some of the "Mari Letters." |
+
+
+
+<!-- Hattusili I: Hittite king; ruled 1650–1620 BC. Probably responsible for moving the Hittite capital to Hattusa.
 
 Hattusili III: Hittite king; ruled 1267–1237 BC. Signed peace treaty with Egyptian
 pharaoh Ramses II.
@@ -160,3 +194,4 @@ marriage to widowed Egyptian queen but assassinated while en route to Egypt.
 Zimri-Lim: King of Mari in what is now modern Syria; ruled 1776–1758 BC. Contemporary of Hammurabi of Babylon and author of some of the “Mari Letters,”
 which give insight into life in Mesopotamia during the eighteenth century BC.
 
+ -->

@@ -2,6 +2,7 @@
 heading: Chapter 1
 title: "Act 1 -- Of Arms And The Man: The 15th Century Bc"
 weight: 6
+image: "/photos/old/colossi.jpg"
 c: darkslategray
 ---
 

@@ -2,7 +2,8 @@
 heading: Chapter 1d
 title: "Hatshepsut And Thutmose 3Rd"
 weight: 15
-# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+image: "/photos/old/colossi.jpg"
+description: ""
 c: darkslategray
 ---
 
