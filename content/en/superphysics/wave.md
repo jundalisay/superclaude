@@ -80,3 +80,5 @@ This leads to 4 properties that are always have some relation to the observer:
 
 Also, there is no rigid or regular waveforms like sine, sawtooth, triangle, or square waves since metaphysical waves are confined only by the Negative Force
 
+Newton thought he disproved Decscartes aethereal vortices simply because he was using physicality as the basis, whereas Descartes used spirit, soul, or the absrtact God as the basis (not the physical biblical God called the Anunnaki aliens)
+
