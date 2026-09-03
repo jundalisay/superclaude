@@ -58,17 +58,23 @@ Like acidity, special care must be taken to clear the bowels regularly.
 
 All remedies prescribed for acidity are also applicable in this disease. 
 
+### Topical
+
+1. Castor oil with a little salt or
+2. Ákanda gum with a little salt, rubbed on the rheumatic limbs, will give good results.
+3. Rheumatism can be cured by placing a warm solution of sajne gum [moringa bark resin] mixed with water and a little asafoetida (Ferula foetida Regel) on the affected limb, or
+4. Applying garlic, ginger and the root of apámárga, pounded together, to the affected limb.
+5. Fry some pork in mustard oil and rub that oil on the limbs. This will ease the pain.
+6. Tiger fat rubbed on the limbs will work similarly.
+
+
+### Ingested
+
 1. When rheumatism first starts expressing itself, a mild purgative will cure it quickly. 10 or 12 tender leaves of sodála fried in ghee; or
-2. 10 or 12 tender leaves of bichuti fried in ghee – either of the two eaten with rice, will yield good results in the initial stages of rheumatism.
-3. Castor oil with a little salt or
-4. Ákanda gum with a little salt, rubbed on the rheumatic limbs, will give good results.
-5. Rheumatism can be cured by placing a warm solution of sajne gum mixed with water and a little asafoetida (Ferula foetida Regel) on the affected limb, or
-6. Applying garlic, ginger and the root of apámárga, pounded together, to the affected limb.
-7. Fry some pork in mustard oil and rub that oil on the limbs. This will ease the pain.
-8. Tiger fat rubbed on the limbs will work similarly.
-9. Either anantamúla extract with honey or
-10. Gulaiṋca extract; duly cooled and taken in 5 tolas’ quantity every morning, will yield good results within a very short time.
-11. Boil 2 tolas of triphalá in half a seer of water. When it has boiled down to 1/8 seer and is still warm, add 2 tolas of ginger extract. Drinking this for 3 days will surely cure rheumatic fever as well as to elephantiasis, filaria, or any similar condition.
+2. 10 or 12 tender leaves of bichuti [stinging nettle] fried in ghee – either of the two eaten with rice, will yield good results in the initial stages of rheumatism.
+3. Either anantamúla extract with honey or
+4. Gulaiṋca [Plumeria] extract; duly cooled and taken in 5 tolas’ quantity every morning, will yield good results within a very short time.
+5. Boil 2 tolas of triphalá in half a seer of water. When it has boiled down to 1/8 seer and is still warm, add 2 tolas of ginger extract. Drinking this for 3 days will surely cure rheumatic fever as well as to elephantiasis, filaria, or any similar condition.
 
 
 <!-- ## Symptoms
