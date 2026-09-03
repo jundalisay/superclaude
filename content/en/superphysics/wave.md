@@ -45,6 +45,38 @@ Superphysics then is the paradigm that exlains how these 2 forces create both ph
 - Bio Superphysics explains phenomena that is in between the physical and metaphysical as the interaction of living organisms with the material environment.
 
 
-We now have a framework for solving prpblems in physics, society, and health by using it to anaylze cause and effect.
+This gives us a framework for solving prpblems in physics, society, and health by using it to anaylze cause and effect.
 
 This is why Hume says that this system will be superior to science in terms of usefullness.
+
+
+## Metaphysical Waves vs Physical Waves
+
+A very common misconception by science is to treat metaphysical waves as physical waves.
+
+This is similar to Newton treating Descartes' aethereal vortices as physical liquid vortices.
+
+But metaphysical Waves and vortices are different from Physical Waves and vortices. 
+
+Physical waves have 5 properties because of the limitation of the physical domain
+
+1. Amplitude
+2. Frequency
+3. Wavelength
+4. Time Period
+5. Speed
+
+
+Metaphysical waves on the other hand are not objective. This means they are not objectively measureable. Instead, they are subjectively measured through the waves of the observer.
+
+A very common example of metaphysical waves are our feelings. A feeling can emerge then disappear instantly and might be only be perceivable by you.
+
+This leads to 4 properties that are always have some relation to the observer:
+
+1. Commonality -- This does not exist in physical waves other than a wave having the nature of a wave.
+2. Density -- This is similar to frequency
+3. Balance 
+4. Spread -- This is similar to speed. However, this connects more to dimensions instead of spatial area since in the upper layers, there is no space.
+
+Also, there is no rigid or regular waveforms like sine, sawtooth, triangle, or square waves since metaphysical waves are confined only by the Negative Force
+
