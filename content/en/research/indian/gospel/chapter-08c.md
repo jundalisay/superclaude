@@ -16,8 +16,6 @@ MASTER: "Yes, but can a mere name achieve anything without the yearning love of 
 
 Suppose a man repeats the name of God mechanically, while his mind is absorbed in 'woman and gold'. Can he achieve anything? 
 
-<!-- Mere muttering of magic words doesn't cure one of the pain of a spider or scorpion sting. One must also apply the smoke of burning cow-dung." -->
-
 GOSWAMI: "But what about Ajamila then? He was a great sinner. But he uttered the name of Narayana on his death-bed, calling his son, who also had that name. And thus he was liberated."
 
 MASTER: "Perhaps Ajamila had done many spiritual things in his past births. He once practised austerity. Besides, those were the last moments of his life. 
