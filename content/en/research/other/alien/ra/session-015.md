@@ -1,12 +1,12 @@
 ---
 heading: Session 15
-title: "Rapid Aging"
+title: "The Energy Centers"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
 weight: 38
 date: 1981-01-24
-tags: ['', '']
+tags: ['chakras', '']
 ---
 
 
@@ -26,6 +26,10 @@ We communicate at a set rate which is dependent upon our careful manipulation of
 {{< r a="Don Elkins" >}}Then I should ask my questions rapidly?{{< /r >}}
 
 {{< l a="Ra" >}}We suggest that to obtain the answers you require may mean that you invest some of what you experience as time. Although you lose the answer-time, you gain thereby in the specificity of the answer as many times in the past we have needed clarification of hastily phrased questions.{{< /l >}}
+
+
+
+### Rapid Aging
 
 {{< r a="Don Elkins" >}}Why does rapid aging occur on this planet?{{< /r >}}
 

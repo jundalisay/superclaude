@@ -11,7 +11,8 @@ tags: ['healing', '']
 
 
 
-{{< l a="Ra" >}}We proceed now with the third area of teach/learning concerning the development of the energy powers of healing.
+{{< l a="Ra" >}}
+We proceed now with the third area of teach/learning concerning the development of the energy powers of healing.
 
 The third area is the spiritual complex which embodies the fields of force and consciousness which are the least distorted of your mind/body/spirit complex.
 

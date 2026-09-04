@@ -3,9 +3,9 @@ heading: Session 1
 title: "Ra"
 description: ""
 c: "indigo"
+tags: ['confederation of planets']
 image: /covers/ra.jpg
-image: /covers/ra.jpg
-weight: 3
+weight: 4
 date: 1981-01-15
 ---
 

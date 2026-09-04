@@ -30,48 +30,92 @@ This is also true of densities 4-6 with the mind/body/spirit complex totality co
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then would the mind/body/spirit complex totality be responsible for programming changes in catalyst during, say, a third density experience of the mind/body/spirit complex so that the proper catalyst would be added, shall we say, as conditions for that complex changed during third density experience? Is this correct?{{< /r >}}
-
-{{< l a="Ra" >}}This is incorrect. The Higher Self, as you call it, that is, that self which exists with full understanding of the accumulation of experiences of the entity, aids the entity in achieving healing of the experiences which have not been learned properly and assists as you have indicated in further life experience programming, as you may call it.
-
-The mind/body/spirit complex totality is that which may be called upon by the Higher Self aspect just as the mind/body/spirit complex calls upon the Higher Self. In the one case you have a structured situation within the space/time continuum with the Higher Self having available to it the totality of experiences which have been collected by an entity and a very firm grasp of the lessons to be learned in this density.
-
-The mind/body/spirit complex totality is as the shifting sands and is in some part a collection of parallel developments of the same entity. This information is made available to the Higher Self aspect. This aspect may then use these projected probability/possibility vortices in order to better aid in what you would call future life programming.{{< /l >}}
-
-
 {{< r a="Don Elkins" >}}
-Out of the Seth Material we have a statement here: Seth says that each entity here on Earth is one aspect or part of a higher self or Oversoul which has many aspects or parts in many dimensions all of which learn lessons which enable the higher self to progress in a balanced manner. is it correct that there are possibly many experiences similar to the one that we experience here in the third density that are governed by a single higher self? 
+Then would the mind/body/spirit complex totality be responsible for programming changes in catalyst during, say, a third density experience of the mind/body/spirit complex so that the proper catalyst would be added, shall we say, as conditions for that complex changed during third density experience?
 {{< /r >}}
 
 
-{{< l a="Ra" >}}The correctness of this statement is variable. The more in balance an entity becomes, the less the possibility/probability vortices may need to be explored in parallel experiences.{{< /l >}}
+{{< l a="Ra" >}}
+This is incorrect. The Higher Self is that self which exists with full understanding of the accumulation of experiences of the entity. It aids the entity in:
+- the healing of the experiences which have not been learned properly
+- further "life experience programming"
 
-{{< r a="Don Elkins" >}}Do I understand from this then that the higher self or Oversoul may break down into numerous units if the experience is required to what we would call simultaneously experience different types of catalyst and then oversee these experiences?{{< /r >}}
+The mind/body/spirit complex totality is called upon by the Higher Self just as the mind/body/spirit complex calls on the Higher Self. 
 
-{{< l a="Ra" >}}This is a statement we cannot say to be correct or incorrect due to the confusions of what you call time. True simultaneity is available only when all things are seen to be occurring at once. This overshadows the concept of which you speak. The concept of various parts of the being living experiences of varying natures simultaneously is not precisely accurate due to your understanding that this would indicate that this was occurring with true simultaneity. This is not the case.
+In the one case you have a structured situation within the space/time continuum with the Higher Self having available to it the totality of experiences which have been collected by an entity and a very firm grasp of the lessons to be learned in this density.
+
+The mind/body/spirit complex totality is:
+- like the shifting sands
+- in some part a collection of parallel developments of the same entity
+
+This information is made available to the Higher Self aspect which may then use these projected probability/possibility vortices in order to better aid in what you would call future life programming.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+The Seth Material says that each entity here on Earth is one aspect or part of a higher self or Oversoul which has many aspects or parts in many dimensions, all of which learn lessons which enable the higher self to progress in a balanced manner. 
+
+Is it correct that there are possibly many experiences similar to the one that we experience here in the third density that are governed by a single higher self? 
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The correctness of this statement is variable. The more in balance an entity becomes, the less the possibility/probability vortices may need to be explored in parallel experiences.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Can the higher self or Oversoul break down into numerous units if the experience is required to what we would call simultaneously experience different types of catalyst and then oversee these experiences?{{< /r >}}
+
+{{< l a="Ra" >}}
+This is a statement we cannot say to be correct or incorrect due to the confusions of time.
+
+True simultaneity is available only when all things are seen to be occurring at once. This overshadows the concept of which you speak. 
+
+The concept of various parts of the being living experiences of varying natures simultaneously is not precisely accurate due to your understanding that this would indicate that this was occurring with true simultaneity. This is not the case.
 
 The case is from universe to universe and parallel existences can then be programmed by the Higher Self, given the information available from the mind/body/spirit complex totality regarding the probability/possibility vortices at any crux.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could you give an example of an entity, possibly one from our historical past, possibly any entity that you might choose if you don’t wish to name one, and give an example of how this type of programming by the higher self would then bring about the education through parallel experiences please?{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+Could you give an example of an entity, possibly one from our historical past, possibly any entity that you might choose if you don’t wish to name one, and give an example of how this type of programming by the higher self would then bring about the education through parallel experiences please?{{< /r >}}
+
 
 {{< l a="Ra" >}}Perhaps the simplest example of this apparent simultaneity of existence of two selves, which are in truth one self at the same time/space, is this: the Oversoul, as you call it, or Higher Self, seems to exist simultaneously with the mind/body/spirit complex which it aids. This is not actually simultaneous, for the Higher Self is moving to the mind/body/spirit complex as needed from a position in development of the entity which would be considered in the future of this entity.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the higher self operates from the future as we understand things. In other words my higher self would operate from what I consider to be my future? Is this correct?{{< /r >}}
+
+{{< r a="Don Elkins" >}}
+Then the higher self operates from the future as we understand things. In other words my higher self would operate from what I consider to be my future? Is this correct?{{< /r >}}
+
 
 {{< l a="Ra" >}}From the standpoint of your space/time, this is correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}In that case my higher self would, shall we say, have a very large advantage in knowing precisely what was needed since it would know what… as far as I am concerned, what was going to happen. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+In that case, my higher self would have a very large advantage in knowing precisely what was needed since it would know what was going to happen.
+{{< /r >}}
 
-{{< l a="Ra" >}}This is incorrect, in that this would be an abrogation of free will. The higher self aspect is aware of the lessons learned through the sixth density. The progress rate is fairly well understood. The choices which must be made to achieve the higher self as it is are in the provenance of the mind/body/spirit complex itself.
+{{< l a="Ra" >}}
+This is incorrect, as it would be an abrogation of free will. 
 
-Thus the higher self is like the map in which the destination is known; the roads are very well known, these roads being designed by intelligent infinity working through intelligent energy. However, the higher self aspect can program only for the lessons and certain predisposing limitations if it wishes. The remainder is completely the free choice of each entity. There is the perfect balance between the known and the unknown.{{< /l >}}
+The higher self aspect is aware of the lessons learned through the sixth density. The progress rate is fairly well understood. The choices which must be made to achieve the higher self as it is are in the provenance of the mind/body/spirit complex itself.
 
-{{< r a="Don Elkins" >}}I’m sorry for having so much trouble with these concepts, but they are pretty difficult to translate, I am sure, into our understanding and language. And some of my questions may be rather ridiculous, but does this higher self have a physical vehicle or some type of vehicle like our physical vehicle? Does it have a bodily complex?{{< /r >}}
+Thus the higher self is like the map in which the destination is known; the roads are very well known, these roads being designed by intelligent infinity working through intelligent energy. 
 
-{{< l a="Ra" >}}This is correct. The higher self is of a certain advancement within sixth density going into the seventh. After the seventh has been well entered the mind/body/spirit complex becomes so totally a mind/body/spirit complex totality that it begins to gather spiritual mass and approach the octave density. Thus the looking backwards is finished at that point.{{< /l >}}
+However, the higher self aspect can program only for the lessons and certain predisposing limitations if it wishes. The remainder is completely the free choice of each entity. There is the perfect balance between the known and the unknown.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Is the higher self of every entity of a 6th density nature?{{< /r >}}
+Does this higher self have a physical vehicle like our physical vehicle? Does it have a bodily complex?{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes. The higher self is of a certain advancement within 6th density going into the 7th.
+
+After the 7th has been well entered, the mind/body/spirit complex becomes so totally a mind/body/spirit complex totality -- it begins to gather spiritual mass and approach the octave density. 
+
+Thus the looking backwards is finished at that point.{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Is the higher self of every entity of a 6th density nature?
+{{< /r >}}
+
 
 {{< l a="Ra" >}}
 Yes. This is an honor/duty of self to self as one approaches 7th density.{{< /l >}}
@@ -255,4 +299,3 @@ We may add that it is to the middle and first of these groups that this informat
 
 
 <!-- Carla is well. The resting place is somewhat deleterious in its effect upon the comfort of the dorsal side of Carla’s physical vehicle. -->
-

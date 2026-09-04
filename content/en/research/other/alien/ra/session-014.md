@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 34
 date: 1981-01-29
-tags: ['densities', '']
+tags: ['densities', 'Orion Group']
 ---
 
 

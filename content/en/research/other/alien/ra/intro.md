@@ -3,6 +3,7 @@ title: "Introduction"
 # linkTitle: Introduction
 description: ""
 c: "indigo"
+weight: 3
 image: /covers/ra.jpg
 ---
 

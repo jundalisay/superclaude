@@ -1,13 +1,14 @@
 ---
-heading: Session 12
+heading: Session 13
 title: "Creation"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
 weight: 31
 date: 1981-01-24
-tags: ['', '']
+tags: ['infinity', '1st density', '2nd density', '3rd density']
 ---
+
 
 January 29, 1981
 
@@ -22,7 +23,8 @@ January 29, 1981
  -->
 
 {{< r a="Don Elkins" >}}
-What is the first known thing in the creation?{{< /r >}}
+What is the first known thing in the creation?
+{{< /r >}}
 
 {{< l a="Ra" >}}
 The first known thing in the creation is infinity. 

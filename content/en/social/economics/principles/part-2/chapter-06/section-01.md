@@ -78,4 +78,22 @@ This happens when capital is pooled or accumulated in order to create supply eff
 
 
 
+## Measures of Supply
+
+Supply is based on productivity which we divide into two:
+
+1. Economic Productivity
+
+This applies to total productivity including both living and non living things. This is used for general productivity.
+
+2. Dharmic Productivity
+
+This applies to individual productivity of living entities (2nd density-4th density) that affects their health. 
+
+Economics does not not take this into account. This causes environmental destruction, agricultural decline from chemical fertilizers, and early human death from stress. 
+
+
+{{< q a="Adam Smith" >}}
+The man who works so moderately as to be able to work constantly, not only preserves his health, but, in the long-run, executes the greatest quantity of work.
+{{< /q >}}
 

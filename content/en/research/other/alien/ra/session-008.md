@@ -11,18 +11,34 @@ tags: ['ufo', '']
 
 
 
+{{< r a="Don Elkins" >}}
+There have been certain contacts allowed by the Council. But this is limited because of free will of those who are not oriented in such a way that they could maybe want contact. 
 
-{{< r a="Don Elkins" >}}There have been certain contacts allowed by the Council. But this is limited because of free will of those who are not oriented in such a way that they could maybe want contact. This material that we are doing now will be disseminated. Dissemination of this material will be dependent upon the wants of [a] relatively small number of people on the planet. Many people on the planet now want this material, but even though we disseminate it they will not be aware it is available. Is there any possibility of creating some effect which I would call advertising, or is this against the principle of free will?{{< /r >}}
+This material that we are doing now will be disseminated. Dissemination of this material will be dependent upon the wants of [a] relatively small number of people on the planet. Many people on the planet now want this material, but even though we disseminate it they will not be aware it is available. Is there any possibility of creating some effect which I would call advertising, or is this against the principle of free will?
+{{< /r >}}
 
-{{< l a="Ra" >}}Consider, if you will, the path your life-experience complex has taken. Consider the coincidences and odd circumstances by which one thing flowed to the next. Consider this well.
+{{< l a="Ra" >}}
+Consider the path your life-experience complex has taken. Consider the coincidences and odd circumstances by which one thing flowed to the next. Consider this well.
 
 Each entity will receive the opportunity that each needs. This information source-beingness does not have uses in the life-experience complex of each of those among your peoples who seek. Thus the advertisement is general and not designed to indicate the searching out of any particular material, but only to suggest the noumenal aspect of the illusion.{{< /l >}}
 
 {{< r a="Don Elkins" >}}There was a portion of the material yesterday which I will read where you say “there is a certain amount of landing taking place. Some of these landings are of your peoples; some are of the entities known to you as the group of Orion.” My first question is what did you mean by the landings are of your peoples?{{< /r >}}
 
-{{< l a="Ra" >}}Your peoples have, at this time/space present, the technological achievement, if you would call it that, of being able to create and fly the shape and type of craft known to you as unidentified flying objects. Unfortunately for the social memory complex vibratory rate of your peoples, these devices are not intended for the service of mankind, but for potential destructive use. This further muddles the vibratory nexus of your social memory complex, causing a situation whereby neither those oriented towards serving others nor those oriented towards serving self can gain the energy/power which opens the gates to intelligent infinity for the social memory complex. This in turn causes the harvest to be small.{{< /l >}}
+{{< l a="Ra" >}}
+Your peoples have, at this time/space present, the technological achievement of being able to create and fly UFOs. 
 
-{{< r a="Don Elkins" >}}Are these craft that are of our peoples from what we call planes that are not incarnate at this time? Where are they based?{{< /r >}}
+Unfortunately, these devices are not intended for the service of mankind but for potential destructive use. 
+
+This further muddles the vibratory nexus of your social memory complex. 
+
+It causes a situation where neither those oriented towards serving others nor those oriented towards serving self can gain the energy/power which opens the gates to intelligent infinity for the social memory complex. 
+
+This in turn causes the harvest to be small.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Are these craft that are of our peoples from what we call planes that are not incarnate at this time? Where are they based?{{< /r >}}
 
 {{< l a="Ra" >}}These of which we spoke are of third density and are part of the so-called military complex of various of your peoples’ societal divisions or structures.
 

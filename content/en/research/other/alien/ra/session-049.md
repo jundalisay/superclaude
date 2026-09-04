@@ -4,7 +4,6 @@ title: "Sexual and Spritual Energy"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
-image: /covers/ra.jpg
 weight: 130
 date: 1981-01-24
 tags: ['', '']
@@ -14,7 +13,8 @@ tags: ['', '']
 April 22, 1981
 
 
-{{< l a="Ra" >}}Carla's vital energies are improving with time. Her physical energies are less than your previous asking.{{< /l >}}
+{{< l a="Ra" >}}
+Carla's vital energies are improving with time. Her physical energies are less than your previous asking.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Carla asked: “You have suggested several times that sexual energy transfers aid my vital energy and this contact. It seems that this is not true for all people -- the sexual circuitry and the spiritual circuitry are not the same. Am I an anomaly, or is the positive effect of sexual activity on spiritual energy normal for all 3rd density beings?”{{< /r >}}
 

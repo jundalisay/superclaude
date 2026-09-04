@@ -15,7 +15,6 @@ tags: ['', '']
 February 23, 1981
 
 
-
 {{< r a="Don Elkins" >}}
 Is our sun a sub-Logos or the physical manifestation of a sub-Logos?
 {{< /r >}}
@@ -25,7 +24,8 @@ Yes.
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then I am assuming this sub-Logos created this planetary system in all of its densities.
+{{< r a="Don Elkins" >}}
+Then I am assuming this sub-Logos created this planetary system in all of its densities.
 {{< /r >}}
 
 
@@ -34,8 +34,6 @@ No. The sub-Logos of your solar entity differentiated some experiential componen
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}Then is this sub-Logos which is our sun the same sub-Logos but just manifesting in different parts through the galaxy which is… is it all the stars in this galaxy?{{< /r >}}
-
-{{< l a="Ra" >}}Please restate.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What I’m saying is there are roughly 250 billion stars or suns something like ours in this major galaxy. Are they all part of the same sub-Logos?{{< /r >}}
 

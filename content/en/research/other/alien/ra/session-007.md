@@ -6,8 +6,9 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 16
 date: 1981-01-24
-tags: ['healing', '']
+tags: ['confederation of planets', 'orion group']
 ---
+
 
 
 {{< r a="Don Elkins" >}}What avenues of service, or types of service, are available to members of the Confederation?{{< /r >}}

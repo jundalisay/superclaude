@@ -14,9 +14,8 @@ tags: ['pyramids', '']
 June 8, 1981
 
 
-
-
-{{< l a="Ra" >}}Carla is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.{{< /l >}}
+{{< l a="Ra" >}}
+Carla is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How does the pyramid shape work?{{< /r >}}
 

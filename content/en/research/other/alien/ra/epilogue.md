@@ -3,7 +3,7 @@ title: "Epilogue to Book IV"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
-image: /covers/ra.jpg
+weight: 800
 ---
 
 
@@ -11,7 +11,7 @@ image: /covers/ra.jpg
 After 106 sessions the Ra contact ended with Don Elkins’ death on November 7, 1984, after a year of declining health. L/L Research no longer works with Ra nor the trance state but now channels other Confederation sources. 
 
 
-Epilogue to Book V
+## Epilogue to Book V
 
 Jim: After we moved back to Louisville the mental/emotional dysfunction which Ra spoke of concerning Don occurred. Don was noted all his life for being very cool and extremely wise, emotionally unmoved by events which caused others to fall apart. His observations and advice always proved to be correct. Now, as this dysfunction worsened, Don saw himself intensely affected by even the smallest stimuli. His worrying deepened to depression and he sought healing counsel from every available source, yet nothing worked, and he resigned himself to a death which he saw quickly approaching.
 
@@ -37,6 +37,6 @@ My lesson was the opposite: that of adding wisdom to completely open love. My he
 
 Any group that stays together and works harmoniously while being of service to the light will begin to attract psychic greeting of the sorts we experienced. In this crucible, every fault and vanity, however small, is a weapon against the self. Ethical perception needs to remain very alert and cogent of issues and values being tossed around. This is a matter of life and death. L/L Research is a special and wonderful place, and not unlike many other light-houses other wanderers and seekers have lit. Many, many others are awakening now and wishing to become ever more able to be channels for light. And it is a wondrous ministry, to be there as a metaphysical or spiritual home for wanderers and outsiders everywhere. We hope this helps you and your group to stay in full communication, to refuse to offer each other less than joy and faith no matter what! And never, NEVER to make a deal with the loyal opposition!
 
-L/L Research
+<!-- L/L Research
 Carla L. Rueckert
-Jim McCarty
+Jim McCarty -->
