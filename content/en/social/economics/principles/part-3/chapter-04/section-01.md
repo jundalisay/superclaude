@@ -1,6 +1,6 @@
 ---
 heading: "Section 1"
-title: "The Usufruct Economy"
+title: "Usufructism: The Usufruct Economy"
 weight: 4
 date: 2018-06-03
 description : "The Usufruct Economy"
