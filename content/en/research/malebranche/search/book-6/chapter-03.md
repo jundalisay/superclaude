@@ -10,9 +10,24 @@ date: 2026-06-20
 
 
 
-The passions that are useful for stirring us to seek truth are those that give us the strength and courage to overcome the effort we find required to focus our thoughts. Some are good, others bad or dangerous. Good passions include the desire to discover truth, to gain enough insight to guide ourselves rightly, and to be of service to others. Bad or dangerous ones include the desire to win reputation, to advance one’s standing, or to rise above others — and other even more disordered impulses, which need not be discussed here.
+The passions that are useful for stirring us to seek truth are those that give us the strength and courage to overcome the effort we find required to focus our thoughts.
 
-In our present imperfect state, it often happens that the less reasonable passions drive us more vigorously toward the search for truth and console us more readily in its difficulties than the most just and reasonable desires. Vanity, for instance, stirs us far more than the love of truth itself. We see every day how people apply themselves constantly to their studies as long as there is someone to listen to what they have learned — yet abandon them entirely the moment they no longer have an audience. The vague prospect of glory that surrounds them when they share their opinions sustains their courage even through the most tedious and unrewarding work. But if chance or circumstance removes them from the small circle of admirers who applaud them, their enthusiasm immediately cools. Even the most solid subjects lose their appeal; weariness, boredom, and discouragement take over, and they give up entirely.
+Some are good, others bad or dangerous.
+
+Good passions include the desire to:
+- discover truth
+- gain enough insight to guide ourselves rightly
+- be of service to others
+
+Bad or dangerous ones include the desire to:
+- win reputation
+- advance one’s standing, or to rise above others — and other even more disordered impulses, which need not be discussed here.
+
+In our present imperfect state, it often happens that the less reasonable passions drive us more vigorously toward the search for truth and console us more readily in its difficulties than the most just and reasonable desires. 
+
+Vanity, for instance, stirs us far more than the love of truth itself. We see every day how people apply themselves constantly to their studies as long as there is someone to listen to what they have learned — yet abandon them entirely the moment they no longer have an audience. The vague prospect of glory that surrounds them when they share their opinions sustains their courage even through the most tedious and unrewarding work. But if chance or circumstance removes them from the small circle of admirers who applaud them, their enthusiasm immediately cools. 
+
+Even the most solid subjects lose their appeal; weariness, boredom, and discouragement take over, and they give up entirely.
 
 Vanity overcomes our natural laziness, but laziness in turn overcomes the love of truth; for vanity may sometimes resist indolence, yet indolence almost always triumphs over the pure desire for knowledge.
 
@@ -47,3 +62,5 @@ To give a greater example: we should present truth just as Truth itself has pres
 In our search for truth, we should therefore use sensible representations that have little outward show and do not detain us too long at the level of the senses, but only sustain our mental vision as we contemplate purely intelligible truths. We should use images and forms that we can later set aside, discard, and gladly let go once they have led us to the truth they represent.
 
 Eternal Wisdom presented itself to us in a visible form, not to keep us focused on what is outside ourselves, but to draw us inward, so that with our inner understanding we might contemplate it in its true, intelligible nature. In the same way, when seeking truth, we should use sensible means that do not dazzle us with their appearance and hold our attention outward, but rather lead us back into ourselves, sharpen our focus, and unite us to the eternal truth — which alone guides the mind and can enlighten it in every subject we consider.
+
+

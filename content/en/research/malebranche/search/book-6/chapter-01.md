@@ -12,7 +12,16 @@ date: 2026-06-20
 
 ## The 2 General means for preserving clarity in the search for truth, which will be the subject of this book.
 
-In the previous books, we have seen that man is extremely prone to error; that the illusions of his senses [1], the visions of his imagination [2], and the abstractions of his mind [3] deceive him at every moment; that the inclinations of his will [4] and the passions of his heart [5] almost always conceal the truth from him, and allow it to appear only when it is tinged with those false colors that flatter concupiscence. 
+In the previous books, we have seen that man is extremely prone to error.
+
+The following deceive him at every moment:
+- the illusions of his senses
+- the visions of his imagination
+- the abstractions of his mind
+
+The inclinations of his will and the passions of his heart almost always:
+- conceal the truth from him, and
+- allow it to appear only when it is tinged with false colors that flatter concupiscence. 
 
 I have partly recognized the errors of the mind and the causes of these errors.
 
