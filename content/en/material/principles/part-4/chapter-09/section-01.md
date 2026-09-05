@@ -2,6 +2,7 @@
 heading: "Section 1"
 title: "Cheaper Way to Produce Antimatter"
 # date: 2024-08-01
+date: 2026-09-05
 image: /photos/physics/neutronstar.jpg
 description: "Two new technologies can replace fossil fuels as a reliable energy source"
 writer:
@@ -164,7 +165,7 @@ We assume this is how Element 115 was created.  -->
 
 ## The Tech Tree
 
-We assume that the unstable element needs to levitating in vacuum storage as to not touch any matterial thing. This is why it requires levitation technology as a prerequisite. 
+We assume that the unstable element needs to be levitating in vacuum storage as to not touch any matterial thing. This is why it requires levitation technology as a prerequisite. 
 
 Level | Relatonality 1 | Relatonality 2 | Technology
 --- | --- | --- | --- 
