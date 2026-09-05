@@ -296,7 +296,9 @@ The other adjacent levels on the horizontal line now involve you in various alte
 
 Each one a greater distance from your own. Many of these involve systems in which life and death as you know it does not occur, where time is felt as weight; systems in which the root assumptions are so different from your own that you would only accept any experiences as fantasy. 
 
-For this reason, you are much less apt to travel in those directions. In some there are built-in impediments. Even projection from your universe into a universe of antimatter is most difficult, for example. The electromagnetic makeup even of your thoughts would be adversely affected, and yet theoretically this is possible from one of these adjacent levels of consciousness. 
+For this reason, you are much less apt to travel in those directions. In some there are built-in impediments. 
+
+Even projection from your universe into a universe of antimatter is most difficult, for example. The electromagnetic makeup even of your thoughts would be adversely affected, and yet theoretically this is possible from one of these adjacent levels of consciousness. 
 
 Often you visit such areas of consciousness in the dream state where you fall into them spontaneously, remembering in the morning a fantastic dream. Consciousness must use all of its parts and activities, even as the body must. When you are sleeping, therefore, your consciousness turns itself in many of these directions, often perceiving, willy-nilly, bits and pieces of reality that are available to it at its different stages. 
 
