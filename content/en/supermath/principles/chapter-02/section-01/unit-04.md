@@ -5,7 +5,9 @@ date: 2025-12-27
 image: "/graphics/super/vortex.jpg"
 description: ""
 weight: 16
+toc: false
 ---
+
 
 
 Whole numbers and rational numbers imply staticity whereas irrational numbers imply dynamism.
@@ -18,6 +20,8 @@ While irrational numbers are on the same dimension continuing laterally, imagina
 `i` or imaginary number is the square root of -1. 
 - From the view of the Negative Force, this can be seen as a unit void which is probabilistic
 - From the view of the Postiive Force, this can be seen as a unit spin which is also probabilistic
+
+{{< n n="In a nutshell, Math is for 1st-3rd density perceptions. Supermath is for 4th density. Qualimath is for 5th-6th density. We assume 7th density is purely intuitional and uses no logic." >}}
 
 
 

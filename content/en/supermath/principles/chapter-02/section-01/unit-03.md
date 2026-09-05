@@ -9,6 +9,8 @@ weight: 12
 
 
 
+Constants are fixed ratios between the physical media, substances, quanta in the layers and sublayers. 
+
 The popular constants are:
 
 1. c

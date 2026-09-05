@@ -194,10 +194,9 @@ By activating this synchronicity, things in your life flow more naturally, pleas
 
 ## Short Version of the Formula
 
-
-1. Act on your Excitement
-2. Take it as far as you can
-3. Have **ZERO insistence** on what the outcome should be (You **must stay in positive state**!!!)
+1. Act on your Excitement (act at every given moment that you can on the thing that contains the highest amount of excitement)
+2. Take it as far as you can (To the best of your ability taking it as far as you can until you can take it no further)
+3. Have **ZERO insistence** on what the outcome should be (or how you should get there. You **must stay in positive state**!!!)
 
 
 This leads to the complete kit as tools:
@@ -213,7 +212,7 @@ These will support you and leave nothing relevant out
 
 ## Abundance
 
-Abundance is the ability to do *what* you **need** to do *when* you **need** to do it. 
+Abundance is the **ABILITY** to do *what* you **need** to do *when* you **need** to do it. 
 
 
 ## Most Powerful Mantra
@@ -257,8 +256,33 @@ Actions are based on beliefs and so the Sassani use the word *belief system*. Wh
 
 So instead of `Beliefs ➜ Emotions ➜ Actions` we say more accurately: `Samskara ➜ Feelings ➜ Karma`
 
+![Samskara](/graphics/super/samskara.jpg)
+
 So the Sassani are saying to choose your dharma instead of your samskara. 
 
 The Buddhist and Hindu way is to avoid getting dents in the first place. This is done by non-attachment while remembering one's dharma every second through constant mantra repetition. For example, they use mala beads as permission slips. 
+
+## Proof
+
+This is easily seen in Bashar commenting on how death experiences are "exciting": 
+
+**Questioner:** When I was about 9 years old, I had a **near drowning experience**.
+
+**Bashar:**  How **exciting**!
+
+Of course, "exciting" is a totally wrong word since no one is ever excited to drown. But drowning is a **natural** event or feeling, which matches the word dharma or nature i.e. it is natural to drown. 
+
+This changes the meaning:
+
+**Questioner:** When I was about 9 years old, I had a **near drowning experience**.
+
+**Bashar:** What an experience of **All-That-Is**!
+
+
+In Buddhism, Hinduism, death is not negative, but is part of the dharma of life. Even Socrates pushes people to not fear death:
+
+*For those who practice philosophy in the right way are-unconsciously to themselves-practicing dying and being dead.* Socrates Phaedo, 64a
+
+Only Christianity puts so much emphasis on physical life as to treat death as a negative. This is because the Christian, Jewish, and Islamic religions have been corrupted by Orion Energy, as explained by Ra in the Law of One. 
 {{< /d >}}
 

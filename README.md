@@ -17,6 +17,7 @@ HUGO_VERSION 0.145.0
 
 Get 2x more usage on weekends and outside the hours of 5–11am PT / 12–6pm GMT on weekdays. Now through March 28.
 
+Apophysics (Away from / Offshoot) Physics that branches off or departs from standard models.
 
 # GHN
 Good Governance

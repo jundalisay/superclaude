@@ -8,17 +8,28 @@ description: "SRI RAMAKRISHNA arrived at Govinda Mukherji's house at Belgharia, 
 ---
 
 
-A Vaishnava goswami was seated in the room. The Master asked him: "What is the way?"
+A Vaishnava goswami was seated in the room. The Master asked him: 
 
-GOSWAMI: "Sir, the chanting of God's name is enough. The scriptures emphasize the sanctity of God's name for the Kaliyuga."
+{{< l a="Ramakrishna" >}}
+"What is the way?"
+{{< /l >}}
 
-MASTER: "Yes, but can a mere name achieve anything without the yearning love of the devotee behind it? One should feel great restlessness of soul for the vision of God. 
+{{< r a="Goswami" >}}
+"Sir, the chanting of God's name is enough. The scriptures emphasize the sanctity of God's name for the Kaliyuga."
+{{< /r >}}
 
-Suppose a man repeats the name of God mechanically, while his mind is absorbed in 'woman and gold'. Can he achieve anything? 
+{{< l a="Ramakrishna" >}}
+"Yes, but can a mere name achieve anything without the yearning love of the devotee behind it? One should feel great restlessness of soul for the vision of God. 
 
-GOSWAMI: "But what about Ajamila then? He was a great sinner. But he uttered the name of Narayana on his death-bed, calling his son, who also had that name. And thus he was liberated."
+Suppose a man repeats the name of God mechanically, while his mind is absorbed in 'woman and gold'. Can he achieve anything?"
+{{< /l >}}
 
-MASTER: "Perhaps Ajamila had done many spiritual things in his past births. He once practised austerity. Besides, those were the last moments of his life. 
+{{< r a="Goswami" >}}
+"But what about Ajamila then? He was a great sinner. But he uttered the name of Narayana on his death-bed, calling his son, who also had that name. And thus he was liberated."
+{{< /r >}}
+
+{{< l a="Ramakrishna" >}}
+"Perhaps Ajamila had done many spiritual things in his past births. He once practised austerity. Besides, those were the last moments of his life. 
 
 What is the use of giving an elephant a bath? It will cover itself with dirt and dust again and become its former self. But if someone removes the dust from its body and gives it a bath just before it enters the stable, then the elephant remains clean.
 
@@ -68,14 +79,18 @@ Water above and water below, everywhere nothing but water. Therefore a prayer in
 before us, O Lord, in the shape of a man; again, Thou hast been described in the Vedas as beyond words and thought.
 
 But you may say that for certain devotees God assumes eternal forms. There are places in the ocean where the ice doesn't melt at all. It assumes the form of quartz."
+{{< /l >}}
 
-KEDĀR: "It is said in the Bhagavata that Vyāsa asked God's forgiveness for his 3 transgressions. 
+{{< r a="Kedār" >}}
+"It is said in the Bhagavata that Vyāsa asked God's forgiveness for his 3 transgressions. 
 
 He said: 'O Lord, Thou art formless, but I have thought of Thee in my meditation as endowed with form; Thou art beyond speech, but I have sung Thee hymns; Thou art the All-pervading Spirit, but I have made pilgrimages to sacred places. 
 
 Be gracious, O Lord, and forgive these three transgressions of mine.'"
+{{< /r >}}
 
-MASTER: "Yes, God has form and He is formless too. Further, He is beyond both form and formlessness. No one can limit Him.
+{{< l a="Ramakrishna" >}}
+"Yes, God has form and He is formless too. Further, He is beyond both form and formlessness. No one can limit Him.
 
 Rakhal's father was sitting in the room. At that time Rakhal was staying with the Master. After his mother's death his father had married a second time. Now and then
 he came to Dakśineśwar because of Rakhal's being there. He did not raise much objection to his son's living with the Master. Being a wealthy man of the world, he was
@@ -106,16 +121,27 @@ If a pea falls into a heap of dung, it germinates into a pea-plant none the less
 sown in dung, will it produce another kind of plant? 
 
 "Ah, what a sweet nature Rakhal has nowadays! And why shouldn't it be so? If the yam is a good one, its shoots also become good. (All laugh.) Like father like son."
+{{< /l >}}
 
-M. (aside to Girindra): "How well he has explained God with and without form! Do the Vaishnavas believe only in God with form?"
+{{< r a="M." >}}
+(aside to Girindra): "How well he has explained God with and without form! Do the Vaishnavas believe only in God with form?"
+{{< /r >}}
 
-GIRINDRA: "Perhaps so. They are one-sided."
+{{< r a="GIRINDRA" >}}
+"Perhaps so. They are one-sided."
+{{< /r >}}
 
-M: "Did you understand what he meant by the 'eternal form' of God? That 'quartz'? I couldn't grasp it well."
+{{< r a="M." >}}
+"Did you understand what he meant by the 'eternal form' of God? That 'quartz'? I couldn't grasp it well."
+{{< /r >}}
 
-MASTER (to M.): "Well, what are you talking about?"
+{{< l a="Ramakrishna" >}}
+(to M.): "Well, what are you talking about?"
+{{< /l >}}
 
-M. and Girindra smiled and remained silent.
+{{< r a="M. and Girindra" >}}
+smiled and remained silent.
+{{< /r >}}
 
 Later in the afternoon the devotees were singing in the Panchavati, where the Master joined them. They sang together in praise of the Divine Mother:
 
@@ -163,28 +189,42 @@ Whoever finds the Mother remains a machine no more;
 Yet some machines have even bound The Mother Herself with the string of Love.
 It was a very happy day for all.
 
-The Master, accompanied by M., was coming back to his room, when he met Trailokya, a Brahmo devotee, on the way. Trailokya bowed before the Master.
+The Master, accompanied by M., was coming back to his room, when he met Trailokya, Brahmo Devotee, on the way. Trailokya bowed before the Master.
 
-MASTER: "They are singing in the Panchavati. Won't you go there?"
+{{< l a="Ramakrishna" >}}
+"They are singing in the Panchavati. Won't you go there?"
+{{< /l >}}
 
-TRAILOKYA: "What shall I do there?"
+{{< r a="Trailokya" >}}
+"What shall I do there?"
+{{< /r >}}
 
-MASTER: "Why, you will enjoy the music."
+{{< l a="Ramakrishna" >}}
+"Why, you will enjoy the music."
+{{< /l >}}
 
-TRAILOKYA: "I have been there already."
+{{< r a="Trailokya" >}}
+"I have been there already."
+{{< /r >}}
 
-MASTER: "Well, well! That's good."
+{{< l a="Ramakrishna" >}}
+"Well, well! That's good."
+{{< /l >}}
 
 It was about six o'clock in the evening. The Master was sitting with the devotees on the southeast verandah of his room.
 
-MASTER: "A holy man who has renounced the world will of course chant the name of God. That is only natural. He has no other duties to perform. If he meditates on God it shouldn't surprise anybody. On the other hand, if he fails to think of God or chant His holy name, then people will think ill of him.
+{{< l a="Ramakrishna" >}}
+"A holy man who has renounced the world will of course chant the name of God. That is only natural. He has no other duties to perform. If he meditates on God it shouldn't surprise anybody. On the other hand, if he fails to think of God or chant His holy name, then people will think ill of him.
 
 But it is a great deal to his credit if a householder utters the name of the Lord. Think of King Janaka. What courage he had, indeed! He fenced with two swords, the one of Knowledge and the other of work. He possessed the perfect Knowledge of Brahman and also was devoted to the duties of the world. An unchaste woman attends to the
 minutest duties of the world, but her mind always dwells on her paramour. 
 
 "The constant company of holy men is necessary. The holy man introduces one to God."
+{{< /l >}}
 
-KEDĀR: "Yes, sir. The great soul is born in the world for the redemption of humanity. He leads others to God, just as a locomotive engine takes along with it a long train of carriages. Or again, he is like a river or lake that quenches the thirst of many people."
+{{< r a="KEDĀR" >}}
+"Yes, sir. The great soul is born in the world for the redemption of humanity. He leads others to God, just as a locomotive engine takes along with it a long train of carriages. Or again, he is like a river or lake that quenches the thirst of many people."
+{{< /r >}}
 
 The devotees were ready to return home. One by one they saluted the Master. At the sight of Bhavanath Sri Ramakrishna said: "Don't go away today. The very sight of you
 inspires me." Bhavanath had not yet entered into worldly life. A youth of twenty, he had a fair complexion and handsome features. He shed tears of joy on hearing the name of God. 
@@ -210,7 +250,8 @@ An unknown Bengali, dressed in the ochre cloth of a monk, entered the room and s
 
 Presently he began to talk, though the spell of samādhi still lingered.
 
-MASTER (at the sight of the ochre cloth): "Why this gerrua? Should one put on such a thing for a mere fancy? A man once said, 'I have exchanged the Chandi for a drum.' 
+{{< l a="Ramakrishna" >}}
+(at the sight of the ochre cloth): "Why this gerrua? Should one put on such a thing for a mere fancy? A man once said, 'I have exchanged the Chandi for a drum.' 
 
 At first he used to sing the holy songs of the Chandi; now he beats the drum. (All laugh.)
 
@@ -224,10 +265,14 @@ A false garb, even though a holy one, is not good. If the outer garb does not co
 Far better is the white cloth of a householder. Attachment to worldliness, occasional lapses from the ideal, and an outer garb of gerrua- how dreadful!
 
 "It is not proper for a righteous person to tell a lie or do something false even in a dramatic performance. Once I went to Keshab's house to see the performance of a play called Nava-Vrindāvan. They brought something on the stage which they called the 'Cross'. Another actor sprinkled water, which they said was the 'Water of Peace'. I saw a third actor staggering and reeling in the role of a drunkard."
+{{< /l >}}
 
-A BRAHMO DEVOTEE: "It was K-."
+{{< r a="Brahmo Devotee" >}}
+"It was K-."
+{{< /r >}}
 
-MASTER: "It is not good for a devotee to play such parts. It is bad for the mind to dwell on such subjects for a long while. The mind is like white linen fresh from the laundry; it takes the colour in which you dip it. If it is associated with falsehood for a long time, it will be stained with falsehood.
+{{< l a="Ramakrishna" >}}
+"It is not good for a devotee to play such parts. It is bad for the mind to dwell on such subjects for a long while. The mind is like white linen fresh from the laundry; it takes the colour in which you dip it. If it is associated with falsehood for a long time, it will be stained with falsehood.
 
 "Another day I went to Keshab's house to see the play called Nimai Sannyas. Some flattering disciples of Keshab spoiled the whole performance.
 
@@ -251,17 +296,25 @@ When the country is flooded deep with water, one doesn't have to follow the wind
 village. 
 
 Without this intense attachment, this passionate love, one cannot realize God."
+{{< /l >}}
 
 Master's experiences in samādhi
 
-AMRITA: "Sir, how do you feel in samādhi?"
+{{< r a="Amrita" >}}
+"Sir, how do you feel in samādhi?"
+{{< /r >}}
 
-MASTER: "You may have heard that the cockroach, by intently meditating on the Bhramara, is transformed into a Bhramara. Do you know how I feel then? I feel like a
-fish released from a pot into the water of the Ganges." 
+{{< l a="Ramakrishna" >}}
+"You may have heard that the cockroach, by intently meditating on the Bhramara, is transformed into a Bhramara. Do you know how I feel then? I feel like a
+fish released from a pot into the water of the Ganges."
+{{< /l >}}
 
-AMRITA: "Don't you feel at that time even a trace of ego?"
+{{< r a="Amrita" >}}
+"Don't you feel at that time even a trace of ego?"
+{{< /r >}}
 
-MASTER: "Yes, generally a little of it remains. However hard you may rub a grain of gold against a grindstone, still a bit of it always remains. Or again, take the case of a big fire; the ego is like one of its sparks. In samādhi I lose outer consciousness completely; 
+{{< l a="Ramakrishna" >}}
+"Yes, generally a little of it remains. However hard you may rub a grain of gold against a grindstone, still a bit of it always remains. Or again, take the case of a big fire; the ego is like one of its sparks. In samādhi I lose outer consciousness completely; 
 
 but God generally keeps a little trace of ego in me for the enjoyment of divine communion. Enjoyment is possible only when 'I' and 'you' remain.
 
@@ -270,3 +323,4 @@ but God generally keeps a little trace of ego in me for the enjoyment of divine 
 Then one experiences jada samādhi or nirvikalpa samādhi. That experience cannot be described. A salt doll went to measure the depth of the ocean, but before it had gone far into the water it melted away. 
 
 It became entirely one with the water of the ocean. Then who was to come back and tell the ocean's depth?"
+{{< /l >}}
