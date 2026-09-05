@@ -11,6 +11,7 @@ description: "Bashar answers Questions about Aliens"
 Physical Aliens | Description
 --- | ---
 Anunnaki | Creators of humans, from Cygnus. They have blue blood, blue-tinted skin
+Dilla | plasticky, thin, malleable, flexible aliens that can stretch and change form in brilliant colors like animation moving quickly
 Grays | Genetically modified future humans, from Zeta Reticuli
 Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, overseen by Mantis Beings
 Humans | Genetically manipulated homo erectus by the Anunnaki
