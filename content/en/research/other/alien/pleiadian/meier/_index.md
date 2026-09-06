@@ -1,6 +1,6 @@
 ---
-title: "Pleiadians"
-image: "/photos/alien/pleiadian.jpg"
+title: "Billy Meier"
+image: /photos/people/meier.jpg
 description: ""
 c: "indigo"
 # a: Bashar

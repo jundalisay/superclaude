@@ -15,5 +15,8 @@ Bahai | Osho
 Atlanteans | Negative Orion
 Ra, Seth | Scientology, Keylontic Science
 Crypto | AI (The true AI path)
+Chromium | Fluoride
+
+
 
 
