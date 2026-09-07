@@ -1,23 +1,17 @@
 ---
 title: Science A New Golden Age
-weight: 22
-# date: 2023-06-17
+weight: 3
+date: 2026-07-21
 author: MICHAEL KRATSIOS
-description: "White House"
+description: ""
 s: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1235' height='650' viewBox='0 0 7410 3900'> <path d='M0,0h7410v3900H0' fill='#b31942'/> <path d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='#FFF' stroke-width='300'/> <path d='M0,0h2964v2100H0' fill='#0a3161'/> <g fill='#FFF'> <g id='s18'> <g id='s9'> <g id='s5'> <g id='s4'> <path id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/> <use xlink:href='#s' y='420'/> <use xlink:href='#s' y='840'/> <use xlink:href='#s' y='1260'/> </g> <use xlink:href='#s' y='1680'/> </g> <use xlink:href='#s4' x='247' y='210'/> </g> <use xlink:href='#s9' x='494'/> </g> <use xlink:href='#s18' x='988'/> <use xlink:href='#s9' x='1976'/> <use xlink:href='#s5' x='2470'/> </g> </svg>"
 ---
 
 
-JULY 2026
-
-
-
 Dear Mr. President:
 
-Eighty-one years ago, President Franklin D. Roosevelt wrote a letter to Vannevar
-Bush, tasking him with reorganizing America’s scientific enterprise after World
-War II. Bush’s response was a report, titled Science: The Endless Frontier. It established the Federal Government’s role in supporting basic science, led to the creation of the National Science Foundation, and shaped our nation’s science and
-technology strategy for decades afterward. That report was foundational to the
+81 years ago, President Franklin D. Roosevelt wrote a letter to Vannevar Bush, tasking him with reorganizing America’s scientific enterprise after World
+War II. Bush’s response was a report, titled Science: The Endless Frontier. It established the Federal Government’s role in supporting basic science, led to the creation of the National Science Foundation, and shaped our nation’s science and technology strategy for decades afterward. That report was foundational to the
 American Century and to the technological world in which we live today.
 Now, as we celebrate the United States’ 250th anniversary, we have the
 responsibility to renew our foundations once more. Never have science and technology been more central to our nation’s security and prosperity, and, although
@@ -28,6 +22,7 @@ In your letter of March 26, 2025, on the occasion of my Senate confirmation
 as Director of the Office of Science and Technology Policy, you challenged me to
 reexamine America’s research and development ecosystem in light of changes
 brought on by the 21st century.
+
 The report I present here diagnoses the obstacles American researchers face
 today, and the ways our scientific enterprise has fundamentally transformed since
 its basic organization was established in 1945. Though our investments in research
@@ -39,34 +34,30 @@ academia, philanthropy, and industry. Underlying all of these recommendations is
 look back at our work and say: “The vital questions I could not pursue then, I am
 free to pursue now.” That purpose will be achieved if we make progress toward
 four overarching goals.
-First, the U.S. research system should prioritize the individual scientist over
-legacy institutions. If we are serious about expanding what our scientists can do,
-we must invest directly in American researchers and the bold ideas that drive
-them. Too much of our research enterprise has come to serve itself rather than the
+
+1. The U.S. research system should prioritize the individual scientist over legacy institutions. If we are serious about expanding what our scientists can do,
+we must invest directly in American researchers and the bold ideas that drive them. Too much of our research enterprise has come to serve itself rather than the
 scientists within it. Federal funding agencies should support a broader range of
 performers, including a new generation of mission-driven research organizations,
 to expand our scientific horizons. And these agencies should organize themselves
 around the interdisciplinary frontiers of science today, rather than the academic
 silos of the last century.
-Second, the Federal Government should fundamentally change how research
-dollars are allocated, distributed, and assessed. Instead of a one-size-fits-all approach, the government should fund more flexible types of grants, including fasttrack grants, long-horizon grants, and new mechanisms that allow reviewers to
+
+2. The Federal Government should fundamentally change how research dollars are allocated, distributed, and assessed. Instead of a one-size-fits-all approach, the government should fund more flexible types of grants, including fasttrack grants, long-horizon grants, and new mechanisms that allow reviewers to
 champion radically unconventional proposals. Federal research agencies should
 evaluate their own performance as capital allocators, test new ways of making
 grants, and construct portfolios with the intentionality of a serious investor.
-Third, the Federal Government should set clear scientific goals and build the
-industrial muscle to translate scientific discovery into technological strength. The
-greatest technical achievements of the last century came about because leaders in
-government identified national priorities and marshaled the resources to accomplish them. As our competitors race us to capture the value chain of strategic technologies, including with tactics we would never countenance, we can no longer
-assume that the fruits of American science will accrue to our own people. Government must mobilize the full force of our enterprise around national challenges,
-clear the ground for American builders, and reunite the work of discovery and
-manufacturing across the country.
-Fourth, we must prepare our research enterprise for the AI revolution. AI will
+
+3. The Federal Government should set clear scientific goals and build the industrial muscle to translate scientific discovery into technological strength. The
+greatest technical achievements of the last century came about because leaders in government identified national priorities and marshaled the resources to accomplish them. As our competitors race us to capture the value chain of strategic technologies, including with tactics we would never countenance, we can no longer assume that the fruits of American science will accrue to our own people. Government must mobilize the full force of our enterprise around national challenges, clear the ground for American builders, and reunite the work of discovery and manufacturing across the country.
+
+4. We must prepare our research enterprise for the AI revolution. AI will
 accelerate and radically transform the way we do science. But even the most
-capable AI models will be slowed down in the bottleneck of institutions and systems built for the last century. As we renew the infrastructure that powers American science, we must reengineer it for the AI age. And even as AI compresses the
-time from question to answer, we will still need human hands to build the instrument or prototype. We must build that capacity, too, investing in advanced manufacturing, the skilled trades, and the vast pools of talent and tacit knowledge
+capable AI models will be slowed down in the bottleneck of institutions and systems built for the last century. As we renew the infrastructure that powers American science, we must reengineer it for the AI age. And even as AI compresses the time from question to answer, we will still need human hands to build the instrument or prototype. We must build that capacity, too, investing in advanced manufacturing, the skilled trades, and the vast pools of talent and tacit knowledge
 outside the traditional academic pipeline.
+
 Letter of Transmittal
-vii
+
 In preparing this report, I have consulted widely across the country’s scientific enterprise, from entrepreneurs driving world-changing breakthroughs in
 fusion technology, to researchers eager to pursue bold ideas in neuroscience at
 our universities, to venture capitalists funding revolutionary platforms for drug
@@ -78,6 +69,7 @@ Foundation to launching the Apollo Program. Each generation has seized its oppor
 of progress. Now it is our time to build the scientific enterprise that will carry
 America forward and bring prosperity to Americans through the 21st century
 and beyond.
+
 Mr. President, you have called for a Golden Age of American Innovation.
 This report is the map to that vision. Our nation cured polio, placed men on the
 Moon, decoded the human genome, and launched the digital revolution. With
@@ -88,6 +80,7 @@ MICHAEL J. KRATSIOS, Director
 
 
 Dear Mr. Kratsios:
+
 Scientific progress and technological innovation were the twin engines that powered the American century. The Manhattan Project fueled the atomic era. The
 Apollo Program won us the space race. The internet connected us to a digital
 future. Today, we will usher in the Golden Age of American Innovation. We will
@@ -156,8 +149,7 @@ doubling from the 1950s to today. American companies now deploy around $700
 billion annually, more than triple the combined spending from government and
 higher education. This evolution has made the pie bigger for everybody and
 should be welcomed across the research ecosystem, but it demands a corresponding adjustment to the nature of the Federal Government’s contributions.
-Summary of the Report
-xi
+
 New challenges have arisen in recent decades. Despite massive increases in
 biomedical funding since the 1990s, the rate of significant breakthroughs appears
 to have slowed and drug approvals have flatlined. Researchers today often spend
@@ -174,6 +166,7 @@ reinventing how we structure science, and we must innovate again. Never has
 scientific and technological development been more essential to our national and
 economic security, and never has this progress been so deeply intertwined with
 our diplomatic relationships worldwide.
+
 President Trump has been very clear about his priorities, as he seeks to lay
 the foundations for a new Golden Age of American Innovation. He has asked this
 administration to revitalize the national science enterprise, to secure U.S. leadership in emerging technologies against foreign rivals, and to ensure that all of
@@ -183,5 +176,3 @@ for exploration, particularly now in science and technology.
 The following chapters provide recommendations, insights, and guidance to
 the entire U.S. scientific enterprise, from the government to universities to the
 private sector and philanthropy.
-
-

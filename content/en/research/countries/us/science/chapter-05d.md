@@ -1,17 +1,23 @@
+---
+heading: Chapter 5d
+title: Driving Constant Innovation
+weight: 21
+date: 2026-07-21
+author: Michael Kratsios
+description: ""
+s: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1235' height='650' viewBox='0 0 7410 3900'> <path d='M0,0h7410v3900H0' fill='#b31942'/> <path d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='#FFF' stroke-width='300'/> <path d='M0,0h2964v2100H0' fill='#0a3161'/> <g fill='#FFF'> <g id='s18'> <g id='s9'> <g id='s5'> <g id='s4'> <path id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/> <use xlink:href='#s' y='420'/> <use xlink:href='#s' y='840'/> <use xlink:href='#s' y='1260'/> </g> <use xlink:href='#s' y='1680'/> </g> <use xlink:href='#s4' x='247' y='210'/> </g> <use xlink:href='#s9' x='494'/> </g> <use xlink:href='#s18' x='988'/> <use xlink:href='#s9' x='1976'/> <use xlink:href='#s5' x='2470'/> </g> </svg>"
+---
 
 
-### DRIVING CONSTANT INNOVATION
 
-The foundation of this portfolio should be a metascience unit in each federal science agency. Each unit should be highly empowered, reporting directly to the director or administrator to ensure cross-agency visibility and guard against capture by particular programs or constituencies. Each unit should be staffed with researchers possessing expertise in the science of science, program evaluation,
-and data analysis, supplemented by rotating program officers who bring operational knowledge of how grants actually get made.
-Federal funding agencies should develop systematic gap-mapping capacity,
-regularly review their funding portfolios, and drive more intentional grantmaking
+The foundation of this portfolio should be a metascience unit in each federal science agency. Each unit should be highly empowered, reporting directly to the director or administrator to ensure cross-agency visibility and guard against capture by particular programs or constituencies. Each unit should be staffed with researchers possessing expertise in the science of science, program evaluation, and data analysis, supplemented by rotating program officers who bring operational knowledge of how grants actually get made. 
+
+Federal funding agencies should develop systematic gap-mapping capacity, regularly review their funding portfolios, and drive more intentional grantmaking
 instead of deferring to the portfolio allocation of the previous fiscal year. Such a
 process could identify both bottlenecks and the foundational capabilities that
 would address them.80 Metascience units could, for instance, convene expert
 workshops and maintain living maps of capability gaps, or work externally with
-foundations that have developed sophisticated methods for identifying transformative research opportunities. DARPA’s Heilmeier Catechism embodies this  discipline, forcing explicit articulation of what gap a program addresses and why
-solving it matters.81
+foundations that have developed sophisticated methods for identifying transformative research opportunities. DARPA’s Heilmeier Catechism embodies this  discipline, forcing explicit articulation of what gap a program addresses and why solving it matters.
 
 These units should also be empowered to do more than advise on the existing portfolio of instruments; they should pilot new ones across agency programs.
 
@@ -221,10 +227,7 @@ generate the evidence needed to write sensible ones. Our goal should be to disma
 About seventy years ago, a committed group of amateur rocketeers purchased a
 private test site in the Mojave Desert north of Edwards Air Force Base. Since
 then, the oldest continuously operating amateur rocket group in the country has
-been firing homemade engines. In 2003, a spin-off organization incorporated 
-39
-Chapter III – Securing U.S. Dominance in Critical and Emerging Technologies
-next door as a nonprofit, and its volunteers built the necessary infrastructure
+been firing homemade engines. In 2003, a spin-off organization incorporated next door as a nonprofit, and its volunteers built the necessary infrastructure
 from scratch. They erected static test stands, reinforced concrete blockhouses,
 and propellant storage sites. They secured federal permits for handling high
 explosives and a Federal Aviation Administration (FAA) waiver to launch rockets
@@ -263,4 +266,166 @@ A breakthrough in a university laboratory must be prototyped, tested under real-
 migrate toward software, where the regulatory burden is lightest. This  contributes to the lopsided economic growth we see today, away from the world
 of atoms in our heartlands, and toward the world of bits in the Valley.
 
+
+
+
+### Opening America’S Laboratories
+
+Beyond test beds, America possesses extraordinary research infrastructure, built
+up over decades of federal investment. The DOE alone operates 28 user facilities,
+from the Advanced Photon Source at Argonne to the Spallation Neutron Source
+at Oak Ridge, providing capabilities available nowhere else on Earth.101 These
+facilities represent billions of dollars in capital investment by the American taxpayer and decades of accumulated expertise.
+
+Yet access to this extraordinary infrastructure has historically been too narrow and too slow. Echoing a theme from Chapter II, evaluations for facility access are built for academic merit review. This system works for university scientists
+pursuing publications, but fails entrepreneurs who need to validate technology
+on a timeline set by competitors.
+
+Opening these facilities more broadly to private industry, with evaluations
+that weigh innovative potential and commercial urgency alongside scientific
+merit, would multiply the return on existing federal investments. An older culture
+at the labs holds that industry engagement detracts from the research mission,
+but in reality these interactions benefit both sides, allowing external users to
+leverage the lab’s vast knowledge base while exposing lab researchers to new
+use-inspired problems. Revenue from user fees can also fund expanded capacity
+and new instrumentation, turning facilities that today operate below capacity
+into self-sustaining engines of innovation. Every facility-hour that goes unused is
+a wasted national asset; every dollar of industry revenue reinvested is a dollar of
+federal appropriation freed to grow the next generation of tools and equipment.
+Large federal facilities are only part of the picture. Closer to the entrepreneur, shared platforms at smaller scales have proven equally transformative. 
+
+The National Quantum and Nanotechnology Infrastructure program provides shared
+cleanroom access with more than 2,000 available tools, enabling startups to prototype semiconductor, photonics, and quantum devices without building their
+own fabrication lines, often at the cost of just a few hundred dollars per hour.102
+In the life sciences, shared wet laboratories have reduced the capital barriers for
+early-stage biotech companies, enabling researchers to move from concept to experiment in weeks rather than the years required to build a dedicated facility.103
+Shared Good Manufacturing Practice (GMP) facilities address an even larger
+bottleneck.104 The production of clinical-grade materials under FDA-compliant  conditions requires tens of millions of dollars in capital investment that most
+startups cannot raise before they have clinical data. This has created a catch-22
+that can be broken by shared GMP platforms. Expanding these platforms across
+sectors and geographies would put the physical tools of innovation within reach
+of any American entrepreneur with a good idea.
+
+Our national laboratories and universities can play a similar role at larger
+scales, serving as revitalized hubs of testing and evaluation for private industry.
+Places like Oak Ridge, Sandia, and Lawrence Livermore possess unique capabilities to validate technologies no startup could test alone; universities that host
+startups in their research infrastructure catalyze knowledge and hiring pipelines
+that multiply innovation. Yet licensing and partnership processes at national labs
+remain slow relative to the pace at which technologies must move. American research universities face a parallel challenge. Intellectual property policies vary
+wildly across institutions, creating friction for companies that want to license
+from multiple universities. Faculty incentive structures typically reward publications over commercialization, and far too often, equipment purchased with federal grants sits idle between projects while entrepreneurs who could use it have
+no access.
+Reforms that streamline university technology licensing, standardize IP
+frameworks for federally funded research, and open university facilities to outside innovators on flexible terms would unlock a vast reservoir of capability that
+today remains bottled up behind administrative walls. Likewise, streamlining the
+CRADAs that govern lab-industry partnerships, further leveraging the OTA, and
+reducing the administrative burden on companies seeking to license lab technologies, would help our scientific institutions move closer to industry speed.
+
+
+### TAPPING OUR PRIVATE SECTOR
+
+A major task ahead for the Federal Government is to harmonize the efforts of our
+publicly-funded institutions with our dynamic private sector. The way government funds science has not yet fully integrated the spectacular rise of the private sector in both basic and applied R&D. In the 1960s, the Federal Government
+funded over 70% of all basic research performed in the United States.105 Today
+the federal share of basic research funding has fallen to 40%, while industry’s
+share has grown to well over 35%. Our biggest technology companies and leading
+pharmaceutical firms now support or directly publish some of the most cited
+work in fundamental science. Individual technology companies now spend more
+on R&D than the NSF’s entire annual budget. In fields like AI, quantum  computing, and advanced drug discovery, the most important research increasingly requires capabilities that universities alone cannot provide.
+
+In AI, the companies that train frontier models wield supercomputers worth
+tens of billions of dollars, hold petabytes of proprietary data, and can afford to
+spend tens of millions to recruit the best engineering talent in ways no university
+can match. This has produced an academic brain drain; yet academic researchers
+remain essential to the long-term health of the field, producing foundational
+work on next-generation algorithms that companies have less incentive to pursue. Without new partnership structures that give academic scientists access to frontier-scale resources, the basic research that underpins the next generation of
+AI advances will atrophy, and our technological leadership will rest on an increasingly narrow institutional base. What is needed are mechanisms that adequately leverage the comparative advantage of both public and private funding.
+
+
+### CLOSER PARTNERSHIPS
+
+As a first step, we need to expand the scope of Federal grantmaking. Funding
+should be open to new types of institutions, whether they are joint industry-university centers or independent research organizations that can raise equity.
+Some mechanisms already exist but are underused. As discussed in Chapter
+II, the OTA can surmount procurement constraints, and institution-agnostic
+grants can reach nonprofits, industry consortia, and independent researchers.
+SBIR and STTR programs can be deployed strategically to advance new scientific
+and technological capabilities, coupling federally-seeded companies with the scientific enterprise. Furthermore, our science agencies could establish or strengthen
+agency-adjacent independent foundations, modeled on the Foundation for the
+NIH (FNIH).106 One FNIH public-private partnership involving NIH and industry
+partners, the Accelerating Medicines Partnership (AMP), invests in reducing the
+timeline to find live-saving therapies and improvements in outcomes. The AMP
+on Alzheimer’s Disease, one of twelve disease-focused AMPs, experimentally validated 20 candidate drug targets to lead to clinical trial success.107 Such foundations can blend public and private capital in ways that federal procurement rules
+prohibit, contract on commercial terms, and accept cost-sharing from industry
+partners, offering a vehicle for public-private collaboration that moves at the
+speed of industry while remaining responsive to policy priorities.
+The most powerful conduit between institutions, however, is the flow of
+human capital itself. Industry Ph.D. programs that enable American citizens to
+complete doctoral training at leading private organizations or national  laboratories would offer higher stipends, real work experience, and exposure to
+problems at the frontier while also drawing a larger proportion of American citizens into basic research. Such programs already exist in prototype.108 These
+include industry postdocs, where some of our best researchers join leading companies to drive groundbreaking work, and industry-funded Ph.D. scholarships, which create revolving doors that bring new ideas into our strongest mathematics and physics departments. Programs like Activate at Lawrence Berkeley National Laboratory embed entrepreneurial scientists in national lab environments
+with stipends, lab access, and mentorship, and have been effectively expanded to
+talent emerging from the nation’s universities through investments by NSF.109
+We can build on these models by creating more flexible cross-institutional
+talent pathways. Scaling such programs would widen the aperture for our researchers. Instead of being locked into a single institutional track, or forced into a risky, one-way jump into industry, our next generation should be able to move
+fluidly among a wide range of sectors, institutions, and research cultures.
+
+
+### MARSHALING GRAND EFFORTS
+
+Reforming the bilateral partnership between our government and private companies is only the first step. Many of the most transformative technological achievements in history required the deliberate marshaling of national effort toward
+goals that no single company, university, or agency could achieve alone.
+The Human Genome Project is a case in point. It began as a federally directed
+NIH-DOE partnership in 1990, with initial funding in President Reagan’s 1988
+budget submission.110 Its creators wagered that a complete reference of the human
+genome, and the sequencing technology advanced through the effort, would become a foundational technology for all of biomedicine. Its advocates pressed forward even as many leading biologists in the late 1980s dismissed the project as
+immature and argued the money would be better spent on individual grants.
+Only the Federal Government could have marshaled the coalition that executed it. A distributed network of DOE national laboratories and NIH-funded
+centers, including Washington University and the Whitehead Institute, coalesced
+around common milestones and operated under the Bermuda Principles, which
+required immediate public data release. The project depended on the productive
+entanglement of public and private capacities, most notably in the development
+of new automated capillary sequencers, where federal demand pulled forward
+private innovation in instrumentation.111 When Celera Genomics entered as a private competitor in 1998, the resulting public-private dynamic accelerated the timeline further. 
+
+The project finished ahead of schedule, and the $3.8 billion federal investment has generated an estimated $796 billion in economic activity.112
+The human genome story exemplifies the Federal Government driving
+American leadership in a platform technology. It featured an engineering challenge bound up with a basic science mission; a gap in basic capabilities that could
+be closed through large-scale coordination; and a network of national laboratories and academic institutions focused on a common goal. Its completion required public-private collaboration that broke institutional walls.
+
+
+### PRE-COMPETITIVE CONSORTIA
+
+The Federal Government wields enormous power to align fragmented actors
+around shared objectives. As discussed in Chapter II, well-designed grand challenges exemplify this convening power for problems with clear metrics and deadlines, where opening the field to outsiders is an advantage. But not all shared
+problems lend themselves to this approach. Some technical challenges sit
+between basic science and commercial application, too applied for academic
+grants and too risky for any single firm to tackle alone.
+These pre-competitive problems, shared across an industry, require another
+instrument: cooperative R&D anchored by federal investment.
+SEMATECH is the defining American example. By the 1980s, Japanese manufacturers had captured the majority of the global memory chip market. In 1987,
+fourteen American semiconductor companies pooled resources, matched by federal funding through DARPA, to attack shared manufacturing challenges in lithography, etching, and materials processing.113 The consortium solved technical
+problems that every American chipmaker needed but none could afford to solve
+individually.
+
+The SEMATECH model produced an even more consequential successor. In
+1997, EUV LLC, another semiconductor consortium, contracted with three DOE
+national laboratories to develop EUV lithography, a technology that required
+breakthroughs in plasma physics, precision optics, and materials science beyond
+the reach of any single firm. By 2001, the consortium had built the first prototype
+EUV exposure tool and filed over 150 patents.114 Refined over the following two
+decades, that technology now underpins every leading-edge semiconductor manufactured on Earth. While policies undertaken then ceded the dominant market
+position to a European company, EUV lithography remains one of the most strategically important industrial technologies in our part of the century, and it exists  because American federal laboratories and semiconductor companies solved the
+problem together.115
+The pre-competitive consortium model worked because it targeted the right
+problems where the science was understood, but the engineering had not yet
+been done, where shared technical risk was the barrier. Today, many challenges
+of a similar scale and complexity await, such as returning leading-edge semiconductor research to American soil, programming biological tissues with precision,
+and creating next-generation nanotechnology techniques that allow for self-replication and atomic-level manipulation. No single firm can tackle these problems,
+traditional academic grants cannot fund them, and the nation cannot afford to
+leave them to chance.
+
+The Federal Government’s ability to anchor such ventures, leveraging private
+capital, aligning fragmented actors, and sustaining effort over timelines that no
+quarterly earnings cycle would tolerate, remains one of its most potent and underutilized capacities.
 

@@ -1,10 +1,10 @@
 ---
 heading: Chapter 5b
-title: OUR RESEARCHERS FACE MOUNTING CHALLENGES
-weight: 22
-# date: 2023-06-17
-author: MICHAEL KRATSIOS
-description: "White House"
+title: Our Researchers Face Mounting Challenges
+weight: 15
+date: 2026-07-21
+author: Michael Kratsios
+description: ""
 s: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1235' height='650' viewBox='0 0 7410 3900'> <path d='M0,0h7410v3900H0' fill='#b31942'/> <path d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='#FFF' stroke-width='300'/> <path d='M0,0h2964v2100H0' fill='#0a3161'/> <g fill='#FFF'> <g id='s18'> <g id='s9'> <g id='s5'> <g id='s4'> <path id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/> <use xlink:href='#s' y='420'/> <use xlink:href='#s' y='840'/> <use xlink:href='#s' y='1260'/> </g> <use xlink:href='#s' y='1680'/> </g> <use xlink:href='#s4' x='247' y='210'/> </g> <use xlink:href='#s9' x='494'/> </g> <use xlink:href='#s18' x='988'/> <use xlink:href='#s9' x='1976'/> <use xlink:href='#s5' x='2470'/> </g> </svg>"
 ---
 
@@ -58,7 +58,7 @@ around a portfolio-based model, with boards that allocate funding across themati
 disciplinary portfolios. With new ideas bubbling up across the world and within
 Figure 2: For the first time, the United States faces a peer-level competitor in R&D spending on a purchasing power parity (PPP)-adjusted basis.21
 
-GROSS DOMESTIC EXPENDITURE ON R&D
+<!-- GROSS DOMESTIC EXPENDITURE ON R&D
 2000
 2002
 2004
@@ -80,7 +80,7 @@ GROSS DOMESTIC EXPENDITURE ON R&D
 200
 0
 Billions of Current PPP Dollars
-United States EU 27 China
+United States EU 27 China -->
 
 our own vibrant philanthropic, metascience, and academic communities, it falls
 on the United States as the world’s premier scientific power to take a hard look
@@ -474,5 +474,3 @@ best support them.
 
 The answers will not come from any single reform but from building the capacity for continuous experimentation, for applying the scientific method to the
 scientific enterprise itself.
-
-

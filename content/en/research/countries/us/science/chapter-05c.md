@@ -1,33 +1,29 @@
 ---
-heading: Chapter 5b
-title: ADAPTING TO THE CHANGING NATURE OF SCIENCE
-weight: 22
-# date: 2023-06-17
-author: MICHAEL KRATSIOS
-description: "White House"
+heading: Chapter 5c
+title: Adapting To The Changing Nature Of Science
+weight: 17
+date: 2026-07-21
+author: Michael Kratsios
+description: ""
 s: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1235' height='650' viewBox='0 0 7410 3900'> <path d='M0,0h7410v3900H0' fill='#b31942'/> <path d='M0,450H7410m0,600H0m0,600H7410m0,600H0m0,600H7410m0,600H0' stroke='#FFF' stroke-width='300'/> <path d='M0,0h2964v2100H0' fill='#0a3161'/> <g fill='#FFF'> <g id='s18'> <g id='s9'> <g id='s5'> <g id='s4'> <path id='s' d='M247,90 317.534230,307.082039 132.873218,172.917961H361.126782L176.465770,307.082039z'/> <use xlink:href='#s' y='420'/> <use xlink:href='#s' y='840'/> <use xlink:href='#s' y='1260'/> </g> <use xlink:href='#s' y='1680'/> </g> <use xlink:href='#s4' x='247' y='210'/> </g> <use xlink:href='#s9' x='494'/> </g> <use xlink:href='#s18' x='988'/> <use xlink:href='#s9' x='1976'/> <use xlink:href='#s5' x='2470'/> </g> </svg>"
 ---
 
 
-The 19th and 20th centuries witnessed a series of institutional innovations that
-ushered in a fertile era of discovery. The natural philosophy of earlier ages, where
-a single scholar might range freely across what we now call physics, chemistry, and
-biology, had given way to specialized disciplines. Each had its own departments,
-journals, and staff. This transformation, pioneered primarily in German universities during the 19th century, laid the foundation for scientific professionalization.54
+The 19th and 20th centuries witnessed a series of institutional innovations that ushered in a fertile era of discovery. The natural philosophy of earlier ages, where
+a single scholar might range freely across what we now call physics, chemistry, and biology, had given way to specialized disciplines. Each had its own departments, journals, and staff. This transformation, pioneered primarily in German universities during the 19th century, laid the foundation for scientific professionalization.
 
-America adopted this architecture of discovery and gave it a distinctive
-twist. Land-grant universities democratized access to scientific education, the
+America adopted this architecture of discovery and gave it a distinctive twist. Land-grant universities democratized access to scientific education, the
 college major system restructured undergraduate training, and technical universities focused on industry. These innovations proved remarkably successful. The
 combination of disciplinary depth with clear career ladders enabled the specialization that carried us into the scientific lead.
 Yet the disciplinary framework that served us in the 20th century sits uneasily with science in the 21st. The most consequential questions of our era, such as
 how proteins fold and function, how certain disorders emerge from neural circuits, and how we can harness fusion energy, do not respect departmental
 boundaries.
-The protein folding problem that earned the 2024 Nobel Prize in Chemistry
-belonged to no single academic department; it required deep knowledge of biochemistry alongside advances in AI and engineering at scale.55 Two of the three
+
+The protein folding problem that earned the 2024 Nobel Prize in Chemistry belonged to no single academic department; it required deep knowledge of biochemistry alongside advances in AI and engineering at scale.55 Two of the three
 laureates came from a corporate research lab where team-based science harnessed diverse expertise. The third laureate’s work was seeded by NSF and later
-heavily supported by private philanthropy, spinning off into a large-scale,
-university-affiliated center.56 Both efforts depended on decades of infrastructure
-building and open science, such as the Critical Assessment of Structure Prediction competitions and the Protein Data Bank, built by over 60,000 experimentalists who shared their findings freely.57
+heavily supported by private philanthropy, spinning off into a large-scale, university-affiliated center.56 Both efforts depended on decades of infrastructure
+building and open science, such as the Critical Assessment of Structure Prediction competitions and the Protein Data Bank, built by over 60,000 experimentalists who shared their findings freely.
+
 The shape of an institution determines the shape of the science it produces.58
 The university laboratory, centered on the principal investigator and a rotating
 cast of graduate students, excels at curiosity-driven research and at training the  next generation within established disciplines. The industrial R&D lab, with its permanent staff and tight feedback loops, is suited to engineering projects.59 The
@@ -94,17 +90,13 @@ for them. Academic incentives filter out team-based execution; commercial incent
 flexibly and execute rapidly. The FRO occupies the new ground of problems too
 large for the standard federal grant, too non-commercial for venture capital, and
 too risky and fast-moving for government facilities.
-But the FRO is just one point in a broader design space (Table 1). As the examples of Cold Spring Harbor Laboratory and the Institute for Advanced 
-
-
-Study
-illustrate, many other approaches are possible. One proposal taxonomizes a
-range of novel institutional structures, including minimally constrained homes
+But the FRO is just one point in a broader design space (Table 1). As the examples of Cold Spring Harbor Laboratory and the Institute for Advanced  Study illustrate, many other approaches are possible. One proposal taxonomizes a range of novel institutional structures, including minimally constrained homes
 for basic science, FRO-style teams that execute against specific bottlenecks, and
 specific formats focused on the scouting and seed-funding of non-consensus
 ideas.64 Others have written about the variables that together map out the design
 space: the timeline over which projects are expected to pay off, the revenue strategy, the intellectual property policy, the size of the team, and the use of clear market signals to drive problem selection, among others.65
-Table 1: Established institutional forms, such as universities, corporate laboratories, and federal laboratories, each carry their own relative advantages. Future modes of organization should be designed to fill
+
+<!-- Table 1: Established institutional forms, such as universities, corporate laboratories, and federal laboratories, each carry their own relative advantages. Future modes of organization should be designed to fill
 the scientific gaps our existing institutions miss.
 Activity University Corporate Lab Federal Lab New Institutions
 Curiosity-driven,
@@ -122,7 +114,7 @@ Workforce training
 and apprenticeship + ≠ × By design
 
 Legend: + Well-Suited ≠ Partially-Suited × Less-Suited
-26
+26 -->
 
 Betting exclusively on the existing funding model is like building a military
 composed entirely of infantry, effective for one kind of warfare, inadequate
@@ -238,6 +230,7 @@ others have yet to be invented. Each addresses different aspects of the same
 underlying challenge. Each represents a hypothesis about how to elicit honest
 signals, reward productive risk-taking, and allocate resources where they will
 generate the greatest return.
+
 One emerging idea, for instance, is to decentralize decisions. Doing so can
 leverage the wisdom of crowds to identify good science. Scouts, financially rewarded to find promising projects and individuals, could help identify scientific
 research for grantmakers. At a larger scale, the “regranting” model rests on the
@@ -256,16 +249,16 @@ There must ultimately be a menu of options from which those who exercise
 federal funding authority can choose. The current selection system concentrates
 decisions among too few people using mechanisms that cannot support the
 weight placed on them. We stand at the beginning of a renaissance in grantmaking, and the Federal Government should welcome this experimentation.
-A PORTFOLIO-BASED APPROACH
+
+
+### A PORTFOLIO-BASED APPROACH
+
 Private capital allocators must deliver results or risk losing their investors.
-Philanthropies compete for donor confidence. But federal program officers
-receive little corrective feedback when their grant portfolios systematically
-underperform, and agencies rarely compare outcomes across funding mechanisms or allocation strategies.
-Just as investment funds in the private sector balance their portfolios and
-match mechanisms to the nature of the work, we need to move toward a far more
-intentional approach to grantmaking. The preceding pages cataloged a diverse arsenal of mechanisms: golden tickets, which move us beyond false consensus; individual-based funding, which bets on researchers rather than proposals; pull
-mechanisms, which pay for outcomes rather than inputs; and regranting, which
-delegates decisions to those closest to the frontier. Each works for certain problems, operates well within certain institutional constraints, and produces returns
+
+Philanthropies compete for donor confidence. But federal program officers receive little corrective feedback when their grant portfolios systematically underperform, and agencies rarely compare outcomes across funding mechanisms or allocation strategies.
+
+Just as investment funds in the private sector balance their portfolios and match mechanisms to the nature of the work, we need to move toward a far more
+intentional approach to grantmaking. The preceding pages cataloged a diverse arsenal of mechanisms: golden tickets, which move us beyond false consensus; individual-based funding, which bets on researchers rather than proposals; pull mechanisms, which pay for outcomes rather than inputs; and regranting, which delegates decisions to those closest to the frontier. Each works for certain problems, operates well within certain institutional constraints, and produces returns
 with a particular risk profile.
 
 We can also be intentional about where we place various programs on the
@@ -275,6 +268,7 @@ Science is not a pure random walk; it often helps to have an inductive bias. Thi
 is Pasteur’s quadrant, the domain of use-inspired basic research, which we discussed in Chapter I. But pure curiosity-driven research can also deliver immense
 value to society. Riemann’s abstract study of differential geometry eventually enabled Einstein’s formulation of general relativity; the field of group theory eventually enabled cryptographic codes, computer graphics, and our understanding of
 elementary particle physics.
+
 The key lies in distinguishing between cases where strategic direction can
 accelerate progress, and cases where the fog is too thick for anything but an exploratory search.
 Intentional grantmaking therefore requires deliberate portfolio construction:
@@ -284,5 +278,3 @@ and capability areas. Federal agencies should construct their portfolios the way
 sophisticated allocators do, with thesis-driven conviction about where breakthroughs are most likely to emerge, while preserving space for the serendipity
 that no thesis can anticipate. We should aim to engineer a large, well-constructed
 portfolio that allows us to win in the long run.
-
-
