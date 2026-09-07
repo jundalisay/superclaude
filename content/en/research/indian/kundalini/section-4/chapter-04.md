@@ -1,8 +1,9 @@
 ---
-title: "Controlling the Nadis and the Brain"
 heading: "Chapter 4"
+title: "Controlling the Nadis and the Brain"
 date: 2025-10-16
 weight: 16
+c: "indigo"
 description: ""
 ---
 
@@ -61,34 +62,26 @@ The circuits of the brain are based on ida and pingala, consciousness or knowled
 action or physical energy. We see ida and pingaia at all three major levels of the nervous
 system :
 
-1. Sensory-motor nervous system (SMS) : all electrical activity in the body moves in
-one of two directions, into the brain (afferent), ida, and out of the brain (efferent),
+<!-- 1. Sensory-motor nervous system (SMS) : all electrical activity in the body moves in one of two directions, into the brain (afferent), ida, and out of the brain (efferent), -->
 pingala. Yogis called the sensory nerves which are governed by ida, gyanendriyas, and
 motor nerves, governed by pingala, karmendriyas. These nerves are concerned with
 perception of and activity in the world.
 
-2. Autonomic nervous system (ANS) : the autonomic nervous system is divided into
-the outward directed, stress handling, energy utilizing, pingala dominant, sympathetic
+2. Autonomic nervous system (ANS) : the autonomic nervous system is divided into the outward directed, stress handling, energy utilizing, pingala dominant, sympathetic
 nervous system, or the inwardly directed, rest handling, energy conserving, ida dominant,
-parasympathetic nervous system. These two systems control and regulate all the
-automatic body processes: heart, blood pressure, respiration, digestion, liver and kidney
+parasympathetic nervous system. These two systems control and regulate all the automatic body processes: heart, blood pressure, respiration, digestion, liver and kidney
 and so on.
 
-3. Central nervous system (CNS) : this consists of the brain and spinal cord and
-contains the controls for the SMS and ANS. The brain contains much more than this
+3. Central nervous system (CNS) : this consists of the brain and spinal cord and contains the controls for the SMS and ANS. The brain contains much more than this
 though, for it is a huge, ultimately complex computer, which stores and integrates
-information and puts our decisions into action in a superbly synchronized and
-orchestrated performance. Its functioning is definitely much more than its parts. Within
+information and puts our decisions into action in a superbly synchronized and orchestrated performance. Its functioning is definitely much more than its parts. 
+
+Within
 the infinite circuitry of the brain resides more potential than we can realize in one
 lifetime, however, the techniques of yoga systematically clear and strengthen these
 circuits with regular practice.
 
-This is what yogis have been telling us, that the circuitry for nadis and chakras exist
-within the CNS, along the spine and in the brain. If we can tap, purify, strengthen and
-reconnect these circuits via the various yogic techniques, we can totally transform our
-mind/ body complex. The basis for yogic techniques lies in the fact that there is a
-nadi/chakra system which can be seen, at the physical level, as being the sum total of the
-input and output of the various sections of the nervous system and the parts of the body
+This is what yogis have been telling us, that the circuitry for nadis and chakras exist within the CNS, along the spine and in the brain. If we can tap, purify, strengthen and reconnect these circuits via the various yogic techniques, we can totally transform our mind/ body complex. The basis for yogic techniques lies in the fact that there is a nadi/chakra system which can be seen, at the physical level, as being the sum total of the input and output of the various sections of the nervous system and the parts of the body
 which connect to it. This total body/mind complex functions on the power of the three
 basic types of energy- ida, pingala and sushumna. We can therefore begin to understand
 why so many yogic techniques are specifically aimed at balancing the ida/pingala flow
@@ -133,8 +126,10 @@ and many other adjectives to aid our understanding.
 Research by Marcel Kinsbourne, neurobiologist and neuropsychologist, director of
 the Department of Behavioral Neurology at the Eunice Kennedy Shriver Center for
 Mental Retardation in Waltham, Massachusetts, throws light on brain functioning which
-points to the fact that the brain has two main modes of emotional activity. (1) He has
-found that the two halves of the brain support different emotional states.
+points to the fact that the brain has two main modes of emotional activity. (1) 
+
+He has found that the two halves of the brain support different emotional states.
+
 Research indicates that the left hemisphere governs happiness and positive feelings
 and the right brain governs sadness and negative feelings. In the abnormal situation,
 patients with right brain damage are often cheerful, elated and indifferent to their
@@ -146,12 +141,15 @@ The fact that the left brain is associated with bright, cheerful thoughts and th
 with sad and depressing thoughts, Kinsbourne theorizes, points to the conclusion that this
 dual action of the brain is designed to handle our likes (pingala) and dislikes (ida). The
 things we like are handled by the left brain, which focuses on and then approaches the
-object or situation. This fits in with our active mode, the concept of the externally
+object or situation. 
+
+This fits in with our active mode, the concept of the externally
 directed pingala nadi. The things we dislike we try to avoid or withdraw from and we
 tend to be much more concerned with the overall picture in this situation. This is handled
 by the right brain and fits in with our receptive mode, introversion and ida nadi concept.
 
 ## The necessity of the right brain
+
 The brain has two major modes or systems which must work together and be
 
 harmonized if we are not to lose the essentials of our human existence. The nadis must be
@@ -215,24 +213,33 @@ which both sides become equal and balanced. According to yoga, when both the sad
 happy hemispheres are balanced for a certain length of time, a new state arises which
 unites logic and intuition, transforms our emotions and enables us to power a greater
 range of neurological activity.
+
 We have to understand the necessity for attaining equilibrium and that the resultant
 state is a better and more pleasant and puissant experience. Einstein is an example of a
 natural yogi who used both sides of his brain. Meditating on what it would be like to ride
 on a ray of light, he had a sudden and powerful flash of intuition, piercing insight into the
 mysteries of the universe, indicating right brain function, and was able to harness his left
 brain to construct a theory of energy and matter conversion which totally revolutionized
-science and replaced the several hundred year old paradigm of Newton. Einstein stated,
-"The real thing is intuition. A thought comes and I may try to express it in words
-afterwards." Yogis would say that Einstein had not only experienced the awakening of
+science and replaced the several hundred year old paradigm of Newton. 
+
+
+{{< q a="Albert Einstein" >}}
+"The real thing is intuition. A thought comes and I may try to express it in words afterwards." 
+{{< /q >}}
+
+Yogis would say that Einstein had not only experienced the awakening of
 Shakti in his nadis, but that this initial awakening had also led to activation of a chakra.
 This powerful experience transformed and enriched not only his life, but many other lives
 as well.
+
+
 Perhaps the best known example of non-analytical creative genius is that of Leonardo
 da Vinci who in 1490 invented a spring-driven car, a helicopter, as well as many other
 things which came into common usage centuries after his time. His achievements extend
 into many more fields, and apparently he used his right brain intuition to create an idea,
 because most of his work is in the form of drawings and visual images rather than in
 written words.
+
 Of course, there are times when we only require the left brain, for example, while
 doing a mathematical equation, working on a factory production line, or implementing
 management policy. However, these things quickly become boring if the right brain is not
@@ -249,7 +256,9 @@ proper outcome even though we do not realize it. Even simple situations require 
 for example, knowing when to shift gears in a car, knowing when a cake in the oven is
 baked, knowing when it is the right time to say something nice to a friend, or how much
 strength is required to turn a screw. We have to feel what is required using our right
-brain. There is no book and no one who can give us this information. There can be no
+brain. 
+
+There is no book and no one who can give us this information. There can be no
 linear-structured analysis of what must be a non-verbal, intuitive knowledge that springs
 from within, the intuitive flash has no time dimension and defies logic. Within less than a
 second a total picture can be presented to our mind, the key to unlocking the mysteries of
@@ -264,7 +273,9 @@ added to lack of exercise, sedentary lifestyle and overeating (unhealthy pingala
 contribute to damaging the intuitive apparatus in the right side of the brain and may even
 damage the logical, reasoning capacity of the left side. We may find it very difficult if not
 impossible to repair and reinstitute function by the normal methods of medicine and
-psychotherapy. Though yoga possesses the techniques by which we can rebalance,
+psychotherapy. 
+
+Though yoga possesses the techniques by which we can rebalance,
 reintegrate, regenerate and rejuvenate our body/mind complex by bringing about balance
 in the nadis, even then it may be too late for some people.
 
@@ -275,16 +286,21 @@ minute cycles of rest (ida) and activity (pingala). A study by Raymond Klein and
 Roseanne Armitage of the Department of Psychology at Dalhousie University in Nova
 Scotia found that performance of tasks involving left and right brain activity comes in 90
 to 100 minute cycles. (4) For 90 minutes, subjects could do well on right brain tasks and
-then switch over to doing well in left brain related tasks. This also corresponds with the
+then switch over to doing well in left brain related tasks. 
+
+This also corresponds with the
 90 minute fluctuation in nostril dominance and points to agreement with the yogic theory
 that there is an intimate relationship between the breath and the brain and their cyclical
 activity.
+
 If we are unhealthy then our brain cycles may become abnormal in rhythm, duration,
 quality of function, or in some other way. Our whole life is disturbed and this situation
 actually occurs much more than any of us, even medical science, has previously realized.
 Yogis diagnosed dysfunction of brain rhythm by examining the flow of air in the nostrils.
 Yogis have repeatedly asserted that there is a strong link between not just the nostrils
-and the brain but between the eyes and ears and all body organs. Of course, today we
+and the brain but between the eyes and ears and all body organs.
+
+Of course, today we
 know from our anatomy and physiology that this is so, however, yogis were saying the
 same thing thousands of years ago. In meditative experience they could feel the flows of
 energy in the nerves moving into and out of the brain and the rest of the body. They were
@@ -337,12 +353,14 @@ more experimentation to repeat the findings and reveal the ramifications in term
 medicine, psychology and our lives in general. It also reveals that buried within the brain
 are undreamed of capabilities and potentials which can transform our lives if we can tap
 them.
+
 While scientists search for wonder drugs, external stimuli to probe the deeper aspects
 of man, yoga provides a concise and precise theoretical framework, within the
 nadi/chakra system, for a deeper understanding of the total human range of existence and
 the techniques by which to manipulate our internal environment, to stimulate internal
 secretions and to maintain balance, optimal health and higher awareness.
-1. Kinsbourne, M., "Sad Hemisphere, Happy Hemisphere", Psychology Today, May
+
+<!-- 1. Kinsbourne, M., "Sad Hemisphere, Happy Hemisphere", Psychology Today, May
 1981.
 2. Gardener, H., "How the Split Brain Gets a Joke", Psychology Today, Feb. 1981.
 3. Black, M., "Brain Flash: The Physiology of Inspiration", Science Digest, August,
@@ -351,5 +369,4 @@ secretions and to maintain balance, optimal health and higher awareness.
 5. Kinsbourne, op. cit.
 6. "Breathing Cycles Linked to Hemisphere Dominance", Brain Mind Bulletin, 8 (3),
 Jan. 3, 1983.
-7. Ibid.
-
+7. Ibid. -->

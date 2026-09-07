@@ -3,6 +3,7 @@ title: "Analysis of the Chakras from a Psychophysiological"
 heading: "Chapter 10"
 date: 2025-10-16
 weight: 105
+c: "deeppink"
 description: ""
 ---
 
@@ -170,11 +171,13 @@ would not get a telephone wire and try to light a 1OO watt bulb, because there i
 enough energy there. Telephone wires run only on about 2 volts; it is not primarily an
 energy transmission, but primarily a message transmission; the energy is a secondary
 issue and comes from another source.
+
 Some people, by their nature, have some of these circuits much more activated and
 "energized" than others. There are some people who are very much more into the whole
 manipura thing. They eat a lot and have big muscles; they are all manipura chakra. You
 get anahata people who are very paternal and loving and always sensing other people's
 feelings, everywhere they go. The same applies to the other chakras.
+
 Chakra types can be easily seen at a party where there are a whole lot of people
 around and you do not know anybody. Then you will see the person who's very much
 into feelings will start picking up all over the place who is kind and who is not kind. That

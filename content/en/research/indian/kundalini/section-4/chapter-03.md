@@ -3,6 +3,7 @@ title: "Defining the Nadis"
 heading: "Chapter 3"
 date: 2025-10-16
 weight: 12
+c: "indigo"
 description: ""
 ---
 
@@ -57,6 +58,7 @@ or forces can be seen at work motivating our universe; light and dark, positive 
 negative, male and female. All other forces are seen to be an outcome of these two main
 forces. It seems amazing to us that things can be so simple and yet so profound, however,
 to the enlightened mind, the universe and man is just so.
+
 All of life, therefore, has two main aspects upon which all of our perception, activity
 and experience are based. Our mind and body are the outcome of two main forms or
 modes of energy interacting and creating endless manifestations in the universe of our
@@ -73,6 +75,7 @@ and sushumna, and which have been roughly translated as body, mind and spirit. T
 third flow is the result of the balanced interaction of the first two. They also said that man
 functions mainly in the first two areas of body and mind, pingala and ida, the third aspect
 being dormant until it is stimulated by yoga or some other discipline.
+
 Ida and pingala are roughly translated as mind and body. Though this is true at one
 level, when we are discussing the polarization of the total individual, the body and rnind
 are themselves each polarized. We have to understand, however, that the nadis are not
@@ -81,13 +84,16 @@ Yogis did not describe the nadis in terms of structures, though structure exists
 them. They described them in terms of energy, prana., vital and life-giving for pingala,
 and chitta, conscious and knowing for ida. The attributes of the nadis are summarized
 below:
+
 Pingala can be denned as the dynamic, active, masculine, positive, yang energy within
 our personality. It has a physical and mental side. Its material qualities are light, heat,
 solar, energy accumulating, creative, organizing, focused (centripetal) and contractive.
+
 The positive, dynamic mental side within Freud's system is Eros, the pleasure principle,
 and in Jung's system is the conscious personality, the rational, discriminating side. We
 can say that pingala is psychosomatic energy, outwardly directed, mind acting on body to
 motivate the organs of action, the karmendriyas. It is the basic energy of life.
+
 Ida is the energy within the personality which is passive, receptive, feminine,
 negative, yin. At the physical level it is dark, cold, lunar, energy dissipating,
 disorganizing, entropic, expansive (centrifugal) and relaxing. At the mental plane Freud
@@ -116,12 +122,14 @@ opposites, beginning with conflict and culminating in synthesis and integration.
 perfect balance is achieved, stabilized and perfectedj a state of dynamic peace is
 achieved, which is a paradox,a union of opposites, the synthesis of doing and not doing, a
 totally new way of perceiving and experiencing life.
+
 Few of us realise this third, spiritualized state and most of us oscillate from one state
 to another. Every 90 to 180 minutes ida and pingala alternate their dominance and only
 for a few seconds or minutes does sushumna come into potential being. It is the goal of
 all yogic techniques to balance and harmonize ida and pingala, life force and conscious
 awareness, so that they join at ajna chakra to create the inner light of knowledge and bliss
 and reveal the truth.
+
 In order to balance the flows of energy, yoga prescribes various techniques, asana,
 pranayama, shatkarma and meditation, which activate either ida, pingala or sushumna.
 This does not mean we are activating one structure but are, via yoga, able to manipulate
@@ -143,22 +151,29 @@ help every other part. There are two basic systems in the body that control this
 pingala, and if we stimulate any component of one system we turn on the whole system.
 This is how asana, pranayama, meditation, and the whole armamentum of yogic
 techniques work, and this is what is meant when we say that yoga affects the nadis.
+
 Arthur Deikman of the Department of Psychiatry, University of Colorado Medical
 Center, USA, describes the two main modes of man's being from the perspective of
 modern psychology. At the same time he describes the nadis ida and pingala using
-modern psycho-physiological jargon. He states,"Let us begin by considering the human
-being to be an organization of components having biological and psychological
+modern psycho-physiological jargon. 
+
+
+{{< q a="Arthur Deikman" >}}
+"Let us begin by considering the human being to be an organization of components having biological and psychological
 dimensions of organization : an 'action' mode and a 'receptive' mode.
 
-"The action mode is a state organized to manipulate the environment.The striated
+The action mode is a state organized to manipulate the environment.The striated
 muscle system and the sympathetic nervous system are the dominant physiological
-agencies. The EEG shows beta waves and baseline muscle tension is increased. The main
-psychological manifestations of this state are focal attention, object-based logic,
-heightened boundary perception, and the dominance of formal characteristics over the
-sensory; shapes and meanings have a preference over colors and textures. The action
+agencies. 
+
+The EEG shows beta waves and baseline muscle tension is increased. The main psychological manifestations of this state are focal attention, object-based logic,
+heightened boundary perception, and the dominance of formal characteristics over the sensory; shapes and meanings have a preference over colors and textures. The action
 mode is a state of striving, oriented toward achieving personal goals that range from
 nutrition to defense to obtaining social rewards, plus a variety of symbolic and sensual
 pleasures, as well as the avoidance of a comparable variety of pain." (2)
+{{< /q >}}
+
+
 Deikman describes ida, the receptive mode as organized around intake of environment
 rather than its manipulation. The sensory-perceptual system is dominant and
 parasympathetic function predominates. The EEG tends to alpha waves, muscle tension
@@ -183,7 +198,9 @@ existence. Telepathy and psychic phenomena in general fit into this picture and 
 hypothesize that telepathy is also designed to ensure survival. For example, we know that
 under conditions of extreme stress and in emergencies, people have sent psychic calls for
 help to close friends or relations; the emergency somehow powering this previously latent
-faculty. Many "primitive" peoples also utilize these powers and take them for granted
+faculty. 
+
+Many "primitive" peoples also utilize these powers and take them for granted
 wondering why it is that "civilized" man makes such a fuss about them.
 Yogis also tell us that when we practise yoga, purify our nadis and become stronger
 and more aware, siddhis, powers, must manifest as part of our spiritual development,
@@ -203,6 +220,8 @@ periods of the active mode as we grow out of our childhood and find it difficult
 into the receptive state. This is probably a major factor in the spiralling incidence of
 psychosomatic disease today. Deikman's research emphasizes the fact that our imbalance
 is reflected in every activity as well as in our social, cultural and political organization.
+
+
 He stresses that the often devalued ida, receptive, feeling, intuitive mode is far from
 inferior or regressive and is in fact an essential component in our highest abilities.
 Such research suggests that there is a very deep and urgent need for the reintroduction

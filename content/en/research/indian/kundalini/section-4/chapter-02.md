@@ -3,6 +3,7 @@ title: "Kundalini, Fact not Fiction"
 heading: "Chapter 2"
 date: 2025-10-16
 weight: 8
+c: "indigo"
 description: ""
 ---
 
@@ -41,26 +42,35 @@ psychic properties. This energy, which powers our awareness and transforms and
 expands our conscious dimensions, is not just a myth or idea; it is not a metaphysical
 concept, but a fact. Kundalini is defined as the ultimate, most intense form of this energy,
 which lies dormant within each and every one of us.
-Parapsychology
+
+### Parapsychology
+
 Phenomena such as telepathy, psychic healing, psychokinesis (the moving of matter
 by mind power), dowsing, telegnosis (psychic reading of history and association of
 objects), and other paranormal events, are receiving serious attention from the more
 pioneering members of the international science community as a means of understanding
 the relationship of energy and consciousness.
+
 Hard-headed scientists in the USA, UK, Germany, Holland, Scandinavia and
 Australia, are taking the lead from the scientists of the Soviet Union, many of whom are
 financed by their governments. Called bioelectronics or paraphysics in some circles, this
 field of study is generally known as parapsychology.
+
+
 In Czechoslovakia it is known as psychotronics, and one of the leading Czech
 researchers in this field is Dr. Zdenek Rejdak, whose association with Swami Satyananda
-began in the early seventies when he stayed at the Bihar School of Yoga. Speaking in
-Japan at the fifth annual conference of the Internationa! Association for Religion and
+began in the early seventies when he stayed at the Bihar School of Yoga. 
+
+Speaking in Japan at the fifth annual conference of the Internationa! Association for Religion and
 Parapsychology in 1976, Dr. Rejdak defined psychotrotiics, and therefore, the whole field
 of parapsychology as, "the science which, in an interdisciplinary fashion, studies the
 distant interactions between living organisms and their environment, internal and
 external, and the energetic processes underlying these manifestations in order to
 supplement and widen man's understanding of the laws of nature."
-Psychic energy
+
+
+### Psychic energy
+
 Psychic energy has been found to affect a whole range of laboratory equipment, from
 voltmeters to Geiger counters to magnetometers. Yet this does not mean that psychic
 energy is electrical, magnetic or radioactive. Rather, it seems to both encompass and go
@@ -69,15 +79,19 @@ energy may have its origin in electrical activity, but the nature of the energy 
 different. However, yogis state that prana is the substratum of our material universe,
 interpenetrating and organizing all matter and being the common ground for all energy.
 They see prana from a different and higher perspective.
+
 It is also generally accepted by scientists that psychic energy, most widely known as
 bioenergy, is body-based and affects both the physical and mental spheres as indicated by
 yogis. It has also been measured as a force field surrounding the body up to a distance of
 twelve feet by Yale neuropsychiatrist, Dr. Leonard Ravitz. (1) This seems to support the
 yogic concept of the subtle pranic body which interpenetrates and is interdependent with
 the physical structure, motivating it to function.
+
 There is considerable support for this hypothesis, gathered from the monitoring of the
 physiological changes experienced by psychics during laboratory tests of paranormal
-events. For instance, as part of his usual experimental procedure, Dr. Grenady Sergeyev
+events.
+
+For instance, as part of his usual experimental procedure, Dr. Grenady Sergeyev
 of the A.A. Utkomskii Physiological Institute (a Leningrad military lab.), took readings
 of the brain waves, heartbeat and pulse rates of Neyia Mikhailova during her numerous
 demonstrations of psychokinesis. (2) He found that while Mikhailova was causing objects
@@ -86,16 +100,20 @@ throughout her body and its surrounding force field which pulsed in the directio
 gaze. Her heart and brain waves also pulsed in unison with this energy vibration,
 indicating that the energy Mikhailova used in her psychic feats is intimately connected
 with her whole body. Reports go on to state that:
+
 "After doing these tests, Mrs. Mikhailova was utterly exhausted. There was almost no
 pulse. She'd lost close to four pounds in half an hour. The EEG (brain wave pattern)
 showed intense emotional excitement. There was high blood sugar and the endocrine
 system was disturbed. The whole organism was weakened as if from a tremendous stress
 reaction. She had lost the sensation of taste, had pains in her arms and legs, couldn't
-coordinate and felt dizzy." (3) At one time, after making a seven hour film of her
+coordinate and felt dizzy." (3) 
+
+At one time, after making a seven hour film of her
 abilities, Mikhailova was temporarily blind. Other Soviet investigators have recorded
 changes in brain wave patterns which coincide with the reception of telepathic signals,
 and researchers in the USA have shown that the volume of blood in the body alters
 during telepathic interactions.
+
 This evidence leaves no doubt that psychic energy, or bioenergy, is from the body and
 is the same energy that activates every aspect of our metabolism, from the functioning of
 the glands, to the brain and heart. It is the power behind the emotions and the operation of
@@ -103,6 +121,7 @@ the senses. At the same time, prana, though based on and affecting the physical 
 and function, has a wider range of properties and is associated with clairvoyance,
 clairaudience and other forms of extrasensory perception. It has a mental or psychic
 component and it is both gross and subtle.
+
 Psychic energy can affect matter without any apparent physical intermediary or
 medium. There is some undetectable energy at work which we cannot measure though we
 can see its results. It can even be used in healing. Sister Dr. Justa Smith in America, has
@@ -111,11 +130,13 @@ digestive enzyme which is damaged and decreases activity when exposed to ultravi
 light, increases activity when exposed to a high intensity magnetic field. When a water
 damaged trypsin solution was held in the hands of a recognized psychic healer for 72
 minutes, irypsin increased its activity.
+
 R. Yaeger has shown that when a practitioner of kundalini yoga performed certain
 pranayama techniques and then sat next to an onion for 15 minutes with his hands in a
 fixed position, about two feet from the experimental plant, cell division, and therefore
 metabolic energy increased by 108%. (5) A control subject sitting in the same position,
 but without doing pranayama, had no effects on the plant.
+
 We have a clear evidence from these experiments that there is a new kind of psychic
 physiological energy that fits the description of prana and kundalini as set forth in the
 yogic texts and verbal traditions.
