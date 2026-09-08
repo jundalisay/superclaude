@@ -130,6 +130,7 @@
         /* Hide/show panels based on JS detection (default: generic 404 shows,
            economics redirect is hidden until/unless JS says otherwise) */
         #economics-404 { display: none; }
+        #text-file-404 { display: none; }
     </style>
     <!-- Background orbs -->
     <div class="orb orb-1"></div>
@@ -177,7 +178,6 @@
 
             <a id="economics-link" href="#" class="btn btn-large">
                 Go to econ.pantrypoints.com
-                <!-- <span id="economics-link-text"></span> -->
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
                     <polyline points="15 3 21 3 21 9"/>
@@ -186,13 +186,63 @@
             </a>
         </div>
 
+        <div id="text-file-404">
+            <h2>Text file detected</h2>
+            <p>This appears to be a .txt file. You can view it below or download it:</p>
+            <a id="text-file-link" href="#" class="btn btn-large" download>
+                Download .txt File
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                    <polyline points="7 10 12 15 17 10"/>
+                    <line x1="12" y1="15" x2="12" y2="3"/>
+                </svg>
+            </a>
+            <div id="text-file-content" class="text-left mt-4 p-4 bg-gray-900/50 rounded-lg max-h-96 overflow-y-auto" style="display: none;">
+                <pre id="text-file-preview" class="text-sm text-gray-300 whitespace-pre-wrap"></pre>
+            </div>
+        </div>
+
     </div>
 
     <script>
     (function () {
-        var path = window.location.pathname; // e.g. "/social/economics/principles/foo"
+        var path = window.location.pathname;
         var newUrl = null;
 
+        // Check if path ends with .txt (case insensitive)
+        if (path.toLowerCase().endsWith('.txt')) {
+            // Show text file panel
+            document.getElementById("generic-404").style.display = "none";
+            document.getElementById("economics-404").style.display = "none";
+            var panel = document.getElementById("text-file-404");
+            panel.style.display = "block";
+            
+            // Set download link to the current URL
+            var link = document.getElementById("text-file-link");
+            link.href = window.location.href;
+            
+            // Try to fetch and display the text file content
+            fetch(window.location.href)
+                .then(function(response) {
+                    if (response.ok) {
+                        return response.text();
+                    }
+                    throw new Error('Could not fetch text file');
+                })
+                .then(function(text) {
+                    var contentDiv = document.getElementById("text-file-content");
+                    var preview = document.getElementById("text-file-preview");
+                    contentDiv.style.display = "block";
+                    preview.textContent = text;
+                })
+                .catch(function(error) {
+                    console.log('Could not preview text file:', error);
+                });
+            
+            return; // Stop execution after handling text file
+        }
+
+        // Economics redirects (specific prefixes)
         function rewrite(prefix, replacement) {
             if (path.indexOf(prefix) === 0) {
                 return "https://econ.pantrypoints.com" + replacement + path.slice(prefix.length);
@@ -200,13 +250,54 @@
             return null;
         }
 
-        // Order matters: check the more specific prefixes first.
-        newUrl =
-            rewrite("/social/economics/principles", "/principles") ||
-            rewrite("/social/economics/solutions", "/solutions") ||
-            rewrite("/social/economics/fallacies", "/fallacies") ||
-            rewrite("/social/cycles/", "/cycles/") ||
-            rewrite("/social/economics/", "/articles");
+        // Check for economics research paths
+        var economicsResearchers = [
+            '/research/barbon',
+            '/research/child',
+            '/research/friedman',
+            '/research/hayek',
+            '/research/keynes',
+            '/research/marshall',
+            '/research/maslow',
+            '/research/mun',
+            '/research/piketty',
+            '/research/quesnay',
+            '/research/rand',
+            '/research/ricardo',
+            '/research/rousseau',
+            '/research/say',
+            '/research/schumacher',
+            '/research/schumpeter',
+            '/research/sismondi',
+            '/research/smith',
+            '/research/xenophon'
+        ];
+
+        // Check if path starts with any of the economics researcher paths
+        for (var i = 0; i < economicsResearchers.length; i++) {
+            if (path.indexOf(economicsResearchers[i]) === 0) {
+                // Extract the rest of the path after the researcher name
+                var rest = path.slice(economicsResearchers[i].length);
+                // Remove trailing slash if present
+                if (rest.startsWith('/')) {
+                    rest = rest.slice(1);
+                }
+                // Build the new URL: econ.pantrypoints.com/research/{researcher}/{rest}
+                var researcherName = economicsResearchers[i].replace('/research/', '');
+                newUrl = 'https://econ.pantrypoints.com/research/' + researcherName + '/' + rest;
+                break;
+            }
+        }
+
+        // If no match, try the other economics prefixes
+        if (!newUrl) {
+            newUrl =
+                rewrite("/social/economics/principles", "/principles") ||
+                rewrite("/social/economics/solutions", "/solutions") ||
+                rewrite("/social/economics/fallacies", "/fallacies") ||
+                rewrite("/social/cycles/", "/cycles/") ||
+                rewrite("/social/economics/", "/articles");
+        }
 
         if (newUrl) {
             document.getElementById("generic-404").style.display = "none";
@@ -214,10 +305,7 @@
             panel.style.display = "block";
             var link = document.getElementById("economics-link");
             link.href = newUrl;
-            document.getElementById("economics-link-text").textContent = "Go to " + newUrl;
-
-            // Optional: auto-redirect after a short delay instead of requiring a click.
-            // Comment this out if you only want the button, not an automatic redirect.
+            // Optional: auto-redirect after a short delay
             // setTimeout(function () { window.location.href = newUrl; }, 3000);
         }
     })();
