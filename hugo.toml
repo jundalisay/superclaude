@@ -1,5 +1,5 @@
-baseURL = "https://www.superphysics.org/"
-title = "Superphysics"
+baseURL = "https://econ.pantrypoints.com/"
+title = "Supereconomics"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
@@ -63,36 +63,34 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     contentDir = "content/en"
-  
-  [[languages.en.params.nav_groups]]
-    title = "Sciences"
-    items = [
-      { key = "superphysics", url = "/superphysics" },
-      { key = "supermath", url = "/supermath" },
-      { key = "Physics", url = "/material" },
-      { key = "bio", url = "/bio" },
-      { key = "spiritual", url = "/spiritual" },
-      { key = "society", url = "/social/supersociology" },
-      { key = "economics", url = "/social/economics" },
-      { key = "History", url = "/social/history/" }
-    ]
-  [[languages.en.params.nav_groups]]
-    title = "Research"
-    items = [
-      { key = "research", url = "/research" },
-      { key = "cycles", url = "/social/cycles" },
-      { key = "tags", url = "/tags" }
-    ]
-  [[languages.en.params.nav_groups]]
-    title = "About"
-    items = [
-      { key = "news", url = "/news" },
-      { key = "about", url = "/about" },
-      { key = "faqs", url = "/faqs" },
-      { key = "help", url = "/help" },
-      { key = "tags", url = "/tags" }
-    ]
-
+    [[languages.en.params.nav_groups]]
+      title = "Sciences"
+      items = [
+        { key = "superphysics", url = "/superphysics" },
+        { key = "supermath", url = "/supermath" },
+        { key = "Physics", url = "/material" },
+        { key = "bio", url = "/bio" },
+        { key = "spiritual", url = "/spiritual" },
+        { key = "society", url = "/social/supersociology" },
+        # { key = "economics", url = "/social/economics" },
+        { key = "History", url = "/social/history/" }
+      ]
+    [[languages.en.params.nav_groups]]
+      title = "Research"
+      items = [
+        { key = "research", url = "/research" },
+        { key = "cycles", url = "/social/cycles" },
+        { key = "tags", url = "/tags" }
+      ]
+    [[languages.en.params.nav_groups]]
+      title = "About"
+      items = [
+        { key = "news", url = "/news" },
+        { key = "about", url = "/about" },
+        { key = "faqs", url = "/faqs" },
+        { key = "help", url = "/help" },
+        { key = "tags", url = "/tags" }
+      ]
     [languages.en.params]
       rtl = false
 
