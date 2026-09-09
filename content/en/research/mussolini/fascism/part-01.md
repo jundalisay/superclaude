@@ -37,8 +37,6 @@ A conception of the State is fundamentally a conception of life.
 
 Thus many of the practical expressions of Fascism such as party organization, system of education, and discipline can only be understood when considered in relation to its general attitude toward life.
 
-
-
 ### A Spiritual Attitude
 
 Fascism sees in the world not only those superficial, material aspects in which man appears as an individual, standing by himself, self-centered, subject to natural law, which instinctively urges him toward a life of selfish momentary pleasure; 
