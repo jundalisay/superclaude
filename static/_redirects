@@ -1,0 +1,43 @@
+# === Research / economists (exact match) ===
+/research/barbon        https://econ.pantrypoints.com/research/barbon        301
+/research/child         https://econ.pantrypoints.com/research/child         301
+/research/friedman      https://econ.pantrypoints.com/research/friedman      301
+/research/hayek         https://econ.pantrypoints.com/research/hayek         301
+/research/keynes        https://econ.pantrypoints.com/research/keynes        301
+/research/marshall      https://econ.pantrypoints.com/research/marshall      301
+/research/maslow        https://econ.pantrypoints.com/research/maslow        301
+/research/mun           https://econ.pantrypoints.com/research/mun           301
+/research/piketty       https://econ.pantrypoints.com/research/piketty       301
+/research/quesnay       https://econ.pantrypoints.com/research/quesnay       301
+/research/rand          https://econ.pantrypoints.com/research/rand          301
+/research/ricardo       https://econ.pantrypoints.com/research/ricardo       301
+/research/rousseau      https://econ.pantrypoints.com/research/rousseau      301
+/research/say           https://econ.pantrypoints.com/research/say           301
+/research/schumacher    https://econ.pantrypoints.com/research/schumacher    301
+/research/schumpeter    https://econ.pantrypoints.com/research/schumpeter    301
+/research/sismondi      https://econ.pantrypoints.com/research/sismondi      301
+/research/smith         https://econ.pantrypoints.com/research/smith         301
+/research/xenophon      https://econ.pantrypoints.com/research/xenophon      301
+
+# === Social / economics (specific pages - must come before the wildcard rules below) ===
+# Bare path + everything nested under it, path preserved via :splat
+/social/economics/principles      https://econ.pantrypoints.com/principles/               301
+/social/economics/principles/*    https://econ.pantrypoints.com/principles/:splat         301
+
+/social/economics/solutions       https://econ.pantrypoints.com/solutions/                301
+/social/economics/solutions/*     https://econ.pantrypoints.com/solutions/:splat          301
+
+/social/economics/fallacies       https://econ.pantrypoints.com/fallacies/                301
+/social/economics/fallacies/*     https://econ.pantrypoints.com/fallacies/:splat          301
+
+# === Cycles section (path preserved) ===
+/social/cycles      https://econ.pantrypoints.com/cycles/           301
+/social/cycles/*     https://econ.pantrypoints.com/cycles/:splat    301
+
+# === Remaining economics section (catch-all, placed after the specific pages above, path preserved) ===
+/social/economics     https://econ.pantrypoints.com/articles            301
+/social/economics/*    https://econ.pantrypoints.com/articles/:splat    301
+
+# === FAQs (path preserved) ===
+/faqs/supereconomics     https://econ.pantrypoints.com/faqs            301
+/faqs/supereconomics/*    https://econ.pantrypoints.com/faqs/:splat    301

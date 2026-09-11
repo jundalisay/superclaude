@@ -12,67 +12,81 @@ description: "Aluminium will not stop at downing copper. Before many years have 
 
 ## The Great Civilizing Potency Of Aluminum
 
-With the advances made in iron of late years we have arrived virtually at the limits of improvement. 
-
-We cannot hope to increase very materially its tensile strength, elasticity, hardness, or malleability, nor can we expect to make it much better as regards its magnetic qualities. 
-
-More recently, a notable gain was secured by the mixture of a small percentage of nickel with the iron. But there is not much room for further advance in this direction. 
+The advances made in iron has reached their limit. It is unlikely for us to increase its tensile strength, elasticity, hardness, or malleability, nor improve its magnetic qualities. 
+- More recently, a notable gain was secured by the mixture of a small percentage of nickel with the iron. 
+- But there is not much room for further advance in this direction. 
 
 <!-- New discoveries may be expected, but they cannot greatly add to the valuable properties of the metal, though they may considerably reduce the cost of manufacture.  -->
 
-The immediate future of iron is assured by its cheapness and its unrivaled mechanical and magnetic qualities. 
+<!-- The immediate future of iron is assured by its cheapness and its unrivaled mechanical and magnetic qualities.  -->
 
 <!-- These are such that no other product can compete with it now. But there can be no doubt that, at a time not very distant,  -->
 
-In the near future, iron, in many of its now uncontested domains, will have to pass the scepter to the age of aluminium. 
+Iron will have to pass the scepter to the age of aluminium. 
 
-This wonderful metal was discovered by Woehler only 70 ago. The aluminium industry is scarcely 40 years old. It already commands the entire world's attention.
+Aluminum is a wonderful metal discovered by Woehler only 70 years ago.
+- The aluminium industry is scarcely 40 years old.
+- It already commands the entire world's attention.
 
  <!-- Such rapid growth has not been recorded in the history of civilization before. -->
 
-Not long ago aluminium was sold at the fanciful price of 30-40 dollars per pound.
+Not long ago aluminium was sold at 30-40 dollars per pound.
+- Today it costs just many cents.
 
-Today it can be had in any desired amount for as many cents.
-
-This price too, will be considered fanciful in the near future because of great improvements possible in the methods of its manufacture. 
+<!-- This price too, will be considered fanciful in the near future because of great improvements possible in the methods of its manufacture.  -->
 
 Most of the metal is now produced in the electric furnace by a process combining fusion and electrolysis.
+- This wastes a lot of electrical energy.
 
-This offers advantages but involves a great waste of the electrical energy.
+The price of aluminium could be reduced by using a similar method to mine for producing iron.
 
-My estimates show that the price of aluminium could be considerably reduced by adopting in its manufacture a method similar to that proposed by me for the production of iron.
+A pound of aluminium requires for fusion only about 70% of the heat needed for melting a pound of iron, and inasmuch as its weight is only about 1/3 of iron. A volume of aluminium 4 times that of iron could be obtained from a given amount of heat-energy. 
 
-A pound of aluminium requires for fusion only about 70% of the heat needed for melting a pound of iron, and inasmuch as its weight is only about one third of that of the latter, a volume of aluminium four times that of iron could be obtained from a given amount of heat-energy. 
+But a cold electrolytic process of manufacture is the ideal solution 
 
-But a cold electrolytic process of manufacture is the ideal solution, and on this I have placed my hope. 
+The absolutely unavoidable advancement of the aluminium industry will destroy the copper industry. 
 
-The absolutely unavoidable consequence of the advancement of the aluminium industry will be the annihilation of the copper industry. 
+<!-- They cannot exist and prosper together. Copper is doomed beyond any hope of recovery.  -->
 
-They cannot exist and prosper together. Copper is doomed beyond any hope of recovery. 
-
-Even now, it is cheaper to convey an electric current through aluminium wires than through copper wires.
-
-Aluminium castings cost less, and in many domestic and other uses copper has no chance of successfully competing.*
+- Even now, it is cheaper to convey an electric current through aluminium wires than through copper wires.
+- Aluminium castings cost less, and in many domestic and other uses copper has no chance of successfully competing.*
 
 {{< n n="Copper is not a fire hazard. Aluminum is." >}}
 
 <!-- A further material reduction of the price of aluminium cannot but be fatal to copper. But the progress of the former will not go on unchecked, for, as it ever happens in such cases, the larger industry will absorb the smaller one:  -->
 
-The giant copper interests will control the pygmy aluminium interests, and the slow-pacing copper will reduce the lively gait of aluminium. 
+<!-- The giant copper interests will control the pygmy aluminium interests, and the slow-pacing copper will reduce the lively gait of aluminium.  -->
 
 <!-- This will only delay, not avoid the impending catastrophe.  -->
 
-Aluminium, however, will not stop at downing copper. Before many years have passed it will be engaged in a fierce struggle with iron, and in the latter it will find an adversary not easy to conquer. The issue of the contest will largely depend on whether iron shall be indispensable in electric machinery. 
+Aluminium will down copper and will fiercely struggle with iron.
 
-This the future alone can decide. The magnetism as exhibited in iron is an isolated phenomenon in nature. What it is that makes this metal behave so radically different from all other materials in this respect has not yet been ascertained, though many theories have been suggested. 
+<!--  and in the latter it will find an adversary not easy to conquer. The issue of the contest will largely depend on whether iron shall be indispensable in electric machinery. 
 
-As regards magnetism, the molecules of the various bodies behave like hollow beams partly filled with a heavy fluid and balanced in the middle in the manner of a see-saw. 
+This the future alone can decide.  -->
 
-Evidently some disturbing influence exists in nature which causes each molecule, like such a beam, to tilt either one or the other way. 
 
-If the molecules are tilted one way, the body is magnetic; if they are tilted the other way, the body is non-magnetic; but both positions are stable, as they would be in the case of the hollow beam, owing to the rush of the fluid to the lower end.
+## How Magnetism Works
 
-The wonderful thing is that the molecules of all known bodies went one way, while those of iron went the other way. 
+The magnetism in iron is an isolated phenomenon in nature. 
+
+<!-- What it is that makes this metal behave so radically different from all other materials in this respect has not yet been ascertained, though many theories have been suggested.  -->
+
+Molecules behave like hollow beams:
+- partly filled with a heavy fluid*, and
+- balanced in the middle like a see-saw
+
+{{< n n="We call this the inter-aetherspace" >}}
+
+Disturbances cause the beam-molecule to tilt. 
+
+<!-- Evidently some disturbing influence exists in nature which causes each molecule, like such a beam, to tilt either one or the other way.  -->
+- if it tilts one way, the body is magnetic
+-  if they tilt the other way, the body is non-magnetic
+
+But both positions are stable, as they would be in the case of the hollow beam, due to the rush of the fluid to the lower end.
+
+Most molecules went one way. But those of iron went the other way. 
 
 This metal, it would seem, has an origin entirely different from that of the rest of the globe. It is highly improbable that we shall discover some other and cheaper material which will equal or surpass iron in magnetic qualities. 
 
