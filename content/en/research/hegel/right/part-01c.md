@@ -21,6 +21,7 @@ the strength of the particular ground on which he bases his title. It is in this
 may clash with another’s.
 
 § 85
+
 This clash which arises when a thing has been claimed on some single ground, and which 
 comprises the sphere of civil suits at law, entails the recognition of rightness as the universal and 
 decisive factor, so that it is common ground that the thing in dispute should belong to the party who 
@@ -36,6 +37,7 @@ But at first it arises only as an ‘ought-to-be’ because the will is not yet 
 from the immediacy of interest as, despite its particularity, to have the universal will for its aim; nor is 
 it yet at this point characterised as a recognised actuality of such a sort that in face of it the parties 
 would have to renounce their particular interest and point of view.
+
 Addition: There is a specific ground for what is inherently right, and the wrong which I hold 
 to be right I also defend on some ground or other. The nature of the finite and particular is to 
 allow room for accidents. Thus here collisions must occur, because here we are on the level of 

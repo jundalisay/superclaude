@@ -88,7 +88,9 @@ But both positions are stable, as they would be in the case of the hollow beam, 
 
 Most molecules went one way. But those of iron went the other way. 
 
-This metal, it would seem, has an origin entirely different from that of the rest of the globe. It is highly improbable that we shall discover some other and cheaper material which will equal or surpass iron in magnetic qualities. 
+<!-- Iron has an origin entirely different from other metals.  -->
+
+ <!-- that of the rest of the globe. It is highly improbable that we shall discover some other and cheaper material which will equal or surpass iron in magnetic qualities.  -->
 
 Unless we should make a radical departure in the character of the electric currents employed, iron will be indispensable. 
 

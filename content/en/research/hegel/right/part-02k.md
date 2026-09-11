@@ -38,6 +38,7 @@ and the work of bringing these rights back to the universal, require to be super
 the executive power, by (a) the executive civil servants, and (b) the higher advisory officials (who are 
 organised into committees). These converge in their supreme heads who are in direct contact with the 
 monarch.
+
 Remark: Just as civil society is the battlefield where everyone’s individual private interest 
 meets everyone else’s, so here we have the struggle (a) of private interests against particular 
 matters of common concern and (b) of both of these together against the organisation of the 
@@ -49,6 +50,7 @@ because it is the state that maintains their particular spheres of interest toge
 authority, and welfare of these. In the corporation mind the rooting of the particular in the 
 universal is directly entailed, and for this reason it is in that mind that the depth and strength 
 which the state possesses in sentiment is seated.
+
 The administration of a Corporation’s business by its own officials is frequently clumsy, 
 because although they keep before their minds and are acquainted with its special interests and 
 affairs, they have a far less complete appreciation of the connection of those affairs with more 
@@ -63,6 +65,7 @@ affairs of state, is the intrinsic worth of the business which in this way comes
 managed less well or more laboriously, &c. And further, it is all the more permissible, the 
 more this laborious or foolish management of such trivial affairs stands in direct relation with 
 the self-satisfaction and vanity derived therefrom.
+
 § 290
 Division of labour (see § 198) occurs in the business of the executive also. For this reason, the 
 organisation of officials has the abstract though difficult task of so arranging that (a) civil life shall be 
@@ -71,6 +74,7 @@ of government shall be divided into its abstract branches manned by special offi
 centres of administration, and further that (c) the operations of these various departments shall 
 converge again when they are directed on civil life from above, in the same way as they converge into 
 a general supervision in the supreme executive.
+
 Addition: The point of special importance in the executive is the division of functions. The 
 executive is concerned with the transition from the universal to the particular and the 
 individual, and its functions must be divided in accordance with the differences between its 
@@ -98,6 +102,7 @@ it is of the utmost importance that the masses should be organised, because only
 become mighty and powerful. Otherwise they are nothing but a heap, an aggregate of atomic 
 units. Only when the particular associations are organised members of the state are they 
 possessed of legitimate power.
+
 § 291
 The nature of the executive functions is that they are objective and that in their substance they have 
 been explicitly fixed by previous decisions (see § 287); these functions have to be fulfilled and carried 
@@ -106,6 +111,7 @@ individuals are not appointed to office on account of their birth or native pers
 factor in their appointment is knowledge and proof of ability. Such proof guarantees that the state will 
 get what it requires; and since it is the sole condition of appointment, it also guarantees to every 
 citizen the chance of joining the class of civil servants.
+
 § 292
 Since the objective qualification for the civil service is not genius (as it is for work as an artist, for 
 example), there is of necessity an indefinite plurality of eligible candidates whose relative excellence 
@@ -114,6 +120,7 @@ office, and the grant to him of full authority to transact public business — a
 two things, a man and his office, which in relation to each other must always be fortuitous, is the 
 subjective aspect of election to office, and it must lie with the crown as the power in the state which is 
 sovereign and has the last word.
+
 § 293
 The particular public functions which the monarch entrusts to officials constitute one part of the 
 objective aspect of the sovereignty residing in the crown. Their specific discrimination is therefore 
@@ -149,6 +156,7 @@ value in and for itself. Hence the wrong committed through its non-performance, 
 mis-performance (i.e. through an action contrary to official duty, and both of these are of that 
 type), is an infringement of the universal content itself (i.e. is a negatively infinite judgment 
 — see § 95) and so is a trespass or even a crime.
+
 The assured satisfaction of particular needs removes the external compulsion which may 
 tempt a man to seek ways and means of satisfying them at the expense of his official duties. 
 Those who are entrusted with affairs of state find in its universal power the protection they 
@@ -176,6 +184,7 @@ be imperfectly developed in other respects also, the removal of hindrances like 
 and justifies the higher intervention of the sovereign (as for example of Frederick the Great in 
 the notorious affair of Arnold the miller).
 § 296
+
 But the fact that a dispassionate, upright, and polite demeanour becomes customary [in civil 
 servants] is (i) partly a result of direct education in thought and ethical conduct. Such an education is a 
 mental counterpoise to the mechanical and semi-mechanical activity involved in acquiring the socalled ‘sciences’ of matters connected with administration, in the requisite business training, in the 
@@ -185,6 +194,7 @@ so less keen such passions as hatred, revenge, &c. In those who are busy with th
 arising in a great state, these subjective interests automatically disappear, and the habit is generated of 
 adopting universal interests, points of view, and activities.
 § 297
+
 Civil servants and the members of the executive constitute the greater part of the middle class, the 
 class in which the consciousness of right and the developed intelligence of the mass of the people is 
 found. The sovereign working on the middle class at the top, and Corporation-rights working on it at 
@@ -204,6 +214,7 @@ be done only by giving authority to spheres of particular interests, which are r
 independent, and by appointing an army of officials whose personal arbitrariness is broken 
 against such authorised bodies. Action in accordance with everyone’s rights, and the habit of 
 such action, is a consequence of the counterpoise to officialdom which independent and selfsubsistent bodies create.
+
 [c] The Legislature
 § 298
 The legislature is concerned (a) with the laws as such in so far as they require fresh and extended 
@@ -228,6 +239,7 @@ functions to others, with the result that the judicial power was transferred fro
 the monarch to groups of judges. Hence the advance from one state of affairs to another is 
 tranquil in appearance and unnoticed. In this way a constitution changes over a long period of 
 time into something quite different from what it was originally.
+
 § 299
 Legislative business is more precisely determined, in relation to private individuals, under these 
 two heads: [a] provision by the state for their well-being and happiness, and [b] the exaction of 
@@ -250,6 +262,7 @@ empirical features subject inevitably to alteration in the course of their being
 out, and this would contravene their character as laws. The organic unity of the powers of the 
 state itself implies that it is one single mind which both firmly establishes the universal and 
 also brings it into its determinate actuality and carries it out.
+
 In the state it may happen, to begin with, that the numerous aptitudes, possessions, pursuits, 
 and talents of its members, together with the infinitely varied richness of life intrinsic to these 
 — all of which are at the same time linked with their owner’s mentality — are not subject to 
@@ -283,6 +296,7 @@ justice of equality can be achieved much more efficiently. Otherwise, if assessm
 on concrete ability, a talented man would be more heavily taxed than an untalented one. But 
 nowadays respect for subjective freedom is publicly recognised precisely in the fact that the 
 state lays hold of a man only by that which is capable of being held.
+
 § 300
 In the legislature as a whole the other powers are the first two moments which are effective, (i) the 
 monarchy as that to which ultimate decisions belong; (ii) the executive as the advisory body since it is 
@@ -296,11 +310,13 @@ officers should be linked with and not opposed to the legislature. The ideal of 
 ‘independence of powers’ contains the fundamental error of supposing that the powers, though 
 independent, are to check one another. This independence, however, destroys the unity of the 
 state, and unity is the chief of all desiderata.
+
 § 301
 The Estates have the function of bringing public affairs into existence not only implicitly, but also 
 actually, i.e. of bringing into existence the moment of subjective formal freedom, the public 
 consciousness as an empirical universal, of which the thoughts and opinions of the Many are 
 particulars.
+
 Remark: The phrase ‘the Many’ (o polli) denotes empirical universality more strictly than 
 ‘All’, which is in current use. If it is said to be obvious that this ‘all’ prima facie excludes at 
 least children, women, &c., then it is surely still more obvious that the quite definite word ‘all’
@@ -316,6 +332,7 @@ most disinterested. So far as the first of these points is concerned, however, t
 does not know what it wills. To know what one wills, and still more to know what the 
 absolute will, Reason, wills, is the fruit of profound apprehension and insight, precisely the 
 things which are not popular.
+
 The Estates are a guarantee of the general welfare and public freedom. A little reflection will 
 show that this guarantee does not lie in their particular power of insight, because the highest 
 civil servants necessarily have a deeper and more comprehensive insight into the nature of the 
@@ -330,6 +347,7 @@ from the Many, particularly of public criticism, has the effect of inducing offi
 their best attention beforehand to their duties and the schemes under consideration, and to deal 
 with these only in accordance with the purest motives. This same compulsion is effective also 
 on the members of the Estates themselves.
+
 As for the conspicuously good will for the general welfare which the Estates are supposed to 
 possess, it has been pointed out already (in the Remark to § 272) that to regard the will of the 
 executive as bad, or as less good [than that of the ruled] is a presupposition characteristic of 
