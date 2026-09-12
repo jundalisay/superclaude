@@ -28,21 +28,28 @@ We have explained that this is because the Navier Stokes Equation is based on Ne
 
 In Newton's physics, an object moves in a straight line unless acted upon by a force. Rotation is a consequence of forces, not a fundamental property of space or matter.
 
-But Descartes' physics is relational and vortex-based. The motion of objects shows their relation to others. A straight line motion is not the "default" state -- it is merely a circle with an infinite radius. 
-- The vortex manifests in the OpenAI paper as a swirl (azimuthal rotation)
-- The relation or support manifests as the meridional flow of radial inflow and axial outflow
+But Descartes' physics is relational and vortex-based. The motion of objects shows their relation to others. A straight line motion is not the "default" state -- it is merely **a circle with an infinite radius**. 
+- The **vortex** manifests in the OpenAI paper as a **swirl** (azimuthal rotation)
+- The **relation or support** manifests as the **meridional flow** of radial inflow and axial outflow
 
-In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics (without them knowing it) to make the Newtonian Navier Stokes break down. 
+In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics (without them knowing it) to make the Newtonian Navier Stokes break down.
+
 
 ### The Open AI vortex is abstract just as Descarts vortices are abstract
 
-The Open AI vortex ignores viscosity which means it's totally abstract. 
+The Open AI vortex ignores **viscosity** which means it's totally abstract. 
 
-But that's the whole point that Descartes was trying to make about his vortices. Newton wrongly thought that he disproved Descartes' vortices by disproving their physical dynamics, not knowing that they are abstract in the first place. 
+But that's the whole point that Descartes was trying to make about his vortices. Newton wrongly thought that he disproved Descartes' vortices by disproving their physical dynamics, not knowing that they are **abstract** in the first place. 
 
 These then get crudified into physical dynamics depending on the fundamental force involved in order to explain phenomena, as a unified template or **theory for everything**. 
 
-The fact that this is mathematically acceptable proves that Descartes mechanics works not only in the physical world of liquids but also in the mental universe of mathematics, proving universality as asserted by Descartes himself. 
+<!-- In everyday life, this is manifests as ideas coming before actions.
+
+1. You have an idea to cook breakfast
+2. You then go to your kitchen to cook breakfast and create the physical breakfast -->
+
+
+The fact that this is **mathematically acceptable** proves that Descartes mechanics works not only in the physical world of liquids but also in the mental universe of mathematics, proving universality as asserted by Descartes himself. 
 
 Unlike the OpenAI team, who had to engineer the vortex with enormous mathematical effort, Descartes' framework makes the vortex fundamental which means that Descartes' physics is more natural and complete.
 
@@ -51,7 +58,9 @@ In fact, we use the same swirl + support equation of liquid dynamics for gravita
 
 ### Pure Maths is Subjective Not Objective
 
-Sabine correctly points out below the surprising thing that the panel accepted the solution by OpenAI, which proves the **subjectivity** of pure math.  This is exactly the reason why [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) did not accept the Millinneum Prize and even quit math altogether. 
+Sabine correctly points out below the surprising thing that the panel accepted the solution by OpenAI, which proves the **subjectivity** of pure math since the whole solution could be a circular reasoning that is logically coherent (i.e. "if pigs can fly..").  
+
+This is exactly the reason why [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) did not accept the Millinneum Prize and even quit math altogether. 
 
 So Pure Maths is an art, not a science. We fix this with Supermath that is always based on reality instead of imagined abstractions. 
 
