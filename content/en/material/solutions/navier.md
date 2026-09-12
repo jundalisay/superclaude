@@ -21,7 +21,7 @@ This then created a complex swirling mathematical vortex that proved that the Na
 We have explained that this is because the Navier Stokes Equation is based on Newton's `F=ma` which **does not have vortices as inherent**, nor the **probabilistic nature of the pure aether within that vortex**.
 
 
-[Navier](/graphics/physics/navier.jpg)
+![Navier](/graphics/physics/navier.jpg)
 
 
 ### Newton Versus Descartes
@@ -51,7 +51,9 @@ In fact, we use the same swirl + support equation of liquid dynamics for gravita
 
 ### Pure Maths is Subjective Not Objective
 
-Sabine correctly points out the surprising thing that the panel accepted the solution by OpenAI, which proves the **subjectivity** of pure math.  This is exactly the reason why [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) did not accept the Millinneum Prize and even quit math altogether. 
+Sabine correctly points out below the surprising thing that the panel accepted the solution by OpenAI, which proves the **subjectivity** of pure math.  This is exactly the reason why [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) did not accept the Millinneum Prize and even quit math altogether. 
+
+So Pure Maths is an art, not a science. We fix this with Supermath that is always based on reality instead of imagined abstractions. 
 
 
 {{< youtube eR2q8s4VB1w >}}
@@ -59,5 +61,5 @@ Sabine correctly points out the surprising thing that the panel accepted the sol
 <!-- ?si=dJ0jombfzwtL4vH4&t=150 -->
 
 
-So Pure Maths is an art, not a science. We fix this with Supermath that is always based on reality instead of imagined abstractions. 
+
 
