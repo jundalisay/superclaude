@@ -15,134 +15,53 @@ writer:
 25 This chapter is connected with § 52 of the first volume.
 
 
-The outcome, or result, of my exposition of the peculiar signifi-
-cance of this wonderful art, which is given in the passage of the
-first volume referred to below, and which will here be present to
-the mind of the reader, was, that there is indeed no resemblance
-between its productions and the world as idea, i.e., the world of
-nature, but yet there must be a distinct parallelism, which was
-then also proved. I have yet to add some fuller particulars with
-regard to this parallelism, which are worthy of attention.
+I explained the significance of Music in Volume 1. 
 
-The 4 voices, or parts, of all harmony, the bass, the tenor,
-the alto, and the soprana, or the fundamental note, the third, the
-fifth, and the octave, correspond to the four grades in the series
-of existences, the mineral kingdom, the vegetable kingdom, the
-brute kingdom, and man. This receives an additional and striking
-confirmation in the fundamental rule of music, that the bass must
-be at a much greater distance below the three upper parts than
-they have between themselves; so that it must never approach
-nearer to them than at the most within an octave of them, and
-generally remains still further below them. Hence, then, the cor-
-rect triad has its place in the third octave from the fundamental
-note. Accordingly the effect of extended harmony, in which
-the bass is widely separated from the other parts, is much more
-powerful and beautiful than that of close harmony, in which it
-is moved up nearer to them, and which is only introduced on
-account of the limited compass of the instruments. 
-
-This whole[232]
-rule, however, is by no means arbitrary, but has its root in the
-natural source of the tonal system; for the nearest consonant
-intervals that sound along with the fundamental note by means
-of its vibrations are the octave and its fifth. Now, in this rule
-we recognise the analogue of the fundamental characteristic of nature on account of which organised beings are much more
-nearly related to each other than to the inanimate, unorganised
-mass of the mineral kingdom, between which and them exists
-the most definite boundary and the widest gulf in the whole of
-nature. The fact that the high voice which sings the melody is
-yet also an integral part of the harmony, and therein accords
-even with the deepest fundamental bass, may be regarded as
-the analogue of the fact that the same matter which in a human
-organism is the supporter of the Idea of man must yet also exhibit
-and support the Ideas of gravitation and chemical qualities, that
-is, of the lowest grades of the objectification of will.
+I said that there is no resemblance between musical productions and the world as idea. But yet I proved that there is a distinct parallelism.
 
 
-That music acts directly upon the will, i.e., the feelings, passions, and emotions of the hearer, so that it quickly raises them
-or changes them, may be explained from the fact that, unlike
-all the other arts, it does not express the Ideas, or grades of the
-objectification of the will, but directly the will itself.
-As surely as music, far from being a mere accessory of poetry,
-is an independent art, nay, the most powerful of all the arts, and
-therefore attains its ends entirely with means of its own, so surely
-does it not stand in need of the words of the song or the action
-of an opera. Music as such knows the tones or notes alone, but
-not the causes which produce these. Accordingly, for it even
-the human voice is originally and essentially nothing else than a
-modified tone, just like that of an instrument; and, like every other
-tone, it has the special advantages and disadvantages which are a
-consequence of the instrument that produces it. Now, in this case,
-that this same instrument, as the organ of speech, also serves to [233]
-communicate conceptions is an accidental circumstance, which
-music can certainly also make use of, in order to enter into a
-connection with poetry; but it must never make this the principal
-matter, and concern itself entirely with the expression of what
-for the most part, nay (as Diderot gives us to understand in Le
-Neveu de Rameau), essentially are insipid verses. 
+The 4 voices or parts of all harmony are:
 
-The words
-are and remain for the music a foreign addition, of subordinate value, for the effect of the tones is incomparably more powerful,
-more infallible, and quicker than that of the words. Therefore, if
-words become incorporated in music, they must yet assume an
-entirely subordinate position, and adapt themselves completely
-to it. But the relation appears reversed in the case of the given
-poetry, thus the song or the libretto of an opera to which music
-is adapted. For the art of music at once shows in these its power
-and higher fitness, disclosing the most profound ultimate and
-secret significance of the feeling expressed in the words or the
-action presented in the opera, giving utterance to their peculiar
-and true nature, and teaching us the inmost soul of the actions
-and events whose mere clothing and body is set before us on
-the stage. With regard to this superiority of the music, and also
-because it stands to the libretto and the action in the relation
-of the universal to the particular, of the rule to the example,
-it might perhaps appear more fitting that the libretto should be
-written for the music than that the music should be composed for
-the libretto. However, in the customary method, the words and
-actions of the libretto lead the composer to the affections of the
-will which lie at their foundation, and call up in him the feelings
-to be expressed; they act, therefore, as a means of exciting his
-musical imagination. Moreover, that the addition of poetry to
-music is so welcome to us, and a song with intelligible words
-gives us such deep satisfaction, depends upon the fact that in
-this way our most direct and most indirect ways of knowing are
-called into play at once and in connection. The most direct is[234]
-that for which music expresses the emotions of the will itself, and
-the most indirect that of conceptions denoted by words. When
-the language of the feelings is in question the reason does not
-willingly sit entirely idle. Music is certainly able with the means
-at its own disposal to express every movement of the will, every
-feeling; but by the addition of words we receive besides this the
-objects of these feelings, the motives which occasion them. 
+1. The bass 
+2. The tenor
+3. The alto
+4. The soprana
 
-The
-music of an opera, as it is presented in the score, has a completely independent, separate, and, as it were, abstract existence
-for itself, to which the incidents and persons of the piece are
-foreign, and which follows its own unchanging rules; therefore
-it can produce its full effect without the libretto. But this music,
-since it was composed with reference to the drama, is, as it were,
-the soul of the latter; for, in its connection with the incidents,
-persons, and words, it becomes the expression of the inner sig-
-nificance of all those incidents, and of their ultimate and secret
-necessity which depends upon this significance. The pleasure of
-the spectator, unless he is a mere gaper, really depends upon an
-indistinct feeling of this. Yet in the opera music also shows its
-heterogeneous nature and higher reality by its entire indifference
-to the whole material of the incidents; in consequence of which it
-everywhere expresses the storm of the passions and the pathos of
-the feelings in the same way, and its tones accompany the piece
-with the same pomp, whether Agamemnon and Achilles or the
-dissensions of a bourgeois family form its material. For only the
-passions, the movements of the will, exist for it, and, like God, it
-sees only the hearts. It never assimilates itself to the natural; and
-therefore, even when it accompanies the most ludicrous and ex-
-travagant farces of the comic opera, it still preserves its essential
-beauty, purity, and sublimity; and its fusion with these incidents
-is unable to draw it down from its height, to which all absurdity
-is really foreign. Thus the profound and serious significance of [235]
-our existence hangs over the farce and the endless miseries of
-human life, and never leaves it for a moment.
+This is also:
+
+1. The fundamental note
+2. The third
+3. The fifth
+4. The octave
+
+These correspond to the four grades in the series of existences:
+
+1. The mineral kingdom
+2. The vegetable kingdom
+3. The brute kingdom
+4. man. 
+
+This receives an additional and striking confirmation in the fundamental rule of music.
+
+- The bass must be at a much greater distance below the three upper parts than they have between themselves.
+- In this way, it must never approach nearer to them than at the most within an octave of them, and generally remains still further below them. 
+
+Hence, then, the correct triad has its place in the third octave from the fundamental note.
+
+Accordingly the effect of extended harmony, in which the bass is widely separated from the other parts, is much more powerful and beautiful than that of close harmony, in which it is moved up nearer to them, and which is only introduced on account of the limited compass of the instruments.
+
+This whole rule, however, is by no means arbitrary, but has its root in the natural source of the tonal system; for the nearest consonant intervals that sound along with the fundamental note by means of its vibrations are the octave and its fifth. Now, in this rule we recognise the analogue of the fundamental characteristic of nature on account of which organised beings are much more nearly related to each other than to the inanimate, unorganised mass of the mineral kingdom, between which and them exists the most definite boundary and the widest gulf in the whole of nature. 
+
+The fact that the high voice which sings the melody is yet also an integral part of the harmony, and therein accords even with the deepest fundamental bass, may be regarded as the analogue of the fact that the same matter which in a human organism is the supporter of the Idea of man must yet also exhibit and support the Ideas of gravitation and chemical qualities, that is, of the lowest grades of the objectification of will.
+
+
+That music acts directly upon the will, i.e., the feelings, passions, and emotions of the hearer, so that it quickly raises them or changes them, may be explained from the fact that, unlike all the other arts, it does not express the Ideas, or grades of the objectification of the will, but directly the will itself. As surely as music, far from being a mere accessory of poetry, is an independent art, nay, the most powerful of all the arts, and therefore attains its ends entirely with means of its own, so surely does it not stand in need of the words of the song or the action of an opera. Music as such knows the tones or notes alone, but not the causes which produce these. Accordingly, for it even the human voice is originally and essentially nothing else than a modified tone, just like that of an instrument; and, like every other tone, it has the special advantages and disadvantages which are a consequence of the instrument that produces it. Now, in this case, that this same instrument, as the organ of speech, also serves to [233] communicate conceptions is an accidental circumstance, which music can certainly also make use of, in order to enter into a connection with poetry; but it must never make this the principal matter, and concern itself entirely with the expression of what for the most part, nay (as Diderot gives us to understand in Le Neveu de Rameau), essentially are insipid verses.
+
+The words are and remain for the music a foreign addition, of subordinate value, for the effect of the tones is incomparably more powerful, more infallible, and quicker than that of the words. Therefore, if words become incorporated in music, they must yet assume an entirely subordinate position, and adapt themselves completely to it. But the relation appears reversed in the case of the given poetry, thus the song or the libretto of an opera to which music is adapted. For the art of music at once shows in these its power and higher fitness, disclosing the most profound ultimate and secret significance of the feeling expressed in the words or the action presented in the opera, giving utterance to their peculiar and true nature, and teaching us the inmost soul of the actions and events whose mere clothing and body is set before us on the stage. With regard to this superiority of the music, and also because it stands to the libretto and the action in the relation of the universal to the particular, of the rule to the example, it might perhaps appear more fitting that the libretto should be written for the music than that the music should be composed for the libretto. 
+
+However, in the customary method, the words and actions of the libretto lead the composer to the affections of the will which lie at their foundation, and call up in him the feelings to be expressed; they act, therefore, as a means of exciting his musical imagination. Moreover, that the addition of poetry to music is so welcome to us, and a song with intelligible words gives us such deep satisfaction, depends upon the fact that in this way our most direct and most indirect ways of knowing are called into play at once and in connection. The most direct is[234] that for which music expresses the emotions of the will itself, and the most indirect that of conceptions denoted by words. When the language of the feelings is in question the reason does not willingly sit entirely idle. Music is certainly able with the means at its own disposal to express every movement of the will, every feeling; but by the addition of words we receive besides this the objects of these feelings, the motives which occasion them.
+
+The music of an opera, as it is presented in the score, has a completely independent, separate, and, as it were, abstract existence for itself, to which the incidents and persons of the piece are foreign, and which follows its own unchanging rules; therefore it can produce its full effect without the libretto. But this music, since it was composed with reference to the drama, is, as it were, the soul of the latter; for, in its connection with the incidents, persons, and words, it becomes the expression of the inner sig- nificance of all those incidents, and of their ultimate and secret necessity which depends upon this significance. The pleasure of the spectator, unless he is a mere gaper, really depends upon an indistinct feeling of this. Yet in the opera music also shows its heterogeneous nature and higher reality by its entire indifference to the whole material of the incidents; in consequence of which it everywhere expresses the storm of the passions and the pathos of the feelings in the same way, and its tones accompany the piece with the same pomp, whether Agamemnon and Achilles or the dissensions of a bourgeois family form its material. For only the passions, the movements of the will, exist for it, and, like God, it sees only the hearts. It never assimilates itself to the natural; and therefore, even when it accompanies the most ludicrous and ex- travagant farces of the comic opera, it still preserves its essential beauty, purity, and sublimity; and its fusion with these incidents is unable to draw it down from its height, to which all absurdity is really foreign. Thus the profound and serious significance of [235] our existence hangs over the farce and the endless miseries of human life, and never leaves it for a moment.
 
 If we now cast a glance at purely instrumental music, a
 symphony of Beethoven presents to us the greatest confusion,

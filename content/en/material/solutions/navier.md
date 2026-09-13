@@ -20,8 +20,23 @@ This then created a complex swirling mathematical vortex that proved that the Na
 
 We have explained that this is because the Navier Stokes Equation is based on Newton's `F=ma` which **does not have vortices as inherent**, nor the **probabilistic nature of the pure aether within that vortex**.
 
+Its ignorance on the probabilistic nature of the pure aether within that vortex leads to the question of whether the flow can break down:
+- on its own
+- or with a smooth force applied
+
 
 ![Navier](/graphics/physics/navier.jpg)
+
+
+The mechanics is explained by Jade of Up and Atom:
+
+<!-- Levent + Buckmaster vs Rubeck  -->
+
+{{< youtube cvTHBXyXM2I >}}
+
+<!-- Buckmaster acknowledges that Luis and Diego opened the path of forcing the function. So  -->
+
+
 
 
 ### Newton Versus Descartes
@@ -32,7 +47,8 @@ But Descartes' physics is relational and vortex-based. The motion of objects sho
 - The **vortex** manifests in the OpenAI paper as a **swirl** (azimuthal rotation)
 - The **relation or support** manifests as the **meridional flow** of radial inflow and axial outflow
 
-In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics (without them knowing it) to make the Newtonian Navier Stokes break down.
+In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics (without them knowing it) to make the Newtonian Navier Stokes break down because of the probabilistic nature of the pure aether within that vortex.
+- This breaking down manifests in the aether of space as the teleportation of UFOs (same principle, different element or standard model force)
 
 
 ### The Open AI vortex is abstract just as Descarts vortices are abstract
@@ -68,7 +84,4 @@ So Pure Maths is an art, not a science. We fix this with Supermath that is alway
 {{< youtube eR2q8s4VB1w >}}
 
 <!-- ?si=dJ0jombfzwtL4vH4&t=150 -->
-
-
-
 
