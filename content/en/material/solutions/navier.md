@@ -34,7 +34,7 @@ The mechanics is explained by Jade of Up and Atom:
 
 {{< youtube cvTHBXyXM2I >}}
 
-<!-- Buckmaster acknowledges that Luis and Diego opened the path of forcing the function. So  -->
+<!-- Buckmaster acknowledges that Luis and Diego opened the path of forcing the function. So Buckmaster can't claim that OpenAI relied totally on his work -->
 
 
 

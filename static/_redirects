@@ -1,4 +1,6 @@
 # === Research / economists (exact match) ===
+/economics        		https://econ.pantrypoints.com/        301
+
 /research/barbon        https://econ.pantrypoints.com/research/barbon        301
 /research/barbon/*      https://econ.pantrypoints.com/research/barbon/:splat  301
 
