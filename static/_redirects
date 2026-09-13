@@ -1,23 +1,62 @@
 # === Research / economists (exact match) ===
 /research/barbon        https://econ.pantrypoints.com/research/barbon        301
+/research/barbon/*      https://econ.pantrypoints.com/research/barbon/:splat  301
+
 /research/child         https://econ.pantrypoints.com/research/child         301
+/research/child/*       https://econ.pantrypoints.com/research/child/:splat  301
+
 /research/friedman      https://econ.pantrypoints.com/research/friedman      301
+/research/friedman/*    https://econ.pantrypoints.com/research/friedman/:splat 301
+
 /research/hayek         https://econ.pantrypoints.com/research/hayek         301
+/research/hayek/*       https://econ.pantrypoints.com/research/hayek/:splat  301
+
 /research/keynes        https://econ.pantrypoints.com/research/keynes        301
+/research/keynes/*      https://econ.pantrypoints.com/research/keynes/:splat 301
+
 /research/marshall      https://econ.pantrypoints.com/research/marshall      301
+/research/marshall/*    https://econ.pantrypoints.com/research/marshall/:splat 301
+
 /research/maslow        https://econ.pantrypoints.com/research/maslow        301
+/research/maslow/*      https://econ.pantrypoints.com/research/maslow/:splat 301
+
 /research/mun           https://econ.pantrypoints.com/research/mun           301
+/research/mun/*         https://econ.pantrypoints.com/research/mun/:splat    301
+
 /research/piketty       https://econ.pantrypoints.com/research/piketty       301
+/research/piketty/*     https://econ.pantrypoints.com/research/piketty/:splat 301
+
 /research/quesnay       https://econ.pantrypoints.com/research/quesnay       301
+/research/quesnay/*     https://econ.pantrypoints.com/research/quesnay/:splat 301
+
 /research/rand          https://econ.pantrypoints.com/research/rand          301
+/research/rand/*        https://econ.pantrypoints.com/research/rand/:splat   301
+
 /research/ricardo       https://econ.pantrypoints.com/research/ricardo       301
+/research/ricardo/*     https://econ.pantrypoints.com/research/ricardo/:splat 301
+
 /research/rousseau      https://econ.pantrypoints.com/research/rousseau      301
+/research/rousseau/*    https://econ.pantrypoints.com/research/rousseau/:splat 301
+
 /research/say           https://econ.pantrypoints.com/research/say           301
+/research/say/*         https://econ.pantrypoints.com/research/say/:splat    301
+
 /research/schumacher    https://econ.pantrypoints.com/research/schumacher    301
+/research/schumacher/*  https://econ.pantrypoints.com/research/schumacher/:splat 301
+
 /research/schumpeter    https://econ.pantrypoints.com/research/schumpeter    301
+/research/schumpeter/*  https://econ.pantrypoints.com/research/schumpeter/:splat 301
+
 /research/sismondi      https://econ.pantrypoints.com/research/sismondi      301
+/research/sismondi/*    https://econ.pantrypoints.com/research/sismondi/:splat 301
+
 /research/smith         https://econ.pantrypoints.com/research/smith         301
+/research/smith/*       https://econ.pantrypoints.com/research/smith/:splat  301
+
 /research/xenophon      https://econ.pantrypoints.com/research/xenophon      301
+/research/xenophon/*    https://econ.pantrypoints.com/research/xenophon/:splat 301
+
+
 
 # === Social / economics (specific pages - must come before the wildcard rules below) ===
 # Bare path + everything nested under it, path preserved via :splat
