@@ -1,5 +1,5 @@
 ---
-title: "The Scalability of Society"
+title: "Social Newtorkism"
 heading: "Unit 2"
 image: "/photos/social/colony.jpg"
 date: 2021-07-01
@@ -9,11 +9,23 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /social/supersociology/principles/social-networkism/
 ---
 
 
 
-The wave nature of society makes it scalable into a universal society even among non-physical entities in 5th density.
+## The Scalability of Society
+
+The previous unit defined a society as a metaphysical organism that is made up of individual minds.
+
+These is similar to how a compound idea is made up of individual ideas. 
+
+The unity of these ideas are facilitated by a connection called fellow-feeling or match of vibration since ideas and souls are isolated waves that retain their wave-nature. 
+
+Social Networkism is the principles and dynamics that a society organism has due to its wave-nature. 
+
+This allows societies to be scalable into a universal society even among non-physical entities in 5th density.
 
 {{< q a="Foreigner" c="Sophist, Part 9" >}}
 This is the knowledge of classes which determines where they can have communion with one another and where not.
