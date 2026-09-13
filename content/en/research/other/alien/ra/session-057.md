@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 151
 date: 1981-01-24
-tags: ['crystal', '']
+tags: ['crystal healing', 'crystals']
 ---
 
 
