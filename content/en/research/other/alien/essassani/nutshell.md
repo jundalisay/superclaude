@@ -3,7 +3,7 @@ title: "The Sassani in a Nutshell"
 weight: 91
 c: "darkslategray"
 image: "/photos/alien/forest.jpg"
-description: "This is for people who have no knowledge of vibrations and spirit mediums"
+description: "This is for people who have no knowledge of aliens or vibrations or spirit mediums"
 ---
 
 
@@ -27,9 +27,19 @@ Since 1983, they have been communicating with an American named Darryl Anka from
 
 The internet and Youtube have allowed their communications to be known by more people.
 
-Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the Anu Het which will aid our quadrant of the galaxy as it merges with the Andromeda galaxy. 
 
-This is embodied in their philosophy of acting on your highest passion, which is very similar to The Law of Attraction. 
+## Their Agenda
+
+Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anu Het** which will aid our quadrant of the galaxy as it merges with the Andromeda galaxy. 
+
+To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
+
+Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, the Philippines as proven by them being Hindu such as Bali. 
+
+
+## The Formula
+
+And so they spread their philosophy of acting on your highest passion, which is very similar to The Law of Attraction. 
 
 Their difference with the Law of Attraction is that their philosophy is done through a specific formula:
 
