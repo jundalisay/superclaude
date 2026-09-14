@@ -19,7 +19,7 @@ They are able to talk to humans through the phenomenon called "channeling" (Giao
 
 This is how we are able to learn about their civilization and technologies. 
 
-Since 1983, they have been communicating with an American named Darryl Anka from 1983. They have also channeled through:
+Since 1983, they have been communicating with an American named Darryl Anka. They have also channeled through:
 - Ayako Sekino
 - Andrew Bayuk (Elan)
 - Tyler Ellison (Ryokah, Shikoi)
@@ -84,9 +84,14 @@ Being positive and unattached in Hinduism is known as "renouncing the fruits of 
 
 
 
-## Other Sassani 
+## Historical Sassani and Other Sassani 
+
+The earliest recorded interaction of humans with Sassani was the Sassanid empire. The founder of that Empire knew that Sassani and was inspired by him and so he named his child Sassan after that Sassani. 
+
+Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani, as opposed to the khshayathiya system of Cyrus. 
 
 Bashar does the general work of introducing 4th and 5th density concepts. The other Sassani give the details. 
+
 
 <!-- For example, Elan is  -->
 
