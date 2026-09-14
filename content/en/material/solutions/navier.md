@@ -53,7 +53,13 @@ In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics
 
 ### The Open AI vortex is abstract just as Descarts vortices are abstract
 
-The Open AI vortex ignores **viscosity** which means it's totally abstract. 
+The Open AI vortex adds a lot of unnatural things to the liquid dynamics just to make it blow up such as:
+- The external force is a smooth designer force, not physical.
+- The geometries are idealized
+- the infinite correction cycle
+- the auxiliary torus
+
+This means that the Open AI solution is really abstract. 
 
 But that's the whole point that Descartes was trying to make about his vortices. Newton wrongly thought that he disproved Descartes' vortices by disproving their physical dynamics, not knowing that they are **abstract** in the first place. 
 
