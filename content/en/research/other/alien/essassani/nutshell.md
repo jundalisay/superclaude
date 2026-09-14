@@ -9,7 +9,7 @@ description: "This is for people who have no knowledge of vibrations and spirit 
 
 
 
-The Sassani are an alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality. 
+The Sassani are a 4th density alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
 
 They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. 
 
@@ -19,9 +19,15 @@ They are able to talk to humans through the phenomenon called "channeling" (Giao
 
 This is how we are able to learn about their civilization and technologies. 
 
-Since 1983, they have been communicating with an American named Darryl Anka from 1983. The internet and Youtube have allowed their communications to be known by more people.
+Since 1983, they have been communicating with an American named Darryl Anka from 1983. They have also channeled through:
+- Ayako Sekino
+- Andrew Bayuk (Elan)
+- Tyler Ellison (Ryokah, Shikoi)
+- etc 
 
-Their goal is to help humans advance mentally and spiritually by explaining how the universe works. 
+The internet and Youtube have allowed their communications to be known by more people.
+
+Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the Anu Het which will aid our quadrant of the galaxy as it merges with the Andromeda galaxy. 
 
 This is embodied in their philosophy of acting on your highest passion, which is very similar to The Law of Attraction. 
 
@@ -65,3 +71,12 @@ If you become negative, then you might blame yourself and become discouraged, or
 But if you stay positive, then you might get an idea of which company to apply to, or you might get offered a different position in that company.
 
 Being positive and unattached in Hinduism is known as "renouncing the fruits of one's actions or karma". 
+
+
+
+## Other Sassani 
+
+Bashar does the general work of introducing 4th and 5th density concepts. The other Sassani give the details. 
+
+<!-- For example, Elan is  -->
+
