@@ -27,11 +27,12 @@ We reinterpret Newton's Universal Law of Gravitation as:
 
 F = G m<sub>1</sub> m<sub>2</sub> / r<sup>2</sup>
 
-- F: Force from the volume of displaced space particles 
-- G: Volume of displaced space particles 
-- m: volume of matter that displaces space particles
-- r: distance between masses
+- F: Force from the volume of displaced space particles or aether
+- G: Volume of displaced space particles or aether
+- m: volume of matter or aetherspace that displaces space particles or aether
+- r: distance between masses (homogneous volume of aether)
 
+So different volumes or densities create different force values.
 
 
 <!-- By contrast, René Descartes’ physics rejected the very concept of empty space. In a Cartesian universe, what we perceive as a vacuum is actually a dense plenum packed with subtle matter—primarily the **2nd Element** (spherical space particles or *materia coelestis*). When interpreted through this lens, Newton’s Universal Law of Gravitation ceases to be an unexplained "action-at-a-distance" and instead becomes a concrete equation of fluid displacement and pressure gradients.
