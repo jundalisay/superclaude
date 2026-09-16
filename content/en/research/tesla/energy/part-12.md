@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "I resolved to work on this though it involved great sacrifice. Only years of labor could master its difficulties"
 ---
 

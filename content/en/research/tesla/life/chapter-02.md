@@ -3,6 +3,7 @@ title: "Extraordinary Experiences"
 heading: Chapter 2
 description: "Nikola Tesla was a Real Genius"
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 weight: 8
 ---
 

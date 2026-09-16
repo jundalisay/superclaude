@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "This problem is by far the most important because of its intimate bearing on all the many  conditions which determine humanity's movement"
 ---
 

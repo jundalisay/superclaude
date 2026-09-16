@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "As the first valuable result of my experiments in this latter line a system of telegraphy without wires resulted, which I described in 2 scientific lectures in February and March, 1893"
 ---
 

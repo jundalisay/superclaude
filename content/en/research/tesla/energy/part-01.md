@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "The 2 ways to increase the mass of mankind: aid and maintain those forces which increase it and  oppose those which diminish it"
 ---
 

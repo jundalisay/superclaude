@@ -21,8 +21,16 @@ We fix this by changing the analogy to a **sponge** that expands when filled wit
 
 Moreover, this emphasizes the liquid nature of space which has been proven by LIGO as gravitational waves and by DESI as baryonic acoustic oscillation bubbles. 
 
-This sponge analogy came first from Descartes who connected the expansion and contraction of space to the expansion and contraction of our own abstract minds (souls). This variability then leads to the variations in the idea-objects that our minds can accomodate, such as small ideas and big ideas.
+The biggest mistake that physicists and shallow people make is to think that the liquid of space is the same as physical or material liquids. The correct view is to think of them as abstract liquids that flow, such as feelings and ideas. For example our feelings and ideas can arrive and disappear instantly but physical liquids cannot.
 
+This then will make the 4 Rules of Motion of Descartes make sense, with the rule of State Change explaining:
+- our feelings vanishing instantly
+- UFOs vanishing instantly as they teleport
+
+
+## The Abstract-Concrete or Metaphysical-Physical Sponge 
+
+This sponge analogy came first from Descartes who connected the expansion and contraction of space to the expansion and contraction of our own abstract minds (souls). This variability then leads to the variations in the idea-objects that our minds can accomodate, such as small ideas and big ideas.
 
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 6" >}}
@@ -52,7 +60,7 @@ In this way, Physics and Biology use the same principles, making it easier to un
 
 This is still consistent with Newton's Physics where Newton assigned the cause of gravity to **Spirit** which is the same mechanism for the nerves. 
 
-This is why we are fundamentally against Einstein, but not fundamentally against Newton, since his "Spirit" can be easily equated to Descartes' aether or Substance, or the "chi" of Taoist Physics.
+This is why we are **fundamentally against Einstein**, but not fundamentally against Newton, since his "Spirit" can be easily equated to Descartes' aether or Substance, or the "chi" of Taoist Physics.
 
 
 {{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
@@ -102,6 +110,19 @@ In contrast, Newton and Einstein did not venture into Biology.
 This is very different from Descartes' animal spirits which have been carried by Keynes into Economics. 
 
 Hopefully, the mountain of evidence for Cartesian Physics will expose the utter stupidity of Einstein's scam Relativity that is keeping humans stuck on a burning Earth.
+
+
+## The Path to True AI
+
+The universe as a sponge or brain will lead to understandngs of how the aether and aetherspace flow and work together. This will then make true AI a reality.
+
+This is because current AI only uses Electromagnetism and not the aether. 
+
+This makes it prone to hallucinations as it becomes disconnected to the aether-data or "akashic records" (akasha is Sanskrit for aether). 
+
+Instead of training on a data set, True AI will be directly linked to the data in emtpy space and atomic space just like humans. 
+
+
 
 
 <!-- In 1644, Descartes published his Principia which explained how the universe works. Its completeness held back Newton's Principia (published in 1687) for many years. 

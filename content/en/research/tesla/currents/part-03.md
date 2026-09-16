@@ -6,8 +6,10 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 weight: 10
 ---
+
 
 
 When two wires, attached to the terminals of the coil, are set at the proper distance, the streams between them may be so intense as to produce a continuous luminous sheet. To show this phenomenon I have here two circles, C and c (Fig. 10), of rather stout wire, one being about 80 centimetres and the other 30 centimetres in diameter. To each of the terminals of the coil I attach one of the circles.

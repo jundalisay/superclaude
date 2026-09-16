@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla	
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "The production of artificial food as a means for causing an increase of the human mass naturally suggests itself."
 ---
 

@@ -17,44 +17,85 @@ Priam ransoms the body of Hector—Hector’s funeral.
 
 The assembly now broke up and the people went their ways each to his own ship. 
 
-There they made ready their supper, and then bethought them of the blessed boon of sleep; but Achilles still wept for thinking of his dear comrade, and sleep, before whom all things bow, could take no hold upon him. 
+There they prepared their supper and then slept. But Achilles still wept thinking of his dear comrade Patroclus. He could not sleep.  He thought of all they had done together.
 
-This way and that did he turn as he yearned after the might and manfulness of Patroclus; he thought of all they had done together, and all they had gone through both on the field of battle and on the waves of the weary sea. 
+<!-- , and all they had gone through both on the field of battle and on the waves of the weary sea.  -->
 
-As he dwelt on these things he wept bitterly and lay now on his side, now on his back, and now face downwards, till at last he rose and went out as one distraught to wander upon the sea-shore. Then, when he saw dawn breaking over beach and sea, he yoked his horses to his chariot, and bound the body of Hector behind it that he might drag it about. Thrice did he drag it round the tomb of the son of Menoetius, and then went back into his tent, leaving the body on the ground full length and with its face downwards. 
+<!-- As he dwelt on these things he wept bitterly and lay now on his side, now on his back, and now face downwards, till at last  -->
 
-But Apollo would not suffer it to be disfigured, for he pitied the man, dead though he now was; therefore he shielded him with his golden aegis continually, that he might take no hurt while Achilles was dragging him.
+Finally, he stood and went out onto the sea-shore distraught. When he saw dawn breaking over beach and sea, he yoked his horses to his chariot, and bound the body of Hector behind it to drag it around.
 
-Thus shamefully did Achilles in his fury dishonour Hector; 
+Thrice did he drag it round the tomb of the son of Menoetius, and then went back into his tent, leaving the body on the ground full length and with its face downwards. 
 
-but the blessed gods looked down in pity from heaven, and urged Mercury, slayer of Argus, to steal the body. All were of this mind save only Juno, Neptune, and Jove’s grey-eyed daughter, who persisted in the hate which they had ever borne towards Ilius with Priam and his people; for they forgave not the wrong done them by Alexandrus in disdaining the goddesses who came to him when he was in his sheepyards, and preferring her who had offered him a wanton to his ruin.
+But Apollo did not want it to be disfigured for he pitied dead Hector. So he shielded him with his golden aegis continually, that he might take no hurt while Achilles was dragging him.
 
-When, therefore, the morning of the twelfth day had now come, Phoebus Apollo spoke among the immortals saying, “You gods ought to be ashamed of yourselves; you are cruel and hard-hearted. Did not Hector burn you thigh-bones of heifers and of unblemished goats?
+So shamefully did Achilles in his fury dishonour Hector. But the blessed gods looked down in pity from heaven, and urged Mercury, slayer of Argus, to steal the body.
+
+All agreed except only Juno, Neptune, and Jove’s grey-eyed daughter Minerva.
+- She hated Ilius, Priam and his people. 
+- The goddesses did not forgive the wrong done to them by Alexandrus who disdained the goddesses by preferring Aphrodite over Minerva. 
+
+So when the morning of the 12th day had come, Phoebus Apollo spoke among the immortals:
+
+{{< r a="Phoebus Apollo">}}
+You gods ought to be ashamed of yourselves; you are cruel and hard-hearted. Did not Hector burn you thigh-bones of heifers and of unblemished goats? And now dare you not rescue even his dead body, for his wife to look upon, with his mother and child, his father Priam, and his people, who would forthwith commit him to the flames, and give him his due funeral rites?
+
+So, then, you would all be on the side of mad Achilles, who knows neither right nor ruth? He is like some savage lion that in the pride of his great strength and daring springs upon men’s flocks and gorges on them. Even so has Achilles flung aside all pity, and all that conscience which at once so greatly banes yet greatly boons him that will heed it.
+
+A man may lose one far dearer than Achilles has lost—a son, it may be, or a brother born from his own mother’s womb; yet when he has mourned him and wept over him he will let him bide, for it takes much sorrow to kill a man; whereas Achilles, now that he has slain noble Hector, drags him behind his chariot round the tomb of his comrade. It were better of him, and for him, that he should not do so, for brave though he be we gods may take it ill that he should vent his fury upon dead clay.
+{{< /r >}}
+
+{{< l a="Juno">}}
+This were well, O lord of the silver bow, if you would give like honour to Hector and to Achilles; but Hector was mortal and suckled at a woman’s breast, whereas Achilles is the offspring of a goddess whom I myself reared and brought up. I married her to Peleus, who is above measure dear to the immortals; you gods came all of you to her wedding; you feasted along with them yourself and brought your lyre—false, and fond of low company, that you have ever been.
+{{< /l >}}
+
+{{< l a="Jove">}}
+Juno, be not so bitter. Their honour shall not be equal, but of all that dwell in Ilius, Hector was dearest to the gods, as also to myself, for his offerings never failed me. Never was my altar stinted of its dues, nor of the drink-offerings and savour of sacrifice which we claim of right. I shall therefore permit the body of mighty Hector to be stolen; and yet this may hardly be without Achilles coming to know it, for his mother keeps night and day beside him. Let some one of you, therefore, send Thetis to me, and I will impart my counsel to her, namely that Achilles is to accept a ransom from Priam, and give up the body.
+{{< /l >}}
+
+On this Iris fleet as the wind went forth to carry his message. Down she plunged into the dark sea midway between Samos and rocky Imbrus; the waters hissed as they closed over her, and she sank into the bottom as the lead at the end of an ox-horn, that is sped to carry death to fishes. She found Thetis sitting in a great cave with the other sea-goddesses gathered round her; there she sat in the midst of them weeping for her noble son who was to fall far from his own land, on the rich plains of Troy. 
 
 
-And now dare you not rescue even his dead body, for his wife to look upon, with his mother and child, his father Priam, and his people, who would forthwith commit him to the flames, and give him his due funeral rites?
+{{< r a="Iris">}}
+Rise Thetis; Jove, whose counsels fail not, bids you come to him.
+{{< /r >}}
 
-So, then, you would all be on the side of mad Achilles, who knows neither right nor ruth? He is like some savage lion that in the pride of his great strength and daring springs upon men’s flocks and gorges on them. Even so has Achilles flung aside all pity, and all that conscience which at once so greatly banes yet greatly boons him that will heed it. 
+{{< r a="Thetis">}}
+Why does the mighty god so bid me? I am in great grief, and shrink from going in and out among the immortals. Still, I will go, and the word that he may speak shall not be spoken in vain.
+{{< /r >}}
 
-A man may lose one far dearer than Achilles has lost—a son, it may be, or a brother born from his own mother’s womb; yet when he has mourned him and wept over him he will let him bide, for it takes much sorrow to kill a man; whereas Achilles, now that he has slain noble Hector, drags him behind his chariot round the tomb of his comrade. It were better of him, and for him, that he should not do so, for brave though he be we gods may take it ill that he should vent his fury upon dead clay.”
 
-Juno spoke up in a rage. “This were well,” she cried, “O lord of the silver bow, if you would give like honour to Hector and to Achilles; but Hector was mortal and suckled at a woman’s breast, whereas Achilles is the offspring of a goddess whom I myself reared and brought up. I married her to Peleus, who is above measure dear to the immortals; you gods came all of you to her wedding; you feasted along with them yourself and brought your lyre—false, and fond of low company, that you have ever been.”
 
-Then said Jove, “Juno, be not so bitter. Their honour shall not be equal, but of all that dwell in Ilius, Hector was dearest to the gods, as also to myself, for his offerings never failed me. Never was my altar stinted of its dues, nor of the drink-offerings and savour of sacrifice which we claim of right. I shall therefore permit the body of mighty Hector to be stolen; and yet this may hardly be without Achilles coming to know it, for his mother keeps night and day beside him. Let some one of you, therefore, send Thetis to me, and I will impart my counsel to her, namely that Achilles is to accept a ransom from Priam, and give up the body.”
+The goddess took her dark veil, than which there can be no robe more sombre, and went forth with fleet Iris leading the way before her. The waves of the sea opened them a path, and when they reached the shore they flew up into the heavens, where they found the all-seeing son of Saturn with the blessed gods that live for ever assembled near him. Minerva gave up her seat to her, and she sat down by the side of father Jove. 
 
-On this Iris fleet as the wind went forth to carry his message. Down she plunged into the dark sea midway between Samos and rocky Imbrus; the waters hissed as they closed over her, and she sank into the bottom as the lead at the end of an ox-horn, that is sped to carry death to fishes. She found Thetis sitting in a great cave with the other sea-goddesses gathered round her; there she sat in the midst of them weeping for her noble son who was to fall far from his own land, on the rich plains of Troy. Iris went up to her and said, “Rise Thetis; Jove, whose counsels fail not, bids you come to him.” And Thetis answered, “Why does the mighty god so bid me? I am in great grief, and shrink from going in and out among the immortals. Still, I will go, and the word that he may speak shall not be spoken in vain.”
+Juno then placed a fair golden cup in her hand, and spoke to her in words of comfort, whereon Thetis drank and gave her back the cup; and the sire of gods and men was the first to speak.
 
-The goddess took her dark veil, than which there can be no robe more sombre, and went forth with fleet Iris leading the way before her. The waves of the sea opened them a path, and when they reached the shore they flew up into the heavens, where they found the all-seeing son of Saturn with the blessed gods that live for ever assembled near him. Minerva gave up her seat to her, and she sat down by the side of father Jove. Juno then placed a fair golden cup in her hand, and spoke to her in words of comfort, whereon Thetis drank and gave her back the cup; and the sire of gods and men was the first to speak.
 
-“So, goddess, for all your sorrow, and the grief that I well know reigns ever in your heart, you have come hither to Olympus, and I will tell you why I have sent for you. This nine days past the immortals have been quarrelling about Achilles waster of cities and the body of Hector. The gods would have Mercury slayer of Argus steal the body, but in furtherance of our peace and amity henceforward, I will concede such honour to your son as I will now tell you. Go, then, to the host and lay these commands upon him; say that the gods are angry with him, and that I am myself more angry than them all, in that he keeps Hector at the ships and will not give him up. He may thus fear me and let the body go. At the same time I will send Iris to great Priam to bid him go to the ships of the Achaeans, and ransom his son, taking with him such gifts for Achilles as may give him satisfaction.”
+{{< l a="Jove">}}
+So, goddess, for all your sorrow, and the grief that I well know reigns ever in your heart, you have come hither to Olympus, and I will tell you why I have sent for you. This nine days past the immortals have been quarrelling about Achilles waster of cities and the body of Hector. The gods would have Mercury slayer of Argus steal the body, but in furtherance of our peace and amity henceforward, I will concede such honour to your son as I will now tell you. Go, then, to the host and lay these commands upon him; say that the gods are angry with him, and that I am myself more angry than them all, in that he keeps Hector at the ships and will not give him up. He may thus fear me and let the body go. At the same time I will send Iris to great Priam to bid him go to the ships of the Achaeans, and ransom his son, taking with him such gifts for Achilles as may give him satisfaction.
+{{< /l >}}
 
-Silver-footed Thetis did as the god had told her, and forthwith down she darted from the topmost summits of Olympus. She went to her son’s tents where she found him grieving bitterly, while his trusty comrades round him were busy preparing their morning meal, for which they had killed a great woolly sheep. His mother sat down beside him and caressed him with her hand saying, “My son, how long will you keep on thus grieving and making moan? You are gnawing at your own heart, and think neither of food nor of woman’s embraces; and yet these too were well, for you have no long time to live, and death with the strong hand of fate are already close beside you. Now, therefore, heed what I say, for I come as a messenger from Jove; he says that the gods are angry with you, and himself more angry than them all, in that you keep Hector at the ships and will not give him up. Therefore let him go, and accept a ransom for his body.”
+{{< r a="Thetis">}}
+My son, how long will you keep on thus grieving and making moan? You are gnawing at your own heart, and think neither of food nor of woman’s embraces; and yet these too were well, for you have no long time to live, and death with the strong hand of fate are already close beside you. Now, therefore, heed what I say, for I come as a messenger from Jove; he says that the gods are angry with you, and himself more angry than them all, in that you keep Hector at the ships and will not give him up. Therefore let him go, and accept a ransom for his body.
+{{< /r >}}
 
-And Achilles answered, “So be it. If Olympian Jove of his own motion thus commands me, let him that brings the ransom bear the body away.”
+{{< r a="Achilles">}}
+So be it. If Olympian Jove of his own motion thus commands me, let him that brings the ransom bear the body away.
+{{< /r >}}
 
-Thus did mother and son talk together at the ships in long discourse with one another. Meanwhile the son of Saturn sent Iris to the strong city of Ilius. “Go,” said he, “fleet Iris, from the mansions of Olympus, and tell King Priam in Ilius, that he is to go to the ships of the Achaeans and free the body of his dear son. He is to take such gifts with him as shall give satisfaction to Achilles, and he is to go alone, with no other Trojan, save only some honoured servant who may drive his mules and waggon, and bring back the body of him whom noble Achilles has slain. Let him have no thought nor fear of death in his heart, for we will send the slayer of Argus to escort him, and bring him within the tent of Achilles. Achilles will not kill him nor let another do so, for he will take heed to his ways and sin not, and he will entreat a suppliant with all honourable courtesy.”
 
-On this Iris, fleet as the wind, sped forth to deliver her message. She went to Priam’s house, and found weeping and lamentation therein. His sons were seated round their father in the outer courtyard, and their raiment was wet with tears: the old man sat in the midst of them with his mantle wrapped close about his body, and his head and neck all covered with the filth which he had clutched as he lay grovelling in the mire. His daughters and his sons’ wives went wailing about the house, as they thought of the many and brave men who lay dead, slain by the Argives. The messenger of Jove stood by Priam and spoke softly to him, but fear fell upon him as she did so. “Take heart,” she said, “Priam offspring of Dardanus, take heart and fear not. I bring no evil tidings, but am minded well towards you. I come as a messenger from Jove, who though he be not near, takes thought for you and pities you. The lord of Olympus bids you go and ransom noble Hector, and take with you such gifts as shall give satisfaction to Achilles. You are to go alone, with no Trojan, save only some honoured servant who may drive your mules and waggon, and bring back to the city the body of him whom noble Achilles has slain. You are to have no thought, nor fear of death, for Jove will send the slayer of Argus to escort you. When he has brought you within Achilles’ tent, Achilles will not kill you nor let another do so, for he will take heed to his ways and sin not, and he will entreat a suppliant with all honourable courtesy.”
+
+Thus did mother and son talk together at the ships in long discourse with one another. Meanwhile the son of Saturn sent Iris to the strong city of Ilius. 
+
+
+{{< l a="Jove">}}
+Go, fleet Iris, from the mansions of Olympus, and tell King Priam in Ilius, that he is to go to the ships of the Achaeans and free the body of his dear son. He is to take such gifts with him as shall give satisfaction to Achilles, and he is to go alone, with no other Trojan, save only some honoured servant who may drive his mules and waggon, and bring back the body of him whom noble Achilles has slain. Let him have no thought nor fear of death in his heart, for we will send the slayer of Argus to escort him, and bring him within the tent of Achilles. Achilles will not kill him nor let another do so, for he will take heed to his ways and sin not, and he will entreat a suppliant with all honourable courtesy.
+{{< /l >}}
+
+
+On this Iris, fleet as the wind, sped forth to deliver her message. She went to Priam’s house, and found weeping and lamentation therein. His sons were seated round their father in the outer courtyard, and their raiment was wet with tears: the old man sat in the midst of them with his mantle wrapped close about his body, and his head and neck all covered with the filth which he had clutched as he lay grovelling in the mire. His daughters and his sons’ wives went wailing about the house, as they thought of the many and brave men who lay dead, slain by the Argives. The messenger of Jove stood by Priam and spoke softly to him, but fear fell upon him as she did so. 
+
+“Take heart,” she said, “Priam offspring of Dardanus, take heart and fear not. I bring no evil tidings, but am minded well towards you. I come as a messenger from Jove, who though he be not near, takes thought for you and pities you. The lord of Olympus bids you go and ransom noble Hector, and take with you such gifts as shall give satisfaction to Achilles. You are to go alone, with no Trojan, save only some honoured servant who may drive your mules and waggon, and bring back to the city the body of him whom noble Achilles has slain. You are to have no thought, nor fear of death, for Jove will send the slayer of Argus to escort you. When he has brought you within Achilles’ tent, Achilles will not kill you nor let another do so, for he will take heed to his ways and sin not, and he will entreat a suppliant with all honourable courtesy.”
 
 Iris went her way when she had thus spoken, and Priam told his sons to get a mule-waggon ready, and to make the body of the waggon fast upon the top of its bed. Then he went down into his fragrant store-room, high-vaulted, and made of cedar-wood, where his many treasures were kept, and he called Hecuba his wife. “Wife,” said he, “a messenger has come to me from Olympus, and has told me to go to the ships of the Achaeans to ransom my dear son, taking with me such gifts as shall give satisfaction to Achilles. What think you of this matter? for my own part I am greatly moved to pass through the camps of the Achaeans and go to their ships.”
 

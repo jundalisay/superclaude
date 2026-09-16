@@ -16,11 +16,21 @@ Thus did they make their moan throughout the city, while the Achaeans when they 
 
 But Achilles would not let the Myrmidons go, and spoke to his brave comrades:
 
-“Myrmidons, famed horsemen and my own trusted friends, not yet, forsooth, let us unyoke, but with horse and chariot draw near to the body and mourn Patroclus, in due honour to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here.”
+{{< r a="Achilles">}}
+Myrmidons, famed horsemen and my own trusted friends, not yet, forsooth, let us unyoke, but with horse and chariot draw near to the body and mourn Patroclus, in due honour to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here.
+{{< /r >}}
 
-On this they all joined in a cry of wailing and Achilles led them in their lament. Thrice did they drive their chariots all sorrowing round the body, and Thetis stirred within them a still deeper yearning. The sands of the sea-shore and the men’s armour were wet with their weeping, so great a minister of fear was he whom they had lost. Chief in all their mourning was the son of Peleus: he laid his blood-stained hand on the breast of his friend. “Fare well,” he cried, “Patroclus, even in the house of Hades. I will now do all that I erewhile promised you; I will drag Hector hither and let dogs devour him raw; twelve noble sons of Trojans will I also slay before your pyre to avenge you.”
+On this they all joined in a cry of wailing and Achilles led them in their lament. Thrice did they drive their chariots all sorrowing round the body, and Thetis stirred within them a still deeper yearning. The sands of the sea-shore and the men’s armour were wet with their weeping, so great a minister of fear was he whom they had lost. Chief in all their mourning was the son of Peleus: he laid his blood-stained hand on the breast of his friend.
 
-As he spoke he treated the body of noble Hector with contumely, laying it at full length in the dust beside the bier of Patroclus. The others then put off every man his armour, took the horses from their chariots, and seated themselves in great multitude by the ship of the fleet descendant of Aeacus, who thereon feasted them with an abundant funeral banquet. Many a goodly ox, with many a sheep and bleating goat did they butcher and cut up; many a tusked boar moreover, fat and well-fed, did they singe and set to roast in the flames of Vulcan; and rivulets of blood flowed all round the place where the body was lying.
+
+{{< r a="Achilles">}}
+Fare well, Patroclus, even in the house of Hades. I will now do all that I erewhile promised you; I will drag Hector hither and let dogs devour him raw; twelve noble sons of Trojans will I also slay before your pyre to avenge you.
+{{< /r >}}
+
+
+As he spoke he treated the body of noble Hector with contumely, laying it at full length in the dust beside the bier of Patroclus. The others then put off every man his armour, took the horses from their chariots, and seated themselves in great multitude by the ship of the fleet descendant of Aeacus, who thereon feasted them with an abundant funeral banquet. 
+
+Many a goodly ox, with many a sheep and bleating goat did they butcher and cut up; many a tusked boar moreover, fat and well-fed, did they singe and set to roast in the flames of Vulcan; and rivulets of blood flowed all round the place where the body was lying.
 
 Then the princes of the Achaeans took the son of Peleus to Agamemnon, but hardly could they persuade him to come with them, so wroth was he for the death of his comrade. As soon as they reached Agamemnon’s tent they told the serving-men to set a large tripod over the fire in case they might persuade the son of Peleus to wash the clotted gore from this body, but he denied them sternly, and swore it with a solemn oath, saying, “Nay, by King Jove, first and mightiest of all gods, it is not meet that water should touch my body, till I have laid Patroclus on the flames, have built him a barrow, and shaved my head—for so long as I live no such second sorrow shall ever draw nigh me. Now, therefore, let us do all that this sad festival demands, but at break of day, King Agamemnon, bid your men bring wood, and provide all else that the dead may duly take into the realm of darkness; the fire shall thus burn him out of our sight the sooner, and the people shall turn again to their own labours.”
 

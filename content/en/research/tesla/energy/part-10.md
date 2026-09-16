@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "For a long time I thought that such a transmission on an industrial scale could never be realized. But a discovery which I made changed my view."
 ---
 

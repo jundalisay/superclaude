@@ -6,6 +6,7 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "An immense amount of energy is locked up in limestone. Machines can be driven by liberating the carbonic acid through sulphuric acid"
 ---
 

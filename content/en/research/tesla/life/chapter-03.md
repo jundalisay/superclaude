@@ -3,62 +3,22 @@ title: "Early Life"
 heading: Chapter 3
 description: "Nikola Tesla was a Real Genius"
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 weight: 14
 ---
 
 
-The Rotary Magnetic Field
+## The Rotary Magnetic Field
 
-At the age of ten I entered the Real gymnasium which was a new and
-fairly well equipped institution. In the department of physics were
-various models of classical scientific apparatus, electrical and
-mechanical. The demonstrations and experiments performed from time
-to time by the instructors fascinated me and were undoubtedly a
-powerful incentive to invention. 
+At the age of ten I entered the Real gymnasium which was a new and fairly well equipped institution. In the department of physics were various models of classical scientific apparatus, electrical and mechanical. The demonstrations and experiments performed from time to time by the instructors fascinated me and were undoubtedly a powerful incentive to invention.
 
-I was also passionately fond of
-mathematical studies and often won the professor's praise for rapid
-calculation. This was due to my acquired facility of visualizing the
-figures and performing the operation, not in the usual intuitive manner,
-but as in actual life. 
+I was also passionately fond of mathematical studies and often won the professor's praise for rapid calculation. This was due to my acquired facility of visualizing the figures and performing the operation, not in the usual intuitive manner, but as in actual life.
 
-Up to a certain degree of complexity it was
-absolutely the same to me whether I wrote the symbols on the board or
-conjured them before my mental vision. But freehand drawing, to which
-many hours of the course were devoted, was an annoyance I could not
-endure. This was rather remarkable as most of the members of the
-family excelled in it. Perhaps my aversion was simply due to the
-predilection I found in undisturbed thought. Had it not been for a few
-exceptionally stupid boys, who could not do anything at all, my record
-would have been the worst.
+Up to a certain degree of complexity it was absolutely the same to me whether I wrote the symbols on the board or conjured them before my mental vision. But freehand drawing, to which many hours of the course were devoted, was an annoyance I could not endure. This was rather remarkable as most of the members of the family excelled in it. Perhaps my aversion was simply due to the predilection I found in undisturbed thought. Had it not been for a few exceptionally stupid boys, who could not do anything at all, my record would have been the worst.
 
-It was a serious handicap as under the then existing educational regime
-drawing being obligatory, this deficiency threatened to spoil my whole
-career and my father had considerable trouble in railroading me from
-one class to another. In the second year at that institution I became
-obsessed with the idea of producing continuous motion through steady
-air pressure. The pump incident, of which I have been told, had set afire
-my youthful imagination and impressed me with the boundless
-possibilities of a vacuum. I grew frantic in my desire to harness this
-inexhaustible energy but for a long time I was groping in the dark.
-Finally, however, my endeavors crystallized in an invention which was to
-enable me to achieve what no other mortal ever attempted. Imagine a
-cylinder freely rotatable on two bearings and partly surrounded by a
-rectangular trough which fits it perfectly. 
+It was a serious handicap as under the then existing educational regime drawing being obligatory, this deficiency threatened to spoil my whole career and my father had considerable trouble in railroading me from one class to another. In the second year at that institution I became obsessed with the idea of producing continuous motion through steady air pressure. The pump incident, of which I have been told, had set afire my youthful imagination and impressed me with the boundless possibilities of a vacuum. I grew frantic in my desire to harness this inexhaustible energy but for a long time I was groping in the dark. Finally, however, my endeavors crystallized in an invention which was to enable me to achieve what no other mortal ever attempted. Imagine a cylinder freely rotatable on two bearings and partly surrounded by a rectangular trough which fits it perfectly.
 
-The open side of the trough is
-enclosed by a partition so that the cylindrical segment within the enclosure divides the latter into two compartments entirely separated
-from each other by airtight sliding joints. One of these compartments
-being sealed and once for all exhausted, the other remaining open, a
-perpetual rotation of the cylinder would result. At least, so I thought.
-A wooden model was constructed and fitted with infinite care and when
-I applied the pump on one side and actual observed that there was a
-tendency to turning, I was delirious with joy. Mechanical flight was the
-one thing I wanted to accomplish although still under the discouraging
-recollection of a bad fall I sustained by jumping with an umbrella from
-the top of a building. Every day I used to transport myself through the
-air to distant regions but could not understand just how I managed to do
-it. 
+The open side of the trough is enclosed by a partition so that the cylindrical segment within the enclosure divides the latter into two compartments entirely separated from each other by airtight sliding joints. One of these compartments being sealed and once for all exhausted, the other remaining open, a perpetual rotation of the cylinder would result. At least, so I thought. A wooden model was constructed and fitted with infinite care and when I applied the pump on one side and actual observed that there was a tendency to turning, I was delirious with joy. Mechanical flight was the one thing I wanted to accomplish although still under the discouraging recollection of a bad fall I sustained by jumping with an umbrella from the top of a building. Every day I used to transport myself through the air to distant regions but could not understand just how I managed to do it.
 
 Now I had something concrete, a flying machine with nothing more
 than a rotating shaft, flapping wings, and; - a vacuum of unlimited
@@ -83,25 +43,9 @@ hopeless state. They were the earlier works of Mark Twain and to them
 might have been due the miraculous recovery which followed. Twenty-
 five years later, when I met Mr. Clemens and we formed a friendship
 between us, I told him of the experience and was amazed to see that
-great man of laughter burst into tears... My studies were continued at
-the higher Real Gymnasium in Carlstadt, Croatia, where one of my aunts
-resided. She was a distinguished lady, the wife of a Colonel who was an
-old war-horse having participated in many battles, I can never forget the
-three years I passed at their home. No fortress in time of war was under
-a more rigid discipline. I was fed like a canary bird. All the meals were of
-the highest quality and deliciously prepared, but short in quantity by a
-thousand percent. The slices of ham cut by my aunt were like tissue
-paper. When the Colonel would put something substantial on my plate
-she would snatch it away and say excitedly to him; "Be careful. Niko is
-very delicate." I had a voracious appetite and suffered like Tantalus. But
-I lived in an atmosphere of refinement and artistic taste quite unusual
-for those times and conditions. The land was low and marshy and
-malaria fever never left me while there despite the enormous amounts
-of quinine I consumed. Occasionally the river would rise and drive an
-army of rats into the buildings, devouring everything, even to the
-bundles of fierce paprika. These pests were to me a welcome diversion. I
-thinned their ranks by all sorts of means, which won me the unenviable
-distinction of rat-catcher in the community. At last, however, my course was completed, the misery ended, and I obtained the certificate of maturity which brought me to the crossroads.
+great man of laughter burst into tears... 
+
+My studies were continued at the higher Real Gymnasium in Carlstadt, Croatia, where one of my aunts resided. She was a distinguished lady, the wife of a Colonel who was an old war-horse having participated in many battles, I can never forget the three years I passed at their home. No fortress in time of war was under a more rigid discipline. I was fed like a canary bird. All the meals were of the highest quality and deliciously prepared, but short in quantity by a thousand percent. The slices of ham cut by my aunt were like tissue paper. When the Colonel would put something substantial on my plate she would snatch it away and say excitedly to him; "Be careful. Niko is very delicate." I had a voracious appetite and suffered like Tantalus. But I lived in an atmosphere of refinement and artistic taste quite unusual for those times and conditions. The land was low and marshy and malaria fever never left me while there despite the enormous amounts of quinine I consumed. Occasionally the river would rise and drive an army of rats into the buildings, devouring everything, even to the bundles of fierce paprika. These pests were to me a welcome diversion. I thinned their ranks by all sorts of means, which won me the unenviable distinction of rat-catcher in the community. At last, however, my course was completed, the misery ended, and I obtained the certificate of maturity which brought me to the crossroads.
 
 During all those years my parents never wavered in their resolve to
 make me embrace the clergy, the mere thought of which filled me with
@@ -313,30 +257,6 @@ mind? Such is my case. A powerful desire to live and to continue the
 work and the assistance of a devoted friend, an athlete, accomplished
 the wonder. 
 
-My health returned and with it the vigor of mind in
-attacking the problem again, I almost regretted that the struggle was soon to end. I had so much energy to spare. When I understood the task, it was not with a resolve such as men often make. With me it was a
-sacred vow, a question of life and death. I knew that I would perish if I
-failed. Now I felt that the battle was won. Back in the deep recesses of
-the brain was the solution, but I could net yet give it outward
-expression.
+My health returned and with it the vigor of mind in attacking the problem again, I almost regretted that the struggle was soon to end. I had so much energy to spare. When I understood the task, it was not with a resolve such as men often make. With me it was a sacred vow, a question of life and death. I knew that I would perish if I failed. Now I felt that the battle was won. Back in the deep recesses of the brain was the solution, but I could net yet give it outward expression.
 
-One afternoon, which is ever present in my recollection, I was enjoying
-a walk with my friend in the City Park and reciting poetry. At that age, I
-knew entire books by heart, word for word. One of these was Goethe's
-"Faust." The sun was just setting and reminded me of the glorious
-passage, "Sie ruckt und weight, der Tag ist uberlebt, Dort eilt sie hin und
-fordert neues Leben. Oh, da kein Flugel mich vom Boden hebt Ihr nach
-und immer nach zu streben! Ein schsner Traum indessen sie entweicht,
-Ach, au des Geistes Flygein wird so leicht Kein korperlicher Flugel sich
-gesellen!" As I uttered these inspiring words the idea came like a flash
-of lightening and in an instant the truth was revealed. I drew with a
-stick on the sand, the diagram shown six years later in my address
-before the American Institute of Electrical Engineers, and my companion
-understood them perfectly. The images I saw were wonderfully sharp
-and clear and had the solidity of metal and stone, so much so that I told
-him, "See my motor here; watch me reverse it." I cannot begin to
-describe my emotions. Pygmalion seeing his statue come to life could
-not have been more deeply moved. A thousand secrets of nature which I
-might have stumbled upon accidentally, I would have given for that one
-which I had wrested from her against all odds and at the peril of my
-existence...
+One afternoon, which is ever present in my recollection, I was enjoying a walk with my friend in the City Park and reciting poetry. At that age, I knew entire books by heart, word for word. One of these was Goethe's "Faust." The sun was just setting and reminded me of the glorious passage, "Sie ruckt und weight, der Tag ist uberlebt, Dort eilt sie hin und fordert neues Leben. Oh, da kein Flugel mich vom Boden hebt Ihr nach und immer nach zu streben! Ein schsner Traum indessen sie entweicht, Ach, au des Geistes Flygein wird so leicht Kein korperlicher Flugel sich gesellen!" As I uttered these inspiring words the idea came like a flash of lightening and in an instant the truth was revealed. I drew with a stick on the sand, the diagram shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly. The images I saw were wonderfully sharp and clear and had the solidity of metal and stone, so much so that I told him, "See my motor here; watch me reverse it." I cannot begin to describe my emotions. Pygmalion seeing his statue come to life could not have been more deeply moved. A thousand secrets of nature which I might have stumbled upon accidentally, I would have given for that one which I had wrested from her against all odds and at the peril of my existence...

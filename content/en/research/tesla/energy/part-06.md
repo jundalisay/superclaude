@@ -6,11 +6,12 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---
 
 
-THE ELECTRIC TRANSMISSION—THE GAS-ENGINE—THE COLD-COAL BATTERY.
+## The Electric Transmission—The Gas-Engine—The Cold-Coal Battery
 
 In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization. 
 
@@ -20,7 +21,11 @@ It now seems to me that to burn coal, however efficiently, in a battery would be
 
 We should be able to obtain the energy we need without consumption of material. But I am far from underrating the value of such an efficient method of burning fuel. At the present time most motive power comes from coal, and, either directly or by its products, it adds vastly to human energy. 
 
-Unfortunately, in all the process now adopted, the larger portion of the energy of the coal is uselessly dissipated. The best steam-engines utilize only a small part of the total energy. Even in gas-engines, in which, particularly of late, better results are obtainable, there is still a barbarous waste going on. In our electric-lighting systems we scarcely utilize one third of one per cent., and in lighting by gas a much smaller fraction, of the total energy of the coal. Considering the various uses of coal throughout the world, we certainly do not utilize more than two per cent. of its energy theoretically available. The man who should stop this senseless waste would be a great benefactor of humanity, though the solution he would offer could not be a permanent one, since it would ultimately lead to the exhaustion of the store of material. Efforts toward obtaining more energy from coal are now being made chiefly in two directions—by generating electricity and by producing gas for motive-power purposes. In both of these lines notable success has already been achieved.
+Unfortunately, in all the process now adopted, the larger portion of the energy of the coal is uselessly dissipated. The best steam-engines utilize only a small part of the total energy. Even in gas-engines, in which, particularly of late, better results are obtainable, there is still a barbarous waste going on. In our electric-lighting systems we scarcely utilize one third of one per cent., and in lighting by gas a much smaller fraction, of the total energy of the coal. Considering the various uses of coal throughout the world, we certainly do not utilize more than two per cent. of its energy theoretically available.
+
+The man who should stop this senseless waste would be a great benefactor of humanity, though the solution he would offer could not be a permanent one, since it would ultimately lead to the exhaustion of the store of material.
+
+Efforts toward obtaining more energy from coal are now being made chiefly in two directions—by generating electricity and by producing gas for motive-power purposes. In both of these lines notable success has already been achieved.
 
 The advent of the alternating-current system of electric power-transmission marks an epoch in the economy of energy available to man from coal. Evidently all electrical energy obtained from a waterfall, saving so much fuel, is a net gain to mankind, which is all the more effective as it is secured with little expenditure of human effort, and as this most perfect of all known methods of deriving energy from the sun contributes in many ways to the advancement of civilization. But electricity enables us also to get from coal much more energy than was practicable in the old ways. Instead of transporting the coal to distant places of consumption, we burn it near the mine, develop electricity in the dynamos, and transmit the current to remote localities, thus effecting a considerable saving.
 

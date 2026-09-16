@@ -5,11 +5,13 @@ writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
 c: "darkgoldenrod"
+icon: "Nikola Tesla"
 weight: 4
 ---
 
 
-A LECTURE DELIVERED BEFORE THE INSTITUTION OF ELECTRICAL ENGINEERS, LONDON.
+
+## A Lecture Delivered Before The Institution Of Electrical Engineers, London.
 
 NEW YORK: 1892
 
