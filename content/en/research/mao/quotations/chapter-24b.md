@@ -78,7 +78,7 @@ To regard oneself as having rendered great service to the revolution, to pride o
 
 To be aware of one's own mistakes and yet make no attempt to correct them, taking a liberal attitude towards oneself.
 
-<cite>"Combat Liberalism" (September 7, 1937), Selected Works, Vol. II, pp. 31-32.</cite>
+<cite style="text-align: right">"Combat Liberalism" (September 7, 1937), Selected Works, Vol. II, pp. 31-32.</cite>
 
 
 Liberalism is extreme]y harmful in a revolutionary collective. 
@@ -87,7 +87,7 @@ It is a corrosive which eats away unity, undermines cohesion, causes apathy and 
 
 It robs the revolutionary ranks of compact organization and strict discipline, prevents policies from being carried through and alienates the Party organizations from the masses which the Party leads. It is an extremely bad tendency.
 
-<cite>Ibid., p. 32.</cite>
+<cite style="text-align: right">Ibid., p. 32.</cite>
 
 
 Liberals look on the principles of Marxism as abstract dogma. They: 

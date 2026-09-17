@@ -5,12 +5,12 @@ date: 2024-12-28
 weight: 8
 image: /graphics/physics/spaces.jpg
 description: "Reality has 3 Operational Divisions"
+youtube: Qc42LmXKm64
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
 ---
-
 
 
 ## The Space of Identity
@@ -20,10 +20,6 @@ This is each idea or thought or identity of the Supreme within Existence. This i
 This is called:
 - Manas in Buddhism
 - Aham in Hinduism
-
-{{< youtube wJ-FjkzCI3o >}}
-
-
 
 
 The current sciences ignore the metaphysical domain, as well as the causal and subtle parts of reality. Instead, they focus solely on the crude physical domain. 
