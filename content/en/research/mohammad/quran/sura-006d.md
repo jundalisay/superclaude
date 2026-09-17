@@ -3,16 +3,24 @@ heading: "Sura 6c "
 title: "Details of the Rules on Food, such as Pork"
 weight: 63
 c: "maroon"
-description: "The wrongdoers set aside for Enki a share of the crops and the livestock He created"
+description: "We replace Allah with Enki"
 ---
 
 
-{{< s v="135" >}}  Say, “O my people! Work according to your ability, and so will I.” 
+{{< s v="135" >}}  Say:
+
+{{< r a="Mohammad" >}}
+O my people! Work according to your ability, and so will I.
+{{< /r >}}
 
 <!-- You will come to know to whom will belong the sequel of the
 abode.” The wrongdoers will not prevail. -->
 
-{{< s v="136" >}}  The wrongdoers set aside for Enki a share of the crops and the livestock He created, and they say, “This is for Enki,” according to their claim, “and this is for our idols.” 
+{{< s v="136" >}}  The wrongdoers set aside for Enki a share of the crops and the livestock He created. They say:
+
+{{< r a="Wrongdoers" >}}
+This is for Enki. This is for our idols.
+{{< /r >}}
 
 But the share of their idols does not reach Enki, yet the share of Enki reaches their idols. Evil is their judgment.
 
@@ -23,11 +31,13 @@ Had Enki willed, they would not have done it; so leave them to their fraud.
 
 <sup>138</sup> They say:
 
-“These animals and crops are restricted; none may eat them except those we permit,” 
+{{< r a="Wrongdoers" >}}
+These animals and crops are restricted. None may eat them except those we permit. 
+{{< /r >}}
 
-by their claims, and animals whose backs are forbidden, and animals over which they do not pronounce the name of Enki—fabricating lies against Him. 
 
-He will repay them for what they used to invent.
+Some other cattle are exempted from labour. Others are not slaughtered in Enki's Name—falsely attributing lies to Him. He will repay them for their lie.
+
 
 <sup>139</sup> They say, “What lies in the wombs of these animals is exclusively for our males, and prohibited to our wives.” 
 
@@ -49,18 +59,25 @@ Enki has provided for you, and do not follow the footsteps of Satan. He is to yo
 
 Say:
 
-“Did He forbid the two males, or the two females, or what the wombs of the two females contain? Inform me with knowledge, if you are truthful.”
+{{< r a="Mohammad" >}}
+Did He forbid the two males, or the two females, or what the wombs of the two females contain? Inform me with knowledge, if you are truthful.
+{{< /r >}}
+
 
 <sup>144</sup> And two of the camels, and two of the cattle. Say:
 
-“Did He forbid the two males, or the 2 females, or what the wombs of the two females contain? Were you present when Enki enjoined this upon you?” 
+{{< r a="Mohammad" >}}
+Did He forbid the two males, or the 2 females, or what the wombs of the two females contain? Were you present when Enki enjoined this upon you?
+{{< /r >}}
 
-Who does greater wrong than he who invents lies and attributes them to Enki, in order to mislead
-people without knowledge? Enki does not guide the wicked people.
+Who does greater wrong than he who invents lies and attributes them to Enki, in order to mislead people without knowledge? Enki does not guide the wicked people.
 
 <sup>145</sup> Say:
 
-“In what was revealed to me, I find nothing forbidden to a consumer who eats it, except carrion, or spilled blood, or the flesh of swine—because it is impure—or a sinful offering dedicated to other than Enki. But if someone is compelled by necessity, without being deliberate or malicious"
+{{< r a="Mohammad" >}}
+In what was revealed to me, I find nothing forbidden to a consumer who eats it, except carrion, or spilled blood, or the flesh of swine—because it is impure—or a sinful offering dedicated to other than Enki. But if someone is compelled by necessity, without being deliberate or malicious
+{{< /r >}}
+
 
 <sup>146</sup> To the Jews We forbade everything with claws. 
 
