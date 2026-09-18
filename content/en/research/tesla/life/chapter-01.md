@@ -12,31 +12,49 @@ The progressive development of man is vitally dependent on invention.
 
 It is the most important product of his creative brain. Its ultimate purpose is the complete mastery of mind over the material world, the harnessing of the forces of nature to human needs. 
 
-This is the difficult task of the inventor who is often misunderstood and unrewarded. But he finds ample compensation in the pleasing exercises of his powers and in the knowledge of being one of that exceptionally privileged class without whom the race would have long ago perished in the bitter struggle against pitiless elements.
+<!-- This is the difficult task of the inventor who is often misunderstood and unrewarded. But he finds ample compensation in the pleasing exercises of his powers and in the knowledge of being one of that exceptionally privileged class without whom the race would have long ago perished in the bitter struggle against pitiless elements.
 
-Speaking for myself, I have already had more than my full measure of this exquisite enjoyment; so much, that for many years my life was little short of continuous rapture. I am credited with being one of the hardest workers and perhaps I am, if thought is the equivalent of labour, for I have devoted to it almost all of my waking hours. But if work is interpreted to be a definite performance in a specified time according to a rigid rule, then I may be the worst of idlers.
+Speaking for myself, I have already had more than my full measure of this exquisite enjoyment; so much, that for many years my life was little short of continuous rapture. I am credited with being one of the hardest workers. 
 
-Every effort under compulsion demands a sacrifice of life-energy. I never paid such a price. On the contrary, I have thrived on my thoughts. In attempting to give a connected and faithful account of my activities in this story of my life, I must dwell, however reluctantly, on the impressions of my youth and the circumstances and events which have been instrumental in determining my career. 
+Perhaps I am, if thought is the equivalent of labour, for I have devoted to it almost all of my waking hours. But if work is interpreted to be a definite performance in a specified time according to a rigid rule, then I may be the worst of idlers.
 
-Our first endeavors are purely instinctive prompting of an imagination vivid and undisciplined. As we grow older reason asserts itself and we become more and more systematic and designing. But those early impulses, though not immediately productive, are of the greatest moment and may shape our very destinies. Indeed, I feel now that had I understood and cultivated instead of suppressing them, I would have added substantial value to my bequest to the world.
+Every effort under compulsion demands a sacrifice of life-energy. 
 
-But not until I had attained manhood did I realize that I was an inventor. This was due to a number of causes. In the first place I had a brother who was gifted to an extraordinary degree; one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my earth parents disconsolate. (I will explain my remark about my "earth parents" later.) 
+I never paid such a price. On the contrary, I have thrived on my thoughts. In attempting to give a connected and faithful account of my activities in this story of my life, I must dwell, however reluctantly, on the impressions of my youth and the circumstances and events which have been instrumental in determining my career. 
 
-We owned a horse which had been presented to us by a dear friend. It was a magnificent animal of Arabian breed, possessed of almost human intelligence, and was cared for and petted by the whole family, having on one occasion saved my dear father's life under remarkable circumstances.
+Our first endeavors are purely instinctive prompting of an imagination vivid and undisciplined. As we grow older reason asserts itself and we become more and more systematic and designing. But those early impulses, though not immediately productive, are of the greatest moment and may shape our very destinies.
+
+I feel now that had I understood and cultivated instead of suppressing them, I would have added substantial value to my bequest to the world. -->
+
+I only realized that I was an inventor after I became an adult.
+
+<!-- I had a gifted brother who died and left my parents disconsolate. (I will explain my remark about my "earth parents" later.) 
+
+We owned a horse gifted to us by a dear friend. It was a magnificent Arabian breed, had almost human intelligence, and was cared for and petted by the whole family, having on one occasion saved my dear father's life under remarkable circumstances.
 
 My father had been called one winter night to perform an urgent duty and while crossing the mountains, infested by wolves, the horse became frightened and ran away, throwing him violently to the ground. 
 
-It arrived home bleeding and exhausted, but after the alarm was sounded, immediately dashed off again, returning to the spot, and before the searching party were far on the way they were met by my father, who had recovered consciousness and remounted, not realizing that he had been lying in the snow for several hours. This horse was responsible for my brother's injuries from which he died. I witnessed the tragic scene and although so many years have elapsed since, my visual impression of it has lost none of its force. The recollection of his attainments made every effort of mine seem dull in comparison. Anything I did that was creditable merely caused my parents to feel their loss more keenly. So I grew up with little confidence in myself.
+It arrived home bleeding and exhausted, but after the alarm was sounded, immediately dashed off again, returning to the spot. Before the searching party were far on the way they were met by my father, who had recovered consciousness and remounted, not realizing that he had been lying in the snow for several hours.
+
+This horse was responsible for my brother's injuries from which he died. I witnessed the tragic scene and although so many years have elapsed since, my visual impression of it has lost none of its force. The recollection of his attainments made every effort of mine seem dull in comparison. Anything I did that was creditable merely caused my parents to feel their loss more keenly. So I grew up with little confidence in myself.
 
 But I was far from being considered a stupid boy, if I am to judge from an incident of which I have still a strong remembrance. One day the Aldermen were passing through a street where I was playing with other boys. The oldest of these venerable gentlemen, a wealthy citizen, paused to give a silver piece to each of us. Coming to me, he suddenly stopped and commanded, "Look in my eyes." I met his gaze, my hand outstretched to receive the much valued coin, when to my dismay, he said, "No, not much; you can get nothing from me. You are too smart."
 
 They used to tell a funny story about me. I had two old aunts with wrinkled faces, one of them having two teeth protruding like the tusks of an elephant, which she buried in my cheek every time she kissed me.
 
-Nothing would scare me more then the prospects of being by these affectionate, unattractive relatives. It happened that while being carried in my mother's arms, they asked who was the prettier of the two. After examining their faces intently, I answered thoughtfully, pointing to one of them, "This here is not as ugly as the other."
+Nothing would scare me more then the prospects of being by these affectionate, unattractive relatives. It happened that while being carried in my mother's arms, they asked who was the prettier of the two. After examining their faces intently, I answered thoughtfully, pointing to one of them, "This here is not as ugly as the other." -->
 
-Then again, I was intended from my very birth, for the clerical profession and this thought constantly oppressed me. I longed to be an engineer, but my father was inflexible. He was the son of an officer who served in the army of the Great Napoleon and in common with his brother, professor of mathematics in a prominent institution, had received a military education; but, singularly enough, later embraced the clergy in which vocation he achieved eminence. He was a very erudite man, a veritable natural philosopher, poet and writer and his sermons were said to be as eloquent as those of Abraham a-Sancta-Clara.
+I was intended from my very birth, for the clerical profession. This thought constantly oppressed me. 
 
-He had a prodigious memory and frequently recited at length from works in several languages. He often remarked playfully that if some of the classics were lost he could restore them. His style of writing was much admired. He penned sentences short and terse and full of wit and satire. The humorous remarks he made were always peculiar and characteristic. Just to illustrate, I may mention one or two instances. Among the help, there was a cross-eyed man called Mane, employed to do work around the farm. He was chopping wood one day. As he swung the axe, my father, who stood nearby and felt very uncomfortable, cautioned him, "For God's sake, Mane, do not strike at what you are looking but at what you intend to hit."
+I longed to be an engineer, but my father was inflexible. He was the son of an officer who served in the army of the Great Napoleon and in common with his brother, professor of mathematics in a prominent institution, had received a military education.
+
+But, singularly enough, later embraced the clergy in which vocation he achieved eminence. He was a very erudite man, a veritable natural philosopher, poet and writer and his sermons were said to be as eloquent as those of Abraham a-Sancta-Clara.
+
+He had a prodigious memory and frequently recited at length from works in several languages. He often remarked playfully that if some of the classics were lost he could restore them. His style of writing was much admired. 
+
+He penned sentences short and terse and full of wit and satire. The humorous remarks he made were always peculiar and characteristic. Just to illustrate, I may mention one or two instances. 
+
+Among the help, there was a cross-eyed man called Mane, employed to do work around the farm. He was chopping wood one day. As he swung the axe, my father, who stood nearby and felt very uncomfortable, cautioned him, "For God's sake, Mane, do not strike at what you are looking but at what you intend to hit."
 
 On another occasion he was taking out for a drive, a friend who carelessly permitted his costly fur coat to rub on the carriage wheel. My father reminded him of it saying, "Pull in your coat; you are ruining my tire." He had the odd habit of talking to himself and would often carry on an animated conversation and indulge in heated argument, changing the tone of his voice. A casual listener might have sworn that several people were in the room. 
 
@@ -70,11 +88,29 @@ Soon I became aware, to my surprise, that every thought I conceived was suggeste
 
 I was about twelve years of age when I first succeeded in banishing an image from my vision by willful effort, but I never had any control over the flashes of light to which I have referred. They were, perhaps, my strangest and [most] inexplicable experience. They usually occurred when I found myself in a dangerous or distressing situations or when i was greatly exhilarated. In some instances i have seen all the air around me filled with tongues of living flame. Their intensity, instead of diminishing, increased with time and seemingly attained a maximum when I was about twenty-five years old.
 
-While in Paris in 1883, a prominent French manufacturer sent me an invitation to a shooting expedition which I accepted. I had been long confined to the factory and the fresh air had a wonderfully invigorating effect on me. On my return to the city that night, I felt a positive sensation that my brain had caught fire. I was a light as though a small sun was located in it and I passed the whole night applying cold compressions to my tortured head. Finally the flashes diminished in frequency and force but it took more than three weeks before they wholly subsided. When a second invitation was extended to me, my answer was an emphatic NO!
+While in Paris in 1883, a prominent French manufacturer invited me to a shooting expedition.
 
-These luminous phenomena still manifest themselves from time to time, as when a new idea opening up possibilities strikes me, but they are no longer exciting, being of relatively small intensity. When I close my eyes I invariably observe first, a background of very dark and uniform blue, not unlike the sky on a clear but starless night. In a few seconds this field becomes animated with innumerable scintillating flakes of green, arranged in several layers and advancing towards me. Then there appears, to the right, a beautiful pattern of two systems of parallel and closely spaced lines, at right angles to one another, in all sorts of colors with yellow, green, and gold predominating.
+ <!-- which I accepted. I had been long confined to the factory and the fresh air had a wonderfully invigorating effect on me.  -->
 
-Immediately thereafter, the lines grow brighter and the whole is thickly sprinkled with dots of twinkling light. This picture moves slowly across the field of vision and in about ten seconds vanishes on the left, leaving behind a ground of rather unpleasant and inert grey until the second phase is reached. Every time, before falling asleep, images of persons or objects flit before my view. When I see them I know I am about to lose consciousness. If they are absent and refuse to come, it means a sleepless night. To what an extent imagination played in my early life, I may illustrate by another odd experience.
+On my return to the city that night, I felt a positive sensation that my brain had caught fire. 
+- I was a light as though a small sun was located in it and I passed the whole night applying cold compressions to my tortured head.
+0 Finally the flashes diminished in frequency and force but it took more than 3 weeks before they wholly subsided. 
+
+When a second invitation was extended to me, my answer was an emphatic NO!
+
+These luminous phenomena still manifest themselves from time to time, as when a new idea opening up possibilities strikes me, but they are no longer exciting, being of relatively small intensity. 
+
+When I close my eyes I invariably observe first, a background of very dark and uniform blue, not unlike the sky on a clear but starless night. 
+
+In a few seconds this field becomes animated with innumerable scintillating flakes of green, arranged in several layers and advancing towards me. 
+- Then there appears, to the right, a beautiful pattern of two systems of parallel and closely spaced lines, at right angles to one another, in all sorts of colors with yellow, green, and gold predominating.
+- Immediately thereafter, the lines grow brighter and the whole is thickly sprinkled with dots of twinkling light.
+
+This picture moves slowly across the field of vision and in about 10 seconds vanishes on the left, leaving behind a ground of rather unpleasant and inert grey until the second phase is reached. 
+
+Every time, before falling asleep, images of persons or objects flit before my view. 
+
+When I see them I know I am about to lose consciousness. If they are absent and refuse to come, it means a sleepless night. To what an extent imagination played in my early life, I may illustrate by another odd experience.
 
 Like most children, I was fond of jumping and developed an intense desire to support myself in the air. Occasionally a strong wind richly charged with oxygen blew from the mountains, rendering my body light as cork and then I would leap and float in space for a long time. 
 
