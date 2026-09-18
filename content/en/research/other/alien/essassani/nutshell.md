@@ -9,7 +9,7 @@ description: "This is for people who have no knowledge of aliens or vibrations o
 
 
 
-The Sassani are a 4th density alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
+The Sassani are an advanced 4th density alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
 
 They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. 
 

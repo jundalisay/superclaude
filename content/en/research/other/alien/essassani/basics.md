@@ -8,7 +8,7 @@ featured: true
 ---
 
 
-The Sassani are an advanced 5th dimensional alien species from the planet Sassani in the Shah star system near Orion's belt in a parallel reality.
+The Sassani are an advanced 4th density alien species from the planet Sassani in the Shah star system near Orion's belt in a parallel reality.
 
 They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
@@ -22,7 +22,7 @@ Superphysics is based on David Hume's maxim that **mentality creates reality**. 
 
 (We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Sassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
 
-However, no one seems to be keen enough to notice that **their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans**.
+However, no one seems to be keen enough to notice that **their principles are designed for 4th and 5th density beings and not 3rd density ones like humans**.
 
 Unlike the Sassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
 
@@ -35,6 +35,8 @@ We can think of the Sassani as the latest iPhones capable of playing EXCITING ga
 Proof of this is the many questions of people using the formula but **STILL** unable to get the money they need. Some even quit their jobs, being drawn by the powerful Sassani high vibration to chase their dreams, and end up miserable when they realize they are still stuck in low vibration, with bad finances. 
 
 Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams.
+
+We suggest that only those who can "do a Buddha" -- those who can willingly reject wealth, pleasures, fame, comfort in order to embrace the unknown -- should really go into Bashar's method. If you are not as strong-minded or determined as Buddha, then just grab what ideas resonate with you, not the whole 4th density system. 
 
 The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened negative ego that is in all humans**. 
 

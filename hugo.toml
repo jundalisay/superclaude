@@ -342,6 +342,7 @@ defaultContentLanguageInSubdir = false
   # commentAction = "https://usebasin.com/f/ac926f8e1f10"
   commentAction = "https://pantrypoints.com/api/external"
   
+  
   sections = [
     { key = "research", url = "/research" },
     { key = "superphysics", url = "/superphysics" },
@@ -355,7 +356,8 @@ defaultContentLanguageInSubdir = false
     { key = "bio", url = "/bio" },
     { key = "about", url = "/about" },
     { key = "news", url = "/news" },
-    { key = "faqs", url = "/faqs" },        
+    { key = "faqs", url = "/faqs" },
+    { key = "tags", url = "/tags" },          # <-- Add this line
   ]
 
 
