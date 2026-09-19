@@ -48,7 +48,7 @@ I was intended from my very birth, for the clerical profession. This thought con
 
 I longed to be an engineer, but my father was inflexible. He was the son of an officer who served in the army of the Great Napoleon and in common with his brother, professor of mathematics in a prominent institution, had received a military education.
 
-But, singularly enough, later embraced the clergy in which vocation he achieved eminence. He was a very erudite man, a veritable natural philosopher, poet and writer and his sermons were said to be as eloquent as those of Abraham a-Sancta-Clara.
+<!-- But, singularly enough, later embraced the clergy in which vocation he achieved eminence. He was a very erudite man, a veritable natural philosopher, poet and writer and his sermons were said to be as eloquent as those of Abraham a-Sancta-Clara.
 
 He had a prodigious memory and frequently recited at length from works in several languages. He often remarked playfully that if some of the classics were lost he could restore them. His style of writing was much admired. 
 
@@ -61,32 +61,90 @@ On another occasion he was taking out for a drive, a friend who carelessly permi
 Although I must trace to my mother's influence whatever inventiveness I possess, the training he gave me must have been helpful. It comprised all sorts of exercises - as, guessing one another's thoughts, discovering the defects of some form of expression, repeating long sentences or performing mental calculations. These daily lessons were intended to strengthen memory and reason, and especially to develop the critical sense, and were undoubtedly very beneficial. My mother descended from one of the oldest families in the country and a line of inventors. 
 
 Both her father and grandfather originated numerous implements for household, agricultural and other uses. She was a truly great woman, of rare skill, courage and fortitude, who had braved the storms of life and passed through many a trying experience. When she was sixteen, a virulent pestilence swept the country. Her father was called away to administer the last sacraments to the dying and during his absence she went alone to the assistance of a neighboring family who were stricken by the dread disease. She bathed, clothed and laid out the bodies, decorating them with flowers according to the custom of the country and when her father returned he found everything ready for a Christian burial.
+ -->
 
-My mother was an inventor of the first order and would, I believe, have achieved great things had she not been so remote from modern life and its multi fold opportunities. She invented and constructed all kinds of tools and devices and wove the finest designs from thread which was spun by her. She even planted seeds, raised the plants and separated the fibbers herself. She worked indefatigably, from break of day till late at night, and most of the wearing apparel and furnishings of the home were the product of her hands. 
+My mother was an inventor of the first order. She would have achieved great things had she not been so remote from modern life and its opportunities.
 
-When she was past sixty, her fingers were still nimble enough to tie three knots in an eyelash. There was another and still more important reason for my late awakening. In my boyhood I suffered from a peculiar affliction due to the appearance of images, often accompanied by strong flashes of light, which marred the sight of real objects and interfered with my thoughts and action. They were pictures of things and scenes which i had really seen, never of those imagined. When a word was spoken to me the image of the object it designated would present itself vividly to my vision and sometimes I was quite unable to distinguish weather what I saw was tangible or not.
+She invented and constructed all kinds of tools and devices and wove the finest designs from thread which was spun by her. She even planted seeds, raised the plants and separated the fibbers herself. She worked indefatigably, from break of day till late at night, and most of the wearing apparel and furnishings of the home were the product of her hands. 
+
+When she was past sixty, her fingers were still nimble enough to tie 3 knots in an eyelash.
+
+There was another and still more important reason for my late awakening.
+
+
+### Strange Visions
+
+In my boyhood I suffered from an affliction due to the appearance of images. These were often accompanied by strong flashes of light, which marred the sight of real objects and interfered with my thoughts and action.
+
+They were pictures of things and scenes which I had really seen, never of those imagined. When a word was spoken to me the image of the object it designated would present itself vividly to my vision and sometimes I was quite unable to distinguish weather what I saw was tangible or not.
 
 This caused me great discomfort and anxiety. None of the students of psychology or physiology whom i have consulted, could ever explain satisfactorily these phenomenon. They seem to have been unique although I was probably predisposed as I know that my brother experienced a similar trouble. The theory I have formulated is that the images were the result of a reflex action from the brain on the retina under great excitation. 
 
-They certainly were not hallucinations such as are produced in diseased and anguished minds, for in other respects i was normal and composed. To give an idea of my distress, suppose that I had witnessed a funeral or some such nerve-wracking spectacle. The, inevitably, in the stillness of night, a vivid picture of the scene would thrust itself before my eyes and persist despite all my efforts to banish it. If my explanation is correct, it should be possible to project on a screen the image of any object one conceives and make it visible. Such an advance would revolutionize all human relations. I am convinced that this wonder can and will be accomplished in time to come. I may add that I have devoted much thought to the solution of the problem.
+They certainly were not hallucinations such as are produced in diseased and anguished minds, for in other respects i was normal and composed. To give an idea of my distress, suppose that I had witnessed a funeral or some such nerve-wracking spectacle. 
 
-I have managed to reflect such a picture, which i have seen in my mind, to the mind of another person, in another room. To free myself of these tormenting appearances, I tried to concentrate my mind on something else I had seen, and in this way I would often obtain temporary relief; but in order to get it I had to conjure continuously new images. It was not long before I found that I had exhausted all of those at my command; my 'reel' had run out as it were, because I had seen little of the world -- only objects in my home and the immediate surroundings. As I performed these mental operations for the second or third time, in order to chase the appearances from my vision, the remedy gradually lost all its force. Then I instinctively commenced to make excursions beyond the limits of the small world of which I had knowledge, and I saw new scenes. These were at first very blurred and indistinct, and would flit away when I tried to concentrate my attention upon them.
+The, inevitably, in the stillness of night, a vivid picture of the scene would thrust itself before my eyes and persist despite all my efforts to banish it. If my explanation is correct, it should be possible to project on a screen the image of any object one conceives and make it visible. Such an advance would revolutionize all human relations. I am convinced that this wonder can and will be accomplished in time to come. I may add that I have devoted much thought to the solution of the problem.
+
+I have managed to reflect such a picture, which i have seen in my mind, to the mind of another person, in another room. To free myself of these tormenting appearances, I tried to concentrate my mind on something else I had seen, and in this way I would often obtain temporary relief; but in order to get it I had to conjure continuously new images. It was not long before I found that I had exhausted all of those at my command; my 'reel' had run out as it were, because I had seen little of the world -- only objects in my home and the immediate surroundings. 
+
+As I performed these mental operations for the second or third time, in order to chase the appearances from my vision, the remedy gradually lost all its force. Then I instinctively commenced to make excursions beyond the limits of the small world of which I had knowledge, and I saw new scenes. These were at first very blurred and indistinct, and would flit away when I tried to concentrate my attention upon them.
 
 They gained in strength and distinctness and finally assumed the concreteness of real things. I soon discovered that my best comfort was attained if I simply went on in my vision further and further, getting new impressions all the time, and so I began to travel; of course, in my mind. Every night, (and sometimes during the day), when alone, I would start on my journeys -- see new places, cities and countries; live there, meet people and make friendships and acquaintances and, however unbelievable, it is a fact that they were just as dear to me as those in actual life, and not a bit less intense in their manifestations. 
 
-This I did constantly until I was about seventeen, when my thoughts turned seriously to invention. Then I observed to my delight that i could visualize with the greatest facility. I needed no models, drawings or experiments. I could picture them all as real in my mind. Thus I have been led unconsciously to evolve what I consider a new method of materializing inventive concepts and ideas, which is radially opposite to the purely experimental and is in my opinion ever so much more expeditious and efficient.
+This I did constantly until I was about 17, when my thoughts turned seriously to invention.
 
-The moment one constructs a device to carry into practice a crude idea, he finds himself unavoidably engrossed with the details of the apparatus. As he goes on improving and reconstructing, his force of concentration diminishes and he loses sight of the great underlying principle. Results may be obtained, but always at the sacrifice of quality. My method is different. I do not rush into actual work. When I get an idea, I start at once building it up in my imagination. I change the construction, make improvements and operate the device in my mind. It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop. 
+
+### Special Visualization Skill
+
+Then I observed that i could visualize easily. I needed no models, drawings or experiments. I could picture them all as real in my mind.
+
+Thus I have been led unconsciously to evolve what I consider a new method of materializing inventive concepts and ideas, which is radially opposite to the purely experimental and is in my opinion ever so much more expeditious and efficient.
+
+When we construct something to realize a crude idea, we are unavoidably engrossed with the details of the apparatus.
+- As we improve and reconstruct it, our concentration diminishes and we lose sight of the great underlying principle. 
+
+Results may be obtained, but always at the sacrifice of quality.
+
+My method is different. 
+
+I do not rush into actual work. When I get an idea, I start at once building it up in my imagination. 
+
+I change the construction, make improvements and operate the device in my mind. It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop. 
 
 I even note if it is out of balance. There is no difference whatever; the results are the same. In this way I am able to rapidly develop and perfect a conception without touching anything. When I have gone so far as to embody in the invention every possible improvement I can think of and see no fault anywhere, I put into concrete form this final product of my brain. 
 
-Invariably my device works as I conceived that it should, and the experiment comes out exactly as I planned it. In twenty years there has not been a single exception. Why should it be otherwise? Engineering, electrical and mechanical, is positive in results. There is scarcely a subject that cannot be examined beforehand, from the available theoretical and practical data. The carrying out into practice of a crude idea as is being generally done, is, I hold, nothing but a waste of energy, money, and time.
+Invariably my device works as I conceived that it should, and the experiment comes out exactly as I planned it. In twenty years there has not been a single exception. Why should it be otherwise? 
 
-My early affliction had however, another compensation. The incessant mental exertion developed my powers of observation and enabled me to discover a truth of great importance. I had noted that the appearance of images was always preceded by actual vision of scenes under peculiar and generally very exceptional conditions, and I was impelled on each occasion to locate the original impulse. After a while this effort grew to be almost automatic and I gained great facility in connecting cause and effect.
+Engineering, electrical and mechanical, is positive in results. There is scarcely a subject that cannot be examined beforehand, from the available theoretical and practical data. 
 
-Soon I became aware, to my surprise, that every thought I conceived was suggested by an external impression. Not only this but all my actions were prompted in a similar way. In the course of time it became perfectly evident to me that I was merely an automation endowed with power of movement responding to the stimuli of the sense organs and thinking and acting accordingly. The practical result of this was the art of tele automatics which has been so far carried out only in an imperfect manner. Its latent possibilities will, however be eventually shown. I have been years planning self-controlled automata and believe that mechanisms can be produced which will act as if possessed of reason, to a limited degree, and will create a revolution in many commercial and industrial departments.
+The carrying out into practice of a crude idea as is being generally done, is, I hold, nothing but a waste of energy, money, and time.
 
-I was about twelve years of age when I first succeeded in banishing an image from my vision by willful effort, but I never had any control over the flashes of light to which I have referred. They were, perhaps, my strangest and [most] inexplicable experience. They usually occurred when I found myself in a dangerous or distressing situations or when i was greatly exhilarated. In some instances i have seen all the air around me filled with tongues of living flame. Their intensity, instead of diminishing, increased with time and seemingly attained a maximum when I was about twenty-five years old.
+
+### Special Cause and Effect Skill
+
+My early affliction had however, another compensation. 
+
+The incessant mental exertion:
+- developed my powers of observation
+- enabled me to discover an important truth
+
+The appearance of images was always preceded by actual vision of scenes under peculiar and very exceptional conditions. I was impelled on each occasion to locate the original impulse.
+
+After a while, this effort grew to be almost automatic and I gained great facility in connecting cause and effect.
+
+Soon I became aware, to my surprise, that:
+- **every thought I conceived was suggested by an external impression.** 
+- all my actions were prompted in a similar way.
+
+{{< n n="This is the same realization that David Hume wrote of in the Treatise of Human Nature" >}}
+
+
+In time, I realized that I was merely an automation endowed with power of movement responding to the stimuli of the sense organs and thinking and acting accordingly.
+
+The practical result of this was the art of tele automatics which has been so far carried out only in an imperfect manner. Its latent possibilities will, however be eventually shown. I have been years planning self-controlled automata and believe that mechanisms can be produced which will act as if possessed of reason, to a limited degree, and will create a revolution in many commercial and industrial departments.
+
+I was about 12 years old when I first succeeded in banishing an image from my vision by willful effort, but I never had any control over the flashes of light to which I have referred. 
+
+They were, perhaps, my strangest and [most] inexplicable experience. They usually occurred when I found myself in a dangerous or distressing situations or when i was greatly exhilarated. In some instances i have seen all the air around me filled with tongues of living flame. Their intensity, instead of diminishing, increased with time and seemingly attained a maximum when I was about twenty-five years old.
 
 While in Paris in 1883, a prominent French manufacturer invited me to a shooting expedition.
 

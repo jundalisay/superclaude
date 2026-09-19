@@ -85,12 +85,7 @@ But as I recall these incidents to my mind I feel convinced that my preservation
 
 An inventor's endeavor is essentially to save lives.
 
-Whether he harnesses forces, improves devices, or provides new
-comforts and conveniences, he is adding to the safety of our existence.
-He is also better qualified than the average individual to protect himself
-in peril, for he is observant and resourceful. If I had no other evidence
-that I was, in a measure, possessed of such qualities, I would find it in
-these personal experiences. 
+Whether he harnesses forces, improves devices, or provides new comforts and conveniences, he is adding to the safety of our existence. He is also better qualified than the average individual to protect himself in peril, for he is observant and resourceful. If I had no other evidence that I was, in a measure, possessed of such qualities, I would find it in these personal experiences.
 
 The reader will be able to judge for himself
 if I mention one or two instances.
@@ -143,27 +138,9 @@ masonry, however, I was horrified to observe that the water had risen
 and was carrying me along swiftly. I tried to get away but it was too
 late. 
 
-Luckily, though, I saved myself from being swept over by taking
-hold of the wall with both hands. The pressure against my chest was
-great and I was barely able to keep my head above the surface. Not a
-soul was in sight and my voice was lost in the roar of the fall. Slowly and
-gradually I became exhausted and unable to withstand the strain longer.
-Just as I was about to let go, to be dashed against the rocks below, I
-saw in a flash of light a familiar diagram illustrating the hydraulic
-principle that the pressure of a fluid in motion is proportionate to the
-area exposed and automatically I turned on my left side. 
+Luckily, though, I saved myself from being swept over by taking hold of the wall with both hands. The pressure against my chest was great and I was barely able to keep my head above the surface. Not a soul was in sight and my voice was lost in the roar of the fall. Slowly and gradually I became exhausted and unable to withstand the strain longer. Just as I was about to let go, to be dashed against the rocks below, I saw in a flash of light a familiar diagram illustrating the hydraulic principle that the pressure of a fluid in motion is proportionate to the area exposed and automatically I turned on my left side.
 
-As if by magic, the pressure was reduced and I found it comparatively easy in that
-position to resist the force of the stream. But the danger still confronted
-me. I knew that sooner or later I would be carried down, as it was not
-possible for any help to reach me in time, even if I had attracted
-attention. I am ambidextrous now, but then I was left-handed and had
-comparatively little strength in my right arm. For this reason I did not
-dare to turn on the other side to rest and nothing remained but to slowly
-push my body along the dam. I had to get away from the mill towards
-which my face was turned, as the current there was much swifter and
-deeper. It was a long and painful ordeal and I came near to failing at its
-very end, for I was confronted with a depression in the masonry. 
+As if by magic, the pressure was reduced and I found it comparatively easy in that position to resist the force of the stream. But the danger still confronted me. I knew that sooner or later I would be carried down, as it was not possible for any help to reach me in time, even if I had attracted attention. I am ambidextrous now, but then I was left-handed and had comparatively little strength in my right arm. For this reason I did not dare to turn on the other side to rest and nothing remained but to slowly push my body along the dam. I had to get away from the mill towards which my face was turned, as the current there was much swifter and deeper. It was a long and painful ordeal and I came near to failing at its very end, for I was confronted with a depression in the masonry.
 
 I managed to get over with the last ounce of my strength and fell in a
 swoon when I reached the bank, where I was found. I had torn virtually
