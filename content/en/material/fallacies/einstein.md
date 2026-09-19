@@ -43,15 +43,15 @@ From the 5 Elements model, there are 3 kinds of time:
 
 1. Mental time
 
-This is true time, based on the Aether or 5th Element
+This is true time, based on the Pure Aether or 5th Element (as opposed to the aether as 'crude' aether which is the 2nd Element of Descartes)
 
 2. Light time
 
-This is light-years and light-speed used to measure very large distances. It is also the basis of relativistic time. This is the Fire Element. 
+This is light-years and light-speed used to measure very large distances. It is also the basis of relativistic time. This is the Fire Element or 1st Element of Descartes. 
 
 3. Material time
 
-This is absolute time in Classical Mechanics. This is the Matter or Earth Element. 
+This is absolute time in Classical Mechanics. This is the Matter or Earth Element or 3rd Element of Descartes. 
 
 
 **By pegging time to light, the 2 Elements of spacetime and aether are lost forever.** This leads to the lack of anti-gravity and teleportation technology.

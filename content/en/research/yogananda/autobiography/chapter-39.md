@@ -1,7 +1,7 @@
 ---
 title: "Therese Neumann, The Catholic Stigmatist"
 heading: Chapter 39
-description: ""
+description: "Yogananda visits the breatharian Therese Neumann"
 c: "indigo"
 author: "Yogananda"
 weight: 338
@@ -33,9 +33,12 @@ I shall be back. Never shall I forget America.
 {{< /l >}}
 
 
-At a farewell banquet given to me in Los Angeles by loving friends, I looked long at their faces and thought gratefully:
+At a farewell banquet given to me in Los Angeles by loving friends, I thought gratefully:
 
-“Lord, he who remembers Thee as the Sole Giver will never lack the sweetness of friendship among mortals.”
+{{< l a="Yogananda" >}}
+Lord, he who remembers You as the Sole Giver will never lack the sweetness of friendship among mortals.
+{{< /l >}}
+
 
 I sailed from New York on June 9, 1935 in the Europa.
 
@@ -91,102 +94,107 @@ Therese’s little cottage, clean and neat, with geraniums blooming by a primiti
 
 The neighbors, and even the village postman who passed by, could give us no information. Rain began to fall; my companions suggested that we leave.
 
+{{< l a="Yogananda" >}}
+No, I will stay here until I find some clue leading to Therese.
+{{< /l >}}
 
-“No,” I said stubbornly, “I will stay here until I find some clue leading to Therese.”
 
-Two hours later we were still sitting in our car amidst the dismal rain. “Lord,” I sighed complainingly, “why did You lead me here if she has disappeared?”
+Two hours later we were still sitting in our car amidst the dismal rain. 
+
+{{< l a="Yogananda" >}}
+Lord, “why did You lead me here if she has disappeared?
+{{< /l >}}
+
 
 An English-speaking man halted beside us, politely offering his aid.
 
-“I don’t know for certain where Therese is,” he said, “but she often visits at the home of Professor Wurz, a seminary master of Eichstatt, eighty miles from here.”
+
+{{< r a="Man" >}}
+I don’t know where Therese is. But she often visits at the home of Professor Wurz, a seminary master of Eichstatt, 80 miles from here.
+{{< /r >}}
 
 The following morning our party motored to the quiet village of Eichstatt, narrowly lined with cobblestoned streets. 
 
 Dr. Wurz greeted us cordially at his home.
 
-“Yes, Therese is here.” He sent her word of the visitors. A messenger soon appeared with her reply.
+{{< r a="Professor Wurz" >}}
+Yes, Therese is here.
+{{< /r >}}
 
-“Though the bishop has asked me to see no one without his permission, I will receive the man of God from India.”
+He sent her word of the visitors. A messenger soon appeared with her reply.
+
+{{< r a="Messenger" >}}
+Though the bishop has asked me to see no one without his permission, I will receive the man of God from India.
+{{< /r >}}
 
 Deeply touched at these words, I followed Dr. Wurz upstairs to the sitting room. Therese entered immediately, radiating an aura of peace and joy. 
 
-She wore a black gown and spotless white head dress. 
+She wore a black gown and spotless white head dress. She was 37 at this time. But she seemed much younger, possessing indeed a childlike freshness and charm. Healthy, well-formed, rosy-cheeked, and cheerful, this is the saint that does not eat!
 
-She was 37 at this time. But she seemed much younger, possessing indeed a childlike freshness and charm. 
-
-Healthy, well-formed, rosy-cheeked, and cheerful, this is the saint that does not eat!
-
-Therese greeted me with a very gentle handshaking. We both beamed in silent communion, each knowing the other to be a lover of God.
-
-Dr. Wurz kindly offered to serve as interpreter. As we seated ourselves, I noticed that Therese was glancing at me with naive curiosity; evidently Hindus had been rare in Bavaria.
-
+Therese greeted me with a very gentle handshaking. We both beamed in silent communion, each knowing the other to be a lover of God. Dr. Wurz kindly offered to serve as interpreter. As we seated ourselves, I noticed that Therese was glancing at me with naive curiosity; evidently Hindus had been rare in Bavaria.
 
 {{< l a="Yogananda" >}}
 Don’t you eat anything?
 {{< /l >}}
 
-
-“No, except a consecrated rice-flour wafer, once every morning at 6am.”
+{{< r a="Therese Neumann" >}}
+No, except a consecrated rice-flour wafer, once every morning at 6am.
+{{< /r >}}
 
 {{< l a="Yogananda" >}}
 How large is the wafer?
 {{< /l >}}
 
-
-“It is paper-thin, the size of a small coin. I take it for sacramental reasons; if it is unconsecrated, I am unable to swallow it.”
-
+{{< r a="Therese Neumann" >}}
+It is paper-thin, the size of a small coin. I take it for sacramental reasons; if it is unconsecrated, I am unable to swallow it.
+{{< /r >}}
 
 {{< l a="Yogananda" >}}
 Certainly you could not have lived on that, for 12 whole years?
 {{< /l >}}
 
-
-“I live by God’s light.” 
+{{< r a="Therese Neumann" >}}
+I live by God’s light.
+{{< /r >}}
 
 <!-- How simple her reply, how Einsteinian! -->
-
 
 {{< l a="Yogananda" >}}
 I see you realize that energy flows to your body from the ether, sun, and air.
 {{< /l >}}
 
-
-A swift smile broke over her face. “I am so happy to know you understand how I live.”
-
+{{< r a="Therese Neumann" >}}
+[smiling] I am so happy to know you understand how I live.
+{{< /r >}}
 
 {{< l a="Yogananda" >}}
 Your sacred life is a daily demonstration of the truth uttered by Christ: ‘Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.’” 39-3
 {{< /l >}}
 
+<!-- Again she showed joy at my explanation.  -->
 
-Again she showed joy at my explanation. 
-
-“It is indeed so. One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.”
-
+{{< r a="Therese Neumann" >}}
+Yes. One of the reasons I am here on earth today is to prove that man can live by God’s invisible light, and not by food only.
+{{< /r >}}
 
 {{< l a="Yogananda" >}}
 Can you teach others how to live without food?
 {{< /l >}}
 
+{{< r a="Therese Neumann" >}}
+[shocked] I cannot do that; God does not wish it.
+{{< /r >}}
+
+As my gaze fell on her strong, graceful hands, Therese showed me a little, square, freshly healed wound on each of her palms. On the back of each hand, she pointed out a smaller, crescent-shaped wound, freshly healed. Each wound went straight through the hand. 
+
+The sight brought to my mind distinct recollection of the large square iron nails with crescent-tipped ends, still used in the Orient, but which I do not recall having seen in the West. She told me something of her weekly trances. 
+
+{{< r a="Therese Neumann" >}}
+As a helpless onlooker, I observe the whole Passion of Christ.
+{{< /r >}}
 
 
-She appeared a trifle shocked. “I cannot do that; God does not wish it.”
-
-As my gaze fell on her strong, graceful hands, Therese showed me a little, square, freshly healed wound on each of her palms. 
-
-On the back of each hand, she pointed out a smaller, crescent-shaped wound, freshly healed. Each wound went straight through the hand. 
-
-The sight brought to my mind distinct recollection of the large square iron nails with crescent-tipped ends, still used in the Orient, but which I do not recall having seen in the West.
-
-The saint told me something of her weekly trances. 
-
-
-“As a helpless onlooker, I observe the whole Passion of Christ.” 
-
-
-Each week, from Thursday midnight until Friday afternoon at 1pm, her wounds open and bleed.
-
-She loses 10 pounds of her ordinary 121-pound weight. 
+Each week, from Thursday midnight until Friday afternoon at 1pm, her wounds open and bleed. She loses 10 pounds of her ordinary 121-pound weight. 
 
 Suffering intensely in her sympathetic love, Therese yet looks forward joyously to these weekly visions of her Lord.
 
@@ -196,18 +204,18 @@ Professor Wurz related some of his experiences with the saint.
 
 
 {{< r a="Professor Wurz" >}}
-Several of us, including Therese, often travel for days on sight- seeing trips throughout Germany
+Several of us, including Therese, often travel for days on sight-seeing trips throughout Germany. It is a striking contrast-while we have three meals a day, Therese eats nothing. She remains as fresh as a rose, untouched by the fatigue which the trips cause us. As we grow hungry and hunt for wayside inns, she laughs merrily.
+
+Because Therese takes no food, her stomach has shrunk. She has no excretions, but her perspiration glands function; her skin is always soft and firm.
 {{< /r >}}
 
 
+At the time of parting, I told Therese my desire to be present at her trance.
 
-“It is a striking contrast-while we have three meals a day, Therese eats nothing. She remains as fresh as a rose, untouched by the fatigue which the trips cause us. As we grow hungry and hunt for wayside inns, she laughs merrily.”
+{{< r a="Therese Neumann" >}}
+Yes, please come to Konnersreuth next Friday. The bishop will give you a permit. I am very happy you sought me out in Eichstatt.
+{{< /r >}}
 
-The professor added some interesting physiological details: “Because Therese takes no food, her stomach has shrunk. She has no excretions, but her perspiration glands function; her skin is always soft and firm.”
-
-At the time of parting, I expressed to Therese my desire to be present at her trance.
-
-“Yes, please come to Konnersreuth next Friday,” she said graciously. “The bishop will give you a permit. I am very happy you sought me out in Eichstatt.”
 
 Therese shook hands gently, many times, and walked with our party to the gate. Mr. Wright turned on the automobile radio; the saint examined it with little enthusiastic chuckles. 
 
@@ -225,7 +233,7 @@ The saint’s abstinence from food dates from a time when she prayed that the th
 
 On Thursday afternoon our party drove to the home of the bishop, who looked at my flowing locks with some surprise. He readily wrote out the necessary permit. There was no fee; the rule made by the Church is simply to protect Therese from the onrush of casual tourists, who in previous years had flocked on Fridays by the thousands.
 
-We arrived Friday morning about nine-thirty in Konnersreuth. I noticed that Therese’s little cottage possesses a special glass-roofed section to afford her plenty of light. 
+We arrived Friday morning about 9:30 in Konnersreuth. I noticed that Therese’s little cottage possesses a special glass-roofed section to afford her plenty of light. 
 
 We were glad to see the doors no longer closed, but wide-open in hospitable cheer. There was a line of about twenty visitors, armed with their permits. Many had come from great distances to view the mystic trance.
 
@@ -236,8 +244,7 @@ My second test was connected with the fact that, just before I went upstairs to 
 I entered her chamber, filled with visitors; she was lying in a white robe on the bed. With Mr. Wright following closely behind me, I halted just inside the threshold, awestruck at a strange and most frightful spectacle.
 
 <!-- THERESE NEUMANN -->
-
-Famous Catholic Stigmatist who inspired my 1935 pilgrimage to Konnersreuth, Bavaria
+<!-- Famous Catholic Stigmatist who inspired my 1935 pilgrimage to Konnersreuth, Bavaria -->
 
 Blood flowed thinly and continuously in an inch-wide stream from Therese’s lower eyelids. Her gaze was focused upward on the spiritual eye within the central forehead. 
 
@@ -251,7 +258,8 @@ Suddenly she lifted her head in consternation: the Lord had fallen under the cru
 
 At this moment I heard a loud thud behind me. Turning my head for a second, I saw two men carrying out a prostrate body. But because I was coming out of the deep superconscious state, I did not immediately recognize the fallen person. 
 
-Again I fixed my eyes on Therese’s face, deathly pale under the rivulets of blood, but now calm, radiating purity and holiness. I glanced behind me later and saw Mr. Wright standing with his hand against his cheek, from which blood was trickling.
+I fixed my eyes on Therese’s face, deathly pale under the rivulets of blood, but now calm, radiating purity and holiness. I glanced behind me later and saw Mr. Wright standing with his hand against his cheek, from which blood was trickling.
+
 
 “Dick,” I inquired anxiously, “were you the one who fell?”
 

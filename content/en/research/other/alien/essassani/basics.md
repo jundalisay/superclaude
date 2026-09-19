@@ -34,7 +34,14 @@ We can think of the Sassani as the latest iPhones capable of playing EXCITING ga
 
 Proof of this is the many questions of people using the formula but **STILL** unable to get the money they need. Some even quit their jobs, being drawn by the powerful Sassani high vibration to chase their dreams, and end up miserable when they realize they are still stuck in low vibration, with bad finances. 
 
-Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams.
+This is because low density minds easily get confused by high density ideas:
+
+**Questioner:** The more I search for answers the more I come here and the more I get confused about everything.
+
+**Bashar:** Confusion to us is not negative.
+
+
+Instead of diving in suddenly into Sassani teachings, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to  out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams.
 
 We suggest that only those who can "do a Buddha" -- those who can willingly reject wealth, pleasures, fame, comfort in order to embrace the unknown -- should really go into Bashar's method. If you are not as strong-minded or determined as Buddha, then just grab what ideas resonate with you, not the whole 4th density system. 
 
@@ -285,6 +292,6 @@ In Buddhism, Hinduism, death is not negative, but is part of the dharma of life.
 
 *For those who practice philosophy in the right way are-unconsciously to themselves-practicing dying and being dead.* Socrates Phaedo, 64a
 
-Only Christianity puts so much emphasis on physical life as to treat death as a negative. This is because the Christian, Jewish, and Islamic religions have been corrupted by Orion Energy, as explained by Ra in the Law of One. 
+Only Christianity puts so much emphasis on physical life as to treat death as a negative. This is because the Christian, Jewish, and Islamic religions have been corrupted by Orion Energy, as explained by Ra in the Law of One.
 {{< /d >}}
 

@@ -148,7 +148,7 @@ done, but when I laid aside that last book I was very glad, and said,
 
 My first year's showing had won me the appreciation and friendship of several professors. Among these, Professor Rogner, who was teaching arithmetical subjects and geometry; Professor Poeschl, who held the chair of theoretical and experimental physics, and Dr. Alle, who taught integral calculus and specialized in differential equations. This scientist was the most brilliant lecturer to whom I ever listened. He took a special interest in my progress and would frequently remain for an hour or two in the lecture room, giving me problems to solve, in which I delighted. To him I explained a flying machine I had conceived, not an illusory invention, but one based on sound, scientific principles, which has become realizable through my turbine and will soon be given to the world. Both Professors Rogner and Poeschl were curious men. The former had peculiar ways of expressing himself and whenever he did so, there was a riot, followed by a long embarrassing pause.
 
-Professor Poeschl was a methodical and thoroughly grounded German. He had
+<!-- Professor Poeschl was a methodical and thoroughly grounded German. He had
 enormous feet, and hands like the paws of a bear, but all of his
 experiments were skillfully performed with clock-like precision and
 without a miss. It was in the second year of my studies that we received
@@ -156,14 +156,12 @@ a Gramoe Dyname from Paris, having the horseshoe form of a laminated
 field magnet, and a wire wound armature with a commutator. It was
 connected up and various effects of the currents were shown. While
 Professor Poeschl was making demonstrations, running the machine was
-a motor, the brushes gave trouble, sparking badly, and I observed that it
-might be possible to operate a motor without these appliances. But he
-declared that it could not be done and did me the honor of delivering a
-lecture on the subject, at the conclusion he remarked, Mr. Tesla may
-accomplish great things, but he certainly will never do this. It would be
-equivalent to converting a steadily pulling force, like that of gravity into
+a motor, the brushes gave trouble, sparking badly, and I observed that it might be possible to operate a motor without these appliances.
+
+But he declared that it could not be done and did me the honor of delivering a lecture on the subject, at the conclusion he remarked, Mr. Tesla may accomplish great things, but he certainly will never do this. It would be equivalent to converting a steadily pulling force, like that of gravity into
 a rotary effort. It is a perpetual motion scheme, an impossible idea. But
-instinct is something which transcends knowledge. 
+instinct is something which transcends knowledge.  -->
+
 
 We have certain finer fibbers that enable us to perceive truths when logical deduction, or any other willful effort of the brain, is futile. For a time I wavered, impressed by the professor's authority, but soon became convinced I was right and undertook the task with all the fire and boundless confidence of my youth. I started by first picturing in my mind a direct-current machine, running it and following the changing flow of the currents in the armature. Then I would imagine an alternator and investigate the progresses taking place in a similar manner. Next I would visualize systems comprising motors and generators and operate them in various ways. The images I saw were to me perfectly real and tangible. All my remaining term in Gratz was passed in intense but fruitless efforts of this kind, and I almost came to the conclusion that the problem was insolvable. In 1880 I went to Prague, Bohemia, carrying out my father's wish to complete my education at the University there.
 
@@ -175,16 +173,18 @@ In Budapest I could hear the ticking of a watch with three rooms between me and 
 
 The sun rays, when periodically intercepted, would cause blows of such force on my brain that they would stun me. I had to summon all my will power to pass under a bridge or other structure, as I experienced the crushing pressure on the skull. In the dark I had the sense of a bat, and could detect the presence of an object at a distance of twelve feet by a peculiar creepy sensation on the forehead. My pulse varied from a few to two hundred and sixty beats and all the tissues of my body with twitchings and tremors, which was perhaps hardest to bear. A renowned physician who have me daily large doses of Bromide of Potassium, pronounced my malady unique and incurable.
 
-It is my eternal regret that I was not under the observation of experts in
-physiology and psychology at that time. I clung desperately to life, but
-never expected to recover. Can anyone believe that so hopeless a
-physical wreck could ever be transformed into a man of astonishing
-strength and tenacity; able to work thirty-eight years almost without a
-day's interruption, and find himself still strong and fresh in body and
-mind? Such is my case. A powerful desire to live and to continue the
-work and the assistance of a devoted friend, an athlete, accomplished
-the wonder. 
+It is my eternal regret that I was not under the observation of experts in physiology and psychology at that time.
 
-My health returned and with it the vigor of mind in attacking the problem again, I almost regretted that the struggle was soon to end. I had so much energy to spare. When I understood the task, it was not with a resolve such as men often make. With me it was a sacred vow, a question of life and death. I knew that I would perish if I failed. Now I felt that the battle was won. Back in the deep recesses of the brain was the solution, but I could net yet give it outward expression.
+I clung desperately to life, but never expected to recover. Can anyone believe that so hopeless a physical wreck could ever be transformed into a man of astonishing strength and tenacity; able to work thirty-eight years almost without a day's interruption, and find himself still strong and fresh in body and mind? Such is my case. A powerful desire to live and to continue the work and the assistance of a devoted friend, an athlete, accomplished the wonder.
 
-One afternoon, which is ever present in my recollection, I was enjoying a walk with my friend in the City Park and reciting poetry. At that age, I knew entire books by heart, word for word. One of these was Goethe's "Faust." The sun was just setting and reminded me of the glorious passage, "Sie ruckt und weight, der Tag ist uberlebt, Dort eilt sie hin und fordert neues Leben. Oh, da kein Flugel mich vom Boden hebt Ihr nach und immer nach zu streben! Ein schsner Traum indessen sie entweicht, Ach, au des Geistes Flygein wird so leicht Kein korperlicher Flugel sich gesellen!" As I uttered these inspiring words the idea came like a flash of lightening and in an instant the truth was revealed. I drew with a stick on the sand, the diagram shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly. The images I saw were wonderfully sharp and clear and had the solidity of metal and stone, so much so that I told him, "See my motor here; watch me reverse it." I cannot begin to describe my emotions. Pygmalion seeing his statue come to life could not have been more deeply moved. A thousand secrets of nature which I might have stumbled upon accidentally, I would have given for that one which I had wrested from her against all odds and at the peril of my existence...
+My health returned and with it my mental vigor.
+
+ <!-- of mind in attacking the problem again, I almost regretted that the struggle was soon to end. I had so much energy to spare. When I understood the task, it was not with a resolve such as men often make. With me it was a sacred vow, a question of life and death. I knew that I would perish if I failed. Now I felt that the battle was won. Back in the deep recesses of the brain was the solution, but I could net yet give it outward expression. -->
+
+One afternoon, which is ever present in my recollection, I was enjoying a walk with my friend in the City Park and reciting poetry. At that age, I knew entire books by heart, word for word. One of these was Goethe's "Faust." The sun was just setting and reminded me of the glorious passage, "Sie ruckt und weight, der Tag ist uberlebt, Dort eilt sie hin und fordert neues Leben. Oh, da kein Flugel mich vom Boden hebt Ihr nach und immer nach zu streben! Ein schsner Traum indessen sie entweicht, Ach, au des Geistes Flygein wird so leicht Kein korperlicher Flugel sich gesellen!" 
+
+As I uttered these words the idea came like a flash of lightening. Instantly, the truth was revealed. I drew with a stick on the sand, The diagram was shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly. 
+
+The images that I saw were wonderfully sharp and clear and had the solidity of metal and stone, so much so that I told him, "See my motor here; watch me reverse it." 
+
+<!-- I cannot begin to describe my emotions. Pygmalion seeing his statue come to life could not have been more deeply moved. A thousand secrets of nature which I might have stumbled upon accidentally, I would have given for that one which I had wrested from her against all odds and at the peril of my existence... -->

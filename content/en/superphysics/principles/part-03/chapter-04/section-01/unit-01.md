@@ -1,6 +1,6 @@
 ---
 heading: "Unit 1"
-title: "Densities"
+title: "Perception Densities"
 date: 2024-12-28
 weight: 3
 image: /graphics/meta/mirror.jpg
@@ -9,11 +9,44 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
+toc: false
 ---
 
 
 
-The previous section explained how the dimensions of space and time are caused by the mind perceiving and stitching together the slices of space and time differently.
+
+Part 3 Chapter 1 Section 3 explained how waves have a hierarchy as waves within waves, where the smaller waves are cruder and the larger waves are subtler.
+
+We used this to visualize the 5 Layers or Elements which are **effects** or the Existence side. 
+
+{{< i s="/graphics/physics/multiwaves.jpg" a="Waves" c="The 5 Layers are 5 Effect-Densities" >}}
+
+We can apply the same system on qualities of perceptions as the **cause** which is the Consciousness side of Existence-Consciousness.
+
+{{< i s="/graphics/super/densities.jpg" a="Waves" c="The 5 Densities are the 5 different qualities of perception" >}}
+
+
+
+## Perception Densities or Mentalities
+
+This means that there are crude or low perceptions, and subtle or high ones, just as there are crude and subtle layers.
+
+- The small waves have a limited amplitude than the bigger ones which they ride. 
+- The big waves control the properties of the smaller waves
+
+<!-- The small and crude waves have a  -->
+
+Density refers to the relational frequency of the waves.
+
+- High density means squising the waves. 
+- Low density means relaxing them. 
+
+A relaxed wave can increase its density level by squishing itself which is really the wave accepting the influence of higher waves. 
+
+Likewise, a squished wave can decreates its density by relaxing which is really the wave accepting the influence of lower waves or vibrations. 
+
+
+<!-- The previous section explained how the dimensions of space and time are caused by the mind perceiving and stitching together the slices of space and time differently.
 
 Cruder minds have a limited range and so can only perceive the basic dimensions.
 
@@ -77,7 +110,7 @@ More importantly, these dimensions and densities give the soul a direction in li
 {{< q a="Buddha" c="Pratyutpanna Samādhi Sutta" >}}
 ’Where does this Buddha come from and where am I going? As I think of this Buddha, He comes from nowhere and I am going nowhere. As I think of the desire realm, the form realm, and the formless realm*, these three realms are formed by my mind. I can see what I think of. The mind forms a Buddha for itself to see; the mind is the Buddha mind. As my mind forms a Buddha, my mind is the Buddha; my mind is the Tathāgata; my mind is my body.’ Although the mind sees a Buddha, the mind neither knows itself nor sees itself. The mind with perceptions is saṁsāra; the mind without perceptions is nirvāṇa. Dharmas as perceived are not something pleasurable. They are empty thoughts, nothing real. This is what Bodhisattvas see as they abide in this samādhi.
 {{< /q >}}
-
+ -->
 
 <!-- *The desire and formless realms are in the metaphysical domain while the
 form realm is in the physical domain. Desire makes up the 2 Forces which
