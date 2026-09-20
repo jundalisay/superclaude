@@ -70,13 +70,21 @@ Thus, Socrates, your countrymen are right in admitting:
 
 But why do good men teach their sons the knowledge gained from teachers, and make them wise in that, but do nothing towards improving them in the virtues which distinguish themselves? 
 
-Is there or is there not some one quality of which all the citizens must be partakers, if there is to be a city at all? In the answer to this question is contained the only solution of your difficulty; there is no other.
+**Is there some one quality of which all the citizens must have if there is to be a city at all?**
 
-For if there be any such quality, and this quality or unity is not the art of the carpenter, or the smith, or the potter, but justice and temperance and holiness and, in a word, manly virtue—if this is the quality of which all men must be partakers, and which is the very condition of their learning or doing anything else, and if he who is wanting in this, whether he be a child only or a grown-up man or woman, must be taught and punished, until by punishment he becomes better, and he who rebels against instruction and punishment is either exiled or condemned to death under the idea that he is incurable—if what I am saying be true, good men have their sons taught other things and not this, do consider how extraordinary their conduct would appear to be.
+<!-- In the answer to this question is contained the only solution of your difficulty; there is no other. -->
 
-We have shown that they think virtue capable of being taught and cultivated both in private and public; and, notwithstanding, they have their sons taught lesser matters, ignorance of which does not involve the punishment of death: but greater things, of which the ignorance may cause death and exile to those who have no training or knowledge of them—aye, and confiscation as well as death, and, in a word, may be the ruin of families—those things, I say, they are supposed not to teach them,—not to take the utmost care that they should learn. How improbable is this, Socrates!
+For if there be any such quality, and this quality or unity is not the art of the carpenter, or the smith, or the potter, but justice and temperance and holiness and manly virtue.
 
-Education and admonition commence in the first years of childhood, and last to the very end of life. Mother and nurse and father and tutor are vying with one another about the improvement of the child as soon as ever he is able to understand what is being said to him: he cannot say or do anything without their setting forth to him that this is just and that is unjust; this is honourable, that is dishonourable; this is holy, that is unholy; do this and abstain from that.
+If this is the quality of which all men must be partakers, and which is the very condition of their learning or doing anything else, and if he who is wanting in this, whether he be a child only or a grown-up man or woman, must be taught and punished, until by punishment he becomes better, and he who rebels against instruction and punishment is either exiled or condemned to death under the idea that he is incurable—if what I am saying be true, good men have their sons taught other things and not this, do consider how extraordinary their conduct would appear to be.
+
+They think that virtue can be taught and cultivated both in private and public.
+
+They have their sons taught lesser matters, ignorance of which does not involve the punishment of death: but greater things, of which the ignorance may cause death and exile to those who have no training or knowledge of them—aye, and confiscation as well as death, and, in a word, may be the ruin of families—those things, I say, they are supposed not to teach them,—not to take the utmost care that they should learn. How improbable is this, Socrates!
+
+Education and admonition commence in the first years of childhood, and last to the very end of life.
+
+Mother, nurse and father, tutor are vying with one another about the improvement of the child as soon as ever he is able to understand what is being said to him: he cannot say or do anything without their setting forth to him that this is just and that is unjust; this is honourable, that is dishonourable; this is holy, that is unholy; do this and abstain from that.
 
 If he obeys, well and good; if not, he is straightened by threats and blows, like a piece of bent or warped wood. At a later stage they send him to teachers, and enjoin them to see to his manners even more than to his reading and music; and the teachers do as they are desired.
 

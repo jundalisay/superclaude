@@ -22,24 +22,51 @@ Search out and tell me where, how, when,
 And why it happened thus.”
 —BÜRGER. -->
 
-This chapter is the last of four whose various reciprocal relations, by virtue of which, to a certain extent, they constitute a subordinate whole, the attentive reader will recognise without it being needful for me to interrupt my exposition by recalling them or referring to them.
+<!-- This chapter is the last of 4 whose various reciprocal relations, by virtue of which, to a certain extent, they constitute a subordinate whole, the attentive reader will recognise without it being needful for me to interrupt my exposition by recalling them or referring to them. -->
 
-We are accustomed to see poets principally occupied with describing the love of the sexes. This is as a rule the chief theme of all dramatic works, tragical as well as comical, romantic as well as classical, Indian as well as European. Not less is it the material of by far the largest part of lyrical and also of epic poetry, especially if we class with the latter the enormous piles of romances which for centuries every year has produced in all the civilised countries of Europe as regularly as the fruits of the earth.
+Poets are principally occupied with describing the love of the sexes. This is the chief theme of all dramatic works, tragical, comical, romantic, classical, Indian, European.
 
-As regards their main contents, all these works are nothing else than many-sided brief or lengthy descriptions of the passion we are speaking of. Moreover, the most successful pictures of it—such, for example, as Romeo and Juliet, La Nouvelle Hélöise, and Werther—have gained immortal fame. Yet, when Rochefoucauld imagines that it is the same with passionate love as with ghosts, of which every one speaks, but which no one has seen; and Lichtenberg also in his essay, “Ueber die Macht der Liebe,” disputes and denies the reality and naturalness of that passion, they are greatly in error. 
+<!-- Not less is it the material of by far the largest part of lyrical and also of epic poetry, especially if we class with the latter the enormous piles of romances which for centuries every year has produced in all the civilised countries of Europe as regularly as the fruits of the earth. -->
 
-For it is impossible that something which is foreign and contrary to human nature, thus a mere imaginary caricature, could be unweariedly represented by poetic genius in all ages, and received by mankind with unaltered interest; for nothing that is artistically beautiful can be without truth:—
+<!-- As regards their main contents, all these works are nothing else than many-sided brief or lengthy descriptions of the passion we are speaking of. Moreover,  -->
+
+The most successful pictures of it—such, for example, as Romeo and Juliet, La Nouvelle Hélöise, and Werther—have gained immortal fame. 
+
+Rochefoucauld imagines that it is the same with passionate love as with ghosts.
+
+Lichtenberg in his essay, “Ueber die Macht der Liebe,” disputes and denies the reality and naturalness of the love between sexes. I think they are very wrong. 
+
+For it is impossible that something which is foreign and contrary to human nature could be unweariedly represented by poetic genius in all ages.
+
+<!-- , and received by mankind with unaltered interest; for nothing that is artistically beautiful can be without truth:—
 
 “Rien n'est beau que le vrai; le vrai seul est aimable.”
-—BOIL.
+—BOIL. -->
 
-However, it is also confirmed by experience, although not by the experience of every day, that that which as a rule only appears as a strong yet still controllable inclination may rise under certain circumstances to a passion which exceeds all others in vehemence, and which then sets aside all consid- erations, overcomes all obstacles with incredible strength and perseverance, so that for its satisfaction life is risked without hesitation, nay, if that satisfaction is still withheld, is given as the price of it. Werthers and Jacopo Ortis exist not only in romance, but every year can show at least half a dozen of them in Europe: Sed ignotis perierunt mortibus illi; for their sorrows find no other chroniclers than the writers of official registers or the reporters of the newspapers. Yet the readers of the police news in English and French journals will attest the correctness of my assertion. Still greater, however, is the number of those whom the same passion brings to the madhouse. Finally, every year can show cases of the double suicide of a pair of lovers who are opposed by outward circumstances. In such cases, however, it is inexplicable to me how those who, certain of mutual love, expect to find the supremest bliss in the enjoyment of this, do not withdraw themselves from all connections by taking the extremest steps,[338] and endure all hardships, rather than give up with life a pleasure which is greater than any other they can conceive.
+Experience confirms that the love between sexes is a strong yet controllable inclination which may rise under certain circumstances as a passion which:
+- exceeds all others in vehemence
+- sets aside all considerations
+- overcomes all obstacles with incredible strength and perseverance, so that for its satisfaction life is risked without hesitation
+
+<!-- nay, if that satisfaction is still withheld, is given as the price of it.  -->
+
+Werthers and Jacopo Ortis exist not only in romance, but every year can show at least half a dozen of them in Europe.
+
+<!-- Sed ignotis perierunt mortibus illi; for  -->
+
+Their sorrows find no other chroniclers than the writers of official registers or the reporters of the newspapers. Yet the readers of the police news in English and French journals will attest the correctness of my assertion.
+
+There are more driven to madness by this love. Every year has cases of the double suicide of a pair of lovers who are opposed by outward circumstances. 
+
+In such cases, however, it is inexplicable to me how those who, certain of mutual love, expect to find the supremest bliss in the enjoyment of this, do not withdraw themselves from all connections by taking the extremest steps,[338] and endure all hardships, rather than give up with life a pleasure which is greater than any other they can conceive.
 
 As regards the lower grades of that passion, and the mere approaches to it, every one has them daily before his eyes, and, as long as he is not old, for the most part also in his heart.
 
 So then, after what has here been called to mind, no one can doubt either the reality or the importance of the matter; and therefore, instead of wondering that a philosophy should also for once make its own this constant theme of all poets, one ought rather to be surprised that a thing which plays throughout so important a part in human life has hitherto practically been disregarded by philosophers altogether, and lies before us as raw material. 
 
-The one who has most concerned himself with it is Plato, especially in the “Symposium” and the “Phædrus.” Yet what he says on the subject is confined to the sphere of myths, fables, and jokes, and also for the most part concerns only the Greek love of youths. The little that Rousseau says upon our theme in the “Discours sur l'inégalité” (p. 96, ed. Bip.) is false and insufficient. Kant's explanation of the subject in the third part of the essay, “Ueber das Gefühl des Schönen und Erhabenen” (p. 435 seq. of Rosenkranz's edition), is very superficial and without practical knowledge, therefore it is also partly incorrect. Lastly, Platner's treatment of the matter in his “Anthropology” (§ 1347 seq.) every one will find dull and shallow. On the other hand, Spinoza's definition, on account of its excessive naïveté, deserves to be quoted for the sake of amusement: “Amor est titillatio, concomitante idea causæ externæ” (Eth. iv., prop. 44, dem.) 
+The one who has most concerned himself with it is Plato, especially in the “Symposium” and the “Phædrus.” Yet what he says on the subject is confined to the sphere of myths, fables, and jokes, and also for the most part concerns only the Greek love of youths. The little that Rousseau says upon our theme in the “Discours sur l'inégalité” (p. 96, ed. Bip.) is false and insufficient. 
+
+Kant's explanation of the subject in the third part of the essay, “Ueber das Gefühl des Schönen und Erhabenen” (p. 435 seq. of Rosenkranz's edition), is very superficial and without practical knowledge, therefore it is also partly incorrect. Lastly, Platner's treatment of the matter in his “Anthropology” (§ 1347 seq.) every one will find dull and shallow. On the other hand, Spinoza's definition, on account of its excessive naïveté, deserves to be quoted for the sake of amusement: “Amor est titillatio, concomitante idea causæ externæ” (Eth. iv., prop. 44, dem.) 
 
 Accordingly I have no predecessors either to make use of or to refute. The subject has pressed itself upon me objectively, and has entered of its own accord into the connection of my consideration of the world. Moreover, least of all can I hope for approbation from those who are themselves under the power of this passion, and who accordingly seek to express the excess of their feelings in the sublimest and most ethereal images.
 
@@ -47,7 +74,7 @@ To them my view will appear too physical, too material, however metaphysical and
 
 For all love, however ethereally it may bear itself, is rooted in the sexual impulse alone, nay, it absolutely is only a more def- initely determined, specialised, and indeed in the strictest sense individualised sexual impulse. 
 
-If now, keeping this in view, one considers the important part which the sexual impulse in all its degrees and nuances plays not only on the stage and in novels, but also in the real world, where, next to the love of life, it shows itself the strongest and most powerful of motives, constantly lays claim to half the powers and thoughts of the younger portion of mankind, is the ultimate goal of almost all human effort, exerts an adverse influence on the most important events, interrupts the most serious occupations every hour, sometimes embarrasses for a while even the greatest minds, does not hesitate to intrude with its trash interfering with the negotiations of statesmen and the investigations of men of learning, knows how to slip its love letters and locks of hair even into ministerial portfolios and philosophical manuscripts, and no less devises daily the most entangled and the worst actions, destroys the most valuable relationships, breaks the firmest bonds, demands the sacrifice sometimes of life or health, sometimes of wealth, rank, and happiness, nay, robs those who are otherwise honest of all conscience, makes those who have hitherto been faithful, traitors; accordingly, on the whole, appears as a malevolent demon that strives to pervert, confuse, and overthrow everything;—then one will be forced to cry, Wherefore all this noise? Wherefore the straining and storming, the anxiety and want? It is merely a question of[340] every Hans finding his Grethe.37
+If now, keeping this in view, one considers the important part which the sexual impulse in all its degrees and nuances plays not only on the stage and in novels, but also in the real world, where, next to the love of life, it shows itself the strongest and most powerful of motives, constantly lays claim to half the powers and thoughts of the younger portion of mankind, is the ultimate goal of almost all human effort, exerts an adverse influence on the most important events, interrupts the most serious occupations every hour, sometimes embarrasses for a while even the greatest minds, does not hesitate to intrude with its trash interfering with the negotiations of statesmen and the investigations of men of learning, knows how to slip its love letters and locks of hair even into ministerial portfolios and philosophical manuscripts, and no less devises daily the most entangled and the worst actions, destroys the most valuable relationships, breaks the firmest bonds, demands the sacrifice sometimes of life or health, sometimes of wealth, rank, and happiness, nay, robs those who are otherwise honest of all conscience, makes those who have hitherto been faithful, traitors; accordingly, on the whole, appears as a malevolent demon that strives to pervert, confuse, and overthrow everything;—then one will be forced to cry, Wherefore all this noise? Wherefore the straining and storming, the anxiety and want? It is merely a question of[340] every Hans finding his Grethe.
 
 Why should such a trifle play so important a part, and constantly introduce disturbance and confusion into the well-regulated life of man? 
 
@@ -105,16 +132,9 @@ Therefore, as a rule, it is given only to the brutes, and indeed especially to t
 
 Therefore he imagines he is taking trouble and making sacrifices for his own pleasure, while he does so merely for the maintenance of the regular type of the species, or else a quite special individuality, which can only come from these parents, is to attain to existence. The character of instinct is here so perfectly present, thus an action which seems to be in accordance with the conception of an end, and yet is entirely without such a conception, that he who is drawn by that illusion often abhors the end which alone guides it, procreation, and would like to hinder it; thus it is in the case of almost all illicit love affairs. In accordance with the character of the matter which has been explained, every lover will experience a marvellous disillusion after the pleasure he has at last attained, and will wonder that what was so longingly desired accomplishes nothing [349] more than every other sexual satisfaction; so that he does not see himself much benefited by it. 
 
-That wish was related to all his other wishes as the species is related to the individual, thus as the infinite to the finite. The satisfaction, on the other hand, is really only for the benefit of the species, and thus does not come within the consciousness of the individual, who, inspired by the will of the species, here served an end with every kind of sacrifice, which was not his own end at all. Hence, then, every lover, after the ultimate consummation of the great work, finds himself cheated; for the illusion has vanished by means of which the individual was here the dupe of the species, Accordingly Plato very happily says: “!¥øΩ∑ ¿±Ωƒ…Ω ±ª±∂øΩμ√ƒ±ƒøΩ” (voluptas ommlum maxime vaniloqua), Phileb. 319.
+That wish was related to all his other wishes as the species is related to the individual, thus as the infinite to the finite. The satisfaction, on the other hand, is really only for the benefit of the species, and thus does not come within the consciousness of the individual, who, inspired by the will of the species, here served an end with every kind of sacrifice, which was not his own end at all. Hence, then, every lover, after the ultimate consummation of the great work, finds himself cheated; for the illusion has vanished by means of which the individual was here the dupe of the species, Accordingly Plato very happily says: voluptas ommlum maxime vaniloqua, Phileb. 319.
 
-But all this reflects light on the instincts and mechanical ten-
-dencies of the brutes. They also are, without doubt, involved in a
-kind of illusion, which deceives them with the prospect of their
-own pleasure, while they work so laboriously and with so much
-self-denial for the species, the bird builds its nest, the insect
-seeks the only suitable place for its eggs, or even hunts for prey
-which, unsuited for its own enjoyment, must be laid beside the eggs as food for the future larvæ, the bees, the wasps, the ants
-apply themselves to their skilful dwellings and highly complicated economy. 
+But all this reflects light on the instincts and mechanical tendencies of the brutes. They also are, without doubt, involved in a kind of illusion, which deceives them with the prospect of their own pleasure, while they work so laboriously and with so much self-denial for the species, the bird builds its nest, the insect seeks the only suitable place for its eggs, or even hunts for prey which, unsuited for its own enjoyment, must be laid beside the eggs as food for the future larvæ, the bees, the wasps, the ants apply themselves to their skilful dwellings and highly complicated economy.
 
 They are all guided with certainty by an illusion, which conceals the service of the species under the mask of an egotistical end. This is probably the only way to comprehend the inner or subjective process that lies at the foundation of the manifestations of instinct. Outwardly, however, or objectively, we find in those creatures which are to a large extent governed by instinct, especially in insects, a preponderance of the ganglion system, i.e., the subjective nervous system, over the objective or cerebral system; from which we must conclude that they are moved, not so much by objective, proper apprehension as by[350] subjective ideas exciting desire, which arise from the influence of the ganglion system upon the brain, and accordingly by a kind of illusion; and this will be the physiological process in the case of all instinct. For the sake of illustration I will mention as another example of instinct in the human species, although a weak one, the capricious appetite of women who are pregnant. 
 
@@ -141,37 +161,9 @@ Acute diseases only temporarily disturb us, chronic diseases or cachexia repel u
 On the other hand, a strikingly beautiful figure can make up for all defects: it enchants us. Here also comes in the great value which all attach to the smallness of the feet: it depends upon the fact that they are an essential characteristic of the species, for no animal has the tarsus and the metatarsus taken together so small as man, which accords with his upright walk; he is a plantigrade. Accordingly Jesus Sirach also says (xxvi. 23, according to the revised translation by Kraus): “A woman with a straight figure and beautiful feet is like columns of gold in sockets of silver.” The teeth also are important; because they are essential for nourishment and quite specially hereditary. The fourth consideration is a certain fulness of flesh; thus a predominance of the vegetative function, of plasticity; because this promises abundant nourishment for the fœtus; hence great leanness repels us in a striking degree. A full female bosom exerts an exceptional charm upon the male sex; because, standing in direct connection with the female [353] functions of propagation, it promises abundant nourishment to the new-born child. On the other hand, excessively fat women excite our disgust: the cause is that this indicates atrophy of the uterus, thus barrenness; which is not known by the head, but by instinct. The last consideration of all is the beauty of the face. Here also before everything else the bones are considered; therefore we look principally for a beautiful nose, and a short turned-up nose spoils everything. A slight inclination of the nose downwards or upwards has decided the happiness in life of innumerable maidens, and rightly so, for it concerns the type of
 the species. 
 
-A small mouth, by means of small maxillæ, is very
-essential as specifically characteristic of the human countenance,
-as distinguished from the muzzle of the brutes. A receding or,
-as it were, cut-away chin is especially disagreeable, because
-mentum prominulum is an exclusive characteristic of our species.
-Finally comes the regard for beautiful eyes and forehead; it is
-connected with the psychical qualities, especially the intellectual
-which are inherited from the mother.
+A small mouth, by means of small maxillæ, is very essential as specifically characteristic of the human countenance, as distinguished from the muzzle of the brutes. A receding or, as it were, cut-away chin is especially disagreeable, because mentum prominulum is an exclusive characteristic of our species. Finally comes the regard for beautiful eyes and forehead; it is connected with the psychical qualities, especially the intellectual which are inherited from the mother.
 
-The unconscious considerations which, on the other hand,
-the inclination of women follows naturally cannot be so exact-
-ly assigned. In general the following may be asserted: They
-give the preference to the age from thirty to thirty-five years,
-especially over that of youths who yet really present the height
-of human beauty. The reason is that they are not guided by
-taste but by instinct, which recognises in the age named the
-acme of reproductive power. In general they look less to beauty, especially of the face. It is as if they took it upon themselves
-alone to impart this to the child. They are principally won by the
-strength of the man, and the courage which is connected with
-this; for these promise the production of stronger children, and
-also a brave protector for them. Every physical defect of the
-man, every divergence from the type, may with regard to the
-child be removed by the woman in reproduction, through the fact
-that she herself is blameless in these respects, or even exceeds[354]
-in the opposite direction. Only those qualities of the man have
-to be excepted which are peculiar to his sex, and which therefore
-the mother cannot give to the child: such are the manly structure
-of the skeleton, broad shoulders, slender hips, straight bones,
-muscular power, courage, beard, &c. Hence it arises that women
-often love ugly men, but never an unmanly man, because they
-cannot neutralise his defects.
+The unconscious considerations which, on the other hand, the inclination of women follows naturally cannot be so exact- ly assigned. In general the following may be asserted: They give the preference to the age from thirty to thirty-five years, especially over that of youths who yet really present the height of human beauty. The reason is that they are not guided by taste but by instinct, which recognises in the age named the acme of reproductive power. In general they look less to beauty, especially of the face. It is as if they took it upon themselves alone to impart this to the child. They are principally won by the strength of the man, and the courage which is connected with this; for these promise the production of stronger children, and also a brave protector for them. Every physical defect of the man, every divergence from the type, may with regard to the child be removed by the woman in reproduction, through the fact that she herself is blameless in these respects, or even exceeds[354] in the opposite direction. Only those qualities of the man have to be excepted which are peculiar to his sex, and which therefore the mother cannot give to the child: such are the manly structure of the skeleton, broad shoulders, slender hips, straight bones, muscular power, courage, beard, &c. Hence it arises that women often love ugly men, but never an unmanly man, because they cannot neutralise his defects.
 
 The second class of the considerations which lie at the foun-
 dation of sexual love are those which regard psychical qualities.
@@ -222,29 +214,28 @@ This metaphysical desire of the will in itself has primar- ily no other sphere o
 
 The view which is here expounded must once have been present to the mind of Theophrastus Paracelsus, even if only in a fleeting form, though he has not handled this subject, and my whole system of thought was foreign to him; for, in quite a differ- ent context and in his desultory manner, he wrote the following remarkable words:
 
-“Hi sunt, quos Deus copulavit, ut eam, quæ
-fuit Uriæ et David; quamvis ex diametro (sic enim sibi humana
-mens persuadebat) cum justo et legitimo matrimonio pugnaret
-hoc.... sed propter Salomonem, QUI ALIUNDE NASCI NON POTUIT,
-nisi ex Bathseba, conjuncto David semine, quamvis meretrice,
-conjunxit eos Deus” (De vita longa, i. 5).
+“Hi sunt, quos Deus copulavit, ut eam, quæ fuit Uriæ et David; quamvis ex diametro (sic enim sibi humana mens persuadebat) cum justo et legitimo matrimonio pugnaret hoc.... sed propter Salomonem, QUI ALIUNDE NASCI NON POTUIT, nisi ex Bathseba, conjuncto David semine, quamvis meretrice, conjunxit eos Deus” (De vita longa, i. 5).
 
 The longing of love, the 1ºμ¡ø¬, which the poets of all ages are unceasingly occupied with expressing in innumerable forms,[363] and do not exhaust the subject, nay, cannot do it justice, this longing, which attaches the idea of endless happiness to the possession of a particular woman, and unutterable pain to the thought that this possession cannot be attained,—this longing and this pain cannot obtain their material from the wants of an ephemeral individual; but they are the sighs of the spirit of the species, which sees here, to be won or lost, a means for the attainment of its ends which cannot be replaced, and therefore groans deeply. The species alone has infinite life, and therefore is capable of infinite desires, infinite satisfaction, and infinite pain. But these are here imprisoned in the narrow breast of a mortal. No wonder, then, if such a breast seems like to burst, and can find no expression for the intimations of infinite rapture or infinite misery with which it is filled. This, then, affords the materials for all erotic poetry of a sublime kind, which accordingly rises into transcendent metaphors, soaring above all that is earthly. This is the theme of Petrarch, the material for the St. Preuxs, Werthers, and Jacopo Ortis, who apart from it could not be understood nor explained. For that infinite esteem for the loved one cannot rest upon some spiritual excellences, or in general upon any objective, real qualities of hers; for one thing, because she is often not sufficiently well known to the lover, as was the case with Petrarch. The spirit of the species alone can see at one glance what worth she has for it, for its ends. And great passions also arise, as a rule, at the first glance:
 
-“Who ever loved that loved not at first sight?”
-—SHAKSPEARE, “As You Like it,” iii. 5.
 
-In this regard a passage in the romance of “Guzman de Al-
-farache,” by Mateo Aleman, which has been famous for 250
-years, is remarkable: 
+{{< q a="Shakespeare" c="As You Like it" >}}
+Who ever loved that loved not at first sight?
+{{< /q >}}
 
+
+In this regard a passage in the romance of “Guzman de Al-farache,” by Mateo Aleman, which has been famous for 250 years, is remarkable: 
+
+{{< q a="Mateo Aleman" c="Guzman de Al-farache" >}}
 “No es necessario, para que uno ame, que pase distancia de tiempo, que siga discurso, ni haga eleccion, sino que con aquella primera y sola vista, concurran juntamente cierta correspondencia ó consonancia, ó lo que acá solemos [364] vulgarmente decir, una confrontacion de sangre, a que por par- ticular influxo suelen mover las estrellas.”
 
-(For one to love it is not necessary that much time should pass, that he should set about reflecting and make a choice; but only that at that first and only glance a certain correspondence and consonance should be encountered on both sides, or that which in common life we are wont to call a sympathy of the blood, and to which a special influence of the stars generally impels), P. ii. lib. iii. c. 5. Accordingly the loss of the loved one, through a rival, or through death, is also for the passionate lover a pain that surpasses all others, just because it is of a transcendental kind, since it affects him not merely as an individual, but attacks him in his essentia æterna, in the life of the species into whose special will and service he was here called. Hence jealousy is such torment and so grim, and the surrender of the loved one is the greatest of all sacrifices. A hero is ashamed of all lamentations except the lamentation of love, because in this it is not he but the species that laments. In Calderon's “Zenobia the Great” there is in the first act a scene between Zenobia and Decius in which the latter says:
+(For one to love it is not necessary that much time should pass, that he should set about reflecting and make a choice; but only that at that first and only glance a certain correspondence and consonance should be encountered on both sides, or that which in common life we are wont to call a sympathy of the blood, and to which a special influence of the stars generally impels), P. ii. lib. iii. c. 5. 
+{{< /q >}}
 
-“Cielos, luego tu me quieres? Perdiera cien mil victorias,
-Volviérame,” &c.
 
+Accordingly the loss of the loved one, through a rival, or through death, is also for the passionate lover a pain that surpasses all others, just because it is of a transcendental kind, since it affects him not merely as an individual, but attacks him in his essentia æterna, in the life of the species into whose special will and service he was here called. Hence jealousy is such torment and so grim, and the surrender of the loved one is the greatest of all sacrifices. A hero is ashamed of all lamentations except the lamentation of love, because in this it is not he but the species that laments. In Calderon's “Zenobia the Great” there is in the first act a scene between Zenobia and Decius in which the latter says:
+
+“Cielos, luego tu me quieres? Perdiera cien mil victorias, Volviérame,” &c.
 (Heaven! then thou lovest me? For this I would lose a thousand victories, would turn about, &c.)
 
 Here, honour, which hitherto outweighed every interest, is beaten out of the field as soon as sexual love, i.e., the interest of the species, comes into play, and sees before it a decided advantage; for this is infinitely superior to every interest of mere individuals, however important it may be. Therefore to this alone honour, duty, and fidelity yield after they have withstood every other temptation, including the threat of death. In the same way we find in private life that conscientiousness is in no point so rare as in this: it is here sometimes set aside even by persons[365] who are otherwise honest and just, and adultery is recklessly committed when passionate love, i.e., the interest of the species, has mastered them. It even seems as if in this they believed themselves to be conscious of a higher right than the interests of individuals can ever confer; just because they act in the interest of the species. In this reference Chamfort's remark is worth noticing: “Quand un homme et une femme ont l'un pour l'autre une passion violente, il me semble toujours que quelque soient les obstacles qui les séparent, un mari, des parens, etc., les deux amans sont l'un a l'autre, de par la Nature, qu'ils s'appartiennent de droit divin, malgré les lois et les conventions humaines.”
@@ -262,10 +253,9 @@ times a tragic issue, but the satisfied passion also leads oftener
 to unhappiness than to happiness. For its demands often conflict
 so much with the personal welfare of him who is concerned that
 they undermine it, because they are incompatible with his other
-circumstances, and disturb the plan of life built upon them. Nay,
-not only with external circumstances is love often in contradic-
-358 The World as Will and Idea (Vol. 3 of 3)
-tion, but even with the lover's own individuality, for it flings
+circumstances, and disturb the plan of life built upon them. 
+
+Nay, not only with external circumstances is love often in contradiction, but even with the lover's own individuality, for it flings
 itself upon persons who, apart from the sexual relation, would
 be hateful, contemptible, and even abhorrent to the lover. But
 so much more powerful is the will of the species than that of
@@ -281,10 +271,12 @@ a choice. On this account the ancients represented love as blind.
 Indeed, a lover may even know distinctly and feel bitterly the
 faults of temperament and character of his bride, which promise
 him a miserable life, and yet not be frightened away:—
+
 “I ask not, I care not,
 If guilt's in thy heart,
 I know that I love thee
 Whatever thou art.”
+
 For ultimately he seeks not his own things, but those of a third
 person, who has yet to come into being, although he is involved
 in the illusion that what he seeks is his own affair. But it is
@@ -296,16 +288,20 @@ its object: therefore Plato has compared it to the love of the wolf[369]
 for the sheep. This case appears when a passionate lover, in spite
 of all efforts and entreaties, cannot obtain a favourable hearing
 on any condition:—
+
 “I love and hate her.”
 359
 —SHAKSPEARE, Cymb., iii. 5.
+
 The hatred of the loved one which then is kindled sometimes
 goes so far that the lover murders her, and then himself. One
 or two examples of this generally happen every year; they will
 be found in the newspapers. Therefore Goethe's lines are quite
 correct:—
+
 “By all despised love! By hellish element!
 Would that I knew a worse, that I might swear by!”
+
 It is really no hyperbole if a lover describes the coldness of
 his beloved and the delight of her vanity, which feeds on his
 sufferings, as cruelty; for he is under the influence of an impulse
@@ -317,9 +313,10 @@ through life the unsatisfied ardour of love, like a fetter, an iron
 weight at his foot, and breathe his sighs in lonely woods; but only
 in the one Petrarch dwelt also the gift of poetry; so that Goethe's
 beautiful lines hold good of him:—
+
 “And when in misery the man was dumb
 A god gave me the power to tell my sorrow.”
-360 The World as Will and Idea (Vol. 3 of 3)
+
 In fact, the genius of the species wages war throughout with
 the guardian geniuses of individuals, is their pursuer and enemy,
 always ready relentlessly to destroy personal happiness in order
@@ -333,8 +330,10 @@ feeling of this the ancients personified the genius of the species
 in Cupid, a malevolent, cruel, and therefore ill-reputed god, in
 spite of his childish appearance; a capricious, despotic demon,
 but yet lord of gods and men:
+
 “£≈ ¥Ω… ∏μ…Ω ƒ≈¡±ΩΩμ ∫Ω±Ω∏¡…¿…Ω, ï¡…¬!”
 (Tu, deorum hominumque tyranne, Amor!)
+
 A deadly shot, blindness, and wings are his attributes. The
 latter signify inconstancy; and this appears, as a rule, only with
 the disillusion which is the consequence of satisfaction.
@@ -351,9 +350,8 @@ finds itself no happier than before. It observes that it has been the
 dupe of the will of the species. Therefore, as a rule, a Theseus
 who has been made happy will forsake his Ariadne. If Petrarch's
 passion had been satisfied, his song would have been silenced
-from that time forth, like that of the bird as soon as the eggs are
-laid.
-361
+from that time forth, like that of the bird as soon as the eggs are laid.
+
 Here let me remark in passing that however much my meta-
 physics of love will displease the very persons who are entangled
 in this passion, yet if rational considerations in general could
@@ -362,6 +360,7 @@ would necessarily fit one more than anything else to subdue it.
 But the saying of the old comedian will, no doubt, remain true:
 “Quæ res in se neque consilium, neque modum habet ullum, eam [371]
 consilio regere non potes.”
+
 Marriages from love are made in the interest of the species,
 not of the individuals. Certainly the persons concerned imagine
 they are advancing their own happiness; but their real end is one
@@ -387,52 +386,10 @@ problematical. The man who in his marriage looks to money
 more than to the satisfaction of his inclination lives more in the
 individual than in the species; which is directly opposed to the
 truth; hence it appears unnatural, and excites a certain contempt.
-A girl who, against the advice of her parents, rejects the offer of a
-362 The World as Will and Idea (Vol. 3 of 3)
-rich and not yet old man, in order, setting aside all considerations
-of convenience, to choose according to her instinctive inclination
-alone, sacrifices her individual welfare to the species. But just on
-this account one cannot withhold from her a certain approbation;
-for she has preferred what is of most importance, and has acted[372]
-in the spirit of nature (more exactly, of the species), while the
-parents advised in the spirit of individual egoism. In accordance
-with all this, it appears as if in making a marriage either the indi-
-vidual or the interests of the species must come off a loser. And
-this is generally the case; for that convenience and passionate
-love should go hand in hand is the rarest of lucky accidents. The
-physical, moral, or intellectual deficiency of the nature of most
-men may to some extent have its ground in the fact that marriages
-are ordinarily entered into not from pure choice and inclination,
-but from all kinds of external considerations, and on account
-of accidental circumstances. If, however, besides convenience,
-inclination is also to a certain extent regarded, this is, as it were,
-an agreement with the genius of the species. Happy marriages
-are well known to be rare; just because it lies in the nature of
-marriage that its chief end is not the present but the coming
-generation. However, let me add, for the consolation of tender,
-loving natures, that sometimes passionate sexual love associates
-itself with a feeling of an entirely different origin—real friend-
-ship based upon agreement of disposition, which yet for the most
-part only appears when sexual love proper is extinguished in its
-satisfaction. This friendship will then generally spring from the
-fact that the supplementing and corresponding physical, moral,
-and intellectual qualities of the two individuals, from which
-sexual love arose, with reference to the child to be produced,
-are, with reference also to the individuals themselves, related to
-each other in a supplementary manner as opposite qualities of
-temperament and mental gifts, and thereby form the basis of a
-harmony of disposition.
-The whole metaphysics of love here dealt with stands in close
-363
-connection with my metaphysics in general, and the light which
-it throws upon this may be summed up as follows.
-We have seen that the careful selection for the satisfaction of
-the sexual impulse, a selection which rises through innumerable [373]
-degrees up to that of passionate love, depends upon the highly
-serious interest which man takes in the special personal consti-
-tution of the next generation. Now this exceedingly remarkable
-interest confirms two truths which have been set forth in the
-preceding chapters. 
+
+A girl who, against the advice of her parents, rejects the offer of a rich and not yet old man, in order, setting aside all considerations of convenience, to choose according to her instinctive inclination alone, sacrifices her individual welfare to the species. But just on this account one cannot withhold from her a certain approbation; for she has preferred what is of most importance, and has acted[372] in the spirit of nature (more exactly, of the species), while the parents advised in the spirit of individual egoism. In accordance with all this, it appears as if in making a marriage either the indi- vidual or the interests of the species must come off a loser. And this is generally the case; for that convenience and passionate love should go hand in hand is the rarest of lucky accidents. The physical, moral, or intellectual deficiency of the nature of most men may to some extent have its ground in the fact that marriages are ordinarily entered into not from pure choice and inclination, but from all kinds of external considerations, and on account of accidental circumstances. If, however, besides convenience, inclination is also to a certain extent regarded, this is, as it were, an agreement with the genius of the species. Happy marriages are well known to be rare; just because it lies in the nature of marriage that its chief end is not the present but the coming generation. However, let me add, for the consolation of tender, loving natures, that sometimes passionate sexual love associates itself with a feeling of an entirely different origin—real friend- ship based upon agreement of disposition, which yet for the most part only appears when sexual love proper is extinguished in its satisfaction. This friendship will then generally spring from the fact that the supplementing and corresponding physical, moral, and intellectual qualities of the two individuals, from which sexual love arose, with reference to the child to be produced, are, with reference also to the individuals themselves, related to each other in a supplementary manner as opposite qualities of temperament and mental gifts, and thereby form the basis of a harmony of disposition.
+
+The whole metaphysics of love here dealt with stands in close connection with my metaphysics in general, and the light which it throws upon this may be summed up as follows. We have seen that the careful selection for the satisfaction of the sexual impulse, a selection which rises through innumerable [373] degrees up to that of passionate love, depends upon the highly serious interest which man takes in the special personal consti- tution of the next generation. Now this exceedingly remarkable interest confirms two truths which have been set forth in the preceding chapters.
 
 1. The indestructibility of the true nature of man, which lives on in that coming generation. 
 
@@ -457,36 +414,13 @@ But to regard this continued existence as something trifling and insufficient is
 future existence of beings similar to us, but in no regard identical
 with us.
 
-This again because, starting from knowledge directed towards without, one takes into consideration only the external
-form of the species as we apprehend it in perception, and not its inner nature. But it is just this inner nature which lies at the
-foundation of our own consciousness as its kernel, and hence
-indeed is more immediate than this itself, and, as thing in itself,
-free from the principium individuationis, is really the same and
-identical in all individuals, whether they exist together or after
-each other. Now this is the will to live, thus just that which
-desires life and continuance so vehemently. This accordingly
-is spared and unaffected by death. 
+This again because, starting from knowledge directed towards without, one takes into consideration only the external form of the species as we apprehend it in perception, and not its inner nature. But it is just this inner nature which lies at the foundation of our own consciousness as its kernel, and hence indeed is more immediate than this itself, and, as thing in itself, free from the principium individuationis, is really the same and identical in all individuals, whether they exist together or after each other. Now this is the will to live, thus just that which desires life and continuance so vehemently. This accordingly is spared and unaffected by death.
 
 It can attain to no better state than its present one; and consequently for it, with life, the
 constant suffering and striving of the individuals is certain. To free it from this is reserved for the denial of the will to live, as the means by which the individual will breaks away from the stem of the species, and surrenders that existence in it. 
 
-We lack conceptions for that which it now is; indeed all data for such
-conceptions are wanting. We can only describe it as that which
-is free to be will to live or not. Buddhism denotes the latter case
-by the word Nirvana, the etymology of which was given in the
-note at the end of chapter 41. It is the point which remains for
-ever unattainable to all human knowledge, just as such.
+We lack conceptions for that which it now is; indeed all data for such conceptions are wanting. We can only describe it as that which is free to be will to live or not. Buddhism denotes the latter case by the word Nirvana, the etymology of which was given in the note at the end of chapter 41. It is the point which remains for ever unattainable to all human knowledge, just as such.
 
-If now, from the standpoint of this last consideration, we
-contemplate the turmoil of life, we behold all occupied with its
-want and misery, straining all their powers to satisfy its infinite
-needs and to ward off its multifarious sorrows, yet without daring
-to hope anything else than simply the preservation of this tormented existence for a short span of time. In between, however,
-in the midst of the tumult, we see the glances of two lovers meet
-longingly: yet why so secretly, fearfully, and stealthily? 
+If now, from the standpoint of this last consideration, we contemplate the turmoil of life, we behold all occupied with its want and misery, straining all their powers to satisfy its infinite needs and to ward off its multifarious sorrows, yet without daring to hope anything else than simply the preservation of this tormented existence for a short span of time. In between, however, in the midst of the tumult, we see the glances of two lovers meet longingly: yet why so secretly, fearfully, and stealthily?
 
-Because
-these lovers are the traitors who seek to perpetuate the whole want and drudgery, which would otherwise speedily reach an
-end; this they wish to frustrate, as others like them have frustrated
-it before. This consideration already passes over into the subject
-of the following chapter.
+Because these lovers are the traitors who seek to perpetuate the whole want and drudgery, which would otherwise speedily reach an end; this they wish to frustrate, as others like them have frustrated it before. This consideration already passes over into the subject of the following chapter.
