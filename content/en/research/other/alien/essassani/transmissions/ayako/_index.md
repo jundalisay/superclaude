@@ -2,7 +2,7 @@
 title:  "Ayako Sekino"
 description: ""
 image: "/photos/people/ayako.jpg"
-featured: true
+# featured: true
 weight: 2
 ---
 

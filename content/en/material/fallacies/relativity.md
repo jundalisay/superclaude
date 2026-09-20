@@ -17,9 +17,11 @@ Superphysics was created because of the defiencies in the materialist or limited
 
 Material Superphysics was created specifically to fix the deficiencies in the physical sciences such as Physics and Chemistry. 
 
-The biggest error in Physics is the Theory of Relativity by Einstein. This is similar to the Marginal Revolution error of Modern Economics that has caused so many problems in society. 
+The biggest error in Physics is the Theory of Relativity of Einstein. This is similar to the Marginal Revolution error of Modern Economics that has caused so many problems in society. 
 
-Relativity has held back Physics since the 1900s by misdirecting research efforts towards uselessness.  
+Relativity has held back Physics since the 1900s by misdirecting research efforts towards uselessness, and was vehemently bashed by the genius Nikola Tesla.
+
+![Tesla](/graphics/physics/tesla.jpg)
 
 
 
