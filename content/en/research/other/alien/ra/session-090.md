@@ -1,5 +1,5 @@
 ---
-heading: Session 89
+heading: Session 90
 title: "Archetypes"
 description: ""
 c: "indigo"
@@ -13,8 +13,6 @@ tags: ['archetype']
 
 June 19, 1982
 
-
-## Session 90
 
 {{< r a="Don Elkins" >}}What is the situation of our 4D and 5D companions at this time?{{< /r >}}
 
@@ -173,7 +171,8 @@ This form of expression of hostility is an interesting result which is apparentl
 
 {{< r a="Don Elkins" >}}Would this be the reason for the greater positive harvests? I suspect that it isn’t, but would there be Logoi that have greater negative percentage harvests because of this type of biasing?{{< /r >}}
 
-{{< l a="Ra" >}}No. There have been Logoi with greater percentages of negative harvests. However, the biasing mechanisms cannot change the requirements for achieving harvestability either in the positive or in the negative sense. There are Logoi which have offered a neutral background against which to polarize. This Logos chose not to do so but instead to allow more of the love and light of the Infinite Creator to be both inwardly and outwardly visible and available to the sensations and conceptualizations of mind/body/spirit complexes undergoing Its care in experimenting.{{< /l >}}
+{{< l a="Ra" >}}
+No. There have been Logoi with greater percentages of negative harvests. However, the biasing mechanisms cannot change the requirements for achieving harvestability either in the positive or in the negative sense. There are Logoi which have offered a neutral background against which to polarize. This Logos chose not to do so but instead to allow more of the love and light of the Infinite Creator to be both inwardly and outwardly visible and available to the sensations and conceptualizations of mind/body/spirit complexes undergoing Its care in experimenting.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Were there any other circumstances, biases, consequences, or plans set up by the Logos other than those we have discussed for the evolution of Its parts through the densities?{{< /r >}}
 
@@ -199,14 +198,18 @@ This form of expression of hostility is an interesting result which is apparentl
 
 Now, when Ra initially planned for helping the Egyptians with their evolution, what was the most, or the primary concept, and also secondary and tertiary if you can name those, that Ra wished to impart to the Egyptians? In other words, what was Ra’s training plan or schedule for making the Egyptians aware of what was necessary for their evolution?{{< /r >}}
 
-{{< l a="Ra" >}}We came to your peoples to enunciate the Law of One. We wished to impress upon those who wished to learn of unity that in unity all paradoxes are resolved; all that is broken is healed; all that is forgotten is brought to light. We had no teaching plan, as you have called it, in that our intention when we walked among your peoples was to manifest that which was requested by those learn/teachers to which we had come.
+{{< l a="Ra" >}}
+We came to your peoples to enunciate the Law of One. We wished to impress upon those who wished to learn of unity that in unity all paradoxes are resolved:
+- all that is broken is healed
+- all that is forgotten is brought to light
 
-We are aware that this particular line of querying; that is, the nature and architecture of the archetypical mind, has caused the questioner to attempt, to its own mind unsuccessfully, to determine the relative importance of these concepts. We cannot learn/teach for any, nor would we take this opportunity from the questioner. However, we shall comment.
+We had no teaching plan. Our intention was to manifest that which was requested by those learn/teachers to which we had come.
+
+We are aware that this particular line of querying; that is, the nature and architecture of the archetypical mind, has caused the questioner to attempt, to its own mind unsuccessfully, to determine the relative importance of these concepts. We cannot learn/teach for any, nor would we take this opportunity from the questioner.
 
 The adept has already worked much, not only within the red, orange, yellow, and green energy centers, but already in the opening of blue and indigo. Up through this point the archetypes function as the great base or plinth of a builded structure or statue keeping the mind complex viable, level, and available as a resource whenever it may be evoked. There is a point at which the adept takes up its work. This is the point at which a clear and conscious consideration of the archetypical mind is useful.{{< /l >}}
 
 
 
 <!-- 90.30 Questioner: I have an observation on Archetype One made by Jim and request comment by Ra: “The Matrix of the Mind is the conscious mind and is sustained by the power of the spirit, symbolized by the star, which flows to it through the subconscious mind. It contains the will which is symbolized by the scepter of power in the Magician’s hand. All of creation is made through the power of the will directed by the conscious mind of the Magician, and the bird in the cage represents the illusion in which the self seems trapped. The Magician represents maleness or the radiance of being manifested as the creation through which each entity moves.” -->
-
 

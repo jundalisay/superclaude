@@ -41,9 +41,57 @@ Density refers to the relational frequency of the waves.
 - High density means squising the waves. 
 - Low density means relaxing them. 
 
-A relaxed wave can increase its density level by squishing itself which is really the wave accepting the influence of higher waves. 
+A relaxed wave can increase its density level by **squishing** itself which is really the wave accepting the influence of higher waves. 
+- In Buddhist philosophy, this squishing is the effect of keeping the wheel of Dharma turning
 
-Likewise, a squished wave can decreates its density by relaxing which is really the wave accepting the influence of lower waves or vibrations. 
+Likewise, a squished wave can decreates its density by **relaxing** which is really the wave accepting the influence of lower waves or vibrations. 
+- This happens when a person does not implement any spiritual or mental discipline. 
+
+The common misconception of physicists is to the regard only physical waves instead of metaphysical waves. For example, when physical sound waves get squished they merely get a higher pitch. They do not cross dimensions. 
+
+But when metaphysical feeling-waves get squished, for example as anger, then the person crosses over to physical action in the physical dimension by going amok. 
+
+
+## Densities and Dimensions
+
+The differences in perception densities leads to different dimensions, as the effect of perception. 
+
+In Hinduism:
+- densities are called kosas
+- dimensions are called lokas
+
+
+From the perspective of the self, we use the naming convention of the Sassani as they are consistent with specific mental exercises. These densities are as follows:
+
+Domain | Density | Name | Manifestation
+--- | --- | --- | ---
+Physical | 1 | Identity | Pure Staticity, perceives as objects
+Physical | 2 | Self | Perceives from a single point
+Physical | 3 | Collective | Perceives as a group
+Quasi-Physical | 4 | Lower Mind | In between physical and metaphysical perceptions
+Metaphysical | 5 | Higher Mind | Start of pure metaphysical domain
+Metaphysical | 6 | Soul | Universes in the Multiverse
+Metaphysical |  7 | Brahma or Oversoul  | Ultimate Cause
+Void |  8 | Non-Existential | Void
+
+
+From the perspective of reality and dimensions, we use the naming convention of Ra from the Law of One, as it is simple and prevents the confusion of the Indian Koshas where each guru has a different name for each density:
+
+Domain | Density | Name | Manifestation
+--- | --- | --- | ---
+Physical | 1 | 1st (Annamaya Kosha) | 5 Layers or Elements, matter, rocks
+Physical | 2 | 2nd (Pranamaya Kosha) | Minerals, plants, animals
+Physical | 3 | 3rd (Manomaya Kosha) | Humans, Thinking aliens
+Quasi-Physical | 4 | 4th (Vijnanamaya Kosha) | Advanced Humans and aliens
+Metaphysical | 5 | 5th (Anandamaya Kosha) | Spirit
+Metaphysical | 6 | 6th | Dimensions or Different Universes
+Metaphysical |  7 | 7th (Brahmananda) | Unity of Dimensions or Multiverse 
+Void |  8 | Non-Existential | Void
+
+
+<!-- https://www.youtube.com/watch?v=uyncyd8S3wk -->
+
+
 
 
 <!-- The previous section explained how the dimensions of space and time are caused by the mind perceiving and stitching together the slices of space and time differently.
@@ -62,16 +110,6 @@ We say that a mind that has a higher *density* if it has more of the Positive an
 
 These then correlates to the range that it can detect of the domains and dimensions.   
 
-Domain | Density | Name | Manifestation
---- | --- | --- | ---
-Physical | 1 | Identity | Pure Staticity, perceives as objects
-Physical | 2 | Self | Perceives from a single point
-Physical | 3 | Collective | Perceives as a group
-Quasi-Physical | 4 | Lower Mind | In between physical and metaphysical perceptions
-Metaphysical | 5 | Higher Mind | Start of pure metaphysical domain
-Metaphysical | 6 | Soul | Universes in the Multiverse
-Metaphysical |  7 | Brahma or Oversoul  | Ultimate Cause
-Void |  8 | Non-Existential | Void
 
 
 

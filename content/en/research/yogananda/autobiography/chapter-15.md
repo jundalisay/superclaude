@@ -24,7 +24,7 @@ I awoke early the following morning, refreshed by the salty sea breezes and the 
 
 
 
-### MY GURU’S SEASIDE HERMITAGE AT PURI
+### My Guru’S Seaside Hermitage At Puri
 
 A steady stream of visitors poured from the world into the hermitage tranquillity. 
 
@@ -188,7 +188,7 @@ I followed him to his bedroom a half hour later, realizing fully that I was abou
 
 ### Footnotes
 
-15-1: Puri, about 310 miles south of Calcutta, is a famous pilgrimage city for devotees of Krishna; his worship is celebrated there with two immense annual festivals, Snanayatra and Rathayatra .
+15-1: Puri, about 310 miles south of Calcutta, is a famous pilgrimage city for devotees of Krishna; his worship is celebrated there with two immense annual festivals, Snanayatra and Rathayatra 
 
 15-2: The 1939 discovery of a radio microscope revealed a new world of hitherto unknown rays. “Man himself as well as all kinds of supposedly inert matter constantly emits the rays that this instrument ‘sees,’” reported the Associated Press . “Those who believe in telepathy, second sight, and clairvoyance, have in this announcement the first scientific proof of the existence of invisible rays which really travel from one person to another. The radio device actually is a radio frequency spectroscope. It does the same thing for cool, nonglowing matter that the spectroscope does when it discloses the kinds of atoms that make the stars. . . . The existence of such rays coming from man and all living things has been suspected by scientists for many years. Today is the first experimental proof of their existence. The discovery shows that every atom and every molecule in nature is a continuous radio broadcasting station. . . . Thus even after death the substance that was a man continues to send out its delicate rays. The wave lengths of these rays range from shorter than anything now used in broadcasting to the longest kind of radio waves. The jumble of these rays is almost inconceivable. There are millions of them. A single very large molecule may give off 1,000,000 different wave lengths at the same time. The longer wave lengths of this sort travel with the ease and speed of radio waves. . . . There is one amazing difference between the new radio rays and familiar rays like light. This is the prolonged time, amounting to thousands of years, which these radio waves will keep on emitting from undisturbed matter.”
 

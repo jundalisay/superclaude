@@ -4,89 +4,147 @@ heading: Chapter 16
 description: ""
 c: "indigo"
 weight: 54
+tags: ['yugas', 'astrology']
 ---
 
 
+{{< r a="Sri Yukteswar" >}}
+Mukunda, why don’t you get an astrological armlet?
+{{< /r >}}
 
-“Mukunda, why don’t you get an astrological armlet?”
+{{< l a="Yogananda" >}}
+I don’t believe in astrology.
+{{< /l >}}
 
-“Should I, Master? I don’t believe in astrology.”
+{{< r a="Sri Yukteswar" >}}
+It is never a question of belief. The only scientific attitude one can take on any subject is whether it is true . The law of gravitation worked as efficiently before Newton as after him. The cosmos would be fairly chaotic if its laws could not operate without the sanction of human belief.
 
-“It is never a question of belief ; the only scientific attitude one can take on any subject is whether it is true . The law of gravitation worked as efficiently before Newton as after him. The cosmos would be fairly chaotic if its laws could not operate without the sanction of human belief.
+Charlatans have brought the stellar science to its present state of disrepute. Astrology is too vast, both mathematically 16-1 and philosophically, to be rightly grasped except by men of profound understanding. If ignoramuses misread the heavens, and see there a scrawl instead of a script, that is to be expected in this imperfect world. One should not dismiss the wisdom with the ‘wise.’
 
-“Charlatans have brought the stellar science to its present state of disrepute. Astrology is too vast, both mathematically 16-1 and philosophically, to be rightly grasped except by men of profound understanding. If ignoramuses misread the heavens, and see there a scrawl instead of a script, that is to be expected in this imperfect world. One should not dismiss the wisdom with the ‘wise.’
+All parts of creation are linked together and interchange their influences. The balanced rhythm of the universe is rooted in reciprocity,” my guru continued. “Man, in his human aspect, has to combat two sets of forces-first, the tumults within his being, caused by the admixture of earth, water, fire, air, and ethereal elements; second, the outer disintegrating powers of nature. So long as man struggles with his mortality, he is affected by the myriad mutations of heaven and earth.
 
-“All parts of creation are linked together and interchange their influences. The balanced rhythm of the universe is rooted in reciprocity,” my guru continued. “Man, in his human aspect, has to combat two sets of forces-first, the tumults within his being, caused by the admixture of earth, water, fire, air, and ethereal elements; second, the outer disintegrating powers of nature. So long as man struggles with his mortality, he is affected by the myriad mutations of heaven and earth.
+Astrology is the study of man’s response to planetary stimuli. The stars have no conscious benevolence or animosity; they merely send forth positive and negative radiations. Of themselves, these do not help or harm humanity, but offer a lawful channel for the outward operation of cause-effect equilibriums which each man has set into motion in the past.
 
-“Astrology is the study of man’s response to planetary stimuli. The stars have no conscious benevolence or animosity; they merely send forth positive and negative radiations. Of themselves, these do not help or harm humanity, but offer a lawful channel for the outward operation of cause-effect equilibriums which each man has set into motion in the past.
+A child is born on that day and at that hour when the celestial rays are in mathematical harmony with his individual karma. His horoscope is a challenging portrait, revealing his unalterable past and its probable future results. But the natal chart can be rightly interpreted only by men of intuitive wisdom: these are few.
 
-“A child is born on that day and at that hour when the celestial rays are in mathematical harmony with his individual karma. His horoscope is a challenging portrait, revealing his unalterable past and its probable future results. But the natal chart can be rightly interpreted only by men of intuitive wisdom: these are few.
+The message boldly blazoned across the heavens at the moment of birth is not meant to emphasize fate-the result of past good and evil-but to arouse man’s will to escape from his universal thralldom. What he has done, he can undo. None other than himself was the instigator of the causes of whatever effects are now prevalent in his life. He can overcome any limitation, because he created it by his own actions in the first place, and because he has spiritual resources which are not subject to planetary pressure.
 
-“The message boldly blazoned across the heavens at the moment of birth is not meant to emphasize fate-the result of past good and evil-but to arouse man’s will to escape from his universal thralldom. What he has done, he can undo. None other than himself was the instigator of the causes of whatever effects are now prevalent in his life. He can overcome any limitation, because he created it by his own actions in the first place, and because he has spiritual resources which are not subject to planetary pressure.
+Superstitious awe of astrology makes one an automaton, slavishly dependent on mechanical guidance. The wise man defeats his planets- which is to say, his past-by transferring his allegiance from the creation to the Creator. The more he realizes his unity with Spirit, the less he can be dominated by matter. The soul is ever-free; it is deathless because birthless. It cannot be regimented by stars.
 
-“Superstitious awe of astrology makes one an automaton, slavishly dependent on mechanical guidance. The wise man defeats his planets- which is to say, his past-by transferring his allegiance from the creation to the Creator. The more he realizes his unity with Spirit, the less he can be dominated by matter. The soul is ever-free; it is deathless because birthless. It cannot be regimented by stars.
+Man is a soul, and has a body. When he properly places his sense of identity, he leaves behind all compulsive patterns. So long as he remains confused in his ordinary state of spiritual amnesia, he will know the subtle fetters of environmental law.
 
-“Man is a soul, and has a body. When he properly places his sense of identity, he leaves behind all compulsive patterns. So long as he remains confused in his ordinary state of spiritual amnesia, he will know the subtle fetters of environmental law.
+God is harmony; the devotee who attunes himself will never perform any action amiss. His activities will be correctly and naturally timed to accord with astrological law. After deep prayer and meditation he is in touch with his divine consciousness; there is no greater power than that inward protection.”
+{{< /r >}}
 
-“God is harmony; the devotee who attunes himself will never perform any action amiss. His activities will be correctly and naturally timed to accord with astrological law. After deep prayer and meditation he is in touch with his divine consciousness; there is no greater power than that inward protection.”
 
-“Then, dear Master, why do you want me to wear an astrological bangle?” I ventured this question after a long silence, during which I had tried to assimilate Sri Yukteswar’s noble exposition.
+{{< l a="Yogananda" >}}
+Then, dear Master, why do you want me to wear an astrological bangle?
+{{< /l >}}
 
-“It is only when a traveler has reached his goal that he is justified in discarding his maps. During the journey, he takes advantage of any convenient short cut. The ancient rishis discovered many ways to curtail the period of man’s exile in delusion. There are certain mechanical features in the law of karma which can be skillfully adjusted by the fingers of wisdom.
+<!-- I ventured this question after a long silence, during which I had tried to assimilate Sri Yukteswar’s noble exposition. -->
 
-“All human ills arise from some transgression of universal law. The scriptures point out that man must satisfy the laws of nature, while not discrediting the divine omnipotence. He should say: ‘Lord, I trust in Thee, and know Thou canst help me, but I too will do my best to undo any wrong I have done.’ By a number of means-by prayer, by will power, by yoga meditation, by consultation with saints, by use of astrological bangles-the adverse effects of past wrongs can be minimized or nullified.
+{{< r a="Sri Yukteswar" >}}
+It is only when a traveler has reached his goal that he is justified in discarding his maps. During the journey, he takes advantage of any convenient short cut. The ancient rishis discovered many ways to curtail the period of man’s exile in delusion. There are certain mechanical features in the law of karma which can be skillfully adjusted by the fingers of wisdom.
 
-“Just as a house can be fitted with a copper rod to absorb the shock of lightning, so the bodily temple can be benefited by various protective measures. Ages ago our yogis discovered that pure metals emit an astral light which is powerfully counteractive to negative pulls of the planets. Subtle electrical and magnetic radiations are constantly circulating in the universe; when a man’s body is being aided, he does not know it; when it is being disintegrated, he is still in ignorance. Can he do anything about it?
+All human ills arise from some transgression of universal law. The scriptures point out that man must satisfy the laws of nature, while not discrediting the divine omnipotence. He should say: ‘Lord, I trust in Thee, and know Thou canst help me, but I too will do my best to undo any wrong I have done.’ By a number of means-by prayer, by will power, by yoga meditation, by consultation with saints, by use of astrological bangles-the adverse effects of past wrongs can be minimized or nullified.
 
-“This problem received attention from our rishis; they found helpful not only a combination of metals, but also of plants and-most effective of all-faultless jewels of not less than two carats. The preventive uses of astrology have seldom been seriously studied outside of India. One little-known fact is that the proper jewels, metals, or plant preparations are valueless unless the required weight is secured, and unless these remedial agents are worn next to the skin.”
+Just as a house can be fitted with a copper rod to absorb the shock of lightning, so the bodily temple can be benefited by various protective measures. Ages ago our yogis discovered that pure metals emit an astral light which is powerfully counteractive to negative pulls of the planets. Subtle electrical and magnetic radiations are constantly circulating in the universe; when a man’s body is being aided, he does not know it; when it is being disintegrated, he is still in ignorance. Can he do anything about it?
+
+This problem received attention from our rishis; they found helpful not only a combination of metals, but also of plants and-most effective of all-faultless jewels of not less than two carats. The preventive uses of astrology have seldom been seriously studied outside of India. One little-known fact is that the proper jewels, metals, or plant preparations are valueless unless the required weight is secured, and unless these remedial agents are worn next to the skin.
+{{< /r >}}
+
 
 “Sir, of course I shall take your advice and get a bangle. I am intrigued at the thought of outwitting a planet!”
 
-“For general purposes I counsel the use of an armlet made of gold, silver, and copper. But for a specific purpose I want you to get one of silver and lead.” Sri Yukteswar added careful directions.
+{{< r a="Sri Yukteswar" >}}
+For general purposes I counsel the use of an armlet made of gold, silver, and copper. But for a specific purpose I want you to get one of silver and lead.” Sri Yukteswar added careful directions.
+{{< /r >}}
 
 “Guruji, what ‘specific purpose’ do you mean?”
 
-“The stars are about to take an unfriendly interest in you, Mukunda. Fear not; you shall be protected. In about a month your liver will cause you much trouble. The illness is scheduled to last for six months, but your use of an astrological armlet will shorten the period to twenty-four days.”
+{{< r a="Sri Yukteswar" >}}
+The stars are about to take an unfriendly interest in you, Mukunda. Fear not; you shall be protected. In about a month your liver will cause you much trouble. The illness is scheduled to last for six months, but your use of an astrological armlet will shorten the period to twenty-four days.
+{{< /r >}}
 
 I sought out a jeweler the next day, and was soon wearing the bangle. My health was excellent; Master’s prediction slipped from my mind. He left Serampore to visit Benares. Thirty days after our conversation, I felt a sudden pain in the region of my liver. The following weeks were a nightmare of excruciating pain. Reluctant to disturb my guru, I thought I would bravely endure my trial alone.
 
-But twenty-three days of torture weakened my resolution; I entrained for Benares. There Sri Yukteswar greeted me with unusual warmth, but gave me no opportunity to tell him my woes in private. Many devotees visited Master that day, just for a darshan. 16-2 Ill and neglected, I sat in a corner. It was not until after the evening meal that all guests had departed. My guru summoned me to the octagonal balcony of the house.
+But 23 days of torture weakened my resolution; I entrained for Benares. There Sri Yukteswar greeted me with unusual warmth, but gave me no opportunity to tell him my woes in private. Many devotees visited Master that day, just for a darshan. 16-2 Ill and neglected, I sat in a corner. It was not until after the evening meal that all guests had departed. My guru summoned me to the octagonal balcony of the house.
 
-“You must have come about your liver disorder.” Sri Yukteswar’s gaze was averted; he walked to and fro, occasionally intercepting the moonlight. “Let me see; you have been ailing for twenty-four days, haven’t you?”
+{{< r a="Sri Yukteswar" >}}
+You must have come about your liver disorder.
+{{< /r >}}
+
+
+Sri Yukteswar’s gaze was averted; he walked to and fro, occasionally intercepting the moonlight. “Let me see; you have been ailing for twenty-four days, haven’t you?”
+
 
 “Yes, sir.”
 
-“Please do the stomach exercise I have taught you.”
+{{< r a="Sri Yukteswar" >}}
+Please do the stomach exercise I have taught you.
+{{< /r >}}
 
-“If you knew the extent of my suffering, Master, you would not ask me to exercise.” Nevertheless I made a feeble attempt to obey him.
+“If you knew the extent of my suffering, Master, you would not ask me to exercise.” 
 
-“You say you have pain; I say you have none. How can such contradictions exist?” My guru looked at me inquiringly.
+Nevertheless I made a feeble attempt to obey him.
+
+
+{{< r a="Sri Yukteswar" >}}
+You say you have pain; I say you have none. How can such contradictions exist?”
+{{< /r >}}
+
+
+My guru looked at me inquiringly.
 
 I was dazed and then overcome with joyful relief. No longer could I feel the continuous torment that had kept me nearly sleepless for weeks; at Sri Yukteswar’s words the agony vanished as though it had never been.
 
 I started to kneel at his feet in gratitude, but he quickly prevented me.
 
-“Don’t be childish. Get up and enjoy the beauty of the moon over the Ganges.” But Master’s eyes were twinkling happily as I stood in silence beside him. I understood by his attitude that he wanted me to feel that not he, but God, had been the Healer.
+{{< r a="Sri Yukteswar" >}}
+Don’t be childish. Get up and enjoy the beauty of the moon over the Ganges.
+{{< /r >}}
+
+
+But Master’s eyes were twinkling happily as I stood in silence beside him. I understood by his attitude that he wanted me to feel that not he, but God, had been the Healer.
 
 I wear even now the heavy silver and lead bangle, a memento of that day-long-past, ever-cherished-when I found anew that I was living with a personage indeed superhuman. On later occasions, when I brought my friends to Sri Yukteswar for healing, he invariably recommended jewels or the bangle, extolling their use as an act of astrological wisdom.
 
 I had been prejudiced against astrology from my childhood, partly because I observed that many people are sequaciously attached to it, and partly because of a prediction made by our family astrologer: “You will marry three times, being twice a widower.” I brooded over the matter, feeling like a goat awaiting sacrifice before the temple of triple matrimony.
 
-“You may as well be resigned to your fate,” my brother Ananta had remarked. “Your written horoscope has correctly stated that you would fly from home toward the Himalayas during your early years, but would be forcibly returned. The forecast of your marriages is also bound to be true.”
+
+{{< r a="Ananta" >}}
+You may as well be resigned to your fate. Your written horoscope has correctly stated that you would fly from home toward the Himalayas during your early years, but would be forcibly returned. The forecast of your marriages is also bound to be true.
+{{< /r >}}
 
 A clear intuition came to me one night that the prophecy was wholly false. I set fire to the horoscope scroll, placing the ashes in a paper bag on which I wrote: “Seeds of past karma cannot germinate if they are roasted in the divine fires of wisdom.” I put the bag in a conspicuous spot; Ananta immediately read my defiant comment.
 
-“You cannot destroy truth as easily as you have burnt this paper scroll.” My brother laughed scornfully.
+{{< r a="Ananta" >}}
+[laughing] You cannot destroy truth as easily as you have burnt this paper scroll.
+{{< /r >}}
+
 
 It is a fact that on three occasions before I reached manhood, my family tried to arrange my betrothal. Each time I refused to fall in with the plans, 16-3 knowing that my love for God was more overwhelming than any astrological persuasion from the past.
 
-“The deeper the self-realization of a man, the more he influences the whole universe by his subtle spiritual vibrations, and the less he himself is affected by the phenomenal flux.” These words of Master’s often returned inspiringly to my mind.
+{{< r a="Sri Yukteswar" >}}
+The deeper the self-realization of a man, the more he influences the whole universe by his subtle spiritual vibrations, and the less he himself is affected by the phenomenal flux.
+{{< /r >}}
 
-Occasionally I told astrologers to select my worst periods, according to planetary indications, and I would still accomplish whatever task I set myself. It is true that my success at such times has been accompanied by extraordinary difficulties. But my conviction has always been justified: faith in the divine protection, and the right use of man’s God-given will, are forces formidable beyond any the “inverted bowl” can muster.
+
+These words of Master’s often returned inspiringly to my mind.
+
+Occasionally I told astrologers to select my worst periods, according to planetary indications, and I would still accomplish whatever task I set myself. It is true that my success at such times has been accompanied by extraordinary difficulties. 
+
+But my conviction has always been justified: faith in the divine protection, and the right use of man’s God-given will, are forces formidable beyond any the “inverted bowl” can muster.
 
 The starry inscription at one’s birth, I came to understand, is not that man is a puppet of his past. Its message is rather a prod to pride; the very heavens seek to arouse man’s determination to be free from every limitation. God created each man as a soul, dowered with individuality, hence essential to the universal structure, whether in the temporary role of pillar or parasite. His freedom is final and immediate, if he so wills; it depends not on outer but inner victories.
 
-Sri Yukteswar discovered the mathematical application of a 24,000-year equinoctial cycle to our present age. 16-4 The cycle is divided into an Ascending Arc and a Descending Arc, each of 12,000 years. Within each Arc fall four Yugas or Ages, called Kali , Dwapara , Treta , and Satya , corresponding to the Greek ideas of Iron, Bronze, Silver, and Golden Ages.
+
+### Yugas
+
+Sri Yukteswar discovered the mathematical application of a 24,000-year* equinoctial cycle to our present age. 16-4 The cycle is divided into an Ascending Arc and a Descending Arc, each of 12,000 years. Within each Arc fall four Yugas or Ages, called Kali , Dwapara , Treta , and Satya, corresponding to the Greek ideas of Iron, Bronze, Silver, and Golden Ages.
+
+{{< n n="We have computed it to 25,080 via Sassani and Ra material which is based on the Earth circumference divided into 4 quadrants" >}}
+
 
 My guru determined by various calculations that the last Kali Yuga or Iron Age, of the Ascending Arc, started about A.D. 500. The Iron Age, 1200 years in duration, is a span of materialism; it ended about A.D. 1700. That year ushered in Dwapara Yuga , a 2400-year period of electrical and atomic-energy developments, the age of telegraph, radio, airplanes, and other space-annihilators.
 
@@ -96,9 +154,16 @@ A descending arc of 12,000 years, starting with a descending Golden Age of 4800 
 
 Master enlarged my understanding not only of astrology but of the world’s scriptures. Placing the holy texts on the spotless table of his mind, he was able to dissect them with the scalpel of intuitive reasoning, and to separate errors and interpolations of scholars from the truths as originally expressed by the prophets.
 
-“Fix one’s vision on the end of the nose.” This inaccurate interpretation of a Bhagavad Gita stanza, 16-7 widely accepted by Eastern pundits and Western translators, used to arouse Master’s droll criticism.
+{{< r a="Sri Yukteswar" >}}
+Fix one’s vision on the end of the nose.
+{{< /r >}}
+
+
+This inaccurate interpretation of a Bhagavad Gita stanza, 16-7 widely accepted by Eastern pundits and Western translators, used to arouse Master’s droll criticism.
+
 
 “The path of a yogi is singular enough as it is,” he remarked. “Why counsel him that he must also make himself cross-eyed? The true meaning of nasikagram is ‘origin of the nose, not ‘end of the nose.’ The nose begins at the point between the two eyebrows, the seat of spiritual vision.” 16-8 Because of one Sankhya 16-9 aphorism, “Iswar-ashidha ,”-“A Lord of Creation cannot be deduced” or “God is not proved,” 16-10 -many scholars call the whole philosophy atheistical.
+
 
 “The verse is not nihilistic,” Sri Yukteswar explained. “It merely signifies that to the unenlightened man, dependent on his senses for all final judgments, proof of God must remain unknown and therefore non-existent. True Sankhya followers, with unshakable insight born of meditation, understand that the Lord is both existent and knowable.”
 

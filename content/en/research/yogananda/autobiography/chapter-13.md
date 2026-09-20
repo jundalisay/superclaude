@@ -7,29 +7,48 @@ weight: 40
 ---
 
 
+{{< l a="Yogananda" >}}
+Please let me go to the Himalayas. I hope to achieve continuous divine communion in unbroken solitude.
+{{< /l >}}
 
 
-“Please permit me to go to the Himalayas. I hope in unbroken solitude to achieve continuous divine communion.”
+I actually said these to my Master when I was deluded as a devotee. I felt a growing impatience with hermitage duties and college studies. So I proposed this only after 6 months with Sri Yukteswar. 
 
-I actually once addressed these ungrateful words to my Master. Seized by one of the unpredictable delusions which occasionally assail the devotee, I felt a growing impatience with hermitage duties and college studies. A feebly extenuating circumstance is that my proposal was made when I had been only six months with Sri Yukteswar. Not yet had I fully surveyed his towering stature.
+{{< r a="Sri Yukteswar" >}}
+Many hillmen live in the Himalayas, yet possess no God-perception. Wisdom is better sought from a man of realization than from an inert mountain.
+{{< /r >}}
 
-“Many hillmen live in the Himalayas, yet possess no God-perception.” My guru’s answer came slowly and simply. “Wisdom is better sought from a man of realization than from an inert mountain.”
 
-Ignoring Master’s plain hint that he, and not a hill, was my teacher, I repeated my plea. Sri Yukteswar vouchsafed no reply. I took his silence for consent, a precarious interpretation readily accepted at one’s convenience.
+I ignored his hint that he, and not a hill, was my teacher.
 
-In my Calcutta home that evening, I busied myself with travel preparations. Tying a few articles inside a blanket, I remembered a similar bundle, surreptitiously dropped from my attic window a few years earlier. I wondered if this were to be another ill-starred flight toward the Himalayas. The first time my spiritual elation had been high; tonight conscience smote heavily at thought of leaving my guru.
+ <!-- I repeated my plea. Sri Yukteswar vouchsafed no reply. I took his silence for consent, a precarious interpretation readily accepted at one’s convenience. -->
+
+
+In my Calcutta home that evening, I busied myself with travel preparations. Tying a few articles inside a blanket, I remembered a similar bundle, surreptitiously dropped from my attic window a few years earlier. 
+
+I wondered if this were to be another ill-starred flight toward the Himalayas. The first time my spiritual elation had been high; tonight conscience smote heavily at thought of leaving my guru.
 
 The following morning I sought out Behari Pundit, my Sanskrit professor at Scottish Church College.
 
-“Sir, you have told me of your friendship with a great disciple of Lahiri Mahasaya. Please give me his address.”
 
-“You mean Ram Gopal Muzumdar. I call him the ‘sleepless saint.’ He is always awake in an ecstatic consciousness. His home is at Ranbajpur, near Tarakeswar.”
+{{< l a="Yogananda" >}}
+Sir, you have told me of your friendship with a great disciple of Lahiri Mahasaya. Please give me his address.
+{{< /l >}}
 
-I thanked the pundit, and entrained immediately for Tarakeswar. I hoped to silence my misgivings by wringing a sanction from the “sleepless saint” to engage myself in lonely Himalayan meditation. Behari’s friend, I heard, had received illumination after many years of Kriya Yoga practice in isolated caves.
+{{< r a="Behari Pundit" >}}
+You mean Ram Gopal Muzumdar. I call him the ‘sleepless saint.’ He is always awake in an ecstatic consciousness. His home is at Ranbajpur, near Tarakeswar.
+{{< /r >}}
+
+
+I thanked the pundit, and entrained immediately for Tarakeswar. 
+
+I hoped to silence my misgivings by wringing a sanction from the “sleepless saint” to engage myself in lonely Himalayan meditation. Behari’s friend, I heard, had received illumination after many years of Kriya Yoga practice in isolated caves.
 
 At Tarakeswar I approached a famous shrine. Hindus regard it with the same veneration that Catholics give to the Lourdes sanctuary in France. Innumerable healing miracles have occurred at Tarakeswar, including one for a member of my family.
 
-“I sat in the temple there for a week,” my eldest aunt once told me. “Observing a complete fast, I prayed for the recovery of your Uncle Sarada from a chronic malady. On the seventh day I found a herb materialized in my hand! I made a brew from the leaves, and gave it to your uncle. His disease vanished at once, and has never reappeared.”
+{{< r a="Aunt" >}}
+I sat in the temple there for a week. Observing a complete fast, I prayed for the recovery of your Uncle Sarada from a chronic malady. On the seventh day I found a herb materialized in my hand! I made a brew from the leaves, and gave it to your uncle. His disease vanished at once, and has never reappeared.
+{{< /r >}}
 
 I entered the sacred Tarakeswar shrine; the altar contains nothing but a round stone. Its circumference, beginningless and endless, makes it aptly significant of the Infinite. Cosmic abstractions are not alien even to the humblest Indian peasant; he has been accused by Westerners, in fact, of living on abstractions!
 
@@ -133,10 +152,11 @@ There I made a second pilgrimage to the famous shrine, and prostrated myself ful
 
 I entrained happily an hour later for Calcutta. My travels ended, not in the lofty mountains, but in the Himalayan presence of my Master.
 
+
+### Footnotes
+
 13-1: Hand-played drums, used only for devotional music.
 
 13-2: One is reminded here of Dostoevski’s observation: “A man who bows down to nothing can never bear the burden of himself.”
 
 13-3: See chapter 35.
-
-
