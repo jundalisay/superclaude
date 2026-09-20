@@ -42,26 +42,35 @@ No one would:
 
 But they pity them instead. 
 
-We do not chastise the ugly, or the diminutive, or the feeble because we know that good and evil of this kind is the work of nature and of chance.
+We do not chastise the ugly, the diminutive, or the feeble because we know that good and evil of this kind is the work of nature and of chance.
 
 Whereas if a man lacks the good qualities which are attained by study, exercise, and teaching, he will have only the contrary evil qualities.
 
-Other men will be angry with him, and punish and reprove him—of these evil qualities one is impiety, another injustice. These are generally the very opposite of political virtue. 
+Other men will be angry with him, and punish and reprove him. Of these evil qualities, one is impiety, another injustice. These are generally the very opposite of political virtue. 
 
+In such cases, any man will be angry with another, and reprimand him because he thinks that by study, that virtue may be acquired.
 
-In such cases, any man will be angry with another, and reprimand him,—clearly because he thinks that by study and learning, the virtue in which the other is deficient may be acquired.
+If you look at the nature of punishment, you will see how mankind thinks that virtue may be acquired.
 
-If you will think, Socrates, of the nature of punishment, you will see at once that in the opinion of mankind virtue may be acquired; no one punishes the evil-doer under the notion, or for the reason, that he has done wrong,—only the unreasonable fury of a beast acts in that manner.
+No one punishes the evil-doer because he has done wrong. Only the unreasonable fury of a beast acts in that way.
 
-But he who desires to inflict rational punishment does not retaliate for a past wrong which cannot be undone; he has regard to the future, and is desirous that the man who is punished, and he who sees him punished, may be deterred from doing wrong again. He punishes for the sake of prevention, thereby clearly implying that virtue is capable of being taught. This is the notion of all who retaliate upon others either privately or publicly.
+But he who wants to inflict rational punishment does not retaliate for a past wrong which cannot be undone.
 
-The Athenians, too, your own citizens, like other men, punish and take vengeance on all whom they regard as evil doers; and hence, we may infer them to be of the number of those who think that virtue may be acquired and taught.
+He:
+- has regard to the future
+- wants that the man who is punished, and he who sees him punished, may be deterred from doing wrong again
 
-Thus, Socrates, your countrymen are right in admitting the tinker and the cobbler to advise about politics, and also that they deem virtue to be capable of being taught and acquired.
+He punishes for the sake of prevention, thereby clearly implying that virtue is capable of being taught. This is the notion of all who retaliate upon others either privately or publicly.
 
-There yet remains one difficulty which has been raised by you about the sons of good men. What is the reason why good men teach their sons the knowledge which is gained from teachers, and make them wise in that, but do nothing towards improving them in the virtues which distinguish themselves? 
+The Athenians, like other men, punish and take vengeance on all whom they regard as evil doers. Hence, they are part of those people who think that virtue may be acquired and taught.
 
-Here, Socrates, I will leave the apologue and resume the argument. Please to consider: Is there or is there not some one quality of which all the citizens must be partakers, if there is to be a city at all? In the answer to this question is contained the only solution of your difficulty; there is no other.
+Thus, Socrates, your countrymen are right in admitting:
+- the tinker and the cobbler to advise about politics
+- that virtue can be taught and acquired
+
+But why do good men teach their sons the knowledge gained from teachers, and make them wise in that, but do nothing towards improving them in the virtues which distinguish themselves? 
+
+Is there or is there not some one quality of which all the citizens must be partakers, if there is to be a city at all? In the answer to this question is contained the only solution of your difficulty; there is no other.
 
 For if there be any such quality, and this quality or unity is not the art of the carpenter, or the smith, or the potter, but justice and temperance and holiness and, in a word, manly virtue—if this is the quality of which all men must be partakers, and which is the very condition of their learning or doing anything else, and if he who is wanting in this, whether he be a child only or a grown-up man or woman, must be taught and punished, until by punishment he becomes better, and he who rebels against instruction and punishment is either exiled or condemned to death under the idea that he is incurable—if what I am saying be true, good men have their sons taught other things and not this, do consider how extraordinary their conduct would appear to be.
 
