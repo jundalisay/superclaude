@@ -1,9 +1,9 @@
 ---
 heading: "Section 2"
-title: "The 8 Perception Densities"
+title: "Qualities of the Perception Densities"
 date: 2024-12-28
 weight: 4
-image: /graphics/meta/mirror.jpg
+image: /graphics/super/densities.jpg
 description: ""
 writer:
   name: Juan

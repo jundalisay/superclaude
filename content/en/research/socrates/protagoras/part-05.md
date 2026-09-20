@@ -1,31 +1,55 @@
 ---
-title: "The Beginning"
-heading: "Part 4"
+title: "Honesty"
+heading: "Part 5"
 weight: 12
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 c: "steelblue"
-description: "Once upon a time there were gods only, and no mortal creatures"
+description: ""
 icon: "Socrates"
 ---
 
 
-You may not suppose yourself to be deceived in thinking that all men regard every man as having a share of justice or honesty and of every other political virtue, let me give you a further proof, which is this. 
 
-In other cases, as you are aware, if a man says that he is a good flute-player, or skilful in any other art in which he has no skill, people either laugh at him or are angry with him, and his relations think that he is mad and go and admonish him; but when honesty is in question, or some other political virtue, even if they know that he is dishonest, yet, if the man comes publicly forward and tells the truth about his dishonesty, then, what in the other case was held by them to be good sense, they now deem to be madness.
+I believe that all men regard every man as being honest and having every other political virtue. 
 
-They say that all men ought to profess honesty whether they are honest or not, and that a man is out of his mind who says anything else.
+ <!-- let me give you a further proof, which is this.  -->
 
-Their notion is, that a man must have some degree of honesty; and that if he has none at all he ought not to be in the world.
+If a man says that he is a good flute-player when he is really not, people either laugh at him or get angry with him. His relations think that he is mad and so admonish him.
 
-They are right in admitting every man as a counsellor about this sort of virtue, as they are of opinion that every man is a partaker of it. 
+But when honesty is in question, or some other political virtue, even if they know that he is dishonest, yet, if the man comes publicly forward and tells the truth about his dishonesty, then, what in the other case was held by them to be good sense, they now deem to be madness.
 
-They do not conceive this virtue to be given by nature, or to grow spontaneously, but to be a thing which may be taught; and which comes to a man by taking pains.
+People say that:
+- all men should be honest whether they are honest or not
+- a man is out of his mind if he says otherwise
 
-No one would instruct, no one would rebuke, or be angry with those whose calamities they suppose to be due to nature or chance; they do not try to punish or to prevent them from being what they are; they do but pity them. 
+People believe that a man must have some honesty. Those without honesty should not to be in the world.
 
-Who is so foolish as to chastise or instruct the ugly, or the diminutive, or the feeble? And for this reason. Because he knows that good and evil of this kind is the work of nature and of chance; whereas if a man is wanting in those good qualities which are attained by study and exercise and teaching, and has only the contrary evil qualities, other men are angry with him, and punish and reprove him—of these evil qualities one is impiety, another injustice, and they may be described generally as the very opposite of political virtue. In such cases any man will be angry with another, and reprimand him,—clearly because he thinks that by study and learning, the virtue in which the other is deficient may be acquired.
+I think that people are right in saying that every man is a counsellor regarding honesty. 
+
+<!-- about this sort of virtue, as they are of opinion that every man is a partaker of it.  -->
+
+But people:
+- do not think that honesty is a natural or spontaneous virtue
+- think that honesty:
+  - may be taught
+  - comes to a man by taking pains
+
+No one would:
+- instruct or rebuke or be angry with those whose calamities are from nature or chance.
+- punish or to prevent them from being what they are
+
+But they pity them instead. 
+
+We do not chastise the ugly, or the diminutive, or the feeble because we know that good and evil of this kind is the work of nature and of chance.
+
+Whereas if a man lacks the good qualities which are attained by study, exercise, and teaching, he will have only the contrary evil qualities.
+
+Other men will be angry with him, and punish and reprove him—of these evil qualities one is impiety, another injustice. These are generally the very opposite of political virtue. 
+
+
+In such cases, any man will be angry with another, and reprimand him,—clearly because he thinks that by study and learning, the virtue in which the other is deficient may be acquired.
 
 If you will think, Socrates, of the nature of punishment, you will see at once that in the opinion of mankind virtue may be acquired; no one punishes the evil-doer under the notion, or for the reason, that he has done wrong,—only the unreasonable fury of a beast acts in that manner.
 

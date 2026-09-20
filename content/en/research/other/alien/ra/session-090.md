@@ -10,15 +10,13 @@ tags: ['archetype']
 ---
 
 
-
 June 19, 1982
 
+{{< r a="Don Elkins" >}}What is the situation of our 4th Density and 5th Density companions at this time?{{< /r >}}
 
-{{< r a="Don Elkins" >}}What is the situation of our 4D and 5D companions at this time?{{< /r >}}
+{{< l a="Ra" >}}The 4th Density league of companions accompanies your group. The 5th Density friend, at this space/time nexus, works within its own density exclusively.{{< /l >}}
 
-{{< l a="Ra" >}}The 4D league of companions accompanies your group. The 5D friend, at this space/time nexus, works within its own density exclusively.{{< /l >}}
-
-{{< r a="Don Elkins" >}}How do these 4D entities get from their origin to our position?{{< /r >}}
+{{< r a="Don Elkins" >}}How do these 4th Density entities get from their origin to our position?{{< /r >}}
 
 {{< l a="Ra" >}}When a negative distortion is effected, this calling occurs.
 
@@ -34,35 +32,40 @@ The temptations are offered by those negative entities of what you would call yo
 
 These dark angels have been impressed by the service-to-self path offered by those which have come through quarantine from days of old and these entities, much like your angelic presences of the positive nature, are ready to move in thought within the inner planes of this planetary influence working from time/space to space/time.
 
-The mechanism of the 5D entity is from density to density and is magical in nature.
+The mechanism of the 5th Density entity is from density to density and is magical in nature.
 
-4D, of itself, cannot build the highway into the energy web. However, it can use that which has been left intact.
+4th Density, of itself, cannot build the highway into the energy web. However, it can use that which has been left intact.
 
-These entities are the Orion entities of 4D.{{< /l >}}
+These entities are the Orion entities of 4th Density.{{< /l >}}
 
-{{< r a="Don Elkins" >}}5D entities resemble those of us in 3D on Earth. But 4D does not. Why not?{{< /r >}}
+{{< r a="Don Elkins" >}}5th Density entities resemble those of us in 3D on Earth. But 4th Density does not. Why not?{{< /r >}}
 
 {{< l a="Ra" >}}The description must be bated under the Law of Confusion.
 
 The cause for a variety of physical vehicles is the remaining variety of heritages from 2D physical vehicular forms.
 
-Physical evolution continues to hold sway into 4D.
+Physical evolution continues to hold sway into 4th Density.
 
 Only when the ways of wisdom have begun to refine the power of what you may loosely call thought is the form of the physical complex manifestation more nearly under the direction of the consciousness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, If the population of this planet presently looks similar to the fifth-density entities I was wondering why this is?
+{{< r a="Don Elkins" >}}
+Well, If the population of this planet presently looks similar to the fifth-density entities I was wondering why this is?
 
-Evolution would normally be 3D resembling that its 2D version and then refining in 4D then 5D, becoming what the population of this planet looks like on 3D.
+Evolution would normally be 3D resembling that its 2D version and then refining in 4th Density then 5th Density, becoming what the population of this planet looks like on 3D.
 
-Why is Earth ahead of itself in the way the mind/body/spirit complex, or body complex of that, looks?{{< /r >}}
+Why is Earth ahead of itself in the way the mind/body/spirit complex, or body complex of that, looks?
+{{< /r >}}
 
-{{< l a="Ra" >}}Your query is based upon a misconception.
 
-In 5D the physical complex is more and more under the control of the conscious mind complex.
+{{< l a="Ra" >}}
+Your query is based upon a misconception.
 
-Therefore, the 5D entity may dissolve one manifestation and create another.
+In 5th Density the physical complex is more and more under the control of the conscious mind complex.
 
-Consequently, the choice of a 5D entity or complex of entities wishing to communicate with your peoples would choose to resemble your peoples’ physical-complex, chemical, yellow-ray vehicles.{{< /l >}}
+Therefore, the 5th Density entity may dissolve one manifestation and create another.
+
+Consequently, the choice of a 5th Density entity or complex of entities wishing to communicate with your peoples would choose to resemble your peoples’ physical-complex, chemical, yellow-ray vehicles.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 If you were to move a 3rd density entity from some other planet to this planet, roughly what percentage of all of those within the knowledge of Ra would look enough like those entities of Earth so that they would go unnoticed in a crowd?

@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "The 8 Dimensions"
 date: 2022-06-22
 image: "/graphics/physics/aetherspaceall.jpg"
-description: ""
+description: "The physical dimensions are mathematical whereas the metaphysical dimensions are qualitative. This is addressed by our Qualimath"
 weight: 3
 writer:
   name: Juan
@@ -11,6 +11,10 @@ writer:
 icon: "Superphysics"
 ---
 
+
+
+
+The 8 Dimensions are the effect of the different Perception Densities. The physical dimensions are mathematical whereas the metaphysical dimensions are qualitative. This is addressed by our Qualimath.
 
 
 ## 1: Exsistential 

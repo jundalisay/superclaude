@@ -12,7 +12,9 @@ icon: "Juan"
 ---
 
 
+
 ## 4th Density 
+
 
 <!-- This is pure identity, experienced as 1st and 2nd dimensions. This has linear self-time as the 2nd dimension. -->
 
@@ -22,11 +24,13 @@ icon: "Juan"
 
 ## 6th Density 
 
+This is multidimensionality as different universes
 
 ## 7th Density 
 
+This is the unity of multidimensionality as the multiverse
 
-## 8th Density 
+## 8th Density or Octave
 
 
 
